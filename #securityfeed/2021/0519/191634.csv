@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p826-8vhq-h439] Insecure temporary directory usage in frontend build functionality of Vaadin 14 and 15-19,https://github.com/advisories/GHSA-p826-8vhq-h439,https://j.mp/3nRymWu
+GithubAdvisories,[GHSA-vx3p-948g-6vhq] Regular Expression Denial of Service (ReDoS),https://github.com/advisories/GHSA-vx3p-948g-6vhq,https://j.mp/3eXRTly
+GithubAdvisories,[GHSA-7wpw-2hjm-89gp] Prototype Pollution in merge,https://github.com/advisories/GHSA-7wpw-2hjm-89gp,https://j.mp/3ujlUkF
