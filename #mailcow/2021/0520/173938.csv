@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommit,"[Web] Important: Do not allow API actions with r/o session key, THANK…",https://github.com/mailcow/mailcow-dockerized/commit/99ab945ae21848b99dc32f3797babbf3f8c09606,https://j.mp/3oxRE3q
+GithubCommit,Merge branch 'master' of github.com:mailcow/mailcow-dockerized,https://github.com/mailcow/mailcow-dockerized/commit/a885dab0d33fb20381ffaefe6cf0fa39eb595a3e,https://j.mp/341aAyd
+GithubCommit,[Web] Add quota bcc lang strings (wip),https://github.com/mailcow/mailcow-dockerized/commit/70d258924445fca7521a2cd1ed03461d99a735b0,https://j.mp/3u5Zrqy
