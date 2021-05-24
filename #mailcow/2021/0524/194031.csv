@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubCommit,[Rspamd] Add 00 abuse domains (wip!),https://github.com/mailcow/mailcow-dockerized/commit/56a085b6324ea48f192c7152dc01605403965075,https://j.mp/3viYVH6
+GithubCommit,[Rspamd] Add new bad header map,https://github.com/mailcow/mailcow-dockerized/commit/b8f7b00fffbfc7dd670321debb79e01a529815c3,https://j.mp/2Sm4Cp1
+GithubCommit,[Dovecot] Minor: Fix EHLO name,https://github.com/mailcow/mailcow-dockerized/commit/676ce199f3f482fd71b0b3401e541637d6d3eb48,https://j.mp/3hVYI93
+GithubCommit,[Rspamd] Fix bad header rule,https://github.com/mailcow/mailcow-dockerized/commit/2e87f6ac2d9a1e63408f1d939be0212546eda511,https://j.mp/2Spp7RT
+GithubCommit,[Rspamd] Create bad header map,https://github.com/mailcow/mailcow-dockerized/commit/f81483d3126884d5ccf01b285754483021dbabb9,https://j.mp/3ulMAR4
+GithubCommit,[Rspamd] Create bad header map,https://github.com/mailcow/mailcow-dockerized/commit/cf9d3e00c8146c87d412b681ead1e5f293334f66,https://j.mp/2QNyslT
+GithubCommit,[Web] Small UI fixes,https://github.com/mailcow/mailcow-dockerized/commit/bbb1d7aa39d612c428d02c2d51b948d1368d8224,https://j.mp/3hUEzzZ
+GithubCommit,Merge branch 'master' of github.com:mailcow/mailcow-dockerized,https://github.com/mailcow/mailcow-dockerized/commit/233179daf1c767cc852f45467e78814e831bf2dd,https://j.mp/3vcLXup
+GithubCommit,[Web] Fix admin ui html label references (#4105),https://github.com/mailcow/mailcow-dockerized/commit/d99b6897e01c87f6ec9c03eb3d75075213152360,https://j.mp/3fmawzL
+GithubCommit,[Compose] Update Dovecot image,https://github.com/mailcow/mailcow-dockerized/commit/de7a4e75225cf9a052ac6f5950e772219856c28a,https://j.mp/2Rzb8c9
+GithubCommit,[Web] Update libs,https://github.com/mailcow/mailcow-dockerized/commit/8779a1a87300c4138adc304b0ec1ba7dda1b17da,https://j.mp/2QNF6Zv
+GithubCommit,[Web] Feature: Allow copies of quota notifications to be sent via SMT…,https://github.com/mailcow/mailcow-dockerized/commit/e6d5516c7f0c441b00de7e5236d89ad18c976191,https://j.mp/2QM7H19
+GithubCommit,[Dovecot] Quota notifications: Allow to send to external address (BCC…,https://github.com/mailcow/mailcow-dockerized/commit/beda649ecfaa0af0b21d873f4f24f06b0e7eedd6,https://j.mp/3hQnBCT
+GithubCommit,"[Web] Bye Glyphicons, hello BS5 icons\!; [Web] Change font to Noto fo…",https://github.com/mailcow/mailcow-dockerized/commit/9c075af2d93dbaec98bf6769c07da3a4587baf14,https://j.mp/3fFP4nV
