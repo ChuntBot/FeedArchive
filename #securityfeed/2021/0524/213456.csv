@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jff3-mwp3-f8cw] Exposure of Sensitive Information to an Unauthorized Actor in Products.GenericSetup,https://github.com/advisories/GHSA-jff3-mwp3-f8cw,https://j.mp/3v3N6EW
+GithubAdvisories,[GHSA-p75f-g7gx-2r7p] Exposure of Sensitive Information to an Unauthorized Actor in Products.PluggableAuthService ZODBRoleManager,https://github.com/advisories/GHSA-p75f-g7gx-2r7p,https://j.mp/2OApSWk
