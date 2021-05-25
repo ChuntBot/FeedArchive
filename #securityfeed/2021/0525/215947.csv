@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-344f-f5vg-2jfj] Potential remote code execution in Apache Tomcat,https://github.com/advisories/GHSA-344f-f5vg-2jfj,https://j.mp/3cRNrBh
+GithubAdvisories,[GHSA-pgww-xf46-h92r] XSS in lxml,https://github.com/advisories/GHSA-pgww-xf46-h92r,https://j.mp/2JTfoiG
+GithubAdvisories,[GHSA-jq4v-f5q6-mjqq] Cross-Site Scripting in lxml,https://github.com/advisories/GHSA-jq4v-f5q6-mjqq,https://j.mp/2NH7HhB
