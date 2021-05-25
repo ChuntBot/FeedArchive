@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5phf-pp7p-vc2r] Using default SSLContext for HTTPS requests in an HTTPS proxy doesn't verify certificate hostname for proxy connection,https://github.com/advisories/GHSA-5phf-pp7p-vc2r,https://j.mp/3s5Ckfl
