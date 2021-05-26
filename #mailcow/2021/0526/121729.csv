@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommit,[Postfix] Allow to set and override a relayhost per mailbox,https://github.com/mailcow/mailcow-dockerized/commit/5065667ae467261d6a2336ec01faf9d26998044c,https://j.mp/2RPYw09
+GithubCommit,[Web] Fix created date for temp aliases in Safari,https://github.com/mailcow/mailcow-dockerized/commit/82f7df9165170c72caa6b6475f9add0d9b5264bf,https://j.mp/3fLx1gm
