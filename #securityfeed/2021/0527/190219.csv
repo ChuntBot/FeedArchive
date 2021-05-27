@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-59qg-grp7-5r73] Weave Net clusters susceptible to MitM attacks via IPv6 rogue router advertisements,https://github.com/advisories/GHSA-59qg-grp7-5r73,https://j.mp/3fO3LFG
+GithubAdvisories,[GHSA-q8q8-93cv-v6h8] Lookup function information discolosure in helm,https://github.com/advisories/GHSA-q8q8-93cv-v6h8,https://j.mp/3fr9S3Z
+GithubAdvisories,[GHSA-v24h-pjjv-mcp6] Denial of service in Tendermint,https://github.com/advisories/GHSA-v24h-pjjv-mcp6,https://j.mp/3fOFUFN
+GithubAdvisories,[GHSA-3p3g-vpw6-4w66] Authentication Bypass in hydra,https://github.com/advisories/GHSA-3p3g-vpw6-4w66,https://j.mp/34oKvti
+GithubAdvisories,[GHSA-fh74-hm69-rqjw] procfs race condition with a shared volume mount,https://github.com/advisories/GHSA-fh74-hm69-rqjw,https://j.mp/3wR4Rrl
+GithubAdvisories,[GHSA-qmfx-75ff-8mw6] Listing of upload directory contents possible,https://github.com/advisories/GHSA-qmfx-75ff-8mw6,https://j.mp/3oZIQDY
+GithubAdvisories,[GHSA-27g8-r9vw-765x] Private Field data leak,https://github.com/advisories/GHSA-27g8-r9vw-765x,https://j.mp/3yIK0rP
+GithubAdvisories,[GHSA-434h-p4gx-jm89] Observable Response Discrepancy in Flask-AppBuilder,https://github.com/advisories/GHSA-434h-p4gx-jm89,https://j.mp/3uyykoo
