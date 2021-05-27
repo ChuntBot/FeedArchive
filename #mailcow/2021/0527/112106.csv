@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommit,Merge branch 'master' of github.com:mailcow/mailcow-dockerized,https://github.com/mailcow/mailcow-dockerized/commit/f54ab6f8670204380abe671b932ab7b10f808640,https://j.mp/2SzDC5n
+GithubCommit,[Rspamd] Replace 00 bad domains by bad regex map (wip),https://github.com/mailcow/mailcow-dockerized/commit/fe483d882dde976ba8c17663fe33f0e43285b271,https://j.mp/3uoxxpF
+GithubCommit,[Rspamd] Replace 00 bad domains by bad regex map (wip),https://github.com/mailcow/mailcow-dockerized/commit/4ede07854d8b3b51a6f506389256ee84c7a79168,https://j.mp/3wI8hfX
+GithubCommit,[Rspamd] Replace 00 bad domains by bad regex map (wip),https://github.com/mailcow/mailcow-dockerized/commit/4b28dbbabc69cc80d830668c0023b541ee8f36f5,https://j.mp/3fTdElH
+GithubCommit,[Web] Increase font size to 10.5pt,https://github.com/mailcow/mailcow-dockerized/commit/174038ae37448bc6600b3f9eae30b9bd80d75e80,https://j.mp/3vsdrfK
