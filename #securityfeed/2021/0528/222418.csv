@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-18221 (typora),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-18221,https://j.mp/3wDGmgY
+NVD-NIST,CVE-2020-22033 (ffmpeg),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-22033,https://j.mp/2R5ILC6
+NVD-NIST,CVE-2020-22034 (ffmpeg),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-22034,https://j.mp/34t8JCA
+NVD-NIST,"CVE-2020-25672 (fedora, linux_kernel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25672,https://j.mp/3uqS2SV
+NVD-NIST,"CVE-2020-4839 (8335-gca_firmware, 8335-gta_firmware, 8335-gtb_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-4839,https://j.mp/34vwpGt
+NVD-NIST,CVE-2021-21659 (urltrigger),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21659,https://j.mp/3p0HWXx
+NVD-NIST,CVE-2021-24301 (hotjar_connecticator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24301,https://j.mp/3oYCx3e
+NVD-NIST,CVE-2021-24302 (hana_flv_player),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24302,https://j.mp/34wxdus
+NVD-NIST,CVE-2021-24305 (watcheezy),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24305,https://j.mp/3oZTiv2
+NVD-NIST,CVE-2021-24332 (autoptimize),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24332,https://j.mp/3uwDRvp
+NVD-NIST,CVE-2021-25944 (deep-defaults),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25944,https://j.mp/3oZTiew
+NVD-NIST,CVE-2021-25946 (nconf-toml),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25946,https://j.mp/3oZTiLy
+NVD-NIST,CVE-2021-27823 (netwave_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27823,https://j.mp/3i24aa8
