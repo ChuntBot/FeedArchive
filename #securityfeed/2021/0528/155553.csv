@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6h7w-fc84-x7p6] StaticFile.fromUrl can leak presence of a directory,https://github.com/advisories/GHSA-6h7w-fc84-x7p6,https://j.mp/3wEuvzh
+GithubAdvisories,[GHSA-jcgr-9698-82jx] Improper Neutralization of Special Elements used in a Command ('Command Injection') in @floffah/build,https://github.com/advisories/GHSA-jcgr-9698-82jx,https://j.mp/2Th2cZc
