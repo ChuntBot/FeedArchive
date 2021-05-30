@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,Write-up: runc mount destinations can be swapped via symlink-exchange to cause mounts outside the rootfs (CVE-2021-30465),https://redd.it/nogh31,
