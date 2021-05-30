@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommit,Merge pull request #4114 from geektoor/fix-spf-check,https://github.com/mailcow/mailcow-dockerized/commit/a6e694bd98736795bacd20e37b8553de008479b6,https://j.mp/2R4by9Z
+GithubCommit,[Web] Fix: spf record validation failed with redirect,https://github.com/mailcow/mailcow-dockerized/commit/b39ac8f649d95e8ca23e88ef216cd72a245dcc2b,https://j.mp/2RNRsBv
