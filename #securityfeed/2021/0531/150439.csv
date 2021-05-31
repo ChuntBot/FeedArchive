@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Red Hat Security Advisory 2021-2147-01,https://packetstormsecurity.com/files/162869/RHSA-2021-2147-01.txt,https://j.mp/3uGPRuh
+PacketstormSecurity,IPS Community Suite 4.5.4.2 PHP Code Injection,https://packetstormsecurity.com/files/162868/KIS-2021-04.txt,https://j.mp/3fDzzhu
+PacketstormSecurity,Backdoor.Win32.WinShell.a Code Execution,https://packetstormsecurity.com/files/162867/MVID-2021-0233.txt,https://j.mp/2RdhjCw
+PacketstormSecurity,Ubuntu OverlayFS Local Privilege Escalation,https://packetstormsecurity.com/files/162866/CVE-2021-3493.tgz,https://j.mp/2RPSPzB
+PacketstormSecurity,Red Hat Security Advisory 2021-2145-01,https://packetstormsecurity.com/files/162865/RHSA-2021-2145-01.txt,https://j.mp/3i5oveR
+PacketstormSecurity,PHP 8.1.0-dev Backdoor Remote Command Execution,https://packetstormsecurity.com/files/162864/php810dev-shell.txt,https://j.mp/3wIX5Q2
+PacketstormSecurity,Backdoor.Win32.Whirlpool.a Buffer Overflow,https://packetstormsecurity.com/files/162863/MVID-2021-0232.txt,https://j.mp/3p4gM2f
+PacketstormSecurity,Backdoor.Win32.NetControl2.293 Code Execution,https://packetstormsecurity.com/files/162862/MVID-2021-0231.txt,https://j.mp/2SKcgKc
+PacketstormSecurity,Red Hat Security Advisory 2021-2144-01,https://packetstormsecurity.com/files/162861/RHSA-2021-2144-01.txt,https://j.mp/3g15c3A
+PacketstormSecurity,Backdoor.Win32.Netbus.12 Information Disclosure,https://packetstormsecurity.com/files/162860/MVID-2021-0230.txt,https://j.mp/3i6ySPM
+PacketstormSecurity,Backdoor.Win32.NerTe.772 Code Execution,https://packetstormsecurity.com/files/162859/MVID-2021-0229.txt,https://j.mp/3i21Ujn
+PacketstormSecurity,Backdoor.Win32.NerTe.772 Authentication Bypass / Code Execution,https://packetstormsecurity.com/files/162858/MVID-2021-0228.txt,https://j.mp/2SE23Pk
+PacketstormSecurity,Trojan.Win32.Scar.dulk Insecure Permissions,https://packetstormsecurity.com/files/162857/MVID-2021-0227.txt,https://j.mp/3uBPfGo
