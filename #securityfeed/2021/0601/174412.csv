@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f38p-c2gq-4pmr] Regular Expression Denial-of-Service in npm schema-inspector,https://github.com/advisories/GHSA-f38p-c2gq-4pmr,https://j.mp/3s5O2Xo
+GithubAdvisories,[GHSA-4c7m-wxvm-r7gc] Improper parsing of octal bytes,https://github.com/advisories/GHSA-4c7m-wxvm-r7gc,https://j.mp/3g6NPQN
+GithubAdvisories,[GHSA-244r-fcj3-ghjq] Exposure of class information in RESTEasy,https://github.com/advisories/GHSA-244r-fcj3-ghjq,https://j.mp/3uBgRvV
+GithubAdvisories,[GHSA-8cr8-4vfw-mr7h] Round-trip instability in REXML,https://github.com/advisories/GHSA-8cr8-4vfw-mr7h,https://j.mp/3h4TPKr
