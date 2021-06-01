@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ggjr-2f7v-vhq4] Authentication Bypass in Kiali,https://github.com/advisories/GHSA-ggjr-2f7v-vhq4,https://j.mp/3vN0s8w
+GithubAdvisories,[GHSA-h39g-q63v-4h9p] Vulnerability in hyperkitty,https://github.com/advisories/GHSA-h39g-q63v-4h9p,https://j.mp/3yRaLua
+GithubAdvisories,[GHSA-3cv4-xxv7-934q] Improper Verification of Cryptographic Signature in Apache Pulsar,https://github.com/advisories/GHSA-3cv4-xxv7-934q,https://j.mp/3i8T5nS
+GithubAdvisories,[GHSA-wv5p-gmmv-wh9v] Insertion of Sensitive Information into Log File in ansible,https://github.com/advisories/GHSA-wv5p-gmmv-wh9v,https://j.mp/2ToFeiT
