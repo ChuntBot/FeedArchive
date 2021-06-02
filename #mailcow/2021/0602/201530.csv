@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommit,[GH-Actions][scale] Use ascending mode + increase operations-per-run,https://github.com/mailcow/mailcow-dockerized/commit/c9ce83fa978df474e71338e7bd71100f15771659,https://j.mp/3wRmKGf
+GithubCommit,[GH-Actions][scale] Allow to run it manually,https://github.com/mailcow/mailcow-dockerized/commit/0f49600023b560ea31ff9de21ebc32770765dbd3,https://j.mp/34EuGyL
+GithubCommit,[GH-Actions][scale] Disable dry-run,https://github.com/mailcow/mailcow-dockerized/commit/15e6ae8720cde6e2934e9dffaf6714f284a74ab3,https://j.mp/34EuxLJ
+GithubCommit,[GH-Actions][scale] Restrict permissions,https://github.com/mailcow/mailcow-dockerized/commit/52308d55993518b17129da546ee8a9e768afe8d4,https://j.mp/3g3c9kX
