@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-35504 (fedora, qemu)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35504,https://j.mp/3pfEqsD
+NVD-NIST,CVE-2021-20195 (keycloak),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20195,https://j.mp/2SReGGG
+NVD-NIST,"CVE-2021-20201 (enterprise_linux, spice)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20201,https://j.mp/3i8n5jP
+NVD-NIST,"CVE-2021-20236 (ceph_storage, enterprise_linux, fedora, zeromq)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20236,https://j.mp/3g8jqjv
+NVD-NIST,"CVE-2021-20239 (enterprise_linux, fedora, linux_kernel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20239,https://j.mp/3g6CvlN
+NVD-NIST,"CVE-2021-20240 (fedora, gdk-pixbuf)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20240,https://j.mp/3c9QGWo
+NVD-NIST,CVE-2021-20278 (kiali),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20278,https://j.mp/3fKMVJ0
+NVD-NIST,"CVE-2021-20292 (enterprise_linux, fedora, linux_kernel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20292,https://j.mp/3g4bxeH
