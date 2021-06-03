@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubCommit,[Web] Minor icon change,https://github.com/mailcow/mailcow-dockerized/commit/fc93c5e2a8d11d58bcd407b392045e2bdb643bff,https://j.mp/3wRy0Cp
+GithubCommit,Merge branch 'master' of github.com:mailcow/mailcow-dockerized,https://github.com/mailcow/mailcow-dockerized/commit/aebb527b05e3996e1b8841998f3cb9ac1afc1c12,https://j.mp/2RXML8h
+GithubCommit,[Rspamd] rename symbol from bad_regex to bad_subject,https://github.com/mailcow/mailcow-dockerized/commit/b6b64f947063a0ba17774c3a5cde226020768bd8,https://j.mp/3yWl8wT
+GithubCommit,[Rspamd] Create BCC plugin,https://github.com/mailcow/mailcow-dockerized/commit/c8955284a2159f529ae108eb70ce1f9b3bbf061a,https://j.mp/2RfzCH0
+GithubCommit,[Web] Allow to select aliases for BCC,https://github.com/mailcow/mailcow-dockerized/commit/735bcb2f55e93c0025697850635128e178958c5a,https://j.mp/3wU4ImI
+GithubCommit,[Postfix] Add listener for BCC sender used by meta_exporter in Rspamd,https://github.com/mailcow/mailcow-dockerized/commit/1bad74101f779986b792ce7743632e434f9ecd79,https://j.mp/3vMi3h1
+GithubCommit,[Web] Improve alias domain table,https://github.com/mailcow/mailcow-dockerized/commit/839e9bd91cd178ca0d2977291473fb218741c48a,https://j.mp/3uLEYre
