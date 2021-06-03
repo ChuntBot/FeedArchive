@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jpcq-cgw6-v4j6] Potential XSS vulnerability in jQuery,https://github.com/advisories/GHSA-jpcq-cgw6-v4j6,https://j.mp/3cYRr2j
+GithubAdvisories,[GHSA-gxr4-xjj5-5px2] Potential XSS vulnerability in jQuery,https://github.com/advisories/GHSA-gxr4-xjj5-5px2,https://j.mp/3c1ir1j
+GithubAdvisories,[GHSA-p44j-xrqg-4xrr] URL Redirection to Untrusted Site ('Open Redirect') in Products.PluggableAuthService,https://github.com/advisories/GHSA-p44j-xrqg-4xrr,https://j.mp/3c7SdeE
