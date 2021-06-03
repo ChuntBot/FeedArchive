@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hr32-mgpm-qf2f] Generation of Error Message Containing Sensitive Information in RESTEasy client,https://github.com/advisories/GHSA-hr32-mgpm-qf2f,https://j.mp/3vRoY8n
+GithubAdvisories,[GHSA-7r82-7xv7-xcpj] Cross-site scripting in Apache HttpClient,https://github.com/advisories/GHSA-7r82-7xv7-xcpj,https://j.mp/34MRKes
