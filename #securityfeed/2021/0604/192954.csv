@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gg96-f8wr-p89f] Script injection,https://github.com/advisories/GHSA-gg96-f8wr-p89f,https://j.mp/3fTCfHW
+GithubAdvisories,[GHSA-pwhf-39xg-4rxw] Script injection,https://github.com/advisories/GHSA-pwhf-39xg-4rxw,https://j.mp/3fPHeti
+GithubAdvisories,[GHSA-jr3j-whm4-9wwm] Reflected XSS when using flashMessages or languageDictionary,https://github.com/advisories/GHSA-jr3j-whm4-9wwm,https://j.mp/34M5FBN
+GithubAdvisories,[GHSA-pgf8-28gg-vpr6] Path traversal,https://github.com/advisories/GHSA-pgf8-28gg-vpr6,https://j.mp/3wX7zLF
