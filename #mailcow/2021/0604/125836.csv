@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommit,[Dovecot] Feature: Move authentication to LUA and prepare for http ba…,https://github.com/mailcow/mailcow-dockerized/commit/6d22ae8d020ad6cea9d3cefc0d83fb2068eef612,https://j.mp/3fSrlT8
+GithubCommit,[Postfix] Remove smtpd_last_auth service; replaced by SASL logging in…,https://github.com/mailcow/mailcow-dockerized/commit/51e3521aac1333972091e1886a1ce2c7fce7cf6f,https://j.mp/34K3Hlc
+GithubCommit,[Web] Show users the last known connections for SASL authentication,https://github.com/mailcow/mailcow-dockerized/commit/2d55b54904c5111180910e95620445a931f26710,https://j.mp/2TICCN6
+GithubCommit,[Compose] Update Dovecot and Postfix images,https://github.com/mailcow/mailcow-dockerized/commit/7f70feafb3a9f2720271b34d13ee82b789d244c0,https://j.mp/3z5UW34
