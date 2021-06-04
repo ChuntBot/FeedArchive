@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fvx8-v524-8579] Cleartext Storage of Sensitive Information,https://github.com/advisories/GHSA-fvx8-v524-8579,https://j.mp/3uNku1v
+GithubAdvisories,[GHSA-rvwf-54qp-4r6v] XML Entity Expansion,https://github.com/advisories/GHSA-rvwf-54qp-4r6v,https://j.mp/3ijgCmg
+GithubAdvisories,[GHSA-rmrm-75hp-phr2] Improper Input Validation in Hibernate Validator,https://github.com/advisories/GHSA-rmrm-75hp-phr2,https://j.mp/3z7ivIO
