@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Wordpress Plugin wpDiscuz 7.0.4 - Arbitrary File Upload (Unauthenticated),https://www.exploit-db.com/exploits/49962,https://j.mp/3v20R5I
+ExploitDB,[webapps] Grav CMS 1.7.10 - Server-Side Template Injection (SSTI) (Authenticated),https://www.exploit-db.com/exploits/49961,https://j.mp/3puzu2Y
+ExploitDB,[webapps] Rocket.Chat 3.12.1 - NoSQL Injection to RCE (Unauthenticated),https://www.exploit-db.com/exploits/49960,https://j.mp/3x2IZcy
+ExploitDB,[local] IcoFX 2.6 - '.ico' Buffer Overflow SEH + DEP Bypass using JOP,https://www.exploit-db.com/exploits/49959,https://j.mp/2S9qnZE
+ExploitDB,[webapps] WordPress Plugin Smart Slider-3 3.5.0.8 - 'name' Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/49958,https://j.mp/2RvFzQr
