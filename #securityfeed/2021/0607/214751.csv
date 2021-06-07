@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xw7c-jx9m-xh5g] Reflected cross-site scripting issue in Datasette,https://github.com/advisories/GHSA-xw7c-jx9m-xh5g,https://j.mp/3v2CMf0
