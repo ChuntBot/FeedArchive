@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7p7h-4mm5-852v] Regular Expression Denial of Service in trim-newlines,https://github.com/advisories/GHSA-7p7h-4mm5-852v,https://j.mp/3v0Bz84
+GithubAdvisories,[GHSA-hx7j-43w2-7rj7] Prototype pollution in nconf-toml,https://github.com/advisories/GHSA-hx7j-43w2-7rj7,https://j.mp/3uYZYuU
+GithubAdvisories,[GHSA-q8pj-2vqx-8ggc] Denial of service in css-what,https://github.com/advisories/GHSA-q8pj-2vqx-8ggc,https://j.mp/3gfq7QP
+GithubAdvisories,[GHSA-c56f-grv3-gpfr] Regular expression denial of service in forms,https://github.com/advisories/GHSA-c56f-grv3-gpfr,https://j.mp/3g09o59
+GithubAdvisories,[GHSA-r6rj-9ch6-g264] Prototype pollution in Merge-deep,https://github.com/advisories/GHSA-r6rj-9ch6-g264,https://j.mp/3uV2imA
+GithubAdvisories,[GHSA-ww39-953v-wcq6] Regular expression denial of service,https://github.com/advisories/GHSA-ww39-953v-wcq6,https://j.mp/2T2Xgam
+GithubAdvisories,[GHSA-m7rg-8wvq-846v] Prototype pollution,https://github.com/advisories/GHSA-m7rg-8wvq-846v,https://j.mp/2SjQ0qD
+GithubAdvisories,[GHSA-5qjq-69w6-fg57] XSS vulnerability with translator,https://github.com/advisories/GHSA-5qjq-69w6-fg57,https://j.mp/3v46BvM
