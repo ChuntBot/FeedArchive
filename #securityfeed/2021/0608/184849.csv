@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jxcc-g75x-qgw9] Arbitrary File Write via Archive Extraction (Zip Slip),https://github.com/advisories/GHSA-jxcc-g75x-qgw9,https://j.mp/3w7hONo
+GithubAdvisories,[GHSA-49q3-8867-5wmp] Remote Command Execution in reg-keygen-git-hash-plugin,https://github.com/advisories/GHSA-49q3-8867-5wmp,https://j.mp/3zc7rdq
+GithubAdvisories,[GHSA-rpcg-f9q6-2mq6] Remote Code Execution via traversal in TAL expressions,https://github.com/advisories/GHSA-rpcg-f9q6-2mq6,https://j.mp/2RB6aLZ
