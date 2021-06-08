@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g8r4-p96j-xfxc] Twig allowing dangerous PHP functions by default in getgrav/grav,https://github.com/advisories/GHSA-g8r4-p96j-xfxc,https://j.mp/32nHM2e
