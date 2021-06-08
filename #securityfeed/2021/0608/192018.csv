@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p9cf-qjxq-vxw6] Privilege Context Switching Error in wildlfy,https://github.com/advisories/GHSA-p9cf-qjxq-vxw6,https://j.mp/3v436pa
+GithubAdvisories,[GHSA-38j9-7pp9-2hjw] Invalid session token expiration,https://github.com/advisories/GHSA-38j9-7pp9-2hjw,https://j.mp/34YgKzN
+GithubAdvisories,[GHSA-q5hq-fp76-qmrc] Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-q5hq-fp76-qmrc,https://j.mp/3v2K16P
+GithubAdvisories,[GHSA-rwv7-3v45-hg29] Out-of-bounds Read,https://github.com/advisories/GHSA-rwv7-3v45-hg29,https://j.mp/3pzdunQ
+GithubAdvisories,[GHSA-hjfx-8p6c-g7gx] Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-hjfx-8p6c-g7gx,https://j.mp/34WFB70
+GithubAdvisories,[GHSA-g6rj-rv7j-xwp4] Denial of service,https://github.com/advisories/GHSA-g6rj-rv7j-xwp4,https://j.mp/3ctD7kx
+GithubAdvisories,[GHSA-77gc-v2xv-rvvh] Out-of-bounds Read,https://github.com/advisories/GHSA-77gc-v2xv-rvvh,https://j.mp/34XyXNT
+GithubAdvisories,[GHSA-7r7m-5h27-29hp] Potential infinite loop,https://github.com/advisories/GHSA-7r7m-5h27-29hp,https://j.mp/2TR59A9
