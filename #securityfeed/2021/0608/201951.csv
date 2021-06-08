@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r5mf-q76q-f2xq] Cross-site scripting in Centreon,https://github.com/advisories/GHSA-r5mf-q76q-f2xq,https://j.mp/3pwJybU
+GithubAdvisories,[GHSA-7rg4-266c-jqw6] Predictable CSRF tokens in centreon/centreon,https://github.com/advisories/GHSA-7rg4-266c-jqw6,https://j.mp/3w9nyGK
+GithubAdvisories,[GHSA-gc45-j3m5-8qfq] Server-Side Request Forgery in Feehi CMS,https://github.com/advisories/GHSA-gc45-j3m5-8qfq,https://j.mp/3v4Wp6v
+GithubAdvisories,[GHSA-5v5h-4w2g-gxxc] SQL Injection in t3/dce,https://github.com/advisories/GHSA-5v5h-4w2g-gxxc,https://j.mp/3gi8P5l
+GithubAdvisories,[GHSA-gxcm-36qw-j29v] SQL Injection in tribalsystems/zenario,https://github.com/advisories/GHSA-gxcm-36qw-j29v,https://j.mp/3v1zWad
+GithubAdvisories,[GHSA-xpxm-pf7g-2534] Cross-site scripting in media2click,https://github.com/advisories/GHSA-xpxm-pf7g-2534,https://j.mp/3w0bszv
+GithubAdvisories,[GHSA-8hcm-jj4x-4gmr] Cross-site scripting in tribalsystems/zenario,https://github.com/advisories/GHSA-8hcm-jj4x-4gmr,https://j.mp/3v2Zeor
+GithubAdvisories,[GHSA-xx8f-qf9f-5fgw] Remote code execution in zendframework and laminas-http,https://github.com/advisories/GHSA-xx8f-qf9f-5fgw,https://j.mp/350D9fD
+GithubAdvisories,[GHSA-v9w8-hq92-v39m] Cross-site Scripting (XSS) in baserCMS,https://github.com/advisories/GHSA-v9w8-hq92-v39m,https://j.mp/3ctZUNb
+GithubAdvisories,[GHSA-g39q-f4rm-85x4] OS Command Injection in baserCMS,https://github.com/advisories/GHSA-g39q-f4rm-85x4,https://j.mp/3g5ZEGc
+GithubAdvisories,[GHSA-24p5-x9f9-vvpx] Cross-site Scripting in baserCMS,https://github.com/advisories/GHSA-24p5-x9f9-vvpx,https://j.mp/3pzXcv5
+GithubAdvisories,[GHSA-mv55-23xp-3wp8] Access control flaw in Kiali,https://github.com/advisories/GHSA-mv55-23xp-3wp8,https://j.mp/3pAXG48
