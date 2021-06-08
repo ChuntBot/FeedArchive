@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9699-gm7f-cmjv] Unsynchronized Access to Shared Data in a Multithreaded Context in RESTEasy,https://github.com/advisories/GHSA-9699-gm7f-cmjv,https://j.mp/2Ta2jpF
+GithubAdvisories,[GHSA-c738-77x8-wmq5] Uncontrolled Resource Consumption in XNIO,https://github.com/advisories/GHSA-c738-77x8-wmq5,https://j.mp/3g4iKNd
