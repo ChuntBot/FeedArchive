@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fj67-w3m4-rfmp] Cross-site scripting in Plone,https://github.com/advisories/GHSA-fj67-w3m4-rfmp,https://j.mp/352nCfu
+GithubAdvisories,[GHSA-rfhr-62xp-2fp2] Open Redirect in trailing-slash,https://github.com/advisories/GHSA-rfhr-62xp-2fp2,https://j.mp/3geTO4m
+GithubAdvisories,[GHSA-mh82-55cm-6gfh] Prototype pollution vulnerability in js-extend,https://github.com/advisories/GHSA-mh82-55cm-6gfh,https://j.mp/3x8QY7W
+GithubAdvisories,[GHSA-fg5w-w99f-rj6w] Command Injection in @ronomon/opened,https://github.com/advisories/GHSA-fg5w-w99f-rj6w,https://j.mp/2Sc2G2V
+GithubAdvisories,[GHSA-px4h-xg32-q955] ReDoS in normalize-url,https://github.com/advisories/GHSA-px4h-xg32-q955,https://j.mp/3pH90f2
+GithubAdvisories,[GHSA-rcp4-jm2v-mr3f] Cross-site scripting in Shopizer,https://github.com/advisories/GHSA-rcp4-jm2v-mr3f,https://j.mp/3cpFK7a
+GithubAdvisories,[GHSA-378p-hrq3-x4p3] Cross-site scripting in Shopizer,https://github.com/advisories/GHSA-378p-hrq3-x4p3,https://j.mp/3x6zo4j
+GithubAdvisories,[GHSA-57v4-m9jx-mh8r] Improper Input Validation,https://github.com/advisories/GHSA-57v4-m9jx-mh8r,https://j.mp/3g6sNRX
+GithubAdvisories,[GHSA-q6w2-89hq-hq27] Cross-site scripting in keycloak,https://github.com/advisories/GHSA-q6w2-89hq-hq27,https://j.mp/3zaotsd
