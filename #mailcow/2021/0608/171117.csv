@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommit,[Compose] Update Dovecot and Postfix,https://github.com/mailcow/mailcow-dockerized/commit/6083b1c0370af9c34da06580750a998476d44916,https://j.mp/3w7kNpb
+GithubCommit,"[Postfix] Remove broken SASL access map, moved to Dovecot LUA authent…",https://github.com/mailcow/mailcow-dockerized/commit/68f9ca8cb0a40d3502597c5a9a7dce5437b2ec80,https://j.mp/3x1gHyQ
+GithubCommit,[Dovecot] Move mailboxes to separate config file; remove postlogin sc…,https://github.com/mailcow/mailcow-dockerized/commit/3ffd39dae5c68c057e241437540bc21441b53e69,https://j.mp/3g8BPxT
+GithubCommit,"[Dovecot] Check protocol access in LUA API, remove postlogin script",https://github.com/mailcow/mailcow-dockerized/commit/f7bbbde8c95568699c01b8385a4baa946be3ee06,https://j.mp/3v8xH4R
+GithubCommit,"[Web] Replace country flags, improve flags for last logins, add info …",https://github.com/mailcow/mailcow-dockerized/commit/da20d5dc38ef79ca87179080323491a50e9eb222,https://j.mp/35dORnv
