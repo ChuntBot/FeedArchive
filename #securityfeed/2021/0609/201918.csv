@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2ppp-9496-p23q] Insufficient Entropy in Spring Security,https://github.com/advisories/GHSA-2ppp-9496-p23q,https://j.mp/2UM5t0t
+GithubAdvisories,[GHSA-v33x-prhc-gph5] Insufficiently Protected Credentials and Improper Authentication in Spring Security,https://github.com/advisories/GHSA-v33x-prhc-gph5,https://j.mp/3xwY6Mb
+GithubAdvisories,[GHSA-v2r2-7qm7-jj6v] Moderate severity vulnerability that affects org.springframework.security:spring-security-core,https://github.com/advisories/GHSA-v2r2-7qm7-jj6v,https://j.mp/3nDXWg0
