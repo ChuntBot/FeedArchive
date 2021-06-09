@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommit,"[Web] Show users last PW change, allow to select n days for last logins",https://github.com/mailcow/mailcow-dockerized/commit/47b57df3a2ada6cd3d8549ac2610bf823ca64663,https://j.mp/2THfbUf
+GithubCommit,[Doveceot] Fix forced PW update,https://github.com/mailcow/mailcow-dockerized/commit/a6edb75e8847c4e9b53cee3daecc1c4552be5b03,https://j.mp/3cpsWgL
+GithubCommit,[Compose] Update Dovecot image,https://github.com/mailcow/mailcow-dockerized/commit/4fb4160119c9a692e2abd1bea6e53a5a3fa1b682,https://j.mp/3g4Qvht
+GithubCommit,[Doveceot] Fix forced PW update,https://github.com/mailcow/mailcow-dockerized/commit/38aee89a675878c59704a852ea7c4f266b852223,https://j.mp/3gkLlg3
+GithubCommit,Merge branch 'master' of github.com:mailcow/mailcow-dockerized,https://github.com/mailcow/mailcow-dockerized/commit/a01ba7efa3cd9827158f714214141b2c118e882d,https://j.mp/3iFLX2P
