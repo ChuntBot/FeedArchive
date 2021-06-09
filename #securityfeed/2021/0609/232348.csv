@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2pqj-h3vj-pqgw] Cross-Site Scripting in jquery,https://github.com/advisories/GHSA-2pqj-h3vj-pqgw,https://j.mp/3lykDT3
+GithubAdvisories,[GHSA-x7gm-rfgv-w973] Potential DoS with NumberFilter conversion to integer values,https://github.com/advisories/GHSA-x7gm-rfgv-w973,https://j.mp/36d7Obl
+GithubAdvisories,[GHSA-p694-23q3-rvrc] Remote Code Execution in Apache Synapse,https://github.com/advisories/GHSA-p694-23q3-rvrc,https://j.mp/3mQVgeN
+GithubAdvisories,[GHSA-mvr2-9pj6-7w5j] Denial of Service in Google Guava,https://github.com/advisories/GHSA-mvr2-9pj6-7w5j,https://j.mp/3fsHyLI
+GithubAdvisories,[GHSA-45xm-v8gq-7jqx] Low severity vulnerability that affects io.vertx:vertx-core,https://github.com/advisories/GHSA-45xm-v8gq-7jqx,https://j.mp/2LsWrUt
+GithubAdvisories,[GHSA-ffvq-7w96-97p7] Denial of Service in Spring Framework,https://github.com/advisories/GHSA-ffvq-7w96-97p7,https://j.mp/2CbGNrZ
+GithubAdvisories,[GHSA-p5hg-3xm3-gcjg] High severity vulnerability that affects org.springframework:spring-core,https://github.com/advisories/GHSA-p5hg-3xm3-gcjg,https://j.mp/2XkmcJg
+GithubAdvisories,[GHSA-pch5-whg9-qr2r] netmask npm package vulnerable to octal input data,https://github.com/advisories/GHSA-pch5-whg9-qr2r,https://j.mp/31tD7em
+GithubAdvisories,[GHSA-72rj-36qc-47g7] Information Disclosure,https://github.com/advisories/GHSA-72rj-36qc-47g7,https://j.mp/3xrgTZt
