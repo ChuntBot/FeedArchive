@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mm44-wc5p-wqhq] Denial of service due to reference expansion in versions earlier than 4.0,https://github.com/advisories/GHSA-mm44-wc5p-wqhq,https://j.mp/2Z4SVEc
