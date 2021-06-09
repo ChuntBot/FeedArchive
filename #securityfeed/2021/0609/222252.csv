@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pw4v-gr34-2553] Denial of service (via resource exhaustion) due to improper input validation,https://github.com/advisories/GHSA-pw4v-gr34-2553,https://j.mp/3ahmAPv
