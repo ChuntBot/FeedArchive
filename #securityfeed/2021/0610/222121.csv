@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mwcv-m549-5cm8] Hijacked Environment Variables in node-tkinter,https://github.com/advisories/GHSA-mwcv-m549-5cm8,https://j.mp/3gKW95d
+GithubAdvisories,[GHSA-p5wr-vp8g-q5p4] Moderate severity vulnerability that affects Plone,https://github.com/advisories/GHSA-p5wr-vp8g-q5p4,https://j.mp/3v83bbn
+GithubAdvisories,[GHSA-mx9v-gmh4-mgqw] High severity vulnerability that affects com.fasterxml.jackson.core:jackson-databind,https://github.com/advisories/GHSA-mx9v-gmh4-mgqw,https://j.mp/3xgHibh
+GithubAdvisories,[GHSA-p692-7mm3-3fxg] Moderate severity vulnerability that affects actionpack,https://github.com/advisories/GHSA-p692-7mm3-3fxg,https://j.mp/3zljdBY
+GithubAdvisories,[GHSA-p8xr-4v2c-rvgp] High severity vulnerability that affects org.apache.hbase:hbase,https://github.com/advisories/GHSA-p8xr-4v2c-rvgp,https://j.mp/3gpXgZZ
+GithubAdvisories,[GHSA-p7h9-vf92-5fj5] Moderate severity vulnerability that affects Products.CMFPlone and Products.PasswordResetTool,https://github.com/advisories/GHSA-p7h9-vf92-5fj5,https://j.mp/3vmlA4F
+GithubAdvisories,[GHSA-pffw-p2q5-w6vh] Moderate severity vulnerability that affects org.apache.jspwiki:jspwiki-builder and org.apache.jspwiki:jspwiki-war,https://github.com/advisories/GHSA-pffw-p2q5-w6vh,https://j.mp/3izsyQH
+GithubAdvisories,[GHSA-pr3r-4wrp-r2pv] Moderate severity vulnerability that affects activerecord,https://github.com/advisories/GHSA-pr3r-4wrp-r2pv,https://j.mp/3v7hlcU
