@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-39q4-p535-c852] Uncontrolled Resource Consumption in locutus,https://github.com/advisories/GHSA-39q4-p535-c852,https://j.mp/3vdyUrE
+GithubAdvisories,[GHSA-rmw5-xpg9-jr29] Use of Cryptographically Weak Pseudo-Random Number Generator in Rclone,https://github.com/advisories/GHSA-rmw5-xpg9-jr29,https://j.mp/3pIh0fS
+GithubAdvisories,[GHSA-gff3-739c-gxfq] Reflected cross-site scripting issue in Datasette,https://github.com/advisories/GHSA-gff3-739c-gxfq,https://j.mp/2SoIg6I
+GithubAdvisories,[GHSA-5vq5-pg3r-9ph3] Path Traversal in Zope,https://github.com/advisories/GHSA-5vq5-pg3r-9ph3,https://j.mp/3vblD38
+GithubAdvisories,[GHSA-mg2g-8pwj-r2j2] Authentication bypass in SilverStripe GraphQL,https://github.com/advisories/GHSA-mg2g-8pwj-r2j2,https://j.mp/2Ss5c55
+GithubAdvisories,[GHSA-p99v-5w3c-jqq9] Bypass of access control in Django,https://github.com/advisories/GHSA-p99v-5w3c-jqq9,https://j.mp/3iyezdW
+GithubAdvisories,[GHSA-68w8-qjq3-2gfm] Path Traversal in Django,https://github.com/advisories/GHSA-68w8-qjq3-2gfm,https://j.mp/3iyetD6
