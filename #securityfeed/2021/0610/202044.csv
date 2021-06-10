@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vgg8-72f2-qm23] Critical severity vulnerability that affects org.eclipse.jetty:jetty-server,https://github.com/advisories/GHSA-vgg8-72f2-qm23,https://j.mp/3gcCMVL
+GithubAdvisories,[GHSA-vx5c-87qx-cv6c] Arbitrary Code Execution in mathjs,https://github.com/advisories/GHSA-vx5c-87qx-cv6c,https://j.mp/2EUaMGo
+GithubAdvisories,[GHSA-vx85-mj8c-4qm6] Moderate severity vulnerability that affects org.apache.thrift:libthrift,https://github.com/advisories/GHSA-vx85-mj8c-4qm6,https://j.mp/3g9kkxh
+GithubAdvisories,[GHSA-vx9j-46rh-fqr8] Moderate severity vulnerability that affects actionview,https://github.com/advisories/GHSA-vx9j-46rh-fqr8,https://j.mp/354X6lE
+GithubAdvisories,[GHSA-w222-53c6-c86p] Remote Code Execution in electron,https://github.com/advisories/GHSA-w222-53c6-c86p,https://j.mp/2YRuzxk
+GithubAdvisories,[GHSA-wfcc-pff6-rgc5] Moderate severity vulnerability that affects org.eclipse.jetty:jetty-server,https://github.com/advisories/GHSA-wfcc-pff6-rgc5,https://j.mp/2Tnsbys
