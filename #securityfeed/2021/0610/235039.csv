@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cggj-fvv3-cqwv] High severity vulnerability that affects com.fasterxml.jackson.core:jackson-databind,https://github.com/advisories/GHSA-cggj-fvv3-cqwv,https://j.mp/2SsZ6kX
+GithubAdvisories,[GHSA-f6f2-pwrj-64h3] Moderate severity vulnerability that affects tryton,https://github.com/advisories/GHSA-f6f2-pwrj-64h3,https://j.mp/3gttAuY
+GithubAdvisories,[GHSA-f9hv-mg5h-xcw9] High severity vulnerability that affects com.fasterxml.jackson.core:jackson-databind,https://github.com/advisories/GHSA-f9hv-mg5h-xcw9,https://j.mp/3cyCPsB
+GithubAdvisories,[GHSA-ffpv-c4hm-3x6v] Moderate severity vulnerability that affects actionpack,https://github.com/advisories/GHSA-ffpv-c4hm-3x6v,https://j.mp/3iwt7Ll
+GithubAdvisories,[GHSA-fjqr-fx3f-g4rv] Moderate severity vulnerability that affects electron,https://github.com/advisories/GHSA-fjqr-fx3f-g4rv,https://j.mp/3goAt0P
+GithubAdvisories,[GHSA-fmpq-w5q6-9vf9] Moderate severity vulnerability that affects org.apache.jspwiki:jspwiki-main,https://github.com/advisories/GHSA-fmpq-w5q6-9vf9,https://j.mp/35cclZU
+GithubAdvisories,[GHSA-g95j-p8f6-pwh4] Downloads Resources over HTTP in headless-browser-lite,https://github.com/advisories/GHSA-g95j-p8f6-pwh4,https://j.mp/31L1Lbi
+GithubAdvisories,[GHSA-ghgj-3xqr-6jfm] Moderate severity vulnerability that affects org.eclipse.jetty:jetty-server,https://github.com/advisories/GHSA-ghgj-3xqr-6jfm,https://j.mp/3pGZhFq
+GithubAdvisories,[GHSA-gr4c-5rq6-cgh3] Low severity vulnerability that affects OPCFoundation.NetStandard.Opc.Ua,https://github.com/advisories/GHSA-gr4c-5rq6-cgh3,https://j.mp/3ziMkGo
+GithubAdvisories,[GHSA-h2f4-v4c4-6wx4] Moderate severity vulnerability that affects org.eclipse.jetty:jetty-server,https://github.com/advisories/GHSA-h2f4-v4c4-6wx4,https://j.mp/3xdTYzP
+GithubAdvisories,[GHSA-hv96-xxx2-5v7w] Downloads Resources over HTTP in nw,https://github.com/advisories/GHSA-hv96-xxx2-5v7w,https://j.mp/3gM4Wnq
+GithubAdvisories,[GHSA-hxm2-r34f-qmc5] Regular Expression Denial of Service in minimatch,https://github.com/advisories/GHSA-hxm2-r34f-qmc5,https://j.mp/2QIflWG
+GithubAdvisories,[GHSA-j77q-2qqg-6989] High severity vulnerability that affects org.apache.struts:struts2-core,https://github.com/advisories/GHSA-j77q-2qqg-6989,https://j.mp/3gtINwf
