@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x2w5-5m2g-7h5m] High severity vulnerability that affects com.fasterxml.jackson.core:jackson-databind,https://github.com/advisories/GHSA-x2w5-5m2g-7h5m,https://j.mp/3wgZzoX
+GithubAdvisories,[GHSA-x52f-h74p-9jh8] Hijacked Environment Variables in node-sqlite,https://github.com/advisories/GHSA-x52f-h74p-9jh8,https://j.mp/3hKxsr9
+GithubAdvisories,[GHSA-xjqg-9jvg-fgx2] High severity vulnerability that affects nokogiri,https://github.com/advisories/GHSA-xjqg-9jvg-fgx2,https://j.mp/2TjUFJ6
+GithubAdvisories,[GHSA-xqg8-cv3h-xppv] SQL Injection in sequelize,https://github.com/advisories/GHSA-xqg8-cv3h-xppv,https://j.mp/3gOxI70
