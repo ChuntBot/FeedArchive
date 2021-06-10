@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8h2j-cgx8-6xv7] Cross-Site Request Forgery (CSRF) in FastAPI,https://github.com/advisories/GHSA-8h2j-cgx8-6xv7,https://j.mp/3wp6nRH
+GithubAdvisories,[GHSA-gwcr-j4wh-j3cq] Jetty Utility Servlets ConcatServlet Double Decoding Information Disclosure Vulnerability,https://github.com/advisories/GHSA-gwcr-j4wh-j3cq,https://j.mp/3pRFLGx
