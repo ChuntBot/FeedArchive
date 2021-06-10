@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r86j-2gc6-2cq9] High severity vulnerability that affects org.apache.hbase:hbase-thrift,https://github.com/advisories/GHSA-r86j-2gc6-2cq9,https://j.mp/2TlBnTD
+GithubAdvisories,[GHSA-rprw-h62v-c2w7] High severity vulnerability that affects pyyaml,https://github.com/advisories/GHSA-rprw-h62v-c2w7,https://j.mp/3zcq157
+GithubAdvisories,[GHSA-rrpm-pj7p-7j9q] High severity vulnerability that affects org.springframework.security.oauth:spring-security-oauth2,https://github.com/advisories/GHSA-rrpm-pj7p-7j9q,https://j.mp/3g8w8Qm
