@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q43c-g2g7-6gxj] Cross-Site Request Forgery (CSRF) in keystone,https://github.com/advisories/GHSA-q43c-g2g7-6gxj,https://j.mp/3gREMA0
+GithubAdvisories,[GHSA-q6cw-2553-7837] Moderate severity vulnerability that affects newrelic_rpm,https://github.com/advisories/GHSA-q6cw-2553-7837,https://j.mp/3gdK63C
+GithubAdvisories,[GHSA-q7wx-62r7-j2x7] Moderate severity vulnerability that affects nokogiri,https://github.com/advisories/GHSA-q7wx-62r7-j2x7,https://j.mp/3g9tJ83
+GithubAdvisories,[GHSA-r2pp-x4mm-4999] Moderate severity vulnerability that affects org.neo4j.procedure:apoc,https://github.com/advisories/GHSA-r2pp-x4mm-4999,https://j.mp/3iyiqba
+GithubAdvisories,[GHSA-qxxx-2pp7-5hmx] High severity vulnerability that affects com.fasterxml.jackson.core:jackson-databind,https://github.com/advisories/GHSA-qxxx-2pp7-5hmx,https://j.mp/2Sq2Rrh
