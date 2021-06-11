@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9h6g-gp95-x3q5] Moderate severity vulnerability that affects actionpack,https://github.com/advisories/GHSA-9h6g-gp95-x3q5,https://j.mp/3it0Zsu
+GithubAdvisories,[GHSA-9mxf-g3x6-wv74] High severity vulnerability that affects com.fasterxml.jackson.core:jackson-databind,https://github.com/advisories/GHSA-9mxf-g3x6-wv74,https://j.mp/3pFnvjk
+GithubAdvisories,[GHSA-9rgv-h7x4-qw8g] Moderate severity vulnerability that affects org.eclipse.jetty:jetty-server,https://github.com/advisories/GHSA-9rgv-h7x4-qw8g,https://j.mp/35gfE29
+GithubAdvisories,[GHSA-c8hm-7hpq-7jhg] High severity vulnerability that affects com.fasterxml.jackson.core:jackson-databind,https://github.com/advisories/GHSA-c8hm-7hpq-7jhg,https://j.mp/35dEZty
