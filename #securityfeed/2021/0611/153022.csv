@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+PacketstormSecurity,tcpdump 4.99.1,https://packetstormsecurity.com/files/163099/tcpdump-4.99.1.tar.gz,https://j.mp/3vf3zoA
+PacketstormSecurity,libpcap 1.10.1,https://packetstormsecurity.com/files/163098/libpcap-1.10.1.tar.gz,https://j.mp/3iuyomC
+PacketstormSecurity,NetSetManPro 4.7.2 Privilege Escalation,https://packetstormsecurity.com/files/163097/secuvera-SA-2021-01.txt,https://j.mp/3cwfoQM
+PacketstormSecurity,nfstream 6.3.2,https://packetstormsecurity.com/files/163096/nfstream-6.3.2.tar.gz,https://j.mp/3wfxBtN
+PacketstormSecurity,GNU Privacy Guard 2.2.28,https://packetstormsecurity.com/files/163095/gnupg-2.2.28.tar.bz2,https://j.mp/3wfnTHH
+PacketstormSecurity,Accela Civic Platorm 21.1 Cross Site Scripting,https://packetstormsecurity.com/files/163093/accelacp211-xss.txt,https://j.mp/3gv0ICu
+PacketstormSecurity,Backdoor.Win32.Zombam.gen Buffer Overflow,https://packetstormsecurity.com/files/163092/MVID-2021-0245.txt,https://j.mp/3zehjDr
+PacketstormSecurity,WordPress Database Backups 1.2.2.6 Cross Site Request Forgery,https://packetstormsecurity.com/files/163091/wpdbb1226-xsrf.txt,https://j.mp/3vanftH
+PacketstormSecurity,Grocery Crud 1.6.4 SQL Injection,https://packetstormsecurity.com/files/163089/grocerycrud164-sql.txt,https://j.mp/2TZgUod
+PacketstormSecurity,OpenEMR 5.0.0 Remote Shell Upload,https://packetstormsecurity.com/files/163087/openemr500-shell.txt,https://j.mp/3zdm6F0
+PacketstormSecurity,Backdoor.Win32.Zombam.gen Code Execution,https://packetstormsecurity.com/files/163086/MVID-2021-0244.txt,https://j.mp/3pNVeaj
+PacketstormSecurity,Backdoor.Win32.Zombam.gen Cross Site Scripting,https://packetstormsecurity.com/files/163085/MVID-2021-0243.txt,https://j.mp/3zkvnLC
+PacketstormSecurity,WoWonder Social Network Platform 3.1 Authentication Bypass,https://packetstormsecurity.com/files/163084/wowondersnp31-bypass.txt,https://j.mp/3wjAWYE
+PacketstormSecurity,Zenario CMS 8.8.52729 SQL Injection,https://packetstormsecurity.com/files/163083/zenariocms8852729-sql.txt,https://j.mp/3cA3Fkp
+PacketstormSecurity,Red Hat Security Advisory 2021-2380-01,https://packetstormsecurity.com/files/163082/RHSA-2021-2380-01.txt,https://j.mp/3iz3fhL
+PacketstormSecurity,Cerberus FTP Web Service 11 Cross Site Scripting,https://packetstormsecurity.com/files/163081/cerberusftpws11-xss.txt,https://j.mp/3wfEqvx
+PacketstormSecurity,Microsoft SharePoint Server 16.0.10372.20060 Server-Side Request Forgery,https://packetstormsecurity.com/files/163080/mssharepoint16-ssrf.txt,https://j.mp/2RIWi2E
+PacketstormSecurity,Ability FTP Server 2.34 Denial Of Service,https://packetstormsecurity.com/files/163079/ability234-dos.txt,https://j.mp/3zjh75Q
+PacketstormSecurity,Solar-Log 500 2.8.2 Password Disclosure,https://packetstormsecurity.com/files/163078/solarlog500282-disclose.txt,https://j.mp/35al3I7
+PacketstormSecurity,Solar-Log 500 2.8.2 Incorrect Access Control,https://packetstormsecurity.com/files/163077/solarlog500282-incorrectaccess.txt,https://j.mp/3pKC31l
