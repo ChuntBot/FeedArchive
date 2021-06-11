@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Grocery crud 1.6.4 - 'order_by' SQL Injection,https://www.exploit-db.com/exploits/49985,https://j.mp/2To6L3V
+ExploitDB,[webapps] WordPress Plugin Database Backups 1.2.2.6 - 'Database Backup Download' CSRF,https://www.exploit-db.com/exploits/49984,https://j.mp/3wgKYtN
+ExploitDB,[webapps] OpenEMR 5.0.0 - Remote Code Execution (Authenticated),https://www.exploit-db.com/exploits/49983,https://j.mp/35hk1Kl
+ExploitDB,[webapps] Microsoft SharePoint Server 16.0.10372.20060 - 'GetXmlDataFromDataSource' Server-Side Request Forgery (SSRF),https://www.exploit-db.com/exploits/49982,https://j.mp/35bjdGY
+ExploitDB,[webapps] Cerberus FTP Web Service 11 - 'svg' Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/49981,https://j.mp/3gbHCm0
