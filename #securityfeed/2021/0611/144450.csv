@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xxgp-pcfc-3vgc] Privilege Escalation in Hibernate Validator,https://github.com/advisories/GHSA-xxgp-pcfc-3vgc,https://j.mp/2C1LTH5
+GithubAdvisories,[GHSA-3qpr-7rmg-73v8] Moderate severity vulnerability that affects Plone and Zope2,https://github.com/advisories/GHSA-3qpr-7rmg-73v8,https://j.mp/2TfCfJD
+GithubAdvisories,[GHSA-48vv-2pmq-9fvv] Moderate severity vulnerability that affects Plone and Zope2,https://github.com/advisories/GHSA-48vv-2pmq-9fvv,https://j.mp/3xdkqJL
+GithubAdvisories,[GHSA-4m9r-5gqp-7j82] High severity vulnerability that affects org.dspace:dspace-xmlui,https://github.com/advisories/GHSA-4m9r-5gqp-7j82,https://j.mp/3izx2a1
+GithubAdvisories,[GHSA-543v-gj2c-r3ch] Moderate severity vulnerability that affects activemodel,https://github.com/advisories/GHSA-543v-gj2c-r3ch,https://j.mp/3wgi50N
+GithubAdvisories,[GHSA-5p5w-j3g7-w4wv] Authentication bypass via incorrect XML canonicalization and DOM traversal in saml2-js,https://github.com/advisories/GHSA-5p5w-j3g7-w4wv,https://j.mp/2YQDXkE
+GithubAdvisories,[GHSA-6494-v9fq-fgq2] Moderate severity vulnerability that affects keystone,https://github.com/advisories/GHSA-6494-v9fq-fgq2,https://j.mp/3xexcrv
+GithubAdvisories,[GHSA-6q8q-rvf4-m4pg] Downloads Resources over HTTP in dalek-browser-chrome,https://github.com/advisories/GHSA-6q8q-rvf4-m4pg,https://j.mp/31IXoNX
+GithubAdvisories,[GHSA-6x9x-8qw9-9pp6] High severity vulnerability that affects org.eclipse.jetty:jetty-server,https://github.com/advisories/GHSA-6x9x-8qw9-9pp6,https://j.mp/3iwPUXd
+GithubAdvisories,[GHSA-72p5-2r6g-fm6v] Moderate severity vulnerability that affects total.js,https://github.com/advisories/GHSA-72p5-2r6g-fm6v,https://j.mp/3ziHAjS
