@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-974j-wjxx-wggj] Incorrect Access Control vulnerability in api-platform/core,https://github.com/advisories/GHSA-974j-wjxx-wggj,https://j.mp/35QG7TI
+GithubAdvisories,[GHSA-cjjf-94ff-43w7] High severity vulnerability that affects com.fasterxml.jackson.core:jackson-databind,https://github.com/advisories/GHSA-cjjf-94ff-43w7,https://j.mp/3gok8cw
+GithubAdvisories,[GHSA-645p-88qh-w398] High severity vulnerability that affects com.fasterxml.jackson.core:jackson-databind,https://github.com/advisories/GHSA-645p-88qh-w398,https://j.mp/35d1FKO
