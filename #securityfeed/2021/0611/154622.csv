@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4gq5-ch57-c2mg] High severity vulnerability that affects com.fasterxml.jackson.core:jackson-databind,https://github.com/advisories/GHSA-4gq5-ch57-c2mg,https://j.mp/3xjKza7
+GithubAdvisories,[GHSA-8w3j-g983-8jh5] Sensitive Data Exposure in parse-server,https://github.com/advisories/GHSA-8w3j-g983-8jh5,https://j.mp/2YMCcVy
+GithubAdvisories,[GHSA-hqf9-rc9j-5fmj] Moderate severity vulnerability that affects activerecord,https://github.com/advisories/GHSA-hqf9-rc9j-5fmj,https://j.mp/3pHEy4t
+GithubAdvisories,[GHSA-8336-mxp6-v5h9] Moderate severity vulnerability that affects OPCFoundation.NetStandard.Opc.Ua,https://github.com/advisories/GHSA-8336-mxp6-v5h9,https://j.mp/3iwqbOM
+GithubAdvisories,[GHSA-77hv-8796-8ccp] Moderate severity vulnerability that affects Plone and Zope2,https://github.com/advisories/GHSA-77hv-8796-8ccp,https://j.mp/2RMc1y7
+GithubAdvisories,[GHSA-86g5-2wh3-gc9j] Critical severity vulnerability that affects actionview,https://github.com/advisories/GHSA-86g5-2wh3-gc9j,https://j.mp/3gh4YXI
+GithubAdvisories,[GHSA-3hq4-f2v6-q338] Moderate severity vulnerability that affects Kotti,https://github.com/advisories/GHSA-3hq4-f2v6-q338,https://j.mp/3veMUlg
+GithubAdvisories,[GHSA-8xwg-wv7v-4vqp] Code Execution by Re-enabling Node.js integration in electron,https://github.com/advisories/GHSA-8xwg-wv7v-4vqp,https://j.mp/2EMvjwm
