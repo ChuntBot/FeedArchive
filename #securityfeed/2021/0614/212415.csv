@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2qrg-x229-3v8q] Deserialization of Untrusted Data in Log4j,https://github.com/advisories/GHSA-2qrg-x229-3v8q,https://j.mp/2tCS9RG
