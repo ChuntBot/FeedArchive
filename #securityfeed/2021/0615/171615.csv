@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mx7p-6679-8g3q] Polymorphic Typing in FasterXML jackson-databind,https://github.com/advisories/GHSA-mx7p-6679-8g3q,https://j.mp/32Zpu8R
+GithubAdvisories,[GHSA-hf23-9pf7-388p] Deserialization of Untrusted Data and Code Injection in xstream,https://github.com/advisories/GHSA-hf23-9pf7-388p,https://j.mp/3gEHDzH
+GithubAdvisories,[GHSA-qwwr-qc2p-6283] Out-of-bounds write in libpng,https://github.com/advisories/GHSA-qwwr-qc2p-6283,https://j.mp/394d7dX
+GithubAdvisories,[GHSA-6fpp-rgj9-8rwc] Deserialization of untrusted data in FasterXML jackson-databind,https://github.com/advisories/GHSA-6fpp-rgj9-8rwc,https://j.mp/32ZQODZ
+GithubAdvisories,[GHSA-jjpq-gp5q-8q6w] Cross-site scripting in Apache Tomcat,https://github.com/advisories/GHSA-jjpq-gp5q-8q6w,https://j.mp/3vmckxi
+GithubAdvisories,[GHSA-h9gj-rqrw-x4fq] Server Side Request Forgery in Apache Axis,https://github.com/advisories/GHSA-h9gj-rqrw-x4fq,https://j.mp/2CSIZW1
+GithubAdvisories,[GHSA-5ww9-j83m-q7qx] Information exposure in FasterXML jackson-databind,https://github.com/advisories/GHSA-5ww9-j83m-q7qx,https://j.mp/3hG00RZ
+GithubAdvisories,[GHSA-q4hg-rmq2-52q9] Improper Locking in Apache Tomcat,https://github.com/advisories/GHSA-q4hg-rmq2-52q9,https://j.mp/3wZPbTs
+GithubAdvisories,[GHSA-r28m-g6j9-r2h5] Information Exposure vulnerability in Eclipse Jetty,https://github.com/advisories/GHSA-r28m-g6j9-r2h5,https://j.mp/2Vd6Iq9
+GithubAdvisories,"[GHSA-6c3j-c64m-qhgq] XSS in jQuery as used in Drupal, Backdrop CMS, and other products",https://github.com/advisories/GHSA-6c3j-c64m-qhgq,https://j.mp/2X2WzMD
+GithubAdvisories,[GHSA-c9jj-3wvg-q65h] Vulnerability that affects org.apache.pdfbox:pdfbox,https://github.com/advisories/GHSA-c9jj-3wvg-q65h,https://j.mp/3gokUYa
+GithubAdvisories,[GHSA-8vmx-qmch-mpqg] High severity vulnerability that affects org.apache.tomcat.embed:tomcat-embed-core,https://github.com/advisories/GHSA-8vmx-qmch-mpqg,https://j.mp/3wsIng9
+GithubAdvisories,[GHSA-8222-6fc8-mhvf] Vulnerability that affects org.springframework.ws:spring-ws and org.springframework.ws:spring-xml,https://github.com/advisories/GHSA-8222-6fc8-mhvf,https://j.mp/2XlyPnh
+GithubAdvisories,[GHSA-6pcc-3rfx-4gpm] Moderate severity vulnerability that affects org.dom4j:dom4j,https://github.com/advisories/GHSA-6pcc-3rfx-4gpm,https://j.mp/3jtp54v
+GithubAdvisories,[GHSA-xqj7-j8j5-f2xr] Moderate severity vulnerability that affects org.bouncycastle:bcprov-jdk14 and org.bouncycastle:bcprov-jdk15,https://github.com/advisories/GHSA-xqj7-j8j5-f2xr,https://j.mp/3cKGt2H
