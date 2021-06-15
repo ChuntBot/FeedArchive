@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gc9g-67cq-p7v4] Server-Side Request Forgery in Plone,https://github.com/advisories/GHSA-gc9g-67cq-p7v4,https://j.mp/35C4NQF
+GithubAdvisories,[GHSA-4mg4-wvmx-5332] Server-Side Request Forgery in Plone,https://github.com/advisories/GHSA-4mg4-wvmx-5332,https://j.mp/3gsRCaY
+GithubAdvisories,[GHSA-hm2p-fhwx-9285] Incorrect Permission Assignment for Critical Resource in Plone,https://github.com/advisories/GHSA-hm2p-fhwx-9285,https://j.mp/3wukp4f
+GithubAdvisories,[GHSA-962m-m8jw-8wrr] Path Traversal in Zope,https://github.com/advisories/GHSA-962m-m8jw-8wrr,https://j.mp/3grLLTe
+GithubAdvisories,[GHSA-r6h7-5pq2-j77h] Insufficiently random values in Ansible,https://github.com/advisories/GHSA-r6h7-5pq2-j77h,https://j.mp/3q43qUc
+GithubAdvisories,[GHSA-f6mq-5m25-4r72] Improper Validation of Specified Type of Input,https://github.com/advisories/GHSA-f6mq-5m25-4r72,https://j.mp/2RVFsO6
+GithubAdvisories,[GHSA-29qj-rvv6-qrmv] Cross-site scripting in RESTEasy,https://github.com/advisories/GHSA-29qj-rvv6-qrmv,https://j.mp/35nevGf
+GithubAdvisories,[GHSA-5h26-c766-g93v] Cross-Site Scripting,https://github.com/advisories/GHSA-5h26-c766-g93v,https://j.mp/3wwHnrI
+GithubAdvisories,[GHSA-pjc4-3w99-j7v4] Open redirect,https://github.com/advisories/GHSA-pjc4-3w99-j7v4,https://j.mp/3wrr6UI
+GithubAdvisories,[GHSA-fg3j-q579-v8x4] Uncontrolled memory consumption,https://github.com/advisories/GHSA-fg3j-q579-v8x4,https://j.mp/3zCYha7
+GithubAdvisories,[GHSA-7grw-6pjh-jpc9] Infinite loop,https://github.com/advisories/GHSA-7grw-6pjh-jpc9,https://j.mp/3zrgya1
+GithubAdvisories,[GHSA-qm58-cvvm-c5qr] Unsafe upload filtering leading to remote code execution,https://github.com/advisories/GHSA-qm58-cvvm-c5qr,https://j.mp/3xpd4mQ
+GithubAdvisories,[GHSA-8wwf-2644-f8x4] Path traversal,https://github.com/advisories/GHSA-8wwf-2644-f8x4,https://j.mp/3pZFq4C
