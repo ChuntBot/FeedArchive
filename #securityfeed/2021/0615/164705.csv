@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9v3m-8fp8-mj99] Cross-Site Scripting in bootstrap,https://github.com/advisories/GHSA-9v3m-8fp8-mj99,https://j.mp/3hLfODz
+GithubAdvisories,[GHSA-hpcf-8vf9-q4gj] XSS in dialog closeText in jquery-ui,https://github.com/advisories/GHSA-hpcf-8vf9-q4gj,https://j.mp/2EU6K0I
+GithubAdvisories,[GHSA-q44v-xc3g-v7jq] Moderate severity vulnerability that affects org.owasp.antisamy:antisamy,https://github.com/advisories/GHSA-q44v-xc3g-v7jq,https://j.mp/3cL7GlT
+GithubAdvisories,[GHSA-96jq-75wh-2658] Moderate severity vulnerability that affects apache axis,https://github.com/advisories/GHSA-96jq-75wh-2658,https://j.mp/3nrF9pd
+GithubAdvisories,[GHSA-pj7m-g53m-7638] Moderate severity vulnerability that affects bootstrap,https://github.com/advisories/GHSA-pj7m-g53m-7638,https://j.mp/3cJleya
+GithubAdvisories,[GHSA-fxph-q3j8-mv87] Deserialization of Untrusted Data in Log4j,https://github.com/advisories/GHSA-fxph-q3j8-mv87,https://j.mp/36ueXS3
+GithubAdvisories,[GHSA-4446-656p-f54g] High severity vulnerability that affects org.bouncycastle:bcprov-jdk14 and org.bouncycastle:bcprov-jdk15,https://github.com/advisories/GHSA-4446-656p-f54g,https://j.mp/35q1vQ4
+GithubAdvisories,[GHSA-7mvr-5x2g-wfc8] Moderate severity vulnerability that affects bootstrap,https://github.com/advisories/GHSA-7mvr-5x2g-wfc8,https://j.mp/3gx69T3
+GithubAdvisories,[GHSA-523c-xh4g-mh5m] Denial of Service in Apache POI,https://github.com/advisories/GHSA-523c-xh4g-mh5m,https://j.mp/3oMayTw
