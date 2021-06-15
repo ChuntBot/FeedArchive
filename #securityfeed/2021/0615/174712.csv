@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h79p-32mx-fjj9] Apache Camel Netty enables Java deserialization by default,https://github.com/advisories/GHSA-h79p-32mx-fjj9,https://j.mp/2yoeEwn
+GithubAdvisories,[GHSA-4p6w-m9wc-c9c9] Sensitive Data Exposure in Apache Ant,https://github.com/advisories/GHSA-4p6w-m9wc-c9c9,https://j.mp/3ktsTT5
+GithubAdvisories,[GHSA-48rw-j489-928m] Signature wrapping vulnerability in Spring Security,https://github.com/advisories/GHSA-48rw-j489-928m,https://j.mp/3gZdPvq
+GithubAdvisories,[GHSA-hwj3-m3p6-hj38] dom4j allows External Entities by default which might enable XXE attacks,https://github.com/advisories/GHSA-hwj3-m3p6-hj38,https://j.mp/2MwtioF
+GithubAdvisories,[GHSA-mm9x-g8pc-w292] Denial of Service in Netty,https://github.com/advisories/GHSA-mm9x-g8pc-w292,https://j.mp/2UKC3QD
+GithubAdvisories,[GHSA-8wx2-9q48-vm9r] RFD attack via Content-Disposition header sourced from request input by Spring MVC or Spring WebFlux Application,https://github.com/advisories/GHSA-8wx2-9q48-vm9r,https://j.mp/2NOcaf3
+GithubAdvisories,[GHSA-f93p-f762-vr53] Reflected Cross-Site Scripting in Apache CXF,https://github.com/advisories/GHSA-f93p-f762-vr53,https://j.mp/2UtJkUQ
+GithubAdvisories,[GHSA-42f2-f9vc-6365] Private key leak in Apache CXF,https://github.com/advisories/GHSA-42f2-f9vc-6365,https://j.mp/2XlR4sv
+GithubAdvisories,[GHSA-6jmf-mxwf-r3jc] Exposure of Sensitive Information to an Unauthorized Actor in Apache Kafka,https://github.com/advisories/GHSA-6jmf-mxwf-r3jc,https://j.mp/2SUAheP
+GithubAdvisories,[GHSA-c6pw-q7f2-97hv] Privilege Escalation in cordova-plugin-inappbrowser,https://github.com/advisories/GHSA-c6pw-q7f2-97hv,https://j.mp/2Z5x1Aa
+GithubAdvisories,[GHSA-744r-vv2g-2x6g] Apache NiFi information disclosure by XXE,https://github.com/advisories/GHSA-744r-vv2g-2x6g,https://j.mp/3vta6vW
+GithubAdvisories,[GHSA-5h9j-q6j2-253f] Unescaped exception messages in error responses in Jetty,https://github.com/advisories/GHSA-5h9j-q6j2-253f,https://j.mp/35rOsxL
+GithubAdvisories,[GHSA-53x6-4x5p-rrvv] Denial of Service in Apache Commons Compress,https://github.com/advisories/GHSA-53x6-4x5p-rrvv,https://j.mp/303hth9
+GithubAdvisories,[GHSA-cw6w-q88j-6mqf] Potential session hijack in Apache CXF,https://github.com/advisories/GHSA-cw6w-q88j-6mqf,https://j.mp/2tBTecP
+GithubAdvisories,[GHSA-58p8-9g59-q2hr] Potential DOS attack due to unrestricted attachment count in messages,https://github.com/advisories/GHSA-58p8-9g59-q2hr,https://j.mp/3aF0WDC
+GithubAdvisories,[GHSA-6phf-73q6-gh87] Insecure Deserialization in Apache Commons Beanutils,https://github.com/advisories/GHSA-6phf-73q6-gh87,https://j.mp/37DYOuD
