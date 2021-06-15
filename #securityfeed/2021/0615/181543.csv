@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mc6h-4qgp-37qh] Deserialization of untrusted data in Jackson Databind,https://github.com/advisories/GHSA-mc6h-4qgp-37qh,https://j.mp/2YKYFBv
+GithubAdvisories,[GHSA-9vfj-5g7h-4p24] Server side template injection in Apache Camel,https://github.com/advisories/GHSA-9vfj-5g7h-4p24,https://j.mp/3102jsh
+GithubAdvisories,[GHSA-c265-37vj-cwcc] Deserialization of untrusted data in Jackson Databind,https://github.com/advisories/GHSA-c265-37vj-cwcc,https://j.mp/2Najktn
+GithubAdvisories,[GHSA-j823-4qch-3rgm] Deserialization of untrusted data in Jackson Databind,https://github.com/advisories/GHSA-j823-4qch-3rgm,https://j.mp/2Yex38V
+GithubAdvisories,[GHSA-c2q3-4qrh-fm48] Deserialization of untrusted data in Jackson Databind,https://github.com/advisories/GHSA-c2q3-4qrh-fm48,https://j.mp/37RmrAd
+GithubAdvisories,[GHSA-cc94-3v9c-7rm8] Apache ActiveMQ webconsole admin GUI is open to XSS,https://github.com/advisories/GHSA-cc94-3v9c-7rm8,https://j.mp/2LUcVBP
+GithubAdvisories,[GHSA-2cwj-8chv-9pp9] XML External Entity attack in log4net,https://github.com/advisories/GHSA-2cwj-8chv-9pp9,https://j.mp/2YqZMqf
