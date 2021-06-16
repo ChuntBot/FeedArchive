@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v528-7hrm-frqp] Improper Check for Unusual or Exceptional Conditions in json-smart,https://github.com/advisories/GHSA-v528-7hrm-frqp,https://j.mp/3iM63Zd
+GithubAdvisories,[GHSA-2h3j-m7gr-25xj] Excessive Iteration Denial of Service in Apache PDFBox,https://github.com/advisories/GHSA-2h3j-m7gr-25xj,https://j.mp/35ul5uw
+GithubAdvisories,[GHSA-q4hm-fwc9-hmv6] Insecure temporary file used in com.squareup:connect,https://github.com/advisories/GHSA-q4hm-fwc9-hmv6,https://j.mp/3wxisnM
+GithubAdvisories,[GHSA-jj4f-p7vv-j4v9] Arbitrary code execution in Apache Druid,https://github.com/advisories/GHSA-jj4f-p7vv-j4v9,https://j.mp/3gw97qQ
+GithubAdvisories,[GHSA-g4cp-h53p-v3v8] Improper Restriction of Operations within the Bounds of a Memory Buffer in Undertow,https://github.com/advisories/GHSA-g4cp-h53p-v3v8,https://j.mp/3ba5eF1
+GithubAdvisories,[GHSA-cccf-7xw3-p2vr] HTTP Request Smuggling in Undertow,https://github.com/advisories/GHSA-cccf-7xw3-p2vr,https://j.mp/330Cb20
+GithubAdvisories,[GHSA-p9w3-gwc2-cr49] HTTP Request Smuggling in Undertow,https://github.com/advisories/GHSA-p9w3-gwc2-cr49,https://j.mp/3gZaX3Q
+GithubAdvisories,[GHSA-qjwc-v72v-fq6r] HTTP request smuggling in Undertow,https://github.com/advisories/GHSA-qjwc-v72v-fq6r,https://j.mp/3zuqUpH
+GithubAdvisories,[GHSA-j39c-c8hj-x4j3] Exposure of Sensitive Information to an Unauthorized Actor in Apache Tomcat,https://github.com/advisories/GHSA-j39c-c8hj-x4j3,https://j.mp/3q1FUHt
+GithubAdvisories,[GHSA-px9f-597f-wmcf] Uncontrolled Resource Consumption in Apache OpenMeetings server,https://github.com/advisories/GHSA-px9f-597f-wmcf,https://j.mp/3pYFQIt
+GithubAdvisories,[GHSA-wrqf-rrrw-w3mg] Code injection in Apache Druid,https://github.com/advisories/GHSA-wrqf-rrrw-w3mg,https://j.mp/3gvwiBF
+GithubAdvisories,[GHSA-9mgm-gcq8-86wq] Improper Authentication in Apache ActiveMQ and Apache Artemis,https://github.com/advisories/GHSA-9mgm-gcq8-86wq,https://j.mp/3q7FK15
+GithubAdvisories,[GHSA-q7fr-vqhq-v5xr] Improper Access Control in Apache ActiveMQ Artemis,https://github.com/advisories/GHSA-q7fr-vqhq-v5xr,https://j.mp/3wwvp19
+GithubAdvisories,[GHSA-mw3r-pfmg-xp92] Improper Restriction of Recursive Entity References in Apache XMLBeans,https://github.com/advisories/GHSA-mw3r-pfmg-xp92,https://j.mp/3xmc42w
