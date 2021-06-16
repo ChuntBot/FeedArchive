@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] CKEditor 3 - Server-Side Request Forgery (SSRF),https://www.exploit-db.com/exploits/50021,https://j.mp/2Tz9vMe
+ExploitDB,[webapps] Teachers Record Management System 1.0 - 'email' Stored Cross-site Scripting (XSS),https://www.exploit-db.com/exploits/50019,https://j.mp/3gvudFS
+ExploitDB,[webapps] Teachers Record Management System 1.0 - 'Multiple' SQL Injection (Authenticated),https://www.exploit-db.com/exploits/50018,https://j.mp/3xjW2Gu
+ExploitDB,[webapps] OpenEMR 5.0.1.3 - '/portal/account/register.php' Authentication Bypass,https://www.exploit-db.com/exploits/50017,https://j.mp/3wq6YSZ
+ExploitDB,[webapps] Cotonti Siena 0.9.19 - 'maintitle' Stored Cross-Site Scripting,https://www.exploit-db.com/exploits/50016,https://j.mp/3gGQ4ZP
