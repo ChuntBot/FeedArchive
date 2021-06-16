@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mm8j-9x84-m9cv] Arbitrary code injection in json-sanitizer,https://github.com/advisories/GHSA-mm8j-9x84-m9cv,https://j.mp/2TD5XbE
+GithubAdvisories,[GHSA-mj8x-cpr8-x39h] Remote code execution in Apache Tapestry,https://github.com/advisories/GHSA-mj8x-cpr8-x39h,https://j.mp/3cJ35Az
+GithubAdvisories,[GHSA-2f88-5hg8-9x2x] Uncontrolled Search Path Element in Apache Maven,https://github.com/advisories/GHSA-2f88-5hg8-9x2x,https://j.mp/35pYjnR
+GithubAdvisories,[GHSA-gq67-pp9w-43gp] Cryptographically weak CSRF tokens in Apache MyFaces,https://github.com/advisories/GHSA-gq67-pp9w-43gp,https://j.mp/3ztobwK
+GithubAdvisories,[GHSA-4ffq-6g62-j4v4] Cross-Site Request Forgery in the Jenkins Claim plugin,https://github.com/advisories/GHSA-4ffq-6g62-j4v4,https://j.mp/3vxfC0w
+GithubAdvisories,[GHSA-h6qv-f5gf-8gcf] Missing Authorization in Jenkins P4 plugin,https://github.com/advisories/GHSA-h6qv-f5gf-8gcf,https://j.mp/3zpGdQq
+GithubAdvisories,[GHSA-5557-j87h-cvf4] Missing Authorization in jenkins xray-connector,https://github.com/advisories/GHSA-5557-j87h-cvf4,https://j.mp/3wrNygx
+GithubAdvisories,[GHSA-w5rh-j4g3-jr29] Missing Authorization in Jenkins S3 publisher Plugin,https://github.com/advisories/GHSA-w5rh-j4g3-jr29,https://j.mp/2TwOjX3
+GithubAdvisories,[GHSA-fvfc-8pqr-wjpv] Missing Authorization in Jenkins S3 publisher Plugin,https://github.com/advisories/GHSA-fvfc-8pqr-wjpv,https://j.mp/3cLQTiS
+GithubAdvisories,[GHSA-rrvg-2c69-p9rf] Cross-Site Request Forgery in Jenkins Xray,https://github.com/advisories/GHSA-rrvg-2c69-p9rf,https://j.mp/3cMC6Eh
+GithubAdvisories,[GHSA-jwhm-9cjm-4493] Cross-site Scripting in Jenkins Dashboard View Plugin,https://github.com/advisories/GHSA-jwhm-9cjm-4493,https://j.mp/3pYzPLT
+GithubAdvisories,[GHSA-gchq-9r68-6jwv] Cross-Site Request Forgery in Jenkins Credentials Plugin,https://github.com/advisories/GHSA-gchq-9r68-6jwv,https://j.mp/3q081GM
+GithubAdvisories,[GHSA-2x7v-w2mv-f3rx] Improper Authentication in Atlassian Connect Spring Boot,https://github.com/advisories/GHSA-2x7v-w2mv-f3rx,https://j.mp/3vxfCxy
+GithubAdvisories,[GHSA-67f6-c8mx-4q2m] Uncontrolled Resource Consumption in JPA Server in HAPI FHIR,https://github.com/advisories/GHSA-67f6-c8mx-4q2m,https://j.mp/3wJAjI0
+GithubAdvisories,[GHSA-p2rp-cmjq-r7wm] Shell command injection in Apache Syncope,https://github.com/advisories/GHSA-p2rp-cmjq-r7wm,https://j.mp/3iNxQbp
+GithubAdvisories,[GHSA-vjqw-r3ww-wj2w] Code Injection in Apache Syncope,https://github.com/advisories/GHSA-vjqw-r3ww-wj2w,https://j.mp/3pYRMK2
+GithubAdvisories,[GHSA-4w4p-xwrr-9crh] Injection in Apache Syncope,https://github.com/advisories/GHSA-4w4p-xwrr-9crh,https://j.mp/3pYHSs3
+GithubAdvisories,[GHSA-rm7f-mpcj-w4f6] Command injection in Apache Unomi,https://github.com/advisories/GHSA-rm7f-mpcj-w4f6,https://j.mp/2U7bCXH
+GithubAdvisories,[GHSA-xrg9-wwrq-xmx9] Missing Authorization,https://github.com/advisories/GHSA-xrg9-wwrq-xmx9,https://j.mp/3q0sDi2
+GithubAdvisories,[GHSA-8h77-3xwr-hqhh] Cross-site scripting in Jenkins Kiuwan Plugin,https://github.com/advisories/GHSA-8h77-3xwr-hqhh,https://j.mp/3iKDXxc
