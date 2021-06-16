@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mh33-7rrq-662w] Improper Certificate Validation,https://github.com/advisories/GHSA-mh33-7rrq-662w,https://j.mp/3cOAvOp
+GithubAdvisories,[GHSA-www2-v7xj-xrc6] High severity vulnerability that affects urllib3,https://github.com/advisories/GHSA-www2-v7xj-xrc6,https://j.mp/3zyZLlC
+GithubAdvisories,[GHSA-m5h6-hr3q-22h5] npm Token Leak in npm,https://github.com/advisories/GHSA-m5h6-hr3q-22h5,https://j.mp/2Gf7i1L
