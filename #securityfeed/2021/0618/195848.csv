@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qxg5-2qff-p49r] Passing in a non-string 'html' argument can lead to unsanitized output,https://github.com/advisories/GHSA-qxg5-2qff-p49r,https://j.mp/3iOi0gZ
