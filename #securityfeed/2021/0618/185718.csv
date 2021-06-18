@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wqvq-5m8c-6g24] CRLF injection,https://github.com/advisories/GHSA-wqvq-5m8c-6g24,https://j.mp/3zBeexo
+GithubAdvisories,"[GHSA-35rg-466w-77h3] Cross-site scripting in Products.CMFCore, Products.PluggableAuthService, Plone",https://github.com/advisories/GHSA-35rg-466w-77h3,https://j.mp/3zAPKUU
+GithubAdvisories,[GHSA-5pr9-v234-jw36] Remote Code Execution via traversal in TAL expressions,https://github.com/advisories/GHSA-5pr9-v234-jw36,https://j.mp/3gBQFgd
+GithubAdvisories,[GHSA-3xxv-p78r-4fc6] Cross-site Scripting in apache-airflow,https://github.com/advisories/GHSA-3xxv-p78r-4fc6,https://j.mp/3gAgr4K
+GithubAdvisories,[GHSA-mj63-64x7-57xf] Path traversal in impacket,https://github.com/advisories/GHSA-mj63-64x7-57xf,https://j.mp/3wGngXR
+GithubAdvisories,[GHSA-37m5-42qp-4qpr] Cross-site scripting in LocalStack,https://github.com/advisories/GHSA-37m5-42qp-4qpr,https://j.mp/35xMfkv
+GithubAdvisories,[GHSA-hpr6-f4vq-mxch] Command injection in LocalStack,https://github.com/advisories/GHSA-hpr6-f4vq-mxch,https://j.mp/3zzWUZv
+GithubAdvisories,[GHSA-656c-6cxf-hvcv] Deserialization of Untrusted Data in Flask-Caching,https://github.com/advisories/GHSA-656c-6cxf-hvcv,https://j.mp/3zAPF3y
+GithubAdvisories,[GHSA-g5j6-r3x9-gf2m] Cross-site scripting in Contentful,https://github.com/advisories/GHSA-g5j6-r3x9-gf2m,https://j.mp/3iTAlZY
+GithubAdvisories,[GHSA-wm2m-xrrp-j74c] HTTP Request Smuggling in netius,https://github.com/advisories/GHSA-wm2m-xrrp-j74c,https://j.mp/3vKpHYs
+GithubAdvisories,[GHSA-jqmc-fxxp-r589] Deserialization of Untrusted Data in Tendenci,https://github.com/advisories/GHSA-jqmc-fxxp-r589,https://j.mp/3cS1w3k
+GithubAdvisories,[GHSA-fh37-cx83-q542] Improper Authentication in Apache Airflow,https://github.com/advisories/GHSA-fh37-cx83-q542,https://j.mp/3vCjrSj
+GithubAdvisories,[GHSA-4pwq-fj89-6rjc] Cross-site Scripting in Apache Airflow,https://github.com/advisories/GHSA-4pwq-fj89-6rjc,https://j.mp/3cTiSgj
