@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mh7g-99w9-xpjm] High severity vulnerability that affects org.apache.lucene:lucene-core and org.apache.solr:solr-core,https://github.com/advisories/GHSA-mh7g-99w9-xpjm,https://j.mp/3wIeXLg
