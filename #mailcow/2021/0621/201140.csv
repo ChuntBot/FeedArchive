@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubCommit,"[Compose] Update Dovecot, add fixed IP for Postfix, update Watchdog a…",https://github.com/mailcow/mailcow-dockerized/commit/7d61099f2c7593047ec7621f455889d5b359e9ef,https://j.mp/3xG3U5i
+GithubCommit,[Watchdog] Remove IPv6 NAT check (wip),https://github.com/mailcow/mailcow-dockerized/commit/d414ab82f8b3562d78ade8ed467bc4dcd5832163,https://j.mp/3vJQeVB
+GithubCommit,[Dovecot] v2.3.15,https://github.com/mailcow/mailcow-dockerized/commit/0ba0878e28f5e6b2bd33eb9c0ef3f9f3609d380f,https://j.mp/3qe2vQW
+GithubCommit,[Rspamd] Use Postfix IP,https://github.com/mailcow/mailcow-dockerized/commit/7b0b59a0828860587f8ea71ccf14bfe3bc95a421,https://j.mp/3qrY7OF
+GithubCommit,[Dovecot] Move includes,https://github.com/mailcow/mailcow-dockerized/commit/f7fd0d8c7c780786448ae2e522c5dfd1ea002944,https://j.mp/3gPS5CL
+GithubCommit,[Rspamd] Increase DNS timeout and retransmits,https://github.com/mailcow/mailcow-dockerized/commit/06beda7c7cb44a2d8766c725581f3d7272e7febe,https://j.mp/3zMidqQ
+GithubCommit,[Update] Prepare for native IPv6 NAT in Docker,https://github.com/mailcow/mailcow-dockerized/commit/85cc346e884657df13c8859770344c06c7d27087,https://j.mp/35HJMnG
