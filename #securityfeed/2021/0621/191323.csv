@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pxcc-hj8w-fmm7] Command injection vulnerability in @prisma/sdk in getPackedPackage function,https://github.com/advisories/GHSA-pxcc-hj8w-fmm7,https://j.mp/3cSxM6U
