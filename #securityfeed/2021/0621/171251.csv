@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3r8w-mphv-2f3f] Prototype Pollution,https://github.com/advisories/GHSA-3r8w-mphv-2f3f,https://j.mp/3cZyzCO
+GithubAdvisories,[GHSA-5w25-hxp5-h8c9] Improper Verification of Cryptographic Signature,https://github.com/advisories/GHSA-5w25-hxp5-h8c9,https://j.mp/3xvDseK
+GithubAdvisories,[GHSA-p2c4-gxp4-j3xp] Denial of service,https://github.com/advisories/GHSA-p2c4-gxp4-j3xp,https://j.mp/3gKzGbP
+GithubAdvisories,[GHSA-52qp-gwwh-qrg4] Missing Handler in @scandipwa/magento-scripts,https://github.com/advisories/GHSA-52qp-gwwh-qrg4,https://j.mp/3d1NPPI
+GithubAdvisories,[GHSA-35g4-qx3c-vjhx] Automatic room upgrade handling can be used maliciously to bridge a room non-consentually,https://github.com/advisories/GHSA-35g4-qx3c-vjhx,https://j.mp/2SiHjgg
+GithubAdvisories,[GHSA-r578-pj6f-r4ff] Auto-merging Person Records Compromised,https://github.com/advisories/GHSA-r578-pj6f-r4ff,https://j.mp/3xBejze
+GithubAdvisories,[GHSA-rfcf-m67m-jcrq] Authentication granted to all firewalls instead of just one,https://github.com/advisories/GHSA-rfcf-m67m-jcrq,https://j.mp/3iXTFoU
