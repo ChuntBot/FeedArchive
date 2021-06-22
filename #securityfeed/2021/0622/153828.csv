@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mvrg-5c4w-7qv4] Cross-site Scripting in yii2cmf,https://github.com/advisories/GHSA-mvrg-5c4w-7qv4,https://j.mp/35MRCwd
+GithubAdvisories,[GHSA-32wr-8wxm-852c] Deserialization of Untrusted Data in NukeViet,https://github.com/advisories/GHSA-32wr-8wxm-852c,https://j.mp/3j3lA76
+GithubAdvisories,[GHSA-q4qv-fmwc-qxpx] SQL Injection in NukeViet,https://github.com/advisories/GHSA-q4qv-fmwc-qxpx,https://j.mp/3x0TcX2
+GithubAdvisories,[GHSA-82xf-8h9p-c6qj] Cross-Site Request Forgery in forkcms,https://github.com/advisories/GHSA-82xf-8h9p-c6qj,https://j.mp/35GKpO6
+GithubAdvisories,[GHSA-jmgg-wx67-7qfv] Command Injection in Centreon,https://github.com/advisories/GHSA-jmgg-wx67-7qfv,https://j.mp/3zIxNnD
+GithubAdvisories,[GHSA-jfvf-rfmq-qwf8] Croos-site scripting in Croogo,https://github.com/advisories/GHSA-jfvf-rfmq-qwf8,https://j.mp/3h0sWFQ
+GithubAdvisories,[GHSA-qpxw-6473-ppww] Session Fixation in Subrion CMS,https://github.com/advisories/GHSA-qpxw-6473-ppww,https://j.mp/3xGhWnr
+GithubAdvisories,[GHSA-77mr-wc79-m8j3] A validation function with the same name as a built-in validator can be called,https://github.com/advisories/GHSA-77mr-wc79-m8j3,https://j.mp/3vSkLR8
+GithubAdvisories,[GHSA-7q44-r25x-wm4q] Remote Code Execution vulnerability in PHPMailer 6.4.1 running on Windows,https://github.com/advisories/GHSA-7q44-r25x-wm4q,https://j.mp/3h0sXcS
+GithubAdvisories,[GHSA-mrwr-2945-fr22] Cross-site scripting in PageKit,https://github.com/advisories/GHSA-mrwr-2945-fr22,https://j.mp/2UwkIh7
+GithubAdvisories,[GHSA-m5vx-8chx-qvmm] Form validation can be skipped,https://github.com/advisories/GHSA-m5vx-8chx-qvmm,https://j.mp/2TUnFHM
