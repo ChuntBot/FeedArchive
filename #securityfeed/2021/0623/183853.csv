@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-c38g-469g-cmgx] ""Improper Neutralization of Special Elements in Output in helm.sh/helm/v3""",https://github.com/advisories/GHSA-c38g-469g-cmgx,https://j.mp/3gZiKNF
+GithubAdvisories,[GHSA-qq3j-xp49-j73f] Plugin archive directory traversal in Helm,https://github.com/advisories/GHSA-qq3j-xp49-j73f,https://j.mp/3zTfLPh
+GithubAdvisories,[GHSA-7jr6-prv4-5wf5] Credential leak in Helm,https://github.com/advisories/GHSA-7jr6-prv4-5wf5,https://j.mp/3gX9xWe
+GithubAdvisories,[GHSA-56hp-xqp3-w2jf] Repository credentials passed to alternate domain,https://github.com/advisories/GHSA-56hp-xqp3-w2jf,https://j.mp/3d7BjOm
