@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6rg3-8h8x-5xfv] Unchecked hostname resolution could allow access to local network resources by users outside the local network,https://github.com/advisories/GHSA-6rg3-8h8x-5xfv,https://j.mp/3d7y4qg
+GithubAdvisories,[GHSA-jj6m-r8jc-2gp7] Asymmetric Resource Consumption (Amplification) in Docker containers created by Wings,https://github.com/advisories/GHSA-jj6m-r8jc-2gp7,https://j.mp/3qigh5e
+GithubAdvisories,[GHSA-cjjc-xp8v-855w] Panic in malformed cerftificate,https://github.com/advisories/GHSA-cjjc-xp8v-855w,https://j.mp/3qskLGr
+GithubAdvisories,[GHSA-qvp4-rpmr-xwrr] Possible bypass of token claim validation when OAuth2 Introspection caching is enabled,https://github.com/advisories/GHSA-qvp4-rpmr-xwrr,https://j.mp/3wTbZ6T
+GithubAdvisories,[GHSA-9qq2-xhmc-h9qr] Access Control Bypass,https://github.com/advisories/GHSA-9qq2-xhmc-h9qr,https://j.mp/3j6UThz
+GithubAdvisories,[GHSA-h395-qcrw-5vmq] Inconsistent Interpretation of HTTP Requests in github.com/gin-gonic/gin,https://github.com/advisories/GHSA-h395-qcrw-5vmq,https://j.mp/3gRK8hW
+GithubAdvisories,[GHSA-w942-gw6m-p62c] Denial of service in GJSON,https://github.com/advisories/GHSA-w942-gw6m-p62c,https://j.mp/3gSt4s6
+GithubAdvisories,[GHSA-hwqm-x785-qh8p] Incorrect Permission Assignment for Critical Resource in Hashicorp Consul,https://github.com/advisories/GHSA-hwqm-x785-qh8p,https://j.mp/3zOlsOC
