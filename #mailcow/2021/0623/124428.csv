@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubCommit,[Dovecot] Remove listescape; enable SSO by default,https://github.com/mailcow/mailcow-dockerized/commit/1d59fa3d5356154ccdc696c4de669df65d04387f,https://j.mp/3vKrvR6
+GithubCommit,[SOGo] Add trusted proxy by default,https://github.com/mailcow/mailcow-dockerized/commit/1cedef173f42bb2c3d9345c067e4600f7dc77533,https://j.mp/2UukuXI
+GithubCommit,[Nginx] Allow SOGo SSO,https://github.com/mailcow/mailcow-dockerized/commit/3045bcf49d8f5343f2c889546269bdae19835ce3,https://j.mp/3d5yfme
+GithubCommit,[Web] Minor style fix for checkbox in /user,https://github.com/mailcow/mailcow-dockerized/commit/f4de39b4a40f3d04626f0fc2f2cf8503991c8402,https://j.mp/2U0avJd
+GithubCommit,[Dovecot] Remove listescape,https://github.com/mailcow/mailcow-dockerized/commit/9544ffe174a06effeb7aae7ef9dea95016ebbdd5,https://j.mp/35ONZFU
+GithubCommit,[Dovecot] Re-add listescape,https://github.com/mailcow/mailcow-dockerized/commit/b2272b8e35e93a1fd8f26e57bed944b89867bc2a,https://j.mp/3gY7Qrt
+GithubCommit,"[Compose] Remove old Nginx template, add new Dovecot and SOGo images",https://github.com/mailcow/mailcow-dockerized/commit/945786357f2965bad7c76fda5b62a0d71c64d084,https://j.mp/3gPgA4r
+GithubCommit,[Web] Minor fix: Hide SSO when SOGo is disabled,https://github.com/mailcow/mailcow-dockerized/commit/e6d71448dd1b627a5961a4693fa95ca7f9bfcfe6,https://j.mp/3xIZBX0
+GithubCommit,[Dovecot] Revert to 2.3.14.1,https://github.com/mailcow/mailcow-dockerized/commit/962e9a8be8b659ca36b9a62b3adfb5f6a5d71f30,https://j.mp/2U0HInO
