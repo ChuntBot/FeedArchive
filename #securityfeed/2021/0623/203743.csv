@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m6cp-vxjx-65j6] SessionListener can prevent a session from being invalidated breaking logout,https://github.com/advisories/GHSA-m6cp-vxjx-65j6,https://j.mp/3zUvn56
