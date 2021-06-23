@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4hq8-gmxx-h6w9] XML Processing error in github.com/crewjam/saml,https://github.com/advisories/GHSA-4hq8-gmxx-h6w9,https://j.mp/3vQsVJR
+GithubAdvisories,[GHSA-433w-mm6h-rv9p] Auth bypass in SAML provider,https://github.com/advisories/GHSA-433w-mm6h-rv9p,https://j.mp/35R74ao
+GithubAdvisories,[GHSA-8j34-9876-pvfq] Hugo can execute a binary from the current directory on Windows,https://github.com/advisories/GHSA-8j34-9876-pvfq,https://j.mp/3wRasxT
+GithubAdvisories,[GHSA-27pv-q55r-222g] Path traversal in github.com/ipfs/go-ipfs,https://github.com/advisories/GHSA-27pv-q55r-222g,https://j.mp/2TYnrPO
+GithubAdvisories,[GHSA-r4gv-vj59-cccm] Control character injection in console output in github.com/ipfs/go-ipfs,https://github.com/advisories/GHSA-r4gv-vj59-cccm,https://j.mp/3jaDmFk
+GithubAdvisories,[GHSA-5gjg-jgh4-gppm] Websocket requests did not call AuthenticateMethod,https://github.com/advisories/GHSA-5gjg-jgh4-gppm,https://j.mp/3wWCEzC
+GithubAdvisories,[GHSA-gq5r-cc4w-g8xf] Denial of Service (DoS),https://github.com/advisories/GHSA-gq5r-cc4w-g8xf,https://j.mp/3d3nros
+GithubAdvisories,[GHSA-599h-8wpj-75xj] Authentication Bypass in tyk-identity-broker,https://github.com/advisories/GHSA-599h-8wpj-75xj,https://j.mp/2UAFBrv
+GithubAdvisories,[GHSA-m45g-f45x-vv22] Improper input validation in CNCF Cortex,https://github.com/advisories/GHSA-m45g-f45x-vv22,https://j.mp/3d66fPl
+GithubAdvisories,[GHSA-qj26-7grj-whg3] Privilege Escalation in fscrypt,https://github.com/advisories/GHSA-qj26-7grj-whg3,https://j.mp/3j5neVw
+GithubAdvisories,[GHSA-86r9-39j9-99wp] Elliptic Curve Key Disclosure in go-jose,https://github.com/advisories/GHSA-86r9-39j9-99wp,https://j.mp/3zS1a6P
+GithubAdvisories,[GHSA-269g-pwp5-87pp] TemporaryFolder on unix-like systems does not limit access to created files,https://github.com/advisories/GHSA-269g-pwp5-87pp,https://j.mp/3dp0efl
+GithubAdvisories,[GHSA-3fx4-7f69-5mmg] Integer Overflow in go-jose,https://github.com/advisories/GHSA-3fx4-7f69-5mmg,https://j.mp/360TOjX
+GithubAdvisories,[GHSA-9423-6c93-gpp8] Arbitrary File Write via Archive Extraction (Zip Slip),https://github.com/advisories/GHSA-9423-6c93-gpp8,https://j.mp/3gPZoeX
