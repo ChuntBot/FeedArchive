@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-35qp-xq9f-2rjx] Improper Privilege Management in HashiCorp Nomad,https://github.com/advisories/GHSA-35qp-xq9f-2rjx,https://j.mp/2U1WquO
+GithubAdvisories,[GHSA-vf6q-9f2f-mwhv] Improper network isolation in Hashicorp Nomad,https://github.com/advisories/GHSA-vf6q-9f2f-mwhv,https://j.mp/3xPETEP
