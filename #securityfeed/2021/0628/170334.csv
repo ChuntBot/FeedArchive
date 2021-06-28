@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g7w8-pp9w-7p32] Creation of order credits was not validated by acl in admin orders,https://github.com/advisories/GHSA-g7w8-pp9w-7p32,https://j.mp/3dFYT5t
+GithubAdvisories,[GHSA-wq3r-jwrq-xg6w] Canceling of orders not related to the logged-in user,https://github.com/advisories/GHSA-wq3r-jwrq-xg6w,https://j.mp/3x56xh4
+GithubAdvisories,"[GHSA-c99r-67x4-whj6] Reflected cross-site scripting in development mode handler in Vaadin 14, 15-19",https://github.com/advisories/GHSA-c99r-67x4-whj6,https://j.mp/3xZ1W04
+GithubAdvisories,"[GHSA-qrg9-f472-qwfm] Possible route enumeration in production mode via RouteNotFoundError view in Vaadin 10, 11-14, and 15-19",https://github.com/advisories/GHSA-qrg9-f472-qwfm,https://j.mp/3h1Uufa
+GithubAdvisories,[GHSA-8vfw-v2jv-9hwc] Reflected cross-site scripting in development mode handler in Vaadin,https://github.com/advisories/GHSA-8vfw-v2jv-9hwc,https://j.mp/3gZWFj6
+GithubAdvisories,[GHSA-954c-jjx6-cxv7] Reflected XSS from the callback handler's error query parameter,https://github.com/advisories/GHSA-954c-jjx6-cxv7,https://j.mp/3hcC3mI
+GithubAdvisories,[GHSA-2jx8-v4hv-gx3h] XXE vulnerability in Launch import,https://github.com/advisories/GHSA-2jx8-v4hv-gx3h,https://j.mp/3qyG357
+GithubAdvisories,[GHSA-24wf-7vf2-pv59] XXE vulnerability on Launch import with externally-defined DTD file,https://github.com/advisories/GHSA-24wf-7vf2-pv59,https://j.mp/3huB1Tt
