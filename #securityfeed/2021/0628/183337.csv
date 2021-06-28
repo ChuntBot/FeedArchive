@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gj77-59wh-66hg] Regular Expression Denial of Service (ReDoS) in Prism,https://github.com/advisories/GHSA-gj77-59wh-66hg,https://j.mp/3qwthEk
+GithubAdvisories,[GHSA-243q-g9j3-qf6r] non-admin users can create integration role with administrator role,https://github.com/advisories/GHSA-243q-g9j3-qf6r,https://j.mp/3qxBYyi
+GithubAdvisories,[GHSA-gpmh-g94g-qrhr] Internal hidden fields are visible on to many associations in admin api,https://github.com/advisories/GHSA-gpmh-g94g-qrhr,https://j.mp/3jkgbZd
+GithubAdvisories,[GHSA-vrf2-xghr-j52v] Private files publicly accessible with Cloud Storage providers,https://github.com/advisories/GHSA-vrf2-xghr-j52v,https://j.mp/2UNH2CX
