@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9f46-5r25-5wfm] Time-of-check Time-of-use (TOCTOU) Race Condition in league/flysystem,https://github.com/advisories/GHSA-9f46-5r25-5wfm,https://j.mp/3A5KQ2u
+GithubAdvisories,"[GHSA-rpxh-vg2x-526v] List of order ids, number, items total and token value exposed for unauthorized uses via new API",https://github.com/advisories/GHSA-rpxh-vg2x-526v,https://j.mp/360WH3W
