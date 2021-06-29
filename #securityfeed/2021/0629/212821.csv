@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cf55-rq8x-hm6f] Path Traversal in Dutchcoders transfer.sh,https://github.com/advisories/GHSA-cf55-rq8x-hm6f,https://j.mp/3hhIKUv
+GithubAdvisories,[GHSA-w3jx-wv97-67ph] Cross-site scripting in Dutchcoders transfer.sh,https://github.com/advisories/GHSA-w3jx-wv97-67ph,https://j.mp/3Afgz19
+GithubAdvisories,[GHSA-9cx9-x2gp-9qvh] CRLF vulnerability in Fiber,https://github.com/advisories/GHSA-9cx9-x2gp-9qvh,https://j.mp/363cAa5
+GithubAdvisories,[GHSA-9h4h-8w5p-f28w] Denial of Service in geth,https://github.com/advisories/GHSA-9h4h-8w5p-f28w,https://j.mp/3y4Zbu5
+GithubAdvisories,[GHSA-xw37-57qp-9mm4] Consensus flaw during block processing in github.com/ethereum/go-ethereum,https://github.com/advisories/GHSA-xw37-57qp-9mm4,https://j.mp/3jtorq6
+GithubAdvisories,[GHSA-r33q-22hv-j29q] Denial of service in github.com/ethereum/go-ethereum,https://github.com/advisories/GHSA-r33q-22hv-j29q,https://j.mp/3hmp022
+GithubAdvisories,[GHSA-m6gx-rhvj-fh52] Denial of service due to CVE-2020-28362,https://github.com/advisories/GHSA-m6gx-rhvj-fh52,https://j.mp/3drYlzE
+GithubAdvisories,[GHSA-jm5c-rv3w-w83m] Denial of service in geth,https://github.com/advisories/GHSA-jm5c-rv3w-w83m,https://j.mp/3drXXRV
+GithubAdvisories,[GHSA-69v6-xc2j-r2jf] Shallow copy bug in geth,https://github.com/advisories/GHSA-69v6-xc2j-r2jf,https://j.mp/3jsc4us
+GithubAdvisories,[GHSA-v592-xf75-856p] Erroneous Proof of Work calculation in geth,https://github.com/advisories/GHSA-v592-xf75-856p,https://j.mp/3y5T7S7
