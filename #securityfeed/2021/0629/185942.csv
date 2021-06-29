@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9hx4-qm7h-x84j] Cross-site Scripting in Gogs,https://github.com/advisories/GHSA-9hx4-qm7h-x84j,https://j.mp/3hiFzvR
+GithubAdvisories,[GHSA-g6xv-8q23-w2q3] SQL Injection in Gogs,https://github.com/advisories/GHSA-g6xv-8q23-w2q3,https://j.mp/3h59dWB
+GithubAdvisories,[GHSA-mr6h-chqp-p9g2] SQL Injection in gogs.io/gogs,https://github.com/advisories/GHSA-mr6h-chqp-p9g2,https://j.mp/3dtgWLT
+GithubAdvisories,[GHSA-cpgw-2wxr-pww3] Open Redirect,https://github.com/advisories/GHSA-cpgw-2wxr-pww3,https://j.mp/3w02C45
