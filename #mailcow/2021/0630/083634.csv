@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubCommit,[Dovecot] Remove logging of invalid sasl sessions,https://github.com/mailcow/mailcow-dockerized/commit/13223245f2fc73308b6c551eb352c102dddb0d33,https://j.mp/3dLXWIT
+GithubCommit,[Web] Remove XMPP options,https://github.com/mailcow/mailcow-dockerized/commit/8b08d09ca20402f06ca0c8a884cd58d4fc72fec0,https://j.mp/3jpScYD
+GithubCommit,[Compose] Remove ejabberd from compose and update Dovecot,https://github.com/mailcow/mailcow-dockerized/commit/f078a514f000a918868c73a5d409e2953a6499fe,https://j.mp/369bF81
+GithubCommit,[Helper] Remove ejabberd from compose,https://github.com/mailcow/mailcow-dockerized/commit/b08be8bc8cdf91a029242fddc0f104c659a7227b,https://j.mp/2UdMyOI
+GithubCommit,[Config] Remove ejabberd from compose,https://github.com/mailcow/mailcow-dockerized/commit/56c4353edb242ce04736d0622685a52ed8c49e8c,https://j.mp/3hqDuye
+GithubCommit,[Config] Remove ejabberd from compose,https://github.com/mailcow/mailcow-dockerized/commit/74d7607f8f706191c8251a75e8234175fdbb2c11,https://j.mp/3x9MYUZ
+GithubCommit,[Web] Fix width of select field when editing a domain admin,https://github.com/mailcow/mailcow-dockerized/commit/d4d20701ce4b3bb9968ce592132ea047617ac98d,https://j.mp/3qyDCjg
+GithubCommit,Merge branch 'master' of github.com:mailcow/mailcow-dockerized,https://github.com/mailcow/mailcow-dockerized/commit/7178db8ae128a2605ca297727102a7466cd57ff8,https://j.mp/3dtblFc
