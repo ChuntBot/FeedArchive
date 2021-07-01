@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vhvh-528q-ff3p] Moderate severity vulnerability that affects Microsoft.AspNetCore.Identity,https://github.com/advisories/GHSA-vhvh-528q-ff3p,https://j.mp/3AcStnM
+GithubAdvisories,[GHSA-j8f4-2w4p-mhjc] Moderate severity vulnerability that affects Microsoft.AspNetCore.Mvc,https://github.com/advisories/GHSA-j8f4-2w4p-mhjc,https://j.mp/39JG4fx
+GithubAdvisories,[GHSA-qhqf-ghgh-x2m4] High severity vulnerability that affects Microsoft.AspNetCore.Mvc,https://github.com/advisories/GHSA-qhqf-ghgh-x2m4,https://j.mp/3dtwkqE
