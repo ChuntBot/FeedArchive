@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w6rq-6h34-vh7q] Cached redirect poisoning via X-Forwarded-Host header,https://github.com/advisories/GHSA-w6rq-6h34-vh7q,https://j.mp/3qDiet0
+GithubAdvisories,[GHSA-2cc5-23r7-vc4v] Default client side session signing key is highly predictable,https://github.com/advisories/GHSA-2cc5-23r7-vc4v,https://j.mp/365R04X
+GithubAdvisories,[GHSA-phj8-4cq3-794g] Unencrypted storage of client side sessions,https://github.com/advisories/GHSA-phj8-4cq3-794g,https://j.mp/3qEKaNe
+GithubAdvisories,[GHSA-vr5m-3h59-7jcp] Prototype Pollution in think-helper,https://github.com/advisories/GHSA-vr5m-3h59-7jcp,https://j.mp/3hGDLx9
+GithubAdvisories,[GHSA-hc33-32vw-rpp9] Remote Code Execution Vulnerability in Session Storage,https://github.com/advisories/GHSA-hc33-32vw-rpp9,https://j.mp/3dyfOa2
+GithubAdvisories,[GHSA-mj9r-wwm8-7q52] Open Redirect in github.com/AndrewBurian/powermux,https://github.com/advisories/GHSA-mj9r-wwm8-7q52,https://j.mp/2SHeRVB
+GithubAdvisories,[GHSA-h58v-c6rf-g9f7] Cross site scripting in the system log,https://github.com/advisories/GHSA-h58v-c6rf-g9f7,https://j.mp/3y7LNFE
