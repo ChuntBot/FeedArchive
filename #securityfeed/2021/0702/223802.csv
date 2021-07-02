@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-22119 (spring_security),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22119,https://j.mp/3Anqu4X
+NVD-NIST,"CVE-2021-22341 (ips_module_firmware, ngfw_module_firmware, nip6300_firmware, nip6600_firmware, secospace_usg6300_firmware, secospace_usg6500_firmware, secospace_usg6600_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22341,https://j.mp/3jEXmQz
+NVD-NIST,CVE-2021-32566 (traffic_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-32566,https://j.mp/3xiAfzp
+NVD-NIST,CVE-2021-32567 (traffic_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-32567,https://j.mp/3Aq1REE
+NVD-NIST,CVE-2021-35959 (plone),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-35959,https://j.mp/3jCUCDn
