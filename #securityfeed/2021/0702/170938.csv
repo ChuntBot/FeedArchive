@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2ccx-2gf3-8xvv] .dev domains and some reverse proxy setups were treated as local in Kirby,https://github.com/advisories/GHSA-2ccx-2gf3-8xvv,https://j.mp/3nNgrP0
