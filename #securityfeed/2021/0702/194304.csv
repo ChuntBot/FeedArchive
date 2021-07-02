@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6cgh-hjpw-q3gq] Utils.readChallengeTx does not verify the server account signature,https://github.com/advisories/GHSA-6cgh-hjpw-q3gq,https://j.mp/3AlbTXD
+GithubAdvisories,[GHSA-m738-3rc4-5xv3] A user without PR can reset user authentication failures information,https://github.com/advisories/GHSA-m738-3rc4-5xv3,https://j.mp/3Ampn5A
+GithubAdvisories,[GHSA-v9j2-q4q5-cxh4] No CSRF protection on the password change form,https://github.com/advisories/GHSA-v9j2-q4q5-cxh4,https://j.mp/3dDh8Zf
+GithubAdvisories,[GHSA-h4m4-pgp4-whgm] The reset password form reveal users email address,https://github.com/advisories/GHSA-h4m4-pgp4-whgm,https://j.mp/3qHbomp
+GithubAdvisories,[GHSA-2f2w-349x-vrqm] Cross-site scripting (XSS) from field and configuration text displayed in the Panel,https://github.com/advisories/GHSA-2f2w-349x-vrqm,https://j.mp/2Tw158r
