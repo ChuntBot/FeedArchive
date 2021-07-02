@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gp6m-vqhm-5cm5] XML Entity Expansion,https://github.com/advisories/GHSA-gp6m-vqhm-5cm5,https://j.mp/3hKSXt9
+GithubAdvisories,[GHSA-x2j7-6hxm-87p3] Remote code injection,https://github.com/advisories/GHSA-x2j7-6hxm-87p3,https://j.mp/3dDeG4C
+GithubAdvisories,[GHSA-3jxh-789f-p7m6] Cross-site Scripting,https://github.com/advisories/GHSA-3jxh-789f-p7m6,https://j.mp/3hrqng5
+GithubAdvisories,[GHSA-hxxp-6546-wv6r] Improper Restriction of XML External Entity Reference,https://github.com/advisories/GHSA-hxxp-6546-wv6r,https://j.mp/3yjazTy
+GithubAdvisories,[GHSA-gwrj-88fp-5m36] Code injection in Narou,https://github.com/advisories/GHSA-gwrj-88fp-5m36,https://j.mp/3haYPwn
+GithubAdvisories,[GHSA-w9jg-gvgr-354m] Resource exhaustion in Spring Security,https://github.com/advisories/GHSA-w9jg-gvgr-354m,https://j.mp/2UfERHY
+GithubAdvisories,[GHSA-62ww-4p3p-7fhj] API information disclosure flaw in Elasticsearch,https://github.com/advisories/GHSA-62ww-4p3p-7fhj,https://j.mp/3AoRYab
+GithubAdvisories,[GHSA-gm2x-6475-g9r8] XSS Injection in Media Collection Title was possible,https://github.com/advisories/GHSA-gm2x-6475-g9r8,https://j.mp/3wgj549
