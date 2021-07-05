@@ -1,0 +1,25 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Gentoo Linux Security Advisory 202107-04,https://packetstormsecurity.com/files/163391/glsa-202107-04.txt,https://j.mp/36ep4Md
+PacketstormSecurity,Ricon Industrial Cellular Router S9922XL Remote Command Execution,https://packetstormsecurity.com/files/163390/ZSL-2021-5653.txt,https://j.mp/36e9v7l
+PacketstormSecurity,Stegano 0.9.9,https://packetstormsecurity.com/files/163389/Stegano-0.9.9.tar.gz,https://j.mp/3AG7mPU
+PacketstormSecurity,Virus.Win32.Shodi.e Heap Corruption,https://packetstormsecurity.com/files/163388/MVID-2021-0281.txt,https://j.mp/3hDRPHn
+PacketstormSecurity,SQLMAP - Automatic SQL Injection Tool 1.5.7,https://packetstormsecurity.com/files/163386/sqlmap-1.5.7.tar.gz,https://j.mp/3jQBa6t
+PacketstormSecurity,Simple Client Management System 1.0 SQL Injection / Shell Upload,https://packetstormsecurity.com/files/163385/scms10-sqlshell.txt,https://j.mp/3Ao38fs
+PacketstormSecurity,Virus.Win32.Shodi.e Remote Command Execution,https://packetstormsecurity.com/files/163384/MVID-2021-0280.txt,https://j.mp/2UnRZLk
+PacketstormSecurity,Faraday 3.16.1,https://packetstormsecurity.com/files/163383/faraday-3.16.1.tar.gz,https://j.mp/3whaH4w
+PacketstormSecurity,WordPress Backup Guard 1.5.8 Shell Upload,https://packetstormsecurity.com/files/163382/wpbackupguard158-shell.txt,https://j.mp/2V5rNFr
+PacketstormSecurity,Gentoo Linux Security Advisory 202107-03,https://packetstormsecurity.com/files/163381/glsa-202107-03.txt,https://j.mp/2SMqA54
+PacketstormSecurity,Virus.Win32.Shodi.e Insecure Transit,https://packetstormsecurity.com/files/163380/MVID-2021-0279.txt,https://j.mp/2V1359a
+PacketstormSecurity,WordPress WP Learn Manager 1.1.2 Cross Site Scripting,https://packetstormsecurity.com/files/163379/wplearnmanager112-xss.txt,https://j.mp/3wsNtZn
+PacketstormSecurity,GNU Privacy Guard 2.2.29,https://packetstormsecurity.com/files/163378/gnupg-2.2.29.tar.bz2,https://j.mp/3ysa8X8
+PacketstormSecurity,Backdoor.Win32.WinShell.40 Authentication Bypass / Command Execution,https://packetstormsecurity.com/files/163377/MVID-2021-0278.txt,https://j.mp/3wizAg0
+PacketstormSecurity,Gentoo Linux Security Advisory 202107-02,https://packetstormsecurity.com/files/163376/glsa-202107-02.txt,https://j.mp/3qUBORJ
+PacketstormSecurity,OpenEMR 5.0.1.7 Path Traversal,https://packetstormsecurity.com/files/163375/openemr5017fn-traversal.txt,https://j.mp/2TC95oA
+PacketstormSecurity,Backdoor.Win32.Zombam.l Code Execution,https://packetstormsecurity.com/files/163374/MVID-2021-0277.txt,https://j.mp/3hf7q1k
+PacketstormSecurity,Backdoor.Win32.Zombam.l Buffer Overflow,https://packetstormsecurity.com/files/163373/MVID-2021-0276.txt,https://j.mp/3hBpD8e
+PacketstormSecurity,Trojan.Win32.Inject.adwas Insecure Permissions,https://packetstormsecurity.com/files/163372/MVID-2021-0275.txt,https://j.mp/3xw4umo
+PacketstormSecurity,Online Voting System 1.0 SQL Injection / Remote Code Execution,https://packetstormsecurity.com/files/163371/onlinevs10-sqlexec.txt,https://j.mp/3yol87J
+PacketstormSecurity,HEUR.Trojan.Win32.Generic Insecure Permissions,https://packetstormsecurity.com/files/163370/MVID-2021-0274.txt,https://j.mp/3jMofCm
+PacketstormSecurity,Trojan-Dropper.Win32.Agent.wxl Insecure Permissions,https://packetstormsecurity.com/files/163369/MVID-2021-0273.txt,https://j.mp/2UnaRdd
+PacketstormSecurity,Gentoo Linux Security Advisory 202107-01,https://packetstormsecurity.com/files/163368/glsa-202107-01.txt,https://j.mp/3AwEtVZ
+PacketstormSecurity,Trojan.Win32.VB.bcng Insecure Permissions,https://packetstormsecurity.com/files/163367/MVID-2021-0272.txt,https://j.mp/3jP6r9F
