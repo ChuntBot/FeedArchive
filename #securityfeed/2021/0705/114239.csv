@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] TextPattern CMS 4.9.0-dev - Remote Command Execution (RCE) (Authenticated),https://www.exploit-db.com/exploits/50095,https://j.mp/3xijUKZ
+ExploitDB,[webapps] Simple Client Management System 1.0 - Remote Code Execution (RCE),https://www.exploit-db.com/exploits/50094,https://j.mp/3xweah7
+ExploitDB,[webapps] Wordpress Plugin Backup Guard 1.5.8 - Remote Code Execution (Authenticated),https://www.exploit-db.com/exploits/50093,https://j.mp/2TzG1Oo
+ExploitDB,[webapps] Church Management System 1.0 - 'password' SQL Injection (Authentication Bypass),https://www.exploit-db.com/exploits/50092,https://j.mp/2Umy2V1
+ExploitDB,[webapps] Church Management System 1.0 - 'Multiple' Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50091,https://j.mp/3hffnUc
+ExploitDB,[webapps] Church Management System 1.0 - Unrestricted File Upload to Remote Code Execution (Authenticated),https://www.exploit-db.com/exploits/50090,https://j.mp/3wsauvv
+ExploitDB,[webapps] Online Birth Certificate System 1.1 - 'Multiple' Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50089,https://j.mp/3AvGMIT
+ExploitDB,[webapps] Online Voting System 1.0 - SQLi (Authentication Bypass) + Remote Code Execution (RCE),https://www.exploit-db.com/exploits/50088,https://j.mp/3yrbFN8
+ExploitDB,[webapps] OpenEMR 5.0.1.7 - 'fileName' Path Traversal (Authenticated) (2),https://www.exploit-db.com/exploits/50087,https://j.mp/3hENR1e
