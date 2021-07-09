@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommit,[Web] Improve responsive design (#4171),https://github.com/mailcow/mailcow-dockerized/commit/f73ac284e5a49f9c6238eb8fb82f714df3de92fa,https://j.mp/3r1mbbo
+GithubCommit,[Web] Fix ACL for spam score and minor style fix,https://github.com/mailcow/mailcow-dockerized/commit/dfc8c95a54adb29e6ab8a9576c5ddd2911931bde,https://j.mp/3wsUitN
+GithubCommit,[Web] Reponsive: Scroll faster,https://github.com/mailcow/mailcow-dockerized/commit/bdafb7ab2fc7f22de3f004078803c5c75e97f49a,https://j.mp/3jUg4Ea
