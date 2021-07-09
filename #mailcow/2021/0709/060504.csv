@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommit,[Rspamd] Better support for DeltaChat,https://github.com/mailcow/mailcow-dockerized/commit/5a6d970794297853695fadbdc98349ad0ca7205f,https://j.mp/3wsIJ5Q
+GithubCommit,[Web] Do not allow admin login to mailbox logged in as user while ALL…,https://github.com/mailcow/mailcow-dockerized/commit/78270f9707713a91a17583304c4b06626e7f5720,https://j.mp/3hUreWI
