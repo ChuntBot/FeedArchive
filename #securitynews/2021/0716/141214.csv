@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,"ppfuzz v1.0 released! Now, if it's indeed vulnerable: it'll fingerprint the script gadgets used and then display additional payload info that could potentially escalate its impact to XSS, bypass/cookie injection",https://redd.it/okujy6,
