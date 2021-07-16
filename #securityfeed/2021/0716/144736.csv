@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6x4w-8w53-xrvv] XXE in Apache Standard Taglibs,https://github.com/advisories/GHSA-6x4w-8w53-xrvv,https://j.mp/2RrjCy8
+GithubAdvisories,[GHSA-43ch-2h55-2vj7] Server-Side Request Forgery in private-ip,https://github.com/advisories/GHSA-43ch-2h55-2vj7,https://j.mp/2Rmemiv
+GithubAdvisories,[GHSA-m8p2-495h-ccmh] The SafeHtml annotation in Hibernate-Validator does not properly guard against XSS attacks,https://github.com/advisories/GHSA-m8p2-495h-ccmh,https://j.mp/2QVu1BK
