@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-22882 (moddable),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-22882,https://j.mp/3z7hD5Q
+NVD-NIST,CVE-2021-20748 (retty),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20748,https://j.mp/3ij0qzJ
+NVD-NIST,"CVE-2021-21994 (cloud_foundation, esxi)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21994,https://j.mp/3BlUfUm
+NVD-NIST,"CVE-2021-21995 (cloud_foundation, esxi)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21995,https://j.mp/2UjbXaf
+NVD-NIST,CVE-2021-32755 (wire),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-32755,https://j.mp/2Te6WPE
+NVD-NIST,CVE-2021-33211 (http_commander),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-33211,https://j.mp/3wNtYe1
+NVD-NIST,CVE-2021-33212 (http_commander),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-33212,https://j.mp/3riVJds
+NVD-NIST,CVE-2021-33213 (http_commander),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-33213,https://j.mp/3knaQ41
+NVD-NIST,"CVE-2021-33677 (netweaver_abap, netweaver_as_abap)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-33677,https://j.mp/3klMEPw
+NVD-NIST,CVE-2021-33687 (netweaver_application_server_java),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-33687,https://j.mp/3hICWEY
+NVD-NIST,"CVE-2021-33756 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-33756,https://j.mp/2UmOBQW
+NVD-NIST,"CVE-2021-33758 (windows_10, windows_server_2016)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-33758,https://j.mp/3kq1Ue8
+NVD-NIST,"CVE-2021-33764 (windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-33764,https://j.mp/3z6igN7
+NVD-NIST,"CVE-2021-33765 (windows_10, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-33765,https://j.mp/3Bbm1ml
+NVD-NIST,CVE-2021-33766 (exchange_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-33766,https://j.mp/3kvhwNt
+NVD-NIST,CVE-2021-33767 (open_enclave_software_development_kit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-33767,https://j.mp/3wJTOQe
+NVD-NIST,CVE-2021-33768 (exchange_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-33768,https://j.mp/3kuCAUi
+NVD-NIST,"CVE-2021-33771 (windows_10, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-33771,https://j.mp/2UcUf8u
+NVD-NIST,"CVE-2021-33772 (windows_10, windows_server_2016)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-33772,https://j.mp/2UmOC7s
+NVD-NIST,"CVE-2021-33773 (windows_10, windows_8.1, windows_rt_8.1, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-33773,https://j.mp/3z87VjY
