@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Gentoo Linux Security Advisory 202107-37,https://packetstormsecurity.com/files/163529/glsa-202107-37.txt,https://j.mp/2UleIIb
+PacketstormSecurity,Linux Kernel Netfilter Heap Out-Of-Bounds Write,https://packetstormsecurity.com/files/163528/linuxnetflow-exec.txt,https://j.mp/3igwAvQ
+PacketstormSecurity,OX App Suite / OX Guard / OX Documents SSRF / Cross Site Scripting,https://packetstormsecurity.com/files/163527/oxappsuiteguarddoc-ssrfxss.txt,https://j.mp/36DYYm2
+PacketstormSecurity,Argus Surveillance DVR 4.0 Weak Password Encryption,https://packetstormsecurity.com/files/163526/argussurveillancedvr40-weakpassword.txt,https://j.mp/3rf49SO
+PacketstormSecurity,ForgeRock Access Manager/OpenAM 14.6.3 Remote Code Execution,https://packetstormsecurity.com/files/163525/forgerock1463-exec.txt,https://j.mp/3hKsddj
+PacketstormSecurity,Aruba Instant 8.7.1.0 Arbitrary File Modification,https://packetstormsecurity.com/files/163524/arubainstant8710-filemodification.txt,https://j.mp/3rc0NQI
+PacketstormSecurity,Seagate BlackArmor NAS sg2000-2000.1331 Command Injection,https://packetstormsecurity.com/files/163523/seagatebanassg2000-exec.txt,https://j.mp/3Bd07yY
+PacketstormSecurity,Aruba Instant (IAP) Remote Code Execution,https://packetstormsecurity.com/files/163522/arubainstant-exec.txt,https://j.mp/3xNvkXk
+PacketstormSecurity,VMware ThinApp DLL Hijacking,https://packetstormsecurity.com/files/163521/vmwarethinapp-dllhijack.txt,https://j.mp/2VRfGMI
