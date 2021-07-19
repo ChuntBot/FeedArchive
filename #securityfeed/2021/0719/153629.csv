@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rqjw-p5vr-c695] Basic-auth app bundle credential exposure in gatsby-source-wordpress,https://github.com/advisories/GHSA-rqjw-p5vr-c695,https://j.mp/2UXdEtO
+GithubAdvisories,[GHSA-7638-r9r3-rmjj] chroot isolation: environment value leakage to intermediate processes,https://github.com/advisories/GHSA-7638-r9r3-rmjj,https://j.mp/3il8Pme
+GithubAdvisories,[GHSA-vjv5-gp2w-65vm] Encoded URIs can access WEB-INF,https://github.com/advisories/GHSA-vjv5-gp2w-65vm,https://j.mp/3iwo9N8
