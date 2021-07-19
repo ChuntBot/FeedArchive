@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-89gv-h8wf-cg8r] Hostname spoofing via backslashes in URL,https://github.com/advisories/GHSA-89gv-h8wf-cg8r,https://j.mp/3ioyZ7H
+GithubAdvisories,[GHSA-rr6v-h7m8-wc9f] Cross-site Scripting in Froala WYSIWYG Editor,https://github.com/advisories/GHSA-rr6v-h7m8-wc9f,https://j.mp/2W0xk0A
+GithubAdvisories,[GHSA-8h2g-r292-j8xh] L7 deny intention results in an allow action,https://github.com/advisories/GHSA-8h2g-r292-j8xh,https://j.mp/3zi9bkf
+GithubAdvisories,[GHSA-25gf-8qrr-g78r] Missing SSL Certificate Validation in Hashicorp Consul,https://github.com/advisories/GHSA-25gf-8qrr-g78r,https://j.mp/3kBD7nw
