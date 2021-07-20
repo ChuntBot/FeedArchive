@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-21801 (r-seenet),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21801,https://j.mp/3izADDH
+NVD-NIST,CVE-2021-21802 (r-seenet),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21802,https://j.mp/3iujLhB
+NVD-NIST,CVE-2021-21803 (r-seenet),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21803,https://j.mp/3BlrnLP
+NVD-NIST,"CVE-2021-29699 (docker, security_verify_access)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29699,https://j.mp/2UVgKP8
+NVD-NIST,"CVE-2021-29742 (docker, security_verify_access)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29742,https://j.mp/3isvTj3
