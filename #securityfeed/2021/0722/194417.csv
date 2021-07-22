@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j5c2-hm46-wp5c] Privilege escalation: all users can access Admin-level API keys,https://github.com/advisories/GHSA-j5c2-hm46-wp5c,https://j.mp/3zv09kj
+GithubAdvisories,[GHSA-rgcg-28xm-8mmw] Cross-Site Scripting in Backend Grid View,https://github.com/advisories/GHSA-rgcg-28xm-8mmw,https://j.mp/3eLMBsN
+GithubAdvisories,[GHSA-6mh3-j5r5-2379] Cross-Site Scripting in Query Generator & Query View,https://github.com/advisories/GHSA-6mh3-j5r5-2379,https://j.mp/3ruQuHm
+GithubAdvisories,[GHSA-8mq9-fqv8-59wf] Cross-Site Scripting in Page Preview,https://github.com/advisories/GHSA-8mq9-fqv8-59wf,https://j.mp/3hYrDsx
