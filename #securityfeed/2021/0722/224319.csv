@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mh24-7wvg-v88g] Low severity vulnerability that affects pypiserver,https://github.com/advisories/GHSA-mh24-7wvg-v88g,https://j.mp/371spyt
+GithubAdvisories,[GHSA-337x-4q8g-prc5] Low severity vulnerability that affects django,https://github.com/advisories/GHSA-337x-4q8g-prc5,https://j.mp/3iBlrWp
+GithubAdvisories,[GHSA-vmqm-g3vh-847m] Denial of service in Apache Xerces2,https://github.com/advisories/GHSA-vmqm-g3vh-847m,https://j.mp/2UGWNbV
