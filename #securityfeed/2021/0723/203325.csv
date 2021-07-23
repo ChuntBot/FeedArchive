@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-20230 (routeros),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-20230,https://j.mp/3rD1CSL
+NVD-NIST,CVE-2020-20248 (routeros),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-20248,https://j.mp/3Bzbamn
+NVD-NIST,"CVE-2021-2341 (graalvm, openjdk)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2341,https://j.mp/36Ujqzp
+NVD-NIST,"CVE-2021-2367 (mysql_server, oncommand_insight)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2367,https://j.mp/3eRVilk
+NVD-NIST,CVE-2021-2368 (siebel_crm),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2368,https://j.mp/3i1bB13
+NVD-NIST,"CVE-2021-2369 (graalvm, java_se)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2369,https://j.mp/3x2bCWS
+NVD-NIST,"CVE-2021-2370 (mysql_server, oncommand_insight)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2370,https://j.mp/3zsQNFr
+NVD-NIST,CVE-2021-2371 (coherence),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2371,https://j.mp/3eRm0ud
+NVD-NIST,CVE-2021-2381 (solaris),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2381,https://j.mp/3BzYn3e
+NVD-NIST,"CVE-2021-2422 (mysql_server, oncommand_insight)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2422,https://j.mp/3iXu7qz
+NVD-NIST,"CVE-2021-2424 (mysql_server, oncommand_insight)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2424,https://j.mp/3eRlZXb
+NVD-NIST,"CVE-2021-2425 (mysql_server, oncommand_insight)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2425,https://j.mp/3zsJAW3
+NVD-NIST,"CVE-2021-2426 (mysql_server, oncommand_insight)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-2426,https://j.mp/3BzZVKt
