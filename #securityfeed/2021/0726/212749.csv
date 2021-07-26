@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mx67-wv8x-hvv9] Deserialization of Untrusted Data in msgpack,https://github.com/advisories/GHSA-mx67-wv8x-hvv9,https://j.mp/3zAF4os
+GithubAdvisories,[GHSA-w4wq-rvmq-77x7] Cross-site scripting in anchorme,https://github.com/advisories/GHSA-w4wq-rvmq-77x7,https://j.mp/3lcWqUH
+GithubAdvisories,[GHSA-xcf7-q56x-78gh] Connection descriptor exhaustion in proxyproto,https://github.com/advisories/GHSA-xcf7-q56x-78gh,https://j.mp/3kZHs4i
+GithubAdvisories,[GHSA-3fxp-vwxm-2r5p] Command injection in gitlogplus,https://github.com/advisories/GHSA-3fxp-vwxm-2r5p,https://j.mp/3x3Hme5
+GithubAdvisories,[GHSA-gmr7-m73x-6c9q] Missing Authorization in TeamPass,https://github.com/advisories/GHSA-gmr7-m73x-6c9q,https://j.mp/3iITv2Q
+GithubAdvisories,[GHSA-h86x-mv66-gr5q] OS Command Injection in Locutus,https://github.com/advisories/GHSA-h86x-mv66-gr5q,https://j.mp/374wLVU
+GithubAdvisories,[GHSA-fv48-hjhp-94c7] Incorrect Authorization in TeamPass,https://github.com/advisories/GHSA-fv48-hjhp-94c7,https://j.mp/3706tUH
+GithubAdvisories,[GHSA-xcqr-9h24-vrgw] Improper Restriction of Excessive Authentication Attempts in Argo API,https://github.com/advisories/GHSA-xcqr-9h24-vrgw,https://j.mp/3y8Sacb
+GithubAdvisories,[GHSA-h8jc-jmrf-9h8f] Improper Authentication and Insecure Default Initialization of Resource in Argo API,https://github.com/advisories/GHSA-h8jc-jmrf-9h8f,https://j.mp/2TA4D9M
+GithubAdvisories,[GHSA-c72p-9xmj-rx3w] Archive package allows chmod of file outside of unpack target directory,https://github.com/advisories/GHSA-c72p-9xmj-rx3w,https://j.mp/3x9SjL8
+GithubAdvisories,[GHSA-34fr-fhqr-7235] Information Disclosure in User Authentication,https://github.com/advisories/GHSA-34fr-fhqr-7235,https://j.mp/3kZpvCE
+GithubAdvisories,[GHSA-mg5p-95m9-rmfp] Arbitrary file write in actionpack-page_caching gem,https://github.com/advisories/GHSA-mg5p-95m9-rmfp,https://j.mp/2WsPQwf
+GithubAdvisories,[GHSA-cjx7-399x-p2rj] Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') in micronaut-core,https://github.com/advisories/GHSA-cjx7-399x-p2rj,https://j.mp/3eZ2ITG
