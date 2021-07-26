@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6m9g-jr8c-cqw3] Depth counting error in guard() leading to multiple potential security issues in aioxmpp,https://github.com/advisories/GHSA-6m9g-jr8c-cqw3,https://j.mp/3d5r76V
