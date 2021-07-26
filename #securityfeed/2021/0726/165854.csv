@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Red Hat Security Advisory 2021-2881-01,https://packetstormsecurity.com/files/163677/RHSA-2021-2881-01.txt,https://j.mp/3BE6LPf
+PacketstormSecurity,Gentoo Linux Security Advisory 202107-55,https://packetstormsecurity.com/files/163676/glsa-202107-55.txt,https://j.mp/3xgysu5
+PacketstormSecurity,WordPress SP Project And Document Remote Code Execution,https://packetstormsecurity.com/files/163675/wp_plugin_sp_project_document_rce.rb.txt,https://j.mp/3iOhEVY
+PacketstormSecurity,Backdoor.Win32.Nbdd.bgz Buffer Overflow,https://packetstormsecurity.com/files/163674/MVID-2021-0309.txt,https://j.mp/3iNMWMv
+PacketstormSecurity,Backdoor.Win32.Bifrose.acci Buffer Overflow,https://packetstormsecurity.com/files/163673/MVID-2021-0308.txt,https://j.mp/3iRzSps
+PacketstormSecurity,WordPress Modern Events Calendar Remote Code Execution,https://packetstormsecurity.com/files/163672/wp_plugin_modern_events_calendar_rce.rb.txt,https://j.mp/2WhGvcZ
+PacketstormSecurity,Kernel Live Patch Security Notice LSN-0079-1,https://packetstormsecurity.com/files/163671/LSN-0079-1.txt,https://j.mp/3eY6UTD
+PacketstormSecurity,Gentoo Linux Security Advisory 202107-54,https://packetstormsecurity.com/files/163670/glsa-202107-54.txt,https://j.mp/3zImlaN
+PacketstormSecurity,Backdoor.Win32.PsyRat.b Code Execution,https://packetstormsecurity.com/files/163669/MVID-2021-0306.txt,https://j.mp/3rAggKs
+PacketstormSecurity,NoteBurner 2.35 Denial Of Service,https://packetstormsecurity.com/files/163668/noteburner235-dos.txt,https://j.mp/2UPhoxY
+PacketstormSecurity,Backdoor.Win32.PsyRat.b Denial Of Service,https://packetstormsecurity.com/files/163667/MVID-2021-0307.txt,https://j.mp/3zFZxIn
+PacketstormSecurity,Backdoor.Win32.Agent.cu Code Execution,https://packetstormsecurity.com/files/163666/MVID-2021-0305.txt,https://j.mp/372Ntow
+PacketstormSecurity,Backdoor.Win32.Agent.cu Man-In-The-Middle,https://packetstormsecurity.com/files/163665/MVID-2021-0304.txt,https://j.mp/3iMvAzL
+PacketstormSecurity,Red Hat Security Advisory 2021-2883-01,https://packetstormsecurity.com/files/163664/RHSA-2021-2883-01.txt,https://j.mp/3ryPsKJ
+PacketstormSecurity,XOS Shop 1.0.9 Arbitrary File Deletion,https://packetstormsecurity.com/files/163663/xosshop109-filedelete.txt,https://j.mp/3iNwtYW
+PacketstormSecurity,Red Hat Security Advisory 2021-2882-01,https://packetstormsecurity.com/files/163662/RHSA-2021-2882-01.txt,https://j.mp/371fmxd
+PacketstormSecurity,Backdoor.Win32.Agent.cu Authentication Bypass,https://packetstormsecurity.com/files/163661/MVID-2021-0303.txt,https://j.mp/2Vd2tNQ
+PacketstormSecurity,Leawo Prof. Media 11.0.0.1 Denial Of Service,https://packetstormsecurity.com/files/163660/lpm11001-dos.txt,https://j.mp/36YNuKd
+PacketstormSecurity,Backdoor.Win32.Mazben.me Unauthenticated Open Proxy,https://packetstormsecurity.com/files/163659/MVID-2021-0302.txt,https://j.mp/372NtF2
+PacketstormSecurity,Backdoor.Win32.Hupigon.aaur Unauthenticated Open Proxy,https://packetstormsecurity.com/files/163658/MVID-2021-0301.txt,https://j.mp/3x72gcq
+PacketstormSecurity,Elasticsearch ECE 7.13.3 Database Disclosure,https://packetstormsecurity.com/files/163655/elasticsearchexe7133-disclose.txt,https://j.mp/372NtVy
+PacketstormSecurity,Zabbix 5.x SQL Injection / Cross Site Scripting,https://packetstormsecurity.com/files/163657/zabbix5x-sqlxss.txt,https://j.mp/3eY5TLD
+PacketstormSecurity,Gentoo Linux Security Advisory 202107-53,https://packetstormsecurity.com/files/163656/glsa-202107-53.txt,https://j.mp/3BGq8Hl
