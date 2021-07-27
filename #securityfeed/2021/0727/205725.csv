@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r6v3-hpxj-r8rv] Code Injection in PyXDG,https://github.com/advisories/GHSA-r6v3-hpxj-r8rv,https://j.mp/3BX7gEf
+GithubAdvisories,[GHSA-2hw2-62cp-p9p7] Access control bypass in Apache ZooKeeper,https://github.com/advisories/GHSA-2hw2-62cp-p9p7,https://j.mp/2Z78mKe
+GithubAdvisories,[GHSA-42xw-2xvc-qx8m] Denial of Service in axios,https://github.com/advisories/GHSA-42xw-2xvc-qx8m,https://j.mp/32NFnxE
+GithubAdvisories,[GHSA-jxgm-9f58-w4xp] Improper Input Validation in Apache Archiva,https://github.com/advisories/GHSA-jxgm-9f58-w4xp,https://j.mp/3zF72Q0
+GithubAdvisories,[GHSA-gcm4-q2pg-xw89] Moderate severity vulnerability that affects ipycache,https://github.com/advisories/GHSA-gcm4-q2pg-xw89,https://j.mp/3x6k871
+GithubAdvisories,[GHSA-jpv3-g4cc-6vfx] Moderate severity vulnerability that affects org.apache.activemq:activemq-client,https://github.com/advisories/GHSA-jpv3-g4cc-6vfx,https://j.mp/377ZwRv
