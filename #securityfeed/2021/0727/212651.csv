@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fhjf-83wg-r2j9] Prototype Pollution in mixin-deep,https://github.com/advisories/GHSA-fhjf-83wg-r2j9,https://j.mp/39fOgSE
+GithubAdvisories,[GHSA-36hf-6hp2-9g4c] Local file inclusion allows unauthorized access to internal resources,https://github.com/advisories/GHSA-36hf-6hp2-9g4c,https://j.mp/3ia04N8
+GithubAdvisories,[GHSA-77jf-fjjf-xcww] Invalid Curve Attack in openpgp,https://github.com/advisories/GHSA-77jf-fjjf-xcww,https://j.mp/3hLGxQo
+GithubAdvisories,[GHSA-66rh-8fw6-59q6] Prototype Pollution in assign-deep,https://github.com/advisories/GHSA-66rh-8fw6-59q6,https://j.mp/32F9AP7
+GithubAdvisories,[GHSA-fp5j-3fpf-mhj5] Sensitive data written to disk unencrypted in Spark,https://github.com/advisories/GHSA-fp5j-3fpf-mhj5,https://j.mp/3c4JcRI
+GithubAdvisories,[GHSA-9qcf-c26r-x5rf] XML external entity injection in Terracotta Quartz Scheduler,https://github.com/advisories/GHSA-9qcf-c26r-x5rf,https://j.mp/2NHJtAa
+GithubAdvisories,[GHSA-xfhh-rx56-rxcr] Path Traversal vulnerability that affects yard,https://github.com/advisories/GHSA-xfhh-rx56-rxcr,https://j.mp/2UUqBFg
