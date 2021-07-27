@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hgch-jjmr-gp7w] Sandbox Breakout / Arbitrary Code Execution in safer-eval,https://github.com/advisories/GHSA-hgch-jjmr-gp7w,https://j.mp/34mOXto
+GithubAdvisories,[GHSA-r3x4-wr4h-pw33] Sandbox Breakout / Arbitrary Code Execution in safer-eval,https://github.com/advisories/GHSA-r3x4-wr4h-pw33,https://j.mp/3gLS80y
+GithubAdvisories,[GHSA-582f-p4pg-xc74] Regular Expression Denial of Service in csv-parse,https://github.com/advisories/GHSA-582f-p4pg-xc74,https://j.mp/3rF9MKc
+GithubAdvisories,[GHSA-gjmw-vf9h-g25v] Polymorphic typing issue,https://github.com/advisories/GHSA-gjmw-vf9h-g25v,https://j.mp/3g7AlRR
+GithubAdvisories,[GHSA-8687-vv9j-hgph] Improper Input Validation in Automattic Mongoose,https://github.com/advisories/GHSA-8687-vv9j-hgph,https://j.mp/3741Okx
+GithubAdvisories,[GHSA-fmmc-742q-jg75] Polymorphic typing issue,https://github.com/advisories/GHSA-fmmc-742q-jg75,https://j.mp/2Elri1D
+GithubAdvisories,[GHSA-xm6j-x342-gwq9] Unpublished files are exposed publicly,https://github.com/advisories/GHSA-xm6j-x342-gwq9,https://j.mp/2VhhdeN
