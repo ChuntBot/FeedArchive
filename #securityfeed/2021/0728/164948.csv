@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hm6q-r2jc-cpqh] Malicious Package in lodahs,https://github.com/advisories/GHSA-hm6q-r2jc-cpqh,https://j.mp/2sALzKY
+GithubAdvisories,[GHSA-v63x-xc9j-hhvq] Sandbox Breakout / Arbitrary Code Execution in safer-eval,https://github.com/advisories/GHSA-v63x-xc9j-hhvq,https://j.mp/2Pd6gpb
+GithubAdvisories,[GHSA-xhh6-956q-4q69] Argument injection in a MimeTypeGuesser in Symfony,https://github.com/advisories/GHSA-xhh6-956q-4q69,https://j.mp/373OwV8
