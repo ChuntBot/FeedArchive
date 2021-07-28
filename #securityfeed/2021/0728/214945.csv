@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g2f6-v5qh-h2mq] Nexus Repository Manager 3 - Remote Code Execution,https://github.com/advisories/GHSA-g2f6-v5qh-h2mq,https://j.mp/3eeVHMy
+GithubAdvisories,[GHSA-ffxg-xm4w-3wg9] Command Injection in corenlp-js-interface,https://github.com/advisories/GHSA-ffxg-xm4w-3wg9,https://j.mp/3gXbGAM
+GithubAdvisories,[GHSA-h73g-8g27-xxcx] Command injection in corenlp-js-prefab,https://github.com/advisories/GHSA-h73g-8g27-xxcx,https://j.mp/3a7ulrb
+GithubAdvisories,[GHSA-q8xg-8xwf-m598] Machine-In-The-Middle in lix,https://github.com/advisories/GHSA-q8xg-8xwf-m598,https://j.mp/2xxyNzx
+GithubAdvisories,[GHSA-37cf-r3w2-gjfw] django-nopassword stores secrets in cleartext,https://github.com/advisories/GHSA-37cf-r3w2-gjfw,https://j.mp/2XZ7NCg
