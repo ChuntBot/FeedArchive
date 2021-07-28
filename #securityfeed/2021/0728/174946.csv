@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7pm4-g2qj-j85x] CSRF attack via CORS preflight requests with Spring MVC or Spring WebFlux,https://github.com/advisories/GHSA-7pm4-g2qj-j85x,https://j.mp/2sJZjmP
+GithubAdvisories,[GHSA-gww7-p5w4-wrfv] Deserialization of Untrusted Data in jackson-databind,https://github.com/advisories/GHSA-gww7-p5w4-wrfv,https://j.mp/2wqSqIG
+GithubAdvisories,[GHSA-qr9h-vr5p-pwwx] Denial of Service (DoS) in restify-paginate,https://github.com/advisories/GHSA-qr9h-vr5p-pwwx,https://j.mp/2Qj055A
