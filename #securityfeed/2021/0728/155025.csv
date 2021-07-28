@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4vpc-5jx4-cfqg] User enumeration leak using switch user functionality in Symfony,https://github.com/advisories/GHSA-4vpc-5jx4-cfqg,https://j.mp/3x4IvlG
+GithubAdvisories,[GHSA-89mq-4x47-5v83] Prototype Pollution in angular,https://github.com/advisories/GHSA-89mq-4x47-5v83,https://j.mp/2E6fgG0
+GithubAdvisories,[GHSA-cff7-6h4q-q5pj] Lacked element count during splitting of JWE string,https://github.com/advisories/GHSA-cff7-6h4q-q5pj,https://j.mp/3nhNc7Y
+GithubAdvisories,[GHSA-427g-2r83-3ccm] Information disclosure through processing of external XML entities,https://github.com/advisories/GHSA-427g-2r83-3ccm,https://j.mp/3rGMSlV
