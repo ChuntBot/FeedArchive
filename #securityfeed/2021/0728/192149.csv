@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7xc5-ggpp-g249] Server-Side Template Injection in pwntools,https://github.com/advisories/GHSA-7xc5-ggpp-g249,https://j.mp/3vbVG3T
+GithubAdvisories,[GHSA-c8qc-62qv-5p2x] Out-of-bounds Write in ChakraCore,https://github.com/advisories/GHSA-c8qc-62qv-5p2x,https://j.mp/3l2PRnv
+GithubAdvisories,[GHSA-h2xm-2p6w-mj2v] Out-of-bounds Write in ChakraCore,https://github.com/advisories/GHSA-h2xm-2p6w-mj2v,https://j.mp/3l1zgQW
+GithubAdvisories,[GHSA-6cc6-66f5-mxjj] Out-of-bounds write in ChakraCore,https://github.com/advisories/GHSA-6cc6-66f5-mxjj,https://j.mp/3xe1jPo
+GithubAdvisories,[GHSA-86gw-g9jv-8vfg] Out-of-bounds write in ChakraCore,https://github.com/advisories/GHSA-86gw-g9jv-8vfg,https://j.mp/2VcBQZs
+GithubAdvisories,[GHSA-g644-6fg4-hrh9] Out-of-bounds write in ChakraCore,https://github.com/advisories/GHSA-g644-6fg4-hrh9,https://j.mp/3f6xcDq
+GithubAdvisories,[GHSA-jv2c-mhcq-6wp4] Out-of-bounds write in ChakraCore,https://github.com/advisories/GHSA-jv2c-mhcq-6wp4,https://j.mp/3l7vDZy
+GithubAdvisories,[GHSA-2qgv-2cv4-g4cg] Out-of-bounds write in ChakraCore,https://github.com/advisories/GHSA-2qgv-2cv4-g4cg,https://j.mp/372IzrE
+GithubAdvisories,[GHSA-4449-hg37-77v8] Command injection in total.js,https://github.com/advisories/GHSA-4449-hg37-77v8,https://j.mp/2YR422s
+GithubAdvisories,[GHSA-5p67-cp9c-hqw4] Out-of-bounds write in ChakraCore,https://github.com/advisories/GHSA-5p67-cp9c-hqw4,https://j.mp/3l8cjvw
+GithubAdvisories,[GHSA-wvhv-rr3v-vhpj] Out-of-bounds write in ChakraCore,https://github.com/advisories/GHSA-wvhv-rr3v-vhpj,https://j.mp/3f6QFDZ
+GithubAdvisories,[GHSA-j89m-gcjf-6ghp] Out-of-bounds write in ChakraCore,https://github.com/advisories/GHSA-j89m-gcjf-6ghp,https://j.mp/3rS2ovv
+GithubAdvisories,[GHSA-7j34-xq9v-9mqg] Out-of-bounds write in ChakraCore,https://github.com/advisories/GHSA-7j34-xq9v-9mqg,https://j.mp/3xasFWK
+GithubAdvisories,[GHSA-rhm9-p9w5-fwm7] Symmetrically encrypting large values can lead to integer overflow,https://github.com/advisories/GHSA-rhm9-p9w5-fwm7,https://j.mp/3jBDNXG
+GithubAdvisories,[GHSA-333x-qr3v-g4xx] Command injection in spritesheet-js,https://github.com/advisories/GHSA-333x-qr3v-g4xx,https://j.mp/3wQ2BBl
+GithubAdvisories,[GHSA-pq4w-qm9g-qx68] Insufficient Nonce Validation in Eclipse Milo Client,https://github.com/advisories/GHSA-pq4w-qm9g-qx68,https://j.mp/2xBh4Xx
