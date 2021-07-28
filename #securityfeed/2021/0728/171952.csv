@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ww97-9w65-2crx] Improper Input Validation in Apache Solr,https://github.com/advisories/GHSA-ww97-9w65-2crx,https://j.mp/2uwtTl1
+GithubAdvisories,"[GHSA-hh3j-x4mc-g48r] In Apache Tomcat, a local attacker may be able to perform a man-in-the-middle attack to capture user names and passwords",https://github.com/advisories/GHSA-hh3j-x4mc-g48r,https://j.mp/35YX9OP
