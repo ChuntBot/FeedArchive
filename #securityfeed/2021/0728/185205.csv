@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7qx4-pp76-vrqh] Remote code execution in Apache Commons Configuration,https://github.com/advisories/GHSA-7qx4-pp76-vrqh,https://j.mp/36i0Ks8
+GithubAdvisories,[GHSA-vh95-rmgr-6w4m] Prototype Pollution in minimist,https://github.com/advisories/GHSA-vh95-rmgr-6w4m,https://j.mp/3aFqPCI
+GithubAdvisories,[GHSA-p5xh-vx83-mxcj] HTTP Request Smuggling in Twisted,https://github.com/advisories/GHSA-p5xh-vx83-mxcj,https://j.mp/3dCebGu
+GithubAdvisories,[GHSA-jxfh-8wgv-vfr2] Prototype pollution in dojo,https://github.com/advisories/GHSA-jxfh-8wgv-vfr2,https://j.mp/2W3wfmr
+GithubAdvisories,[GHSA-c9hw-wf7x-jp9j] Improper Privilege Management in Tomcat,https://github.com/advisories/GHSA-c9hw-wf7x-jp9j,https://j.mp/2N2UbRf
+GithubAdvisories,[GHSA-mxhp-79qh-mcx6] taffy can allow access to any data items in the DB,https://github.com/advisories/GHSA-mxhp-79qh-mcx6,https://j.mp/39LQCbC
+GithubAdvisories,[GHSA-ph32-23p8-9rw5] Improper Input Validation in network-manager,https://github.com/advisories/GHSA-ph32-23p8-9rw5,https://j.mp/3mIwOO0
