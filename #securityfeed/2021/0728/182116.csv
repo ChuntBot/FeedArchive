@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4rv9-5vc4-88cg] Command injection in node-ps,https://github.com/advisories/GHSA-4rv9-5vc4-88cg,https://j.mp/39fPvTV
+GithubAdvisories,[GHSA-fxjm-wvj9-9c39] Information disclosure in Apache Superset,https://github.com/advisories/GHSA-fxjm-wvj9-9c39,https://j.mp/3c870VL
+GithubAdvisories,[GHSA-6qpr-9mc5-7gch] Command Injection in async-git,https://github.com/advisories/GHSA-6qpr-9mc5-7gch,https://j.mp/3uJMKST
+GithubAdvisories,[GHSA-r9w6-rhh9-7v53] Incorrect Authorization in HashiCorp Consul,https://github.com/advisories/GHSA-r9w6-rhh9-7v53,https://j.mp/3BKRmN3
+GithubAdvisories,[GHSA-9vh5-r4qw-v3vv] Improper Resource Shutdown or Release in HashiCorp Vault,https://github.com/advisories/GHSA-9vh5-r4qw-v3vv,https://j.mp/3xbcIzJ
+GithubAdvisories,[GHSA-rgcm-rpq9-9cgr] Missing Authentication for Critical Function in Saleor,https://github.com/advisories/GHSA-rgcm-rpq9-9cgr,https://j.mp/3y6N5kG
+GithubAdvisories,[GHSA-4f26-v6fr-9hmp] Improper Input Validation in Centreon Web,https://github.com/advisories/GHSA-4f26-v6fr-9hmp,https://j.mp/2WwTec4
