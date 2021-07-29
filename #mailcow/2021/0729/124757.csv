@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommit,[Dovecot] Update Dovecot image,https://github.com/mailcow/mailcow-dockerized/commit/27917c3feb84994d7e7db8ca71afb473f52362c5,https://j.mp/3rEwAKe
+GithubCommit,[Config] Add hint about http bind and https bind to generate_config,https://github.com/mailcow/mailcow-dockerized/commit/e98a8a533ba47346280f580207c366bb53954f9f,https://j.mp/3f9LVNU
+GithubCommit,[Dovecot] Change sieve scripts for DeltaChat,https://github.com/mailcow/mailcow-dockerized/commit/96a460c2faa97e0776f563ceb81ffdded8a91913,https://j.mp/3l9Ac5S
+GithubCommit,Merge branch 'master' of github.com:mailcow/mailcow-dockerized,https://github.com/mailcow/mailcow-dockerized/commit/21cb3f67b3a3444e3220153575effc08ccaf777f,https://j.mp/3A1PIVJ
+GithubCommit,[Web] Set default relayhost to 0 when adding a mailbox; add missing l…,https://github.com/mailcow/mailcow-dockerized/commit/fcbd4e762d4a0617385804bb228ed0dd824d5c5f,https://j.mp/2VjDAQu
