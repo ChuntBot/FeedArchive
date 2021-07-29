@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5wm5-8q42-rhxg] File system access via H2 in Apache Ignite,https://github.com/advisories/GHSA-5wm5-8q42-rhxg,https://j.mp/30atDFs
+GithubAdvisories,[GHSA-mgh5-4h95-qj4p] Information Exposure in Snyk Broker,https://github.com/advisories/GHSA-mgh5-4h95-qj4p,https://j.mp/2U7dmNQ
+GithubAdvisories,[GHSA-2fmp-7xwf-wvwr] Arbitrary File Read in Snyk Broker,https://github.com/advisories/GHSA-2fmp-7xwf-wvwr,https://j.mp/2zZTB3N
+GithubAdvisories,[GHSA-9xv2-548x-5h79] Arbitrary File Read in Snyk Broker,https://github.com/advisories/GHSA-9xv2-548x-5h79,https://j.mp/2zZTsNN
