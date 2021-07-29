@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-36j3-xxf7-4pqg] Universal XSS in Android WebView,https://github.com/advisories/GHSA-36j3-xxf7-4pqg,https://j.mp/36pReVN
+GithubAdvisories,[GHSA-mqm2-cgpr-p4m6] Unintended read access in kramdown gem,https://github.com/advisories/GHSA-mqm2-cgpr-p4m6,https://j.mp/2XAMV4Q
+GithubAdvisories,[GHSA-q7j5-9j77-g4gq] Remote code execution in turn extension for TYPO3,https://github.com/advisories/GHSA-q7j5-9j77-g4gq,https://j.mp/3330GwR
+GithubAdvisories,[GHSA-5wg4-74h6-q47v] Integer Overflow or Wraparound and Use of a Broken or Risky Cryptographic Algorithm in bcrypt,https://github.com/advisories/GHSA-5wg4-74h6-q47v,https://j.mp/2YgNzoE
+GithubAdvisories,[GHSA-r96p-v3cr-gfv8] Cross-site Scripting (XSS) in @scullyio/scully,https://github.com/advisories/GHSA-r96p-v3cr-gfv8,https://j.mp/3e5p6K6
+GithubAdvisories,[GHSA-6h7f-qwqm-35pp] Arbitrary File Read in phantom-html-to-pdf,https://github.com/advisories/GHSA-6h7f-qwqm-35pp,https://j.mp/3lamblu
