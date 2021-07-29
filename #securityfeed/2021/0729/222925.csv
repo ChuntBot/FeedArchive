@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-92xj-mqp7-vmcj] Prototype Pollution in node-forge,https://github.com/advisories/GHSA-92xj-mqp7-vmcj,https://j.mp/3iAJuDK
+GithubAdvisories,[GHSA-hrpq-r399-whgw] Sandbox Breakout / Arbitrary Code Execution in safe-eval,https://github.com/advisories/GHSA-hrpq-r399-whgw,https://j.mp/34BWSDp
