@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-426h-24vj-qwxf] Command Injection in npm-programmatic,https://github.com/advisories/GHSA-426h-24vj-qwxf,https://j.mp/2yA0vvQ
+GithubAdvisories,[GHSA-gv3v-92v6-m48j] Improper Neutralization of CRLF Sequences in HTTP Headers in Jooby ('HTTP Response Splitting),https://github.com/advisories/GHSA-gv3v-92v6-m48j,https://j.mp/2VcIgEr
+GithubAdvisories,[GHSA-6gp3-h3jj-prx4] Prototype pollution in class-transformer,https://github.com/advisories/GHSA-6gp3-h3jj-prx4,https://j.mp/2XhYpuA
