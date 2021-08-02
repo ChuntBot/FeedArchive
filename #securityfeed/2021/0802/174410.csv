@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j66f-h9hm-975m] Unrestricted Upload of File with Dangerous Type in Umbraco CMS,https://github.com/advisories/GHSA-j66f-h9hm-975m,https://j.mp/3lmOpMM
+GithubAdvisories,[GHSA-9q94-v7ch-mxqw] Insufficient Session Expiration and TOCTOU Race Condition in OPC FOundation UA .Net Standard,https://github.com/advisories/GHSA-9q94-v7ch-mxqw,https://j.mp/3jechzF
+GithubAdvisories,[GHSA-mvvp-gwgc-5hrp] Path Traversal in elFinder.Net.Core,https://github.com/advisories/GHSA-mvvp-gwgc-5hrp,https://j.mp/3C5ZNT7
+GithubAdvisories,[GHSA-wc43-7wj6-4ggr] Remote code execution in ChakraCore,https://github.com/advisories/GHSA-wc43-7wj6-4ggr,https://j.mp/37clPWh
+GithubAdvisories,[GHSA-xxfr-jrgh-x392] Remote code execution in ChakraCore,https://github.com/advisories/GHSA-xxfr-jrgh-x392,https://j.mp/2WDCjo8
+GithubAdvisories,[GHSA-9f8c-f7h4-xghf] Remote code execution in ChakraCore,https://github.com/advisories/GHSA-9f8c-f7h4-xghf,https://j.mp/3jjkEKf
+GithubAdvisories,[GHSA-v726-3vg9-cp34] Missing Authorization in FastReport,https://github.com/advisories/GHSA-v726-3vg9-cp34,https://j.mp/3A84iuR
+GithubAdvisories,[GHSA-pfrg-w49c-8432] Out-of-bounds write in ChakraCore,https://github.com/advisories/GHSA-pfrg-w49c-8432,https://j.mp/3ChRTq7
+GithubAdvisories,[GHSA-vpc2-7xmf-ppmf] Out-of-bounds Write in ChakraCore,https://github.com/advisories/GHSA-vpc2-7xmf-ppmf,https://j.mp/3rSPSLZ
+GithubAdvisories,[GHSA-88cw-3m6x-49f7] Out-of-bounds Write in ChakraCore,https://github.com/advisories/GHSA-88cw-3m6x-49f7,https://j.mp/3lorMHG
+GithubAdvisories,[GHSA-f2c9-5jqw-3xh3] Cross-Site Scripting in Qiita::Markdown,https://github.com/advisories/GHSA-f2c9-5jqw-3xh3,https://j.mp/3CixGAq
+GithubAdvisories,[GHSA-9p29-94hp-8rvc] XSS in qiita-markdown,https://github.com/advisories/GHSA-9p29-94hp-8rvc,https://j.mp/3lBFMyf
+GithubAdvisories,[GHSA-rc7p-gmvh-xfx2] Attack on Kubernetes via Misconfigured Argo Workflows,https://github.com/advisories/GHSA-rc7p-gmvh-xfx2,https://j.mp/37g5hg8
+GithubAdvisories,[GHSA-f6px-w8rh-7r89] Data race in Beego,https://github.com/advisories/GHSA-f6px-w8rh-7r89,https://j.mp/3jfimM7
