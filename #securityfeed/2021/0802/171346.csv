@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fp52-qw33-mfmw] Authentication Bypass by Spoofing and Insufficient Verification of Data Authenticity in Hashicorp Vault,https://github.com/advisories/GHSA-fp52-qw33-mfmw,https://j.mp/37fLwFk
+GithubAdvisories,[GHSA-hv53-q76c-7f8c] OS Command Injection in OpenTSDB,https://github.com/advisories/GHSA-hv53-q76c-7f8c,https://j.mp/3A6Q90X
+GithubAdvisories,[GHSA-qhxh-9hhx-6p7v] Prototype Pollution in GraphHopper,https://github.com/advisories/GHSA-qhxh-9hhx-6p7v,https://j.mp/3A4XAWu
+GithubAdvisories,[GHSA-9c8w-jrw3-q2c3] Cross-site Scripting in OWASP AntiSamy,https://github.com/advisories/GHSA-9c8w-jrw3-q2c3,https://j.mp/3fmNkkr
+GithubAdvisories,[GHSA-5v34-g2px-j4fw] Improper Handling of Length Parameter Inconsistency in Apache Ant,https://github.com/advisories/GHSA-5v34-g2px-j4fw,https://j.mp/3zWQtz4
+GithubAdvisories,[GHSA-q5r4-cfpx-h6fh] Improper Handling of Length Parameter Inconsistency in Apache Ant,https://github.com/advisories/GHSA-q5r4-cfpx-h6fh,https://j.mp/2VjPl9Y
+GithubAdvisories,[GHSA-mc84-pj99-q6hh] Improper Handling of Length Parameter Inconsistency in Compress,https://github.com/advisories/GHSA-mc84-pj99-q6hh,https://j.mp/3ln0SQx
+GithubAdvisories,[GHSA-xqfj-vm6h-2x34] Improper Handling of Length Parameter Inconsistency in Compress,https://github.com/advisories/GHSA-xqfj-vm6h-2x34,https://j.mp/37bXpMy
+GithubAdvisories,[GHSA-crv7-7245-f45f] Improper Handling of Length Parameter Inconsistency in Compress,https://github.com/advisories/GHSA-crv7-7245-f45f,https://j.mp/3jiiA52
+GithubAdvisories,[GHSA-7hfm-57qf-j43q] Excessive Iteration in Compress,https://github.com/advisories/GHSA-7hfm-57qf-j43q,https://j.mp/3xq2fAA
+GithubAdvisories,[GHSA-9279-7hph-r3xw] Buffer Overflow in Apache Mina SSHD,https://github.com/advisories/GHSA-9279-7hph-r3xw,https://j.mp/3A1yesf
+GithubAdvisories,[GHSA-q39c-5vh5-vw2p] Improper Authentication in Apereo CAS,https://github.com/advisories/GHSA-q39c-5vh5-vw2p,https://j.mp/3ihevyH
