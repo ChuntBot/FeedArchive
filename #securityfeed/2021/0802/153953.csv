@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-934w-hvj4-7fr6] Path Traversal in jsreport-chrome-pdf,https://github.com/advisories/GHSA-934w-hvj4-7fr6,https://j.mp/3mIXttX
+GithubAdvisories,[GHSA-hxp5-8pgq-mgv9] Missing Authentication for Critical Function in Apache Calcite,https://github.com/advisories/GHSA-hxp5-8pgq-mgv9,https://j.mp/32BGssH
+GithubAdvisories,[GHSA-f7wm-x4gw-6m23] Insert tag injection in forms,https://github.com/advisories/GHSA-f7wm-x4gw-6m23,https://j.mp/33TZ5Il
