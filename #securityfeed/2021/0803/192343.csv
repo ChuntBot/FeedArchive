@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3jfq-g458-7qm9] Arbitrary File Creation/Overwrite due to insufficient absolute path sanitization,https://github.com/advisories/GHSA-3jfq-g458-7qm9,https://j.mp/2VvoCat
+GithubAdvisories,[GHSA-jfq2-rj7f-9gvf] Null pointer dereference in TensorFlow leads to exploitation,https://github.com/advisories/GHSA-jfq2-rj7f-9gvf,https://j.mp/2zD1T1i
+GithubAdvisories,[GHSA-r628-mhmh-qjhw] Arbitrary File Creation/Overwrite via insufficient symlink protection due to directory cache poisoning,https://github.com/advisories/GHSA-r628-mhmh-qjhw,https://j.mp/3xpWh2m
+GithubAdvisories,[GHSA-9x2h-hvg6-4r5p] Improper Authentication in Apache Zeppelin,https://github.com/advisories/GHSA-9x2h-hvg6-4r5p,https://j.mp/3xhdafP
+GithubAdvisories,[GHSA-246w-56m2-5899] Cross-site scripting (XSS) vulnerability in the password reset endpoint,https://github.com/advisories/GHSA-246w-56m2-5899,https://j.mp/3crZaZk
+GithubAdvisories,[GHSA-c538-924g-99q4] Session Fixation in Apache Zeppelin,https://github.com/advisories/GHSA-c538-924g-99q4,https://j.mp/3xlQ4ES
+GithubAdvisories,[GHSA-c5f8-35qr-q4fm] HTML injection in email and account expiry notifications,https://github.com/advisories/GHSA-c5f8-35qr-q4fm,https://j.mp/3u0dlLk
