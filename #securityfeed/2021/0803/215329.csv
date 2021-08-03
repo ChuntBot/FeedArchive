@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wv67-9jq7-8r69] Improper Input Validation and Buffer Over-read in mqtt-packet,https://github.com/advisories/GHSA-wv67-9jq7-8r69,https://j.mp/2VdfCHi
+GithubAdvisories,[GHSA-jgmr-wrwx-mgfj] Exposure of Sensitive Information to an Unauthorized Actor and SQL Injection in Spring Data JPA,https://github.com/advisories/GHSA-jgmr-wrwx-mgfj,https://j.mp/3rTFB2o
+GithubAdvisories,[GHSA-4x49-w62v-76q7] Path Traversal in Spring Cloud Config,https://github.com/advisories/GHSA-4x49-w62v-76q7,https://j.mp/3Cf5jmH
+GithubAdvisories,[GHSA-g99m-3m46-4gm9] Infinite Loop in Apache Sanselan,https://github.com/advisories/GHSA-g99m-3m46-4gm9,https://j.mp/3yzQ0m0
+GithubAdvisories,[GHSA-vm59-329q-p468] Cross-site Scripting in Apache UIMA,https://github.com/advisories/GHSA-vm59-329q-p468,https://j.mp/2WN3ddj
+GithubAdvisories,[GHSA-4wjq-69rc-8wcp] Path Traversal in Apache Camel,https://github.com/advisories/GHSA-4wjq-69rc-8wcp,https://j.mp/3jlyADj
+GithubAdvisories,[GHSA-j44m-qm6p-hp7m] Arbitrary File Overwrite in tar,https://github.com/advisories/GHSA-j44m-qm6p-hp7m,https://j.mp/34QMcRq
+GithubAdvisories,[GHSA-x2mc-8fgj-3wmr] Improper Input Validation in tar-fs,https://github.com/advisories/GHSA-x2mc-8fgj-3wmr,https://j.mp/3AbYIHR
+GithubAdvisories,[GHSA-72fv-qgj6-2w2p] Cross-site Scripting in NodeBB,https://github.com/advisories/GHSA-72fv-qgj6-2w2p,https://j.mp/3fr2jts
+GithubAdvisories,[GHSA-mfg7-x5m7-6p8w] NULL Pointer Dereference in Google TensorFlow,https://github.com/advisories/GHSA-mfg7-x5m7-6p8w,https://j.mp/3jokZvd
+GithubAdvisories,[GHSA-gc52-xj6p-9pxp] Exposure of Sensitive Information to an Unauthorized Actor in Keycloak,https://github.com/advisories/GHSA-gc52-xj6p-9pxp,https://j.mp/2WIzVwo
