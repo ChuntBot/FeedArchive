@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mw6v-crh8-8533] Integer Overflow or Wraparound in Google TensorFlow,https://github.com/advisories/GHSA-mw6v-crh8-8533,https://j.mp/3A6ix35
+GithubAdvisories,[GHSA-q492-f7gr-27rp] Improper Restriction of Operations within the Bounds of a Memory Buffer in Google TensorFlow,https://github.com/advisories/GHSA-q492-f7gr-27rp,https://j.mp/3A6Hc7B
+GithubAdvisories,[GHSA-qx2v-j445-g354] Improper Input Validation in Google TensorFlow,https://github.com/advisories/GHSA-qx2v-j445-g354,https://j.mp/37hbGHA
+GithubAdvisories,[GHSA-frxx-2m33-6wcr] Improper Restriction of Operations within the Bounds of a Memory Buffer in Google TensorFlow,https://github.com/advisories/GHSA-frxx-2m33-6wcr,https://j.mp/3rPuIyg
