@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2xv3-h762-ccxv] Out-of-bounds Read in concat-with-sourcemaps,https://github.com/advisories/GHSA-2xv3-h762-ccxv,https://j.mp/3gXZ4Yz
+GithubAdvisories,[GHSA-hp5r-mhgp-56c9] Cross-site Scriptin in JSPWiki,https://github.com/advisories/GHSA-hp5r-mhgp-56c9,https://j.mp/3yqJkH2
+GithubAdvisories,[GHSA-cj6j-32rg-45r2] Cross-site Scripting in JSPWiki,https://github.com/advisories/GHSA-cj6j-32rg-45r2,https://j.mp/3rW36HL
