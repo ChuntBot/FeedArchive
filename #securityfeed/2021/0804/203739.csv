@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wrw9-m778-g6mc] Memory Exposure in bl,https://github.com/advisories/GHSA-wrw9-m778-g6mc,https://j.mp/3hRQD26
+GithubAdvisories,[GHSA-xc7v-wxcw-j472] Memory Exposure in tunnel-agent,https://github.com/advisories/GHSA-xc7v-wxcw-j472,https://j.mp/3lMtfpc
+GithubAdvisories,[GHSA-j4mr-9xw3-c9jx] Out-of-bounds Read in base64-url,https://github.com/advisories/GHSA-j4mr-9xw3-c9jx,https://j.mp/351fvkv
+GithubAdvisories,[GHSA-8xqr-4cpm-wx7g] Cross-Site Scripting in react-svg,https://github.com/advisories/GHSA-8xqr-4cpm-wx7g,https://j.mp/2Z1q4ju
+GithubAdvisories,[GHSA-7jfh-2xc9-ccv7] Cross-Site Scripting in public,https://github.com/advisories/GHSA-7jfh-2xc9-ccv7,https://j.mp/31VgVLh
+GithubAdvisories,[GHSA-vmhw-fhj6-m3g5] Path Traversal in angular-http-server,https://github.com/advisories/GHSA-vmhw-fhj6-m3g5,https://j.mp/31XvBtA
+GithubAdvisories,[GHSA-jj6g-7j8p-7gf2] Cross-Site Scripting in bracket-template,https://github.com/advisories/GHSA-jj6g-7j8p-7gf2,https://j.mp/3hXOFx8
+GithubAdvisories,[GHSA-j59f-6m4q-62h6] Improper Key Verification in ipns,https://github.com/advisories/GHSA-j59f-6m4q-62h6,https://j.mp/3hXFL2T
+GithubAdvisories,[GHSA-27v7-qhfv-rqq8] Insecure Credential Storage in web3,https://github.com/advisories/GHSA-27v7-qhfv-rqq8,https://j.mp/2QStlNW
+GithubAdvisories,[GHSA-87mg-h5r3-hw88] Cross-Site Scripting in bootbox,https://github.com/advisories/GHSA-87mg-h5r3-hw88,https://j.mp/3jCH5IK
+GithubAdvisories,[GHSA-xf7w-r453-m56c] Arbitrary File Overwrite in fstream,https://github.com/advisories/GHSA-xf7w-r453-m56c,https://j.mp/3gMPlEh
+GithubAdvisories,[GHSA-6qh5-wx38-q92g] Directory Traversal in ltt.js,https://github.com/advisories/GHSA-6qh5-wx38-q92g,https://j.mp/2QTLuuI
+GithubAdvisories,[GHSA-2hwp-g4g7-mwwj] Reflected Cross-Site Scripting in jquery.terminal,https://github.com/advisories/GHSA-2hwp-g4g7-mwwj,https://j.mp/31VgVef
+GithubAdvisories,[GHSA-p72p-rjr2-r439] Server-Side Request Forgery in terriajs-server,https://github.com/advisories/GHSA-p72p-rjr2-r439,https://j.mp/31W9QtT
+GithubAdvisories,[GHSA-qr32-j4j6-3m7r] Command Injection in fs-git,https://github.com/advisories/GHSA-qr32-j4j6-3m7r,https://j.mp/2EyoW03
