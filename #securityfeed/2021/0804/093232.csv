@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Client Management System 1.1 - 'cname' Stored Cross-site scripting (XSS),https://www.exploit-db.com/exploits/50177,https://j.mp/3xu0EK4
+ExploitDB,[webapps] qdPM 9.2 - DB Connection String and Password Exposure (Unauthenticated),https://www.exploit-db.com/exploits/50176,https://j.mp/3inHT6B
+ExploitDB,[webapps] qdPM 9.1 - Remote Code Execution (RCE) (Authenticated),https://www.exploit-db.com/exploits/50175,https://j.mp/3ltQKFD
+ExploitDB,[webapps] WordPress Plugin WP Customize Login 1.1 - 'Change Logo Title' Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50174,https://j.mp/3joWBte
