@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-54mg-vgrp-mwx9] Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG) in Ratpack,https://github.com/advisories/GHSA-54mg-vgrp-mwx9,https://j.mp/3fusZtx
+GithubAdvisories,[GHSA-36m4-6v6m-4vpr] Cross-site Scripting in remarkable,https://github.com/advisories/GHSA-36m4-6v6m-4vpr,https://j.mp/3rQWUAW
+GithubAdvisories,[GHSA-8v67-x8q5-3x3g] Cross-Site Scripting in simditor,https://github.com/advisories/GHSA-8v67-x8q5-3x3g,https://j.mp/3jw6Omi
