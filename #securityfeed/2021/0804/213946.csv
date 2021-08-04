@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gm9g-2g8v-fvxj] Prototype Pollution in upmerge,https://github.com/advisories/GHSA-gm9g-2g8v-fvxj,https://j.mp/2Gtfyvd
+GithubAdvisories,[GHSA-g95f-p29q-9xw4] Regular Expression Denial of Service in braces,https://github.com/advisories/GHSA-g95f-p29q-9xw4,https://j.mp/2F5tafb
+GithubAdvisories,[GHSA-83rx-c8cr-6j8q] Insecure Default Configuration in tesseract.js,https://github.com/advisories/GHSA-83rx-c8cr-6j8q,https://j.mp/2QTWAj8
+GithubAdvisories,[GHSA-2pr6-76vf-7546] Denial of Service in js-yaml,https://github.com/advisories/GHSA-2pr6-76vf-7546,https://j.mp/2QY921f
+GithubAdvisories,[GHSA-86p3-4gfq-38f2] Denial of Service in url-relative,https://github.com/advisories/GHSA-86p3-4gfq-38f2,https://j.mp/3bo6MKh
+GithubAdvisories,[GHSA-5v72-xg48-5rpm] Denial of Service in ws,https://github.com/advisories/GHSA-5v72-xg48-5rpm,https://j.mp/2Z4HrQv
+GithubAdvisories,[GHSA-pgcr-7wm4-mcv6] Sensitive Data Exposure in pem,https://github.com/advisories/GHSA-pgcr-7wm4-mcv6,https://j.mp/3jJd3Do
+GithubAdvisories,[GHSA-3p92-886g-qxpq] Remote Memory Exposure in floody,https://github.com/advisories/GHSA-3p92-886g-qxpq,https://j.mp/3lRdxcy
+GithubAdvisories,[GHSA-3fc5-9x9m-vqc4] Privilege Escalation in express-cart,https://github.com/advisories/GHSA-3fc5-9x9m-vqc4,https://j.mp/3bwx8tK
+GithubAdvisories,[GHSA-f7r3-p866-q9qr] Denial of Service in ircdkit,https://github.com/advisories/GHSA-f7r3-p866-q9qr,https://j.mp/32XGquT
+GithubAdvisories,[GHSA-xrmp-99wj-p6jc] Prototype Pollution in deap,https://github.com/advisories/GHSA-xrmp-99wj-p6jc,https://j.mp/2Z1q4Qw
+GithubAdvisories,[GHSA-xm28-fw2x-fqv2] Denial of Service in foreman,https://github.com/advisories/GHSA-xm28-fw2x-fqv2,https://j.mp/3jIAwEx
+GithubAdvisories,[GHSA-hpfq-8wx8-cgqw] Cross-Site Scripting in ids-enterprise,https://github.com/advisories/GHSA-hpfq-8wx8-cgqw,https://j.mp/2Z6342S
+GithubAdvisories,[GHSA-crfx-5phg-hmw9] Cross-Site Scripting in ids-enterprise,https://github.com/advisories/GHSA-crfx-5phg-hmw9,https://j.mp/32Tt3Mj
+GithubAdvisories,[GHSA-fqfj-cmh6-hj49] Ruby OpenID,https://github.com/advisories/GHSA-fqfj-cmh6-hj49,https://j.mp/3rUHZps
+GithubAdvisories,[GHSA-8f93-rv4p-x4jw] SQL Injection in sql,https://github.com/advisories/GHSA-8f93-rv4p-x4jw,https://j.mp/354hq7Y
+GithubAdvisories,[GHSA-57cf-349j-352g] Out-of-bounds Read in npmconf,https://github.com/advisories/GHSA-57cf-349j-352g,https://j.mp/32PJF7w
+GithubAdvisories,[GHSA-gc94-6w89-hpqr] Command Injection in fs-path,https://github.com/advisories/GHSA-gc94-6w89-hpqr,https://j.mp/32WGZ86
+GithubAdvisories,[GHSA-73cw-jxmm-qpgh] Path Traversal in localhost-now,https://github.com/advisories/GHSA-73cw-jxmm-qpgh,https://j.mp/2Z1q3Ms
