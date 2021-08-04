@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6qqf-vvcr-7qrv] Cryptographically Weak PRNG in generate-password,https://github.com/advisories/GHSA-6qqf-vvcr-7qrv,https://j.mp/354hqF0
+GithubAdvisories,[GHSA-pgr8-jg6h-8gw6] Cross-Site Scripting in webpack-bundle-analyzer,https://github.com/advisories/GHSA-pgr8-jg6h-8gw6,https://j.mp/2ELCzJp
+GithubAdvisories,[GHSA-23gj-368h-92pq] Path Traversal in DKPro Core,https://github.com/advisories/GHSA-23gj-368h-92pq,https://j.mp/37gNDZA
+GithubAdvisories,[GHSA-f554-x222-wgf7] Command Injection in Xstream,https://github.com/advisories/GHSA-f554-x222-wgf7,https://j.mp/37hFJPp
