@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hxwm-x553-x359] Arbitrary Command Injection due to Improper Command Sanitization,https://github.com/advisories/GHSA-hxwm-x553-x359,https://j.mp/3jr26aT
+GithubAdvisories,[GHSA-m697-4v8f-55qg] Header dropping in traefik,https://github.com/advisories/GHSA-m697-4v8f-55qg,https://j.mp/3jHydDB
+GithubAdvisories,[GHSA-q3m9-9fj2-mfwr] URL Redirection to Untrusted Site ('Open Redirect') in Products.isurlinportal,https://github.com/advisories/GHSA-q3m9-9fj2-mfwr,https://j.mp/3jtu2Lg
+GithubAdvisories,[GHSA-qcx9-j53g-ccgf] Remote Code Execution via unsafe classes in otherwise permitted modules,https://github.com/advisories/GHSA-qcx9-j53g-ccgf,https://j.mp/3rXZNjG
+GithubAdvisories,[GHSA-g4gq-j4p2-j8fr] Remote Code Execution via Script (Python) objects under Python 3,https://github.com/advisories/GHSA-g4gq-j4p2-j8fr,https://j.mp/3jo5cfT
+GithubAdvisories,[GHSA-7f92-rr6w-cq64] Storage corruption due to variables overwritten by re-entrancy locks,https://github.com/advisories/GHSA-7f92-rr6w-cq64,https://j.mp/3yvHyEG
+GithubAdvisories,[GHSA-xh2p-7p87-fhgh] Incorrect TCR calculation in batchLiquidateTroves() during Recovery Mode,https://github.com/advisories/GHSA-xh2p-7p87-fhgh,https://j.mp/3xqGmRq
