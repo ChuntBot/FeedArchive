@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommit,[Compose] Update to Redis 6; Update PHP FPM image,https://github.com/mailcow/mailcow-dockerized/commit/a40ed30e97ac01790a096b8ea694d4e250de7008,https://j.mp/3jA90dZ
+GithubCommit,[PHP-FPM] Upgrade to PHP 8,https://github.com/mailcow/mailcow-dockerized/commit/6db004bc7960ffa1f37a4f74ed1e8c3a0f883106,https://j.mp/3fLsdZ5
+GithubCommit,[Nginx] Deny inc/lib location,https://github.com/mailcow/mailcow-dockerized/commit/eec75690e03697718c7f648e458bbd941e07b74f,https://j.mp/3lHQyCV
+GithubCommit,[Web] Some minor fixes and improvements for PHP 8,https://github.com/mailcow/mailcow-dockerized/commit/cf8fdae2773e96b7b1753c38f011d77cd2f25448,https://j.mp/3yCzthm
+GithubCommit,[Web] Remove develcow site,https://github.com/mailcow/mailcow-dockerized/commit/cad98f83e64d6359fd30c6c3b8e999e65f562acd,https://j.mp/3jDyEhQ
