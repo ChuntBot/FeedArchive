@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f865-m6cq-j9vx] ReDOS in Mpmath,https://github.com/advisories/GHSA-f865-m6cq-j9vx,https://j.mp/3iwo90H
+GithubAdvisories,[GHSA-4298-89hc-6rfv] Open Redirect in Flask-User,https://github.com/advisories/GHSA-4298-89hc-6rfv,https://j.mp/2U8QTDo
+GithubAdvisories,[GHSA-hwfp-hg2m-9vr2] Integer overflow in pywin32,https://github.com/advisories/GHSA-hwfp-hg2m-9vr2,https://j.mp/3yBO7Wf
+GithubAdvisories,[GHSA-r2mj-8wgq-73m6] XML External Entity Reference in Glances,https://github.com/advisories/GHSA-r2mj-8wgq-73m6,https://j.mp/3ApxXja
+GithubAdvisories,[GHSA-pjxv-w3qj-j8m3] Directory Traversal in elFinder.AspNet,https://github.com/advisories/GHSA-pjxv-w3qj-j8m3,https://j.mp/3AtzRPG
+GithubAdvisories,[GHSA-9hx8-2mrv-r674] Deserialization of Untrusted Data in Apache jUDDI,https://github.com/advisories/GHSA-9hx8-2mrv-r674,https://j.mp/3m1BksP
+GithubAdvisories,[GHSA-3393-hvrj-w7v3] Denial of Service in Elasticsearch,https://github.com/advisories/GHSA-3393-hvrj-w7v3,https://j.mp/3CrCIut
+GithubAdvisories,[GHSA-4x25-f45x-grv5] Missing encryption in Apache Directory Studio,https://github.com/advisories/GHSA-4x25-f45x-grv5,https://j.mp/3m1BkJl
+GithubAdvisories,[GHSA-p8q8-jfcv-g2h2] Directory Traversal in Archive_Tar,https://github.com/advisories/GHSA-p8q8-jfcv-g2h2,https://j.mp/37w3NhG
+GithubAdvisories,[GHSA-ch3r-vp46-8g22] Code injection in topthink/think,https://github.com/advisories/GHSA-ch3r-vp46-8g22,https://j.mp/3lNZmY4
+GithubAdvisories,[GHSA-v2f3-f8x4-m3w8] Cross Site Scripting in LavaLite CMS,https://github.com/advisories/GHSA-v2f3-f8x4-m3w8,https://j.mp/3fJKF4b
+GithubAdvisories,[GHSA-56cx-wf47-hx7w] Improper Restriction of Excessive Authentication Attempts,https://github.com/advisories/GHSA-56cx-wf47-hx7w,https://j.mp/3Aroisf
+GithubAdvisories,[GHSA-h563-xh25-x54q] Workflow re-write vulnerability using input parameter,https://github.com/advisories/GHSA-h563-xh25-x54q,https://j.mp/3fMwz2j
