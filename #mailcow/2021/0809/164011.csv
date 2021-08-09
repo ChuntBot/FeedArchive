@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommit,"[Web] Various PHP 8 fixes, see #4219",https://github.com/mailcow/mailcow-dockerized/commit/c3727cba24a750bdf7c4f5649c016fe9655b472a,https://j.mp/3fIO3MH
+GithubCommit,[Dovecot] Update imapsync to 2.148 (#4206),https://github.com/mailcow/mailcow-dockerized/commit/eca42f5d239be91da0b51554906e8ec895e1ab5f,https://j.mp/3lNGMPS
