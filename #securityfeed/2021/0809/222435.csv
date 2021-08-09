@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5rc4-8qqh-vq7f] Handling of URL Encoding permitting access to ignored,https://github.com/advisories/GHSA-5rc4-8qqh-vq7f,https://j.mp/3fNjZ2M
+GithubAdvisories,[GHSA-wm77-q74p-5763] Path Traversal in superstatic,https://github.com/advisories/GHSA-wm77-q74p-5763,https://j.mp/2QJFvZ2
