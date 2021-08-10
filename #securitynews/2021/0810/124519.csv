@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+r/NetSec,How to Hack APIs in 2021,https://redd.it/p1o7fz,
+r/NetSec,I am getting an error while running tcprewrite --seed 216 --infile '' --outfile '' on this pcap. I have checked with other pcaps and it's working fine with them. Can somebody check what could be possibly wrong with the pcap? Error: DLT_RAW plugin does not support packet encoding. pcap attached,https://redd.it/p1o65d,
