@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+LinuxSecurity,openSUSE: 2021:1131-1 important: chromium,https://www.linuxsecurity.com/advisories/opensuse/opensuse-2021-1131-1-important-chromium-11-50-41?rss,https://j.mp/3s4p1g2
+LinuxSecurity,openSUSE: 2021:1130-1 important: php7,https://www.linuxsecurity.com/advisories/opensuse/opensuse-2021-1130-1-important-php7-11-48-32?rss,https://j.mp/3yFiivu
+GithubAdvisories,[GHSA-pp7m-6j83-m7r6] Cross-site Scripting in video.js,https://github.com/advisories/GHSA-pp7m-6j83-m7r6,https://j.mp/3yEjrU2
+GithubAdvisories,[GHSA-vj72-mwrj-m2xq] Prototype Pollution in deepmergefn,https://github.com/advisories/GHSA-vj72-mwrj-m2xq,https://j.mp/2VLZNY5
+GithubAdvisories,[GHSA-rqf8-8c89-mw29] Cross-site Scripting in curly-bracket-parser,https://github.com/advisories/GHSA-rqf8-8c89-mw29,https://j.mp/3yH4y3u
+GithubAdvisories,[GHSA-hh27-ffr2-f2jc] Open redirect in url-parse,https://github.com/advisories/GHSA-hh27-ffr2-f2jc,https://j.mp/3iyN0Rl
+GithubAdvisories,[GHSA-jg8v-48h5-wgxg] Prototype Pollution,https://github.com/advisories/GHSA-jg8v-48h5-wgxg,https://j.mp/2VLZVqx
+LinuxSecurity,RedHat: RHSA-2021-3119:01 Moderate: OpenShift Virtualization 2.6.6 Images,https://www.linuxsecurity.com/advisories/red-hat/redhat-rhsa-2021-3119-01-moderate-openshift-virtualization-2-6-6-images-13-40-40?rss,https://j.mp/3AwcGo8
