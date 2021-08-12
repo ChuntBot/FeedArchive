@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+r/NetSec,Custom implementation of DbgHelp's MiniDumpWriteDump function. Uses static syscalls to replace low-level functions like NtReadVirtualMemory.,https://redd.it/p33mlx,
+r/NetSec,Kernel shellcode injector,https://redd.it/p33kvg,
+r/NetSec,Kernel file/process/object tool,https://redd.it/p33j42,
