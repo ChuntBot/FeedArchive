@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6xx3-rg99-gc3p] Timing based private key exposure in Bouncy Castle,https://github.com/advisories/GHSA-6xx3-rg99-gc3p,https://j.mp/3m2wtqX
+GithubAdvisories,[GHSA-3gp6-hhfw-4gqx] Padding oracle attacks,https://github.com/advisories/GHSA-3gp6-hhfw-4gqx,https://j.mp/3m51laq
+GithubAdvisories,[GHSA-2c25-xfpq-8w9r] Cross-site scripting in jfinal,https://github.com/advisories/GHSA-2c25-xfpq-8w9r,https://j.mp/3CFhUjf
+GithubAdvisories,[GHSA-7qfm-6m33-rgg9] XML External Entity Reference,https://github.com/advisories/GHSA-7qfm-6m33-rgg9,https://j.mp/3jRmt1a
+GithubAdvisories,[GHSA-793h-6f7r-6qvm] Authenticated users can read data from other sources than intended,https://github.com/advisories/GHSA-793h-6f7r-6qvm,https://j.mp/2UgjXJd
+GithubAdvisories,[GHSA-phwj-86vx-cfjc] Cross-site scripting in Apache Jena Fuseki,https://github.com/advisories/GHSA-phwj-86vx-cfjc,https://j.mp/3AwQ3Qm
+GithubAdvisories,[GHSA-36qh-35cm-5w2w] Authentication Bypass by Alternate Name in Apache Tomcat,https://github.com/advisories/GHSA-36qh-35cm-5w2w,https://j.mp/3yJJ3PB
+GithubAdvisories,[GHSA-4vww-mc66-62m6] HTTP Request Smuggling in Apache Tomcat,https://github.com/advisories/GHSA-4vww-mc66-62m6,https://j.mp/2VRsfbb
+GithubAdvisories,[GHSA-44qp-qhfv-c7f6] Improper Handling of Exceptional Conditions in Apache Tomcat,https://github.com/advisories/GHSA-44qp-qhfv-c7f6,https://j.mp/3AFCGNP
