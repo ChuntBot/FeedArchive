@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommit,[Update] Quick fix for docker-compose override file with ipv6 disabled,https://github.com/mailcow/mailcow-dockerized/commit/d490c4fde0ca3ce8a28cbeff4759d5d5da277c1f,https://j.mp/3g5OCQU
+GithubCommit,[Compose] Maildir GC should have default value of mailcow.conf when r…,https://github.com/mailcow/mailcow-dockerized/commit/23c11811805c765ea7207857a21f08ae50ee281a,https://j.mp/3B0NIxt
+GithubCommit,[Update] Fix problem with deprecated IPv6 NAT container,https://github.com/mailcow/mailcow-dockerized/commit/4925487b44b02e7013c13da6670ad15bae8aed7a,https://j.mp/3k2FMoa
