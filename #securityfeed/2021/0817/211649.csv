@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3j5x-7ccf-ppgm] Cross-site scripting in recommender-xblock,https://github.com/advisories/GHSA-3j5x-7ccf-ppgm,https://j.mp/3k5YgnS
+GithubAdvisories,[GHSA-gq9m-qvpx-68hc] Insufficient Entropy in werkzeug,https://github.com/advisories/GHSA-gq9m-qvpx-68hc,https://j.mp/3AOaw3c
+GithubAdvisories,[GHSA-4p8f-mmfj-r45g] Cross-site scripting in fat_free_crm,https://github.com/advisories/GHSA-4p8f-mmfj-r45g,https://j.mp/3CSC6hA
+GithubAdvisories,[GHSA-333g-rpr4-7hxq] Backdoor / Malicious code,https://github.com/advisories/GHSA-333g-rpr4-7hxq,https://j.mp/37Gea3c
+GithubAdvisories,[GHSA-65rm-h285-5cc5] Improper Certificate Validation in Twisted,https://github.com/advisories/GHSA-65rm-h285-5cc5,https://j.mp/2VV9Jil
