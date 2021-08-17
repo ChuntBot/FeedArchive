@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,"CVE-2021-31956 Exploiting the Windows Kernel (NTFS with WNF) - Part 2 - We look at exploitation without the CVE-2021-31955 information disclosure, enabling better exploit primitives through PreviousMode, reliability, stability and exploit clean-up and well as thoughts on detection",https://redd.it/p5zoiy,
