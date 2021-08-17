@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6677-83pp-f862] Cross-Site Scripting in @nuxt/devalue,https://github.com/advisories/GHSA-6677-83pp-f862,https://j.mp/3hMMaO3
+GithubAdvisories,[GHSA-jf85-cpcp-j695] Prototype Pollution in lodash,https://github.com/advisories/GHSA-jf85-cpcp-j695,https://j.mp/3APhLYB
+GithubAdvisories,[GHSA-5h5r-ffc4-c455] strong_password Ruby gem malicious version causing Remote Code Execution vulnerability,https://github.com/advisories/GHSA-5h5r-ffc4-c455,https://j.mp/2XBDbKA
+GithubAdvisories,[GHSA-h595-8pw6-5q6v] Inadequate Encryption Strength in DotNetNuke,https://github.com/advisories/GHSA-h595-8pw6-5q6v,https://j.mp/2RHW0WG
