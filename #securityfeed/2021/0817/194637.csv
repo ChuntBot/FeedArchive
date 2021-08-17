@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qpxp-5j56-gg3x] Improper Input Validation in Zendesk Samlr,https://github.com/advisories/GHSA-qpxp-5j56-gg3x,https://j.mp/3mj3lvI
+GithubAdvisories,[GHSA-wqfc-cr59-h64p] Missing Encryption of Sensitive Data in yarn,https://github.com/advisories/GHSA-wqfc-cr59-h64p,https://j.mp/3k2G52r
+GithubAdvisories,[GHSA-hf4p-jm7r-vjjj] Deserialization of Untrusted Data in EthereumJ,https://github.com/advisories/GHSA-hf4p-jm7r-vjjj,https://j.mp/37Sa9bu
+GithubAdvisories,[GHSA-grmf-4fq6-2r79] Improper Restriction of Operations within the Bounds of a Memory Buffer in aubio,https://github.com/advisories/GHSA-grmf-4fq6-2r79,https://j.mp/3gbeeMB
