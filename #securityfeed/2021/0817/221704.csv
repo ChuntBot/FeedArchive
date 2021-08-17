@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f5f4-m7qp-w6gc] Cross-site Scripting in Jooby,https://github.com/advisories/GHSA-f5f4-m7qp-w6gc,https://j.mp/3spoohn
+GithubAdvisories,[GHSA-vx6v-2rg6-865h] Cross-site Scripting in django-js-reverse,https://github.com/advisories/GHSA-vx6v-2rg6-865h,https://j.mp/2W4iMNF
+GithubAdvisories,[GHSA-8cpw-73f2-w58m] Cross-Site Scripting in selectize-plugin-a11y,https://github.com/advisories/GHSA-8cpw-73f2-w58m,https://j.mp/31JMZ4M
+GithubAdvisories,[GHSA-5qfv-rr79-chx5] Cross-site Scripting in Ignite Realtime Openfire,https://github.com/advisories/GHSA-5qfv-rr79-chx5,https://j.mp/3mcMOty
+GithubAdvisories,[GHSA-jp6r-xcjj-5h7r] Cross-Site Scripting in cyberchef,https://github.com/advisories/GHSA-jp6r-xcjj-5h7r,https://j.mp/3hO43fq
+GithubAdvisories,[GHSA-mr7p-25v2-35wr] Path Traversal in nltk,https://github.com/advisories/GHSA-mr7p-25v2-35wr,https://j.mp/3e5yJYo
+GithubAdvisories,[GHSA-hfmf-q43v-2ffj] Improper Key Verification in openpgp,https://github.com/advisories/GHSA-hfmf-q43v-2ffj,https://j.mp/31HogxX
+GithubAdvisories,[GHSA-qwqc-28w3-fww6] Message Signature Bypass in openpgp,https://github.com/advisories/GHSA-qwqc-28w3-fww6,https://j.mp/31K4IsX
+GithubAdvisories,[GHSA-5q54-8p9j-x74j] Cross-site Scripting in pandao editor.md,https://github.com/advisories/GHSA-5q54-8p9j-x74j,https://j.mp/3CPTh3r
+GithubAdvisories,[GHSA-x65c-4fgj-5fc3] Cross-site Scripting in pandao,https://github.com/advisories/GHSA-x65c-4fgj-5fc3,https://j.mp/3ANIEw8
+GithubAdvisories,[GHSA-cwqq-w8c3-r2jw] Uncontrolled Resource Consumption in MetadataExtractor,https://github.com/advisories/GHSA-cwqq-w8c3-r2jw,https://j.mp/3c84qOZ
