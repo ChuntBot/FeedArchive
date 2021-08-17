@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c6jq-h4jp-72pr] NULL Pointer Dereference in aubio,https://github.com/advisories/GHSA-c6jq-h4jp-72pr,https://j.mp/3g9mix8
+GithubAdvisories,[GHSA-7vvr-h4p5-m7fh] NULL Pointer Dereference in aubio,https://github.com/advisories/GHSA-7vvr-h4p5-m7fh,https://j.mp/3sog4i1
+GithubAdvisories,[GHSA-hrj5-qp7x-rpg6] SQL Injection in marginalia,https://github.com/advisories/GHSA-hrj5-qp7x-rpg6,https://j.mp/3gaB8nb
+GithubAdvisories,[GHSA-hh56-x62g-gvhc] Cross-site scripting in CLEditor,https://github.com/advisories/GHSA-hh56-x62g-gvhc,https://j.mp/3gdNRW7
