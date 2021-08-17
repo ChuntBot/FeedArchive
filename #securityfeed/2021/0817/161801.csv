@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pf46-gqg9-j3v3] Insufficient Entropy in DotNetNuke,https://github.com/advisories/GHSA-pf46-gqg9-j3v3,https://j.mp/2Vc2a29
+GithubAdvisories,[GHSA-xx3h-j3cx-8qfj] Insufficient Entropy in DotNetNuke,https://github.com/advisories/GHSA-xx3h-j3cx-8qfj,https://j.mp/39S8Zez
+GithubAdvisories,[GHSA-j3g9-6fx5-gjv7] Inadequate Encryption Strength in DotNetNuke,https://github.com/advisories/GHSA-j3g9-6fx5-gjv7,https://j.mp/2RkMYif
+GithubAdvisories,[GHSA-mcg9-64cp-xwp7] Server-Side Request Forgery in Hawt Hawtio,https://github.com/advisories/GHSA-mcg9-64cp-xwp7,https://j.mp/2UtWdkW
