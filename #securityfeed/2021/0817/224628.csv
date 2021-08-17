@@ -1,0 +1,28 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r336-jxfr-4c3c] Path Traversal in LibreNMS,https://github.com/advisories/GHSA-r336-jxfr-4c3c,https://j.mp/3AOmqtU
+GithubAdvisories,[GHSA-852q-xxj4-x2rx] SQL Injection in SimpleSAMLphp,https://github.com/advisories/GHSA-852q-xxj4-x2rx,https://j.mp/2XAsqZ0
+GithubAdvisories,[GHSA-rfh8-25h9-mhgf] Cross-site Scripting in YII2-CMS,https://github.com/advisories/GHSA-rfh8-25h9-mhgf,https://j.mp/2UsgxTN
+GithubAdvisories,[GHSA-6268-v434-45m5] Cross-site Scripting in Grav,https://github.com/advisories/GHSA-6268-v434-45m5,https://j.mp/37Y5GDX
+GithubAdvisories,[GHSA-7qmg-qg53-mrp8] Cross-site scripting in Apache JSPWiki,https://github.com/advisories/GHSA-7qmg-qg53-mrp8,https://j.mp/3jXCy5w
+GithubAdvisories,[GHSA-3rx2-x6mx-grj3] Cross-site scripting in Apache JSPWiki,https://github.com/advisories/GHSA-3rx2-x6mx-grj3,https://j.mp/2W3nfzM
+GithubAdvisories,[GHSA-gwfq-qwmp-x9xg] Cross-site scripting in Apache JSPWiki,https://github.com/advisories/GHSA-gwfq-qwmp-x9xg,https://j.mp/3iRZ3tc
+GithubAdvisories,[GHSA-g6ww-2x43-h963] Cross-site scripting in Apache JSPWiki,https://github.com/advisories/GHSA-g6ww-2x43-h963,https://j.mp/2XAPczX
+GithubAdvisories,[GHSA-p5xp-6vpf-jwvh] Improper Input Validation and Cross-Site Request Forgery in Keycloak,https://github.com/advisories/GHSA-p5xp-6vpf-jwvh,https://j.mp/3gbyxt2
+GithubAdvisories,[GHSA-8864-rhmw-5m6f] Cross-Site Scripting in status-board,https://github.com/advisories/GHSA-8864-rhmw-5m6f,https://j.mp/3ba98MM
+GithubAdvisories,[GHSA-6m4r-cgm3-6q7q] Cross-Site Scripting in status-board,https://github.com/advisories/GHSA-6m4r-cgm3-6q7q,https://j.mp/3gHZOAH
+GithubAdvisories,[GHSA-rwpr-83g3-96g7] Cross-site scripting in padrino-contrib,https://github.com/advisories/GHSA-rwpr-83g3-96g7,https://j.mp/2UrP1Wt
+GithubAdvisories,[GHSA-q8wc-9xvp-g3c3] Cross-site scripting in Sakai,https://github.com/advisories/GHSA-q8wc-9xvp-g3c3,https://j.mp/2W7oePT
+GithubAdvisories,[GHSA-h822-r4r5-v8jg] Polymorphic Typing issue in FasterXML jackson-databind,https://github.com/advisories/GHSA-h822-r4r5-v8jg,https://j.mp/2X1rs4F
+GithubAdvisories,[GHSA-85cw-hj65-qqv9] Polymorphic Typing issue in FasterXML jackson-databind,https://github.com/advisories/GHSA-85cw-hj65-qqv9,https://j.mp/2X36jHn
+GithubAdvisories,[GHSA-gvxv-5fp2-358q] Incorrect Resource Transfer Between Spheres in eclipse-wtp,https://github.com/advisories/GHSA-gvxv-5fp2-358q,https://j.mp/37OYf1R
+GithubAdvisories,[GHSA-g5m7-57ph-j6p8] OS Command Injection in Nexus Yum Repository Plugin,https://github.com/advisories/GHSA-g5m7-57ph-j6p8,https://j.mp/3k3iIWz
+GithubAdvisories,[GHSA-536q-8gxx-m782] Cross-Site Scripting in dojo,https://github.com/advisories/GHSA-536q-8gxx-m782,https://j.mp/3hM2TRA
+GithubAdvisories,[GHSA-5w65-6875-rhq8] Undefined Behavior in sailsjs-cacheman,https://github.com/advisories/GHSA-5w65-6875-rhq8,https://j.mp/34YQvdD
+GithubAdvisories,[GHSA-cgjv-rghq-qhgp] Path Traversal in algo-httpserv,https://github.com/advisories/GHSA-cgjv-rghq-qhgp,https://j.mp/31TziAc
+GithubAdvisories,[GHSA-fxh6-w476-hgr4] Directory Traversal in SharpCompress,https://github.com/advisories/GHSA-fxh6-w476-hgr4,https://j.mp/2ZHeWIM
+GithubAdvisories,[GHSA-gjh4-fcv3-whpq] Cross-Site Scripting in webtorrent,https://github.com/advisories/GHSA-gjh4-fcv3-whpq,https://j.mp/31HochH
+GithubAdvisories,[GHSA-pg2f-r7pc-6fxx] Cross-Site Request Forgery in MicroPyramid Django CRM,https://github.com/advisories/GHSA-pg2f-r7pc-6fxx,https://j.mp/3mheEox
+GithubAdvisories,[GHSA-8j4w-5fw4-rm27] Prototype Pollution in deeply,https://github.com/advisories/GHSA-8j4w-5fw4-rm27,https://j.mp/3bd8TQS
+GithubAdvisories,[GHSA-xjjg-vmw6-c2p9] Open Redirect in httpie,https://github.com/advisories/GHSA-xjjg-vmw6-c2p9,https://j.mp/3CPWWOJ
+GithubAdvisories,[GHSA-4q98-wr72-h35w] Improper input validation in Apache Santuario XML Security for Java,https://github.com/advisories/GHSA-4q98-wr72-h35w,https://j.mp/2xaLGPi
+GithubAdvisories,[GHSA-4g88-fppr-53pp] Prototype Pollution in set-value,https://github.com/advisories/GHSA-4g88-fppr-53pp,https://j.mp/3hWR9M8
