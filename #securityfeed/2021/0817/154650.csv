@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4xcv-9jjx-gfj3] Denial of Service in mem,https://github.com/advisories/GHSA-4xcv-9jjx-gfj3,https://j.mp/3gUpMkH
+GithubAdvisories,[GHSA-mxjr-xmcg-fg7w] Arbitrary Code Injection in mobile-icon-resizer,https://github.com/advisories/GHSA-mxjr-xmcg-fg7w,https://j.mp/2QOGRSF
+GithubAdvisories,[GHSA-28hp-fgcr-2r4h] Cross-Site Scripting via JSONP,https://github.com/advisories/GHSA-28hp-fgcr-2r4h,https://j.mp/3kjfWfq
+GithubAdvisories,[GHSA-38cg-gg9j-q9j9] Improper Certificate Validation and Insufficient Verification of Data Authenticity in Keycloak,https://github.com/advisories/GHSA-38cg-gg9j-q9j9,https://j.mp/37Q7LSz
