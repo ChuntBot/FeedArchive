@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fpqp-v323-44xv] Cross-site scripting in Apache Ranger,https://github.com/advisories/GHSA-fpqp-v323-44xv,https://j.mp/2SEk8uB
+GithubAdvisories,[GHSA-6r97-cj55-9hrq] SQL Injection in Django,https://github.com/advisories/GHSA-6r97-cj55-9hrq,https://j.mp/2XrFeka
+GithubAdvisories,[GHSA-jvpp-hxjj-5ccc] Improper Input Validation and Missing Authentication for Critical Function in Apache ActiveMQ,https://github.com/advisories/GHSA-jvpp-hxjj-5ccc,https://j.mp/3m67hA6
+GithubAdvisories,[GHSA-25pc-85qf-6j69] Deserialization of Untrusted Data in Apache Storm,https://github.com/advisories/GHSA-25pc-85qf-6j69,https://j.mp/3CXHhNp
+GithubAdvisories,[GHSA-wg6j-r28m-7293] Code Injection in simple_captcha2,https://github.com/advisories/GHSA-wg6j-r28m-7293,https://j.mp/3xQMHWt
+GithubAdvisories,[GHSA-rqp5-pg7w-832p] Code Injection in datagrid,https://github.com/advisories/GHSA-rqp5-pg7w-832p,https://j.mp/3k5U9YY
