@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m3jw-62m7-jjcm] Out-of-bounds read in typed-ast and cpython may allow an attacker to crash the interpreter process (handle_keywordonly_args case),https://github.com/advisories/GHSA-m3jw-62m7-jjcm,https://j.mp/37VhVkS
+GithubAdvisories,[GHSA-9xr8-8hmc-389f] Cross-Site Scripting in vant,https://github.com/advisories/GHSA-9xr8-8hmc-389f,https://j.mp/2QSXH2I
+GithubAdvisories,[GHSA-q3p4-gw7r-wqjc] A malicious admin user could edit the state of objects in the Airflow metadata database to execute arbitrary javascript on certain page views,https://github.com/advisories/GHSA-q3p4-gw7r-wqjc,https://j.mp/3y1Sb0N
+GithubAdvisories,[GHSA-68wg-qv6r-j4vp] SQL Injection in usmanhalalit/pixie,https://github.com/advisories/GHSA-68wg-qv6r-j4vp,https://j.mp/3y1S5Gt
+GithubAdvisories,[GHSA-vvwv-h69m-wg6f] XXE in PHPSpreadsheet due to incomplete fix for previous encoding issue,https://github.com/advisories/GHSA-vvwv-h69m-wg6f,https://j.mp/388zprx
+GithubAdvisories,[GHSA-xcrg-29h7-h4cj] XXE in PHPSpreadsheet due to encoding issue,https://github.com/advisories/GHSA-xcrg-29h7-h4cj,https://j.mp/3srWKQI
+GithubAdvisories,[GHSA-hx83-rpqf-m267] user/group information can be corrupted across storing in fsimage and reading back from fsimage,https://github.com/advisories/GHSA-hx83-rpqf-m267,https://j.mp/30zhB8z
+GithubAdvisories,[GHSA-vrcf-g539-x6h3] Uncontrolled deserialization of a pickled object in rediswrapper allows attackers to execute arbitrary scripts,https://github.com/advisories/GHSA-vrcf-g539-x6h3,https://j.mp/2W6YP95
+GithubAdvisories,[GHSA-mr6r-82x4-f4jj] Timing attacks might allow practical recovery of the long-term private key,https://github.com/advisories/GHSA-mr6r-82x4-f4jj,https://j.mp/2W4e1DO
+GithubAdvisories,[GHSA-8vh8-vc28-m2hf] Potential to access user credentials from the log files when debug logging enabled,https://github.com/advisories/GHSA-8vh8-vc28-m2hf,https://j.mp/3APUZ2X
+GithubAdvisories,[GHSA-h7qw-mxrm-c6h2] Unauthenticated crypto and weak IV in Magento\Framework\Encryption,https://github.com/advisories/GHSA-h7qw-mxrm-c6h2,https://j.mp/3ggJGJj
+GithubAdvisories,[GHSA-6g88-vr3v-76mf] Eval injection in Supybot/Limnoria,https://github.com/advisories/GHSA-6g88-vr3v-76mf,https://j.mp/2W4D0H1
+GithubAdvisories,[GHSA-5whq-j5qg-wjvp] Stored Cross-Site Scripting vulnerability in admin component of DotNetNuke,https://github.com/advisories/GHSA-5whq-j5qg-wjvp,https://j.mp/3AW1W2C
+GithubAdvisories,[GHSA-89r3-rcpj-h7w6] Path traversal attack on Windows platforms,https://github.com/advisories/GHSA-89r3-rcpj-h7w6,https://j.mp/36NIFT4
