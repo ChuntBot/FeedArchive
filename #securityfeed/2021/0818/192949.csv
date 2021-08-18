@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5m2v-hc64-56h6] A crafted ZIP file can cause a denial of service in Rubyzip,https://github.com/advisories/GHSA-5m2v-hc64-56h6,https://j.mp/3mbQbAH
+GithubAdvisories,[GHSA-m553-9wmx-533h] Cross-site scripting in Dolibarr,https://github.com/advisories/GHSA-m553-9wmx-533h,https://j.mp/3gcvwZw
