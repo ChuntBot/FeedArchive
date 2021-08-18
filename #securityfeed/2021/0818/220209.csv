@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c9cg-q8r2-xvjq] Improper Authentication in Auth0.AuthenticationApi,https://github.com/advisories/GHSA-c9cg-q8r2-xvjq,https://j.mp/3iYa0cV
+GithubAdvisories,[GHSA-27p5-7cw6-m45h] Server-Side Request Forgery in unoconv,https://github.com/advisories/GHSA-27p5-7cw6-m45h,https://j.mp/37SjwI6
+GithubAdvisories,[GHSA-m9jw-237r-gvfv] SQL Injection in sequelize,https://github.com/advisories/GHSA-m9jw-237r-gvfv,https://j.mp/2ESzQ08
+GithubAdvisories,[GHSA-j52r-xc68-q8f4] Insufficiently Protected Credentials in Pivotal Reactor Netty,https://github.com/advisories/GHSA-j52r-xc68-q8f4,https://j.mp/3k8Ec4b
+GithubAdvisories,[GHSA-j7mj-748x-7p78] DOS attack in Pillow when processing specially crafted image files,https://github.com/advisories/GHSA-j7mj-748x-7p78,https://j.mp/3z4Ripy
+GithubAdvisories,[GHSA-58v4-qwx5-7f59] SQL Injection in knex,https://github.com/advisories/GHSA-58v4-qwx5-7f59,https://j.mp/3mdeZs2
+GithubAdvisories,[GHSA-r53w-g4xm-3gc6] Cross-site scripting in Haml,https://github.com/advisories/GHSA-r53w-g4xm-3gc6,https://j.mp/2Dk2B53
+GithubAdvisories,[GHSA-49pj-69vf-c689] Incorrect Default Permissions in netaddr,https://github.com/advisories/GHSA-49pj-69vf-c689,https://j.mp/3jZ1FVq
+GithubAdvisories,[GHSA-v3f6-f29f-rgvp] Missing Authorization in Drupal,https://github.com/advisories/GHSA-v3f6-f29f-rgvp,https://j.mp/3mdf3Ii
+GithubAdvisories,[GHSA-cj8p-53v9-2c26] Cross-site Scripting in Bolt,https://github.com/advisories/GHSA-cj8p-53v9-2c26,https://j.mp/2UuOsLr
