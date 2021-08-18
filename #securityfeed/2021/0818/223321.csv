@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pgwj-prpq-jpc2] Check service IDs are valid,https://github.com/advisories/GHSA-pgwj-prpq-jpc2,https://j.mp/3y0ySoH
+GithubAdvisories,[GHSA-pf8f-w267-mq2h] The rack-cors rubygem may allow directory traveral,https://github.com/advisories/GHSA-pf8f-w267-mq2h,https://j.mp/2UDlYwN
+GithubAdvisories,[GHSA-jvx5-rm6q-gx7p] Lack of access control on upoaded files,https://github.com/advisories/GHSA-jvx5-rm6q-gx7p,https://j.mp/3k4Kn9t
+GithubAdvisories,[GHSA-w7r7-r8r9-vrg2] Session fixation in change password form,https://github.com/advisories/GHSA-w7r7-r8r9-vrg2,https://j.mp/2XylI5z
+GithubAdvisories,[GHSA-fxp8-7h5w-h235] XSS in search engine,https://github.com/advisories/GHSA-fxp8-7h5w-h235,https://j.mp/3yUDm1j
+GithubAdvisories,[GHSA-2p6p-v69p-9mm9] XSS in login form,https://github.com/advisories/GHSA-2p6p-v69p-9mm9,https://j.mp/3iVkz0a
+GithubAdvisories,[GHSA-7qqr-3pj3-q2f5] XSS issues in the management interface,https://github.com/advisories/GHSA-7qqr-3pj3-q2f5,https://j.mp/3y0ySVJ
+GithubAdvisories,[GHSA-3q5x-7mxp-rp6j] Remote code execution via vulnerable Symphony dependecy injection,https://github.com/advisories/GHSA-3q5x-7mxp-rp6j,https://j.mp/3AQ4uPy
+GithubAdvisories,[GHSA-62fx-3v4f-mwxm] Bypass of sitemp access restrictions,https://github.com/advisories/GHSA-62fx-3v4f-mwxm,https://j.mp/2XyVrEh
+GithubAdvisories,[GHSA-xv69-f7x5-r4qw] Cross-Site Scripting via Attribute Set Name,https://github.com/advisories/GHSA-xv69-f7x5-r4qw,https://j.mp/3iU5I6d
+GithubAdvisories,[GHSA-fm68-89m8-4gjj] JavaScript injection possible via html comments,https://github.com/advisories/GHSA-fm68-89m8-4gjj,https://j.mp/3iU5IDf
+GithubAdvisories,[GHSA-g996-q5r8-w7g2] Escape validation messages in the PHP templating engine,https://github.com/advisories/GHSA-g996-q5r8-w7g2,https://j.mp/3gflCq6
+GithubAdvisories,[GHSA-pqm6-cgwr-x6pf] Signature validation bypass in XmlSecLibs,https://github.com/advisories/GHSA-pqm6-cgwr-x6pf,https://j.mp/33T72gW
+GithubAdvisories,[GHSA-2598-2f59-rmhq] SQL Injection in sequelize,https://github.com/advisories/GHSA-2598-2f59-rmhq,https://j.mp/31Iaf2X
+GithubAdvisories,[GHSA-j9xp-92vc-559j] SQL Injection in sequelize,https://github.com/advisories/GHSA-j9xp-92vc-559j,https://j.mp/2EVt3Tp
+GithubAdvisories,[GHSA-rc75-cf5c-mxvh] Use of Cryptographically Weak Pseudo-Random Number Generator in org.pac4j:pac4j-saml,https://github.com/advisories/GHSA-rc75-cf5c-mxvh,https://j.mp/2W6W1c3
+GithubAdvisories,[GHSA-xwx6-vmj4-5rv8] Denial of service via deserialization attack in nifi,https://github.com/advisories/GHSA-xwx6-vmj4-5rv8,https://j.mp/3bBhqhl
+GithubAdvisories,[GHSA-xg59-m7wx-853q] Cross-site Scripting in node-red-dashboard,https://github.com/advisories/GHSA-xg59-m7wx-853q,https://j.mp/3z1Sxpo
+GithubAdvisories,[GHSA-hhwc-8g49-j8jx] Incorrect Permission Assignment for Critical Resource in ruby_parser-legacy,https://github.com/advisories/GHSA-hhwc-8g49-j8jx,https://j.mp/3xYHdsQ
