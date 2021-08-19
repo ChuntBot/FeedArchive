@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-738m-f33v-qc2r] SMTP Injection in PHPMailer,https://github.com/advisories/GHSA-738m-f33v-qc2r,https://j.mp/32SwmCZ
+GithubAdvisories,[GHSA-6v7p-v754-j89v] HTTP Response Splitting in Styx,https://github.com/advisories/GHSA-6v7p-v754-j89v,https://j.mp/32SmTLR
+GithubAdvisories,[GHSA-4w82-r329-3q67] Deserialization of Untrusted Data in jackson-databind,https://github.com/advisories/GHSA-4w82-r329-3q67,https://j.mp/2ToyiQq
+GithubAdvisories,[GHSA-767j-jfh2-jvrc] Potential HTTP request smuggling in Apache Tomcat,https://github.com/advisories/GHSA-767j-jfh2-jvrc,https://j.mp/2TlyizB
+GithubAdvisories,[GHSA-qxf4-chvg-4r8r] Potential HTTP request smuggling in Apache Tomcat,https://github.com/advisories/GHSA-qxf4-chvg-4r8r,https://j.mp/2VvS26a
+GithubAdvisories,[GHSA-2gc7-w4hw-rr2m] class.upload.php in verot.net omits .pht from the set of dangerous file extensions,https://github.com/advisories/GHSA-2gc7-w4hw-rr2m,https://j.mp/2VvVyxk
+GithubAdvisories,[GHSA-p5w7-qmq6-pmjr] Users able to query database metadata in Apache Superset,https://github.com/advisories/GHSA-p5w7-qmq6-pmjr,https://j.mp/2PqeV78
+GithubAdvisories,[GHSA-9c29-9h4m-wg5p] Users can view database names in Apache Superset,https://github.com/advisories/GHSA-9c29-9h4m-wg5p,https://j.mp/388pu5y
+GithubAdvisories,[GHSA-8rc5-hx3v-2jg7] Sanitizer bypass in svg-sanitizer,https://github.com/advisories/GHSA-8rc5-hx3v-2jg7,https://j.mp/2I43vSq
