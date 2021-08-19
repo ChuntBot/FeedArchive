@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2r3v-q9x3-7g46] Link injection in SimpleSAMLphp,https://github.com/advisories/GHSA-2r3v-q9x3-7g46,https://j.mp/37qt5fA
+GithubAdvisories,[GHSA-6x3v-rw2q-9gx7] Improper implementation of the session fixation protection in Infinispan,https://github.com/advisories/GHSA-6x3v-rw2q-9gx7,https://j.mp/37hPLhR
+GithubAdvisories,[GHSA-5qcg-w2cc-xffw] Uncontrolled resource consumption in validators Python package,https://github.com/advisories/GHSA-5qcg-w2cc-xffw,https://j.mp/2NKyh6k
+GithubAdvisories,[GHSA-vfq6-hq5r-27r6] Potential account hijack via password reset form in Django,https://github.com/advisories/GHSA-vfq6-hq5r-27r6,https://j.mp/38ckCMR
+GithubAdvisories,[GHSA-r5gm-4p5w-pq2p] Remote code execution in verot/class.upload.php,https://github.com/advisories/GHSA-r5gm-4p5w-pq2p,https://j.mp/2tg8ZpF
+GithubAdvisories,[GHSA-jgjc-332c-8cmc] SQL injection in phpMyAdmin,https://github.com/advisories/GHSA-jgjc-332c-8cmc,https://j.mp/36YRDMA
+GithubAdvisories,[GHSA-v62j-fcxq-j239] Stored XSS in Apache Atlas,https://github.com/advisories/GHSA-v62j-fcxq-j239,https://j.mp/2QADbo8
+GithubAdvisories,[GHSA-gf8j-v8x5-h9qp] XSS in enshrined/svg-sanitize due to mishandled script and data values in attributes,https://github.com/advisories/GHSA-gf8j-v8x5-h9qp,https://j.mp/2T5ajpR
+GithubAdvisories,[GHSA-92vm-wfm5-mxvv] Timing Attack in cookie-signature,https://github.com/advisories/GHSA-92vm-wfm5-mxvv,https://j.mp/2SYrwkM
+GithubAdvisories,"[GHSA-9xcj-c8cr-8c3c] In Apache Tomcat, when using FORM authentication there was a narrow window where an attacker could perform a session fixation attack",https://github.com/advisories/GHSA-9xcj-c8cr-8c3c,https://j.mp/2ZqclSo
+GithubAdvisories,[GHSA-m5ff-3wj3-8ph4] HTTP Request Smuggling: Invalid whitespace characters in headers in Waitress,https://github.com/advisories/GHSA-m5ff-3wj3-8ph4,https://j.mp/35UXn9s
+GithubAdvisories,[GHSA-4ppp-gpcr-7qf6] HTTP Request Smuggling: Content-Length Sent Twice in Waitress,https://github.com/advisories/GHSA-4ppp-gpcr-7qf6,https://j.mp/2Q8K0vE
+GithubAdvisories,[GHSA-wjx8-cgrm-hh8p] Unrestricted file uploads in Contao,https://github.com/advisories/GHSA-wjx8-cgrm-hh8p,https://j.mp/2r6GKbO
+GithubAdvisories,[GHSA-4mvc-qc5w-v5qr] Information disclosure in the Contao back end,https://github.com/advisories/GHSA-4mvc-qc5w-v5qr,https://j.mp/2PVDokd
+GithubAdvisories,[GHSA-jc43-qrrp-98f5] Insert tag injection in the Contao login module,https://github.com/advisories/GHSA-jc43-qrrp-98f5,https://j.mp/38YDws2
+GithubAdvisories,[GHSA-3c45-wgjp-7v9r] A single version of twisted does not respect the trustedRoot setting,https://github.com/advisories/GHSA-3c45-wgjp-7v9r,https://j.mp/34zmWLI
