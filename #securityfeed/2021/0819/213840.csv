@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9vg3-cf92-h2h7] Insufficient Verification of Data Authenticity in python-keystoneclient,https://github.com/advisories/GHSA-9vg3-cf92-h2h7,https://j.mp/3aL8VOI
+GithubAdvisories,[GHSA-wh37-37xw-54hr] Improper Authentication in requests-kerberos,https://github.com/advisories/GHSA-wh37-37xw-54hr,https://j.mp/3aUVpIv
