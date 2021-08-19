@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cchx-mfrc-fwqr] Improper authentication in Symfony,https://github.com/advisories/GHSA-cchx-mfrc-fwqr,https://j.mp/2HjjHPm
+GithubAdvisories,[GHSA-xwgq-pcqx-hpmv] URL Redirection to Untrusted Site (Open Redirect) in Ktor,https://github.com/advisories/GHSA-xwgq-pcqx-hpmv,https://j.mp/2HeyACJ
+GithubAdvisories,[GHSA-hmr4-m2h5-33qx] SQL injection in Django,https://github.com/advisories/GHSA-hmr4-m2h5-33qx,https://j.mp/2SFObk5
+GithubAdvisories,[GHSA-v4qh-6367-4cx2] Server-Side Request Forgery (SSRF) in Apache Olingo,https://github.com/advisories/GHSA-v4qh-6367-4cx2,https://j.mp/398SlY2
+GithubAdvisories,[GHSA-gj76-429m-56wc] Deserialization of Untrusted Data in Apache Olingo,https://github.com/advisories/GHSA-gj76-429m-56wc,https://j.mp/2v28lwk
+GithubAdvisories,[GHSA-mgh8-hcwj-h57v] Improper Restriction of XML External Entity Reference in Apache Olingo,https://github.com/advisories/GHSA-mgh8-hcwj-h57v,https://j.mp/380wRMS
+GithubAdvisories,[GHSA-477x-w7m6-c6ph] Improper input validation in Apache Olingo,https://github.com/advisories/GHSA-477x-w7m6-c6ph,https://j.mp/2Uo3jVC
+GithubAdvisories,[GHSA-763g-fqq7-48wg] XML external entity (XXE) processing ('external-parameter-entities' feature was not fully disabled)),https://github.com/advisories/GHSA-763g-fqq7-48wg,https://j.mp/2UflBIs
+GithubAdvisories,"[GHSA-w2pf-g6r8-pg22] Placeholder property does not indicate HTML capable, could lead to inadvertent abuse",https://github.com/advisories/GHSA-w2pf-g6r8-pg22,https://j.mp/36Nf5ey
+GithubAdvisories,[GHSA-27gm-ghr9-4v95] Cross-site scripting vulnerability in TinyMCE,https://github.com/advisories/GHSA-27gm-ghr9-4v95,https://j.mp/2UcxK0O
+GithubAdvisories,[GHSA-2289-pqfq-6wx7] Unrestricted upload of file with dangerous type in Apache Solr,https://github.com/advisories/GHSA-2289-pqfq-6wx7,https://j.mp/2vvSUNd
+GithubAdvisories,[GHSA-v384-jqmq-fc74] XSS in Dolibarr ERP & CRM,https://github.com/advisories/GHSA-v384-jqmq-fc74,https://j.mp/36x9xET
+GithubAdvisories,[GHSA-r2wf-q3x4-hrv9] Default development error handler in Ratpack is vulnerable to HTML content injection (XSS),https://github.com/advisories/GHSA-r2wf-q3x4-hrv9,https://j.mp/2Rxi6vp
+GithubAdvisories,[GHSA-gp2m-7cfp-h6gf] Incorrect persistent NameID generation in SimpleSAMLphp,https://github.com/advisories/GHSA-gp2m-7cfp-h6gf,https://j.mp/2TUXSwY
+GithubAdvisories,[GHSA-p9cm-r7jg-8q3g] Incorrect signature verification in SimpleSAMLphp,https://github.com/advisories/GHSA-p9cm-r7jg-8q3g,https://j.mp/2GnfY2K
