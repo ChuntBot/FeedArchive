@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3m93-m4q6-mc6v] Inclusion of Sensitive Information in Log Files and Improper Output Neutralization for Logs in Ansible,https://github.com/advisories/GHSA-3m93-m4q6-mc6v,https://j.mp/387Z3wR
+GithubAdvisories,[GHSA-ff2w-cq2g-wv5f] HTTP Request Smuggling in Netty,https://github.com/advisories/GHSA-ff2w-cq2g-wv5f,https://j.mp/2PeyVd3
+GithubAdvisories,[GHSA-q65m-pv3f-wr5r] XSS in Bleach when noscript and raw tag whitelisted,https://github.com/advisories/GHSA-q65m-pv3f-wr5r,https://j.mp/2SU4CdF
+GithubAdvisories,[GHSA-qvrv-2x7x-78x2] Reflected XSS in SilverStripe,https://github.com/advisories/GHSA-qvrv-2x7x-78x2,https://j.mp/2PiADdq
+GithubAdvisories,[GHSA-5q88-cjfq-g2mh] codecov NPM module allows remote attackers to execute arbitrary commands,https://github.com/advisories/GHSA-5q88-cjfq-g2mh,https://j.mp/2P5WMvc
+GithubAdvisories,[GHSA-7553-jr98-vx47] libxml as used in Nokogiri has an infinite loop in a certain end-of-file situation,https://github.com/advisories/GHSA-7553-jr98-vx47,https://j.mp/32xYRG1
+GithubAdvisories,[GHSA-pg97-ww7h-5mjr] XSS in dojox due to insufficient escape in dojox.xmpp.util.xmlEncode,https://github.com/advisories/GHSA-pg97-ww7h-5mjr,https://j.mp/2UVNmq5
+GithubAdvisories,[GHSA-5xf4-f2fq-f69j] Improper link resolution before file access (Link Following),https://github.com/advisories/GHSA-5xf4-f2fq-f69j,https://j.mp/37qcp6X
+GithubAdvisories,[GHSA-c5r5-7pfh-6qg6] OS command injection in BibTeX-Ruby,https://github.com/advisories/GHSA-c5r5-7pfh-6qg6,https://j.mp/2SP3rv3
+GithubAdvisories,[GHSA-934x-72xh-5hrg] OS command injection in aws-lambda,https://github.com/advisories/GHSA-934x-72xh-5hrg,https://j.mp/39uDeZc
+GithubAdvisories,[GHSA-84cm-v6jp-gjmr] OS command injection in git-diff-apply,https://github.com/advisories/GHSA-84cm-v6jp-gjmr,https://j.mp/38vi4tQ
+GithubAdvisories,[GHSA-r5fx-8r73-v86c] Cross-Site Scripting in angular,https://github.com/advisories/GHSA-r5fx-8r73-v86c,https://j.mp/38tfZyP
+GithubAdvisories,[GHSA-w4rc-rx25-8m86] Improper Input Validation in Symfony,https://github.com/advisories/GHSA-w4rc-rx25-8m86,https://j.mp/38ql9eE
+GithubAdvisories,[GHSA-wgjx-hm34-qgf7] SQL injection in Centreon,https://github.com/advisories/GHSA-wgjx-hm34-qgf7,https://j.mp/2w4hViF
+GithubAdvisories,[GHSA-w2fr-65vp-mxw3] Deserialization of untrusted data in Symfony,https://github.com/advisories/GHSA-w2fr-65vp-mxw3,https://j.mp/3bufFSa
