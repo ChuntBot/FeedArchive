@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7w4p-72j7-v7c2] Phar object injection in PHPMailer,https://github.com/advisories/GHSA-7w4p-72j7-v7c2,https://j.mp/2vIWe7Z
+GithubAdvisories,[GHSA-4x5h-cr29-fhp6] Local file disclosure in PHPMailer,https://github.com/advisories/GHSA-4x5h-cr29-fhp6,https://j.mp/2PRgv2b
+GithubAdvisories,[GHSA-58mj-pw57-4vm2] Cross-site scripting in PHPMailer,https://github.com/advisories/GHSA-58mj-pw57-4vm2,https://j.mp/2ItsChD
+GithubAdvisories,[GHSA-4pc3-96mx-wwc8] Remote code execution in PHPMailer,https://github.com/advisories/GHSA-4pc3-96mx-wwc8,https://j.mp/3aq5OeK
+GithubAdvisories,[GHSA-5f37-gxvh-23v6] Remote code execution in PHPMailer,https://github.com/advisories/GHSA-5f37-gxvh-23v6,https://j.mp/3avIWdN
