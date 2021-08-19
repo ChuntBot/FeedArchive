@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rh46-3fgc-mvrf] Validation bypass is possible in Json Pattern Validator,https://github.com/advisories/GHSA-rh46-3fgc-mvrf,https://j.mp/3kanHom
+GithubAdvisories,[GHSA-hvmf-r92r-27hr] Django allows unintended model editing,https://github.com/advisories/GHSA-hvmf-r92r-27hr,https://j.mp/2W5HSvl
+GithubAdvisories,[GHSA-fmqw-vqh5-cwq9] Apache NiFi user log out issue,https://github.com/advisories/GHSA-fmqw-vqh5-cwq9,https://j.mp/3CZQ1m0
+GithubAdvisories,[GHSA-26p8-xrj2-mv53] Apache NiFi process group information disclosure,https://github.com/advisories/GHSA-26p8-xrj2-mv53,https://j.mp/3k8q2jJ
+GithubAdvisories,[GHSA-4x6v-rwh4-55jw] Pomelo allows external control of critical state data,https://github.com/advisories/GHSA-4x6v-rwh4-55jw,https://j.mp/3AYroEj
+GithubAdvisories,[GHSA-c5c9-8c6m-727v] Cross-Site Scripting via Rich-Text Content,https://github.com/advisories/GHSA-c5c9-8c6m-727v,https://j.mp/3gjkW2S
