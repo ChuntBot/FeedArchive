@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6rjc-4pwr-3vp7] Cross-Site Scripting in iobroker.web,https://github.com/advisories/GHSA-6rjc-4pwr-3vp7,https://j.mp/3ATHn6B
+GithubAdvisories,[GHSA-qhrx-hcm6-pmrw] Unsafe deserialization in SmtpTransport in CakePHP,https://github.com/advisories/GHSA-qhrx-hcm6-pmrw,https://j.mp/2W0Ijrl
+GithubAdvisories,[GHSA-6rmq-x2hv-vxpp] Vulnerable third party libraries in certain configurations of Symfony,https://github.com/advisories/GHSA-6rmq-x2hv-vxpp,https://j.mp/3mmox4l
+GithubAdvisories,[GHSA-x92h-wmg2-6hp7] Invalid HTTP method overrides allow possible XSS or other attacks in Symfony,https://github.com/advisories/GHSA-x92h-wmg2-6hp7,https://j.mp/3z2bqZv
+GithubAdvisories,[GHSA-79gr-58r3-pwm3] Forbid serializing AbstractAdapter and TagAwareAdapter instances,https://github.com/advisories/GHSA-79gr-58r3-pwm3,https://j.mp/3k8kPIH
+GithubAdvisories,[GHSA-cmch-296j-wfvw] Arbitrary File Write in iobroker.js-controller,https://github.com/advisories/GHSA-cmch-296j-wfvw,https://j.mp/3xVzWtS
+GithubAdvisories,[GHSA-fpff-384j-vxq7] Data leakage via SQL Injection in Pimcore,https://github.com/advisories/GHSA-fpff-384j-vxq7,https://j.mp/3mvbygP
+GithubAdvisories,[GHSA-7xxv-wpxj-mx5v] Out-of-bounds read in typed-ast and cpython may allow an attacker to crash the interpreter process (ast_for_arguments case),https://github.com/advisories/GHSA-7xxv-wpxj-mx5v,https://j.mp/3CZKE6k
