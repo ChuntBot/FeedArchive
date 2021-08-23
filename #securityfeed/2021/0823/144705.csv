@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h96w-mmrf-2h6v] Improper Input Validation in Twisted,https://github.com/advisories/GHSA-h96w-mmrf-2h6v,https://j.mp/2UutgCC
+GithubAdvisories,[GHSA-694p-xrhg-x3wm] CWE-113: Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Request Header Injection'),https://github.com/advisories/GHSA-694p-xrhg-x3wm,https://j.mp/2xzwtI4
+GithubAdvisories,[GHSA-vqhp-cxgc-6wmm] regular expression denial-of-service (ReDoS) in Bleach,https://github.com/advisories/GHSA-vqhp-cxgc-6wmm,https://j.mp/3dKcNBY
+GithubAdvisories,[GHSA-vg44-fw64-cpjx] Incorrect Account Used for Signing,https://github.com/advisories/GHSA-vg44-fw64-cpjx,https://j.mp/2QEPtLF
+GithubAdvisories,[GHSA-22jr-vc7j-g762] Potential buffer overflow in psd-tools,https://github.com/advisories/GHSA-22jr-vc7j-g762,https://j.mp/2TTCR5q
+GithubAdvisories,[GHSA-cg75-6938-wx58] python-docutils allows insecure usage of temporary files,https://github.com/advisories/GHSA-cg75-6938-wx58,https://j.mp/2QdoTZT
