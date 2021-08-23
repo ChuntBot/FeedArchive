@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fc38-mxwr-pfhx] Cross-Site Scripting via SVG media files,https://github.com/advisories/GHSA-fc38-mxwr-pfhx,https://j.mp/384v1fG
+GithubAdvisories,[GHSA-gcvv-gq92-x94r] Authenticated server-side request forgery in file upload via URL,https://github.com/advisories/GHSA-gcvv-gq92-x94r,https://j.mp/2UJoZhy
+GithubAdvisories,[GHSA-m72m-mhq2-9p6c] Uncaught Exception in jsoup,https://github.com/advisories/GHSA-m72m-mhq2-9p6c,https://j.mp/3yg87fP
+GithubAdvisories,[GHSA-27wq-qx3q-fxm9] Improper Handling of Unexpected Data Type in ced,https://github.com/advisories/GHSA-27wq-qx3q-fxm9,https://j.mp/3grcVZV
+GithubAdvisories,[GHSA-m94c-37g6-cjhc] Fake objects feature vulnerability allowing to execute JavaScript code using malformed HTML,https://github.com/advisories/GHSA-m94c-37g6-cjhc,https://j.mp/3B2uaIQ
+GithubAdvisories,[GHSA-cfcv-q4qq-2ph4] CKEditor 4 vulnerabilities in versions <4.16.1,https://github.com/advisories/GHSA-cfcv-q4qq-2ph4,https://j.mp/2WfhNKo
+GithubAdvisories,[GHSA-23r4-5mxp-c7g5] New anonymous user session acts as if it's created with password,https://github.com/advisories/GHSA-23r4-5mxp-c7g5,https://j.mp/3Ddu439
+GithubAdvisories,[GHSA-prqf-xr2j-xf65] Potential privilege escalation on Kubernetes >= v1.19 when the Argo Sever is run with `--auth-mode=client`,https://github.com/advisories/GHSA-prqf-xr2j-xf65,https://j.mp/3sNPLBV
+GithubAdvisories,[GHSA-6c73-2v8x-qpvm] Argo Server TLS requests could be forged by attacker with network access,https://github.com/advisories/GHSA-6c73-2v8x-qpvm,https://j.mp/3goQmow
+GithubAdvisories,[GHSA-hq5m-mqmx-fw6m] Privilege escalation via form generator,https://github.com/advisories/GHSA-hq5m-mqmx-fw6m,https://j.mp/3ycVH8L
+GithubAdvisories,[GHSA-r6mv-ppjc-4hgr] PHP file inclusion via insert tags,https://github.com/advisories/GHSA-r6mv-ppjc-4hgr,https://j.mp/3sEd8hj
+GithubAdvisories,[GHSA-7889-rm5j-hpgg] Clipboard feature vulnerability allowing to inject arbitrary HTML into the editor using paste functionality,https://github.com/advisories/GHSA-7889-rm5j-hpgg,https://j.mp/2UJoUdK
+GithubAdvisories,[GHSA-6226-h7ff-ch6c] Widget feature vulnerability allowing to execute JavaScript code using undo functionality,https://github.com/advisories/GHSA-6226-h7ff-ch6c,https://j.mp/3yeObdk
+GithubAdvisories,[GHSA-hwvq-6gjx-j797] Special Element Injection in notebook,https://github.com/advisories/GHSA-hwvq-6gjx-j797,https://j.mp/3y9gTw7
+GithubAdvisories,[GHSA-4952-p58q-6crx] JupyterLab: XSS due to lack of sanitization of the action attribute of an html,https://github.com/advisories/GHSA-4952-p58q-6crx,https://j.mp/3gqTfVQ
