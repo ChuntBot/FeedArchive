@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h4rc-386g-6m85] jackson-databind mishandles the interaction between serialization gadgets and typing,https://github.com/advisories/GHSA-h4rc-386g-6m85,https://j.mp/2x7ryOG
+GithubAdvisories,[GHSA-q93h-jc49-78gg] jackson-databind mishandles the interaction between serialization gadgets and typing,https://github.com/advisories/GHSA-q93h-jc49-78gg,https://j.mp/2LwpxPB
+GithubAdvisories,[GHSA-fv3h-8x5j-pvgq] XSS in python-markdown2,https://github.com/advisories/GHSA-fv3h-8x5j-pvgq,https://j.mp/3cyXAlA
+GithubAdvisories,[GHSA-pc5p-h8pf-mvwp] Machine-In-The-Middle in https-proxy-agent,https://github.com/advisories/GHSA-pc5p-h8pf-mvwp,https://j.mp/2EMkOtu
+GithubAdvisories,[GHSA-265q-28rp-chq5] Insecure Entropy Source - Math.random() in node-uuid,https://github.com/advisories/GHSA-265q-28rp-chq5,https://j.mp/2xBsivF
+GithubAdvisories,[GHSA-3j7m-hmh3-9jmp] Cross-Site Scripting in sanitize-html,https://github.com/advisories/GHSA-3j7m-hmh3-9jmp,https://j.mp/3esbYxF
+GithubAdvisories,[GHSA-6pmv-7pr9-cgrj] Predictable password in Keycloak,https://github.com/advisories/GHSA-6pmv-7pr9-cgrj,https://j.mp/2yluZBG
