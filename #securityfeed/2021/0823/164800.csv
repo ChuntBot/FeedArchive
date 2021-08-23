@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p43x-xfjf-5jhr] jackson-databind mishandles the interaction between serialization gadgets and typing,https://github.com/advisories/GHSA-p43x-xfjf-5jhr,https://j.mp/2y6tRBX
