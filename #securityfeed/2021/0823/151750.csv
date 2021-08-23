@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8vf3-4w62-m3pq] XSS in Keycloak,https://github.com/advisories/GHSA-8vf3-4w62-m3pq,https://j.mp/3erfMzi
+GithubAdvisories,[GHSA-rc5r-697f-28x6] XSS injection in the Grid component of Sylius,https://github.com/advisories/GHSA-rc5r-697f-28x6,https://j.mp/2VCQx4K
+GithubAdvisories,[GHSA-4gp3-p7ph-x2jr] OS Command Injection in devcert-sanscache,https://github.com/advisories/GHSA-4gp3-p7ph-x2jr,https://j.mp/2RDg1xy
+GithubAdvisories,[GHSA-3944-787c-f852] Persistent Cross-Site scripting in Nexus Repository Manager,https://github.com/advisories/GHSA-3944-787c-f852,https://j.mp/3ch8w7h
+GithubAdvisories,[GHSA-6chw-6frg-f759] Regular Expression Denial of Service in Acorn,https://github.com/advisories/GHSA-6chw-6frg-f759,https://j.mp/3aI3ikG
+GithubAdvisories,[GHSA-5gm3-px64-rw72] Uncontrolled Resource Consumption in Pillow,https://github.com/advisories/GHSA-5gm3-px64-rw72,https://j.mp/2X01vU3
+GithubAdvisories,[GHSA-hj69-c76v-86wr] Out-of-bounds Read in Pillow,https://github.com/advisories/GHSA-hj69-c76v-86wr,https://j.mp/3dJZbq8
+GithubAdvisories,[GHSA-c2h6-7gm8-cv4w] XSS in MITREid Connect,https://github.com/advisories/GHSA-c2h6-7gm8-cv4w,https://j.mp/2UBxf09
+GithubAdvisories,[GHSA-6c8f-qphg-qjgp] Validation Bypass in kind-of,https://github.com/advisories/GHSA-6c8f-qphg-qjgp,https://j.mp/2Ju6fJO
