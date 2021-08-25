@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xp5q-77mh-6hm2] firefly-iii is vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-xp5q-77mh-6hm2,https://j.mp/3yh9N8U
+GithubAdvisories,[GHSA-c676-mcw3-qg55] firefly-iii is vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-c676-mcw3-qg55,https://j.mp/3jmsggp
+GithubAdvisories,[GHSA-gp6w-ccqv-p7qr] firefly-iii is vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-gp6w-ccqv-p7qr,https://j.mp/3myvYFE
+GithubAdvisories,[GHSA-x2xg-6wcj-6xf9] SafeCurl before 0.9.2 has a DNS rebinding vulnerability,https://github.com/advisories/GHSA-x2xg-6wcj-6xf9,https://j.mp/3sKiY0H
+GithubAdvisories,[GHSA-64xx-cq4q-mf44] XStream is vulnerable to an Arbitrary Code Execution attack,https://github.com/advisories/GHSA-64xx-cq4q-mf44,https://j.mp/3yknMLc
+GithubAdvisories,[GHSA-6wf9-jmg9-vxcc] XStream can cause a Denial of Service,https://github.com/advisories/GHSA-6wf9-jmg9-vxcc,https://j.mp/3Dg6NNY
+GithubAdvisories,[GHSA-g5w6-mrj7-75h2] XStream is vulnerable to an Arbitrary Code Execution attack,https://github.com/advisories/GHSA-g5w6-mrj7-75h2,https://j.mp/2UMPLpb
+GithubAdvisories,[GHSA-j9h8-phrw-h4fh] XStream is vulnerable to a Remote Command Execution attack,https://github.com/advisories/GHSA-j9h8-phrw-h4fh,https://j.mp/389omB0
+GithubAdvisories,[GHSA-8jrj-525p-826v] XStream is vulnerable to an Arbitrary Code Execution attack,https://github.com/advisories/GHSA-8jrj-525p-826v,https://j.mp/3mtiMlj
+GithubAdvisories,[GHSA-p8pq-r894-fm8f] XStream is vulnerable to an Arbitrary Code Execution attack,https://github.com/advisories/GHSA-p8pq-r894-fm8f,https://j.mp/3BeJfHd
+GithubAdvisories,[GHSA-h7v4-7xg3-hxcc] XStream is vulnerable to an Arbitrary Code Execution attack,https://github.com/advisories/GHSA-h7v4-7xg3-hxcc,https://j.mp/3yhOdkX
