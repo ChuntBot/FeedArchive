@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jp5v-5gx4-jmj9] Ability to forge per-form CSRF tokens in Rails,https://github.com/advisories/GHSA-jp5v-5gx4-jmj9,https://j.mp/2TGrtt9
+GithubAdvisories,[GHSA-cxvr-r92m-q9hw] XSS in Dolibarr,https://github.com/advisories/GHSA-cxvr-r92m-q9hw,https://j.mp/2WUyOrj
+GithubAdvisories,[GHSA-5mh9-r3rr-9597] Code execution vulnerability in HtmlUnit,https://github.com/advisories/GHSA-5mh9-r3rr-9597,https://j.mp/2AKIsE4
+GithubAdvisories,[GHSA-q4m3-2j7h-f7xw] Cross-Site Scripting in jquery,https://github.com/advisories/GHSA-q4m3-2j7h-f7xw,https://j.mp/2zQR4J4
+GithubAdvisories,[GHSA-r854-96gq-rfg3] Python Image Library (PIL) allows symlink attacks,https://github.com/advisories/GHSA-r854-96gq-rfg3,https://j.mp/2X3Y9hc
+GithubAdvisories,[GHSA-h98h-8mxr-m8gx] Out-of-bounds read in TensorFlow possibly causing disclosure of the contents of process memory,https://github.com/advisories/GHSA-h98h-8mxr-m8gx,https://j.mp/360bhYH
+GithubAdvisories,[GHSA-px9h-x66r-8mpc] path traversal in Jooby,https://github.com/advisories/GHSA-px9h-x66r-8mpc,https://j.mp/35WfufV
+GithubAdvisories,[GHSA-m8xj-5v73-3hh8] curlrequest allows execution of arbitrary commands,https://github.com/advisories/GHSA-m8xj-5v73-3hh8,https://j.mp/3dGrDbB
+GithubAdvisories,[GHSA-2m7g-9q74-9m3q] Improper Certificate Validation in Apache Beam,https://github.com/advisories/GHSA-2m7g-9q74-9m3q,https://j.mp/3bejMjU
+GithubAdvisories,[GHSA-rjvg-q57v-mjjc] XSS in Apache Airflow,https://github.com/advisories/GHSA-rjvg-q57v-mjjc,https://j.mp/2YEHV0v
+GithubAdvisories,[GHSA-qf7v-8hj3-4xw7] Improper Verification of Cryptographic Signature in PySAML2,https://github.com/advisories/GHSA-qf7v-8hj3-4xw7,https://j.mp/2SEYrtG
+GithubAdvisories,[GHSA-rc77-xxq6-4mff] Command Injection in hot-formula-parser,https://github.com/advisories/GHSA-rc77-xxq6-4mff,https://j.mp/35Dn0ME
+GithubAdvisories,[GHSA-gqgv-6jq5-jjj9] Prototype Pollution Protection Bypass in qs,https://github.com/advisories/GHSA-gqgv-6jq5-jjj9,https://j.mp/3f7VWte
+GithubAdvisories,[GHSA-9w6v-m7wp-jwg4] Http request which redirect to another hostname do not strip authorization header in @actions/http-client,https://github.com/advisories/GHSA-9w6v-m7wp-jwg4,https://j.mp/2YfpcIu
+GithubAdvisories,[GHSA-85rf-xh54-whp3] Malicious URL drafting attack against iodines static file server may allow path traversal,https://github.com/advisories/GHSA-85rf-xh54-whp3,https://j.mp/2VVh2Cj
+GithubAdvisories,[GHSA-qh4w-7pw3-p4rp] Potential denial of service in bson rubygem,https://github.com/advisories/GHSA-qh4w-7pw3-p4rp,https://j.mp/2yRXvuL
+GithubAdvisories,[GHSA-9vvp-fxw6-jcxr] jackson-databind mishandles the interaction between serialization gadgets and typing,https://github.com/advisories/GHSA-9vvp-fxw6-jcxr,https://j.mp/2T9c1FY
+GithubAdvisories,[GHSA-27xj-rqx5-2255] jackson-databind mishandles the interaction between serialization gadgets and typing,https://github.com/advisories/GHSA-27xj-rqx5-2255,https://j.mp/2zDcKbx
+GithubAdvisories,[GHSA-v3xw-c963-f5hc] jackson-databind mishandles the interaction between serialization gadgets and typing,https://github.com/advisories/GHSA-v3xw-c963-f5hc,https://j.mp/3cAx4Zr
+GithubAdvisories,[GHSA-rf6r-2c4q-2vwg] jackson-databind mishandles the interaction between serialization gadgets and typing,https://github.com/advisories/GHSA-rf6r-2c4q-2vwg,https://j.mp/361uae1
+GithubAdvisories,[GHSA-758m-v56v-grj4] jackson-databind mishandles the interaction between serialization gadgets and typing,https://github.com/advisories/GHSA-758m-v56v-grj4,https://j.mp/3asZSRS
+GithubAdvisories,[GHSA-5p34-5m6p-p58g] jackson-databind mishandles the interaction between serialization gadgets and typing,https://github.com/advisories/GHSA-5p34-5m6p-p58g,https://j.mp/3eLVbpH
