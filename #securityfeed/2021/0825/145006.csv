@@ -1,0 +1,70 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qrx8-8545-4wg2] XStream is vulnerable to an Arbitrary Code Execution attack,https://github.com/advisories/GHSA-qrx8-8545-4wg2,https://j.mp/3koy2gz
+GithubAdvisories,[GHSA-3ccq-5vw3-2p6x] XStream is vulnerable to an Arbitrary Code Execution attack,https://github.com/advisories/GHSA-3ccq-5vw3-2p6x,https://j.mp/2WqyWAL
+GithubAdvisories,[GHSA-cxfm-5m4g-x7xp] A Server-Side Forgery Request can be activated unmarshalling with XStream to access data streams from an arbitrary URL referencing a resource in an intranet or the local host,https://github.com/advisories/GHSA-cxfm-5m4g-x7xp,https://j.mp/3sNzUDe
+GithubAdvisories,[GHSA-hph2-m3g5-xxv4] XStream is vulnerable to an Arbitrary Code Execution attack,https://github.com/advisories/GHSA-hph2-m3g5-xxv4,https://j.mp/3Dg3m9W
+GithubAdvisories,[GHSA-xw4p-crpj-vjx2] A Server-Side Forgery Request can be activated unmarshalling with XStream to access data streams from an arbitrary URL referencing a resource in an intranet or the local host,https://github.com/advisories/GHSA-xw4p-crpj-vjx2,https://j.mp/2Wj8RUS
+GithubAdvisories,[GHSA-2q8x-2p7f-574v] XStream is vulnerable to an Arbitrary Code Execution attack,https://github.com/advisories/GHSA-2q8x-2p7f-574v,https://j.mp/2WnAtYR
+GithubAdvisories,[GHSA-6w62-hx7r-mw68] XStream is vulnerable to an Arbitrary Code Execution attack,https://github.com/advisories/GHSA-6w62-hx7r-mw68,https://j.mp/2Wh6jXl
+GithubAdvisories,[GHSA-xj6r-2jpm-qvxp] Code injection issue for java-spring-cloud-stream-template,https://github.com/advisories/GHSA-xj6r-2jpm-qvxp,https://j.mp/3mushR5
+GithubAdvisories,[GHSA-q7cg-43mg-qp69] ASP.NET Core Information Disclosure Vulnerability,https://github.com/advisories/GHSA-q7cg-43mg-qp69,https://j.mp/3Bdt7FY
+GithubAdvisories,[GHSA-hr3h-x6gq-rqcp] Cross site scripting via HTML attributes in the back end,https://github.com/advisories/GHSA-hr3h-x6gq-rqcp,https://j.mp/3DrNP7c
+GithubAdvisories,[GHSA-jqfh-8hw5-fqjr] Improper Handling of Exceptional Conditions in detect-character-encoding,https://github.com/advisories/GHSA-jqfh-8hw5-fqjr,https://j.mp/2XXVU39
+GithubAdvisories,[GHSA-cgfm-62j4-v4rf] Heap out of bounds access in sparse reduction operations,https://github.com/advisories/GHSA-cgfm-62j4-v4rf,https://j.mp/3sMFYMu
+GithubAdvisories,[GHSA-hp4c-x6r7-6555] Floating point exception in `SparseDenseCwiseDiv`,https://github.com/advisories/GHSA-hp4c-x6r7-6555,https://j.mp/2UOQJBq
+GithubAdvisories,[GHSA-c9qf-r67m-p7cg] Null pointer dereference in `CompressElement`,https://github.com/advisories/GHSA-c9qf-r67m-p7cg,https://j.mp/2UMY4S1
+GithubAdvisories,[GHSA-hwr7-8gxx-fj5p] Null pointer dereference in `RaggedTensorToTensor`,https://github.com/advisories/GHSA-hwr7-8gxx-fj5p,https://j.mp/3gthEtV
+GithubAdvisories,[GHSA-gh6x-4whr-2qv4] Null pointer dereference and heap OOB read in operations restoring tensors,https://github.com/advisories/GHSA-gh6x-4whr-2qv4,https://j.mp/3sNcLBd
+GithubAdvisories,[GHSA-95xm-g58g-3p88] Integer division by 0 in sparse reshaping,https://github.com/advisories/GHSA-95xm-g58g-3p88,https://j.mp/3DdeRPD
+GithubAdvisories,[GHSA-9c8h-vvrj-w2p8] Heap OOB in `RaggedGather`,https://github.com/advisories/GHSA-9c8h-vvrj-w2p8,https://j.mp/2WpJZdR
+GithubAdvisories,[GHSA-ch4f-829c-v5pw] Division by 0 in `ResourceScatterDiv`,https://github.com/advisories/GHSA-ch4f-829c-v5pw,https://j.mp/3sLvM6U
+GithubAdvisories,[GHSA-fcwc-p4fc-c5cc] Null pointer dereference in `MatrixDiagPartOp`,https://github.com/advisories/GHSA-fcwc-p4fc-c5cc,https://j.mp/2WpJYGP
+GithubAdvisories,[GHSA-27j5-4p9v-pp67] `std::abort` raised from `TensorListReserve`,https://github.com/advisories/GHSA-27j5-4p9v-pp67,https://j.mp/3myqPgO
+GithubAdvisories,[GHSA-9w2p-5mgw-p94c] Integer overflow due to conversion to unsigned,https://github.com/advisories/GHSA-9w2p-5mgw-p94c,https://j.mp/3D9UZwy
+GithubAdvisories,[GHSA-h6jh-7gv5-28vg] Bad alloc in `StringNGrams` caused by integer conversion,https://github.com/advisories/GHSA-h6jh-7gv5-28vg,https://j.mp/3muPumn
+GithubAdvisories,[GHSA-c5x2-p679-95wc] Null pointer dereference in `SparseTensorSliceDataset`,https://github.com/advisories/GHSA-c5x2-p679-95wc,https://j.mp/3mrQLuq
+GithubAdvisories,[GHSA-wp77-4gmm-7cq8] Incorrect validation of `SaveV2` inputs,https://github.com/advisories/GHSA-wp77-4gmm-7cq8,https://j.mp/3jg7QWj
+GithubAdvisories,[GHSA-6gv8-p3vj-pxvr] Null pointer dereference in `UncompressElement`,https://github.com/advisories/GHSA-6gv8-p3vj-pxvr,https://j.mp/3DhBjXK
+GithubAdvisories,"[GHSA-f8h4-7rgh-q2gm] Segfault and heap buffer overflow in `{Experimental,}DatasetToTFRecord`",https://github.com/advisories/GHSA-f8h4-7rgh-q2gm,https://j.mp/3DhBnXu
+GithubAdvisories,[GHSA-hpv4-7p9c-mvfr] Heap buffer overflow in `FractionalAvgPoolGrad`,https://github.com/advisories/GHSA-hpv4-7p9c-mvfr,https://j.mp/3BbyEgp
+GithubAdvisories,[GHSA-m7fm-4jfh-jrg6] Use after free in boosted trees creation,https://github.com/advisories/GHSA-m7fm-4jfh-jrg6,https://j.mp/3muPAuf
+GithubAdvisories,[GHSA-qjj8-32p7-h289] Division by 0 in `ResourceGather`,https://github.com/advisories/GHSA-qjj8-32p7-h289,https://j.mp/3DkdeiT
+GithubAdvisories,[GHSA-2r8p-fg3c-wcj4] Heap OOB and CHECK fail in `ResourceGather`,https://github.com/advisories/GHSA-2r8p-fg3c-wcj4,https://j.mp/3jgwTs1
+GithubAdvisories,[GHSA-7fvx-3jfc-2cpc] Heap OOB in `ResourceScatterUpdate`,https://github.com/advisories/GHSA-7fvx-3jfc-2cpc,https://j.mp/38aahTM
+GithubAdvisories,[GHSA-4xfp-4pfp-89wg] Reference binding to nullptr in `RaggedTensorToSparse`,https://github.com/advisories/GHSA-4xfp-4pfp-89wg,https://j.mp/3yfc84j
+GithubAdvisories,[GHSA-5xwc-mrhx-5g3m] Reference binding to nullptr in `MatrixDiagV*` ops,https://github.com/advisories/GHSA-5xwc-mrhx-5g3m,https://j.mp/3knUlmB
+GithubAdvisories,[GHSA-6p5r-g9mq-ggh2] Reference binding to nullptr in `MatrixSetDiagV*` ops,https://github.com/advisories/GHSA-6p5r-g9mq-ggh2,https://j.mp/3myfflS
+GithubAdvisories,[GHSA-q3g3-h9r4-prrc] Reference binding to nullptr and heap OOB in binary cwise ops,https://github.com/advisories/GHSA-q3g3-h9r4-prrc,https://j.mp/38dkI96
+GithubAdvisories,[GHSA-cm5x-837x-jf3c] Division by 0 in inplace operations,https://github.com/advisories/GHSA-cm5x-837x-jf3c,https://j.mp/2WnABYl
+GithubAdvisories,[GHSA-gf88-j2mg-cc82] Crash caused by integer conversion to unsigned,https://github.com/advisories/GHSA-gf88-j2mg-cc82,https://j.mp/3gvjz1c
+GithubAdvisories,[GHSA-f5cx-5wr3-5qrc] Reference binding to nullptr in boosted trees,https://github.com/advisories/GHSA-f5cx-5wr3-5qrc,https://j.mp/3knUlD7
+GithubAdvisories,[GHSA-g25h-jr74-qp5j] Incomplete validation in `QuantizeV2`,https://github.com/advisories/GHSA-g25h-jr74-qp5j,https://j.mp/38aaark
+GithubAdvisories,[GHSA-r4c4-5fpq-56wg] Heap OOB in boosted trees,https://github.com/advisories/GHSA-r4c4-5fpq-56wg,https://j.mp/3zo8XZG
+GithubAdvisories,[GHSA-v82p-hv3v-p6qp] Incomplete validation in MKL requantization,https://github.com/advisories/GHSA-v82p-hv3v-p6qp,https://j.mp/38aDFcH
+GithubAdvisories,[GHSA-w4xf-2pqw-5mq7] Reference binding to nullptr in `RaggedTensorToVariant`,https://github.com/advisories/GHSA-w4xf-2pqw-5mq7,https://j.mp/3mBpFkv
+GithubAdvisories,[GHSA-w74j-v8xh-3w5h] Reference binding to nullptr in unicode encoding,https://github.com/advisories/GHSA-w74j-v8xh-3w5h,https://j.mp/3Dgv6eu
+GithubAdvisories,[GHSA-2wmv-37vq-52g5] FPE in `tf.raw_ops.UnravelIndex`,https://github.com/advisories/GHSA-2wmv-37vq-52g5,https://j.mp/3BcbyWV
+GithubAdvisories,[GHSA-vmjw-c2vp-p33c] Crash in NMS ops caused by integer conversion to unsigned,https://github.com/advisories/GHSA-vmjw-c2vp-p33c,https://j.mp/2WpK0hV
+GithubAdvisories,[GHSA-9697-98pf-4rw7] Heap OOB in `UpperBound` and `LowerBound`,https://github.com/advisories/GHSA-9697-98pf-4rw7,https://j.mp/3sKdK4S
+GithubAdvisories,[GHSA-qr82-2c78-4m8h] Reference binding to nullptr in map operations,https://github.com/advisories/GHSA-qr82-2c78-4m8h,https://j.mp/3DkB51S
+GithubAdvisories,[GHSA-5hj3-vjjf-f5m7] Heap OOB in `SdcaOptimizerV2`,https://github.com/advisories/GHSA-5hj3-vjjf-f5m7,https://j.mp/3DknyHA
+GithubAdvisories,[GHSA-278g-rq84-9hmg] `CHECK`-fail in `MapStage`,https://github.com/advisories/GHSA-278g-rq84-9hmg,https://j.mp/3gwPdv8
+GithubAdvisories,[GHSA-7ghq-fvr3-pj2x] Incomplete validation in `MaxPoolGrad`,https://github.com/advisories/GHSA-7ghq-fvr3-pj2x,https://j.mp/3Djpf8v
+GithubAdvisories,[GHSA-9c8h-2mv3-49ww] Division by 0 in most convolution operators,https://github.com/advisories/GHSA-9c8h-2mv3-49ww,https://j.mp/3kpZf2l
+GithubAdvisories,[GHSA-v768-w7m9-2vmm] Reference binding to nullptr in shape inference,https://github.com/advisories/GHSA-v768-w7m9-2vmm,https://j.mp/2WsHQOw
+GithubAdvisories,[GHSA-qfpc-5pjr-mh26] Missing validation in shape inference for `Dequantize`,https://github.com/advisories/GHSA-qfpc-5pjr-mh26,https://j.mp/3B8qQvO
+GithubAdvisories,[GHSA-r6jx-9g48-2r5r] Arbitrary code execution due to YAML deserialization,https://github.com/advisories/GHSA-r6jx-9g48-2r5r,https://j.mp/2XWj6ih
+GithubAdvisories,[GHSA-g8wg-cjwc-xhhp] Heap OOB in nested `tf.map_fn` with `RaggedTensor`s,https://github.com/advisories/GHSA-g8wg-cjwc-xhhp,https://j.mp/2WpK0OX
+GithubAdvisories,[GHSA-cfpj-3q4c-jhvr] Division by zero in TFLite,https://github.com/advisories/GHSA-cfpj-3q4c-jhvr,https://j.mp/38cwVuN
+GithubAdvisories,[GHSA-7xwj-5r4v-429p] NPE in TFLite,https://github.com/advisories/GHSA-7xwj-5r4v-429p,https://j.mp/3BcqTHa
+GithubAdvisories,[GHSA-4c4g-crqm-xrxw] Use of unitialized value in TFLite,https://github.com/advisories/GHSA-4c4g-crqm-xrxw,https://j.mp/3sPYyTR
+GithubAdvisories,[GHSA-rhrq-64mq-hf9h] FPE in TFLite division operations,https://github.com/advisories/GHSA-rhrq-64mq-hf9h,https://j.mp/2WgghIt
+GithubAdvisories,[GHSA-q7f7-544h-67h9] FPE in TFLite pooling operations,https://github.com/advisories/GHSA-q7f7-544h-67h9,https://j.mp/3BeEAoH
+GithubAdvisories,[GHSA-c545-c4f9-rf6v] Heap OOB in TFLite,https://github.com/advisories/GHSA-c545-c4f9-rf6v,https://j.mp/3gwRhna
+GithubAdvisories,[GHSA-jwf9-w5xm-f437] Heap OOB in TFLite's `Gather*` implementations,https://github.com/advisories/GHSA-jwf9-w5xm-f437,https://j.mp/38ahiDZ
+GithubAdvisories,[GHSA-mhhc-q96p-mfm9] Infinite loop in TFLite,https://github.com/advisories/GHSA-mhhc-q96p-mfm9,https://j.mp/3zjny8n
+GithubAdvisories,[GHSA-vcjj-9vg7-vf68] Null pointer dereference in TFLite,https://github.com/advisories/GHSA-vcjj-9vg7-vf68,https://j.mp/3yggOHf
+GithubAdvisories,[GHSA-wf5p-c75w-w3wh] Null pointer dereference in TFLite MLIR optimizations,https://github.com/advisories/GHSA-wf5p-c75w-w3wh,https://j.mp/3klUrep
+GithubAdvisories,[GHSA-3hxh-8cp2-g4hg] Use after free and segfault in shape inference functions,https://github.com/advisories/GHSA-3hxh-8cp2-g4hg,https://j.mp/2WpK1lZ
+GithubAdvisories,[GHSA-27qf-jwm8-g7f3] FPE in LSH in TFLite,https://github.com/advisories/GHSA-27qf-jwm8-g7f3,https://j.mp/3jg7S0n
+GithubAdvisories,"[GHSA-cmgw-8vpc-rc59] Segfault on strings tensors with mistmatched dimensions, due to Go code",https://github.com/advisories/GHSA-cmgw-8vpc-rc59,https://j.mp/3jg7Jdl
