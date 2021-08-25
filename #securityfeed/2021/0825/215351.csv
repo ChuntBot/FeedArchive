@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vfj6-275q-4pvm] graphite.composer.views.send_email vulnerable to SSRF,https://github.com/advisories/GHSA-vfj6-275q-4pvm,https://j.mp/2AzdC1a
+GithubAdvisories,[GHSA-g6wq-qcwm-j5g2] Regular Expression Denial of Service in websocket-extensions (RubyGem),https://github.com/advisories/GHSA-g6wq-qcwm-j5g2,https://j.mp/2z5nX4w
+GithubAdvisories,[GHSA-g78m-2chm-r7qv] Regular Expression Denial of Service in websocket-extensions (NPM package),https://github.com/advisories/GHSA-g78m-2chm-r7qv,https://j.mp/3dDa7Wa
+GithubAdvisories,[GHSA-x7m2-6g99-84w5] Arbitrary File Read in Snyk Broker,https://github.com/advisories/GHSA-x7m2-6g99-84w5,https://j.mp/3eMjMtz
+GithubAdvisories,[GHSA-78j5-gcmf-vqc8] Cross-Site Scripting (XSS) in Verdaccio,https://github.com/advisories/GHSA-78j5-gcmf-vqc8,https://j.mp/3c8uRDL
+GithubAdvisories,[GHSA-f7hx-fqxw-rvvj] Insufficient output escaping of attachment names in PHPMailer,https://github.com/advisories/GHSA-f7hx-fqxw-rvvj,https://j.mp/3d7WQVt
