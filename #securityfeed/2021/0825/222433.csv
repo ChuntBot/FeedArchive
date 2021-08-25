@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g86w-v5vg-9gxf] Directory traversal attack in Spring Cloud Config,https://github.com/advisories/GHSA-g86w-v5vg-9gxf,https://j.mp/2AJyRxc
+GithubAdvisories,[GHSA-fpjm-rp2g-3r4c] Django Rest Framework allows obtaining new token from notionally invalidated token,https://github.com/advisories/GHSA-fpjm-rp2g-3r4c,https://j.mp/3dBtbUB
+GithubAdvisories,[GHSA-2m34-jcjv-45xf] XSS in Django,https://github.com/advisories/GHSA-2m34-jcjv-45xf,https://j.mp/3eVhuZm
+GithubAdvisories,[GHSA-wpjr-j57x-wxfw] Data leakage via cache key collision in Django,https://github.com/advisories/GHSA-wpjr-j57x-wxfw,https://j.mp/3dCUWMI
+GithubAdvisories,[GHSA-3gh2-xw74-jmcw] SQL injection in Django,https://github.com/advisories/GHSA-3gh2-xw74-jmcw,https://j.mp/2Ubjy7G
