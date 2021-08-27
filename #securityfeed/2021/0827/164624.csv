@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9hx7-rg7w-xm79] XSS vulnerability in company name field in Mautic,https://github.com/advisories/GHSA-9hx7-rg7w-xm79,https://j.mp/2M8mSyV
+GithubAdvisories,[GHSA-qjhr-c23f-w76q] Inline JS XSS vulnerability in Mautic,https://github.com/advisories/GHSA-qjhr-c23f-w76q,https://j.mp/3oZdk81
