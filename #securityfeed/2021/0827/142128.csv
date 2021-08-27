@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-24574 (simple_banner),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24574,https://j.mp/3zpuvVt
+NVD-NIST,CVE-2021-24658 (erident_custom_login_and_dashboard),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24658,https://j.mp/2XRJ2vh
+NVD-NIST,"CVE-2021-3693 (debian_linux, ledgersmb)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3693,https://j.mp/3yxLILv
+NVD-NIST,"CVE-2021-39290 (nb1600_firmware, nb1601_firmware, nb1800_firmware, nb1810_firmware, nb2700_firmware, nb2710_firmware, nb2800_firmware, nb2810_firmware, nb3700_firmware, nb3701_firmware, nb3710_firmware, nb3711_firmware, nb3720_firmware, nb3800_firmware, nb800_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-39290,https://j.mp/3jodsgU
+NVD-NIST,"CVE-2021-39291 (nb1600_firmware, nb1601_firmware, nb1800_firmware, nb1810_firmware, nb2700_firmware, nb2710_firmware, nb2800_firmware, nb2810_firmware, nb3700_firmware, nb3701_firmware, nb3710_firmware, nb3711_firmware, nb3720_firmware, nb3800_firmware, nb800_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-39291,https://j.mp/3BhIDkd
