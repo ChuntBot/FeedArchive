@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qcxh-w3j9-58qr] Denial of Service in Tomcat,https://github.com/advisories/GHSA-qcxh-w3j9-58qr,https://j.mp/2Y4OV5X
+GithubAdvisories,[GHSA-334p-wv2m-w3vp] Denial of service in Apache Xerces2,https://github.com/advisories/GHSA-334p-wv2m-w3vp,https://j.mp/3d1cEbH
+GithubAdvisories,[GHSA-f3j5-rmmp-3fc5] Improper Input Validation in jackson-databind,https://github.com/advisories/GHSA-f3j5-rmmp-3fc5,https://j.mp/2zAEVbp
+GithubAdvisories,[GHSA-6wqp-v4v6-c87c] Deserialization of Untrusted Data,https://github.com/advisories/GHSA-6wqp-v4v6-c87c,https://j.mp/3db9kLe
+GithubAdvisories,[GHSA-58pp-9c76-5625] jackson-databind mishandles the interaction between serialization gadgets and typing,https://github.com/advisories/GHSA-58pp-9c76-5625,https://j.mp/3fcyGJO
