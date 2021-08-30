@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j2h6-73x8-22c4] Exposure of Sensitive Information to an Unauthorized Actor in ansible,https://github.com/advisories/GHSA-j2h6-73x8-22c4,https://j.mp/32tvVPV
+GithubAdvisories,"[GHSA-86hp-cj9j-33vv] Insertion of Sensitive Information into Log File, Invocation of Process Using Visible Sensitive Information, and Exposure of Sensitive Information to an Unauthorized Actor in Ansible",https://github.com/advisories/GHSA-86hp-cj9j-33vv,https://j.mp/3dYekoX
