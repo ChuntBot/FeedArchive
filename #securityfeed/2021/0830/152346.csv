@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2479-qvv7-47qq] Denial of Service in parse-server,https://github.com/advisories/GHSA-2479-qvv7-47qq,https://j.mp/32Ez4MA
+GithubAdvisories,[GHSA-232r-66cg-79px] High severity vulnerability that affects paramiko,https://github.com/advisories/GHSA-232r-66cg-79px,https://j.mp/3yoi7E9
+GithubAdvisories,[GHSA-229r-pqp6-8w6g] High severity vulnerability that affects sprout,https://github.com/advisories/GHSA-229r-pqp6-8w6g,https://j.mp/3yA1vJK
+GithubAdvisories,[GHSA-w6rc-q387-vpgq] Moderate severity vulnerability that affects passenger,https://github.com/advisories/GHSA-w6rc-q387-vpgq,https://j.mp/2WCgAgO
+GithubAdvisories,[GHSA-2fch-jvg5-crf6] Moderate severity vulnerability that affects python-gnupg,https://github.com/advisories/GHSA-2fch-jvg5-crf6,https://j.mp/3f6yMlK
