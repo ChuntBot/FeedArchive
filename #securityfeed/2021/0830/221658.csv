@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2j5v-fc74-j9q2] Cross-Site Scripting in editor.md,https://github.com/advisories/GHSA-2j5v-fc74-j9q2,https://j.mp/3jySd9o
+GithubAdvisories,[GHSA-2j2x-hx4g-2gf4] Moderate severity vulnerability that affects org.bouncycastle:bcprov-jdk14 and org.bouncycastle:bcprov-jdk15,https://github.com/advisories/GHSA-2j2x-hx4g-2gf4,https://j.mp/3gI3PrF
+GithubAdvisories,[GHSA-2hxv-mx8x-mcj9] Moderate severity vulnerability that affects spina,https://github.com/advisories/GHSA-2hxv-mx8x-mcj9,https://j.mp/3mMVo2u
+GithubAdvisories,[GHSA-2hpj-g53m-9gj6] Downloads Resources over HTTP in closure-util,https://github.com/advisories/GHSA-2hpj-g53m-9gj6,https://j.mp/34QLMuA
+GithubAdvisories,[GHSA-2gw2-8q9w-cw8p] Moderate severity vulnerability that affects ffi,https://github.com/advisories/GHSA-2gw2-8q9w-cw8p,https://j.mp/3jwcv6C
