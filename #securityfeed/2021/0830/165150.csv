@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2f9x-5v75-3qv4] Moderate severity vulnerability that affects django,https://github.com/advisories/GHSA-2f9x-5v75-3qv4,https://j.mp/3yub5NW
+GithubAdvisories,[GHSA-m6h2-jx9v-58w6] Missing Authorization in Apache Airflow,https://github.com/advisories/GHSA-m6h2-jx9v-58w6,https://j.mp/3kBvGeo
+GithubAdvisories,[GHSA-hf6p-4rv2-9qrp] Path Traversal in bikshed,https://github.com/advisories/GHSA-hf6p-4rv2-9qrp,https://j.mp/3mMjL0c
+GithubAdvisories,[GHSA-87cj-px37-rc3x] OS Command Injection in bikeshed,https://github.com/advisories/GHSA-87cj-px37-rc3x,https://j.mp/3t2Cw0u
+GithubAdvisories,[GHSA-f2rp-j8hv-g5gx] Cross-site scripting in imgURL,https://github.com/advisories/GHSA-f2rp-j8hv-g5gx,https://j.mp/3sXutBQ
+GithubAdvisories,[GHSA-4q2r-qxp6-h5j6] Improper Restriction of XML External Entity Reference in Quokka,https://github.com/advisories/GHSA-4q2r-qxp6-h5j6,https://j.mp/3yoeLRu
+GithubAdvisories,[GHSA-v3cg-h3f6-2242] Injection in MockServer,https://github.com/advisories/GHSA-v3cg-h3f6-2242,https://j.mp/3mLIIc4
+GithubAdvisories,[GHSA-98hv-qff3-8793] Unrestricted Upload of File with Dangerous Type in django-widgy,https://github.com/advisories/GHSA-98hv-qff3-8793,https://j.mp/3zwxV91
+GithubAdvisories,[GHSA-3xg5-6c3j-vp8x] Improper Restriction of XML External Entity Reference in Quokka,https://github.com/advisories/GHSA-3xg5-6c3j-vp8x,https://j.mp/3mJF8Ps
+GithubAdvisories,[GHSA-5m69-3chg-6f8m] Cross Site Scripting (XSS) in Quokka,https://github.com/advisories/GHSA-5m69-3chg-6f8m,https://j.mp/2V03GZf
+GithubAdvisories,[GHSA-cpv8-6xgr-rmf6] Cross-site Scripting in Dolibarr,https://github.com/advisories/GHSA-cpv8-6xgr-rmf6,https://j.mp/3kBvwDO
+GithubAdvisories,[GHSA-f8pv-x7h8-687v] Cross-site scripting in feehicms,https://github.com/advisories/GHSA-f8pv-x7h8-687v,https://j.mp/2YalTo9
+GithubAdvisories,[GHSA-r6g8-jmj9-g945] Improper Restriction of Rendered UI Layers or Frames in yourls,https://github.com/advisories/GHSA-r6g8-jmj9-g945,https://j.mp/3Dz8oia
