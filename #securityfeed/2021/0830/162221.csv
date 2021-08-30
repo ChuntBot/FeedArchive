@@ -1,0 +1,27 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-29gr-w57f-rpfw] Moderate severity vulnerability that affects actionpack,https://github.com/advisories/GHSA-29gr-w57f-rpfw,https://j.mp/3Du5E5w
+GithubAdvisories,[GHSA-hgjr-632x-qpp3] Cross-site scripting vulnerability in file upload,https://github.com/advisories/GHSA-hgjr-632x-qpp3,https://j.mp/3zqclmC
+GithubAdvisories,[GHSA-mq5p-2mcr-m52j] Code injection in nbgitpuller,https://github.com/advisories/GHSA-mq5p-2mcr-m52j,https://j.mp/3BvbsKl
+GithubAdvisories,[GHSA-9jjr-qqfp-ppwx] remote code execution via git repo provider,https://github.com/advisories/GHSA-9jjr-qqfp-ppwx,https://j.mp/38qenYg
+GithubAdvisories,[GHSA-hw7r-qrhp-5pff] Unauthorized property update in CheckboxGroup component in Vaadin 12-14 and 15-20,https://github.com/advisories/GHSA-hw7r-qrhp-5pff,https://j.mp/3kBosar
+GithubAdvisories,[GHSA-27xw-p8v6-9jjr] Moderate severity vulnerability that affects org.springframework.security:spring-security-core,https://github.com/advisories/GHSA-27xw-p8v6-9jjr,https://j.mp/2N7H191
+GithubAdvisories,[GHSA-qcc4-3rxf-gf4m] Unauthorized property update in CheckboxGroup component in Vaadin 12-14 and 15-20,https://github.com/advisories/GHSA-qcc4-3rxf-gf4m,https://j.mp/3jrIEvL
+GithubAdvisories,[GHSA-hqxw-mm44-gc4r] Fragments in Path May Lead to Authorization Policy Bypass,https://github.com/advisories/GHSA-hqxw-mm44-gc4r,https://j.mp/2YbBwvy
+GithubAdvisories,[GHSA-7774-7vr3-cc8j] Authorization Policy Bypass Due to Case Insensitive Host Comparison,https://github.com/advisories/GHSA-7774-7vr3-cc8j,https://j.mp/3zIsnsp
+GithubAdvisories,[GHSA-9856-9gg9-qcmq] Consensus flaw during block processing,https://github.com/advisories/GHSA-9856-9gg9-qcmq,https://j.mp/3BoP84L
+GithubAdvisories,[GHSA-54gp-qff8-946c] Insecure direct object reference of log files of the Import/Export feature,https://github.com/advisories/GHSA-54gp-qff8-946c,https://j.mp/3jrIF2N
+GithubAdvisories,[GHSA-xh55-2fqp-p775] Command injection in mail agent settings,https://github.com/advisories/GHSA-xh55-2fqp-p775,https://j.mp/3gK3uoH
+GithubAdvisories,[GHSA-9f8f-574q-8jmf] Manipulation of product reviews via API,https://github.com/advisories/GHSA-9f8f-574q-8jmf,https://j.mp/3zvESaw
+GithubAdvisories,[GHSA-h76r-vgf3-j6w5] Auth bypass and account takeover,https://github.com/advisories/GHSA-h76r-vgf3-j6w5,https://j.mp/3jrElAI
+GithubAdvisories,[GHSA-cvh5-p6r6-g2qc] Exposed phpinfo() leadked via documentation files,https://github.com/advisories/GHSA-cvh5-p6r6-g2qc,https://j.mp/3Buk4AR
+GithubAdvisories,[GHSA-pp2h-95hm-hv9r] Improper Neutralization of Formula Elements in a CSV File in pimcore/pimcore,https://github.com/advisories/GHSA-pp2h-95hm-hv9r,https://j.mp/2WDAUhh
+GithubAdvisories,[GHSA-mxr5-mc97-63rc] Account Takeover,https://github.com/advisories/GHSA-mxr5-mc97-63rc,https://j.mp/2WDz5RR
+GithubAdvisories,[GHSA-79mg-4w23-4fqc] Unauthenticated SQL Injection in Cachet,https://github.com/advisories/GHSA-79mg-4w23-4fqc,https://j.mp/3zwH4ym
+GithubAdvisories,[GHSA-vrw4-w73r-6mm8] TimelockController vulnerability in OpenZeppelin Contracts,https://github.com/advisories/GHSA-vrw4-w73r-6mm8,https://j.mp/3kGoBt9
+GithubAdvisories,[GHSA-fg47-3c2x-m2wr] TimelockController vulnerability in OpenZeppelin Contracts,https://github.com/advisories/GHSA-fg47-3c2x-m2wr,https://j.mp/2WxRbV6
+GithubAdvisories,[GHSA-5379-r78w-42h2] Unlimited transforms allowed for signed nodes,https://github.com/advisories/GHSA-5379-r78w-42h2,https://j.mp/2V4Y0xa
+GithubAdvisories,[GHSA-88f9-7xxh-c688] Configuration leak,https://github.com/advisories/GHSA-88f9-7xxh-c688,https://j.mp/3Du5wTA
+GithubAdvisories,[GHSA-r67m-m8c7-jp83] Forced reinstall,https://github.com/advisories/GHSA-r67m-m8c7-jp83,https://j.mp/2YeygzH
+GithubAdvisories,[GHSA-9jxw-cfrh-jxq6] New line injection during configuration edition,https://github.com/advisories/GHSA-9jxw-cfrh-jxq6,https://j.mp/3gLZpjB
+GithubAdvisories,[GHSA-2777-2vq8-c4v4] SQL Injection in sequelize,https://github.com/advisories/GHSA-2777-2vq8-c4v4,https://j.mp/31HTWTS
+GithubAdvisories,[GHSA-26v6-w6fw-rh94] Moderate severity vulnerability that affects org.apache.camel:camel-jetty and org.apache.camel:camel-servlet,https://github.com/advisories/GHSA-26v6-w6fw-rh94,https://j.mp/3yr43tn
