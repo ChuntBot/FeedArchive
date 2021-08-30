@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2m8h-fgr8-2q9w] Moderate severity vulnerability that affects org.springframework:spring-core,https://github.com/advisories/GHSA-2m8h-fgr8-2q9w,https://j.mp/38sWfwS
+GithubAdvisories,[GHSA-2j9c-9vmv-7m39] Moderate severity vulnerability that affects rack-cors,https://github.com/advisories/GHSA-2j9c-9vmv-7m39,https://j.mp/38pquof
+GithubAdvisories,[GHSA-2jc8-4r6g-282j] Moderate severity vulnerability that affects python-gnupg,https://github.com/advisories/GHSA-2jc8-4r6g-282j,https://j.mp/3kBYZO2
