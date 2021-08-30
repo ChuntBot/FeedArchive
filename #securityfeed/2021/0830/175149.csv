@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-34jq-548x-m2x9] Improper Resource Shutdown or Release in TYPO3 extension,https://github.com/advisories/GHSA-34jq-548x-m2x9,https://j.mp/3DvuuC8
+GithubAdvisories,[GHSA-23fq-q7hc-993r] Improper Preservation of Permissions in HashiCorp Vault,https://github.com/advisories/GHSA-23fq-q7hc-993r,https://j.mp/2WBWL8O
+GithubAdvisories,[GHSA-6239-28c2-9mrm] Improper Removal of Sensitive Information Before Storage or Transfer in HashiCorp Vault,https://github.com/advisories/GHSA-6239-28c2-9mrm,https://j.mp/3yuKj8b
+GithubAdvisories,[GHSA-jj8r-p9f5-fmvv] Cross-site Scripting in TYPO3 extension,https://github.com/advisories/GHSA-jj8r-p9f5-fmvv,https://j.mp/3BqpJYx
+GithubAdvisories,[GHSA-h5q8-5697-9p9h] Cross-Site Request Forgery in express-cart,https://github.com/advisories/GHSA-h5q8-5697-9p9h,https://j.mp/3DrsdrD
+GithubAdvisories,[GHSA-5ph6-qq5x-7jwc] ExternalName Services can be used to gain access to Envoy's admin interface,https://github.com/advisories/GHSA-5ph6-qq5x-7jwc,https://j.mp/3t6GBAD
+GithubAdvisories,[GHSA-26rr-v2j2-25fh] Layout XML Arbitrary Code Fix,https://github.com/advisories/GHSA-26rr-v2j2-25fh,https://j.mp/2YeRLYV
+GithubAdvisories,[GHSA-xm9f-vxmx-4m58] Data Flow Sanitation Issue Fix,https://github.com/advisories/GHSA-xm9f-vxmx-4m58,https://j.mp/3mL5u3D
