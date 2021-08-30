@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-338v-3958-8v8r] Information disclosure in JBoss Weld,https://github.com/advisories/GHSA-338v-3958-8v8r,https://j.mp/3dQSrXl
+GithubAdvisories,[GHSA-96r7-mrqf-jhcc] Prototype Pollution in ini-parser,https://github.com/advisories/GHSA-96r7-mrqf-jhcc,https://j.mp/3cUEIxc
+GithubAdvisories,[GHSA-864j-6qpp-cmrr] SQL Injection in Geocoder,https://github.com/advisories/GHSA-864j-6qpp-cmrr,https://j.mp/2BRCdil
+GithubAdvisories,[GHSA-r24h-634p-m72x] Validation Bypass in schema-inspector,https://github.com/advisories/GHSA-r24h-634p-m72x,https://j.mp/30tNNdV
