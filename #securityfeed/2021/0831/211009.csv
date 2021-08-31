@@ -1,0 +1,25 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w9fg-xffh-p362] Denial of service (via resource exhaustion) due to improper input validation on third-party identifier endpoints,https://github.com/advisories/GHSA-w9fg-xffh-p362,https://j.mp/2PQu6tX
+GithubAdvisories,[GHSA-jrh7-mhhx-6h88] Denial of service (via resource exhaustion) due to improper input validation on groups/communities endpoints,https://github.com/advisories/GHSA-jrh7-mhhx-6h88,https://j.mp/3dZtBWj
+GithubAdvisories,[GHSA-5wrh-4jwv-5w78] Open redirect via transitional IPv6 addresses on dual-stack networks,https://github.com/advisories/GHSA-5wrh-4jwv-5w78,https://j.mp/3scADMn
+GithubAdvisories,[GHSA-3jq8-jg75-rqv6] Moderate severity vulnerability that affects org.apache.nifi:nifi,https://github.com/advisories/GHSA-3jq8-jg75-rqv6,https://j.mp/3t0V3dx
+GithubAdvisories,[GHSA-3hrc-f439-727g] Moderate severity vulnerability that affects org.apache.camel:camel-core,https://github.com/advisories/GHSA-3hrc-f439-727g,https://j.mp/3yDT7ZK
+GithubAdvisories,[GHSA-3gx7-xhv7-5mx3] Arbitrary Code Execution in eslint-utils,https://github.com/advisories/GHSA-3gx7-xhv7-5mx3,https://j.mp/3hLAjjs
+GithubAdvisories,[GHSA-3fx5-fwvr-xrjg] Regular Expression Denial of Service in millisecond,https://github.com/advisories/GHSA-3fx5-fwvr-xrjg,https://j.mp/2EHTLPN
+GithubAdvisories,[GHSA-3fhf-6939-qg8p] High severity vulnerability that affects rest-client,https://github.com/advisories/GHSA-3fhf-6939-qg8p,https://j.mp/3kzfwlC
+GithubAdvisories,[GHSA-3f5c-4qxj-vmpf] High severity vulnerability that affects next,https://github.com/advisories/GHSA-3f5c-4qxj-vmpf,https://j.mp/3DrNBNc
+GithubAdvisories,[GHSA-3crr-9vmg-864v] Moderate severity vulnerability that affects activerecord,https://github.com/advisories/GHSA-3crr-9vmg-864v,https://j.mp/3BtodF7
+GithubAdvisories,[GHSA-3c5c-7235-994j] Moderate severity vulnerability that affects Pillow,https://github.com/advisories/GHSA-3c5c-7235-994j,https://j.mp/38r1Aor
+GithubAdvisories,[GHSA-m429-fhmv-c6q2] Improper Verification of Cryptographic Signature,https://github.com/advisories/GHSA-m429-fhmv-c6q2,https://j.mp/3gpeKY4
+GithubAdvisories,[GHSA-3c48-6pcv-88rm] High severity vulnerability that affects mathjax,https://github.com/advisories/GHSA-3c48-6pcv-88rm,https://j.mp/3yxi4pw
+GithubAdvisories,[GHSA-gwr8-5j83-483c] OS Command Injection and Improper Input Validation in ansible,https://github.com/advisories/GHSA-gwr8-5j83-483c,https://j.mp/32w2VHn
+GithubAdvisories,[GHSA-39pj-gq8q-9pfj] Authentication Weakness in keystone,https://github.com/advisories/GHSA-39pj-gq8q-9pfj,https://j.mp/2EGTQmI
+GithubAdvisories,[GHSA-38fc-9xqv-7f7q] Moderate severity vulnerability that affects SQLAlchemy,https://github.com/advisories/GHSA-38fc-9xqv-7f7q,https://j.mp/3kFsaja
+GithubAdvisories,[GHSA-38cr-2ph5-frr9] Moderate severity vulnerability that affects org.apache.struts:struts2-rest-plugin,https://github.com/advisories/GHSA-38cr-2ph5-frr9,https://j.mp/3t2GohI
+GithubAdvisories,[GHSA-387v-84cv-9qmc] Moderate severity vulnerability that affects org.apache.solr:solr-core,https://github.com/advisories/GHSA-387v-84cv-9qmc,https://j.mp/38vFb9w
+GithubAdvisories,[GHSA-37q6-576q-vgr7] Missing Origin Validation in parcel-bundler,https://github.com/advisories/GHSA-37q6-576q-vgr7,https://j.mp/3b4M3en
+GithubAdvisories,[GHSA-37hp-765x-j95x] Moderate severity vulnerability that affects django,https://github.com/advisories/GHSA-37hp-765x-j95x,https://j.mp/2YfPVa3
+GithubAdvisories,[GHSA-36p7-xjw8-h6f2] Moderate severity vulnerability that affects ruby-saml,https://github.com/advisories/GHSA-36p7-xjw8-h6f2,https://j.mp/3mPCF6k
+GithubAdvisories,[GHSA-365p-96qv-xr7g] Moderate severity vulnerability that affects Microsoft.AspNetCore.HttpOverrides and Microsoft.AspNetCore.Server.Kestrel.Core,https://github.com/advisories/GHSA-365p-96qv-xr7g,https://j.mp/3zC3zSO
+GithubAdvisories,[GHSA-35hc-x2cw-2j4v] Moderate severity vulnerability that affects System.Security.Cryptography.Xml,https://github.com/advisories/GHSA-35hc-x2cw-2j4v,https://j.mp/2WyZP6j
+GithubAdvisories,[GHSA-34r7-q49f-h37c] Incorrect Handling of Non-Boolean Comparisons During Minification in uglify-js,https://github.com/advisories/GHSA-34r7-q49f-h37c,https://j.mp/3hFYSya
