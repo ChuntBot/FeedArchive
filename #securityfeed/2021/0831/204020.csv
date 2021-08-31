@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3448-vfvv-xp9g] Moderate severity vulnerability that affects org.apache.tika:tika-core,https://github.com/advisories/GHSA-3448-vfvv-xp9g,https://j.mp/3zA3cb5
+GithubAdvisories,[GHSA-33pp-3763-mrfp] Moderate severity vulnerability that affects sprockets,https://github.com/advisories/GHSA-33pp-3763-mrfp,https://j.mp/3gOWVBj
+GithubAdvisories,[GHSA-333x-9vgq-v2j4] Directory Traversal in geddy,https://github.com/advisories/GHSA-333x-9vgq-v2j4,https://j.mp/3jutweh
+GithubAdvisories,[GHSA-32w7-9whp-cjp9] High severity vulnerability that affects tryton,https://github.com/advisories/GHSA-32w7-9whp-cjp9,https://j.mp/3jt0iiW
+GithubAdvisories,[GHSA-32pc-xphx-q4f6] Moderate severity vulnerability that affects gunicorn,https://github.com/advisories/GHSA-32pc-xphx-q4f6,https://j.mp/2Y56aXg
+GithubAdvisories,[GHSA-325j-24f4-qv5x] Regular Expression Denial of Service in ssri,https://github.com/advisories/GHSA-325j-24f4-qv5x,https://j.mp/31JN48A
+GithubAdvisories,[GHSA-2xpp-75vr-22vq] Low severity vulnerability that affects org.apache.nifi:nifi,https://github.com/advisories/GHSA-2xpp-75vr-22vq,https://j.mp/3yx9zuD
+GithubAdvisories,[GHSA-2xjj-5x6h-8vmf] Moderate severity vulnerability that affects actionpack,https://github.com/advisories/GHSA-2xjj-5x6h-8vmf,https://j.mp/3zybUa7
+GithubAdvisories,[GHSA-2x83-r56g-cv47] High severity vulnerability that affects org.apache.httpcomponents:httpclient,https://github.com/advisories/GHSA-2x83-r56g-cv47,https://j.mp/3kX6jUL
+GithubAdvisories,[GHSA-2x54-j4m3-r6wx] High severity vulnerability that affects sqla-yaml-fixtures,https://github.com/advisories/GHSA-2x54-j4m3-r6wx,https://j.mp/3jwX4en
