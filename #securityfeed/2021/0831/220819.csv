@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4936-rj25-6wm6] High severity vulnerability that affects nori,https://github.com/advisories/GHSA-4936-rj25-6wm6,https://j.mp/38vU2k1
+GithubAdvisories,[GHSA-46j3-r4pj-4835] Low severity vulnerability that affects org.apache.tomcat.embed:tomcat-embed-core,https://github.com/advisories/GHSA-46j3-r4pj-4835,https://j.mp/3mQ8D2q
+GithubAdvisories,[GHSA-462w-v97r-4m45] High severity vulnerability that affects Jinja2,https://github.com/advisories/GHSA-462w-v97r-4m45,https://j.mp/3gRFf7V
+GithubAdvisories,[GHSA-45vg-2v73-vm62] Moderate severity vulnerability that affects org.springframework:spring-core,https://github.com/advisories/GHSA-45vg-2v73-vm62,https://j.mp/3juClI3
+GithubAdvisories,[GHSA-45r8-3495-x6rm] High severity vulnerability that affects com.hubspot.jinjava:jinjava,https://github.com/advisories/GHSA-45r8-3495-x6rm,https://j.mp/2WJh7xx
+GithubAdvisories,[GHSA-4487-x383-qpph] Moderate severity vulnerability that affects org.springframework:spring-core,https://github.com/advisories/GHSA-4487-x383-qpph,https://j.mp/3zzIt7w
+GithubAdvisories,[GHSA-446m-mv8f-q348] Regular Expression Denial of Service in moment,https://github.com/advisories/GHSA-446m-mv8f-q348,https://j.mp/2QFrlbz
+GithubAdvisories,[GHSA-43fp-vwwg-qgv6] Moderate severity vulnerability that affects org.apache.nifi:nifi,https://github.com/advisories/GHSA-43fp-vwwg-qgv6,https://j.mp/3mWRBzk
