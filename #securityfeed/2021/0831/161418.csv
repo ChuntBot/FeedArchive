@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9r2w-394v-53qc] Arbitrary File Creation/Overwrite via insufficient symlink protection due to directory cache poisoning using symbolic links,https://github.com/advisories/GHSA-9r2w-394v-53qc,https://j.mp/3DznKmr
+GithubAdvisories,[GHSA-qq89-hq3f-393p] Arbitrary File Creation/Overwrite via insufficient symlink protection due to directory cache poisoning using symbolic links,https://github.com/advisories/GHSA-qq89-hq3f-393p,https://j.mp/3ztdycS
+GithubAdvisories,[GHSA-5955-9wpr-37jh] Arbitrary File Creation/Overwrite on Windows via insufficient relative path sanitization,https://github.com/advisories/GHSA-5955-9wpr-37jh,https://j.mp/38qncRR
+GithubAdvisories,[GHSA-2h3h-q99f-3fhc] UNIX Symbolic Link (Symlink) Following in @npmcli/arborist,https://github.com/advisories/GHSA-2h3h-q99f-3fhc,https://j.mp/3mKMiDj
+GithubAdvisories,[GHSA-gmw6-94gg-2rc2] UNIX Symbolic Link (Symlink) Following in @npmcli/arborist,https://github.com/advisories/GHSA-gmw6-94gg-2rc2,https://j.mp/3mL1fVS
