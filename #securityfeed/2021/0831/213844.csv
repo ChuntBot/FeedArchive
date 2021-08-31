@@ -1,0 +1,30 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-42fp-4hm3-j8r7] Moderate severity vulnerability that affects moin,https://github.com/advisories/GHSA-42fp-4hm3-j8r7,https://j.mp/2YfbXtB
+GithubAdvisories,[GHSA-3x7h-5hfr-hvjm] Moderate severity vulnerability that affects io.undertow:undertow-core,https://github.com/advisories/GHSA-3x7h-5hfr-hvjm,https://j.mp/3gP5CLX
+GithubAdvisories,[GHSA-3w9q-c44j-37jj] High severity vulnerability that affects Microsoft.ChakraCore,https://github.com/advisories/GHSA-3w9q-c44j-37jj,https://j.mp/3BveXAc
+GithubAdvisories,[GHSA-3w5v-p54c-f74x] High severity vulnerability that affects ejs,https://github.com/advisories/GHSA-3w5v-p54c-f74x,https://j.mp/2WHamw7
+GithubAdvisories,[GHSA-3vfw-7rcp-3xgm] Moderate severity vulnerability that affects actionpack,https://github.com/advisories/GHSA-3vfw-7rcp-3xgm,https://j.mp/3BveWME
+GithubAdvisories,[GHSA-3v44-382q-55f4] Moderate severity vulnerability that affects org.apache.hadoop:hadoop-main,https://github.com/advisories/GHSA-3v44-382q-55f4,https://j.mp/3zxyFe4
+GithubAdvisories,[GHSA-3v43-877x-qgmq] Moderate severity vulnerability that affects league/commonmark,https://github.com/advisories/GHSA-3v43-877x-qgmq,https://j.mp/3mTmnt1
+GithubAdvisories,[GHSA-3rpr-mg43-xhq4] High severity vulnerability that affects auth0-js,https://github.com/advisories/GHSA-3rpr-mg43-xhq4,https://j.mp/3gPxlvQ
+GithubAdvisories,[GHSA-3rhm-67j6-42jq] Moderate severity vulnerability that affects com.jason-goodwin:authentikat-jwt_2.12,https://github.com/advisories/GHSA-3rhm-67j6-42jq,https://j.mp/3yAkHXD
+GithubAdvisories,[GHSA-3q32-j57w-q4w7] Path Traversal in total.js,https://github.com/advisories/GHSA-3q32-j57w-q4w7,https://j.mp/3bdRCY7
+GithubAdvisories,[GHSA-3pxh-h8hw-mj8w] Moderate severity vulnerability that affects rack,https://github.com/advisories/GHSA-3pxh-h8hw-mj8w,https://j.mp/38upO0Y
+GithubAdvisories,[GHSA-3pph-2595-cgfh] Moderate severity vulnerability that affects org.apache.solr:solr-core,https://github.com/advisories/GHSA-3pph-2595-cgfh,https://j.mp/3BveY7e
+GithubAdvisories,[GHSA-8qxj-f9rh-9fg2] Improper Verification of Cryptographic Signature in Pure-Python ECDSA,https://github.com/advisories/GHSA-8qxj-f9rh-9fg2,https://j.mp/2UAdw0Y
+GithubAdvisories,[GHSA-3p4q-x8f3-p7vq] Moderate severity vulnerability that affects notebook,https://github.com/advisories/GHSA-3p4q-x8f3-p7vq,https://j.mp/3jt7NX8
+GithubAdvisories,[GHSA-r6j9-8759-g62w] Improper Restriction of XML External Entity Reference in jackson-mapper-asl,https://github.com/advisories/GHSA-r6j9-8759-g62w,https://j.mp/31v7Tmn
+GithubAdvisories,[GHSA-grgm-pph5-j5h7] Exposure of Sensitive Information to an Unauthorized Actor in ansible,https://github.com/advisories/GHSA-grgm-pph5-j5h7,https://j.mp/3wn9LwM
+GithubAdvisories,[GHSA-r28v-mw67-m5p9] Moderate severity vulnerability that affects django,https://github.com/advisories/GHSA-r28v-mw67-m5p9,https://j.mp/3jxmOaw
+GithubAdvisories,[GHSA-p28m-34f6-967q] High severity vulnerability that affects pyopenssl,https://github.com/advisories/GHSA-p28m-34f6-967q,https://j.mp/3gOGV24
+GithubAdvisories,[GHSA-m956-frf4-m2wr] Moderate severity vulnerability that affects ansible,https://github.com/advisories/GHSA-m956-frf4-m2wr,https://j.mp/2XlM8Ev
+GithubAdvisories,[GHSA-jwcc-j78w-j73w] High severity vulnerability that affects ansible,https://github.com/advisories/GHSA-jwcc-j78w-j73w,https://j.mp/39bisQ0
+GithubAdvisories,[GHSA-3m6r-39p3-jq25] Moderate severity vulnerability that affects doorkeeper,https://github.com/advisories/GHSA-3m6r-39p3-jq25,https://j.mp/3zxyFL6
+GithubAdvisories,[GHSA-3jqw-crqj-w8qw] Moderate severity vulnerability that affects django,https://github.com/advisories/GHSA-3jqw-crqj-w8qw,https://j.mp/3yuL2WZ
+GithubAdvisories,[GHSA-77g3-3j5w-64w4] Exposure of Resource to Wrong Sphere and Insecure Temporary File in Ansible,https://github.com/advisories/GHSA-77g3-3j5w-64w4,https://j.mp/2PH7HyU
+GithubAdvisories,"[GHSA-frxj-5j27-f8rf] Externally Controlled Reference to a Resource in Another Sphere, Improper Input Validation, and External Control of File Name or Path in Ansible",https://github.com/advisories/GHSA-frxj-5j27-f8rf,https://j.mp/3aqLDzS
+GithubAdvisories,"[GHSA-p62g-jhg6-v3rq] Code Injection, Race Condition, and Execution with Unnecessary Privileges in Ansible",https://github.com/advisories/GHSA-p62g-jhg6-v3rq,https://j.mp/3rYiL8a
+GithubAdvisories,[GHSA-vcg8-98q8-g7mj] Exposure of Sensitive Information to an Unauthorized Actor and Insecure Temporary File in Ansible,https://github.com/advisories/GHSA-vcg8-98q8-g7mj,https://j.mp/3wDk53x
+GithubAdvisories,[GHSA-gfr2-qpxh-qj9m] Path Traversal in Ansible,https://github.com/advisories/GHSA-gfr2-qpxh-qj9m,https://j.mp/3wDP27O
+GithubAdvisories,[GHSA-923p-fr2c-g5m2] Exposure of Sensitive Information to an Unauthorized Actor in Ansible,https://github.com/advisories/GHSA-923p-fr2c-g5m2,https://j.mp/3uJVU1Z
+GithubAdvisories,[GHSA-g4mq-6fp5-qwcf] Exposure of Resource to Wrong Sphere and Insecure Temporary File in Ansible,https://github.com/advisories/GHSA-g4mq-6fp5-qwcf,https://j.mp/3v5zyrQ
