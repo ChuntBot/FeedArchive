@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4c32-xmgj-2g98] High severity vulnerability that affects org.apache.pdfbox:pdfbox,https://github.com/advisories/GHSA-4c32-xmgj-2g98,https://j.mp/3kHB2oy
+GithubAdvisories,[GHSA-49qr-xh3w-h436] Moderate severity vulnerability that affects notebook,https://github.com/advisories/GHSA-49qr-xh3w-h436,https://j.mp/3zHgVNG
+GithubAdvisories,[GHSA-49h4-g8p5-jgq6] Moderate severity vulnerability that affects org.apache.juddi:juddi-client,https://github.com/advisories/GHSA-49h4-g8p5-jgq6,https://j.mp/3yzhFTz
