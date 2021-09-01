@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5cf4-jqwp-584g] Moderate severity vulnerability that affects org.apache.hadoop:hadoop-main,https://github.com/advisories/GHSA-5cf4-jqwp-584g,https://j.mp/3tk90U9
+GithubAdvisories,[GHSA-5c8j-xr24-2665] Potential Command Injection in printer,https://github.com/advisories/GHSA-5c8j-xr24-2665,https://j.mp/3ba4Kxi
+GithubAdvisories,[GHSA-5c66-x4wm-rjfx] Low severity vulnerability that affects DotNetNuke.Core,https://github.com/advisories/GHSA-5c66-x4wm-rjfx,https://j.mp/3zEuBbZ
+GithubAdvisories,[GHSA-59c7-4xj2-hgvw] Moderate severity vulnerability that affects rails-html-sanitizer,https://github.com/advisories/GHSA-59c7-4xj2-hgvw,https://j.mp/2V7QwJD
