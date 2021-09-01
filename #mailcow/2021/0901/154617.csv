@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubCommit,[Alpine] Upgrade to 3.14,https://github.com/mailcow/mailcow-dockerized/commit/19dda55d967ef591c591deeb714368c844d6adda,https://j.mp/3t3fqXz
+GithubCommit,Merge branch 'master' into staging,https://github.com/mailcow/mailcow-dockerized/commit/853a2819938291e7fc29316b5a9b97432344691e,https://j.mp/38AQ1uA
+GithubCommit,[Rspamd] Base on bullseye; remove nullnull map to _perhaps_ prevent a…,https://github.com/mailcow/mailcow-dockerized/commit/8ee997b1a3e6309660a9d9b35d26c1296d48708d,https://j.mp/3kIiDIj
+GithubCommit,[Config] Fixed ofelia container in SELinux environment (#4257),https://github.com/mailcow/mailcow-dockerized/commit/8f733a903ba2f2cfeb6b112e1915f7bc63bd39af,https://j.mp/3zDksw6
+GithubCommit,[Web] Cast docker info as array in debug.php (#4256),https://github.com/mailcow/mailcow-dockerized/commit/bdf601ff2833442b3c2e07a548fe12d15289867b,https://j.mp/3t4LRoo
+GithubCommit,[Web] Fido2 support for M1 Macs with Touch ID (#4255),https://github.com/mailcow/mailcow-dockerized/commit/e3b58c6b809876350df395b872856054697902eb,https://j.mp/3Bztw5I
+GithubCommit,"[Dovecot: Imapsync] Parse, save and show last run status (#4253)",https://github.com/mailcow/mailcow-dockerized/commit/54c4d7e49c53fbbc4f5df697b27b9dfa37052533,https://j.mp/2YltXTf
+GithubCommit,[Web] Add DKIM key when adding a domain or alias domain (#4254),https://github.com/mailcow/mailcow-dockerized/commit/c1dcb529f3abeb983d52a66018b2fec496aca0b7,https://j.mp/3t9kCZN
+GithubCommit,[Rspamd] Remove IVM-SG script,https://github.com/mailcow/mailcow-dockerized/commit/2b89ab919becb6b6228e5588e75bb462842059d9,https://j.mp/3yzz8eB
+GithubCommit,[Dovecot] Update to 2.3.16,https://github.com/mailcow/mailcow-dockerized/commit/f12756511d5971f7ea3100406c24a7da5c879f63,https://j.mp/3t4Mn5K
+GithubCommit,[Alpine] Upgrade to 3.14,https://github.com/mailcow/mailcow-dockerized/commit/482000063f17dad065c98003e911a86049feb134,https://j.mp/3jB6bLa
+GithubCommit,[Rspamd] Base on bullseye; remove nullnull map to _perhaps_ prevent a…,https://github.com/mailcow/mailcow-dockerized/commit/a1f9794dafd5bd5a001baafe08a3512128488fe1,https://j.mp/2WJb3EZ
+GithubCommit,Merge branch 'master' into staging,https://github.com/mailcow/mailcow-dockerized/commit/a6c9b8003f51f80277cc829cfab2db06f468a891,https://j.mp/3kHUp0K
