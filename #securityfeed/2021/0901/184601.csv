@@ -1,0 +1,44 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x7g2-wrrp-r6h3] Use of a Broken or Risky Cryptographic Algorithm,https://github.com/advisories/GHSA-x7g2-wrrp-r6h3,https://j.mp/3BuUcEU
+GithubAdvisories,[GHSA-32hw-3pvh-vcvc] XSS vulnerability on password reset page,https://github.com/advisories/GHSA-32hw-3pvh-vcvc,https://j.mp/3t4DZ6e
+GithubAdvisories,[GHSA-86pv-95mj-7w5f] Stored XSS vulnerability on Bounce Management Callback,https://github.com/advisories/GHSA-86pv-95mj-7w5f,https://j.mp/3gThpZn
+GithubAdvisories,[GHSA-72hm-fx78-xwhc] XSS vulnerability on contacts view,https://github.com/advisories/GHSA-72hm-fx78-xwhc,https://j.mp/3BrYtsw
+GithubAdvisories,[GHSA-rh5w-82wh-jhr8] XSS vulnerability on asset view,https://github.com/advisories/GHSA-rh5w-82wh-jhr8,https://j.mp/3yvyZc0
+GithubAdvisories,[GHSA-4xjh-m3qx-49wc] Moderate severity vulnerability that affects jekyll,https://github.com/advisories/GHSA-4xjh-m3qx-49wc,https://j.mp/3mPf2uB
+GithubAdvisories,[GHSA-4ww3-3rxj-8v6q] High severity vulnerability that affects actionpack,https://github.com/advisories/GHSA-4ww3-3rxj-8v6q,https://j.mp/3mTZFBg
+GithubAdvisories,[GHSA-4whc-pp4x-9pf3] Moderate severity vulnerability that affects jquery-rails and jquery-ujs,https://github.com/advisories/GHSA-4whc-pp4x-9pf3,https://j.mp/3zDf7oO
+GithubAdvisories,[GHSA-4vhj-98r6-424h] Moderate severity vulnerability that affects org.bouncycastle:bcprov-jdk14 and org.bouncycastle:bcprov-jdk15,https://github.com/advisories/GHSA-4vhj-98r6-424h,https://j.mp/3jAyn0D
+GithubAdvisories,[GHSA-w873-xcqq-x922] Command Injection in Simiki,https://github.com/advisories/GHSA-w873-xcqq-x922,https://j.mp/3BrYtZy
+GithubAdvisories,[GHSA-v39p-96qg-c8rf] Prototype Pollution in object-path,https://github.com/advisories/GHSA-v39p-96qg-c8rf,https://j.mp/2WL4KB1
+GithubAdvisories,[GHSA-fqr5-qphf-vfr8] Cross Site Scripting (XSS) in Simiki,https://github.com/advisories/GHSA-fqr5-qphf-vfr8,https://j.mp/3kDePru
+GithubAdvisories,[GHSA-f3rf-v9qm-9c89] Cross-site Scripting in the femanager TYPO3 extension,https://github.com/advisories/GHSA-f3rf-v9qm-9c89,https://j.mp/3jAynxF
+GithubAdvisories,[GHSA-28w5-j8xj-2xwc] Cross-site Scripting in the yoast_seo TYPO3 extension,https://github.com/advisories/GHSA-28w5-j8xj-2xwc,https://j.mp/38xJTU0
+GithubAdvisories,[GHSA-4rm3-4mq4-mfwr] Moderate severity vulnerability that affects org.hswebframework.web:hsweb-commons,https://github.com/advisories/GHSA-4rm3-4mq4-mfwr,https://j.mp/3gSKnIO
+GithubAdvisories,[GHSA-g485-29gq-6h2h] Sensitive Data Exposure in miniorange_saml,https://github.com/advisories/GHSA-g485-29gq-6h2h,https://j.mp/3jAywBd
+GithubAdvisories,[GHSA-4574-qv3w-fcmg] Deserialization of Untrusted Data in codeception/codeception,https://github.com/advisories/GHSA-4574-qv3w-fcmg,https://j.mp/3mUbwPK
+GithubAdvisories,[GHSA-f9cv-665r-275h] Prototype Pollution in merge-change,https://github.com/advisories/GHSA-f9cv-665r-275h,https://j.mp/3kQuap4
+GithubAdvisories,[GHSA-x6jv-5vfg-gm7x] Path traversal in ServcieCenter,https://github.com/advisories/GHSA-x6jv-5vfg-gm7x,https://j.mp/3zB44wj
+GithubAdvisories,[GHSA-hq3v-rg6f-6hx4] Use of Insufficiently Random Values in yiisoft/yii2-dev,https://github.com/advisories/GHSA-hq3v-rg6f-6hx4,https://j.mp/3kHmXYk
+GithubAdvisories,[GHSA-wwvv-x5mq-h3jj] Use of Cryptographically Weak Pseudo-Random Number Generator in yiisoft/yii2-dev,https://github.com/advisories/GHSA-wwvv-x5mq-h3jj,https://j.mp/3kKsWvl
+GithubAdvisories,[GHSA-4rjf-mxfm-98h5] Moderate severity vulnerability that affects org.apache.ranger:ranger,https://github.com/advisories/GHSA-4rjf-mxfm-98h5,https://j.mp/3BD2nzb
+GithubAdvisories,[GHSA-h97f-5258-5593] Incorrect Authorization in serverless-offline,https://github.com/advisories/GHSA-h97f-5258-5593,https://j.mp/2WGNxZh
+GithubAdvisories,[GHSA-v9j4-cp63-qv62] Tarslip in go-unarr,https://github.com/advisories/GHSA-v9j4-cp63-qv62,https://j.mp/2V9eFj6
+GithubAdvisories,[GHSA-g452-6rfc-vrvx] Prototype Pollution in open-graph,https://github.com/advisories/GHSA-g452-6rfc-vrvx,https://j.mp/38xwLOO
+GithubAdvisories,[GHSA-hxj6-v58r-cqv3] Cross Site Scripting in Subrion CMS,https://github.com/advisories/GHSA-hxj6-v58r-cqv3,https://j.mp/2WJWcKI
+GithubAdvisories,[GHSA-246r-r2wf-frhx] Malicious password-reset in Laravel,https://github.com/advisories/GHSA-246r-r2wf-frhx,https://j.mp/3BxoPJT
+GithubAdvisories,[GHSA-pc4w-8v5j-29w9] Deserialization of Untrusted Data in Neo4j,https://github.com/advisories/GHSA-pc4w-8v5j-29w9,https://j.mp/2WJWily
+GithubAdvisories,[GHSA-8vh3-29mr-m9xg] Inadequate Encryption Strength in showdoc,https://github.com/advisories/GHSA-8vh3-29mr-m9xg,https://j.mp/38BQBIw
+GithubAdvisories,[GHSA-4r7g-7cpj-5jr7] Moderate severity vulnerability that affects org.apache.qpid:qpid-broker,https://github.com/advisories/GHSA-4r7g-7cpj-5jr7,https://j.mp/2WHX2qW
+GithubAdvisories,[GHSA-4r64-wf76-c53p] Moderate severity vulnerability that affects com.github.blynkkk:blynk-server,https://github.com/advisories/GHSA-4r64-wf76-c53p,https://j.mp/38wOdmz
+GithubAdvisories,[GHSA-v92m-hhhw-vv9v] Code injection in codiad,https://github.com/advisories/GHSA-v92m-hhhw-vv9v,https://j.mp/2WJvoKB
+GithubAdvisories,[GHSA-q4rf-3fhx-88pf] YAML deserialization can run untrusted code,https://github.com/advisories/GHSA-q4rf-3fhx-88pf,https://j.mp/3DFlYAw
+GithubAdvisories,[GHSA-3jmw-c69h-426c] Cross-Site Request Forgery (CSRF) can run untrusted code on Rundeck server,https://github.com/advisories/GHSA-3jmw-c69h-426c,https://j.mp/2WHWWzA
+GithubAdvisories,[GHSA-jj53-8fmw-f2w2] Adding a private/unlisted room to a community exposes room metadata in an unauthorised manner,https://github.com/advisories/GHSA-jj53-8fmw-f2w2,https://j.mp/3DDWHXh
+GithubAdvisories,[GHSA-3x4c-pq33-4w3q] Improper authorisation of members discloses room membership to non-members,https://github.com/advisories/GHSA-3x4c-pq33-4w3q,https://j.mp/3mQpJNl
+GithubAdvisories,[GHSA-5rwj-j5m3-3chj] Missing Release of Memory after Effective Lifetime in detect-character-encoding,https://github.com/advisories/GHSA-5rwj-j5m3-3chj,https://j.mp/3gSHAPW
+GithubAdvisories,[GHSA-9gr3-7897-pp7m] XSS in Image Optimization API for Next.js,https://github.com/advisories/GHSA-9gr3-7897-pp7m,https://j.mp/3kLRZxX
+GithubAdvisories,[GHSA-vwhc-pww7-72x6] Code Injection in total.js,https://github.com/advisories/GHSA-vwhc-pww7-72x6,https://j.mp/3mSLSKZ
+GithubAdvisories,[GHSA-rpq8-mmwh-q9hm] Directory traversal in Eclipse Mojarra,https://github.com/advisories/GHSA-rpq8-mmwh-q9hm,https://j.mp/3jyFlTB
+GithubAdvisories,[GHSA-cph5-m8f7-6c5x] Regular Expression Denial of Service in axios,https://github.com/advisories/GHSA-cph5-m8f7-6c5x,https://j.mp/3mWMxLs
+GithubAdvisories,[GHSA-w6j8-jc36-x5q9] Improper Neutralization of Text-Values in Object Version Preview,https://github.com/advisories/GHSA-w6j8-jc36-x5q9,https://j.mp/3kIYSjM
+GithubAdvisories,[GHSA-2v88-qq7x-xq5f] Improper Encoding or Escaping of Output in Asset Metadata Component,https://github.com/advisories/GHSA-2v88-qq7x-xq5f,https://j.mp/3jyFer9
