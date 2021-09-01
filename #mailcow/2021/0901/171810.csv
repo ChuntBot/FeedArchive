@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommit,"[Web] Fix app password editing, fixes #4239",https://github.com/mailcow/mailcow-dockerized/commit/e6167550728e24d724d7e748eec4d007ec6580cc,https://j.mp/3n6QPAf
+GithubCommit,[Watchdog] Workarond for issue with content buffering in Alpine and N…,https://github.com/mailcow/mailcow-dockerized/commit/107c8ed22961993b9b0b7d961c362ece311ddd9f,https://j.mp/3t5RCSC
