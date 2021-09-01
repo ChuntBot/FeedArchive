@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v2r9-c84j-v7xm] Moderate severity vulnerability that affects rdoc,https://github.com/advisories/GHSA-v2r9-c84j-v7xm,https://j.mp/3mTtsd9
+GithubAdvisories,[GHSA-6xc2-mj39-q599] Privilege Escalation in strapi,https://github.com/advisories/GHSA-6xc2-mj39-q599,https://j.mp/2YdofT7
+GithubAdvisories,[GHSA-936x-wgqv-hhgq] Authenticated path traversal in Umbraco CMS,https://github.com/advisories/GHSA-936x-wgqv-hhgq,https://j.mp/3dXzfbr
+GithubAdvisories,[GHSA-574q-fxfj-wv6h] High severity vulnerability that affects puppet,https://github.com/advisories/GHSA-574q-fxfj-wv6h,https://j.mp/3BulCuD
+GithubAdvisories,[GHSA-573x-jhqh-jg36] Moderate severity vulnerability that affects chloride,https://github.com/advisories/GHSA-573x-jhqh-jg36,https://j.mp/3Dxu1PP
+GithubAdvisories,[GHSA-5726-g6r9-5f22] Potential for Script Injection in syntax-error,https://github.com/advisories/GHSA-5726-g6r9-5f22,https://j.mp/2DdiQkO
+GithubAdvisories,[GHSA-562c-5r94-xh97] Moderate severity vulnerability that affects flask,https://github.com/advisories/GHSA-562c-5r94-xh97,https://j.mp/3gVNJLh
+GithubAdvisories,[GHSA-552w-rqg8-gxxm] Moderate severity vulnerability that affects validator,https://github.com/advisories/GHSA-552w-rqg8-gxxm,https://j.mp/3jB7FFa
+GithubAdvisories,[GHSA-535v-4x9q-446c] Moderate severity vulnerability that affects org.apache.hbase:hbase,https://github.com/advisories/GHSA-535v-4x9q-446c,https://j.mp/3mXAAoP
+GithubAdvisories,[GHSA-4xr4-4c65-hj7f] Moderate severity vulnerability that affects org.apache.tika:tika-core,https://github.com/advisories/GHSA-4xr4-4c65-hj7f,https://j.mp/3zDwuG2
