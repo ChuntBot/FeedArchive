@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9rjp-r58j-fxgq] Path traversal in elFinder.NetCore,https://github.com/advisories/GHSA-9rjp-r58j-fxgq,https://j.mp/3BGp4Cz
+GithubAdvisories,[GHSA-wmpm-fq7r-jq56] Imporoper path validation in elFinder.NetCore,https://github.com/advisories/GHSA-wmpm-fq7r-jq56,https://j.mp/3DK0pPi
+GithubAdvisories,[GHSA-v9w2-v7j9-rjpr] Remote code execution in Eclipse Theia,https://github.com/advisories/GHSA-v9w2-v7j9-rjpr,https://j.mp/3t8A0FX
+GithubAdvisories,[GHSA-p92x-r36w-9395] Type confusion in mpath,https://github.com/advisories/GHSA-p92x-r36w-9395,https://j.mp/3BByC1p
+GithubAdvisories,[GHSA-58g2-9fqr-36q2] Prototype Pollution in Proto,https://github.com/advisories/GHSA-58g2-9fqr-36q2,https://j.mp/3BtsfgK
+GithubAdvisories,[GHSA-grj5-8x6q-hc9q] Path traversal in Grafana Loki,https://github.com/advisories/GHSA-grj5-8x6q-hc9q,https://j.mp/2WROSwH
+GithubAdvisories,[GHSA-fgxq-p49f-qw99] Directory Traversal in isomorphic-git,https://github.com/advisories/GHSA-fgxq-p49f-qw99,https://j.mp/3h09n0S
+GithubAdvisories,[GHSA-q9mp-79cp-9g8j] Improper Authentication,https://github.com/advisories/GHSA-q9mp-79cp-9g8j,https://j.mp/3kHXQo8
+GithubAdvisories,[GHSA-7h6j-2268-fhcm] Improper Certificate Handling,https://github.com/advisories/GHSA-7h6j-2268-fhcm,https://j.mp/3gXolVC
+GithubAdvisories,[GHSA-jphm-g89m-v42p] Path traversal in Grafana Cortex,https://github.com/advisories/GHSA-jphm-g89m-v42p,https://j.mp/3yCMmal
