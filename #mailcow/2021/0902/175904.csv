@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommit,[Rspamd] Re-add bad subject maps (_not_ related to previous mem leaks),https://github.com/mailcow/mailcow-dockerized/commit/bb2351ccf8a7deba70e5aab4568fd8c8aaf52de1,https://j.mp/3zASpxv
+GithubCommit,"[Rspamd] Properly cache Rspamd settings map, save a lot of resources",https://github.com/mailcow/mailcow-dockerized/commit/43121b9287d13f31c1bc49004d4d0a5e8e1e0c49,https://j.mp/2WOzVvk
+GithubCommit,[Rspamd] Wrong operator: AND should be OR,https://github.com/mailcow/mailcow-dockerized/commit/c4f70f39b5129a73571e5e50900cde86b9c93ae0,https://j.mp/3mW80El
+GithubCommit,"[Compose, Rspamd] Update Rspamd image to non-memleaking version",https://github.com/mailcow/mailcow-dockerized/commit/db4003007d93c1bb86820c3a64826902f328188c,https://j.mp/3kOmcMX
+GithubCommit,"[Web] PHP8 fix, fixes #4259 (#4261)",https://github.com/mailcow/mailcow-dockerized/commit/0d53df3a4de01602e646c8230beac058bec3cc3f,https://j.mp/3mUtkdh
