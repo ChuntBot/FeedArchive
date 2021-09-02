@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6v7w-535j-rq5m] Moderate severity vulnerability that affects org.springframework:spring-core,https://github.com/advisories/GHSA-6v7w-535j-rq5m,https://j.mp/3zENr2U
+GithubAdvisories,[GHSA-6v52-mj5r-7j2m] Moderate severity vulnerability that affects org.apache.tomcat.embed:tomcat-embed-core,https://github.com/advisories/GHSA-6v52-mj5r-7j2m,https://j.mp/3gUF2kg
+GithubAdvisories,[GHSA-6rxj-58jh-436r] Moderate severity vulnerability that affects org.apache.tomcat.embed:tomcat-embed-core,https://github.com/advisories/GHSA-6rxj-58jh-436r,https://j.mp/3yEFLfE
+GithubAdvisories,[GHSA-6qvp-r6r3-9p7h] Moderate severity vulnerability that affects nokogiri,https://github.com/advisories/GHSA-6qvp-r6r3-9p7h,https://j.mp/3DHcqoI
+GithubAdvisories,[GHSA-6mx3-3vqg-hpp2] High severity vulnerability that affects django,https://github.com/advisories/GHSA-6mx3-3vqg-hpp2,https://j.mp/3yFRPgP
+GithubAdvisories,[GHSA-6mww-xvh7-fq4f] Moderate severity vulnerability that affects koji,https://github.com/advisories/GHSA-6mww-xvh7-fq4f,https://j.mp/3kNLSJD
+GithubAdvisories,[GHSA-6mqq-8r44-vmjc] Low severity vulnerability that affects org.apache.spark:spark-core_2.10 and org.apache.spark:spark-core_2.11,https://github.com/advisories/GHSA-6mqq-8r44-vmjc,https://j.mp/3mY1NrI
