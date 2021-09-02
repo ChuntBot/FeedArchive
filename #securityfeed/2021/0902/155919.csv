@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Geutebruck Remote Command Execution,https://packetstormsecurity.com/files/164036/geutebruck_cmdinject_cve_2021_335xx.rb.txt,https://j.mp/3zEui0Q
+PacketstormSecurity,CyberArk Credential Provider Local Cache Decryption,https://packetstormsecurity.com/files/164035/KL-001-2021-010.txt,https://j.mp/3gVGRhc
+PacketstormSecurity,CyberArk Credential Provider Race Condition / Authorization Bypass,https://packetstormsecurity.com/files/164033/KL-001-2021-009.txt,https://j.mp/3l4TQ1l
+PacketstormSecurity,Compro Technology IP Camera Screenshot Disclosure,https://packetstormsecurity.com/files/164032/comprotechipcamerascreenshot-disclose.txt,https://j.mp/3kN7gyE
+PacketstormSecurity,Compro Technology IP Camera Stream Disclosure,https://packetstormsecurity.com/files/164031/comprotechipcamerastream-disclose.txt,https://j.mp/3zGGo9U
+PacketstormSecurity,Backdoor.Win32.MoonPie.40 Remote Command Execution,https://packetstormsecurity.com/files/164030/MVID-2021-0334.txt,https://j.mp/38zhaOy
+PacketstormSecurity,Dolibarr ERP/CRM 14.0.1 Privilege Escalation,https://packetstormsecurity.com/files/164029/dolibarrerpcrm1401-escalate.txt,https://j.mp/3kSkn1L
+PacketstormSecurity,Red Hat Security Advisory 2021-3262-01,https://packetstormsecurity.com/files/164028/RHSA-2021-3262-01.txt,https://j.mp/3gWrPaC
+PacketstormSecurity,Compro Technology IP Camera Credential Disclosure,https://packetstormsecurity.com/files/164027/comprotechipcameracred-disclose.txt,https://j.mp/3mSX5vb
+PacketstormSecurity,Compro Technology IP Camera RTSP Stream Disclosure,https://packetstormsecurity.com/files/164026/comprotechipcamerartsp-disclose.txt,https://j.mp/3BFs4iz
+PacketstormSecurity,Backdoor.Win32.MoonPie.40 Man-In-The-Middle,https://packetstormsecurity.com/files/164025/MVID-2021-0333.txt,https://j.mp/3DH79xi
+PacketstormSecurity,Compro Technology IP Camera Denial Of Service,https://packetstormsecurity.com/files/164024/comprotechipcamera-dos.txt,https://j.mp/2WNaIkV
+PacketstormSecurity,CyberArk Credential File Insufficient Effective Key Space,https://packetstormsecurity.com/files/164023/KL-001-2021-008.txt,https://j.mp/2YcOA3E
+PacketstormSecurity,OpenSIS Community 8.0 SQL Injection,https://packetstormsecurity.com/files/164022/opensiscommunity80-sql.txt,https://j.mp/3zIdeah
+PacketstormSecurity,Backdoor.Win32.MoonPie.40 Authentication Bypass / Code Execution,https://packetstormsecurity.com/files/164021/MVID-2021-0332.txt,https://j.mp/3jE2KmT
+PacketstormSecurity,WPanel 4.3.1 Remote Code Execution,https://packetstormsecurity.com/files/164020/wpanel431-exec.txt,https://j.mp/38BZQc0
+PacketstormSecurity,WordPress Duplicate Page 4.4.1 Cross Site Scripting,https://packetstormsecurity.com/files/164019/wpduplicatepage441-xss.txt,https://j.mp/38z9tYP
+PacketstormSecurity,Cracking WiFi WPA2 Handshake,https://packetstormsecurity.com/files/164018/cracking-wpa2-handshake.pdf,https://j.mp/3kQLeef
