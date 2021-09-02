@@ -1,0 +1,25 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-33f9-j839-rf8h] Prototype Pollution in immer,https://github.com/advisories/GHSA-33f9-j839-rf8h,https://j.mp/3DRCxJE
+GithubAdvisories,[GHSA-25pr-6pr6-68v7] Path traversal in atlasboard,https://github.com/advisories/GHSA-25pr-6pr6-68v7,https://j.mp/3n4FKiK
+GithubAdvisories,[GHSA-vrmr-f2qh-3hhf] Improper use of cryptographic key in wal-g,https://github.com/advisories/GHSA-vrmr-f2qh-3hhf,https://j.mp/3ByQASk
+GithubAdvisories,[GHSA-hqm2-gwqf-r5g5] SQL injection in TYPO3 extension,https://github.com/advisories/GHSA-hqm2-gwqf-r5g5,https://j.mp/3yEw1lA
+GithubAdvisories,[GHSA-vpw5-grxx-v396] CSRF token exposure in TYPO3 extension,https://github.com/advisories/GHSA-vpw5-grxx-v396,https://j.mp/3mWssot
+GithubAdvisories,[GHSA-7f5c-rpf4-86p8] Insertion of Sensitive Information into Externally-Accessible File or Directory and Exposure of Sensitive Information to an Unauthorized Actor in hbs,https://github.com/advisories/GHSA-7f5c-rpf4-86p8,https://j.mp/3mXBMss
+GithubAdvisories,[GHSA-fjqg-w8g6-hhq8] Improper Authentication and Improper Access Control in Dolibarr,https://github.com/advisories/GHSA-fjqg-w8g6-hhq8,https://j.mp/2WMmTOM
+GithubAdvisories,[GHSA-947x-pv47-pp3q] Cross-site scripting in pywb,https://github.com/advisories/GHSA-947x-pv47-pp3q,https://j.mp/3DH3gIx
+GithubAdvisories,[GHSA-2q95-593f-g7h7] OS Command Injection in Centreon,https://github.com/advisories/GHSA-2q95-593f-g7h7,https://j.mp/3jGIAZv
+GithubAdvisories,[GHSA-38fc-wpqx-33j7] Uncontrolled Resource Consumption in trim-off-newlines,https://github.com/advisories/GHSA-38fc-wpqx-33j7,https://j.mp/3BARUnD
+GithubAdvisories,[GHSA-whgm-jr23-g3j9] Uncontrolled Resource Consumption in ansi-html,https://github.com/advisories/GHSA-whgm-jr23-g3j9,https://j.mp/3kNCQwd
+GithubAdvisories,[GHSA-p9wf-3xpg-c9g5] XML External Entity Injection in PyWPS,https://github.com/advisories/GHSA-p9wf-3xpg-c9g5,https://j.mp/3BsI4nU
+GithubAdvisories,[GHSA-7vph-p634-vrqf] Command Injection in RaspAP 2.6.6,https://github.com/advisories/GHSA-7vph-p634-vrqf,https://j.mp/3kPPASV
+GithubAdvisories,[GHSA-536p-4pcj-5mr9] raspap-webgui in RaspAP 2.6.6 allows attackers to execute commands as root because of the insecure sudoers permissions,https://github.com/advisories/GHSA-536p-4pcj-5mr9,https://j.mp/3gZsVT9
+GithubAdvisories,[GHSA-7xrj-f5rp-j55h] Uncontrolled Resource Consumption in transpile,https://github.com/advisories/GHSA-7xrj-f5rp-j55h,https://j.mp/3yPPlMZ
+GithubAdvisories,[GHSA-9j49-mfvp-vmhm] Code Injection in pac-resolver,https://github.com/advisories/GHSA-9j49-mfvp-vmhm,https://j.mp/3kUoSca
+GithubAdvisories,[GHSA-hqv3-qq72-78cv] Directory Traversal in startserver,https://github.com/advisories/GHSA-hqv3-qq72-78cv,https://j.mp/2VfUT5C
+GithubAdvisories,[GHSA-x6hx-7gh3-3q98] Prototype Pollution in mootools,https://github.com/advisories/GHSA-x6hx-7gh3-3q98,https://j.mp/3kHglJm
+GithubAdvisories,[GHSA-gjwp-7v3g-99pj] Cross-site Request Forgery (CSRF) in joplin,https://github.com/advisories/GHSA-gjwp-7v3g-99pj,https://j.mp/3yzpAQR
+GithubAdvisories,[GHSA-c32w-3cqh-f6jx] Weak Password Recovery Mechanism for Forgotten Password,https://github.com/advisories/GHSA-c32w-3cqh-f6jx,https://j.mp/2WHhUyC
+GithubAdvisories,[GHSA-8c3f-x5f9-6h62] Command injection in @diez/generation,https://github.com/advisories/GHSA-8c3f-x5f9-6h62,https://j.mp/3mVxx0i
+GithubAdvisories,[GHSA-j85q-whc9-g4p9] Use of Cryptographically Weak Pseudo-Random Number Generator in showdoc,https://github.com/advisories/GHSA-j85q-whc9-g4p9,https://j.mp/3t7VQcJ
+GithubAdvisories,[GHSA-6mq2-37j5-w6r6] Moderate severity vulnerability that affects webrick,https://github.com/advisories/GHSA-6mq2-37j5-w6r6,https://j.mp/3jCmTJN
+GithubAdvisories,[GHSA-6m53-c78q-7qmg] Moderate severity vulnerability that affects mitmproxy,https://github.com/advisories/GHSA-6m53-c78q-7qmg,https://j.mp/3BBn4LQ
