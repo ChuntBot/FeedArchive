@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6jvm-3j5h-79f6] Moderate severity vulnerability that affects paperclip,https://github.com/advisories/GHSA-6jvm-3j5h-79f6,https://j.mp/3BA97h1
+GithubAdvisories,[GHSA-52cf-226f-rhr6] Default CORS config allows any origin with credentials,https://github.com/advisories/GHSA-52cf-226f-rhr6,https://j.mp/3DKmlJS
+GithubAdvisories,[GHSA-xqp8-w826-hh6x] Crash server with query parameter,https://github.com/advisories/GHSA-xqp8-w826-hh6x,https://j.mp/3Bzp07s
+GithubAdvisories,[GHSA-6jqp-j69q-pm62] Moderate severity vulnerability that affects aws-lambda-multipart-parser,https://github.com/advisories/GHSA-6jqp-j69q-pm62,https://j.mp/3BEfG1Z
+GithubAdvisories,[GHSA-6jq2-789q-fff2] High severity vulnerability that affects org.apache.tika:tika-core,https://github.com/advisories/GHSA-6jq2-789q-fff2,https://j.mp/3kNiiUL
+GithubAdvisories,[GHSA-6jg8-7333-554w] Sandbox Breakout in realms-shim,https://github.com/advisories/GHSA-6jg8-7333-554w,https://j.mp/3beIqCG
+GithubAdvisories,[GHSA-6jf5-rmhv-38cw] High severity vulnerability that affects Microsoft.ChakraCore,https://github.com/advisories/GHSA-6jf5-rmhv-38cw,https://j.mp/3gX7GRP
+GithubAdvisories,[GHSA-6j63-35hj-vmcg] Moderate severity vulnerability that affects mysql-binuuid-rails,https://github.com/advisories/GHSA-6j63-35hj-vmcg,https://j.mp/3BxSD9h
