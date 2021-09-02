@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-76qr-mmh8-cp8f] Moderate severity vulnerability that affects com.sparkjava:spark-core,https://github.com/advisories/GHSA-76qr-mmh8-cp8f,https://j.mp/3yFMgib
+GithubAdvisories,[GHSA-75w6-p6mg-vh8j] Moderate severity vulnerability that affects rails,https://github.com/advisories/GHSA-75w6-p6mg-vh8j,https://j.mp/3gXGHFY
+GithubAdvisories,[GHSA-758m-6g3q-g3hh] Moderate severity vulnerability that affects org.apache.ranger:ranger,https://github.com/advisories/GHSA-758m-6g3q-g3hh,https://j.mp/3t99k7X
+GithubAdvisories,[GHSA-74vq-h4q8-x6jv] Critical severity vulnerability that affects ansible,https://github.com/advisories/GHSA-74vq-h4q8-x6jv,https://j.mp/3zFS5h9
+GithubAdvisories,[GHSA-73qw-ww62-m54x] Critical severity vulnerability that affects colorscore,https://github.com/advisories/GHSA-73qw-ww62-m54x,https://j.mp/3BCANlC
+GithubAdvisories,[GHSA-73jp-3c67-hjfv] Authentication Bypass in passport-azure-ad,https://github.com/advisories/GHSA-73jp-3c67-hjfv,https://j.mp/2QCVto5
+GithubAdvisories,[GHSA-73cq-fhp3-8rpw] Moderate severity vulnerability that affects org.restlet.jse:org.restlet,https://github.com/advisories/GHSA-73cq-fhp3-8rpw,https://j.mp/38ycNU4
+GithubAdvisories,[GHSA-7375-vjr2-3g7w] Cross-Site Scripting in glance,https://github.com/advisories/GHSA-7375-vjr2-3g7w,https://j.mp/3beLv5J
+GithubAdvisories,[GHSA-7322-9mx6-5j2m] High severity vulnerability that affects redcarpet,https://github.com/advisories/GHSA-7322-9mx6-5j2m,https://j.mp/3gXmZtV
+GithubAdvisories,[GHSA-6xq8-pvg4-3mf3] Moderate severity vulnerability that affects org.eclipse.rdf4j:rdf4j-runtime,https://github.com/advisories/GHSA-6xq8-pvg4-3mf3,https://j.mp/3zFtJnn
+GithubAdvisories,[GHSA-6x85-j5j2-27jx] Moderate severity vulnerability that affects actionpack,https://github.com/advisories/GHSA-6x85-j5j2-27jx,https://j.mp/38BDGGK
+GithubAdvisories,[GHSA-6x77-rpqf-j6mw] High severity vulnerability that affects ejs,https://github.com/advisories/GHSA-6x77-rpqf-j6mw,https://j.mp/3yHcsJc
+GithubAdvisories,[GHSA-6x48-j4x4-cqw3] Moderate severity vulnerability that affects org.apache.hadoop:hadoop-main,https://github.com/advisories/GHSA-6x48-j4x4-cqw3,https://j.mp/3tepOLZ
+GithubAdvisories,[GHSA-6x46-7rrv-m4h8] Low severity vulnerability that affects sqlite3-ruby,https://github.com/advisories/GHSA-6x46-7rrv-m4h8,https://j.mp/3zIlxTo
+GithubAdvisories,[GHSA-6x45-86q6-rcmr] Low severity vulnerability that affects gyazo,https://github.com/advisories/GHSA-6x45-86q6-rcmr,https://j.mp/3BEGPBV
