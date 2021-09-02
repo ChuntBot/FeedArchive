@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7g9h-c88w-r7h2] High severity vulnerability that affects django,https://github.com/advisories/GHSA-7g9h-c88w-r7h2,https://j.mp/3kQrbNi
+GithubAdvisories,[GHSA-7g65-ghrg-hpf5] Moderate severity vulnerability that affects actionpack,https://github.com/advisories/GHSA-7g65-ghrg-hpf5,https://j.mp/3tbpP3o
+GithubAdvisories,[GHSA-7fqj-cg79-f2pv] High severity vulnerability that affects thumbshooter,https://github.com/advisories/GHSA-7fqj-cg79-f2pv,https://j.mp/3mWGFBW
+GithubAdvisories,[GHSA-7fpw-cfc4-3p2c] High severity vulnerability that affects passport-wsfed-saml2,https://github.com/advisories/GHSA-7fpw-cfc4-3p2c,https://j.mp/3gXONOF
+GithubAdvisories,[GHSA-7fm6-2qw4-g3x3] High severity vulnerability that affects ro.pippo:pippo-core,https://github.com/advisories/GHSA-7fm6-2qw4-g3x3,https://j.mp/3tc4TJB
+GithubAdvisories,[GHSA-7cgp-c3g7-qvrw] Moderate severity vulnerability that affects actionpack,https://github.com/advisories/GHSA-7cgp-c3g7-qvrw,https://j.mp/3mZ07y6
+GithubAdvisories,[GHSA-7cg8-pq9v-x98q] Sandbox Breakout in realms-shim,https://github.com/advisories/GHSA-7cg8-pq9v-x98q,https://j.mp/2ELgUk1
+GithubAdvisories,[GHSA-7c2r-3jqf-c9rw] Moderate severity vulnerability that affects com.fasterxml.jackson.dataformat:jackson-dataformat-xml,https://github.com/advisories/GHSA-7c2r-3jqf-c9rw,https://j.mp/3yAYp81
+GithubAdvisories,[GHSA-79mx-88w7-8f7q] XSS Filter Bypass via Encoded URL in validator,https://github.com/advisories/GHSA-79mx-88w7-8f7q,https://j.mp/3gKSjJl
+GithubAdvisories,[GHSA-78j3-7wpm-qhvp] Critical severity vulnerability that affects kelredd-pruview,https://github.com/advisories/GHSA-78j3-7wpm-qhvp,https://j.mp/2WP7uxk
+GithubAdvisories,[GHSA-77rc-x84q-pv4f] Low severity vulnerability that affects apache-airflow,https://github.com/advisories/GHSA-77rc-x84q-pv4f,https://j.mp/3BFaz1w
