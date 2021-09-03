@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-872g-2h8h-362q] High severity vulnerability that affects org.eclipse.jetty:jetty-server,https://github.com/advisories/GHSA-872g-2h8h-362q,https://j.mp/3jE9b9n
+GithubAdvisories,[GHSA-869j-5855-hjpm] Moderate severity vulnerability that affects org.apache.karaf:apache-karaf and org.apache.karaf:karaf,https://github.com/advisories/GHSA-869j-5855-hjpm,https://j.mp/3mYW7NR
+GithubAdvisories,[GHSA-85r7-w5mv-c849] Moderate severity vulnerability that affects rack,https://github.com/advisories/GHSA-85r7-w5mv-c849,https://j.mp/3kQeAJP
+GithubAdvisories,[GHSA-8554-jxcw-454q] High severity vulnerability that affects webargs,https://github.com/advisories/GHSA-8554-jxcw-454q,https://j.mp/38Gy3Hq
+GithubAdvisories,[GHSA-84cm-x2q5-8225] Critical severity vulnerability that affects dojox,https://github.com/advisories/GHSA-84cm-x2q5-8225,https://j.mp/3zLjxdl
