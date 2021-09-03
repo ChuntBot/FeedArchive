@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-82gw-pqf7-q3j2] High severity vulnerability that affects pym.js,https://github.com/advisories/GHSA-82gw-pqf7-q3j2,https://j.mp/3kPFiCt
+GithubAdvisories,[GHSA-7xr3-rgwh-pw22] Moderate severity vulnerability that affects org.apache.qpid:apache-qpid-broker-j,https://github.com/advisories/GHSA-7xr3-rgwh-pw22,https://j.mp/3yTWLyN
+GithubAdvisories,[GHSA-7x9j-7223-rg5m] High severity vulnerability that affects commons-fileupload:commons-fileupload,https://github.com/advisories/GHSA-7x9j-7223-rg5m,https://j.mp/38BmfGm
+GithubAdvisories,[GHSA-7wph-fc4w-wqp2] Moderate severity vulnerability that affects django,https://github.com/advisories/GHSA-7wph-fc4w-wqp2,https://j.mp/2WS0uzb
+GithubAdvisories,[GHSA-7qqv-r2q4-jxhm] High severity vulnerability that affects privacyIDEA,https://github.com/advisories/GHSA-7qqv-r2q4-jxhm,https://j.mp/3BEcnrN
+GithubAdvisories,[GHSA-7qcx-jmrc-h2rr] Cross-Site Scripting in keystone,https://github.com/advisories/GHSA-7qcx-jmrc-h2rr,https://j.mp/3hhlZie
