@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Bus Pass Management System 1.0 - 'viewid' Insecure direct object references (IDOR),https://www.exploit-db.com/exploits/50263,https://j.mp/3yOAHoQ
+ExploitDB,[webapps] FlatCore CMS 2.0.7 - Remote Code Execution (RCE) (Authenticated),https://www.exploit-db.com/exploits/50262,https://j.mp/2WR8ilu
+ExploitDB,[local] Argus Surveillance DVR 4.0 - Unquoted Service Path,https://www.exploit-db.com/exploits/50261,https://j.mp/3h6hR6C
+ExploitDB,[webapps] OpenEMR 6.0.0 - 'noteid' Insecure Direct Object Reference (IDOR),https://www.exploit-db.com/exploits/50260,https://j.mp/3BFvj9w
