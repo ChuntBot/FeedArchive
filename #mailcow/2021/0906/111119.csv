@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommit,[ClamAV] Update to latest LTS release (#4262),https://github.com/mailcow/mailcow-dockerized/commit/bc7714b8f3f0ffd5bb6293dd0868fd06a44692ac,https://j.mp/38KkeaS
+GithubCommit,[Web] Fix password issue on first login when adding new admin,https://github.com/mailcow/mailcow-dockerized/commit/4d5ebafc1a3572d3abdfb73753b6444b4152ae5a,https://j.mp/3jMAGh6
+GithubCommit,[Compose] Update ClamAV image,https://github.com/mailcow/mailcow-dockerized/commit/7641dbf3a55ea18238fc44e8574dc9cd5702dc24,https://j.mp/2WUNbOC
