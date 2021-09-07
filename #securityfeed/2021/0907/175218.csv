@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8fx9-5hx8-crhm] High severity vulnerability that affects org.apache.struts:struts2-core,https://github.com/advisories/GHSA-8fx9-5hx8-crhm,https://j.mp/3h6OaCr
+GithubAdvisories,[GHSA-8fqx-7pv4-3jwm] Moderate severity vulnerability that affects rails,https://github.com/advisories/GHSA-8fqx-7pv4-3jwm,https://j.mp/3BSjzAv
+GithubAdvisories,[GHSA-8fg4-j562-mjrc] Low severity vulnerability that affects apache-airflow,https://github.com/advisories/GHSA-8fg4-j562-mjrc,https://j.mp/2VnwnQ1
+GithubAdvisories,[GHSA-8cw6-5qvp-q3wj] Low severity vulnerability that affects org.apache.spark:spark-core_2.10 and org.apache.spark:spark-core_2.11,https://github.com/advisories/GHSA-8cw6-5qvp-q3wj,https://j.mp/38PGK1X
