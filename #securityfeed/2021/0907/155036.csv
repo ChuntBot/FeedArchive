@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-894g-6j7q-2hx6] High severity vulnerability that affects flask-admin,https://github.com/advisories/GHSA-894g-6j7q-2hx6,https://j.mp/2YB8ZzK
+GithubAdvisories,[GHSA-887w-45rq-vxgf] Moderate severity vulnerability that affects SQLAlchemy,https://github.com/advisories/GHSA-887w-45rq-vxgf,https://j.mp/3l58qpc
+GithubAdvisories,[GHSA-886v-mm6p-4m66] High severity vulnerability that affects gun,https://github.com/advisories/GHSA-886v-mm6p-4m66,https://j.mp/3haxme9
