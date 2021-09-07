@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9q5w-79cv-947m] Unsafe defaults in `remark-html`,https://github.com/advisories/GHSA-9q5w-79cv-947m,https://j.mp/3DVVAT3
+GithubAdvisories,[GHSA-r659-8xfp-j327] Prototype Pollution in objection.js,https://github.com/advisories/GHSA-r659-8xfp-j327,https://j.mp/2WZ7ACa
+GithubAdvisories,[GHSA-mfv7-gq43-w965] Incomplete List of Disallowed Inputs in Kubernetes,https://github.com/advisories/GHSA-mfv7-gq43-w965,https://j.mp/3z3axPH
+GithubAdvisories,[GHSA-97pv-4338-r5vp] Cross-site Scripting in file-upload-with-preview,https://github.com/advisories/GHSA-97pv-4338-r5vp,https://j.mp/38NWoen
+GithubAdvisories,[GHSA-fmm9-3gv8-58f4] Improper Handling of Missing Values in kaml,https://github.com/advisories/GHSA-fmm9-3gv8-58f4,https://j.mp/3jPVxQA
+GithubAdvisories,[GHSA-w3j4-76qw-wwjm] Older releases of better_errors open to Cross-Site Request Forgery attack,https://github.com/advisories/GHSA-w3j4-76qw-wwjm,https://j.mp/2YvK68t
+GithubAdvisories,[GHSA-98vv-pw6r-q6q4] Uncontrolled Resource Consumption in pillow,https://github.com/advisories/GHSA-98vv-pw6r-q6q4,https://j.mp/3naNgJ6
+GithubAdvisories,[GHSA-2c83-wfv3-q25f] Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') in ZMarkdown,https://github.com/advisories/GHSA-2c83-wfv3-q25f,https://j.mp/3yScFta
+GithubAdvisories,[GHSA-h77f-xxx7-4858] User impersonation due to incorrect handling of the login JWT,https://github.com/advisories/GHSA-h77f-xxx7-4858,https://j.mp/3DVNycF
+GithubAdvisories,[GHSA-c8xp-8mf3-62h9] OctoRPKI lacks contextual out-of-bounds check when validating RPKI ROA maxLength values,https://github.com/advisories/GHSA-c8xp-8mf3-62h9,https://j.mp/3hdAGFj
+GithubAdvisories,[GHSA-593v-wcqx-hq2w] Incorrect version tags linked to external repository,https://github.com/advisories/GHSA-593v-wcqx-hq2w,https://j.mp/3BQX1jL
+GithubAdvisories,[GHSA-c36v-fmgq-m8hx] Prototype Pollution in immer,https://github.com/advisories/GHSA-c36v-fmgq-m8hx,https://j.mp/3BSNRDA
+GithubAdvisories,[GHSA-87p2-cvhq-q4mv] Authentication bypass in Apache Zeppelin,https://github.com/advisories/GHSA-87p2-cvhq-q4mv,https://j.mp/38MSUIS
+GithubAdvisories,[GHSA-4qw8-pgpr-p9mq] Bash command injection in Apache Zeppelin,https://github.com/advisories/GHSA-4qw8-pgpr-p9mq,https://j.mp/3tnNjCj
+GithubAdvisories,[GHSA-mf7q-gw5f-q8jj] Cross-site Scripting in Apache Zeppelin,https://github.com/advisories/GHSA-mf7q-gw5f-q8jj,https://j.mp/3zWuoB2
+GithubAdvisories,[GHSA-jpwx-ffjq-wr4w] Content object state fetch functions open to SQL injection,https://github.com/advisories/GHSA-jpwx-ffjq-wr4w,https://j.mp/3BOyMCF
