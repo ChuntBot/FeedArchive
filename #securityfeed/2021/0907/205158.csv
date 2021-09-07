@@ -1,0 +1,29 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-98f7-p5rc-jx67] Cross-Site Scripting in materialize-css,https://github.com/advisories/GHSA-98f7-p5rc-jx67,https://j.mp/32Ez0fO
+GithubAdvisories,[GHSA-95m6-mjh3-58gm] Moderate severity vulnerability that affects org.keycloak:keycloak-core,https://github.com/advisories/GHSA-95m6-mjh3-58gm,https://j.mp/38PoYw0
+GithubAdvisories,[GHSA-959j-5g9v-3fpq] Low severity vulnerability that affects paratrooper-newrelic,https://github.com/advisories/GHSA-959j-5g9v-3fpq,https://j.mp/3BRbT1G
+GithubAdvisories,[GHSA-958r-g534-ccmr] Moderate severity vulnerability that affects MadsKristensen.AspNetCore.Miniblog,https://github.com/advisories/GHSA-958r-g534-ccmr,https://j.mp/2X1RxUB
+GithubAdvisories,[GHSA-94mf-xfg5-r247] Moderate severity vulnerability that affects invenio-app,https://github.com/advisories/GHSA-94mf-xfg5-r247,https://j.mp/3DUpEyq
+GithubAdvisories,[GHSA-94cq-7ccq-cmcm] Low severity vulnerability that affects lynx,https://github.com/advisories/GHSA-94cq-7ccq-cmcm,https://j.mp/3nfbF06
+GithubAdvisories,[GHSA-9448-c9wq-jg9v] Moderate severity vulnerability that affects org.apache.karaf:apache-karaf,https://github.com/advisories/GHSA-9448-c9wq-jg9v,https://j.mp/38OkQwa
+GithubAdvisories,[GHSA-93jq-624g-4p9p] Moderate severity vulnerability that affects org.asynchttpclient:async-http-client,https://github.com/advisories/GHSA-93jq-624g-4p9p,https://j.mp/3BMjRsT
+GithubAdvisories,[GHSA-92wj-x78c-m4fx] Moderate severity vulnerability that affects org.apache.karaf:karaf,https://github.com/advisories/GHSA-92wj-x78c-m4fx,https://j.mp/3BHbDSO
+GithubAdvisories,[GHSA-92w9-2pqw-rhjj] Moderate severity vulnerability that affects actionpack,https://github.com/advisories/GHSA-92w9-2pqw-rhjj,https://j.mp/38PZyhy
+GithubAdvisories,"[GHSA-92v7-pq4h-58j5] Moderate severity vulnerability that affects facter, hiera, mcollective-client, and puppet",https://github.com/advisories/GHSA-92v7-pq4h-58j5,https://j.mp/3nbzTZd
+GithubAdvisories,[GHSA-926q-wxr6-3crq] Moderate severity vulnerability that affects roundup,https://github.com/advisories/GHSA-926q-wxr6-3crq,https://j.mp/3yWIIrT
+GithubAdvisories,[GHSA-924m-4pmx-c67h] High severity vulnerability that affects pysaml2,https://github.com/advisories/GHSA-924m-4pmx-c67h,https://j.mp/3zUaln1
+GithubAdvisories,[GHSA-8xjv-v9xq-m5h9] Moderate severity vulnerability that affects Pillow,https://github.com/advisories/GHSA-8xjv-v9xq-m5h9,https://j.mp/3jTfCW4
+GithubAdvisories,[GHSA-8vfm-4388-6rpc] High severity vulnerability that affects org.apache.camel:camel-core,https://github.com/advisories/GHSA-8vfm-4388-6rpc,https://j.mp/3zOeDw2
+GithubAdvisories,[GHSA-8rhc-48pp-52gr] High severity vulnerability that affects org.apache.spark:spark-core_2.10 and org.apache.spark:spark-core_2.11,https://github.com/advisories/GHSA-8rhc-48pp-52gr,https://j.mp/3tA8di1
+GithubAdvisories,[GHSA-8r8j-xvfj-36f9] High severity vulnerability that affects ymlref,https://github.com/advisories/GHSA-8r8j-xvfj-36f9,https://j.mp/2X2TY9s
+GithubAdvisories,[GHSA-8r6h-7x9g-xmw9] Moderate severity vulnerability that affects will_paginate,https://github.com/advisories/GHSA-8r6h-7x9g-xmw9,https://j.mp/3yQfdIn
+GithubAdvisories,[GHSA-8qrh-h9m2-5fvf] Moderate severity vulnerability that affects rails,https://github.com/advisories/GHSA-8qrh-h9m2-5fvf,https://j.mp/3tqFpZc
+GithubAdvisories,[GHSA-8qh8-cv77-h83g] High severity vulnerability that affects Microsoft.ChakraCore,https://github.com/advisories/GHSA-8qh8-cv77-h83g,https://j.mp/3tnw8kj
+GithubAdvisories,[GHSA-8qfc-cvjp-mgpq] Moderate severity vulnerability that affects org.apache.ignite:ignite-core,https://github.com/advisories/GHSA-8qfc-cvjp-mgpq,https://j.mp/3tlvoMC
+GithubAdvisories,[GHSA-8q89-pwhh-7wfq] Moderate severity vulnerability that affects com.github.penggle:kaptcha,https://github.com/advisories/GHSA-8q89-pwhh-7wfq,https://j.mp/3l2InPB
+GithubAdvisories,[GHSA-8p8g-f9vg-r7xr] Moderate severity vulnerability that affects com.squareup.retrofit2:retrofit,https://github.com/advisories/GHSA-8p8g-f9vg-r7xr,https://j.mp/38PoZ32
+GithubAdvisories,[GHSA-8p83-68cw-943f] Moderate severity vulnerability that affects org.apache.ignite:ignite-core,https://github.com/advisories/GHSA-8p83-68cw-943f,https://j.mp/2X1Bx4r
+GithubAdvisories,[GHSA-8p7v-2jvj-v54r] Moderate severity vulnerability that affects apache-airflow,https://github.com/advisories/GHSA-8p7v-2jvj-v54r,https://j.mp/2Vo12N7
+GithubAdvisories,[GHSA-8p5p-ff7x-hw7q] Cross-Site Scripting in public,https://github.com/advisories/GHSA-8p5p-ff7x-hw7q,https://j.mp/3bbuQQx
+GithubAdvisories,[GHSA-8p2p-p8mg-x3cw] Low severity vulnerability that affects insight-api,https://github.com/advisories/GHSA-8p2p-p8mg-x3cw,https://j.mp/3yRV6JK
+GithubAdvisories,[GHSA-8p5c-f328-9fvv] Moderate severity vulnerability that affects diffoscope,https://github.com/advisories/GHSA-8p5c-f328-9fvv,https://j.mp/2WVAl3d
