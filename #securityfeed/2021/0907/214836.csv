@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9h9c-f287-c6vp] High severity vulnerability that affects org.apache.syncope:syncope-core,https://github.com/advisories/GHSA-9h9c-f287-c6vp,https://j.mp/38LUVoX
+GithubAdvisories,[GHSA-9h36-4jf2-hx53] High severity vulnerability that affects extlib,https://github.com/advisories/GHSA-9h36-4jf2-hx53,https://j.mp/3hdjbop
+GithubAdvisories,[GHSA-9gqg-3fxr-9hv7] Low severity vulnerability that affects apache-airflow,https://github.com/advisories/GHSA-9gqg-3fxr-9hv7,https://j.mp/3yWPv4R
+GithubAdvisories,[GHSA-9gp7-jvm2-r4mx] Moderate severity vulnerability that affects org.apache.struts:struts2-core,https://github.com/advisories/GHSA-9gp7-jvm2-r4mx,https://j.mp/3yQcoao
+GithubAdvisories,[GHSA-9gp4-qrff-c648] Moderate severity vulnerability that affects org.bouncycastle:bcprov-jdk14 and org.bouncycastle:bcprov-jdk15,https://github.com/advisories/GHSA-9gp4-qrff-c648,https://j.mp/3DRJlqJ
+GithubAdvisories,[GHSA-9gcm-f4x3-8jpw] Moderate severity vulnerability that affects org.springframework:spring-core,https://github.com/advisories/GHSA-9gcm-f4x3-8jpw,https://j.mp/3l6NL4n
+GithubAdvisories,[GHSA-9fh3-vh3h-q4g3] Moderate severity vulnerability that affects activesupport,https://github.com/advisories/GHSA-9fh3-vh3h-q4g3,https://j.mp/2X3ZJU8
+GithubAdvisories,[GHSA-9fcp-vcq9-9h2h] Moderate severity vulnerability that affects org.craftercms:crafter-studio,https://github.com/advisories/GHSA-9fcp-vcq9-9h2h,https://j.mp/3l18uXk
