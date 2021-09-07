@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8crv-49fr-2h6j] Moderate severity vulnerability that affects org.springframework.security:spring-security-core and org.springframework:spring-core,https://github.com/advisories/GHSA-8crv-49fr-2h6j,https://j.mp/3tlSnas
+GithubAdvisories,[GHSA-89gc-6cw6-4vch] Moderate severity vulnerability that affects com.sparkjava:spark-core,https://github.com/advisories/GHSA-89gc-6cw6-4vch,https://j.mp/2WYXIrY
+GithubAdvisories,[GHSA-898j-5cc8-cmf5] Moderate severity vulnerability that affects org.apache.storm:storm-core,https://github.com/advisories/GHSA-898j-5cc8-cmf5,https://j.mp/3l4unF0
