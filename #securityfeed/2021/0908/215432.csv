@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c99h-fgqm-6679] Moderate severity vulnerability that affects org.apache.ranger:ranger,https://github.com/advisories/GHSA-c99h-fgqm-6679,https://j.mp/3zVxHZf
+GithubAdvisories,[GHSA-c92m-rrrc-q5wf] High severity vulnerability that affects safemode,https://github.com/advisories/GHSA-c92m-rrrc-q5wf,https://j.mp/3nc2ttu
+GithubAdvisories,[GHSA-c8xf-m4ff-jcxj] Moderate severity vulnerability that affects org.bouncycastle:bcprov-jdk14 and org.bouncycastle:bcprov-jdk15,https://github.com/advisories/GHSA-c8xf-m4ff-jcxj,https://j.mp/3yVsAHa
+GithubAdvisories,[GHSA-c8cc-p3j7-4c7f] Moderate severity vulnerability that affects org.apache.mesos:mesos,https://github.com/advisories/GHSA-c8cc-p3j7-4c7f,https://j.mp/3jWN66i
+GithubAdvisories,[GHSA-c7c7-xm8g-xm36] Moderate severity vulnerability that affects net.mingsoft:ms-mcms,https://github.com/advisories/GHSA-c7c7-xm8g-xm36,https://j.mp/3tojhyx
+GithubAdvisories,[GHSA-c77r-6f64-478q] Moderate severity vulnerability that affects org.keycloak:keycloak-core,https://github.com/advisories/GHSA-c77r-6f64-478q,https://j.mp/3hbXQfi
+GithubAdvisories,[GHSA-c6fm-rgw4-8q73] Moderate severity vulnerability that affects CoAPthon3,https://github.com/advisories/GHSA-c6fm-rgw4-8q73,https://j.mp/3zRCdYO
+GithubAdvisories,[GHSA-c5qq-g673-5p49] Low severity vulnerability that affects puppet,https://github.com/advisories/GHSA-c5qq-g673-5p49,https://j.mp/2X2fxqe
+GithubAdvisories,[GHSA-c43v-hrmg-56r4] Moderate severity vulnerability that affects cocaine,https://github.com/advisories/GHSA-c43v-hrmg-56r4,https://j.mp/3E3bCL4
+GithubAdvisories,[GHSA-c2w9-48qc-qpj4] High severity vulnerability that affects ansible,https://github.com/advisories/GHSA-c2w9-48qc-qpj4,https://j.mp/3kZCgLO
