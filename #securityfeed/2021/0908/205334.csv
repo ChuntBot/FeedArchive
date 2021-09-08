@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9qj7-jvg4-qr2x] Moderate severity vulnerability that affects passenger,https://github.com/advisories/GHSA-9qj7-jvg4-qr2x,https://j.mp/3yUHGgh
+GithubAdvisories,[GHSA-9qgc-p27w-3hjg] High severity vulnerability that affects com.typesafe.akka:akka-http-core_2.11 and com.typesafe.akka:akka-http-core_2.12,https://github.com/advisories/GHSA-9qgc-p27w-3hjg,https://j.mp/3jQHvOK
+GithubAdvisories,[GHSA-9q2p-fj49-vpxj] High severity vulnerability that affects marshmallow,https://github.com/advisories/GHSA-9q2p-fj49-vpxj,https://j.mp/3z694Ip
