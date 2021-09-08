@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9pv8-q5rx-c8gq] Critical severity vulnerability that affects django_make_app,https://github.com/advisories/GHSA-9pv8-q5rx-c8gq,https://j.mp/3nkAqs1
+GithubAdvisories,[GHSA-9prh-257w-9277] Cross-Site Scripting in handlebars,https://github.com/advisories/GHSA-9prh-257w-9277,https://j.mp/2YQyAlu
+GithubAdvisories,[GHSA-9pr6-grf4-x2fr] Moderate severity vulnerability that affects omniauth,https://github.com/advisories/GHSA-9pr6-grf4-x2fr,https://j.mp/3hfZYlZ
+GithubAdvisories,"[GHSA-6hw5-6gcx-phmw] HashiCorp Consul and Consul Enterprise 1.10.1 Txn.Apply endpoint allowed services to register proxies for other services, enabling access to service traffic",https://github.com/advisories/GHSA-6hw5-6gcx-phmw,https://j.mp/3hg04tR
+GithubAdvisories,[GHSA-ccw8-7688-vqx4] Privilege Escalation in HashiCorp Consul,https://github.com/advisories/GHSA-ccw8-7688-vqx4,https://j.mp/3C87U0X
+GithubAdvisories,[GHSA-c8x3-rg72-fwwg] Privilege escalation in Hashicorp Nomad,https://github.com/advisories/GHSA-c8x3-rg72-fwwg,https://j.mp/3yUE121
+GithubAdvisories,[GHSA-r577-4hq7-73qh] Remote Code Execution in Apache Dubbo,https://github.com/advisories/GHSA-r577-4hq7-73qh,https://j.mp/3nkAjN7
+GithubAdvisories,[GHSA-cpx9-4rwv-486v] Hessian protocol configuration vulnerability in Apache Dubbo,https://github.com/advisories/GHSA-cpx9-4rwv-486v,https://j.mp/3niKqlk
+GithubAdvisories,[GHSA-9p3v-wf2w-v29c] Moderate severity vulnerability that affects rails,https://github.com/advisories/GHSA-9p3v-wf2w-v29c,https://j.mp/38QQfhx
+GithubAdvisories,[GHSA-9mr8-6prp-gwjv] SQL Injection in query-mysql,https://github.com/advisories/GHSA-9mr8-6prp-gwjv,https://j.mp/2EVokRC
