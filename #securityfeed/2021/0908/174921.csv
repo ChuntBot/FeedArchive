@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f34x-8pf6-qc9c] HTTP header injection in Sonatype Nexus Repository,https://github.com/advisories/GHSA-f34x-8pf6-qc9c,https://j.mp/3BSSzRI
+GithubAdvisories,[GHSA-7q44-gfvq-6g93] SQL Injection in Subrion CMS,https://github.com/advisories/GHSA-7q44-gfvq-6g93,https://j.mp/3trZduV
+GithubAdvisories,[GHSA-3c33-3465-fhx2] Exposure of Resource to Wrong Sphere in LibreNMS,https://github.com/advisories/GHSA-3c33-3465-fhx2,https://j.mp/3tmuVtK
+GithubAdvisories,[GHSA-jjcx-999m-35hc] Improper Input Validation in Firefly III,https://github.com/advisories/GHSA-jjcx-999m-35hc,https://j.mp/38Qf4dr
+GithubAdvisories,[GHSA-748f-wv76-x9hg] Arbitrary file upload in Fork CMS,https://github.com/advisories/GHSA-748f-wv76-x9hg,https://j.mp/3yUxdBm
+GithubAdvisories,[GHSA-592v-7frm-h44q] Cross-site scripting in LavaLite-CMS,https://github.com/advisories/GHSA-592v-7frm-h44q,https://j.mp/2YuyKBA
