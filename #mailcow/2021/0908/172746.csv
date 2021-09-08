@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] Add DKIM key when adding a domain or alias domain (#4254),https://github.com/mailcow/mailcow-dockerized/commit/c1dcb529f3abeb983d52a66018b2fec496aca0b7,https://j.mp/3t9kCZN
+GithubCommitStaging,[Rspamd] Remove IVM-SG script,https://github.com/mailcow/mailcow-dockerized/commit/2b89ab919becb6b6228e5588e75bb462842059d9,https://j.mp/3yzz8eB
+GithubCommitStaging,[Dovecot] Update to 2.3.16,https://github.com/mailcow/mailcow-dockerized/commit/f12756511d5971f7ea3100406c24a7da5c879f63,https://j.mp/3t4Mn5K
