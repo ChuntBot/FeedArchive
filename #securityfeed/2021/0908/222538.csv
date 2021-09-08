@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cf36-985g-v73c] Moderate severity vulnerability that affects omniauth-facebook,https://github.com/advisories/GHSA-cf36-985g-v73c,https://j.mp/3E1sUYI
+GithubAdvisories,[GHSA-ccmq-qvcp-5mrm] Critical severity vulnerability that affects owlmixin,https://github.com/advisories/GHSA-ccmq-qvcp-5mrm,https://j.mp/3new2dT
+GithubAdvisories,[GHSA-ccjp-w723-2jf2] Moderate severity vulnerability that affects org.apache.tika:tika-core,https://github.com/advisories/GHSA-ccjp-w723-2jf2,https://j.mp/3BTCE5z
+GithubAdvisories,[GHSA-c9rj-pgxv-84jc] Exfiltrates data on installation in cofee-script,https://github.com/advisories/GHSA-c9rj-pgxv-84jc,https://j.mp/32K39Ky
+GithubAdvisories,[GHSA-c9f4-xj24-8jqx] Regular Expression Denial of Service in uglify-js,https://github.com/advisories/GHSA-c9f4-xj24-8jqx,https://j.mp/32WcuPV
+GithubAdvisories,[GHSA-c9c5-9fpr-m882] Moderate severity vulnerability that affects sentry-raven,https://github.com/advisories/GHSA-c9c5-9fpr-m882,https://j.mp/3ncJoar
