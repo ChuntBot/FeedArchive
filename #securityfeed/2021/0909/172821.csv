@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9vjp-v76f-g363] SnappyFrameDecoder doesn't restrict chunk length any may buffer skippable chunks in an unnecessary way,https://github.com/advisories/GHSA-9vjp-v76f-g363,https://j.mp/3A17kB8
+GithubAdvisories,[GHSA-grg4-wf29-r9vv] Bzip2Decoder doesn't allow setting size restrictions for decompressed data,https://github.com/advisories/GHSA-grg4-wf29-r9vv,https://j.mp/2X6ZrMd
+GithubAdvisories,[GHSA-jf9v-q8vh-3fmc] Cross-site scripting in ICEcoder,https://github.com/advisories/GHSA-jf9v-q8vh-3fmc,https://j.mp/2X1XqAM
+GithubAdvisories,[GHSA-2j58-pwwv-x666] Cross-Site Request Forgery in sqlite-web,https://github.com/advisories/GHSA-2j58-pwwv-x666,https://j.mp/2X6ZhEA
+GithubAdvisories,[GHSA-2r2w-jrh2-p4gr] Cross-site Scripting in LibreNMS,https://github.com/advisories/GHSA-2r2w-jrh2-p4gr,https://j.mp/3njLJ3l
+GithubAdvisories,[GHSA-c442-3278-rhrg] Unrestricted File Upload in ShowDoc v2.9.5,https://github.com/advisories/GHSA-c442-3278-rhrg,https://j.mp/38TBXg7
+GithubAdvisories,[GHSA-cfw5-v7cw-69cw] Critical severity vulnerability that affects org.apache.directory.api:apache-ldap-api,https://github.com/advisories/GHSA-cfw5-v7cw-69cw,https://j.mp/2X4V5oG
+GithubAdvisories,[GHSA-cfjh-p3g4-3q2f] VBScript Content Injection in marked,https://github.com/advisories/GHSA-cfjh-p3g4-3q2f,https://j.mp/33mow6P
+GithubAdvisories,[GHSA-cf66-xwfp-gvc4] Missing Origin Validation in webpack-dev-server,https://github.com/advisories/GHSA-cf66-xwfp-gvc4,https://j.mp/31JvhOP
