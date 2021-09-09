@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fcf9-3qw3-gxmj] High severity vulnerability that affects cryptography,https://github.com/advisories/GHSA-fcf9-3qw3-gxmj,https://j.mp/3hiHBwM
+GithubAdvisories,"[GHSA-f94m-mqhr-mc29] Moderate severity vulnerability that affects io.spray:spray-json_2.10, io.spray:spray-json_2.11, and io.spray:spray-json_2.12",https://github.com/advisories/GHSA-f94m-mqhr-mc29,https://j.mp/3hk28RB
+GithubAdvisories,[GHSA-f7p5-w2cr-7cp7] High severity vulnerability that affects puppet,https://github.com/advisories/GHSA-f7p5-w2cr-7cp7,https://j.mp/3noFEmB
+GithubAdvisories,[GHSA-f7f4-5w9j-23p2] High severity vulnerability that affects festivaltts4r,https://github.com/advisories/GHSA-f7f4-5w9j-23p2,https://j.mp/3ldlWHu
+GithubAdvisories,[GHSA-f5cf-f7px-xpmh] Moderate severity vulnerability that affects org.apache.qpid:proton-j,https://github.com/advisories/GHSA-f5cf-f7px-xpmh,https://j.mp/3nqSXTc
+GithubAdvisories,[GHSA-f58w-649r-qjr9] Moderate severity vulnerability that affects splunk-sdk,https://github.com/advisories/GHSA-f58w-649r-qjr9,https://j.mp/3jVw88g
+GithubAdvisories,[GHSA-f522-ffg8-j8r6] Regular Expression Denial of Service in is-my-json-valid,https://github.com/advisories/GHSA-f522-ffg8-j8r6,https://j.mp/2Q6p0pF
+GithubAdvisories,[GHSA-f2j6-wrhh-v25m] High severity vulnerability that affects paramiko,https://github.com/advisories/GHSA-f2j6-wrhh-v25m,https://j.mp/3E3cLlv
+GithubAdvisories,[GHSA-f26x-pr96-vw86] Moderate severity vulnerability that affects org.springframework:spring-core,https://github.com/advisories/GHSA-f26x-pr96-vw86,https://j.mp/3C2YkMN
+GithubAdvisories,[GHSA-cxrj-66c5-9fmh] Moderate severity vulnerability that affects org.springframework:spring-core,https://github.com/advisories/GHSA-cxrj-66c5-9fmh,https://j.mp/3ldDZNE
