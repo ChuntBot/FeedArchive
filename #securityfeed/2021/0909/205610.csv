@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cr6j-3jp9-rw65] Critical severity vulnerability that affects org.apache.struts:struts2-core,https://github.com/advisories/GHSA-cr6j-3jp9-rw65,https://j.mp/3hdTdRR
+GithubAdvisories,[GHSA-cr6c-85fh-cqpg] Downloads Resources over HTTP in haxeshim,https://github.com/advisories/GHSA-cr6c-85fh-cqpg,https://j.mp/32WcsaL
+GithubAdvisories,[GHSA-cqxw-3p7v-p9gr] Moderate severity vulnerability that affects passenger,https://github.com/advisories/GHSA-cqxw-3p7v-p9gr,https://j.mp/3z9pmQN
+GithubAdvisories,[GHSA-cqr7-78pj-3g7j] File Descriptor Leak Can Cause DoS Vulnerability in hapi,https://github.com/advisories/GHSA-cqr7-78pj-3g7j,https://j.mp/2Z7HIm3
