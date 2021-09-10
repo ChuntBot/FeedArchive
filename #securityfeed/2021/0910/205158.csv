@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gf7h-vg5v-cch6] Directory Traversal in ritp,https://github.com/advisories/GHSA-gf7h-vg5v-cch6,https://j.mp/2EQfmp2
+GithubAdvisories,"[GHSA-gf2v-9hp6-44qg] Moderate severity vulnerability that affects org.apache.hive:hive, org.apache.hive:hive-exec, and org.apache.hive:hive-service",https://github.com/advisories/GHSA-gf2v-9hp6-44qg,https://j.mp/3CfGFBF
+GithubAdvisories,[GHSA-gf2j-7qwg-4f5x] Moderate severity vulnerability that affects org.keycloak:keycloak-core,https://github.com/advisories/GHSA-gf2j-7qwg-4f5x,https://j.mp/3C2hClm
+GithubAdvisories,[GHSA-gcr6-rf47-jrgf] High severity vulnerability that affects tablib,https://github.com/advisories/GHSA-gcr6-rf47-jrgf,https://j.mp/3hm3H1y
+GithubAdvisories,[GHSA-gcqq-w6gr-h9j9] High severity vulnerability that affects rubyzip,https://github.com/advisories/GHSA-gcqq-w6gr-h9j9,https://j.mp/3A2UEtI
+GithubAdvisories,[GHSA-g982-9r8g-6qxw] Low severity vulnerability that affects ciborg,https://github.com/advisories/GHSA-g982-9r8g-6qxw,https://j.mp/3z5jTds
+GithubAdvisories,[GHSA-g8j6-m4p7-5rfq] High severity vulnerability that affects DotNetNuke.Core,https://github.com/advisories/GHSA-g8j6-m4p7-5rfq,https://j.mp/3E4H9w3
+GithubAdvisories,[GHSA-g89m-3wjw-h857] Low severity vulnerability that affects puppet,https://github.com/advisories/GHSA-g89m-3wjw-h857,https://j.mp/3A3N16m
+GithubAdvisories,[GHSA-g7q5-pjjr-gqvp] Regular Expression Denial of Service in tough-cookie,https://github.com/advisories/GHSA-g7q5-pjjr-gqvp,https://j.mp/3gL1Dgz
+GithubAdvisories,[GHSA-g7j3-p357-cw8p] Directory Traversal in f2e-server,https://github.com/advisories/GHSA-g7j3-p357-cw8p,https://j.mp/3lCJzsk
+GithubAdvisories,[GHSA-g68x-vvqq-pvw3] Moderate severity vulnerability that affects ckeditor,https://github.com/advisories/GHSA-g68x-vvqq-pvw3,https://j.mp/3tJMwfv
+GithubAdvisories,[GHSA-g556-x5vx-qh59] Moderate severity vulnerability that affects com.caverock:androidsvg,https://github.com/advisories/GHSA-g556-x5vx-qh59,https://j.mp/3lk0Qrg
+GithubAdvisories,[GHSA-g4gg-9f62-jfph] Moderate severity vulnerability that affects com.orientechnologies:orientdb-studio,https://github.com/advisories/GHSA-g4gg-9f62-jfph,https://j.mp/3E9Ks4X
+GithubAdvisories,[GHSA-g266-3crh-h7gj] Moderate severity vulnerability that affects ldoce,https://github.com/advisories/GHSA-g266-3crh-h7gj,https://j.mp/3k2TPLG
+GithubAdvisories,[GHSA-fxwv-953p-7qpf] Moderate severity vulnerability that affects passenger,https://github.com/advisories/GHSA-fxwv-953p-7qpf,https://j.mp/3hnBCqv
