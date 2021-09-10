@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gfx6-ph4q-q54q] Moderate severity vulnerability that affects com.typesafe.akka:akka-http-core_2.11 and com.typesafe.akka:akka-http-core_2.12,https://github.com/advisories/GHSA-gfx6-ph4q-q54q,https://j.mp/3hlSFtb
+GithubAdvisories,[GHSA-gfv6-cj92-g3hx] Moderate severity vulnerability that affects pykmip,https://github.com/advisories/GHSA-gfv6-cj92-g3hx,https://j.mp/3nodAjc
+GithubAdvisories,[GHSA-gfjr-3jmm-4g9v] Symlink Arbitrary File Overwrite in tar,https://github.com/advisories/GHSA-gfjr-3jmm-4g9v,https://j.mp/3jtQdzq
