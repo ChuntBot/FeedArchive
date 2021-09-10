@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-28136 (esp-idf),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28136,https://j.mp/3E4hLpZ
+NVD-NIST,CVE-2021-28139 (esp-idf),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28139,https://j.mp/3BUumu8
+NVD-NIST,CVE-2021-28155 (tune500bt_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28155,https://j.mp/3E5sQao
+NVD-NIST,"CVE-2021-31613 (ac6901_firmware, ac6921_firmware, ac6925_firmware, ac6926_firmware, ac6928_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-31613,https://j.mp/3zZ7wAV
+NVD-NIST,CVE-2021-32568 (mrdoc),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-32568,https://j.mp/3zYGgTm
+NVD-NIST,CVE-2021-34144 (fw-ac63_bt_sdk),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34144,https://j.mp/3l84jsB
+NVD-NIST,CVE-2021-34149 (cc256xcqfn-em_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34149,https://j.mp/3hjlma7
+NVD-NIST,"CVE-2021-39278 (oncell_g3470a-lte-eu-t_firmware, oncell_g3470a-lte-eu_firmware, tap-323-eu-ct-t_firmware, tap-323-jp-ct-t_firmware, tap-323-us-ct-t_firmware, wac-1001-t_firmware, wac-1001_firmware, wac-2004_firmware, wdr-3124a-eu-t_firmware, wdr-3124a-eu_firmware, wdr-3124a-us-t_firmware, wdr-3124a-us_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-39278,https://j.mp/2YIz2oJ
+NVD-NIST,"CVE-2021-39279 (oncell_g3470a-lte-eu-t_firmware, oncell_g3470a-lte-eu_firmware, tap-323-eu-ct-t_firmware, tap-323-jp-ct-t_firmware, tap-323-us-ct-t_firmware, wac-1001-t_firmware, wac-1001_firmware, wac-2004_firmware, wdr-3124a-eu-t_firmware, wdr-3124a-eu_firmware, wdr-3124a-us-t_firmware, wdr-3124a-us_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-39279,https://j.mp/3BX3n0Z
+NVD-NIST,CVE-2021-39285 (versa_director),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-39285,https://j.mp/3BSki4I
+NVD-NIST,CVE-2021-39496 (eyoucms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-39496,https://j.mp/3BW8ej5
