@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fh39-v733-mxfr] Moderate severity vulnerability that affects activerecord,https://github.com/advisories/GHSA-fh39-v733-mxfr,https://j.mp/3BZYRPj
+GithubAdvisories,[GHSA-fgmx-8h93-26fh] Moderate severity vulnerability that affects omniauth-oauth2,https://github.com/advisories/GHSA-fgmx-8h93-26fh,https://j.mp/393R9al
+GithubAdvisories,[GHSA-fg9w-g6m4-557j] Moderate severity vulnerability that affects rails,https://github.com/advisories/GHSA-fg9w-g6m4-557j,https://j.mp/3z1wwGo
+GithubAdvisories,[GHSA-ffq8-576r-v26g] High severity vulnerability that affects hpack,https://github.com/advisories/GHSA-ffq8-576r-v26g,https://j.mp/3txne3Y
+GithubAdvisories,[GHSA-ffjh-fjgg-mfpq] Moderate severity vulnerability that affects org.apache.ranger:ranger,https://github.com/advisories/GHSA-ffjh-fjgg-mfpq,https://j.mp/3A6ceNp
+GithubAdvisories,[GHSA-q897-9jxf-jg9r] Security check skip in Apache Dubbo,https://github.com/advisories/GHSA-q897-9jxf-jg9r,https://j.mp/3A7bx6w
+GithubAdvisories,[GHSA-p5w8-wqhj-9hhf] StripComments filter contains a regular expression that is vulnerable to ReDOS (Regular Expression Denial of Service),https://github.com/advisories/GHSA-p5w8-wqhj-9hhf,https://j.mp/3C5rdI9
+GithubAdvisories,[GHSA-qvm7-23cj-437v] Remote Code Execution in Apache Dubbo,https://github.com/advisories/GHSA-qvm7-23cj-437v,https://j.mp/3nh5FEe
+GithubAdvisories,[GHSA-cfc2-wjcm-c8fm] Incorrect Authorization with specially crafted requests,https://github.com/advisories/GHSA-cfc2-wjcm-c8fm,https://j.mp/3jXCO5Q
+GithubAdvisories,[GHSA-5wjf-62hw-q78r] Excessive CPU usage,https://github.com/advisories/GHSA-5wjf-62hw-q78r,https://j.mp/3z28hIr
+GithubAdvisories,[GHSA-gjcg-vrxg-xmgv] Incorrect handling of H2 GOAWAY + SETTINGS frames,https://github.com/advisories/GHSA-gjcg-vrxg-xmgv,https://j.mp/3lar6El
