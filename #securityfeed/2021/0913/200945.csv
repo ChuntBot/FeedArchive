@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-99px-7724-484v] Remote Code Execution in Any23,https://github.com/advisories/GHSA-99px-7724-484v,https://j.mp/3Ab26Tw
+GithubAdvisories,[GHSA-838r-hvwh-24h8] XML Injection in Any23,https://github.com/advisories/GHSA-838r-hvwh-24h8,https://j.mp/3k7DRQL
+GithubAdvisories,[GHSA-mwgj-7x7j-6966] Deserialization of Untrusted Data in ParlAI,https://github.com/advisories/GHSA-mwgj-7x7j-6966,https://j.mp/3k7QFGB
+GithubAdvisories,[GHSA-gh8j-2pgf-x458] Infinite Loop in rencode,https://github.com/advisories/GHSA-gh8j-2pgf-x458,https://j.mp/3EcjMAB
+GithubAdvisories,[GHSA-m87f-9fvv-2mgg] Deserialization of Untrusted Data in parlai,https://github.com/advisories/GHSA-m87f-9fvv-2mgg,https://j.mp/3931of4
+GithubAdvisories,[GHSA-4hpq-rjcx-7vj9] Open Redirect in clearance,https://github.com/advisories/GHSA-4hpq-rjcx-7vj9,https://j.mp/3AmSpBP
