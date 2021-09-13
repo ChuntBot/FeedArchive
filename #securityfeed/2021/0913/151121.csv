@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h4hv-m4h4-mhwg] Moderate severity vulnerability that affects django,https://github.com/advisories/GHSA-h4hv-m4h4-mhwg,https://j.mp/3hsHMpy
+GithubAdvisories,[GHSA-h436-432x-8fvx] High severity vulnerability that affects org.apache.commons:commons-compress,https://github.com/advisories/GHSA-h436-432x-8fvx,https://j.mp/3k6mdfY
+GithubAdvisories,[GHSA-h3wv-47xm-4mg6] Moderate severity vulnerability that affects com.kitfox.svg:svg-salamander,https://github.com/advisories/GHSA-h3wv-47xm-4mg6,https://j.mp/3z1SusY
+GithubAdvisories,[GHSA-h39x-m55c-v55h] Low severity vulnerability that affects io.vertx:vertx-web,https://github.com/advisories/GHSA-h39x-m55c-v55h,https://j.mp/3tEegSk
+GithubAdvisories,[GHSA-h29f-7f56-j8wh] Moderate severity vulnerability that affects sinatra,https://github.com/advisories/GHSA-h29f-7f56-j8wh,https://j.mp/3z5zcmE
