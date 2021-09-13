@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+ExploitDB,[local] Facebook ParlAI 1.0.0 - Deserialization of Untrusted Data in parlai,https://www.exploit-db.com/exploits/50289,https://j.mp/3k4AIks
+ExploitDB,[webapps] Apartment Visitor Management System (AVMS) 1.0 - SQLi to RCE,https://www.exploit-db.com/exploits/50288,https://j.mp/3nrF9b7
+ExploitDB,[webapps] Wordpress Plugin Download From Files 1.48 - Arbitrary File Upload,https://www.exploit-db.com/exploits/50287,https://j.mp/2YVOVs9
+ExploitDB,[webapps] ECOA Building Automation System - Arbitrary File Deletion,https://www.exploit-db.com/exploits/50286,https://j.mp/3k3FUVV
+ExploitDB,[webapps] ECOA Building Automation System - Local File Disclosure,https://www.exploit-db.com/exploits/50285,https://j.mp/2YQOxuS
+ExploitDB,[webapps] ECOA Building Automation System - Remote Privilege Escalation,https://www.exploit-db.com/exploits/50284,https://j.mp/3C617EH
+ExploitDB,[local] ECOA Building Automation System - Missing Encryption Of Sensitive Information,https://www.exploit-db.com/exploits/50283,https://j.mp/3zhyi6J
+ExploitDB,[remote] ECOA Building Automation System - Hard-coded Credentials SSH Access,https://www.exploit-db.com/exploits/50282,https://j.mp/394zE9W
+ExploitDB,[webapps] ECOA Building Automation System - Hidden Backdoor Accounts and backdoor() Function,https://www.exploit-db.com/exploits/50281,https://j.mp/3C3o3o8
+ExploitDB,[webapps] ECOA Building Automation System - Configuration Download Information Disclosure,https://www.exploit-db.com/exploits/50280,https://j.mp/3z79vSv
+ExploitDB,[webapps] ECOA Building Automation System - Cookie Poisoning Authentication Bypass,https://www.exploit-db.com/exploits/50279,https://j.mp/2Xkgzyn
+ExploitDB,[webapps] ECOA Building Automation System - 'multiple' Cross-Site Request Forgery (CSRF),https://www.exploit-db.com/exploits/50278,https://j.mp/3z79wG3
+ExploitDB,[webapps] ECOA Building Automation System - Directory Traversal Content Disclosure,https://www.exploit-db.com/exploits/50277,https://j.mp/2VCod6l
+ExploitDB,[webapps] ECOA Building Automation System - Path Traversal Arbitrary File Upload,https://www.exploit-db.com/exploits/50276,https://j.mp/3Efom0S
