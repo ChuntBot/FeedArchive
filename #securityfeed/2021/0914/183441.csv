@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j5hj-fhc9-g24m] Moderate severity vulnerability that affects rack-mini-profiler,https://github.com/advisories/GHSA-j5hj-fhc9-g24m,https://j.mp/2XmRp1W
+GithubAdvisories,[GHSA-j53j-gmr9-h8g3] Moderate severity vulnerability that affects org.apache.tika:tika-core,https://github.com/advisories/GHSA-j53j-gmr9-h8g3,https://j.mp/2XnNmCJ
+GithubAdvisories,[GHSA-j3jp-gvr5-7hwq] Low severity vulnerability that affects python-engineio,https://github.com/advisories/GHSA-j3jp-gvr5-7hwq,https://j.mp/3lFICkb
+GithubAdvisories,[GHSA-j379-9jr9-w5cq] Moderate severity vulnerability that affects com.squareup.retrofit2:retrofit,https://github.com/advisories/GHSA-j379-9jr9-w5cq,https://j.mp/3lnrzD1
+GithubAdvisories,"[GHSA-j378-6mmw-hqfr] Moderate severity vulnerability that affects Microsoft.AspNetCore.All, Microsoft.AspNetCore.App, and System.IO.Pipelines",https://github.com/advisories/GHSA-j378-6mmw-hqfr,https://j.mp/3tHPwIU
+GithubAdvisories,[GHSA-j24p-r6wx-r79w] High severity vulnerability that affects thin,https://github.com/advisories/GHSA-j24p-r6wx-r79w,https://j.mp/394AGD9
