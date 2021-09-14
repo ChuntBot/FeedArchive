@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2ghc-6v89-pw9j] Prototype Pollution in body-parser-xml,https://github.com/advisories/GHSA-2ghc-6v89-pw9j,https://j.mp/3kaTWoQ
+GithubAdvisories,[GHSA-2rh5-jvgx-pgw3] Any storage file can be downloaded from p.sh if full server path is known,https://github.com/advisories/GHSA-2rh5-jvgx-pgw3,https://j.mp/3EeYQZQ
+GithubAdvisories,[GHSA-gqcf-83rq-gpfr] Any storage file can be downloaded from p.sh if full server path is known,https://github.com/advisories/GHSA-gqcf-83rq-gpfr,https://j.mp/3ltqI41
+GithubAdvisories,[GHSA-23cm-x6j7-6hq3] matrix-js-sdk can be tricked into disclosing E2EE room keys to a participating homeserver,https://github.com/advisories/GHSA-23cm-x6j7-6hq3,https://j.mp/3EfZdTT
