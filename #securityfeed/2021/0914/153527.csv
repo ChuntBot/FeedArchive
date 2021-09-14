@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h6rp-8v4j-hwph] High severity vulnerability that affects org.apache.camel:camel-core,https://github.com/advisories/GHSA-h6rp-8v4j-hwph,https://j.mp/2XgD5bD
+GithubAdvisories,[GHSA-h6rj-8r3c-9gpj] Moderate severity vulnerability that affects bson,https://github.com/advisories/GHSA-h6rj-8r3c-9gpj,https://j.mp/3CdVZ1E
+GithubAdvisories,[GHSA-h6hq-c896-w882] Low severity vulnerability that affects Plone,https://github.com/advisories/GHSA-h6hq-c896-w882,https://j.mp/3lmwggC
