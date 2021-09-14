@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h7j7-pw3v-3v3x] Moderate severity vulnerability that affects org.keycloak:keycloak-core,https://github.com/advisories/GHSA-h7j7-pw3v-3v3x,https://j.mp/3tF7cVK
+GithubAdvisories,[GHSA-h77x-m5q8-c29h] Moderate severity vulnerability that affects rack,https://github.com/advisories/GHSA-h77x-m5q8-c29h,https://j.mp/3ErlJtl
+GithubAdvisories,[GHSA-h6w6-xmqv-7q78] High severity vulnerability that affects activerecord,https://github.com/advisories/GHSA-h6w6-xmqv-7q78,https://j.mp/3llh3MQ
