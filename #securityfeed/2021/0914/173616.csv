@@ -1,0 +1,25 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hxx6-p24v-wg8c] High severity vulnerability that affects curl,https://github.com/advisories/GHSA-hxx6-p24v-wg8c,https://j.mp/3nxbEVF
+GithubAdvisories,[GHSA-hxf9-7h4c-f5jv] Moderate severity vulnerability that affects django-anymail,https://github.com/advisories/GHSA-hxf9-7h4c-f5jv,https://j.mp/3C95UFy
+GithubAdvisories,[GHSA-hwhh-2fwm-cfgw] High severity vulnerability that affects doorkeeper,https://github.com/advisories/GHSA-hwhh-2fwm-cfgw,https://j.mp/3nB3v2i
+GithubAdvisories,[GHSA-hwcf-pp87-7x6p] Moderate severity vulnerability that affects ejs,https://github.com/advisories/GHSA-hwcf-pp87-7x6p,https://j.mp/3CcBRwQ
+GithubAdvisories,[GHSA-hvwm-2624-rp9x] Moderate severity vulnerability that affects org.apache.activemq:activemq-web-console,https://github.com/advisories/GHSA-hvwm-2624-rp9x,https://j.mp/3CcBSAU
+GithubAdvisories,[GHSA-hvr8-466p-75rh] High severity vulnerability that affects Pillow,https://github.com/advisories/GHSA-hvr8-466p-75rh,https://j.mp/3tEulYi
+GithubAdvisories,[GHSA-hvpr-9cr6-q5v7] High severity vulnerability that affects org.apache.camel:camel-snakeyaml,https://github.com/advisories/GHSA-hvpr-9cr6-q5v7,https://j.mp/395mQQL
+GithubAdvisories,[GHSA-hv9c-qwqg-qj3v] Remote Code Execution in electron,https://github.com/advisories/GHSA-hv9c-qwqg-qj3v,https://j.mp/2EVtaOP
+GithubAdvisories,[GHSA-hrmr-f5m6-m9pq] Moderate severity vulnerability that affects org.apache.commons:commons-compress,https://github.com/advisories/GHSA-hrmr-f5m6-m9pq,https://j.mp/3976VBG
+GithubAdvisories,[GHSA-hr2v-3952-633q] Prototype Pollution in deep-extend,https://github.com/advisories/GHSA-hr2v-3952-633q,https://j.mp/3bkLNrS
+GithubAdvisories,[GHSA-hmq6-frv3-4727] High severity vulnerability that affects com.fasterxml.jackson.dataformat:jackson-dataformat-xml,https://github.com/advisories/GHSA-hmq6-frv3-4727,https://j.mp/2VLSpw4
+GithubAdvisories,[GHSA-hjm9-576q-399p] Moderate severity vulnerability that affects org.esigate:esigate-core,https://github.com/advisories/GHSA-hjm9-576q-399p,https://j.mp/396k0eh
+GithubAdvisories,[GHSA-hjf3-r7gw-9rwg] Moderate severity vulnerability that affects feedparser,https://github.com/advisories/GHSA-hjf3-r7gw-9rwg,https://j.mp/2XjSsj6
+GithubAdvisories,[GHSA-hjcp-j389-59ff] Regular Expression Denial of Service in marked,https://github.com/advisories/GHSA-hjcp-j389-59ff,https://j.mp/2YQOTyA
+GithubAdvisories,[GHSA-hj2j-77xm-mc5v] High severity vulnerability that affects Jinja2,https://github.com/advisories/GHSA-hj2j-77xm-mc5v,https://j.mp/3k7MQRW
+GithubAdvisories,[GHSA-hhrp-qm88-xjr3] Moderate severity vulnerability that affects valine,https://github.com/advisories/GHSA-hhrp-qm88-xjr3,https://j.mp/3nvPQtg
+GithubAdvisories,[GHSA-hgpp-pp89-4fgf] Moderate severity vulnerability that affects actionpack,https://github.com/advisories/GHSA-hgpp-pp89-4fgf,https://j.mp/3EjuYeY
+GithubAdvisories,[GHSA-hgmw-x865-hf9x] High severity vulnerability that affects arabic-prawn,https://github.com/advisories/GHSA-hgmw-x865-hf9x,https://j.mp/3lFwW0P
+GithubAdvisories,[GHSA-hggx-3h72-49ww] Moderate severity vulnerability that affects Pillow,https://github.com/advisories/GHSA-hggx-3h72-49ww,https://j.mp/2Xh3m9L
+GithubAdvisories,[GHSA-hgg3-g7gr-66r7] High severity vulnerability that affects pycryptodome,https://github.com/advisories/GHSA-hgg3-g7gr-66r7,https://j.mp/3C95VcA
+GithubAdvisories,[GHSA-h9mj-fghc-664w] Denial of Service in mqtt,https://github.com/advisories/GHSA-h9mj-fghc-664w,https://j.mp/3hJl0b6
+GithubAdvisories,[GHSA-h95j-h2rv-qrg4] Moderate severity vulnerability that affects django,https://github.com/advisories/GHSA-h95j-h2rv-qrg4,https://j.mp/39bvY6g
+GithubAdvisories,[GHSA-h8w4-qv99-f7vj] High severity vulnerability that affects org.springframework.security.oauth:spring-security-oauth2,https://github.com/advisories/GHSA-h8w4-qv99-f7vj,https://j.mp/3qjp1qw
+GithubAdvisories,[GHSA-h8q5-g2cj-qr5h] Moderate severity vulnerability that affects org.apache.tika:tika-core,https://github.com/advisories/GHSA-h8q5-g2cj-qr5h,https://j.mp/3k6nioe
