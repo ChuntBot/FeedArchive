@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jxhw-mg8m-2pj8] Moderate severity vulnerability that affects devise,https://github.com/advisories/GHSA-jxhw-mg8m-2pj8,https://j.mp/3AeTQC1
+GithubAdvisories,[GHSA-jx6h-3fjx-cgv5] Moderate severity vulnerability that affects org.apache.tomcat.embed:tomcat-embed-core,https://github.com/advisories/GHSA-jx6h-3fjx-cgv5,https://j.mp/2XtQhcW
+GithubAdvisories,[GHSA-jwhv-rgqc-fqj5] Moderate severity vulnerability that affects rails,https://github.com/advisories/GHSA-jwhv-rgqc-fqj5,https://j.mp/3C8XcHi
+GithubAdvisories,[GHSA-jv74-f9pj-xp3f] High severity vulnerability that affects org.apache.camel:camel-mail,https://github.com/advisories/GHSA-jv74-f9pj-xp3f,https://j.mp/3tTis13
+GithubAdvisories,[GHSA-jmm9-2p29-vh2w] High severity vulnerability that affects activerecord,https://github.com/advisories/GHSA-jmm9-2p29-vh2w,https://j.mp/3zdSsyh
+GithubAdvisories,[GHSA-jmgw-6vjg-jjwg] High severity vulnerability that affects actionpack,https://github.com/advisories/GHSA-jmgw-6vjg-jjwg,https://j.mp/3hxYEel
+GithubAdvisories,[GHSA-jmgf-p46x-982h] Moderate severity vulnerability that affects rails,https://github.com/advisories/GHSA-jmgf-p46x-982h,https://j.mp/3C6EAro
+GithubAdvisories,[GHSA-jmf4-pq78-f8vj] Moderate severity vulnerability that affects org.apache.hive:hive-jdbc,https://github.com/advisories/GHSA-jmf4-pq78-f8vj,https://j.mp/3CgmVhd
+GithubAdvisories,[GHSA-jjv7-qpx3-h62q] Denial-of-Service Memory Exhaustion in qs,https://github.com/advisories/GHSA-jjv7-qpx3-h62q,https://j.mp/3jtQkuQ
+GithubAdvisories,[GHSA-jj9h-mwhq-8vhm] Moderate severity vulnerability that affects org.apache.qpid:qpid-broker,https://github.com/advisories/GHSA-jj9h-mwhq-8vhm,https://j.mp/3nBvuyS
+GithubAdvisories,[GHSA-jhx3-2w5x-x39x] High severity vulnerability that affects Microsoft.ChakraCore,https://github.com/advisories/GHSA-jhx3-2w5x-x39x,https://j.mp/3z6zdXf
+GithubAdvisories,[GHSA-jhq3-57xh-6643] Privilege Escalation due to Blind NoSQL Injection in flintcms,https://github.com/advisories/GHSA-jhq3-57xh-6643,https://j.mp/2ESzJle
+GithubAdvisories,[GHSA-jg4m-q6w8-vrjp] High severity vulnerability that affects rgpg,https://github.com/advisories/GHSA-jg4m-q6w8-vrjp,https://j.mp/3tHNKYD
+GithubAdvisories,[GHSA-jgqf-hwc5-hh37] Root Path Disclosure in send,https://github.com/advisories/GHSA-jgqf-hwc5-hh37,https://j.mp/3jw2jYW
+GithubAdvisories,[GHSA-jg4f-jqm5-4mgq] Moderate severity vulnerability that affects ansible,https://github.com/advisories/GHSA-jg4f-jqm5-4mgq,https://j.mp/2XkLTfV
+GithubAdvisories,[GHSA-jf2m-435m-mxw8] High severity vulnerability that affects org.apache.hive:hive-jdbc,https://github.com/advisories/GHSA-jf2m-435m-mxw8,https://j.mp/2VFQnNQ
+GithubAdvisories,[GHSA-jcpv-g9rr-qxrc] Regular Expression Denial of Service in hawk,https://github.com/advisories/GHSA-jcpv-g9rr-qxrc,https://j.mp/2YQHr6M
+GithubAdvisories,[GHSA-jc6q-27mw-p55w] Moderate severity vulnerability that affects org.keycloak:keycloak-core,https://github.com/advisories/GHSA-jc6q-27mw-p55w,https://j.mp/3k8T18c
+GithubAdvisories,[GHSA-j96r-xvjq-r9pg] Moderate severity vulnerability that affects activesupport,https://github.com/advisories/GHSA-j96r-xvjq-r9pg,https://j.mp/2VHEZBd
