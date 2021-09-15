@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mm62-wxc8-cf7m] Code Execution Through IIFE in serialize-to-js,https://github.com/advisories/GHSA-mm62-wxc8-cf7m,https://j.mp/2EJytkH
+GithubAdvisories,[GHSA-mm57-9j6q-rxm2] High severity vulnerability that affects com.typesafe.akka:akka-actor_2.11 and com.typesafe.akka:akka-actor_2.12,https://github.com/advisories/GHSA-mm57-9j6q-rxm2,https://j.mp/3EnW2cQ
+GithubAdvisories,[GHSA-c77f-4rgj-jfr4] Cross-site Scripting in Beego,https://github.com/advisories/GHSA-c77f-4rgj-jfr4,https://j.mp/397xgiQ
+GithubAdvisories,[GHSA-5vp3-v4hc-gx76] UUPSUpgradeable vulnerability in @openzeppelin/contracts,https://github.com/advisories/GHSA-5vp3-v4hc-gx76,https://j.mp/3ke98BC
+GithubAdvisories,[GHSA-q4h9-46xg-m3x9] UUPSUpgradeable vulnerability in @openzeppelin/contracts-upgradeable,https://github.com/advisories/GHSA-q4h9-46xg-m3x9,https://j.mp/2VIbj6Q
+GithubAdvisories,[GHSA-mj4x-wcxf-hm8x] High severity vulnerability that affects json-jwt,https://github.com/advisories/GHSA-mj4x-wcxf-hm8x,https://j.mp/3Aeo4Fq
+GithubAdvisories,[GHSA-mhx2-r3jx-g94c] Moderate severity vulnerability that affects org.apache.camel:camel-core,https://github.com/advisories/GHSA-mhx2-r3jx-g94c,https://j.mp/2XvNJez
+GithubAdvisories,[GHSA-mhwp-qhpc-h3jm] High severity vulnerability that affects activerecord,https://github.com/advisories/GHSA-mhwp-qhpc-h3jm,https://j.mp/3tHHikl
+GithubAdvisories,[GHSA-mhpp-875w-9cpv] Denial of Service in jquery,https://github.com/advisories/GHSA-mhpp-875w-9cpv,https://j.mp/3jtQdiU
+GithubAdvisories,[GHSA-mh6f-8j2x-4483] Critical severity vulnerability that affects event-stream and flatmap-stream,https://github.com/advisories/GHSA-mh6f-8j2x-4483,https://j.mp/3nBVcDt
