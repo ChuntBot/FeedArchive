@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mxr5-p36v-479m] Moderate severity vulnerability that affects jquery-file-upload,https://github.com/advisories/GHSA-mxr5-p36v-479m,https://j.mp/3zfBZte
+GithubAdvisories,[GHSA-mx9f-w8qq-q5jf] Low severity vulnerability that affects rest-client,https://github.com/advisories/GHSA-mx9f-w8qq-q5jf,https://j.mp/3AeBjWs
+GithubAdvisories,[GHSA-mvw8-v767-qhjm] Moderate severity vulnerability that affects radiant,https://github.com/advisories/GHSA-mvw8-v767-qhjm,https://j.mp/3CfKh6n
+GithubAdvisories,[GHSA-mvqp-q37c-wf9j] Moderate severity vulnerability that affects io.ratpack:ratpack-core,https://github.com/advisories/GHSA-mvqp-q37c-wf9j,https://j.mp/3hSqakb
+GithubAdvisories,[GHSA-mv2r-q4g5-j8q5] Moderate severity vulnerability that affects Microsoft.Data.OData,https://github.com/advisories/GHSA-mv2r-q4g5-j8q5,https://j.mp/3hBS7zt
+GithubAdvisories,[GHSA-mr95-9rr4-668f] High severity vulnerability that affects com.typesafe.akka:akka-actor_2.11 and com.typesafe.akka:akka-actor_2.12,https://github.com/advisories/GHSA-mr95-9rr4-668f,https://j.mp/3tWRGVz
+GithubAdvisories,[GHSA-mr4x-c4v9-x729] Moderate severity vulnerability that affects aiohttp-session,https://github.com/advisories/GHSA-mr4x-c4v9-x729,https://j.mp/39cFwhq
+GithubAdvisories,[GHSA-mq8p-h798-xcrp] Moderate severity vulnerability that affects org.apache.hadoop:hadoop-main,https://github.com/advisories/GHSA-mq8p-h798-xcrp,https://j.mp/2XmnFCI
+GithubAdvisories,[GHSA-mq35-wqvf-r23c] High severity vulnerability that affects sinatra,https://github.com/advisories/GHSA-mq35-wqvf-r23c,https://j.mp/3hB2ovP
+GithubAdvisories,[GHSA-mpxf-gcw2-pw5q] Moderate severity vulnerability that affects actionpack,https://github.com/advisories/GHSA-mpxf-gcw2-pw5q,https://j.mp/3hCeRiS
+GithubAdvisories,[GHSA-mp78-r56v-45qc] Moderate severity vulnerability that affects ember-source,https://github.com/advisories/GHSA-mp78-r56v-45qc,https://j.mp/3lq6Wq1
