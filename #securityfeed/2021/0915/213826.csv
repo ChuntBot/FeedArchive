@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p673-hjf2-pwfr] High severity vulnerability that affects command_wrap,https://github.com/advisories/GHSA-p673-hjf2-pwfr,https://j.mp/3zffmFp
+GithubAdvisories,[GHSA-p65m-qr5x-rrqq] High severity vulnerability that affects webbynode,https://github.com/advisories/GHSA-p65m-qr5x-rrqq,https://j.mp/3hBx2oQ
+GithubAdvisories,"[GHSA-p639-xxv5-j383] Moderate severity vulnerability that affects org.apache.hive:hive, org.apache.hive:hive-exec, and org.apache.hive:hive-service",https://github.com/advisories/GHSA-p639-xxv5-j383,https://j.mp/3z9nA21
+GithubAdvisories,[GHSA-p4c6-77gc-694x] Moderate severity vulnerability that affects rails,https://github.com/advisories/GHSA-p4c6-77gc-694x,https://j.mp/3kdiU6U
+GithubAdvisories,[GHSA-p463-639r-q9g9] High severity vulnerability that affects dragonfly,https://github.com/advisories/GHSA-p463-639r-q9g9,https://j.mp/3EggpsB
+GithubAdvisories,[GHSA-p3w6-jcg4-52xh] High severity vulnerability that affects django-rest-registration,https://github.com/advisories/GHSA-p3w6-jcg4-52xh,https://j.mp/3EwBTl8
+GithubAdvisories,[GHSA-p2xq-vcm7-xjj6] Low severity vulnerability that affects org.apache.mesos:mesos,https://github.com/advisories/GHSA-p2xq-vcm7-xjj6,https://j.mp/2XfBWAx
