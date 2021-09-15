@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mgx3-27hr-mfgp] High severity vulnerability that affects httparty,https://github.com/advisories/GHSA-mgx3-27hr-mfgp,https://j.mp/3CkagKb
+GithubAdvisories,[GHSA-mg8r-9g6j-hwv9] Authentication Bypass in hapi-auth-jwt2,https://github.com/advisories/GHSA-mg8r-9g6j-hwv9,https://j.mp/34Q4yC4
+GithubAdvisories,[GHSA-mf6w-45cf-qhmp] High severity vulnerability that affects git-fastclone,https://github.com/advisories/GHSA-mf6w-45cf-qhmp,https://j.mp/3EnKYg3
+GithubAdvisories,[GHSA-mcfm-h73v-635m] High severity vulnerability that affects io.undertow:undertow-core,https://github.com/advisories/GHSA-mcfm-h73v-635m,https://j.mp/3CfnQOH
+GithubAdvisories,[GHSA-mc84-xr9p-938r] High severity vulnerability that affects generator-jhipster,https://github.com/advisories/GHSA-mc84-xr9p-938r,https://j.mp/3hDCibE
+GithubAdvisories,[GHSA-mc23-976p-j42x] Low severity vulnerability that affects xterm,https://github.com/advisories/GHSA-mc23-976p-j42x,https://j.mp/3hB6Fzm
+GithubAdvisories,[GHSA-m9w8-v359-9ffr] Moderate severity vulnerability that affects org.apache.activemq:activemq-client,https://github.com/advisories/GHSA-m9w8-v359-9ffr,https://j.mp/3Ai3Me1
+GithubAdvisories,[GHSA-m9mq-p2f9-cfqv] Critical severity vulnerability that affects bleach,https://github.com/advisories/GHSA-m9mq-p2f9-cfqv,https://j.mp/3tHwiDz
+GithubAdvisories,[GHSA-m929-7fr6-cvjg] Moderate severity vulnerability that affects org.springframework.data:spring-data-commons,https://github.com/advisories/GHSA-m929-7fr6-cvjg,https://j.mp/3nwk6V4
