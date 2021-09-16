@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qj3f-9gmq-fwv5] Cross-Site Scripting in simple-markdown,https://github.com/advisories/GHSA-qj3f-9gmq-fwv5,https://j.mp/3gOBa1s
+GithubAdvisories,[GHSA-qhv9-728r-6jqg] ReDoS via long string of semicolons in tough-cookie,https://github.com/advisories/GHSA-qhv9-728r-6jqg,https://j.mp/2YSmU1x
+GithubAdvisories,[GHSA-qg3g-2mgh-33j8] Sensitive Data Exposure in msrcrypto,https://github.com/advisories/GHSA-qg3g-2mgh-33j8,https://j.mp/3hJkZUA
+GithubAdvisories,[GHSA-qfjv-998w-q48f] High severity vulnerability that affects org.apache.syncope:syncope-core,https://github.com/advisories/GHSA-qfjv-998w-q48f,https://j.mp/3tNRHLp
+GithubAdvisories,[GHSA-qcjv-wfcg-mmpr] Critical severity vulnerability that affects org.apache.ignite:ignite-core,https://github.com/advisories/GHSA-qcjv-wfcg-mmpr,https://j.mp/3kidd7W
+GithubAdvisories,[GHSA-qcj7-g2j5-g7r3] Moderate severity vulnerability that affects org.bouncycastle:bcprov-jdk14 and org.bouncycastle:bcprov-jdk15,https://github.com/advisories/GHSA-qcj7-g2j5-g7r3,https://j.mp/3nEFreR
+GithubAdvisories,[GHSA-qc55-vm3j-74gp] Low severity vulnerability that affects jsnapy,https://github.com/advisories/GHSA-qc55-vm3j-74gp,https://j.mp/3ElikMB
+GithubAdvisories,[GHSA-q97v-764g-r2rp] High severity vulnerability that affects gollum and gollum-lib,https://github.com/advisories/GHSA-q97v-764g-r2rp,https://j.mp/3kgT2qF
+GithubAdvisories,"[GHSA-q8xj-8xg3-w432] Moderate severity vulnerability that affects io.spray:spray-json_2.10, io.spray:spray-json_2.11, and io.spray:spray-json_2.12",https://github.com/advisories/GHSA-q8xj-8xg3-w432,https://j.mp/3AkZuTb
+GithubAdvisories,[GHSA-q86f-fmqf-qrf6] Moderate severity vulnerability that affects mail,https://github.com/advisories/GHSA-q86f-fmqf-qrf6,https://j.mp/3nJzvRV
+GithubAdvisories,[GHSA-q7pf-qr96-2vq5] Moderate severity vulnerability that affects io.swagger:swagger-codegen and io.swagger:swagger-parser,https://github.com/advisories/GHSA-q7pf-qr96-2vq5,https://j.mp/3Cj1bRB
+GithubAdvisories,[GHSA-q759-hwvc-m3jg] Moderate severity vulnerability that affects actionpack,https://github.com/advisories/GHSA-q759-hwvc-m3jg,https://j.mp/2XuDAi4
+GithubAdvisories,[GHSA-q69p-5h74-w36f] Content Injection via TileJSON Name in mapbox.js,https://github.com/advisories/GHSA-q69p-5h74-w36f,https://j.mp/3lzxbcC
+GithubAdvisories,[GHSA-q66c-h853-gqw2] Moderate severity vulnerability that affects org.apache.qpid:qpid-broker-plugins-amqp-0-8-protocol and org.apache.qpid:qpid-broker-plugins-amqp-1-0-protocol,https://github.com/advisories/GHSA-q66c-h853-gqw2,https://j.mp/3Emt653
+GithubAdvisories,[GHSA-q5pq-pgrv-fh89] Critical severity vulnerability that affects dns-sync,https://github.com/advisories/GHSA-q5pq-pgrv-fh89,https://j.mp/3hGZwO5
