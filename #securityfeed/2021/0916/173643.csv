@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-phg2-9c5g-m4q7] Low severity vulnerability that affects org.apache.spark:spark-core_2.10 and org.apache.spark:spark-core_2.11,https://github.com/advisories/GHSA-phg2-9c5g-m4q7,https://j.mp/3tTyx6H
+GithubAdvisories,[GHSA-pgf9-h69p-pcgf] High severity vulnerability that affects org.springframework:spring-core,https://github.com/advisories/GHSA-pgf9-h69p-pcgf,https://j.mp/3CkTHgW
+GithubAdvisories,[GHSA-pfwp-8pq4-g7pv] Moderate severity vulnerability that affects com.alipay.sofa:hessian,https://github.com/advisories/GHSA-pfwp-8pq4-g7pv,https://j.mp/3keXtlO
+GithubAdvisories,[GHSA-pcwm-8jc3-qxvj] Moderate severity vulnerability that affects Plone,https://github.com/advisories/GHSA-pcwm-8jc3-qxvj,https://j.mp/3tIN9G0
+GithubAdvisories,[GHSA-pcm6-g2qp-9gw8] Low severity vulnerability that affects cap-strap,https://github.com/advisories/GHSA-pcm6-g2qp-9gw8,https://j.mp/3kfXaar
