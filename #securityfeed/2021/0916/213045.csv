@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qw96-mm2g-c8m7] High severity vulnerability that affects next,https://github.com/advisories/GHSA-qw96-mm2g-c8m7,https://j.mp/3Cjidiv
+GithubAdvisories,[GHSA-qw93-45r3-p66p] Prototype Pollution in merge-options,https://github.com/advisories/GHSA-qw93-45r3-p66p,https://j.mp/3bboC2W
+GithubAdvisories,[GHSA-qw8w-2xcp-xg59] Low severity vulnerability that affects passenger,https://github.com/advisories/GHSA-qw8w-2xcp-xg59,https://j.mp/3nGp5Cw
+GithubAdvisories,[GHSA-qvxv-pmq9-4q7g] High severity vulnerability that affects org.scala-lang:scala-compiler,https://github.com/advisories/GHSA-qvxv-pmq9-4q7g,https://j.mp/3CkKaqs
+GithubAdvisories,[GHSA-qv8p-v9qw-wc7g] Moderate severity vulnerability that affects activesupport,https://github.com/advisories/GHSA-qv8p-v9qw-wc7g,https://j.mp/3CphsEV
+GithubAdvisories,[GHSA-qv32-7r6p-xhhh] Moderate severity vulnerability that affects com.adobe.xmp:xmpcore,https://github.com/advisories/GHSA-qv32-7r6p-xhhh,https://j.mp/3EmKqqB
+GithubAdvisories,[GHSA-qv2v-m59f-v5fw] Insecure randomness in socket.io,https://github.com/advisories/GHSA-qv2v-m59f-v5fw,https://j.mp/34RuLQY
+GithubAdvisories,[GHSA-qrgf-jqqm-x7xv] High severity vulnerability that affects dragonfly,https://github.com/advisories/GHSA-qrgf-jqqm-x7xv,https://j.mp/3ltFbgh
+GithubAdvisories,[GHSA-qr28-7j6p-9hmv] Content Injection via TileJSON attribute in mapbox.js,https://github.com/advisories/GHSA-qr28-7j6p-9hmv,https://j.mp/3fs60fL
