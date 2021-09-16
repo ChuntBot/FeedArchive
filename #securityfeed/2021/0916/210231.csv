@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vwr2-wj63-86gr] Path Traversal in simplehttpserver,https://github.com/advisories/GHSA-vwr2-wj63-86gr,https://j.mp/2QFuYOL
+GithubAdvisories,[GHSA-pjxw-22xf-6pwc] Prototype Pollution in defaults-deep,https://github.com/advisories/GHSA-pjxw-22xf-6pwc,https://j.mp/3gL2uxE
+GithubAdvisories,[GHSA-rwg6-3fmj-w4wx] Hijacked Environment Variables in tkinter,https://github.com/advisories/GHSA-rwg6-3fmj-w4wx,https://j.mp/2YQIbJb
+GithubAdvisories,[GHSA-22gq-x6pg-752j] Hijacked Environment Variables in openssl.js,https://github.com/advisories/GHSA-22gq-x6pg-752j,https://j.mp/3hR8576
+GithubAdvisories,[GHSA-3grc-fgh6-g5gp] Directory Traversal in http_static_simple,https://github.com/advisories/GHSA-3grc-fgh6-g5gp,https://j.mp/2ENp1N8
+GithubAdvisories,[GHSA-2wpq-vvw6-67wr] Hijacked Environment Variables in nodecaffe,https://github.com/advisories/GHSA-2wpq-vvw6-67wr,https://j.mp/31KFB9u
+GithubAdvisories,[GHSA-mgr2-3mpv-43gc] Downloads Resources over HTTP in openframe-image,https://github.com/advisories/GHSA-mgr2-3mpv-43gc,https://j.mp/3jtwGz5
+GithubAdvisories,[GHSA-4pf7-579w-f4gm] Downloads Resources over HTTP in dwebp-bin,https://github.com/advisories/GHSA-4pf7-579w-f4gm,https://j.mp/2QHZreV
+GithubAdvisories,[GHSA-4j59-hfw6-6w7h] Downloads Resources over HTTP in cmake,https://github.com/advisories/GHSA-4j59-hfw6-6w7h,https://j.mp/32G1Nki
+GithubAdvisories,[GHSA-c2vr-2c89-ph88] Downloads Resources over HTTP in node-bsdiff-android,https://github.com/advisories/GHSA-c2vr-2c89-ph88,https://j.mp/2GfMsPN
+GithubAdvisories,[GHSA-8wg9-92fr-6j7v] Downloads Resources over HTTP in marionette-socket-host,https://github.com/advisories/GHSA-8wg9-92fr-6j7v,https://j.mp/2EMqDGO
+GithubAdvisories,[GHSA-x7q3-67vc-wvcf] Downloads Resources over HTTP in grunt-images,https://github.com/advisories/GHSA-x7q3-67vc-wvcf,https://j.mp/32G1LJc
+GithubAdvisories,[GHSA-vcfp-ppqw-mf23] Downloads Resources over HTTP in fis-sass-all,https://github.com/advisories/GHSA-vcfp-ppqw-mf23,https://j.mp/32G1JB4
+GithubAdvisories,[GHSA-vcqg-cmv3-wj57] Directory Traversal in rtcmulticonnection-client,https://github.com/advisories/GHSA-vcqg-cmv3-wj57,https://j.mp/3bdP38c
+GithubAdvisories,[GHSA-g785-775g-f2g8] Downloads Resources over HTTP in haxe,https://github.com/advisories/GHSA-g785-775g-f2g8,https://j.mp/34QX2Hk
+GithubAdvisories,[GHSA-7vrq-vg6p-32fw] Downloads Resources over HTTP in libxl,https://github.com/advisories/GHSA-7vrq-vg6p-32fw,https://j.mp/2DfC3m5
+GithubAdvisories,[GHSA-92qm-hc53-jjrj] Downloads Resources over HTTP in ibapi,https://github.com/advisories/GHSA-92qm-hc53-jjrj,https://j.mp/32KrFvl
+GithubAdvisories,[GHSA-9gqh-q4cx-f2h9] Downloads Resources over HTTP in ipip,https://github.com/advisories/GHSA-9gqh-q4cx-f2h9,https://j.mp/3gM4Vjm
+GithubAdvisories,[GHSA-cr79-9pwf-r6f5] Downloads Resources over HTTP in prince,https://github.com/advisories/GHSA-cr79-9pwf-r6f5,https://j.mp/32G1PbU
+GithubAdvisories,[GHSA-rwvj-jgc4-fqq5] Downloads Resources over HTTP in cobalt-cli,https://github.com/advisories/GHSA-rwvj-jgc4-fqq5,https://j.mp/2YTGOJI
+GithubAdvisories,[GHSA-g2pf-qjgf-6fw3] Downloads Resources over HTTP in openframe-glslviewer,https://github.com/advisories/GHSA-g2pf-qjgf-6fw3,https://j.mp/3gLdWco
+GithubAdvisories,[GHSA-735c-r4vc-6gm9] Downloads Resources over HTTP in bionode-sra,https://github.com/advisories/GHSA-735c-r4vc-6gm9,https://j.mp/2QFn8Vj
+GithubAdvisories,[GHSA-5p26-hw7f-3cpr] Cross-Site Scripting in html-pages,https://github.com/advisories/GHSA-5p26-hw7f-3cpr,https://j.mp/3hKBorN
