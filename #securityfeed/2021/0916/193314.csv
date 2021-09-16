@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q52j-4q2q-hcj6] Authentication Bypass in console-io,https://github.com/advisories/GHSA-q52j-4q2q-hcj6,https://j.mp/32BL95e
+GithubAdvisories,[GHSA-q4qq-fm7q-cwp5] Multiple XSS Filter Bypasses in validator,https://github.com/advisories/GHSA-q4qq-fm7q-cwp5,https://j.mp/2QIshvT
+GithubAdvisories,[GHSA-q485-j897-qc27] Moderate severity vulnerability that affects com.mchange:c3p0,https://github.com/advisories/GHSA-q485-j897-qc27,https://j.mp/2YTatp1
+GithubAdvisories,[GHSA-q44r-f2hm-v76v] Moderate severity vulnerability that affects puppet,https://github.com/advisories/GHSA-q44r-f2hm-v76v,https://j.mp/3lptfMg
+GithubAdvisories,[GHSA-wp7m-mrvf-599c] Command Injection in node-df,https://github.com/advisories/GHSA-wp7m-mrvf-599c,https://j.mp/2HrL6ih
+GithubAdvisories,[GHSA-q3jg-4c82-j4xh] Moderate severity vulnerability that affects org.springframework.credhub:spring-credhub-core,https://github.com/advisories/GHSA-q3jg-4c82-j4xh,https://j.mp/3bG7xQY
+GithubAdvisories,[GHSA-q35p-chc6-7x57] Moderate severity vulnerability that affects org.apache.storm:storm-core,https://github.com/advisories/GHSA-q35p-chc6-7x57,https://j.mp/3EmbuX0
+GithubAdvisories,[GHSA-q34c-48gc-m9g8] Moderate severity vulnerability that affects actionpack,https://github.com/advisories/GHSA-q34c-48gc-m9g8,https://j.mp/3hEPwoe
+GithubAdvisories,[GHSA-q25j-gcmv-5qpp] Moderate severity vulnerability that affects org.grails.plugins:fields and org.grails:grails-core,https://github.com/advisories/GHSA-q25j-gcmv-5qpp,https://j.mp/3hGUEbL
+GithubAdvisories,[GHSA-pxr8-w3jq-rcwj] Moderate severity vulnerability that affects rails_admin,https://github.com/advisories/GHSA-pxr8-w3jq-rcwj,https://j.mp/3Eq81GT
