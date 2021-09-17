@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rv95-4wxj-6fqq] Low severity vulnerability that affects colander,https://github.com/advisories/GHSA-rv95-4wxj-6fqq,https://j.mp/2VNVTxU
+GithubAdvisories,[GHSA-rv62-4pmj-xw6h] Moderate severity vulnerability that affects jupyterhub and notebook,https://github.com/advisories/GHSA-rv62-4pmj-xw6h,https://j.mp/3hL1qx3
+GithubAdvisories,[GHSA-rrvx-pwf8-p59p] Moderate severity vulnerability that affects org.bouncycastle:bcprov-jdk14 and org.bouncycastle:bcprov-jdk15,https://github.com/advisories/GHSA-rrvx-pwf8-p59p,https://j.mp/3Aqjt2U
+GithubAdvisories,[GHSA-rrfq-g5fq-fc9c] Moderate severity vulnerability that affects org.apache.hive:hive-exec,https://github.com/advisories/GHSA-rrfq-g5fq-fc9c,https://j.mp/3AzfL7n
