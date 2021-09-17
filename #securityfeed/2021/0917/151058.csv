@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rf4j-j272-fj86] Moderate severity vulnerability that affects django,https://github.com/advisories/GHSA-rf4j-j272-fj86,https://j.mp/3tQO07K
+GithubAdvisories,[GHSA-rcx2-m7jp-p9wj] Moderate severity vulnerability that affects notebook,https://github.com/advisories/GHSA-rcx2-m7jp-p9wj,https://j.mp/3hI3PZp
+GithubAdvisories,[GHSA-rcpf-vj53-7h2m] Moderate severity vulnerability that affects org.springframework:spring-core,https://github.com/advisories/GHSA-rcpf-vj53-7h2m,https://j.mp/3nMqesj
+GithubAdvisories,[GHSA-rc9v-h28f-jcmf] Low severity vulnerability that affects org.apache.solr:solr-core,https://github.com/advisories/GHSA-rc9v-h28f-jcmf,https://j.mp/3hKbOoW
+GithubAdvisories,[GHSA-r9ch-m4fh-fc7q] Moderate severity vulnerability that affects org.bouncycastle:bcprov-jdk14 and org.bouncycastle:bcprov-jdk15,https://github.com/advisories/GHSA-r9ch-m4fh-fc7q,https://j.mp/3hKndou
+GithubAdvisories,[GHSA-r9c2-cr39-c8g6] Moderate severity vulnerability that affects rails-html-sanitizer,https://github.com/advisories/GHSA-r9c2-cr39-c8g6,https://j.mp/3CiYPCr
+GithubAdvisories,[GHSA-r97x-3g8f-gx3m] Moderate severity vulnerability that affects org.bouncycastle:bcprov-jdk14 and org.bouncycastle:bcprov-jdk15,https://github.com/advisories/GHSA-r97x-3g8f-gx3m,https://j.mp/2XzzZiW
+GithubAdvisories,[GHSA-r8h9-hq9c-2p5c] High severity vulnerability that affects com.github.shyiko.ktlint:ktlint-core,https://github.com/advisories/GHSA-r8h9-hq9c-2p5c,https://j.mp/3AjJBwn
+GithubAdvisories,[GHSA-r8fh-hq2p-7qhq] High severity vulnerability that affects activerecord,https://github.com/advisories/GHSA-r8fh-hq2p-7qhq,https://j.mp/3kj46np
+GithubAdvisories,[GHSA-r7q2-5gqg-6c7q] Moderate severity vulnerability that affects actionpack,https://github.com/advisories/GHSA-r7q2-5gqg-6c7q,https://j.mp/2XuiH6c
