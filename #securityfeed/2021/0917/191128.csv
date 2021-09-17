@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rp28-29ch-gh92] Directory Traversal in elding,https://github.com/advisories/GHSA-rp28-29ch-gh92,https://j.mp/2EHATjY
+GithubAdvisories,[GHSA-rmxg-73gg-4p98] Cross-Site Scripting (XSS) in jquery,https://github.com/advisories/GHSA-rmxg-73gg-4p98,https://j.mp/31K0TUD
+GithubAdvisories,[GHSA-rmm5-g63h-m6g9] Moderate severity vulnerability that affects ro.pippo:pippo-core,https://github.com/advisories/GHSA-rmm5-g63h-m6g9,https://j.mp/39cMEuq
+GithubAdvisories,"[GHSA-rhq2-2574-78mc] Moderate severity vulnerability that affects cn.hutool:hutool-all, cn.hutool:hutool-core, and cn.hutool:hutool-parent",https://github.com/advisories/GHSA-rhq2-2574-78mc,https://j.mp/39fIGRD
