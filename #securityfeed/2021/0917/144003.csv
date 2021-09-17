@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r74q-gxcg-73hx] High severity vulnerability that affects simple_form,https://github.com/advisories/GHSA-r74q-gxcg-73hx,https://j.mp/2Z8FVzS
+GithubAdvisories,[GHSA-r5hc-9xx5-97rw] Moderate severity vulnerability that affects i18n,https://github.com/advisories/GHSA-r5hc-9xx5-97rw,https://j.mp/2XkjxTb
+GithubAdvisories,[GHSA-r53v-vm87-f72c] Moderate severity vulnerability that affects org.apache.axis:axis,https://github.com/advisories/GHSA-r53v-vm87-f72c,https://j.mp/3jH5bT1
+GithubAdvisories,[GHSA-r4x2-3cq5-hqvp] High severity vulnerability that affects org.apache.tomcat.embed:tomcat-embed-core,https://github.com/advisories/GHSA-r4x2-3cq5-hqvp,https://j.mp/39hPhLk
+GithubAdvisories,[GHSA-r3vr-prwv-86g9] High severity vulnerability that affects python-gnupg,https://github.com/advisories/GHSA-r3vr-prwv-86g9,https://j.mp/3tPZDvF
+GithubAdvisories,[GHSA-r38r-qp28-2m63] Critical severity vulnerability that affects rope,https://github.com/advisories/GHSA-r38r-qp28-2m63,https://j.mp/3CpxpdU
+GithubAdvisories,[GHSA-r34r-f84j-5x4x] Moderate severity vulnerability that affects org.apache.spark:spark-core_2.10 and org.apache.spark:spark-core_2.11,https://github.com/advisories/GHSA-r34r-f84j-5x4x,https://j.mp/2VPaKbr
+GithubAdvisories,[GHSA-r32r-3977-cgc3] Moderate severity vulnerability that affects org.keycloak:keycloak-core,https://github.com/advisories/GHSA-r32r-3977-cgc3,https://j.mp/39cVDvp
+GithubAdvisories,[GHSA-r23g-3qw4-gfh2] Moderate severity vulnerability that affects redcloth,https://github.com/advisories/GHSA-r23g-3qw4-gfh2,https://j.mp/3lxoArY
