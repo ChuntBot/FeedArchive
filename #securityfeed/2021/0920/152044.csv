@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v633-x5vv-hqwc] Cross-Site Scripting in serve-index,https://github.com/advisories/GHSA-v633-x5vv-hqwc,https://j.mp/3hKvK8V
+GithubAdvisories,[GHSA-v5jg-558j-q67c] Moderate severity vulnerability that affects actionpack,https://github.com/advisories/GHSA-v5jg-558j-q67c,https://j.mp/3lG98K0
+GithubAdvisories,[GHSA-v569-g72v-q434] Low severity vulnerability that affects org.apache.hadoop:hadoop-main,https://github.com/advisories/GHSA-v569-g72v-q434,https://j.mp/3u3rFUw
+GithubAdvisories,[GHSA-v4x4-98cg-wr4g] Moderate severity vulnerability that affects definitions,https://github.com/advisories/GHSA-v4x4-98cg-wr4g,https://j.mp/3i98YKr
+GithubAdvisories,[GHSA-v3vf-2r98-xw8w] High severity vulnerability that affects org.apache.syncope:syncope-core,https://github.com/advisories/GHSA-v3vf-2r98-xw8w,https://j.mp/2ZgCUxt
+GithubAdvisories,[GHSA-v3rr-cph9-2g2q] Moderate severity vulnerability that affects rack-ssl,https://github.com/advisories/GHSA-v3rr-cph9-2g2q,https://j.mp/3nNHVb5
