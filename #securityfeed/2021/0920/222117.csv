@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vvjc-q5vr-52q6] High severity vulnerability that affects org.apache.camel:camel-jackson,https://github.com/advisories/GHSA-vvjc-q5vr-52q6,https://j.mp/2XLdrfd
+GithubAdvisories,[GHSA-vv4c-g6q7-p3q7] Moderate severity vulnerability that affects doorkeeper-openid_connect,https://github.com/advisories/GHSA-vv4c-g6q7-p3q7,https://j.mp/39mNYLb
+GithubAdvisories,[GHSA-vrh8-27q8-fr8f] Low severity vulnerability that affects org.apache.solr:solr-core,https://github.com/advisories/GHSA-vrh8-27q8-fr8f,https://j.mp/3AxaYTK
+GithubAdvisories,[GHSA-vqqv-v9m2-48p2] Critical severity vulnerability that affects bootstrap-sass,https://github.com/advisories/GHSA-vqqv-v9m2-48p2,https://j.mp/3nS0hI6
+GithubAdvisories,[GHSA-vqmr-957g-r7w3] High severity vulnerability that affects rendertron,https://github.com/advisories/GHSA-vqmr-957g-r7w3,https://j.mp/3nOJi9h
+GithubAdvisories,[GHSA-vqgp-4jgj-5j64] Low severity vulnerability that affects py-evm,https://github.com/advisories/GHSA-vqgp-4jgj-5j64,https://j.mp/3hPbtBc
+GithubAdvisories,[GHSA-vqcq-mrmw-mcmg] Moderate severity vulnerability that affects rubyzip,https://github.com/advisories/GHSA-vqcq-mrmw-mcmg,https://j.mp/39mNYe9
+GithubAdvisories,[GHSA-vqcm-7f7f-r539] Low severity vulnerability that affects brbackup,https://github.com/advisories/GHSA-vqcm-7f7f-r539,https://j.mp/39mA0cb
+GithubAdvisories,[GHSA-vq9j-jh62-5hmp] Moderate severity vulnerability that affects org.apache.camel:camel-core,https://github.com/advisories/GHSA-vq9j-jh62-5hmp,https://j.mp/3nWPzjz
+GithubAdvisories,[GHSA-vpch-rxw3-fgx8] Cross-Site Scripting in @risingstack/protect,https://github.com/advisories/GHSA-vpch-rxw3-fgx8,https://j.mp/3jw07jV
+GithubAdvisories,[GHSA-vm28-mrm7-fpjq] High severity vulnerability that affects sfpagent,https://github.com/advisories/GHSA-vm28-mrm7-fpjq,https://j.mp/3lZxnmP
+GithubAdvisories,[GHSA-vjcj-5g2r-vxqc] Moderate severity vulnerability that affects editor.md,https://github.com/advisories/GHSA-vjcj-5g2r-vxqc,https://j.mp/2XI94l2
+GithubAdvisories,[GHSA-vhxc-8jjq-859j] Moderate severity vulnerability that affects org.apache.ranger:ranger,https://github.com/advisories/GHSA-vhxc-8jjq-859j,https://j.mp/3Arjm7a
