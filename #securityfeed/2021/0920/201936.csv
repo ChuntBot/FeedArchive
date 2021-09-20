@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-49x3-8228-3w3m] Inefficient Regular Expression Complexity in code-server,https://github.com/advisories/GHSA-49x3-8228-3w3m,https://j.mp/3tYiZPi
+GithubAdvisories,[GHSA-f6jp-j6w3-w9hm] Improper Authentication in Apache Shiro,https://github.com/advisories/GHSA-f6jp-j6w3-w9hm,https://j.mp/3tU1r6O
+GithubAdvisories,[GHSA-92v9-xh2q-fq9f] Prototype Pollution in @cookiex/deep,https://github.com/advisories/GHSA-92v9-xh2q-fq9f,https://j.mp/3nSnCcj
+GithubAdvisories,[GHSA-468q-v4jj-485h] Inefficient Regular Expression Complexity in taro,https://github.com/advisories/GHSA-468q-v4jj-485h,https://j.mp/3zltJIo
+GithubAdvisories,[GHSA-579x-cjvr-cqj9] Observable Response Discrepancy in Lost Password Service,https://github.com/advisories/GHSA-579x-cjvr-cqj9,https://j.mp/3tUG98W
+GithubAdvisories,[GHSA-jp7f-grcv-6mjf] Partial path traversal in sharpcompress,https://github.com/advisories/GHSA-jp7f-grcv-6mjf,https://j.mp/3ELwPcK
+GithubAdvisories,[GHSA-22gh-3r9q-xf38] Lacking Protection against HTTP Request Smuggling in mitmproxy,https://github.com/advisories/GHSA-22gh-3r9q-xf38,https://j.mp/3hQl2Qs
+GithubAdvisories,[GHSA-fhv8-fx5f-7fxf] Prototype Pollution in the merge and clone helper methods,https://github.com/advisories/GHSA-fhv8-fx5f-7fxf,https://j.mp/2XvA9HF
+GithubAdvisories,[GHSA-wfrj-qqc2-83cm] Remote command injection when using sendmail email transport,https://github.com/advisories/GHSA-wfrj-qqc2-83cm,https://j.mp/3kosyDF
+GithubAdvisories,[GHSA-84p7-fh9c-6g8h] Prototype Pollution in mixme,https://github.com/advisories/GHSA-84p7-fh9c-6g8h,https://j.mp/2XzU3kF
