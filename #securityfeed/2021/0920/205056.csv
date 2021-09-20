@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rp65-9cf3-cjxr] Inefficient Regular Expression Complexity in nth-check,https://github.com/advisories/GHSA-rp65-9cf3-cjxr,https://j.mp/3nRazYP
+GithubAdvisories,[GHSA-8v63-cqqc-6r2c] Prototype Pollution in object-path,https://github.com/advisories/GHSA-8v63-cqqc-6r2c,https://j.mp/3nOJdTd
+GithubAdvisories,[GHSA-59g9-7gfx-c72p] Infinite loop in Tomcat due to parsing error,https://github.com/advisories/GHSA-59g9-7gfx-c72p,https://j.mp/3kqKBcE
+GithubAdvisories,[GHSA-rf3w-29h3-r636] Arbitrary Code Execution in feehi/cms,https://github.com/advisories/GHSA-rf3w-29h3-r636,https://j.mp/3CvaFtf
+GithubAdvisories,[GHSA-6q3p-36f4-cwxv] Server-Side Request Forgery in UReport,https://github.com/advisories/GHSA-6q3p-36f4-cwxv,https://j.mp/3zt8kwO
+GithubAdvisories,[GHSA-vvf2-ppj9-pp49] Inefficient Regular Expression Complexity in vuelidate,https://github.com/advisories/GHSA-vvf2-ppj9-pp49,https://j.mp/3hMWGa3
+GithubAdvisories,[GHSA-729f-wvj3-c4pj] Remote code execution in UReport,https://github.com/advisories/GHSA-729f-wvj3-c4pj,https://j.mp/2XKVQnF
+GithubAdvisories,[GHSA-hqhp-5p83-hx96] Regular Expression Denial of Service in prismjs,https://github.com/advisories/GHSA-hqhp-5p83-hx96,https://j.mp/2XDieiS
+GithubAdvisories,[GHSA-4gf2-xv97-63m2] Exposure of Sensitive Information in keycloak,https://github.com/advisories/GHSA-4gf2-xv97-63m2,https://j.mp/39lA0cv
+GithubAdvisories,[GHSA-cpq8-x35g-m439] Cross-site Scripting in yourls,https://github.com/advisories/GHSA-cpq8-x35g-m439,https://j.mp/2XAokjD
+GithubAdvisories,[GHSA-m9fq-c9hp-59g7] Cross-site Scripting in yourls,https://github.com/advisories/GHSA-m9fq-c9hp-59g7,https://j.mp/3iabWyj
+GithubAdvisories,[GHSA-f2c5-997w-7f5c] Cross-site Scripting in peertube,https://github.com/advisories/GHSA-f2c5-997w-7f5c,https://j.mp/3EBXs3B
+GithubAdvisories,[GHSA-44c6-4v22-4mhx] Regular Expression Denial of Service (ReDOS),https://github.com/advisories/GHSA-44c6-4v22-4mhx,https://j.mp/3nS3JCw
+GithubAdvisories,[GHSA-45h5-r968-5xr7] Exposure of sensitive information in Elasticsearch,https://github.com/advisories/GHSA-45h5-r968-5xr7,https://j.mp/3Aro8S1
+GithubAdvisories,[GHSA-jgrx-mgxx-jf9v] Regular Expression Denial of Service in tmpl,https://github.com/advisories/GHSA-jgrx-mgxx-jf9v,https://j.mp/3CpRGA4
+GithubAdvisories,[GHSA-rpw6-9xfx-jvcx] Directory Traversal in Archive_Tar,https://github.com/advisories/GHSA-rpw6-9xfx-jvcx,https://j.mp/32Hyu0Q
+GithubAdvisories,[GHSA-jh5x-hfhg-78jq] Multiple vulnerabilities through filename manipulation in Archive_Tar,https://github.com/advisories/GHSA-jh5x-hfhg-78jq,https://j.mp/3erGOr4
+GithubAdvisories,[GHSA-75c5-f4gw-38r9] Multiple vulnerabilities through filename manipulation in Archive_Tar,https://github.com/advisories/GHSA-75c5-f4gw-38r9,https://j.mp/3dHSgzP
+GithubAdvisories,[GHSA-7rp6-w7mg-h8rw] XML External Entity Reference in Apache Jena,https://github.com/advisories/GHSA-7rp6-w7mg-h8rw,https://j.mp/3tWpFNw
+GithubAdvisories,[GHSA-93q8-gq69-wqmw] Inefficient Regular Expression Complexity in chalk/ansi-regex,https://github.com/advisories/GHSA-93q8-gq69-wqmw,https://j.mp/3EEEN7w
