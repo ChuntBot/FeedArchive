@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rxq3-gm4p-5fj4] High severity vulnerability that affects rails,https://github.com/advisories/GHSA-rxq3-gm4p-5fj4,https://j.mp/2VTR6uU
+GithubAdvisories,"[GHSA-rxmr-c9jm-7mm8] Moderate severity vulnerability that affects org.apache.hive:hive, org.apache.hive:hive-exec, and org.apache.hive:hive-service",https://github.com/advisories/GHSA-rxmr-c9jm-7mm8,https://j.mp/3nQAz6I
+GithubAdvisories,[GHSA-rwr3-c2q8-gm56] Moderate severity vulnerability that affects Pillow,https://github.com/advisories/GHSA-rwr3-c2q8-gm56,https://j.mp/3kpCrBl
+GithubAdvisories,[GHSA-rvpq-5xqx-pfpp] High severity vulnerability that affects rails,https://github.com/advisories/GHSA-rvpq-5xqx-pfpp,https://j.mp/2W1k8ZO
