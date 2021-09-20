@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vgvf-9jh3-fg75] Moderate severity vulnerability that affects io.swagger:swagger-codegen and io.swagger:swagger-parser,https://github.com/advisories/GHSA-vgvf-9jh3-fg75,https://j.mp/3zv5asu
+GithubAdvisories,[GHSA-vf4q-8mr7-5c5c] High severity vulnerability that affects org.apache.camel:camel-castor,https://github.com/advisories/GHSA-vf4q-8mr7-5c5c,https://j.mp/3ELFP1B
+GithubAdvisories,[GHSA-vf23-f26f-mjj9] Moderate severity vulnerability that affects yourls/yourls,https://github.com/advisories/GHSA-vf23-f26f-mjj9,https://j.mp/3kmfQFz
+GithubAdvisories,[GHSA-vcr5-xr9h-mvc5] Moderate severity vulnerability that affects python-gnupg,https://github.com/advisories/GHSA-vcr5-xr9h-mvc5,https://j.mp/3nQaKna
