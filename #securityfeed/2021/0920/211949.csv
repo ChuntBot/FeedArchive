@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v9v4-7jp6-8c73] Moderate severity vulnerability that affects rails,https://github.com/advisories/GHSA-v9v4-7jp6-8c73,https://j.mp/3EBbZg1
+GithubAdvisories,[GHSA-v7x3-7hw7-pcjg] Moderate severity vulnerability that affects renovate,https://github.com/advisories/GHSA-v7x3-7hw7-pcjg,https://j.mp/3AtU6Nx
+GithubAdvisories,[GHSA-v7q8-wvvh-c97p] Moderate severity vulnerability that affects Zope2,https://github.com/advisories/GHSA-v7q8-wvvh-c97p,https://j.mp/3tUnFWl
+GithubAdvisories,[GHSA-v7mf-qgxf-qmvf] Low severity vulnerability that affects org.apache.ranger:ranger,https://github.com/advisories/GHSA-v7mf-qgxf-qmvf,https://j.mp/3lHjrh5
+GithubAdvisories,[GHSA-qhmp-h54x-38qr] CWE-730 Regex injection with IFTTT Plugin,https://github.com/advisories/GHSA-qhmp-h54x-38qr,https://j.mp/3AntDBk
