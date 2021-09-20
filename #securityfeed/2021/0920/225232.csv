@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w4vg-rf63-f3j3] Moderate severity vulnerability that affects Pillow,https://github.com/advisories/GHSA-w4vg-rf63-f3j3,https://j.mp/3EBi4Ju
+GithubAdvisories,[GHSA-w4r4-65mg-45x2] Moderate severity vulnerability that affects org.apache.spark:spark-core_2.10 and org.apache.spark:spark-core_2.11,https://github.com/advisories/GHSA-w4r4-65mg-45x2,https://j.mp/2XJhAAf
+GithubAdvisories,[GHSA-w4g2-9hj6-5472] Moderate severity vulnerability that affects com.rabbitmq:amqp-client and org.springframework.amqp:spring-amqp,https://github.com/advisories/GHSA-w4g2-9hj6-5472,https://j.mp/3AwhcTR
+GithubAdvisories,[GHSA-w3w8-37jv-2c58] Cross-Site Scripting in mustache,https://github.com/advisories/GHSA-w3w8-37jv-2c58,https://j.mp/2YPUTb2
+GithubAdvisories,[GHSA-w37c-q653-qg95] Moderate severity vulnerability that affects actionpack,https://github.com/advisories/GHSA-w37c-q653-qg95,https://j.mp/2XwTf0e
+GithubAdvisories,[GHSA-w285-wf9q-5w69] Moderate severity vulnerability that affects org.bouncycastle:bcprov-jdk14 and org.bouncycastle:bcprov-jdk15,https://github.com/advisories/GHSA-w285-wf9q-5w69,https://j.mp/3Eyy5jb
+GithubAdvisories,[GHSA-w248-xr37-jx8m] High severity vulnerability that affects fastreader,https://github.com/advisories/GHSA-w248-xr37-jx8m,https://j.mp/3lMTdK9
+GithubAdvisories,[GHSA-vxp9-wv2f-wqmw] High severity vulnerability that affects superset,https://github.com/advisories/GHSA-vxp9-wv2f-wqmw,https://j.mp/3lFHBsd
+GithubAdvisories,[GHSA-vxf6-w9mp-95hm] Low severity vulnerability that affects puppet,https://github.com/advisories/GHSA-vxf6-w9mp-95hm,https://j.mp/3zr3Uqr
+GithubAdvisories,[GHSA-vwxj-6m5m-rrvh] Moderate severity vulnerability that affects org.apache.struts:struts2-rest-plugin,https://github.com/advisories/GHSA-vwxj-6m5m-rrvh,https://j.mp/3EA24Hu
