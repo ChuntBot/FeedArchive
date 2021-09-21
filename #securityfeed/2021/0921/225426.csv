@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xmc8-cjfr-phx3] Regular Expression Denial of Service in highcharts,https://github.com/advisories/GHSA-xmc8-cjfr-phx3,https://j.mp/2CHuEvs
+GithubAdvisories,[GHSA-xm6r-4466-mr74] High severity vulnerability that affects com.orientechnologies:orientdb-core,https://github.com/advisories/GHSA-xm6r-4466-mr74,https://j.mp/3nUe28Z
+GithubAdvisories,[GHSA-xjrr-xv9m-4pw5] High severity vulnerability that affects com.alibaba:fastjson,https://github.com/advisories/GHSA-xjrr-xv9m-4pw5,https://j.mp/3hUVL7T
+GithubAdvisories,[GHSA-xhcq-fv7x-grr2] Critical severity vulnerability that affects org.apache.solr:solr-core,https://github.com/advisories/GHSA-xhcq-fv7x-grr2,https://j.mp/3hTSV2X
+GithubAdvisories,[GHSA-xgr2-v94m-rc9g] High severity vulnerability that affects activesupport,https://github.com/advisories/GHSA-xgr2-v94m-rc9g,https://j.mp/3lKwIWa
+GithubAdvisories,[GHSA-xgjc-49cw-529m] Moderate severity vulnerability that affects org.b3log:symphony,https://github.com/advisories/GHSA-xgjc-49cw-529m,https://j.mp/3zyWBwS
+GithubAdvisories,[GHSA-xgj6-pgrm-x4r2] Moderate severity vulnerability that affects gtk2,https://github.com/advisories/GHSA-xgj6-pgrm-x4r2,https://j.mp/3AxWFy6
+GithubAdvisories,[GHSA-xgc9-9w4v-h33h] High severity vulnerability that affects org.apache.syncope:syncope-core,https://github.com/advisories/GHSA-xgc9-9w4v-h33h,https://j.mp/3nVYb9O
+GithubAdvisories,[GHSA-xg75-3277-gvvj] Directory Traversal in serve,https://github.com/advisories/GHSA-xg75-3277-gvvj,https://j.mp/32LojIk
+GithubAdvisories,[GHSA-xf96-32q2-9rw2] High severity vulnerability that affects rails,https://github.com/advisories/GHSA-xf96-32q2-9rw2,https://j.mp/2XDzdRr
+GithubAdvisories,[GHSA-xcrm-qpp8-hcw4] Moderate severity vulnerability that affects org.apache.struts:struts2-rest-plugin,https://github.com/advisories/GHSA-xcrm-qpp8-hcw4,https://j.mp/3ku5Mun
+GithubAdvisories,[GHSA-xcp8-hh74-f6mc] Moderate severity vulnerability that affects oslo.middleware,https://github.com/advisories/GHSA-xcp8-hh74-f6mc,https://j.mp/3EHcwwQ
+GithubAdvisories,[GHSA-x8f7-h444-97w4] High severity vulnerability that affects DotNetNuke.Core,https://github.com/advisories/GHSA-x8f7-h444-97w4,https://j.mp/3zpbl1i
+GithubAdvisories,[GHSA-x88j-93vc-wpmp] Moderate severity vulnerability that affects django,https://github.com/advisories/GHSA-x88j-93vc-wpmp,https://j.mp/3zq6bSB
