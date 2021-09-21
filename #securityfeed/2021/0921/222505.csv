@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x84v-xcm2-53pg] Moderate severity vulnerability that affects requests,https://github.com/advisories/GHSA-x84v-xcm2-53pg,https://j.mp/3ktJp86
+GithubAdvisories,[GHSA-x825-rjww-2245] Moderate severity vulnerability that affects org.apache.storm:storm-core,https://github.com/advisories/GHSA-x825-rjww-2245,https://j.mp/3zuqSwS
+GithubAdvisories,[GHSA-x7rv-cr6v-4vm4] Moderate severity vulnerability that affects loofah,https://github.com/advisories/GHSA-x7rv-cr6v-4vm4,https://j.mp/3ktJwR4
+GithubAdvisories,[GHSA-x7p2-x2j6-mwhr] Moderate severity vulnerability that affects gemirro,https://github.com/advisories/GHSA-x7p2-x2j6-mwhr,https://j.mp/3o2IP3k
+GithubAdvisories,[GHSA-x6fg-f45m-jf5q] Regular Expression Denial of Service in semver,https://github.com/advisories/GHSA-x6fg-f45m-jf5q,https://j.mp/34LD9Br
+GithubAdvisories,[GHSA-x64g-wjmw-w328] Moderate severity vulnerability that affects ironic-discoverd,https://github.com/advisories/GHSA-x64g-wjmw-w328,https://j.mp/3hUsKsQ
+GithubAdvisories,[GHSA-x5x7-3v85-wpc4] Moderate severity vulnerability that affects org.apache.struts:struts2-core,https://github.com/advisories/GHSA-x5x7-3v85-wpc4,https://j.mp/3tZkn40
+GithubAdvisories,[GHSA-x4cm-m36h-c6qj] Moderate severity vulnerability that affects ansible,https://github.com/advisories/GHSA-x4cm-m36h-c6qj,https://j.mp/3lP36qn
+GithubAdvisories,[GHSA-x489-jjwm-52g7] Low severity vulnerability that affects devise-two-factor,https://github.com/advisories/GHSA-x489-jjwm-52g7,https://j.mp/3lLkWLd
+GithubAdvisories,[GHSA-x457-cw4h-hq5f] High severity vulnerability that affects json,https://github.com/advisories/GHSA-x457-cw4h-hq5f,https://j.mp/3jNkYjC
+GithubAdvisories,[GHSA-x3g3-334f-q6h4] Moderate severity vulnerability that affects editor.md,https://github.com/advisories/GHSA-x3g3-334f-q6h4,https://j.mp/3zvqpKL
+GithubAdvisories,[GHSA-x2rg-fmcv-crq5] Moderate severity vulnerability that affects DotNetNuke.Core,https://github.com/advisories/GHSA-x2rg-fmcv-crq5,https://j.mp/3CEdiZT
+GithubAdvisories,[GHSA-wwmf-6p58-6vj2] High severity vulnerability that affects rwiki,https://github.com/advisories/GHSA-wwmf-6p58-6vj2,https://j.mp/3nU55wo
