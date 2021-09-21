@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w578-j992-554x] Moderate severity vulnerability that affects ansible,https://github.com/advisories/GHSA-w578-j992-554x,https://j.mp/3ztH29C
+GithubAdvisories,"[GHSA-w4x9-4f5x-8jj8] Low severity vulnerability that affects org.apache.hive:hive-exec, org.apache.hive:hive, and org.apache.hive:hive-service",https://github.com/advisories/GHSA-w4x9-4f5x-8jj8,https://j.mp/39pUa5c
