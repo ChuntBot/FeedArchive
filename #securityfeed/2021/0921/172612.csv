@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fx46-whrj-73v5] Bypassing Sanitization using DOM clobbering in html-janitor,https://github.com/advisories/GHSA-fx46-whrj-73v5,https://j.mp/2QFZMPp
