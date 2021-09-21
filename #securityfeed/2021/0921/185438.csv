@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4jg2-84c2-pj95] Improper Control of Generation of Code ('Code Injection') in @asyncapi/modelina,https://github.com/advisories/GHSA-4jg2-84c2-pj95,https://j.mp/3CC2rzk
+GithubAdvisories,[GHSA-wfwm-chj7-w59r] Moderate severity vulnerability that affects ox,https://github.com/advisories/GHSA-wfwm-chj7-w59r,https://j.mp/3u3bAxV
+GithubAdvisories,[GHSA-vw47-mr44-3jf9] Confused Deputy in Kubernetes,https://github.com/advisories/GHSA-vw47-mr44-3jf9,https://j.mp/3CAp1IG
+GithubAdvisories,[GHSA-74j8-88mm-7496] Confused Deputy in Kubernetes,https://github.com/advisories/GHSA-74j8-88mm-7496,https://j.mp/2VZR7xr
