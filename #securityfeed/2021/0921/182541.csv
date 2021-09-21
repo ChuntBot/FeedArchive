@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wcm2-9c89-wmfm] Moderate severity vulnerability that affects jquery-ui,https://github.com/advisories/GHSA-wcm2-9c89-wmfm,https://j.mp/2XGDILM
+GithubAdvisories,[GHSA-w7q9-xr2x-wh7x] Moderate severity vulnerability that affects delayed_job_web,https://github.com/advisories/GHSA-w7q9-xr2x-wh7x,https://j.mp/3zuYf2G
+GithubAdvisories,[GHSA-w754-gq8r-pf5f] High severity vulnerability that affects mini_magick,https://github.com/advisories/GHSA-w754-gq8r-pf5f,https://j.mp/3AxbGAe
+GithubAdvisories,[GHSA-w6j4-3gh2-9f5j] High severity vulnerability that affects apache-airflow,https://github.com/advisories/GHSA-w6j4-3gh2-9f5j,https://j.mp/3EErNyp
+GithubAdvisories,[GHSA-w6gv-3r3v-gwgj] Moderate severity vulnerability that affects org.keycloak:keycloak-core,https://github.com/advisories/GHSA-w6gv-3r3v-gwgj,https://j.mp/3EOSUHt
+GithubAdvisories,[GHSA-w6g3-v46q-5p28] Moderate severity vulnerability that affects org.apache.tika:tika-core,https://github.com/advisories/GHSA-w6g3-v46q-5p28,https://j.mp/3EOSUar
+GithubAdvisories,[GHSA-w64c-pxjj-h866] Moderate severity vulnerability that affects ansible,https://github.com/advisories/GHSA-w64c-pxjj-h866,https://j.mp/3kqxW9o
+GithubAdvisories,[GHSA-w5m8-5v9m-xhx5] Critical severity vulnerability that affects Haraka,https://github.com/advisories/GHSA-w5m8-5v9m-xhx5,https://j.mp/3nZNtPX
