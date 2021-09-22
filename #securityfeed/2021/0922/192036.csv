@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5vcm-3xc3-w7x3] Response Splitting from unsanitized headers,https://github.com/advisories/GHSA-5vcm-3xc3-w7x3,https://j.mp/3zAuc9L
+GithubAdvisories,[GHSA-jmqm-f2gx-4fjv] Sensitive information exposure through logs in npm-registry-fetch,https://github.com/advisories/GHSA-jmqm-f2gx-4fjv,https://j.mp/2VTgpKA
