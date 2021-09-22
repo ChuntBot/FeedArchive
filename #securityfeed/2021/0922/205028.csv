@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-82mg-x548-gq3j] LDAP Injection in ldapauth,https://github.com/advisories/GHSA-82mg-x548-gq3j,https://j.mp/32WZFov
+GithubAdvisories,[GHSA-qh7x-j4v8-qw5w] Clipboard-based XSS,https://github.com/advisories/GHSA-qh7x-j4v8-qw5w,https://j.mp/3u4TyeP
+GithubAdvisories,[GHSA-vrxp-mg9f-hwf3] Improperly Implemented path matching for in-toto-golang,https://github.com/advisories/GHSA-vrxp-mg9f-hwf3,https://j.mp/3Cx7nFG
+GithubAdvisories,[GHSA-55r9-7mf8-m382] Cross-site Scripting in edge.js,https://github.com/advisories/GHSA-55r9-7mf8-m382,https://j.mp/39wfAgV
+GithubAdvisories,[GHSA-f3pp-32qc-36w4] Prototype Pollution in jointjs,https://github.com/advisories/GHSA-f3pp-32qc-36w4,https://j.mp/2Zs0dEN
+GithubAdvisories,[GHSA-m489-xr35-fjxr] Regular Expression Denial of Service in millisecond,https://github.com/advisories/GHSA-m489-xr35-fjxr,https://j.mp/3AAsSFh
+GithubAdvisories,[GHSA-9h4g-27m8-qjrg] Path Traversal in socket.io-file,https://github.com/advisories/GHSA-9h4g-27m8-qjrg,https://j.mp/2ABKFC3
+GithubAdvisories,[GHSA-wwgf-3xp7-cxj4] Potentially sensitive data exposure in Symfony Web Socket Bundle,https://github.com/advisories/GHSA-wwgf-3xp7-cxj4,https://j.mp/3iE0eKC
