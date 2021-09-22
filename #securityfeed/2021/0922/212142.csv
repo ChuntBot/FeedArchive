@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9g2w-5f3v-mfmm] Insecure default config of Celery worker in Apache Airflow,https://github.com/advisories/GHSA-9g2w-5f3v-mfmm,https://j.mp/2X3bKpI
+GithubAdvisories,[GHSA-976r-qfjj-c24w] Command injection via Celery broker in Apache Airflow,https://github.com/advisories/GHSA-976r-qfjj-c24w,https://j.mp/3g8gbHi
+GithubAdvisories,[GHSA-rvmq-4x66-q7j3] Remote code execution in Apache Airflow,https://github.com/advisories/GHSA-rvmq-4x66-q7j3,https://j.mp/2CQyHpe
+GithubAdvisories,[GHSA-7phr-5m9x-rw9q] Directory traversal in fast-http,https://github.com/advisories/GHSA-7phr-5m9x-rw9q,https://j.mp/2OZFy27
+GithubAdvisories,[GHSA-f7f4-hqp2-7prc] Improper Input Validation in sails-hook-sockets,https://github.com/advisories/GHSA-f7f4-hqp2-7prc,https://j.mp/2OVL464
+GithubAdvisories,[GHSA-wvh7-5p38-2qfc] Storing Password in Local Storage,https://github.com/advisories/GHSA-wvh7-5p38-2qfc,https://j.mp/39rnVSf
+GithubAdvisories,[GHSA-43jj-2rwc-2m3f] Broken access control on files,https://github.com/advisories/GHSA-43jj-2rwc-2m3f,https://j.mp/38ZZVFR
+GithubAdvisories,[GHSA-7xcx-6wjh-7xp2] Command Injection in standard-version,https://github.com/advisories/GHSA-7xcx-6wjh-7xp2,https://j.mp/30b87yM
