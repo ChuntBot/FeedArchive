@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xqh8-5j36-4556] SQL Injection in connect-pg-simple,https://github.com/advisories/GHSA-xqh8-5j36-4556,https://j.mp/3bp8Hyp
+GithubAdvisories,[GHSA-xpm8-98mx-h4c5] Critical severity vulnerability that affects MLAlchemy,https://github.com/advisories/GHSA-xpm8-98mx-h4c5,https://j.mp/3AxkwxT
+GithubAdvisories,[GHSA-xp5m-4c9f-498q] Moderate severity vulnerability that affects django-epiceditor,https://github.com/advisories/GHSA-xp5m-4c9f-498q,https://j.mp/3zDq356
