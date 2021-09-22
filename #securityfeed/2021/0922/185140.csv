@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jcq3-cprp-m333] Privilege escalation in mysql-connector-jav,https://github.com/advisories/GHSA-jcq3-cprp-m333,https://j.mp/2VCji1Z
+GithubAdvisories,[GHSA-rgh3-987h-wpmw] XML External Entity Injection in XStream,https://github.com/advisories/GHSA-rgh3-987h-wpmw,https://j.mp/3eOoKXj
+GithubAdvisories,[GHSA-7hwc-46rm-65jh] Denial of service in XStream,https://github.com/advisories/GHSA-7hwc-46rm-65jh,https://j.mp/2ZtjIJ8
+GithubAdvisories,[GHSA-xfv3-rrfm-f2rv] Information Exposure in Netty,https://github.com/advisories/GHSA-xfv3-rrfm-f2rv,https://j.mp/3dNxdbU
+GithubAdvisories,[GHSA-9959-6p3m-wxpc] Denial of service in Netty,https://github.com/advisories/GHSA-9959-6p3m-wxpc,https://j.mp/31rG6FA
+GithubAdvisories,[GHSA-w3f4-3q6j-rh82] Deserialization of Untrusted Data in jackson-databind,https://github.com/advisories/GHSA-w3f4-3q6j-rh82,https://j.mp/3gbjqgT
+GithubAdvisories,[GHSA-g753-jx37-7xwh] ECDSA signature vulnerability of Minerva timing attack in jsrsasign,https://github.com/advisories/GHSA-g753-jx37-7xwh,https://j.mp/2CNTFES
+GithubAdvisories,[GHSA-p8c3-7rj8-q963] ECDSA signature validation vulnerability by accepting wrong ASN.1 encoding in jsrsasign,https://github.com/advisories/GHSA-p8c3-7rj8-q963,https://j.mp/2CEVEv7
+GithubAdvisories,[GHSA-j3rh-8vwq-wh84] Use of Cryptographically Weak Pseudo-Random Number Generator in JHipster Kotlin,https://github.com/advisories/GHSA-j3rh-8vwq-wh84,https://j.mp/3834vm9
+GithubAdvisories,[GHSA-4448-rc82-fcr7] Path Traversal in serve-here.js,https://github.com/advisories/GHSA-4448-rc82-fcr7,https://j.mp/3Ay0m6V
+GithubAdvisories,[GHSA-q3gh-5r98-j4h3] RSA-PSS signature validation vulnerability by prepending zeros in jsrsasign,https://github.com/advisories/GHSA-q3gh-5r98-j4h3,https://j.mp/2B45UNl
+GithubAdvisories,[GHSA-xxxq-chmp-67g4] RSA PKCS#1 decryption vulnerability with prepending zeros in jsrsasign,https://github.com/advisories/GHSA-xxxq-chmp-67g4,https://j.mp/38667eT
+GithubAdvisories,[GHSA-6r3c-8xf3-ggrr] Directory traversal outside of SENDFILE_ROOT in django-sendfile2,https://github.com/advisories/GHSA-6r3c-8xf3-ggrr,https://j.mp/2BzqIvR
+GithubAdvisories,[GHSA-v4rh-8p82-6h5w] Regular expression denial of service in url-regex,https://github.com/advisories/GHSA-v4rh-8p82-6h5w,https://j.mp/3fKuLUW
+GithubAdvisories,[GHSA-g8m7-qhv7-9h5x] Path Traversal in serve-here.js,https://github.com/advisories/GHSA-g8m7-qhv7-9h5x,https://j.mp/2RGuFE5
+GithubAdvisories,[GHSA-mhp6-pxh8-r675] Cross site scripting in Angular,https://github.com/advisories/GHSA-mhp6-pxh8-r675,https://j.mp/2AFcJEV
+GithubAdvisories,[GHSA-h56m-vwxc-3qpw] Moderate severity vulnerability that affects actionpack,https://github.com/advisories/GHSA-h56m-vwxc-3qpw,https://j.mp/2UT6ynq
+GithubAdvisories,[GHSA-xxvw-45rp-3mj2] Deserialization Code Execution in js-yaml,https://github.com/advisories/GHSA-xxvw-45rp-3mj2,https://j.mp/2YPUB3W
+GithubAdvisories,[GHSA-xxr8-833v-c7wc] Moderate severity vulnerability that affects rails,https://github.com/advisories/GHSA-xxr8-833v-c7wc,https://j.mp/3ky3eeF
+GithubAdvisories,[GHSA-xx65-cc7g-9pfp] Moderate severity vulnerability that affects org.springframework.boot:spring-boot,https://github.com/advisories/GHSA-xx65-cc7g-9pfp,https://j.mp/3CDEV5i
+GithubAdvisories,[GHSA-8r4g-cg4m-x23c] Denial of Service in node-static,https://github.com/advisories/GHSA-8r4g-cg4m-x23c,https://j.mp/3kz31aU
+GithubAdvisories,[GHSA-xwr3-fmgj-mmfr] Moderate severity vulnerability that affects bio-basespace-sdk,https://github.com/advisories/GHSA-xwr3-fmgj-mmfr,https://j.mp/3zBtzwy
+GithubAdvisories,[GHSA-xwjh-cp99-cj8q] Path Traversal in cordova-plugin-ionic-webview,https://github.com/advisories/GHSA-xwjh-cp99-cj8q,https://j.mp/3bbowIC
