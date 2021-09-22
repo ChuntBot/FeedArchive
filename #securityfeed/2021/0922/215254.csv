@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hx5g-8hq2-8x4w] SQL Injection in Kylin,https://github.com/advisories/GHSA-hx5g-8hq2-8x4w,https://j.mp/2X3Oh7X
+GithubAdvisories,[GHSA-qwfw-gxx2-mmv2] Command Injection in Kylin,https://github.com/advisories/GHSA-qwfw-gxx2-mmv2,https://j.mp/3g5vmkP
+GithubAdvisories,[GHSA-cqhg-xjhh-p8hf] Out-of-bounds reads in Pillow,https://github.com/advisories/GHSA-cqhg-xjhh-p8hf,https://j.mp/2PdXcQ5
+GithubAdvisories,[GHSA-8843-m7mw-mxqm] Buffer overflow in Pillow,https://github.com/advisories/GHSA-8843-m7mw-mxqm,https://j.mp/30RS5u7
+GithubAdvisories,[GHSA-vj42-xq3r-hr3r] Out-of-bounds reads in Pillow,https://github.com/advisories/GHSA-vj42-xq3r-hr3r,https://j.mp/39BRyk6
+GithubAdvisories,[GHSA-43fq-w8qq-v88h] Out-of-bounds read in Pillow,https://github.com/advisories/GHSA-43fq-w8qq-v88h,https://j.mp/304zprR
+GithubAdvisories,[GHSA-vc9j-fhvv-8vrf] Remote Code Execution in scratch-vm,https://github.com/advisories/GHSA-vc9j-fhvv-8vrf,https://j.mp/304xJyA
+GithubAdvisories,[GHSA-j38c-25fj-mr84] Stored XSS in Apache Airflow,https://github.com/advisories/GHSA-j38c-25fj-mr84,https://j.mp/2X11Vsw
+GithubAdvisories,[GHSA-q4p3-qw5c-mhpc] Multiple stored XSS in RBAC Admin screens in Apache Airflow,https://github.com/advisories/GHSA-q4p3-qw5c-mhpc,https://j.mp/31641sv
