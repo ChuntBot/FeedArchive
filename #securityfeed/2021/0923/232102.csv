@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3j6g-hxx5-3q26] Observable Discrepancy in Apache Kafka,https://github.com/advisories/GHSA-3j6g-hxx5-3q26,https://j.mp/3AR5NOR
+GithubAdvisories,[GHSA-65p7-pjj8-ggmr] Member account takeover,https://github.com/advisories/GHSA-65p7-pjj8-ggmr,https://j.mp/3o05mht
+GithubAdvisories,[GHSA-xpwj-7v8q-mcgj] Static imports inside dynamically imported modules do not adhere to permission checks,https://github.com/advisories/GHSA-xpwj-7v8q-mcgj,https://j.mp/3lXYheN
+GithubAdvisories,[GHSA-fpv6-f8jw-rc3r] Remote code execution via the web UI backend,https://github.com/advisories/GHSA-fpv6-f8jw-rc3r,https://j.mp/2ZlElKV
+GithubAdvisories,[GHSA-hpf7-4c2g-9chf] Remote Code Execution in Halibut,https://github.com/advisories/GHSA-hpf7-4c2g-9chf,https://j.mp/3nXbN4S
+GithubAdvisories,[GHSA-2pfh-q76x-gwvm] Improper Input Validation and Command Injection in Ansible,https://github.com/advisories/GHSA-2pfh-q76x-gwvm,https://j.mp/2XLYgCB
+GithubAdvisories,[GHSA-x38q-xg2h-rxgx] Regular Expression Denial of Service in Leo Editor,https://github.com/advisories/GHSA-x38q-xg2h-rxgx,https://j.mp/3EF7NMa
+GithubAdvisories,[GHSA-hv5f-73mr-7vvj] Cross-site Scripting in Mattermost,https://github.com/advisories/GHSA-hv5f-73mr-7vvj,https://j.mp/2ZlEmhX
