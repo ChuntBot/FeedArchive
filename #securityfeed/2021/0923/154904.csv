@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q879-9g95-56mx] Wrong type for `Linker`-define functions when used across two `Engine`s,https://github.com/advisories/GHSA-q879-9g95-56mx,https://j.mp/3CKO0tb
+GithubAdvisories,[GHSA-4873-36h9-wv49] Out-of-bounds read/write and invalid free with `externref`s and GC safepoints in Wasmtime,https://github.com/advisories/GHSA-4873-36h9-wv49,https://j.mp/3u42dhH
+GithubAdvisories,[GHSA-v4cp-h94r-m7xf] Use after free passing `externref`s to Wasm in Wasmtime,https://github.com/advisories/GHSA-v4cp-h94r-m7xf,https://j.mp/3CGL6Wg
+GithubAdvisories,[GHSA-mc22-5q92-8v85] Memory Safety Issue when using patch or merge on state and assign the result back to state,https://github.com/advisories/GHSA-mc22-5q92-8v85,https://j.mp/3o50yau
+GithubAdvisories,[GHSA-qgm6-9472-pwq7] Integer Overflow in openssl-src,https://github.com/advisories/GHSA-qgm6-9472-pwq7,https://j.mp/3o50sQa
+GithubAdvisories,[GHSA-82hm-vh7g-hrh9] Partial read is incorrect in molecule,https://github.com/advisories/GHSA-82hm-vh7g-hrh9,https://j.mp/39wpz61
+GithubAdvisories,[GHSA-p24j-h477-76q3] Uncontrolled Search Path Element in sharkdp/bat,https://github.com/advisories/GHSA-p24j-h477-76q3,https://j.mp/3EKcBjk
+GithubAdvisories,[GHSA-5xg3-j2j6-rcx4] Relative Path Traversal in git-delta,https://github.com/advisories/GHSA-5xg3-j2j6-rcx4,https://j.mp/3lPaItf
