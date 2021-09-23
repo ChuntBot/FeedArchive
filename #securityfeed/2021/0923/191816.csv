@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-49rv-g7w5-m8xx] Cross-Site Scripting in @novnc/novnc,https://github.com/advisories/GHSA-49rv-g7w5-m8xx,https://j.mp/34HBnRH
+GithubAdvisories,[GHSA-gr4j-r575-g665] Cross-Site Scripting in highcharts,https://github.com/advisories/GHSA-gr4j-r575-g665,https://j.mp/3aSovt9
+GithubAdvisories,[GHSA-pwqf-9h7j-7mv8] Incorrect threshold signature computation in TUF,https://github.com/advisories/GHSA-pwqf-9h7j-7mv8,https://j.mp/2QggowO
+GithubAdvisories,[GHSA-2828-9vh6-9m6j] Client Denial of Service on TUF,https://github.com/advisories/GHSA-2828-9vh6-9m6j,https://j.mp/31jfUwl
+GithubAdvisories,[GHSA-cf8j-64h9-6q58] CSRF in Play Framework,https://github.com/advisories/GHSA-cf8j-64h9-6q58,https://j.mp/3aCFu2q
+GithubAdvisories,[GHSA-f93j-hmcr-jcwh] Data Injection Vulnerability in moped Rubygem,https://github.com/advisories/GHSA-f93j-hmcr-jcwh,https://j.mp/3hdcsJ5
+GithubAdvisories,[GHSA-j7wp-vjj6-cp5m] Cross-Site Scripting in @progress/kendo-angular-editor,https://github.com/advisories/GHSA-j7wp-vjj6-cp5m,https://j.mp/30NeQ3y
+GithubAdvisories,[GHSA-3j95-fjv2-3m4p] CSS Injection in Chartkick gem,https://github.com/advisories/GHSA-3j95-fjv2-3m4p,https://j.mp/2Fjnkar
+GithubAdvisories,[GHSA-hxcc-f52p-wc94] Insecure serialization leading to RCE in serialize-javascript,https://github.com/advisories/GHSA-hxcc-f52p-wc94,https://j.mp/2XP2Ht9
+GithubAdvisories,[GHSA-q6j3-c4wc-63vw] CSRF tokens leaked in URL by canned query form,https://github.com/advisories/GHSA-q6j3-c4wc-63vw,https://j.mp/31FSqAy
+GithubAdvisories,[GHSA-5cp4-xmrw-59wf] XSS via JQLite DOM manipulation functions in AngularJS,https://github.com/advisories/GHSA-5cp4-xmrw-59wf,https://j.mp/31iGTqC
