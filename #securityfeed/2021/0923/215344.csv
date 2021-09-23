@@ -1,0 +1,35 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r5xw-q988-826m] Remote Memory Exposure in mongoose,https://github.com/advisories/GHSA-r5xw-q988-826m,https://j.mp/2YYqvLI
+GithubAdvisories,[GHSA-hpr5-wp7c-hh5q] Cross-Site Scripting in mrk.js,https://github.com/advisories/GHSA-hpr5-wp7c-hh5q,https://j.mp/3bjgZYA
+GithubAdvisories,[GHSA-8c8c-4vfj-rrpc] Reflected Cross-Site Scripting in redis-commander,https://github.com/advisories/GHSA-8c8c-4vfj-rrpc,https://j.mp/3i2Bifr
+GithubAdvisories,[GHSA-m4vv-p6fq-jhqp] Directory Traversal in @vivaxy/here,https://github.com/advisories/GHSA-m4vv-p6fq-jhqp,https://j.mp/2QMx0wG
+GithubAdvisories,[GHSA-7x92-2j68-h32c] Directory Traversal in featurebook,https://github.com/advisories/GHSA-7x92-2j68-h32c,https://j.mp/32Q14Ni
+GithubAdvisories,[GHSA-4r5x-qjqc-p579] Tracking Module in botbait,https://github.com/advisories/GHSA-4r5x-qjqc-p579,https://j.mp/2GkHIbJ
+GithubAdvisories,[GHSA-g376-whg7-896m] Directory Traversal in yjmyjmyjm,https://github.com/advisories/GHSA-g376-whg7-896m,https://j.mp/3jsHNIC
+GithubAdvisories,[GHSA-wmcq-3wfx-qjx5] Directory Traversal in nodeload-nmickuli,https://github.com/advisories/GHSA-wmcq-3wfx-qjx5,https://j.mp/34T4eCx
+GithubAdvisories,[GHSA-224h-p7p5-rh85] Directory Traversal in wenluhong1,https://github.com/advisories/GHSA-224h-p7p5-rh85,https://j.mp/3lDdwbL
+GithubAdvisories,[GHSA-hfq9-rfpv-j8r8] Command Injection in pidusage,https://github.com/advisories/GHSA-hfq9-rfpv-j8r8,https://j.mp/2EPmMJj
+GithubAdvisories,[GHSA-63m4-fhf2-cmf7] Command Execution in windows-cpu,https://github.com/advisories/GHSA-63m4-fhf2-cmf7,https://j.mp/31OZqfu
+GithubAdvisories,[GHSA-mj87-8xf8-fp4w] Cross-Site Scripting in yui,https://github.com/advisories/GHSA-mj87-8xf8-fp4w,https://j.mp/34OyLl8
+GithubAdvisories,[GHSA-2r7f-4h2c-5x73] Arbitrary File Read in fury-adapter-swagger,https://github.com/advisories/GHSA-2r7f-4h2c-5x73,https://j.mp/2QJqN4v
+GithubAdvisories,[GHSA-v3jv-wrf4-5845] Local Privilege Escalation in npm,https://github.com/advisories/GHSA-v3jv-wrf4-5845,https://j.mp/2EPhuNU
+GithubAdvisories,[GHSA-hg78-c92r-hvwr] Denial of Service in mqtt,https://github.com/advisories/GHSA-hg78-c92r-hvwr,https://j.mp/3hOLIyN
+GithubAdvisories,[GHSA-cjj8-wfrx-jqcf] Cross-Site Scripting (XSS) in pivottable,https://github.com/advisories/GHSA-cjj8-wfrx-jqcf,https://j.mp/2EPa9xT
+GithubAdvisories,[GHSA-gvg7-pp82-cff3] Cross-Site Scripting in c3,https://github.com/advisories/GHSA-gvg7-pp82-cff3,https://j.mp/2YWTdwe
+GithubAdvisories,[GHSA-g336-c7wv-8hp3] Cross-Site Scripting in swagger-ui,https://github.com/advisories/GHSA-g336-c7wv-8hp3,https://j.mp/3gJZdhX
+GithubAdvisories,[GHSA-4v9q-hm2p-68c4] Spoofing attack due to unvalidated KDC in node-krb5,https://github.com/advisories/GHSA-4v9q-hm2p-68c4,https://j.mp/3bhGUQ9
+GithubAdvisories,[GHSA-fwcw-5qw2-87mp] Cross-Site Scripting in fuelux,https://github.com/advisories/GHSA-fwcw-5qw2-87mp,https://j.mp/3bg8Tje
+GithubAdvisories,[GHSA-gjhx-gxwx-jx9j] Cross-Site Scripting in jqtree,https://github.com/advisories/GHSA-gjhx-gxwx-jx9j,https://j.mp/3bgc7Dn
+GithubAdvisories,[GHSA-mrx7-8hxf-f853] Cross-Site Scripting in swagger-ui,https://github.com/advisories/GHSA-mrx7-8hxf-f853,https://j.mp/32IqT20
+GithubAdvisories,[GHSA-46m8-42hm-wvvw] Cross-Site Scripting in emojione,https://github.com/advisories/GHSA-46m8-42hm-wvvw,https://j.mp/31NLzGz
+GithubAdvisories,[GHSA-v5hp-35hw-cw5x] XSS in client rendered block templates in rendr,https://github.com/advisories/GHSA-v5hp-35hw-cw5x,https://j.mp/2QLTLRo
+GithubAdvisories,[GHSA-p239-93f7-h6xf] Cross-Site Scripting in swagger-ui,https://github.com/advisories/GHSA-p239-93f7-h6xf,https://j.mp/3blgnRZ
+GithubAdvisories,[GHSA-c7pp-g2v2-2766] DOM-based XSS in gmail-js,https://github.com/advisories/GHSA-c7pp-g2v2-2766,https://j.mp/2YS3ha4
+GithubAdvisories,[GHSA-v2jq-9475-r5g8] Cross-Site Scripting in bootstrap-tagsinput,https://github.com/advisories/GHSA-v2jq-9475-r5g8,https://j.mp/3bkNyp0
+GithubAdvisories,[GHSA-7f59-x49p-v8mq] Cross-Site Scripting in swagger-ui,https://github.com/advisories/GHSA-7f59-x49p-v8mq,https://j.mp/2YWYiop
+GithubAdvisories,[GHSA-5v9h-q3gj-c32x] SQL Injection via GeoJSON in sequelize,https://github.com/advisories/GHSA-5v9h-q3gj-c32x,https://j.mp/31MMsPn
+GithubAdvisories,[GHSA-p788-rj37-357w] Insecure Defaults Leads to Potential MITM in ezseed-transmission,https://github.com/advisories/GHSA-p788-rj37-357w,https://j.mp/3lAuoQy
+GithubAdvisories,[GHSA-39cx-xcwj-3rc4] Cross-Site Scripting in dojo,https://github.com/advisories/GHSA-39cx-xcwj-3rc4,https://j.mp/2YWnc7B
+GithubAdvisories,[GHSA-r87w-47m8-22w3] Template Injection in jsrender,https://github.com/advisories/GHSA-r87w-47m8-22w3,https://j.mp/2YUfESJ
+GithubAdvisories,[GHSA-gjcw-v447-2w7q] Forgeable Public/Private Tokens in jws,https://github.com/advisories/GHSA-gjcw-v447-2w7q,https://j.mp/3jCNKT8
+GithubAdvisories,[GHSA-pjh3-jv7w-9jpr] Command Injection in gm,https://github.com/advisories/GHSA-pjh3-jv7w-9jpr,https://j.mp/3gPEdX4
