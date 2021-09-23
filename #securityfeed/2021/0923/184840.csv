@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-whrh-9j4q-g7ph] CSRF Vulnerability in polaris-website,https://github.com/advisories/GHSA-whrh-9j4q-g7ph,https://j.mp/2ELEywH
+GithubAdvisories,[GHSA-v6fx-752r-ccp2] CSRF on PgHero gem,https://github.com/advisories/GHSA-v6fx-752r-ccp2,https://j.mp/2PtrDBE
+GithubAdvisories,[GHSA-w542-cpp9-r3g7] CSRF in Field Test,https://github.com/advisories/GHSA-w542-cpp9-r3g7,https://j.mp/2Xvw1Vr
