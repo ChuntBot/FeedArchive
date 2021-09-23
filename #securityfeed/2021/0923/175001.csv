@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vh7m-p724-62c2] Signature Malleabillity in elliptic,https://github.com/advisories/GHSA-vh7m-p724-62c2,https://j.mp/30WAUaV
+GithubAdvisories,[GHSA-57gr-jvqr-3hwm] Incorrect access control in typo3_forum,https://github.com/advisories/GHSA-57gr-jvqr-3hwm,https://j.mp/3jR4Fm6
+GithubAdvisories,[GHSA-vr98-27qj-3c8q] Directory traversal in rollup-plugin-server,https://github.com/advisories/GHSA-vr98-27qj-3c8q,https://j.mp/3ghGI5m
+GithubAdvisories,[GHSA-34gh-3cwv-wvp2] Directory traversal in rollup-plugin-server,https://github.com/advisories/GHSA-34gh-3cwv-wvp2,https://j.mp/39FdYkw
+GithubAdvisories,[GHSA-f97h-2pfx-f59f] HTTP response splitting in uvicorn,https://github.com/advisories/GHSA-f97h-2pfx-f59f,https://j.mp/2Exn2wb
+GithubAdvisories,[GHSA-8m73-w2r2-6xxj] Insecure defaults in UmbracoForms,https://github.com/advisories/GHSA-8m73-w2r2-6xxj,https://j.mp/33jvqKf
