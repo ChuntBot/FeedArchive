@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6qqj-rx4w-r3cj] CSRF Vulnerability in jquery-ujs,https://github.com/advisories/GHSA-6qqj-rx4w-r3cj,https://j.mp/34Qb6kn
+GithubAdvisories,[GHSA-363h-vj6q-3cmj] Rosetta-Flash JSONP Vulnerability in hapi,https://github.com/advisories/GHSA-363h-vj6q-3cmj,https://j.mp/32LSrDH
+GithubAdvisories,[GHSA-28gr-86hg-r48w] Unauthenticated Remote Command Injection in ep_imageconvert,https://github.com/advisories/GHSA-28gr-86hg-r48w,https://j.mp/34RFQBw
