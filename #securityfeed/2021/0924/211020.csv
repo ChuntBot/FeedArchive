@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9hqj-38j2-5jgm] Command Injection in ascii-art,https://github.com/advisories/GHSA-9hqj-38j2-5jgm,https://j.mp/3jFlQWV
+GithubAdvisories,[GHSA-77q4-m83q-w76v] Missing Origin Validation in browserify-hmr,https://github.com/advisories/GHSA-77q4-m83q-w76v,https://j.mp/3jArdX9
+GithubAdvisories,[GHSA-f5cv-xrv9-r8w7] NoSQL injection in express-cart,https://github.com/advisories/GHSA-f5cv-xrv9-r8w7,https://j.mp/3gLSHHL
+GithubAdvisories,[GHSA-992f-wf4w-x36v] Prototype Pollution in merge-objects,https://github.com/advisories/GHSA-992f-wf4w-x36v,https://j.mp/2Gl8DEj
+GithubAdvisories,[GHSA-g3qw-9pgp-xpj4] Out-of-bounds Read in njwt,https://github.com/advisories/GHSA-g3qw-9pgp-xpj4,https://j.mp/2GjpQho
+GithubAdvisories,[GHSA-8h8v-6qqm-fwpq] Path Traversal in express-cart,https://github.com/advisories/GHSA-8h8v-6qqm-fwpq,https://j.mp/3hQiXSA
