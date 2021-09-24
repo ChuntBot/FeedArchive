@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5gwh-g79j-vh4q] Command Injection in pdf-image,https://github.com/advisories/GHSA-5gwh-g79j-vh4q,https://j.mp/3jC4JVW
+GithubAdvisories,[GHSA-m7qm-r2r5-f77q] Cross-Site Scripting in react-marked-markdown,https://github.com/advisories/GHSA-m7qm-r2r5-f77q,https://j.mp/2EWMOtM
+GithubAdvisories,[GHSA-rvg8-pwq2-xj7q] Out-of-bounds Read in base64url,https://github.com/advisories/GHSA-rvg8-pwq2-xj7q,https://j.mp/3lGvpqo
