@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hx5x-49mm-vmhw] SQL Injection in sails-mysql,https://github.com/advisories/GHSA-hx5x-49mm-vmhw,https://j.mp/31Qrq2q
+GithubAdvisories,[GHSA-724c-6vrf-99rq] Sensitive Data Exposure in loopback,https://github.com/advisories/GHSA-724c-6vrf-99rq,https://j.mp/3lIMXlF
+GithubAdvisories,[GHSA-6fcr-9h9g-23fq] Denial of Service in ipfs-bitswap,https://github.com/advisories/GHSA-6fcr-9h9g-23fq,https://j.mp/350quKW
