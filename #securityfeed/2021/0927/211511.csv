@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fj93-7wm4-8x2g] Cross-Site Scripting in jquery-mobile,https://github.com/advisories/GHSA-fj93-7wm4-8x2g,https://j.mp/34VdhmJ
+GithubAdvisories,[GHSA-f2vv-h5x4-57gr] Leak of information via Store-API,https://github.com/advisories/GHSA-f2vv-h5x4-57gr,https://j.mp/2LB9eod
+GithubAdvisories,[GHSA-r9q4-w3fm-wrm2] Cross-Site Scripting in google-closure-library,https://github.com/advisories/GHSA-r9q4-w3fm-wrm2,https://j.mp/3bjVHKh
+GithubAdvisories,[GHSA-g7mw-5cq6-fv82] Cross-Site Scripting in wangeditor,https://github.com/advisories/GHSA-g7mw-5cq6-fv82,https://j.mp/2F3T3fm
+GithubAdvisories,[GHSA-jvg4-9rc2-wvcr] Generation of fake documents via public GET-call,https://github.com/advisories/GHSA-jvg4-9rc2-wvcr,https://j.mp/3a7kJNQ
+GithubAdvisories,[GHSA-7jh9-6cpf-h4m7] XSS in hello.js,https://github.com/advisories/GHSA-7jh9-6cpf-h4m7,https://j.mp/3sp59UT
+GithubAdvisories,[GHSA-cg48-9hh2-x6mx] HTML Injection in preact,https://github.com/advisories/GHSA-cg48-9hh2-x6mx,https://j.mp/32Riyck
+GithubAdvisories,[GHSA-2xwp-m7mq-7q3r] CLI does not correctly implement strict mode,https://github.com/advisories/GHSA-2xwp-m7mq-7q3r,https://j.mp/3kClq4d
+GithubAdvisories,[GHSA-mp9m-g7qj-6vqr] Unauthorized privilege escalation in Mod module,https://github.com/advisories/GHSA-mp9m-g7qj-6vqr,https://j.mp/3e1KQpC
+GithubAdvisories,[GHSA-94xh-2fmc-xf5j] command injection vulnerability,https://github.com/advisories/GHSA-94xh-2fmc-xf5j,https://j.mp/3kyk8HK
+GithubAdvisories,[GHSA-c27r-x354-4m68] HMAC-SHA1 signatures can bypass validation via key confusion,https://github.com/advisories/GHSA-c27r-x354-4m68,https://j.mp/2G4vy73
