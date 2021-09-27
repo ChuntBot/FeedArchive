@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6gvc-4jvj-pwq4] Use after free in libpulse-binding,https://github.com/advisories/GHSA-6gvc-4jvj-pwq4,https://j.mp/3m3fyD9
+GithubAdvisories,[GHSA-8wgc-jjvv-cv6v] Improper Authorization in loopback,https://github.com/advisories/GHSA-8wgc-jjvv-cv6v,https://j.mp/3gTxyLM
+GithubAdvisories,[GHSA-c7pp-x73h-4m2v] Cross-Site Scripting in bootstrap-vue,https://github.com/advisories/GHSA-c7pp-x73h-4m2v,https://j.mp/2Dqvddy
