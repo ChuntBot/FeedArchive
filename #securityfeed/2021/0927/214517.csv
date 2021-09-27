@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7p6w-x2gr-rrf8] Cross-Site Scripting in ag-grid-community,https://github.com/advisories/GHSA-7p6w-x2gr-rrf8,https://j.mp/35bMGlB
+GithubAdvisories,[GHSA-788m-pj96-7w2c] Cross-Site Scripting in fomantic-ui,https://github.com/advisories/GHSA-788m-pj96-7w2c,https://j.mp/2F2EQQc
+GithubAdvisories,[GHSA-mmc9-pwm7-qj5w] Unaligned memory access in rand_core,https://github.com/advisories/GHSA-mmc9-pwm7-qj5w,https://j.mp/3idiLih
