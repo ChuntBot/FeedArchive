@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9p5g-vg43-mj5r] Authenticated users can read data from other sources than intended,https://github.com/advisories/GHSA-9p5g-vg43-mj5r,https://j.mp/2XWLqBD
+GithubAdvisories,[GHSA-2rr5-8q37-2w7h] Improper Restriction of XML External Entity Reference (XXE) in Nokogiri on JRuby,https://github.com/advisories/GHSA-2rr5-8q37-2w7h,https://j.mp/3ictSrI
+GithubAdvisories,[GHSA-3c9c-2p65-qvwv] Prototype pollution in aurelia-path,https://github.com/advisories/GHSA-3c9c-2p65-qvwv,https://j.mp/3ibHIuL
