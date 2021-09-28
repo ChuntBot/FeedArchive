@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ccgm-3xw4-h5p8] Improper Restriction of XML External Entity Reference in pikepdf,https://github.com/advisories/GHSA-ccgm-3xw4-h5p8,https://j.mp/3vc1rP3
+GithubAdvisories,[GHSA-fvgf-6h6h-3322] Improper Limitation of a Pathname to a Restricted Directory,https://github.com/advisories/GHSA-fvgf-6h6h-3322,https://j.mp/3qXPsll
+GithubAdvisories,[GHSA-v6wp-4m6f-gcjg] Open redirect vulnerability in `aiohttp` (`normalize_path_middleware` middleware),https://github.com/advisories/GHSA-v6wp-4m6f-gcjg,https://j.mp/3pVAj3y
