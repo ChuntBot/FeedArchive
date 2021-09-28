@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f366-4rvv-95x2] Buffer overflow in deprecated USB HALs and stack overflow in USB enumeration,https://github.com/advisories/GHSA-f366-4rvv-95x2,https://j.mp/34mJsJR
