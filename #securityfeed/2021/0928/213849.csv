@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h97g-4mx7-5p2p] Open Redirect in apostrophe,https://github.com/advisories/GHSA-h97g-4mx7-5p2p,https://j.mp/32YjewF
+GithubAdvisories,[GHSA-9qgh-7pgp-hp7r] Cross-Site Scripting in graylog-web-interface,https://github.com/advisories/GHSA-9qgh-7pgp-hp7r,https://j.mp/3gQLR3C
+GithubAdvisories,[GHSA-crf7-fvjx-863q] Path Traversal in zero,https://github.com/advisories/GHSA-crf7-fvjx-863q,https://j.mp/32VpJjK
+GithubAdvisories,[GHSA-r32x-jhw5-g48p] Cross-Site Scripting in eco,https://github.com/advisories/GHSA-r32x-jhw5-g48p,https://j.mp/3lNaGRF
