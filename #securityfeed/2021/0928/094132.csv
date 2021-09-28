@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+ExploitDB,[remote] Apache James Server 2.3.2 - Remote Command Execution (RCE) (Authenticated) (2),https://www.exploit-db.com/exploits/50347,https://j.mp/3m2DWFa
+ExploitDB,[webapps] WordPress Plugin Popup 1.10.4 - Reflected Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50346,https://j.mp/3uf3na8
+ExploitDB,[webapps] WordPress Plugin Ultimate Maps 1.2.4 - Reflected Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50345,https://j.mp/3m3NVdk
+ExploitDB,[webapps] WordPress Plugin Contact Form 1.7.14 - Reflected Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50344,https://j.mp/3AO5e8r
+ExploitDB,[webapps] WordPress Plugin TranslatePress 2.0.8 - Stored Cross-Site Scripting (XSS) (Authenticated),https://www.exploit-db.com/exploits/50343,https://j.mp/3iddGa2
+ExploitDB,[webapps] FatPipe Networks WARP/IPVPN/MPVPN 10.2.2 - Remote Privilege Escalation,https://www.exploit-db.com/exploits/50342,https://j.mp/3APpoii
+ExploitDB,[webapps] FatPipe Networks WARP/IPVPN/MPVPN 10.2.2 - Hidden Backdoor Account (Write Access),https://www.exploit-db.com/exploits/50341,https://j.mp/2XWtQNG
+ExploitDB,[webapps] FatPipe Networks WARP/IPVPN/MPVPN 10.2.2 - Config Download (Unauthenticated),https://www.exploit-db.com/exploits/50340,https://j.mp/3kMwGO7
+ExploitDB,[webapps] FatPipe Networks WARP 10.2.2 - Authorization Bypass,https://www.exploit-db.com/exploits/50339,https://j.mp/3idW7Gu
+ExploitDB,[webapps] FatPipe Networks WARP/IPVPN/MPVPN 10.2.2 - 'Add Admin' Cross-Site Request Forgery (CSRF),https://www.exploit-db.com/exploits/50338,https://j.mp/3m89NnE
