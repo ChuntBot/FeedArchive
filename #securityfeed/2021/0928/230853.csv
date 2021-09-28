@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h5mp-5q4p-ggf5] Prototype Pollution in lodash.defaultsdeep,https://github.com/advisories/GHSA-h5mp-5q4p-ggf5,https://j.mp/32Xjuvw
+GithubAdvisories,[GHSA-2m96-9w4j-wgv7] Prototype Pollution in lodash.merge,https://github.com/advisories/GHSA-2m96-9w4j-wgv7,https://j.mp/32VBiHG
