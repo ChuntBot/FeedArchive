@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r3xc-47qg-h929] Cross-Site Scripting in @ionic/core,https://github.com/advisories/GHSA-r3xc-47qg-h929,https://j.mp/32RGs7q
+GithubAdvisories,[GHSA-w725-67p7-xv22] Command Injection in local-devices,https://github.com/advisories/GHSA-w725-67p7-xv22,https://j.mp/355A3Z0
+GithubAdvisories,[GHSA-c53x-wwx2-pg96] Cross-Site Scripting in @berslucas/liljs,https://github.com/advisories/GHSA-c53x-wwx2-pg96,https://j.mp/2GihUwH
