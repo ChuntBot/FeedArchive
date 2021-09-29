@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f794-r6xc-hf3v] Improper Access Control in passport-oauth2,https://github.com/advisories/GHSA-f794-r6xc-hf3v,https://j.mp/3CTJybq
+GithubAdvisories,[GHSA-6whf-q6p5-84wg] Improper Access Control in Webauthn Framework,https://github.com/advisories/GHSA-6whf-q6p5-84wg,https://j.mp/3oxArJN
+GithubAdvisories,[GHSA-hhfg-6hfc-rvxm] Regular Expression Denial of Service in jsoneditor,https://github.com/advisories/GHSA-hhfg-6hfc-rvxm,https://j.mp/3kOs1eC
+GithubAdvisories,[GHSA-2ww3-fxvq-293j] Inefficient Regular Expression in nltk,https://github.com/advisories/GHSA-2ww3-fxvq-293j,https://j.mp/3ik2pV9
+GithubAdvisories,[GHSA-cg3q-59w7-rvc2] Reliance on Cookies without Validation and Integrity Checking in getgrav/grav,https://github.com/advisories/GHSA-cg3q-59w7-rvc2,https://j.mp/3B81e2N
+GithubAdvisories,[GHSA-356r-77q8-f64f] Cross-Site Request Forgery in firefly-iii,https://github.com/advisories/GHSA-356r-77q8-f64f,https://j.mp/39Q2ifC
+GithubAdvisories,[GHSA-x55w-vjjp-222r] Inefficient Regular Expression in inflect,https://github.com/advisories/GHSA-x55w-vjjp-222r,https://j.mp/39RUr13
+GithubAdvisories,[GHSA-h73q-5wmj-q8pj] Cross site scripting in datatables.net,https://github.com/advisories/GHSA-h73q-5wmj-q8pj,https://j.mp/3umIMkd
+GithubAdvisories,[GHSA-7322-jrq4-x5hf] File reference keys leads to incorrect hashes on HMAC algorithms,https://github.com/advisories/GHSA-7322-jrq4-x5hf,https://j.mp/3B81gaV
+GithubAdvisories,[GHSA-36mj-6r7r-mqhf] User can obtain JWT token even if account is disabled,https://github.com/advisories/GHSA-36mj-6r7r-mqhf,https://j.mp/2YaorD4
+GithubAdvisories,[GHSA-48mj-p7x2-5jfm] Basic auth bypass in esphome,https://github.com/advisories/GHSA-48mj-p7x2-5jfm,https://j.mp/2Y3x7eA
