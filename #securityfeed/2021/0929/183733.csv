@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2mvq-xp48-4c77] Denial of Service in subtext,https://github.com/advisories/GHSA-2mvq-xp48-4c77,https://j.mp/354om4H
+GithubAdvisories,[GHSA-hv4w-jhcj-6wfw] Cross-Site Scripting in snekserve,https://github.com/advisories/GHSA-hv4w-jhcj-6wfw,https://j.mp/2QSvwRn
+GithubAdvisories,[GHSA-4xf9-pgvv-xx67] Regular Expression Denial of Service in simple-markdown,https://github.com/advisories/GHSA-4xf9-pgvv-xx67,https://j.mp/2Z4fFnm
