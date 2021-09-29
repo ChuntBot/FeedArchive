@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-phph-xpj4-wvcv] Cross-Site Scripting in hexo-admin,https://github.com/advisories/GHSA-phph-xpj4-wvcv,https://j.mp/3jMwMlI
+GithubAdvisories,[GHSA-p77h-hv6g-fmfp] Sensitive Data Exposure in ibm_db,https://github.com/advisories/GHSA-p77h-hv6g-fmfp,https://j.mp/34Y915U
+GithubAdvisories,[GHSA-pv6r-vchh-cxg9] Denial of Service in apostrophe,https://github.com/advisories/GHSA-pv6r-vchh-cxg9,https://j.mp/3hWOhPr
+GithubAdvisories,[GHSA-c3m8-x3cg-qm2c] Configuration Override in helmet-csp,https://github.com/advisories/GHSA-c3m8-x3cg-qm2c,https://j.mp/32Sk2mw
+GithubAdvisories,[GHSA-4x7w-frcq-v4m3] Path Traversal in @wturyn/swagger-injector,https://github.com/advisories/GHSA-4x7w-frcq-v4m3,https://j.mp/3gW0iDu
+GithubAdvisories,[GHSA-v4x8-gw49-7hv4] Path Traversal in swagger-injector,https://github.com/advisories/GHSA-v4x8-gw49-7hv4,https://j.mp/2QTbCWo
+GithubAdvisories,[GHSA-jfcc-rm7f-xgf8] Cross-Site Scripting in mavon-editor,https://github.com/advisories/GHSA-jfcc-rm7f-xgf8,https://j.mp/3hXRGxC
