@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gfm8-g3vm-53jh] Malicious Package in leetlog,https://github.com/advisories/GHSA-gfm8-g3vm-53jh,https://j.mp/2ETV8ek
+GithubAdvisories,[GHSA-6879-xr95-5gf4] Malicious Package in malicious-do-not-install,https://github.com/advisories/GHSA-6879-xr95-5gf4,https://j.mp/3jHCy7P
+GithubAdvisories,[GHSA-x87g-rgrh-r6g3] Malicious Package in rpc-websocket,https://github.com/advisories/GHSA-x87g-rgrh-r6g3,https://j.mp/3brl50s
+GithubAdvisories,[GHSA-6343-m2qr-66gf] Malicious Package in js-sja3,https://github.com/advisories/GHSA-6343-m2qr-66gf,https://j.mp/2F52Phm
+GithubAdvisories,[GHSA-3mhm-jvqj-fvhg] Malicious Package in js-sia3,https://github.com/advisories/GHSA-3mhm-jvqj-fvhg,https://j.mp/3hSFbTU
+GithubAdvisories,[GHSA-766v-7gjx-55hf] Malicious Package in js-shq3,https://github.com/advisories/GHSA-766v-7gjx-55hf,https://j.mp/3gSGbpH
+GithubAdvisories,[GHSA-g37j-v5gh-g25c] Malicious Package in js-shi3,https://github.com/advisories/GHSA-g37j-v5gh-g25c,https://j.mp/3gYzliG
+GithubAdvisories,[GHSA-f8jj-45fj-44r6] Malicious Package in js-she3,https://github.com/advisories/GHSA-f8jj-45fj-44r6,https://j.mp/2GtMqny
+GithubAdvisories,[GHSA-69mf-2cw2-38m8] Malicious Package in js-shc3,https://github.com/advisories/GHSA-69mf-2cw2-38m8,https://j.mp/31TX6UF
+GithubAdvisories,[GHSA-hwqc-pgjw-vjqp] Cross-Site Request Forgery in GilaCMS,https://github.com/advisories/GHSA-hwqc-pgjw-vjqp,https://j.mp/3AYCqdo
+GithubAdvisories,[GHSA-h7mq-27r7-w972] Cross-site Scripting in GilaCMS,https://github.com/advisories/GHSA-h7mq-27r7-w972,https://j.mp/3on29sk
+GithubAdvisories,[GHSA-5wq6-v5cw-jvfr] Malicious Package in js-shas,https://github.com/advisories/GHSA-5wq6-v5cw-jvfr,https://j.mp/2QQOojA
+GithubAdvisories,[GHSA-6675-wwqr-jhmf] Cross-site Scripting in GilaCMS,https://github.com/advisories/GHSA-6675-wwqr-jhmf,https://j.mp/39SR4H8
+GithubAdvisories,[GHSA-hvgc-mggg-pxr2] Malicious Package in js-sha7,https://github.com/advisories/GHSA-hvgc-mggg-pxr2,https://j.mp/3gVg4yv
+GithubAdvisories,[GHSA-m7h5-fjjq-559f] SQL Injection in topthink/thinkphp,https://github.com/advisories/GHSA-m7h5-fjjq-559f,https://j.mp/3ogW6pk
+GithubAdvisories,[GHSA-hf66-r44g-p7j9] Inefficient Regular Expression Complexity in handsontable,https://github.com/advisories/GHSA-hf66-r44g-p7j9,https://j.mp/3D4PazR
+GithubAdvisories,[GHSA-95cg-3r4g-7w6j] Malicious Package in js-rha3,https://github.com/advisories/GHSA-95cg-3r4g-7w6j,https://j.mp/31W2TZR
+GithubAdvisories,[GHSA-xv7v-rf6g-xwrc] Directory Traversal in typo3/phar-stream-wrapper,https://github.com/advisories/GHSA-xv7v-rf6g-xwrc,https://j.mp/3zX9Ur5
+GithubAdvisories,[GHSA-7pr3-p5fm-8r9x] LiveQuery publishes user session tokens in parse-server,https://github.com/advisories/GHSA-7pr3-p5fm-8r9x,https://j.mp/2Wso7yB
