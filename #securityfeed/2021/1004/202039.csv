@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c2h3-6mxw-7mvq] Insufficiently restricted permissions on plugin directories,https://github.com/advisories/GHSA-c2h3-6mxw-7mvq,https://j.mp/3File51
+GithubAdvisories,[GHSA-xpv2-8ppj-79hh] Expression injection in AviatorScript,https://github.com/advisories/GHSA-xpv2-8ppj-79hh,https://j.mp/3A4WwS1
+GithubAdvisories,[GHSA-5vfx-8w6m-h3v4] Authentication bypass due to improper user-provided security token verification,https://github.com/advisories/GHSA-5vfx-8w6m-h3v4,https://j.mp/3DeRW5l
+GithubAdvisories,[GHSA-x2gw-85w6-fjjw] Cross-site scripting in demos/demo.mysqli.php in getID3,https://github.com/advisories/GHSA-x2gw-85w6-fjjw,https://j.mp/3oBtbMK
+GithubAdvisories,[GHSA-gxmc-5wj3-jx64] Cross-site scripting in application/controllers/dropbox.php in JustWriting,https://github.com/advisories/GHSA-gxmc-5wj3-jx64,https://j.mp/3mlJ5Z6
+GithubAdvisories,[GHSA-m72g-42q6-gvc2] Cross-site Scripting in LaraCMS,https://github.com/advisories/GHSA-m72g-42q6-gvc2,https://j.mp/2YfKQyC
+GithubAdvisories,[GHSA-xrpj-f9v6-2332] CSV injection in Craft CMS,https://github.com/advisories/GHSA-xrpj-f9v6-2332,https://j.mp/3Filr8j
+GithubAdvisories,[GHSA-9378-f4v7-jgm4] Deserialization of Untrusted Data in org.apache.ddlutils:ddlutils,https://github.com/advisories/GHSA-9378-f4v7-jgm4,https://j.mp/3Df6lhU
+GithubAdvisories,[GHSA-5pcx-vqjp-p34w] Cross-site Scripting in shuup,https://github.com/advisories/GHSA-5pcx-vqjp-p34w,https://j.mp/3mnkHGf
