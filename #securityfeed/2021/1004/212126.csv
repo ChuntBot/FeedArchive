@@ -1,0 +1,32 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hgwm-pv9h-q5m7] Potential XSS in jQuery dependency in Mirador,https://github.com/advisories/GHSA-hgwm-pv9h-q5m7,https://j.mp/3iI15K8
+GithubAdvisories,[GHSA-v35c-49j6-q8hq] Security Constraint Bypass in Spring Security,https://github.com/advisories/GHSA-v35c-49j6-q8hq,https://j.mp/3miZFrw
+GithubAdvisories,[GHSA-wmv4-5w76-vp9g] Authorization Bypass in Spring Security,https://github.com/advisories/GHSA-wmv4-5w76-vp9g,https://j.mp/2FwhYJi
+GithubAdvisories,[GHSA-cfjv-5498-mph5] XSS in Action View,https://github.com/advisories/GHSA-cfjv-5498-mph5,https://j.mp/35wo7jd
+GithubAdvisories,[GHSA-hx3r-jv9q-85jw] Bitcoin Inventory Out-of-Memory Denial-of-Service Attack (CVE-2018-17145),https://github.com/advisories/GHSA-hx3r-jv9q-85jw,https://j.mp/3ijSI7k
+GithubAdvisories,[GHSA-x44x-r84w-8v67] Lack of URL normalization may lead to authorization bypass when URL access rules are used,https://github.com/advisories/GHSA-x44x-r84w-8v67,https://j.mp/2R7LoQf
+GithubAdvisories,[GHSA-4qqc-mp5f-ccv4] Command Injection in bestzip,https://github.com/advisories/GHSA-4qqc-mp5f-ccv4,https://j.mp/2QP8Kd2
+GithubAdvisories,[GHSA-r2vw-jgq9-jqx2] Improper Authorization in @sap-cloud-sdk/core,https://github.com/advisories/GHSA-r2vw-jgq9-jqx2,https://j.mp/3bmFioe
+GithubAdvisories,[GHSA-9r7h-6639-v5mw] Cross-Site Scripting in bootstrap-select,https://github.com/advisories/GHSA-9r7h-6639-v5mw,https://j.mp/2QTrN6i
+GithubAdvisories,[GHSA-cr56-66mx-293v] Cross-Site Scripting in @toast-ui/editor,https://github.com/advisories/GHSA-cr56-66mx-293v,https://j.mp/31SDGQa
+GithubAdvisories,[GHSA-qvjc-g5vr-mfgr] Regular Expression Denial of Service in papaparse,https://github.com/advisories/GHSA-qvjc-g5vr-mfgr,https://j.mp/3h1JTh1
+GithubAdvisories,[GHSA-vv52-3mrp-455m] Malicious Package in m-backdoor,https://github.com/advisories/GHSA-vv52-3mrp-455m,https://j.mp/3jHfwxT
+GithubAdvisories,[GHSA-86mr-6m89-vgj3] Buffer Overflow in node-weakauras-parser,https://github.com/advisories/GHSA-86mr-6m89-vgj3,https://j.mp/32TC5IX
+GithubAdvisories,[GHSA-mm7r-265w-jv6f] Server-Side Request Forgery in @uppy/companion,https://github.com/advisories/GHSA-mm7r-265w-jv6f,https://j.mp/2QNrvOe
+GithubAdvisories,[GHSA-8whr-v3gm-w8h9] Command Injection in node-rules,https://github.com/advisories/GHSA-8whr-v3gm-w8h9,https://j.mp/31UPHV5
+GithubAdvisories,[GHSA-f8rq-m28h-8hxj] Cross-Site Scripting in htmr,https://github.com/advisories/GHSA-f8rq-m28h-8hxj,https://j.mp/3lN54Hi
+GithubAdvisories,[GHSA-f3vw-587g-r29g] Path Traversal in sapper,https://github.com/advisories/GHSA-f3vw-587g-r29g,https://j.mp/3jIL1Ia
+GithubAdvisories,[GHSA-w4vp-3mq7-7v82] Cross-Site Scripting in lazysizes,https://github.com/advisories/GHSA-w4vp-3mq7-7v82,https://j.mp/2EZzW6k
+GithubAdvisories,[GHSA-9px9-f7jw-fwhj] Command Injection in priest-runner,https://github.com/advisories/GHSA-9px9-f7jw-fwhj,https://j.mp/2Z4zYkC
+GithubAdvisories,[GHSA-65m9-m259-7jqw] Improper Authorization in react-oauth-flow,https://github.com/advisories/GHSA-65m9-m259-7jqw,https://j.mp/2Z2MvFe
+GithubAdvisories,[GHSA-xr53-m937-jr9c] Cross-Site Scripting in ngx-md,https://github.com/advisories/GHSA-xr53-m937-jr9c,https://j.mp/3gY5FCd
+GithubAdvisories,[GHSA-36c4-4r89-6whg] Prototype Pollution in @commercial/subtext,https://github.com/advisories/GHSA-36c4-4r89-6whg,https://j.mp/2QQHpHz
+GithubAdvisories,[GHSA-g9cg-h3jm-cwrc] Prototype Pollution in @hapi/subtext,https://github.com/advisories/GHSA-g9cg-h3jm-cwrc,https://j.mp/31ZW5L3
+GithubAdvisories,[GHSA-g64q-3vg8-8f93] Prototype Pollution in subtext,https://github.com/advisories/GHSA-g64q-3vg8-8f93,https://j.mp/32XeDL5
+GithubAdvisories,[GHSA-mg69-6j3m-jvgw] HTML Injection in marky-markdown,https://github.com/advisories/GHSA-mg69-6j3m-jvgw,https://j.mp/2GjqCL8
+GithubAdvisories,[GHSA-pxmp-fwjc-4x7q] HTML Injection in marky-markdown,https://github.com/advisories/GHSA-pxmp-fwjc-4x7q,https://j.mp/353BIOY
+GithubAdvisories,[GHSA-22h7-7wwg-qmgg] Prototype Pollution in @hapi/hoek,https://github.com/advisories/GHSA-22h7-7wwg-qmgg,https://j.mp/3jQBsqH
+GithubAdvisories,[GHSA-5ff8-jcf9-fw62] Cross-Site Scripting in markdown-it-katex,https://github.com/advisories/GHSA-5ff8-jcf9-fw62,https://j.mp/2Dvte7H
+GithubAdvisories,[GHSA-rjvj-673q-4hfw] Command Injection in traceroute,https://github.com/advisories/GHSA-rjvj-673q-4hfw,https://j.mp/2F6zlzX
+GithubAdvisories,[GHSA-4r97-78gf-q24v] Prototype Pollution in klona,https://github.com/advisories/GHSA-4r97-78gf-q24v,https://j.mp/3h4TiUN
+GithubAdvisories,[GHSA-vjvw-wcmw-pr26] Insufficient Entropy in parsel,https://github.com/advisories/GHSA-vjvw-wcmw-pr26,https://j.mp/3lMSmbz
