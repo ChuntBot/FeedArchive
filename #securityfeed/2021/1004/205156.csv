@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wqgx-4q47-j2w5] Insecure Cryptography Algorithm in parsel,https://github.com/advisories/GHSA-wqgx-4q47-j2w5,https://j.mp/2ERhhtX
+GithubAdvisories,[GHSA-2ggq-vfcp-gwhj] Cross-Site Scripting in @hapi/boom,https://github.com/advisories/GHSA-2ggq-vfcp-gwhj,https://j.mp/2Z6KibP
+GithubAdvisories,[GHSA-49mg-94fc-2fx6] Command Injection in npm-git-publish,https://github.com/advisories/GHSA-49mg-94fc-2fx6,https://j.mp/2R8Uqwt
+GithubAdvisories,[GHSA-qcff-ffx3-m25c] Command Injection in meta-git,https://github.com/advisories/GHSA-qcff-ffx3-m25c,https://j.mp/3316JQC
+GithubAdvisories,[GHSA-7wgh-5q4q-6wx5] Malicious Package in 1337qq-js,https://github.com/advisories/GHSA-7wgh-5q4q-6wx5,https://j.mp/3lNx4ue
+GithubAdvisories,[GHSA-v66p-w7qx-wv98] Authentication Bypass in express-laravel-passport,https://github.com/advisories/GHSA-v66p-w7qx-wv98,https://j.mp/3buR001
+GithubAdvisories,[GHSA-25v4-mcx4-hh35] Cross-Site Scripting in atlasboard-atlassian-package,https://github.com/advisories/GHSA-25v4-mcx4-hh35,https://j.mp/3lSEkVO
+GithubAdvisories,[GHSA-7r9x-hr76-jr96] Command Injection in giting,https://github.com/advisories/GHSA-7r9x-hr76-jr96,https://j.mp/2QUSbfX
+GithubAdvisories,[GHSA-r4m5-47cq-6qg8] Server-Side Request Forgery in ftp-srv,https://github.com/advisories/GHSA-r4m5-47cq-6qg8,https://j.mp/2Z75MVP
+GithubAdvisories,[GHSA-xf64-2f9p-6pqq] Information Exposure in type-graphql,https://github.com/advisories/GHSA-xf64-2f9p-6pqq,https://j.mp/3lQNFNP
+GithubAdvisories,[GHSA-v6c5-hwqg-3x5q] Improper Authorization in passport-cognito,https://github.com/advisories/GHSA-v6c5-hwqg-3x5q,https://j.mp/2QVCsNI
+GithubAdvisories,[GHSA-whv6-rj84-2vh2] Cross-Site Scripting in nextcloud-vue-collections,https://github.com/advisories/GHSA-whv6-rj84-2vh2,https://j.mp/3562uGj
+GithubAdvisories,[GHSA-65xx-c85x-wg76] Command Injection in plotter,https://github.com/advisories/GHSA-65xx-c85x-wg76,https://j.mp/3lTWPZI
+GithubAdvisories,[GHSA-cfwc-xjfp-44jg] Command Injection in gnuplot,https://github.com/advisories/GHSA-cfwc-xjfp-44jg,https://j.mp/2ER6BeR
