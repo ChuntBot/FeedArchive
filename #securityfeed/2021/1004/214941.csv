@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8xv9-qcr9-ww9j] Authenticated XML External Entity Processing,https://github.com/advisories/GHSA-8xv9-qcr9-ww9j,https://j.mp/3o4tEV3
+GithubAdvisories,[GHSA-8hxh-r6f7-jf45] Memory exhaustion in http4s-async-http-client with large or malicious compressed responses,https://github.com/advisories/GHSA-8hxh-r6f7-jf45,https://j.mp/37eDi1y
+GithubAdvisories,[GHSA-82rf-q3pr-4f6p] Sensitive data exposure in NATS,https://github.com/advisories/GHSA-82rf-q3pr-4f6p,https://j.mp/33HJ4Xl
+GithubAdvisories,[GHSA-5822-pw57-vv37] XSS vulnerability when listing users on add & modify server pages,https://github.com/advisories/GHSA-5822-pw57-vv37,https://j.mp/36LaZHF
+GithubAdvisories,[GHSA-55w9-c3g2-4rrh] Man-in-the-middle attack in Apache Axis,https://github.com/advisories/GHSA-55w9-c3g2-4rrh,https://j.mp/3iCqIuL
+GithubAdvisories,[GHSA-6r7x-hc8m-985r] XSS in Joplin,https://github.com/advisories/GHSA-6r7x-hc8m-985r,https://j.mp/34X4lLZ
+GithubAdvisories,[GHSA-6495-8jvh-f28x] File restriction bypass in socket.io-file,https://github.com/advisories/GHSA-6495-8jvh-f28x,https://j.mp/30qymCi
+GithubAdvisories,[GHSA-38hx-3542-8fh3] Malicious code in `electorn`,https://github.com/advisories/GHSA-38hx-3542-8fh3,https://j.mp/3l5lk52
+GithubAdvisories,[GHSA-mfc2-93pr-jf92] Malicious code in `loadyaml`,https://github.com/advisories/GHSA-mfc2-93pr-jf92,https://j.mp/3naqMFx
+GithubAdvisories,[GHSA-qvhr-55hg-3qwv] Non-persistent XSS in the Storefront in Shopware,https://github.com/advisories/GHSA-qvhr-55hg-3qwv,https://j.mp/3kIKwOy
