@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Red Hat Security Advisory 2021-3725-01,https://packetstormsecurity.com/files/164412/RHSA-2021-3725-01.txt,https://j.mp/2YhIUp9
+PacketstormSecurity,Backdoor.Win32.Prorat.lkt Man-In-The-Middle,https://packetstormsecurity.com/files/164411/MVID-2021-0361.txt,https://j.mp/3BkJ6mo
+PacketstormSecurity,Tapatalk Plugins PHP Object Injection,https://packetstormsecurity.com/files/164409/tapatalk-inject.txt,https://j.mp/3uKxwhz
+PacketstormSecurity,Backdoor.Win32.Prorat.lkt Hardcoded Password,https://packetstormsecurity.com/files/164408/MVID-2021-0360.txt,https://j.mp/3uMnEnB
+PacketstormSecurity,HackTool.Win32.Agent.gi Buffer Overflow,https://packetstormsecurity.com/files/164407/MVID-2021-0359.txt,https://j.mp/3iBUPpg
+PacketstormSecurity,Red Hat Security Advisory 2021-3723-01,https://packetstormsecurity.com/files/164406/RHSA-2021-3723-01.txt,https://j.mp/3izyPes
+PacketstormSecurity,Atlassian Jira Server/Data Center 8.4.0 File Read,https://packetstormsecurity.com/files/164405/ajsdc840-fileread.txt,https://j.mp/3mrkH8j
+PacketstormSecurity,WordPress MStore API 2.0.6 Shell Upload,https://packetstormsecurity.com/files/164404/wpmstoreapi206-shell.txt,https://j.mp/3FnDmL4
+PacketstormSecurity,WordPress TheCartPress 1.5.3.6 Privilege Escalation,https://packetstormsecurity.com/files/164403/wpthecartpress1536-escalate.txt,https://j.mp/3iBUMtA
+PacketstormSecurity,Trojan-PSW.Win32.PdPinch.gen Denial Of Service,https://packetstormsecurity.com/files/164402/MVID-2021-0358.txt,https://j.mp/3DbkPQ4
+PacketstormSecurity,Atlassian Confluence Server 7.5.1 Arbitrary File Read,https://packetstormsecurity.com/files/164401/acs751-fileread.txt,https://j.mp/3DeTJrq
+PacketstormSecurity,Red Hat Security Advisory 2021-3724-01,https://packetstormsecurity.com/files/164400/RHSA-2021-3724-01.txt,https://j.mp/3Bd2j9i
+PacketstormSecurity,Backdoor.Win32.Hupigon.gy Unauthenticated Open Proxy,https://packetstormsecurity.com/files/164399/MVID-2021-0357.txt,https://j.mp/2WLF1Zi
+PacketstormSecurity,Try My Recipe SQL Injection,https://packetstormsecurity.com/files/164397/trymyrecipe-sql.txt,https://j.mp/3leROwR
+PacketstormSecurity,Backdoor.Win32.Bifrose.ahyg Insecure Permissions,https://packetstormsecurity.com/files/164396/MVID-2021-0356.txt,https://j.mp/3Dt3jqP
+PacketstormSecurity,Student Quarterly Grading System 1.0 SQL Injection,https://packetstormsecurity.com/files/164395/studentqgs10-sql.txt,https://j.mp/3let5J4
+PacketstormSecurity,HEUR.Trojan.Win32.Generic Unquoted Service Path,https://packetstormsecurity.com/files/164394/MVID-2021-0355.txt,https://j.mp/2WGXvtO
+PacketstormSecurity,Backdoor.Win32.Yoddos.an Unquoted Service Path,https://packetstormsecurity.com/files/164393/MVID-2021-0354.txt,https://j.mp/3uJXcLB
+PacketstormSecurity,Backdoor.Win32.LolBot.gen Insecure Permissions,https://packetstormsecurity.com/files/164392/MVID-2021-0353.txt,https://j.mp/3a6iIk0
+PacketstormSecurity,Virus.Win32.Renamer.a Insecure Permissions,https://packetstormsecurity.com/files/164391/MVID-2021-0352.txt,https://j.mp/3DbkPzy
