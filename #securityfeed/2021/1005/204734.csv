@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mcwm-2wmc-6hv4] ASP.NET Core Denial of Service Vulnerability,https://github.com/advisories/GHSA-mcwm-2wmc-6hv4,https://j.mp/3uHbWKU
+GithubAdvisories,[GHSA-p6vg-p826-qp3v] URL Redirection to Untrusted Site ('Open Redirect') in fastify-static,https://github.com/advisories/GHSA-p6vg-p826-qp3v,https://j.mp/3iwhVgQ
+GithubAdvisories,[GHSA-7534-mm45-c74v] Buffer Overflow in Pillow,https://github.com/advisories/GHSA-7534-mm45-c74v,https://j.mp/2YwL58G
+GithubAdvisories,[GHSA-69j6-29vr-p3j9] Authentication bypass for viewing and deletions of snapshots,https://github.com/advisories/GHSA-69j6-29vr-p3j9,https://j.mp/3mpaY2d
+GithubAdvisories,[GHSA-657m-v5vm-f6rw] [PLACEHOLDER] Cross-Site-Request-Forgery in Backend,https://github.com/advisories/GHSA-657m-v5vm-f6rw,https://j.mp/3BgCqFB
+GithubAdvisories,[GHSA-m2jh-fxw4-gphm] HTTP Host Header Injection,https://github.com/advisories/GHSA-m2jh-fxw4-gphm,https://j.mp/3uKWwoU
+GithubAdvisories,[GHSA-frqg-7g38-6gcf] Improper escaping of command arguments on Windows leading to command injection,https://github.com/advisories/GHSA-frqg-7g38-6gcf,https://j.mp/2ZOE6s3
