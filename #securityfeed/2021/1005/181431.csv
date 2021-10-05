@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j28r-j54m-gpc4] Code Injection in SLO Generator,https://github.com/advisories/GHSA-j28r-j54m-gpc4,https://j.mp/2ZPHtiq
+GithubAdvisories,[GHSA-cr3f-r24j-3chw] Cobbler before 3.3.0 allows authorization bypass for modification of settings,https://github.com/advisories/GHSA-cr3f-r24j-3chw,https://j.mp/3lbPzdq
+GithubAdvisories,[GHSA-cpqf-3c3r-c9g2] Cobbler before 3.3.0 allows log poisoning,https://github.com/advisories/GHSA-cpqf-3c3r-c9g2,https://j.mp/3FeCLex
+GithubAdvisories,[GHSA-4cfr-gjfx-fj3x] Cobbler before 3.3.0 allows arbitrary file write operations via upload_log_data,https://github.com/advisories/GHSA-4cfr-gjfx-fj3x,https://j.mp/3mvx831
