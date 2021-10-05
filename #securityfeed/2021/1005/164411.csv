@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rhh9-cm65-3w54] Improper Authentication in Apache Hadoop,https://github.com/advisories/GHSA-rhh9-cm65-3w54,https://j.mp/3u3wRqu
+GithubAdvisories,[GHSA-7359-3c6r-hfc2] Improper Certificate Validation in oauth ruby gem,https://github.com/advisories/GHSA-7359-3c6r-hfc2,https://j.mp/32Fwzu2
+GithubAdvisories,[GHSA-w5hr-jm4j-9jvq] Sandbox escape through template_object,https://github.com/advisories/GHSA-w5hr-jm4j-9jvq,https://j.mp/3b6kuCS
