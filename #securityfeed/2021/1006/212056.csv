@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9pgx-gcph-mpqr] XSS via the history parameter in SQL command,https://github.com/advisories/GHSA-9pgx-gcph-mpqr,https://j.mp/3paaNqP
