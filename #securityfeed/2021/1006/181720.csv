@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-823f-cwm9-4g74] Splash authentication credentials potentially leaked to target websites,https://github.com/advisories/GHSA-823f-cwm9-4g74,https://j.mp/3lfdrNh
+GithubAdvisories,[GHSA-25fx-mxc2-76g7] Unauthorized access to Credit card form exposing payer name and not requiring 3DS,https://github.com/advisories/GHSA-25fx-mxc2-76g7,https://j.mp/3uL0iyV
+GithubAdvisories,[GHSA-c7pr-343r-5c46] missing clamps for decimal args in external functions,https://github.com/advisories/GHSA-c7pr-343r-5c46,https://j.mp/3ms7WKB
+GithubAdvisories,[GHSA-v6w3-2prq-h95f] Improper Input Validation in Jakarta Expression Language,https://github.com/advisories/GHSA-v6w3-2prq-h95f,https://j.mp/3uKLro5
+GithubAdvisories,[GHSA-vmfh-c547-v45h] Remote code execution in ruby-jss,https://github.com/advisories/GHSA-vmfh-c547-v45h,https://j.mp/3oD4Nud
+GithubAdvisories,[GHSA-37hx-4mcq-wc3h] Weak Password Recovery Mechanism for Forgotten Password in Strapi,https://github.com/advisories/GHSA-37hx-4mcq-wc3h,https://j.mp/3AgXjzo
+GithubAdvisories,[GHSA-pfwg-rxf4-97c3] Open Redirect in Apache Superset,https://github.com/advisories/GHSA-pfwg-rxf4-97c3,https://j.mp/3acyUjA
+GithubAdvisories,[GHSA-m2r3-8492-vx59] Denial of Service (DoS) in mongo-express,https://github.com/advisories/GHSA-m2r3-8492-vx59,https://j.mp/3044C0T
+GithubAdvisories,[GHSA-m6m5-pp4g-fcc8] S3 storage write is not aborted on errors leading to unbounded memory usage,https://github.com/advisories/GHSA-m6m5-pp4g-fcc8,https://j.mp/3oFp7uP
+GithubAdvisories,[GHSA-grh7-935j-hg6w] Cross-site Scripting in Sidekiq,https://github.com/advisories/GHSA-grh7-935j-hg6w,https://j.mp/3Fklf8C
+GithubAdvisories,[GHSA-cq6w-w5rj-p9x8] Cross-site Scripting in Froala Editor,https://github.com/advisories/GHSA-cq6w-w5rj-p9x8,https://j.mp/3ablvIz
+GithubAdvisories,[GHSA-m6j4-8r7p-wpp3] BuddyPress privilege escalation via REST API,https://github.com/advisories/GHSA-m6j4-8r7p-wpp3,https://j.mp/3BnyGSQ
+GithubAdvisories,[GHSA-6gjf-7w99-j7x7] Deleted Admin Can Sign In to Admin Interface,https://github.com/advisories/GHSA-6gjf-7w99-j7x7,https://j.mp/3lhaR9R
