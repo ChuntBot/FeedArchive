@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-46j2-xjgp-jrfm] Information disclosure issue in Active Resource,https://github.com/advisories/GHSA-46j2-xjgp-jrfm,https://j.mp/2zbouCh
+GithubAdvisories,[GHSA-gw55-jm4h-x339] Improper Validation of Certificate with Host Mismatch in Java-WebSocket,https://github.com/advisories/GHSA-gw55-jm4h-x339,https://j.mp/2zojdGU
+GithubAdvisories,[GHSA-qfcv-5whw-7pcw] Exposure of Sensitive Information to an Unauthorized Actor in AEgir,https://github.com/advisories/GHSA-qfcv-5whw-7pcw,https://j.mp/3caus3o
