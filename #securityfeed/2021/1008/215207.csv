@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v73w-r9xg-7cr9] Use of insecure jQuery version in OctoberCMS,https://github.com/advisories/GHSA-v73w-r9xg-7cr9,https://j.mp/30cxO3z
+GithubAdvisories,[GHSA-j9wr-49vq-rm5g] Server classes and resources exposure in OSGi applications using Vaadin 12-14 and 19,https://github.com/advisories/GHSA-j9wr-49vq-rm5g,https://j.mp/3mYKqox
+GithubAdvisories,[GHSA-9h6g-6mxg-vvp4] Timing side channel vulnerability in endpoint request handler in Vaadin 15-19,https://github.com/advisories/GHSA-9h6g-6mxg-vvp4,https://j.mp/3drXeR8
+GithubAdvisories,"[GHSA-c6c4-7x48-4cqp] Timing side channel vulnerability in UIDL request handler in Vaadin 10, 11-14, and 15-18",https://github.com/advisories/GHSA-c6c4-7x48-4cqp,https://j.mp/2P4iL9a
+GithubAdvisories,[GHSA-82mf-mmh7-hxp5] Directory traversal in development mode handler in Vaadin 14 and 15-17,https://github.com/advisories/GHSA-82mf-mmh7-hxp5,https://j.mp/3aq6T8Z
+GithubAdvisories,[GHSA-76f4-fw33-6j2v] Potential sensitive data exposure in applications using Vaadin 15,https://github.com/advisories/GHSA-76f4-fw33-6j2v,https://j.mp/3ajEGk0
+GithubAdvisories,[GHSA-jqj4-r483-4gvr] Reflected cross-site scripting in default RouteNotFoundError view in Vaadin 10 and 11-13,https://github.com/advisories/GHSA-jqj4-r483-4gvr,https://j.mp/2P2L7kb
+GithubAdvisories,[GHSA-3h5r-928v-mxhh] Unauthorized client-side property update in UIDL request handler in Vaadin 10 and 11,https://github.com/advisories/GHSA-3h5r-928v-mxhh,https://j.mp/3vfYKMr
+GithubAdvisories,[GHSA-6hgr-2g6q-3rmc] Server session is not invalidated when logout() helper method of Authentication module is used in Vaadin 18-19,https://github.com/advisories/GHSA-6hgr-2g6q-3rmc,https://j.mp/3dGYDTQ
+GithubAdvisories,[GHSA-crh4-294p-vcfq] Regular expression denial of service (ReDoS) in EmailField component in Vaadin 14 and 15-17,https://github.com/advisories/GHSA-crh4-294p-vcfq,https://j.mp/3mYGdRP
