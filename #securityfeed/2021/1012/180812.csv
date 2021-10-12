@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-48w2-rm65-62xx] Inconsistent Interpretation of HTTP Requests ('HTTP Request Smuggling') in puma,https://github.com/advisories/GHSA-48w2-rm65-62xx,https://j.mp/3iY1EBx
+GithubAdvisories,[GHSA-c87f-fq5g-63r2] Cross-site scripting in Unicorn framework,https://github.com/advisories/GHSA-c87f-fq5g-63r2,https://j.mp/3BNe9XS
+GithubAdvisories,[GHSA-ggmv-6q9p-9gm6] Cross-site Scripting in django-unicorn,https://github.com/advisories/GHSA-ggmv-6q9p-9gm6,https://j.mp/3BEHfsK
+GithubAdvisories,[GHSA-m8wh-mqgf-rr8g] Code injection in Kubernetes Java Client,https://github.com/advisories/GHSA-m8wh-mqgf-rr8g,https://j.mp/3BA0TWM
+GithubAdvisories,[GHSA-9cxh-gqpx-qc5m] Credential Disclosure in System.DirectoryServices.Protocols,https://github.com/advisories/GHSA-9cxh-gqpx-qc5m,https://j.mp/3DAFqh2
