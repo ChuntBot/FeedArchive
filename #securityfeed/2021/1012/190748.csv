@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r7rh-g777-g5gx] SilverStripe GraphQL Server permission checker not inherited by query subclass,https://github.com/advisories/GHSA-r7rh-g777-g5gx,https://j.mp/3v7mseX
+GithubAdvisories,[GHSA-qh9q-34h6-hcv9] Directory traversal in mkdocs,https://github.com/advisories/GHSA-qh9q-34h6-hcv9,https://j.mp/2YEXTJZ
+GithubAdvisories,[GHSA-j66h-cc96-c32q] Cross-site Scripting in SilverStripe Framework,https://github.com/advisories/GHSA-j66h-cc96-c32q,https://j.mp/3AAsupe
+GithubAdvisories,[GHSA-284f-f2hw-j2gx] Server-Side Request Forgery vulnerability in concrete5,https://github.com/advisories/GHSA-284f-f2hw-j2gx,https://j.mp/3BCnG4e
+GithubAdvisories,[GHSA-362v-wg5p-64w2] Incorrect Privilege Assignment in HashiCorp Vault,https://github.com/advisories/GHSA-362v-wg5p-64w2,https://j.mp/30mJsv1
