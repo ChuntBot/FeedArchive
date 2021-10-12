@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-89rj-5ggj-3p9p] Reachable Assertion in OpenCV,https://github.com/advisories/GHSA-89rj-5ggj-3p9p,https://j.mp/30lB137
+GithubAdvisories,[GHSA-m43c-649m-pm48] Integer Overflow or Wraparound in OpenCV,https://github.com/advisories/GHSA-m43c-649m-pm48,https://j.mp/2YLlAAc
+GithubAdvisories,[GHSA-83rh-hx5x-q9p5] Out-of-bounds Read in OpenCV,https://github.com/advisories/GHSA-83rh-hx5x-q9p5,https://j.mp/3AyO7pV
+GithubAdvisories,[GHSA-jcxv-2j3h-mg59] Improper Restriction of Operations within the Bounds of a Memory Buffer in OpenCV,https://github.com/advisories/GHSA-jcxv-2j3h-mg59,https://j.mp/3AA5Nlk
+GithubAdvisories,[GHSA-634c-v2xv-ffpg] Out-of-bounds Write in OpenCV,https://github.com/advisories/GHSA-634c-v2xv-ffpg,https://j.mp/3mMzjiT
+GithubAdvisories,[GHSA-267x-w5hx-8hjr] Integer Overflow or Wraparound in OpenCV,https://github.com/advisories/GHSA-267x-w5hx-8hjr,https://j.mp/2YLlzw8
+GithubAdvisories,[GHSA-wq8f-wvqp-xvvm] Integer Overflow or Wraparound in OpenCV,https://github.com/advisories/GHSA-wq8f-wvqp-xvvm,https://j.mp/3BCPc1u
+GithubAdvisories,[GHSA-5rpc-gwh9-q9fg] Improper Restriction of Operations within the Bounds of a Memory Buffer in OpenCV,https://github.com/advisories/GHSA-5rpc-gwh9-q9fg,https://j.mp/2YNadrS
+GithubAdvisories,[GHSA-vc29-rj92-gc7j] Out-of-bounds Write in OpenCV,https://github.com/advisories/GHSA-vc29-rj92-gc7j,https://j.mp/3oXiuEA
+GithubAdvisories,[GHSA-rqxg-xvcq-3v2f] Out-of-bounds Write in OpenCV,https://github.com/advisories/GHSA-rqxg-xvcq-3v2f,https://j.mp/3iYGJ1d
+GithubAdvisories,[GHSA-c7gp-2pch-qh2v] Out-of-bounds Write in OpenCV,https://github.com/advisories/GHSA-c7gp-2pch-qh2v,https://j.mp/2YLlA3a
+GithubAdvisories,[GHSA-6v6p-p97v-g2p7] Out-of-bounds Write in OpenCV,https://github.com/advisories/GHSA-6v6p-p97v-g2p7,https://j.mp/3axwg8q
+GithubAdvisories,[GHSA-pqjj-6f5q-gqph] Denial of Service in OpenCV,https://github.com/advisories/GHSA-pqjj-6f5q-gqph,https://j.mp/3lxRUQg
+GithubAdvisories,[GHSA-w96g-3p64-63wr] Improper Restriction of Operations within the Bounds of a Memory Buffer in OpenCV,https://github.com/advisories/GHSA-w96g-3p64-63wr,https://j.mp/3v5Ci9K
+GithubAdvisories,[GHSA-fr58-2xhv-qp3w] Denial of Service in OpenCV,https://github.com/advisories/GHSA-fr58-2xhv-qp3w,https://j.mp/3BEFMT3
+GithubAdvisories,[GHSA-fvq6-392h-6mjj] Out-of-bounds Read in OpenCV,https://github.com/advisories/GHSA-fvq6-392h-6mjj,https://j.mp/3BF6FWU
+GithubAdvisories,[GHSA-33h2-69j3-r336] Out-of-bounds Read in OpenCV,https://github.com/advisories/GHSA-33h2-69j3-r336,https://j.mp/3iYGJyf
+GithubAdvisories,[GHSA-8w3x-457r-wg53] Out-of-bounds Write in OpenCV,https://github.com/advisories/GHSA-8w3x-457r-wg53,https://j.mp/3FG8QvX
+GithubAdvisories,[GHSA-fffj-9qwg-qmh5] Improper Input Validation in OpenCV,https://github.com/advisories/GHSA-fffj-9qwg-qmh5,https://j.mp/3iXiP6b
+GithubAdvisories,[GHSA-cvhw-2593-5j2q] Double Free in OpenCV,https://github.com/advisories/GHSA-cvhw-2593-5j2q,https://j.mp/3oSZ83r
+GithubAdvisories,[GHSA-mpjm-v997-c4h4] Sandboxed renderers can obtain thumbnails of arbitrary files through the nativeImage API,https://github.com/advisories/GHSA-mpjm-v997-c4h4,https://j.mp/3mKWXw5
