@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q6j2-g8qf-wvf7] Verification check bypass in Gate One,https://github.com/advisories/GHSA-q6j2-g8qf-wvf7,https://j.mp/3iWT4TI
+GithubAdvisories,[GHSA-7vxr-6cxg-j3x8] OS Command Injection in ftpd,https://github.com/advisories/GHSA-7vxr-6cxg-j3x8,https://j.mp/3ABv6TR
+GithubAdvisories,[GHSA-9g8h-pjm4-q92p] Out-of-bounds Write in OpenCV,https://github.com/advisories/GHSA-9g8h-pjm4-q92p,https://j.mp/3AAzSkD
+GithubAdvisories,[GHSA-q799-q27x-vp7w] Out-of-bounds Write in OpenCV,https://github.com/advisories/GHSA-q799-q27x-vp7w,https://j.mp/3v4aKSe
+GithubAdvisories,[GHSA-m6vm-8g8v-xfjh] Buffer Overflow in OpenCV,https://github.com/advisories/GHSA-m6vm-8g8v-xfjh,https://j.mp/3mMtCkL
+GithubAdvisories,[GHSA-jggw-2q6g-c3m6] Out-of-bounds Read in OpenCV,https://github.com/advisories/GHSA-jggw-2q6g-c3m6,https://j.mp/3mTC8Pg
+GithubAdvisories,[GHSA-8849-5h85-98qw] Out-of-bounds Write in OpenCV,https://github.com/advisories/GHSA-8849-5h85-98qw,https://j.mp/3lzulqc
+GithubAdvisories,[GHSA-x3rm-644h-67m8] Out-of-bounds Read in OpenCV,https://github.com/advisories/GHSA-x3rm-644h-67m8,https://j.mp/3BBZxuB
+GithubAdvisories,[GHSA-hxfw-jm98-v4mq] Divide By Zero in OpenCV,https://github.com/advisories/GHSA-hxfw-jm98-v4mq,https://j.mp/2YSuQTA
+GithubAdvisories,[GHSA-3448-vrgh-85xr] NULL Pointer Dereference in OpenCV,https://github.com/advisories/GHSA-3448-vrgh-85xr,https://j.mp/3iWT99Y
+GithubAdvisories,[GHSA-fw99-f933-rgh8] Out-of-bounds Read and Out-of-bounds Write in OpenCV,https://github.com/advisories/GHSA-fw99-f933-rgh8,https://j.mp/3atwzRL
+GithubAdvisories,[GHSA-fm39-cw8h-3p63] Out-of-bounds Read in OpenCV,https://github.com/advisories/GHSA-fm39-cw8h-3p63,https://j.mp/3mMhYXa
+GithubAdvisories,[GHSA-mc7w-4cjf-c973] OS Command Injection in node-opencv,https://github.com/advisories/GHSA-mc7w-4cjf-c973,https://j.mp/2YHvkeW
