@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3r3g-g73x-g593] coresos installer improperly verifies GPG signature when decompressing gzipped artifact,https://github.com/advisories/GHSA-3r3g-g73x-g593,https://j.mp/2YKhwAc
+GithubAdvisories,[GHSA-qh54-9vc5-m9fg] MD5 hash support in github.com/foxcpp/maddy,https://github.com/advisories/GHSA-qh54-9vc5-m9fg,https://j.mp/3Ax9urL
+GithubAdvisories,[GHSA-q324-q795-2q5p] Path traversal when using `preview-docs` when working dir contains files with question mark `?` in name,https://github.com/advisories/GHSA-q324-q795-2q5p,https://j.mp/3mFupUw
+GithubAdvisories,[GHSA-pgh6-m65r-2rhq] DOS and Open Redirect with user input,https://github.com/advisories/GHSA-pgh6-m65r-2rhq,https://j.mp/3FEP444
+GithubAdvisories,[GHSA-pgjj-866w-fc5c] Risk of code injection,https://github.com/advisories/GHSA-pgjj-866w-fc5c,https://j.mp/3FG0Mer
+GithubAdvisories,[GHSA-cx2r-mf6x-55rx] Stored XSS with custom URLs in PrestaShop module ps_linklist,https://github.com/advisories/GHSA-cx2r-mf6x-55rx,https://j.mp/3FHG0vh
+GithubAdvisories,[GHSA-wqgp-vphw-hphf] Security issues in AWS KMS and AWS Encryption SDKs: in-band protocol negotiation and robustness,https://github.com/advisories/GHSA-wqgp-vphw-hphf,https://j.mp/2X9dQYC
+GithubAdvisories,[GHSA-4vr9-8cjf-vf9c] Async-h1 request smuggling possible with long unread bodies,https://github.com/advisories/GHSA-4vr9-8cjf-vf9c,https://j.mp/3v4rQ2c
+GithubAdvisories,[GHSA-xv8x-pr4h-73jv] Memory corruption when returning a literal struct with a private call inside of it,https://github.com/advisories/GHSA-xv8x-pr4h-73jv,https://j.mp/3v4rQze
