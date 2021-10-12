@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qv95-g3gm-x542] Privilege Escalation in Hashicorp Vault,https://github.com/advisories/GHSA-qv95-g3gm-x542,https://j.mp/2YJiywE
+GithubAdvisories,[GHSA-fj58-h2fr-3pp2] SQL Injection and Cross-site Scripting in class-validator,https://github.com/advisories/GHSA-fj58-h2fr-3pp2,https://j.mp/2YLra6d
+GithubAdvisories,[GHSA-q9p4-qfc8-fvpp] SQL Injection in medoo,https://github.com/advisories/GHSA-q9p4-qfc8-fvpp,https://j.mp/3Az9zvg
+GithubAdvisories,[GHSA-p75j-wc34-527c] Exposure of Sensitive Information to an Unauthorized Actor in ansible,https://github.com/advisories/GHSA-p75j-wc34-527c,https://j.mp/3DAj5jG
+GithubAdvisories,[GHSA-c3xq-cj8f-7829] Inadequate Encryption Strength in python-keystoneclient,https://github.com/advisories/GHSA-c3xq-cj8f-7829,https://j.mp/3lyufiA
+GithubAdvisories,[GHSA-r838-q6jp-58xx] Improper Restriction of Excessive Authentication Attempts in py-bcrypt,https://github.com/advisories/GHSA-r838-q6jp-58xx,https://j.mp/3v38Dy2
+GithubAdvisories,[GHSA-pm77-c4q7-3fwj] Improper Certificate Validation in Heartland & Global Payments PHP SDK,https://github.com/advisories/GHSA-pm77-c4q7-3fwj,https://j.mp/2X6v7BJ
+GithubAdvisories,[GHSA-qf6q-qfwp-vp44] Origin Validation Error in Magento 2,https://github.com/advisories/GHSA-qf6q-qfwp-vp44,https://j.mp/30lVnt5
+GithubAdvisories,[GHSA-56wv-2wr9-3h9r] Improper Verification of Cryptographic Signature in fastecdsa,https://github.com/advisories/GHSA-56wv-2wr9-3h9r,https://j.mp/3iQ9NIj
+GithubAdvisories,[GHSA-m5v7-pr32-mjx2] Critical severity vulnerability in Ignition,https://github.com/advisories/GHSA-m5v7-pr32-mjx2,https://j.mp/3oVWQjO
+GithubAdvisories,[GHSA-68jc-v27h-vhmw] Unrestricted Upload of File with Dangerous Type in Drupal core,https://github.com/advisories/GHSA-68jc-v27h-vhmw,https://j.mp/3AudrO0
+GithubAdvisories,[GHSA-7c7g-72q7-4xhm] Prototype pollution vulnerability in 'deepref',https://github.com/advisories/GHSA-7c7g-72q7-4xhm,https://j.mp/2YFf4M1
+GithubAdvisories,[GHSA-mx3x-ghqm-r43h] Prototype pollution vulnerability in 'predefine',https://github.com/advisories/GHSA-mx3x-ghqm-r43h,https://j.mp/3atwAVx
+GithubAdvisories,[GHSA-3r9x-mjrm-2725] Prototype pollution vulnerability in 'libnested',https://github.com/advisories/GHSA-3r9x-mjrm-2725,https://j.mp/3Auj0vO
+GithubAdvisories,[GHSA-957j-59c2-j692] Prototype pollution vulnerability in 'getobject',https://github.com/advisories/GHSA-957j-59c2-j692,https://j.mp/3DDOlyf
+GithubAdvisories,[GHSA-q854-j362-cfq9] Cross-site Scripting in jsoneditor,https://github.com/advisories/GHSA-q854-j362-cfq9,https://j.mp/30lLOKE
+GithubAdvisories,[GHSA-5f38-9jw2-6r6h] Cross-site Scripting in teddy,https://github.com/advisories/GHSA-5f38-9jw2-6r6h,https://j.mp/3axLWbD
