@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-fr26-qjc8-mvjx] Possible route enumeration in production mode via RouteNotFoundError view in Vaadin 10, 11-14, and 15-19",https://github.com/advisories/GHSA-fr26-qjc8-mvjx,https://j.mp/3AKds0w
+GithubAdvisories,[GHSA-jfmf-w293-8xr8] Regular expression Denial of Service (ReDoS) in EmailValidator class in V7 compatibility module in Vaadin 8,https://github.com/advisories/GHSA-jfmf-w293-8xr8,https://j.mp/3oZkBHP
+GithubAdvisories,[GHSA-gw97-f6h8-gm94] Email relay in Apache Traffic Control,https://github.com/advisories/GHSA-gw97-f6h8-gm94,https://j.mp/3v71b50
+GithubAdvisories,[GHSA-j23j-q57m-63v3] Denial of service in DataCommunicator class in Vaadin 8,https://github.com/advisories/GHSA-j23j-q57m-63v3,https://j.mp/3BE48w5
+GithubAdvisories,[GHSA-qcgx-crrx-38v5] Denial of service in DataCommunicator class in Vaadin 8,https://github.com/advisories/GHSA-qcgx-crrx-38v5,https://j.mp/3mTLKcw
+GithubAdvisories,[GHSA-vj62-g63v-f8mf] Validity check missing in Frontier,https://github.com/advisories/GHSA-vj62-g63v-f8mf,https://j.mp/3iYbwLH
