@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g67g-hvc3-xmvf] Inconsistent input sanitisation leads to XSS vectors,https://github.com/advisories/GHSA-g67g-hvc3-xmvf,https://j.mp/2YNMHLk
