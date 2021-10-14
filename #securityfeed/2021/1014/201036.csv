@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-43gc-mjxg-gvrq] XStream is vulnerable to an Arbitrary Code Execution attack,https://github.com/advisories/GHSA-43gc-mjxg-gvrq,https://j.mp/3r9muPD
+GithubAdvisories,[GHSA-f6hm-88x3-mfjv] A Server-Side Forgery Request can be activated unmarshalling with XStream to access data streams from an arbitrary URL referencing a resource in an intranet or the local host,https://github.com/advisories/GHSA-f6hm-88x3-mfjv,https://j.mp/3lK6VNd
+GithubAdvisories,[GHSA-qpfq-ph7r-qv6f] XStream is vulnerable to an Arbitrary Code Execution attack,https://github.com/advisories/GHSA-qpfq-ph7r-qv6f,https://j.mp/317QvVv
+GithubAdvisories,[GHSA-56p8-3fh9-4cvq] XStream is vulnerable to an attack using Regular Expression for a Denial of Service (ReDos),https://github.com/advisories/GHSA-56p8-3fh9-4cvq,https://j.mp/3c8SZJE
+GithubAdvisories,[GHSA-hrcp-8f3q-4w2c] XStream is vulnerable to an Arbitrary Code Execution attack,https://github.com/advisories/GHSA-hrcp-8f3q-4w2c,https://j.mp/3lJvwSy
+GithubAdvisories,[GHSA-4hrm-m67v-5cxr] XStream is vulnerable to an Arbitrary Code Execution attack,https://github.com/advisories/GHSA-4hrm-m67v-5cxr,https://j.mp/3rebeS9
+GithubAdvisories,[GHSA-jfvx-7wrx-43fh] XStream is vulnerable to an Arbitrary File Deletion on the local host when unmarshalling,https://github.com/advisories/GHSA-jfvx-7wrx-43fh,https://j.mp/3h9H7rO
+GithubAdvisories,[GHSA-4cch-wxpw-8p28] A Server-Side Forgery Request can be activated unmarshalling with XStream,https://github.com/advisories/GHSA-4cch-wxpw-8p28,https://j.mp/3rc8iqt
+GithubAdvisories,[GHSA-2p3x-qw9c-25hh] XStream can cause a Denial of Service,https://github.com/advisories/GHSA-2p3x-qw9c-25hh,https://j.mp/3f28SmZ
