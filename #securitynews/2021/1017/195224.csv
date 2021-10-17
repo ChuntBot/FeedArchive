@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,"""...depending on how you managed to get this VPN-over-Tor setup working, you may have even broken the local state separation of Tor Browser. If any of this traffic is identifying of you, you've potentially tainted all of your traffic.""",https://redd.it/qa5ww8,
