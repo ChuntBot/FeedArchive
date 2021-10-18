@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommit,[Cleanup] Clean up the xmpp remainder (#4286),https://github.com/mailcow/mailcow-dockerized/commit/4a91fdf1344c8dd74e125cde1e4a752c4e8be102,https://j.mp/3pdHh7n
+GithubCommit,[Helper] Redirect all output to stdout and use stderr only on errors,https://github.com/mailcow/mailcow-dockerized/commit/db33668584a9872ed69247c37a59b4f865a60f86,https://j.mp/3DTMoxy
