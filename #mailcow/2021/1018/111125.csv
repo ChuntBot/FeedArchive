@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubCommit,[Rspamd] Add soft reject to dropped messages for Pushover,https://github.com/mailcow/mailcow-dockerized/commit/5e5ab6cf40901840ad3f865f8852b7f3c0b8e20b,https://j.mp/3jcNTPu
+GithubCommit,[Postfix] Tempfail if Rspamd not available,https://github.com/mailcow/mailcow-dockerized/commit/2c5628c0e553da43f84fb574c66b01a5369af184,https://j.mp/2Xoxuzm
+GithubCommit,[web] implemented twig templating system (#4264),https://github.com/mailcow/mailcow-dockerized/commit/0b64967ec56f14bbdb288e07b02d478c835be513,https://j.mp/3CFDZgu
+GithubCommit,[Netfilter] Add non-SMTP command rule (#4289),https://github.com/mailcow/mailcow-dockerized/commit/819f2876e6a4b87caefa9e0439c63f89d1d3ad33,https://j.mp/3DoeYXC
+GithubCommit,[Compose] Update PHP and netfilter images,https://github.com/mailcow/mailcow-dockerized/commit/3c9b84ff6fabb30fbd7f85ef8e07ab70a098e8da,https://j.mp/3BN2WXk
+GithubCommit,[Web] Change Fido2 icon for Apple TouchID device registration,https://github.com/mailcow/mailcow-dockerized/commit/f8101c48ba507ab747e9afeea7171941b23434e2,https://j.mp/2YRiWJg
+GithubCommit,[Web] Make 2048b key default,https://github.com/mailcow/mailcow-dockerized/commit/1a15a9e5cd8f197020be5f88fa111ab9a734edb9,https://j.mp/3AJGjlv
+GithubCommit,[Web] Minor check fix,https://github.com/mailcow/mailcow-dockerized/commit/627e9dae7b15f31b55602de01fbdd93758109bf3,https://j.mp/3mVsoUD
+GithubCommit,[web] fix annoucements and notifications close #4292,https://github.com/mailcow/mailcow-dockerized/commit/40b5ed4d7246bb868282c6381802e4dad04a452f,https://j.mp/3lMpuSN
+GithubCommit,[Web] Update Bootstrap Icons,https://github.com/mailcow/mailcow-dockerized/commit/84064a2f4280177553eb99eac46aa15b4e56d029,https://j.mp/3vevM0y
+GithubCommit,[Rspamd] More bulk headers,https://github.com/mailcow/mailcow-dockerized/commit/408fee4411032a60c3e345d0ed183756b544dedc,https://j.mp/2YT1zse
+GithubCommit,Merge remote-tracking branch 'refs/remotes/origin/staging' into staging,https://github.com/mailcow/mailcow-dockerized/commit/37bc63f4b69707ae3edcd198f3410795b34bbb6d,https://j.mp/3j8a1L3
+GithubCommit,[GH-Actions][stale] Use milkmaker,https://github.com/mailcow/mailcow-dockerized/commit/aa8d44f91e7d5c253e2366fe34e82033bc32da46,https://j.mp/3DLFc6Q
+GithubCommit,[web] alerts - fixed double quotes and escaped html,https://github.com/mailcow/mailcow-dockerized/commit/a7612e6c39f9d4053c5791ef30782523f0d113d0,https://j.mp/3vk36mJ
+GithubCommit,[Update] Make some pathes more fail-safe and minor wording changes,https://github.com/mailcow/mailcow-dockerized/commit/0c3500f5ffc10cbcfce667ee8acabbe53efc1ddf,https://j.mp/3n6CWjA
+GithubCommit,"[Helper] Cold standby script (WIP, docs incoming)",https://github.com/mailcow/mailcow-dockerized/commit/78aafe9b33690986492ad3f041ea72ee2a0431db,https://j.mp/3jdrUIm
+GithubCommit,[Web] Update russian translation (lang.ru.json),https://github.com/mailcow/mailcow-dockerized/commit/38bcf7237a660fed0ebadcf5bdd3b51a8d98ee9f,https://j.mp/3vmYsUW
+GithubCommit,[Git] Ignore create_cold_standby.sh,https://github.com/mailcow/mailcow-dockerized/commit/a062319779f3598c771e6fda0953f1bbba422833,https://j.mp/3C6NKEZ
