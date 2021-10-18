@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Updated Swagger UI to v3.52.5,https://github.com/mailcow/mailcow-dockerized/commit/6211ef59224dc5fd2ac8509b7069108175eba8c6,https://j.mp/3BS4Juw
+GithubCommitStaging,Merge pull request #4293 from ntimo/task/updated-swagger-to-3.52.5,https://github.com/mailcow/mailcow-dockerized/commit/1c36f828e006c2e043d5f793e34ac1e307c4ef73,https://j.mp/3DQ9dSJ
+GithubCommitStaging,[Cleanup] Clean up the xmpp remainder (#4286),https://github.com/mailcow/mailcow-dockerized/commit/4a91fdf1344c8dd74e125cde1e4a752c4e8be102,https://j.mp/3pdHh7n
+GithubCommitStaging,[Helper] Redirect all output to stdout and use stderr only on errors,https://github.com/mailcow/mailcow-dockerized/commit/db33668584a9872ed69247c37a59b4f865a60f86,https://j.mp/3DTMoxy
