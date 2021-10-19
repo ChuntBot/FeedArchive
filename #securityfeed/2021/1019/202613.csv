@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r56q-vv3c-6g9c] Improper sanitization of delegated role names,https://github.com/advisories/GHSA-r56q-vv3c-6g9c,https://j.mp/3AYjP0f
+GithubAdvisories,[GHSA-x3r5-q6mj-m485] Improper sanitization of target names,https://github.com/advisories/GHSA-x3r5-q6mj-m485,https://j.mp/3jBEWjd
+GithubAdvisories,[GHSA-3w73-fmf3-hg5c] Policies not properly enforced in OWASP Java HTML Sanitizer,https://github.com/advisories/GHSA-3w73-fmf3-hg5c,https://j.mp/3aUAqY1
+GithubAdvisories,[GHSA-x95h-979x-cf3j] Policies not properly enforced in bluemonday,https://github.com/advisories/GHSA-x95h-979x-cf3j,https://j.mp/3DVACml
+GithubAdvisories,[GHSA-wjw6-2cqr-j4qr] Client metadata path-traversal,https://github.com/advisories/GHSA-wjw6-2cqr-j4qr,https://j.mp/3BWWltr
