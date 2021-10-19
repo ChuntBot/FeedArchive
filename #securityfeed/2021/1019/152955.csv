@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6p52-jr3q-c94g] Arbitrary code execution due to YAML deserialization,https://github.com/advisories/GHSA-6p52-jr3q-c94g,https://j.mp/3ATShsD
+GithubAdvisories,[GHSA-rjf2-j2r6-q8gr] Prototype Pollution in vm2,https://github.com/advisories/GHSA-rjf2-j2r6-q8gr,https://j.mp/3DSsTFK
+GithubAdvisories,[GHSA-pvh2-pj76-4m96] Specification non-compliance in JUMPI,https://github.com/advisories/GHSA-pvh2-pj76-4m96,https://j.mp/3G34ZcA
+GithubAdvisories,[GHSA-pvv8-8fx9-h673] Path Traversal in @backstage/plugin-scaffolder-backend,https://github.com/advisories/GHSA-pvv8-8fx9-h673,https://j.mp/3phfIu3
