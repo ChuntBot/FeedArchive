@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommit,[Web] ui texts - disabled escaping,https://github.com/mailcow/mailcow-dockerized/commit/7456eeb737130bde9f15a44fa3fd62e1578ce18b,https://j.mp/3vrWgvB
+GithubCommit,[Web] admin license section - fixed icons,https://github.com/mailcow/mailcow-dockerized/commit/1fdf29c11c07627191f9b237feaa704ae0c3b29e,https://j.mp/3DXEiUz
+GithubCommit,[Helper] Change -V to --version to be more compatible with ancient OS,https://github.com/mailcow/mailcow-dockerized/commit/874446eec022b5e09dc3abc6134b1f4a1ea566fa,https://j.mp/3DTOKwl
+GithubCommit,Merge remote-tracking branch 'origin/master',https://github.com/mailcow/mailcow-dockerized/commit/46f11488f5e1fa3cfd6d8dc8f1bed8762c05e19a,https://j.mp/3aQ3NL9
