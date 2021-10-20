@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommit,[GH-Actions][stale] Add investigating label to exempt list,https://github.com/mailcow/mailcow-dockerized/commit/35c9cd783216e91ee7d9b6b7c6d2d8de564f0167,https://j.mp/2Z2iQ1R
+GithubCommit,[Web] Added missing spacing between flag icon and text,https://github.com/mailcow/mailcow-dockerized/commit/8656daa91737eef7c20ed9ce6a47289a9a04c762,https://j.mp/3aQeI7N
+GithubCommit,[Web] fixed totp var in twig,https://github.com/mailcow/mailcow-dockerized/commit/f43e9f7ea217172c310c545b2d168156e553c97f,https://j.mp/3pntwmO
+GithubCommit,[Web] fixed lang strings containing special chars,https://github.com/mailcow/mailcow-dockerized/commit/efa9d10a688bcf78f39f1b9cae2264623231e9d4,https://j.mp/3G4PnFs
+GithubCommit,Merge remote-tracking branch 'upstream/staging',https://github.com/mailcow/mailcow-dockerized/commit/4811e71269888ad7fd1a26c89ad036ca2c883c87,https://j.mp/3nbLN3I
