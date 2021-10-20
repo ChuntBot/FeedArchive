@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] fixed totp var in twig,https://github.com/mailcow/mailcow-dockerized/commit/f43e9f7ea217172c310c545b2d168156e553c97f,https://j.mp/3pntwmO
+GithubCommitStaging,[Web] fixed lang strings containing special chars,https://github.com/mailcow/mailcow-dockerized/commit/efa9d10a688bcf78f39f1b9cae2264623231e9d4,https://j.mp/3G4PnFs
