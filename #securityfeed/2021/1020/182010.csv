@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mh8g-hprg-8363] Hard-Coded Key Used For Remember-me Token in Opencast,https://github.com/advisories/GHSA-mh8g-hprg-8363,https://j.mp/36BuXRq
+GithubAdvisories,[GHSA-94qw-r73x-j7hg] Users with ROLE_COURSE_ADMIN can create new users in Opencast,https://github.com/advisories/GHSA-94qw-r73x-j7hg,https://j.mp/3aZaGbN
+GithubAdvisories,[GHSA-vmm6-w4cf-7f3x] Authentication Bypass For Endpoints With Anonymous Access in Opencast,https://github.com/advisories/GHSA-vmm6-w4cf-7f3x,https://j.mp/3aZaFEL
+GithubAdvisories,[GHSA-44cw-p2hm-gpf6] Disabled Hostname Verification in Opencast,https://github.com/advisories/GHSA-44cw-p2hm-gpf6,https://j.mp/3mTtMFX
