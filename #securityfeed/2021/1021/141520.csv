@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-59jw-jqf4-3wq3] XStream is vulnerable to an Arbitrary Code Execution attack,https://github.com/advisories/GHSA-59jw-jqf4-3wq3,https://j.mp/3ccyagw
+GithubAdvisories,[GHSA-hvv8-336g-rx3m] A Server-Side Forgery Request can be activated unmarshalling with XStream to access data streams from an arbitrary URL referencing a resource in an intranet or the local host,https://github.com/advisories/GHSA-hvv8-336g-rx3m,https://j.mp/2OQ3kkZ
+GithubAdvisories,[GHSA-74cv-f58x-f9wf] XStream is vulnerable to an Arbitrary File Deletion on the local host when unmarshalling as long as the executing process has sufficient rights,https://github.com/advisories/GHSA-74cv-f58x-f9wf,https://j.mp/3cg8cZz
+GithubAdvisories,[GHSA-hpqh-2wqx-7qp5] Memory access due to code generation flaw in Cranelift module,https://github.com/advisories/GHSA-hpqh-2wqx-7qp5,https://j.mp/2Zc6wMf
