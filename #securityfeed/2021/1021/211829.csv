@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m6cx-g6qm-p2cx] Arbitrary File Write in npm,https://github.com/advisories/GHSA-m6cx-g6qm-p2cx,https://j.mp/2PHuK8R
+GithubAdvisories,[GHSA-x64g-4xx9-fh6x] Denial of Service in Cryptacular,https://github.com/advisories/GHSA-x64g-4xx9-fh6x,https://j.mp/2zkCyZZ
+GithubAdvisories,[GHSA-95cm-88f5-f2c7] jackson-databind mishandles the interaction between serialization gadgets and typing,https://github.com/advisories/GHSA-95cm-88f5-f2c7,https://j.mp/2S2w87X
+GithubAdvisories,[GHSA-fqwf-pjwf-7vqv] jackson-databind mishandles the interaction between serialization gadgets and typing,https://github.com/advisories/GHSA-fqwf-pjwf-7vqv,https://j.mp/3cD7OSp
+GithubAdvisories,[GHSA-jq65-29v4-4x35] Null pointer deference in openssl-src,https://github.com/advisories/GHSA-jq65-29v4-4x35,https://j.mp/3E4y8lW
