@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-83mx-573x-5rw9] Null pointer deference in openssl-src,https://github.com/advisories/GHSA-83mx-573x-5rw9,https://j.mp/3m4zKGc
+GithubAdvisories,[GHSA-8hfj-xrj2-pm22] Certificate check bypass in openssl-src,https://github.com/advisories/GHSA-8hfj-xrj2-pm22,https://j.mp/3AYrzz7
