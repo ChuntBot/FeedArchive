@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-84rm-qf37-fgc2] Integer Overflow in openssl-src,https://github.com/advisories/GHSA-84rm-qf37-fgc2,https://j.mp/3C3wfoF
+GithubAdvisories,[GHSA-4mvj-rq4v-2fxw] Prototype Pollution in x-assign,https://github.com/advisories/GHSA-4mvj-rq4v-2fxw,https://j.mp/3B1zgoj
+GithubAdvisories,[GHSA-h4m5-qpfp-3mpv] Directory Traversal in Babel,https://github.com/advisories/GHSA-h4m5-qpfp-3mpv,https://j.mp/3vxrLo1
+GithubAdvisories,[GHSA-3pcq-34w5-p4g2] forEachSeries and forEachLimit do not limit the number of requests,https://github.com/advisories/GHSA-3pcq-34w5-p4g2,https://j.mp/3G8HPS3
+GithubAdvisories,[GHSA-5rg2-6qr5-2xp8] Cross-site Scripting in snipe-it,https://github.com/advisories/GHSA-5rg2-6qr5-2xp8,https://j.mp/3jnX9Ax
+GithubAdvisories,[GHSA-c7v4-m269-4995] Exposure of Sensitive Information to an Unauthorized Actor in Moodle,https://github.com/advisories/GHSA-c7v4-m269-4995,https://j.mp/3CaVJRq
+GithubAdvisories,[GHSA-g92x-8m54-p89v] Cross-Site Request Forgery in snipe-it,https://github.com/advisories/GHSA-g92x-8m54-p89v,https://j.mp/3m2pIoV
+GithubAdvisories,[GHSA-5fvx-5p2r-4mvp] Open Redirect in firefly-iii,https://github.com/advisories/GHSA-5fvx-5p2r-4mvp,https://j.mp/2XzIzyf
+GithubAdvisories,[GHSA-9g3v-j3cr-6fc6] Cross-site Scripting in snipe-it,https://github.com/advisories/GHSA-9g3v-j3cr-6fc6,https://j.mp/3aWZAFp
+GithubAdvisories,[GHSA-2p6r-37p9-89p2] Authz Module Non-Determinism,https://github.com/advisories/GHSA-2p6r-37p9-89p2,https://j.mp/3aVQnNQ
+GithubAdvisories,[GHSA-7m27-3587-83xf] Privilege Defined With Unsafe Actions in Keycloak,https://github.com/advisories/GHSA-7m27-3587-83xf,https://j.mp/3ndwfws
