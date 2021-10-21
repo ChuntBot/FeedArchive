@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g8hw-794c-4j9g] Moderate severity vulnerability that affects org.springframework:spring-core,https://github.com/advisories/GHSA-g8hw-794c-4j9g,https://j.mp/3q3kDf2
+GithubAdvisories,[GHSA-3rmv-2pg5-xvqj] High severity vulnerability that affects org.springframework:spring-core,https://github.com/advisories/GHSA-3rmv-2pg5-xvqj,https://j.mp/3nrneOl
+GithubAdvisories,[GHSA-84p2-vf58-xhxv] Billion laughs attack in c3p0,https://github.com/advisories/GHSA-84p2-vf58-xhxv,https://j.mp/3f9zI94
