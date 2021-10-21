@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommit,[GH-Actions][stale] Add investigating label to exempt list,https://github.com/mailcow/mailcow-dockerized/commit/b682ec43ea21876de3021174d56416508ee650df,https://j.mp/30QEdUN
+GithubCommit,[Web] fixed totp var in twig,https://github.com/mailcow/mailcow-dockerized/commit/974100400b310e9c85702d546a11f571c3151a30,https://j.mp/3vyN6xb
+GithubCommit,[Web] fixed lang strings containing special chars,https://github.com/mailcow/mailcow-dockerized/commit/3182239b0e0a45fcff04c0d81d66e4fafb4aea2e,https://j.mp/2ZdBofS
