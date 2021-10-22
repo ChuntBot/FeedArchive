@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommit,[Web] Update lang.sk.json (#4295),https://github.com/mailcow/mailcow-dockerized/commit/202989b8a0329c0bd4691405a2b7b6a396316d0d,https://j.mp/2ZjbeZd
+GithubCommit,Update lang.de.json (#4294),https://github.com/mailcow/mailcow-dockerized/commit/85f2b5265b0892e50533e275a7f8e71bd1746523,https://j.mp/3aZWoJk
+GithubCommit,[Web] qhandler - added missing twig templating,https://github.com/mailcow/mailcow-dockerized/commit/51d48a3c7cba9e56696766d1f9d8429f9cb9488e,https://j.mp/3vzuNYQ
