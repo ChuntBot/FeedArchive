@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-27001 (clustered_data_ontap),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27001,https://j.mp/3pudNlG
+NVD-NIST,CVE-2021-32663 (itop),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-32663,https://j.mp/3EaM9yb
+NVD-NIST,CVE-2021-32664 (itop),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-32664,https://j.mp/3ppCMXv
+NVD-NIST,CVE-2021-37136 (netty),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37136,https://j.mp/30IF0Xw
+NVD-NIST,CVE-2021-37137 (netty),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37137,https://j.mp/3GbhEdn
+NVD-NIST,"CVE-2021-3746 (enterprise_linux, fedora, libtpms)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3746,https://j.mp/3E4Dw8w
+NVD-NIST,CVE-2021-39329 (jobboardwp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-39329,https://j.mp/3jvFI0T
+NVD-NIST,CVE-2021-39343 (mpl-publisher),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-39343,https://j.mp/3pvIpDw
+NVD-NIST,CVE-2021-39355 (indeed-job-importer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-39355,https://j.mp/3m6zoyx
+NVD-NIST,CVE-2021-41131 (the_update_framework),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41131,https://j.mp/3pz4G3v
+NVD-NIST,CVE-2021-41140 (discourse_reactions),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41140,https://j.mp/30SgseW
