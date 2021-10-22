@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c6qr-h5vq-59jc] Untrusted users can run pending migrations in production in Rails,https://github.com/advisories/GHSA-c6qr-h5vq-59jc,https://j.mp/2YYiSnq
+GithubAdvisories,[GHSA-xq5j-gw7f-jgj8] CSRF Vulnerability in rails-ujs,https://github.com/advisories/GHSA-xq5j-gw7f-jgj8,https://j.mp/2Z8C17D
