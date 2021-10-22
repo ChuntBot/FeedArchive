@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5h9g-x5rv-25wg] Cross-site scripting vulnerability in TinyMCE,https://github.com/advisories/GHSA-5h9g-x5rv-25wg,https://j.mp/2Z797XX
+GithubAdvisories,[GHSA-v988-828w-xvf2] Authentication Bypass Using an Alternate Path or Channel and Authentication Bypass by Primary Weakness in rucio-webui,https://github.com/advisories/GHSA-v988-828w-xvf2,https://j.mp/3juibO2
+GithubAdvisories,[GHSA-h58v-g3q6-q9fx] Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) in sulu/sulu,https://github.com/advisories/GHSA-h58v-g3q6-q9fx,https://j.mp/3CdBbaY
+GithubAdvisories,[GHSA-vw27-fwjf-5qxm] Arbitrary command execution on Windows via qutebrowserurl: URL handler,https://github.com/advisories/GHSA-vw27-fwjf-5qxm,https://j.mp/3jnuQCj
+GithubAdvisories,[GHSA-4365-fhm5-qcrx] Maliciously Crafted Model Archive Can Lead To Arbitrary File Write,https://github.com/advisories/GHSA-4365-fhm5-qcrx,https://j.mp/3juL8Jx
