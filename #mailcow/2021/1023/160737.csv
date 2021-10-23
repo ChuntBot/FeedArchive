@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] Twig: fix force pw update text,https://github.com/mailcow/mailcow-dockerized/commit/32745efd134cfd8f5c924f6b589c4cf60be81f33,https://j.mp/2ZeYgf7
+GithubCommitStaging,[Update] Fix exit in generate_config.sh (#4274),https://github.com/mailcow/mailcow-dockerized/commit/d278f22438b3f7fd3458a67cf72d5788dca35022,https://j.mp/3ju5aEe
+GithubCommitStaging,[Rspamd] Enhance SOGo contacts dynmap (#4245),https://github.com/mailcow/mailcow-dockerized/commit/a26bbff63f5e97e1c162572996e2a0a4e0ffd9d9,https://j.mp/2ZhVqGe
