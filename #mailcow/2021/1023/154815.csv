@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubCommit,[Web] Forbidden SOGo access does still allow login via SSO,https://github.com/mailcow/mailcow-dockerized/commit/e2be1d9751d29fceb14178f7c34b1fc8d76470e5,https://j.mp/3ptCaQK
+GithubCommit,[Web] register fido2 btn in user view fixed on mobile,https://github.com/mailcow/mailcow-dockerized/commit/e634cae932378438d5e83fe8e6a3cfab10c4f4b1,https://j.mp/3Ce8yKM
+GithubCommit,[Dovecot] Do not disallow app passwords when force_password_reset is …,https://github.com/mailcow/mailcow-dockerized/commit/56e8e88276d99c189832651ae58a38f0f868f01a,https://j.mp/2ZpE6yR
+GithubCommit,[Helper] Minor cosmetic changes to cold standby script,https://github.com/mailcow/mailcow-dockerized/commit/25a5978043091f754ce44fda8242e81f1f186a87,https://j.mp/3Cbyt5u
+GithubCommit,[Web] Fixed netfilter list of banned IPs,https://github.com/mailcow/mailcow-dockerized/commit/254778fb2058e58c5115a0e8a261774c74c8b9f3,https://j.mp/3GgRGW4
+GithubCommit,[Web] Fixed list of tfa keys,https://github.com/mailcow/mailcow-dockerized/commit/ea6be8a9f84222fdc272f90c00eb25726929839d,https://j.mp/3m6iKPy
+GithubCommit,[Web] fixed logo image informations,https://github.com/mailcow/mailcow-dockerized/commit/8e911c1283e02d751e2ea6732c7f75bc7ca6120b,https://j.mp/3EeYfGV
+GithubCommit,[Web] Allow multiple TOTP,https://github.com/mailcow/mailcow-dockerized/commit/8769a91388dc242031dc1edce0731e638b54fe6b,https://j.mp/3m7lCvN
+GithubCommit,[Web] Twig: fix force pw update text,https://github.com/mailcow/mailcow-dockerized/commit/32745efd134cfd8f5c924f6b589c4cf60be81f33,https://j.mp/2ZeYgf7
