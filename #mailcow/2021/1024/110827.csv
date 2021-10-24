@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommit,[Update] Fix exit in generate_config.sh (#4274),https://github.com/mailcow/mailcow-dockerized/commit/d278f22438b3f7fd3458a67cf72d5788dca35022,https://j.mp/3ju5aEe
+GithubCommit,[Rspamd] Enhance SOGo contacts dynmap (#4245),https://github.com/mailcow/mailcow-dockerized/commit/a26bbff63f5e97e1c162572996e2a0a4e0ffd9d9,https://j.mp/2ZhVqGe
+GithubCommit,[Web] Ask for confirmation before deleting OTP; Twig: fix parsing of …,https://github.com/mailcow/mailcow-dockerized/commit/514e620c893974b2e2c3a478a9c6e73818b601c6,https://j.mp/3vCpR5q
+GithubCommit,[Web] Updated SK and CS languages,https://github.com/mailcow/mailcow-dockerized/commit/3bdbc1e3c39bd51ce697d5c9a78975c1ad752676,https://j.mp/2Zgsgqq
+GithubCommit,[Web] Fix missing IP in autodiscover logs,https://github.com/mailcow/mailcow-dockerized/commit/4019dc5477f8db0f3aef8af67f99cd4c0e599f42,https://j.mp/3jxal6a
