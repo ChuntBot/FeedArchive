@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w7x8-cq7r-g5g9] Cross Site Scripting in Microweber,https://github.com/advisories/GHSA-w7x8-cq7r-g5g9,https://j.mp/3GlW2uX
+GithubAdvisories,[GHSA-4286-h47h-m5v6] Improper Authentication in showdoc,https://github.com/advisories/GHSA-4286-h47h-m5v6,https://j.mp/2ZeUpOF
+GithubAdvisories,[GHSA-ppj4-34rq-v8j9] regular expression denial of service in gjson,https://github.com/advisories/GHSA-ppj4-34rq-v8j9,https://j.mp/3pxqXi1
+GithubAdvisories,[GHSA-3374-7h99-xr85] Cross-site scripting in forkcms,https://github.com/advisories/GHSA-3374-7h99-xr85,https://j.mp/3nmJfzM
+GithubAdvisories,[GHSA-59hh-656j-3p7v] DoS via maliciously crafted p2p message,https://github.com/advisories/GHSA-59hh-656j-3p7v,https://j.mp/3Ci922u
+GithubAdvisories,[GHSA-m49f-hcxp-6hm6] CSRF allowing an external page to trigger a user logout event,https://github.com/advisories/GHSA-m49f-hcxp-6hm6,https://j.mp/3Gegfmm
