@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+PacketstormSecurity,FreeSWITCH 1.10.6 SRTP Packet Denial Of Service,https://packetstormsecurity.com/files/164639/ES2021-09.txt,https://j.mp/3jAwsbW
+PacketstormSecurity,FreeSWITCH 1.10.5 SIP SUBSCRIBE Missing Authentication,https://packetstormsecurity.com/files/164638/ES2021-08.txt,https://j.mp/2ZlmsMZ
+PacketstormSecurity,Gestionale Open 11.00.00 Privilege Escalation,https://packetstormsecurity.com/files/164636/gestionaleopen110000-escalate.txt,https://j.mp/3vGyThO
+PacketstormSecurity,WordPress 4.9.6 Arbitrary File Deletion,https://packetstormsecurity.com/files/164633/wordpress96-filedelete.txt,https://j.mp/2Zkjt6S
+PacketstormSecurity,WordPress Ninja Tables 4.1.7 Cross Site Scripting,https://packetstormsecurity.com/files/164632/wpninjatables417-xss.txt,https://j.mp/3E6cLAC
+PacketstormSecurity,Botan C++ Crypto Algorithms Library 2.18.2,https://packetstormsecurity.com/files/164634/Botan-2.18.2.tar.xz,https://j.mp/3pB7Gfv
+PacketstormSecurity,FreeSWITCH 1.10.6 Missing SIP MESSAGE Authentication,https://packetstormsecurity.com/files/164628/ES2021-07.txt,https://j.mp/3bcCJGd
+PacketstormSecurity,Apache 2.4.49 / 2.4.50 Traversal / Remote Code Execution,https://packetstormsecurity.com/files/164629/apache_normalize_path_rce.rb.txt,https://j.mp/3pQ4HjJ
+PacketstormSecurity,Red Hat Security Advisory 2021-3971-01,https://packetstormsecurity.com/files/164627/RHSA-2021-3971-01.txt,https://j.mp/3pC2Df4
+PacketstormSecurity,WordPress Media-Tags 3.2.0.2 Cross Site Scripting,https://packetstormsecurity.com/files/164626/wpmediatags3203-xss.txt,https://j.mp/3nrFOrz
+PacketstormSecurity,Online Student Admission System 1.0 SQL Injection / Shell Upload,https://packetstormsecurity.com/files/164625/Online_Admission_System_CVEs-Gerard-Carbonell.pdf,https://j.mp/3mchnyO
+PacketstormSecurity,FreeSWITCH 1.10.6 SIP Flooding Denial Of Service,https://packetstormsecurity.com/files/164624/ES2021-06.txt,https://j.mp/3pyMVkz
+PacketstormSecurity,phpMyAdmin 4.8.1 Remote Code Execution,https://packetstormsecurity.com/files/164623/phpmyadmin481-exec.txt,https://j.mp/3GkvdXY
+PacketstormSecurity,FreeSWITCH 1.10.6 SIP Digest Leak,https://packetstormsecurity.com/files/164622/ES2021-05.txt,https://j.mp/3vGyTyk
+PacketstormSecurity,GridPro Request Management For Windows Azure Pack 2.0.7905 Directory Traversal,https://packetstormsecurity.com/files/164621/CSA-2021-003.txt,https://j.mp/2Zj2yBQ
+PacketstormSecurity,Red Hat Security Advisory 2021-3967-01,https://packetstormsecurity.com/files/164620/RHSA-2021-3967-01.txt,https://j.mp/2ZsTuKX
+PacketstormSecurity,Red Hat Security Advisory 2021-3968-01,https://packetstormsecurity.com/files/164619/RHSA-2021-3968-01.txt,https://j.mp/3vKeOY1
+PacketstormSecurity,Engineers Online Portal 1.0 SQL Injection,https://packetstormsecurity.com/files/164618/engop10-sql.txt,https://j.mp/3GiV3vF
+PacketstormSecurity,Engineers Online Portal 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/164617/eop10-xss.txt,https://j.mp/3pBDiSc
+PacketstormSecurity,Online Event Booking And Reservation System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/164615/oebrs10-xss.txt,https://j.mp/3pByxYX
+PacketstormSecurity,Red Hat Security Advisory 2021-3961-01,https://packetstormsecurity.com/files/164614/RHSA-2021-3961-01.txt,https://j.mp/3CqjHYE
+PacketstormSecurity,Red Hat Security Advisory 2021-3960-01,https://packetstormsecurity.com/files/164613/RHSA-2021-3960-01.txt,https://j.mp/3CgncRp
