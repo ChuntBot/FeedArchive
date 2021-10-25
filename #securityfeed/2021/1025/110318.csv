@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] WordPress Plugin Ninja Tables 4.1.7 - Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50455,https://j.mp/3EeJTpK
+ExploitDB,[webapps] WordPress Plugin Media-Tags 3.2.0.2 - Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50454,https://j.mp/3CcZqG9
+ExploitDB,[webapps] Engineers Online Portal 1.0 - 'id' SQL Injection,https://www.exploit-db.com/exploits/50453,https://j.mp/3Bamggk
+ExploitDB,[webapps] Engineers Online Portal 1.0 - 'multiple' Authentication Bypass,https://www.exploit-db.com/exploits/50452,https://j.mp/3nuwzHj
+ExploitDB,[webapps] Engineers Online Portal 1.0 - 'multiple' Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50451,https://j.mp/3Balm3h
+ExploitDB,[webapps] Online Event Booking and Reservation System 1.0 - 'reason' Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50450,https://j.mp/3CcdsYz
+ExploitDB,[local] Gestionale Open 11.00.00 - Local Privilege Escalation,https://www.exploit-db.com/exploits/50449,https://j.mp/3vJahVR
+ExploitDB,[local] OpenClinic GA 5.194.18 - Local Privilege Escalation,https://www.exploit-db.com/exploits/50448,https://j.mp/2XH9nfU
+ExploitDB,[webapps] Balbooa Joomla Forms Builder 2.0.6 - SQL Injection (Unauthenticated),https://www.exploit-db.com/exploits/50447,https://j.mp/3mba4rn
+ExploitDB,[webapps] Apache HTTP Server 2.4.50 - Remote Code Execution (RCE) (2),https://www.exploit-db.com/exploits/50446,https://j.mp/3nnOgZ2
+ExploitDB,[webapps] Build Smart ERP 21.0817 - 'eidValue' SQL Injection (Unauthenticated),https://www.exploit-db.com/exploits/50445,https://j.mp/3jvmqsn
+ExploitDB,[webapps] Engineers Online Portal 1.0 - File Upload Remote Code Execution (RCE),https://www.exploit-db.com/exploits/50444,https://j.mp/3b6aTvh
+ExploitDB,[local] Netgear Genie 2.4.64 - Unquoted Service Path,https://www.exploit-db.com/exploits/50443,https://j.mp/3vGiABL
