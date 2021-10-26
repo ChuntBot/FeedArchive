@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j7qv-pgf6-hvh4] XSS in `*Text` options of the Datepicker widget in jquery-ui,https://github.com/advisories/GHSA-j7qv-pgf6-hvh4,https://j.mp/3jEqPtg
+GithubAdvisories,[GHSA-gpqq-952q-5327] XSS in the `of` option of the `.position()` util in jquery-ui,https://github.com/advisories/GHSA-gpqq-952q-5327,https://j.mp/30RQB6H
+GithubAdvisories,[GHSA-9gj3-hwp5-pmwc] XSS in the `altField` option of the Datepicker widget in jquery-ui,https://github.com/advisories/GHSA-9gj3-hwp5-pmwc,https://j.mp/3mdp5cb
