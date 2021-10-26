@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mpvw-25mg-59vx] Server-side Request Forgery (SSRF) via img tags in reportlab,https://github.com/advisories/GHSA-mpvw-25mg-59vx,https://j.mp/3wb1Q5h
