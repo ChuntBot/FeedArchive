@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j8fq-86c5-5v2r] Remote code execution in dask,https://github.com/advisories/GHSA-j8fq-86c5-5v2r,https://j.mp/2ZzthdK
+GithubAdvisories,[GHSA-4p3x-8qw9-24w9] Authenticated Stored XSS in shopware/shopware,https://github.com/advisories/GHSA-4p3x-8qw9-24w9,https://j.mp/3pDNutA
+GithubAdvisories,[GHSA-jvjp-vh27-r9h5] Cross-site Scripting in PiranhaCMS,https://github.com/advisories/GHSA-jvjp-vh27-r9h5,https://j.mp/2Zv5awx
+GithubAdvisories,[GHSA-w729-7633-2fw5] Deserialization of Untrusted Data leading to Remote Code Execution in Apache Storm,https://github.com/advisories/GHSA-w729-7633-2fw5,https://j.mp/2Zr3zI7
+GithubAdvisories,[GHSA-6768-mcjc-8223] Command injection leading to Remote Code Execution in Apache Storm,https://github.com/advisories/GHSA-6768-mcjc-8223,https://j.mp/3mi91WE
