@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-23042 (super_backup),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23042,https://j.mp/3beSn3O
+NVD-NIST,CVE-2021-38449 (versiondog),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38449,https://j.mp/319TQ9S
+NVD-NIST,CVE-2021-41172 (antsword_redis),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41172,https://j.mp/3mlhF6Q
+NVD-NIST,"CVE-2021-41304 (jira, jira_software_data_center)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41304,https://j.mp/3GmhArk
+NVD-NIST,"CVE-2021-41305 (jira, jira_software_data_center)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41305,https://j.mp/2ZsxtLU
+NVD-NIST,"CVE-2021-41306 (jira, jira_software_data_center)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41306,https://j.mp/3nz8Y8c
+NVD-NIST,"CVE-2021-41307 (jira, jira_software_data_center)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41307,https://j.mp/3nzfwUf
+NVD-NIST,"CVE-2021-41308 (jira, jira_software_data_center)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41308,https://j.mp/3vZ9r7C
