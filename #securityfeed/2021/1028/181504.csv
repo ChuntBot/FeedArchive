@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2011-4574 (polarssl),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2011-4574,https://j.mp/315Bjvf
+NVD-NIST,CVE-2020-14264 (traveler_companion),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14264,https://j.mp/3En484I
+NVD-NIST,"CVE-2021-34595 (plcwinnt, runtime_toolkit)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34595,https://j.mp/3vRLFu2
+NVD-NIST,"CVE-2021-34596 (plcwinnt, runtime_toolkit)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34596,https://j.mp/3Ct35zQ
+NVD-NIST,"CVE-2021-34754 (firepower_management_center, firepower_threat_defense)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34754,https://j.mp/3bjmXcq
+NVD-NIST,CVE-2021-35233 (kiwi_syslog_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-35233,https://j.mp/3BoczuL
+NVD-NIST,CVE-2021-35499 (nimbus),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-35499,https://j.mp/3jOfkiX
+NVD-NIST,"CVE-2021-37127 (imanager_neteco_6000_firmware, imanager_neteco_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37127,https://j.mp/3vSau9k
+NVD-NIST,"CVE-2021-37129 (ips_module_firmware, ngfw_module_firmware, nip6600_firmware, s12700_firmware, s1700_firmware, s2700_firmware, s5700_firmware, s6700_firmware, s7700_firmware, s9700_firmware, usg9500_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37129,https://j.mp/2ZvTsSJ
+NVD-NIST,CVE-2021-37371 (online_student_admission_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37371,https://j.mp/3br1yy1
+NVD-NIST,CVE-2021-37372 (online_student_admission_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37372,https://j.mp/3jMw6iy
+NVD-NIST,CVE-2021-40865 (storm),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-40865,https://j.mp/3bhSmfs
