@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2017-20007 (ingepac_da_au_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-20007,https://j.mp/3pQB5Cy
+NVD-NIST,CVE-2021-1115 (gpu_display_driver),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1115,https://j.mp/3Cpih0x
+NVD-NIST,CVE-2021-1116 (gpu_display_driver),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-1116,https://j.mp/2ZFhMRV
+NVD-NIST,"CVE-2021-22401 (emui, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22401,https://j.mp/3jMcMlt
+NVD-NIST,"CVE-2021-22402 (emui, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22402,https://j.mp/2ZuQrSj
+NVD-NIST,"CVE-2021-22404 (emui, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22404,https://j.mp/3vW0Dzp
+NVD-NIST,"CVE-2021-22405 (emui, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22405,https://j.mp/3motV6D
+NVD-NIST,"CVE-2021-34763 (firepower_management_center_virtual_appliance, firepower_threat_defense, sourcefire_defense_center)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34763,https://j.mp/3CBXZB2
+NVD-NIST,"CVE-2021-34764 (firepower_management_center_virtual_appliance, firepower_threat_defense, sourcefire_defense_center)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34764,https://j.mp/3167D13
+NVD-NIST,CVE-2021-35231 (kiwi_syslog_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-35231,https://j.mp/3EtXw4O
+NVD-NIST,CVE-2021-38258 (mcuxpresso_software_development_kit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38258,https://j.mp/3mmoVz8
+NVD-NIST,CVE-2021-38260 (mcuxpresso_software_development_kit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38260,https://j.mp/3vUjV81
+NVD-NIST,CVE-2021-41157 (freeswitch),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41157,https://j.mp/3EtXvOi
+NVD-NIST,CVE-2021-41158 (freeswitch),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41158,https://j.mp/31dkRt5
+NVD-NIST,CVE-2021-41173 (go_ethereum),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41173,https://j.mp/2ZCk3xn
+NVD-NIST,CVE-2021-41175 (web_interface),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41175,https://j.mp/3CtAgTU
+NVD-NIST,CVE-2021-41188 (shopware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41188,https://j.mp/3mmoHYO
