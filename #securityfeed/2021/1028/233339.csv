@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pfj7-w373-gqch] Cross-Site Request Forgery in firefly-iii,https://github.com/advisories/GHSA-pfj7-w373-gqch,https://j.mp/3nxe2tO
+GithubAdvisories,[GHSA-rqgp-ccph-5w65] Cross-Site Request Forgery in firefly-iii,https://github.com/advisories/GHSA-rqgp-ccph-5w65,https://j.mp/3mnWuRk
+GithubAdvisories,[GHSA-97x5-cc53-cv4v] Cross site scripting in froala-editor,https://github.com/advisories/GHSA-97x5-cc53-cv4v,https://j.mp/31dlKSo
+GithubAdvisories,[GHSA-5xvc-vgmp-jgc3] Improper Access Control in jupyterhub-firstuseauthenticator,https://github.com/advisories/GHSA-5xvc-vgmp-jgc3,https://j.mp/3pMxJQV
