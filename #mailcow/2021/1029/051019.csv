@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubCommitStaging,"Updated L10N DE,EN,FR,IT(EN)",https://github.com/mailcow/mailcow-dockerized/commit/06ac1a14643e4718629f187045407b6a3cd0f348,https://j.mp/3mr83ri
+GithubCommitStaging,"Updated L10N CS,DA,NL,RO,RU,SK,SV",https://github.com/mailcow/mailcow-dockerized/commit/2a4764aa4164f92865e206e47f97f3f4baaffb8f,https://j.mp/3vVyg4e
+GithubCommitStaging,"Updated L10N CS,DA,NL,RO,RU,SK,SV",https://github.com/mailcow/mailcow-dockerized/commit/75c01bd5df4fd942072a53237c4f961358f7f1b8,https://j.mp/3nHDVaa
+GithubCommitStaging,Merge commit 'refs/pull/4296/head' of github.com:mailcow/mailcow-dock…,https://github.com/mailcow/mailcow-dockerized/commit/cbc3c87b77744f1013aa7664063a9f5a8d4c9a87,https://j.mp/3mqiaMO
+GithubCommitStaging,Merge branch 'hotfix' into app-passwd-daveas,https://github.com/mailcow/mailcow-dockerized/commit/7fdd73135b0e1fe2e17ebebdd55343696f8b32cb,https://j.mp/3bimjfz
+GithubCommitStaging,Removed toggle ALLOW_APP_PASSWORDS_IN_EAS,https://github.com/mailcow/mailcow-dockerized/commit/d38c37125393faf4eef00590b8437cfd862bef66,https://j.mp/3nG926g
+GithubCommitStaging,[Compose] Update SOGo image,https://github.com/mailcow/mailcow-dockerized/commit/c0011013b8f29af1bc5dce4349e8ccf145dc4264,https://j.mp/3bnYToS
+GithubCommitStaging,"[Web] Disable SSO button when admin login is disabled, fixes #4297",https://github.com/mailcow/mailcow-dockerized/commit/f01de1a5c064808f11760aa1daf0dedc3bb46fda,https://j.mp/3pOI3YY
+GithubCommitStaging,"[Web, Dovecot] Allow to define scope of services for app passwords",https://github.com/mailcow/mailcow-dockerized/commit/e13bc242a4130c1333f995c1bf02369c06e3a16d,https://j.mp/3CrMTic
+GithubCommitStaging,[Web] Minor fix,https://github.com/mailcow/mailcow-dockerized/commit/514340b2a705d08908ed6e5d84efb54e45c41f8a,https://j.mp/3nG8XQ0
+GithubCommitStaging,"[Web, Dovecot] Add sieve and pop3 to protocol access for app passwords",https://github.com/mailcow/mailcow-dockerized/commit/15ce95e78d262322cd65f1a6241753d686e462e3,https://j.mp/3EvH5Vz
+GithubCommitStaging,[Watchdog] Add Watchdog verbose logging (#4299),https://github.com/mailcow/mailcow-dockerized/commit/6bf70cf84621be2926f1550cfc71bfbe4ef08c5f,https://j.mp/3EuCEue
+GithubCommitStaging,[Web] Remove service chevrons,https://github.com/mailcow/mailcow-dockerized/commit/e391b054d3bbdf52a3e6cfe0e31a2b65b88349ee,https://j.mp/3bjr9t1
+GithubCommitStaging,Merge branch 'app-passwd-daveas' into staging,https://github.com/mailcow/mailcow-dockerized/commit/09d763548ceceb0a431b0e90391bb910e2f422e3,https://j.mp/3CxwskA
