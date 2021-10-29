@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2011-2195 (websvn),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2011-2195,https://j.mp/2Zy5awb
+NVD-NIST,CVE-2011-4119 (caml-light),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2011-4119,https://j.mp/3Bo0RQU
+NVD-NIST,CVE-2020-24932 (complaint_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24932,https://j.mp/3Cq2RcD
+NVD-NIST,CVE-2020-7867 (helpuviewer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7867,https://j.mp/3CuhE6e
+NVD-NIST,"CVE-2021-22101 (capi-release, cf-deployment)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22101,https://j.mp/2XT2V5w
+NVD-NIST,CVE-2021-32951 (webaccess/nms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-32951,https://j.mp/3nD8G0a
+NVD-NIST,"CVE-2021-34792 (adaptive_security_appliance, asa_5505_firmware, asa_5512-x_firmware, asa_5515-x_firmware, asa_5525-x_firmware, asa_5545-x_firmware, asa_5555-x_firmware, asa_5580_firmware, asa_5585-x_firmware, firepower_threat_defense)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34792,https://j.mp/3EsyLpm
+NVD-NIST,"CVE-2021-34793 (adaptive_security_appliance, asa_5505_firmware, asa_5512-x_firmware, asa_5515-x_firmware, asa_5525-x_firmware, asa_5545-x_firmware, asa_5555-x_firmware, asa_5580_firmware, asa_5585-x_firmware, firepower_threat_defense)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34793,https://j.mp/3EvvTZ5
+NVD-NIST,"CVE-2021-34794 (adaptive_security_appliance, asa_5505_firmware, asa_5512-x_firmware, asa_5515-x_firmware, asa_5525-x_firmware, asa_5545-x_firmware, asa_5555-x_firmware, asa_5580_firmware, asa_5585-x_firmware, firepower_threat_defense)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34794,https://j.mp/2ZINbD3
+NVD-NIST,"CVE-2021-37131 (imanager_neteco, imanager_neteco_6000, manageone)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37131,https://j.mp/3moSYGr
+NVD-NIST,"CVE-2021-38450 (tracer_concierge, tracer_sc+_firmware, tracer_sc_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38450,https://j.mp/3mndB5L
+NVD-NIST,CVE-2021-41078 (nameko),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41078,https://j.mp/3pIglNo
