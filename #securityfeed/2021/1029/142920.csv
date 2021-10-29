@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-q58g-455p-8vw9] In RubyGem excon, interrupted Persistent Connections May Leak Response Data",https://github.com/advisories/GHSA-q58g-455p-8vw9,https://j.mp/2r1PLD0
