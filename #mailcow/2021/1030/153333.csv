@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,"[Web] show ""apps"" only if there are any",https://github.com/mailcow/mailcow-dockerized/commit/7e2708686fe28f7a2a1d3dce9c3ca21b259d0884,https://j.mp/3vH6NDl
+GithubCommit,Update CONTRIBUTING.md,https://github.com/mailcow/mailcow-dockerized/commit/1fac5500eb826a330998bf4d39698640fe4ddfc5,https://j.mp/3jz2W6i
+GithubCommit,[Web] syncjob edit - fixed password input default value,https://github.com/mailcow/mailcow-dockerized/commit/8beeda33c7a2cd398d670ae34c3b659574590314,https://j.mp/3ChAVrt
+GithubCommit,Removed toggle ALLOW_APP_PASSWORDS_IN_EAS,https://github.com/mailcow/mailcow-dockerized/commit/d38c37125393faf4eef00590b8437cfd862bef66,https://j.mp/3nG926g
+GithubCommit,[Compose] Update SOGo image,https://github.com/mailcow/mailcow-dockerized/commit/c0011013b8f29af1bc5dce4349e8ccf145dc4264,https://j.mp/3bnYToS
+GithubCommit,"[Web] Disable SSO button when admin login is disabled, fixes #4297",https://github.com/mailcow/mailcow-dockerized/commit/f01de1a5c064808f11760aa1daf0dedc3bb46fda,https://j.mp/3pOI3YY
+GithubCommit,[Web] Update lang.sk.json (#4301),https://github.com/mailcow/mailcow-dockerized/commit/aeccdf1216821baf7c2ec8a1b877097bbc7f3f69,https://j.mp/3CowYBj
+GithubCommit,"[Web, Dovecot] Allow to define scope of services for app passwords",https://github.com/mailcow/mailcow-dockerized/commit/e13bc242a4130c1333f995c1bf02369c06e3a16d,https://j.mp/3CrMTic
+GithubCommit,[MariaDB] Decrease connection timeout to SOGo worker lifetime + 10s,https://github.com/mailcow/mailcow-dockerized/commit/15c0b3f7b7f7c7d17b8e9fdee17d7148d6fecd89,https://j.mp/3mlgDaS
+GithubCommit,[Web] Minor fix,https://github.com/mailcow/mailcow-dockerized/commit/514340b2a705d08908ed6e5d84efb54e45c41f8a,https://j.mp/3nG8XQ0
+GithubCommit,"[Web, Dovecot] Add sieve and pop3 to protocol access for app passwords",https://github.com/mailcow/mailcow-dockerized/commit/15ce95e78d262322cd65f1a6241753d686e462e3,https://j.mp/3EvH5Vz
+GithubCommit,[Watchdog] Add Watchdog verbose logging (#4299),https://github.com/mailcow/mailcow-dockerized/commit/6bf70cf84621be2926f1550cfc71bfbe4ef08c5f,https://j.mp/3EuCEue
+GithubCommit,[Web] Remove service chevrons,https://github.com/mailcow/mailcow-dockerized/commit/e391b054d3bbdf52a3e6cfe0e31a2b65b88349ee,https://j.mp/3bjr9t1
+GithubCommit,Merge branch 'app-passwd-daveas' into staging,https://github.com/mailcow/mailcow-dockerized/commit/09d763548ceceb0a431b0e90391bb910e2f422e3,https://j.mp/3CxwskA
+GithubCommit,[Web] Fix array,https://github.com/mailcow/mailcow-dockerized/commit/51c8d43223509b7e53c61525ce20657c622273be,https://j.mp/3Cxm3Fe
+GithubCommit,"[Dovecot, Web] Allow SOGo access with app password when imap is disab…",https://github.com/mailcow/mailcow-dockerized/commit/644b1f85d1b5ff43425c503c56554ac1c8d1d0a9,https://j.mp/3jLkbS7
+GithubCommit,"[Dovecot, Web] Fix remaining issues of app password enhancements from…",https://github.com/mailcow/mailcow-dockerized/commit/f0aae22f77019c906ef1545e7c3343461299f599,https://j.mp/3Ew1D01
+GithubCommit,[Dovecot] LUA fix,https://github.com/mailcow/mailcow-dockerized/commit/0e6672d9bf847d877a9c4a41b46edc7859767837,https://j.mp/3msO6A7
+GithubCommit,[Web] Display app password name in last login (#4304),https://github.com/mailcow/mailcow-dockerized/commit/9946bb34272826982c3f0c9264291384e2f8a812,https://j.mp/3BtAIjB
+GithubCommit,[Web] Show last 7 days per default in sasl logs table for user,https://github.com/mailcow/mailcow-dockerized/commit/77281629b9ad7d01c0002476ce91d0363b5ff6d9,https://j.mp/3pVAUG7
