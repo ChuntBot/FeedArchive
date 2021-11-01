@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-22047 (spring_data_rest),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22047,https://j.mp/2ZQiD2r
+NVD-NIST,CVE-2021-22096 (spring_framework),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22096,https://j.mp/3EDEo4q
+NVD-NIST,CVE-2021-22097 (spring_advanced_message_queuing_protocol),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22097,https://j.mp/2ZE8xkI
+NVD-NIST,CVE-2021-3745 (flatcore-cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3745,https://j.mp/3bLyjGJ
