@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-7875 (dext5upload),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7875,https://j.mp/3pXqshj
+NVD-NIST,CVE-2021-22044 (spring_cloud_openfeign),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22044,https://j.mp/3pYx9zU
+NVD-NIST,CVE-2021-22457 (harmonyos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22457,https://j.mp/3EFqK0D
+NVD-NIST,"CVE-2021-29786 (engineering_lifecycle_optimization, engineering_workflow_management, rational_collaborative_lifecycle_management, rational_doors_next_generation, rational_engineering_lifecycle_manager, rational_team_concert)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29786,https://j.mp/3pTyJTz
+NVD-NIST,"CVE-2021-3576 (endpoint_security_tools, total_security)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3576,https://j.mp/3nNWmdv
+NVD-NIST,"CVE-2021-36993 (emui, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-36993,https://j.mp/3CEH1Cd
+NVD-NIST,"CVE-2021-36995 (emui, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-36995,https://j.mp/3pWuHd3
+NVD-NIST,"CVE-2021-36996 (emui, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-36996,https://j.mp/3BvvQup
+NVD-NIST,"CVE-2021-36997 (emui, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-36997,https://j.mp/3EEBBrI
+NVD-NIST,"CVE-2021-36998 (emui, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-36998,https://j.mp/3Ez28GH
+NVD-NIST,"CVE-2021-36999 (emui, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-36999,https://j.mp/3nNbJmC
+NVD-NIST,"CVE-2021-37001 (emui, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37001,https://j.mp/3pWWOst
+NVD-NIST,"CVE-2021-37002 (emui, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37002,https://j.mp/3GJVyii
