@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7fw7-gh23-f832] Vulnerability in singleCrunch function leads to arbitrary code execution via filePath parameters,https://github.com/advisories/GHSA-7fw7-gh23-f832,https://j.mp/3wjflAJ
+GithubAdvisories,[GHSA-m7p2-ghfh-pjvx] Vulnerability in crunch function leads to arbitrary code execution via filePath parameters,https://github.com/advisories/GHSA-m7p2-ghfh-pjvx,https://j.mp/2ZDmoI2
+GithubAdvisories,[GHSA-v899-28g4-qmh8] XML External Entity vulnerability in Easy-XML,https://github.com/advisories/GHSA-v899-28g4-qmh8,https://j.mp/3BBJNXI
+GithubAdvisories,[GHSA-vhfp-9wvj-gwvg] XML External Entity vulnerability in MODX CMS,https://github.com/advisories/GHSA-vhfp-9wvj-gwvg,https://j.mp/3mxaUyP
+GithubAdvisories,[GHSA-cf2j-vf36-c6w8] Communities and collections administrators can escalate their privilege up to system administrator,https://github.com/advisories/GHSA-cf2j-vf36-c6w8,https://j.mp/3BHcjaw
+GithubAdvisories,[GHSA-5jxc-hmqf-3f73] Cross-Site Scripting in grav,https://github.com/advisories/GHSA-5jxc-hmqf-3f73,https://j.mp/3jVuumF
+GithubAdvisories,[GHSA-hwhf-64mh-r662] ReDoS vulnerability in parser_apache2,https://github.com/advisories/GHSA-hwhf-64mh-r662,https://j.mp/3pYh6ll
