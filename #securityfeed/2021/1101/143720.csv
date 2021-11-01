@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-844w-j86r-4x2j] Heap buffer overflow in `UnsortedSegmentSum` in TensorFlow,https://github.com/advisories/GHSA-844w-j86r-4x2j,https://j.mp/2M2A7i1
+GithubAdvisories,[GHSA-xfqh-7356-vqjj] Exposure of Sensitive Information to an Unauthorized Actor in Keycloak,https://github.com/advisories/GHSA-xfqh-7356-vqjj,https://j.mp/34IYn0z
