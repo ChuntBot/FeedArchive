@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r8hm-w5f7-wj39] Cross-site scripting vulnerability in TinyMCE plugins,https://github.com/advisories/GHSA-r8hm-w5f7-wj39,https://j.mp/3BFGoa6
+GithubAdvisories,[GHSA-4qwq-q4pr-rr7r] Vulnerability in packageCmd function leads to arbitrary code execution via filePath parameters,https://github.com/advisories/GHSA-4qwq-q4pr-rr7r,https://j.mp/2Y8tC6q
+GithubAdvisories,[GHSA-9cq3-fj2h-ggj5] Vulnerability in remove function leads to arbitrary code execution via filePath parameters,https://github.com/advisories/GHSA-9cq3-fj2h-ggj5,https://j.mp/3nTay4W
+GithubAdvisories,[GHSA-r496-7hgp-53wf] Vulnerability in dump function leads to arbitrary code execution via filePath parameters,https://github.com/advisories/GHSA-r496-7hgp-53wf,https://j.mp/3CHYU3g
+GithubAdvisories,[GHSA-4g7x-7vgq-3j28] Vulnerability in list function leads to arbitrary code execution via filePath parameters,https://github.com/advisories/GHSA-4g7x-7vgq-3j28,https://j.mp/3GH0oNr
