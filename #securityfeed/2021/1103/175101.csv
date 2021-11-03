@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hgc3-hp6x-wpgx] Antilles Dependency Confusion Vulnerability,https://github.com/advisories/GHSA-hgc3-hp6x-wpgx,https://j.mp/3EIEyax
+GithubAdvisories,[GHSA-v935-pqmr-g8v9] Unexpected panics in num-bigint,https://github.com/advisories/GHSA-v935-pqmr-g8v9,https://j.mp/3mEqjgP
+GithubAdvisories,[GHSA-qgmg-gppg-76g5] Inefficient Regular Expression Complexity in validator.js,https://github.com/advisories/GHSA-qgmg-gppg-76g5,https://j.mp/3weNQrZ
+GithubAdvisories,[GHSA-x24j-87x9-jvv5] Improper Authorization in Publify,https://github.com/advisories/GHSA-x24j-87x9-jvv5,https://j.mp/3q4f4QI
+GithubAdvisories,[GHSA-93c4-vf86-3rj7] Reflected cross-site scripting in vaadin-menu-bar webjar resources in Vaadin 14,https://github.com/advisories/GHSA-93c4-vf86-3rj7,https://j.mp/3CUoVfu
+GithubAdvisories,[GHSA-7rq6-7gv8-c37h] Missing Authorization with Default Settings in Dashboard UI,https://github.com/advisories/GHSA-7rq6-7gv8-c37h,https://j.mp/3jYU6yY
+GithubAdvisories,[GHSA-6mcm-j9cj-3vc3] Infinite loop in Apache MINA,https://github.com/advisories/GHSA-6mcm-j9cj-3vc3,https://j.mp/3EIEyHz
+GithubAdvisories,[GHSA-93g4-3phc-g4xw] SQL injection in Apache DolphinScheduler,https://github.com/advisories/GHSA-93g4-3phc-g4xw,https://j.mp/3CKnnET
+GithubAdvisories,[GHSA-hf9p-9r39-r2h3] Unrestricted Uploads in Concrete5,https://github.com/advisories/GHSA-hf9p-9r39-r2h3,https://j.mp/3BHifQH
