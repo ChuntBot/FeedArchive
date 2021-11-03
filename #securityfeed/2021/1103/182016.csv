@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p49h-hjvm-jg3h] PCX P mode buffer overflow in Pillow,https://github.com/advisories/GHSA-p49h-hjvm-jg3h,https://j.mp/3bCwlbg
+GithubAdvisories,[GHSA-3xv8-3j54-hgrp] Out-of-bounds read in Pillow,https://github.com/advisories/GHSA-3xv8-3j54-hgrp,https://j.mp/3CJiADM
+GithubAdvisories,[GHSA-vcqg-3p29-xw73] Integer overflow in Pillow,https://github.com/advisories/GHSA-vcqg-3p29-xw73,https://j.mp/3EIYF8s
