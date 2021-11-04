@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-16048 (angle),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-16048,https://j.mp/3nVg8nz
+NVD-NIST,CVE-2020-20982 (wdja_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-20982,https://j.mp/3BMXtzh
+NVD-NIST,CVE-2020-23126 (chamilo_lms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23126,https://j.mp/3bIQCMA
+NVD-NIST,CVE-2020-24000 (eyoucms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24000,https://j.mp/3nVg873
+NVD-NIST,CVE-2021-27836 (libxls),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27836,https://j.mp/3k71KaD
+NVD-NIST,CVE-2021-33593 (whale),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-33593,https://j.mp/2ZRpMiK
+NVD-NIST,CVE-2021-36176 (fortiportal),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-36176,https://j.mp/3qd2HlL
+NVD-NIST,CVE-2021-36698 (pandora_fms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-36698,https://j.mp/3qd2H5f
+NVD-NIST,CVE-2021-37147 (traffic_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37147,https://j.mp/3krCe07
+NVD-NIST,CVE-2021-37148 (traffic_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37148,https://j.mp/3bFInRt
+NVD-NIST,CVE-2021-37149 (traffic_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37149,https://j.mp/3mKsCyK
+NVD-NIST,"CVE-2021-37977 (chrome, fedora)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37977,https://j.mp/3nXnoiK
+NVD-NIST,"CVE-2021-37978 (chrome, fedora)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37978,https://j.mp/3BLrNdt
+NVD-NIST,CVE-2021-38161 (traffic_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38161,https://j.mp/3qd2HCh
+NVD-NIST,"CVE-2021-38500 (firefox, firefox_esr, thunderbird)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38500,https://j.mp/3bFIix9
+NVD-NIST,"CVE-2021-38501 (firefox, firefox_esr, thunderbird)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38501,https://j.mp/3BJ180N
+NVD-NIST,CVE-2021-38502 (thunderbird),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38502,https://j.mp/3nXkkmE
+NVD-NIST,CVE-2021-41019 (fortios),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41019,https://j.mp/3bI2iz9
+NVD-NIST,CVE-2021-41036 (paho_mqtt_c/c++_client),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41036,https://j.mp/3mIzCwf
+NVD-NIST,CVE-2021-43264 (mahara),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43264,https://j.mp/3qd2M93
+NVD-NIST,CVE-2021-43267 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43267,https://j.mp/3k71JU7
+NVD-NIST,CVE-2021-43270 (seq.app.emailplus),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43270,https://j.mp/3CQax84
+NVD-NIST,CVE-2021-43324 (librenms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43324,https://j.mp/3q5UCiq
