@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-23109 (libheif),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23109,https://j.mp/3q8xQqn
+NVD-NIST,CVE-2020-23679 (linux_network_project),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23679,https://j.mp/3k9QL0i
+NVD-NIST,CVE-2020-23680 (text2pdf),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23680,https://j.mp/3mOjnxR
+NVD-NIST,CVE-2020-6931 (print_and_scan_doctor),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6931,https://j.mp/3CP36xT
+NVD-NIST,CVE-2021-20135 (nessus),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20135,https://j.mp/3k7VRd6
+NVD-NIST,CVE-2021-23820 (jsonpointer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23820,https://j.mp/3wlQw6Q
+NVD-NIST,CVE-2021-25973 (publify),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25973,https://j.mp/31u4VCJ
+NVD-NIST,CVE-2021-38424 (dialink),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38424,https://j.mp/3wlGhzz
+NVD-NIST,"CVE-2021-41134 (nbdime, nbdime-jupyterlab)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41134,https://j.mp/2ZYH0dN
+NVD-NIST,CVE-2021-41174 (grafana),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41174,https://j.mp/3BPGc8n
+NVD-NIST,CVE-2021-41562 (snow_inventory_agent),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41562,https://j.mp/3nZdayd
+NVD-NIST,CVE-2021-41585 (traffic_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41585,https://j.mp/3GYmlb8
+NVD-NIST,CVE-2021-43032 (xenforo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43032,https://j.mp/3GY6clG
+NVD-NIST,CVE-2021-43082 (traffic_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43082,https://j.mp/3F4yREf
+NVD-NIST,CVE-2021-43141 (simple_subscription_website),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43141,https://j.mp/3qeRJvQ
+NVD-NIST,CVE-2021-43339 (network_location_mps_gmpc21),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43339,https://j.mp/31pZJje
