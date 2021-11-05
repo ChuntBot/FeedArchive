@@ -1,0 +1,29 @@
+feed,title,long_url,short_url
+ExploitDB,[local] 10-Strike Network Inventory Explorer Pro 9.31 - 'srvInventoryWebServer' Unquoted Service Path,https://www.exploit-db.com/exploits/50494,https://j.mp/3nWCkxD
+ExploitDB,[webapps] Opencart 3 Extension TMD Vendor System - Blind SQL Injection,https://www.exploit-db.com/exploits/50493,https://j.mp/3CPOVZw
+ExploitDB,[webapps] Ultimate POS 4.4 - 'name' Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50492,https://j.mp/3wkgd83
+ExploitDB,[webapps] Vanguard 2.1 - 'Search' Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50491,https://j.mp/3mM8RXP
+ExploitDB,[webapps] Isshue Shopping Cart 3.5 - 'Title' Cross Site Scripting (XSS),https://www.exploit-db.com/exploits/50490,https://j.mp/2ZW1i7H
+ExploitDB,[webapps] Mult-e-Cart Ultimate 2.4 - 'id' SQL Injection,https://www.exploit-db.com/exploits/50489,https://j.mp/3BHJCdv
+ExploitDB,[webapps] PHP Melody 3.0 - Persistent Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50488,https://j.mp/3CRrUp2
+ExploitDB,[webapps] PHP Melody 3.0 - 'vid' SQL Injection,https://www.exploit-db.com/exploits/50487,https://j.mp/3BN3f3G
+ExploitDB,[webapps] PHP Melody 3.0 - 'Multiple' Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50486,https://j.mp/3wkg98j
+ExploitDB,[webapps] Sonicwall SonicOS 6.5.4 - 'Common Name' Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50485,https://j.mp/31rMFtD
+ExploitDB,[local] RDP Manager 4.9.9.3 - Denial-of-Service (PoC),https://www.exploit-db.com/exploits/50484,https://j.mp/3k3vghx
+ExploitDB,[webapps] Simplephpscripts Simple CMS 2.1 - 'Multiple' SQL Injection,https://www.exploit-db.com/exploits/50483,https://j.mp/3o1J1hH
+ExploitDB,[webapps] Simplephpscripts Simple CMS 2.1 - 'Multiple' Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50482,https://j.mp/3GPfuR4
+ExploitDB,[webapps] OpenAM 13.0 - LDAP Injection,https://www.exploit-db.com/exploits/50480,https://j.mp/3whm6Tx
+ExploitDB,[webapps] WordPress Plugin Popup Anything 2.0.3 - 'Multiple' Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50479,https://j.mp/3wpIpq3
+ExploitDB,[webapps] Eclipse Jetty 11.0.5 - Sensitive File Disclosure,https://www.exploit-db.com/exploits/50478,https://j.mp/3bHSmp8
+ExploitDB,[webapps] Fuel CMS 1.4.1 - Remote Code Execution (3),https://www.exploit-db.com/exploits/50477,https://j.mp/3mOMhhj
+ExploitDB,[webapps] WordPress Plugin Hotel Listing 3 - 'Multiple' Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50476,https://j.mp/3EO78qY
+ExploitDB,[webapps] PHPJabbers Simple CMS 5 - 'name' Persistent Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50475,https://j.mp/2ZO5xlT
+ExploitDB,[webapps] Codiad 2.8.4 - Remote Code Execution (Authenticated) (4),https://www.exploit-db.com/exploits/50474,https://j.mp/3q6rSpN
+ExploitDB,[webapps] i3 International Annexxus Cameras Ax-n 5.2.0 - Application Logic Flaw,https://www.exploit-db.com/exploits/50473,https://j.mp/3mM8Sel
+ExploitDB,[local] 10-Strike Network Inventory Explorer Pro 9.31 - Buffer Overflow (SEH),https://www.exploit-db.com/exploits/50472,https://j.mp/2ZUptDy
+ExploitDB,[local] YouTube Video Grabber 1.9.9.1 - Buffer Overflow (SEH),https://www.exploit-db.com/exploits/50471,https://j.mp/3ENWWPq
+ExploitDB,[local] Kingdia CD Extractor 3.0.2 - Buffer Overflow (SEH),https://www.exploit-db.com/exploits/50470,https://j.mp/3bISLaZ
+ExploitDB,[webapps] Ericsson Network Location MPS GMPC21 - Privilege Escalation (Metasploit),https://www.exploit-db.com/exploits/50469,https://j.mp/3bYTSnj
+ExploitDB,[webapps] Ericsson Network Location MPS GMPC21 - Remote Code Execution (RCE) (Metasploit),https://www.exploit-db.com/exploits/50468,https://j.mp/3mM8SuR
+ExploitDB,[webapps] Employee Record Management System 1.2 - 'empid' SQL injection (Unauthenticated),https://www.exploit-db.com/exploits/50467,https://j.mp/3BZ8eyB
+ExploitDB,[local] Dynojet Power Core 2.3.0 - Unquoted Service Path,https://www.exploit-db.com/exploits/50466,https://j.mp/2YjstsX
