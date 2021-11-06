@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-25366 (dir-823g_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25366,https://j.mp/3kdGIHn
+NVD-NIST,"CVE-2021-34594 (tf6100_firmware, ts6100_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34594,https://j.mp/3bIFEqt
+NVD-NIST,"CVE-2021-34701 (unified_communications_manager, unified_communications_manager_im_and_presence_service, unity_connection)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34701,https://j.mp/3k9afBS
+NVD-NIST,CVE-2021-34731 (prime_access_registrar),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34731,https://j.mp/3wn1hWw
+NVD-NIST,"CVE-2021-34773 (unified_communications_manager, unified_communications_manager_im_and_presence_service)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34773,https://j.mp/3bOZT5P
+NVD-NIST,CVE-2021-34774 (common_services_platform_collector),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34774,https://j.mp/2YlKFCd
+NVD-NIST,"CVE-2021-34784 (evolved_programmable_network_manager, prime_infrastructure)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34784,https://j.mp/3GUtwRq
+NVD-NIST,"CVE-2021-34795 (catalyst_pon_switch_cgp-ont-1p_firmware, catalyst_pon_switch_cgp-ont-4p_firmware, catalyst_pon_switch_cgp-ont-4pv_firmware, catalyst_pon_switch_cgp-ont-4pvc_firmware, catalyst_pon_switch_cgp-ont-4tvcw_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34795,https://j.mp/3bO3gK5
+NVD-NIST,"CVE-2021-40112 (catalyst_pon_switch_cgp-ont-1p_firmware, catalyst_pon_switch_cgp-ont-4p_firmware, catalyst_pon_switch_cgp-ont-4pv_firmware, catalyst_pon_switch_cgp-ont-4pvc_firmware, catalyst_pon_switch_cgp-ont-4tvcw_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-40112,https://j.mp/3BNdzbX
+NVD-NIST,"CVE-2021-40113 (catalyst_pon_switch_cgp-ont-1p_firmware, catalyst_pon_switch_cgp-ont-4p_firmware, catalyst_pon_switch_cgp-ont-4pv_firmware, catalyst_pon_switch_cgp-ont-4pvc_firmware, catalyst_pon_switch_cgp-ont-4tvcw_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-40113,https://j.mp/3nZJMIl
+NVD-NIST,"CVE-2021-40120 (application_extension_platform, ios_xr)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-40120,https://j.mp/3nWaHVa
+NVD-NIST,CVE-2021-40124 (anyconnect_secure_mobility_client),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-40124,https://j.mp/3EMWBMQ
