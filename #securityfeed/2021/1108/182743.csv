@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-26cm-qrc6-mfgj] Improper Neutralization of Special Elements used in an LDAP Query in stevenweathers/thunderdome-planning-poker,https://github.com/advisories/GHSA-26cm-qrc6-mfgj,https://j.mp/3wqwOXP
+GithubAdvisories,[GHSA-3j9m-hcv9-rpj8] XSS vulnerability allowing arbitrary JavaScript execution,https://github.com/advisories/GHSA-3j9m-hcv9-rpj8,https://j.mp/3EW0rDj
+GithubAdvisories,[GHSA-p6rw-44q7-3fw4] Stored XSS in Jupyter nbdime,https://github.com/advisories/GHSA-p6rw-44q7-3fw4,https://j.mp/300AjrO
+GithubAdvisories,[GHSA-qm7x-rc44-rrqw] Cross-site Scripting Vulnerability in GraphQL Playground (distributed by Apollo Server),https://github.com/advisories/GHSA-qm7x-rc44-rrqw,https://j.mp/3H00GiB
+GithubAdvisories,[GHSA-59r9-6jp6-jcm7] XSS vulnerability in GraphQL Playground from untrusted schemas,https://github.com/advisories/GHSA-59r9-6jp6-jcm7,https://j.mp/30ctYKn
+GithubAdvisories,[GHSA-x4r7-m2q9-69c8] GraphiQL introspection schema template injection attack,https://github.com/advisories/GHSA-x4r7-m2q9-69c8,https://j.mp/3qxPKDh
+GithubAdvisories,[GHSA-cw7p-q79f-m2v7] incomplete JupyterHub logout with simultaneous JupyterLab sessions,https://github.com/advisories/GHSA-cw7p-q79f-m2v7,https://j.mp/3EXCRWY
+GithubAdvisories,[GHSA-862g-9h5m-m3qv] coreos-installer < 0.10.0 writes world-readable Ignition config to installed system,https://github.com/advisories/GHSA-862g-9h5m-m3qv,https://j.mp/3kiUnwW
+GithubAdvisories,[GHSA-46rx-6jg9-4fh8] Cross-site Scripting in LibreNMS,https://github.com/advisories/GHSA-46rx-6jg9-4fh8,https://j.mp/3D0yGZG
