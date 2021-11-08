@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Email-Worm.Win32.Plexus.b Code Execution,https://packetstormsecurity.com/files/164811/MVID-2021-0400.txt,https://j.mp/3EWkZM5
+PacketstormSecurity,Trojan.Win32.SkynetRef.y Unauthenticated Open Proxy,https://packetstormsecurity.com/files/164810/MVID-2021-0399.txt,https://j.mp/3mTxotR
+PacketstormSecurity,Trojan.Win32.SkynetRef.x Unauthenticated Open Proxy,https://packetstormsecurity.com/files/164809/MVID-2021-0398.txt,https://j.mp/3F0E3sF
+PacketstormSecurity,Simple Client Management System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/164808/scms10-xss.txt,https://j.mp/3GVfezY
+PacketstormSecurity,Trojan.Win32.Servstar.poa Unquoted Service Path,https://packetstormsecurity.com/files/164807/MVID-2021-0397.txt,https://j.mp/3CXR2uw
+PacketstormSecurity,Kmaleon 1.1.0.205 SQL Injection,https://packetstormsecurity.com/files/164806/kmaleon110205-sql.txt,https://j.mp/3ofDgNQ
+PacketstormSecurity,Backdoor.Win32.Hupigon.bnbb Unquoted Service Path,https://packetstormsecurity.com/files/164805/MVID-2021-0396.txt,https://j.mp/3bRF6OV
+PacketstormSecurity,HEUR.Backdoor.Win32.Denis.gen Denial Of Service,https://packetstormsecurity.com/files/164804/MVID-2021-0395.txt,https://j.mp/3o88TJ0
+PacketstormSecurity,zlog 1.2.15 Buffer Overflow,https://packetstormsecurity.com/files/164803/zlog1215-overflow.txt,https://j.mp/3HcEK42
+PacketstormSecurity,Backdoor.Win32.Hupigon.nqr Unauthenticated Open Proxy,https://packetstormsecurity.com/files/164802/MVID-2021-0394.txt,https://j.mp/3wyE4AX
+PacketstormSecurity,My Neighbor's Flat Smells Like Data,https://packetstormsecurity.com/files/164801/neighborsflat.pdf,https://j.mp/3o67LWl
+PacketstormSecurity,Froxlor 0.10.29.1 SQL Injection,https://packetstormsecurity.com/files/164800/froxlor010291-sql.txt,https://j.mp/31BaGhX
+PacketstormSecurity,Backdoor.Win32.Pahador.aj Authentication Bypass / Code Execution,https://packetstormsecurity.com/files/164799/MVID-2021-0393.txt,https://j.mp/3CWrBtn
+PacketstormSecurity,WordPress Backup And Restore 1.0.3 Arbitrary File Deletion,https://packetstormsecurity.com/files/164798/wpbackuprestore103-filedelete.txt,https://j.mp/3EVMaXf
+PacketstormSecurity,Backdoor.Win32.VB.afu Insecure Transit,https://packetstormsecurity.com/files/164797/MVID-2021-0392.txt,https://j.mp/3o6FiQ9
+PacketstormSecurity,Money Transfer Management System 1.0 SQL Injection,https://packetstormsecurity.com/files/164796/mtms10-sql.txt,https://j.mp/3BZNiXY
+PacketstormSecurity,FusionPBX 4.5.29 Remote Code Execution,https://packetstormsecurity.com/files/164795/fusionpbx4529-exec.txt,https://j.mp/3EU4b8r
+PacketstormSecurity,Backdoor.Win32.VB.afu Insecure Permissions,https://packetstormsecurity.com/files/164794/MVID-2021-0391.txt,https://j.mp/3mUHPxp
