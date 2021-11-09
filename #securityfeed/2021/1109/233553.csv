@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-22051 (spring_cloud_gateway),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22051,https://j.mp/3od1Sqg
+NVD-NIST,CVE-2021-29994 (hue),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29994,https://j.mp/3D6y4lq
+NVD-NIST,"CVE-2021-31599 (vantara_pentaho, vantara_pentaho_business_intelligence_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-31599,https://j.mp/3od1S9K
+NVD-NIST,"CVE-2021-31600 (vantara_pentaho, vantara_pentaho_business_intelligence_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-31600,https://j.mp/3Dgz9r7
+NVD-NIST,"CVE-2021-31601 (vantara_pentaho, vantara_pentaho_business_intelligence_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-31601,https://j.mp/3D2TjVk
+NVD-NIST,"CVE-2021-31602 (vantara_pentaho, vantara_pentaho_business_intelligence_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-31602,https://j.mp/3od1SGM
+NVD-NIST,CVE-2021-32481 (hue),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-32481,https://j.mp/3oieoVH
+NVD-NIST,CVE-2021-34684 (vantara_pentaho),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34684,https://j.mp/3knvCzI
+NVD-NIST,CVE-2021-34685 (vantara_pentaho),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34685,https://j.mp/3qvHDqq
+NVD-NIST,CVE-2021-42072 (barrier),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42072,https://j.mp/3H3vkrz
+NVD-NIST,CVE-2021-42073 (barrier),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42073,https://j.mp/3c3671P
+NVD-NIST,CVE-2021-42074 (barrier),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42074,https://j.mp/3n1ShDw
+NVD-NIST,CVE-2021-42075 (barrier),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42075,https://j.mp/3c366Lj
+NVD-NIST,CVE-2021-42076 (barrier),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42076,https://j.mp/30f6OTE
+NVD-NIST,CVE-2021-42078 (php_event_calendar),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42078,https://j.mp/3D1Aemv
+NVD-NIST,CVE-2021-43186 (youtrack),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43186,https://j.mp/3n0IwFn
+NVD-NIST,CVE-2021-43195 (teamcity),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43195,https://j.mp/3BV09uA
+NVD-NIST,CVE-2021-43196 (teamcity),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43196,https://j.mp/3n0uunq
+NVD-NIST,CVE-2021-43197 (teamcity),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43197,https://j.mp/3n18rwN
+NVD-NIST,CVE-2021-43198 (teamcity),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43198,https://j.mp/3D1cMpb
+NVD-NIST,CVE-2021-43199 (teamcity),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43199,https://j.mp/3C0RKFW
+NVD-NIST,CVE-2021-43200 (teamcity),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43200,https://j.mp/3C2ZuXU
+NVD-NIST,CVE-2021-43201 (teamcity),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43201,https://j.mp/31MagFM
