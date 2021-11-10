@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q9q6-f556-gpm7] Improper Verification of Cryptographic Signature in starkbank-ecdsa,https://github.com/advisories/GHSA-q9q6-f556-gpm7,https://j.mp/3HdR3Ne
+GithubAdvisories,[GHSA-j3jw-j2j8-2wv9] Improper Verification of Cryptographic Signature in starkbank-ecdsa,https://github.com/advisories/GHSA-j3jw-j2j8-2wv9,https://j.mp/3nb3PEB
