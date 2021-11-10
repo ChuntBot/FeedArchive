@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r28h-x6hv-2fq3] Improper Verification of Cryptographic Signature in starkbank-ecdsa,https://github.com/advisories/GHSA-r28h-x6hv-2fq3,https://j.mp/3qrNj54
+GithubAdvisories,[GHSA-92vm-mxjf-jqf3] Improper Verification of Cryptographic Signature in starkbank-ecdsa,https://github.com/advisories/GHSA-92vm-mxjf-jqf3,https://j.mp/3kmtB6D
+GithubAdvisories,[GHSA-g9wh-3vrx-r7hg] OctoRPKI crashes when processing GZIP bomb returned via malicious repository,https://github.com/advisories/GHSA-g9wh-3vrx-r7hg,https://j.mp/3F3Oc7J
+GithubAdvisories,[GHSA-g5gj-9ggf-9vmq] Infinite certificate chain depth results in OctoRPKI running forever,https://github.com/advisories/GHSA-g5gj-9ggf-9vmq,https://j.mp/3onKnDY
