@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8cvr-4rrf-f244] Infinite open connection causes OctoRPKI to hang forever,https://github.com/advisories/GHSA-8cvr-4rrf-f244,https://j.mp/3F7LbDI
+GithubAdvisories,[GHSA-5mxh-2qfv-4g7j] NUL character in ROA causes OctoRPKI to crash,https://github.com/advisories/GHSA-5mxh-2qfv-4g7j,https://j.mp/3kpOoq8
+GithubAdvisories,[GHSA-cqh2-vc2f-q4fh] Arbitrary filepath traversal via URI injection,https://github.com/advisories/GHSA-cqh2-vc2f-q4fh,https://j.mp/3ksF3xJ
+GithubAdvisories,[GHSA-w6ww-fmfx-2x22] Misconfigured IP address field in ROA leads to OctoRPKI crash,https://github.com/advisories/GHSA-w6ww-fmfx-2x22,https://j.mp/3BY43Ty
