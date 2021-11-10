@@ -1,0 +1,40 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j86v-p27c-73fm] Unitialized access in `EinsumHelper::ParseEquation`,https://github.com/advisories/GHSA-j86v-p27c-73fm,https://j.mp/3kspF4m
+GithubAdvisories,[GHSA-xrqm-fpgr-6hhx] Overflow/crash in `tf.range`,https://github.com/advisories/GHSA-xrqm-fpgr-6hhx,https://j.mp/3F2sCAt
+GithubAdvisories,[GHSA-7pxj-m4jf-r6h2] Missing validation during checkpoint loading,https://github.com/advisories/GHSA-7pxj-m4jf-r6h2,https://j.mp/3qq6Brf
+GithubAdvisories,[GHSA-786j-5qwq-r36x] Segfault while copying constant resource tensor,https://github.com/advisories/GHSA-786j-5qwq-r36x,https://j.mp/3kmgqTd
+GithubAdvisories,[GHSA-6mv9-qcx2-3hh3] Memory exhaustion in routinator,https://github.com/advisories/GHSA-6mv9-qcx2-3hh3,https://j.mp/3olnvVD
+GithubAdvisories,[GHSA-49rx-x2rw-pc6f] Heap OOB read in all `tf.raw_ops.QuantizeAndDequantizeV*` ops,https://github.com/advisories/GHSA-49rx-x2rw-pc6f,https://j.mp/3EYFasA
+GithubAdvisories,[GHSA-pgcq-h79j-2f69] Incomplete validation of shapes in multiple TF ops,https://github.com/advisories/GHSA-pgcq-h79j-2f69,https://j.mp/3quFtYf
+GithubAdvisories,[GHSA-7v94-64hj-m82h] FPE in `ParallelConcat`,https://github.com/advisories/GHSA-7v94-64hj-m82h,https://j.mp/3CaBYZq
+GithubAdvisories,[GHSA-6hpv-v2rx-c5g6] FPE in convolutions with zero size filters,https://github.com/advisories/GHSA-6hpv-v2rx-c5g6,https://j.mp/3D6DtsD
+GithubAdvisories,[GHSA-m342-ff57-4jcc] Heap OOB read in `tf.raw_ops.SparseCountSparseOutput`,https://github.com/advisories/GHSA-m342-ff57-4jcc,https://j.mp/3mYThrP
+GithubAdvisories,[GHSA-cvgx-3v3q-m36c] Heap OOB in shape inference for `QuantizeV2`,https://github.com/advisories/GHSA-cvgx-3v3q-m36c,https://j.mp/3bXLsfR
+GithubAdvisories,[GHSA-fr77-rrx3-cp7g] Heap OOB read in `tf.ragged.cross`,https://github.com/advisories/GHSA-fr77-rrx3-cp7g,https://j.mp/3wzOroa
+GithubAdvisories,[GHSA-h67m-xg8f-fxcf] Deadlock in mutually recursive `tf.function` objects,https://github.com/advisories/GHSA-h67m-xg8f-fxcf,https://j.mp/3H98Zsy
+GithubAdvisories,[GHSA-vwhq-49r4-gj9v] Reference binding to `nullptr` in `tf.ragged.cross`,https://github.com/advisories/GHSA-vwhq-49r4-gj9v,https://j.mp/3quwXbI
+GithubAdvisories,[GHSA-x3v8-c8qx-3j3r] Null pointer exception in `DeserializeSparse`,https://github.com/advisories/GHSA-x3v8-c8qx-3j3r,https://j.mp/3BXUfsI
+GithubAdvisories,[GHSA-3ff2-r28g-w7h9] Heap buffer overflow in `Transpose`,https://github.com/advisories/GHSA-3ff2-r28g-w7h9,https://j.mp/3wy2FpF
+GithubAdvisories,[GHSA-5crj-c72x-m7gq] Null pointer exception when `Exit` node is not preceded by `Enter` op,https://github.com/advisories/GHSA-5crj-c72x-m7gq,https://j.mp/3qqxmvL
+GithubAdvisories,[GHSA-9crf-c6qr-r273] Integer division by 0 in `tf.raw_ops.AllToAll`,https://github.com/advisories/GHSA-9crf-c6qr-r273,https://j.mp/3obu3pA
+GithubAdvisories,[GHSA-4f99-p9c2-3j8x] Undefined behavior via `nullptr` reference binding in sparse matrix multiplication,https://github.com/advisories/GHSA-4f99-p9c2-3j8x,https://j.mp/3DjIC0R
+GithubAdvisories,[GHSA-gpfh-jvf9-7wg5] Use after free / memory leak in `CollectiveReduceV2`,https://github.com/advisories/GHSA-gpfh-jvf9-7wg5,https://j.mp/3HdZHvw
+GithubAdvisories,[GHSA-cqv6-3phm-hcwx] Access to invalid memory during shape inference in `Cudnn*` ops,https://github.com/advisories/GHSA-cqv6-3phm-hcwx,https://j.mp/3ozmQQz
+GithubAdvisories,[GHSA-cpf4-wx82-gxp6] Segfault due to negative splits in `SplitV`,https://github.com/advisories/GHSA-cpf4-wx82-gxp6,https://j.mp/3wxhsAZ
+GithubAdvisories,[GHSA-f54p-f6jp-4rhr] Heap OOB in `FusedBatchNorm` kernels,https://github.com/advisories/GHSA-f54p-f6jp-4rhr,https://j.mp/3C1TS0b
+GithubAdvisories,[GHSA-rg3m-hqc5-344v] `SparseFillEmptyRows` heap OOB,https://github.com/advisories/GHSA-rg3m-hqc5-344v,https://j.mp/3quFuvh
+GithubAdvisories,[GHSA-7r94-xv9v-63jw] A use of uninitialized value vulnerability in Tensorflow,https://github.com/advisories/GHSA-7r94-xv9v-63jw,https://j.mp/3c24EsW
+GithubAdvisories,[GHSA-374m-jm66-3vj8] Heap OOB in `SparseBinCount`,https://github.com/advisories/GHSA-374m-jm66-3vj8,https://j.mp/2YA7Dpb
+GithubAdvisories,[GHSA-j8c8-67vp-6mx7] Arbitrary memory read in `ImmutableConst`,https://github.com/advisories/GHSA-j8c8-67vp-6mx7,https://j.mp/3D3upoA
+GithubAdvisories,[GHSA-wx8q-rgfr-cf6v] Insufficient Granularity of Access Control in github.com/google/exposure-notifications-verification-server,https://github.com/advisories/GHSA-wx8q-rgfr-cf6v,https://j.mp/3F20nSC
+GithubAdvisories,[GHSA-x2jp-hh65-4xvf] Cross site scripting (XSS) and Server side request forgery (SSRF) in moodle,https://github.com/advisories/GHSA-x2jp-hh65-4xvf,https://j.mp/3w4mUKZ
+GithubAdvisories,[GHSA-9j9m-8wjc-ff96] Insufficient Session Expiration in apostrophe,https://github.com/advisories/GHSA-9j9m-8wjc-ff96,https://j.mp/3n2scnG
+GithubAdvisories,[GHSA-3rcw-9p9x-582v] Code injection in `saved_model_cli`,https://github.com/advisories/GHSA-3rcw-9p9x-582v,https://j.mp/30eoG0k
+GithubAdvisories,[GHSA-j6wp-3859-vxfg] OIDC claims not updated from Identity Provider in Pomerium,https://github.com/advisories/GHSA-j6wp-3859-vxfg,https://j.mp/3wxzhjk
+GithubAdvisories,[GHSA-gp2f-254m-rh32] Unauthorized access to data in @sap-cloud-sdk/core,https://github.com/advisories/GHSA-gp2f-254m-rh32,https://j.mp/3F5iuHu
+GithubAdvisories,[GHSA-8c5p-4362-9333] Path traversal in grav,https://github.com/advisories/GHSA-8c5p-4362-9333,https://j.mp/30agL4R
+GithubAdvisories,[GHSA-4r9c-jghc-cx5m] Cross-site Scripting in apostrophe,https://github.com/advisories/GHSA-4r9c-jghc-cx5m,https://j.mp/3D74lZs
+GithubAdvisories,[GHSA-jcjx-c3j3-44pr] Insufficient Session Expiration in @cyyynthia/tokenize,https://github.com/advisories/GHSA-jcjx-c3j3-44pr,https://j.mp/30fRG8x
+GithubAdvisories,[GHSA-3v56-q6r6-4gcw] Insecure Inherited Permissions in neoan3-apps/template,https://github.com/advisories/GHSA-3v56-q6r6-4gcw,https://j.mp/3wwa8pa
+GithubAdvisories,[GHSA-35m5-8cvj-8783] Improper hashing in enrocrypt,https://github.com/advisories/GHSA-35m5-8cvj-8783,https://j.mp/3H4aiZP
+GithubAdvisories,[GHSA-c9x9-xv66-xp3v] Improper privilege management in Keycloak,https://github.com/advisories/GHSA-c9x9-xv66-xp3v,https://j.mp/3HdZI2y
