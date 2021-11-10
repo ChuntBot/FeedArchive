@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qcj6-jqrg-4wp2] Template injection in thymeleaf-spring5,https://github.com/advisories/GHSA-qcj6-jqrg-4wp2,https://j.mp/3kqDLn0
+GithubAdvisories,[GHSA-2r2v-q399-qq93] Request injection in Spring Cloud Gateway,https://github.com/advisories/GHSA-2r2v-q399-qq93,https://j.mp/3mZOaYu
+GithubAdvisories,[GHSA-57wx-m983-2f88] Incomplete validation in boosted trees code,https://github.com/advisories/GHSA-57wx-m983-2f88,https://j.mp/30ibBDQ
+GithubAdvisories,[GHSA-cq76-mxrc-vchh] Crash in `tf.math.segment_*` operations,https://github.com/advisories/GHSA-cq76-mxrc-vchh,https://j.mp/3BZgVZr
+GithubAdvisories,[GHSA-m539-j985-hcr8] Crash in `max_pool3d` when size argument is 0 or negative,https://github.com/advisories/GHSA-m539-j985-hcr8,https://j.mp/3HdD0as
+GithubAdvisories,[GHSA-prcg-wp5q-rv7p] Crashes due to overflow and `CHECK`-fail in ops with large tensor shapes,https://github.com/advisories/GHSA-prcg-wp5q-rv7p,https://j.mp/3bZOOPn
+GithubAdvisories,[GHSA-2p25-55c9-h58q] Overflow/crash in `tf.tile` when tiling tensor is large,https://github.com/advisories/GHSA-2p25-55c9-h58q,https://j.mp/3HlGXu7
+GithubAdvisories,[GHSA-5hx2-qx8j-qjqm] Overflow/crash in `tf.image.resize` when size is large,https://github.com/advisories/GHSA-5hx2-qx8j-qjqm,https://j.mp/3D48Owb
+GithubAdvisories,[GHSA-gh8h-7j2j-qv4f] Incomplete validation in `tf.summary.create_file_writer`,https://github.com/advisories/GHSA-gh8h-7j2j-qv4f,https://j.mp/3wMTou5
