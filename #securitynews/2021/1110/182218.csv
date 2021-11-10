@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+r/NetSec,ChaosDB Explained: Azure's Cosmos DB Vulnerability Walkthrough,https://redd.it/qr0lol,
+r/NetSec,SMBSR: Automated SMB Enumeration and Secrets finder. python script which given a CIDR/IP/IP_file/HOSTNAME(s) enumerates all the SMB services listening (445) among the targets; if the authentication succeed then all the folders and subfolders are visited recursively in order to find secrets in files.,https://redd.it/qr0dn8,
