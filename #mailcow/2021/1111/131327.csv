@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[ClamAV] Update to 0.103.4 (#4314),https://github.com/mailcow/mailcow-dockerized/commit/7e35c3d0dd5565484227c1f7d6ec0a00f209005e,https://j.mp/3F67gCl
+GithubCommitStaging,Add app-passwd list (#4281) (#4311),https://github.com/mailcow/mailcow-dockerized/commit/8dad04e0e65d25cba527c7ea737fcdd1c5b6af37,https://j.mp/3D8WN8C
+GithubCommitStaging,"Revert ""Add app-passwd list (#4281) (#4311)"" (#4318)",https://github.com/mailcow/mailcow-dockerized/commit/f4319a0e20ac90773628bf6a4540130ccf561634,https://j.mp/3onalqO
