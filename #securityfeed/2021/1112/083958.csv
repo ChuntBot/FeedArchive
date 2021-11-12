@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ExploitDB,[local] Windows MultiPoint Server 2011 SP1 - RpcEptMapper and Dnschade Local Privilege Escalation,https://www.exploit-db.com/exploits/50517,https://j.mp/3qwmpcb
+ExploitDB,[dos] Xlight FTP 3.9.3.1 - Buffer Overflow (PoC),https://www.exploit-db.com/exploits/50516,https://j.mp/30igI78
+ExploitDB,[webapps] WordPress Plugin AccessPress Social Icons 1.8.2 - 'icon title' Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50515,https://j.mp/31WtZCL
+ExploitDB,[webapps] WordPress Plugin WP Symposium Pro 2021.10 - 'wps_admin_forum_add_name' Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50514,https://j.mp/3c4CxZV
