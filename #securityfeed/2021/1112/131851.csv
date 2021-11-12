@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+DebianSecurityNotice,DSA-5008 node-tar,https://www.debian.org/security/2021/dsa-5008,https://j.mp/3FeFSlT
+DebianSecurityNotice,DSA-5007 postgresql-13,https://www.debian.org/security/2021/dsa-5007,https://j.mp/3c3BVDU
+DebianSecurityNotice,DSA-5006 postgresql-11,https://www.debian.org/security/2021/dsa-5006,https://j.mp/3Fc4PhA
