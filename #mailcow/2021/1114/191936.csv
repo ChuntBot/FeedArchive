@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubCommit,"[Web] Fixed ""Disable TFA"" button",https://github.com/mailcow/mailcow-dockerized/commit/6589581236e6ca9ea1ff15faefa601a02ccf5c00,https://j.mp/2ZOUBEO
+GithubCommit,[Update] Add variable for watchdog verbose output to mailcow config,https://github.com/mailcow/mailcow-dockerized/commit/c550d18e05dd80c2ebad0c1afe670ee9c5974450,https://j.mp/2ZIQ5rz
+GithubCommit,[ClamAV] Update to 0.103.4 (#4314),https://github.com/mailcow/mailcow-dockerized/commit/7e35c3d0dd5565484227c1f7d6ec0a00f209005e,https://j.mp/3F67gCl
+GithubCommit,Add app-passwd list (#4281) (#4311),https://github.com/mailcow/mailcow-dockerized/commit/8dad04e0e65d25cba527c7ea737fcdd1c5b6af37,https://j.mp/3D8WN8C
+GithubCommit,"Revert ""Add app-passwd list (#4281) (#4311)"" (#4318)",https://github.com/mailcow/mailcow-dockerized/commit/f4319a0e20ac90773628bf6a4540130ccf561634,https://j.mp/3onalqO
+GithubCommit,Add missing API endpoint to openapi.yaml,https://github.com/mailcow/mailcow-dockerized/commit/842cc4297aaaed7887bd55daad1e1998a37d720b,https://j.mp/3Cc059M
+GithubCommit,Add missing API endpoint to openapi.yaml,https://github.com/mailcow/mailcow-dockerized/commit/18d7216d15ad0b710d10c3e84fecf927e809d30d,https://j.mp/3kwABOp
+GithubCommit,Merge pull request #4320 from MrKrisKrisu/dev-ks-swagger,https://github.com/mailcow/mailcow-dockerized/commit/618e00f3020b182fa76c00761728184aec47a8f1,https://j.mp/3qxLdQT
+GithubCommit,[Web] Auto-generated app passwords for Apple configuration profiles (…,https://github.com/mailcow/mailcow-dockerized/commit/9bfb74bb1d511d80bf494a5e05ca4a5824950038,https://j.mp/3nbyEsC
+GithubCommit,[Dovecot] v2.3.17,https://github.com/mailcow/mailcow-dockerized/commit/7d3dd56a8c20775cc060683a0dbd95986f4e3193,https://j.mp/3kDcP3n
+GithubCommit,[ClamAV] Change mirror for Dockerfile,https://github.com/mailcow/mailcow-dockerized/commit/85454d34063670a4d537f37a467f304aa889e4f2,https://j.mp/3Dh0M38
