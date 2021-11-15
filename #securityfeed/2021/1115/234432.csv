@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wmpv-c2jp-j2xg] ERC1155Supply vulnerability in OpenZeppelin Contracts,https://github.com/advisories/GHSA-wmpv-c2jp-j2xg,https://j.mp/3qHsHpC
+GithubAdvisories,[GHSA-p9m8-27x8-rg87] Critical vulnerability found in cron-utils,https://github.com/advisories/GHSA-p9m8-27x8-rg87,https://j.mp/3CjID3i
+GithubAdvisories,[GHSA-2cqg-q7jm-j35c] snipe-it is vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-2cqg-q7jm-j35c,https://j.mp/3qE0KPp
+GithubAdvisories,[GHSA-f99g-pg48-wrfc] twill is vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-f99g-pg48-wrfc,https://j.mp/3FnJK47
+GithubAdvisories,[GHSA-533p-cp2g-99wp] snipe-it is vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-533p-cp2g-99wp,https://j.mp/3chMHGE
+GithubAdvisories,[GHSA-q2cv-94xm-qvg4] firefly-iii is vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-q2cv-94xm-qvg4,https://j.mp/3FgJ28H
+GithubAdvisories,[GHSA-w2f4-hxpm-mq98] bookstack is vulnerable to Unrestricted Upload of File with Dangerous Type,https://github.com/advisories/GHSA-w2f4-hxpm-mq98,https://j.mp/3qEPEcQ
+GithubAdvisories,[GHSA-4999-659w-mq36] Authentication bypass issue in the Operator Console,https://github.com/advisories/GHSA-4999-659w-mq36,https://j.mp/3ch1gdK
+GithubAdvisories,[GHSA-pjjf-hc4q-g298] showdoc is vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-pjjf-hc4q-g298,https://j.mp/3nj1JT5
+GithubAdvisories,[GHSA-x5jp-9fmm-m9pf] showdoc is vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-x5jp-9fmm-m9pf,https://j.mp/30Bq8KR
+GithubAdvisories,[GHSA-m4hj-wg2r-qpcr] showdoc is vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-m4hj-wg2r-qpcr,https://j.mp/3oP9PCz
