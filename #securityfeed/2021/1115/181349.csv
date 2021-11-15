@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-844m-cpr9-jcmh] Secure/signed cookies share secrets between sites in a multi-site application,https://github.com/advisories/GHSA-844m-cpr9-jcmh,https://j.mp/3Dl9MnY
+GithubAdvisories,[GHSA-5xp3-jfq3-5q8x] Improper Input Validation in pip,https://github.com/advisories/GHSA-5xp3-jfq3-5q8x,https://j.mp/3wSg8ZE
