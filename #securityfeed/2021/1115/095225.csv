@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] PHP Laravel 8.70.1 - Cross Site Scripting (XSS) to Cross Site Request Forgery (CSRF),https://www.exploit-db.com/exploits/50525,https://j.mp/30oo88g
+ExploitDB,[webapps] WordPress Plugin Contact Form to Email 1.3.24 - Stored Cross Site Scripting (XSS) (Authenticated),https://www.exploit-db.com/exploits/50524,https://j.mp/30vhLAC
+ExploitDB,[webapps] Fuel CMS 1.4.13 - 'col' Blind SQL Injection (Authenticated),https://www.exploit-db.com/exploits/50523,https://j.mp/3caVxWD
