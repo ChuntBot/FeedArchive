@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w6v7-w58j-pg5r] Improper Verification of Communication Channel in @theia/plugin-ext,https://github.com/advisories/GHSA-w6v7-w58j-pg5r,https://j.mp/3qJnrl9
+GithubAdvisories,[GHSA-hfm8-2q22-h7hv] Cross-site Scripting in pegasus/google-for-jobs,https://github.com/advisories/GHSA-hfm8-2q22-h7hv,https://j.mp/3oOfxof
+GithubAdvisories,[GHSA-43g8-79x3-j898] Unrestricted access to predictable file paths in hov/jobfair,https://github.com/advisories/GHSA-43g8-79x3-j898,https://j.mp/3ngIzgs
+GithubAdvisories,[GHSA-35rf-v2jv-gfg7] Privilege escalation to cluster admin on multi-tenant environments,https://github.com/advisories/GHSA-35rf-v2jv-gfg7,https://j.mp/3otsyDf
