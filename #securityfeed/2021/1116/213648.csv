@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rrc9-gqf8-8rwg] Prototype Pollution via file load in aws-sdk and @aws-sdk/shared-ini-file-loader,https://github.com/advisories/GHSA-rrc9-gqf8-8rwg,https://j.mp/3Hw3q7y
