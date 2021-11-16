@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cq58-r77c-5jjw] Cross-site scripting (XSS) from image block content in the site frontend,https://github.com/advisories/GHSA-cq58-r77c-5jjw,https://j.mp/3qHeTLC
+GithubAdvisories,[GHSA-x7j7-qp7j-hw3q] Cross-site scripting (XSS) from writer field content in the site frontend,https://github.com/advisories/GHSA-x7j7-qp7j-hw3q,https://j.mp/3FnORky
