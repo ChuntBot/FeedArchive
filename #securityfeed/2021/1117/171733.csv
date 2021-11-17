@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-12897 (radeon_software),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12897,https://j.mp/3FgTlto
+NVD-NIST,CVE-2020-12899 (radeon_software),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12899,https://j.mp/32caPZG
+NVD-NIST,CVE-2021-21528 (emc_powerscale_onefs),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-21528,https://j.mp/3wZy9Fd
+NVD-NIST,CVE-2021-25982 (factor),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25982,https://j.mp/3FqUC1a
+NVD-NIST,CVE-2021-26795 (sendquick_alert_plus_server_admin),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26795,https://j.mp/30AvQw4
+NVD-NIST,"CVE-2021-34991 (cax80_firmware, d6220_firmware, d6400_firmware, d7000v2_firmware, dc112a_firmware, dgn2200v4_firmware, ex3700_firmware, ex3800_firmware, ex6120_firmware, ex6130_firmware, r6400_firmware, r6400v2_firmware, r6700v3_firmware, r6900p_firmware, r7000_firmware, r7000p_firmware, r7100lg_firmware, r7850_firmware, r7900p_firmware, r7960p_firmware, r8000_firmware, r8000p_firmware, r8300_firmware, r8500_firmware, rax15_firmware, rax20_firmware, rax200_firmware, rax35v2_firmware, rax38v2_firmware, rax40v2_firmware, rax42_firmware, rax43_firmware, rax45_firmware, rax48_firmware, rax50_firmware, rax50s_firmware, rax75_firmware, rax80_firmware, raxe450_firmware, raxe500_firmware, rs400_firmware, wndr3400v3_firmware, wnr3500lv2_firmware, xr300_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34991,https://j.mp/3nxtwPT
+NVD-NIST,CVE-2021-34992 (c1_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34992,https://j.mp/3FjYvVo
+NVD-NIST,"CVE-2021-3723 (system_x3550_m3_firmware, system_x3650_m3_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3723,https://j.mp/3DqcZTd
+NVD-NIST,CVE-2021-41259 (nim),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41259,https://j.mp/3wX7FEc
+NVD-NIST,CVE-2021-42337 (cashier_accounting_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42337,https://j.mp/30CB5vC
+NVD-NIST,CVE-2021-43574 (atmail),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43574,https://j.mp/3DsXKsz
