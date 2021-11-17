@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7h26-63m7-qhf2] HTML comments vulnerability allowing to execute JavaScript code,https://github.com/advisories/GHSA-7h26-63m7-qhf2,https://j.mp/32bDs9o
+GithubAdvisories,[GHSA-pvmx-g8h5-cprj] Advanced Content Filter (ACF) vulnerability allowing to execute JavaScript code using malformed HTML,https://github.com/advisories/GHSA-pvmx-g8h5-cprj,https://j.mp/3qMpOUd
