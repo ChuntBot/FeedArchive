@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-364w-9g92-3grq] Laravel Framework through 8.70.2 does not sufficiently block the upload of executable PHP content,https://github.com/advisories/GHSA-364w-9g92-3grq,https://j.mp/3oEbPNN
