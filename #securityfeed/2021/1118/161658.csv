@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mc8v-mgrf-8f4m] Clarify Content-Type handling,https://github.com/advisories/GHSA-mc8v-mgrf-8f4m,https://j.mp/30B6TAI
+GithubAdvisories,[GHSA-5j5w-g665-5m35] Ambiguous OCI manifest parsing,https://github.com/advisories/GHSA-5j5w-g665-5m35,https://j.mp/3DynK5O
+GithubAdvisories,[GHSA-77vh-xpmg-72qh] Clarify `mediaType` handling,https://github.com/advisories/GHSA-77vh-xpmg-72qh,https://j.mp/3cmoeAe
