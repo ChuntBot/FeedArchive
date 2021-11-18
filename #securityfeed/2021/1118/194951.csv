@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4mg9-vhxq-vm7j] SQL Server LIMIT / OFFSET SQL Injection in laravel/framework and illuminate/database,https://github.com/advisories/GHSA-4mg9-vhxq-vm7j,https://j.mp/3u5O1nv
