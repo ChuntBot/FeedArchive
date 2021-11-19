@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3mvg-rrrw-m7ph] Ability to change order address without triggering address validations in solidus,https://github.com/advisories/GHSA-3mvg-rrrw-m7ph,https://j.mp/33uuzGq
+GithubAdvisories,[GHSA-p4pj-9g59-4ppv] Remote Code Execution in SyliusResourceBundle,https://github.com/advisories/GHSA-p4pj-9g59-4ppv,https://j.mp/3iXpOda
+GithubAdvisories,[GHSA-h6m7-j4h3-9rf5] Remote Code Execution in SyliusResourceBundle,https://github.com/advisories/GHSA-h6m7-j4h3-9rf5,https://j.mp/2Q7yEIH
+GithubAdvisories,[GHSA-crf2-xm6x-46p6] Observable Timing Discrepancy in OpenMage LTS,https://github.com/advisories/GHSA-crf2-xm6x-46p6,https://j.mp/2YeLhX5
+GithubAdvisories,[GHSA-55j9-849x-26h4] Remote Code Execution in Red Discord Bot,https://github.com/advisories/GHSA-55j9-849x-26h4,https://j.mp/3l6r4MR
+GithubAdvisories,[GHSA-7257-96vg-qf6x] Remote Code Execution in Red Discord Bot,https://github.com/advisories/GHSA-7257-96vg-qf6x,https://j.mp/31j0vvY
+GithubAdvisories,[GHSA-7qw5-pqhc-xm4g] Users with SCRIPT right can execute arbitrary code in XWiki,https://github.com/advisories/GHSA-7qw5-pqhc-xm4g,https://j.mp/35qK03s
+GithubAdvisories,[GHSA-f8mr-jv2c-v8mg] Invalid root may become trusted root in The Update Framework (TUF),https://github.com/advisories/GHSA-f8mr-jv2c-v8mg,https://j.mp/2FeTGmP
