@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-94vp-rmqv-5875] Twig Sandbox Escape by authenticated users with access to editing CMS templates when safemode is enabled,https://github.com/advisories/GHSA-94vp-rmqv-5875,https://j.mp/3l0nbI1
+GithubAdvisories,"[GHSA-rfjc-xrmf-5vvw] Privilege escalation by backend users assigned to the default ""Publisher"" system role",https://github.com/advisories/GHSA-rfjc-xrmf-5vvw,https://j.mp/370BmrI
