@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4h44-w6fm-548g] Potential Remote Code Execution in TYPO3 with mediace extension,https://github.com/advisories/GHSA-4h44-w6fm-548g,https://j.mp/2X7J1Ap
+GithubAdvisories,[GHSA-v7m9-9497-p9gr] Possible pod name collisions in jupyterhub-kubespawner,https://github.com/advisories/GHSA-v7m9-9497-p9gr,https://j.mp/3jD8hrV
+GithubAdvisories,[GHSA-m5vr-3m74-jwxp] Missing Required Cryptographic Step Leading to Sensitive Information Disclosure in TYPO3 CMS,https://github.com/advisories/GHSA-m5vr-3m74-jwxp,https://j.mp/2P2OzHM
+GithubAdvisories,[GHSA-2v5c-755p-p4gv] Missing TLS certificate verification in faye-websocket,https://github.com/advisories/GHSA-2v5c-755p-p4gv,https://j.mp/2BRsZDi
