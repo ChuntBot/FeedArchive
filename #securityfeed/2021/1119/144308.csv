@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j257-jfvv-h3x5] Privilege Escalation in Channelmgnt plug-in for Sopel,https://github.com/advisories/GHSA-j257-jfvv-h3x5,https://j.mp/2Im8wJr
+GithubAdvisories,[GHSA-5hv6-mh8q-q9v8] RCE in XWiki,https://github.com/advisories/GHSA-5hv6-mh8q-q9v8,https://j.mp/354ipDx
+GithubAdvisories,[GHSA-4fc4-chg7-h8gh] Unprotected dynamically loaded chunks,https://github.com/advisories/GHSA-4fc4-chg7-h8gh,https://j.mp/2T8cyr7
