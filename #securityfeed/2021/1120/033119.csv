@@ -1,0 +1,38 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6c7m-qwxj-mvhp] Broken encryption in EdgeX Foundry,https://github.com/advisories/GHSA-6c7m-qwxj-mvhp,https://j.mp/3HPKhOn
+GithubAdvisories,[GHSA-q5mq-6fjg-4mw8] SQL Injection in thinkjs,https://github.com/advisories/GHSA-q5mq-6fjg-4mw8,https://j.mp/3kUi4vQ
+GithubAdvisories,[GHSA-7g47-xxff-9p85] Remote unauthenticated attackers able to upload files in Onionshare,https://github.com/advisories/GHSA-7g47-xxff-9p85,https://j.mp/3kVOJkK
+GithubAdvisories,[GHSA-6rvj-pw9w-jcvc] Information disclosure vulnerability in OnionShare,https://github.com/advisories/GHSA-6rvj-pw9w-jcvc,https://j.mp/3kQmBiY
+GithubAdvisories,[GHSA-mjww-934m-h4jw] Improper Certificate Validation in OPCFoundation.NetStandard.Opc.Ua,https://github.com/advisories/GHSA-mjww-934m-h4jw,https://j.mp/30JEmcE
+GithubAdvisories,[GHSA-vf7h-6246-hm43] The disqualify lead action may be executed without CSRF token check,https://github.com/advisories/GHSA-vf7h-6246-hm43,https://j.mp/3FuCyTG
+GithubAdvisories,[GHSA-vhrp-8qx4-vr6c] Incorrect Access Control in Ignition,https://github.com/advisories/GHSA-vhrp-8qx4-vr6c,https://j.mp/3CtPyqQ
+GithubAdvisories,[GHSA-896r-f27r-55mw] json-schema is vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-896r-f27r-55mw,https://j.mp/3cviiVt
+GithubAdvisories,[GHSA-xx4c-jj58-r7x6] Inefficient Regular Expression Complexity in Validator.js,https://github.com/advisories/GHSA-xx4c-jj58-r7x6,https://j.mp/32kwqiE
+GithubAdvisories,[GHSA-v585-23hc-c647] Unsafe Deserialization in jackson-databind,https://github.com/advisories/GHSA-v585-23hc-c647,https://j.mp/3ctP7lR
+GithubAdvisories,[GHSA-3pqh-p72c-fj85] Improper Preservation of Permissions in github.com/cloudflare/cfrpki/cmd/octorpki,https://github.com/advisories/GHSA-3pqh-p72c-fj85,https://j.mp/3oNq6Ym
+GithubAdvisories,[GHSA-4h44-w6fm-548g] Potential Remote Code Execution in TYPO3 with mediace extension,https://github.com/advisories/GHSA-4h44-w6fm-548g,https://j.mp/2X7J1Ap
+GithubAdvisories,[GHSA-v7m9-9497-p9gr] Possible pod name collisions in jupyterhub-kubespawner,https://github.com/advisories/GHSA-v7m9-9497-p9gr,https://j.mp/3jD8hrV
+GithubAdvisories,[GHSA-m5vr-3m74-jwxp] Missing Required Cryptographic Step Leading to Sensitive Information Disclosure in TYPO3 CMS,https://github.com/advisories/GHSA-m5vr-3m74-jwxp,https://j.mp/2P2OzHM
+GithubAdvisories,[GHSA-2v5c-755p-p4gv] Missing TLS certificate verification in faye-websocket,https://github.com/advisories/GHSA-2v5c-755p-p4gv,https://j.mp/2BRsZDi
+GithubAdvisories,[GHSA-3mvg-rrrw-m7ph] Ability to change order address without triggering address validations in solidus,https://github.com/advisories/GHSA-3mvg-rrrw-m7ph,https://j.mp/33uuzGq
+GithubAdvisories,[GHSA-p4pj-9g59-4ppv] Remote Code Execution in SyliusResourceBundle,https://github.com/advisories/GHSA-p4pj-9g59-4ppv,https://j.mp/3iXpOda
+GithubAdvisories,[GHSA-h6m7-j4h3-9rf5] Remote Code Execution in SyliusResourceBundle,https://github.com/advisories/GHSA-h6m7-j4h3-9rf5,https://j.mp/2Q7yEIH
+GithubAdvisories,[GHSA-crf2-xm6x-46p6] Observable Timing Discrepancy in OpenMage LTS,https://github.com/advisories/GHSA-crf2-xm6x-46p6,https://j.mp/2YeLhX5
+GithubAdvisories,[GHSA-55j9-849x-26h4] Remote Code Execution in Red Discord Bot,https://github.com/advisories/GHSA-55j9-849x-26h4,https://j.mp/3l6r4MR
+GithubAdvisories,[GHSA-7257-96vg-qf6x] Remote Code Execution in Red Discord Bot,https://github.com/advisories/GHSA-7257-96vg-qf6x,https://j.mp/31j0vvY
+GithubAdvisories,[GHSA-7qw5-pqhc-xm4g] Users with SCRIPT right can execute arbitrary code in XWiki,https://github.com/advisories/GHSA-7qw5-pqhc-xm4g,https://j.mp/35qK03s
+GithubAdvisories,[GHSA-f8mr-jv2c-v8mg] Invalid root may become trusted root in The Update Framework (TUF),https://github.com/advisories/GHSA-f8mr-jv2c-v8mg,https://j.mp/2FeTGmP
+GithubAdvisories,[GHSA-8gv3-3j7f-wg94] Potential Remote Code Execution vulnerability,https://github.com/advisories/GHSA-8gv3-3j7f-wg94,https://j.mp/36p9a2Y
+GithubAdvisories,[GHSA-mfwh-5m23-j46w] Environment Variable Injection in GitHub Actions,https://github.com/advisories/GHSA-mfwh-5m23-j46w,https://j.mp/34aLM6A
+GithubAdvisories,[GHSA-7733-hjv6-4h47] Cross-Site Scripting in ternary conditional operator,https://github.com/advisories/GHSA-7733-hjv6-4h47,https://j.mp/3jNkUA8
+GithubAdvisories,[GHSA-2q4g-w47c-4674] Unpreventable top-level navigation,https://github.com/advisories/GHSA-2q4g-w47c-4674,https://j.mp/3iAqa8V
+GithubAdvisories,[GHSA-j257-jfvv-h3x5] Privilege Escalation in Channelmgnt plug-in for Sopel,https://github.com/advisories/GHSA-j257-jfvv-h3x5,https://j.mp/2Im8wJr
+GithubAdvisories,[GHSA-5hv6-mh8q-q9v8] RCE in XWiki,https://github.com/advisories/GHSA-5hv6-mh8q-q9v8,https://j.mp/354ipDx
+GithubAdvisories,[GHSA-4fc4-chg7-h8gh] Unprotected dynamically loaded chunks,https://github.com/advisories/GHSA-4fc4-chg7-h8gh,https://j.mp/2T8cyr7
+GithubAdvisories,[GHSA-cwx2-736x-mf6w] Prototype pollution in object-path,https://github.com/advisories/GHSA-cwx2-736x-mf6w,https://j.mp/31lXJpx
+GithubAdvisories,[GHSA-6gw4-x63h-5499] Ability to switch customer email address on account detail page and stay verified,https://github.com/advisories/GHSA-6gw4-x63h-5499,https://j.mp/34d9f8h
+GithubAdvisories,[GHSA-f8cm-364f-q9qh] Ensure that doorkeeper_token is valid when authenticating requests in API v2 calls,https://github.com/advisories/GHSA-f8cm-364f-q9qh,https://j.mp/37opfXd
+GithubAdvisories,[GHSA-jrgf-vfw2-hj26] RCE via PHP Object injection via SOAP Requests,https://github.com/advisories/GHSA-jrgf-vfw2-hj26,https://j.mp/2TEuN80
+GithubAdvisories,[GHSA-xwjr-6fj7-fc6h] Local File Inclusion by unauthenticated users,https://github.com/advisories/GHSA-xwjr-6fj7-fc6h,https://j.mp/3kUazCl
+GithubAdvisories,[GHSA-94vp-rmqv-5875] Twig Sandbox Escape by authenticated users with access to editing CMS templates when safemode is enabled,https://github.com/advisories/GHSA-94vp-rmqv-5875,https://j.mp/3l0nbI1
+GithubAdvisories,"[GHSA-rfjc-xrmf-5vvw] Privilege escalation by backend users assigned to the default ""Publisher"" system role",https://github.com/advisories/GHSA-rfjc-xrmf-5vvw,https://j.mp/370BmrI
