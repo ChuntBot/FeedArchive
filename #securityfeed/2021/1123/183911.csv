@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gqpw-9q54-9x28] Server-Side Request Forgery in Concrete CMS,https://github.com/advisories/GHSA-gqpw-9q54-9x28,https://j.mp/3nKSPhq
+GithubAdvisories,[GHSA-mcxr-fx5f-96qq] Server-Side Request Forgery in Concrete CMS,https://github.com/advisories/GHSA-mcxr-fx5f-96qq,https://j.mp/3xiHwQp
+GithubAdvisories,[GHSA-3w5h-x4rh-hc28] Exposure of sensitive information in Apache Ozone,https://github.com/advisories/GHSA-3w5h-x4rh-hc28,https://j.mp/32mzCdv
+GithubAdvisories,[GHSA-rhf5-f553-xg82] Password exposure in concrete5/core,https://github.com/advisories/GHSA-rhf5-f553-xg82,https://j.mp/3xdtwaQ
+GithubAdvisories,[GHSA-j4mv-2rv7-v2j9] Improper Privilege Management in Concrete CMS,https://github.com/advisories/GHSA-j4mv-2rv7-v2j9,https://j.mp/3HNkB4N
+GithubAdvisories,[GHSA-33xh-xch9-p6hj] Incorrect Authorization in Apache Ozone,https://github.com/advisories/GHSA-33xh-xch9-p6hj,https://j.mp/3FFfzFB
+GithubAdvisories,[GHSA-gc37-9g7f-96fx] Exposure of sensitive information in Apache Ozone,https://github.com/advisories/GHSA-gc37-9g7f-96fx,https://j.mp/32u33KP
+GithubAdvisories,[GHSA-c6j7-4fr9-c76p] Incorrect permissions in Apache Ozone,https://github.com/advisories/GHSA-c6j7-4fr9-c76p,https://j.mp/32u33uj
+GithubAdvisories,[GHSA-c65v-p733-9796] Cross-site Scripting in snipe/snipe-it,https://github.com/advisories/GHSA-c65v-p733-9796,https://j.mp/3cDr9EO
+GithubAdvisories,[GHSA-427q-jp8v-ww95] Cross-site Scripting in kimai2,https://github.com/advisories/GHSA-427q-jp8v-ww95,https://j.mp/2ZjGPKk
+GithubAdvisories,[GHSA-gf2c-93hm-r9j5] Cross-site Scripting in kimai2,https://github.com/advisories/GHSA-gf2c-93hm-r9j5,https://j.mp/3l3EDOG
