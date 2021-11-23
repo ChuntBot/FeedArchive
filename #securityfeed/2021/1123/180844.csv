@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5m8f-chrv-7rw5] Denial of Service in Go-Ethereum,https://github.com/advisories/GHSA-5m8f-chrv-7rw5,https://j.mp/3r3BwtP
+GithubAdvisories,[GHSA-2xwq-h7r9-6w27] Cross-site Scripting in kimai2,https://github.com/advisories/GHSA-2xwq-h7r9-6w27,https://j.mp/3oUbR49
+GithubAdvisories,[GHSA-86fh-j58m-7pf5] Improper Privilege Management in Apache Ozone,https://github.com/advisories/GHSA-86fh-j58m-7pf5,https://j.mp/3r4cRW7
+GithubAdvisories,[GHSA-ff84-84q5-fq4f] Incorrect Authorization in Apache Ozone,https://github.com/advisories/GHSA-ff84-84q5-fq4f,https://j.mp/3cF5agD
+GithubAdvisories,[GHSA-5993-wwpg-m92c] Improper Authentication in Apache Ozone,https://github.com/advisories/GHSA-5993-wwpg-m92c,https://j.mp/3r1J6Fg
+GithubAdvisories,[GHSA-c8cw-2c5j-xff3] Incorrect Authorization in Apache Ozone,https://github.com/advisories/GHSA-c8cw-2c5j-xff3,https://j.mp/3cJcFTG
+GithubAdvisories,[GHSA-vfrc-ggmc-5jwv] Cross-site Scripting in django-helpdesk,https://github.com/advisories/GHSA-vfrc-ggmc-5jwv,https://j.mp/3FIIvwi
+GithubAdvisories,[GHSA-m2v2-8227-59f5] Exposure of sensitive information in concrete5/core,https://github.com/advisories/GHSA-m2v2-8227-59f5,https://j.mp/3DXY2b2
+GithubAdvisories,[GHSA-g3p2-hfqr-9m25] Improper file handling in concrete5/core,https://github.com/advisories/GHSA-g3p2-hfqr-9m25,https://j.mp/3HN6v3l
+GithubAdvisories,[GHSA-gx3f-hq7p-8fxv] Code injection in spring-cloud-netflix-hystrix-dashboard,https://github.com/advisories/GHSA-gx3f-hq7p-8fxv,https://j.mp/32hWZou
