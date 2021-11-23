@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2021-37322 (binutils, gcc)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37322,https://j.mp/32rJVNB
+NVD-NIST,CVE-2021-44025 (webmail),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44025,https://j.mp/3xaFRws
+NVD-NIST,CVE-2021-44026 (webmail),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44026,https://j.mp/3nFfknR
+NVD-NIST,CVE-2021-44033 (identity_vault),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44033,https://j.mp/3FEVRK9
