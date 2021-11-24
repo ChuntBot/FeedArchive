@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-94jq-q5v2-76wj] Improper certificate management in AWS IoT Device SDK v2,https://github.com/advisories/GHSA-94jq-q5v2-76wj,https://j.mp/30R7O0J
+GithubAdvisories,[GHSA-2xhg-w2g5-w95x] CSV Injection in symfony/serializer,https://github.com/advisories/GHSA-2xhg-w2g5-w95x,https://j.mp/30XXIuh
+GithubAdvisories,[GHSA-j3f7-7rmc-6wqj] Improper certificate management in AWS IoT Device SDK v2,https://github.com/advisories/GHSA-j3f7-7rmc-6wqj,https://j.mp/3oVfffb
