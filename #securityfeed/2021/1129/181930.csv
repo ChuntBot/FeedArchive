@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ff45-7prw-58vj] OS Command injection in docker-cli-js,https://github.com/advisories/GHSA-ff45-7prw-58vj,https://j.mp/31bmE1E
+GithubAdvisories,[GHSA-frcx-xc72-c4v4] Use of Sha-1 in tusdotnet,https://github.com/advisories/GHSA-frcx-xc72-c4v4,https://j.mp/3pdKMcb
+GithubAdvisories,[GHSA-458f-26r3-x2c3] Cross-site Scripting in github.com/schollz/rwtxt,https://github.com/advisories/GHSA-458f-26r3-x2c3,https://j.mp/3xHiCKD
+GithubAdvisories,[GHSA-8gw6-w5rw-4g5c] Path traversal in Apache JSPWiki,https://github.com/advisories/GHSA-8gw6-w5rw-4g5c,https://j.mp/3D6WDhj
+GithubAdvisories,[GHSA-r8wq-qrxc-hmcm] ReDoS in LDAP schema parser,https://github.com/advisories/GHSA-r8wq-qrxc-hmcm,https://j.mp/3D2Gw4j
