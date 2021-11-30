@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubCommit,[web] Delete XMPP references from langfiles (#4338),https://github.com/mailcow/mailcow-dockerized/commit/dc28c1b6e239962cd115ca42f71d6e82ffde3171,https://j.mp/3xqrT9P
+GithubCommit,[Web] Change lang strings inding in 0,https://github.com/mailcow/mailcow-dockerized/commit/96c7912e18edaec77615dc04877c806a896375cd,https://j.mp/3CVMKTq
+GithubCommit,[Web] Fix lang strings,https://github.com/mailcow/mailcow-dockerized/commit/258df10f9392a74c37e5ff8a152f689c3670f16c,https://j.mp/3xqNj6J
+GithubCommit,[Web] Updated lang.de.json (#4343),https://github.com/mailcow/mailcow-dockerized/commit/44a7cab43940256efd54953d26b5f98d4c167af3,https://j.mp/3lacPrN
+GithubCommit,[API] Updated docs for transport route,https://github.com/mailcow/mailcow-dockerized/commit/6bdadd6ba3288cc1e689db1f625f7d75a60cfa5c,https://j.mp/3rftZbl
+GithubCommit,[CI] Run tests on staging branch,https://github.com/mailcow/mailcow-dockerized/commit/dcb78946c749a9d38502615671ff90ee37a4b43a,https://j.mp/3DTwx2x
+GithubCommit,[Web] Updated lang.de.json (#4344),https://github.com/mailcow/mailcow-dockerized/commit/04db5718819f9c257d7438650505d114dc2a4ddf,https://j.mp/3cQcWEC
+GithubCommit,[README] Added build + translation badge,https://github.com/mailcow/mailcow-dockerized/commit/d022f31054bafd2dddfe23111de3ce5726143cff,https://j.mp/32DYca1
+GithubCommit,Translations update from Weblate (#4345),https://github.com/mailcow/mailcow-dockerized/commit/1b1edf719c2b536d4846c1f4d299bce888b884fa,https://j.mp/3xwvMdy
+GithubCommit,Translations update from Weblate (#4346),https://github.com/mailcow/mailcow-dockerized/commit/e51a1d891ecb44b4e397073a8701be0a7a2a3d64,https://j.mp/3xvrFye
+GithubCommit,Translations update from Weblate (#4347),https://github.com/mailcow/mailcow-dockerized/commit/b2e6becf2a59e17eab45fd62990e34b9370a62e1,https://j.mp/3E57VE3
+GithubCommit,[README] Separate build badges,https://github.com/mailcow/mailcow-dockerized/commit/f74e60c024fbc16175e8fec01ce2071cee73a994,https://j.mp/32upfnY
+GithubCommit,[web] fixed html in alerts,https://github.com/mailcow/mailcow-dockerized/commit/08f8eeb2e6769eec7cc5d97a261f0e31156aa696,https://j.mp/3o2mbYO
+GithubCommit,[web] Fix several raw html flags in twig (#4325),https://github.com/mailcow/mailcow-dockerized/commit/b4823a367588ec31f9b6cf7700db565c38a9324e,https://j.mp/3cWYTxa
+GithubCommit,Translations update from Weblate (#4351),https://github.com/mailcow/mailcow-dockerized/commit/e94b1b9f96b374c101cadfe6af94798ad11da049,https://j.mp/3o1gzxU
+GithubCommit,[SOGo] Update image,https://github.com/mailcow/mailcow-dockerized/commit/0945b91bf64dc3f314f3fb3513ce7fe88d0ff40f,https://j.mp/3EjQZcU
