@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fwf6-rw69-hhj4] Improper Input Validation in html-2-csv,https://github.com/advisories/GHSA-fwf6-rw69-hhj4,https://j.mp/3p8Itak
+GithubAdvisories,[GHSA-qppg-v75c-r5ff] S3Scanner before 2.0.2 allows Directory Traversal,https://github.com/advisories/GHSA-qppg-v75c-r5ff,https://j.mp/3Ef80oL
+GithubAdvisories,[GHSA-hf2m-j98r-4fqw] API token verification can be bypassed in NodeBB,https://github.com/advisories/GHSA-hf2m-j98r-4fqw,https://j.mp/3D9lwc4
+GithubAdvisories,[GHSA-wx69-rvg3-x7fc] XSS via prototype pollution in NodeBB,https://github.com/advisories/GHSA-wx69-rvg3-x7fc,https://j.mp/32NhYjr
+GithubAdvisories,[GHSA-pfj7-2qfw-vwgm] Path traversal in translator module in NodeBB,https://github.com/advisories/GHSA-pfj7-2qfw-vwgm,https://j.mp/3o7X7zm
+GithubAdvisories,[GHSA-hf79-8hjp-rrvq] Use After Free in lucet,https://github.com/advisories/GHSA-hf79-8hjp-rrvq,https://j.mp/3pemPSn
