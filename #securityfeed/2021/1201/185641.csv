@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7rpc-9m88-cf9w] OS Command Injection Vulnerability and Potential Zip Slip Vulnerability in baserCMS,https://github.com/advisories/GHSA-7rpc-9m88-cf9w,https://j.mp/31q3e9C
+GithubAdvisories,[GHSA-4x2f-54wr-4hjg] Potential Zip Slip Vulnerability in baserCMS,https://github.com/advisories/GHSA-4x2f-54wr-4hjg,https://j.mp/3piq3nJ
+GithubAdvisories,[GHSA-w7fj-336r-vw49] Cross-Site Scripting vulnerability in @backstage/plugin-auth-backend,https://github.com/advisories/GHSA-w7fj-336r-vw49,https://j.mp/3DeG439
+GithubAdvisories,[GHSA-2g8g-63j4-9w3r] RCE vulnerability affecting v1beta3 templates in @backstage/plugin-scaffolder-backend,https://github.com/advisories/GHSA-2g8g-63j4-9w3r,https://j.mp/3EhbPK5
+GithubAdvisories,[GHSA-f34m-x9pj-62vq] Cross-Site Scripting Vulnerability in @joeattardi/emoji-button,https://github.com/advisories/GHSA-f34m-x9pj-62vq,https://j.mp/3oalqwL
+GithubAdvisories,[GHSA-mg3m-f475-28hv] Path Traversal in @backstage/plugin-scaffolder-backend,https://github.com/advisories/GHSA-mg3m-f475-28hv,https://j.mp/2ZI3foG
+GithubAdvisories,[GHSA-9jp8-cwwx-p64q] XSS in richtext custom tag attributes in ezsystems/ezplatform-richtext,https://github.com/advisories/GHSA-9jp8-cwwx-p64q,https://j.mp/3xGlesh
+GithubAdvisories,[GHSA-fxwm-rx68-p5vx] XSS in richtext custom tag attributes in ezsystems/ezplatform-richtext,https://github.com/advisories/GHSA-fxwm-rx68-p5vx,https://j.mp/3rrtw65
+GithubAdvisories,[GHSA-q54r-r9pr-w7qv] XSS in Hexo,https://github.com/advisories/GHSA-q54r-r9pr-w7qv,https://j.mp/3Dh8bP0
+GithubAdvisories,[GHSA-jm6p-wfjg-xm7x] bookstack is vulnerable to Improper Access Control,https://github.com/advisories/GHSA-jm6p-wfjg-xm7x,https://j.mp/3xGOor2
