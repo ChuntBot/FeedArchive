@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2021-20860 (edwrc-2533gst2_firmware, wrc-1167gst2_firmware, wrc-1167gst2a_firmware, wrc-1167gst2h_firmware, wrc-1750gs_firmware, wrc-1750gsv_firmware, wrc-1900gst_firmware, wrc-2533gs2-b_firmware, wrc-2533gs2-w_firmware, wrc-2533gst_firmware, wrc-2533gst2-g_firmware, wrc-2533gst2_firmware, wrc-2533gst2sp_firmware, wrc-2533gsta_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20860,https://j.mp/3pk092T
+NVD-NIST,CVE-2021-43359 (ehrd),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43359,https://j.mp/3ogqFLh
+NVD-NIST,CVE-2021-43360 (ehrd),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43360,https://j.mp/3xOoQIL
