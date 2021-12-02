@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-20400 (qradar_security_information_and_event_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20400,https://j.mp/3lphWET
+NVD-NIST,"CVE-2021-20855 (wrh-733gbk_firmware, wrh-733gwh_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20855,https://j.mp/3djWSeh
+NVD-NIST,"CVE-2021-20856 (wrh-733gbk_firmware, wrh-733gwh_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20856,https://j.mp/3DmrGpj
+NVD-NIST,CVE-2021-20857 (wrc-2533ghbk-i_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20857,https://j.mp/3lrdtSc
+NVD-NIST,"CVE-2021-20859 (edwrc-2533gst2_firmware, wrc-1167gst2_firmware, wrc-1167gst2a_firmware, wrc-1167gst2h_firmware, wrc-1750gs_firmware, wrc-1750gsv_firmware, wrc-1900gst_firmware, wrc-2533gs2-b_firmware, wrc-2533gs2-w_firmware, wrc-2533gst_firmware, wrc-2533gst2-g_firmware, wrc-2533gst2_firmware, wrc-2533gst2sp_firmware, wrc-2533gsta_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20859,https://j.mp/3DbLsE8
+NVD-NIST,"CVE-2021-20861 (edwrc-2533gst2_firmware, wrc-1167gst2_firmware, wrc-1167gst2a_firmware, wrc-1167gst2h_firmware, wrc-1750gs_firmware, wrc-1750gsv_firmware, wrc-1900gst_firmware, wrc-2533gs2-b_firmware, wrc-2533gs2-w_firmware, wrc-2533gst_firmware, wrc-2533gst2-g_firmware, wrc-2533gst2_firmware, wrc-2533gst2sp_firmware, wrc-2533gsta_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20861,https://j.mp/3rtZEpK
+NVD-NIST,"CVE-2021-20862 (edwrc-2533gst2_firmware, wrc-1167gst2_firmware, wrc-1167gst2a_firmware, wrc-1167gst2h_firmware, wrc-1750gs_firmware, wrc-1750gsv_firmware, wrc-1900gst_firmware, wrc-2533gs2-b_firmware, wrc-2533gs2-w_firmware, wrc-2533gst_firmware, wrc-2533gst2-g_firmware, wrc-2533gst2_firmware, wrc-2533gst2sp_firmware, wrc-2533gsta_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20862,https://j.mp/3ltSwpJ
+NVD-NIST,"CVE-2021-20863 (edwrc-2533gst2_firmware, wrc-1167gst2_firmware, wrc-1167gst2a_firmware, wrc-1167gst2h_firmware, wrc-1750gs_firmware, wrc-1750gsv_firmware, wrc-1900gst_firmware, wrc-2533gs2-b_firmware, wrc-2533gs2-w_firmware, wrc-2533gst_firmware, wrc-2533gst2-g_firmware, wrc-2533gst2_firmware, wrc-2533gst2sp_firmware, wrc-2533gsta_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20863,https://j.mp/3rDl8QW
+NVD-NIST,"CVE-2021-20864 (edwrc-2533gst2_firmware, wrc-1167gst2_firmware, wrc-1167gst2a_firmware, wrc-1167gst2h_firmware, wrc-1750gs_firmware, wrc-1750gsv_firmware, wrc-1900gst_firmware, wrc-2533gs2-b_firmware, wrc-2533gs2-w_firmware, wrc-2533gst_firmware, wrc-2533gst2-g_firmware, wrc-2533gst2_firmware, wrc-2533gst2sp_firmware, wrc-2533gsta_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20864,https://j.mp/2ZLW5Qf
+NVD-NIST,CVE-2021-29779 (qradar_security_information_and_event_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29779,https://j.mp/3IqCyqj
+NVD-NIST,CVE-2021-29849 (qradar_security_information_and_event_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29849,https://j.mp/31iIGj7
+NVD-NIST,CVE-2021-29863 (qradar_security_information_and_event_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29863,https://j.mp/3Ek0BEO
+NVD-NIST,"CVE-2021-32592 (forticlient, forticlient_enterprise_management_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-32592,https://j.mp/31hv6gq
+NVD-NIST,CVE-2021-34599 (git),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34599,https://j.mp/3DucIxX
+NVD-NIST,CVE-2021-36329 (emc_streaming_data_platform),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-36329,https://j.mp/31f5HnD
+NVD-NIST,CVE-2021-36330 (emc_streaming_data_platform),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-36330,https://j.mp/3pj143S
+NVD-NIST,CVE-2021-3989 (showdoc),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3989,https://j.mp/3dd9La3
+NVD-NIST,CVE-2021-3990 (showdoc),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3990,https://j.mp/32ObTmJ
+NVD-NIST,CVE-2021-4018 (snipe-it),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-4018,https://j.mp/3ruG6Bv
+NVD-NIST,CVE-2021-43685 (libretime_hv),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43685,https://j.mp/3G5EoL6
+NVD-NIST,CVE-2021-43689 (manage),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43689,https://j.mp/3rvJn3y
