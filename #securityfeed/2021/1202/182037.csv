@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q4g7-jrxv-67r9] Silent Configuration Failure in Puppet Agent,https://github.com/advisories/GHSA-q4g7-jrxv-67r9,https://j.mp/3DfQmzN
+GithubAdvisories,[GHSA-93j5-g845-9wqp] Unsafe HTTP Redirect in Puppet Agent and Puppet Server,https://github.com/advisories/GHSA-93j5-g845-9wqp,https://j.mp/3rs0J1m
+GithubAdvisories,[GHSA-89q5-mj78-pw5w] Cross-site Scripting in pekeupload,https://github.com/advisories/GHSA-89q5-mj78-pw5w,https://j.mp/3ogFZaP
+GithubAdvisories,[GHSA-6gww-qpm6-mc2g] Server-Side Request Forgery in ssrf-agent,https://github.com/advisories/GHSA-6gww-qpm6-mc2g,https://j.mp/3xLtEhY
