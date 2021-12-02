@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3m3h-v9hv-9j4h] Cross-site Scripting in django-wiki,https://github.com/advisories/GHSA-3m3h-v9hv-9j4h,https://j.mp/3xMO1va
+GithubAdvisories,[GHSA-cfqj-9g2g-w7q6] Cross-site Scripting in Apache JSPWiki,https://github.com/advisories/GHSA-cfqj-9g2g-w7q6,https://j.mp/32YOcIJ
+GithubAdvisories,[GHSA-wf5p-f5xr-c4jj] SQL Injection in rosariosis,https://github.com/advisories/GHSA-wf5p-f5xr-c4jj,https://j.mp/3DeJd2N
+GithubAdvisories,[GHSA-pfmw-vj74-ph8g] Incorrect Permission Assignment for Critical Resource in HashiCorp Vault,https://github.com/advisories/GHSA-pfmw-vj74-ph8g,https://j.mp/31mBh2g
+GithubAdvisories,[GHSA-57h3-9rgr-c24m] Out of bounds write in Pillow,https://github.com/advisories/GHSA-57h3-9rgr-c24m,https://j.mp/3sy4kZj
+GithubAdvisories,[GHSA-9hx2-hgq2-2g4f] Regular Expression Denial of Service (ReDoS) in Pillow,https://github.com/advisories/GHSA-9hx2-hgq2-2g4f,https://j.mp/3fuRo2Z
