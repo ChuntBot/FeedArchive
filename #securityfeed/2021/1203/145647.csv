@@ -1,0 +1,27 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jc8g-xhw5-6x46] Moderate severity vulnerability that affects Microsoft.NETCore.UniversalWindowsPlatform and Microsoft.NETCore.UniversalWindowsPlatform,https://github.com/advisories/GHSA-jc8g-xhw5-6x46,https://j.mp/3rDMzdL
+GithubAdvisories,"[GHSA-v596-fwhq-8x48] High severity vulnerability that affects org.springframework.security:spring-security-core, org.springframework.security:spring-security-core , and org.springframework:spring-core",https://github.com/advisories/GHSA-v596-fwhq-8x48,https://j.mp/3ohSnHI
+GithubAdvisories,"[GHSA-jc7r-v6fg-2gpf] High severity vulnerability that affects org.apache.cxf:apache-cxf, org.apache.cxf:apache-cxf , and org.apache.cxf:cxf",https://github.com/advisories/GHSA-jc7r-v6fg-2gpf,https://j.mp/3EB49ml
+GithubAdvisories,"[GHSA-fxwm-579q-49qq] Moderate severity vulnerability that affects Bootstrap.Less, bootstrap, and bootstrap.sass",https://github.com/advisories/GHSA-fxwm-579q-49qq,https://j.mp/3xOM5CB
+GithubAdvisories,[GHSA-wh77-3x4m-4q9g] Moderate severity vulnerability that affects bootstrap and bootstrap-sass,https://github.com/advisories/GHSA-wh77-3x4m-4q9g,https://j.mp/3lw0iPI
+GithubAdvisories,[GHSA-mgv2-57vj-99xc] Low severity vulnerability that affects eye.js,https://github.com/advisories/GHSA-mgv2-57vj-99xc,https://j.mp/3dixvd6
+GithubAdvisories,[GHSA-cg8j-8w52-735v] Missing warning can lead to unauthenticated admin access in SilverStripe,https://github.com/advisories/GHSA-cg8j-8w52-735v,https://j.mp/3dniWol
+GithubAdvisories,[GHSA-9mrq-cjgh-32g2] Low severity vulnerability that affects smartbanner.js,https://github.com/advisories/GHSA-9mrq-cjgh-32g2,https://j.mp/3rvgwwf
+GithubAdvisories,[GHSA-8rf6-w2mx-4xjh] TODO,https://github.com/advisories/GHSA-8rf6-w2mx-4xjh,https://j.mp/3ElEk9J
+GithubAdvisories,[GHSA-4vr3-9v7h-5f8v] Low severity vulnerability that affects Gw2Sharp,https://github.com/advisories/GHSA-4vr3-9v7h-5f8v,https://j.mp/3GeHXhU
+GithubAdvisories,[GHSA-22mf-97vh-x8rw] TODO,https://github.com/advisories/GHSA-22mf-97vh-x8rw,https://j.mp/3IkPqxR
+GithubAdvisories,[GHSA-cqcf-4g4h-rghf] Cross-site scripting in Apache Archiva,https://github.com/advisories/GHSA-cqcf-4g4h-rghf,https://j.mp/3lsYFSU
+GithubAdvisories,[GHSA-943p-xc6m-c6gr] Rejected CVE ID,https://github.com/advisories/GHSA-943p-xc6m-c6gr,https://j.mp/2LlLkt8
+GithubAdvisories,[GHSA-r53m-pfr5-7v87] Moderate severity vulnerability that affects org.apache.tomcat.embed:tomcat-embed-core,https://github.com/advisories/GHSA-r53m-pfr5-7v87,https://j.mp/3d8y3j1
+GithubAdvisories,"[GHSA-jwqm-c9f2-2cq3] Cleartext Transmission of Sensitive Information, Inclusion of Functionality from Untrusted Control Sphere , and Download of Code Without Integrity Check in Eclipse hawkBit",https://github.com/advisories/GHSA-jwqm-c9f2-2cq3,https://j.mp/3lwIe8c
+GithubAdvisories,[GHSA-32f7-cmr3-vpjv] Moderate severity vulnerability that affects aioxmpp,https://github.com/advisories/GHSA-32f7-cmr3-vpjv,https://j.mp/2UN5otp
+GithubAdvisories,[GHSA-hhxm-4f85-rgr8] High severity vulnerability that affects many_versioned_gem,https://github.com/advisories/GHSA-hhxm-4f85-rgr8,https://j.mp/3xQOJro
+GithubAdvisories,[GHSA-c2fx-8r76-gh36] High severity vulnerability that affects python-gnupg,https://github.com/advisories/GHSA-c2fx-8r76-gh36,https://j.mp/3rDMzKN
+GithubAdvisories,[GHSA-xv6v-72hh-g6g2] Moderate severity vulnerability that affects org.owasp.antisamy:antisamy,https://github.com/advisories/GHSA-xv6v-72hh-g6g2,https://j.mp/3DxvRix
+GithubAdvisories,"[GHSA-cgpw-2gph-2r9g] Moderate severity vulnerability that affects Microsoft.AspNetCore.All, Microsoft.AspNetCore.App, and Microsoft.AspNetCore.Server.Kestrel.Core",https://github.com/advisories/GHSA-cgpw-2gph-2r9g,https://j.mp/3okMNnL
+GithubAdvisories,"[GHSA-3m2r-q8x3-xmf7] Moderate severity vulnerability that affects Microsoft.AspNetCore.All, Microsoft.AspNetCore.Server.Kestrel.Core, Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions, and Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv",https://github.com/advisories/GHSA-3m2r-q8x3-xmf7,https://j.mp/32QYg6h
+GithubAdvisories,[GHSA-pgv6-jrvv-75jp] Moderate severity vulnerability that affects send,https://github.com/advisories/GHSA-pgv6-jrvv-75jp,https://j.mp/2ZPiDQ7
+GithubAdvisories,[GHSA-crvj-3gj9-gm2p] High severity vulnerability that affects qs,https://github.com/advisories/GHSA-crvj-3gj9-gm2p,https://j.mp/3pqvYqN
+GithubAdvisories,[GHSA-g6f4-j6c2-w3p3] High severity vulnerability that affects uglify-js,https://github.com/advisories/GHSA-g6f4-j6c2-w3p3,https://j.mp/3rw3LBA
+GithubAdvisories,[GHSA-3233-rgx3-c2wh] Moderate severity vulnerability that affects mustache,https://github.com/advisories/GHSA-3233-rgx3-c2wh,https://j.mp/3GrIRbl
+GithubAdvisories,[GHSA-77pc-q5q7-qg9h] Moderate severity vulnerability that affects rails-html-sanitizer,https://github.com/advisories/GHSA-77pc-q5q7-qg9h,https://j.mp/3IhqDuJ
