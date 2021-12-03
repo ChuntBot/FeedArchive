@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j96p-r523-8r3w] HTTP Request Smuggling in github.com/hyperledger/fabric,https://github.com/advisories/GHSA-j96p-r523-8r3w,https://j.mp/3rEF9XH
+GithubAdvisories,[GHSA-5vr6-hm68-5j9p] Cross-site Scripting in LibreNMS,https://github.com/advisories/GHSA-5vr6-hm68-5j9p,https://j.mp/3lTh3or
+GithubAdvisories,[GHSA-4gwh-2pqx-f5cc] Cross-site Scripting in LibreNMS,https://github.com/advisories/GHSA-4gwh-2pqx-f5cc,https://j.mp/2ZS5OER
+GithubAdvisories,[GHSA-6w9p-88qg-p3g3] Cross-site Scripting in CKAN,https://github.com/advisories/GHSA-6w9p-88qg-p3g3,https://j.mp/3DiZWSB
+GithubAdvisories,[GHSA-gwpx-q2h9-wxgx] elgg is vulnerable to Authorization Bypass Through User-Controlled Key,https://github.com/advisories/GHSA-gwpx-q2h9-wxgx,https://j.mp/3djFp60
+GithubAdvisories,[GHSA-67c7-5v9j-227r] Cross-site Scripting in kimai2,https://github.com/advisories/GHSA-67c7-5v9j-227r,https://j.mp/3GdGzw4
+GithubAdvisories,[GHSA-9w8f-7wgr-2h7g] kimai2 is vulnerable to Improper Access Control,https://github.com/advisories/GHSA-9w8f-7wgr-2h7g,https://j.mp/3GsBi4b
+GithubAdvisories,[GHSA-6pqm-xvfc-w7p4] showdoc is vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-6pqm-xvfc-w7p4,https://j.mp/3Ih8tsY
+GithubAdvisories,[GHSA-2v5j-q74q-r53f] django-helpdesk is vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-2v5j-q74q-r53f,https://j.mp/3lwSxJk
+GithubAdvisories,[GHSA-f545-vpwp-r9j7] showdoc is vulnerable to URL Redirection to Untrusted Site,https://github.com/advisories/GHSA-f545-vpwp-r9j7,https://j.mp/3EogH08
+GithubAdvisories,[GHSA-5fh3-25xr-g85h] snipe-it is vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-5fh3-25xr-g85h,https://j.mp/3djFl6g
+GithubAdvisories,[GHSA-x68c-4gmm-5g43] kimai2 is vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-x68c-4gmm-5g43,https://j.mp/3dopxyR
+GithubAdvisories,[GHSA-f77h-m9w2-vvg2] showdoc is vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-f77h-m9w2-vvg2,https://j.mp/3IfWhc3
+GithubAdvisories,[GHSA-vrgh-5w3c-ggf8] showdoc is vulnerable to Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG),https://github.com/advisories/GHSA-vrgh-5w3c-ggf8,https://j.mp/3EqyjbQ
+GithubAdvisories,[GHSA-wc7v-77jr-5c3m] bookstack is vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-wc7v-77jr-5c3m,https://j.mp/3DlRXUW
