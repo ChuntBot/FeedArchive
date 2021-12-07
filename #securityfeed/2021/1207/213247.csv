@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-29115 (arcgis_enterprise),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29115,https://j.mp/301Vlqk
+NVD-NIST,CVE-2021-37014 (harmonyos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37014,https://j.mp/3pEemrN
+NVD-NIST,"CVE-2021-37020 (emui, harmonyos, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37020,https://j.mp/31Ahhtu
+NVD-NIST,"CVE-2021-37021 (emui, harmonyos, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37021,https://j.mp/3ECnCTE
+NVD-NIST,"CVE-2021-37041 (emui, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37041,https://j.mp/3dvpVf6
+NVD-NIST,"CVE-2021-37042 (emui, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37042,https://j.mp/3oykkLo
+NVD-NIST,"CVE-2021-37043 (emui, harmonyos, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37043,https://j.mp/31FbJgO
+NVD-NIST,"CVE-2021-37046 (emui, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37046,https://j.mp/3Iu4j1a
+NVD-NIST,"CVE-2021-37047 (emui, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37047,https://j.mp/3rGvn7n
+NVD-NIST,CVE-2021-37048 (harmonyos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37048,https://j.mp/3pESfBD
+NVD-NIST,"CVE-2021-37055 (emui, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37055,https://j.mp/31C9wTt
+NVD-NIST,"CVE-2021-37056 (emui, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37056,https://j.mp/3dwkoVQ
+NVD-NIST,CVE-2021-37057 (harmonyos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37057,https://j.mp/3dwzxpU
+NVD-NIST,"CVE-2021-43784 (debian_linux, runc)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43784,https://j.mp/32YZMTW
