@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-19611 (racktables),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-19611,https://j.mp/3EC6rl8
+NVD-NIST,CVE-2021-24931 (secure_copy_content_protection_and_content_locking),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24931,https://j.mp/3EtiUHD
+NVD-NIST,CVE-2021-24943 (registrations_for_the_events_calendar),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24943,https://j.mp/3Go2BfL
+NVD-NIST,CVE-2021-29116 (arcgis_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29116,https://j.mp/33diM1n
+NVD-NIST,CVE-2021-37011 (harmonyos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37011,https://j.mp/3y5IBeN
+NVD-NIST,"CVE-2021-37038 (emui, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37038,https://j.mp/33a4ZbN
+NVD-NIST,CVE-2021-37298 (laravel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37298,https://j.mp/3EAX44X
+NVD-NIST,CVE-2021-39890 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-39890,https://j.mp/3lGNHcs
+NVD-NIST,CVE-2021-40094 (squaredup),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-40094,https://j.mp/3oyZ6gE
+NVD-NIST,CVE-2021-40095 (squaredup),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-40095,https://j.mp/3oxqSdm
+NVD-NIST,CVE-2021-4075 (snipe-it),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-4075,https://j.mp/3pHb6fo
+NVD-NIST,"CVE-2021-43327 (rx65_firmware, rx65n_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43327,https://j.mp/3pAdBjn
+NVD-NIST,CVE-2021-43471 (lbp223dw_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43471,https://j.mp/3y1XRtp
+NVD-NIST,CVE-2021-44527 (unifi_switch_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44527,https://j.mp/3DyESHK
