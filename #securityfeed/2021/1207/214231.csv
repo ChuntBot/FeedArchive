@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6xxj-gcjq-wgf4] SQL injection in prestashop/prestashop,https://github.com/advisories/GHSA-6xxj-gcjq-wgf4,https://j.mp/3dsKetw
+GithubAdvisories,[GHSA-v95c-p5hm-xq8f] Overflow in netlink bytemsg length field allows attacker to override netlink-based container configuration,https://github.com/advisories/GHSA-v95c-p5hm-xq8f,https://j.mp/3y5jiKb
+GithubAdvisories,[GHSA-6r7c-6w96-8pvw] Remote Code Execution in AjaxNetProfessional,https://github.com/advisories/GHSA-6r7c-6w96-8pvw,https://j.mp/3072Zjo
