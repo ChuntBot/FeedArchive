@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-66hf-2p6w-jqfw] XSS in laravel/framework,https://github.com/advisories/GHSA-66hf-2p6w-jqfw,https://j.mp/3DE1wyu
+GithubAdvisories,[GHSA-25f5-gc4h-hc22] Improper Privilege Management in devise_masquerade,https://github.com/advisories/GHSA-25f5-gc4h-hc22,https://j.mp/3DDhg55
+GithubAdvisories,[GHSA-9c4x-5hgq-q3wh] Instance config inline secret exposure,https://github.com/advisories/GHSA-9c4x-5hgq-q3wh,https://j.mp/31EXd90
+GithubAdvisories,[GHSA-fj7f-vq84-fh43] Local Code Execution through Argument Injection via dash leading git url parameter in Gemfile,https://github.com/advisories/GHSA-fj7f-vq84-fh43,https://j.mp/3GnTT19
