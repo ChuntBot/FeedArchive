@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-76qm-4f93-fg6f] Improper Input Validation in xdLocalStorage,https://github.com/advisories/GHSA-76qm-4f93-fg6f,https://j.mp/3DF3IGi
+GithubAdvisories,[GHSA-c6c4-jmqx-3r33] Open Redirect in xdLocalStorage,https://github.com/advisories/GHSA-c6c4-jmqx-3r33,https://j.mp/3pGvvBc
+GithubAdvisories,[GHSA-vrc7-6g8w-jh56] Improper Input Validation in xdLocalStorage,https://github.com/advisories/GHSA-vrc7-6g8w-jh56,https://j.mp/3IydgGH
+GithubAdvisories,[GHSA-7q9f-x6rm-qmxr] Injection in compass-compile,https://github.com/advisories/GHSA-7q9f-x6rm-qmxr,https://j.mp/3EHVyOG
+GithubAdvisories,[GHSA-xmc8-26q4-qjhx] Denial of Service (DoS) in Jackson Dataformat CBOR,https://github.com/advisories/GHSA-xmc8-26q4-qjhx,https://j.mp/3oAWbDX
+GithubAdvisories,[GHSA-vfqx-33qm-g869] Unsafe Deserialization in jackson-databind,https://github.com/advisories/GHSA-vfqx-33qm-g869,https://j.mp/3DMqQCQ
+GithubAdvisories,[GHSA-r695-7vr9-jgc2] Unsafe Deserialization in jackson-databind,https://github.com/advisories/GHSA-r695-7vr9-jgc2,https://j.mp/3ESsYde
+GithubAdvisories,[GHSA-f9xh-2qgp-cq57] Unsafe Deserialization in jackson-databind,https://github.com/advisories/GHSA-f9xh-2qgp-cq57,https://j.mp/3IMDUfd
+GithubAdvisories,[GHSA-9m6f-7xcq-8vf8] Unsafe Deserialization in jackson-databind,https://github.com/advisories/GHSA-9m6f-7xcq-8vf8,https://j.mp/3dCpgbU
+GithubAdvisories,[GHSA-m6x4-97wx-4q27] Unsafe Deserialization in jackson-databind,https://github.com/advisories/GHSA-m6x4-97wx-4q27,https://j.mp/3dBsBbb
+GithubAdvisories,[GHSA-8c4j-34r4-xr8g] Unsafe Deserialization in jackson-databind,https://github.com/advisories/GHSA-8c4j-34r4-xr8g,https://j.mp/3oG74Ey
+GithubAdvisories,[GHSA-cvm9-fjm9-3572] Unsafe Deserialization in jackson-databind,https://github.com/advisories/GHSA-cvm9-fjm9-3572,https://j.mp/3EC9lWS
+GithubAdvisories,[GHSA-8w26-6f25-cm9x] Unsafe Deserialization in jackson-databind,https://github.com/advisories/GHSA-8w26-6f25-cm9x,https://j.mp/3DH2GcT
+GithubAdvisories,[GHSA-9gph-22xh-8x98] Unsafe Deserialization in jackson-databind,https://github.com/advisories/GHSA-9gph-22xh-8x98,https://j.mp/3EGuijD
+GithubAdvisories,[GHSA-89qr-369f-5m5x] Unsafe Deserialization in jackson-databind,https://github.com/advisories/GHSA-89qr-369f-5m5x,https://j.mp/3rNTdhu
+GithubAdvisories,[GHSA-qjw2-hr98-qgfh] Unsafe Deserialization in jackson-databind,https://github.com/advisories/GHSA-qjw2-hr98-qgfh,https://j.mp/3DH9Cqm
+GithubAdvisories,[GHSA-5r5r-6hpj-8gg9] Serialization gadget exploit in jackson-databind,https://github.com/advisories/GHSA-5r5r-6hpj-8gg9,https://j.mp/3dBsAUF
+GithubAdvisories,[GHSA-r3gr-cxrf-hg25] Serialization gadgets exploit in jackson-databind,https://github.com/advisories/GHSA-r3gr-cxrf-hg25,https://j.mp/3EFL02v
+GithubAdvisories,[GHSA-wh8g-3j2c-rqj5] Serialization gadgets exploit in jackson-databind,https://github.com/advisories/GHSA-wh8g-3j2c-rqj5,https://j.mp/309MxyI
+GithubAdvisories,[GHSA-h3cw-g4mq-c5x2] Code Injection in jackson-databind,https://github.com/advisories/GHSA-h3cw-g4mq-c5x2,https://j.mp/30bCUzH
