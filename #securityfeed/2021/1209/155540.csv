@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Red Hat Security Advisory 2021-5047-02,https://packetstormsecurity.com/files/165224/RHSA-2021-5047-02.txt,https://j.mp/3yaKbMG
+PacketstormSecurity,Red Hat Security Advisory 2021-5036-04,https://packetstormsecurity.com/files/165223/RHSA-2021-5036-04.txt,https://j.mp/3rQS08Y
+PacketstormSecurity,Grafana 8.3.0 Directory Traversal / Arbitrary File Read,https://packetstormsecurity.com/files/165221/grafana830-traversal.txt,https://j.mp/3dCf0jW
+PacketstormSecurity,Red Hat Security Advisory 2021-5045-02,https://packetstormsecurity.com/files/165220/RHSA-2021-5045-02.txt,https://j.mp/31FZjW9
+PacketstormSecurity,Red Hat Security Advisory 2021-5045-02,https://packetstormsecurity.com/files/165219/RHSA-2021-5045-02.txt,https://j.mp/3ILUN9R
+PacketstormSecurity,Red Hat Security Advisory 2021-5048-02,https://packetstormsecurity.com/files/165218/RHSA-2021-5048-02.txt,https://j.mp/3oBth6M
+PacketstormSecurity,Mail Information Gathering AppScript,https://packetstormsecurity.com/files/165217/mail-gathering.pdf,https://j.mp/3y83ypH
+PacketstormSecurity,Microsoft MSHTML Remote Code Execution,https://packetstormsecurity.com/files/165216/mshtml-exec.pdf,https://j.mp/3ItLjjj
+PacketstormSecurity,Microsoft Office Word MSHTML Remote Code Execution,https://packetstormsecurity.com/files/165214/word_mshtml_rce.rb.txt,https://j.mp/31RBL0M
+PacketstormSecurity,Red Hat Security Advisory 2021-5046-03,https://packetstormsecurity.com/files/165213/RHSA-2021-5046-03.txt,https://j.mp/3DH5w1c
+PacketstormSecurity,LimeSurvey 5.2.4 Remote Code Execution,https://packetstormsecurity.com/files/165212/limesurvey524-exec.txt,https://j.mp/3lRPfAK
+PacketstormSecurity,TestLink 1.19 Arbitrary File Download,https://packetstormsecurity.com/files/165210/testlink119-filedownload.txt,https://j.mp/3DIGZca
+PacketstormSecurity,Red Hat Security Advisory 2021-5038-04,https://packetstormsecurity.com/files/165209/RHSA-2021-5038-04.txt,https://j.mp/3rQS0pu
+PacketstormSecurity,Red Hat Security Advisory 2021-5053-03,https://packetstormsecurity.com/files/165208/RHSA-2021-5053-03.txt,https://j.mp/339qKIB
+PacketstormSecurity,WordPress Catch Themes Demo Import 1.6.1 Shell Upload,https://packetstormsecurity.com/files/165207/wpctdi161-shell.txt,https://j.mp/3IDvG8P
+PacketstormSecurity,MTPutty 1.0.1.21 SSH Password Disclosure,https://packetstormsecurity.com/files/165206/mtputty10121-disclose.txt,https://j.mp/3oDER19
+PacketstormSecurity,Red Hat Security Advisory 2021-5030-01,https://packetstormsecurity.com/files/165205/RHSA-2021-5030-01.txt,https://j.mp/3rQRZSs
+PacketstormSecurity,Chikitsa Patient Management System 2.0.2 Plugin Remote Code Execution,https://packetstormsecurity.com/files/165204/cpms202p-exec.txt,https://j.mp/3EGBDzA
+PacketstormSecurity,Chikitsa Patient Management System 2.0.2 Backup Remote Code Execution,https://packetstormsecurity.com/files/165203/cpms202-exec.txt,https://j.mp/3GoFUYI
+PacketstormSecurity,Employees Daily Task Management System 1.0 SQL Injection,https://packetstormsecurity.com/files/165202/edtms10-sql.txt,https://j.mp/3lPkn3C
+PacketstormSecurity,Employees Daily Task Management System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/165201/edtms10persistent-xss.txt,https://j.mp/3rRs3X6
+PacketstormSecurity,Kabir Alhasan Student Management System 1.0 SQL Injection,https://packetstormsecurity.com/files/165215/kasms10-sql.txt,https://j.mp/3pHlEef
+PacketstormSecurity,Raspberry Pi 5.10 Default Credentials,https://packetstormsecurity.com/files/165211/raspberrypi-default.txt,https://j.mp/3y83xC9
