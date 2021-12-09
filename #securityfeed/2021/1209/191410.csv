@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-34544 (solar-log_500_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34544,https://j.mp/31HmU9i
+NVD-NIST,CVE-2021-36180 (fortiweb),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-36180,https://j.mp/31PySNF
+NVD-NIST,"CVE-2021-36760 (api_manager, identity_server, identity_server_as_key_manager, iot_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-36760,https://j.mp/3pLi4jp
+NVD-NIST,CVE-2021-37086 (harmonyos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37086,https://j.mp/3ItyPbg
+NVD-NIST,CVE-2021-37089 (harmonyos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37089,https://j.mp/3GxIs6T
+NVD-NIST,CVE-2021-37090 (harmonyos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37090,https://j.mp/3DJpcl8
+NVD-NIST,CVE-2021-37091 (harmonyos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37091,https://j.mp/3pHiuHB
+NVD-NIST,CVE-2021-40578 (online_enrollment_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-40578,https://j.mp/3ItyPrM
+NVD-NIST,"CVE-2021-42757 (fortianalyzer, fortimanager, fortios, fortiweb)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42757,https://j.mp/3EGbKzL
+NVD-NIST,"CVE-2021-43176 (goautodial, goautodial_api)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43176,https://j.mp/3lPYrp2
