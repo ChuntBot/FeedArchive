@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-12140 (contiki-ng),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12140,https://j.mp/3oD33R7
+NVD-NIST,CVE-2021-28703 (xen),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28703,https://j.mp/3GvniGM
+NVD-NIST,CVE-2021-31850 (database_security),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-31850,https://j.mp/3EI0FOD
+NVD-NIST,CVE-2021-34543 (solar-log_500_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-34543,https://j.mp/3dB8M3H
+NVD-NIST,"CVE-2021-37069 (emui, harmonyos, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37069,https://j.mp/3lPK2JM
+NVD-NIST,"CVE-2021-37074 (emui, harmonyos, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37074,https://j.mp/3lRIWwR
+NVD-NIST,"CVE-2021-37075 (emui, harmonyos, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37075,https://j.mp/3DzacX2
+NVD-NIST,CVE-2021-37084 (harmonyos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37084,https://j.mp/31MnyBU
+NVD-NIST,CVE-2021-37085 (harmonyos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37085,https://j.mp/31IliMv
+NVD-NIST,CVE-2021-41309 (jira_software_data_center),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41309,https://j.mp/3dHw9Zj
+NVD-NIST,CVE-2021-41311 (jira_software_data_center),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41311,https://j.mp/3dFTGd6
+NVD-NIST,CVE-2021-42993 (flexihub),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42993,https://j.mp/3EKvLFu
+NVD-NIST,CVE-2021-42996 (donglify),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42996,https://j.mp/3rLrmP0
