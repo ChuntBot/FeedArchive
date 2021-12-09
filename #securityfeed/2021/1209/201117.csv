@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vj54-cjrx-x696] Observable Discrepancy in Argo,https://github.com/advisories/GHSA-vj54-cjrx-x696,https://j.mp/3IzBr7y
+GithubAdvisories,[GHSA-v39h-qm32-8gwq] Improperly Controlled Modification of Dynamically-Determined Object Attributes in express-mock-middleware,https://github.com/advisories/GHSA-v39h-qm32-8gwq,https://j.mp/3dE2BMu
+GithubAdvisories,[GHSA-3p94-vj97-fm4q] OS Command Injection in fsa,https://github.com/advisories/GHSA-3p94-vj97-fm4q,https://j.mp/3yd3eWP
+GithubAdvisories,[GHSA-4m6q-rxhm-675w] OS Command Injection in adb-driver,https://github.com/advisories/GHSA-4m6q-rxhm-675w,https://j.mp/309ByoW
+GithubAdvisories,[GHSA-3q9x-w53p-jg53] OS Command Injection in heroku-addonpool,https://github.com/advisories/GHSA-3q9x-w53p-jg53,https://j.mp/3EVZlIp
