@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v6rh-hp5x-86rv] Potential bypass of an upstream access control based on URL paths in Django,https://github.com/advisories/GHSA-v6rh-hp5x-86rv,https://j.mp/3y9dI9D
+GithubAdvisories,[GHSA-wx5j-54mm-rqqq] HTTP request smuggling in io.netty:netty-codec-http,https://github.com/advisories/GHSA-wx5j-54mm-rqqq,https://j.mp/3pKHIVd
+GithubAdvisories,[GHSA-m3rf-7m4w-r66q] Improper Authentication in Flask-AppBuilder,https://github.com/advisories/GHSA-m3rf-7m4w-r66q,https://j.mp/3oG2030
+GithubAdvisories,[GHSA-7rg2-qxmf-hhx9] Session fixation in express-openid-connect,https://github.com/advisories/GHSA-7rg2-qxmf-hhx9,https://j.mp/3oDuPNs
+GithubAdvisories,[GHSA-qrmm-w75w-3wpx] Server side request forgery in SwaggerUI,https://github.com/advisories/GHSA-qrmm-w75w-3wpx,https://j.mp/3lPK0S4
