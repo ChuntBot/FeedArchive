@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2021-20038 (sma_200_firmware, sma_210_firmware, sma_400_firmware, sma_410_firmware, sma_500v_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20038,https://j.mp/3dLb9kp
+NVD-NIST,"CVE-2021-20039 (sma_200_firmware, sma_210_firmware, sma_400_firmware, sma_410_firmware, sma_500v_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20039,https://j.mp/3DFyxuh
+NVD-NIST,CVE-2021-38759 (raspberry_pi_os_lite),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38759,https://j.mp/3meFH31
+NVD-NIST,CVE-2021-40288 (archer_ax10_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-40288,https://j.mp/3ycs60G
+NVD-NIST,CVE-2021-42110 (allegro),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42110,https://j.mp/3rUG5an
+NVD-NIST,CVE-2021-43065 (fortinac),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43065,https://j.mp/3GuqClt
+NVD-NIST,CVE-2021-43068 (fortiauthenticator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43068,https://j.mp/31PYVVk
+NVD-NIST,CVE-2021-43071 (fortiweb),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43071,https://j.mp/3lVHBFg
+NVD-NIST,CVE-2021-43528 (thunderbird),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43528,https://j.mp/33ksI9h
+NVD-NIST,"CVE-2021-43537 (firefox, firefox_esr, thunderbird)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43537,https://j.mp/3oIuIjW
+NVD-NIST,CVE-2021-43540 (firefox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43540,https://j.mp/3IDGEeD
+NVD-NIST,"CVE-2021-43541 (firefox, firefox_esr, thunderbird)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43541,https://j.mp/3dEW83N
+NVD-NIST,"CVE-2021-43542 (firefox, firefox_esr, thunderbird)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43542,https://j.mp/3oEzyyy
+NVD-NIST,"CVE-2021-43543 (firefox, firefox_esr, thunderbird)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43543,https://j.mp/31PYPgq
+NVD-NIST,CVE-2021-43544 (firefox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43544,https://j.mp/3lSXT1G
+NVD-NIST,"CVE-2021-43545 (firefox, firefox_esr, thunderbird)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43545,https://j.mp/3ybcJWo
+NVD-NIST,"CVE-2021-43546 (firefox, firefox_esr, thunderbird)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43546,https://j.mp/3EIQd9N
+NVD-NIST,CVE-2021-43798 (grafana),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43798,https://j.mp/3DIgUKr
