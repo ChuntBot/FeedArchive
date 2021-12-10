@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4jwx-78vx-gm6g] Cross-Site Request Forgery in kimai2,https://github.com/advisories/GHSA-4jwx-78vx-gm6g,https://j.mp/3oIuzg6
+GithubAdvisories,[GHSA-97cc-825c-399g] Cross site scripting in remdex/livehelperchat,https://github.com/advisories/GHSA-97cc-825c-399g,https://j.mp/3oFiEjf
+GithubAdvisories,[GHSA-3xph-cp8f-2229] Prototype Pollution in @fabiocaccamo/utils.js,https://github.com/advisories/GHSA-3xph-cp8f-2229,https://j.mp/3pKfs5e
+GithubAdvisories,[GHSA-792j-9wj3-j634] Command injection in github-todos,https://github.com/advisories/GHSA-792j-9wj3-j634,https://j.mp/3pMAWyr
+GithubAdvisories,[GHSA-h86j-6h6m-qjqw] Cross-Site Request Forgery in remdex/livehelperchat,https://github.com/advisories/GHSA-h86j-6h6m-qjqw,https://j.mp/3GzEpqY
+GithubAdvisories,[GHSA-gfhx-jjwq-63gv] Cross-site Scripting in Apereo CAS,https://github.com/advisories/GHSA-gfhx-jjwq-63gv,https://j.mp/3dCf2IF
+GithubAdvisories,[GHSA-33gc-6cw9-w3g4] Deserialization of Untrusted Data in topthink/framework,https://github.com/advisories/GHSA-33gc-6cw9-w3g4,https://j.mp/3oIuvgm
+GithubAdvisories,[GHSA-553q-hpvp-q8pc] Server-Side Request Forgery in snipe/snipe-it,https://github.com/advisories/GHSA-553q-hpvp-q8pc,https://j.mp/3EPFuKH
+GithubAdvisories,[GHSA-hjhp-hwfj-hwf3] Cross Site Request Forgery in firefly-iii,https://github.com/advisories/GHSA-hjhp-hwfj-hwf3,https://j.mp/3lW69hr
+GithubAdvisories,[GHSA-7289-chwj-7h86] Path traversal in librenms/librenms,https://github.com/advisories/GHSA-7289-chwj-7h86,https://j.mp/3rVBZP6
+GithubAdvisories,[GHSA-2jhh-5xm2-j4gf] Improper Authentication in HashiCorp Nomad,https://github.com/advisories/GHSA-2jhh-5xm2-j4gf,https://j.mp/3oIF2IA
