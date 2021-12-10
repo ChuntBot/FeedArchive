@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xxfh-x98p-j8fr] Remote code injection in Log4j (through pax-logging-log4j2),https://github.com/advisories/GHSA-xxfh-x98p-j8fr,https://j.mp/3IQv687
+GithubAdvisories,[GHSA-hg2p-2cvq-4ppv] Cross-site scripting in lazysizes,https://github.com/advisories/GHSA-hg2p-2cvq-4ppv,https://j.mp/3pKpeV4
+GithubAdvisories,[GHSA-v3r2-3fp4-rp46] Prototype pollution in paypal-adaptive,https://github.com/advisories/GHSA-v3r2-3fp4-rp46,https://j.mp/3EKF8oN
+GithubAdvisories,[GHSA-f78f-353m-cf4j] Code Injection in node-rules,https://github.com/advisories/GHSA-f78f-353m-cf4j,https://j.mp/3DIdYxu
+GithubAdvisories,[GHSA-p33m-7w7f-gmj8] Uncontrolled Resource Consumption in fun-map,https://github.com/advisories/GHSA-p33m-7w7f-gmj8,https://j.mp/3EJtvhS
+GithubAdvisories,[GHSA-vm5j-vqr6-v7v8] OS Command Injection in pixl-class,https://github.com/advisories/GHSA-vm5j-vqr6-v7v8,https://j.mp/3oIpPqO
