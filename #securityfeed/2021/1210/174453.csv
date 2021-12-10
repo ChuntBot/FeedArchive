@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g7mq-rfj2-25wq] Code Injection in total4,https://github.com/advisories/GHSA-g7mq-rfj2-25wq,https://j.mp/3EFJj54
+GithubAdvisories,[GHSA-7fm6-gxqg-2pwr] Code Injection in total.js,https://github.com/advisories/GHSA-7fm6-gxqg-2pwr,https://j.mp/3oGRWGT
+GithubAdvisories,[GHSA-j377-2x76-558h] Improper Input Validation in is-email,https://github.com/advisories/GHSA-j377-2x76-558h,https://j.mp/31NT5Uc
+GithubAdvisories,[GHSA-9x7m-9hpg-xxmw] Prototype Pollution in putil-merge,https://github.com/advisories/GHSA-9x7m-9hpg-xxmw,https://j.mp/3EJD0xf
+GithubAdvisories,[GHSA-q5wr-fvpq-p67g] Integer Overflow in png-img,https://github.com/advisories/GHSA-q5wr-fvpq-p67g,https://j.mp/3yd5flM
+GithubAdvisories,[GHSA-hm82-qr45-h7mw] Improperly Controlled Modification of Dynamically-Determined Object Attributes in field,https://github.com/advisories/GHSA-hm82-qr45-h7mw,https://j.mp/3lVz05v
+GithubAdvisories,[GHSA-49vv-6q7q-w5cf] OS Command Injection in Strapi,https://github.com/advisories/GHSA-49vv-6q7q-w5cf,https://j.mp/31GLnM6
+GithubAdvisories,[GHSA-23fp-fmrv-f5px] Uncontrolled Resource Consumption in strapi,https://github.com/advisories/GHSA-23fp-fmrv-f5px,https://j.mp/33kYpzd
+GithubAdvisories,[GHSA-3h68-wvv6-8r5h] Improper Removal of Sensitive Information Before Storage or Transfer in Apache Jackrabbit Oak,https://github.com/advisories/GHSA-3h68-wvv6-8r5h,https://j.mp/3dBCYfc
+GithubAdvisories,[GHSA-v525-c3g5-cg9p] Unsafe Deserialization that can Result in Code Execution,https://github.com/advisories/GHSA-v525-c3g5-cg9p,https://j.mp/3EFJjC6
