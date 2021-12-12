@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommit,[SOGo] Faster GC: fix for too many SQL connections,https://github.com/mailcow/mailcow-dockerized/commit/a5660cdf31182e8fa61eb1de7367677fe4a88076,https://j.mp/31T4QsG
+GithubCommit,[Compose] Update Solr image,https://github.com/mailcow/mailcow-dockerized/commit/e1db347d0395aad740a6bb2f9ada0cc4825514b4,https://j.mp/3ILr68z
