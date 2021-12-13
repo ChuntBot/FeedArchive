@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-55x5-fj6c-h6m8] HTML Cleaner allows crafted and SVG embedded scripts to pass through,https://github.com/advisories/GHSA-55x5-fj6c-h6m8,https://j.mp/30pFGS0
