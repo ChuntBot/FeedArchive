@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-27984 (pluck),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27984,https://j.mp/31XOCyL
+NVD-NIST,CVE-2021-38917 (powervm_hypervisor),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38917,https://j.mp/31Q13wD
+NVD-NIST,CVE-2021-38937 (powervm_hypervisor),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38937,https://j.mp/3oSkU6M
+NVD-NIST,CVE-2021-43410 (airavata_django_portal),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43410,https://j.mp/3oPv8ox
