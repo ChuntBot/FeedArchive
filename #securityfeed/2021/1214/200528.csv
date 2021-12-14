@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fp5r-v3w9-4333] JMSAppender in Log4j 1.2 is vulnerable to deserialization of untrusted data,https://github.com/advisories/GHSA-fp5r-v3w9-4333,https://j.mp/3dW40Og
