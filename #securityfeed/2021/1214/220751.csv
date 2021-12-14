@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2hfj-cxw7-g45p] Unsafe inline XSS in pasting DOM element into chat,https://github.com/advisories/GHSA-2hfj-cxw7-g45p,https://j.mp/3yqWNzf
+GithubAdvisories,[GHSA-9c22-pwxw-p6hx] Initializer reentrancy may lead to double initialization,https://github.com/advisories/GHSA-9c22-pwxw-p6hx,https://j.mp/3EYOQUr
+GithubAdvisories,[GHSA-94g7-hpv8-h9qm] Remote code injection in Log4j,https://github.com/advisories/GHSA-94g7-hpv8-h9qm,https://j.mp/3yrEHNx
+GithubAdvisories,[GHSA-59g4-hpg3-3gcp] Files Accessible to External Parties,https://github.com/advisories/GHSA-59g4-hpg3-3gcp,https://j.mp/3pTMRdX
+GithubAdvisories,[GHSA-hcxx-mp6g-6gr9] Opencast publishes global system account credentials,https://github.com/advisories/GHSA-hcxx-mp6g-6gr9,https://j.mp/3pRq6aq
+GithubAdvisories,[GHSA-j4mm-7pj3-jf7v] HTTP Method Spoofing,https://github.com/advisories/GHSA-j4mm-7pj3-jf7v,https://j.mp/3EYOUn9
