@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5cqm-crxm-6qpv] Buffer overrun vulnerability in CGI,https://github.com/advisories/GHSA-5cqm-crxm-6qpv,https://j.mp/30tWSpu
+GithubAdvisories,[GHSA-qphc-hf5q-v8fc] Open Redirect in actionpack,https://github.com/advisories/GHSA-qphc-hf5q-v8fc,https://j.mp/31WrpfX
+GithubAdvisories,[GHSA-ph98-v78f-jqrm] SQL injection in jackalope/jackalope-doctrine-dbal,https://github.com/advisories/GHSA-ph98-v78f-jqrm,https://j.mp/31YZ8FZ
+GithubAdvisories,[GHSA-mf4f-j588-5xm8] Apache Log4j Remote Code Execution,https://github.com/advisories/GHSA-mf4f-j588-5xm8,https://j.mp/3DXpDZ8
