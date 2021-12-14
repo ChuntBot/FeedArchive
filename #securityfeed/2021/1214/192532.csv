@@ -1,0 +1,25 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-22565 (exposure_notification_verification_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22565,https://j.mp/3oWJnIp
+NVD-NIST,CVE-2021-23463 (h2),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23463,https://j.mp/3m5yuSt
+NVD-NIST,CVE-2021-23639 (markdown_to_pdf),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23639,https://j.mp/3DSPqld
+NVD-NIST,CVE-2021-23663 (sey),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23663,https://j.mp/3yt2ddm
+NVD-NIST,CVE-2021-23700 (merge-deep2),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23700,https://j.mp/3dTHmq1
+NVD-NIST,CVE-2021-31745 (pluck),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-31745,https://j.mp/3oVnXey
+NVD-NIST,"CVE-2021-35978 (transport_dr64_firmware, transport_sr44_firmware, transport_vc74_firmware, transport_wr11_firmware, transport_wr11_xt_firmware, transport_wr21_firmware, transport_wr31_firmware, transport_wr41_firmware, transport_wr44_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-35978,https://j.mp/3ISEIyQ
+NVD-NIST,"CVE-2021-37187 (transport_dr64_firmware, transport_vc74_firmware, transport_wr11_firmware, transport_wr11_xt_firmware, transport_wr21_firmware, transport_wr31_firmware, transport_wr41_firmware, transport_wr44_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37187,https://j.mp/3oWJunj
+NVD-NIST,"CVE-2021-37188 (transport_dr64_firmware, transport_vc74_firmware, transport_wr11_firmware, transport_wr11_xt_firmware, transport_wr21_firmware, transport_wr31_firmware, transport_wr41_firmware, transport_wr44_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37188,https://j.mp/3s21Oxb
+NVD-NIST,"CVE-2021-37189 (transport_wr11_firmware, transport_wr11_xt_firmware, transport_wr21_firmware, transport_wr31_firmware, transport_wr41_firmware, transport_wr44_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37189,https://j.mp/31YZo7t
+NVD-NIST,CVE-2021-37934 (huntflow_enterprise),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37934,https://j.mp/3DXoJfn
+NVD-NIST,CVE-2021-37935 (huntflow_enterprise),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37935,https://j.mp/3m63u4P
+NVD-NIST,CVE-2021-38931 (db2),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38931,https://j.mp/31PCkZn
+NVD-NIST,CVE-2021-38951 (websphere_application_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38951,https://j.mp/3dOH187
+NVD-NIST,CVE-2021-40834 (safe),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-40834,https://j.mp/3s5YjWD
+NVD-NIST,CVE-2021-4089 (snipe-it),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-4089,https://j.mp/3oUGcAY
+NVD-NIST,CVE-2021-41242 (openolat),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41242,https://j.mp/3DWvQ7U
+NVD-NIST,"CVE-2021-44431 (jt_open_toolkit, jt_utilities)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44431,https://j.mp/3GP4tyx
+NVD-NIST,"CVE-2021-44432 (jt_open_toolkit, jt_utilities)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44432,https://j.mp/3GZutr5
+NVD-NIST,"CVE-2021-44434 (jt_open_toolkit, jt_utilities)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44434,https://j.mp/3m4poFO
+NVD-NIST,"CVE-2021-44443 (jt_open_toolkit, jt_utilities)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44443,https://j.mp/3oTu1Ee
+NVD-NIST,"CVE-2021-44444 (jt_open_toolkit, jt_utilities)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44444,https://j.mp/3DUWu0I
+NVD-NIST,"CVE-2021-44445 (jt_open_toolkit, jt_utilities)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44445,https://j.mp/3228aS2
+NVD-NIST,"CVE-2021-44450 (jt_open_toolkit, jt_utilities)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44450,https://j.mp/3lZZGCj
