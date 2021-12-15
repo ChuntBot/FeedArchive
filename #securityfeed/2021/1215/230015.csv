@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-84px-q68r-2fc9] Privilege escalation in the Sulu Admin panel,https://github.com/advisories/GHSA-84px-q68r-2fc9,https://j.mp/3EUMGFr
+GithubAdvisories,[GHSA-vx6j-pjrh-vgjh] PHP file inclusion in the Sulu admin panel,https://github.com/advisories/GHSA-vx6j-pjrh-vgjh,https://j.mp/3q2DOau
+GithubAdvisories,[GHSA-gjrj-9rj4-pgwx] DoS Vulnerability from Upstream Actix Web Issues,https://github.com/advisories/GHSA-gjrj-9rj4-pgwx,https://j.mp/3dWz4gY
