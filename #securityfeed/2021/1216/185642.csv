@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j5qg-w9jg-3wg3] Inability to de-op players if listed in ops.txt with non-lowercase letters,https://github.com/advisories/GHSA-j5qg-w9jg-3wg3,https://j.mp/3GGrd3A
+GithubAdvisories,[GHSA-hwvm-vfw8-93mw] Vulnerable dependency in XTDB connector,https://github.com/advisories/GHSA-hwvm-vfw8-93mw,https://j.mp/3257vzs
+GithubAdvisories,[GHSA-2mqv-4j3r-vjvp] Open redirect in @auth0/nextjs-auth0,https://github.com/advisories/GHSA-2mqv-4j3r-vjvp,https://j.mp/3qlfEZd
