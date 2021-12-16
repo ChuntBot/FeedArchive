@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q34h-97wf-8r8j] vault-cli possible RCE when reading user-defined data,https://github.com/advisories/GHSA-q34h-97wf-8r8j,https://j.mp/33BlAW9
+GithubAdvisories,[GHSA-j7c3-96rf-jrrp] Critical vulnerability in log4j may affect generated PEAR projects,https://github.com/advisories/GHSA-j7c3-96rf-jrrp,https://j.mp/3q4HgBn
+GithubAdvisories,[GHSA-7v7w-f7c6-f829] yetiforcecrm is vulnerable to Business Logic Errors,https://github.com/advisories/GHSA-7v7w-f7c6-f829,https://j.mp/3s8BbGZ
+GithubAdvisories,[GHSA-cxg7-84wp-8pcq] yetiforcecrm is vulnerable to Business Logic Errors,https://github.com/advisories/GHSA-cxg7-84wp-8pcq,https://j.mp/3mc7IIi
+GithubAdvisories,[GHSA-fwh7-v4gf-xv7w] yetiforcecrm is vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-fwh7-v4gf-xv7w,https://j.mp/328qPfk
