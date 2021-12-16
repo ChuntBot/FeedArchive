@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2021-4104 (codeready_studio, enterprise_linux, fedora, integration_camel_k, integration_camel_quarkus, jboss_a-mq, jboss_a-mq_streaming, jboss_data_grid, jboss_data_virtualization, jboss_enterprise_application_platform, jboss_fuse, jboss_fuse_service_works, jboss_operations_network, jboss_web_server, log4j, openshift_application_runtimes, openshift_container_platform, process_automation, single_sign-on, software_collections)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-4104,https://j.mp/3oZMWNY
+NVD-NIST,CVE-2021-42549 (lets-box),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42549,https://j.mp/3IRRJch
+NVD-NIST,"CVE-2021-44165 (7kg9501-0aa01-0aa1_firmware, 7kg9501-0aa01-2aa1_firmware, 7kg9501-0aa31-0aa1_firmware, 7kg9501-0aa31-2aa1_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44165,https://j.mp/3q1Ntye
