@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2v2v-fx7r-f2fh] pimcore is vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-2v2v-fx7r-f2fh,https://j.mp/3p1Bj98
+GithubAdvisories,[GHSA-3p85-p4qg-hcrp] pimcore is vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-3p85-p4qg-hcrp,https://j.mp/3q4GFQa
+GithubAdvisories,[GHSA-8qv8-fq5w-p966] phpservermon is vulnerable to CRLF Injection,https://github.com/advisories/GHSA-8qv8-fq5w-p966,https://j.mp/31Xa9Yu
+GithubAdvisories,[GHSA-v4cr-m5f8-gxw8] yetiforcecrm is vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-v4cr-m5f8-gxw8,https://j.mp/3IVct2D
+GithubAdvisories,[GHSA-rxch-gp62-574w] snipe-it is vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-rxch-gp62-574w,https://j.mp/3GPRV9Q
+GithubAdvisories,[GHSA-c69w-jj56-834w] Improper Certificate Validation and Improper Validation of Certificate with Host Mismatch in Apache Sling Commons Messaging Mail,https://github.com/advisories/GHSA-c69w-jj56-834w,https://j.mp/3yyii1h
+GithubAdvisories,[GHSA-rp42-c45j-g46x] yetiforcecrm is vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-rp42-c45j-g46x,https://j.mp/3q0kHxY
