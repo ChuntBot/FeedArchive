@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Red Hat Security Advisory 2021-5106-04,https://packetstormsecurity.com/files/165333/RHSA-2021-5106-04.txt,https://j.mp/3IYMHe6
+PacketstormSecurity,Chrome NavigationPreloadRequest Site Isolation Bypass,https://packetstormsecurity.com/files/165332/GS20211216153046.tgz,https://j.mp/3sqTgAj
+PacketstormSecurity,Chrome ThreadedIconLoader::DecodeAndResizeImageOnBackgroundThread Heap Use-After-Free,https://packetstormsecurity.com/files/165331/GS20211216152827.tgz,https://j.mp/3dVvCmX
+PacketstormSecurity,Chrome blink::NativeIOFile::DoRead Heap Use-After-Free,https://packetstormsecurity.com/files/165330/GS20211216152619.tgz,https://j.mp/3sbLvOn
+PacketstormSecurity,Red Hat Security Advisory 2021-5148-01,https://packetstormsecurity.com/files/165329/RHSA-2021-5148-01.txt,https://j.mp/3F28KOD
+PacketstormSecurity,Red Hat Security Advisory 2021-5150-03,https://packetstormsecurity.com/files/165328/RHSA-2021-5150-03.txt,https://j.mp/3F2kJvv
+PacketstormSecurity,Cibele Thinfinity VirtualUI 2.5.41.0 User Enumeration,https://packetstormsecurity.com/files/165327/cibeletv25410-enumerate.txt,https://j.mp/3dZ9HeE
+PacketstormSecurity,Red Hat Security Advisory 2021-5141-05,https://packetstormsecurity.com/files/165326/RHSA-2021-5141-05.txt,https://j.mp/3yzzp2x
+PacketstormSecurity,Croogo 3.0.2 Shell Upload,https://packetstormsecurity.com/files/165323/croogo302-shell.txt,https://j.mp/3E1lfbC
+PacketstormSecurity,Croogo 3.0.2 Cross Site Scripting,https://packetstormsecurity.com/files/165322/croogo302-xss.txt,https://j.mp/3p2B2D4
+PacketstormSecurity,Red Hat Security Advisory 2021-5154-04,https://packetstormsecurity.com/files/165321/RHSA-2021-5154-04.txt,https://j.mp/3yw6Zql
+PacketstormSecurity,Red Hat Security Advisory 2021-5160-04,https://packetstormsecurity.com/files/165320/RHSA-2021-5160-04.txt,https://j.mp/3IVaj2T
+PacketstormSecurity,CurveBall Windows CryptoAPI Spoofing,https://packetstormsecurity.com/files/165319/curveball-windows.pdf,https://j.mp/32bnagv
+PacketstormSecurity,Arunna 1.0.0 Cross Site Request Forgery,https://packetstormsecurity.com/files/165318/arunna100-xsrf.txt,https://j.mp/3F1LnEx
+PacketstormSecurity,Red Hat Security Advisory 2021-5151-01,https://packetstormsecurity.com/files/165317/RHSA-2021-5151-01.txt,https://j.mp/3F4fw6e
+PacketstormSecurity,Red Hat Security Advisory 2021-5170-01,https://packetstormsecurity.com/files/165316/RHSA-2021-5170-01.txt,https://j.mp/3q54Ca4
+PacketstormSecurity,Red Hat Security Advisory 2021-5149-05,https://packetstormsecurity.com/files/165315/RHSA-2021-5149-05.txt,https://j.mp/3F5t41i
+PacketstormSecurity,Untrusted Data Deserialization In Jsoniter,https://packetstormsecurity.com/files/165314/deserializaton-jsoniter.pdf,https://j.mp/3F1qQA4
+PacketstormSecurity,Child's Day Care Management System 1.0 SQL Injection,https://packetstormsecurity.com/files/165325/cdcms10-sql.txt,https://j.mp/33BxzD9
+PacketstormSecurity,Polkit CVE-2021-3560 Overview,https://packetstormsecurity.com/files/165313/polkit-CVE-2021-3560-spanish.pdf,https://j.mp/3oZjd7E
+PacketstormSecurity,DNS Spoofing,https://packetstormsecurity.com/files/165312/dns-spoofing-spanish.pdf,https://j.mp/3q8Qvkm
