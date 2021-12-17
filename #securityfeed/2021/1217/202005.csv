@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-668q-qrv7-99fm] Deserialization of Untrusted Data in logback,https://github.com/advisories/GHSA-668q-qrv7-99fm,https://j.mp/3yPN1XX
+GithubAdvisories,[GHSA-rpg7-q4cv-p466] livehelperchat is vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-rpg7-q4cv-p466,https://j.mp/3IYYmtd
+GithubAdvisories,[GHSA-j85f-xw9x-ffwp] yetiforcecrm is vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-j85f-xw9x-ffwp,https://j.mp/3p4XxXS
+GithubAdvisories,[GHSA-xmgj-5fh3-xjmm] Path traversal when MessageBus::Diagnostics is enabled,https://github.com/advisories/GHSA-xmgj-5fh3-xjmm,https://j.mp/3IXKlMq
+GithubAdvisories,[GHSA-55xv-f85c-248q] Regular Expression Denial of Service (ReDoS) in jsx-slack,https://github.com/advisories/GHSA-55xv-f85c-248q,https://j.mp/3mfbIrn
