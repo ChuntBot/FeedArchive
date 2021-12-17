@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3w6p-8f82-gw8r] Using JMSAppender in log4j configuration may lead to deserialization of untrusted data,https://github.com/advisories/GHSA-3w6p-8f82-gw8r,https://j.mp/3mfoeay
+GithubAdvisories,[GHSA-g7p8-r2ch-4rmf] Malicious Atomix node queries expose sensitive information,https://github.com/advisories/GHSA-g7p8-r2ch-4rmf,https://j.mp/3Ejc3jj
+GithubAdvisories,[GHSA-7fr2-94h7-ccg2] An issue in Atomix v3.1.5 allows unauthorized Atomix nodes to join a target cluster via providing configuration information,https://github.com/advisories/GHSA-7fr2-94h7-ccg2,https://j.mp/3e29N5i
+GithubAdvisories,[GHSA-m4h3-7mc2-v295] An issue in Atomix v3.1.5 allows a malicious Atomix node to remove states of ONOS storage via abuse of primitive operations,https://github.com/advisories/GHSA-m4h3-7mc2-v295,https://j.mp/30DbS4v
+GithubAdvisories,[GHSA-mf27-wg66-m8f5] A vulnerability in Atomix v3.1.5 allows attackers to cause a denial of service (DoS) via a Raft session flooding attack using Raft OpenSessionRequest messages,https://github.com/advisories/GHSA-mf27-wg66-m8f5,https://j.mp/3yA0cvX
+GithubAdvisories,[GHSA-6vvh-5794-vpmj] An issue in Atomix v3.1.5 allows attackers to cause a denial of service (DoS) via false member down event messages,https://github.com/advisories/GHSA-6vvh-5794-vpmj,https://j.mp/327mfhf
+GithubAdvisories,[GHSA-2fqw-684c-pvp7] An issue in Atomix v3.1.5 allows attackers to cause a denial of service (DoS) via false link event messages sent to a master ONOS node,https://github.com/advisories/GHSA-2fqw-684c-pvp7,https://j.mp/3GNpRE6
+GithubAdvisories,[GHSA-4jhc-wjr3-pwh2] An issue in Atomix v3.1.5 allows unauthorized Atomix nodes to become the lead node,https://github.com/advisories/GHSA-4jhc-wjr3-pwh2,https://j.mp/3E1pxjf
