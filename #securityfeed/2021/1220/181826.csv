@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f3w5-v9xx-rp8p] Signature verification failure in Tendermint,https://github.com/advisories/GHSA-f3w5-v9xx-rp8p,https://j.mp/3sj0ZjG
+GithubAdvisories,[GHSA-6jqj-f58p-mrw3] Denial of Service in TenderMint,https://github.com/advisories/GHSA-6jqj-f58p-mrw3,https://j.mp/3pdFGhB
+GithubAdvisories,[GHSA-mx43-r985-5h4m] Open redirect vulnerability in Sourcegraph,https://github.com/advisories/GHSA-mx43-r985-5h4m,https://j.mp/3peajn6
+GithubAdvisories,[GHSA-rrm8-32g4-w8m3] Cross-site Request Forgery (CSRF),https://github.com/advisories/GHSA-rrm8-32g4-w8m3,https://j.mp/32dY411
+GithubAdvisories,[GHSA-jm34-xm8m-w958] Open Redirect in oauth2_proxy,https://github.com/advisories/GHSA-jm34-xm8m-w958,https://j.mp/3J6dUvi
+GithubAdvisories,"[GHSA-qqxw-m5fj-f7gv] The pattern '/\domain.com' is not disallowed when redirecting, allowing for open redirect",https://github.com/advisories/GHSA-qqxw-m5fj-f7gv,https://j.mp/3GXAzbg
+GithubAdvisories,[GHSA-j7px-6hwj-hpjg] Open Redirect in OAuth2 Proxy,https://github.com/advisories/GHSA-j7px-6hwj-hpjg,https://j.mp/3smQxre
+GithubAdvisories,[GHSA-5m6c-jp6f-2vcv] Open Redirect in OAuth2 Proxy,https://github.com/advisories/GHSA-5m6c-jp6f-2vcv,https://j.mp/3mnqywi
+GithubAdvisories,"[GHSA-627p-rr78-99rj] GitLab auth uses full name instead of username as user ID, allowing impersonation",https://github.com/advisories/GHSA-627p-rr78-99rj,https://j.mp/3e7MKWA
+GithubAdvisories,[GHSA-m9hp-7r99-94h5] Critical security issues in XML encoding in github.com/dexidp/dex,https://github.com/advisories/GHSA-m9hp-7r99-94h5,https://j.mp/30IJuOf
+GithubAdvisories,[GHSA-2x32-jm95-2cpx] Authentication Bypass in dex,https://github.com/advisories/GHSA-2x32-jm95-2cpx,https://j.mp/3qaaxLi
