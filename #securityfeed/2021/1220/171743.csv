@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qc22-qwm9-j8rx] Remote Code Execution in npm-groovy-lint,https://github.com/advisories/GHSA-qc22-qwm9-j8rx,https://j.mp/3Ej04lr
+GithubAdvisories,[GHSA-rf3m-mhv7-x39f] Denial of Service in OpenShift Origin,https://github.com/advisories/GHSA-rf3m-mhv7-x39f,https://j.mp/3smVXT5
+GithubAdvisories,[GHSA-m3fm-h5jp-q79p] Authorization bypass in Openshift,https://github.com/advisories/GHSA-m3fm-h5jp-q79p,https://j.mp/3FijzvO
+GithubAdvisories,[GHSA-68wm-pfjf-wqp6] Authentication bypassed with malformed request URI on nginx,https://github.com/advisories/GHSA-68wm-pfjf-wqp6,https://j.mp/30PjOzK
+GithubAdvisories,[GHSA-wxc4-f4m6-wwqv] Excessive Platform Resource Consumption within a Loop in Kubernetes,https://github.com/advisories/GHSA-wxc4-f4m6-wwqv,https://j.mp/3yIBYzF
