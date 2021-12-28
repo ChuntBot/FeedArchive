@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vwqq-5vrc-xw9h] Improper validation of certificate with host mismatch in Apache Log4j SMTP appender,https://github.com/advisories/GHSA-vwqq-5vrc-xw9h,https://j.mp/2UudQOr
