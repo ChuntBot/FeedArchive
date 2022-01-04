@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3pqx-4fqf-j49f] Deserialization of Untrusted Data in PyYAML,https://github.com/advisories/GHSA-3pqx-4fqf-j49f,https://j.mp/3goSnBY
+GithubAdvisories,[GHSA-79qm-h35f-hr77] OS Command Injection in compile-sass,https://github.com/advisories/GHSA-79qm-h35f-hr77,https://j.mp/3e2S1OE
+GithubAdvisories,[GHSA-fx83-3ph3-9j2q] Cross-site Scripting (XSS) in Django REST Framework,https://github.com/advisories/GHSA-fx83-3ph3-9j2q,https://j.mp/3s8V8KQ
