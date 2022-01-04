@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x8wj-6m73-gfqp] Relative Path Traversal (CWE-23) in chunked uploads in oneup/uploader-bundle,https://github.com/advisories/GHSA-x8wj-6m73-gfqp,https://j.mp/2HyKg34
+GithubAdvisories,[GHSA-gqvf-892r-vjm5] Improper Certificate Validation in Puppet,https://github.com/advisories/GHSA-gqvf-892r-vjm5,https://j.mp/3teHFln
+GithubAdvisories,[GHSA-5chj-xprr-7qqx] Cross-site Scripting in GwtUpload,https://github.com/advisories/GHSA-5chj-xprr-7qqx,https://j.mp/3ndAnMA
