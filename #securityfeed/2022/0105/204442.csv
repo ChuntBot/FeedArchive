@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-53xv-c2hx-5w6q] Command Injection in node-windows,https://github.com/advisories/GHSA-53xv-c2hx-5w6q,https://j.mp/3mWiYZS
+GithubAdvisories,[GHSA-8xx9-rxrj-2m2w] Cross-site Scripting in pimcore,https://github.com/advisories/GHSA-8xx9-rxrj-2m2w,https://j.mp/3FYRTwD
+GithubAdvisories,[GHSA-hx77-5p88-f92r] livehelperchat is vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-hx77-5p88-f92r,https://j.mp/3sWZ0St
+GithubAdvisories,[GHSA-f7xw-46vh-5jw2] livehelperchat is vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-f7xw-46vh-5jw2,https://j.mp/3HHhp9M
+GithubAdvisories,[GHSA-4w23-c97g-fq5v] snipe-it is vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-4w23-c97g-fq5v,https://j.mp/31sKPco
