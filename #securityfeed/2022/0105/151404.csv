@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hj3m-v758-jwx5] Path Traversal in http-server-node,https://github.com/advisories/GHSA-hj3m-v758-jwx5,https://j.mp/3FSA4z7
+GithubAdvisories,[GHSA-m8gw-hjpr-rjv7] Prototype Pollution in dojo,https://github.com/advisories/GHSA-m8gw-hjpr-rjv7,https://j.mp/3F9S5bb
+GithubAdvisories,[GHSA-7mq6-cp5m-f4j5] Cross-site Scripting in Anchor CMS,https://github.com/advisories/GHSA-7mq6-cp5m-f4j5,https://j.mp/3G1gxMV
