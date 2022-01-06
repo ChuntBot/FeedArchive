@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mvff-h3cj-wj9c] Unprivileged pod using `hostPath` can side-step active LSM when it is SELinux,https://github.com/advisories/GHSA-mvff-h3cj-wj9c,https://j.mp/3qWV5SS
+GithubAdvisories,[GHSA-9w7f-m4j4-j3xw] Gerapy < 0.9.8 may cause remote code execution,https://github.com/advisories/GHSA-9w7f-m4j4-j3xw,https://j.mp/3n1KLYT
