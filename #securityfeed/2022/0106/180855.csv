@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-f8m6-h2c7-8h9x] Inefficient Regular Expression Complexity in nltk (word_tokenize, sent_tokenize)",https://github.com/advisories/GHSA-f8m6-h2c7-8h9x,https://j.mp/3JMjcfE
