@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p3rp-vmj9-gv6v] Incorrect sanitisation function leads to `XSS` in mermaid,https://github.com/advisories/GHSA-p3rp-vmj9-gv6v,https://j.mp/3HKbKjg
+GithubAdvisories,[GHSA-wc6f-cjcp-cc33] Improper Certificate Validation in Apache IoTDB,https://github.com/advisories/GHSA-wc6f-cjcp-cc33,https://j.mp/3HDDTIU
+GithubAdvisories,[GHSA-mpp5-2x55-49xw] XSS in svg2png (NPM package),https://github.com/advisories/GHSA-mpp5-2x55-49xw,https://j.mp/3qUF3Jh
+GithubAdvisories,[GHSA-hjgm-f7vx-m5g7] Deserialization of Untrusted Data in Apache Heron,https://github.com/advisories/GHSA-hjgm-f7vx-m5g7,https://j.mp/3t0A7W0
+GithubAdvisories,[GHSA-9x9j-836w-8f55] Incorrect Calculation in the MSR JavaScript Cryptography Library,https://github.com/advisories/GHSA-9x9j-836w-8f55,https://j.mp/3qTUem1
