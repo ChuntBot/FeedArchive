@@ -1,0 +1,48 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8cw5-rv98-5c46] Arbitrary PHP code execution in Drupal,https://github.com/advisories/GHSA-8cw5-rv98-5c46,https://j.mp/3zwGp0N
+GithubAdvisories,[GHSA-x8rq-rc7x-5fg5] uppy is vulnerable to Server-Side Request Forgery (SSRF),https://github.com/advisories/GHSA-x8rq-rc7x-5fg5,https://j.mp/33bMNOL
+GithubAdvisories,[GHSA-rqjh-jp2r-59cj] nltk is vulnerable to Inefficient Regular Expression Complexity,https://github.com/advisories/GHSA-rqjh-jp2r-59cj,https://j.mp/3F9eZiU
+GithubAdvisories,[GHSA-mw25-f5r2-hpc6] Insertion of Sensitive Information into Log File in Apache Geode,https://github.com/advisories/GHSA-mw25-f5r2-hpc6,https://j.mp/3G6vz3W
+GithubAdvisories,[GHSA-5mj6-3cmq-fh34] showdoc is vulnerable to Generation of Error Message Containing Sensitive Information,https://github.com/advisories/GHSA-5mj6-3cmq-fh34,https://j.mp/3t4xPFf
+GithubAdvisories,[GHSA-cv25-3gmg-c6m8] Injection in UserFrosting,https://github.com/advisories/GHSA-cv25-3gmg-c6m8,https://j.mp/3JNVNL6
+GithubAdvisories,[GHSA-q4xr-rc97-m4xx] OS Command Injection in celery,https://github.com/advisories/GHSA-q4xr-rc97-m4xx,https://j.mp/3EYFIOR
+GithubAdvisories,[GHSA-5r5w-h76p-m726] Use of a Broken or Risky Cryptographic Algorithm in Max Mazurov Maddy,https://github.com/advisories/GHSA-5r5w-h76p-m726,https://j.mp/3HE0xAU
+GithubAdvisories,[GHSA-9qj6-4rfq-vm84] Out-of-bounds Write in actix-web,https://github.com/advisories/GHSA-9qj6-4rfq-vm84,https://j.mp/3n3MX1L
+GithubAdvisories,[GHSA-55m5-whcv-c49c] Use of Uninitialized Resource in smallvec,https://github.com/advisories/GHSA-55m5-whcv-c49c,https://j.mp/3JNPh6N
+GithubAdvisories,[GHSA-hxjf-h2mh-r6hj] Use After Free in libpulse-binding,https://github.com/advisories/GHSA-hxjf-h2mh-r6hj,https://j.mp/3zxNu0Z
+GithubAdvisories,[GHSA-7x36-h62w-vw65] Out-of-bounds Write in actix-web,https://github.com/advisories/GHSA-7x36-h62w-vw65,https://j.mp/3zzHfcY
+GithubAdvisories,[GHSA-fgfm-hqjw-3265] Out-of-bounds Write in actix-web,https://github.com/advisories/GHSA-fgfm-hqjw-3265,https://j.mp/3eVtCvm
+GithubAdvisories,[GHSA-p46c-w9m3-7qr2] read_entry may read from uninitialized memory locations in flumedb,https://github.com/advisories/GHSA-p46c-w9m3-7qr2,https://j.mp/3eVQivF
+GithubAdvisories,[GHSA-xvcg-2q82-r87j] Panic mishandled in libpulse-binding,https://github.com/advisories/GHSA-xvcg-2q82-r87j,https://j.mp/3F41Bwm
+GithubAdvisories,[GHSA-24g6-5rx7-58wj] Missing Initialization of Resource in pnet,https://github.com/advisories/GHSA-24g6-5rx7-58wj,https://j.mp/3t4C5or
+GithubAdvisories,[GHSA-jqpv-jm4m-86j9] Use After Free in libpulse-binding,https://github.com/advisories/GHSA-jqpv-jm4m-86j9,https://j.mp/3t2jt8i
+GithubAdvisories,[GHSA-799f-r78p-gq9c] read_up_to may read from uninitialized memory locations in acc_reader,https://github.com/advisories/GHSA-799f-r78p-gq9c,https://j.mp/3t0WydG
+GithubAdvisories,[GHSA-p4cr-64x4-f92f] fill_buf may read from uninitialized memory locations in acc_reader,https://github.com/advisories/GHSA-p4cr-64x4-f92f,https://j.mp/3JJFjnf
+GithubAdvisories,[GHSA-v938-qcc9-rwv8] InputStream::read_exact may read from uninitialized memory locations in buffoon,https://github.com/advisories/GHSA-v938-qcc9-rwv8,https://j.mp/3F2FCFV
+GithubAdvisories,[GHSA-v2ch-fc8f-qm33] read::BiteReadExpandedExt::read_framed_max may read from uninitialized memory locations in bite,https://github.com/advisories/GHSA-v2ch-fc8f-qm33,https://j.mp/3eVQj2H
+GithubAdvisories,[GHSA-jv2r-jx6q-89jg] ReadKVExt may read from uninitialized memory locations in bronzedb-protocol,https://github.com/advisories/GHSA-jv2r-jx6q-89jg,https://j.mp/3EYFPtL
+GithubAdvisories,[GHSA-w4cc-pc2h-whcj] Invalid reference in derive-com-impl,https://github.com/advisories/GHSA-w4cc-pc2h-whcj,https://j.mp/3JNParT
+GithubAdvisories,[GHSA-x76r-966h-5qv9] Out-of-bounds Write in vec-const,https://github.com/advisories/GHSA-x76r-966h-5qv9,https://j.mp/3zxShzs
+GithubAdvisories,[GHSA-cw4j-cf6c-mmfv] The Read method may read from uninitialized memory locations in binjs_io,https://github.com/advisories/GHSA-cw4j-cf6c-mmfv,https://j.mp/3JHFZtf
+GithubAdvisories,[GHSA-2rxc-8f9w-fjq8] Window may read from uninitialized memory locations in rdiff,https://github.com/advisories/GHSA-2rxc-8f9w-fjq8,https://j.mp/3t2UjXf
+GithubAdvisories,[GHSA-9783-42pm-x5jq] preamble_skipcount may read from uninitialized memory locations in csv-sniffer,https://github.com/advisories/GHSA-9783-42pm-x5jq,https://j.mp/3JPYfAq
+GithubAdvisories,[GHSA-9mp7-45qh-r8j8] ColumnarReadExt::read_typed_vec may read from uninitialized memory locations in columnar,https://github.com/advisories/GHSA-9mp7-45qh-r8j8,https://j.mp/3HELDKP
+GithubAdvisories,[GHSA-w428-f65r-h4q2] Memory corruption in rust-cpuid,https://github.com/advisories/GHSA-w428-f65r-h4q2,https://j.mp/3eVQjzJ
+GithubAdvisories,[GHSA-64wv-8vwp-xgw2] util::read_spv may read from uninitialized memory locations in ash,https://github.com/advisories/GHSA-64wv-8vwp-xgw2,https://j.mp/3qTb98g
+GithubAdvisories,[GHSA-jqjj-r4qp-x2gh] deserialize_extension_others may read from uninitialized memory locations in messagepack-rs,https://github.com/advisories/GHSA-jqjj-r4qp-x2gh,https://j.mp/3FeXHRv
+GithubAdvisories,[GHSA-jwfh-j623-m97h] Read from uninitialized memory locations in messagepack-rs,https://github.com/advisories/GHSA-jwfh-j623-m97h,https://j.mp/3HIzVi8
+GithubAdvisories,[GHSA-hr52-f9vp-582c] deserialize_extension_others may read from uninitialized memory locations in messagepack-rs,https://github.com/advisories/GHSA-hr52-f9vp-582c,https://j.mp/3zzM9af
+GithubAdvisories,[GHSA-ff2r-xpwq-6whj] gfx_auxil::read_spirv may read from uninitialized memory locations,https://github.com/advisories/GHSA-ff2r-xpwq-6whj,https://j.mp/3q3u8ho
+GithubAdvisories,[GHSA-vw5m-qw2r-m923] deserialize_binary may read from uninitialized memory locations in messagepack-rs,https://github.com/advisories/GHSA-vw5m-qw2r-m923,https://j.mp/3JR9j0f
+GithubAdvisories,[GHSA-2gxj-qrp2-53jv] Incorrect reliance on Trait memory layout in mopa,https://github.com/advisories/GHSA-2gxj-qrp2-53jv,https://j.mp/3F3ufOf
+GithubAdvisories,[GHSA-8gjm-h3xj-mp6w] RPC call failure in ckb,https://github.com/advisories/GHSA-8gjm-h3xj-mp6w,https://j.mp/3zvXeci
+GithubAdvisories,[GHSA-6p3c-v8vc-c244] The `total_size` function for partial read the length of any `FixVec` is incorrect in molecule,https://github.com/advisories/GHSA-6p3c-v8vc-c244,https://j.mp/3eVtD2o
+GithubAdvisories,[GHSA-fc7x-2cmc-8j2g] Incorrect hash in sha2,https://github.com/advisories/GHSA-fc7x-2cmc-8j2g,https://j.mp/3G53OZN
+GithubAdvisories,[GHSA-q2x5-6q7q-r872] Use After Free in tremor-script,https://github.com/advisories/GHSA-q2x5-6q7q-r872,https://j.mp/3rdFMWn
+GithubAdvisories,[GHSA-cw98-cx2m-9qqg] Denial of Service in ckb,https://github.com/advisories/GHSA-cw98-cx2m-9qqg,https://j.mp/3zyd71Q
+GithubAdvisories,[GHSA-2969-8hh9-57jc] 51% attack in ckb,https://github.com/advisories/GHSA-2969-8hh9-57jc,https://j.mp/3n3XFFE
+GithubAdvisories,[GHSA-qwvx-c8j7-5g75] Read from uninitialized memory locations in tectonic_xdv,https://github.com/advisories/GHSA-qwvx-c8j7-5g75,https://j.mp/3qNLbmE
+GithubAdvisories,[GHSA-9qvw-46gf-4fv8] Use After Free in tremor-script,https://github.com/advisories/GHSA-9qvw-46gf-4fv8,https://j.mp/3G6vzAY
+GithubAdvisories,[GHSA-r57r-j98g-587f] Pointer dereference in nanorand,https://github.com/advisories/GHSA-r57r-j98g-587f,https://j.mp/3JMakqy
+GithubAdvisories,[GHSA-cwvc-87xq-pc5m] Memory corruption in metrics-util,https://github.com/advisories/GHSA-cwvc-87xq-pc5m,https://j.mp/3F4wNLT
+GithubAdvisories,[GHSA-c5hx-w945-j4pq] Memory flaw in zeroize_derive,https://github.com/advisories/GHSA-c5hx-w945-j4pq,https://j.mp/3pZMHmm
