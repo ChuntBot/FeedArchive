@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2h63-qp69-fwvw] Server-side request forgery (SSRF) in Apache Batik,https://github.com/advisories/GHSA-2h63-qp69-fwvw,https://j.mp/3qXoIU6
+GithubAdvisories,[GHSA-pqhq-xx62-2v2p] Cross-site scripting in Apache NiFi,https://github.com/advisories/GHSA-pqhq-xx62-2v2p,https://j.mp/3G4qr0q
+GithubAdvisories,[GHSA-q7q9-w24q-cpgh] Cross-site Scripting (XSS) in Apache Ambari Views,https://github.com/advisories/GHSA-q7q9-w24q-cpgh,https://j.mp/3F1vyNx
+GithubAdvisories,[GHSA-897m-rjf5-jp39] Prototype Pollution in copy-props,https://github.com/advisories/GHSA-897m-rjf5-jp39,https://j.mp/3mYYGyI
+GithubAdvisories,[GHSA-g7h2-wf29-2rw6] Incorrect Default Permissions in Apache Guacamole,https://github.com/advisories/GHSA-g7h2-wf29-2rw6,https://j.mp/3eVwZm7
+GithubAdvisories,[GHSA-59j4-wjwp-mw9m] Sandbox Bypass in Apache Velocity Engine,https://github.com/advisories/GHSA-59j4-wjwp-mw9m,https://j.mp/3F3JI0q
+GithubAdvisories,[GHSA-qpw2-xchm-655q] Out-of-Bounds read in stringstream,https://github.com/advisories/GHSA-qpw2-xchm-655q,https://j.mp/3G3uie6
+GithubAdvisories,[GHSA-29mw-wpgm-hmr9] Regular Expression Denial of Service (ReDoS) in lodash,https://github.com/advisories/GHSA-29mw-wpgm-hmr9,https://j.mp/3pZH0Vr
+GithubAdvisories,[GHSA-46c4-8wrp-j99v] Improper Validation and Sanitization in url-parse,https://github.com/advisories/GHSA-46c4-8wrp-j99v,https://j.mp/3n2IX1Q
+GithubAdvisories,[GHSA-86wf-436m-h424] Resource Exhaustion Denial of Service in http-proxy-agent,https://github.com/advisories/GHSA-86wf-436m-h424,https://j.mp/3n5GKCz
+GithubAdvisories,[GHSA-4jf5-jggp-g56j] Cross-Site Request Forgery in com.softwaremill.akka-http-session:core_2.12,https://github.com/advisories/GHSA-4jf5-jggp-g56j,https://j.mp/3qR8WKF
