@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g23v-p5jq-jvh4] Infinite loop in Apache CFX,https://github.com/advisories/GHSA-g23v-p5jq-jvh4,https://j.mp/3zx0JPv
+GithubAdvisories,[GHSA-9328-7pcw-vw69] Cross-Site Request Forgery in Moodle,https://github.com/advisories/GHSA-9328-7pcw-vw69,https://j.mp/3F3gbUS
+GithubAdvisories,[GHSA-qv7g-j98v-8pp7] XSS vulnerability on email template preview page,https://github.com/advisories/GHSA-qv7g-j98v-8pp7,https://j.mp/3JPjJ0o
+GithubAdvisories,[GHSA-hp68-xhvj-x6j6] Insufficient patch for Regular Expression Denial of Service (ReDoS) to jsx-slack v4.5.1,https://github.com/advisories/GHSA-hp68-xhvj-x6j6,https://j.mp/3EWrEW1
+GithubAdvisories,[GHSA-h3fg-h5v3-vf8m] CSRF forgery protection bypass in solidus_frontend,https://github.com/advisories/GHSA-h3fg-h5v3-vf8m,https://j.mp/3F2QHHd
+GithubAdvisories,[GHSA-83x4-9cwr-5487] Improper Authorization in Keycloak,https://github.com/advisories/GHSA-83x4-9cwr-5487,https://j.mp/3HGDUMh
+GithubAdvisories,[GHSA-5q7q-qqw2-hjq7] Cross-Site Scripting in AjaxNetProfessional,https://github.com/advisories/GHSA-5q7q-qqw2-hjq7,https://j.mp/31xW8Af
+GithubAdvisories,"[GHSA-3qpm-h9ch-px3c] Remote code injection, Improper Input Validation and Uncontrolled Recursion in Log4j library",https://github.com/advisories/GHSA-3qpm-h9ch-px3c,https://j.mp/3q1mNyQ
+GithubAdvisories,[GHSA-f854-hpxv-cw9r] Drainage of FeeCollector's Block Transaction Fees in cronos,https://github.com/advisories/GHSA-f854-hpxv-cw9r,https://j.mp/3HWVUST
+GithubAdvisories,[GHSA-gp6j-vx54-5pmf] Incorrect validation of parties IDs leaks secret keys in Secret-sharing scheme,https://github.com/advisories/GHSA-gp6j-vx54-5pmf,https://j.mp/3n1TpGP
+GithubAdvisories,[GHSA-jx5q-g37m-h5hj] Client-Side JavaScript Prototype Pollution in oro/platform,https://github.com/advisories/GHSA-jx5q-g37m-h5hj,https://j.mp/3n2ER9N
