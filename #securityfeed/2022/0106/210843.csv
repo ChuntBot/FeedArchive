@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6pj2-5fqq-xvjc] Incorrect Authorization in latte/latte,https://github.com/advisories/GHSA-6pj2-5fqq-xvjc,https://j.mp/3t0aFjr
+GithubAdvisories,[GHSA-4hpf-3wq7-5rpr] Regular expression deinal of service (ReDoS) in is-my-json-valid,https://github.com/advisories/GHSA-4hpf-3wq7-5rpr,https://j.mp/31AFcck
+GithubAdvisories,[GHSA-cwfw-4gq5-mrqx] Regular Expression Denial of Service (ReDoS) in braces,https://github.com/advisories/GHSA-cwfw-4gq5-mrqx,https://j.mp/3eUEnhA
+GithubAdvisories,[GHSA-rfmp-jvr7-hx78] Inadequate Encryption Strength in Apache NiFi,https://github.com/advisories/GHSA-rfmp-jvr7-hx78,https://j.mp/3t28Su2
+GithubAdvisories,[GHSA-3pp3-77j6-8ph6] Missing Authentication for Critical Function in Apache NiFi,https://github.com/advisories/GHSA-3pp3-77j6-8ph6,https://j.mp/3mZufbS
+GithubAdvisories,[GHSA-g644-pr5v-vppf] Insertion of Sensitive Information into Log File in Apache NiFi,https://github.com/advisories/GHSA-g644-pr5v-vppf,https://j.mp/3qXtEZc
+GithubAdvisories,[GHSA-q4xf-3pmq-3hw8] Improper Restriction of XML External Entity Reference in Apache NiFi,https://github.com/advisories/GHSA-q4xf-3pmq-3hw8,https://j.mp/3q1962T
+GithubAdvisories,[GHSA-7q8g-gpfp-v8gx] Insertion of Sensitive Information into Log File in Apache NiFi,https://github.com/advisories/GHSA-7q8g-gpfp-v8gx,https://j.mp/339nqNw
+GithubAdvisories,[GHSA-w4fj-ccr6-7pcp] Insertion of Sensitive Information into Log File in Apache NiFi,https://github.com/advisories/GHSA-w4fj-ccr6-7pcp,https://j.mp/3G2OMn7
