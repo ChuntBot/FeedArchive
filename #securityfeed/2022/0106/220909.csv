@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5vwc-r48g-wj6c] Information leak/ASLR bypass in abomonation,https://github.com/advisories/GHSA-5vwc-r48g-wj6c,https://j.mp/3q09Ncw
+GithubAdvisories,[GHSA-76w9-p8mg-j927] Out-of-bounds Write in nix,https://github.com/advisories/GHSA-76w9-p8mg-j927,https://j.mp/3q0MKyo
+GithubAdvisories,[GHSA-g4h2-4wvh-grc5] Denial of Service in simple_asn1,https://github.com/advisories/GHSA-g4h2-4wvh-grc5,https://j.mp/3F24lKF
+GithubAdvisories,[GHSA-9hfg-pxr6-q4vp] Unaligned read of a u32 in crypto2,https://github.com/advisories/GHSA-9hfg-pxr6-q4vp,https://j.mp/336dVPh
+GithubAdvisories,[GHSA-fg7r-2g4j-5cgr] Data race and memory corruption in tokio,https://github.com/advisories/GHSA-fg7r-2g4j-5cgr,https://j.mp/3HBGLWG
+GithubAdvisories,[GHSA-xvvv-wj7j-r9jm] Cross-site Scripting in Netgen Tags Bundle,https://github.com/advisories/GHSA-xvvv-wj7j-r9jm,https://j.mp/3pZOKH1
+GithubAdvisories,[GHSA-xrg3-hmf3-rvgw] Path Traversal in rust-embed,https://github.com/advisories/GHSA-xrg3-hmf3-rvgw,https://j.mp/3zGkTa4
+GithubAdvisories,[GHSA-cm8g-544f-p9x9] Use After Free in rusqlite,https://github.com/advisories/GHSA-cm8g-544f-p9x9,https://j.mp/3f0V5f4
+GithubAdvisories,[GHSA-92cx-4xm7-jr9m] Use After Free in rusqlite,https://github.com/advisories/GHSA-92cx-4xm7-jr9m,https://j.mp/3G2QKnN
+GithubAdvisories,[GHSA-f6f2-3w33-54r9] Use After Free in rusqlite,https://github.com/advisories/GHSA-f6f2-3w33-54r9,https://j.mp/3q3wDAk
+GithubAdvisories,[GHSA-7vxc-chqj-h83g] showdoc is vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-7vxc-chqj-h83g,https://j.mp/3feCpsF
+GithubAdvisories,[GHSA-g4g4-3pqw-8m7f] Use After Free in rusqlite,https://github.com/advisories/GHSA-g4g4-3pqw-8m7f,https://j.mp/3F3XBfk
+GithubAdvisories,[GHSA-4qr3-m7ww-hh9g] Use After Free in rusqlite,https://github.com/advisories/GHSA-4qr3-m7ww-hh9g,https://j.mp/3q20Z6f
+GithubAdvisories,[GHSA-87xh-9q6h-r5cc] Use After Free in rusqlite,https://github.com/advisories/GHSA-87xh-9q6h-r5cc,https://j.mp/3n2A2gR
+GithubAdvisories,[GHSA-g87r-23vw-7f87] Use After Free in rusqlite,https://github.com/advisories/GHSA-g87r-23vw-7f87,https://j.mp/3t4nGby
+GithubAdvisories,[GHSA-9236-8w7q-rmrv] archivy is vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-9236-8w7q-rmrv,https://j.mp/3q18me5
+GithubAdvisories,[GHSA-c6h4-gc3f-hgjq] Prototype Pollution in js-data,https://github.com/advisories/GHSA-c6h4-gc3f-hgjq,https://j.mp/3JZB8DZ
+GithubAdvisories,[GHSA-xg6r-5gx4-qxjm] invoiceninja is vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-xg6r-5gx4-qxjm,https://j.mp/3sYI4Lo
