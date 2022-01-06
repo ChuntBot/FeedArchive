@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q674-xm3x-2926] ReDoS in parse-link-header,https://github.com/advisories/GHSA-q674-xm3x-2926,https://j.mp/3q3EPQI
+GithubAdvisories,[GHSA-jcxc-rh6w-wf49] Link Following in Iris,https://github.com/advisories/GHSA-jcxc-rh6w-wf49,https://j.mp/3n1QkX4
+GithubAdvisories,[GHSA-2xw8-j43j-5vxp] elgg is vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-2xw8-j43j-5vxp,https://j.mp/3q3EPAc
+GithubAdvisories,[GHSA-pccr-q7v9-5f27] Improper Input Validation and Path Traversal in Apache Solr,https://github.com/advisories/GHSA-pccr-q7v9-5f27,https://j.mp/3q0Ygd1
+GithubAdvisories,[GHSA-3cf2-x423-x582] Exposure of Sensitive Information to an Unauthorized Actor and Origin Validation Error in podman,https://github.com/advisories/GHSA-3cf2-x423-x582,https://j.mp/332ScYx
+GithubAdvisories,[GHSA-f8x6-m9f5-ffp8] Unrestricted Upload of File with Dangerous Type in unisharp/laravel-filemanager,https://github.com/advisories/GHSA-f8x6-m9f5-ffp8,https://j.mp/3q13VQt
