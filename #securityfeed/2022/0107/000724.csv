@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8rh6-h94m-vj54] Incorrect Comparison in cvxopt,https://github.com/advisories/GHSA-8rh6-h94m-vj54,https://j.mp/3eYrGCw
+GithubAdvisories,[GHSA-rwqq-p4p9-5wpq] Wechat-php-sdk is affected by a Cross Site Scripting vulnerability,https://github.com/advisories/GHSA-rwqq-p4p9-5wpq,https://j.mp/3FZ1bsi
+GithubAdvisories,[GHSA-gc67-crq6-hgh5] Improper Input Validation in Parquet-MR,https://github.com/advisories/GHSA-gc67-crq6-hgh5,https://j.mp/3eWcndl
+GithubAdvisories,[GHSA-2vj5-px25-gjrp] pytorch-lightning is vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-2vj5-px25-gjrp,https://j.mp/3qNWfQI
+GithubAdvisories,[GHSA-h376-j262-vhq6] RCE in H2 Console,https://github.com/advisories/GHSA-h376-j262-vhq6,https://j.mp/3zzSnXi
+GithubAdvisories,[GHSA-c6fg-99pr-25m9] Uncapped length of skin data fields submitted by players,https://github.com/advisories/GHSA-c6fg-99pr-25m9,https://j.mp/3q0qoNm
+GithubAdvisories,"[GHSA-p62j-hrxm-xcxf] Book page text, count, and author/title length is not limited in PocketMine-MP",https://github.com/advisories/GHSA-p62j-hrxm-xcxf,https://j.mp/3JO3UqH
+GithubAdvisories,[GHSA-c53v-qmrx-93hg] Open redirect in shopware,https://github.com/advisories/GHSA-c53v-qmrx-93hg,https://j.mp/3n3hn4o
+GithubAdvisories,[GHSA-p523-jrph-qjc6] Insufficient Session Expiration in shopware,https://github.com/advisories/GHSA-p523-jrph-qjc6,https://j.mp/3zw8R2Z
+GithubAdvisories,[GHSA-756h-r2c9-qp5j] An authenticated user can execute arbitrary command in Gerapy,https://github.com/advisories/GHSA-756h-r2c9-qp5j,https://j.mp/3t5uu98
+GithubAdvisories,[GHSA-vc89-hccf-rq55] Hash collision in typelevel jawn,https://github.com/advisories/GHSA-vc89-hccf-rq55,https://j.mp/3f0vz9L
