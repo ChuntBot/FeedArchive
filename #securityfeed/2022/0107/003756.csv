@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-566m-qj78-rww5] Regular Expression Denial of Service in postcss,https://github.com/advisories/GHSA-566m-qj78-rww5,https://j.mp/3zy2b4g
+GithubAdvisories,[GHSA-3269-x4pw-vffg] OS Command Injection in diskusage-ng,https://github.com/advisories/GHSA-3269-x4pw-vffg,https://j.mp/3q09AWL
+GithubAdvisories,[GHSA-wrxc-mr2w-cjpv] Open Redirect in Grav,https://github.com/advisories/GHSA-wrxc-mr2w-cjpv,https://j.mp/339iicm
+GithubAdvisories,[GHSA-cqr2-xhg6-p268] OS Command Injection in node-mpv,https://github.com/advisories/GHSA-cqr2-xhg6-p268,https://j.mp/3zzWOkU
+GithubAdvisories,[GHSA-5f5c-687x-g5qm] Classic Buffer Overflow in pyo,https://github.com/advisories/GHSA-5f5c-687x-g5qm,https://j.mp/339iqbQ
+GithubAdvisories,[GHSA-6p56-wp2h-9hxr] Buffer Overflow in NumPy,https://github.com/advisories/GHSA-6p56-wp2h-9hxr,https://j.mp/3JOcwOg
