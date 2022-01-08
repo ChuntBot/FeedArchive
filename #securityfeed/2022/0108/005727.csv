@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3qp6-m7hp-jrwf] Cross-site Scripting in Apache Pluto,https://github.com/advisories/GHSA-3qp6-m7hp-jrwf,https://j.mp/3eYuYpj
+GithubAdvisories,[GHSA-x588-g38j-f672] Cross-site Scripting in Apache Pluto,https://github.com/advisories/GHSA-x588-g38j-f672,https://j.mp/34mjxWc
+GithubAdvisories,[GHSA-jg6j-jrxv-2hh9] Cross-site Scripting in Apache Pluto,https://github.com/advisories/GHSA-jg6j-jrxv-2hh9,https://j.mp/3G9wGQr
+GithubAdvisories,[GHSA-h3vq-wv8j-36gw] Cross-site Scripting in Scratch-Svg-Renderer,https://github.com/advisories/GHSA-h3vq-wv8j-36gw,https://j.mp/3F5Tmje
+GithubAdvisories,"[GHSA-mgpf-hhgf-cxg4] In Apache Kylin, Cross-origin requests with credentials are allowed to be sent from any origin",https://github.com/advisories/GHSA-mgpf-hhgf-cxg4,https://j.mp/3HP8m73
+GithubAdvisories,[GHSA-9fj5-jg6f-qg5r] Use of Hard-coded Credentials in Apache Kylin,https://github.com/advisories/GHSA-9fj5-jg6f-qg5r,https://j.mp/3JRNNZl
+GithubAdvisories,[GHSA-5429-pjww-7675] SQL Injection in Apache Kylin,https://github.com/advisories/GHSA-5429-pjww-7675,https://j.mp/3HLSqCk
+GithubAdvisories,[GHSA-wrx7-qgmj-mf2q] Server-Side Request Forgery in Apache Kylin,https://github.com/advisories/GHSA-wrx7-qgmj-mf2q,https://j.mp/3n5KxQs
+GithubAdvisories,[GHSA-q656-g2x3-8cgh] Kylin can receive user input and load any class through Class.forName(...),https://github.com/advisories/GHSA-q656-g2x3-8cgh,https://j.mp/3r0XjAD
+GithubAdvisories,[GHSA-hw3m-8h25-8frw] Command Injection in Apache Kylin,https://github.com/advisories/GHSA-hw3m-8h25-8frw,https://j.mp/3f4dmIo
+GithubAdvisories,[GHSA-fqgw-6qj5-8hmp] Infinite Loop in Apache James,https://github.com/advisories/GHSA-fqgw-6qj5-8hmp,https://j.mp/3G99kur
+GithubAdvisories,[GHSA-84wg-rgp8-2hg4] Command Injection in Apache James,https://github.com/advisories/GHSA-84wg-rgp8-2hg4,https://j.mp/3G8vmgQ
+GithubAdvisories,[GHSA-r58x-wjg8-63m9] Denial of Service in Apache James,https://github.com/advisories/GHSA-r58x-wjg8-63m9,https://j.mp/33fNMgT
+GithubAdvisories,[GHSA-868x-rg4c-cjqg] Allocation of Resources Without Limits or Throttling in Apache Avro,https://github.com/advisories/GHSA-868x-rg4c-cjqg,https://j.mp/3n8xldE
+GithubAdvisories,[GHSA-xhw6-hjc9-679m] Token validation bypass in Pac4j,https://github.com/advisories/GHSA-xhw6-hjc9-679m,https://j.mp/32ZbtdM
+GithubAdvisories,[GHSA-ghhm-xrwp-75m9] bookstack is vulnerable to Improper Access Control,https://github.com/advisories/GHSA-ghhm-xrwp-75m9,https://j.mp/3n8dqvb
+GithubAdvisories,[GHSA-jr37-66pj-36v7] Cross-site Scripting in DayByDay CRM,https://github.com/advisories/GHSA-jr37-66pj-36v7,https://j.mp/3eYVgaW
+GithubAdvisories,[GHSA-44gv-fgcj-w546] Missing Authorization in DayByDay CRM,https://github.com/advisories/GHSA-44gv-fgcj-w546,https://j.mp/3n9kVSD
+GithubAdvisories,[GHSA-frxp-xxx8-hrg6] Missing Authorization in DayByDay CRM,https://github.com/advisories/GHSA-frxp-xxx8-hrg6,https://j.mp/3zDOa4U
+GithubAdvisories,[GHSA-96v6-hrwg-p378] Weak Password Requirements in Daybyday CRM,https://github.com/advisories/GHSA-96v6-hrwg-p378,https://j.mp/3n8UcWt
+GithubAdvisories,[GHSA-w6rp-4vj7-v2m8] Missing Authorization in DayByDay CRM,https://github.com/advisories/GHSA-w6rp-4vj7-v2m8,https://j.mp/33fNMNV
