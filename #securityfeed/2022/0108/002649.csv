@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-86ch-6w7v-v6xf] Denial of Service in soketi,https://github.com/advisories/GHSA-86ch-6w7v-v6xf,https://j.mp/3t8rsky
+GithubAdvisories,[GHSA-5rrq-pxf6-6jx5] Prototype Pollution in node-forge debug API,https://github.com/advisories/GHSA-5rrq-pxf6-6jx5,https://j.mp/3n2yOC4
+GithubAdvisories,[GHSA-wxgw-qj99-44c2] Prototype Pollution in node-forge util.setPath API,https://github.com/advisories/GHSA-wxgw-qj99-44c2,https://j.mp/3GmS2dv
+GithubAdvisories,[GHSA-gf8q-jrpm-jvxq] URL parsing in node-forge could lead to undesired behavior,https://github.com/advisories/GHSA-gf8q-jrpm-jvxq,https://j.mp/3G61nGc
