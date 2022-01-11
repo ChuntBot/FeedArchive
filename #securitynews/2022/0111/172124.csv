@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,"Ivy is a payload creation framework for the execution of arbitrary VBA (macro) source code directly in memory. Ivy’s loader does this by utilizing programmatical access in the VBA object environment to load, decrypt and execute shellcode.",https://redd.it/s1hiwe,
