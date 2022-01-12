@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m7vp-hqwv-7m5x] Unbounded memory usage on exposed HTTP/2 (non-gRPC) endpoints,https://github.com/advisories/GHSA-m7vp-hqwv-7m5x,https://j.mp/3JZaqeq
+GithubAdvisories,[GHSA-qc9x-gjcv-465w] Pipenv's requirements.txt parsing allows malicious index url in comments,https://github.com/advisories/GHSA-qc9x-gjcv-465w,https://j.mp/3KhiyY2
+GithubAdvisories,[GHSA-6vfc-qv3f-vr6c] Uncontrolled Resource Consumption in markdown-it,https://github.com/advisories/GHSA-6vfc-qv3f-vr6c,https://j.mp/31QNOeS
