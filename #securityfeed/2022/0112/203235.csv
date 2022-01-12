@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pw3c-h7wp-cvhx] Improper Initialization in Pillow,https://github.com/advisories/GHSA-pw3c-h7wp-cvhx,https://j.mp/3r7pEFE
+GithubAdvisories,[GHSA-xrcv-f9gm-v42c] Buffer over-read in Pillow,https://github.com/advisories/GHSA-xrcv-f9gm-v42c,https://j.mp/3tjL0lN
+GithubAdvisories,[GHSA-8vj2-vxx3-667w] Arbitrary expression injection in Pillow,https://github.com/advisories/GHSA-8vj2-vxx3-667w,https://j.mp/3flfY4O
+GithubAdvisories,[GHSA-r478-c2pc-m7gx] DNS reply verification issue in dnslinb,https://github.com/advisories/GHSA-r478-c2pc-m7gx,https://j.mp/3K9L7Xo
