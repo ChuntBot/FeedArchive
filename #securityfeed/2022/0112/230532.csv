@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6gf2-pvqw-37ph] Log entry injection in Spring Framework,https://github.com/advisories/GHSA-6gf2-pvqw-37ph,https://j.mp/3nljlNP
+GithubAdvisories,[GHSA-gjm5-83cw-p3p2] Prototype Pollution in extend2,https://github.com/advisories/GHSA-gjm5-83cw-p3p2,https://j.mp/3rdHpDh
+GithubAdvisories,[GHSA-pwm7-qr6j-3vjg] Prototype Pollution in realms-shim,https://github.com/advisories/GHSA-pwm7-qr6j-3vjg,https://j.mp/3tiWTZn
+GithubAdvisories,[GHSA-8qvx-f5gf-g43v] Logic error in dolibarr,https://github.com/advisories/GHSA-8qvx-f5gf-g43v,https://j.mp/3trcu9c
+GithubAdvisories,[GHSA-vp5x-3v8r-qprw] Deserialization of Untrusted Data in Dubbo,https://github.com/advisories/GHSA-vp5x-3v8r-qprw,https://j.mp/3rc4MgC
+GithubAdvisories,[GHSA-74fj-2j2h-c42q] Exposure of sensitive information in follow-redirects,https://github.com/advisories/GHSA-74fj-2j2h-c42q,https://j.mp/34Ngsij
+GithubAdvisories,[GHSA-7w54-gp8x-f33m] Potential exposure of tokens to an Unauthorized Actor,https://github.com/advisories/GHSA-7w54-gp8x-f33m,https://j.mp/3fj5tit
+GithubAdvisories,[GHSA-4h9c-v5vg-5m6m] Access to restricted PHP code by dynamic static class access in smarty,https://github.com/advisories/GHSA-4h9c-v5vg-5m6m,https://j.mp/3GqVHGZ
+GithubAdvisories,[GHSA-29gp-2c3m-3j6m] Sandbox Escape by math function in smarty,https://github.com/advisories/GHSA-29gp-2c3m-3j6m,https://j.mp/3qkJzl7
