@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8c5j-9r9f-c6w8] Information disclosure in Django,https://github.com/advisories/GHSA-8c5j-9r9f-c6w8,https://j.mp/3K7W5fK
+GithubAdvisories,[GHSA-jrh2-hc4r-7jwx] Directory-traversal in Django,https://github.com/advisories/GHSA-jrh2-hc4r-7jwx,https://j.mp/33gQYt3
+GithubAdvisories,[GHSA-53qw-q765-4fww] Denial-of-service in Django,https://github.com/advisories/GHSA-53qw-q765-4fww,https://j.mp/3nko7uU
