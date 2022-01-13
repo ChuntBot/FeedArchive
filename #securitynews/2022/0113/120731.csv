@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+r/NetSec,HiddenWall is a tool to generate a custom Hidden firewall to run in Linux kernel,https://redd.it/s2xwpa,
+r/NetSec,"This script analyses the Nmap XML scanning results, parses each CPE context and correlates to search CVE on NIST. You can use that to find public vulnerabilities in services.",https://redd.it/s2xmey,
