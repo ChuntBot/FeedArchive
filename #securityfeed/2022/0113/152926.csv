@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7p8f-8hjm-wm92] Lookup operations do not take into account wildcards in SpiceDB,https://github.com/advisories/GHSA-7p8f-8hjm-wm92,https://j.mp/3qqXSoB
+GithubAdvisories,[GHSA-q4j7-v27r-fgcx] Prototype Pollution in realms-shim,https://github.com/advisories/GHSA-q4j7-v27r-fgcx,https://j.mp/3GqokUR
