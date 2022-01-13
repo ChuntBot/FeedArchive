@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-23568 (extend2),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23568,https://j.mp/3K8mHgI
+NVD-NIST,CVE-2021-23594 (realms-shim),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23594,https://j.mp/34ESfKQ
+NVD-NIST,"CVE-2021-32996 (r-30ia_firmware, r-30ia_mate_firmware, r-30ib_compact_firmware, r-30ib_compact_plus_firmware, r-30ib_firmware, r-30ib_mate_firmware, r-30ib_mate_plus_firmware, r-30ib_mini_plus_firmware, r-30ib_plus_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-32996,https://j.mp/3qnG8KK
+NVD-NIST,"CVE-2021-32998 (r-30ia_firmware, r-30ia_mate_firmware, r-30ib_compact_firmware, r-30ib_compact_plus_firmware, r-30ib_firmware, r-30ib_mate_firmware, r-30ib_mate_plus_firmware, r-30ib_mini_plus_firmware, r-30ib_plus_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-32998,https://j.mp/3Fp48kY
+NVD-NIST,CVE-2021-38894 (security_verify_access),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38894,https://j.mp/3FqVcLJ
+NVD-NIST,CVE-2021-38895 (security_verify_access),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38895,https://j.mp/3qpfYXW
+NVD-NIST,CVE-2021-38921 (security_verify_access),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38921,https://j.mp/3toSrbv
+NVD-NIST,CVE-2021-38956 (security_verify_access),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38956,https://j.mp/3rdPzeN
+NVD-NIST,CVE-2021-38957 (security_verify_access),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38957,https://j.mp/3zUDlvw
+NVD-NIST,"CVE-2021-38990 (aix, vios)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38990,https://j.mp/3Gn8t9s
+NVD-NIST,CVE-2021-46054 (binaryen),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-46054,https://j.mp/3qqt5bn
+NVD-NIST,CVE-2021-46055 (binaryen),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-46055,https://j.mp/3I7Hcsf
+NVD-NIST,CVE-2021-46166 (manageengine_desktop_central),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-46166,https://j.mp/3HUbqyK
+NVD-NIST,CVE-2022-22822 (libexpat),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22822,https://j.mp/3K8mzOg
+NVD-NIST,CVE-2022-22823 (libexpat),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22823,https://j.mp/3nqbQF5
+NVD-NIST,CVE-2022-22824 (libexpat),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22824,https://j.mp/3noKEGU
