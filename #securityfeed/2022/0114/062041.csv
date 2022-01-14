@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-35247 (serv-u),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-35247,https://j.mp/3KaFUOJ
+NVD-NIST,CVE-2021-37195 (comos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37195,https://j.mp/3GuQC0j
+NVD-NIST,CVE-2021-37196 (comos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37196,https://j.mp/3twysYF
+NVD-NIST,CVE-2021-37197 (comos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37197,https://j.mp/3nmqUDW
+NVD-NIST,CVE-2021-37198 (comos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37198,https://j.mp/3fp9YYQ
+NVD-NIST,CVE-2021-46059 (vim),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-46059,https://j.mp/3fleVls
+NVD-NIST,CVE-2021-46060 (inetutils),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-46060,https://j.mp/3Ft0ir1
+NVD-NIST,CVE-2021-46164 (manageengine_desktop_central),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-46164,https://j.mp/34PvwvQ
+NVD-NIST,CVE-2021-46165 (manageengine_desktop_central),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-46165,https://j.mp/3GtCNiQ
+NVD-NIST,CVE-2022-0156 (vim),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0156,https://j.mp/3K3k0wS
+NVD-NIST,CVE-2022-0158 (vim),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0158,https://j.mp/3qsTk10
+NVD-NIST,"CVE-2022-21833 (windows_10, windows_11, windows_7, windows_8.1, windows_server, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21833,https://j.mp/3Fq10Fu
+NVD-NIST,"CVE-2022-21834 (windows_10, windows_11, windows_7, windows_8.1, windows_server, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21834,https://j.mp/3GsoFWV
+NVD-NIST,"CVE-2022-21835 (windows_10, windows_11, windows_7, windows_8.1, windows_server, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21835,https://j.mp/3Ft0iHx
+NVD-NIST,"CVE-2022-21836 (windows_10, windows_11, windows_7, windows_8.1, windows_server, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21836,https://j.mp/3zWlEfh
+NVD-NIST,"CVE-2022-21837 (sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21837,https://j.mp/31WgRhc
+NVD-NIST,"CVE-2022-21838 (windows_10, windows_11, windows_7, windows_8.1, windows_server, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21838,https://j.mp/3toJNtF
+NVD-NIST,"CVE-2022-21839 (windows_10, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21839,https://j.mp/3GsCfd3
