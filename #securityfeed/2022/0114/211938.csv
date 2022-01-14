@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-64g7-mvw6-v9qj] Improper Privilege Management in shelljs,https://github.com/advisories/GHSA-64g7-mvw6-v9qj,https://j.mp/3zXRQPr
+GithubAdvisories,[GHSA-5hfj-r725-wpc4] Arbitrary code execution in october/system,https://github.com/advisories/GHSA-5hfj-r725-wpc4,https://j.mp/3zZWDQ6
+GithubAdvisories,[GHSA-wv23-pfj7-2mjj] Authenticated file write leads to remote code execution in october/system,https://github.com/advisories/GHSA-wv23-pfj7-2mjj,https://j.mp/3qufrnN
+GithubAdvisories,[GHSA-mh83-jcw5-rjh8] XML External Entity Reference in edu.stanford.nlp:stanford-corenlp,https://github.com/advisories/GHSA-mh83-jcw5-rjh8,https://j.mp/3Gxcw2W
+GithubAdvisories,[GHSA-5v2h-r2cx-5xgj] Inefficient Regular Expression Complexity in marked,https://github.com/advisories/GHSA-5v2h-r2cx-5xgj,https://j.mp/3tpNLlP
+GithubAdvisories,[GHSA-rrrm-qjm4-v8hf] Inefficient Regular Expression Complexity in marked,https://github.com/advisories/GHSA-rrrm-qjm4-v8hf,https://j.mp/3qtB3Ap
+GithubAdvisories,[GHSA-cjg2-2fjg-fph4] Integer underflow in Frontier,https://github.com/advisories/GHSA-cjg2-2fjg-fph4,https://j.mp/3tqBRIb
