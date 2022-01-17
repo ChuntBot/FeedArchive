@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Red Hat Security Advisory 2022-0143-03,https://packetstormsecurity.com/files/165587/RHSA-2022-0143-03.txt,https://j.mp/3fwx3sD
+PacketstormSecurity,OpenBMCS 2.4 Secret Disclosure,https://packetstormsecurity.com/files/165586/ZSL-2022-5695.txt,https://j.mp/3nA824b
+PacketstormSecurity,OpenBMCS 2.4 Remote File Inclusion / Server-Side Request Forgery,https://packetstormsecurity.com/files/165585/ZSL-2022-5694.txt,https://j.mp/3FAEeea
+PacketstormSecurity,AgentTesla Builder Web Panel SQL Injection,https://packetstormsecurity.com/files/165584/MVID-2022-0455.txt,https://j.mp/3A97OGc
+PacketstormSecurity,AgentTesla Builder Web Panel Cross Site Scripting,https://packetstormsecurity.com/files/165583/MVID-2022-0454.txt,https://j.mp/3fz7Q0I
+PacketstormSecurity,OpenBMCS 2.4 Remote Privilege Escalation,https://packetstormsecurity.com/files/165582/ZSL-2022-5693.txt,https://j.mp/3tAvwde
+PacketstormSecurity,OpenBMCS 2.4 SQL Injection,https://packetstormsecurity.com/files/165581/ZSL-2022-5692.txt,https://j.mp/3qJPfWp
+PacketstormSecurity,Chaos Ransomware Builder 4 Insecure Permissions,https://packetstormsecurity.com/files/165580/MVID-2022-0456.txt,https://j.mp/3fxFowd
+PacketstormSecurity,OpenBMCS 2.4 Cross Site Request Forgery,https://packetstormsecurity.com/files/165579/ZSL-2022-5691.txt,https://j.mp/3ftHkWJ
+PacketstormSecurity,Win32.MarsStealer Web Panel Unauthenticated Remote Data Deletion,https://packetstormsecurity.com/files/165578/MVID-2022-0453.txt,https://j.mp/3qx7huK
+PacketstormSecurity,Red Hat Security Advisory 2022-0074-03,https://packetstormsecurity.com/files/165574/RHSA-2022-0074-03.txt,https://j.mp/3nyz4sC
+PacketstormSecurity,Win32.MarsStealer Web Panel Cross Site Scripting,https://packetstormsecurity.com/files/165573/MVID-2022-0452.txt,https://j.mp/3nyz4J8
+PacketstormSecurity,SB Admin Cross Site Request Forgery / SQL Injection,https://packetstormsecurity.com/files/165572/sbadmin-xsrfsql.txt,https://j.mp/3FwirnD
+PacketstormSecurity,Win32.MarsStealer Web Panel Information Disclosure,https://packetstormsecurity.com/files/165571/MVID-2022-0451.txt,https://j.mp/3qD2acB
+PacketstormSecurity,Ab Stealer Web Panel Cross Site Scripting,https://packetstormsecurity.com/files/165570/MVID-2022-0450.txt,https://j.mp/3nyjFJb
+PacketstormSecurity,Cisco IP Phone Cleartext Password Storage,https://packetstormsecurity.com/files/165567/SA-20220113-0.txt,https://j.mp/33Em4L8
+PacketstormSecurity,HTTP Protocol Stack Denial Of Service / Remote Code Execution,https://packetstormsecurity.com/files/165566/httpd-dos.py.txt,https://j.mp/33G3bYc
+PacketstormSecurity,Red Hat Security Advisory 2022-0108-01,https://packetstormsecurity.com/files/165569/RHSA-2022-0108-01.txt,https://j.mp/3IecDkq
+PacketstormSecurity,Red Hat Security Advisory 2022-0063-06,https://packetstormsecurity.com/files/165577/RHSA-2022-0063-06.txt,https://j.mp/3A5vKua
+PacketstormSecurity,Worktime 10.20 Build 4967 Unquoted Service Path,https://packetstormsecurity.com/files/165576/worktime1020-unquotedpath.txt,https://j.mp/3Icwel3
+PacketstormSecurity,Worktime 10.20 Build 4967 DLL Hijacking,https://packetstormsecurity.com/files/165575/worktime1020-dllhijack.txt,https://j.mp/3FCAGIn
