@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Olefy] Update to Alpine 3.15,https://github.com/mailcow/mailcow-dockerized/commit/c08e520a756e7e6df4125cdf0e8734893beff960,https://j.mp/3nGU80f
+GithubCommitStaging,[Olefy] Add local Olefy.py,https://github.com/mailcow/mailcow-dockerized/commit/cbb64e316e8df945fe25bbbfb0c4846cd40c4dba,https://j.mp/3qDLx0j
+GithubCommitStaging,[Olefy] Use local olefy.py (instead of Github),https://github.com/mailcow/mailcow-dockerized/commit/9f8a16b8c15e8a7c4ed89a1f76897ab4af99765d,https://j.mp/3Ijh0e2
+GithubCommitStaging,[Compose] Update olefy to Alpine 3.15,https://github.com/mailcow/mailcow-dockerized/commit/f9def721154732e92dfc082672a971a373d74ef5,https://j.mp/3AaGA26
+GithubCommitStaging,[Olefy] Update to Alpine 3.15 and include ping fix,https://github.com/mailcow/mailcow-dockerized/commit/998cc749bfcf5732a21c28274a4038e38b6df175,https://j.mp/3rxBlFH
