@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[SOGo] Update syslog-ng Version to 3.28,https://github.com/mailcow/mailcow-dockerized/commit/a5e84b483a9733c67163bf26e6cc442dab0a0d4a,https://j.mp/3KnT4bz
+GithubCommitStaging,[SOGo] Update syslog-ng-redis_slave Version to 3.28,https://github.com/mailcow/mailcow-dockerized/commit/a195e6e121988ad5e604504cb0f8a56ef53fd897,https://j.mp/3IjDI5U
+GithubCommitStaging,[SOGo] Update SOGo to 5.5.0,https://github.com/mailcow/mailcow-dockerized/commit/5bcb0f5d25c54fc1c48215985bdc8addff84a3d5,https://j.mp/3AgaCRY
+GithubCommitStaging,[SOGo] Update SOGo to 5.5.0 + syslog Version Update (in Config),https://github.com/mailcow/mailcow-dockerized/commit/8f89968421620613140a9277ae9b41bc4c5e2cde,https://j.mp/3tJ3jRR
