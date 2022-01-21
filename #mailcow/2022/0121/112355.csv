@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[WebAuthn] disable webauthn rootca by mailcow.conf,https://github.com/mailcow/mailcow-dockerized/commit/0f464658cc6aef34d27611a09cb743c576fdc848,https://bit.ly/3tIMKW9
+GithubCommitStaging,[WebAuthn] update mailcow.conf,https://github.com/mailcow/mailcow-dockerized/commit/8ae2fe0cf266cff3fe1c062fefd38d2996c9cf70,https://bit.ly/3tMDpfP
+GithubCommitStaging,[WebAuthn] update mailcow.conf,https://github.com/mailcow/mailcow-dockerized/commit/a6ec68e80ffbb6b653c4451b7e8429ec814c1dc2,https://bit.ly/3AlNYb5
+GithubCommitStaging,[WebAuthn] update mailcow.conf,https://github.com/mailcow/mailcow-dockerized/commit/0244e945dfbbc103d1c72d01d75508a69d5326d9,https://bit.ly/3GSITJC
+GithubCommitStaging,[WebAuthn] update mailcow.conf,https://github.com/mailcow/mailcow-dockerized/commit/5858c464d98bfc383ef05827a3f74dc89d6978ae,https://bit.ly/3fJlu1l
+GithubCommitStaging,[WebAuthn] disable rootCA default,https://github.com/mailcow/mailcow-dockerized/commit/7df2bb28f8d7baa1bbe893bdc394262409a042a0,https://bit.ly/3GOj3Xq
+GithubCommitStaging,[WebAuthn] rename env var,https://github.com/mailcow/mailcow-dockerized/commit/aaf5da240a00f5688eb4bdf5b2753df308851dcc,https://bit.ly/32kOIAB
+GithubCommitStaging,[WebAuthn] rename env var,https://github.com/mailcow/mailcow-dockerized/commit/af1b90fa18c246cb63e8de0518e0acf9dc7fc68e,https://bit.ly/3Ip8oCR
+GithubCommitStaging,Merge pull request #4428 from FreddleSpl0it/master,https://github.com/mailcow/mailcow-dockerized/commit/355ea71877a807c2c26f42c7abf35e11769bc18e,https://bit.ly/32keiG1
