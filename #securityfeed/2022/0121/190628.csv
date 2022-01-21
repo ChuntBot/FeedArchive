@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pq7m-3gw7-gq5x] Execution with Unnecessary Privileges in ipython,https://github.com/advisories/GHSA-pq7m-3gw7-gq5x,https://bit.ly/3qYeioN
+GithubAdvisories,[GHSA-82v2-mx6x-wq7q] Incorrect Default Permissions in log4js,https://github.com/advisories/GHSA-82v2-mx6x-wq7q,https://bit.ly/3nIx2X6
+GithubAdvisories,[GHSA-c7fm-jx59-wjf6] Authorization Bypass Through User-Controlled Key in LiveHelperChat,https://github.com/advisories/GHSA-c7fm-jx59-wjf6,https://bit.ly/3fKDR63
+GithubAdvisories,[GHSA-7v3x-h7r2-34jv] Insufficient Session Expiration in Pterodactyl API,https://github.com/advisories/GHSA-7v3x-h7r2-34jv,https://bit.ly/3rBFdFT
+GithubAdvisories,[GHSA-rcrv-228c-gprj] Invalid URL generation in bitlyshortener,https://github.com/advisories/GHSA-rcrv-228c-gprj,https://bit.ly/33HUg8V
