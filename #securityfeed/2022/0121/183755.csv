@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r8j4-96mx-rjcc] Improper Restriction of XML External Entity Reference in Skylot jadx,https://github.com/advisories/GHSA-r8j4-96mx-rjcc,https://bit.ly/3o8AiLR
+GithubAdvisories,[GHSA-pm3v-qxf6-fgxv] Cross-site Scripting in pimcore,https://github.com/advisories/GHSA-pm3v-qxf6-fgxv,https://bit.ly/3fMbwwi
+GithubAdvisories,[GHSA-m8rp-q82r-c5mf] Cross-site Scripting in microweber,https://github.com/advisories/GHSA-m8rp-q82r-c5mf,https://bit.ly/3KxlL5D
+GithubAdvisories,[GHSA-7wv8-g97r-432h] Exposure of Sensitive Information to an Unauthorized Actor in microweber,https://github.com/advisories/GHSA-7wv8-g97r-432h,https://bit.ly/3Kzoc7I
