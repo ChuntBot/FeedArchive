@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-21275 (communications_billing_and_revenue_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21275,https://bit.ly/3fMeDVa
+NVD-NIST,CVE-2022-21276 (communications_billing_and_revenue_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21276,https://bit.ly/356CnB3
+NVD-NIST,"CVE-2022-21277 (cloud_insights, e-series_santricity_os_controller, e-series_santricity_storage_manager, e-series_santricity_web_services, graalvm, jdk, jre, oncommand_insight, santricity_unified_manager, snapmanager)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21277,https://bit.ly/3rDrw9w
+NVD-NIST,CVE-2022-21281 (primavera_portfolio_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21281,https://bit.ly/33zVx23
+NVD-NIST,"CVE-2022-21282 (cloud_insights, e-series_santricity_os_controller, e-series_santricity_storage_manager, e-series_santricity_web_services, graalvm, jdk, jre, oncommand_insight, santricity_unified_manager, snapmanager)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21282,https://bit.ly/3FR9IfS
+NVD-NIST,"CVE-2022-21283 (cloud_insights, e-series_santricity_os_controller, e-series_santricity_storage_manager, e-series_santricity_web_services, graalvm, jdk, jre, oncommand_insight, santricity_unified_manager, snapmanager)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21283,https://bit.ly/3FO8AtB
