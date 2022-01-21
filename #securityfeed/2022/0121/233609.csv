@@ -1,0 +1,27 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r8pr-83cc-ccv7] Umbraco Persistent Password Reset Poison,https://github.com/advisories/GHSA-r8pr-83cc-ccv7,https://bit.ly/3qNo2SC
+GithubAdvisories,[GHSA-jrmq-rv9w-63rv] Umbraco ApplicationURL Overwrite,https://github.com/advisories/GHSA-jrmq-rv9w-63rv,https://bit.ly/33ZHLVZ
+GithubAdvisories,[GHSA-c697-r227-pq6h] Unrestricted Upload of File with Dangerous Type in pimcore,https://github.com/advisories/GHSA-c697-r227-pq6h,https://bit.ly/33Xm6xE
+GithubAdvisories,[GHSA-fxmx-pfm2-85m2] Cross-site Scripting in Ericsson CodeChecker,https://github.com/advisories/GHSA-fxmx-pfm2-85m2,https://bit.ly/3FMC62R
+GithubAdvisories,[GHSA-4f5x-q4jc-xfcf] Cross-site Scripting in pimcore,https://github.com/advisories/GHSA-4f5x-q4jc-xfcf,https://bit.ly/3tIy3SW
+GithubAdvisories,[GHSA-6m93-343m-3jrc] Cross-site Scripting in HTML2PDF,https://github.com/advisories/GHSA-6m93-343m-3jrc,https://bit.ly/3tKDjWd
+GithubAdvisories,[GHSA-fh56-85cw-5pq6] Out-of-bounds Write in ujson,https://github.com/advisories/GHSA-fh56-85cw-5pq6,https://bit.ly/3fNUrSM
+GithubAdvisories,[GHSA-w9p3-5cr8-m3jj] Deserialization of Untrusted Data in Log4j 1.x,https://github.com/advisories/GHSA-w9p3-5cr8-m3jj,https://bit.ly/3nMec1q
+GithubAdvisories,[GHSA-65fg-84f6-3jq3] SQL Injection in Log4j 1.2.x,https://github.com/advisories/GHSA-65fg-84f6-3jq3,https://bit.ly/3tPRbOS
+GithubAdvisories,[GHSA-vxh4-x6gv-mphf] Cross-Site Request Forgery (CSRF) in livehelperchat/livehelperchat,https://github.com/advisories/GHSA-vxh4-x6gv-mphf,https://bit.ly/3ApNi4n
+GithubAdvisories,"[GHSA-v57x-gxfj-484q] Security Advisory for ""Log4Shell""",https://github.com/advisories/GHSA-v57x-gxfj-484q,https://bit.ly/3qPFtC3
+GithubAdvisories,[GHSA-44m4-9cjp-j587] IBX-1392: Image filenames sanitization,https://github.com/advisories/GHSA-44m4-9cjp-j587,https://bit.ly/3Ao6bVe
+GithubAdvisories,[GHSA-4vf4-qmvg-mh7h] Cookie prefix spoofing in CGI,https://github.com/advisories/GHSA-4vf4-qmvg-mh7h,https://bit.ly/3Ak60KK
+GithubAdvisories,[GHSA-fj2w-wfgv-mwq6] Denial of service in CBOR library,https://github.com/advisories/GHSA-fj2w-wfgv-mwq6,https://bit.ly/3nJ8XPW
+GithubAdvisories,[GHSA-x7wr-283h-5h2v] Out-of-bounds Read in Onionshare,https://github.com/advisories/GHSA-x7wr-283h-5h2v,https://bit.ly/32oVBB2
+GithubAdvisories,[GHSA-jh82-c5jw-pxpc] Denial of Service in Onionshare,https://github.com/advisories/GHSA-jh82-c5jw-pxpc,https://bit.ly/3IuJK3x
+GithubAdvisories,[GHSA-ch22-x2v3-v6vq] OTF-001: Improper Input Sanitation: The path parameter of the requested URL is not sanitized before being passed to the QT frontend,https://github.com/advisories/GHSA-ch22-x2v3-v6vq,https://bit.ly/32l46wQ
+GithubAdvisories,[GHSA-w9m4-7w72-r766] Improper Access Control in Onionshare,https://github.com/advisories/GHSA-w9m4-7w72-r766,https://bit.ly/3rCibi9
+GithubAdvisories,[GHSA-gjj5-998g-v36v] Improper Access Control in Onionshare,https://github.com/advisories/GHSA-gjj5-998g-v36v,https://bit.ly/3Al0VSz
+GithubAdvisories,[GHSA-jgm9-xpfj-4fq6] Path traversal in Onionshare,https://github.com/advisories/GHSA-jgm9-xpfj-4fq6,https://bit.ly/3GUSD6q
+GithubAdvisories,[GHSA-h29c-wcm8-883h] Incorrect Permission Assignment for Critical Resource in OnionShare,https://github.com/advisories/GHSA-h29c-wcm8-883h,https://bit.ly/3GTyrBF
+GithubAdvisories,[GHSA-99p8-9p2c-49j4] Improper Access Control in Onionshare,https://github.com/advisories/GHSA-99p8-9p2c-49j4,https://bit.ly/3nJuuI7
+GithubAdvisories,[GHSA-68vr-8f46-vc9f] Username spoofing in OnionShare,https://github.com/advisories/GHSA-68vr-8f46-vc9f,https://bit.ly/3KBi2nF
+GithubAdvisories,[GHSA-2457-2263-mm9f] Memory leak in micronaut-core,https://github.com/advisories/GHSA-2457-2263-mm9f,https://bit.ly/3qPosHZ
+GithubAdvisories,[GHSA-r8hp-5m7c-jhv4] Cross-site Scripting OrchardCore.Application.Cms.Targets,https://github.com/advisories/GHSA-r8hp-5m7c-jhv4,https://bit.ly/33WT3ur
+GithubAdvisories,[GHSA-45hx-wfhj-473x] Arbitrary code execution in H2 Console,https://github.com/advisories/GHSA-45hx-wfhj-473x,https://bit.ly/3fOFJe2
