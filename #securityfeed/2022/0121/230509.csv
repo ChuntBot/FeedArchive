@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8434-v7xw-8m9x] Improper Neutralization of Argument Delimiters in a Decompiling Package Process in APKLeaks,https://github.com/advisories/GHSA-8434-v7xw-8m9x,https://bit.ly/3KICxPA
+GithubAdvisories,[GHSA-h79x-98r2-g6qc] Impersonation of other users (passing XBOX Live authentication) by theft of logins in PocketMine-MP,https://github.com/advisories/GHSA-h79x-98r2-g6qc,https://bit.ly/3Iscmui
+GithubAdvisories,[GHSA-wjfq-88q2-r34j] Unhandled exception when decoding form response JSON,https://github.com/advisories/GHSA-wjfq-88q2-r34j,https://bit.ly/3rHVMzS
