@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-21244 (primavera_portfolio_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21244,https://bit.ly/3GY8l0E
+NVD-NIST,"CVE-2022-21245 (mysql, oncommand_insight, oncommand_workflow_automation)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21245,https://bit.ly/3nNwfEd
+NVD-NIST,CVE-2022-21246 (communications_operations_monitor),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21246,https://bit.ly/32kL1Lg
+NVD-NIST,CVE-2022-21262 (weblogic_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21262,https://bit.ly/3H6zJJX
