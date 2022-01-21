@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,[SOGo] Update syslog-ng-redis_slave Version to 3.28,https://github.com/mailcow/mailcow-dockerized/commit/a195e6e121988ad5e604504cb0f8a56ef53fd897,https://bit.ly/3IjDI5U
+GithubCommit,[SOGo] Update SOGo to 5.5.0,https://github.com/mailcow/mailcow-dockerized/commit/5bcb0f5d25c54fc1c48215985bdc8addff84a3d5,https://bit.ly/3AgaCRY
+GithubCommit,[Watchdog] Update to Alpine 3.15,https://github.com/mailcow/mailcow-dockerized/commit/d4fe4a7f87cfff1b05b04bf5269f503c26ffe532,https://bit.ly/3rAmN8f
+GithubCommit,[Compose] Update Watchdog Tag (Alpine 3.15),https://github.com/mailcow/mailcow-dockerized/commit/ccd3677d7660b6ec3d9d494534bbfabfdd9dba4a,https://bit.ly/33qyPcB
+GithubCommit,[WebAuthn] disable webauthn rootca by mailcow.conf,https://github.com/mailcow/mailcow-dockerized/commit/0f464658cc6aef34d27611a09cb743c576fdc848,https://bit.ly/3tIMKW9
+GithubCommit,[Watchdog] Update to Alpine 3.15,https://github.com/mailcow/mailcow-dockerized/commit/e78298152ecbceab1b0867f682e5a6492a24100d,https://bit.ly/3GLEKY6
+GithubCommit,[WebAuthn] update mailcow.conf,https://github.com/mailcow/mailcow-dockerized/commit/8ae2fe0cf266cff3fe1c062fefd38d2996c9cf70,https://bit.ly/3tMDpfP
+GithubCommit,[WebAuthn] update mailcow.conf,https://github.com/mailcow/mailcow-dockerized/commit/a6ec68e80ffbb6b653c4451b7e8429ec814c1dc2,https://bit.ly/3AlNYb5
+GithubCommit,[WebAuthn] update mailcow.conf,https://github.com/mailcow/mailcow-dockerized/commit/0244e945dfbbc103d1c72d01d75508a69d5326d9,https://bit.ly/3GSITJC
+GithubCommit,[WebAuthn] update mailcow.conf,https://github.com/mailcow/mailcow-dockerized/commit/5858c464d98bfc383ef05827a3f74dc89d6978ae,https://bit.ly/3fJlu1l
+GithubCommit,[WebAuthn] disable rootCA default,https://github.com/mailcow/mailcow-dockerized/commit/7df2bb28f8d7baa1bbe893bdc394262409a042a0,https://bit.ly/3GOj3Xq
+GithubCommit,[SOGo] Update SOGo to 5.5.0 + syslog Version Update (in Config),https://github.com/mailcow/mailcow-dockerized/commit/8f89968421620613140a9277ae9b41bc4c5e2cde,https://bit.ly/3tJ3jRR
+GithubCommit,[Netfilter] Update to Alpine 3.15,https://github.com/mailcow/mailcow-dockerized/commit/9c7faa9fe86e13de290452dae605fc59db832725,https://bit.ly/3fJY9wB
+GithubCommit,[Compose] Update Netfilter Image to 1.46,https://github.com/mailcow/mailcow-dockerized/commit/513588621d57d4ccdc3b03565afa65f3e989265d,https://bit.ly/3FN76zY
+GithubCommit,[WebAuthn] rename env var,https://github.com/mailcow/mailcow-dockerized/commit/aaf5da240a00f5688eb4bdf5b2753df308851dcc,https://bit.ly/32kOIAB
+GithubCommit,[WebAuthn] rename env var,https://github.com/mailcow/mailcow-dockerized/commit/af1b90fa18c246cb63e8de0518e0acf9dc7fc68e,https://bit.ly/3Ip8oCR
+GithubCommit,[Netfilter] Update to Alpine 3.15 + GeoIP Fix,https://github.com/mailcow/mailcow-dockerized/commit/fac8d9d28a2b6400eec7f2a0416d36a52e69f69d,https://bit.ly/3FOIOFq
+GithubCommit,Merge pull request #4428 from FreddleSpl0it/master,https://github.com/mailcow/mailcow-dockerized/commit/355ea71877a807c2c26f42c7abf35e11769bc18e,https://bit.ly/32keiG1
+GithubCommit,[Web] Updated lang.cs.json,https://github.com/mailcow/mailcow-dockerized/commit/f4c9a6941a038894f17390bf013966b938154695,https://bit.ly/3GRKKOP
+GithubCommit,🐄 Jan(moo)uary Update 2022 - The U2F --> WebAuthn (2FA) Update,https://github.com/mailcow/mailcow-dockerized/commit/2f9da5ae93d93bf62a8c2b7a5a6ae50a41170c48,https://bit.ly/3IgOiL0
