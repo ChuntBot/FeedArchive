@@ -1,0 +1,31 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w3v3-cxq5-9vr4] Incorrect Default Permissions and Improper Access Control in snipe-it,https://github.com/advisories/GHSA-w3v3-cxq5-9vr4,https://bit.ly/3qPr1d5
+GithubAdvisories,[GHSA-6w5m-jgc5-8cgc] orchardcore is vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-6w5m-jgc5-8cgc,https://bit.ly/3FStgAJ
+GithubAdvisories,[GHSA-qrpm-p2h7-hrv2] Exposure of Sensitive Information to an Unauthorized Actor in nanoid,https://github.com/advisories/GHSA-qrpm-p2h7-hrv2,https://bit.ly/3Ajjp5T
+GithubAdvisories,[GHSA-j545-frh3-r9gq] SQL Injection in dolibarr,https://github.com/advisories/GHSA-j545-frh3-r9gq,https://bit.ly/352gLFU
+GithubAdvisories,[GHSA-r683-j2x4-v87g] node-fetch is vulnerable to Exposure of Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-r683-j2x4-v87g,https://bit.ly/3GUVtZ8
+GithubAdvisories,[GHSA-wrp6-9w7f-3wxg] calibre-web is vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-wrp6-9w7f-3wxg,https://bit.ly/3fK59K3
+GithubAdvisories,[GHSA-wppj-3pjr-9w79] crater is vulnerable to Unrestricted Upload of File with Dangerous Type,https://github.com/advisories/GHSA-wppj-3pjr-9w79,https://bit.ly/3fOnwgF
+GithubAdvisories,[GHSA-728c-42pc-fwxg] Unrestricted Upload of File with Dangerous Type in Crater,https://github.com/advisories/GHSA-728c-42pc-fwxg,https://bit.ly/3fIBctP
+GithubAdvisories,[GHSA-c6rp-xvqv-mwmf] Cross-site Scripting in epubjs,https://github.com/advisories/GHSA-c6rp-xvqv-mwmf,https://bit.ly/3tP1DGy
+GithubAdvisories,[GHSA-vv38-4xcj-q4rw] Cross-site Scripting in Apache Knox SSO,https://github.com/advisories/GHSA-vv38-4xcj-q4rw,https://bit.ly/3FSbuNQ
+GithubAdvisories,[GHSA-v567-q267-phpg] pimcore is vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-v567-q267-phpg,https://bit.ly/3tOy7QZ
+GithubAdvisories,[GHSA-vj9x-w7ch-f46p] pimcore is vulnerable to SQL Injection,https://github.com/advisories/GHSA-vj9x-w7ch-f46p,https://bit.ly/3rHLgbU
+GithubAdvisories,[GHSA-5r9v-8w62-r26j] livehelperchat is vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-5r9v-8w62-r26j,https://bit.ly/3GYrm32
+GithubAdvisories,[GHSA-57hg-26h7-9qgv] pimcore is vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-57hg-26h7-9qgv,https://bit.ly/3Kuduj0
+GithubAdvisories,[GHSA-73q9-7pwj-gm46] icecoder is vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-73q9-7pwj-gm46,https://bit.ly/3ItWkQy
+GithubAdvisories,[GHSA-wxr6-29pv-ch68] calibre-web is vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-wxr6-29pv-ch68,https://bit.ly/3FQbwGd
+GithubAdvisories,[GHSA-xp7p-3gx7-j6wx] calibre-web is vulnerable to Business Logic Errors,https://github.com/advisories/GHSA-xp7p-3gx7-j6wx,https://bit.ly/3tMnGgK
+GithubAdvisories,[GHSA-xqxm-2rpm-3889] Comment reply notifications sent to incorrect users,https://github.com/advisories/GHSA-xqxm-2rpm-3889,https://bit.ly/3AmOc1t
+GithubAdvisories,[GHSA-rhq2-3vr9-6mcr] Files on the host computer can be accessed from the Gradio interface,https://github.com/advisories/GHSA-rhq2-3vr9-6mcr,https://bit.ly/3fJF3Xq
+GithubAdvisories,[GHSA-75vw-3m5v-fprh] corenlp is vulnerable to Improper Restriction of XML External Entity Reference,https://github.com/advisories/GHSA-75vw-3m5v-fprh,https://bit.ly/3515R3d
+GithubAdvisories,[GHSA-gh88-3pxp-6fm8] Infinite Loop in colors.js,https://github.com/advisories/GHSA-gh88-3pxp-6fm8,https://bit.ly/3Al4lET
+GithubAdvisories,[GHSA-883x-6fch-6wjx] Trust Boundary Violation due to Incomplete Blacklist in Test Failure Processing in Ares,https://github.com/advisories/GHSA-883x-6fch-6wjx,https://bit.ly/3GQAM05
+GithubAdvisories,[GHSA-fpj7-9xm6-8hgr] Observable Discrepancy and Observable Timing Discrepancy in Jenkins Configuration as Code Plugin,https://github.com/advisories/GHSA-fpj7-9xm6-8hgr,https://bit.ly/32rkegw
+GithubAdvisories,[GHSA-rvh4-g2rj-hr9c] Path Traversal in Jenkins Warnings Next Generation Plugin,https://github.com/advisories/GHSA-rvh4-g2rj-hr9c,https://bit.ly/3FMFMSd
+GithubAdvisories,[GHSA-p92q-7fhh-mq35] Cross-Site Request Forgery in Jenkins,https://github.com/advisories/GHSA-p92q-7fhh-mq35,https://bit.ly/35eFMxR
+GithubAdvisories,[GHSA-4rq4-32rv-6wp6] Improper Privilege Management in shelljs,https://github.com/advisories/GHSA-4rq4-32rv-6wp6,https://bit.ly/32l6T9i
+GithubAdvisories,[GHSA-4xww-6h7v-29jg] User enumeration in livehelperchat,https://github.com/advisories/GHSA-4xww-6h7v-29jg,https://bit.ly/3AjjkPD
+GithubAdvisories,[GHSA-c38m-7h53-g9v4] Path traversal in Apache James,https://github.com/advisories/GHSA-c38m-7h53-g9v4,https://bit.ly/35d4TBb
+GithubAdvisories,[GHSA-8fr3-hfg3-gpgp] Open Redirect in node-forge,https://github.com/advisories/GHSA-8fr3-hfg3-gpgp,https://bit.ly/3FU3pZ4
+GithubAdvisories,[GHSA-6r92-cgxc-r5fg] Denial of service in CBOR library,https://github.com/advisories/GHSA-6r92-cgxc-r5fg,https://bit.ly/3qO2THJ
