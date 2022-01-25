@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+DebianSecurityNotice,DSA-5057 openjdk-11,https://www.debian.org/security/2022/dsa-5057,https://bit.ly/3rRpBxY
+DebianSecurityNotice,DSA-5056 strongswan,https://www.debian.org/security/2022/dsa-5056,https://bit.ly/33TOqRU
+DebianSecurityNotice,DSA-5055 util-linux,https://www.debian.org/security/2022/dsa-5055,https://bit.ly/3qXOyso
+DebianSecurityNotice,DSA-5054 chromium,https://www.debian.org/security/2022/dsa-5054,https://bit.ly/3FZfKv6
+DebianSecurityNotice,DSA-5053 pillow,https://www.debian.org/security/2022/dsa-5053,https://bit.ly/3tZHkpM
+DebianSecurityNotice,DSA-5049 flatpak,https://www.debian.org/security/2022/dsa-5049,https://bit.ly/3u3G5Gh
