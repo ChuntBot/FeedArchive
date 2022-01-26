@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v82v-rq72-phq9] Server side request forgery in @isomorphic-git/cors-proxy,https://github.com/advisories/GHSA-v82v-rq72-phq9,https://bit.ly/35tgJar
+GithubAdvisories,[GHSA-455w-gv5p-wgg3] Cross-site Scripting in pimcore,https://github.com/advisories/GHSA-455w-gv5p-wgg3,https://bit.ly/33MwY21
+GithubAdvisories,[GHSA-54hw-mhgh-x4vc] Business Logic Errors in pimcore,https://github.com/advisories/GHSA-54hw-mhgh-x4vc,https://bit.ly/3o1bEMQ
