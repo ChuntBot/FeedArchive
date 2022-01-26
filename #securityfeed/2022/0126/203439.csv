@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xc47-3rch-cv57] Improper Access Control in snipe-it,https://github.com/advisories/GHSA-xc47-3rch-cv57,https://bit.ly/3rQdoKc
+GithubAdvisories,[GHSA-8m28-w6xg-35hw] Cross-Site Request Forgery (CSRF) in livehelperchat,https://github.com/advisories/GHSA-8m28-w6xg-35hw,https://bit.ly/3fWk2ZP
+GithubAdvisories,[GHSA-6jmh-9gqm-5xrx] Cross-Site Request Forgery (CSRF) in livehelperchat,https://github.com/advisories/GHSA-6jmh-9gqm-5xrx,https://bit.ly/3g22vza
