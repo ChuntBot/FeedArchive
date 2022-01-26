@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+DebianSecurityNotice,DSA-5061 wpewebkit,https://www.debian.org/security/2022/dsa-5061,https://bit.ly/34bFffG
+DebianSecurityNotice,DSA-5060 webkit2gtk,https://www.debian.org/security/2022/dsa-5060,https://bit.ly/34cGHyp
+DebianSecurityNotice,DSA-5058 openjdk-17,https://www.debian.org/security/2022/dsa-5058,https://bit.ly/3u17gkN
