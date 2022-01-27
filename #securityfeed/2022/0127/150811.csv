@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4rmr-c2jx-vx27] Remote code injection in mustache/mustache,https://github.com/advisories/GHSA-4rmr-c2jx-vx27,https://bit.ly/3IIYEDs
+GithubAdvisories,[GHSA-jrfj-98qg-qjgv] Denial of service in sidekiq,https://github.com/advisories/GHSA-jrfj-98qg-qjgv,https://bit.ly/3IIHRR3
