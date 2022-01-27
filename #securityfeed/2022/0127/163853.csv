@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gcv9-6737-pjqw] SSRF vulnerability in jupyter-server-proxy,https://github.com/advisories/GHSA-gcv9-6737-pjqw,https://bit.ly/3H8jpIu
+GithubAdvisories,[GHSA-pmcr-2rhp-36hr] SQL injection in github.com/navidrome/navidrome,https://github.com/advisories/GHSA-pmcr-2rhp-36hr,https://bit.ly/3g5RxJb
+GithubAdvisories,[GHSA-7g7r-gr46-q4p5] Cross-Site Request Forgery in yetiforce,https://github.com/advisories/GHSA-7g7r-gr46-q4p5,https://bit.ly/3H9BpSG
+GithubAdvisories,[GHSA-h65f-jvqw-m9fj] Infinite Loop in Apache Xerces Java,https://github.com/advisories/GHSA-h65f-jvqw-m9fj,https://bit.ly/3G6Y4h9
