@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mh3m-8c74-74xh] Denial of Service in github.com/graph-gophers/graphql-go,https://github.com/advisories/GHSA-mh3m-8c74-74xh,https://bit.ly/3o3hKfS
+GithubAdvisories,[GHSA-65mj-7c86-79jf] Authentication Bypass in ADOdb/ADOdb,https://github.com/advisories/GHSA-65mj-7c86-79jf,https://bit.ly/34fPa3B
+GithubAdvisories,[GHSA-m36x-mgfh-8g78] Subdomain Takeover in Interactsh server,https://github.com/advisories/GHSA-m36x-mgfh-8g78,https://bit.ly/33OMJp7
+GithubAdvisories,[GHSA-7528-7jg5-6g62] XSS Vulnerability in API\ResponseTrait in CodeIgniter4,https://github.com/advisories/GHSA-7528-7jg5-6g62,https://bit.ly/3KROMZW
