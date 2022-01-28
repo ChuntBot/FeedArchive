@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7rjp-fgwj-47rw] Missing authentication in ShenYu,https://github.com/advisories/GHSA-7rjp-fgwj-47rw,https://bit.ly/34573Cu
+GithubAdvisories,[GHSA-7wq4-89xx-g62j] Password exposure in ShenYu,https://github.com/advisories/GHSA-7wq4-89xx-g62j,https://bit.ly/3o7HCY6
+GithubAdvisories,[GHSA-6v39-p2xq-g5c3] Missing authentication in ShenYu,https://github.com/advisories/GHSA-6v39-p2xq-g5c3,https://bit.ly/3HgmLJt
+GithubAdvisories,[GHSA-gh38-x2wm-xmc8] Code injection in ShenYu,https://github.com/advisories/GHSA-gh38-x2wm-xmc8,https://bit.ly/3HdKJF5
+GithubAdvisories,[GHSA-6jhm-4vmx-mr76] SQL injection in Moodle,https://github.com/advisories/GHSA-6jhm-4vmx-mr76,https://bit.ly/3KRXUxI
+GithubAdvisories,[GHSA-m434-m5pv-p35w] Insufficient user authorization in Moodle,https://github.com/advisories/GHSA-m434-m5pv-p35w,https://bit.ly/3KQ3LUl
+GithubAdvisories,[GHSA-93pj-4p65-qmr9] Insufficient user authorization in Moodle,https://github.com/advisories/GHSA-93pj-4p65-qmr9,https://bit.ly/3KQ3H73
+GithubAdvisories,[GHSA-xpfv-89vg-r562] Cross Site Request Forgery in Moodle,https://github.com/advisories/GHSA-xpfv-89vg-r562,https://bit.ly/32GSJzv
+GithubAdvisories,[GHSA-cxm3-v4mv-6mh8] Cross-site Scripting in vditor,https://github.com/advisories/GHSA-cxm3-v4mv-6mh8,https://bit.ly/34hhK4K
+GithubAdvisories,[GHSA-cvp7-c586-cmf4] Code Injection in loguru,https://github.com/advisories/GHSA-cvp7-c586-cmf4,https://bit.ly/3s2HMAP
+GithubAdvisories,[GHSA-4jh2-3c85-q67h] Improper Privilege Management in apache-airflow,https://github.com/advisories/GHSA-4jh2-3c85-q67h,https://bit.ly/3HgmLcr
