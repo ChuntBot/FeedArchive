@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-17383 (z/ip_one_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17383,https://bit.ly/3s2BDov
+NVD-NIST,CVE-2021-36349 (emc_data_protection_central),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-36349,https://bit.ly/33XSZe0
+NVD-NIST,CVE-2021-43588 (emc_data_protection_central),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43588,https://bit.ly/3G4plB3
+NVD-NIST,"CVE-2021-43589 (emc_unity_operating_environment, emc_unity_xt_operating_environment, emc_unityvsa_operating_environment)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43589,https://bit.ly/3KQZCzu
+NVD-NIST,CVE-2021-45226 (construction_cloud),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-45226,https://bit.ly/3o4cecD
+NVD-NIST,CVE-2021-45802 (iresturant),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-45802,https://bit.ly/3uaCmGO
+NVD-NIST,CVE-2021-45803 (iresturant),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-45803,https://bit.ly/3IJQavY
+NVD-NIST,CVE-2021-46113 (kea-hotel-erp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-46113,https://bit.ly/3u9qipa
+NVD-NIST,CVE-2022-21710 (shortdescription),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21710,https://bit.ly/3INgiWI
+NVD-NIST,CVE-2022-21715 (codeigniter),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21715,https://bit.ly/33UBQCf
+NVD-NIST,CVE-2022-22554 (emc_system_update),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22554,https://bit.ly/34muPdi
