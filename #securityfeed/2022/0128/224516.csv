@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8wf2-3ggj-78q9] Improper Authentication in phpmyadmin,https://github.com/advisories/GHSA-8wf2-3ggj-78q9,https://bit.ly/341tNU7
+GithubAdvisories,[GHSA-vcwc-6mr9-8m7c] Cross-site Scripting in phpmyadmin,https://github.com/advisories/GHSA-vcwc-6mr9-8m7c,https://bit.ly/3gdi7jn
+GithubAdvisories,[GHSA-gm68-g349-gxgg] Denial of service in bingrep,https://github.com/advisories/GHSA-gm68-g349-gxgg,https://bit.ly/34eLhvV
+GithubAdvisories,[GHSA-544x-2jx9-4pfg] Path traversal in Apache Karaf,https://github.com/advisories/GHSA-544x-2jx9-4pfg,https://bit.ly/3GfMEaR
+GithubAdvisories,[GHSA-jh5g-9m4v-9vv9] Insecure Java Deserialization in Apache Karaf,https://github.com/advisories/GHSA-jh5g-9m4v-9vv9,https://bit.ly/3r8JRfq
+GithubAdvisories,[GHSA-prff-6j8q-vrv7] Cross-site Scripting in microweber,https://github.com/advisories/GHSA-prff-6j8q-vrv7,https://bit.ly/35nGitm
+GithubAdvisories,[GHSA-3j58-p785-f27x] Cross-site Scripting in microweber,https://github.com/advisories/GHSA-3j58-p785-f27x,https://bit.ly/341tZ5N
