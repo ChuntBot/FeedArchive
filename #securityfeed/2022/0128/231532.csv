@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8w54-22w9-3g8f] Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') and URL Redirection to Untrusted Site ('Open Redirect') in Products.CMFPlone,https://github.com/advisories/GHSA-8w54-22w9-3g8f,https://bit.ly/35nnieu
+GithubAdvisories,[GHSA-g4c2-ghfg-g5rh] Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') and URL Redirection to Untrusted Site ('Open Redirect') in Products.ATContentTypes,https://github.com/advisories/GHSA-g4c2-ghfg-g5rh,https://bit.ly/3u9V7tS
+GithubAdvisories,[GHSA-wr66-vrwm-5g5x] DOS Vulnerability for self-hosted next.js apps using i18n,https://github.com/advisories/GHSA-wr66-vrwm-5g5x,https://bit.ly/3KUOb9W
+GithubAdvisories,[GHSA-jq4p-mq33-w375] Reflected XSS vulnerability when rendering error messages in laminas-form,https://github.com/advisories/GHSA-jq4p-mq33-w375,https://bit.ly/3o6Lb0k
+GithubAdvisories,[GHSA-w4hp-pcp8-qhf3] Cross-site Scripting in livehelperchat,https://github.com/advisories/GHSA-w4hp-pcp8-qhf3,https://bit.ly/34bXPEl
+GithubAdvisories,[GHSA-8wcc-f2vq-h4gx] Cross-site Scripting in livehelperchat,https://github.com/advisories/GHSA-8wcc-f2vq-h4gx,https://bit.ly/3rXzg6l
+GithubAdvisories,[GHSA-59qh-g7m4-j9m9] Cross-site Scripting in livehelperchat,https://github.com/advisories/GHSA-59qh-g7m4-j9m9,https://bit.ly/3raXgUv
+GithubAdvisories,[GHSA-x3g3-jh26-76cf] Cross-site Scripting in livehelperchat,https://github.com/advisories/GHSA-x3g3-jh26-76cf,https://bit.ly/35nKJV2
+GithubAdvisories,[GHSA-8x44-pwr2-rgc6] Cross-site Scripting in pimcore,https://github.com/advisories/GHSA-8x44-pwr2-rgc6,https://bit.ly/3o6V6mG
+GithubAdvisories,[GHSA-xwqr-xmgg-j69q] Integer overflow in solana_rbpf,https://github.com/advisories/GHSA-xwqr-xmgg-j69q,https://bit.ly/32GrDbT
+GithubAdvisories,[GHSA-wpg7-2c88-r8xv] Exposure of Sensitive Information in simple-get,https://github.com/advisories/GHSA-wpg7-2c88-r8xv,https://bit.ly/3HfLlu0
