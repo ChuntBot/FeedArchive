@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mm6g-mmq6-53ff] Path traversal in SharpZipLib,https://github.com/advisories/GHSA-mm6g-mmq6-53ff,https://bit.ly/3ITGOxJ
+GithubAdvisories,[GHSA-2x7h-96h5-rq84] Path traversal in SharpZipLib,https://github.com/advisories/GHSA-2x7h-96h5-rq84,https://bit.ly/3Glc6vE
+GithubAdvisories,[GHSA-m22m-h4rf-pwq3] Path traversal in SharpZipLib,https://github.com/advisories/GHSA-m22m-h4rf-pwq3,https://bit.ly/3L3nEXY
