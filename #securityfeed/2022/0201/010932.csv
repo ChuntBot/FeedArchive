@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wfjw-w6pv-8p7f] Observable Response Discrepancy in Flask-AppBuilder,https://github.com/advisories/GHSA-wfjw-w6pv-8p7f,https://bit.ly/3KZ43Z9
+GithubAdvisories,[GHSA-9fp7-4fjm-q3mf] Prototype Pollution in keyget,https://github.com/advisories/GHSA-9fp7-4fjm-q3mf,https://bit.ly/3s3aB0k
+GithubAdvisories,[GHSA-4m8h-h59m-m34j] Prototype Pollution in bmoor,https://github.com/advisories/GHSA-4m8h-h59m-m34j,https://bit.ly/3gaPL9B
+GithubAdvisories,[GHSA-vwxp-9qmf-w299] Cross-site Scripting in LiveHelperChat,https://github.com/advisories/GHSA-vwxp-9qmf-w299,https://bit.ly/3Hlof56
+GithubAdvisories,[GHSA-m358-g4rp-533r] SQL Injection in Casdoor,https://github.com/advisories/GHSA-m358-g4rp-533r,https://bit.ly/3uhmWAC
+GithubAdvisories,[GHSA-4w8p-x6g8-fv64] Server-Side Request Forgery in calibreweb,https://github.com/advisories/GHSA-4w8p-x6g8-fv64,https://bit.ly/3IPrh20
+GithubAdvisories,[GHSA-f7qw-5fgj-247x] Cross-site Scripting and Open Redirect in plone.app.contenttypes,https://github.com/advisories/GHSA-f7qw-5fgj-247x,https://bit.ly/3Gh31nC
+GithubAdvisories,[GHSA-rmr5-cpv2-vgjf] Denial of Service by injecting highly recursive collections or maps in XStream,https://github.com/advisories/GHSA-rmr5-cpv2-vgjf,https://bit.ly/34nTii4
+GithubAdvisories,[GHSA-rrp4-2xx3-mv29] Command injection in gh-ost,https://github.com/advisories/GHSA-rrp4-2xx3-mv29,https://bit.ly/3gb6MjR
+GithubAdvisories,[GHSA-m6cj-93v6-cvr5] Infinite loop in junrar,https://github.com/advisories/GHSA-m6cj-93v6-cvr5,https://bit.ly/3gaIuXt
+GithubAdvisories,[GHSA-vvmr-8829-6whx] CSRF token missing in Symfony,https://github.com/advisories/GHSA-vvmr-8829-6whx,https://bit.ly/3gbVzj5
+GithubAdvisories,[GHSA-wxj7-97fp-j53j] Path traversal in Zip-Local,https://github.com/advisories/GHSA-wxj7-97fp-j53j,https://bit.ly/3rg0rdq
+GithubAdvisories,[GHSA-9f3j-pm6f-9fm5] Race condition in Apache Tomcat,https://github.com/advisories/GHSA-9f3j-pm6f-9fm5,https://bit.ly/3s4XbAS
+GithubAdvisories,[GHSA-2m53-83f3-562j] Prototype pollution in min-dash < 3.8.1,https://github.com/advisories/GHSA-2m53-83f3-562j,https://bit.ly/3s4QVcq
+GithubAdvisories,[GHSA-7x22-pmw5-66mq] Cross-site Scripting in showdoc,https://github.com/advisories/GHSA-7x22-pmw5-66mq,https://bit.ly/3ogRP4t
+GithubAdvisories,[GHSA-fhpf-pp6p-55qc] Unsafe handling of user-specified cookies in treq,https://github.com/advisories/GHSA-fhpf-pp6p-55qc,https://bit.ly/35sq3v5
+GithubAdvisories,[GHSA-99cg-575x-774p] Improper Input Validation in AKPublic.Verify with attacker-controlled TPM Quote,https://github.com/advisories/GHSA-99cg-575x-774p,https://bit.ly/3IRI2K2
