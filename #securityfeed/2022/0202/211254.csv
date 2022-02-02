@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-23174 (download_monitor),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23174,https://bit.ly/3Gh7uH2
+NVD-NIST,CVE-2021-23863 (video_security),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23863,https://bit.ly/3HnLjjZ
+NVD-NIST,"CVE-2021-26264 (deltav_distributed_control_system, deltav_workstation)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26264,https://bit.ly/3rvW9ip
+NVD-NIST,"CVE-2021-42631 (virtual_appliance, web_stack)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42631,https://bit.ly/3B0u59N
+NVD-NIST,CVE-2021-42635 (web_stack),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42635,https://bit.ly/3ojv4Nf
+NVD-NIST,CVE-2021-42638 (web_stack),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42638,https://bit.ly/3ASH5Oy
+NVD-NIST,"CVE-2021-44971 (ac15_firmware, ac5_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44971,https://bit.ly/3ukny8B
+NVD-NIST,CVE-2021-45897 (suitecrm),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-45897,https://bit.ly/3LfWihI
+NVD-NIST,CVE-2021-46093 (elite_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-46093,https://bit.ly/32Y48LC
+NVD-NIST,CVE-2022-22294 (zfaka),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22294,https://bit.ly/32ROqBt
+NVD-NIST,CVE-2022-23097 (connman),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23097,https://bit.ly/3GjB26R
+NVD-NIST,CVE-2022-23098 (connman),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23098,https://bit.ly/3L2njVD
+NVD-NIST,CVE-2022-24219 (elite_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24219,https://bit.ly/347LQYW
+NVD-NIST,CVE-2022-24220 (elite_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24220,https://bit.ly/3ATJlVN
+NVD-NIST,CVE-2022-24221 (elite_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24221,https://bit.ly/3rk9U3u
+NVD-NIST,CVE-2022-24222 (elite_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24222,https://bit.ly/3ggAu7e
