@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+PacketstormSecurity,CA Harvest Software Change Manager CSV Injection,https://packetstormsecurity.com/files/165878/CA20220203-01.txt,https://bit.ly/3GsJCjJ
+PacketstormSecurity,Shopmetrics Mystery Shopping Software Broken Access Control / XSS,https://packetstormsecurity.com/files/165877/SA-20220202-0.txt,https://bit.ly/32XhaJ6
+PacketstormSecurity,Voltage SecureMail Server Business Logic Bypass,https://packetstormsecurity.com/files/165876/voltagesm-bypass.txt,https://bit.ly/3gqw6m4
+PacketstormSecurity,Korenix Technology JetWave CSRF / Command Injection / Missing Authentication,https://packetstormsecurity.com/files/165875/SA-20220131-0.txt,https://bit.ly/3rpFbSG
+PacketstormSecurity,WAGO 750-8xxx PLC Denial Of Service / User Enumeration,https://packetstormsecurity.com/files/165874/SA-20220126-0.txt,https://bit.ly/34cGLyz
+PacketstormSecurity,Servisnet Tessa Privilege Escalation,https://packetstormsecurity.com/files/165873/servisnettessa-escalate.rb.txt,https://bit.ly/3B244XB
+PacketstormSecurity,WBCE CMS 1.5.2 Remote Code Execution,https://packetstormsecurity.com/files/165871/wbcecms152-exec.txt,https://bit.ly/333ndMs
+PacketstormSecurity,Red Hat Security Advisory 2022-0438-02,https://packetstormsecurity.com/files/165868/RHSA-2022-0438-02.txt,https://bit.ly/3ru77oy
+PacketstormSecurity,Servisnet Tessa MQTT Credential Disclosure,https://packetstormsecurity.com/files/165867/servisnettessa-disclose.rb.txt,https://bit.ly/34ziS3Q
+PacketstormSecurity,Red Hat Security Advisory 2022-0435-03,https://packetstormsecurity.com/files/165866/RHSA-2022-0435-03.txt,https://bit.ly/35FpyOo
+PacketstormSecurity,Red Hat Security Advisory 2022-0439-02,https://packetstormsecurity.com/files/165865/RHSA-2022-0439-02.txt,https://bit.ly/3AVqnhL
+PacketstormSecurity,Red Hat Security Advisory 2022-0437-03,https://packetstormsecurity.com/files/165864/RHSA-2022-0437-03.txt,https://bit.ly/35PO9Ah
+PacketstormSecurity,Servisnet Tessa Authentication Bypass,https://packetstormsecurity.com/files/165863/servisnettessa-adduser.rb.txt,https://bit.ly/3AWtV3k
+PacketstormSecurity,Red Hat Security Advisory 2022-0434-05,https://packetstormsecurity.com/files/165862/RHSA-2022-0434-05.txt,https://bit.ly/34iSZFB
+PacketstormSecurity,Red Hat Security Advisory 2022-0436-03,https://packetstormsecurity.com/files/165861/RHSA-2022-0436-03.txt,https://bit.ly/3omjVLp
+PacketstormSecurity,FLAME II MODEM USB Unquoted Service Path,https://packetstormsecurity.com/files/165860/flameii-unquotedpath.txt,https://bit.ly/3gqw6T6
+PacketstormSecurity,Red Hat Security Advisory 2022-0421-02,https://packetstormsecurity.com/files/165859/RHSA-2022-0421-02.txt,https://bit.ly/34tNALL
+PacketstormSecurity,Red Hat Security Advisory 2022-0422-02,https://packetstormsecurity.com/files/165858/RHSA-2022-0422-02.txt,https://bit.ly/3rpF6ym
+PacketstormSecurity,WordPress IP2Location Country Blocker 2.26.7 Cross Site Scripting,https://packetstormsecurity.com/files/165857/wpip2locationcb226-xss.txt,https://bit.ly/3L3rhNI
+PacketstormSecurity,Red Hat Security Advisory 2022-0431-06,https://packetstormsecurity.com/files/165856/RHSA-2022-0431-06.txt,https://bit.ly/3HvA74C
+PacketstormSecurity,Red Hat Security Advisory 2022-0430-03,https://packetstormsecurity.com/files/165855/RHSA-2022-0430-03.txt,https://bit.ly/3oLUiUT
+PacketstormSecurity,Red Hat Security Advisory 2022-0420-02,https://packetstormsecurity.com/files/165854/RHSA-2022-0420-02.txt,https://bit.ly/3usN5MW
