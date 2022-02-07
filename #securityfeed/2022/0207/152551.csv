@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-36177 (fortiauthenticator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-36177,https://bit.ly/3J42MOw
+NVD-NIST,CVE-2021-41016 (fortiextender_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-41016,https://bit.ly/34He9Nt
+NVD-NIST,CVE-2021-42753 (fortiweb),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42753,https://bit.ly/34HJaRm
+NVD-NIST,"CVE-2021-44247 (a3100r_firmware, a720r_firmware, a830r_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44247,https://bit.ly/3LqWNWi
+NVD-NIST,CVE-2022-24151 (ax3_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24151,https://bit.ly/3B1PTSk
+NVD-NIST,CVE-2022-24157 (ax3_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24157,https://bit.ly/3GxVtwU
