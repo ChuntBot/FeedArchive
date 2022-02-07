@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2021-24043 (whatsapp, whatsapp_business)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-24043,https://bit.ly/3grfACy
+NVD-NIST,CVE-2021-42633 (web_stack),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42633,https://bit.ly/35Q06Wt
+NVD-NIST,CVE-2021-44880 (dir-878_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44880,https://bit.ly/3rxscOC
+NVD-NIST,CVE-2021-44881 (dir-882_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44881,https://bit.ly/3gvmpmt
+NVD-NIST,CVE-2021-44882 (dir-878_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44882,https://bit.ly/34Ij0OI
+NVD-NIST,CVE-2022-21724 (pgjdbc),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21724,https://bit.ly/3uNHn8L
+NVD-NIST,CVE-2022-22818 (django),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22818,https://bit.ly/3LjMzXJ
+NVD-NIST,CVE-2022-23357 (mozilo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23357,https://bit.ly/3HDn01A
+NVD-NIST,CVE-2022-23833 (django),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23833,https://bit.ly/3oxyV9p
+NVD-NIST,CVE-2022-23871 (gibbon),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23871,https://bit.ly/3rwy8HD
