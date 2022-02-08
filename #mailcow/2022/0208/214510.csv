@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Fall back to empty string if WATCHDOG_NOTIFY_EMAIL undefined (#4457),https://github.com/mailcow/mailcow-dockerized/commit/59af0b3b794bec8b16bcf0d27139a14364b243d7,https://bit.ly/3ryt71u
