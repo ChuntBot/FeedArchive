@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rhcw-wjcm-9h6g] Denial of service in Undertow,https://github.com/advisories/GHSA-rhcw-wjcm-9h6g,https://bit.ly/3JjHNHX
+GithubAdvisories,[GHSA-54g4-5cf6-hjp3] Exposure of Sensitive Information to an Unauthorized Actor and Observable Timing Discrepancy in Apache Hive,https://github.com/advisories/GHSA-54g4-5cf6-hjp3,https://bit.ly/3oBNJ7c
+GithubAdvisories,[GHSA-cmx4-p4v5-hmr5] Server-side request forgery (SSRF) in Apache Batik,https://github.com/advisories/GHSA-cmx4-p4v5-hmr5,https://bit.ly/3suF1se
+GithubAdvisories,[GHSA-fmj2-7wx8-qj4v] Server-side request forgery (SSRF) in Apache XmlGraphics Commons,https://github.com/advisories/GHSA-fmj2-7wx8-qj4v,https://bit.ly/34LmpMI
+GithubAdvisories,[GHSA-2hjr-fg6c-v2h6] Unauthorized access to Class instance in Jinjava,https://github.com/advisories/GHSA-2hjr-fg6c-v2h6,https://bit.ly/3LmYWST
