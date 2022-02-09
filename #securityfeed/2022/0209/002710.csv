@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rcwj-2hj2-vmjj] Insufficient Session Expiration in Apache NiFi Registry,https://github.com/advisories/GHSA-rcwj-2hj2-vmjj,https://bit.ly/34LjzY4
+GithubAdvisories,[GHSA-h39q-95q5-9jfp] OS Command Injection in ansible,https://github.com/advisories/GHSA-h39q-95q5-9jfp,https://bit.ly/3HK6Y68
