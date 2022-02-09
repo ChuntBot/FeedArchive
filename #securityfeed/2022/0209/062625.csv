@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-23470 (putil-merge),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23470,https://bit.ly/3rxSFMa
+NVD-NIST,CVE-2021-36151 (gobblin),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-36151,https://bit.ly/3GBToQK
+NVD-NIST,CVE-2021-36152 (gobblin),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-36152,https://bit.ly/3rBpBDu
+NVD-NIST,CVE-2021-38130 (voltage_securemail),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38130,https://bit.ly/3rzU2d5
+NVD-NIST,"CVE-2021-38960 (power_hardware_management_console_(7063-cr2)_firmware, power_system_ac922_(8335-gth)_firmware, power_system_ac922_(8335-gtx)_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38960,https://bit.ly/3GDQcEj
+NVD-NIST,CVE-2021-4043 (gpac),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-4043,https://bit.ly/3B8eoxm
+NVD-NIST,CVE-2021-44779 ([gwa]_autoresponder),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44779,https://bit.ly/3LnMvWE
+NVD-NIST,CVE-2021-45408 (seeddms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-45408,https://bit.ly/35NIF91
+NVD-NIST,CVE-2021-45429 (yara),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-45429,https://bit.ly/361TS6b
+NVD-NIST,"CVE-2021-46671 (atftp, debian_linux)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-46671,https://bit.ly/3HD1OZj
+NVD-NIST,CVE-2022-0218 (wordpress_email_template_designer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0218,https://bit.ly/3JkaXXr
+NVD-NIST,"CVE-2022-0365 (s9922l_firmware, s9922xl_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0365,https://bit.ly/3JaXO2I
+NVD-NIST,CVE-2022-23329 (jspxcms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23329,https://bit.ly/3HT99Ex
+NVD-NIST,CVE-2022-23330 (jpress),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23330,https://bit.ly/34DDjwB
+NVD-NIST,CVE-2022-24249 (gpac),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24249,https://bit.ly/3HFn5BQ
