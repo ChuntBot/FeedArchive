@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2vxm-vp4c-fjfw] Authentication Bypass in Apache Cassandra,https://github.com/advisories/GHSA-2vxm-vp4c-fjfw,https://bit.ly/3spGGiU
+GithubAdvisories,[GHSA-j229-2h63-rvh9] Improper Authentication for Keycloak,https://github.com/advisories/GHSA-j229-2h63-rvh9,https://bit.ly/3HDbcwd
+GithubAdvisories,[GHSA-rvfc-g8j5-9ccf] Generation of Error Message Containing Sensitive Information in keybloack,https://github.com/advisories/GHSA-rvfc-g8j5-9ccf,https://bit.ly/3LhJV4B
+GithubAdvisories,[GHSA-p225-pc2x-4jpm] Incorrect Authorization in keycloak,https://github.com/advisories/GHSA-p225-pc2x-4jpm,https://bit.ly/3ozBPKY
+GithubAdvisories,[GHSA-484q-784p-8m5h] Cross-site Scripting in keycloak,https://github.com/advisories/GHSA-484q-784p-8m5h,https://bit.ly/3sKCqLh
+GithubAdvisories,[GHSA-cp67-8w3w-6h9c] Path Traversal,https://github.com/advisories/GHSA-cp67-8w3w-6h9c,https://bit.ly/3LiX5OM
+GithubAdvisories,[GHSA-72j4-94rx-cr6w] Incorrect Permission Assignment for Critical Resource and Permissive List of Allowed Inputs in Keycloak,https://github.com/advisories/GHSA-72j4-94rx-cr6w,https://bit.ly/3LnnyKY
+GithubAdvisories,[GHSA-52rg-hpwq-qp56] Allocation of Resources Without Limits or Throttling in Keycloak,https://github.com/advisories/GHSA-52rg-hpwq-qp56,https://bit.ly/3Jc1vVH
+GithubAdvisories,[GHSA-hgpg-593r-hhvp] Cross-site Scripting in Keycloak,https://github.com/advisories/GHSA-hgpg-593r-hhvp,https://bit.ly/3rDhA12
+GithubAdvisories,[GHSA-c597-f74m-jgc2] Improper Certificate Validation and Improper Validation of Certificate with Host Mismatch in Keycloak,https://github.com/advisories/GHSA-c597-f74m-jgc2,https://bit.ly/3skjHG0
+GithubAdvisories,[GHSA-m6mm-q862-j366] Improper Input Validation in Keycloak,https://github.com/advisories/GHSA-m6mm-q862-j366,https://bit.ly/3oysovc
+GithubAdvisories,[GHSA-jh6m-3pqw-242h] Authentication Bypass by Primary Weakness in keycloak,https://github.com/advisories/GHSA-jh6m-3pqw-242h,https://bit.ly/3gvBhkO
