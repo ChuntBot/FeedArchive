@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v6fq-q792-j46j] Improper Input Validation in Apache Unomi,https://github.com/advisories/GHSA-v6fq-q792-j46j,https://bit.ly/3GzdmeN
+GithubAdvisories,[GHSA-j346-h5wc-rw2m] Incorrect Authorization in Apache Solr,https://github.com/advisories/GHSA-j346-h5wc-rw2m,https://bit.ly/3GzdlaJ
+GithubAdvisories,[GHSA-v6wh-2wvh-c8x5] Regular Expression Denial of Service in djvalidator,https://github.com/advisories/GHSA-v6wh-2wvh-c8x5,https://bit.ly/3oCgIb3
+GithubAdvisories,[GHSA-8j36-q8x7-pm6q] OS Command Injection in systeminformation,https://github.com/advisories/GHSA-8j36-q8x7-pm6q,https://bit.ly/3GzdlHL
+GithubAdvisories,[GHSA-ph76-rhqq-xj7j] Cross-site scripting in Crafter CMS Crafter Studio,https://github.com/advisories/GHSA-ph76-rhqq-xj7j,https://bit.ly/3sxspkc
+GithubAdvisories,[GHSA-f68h-hfqp-8rmv] Path Traversal in Crafter CMS Crafter Studio,https://github.com/advisories/GHSA-f68h-hfqp-8rmv,https://bit.ly/3oYLRWn
+GithubAdvisories,[GHSA-5hr6-vc97-qxxh] XML Injection in Crafter CMS Crafter Studio 3.0.1,https://github.com/advisories/GHSA-5hr6-vc97-qxxh,https://bit.ly/3gyiF3N
+GithubAdvisories,[GHSA-7c6q-jqwc-4423] Path Traversal in Crafter CMS Crafter Studio,https://github.com/advisories/GHSA-7c6q-jqwc-4423,https://bit.ly/3LmuJ6a
+GithubAdvisories,[GHSA-wq3v-3grq-6f86] Improper Control of Dynamically-Managed Code Resources in Crafter CMS Crafter Studio,https://github.com/advisories/GHSA-wq3v-3grq-6f86,https://bit.ly/3uFokxi
+GithubAdvisories,[GHSA-8786-wg74-f522] Improper Control of Dynamically-Managed Code Resources in Crafter CMS Crafter Studio,https://github.com/advisories/GHSA-8786-wg74-f522,https://bit.ly/3JjvdYS
+GithubAdvisories,[GHSA-q42q-523g-3fwv] Cross-Site Request Forgery,https://github.com/advisories/GHSA-q42q-523g-3fwv,https://bit.ly/3oCJqZd
+GithubAdvisories,[GHSA-gc58-v8h3-x2gr] Incorrect Default Permissions in Apache Tomcat,https://github.com/advisories/GHSA-gc58-v8h3-x2gr,https://bit.ly/34sIkZ2
+GithubAdvisories,[GHSA-f268-65qc-98vg] Exposure of Sensitive Information to an Unauthorized Actor in Apache Tomcat,https://github.com/advisories/GHSA-f268-65qc-98vg,https://bit.ly/34Lx6i2
+GithubAdvisories,[GHSA-vf77-8h7g-gghp] Improper Restriction of Operations within the Bounds of a Memory Buffer in Apache Tomcat,https://github.com/advisories/GHSA-vf77-8h7g-gghp,https://bit.ly/3uEHzGX
+GithubAdvisories,[GHSA-m7jv-hq7h-mq7c] Infinite Loop in Apache Tomcat,https://github.com/advisories/GHSA-m7jv-hq7h-mq7c,https://bit.ly/3uJMRkR
+GithubAdvisories,[GHSA-53hp-jpwq-2jgq] Uncontrolled Resource Consumption in Apache Tomcat,https://github.com/advisories/GHSA-53hp-jpwq-2jgq,https://bit.ly/339pENm
+GithubAdvisories,[GHSA-vvw4-rfwf-p6hx] Exposure of Sensitive Information to an Unauthorized Actor in Apache Tomcat,https://github.com/advisories/GHSA-vvw4-rfwf-p6hx,https://bit.ly/3gyjIkj
+GithubAdvisories,[GHSA-j8jw-g6fq-mp7h] SQL injection in hibernate-core,https://github.com/advisories/GHSA-j8jw-g6fq-mp7h,https://bit.ly/3Ji1EHu
+GithubAdvisories,[GHSA-8674-26jc-wh98] Improper Access Control in infinispan-server-runtime,https://github.com/advisories/GHSA-8674-26jc-wh98,https://bit.ly/3B7FNzy
+GithubAdvisories,[GHSA-v9mf-jgq3-c28h] Data Amplification in Play Framework,https://github.com/advisories/GHSA-v9mf-jgq3-c28h,https://bit.ly/34Lx6yy
