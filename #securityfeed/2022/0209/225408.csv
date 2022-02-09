@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jc35-q369-45pv] Remote code execution in Apache Struts,https://github.com/advisories/GHSA-jc35-q369-45pv,https://bit.ly/3oBY03k
+GithubAdvisories,[GHSA-c566-2grg-mjwg] Serialization vulnerability in Apache Tapestry,https://github.com/advisories/GHSA-c566-2grg-mjwg,https://bit.ly/3LlPor6
+GithubAdvisories,[GHSA-926x-m6m5-3mmp] OS Command Injection,https://github.com/advisories/GHSA-926x-m6m5-3mmp,https://bit.ly/3HIXOGI
+GithubAdvisories,[GHSA-hjxc-462x-x77j] TOCTOU Race Condition in Yarn,https://github.com/advisories/GHSA-hjxc-462x-x77j,https://bit.ly/3Lj98vH
+GithubAdvisories,[GHSA-pc58-wgmc-hfjr] Prototype Pollution in mout,https://github.com/advisories/GHSA-pc58-wgmc-hfjr,https://bit.ly/3oBTqSo
+GithubAdvisories,[GHSA-394c-5j6w-4xmx] Regular Expression Denial of Service (ReDoS) in ua-parser-js,https://github.com/advisories/GHSA-394c-5j6w-4xmx,https://bit.ly/3gCWkSu
+GithubAdvisories,[GHSA-mqgv-67vx-g4m5] Prototype Pollution in js-data,https://github.com/advisories/GHSA-mqgv-67vx-g4m5,https://bit.ly/3B9f2e7
+GithubAdvisories,[GHSA-jpj4-5xwp-cv23] Remote code execution in DolphinScheduler,https://github.com/advisories/GHSA-jpj4-5xwp-cv23,https://bit.ly/3LgaVRY
+GithubAdvisories,[GHSA-mp28-rq7g-qx62] Remote code execution in Apache TomEE,https://github.com/advisories/GHSA-mp28-rq7g-qx62,https://bit.ly/3LjEF0m
+GithubAdvisories,[GHSA-8mfc-v7wv-p62g] Path Traversal in Yarn,https://github.com/advisories/GHSA-8mfc-v7wv-p62g,https://bit.ly/3Bc80VP
+GithubAdvisories,[GHSA-h87q-g2wp-47pj] Signatures are mistakenly recognized to be valid in jsrsasign,https://github.com/advisories/GHSA-h87q-g2wp-47pj,https://bit.ly/3B7CwAh
+GithubAdvisories,[GHSA-grc3-8q8m-4j7c] Improper privilege handling in Apache Accumulo,https://github.com/advisories/GHSA-grc3-8q8m-4j7c,https://bit.ly/3oEJRCq
+GithubAdvisories,[GHSA-3mqv-8gxg-pfm4] Cross-site scripting in twitter-server,https://github.com/advisories/GHSA-3mqv-8gxg-pfm4,https://bit.ly/3uAHnIY
+GithubAdvisories,[GHSA-rvpc-w57p-q95f] HTTP Response Splitting in WSO2 transport-http,https://github.com/advisories/GHSA-rvpc-w57p-q95f,https://bit.ly/3oDEQtB
+GithubAdvisories,[GHSA-332q-7ff2-57h2] Injection in undefsafe,https://github.com/advisories/GHSA-332q-7ff2-57h2,https://bit.ly/34vqmFp
+GithubAdvisories,[GHSA-j9cf-pr2x-5273] Injection in dot-object,https://github.com/advisories/GHSA-j9cf-pr2x-5273,https://bit.ly/3uEEjLJ
+GithubAdvisories,[GHSA-p93c-h8qm-7256] Improper escaping in XWiki Platform,https://github.com/advisories/GHSA-p93c-h8qm-7256,https://bit.ly/3HVnAYJ
+GithubAdvisories,[GHSA-7q5g-gph2-4rc6] Upload of file to arbitrary path in Apache Flink,https://github.com/advisories/GHSA-7q5g-gph2-4rc6,https://bit.ly/3HRTPYo
+GithubAdvisories,[GHSA-j4f2-536g-r55m] Resource exhaustion in engine.io,https://github.com/advisories/GHSA-j4f2-536g-r55m,https://bit.ly/3Lgb5sy
+GithubAdvisories,[GHSA-74mg-6xqx-2vrq] Deserialization exploitation in Apache Dubbo,https://github.com/advisories/GHSA-74mg-6xqx-2vrq,https://bit.ly/3uJIZ3j
+GithubAdvisories,[GHSA-qhh5-9738-g9mx] Incorrect Default Permissions in Apache DolphinScheduler,https://github.com/advisories/GHSA-qhh5-9738-g9mx,https://bit.ly/3oyWheL
+GithubAdvisories,[GHSA-ppc3-fpvh-7396] Improper synchronization in Apache Netbeans HTML/Java API,https://github.com/advisories/GHSA-ppc3-fpvh-7396,https://bit.ly/3uEEkiL
+GithubAdvisories,[GHSA-r8f7-9pfq-mjmv] Improper Certificate Validation in node-sass,https://github.com/advisories/GHSA-r8f7-9pfq-mjmv,https://bit.ly/3LpdS2E
