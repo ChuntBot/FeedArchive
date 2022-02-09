@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-22284 (opc_server_for_ac_800m),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22284,https://bit.ly/3BbCCXB
+NVD-NIST,CVE-2021-23497 (set),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23497,https://bit.ly/34IC2Ew
+NVD-NIST,CVE-2021-23507 (object-path-set),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23507,https://bit.ly/3rFmwT6
+NVD-NIST,CVE-2021-40401 (gerbv),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-40401,https://bit.ly/3oDVVnj
+NVD-NIST,CVE-2021-40403 (gerbv),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-40403,https://bit.ly/3uEMKH4
+NVD-NIST,CVE-2021-40420 (pdf_reader),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-40420,https://bit.ly/3owUyH5
+NVD-NIST,"CVE-2021-44205 (cyber_protect_home_office, true_image)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44205,https://bit.ly/3HAosl8
+NVD-NIST,"CVE-2021-44206 (cyber_protect_home_office, true_image)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44206,https://bit.ly/3BaIn7U
+NVD-NIST,CVE-2022-0317 (go-attestation),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0317,https://bit.ly/3Bhu9SH
+NVD-NIST,CVE-2022-23558 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23558,https://bit.ly/3oymUjZ
+NVD-NIST,CVE-2022-23559 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23559,https://bit.ly/3HKdV71
+NVD-NIST,CVE-2022-23560 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23560,https://bit.ly/34FmjWN
+NVD-NIST,CVE-2022-23561 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23561,https://bit.ly/3BbCDe7
+NVD-NIST,CVE-2022-23562 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23562,https://bit.ly/3BbUktO
+NVD-NIST,CVE-2022-23563 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23563,https://bit.ly/3sAqnjA
+NVD-NIST,CVE-2022-23564 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23564,https://bit.ly/3rAYo3R
+NVD-NIST,CVE-2022-23565 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23565,https://bit.ly/3uEbYp1
+NVD-NIST,CVE-2022-24262 (voipmonitor),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24262,https://bit.ly/3GFKUIq
