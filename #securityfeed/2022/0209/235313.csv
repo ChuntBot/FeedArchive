@@ -1,0 +1,31 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4v5p-v5h9-6xjx] `CHECK`-failures in Tensorflow,https://github.com/advisories/GHSA-4v5p-v5h9-6xjx,https://bit.ly/3gCRe94
+GithubAdvisories,[GHSA-gf2j-f278-xh4v] Division by zero in TFLite,https://github.com/advisories/GHSA-gf2j-f278-xh4v,https://bit.ly/3oytRle
+GithubAdvisories,[GHSA-428x-9xc2-m8mj] Division by zero in TFLite,https://github.com/advisories/GHSA-428x-9xc2-m8mj,https://bit.ly/3JhuRCd
+GithubAdvisories,[GHSA-44qp-9wwf-734r] Heap overflow in Tensorflow,https://github.com/advisories/GHSA-44qp-9wwf-734r,https://bit.ly/3LldBhb
+GithubAdvisories,[GHSA-3mw4-6rj6-74g5] Null pointer dereference in TensorFlow,https://github.com/advisories/GHSA-3mw4-6rj6-74g5,https://bit.ly/3st8bbs
+GithubAdvisories,[GHSA-x4qx-4fjv-hmw6] Integer overflow leading to crash in Tensorflow,https://github.com/advisories/GHSA-x4qx-4fjv-hmw6,https://bit.ly/3JdLkaw
+GithubAdvisories,[GHSA-f2vv-v9cg-qhh7] Assertion failure based denial of service in Tensorflow,https://github.com/advisories/GHSA-f2vv-v9cg-qhh7,https://bit.ly/3LygyeC
+GithubAdvisories,[GHSA-pfjj-m3jj-9jc9] Undefined behavior in `SparseTensorSliceDataset`,https://github.com/advisories/GHSA-pfjj-m3jj-9jc9,https://bit.ly/3JdLkHy
+GithubAdvisories,[GHSA-rrx2-r989-2c43] Integer overflows in Tensorflow,https://github.com/advisories/GHSA-rrx2-r989-2c43,https://bit.ly/3uAO9OU
+GithubAdvisories,[GHSA-6445-fm66-fvq2] Integer overflows in Tensorflow,https://github.com/advisories/GHSA-6445-fm66-fvq2,https://bit.ly/3JdLleA
+GithubAdvisories,[GHSA-qj5r-f9mv-rffh] `CHECK`-fails when building invalid tensor shapes in Tensorflow,https://github.com/advisories/GHSA-qj5r-f9mv-rffh,https://bit.ly/3679RA1
+GithubAdvisories,[GHSA-h6gw-r52c-724r] NULL Pointer Dereference and Access of Uninitialized Pointer in TensorFlow,https://github.com/advisories/GHSA-h6gw-r52c-724r,https://bit.ly/34R4t3m
+GithubAdvisories,[GHSA-43q8-3fv7-pr5x] Improper Validation of Integrity Check Value in TensorFlow,https://github.com/advisories/GHSA-43q8-3fv7-pr5x,https://bit.ly/3Bdcg7K
+GithubAdvisories,[GHSA-wcv5-vrvr-3rx2] Integer Overflow or Wraparound in TensorFlow,https://github.com/advisories/GHSA-wcv5-vrvr-3rx2,https://bit.ly/3gDZBBb
+GithubAdvisories,[GHSA-9p77-mmrw-69c7] Null-dereference in Tensorflow,https://github.com/advisories/GHSA-9p77-mmrw-69c7,https://bit.ly/3BadWi4
+GithubAdvisories,[GHSA-fpcp-9h7m-ffpx] Null pointer dereference in TensorFlow,https://github.com/advisories/GHSA-fpcp-9h7m-ffpx,https://bit.ly/34LsRTG
+GithubAdvisories,[GHSA-9x52-887g-fhc2] Out of bounds read in Tensorflow,https://github.com/advisories/GHSA-9x52-887g-fhc2,https://bit.ly/3stSyR9
+GithubAdvisories,[GHSA-gwcx-jrx4-92w2] Segfault in `simplifyBroadcast` in Tensorflow,https://github.com/advisories/GHSA-gwcx-jrx4-92w2,https://bit.ly/3oEW1v3
+GithubAdvisories,[GHSA-vq36-27g6-p492] Out of bounds read in Tensorflow,https://github.com/advisories/GHSA-vq36-27g6-p492,https://bit.ly/3uEQKrc
+GithubAdvisories,[GHSA-247x-2f9f-5wp7] Stack overflow in TensorFlow,https://github.com/advisories/GHSA-247x-2f9f-5wp7,https://bit.ly/3B8Dv3c
+GithubAdvisories,[GHSA-pqrv-8r2f-7278] Crash due to erroneous `StatusOr` in TensorFlow,https://github.com/advisories/GHSA-pqrv-8r2f-7278,https://bit.ly/3HFmeRr
+GithubAdvisories,[GHSA-9px9-73fg-3fqp] Null pointer dereference in Grappler's `IsConstant`,https://github.com/advisories/GHSA-9px9-73fg-3fqp,https://bit.ly/3rF1jZg
+GithubAdvisories,[GHSA-j3mj-fhpq-qqjj] Reachable Assertion in Tensorflow,https://github.com/advisories/GHSA-j3mj-fhpq-qqjj,https://bit.ly/3oEW225
+GithubAdvisories,[GHSA-rww7-2gpw-fv6j] Crash when type cannot be specialized in Tensorflow,https://github.com/advisories/GHSA-rww7-2gpw-fv6j,https://bit.ly/3rGl3Mh
+GithubAdvisories,[GHSA-fx5c-h9f6-rv7c] `CHECK`-fails due to attempting to build a reference tensor,https://github.com/advisories/GHSA-fx5c-h9f6-rv7c,https://bit.ly/3GEnTWh
+GithubAdvisories,[GHSA-8jj7-5vxc-pg2q] Integer overflow in TensorFlow,https://github.com/advisories/GHSA-8jj7-5vxc-pg2q,https://bit.ly/3GDUo74
+GithubAdvisories,[GHSA-43jf-985q-588j] Multiple `CHECK`-fails in `function.cc` in TensowFlow,https://github.com/advisories/GHSA-43jf-985q-588j,https://bit.ly/3rEEEMQ
+GithubAdvisories,[GHSA-q85f-69q7-55h2] Uninitialized variable access in Tensorflow,https://github.com/advisories/GHSA-q85f-69q7-55h2,https://bit.ly/3HFIgDT
+GithubAdvisories,[GHSA-fq6p-6334-8gr4] Memory leak in decoding PNG images,https://github.com/advisories/GHSA-fq6p-6334-8gr4,https://bit.ly/3rBO0ZI
+GithubAdvisories,[GHSA-77gp-3h4r-6428] Out of bounds read and write in Tensorflow,https://github.com/advisories/GHSA-77gp-3h4r-6428,https://bit.ly/34Oyqkc
