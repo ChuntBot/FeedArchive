@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rcvx-rmvf-mxch] Cross-site Scripting in Eclipse Hawkbit,https://github.com/advisories/GHSA-rcvx-rmvf-mxch,https://bit.ly/3GE9B85
+GithubAdvisories,[GHSA-px4w-rcv2-6x8x] Arbitrary code execution in Apache ServiceComb java-chassis,https://github.com/advisories/GHSA-px4w-rcv2-6x8x,https://bit.ly/3HGAUQs
+GithubAdvisories,[GHSA-h3hw-g4hm-7gr4] SQL injection without credentials in ming-soft MCMS,https://github.com/advisories/GHSA-h3hw-g4hm-7gr4,https://bit.ly/3oElUel
+GithubAdvisories,[GHSA-f8vc-wfc8-hxqh] Improper Privilege Management in Apache Hadoop,https://github.com/advisories/GHSA-f8vc-wfc8-hxqh,https://bit.ly/3Jekm2y
+GithubAdvisories,[GHSA-878w-7gxp-mc63] SQL Injection in Spring Cloud Task,https://github.com/advisories/GHSA-878w-7gxp-mc63,https://bit.ly/3oyO1eL
+GithubAdvisories,[GHSA-xgrx-xpv2-6vp4] Improper Authentication in Apache ActiveMQ,https://github.com/advisories/GHSA-xgrx-xpv2-6vp4,https://bit.ly/3rBnBLx
+GithubAdvisories,[GHSA-wqfh-9m4g-7x6x] Remote code execution in Apache ActiveMQ,https://github.com/advisories/GHSA-wqfh-9m4g-7x6x,https://bit.ly/3Jgxu7f
+GithubAdvisories,[GHSA-3h2h-xqr2-2jp7] Cross-site Scripting (XSS) in Apache ActiveMQ Artemis,https://github.com/advisories/GHSA-3h2h-xqr2-2jp7,https://bit.ly/3B8mR3I
+GithubAdvisories,[GHSA-qh2g-7h5p-mxf4] Credentials bypass in Apache Druid,https://github.com/advisories/GHSA-qh2g-7h5p-mxf4,https://bit.ly/34NKGl1
+GithubAdvisories,[GHSA-v98j-7crc-wvrj] Authentication bypass in Apache Shiro,https://github.com/advisories/GHSA-v98j-7crc-wvrj,https://bit.ly/3sqzkvH
+GithubAdvisories,[GHSA-66gw-ch5v-74v8] Cross-site scripting (XSS) in Apache ActiveMQ,https://github.com/advisories/GHSA-66gw-ch5v-74v8,https://bit.ly/3rDw6pf
+GithubAdvisories,[GHSA-785x-qw4v-6872] Improper Output Neutralization and Improper Encoding or Escaping of Output for Logs in ansible,https://github.com/advisories/GHSA-785x-qw4v-6872,https://bit.ly/3Ln6oNx
+GithubAdvisories,[GHSA-f85h-23mf-2fwh] Argument Injection in Ansible,https://github.com/advisories/GHSA-f85h-23mf-2fwh,https://bit.ly/34LkgjQ
+GithubAdvisories,[GHSA-x7jh-595q-wq82] Incorrect Permission Assignment for Critical Resource in Ansible,https://github.com/advisories/GHSA-x7jh-595q-wq82,https://bit.ly/3LnwArn
+GithubAdvisories,[GHSA-vp9j-rghq-8jhh] Exposure of Resource to Wrong Sphere and Insecure Temporary File in Ansible,https://github.com/advisories/GHSA-vp9j-rghq-8jhh,https://bit.ly/3gCqTrq
+GithubAdvisories,[GHSA-j667-c2hm-f2wp] Insertion of Sensitive Information into Log File and Improper Output Neutralization for Logs in ansible,https://github.com/advisories/GHSA-j667-c2hm-f2wp,https://bit.ly/34FLOqZ
