@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2021-22285 (pni800_firmware, spiet800_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22285,https://bit.ly/3gCh78I
+NVD-NIST,"CVE-2021-22286 (pni800_firmware, spiet800_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22286,https://bit.ly/3uAhCbB
+NVD-NIST,"CVE-2021-22288 (pni800_firmware, spiet800_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22288,https://bit.ly/3rDnzTf
+NVD-NIST,CVE-2021-28503 (eos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-28503,https://bit.ly/3sx4Sjo
+NVD-NIST,"CVE-2021-29219 (flexnetwork_5130_jg932a_firmware, flexnetwork_5130_jg933a_firmware, flexnetwork_5130_jg934a_firmware, flexnetwork_5130_jg936a_firmware, flexnetwork_5130_jg937a_firmware, flexnetwork_5130_jg940a_firmware, flexnetwork_5130_jg941a_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29219,https://bit.ly/3gxXsXJ
+NVD-NIST,CVE-2021-32036 (mongodb),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-32036,https://bit.ly/3LgSBZ7
+NVD-NIST,"CVE-2021-44204 (agent, cyber_protect, cyber_protect_home_office, true_image)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44204,https://bit.ly/3gFrLLS
+NVD-NIST,CVE-2022-0484 (container_cloud_lens_extension),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0484,https://bit.ly/3rDnEX3
+NVD-NIST,"CVE-2022-0487 (enterprise_linux, linux_kernel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0487,https://bit.ly/3uxXuqK
+NVD-NIST,CVE-2022-22987 (adam-3600_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22987,https://bit.ly/3oCJk3M
+NVD-NIST,CVE-2022-23379 (emlog),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23379,https://bit.ly/3rCniQs
+NVD-NIST,CVE-2022-23557 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23557,https://bit.ly/3gBTtJy
