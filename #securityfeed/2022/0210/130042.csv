@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] WordPress Plugin Jetpack 9.1 - Cross Site Scripting (XSS),https://www.exploit-db.com/exploits/50735,https://bit.ly/3gFhqQl
+ExploitDB,[webapps] WordPress Plugin Contact Form Builder 1.6.1 - Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50734,https://bit.ly/3uF3vSl
+ExploitDB,[webapps] WordPress Plugin Secure Copy Content Protection and Content Locking 2.8.1 - SQL-Injection (Unauthenticated),https://www.exploit-db.com/exploits/50733,https://bit.ly/3rFX3Ja
+ExploitDB,[webapps] Home Owners Collection Management System 1.0 - 'id' Blind SQL Injection,https://www.exploit-db.com/exploits/50732,https://bit.ly/3Lornjf
+ExploitDB,[webapps] Home Owners Collection Management System 1.0 - Remote Code Execution (RCE) (Authenticated),https://www.exploit-db.com/exploits/50731,https://bit.ly/34xjqHV
+ExploitDB,[webapps] Home Owners Collection Management System 1.0 - Account Takeover (Unauthenticated),https://www.exploit-db.com/exploits/50730,https://bit.ly/3JcqwQG
+ExploitDB,[webapps] Hospital Management Startup 1.0 - 'Multiple' SQLi,https://www.exploit-db.com/exploits/50729,https://bit.ly/3Ji8Lzr
+ExploitDB,[local] Cain & Abel 4.9.56 - Unquoted Service Path,https://www.exploit-db.com/exploits/50728,https://bit.ly/3oH99Qb
