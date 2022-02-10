@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5888-ffcr-r425] Prototype Pollution leading to Remote Code Execution in superjson,https://github.com/advisories/GHSA-5888-ffcr-r425,https://bit.ly/3BcMwYU
+GithubAdvisories,[GHSA-p5gm-fgfx-hr7h] Gadget chain attack in Nippy,https://github.com/advisories/GHSA-p5gm-fgfx-hr7h,https://bit.ly/365hHKl
+GithubAdvisories,[GHSA-rhg5-fqr3-hrf5] Injection in DeltaSpike,https://github.com/advisories/GHSA-rhg5-fqr3-hrf5,https://bit.ly/3uGi7AV
+GithubAdvisories,[GHSA-h6xq-3h62-99qx] Cross-site scripting in Apache Atlas,https://github.com/advisories/GHSA-h6xq-3h62-99qx,https://bit.ly/3sA1ft9
+GithubAdvisories,[GHSA-wc4x-4gm2-74j8] Improper Certificate Validation in Apache Geode,https://github.com/advisories/GHSA-wc4x-4gm2-74j8,https://bit.ly/3uGWCjJ
+GithubAdvisories,[GHSA-pj4j-287j-f742] Cross-site Scripting in Contao,https://github.com/advisories/GHSA-pj4j-287j-f742,https://bit.ly/3HH5Dg8
+GithubAdvisories,[GHSA-6566-9526-52v6] Exposure of Sensitive Information to an Unauthorized Actor in Concord,https://github.com/advisories/GHSA-6566-9526-52v6,https://bit.ly/3Blx2SE
+GithubAdvisories,[GHSA-j7m2-58wv-9v79] Vulnerability in Torpedo Query,https://github.com/advisories/GHSA-j7m2-58wv-9v79,https://bit.ly/3GLE1VU
+GithubAdvisories,[GHSA-c7f6-4vx5-4263] Unrestricted Upload of File with Dangerous Type in Liferay Portal and Liferay DXP,https://github.com/advisories/GHSA-c7f6-4vx5-4263,https://bit.ly/3BrnF3X
