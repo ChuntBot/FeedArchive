@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v54f-xcmp-43cr] Deserialization of Untrusted Data in Apache ShardingSphere,https://github.com/advisories/GHSA-v54f-xcmp-43cr,https://bit.ly/3HUtM2M
+GithubAdvisories,[GHSA-62gr-4qp9-h98f] Regular Expression Denial of Service in Handlebars,https://github.com/advisories/GHSA-62gr-4qp9-h98f,https://bit.ly/3BgMH5t
+GithubAdvisories,[GHSA-3cqr-58rm-57f8] Arbitrary Code Execution in Handlebars,https://github.com/advisories/GHSA-3cqr-58rm-57f8,https://bit.ly/3JdToYI
+GithubAdvisories,[GHSA-g37q-26qx-8v2m] Denial of service in Apache OpenMeetings,https://github.com/advisories/GHSA-g37q-26qx-8v2m,https://bit.ly/34NxH34
+GithubAdvisories,[GHSA-w9mp-p2wp-2xf7] Improper file downloads in Apache Tapestry,https://github.com/advisories/GHSA-w9mp-p2wp-2xf7,https://bit.ly/34QDDby
+GithubAdvisories,[GHSA-p5ch-w78f-xh44] Cross-site scripting in @atlaskit/editor-core,https://github.com/advisories/GHSA-p5ch-w78f-xh44,https://bit.ly/3BrjNzX
+GithubAdvisories,[GHSA-6m85-wvcr-pgw3] Prototype Pollution in safetydance,https://github.com/advisories/GHSA-6m85-wvcr-pgw3,https://bit.ly/3oEyF8E
+GithubAdvisories,[GHSA-rpj6-2q8r-98f8] Incorrect default pattern in Jenkins Audit Trail Plugin,https://github.com/advisories/GHSA-rpj6-2q8r-98f8,https://bit.ly/3uHrJvp
+GithubAdvisories,[GHSA-vjw7-6gfq-6wf5] Path Traversal in Eclipse Vert,https://github.com/advisories/GHSA-vjw7-6gfq-6wf5,https://bit.ly/3HPnv8U
+GithubAdvisories,[GHSA-4fh8-pm7g-pmxq] Authentication bypass in Apache Hadoop,https://github.com/advisories/GHSA-4fh8-pm7g-pmxq,https://bit.ly/3szXSCv
+GithubAdvisories,[GHSA-2hpg-vwqj-6h6w] Authentication bypass in Apache Kylin,https://github.com/advisories/GHSA-2hpg-vwqj-6h6w,https://bit.ly/3GDyQat
+GithubAdvisories,[GHSA-hp5x-rqf7-43vf] Improper Handling of Exceptional Conditions and Improper Input Validation in Reactor Netty,https://github.com/advisories/GHSA-hp5x-rqf7-43vf,https://bit.ly/3HLG6me
+GithubAdvisories,[GHSA-gpch-h32j-gx6x] Insufficiently Protected Credentials in Reactor Netty,https://github.com/advisories/GHSA-gpch-h32j-gx6x,https://bit.ly/35YIuaZ
+GithubAdvisories,[GHSA-r8rm-4hfj-2x87] Data Amplification in Play Framework,https://github.com/advisories/GHSA-r8rm-4hfj-2x87,https://bit.ly/34R4svW
+GithubAdvisories,[GHSA-h48w-c35p-6m8x] Out-of-bounds Write in Play Framework,https://github.com/advisories/GHSA-h48w-c35p-6m8x,https://bit.ly/3LiTVum
+GithubAdvisories,[GHSA-p8p6-rcp6-4mrm] Uncontrolled Recursion in Play Framework,https://github.com/advisories/GHSA-p8p6-rcp6-4mrm,https://bit.ly/3LqjmtX
+GithubAdvisories,[GHSA-9f52-hpvw-v96w] Improper Validation of Specified Quantity in Input in Eclipse Hono,https://github.com/advisories/GHSA-9f52-hpvw-v96w,https://bit.ly/3gIjQxm
+GithubAdvisories,[GHSA-g6ww-v8xp-vmwg] Prototype pollution in pathval,https://github.com/advisories/GHSA-g6ww-v8xp-vmwg,https://bit.ly/3Jkoy0C
+GithubAdvisories,[GHSA-xp4x-j9vh-c3wf] OS Command Injection and Command Injection in kill-port-process,https://github.com/advisories/GHSA-xp4x-j9vh-c3wf,https://bit.ly/3JdC8D0
+GithubAdvisories,[GHSA-f246-xrrj-g8j6] Cross-site Scripting in markdown-it-highlightjs,https://github.com/advisories/GHSA-f246-xrrj-g8j6,https://bit.ly/3HGXoAP
+GithubAdvisories,[GHSA-vm64-cfqx-3698] Code Injection in jsen,https://github.com/advisories/GHSA-vm64-cfqx-3698,https://bit.ly/3syxetv
