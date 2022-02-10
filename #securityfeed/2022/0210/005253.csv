@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6cw3-g6wv-c2xv] Infinite Loop in Django,https://github.com/advisories/GHSA-6cw3-g6wv-c2xv,https://bit.ly/3stZayX
+GithubAdvisories,[GHSA-95rw-fx8r-36v6] Cross-site Scripting in Django,https://github.com/advisories/GHSA-95rw-fx8r-36v6,https://bit.ly/3JgSXgl
+GithubAdvisories,[GHSA-627q-g293-49q7] Abort caused by allocating a vector that is too large in Tensorflow,https://github.com/advisories/GHSA-627q-g293-49q7,https://bit.ly/3rA6GsF
+GithubAdvisories,[GHSA-fq86-3f29-px2c] `CHECK`-failures during Grappler's `IsSimplifiableReshape` in Tensorflow,https://github.com/advisories/GHSA-fq86-3f29-px2c,https://bit.ly/3srrP7z
+GithubAdvisories,[GHSA-gjqc-q9g6-q2j3] `CHECK`-failures in binary ops in Tensorflow,https://github.com/advisories/GHSA-gjqc-q9g6-q2j3,https://bit.ly/3gBgHQ1
+GithubAdvisories,[GHSA-4j82-5ccr-4r8v] `CHECK`-failures in `TensorByteSize` in Tensorflow,https://github.com/advisories/GHSA-4j82-5ccr-4r8v,https://bit.ly/34psNcL
+GithubAdvisories,[GHSA-5f2r-qp73-37mr] `CHECK`-failures during Grappler's `SafeToRemoveIdentity` in Tensorflow,https://github.com/advisories/GHSA-5f2r-qp73-37mr,https://bit.ly/363LNOk
+GithubAdvisories,[GHSA-8r7c-3cm2-3h8f] Memory leak in Tensorflow,https://github.com/advisories/GHSA-8r7c-3cm2-3h8f,https://bit.ly/3sqVPRb
+GithubAdvisories,[GHSA-c94w-c95p-phf8] Integer overflow in Tensorflow,https://github.com/advisories/GHSA-c94w-c95p-phf8,https://bit.ly/3sxCk9q
+GithubAdvisories,[GHSA-wm93-f238-7v37] Integer overflow in Tensorflow,https://github.com/advisories/GHSA-wm93-f238-7v37,https://bit.ly/3oCTOAb
+GithubAdvisories,[GHSA-8cxv-76p7-jxwr] Null-dereference in Tensorflow,https://github.com/advisories/GHSA-8cxv-76p7-jxwr,https://bit.ly/3BckpsR
+GithubAdvisories,[GHSA-2467-h365-j7hm] Improper Input Validation in Apache Solr,https://github.com/advisories/GHSA-2467-h365-j7hm,https://bit.ly/3GGgR3l
+GithubAdvisories,[GHSA-3c7p-vv5r-cmr5] Incorrect Authorization in Apache Solr,https://github.com/advisories/GHSA-3c7p-vv5r-cmr5,https://bit.ly/3Bcm6qj
+GithubAdvisories,[GHSA-xp5j-wj4h-2jq9] Injection and Improper Input Validation in Apache Unomi,https://github.com/advisories/GHSA-xp5j-wj4h-2jq9,https://bit.ly/3GCOByj
+GithubAdvisories,[GHSA-88cc-g835-76rp] Improper Restriction of XML External Entity Reference,https://github.com/advisories/GHSA-88cc-g835-76rp,https://bit.ly/3Lo2T9J
