@@ -1,0 +1,41 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v84g-cf5j-xjqx] Path Traversal in Apache James Server,https://github.com/advisories/GHSA-v84g-cf5j-xjqx,https://bit.ly/3LmwDDY
+GithubAdvisories,[GHSA-fg2v-w576-w4v3] Out of bounds read in json-smart,https://github.com/advisories/GHSA-fg2v-w576-w4v3,https://bit.ly/3Lq90uf
+GithubAdvisories,[GHSA-2jhm-qp48-hv5j] Missing authorization in xwiki-platform,https://github.com/advisories/GHSA-2jhm-qp48-hv5j,https://bit.ly/3uL6YyS
+GithubAdvisories,[GHSA-7ph6-5cmq-xgjq] Path traversal in xwiki-platform-skin-skinx,https://github.com/advisories/GHSA-7ph6-5cmq-xgjq,https://bit.ly/3gB2vqn
+GithubAdvisories,[GHSA-35fg-hjcr-j65f] Information exposure in xwiki-platform,https://github.com/advisories/GHSA-35fg-hjcr-j65f,https://bit.ly/369YdEx
+GithubAdvisories,[GHSA-jp55-vvmf-63mv] URL Redirection to Untrusted Site ('Open Redirect'),https://github.com/advisories/GHSA-jp55-vvmf-63mv,https://bit.ly/34q5vn7
+GithubAdvisories,[GHSA-gf7x-2j2x-7f73] Missing authorization in xwiki-platform,https://github.com/advisories/GHSA-gf7x-2j2x-7f73,https://bit.ly/3BeWvgl
+GithubAdvisories,[GHSA-mgjw-2wrp-r535] Remote code execution in xwiki-platform,https://github.com/advisories/GHSA-mgjw-2wrp-r535,https://bit.ly/3gFA8r8
+GithubAdvisories,[GHSA-f4cj-3q3h-884r] Partial authorization bypass on document save in xwiki-platform,https://github.com/advisories/GHSA-f4cj-3q3h-884r,https://bit.ly/3uB5YgO
+GithubAdvisories,[GHSA-9jq9-c2cv-pcrj] Cross-site Scripting by SVG upload in xwiki-platform,https://github.com/advisories/GHSA-9jq9-c2cv-pcrj,https://bit.ly/3oHGsCR
+GithubAdvisories,[GHSA-vh5c-jqfg-mhrh] Cross-Site Request Forgery in xwiki-platform,https://github.com/advisories/GHSA-vh5c-jqfg-mhrh,https://bit.ly/3BfUDEk
+GithubAdvisories,[GHSA-92x2-jw7w-xvvx] Cookie and header exposure in twisted,https://github.com/advisories/GHSA-92x2-jw7w-xvvx,https://bit.ly/3rQ3auB
+GithubAdvisories,[GHSA-hhm3-48h2-597v] Insufficiently Protected Credentials in Apache Superset,https://github.com/advisories/GHSA-hhm3-48h2-597v,https://bit.ly/3LovD2e
+GithubAdvisories,[GHSA-vgmw-9cww-qq99] Incorrect Authorization in calibreweb,https://github.com/advisories/GHSA-vgmw-9cww-qq99,https://bit.ly/34LVVKU
+GithubAdvisories,[GHSA-h56g-v4vp-q9q6] Cross-site Scripting in calibreweb,https://github.com/advisories/GHSA-h56g-v4vp-q9q6,https://bit.ly/3szRRWe
+GithubAdvisories,[GHSA-3gg9-f3vh-866f] Improper Certificate Validation in Graylog,https://github.com/advisories/GHSA-3gg9-f3vh-866f,https://bit.ly/3JmVci7
+GithubAdvisories,[GHSA-whww-v56c-cgv2] Deserialization of Untrusted Data in Apache Dubbo,https://github.com/advisories/GHSA-whww-v56c-cgv2,https://bit.ly/33dSKex
+GithubAdvisories,[GHSA-ffm7-7r8g-77xm] Exposure of Sensitive Information to an Unauthorized Actor in Apache CXF,https://github.com/advisories/GHSA-ffm7-7r8g-77xm,https://bit.ly/3sw9q9U
+GithubAdvisories,[GHSA-227w-wv4j-67h4] Class Loading Vulnerability in Artemis,https://github.com/advisories/GHSA-227w-wv4j-67h4,https://bit.ly/3Lqw8IV
+GithubAdvisories,[GHSA-gx6h-936c-vrrr] Cross site scripting in registration template in xwiki-platform,https://github.com/advisories/GHSA-gx6h-936c-vrrr,https://bit.ly/3oEcTSu
+GithubAdvisories,[GHSA-32m2-9f76-4gv8] Business Logic Errors in SilverStripe Framework,https://github.com/advisories/GHSA-32m2-9f76-4gv8,https://bit.ly/3rCVg7A
+GithubAdvisories,[GHSA-5q5w-mqp6-g2gh] Unrestricted Upload of File with Dangerous Type in jsdecena/laracom,https://github.com/advisories/GHSA-5q5w-mqp6-g2gh,https://bit.ly/34q5AXX
+GithubAdvisories,[GHSA-gj85-pvp5-mvf9] Cross-site Scripting in Beanstalk console,https://github.com/advisories/GHSA-gj85-pvp5-mvf9,https://bit.ly/3uWIByz
+GithubAdvisories,[GHSA-v3mr-gp7j-pw5w] Possible SQL injection in tablelookupwizard Contao Extension,https://github.com/advisories/GHSA-v3mr-gp7j-pw5w,https://bit.ly/3JhHddr
+GithubAdvisories,[GHSA-9chx-2vqw-8vq5] Path Traversal in the Logs plugin for Craft CMS,https://github.com/advisories/GHSA-9chx-2vqw-8vq5,https://bit.ly/33gcpus
+GithubAdvisories,[GHSA-9cq5-xgg4-x477] SQL Injection in showdoc,https://github.com/advisories/GHSA-9cq5-xgg4-x477,https://bit.ly/3gGFMJv
+GithubAdvisories,[GHSA-vp4x-94ff-2cmv] Cross-site scripting in forkcms,https://github.com/advisories/GHSA-vp4x-94ff-2cmv,https://bit.ly/3Jgubgo
+GithubAdvisories,[GHSA-g4gm-pxh3-29fq] Unrestricted Uploads in Concrete5,https://github.com/advisories/GHSA-g4gm-pxh3-29fq,https://bit.ly/3uH6t9d
+GithubAdvisories,[GHSA-j33j-fg2g-mcv2] Cross-Site Request Forgery in CakePHP,https://github.com/advisories/GHSA-j33j-fg2g-mcv2,https://bit.ly/3HJmzTk
+GithubAdvisories,[GHSA-6vc5-v7hw-h5h2] Cross-site Scripting in RosarioSIS,https://github.com/advisories/GHSA-6vc5-v7hw-h5h2,https://bit.ly/3Jgugkc
+GithubAdvisories,[GHSA-6vfw-74wr-3chh] Cross-site Scripting in Crater Invoice,https://github.com/advisories/GHSA-6vfw-74wr-3chh,https://bit.ly/34ygzyn
+GithubAdvisories,[GHSA-xh9g-cp3v-p8q4] Missing Authorization in Crater Invoice,https://github.com/advisories/GHSA-xh9g-cp3v-p8q4,https://bit.ly/3oHaUwJ
+GithubAdvisories,[GHSA-54qq-9chj-rxhv] Cross-site Scripting in LiveHelperChat,https://github.com/advisories/GHSA-54qq-9chj-rxhv,https://bit.ly/3GDMevf
+GithubAdvisories,[GHSA-f7q6-xxph-mfm8] Cross-site Scripting in Pimcore,https://github.com/advisories/GHSA-f7q6-xxph-mfm8,https://bit.ly/33c37zw
+GithubAdvisories,[GHSA-pqcf-v8v5-jmcg] Zip slip in Microweber,https://github.com/advisories/GHSA-pqcf-v8v5-jmcg,https://bit.ly/3uCWsd7
+GithubAdvisories,[GHSA-77rm-9x9h-xj3g] NULL Pointer Dereference in Protocol Buffers,https://github.com/advisories/GHSA-77rm-9x9h-xj3g,https://bit.ly/3BfhhfG
+GithubAdvisories,[GHSA-5mv2-rx3q-4w2v] Code injection in Twig,https://github.com/advisories/GHSA-5mv2-rx3q-4w2v,https://bit.ly/35USK44
+GithubAdvisories,[GHSA-57qf-82hh-2hmc] Cross-site Scripting in LiveHelperChat,https://github.com/advisories/GHSA-57qf-82hh-2hmc,https://bit.ly/3GBY7Sl
+GithubAdvisories,[GHSA-mxh3-2699-98g9] Cross-site Scripting pimcore,https://github.com/advisories/GHSA-mxh3-2699-98g9,https://bit.ly/3uFyTAh
+GithubAdvisories,[GHSA-cg3h-rc9q-g8v9] Cross-site Scripting in pimcore,https://github.com/advisories/GHSA-cg3h-rc9q-g8v9,https://bit.ly/3LmwzUK
