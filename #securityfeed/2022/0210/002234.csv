@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-87v6-crgm-2gfj] Division by zero in Tensorflow,https://github.com/advisories/GHSA-87v6-crgm-2gfj,https://bit.ly/34yrat3
+GithubAdvisories,[GHSA-gcvh-66ff-4mwm] `CHECK`-failures in Tensorflow,https://github.com/advisories/GHSA-gcvh-66ff-4mwm,https://bit.ly/362HIKh
+GithubAdvisories,[GHSA-98j8-c9q4-r38g] Memory exhaustion in Tensorflow,https://github.com/advisories/GHSA-98j8-c9q4-r38g,https://bit.ly/3HERYpL
+GithubAdvisories,[GHSA-c582-c96p-r5cq] Memory exhaustion in Tensorflow,https://github.com/advisories/GHSA-c582-c96p-r5cq,https://bit.ly/3LjOEmm
+GithubAdvisories,[GHSA-m4hf-j54p-p353] Type confusion leading to segfault in Tensorflow,https://github.com/advisories/GHSA-m4hf-j54p-p353,https://bit.ly/3GDX6cK
+GithubAdvisories,[GHSA-vjg4-v33c-ggc4] Out of bounds read in Tensorflow,https://github.com/advisories/GHSA-vjg4-v33c-ggc4,https://bit.ly/3gB1K0r
+GithubAdvisories,[GHSA-34f9-hjfq-rr8j] Overflow and uncaught divide by zero in Tensorflow,https://github.com/advisories/GHSA-34f9-hjfq-rr8j,https://bit.ly/3Jb5K3U
+GithubAdvisories,[GHSA-6gmv-pjp9-p8w8] Out of bounds read in Tensorflow,https://github.com/advisories/GHSA-6gmv-pjp9-p8w8,https://bit.ly/362HFOB
+GithubAdvisories,[GHSA-c6fh-56w7-fvjw] Integer overflow in Tensorflow,https://github.com/advisories/GHSA-c6fh-56w7-fvjw,https://bit.ly/3HHue4D
+GithubAdvisories,[GHSA-23hm-7w47-xw72] Out of bounds read in Tensorflow,https://github.com/advisories/GHSA-23hm-7w47-xw72,https://bit.ly/3Bj1lJG
+GithubAdvisories,[GHSA-v3f7-j968-4h5f] Division by zero in Tensorflow,https://github.com/advisories/GHSA-v3f7-j968-4h5f,https://bit.ly/3rF7cpx
+GithubAdvisories,[GHSA-24x4-6qmh-88qg] Use after free in `DecodePng` kernel,https://github.com/advisories/GHSA-24x4-6qmh-88qg,https://bit.ly/3uEOuQr
+GithubAdvisories,[GHSA-5qw5-89mw-wcg2] Out of bounds write in Tensorflow,https://github.com/advisories/GHSA-5qw5-89mw-wcg2,https://bit.ly/3HKVTS7
+GithubAdvisories,[GHSA-8rcj-c8pj-v3m3] Reachable Assertion in Tensorflow,https://github.com/advisories/GHSA-8rcj-c8pj-v3m3,https://bit.ly/3HHXqrZ
+GithubAdvisories,[GHSA-wc4g-r73w-x8mm] Insecure temporary file in Tensorflow,https://github.com/advisories/GHSA-wc4g-r73w-x8mm,https://bit.ly/3HzJU9X
+GithubAdvisories,[GHSA-qx3f-p745-w4hr] Integer overflow in Tensorflow,https://github.com/advisories/GHSA-qx3f-p745-w4hr,https://bit.ly/3HHXwzR
+GithubAdvisories,[GHSA-9c78-vcq7-7vxq] Out of bounds write in TFLite,https://github.com/advisories/GHSA-9c78-vcq7-7vxq,https://bit.ly/3stbpM6
+GithubAdvisories,[GHSA-4hvf-hxvg-f67v] Read and Write outside of bounds in TensorFlow,https://github.com/advisories/GHSA-4hvf-hxvg-f67v,https://bit.ly/3Ji5wrW
+GithubAdvisories,[GHSA-98p5-x8x4-c9m5] Integer overflow in TFLite,https://github.com/advisories/GHSA-98p5-x8x4-c9m5,https://bit.ly/34w0ycj
+GithubAdvisories,[GHSA-9gwq-6cwj-47h3] Integer overflow in TFLite array creation,https://github.com/advisories/GHSA-9gwq-6cwj-47h3,https://bit.ly/3Jb5KAW
