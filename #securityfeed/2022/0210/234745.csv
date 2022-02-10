@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cg57-p69r-3m7p] Improper file handling in matrix-react-sdk,https://github.com/advisories/GHSA-cg57-p69r-3m7p,https://bit.ly/3oE71sk
+GithubAdvisories,[GHSA-pfr3-87q3-65rc] Cross-site Scripting in vmd,https://github.com/advisories/GHSA-pfr3-87q3-65rc,https://bit.ly/3JnQMrB
+GithubAdvisories,[GHSA-4xrw-wvmq-8jmh] OS Command Injection in node-key-sender,https://github.com/advisories/GHSA-4xrw-wvmq-8jmh,https://bit.ly/3LoOZEk
+GithubAdvisories,[GHSA-6hr9-4692-fch9] OS Command Injection in effect,https://github.com/advisories/GHSA-6hr9-4692-fch9,https://bit.ly/3BcZPbI
+GithubAdvisories,[GHSA-3hq6-rmv7-39vh] Injection in op-browser,https://github.com/advisories/GHSA-3hq6-rmv7-39vh,https://bit.ly/3rHW2An
+GithubAdvisories,[GHSA-pf8j-vhg8-xmc3] Injection in karma-mojo,https://github.com/advisories/GHSA-pf8j-vhg8-xmc3,https://bit.ly/3uFWsJe
+GithubAdvisories,[GHSA-m6j2-v3gq-45r5] Cross-site Scripting in aurelia-framework,https://github.com/advisories/GHSA-m6j2-v3gq-45r5,https://bit.ly/3uD0cv7
+GithubAdvisories,[GHSA-f2jw-pr2c-9x96] Code injection in @rkesters/gnuplot,https://github.com/advisories/GHSA-f2jw-pr2c-9x96,https://bit.ly/3gFGfM6
+GithubAdvisories,[GHSA-fr6q-jv7j-35g3] Path Traversal in w-zip,https://github.com/advisories/GHSA-fr6q-jv7j-35g3,https://bit.ly/3oBZkDi
+GithubAdvisories,[GHSA-39qv-prmh-x37f] Prototype Pollution in @strikeentco/set,https://github.com/advisories/GHSA-39qv-prmh-x37f,https://bit.ly/33dHBKT
+GithubAdvisories,[GHSA-4g77-cvgw-grvw] Prototype Pollution in putil-merge,https://github.com/advisories/GHSA-4g77-cvgw-grvw,https://bit.ly/3oE7dYA
+GithubAdvisories,[GHSA-h6pr-c536-6rjg] Prototype Pollution in object-path-set,https://github.com/advisories/GHSA-h6pr-c536-6rjg,https://bit.ly/3GFvVxV
+GithubAdvisories,[GHSA-7x7c-qm48-pq9c] Cross-site Scripting in karma,https://github.com/advisories/GHSA-7x7c-qm48-pq9c,https://bit.ly/3sQxHaX
+GithubAdvisories,[GHSA-mmj4-777p-fpq9] Validation bypass in frourio-express,https://github.com/advisories/GHSA-mmj4-777p-fpq9,https://bit.ly/34NRtvk
+GithubAdvisories,[GHSA-8xxm-h73r-ghfj] Validation bypass in frourio,https://github.com/advisories/GHSA-8xxm-h73r-ghfj,https://bit.ly/3sAuHPs
+GithubAdvisories,[GHSA-mv26-cx23-vrfg] Server-Side Request Forgery in @peertube/embed-api,https://github.com/advisories/GHSA-mv26-cx23-vrfg,https://bit.ly/33c9anI
+GithubAdvisories,[GHSA-c5hm-xc74-pqrg] OS Command Injection in jscover,https://github.com/advisories/GHSA-c5hm-xc74-pqrg,https://bit.ly/34PONwV
+GithubAdvisories,[GHSA-4v9w-pvwr-38h3] OS Command Injection in strong-nginx-controller,https://github.com/advisories/GHSA-4v9w-pvwr-38h3,https://bit.ly/3JABu2T
+GithubAdvisories,[GHSA-fr76-2wp8-fp92] Insecure template handling in Express-handlebars,https://github.com/advisories/GHSA-fr76-2wp8-fp92,https://bit.ly/3Bavyul
+GithubAdvisories,[GHSA-c6rq-rjc2-86v2] Time-of-check Time-of-use (TOCTOU) Race Condition in chownr,https://github.com/advisories/GHSA-c6rq-rjc2-86v2,https://bit.ly/3JkHNHo
+GithubAdvisories,[GHSA-h236-g5gh-vq6c] Cross-site scripting in Froala Editor,https://github.com/advisories/GHSA-h236-g5gh-vq6c,https://bit.ly/3uLczFo
+GithubAdvisories,[GHSA-v88g-cgmw-v5xw] Prototype Pollution in Ajv,https://github.com/advisories/GHSA-v88g-cgmw-v5xw,https://bit.ly/34NRv6q
+GithubAdvisories,[GHSA-4jwp-vfvf-657p] Deserialization of Untrusted Data in bson,https://github.com/advisories/GHSA-4jwp-vfvf-657p,https://bit.ly/3JnQMYD
