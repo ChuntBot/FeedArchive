@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-836g-5fr5-fgcr] Missing Authentication for Critical Function in Apache TomEE,https://github.com/advisories/GHSA-836g-5fr5-fgcr,https://bit.ly/3GMvYYN
+GithubAdvisories,[GHSA-wfj5-2mqr-7jvv] Expression Language Injection in Netflix Conductor,https://github.com/advisories/GHSA-wfj5-2mqr-7jvv,https://bit.ly/3oHDDS2
+GithubAdvisories,[GHSA-v83p-xwm9-v4g8] Injection in Apache Archiva,https://github.com/advisories/GHSA-v83p-xwm9-v4g8,https://bit.ly/3BkSyqv
+GithubAdvisories,[GHSA-wgx7-jwwm-cgjv] Improper Authentication in Apache Spark,https://github.com/advisories/GHSA-wgx7-jwwm-cgjv,https://bit.ly/33dW5KB
+GithubAdvisories,[GHSA-8grg-q944-cch5] SQL Injection in Hibernate ORM,https://github.com/advisories/GHSA-8grg-q944-cch5,https://bit.ly/34yjMxV
+GithubAdvisories,[GHSA-9jg9-6wm2-x7p5] Server-Side Request Forgery in Karaf,https://github.com/advisories/GHSA-9jg9-6wm2-x7p5,https://bit.ly/3gBPQTQ
+GithubAdvisories,[GHSA-g8jj-899q-8x3j] Cross-site scripting in json-sanitizer,https://github.com/advisories/GHSA-g8jj-899q-8x3j,https://bit.ly/3BfXKfu
+GithubAdvisories,[GHSA-jrg3-qq99-35g7] Deserialization of Untrusted Data in Jodd,https://github.com/advisories/GHSA-jrg3-qq99-35g7,https://bit.ly/3oEFTtr
+GithubAdvisories,[GHSA-gv87-q66h-4277] Command injection in itext7-core,https://github.com/advisories/GHSA-gv87-q66h-4277,https://bit.ly/3gUyBh3
+GithubAdvisories,[GHSA-26hm-r6mg-963c] SQL Injection in JeecgBoot,https://github.com/advisories/GHSA-26hm-r6mg-963c,https://bit.ly/3rHTz95
+GithubAdvisories,[GHSA-8c9h-4q7g-fp7h] Out-of-bounds Read in iText,https://github.com/advisories/GHSA-8c9h-4q7g-fp7h,https://bit.ly/34LYHji
+GithubAdvisories,[GHSA-hhh6-cm2m-3fhc] Allocation of Resources Without Limits or Throttling in iText,https://github.com/advisories/GHSA-hhh6-cm2m-3fhc,https://bit.ly/3GBhHyc
+GithubAdvisories,[GHSA-c32g-2mgr-cfq7] Out-of-bounds Write in iText,https://github.com/advisories/GHSA-c32g-2mgr-cfq7,https://bit.ly/34q8Hz7
+GithubAdvisories,[GHSA-3whx-qrj5-hh2h] Improper Input Validation in Apache Pulsar,https://github.com/advisories/GHSA-3whx-qrj5-hh2h,https://bit.ly/3Lo2Uuh
+GithubAdvisories,[GHSA-pr38-qpxm-g88x] Uncontrolled Resource Consumption in Apache ActiveMQ Artemis,https://github.com/advisories/GHSA-pr38-qpxm-g88x,https://bit.ly/3GLbbF4
+GithubAdvisories,[GHSA-q5rx-8c2h-5q7j] Apache Gobblin trusts all certificates used for LDAP connections in Gobblin-as-a-Service,https://github.com/advisories/GHSA-q5rx-8c2h-5q7j,https://bit.ly/34NOz9U
+GithubAdvisories,[GHSA-p435-w4xm-jj8x] Hadoop token in temp file visible to all users in Apache Gobblin,https://github.com/advisories/GHSA-p435-w4xm-jj8x,https://bit.ly/3rIqH04
