@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r5cq-9537-9rpf] Prototype Pollution in mixme,https://github.com/advisories/GHSA-r5cq-9537-9rpf,https://bit.ly/3gAV6Y0
+GithubAdvisories,[GHSA-765h-qjxv-5f44] Prototype Pollution in handlebars,https://github.com/advisories/GHSA-765h-qjxv-5f44,https://bit.ly/3gBj19J
+GithubAdvisories,[GHSA-m744-2jj8-vpfv] Command injection in git-parse,https://github.com/advisories/GHSA-m744-2jj8-vpfv,https://bit.ly/3GUIfLb
+GithubAdvisories,[GHSA-6m4r-m3gc-h4r5] OS Command Injection in install-package,https://github.com/advisories/GHSA-6m4r-m3gc-h4r5,https://bit.ly/3uD3azL
+GithubAdvisories,[GHSA-h9v8-rm3m-5h5f] OS Command Injection in git-add-remote,https://github.com/advisories/GHSA-h9v8-rm3m-5h5f,https://bit.ly/3rFeAAV
+GithubAdvisories,[GHSA-r773-pmw3-f4mr] Open Redirect in koa-remove-trailing-slashes,https://github.com/advisories/GHSA-r773-pmw3-f4mr,https://bit.ly/3sE6ubo
