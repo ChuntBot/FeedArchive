@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pw2r-vq6v-hr8c] Exposure of Sensitive Information to an Unauthorized Actor in follow-redirects,https://github.com/advisories/GHSA-pw2r-vq6v-hr8c,https://bit.ly/3BfvqJQ
+GithubAdvisories,[GHSA-jqmc-79gx-7g8p] Incorrect Permission Assignment for Critical Resource in CRI-O,https://github.com/advisories/GHSA-jqmc-79gx-7g8p,https://bit.ly/34WmXzu
+GithubAdvisories,[GHSA-rmj8-8hhh-gv5h] Information Exposure with Puma when used with Rails,https://github.com/advisories/GHSA-rmj8-8hhh-gv5h,https://bit.ly/34AZDY6
