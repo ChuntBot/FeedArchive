@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2007-20001 (iscsi_san),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2007-20001,https://bit.ly/3GHi7Dh
+NVD-NIST,CVE-2013-20004 (iscsi_san),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2013-20004,https://bit.ly/34yWMyP
+NVD-NIST,"CVE-2021-39280 (jetwave_2212g_firmware, jetwave_2212s_firmware, jetwave_2212x_firmware, jetwave_2311_firmware, jetwave_3220_firmware, jetwave_3420_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-39280,https://bit.ly/3HHSBPu
+NVD-NIST,CVE-2022-0502 (live_helper_chat),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0502,https://bit.ly/3sAYwzw
+NVD-NIST,CVE-2022-22831 (tessa),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22831,https://bit.ly/3oHeNSj
+NVD-NIST,CVE-2022-22832 (tessa),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22832,https://bit.ly/3BeINKu
+NVD-NIST,CVE-2022-23206 (traffic_control),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23206,https://bit.ly/3LrbGrn
+NVD-NIST,"CVE-2022-24551 (nas, san)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24551,https://bit.ly/33gQ6os
+NVD-NIST,"CVE-2022-24552 (nas, san)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24552,https://bit.ly/34wbOoU
