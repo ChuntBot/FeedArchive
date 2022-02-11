@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-h2fg-54x9-5qhq] Nil dereference in NATS JWT, DoS of nats-server",https://github.com/advisories/GHSA-h2fg-54x9-5qhq,https://bit.ly/3HQp7Px
+GithubAdvisories,[GHSA-4w5x-x539-ppf5] Incorrect handling of credential expiry by NATS Server,https://github.com/advisories/GHSA-4w5x-x539-ppf5,https://bit.ly/3gDO70q
+GithubAdvisories,[GHSA-fqfh-778m-2v32] GitHub CLI can execute a git binary from the current directory,https://github.com/advisories/GHSA-fqfh-778m-2v32,https://bit.ly/3Jkl7qT
+GithubAdvisories,[GHSA-h2x7-2ff6-v32p] Incorrect routing of some HTTP requests when using httpauth,https://github.com/advisories/GHSA-h2x7-2ff6-v32p,https://bit.ly/3GM1Lcm
+GithubAdvisories,[GHSA-4g4p-42wc-9f3m] Git LFS can execute a Git binary from the current directory,https://github.com/advisories/GHSA-4g4p-42wc-9f3m,https://bit.ly/3GJIYP4
+GithubAdvisories,[GHSA-hv53-vf5m-8q94] Validation bypass vulnerability,https://github.com/advisories/GHSA-hv53-vf5m-8q94,https://bit.ly/33gD9uJ
+GithubAdvisories,[GHSA-742w-89gc-8m9c] containerd v1.2.x can be coerced into leaking credentials during image pull,https://github.com/advisories/GHSA-742w-89gc-8m9c,https://bit.ly/3rJhCUY
+GithubAdvisories,[GHSA-76wf-9vgp-pj7w] Unencrypted md5 plaintext hash in metadata in AWS S3 Crypto SDK for golang,https://github.com/advisories/GHSA-76wf-9vgp-pj7w,https://bit.ly/3oIS8VQ
+GithubAdvisories,[GHSA-f5pg-7wfw-84q9] CBC padding oracle issue in AWS S3 Crypto SDK for golang,https://github.com/advisories/GHSA-f5pg-7wfw-84q9,https://bit.ly/3rLs3aM
+GithubAdvisories,[GHSA-7f33-f4f5-xwgw] In-band key negotiation issue in AWS S3 Crypto SDK for golang,https://github.com/advisories/GHSA-7f33-f4f5-xwgw,https://bit.ly/3oHEPoI
