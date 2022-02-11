@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hcw3-j74m-qc58] Array literal misordering in github.com/open-policy-agent/opa,https://github.com/advisories/GHSA-hcw3-j74m-qc58,https://bit.ly/3BhxmBV
+GithubAdvisories,[GHSA-wpfr-6297-9v57] User object created with invalid provider data in GoTrue,https://github.com/advisories/GHSA-wpfr-6297-9v57,https://bit.ly/34Qq2ky
