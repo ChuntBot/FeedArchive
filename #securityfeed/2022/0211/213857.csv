@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-25939 (arangodb),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25939,https://bit.ly/34QEh8O
+NVD-NIST,"CVE-2021-37852 (endpoint_antivirus, endpoint_security, file_security, internet_security, mail_security, nod32_antivirus, security, server_security, smart_security)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37852,https://bit.ly/3LrlHoG
+NVD-NIST,"CVE-2021-40837 (atlant, elements_endpoint_detection_and_response, elements_endpoint_protection, internet_gatekeeper, linux_security, security_cloud)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-40837,https://bit.ly/3JnrpG6
+NVD-NIST,CVE-2021-46360 (composr),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-46360,https://bit.ly/34TRRbm
+NVD-NIST,CVE-2022-0525 (mruby),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0525,https://bit.ly/33kOWIE
+NVD-NIST,CVE-2022-0536 (follow-redirects),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0536,https://bit.ly/3JlkeOL
+NVD-NIST,CVE-2022-0538 (jenkins),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0538,https://bit.ly/34Wlt8o
+NVD-NIST,CVE-2022-0539 (beanstalk_console),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0539,https://bit.ly/3oHJRBI
+NVD-NIST,CVE-2022-20025 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20025,https://bit.ly/3uK4yRk
+NVD-NIST,CVE-2022-20026 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20026,https://bit.ly/3LsTHRx
+NVD-NIST,CVE-2022-20027 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20027,https://bit.ly/3p4tIXd
+NVD-NIST,CVE-2022-20028 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20028,https://bit.ly/3BeMH65
+NVD-NIST,CVE-2022-20029 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20029,https://bit.ly/3szTnrt
+NVD-NIST,CVE-2022-20030 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20030,https://bit.ly/3GLnZeP
+NVD-NIST,CVE-2022-20031 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20031,https://bit.ly/34LjlQB
+NVD-NIST,CVE-2022-20032 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20032,https://bit.ly/34QEhFQ
+NVD-NIST,CVE-2022-20033 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20033,https://bit.ly/3rHCPOV
+NVD-NIST,CVE-2022-20034 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20034,https://bit.ly/3Lt7Luk
+NVD-NIST,CVE-2022-20035 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20035,https://bit.ly/3GNGuiy
+NVD-NIST,CVE-2022-20042 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20042,https://bit.ly/3BhRxzi
+NVD-NIST,CVE-2022-21813 (gpu_display_driver),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21813,https://bit.ly/3I0GddP
+NVD-NIST,CVE-2022-21815 (gpu_display_driver),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21815,https://bit.ly/3gFWCZ6
+NVD-NIST,CVE-2022-21816 (virtual_gpu),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21816,https://bit.ly/3HNQxFH
+NVD-NIST,CVE-2022-23378 (tastyigniter),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23378,https://bit.ly/34QEicS
+NVD-NIST,CVE-2022-24694 (mahara),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24694,https://bit.ly/3gG8Vo5
