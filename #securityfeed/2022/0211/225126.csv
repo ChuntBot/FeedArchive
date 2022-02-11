@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-72wf-hwcq-65h9] Cross-Site Request Forgery in Filebrowser,https://github.com/advisories/GHSA-72wf-hwcq-65h9,https://bit.ly/34Uow0N
+GithubAdvisories,[GHSA-88g8-f5mf-f5rj] Improper Initialization in OpenZeppelin,https://github.com/advisories/GHSA-88g8-f5mf-f5rj,https://bit.ly/3HJUknC
+GithubAdvisories,[GHSA-g6w6-r76c-28j7] Incorrect Authorization in NATS nats-server,https://github.com/advisories/GHSA-g6w6-r76c-28j7,https://bit.ly/3HMdyZK
+GithubAdvisories,[GHSA-qq97-vm5h-rrhg] OCI Manifest Type Confusion Issue,https://github.com/advisories/GHSA-qq97-vm5h-rrhg,https://bit.ly/3GDUKug
