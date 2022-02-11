@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-25004 (seur_oficial),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25004,https://bit.ly/3HMbwJ9
+NVD-NIST,CVE-2021-44864 (wn886n_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44864,https://bit.ly/3rEMgyJ
+NVD-NIST,CVE-2021-45328 (gitea),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-45328,https://bit.ly/3HWKVJa
+NVD-NIST,CVE-2022-0139 (radare2),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0139,https://bit.ly/3rF13tk
+NVD-NIST,CVE-2022-0504 (microweber),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0504,https://bit.ly/3GDjEKw
+NVD-NIST,CVE-2022-0509 (pimcore),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0509,https://bit.ly/3GWEzZn
+NVD-NIST,CVE-2022-0510 (pimcore),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0510,https://bit.ly/3HOA9Vu
+NVD-NIST,CVE-2022-21712 (twisted),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21712,https://bit.ly/3JkKU27
+NVD-NIST,CVE-2022-21799 (wrc-300febk-r_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21799,https://bit.ly/3Bg9Vsy
+NVD-NIST,CVE-2022-22146 (transmitmail),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22146,https://bit.ly/3sCmFFN
+NVD-NIST,CVE-2022-22532 (netweaver_application_server_java),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22532,https://bit.ly/3sszYZm
+NVD-NIST,CVE-2022-22533 (netweaver_application_server_java),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22533,https://bit.ly/3GWEEMF
+NVD-NIST,"CVE-2022-22536 (content_server, netweaver_as_abap, web_dispatcher)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22536,https://bit.ly/3rHKq00
+NVD-NIST,CVE-2022-23331 (dataease),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23331,https://bit.ly/3sSI2mL
+NVD-NIST,CVE-2022-23340 (joplin),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23340,https://bit.ly/34NGpy7
+NVD-NIST,CVE-2022-23613 (xrdp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23613,https://bit.ly/3oJGeel
+NVD-NIST,CVE-2022-23623 (frourio),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23623,https://bit.ly/3GJ1Tte
+NVD-NIST,CVE-2022-23624 (frourio-express),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23624,https://bit.ly/368G61C
+NVD-NIST,"CVE-2022-24450 (nats_server, nats_streaming_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24450,https://bit.ly/3JkKUz9
