@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w69w-jvc7-wjgv] Missing Authorization in undertow,https://github.com/advisories/GHSA-w69w-jvc7-wjgv,https://bit.ly/3dUgN4G
+GithubAdvisories,[GHSA-jwgx-9mmh-684w] Credential exposure through log files in Undertow,https://github.com/advisories/GHSA-jwgx-9mmh-684w,https://bit.ly/32HFzi3
+GithubAdvisories,[GHSA-x3rq-r3cm-5vc4] Business Logic Errors in Publify,https://github.com/advisories/GHSA-x3rq-r3cm-5vc4,https://bit.ly/3LsYzpW
+GithubAdvisories,[GHSA-2cjf-w7c4-fhf6] Cross-site Scripting in Beanstalk console,https://github.com/advisories/GHSA-2cjf-w7c4-fhf6,https://bit.ly/3JqUq3X
+GithubAdvisories,[GHSA-wmj9-xh24-j4gx] Cross-site Scripting in microweber,https://github.com/advisories/GHSA-wmj9-xh24-j4gx,https://bit.ly/3oHvfSP
+GithubAdvisories,[GHSA-qh73-qc3p-rjv2] Uncaught Exception in fastify-multipart,https://github.com/advisories/GHSA-qh73-qc3p-rjv2,https://bit.ly/3gETtbJ
+GithubAdvisories,[GHSA-45w3-v3g4-54pm] Potential segfault in SPIFFE authenticator,https://github.com/advisories/GHSA-45w3-v3g4-54pm,https://bit.ly/3JqUz7v
