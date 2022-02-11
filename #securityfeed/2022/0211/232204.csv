@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6qq8-5wq3-86rp] Open redirect in Traefik,https://github.com/advisories/GHSA-6qq8-5wq3-86rp,https://bit.ly/3Lqtinn
+GithubAdvisories,[GHSA-5x29-3hr9-6wpw] TPM 1.2 key authorization values vulnerable to TPM transport eavesdropper in go-tpm,https://github.com/advisories/GHSA-5x29-3hr9-6wpw,https://bit.ly/3GPabjb
+GithubAdvisories,[GHSA-q9x4-q76f-5h5j] Unauthenticated users can exploit an enumeration vulnerability in Harbor (CVE-2019-19030),https://github.com/advisories/GHSA-q9x4-q76f-5h5j,https://bit.ly/35W7LCH
+GithubAdvisories,[GHSA-33p6-fx42-7rf5] Harbor is vulnerable to a limited Server-Side Request Forgery (SSRF) (CVE-2020-13788),https://github.com/advisories/GHSA-33p6-fx42-7rf5,https://bit.ly/3JlG9FI
+GithubAdvisories,[GHSA-qh36-44jv-c8xj] Potential proxy IP restriction bypass in Kubernetes,https://github.com/advisories/GHSA-qh36-44jv-c8xj,https://bit.ly/3sz3Rrg
+GithubAdvisories,[GHSA-ch68-7cf4-35vr] Limited ability to spoof SAML authentication with missing audience verification in Fleet,https://github.com/advisories/GHSA-ch68-7cf4-35vr,https://bit.ly/3oHCkmk
+GithubAdvisories,[GHSA-63qx-x74g-jcr7] Path traversal and dereference of symlinks in Argo CD,https://github.com/advisories/GHSA-63qx-x74g-jcr7,https://bit.ly/3oIzhu3
