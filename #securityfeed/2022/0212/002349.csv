@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-47wr-426j-fr82] Symbolic links in an unpacking routine may enable attackers to read and/or write to arbitrary locations in dbdeployer,https://github.com/advisories/GHSA-47wr-426j-fr82,https://bit.ly/3sDbwVt
+GithubAdvisories,"[GHSA-38r5-34mr-mvm7] ""catalog's registry v2 api exposed on unauthenticated path in Harbor""",https://github.com/advisories/GHSA-38r5-34mr-mvm7,https://bit.ly/34QQDxV
+GithubAdvisories,[GHSA-w3wf-cfx3-6gcx] SAML authentication vulnerability due to stdlib XML parsing,https://github.com/advisories/GHSA-w3wf-cfx3-6gcx,https://bit.ly/34tb5oN
+GithubAdvisories,[GHSA-xhqq-x44f-9fgg] Authentication Bypass in github.com/russellhaering/gosaml2,https://github.com/advisories/GHSA-xhqq-x44f-9fgg,https://bit.ly/36ah5mL
