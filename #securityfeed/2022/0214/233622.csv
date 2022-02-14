@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2022-22000 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22000,https://bit.ly/3BiGkPe
+NVD-NIST,"CVE-2022-22001 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22001,https://bit.ly/3HTpoBf
+NVD-NIST,"CVE-2022-22002 (windows_10, windows_11, windows_8.1, windows_rt_8.1, windows_server, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22002,https://bit.ly/36j6beB
+NVD-NIST,"CVE-2022-22003 (365_apps, office, office_long_term_servicing_channel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22003,https://bit.ly/3rMrfCo
+NVD-NIST,"CVE-2022-22004 (365_apps, office)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22004,https://bit.ly/3Jubdmw
+NVD-NIST,CVE-2022-22709 (vp9_video_extensions),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22709,https://bit.ly/3oNOBWr
