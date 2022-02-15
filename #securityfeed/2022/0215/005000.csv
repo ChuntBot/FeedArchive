@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-62mh-w5cv-p88c] Import token permissions checking not enforced,https://github.com/advisories/GHSA-62mh-w5cv-p88c,https://bit.ly/3LvGmIa
+GithubAdvisories,[GHSA-qmmc-jppf-32wv] Directory Traversal in Docker,https://github.com/advisories/GHSA-qmmc-jppf-32wv,https://bit.ly/3GNrO31
+GithubAdvisories,[GHSA-5qgp-p5jc-w2rm] Arbitrary Code Execution in Docker,https://github.com/advisories/GHSA-5qgp-p5jc-w2rm,https://bit.ly/3uM7Sv7
+GithubAdvisories,[GHSA-wxj3-qwv4-cvfm] Privilege Escalation in Docker,https://github.com/advisories/GHSA-wxj3-qwv4-cvfm,https://bit.ly/3JrTV9Q
+GithubAdvisories,[GHSA-g2qx-6ghw-67hm] Denial of Service in Gitea,https://github.com/advisories/GHSA-g2qx-6ghw-67hm,https://bit.ly/3rRgYVD
+GithubAdvisories,[GHSA-g5v4-5x39-vwhx] Zip slip directory exploit in github.com/deislabs/oras,https://github.com/advisories/GHSA-g5v4-5x39-vwhx,https://bit.ly/3oJAwcv
+GithubAdvisories,[GHSA-cx3w-xqmc-84g5] Git LFS can execute a Git binary from the current directory on Windows,https://github.com/advisories/GHSA-cx3w-xqmc-84g5,https://bit.ly/367YO9v
