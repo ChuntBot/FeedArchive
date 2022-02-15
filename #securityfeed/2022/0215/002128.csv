@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gv2h-gf8m-r68j] Exposure of server configuration in github.com/go-vela/server,https://github.com/advisories/GHSA-gv2h-gf8m-r68j,https://bit.ly/3sZHDir
+GithubAdvisories,[GHSA-wp47-9r3h-xfgq] Server-Side Request Forgery in Apache Traffic Control,https://github.com/advisories/GHSA-wp47-9r3h-xfgq,https://bit.ly/3sGGpbx
+GithubAdvisories,[GHSA-r3gq-wxqf-q4gh] Cross-site Scripting in Gitea,https://github.com/advisories/GHSA-r3gq-wxqf-q4gh,https://bit.ly/3GWDnFm
+GithubAdvisories,[GHSA-36h2-95gj-w488] Open redirect in Gitea,https://github.com/advisories/GHSA-36h2-95gj-w488,https://bit.ly/3JtKx5k
+GithubAdvisories,[GHSA-4wp3-8q92-mh8w] Cross Site Request Forgery in Gitea,https://github.com/advisories/GHSA-4wp3-8q92-mh8w,https://bit.ly/3rRe8Qt
+GithubAdvisories,[GHSA-8h8p-x289-vvqr] Gitea displaying raw OpenID error in UI,https://github.com/advisories/GHSA-8h8p-x289-vvqr,https://bit.ly/3sKA2nL
+GithubAdvisories,[GHSA-jrpg-35hw-m4p9] Capture-replay in Gitea,https://github.com/advisories/GHSA-jrpg-35hw-m4p9,https://bit.ly/3HPqlKQ
+GithubAdvisories,[GHSA-7x2h-3v2v-24p9] Cross-Site Request Forgery in microweber,https://github.com/advisories/GHSA-7x2h-3v2v-24p9,https://bit.ly/34zngQZ
+GithubAdvisories,[GHSA-jjvm-3mfq-7gc7] Cross-site Scripting in microweber,https://github.com/advisories/GHSA-jjvm-3mfq-7gc7,https://bit.ly/34VWx0K
+GithubAdvisories,[GHSA-m658-p24x-p74r] TLS certificate validation error in Mellium,https://github.com/advisories/GHSA-m658-p24x-p74r,https://bit.ly/3LCq0NO
+GithubAdvisories,[GHSA-6pw2-5hjv-9pf7] Sandbox bypass in vm2,https://github.com/advisories/GHSA-6pw2-5hjv-9pf7,https://bit.ly/3HT1uFZ
+GithubAdvisories,[GHSA-65hp-4vxr-c356] Arbitrary code execution in Magnolia CMS,https://github.com/advisories/GHSA-65hp-4vxr-c356,https://bit.ly/3sZHCLp
+GithubAdvisories,[GHSA-pwr6-p3fh-grc2] Arbitrary code execution in Magnolia CMS,https://github.com/advisories/GHSA-pwr6-p3fh-grc2,https://bit.ly/3rPU2WC
+GithubAdvisories,[GHSA-m4hg-5p2m-fm5m] Arbitrary code execution in Magnolia CMS,https://github.com/advisories/GHSA-m4hg-5p2m-fm5m,https://bit.ly/3JrF2Ej
+GithubAdvisories,[GHSA-3qpg-33wr-533j] Arbitrary code execution in Magnolia CMS,https://github.com/advisories/GHSA-3qpg-33wr-533j,https://bit.ly/3gHTDiK
+GithubAdvisories,[GHSA-hxvf-35w8-f5mw] Open redirect in Magnolia CMS,https://github.com/advisories/GHSA-hxvf-35w8-f5mw,https://bit.ly/3rPU3tE
+GithubAdvisories,[GHSA-r992-xph6-h7x2] Open redirect in microweber,https://github.com/advisories/GHSA-r992-xph6-h7x2,https://bit.ly/3Jx1M63
+GithubAdvisories,[GHSA-c58c-w527-h77p] Deserialization of untrusted data in Apache Cayenne,https://github.com/advisories/GHSA-c58c-w527-h77p,https://bit.ly/3HQCtLP
+GithubAdvisories,[GHSA-8459-6rc9-8vf8] Path traversal in github.com/cloudflare/cfrpki/cmd/octorpki,https://github.com/advisories/GHSA-8459-6rc9-8vf8,https://bit.ly/36eCF9H
+GithubAdvisories,[GHSA-fqx8-v33p-4qcc] XSS in enshrined/svg-sanitize,https://github.com/advisories/GHSA-fqx8-v33p-4qcc,https://bit.ly/3JtxyRf
