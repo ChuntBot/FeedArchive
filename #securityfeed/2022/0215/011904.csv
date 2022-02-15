@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g7v2-2qxx-wjrw] Symlink Attack in Libcontainer and Docker Engine,https://github.com/advisories/GHSA-g7v2-2qxx-wjrw,https://bit.ly/3Ju48Te
+GithubAdvisories,"[GHSA-9m95-8hx6-7p9v] malicious layer with symlink entry for ""/"" allows overwriting of host files",https://github.com/advisories/GHSA-9m95-8hx6-7p9v,https://bit.ly/33ouiHA
+GithubAdvisories,[GHSA-x5m6-jh4r-34mv] Arbitrary File Overwrite in hub,https://github.com/advisories/GHSA-x5m6-jh4r-34mv,https://bit.ly/3sE9JPX
