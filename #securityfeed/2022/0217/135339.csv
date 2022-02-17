@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-38w8-h222-wrpp] XML Entity Expansion in Jenkins Chef Sinatra,https://github.com/advisories/GHSA-38w8-h222-wrpp,https://bit.ly/3gVeA9O
+GithubAdvisories,[GHSA-h9vc-2p9g-63gp] Cross-site Scripting in pimcore,https://github.com/advisories/GHSA-h9vc-2p9g-63gp,https://bit.ly/3JxOKVM
+GithubAdvisories,[GHSA-rp34-85x3-3764] Cross-site Scripting in librenms,https://github.com/advisories/GHSA-rp34-85x3-3764,https://bit.ly/3uY2pBt
+GithubAdvisories,[GHSA-qpv2-jxc7-3638] Exposure of Sensitive Information in snipe/snipe-it,https://github.com/advisories/GHSA-qpv2-jxc7-3638,https://bit.ly/3BqQq0B
+GithubAdvisories,[GHSA-rqff-837h-mm52] Authorization bypass in url-parse,https://github.com/advisories/GHSA-rqff-837h-mm52,https://bit.ly/3LJc4BZ
+GithubAdvisories,[GHSA-hxmr-5gv9-6p8v] Cross-site Scripting in librenms,https://github.com/advisories/GHSA-hxmr-5gv9-6p8v,https://bit.ly/3BvIriU
+GithubAdvisories,[GHSA-gr23-g276-xc73] Cross Site Request Forgery in concrete5/concrete5,https://github.com/advisories/GHSA-gr23-g276-xc73,https://bit.ly/3LH7zaT
