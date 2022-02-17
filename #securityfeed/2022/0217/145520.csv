@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vg27-hr3v-3cqv] open redirect in pollbot,https://github.com/advisories/GHSA-vg27-hr3v-3cqv,https://bit.ly/3I1e85T
+GithubAdvisories,[GHSA-7p79-6x2v-5h88] Server crash if running Python 3.10 w/ Sanic 20.12,https://github.com/advisories/GHSA-7p79-6x2v-5h88,https://bit.ly/3sQvYlB
