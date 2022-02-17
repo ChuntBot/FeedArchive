@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fmvm-x8mv-47mj] Improper CSP in Image Optimization API for Next.js versions between 10.0.0 and 12.1.0,https://github.com/advisories/GHSA-fmvm-x8mv-47mj,https://bit.ly/3JyWiaF
