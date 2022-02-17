@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h289-x5wc-xcv8] Improper Validation of Certificate with Host Mismatch in mellium.im/xmpp/websocket,https://github.com/advisories/GHSA-h289-x5wc-xcv8,https://bit.ly/3gYj9A8
+GithubAdvisories,"[GHSA-qc84-gqf4-9926] Unsoundness of AtomicCell<{i,u}64> arithmetics on 32-bit targets that support Atomic{I,U}64",https://github.com/advisories/GHSA-qc84-gqf4-9926,https://bit.ly/3LCWK9Q
+GithubAdvisories,[GHSA-88xq-w8cq-xfg7] Invalid drop of partially-initialized instances in the pooling instance allocator for modules with defined `externref` globals,https://github.com/advisories/GHSA-88xq-w8cq-xfg7,https://bit.ly/3uXH77c
+GithubAdvisories,[GHSA-hrhx-6h34-j5hc] Skip the router TLS configuration when the host header is an FQDN,https://github.com/advisories/GHSA-hrhx-6h34-j5hc,https://bit.ly/3sNYq7R
+GithubAdvisories,[GHSA-cg3q-j54f-5p7p] InstrumentHandler* HTTP middleware prone to DoS through method label cardinality,https://github.com/advisories/GHSA-cg3q-j54f-5p7p,https://bit.ly/3HWUVT2
+GithubAdvisories,[GHSA-33wf-4crm-2322] Improper Access Control in librenms,https://github.com/advisories/GHSA-33wf-4crm-2322,https://bit.ly/3JwL1I0
+GithubAdvisories,[GHSA-ppfm-rj6p-38q6] Improper Authorization in librenms,https://github.com/advisories/GHSA-ppfm-rj6p-38q6,https://bit.ly/3GTAmp3
+GithubAdvisories,[GHSA-gj26-g5qf-jrh7] Cross-site Scripting in librenms,https://github.com/advisories/GHSA-gj26-g5qf-jrh7,https://bit.ly/3JqUXmq
+GithubAdvisories,[GHSA-254q-rqmw-vx45] Authorization bypass in librenms,https://github.com/advisories/GHSA-254q-rqmw-vx45,https://bit.ly/3HYpNm5
+GithubAdvisories,[GHSA-vpq7-m4qm-p2gp] Business Logic Errors in microweber,https://github.com/advisories/GHSA-vpq7-m4qm-p2gp,https://bit.ly/3uTi1Gp
+GithubAdvisories,[GHSA-rw98-5846-pqhx] Open redirect in microweber,https://github.com/advisories/GHSA-rw98-5846-pqhx,https://bit.ly/3oUIU90
+GithubAdvisories,[GHSA-fm6q-97gw-c4wh] Secret exposure in Jenkins HashiCorp Vault Plugin,https://github.com/advisories/GHSA-fm6q-97gw-c4wh,https://bit.ly/359zr6Y
