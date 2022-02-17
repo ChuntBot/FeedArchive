@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Zyxel Buffer Overflow / File Disclosure / CSRF / XSS / Broken Access Control,https://packetstormsecurity.com/files/166033/SA-20220215.txt,https://bit.ly/3I3Yff1
+PacketstormSecurity,Red Hat Security Advisory 2022-0491-01,https://packetstormsecurity.com/files/166032/RHSA-2022-0491-01.txt,https://bit.ly/3H1jfBI
+PacketstormSecurity,Trojan-Spy.Win32.Zbot.aawo.Zeus-Builder Insecure Permissions,https://packetstormsecurity.com/files/166031/MVID-2022-0493.txt,https://bit.ly/3H1j3T0
+PacketstormSecurity,Red Hat Security Advisory 2022-0548-01,https://packetstormsecurity.com/files/166030/RHSA-2022-0548-01.txt,https://bit.ly/3LElcYp
+PacketstormSecurity,WordPress Cozmoslabs Profile Builder 3.6.1 Cross Site Scripting,https://packetstormsecurity.com/files/166029/wpprofilebuilder361-xss.txt,https://bit.ly/3BvmiB9
+PacketstormSecurity,Backdoor.Win32.Prosti.b Insecure Permissions,https://packetstormsecurity.com/files/166028/MVID-2022-0492.txt,https://bit.ly/36mdUZg
+PacketstormSecurity,Red Hat Security Advisory 2022-0492-01,https://packetstormsecurity.com/files/166026/RHSA-2022-0492-01.txt,https://bit.ly/355XcMR
+PacketstormSecurity,MartFury Marketplace Cross Site Scripting,https://packetstormsecurity.com/files/166025/VL-2282.txt,https://bit.ly/3BrKYdQ
+PacketstormSecurity,Email-Worm.Win32.Lama Insecure Permissions,https://packetstormsecurity.com/files/166024/MVID-2022-0491.txt,https://bit.ly/3HXLAdn
+PacketstormSecurity,Vicidial 2.14-783a SQL Injection,https://packetstormsecurity.com/files/166023/VL-2312.txt,https://bit.ly/3JEDyqz
+PacketstormSecurity,Red Hat Security Advisory 2022-0485-01,https://packetstormsecurity.com/files/166022/RHSA-2022-0485-01.txt,https://bit.ly/3oX2AJw
+PacketstormSecurity,Backdoor.Win32.Prorat.lkt Weak Hardcoded Password,https://packetstormsecurity.com/files/166021/MVID-2022-0490.txt,https://bit.ly/3sL3nhD
+PacketstormSecurity,Red Hat Security Advisory 2022-0493-01,https://packetstormsecurity.com/files/166020/RHSA-2022-0493-01.txt,https://bit.ly/3H1j4q2
+PacketstormSecurity,Red Hat Security Advisory 2022-0546-01,https://packetstormsecurity.com/files/166019/RHSA-2022-0546-01.txt,https://bit.ly/3oWfiIs
+PacketstormSecurity,Backdoor.Win32.Zombam.b Cross Site Scripting,https://packetstormsecurity.com/files/166018/MVID-2022-0489.txt,https://bit.ly/3HYkToZ
+PacketstormSecurity,Red Hat Security Advisory 2022-0547-01,https://packetstormsecurity.com/files/166017/RHSA-2022-0547-01.txt,https://bit.ly/3rXZWFc
+PacketstormSecurity,Red Hat Security Advisory 2022-0544-01,https://packetstormsecurity.com/files/166016/RHSA-2022-0544-01.txt,https://bit.ly/357dqFO
+PacketstormSecurity,Car Portal Template Cross Site Scripting,https://packetstormsecurity.com/files/166015/VL-2299.txt,https://bit.ly/3BsrlCl
+PacketstormSecurity,Algorithmia MSOL Remote Code Execution,https://packetstormsecurity.com/files/166014/algorithmiamsol-exec.txt,https://bit.ly/34HzN4R
+PacketstormSecurity,Backdoor.Win32.Zombam.b Information Disclosure,https://packetstormsecurity.com/files/166013/MVID-2022-0488.txt,https://bit.ly/3LGZoLB
+PacketstormSecurity,Red Hat Security Advisory 2022-0543-01,https://packetstormsecurity.com/files/166012/RHSA-2022-0543-01.txt,https://bit.ly/3sLJU0p
+PacketstormSecurity,Zepl Notebook Sandbox Escape,https://packetstormsecurity.com/files/166011/zeplnotebook-sandboxescape.txt,https://bit.ly/3HaUIKR
+PacketstormSecurity,Zepl Notebook Remote Code Execution,https://packetstormsecurity.com/files/166010/zeplnotebook-exec.txt,https://bit.ly/3rXoY7r
