@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+PacketstormSecurity,WordPress MasterStudy LMS 2.7.5 Account Creation,https://packetstormsecurity.com/files/166060/wpmslms275-missing.txt,https://bit.ly/3BzqAHS
+PacketstormSecurity,WordPress UpdraftPlus 1.22.2 Backup Disclosure,https://packetstormsecurity.com/files/166059/wpupdraftplus1222-disclose.txt,https://bit.ly/3H1GhIA
+PacketstormSecurity,WordPress dzs-zoomsounds 6.60 Shell Upload,https://packetstormsecurity.com/files/166057/wpdzszoomsounds660-shell.txt,https://bit.ly/33uYwIO
+PacketstormSecurity,Fortinet Fortimail 7.0.1 Cross Site Scripting,https://packetstormsecurity.com/files/166055/fortimail701-xss.txt,https://bit.ly/3BwQJa4
+PacketstormSecurity,Hotel Druid 3.0.3 Remote Code Execution,https://packetstormsecurity.com/files/166052/hoteldruid303-exec.txt,https://bit.ly/3gXo1po
+PacketstormSecurity,Red Hat Security Advisory 2022-0580-01,https://packetstormsecurity.com/files/166051/RHSA-2022-0580-01.txt,https://bit.ly/355jcrm
+PacketstormSecurity,OPENSSLDIR Privilege Escalation,https://packetstormsecurity.com/files/166050/openssldir.pdf,https://bit.ly/3JxdMnU
+PacketstormSecurity,Cosmetics And Beauty Product Online Store 1.0 SQL Injection,https://packetstormsecurity.com/files/166049/cbpos10-sql.txt,https://bit.ly/3v0W606
+PacketstormSecurity,Cosmetics And Beauty Product Online Store 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/166048/cbpos10-xss.txt,https://bit.ly/3Bwef6W
+PacketstormSecurity,Solaris/SPARC chmod() Shellcode,https://packetstormsecurity.com/files/166047/sparc_solaris_chmod.c,https://bit.ly/3BtWNAc
+PacketstormSecurity,Solaris/SPARC execve() Shellcode,https://packetstormsecurity.com/files/166046/sparc_solaris_exec.c,https://bit.ly/3GZW7no
+PacketstormSecurity,Linux/MIPS N32 MSB Reverse Shell Shellcode,https://packetstormsecurity.com/files/166045/mips_n32_msb_linux_revsh.c,https://bit.ly/3s16t27
+PacketstormSecurity,Solaris/SPARC chmod() Shellcode,https://packetstormsecurity.com/files/166044/sparc_solaris_chmod2.c,https://bit.ly/3rWhhOS
+PacketstormSecurity,TOSHIBA DVD PLAYER Navi Support Service 1.00.0000 Unquoted Service Path,https://packetstormsecurity.com/files/166043/tdpnss-unquotedpath.txt,https://bit.ly/3BxxgpM
+PacketstormSecurity,Bluetooth Application 5.4.277 Unquoted Service Path,https://packetstormsecurity.com/files/166042/bluetoothapp54277-unquotedpath.txt,https://bit.ly/3I0FskI
+PacketstormSecurity,File Santizer For HP ProtectTools 5.0.1.3 Unquoted Service Path,https://packetstormsecurity.com/files/166041/fshppt5013-unquotedpath.txt,https://bit.ly/33uYxfQ
+PacketstormSecurity,Intel Management Engine Components 6.0.0.1189 Unquoted Service Path,https://packetstormsecurity.com/files/166040/imec6001189-unquotedpath.txt,https://bit.ly/3I0Fp8w
+PacketstormSecurity,Connectify Hotspot 2018 Unquoted Service Path,https://packetstormsecurity.com/files/166039/connectifyhotspot2018-unquotedpath.txt,https://bit.ly/3BE9HLZ
+PacketstormSecurity,Wondershare Dr.Fone 11.4.9 Unquoted Service Path,https://packetstormsecurity.com/files/166038/wondersharedrfone1149-unquotedpath.txt,https://bit.ly/36i4ePj
+PacketstormSecurity,Wondershare MobileTrans 3.5.9 Unquoted Service Path,https://packetstormsecurity.com/files/166037/wondersharemt359-unquotedpath.txt,https://bit.ly/3IdZqsc
