@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+ExploitDB,[local] Connectify Hotspot 2018 'ConnectifyService' - Unquoted Service Path,https://www.exploit-db.com/exploits/50764,https://bit.ly/359NwRu
+ExploitDB,[local] File Sanitizer for HP ProtectTools 5.0.1.3 - 'HPFSService' Unquoted Service Path,https://www.exploit-db.com/exploits/50763,https://bit.ly/3oWsmxi
+ExploitDB,[local] Intel(R) Management Engine Components 6.0.0.1189 - 'LMS' Unquoted Service Path,https://www.exploit-db.com/exploits/50762,https://bit.ly/3sKwJwG
+ExploitDB,[local] Bluetooth Application 5.4.277 - 'BlueSoleilCS' Unquoted Service Path,https://www.exploit-db.com/exploits/50761,https://bit.ly/34IQHjD
+ExploitDB,[local] TOSHIBA DVD PLAYER Navi Support Service - 'TNaviSrv' Unquoted Service Path,https://www.exploit-db.com/exploits/50760,https://bit.ly/3h0VGyg
+ExploitDB,[webapps] Fortinet Fortimail 7.0.1 - Reflected Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50759,https://bit.ly/34LufGy
+ExploitDB,[local] Wondershare UBackit 2.0.5 - 'wsbackup' Unquoted Service Path,https://www.exploit-db.com/exploits/50758,https://bit.ly/3uYYN1X
+ExploitDB,[local] Wondershare FamiSafe 1.0 - 'FSService' Unquoted Service Path,https://www.exploit-db.com/exploits/50757,https://bit.ly/3GZvuPn
+ExploitDB,[local] Wondershare MobileTrans 3.5.9 - 'ElevationService' Unquoted Service Path,https://www.exploit-db.com/exploits/50756,https://bit.ly/3gYeTAK
+ExploitDB,[local] Wondershare Dr.Fone 11.4.9 - 'DFWSIDService' Unquoted Service Path,https://www.exploit-db.com/exploits/50755,https://bit.ly/3HZM7eY
