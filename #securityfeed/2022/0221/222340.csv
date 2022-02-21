@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+DebianSecurityNotice,DSA-5084 wpewebkit,https://www.debian.org/security/2022/dsa-5084,https://bit.ly/3JDMNao
+DebianSecurityNotice,DSA-5083 webkit2gtk,https://www.debian.org/security/2022/dsa-5083,https://bit.ly/3H5Q28I
+DebianSecurityNotice,DSA-5082 php7.4,https://www.debian.org/security/2022/dsa-5082,https://bit.ly/3h390Co
+DebianSecurityNotice,DSA-5081 redis,https://www.debian.org/security/2022/dsa-5081,https://bit.ly/3I8OIDA
+DebianSecurityNotice,DSA-5080 snapd,https://www.debian.org/security/2022/dsa-5080,https://bit.ly/3BCv54i
