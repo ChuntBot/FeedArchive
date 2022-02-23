@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Microweber CMS 1.2.10 - Local File Inclusion (Authenticated) (Metasploit),https://www.exploit-db.com/exploits/50786,https://bit.ly/3hbJxqo
+ExploitDB,[webapps] WebHMI 4.1 - Stored Cross Site Scripting (XSS) (Authenticated),https://www.exploit-db.com/exploits/50785,https://bit.ly/3IeJ6rv
+ExploitDB,[webapps] WebHMI 4.1.1 - Remote Code Execution (RCE) (Authenticated),https://www.exploit-db.com/exploits/50784,https://bit.ly/36EmIdf
+ExploitDB,[remote] ICL ScadaFlex II SCADA Controllers SC-1/SC-2 1.03.07 - Remote File CRUD,https://www.exploit-db.com/exploits/50783,https://bit.ly/3v8TFIT
