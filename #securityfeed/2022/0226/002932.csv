@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h676-pjr4-hgqx] Path Traversal in S-Cart,https://github.com/advisories/GHSA-h676-pjr4-hgqx,https://bit.ly/3BVEuE1
+GithubAdvisories,[GHSA-j586-cj67-vg4p] Cross-Site Request Forgery in Drupal core,https://github.com/advisories/GHSA-j586-cj67-vg4p,https://bit.ly/3BVEAvn
+GithubAdvisories,[GHSA-mmjr-5q74-p3m4] Exposure of Resource to Wrong Sphere in Drupal Core,https://github.com/advisories/GHSA-mmjr-5q74-p3m4,https://bit.ly/3Io4jPP
+GithubAdvisories,[GHSA-m6q5-wv4x-fv6h] Cross-site Scripting in Drupal Core,https://github.com/advisories/GHSA-m6q5-wv4x-fv6h,https://bit.ly/36y4mdC
+GithubAdvisories,[GHSA-qfhg-m6r8-xxpj] Incorrect Authorization in Drupal core,https://github.com/advisories/GHSA-qfhg-m6r8-xxpj,https://bit.ly/3slUYCn
+GithubAdvisories,[GHSA-v8wr-r69p-mmwx] Unrestricted Upload of File with Dangerous Type in Drupal core,https://github.com/advisories/GHSA-v8wr-r69p-mmwx,https://bit.ly/35bBebJ
