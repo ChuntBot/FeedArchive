@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4cxw-hq44-r344] Off-by-one Error in v2fly/v2ray-core,https://github.com/advisories/GHSA-4cxw-hq44-r344,https://bit.ly/36xUQqS
+GithubAdvisories,[GHSA-9cwv-cppx-mqjm] Improper Authentication in Capsule Proxy,https://github.com/advisories/GHSA-9cwv-cppx-mqjm,https://bit.ly/3phWZh6
+GithubAdvisories,[GHSA-86f3-hf24-76q4] Use of Hard-coded Cryptographic Key in Netmaker,https://github.com/advisories/GHSA-86f3-hf24-76q4,https://bit.ly/3t3IJta
+GithubAdvisories,[GHSA-ccxc-vr6p-4858] Improper Certificate Validation in Cosign,https://github.com/advisories/GHSA-ccxc-vr6p-4858,https://bit.ly/35fRNmS
+GithubAdvisories,[GHSA-fgv8-vj5c-2ppq] Incorrect Authorization in runc,https://github.com/advisories/GHSA-fgv8-vj5c-2ppq,https://bit.ly/3sok17G
+GithubAdvisories,[GHSA-6rrw-4fm9-rghv] Use of Hard-coded Cryptographic Key in Netmaker,https://github.com/advisories/GHSA-6rrw-4fm9-rghv,https://bit.ly/3skhnjx
+GithubAdvisories,[GHSA-gggp-gh2p-996x] Path Traversal in LemMinX,https://github.com/advisories/GHSA-gggp-gh2p-996x,https://bit.ly/3vgXagf
+GithubAdvisories,[GHSA-52vv-3vf7-f7wh] Server-Side Request Forgery and Uncontrolled Resource Consumption in LemMinX,https://github.com/advisories/GHSA-52vv-3vf7-f7wh,https://bit.ly/3BR9GEG
+GithubAdvisories,[GHSA-hrxv-694f-22g3] Exposure of Sensitive Information to an Unauthorized Actor in LemMinX,https://github.com/advisories/GHSA-hrxv-694f-22g3,https://bit.ly/35bJKaH
+GithubAdvisories,[GHSA-q62h-jw38-24vh] Uncaught Exception in zip4j,https://github.com/advisories/GHSA-q62h-jw38-24vh,https://bit.ly/3M73Gw3
+GithubAdvisories,[GHSA-hgjh-723h-mx2j] Authorization Bypass Through User-Controlled Key in url-parse,https://github.com/advisories/GHSA-hgjh-723h-mx2j,https://bit.ly/3ImZoyA
+GithubAdvisories,[GHSA-3949-f494-cm99] Cross-site Scripting in Prism,https://github.com/advisories/GHSA-3949-f494-cm99,https://bit.ly/3vl5xYj
