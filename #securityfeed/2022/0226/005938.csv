@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j57w-3c39-gpp5] Improper Privilege Management in Snipe-IT,https://github.com/advisories/GHSA-j57w-3c39-gpp5,https://bit.ly/3hhWsXV
+GithubAdvisories,[GHSA-v9p9-535w-4285] Prototype Pollution in litespeed.js and appwrite/server-ce,https://github.com/advisories/GHSA-v9p9-535w-4285,https://bit.ly/3HpewtT
+GithubAdvisories,[GHSA-2m9w-9xh2-wxc3] Link Following in Jenkins Pipeline Multibranch Plugin,https://github.com/advisories/GHSA-2m9w-9xh2-wxc3,https://bit.ly/3vkGi8p
+GithubAdvisories,[GHSA-vh2r-x97c-2vpr] SQL Injection in Jeecg-boot,https://github.com/advisories/GHSA-vh2r-x97c-2vpr,https://bit.ly/36KgoAP
+GithubAdvisories,[GHSA-f9pg-g9xw-r5g2] SQL Injection in Jeecg-boot,https://github.com/advisories/GHSA-f9pg-g9xw-r5g2,https://bit.ly/3M6zAZy
+GithubAdvisories,[GHSA-p7w9-8mxw-p3g7] Improper Certificate Validation in Hutool,https://github.com/advisories/GHSA-p7w9-8mxw-p3g7,https://bit.ly/3t9er8r
+GithubAdvisories,[GHSA-vwx4-frpr-w27j] Improper Synchronization in Jenkins Convertigo Mobile Platform Plugin,https://github.com/advisories/GHSA-vwx4-frpr-w27j,https://bit.ly/3smYbSk
+GithubAdvisories,[GHSA-vx6f-6rp6-f2px] Cross-Site Request Forgery in Jenkins dbCharts Plugin,https://github.com/advisories/GHSA-vx6f-6rp6-f2px,https://bit.ly/3HkYJfB
+GithubAdvisories,[GHSA-m5wp-p3gj-7q5g] Missing Authorization in Jenkins dbCharts Plugin,https://github.com/advisories/GHSA-m5wp-p3gj-7q5g,https://bit.ly/3MfzkI7
+GithubAdvisories,[GHSA-9p8q-j6q5-mjw8] Buffer Overflow in galois_2p8,https://github.com/advisories/GHSA-9p8q-j6q5-mjw8,https://bit.ly/3vgRQth
+GithubAdvisories,[GHSA-389p-fchr-q2mg] Path Traversal in ImpressCMS,https://github.com/advisories/GHSA-389p-fchr-q2mg,https://bit.ly/3Iq2KAS
+GithubAdvisories,[GHSA-vm37-j55j-8655] OS Command Injection in microweber,https://github.com/advisories/GHSA-vm37-j55j-8655,https://bit.ly/3HjpfWF
+GithubAdvisories,[GHSA-v6vg-pxvv-g5cq] Improper Privilege Management in Snipe-IT,https://github.com/advisories/GHSA-v6vg-pxvv-g5cq,https://bit.ly/359dDsc
+GithubAdvisories,[GHSA-8ffc-79xg-29w8] Code Injection in Apache Cassandra,https://github.com/advisories/GHSA-8ffc-79xg-29w8,https://bit.ly/3HkYOQr
