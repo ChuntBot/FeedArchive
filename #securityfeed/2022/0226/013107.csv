@@ -1,0 +1,30 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8v38-pw62-9cw2] Authorization Bypass Through User-Controlled Key in url-parse,https://github.com/advisories/GHSA-8v38-pw62-9cw2,https://bit.ly/3Hh5rDm
+GithubAdvisories,[GHSA-m639-9whg-fw97] Prototype Pollution in object-extend,https://github.com/advisories/GHSA-m639-9whg-fw97,https://bit.ly/3BULoK3
+GithubAdvisories,[GHSA-gcv8-gh4r-25x6] Authorization Bypass in urijs,https://github.com/advisories/GHSA-gcv8-gh4r-25x6,https://bit.ly/3vlVhiE
+GithubAdvisories,[GHSA-vv6j-ww6x-54gx] Use after free in Animation,https://github.com/advisories/GHSA-vv6j-ww6x-54gx,https://bit.ly/3HrnmY2
+GithubAdvisories,[GHSA-6w4v-qr4m-97gg] Multi-Factor Authentication issue in Laravel Fortify,https://github.com/advisories/GHSA-6w4v-qr4m-97gg,https://bit.ly/3vi92if
+GithubAdvisories,[GHSA-53m6-44rc-h2q5] Missing server signature validation in OctoberCMS,https://github.com/advisories/GHSA-53m6-44rc-h2q5,https://bit.ly/35otrqV
+GithubAdvisories,[GHSA-j8cx-j9j2-f29w] Insecure Storage of Sensitive Information in Microweber,https://github.com/advisories/GHSA-j8cx-j9j2-f29w,https://bit.ly/3KeplRx
+GithubAdvisories,[GHSA-hj8g-cw8x-2c6m] Cross-site Scripting in Microweber,https://github.com/advisories/GHSA-hj8g-cw8x-2c6m,https://bit.ly/33RACr9
+GithubAdvisories,[GHSA-mjvc-j6rv-9xj8] Insertion of Sensitive Information Into Debugging Code in Microweber,https://github.com/advisories/GHSA-mjvc-j6rv-9xj8,https://bit.ly/3M2CRsS
+GithubAdvisories,[GHSA-jmhf-9fj8-88gh] Open Redirect in AllTube,https://github.com/advisories/GHSA-jmhf-9fj8-88gh,https://bit.ly/3vhkgU8
+GithubAdvisories,[GHSA-79jw-2f46-wv22] Authenticated remote code execution in October CMS,https://github.com/advisories/GHSA-79jw-2f46-wv22,https://bit.ly/3t9gA3Z
+GithubAdvisories,[GHSA-c5gj-w4hx-gvmx] Business Logic Errors in microweber,https://github.com/advisories/GHSA-c5gj-w4hx-gvmx,https://bit.ly/3HmQ8Jr
+GithubAdvisories,[GHSA-3p9j-442x-hjp7] Business Logic Errors in microweber,https://github.com/advisories/GHSA-3p9j-442x-hjp7,https://bit.ly/3Ion8Cp
+GithubAdvisories,[GHSA-rgp5-m2pq-3fmg] Cross-site Scripting in microweber,https://github.com/advisories/GHSA-rgp5-m2pq-3fmg,https://bit.ly/3vpYJsB
+GithubAdvisories,[GHSA-38m9-3vg4-rwvp] Cross-site Scripting in microweber,https://github.com/advisories/GHSA-38m9-3vg4-rwvp,https://bit.ly/3M62UzC
+GithubAdvisories,[GHSA-6x3j-x9rp-whxp] Unrestricted Upload of File with Dangerous Type in showdoc,https://github.com/advisories/GHSA-6x3j-x9rp-whxp,https://bit.ly/3vhkafe
+GithubAdvisories,[GHSA-hhrj-wp42-32v3] Generation of Error Message Containing Sensitive Information in microweber,https://github.com/advisories/GHSA-hhrj-wp42-32v3,https://bit.ly/3sm4m91
+GithubAdvisories,[GHSA-3wwj-wh2w-g4xp] CRLF Injection in microweber,https://github.com/advisories/GHSA-3wwj-wh2w-g4xp,https://bit.ly/3MfC7B5
+GithubAdvisories,[GHSA-59x4-67mh-px54] Crypt_GPG does not prevent additional options in GPG calls,https://github.com/advisories/GHSA-59x4-67mh-px54,https://bit.ly/33TqBtJ
+GithubAdvisories,[GHSA-pwwm-pwx2-2hw7] Generation of Error Message Containing Sensitive Information in Snipe-IT,https://github.com/advisories/GHSA-pwwm-pwx2-2hw7,https://bit.ly/3vkoZob
+GithubAdvisories,[GHSA-ghww-cv4v-hmxx] Cross-Site Request Forgery microweber,https://github.com/advisories/GHSA-ghww-cv4v-hmxx,https://bit.ly/3hjcfpx
+GithubAdvisories,[GHSA-6r86-2jm9-9mh4] File upload restriction bypass in Zenario CMS,https://github.com/advisories/GHSA-6r86-2jm9-9mh4,https://bit.ly/3pkTTZM
+GithubAdvisories,[GHSA-vqj2-4v8m-8vrq] Insecure Temporary File in mlflow,https://github.com/advisories/GHSA-vqj2-4v8m-8vrq,https://bit.ly/359tNlu
+GithubAdvisories,[GHSA-p867-fxfr-ph2w] b2-sdk-python TOCTOU application key disclosure,https://github.com/advisories/GHSA-p867-fxfr-ph2w,https://bit.ly/3HmVLHw
+GithubAdvisories,[GHSA-8wr4-2wm6-w3pr] B2 Command Line Tool TOCTOU application key disclosure,https://github.com/advisories/GHSA-8wr4-2wm6-w3pr,https://bit.ly/3hlxh74
+GithubAdvisories,[GHSA-mf22-92pm-m8p8] Cross site scripting in @awsui/components-react,https://github.com/advisories/GHSA-mf22-92pm-m8p8,https://bit.ly/3HnZRyU
+GithubAdvisories,[GHSA-x2p8-rgfm-qw3v] Access Control vulnerability within CoreNLP,https://github.com/advisories/GHSA-x2p8-rgfm-qw3v,https://bit.ly/3HAdVWx
+GithubAdvisories,[GHSA-fq42-c5rg-92c2] Vulnerable dependencies in Nokogiri,https://github.com/advisories/GHSA-fq42-c5rg-92c2,https://bit.ly/3vAlwlB
+GithubAdvisories,[GHSA-6jp6-9rf9-gc66] Cross-site Scripting in Weblate,https://github.com/advisories/GHSA-6jp6-9rf9-gc66,https://bit.ly/3hAzdZz
