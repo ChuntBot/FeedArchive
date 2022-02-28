@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+ExploitDB,[remote] WAGO 750-8212 PFC200 G2 2ETH RS - Privilege Escalation,https://www.exploit-db.com/exploits/50793,https://bit.ly/3tjmkIN
+ExploitDB,[webapps] Casdoor 1.13.0 - SQL Injection (Unauthenticated),https://www.exploit-db.com/exploits/50792,https://bit.ly/3sq8QeQ
+ExploitDB,[local] Cobian Backup Gravity 11.2.0.582 - 'CobianBackup11' Unquoted Service Path,https://www.exploit-db.com/exploits/50791,https://bit.ly/3IrQMqn
+ExploitDB,[local] Cobian Backup 11 Gravity 11.2.0.582 - 'Password' Denial of Service (PoC),https://www.exploit-db.com/exploits/50790,https://bit.ly/3Mk84rZ
+ExploitDB,[local] Cobian Reflector 0.9.93 RC1 - 'Password' Denial of Service (PoC),https://www.exploit-db.com/exploits/50789,https://bit.ly/35a1CD9
+ExploitDB,[webapps] Cipi Control Panel 3.1.15 - Stored Cross-Site Scripting (XSS) (Authenticated),https://www.exploit-db.com/exploits/50788,https://bit.ly/3M6FA4K
