@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4v37-24gm-h554] Cross-Site Request Forgery (CSRF) Protection Bypass Vulnerability in CodeIgniter4,https://github.com/advisories/GHSA-4v37-24gm-h554,https://bit.ly/3M814y2
+GithubAdvisories,[GHSA-xjp4-6w75-qrj7] Remote CLI Command Execution Vulnerability in CodeIgniter4,https://github.com/advisories/GHSA-xjp4-6w75-qrj7,https://bit.ly/3K4KEVq
+GithubAdvisories,[GHSA-gv9j-4w24-q7vx] Improper random number generation in github.com/coredns/coredns,https://github.com/advisories/GHSA-gv9j-4w24-q7vx,https://bit.ly/3sAIhnv
+GithubAdvisories,[GHSA-4cpg-3vgw-4877] Prototype pollution in Plist,https://github.com/advisories/GHSA-4cpg-3vgw-4877,https://bit.ly/3toGuRl
+GithubAdvisories,[GHSA-xrjf-phvv-r4vr] Command injection in strapi,https://github.com/advisories/GHSA-xrjf-phvv-r4vr,https://bit.ly/3swLYKB
+GithubAdvisories,[GHSA-vhm6-gw82-6f8j] Cross site scripting in librenms/librenms,https://github.com/advisories/GHSA-vhm6-gw82-6f8j,https://bit.ly/3hvPsa1
+GithubAdvisories,[GHSA-3382-r9q8-4hfg] Uncontrolled Resource Consumption in github.com/hashicorp/nomad,https://github.com/advisories/GHSA-3382-r9q8-4hfg,https://bit.ly/3puM0AN
