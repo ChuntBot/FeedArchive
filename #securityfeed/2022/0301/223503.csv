@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wmrx-57hm-mw7r] Arbitrary file reads in HashiCorp Nomad,https://github.com/advisories/GHSA-wmrx-57hm-mw7r,https://bit.ly/3toFcpJ
+GithubAdvisories,[GHSA-j3ch-vjph-8q6v] Command injection in Alluxio,https://github.com/advisories/GHSA-j3ch-vjph-8q6v,https://bit.ly/3sx6tXG
+GithubAdvisories,[GHSA-cxf7-qrc5-9446] Remote shell execution vulnerability when applying commands from user input,https://github.com/advisories/GHSA-cxf7-qrc5-9446,https://bit.ly/3C4FPIQ
+GithubAdvisories,[GHSA-5875-p652-2ppm] Logic error in microweber,https://github.com/advisories/GHSA-5875-p652-2ppm,https://bit.ly/3CdtjXK
+GithubAdvisories,[GHSA-6m26-25q2-cq46] Cross-site Scripting in microweber,https://github.com/advisories/GHSA-6m26-25q2-cq46,https://bit.ly/3sy5qH2
+GithubAdvisories,[GHSA-4p92-fv6v-fhfj] Cross-site Scripting in microweber,https://github.com/advisories/GHSA-4p92-fv6v-fhfj,https://bit.ly/3vpUCN4
+GithubAdvisories,[GHSA-9953-fmrw-v4vm] Cross-site Scripting in Apache JSPWiki,https://github.com/advisories/GHSA-9953-fmrw-v4vm,https://bit.ly/3ht66aj
+GithubAdvisories,[GHSA-mq6c-fh97-4gwv] Denial of Service vulnerability with large JSON payloads in fastify,https://github.com/advisories/GHSA-mq6c-fh97-4gwv,https://bit.ly/31LvAbU
+GithubAdvisories,[GHSA-4284-x26r-4hhc] Cross Site Request Forgery in Apache JSPWiki,https://github.com/advisories/GHSA-4284-x26r-4hhc,https://bit.ly/3K7BwiJ
+GithubAdvisories,[GHSA-w4f8-fxq2-j35v] Possible privilege escalation via bash completion script,https://github.com/advisories/GHSA-w4f8-fxq2-j35v,https://bit.ly/35k5q4F
+GithubAdvisories,[GHSA-p93v-m2r2-4387] Denial of service via insufficient metadata validation,https://github.com/advisories/GHSA-p93v-m2r2-4387,https://bit.ly/345ErsV
+GithubAdvisories,[GHSA-chxf-fjcf-7fwp] Possible filesystem space exhaustion by local users,https://github.com/advisories/GHSA-chxf-fjcf-7fwp,https://bit.ly/3HAYsVQ
+GithubAdvisories,[GHSA-wxjg-p59j-6c92] Command injection in github.com/google/fscrypt,https://github.com/advisories/GHSA-wxjg-p59j-6c92,https://bit.ly/3pp7nUj
+GithubAdvisories,[GHSA-8vwm-8vj8-rqjf] User login denial of service in github.com/google/fscrypt,https://github.com/advisories/GHSA-8vwm-8vj8-rqjf,https://bit.ly/3HysidG
+GithubAdvisories,[GHSA-mpq4-rjj8-fjph] Uncontrolled Resource Consumption in github.com/google/fscrypt,https://github.com/advisories/GHSA-mpq4-rjj8-fjph,https://bit.ly/3vwgWo3
+GithubAdvisories,[GHSA-8vq6-5f66-hp3r] Logic error in dolibarr/dolibarr,https://github.com/advisories/GHSA-8vq6-5f66-hp3r,https://bit.ly/3tjwGZ3
+GithubAdvisories,[GHSA-65xw-pcqw-hjrh] Cross site scripting in apache airflow,https://github.com/advisories/GHSA-65xw-pcqw-hjrh,https://bit.ly/3vLIQNl
+GithubAdvisories,[GHSA-3v7g-4pg3-7r6j] OS Command injection in apache airflow,https://github.com/advisories/GHSA-3v7g-4pg3-7r6j,https://bit.ly/3MhkXD5
+GithubAdvisories,[GHSA-rc3x-jf5g-xvc5] Open redirect in karma,https://github.com/advisories/GHSA-rc3x-jf5g-xvc5,https://bit.ly/3sx6oTS
+GithubAdvisories,[GHSA-82rr-mq4r-p4r3] SQL injection in francoisjacquet/rosariosis,https://github.com/advisories/GHSA-82rr-mq4r-p4r3,https://bit.ly/3K5ZCdM
+GithubAdvisories,[GHSA-3756-hwhv-qw58] Cross site scripting in francoisjacquet/rosariosis,https://github.com/advisories/GHSA-3756-hwhv-qw58,https://bit.ly/3K9hAME
+GithubAdvisories,[GHSA-44cg-qcpr-fwjh] Cross site scripting in francoisjacquet/rosariosis,https://github.com/advisories/GHSA-44cg-qcpr-fwjh,https://bit.ly/3MeVI4k
+GithubAdvisories,[GHSA-hjp8-2cm3-cc45] Cookie exposure in requestretry,https://github.com/advisories/GHSA-hjp8-2cm3-cc45,https://bit.ly/3vzL3uX
