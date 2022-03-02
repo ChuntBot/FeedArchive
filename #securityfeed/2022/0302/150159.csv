@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-32x6-qvw6-mxj4] Forwarding of confidentials headers to third parties in fluture-node,https://github.com/advisories/GHSA-32x6-qvw6-mxj4,https://bit.ly/3hv5qB9
+GithubAdvisories,[GHSA-mfjm-vh54-3f96] Cookie-setting is not restricted based on the public suffix list,https://github.com/advisories/GHSA-mfjm-vh54-3f96,https://bit.ly/3HAxRs4
+GithubAdvisories,[GHSA-cjvr-mfj7-j4j8] User-set cookies are kept on redirect requests regardless of the target domain,https://github.com/advisories/GHSA-cjvr-mfj7-j4j8,https://bit.ly/3psmwnB
+GithubAdvisories,[GHSA-7f63-h6g3-7cwm] Cross Site Scripting (XSS) in @finastra/ssr-pages,https://github.com/advisories/GHSA-7f63-h6g3-7cwm,https://bit.ly/3C7cX2I
+GithubAdvisories,[GHSA-w6cx-qg2q-rvq8] Path Traversal in @finastra/ssr-pages,https://github.com/advisories/GHSA-w6cx-qg2q-rvq8,https://bit.ly/3HAjjZB
+GithubAdvisories,[GHSA-mj6m-246h-9w56] Improper regex in htaccess file,https://github.com/advisories/GHSA-mj6m-246h-9w56,https://bit.ly/3vyoUx9
+GithubAdvisories,[GHSA-j34v-3552-5r7j] Multiple security issues in Pomerium's embedded envoy,https://github.com/advisories/GHSA-j34v-3552-5r7j,https://bit.ly/3vtJUFn
+GithubAdvisories,[GHSA-r5hc-wm3g-hjw6] Server-Side Request Forgery (SSRF) in rudloff/alltube,https://github.com/advisories/GHSA-r5hc-wm3g-hjw6,https://bit.ly/35Nzaa8
