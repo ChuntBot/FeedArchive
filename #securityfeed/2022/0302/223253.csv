@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cm9w-c4rj-r2cf] Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in view_component,https://github.com/advisories/GHSA-cm9w-c4rj-r2cf,https://bit.ly/35Gs9Yr
