@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-crp2-qrr5-8pq7] containerd CRI plugin: Insecure handling of image volumes,https://github.com/advisories/GHSA-crp2-qrr5-8pq7,https://bit.ly/3K7L65c
+GithubAdvisories,[GHSA-xvm2-9xvc-hx7f] Improper Restriction of XML External Entity Reference in com.monitorjbl:xlsx-streamer,https://github.com/advisories/GHSA-xvm2-9xvc-hx7f,https://bit.ly/3sEjjDA
+GithubAdvisories,[GHSA-gjq4-69wj-p6pr] Path traversal in pimcore,https://github.com/advisories/GHSA-gjq4-69wj-p6pr,https://bit.ly/3HyJYG1
