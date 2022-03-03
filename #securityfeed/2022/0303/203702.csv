@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fmx4-26r3-wxpf] Integer overflow in cmark-gfm table parsing extension leads to heap memory corruption,https://github.com/advisories/GHSA-fmx4-26r3-wxpf,https://bit.ly/3HFfKRU
