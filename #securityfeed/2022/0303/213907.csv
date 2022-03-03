@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-446w-rrm4-r47f] Exposure of home directory through shescape on Unix with Bash,https://github.com/advisories/GHSA-446w-rrm4-r47f,https://bit.ly/35NGu5f
+GithubAdvisories,[GHSA-gmv4-r438-p67f] Leading white space bypasses protocol validation,https://github.com/advisories/GHSA-gmv4-r438-p67f,https://bit.ly/3tzkX90
+GithubAdvisories,[GHSA-rv6r-3f5q-9rgx] Twisted SSH client and server deny of service during SSH handshake,https://github.com/advisories/GHSA-rv6r-3f5q-9rgx,https://bit.ly/3hGiCDi
+GithubAdvisories,[GHSA-gcx5-3p5f-f8vp] Prototype Pollution in jquery.cookie,https://github.com/advisories/GHSA-gcx5-3p5f-f8vp,https://bit.ly/3HHn6Ei
