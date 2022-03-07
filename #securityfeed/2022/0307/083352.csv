@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+ExploitDB,[local] Foxit PDF Reader 11.0 - Unquoted Service Path,https://www.exploit-db.com/exploits/50807,https://bit.ly/3vGJX0r
+ExploitDB,[local] Malwarebytes 4.5 - Unquoted Service Path,https://www.exploit-db.com/exploits/50806,https://bit.ly/3hLnvva
+ExploitDB,[local] Cloudflare WARP 1.4 - Unquoted Service Path,https://www.exploit-db.com/exploits/50805,https://bit.ly/3Kmehl5
+ExploitDB,[local] Private Internet Access 3.3 - 'pia-service' Unquoted Service Path,https://www.exploit-db.com/exploits/50804,https://bit.ly/3ttrO3q
+ExploitDB,[webapps] Hasura GraphQL 2.2.0 - Information Disclosure,https://www.exploit-db.com/exploits/50803,https://bit.ly/3vOxpnR
+ExploitDB,[webapps] Attendance and Payroll System v1.0 - SQLi Authentication Bypass,https://www.exploit-db.com/exploits/50802,https://bit.ly/3tvkW5M
+ExploitDB,[webapps] Attendance and Payroll System v1.0 - Remote Code Execution (RCE),https://www.exploit-db.com/exploits/50801,https://bit.ly/3tt2ta0
+ExploitDB,[webapps] part-db 0.5.11 - Remote Code Execution (RCE),https://www.exploit-db.com/exploits/50800,https://bit.ly/34klJxZ
