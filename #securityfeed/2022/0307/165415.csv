@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Mozilla Fixes Two Critical Firefox Flaws That Are Being Actively Exploited,https://packetstormsecurity.com/news/view/33179/Mozilla-Fixes-Two-Critical-Firefox-Flaws-That-Are-Being-Actively-Exploited.html,https://bit.ly/34mbQ2F
+PacketstormSecurity,Massive Meris Botnet Embeds Ransomware Notes From REvil,https://packetstormsecurity.com/news/view/33180/Massive-Meris-Botnet-Embeds-Ransomware-Notes-From-REvil.html,https://bit.ly/3hJwgG7
+PacketstormSecurity,Hackers Stoke Pandemonium Amid Russia's War In Ukraine,https://packetstormsecurity.com/news/view/33181/Hackers-Stoke-Pandemonium-Amid-Russias-War-In-Ukraine.html,https://bit.ly/3tVsC1B
+PacketstormSecurity,Global Consultancies Quit Russia,https://packetstormsecurity.com/news/view/33182/Global-Consultancies-Quit-Russia.html,https://bit.ly/3pGEROc
+PacketstormSecurity,Asterisk Project Security Advisory - AST-2022-006,https://packetstormsecurity.com/files/166227/AST-2022-006.txt,https://bit.ly/35ZYolH
+PacketstormSecurity,Asterisk Project Security Advisory - AST-2022-005,https://packetstormsecurity.com/files/166226/AST-2022-005.txt,https://bit.ly/3twS8tE
+PacketstormSecurity,Apache APISIX Remote Code Execution,https://packetstormsecurity.com/files/166228/apache_apisix_api_default_token_rce.rb.txt,https://bit.ly/3CokYRa
+PacketstormSecurity,Asterisk Project Security Advisory - AST-2022-004,https://packetstormsecurity.com/files/166225/AST-2022-004.txt,https://bit.ly/35R7uB3
+PacketstormSecurity,Attendance And Payroll System 1.0 Remote Code Execution,https://packetstormsecurity.com/files/166223/aps10-exec.txt,https://bit.ly/3HQuOwf
+PacketstormSecurity,Attendance And Payroll System 1.0 SQL Injection,https://packetstormsecurity.com/files/166222/aps10-sql.txt,https://bit.ly/3J6rI8R
+PacketstormSecurity,Hasura GraphQL 2.2.0 Information Disclosure,https://packetstormsecurity.com/files/166220/hasuragraphql220-disclose.txt,https://bit.ly/35TCekT
+PacketstormSecurity,Spring Cloud Gateway 3.1.0 Remote Code Execution,https://packetstormsecurity.com/files/166219/springcloudgw310-exec.txt,https://bit.ly/3ClF1zu
+PacketstormSecurity,part-db 0.5.11 Remote Code Execution,https://packetstormsecurity.com/files/166217/partdb0511-exec.txt,https://bit.ly/3vMt30n
+PacketstormSecurity,Loki RAT (Relapse) SQL Injection,https://packetstormsecurity.com/files/166215/MVID-2022-0510.txt,https://bit.ly/3sPpYuU
+PacketstormSecurity,Private Internet Access 3.3 Unquoted Service Path,https://packetstormsecurity.com/files/166214/pia33-unquotedpath.txt,https://bit.ly/3tVsCyD
+PacketstormSecurity,Loki RAT (Relapse) Directory Traversal / Arbitrary File Deletion,https://packetstormsecurity.com/files/166213/MVID-2022-0509.txt,https://bit.ly/3sQEbI4
+PacketstormSecurity,Matrimony 1.0 SQL Injection,https://packetstormsecurity.com/files/166212/matrimony10-sql.txt,https://bit.ly/35v7iYB
+PacketstormSecurity,Cloudflare WARP 1.4 Unquoted Service Path,https://packetstormsecurity.com/files/166211/cloudflarewarp14-unquoted.path.txt,https://bit.ly/3sPpXXS
+PacketstormSecurity,Malwarebytes 4.5 Unquoted Service Path,https://packetstormsecurity.com/files/166210/malwarebytes45-unquotedpath.txt,https://bit.ly/3MxtBNV
+PacketstormSecurity,Foxit PDF Reader 11.0 Unquoted Service Path,https://packetstormsecurity.com/files/166209/foxitpdfreader110-unquotedpath.txt,https://bit.ly/3Kneapt
