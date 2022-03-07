@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+DebianSecurityNotice,DSA-5092 linux,https://www.debian.org/security/2022/dsa-5092,https://bit.ly/3sPFUwZ
+DebianSecurityNotice,DSA-5091 containerd,https://www.debian.org/security/2022/dsa-5091,https://bit.ly/3ITJH1R
+DebianSecurityNotice,DSA-5090 firefox-esr,https://www.debian.org/security/2022/dsa-5090,https://bit.ly/3HQoTam
+DebianSecurityNotice,DSA-5089 chromium,https://www.debian.org/security/2022/dsa-5089,https://bit.ly/3CoIsFq
