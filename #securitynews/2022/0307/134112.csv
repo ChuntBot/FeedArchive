@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,"Hi, I have updated the scodescanner v2.0 which has integration of semgrep and scans the pHP source code. I used this tool on 1000+ files and observed that number of SQL injections and XSSes were found along with SSRFs, Open redirection. Github - https://github.com/agrawalsmart7/scodescanner",https://redd.it/t8pbil,
