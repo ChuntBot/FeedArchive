@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2647-c639-qv2j] Server-Side Request Forgery in calibreweb,https://github.com/advisories/GHSA-2647-c639-qv2j,https://bit.ly/3KrR01b
+GithubAdvisories,[GHSA-h65g-jfqg-2w6m] Server-Side Request Forgery in calibreweb,https://github.com/advisories/GHSA-h65g-jfqg-2w6m,https://bit.ly/3vOXGT3
+GithubAdvisories,[GHSA-m5pq-gvj9-9vr8] Regular expression denial of service in Rust's regex crate,https://github.com/advisories/GHSA-m5pq-gvj9-9vr8,https://bit.ly/3sV9bXq
