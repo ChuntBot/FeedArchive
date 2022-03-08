@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2rmm-87v7-34rj] Improper Restriction of XML External Entity Reference in Any23,https://github.com/advisories/GHSA-2rmm-87v7-34rj,https://bit.ly/3IYP1kS
+GithubAdvisories,[GHSA-r5qj-cvf9-p85h] Code Injection in PyTorch Lightning,https://github.com/advisories/GHSA-r5qj-cvf9-p85h,https://bit.ly/3IVtcTb
+GithubAdvisories,[GHSA-mqvp-7rrg-9jxc] Improper Input Validation and Allocation of Resources Without Limits or Throttling in poi-scratchpad,https://github.com/advisories/GHSA-mqvp-7rrg-9jxc,https://bit.ly/3MDlake
+GithubAdvisories,[GHSA-jvfv-hrrc-6q72] Improper Restriction of XML External Entity Reference in Liquibase,https://github.com/advisories/GHSA-jvfv-hrrc-6q72,https://bit.ly/3KwvQPJ
+GithubAdvisories,[GHSA-4v6p-cxf9-98rf] Allocation of Resources Without Limits or Throttling in metadata-extractor,https://github.com/advisories/GHSA-4v6p-cxf9-98rf,https://bit.ly/3hOfVQa
+GithubAdvisories,[GHSA-p5pg-wm9q-8v6r] Improper Handling of Exceptional Conditions inn metadata-extractor,https://github.com/advisories/GHSA-p5pg-wm9q-8v6r,https://bit.ly/35EFkcE
+GithubAdvisories,[GHSA-cr6m-62pq-hmqh] OS Command injection in npm-lockfile,https://github.com/advisories/GHSA-cr6m-62pq-hmqh,https://bit.ly/3MK8Lei
+GithubAdvisories,[GHSA-99wh-973f-779p] XML External Entity Reference in Hazelcast,https://github.com/advisories/GHSA-99wh-973f-779p,https://bit.ly/3IWZXzp
+GithubAdvisories,[GHSA-3872-f48p-pxqj] Improper Neutralization of Special Elements used in a Command ('Command Injection') in Weblate,https://github.com/advisories/GHSA-3872-f48p-pxqj,https://bit.ly/360KNdI
+GithubAdvisories,[GHSA-pgq6-ccqj-hpqr] Elasticsearch privilege escalation issue,https://github.com/advisories/GHSA-pgq6-ccqj-hpqr,https://bit.ly/3MCaPok
+GithubAdvisories,[GHSA-3gx9-37ww-9qw6] Code injection in Spring Cloud Gateway,https://github.com/advisories/GHSA-3gx9-37ww-9qw6,https://bit.ly/3IX026b
+GithubAdvisories,[GHSA-v3wr-67px-44xg] Execution with Unnecessary Privileges in arc-electron,https://github.com/advisories/GHSA-v3wr-67px-44xg,https://bit.ly/3KoZ8j6
+GithubAdvisories,[GHSA-9w4w-cpc8-h2fq] Exposure of Sensitive Information to an Unauthorized Actor in httpie,https://github.com/advisories/GHSA-9w4w-cpc8-h2fq,https://bit.ly/3sVda6k
+GithubAdvisories,[GHSA-28mg-98xm-q493] Open Redirect in archivy,https://github.com/advisories/GHSA-28mg-98xm-q493,https://bit.ly/3hMsdJ7
