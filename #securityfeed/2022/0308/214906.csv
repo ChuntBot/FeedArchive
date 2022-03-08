@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w749-p3v6-hccq] Possible code injection vulnerability in Rails / Active Storage,https://github.com/advisories/GHSA-w749-p3v6-hccq,https://bit.ly/3IVxsC9
+GithubAdvisories,[GHSA-mh9j-v6mq-pfch] Path manipulation in matyhtf/framework,https://github.com/advisories/GHSA-mh9j-v6mq-pfch,https://bit.ly/34oSt99
+GithubAdvisories,[GHSA-x8xx-x82q-42q3] Exposure of Resource to Wrong Sphere in ezsystems/ezplatform-kernel,https://github.com/advisories/GHSA-x8xx-x82q-42q3,https://bit.ly/3HV28Ss
+GithubAdvisories,[GHSA-xwv6-v7qx-f5jc] Code injection in ezsystems/ezpublish-kernel,https://github.com/advisories/GHSA-xwv6-v7qx-f5jc,https://bit.ly/35zSaJu
+GithubAdvisories,[GHSA-6cp7-g972-w9m9] Use of a Key Past its Expiration Date in Maddy Mail Server,https://github.com/advisories/GHSA-6cp7-g972-w9m9,https://bit.ly/3HV8bH1
+GithubAdvisories,[GHSA-5jgq-x857-p8xw] Account compromise in Evmos,https://github.com/advisories/GHSA-5jgq-x857-p8xw,https://bit.ly/35WOl0C
+GithubAdvisories,[GHSA-5p9j-w2wx-qx4c] Open Redirect in django-spirit,https://github.com/advisories/GHSA-5p9j-w2wx-qx4c,https://bit.ly/35HNAIT
+GithubAdvisories,[GHSA-8h2f-7jc4-7m3m] Open Redirect in urijs,https://github.com/advisories/GHSA-8h2f-7jc4-7m3m,https://bit.ly/3hO4CYn
+GithubAdvisories,[GHSA-5946-mpw5-pqxx] Incorrect Default Permissions in Cobbler,https://github.com/advisories/GHSA-5946-mpw5-pqxx,https://bit.ly/3CskTLW
+GithubAdvisories,[GHSA-6cm4-gm85-972c] Command Injection in Cobbler,https://github.com/advisories/GHSA-6cm4-gm85-972c,https://bit.ly/3tGorq5
+GithubAdvisories,[GHSA-2877-693q-pj33] OS Command Injection in GenieACS,https://github.com/advisories/GHSA-2877-693q-pj33,https://bit.ly/3CubRhQ
