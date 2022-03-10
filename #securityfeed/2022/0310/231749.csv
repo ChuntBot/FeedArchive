@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-0845 (pytorch_lightning),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0845,https://bit.ly/3pXqSU2
+NVD-NIST,CVE-2022-0849 (radare2),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0849,https://bit.ly/3J3O2zM
+NVD-NIST,CVE-2022-24921 (go),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24921,https://bit.ly/3hVhqME
