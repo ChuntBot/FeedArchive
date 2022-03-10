@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+ExploitDB,[remote] Siemens S7-1200 - Unauthenticated Start/Stop Command,https://www.exploit-db.com/exploits/50820,https://bit.ly/3KvZg0b
+ExploitDB,[local] Sandboxie-Plus 5.50.2 - 'Service SbieSvc' Unquoted Service Path,https://www.exploit-db.com/exploits/50819,https://bit.ly/3HXRWc7
+ExploitDB,[local] WOW21 5.0.1.9 - 'Service WOW21_Service' Unquoted Service Path,https://www.exploit-db.com/exploits/50818,https://bit.ly/3ME8rgR
+ExploitDB,[local] Sony playmemories home - 'PMBDeviceInfoProvider' Unquoted Service Path,https://www.exploit-db.com/exploits/50817,https://bit.ly/363vwsE
+ExploitDB,[webapps] Zabbix 5.0.17 - Remote Code Execution (RCE) (Authenticated),https://www.exploit-db.com/exploits/50816,https://bit.ly/3Cv3Wk5
+ExploitDB,[local] BattlEye 0.9 - 'BEService' Unquoted Service Path,https://www.exploit-db.com/exploits/50815,https://bit.ly/376vMHN
+ExploitDB,[local] McAfee(R) Safe Connect VPN - Unquoted Service Path Elevation Of Privilege,https://www.exploit-db.com/exploits/50814,https://bit.ly/3J3BOau
