@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4fx9-vc88-q2xc] Infinite loop in Pillow,https://github.com/advisories/GHSA-4fx9-vc88-q2xc,https://bit.ly/3w0andK
+GithubAdvisories,[GHSA-6wrh-279j-6hvw] HTTP caching is marking private HTTP headers as public in Shopware,https://github.com/advisories/GHSA-6wrh-279j-6hvw,https://bit.ly/3w0DaPn
+GithubAdvisories,[GHSA-952p-fqcp-g8pc] HTML injection possibility in voucher code form in Shopware,https://github.com/advisories/GHSA-952p-fqcp-g8pc,https://bit.ly/34Gjvcs
+GithubAdvisories,[GHSA-w267-m9c4-8555] Shopware user session is not logged out if the password is reset via password recovery,https://github.com/advisories/GHSA-w267-m9c4-8555,https://bit.ly/3CzoMig
+GithubAdvisories,[GHSA-jp6h-mxhx-pgqh] Shopware guest session is shared between customers,https://github.com/advisories/GHSA-jp6h-mxhx-pgqh,https://bit.ly/3CyN6Rs
+GithubAdvisories,[GHSA-q9qc-pp5x-mc8c] Improper Neutralization of Special Elements Used in a Template Engine in microweber,https://github.com/advisories/GHSA-q9qc-pp5x-mc8c,https://bit.ly/3t2Lj3R
+GithubAdvisories,[GHSA-r6cm-wg48-rh2r] Exposure of Private Personal Information to an Unauthorized Actor in alextselegidis/easyappointments,https://github.com/advisories/GHSA-r6cm-wg48-rh2r,https://bit.ly/3CFaQUe
+GithubAdvisories,[GHSA-75p7-527p-w8wp] Server-Side Request Forgery and Open Redirect in AllTube Download,https://github.com/advisories/GHSA-75p7-527p-w8wp,https://bit.ly/3J8bBY2
+GithubAdvisories,[GHSA-5rcc-6cmj-7728] Cross-site Scripting in BookStack,https://github.com/advisories/GHSA-5rcc-6cmj-7728,https://bit.ly/37icnnj
+GithubAdvisories,[GHSA-vqp6-j452-j6wp] Open Redirect in CPython that affects users of OpenStack Nova,https://github.com/advisories/GHSA-vqp6-j452-j6wp,https://bit.ly/3tIVAl2
+GithubAdvisories,[GHSA-5mwx-f6w6-7w5r] Cross-site Scripting in GeniXCMS,https://github.com/advisories/GHSA-5mwx-f6w6-7w5r,https://bit.ly/35RMkTB
+GithubAdvisories,[GHSA-q24h-5rq3-63j9] Incorrect Authorization in @uppy/companion,https://github.com/advisories/GHSA-q24h-5rq3-63j9,https://bit.ly/3t6kcFq
+GithubAdvisories,[GHSA-vpmw-77vm-4mjg] Cross-site Scripting in Cipi,https://github.com/advisories/GHSA-vpmw-77vm-4mjg,https://bit.ly/3t20Xwz
+GithubAdvisories,[GHSA-xj7h-g7rh-gjcw] Cross-site Scripting in Subrion CMS,https://github.com/advisories/GHSA-xj7h-g7rh-gjcw,https://bit.ly/3KDPc5y
+GithubAdvisories,[GHSA-pvx3-gm3c-gmpr] Denial of Service in Go-Ethereum,https://github.com/advisories/GHSA-pvx3-gm3c-gmpr,https://bit.ly/3vUpsO6
+GithubAdvisories,[GHSA-vmf7-hmh6-vv57] Denial of Service in Go-Ethereum,https://github.com/advisories/GHSA-vmf7-hmh6-vv57,https://bit.ly/3i1Tpn7
+GithubAdvisories,[GHSA-6qcc-whgp-pjj2] Cross-site Scripting in Pimcore,https://github.com/advisories/GHSA-6qcc-whgp-pjj2,https://bit.ly/3tT5eBJ
+GithubAdvisories,[GHSA-q67f-3jq4-mww2] Cross-site Scripting in Pimcore,https://github.com/advisories/GHSA-q67f-3jq4-mww2,https://bit.ly/3q0hfE6
+GithubAdvisories,[GHSA-j8jp-9x42-4pj5] Unrestricted Upload of File with Dangerous Type in MODX Revolution,https://github.com/advisories/GHSA-j8jp-9x42-4pj5,https://bit.ly/3CAIhHi
+GithubAdvisories,[GHSA-83vp-6jqg-6cmr] Incorrect Authentication in shopware,https://github.com/advisories/GHSA-83vp-6jqg-6cmr,https://bit.ly/3pXyENZ
