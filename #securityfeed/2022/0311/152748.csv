@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-46704 (genieacs),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-46704,https://bit.ly/3MK7eVg
+NVD-NIST,"CVE-2022-26495 (debian_linux, network_block_device)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-26495,https://bit.ly/3I4Mmov
+NVD-NIST,CVE-2022-26496 (network_block_device),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-26496,https://bit.ly/3tQKSJm
