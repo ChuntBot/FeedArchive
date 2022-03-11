@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4cx6-fj7j-pjx9] Code injection in Stripe CLI on windows,https://github.com/advisories/GHSA-4cx6-fj7j-pjx9,https://bit.ly/3CF7CjA
+GithubAdvisories,[GHSA-6h3m-36w8-hv68] Arbitrary file write in nats-server,https://github.com/advisories/GHSA-6h3m-36w8-hv68,https://bit.ly/36bXm5U
+GithubAdvisories,[GHSA-q448-6c3m-cxmj] Cross-site Scripting in jeecg-boot,https://github.com/advisories/GHSA-q448-6c3m-cxmj,https://bit.ly/3J55kfO
+GithubAdvisories,[GHSA-9rr6-jpg7-9jg6] Authentication Bypass by Capture-replay in Apache Spark,https://github.com/advisories/GHSA-9rr6-jpg7-9jg6,https://bit.ly/3Czogkm
+GithubAdvisories,[GHSA-ph3v-2hq5-5qfq] Code injection in RazorEngine,https://github.com/advisories/GHSA-ph3v-2hq5-5qfq,https://bit.ly/3Ia7nxL
+GithubAdvisories,[GHSA-jr9c-h74f-2v28] Improper Authorization in Gitea,https://github.com/advisories/GHSA-jr9c-h74f-2v28,https://bit.ly/36c65p1
+GithubAdvisories,[GHSA-x28w-hvwc-mp75] Static Code Injection in Microweber,https://github.com/advisories/GHSA-x28w-hvwc-mp75,https://bit.ly/3MV9Y2z
+GithubAdvisories,[GHSA-mcg6-h362-cmq5] Improper Authorization in cobbler,https://github.com/advisories/GHSA-mcg6-h362-cmq5,https://bit.ly/3t3xjqy
+GithubAdvisories,[GHSA-9j59-75qj-795w] Path traversal in Pillow,https://github.com/advisories/GHSA-9j59-75qj-795w,https://bit.ly/369H0Le
+GithubAdvisories,[GHSA-7q25-qrjw-6fg2] Malicious package may avoid detection in python auditing,https://github.com/advisories/GHSA-7q25-qrjw-6fg2,https://bit.ly/2Jeo7bn
