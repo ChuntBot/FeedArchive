@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+DebianSecurityNotice,DSA-5102 haproxy,https://www.debian.org/security/2022/dsa-5102,https://bit.ly/3t91nRH
+DebianSecurityNotice,DSA-5101 libphp-adodb,https://www.debian.org/security/2022/dsa-5101,https://bit.ly/34E2aAG
+DebianSecurityNotice,DSA-5100 nbd,https://www.debian.org/security/2022/dsa-5100,https://bit.ly/3w370Tk
