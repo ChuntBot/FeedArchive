@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-36517 (home-assistant),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-36517,https://bit.ly/3tZ3U0b
+NVD-NIST,"CVE-2022-23296 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23296,https://bit.ly/3wmpkav
+NVD-NIST,"CVE-2022-23297 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23297,https://bit.ly/3i9vbrk
+NVD-NIST,"CVE-2022-23298 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23298,https://bit.ly/3JeHPkx
+NVD-NIST,"CVE-2022-23299 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23299,https://bit.ly/3tZ3Mhd
+NVD-NIST,CVE-2022-23300 (raw_image_extension),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23300,https://bit.ly/3MTp4pg
+NVD-NIST,CVE-2022-23301 (hevc_video_extensions),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23301,https://bit.ly/3tcygx7
+NVD-NIST,CVE-2022-24451 (vp9_video_extensions),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24451,https://bit.ly/3Jf1pgv
+NVD-NIST,CVE-2022-24452 (hevc_video_extensions),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24452,https://bit.ly/3Jd7GcG
+NVD-NIST,CVE-2022-24453 (hevc_video_extensions),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24453,https://bit.ly/3Jd7GJI
+NVD-NIST,"CVE-2022-24454 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24454,https://bit.ly/3Jd7H0e
+NVD-NIST,"CVE-2022-24455 (windows_10, windows_8.1, windows_rt_8.1, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24455,https://bit.ly/3i4MERF
+NVD-NIST,CVE-2022-24456 (hevc_video_extensions),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24456,https://bit.ly/3w6dil6
+NVD-NIST,CVE-2022-24457 (heif_image_extension),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24457,https://bit.ly/3I522YI
+NVD-NIST,"CVE-2022-24459 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24459,https://bit.ly/3w6OM3A
+NVD-NIST,"CVE-2022-24460 (windows_10, windows_11, windows_server, windows_server_2016, windows_server_2019)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24460,https://bit.ly/35UEk4p
+NVD-NIST,"CVE-2022-24461 (365_apps, office)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24461,https://bit.ly/3Jb9MK0
+NVD-NIST,"CVE-2022-24462 (365_apps, office)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24462,https://bit.ly/3ta9bmf
+NVD-NIST,CVE-2022-24463 (exchange_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24463,https://bit.ly/3q3u2FU
+NVD-NIST,"CVE-2022-24464 (.net, .net_core, visual_studio_2019, visual_studio_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24464,https://bit.ly/3JgFyp2
+NVD-NIST,CVE-2022-24465 (intune_company_portal),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24465,https://bit.ly/37o9lOt
+NVD-NIST,CVE-2022-24501 (vp9_video_extensions),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24501,https://bit.ly/3IaVc41
+NVD-NIST,CVE-2022-25943 (wps_office),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-25943,https://bit.ly/3IaNI0S
