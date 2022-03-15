@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2021-4095 (fedora, linux_kernel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-4095,https://bit.ly/3CL2XMU
+NVD-NIST,CVE-2021-42787 (steelcentral_appinternals_dynamic_sampling_agent),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42787,https://bit.ly/3Ifctcb
+NVD-NIST,CVE-2022-0507 (pandora_fms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0507,https://bit.ly/3tehqhf
+NVD-NIST,"CVE-2022-0725 (fedora, fedora_extra_packages_for_enterprise_linux, keepass)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0725,https://bit.ly/3Igdnp0
+NVD-NIST,CVE-2022-0856 (libcaca),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0856,https://bit.ly/36mI6Dj
+NVD-NIST,CVE-2022-0865 (libtiff),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0865,https://bit.ly/3iaTpRV
+NVD-NIST,CVE-2022-0891 (libtiff),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0891,https://bit.ly/3tWIXmB
+NVD-NIST,CVE-2022-0903 (mattermost_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0903,https://bit.ly/34L0MfP
+NVD-NIST,CVE-2022-0904 (mattermost_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0904,https://bit.ly/3CKmcpO
+NVD-NIST,CVE-2022-20047 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20047,https://bit.ly/3IgY7YV
+NVD-NIST,CVE-2022-21132 (pfsense-pkg-wireguard),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21132,https://bit.ly/3CZah7X
+NVD-NIST,CVE-2022-21146 (ipdio_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21146,https://bit.ly/3CNz5Qc
+NVD-NIST,CVE-2022-21158 (marktext),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21158,https://bit.ly/361HLWT
+NVD-NIST,CVE-2022-22795 (manager+agents),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22795,https://bit.ly/34NLzus
+NVD-NIST,CVE-2022-22814 (myasus),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22814,https://bit.ly/3KNN4Iw
