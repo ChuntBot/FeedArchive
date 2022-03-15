@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-20269 (kexec-tool),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20269,https://bit.ly/37ybabP
+NVD-NIST,"CVE-2021-4023 (fedora, linux_kernel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-4023,https://bit.ly/3MWp0EX
+NVD-NIST,CVE-2021-4045 (tapo_c200_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-4045,https://bit.ly/37rKWaJ
+NVD-NIST,CVE-2021-42853 (steelcentral_appinternals_dynamic_sampling_agent),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42853,https://bit.ly/3MUNXR4
+NVD-NIST,CVE-2021-42854 (steelcentral_appinternals_dynamic_sampling_agent),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42854,https://bit.ly/3u1dVtz
+NVD-NIST,CVE-2021-42855 (steelcentral_appinternals_dynamic_sampling_agent),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42855,https://bit.ly/3MMxSgx
+NVD-NIST,CVE-2021-42856 (steelcentral_appinternals_dynamic_sampling_agent),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42856,https://bit.ly/3wfdxe1
+NVD-NIST,"CVE-2021-44750 (client_security, countercept, elements, email_and_server_security, server_security)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44750,https://bit.ly/34NeWNw
+NVD-NIST,CVE-2021-46408 (ax12_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-46408,https://bit.ly/3CS7w8b
