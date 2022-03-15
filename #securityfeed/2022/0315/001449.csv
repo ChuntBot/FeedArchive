@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2021-3698 (cockpit, enterprise_linux)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3698,https://bit.ly/3i7O91p
+NVD-NIST,CVE-2021-3732 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3732,https://bit.ly/3tUnc6R
+NVD-NIST,"CVE-2021-3733 (enterprise_linux, python)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3733,https://bit.ly/3MRIuKO
+NVD-NIST,CVE-2021-3739 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3739,https://bit.ly/34GpMVo
+NVD-NIST,"CVE-2021-3981 (fedora, grub2)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3981,https://bit.ly/3q0cWJ9
+NVD-NIST,"CVE-2022-25108 (pdf_editor, pdf_reader)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-25108,https://bit.ly/3t7lkse
+NVD-NIST,CVE-2022-25230 (cx-programmer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-25230,https://bit.ly/3i3V4Zw
+NVD-NIST,CVE-2022-25234 (cx-programmer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-25234,https://bit.ly/3weczOO
+NVD-NIST,CVE-2022-25325 (cx-programmer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-25325,https://bit.ly/3I69FOt
