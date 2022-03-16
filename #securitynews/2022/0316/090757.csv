@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,"Technical Advisory – Apple macOS XAR – Arbitrary File Write (CVE-2022-22582) - Whilst analysing the patch for CVE-2021-30833, an additional vulnerability was identified which could allow for arbitrary file-write when unpacking a malicious XAR archive using the xar utility",https://redd.it/tfd6tz,
