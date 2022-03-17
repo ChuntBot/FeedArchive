@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pcwq-7wrw-r8jv] Cross-site Scripting in intelliants/subrion,https://github.com/advisories/GHSA-pcwq-7wrw-r8jv,https://bit.ly/3ijcIIW
+GithubAdvisories,[GHSA-9cc3-5w85-pxvx] Cross Site Request Forgery in intelliants/subrion,https://github.com/advisories/GHSA-9cc3-5w85-pxvx,https://bit.ly/3JBGzbD
+GithubAdvisories,[GHSA-h2g5-2rhx-ffgj] Command injection in Weblate,https://github.com/advisories/GHSA-h2g5-2rhx-ffgj,https://bit.ly/3witqjS
+GithubAdvisories,[GHSA-qwh6-xwj4-9cjg] Remote code execution in net.mingsoft:ms-mcms,https://github.com/advisories/GHSA-qwh6-xwj4-9cjg,https://bit.ly/3iikNxu
