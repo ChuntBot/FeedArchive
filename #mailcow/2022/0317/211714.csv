@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubCommit,[GH-Actions][stale] Update to v5.0.0,https://github.com/mailcow/mailcow-dockerized/commit/6d6b673cf2f482c57051bc65cc929c14aa65711c,https://bit.ly/371brnv
+GithubCommit,Fix issue forms,https://github.com/mailcow/mailcow-dockerized/commit/412e1188b04cd72d79a836cfc303bd4f7d363f45,https://bit.ly/3Mhqbic
+GithubCommit,Before update on 2022-03-02_17_04_05,https://github.com/mailcow/mailcow-dockerized/commit/24275ffdbf6facaf38ae77a3094363b8e0a01f33,https://bit.ly/3syTeG3
+GithubCommit,[Web] Update composer libs,https://github.com/mailcow/mailcow-dockerized/commit/98bc947d003c70751b34ac29d2163060e9093e23,https://bit.ly/3C5JZQV
+GithubCommit,[Web] Footer fix (#4500),https://github.com/mailcow/mailcow-dockerized/commit/bdd8b4a5abe4f142c0e2a6a3ba12e19730538884,https://bit.ly/3MCuapN
+GithubCommit,"Revert ""Before update on 2022-03-02_17_04_05""",https://github.com/mailcow/mailcow-dockerized/commit/eddaf7a9752592b5d9daae8cec79047d0b714901,https://bit.ly/3Cgzb2a
+GithubCommit,[Web] Delete related spam aliases when deleting alias domain,https://github.com/mailcow/mailcow-dockerized/commit/b82009665670c55376d27149a25be23ed16c5814,https://bit.ly/3i6MhWI
+GithubCommit,Merge remote-tracking branch 'origin/staging' into staging,https://github.com/mailcow/mailcow-dockerized/commit/7692685122011c16ecc4a00365cb3e286ed8f908,https://bit.ly/3i6Mol6
+GithubCommit,[Helper] Backup and restore: Use bullseye-slim,https://github.com/mailcow/mailcow-dockerized/commit/769e08843bf733430017a4130629acc30d99cebb,https://bit.ly/3MNzDKl
+GithubCommit,[WEB] Changed Version to footer margin top to 20px,https://github.com/mailcow/mailcow-dockerized/commit/d52323df2dc8689224d704e3d69f793f40ec852f,https://bit.ly/365hDup
+GithubCommit,Merge branch 'staging',https://github.com/mailcow/mailcow-dockerized/commit/880a68d563fb03aa4f80e0046448ab9ffab80ffe,https://bit.ly/3JsPcFm
