@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-32gv-6cf3-wcmq] HTTP/2 DoS Attacks: Ping, Reset, and Settings Floods",https://github.com/advisories/GHSA-32gv-6cf3-wcmq,https://bit.ly/36rFKDu
+GithubAdvisories,[GHSA-mv2w-4jqc-6fg4] Command injection in libvcs and vcspull,https://github.com/advisories/GHSA-mv2w-4jqc-6fg4,https://bit.ly/3u5KwPa
+GithubAdvisories,[GHSA-3mpp-xfvh-qh37] node-ipc behavior change,https://github.com/advisories/GHSA-3mpp-xfvh-qh37,https://bit.ly/3u3KhnN
+GithubAdvisories,[GHSA-8gr3-2gjw-jj7g] Hidden functionality in node-ipc,https://github.com/advisories/GHSA-8gr3-2gjw-jj7g,https://bit.ly/3CNPmEw
+GithubAdvisories,[GHSA-97m3-w2cp-4xx6] Embedded Malicious Code in node-ipc,https://github.com/advisories/GHSA-97m3-w2cp-4xx6,https://bit.ly/3wedVJM
