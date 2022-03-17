@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6vx5-cg2p-7g5v] Unrestricted Upload of File with Dangerous Type in microweber,https://github.com/advisories/GHSA-6vx5-cg2p-7g5v,https://bit.ly/3tm4DcQ
+GithubAdvisories,[GHSA-jjp3-m93h-5jm4] Cross-site Scripting in microweber,https://github.com/advisories/GHSA-jjp3-m93h-5jm4,https://bit.ly/3N22z1a
+GithubAdvisories,[GHSA-7v5r-r995-q2x2] SSRF in repository migration,https://github.com/advisories/GHSA-7v5r-r995-q2x2,https://bit.ly/3MYQpGo
+GithubAdvisories,[GHSA-65f3-3278-7m65] Improper Authorization in Gogs,https://github.com/advisories/GHSA-65f3-3278-7m65,https://bit.ly/3whbdDh
+GithubAdvisories,[GHSA-rf54-44jr-q5vf] Improper Input Validation in url-js,https://github.com/advisories/GHSA-rf54-44jr-q5vf,https://bit.ly/3COawCB
+GithubAdvisories,[GHSA-3f95-r44v-8mrg] Command injection in simple-git,https://github.com/advisories/GHSA-3f95-r44v-8mrg,https://bit.ly/3uab5CE
+GithubAdvisories,[GHSA-4gr7-qw2q-jxh6] Cross-site Scripting in Nacos,https://github.com/advisories/GHSA-4gr7-qw2q-jxh6,https://bit.ly/3iyCpFz
+GithubAdvisories,[GHSA-vx8q-j7h9-vf6q] Exposure of Sensitive Information to an Unauthorized Actor in PhpMyAdmin,https://github.com/advisories/GHSA-vx8q-j7h9-vf6q,https://bit.ly/3JfMvqp
+GithubAdvisories,[GHSA-jh63-28gx-7p26] Command Injection in CasaOS,https://github.com/advisories/GHSA-jh63-28gx-7p26,https://bit.ly/3MTPerT
