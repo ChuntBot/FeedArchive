@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6c9x-mj3g-h47x] Spoofing attack in swagger-ui-dist,https://github.com/advisories/GHSA-6c9x-mj3g-h47x,https://bit.ly/3idfzDb
+GithubAdvisories,[GHSA-f897-875p-23x7] Hard coded credentials in FreeTAKServer,https://github.com/advisories/GHSA-f897-875p-23x7,https://bit.ly/3qeJxL8
+GithubAdvisories,[GHSA-9988-f88m-mr42] Exposure of Sensitive Information to an Unauthorized Actor in FreeTAKServer-UI,https://github.com/advisories/GHSA-9988-f88m-mr42,https://bit.ly/36pAIY0
+GithubAdvisories,[GHSA-hggv-mcp4-vxc5] Improper Authentication in FreeTAKServer,https://github.com/advisories/GHSA-hggv-mcp4-vxc5,https://bit.ly/3CPg2ES
+GithubAdvisories,[GHSA-7cr9-rmqr-fpqp] Path traversal in FreeTAKServer-UI,https://github.com/advisories/GHSA-7cr9-rmqr-fpqp,https://bit.ly/3u8xDUh
+GithubAdvisories,[GHSA-2cv6-6437-39p2] Cross-site Scripting in microweber,https://github.com/advisories/GHSA-2cv6-6437-39p2,https://bit.ly/3ikodjf
+GithubAdvisories,[GHSA-5fxf-x22x-5q38] Cross-site Scripting in microweber,https://github.com/advisories/GHSA-5fxf-x22x-5q38,https://bit.ly/3D5vn4B
+GithubAdvisories,[GHSA-3q55-66g3-p8xq] Cross-site Scripting in microweber,https://github.com/advisories/GHSA-3q55-66g3-p8xq,https://bit.ly/3IlNIuQ
+GithubAdvisories,[GHSA-cr3q-pqgq-m8c2] Spoofing attack in swagger-ui,https://github.com/advisories/GHSA-cr3q-pqgq-m8c2,https://bit.ly/3ihUl6Y
