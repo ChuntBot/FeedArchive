@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cfhh-xgwq-5r67] Sudden swap of user auth tokens,https://github.com/advisories/GHSA-cfhh-xgwq-5r67,https://bit.ly/3CS5Z1S
+GithubAdvisories,[GHSA-4qrp-27r3-66fj] Improper sanitize of SVG files during content upload ('Cross-site Scripting') in Sylius/Sylius,https://github.com/advisories/GHSA-4qrp-27r3-66fj,https://bit.ly/3iA5W1D
+GithubAdvisories,[GHSA-mf3v-f2qq-pf9g] Insufficient Session Expiration in Sylius,https://github.com/advisories/GHSA-mf3v-f2qq-pf9g,https://bit.ly/3673UmR
+GithubAdvisories,[GHSA-7563-75j9-6h5p] Sensitive Information Exposure in Sylius,https://github.com/advisories/GHSA-7563-75j9-6h5p,https://bit.ly/3CQ2Mjo
+GithubAdvisories,[GHSA-4jp3-q2qm-9fmw] Improper Restriction of Rendered UI Layers or Frames in Sylius,https://github.com/advisories/GHSA-4jp3-q2qm-9fmw,https://bit.ly/3KTSGku
+GithubAdvisories,[GHSA-m3xv-x3ph-mq22] Server-side Template Injection in nystudio107/craft-seomatic,https://github.com/advisories/GHSA-m3xv-x3ph-mq22,https://bit.ly/36r39Vu
