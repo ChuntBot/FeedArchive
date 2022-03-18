@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4fc4-4p5g-6w89] HTML processing vulnerability allowing to execute JavaScript code,https://github.com/advisories/GHSA-4fc4-4p5g-6w89,https://bit.ly/3InVXqy
+GithubAdvisories,[GHSA-w2j5-3rcx-vx7x] Sysctls applied to containers with host IPC or host network namespaces can affect the host,https://github.com/advisories/GHSA-w2j5-3rcx-vx7x,https://bit.ly/3iAapRX
+GithubAdvisories,[GHSA-2xmm-g482-4439] DQL injection through sorting parameters blocked,https://github.com/advisories/GHSA-2xmm-g482-4439,https://bit.ly/3Jndvo7
+GithubAdvisories,[GHSA-rjmq-6v55-4rjv] Improper Authorization in org.cometd.oort,https://github.com/advisories/GHSA-rjmq-6v55-4rjv,https://bit.ly/3JoKCYA
+GithubAdvisories,[GHSA-rphc-h572-2x9f] Cross-site Scripting in showdoc/showdoc,https://github.com/advisories/GHSA-rphc-h572-2x9f,https://bit.ly/3Jn1Q8x
+GithubAdvisories,[GHSA-7j52-6fjp-58gr] Inconsistent storage layout for ERC2771ContextUpgradeable,https://github.com/advisories/GHSA-7j52-6fjp-58gr,https://bit.ly/3CQN9Io
+GithubAdvisories,[GHSA-gw5h-h6hj-f56g] Improper Authorization in Gogs,https://github.com/advisories/GHSA-gw5h-h6hj-f56g,https://bit.ly/3JzZ8fW
+GithubAdvisories,[GHSA-q347-cg56-pcq4] SSRF in repository migration,https://github.com/advisories/GHSA-q347-cg56-pcq4,https://bit.ly/3Inhv6o
+GithubAdvisories,[GHSA-4vvg-x86p-mvqc] Leaking of user information on Cross-Domain communication in sysend,https://github.com/advisories/GHSA-4vvg-x86p-mvqc,https://bit.ly/3iiKdej
