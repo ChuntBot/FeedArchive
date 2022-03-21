@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x5m8-2r8v-8f97] Prototype Pollution in libnested,https://github.com/advisories/GHSA-x5m8-2r8v-8f97,https://bit.ly/3uf1M4C
+GithubAdvisories,[GHSA-fx95-883v-4q4h] Path traversal in github.com/valyala/fasthttp,https://github.com/advisories/GHSA-fx95-883v-4q4h,https://bit.ly/3tssfML
+GithubAdvisories,[GHSA-9gqr-xp86-f87h] Code injection in npm git,https://github.com/advisories/GHSA-9gqr-xp86-f87h,https://bit.ly/3ub498q
+GithubAdvisories,[GHSA-8m2f-74r2-x3f2] Code injection in accesslog,https://github.com/advisories/GHSA-8m2f-74r2-x3f2,https://bit.ly/3N9m9bP
