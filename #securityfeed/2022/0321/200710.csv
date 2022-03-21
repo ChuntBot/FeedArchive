@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-mjcr-rqjg-rhg3] Implementation trusts the ""me"" field returned by the authorization server without verifying it",https://github.com/advisories/GHSA-mjcr-rqjg-rhg3,https://bit.ly/3621naB
+GithubAdvisories,[GHSA-7x48-7466-3g33] Command injection in guake,https://github.com/advisories/GHSA-7x48-7466-3g33,https://bit.ly/36Bv0Ch
+GithubAdvisories,[GHSA-6956-83fg-5wc5] Prototype Pollution in set-in,https://github.com/advisories/GHSA-6956-83fg-5wc5,https://bit.ly/3KZTp3x
+GithubAdvisories,[GHSA-vhxc-fhm5-qcp9] Prototype Pollution in bodymen,https://github.com/advisories/GHSA-vhxc-fhm5-qcp9,https://bit.ly/3wkkJp8
