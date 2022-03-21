@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6xp6-fmc8-pmmr] Temporary Directory Hijacking Vulnerability in Keycloak,https://github.com/advisories/GHSA-6xp6-fmc8-pmmr,https://bit.ly/3KTzeUW
+GithubAdvisories,[GHSA-2v82-5746-vwqc] XSS in doc_link,https://github.com/advisories/GHSA-2v82-5746-vwqc,https://bit.ly/3ujGYbU
+GithubAdvisories,[GHSA-w4f3-7f7c-x652] SQL Injection in tribalsystems/zenario,https://github.com/advisories/GHSA-w4f3-7f7c-x652,https://bit.ly/3wvFAWJ
+GithubAdvisories,[GHSA-vrcc-g6vj-mh5w] Denial of service in go-ethereum,https://github.com/advisories/GHSA-vrcc-g6vj-mh5w,https://bit.ly/3wm97C5
+GithubAdvisories,[GHSA-fxhp-wrw9-3r97] XML external entity (XXE) injection in Apache Nutch,https://github.com/advisories/GHSA-fxhp-wrw9-3r97,https://bit.ly/3tpmLT0
