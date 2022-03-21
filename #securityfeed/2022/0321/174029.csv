@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-32j9-6qqm-mq9g] Unhandled case in node-lmdb,https://github.com/advisories/GHSA-32j9-6qqm-mq9g,https://bit.ly/3qn0l2X
+GithubAdvisories,[GHSA-hqq7-2q2v-82xq] Cross-site Scripting in sanitize-url,https://github.com/advisories/GHSA-hqq7-2q2v-82xq,https://bit.ly/3woUU7j
+GithubAdvisories,[GHSA-hrf4-hcpc-3345] Denial of service in microweber,https://github.com/advisories/GHSA-hrf4-hcpc-3345,https://bit.ly/3qkrDHe
+GithubAdvisories,[GHSA-6pc9-xqrg-wfqw] Exposure of Sensitive information in httpie,https://github.com/advisories/GHSA-6pc9-xqrg-wfqw,https://bit.ly/3qncrZA
+GithubAdvisories,[GHSA-3pg8-c473-w6rr] Stored Cross-site Scripting in showdoc,https://github.com/advisories/GHSA-3pg8-c473-w6rr,https://bit.ly/36DL5rr
+GithubAdvisories,[GHSA-r6hh-5g3q-wwgc] Stored Cross-site Scripting in grav,https://github.com/advisories/GHSA-r6hh-5g3q-wwgc,https://bit.ly/3JBheyw
+GithubAdvisories,[GHSA-gwmc-6795-qghj] HashiCorp Nomad Artifact Download Race Condition,https://github.com/advisories/GHSA-gwmc-6795-qghj,https://bit.ly/3Jwi2nY
+GithubAdvisories,[GHSA-8c76-mxv5-w4g8] Stored Cross-site Scripting in microweber,https://github.com/advisories/GHSA-8c76-mxv5-w4g8,https://bit.ly/3N4YPvY
