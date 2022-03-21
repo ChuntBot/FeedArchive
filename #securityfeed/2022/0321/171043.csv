@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m8gq-83gh-v42v] XML External Entities Vulnerability in CVRF-CSAF-Converter,https://github.com/advisories/GHSA-m8gq-83gh-v42v,https://bit.ly/3N4hPLf
+GithubAdvisories,[GHSA-5fxv-xx5p-g2fv] Integer Overflow in microweber,https://github.com/advisories/GHSA-5fxv-xx5p-g2fv,https://bit.ly/3qmM6Lk
+GithubAdvisories,[GHSA-h3q4-vmw4-cpr5] Path Traversal in Gitea,https://github.com/advisories/GHSA-h3q4-vmw4-cpr5,https://bit.ly/3IuUlLs
