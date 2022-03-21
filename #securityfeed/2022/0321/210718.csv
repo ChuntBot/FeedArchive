@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-54fx-gm74-q676] Permissions bypass in SmallRye,https://github.com/advisories/GHSA-54fx-gm74-q676,https://bit.ly/3IAPtos
+GithubAdvisories,[GHSA-m9cj-v55f-8x26] Authentication Bypass in keycloak,https://github.com/advisories/GHSA-m9cj-v55f-8x26,https://bit.ly/36c3KuC
+GithubAdvisories,[GHSA-4r8q-gv9j-3xx6] Open Redirect,https://github.com/advisories/GHSA-4r8q-gv9j-3xx6,https://bit.ly/3JxDf0T
+GithubAdvisories,[GHSA-fm35-jgg3-3grx] NaN/INF in serverbound movement packets can crash clients and servers,https://github.com/advisories/GHSA-fm35-jgg3-3grx,https://bit.ly/3IrRcvV
+GithubAdvisories,[GHSA-ghm8-mmx7-xvg2] Information Exposure in Apache Tapestry,https://github.com/advisories/GHSA-ghm8-mmx7-xvg2,https://bit.ly/3qnA1Wr
+GithubAdvisories,[GHSA-h2rj-8wgg-mm43] Cross-site Scripting in craftcms,https://github.com/advisories/GHSA-h2rj-8wgg-mm43,https://bit.ly/3qoTWnO
+GithubAdvisories,[GHSA-3rj3-qp2j-4fj2] Cross-Site Request Forgery in Jenkins P4 Plugin,https://github.com/advisories/GHSA-3rj3-qp2j-4fj2,https://bit.ly/3NcOXjJ
+GithubAdvisories,[GHSA-wfxp-4qgw-qp3c] XML external entity (XXE) attacks in Jenkins Xcode integration Plugin,https://github.com/advisories/GHSA-wfxp-4qgw-qp3c,https://bit.ly/37Qq0dV
+GithubAdvisories,[GHSA-gv26-jpj9-c8gq] Incomplete validation in `SparseSparseMinimum`,https://github.com/advisories/GHSA-gv26-jpj9-c8gq,https://bit.ly/3N7LWkS
