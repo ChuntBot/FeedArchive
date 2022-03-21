@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j3ff-xp6c-6gcc] Failure to validate signature during handshake,https://github.com/advisories/GHSA-j3ff-xp6c-6gcc,https://bit.ly/3wkFJvY
+GithubAdvisories,[GHSA-7wfc-x4f7-gg2x] Code injection in Apache Dubbo,https://github.com/advisories/GHSA-7wfc-x4f7-gg2x,https://bit.ly/3L3vH6t
+GithubAdvisories,[GHSA-qmfc-6www-fjqw] Code injection in Apache Dubbo,https://github.com/advisories/GHSA-qmfc-6www-fjqw,https://bit.ly/3554d16
+GithubAdvisories,[GHSA-5mc7-m686-p6jg] Deserialization of Untrusted Data in Apache Dubbo,https://github.com/advisories/GHSA-5mc7-m686-p6jg,https://bit.ly/3Nbqz1W
+GithubAdvisories,[GHSA-gw4j-4229-q4px] Server-Side Request Forgery in Apache Dubbo,https://github.com/advisories/GHSA-gw4j-4229-q4px,https://bit.ly/3wmZAus
+GithubAdvisories,[GHSA-v2rg-8cwr-75g8] Deserializer tampering in Apache Dubbo,https://github.com/advisories/GHSA-v2rg-8cwr-75g8,https://bit.ly/3imfZam
+GithubAdvisories,[GHSA-37g7-8vjj-pjpj] Hash flooding,https://github.com/advisories/GHSA-37g7-8vjj-pjpj,https://bit.ly/3iHFWkZ
+GithubAdvisories,[GHSA-p6j8-hgv5-m35g] Uncontrolled Resource Consumption in jboss-remoting,https://github.com/advisories/GHSA-p6j8-hgv5-m35g,https://bit.ly/3ws1Noq
