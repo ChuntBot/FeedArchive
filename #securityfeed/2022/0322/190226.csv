@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-836c-xg97-8p4h] Server-Side Request Forgery in libtaxii,https://github.com/advisories/GHSA-836c-xg97-8p4h,https://bit.ly/3u7rhn5
+GithubAdvisories,[GHSA-57j2-w4cx-62h2] Deeply nested json in jackson-databind,https://github.com/advisories/GHSA-57j2-w4cx-62h2,https://bit.ly/3tvKCAr
