@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gcx2-gvj7-pxv3] Insufficient Protection against HTTP Request Smuggling in mitmproxy,https://github.com/advisories/GHSA-gcx2-gvj7-pxv3,https://bit.ly/3wrLOGO
+GithubAdvisories,[GHSA-3p22-ghq8-v749] Renderers can obtain access to random bluetooth device without permission in Electron,https://github.com/advisories/GHSA-3p22-ghq8-v749,https://bit.ly/3qv6ERV
