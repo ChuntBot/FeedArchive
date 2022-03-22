@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5vjc-qx43-r747] Stored Cross-site Scripting in folder-auth plugin,https://github.com/advisories/GHSA-5vjc-qx43-r747,https://bit.ly/3ICFM92
+GithubAdvisories,[GHSA-jx8f-cpx7-fv47] Allocation of Resources Without Limits or Throttling in nvflare,https://github.com/advisories/GHSA-jx8f-cpx7-fv47,https://bit.ly/352eYB7
+GithubAdvisories,[GHSA-3fvf-2gp4-89wq] Possibility for Denial of Service by overwriting PHP files with language exports,https://github.com/advisories/GHSA-3fvf-2gp4-89wq,https://bit.ly/3N8WyzT
+GithubAdvisories,[GHSA-f8xq-q7px-wg8c] Improper Neutralization of Formula Elements in a CSV File in Gradio Flagging,https://github.com/advisories/GHSA-f8xq-q7px-wg8c,https://bit.ly/3D3aSW3
+GithubAdvisories,[GHSA-2r2c-g63r-vccr] Improper Verification of Cryptographic Signature in `node-forge`,https://github.com/advisories/GHSA-2r2c-g63r-vccr,https://bit.ly/3tsGbGE
+GithubAdvisories,[GHSA-x4jg-mjrx-434g] Improper Verification of Cryptographic Signature in `node-forge`,https://github.com/advisories/GHSA-x4jg-mjrx-434g,https://bit.ly/3uk9hHu
+GithubAdvisories,[GHSA-cfm4-qjh2-4765] Improper Verification of Cryptographic Signature in node-forge,https://github.com/advisories/GHSA-cfm4-qjh2-4765,https://bit.ly/36gDgb6
+GithubAdvisories,[GHSA-46c5-pfj8-fv65] Improperly checked metadata on tools/armour itemstacks received from the client,https://github.com/advisories/GHSA-46c5-pfj8-fv65,https://bit.ly/3Ix8R5F
