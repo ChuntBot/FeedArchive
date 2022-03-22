@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5w9c-rv96-fr7g] Removal of functional code in faker.js,https://github.com/advisories/GHSA-5w9c-rv96-fr7g,https://bit.ly/3NeRKJe
+GithubAdvisories,[GHSA-52q8-877j-gghq] remote code execution via cache action in MoinMoin,https://github.com/advisories/GHSA-52q8-877j-gghq,https://bit.ly/3pgQJo1
+GithubAdvisories,[GHSA-c84h-w6cr-5v8q] Markdown-supplied Shell Command Execution,https://github.com/advisories/GHSA-c84h-w6cr-5v8q,https://bit.ly/31NNhHm
