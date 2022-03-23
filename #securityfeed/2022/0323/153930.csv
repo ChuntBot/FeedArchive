@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qq74-vgcf-54c3] Cross-site Scripting in ShowDoc,https://github.com/advisories/GHSA-qq74-vgcf-54c3,https://bit.ly/3ivLjDv
+GithubAdvisories,[GHSA-gq77-3r6x-383w] Cross-site Scripting in ShowDoc,https://github.com/advisories/GHSA-gq77-3r6x-383w,https://bit.ly/3D6lqUb
+GithubAdvisories,[GHSA-pq37-4c4g-v38c] Cross-site Scripting in vditor,https://github.com/advisories/GHSA-pq37-4c4g-v38c,https://bit.ly/36DkvhZ
+GithubAdvisories,[GHSA-c383-q5vf-hx55] Integer Overflow or Wraparound in Microweber,https://github.com/advisories/GHSA-c383-q5vf-hx55,https://bit.ly/3IyHF6u
+GithubAdvisories,[GHSA-j878-43hm-8gr5] Unrestricted Upload of File with Dangerous Type in Microweber,https://github.com/advisories/GHSA-j878-43hm-8gr5,https://bit.ly/3JCytPL
