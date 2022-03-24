@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wx77-rp39-c6vg] Regular Expression Denial of Service in markdown,https://github.com/advisories/GHSA-wx77-rp39-c6vg,https://bit.ly/3btRJyL
+GithubAdvisories,[GHSA-g2xc-35jw-c63p] HTTP Request Smuggling: Invalid Transfer-Encoding in Waitress,https://github.com/advisories/GHSA-g2xc-35jw-c63p,https://bit.ly/2Q4enn7
+GithubAdvisories,[GHSA-pg36-wpm5-g57p] HTTP Request Smuggling: LF vs CRLF handling in Waitress,https://github.com/advisories/GHSA-pg36-wpm5-g57p,https://bit.ly/35JzrWB
