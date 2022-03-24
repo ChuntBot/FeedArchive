@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-73m2-3pwg-5fgc] Catastrophic backtracking in regex allows Denial of Service in Waitress,https://github.com/advisories/GHSA-73m2-3pwg-5fgc,https://bit.ly/36TUoxU
