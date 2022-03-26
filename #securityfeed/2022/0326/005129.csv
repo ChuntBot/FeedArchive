@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q8hg-pf8v-cxrv] Non-constant time comparison in UriSigner,https://github.com/advisories/GHSA-q8hg-pf8v-cxrv,https://bit.ly/36sxSSk
+GithubAdvisories,[GHSA-r7c9-c69m-rph8] Code injection in PHPUnit,https://github.com/advisories/GHSA-r7c9-c69m-rph8,https://bit.ly/3Lb9h3c
+GithubAdvisories,[GHSA-phrq-v4q2-hmq6] Code injection vulnerability in allSelectors(),https://github.com/advisories/GHSA-phrq-v4q2-hmq6,https://bit.ly/3IH07d5
+GithubAdvisories,[GHSA-7mv4-4xpg-xq44] FormField with square brackets in field name skips validation,https://github.com/advisories/GHSA-7mv4-4xpg-xq44,https://bit.ly/3Nllrs9
+GithubAdvisories,[GHSA-62m3-fc7f-jpp8] Class-Name Injection,https://github.com/advisories/GHSA-62m3-fc7f-jpp8,https://bit.ly/3NpI6np
+GithubAdvisories,[GHSA-3988-h75v-hwf6] Arbitrary shell execution,https://github.com/advisories/GHSA-3988-h75v-hwf6,https://bit.ly/3L7HCQO
+GithubAdvisories,[GHSA-mhfv-8rc9-w38c] Arbitrary shell execution,https://github.com/advisories/GHSA-mhfv-8rc9-w38c,https://bit.ly/3DgLmwK
+GithubAdvisories,[GHSA-vxrc-68xx-x48g] Sandbox Information Disclosure,https://github.com/advisories/GHSA-vxrc-68xx-x48g,https://bit.ly/3iUcet7
