@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Rspamd] Update Rspamd to 3.2.1 (#4526),https://github.com/mailcow/mailcow-dockerized/commit/b375e6a2508d9f35e8f7328845c8ca2b88b2f26b,https://bit.ly/3LlLcqx
+GithubCommitStaging,[ClamAV] Move to official ClamAV Docker container (#4525),https://github.com/mailcow/mailcow-dockerized/commit/fd7269d455c78746fdc6112c08617485281e306c,https://bit.ly/3DiwUUT
