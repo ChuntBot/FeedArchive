@@ -1,0 +1,28 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xr2c-5w89-63pv] Untrusted Search Path in Poetry,https://github.com/advisories/GHSA-xr2c-5w89-63pv,https://bit.ly/3IJgeXK
+GithubAdvisories,[GHSA-gff7-g5r8-mg8m] Prototype Pollution in simple-plist,https://github.com/advisories/GHSA-gff7-g5r8-mg8m,https://bit.ly/3qNzQUx
+GithubAdvisories,[GHSA-hf8c-xr89-vfm5] Command Injection in ungit,https://github.com/advisories/GHSA-hf8c-xr89-vfm5,https://bit.ly/3J32asp
+GithubAdvisories,[GHSA-mf79-f657-47ww] Insufficient Session Expiration in Admidio,https://github.com/advisories/GHSA-mf79-f657-47ww,https://bit.ly/3J329Vn
+GithubAdvisories,[GHSA-rggc-4g3r-j7ff] Remote Code Execution in Contao Managed Edition,https://github.com/advisories/GHSA-rggc-4g3r-j7ff,https://bit.ly/36U8l4r
+GithubAdvisories,[GHSA-9vp3-7qwq-83r9] Server-Side Request Forgery in FUXA,https://github.com/advisories/GHSA-9vp3-7qwq-83r9,https://bit.ly/3iO4gBq
+GithubAdvisories,[GHSA-q863-cchm-c6c6] SQL Injection in Fork CMS,https://github.com/advisories/GHSA-q863-cchm-c6c6,https://bit.ly/3wRuECK
+GithubAdvisories,[GHSA-qf2g-q4mc-w7rr] Cross-site Scripting in Fork CMS,https://github.com/advisories/GHSA-qf2g-q4mc-w7rr,https://bit.ly/3wHCdvQ
+GithubAdvisories,[GHSA-f8q4-jwww-x3wv] Race Condition in Paramiko,https://github.com/advisories/GHSA-f8q4-jwww-x3wv,https://bit.ly/3qOFghV
+GithubAdvisories,[GHSA-pc32-x737-74cv] Cross-site Scripting in Pimcore,https://github.com/advisories/GHSA-pc32-x737-74cv,https://bit.ly/3qKJeYK
+GithubAdvisories,[GHSA-g795-4hxx-qqwm] Cross-site Scripting in Pimcore,https://github.com/advisories/GHSA-g795-4hxx-qqwm,https://bit.ly/3tPOOLw
+GithubAdvisories,[GHSA-xmq3-hgjx-6997] Cross-site Scripting in Pimcore,https://github.com/advisories/GHSA-xmq3-hgjx-6997,https://bit.ly/3qKzM83
+GithubAdvisories,[GHSA-j29f-m23h-3p8p] Cross-site Scripting in Pimcore,https://github.com/advisories/GHSA-j29f-m23h-3p8p,https://bit.ly/3LsPdJF
+GithubAdvisories,[GHSA-vpwq-6cp4-ffqc] Stored Cross-site Scripting in ShowDoc,https://github.com/advisories/GHSA-vpwq-6cp4-ffqc,https://bit.ly/3NuXAGG
+GithubAdvisories,[GHSA-v94v-pxqp-5qgj] Cross-site Scripting in ShowDoc,https://github.com/advisories/GHSA-v94v-pxqp-5qgj,https://bit.ly/38dcd1d
+GithubAdvisories,[GHSA-9fcc-7g44-mxrj] Cross-site Scripting in ShowDoc,https://github.com/advisories/GHSA-9fcc-7g44-mxrj,https://bit.ly/384X41H
+GithubAdvisories,[GHSA-g585-j55v-38h7] Cross-site Scripting in ShowDoc,https://github.com/advisories/GHSA-g585-j55v-38h7,https://bit.ly/36ZigG4
+GithubAdvisories,[GHSA-q73m-3q7r-fpf7] Cross-site Scripting in ShowDoc,https://github.com/advisories/GHSA-q73m-3q7r-fpf7,https://bit.ly/3uBqE6E
+GithubAdvisories,[GHSA-j6jg-w79c-7p8v] File Upload Restriction Bypass leading to Cross-site Scripting in ShowDoc,https://github.com/advisories/GHSA-j6jg-w79c-7p8v,https://bit.ly/3qNpkMV
+GithubAdvisories,[GHSA-wg8p-w946-c482] Cross-site Scripting in ShowDoc,https://github.com/advisories/GHSA-wg8p-w946-c482,https://bit.ly/3tPnwoB
+GithubAdvisories,[GHSA-xm3x-787m-p66r] Cross-site Scripting in ShowDoc,https://github.com/advisories/GHSA-xm3x-787m-p66r,https://bit.ly/3qN7Hg9
+GithubAdvisories,[GHSA-22hc-47cc-7x6f] Cross-site Scripting in Pimcore,https://github.com/advisories/GHSA-22hc-47cc-7x6f,https://bit.ly/3NArIk6
+GithubAdvisories,[GHSA-q3x2-jvp3-wj78] Unrestricted XML files leading to cross-site scripting in Microweber,https://github.com/advisories/GHSA-q3x2-jvp3-wj78,https://bit.ly/3iJAP3x
+GithubAdvisories,[GHSA-v8mp-hhjq-h4cj] Cross-site Scripting in ShowDoc,https://github.com/advisories/GHSA-v8mp-hhjq-h4cj,https://bit.ly/3Dk27Hk
+GithubAdvisories,[GHSA-p4v2-r99v-wjc2] Improper Encoding or Escaping of Output in Nicotine+,https://github.com/advisories/GHSA-p4v2-r99v-wjc2,https://bit.ly/3NpTyiR
+GithubAdvisories,[GHSA-pccm-j6vj-jwwf] Cross-site Scripting in ShowDoc,https://github.com/advisories/GHSA-pccm-j6vj-jwwf,https://bit.ly/3iIawLf
+GithubAdvisories,[GHSA-pq2f-3fg3-rw99] SQL Injection in WordPress Zero Spam WordPress plugin,https://github.com/advisories/GHSA-pq2f-3fg3-rw99,https://bit.ly/3DnpoYT
