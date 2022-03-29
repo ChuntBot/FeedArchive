@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Red Hat Security Advisory 2022-1021-01,https://packetstormsecurity.com/files/166519/RHSA-2022-1021-01.txt,https://bit.ly/3qLdWkG
+PacketstormSecurity,Red Hat Security Advisory 2022-1091-01,https://packetstormsecurity.com/files/166518/RHSA-2022-1091-01.txt,https://bit.ly/36HXydM
+PacketstormSecurity,Red Hat Security Advisory 2022-1083-01,https://packetstormsecurity.com/files/166516/RHSA-2022-1083-01.txt,https://bit.ly/3ISEp5Y
+PacketstormSecurity,PHP filter_var Bypass Patch,https://packetstormsecurity.com/files/166513/phpfiltervar-bypass.txt,https://bit.ly/3qLcTBi
+PacketstormSecurity,Message System 1.0 Shell Upload,https://packetstormsecurity.com/files/166512/messagesystem10-shell.txt,https://bit.ly/3Nz0yK7
+PacketstormSecurity,Message System 1.0 Local File Inclusion,https://packetstormsecurity.com/files/166511/messagesystem10-lfi.txt,https://bit.ly/3LqcZGw
+PacketstormSecurity,Fingerprint Attendance 1.0 Account Takeover,https://packetstormsecurity.com/files/166510/fa10-bypass.txt,https://bit.ly/3uzkfZS
+PacketstormSecurity,Fingerprint Attendance 1.0 Shell Upload,https://packetstormsecurity.com/files/166509/fa10-shell.txt,https://bit.ly/3uJvAqm
+PacketstormSecurity,Fingerprint Attendance 1.0 SQL Injection,https://packetstormsecurity.com/files/166508/fa10-sql.txt,https://bit.ly/3LnEHDB
+PacketstormSecurity,Sports Complex Booking System 1.0 Local File Inclusion,https://packetstormsecurity.com/files/166507/scbs10-lfi.txt,https://bit.ly/3iOqHXn
