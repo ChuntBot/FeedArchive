@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2ccw-7px8-vmpf] Possible URL Redirection to Untrusted Site ('Open Redirect') in Flask-AppBuilder,https://github.com/advisories/GHSA-2ccw-7px8-vmpf,https://bit.ly/3tNV7PG
+GithubAdvisories,[GHSA-5gjh-5j4f-cpwv] Unrestricted Upload of File with Dangerous Type in Gogs,https://github.com/advisories/GHSA-5gjh-5j4f-cpwv,https://bit.ly/3uG5mEP
+GithubAdvisories,[GHSA-8v99-48m9-c8pm] Incorrect Authorization in imgcrypt,https://github.com/advisories/GHSA-8v99-48m9-c8pm,https://bit.ly/36HlyxH
+GithubAdvisories,[GHSA-47wv-vhj2-g66m] Use of insecure temporary file in Horovod,https://github.com/advisories/GHSA-47wv-vhj2-g66m,https://bit.ly/3qNO2gi
+GithubAdvisories,[GHSA-q7rv-6hp3-vh96] Improper Input Validation in guzzlehttp/psr7,https://github.com/advisories/GHSA-q7rv-6hp3-vh96,https://bit.ly/3qKNd82
+GithubAdvisories,[GHSA-p737-p57g-4cpr] Insertion of Sensitive Information into Log File in Jupyter notebook,https://github.com/advisories/GHSA-p737-p57g-4cpr,https://bit.ly/3NsJoxQ
+GithubAdvisories,[GHSA-2f5v-8r3f-8pww] Improper access control allows admin privilege escalation in Argo CD,https://github.com/advisories/GHSA-2f5v-8r3f-8pww,https://bit.ly/3LshLmy
+GithubAdvisories,[GHSA-h6h5-6fmq-rh28] Path traversal allows leaking out-of-bound files from Argo CD repo-server,https://github.com/advisories/GHSA-h6h5-6fmq-rh28,https://bit.ly/3Lu7Hd3
+GithubAdvisories,[GHSA-r9cr-hvjj-496v] Path traversal and improper access control allows leaking out-of-bound files from Argo CD repo-server,https://github.com/advisories/GHSA-r9cr-hvjj-496v,https://bit.ly/36SNdLY
+GithubAdvisories,[GHSA-vvff-6wrr-4g7q] Missing Authentication for Critical Function in Foreman Ansible,https://github.com/advisories/GHSA-vvff-6wrr-4g7q,https://bit.ly/38d4hwT
+GithubAdvisories,[GHSA-9m87-6fj3-c5xh] Untrusted Search Path in PNPM,https://github.com/advisories/GHSA-9m87-6fj3-c5xh,https://bit.ly/3JPsbfD
