@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rgg3-3wh7-w935] Unrestricted Upload of File with Dangerous Type in Zenario CMS,https://github.com/advisories/GHSA-rgg3-3wh7-w935,https://bit.ly/3tNrEVX
+GithubAdvisories,[GHSA-x8wj-cqmp-3wmm] Cross-site Scripting in Zenario CMS,https://github.com/advisories/GHSA-x8wj-cqmp-3wmm,https://bit.ly/3qKF8zQ
+GithubAdvisories,[GHSA-gjh6-wvhq-h4qx] Cross-site Scripting in FreeTAKServer-UI,https://github.com/advisories/GHSA-gjh6-wvhq-h4qx,https://bit.ly/3DlyLrW
+GithubAdvisories,[GHSA-jr2m-29wj-w9qc] SQL Injection in FreeTAKServer-UI,https://github.com/advisories/GHSA-jr2m-29wj-w9qc,https://bit.ly/3NwqExp
+GithubAdvisories,[GHSA-mcgw-5fhw-3fq8] Incorrect Authorization in saleor,https://github.com/advisories/GHSA-mcgw-5fhw-3fq8,https://bit.ly/3uFX53J
+GithubAdvisories,[GHSA-hf4q-52x6-4p57] Unrestricted file upload leads to stored cross-site scripting in Microweber,https://github.com/advisories/GHSA-hf4q-52x6-4p57,https://bit.ly/3iQINru
+GithubAdvisories,[GHSA-pm3h-mm62-pwm8] XML Entity Expansion in trytond and proteus,https://github.com/advisories/GHSA-pm3h-mm62-pwm8,https://bit.ly/3Lk3ZT4
+GithubAdvisories,[GHSA-29vr-79w7-p649] Incorrect Authorization in Gerapy,https://github.com/advisories/GHSA-29vr-79w7-p649,https://bit.ly/3tQd2p9
+GithubAdvisories,[GHSA-4pww-fqgh-36hj] Unrestricted Upload of File with Dangerous Type in Croogo,https://github.com/advisories/GHSA-4pww-fqgh-36hj,https://bit.ly/3NvrAC6
+GithubAdvisories,[GHSA-4r65-35qq-ch8j] Ansible discloses sensitive information in traceback error message,https://github.com/advisories/GHSA-4r65-35qq-ch8j,https://bit.ly/3iI6imR
+GithubAdvisories,[GHSA-cj78-rgw3-4h5p] Improper Restriction of XML External Entity Reference in trytond and proteus,https://github.com/advisories/GHSA-cj78-rgw3-4h5p,https://bit.ly/3DnE1vb
+GithubAdvisories,[GHSA-c3h9-896r-86jm] Improper Input Validation in GoGo Protobuf,https://github.com/advisories/GHSA-c3h9-896r-86jm,https://bit.ly/3uGGP2q
