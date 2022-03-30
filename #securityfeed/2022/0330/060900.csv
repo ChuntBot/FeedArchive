@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] WordPress Plugin Easy Cookie Policy 1.6.2 - Broken Access Control to Stored XSS,https://www.exploit-db.com/exploits/50849,https://bit.ly/3DkxbXk
+ExploitDB,[remote] Kramer VIAware 2.5.0719.1034 - Remote Code Execution (RCE),https://www.exploit-db.com/exploits/50848,https://bit.ly/3LrEXSc
+ExploitDB,[remote] PostgreSQL 9.3-11.7 - Remote Code Execution (RCE) (Authenticated),https://www.exploit-db.com/exploits/50847,https://bit.ly/3wOvfoJ
+ExploitDB,[webapps] CSZ CMS 1.2.9 - 'Multiple' Blind SQLi(Authenticated),https://www.exploit-db.com/exploits/50846,https://bit.ly/3ISxppE
+ExploitDB,[webapps] WordPress Plugin admin-word-count-column 2.2 - Local File Read,https://www.exploit-db.com/exploits/50845,https://bit.ly/36ZPSTZ
+ExploitDB,[webapps] WordPress Plugin video-synchro-pdf 1.7.4 - Local File Inclusion,https://www.exploit-db.com/exploits/50844,https://bit.ly/3JTGDmW
+ExploitDB,[webapps] WordPress Plugin cab-fare-calculator 1.0.3 - Local File Inclusion,https://www.exploit-db.com/exploits/50843,https://bit.ly/3JReInD
+ExploitDB,[webapps] WordPress Plugin Curtain 1.0.2 - Cross-site Request Forgery (CSRF),https://www.exploit-db.com/exploits/50842,https://bit.ly/3NsIn9b
+ExploitDB,[webapps] Drupal avatar_uploader v7.x-1.0-beta8 - Cross Site Scripting (XSS),https://www.exploit-db.com/exploits/50841,https://bit.ly/3Dokefd
+ExploitDB,[webapps] Atom CMS 2.0 - Remote Code Execution (RCE),https://www.exploit-db.com/exploits/50840,https://bit.ly/36ViI88
