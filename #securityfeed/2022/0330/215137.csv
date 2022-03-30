@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8c26-wmh5-6g9v] Use of a Broken or Risky Cryptographic Algorithm in golang.org/x/crypto/ssh,https://github.com/advisories/GHSA-8c26-wmh5-6g9v,https://bit.ly/3DtqlPh
