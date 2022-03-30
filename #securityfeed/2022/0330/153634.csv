@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Chrome safe_browsing::ThreatDetails::OnReceivedThreatDOMDetails Use-After-Free,https://packetstormsecurity.com/files/166547/GS20220330145441.tgz,https://bit.ly/370b1gN
+PacketstormSecurity,Joomla! 4.1.0 Zip Slip File Overwrite / Path Traversal,https://packetstormsecurity.com/files/166546/KIS-2022-05.txt,https://bit.ly/3NBdXBC
+PacketstormSecurity,WordPress Easy Cookie Policy 1.6.2 Cross Site Scripting,https://packetstormsecurity.com/files/166543/wpecp162-xss.txt,https://bit.ly/3wM2TLW
+PacketstormSecurity,WordPress CleanTalk 5.173 Cross Site Scripting,https://packetstormsecurity.com/files/166542/wpcleantalk5173-xss.txt,https://bit.ly/3IUsuER
+PacketstormSecurity,Kramer VIAware 2.5.0719.1034 Remote Code Execution,https://packetstormsecurity.com/files/166541/kramerviaware25-exec.txt,https://bit.ly/3uZkE8b
+PacketstormSecurity,PostgreSQL 11.7 Remote Code Execution,https://packetstormsecurity.com/files/166540/postgres93117-exec.txt,https://bit.ly/3qK6c2k
+PacketstormSecurity,Medical Hub Directory Site 1.0 SQL Injection,https://packetstormsecurity.com/files/166539/mhds10-sql.txt,https://bit.ly/3wPQCpC
+PacketstormSecurity,Medical Hub Directory Site 1.0 Shell Upload,https://packetstormsecurity.com/files/166538/mhds10-shell.txt,https://bit.ly/3IMr2V7
+PacketstormSecurity,Medical Hub Directory Site 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/166537/mhds10-xss.txt,https://bit.ly/3uCp5Wg
+PacketstormSecurity,Medical Hub Directory Site 1.0 Local File Inclusion,https://packetstormsecurity.com/files/166536/mhds10-lfi.txt,https://bit.ly/3qPZuYN
+PacketstormSecurity,CSZ CMS 1.2.9 SQL Injection,https://packetstormsecurity.com/files/166535/cszcms129-sql.txt,https://bit.ly/3wM2Yze
+PacketstormSecurity,WordPress Video-Synchro-PDF 1.7.4 Local File Inclusion,https://packetstormsecurity.com/files/166534/wpvsp174-lfi.txt,https://bit.ly/3NxDFXy
+PacketstormSecurity,WordPress Cab-Fare-Calculator 1.0.3 Local File Inclusion,https://packetstormsecurity.com/files/166533/wpcfc103-lfi.txt,https://bit.ly/3tS2ohv
+PacketstormSecurity,Atom CMS 1.0.2 Shell Upload,https://packetstormsecurity.com/files/166532/atomcms20-shell.txt,https://bit.ly/3qMQT94
+PacketstormSecurity,WordPress Donorbox-Donation-Form 7.1.6 Cross Site Scripting,https://packetstormsecurity.com/files/166531/wpddf716-xss.txt,https://bit.ly/3Ls0GcF
+PacketstormSecurity,WordPress Clipr 1.2.3 Cross Site Scripting,https://packetstormsecurity.com/files/166530/wpclipr123-xss.txt,https://bit.ly/3tTOVWC
+PacketstormSecurity,WordPress Curtain 1.0.2 Cross Site Request Forgery,https://packetstormsecurity.com/files/166529/wpcurtain102-xsrf.txt,https://bit.ly/36DXifS
