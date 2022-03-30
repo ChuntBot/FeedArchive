@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xpgc-j48j-jwv9] Cross-site Scripting in Keycloak,https://github.com/advisories/GHSA-xpgc-j48j-jwv9,https://bit.ly/3tSoMr2
+GithubAdvisories,[GHSA-xp82-jmw8-mjxp] Unrestricted Upload of File with Dangerous Type in ShowDoc,https://github.com/advisories/GHSA-xp82-jmw8-mjxp,https://bit.ly/3tSGQBt
+GithubAdvisories,[GHSA-3qr6-qrqm-8v86] Integer Overflow or Wraparound in Microweber,https://github.com/advisories/GHSA-3qr6-qrqm-8v86,https://bit.ly/3u1QNg5
+GithubAdvisories,[GHSA-838h-jqp6-cf2f] Sandbox bypass leading to arbitrary code execution in Deno,https://github.com/advisories/GHSA-838h-jqp6-cf2f,https://bit.ly/3DqWDKT
+GithubAdvisories,[GHSA-qgpv-86r3-87fh] Cross-site Scripting in Parsedown,https://github.com/advisories/GHSA-qgpv-86r3-87fh,https://bit.ly/3wQM8zo
