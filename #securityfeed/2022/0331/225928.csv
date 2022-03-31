@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7p99-3798-f85c] URL Redirection to Untrusted Site ('Open Redirect') in express-openid-connect,https://github.com/advisories/GHSA-7p99-3798-f85c,https://bit.ly/3uIgotm
