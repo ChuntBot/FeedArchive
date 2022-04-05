@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jj47-x69x-mxrm] Reallocation bug can trigger heap memory corruption,https://github.com/advisories/GHSA-jj47-x69x-mxrm,https://bit.ly/370Iubn
