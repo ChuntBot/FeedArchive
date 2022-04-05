@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4822-jvwx-w47h] Uncontrolled Resource Consumption in Matrix Synapse,https://github.com/advisories/GHSA-4822-jvwx-w47h,https://bit.ly/3KgHmyN
+GithubAdvisories,[GHSA-r9w3-g83q-m6hq] Prototype Pollution in deepmerge-ts,https://github.com/advisories/GHSA-r9w3-g83q-m6hq,https://bit.ly/3r694ql
+GithubAdvisories,[GHSA-cqxx-66wh-8pjw] Improper Removal of Sensitive Information Before Storage or Transfer in irrd,https://github.com/advisories/GHSA-cqxx-66wh-8pjw,https://bit.ly/3JbPeAn
+GithubAdvisories,[GHSA-c3g4-w6cv-6v7h] Non-empty default inheritable capabilities for linux container in Buildah,https://github.com/advisories/GHSA-c3g4-w6cv-6v7h,https://bit.ly/3JcSmfn
+GithubAdvisories,[GHSA-xhr8-mpwq-2rr2] Automatic named constructor discovery in Valinor,https://github.com/advisories/GHSA-xhr8-mpwq-2rr2,https://bit.ly/3r5b5Dl
+GithubAdvisories,[GHSA-gwc9-348x-qwv2] Use after free in Wasmtime,https://github.com/advisories/GHSA-gwc9-348x-qwv2,https://bit.ly/3j9lxFr
+GithubAdvisories,[GHSA-6v6p-g8cg-2hgg] Improper Certificate Validation in node-sass affects eZ Platform,https://github.com/advisories/GHSA-6v6p-g8cg-2hgg,https://bit.ly/3NPX0Dz
+GithubAdvisories,[GHSA-fcrx-8829-jpqx] Improper Restriction of XML External Entity Reference in wutka jox,https://github.com/advisories/GHSA-fcrx-8829-jpqx,https://bit.ly/3r7dehL
+GithubAdvisories,[GHSA-xw7v-qrhc-jjg2] Access Control vulnerability in Dolibarr,https://github.com/advisories/GHSA-xw7v-qrhc-jjg2,https://bit.ly/3J6RVDe
+GithubAdvisories,[GHSA-5cmw-fhq9-8fhh] Type Confusion in LiveHelperChat,https://github.com/advisories/GHSA-5cmw-fhq9-8fhh,https://bit.ly/3Jds1O7
+GithubAdvisories,[GHSA-qg5x-66hp-cw5p] Uncontrolled Resource Consumption in Apache DolphinScheduler,https://github.com/advisories/GHSA-qg5x-66hp-cw5p,https://bit.ly/3r4FotZ
+GithubAdvisories,[GHSA-636j-7x7r-gvw2] Old sessions not blocked by login enable function in Snipe-IT,https://github.com/advisories/GHSA-636j-7x7r-gvw2,https://bit.ly/3x82Pq6
