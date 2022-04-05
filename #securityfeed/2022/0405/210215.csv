@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-69p3-xp37-f692] Improper Certificate Validation in kubeclient,https://github.com/advisories/GHSA-69p3-xp37-f692,https://bit.ly/3JeAZuq
+GithubAdvisories,[GHSA-pv39-qp28-4mgh] Improper Restriction of XML External Entity Reference in soa-model,https://github.com/advisories/GHSA-pv39-qp28-4mgh,https://bit.ly/35HMMDY
+GithubAdvisories,[GHSA-rr8m-29g8-8cgc] SQL Injection in Fork CMS,https://github.com/advisories/GHSA-rr8m-29g8-8cgc,https://bit.ly/3DGHvsS
+GithubAdvisories,[GHSA-322v-p3jc-7hrg] Cross-Site Request Forgery in Anchor CMS,https://github.com/advisories/GHSA-322v-p3jc-7hrg,https://bit.ly/3LApIGC
+GithubAdvisories,[GHSA-xgx2-332h-9x6q] SQL Injection in Yeswiki,https://github.com/advisories/GHSA-xgx2-332h-9x6q,https://bit.ly/3u863YB
+GithubAdvisories,[GHSA-h2fw-93qx-vrcq] SQL Injection in Moodle,https://github.com/advisories/GHSA-h2fw-93qx-vrcq,https://bit.ly/37hmQ2s
+GithubAdvisories,[GHSA-j7xg-5549-jr3j] Improper Certificate Validation in OWASP ZAP,https://github.com/advisories/GHSA-j7xg-5549-jr3j,https://bit.ly/3JdK5rF
+GithubAdvisories,[GHSA-vc5r-xfc4-4x22] Cross-site Scripting in Pimcore Datahub,https://github.com/advisories/GHSA-vc5r-xfc4-4x22,https://bit.ly/3DLfIHC
+GithubAdvisories,[GHSA-hm3x-jwwf-jpr9] Exposure of Sensitive Information to an Unauthorized Actor in OpenStack tripleo-heat-templates,https://github.com/advisories/GHSA-hm3x-jwwf-jpr9,https://bit.ly/3ubepP4
+GithubAdvisories,[GHSA-69wp-xwm7-69wm] Exposure of Resource to Wrong Sphere in ThinkPHP Framework,https://github.com/advisories/GHSA-69wp-xwm7-69wm,https://bit.ly/3JcHcqM
+GithubAdvisories,[GHSA-pr9q-v585-qv2w] Improper Privilege Management in Open Web Analytics,https://github.com/advisories/GHSA-pr9q-v585-qv2w,https://bit.ly/3Jq1TzX
