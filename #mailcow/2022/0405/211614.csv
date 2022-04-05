@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommit,[Nginx] Fix Nginx buffer sizes by moving parameters to correct location,https://github.com/mailcow/mailcow-dockerized/commit/a2ccf7ef03fb76b3e5a4bbbce90ba35aa7284116,https://bit.ly/3KgxLrL
+GithubCommit,[NGINX] Added new Proxy Buffers to the /SOGo Section,https://github.com/mailcow/mailcow-dockerized/commit/ba45f70a30a0d4b47244e9cfcb30213b9873319e,https://bit.ly/3NOSxRA
+GithubCommit,[NGINX] Added new Proxy Buffers to the /SOGo Section,https://github.com/mailcow/mailcow-dockerized/commit/1cf25572a3ad9da3173491ee33b9d2a62cdce8f6,https://bit.ly/37jAQZq
+GithubCommit,Merge branch 'staging',https://github.com/mailcow/mailcow-dockerized/commit/374cc646010359af6be86d5f41444697a429bbae,https://bit.ly/36VyzUs
