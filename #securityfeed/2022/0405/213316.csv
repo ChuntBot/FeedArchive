@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8m49-2xj8-67v9] Data Loss/Denial of Service in SWHKD,https://github.com/advisories/GHSA-8m49-2xj8-67v9,https://bit.ly/37josJc
+GithubAdvisories,[GHSA-p4jg-pccf-h82c] Information Leak/Denial of Service in SWHKD,https://github.com/advisories/GHSA-p4jg-pccf-h82c,https://bit.ly/3KcptRN
+GithubAdvisories,[GHSA-62hc-f8qj-5xc3] Path traversal in Phoenix AutoTest Plugin,https://github.com/advisories/GHSA-62hc-f8qj-5xc3,https://bit.ly/3JdPkYn
+GithubAdvisories,[GHSA-4c7h-f2j9-9c46] Missing permission Phoenix AutoTest Plugin,https://github.com/advisories/GHSA-4c7h-f2j9-9c46,https://bit.ly/3v0z87u
+GithubAdvisories,[GHSA-qcgx-7p5f-hxvr] Discoverability of user password hash in Statamic CMS,https://github.com/advisories/GHSA-qcgx-7p5f-hxvr,https://bit.ly/3ultX3b
+GithubAdvisories,[GHSA-674v-3g2w-84gx] Sandbox bypass in fenom,https://github.com/advisories/GHSA-674v-3g2w-84gx,https://bit.ly/35Jnvtd
+GithubAdvisories,[GHSA-m8xh-cqc2-5q6f] Type Confusion in ImpressCMS,https://github.com/advisories/GHSA-m8xh-cqc2-5q6f,https://bit.ly/3J91EZH
+GithubAdvisories,[GHSA-jc4v-vvg6-xg78] SQL Injection in ImpressCMS,https://github.com/advisories/GHSA-jc4v-vvg6-xg78,https://bit.ly/3NOegcd
+GithubAdvisories,[GHSA-4q96-9f63-p7jj] Path Traversal in ImpressCMS,https://github.com/advisories/GHSA-4q96-9f63-p7jj,https://bit.ly/3KfWY5M
+GithubAdvisories,[GHSA-48p3-xfvw-g59c] Incorrect Access Control in ImpressCMS,https://github.com/advisories/GHSA-48p3-xfvw-g59c,https://bit.ly/3JcuZm0
+GithubAdvisories,[GHSA-qrvj-274h-hfcg] Deserialization of Untrusted Data in topthink/framework,https://github.com/advisories/GHSA-qrvj-274h-hfcg,https://bit.ly/3KeIfrI
+GithubAdvisories,[GHSA-6jm6-cmcp-fqjq] Nomad Spread Job Stanza May Trigger Panic in Servers,https://github.com/advisories/GHSA-6jm6-cmcp-fqjq,https://bit.ly/3Kep15z
+GithubAdvisories,[GHSA-m2wv-m5pf-284r] Cross-site Scripting in teampass,https://github.com/advisories/GHSA-m2wv-m5pf-284r,https://bit.ly/3Jcv7lu
