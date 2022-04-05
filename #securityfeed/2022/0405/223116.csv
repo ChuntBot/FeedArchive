@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-74w3-2r77-fw5h] Remote code injection in consoleme,https://github.com/advisories/GHSA-74w3-2r77-fw5h,https://bit.ly/35JvgPR
+GithubAdvisories,[GHSA-g397-v4w5-4m79] Command injection in cocoapods-downloader,https://github.com/advisories/GHSA-g397-v4w5-4m79,https://bit.ly/3JcTWxC
+GithubAdvisories,[GHSA-45hc-r4fj-qj89] SQL injection in pagekit/pagekit,https://github.com/advisories/GHSA-45hc-r4fj-qj89,https://bit.ly/3DHZUFL
+GithubAdvisories,[GHSA-7627-mp87-jf6q] Command injection in cocoapods-downloader,https://github.com/advisories/GHSA-7627-mp87-jf6q,https://bit.ly/38kAkLg
+GithubAdvisories,[GHSA-qvf8-p83w-v58j] Podman's default inheritable capabilities for linux container not empty,https://github.com/advisories/GHSA-qvf8-p83w-v58j,https://bit.ly/3Jbp00Y
+GithubAdvisories,[GHSA-6635-c626-vj4r] Command Injection Vulnerability with Mercurial in VCS,https://github.com/advisories/GHSA-6635-c626-vj4r,https://bit.ly/3DLUARz
