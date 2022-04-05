@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+GithubCommit,Merge branch 'mailcow:staging' into staging,https://github.com/mailcow/mailcow-dockerized/commit/bb9ae02cccc41d612774b2c449aa486893b1f124,https://bit.ly/3qTvv1Y
+GithubCommit,Update lang.en.json (#4511),https://github.com/mailcow/mailcow-dockerized/commit/a03b8f28ae510e95ab4b37c63d52763454cc5fc7,https://bit.ly/3wii8Mo
+GithubCommit,[Web] Fix missing rspamd description (#4512),https://github.com/mailcow/mailcow-dockerized/commit/161130c116d47702943c1e731202819be24c9297,https://bit.ly/3uiN3po
+GithubCommit,Merge branch 'mailcow:staging' into staging,https://github.com/mailcow/mailcow-dockerized/commit/f097267bcd31ef6d44308b2021d98ec7889c65dc,https://bit.ly/3iRusLL
+GithubCommit,[Web] Fix resource.php and /cache/ warning message,https://github.com/mailcow/mailcow-dockerized/commit/deac5ad2fe303449a7dc4e442f6f07c32f6f0c14,https://bit.ly/3wwMSJA
+GithubCommit,Enable autodiscover to work with app passwords (#4516),https://github.com/mailcow/mailcow-dockerized/commit/e911452d0c5e91738286a2b3d73c72ff10eb8619,https://bit.ly/3wrIxr0
+GithubCommit,[Compose] Update SOGo to 5.5.1,https://github.com/mailcow/mailcow-dockerized/commit/3166bd5df5963cdc2436580fe0747c4c04414419,https://bit.ly/35vCkiN
+GithubCommit,[DB] Update schema for longer passwords in sogo,https://github.com/mailcow/mailcow-dockerized/commit/2b149fb8ea3ecd3a7293bc70cb0df5972fc74495,https://bit.ly/3uLrCNU
+GithubCommit,[DB] Update DB Version to 22032022_1330,https://github.com/mailcow/mailcow-dockerized/commit/67882414e1319c85d3843583a082c732c3520946,https://bit.ly/3IXurR2
+GithubCommit,[DB] Removed empty space behind c_value,https://github.com/mailcow/mailcow-dockerized/commit/06f380a17a2d1808bc6d0e233dc1347925c0b3d4,https://bit.ly/35vCk2h
+GithubCommit,"Revert ""[Web] add github version tag - adjust css""",https://github.com/mailcow/mailcow-dockerized/commit/e925187dda18df3a0e36c5c5c34629e8940a8a05,https://bit.ly/3tWH9Ll
+GithubCommit,Modified Buffer Size in site-defaults.conf,https://github.com/mailcow/mailcow-dockerized/commit/b04faddac4544c3cb99774eefbff363a5cc94880,https://bit.ly/3uPU2WK
+GithubCommit,[Postfix] update postscreen access list (#4515),https://github.com/mailcow/mailcow-dockerized/commit/be9cbcf5ac0dbf901840f46c21380d8af8e630e6,https://bit.ly/352SkbM
+GithubCommit,[Web] Updated lang.fr.json [CI SKIP] (#4523),https://github.com/mailcow/mailcow-dockerized/commit/48589d20e2eff88b049e34d1dc3f5411ad2fc751,https://bit.ly/3NiPpNw
+GithubCommit,[Rspamd] Update Rspamd to 3.2.1 (#4526),https://github.com/mailcow/mailcow-dockerized/commit/b375e6a2508d9f35e8f7328845c8ca2b88b2f26b,https://bit.ly/3LlLcqx
+GithubCommit,[ClamAV] Move to official ClamAV Docker container (#4525),https://github.com/mailcow/mailcow-dockerized/commit/fd7269d455c78746fdc6112c08617485281e306c,https://bit.ly/3DiwUUT
+GithubCommit,[Web] Updated lang.fr.json [CI SKIP] (#4529),https://github.com/mailcow/mailcow-dockerized/commit/c433daf0246b73d517909a968f14b2737801b0f8,https://bit.ly/3uM5yT8
+GithubCommit,[SOGo] Update SOGo to 5.5.1,https://github.com/mailcow/mailcow-dockerized/commit/53a525489744fdebf0318af0db837adf182bbe23,https://bit.ly/3wSMIwo
+GithubCommit,"🐄🐰 Moopril 2022 - ClamAV, Rspamd, SOGo Update",https://github.com/mailcow/mailcow-dockerized/commit/654dbf81987bd28e52cadc10012bcd1bd2eed8c7,https://bit.ly/3DEKjXA
