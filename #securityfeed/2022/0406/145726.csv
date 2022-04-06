@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fx5p-f64h-93xc] Opened exploitable ports in default docker-compose.yaml in go-ipfs,https://github.com/advisories/GHSA-fx5p-f64h-93xc,https://bit.ly/3ugvQ12
+GithubAdvisories,[GHSA-x752-qjv4-c4hc] Remote code injection in dompdf/dompdf,https://github.com/advisories/GHSA-x752-qjv4-c4hc,https://bit.ly/35LrKo5
+GithubAdvisories,[GHSA-gx7g-wjxg-jwwj] Cross-Site Request Forgery in yourls/yourls,https://github.com/advisories/GHSA-gx7g-wjxg-jwwj,https://bit.ly/3xaqPJ4
