@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7vrm-3jc8-5wwm] Incorrect Comparison in Vyper,https://github.com/advisories/GHSA-7vrm-3jc8-5wwm,https://bit.ly/3Kgiasr
+GithubAdvisories,[GHSA-c2jg-hw38-jrqq] Inconsistent Interpretation of HTTP Requests in twisted.web,https://github.com/advisories/GHSA-c2jg-hw38-jrqq,https://bit.ly/3uez9Wj
