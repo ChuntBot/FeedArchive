@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hf55-c445-2w97] Cross-site Scripting in @rocket.chat/livechat,https://github.com/advisories/GHSA-hf55-c445-2w97,https://bit.ly/3LINwrQ
+GithubAdvisories,[GHSA-558x-2xjg-6232] Allocation of Resources Without Limits or Throttling in Spring Framework,https://github.com/advisories/GHSA-558x-2xjg-6232,https://bit.ly/3j9fH6T
+GithubAdvisories,[GHSA-6v73-fgf6-w5j7] Code Injection in Spring Cloud Function,https://github.com/advisories/GHSA-6v73-fgf6-w5j7,https://bit.ly/3j7bdhn
