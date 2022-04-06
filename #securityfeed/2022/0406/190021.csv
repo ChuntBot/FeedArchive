@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g27j-74fp-xfpr] Insecure default value for CORS configuration,https://github.com/advisories/GHSA-g27j-74fp-xfpr,https://bit.ly/3NRYEVd
+GithubAdvisories,[GHSA-xmjj-3c76-5w84] Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in directus,https://github.com/advisories/GHSA-xmjj-3c76-5w84,https://bit.ly/3KguA3x
+GithubAdvisories,[GHSA-5jfw-35xp-5m42] Buffer length underflow in LoginPacket causing unchecked exceptions to be thrown,https://github.com/advisories/GHSA-5jfw-35xp-5m42,https://bit.ly/37mufxE
+GithubAdvisories,[GHSA-m87f-39q9-6f55] Sensitive Auth & Cookie data stored in Jupyter server logs,https://github.com/advisories/GHSA-m87f-39q9-6f55,https://bit.ly/3JeoHCA
