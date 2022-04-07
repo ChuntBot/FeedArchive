@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+ExploitDB,[local] binutils 2.37 - Objdump Segmentation Fault,https://www.exploit-db.com/exploits/50858,https://bit.ly/3JjyiId
+ExploitDB,[remote] Opmon 9.11 - Cross-site Scripting,https://www.exploit-db.com/exploits/50857,https://bit.ly/3xaNTHN
+ExploitDB,[remote] Kramer VIAware - Remote Code Execution (RCE) (Root),https://www.exploit-db.com/exploits/50856,https://bit.ly/3DL4iE1
+ExploitDB,[webapps] ICEHRM 31.0.0.0S - Cross-site Request Forgery (CSRF) to Account Deletion,https://www.exploit-db.com/exploits/50855,https://bit.ly/3Jc9f9P
+ExploitDB,[webapps] qdPM 9.2 - Cross-site Request Forgery (CSRF),https://www.exploit-db.com/exploits/50854,https://bit.ly/3LM3AJh
+ExploitDB,[webapps] minewebcms 1.15.2 - Cross-site Scripting (XSS),https://www.exploit-db.com/exploits/50853,https://bit.ly/3LJ2Ogc
