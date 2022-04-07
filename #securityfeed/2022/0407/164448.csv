@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Red Hat Security Advisory 2022-1263-01,https://packetstormsecurity.com/files/166638/RHSA-2022-1263-01.txt,https://bit.ly/3NVfGlb
+PacketstormSecurity,Backdoor.Win32.XLog.21 Authentication Bypass / Race Condition,https://packetstormsecurity.com/files/166637/MVID-2022-0543.txt,https://bit.ly/3ujnaXw
+PacketstormSecurity,Backdoor.Win32.Verify.h Remote Command Execution,https://packetstormsecurity.com/files/166635/MVID-2022-0538.txt,https://bit.ly/3r6oLy4
+PacketstormSecurity,KLiK Social Media Website 1.0 SQL Injection,https://packetstormsecurity.com/files/166634/kliksmw10-sql.txt,https://bit.ly/3jcTqVW
+PacketstormSecurity,WordPress WP Downgrade Cross Site Scripting,https://packetstormsecurity.com/files/166632/wpdowngrade-xss.txt,https://bit.ly/3KeiqIh
+PacketstormSecurity,WordPress UpdraftPlus Cross Site Scripting,https://packetstormsecurity.com/files/166631/wpupdraftplus-xss.txt,https://bit.ly/3LOJIFo
+PacketstormSecurity,qdPM 9.2 Cross Site Request Forgery,https://packetstormsecurity.com/files/166630/qdpm92-xsrf.txt,https://bit.ly/3JipbaS
+PacketstormSecurity,minewebcms 1.15.2 Cross Site Scripting,https://packetstormsecurity.com/files/166629/minewebcms1152-xss.txt,https://bit.ly/35OpyMs
+PacketstormSecurity,WordPress Hummingbird Cross Site Scripting,https://packetstormsecurity.com/files/166628/wphummingbird-xss.txt,https://bit.ly/3KlJVQg
+PacketstormSecurity,ICEHRM 31.0.0.0S Cross Site Request Forgery,https://packetstormsecurity.com/files/166627/icehrm31000Sdel-xsrf.txt,https://bit.ly/36VkOp6
+PacketstormSecurity,WordPress Ad Inserter Cross Site Scripting,https://packetstormsecurity.com/files/166626/wpadinserter-xss.txt,https://bit.ly/3ji8tO2
+PacketstormSecurity,WordPress Loco Translate Cross Site Scripting,https://packetstormsecurity.com/files/166625/wplocotranslate-xss.txt,https://bit.ly/3JkplhZ
+PacketstormSecurity,Backdoor.Win32.Wisell Remote Command Execution,https://packetstormsecurity.com/files/166624/MVID-2022-0536.txt,https://bit.ly/3LMtwom
+PacketstormSecurity,Kramer VIAware Remote Code Execution,https://packetstormsecurity.com/files/166623/kramerviaware-exec.txt,https://bit.ly/35OkxDB
+PacketstormSecurity,Small HTTP Server 3.06 Remote Buffer Overflow,https://packetstormsecurity.com/files/166622/smallhttp306-overflow.txt,https://bit.ly/3rbTPfP
+PacketstormSecurity,Backdoor.Win32.Wisell Buffer Overflow,https://packetstormsecurity.com/files/166621/MVID-2022-0541.txt,https://bit.ly/37qOzxV
+PacketstormSecurity,Red Hat Security Advisory 2022-1254-01,https://packetstormsecurity.com/files/166620/RHSA-2022-1254-01.txt,https://bit.ly/3JwLhqh
+PacketstormSecurity,Opmon 9.11 Cross Site Scripting,https://packetstormsecurity.com/files/166619/opmon911-xss.txt,https://bit.ly/3JhEIaD
+PacketstormSecurity,binutils 2.37 Objdump Segmentation Fault,https://packetstormsecurity.com/files/166618/binutils237-crash.txt,https://bit.ly/3x73iZz
+PacketstormSecurity,Zenario CMS 9.0.54156 Remote Code Execution,https://packetstormsecurity.com/files/166617/zenariocms9054156-exec.txt,https://bit.ly/3r92ZJI
+PacketstormSecurity,Backdoor.Win32.Xingdoor Denial Of Service,https://packetstormsecurity.com/files/166616/MVID-2022-0542.txt,https://bit.ly/3LQZqjh
+PacketstormSecurity,Backdoor.Win32.Ptakks.XP.a Insecure Credential Storage,https://packetstormsecurity.com/files/166615/MVID-2022-0537.txt,https://bit.ly/3Kj4cWp
