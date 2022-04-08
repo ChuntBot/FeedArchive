@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8pp6-8x4q-c5mx] Server side request forgery in C1 CMS,https://github.com/advisories/GHSA-8pp6-8x4q-c5mx,https://bit.ly/3KocUTj
+GithubAdvisories,[GHSA-8hfj-j24r-96c4] Path Traversal: 'dir/../../filename' in moment.locale,https://github.com/advisories/GHSA-8hfj-j24r-96c4,https://bit.ly/3KrSn0a
+GithubAdvisories,[GHSA-rqrc-8q8f-cp9c] Infinite loop in .Net Bond,https://github.com/advisories/GHSA-rqrc-8q8f-cp9c,https://bit.ly/3LPFkGq
