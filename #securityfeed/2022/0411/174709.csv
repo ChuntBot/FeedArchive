@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 35: firefox 2022-3781e69ebd,https://www.linuxsecurity.com/advisories/fedora/fedora-35-firefox-2022-3781e69ebd-13-17-52?rss,https://bit.ly/38MtNtj
+LinuxSecurity,Fedora 35: nss 2022-3781e69ebd,https://www.linuxsecurity.com/advisories/fedora/fedora-35-nss-2022-3781e69ebd-13-17-52?rss,https://bit.ly/38JyLqD
+LinuxSecurity,Fedora 35: containerd 2022-e9a09c1a7d,https://www.linuxsecurity.com/advisories/fedora/fedora-35-containerd-2022-e9a09c1a7d-13-17-41?rss,https://bit.ly/3rh4ZQv
+LinuxSecurity,Fedora 35: golang-github-containerd-imgcrypt 2022-5f746c8e5b,https://www.linuxsecurity.com/advisories/fedora/fedora-35-golang-github-containerd-imgcrypt-2022-5f746c8e5b-13-17-36?rss,https://bit.ly/3uwLaq4
