@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v6gp-9mmm-c6p5] Out-of-bounds Write in zlib affects Nokogiri,https://github.com/advisories/GHSA-v6gp-9mmm-c6p5,https://bit.ly/3KBG3Lc
+GithubAdvisories,[GHSA-xxx9-3xcr-gjj3] XML Injection in Xerces Java affects Nokogiri,https://github.com/advisories/GHSA-xxx9-3xcr-gjj3,https://bit.ly/3rhxFJ6
+GithubAdvisories,[GHSA-gx8x-g87m-h5q6] Denial of Service (DoS) in Nokogiri on JRuby,https://github.com/advisories/GHSA-gx8x-g87m-h5q6,https://bit.ly/3xos8Ej
+GithubAdvisories,[GHSA-crjr-9rc5-ghw8] Inefficient Regular Expression Complexity in Nokogiri,https://github.com/advisories/GHSA-crjr-9rc5-ghw8,https://bit.ly/36315mT
