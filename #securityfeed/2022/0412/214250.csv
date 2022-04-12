@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g3vv-g2j5-45f2] Panic when processing certain blocks,https://github.com/advisories/GHSA-g3vv-g2j5-45f2,https://bit.ly/3vclrT1
+GithubAdvisories,[GHSA-mcq2-w56r-5w2w] Daemon panics when processing certain blocks,https://github.com/advisories/GHSA-mcq2-w56r-5w2w,https://bit.ly/3xsYhLb
+GithubAdvisories,[GHSA-8xpj-9j9g-fc9r] SQL Injection in elide-datastore-aggregation,https://github.com/advisories/GHSA-8xpj-9j9g-fc9r,https://bit.ly/3uxNqxx
+GithubAdvisories,[GHSA-86r3-4gq8-xw8q] Remote Code Execution in Laravel,https://github.com/advisories/GHSA-86r3-4gq8-xw8q,https://bit.ly/3Jzs2fG
+GithubAdvisories,[GHSA-cqcc-mm6x-vmvw] Persistent Cross-site Scripting vulnerability in PrivateBin,https://github.com/advisories/GHSA-cqcc-mm6x-vmvw,https://bit.ly/3juFmqY
