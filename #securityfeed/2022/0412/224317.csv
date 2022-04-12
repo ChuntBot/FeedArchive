@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vx57-7f4q-fpc7] Arbitrary redirects under /new endpoint,https://github.com/advisories/GHSA-vx57-7f4q-fpc7,https://bit.ly/3O8H3Za
+GithubAdvisories,[GHSA-h6xx-pmxh-3wgp] Improper Authentication in etcd,https://github.com/advisories/GHSA-h6xx-pmxh-3wgp,https://bit.ly/3xoaUqv
+GithubAdvisories,[GHSA-34jx-wx69-9x8v] Symlink Attack in kubectl cp,https://github.com/advisories/GHSA-34jx-wx69-9x8v,https://bit.ly/3E820Ps
+GithubAdvisories,[GHSA-mqf3-28j7-3mj6] Information Exposure in Kubernetes,https://github.com/advisories/GHSA-mqf3-28j7-3mj6,https://bit.ly/3O7zfqx
+GithubAdvisories,[GHSA-9q3g-m353-cp4p] Denial of Service in Packetbeat,https://github.com/advisories/GHSA-9q3g-m353-cp4p,https://bit.ly/3OiRrhl
+GithubAdvisories,[GHSA-8fvr-5rqf-3wwh] Information Exposure in Docker Engine,https://github.com/advisories/GHSA-8fvr-5rqf-3wwh,https://bit.ly/3jA9r8u
+GithubAdvisories,[GHSA-q9vw-wr57-xjv3] Information Exposure in Heketi,https://github.com/advisories/GHSA-q9vw-wr57-xjv3,https://bit.ly/3KBNfab
+GithubAdvisories,[GHSA-gfh2-7jg5-653p] Denial of Service in docker2aci,https://github.com/advisories/GHSA-gfh2-7jg5-653p,https://bit.ly/3v8JEd0
+GithubAdvisories,[GHSA-44gg-pmqr-4669] Access Restriction Bypass in Docker,https://github.com/advisories/GHSA-44gg-pmqr-4669,https://bit.ly/3O6bxuO
+GithubAdvisories,[GHSA-jp32-vmm6-3vf5] Directory Traversal in Kubernetes,https://github.com/advisories/GHSA-jp32-vmm6-3vf5,https://bit.ly/3rnPOox
+GithubAdvisories,[GHSA-5wmg-j84w-4jj4] Arbitrary File Write via Archive Extraction in mholt/archiver,https://github.com/advisories/GHSA-5wmg-j84w-4jj4,https://bit.ly/3uyHWTg
+GithubAdvisories,[GHSA-8j3f-mhq8-gmh4] Reject unauthorized access with GitHub PATs,https://github.com/advisories/GHSA-8j3f-mhq8-gmh4,https://bit.ly/3M5BbON
+GithubAdvisories,[GHSA-8wrg-m8vm-5fvj] Authentication Bypass by Primary Weakness in github.com/kongchuanhujiao/server,https://github.com/advisories/GHSA-8wrg-m8vm-5fvj,https://bit.ly/3E4Gew1
+GithubAdvisories,[GHSA-579h-mv94-g4gp] Privilege Escalation in Kubernetes,https://github.com/advisories/GHSA-579h-mv94-g4gp,https://bit.ly/3E4Gf33
+GithubAdvisories,[GHSA-vc3x-gx6c-g99f] Denial of Service in Bytom,https://github.com/advisories/GHSA-vc3x-gx6c-g99f,https://bit.ly/3E9gdLX
+GithubAdvisories,[GHSA-x27w-qxhg-343v] Access Restriction Bypass in go-ldap,https://github.com/advisories/GHSA-x27w-qxhg-343v,https://bit.ly/37MaXC1
+GithubAdvisories,[GHSA-wqv3-8cm6-h6wg] Improper Authentication in Kubernetes,https://github.com/advisories/GHSA-wqv3-8cm6-h6wg,https://bit.ly/3JuQNcQ
+GithubAdvisories,[GHSA-g42g-737j-qx6j] Access Restriction Bypass in kube-apiserver,https://github.com/advisories/GHSA-g42g-737j-qx6j,https://bit.ly/3E4Gfjz
+GithubAdvisories,[GHSA-rgjg-66cx-5x9m] Authentication Bypass,https://github.com/advisories/GHSA-rgjg-66cx-5x9m,https://bit.ly/3rmBhJD
+GithubAdvisories,[GHSA-pw59-4qgf-jxr8] Cache Manipulation Attack in Apache Traffic Control,https://github.com/advisories/GHSA-pw59-4qgf-jxr8,https://bit.ly/3JCR7Gy
+GithubAdvisories,[GHSA-v4h8-794j-g8mm] Arbitrary File Override in Docker Engine,https://github.com/advisories/GHSA-v4h8-794j-g8mm,https://bit.ly/3uz14QP
+GithubAdvisories,[GHSA-g44j-7vp3-68cv] Arbitrary File Write in Libcontainer,https://github.com/advisories/GHSA-g44j-7vp3-68cv,https://bit.ly/3rmt8Fg
