@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m4jx-6526-vvhm] Denial of service in github.com/nats-io/nats-server/server,https://github.com/advisories/GHSA-m4jx-6526-vvhm,https://bit.ly/3xkqsvt
+GithubAdvisories,[GHSA-x5f3-qmwj-4f84] Authentication bypass by capture-replay in github.com/cosmos/ethermint,https://github.com/advisories/GHSA-x5f3-qmwj-4f84,https://bit.ly/3KF8LdX
+GithubAdvisories,[GHSA-93p5-8fqw-wjx3] Authentication bypass by capture-replay in github.com/cosmos/ethermint,https://github.com/advisories/GHSA-93p5-8fqw-wjx3,https://bit.ly/37L8OpS
+GithubAdvisories,[GHSA-5x92-p4p5-33c4] Path Traversal in HashiCorp Nomad,https://github.com/advisories/GHSA-5x92-p4p5-33c4,https://bit.ly/3OiVpXh
+GithubAdvisories,[GHSA-77cr-6gr8-7rr9] Use After Free in HashiCorp Nomad,https://github.com/advisories/GHSA-77cr-6gr8-7rr9,https://bit.ly/37MfJ2p
+GithubAdvisories,[GHSA-q2qr-3c2p-9235] Denial of Service (DoS) in HashiCorp Consul,https://github.com/advisories/GHSA-q2qr-3c2p-9235,https://bit.ly/3O4V2iF
+GithubAdvisories,[GHSA-877x-32pm-p28x] Link Following in Kata Runtime,https://github.com/advisories/GHSA-877x-32pm-p28x,https://bit.ly/3jtDfDU
+GithubAdvisories,[GHSA-6978-vg2j-cc9q] Improper Privilege Management and Execution with Unnecessary Privileges in Kata Containers,https://github.com/advisories/GHSA-6978-vg2j-cc9q,https://bit.ly/3rmDTHC
+GithubAdvisories,[GHSA-x6mj-w4jf-jmgw] Server Side Request Forgery (SSRF) in Kubernetes,https://github.com/advisories/GHSA-x6mj-w4jf-jmgw,https://bit.ly/3MhPCiT
+GithubAdvisories,[GHSA-vfp4-xx6m-7vf6] Cryptographic Issues in ECK,https://github.com/advisories/GHSA-vfp4-xx6m-7vf6,https://bit.ly/3roaOeZ
+GithubAdvisories,[GHSA-8w94-cf6g-c8mg] Man-in-the-Middle (MitM),https://github.com/advisories/GHSA-8w94-cf6g-c8mg,https://bit.ly/3uzPTHA
+GithubAdvisories,[GHSA-wc9w-wvq2-ffm9] Server Side Request Forgery in Grafana,https://github.com/advisories/GHSA-wc9w-wvq2-ffm9,https://bit.ly/3EbGZn8
+GithubAdvisories,[GHSA-pf59-j7c2-rh6x] Exposure of Sensitive Information to an Unauthorized Actor and Insertion of Sensitive Information Into Sent Data in Calico,https://github.com/advisories/GHSA-pf59-j7c2-rh6x,https://bit.ly/3LYrDVr
+GithubAdvisories,[GHSA-qrrc-ww9x-r43g] Improper Input Validation in Docker Engine,https://github.com/advisories/GHSA-qrrc-ww9x-r43g,https://bit.ly/3M5E3v3
+GithubAdvisories,[GHSA-h5rh-w6vm-9ghc] Denial of service in Grafana,https://github.com/advisories/GHSA-h5rh-w6vm-9ghc,https://bit.ly/3jw5lyb
+GithubAdvisories,[GHSA-x4rg-4545-4w7w] Improper Input Validation and Excessive Iteration in Go Facebook Thrift,https://github.com/advisories/GHSA-x4rg-4545-4w7w,https://bit.ly/3JzHFnm
+GithubAdvisories,[GHSA-g622-r636-qfqh] SQL Injection in Couchbase Sync Gateway,https://github.com/advisories/GHSA-g622-r636-qfqh,https://bit.ly/3JAWCp8
+GithubAdvisories,[GHSA-9wvh-ff5f-xjpj] Missing Authorization in Harbor,https://github.com/advisories/GHSA-9wvh-ff5f-xjpj,https://bit.ly/3vfgmcB
+GithubAdvisories,[GHSA-xjqr-g762-pxwp] Improper limitation of path name,https://github.com/advisories/GHSA-xjqr-g762-pxwp,https://bit.ly/3xppsqc
+GithubAdvisories,"[GHSA-57q7-rxqq-7vgp] On Windows, `git-sizer` might run a `git` executable within the repository being analyzed",https://github.com/advisories/GHSA-57q7-rxqq-7vgp,https://bit.ly/3Jz27EL
+GithubAdvisories,"[GHSA-g9mp-8g3h-3c5c] Improper nonce handling: potential overflow, potential state DoS",https://github.com/advisories/GHSA-g9mp-8g3h-3c5c,https://bit.ly/38zORCX
