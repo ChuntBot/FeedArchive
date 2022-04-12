@@ -1,0 +1,56 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wf43-55jj-vwq8] DNS Rebinding in etcd,https://github.com/advisories/GHSA-wf43-55jj-vwq8,https://bit.ly/3O8SWhZ
+GithubAdvisories,[GHSA-f9fq-vjvh-779p] Improper Input Validation in vault-ssh-helper,https://github.com/advisories/GHSA-f9fq-vjvh-779p,https://bit.ly/3LX5lUf
+GithubAdvisories,[GHSA-9r5x-fjv3-q6h4] Incorrect Access Control in github.com/nats-io/jwt and github.com/nats-io/nats-server/v2,https://github.com/advisories/GHSA-9r5x-fjv3-q6h4,https://bit.ly/3jvtIMm
+GithubAdvisories,[GHSA-hf6f-jq25-8gq9] Remote Code Execution (RCE),https://github.com/advisories/GHSA-hf6f-jq25-8gq9,https://bit.ly/3M3fMFY
+GithubAdvisories,[GHSA-4fqx-74rv-638w] SQL Injection,https://github.com/advisories/GHSA-4fqx-74rv-638w,https://bit.ly/3riEwSE
+GithubAdvisories,[GHSA-5gjm-fj42-x983] Cross-site Request Forgery (CSRF),https://github.com/advisories/GHSA-5gjm-fj42-x983,https://bit.ly/3uzFyeK
+GithubAdvisories,[GHSA-9689-rx4v-cqgc] Open Redirect,https://github.com/advisories/GHSA-9689-rx4v-cqgc,https://bit.ly/3jxFPbT
+GithubAdvisories,[GHSA-f5fj-7265-jxhj] Information Exposure,https://github.com/advisories/GHSA-f5fj-7265-jxhj,https://bit.ly/36ax30w
+GithubAdvisories,[GHSA-q47x-6mqq-4w92] Improper Input Validation,https://github.com/advisories/GHSA-q47x-6mqq-4w92,https://bit.ly/37FEXiL
+GithubAdvisories,[GHSA-6hv3-7c34-4hx8] Information Exposure Through Environmental Variables,https://github.com/advisories/GHSA-6hv3-7c34-4hx8,https://bit.ly/3E79XnT
+GithubAdvisories,[GHSA-hpmr-prr2-cqc4] Remote Code Execution,https://github.com/advisories/GHSA-hpmr-prr2-cqc4,https://bit.ly/3O3hGbg
+GithubAdvisories,[GHSA-997c-fj8j-rq5h] Arbitrary Code Execution,https://github.com/advisories/GHSA-997c-fj8j-rq5h,https://bit.ly/3vgrcPx
+GithubAdvisories,[GHSA-xx8c-m748-xr4j] Access Restriction Bypass in kubernetes,https://github.com/advisories/GHSA-xx8c-m748-xr4j,https://bit.ly/3EagnCF
+GithubAdvisories,[GHSA-85p9-j7c9-v4gr] Insufficiently Protected Credentials,https://github.com/advisories/GHSA-85p9-j7c9-v4gr,https://bit.ly/3KBOPZn
+GithubAdvisories,[GHSA-2575-pghm-6qqx] Incorrect Permission Assignment for Critical Resource and Use of Cache Containing Sensitive Information in Kubernetes,https://github.com/advisories/GHSA-2575-pghm-6qqx,https://bit.ly/3uABdYN
+GithubAdvisories,[GHSA-8m9g-647g-5pxw] Infinite loop in Yubico yubihsm-connector,https://github.com/advisories/GHSA-8m9g-647g-5pxw,https://bit.ly/3O8DzWA
+GithubAdvisories,[GHSA-qhm4-jxv7-j9pq] Allocation of Resources Without Limits or Throttling and Uncontrolled Memory Allocation in Kubernetes,https://github.com/advisories/GHSA-qhm4-jxv7-j9pq,https://bit.ly/3jDSvxP
+GithubAdvisories,[GHSA-82hx-w2r5-c2wq] Allocation of Resources Without Limits or Throttling and Uncontrolled Memory Allocation in Kubernetes,https://github.com/advisories/GHSA-82hx-w2r5-c2wq,https://bit.ly/3uABdrL
+GithubAdvisories,[GHSA-76j4-gggq-7rg9] SQLinjection in falcon-plus,https://github.com/advisories/GHSA-76j4-gggq-7rg9,https://bit.ly/3KJrANm
+GithubAdvisories,[GHSA-hpm9-fx8v-w45v] Plaintext storage in Jenkins instant-messaging Plugin,https://github.com/advisories/GHSA-hpm9-fx8v-w45v,https://bit.ly/3JA9sE7
+GithubAdvisories,[GHSA-6h2c-g688-q9qr] Path traversal in Jenkins Phoenix AutoTest Plugin,https://github.com/advisories/GHSA-6h2c-g688-q9qr,https://bit.ly/3vfahNj
+GithubAdvisories,[GHSA-p2j7-6g9h-32xh] Cross site scripting in Shopizer,https://github.com/advisories/GHSA-p2j7-6g9h-32xh,https://bit.ly/376VZGR
+GithubAdvisories,[GHSA-85f9-w9cx-h363] Cross site request forgery in Jenkins Job and Node ownership Plugin,https://github.com/advisories/GHSA-85f9-w9cx-h363,https://bit.ly/3E7fWco
+GithubAdvisories,[GHSA-mh27-rxmr-8q4c] Cross-site Scripting in Jenkins SiteMonitor Plugin,https://github.com/advisories/GHSA-mh27-rxmr-8q4c,https://bit.ly/3KFhNHR
+GithubAdvisories,[GHSA-8rx6-v5q4-xw3j] XML External Entity Reference in Jenkins Coverage/Complexity Scatter Plot Plugin,https://github.com/advisories/GHSA-8rx6-v5q4-xw3j,https://bit.ly/3uABevP
+GithubAdvisories,[GHSA-vhgr-gfx3-fg37] Unrestricted Upload of File with Dangerous Type in WPanel 4,https://github.com/advisories/GHSA-vhgr-gfx3-fg37,https://bit.ly/3jDSw4R
+GithubAdvisories,[GHSA-689x-x68p-fph3] Cross-site Scripting in vditor,https://github.com/advisories/GHSA-689x-x68p-fph3,https://bit.ly/3E79XUV
+GithubAdvisories,[GHSA-28xr-mwxg-3qc8] Command injection in simple-git,https://github.com/advisories/GHSA-28xr-mwxg-3qc8,https://bit.ly/3KFhLzJ
+GithubAdvisories,[GHSA-7xj5-fwqr-5378] Cross-site Scripting in craftcms/cms,https://github.com/advisories/GHSA-7xj5-fwqr-5378,https://bit.ly/37f7k7F
+GithubAdvisories,[GHSA-g694-m8vq-gv9h] URL Confusion When Scheme Not Supplied in medialize/uri.js,https://github.com/advisories/GHSA-g694-m8vq-gv9h,https://bit.ly/3M1wwNO
+GithubAdvisories,[GHSA-g54x-29xv-58h5] Remote code execution in Subrion,https://github.com/advisories/GHSA-g54x-29xv-58h5,https://bit.ly/3jv0Oft
+GithubAdvisories,[GHSA-wf98-vxv9-jqfv] XSS Injection Vulnerability,https://github.com/advisories/GHSA-wf98-vxv9-jqfv,https://bit.ly/3ux29J4
+GithubAdvisories,[GHSA-cjw5-f2x5-r4q5] Cross-site Scripting in tastyigniter,https://github.com/advisories/GHSA-cjw5-f2x5-r4q5,https://bit.ly/3E5GPgM
+GithubAdvisories,[GHSA-6xvq-2gj8-4276] Cross site scripting in valine,https://github.com/advisories/GHSA-6xvq-2gj8-4276,https://bit.ly/3E79YrX
+GithubAdvisories,[GHSA-hhr9-7xvh-8xgc] Server side request forgery in livehelperchat,https://github.com/advisories/GHSA-hhr9-7xvh-8xgc,https://bit.ly/3O8XXXw
+GithubAdvisories,[GHSA-f99r-jjgr-f373] SQL injection in ImpressCMS,https://github.com/advisories/GHSA-f99r-jjgr-f373,https://bit.ly/37ISgih
+GithubAdvisories,[GHSA-34hv-f45p-4qfq] Open redirect in wwbn/avideo,https://github.com/advisories/GHSA-34hv-f45p-4qfq,https://bit.ly/3LYZMEH
+GithubAdvisories,"[GHSA-3vjf-82ff-p4r3] Incorrect protocol extraction via \r, \n and \t characters",https://github.com/advisories/GHSA-3vjf-82ff-p4r3,https://bit.ly/37KYKNC
+GithubAdvisories,[GHSA-29f8-q7mf-7cqj] Logic error in Apache Pinot,https://github.com/advisories/GHSA-29f8-q7mf-7cqj,https://bit.ly/3vheWOK
+GithubAdvisories,[GHSA-ffjp-66mx-3qpj] Privilege escalation in beego,https://github.com/advisories/GHSA-ffjp-66mx-3qpj,https://bit.ly/3vdiS3l
+GithubAdvisories,[GHSA-28r6-jm5h-mrgg] Access control bypass in Beego,https://github.com/advisories/GHSA-28r6-jm5h-mrgg,https://bit.ly/3uJVpb3
+GithubAdvisories,[GHSA-2v6v-q994-xvxx] Privilege escalation in beego,https://github.com/advisories/GHSA-2v6v-q994-xvxx,https://bit.ly/3JB457H
+GithubAdvisories,[GHSA-mx3x-rmrh-9wf6] SQL injection in net.mingsoft:ms-mcms,https://github.com/advisories/GHSA-mx3x-rmrh-9wf6,https://bit.ly/3JzkA3V
+GithubAdvisories,[GHSA-vx8v-g3p3-88vg] Weak password hash in livehelperchat,https://github.com/advisories/GHSA-vx8v-g3p3-88vg,https://bit.ly/3jDSx8V
+GithubAdvisories,[GHSA-fwr7-v2mv-hh25] Prototype Pollution in async,https://github.com/advisories/GHSA-fwr7-v2mv-hh25,https://bit.ly/3JEHUxg
+GithubAdvisories,[GHSA-qjmq-8hjr-qcv6] SQL Injection when creating an application with Reactive SQL backend,https://github.com/advisories/GHSA-qjmq-8hjr-qcv6,https://bit.ly/3jxiSFP
+GithubAdvisories,[GHSA-3hjg-vc7r-rcrw] Denial of Service vulnerability in @podium/layout and @podium/proxy,https://github.com/advisories/GHSA-3hjg-vc7r-rcrw,https://bit.ly/3xvdviq
+GithubAdvisories,[GHSA-jm35-h8q2-73mp] Improper one time password handling in devise-two-factor,https://github.com/advisories/GHSA-jm35-h8q2-73mp,https://bit.ly/3JCdz2g
+GithubAdvisories,[GHSA-gcj7-j438-hjj2] Smokescreen SSRF via deny list bypass,https://github.com/advisories/GHSA-gcj7-j438-hjj2,https://bit.ly/3uABfzT
+GithubAdvisories,[GHSA-gx2c-fvhc-ph4j] Path traversal in Hadoop,https://github.com/advisories/GHSA-gx2c-fvhc-ph4j,https://bit.ly/3rlzbKl
+GithubAdvisories,[GHSA-h6xw-mghq-7523] Unsafe parsing in SWHKD,https://github.com/advisories/GHSA-h6xw-mghq-7523,https://bit.ly/3xvdpr4
+GithubAdvisories,[GHSA-r3r5-jhw6-4634] Insecure temporary file usage in SWHKD,https://github.com/advisories/GHSA-r3r5-jhw6-4634,https://bit.ly/37M5Odb
+GithubAdvisories,[GHSA-97jg-43c9-q6pf] Unauthenticated user can retrieve the list of users through uorgsuggest.vm,https://github.com/advisories/GHSA-97jg-43c9-q6pf,https://bit.ly/3uARPzS
+GithubAdvisories,[GHSA-ghcq-472w-vf4h] Incorrect Use of Privileged APIs in org.xwiki.platform.skin.skinx,https://github.com/advisories/GHSA-ghcq-472w-vf4h,https://bit.ly/3uABg6V
+GithubAdvisories,[GHSA-qpp2-2mcp-2wm5] Unauthenticated user can list hidden document from multiple velocity templates,https://github.com/advisories/GHSA-qpp2-2mcp-2wm5,https://bit.ly/3vggDMu
