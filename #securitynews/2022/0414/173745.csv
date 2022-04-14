@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,CVE-2022-28345 - Signal client for iOS version 5.33.2 and below are vulnerable to RTLO Injection URI Spoofing using malicious URLs such as gepj.net/selif#/moc.elpmaxe which would appear as example.com/#files/ten.jpeg,https://redd.it/u3mnsc,
