@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g3fq-3v3g-mh32] Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) in @nextcloud/dialogs,https://github.com/advisories/GHSA-g3fq-3v3g-mh32,https://bit.ly/3dpNc2N
