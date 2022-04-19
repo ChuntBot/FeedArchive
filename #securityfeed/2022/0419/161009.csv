@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+PacketstormSecurity,BlueZ Key Theft / bluetoothd Double-Free,https://packetstormsecurity.com/files/166776/GS20220419151409.tgz,https://bit.ly/393CNdB
+PacketstormSecurity,Backdoor.Win32.GateHell.21 Authentication Bypass,https://packetstormsecurity.com/files/166774/MVID-2022-0559.txt,https://bit.ly/3jStBek
+PacketstormSecurity,Backdoor.Win32.Delf.zn Insecure Credential Storage,https://packetstormsecurity.com/files/166773/MVID-2022-0556.txt,https://bit.ly/3KXX16B
+PacketstormSecurity,Linux FUSE Use-After-Free,https://packetstormsecurity.com/files/166772/GS20220419150818.tgz,https://bit.ly/3uUe5EQ
+PacketstormSecurity,WordPress Motopress Hotel Booking Lite 4.2.4 SQL Injection,https://packetstormsecurity.com/files/166771/wpmotopresshbl424-sql.txt,https://bit.ly/3uUe57O
+PacketstormSecurity,Linux watch_queue Filter Out-Of-Bounds Write,https://packetstormsecurity.com/files/166770/GS20220419150504.txt,https://bit.ly/3vwg80W
+PacketstormSecurity,Backdoor.Win32.GateHell.21 Man-In-The-Middle,https://packetstormsecurity.com/files/166769/MVID-2022-0560.txt,https://bit.ly/3JS91oJ
+PacketstormSecurity,WordPress Popup Maker 1.16.5 Cross Site Scripting,https://packetstormsecurity.com/files/166768/wppopupmaker1165-xss.txt,https://bit.ly/3kaicqp
+PacketstormSecurity,Responsive Online Blog 1.0 SQL Injection,https://packetstormsecurity.com/files/166767/rob10-sql.txt,https://bit.ly/3KZY6dZ
+PacketstormSecurity,Backdoor.Win32.Psychward.03.a Weak Hardcoded Password,https://packetstormsecurity.com/files/166766/MVID-2022-0558.txt,https://bit.ly/3KYGuzi
+PacketstormSecurity,ManageEngine ADSelfService Plus 6.1 User Enumeration,https://packetstormsecurity.com/files/166765/meadssp61-enumerate.txt,https://bit.ly/3rDioST
+PacketstormSecurity,7-Zip 21.07 Code Execution / Privilege Escalation,https://packetstormsecurity.com/files/166763/7zip-escalate.txt,https://bit.ly/3Mf21nt
+PacketstormSecurity,PKP Open Journals System 3.3 Cross Site Scripting,https://packetstormsecurity.com/files/166762/pkpopenjournalsystem33-xss.txt,https://bit.ly/3jSqO4B
+PacketstormSecurity,Backdoor.Win32.Hupigon.haqj Unquoted Service Path,https://packetstormsecurity.com/files/166761/MVID-2022-0557.txt,https://bit.ly/3vx3gYo
+PacketstormSecurity,XDNR Shellcode Cryptor / Encoder,https://packetstormsecurity.com/files/166760/xdnr.c,https://bit.ly/3Ewh49F
+PacketstormSecurity,Trojan.Win32.TScash.c Insecure Permissions,https://packetstormsecurity.com/files/166759/MVID-2022-0555.txt,https://bit.ly/3uVNwiF
+PacketstormSecurity,WordPress Videos Sync PDF 1.7.4 Cross Site Scripting,https://packetstormsecurity.com/files/166758/wpvideossyncpdf174-xss.txt,https://bit.ly/382UIAG
+PacketstormSecurity,Backdoor.Win32.Loselove Denial Of Service,https://packetstormsecurity.com/files/166757/MVID-2022-0554.txt,https://bit.ly/3MaDfEU
+PacketstormSecurity,WordPress Elementor 3.6.2 Shell Upload,https://packetstormsecurity.com/files/166756/wpelementor36-exec.txt,https://bit.ly/3vxhWqm
+PacketstormSecurity,HackTool.Win32.Delf.vs Insecure Credential Storage,https://packetstormsecurity.com/files/166755/MVID-2022-0553.txt,https://bit.ly/3jVFXSR
+PacketstormSecurity,EaseUS Data Recovery 15.1.0.0 Unquoted Service Path,https://packetstormsecurity.com/files/166754/easeusdr-unquotedpath.txt,https://bit.ly/3Escv04
+PacketstormSecurity,PTPublisher 2.3.4 Unquoted Service Path,https://packetstormsecurity.com/files/166753/ptpublisher234-unquotedpath.txt,https://bit.ly/3jYE0Vv
+PacketstormSecurity,Goodbye Tracking? Impact Of iOS App Tracking Transparency And Privacy Labels,https://packetstormsecurity.com/files/166749/2204.03556.pdf,https://bit.ly/383Dkvj
+PacketstormSecurity,Scriptcase 9.7 Shell Upload,https://packetstormsecurity.com/files/166777/scriptcase97-exec.txt,https://bit.ly/3JTFmvp
+PacketstormSecurity,Zyxel NWA-1100-NH Command Injection,https://packetstormsecurity.com/files/166752/zyxelnwa1100ng-exec.txt,https://bit.ly/3ryFUAI
