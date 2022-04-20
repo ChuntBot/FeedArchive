@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+ExploitDB,[local] EaseUS Data Recovery - 'ensserver.exe' Unquoted Service Path,https://www.exploit-db.com/exploits/50886,https://bit.ly/3EBibFk
+ExploitDB,[local] PTPublisher v2.3.4 - Unquoted Service Path,https://www.exploit-db.com/exploits/50885,https://bit.ly/3L49aXJ
+ExploitDB,[webapps] Fuel CMS 1.5.0 - Cross-Site Request Forgery (CSRF),https://www.exploit-db.com/exploits/50884,https://bit.ly/36zyqGi
+ExploitDB,[local] 7-zip - Code Execution / Local Privilege Escalation,https://www.exploit-db.com/exploits/50883,https://bit.ly/3keVo8Z
+ExploitDB,[webapps] WordPress Plugin Elementor 3.6.2 - Remote Code Execution (RCE) (Authenticated),https://www.exploit-db.com/exploits/50882,https://bit.ly/3vpTWFO
+ExploitDB,[webapps] PKP Open Journals System 3.3 - Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50881,https://bit.ly/3uXYLHq
+ExploitDB,[remote] Delta Controls enteliTOUCH 3.40.3935 - Cookie User Password Disclosure,https://www.exploit-db.com/exploits/50880,https://bit.ly/3L49buL
+ExploitDB,[remote] Delta Controls enteliTOUCH 3.40.3935 - Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50879,https://bit.ly/3uWaNAZ
+ExploitDB,[remote] Delta Controls enteliTOUCH 3.40.3935 - Cross-Site Request Forgery (CSRF),https://www.exploit-db.com/exploits/50878,https://bit.ly/3L49bef
+ExploitDB,[webapps] REDCap 11.3.9 - Stored Cross Site Scripting,https://www.exploit-db.com/exploits/50877,https://bit.ly/3xHIA2w
+ExploitDB,[webapps] WordPress Plugin Popup Maker 1.16.5 - Stored Cross-Site Scripting (Authenticated),https://www.exploit-db.com/exploits/50876,https://bit.ly/3rHkOQx
+ExploitDB,[remote] Verizon 4G LTE Network Extender - Weak Credentials Algorithm,https://www.exploit-db.com/exploits/50875,https://bit.ly/3OqgO0I
+ExploitDB,[webapps] WordPress Plugin Videos sync PDF 1.7.4 - Stored Cross Site Scripting (XSS),https://www.exploit-db.com/exploits/50874,https://bit.ly/3uZYYcZ
+ExploitDB,[remote] ManageEngine ADSelfService Plus 6.1 - User Enumeration,https://www.exploit-db.com/exploits/50873,https://bit.ly/3xXBsQ3
+ExploitDB,[webapps] Scriptcase 9.7 - Remote Code Execution (RCE),https://www.exploit-db.com/exploits/50872,https://bit.ly/3rEDrEN
+ExploitDB,[webapps] Easy Appointments 1.4.2 - Information Disclosure,https://www.exploit-db.com/exploits/50871,https://bit.ly/3vx8mE5
+ExploitDB,[remote] Zyxel NWA-1100-NH - Command Injection,https://www.exploit-db.com/exploits/50870,https://bit.ly/36Aidk8
+ExploitDB,[webapps] WordPress Plugin Motopress Hotel Booking Lite 4.2.4 - SQL Injection,https://www.exploit-db.com/exploits/50869,https://bit.ly/3ExkSHO
+ExploitDB,[local] Microsoft Exchange Active Directory Topology 15.0.847.40 - 'Service MSExchangeADTopology' Unquoted Service Path,https://www.exploit-db.com/exploits/50868,https://bit.ly/37vORUs
+ExploitDB,[local] Microsoft Exchange Mailbox Assistants 15.0.847.40 - 'Service MSExchangeMailboxAssistants' Unquoted Service Path,https://www.exploit-db.com/exploits/50867,https://bit.ly/3L2Ca1Y
