@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-82mm-ffjr-h86c] Authorization bypass in Istio,https://github.com/advisories/GHSA-82mm-ffjr-h86c,https://bit.ly/3v2eyoo
+GithubAdvisories,[GHSA-6g5f-f5pm-mjrg] Vulnerability in Istio,https://github.com/advisories/GHSA-6g5f-f5pm-mjrg,https://bit.ly/3uZ9JfB
+GithubAdvisories,[GHSA-856q-xv3c-7f2f] Unauthenticated control plane denial of service attack in Istio,https://github.com/advisories/GHSA-856q-xv3c-7f2f,https://bit.ly/3xIcBj4
+GithubAdvisories,[GHSA-rpx7-33j2-xx9x] Arbitrary file deletion in NeMo ASR webapp,https://github.com/advisories/GHSA-rpx7-33j2-xx9x,https://bit.ly/3Likfoh
+GithubAdvisories,[GHSA-5cgx-vhfp-6cf9] Directory traversal in Kubernetes Secrets Store CSI Driver,https://github.com/advisories/GHSA-5cgx-vhfp-6cf9,https://bit.ly/3L0Y7OX
+GithubAdvisories,[GHSA-j9wf-vvm6-4r9w] Unverified Ownership in Kubernetes,https://github.com/advisories/GHSA-j9wf-vvm6-4r9w,https://bit.ly/3L18a6p
+GithubAdvisories,[GHSA-hwrr-rhmm-vcvf] NULL Pointer Dereference in Kubernetes CSI snapshot-controller,https://github.com/advisories/GHSA-hwrr-rhmm-vcvf,https://bit.ly/3vqxSL2
+GithubAdvisories,[GHSA-wqwf-x5cj-rg56] Arbitrary Command Injection,https://github.com/advisories/GHSA-wqwf-x5cj-rg56,https://bit.ly/37Db5Uq
+GithubAdvisories,[GHSA-4mrx-6fxm-8jpg] Buffer Overflow in vyper,https://github.com/advisories/GHSA-4mrx-6fxm-8jpg,https://bit.ly/3881mWa
