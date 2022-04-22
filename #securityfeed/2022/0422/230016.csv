@@ -1,0 +1,46 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jmxr-w2jc-qp7w] Improper Input Validation in Jenkins Promoted Builds Plugin,https://github.com/advisories/GHSA-jmxr-w2jc-qp7w,https://bit.ly/3xHFvQe
+GithubAdvisories,[GHSA-v98r-gjgc-m9pf] Cross-site Scripting in Jenkins Promoted Builds Plugin,https://github.com/advisories/GHSA-v98r-gjgc-m9pf,https://bit.ly/3K1VkUo
+GithubAdvisories,[GHSA-rvg5-f5fj-mxvg] Cross-site Scripting in Jenkins Credentials Plugin,https://github.com/advisories/GHSA-rvg5-f5fj-mxvg,https://bit.ly/3EILSnY
+GithubAdvisories,[GHSA-mj2c-5mjv-gmmj] SQL Injection in Pimcore,https://github.com/advisories/GHSA-mj2c-5mjv-gmmj,https://bit.ly/3MtVXI1
+GithubAdvisories,[GHSA-qggc-pj29-j27m] Improper Privilege Management in Mattermost,https://github.com/advisories/GHSA-qggc-pj29-j27m,https://bit.ly/3xNLd3c
+GithubAdvisories,[GHSA-9wrv-g75h-8ccc] Improper Access Control in Shopware,https://github.com/advisories/GHSA-9wrv-g75h-8ccc,https://bit.ly/3Mlyh8A
+GithubAdvisories,[GHSA-7gm7-8q8v-9gf2] Server-Side Request Forgery (SSRF) in Shopware,https://github.com/advisories/GHSA-7gm7-8q8v-9gf2,https://bit.ly/3v7AM8I
+GithubAdvisories,[GHSA-9qgm-w87q-hx89] Unrestricted Upload of File with Dangerous Type in Strapi,https://github.com/advisories/GHSA-9qgm-w87q-hx89,https://bit.ly/3Opsb8W
+GithubAdvisories,[GHSA-3v5x-qjrp-q2hq] Unrestricted Upload of File with Dangerous Type in ButterCMS,https://github.com/advisories/GHSA-3v5x-qjrp-q2hq,https://bit.ly/3k7NwG9
+GithubAdvisories,[GHSA-fxwj-v664-wv5g] Mattermost 6.4.x and earlier fails to properly invalidate pending email invitations when the acti,https://github.com/advisories/GHSA-fxwj-v664-wv5g,https://bit.ly/3k1Y49F
+GithubAdvisories,[GHSA-g5rr-p69h-7v3g] Insufficient type validation in pocketmine/pocketmine-mp,https://github.com/advisories/GHSA-g5rr-p69h-7v3g,https://bit.ly/3MlyhFC
+GithubAdvisories,[GHSA-xg75-q3q5-cqmv] Denial of Service in http-swagger,https://github.com/advisories/GHSA-xg75-q3q5-cqmv,https://bit.ly/3k1YbC7
+GithubAdvisories,[GHSA-xcjx-m2pj-8g79] Manipulated inline images can cause Infinite Loop in PyPDF2,https://github.com/advisories/GHSA-xcjx-m2pj-8g79,https://bit.ly/3MjXTCG
+GithubAdvisories,[GHSA-pfv6-prqm-85q8] Prototype Pollution in madlib-object-utils,https://github.com/advisories/GHSA-pfv6-prqm-85q8,https://bit.ly/3OvAShY
+GithubAdvisories,[GHSA-f9wg-5f46-cjmw] NextAuth.js default redirect callback vulnerable to open redirects,https://github.com/advisories/GHSA-f9wg-5f46-cjmw,https://bit.ly/3vGxsQU
+GithubAdvisories,[GHSA-3r7g-wrpr-j5g4] Improper Authentication in django-mfa3,https://github.com/advisories/GHSA-3r7g-wrpr-j5g4,https://bit.ly/3OuuXK5
+GithubAdvisories,[GHSA-xcr3-4qvr-54rh] Cross-site Scripting in Pimcore,https://github.com/advisories/GHSA-xcr3-4qvr-54rh,https://bit.ly/3vGxtnW
+GithubAdvisories,[GHSA-g5mm-vmx4-3rg7] Improper handling of case sensitivity in Spring Framework,https://github.com/advisories/GHSA-g5mm-vmx4-3rg7,https://bit.ly/3xNHEcY
+GithubAdvisories,[GHSA-4hj2-r2pm-3hc6] Incorrect Default Permissions in CRI-O,https://github.com/advisories/GHSA-4hj2-r2pm-3hc6,https://bit.ly/3vBH5Ao
+GithubAdvisories,[GHSA-6gm7-j668-w6h9] SQL Injection in Pimcore,https://github.com/advisories/GHSA-6gm7-j668-w6h9,https://bit.ly/3EFBPjd
+GithubAdvisories,[GHSA-j739-gw6q-f4c7] HTML Injection in Froxlor,https://github.com/advisories/GHSA-j739-gw6q-f4c7,https://bit.ly/3v5WERM
+GithubAdvisories,[GHSA-frxg-hf44-q765] Exposure of Sensitive Information to an Unauthorized Actor in DisCatSharp,https://github.com/advisories/GHSA-frxg-hf44-q765,https://bit.ly/3MqSxpq
+GithubAdvisories,[GHSA-4pm3-f52j-8ggh] Improper Input Validation in GeoServer,https://github.com/advisories/GHSA-4pm3-f52j-8ggh,https://bit.ly/3Oz5Iqc
+GithubAdvisories,[GHSA-rxfq-3vpc-vv72] Files or Directories Accessible to External Parties in Adminer,https://github.com/advisories/GHSA-rxfq-3vpc-vv72,https://bit.ly/3ED6OfX
+GithubAdvisories,[GHSA-2gwj-7jmv-h26r] SQL Injection in Django,https://github.com/advisories/GHSA-2gwj-7jmv-h26r,https://bit.ly/38cDBwb
+GithubAdvisories,[GHSA-w24h-v9qh-8gxj] SQL Injection in Django,https://github.com/advisories/GHSA-w24h-v9qh-8gxj,https://bit.ly/3v6leC4
+GithubAdvisories,[GHSA-6xwr-q98w-rvg7] Prototype Pollution in nconf,https://github.com/advisories/GHSA-6xwr-q98w-rvg7,https://bit.ly/37BOnMA
+GithubAdvisories,[GHSA-v8j6-6c2r-r27c] Expression Language Injection in Apache Struts,https://github.com/advisories/GHSA-v8j6-6c2r-r27c,https://bit.ly/3xObYV8
+GithubAdvisories,[GHSA-fvc6-qjp7-m4g4] Arbitrary file upload in Ghost,https://github.com/advisories/GHSA-fvc6-qjp7-m4g4,https://bit.ly/3MuUjpD
+GithubAdvisories,[GHSA-w8xh-93qh-35vw] Unrestricted Upload of File with Dangerous Type in Payload,https://github.com/advisories/GHSA-w8xh-93qh-35vw,https://bit.ly/3Moy2th
+GithubAdvisories,[GHSA-h3cq-j957-vhxg] Cross-site Scripting in fullpage.js,https://github.com/advisories/GHSA-h3cq-j957-vhxg,https://bit.ly/389SVcZ
+GithubAdvisories,[GHSA-cf4q-4cqr-7g7w] SVG with embedded scripts can lead to cross-site scripting attacks in xml2rfc,https://github.com/advisories/GHSA-cf4q-4cqr-7g7w,https://bit.ly/3rOUELJ
+GithubAdvisories,[GHSA-j2x6-9323-fp7h] Integer bounds error in Vyper,https://github.com/advisories/GHSA-j2x6-9323-fp7h,https://bit.ly/3K5QbdV
+GithubAdvisories,[GHSA-8xc6-g8xw-h2c4] YARP Denial of Service Vulnerability,https://github.com/advisories/GHSA-8xc6-g8xw-h2c4,https://bit.ly/3ECckzz
+GithubAdvisories,[GHSA-j35p-q24r-5367] Dep Group Remote Memory Exhaustion (Denial of Service) in ckb,https://github.com/advisories/GHSA-j35p-q24r-5367,https://bit.ly/3LpcTiR
+GithubAdvisories,[GHSA-4w2q-9hp2-vxj5] Path Traversal in Caucho Resin,https://github.com/advisories/GHSA-4w2q-9hp2-vxj5,https://bit.ly/3L4P938
+GithubAdvisories,[GHSA-64fq-9c6w-rq44] Improper Neutralization of Formula Elements in a CSV File in Kimai 2,https://github.com/advisories/GHSA-64fq-9c6w-rq44,https://bit.ly/37xl6Tq
+GithubAdvisories,[GHSA-vpgw-ffh3-648h] Prototype Pollution in fullpage.js,https://github.com/advisories/GHSA-vpgw-ffh3-648h,https://bit.ly/3xMC3nf
+GithubAdvisories,[GHSA-gprh-7767-cw39] Code Injection in Bolt CMS,https://github.com/advisories/GHSA-gprh-7767-cw39,https://bit.ly/3ED6P3v
+GithubAdvisories,[GHSA-j636-crp3-m584] Cross-site Scripting in tableexport.jquery.plugin,https://github.com/advisories/GHSA-j636-crp3-m584,https://bit.ly/3vGxtUY
+GithubAdvisories,[GHSA-3227-r97m-8j95] Relative Path Traversal in afire serve_static,https://github.com/advisories/GHSA-3227-r97m-8j95,https://bit.ly/3MlyiJG
+GithubAdvisories,[GHSA-x7cr-6qr6-2hh6] Missing input validation can lead to command execution in composer,https://github.com/advisories/GHSA-x7cr-6qr6-2hh6,https://bit.ly/3vGxus0
+GithubAdvisories,[GHSA-6rw3-3whw-jvjj] Git LFS can execute a binary from the current directory on Windows,https://github.com/advisories/GHSA-6rw3-3whw-jvjj,https://bit.ly/3OzhXCU
+GithubAdvisories,[GHSA-5fvx-2jj3-6mff] Insufficiently Protected Credentials in Elasticsearch,https://github.com/advisories/GHSA-5fvx-2jj3-6mff,https://bit.ly/3s4mMIM
+GithubAdvisories,[GHSA-hwvv-438r-mhvj] Exposure of Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-hwvv-438r-mhvj,https://bit.ly/3eR7zHh
