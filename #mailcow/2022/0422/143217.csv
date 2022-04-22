@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Netfilter] Exclude banning IPs when dovecot server not reacheble,https://github.com/mailcow/mailcow-dockerized/commit/6c5ab7800e4fbdc2c307d8b06246ad5472d11e25,https://bit.ly/3K513ZG
+GithubCommitStaging,[Compose] Update netfilter-mailcow to 1.47,https://github.com/mailcow/mailcow-dockerized/commit/224a59ab4b8bf6d99b96117a8190dd2ed45e3247,https://bit.ly/3K8a0Bs
+GithubCommitStaging,[Netfilter] Exclude banning IPs when dovecot server not reacheble,https://github.com/mailcow/mailcow-dockerized/commit/936f07336c9880ade02ddbc7c5e40d915168222a,https://bit.ly/3Lah41x
