@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,SUSE: 2022:1437-1 moderate: buildah,https://www.linuxsecurity.com/advisories/suse/suse-2022-1437-1-moderate-buildah-14-21-35?rss,https://bit.ly/3MukmNs
+LinuxSecurity,"SUSE: 2022:1435-1 important: firewalld, golang-github-prometheus-prometheus",https://www.linuxsecurity.com/advisories/suse/suse-2022-1435-1-important-firewalld-golang-github-prometheus-prometheus-14-20-41?rss,https://bit.ly/3rVec1a
+LinuxSecurity,SUSE: 2022:1433-1 important: golang-github-prometheus-prometheus,https://www.linuxsecurity.com/advisories/suse/suse-2022-1433-1-important-golang-github-prometheus-prometheus-14-19-53?rss,https://bit.ly/3EVWOhP
+LinuxSecurity,SUSE: 2022:1436-1 moderate: libaom,https://www.linuxsecurity.com/advisories/suse/suse-2022-1436-1-moderate-libaom-14-19-18?rss,https://bit.ly/3Lmcs8I
+LinuxSecurity,SUSE: 2022:1434-1 important: golang-github-prometheus-prometheus,https://www.linuxsecurity.com/advisories/suse/suse-2022-1434-1-important-golang-github-prometheus-prometheus-14-18-37?rss,https://bit.ly/3vkFzUd
+LinuxSecurity,Debian: DSA-5125-1: chromium security update,https://www.linuxsecurity.com/advisories/debian/debian-dsa-5125-1-chromium-security-update-14-00-53?rss,https://bit.ly/3Kmwhvr
