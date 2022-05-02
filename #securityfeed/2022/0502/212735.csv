@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+LinuxSecurity,SUSE: 2022:1485-1 moderate: python39,https://www.linuxsecurity.com/advisories/suse/suse-2022-1485-1-moderate-python39-17-17-35?rss,https://bit.ly/3kvVadw
+LinuxSecurity,SUSE: 2022:1483-1 important: subversion,https://www.linuxsecurity.com/advisories/suse/suse-2022-1483-1-important-subversion-17-16-47?rss,https://bit.ly/3MNTsjE
+LinuxSecurity,SUSE: 2022:1484-1 important: git,https://www.linuxsecurity.com/advisories/suse/suse-2022-1484-1-important-git-17-16-06?rss,https://bit.ly/3kuBqal
+LinuxSecurity,Debian: DSA-5127-1: linux security update,https://www.linuxsecurity.com/advisories/debian/debian-dsa-5127-1-linux-security-update-17-02-58?rss,https://bit.ly/38J1KKW
+LinuxSecurity,Debian LTS: DLA-2990-1: jackson-databind security update,https://www.linuxsecurity.com/advisories/deblts/debian-lts-dla-2990-1-jackson-databind-security-update-16-33-27?rss,https://bit.ly/3ORCgfb
