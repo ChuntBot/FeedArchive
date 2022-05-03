@@ -1,0 +1,90 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7jvx-f994-rfw2] materialize-css vulnerable to cross-site Scripting (XSS) due to improper escape of user input,https://github.com/advisories/GHSA-7jvx-f994-rfw2,https://bit.ly/3kzVEPR
+GithubAdvisories,[GHSA-2v7p-f4qm-r5pc] SQL Injection found in Pimcore,https://github.com/advisories/GHSA-2v7p-f4qm-r5pc,https://bit.ly/3w8HYAW
+GithubAdvisories,[GHSA-qp49-3pvw-x4m5] sinatra does not validate expanded path matches,https://github.com/advisories/GHSA-qp49-3pvw-x4m5,https://bit.ly/3KHIs5W
+GithubAdvisories,[GHSA-v4rr-65x6-g69f] XXE vulnerability in Jenkins Flaky Test Handler Plugin,https://github.com/advisories/GHSA-v4rr-65x6-g69f,https://bit.ly/3saoACe
+GithubAdvisories,[GHSA-ghq2-m3pq-qf3p] Stored XSS in Jenkins CVS Plugin,https://github.com/advisories/GHSA-ghq2-m3pq-qf3p,https://bit.ly/3LBiNgJ
+GithubAdvisories,[GHSA-9hgc-wpc5-v8p9] An attacker can execute malicious javascript in Live Helper Chat,https://github.com/advisories/GHSA-9hgc-wpc5-v8p9,https://bit.ly/3LDhHky
+GithubAdvisories,[GHSA-x3mh-jvjw-3xwx] Infinite loop in `BN_mod_sqrt()` reachable when parsing certificates,https://github.com/advisories/GHSA-x3mh-jvjw-3xwx,https://bit.ly/3OSkSXJ
+GithubAdvisories,[GHSA-27rq-4943-qcwp] Insertion of Sensitive Information into Log File in Hashicorp go-getter,https://github.com/advisories/GHSA-27rq-4943-qcwp,https://bit.ly/3KEjpAT
+GithubAdvisories,[GHSA-vmp5-c5hp-6c65] Woodpecker allows cross-site scripting (XSS) via build logs,https://github.com/advisories/GHSA-vmp5-c5hp-6c65,https://bit.ly/3KEjowP
+GithubAdvisories,[GHSA-cvx5-m8vg-vxgc] Arbitrary filesystem write access from velocity,https://github.com/advisories/GHSA-cvx5-m8vg-vxgc,https://bit.ly/3w0Cvf9
+GithubAdvisories,[GHSA-7gc6-qh9x-w6h8] Incorrect Authorization in cross-fetch,https://github.com/advisories/GHSA-7gc6-qh9x-w6h8,https://bit.ly/3vFYLMD
+GithubAdvisories,[GHSA-9vh6-qfv6-vcqp] snipe-IT vulnerable to host header injection,https://github.com/advisories/GHSA-9vh6-qfv6-vcqp,https://bit.ly/3kCEiSp
+GithubAdvisories,[GHSA-66vw-v2x9-hw75] Podman publishes a malicious image to public registries,https://github.com/advisories/GHSA-66vw-v2x9-hw75,https://bit.ly/3kEWNpe
+GithubAdvisories,[GHSA-pxpf-v376-7xx5] tagify can pass a malicious placeholder to initiate the cross-site scripting (XSS) payload,https://github.com/advisories/GHSA-pxpf-v376-7xx5,https://bit.ly/3ORHPdw
+GithubAdvisories,[GHSA-jmhj-vh4q-hhmq] tkvideo has a memory issue in playing videos,https://github.com/advisories/GHSA-jmhj-vh4q-hhmq,https://bit.ly/3ORHOGu
+GithubAdvisories,[GHSA-r3j7-x2g5-9gx6] Command injection in samba-client,https://github.com/advisories/GHSA-r3j7-x2g5-9gx6,https://bit.ly/3aapK88
+GithubAdvisories,[GHSA-6q4w-3wp4-q5wf] Denial of Service in get-ip-range,https://github.com/advisories/GHSA-6q4w-3wp4-q5wf,https://bit.ly/3sesmHZ
+GithubAdvisories,[GHSA-6c3f-p5wp-34mh] OS Command Injection in async-git,https://github.com/advisories/GHSA-6c3f-p5wp-34mh,https://bit.ly/39uVTHj
+GithubAdvisories,[GHSA-9qrh-qjmc-5w2p] Denial-of-Service when binding invalid parameters in sqlite3,https://github.com/advisories/GHSA-9qrh-qjmc-5w2p,https://bit.ly/3OVxcWX
+GithubAdvisories,[GHSA-mwm4-5qwr-g9pf] Keycloak is vulnerable to IDN homograph attack,https://github.com/advisories/GHSA-mwm4-5qwr-g9pf,https://bit.ly/3KHtjlt
+GithubAdvisories,[GHSA-vx9g-377x-xwxq] Server side request forgery in gibbon,https://github.com/advisories/GHSA-vx9g-377x-xwxq,https://bit.ly/3F9OSdb
+GithubAdvisories,[GHSA-mw35-24gh-f82w] High severity vulnerability that affects keycloak-connect and keycloak-js,https://github.com/advisories/GHSA-mw35-24gh-f82w,https://bit.ly/3biEuCY
+GithubAdvisories,[GHSA-75p6-52g3-rqc8] Privilege escalation vulnerability on Token Exchange feature,https://github.com/advisories/GHSA-75p6-52g3-rqc8,https://bit.ly/3s699Li
+GithubAdvisories,[GHSA-6jmm-mp6w-4rrg] OutOfMemory Exception by specifically crafted processing instruction in NekoHtml Parser,https://github.com/advisories/GHSA-6jmm-mp6w-4rrg,https://bit.ly/3kDJcic
+GithubAdvisories,[GHSA-jwvr-vv7p-gpwq] Privilege escalation for users with create/update permissions in Global Roles in Rancher,https://github.com/advisories/GHSA-jwvr-vv7p-gpwq,https://bit.ly/3KGHqXW
+GithubAdvisories,[GHSA-4fc7-hc63-7fjg] Exposure of repository credentials to external third-party sources in Rancher,https://github.com/advisories/GHSA-4fc7-hc63-7fjg,https://bit.ly/3LFRQsc
+GithubAdvisories,[GHSA-hx8w-ghh8-r4xf] Write access to the Catalog for any user when restricted-admin role is enabled in Rancher,https://github.com/advisories/GHSA-hx8w-ghh8-r4xf,https://bit.ly/3KEjp3R
+GithubAdvisories,[GHSA-h8pj-cxx2-jfg2] Improper Input Validation in httpx,https://github.com/advisories/GHSA-h8pj-cxx2-jfg2,https://bit.ly/3KAmhPe
+GithubAdvisories,[GHSA-qf9q-q4hh-qph3] SQL injection in blazer,https://github.com/advisories/GHSA-qf9q-q4hh-qph3,https://bit.ly/3kENJRw
+GithubAdvisories,[GHSA-p3w3-4ppm-c3f6] Cross site scripting in FacturaScripts,https://github.com/advisories/GHSA-p3w3-4ppm-c3f6,https://bit.ly/3MRsmbp
+GithubAdvisories,[GHSA-4g29-fccr-p59w] Reflected Cross-site Scripting in Shopware storefront,https://github.com/advisories/GHSA-4g29-fccr-p59w,https://bit.ly/3w5sld8
+GithubAdvisories,[GHSA-3qrq-r688-vvh4] Multiple valid tokens for password reset in Shopware,https://github.com/advisories/GHSA-3qrq-r688-vvh4,https://bit.ly/3kEViHE
+GithubAdvisories,[GHSA-w7j2-35mf-95p7] Incorrect check on buffer length in rand_core,https://github.com/advisories/GHSA-w7j2-35mf-95p7,https://bit.ly/3MRsmIr
+GithubAdvisories,[GHSA-qffw-8wg7-h665] Command injection in git-interface,https://github.com/advisories/GHSA-qffw-8wg7-h665,https://bit.ly/3vFYMjF
+GithubAdvisories,[GHSA-w8qp-hmh5-4v9v] Object state limitation has no effect,https://github.com/advisories/GHSA-w8qp-hmh5-4v9v,https://bit.ly/3FgZ1oy
+GithubAdvisories,[GHSA-gvj8-4cj4-h776] Object state limitation has no effect,https://github.com/advisories/GHSA-gvj8-4cj4-h776,https://bit.ly/38TiwHG
+GithubAdvisories,[GHSA-5x4f-7xgq-r42x] Object state limitation has no effect,https://github.com/advisories/GHSA-5x4f-7xgq-r42x,https://bit.ly/3LBiwdH
+GithubAdvisories,[GHSA-5qx5-vg5w-5mx3] Stored XSS vulnerability in Jenkins Badge Plugin,https://github.com/advisories/GHSA-5qx5-vg5w-5mx3,https://bit.ly/383H5kP
+GithubAdvisories,[GHSA-vqwg-4v6f-h6x5] Stored XSS vulnerability in Matrix Project Plugin,https://github.com/advisories/GHSA-vqwg-4v6f-h6x5,https://bit.ly/3s5u6WP
+GithubAdvisories,[GHSA-jpxj-vgq5-prjc] OS command execution vulnerability in Docker Commons Plugin,https://github.com/advisories/GHSA-jpxj-vgq5-prjc,https://bit.ly/3LBiOkN
+GithubAdvisories,[GHSA-fcr6-6cph-vmcm] Stored XSS vulnerability in Jenkins Git Parameter Plugin,https://github.com/advisories/GHSA-fcr6-6cph-vmcm,https://bit.ly/3FdTij1
+GithubAdvisories,[GHSA-c4r5-xvgw-2942] Metrics exposure in Wildfly,https://github.com/advisories/GHSA-c4r5-xvgw-2942,https://bit.ly/3OT2uhf
+GithubAdvisories,[GHSA-5h7w-hmxc-99g5] Cross site scripting in safe-svg,https://github.com/advisories/GHSA-5h7w-hmxc-99g5,https://bit.ly/38TixeI
+GithubAdvisories,[GHSA-q6h7-4qgw-2j9p] Server side request forgery in Hashicorp Consul,https://github.com/advisories/GHSA-q6h7-4qgw-2j9p,https://bit.ly/3LOHlmI
+GithubAdvisories,[GHSA-69p6-wvmq-27gg] Command injection in ruby-git,https://github.com/advisories/GHSA-69p6-wvmq-27gg,https://bit.ly/3kAUwvc
+GithubAdvisories,[GHSA-32rp-q37p-jg6w] Insecure plugin handling in Mattermost,https://github.com/advisories/GHSA-32rp-q37p-jg6w,https://bit.ly/3ORHPKy
+GithubAdvisories,[GHSA-6xj3-fhrf-rjgc] Cross-site Scripting in microweber,https://github.com/advisories/GHSA-6xj3-fhrf-rjgc,https://bit.ly/38L7Ryw
+GithubAdvisories,[GHSA-f6p5-76fp-m248] URL Rewrite vulnerability in multiple zendframework components,https://github.com/advisories/GHSA-f6p5-76fp-m248,https://bit.ly/3MRsnft
+GithubAdvisories,[GHSA-f32v-vf79-p29q] Improper authorization in Keycloak,https://github.com/advisories/GHSA-f32v-vf79-p29q,https://bit.ly/3P6n65Y
+GithubAdvisories,[GHSA-pf38-v6qj-j23h] Malfunction of CSRF token validation in Shopware,https://github.com/advisories/GHSA-pf38-v6qj-j23h,https://bit.ly/3Fb5UaT
+GithubAdvisories,[GHSA-m98g-63qj-fp8j] Reflected XSS on clients-registrations endpoint,https://github.com/advisories/GHSA-m98g-63qj-fp8j,https://bit.ly/3vF5c2n
+GithubAdvisories,[GHSA-pf38-cw3p-22q9] Keycloak is vulnerable to IDN homograph attack,https://github.com/advisories/GHSA-pf38-cw3p-22q9,https://bit.ly/3kAUx2e
+GithubAdvisories,[GHSA-xm99-6pv5-q363] OS Command injection in github.com/kardianos/service,https://github.com/advisories/GHSA-xm99-6pv5-q363,https://bit.ly/3ORHQhA
+GithubAdvisories,[GHSA-q77q-vx4q-xx6q] Cross-site Scripting in org.owasp.esapi:esapi,https://github.com/advisories/GHSA-q77q-vx4q-xx6q,https://bit.ly/3KEjq7V
+GithubAdvisories,[GHSA-5vj8-3v2h-h38v] Remote Code Execution in next,https://github.com/advisories/GHSA-5vj8-3v2h-h38v,https://bit.ly/31WPbGi
+GithubAdvisories,[GHSA-m2r5-4w96-qxg5] Arbitrary file access through XML parsing in org.xwiki.commons:xwiki-commons-xml,https://github.com/advisories/GHSA-m2r5-4w96-qxg5,https://bit.ly/3LBiORP
+GithubAdvisories,[GHSA-63q7-h895-m982] Cross-site Scripting in dompurify,https://github.com/advisories/GHSA-63q7-h895-m982,https://bit.ly/3rceBdl
+GithubAdvisories,[GHSA-rvjg-gxwx-j5gf] OIDC Logout redirect in keycloak,https://github.com/advisories/GHSA-rvjg-gxwx-j5gf,https://bit.ly/3kyQvro
+GithubAdvisories,[GHSA-ch3h-j2vf-95pv] XSS Vulnerability in Action View tag helpers,https://github.com/advisories/GHSA-ch3h-j2vf-95pv,https://bit.ly/3OOrwOJ
+GithubAdvisories,[GHSA-mm33-5vfq-3mm3] XSS Vulnerability in Action Pack,https://github.com/advisories/GHSA-mm33-5vfq-3mm3,https://bit.ly/3vUvpJe
+GithubAdvisories,[GHSA-4pc7-vqv5-5r3v] ECP SAML binding bypasses authentication flows,https://github.com/advisories/GHSA-4pc7-vqv5-5r3v,https://bit.ly/3LBiPoR
+GithubAdvisories,[GHSA-8m5h-hrqm-pxm2] Path traversal in the OWASP Enterprise Security API,https://github.com/advisories/GHSA-8m5h-hrqm-pxm2,https://bit.ly/3LBiPFn
+GithubAdvisories,[GHSA-wm2r-rp98-8pmh] Exposure of SSH credentials in Rancher/Fleet,https://github.com/advisories/GHSA-wm2r-rp98-8pmh,https://bit.ly/3vFYMAb
+GithubAdvisories,[GHSA-fv3m-xhqw-9m79] ballcat-codegen template engine remote code execution injection,https://github.com/advisories/GHSA-fv3m-xhqw-9m79,https://bit.ly/3ORHQOC
+GithubAdvisories,[GHSA-w8h4-vw8f-rvvj] Improper Control of Dynamically-Managed Code Resources in config-shield,https://github.com/advisories/GHSA-w8h4-vw8f-rvvj,https://bit.ly/3gdoIff
+GithubAdvisories,[GHSA-p885-prv3-m4xv] Cross-site Scripting in snipe-it,https://github.com/advisories/GHSA-p885-prv3-m4xv,https://bit.ly/3vFPHqW
+GithubAdvisories,[GHSA-8wp2-vxpg-xcvp] Cross site scripting in facturascripts,https://github.com/advisories/GHSA-8wp2-vxpg-xcvp,https://bit.ly/3MKoCZm
+GithubAdvisories,[GHSA-67mm-m3wx-j7fr] Command injection in gitlog,https://github.com/advisories/GHSA-67mm-m3wx-j7fr,https://bit.ly/3thcpBZ
+GithubAdvisories,[GHSA-7r87-cj48-wj45] Potential Captcha Validate Bypass in flask-session-captcha,https://github.com/advisories/GHSA-7r87-cj48-wj45,https://bit.ly/3kDXorf
+GithubAdvisories,[GHSA-phwq-j96m-2c2q] Template injection in ejs,https://github.com/advisories/GHSA-phwq-j96m-2c2q,https://bit.ly/3kD4exe
+GithubAdvisories,[GHSA-3xpw-vhmv-cw7h] Command injection in czproject/git-php,https://github.com/advisories/GHSA-3xpw-vhmv-cw7h,https://bit.ly/3w4MsIH
+GithubAdvisories,[GHSA-j383-35pm-c5h4] Path Traversal in Grunt,https://github.com/advisories/GHSA-j383-35pm-c5h4,https://bit.ly/3LJujGK
+GithubAdvisories,[GHSA-5jq3-8437-x35p] Multiple cross-site scripting (XSS) vulnerabilities in Roundup,https://github.com/advisories/GHSA-5jq3-8437-x35p,https://bit.ly/3FcuqIw
+GithubAdvisories,[GHSA-72cx-5ff9-4hhc] Cross-site scripting in markdown2 for python,https://github.com/advisories/GHSA-72cx-5ff9-4hhc,https://bit.ly/3w2o2zp
+GithubAdvisories,[GHSA-g9hh-vvx3-v37v] Denial of service in HtmlUnit-Neko,https://github.com/advisories/GHSA-g9hh-vvx3-v37v,https://bit.ly/3kAUxzg
+GithubAdvisories,[GHSA-3pqg-4rqg-pg9g] Cross-site Scripting in OWASP AntiSamy,https://github.com/advisories/GHSA-3pqg-4rqg-pg9g,https://bit.ly/3w42OBm
+GithubAdvisories,[GHSA-g94p-h263-c26q] Cross Site Request Forgery in Mingsoft MCMS,https://github.com/advisories/GHSA-g94p-h263-c26q,https://bit.ly/3ORHRCa
+GithubAdvisories,[GHSA-ppqp-78xx-3r38] Out of bounds write in calamine,https://github.com/advisories/GHSA-ppqp-78xx-3r38,https://bit.ly/3KEjrbZ
+GithubAdvisories,[GHSA-vp37-2f9p-3vr3] Cross-site Scripting in OWASP AntiSamy,https://github.com/advisories/GHSA-vp37-2f9p-3vr3,https://bit.ly/38TixLK
+GithubAdvisories,[GHSA-9w7h-3wwh-6m5q] Cross-site Scripting in Microweber,https://github.com/advisories/GHSA-9w7h-3wwh-6m5q,https://bit.ly/3MRsnMv
+GithubAdvisories,[GHSA-f37q-q7p2-ccfc] Resource exhaustion in Mattermost,https://github.com/advisories/GHSA-f37q-q7p2-ccfc,https://bit.ly/3OU0CVy
+GithubAdvisories,[GHSA-h5wh-7h2j-h999] Exposure of Resource to Wrong Sphere in Simple-Wayland-HotKey-Daemon,https://github.com/advisories/GHSA-h5wh-7h2j-h999,https://bit.ly/3MP3bX7
+GithubAdvisories,[GHSA-x446-3xhq-5xfp] Exposure of Resource to Wrong Sphere in Simple-Wayland-HotKey-Daemon,https://github.com/advisories/GHSA-x446-3xhq-5xfp,https://bit.ly/3vFYJnZ
+GithubAdvisories,[GHSA-2cfc-865j-gm4w] XML External Entity Reference in detekt,https://github.com/advisories/GHSA-2cfc-865j-gm4w,https://bit.ly/3LBiQZX
+GithubAdvisories,[GHSA-c2cp-3xj9-97w9] Denial of service in Spring Security OAuth,https://github.com/advisories/GHSA-c2cp-3xj9-97w9,https://bit.ly/3kDJcyI
+GithubAdvisories,[GHSA-w5m2-299g-rff5] Page Compare Reflected Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-w5m2-299g-rff5,https://bit.ly/37fNnh2
+GithubAdvisories,[GHSA-f5g8-5qq7-938w] Out-of-bounds Read,https://github.com/advisories/GHSA-f5g8-5qq7-938w,https://bit.ly/2NuhWpd
+GithubAdvisories,[GHSA-968f-66r5-5v74] HTTP Request Smuggling in Waitress: Invalid whitespace characters in headers (Follow-up),https://github.com/advisories/GHSA-968f-66r5-5v74,https://bit.ly/35mORz2
+GithubAdvisories,[GHSA-vcjj-xf2r-mwvc] XSS in knockout,https://github.com/advisories/GHSA-vcjj-xf2r-mwvc,https://bit.ly/2R2gRUh
