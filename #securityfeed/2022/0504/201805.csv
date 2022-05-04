@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5hjh-c26m-xw8w] ProxyScotch is vulnerable to a server-side Request Forgery (SSRF),https://github.com/advisories/GHSA-5hjh-c26m-xw8w,https://bit.ly/3yk19uh
+GithubAdvisories,[GHSA-m2h2-264f-f486] angular vulnerable to regular expression denial of service (ReDoS),https://github.com/advisories/GHSA-m2h2-264f-f486,https://bit.ly/3OVCeTr
