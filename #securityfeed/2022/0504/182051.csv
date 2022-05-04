@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-jv64-2m3x-6v4q] Cross-site scripting (XSS) vulnerability exists in the ""contact us"" plugin for Subrion CMS",https://github.com/advisories/GHSA-jv64-2m3x-6v4q,https://bit.ly/3kITRYV
+GithubAdvisories,[GHSA-j77r-2fxf-5jrw] Improper path handling in kustomization files allows path traversal,https://github.com/advisories/GHSA-j77r-2fxf-5jrw,https://bit.ly/3vHVVGI
