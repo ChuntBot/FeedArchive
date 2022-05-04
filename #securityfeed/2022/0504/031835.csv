@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3837-87vh-xq3w] Data race in v9,https://github.com/advisories/GHSA-3837-87vh-xq3w,https://bit.ly/3KG312T
+GithubAdvisories,[GHSA-8fgg-5v78-6g76] Deserializing an array can free uninitialized memory in byte_struct,https://github.com/advisories/GHSA-8fgg-5v78-6g76,https://bit.ly/3kFkw94
+GithubAdvisories,[GHSA-f9p3-h6cg-2cjr] Improper neutralization of formula elements in yii-helpers,https://github.com/advisories/GHSA-f9p3-h6cg-2cjr,https://bit.ly/3FkJ8xd
