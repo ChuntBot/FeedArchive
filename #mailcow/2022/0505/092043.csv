@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Added skip-ping-check Variable to skip DNS ICMP if deactivated,https://github.com/mailcow/mailcow-dockerized/commit/42c82be8f54574f01346676f25463f78ed40d8f9,https://bit.ly/37lbDyk
+GithubCommitStaging,[Update.sh] Added skip-ping-check Variable,https://github.com/mailcow/mailcow-dockerized/commit/1e2125653e6e7b19e76bf209ca3558dc51910572,https://bit.ly/3MT1kR7
