@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-52rh-5rpj-c3w6] Improper handling of multiline messages in node-irc,https://github.com/advisories/GHSA-52rh-5rpj-c3w6,https://bit.ly/3KNmkHD
+GithubAdvisories,[GHSA-jf66-3q76-h5p5] Tenant and Verifier might not use the same registrar data,https://github.com/advisories/GHSA-jf66-3q76-h5p5,https://bit.ly/3KHaCy8
