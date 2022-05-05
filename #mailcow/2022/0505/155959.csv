@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommit,Readded .gitkeep in data/web/templates/cache,https://github.com/mailcow/mailcow-dockerized/commit/e454ed4e39ae36e4a04cce7d31ab83fb718593d2,https://bit.ly/3vZKzwE
+GithubCommit,Merge pull request #4572 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/5613134fed7385176a63edcf1ab71ce994200f0e,https://bit.ly/3kJPcWw
