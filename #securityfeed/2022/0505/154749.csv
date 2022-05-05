@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5pv7-hx9m-8jh3] Missing permission checks in Jenkins Publish Over FTP Plugin,https://github.com/advisories/GHSA-5pv7-hx9m-8jh3,https://bit.ly/3vKETb0
