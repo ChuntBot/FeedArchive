@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubCommit,[Web] Fix wrong lang string for filter deletion confirmation,https://github.com/mailcow/mailcow-dockerized/commit/372e381a850de073d908d23f4e799e097e34c5ba,https://bit.ly/38qqCXO
+GithubCommit,Merge remote-tracking branch 'origin/staging' into staging,https://github.com/mailcow/mailcow-dockerized/commit/1ade37312e8cf789348111cd59255166167c7698,https://bit.ly/3JqxiC6
+GithubCommit,"[Dovecot] Disable imapsync job, when auth details are wrong. Fixes #4…",https://github.com/mailcow/mailcow-dockerized/commit/d4e829465b1333484f66ed30cd70f40f371a3aeb,https://bit.ly/3LOVcbX
+GithubCommit,[Clamd] fix whitelist (#4541),https://github.com/mailcow/mailcow-dockerized/commit/4e6c398c8c4301754b6b713d5b44279fdfb70ecf,https://bit.ly/370uezE
+GithubCommit,[Rspamd] Remove neural config due to massive fp,https://github.com/mailcow/mailcow-dockerized/commit/7e26a2ab988eb85193e5be28e278e5021361b06f,https://bit.ly/3vgj0yN
+GithubCommit,[Netfilter] Exclude banning IPs when dovecot server not reacheble,https://github.com/mailcow/mailcow-dockerized/commit/6c5ab7800e4fbdc2c307d8b06246ad5472d11e25,https://bit.ly/3K513ZG
+GithubCommit,[Compose] Update netfilter-mailcow to 1.47,https://github.com/mailcow/mailcow-dockerized/commit/224a59ab4b8bf6d99b96117a8190dd2ed45e3247,https://bit.ly/3K8a0Bs
+GithubCommit,[Netfilter] Exclude banning IPs when dovecot server not reacheble,https://github.com/mailcow/mailcow-dockerized/commit/936f07336c9880ade02ddbc7c5e40d915168222a,https://bit.ly/3Lah41x
+GithubCommit,[Web] Make TLS policy toggles accessible,https://github.com/mailcow/mailcow-dockerized/commit/28da482ef270fe1db564662988e2985375138fad,https://bit.ly/3LcvTkg
+GithubCommit,Merge pull request #4556 from mailcow/accessibility,https://github.com/mailcow/mailcow-dockerized/commit/892c99fa23112ac7f5409e27d716ca35477bcc7d,https://bit.ly/3LqqtSI
+GithubCommit,Add version endpoint,https://github.com/mailcow/mailcow-dockerized/commit/76ec0e888b520a7aabec544e8b71e03e84cf2830,https://bit.ly/3KIRujd
+GithubCommit,Added skip-ping-check Variable to skip DNS ICMP if deactivated,https://github.com/mailcow/mailcow-dockerized/commit/42c82be8f54574f01346676f25463f78ed40d8f9,https://bit.ly/37lbDyk
+GithubCommit,Add missing break,https://github.com/mailcow/mailcow-dockerized/commit/9e1554f5c70113e2942fdd02018d7d4013c19960,https://bit.ly/37XvpQR
+GithubCommit,[API] Add version endpoint,https://github.com/mailcow/mailcow-dockerized/commit/456b52878599759d2763d90d5a128cdb0c12f0c4,https://bit.ly/3sbluy1
+GithubCommit,Add Domain and Mailbox tagging (#4569),https://github.com/mailcow/mailcow-dockerized/commit/549ff7d100751837278e245cf3295e11eb85b667,https://bit.ly/3vItSHo
+GithubCommit,[SOGo] Update to 5.6.0,https://github.com/mailcow/mailcow-dockerized/commit/0539cc6d8cb0e35bcd14f018ee2ee3217948773c,https://bit.ly/3FfJu8o
+GithubCommit,[SOGo] Update to 5.6.0,https://github.com/mailcow/mailcow-dockerized/commit/835a726d2a36e0111da22d7393b5750c5c191895,https://bit.ly/37Z42G9
+GithubCommit,[Update.sh] Added skip-ping-check Variable,https://github.com/mailcow/mailcow-dockerized/commit/1e2125653e6e7b19e76bf209ca3558dc51910572,https://bit.ly/3MT1kR7
