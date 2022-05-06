@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Fix for /api/v1/get/mailbox/{email},https://github.com/mailcow/mailcow-dockerized/commit/187ddedf9614be78909c3cb73f413a1de74142fb,https://bit.ly/3FndEqd
+GithubCommitStaging,Ensure return type is consistent (list vs object),https://github.com/mailcow/mailcow-dockerized/commit/f4dc01d1ecd95d22f12b6fdf81b8676346e401c5,https://bit.ly/3vXPwHT
+GithubCommitStaging,Merge pull request #4573 from jkellerer/patch-1,https://github.com/mailcow/mailcow-dockerized/commit/d0528b7883d948b6778d0e6bcd756232a1a7eca2,https://bit.ly/3KOXGWY
