@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-269q-hmxg-m83q] Local Information Disclosure Vulnerability in io.netty:netty-codec-http,https://github.com/advisories/GHSA-269q-hmxg-m83q,https://bit.ly/3L1OluW
