@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubCommit,Fix for /api/v1/get/mailbox/{email},https://github.com/mailcow/mailcow-dockerized/commit/187ddedf9614be78909c3cb73f413a1de74142fb,https://bit.ly/3FndEqd
+GithubCommit,Ensure return type is consistent (list vs object),https://github.com/mailcow/mailcow-dockerized/commit/f4dc01d1ecd95d22f12b6fdf81b8676346e401c5,https://bit.ly/3vXPwHT
+GithubCommit,[Web] domain/mailbox tagging check for empty tags,https://github.com/mailcow/mailcow-dockerized/commit/f40e682800f72c034d4c3698c9984ab006913910,https://bit.ly/3kJE4J9
+GithubCommit,Merge pull request #4573 from jkellerer/patch-1,https://github.com/mailcow/mailcow-dockerized/commit/d0528b7883d948b6778d0e6bcd756232a1a7eca2,https://bit.ly/3KOXGWY
+GithubCommit,[Web] domain/mailbox tagging check for empty tags,https://github.com/mailcow/mailcow-dockerized/commit/dfdd2dadb4e498325efbd123cf4e8aac378dadb6,https://bit.ly/3vOgiSH
+GithubCommit,[Web] change opacity of footable collapse toggle,https://github.com/mailcow/mailcow-dockerized/commit/96b8054e6b3e88fb85c6d44f89158216c9f0ea38,https://bit.ly/3FiLtZD
+GithubCommit,Merge pull request #4574 from FreddleSpl0it/tag-fix,https://github.com/mailcow/mailcow-dockerized/commit/d2a6838958841147b545a727c6b751a40f36651c,https://bit.ly/3FjZm9Z
+GithubCommit,Merge pull request #4575 from FreddleSpl0it/footable-override-css,https://github.com/mailcow/mailcow-dockerized/commit/df33ebb2a07168018984be4ec047f92f50cbbca4,https://bit.ly/3sgbpj6
+GithubCommit,Update issue template,https://github.com/mailcow/mailcow-dockerized/commit/5839e227969c08dd2f78aa92ae31ee340faeba6a,https://bit.ly/3wmegbu
+GithubCommit,Mooay 2022 Update – The Tag Update | Revision B (2022-05b),https://github.com/mailcow/mailcow-dockerized/commit/9a812edee4437e055a1b7b558cd249d9a0ec72de,https://bit.ly/3L6uUBw
