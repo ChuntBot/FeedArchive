@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+DebianSecurityNotice,DSA-5136 postgresql-13,https://www.debian.org/security/2022/dsa-5136,https://bit.ly/37GebHo
+DebianSecurityNotice,DSA-5135 postgresql-11,https://www.debian.org/security/2022/dsa-5135,https://bit.ly/3l84vZy
+DebianSecurityNotice,DSA-5134 chromium,https://www.debian.org/security/2022/dsa-5134,https://bit.ly/3w8NowK
