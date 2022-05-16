@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vvmq-fwmg-2gjc] Improper kubeconfig validation allows arbitrary code execution,https://github.com/advisories/GHSA-vvmq-fwmg-2gjc,https://bit.ly/3FPA8jM
