@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[ClamAV] Update to 0.105,https://github.com/mailcow/mailcow-dockerized/commit/b6cb3b026c400f9bbad6cf826f7adafb18c7a92e,https://bit.ly/3wl6dx3
+GithubCommitStaging,Changed Base Docker Image to 0.105.0_base,https://github.com/mailcow/mailcow-dockerized/commit/ee844c81d2b0ecde037d61ae964624ec29d5dc7c,https://bit.ly/3sAnIXB
+GithubCommitStaging,[Clamd] Update to ClamAV 0.105,https://github.com/mailcow/mailcow-dockerized/commit/24cc96037917dba346052a2734847e7800b8bc90,https://bit.ly/3FO6nA7
