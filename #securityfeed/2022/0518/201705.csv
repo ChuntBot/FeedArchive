@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cgx6-hpwq-fhv5] Integer Overflow or Wraparound in libxml2 affects Nokogiri,https://github.com/advisories/GHSA-cgx6-hpwq-fhv5,https://bit.ly/3NnZubb
+GithubAdvisories,[GHSA-hpx4-xjp7-m4vr] Stored cross-site scripting in Snipe-IT,https://github.com/advisories/GHSA-hpx4-xjp7-m4vr,https://bit.ly/39BU0uZ
+GithubAdvisories,[GHSA-694v-63fq-fmr4] Path Traversal in scout-browser,https://github.com/advisories/GHSA-694v-63fq-fmr4,https://bit.ly/3wpYvSb
