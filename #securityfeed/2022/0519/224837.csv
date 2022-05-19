@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w39x-chvm-pj3c] Deserialization of Untrusted Data in com.bstek.ureport:ureport2-console,https://github.com/advisories/GHSA-w39x-chvm-pj3c,https://bit.ly/3LwZsMX
