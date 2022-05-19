@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommit,[Imapsync] Case sensitive PIPEMESS removal,https://github.com/mailcow/mailcow-dockerized/commit/8d9102aa088c780ca2f1cc0f39b224d735dc8569,https://bit.ly/3MtoU7a
+GithubCommit,[DB] Update DB Version to remove pipemess parameters,https://github.com/mailcow/mailcow-dockerized/commit/552f09f48aacda3a14238101c8a0f4c922ffe65f,https://bit.ly/3t874iH
