@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7pwf-jg34-hxwp] Improper path handling in Kustomization files allows for denial of service,https://github.com/advisories/GHSA-7pwf-jg34-hxwp,https://bit.ly/3yPDqlS
