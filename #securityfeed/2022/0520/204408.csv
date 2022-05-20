@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4jrv-ppp4-jm57] Deserialization of Untrusted Data in Gson,https://github.com/advisories/GHSA-4jrv-ppp4-jm57,https://bit.ly/3lv9Nyj
+GithubAdvisories,[GHSA-23wx-cgxq-vpwx] Prototype Pollution in dset,https://github.com/advisories/GHSA-23wx-cgxq-vpwx,https://bit.ly/3NoO6Mj
