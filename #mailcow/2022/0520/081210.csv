@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[IMAPSYNC] Hardened pipemess exploit prevention (pipemes),https://github.com/mailcow/mailcow-dockerized/commit/b1658c0f83712e72bd313a99a625298dd39c90d7,https://bit.ly/3G0NQkd
+GithubCommitStaging,[DB] Remove pipemes from custom_params,https://github.com/mailcow/mailcow-dockerized/commit/c27ad97287a73e2a2bfe1b17cce920919910a0ee,https://bit.ly/3MxwePn
