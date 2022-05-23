@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qp2q-6h9j-jg2r] Cross-site Scripting in jquery.json-viewer,https://github.com/advisories/GHSA-qp2q-6h9j-jg2r,https://bit.ly/3wFdx6J
+GithubAdvisories,[GHSA-6gcg-hp2x-q54h] Symlink following allows leaking out-of-bound manifests and JSON files from Argo CD repo-server,https://github.com/advisories/GHSA-6gcg-hp2x-q54h,https://bit.ly/38a5C7U
