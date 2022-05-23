@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-44pw-h2cw-w3vq] Uncontrolled Resource Consumption in Hawk,https://github.com/advisories/GHSA-44pw-h2cw-w3vq,https://bit.ly/3GjBhRa
+GithubAdvisories,[GHSA-37hr-348p-rmf4] Improper handling of multiline messages in node-irc affects matrix-appservice-irc,https://github.com/advisories/GHSA-37hr-348p-rmf4,https://bit.ly/3wEojKn
+GithubAdvisories,[GHSA-cmv8-6362-r5w9] Malicious HTML+XHR Artifact Privilege Escalation in Argo Workflows,https://github.com/advisories/GHSA-cmv8-6362-r5w9,https://bit.ly/3NvnJ7j
+GithubAdvisories,[GHSA-3xgx-r9j4-qw9w] Prototype Pollution in Dexie,https://github.com/advisories/GHSA-3xgx-r9j4-qw9w,https://bit.ly/3wEikp3
