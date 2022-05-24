@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xmg8-99r8-jc2j] Login screen allows message spoofing if SSO is enabled,https://github.com/advisories/GHSA-xmg8-99r8-jc2j,https://bit.ly/3sOWuNa
