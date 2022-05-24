@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8vxv-2g8p-2249] Observable Timing Discrepancy in totp-rs,https://github.com/advisories/GHSA-8vxv-2g8p-2249,https://bit.ly/3z4zSvU
+GithubAdvisories,[GHSA-57qv-h9m7-jxfg] Code-execution backdoor in marcador,https://github.com/advisories/GHSA-57qv-h9m7-jxfg,https://bit.ly/3LLqHU7
+GithubAdvisories,[GHSA-fmrf-gvjp-5j5g] Cilium enables rogue node to cluster admin privilege escalation,https://github.com/advisories/GHSA-fmrf-gvjp-5j5g,https://bit.ly/3yTvik7
+GithubAdvisories,[GHSA-6p8v-8cq8-v2r3] Access to Unix domain socket can lead to privileges escalation in Cilium,https://github.com/advisories/GHSA-6p8v-8cq8-v2r3,https://bit.ly/3wJ6VEw
+GithubAdvisories,[GHSA-p2vw-f87c-q597] Improper Access Control in snipe/snipe-it,https://github.com/advisories/GHSA-p2vw-f87c-q597,https://bit.ly/3MP3d1M
