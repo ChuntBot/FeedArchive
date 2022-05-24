@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6465-r752-2h8v] Cross-site Scripting in facturascripts,https://github.com/advisories/GHSA-6465-r752-2h8v,https://bit.ly/3LLsubH
+GithubAdvisories,[GHSA-rqph-vqwm-22vc] Allocation of Resources Without Limits or Throttling in Spring Framework,https://github.com/advisories/GHSA-rqph-vqwm-22vc,https://bit.ly/3Gi964V
+GithubAdvisories,[GHSA-pqr6-3j58-9w58] Unrestricted Upload of File with Dangerous Type in yetiforce-crm,https://github.com/advisories/GHSA-pqr6-3j58-9w58,https://bit.ly/3wOz2Rf
+GithubAdvisories,[GHSA-cvj7-5f3c-9vg9] AttesterSlashing number overflow,https://github.com/advisories/GHSA-cvj7-5f3c-9vg9,https://bit.ly/3yXK8pP
+GithubAdvisories,[GHSA-6q9g-3vfq-q2qj] Improper Authentication in moodle,https://github.com/advisories/GHSA-6q9g-3vfq-q2qj,https://bit.ly/3GeQZNj
+GithubAdvisories,[GHSA-g7p7-x6w7-w6qg] Arbitrary file deletion in gitea,https://github.com/advisories/GHSA-g7p7-x6w7-w6qg,https://bit.ly/3MPcarK
+GithubAdvisories,[GHSA-2gp3-6c9p-jp7w] Cross site scripting in code-server,https://github.com/advisories/GHSA-2gp3-6c9p-jp7w,https://bit.ly/3Gg3t7f
+GithubAdvisories,[GHSA-ffqj-6fqr-9h24] Key confusion through non-blocklisted public key formats,https://github.com/advisories/GHSA-ffqj-6fqr-9h24,https://bit.ly/3wOyZVz
+GithubAdvisories,[GHSA-75c9-jrh4-79mc] Code injection in `saved_model_cli`,https://github.com/advisories/GHSA-75c9-jrh4-79mc,https://bit.ly/3sTQDGm
+GithubAdvisories,[GHSA-5889-7v45-q28m] Incomplete validation in signal ops leads to crashes,https://github.com/advisories/GHSA-5889-7v45-q28m,https://bit.ly/3NvnNnC
+GithubAdvisories,[GHSA-8wwm-6264-x792] Core dump when loading TFLite models with quantization,https://github.com/advisories/GHSA-8wwm-6264-x792,https://bit.ly/3PzjoSq
+GithubAdvisories,[GHSA-xrp2-fhq4-4q3w] Segfault if `tf.histogram_fixed_width` is called with NaN values,https://github.com/advisories/GHSA-xrp2-fhq4-4q3w,https://bit.ly/3lCggrk
+GithubAdvisories,[GHSA-hc2f-7r5r-r2hg] Heap buffer overflow due to incorrect hash function,https://github.com/advisories/GHSA-hc2f-7r5r-r2hg,https://bit.ly/3GiUlPa
+GithubAdvisories,[GHSA-f4rr-5m7v-wxcw] Type confusion leading to `CHECK`-failure based denial of service,https://github.com/advisories/GHSA-f4rr-5m7v-wxcw,https://bit.ly/3N0X9Dv
+GithubAdvisories,[GHSA-2r2f-g8mw-9gvr] Segfault and OOB write due to incomplete validation in `EditDistance`,https://github.com/advisories/GHSA-2r2f-g8mw-9gvr,https://bit.ly/3yWNeu9
+GithubAdvisories,[GHSA-5wpj-c6f7-24x8] Undefined behavior when users supply invalid resource handles,https://github.com/advisories/GHSA-5wpj-c6f7-24x8,https://bit.ly/3sVLeia
+GithubAdvisories,[GHSA-rc9w-5c64-9vqq] Missing validation results in undefined behavior in `SparseTensorDenseAdd,https://github.com/advisories/GHSA-rc9w-5c64-9vqq,https://bit.ly/3NAlOyw
+GithubAdvisories,[GHSA-54ch-gjq5-4976] Segfault due to missing support for quantized types,https://github.com/advisories/GHSA-54ch-gjq5-4976,https://bit.ly/38l8r6o
+GithubAdvisories,[GHSA-hx9q-2mx4-m4pg] Missing validation causes denial of service via `Conv3DBackpropFilterV2`,https://github.com/advisories/GHSA-hx9q-2mx4-m4pg,https://bit.ly/3sQglf1
+GithubAdvisories,[GHSA-jjm6-4vf7-cjh4] Integer overflow in `SpaceToBatchND`,https://github.com/advisories/GHSA-jjm6-4vf7-cjh4,https://bit.ly/3LLsuIJ
