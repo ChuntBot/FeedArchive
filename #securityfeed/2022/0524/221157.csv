@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cwpm-f78v-7m5c] Denial of service in `tf.ragged.constant` due to lack of validation,https://github.com/advisories/GHSA-cwpm-f78v-7m5c,https://bit.ly/3N0StgV
+GithubAdvisories,[GHSA-pqhm-4wvf-2jg8] Missing validation results in undefined behavior in `QuantizedConv2D`,https://github.com/advisories/GHSA-pqhm-4wvf-2jg8,https://bit.ly/3wJkOT9
+GithubAdvisories,[GHSA-2vv3-56qg-g2cf] Missing validation causes denial of service via `LSTMBlockCell`,https://github.com/advisories/GHSA-2vv3-56qg-g2cf,https://bit.ly/3NCmcwb
+GithubAdvisories,[GHSA-p9rc-rmr5-529j] Missing validation causes denial of service via `LoadAndRemapMatrix`,https://github.com/advisories/GHSA-p9rc-rmr5-529j,https://bit.ly/3MNzhCZ
+GithubAdvisories,[GHSA-mg66-qvc5-rm93] Missing validation causes denial of service via `SparseTensorToCSRSparseMatrix`,https://github.com/advisories/GHSA-mg66-qvc5-rm93,https://bit.ly/3wSAx2p
+GithubAdvisories,[GHSA-hrg5-737c-2p56] Missing validation causes denial of service via `UnsortedSegmentJoin`,https://github.com/advisories/GHSA-hrg5-737c-2p56,https://bit.ly/3lH3KH0
+GithubAdvisories,[GHSA-5v77-j66x-4c4g] Missing validation causes denial of service via `Conv3DBackpropFilterV2`,https://github.com/advisories/GHSA-5v77-j66x-4c4g,https://bit.ly/3NxZjdp
+GithubAdvisories,[GHSA-h48f-q7rw-hvr7] Missing validation causes denial of service via `StagePeek`,https://github.com/advisories/GHSA-h48f-q7rw-hvr7,https://bit.ly/3wIWosJ
+GithubAdvisories,[GHSA-h5g4-ppwx-48q2] Missing validation causes denial of service via `DeleteSessionTensor`,https://github.com/advisories/GHSA-h5g4-ppwx-48q2,https://bit.ly/3Ge5BfW
+GithubAdvisories,[GHSA-h2wq-prv9-2f56] Missing validation crashes `QuantizeAndDequantizeV4Grad`,https://github.com/advisories/GHSA-h2wq-prv9-2f56,https://bit.ly/3NvmgOs
+GithubAdvisories,[GHSA-fv25-wrff-wf86] Missing validation causes denial of service via `GetSessionTensor`,https://github.com/advisories/GHSA-fv25-wrff-wf86,https://bit.ly/3GfYGmh
+GithubAdvisories,[GHSA-c5hf-mc85-2hx4] Missing authorization in Moodle,https://github.com/advisories/GHSA-c5hf-mc85-2hx4,https://bit.ly/3lFWTgV
+GithubAdvisories,[GHSA-cm8f-h6j3-p25c] Header reconstruction method can be thrown into an infinite loop,https://github.com/advisories/GHSA-cm8f-h6j3-p25c,https://bit.ly/38H7rtv
+GithubAdvisories,[GHSA-cx94-mrg9-rq4j] Buffer for inbound DTLS fragments has no limit,https://github.com/advisories/GHSA-cx94-mrg9-rq4j,https://bit.ly/3Ge7Dwu
+GithubAdvisories,[GHSA-qwrf-gfpj-qvj6] Smokescreen SSRF via deny list bypass (square brackets),https://github.com/advisories/GHSA-qwrf-gfpj-qvj6,https://bit.ly/3lGsHT6
+GithubAdvisories,[GHSA-q2mx-j4x2-2h74] URL Redirection to Untrusted Site ('Open Redirect') in next-auth,https://github.com/advisories/GHSA-q2mx-j4x2-2h74,https://bit.ly/3NxZjKr
+GithubAdvisories,[GHSA-jfph-3hpg-2f65] Incorrect Permission Assignment for Critical Resource in ShopXO,https://github.com/advisories/GHSA-jfph-3hpg-2f65,https://bit.ly/3PG9HBO
+GithubAdvisories,[GHSA-73rp-q4rx-5grc] Incorrect Authorization in microweber,https://github.com/advisories/GHSA-73rp-q4rx-5grc,https://bit.ly/3PFm5Sq
+GithubAdvisories,[GHSA-9qmm-4mfr-r3wj] Incorrect Calculation in solana_rbpf,https://github.com/advisories/GHSA-9qmm-4mfr-r3wj,https://bit.ly/3LHVlgT
