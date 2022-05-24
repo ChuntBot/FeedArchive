@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f3fp-gc8g-vw66] Default inheritable capabilities for linux container should be empty,https://github.com/advisories/GHSA-f3fp-gc8g-vw66,https://bit.ly/3lCDk9p
