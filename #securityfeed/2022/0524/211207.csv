@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pjch-4g28-fxx7] External Entity Reference in TwelveMonkeys ImageIO,https://github.com/advisories/GHSA-pjch-4g28-fxx7,https://bit.ly/3GfOf22
+GithubAdvisories,[GHSA-6429-3g3w-6mw5] Uncaught Exception in bignum,https://github.com/advisories/GHSA-6429-3g3w-6mw5,https://bit.ly/3sVAobL
+GithubAdvisories,[GHSA-3fpv-54ff-wqfj] Deserialization of Untrusted Data in topthink/framework,https://github.com/advisories/GHSA-3fpv-54ff-wqfj,https://bit.ly/3sQLizC
+GithubAdvisories,[GHSA-4wpp-w5r4-7v5v] Server-Side Request Forgery in charm,https://github.com/advisories/GHSA-4wpp-w5r4-7v5v,https://bit.ly/3wFf7FI
+GithubAdvisories,[GHSA-wjxw-gh3m-7pm5] DoS via malicious p2p message,https://github.com/advisories/GHSA-wjxw-gh3m-7pm5,https://bit.ly/3wMRlX7
+GithubAdvisories,[GHSA-3p5m-j98p-c698] Stored cross site scripting in getgrav/grav,https://github.com/advisories/GHSA-3p5m-j98p-c698,https://bit.ly/39LcZDj
+GithubAdvisories,[GHSA-qwqv-j7jr-4hp6] Argument injection in python-libnmap,https://github.com/advisories/GHSA-qwqv-j7jr-4hp6,https://bit.ly/3MKf68V
+GithubAdvisories,[GHSA-gchv-364h-r896] XML External Entity Reference in apache jena,https://github.com/advisories/GHSA-gchv-364h-r896,https://bit.ly/3Nz15ep
+GithubAdvisories,[GHSA-g53g-q539-93cv] Server-Side Request Forgery in scout-browser,https://github.com/advisories/GHSA-g53g-q539-93cv,https://bit.ly/3wJpVTf
+GithubAdvisories,[GHSA-66x3-6cw3-v5gj] Improper Validation of Integrity Check Value in go-tuf,https://github.com/advisories/GHSA-66x3-6cw3-v5gj,https://bit.ly/3NQT1pF
+GithubAdvisories,[GHSA-7ww6-75fj-jcj7] Cross-site Scripting in Auth0 Lock,https://github.com/advisories/GHSA-7ww6-75fj-jcj7,https://bit.ly/3lDtrYY
+GithubAdvisories,[GHSA-ff28-f46g-r9g8] Cross-site Scripting in Gogs,https://github.com/advisories/GHSA-ff28-f46g-r9g8,https://bit.ly/3wKz6TA
+GithubAdvisories,[GHSA-r642-gv9p-2wjj] Argo CD will blindly trust JWT claims if anonymous access is enabled,https://github.com/advisories/GHSA-r642-gv9p-2wjj,https://bit.ly/3LIEuL5
