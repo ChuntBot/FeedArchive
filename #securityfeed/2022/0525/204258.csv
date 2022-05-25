@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qx32-f6g6-fcfr] Access control bypass in beego,https://github.com/advisories/GHSA-qx32-f6g6-fcfr,https://bit.ly/3LLkMOD
+GithubAdvisories,[GHSA-hg3w-7hj9-m3f7] Regular expression denial of service in url_regex,https://github.com/advisories/GHSA-hg3w-7hj9-m3f7,https://bit.ly/3wKpRT8
+GithubAdvisories,[GHSA-wm7h-9275-46v2] Crash in HeaderParser in dicer,https://github.com/advisories/GHSA-wm7h-9275-46v2,https://bit.ly/3PL7RiU
+GithubAdvisories,[GHSA-rp7r-79rm-2758] Apache Derby exposes user and password attributes,https://github.com/advisories/GHSA-rp7r-79rm-2758,https://bit.ly/3yZJ3xG
+GithubAdvisories,[GHSA-wx54-3278-m5g4] Integer overflow in BCrypt class in Spring Security,https://github.com/advisories/GHSA-wx54-3278-m5g4,https://bit.ly/3PKI9em
+GithubAdvisories,[GHSA-hh32-7344-cg2f] Authorization bypass in Spring Security,https://github.com/advisories/GHSA-hh32-7344-cg2f,https://bit.ly/3Gl0har
+GithubAdvisories,[GHSA-x7f3-62pm-9p38] Out of bounds memory access in github.com/open-policy-agent/opa,https://github.com/advisories/GHSA-x7f3-62pm-9p38,https://bit.ly/3GmtLVn
+GithubAdvisories,[GHSA-hp87-p4gw-j4gq] Unhandled exception in gopkg.in/yaml.v3,https://github.com/advisories/GHSA-hp87-p4gw-j4gq,https://bit.ly/3aoSc91
+GithubAdvisories,[GHSA-qm6v-cg9v-53j3] Limited Authentication Bypass for Media Files,https://github.com/advisories/GHSA-qm6v-cg9v-53j3,https://bit.ly/3PIpAYs
+GithubAdvisories,[GHSA-ggfx-h9xj-5v9c] Insecure PRNG use in random_password_generator,https://github.com/advisories/GHSA-ggfx-h9xj-5v9c,https://bit.ly/3z0b8oS
+GithubAdvisories,[GHSA-634x-pc3q-cf4c] PHP Code Injection by malicious block or filename,https://github.com/advisories/GHSA-634x-pc3q-cf4c,https://bit.ly/3wHNMkQ
+GithubAdvisories,[GHSA-p5f9-c9j9-g8qx] Shell command injection in gitea,https://github.com/advisories/GHSA-p5f9-c9j9-g8qx,https://bit.ly/3ND3p4c
+GithubAdvisories,[GHSA-8ppf-x4gr-2x7g] SQL injection in calibreweb,https://github.com/advisories/GHSA-8ppf-x4gr-2x7g,https://bit.ly/3wOmBWM
