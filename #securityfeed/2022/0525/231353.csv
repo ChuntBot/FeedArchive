@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4g82-3jcr-q52w] Malware in ctx,https://github.com/advisories/GHSA-4g82-3jcr-q52w,https://bit.ly/3NAtHUv
+GithubAdvisories,[GHSA-fm53-mpmp-7qw2] Possible cross-site scripting attack via unsanitized SVG files in FoF Upload,https://github.com/advisories/GHSA-fm53-mpmp-7qw2,https://bit.ly/3GhTsXm
+GithubAdvisories,[GHSA-jjf5-wx3j-3fv7] Prototype Pollution in convict,https://github.com/advisories/GHSA-jjf5-wx3j-3fv7,https://bit.ly/3wJKyPd
+GithubAdvisories,[GHSA-ph28-wwfj-fv7f] Prototype Pollution in sds,https://github.com/advisories/GHSA-ph28-wwfj-fv7f,https://bit.ly/3wKHNx8
+GithubAdvisories,[GHSA-rrhw-54r8-545q] Path traversal in filegator,https://github.com/advisories/GHSA-rrhw-54r8-545q,https://bit.ly/3GibJUg
+GithubAdvisories,[GHSA-h3ch-5pp2-vh6w] Improper socket reuse in Apache Tomcat,https://github.com/advisories/GHSA-h3ch-5pp2-vh6w,https://bit.ly/3LPprzl
+GithubAdvisories,[GHSA-47vg-483w-hp3m] Improper user session handling in filegator,https://github.com/advisories/GHSA-47vg-483w-hp3m,https://bit.ly/3NskAoW
