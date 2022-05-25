@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mfhv-gwf8-4m88] Race condition in undertow,https://github.com/advisories/GHSA-mfhv-gwf8-4m88,https://bit.ly/3MQzbdI
+GithubAdvisories,[GHSA-rf6q-vx79-mjxr] Uncontrolled Resource Consumption in Undertow,https://github.com/advisories/GHSA-rf6q-vx79-mjxr,https://bit.ly/3ND80TK
+GithubAdvisories,[GHSA-ph5x-h23x-7q5q] XSS in wiki manager join wiki page,https://github.com/advisories/GHSA-ph5x-h23x-7q5q,https://bit.ly/3lPSo3j
+GithubAdvisories,[GHSA-vmhh-xh3g-j992] XSS in the Flamingo theme manager,https://github.com/advisories/GHSA-vmhh-xh3g-j992,https://bit.ly/3MRgyXl
+GithubAdvisories,[GHSA-qfr3-323w-qv27] Possible information disclosure inside TreeGrid component with default data provider,https://github.com/advisories/GHSA-qfr3-323w-qv27,https://bit.ly/3lJoxcZ
+GithubAdvisories,[GHSA-rhgr-952r-6p8q] Command injection in Apache Maven maven-shared-utils,https://github.com/advisories/GHSA-rhgr-952r-6p8q,https://bit.ly/3lKfCrG
+GithubAdvisories,[GHSA-hh26-6xwr-ggv7] Denial of service in Spring Framework,https://github.com/advisories/GHSA-hh26-6xwr-ggv7,https://bit.ly/38mzbU2
+GithubAdvisories,[GHSA-pjpc-87mp-4332] Cross-site Scripting vulnerability in Mautic's tracking pixel functionality,https://github.com/advisories/GHSA-pjpc-87mp-4332,https://bit.ly/3LPl9If
+GithubAdvisories,[GHSA-67fj-6w6m-w5j8] Reversible One-Way Hash in io.github.javaezlib:JavaEZ,https://github.com/advisories/GHSA-67fj-6w6m-w5j8,https://bit.ly/3sZfjgF
+GithubAdvisories,[GHSA-gj94-v4p9-w672] Denial-of-service vulnerability processing large chat messages containing many newlines,https://github.com/advisories/GHSA-gj94-v4p9-w672,https://bit.ly/3wKDz8K
+GithubAdvisories,[GHSA-2c65-rq62-fqhq] Path traversal in Gitblit,https://github.com/advisories/GHSA-2c65-rq62-fqhq,https://bit.ly/3lHq1EL
+GithubAdvisories,[GHSA-fh55-vwjc-69c7] Unescaped control characters in Gitblit,https://github.com/advisories/GHSA-fh55-vwjc-69c7,https://bit.ly/3LPxJqG
+GithubAdvisories,[GHSA-ffx3-8qvm-pq3j] Integer overflow in solana_rbpf,https://github.com/advisories/GHSA-ffx3-8qvm-pq3j,https://bit.ly/3wM79cN
