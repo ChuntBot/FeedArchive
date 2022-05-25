@@ -1,0 +1,28 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h8pc-j334-jjhm] Cross-site Scripting in OctoPrint,https://github.com/advisories/GHSA-h8pc-j334-jjhm,https://bit.ly/38QAVVN
+GithubAdvisories,[GHSA-x7r7-wmj8-vv5g] Cross-site Scripting in OctoPrint,https://github.com/advisories/GHSA-x7r7-wmj8-vv5g,https://bit.ly/38QhP1Z
+GithubAdvisories,[GHSA-phvw-r25p-8xv7] Cross-site Scripting in com.erudika:para-core,https://github.com/advisories/GHSA-phvw-r25p-8xv7,https://bit.ly/3Gli29N
+GithubAdvisories,[GHSA-jfxf-4frr-9j3q] XSS in various backend modules due to (un)escaping in JS notification module,https://github.com/advisories/GHSA-jfxf-4frr-9j3q,https://bit.ly/3LN9Hgd
+GithubAdvisories,[GHSA-w3xg-7q6m-3xwp] Improper Access Control in wp-graphql,https://github.com/advisories/GHSA-w3xg-7q6m-3xwp,https://bit.ly/3wOxyrK
+GithubAdvisories,[GHSA-5jrq-582v-9767] Out-of-bounds read in admesh,https://github.com/advisories/GHSA-5jrq-582v-9767,https://bit.ly/3ahcPDT
+GithubAdvisories,[GHSA-hj57-j5cw-2mwp] Ignition config accessible to unprivileged software on VMware,https://github.com/advisories/GHSA-hj57-j5cw-2mwp,https://bit.ly/3LH6Rtb
+GithubAdvisories,[GHSA-mjqc-5c9x-xfcc] Configuration exposure in github.com/coreos/ignition,https://github.com/advisories/GHSA-mjqc-5c9x-xfcc,https://bit.ly/3arOmfr
+GithubAdvisories,[GHSA-cw56-j3fm-7w57] Regular expression denial of service in apache shenyu,https://github.com/advisories/GHSA-cw56-j3fm-7w57,https://bit.ly/3N0R6yo
+GithubAdvisories,[GHSA-c5wc-v287-82pc] Improper configuration of multi factor authentication in hashicorp vault,https://github.com/advisories/GHSA-c5wc-v287-82pc,https://bit.ly/3yWAkwr
+GithubAdvisories,[GHSA-wh73-hpcg-v32j] SQL injection in apache-superset,https://github.com/advisories/GHSA-wh73-hpcg-v32j,https://bit.ly/3GgUwL7
+GithubAdvisories,[GHSA-7qcx-4p32-qcmx] Missing Cryptographic Step in cassproject,https://github.com/advisories/GHSA-7qcx-4p32-qcmx,https://bit.ly/3NyNMKW
+GithubAdvisories,[GHSA-mw6j-hh29-h379] `CHECK` failure in depthwise ops via overflows,https://github.com/advisories/GHSA-mw6j-hh29-h379,https://bit.ly/3wRuVUC
+GithubAdvisories,[GHSA-grw5-g9h2-wpg8] Cross-site Scripting in bootstrap-table,https://github.com/advisories/GHSA-grw5-g9h2-wpg8,https://bit.ly/3LN9oSB
+GithubAdvisories,[GHSA-7f62-4887-cfv5] Privilege escalation in easyappointments,https://github.com/advisories/GHSA-7f62-4887-cfv5,https://bit.ly/3z6OECm
+GithubAdvisories,[GHSA-rm36-94g8-835r] Race Condition in Grunt,https://github.com/advisories/GHSA-rm36-94g8-835r,https://bit.ly/3ahcKjz
+GithubAdvisories,[GHSA-pvmg-xgmx-9mxh] Improper Input Validation in k8s.io/ingress-nginx,https://github.com/advisories/GHSA-pvmg-xgmx-9mxh,https://bit.ly/3wIMGqq
+GithubAdvisories,[GHSA-rpjm-422r-95mh] Regular expression denial of service in apache tika,https://github.com/advisories/GHSA-rpjm-422r-95mh,https://bit.ly/3wO7gG2
+GithubAdvisories,[GHSA-7qcq-xp2f-56f6] Uncontrolled memory consumption in apache tika,https://github.com/advisories/GHSA-7qcq-xp2f-56f6,https://bit.ly/3wO3Stw
+GithubAdvisories,[GHSA-6h5x-7c5m-7cr7] Exposure of Sensitive Information in eventsource,https://github.com/advisories/GHSA-6h5x-7c5m-7cr7,https://bit.ly/3lKzFGA
+GithubAdvisories,[GHSA-qj93-37f5-mr29] Improper Input Validation in IpMatcher,https://github.com/advisories/GHSA-qj93-37f5-mr29,https://bit.ly/3N0R75q
+GithubAdvisories,[GHSA-w45j-f832-hxvh] Client Certificates are accepted without CertificateVerify,https://github.com/advisories/GHSA-w45j-f832-hxvh,https://bit.ly/3wM5CU8
+GithubAdvisories,[GHSA-vjq3-x3f2-fvxq] Account takeover in facturascripts,https://github.com/advisories/GHSA-vjq3-x3f2-fvxq,https://bit.ly/39UDbeX
+GithubAdvisories,[GHSA-vjj6-5m9f-wqjw] NULL Pointer Dereference in HyperLedger Fabric,https://github.com/advisories/GHSA-vjj6-5m9f-wqjw,https://bit.ly/3Glr1Yt
+GithubAdvisories,[GHSA-5rrg-rr89-x9mv] Exposure of Sensitive Information in ansible,https://github.com/advisories/GHSA-5rrg-rr89-x9mv,https://bit.ly/3LOnliU
+GithubAdvisories,[GHSA-8vrw-m3j9-j27c] Denial of Service in jsonparser,https://github.com/advisories/GHSA-8vrw-m3j9-j27c,https://bit.ly/3LRNugW
+GithubAdvisories,[GHSA-279p-pc38-xx4p] JFinal file validation vulnerability,https://github.com/advisories/GHSA-279p-pc38-xx4p,https://bit.ly/3PTHIPg
