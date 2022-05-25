@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cr9c-rhq6-vh53] Code execution via SVG file upload in tiddlywiki,https://github.com/advisories/GHSA-cr9c-rhq6-vh53,https://bit.ly/3aoPPmD
+GithubAdvisories,[GHSA-5875-m6jq-vf78] Command injection in workspace-tools,https://github.com/advisories/GHSA-5875-m6jq-vf78,https://bit.ly/38hXbYe
