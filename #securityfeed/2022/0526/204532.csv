@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2p68-f74v-9wc6] Unintended unmarshalling in ActiveSupport,https://github.com/advisories/GHSA-2p68-f74v-9wc6,https://bit.ly/3gmuR6h
+GithubAdvisories,[GHSA-f4hq-453j-p95f] Open redirect in Slashify,https://github.com/advisories/GHSA-f4hq-453j-p95f,https://bit.ly/39SwEyU
+GithubAdvisories,[GHSA-cmc7-mfmr-xqrx] Logic error in authentication in proxy.py,https://github.com/advisories/GHSA-cmc7-mfmr-xqrx,https://bit.ly/3uvJhar
