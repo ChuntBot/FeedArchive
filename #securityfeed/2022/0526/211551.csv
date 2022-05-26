@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8727-m6gj-mc37] Possible Strong Parameters Bypass in ActionPack,https://github.com/advisories/GHSA-8727-m6gj-mc37,https://bit.ly/3gsUYZw
+GithubAdvisories,[GHSA-m42x-37p3-fv5w] Circumvention of file size limits in ActiveStorage,https://github.com/advisories/GHSA-m42x-37p3-fv5w,https://bit.ly/2ZPAeVZ
+GithubAdvisories,[GHSA-cr3x-7m39-c6jq] Potential remote code execution of user-provided local names in ActionView,https://github.com/advisories/GHSA-cr3x-7m39-c6jq,https://bit.ly/3ixUt14
+GithubAdvisories,[GHSA-j6w9-fv6q-3q52] Percent-encoded cookies can be used to overwrite existing prefixed cookie names,https://github.com/advisories/GHSA-j6w9-fv6q-3q52,https://bit.ly/31dbiby
+GithubAdvisories,[GHSA-5f9h-9pjv-v6j7] Directory traversal in Rack::Directory app bundled with Rack,https://github.com/advisories/GHSA-5f9h-9pjv-v6j7,https://bit.ly/2VVJzJ0
