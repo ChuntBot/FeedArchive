@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-882r-r8fw-p538] XXE vulnerability in Jenkins Job Import Plugin,https://github.com/advisories/GHSA-882r-r8fw-p538,https://bit.ly/3wP4PTm
+GithubAdvisories,[GHSA-w9v7-7mq5-p27c] Exposure of sensitive information in Anchore Container Image Scanner Jenkins Plugin,https://github.com/advisories/GHSA-w9v7-7mq5-p27c,https://bit.ly/3lNlReA
+GithubAdvisories,[GHSA-vg8g-jpm9-jh8r] Unsafe pyyaml load usage in PyAnyAPI,https://github.com/advisories/GHSA-vg8g-jpm9-jh8r,https://bit.ly/3wQ1Ryc
