@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hxqx-xwvh-44m2] Denial of Service Vulnerability in Rack Multipart Parsing,https://github.com/advisories/GHSA-hxqx-xwvh-44m2,https://bit.ly/39YewGc
+GithubAdvisories,[GHSA-wq4h-7r42-5hrr] Possible shell escape sequence injection vulnerability in Rack,https://github.com/advisories/GHSA-wq4h-7r42-5hrr,https://bit.ly/3GFx2zD
