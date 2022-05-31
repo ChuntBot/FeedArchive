@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m7m4-4vm8-55wg] PyAMF vulnerable to XML external entity (XXE),https://github.com/advisories/GHSA-m7m4-4vm8-55wg,https://bit.ly/3PPo0UG
