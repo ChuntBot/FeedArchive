@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j6f7-hghw-g437] bottle.py vulnerable to CRLF Injection,https://github.com/advisories/GHSA-j6f7-hghw-g437,https://bit.ly/3M3LD8M
