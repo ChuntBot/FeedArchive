@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7xx3-m584-x994] A poorly-behaved client could use keepalive requests to monopolize Puma's reactor and create a denial of service attack,https://github.com/advisories/GHSA-7xx3-m584-x994,https://bit.ly/3NdGsos
