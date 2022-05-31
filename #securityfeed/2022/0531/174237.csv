@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f5qf-vh69-9q4r] SimpleXML vulnerable to XML External Entity (XXE),https://github.com/advisories/GHSA-f5qf-vh69-9q4r,https://bit.ly/3lWrKWO
