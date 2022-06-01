@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h3v9-46pp-h33w] Cross-site Scripting in Jenkins Multiselect parameter Plugin,https://github.com/advisories/GHSA-h3v9-46pp-h33w,https://bit.ly/390KbGV
+GithubAdvisories,[GHSA-9g33-48jh-jq7v] Cross Site Request Forgery in Jenkins SSH Plugin,https://github.com/advisories/GHSA-9g33-48jh-jq7v,https://bit.ly/3Ncvj71
+GithubAdvisories,[GHSA-7h2j-h5xp-h3gh] Missing Authorization in Jenkins SSH plugin,https://github.com/advisories/GHSA-7h2j-h5xp-h3gh,https://bit.ly/3NKqpOA
+GithubAdvisories,[GHSA-rr2r-g6xm-58xj] Cross Site Request Forgery in Jenkins Storable Configs Plugin,https://github.com/advisories/GHSA-rr2r-g6xm-58xj,https://bit.ly/3ajX6UN
