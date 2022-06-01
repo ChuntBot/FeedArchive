@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gp95-ppv5-3jc5] Possible vulnerability in sharp at 'npm install' time if an attacker has control over build environment,https://github.com/advisories/GHSA-gp95-ppv5-3jc5,https://bit.ly/3wYUgw8
+GithubAdvisories,[GHSA-9qrp-h7fw-42hg] Path Traversal in XWiki Platform,https://github.com/advisories/GHSA-9qrp-h7fw-42hg,https://bit.ly/3GHqhNv
+GithubAdvisories,[GHSA-72p8-v4hg-v45p] Weak private key generation in SSH.NET,https://github.com/advisories/GHSA-72p8-v4hg-v45p,https://bit.ly/3PUXolm
+GithubAdvisories,[GHSA-r6mc-mrvr-23cr] Sandbox bypass in Jenkins Pipeline: Groovy Plugin,https://github.com/advisories/GHSA-r6mc-mrvr-23cr,https://bit.ly/3Na7Xzb
+GithubAdvisories,[GHSA-qwm8-vgm6-f86p] Script security sandbox bypass in Jenkins Email Extension Plugin,https://github.com/advisories/GHSA-qwm8-vgm6-f86p,https://bit.ly/3MaGyM5
+GithubAdvisories,[GHSA-5r74-pgmq-92mm] Script security sandbox bypass in Jenkins Job DSL Plugin,https://github.com/advisories/GHSA-5r74-pgmq-92mm,https://bit.ly/3x5H8VI
+GithubAdvisories,[GHSA-qxf8-8837-hq7w] Script security sandbox bypass in Matrix Project Plugin,https://github.com/advisories/GHSA-qxf8-8837-hq7w,https://bit.ly/3M3UxTL
+GithubAdvisories,[GHSA-3pv3-jj4h-p528] Sandbox bypass vulnerability in Jenkins Script Security Plugin,https://github.com/advisories/GHSA-3pv3-jj4h-p528,https://bit.ly/3x8LcpD
+GithubAdvisories,[GHSA-x74x-qf5j-35jh] Sandbox bypass vulnerability in Jenkins Pipeline: Groovy Plugin,https://github.com/advisories/GHSA-x74x-qf5j-35jh,https://bit.ly/3M37Rbf
