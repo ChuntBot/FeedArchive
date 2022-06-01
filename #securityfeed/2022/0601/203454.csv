@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8639-qx56-r428] CSRF allows attacker to finalize/unfinalize order adjustments in solidus_backend,https://github.com/advisories/GHSA-8639-qx56-r428,https://bit.ly/3x8PBsF
+GithubAdvisories,[GHSA-xjfw-5vv5-vjq2] Cross-site Scripting in Filter Stream Converter Application in XWiki Platform,https://github.com/advisories/GHSA-xjfw-5vv5-vjq2,https://bit.ly/3GGQpIz
+GithubAdvisories,[GHSA-x5jm-rj37-5qh7] Sandbox Bypass in Script Security Plugin,https://github.com/advisories/GHSA-x5jm-rj37-5qh7,https://bit.ly/3x47t6Q
+GithubAdvisories,[GHSA-8xjp-rp29-v5j8] Agent-to-controller security bypass in Jenkins Debian Package Builder Plugin,https://github.com/advisories/GHSA-8xjp-rp29-v5j8,https://bit.ly/3m1qXUB
+GithubAdvisories,[GHSA-xvxq-hq48-xphm] Sandbox bypass in Script Security Plugin,https://github.com/advisories/GHSA-xvxq-hq48-xphm,https://bit.ly/38W8R3u
