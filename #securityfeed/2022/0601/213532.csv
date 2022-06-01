@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5hqc-x78w-3cmw] Missing Authorization in Apache Archiva,https://github.com/advisories/GHSA-5hqc-x78w-3cmw,https://bit.ly/393YWZp
+GithubAdvisories,[GHSA-7rjv-q3pp-wc4p] Cross-site Scripting in Jenkins Global Variable String Parameter Plugin,https://github.com/advisories/GHSA-7rjv-q3pp-wc4p,https://bit.ly/3m8Dplr
+GithubAdvisories,[GHSA-5pmp-7wc9-v7vw] Cross-site Scripting in Jenkins JDK Parameter Plugin,https://github.com/advisories/GHSA-5pmp-7wc9-v7vw,https://bit.ly/3wWIHp4
+GithubAdvisories,[GHSA-ppwv-mvqg-q89h] Cross-site Scripting in Jenkins Autocomplete Parameter Plugin,https://github.com/advisories/GHSA-ppwv-mvqg-q89h,https://bit.ly/3t8KNRu
+GithubAdvisories,[GHSA-6wh8-mr6f-6cx2] Cross-site Scripting in Jenkins Application Detector Plugin,https://github.com/advisories/GHSA-6wh8-mr6f-6cx2,https://bit.ly/38Yfdzk
+GithubAdvisories,[GHSA-hr8g-f6r6-mr22] Buffer over-flow in Pillow,https://github.com/advisories/GHSA-hr8g-f6r6-mr22,https://bit.ly/3GJlhYY
+GithubAdvisories,[GHSA-28r2-q6m8-9hpx] Unsafe downloads in HashiCorp go-getter,https://github.com/advisories/GHSA-28r2-q6m8-9hpx,https://bit.ly/3GFuUHM
+GithubAdvisories,[GHSA-x24g-9w7v-vprh] Command injection in HashiCorp go-getter,https://github.com/advisories/GHSA-x24g-9w7v-vprh,https://bit.ly/390Ak3S
+GithubAdvisories,[GHSA-fcgg-rvwg-jv58] Unsafe downloads in HashiCorp go-getter,https://github.com/advisories/GHSA-fcgg-rvwg-jv58,https://bit.ly/3aaJY49
+GithubAdvisories,[GHSA-cjr4-fv6c-f3mv] Unsafe downloads in HashiCorp go-getter,https://github.com/advisories/GHSA-cjr4-fv6c-f3mv,https://bit.ly/3m6JTRS
+GithubAdvisories,[GHSA-7c3v-2jjv-hq3c] Cross-Site Request Forgery in Jenkins Autocomplete Parameter Plugin,https://github.com/advisories/GHSA-7c3v-2jjv-hq3c,https://bit.ly/3t9yjci
+GithubAdvisories,[GHSA-cj9j-v8jp-6hm9] Cross-site Scripting in Jenkins Autocomplete Parameter Plugin,https://github.com/advisories/GHSA-cj9j-v8jp-6hm9,https://bit.ly/3GHG0Mx
+GithubAdvisories,[GHSA-wqmp-2p5r-rhfv] XML External Entity Reference in Jenkins Storable Configs Plugin,https://github.com/advisories/GHSA-wqmp-2p5r-rhfv,https://bit.ly/3ajaf00
+GithubAdvisories,[GHSA-545f-pgp7-fwjf] Log value insertion in craftercms,https://github.com/advisories/GHSA-545f-pgp7-fwjf,https://bit.ly/3aictNd
+GithubAdvisories,[GHSA-38w4-q97c-xh4x] Cross-site Scripting in Jenkins Random String Parameter Plugin,https://github.com/advisories/GHSA-38w4-q97c-xh4x,https://bit.ly/3zgpSzV
+GithubAdvisories,[GHSA-9w23-w757-mvv8] Cross-site Scripting in Jenkins vboxwrapper Plugin,https://github.com/advisories/GHSA-9w23-w757-mvv8,https://bit.ly/3N9dtlC
+GithubAdvisories,[GHSA-9pg5-3pjc-f8wm] Path traversal in ginadmin,https://github.com/advisories/GHSA-9pg5-3pjc-f8wm,https://bit.ly/3N9dupG
+GithubAdvisories,[GHSA-5824-6jfv-xr3r] Arbitrary file read in ginadmin,https://github.com/advisories/GHSA-5824-6jfv-xr3r,https://bit.ly/3aaJYBb
+GithubAdvisories,[GHSA-mw4r-5mfc-m5vc] Cross site scripting in Jenkins Selection tasks Plugin,https://github.com/advisories/GHSA-mw4r-5mfc-m5vc,https://bit.ly/3N9dtC8
