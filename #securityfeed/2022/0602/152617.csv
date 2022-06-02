@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8vfc-fcr2-47pj] Path traversal in Jenkins REPO Plugin,https://github.com/advisories/GHSA-8vfc-fcr2-47pj,https://bit.ly/3GIY8po
+GithubAdvisories,[GHSA-p566-wpxx-574m] Missing Authorization in Jenkins WMI Windows Agents plugin,https://github.com/advisories/GHSA-p566-wpxx-574m,https://bit.ly/3zfuNkG
+GithubAdvisories,[GHSA-g74w-93cp-5p3p] Insufficiently Protected Credentials in Jenkins Pipeline SCM API for Blue Ocean Plugin,https://github.com/advisories/GHSA-g74w-93cp-5p3p,https://bit.ly/3M66Y1D
