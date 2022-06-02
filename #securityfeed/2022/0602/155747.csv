@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j2xf-p274-g8cc] Cross-site Scripting in Jirafeau,https://github.com/advisories/GHSA-j2xf-p274-g8cc,https://bit.ly/3m9B5uw
+GithubAdvisories,[GHSA-5786-3qjg-mr88] Path traversal in Jenkins Mercurial Plugin,https://github.com/advisories/GHSA-5786-3qjg-mr88,https://bit.ly/3McoPnm
+GithubAdvisories,[GHSA-84cm-vjwm-m979] Path traversal in Jenkins Git Plugin,https://github.com/advisories/GHSA-84cm-vjwm-m979,https://bit.ly/3GGEcn8
+GithubAdvisories,[GHSA-xhw3-wmx2-76wf] Buffer overflow in Jenkins WMI Windows Agents plugin,https://github.com/advisories/GHSA-xhw3-wmx2-76wf,https://bit.ly/3xa6h2N
+GithubAdvisories,[GHSA-67r3-h899-9w95] Embedded Malicious Code in ctx,https://github.com/advisories/GHSA-67r3-h899-9w95,https://bit.ly/3aD213g
+GithubAdvisories,[GHSA-hj9c-8jmm-8c52] Packing does not respect root-level ignore files in workspaces,https://github.com/advisories/GHSA-hj9c-8jmm-8c52,https://bit.ly/3m9ANDS
