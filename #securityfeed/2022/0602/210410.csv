@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8f6m-gfq9-g33v] Cross-site Scripting in html5lib,https://github.com/advisories/GHSA-8f6m-gfq9-g33v,https://bit.ly/3aqawi8
+GithubAdvisories,[GHSA-2x4v-g8cx-jxrq] Login timing attack in ibexa/core,https://github.com/advisories/GHSA-2x4v-g8cx-jxrq,https://bit.ly/3NiCKdc
+GithubAdvisories,[GHSA-xfqg-p48g-hh94] Login timing attack in ezsystems/ezpublish-kernel,https://github.com/advisories/GHSA-xfqg-p48g-hh94,https://bit.ly/3akM9SB
+GithubAdvisories,[GHSA-342c-vcff-2ff2] Login timing attack in ezsystems/ezplatform-kernel,https://github.com/advisories/GHSA-342c-vcff-2ff2,https://bit.ly/3GKbpOu
+GithubAdvisories,[GHSA-56j7-2pm8-rgmx] OS Command Injection in gogs,https://github.com/advisories/GHSA-56j7-2pm8-rgmx,https://bit.ly/3xcDcUI
+GithubAdvisories,[GHSA-958j-443g-7mm7] OS Command Injection in gogs,https://github.com/advisories/GHSA-958j-443g-7mm7,https://bit.ly/3PRdiNz
+GithubAdvisories,[GHSA-pj96-4jhv-v792] Cross site scripting via cookies in gogs,https://github.com/advisories/GHSA-pj96-4jhv-v792,https://bit.ly/3MkVQOA
+GithubAdvisories,[GHSA-fcxw-hhxq-48wx] Insecure temporary file usage in Jenkins Git Client Plugin,https://github.com/advisories/GHSA-fcxw-hhxq-48wx,https://bit.ly/3xcDdbe
+GithubAdvisories,[GHSA-c273-c6vg-4pv5] Improper Access Control in publify,https://github.com/advisories/GHSA-c273-c6vg-4pv5,https://bit.ly/3GZ6rxD
+GithubAdvisories,[GHSA-rrjv-34p5-4c7r] SQL injection in helloxz/imgurl,https://github.com/advisories/GHSA-rrjv-34p5-4c7r,https://bit.ly/3xekNa6
+GithubAdvisories,[GHSA-f5x9-8jwc-25rw] Uncaught Exception (due to a data race) leads to process termination in Waitress,https://github.com/advisories/GHSA-f5x9-8jwc-25rw,https://bit.ly/3xekNH8
+GithubAdvisories,[GHSA-ph3w-2843-72mx] Stored Cross-site Scripting in gitea,https://github.com/advisories/GHSA-ph3w-2843-72mx,https://bit.ly/38Ihr5x
+GithubAdvisories,[GHSA-g954-5hwp-pp24] Prototype Pollution in protobufjs,https://github.com/advisories/GHSA-g954-5hwp-pp24,https://bit.ly/3NgU1TR
