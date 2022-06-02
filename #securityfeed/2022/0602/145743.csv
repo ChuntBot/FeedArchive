@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hgpq-42pf-9vfq] Cross Site Request Forgery in Jenkins Blue Ocean Plugin,https://github.com/advisories/GHSA-hgpq-42pf-9vfq,https://bit.ly/3agtwPR
+GithubAdvisories,[GHSA-5m4q-x28v-q6wp] Missing permission check in Jenkins Blue Ocean Plugin,https://github.com/advisories/GHSA-5m4q-x28v-q6wp,https://bit.ly/3aoLzne
+GithubAdvisories,[GHSA-5phj-qv74-pv4w] Missing permission check in Jenkins GitLab Plugin,https://github.com/advisories/GHSA-5phj-qv74-pv4w,https://bit.ly/3xbsRs0
+GithubAdvisories,[GHSA-4m42-8qfq-h3q9] Cross-site Scripting in Jenkins Rundeck Plugin,https://github.com/advisories/GHSA-4m42-8qfq-h3q9,https://bit.ly/3xanqtc
+GithubAdvisories,[GHSA-x454-72fx-69q3] Missing permission check in Jenkins SSH Plugin,https://github.com/advisories/GHSA-x454-72fx-69q3,https://bit.ly/3GXHUch
+GithubAdvisories,[GHSA-77fq-4xf5-hph4] Buffer overflow in wasm3,https://github.com/advisories/GHSA-77fq-4xf5-hph4,https://bit.ly/3Nfa18S
+GithubAdvisories,[GHSA-w37f-pvvx-wcwm] Incorrect Calculation in moodle,https://github.com/advisories/GHSA-w37f-pvvx-wcwm,https://bit.ly/3Mdzr5z
