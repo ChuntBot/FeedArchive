@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wvh5-78h5-gmgr] Cross-site Scripting in moodle,https://github.com/advisories/GHSA-wvh5-78h5-gmgr,https://bit.ly/3PX40Q3
+GithubAdvisories,[GHSA-69c3-5xxf-58q2] SQL injection in moodle,https://github.com/advisories/GHSA-69c3-5xxf-58q2,https://bit.ly/3xchyQj
+GithubAdvisories,[GHSA-x6gm-qqwp-76gr] External Control of Assumed-Immutable Web Parameter in moodle,https://github.com/advisories/GHSA-x6gm-qqwp-76gr,https://bit.ly/3GHuBfO
+GithubAdvisories,[GHSA-fj6p-g234-rrv3] Exposure of Sensitive Information in moodle,https://github.com/advisories/GHSA-fj6p-g234-rrv3,https://bit.ly/3xchyjh
