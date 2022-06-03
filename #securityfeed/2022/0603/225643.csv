@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rj88-4777-828h] Command injection in docker-tester,https://github.com/advisories/GHSA-rj88-4777-828h,https://bit.ly/3NpmGGE
+GithubAdvisories,[GHSA-mj46-r4gr-5x83] Unsanitized JavaScript code injection possible in gatsby-plugin-mdx,https://github.com/advisories/GHSA-mj46-r4gr-5x83,https://bit.ly/3NkWv3D
+GithubAdvisories,[GHSA-xhp9-4947-rq78] Denial of service in bottle,https://github.com/advisories/GHSA-xhp9-4947-rq78,https://bit.ly/3xd8qej
+GithubAdvisories,[GHSA-6xj9-hpq3-w3qw] Code injection in MCMS,https://github.com/advisories/GHSA-6xj9-hpq3-w3qw,https://bit.ly/3GObjp4
+GithubAdvisories,[GHSA-526x-rm7j-v389] Privilege escalation in Hashicorp Nomad,https://github.com/advisories/GHSA-526x-rm7j-v389,https://bit.ly/3me1lnC
+GithubAdvisories,[GHSA-4qf6-vpj8-p4r6] Cross site scripting in SSCMS,https://github.com/advisories/GHSA-4qf6-vpj8-p4r6,https://bit.ly/3zhghJd
+GithubAdvisories,[GHSA-q4qm-xhf9-4p8f] Authorization bypass in Flower,https://github.com/advisories/GHSA-q4qm-xhf9-4p8f,https://bit.ly/3xiILkx
+GithubAdvisories,[GHSA-23f2-vgr6-fwv7] Command injection in librenms,https://github.com/advisories/GHSA-23f2-vgr6-fwv7,https://bit.ly/3NkX7Gt
+GithubAdvisories,[GHSA-8rp2-j3vj-hgj4] Cross site scripting in Jfinal,https://github.com/advisories/GHSA-8rp2-j3vj-hgj4,https://bit.ly/3zhenIK
+GithubAdvisories,[GHSA-fp36-299x-pwmw] Regular expression denial of service in devcert,https://github.com/advisories/GHSA-fp36-299x-pwmw,https://bit.ly/38Qjg0u
+GithubAdvisories,[GHSA-j9m2-h2pv-wvph] Regular expression denial of service in jquery-validation,https://github.com/advisories/GHSA-j9m2-h2pv-wvph,https://bit.ly/3NkX79r
+GithubAdvisories,[GHSA-4x5v-gmq8-25ch] Regular expression denial of service in semver-regex,https://github.com/advisories/GHSA-4x5v-gmq8-25ch,https://bit.ly/3GLPu9J
