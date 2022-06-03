@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mmh6-m7v9-5956] Regular expression denial of service in markdown-link-extractor,https://github.com/advisories/GHSA-mmh6-m7v9-5956,https://bit.ly/3NnJne7
+GithubAdvisories,[GHSA-cv76-rv4h-4mqc] OS Command Injection in proctree,https://github.com/advisories/GHSA-cv76-rv4h-4mqc,https://bit.ly/38NJnoF
+GithubAdvisories,[GHSA-7xhv-mpjw-422f] Command injection in google-it,https://github.com/advisories/GHSA-7xhv-mpjw-422f,https://bit.ly/3GPx9bN
+GithubAdvisories,[GHSA-gwp3-f7mr-qpfv] OS Command Injection in s3-uploader,https://github.com/advisories/GHSA-gwp3-f7mr-qpfv,https://bit.ly/3NgQNQg
+GithubAdvisories,[GHSA-52vj-mr2j-f8jh] Server-Side Template Injection in formio,https://github.com/advisories/GHSA-52vj-mr2j-f8jh,https://bit.ly/3x9gs6L
+GithubAdvisories,[GHSA-rphm-c8gw-3r38] OS Command Injection in lifion-verify-deps,https://github.com/advisories/GHSA-rphm-c8gw-3r38,https://bit.ly/3MhfoDn
+GithubAdvisories,[GHSA-p9p4-97g9-wcrh] Dev error stack trace leaking into prod in Play Framework,https://github.com/advisories/GHSA-p9p4-97g9-wcrh,https://bit.ly/3zhc3l0
+GithubAdvisories,[GHSA-v8x6-59g4-5g3w] Denial of service binding form from JSON in Play Framework,https://github.com/advisories/GHSA-v8x6-59g4-5g3w,https://bit.ly/3NgQTHC
+GithubAdvisories,[GHSA-qw3f-w4pf-jh5f] Regular expression denial of service in apache tika,https://github.com/advisories/GHSA-qw3f-w4pf-jh5f,https://bit.ly/3Mipsfo
+GithubAdvisories,[GHSA-9w9f-6mg8-jp7w] Missing Role Based Access Control for the REST handlers in bleve/http package,https://github.com/advisories/GHSA-9w9f-6mg8-jp7w,https://bit.ly/38NaZdH
+GithubAdvisories,[GHSA-3hwx-c6cp-q972] Cross site scripting in publify,https://github.com/advisories/GHSA-3hwx-c6cp-q972,https://bit.ly/3Nmwq4q
+GithubAdvisories,[GHSA-fj34-jhjx-xmvv] Arbitrary file write in dragonfly,https://github.com/advisories/GHSA-fj34-jhjx-xmvv,https://bit.ly/3xi9WeY
+GithubAdvisories,[GHSA-2927-hv3p-f3vp] Open redirect in caddy,https://github.com/advisories/GHSA-2927-hv3p-f3vp,https://bit.ly/3GNvQdf
+GithubAdvisories,[GHSA-552j-pv39-f3jf] OS Command injection in ssl-utils,https://github.com/advisories/GHSA-552j-pv39-f3jf,https://bit.ly/3GVzEJK
+GithubAdvisories,[GHSA-9v73-x562-wv5x] OS Command Injection in gitsome,https://github.com/advisories/GHSA-9v73-x562-wv5x,https://bit.ly/38MbyV0
