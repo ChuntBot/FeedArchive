@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2rr8-9c6g-8j5c] Missing Authorization in Crafter CMS,https://github.com/advisories/GHSA-2rr8-9c6g-8j5c,https://bit.ly/3GMgwgW
+GithubAdvisories,[GHSA-p2vm-88rg-wfr2] XML injection in Crafter CMS,https://github.com/advisories/GHSA-p2vm-88rg-wfr2,https://bit.ly/3NiG484
+GithubAdvisories,[GHSA-38rq-rh9w-cmw6] Cross site scripting in Crafter CMS,https://github.com/advisories/GHSA-38rq-rh9w-cmw6,https://bit.ly/3zawmAq
+GithubAdvisories,[GHSA-2xwp-7j3p-c78x] Cross site scripting in SiteServer CMS,https://github.com/advisories/GHSA-2xwp-7j3p-c78x,https://bit.ly/3Ng47ED
+GithubAdvisories,[GHSA-5xr5-v2h7-2w7w] SQL injection in SiteServer CMS,https://github.com/advisories/GHSA-5xr5-v2h7-2w7w,https://bit.ly/3PSOjJL
+GithubAdvisories,[GHSA-wmh9-x28j-c6gr] Cross site scripting in publify,https://github.com/advisories/GHSA-wmh9-x28j-c6gr,https://bit.ly/3tg6zmF
+GithubAdvisories,[GHSA-3h7v-wqw7-ff28] Cross site scripting in publify,https://github.com/advisories/GHSA-3h7v-wqw7-ff28,https://bit.ly/3ma6U6i
+GithubAdvisories,[GHSA-w78q-4w34-jrjx] Code injection in publify,https://github.com/advisories/GHSA-w78q-4w34-jrjx,https://bit.ly/3anBTsQ
+GithubAdvisories,[GHSA-79m3-q3wh-c3qm] Incorrect Authorization in publify,https://github.com/advisories/GHSA-79m3-q3wh-c3qm,https://bit.ly/3xcNGDu
+GithubAdvisories,[GHSA-m9vj-44f3-78xw] Path traversal in CureKit,https://github.com/advisories/GHSA-m9vj-44f3-78xw,https://bit.ly/3aqveOQ
+GithubAdvisories,[GHSA-7fc2-rm35-2pp7] IPython vulnerable to cross site request forgery (CSRF),https://github.com/advisories/GHSA-7fc2-rm35-2pp7,https://bit.ly/3mdzsfm
+GithubAdvisories,[GHSA-fff8-4w9p-7v76] Command Injection in Pygments,https://github.com/advisories/GHSA-fff8-4w9p-7v76,https://bit.ly/3mcY1Ja
+GithubAdvisories,[GHSA-w689-557m-2cvq] Server-Side Request Forgery in gogs webhook,https://github.com/advisories/GHSA-w689-557m-2cvq,https://bit.ly/3zh9sHI
