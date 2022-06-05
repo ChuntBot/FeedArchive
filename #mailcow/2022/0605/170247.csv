@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Update base image to alpine 3.16,https://github.com/mailcow/mailcow-dockerized/commit/d13be25f45821883108a4bf4b33ec4674857108f,https://bit.ly/3MpWJFf
+GithubCommitStaging,Update base image to alpine 3.16,https://github.com/mailcow/mailcow-dockerized/commit/2bd436dfd836f6edbf06c14c9d1b60e817b0d1f5,https://bit.ly/3MiWFXZ
+GithubCommitStaging,Merge pull request #4607 from mailcow/netfilter-alpine3.16,https://github.com/mailcow/mailcow-dockerized/commit/e53b068902790f743918901d08bc27570eecc193,https://bit.ly/3x5lqBv
+GithubCommitStaging,Update base image to alpine 3.16,https://github.com/mailcow/mailcow-dockerized/commit/c9dbc7c7b780b4caab7e9c88a8bc8ebdecaa19a2,https://bit.ly/3NTJGx1
+GithubCommitStaging,"Revert ""Update base image to alpine 3.16""",https://github.com/mailcow/mailcow-dockerized/commit/1c479684fc313511d8533c0dd2d79d1c1db6a427,https://bit.ly/3GP6nQV
