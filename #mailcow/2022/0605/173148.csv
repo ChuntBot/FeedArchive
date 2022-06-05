@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Update base image to alpine 3.16,https://github.com/mailcow/mailcow-dockerized/commit/1db5841424f9b04efe48d711ed65c56f37ae6166,https://bit.ly/3MkHzkI
+GithubCommitStaging,Update base image to alpine 3.16,https://github.com/mailcow/mailcow-dockerized/commit/c41dc9d8c0ec66c53d0bc812705b602a506ff8ca,https://bit.ly/3NprifC
+GithubCommitStaging,Update base image to alpine 3.16,https://github.com/mailcow/mailcow-dockerized/commit/a21b3cd606d34e3aff35ce259ba564de3474c979,https://bit.ly/38PInAm
+GithubCommitStaging,Update base image to alpine 3.16,https://github.com/mailcow/mailcow-dockerized/commit/0bc2a16093d80c74bd6a4eec8511e770cfba5aaa,https://bit.ly/3GPzgw4
+GithubCommitStaging,Update base image to alpine 3.16,https://github.com/mailcow/mailcow-dockerized/commit/cd1715ba52111c6b67e739df1a609405ac9f4b2b,https://bit.ly/3Q0n3ZQ
+GithubCommitStaging,Merge pull request #4612 from mailcow/acme-alpine3.16,https://github.com/mailcow/mailcow-dockerized/commit/3368a70f88fd07f93feb501d4f73b5b69397e306,https://bit.ly/38TV9Ou
+GithubCommitStaging,Merge pull request #4611 from mailcow/dockerapi-alpine3.16,https://github.com/mailcow/mailcow-dockerized/commit/a36645a28279c23cee4d103b060897d73c9e6471,https://bit.ly/3avm0AU
+GithubCommitStaging,Merge pull request #4610 from mailcow/olefy-alpine3.16,https://github.com/mailcow/mailcow-dockerized/commit/967cfedbb347a5dc5ef7f4dc566a1ada993de73d,https://bit.ly/3mduAa2
+GithubCommitStaging,Merge pull request #4608 from mailcow/watchdog-alpine3.16,https://github.com/mailcow/mailcow-dockerized/commit/838182a8b47aed3b80f3e7eebf47d82f3bcb6e0a,https://bit.ly/3MeAaDC
+GithubCommitStaging,Merge pull request #4609 from mailcow/unbound-alpine3.16,https://github.com/mailcow/mailcow-dockerized/commit/d360503443c25f62c2e4c32f8afca657573df4a9,https://bit.ly/3GPzgMA
