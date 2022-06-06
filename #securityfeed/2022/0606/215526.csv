@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fcm2-6c3h-pg6j] Node DOS by way of memory exhaustion through ExecSync request in CRI-O,https://github.com/advisories/GHSA-fcm2-6c3h-pg6j,https://bit.ly/3998rGU
