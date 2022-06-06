@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-48f2-m7jg-866x] Failed payment recorded has completed in Silverstripe Omnipay,https://github.com/advisories/GHSA-48f2-m7jg-866x,https://bit.ly/3axnMBh
+GithubAdvisories,[GHSA-4w8f-hjm9-xwgf] Path Traversal in django-s3file,https://github.com/advisories/GHSA-4w8f-hjm9-xwgf,https://bit.ly/38XTwiM
+GithubAdvisories,[GHSA-4v9q-cgpw-cf38] Multiple evaluation of contract address in call in vyper,https://github.com/advisories/GHSA-4v9q-cgpw-cf38,https://bit.ly/38V55qR
+GithubAdvisories,[GHSA-r7jw-mg27-j839] Cross-site Scripting in FacturaScripts,https://github.com/advisories/GHSA-r7jw-mg27-j839,https://bit.ly/3tjTWH0
+GithubAdvisories,[GHSA-4whx-7p29-mq22] TiDB authentication bypass vulnerability,https://github.com/advisories/GHSA-4whx-7p29-mq22,https://bit.ly/3xlBj82
+GithubAdvisories,[GHSA-5g4r-2qhx-vqfm] Use of Uninitialized Variable in trilogy,https://github.com/advisories/GHSA-5g4r-2qhx-vqfm,https://bit.ly/39cvyjJ
+GithubAdvisories,[GHSA-r7v4-jwx9-wx43] Authorization Bypass Through User-Controlled Key when using CILogonOAuthenticator oauthenticator,https://github.com/advisories/GHSA-r7v4-jwx9-wx43,https://bit.ly/3GYu0qk
+GithubAdvisories,[GHSA-76x2-h8h3-cwjg] Access control issue in AlekSIS-Core,https://github.com/advisories/GHSA-76x2-h8h3-cwjg,https://bit.ly/3axnM4f
+GithubAdvisories,[GHSA-c9gm-7rfj-8w5h] ReDoS via crafted JSON input in GJSON,https://github.com/advisories/GHSA-c9gm-7rfj-8w5h,https://bit.ly/3xk1tbo
