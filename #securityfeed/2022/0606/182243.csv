@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5949-rw7g-wx7w] Deserialization of untrusted data in jackson-databind,https://github.com/advisories/GHSA-5949-rw7g-wx7w,https://bit.ly/3o212e2
+GithubAdvisories,[GHSA-g9fw-9x87-rmrj] Privilege Context Switching Error in Elasticsearch,https://github.com/advisories/GHSA-g9fw-9x87-rmrj,https://bit.ly/3vNdROv
