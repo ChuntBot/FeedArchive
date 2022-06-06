@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Zeek 4.2.2,https://packetstormsecurity.com/files/167415/zeek-4.2.2.tar.gz,https://bit.ly/3NEETA9
+PacketstormSecurity,Botan C++ Crypto Algorithms Library 2.19.2,https://packetstormsecurity.com/files/167414/Botan-2.19.2.tar.xz,https://bit.ly/394hclH
+PacketstormSecurity,Falco 0.32.0,https://packetstormsecurity.com/files/167413/falco-0.32.0-x86_64.tar.gz,https://bit.ly/3NpXIqw
+PacketstormSecurity,Poly Studio X30 / Studio X50 / Studio X70 / G7500 Command Injection,https://packetstormsecurity.com/files/167412/SA-20220601-1.txt,https://bit.ly/3Mh8oX2
+PacketstormSecurity,Poly EagleEye Director II 2.2.1.1 Command Injection / Authentication Bypass,https://packetstormsecurity.com/files/167411/SA-20220601-0.txt,https://bit.ly/3GRIbx8
+PacketstormSecurity,dbus-broker-29 Memory Corruption,https://packetstormsecurity.com/files/167410/SA-20220602-0.txt,https://bit.ly/3mk6EC0
+PacketstormSecurity,Korenix JetPort 5601V3 Backdoor Account,https://packetstormsecurity.com/files/167409/SA-20220531-0.txt,https://bit.ly/3as27dR
+PacketstormSecurity,Reolink E1 Zoom Camera 3.0.0.716 Configuration Disclosure,https://packetstormsecurity.com/files/167408/reolinke1config-disclose.txt,https://bit.ly/38Sol8q
+PacketstormSecurity,Reolink E1 Zoom Camera 3.0.0.716 Private Key Disclosure,https://packetstormsecurity.com/files/167407/reolinke1key-disclose.txt,https://bit.ly/3GS4BOI
+PacketstormSecurity,Red Hat Security Advisory 2022-4893-01,https://packetstormsecurity.com/files/167406/RHSA-2022-4893-01.txt,https://bit.ly/3NmV70h
+PacketstormSecurity,Red Hat Security Advisory 2022-4899-01,https://packetstormsecurity.com/files/167405/RHSA-2022-4899-01.txt,https://bit.ly/3xl1Lyz
+PacketstormSecurity,Red Hat Security Advisory 2022-4895-01,https://packetstormsecurity.com/files/167404/RHSA-2022-4895-01.txt,https://bit.ly/3xonLZm
+PacketstormSecurity,Red Hat Security Advisory 2022-4887-01,https://packetstormsecurity.com/files/167403/RHSA-2022-4887-01.txt,https://bit.ly/3GVHrqT
+PacketstormSecurity,Red Hat Security Advisory 2022-4890-01,https://packetstormsecurity.com/files/167402/RHSA-2022-4890-01.txt,https://bit.ly/3xl1Kuv
+PacketstormSecurity,Red Hat Security Advisory 2022-4892-01,https://packetstormsecurity.com/files/167401/RHSA-2022-4892-01.txt,https://bit.ly/3xmsBq5
+PacketstormSecurity,Red Hat Security Advisory 2022-4896-01,https://packetstormsecurity.com/files/167400/RHSA-2022-4896-01.txt,https://bit.ly/3H1Jbis
+PacketstormSecurity,Red Hat Security Advisory 2022-4894-01,https://packetstormsecurity.com/files/167399/RHSA-2022-4894-01.txt,https://bit.ly/3xl1L1x
+PacketstormSecurity,Red Hat Security Advisory 2022-4888-01,https://packetstormsecurity.com/files/167398/RHSA-2022-4888-01.txt,https://bit.ly/3auTMWF
+PacketstormSecurity,Apache 2.4.50 Remote Code Execution,https://packetstormsecurity.com/files/167397/cve-2021-42013.c,https://bit.ly/3ar6d62
