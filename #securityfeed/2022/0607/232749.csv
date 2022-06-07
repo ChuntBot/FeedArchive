@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h7mf-qrm9-2848] OpenSymphony XWork vulnerable to improper input validation,https://github.com/advisories/GHSA-h7mf-qrm9-2848,https://bit.ly/3Q6Mh8V
+GithubAdvisories,[GHSA-7qwv-cwgj-c8rj] Improper Input Validation in Apache Struts,https://github.com/advisories/GHSA-7qwv-cwgj-c8rj,https://bit.ly/3aMyF2t
+GithubAdvisories,[GHSA-vf8g-mpmw-qv87] Apache Struts vulnerable to Improper Input Validation,https://github.com/advisories/GHSA-vf8g-mpmw-qv87,https://bit.ly/3O1PXa0
+GithubAdvisories,[GHSA-p3vw-fvwx-qcv5] Cross-site scripting in Apache Struts,https://github.com/advisories/GHSA-p3vw-fvwx-qcv5,https://bit.ly/3xdUP5b
