@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Microsoft Office Word MSDTJS Code Execution,https://packetstormsecurity.com/files/167438/word_msdtjs_rce.rb.txt,https://bit.ly/3xsRCQM
+PacketstormSecurity,Backdoor.Win32.Cabrotor.10.d MVID-2022-0612 Remote Command Execution,https://packetstormsecurity.com/files/167437/MVID-2022-0612.txt,https://bit.ly/3NruffW
+PacketstormSecurity,Ransom.Haron MVID-2022-0609 Code Execution,https://packetstormsecurity.com/files/167436/MVID-2022-0609.txt,https://bit.ly/3mk0TnM
+PacketstormSecurity,Trojan-Proxy.Win32.Symbab.o MVID-2022-0610 Heap Corruption,https://packetstormsecurity.com/files/167435/MVID-2022-0610.txt,https://bit.ly/3mpIciC
+PacketstormSecurity,Trojan-Banker.Win32.Banbra.cyt MVID-2022-0611 Insecure Permissions,https://packetstormsecurity.com/files/167434/MVID-2022-0611.txt,https://bit.ly/3x9M4cp
+PacketstormSecurity,Trojan-Banker.Win32.Banker.agzg MVID-2022-0608 Insecure Permissions,https://packetstormsecurity.com/files/167433/MVID-2022-0608.txt,https://bit.ly/3zmCSUz
+PacketstormSecurity,Confluence OGNL Injection Proof Of Concept,https://packetstormsecurity.com/files/167432/CVE-2022-26134-master.zip,https://bit.ly/3tgtSg0
+PacketstormSecurity,Through The Wire CVE-2022-26134 Confluence Proof Of Concept,https://packetstormsecurity.com/files/167431/through_the_wire-main.zip,https://bit.ly/38WaRZg
+PacketstormSecurity,Confluence OGNL Injection Remote Code Execution,https://packetstormsecurity.com/files/167430/CVE-2022-26134.py.txt,https://bit.ly/3av7Wr0
+PacketstormSecurity,Red Hat Security Advisory 2022-4929-01,https://packetstormsecurity.com/files/167429/RHSA-2022-4929-01.txt,https://bit.ly/3MnLltD
+PacketstormSecurity,Red Hat Security Advisory 2022-4930-01,https://packetstormsecurity.com/files/167428/RHSA-2022-4930-01.txt,https://bit.ly/3thF0JK
+PacketstormSecurity,Red Hat Security Advisory 2022-4924-01,https://packetstormsecurity.com/files/167427/RHSA-2022-4924-01.txt,https://bit.ly/3MFCfsB
+PacketstormSecurity,Red Hat Security Advisory 2022-4919-01,https://packetstormsecurity.com/files/167424/RHSA-2022-4919-01.txt,https://bit.ly/3Q8x4Eo
+PacketstormSecurity,Red Hat Security Advisory 2022-4918-01,https://packetstormsecurity.com/files/167423/RHSA-2022-4918-01.txt,https://bit.ly/3x9XTPH
+PacketstormSecurity,Red Hat Security Advisory 2022-4922-01,https://packetstormsecurity.com/files/167422/RHSA-2022-4922-01.txt,https://bit.ly/3aC6eUV
+PacketstormSecurity,Red Hat Security Advisory 2022-4914-01,https://packetstormsecurity.com/files/167418/RHSA-2022-4914-01.txt,https://bit.ly/3NtWHOc
+PacketstormSecurity,Red Hat Security Advisory 2022-4915-01,https://packetstormsecurity.com/files/167417/RHSA-2022-4915-01.txt,https://bit.ly/3x9b9UV
+PacketstormSecurity,Red Hat Security Advisory 2022-4913-01,https://packetstormsecurity.com/files/167416/RHSA-2022-4913-01.txt,https://bit.ly/3MpvpHl
