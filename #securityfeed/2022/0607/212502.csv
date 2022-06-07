@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vgj7-895j-gpr6] Improper Removal of Sensitive Information Before Storage or Transfer in Strapi,https://github.com/advisories/GHSA-vgj7-895j-gpr6,https://bit.ly/3xp22Rh
+GithubAdvisories,[GHSA-f6fm-r26q-p747] Improper Removal of Sensitive Information Before Storage or Transfer in Strapi,https://github.com/advisories/GHSA-f6fm-r26q-p747,https://bit.ly/3Q9HDa0
+GithubAdvisories,[GHSA-wh6w-69xc-5rq5] Improper Check for Unusual or Exceptional Conditions in Elasticsearch,https://github.com/advisories/GHSA-wh6w-69xc-5rq5,https://bit.ly/3tmoRCx
+GithubAdvisories,[GHSA-5c5f-7vfq-3732] JMESPath for Ruby using JSON.load instead of JSON.parse,https://github.com/advisories/GHSA-5c5f-7vfq-3732,https://bit.ly/3zohE9c
+GithubAdvisories,[GHSA-pp3c-cf6j-m3ff] Server-Side Request Forgery in Jodd HTTP,https://github.com/advisories/GHSA-pp3c-cf6j-m3ff,https://bit.ly/3mpo149
+GithubAdvisories,[GHSA-hc72-vj3g-5g2g] Cross-site Scripting in ZKEACMS,https://github.com/advisories/GHSA-hc72-vj3g-5g2g,https://bit.ly/3xcCGF0
+GithubAdvisories,[GHSA-fqx3-r75h-vc89] Improperly checked IDs on itemstacks received from the client leading to server crash in PocketMine-MP,https://github.com/advisories/GHSA-fqx3-r75h-vc89,https://bit.ly/3tojP8S
