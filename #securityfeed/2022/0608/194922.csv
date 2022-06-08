@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jrcf-4jp8-m28v] miow invalidly assumes the memory layout of std::net::SocketAddr,https://github.com/advisories/GHSA-jrcf-4jp8-m28v,https://bit.ly/3NyNkwH
