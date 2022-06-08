@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Fix Docker Compose recognition for docker-compose syntax,https://github.com/mailcow/mailcow-dockerized/commit/141b397c82b717236bdb3a76ec7684442bf694e7,https://bit.ly/3MsVp4K
+GithubCommitStaging,Fixed typo for previous commit,https://github.com/mailcow/mailcow-dockerized/commit/5d14baa43a433638dc9500866039eea1546ed926,https://bit.ly/3tk9URo
