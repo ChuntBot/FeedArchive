@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vv6j-5x58-q2c3] Cross-site scripting (XSS) vulnerability in Sun Java Server Faces (JSF),https://github.com/advisories/GHSA-vv6j-5x58-q2c3,https://bit.ly/3zo6Nfn
+GithubAdvisories,[GHSA-6vcc-v9vw-g2x5] Path Traversal in Git HTTP endpoints in Gogs,https://github.com/advisories/GHSA-6vcc-v9vw-g2x5,https://bit.ly/3mw2UgQ
+GithubAdvisories,[GHSA-67mx-jc2f-jgjm] OS Command Injection in file editor in Gogs,https://github.com/advisories/GHSA-67mx-jc2f-jgjm,https://bit.ly/394dS9Z
+GithubAdvisories,[GHSA-566x-hhrf-qf8m] ordered_float:NotNan may contain NaN after panic in assignment operators,https://github.com/advisories/GHSA-566x-hhrf-qf8m,https://bit.ly/3H4k66p
+GithubAdvisories,[GHSA-fvh3-4v5r-cvvc] Improper Authentication in Mortbay Jetty,https://github.com/advisories/GHSA-fvh3-4v5r-cvvc,https://bit.ly/3toaQnY
+GithubAdvisories,[GHSA-8xgx-75qw-6268] Improper privilege management in pyftpdlib,https://github.com/advisories/GHSA-8xgx-75qw-6268,https://bit.ly/3H3R5YD
+GithubAdvisories,[GHSA-cx59-cp6c-9fr8] pyftpdlib vulnerable to allocation of resources without limits,https://github.com/advisories/GHSA-cx59-cp6c-9fr8,https://bit.ly/3mvJ05t
+GithubAdvisories,[GHSA-5f3f-pg2c-cxcv] Improper Input Validation in pyftpdlib,https://github.com/advisories/GHSA-5f3f-pg2c-cxcv,https://bit.ly/3H3R6vF
+GithubAdvisories,[GHSA-9x66-ghqx-8g5r] Improper Authentication in pyftpdlib,https://github.com/advisories/GHSA-9x66-ghqx-8g5r,https://bit.ly/3mt1IKY
+GithubAdvisories,[GHSA-f8wg-36r9-7f4q] Directory Traversal in pyftpdlib,https://github.com/advisories/GHSA-f8wg-36r9-7f4q,https://bit.ly/3NNaBLe
+GithubAdvisories,[GHSA-rwf4-gx62-rqfw] `MsQueue` `push`/`pop` use the wrong orderings,https://github.com/advisories/GHSA-rwf4-gx62-rqfw,https://bit.ly/3tozh4W
+GithubAdvisories,[GHSA-3x3w-vcjx-7796] Cross-Site Request Forgery in easyii CMS,https://github.com/advisories/GHSA-3x3w-vcjx-7796,https://bit.ly/3NzloJa
+GithubAdvisories,[GHSA-vv7q-mfpc-qgm5] Unserialized Pop Chain in Laravel,https://github.com/advisories/GHSA-vv7q-mfpc-qgm5,https://bit.ly/3aGRZhj
+GithubAdvisories,[GHSA-v3c9-w6g2-hjg3] Cross-Site Request Forgery in XXL-Job,https://github.com/advisories/GHSA-v3c9-w6g2-hjg3,https://bit.ly/3xiTZUF
+GithubAdvisories,[GHSA-xq4v-vrp9-vcf2] Cross-site Scripting vulnerability in repository issue list in Gogs,https://github.com/advisories/GHSA-xq4v-vrp9-vcf2,https://bit.ly/3MybAxM
