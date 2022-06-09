@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pqwh-44jj-p5rm] Hostname verification in Apache HttpClient 4.3 was disabled by default,https://github.com/advisories/GHSA-pqwh-44jj-p5rm,https://bit.ly/3xEidud
+GithubAdvisories,[GHSA-wrvc-72w7-xpmj] Incorrect Comparison in sodiumoxide,https://github.com/advisories/GHSA-wrvc-72w7-xpmj,https://bit.ly/397KiAq
