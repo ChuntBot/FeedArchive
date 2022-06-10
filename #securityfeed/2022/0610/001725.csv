@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8p2c-fghc-9hj4] Improper input validation in pyftpdlib,https://github.com/advisories/GHSA-8p2c-fghc-9hj4,https://bit.ly/3HbrAEL
+GithubAdvisories,[GHSA-xh97-72ww-2w58] Improper Verification of Cryptographic Signature in google-oauth-java-client,https://github.com/advisories/GHSA-xh97-72ww-2w58,https://bit.ly/3mySoFr
+GithubAdvisories,[GHSA-x2pg-mjhr-2m5x] Exposure of Sensitive Information to an Unauthorized Actor in semantic-release,https://github.com/advisories/GHSA-x2pg-mjhr-2m5x,https://bit.ly/3NIqhj2
+GithubAdvisories,[GHSA-q6w2-jxcm-2crj] Improper Authentication in pyftpdlib,https://github.com/advisories/GHSA-q6w2-jxcm-2crj,https://bit.ly/3xlkqJn
+GithubAdvisories,[GHSA-jw88-wxv5-7c4f] Directory traversal in pyftpdlib,https://github.com/advisories/GHSA-jw88-wxv5-7c4f,https://bit.ly/3mzYZQ8
+GithubAdvisories,[GHSA-5gc4-cx9x-9c43] Code Injection in metacalc,https://github.com/advisories/GHSA-5gc4-cx9x-9c43,https://bit.ly/3xyjSBj
+GithubAdvisories,[GHSA-wjh9-344g-vc49] Cross-site Scripting in RosarioSIS,https://github.com/advisories/GHSA-wjh9-344g-vc49,https://bit.ly/3zseNfe
+GithubAdvisories,[GHSA-r48q-9g5r-8q2h] Authorization Bypass Through User-Controlled Key in go-restful,https://github.com/advisories/GHSA-r48q-9g5r-8q2h,https://bit.ly/3Hccj6p
+GithubAdvisories,[GHSA-f2g5-426f-353q] Cross-site Scripting in Dolibarr,https://github.com/advisories/GHSA-f2g5-426f-353q,https://bit.ly/3Qfwswu
+GithubAdvisories,[GHSA-f4q6-9qm4-h8j4] OS Command Injection in cookiecutter,https://github.com/advisories/GHSA-f4q6-9qm4-h8j4,https://bit.ly/3NDuW5H
+GithubAdvisories,[GHSA-9737-qmgc-hfr9] Directory Traversal in Apache Tomcat,https://github.com/advisories/GHSA-9737-qmgc-hfr9,https://bit.ly/3xzTV4s
+GithubAdvisories,[GHSA-64qm-hrgp-pgr9] Authorization header leak on port redirect in mechanize,https://github.com/advisories/GHSA-64qm-hrgp-pgr9,https://bit.ly/3H7tFl6
+GithubAdvisories,[GHSA-f2wf-25xc-69c9] Failure to strip the Cookie header on change in host or HTTP downgrade,https://github.com/advisories/GHSA-f2wf-25xc-69c9,https://bit.ly/3aTlLzN
+GithubAdvisories,[GHSA-w248-ffj2-4v5q] Fix failure to strip Authorization header on HTTP downgrade,https://github.com/advisories/GHSA-w248-ffj2-4v5q,https://bit.ly/3H7EC6e
