@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xwx5-5c9g-x68x] Ill-formed headers may lead to unexpected behavior in Istio,https://github.com/advisories/GHSA-xwx5-5c9g-x68x,https://bit.ly/3HcvbCo
+GithubAdvisories,[GHSA-j8c7-3jpq-8985] Cross-site Scripting in FacturaScripts,https://github.com/advisories/GHSA-j8c7-3jpq-8985,https://bit.ly/3aVa9fC
+GithubAdvisories,[GHSA-gm48-83x4-84jg] Server-side request forgery in Apache Dubbo,https://github.com/advisories/GHSA-gm48-83x4-84jg,https://bit.ly/3HjXzTd
+GithubAdvisories,[GHSA-x9jp-4w8m-4f3c] Cross Site Scripting vulnerability in django-jsonform's admin form,https://github.com/advisories/GHSA-x9jp-4w8m-4f3c,https://bit.ly/3xkTRUS
