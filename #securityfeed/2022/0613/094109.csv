@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+DebianSecurityNotice,DSA-5163 chromium,https://www.debian.org/security/2022/dsa-5163,https://bit.ly/3xoa2Ro
+DebianSecurityNotice,DSA-5162 containerd,https://www.debian.org/security/2022/dsa-5162,https://bit.ly/3aVqX5W
+DebianSecurityNotice,DSA-5161 linux,https://www.debian.org/security/2022/dsa-5161,https://bit.ly/3txipsN
