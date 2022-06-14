@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jf43-3v8j-qwwr] Data races in multiqueue,https://github.com/advisories/GHSA-jf43-3v8j-qwwr,https://bit.ly/3zCrIvb
+GithubAdvisories,[GHSA-4vhw-4rw7-jfpv] Path traversal in mozwire,https://github.com/advisories/GHSA-4vhw-4rw7-jfpv,https://bit.ly/3QoYvtK
+GithubAdvisories,[GHSA-7j44-fv4x-79g9] Improper Input Validation in once_cell,https://github.com/advisories/GHSA-7j44-fv4x-79g9,https://bit.ly/3OiEVNF
+GithubAdvisories,[GHSA-39xg-8p43-h76x] Data races in reffers,https://github.com/advisories/GHSA-39xg-8p43-h76x,https://bit.ly/3mPPzA6
+GithubAdvisories,[GHSA-f3fg-5j9p-vchc] File exposure in pleaser,https://github.com/advisories/GHSA-f3fg-5j9p-vchc,https://bit.ly/3MWx4Ep
+GithubAdvisories,[GHSA-vc5p-j8vw-mc6x] Permissions bypass in pleaser,https://github.com/advisories/GHSA-vc5p-j8vw-mc6x,https://bit.ly/3aZ6LAv
+GithubAdvisories,[GHSA-pp74-39w2-v4w9] Permissions bypass in pleaser,https://github.com/advisories/GHSA-pp74-39w2-v4w9,https://bit.ly/3xPSTBg
+GithubAdvisories,[GHSA-x4qm-mcjq-v2gf] Overflow in prost-types,https://github.com/advisories/GHSA-x4qm-mcjq-v2gf,https://bit.ly/3mPp9hE
+GithubAdvisories,[GHSA-r6ff-2q3c-v3pv] Compiler optimisation leads to SEGFAULT,https://github.com/advisories/GHSA-r6ff-2q3c-v3pv,https://bit.ly/3HpQeBz
+GithubAdvisories,[GHSA-w5cr-frph-hw7f] Use of uninitialized buffer in rkyv,https://github.com/advisories/GHSA-w5cr-frph-hw7f,https://bit.ly/3mPp9ya
+GithubAdvisories,[GHSA-vhfr-v4w9-45v8] Improper Input Validation in renderdoc,https://github.com/advisories/GHSA-vhfr-v4w9-45v8,https://bit.ly/3tw8407
+GithubAdvisories,[GHSA-hr3c-6mmp-6m39] Memory corruption slice-deque,https://github.com/advisories/GHSA-hr3c-6mmp-6m39,https://bit.ly/3QodRhW
+GithubAdvisories,[GHSA-83r8-p8v6-6gfm] Slock allows sending non-Send types across thread boundaries,https://github.com/advisories/GHSA-83r8-p8v6-6gfm,https://bit.ly/3MZpAAU
+GithubAdvisories,[GHSA-8892-84wf-cg8f] SyncChannel can move 'T: !Send' to other threads,https://github.com/advisories/GHSA-8892-84wf-cg8f,https://bit.ly/3mSXLiI
+GithubAdvisories,[GHSA-8mjx-h23h-w2pg] Double free in stack_dst,https://github.com/advisories/GHSA-8mjx-h23h-w2pg,https://bit.ly/3NT4tBo
+GithubAdvisories,[GHSA-45w7-7g63-2m5w] Drop of uninitialized memory in stack_dst,https://github.com/advisories/GHSA-45w7-7g63-2m5w,https://bit.ly/3HD78gp
+GithubAdvisories,[GHSA-xm9m-2vj8-fmfr] Uninitialized memory access in toodee,https://github.com/advisories/GHSA-xm9m-2vj8-fmfr,https://bit.ly/3xMw8hH
+GithubAdvisories,[GHSA-wcvp-r8j8-47pc] Double free in toodee,https://github.com/advisories/GHSA-wcvp-r8j8-47pc,https://bit.ly/3mKXBu3
