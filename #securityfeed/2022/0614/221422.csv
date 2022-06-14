@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3885-8gqc-3wpf] Potential leak of NuGet.org API key,https://github.com/advisories/GHSA-3885-8gqc-3wpf,https://bit.ly/3zCxqND
