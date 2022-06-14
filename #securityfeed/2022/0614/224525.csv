@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ghpq-vjxw-ch5w] Use after free in libpulse-binding,https://github.com/advisories/GHSA-ghpq-vjxw-ch5w,https://bit.ly/3xrD4iU
+GithubAdvisories,[GHSA-6vmq-jh76-hq43] Uninitialized memory access in outer_cgi,https://github.com/advisories/GHSA-6vmq-jh76-hq43,https://bit.ly/3zDMYk4
