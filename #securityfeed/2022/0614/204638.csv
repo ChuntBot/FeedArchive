@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-62jx-8vmh-4mcw] Path trav in tar,https://github.com/advisories/GHSA-62jx-8vmh-4mcw,https://bit.ly/3O5Stw6
+GithubAdvisories,[GHSA-m296-j53x-xv95] Data races in tiny_future,https://github.com/advisories/GHSA-m296-j53x-xv95,https://bit.ly/3Oe3VWC
+GithubAdvisories,[GHSA-gq4h-f254-7cw9] Data races in ticketed_lock,https://github.com/advisories/GHSA-gq4h-f254-7cw9,https://bit.ly/3xvnbbl
+GithubAdvisories,[GHSA-r88h-6987-g79f] Data races on syncpool,https://github.com/advisories/GHSA-r88h-6987-g79f,https://bit.ly/3tAuwVZ
+GithubAdvisories,[GHSA-2grh-hm3w-w7hv] Race condition in tokio,https://github.com/advisories/GHSA-2grh-hm3w-w7hv,https://bit.ly/3xQJMR6
+GithubAdvisories,[GHSA-hpcx-3pw8-g3j2] Free of uninitialized memory in telemetry,https://github.com/advisories/GHSA-hpcx-3pw8-g3j2,https://bit.ly/3mL0meI
+GithubAdvisories,[GHSA-c8hq-x4mm-p6q6] Memory handling issues in xcb,https://github.com/advisories/GHSA-c8hq-x4mm-p6q6,https://bit.ly/3Qzb8CH
+GithubAdvisories,[GHSA-3288-cwgw-ch86] Unchecked Return Value in xcb,https://github.com/advisories/GHSA-3288-cwgw-ch86,https://bit.ly/3zDBNrN
+GithubAdvisories,[GHSA-2xpg-3hx4-fm9r] Out of bounds read in xcb,https://github.com/advisories/GHSA-2xpg-3hx4-fm9r,https://bit.ly/39rHxu1
+GithubAdvisories,[GHSA-3cj3-jrrp-9rxf] Unchecked Return Value in xcb,https://github.com/advisories/GHSA-3cj3-jrrp-9rxf,https://bit.ly/3xPbQUM
+GithubAdvisories,[GHSA-mp6r-fgw2-rxfx] Multiple soundness issues,https://github.com/advisories/GHSA-mp6r-fgw2-rxfx,https://bit.ly/3NRtUDp
