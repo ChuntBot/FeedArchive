@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2gqg-2rg7-gh33] Cross site scripting in librenms,https://github.com/advisories/GHSA-2gqg-2rg7-gh33,https://bit.ly/3OebEUz
+GithubAdvisories,[GHSA-vq23-5h4f-vwpv] Update unsound DrainFilter and RString::retain,https://github.com/advisories/GHSA-vq23-5h4f-vwpv,https://bit.ly/3NUogAd
+GithubAdvisories,[GHSA-wqxc-qrq4-w5v4] Update unsound DrainFilter and RString::retain,https://github.com/advisories/GHSA-wqxc-qrq4-w5v4,https://bit.ly/3Hu149z
+GithubAdvisories,[GHSA-qj3v-q2vj-4c8h] Calculation error in ark-r1cs-std,https://github.com/advisories/GHSA-qj3v-q2vj-4c8h,https://bit.ly/3HrrI2Y
+GithubAdvisories,[GHSA-x67x-vg9m-65c3] Integer overflow in base64,https://github.com/advisories/GHSA-x67x-vg9m-65c3,https://bit.ly/3Qo1d2B
+GithubAdvisories,[GHSA-w65j-g6c7-g3m4] Multiple memory safety issues in actix-web,https://github.com/advisories/GHSA-w65j-g6c7-g3m4,https://bit.ly/3MUVdeN
+GithubAdvisories,[GHSA-f3mq-99jr-ww4r] Multiple mutable pointers in cgc,https://github.com/advisories/GHSA-f3mq-99jr-ww4r,https://bit.ly/3xxRGNI
