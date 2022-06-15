@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-48vq-8jqv-gm6f] Remote memory exhaustion in ckb,https://github.com/advisories/GHSA-48vq-8jqv-gm6f,https://bit.ly/3MUQDND
+GithubAdvisories,[GHSA-gx73-2498-r55c] Unsound casting in flatbuffers,https://github.com/advisories/GHSA-gx73-2498-r55c,https://bit.ly/3tCFjPt
+GithubAdvisories,[GHSA-8xw8-mmqv-frqq] fake-static allows converting any reference into a `'static` reference,https://github.com/advisories/GHSA-8xw8-mmqv-frqq,https://bit.ly/3xyqGh2
+GithubAdvisories,[GHSA-g4xg-fxmg-vcg5] OS command injection in ripgrep,https://github.com/advisories/GHSA-g4xg-fxmg-vcg5,https://bit.ly/3HrLRpG
+GithubAdvisories,[GHSA-q89x-f52w-6hj2] Headers containing newline characters can split messages in hyper,https://github.com/advisories/GHSA-q89x-f52w-6hj2,https://bit.ly/3Hpc8Fc
+GithubAdvisories,[GHSA-6rhx-hqxm-8p36] Double free in http,https://github.com/advisories/GHSA-6rhx-hqxm-8p36,https://bit.ly/3MSXozp
+GithubAdvisories,[GHSA-jjx5-3f36-6927] Incorrect buffer size calculation in iced-x86,https://github.com/advisories/GHSA-jjx5-3f36-6927,https://bit.ly/3xTcReq
+GithubAdvisories,[GHSA-7cqg-8449-rmfv] Observable Discrepancy in libsecp256k1-rs,https://github.com/advisories/GHSA-7cqg-8449-rmfv,https://bit.ly/39rtIvz
+GithubAdvisories,[GHSA-9wgh-vjj7-7433] Mutable reference with immutable provenance in image,https://github.com/advisories/GHSA-9wgh-vjj7-7433,https://bit.ly/39qUc0l
