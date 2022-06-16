@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] SolarView Compact 6.00 - 'pow' Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50968,https://bit.ly/3HK7FND
+ExploitDB,[webapps] SolarView Compact 6.00 - 'time_begin' Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50967,https://bit.ly/3HK7Fx7
+ExploitDB,[webapps] Old Age Home Management System 1.0 - SQLi Authentication Bypass,https://www.exploit-db.com/exploits/50966,https://bit.ly/3mZPDNq
+ExploitDB,[webapps] ChurchCRM 4.4.5 - SQLi,https://www.exploit-db.com/exploits/50965,https://bit.ly/3HK7GBb
+ExploitDB,[remote] Sourcegraph Gitserver 3.36.3 - Remote Code Execution (RCE),https://www.exploit-db.com/exploits/50964,https://bit.ly/3xU7zzx
+ExploitDB,[webapps] phpIPAM 1.4.5 - Remote Code Execution (RCE) (Authenticated),https://www.exploit-db.com/exploits/50963,https://bit.ly/3tFvtMw
+ExploitDB,[remote] TP-Link Router AX50 firmware 210730 - Remote Code Execution (RCE) (Authenticated),https://www.exploit-db.com/exploits/50962,https://bit.ly/3xyabSb
+ExploitDB,[webapps] Pandora FMS v7.0NG.742 - Remote Code Execution (RCE) (Authenticated),https://www.exploit-db.com/exploits/50961,https://bit.ly/3zN4P8B
+ExploitDB,[remote] Algo 8028 Control Panel - Remote Code Execution (RCE) (Authenticated),https://www.exploit-db.com/exploits/50960,https://bit.ly/3Oh4TBk
+ExploitDB,[local] HP LaserJet Professional M1210 MFP Series Receive Fax Service - Unquoted Service Path,https://www.exploit-db.com/exploits/50959,https://bit.ly/3HwrdF5
+ExploitDB,[remote] Virtua Software Cobranca 12S - SQLi,https://www.exploit-db.com/exploits/50958,https://bit.ly/3HK7G49
+ExploitDB,[remote] Marval MSM v14.19.0.12476 - Cross-Site Request Forgery (CSRF),https://www.exploit-db.com/exploits/50957,https://bit.ly/3Oo6VQh
+ExploitDB,[remote] Marval MSM v14.19.0.12476 - Remote Code Execution (RCE) (Authenticated),https://www.exploit-db.com/exploits/50956,https://bit.ly/3Oh4U8m
+ExploitDB,[webapps] Avantune Genialcloud ProJ 10 - Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50955,https://bit.ly/3xU0krk
+ExploitDB,[local] Real Player 16.0.3.51 - 'external::Import()' Directory Traversal to Remote Code Execution (RCE),https://www.exploit-db.com/exploits/50954,https://bit.ly/3xVbsnU
+ExploitDB,[local] Real Player v.20.0.8.310 G2 Control - 'DoGoToURL()' Remote Code Execution (RCE),https://www.exploit-db.com/exploits/50953,https://bit.ly/39yDrQP
