@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gp39-qj5f-43qv] Cross Site Request Forgery in Mingsoft MCMS,https://github.com/advisories/GHSA-gp39-qj5f-43qv,https://bit.ly/3OChfnZ
+GithubAdvisories,[GHSA-77xc-hjv8-ww97] AutoUpdater module fails to validate certain nested components of the bundle,https://github.com/advisories/GHSA-77xc-hjv8-ww97,https://bit.ly/3tG7X1W
+GithubAdvisories,[GHSA-mq8j-3h7h-p8g7] Compromised child renderer processes could obtain IPC access without nodeIntegrationInSubFrames being enabled,https://github.com/advisories/GHSA-mq8j-3h7h-p8g7,https://bit.ly/3y0ew2c
+GithubAdvisories,[GHSA-q874-g24w-4q9g] Token bruteforcing,https://github.com/advisories/GHSA-q874-g24w-4q9g,https://bit.ly/3tEFREc
+GithubAdvisories,[GHSA-v7vq-3x77-87vg] Token bruteforcing,https://github.com/advisories/GHSA-v7vq-3x77-87vg,https://bit.ly/3QumWFW
+GithubAdvisories,[GHSA-gfg9-x6px-r7gr] Library exclusively intended to obfuscate code,https://github.com/advisories/GHSA-gfg9-x6px-r7gr,https://bit.ly/3b3uhMA
+GithubAdvisories,[GHSA-xvc9-xwgj-4cq9] Integer Overflow in HeaderMap::reserve() can cause Denial of Service,https://github.com/advisories/GHSA-xvc9-xwgj-4cq9,https://bit.ly/3OjwMZr
+GithubAdvisories,[GHSA-jq66-xh47-j9f3] Type confusion if __private_get_type_id__ is overriden,https://github.com/advisories/GHSA-jq66-xh47-j9f3,https://bit.ly/3Oja17V
