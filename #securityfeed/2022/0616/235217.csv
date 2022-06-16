@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8gj8-hv75-gp94] `SegQueue` creates zero value of any type,https://github.com/advisories/GHSA-8gj8-hv75-gp94,https://bit.ly/39CrxW1
+GithubAdvisories,[GHSA-j8q9-5rp9-4mv9] Fix a use-after-free bug in diesels Sqlite backend,https://github.com/advisories/GHSA-j8q9-5rp9-4mv9,https://bit.ly/3xYov7Y
+GithubAdvisories,[GHSA-6888-wf7j-34jq] `SegQueue` creates zero value of any type,https://github.com/advisories/GHSA-6888-wf7j-34jq,https://bit.ly/3mXruak
+GithubAdvisories,[GHSA-9g55-pg62-m8hh] Channel creates zero value of any type,https://github.com/advisories/GHSA-9g55-pg62-m8hh,https://bit.ly/3OpFl5f
+GithubAdvisories,[GHSA-cxcc-q839-2cw9] columnar: `Read` on uninitialized buffer may cause UB (ColumnarReadExt::read_typed_vec()),https://github.com/advisories/GHSA-cxcc-q839-2cw9,https://bit.ly/3u3EwHB
+GithubAdvisories,[GHSA-cqpr-pcm7-m3jc] Potential segfault in `localtime_r` invocations,https://github.com/advisories/GHSA-cqpr-pcm7-m3jc,https://bit.ly/3mTjQ0D
+GithubAdvisories,[GHSA-5v8v-66v8-mwm7] Integer overflow in the bundled Brotli C library,https://github.com/advisories/GHSA-5v8v-66v8-mwm7,https://bit.ly/3xSEhAf
+GithubAdvisories,[GHSA-hmx9-jm3v-33hv] InputStream::read_exact : `Read` on uninitialized buffer causes UB,https://github.com/advisories/GHSA-hmx9-jm3v-33hv,https://bit.ly/3mWAexG
+GithubAdvisories,[GHSA-5phc-849h-vcxg] `Read` on uninitialized buffer can cause UB (impl of `ReadKVExt`),https://github.com/advisories/GHSA-5phc-849h-vcxg,https://bit.ly/3tFA7tQ
+GithubAdvisories,[GHSA-c8rq-crxj-mj9m] Async-h1 request smuggling possible with long unread bodies,https://github.com/advisories/GHSA-c8rq-crxj-mj9m,https://bit.ly/3QtOknN
+GithubAdvisories,[GHSA-72r2-rg28-47v9] `read` on uninitialized buffer may cause UB (bite::read::BiteReadExpandedExt::read_framed_max),https://github.com/advisories/GHSA-72r2-rg28-47v9,https://bit.ly/3xuQAm1
+GithubAdvisories,[GHSA-c6px-4grw-hrjr] 'Read' on uninitialized memory may cause UB,https://github.com/advisories/GHSA-c6px-4grw-hrjr,https://bit.ly/3tEJ6vm
+GithubAdvisories,[GHSA-5j8w-r7g8-5472] Arrow2 allows double free in `safe` code,https://github.com/advisories/GHSA-5j8w-r7g8-5472,https://bit.ly/3xASph8
+GithubAdvisories,[GHSA-qgrp-8f3v-q85p] `FixedSizeBinaryArray` does not perform bound checks on accessing values and offsets,https://github.com/advisories/GHSA-qgrp-8f3v-q85p,https://bit.ly/3QuqoQU
+GithubAdvisories,[GHSA-h588-76vg-prgj] `DecimalArray` does not perform bound checks on accessing values and offsets,https://github.com/advisories/GHSA-h588-76vg-prgj,https://bit.ly/3zK8Iei
+GithubAdvisories,[GHSA-qj69-c89v-jwq2] Reading on uninitialized memory may cause UB ( `util::read_spv()` ),https://github.com/advisories/GHSA-qj69-c89v-jwq2,https://bit.ly/3xUadVT
+GithubAdvisories,[GHSA-r7cj-wmwv-hfw5] `BinaryArray` does not perform bound checks on reading values and offsets,https://github.com/advisories/GHSA-r7cj-wmwv-hfw5,https://bit.ly/39uR83l
+GithubAdvisories,[GHSA-7v4j-8wvr-v55r] `array!` macro is unsound when its length is impure constant,https://github.com/advisories/GHSA-7v4j-8wvr-v55r,https://bit.ly/3xBhKaD
+GithubAdvisories,[GHSA-83gg-pwxf-jr89] `array!` macro is unsound in presence of traits that implement methods it calls internally,https://github.com/advisories/GHSA-83gg-pwxf-jr89,https://bit.ly/3xWVoSl
+GithubAdvisories,[GHSA-p2g9-94wh-65c2] Space bug in `clean_text`,https://github.com/advisories/GHSA-p2g9-94wh-65c2,https://bit.ly/3tGR3jH
+GithubAdvisories,[GHSA-hv9v-7w3v-rj6f] `Read` on uninitialized buffer in `fill_buf()` and `read_up_to()`,https://github.com/advisories/GHSA-hv9v-7w3v-rj6f,https://bit.ly/3xvd5r2
+GithubAdvisories,[GHSA-hfxp-p695-629x] abomonation transmutes &T to and from &[u8] without sufficient constraints,https://github.com/advisories/GHSA-hfxp-p695-629x,https://bit.ly/3tFBj0x
+GithubAdvisories,[GHSA-cpqj-r29q-chrh] Loading a bgzip block can write out of bounds if size overflows,https://github.com/advisories/GHSA-cpqj-r29q-chrh,https://bit.ly/3mSABcr
+GithubAdvisories,[GHSA-9pqx-g3jh-qpqq] Dangling reference in `access::Map` with Constant,https://github.com/advisories/GHSA-9pqx-g3jh-qpqq,https://bit.ly/3QrlmF6
+GithubAdvisories,[GHSA-p9xf-3rm3-qh2h] User account mismanagment in wildfly-core,https://github.com/advisories/GHSA-p9xf-3rm3-qh2h,https://bit.ly/3xWb2NU
