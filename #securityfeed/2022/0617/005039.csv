@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-27mx-gchc-6xjp] Unhandled crash in npm posix,https://github.com/advisories/GHSA-27mx-gchc-6xjp,https://bit.ly/3xxB7l8
+GithubAdvisories,[GHSA-75rw-34q6-72cr] Signature forgery in Biscuit,https://github.com/advisories/GHSA-75rw-34q6-72cr,https://bit.ly/3xwZhfp
+GithubAdvisories,[GHSA-w227-xcfx-3pj8] Exposure of Sensitive Information in Apache Tomcat,https://github.com/advisories/GHSA-w227-xcfx-3pj8,https://bit.ly/3Qvmszp
+GithubAdvisories,[GHSA-r45x-ghr2-qjxc] `#[zeroize(drop)]` doesn't implement `Drop` for `enum`s,https://github.com/advisories/GHSA-r45x-ghr2-qjxc,https://bit.ly/3xYRh8x
+GithubAdvisories,[GHSA-x4mq-m75f-mx8m] Delegate functions are missing `Send` bound,https://github.com/advisories/GHSA-x4mq-m75f-mx8m,https://bit.ly/39ytK4Y
+GithubAdvisories,[GHSA-jmwx-r3gq-qq3p] vec-const attempts to construct a Vec from a pointer to a const slice,https://github.com/advisories/GHSA-jmwx-r3gq-qq3p,https://bit.ly/3zIaJYk
+GithubAdvisories,[GHSA-3pp4-64mp-9cg9] Memory Safety Issue when using `patch` or `merge` on `state` and assign the result back to `state`,https://github.com/advisories/GHSA-3pp4-64mp-9cg9,https://bit.ly/3zHIEAt
+GithubAdvisories,[GHSA-wwh2-r387-g5rm] Improper validation of Windows paths could lead to directory traversal attack,https://github.com/advisories/GHSA-wwh2-r387-g5rm,https://bit.ly/3Of5kfi
+GithubAdvisories,[GHSA-9hpw-r23r-xgm5] Data race in `Iter` and `IterMut`,https://github.com/advisories/GHSA-9hpw-r23r-xgm5,https://bit.ly/3xzTbed
+GithubAdvisories,[GHSA-6692-8qqf-79jc] `Read` on uninitialized buffer may cause UB ('tectonic_xdv' crate),https://github.com/advisories/GHSA-6692-8qqf-79jc,https://bit.ly/3aVnGDO
+GithubAdvisories,[GHSA-3qm2-rfqw-fmrw] move_elements can double-free objects on panic,https://github.com/advisories/GHSA-3qm2-rfqw-fmrw,https://bit.ly/3xwOi5K
