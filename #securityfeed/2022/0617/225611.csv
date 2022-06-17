@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vpr3-f594-mg5g] Improper Control of Generation of Code ('Code Injection') in Spring Framework,https://github.com/advisories/GHSA-vpr3-f594-mg5g,https://bit.ly/3Om85LZ
+GithubAdvisories,[GHSA-w6q7-ww2x-7gm3] Exposure of Sensitive Information to an Unauthorized Actor in Apache Tomcat,https://github.com/advisories/GHSA-w6q7-ww2x-7gm3,https://bit.ly/3OhOigA
+GithubAdvisories,[GHSA-3mwg-gp5g-fv3q] Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in feedparser,https://github.com/advisories/GHSA-3mwg-gp5g-fv3q,https://bit.ly/3HwhL4m
+GithubAdvisories,[GHSA-8gv6-x88p-3f6h] Uncontrolled Resource Consumption in pyftpdlib,https://github.com/advisories/GHSA-8gv6-x88p-3f6h,https://bit.ly/3bb2n1h
+GithubAdvisories,[GHSA-h4g7-8m7r-87r9] Improper Access Control in pyftpdlib,https://github.com/advisories/GHSA-h4g7-8m7r-87r9,https://bit.ly/3n0hUn6
+GithubAdvisories,[GHSA-62xg-239j-vxg7] Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition') in pyftpdlib,https://github.com/advisories/GHSA-62xg-239j-vxg7,https://bit.ly/3mW8V6n
