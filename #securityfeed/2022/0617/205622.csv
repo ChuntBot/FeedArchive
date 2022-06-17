@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3r95-23jp-mhvg] Cross-Site Scripting in Form Framework,https://github.com/advisories/GHSA-3r95-23jp-mhvg,https://bit.ly/3HyG01S
+GithubAdvisories,[GHSA-fh99-4pgr-8j99] Insertion of Sensitive Information into Log File in typo3/cms-core,https://github.com/advisories/GHSA-fh99-4pgr-8j99,https://bit.ly/3xZfcob
+GithubAdvisories,[GHSA-8gmv-9hwg-w89g] Information Disclosure via Export Module,https://github.com/advisories/GHSA-8gmv-9hwg-w89g,https://bit.ly/3Hw2dOa
+GithubAdvisories,[GHSA-hprf-rrwq-jm5c] Plaintext Storage of Keys and Passwords in Rundeck and PagerDuty Process Automation,https://github.com/advisories/GHSA-hprf-rrwq-jm5c,https://bit.ly/3y14jSY
+GithubAdvisories,[GHSA-53xj-v576-3ch2] OS Command Injection in giting,https://github.com/advisories/GHSA-53xj-v576-3ch2,https://bit.ly/3sd87KH
