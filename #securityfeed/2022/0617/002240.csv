@@ -1,0 +1,40 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-43w2-9j62-hq99] Buffer overflow in SmallVec::insert_many,https://github.com/advisories/GHSA-43w2-9j62-hq99,https://bit.ly/3O3y3Ec
+GithubAdvisories,[GHSA-3m6f-3gfg-4x56] Panic on incorrect date input to `simple_asn1`,https://github.com/advisories/GHSA-3m6f-3gfg-4x56,https://bit.ly/3N7fsGk
+GithubAdvisories,[GHSA-xpww-g9jx-hp8r] Miscomputed sha2 results when using AVX2 backend,https://github.com/advisories/GHSA-xpww-g9jx-hp8r,https://bit.ly/3N164DX
+GithubAdvisories,[GHSA-978j-88f3-p5j3] Threshold value is ignored (all shares are n=3),https://github.com/advisories/GHSA-978j-88f3-p5j3,https://bit.ly/3tFpLu6
+GithubAdvisories,[GHSA-2226-4v3c-cff8] Stack overflow in rustc_serialize when parsing deeply nested JSON,https://github.com/advisories/GHSA-2226-4v3c-cff8,https://bit.ly/3QqHNdg
+GithubAdvisories,[GHSA-cgw6-f3mj-h742] RustEmbed generated `get` method allows for directory traversal when reading files from disk,https://github.com/advisories/GHSA-cgw6-f3mj-h742,https://bit.ly/3OmiG9W
+GithubAdvisories,[GHSA-jp3w-3q88-34cf] Miscomputation when performing AES encryption in rust-crypto,https://github.com/advisories/GHSA-jp3w-3q88-34cf,https://bit.ly/3O4hJDs
+GithubAdvisories,[GHSA-q89g-4vhh-mvvm] Incorrect Lifetime Bounds on Closures in `rusqlite`,https://github.com/advisories/GHSA-q89g-4vhh-mvvm,https://bit.ly/3Qtr6xS
+GithubAdvisories,[GHSA-jf5h-cf95-w759] Optional `Deserialize` implementations lacking validation,https://github.com/advisories/GHSA-jf5h-cf95-w759,https://bit.ly/3MY5dUG
+GithubAdvisories,[GHSA-9c9f-7x9p-4wqp] A malicious coder can get unsound access to TCell or TLCell memory,https://github.com/advisories/GHSA-9c9f-7x9p-4wqp,https://bit.ly/3b6I5pu
+GithubAdvisories,[GHSA-68p4-pjpf-xwcq] insert_slice_clone can double drop if Clone panics,https://github.com/advisories/GHSA-68p4-pjpf-xwcq,https://bit.ly/3OoPEq9
+GithubAdvisories,[GHSA-q579-9wp9-gfp2] Window can read out of bounds if Read instance returns more bytes than buffer size,https://github.com/advisories/GHSA-q579-9wp9-gfp2,https://bit.ly/3O4hSqu
+GithubAdvisories,[GHSA-wgrg-5h56-jg27] Out-of-bounds write in nix::unistd::getgrouplist,https://github.com/advisories/GHSA-wgrg-5h56-jg27,https://bit.ly/3tEMDtC
+GithubAdvisories,[GHSA-8mj7-wxmc-f424] Use after free in Neon external buffers,https://github.com/advisories/GHSA-8mj7-wxmc-f424,https://bit.ly/3tGeslm
+GithubAdvisories,[GHSA-p6gj-gpc8-f8xw] Aliased mutable references from `tls_rand` & `TlsWyRand`,https://github.com/advisories/GHSA-p6gj-gpc8-f8xw,https://bit.ly/3b6Ka55
+GithubAdvisories,[GHSA-3hxh-7jxm-59x4] AtomicBucket unconditionally implements Send/Sync,https://github.com/advisories/GHSA-3hxh-7jxm-59x4,https://bit.ly/3Hw79m6
+GithubAdvisories,[GHSA-8mv5-7x95-7wcf] `mopa` is technically unsound,https://github.com/advisories/GHSA-8mv5-7x95-7wcf,https://bit.ly/3HtjUhn
+GithubAdvisories,[GHSA-m325-rxjv-pwph] Deserialization functions pass uninitialized memory to user-provided Read,https://github.com/advisories/GHSA-m325-rxjv-pwph,https://bit.ly/3Qsh9AH
+GithubAdvisories,[GHSA-qqmc-hwqp-8g2w] Use after free in lru crate,https://github.com/advisories/GHSA-qqmc-hwqp-8g2w,https://bit.ly/3N34hhA
+GithubAdvisories,[GHSA-q9wj-f4qw-6vfj] Read buffer overruns processing ASN.1 strings,https://github.com/advisories/GHSA-q9wj-f4qw-6vfj,https://bit.ly/3HyhYE1
+GithubAdvisories,[GHSA-5ww6-px42-wc85] SM2 Decryption Buffer Overflow,https://github.com/advisories/GHSA-5ww6-px42-wc85,https://bit.ly/3HtjTKl
+GithubAdvisories,[GHSA-mfm6-r9g2-q4r7] `OCSP_basic_verify` may incorrectly verify the response signing certificate,https://github.com/advisories/GHSA-mfm6-r9g2-q4r7,https://bit.ly/3NYHxk1
+GithubAdvisories,[GHSA-g323-fr93-4j3c] Resource leakage when decoding certificates and keys,https://github.com/advisories/GHSA-g323-fr93-4j3c,https://bit.ly/3b2OGkW
+GithubAdvisories,[GHSA-638m-m8mh-7gw2] Incorrect MAC key used in the RC4-MD5 ciphersuite,https://github.com/advisories/GHSA-638m-m8mh-7gw2,https://bit.ly/3tCe7Ac
+GithubAdvisories,[GHSA-mmjf-f5jw-w72q] Invalid handling of `X509_verify_cert()` internal errors in libssl,https://github.com/advisories/GHSA-mmjf-f5jw-w72q,https://bit.ly/3MZg8xj
+GithubAdvisories,[GHSA-wc36-xgcc-jwpr] Failure to verify the public key of a `SignedEnvelope` against the `PeerId` in a `PeerRecord`,https://github.com/advisories/GHSA-wc36-xgcc-jwpr,https://bit.ly/3b0L42R
+GithubAdvisories,[GHSA-f67m-9j94-qv9j] Parser creates invalid uninitialized value,https://github.com/advisories/GHSA-f67m-9j94-qv9j,https://bit.ly/3HKRBex
+GithubAdvisories,[GHSA-28p5-7rg4-8v99] Reading on uninitialized buffer may cause UB ( `gfx_auxil::read_spirv()` ),https://github.com/advisories/GHSA-28p5-7rg4-8v99,https://bit.ly/3QvZlFc
+GithubAdvisories,[GHSA-p9m5-3hj7-cp5r] futures_task::noop_waker_ref can segfault due to dereferencing a NULL pointer,https://github.com/advisories/GHSA-p9m5-3hj7-cp5r,https://bit.ly/3tFrXC6
+GithubAdvisories,[GHSA-r93v-9p5q-vhpf] futures_task::waker may cause a use-after-free if used on a type that isn't 'static,https://github.com/advisories/GHSA-r93v-9p5q-vhpf,https://bit.ly/3tFLVfZ
+GithubAdvisories,[GHSA-5r9g-j7jj-hw6c] Improper `Sync` implementation on `FuturesUnordered` in futures-utils can cause data corruption,https://github.com/advisories/GHSA-5r9g-j7jj-hw6c,https://bit.ly/3N0DDpM
+GithubAdvisories,[GHSA-rh4w-94hh-9943] MutexGuard::map can cause a data race in safe code,https://github.com/advisories/GHSA-rh4w-94hh-9943,https://bit.ly/3Hxbk19
+GithubAdvisories,[GHSA-p56p-gq3f-whg8] `Read` on uninitialized buffer may cause UB ( `read_entry()` ),https://github.com/advisories/GHSA-p56p-gq3f-whg8,https://bit.ly/3HtjUOp
+GithubAdvisories,[GHSA-3jch-9qgp-4844] Generated code can read and write out of bounds in safe code,https://github.com/advisories/GHSA-3jch-9qgp-4844,https://bit.ly/3Hw7aqa
+GithubAdvisories,[GHSA-rxhx-9fj6-6h2m] enum_map macro can cause UB when `Enum` trait is incorrectly implemented,https://github.com/advisories/GHSA-rxhx-9fj6-6h2m,https://bit.ly/3b7VmOM
+GithubAdvisories,[GHSA-9rg7-3j4f-cf4x] QueryInterface should call AddRef before returning pointer,https://github.com/advisories/GHSA-9rg7-3j4f-cf4x,https://bit.ly/3tIY6Zs
+GithubAdvisories,[GHSA-mpg5-fvwp-42m2] Unsoundness in `dashmap` references,https://github.com/advisories/GHSA-mpg5-fvwp-42m2,https://bit.ly/3aUrkhd
+GithubAdvisories,[GHSA-r67p-m7g9-gxw6] `Read` on uninitialized memory may cause UB (fn preamble_skipcount()),https://github.com/advisories/GHSA-r67p-m7g9-gxw6,https://bit.ly/3b3BhZS
+GithubAdvisories,[GHSA-pmcv-mgcf-rvxg] Non-aligned u32 read in Chacha20 encryption and decryption,https://github.com/advisories/GHSA-pmcv-mgcf-rvxg,https://bit.ly/3NZsyGB
