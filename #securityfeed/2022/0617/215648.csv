@@ -1,0 +1,28 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rc57-9r3x-98cq] XML External Entity Reference in drools,https://github.com/advisories/GHSA-rc57-9r3x-98cq,https://bit.ly/3N0cwLy
+GithubAdvisories,[GHSA-jwvw-v7c5-m82h] protobuf susceptible to buffer overflow,https://github.com/advisories/GHSA-jwvw-v7c5-m82h,https://bit.ly/3QwK6vC
+GithubAdvisories,[GHSA-85q9-7467-r53q] XSS Vulnerability in Markdown Editor,https://github.com/advisories/GHSA-85q9-7467-r53q,https://bit.ly/3O6VPzs
+GithubAdvisories,[GHSA-6978-4w92-428p] Backdoor in api-res-py,https://github.com/advisories/GHSA-6978-4w92-428p,https://bit.ly/3b85G9o
+GithubAdvisories,[GHSA-77hf-23pq-2g7c] Code injection in Apache NiFi and NiFi Registry,https://github.com/advisories/GHSA-77hf-23pq-2g7c,https://bit.ly/3zKHKmI
+GithubAdvisories,[GHSA-q56h-x9h5-q53c] Server-Side Request Forgery in kityminder,https://github.com/advisories/GHSA-q56h-x9h5-q53c,https://bit.ly/3N3N8V7
+GithubAdvisories,[GHSA-gvxv-p9rv-gmcg] Cross-Site Scripting,https://github.com/advisories/GHSA-gvxv-p9rv-gmcg,https://bit.ly/3QtuQ2v
+GithubAdvisories,[GHSA-58jx-f5rf-qgqf] User account escalation in Apache Hadoop,https://github.com/advisories/GHSA-58jx-f5rf-qgqf,https://bit.ly/3HwrdF1
+GithubAdvisories,[GHSA-vhfw-v69p-crcw] Uncontrolled Resource Consumption in OPCFoundation.NetStandard.Opc.Ua,https://github.com/advisories/GHSA-vhfw-v69p-crcw,https://bit.ly/3Hwrec3
+GithubAdvisories,[GHSA-374w-gwqr-fmxg] Cross-Site Scripting,https://github.com/advisories/GHSA-374w-gwqr-fmxg,https://bit.ly/3zLaDiz
+GithubAdvisories,[GHSA-r7pq-3x6p-7jcm] Memory Allocation with Excessive Size Value in OPCFoundation.NetStandard.Opc.Ua,https://github.com/advisories/GHSA-r7pq-3x6p-7jcm,https://bit.ly/3HwrdVx
+GithubAdvisories,[GHSA-fvxf-r9fw-49pc] Incorrect Implementation of Authentication Algorithm in OPCFoundation.NetStandard.Opc.Ua,https://github.com/advisories/GHSA-fvxf-r9fw-49pc,https://bit.ly/3yattih
+GithubAdvisories,[GHSA-6fp8-cxc9-4fr9] Uncontrolled Resource Consumption in OPCFoundation.NetStandard.Opc.Ua,https://github.com/advisories/GHSA-6fp8-cxc9-4fr9,https://bit.ly/3mYlKNC
+GithubAdvisories,[GHSA-5q2v-6j86-5h9v] Security Update for the OPC UA .NET Standard Stack,https://github.com/advisories/GHSA-5q2v-6j86-5h9v,https://bit.ly/3QrMMul
+GithubAdvisories,"[GHSA-77mv-4rg7-r8qv] Potential Sensitive Cookie Exposure in NPM Packages @finastra/nestjs-proxy, @ffdc/nestjs-proxy",https://github.com/advisories/GHSA-77mv-4rg7-r8qv,https://bit.ly/3Hwrfg7
+GithubAdvisories,"[GHSA-j562-c3cw-3p5g] Potential Authorization Header Exposure in NPM Packages @finastra/nestjs-proxy, @ffdc/nestjs-proxy",https://github.com/advisories/GHSA-j562-c3cw-3p5g,https://bit.ly/3MVpEl2
+GithubAdvisories,[GHSA-4rjr-3gj2-5crq] Exposure of Sensitive Information to an Unauthorized Actor in MongoDB Rust Driver,https://github.com/advisories/GHSA-4rjr-3gj2-5crq,https://bit.ly/3b9AiqV
+GithubAdvisories,[GHSA-34hf-g744-jw64] Denial of service attack in i18n,https://github.com/advisories/GHSA-34hf-g744-jw64,https://bit.ly/3QuAZLN
+GithubAdvisories,[GHSA-wwg2-2crq-6grr] Prototype pollution in @strikeentco/set,https://github.com/advisories/GHSA-wwg2-2crq-6grr,https://bit.ly/3zHLplr
+GithubAdvisories,[GHSA-vcfc-9wcp-j623] Cross site scripting attack in ServiceStack Framework,https://github.com/advisories/GHSA-vcfc-9wcp-j623,https://bit.ly/3N1jKPk
+GithubAdvisories,[GHSA-h7wm-ph43-c39p] Scrapy denial of service vulnerability,https://github.com/advisories/GHSA-h7wm-ph43-c39p,https://bit.ly/39CHwmX
+GithubAdvisories,[GHSA-m269-wj6g-c459] PySAML2 XML external entity attack,https://github.com/advisories/GHSA-m269-wj6g-c459,https://bit.ly/3N32mKb
+GithubAdvisories,[GHSA-q58j-fmvf-9rq6] Cross site scripting in rails < 3.0.6,https://github.com/advisories/GHSA-q58j-fmvf-9rq6,https://bit.ly/3O3JYC9
+GithubAdvisories,[GHSA-xc85-32mf-xpv8] Rack arbitrary code execution via timing attack,https://github.com/advisories/GHSA-xc85-32mf-xpv8,https://bit.ly/3xBh4lN
+GithubAdvisories,[GHSA-q3cj-2r34-2cwc] Improper input validation in cryptography,https://github.com/advisories/GHSA-q3cj-2r34-2cwc,https://bit.ly/3xANoFx
+GithubAdvisories,[GHSA-4284-jfhc-f854] Phusion Passenger incorrect permission assignment,https://github.com/advisories/GHSA-4284-jfhc-f854,https://bit.ly/3baUBo7
+GithubAdvisories,[GHSA-cv3f-px9r-54hm] Phusion Passenger information disclosure,https://github.com/advisories/GHSA-cv3f-px9r-54hm,https://bit.ly/3OfLWiE
