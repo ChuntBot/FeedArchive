@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h2fp-xgx6-xh6f] Pallets Werkzeug cross-site scripting vulnerability,https://github.com/advisories/GHSA-h2fp-xgx6-xh6f,https://bit.ly/3QytILc
+GithubAdvisories,[GHSA-qmvq-f3fj-m3wg] OpenPGP 1.2.0 and earlier decrypts arbitrary messages,https://github.com/advisories/GHSA-qmvq-f3fj-m3wg,https://bit.ly/3b8Ci2G
+GithubAdvisories,[GHSA-cw6w-4rcx-xphc] Arbitrary file write in NumPy,https://github.com/advisories/GHSA-cw6w-4rcx-xphc,https://bit.ly/3O5fgsd
+GithubAdvisories,[GHSA-frgw-fgh6-9g52] Numpy missing input validation,https://github.com/advisories/GHSA-frgw-fgh6-9g52,https://bit.ly/3N1ylKw
+GithubAdvisories,[GHSA-4hpr-hh77-6q9p] Cross site scripting in francoisjacquet/rosariosis,https://github.com/advisories/GHSA-4hpr-hh77-6q9p,https://bit.ly/3mVAugg
+GithubAdvisories,[GHSA-wwjw-r3gj-39fq] Insufficient Session Expiration in Admin Tool,https://github.com/advisories/GHSA-wwjw-r3gj-39fq,https://bit.ly/3b9sVA1
+GithubAdvisories,[GHSA-h4mx-xv96-2jgm] Cross-Site Scripting in Frontend Login Mailer,https://github.com/advisories/GHSA-h4mx-xv96-2jgm,https://bit.ly/3y1igQX
