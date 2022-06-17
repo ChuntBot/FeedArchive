@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mpg6-rgp4-35rr] Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition') in pyftpdlib,https://github.com/advisories/GHSA-mpg6-rgp4-35rr,https://bit.ly/3OkQvbh
+GithubAdvisories,[GHSA-8wch-9gcg-v2pr] Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') in Apache Tomcat,https://github.com/advisories/GHSA-8wch-9gcg-v2pr,https://bit.ly/3OpDME2
+GithubAdvisories,[GHSA-rh9j-f5f8-rvgc] Authentication bypass vulnerability in Apple Game Center auth adapter,https://github.com/advisories/GHSA-rh9j-f5f8-rvgc,https://bit.ly/3Qw7glC
+GithubAdvisories,[GHSA-hhjg-g8xq-hhr3] Exposure of Sensitive Information to an Unauthorized Actor in Apache Tomcat,https://github.com/advisories/GHSA-hhjg-g8xq-hhr3,https://bit.ly/3Ojn2yo
+GithubAdvisories,[GHSA-j788-fx57-99wp] Cross-site scripting in Apache Tomcat,https://github.com/advisories/GHSA-j788-fx57-99wp,https://bit.ly/3Qw7g56
