@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w3vw-ccc5-qr8v] Use After Free in Context::start_auth_session,https://github.com/advisories/GHSA-w3vw-ccc5-qr8v,https://bit.ly/3xC9Eyu
+GithubAdvisories,[GHSA-7rq4-qcpw-74gq] Formula Injection in Exported Data,https://github.com/advisories/GHSA-7rq4-qcpw-74gq,https://bit.ly/39CBeDT
+GithubAdvisories,[GHSA-fr2w-mp56-g4xp] Unrestricted Attachment Upload,https://github.com/advisories/GHSA-fr2w-mp56-g4xp,https://bit.ly/3xxni6i
+GithubAdvisories,[GHSA-rm89-9g65-4ffr] Insufficient HTML Sanitization,https://github.com/advisories/GHSA-rm89-9g65-4ffr,https://bit.ly/3OgMuEM
+GithubAdvisories,[GHSA-7v28-g2pq-ggg8] Remote code execution in locale setting change,https://github.com/advisories/GHSA-7v28-g2pq-ggg8,https://bit.ly/3O2MFnl
+GithubAdvisories,[GHSA-x5m7-rwfx-w7qm] Remote Code Execution in Apache Flume,https://github.com/advisories/GHSA-x5m7-rwfx-w7qm,https://bit.ly/3Hu0BnS
+GithubAdvisories,[GHSA-38j3-6fm8-pfgc] Regular expression denial of service in Delight Nashorn Sandbox,https://github.com/advisories/GHSA-38j3-6fm8-pfgc,https://bit.ly/3QCOd9w
+GithubAdvisories,[GHSA-wpfp-q843-v772] Cross-site Scripting in moodle,https://github.com/advisories/GHSA-wpfp-q843-v772,https://bit.ly/3mW3W5H
+GithubAdvisories,[GHSA-pc54-pchm-xcw6] XML External Entity Reference in RESTEasy,https://github.com/advisories/GHSA-pc54-pchm-xcw6,https://bit.ly/3QkItRs
+GithubAdvisories,[GHSA-g63h-q855-vp3q] Configuration API in EdgeXFoundry 2.1.0 and earlier exposes message bus credentials to local unauthenticated users,https://github.com/advisories/GHSA-g63h-q855-vp3q,https://bit.ly/3QqNNCO
+GithubAdvisories,[GHSA-4jqc-jvh2-pxg9] Path traversal for local publishers in TechDocs backend,https://github.com/advisories/GHSA-4jqc-jvh2-pxg9,https://bit.ly/3xyIDfx
+GithubAdvisories,[GHSA-8fvr-7945-mg7w] Cross site scripting in dolibarr,https://github.com/advisories/GHSA-8fvr-7945-mg7w,https://bit.ly/3O3E1VC
+GithubAdvisories,[GHSA-rmpj-7c96-mrg8] Heap overflow in Apache Hadoop,https://github.com/advisories/GHSA-rmpj-7c96-mrg8,https://bit.ly/3bb2nhX
+GithubAdvisories,[GHSA-h6wm-mr85-4h9g] Cross site scripting in facturascripts,https://github.com/advisories/GHSA-h6wm-mr85-4h9g,https://bit.ly/3xt87ee
+GithubAdvisories,[GHSA-8gvg-f6qp-39wx] Cross site scripting in XXL-job,https://github.com/advisories/GHSA-8gvg-f6qp-39wx,https://bit.ly/3bc8z9q
+GithubAdvisories,[GHSA-qpgx-64h2-gc3c] Insecure path traversal in Git Trigger Source can lead to arbitrary file read,https://github.com/advisories/GHSA-qpgx-64h2-gc3c,https://bit.ly/3OgMuog
+GithubAdvisories,[GHSA-5q86-62xr-3r57] Uses of deprecated API can be used to cause DoS in user-facing endpoints,https://github.com/advisories/GHSA-5q86-62xr-3r57,https://bit.ly/3xSO3lV
+GithubAdvisories,[GHSA-pgw7-wx7w-2w33] ProxyAgent vulnerable to MITM,https://github.com/advisories/GHSA-pgw7-wx7w-2w33,https://bit.ly/3OiF8At
+GithubAdvisories,[GHSA-gwpf-95jc-63rv] Uncontrolled Resource Consumption in Mattermost server,https://github.com/advisories/GHSA-gwpf-95jc-63rv,https://bit.ly/3NZyAXL
+GithubAdvisories,[GHSA-jvq4-cgfw-jgf4] Cross site scripting in intelliants/subrion,https://github.com/advisories/GHSA-jvq4-cgfw-jgf4,https://bit.ly/3HtEb6o
+GithubAdvisories,[GHSA-xvf7-4v9q-58w6] Infinite loop in jpeg-js,https://github.com/advisories/GHSA-xvf7-4v9q-58w6,https://bit.ly/3O2M9pr
+GithubAdvisories,[GHSA-pv7h-hx5h-mgfj] Unsafe deserialization in com.alibaba:fastjson,https://github.com/advisories/GHSA-pv7h-hx5h-mgfj,https://bit.ly/3Hwg7je
+GithubAdvisories,[GHSA-5f47-rcg5-9m24] Directory-traversal in convert-svg-core,https://github.com/advisories/GHSA-5f47-rcg5-9m24,https://bit.ly/3b6rTou
+GithubAdvisories,[GHSA-chj3-f7xw-367m] OS Command Injection in git-promise,https://github.com/advisories/GHSA-chj3-f7xw-367m,https://bit.ly/3O3E9o4
+GithubAdvisories,[GHSA-54px-mhwv-5v8x] Code injection via SVG file in convert-svg-core,https://github.com/advisories/GHSA-54px-mhwv-5v8x,https://bit.ly/3OkyXvX
