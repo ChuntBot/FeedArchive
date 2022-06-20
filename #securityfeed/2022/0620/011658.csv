@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Red Hat Security Advisory 2022-4965-01,https://packetstormsecurity.com/files/167520/RHSA-2022-4965-01.txt,https://bit.ly/3HFANFI
+PacketstormSecurity,Red Hat Security Advisory 2022-5050-01,https://packetstormsecurity.com/files/167519/RHSA-2022-5050-01.txt,https://bit.ly/3xERjRx
+PacketstormSecurity,phpIPAM 1.4.5 Remote Code Execution,https://packetstormsecurity.com/files/167518/phpipam145-exec.txt,https://bit.ly/3Ohc8cy
+PacketstormSecurity,XNU Flow Divert Race Condition Use-After-Free,https://packetstormsecurity.com/files/167517/GS20220620005153.tgz,https://bit.ly/3OocfmD
+PacketstormSecurity,Chrome CVE-2022-1096 Incomplete Fix,https://packetstormsecurity.com/files/167516/GS20220620005024.txt,https://bit.ly/3zTQKWZ
+PacketstormSecurity,Chrome WebGPUDecoderImpl::DoRequestDevice Missing Bounds Check,https://packetstormsecurity.com/files/167515/GS20220620004656.tgz,https://bit.ly/3QAvriM
+PacketstormSecurity,Red Hat Security Advisory 2022-4990-01,https://packetstormsecurity.com/files/167514/RHSA-2022-4990-01.txt,https://bit.ly/3y0lpjP
+PacketstormSecurity,Red Hat Security Advisory 2022-5052-01,https://packetstormsecurity.com/files/167513/RHSA-2022-5052-01.txt,https://bit.ly/3xHsdBp
+PacketstormSecurity,Red Hat Security Advisory 2022-5054-01,https://packetstormsecurity.com/files/167512/RHSA-2022-5054-01.txt,https://bit.ly/3QA4M5E
+PacketstormSecurity,Old Age Home Management System 1.0 SQL Injection,https://packetstormsecurity.com/files/167511/oahms10-sql.txt,https://bit.ly/3tKUPZm
+PacketstormSecurity,Red Hat Security Advisory 2022-5056-01,https://packetstormsecurity.com/files/167510/RHSA-2022-5056-01.txt,https://bit.ly/3y6vdZS
+PacketstormSecurity,Verbatim Store N Go Secure Portable HDD GD25LK01-3637-C VER4.0 Behavior Violation,https://packetstormsecurity.com/files/167509/SYSS-2022-008.txt,https://bit.ly/3xHThRn
+PacketstormSecurity,Verbatim Store N Go Secure Portable HDD GD25LK01-3637-C VER4.0 Missing Trust,https://packetstormsecurity.com/files/167508/SYSS-2022-007.txt,https://bit.ly/3HFAOcK
+PacketstormSecurity,Red Hat Security Advisory 2022-5057-01,https://packetstormsecurity.com/files/167507/RHSA-2022-5057-01.txt,https://bit.ly/3tLxvLo
+PacketstormSecurity,Sourcegraph Gitserver 3.36.3 Remote Code Execution,https://packetstormsecurity.com/files/167506/sourcegraphgitserver3363-exec.txt,https://bit.ly/39FIQWn
+PacketstormSecurity,Red Hat Security Advisory 2022-5062-01,https://packetstormsecurity.com/files/167505/RHSA-2022-5062-01.txt,https://bit.ly/3xBiHQA
+PacketstormSecurity,Pandora FMS 7.0NG.742 Remote Code Execution,https://packetstormsecurity.com/files/167503/pandorafms70ng732-exec.txt,https://bit.ly/3Qr7ACl
+PacketstormSecurity,Red Hat Security Advisory 2022-5061-01,https://packetstormsecurity.com/files/167502/RHSA-2022-5061-01.txt,https://bit.ly/3zLTS79
+PacketstormSecurity,Red Hat Security Advisory 2022-5055-01,https://packetstormsecurity.com/files/167501/RHSA-2022-5055-01.txt,https://bit.ly/3y0Y9lR
+PacketstormSecurity,Verbatim Store N Go Secure Portable HDD GD25LK01-3637-C VER4.0 Risky Crypto,https://packetstormsecurity.com/files/167500/SYSS-2022-006.txt,https://bit.ly/3y0LyPA
+PacketstormSecurity,Verbatim Store N Go Secure Portable HDD GD25LK01-3637-C VER4.0 Risky Crypto,https://packetstormsecurity.com/files/167499/SYSS-2022-005.txt,https://bit.ly/39AsNcu
+PacketstormSecurity,Red Hat Security Advisory 2022-5046-01,https://packetstormsecurity.com/files/167497/RHSA-2022-5046-01.txt,https://bit.ly/3zKWQZp
