@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommit,Added auto correction of composev1 Binds in compose.yml,https://github.com/mailcow/mailcow-dockerized/commit/c1c7167acef67aed73b7af388a88cb75868dd500,https://bit.ly/3nulaaV
+GithubCommit,Merge pull request #4644 from mailcow/feature/update-composev2,https://github.com/mailcow/mailcow-dockerized/commit/4ce16d1ea4d6e0b1097ab7a1fa6e8a6b1195f13f,https://bit.ly/3ndbGk8
