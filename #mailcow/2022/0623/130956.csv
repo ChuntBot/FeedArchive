@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,[Web] Re-use DKIM key if available,https://github.com/mailcow/mailcow-dockerized/commit/7ae7f25580dbab0e49ff0d208ba876be1485d468,https://bit.ly/3xGMzw0
+GithubCommit,hotfix imapsync,https://github.com/mailcow/mailcow-dockerized/commit/71db83efce069c8f241bdfd4ecac56babc9b2610,https://bit.ly/3QEwEFX
+GithubCommit,Readded Compose Standalone Download,https://github.com/mailcow/mailcow-dockerized/commit/7166696aa2682617836c254e9243a3120a9243d0,https://bit.ly/39OMSvB
+GithubCommit,Readded Dual Stack availability of WebUI (default),https://github.com/mailcow/mailcow-dockerized/commit/a139eb9bce925e66a99639efd4b1027e020ac26a,https://bit.ly/3bnnqhe
+GithubCommit,Before update on 2022-06-16_12_41_05,https://github.com/mailcow/mailcow-dockerized/commit/36e4ee7738570f7598f227a864bf852e58ac789b,https://bit.ly/3xN59S2
+GithubCommit,Restore docker-compose check in scripts,https://github.com/mailcow/mailcow-dockerized/commit/872fa072131873a8482bbedf049caf186f3a0ea1,https://bit.ly/3n8cx5F
+GithubCommit,"Revert ""Before update on 2022-06-16_12_41_05""",https://github.com/mailcow/mailcow-dockerized/commit/89cea31475720a19c366fc31e620ff11525ec47b,https://bit.ly/3QJsVXR
+GithubCommit,Removed extra checkout line,https://github.com/mailcow/mailcow-dockerized/commit/6612b892b77c8a255580c3554eaca671dc169604,https://bit.ly/3ndgAO6
+GithubCommit,Readded docker-compose check,https://github.com/mailcow/mailcow-dockerized/commit/499273dbb757a6420f8d352c8f1ac0a8323f454b,https://bit.ly/3N8Nh9S
+GithubCommit,Added automatic docker-compose standalone installation,https://github.com/mailcow/mailcow-dockerized/commit/dd6b8c44a4e71b0d59e2d90573a2b8c667cbb403,https://bit.ly/3OBQzDy
+GithubCommit,[Web] Updated lang.es.json [CI SKIP] (#4638),https://github.com/mailcow/mailcow-dockerized/commit/af9c3a8565a40ade25909e86a5da09c7ab34fd31,https://bit.ly/3zPfzTU
+GithubCommit,Restore docker-compose check in scripts,https://github.com/mailcow/mailcow-dockerized/commit/cd7715fa0e2779fecbf82a985c25e8e74603be25,https://bit.ly/3QEykiF
+GithubCommit,hotfix imapsync,https://github.com/mailcow/mailcow-dockerized/commit/d373164e13a14e058f82c9f1918a5612f375a9f9,https://bit.ly/3tURO90
+GithubCommit,Restored docker-compose Command,https://github.com/mailcow/mailcow-dockerized/commit/452daf5d5eca1ba95d7e5befadf0ca8ab0dcab12,https://bit.ly/3NanyO9
+GithubCommit,Added override NGINX Port Removal,https://github.com/mailcow/mailcow-dockerized/commit/db7d7ea288ca1ea85959890616dd1a694452acd2,https://bit.ly/3nbFGg1
+GithubCommit,Changed message in nginx-port removal function,https://github.com/mailcow/mailcow-dockerized/commit/092890b6abca7e195d0742fbf644119c57439a70,https://bit.ly/3N9tjMh
+GithubCommit,Improved .yml and .yaml check for Port Removal,https://github.com/mailcow/mailcow-dockerized/commit/263baa81c07b2a3546ee6301d58eba511a8747fc,https://bit.ly/3ngapIM
+GithubCommit,Merge branch 'feature/update-composev2' into staging,https://github.com/mailcow/mailcow-dockerized/commit/4f58f2caee69a4cc88c4105b9b0a64cfb9540a2c,https://bit.ly/3OwhD7i
+GithubCommit,Merge branch 'feature/imapsync' into staging,https://github.com/mailcow/mailcow-dockerized/commit/7969e7116d50d887ec2643bb0f0e984ecb1a415d,https://bit.ly/3n8cpTJ
+GithubCommit,Merge pull request #4643 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/3d538d4f144d31b2e0df1b71708735979e1027ed,https://bit.ly/3QIaimP
