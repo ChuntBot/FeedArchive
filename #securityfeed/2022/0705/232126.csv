@@ -1,0 +1,33 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h642-5h74-3x9c] Cross-site Scripting in Jenkins Nested View Plugin,https://github.com/advisories/GHSA-h642-5h74-3x9c,https://bit.ly/3RbamMm
+GithubAdvisories,[GHSA-65r6-w7vr-c75r] Cross-site Scripting in Jenkins Agent Server Parameter Plugin,https://github.com/advisories/GHSA-65r6-w7vr-c75r,https://bit.ly/3RaneSR
+GithubAdvisories,[GHSA-xxhf-xq6v-c8mj] Missing Authorization in Jenkins Embeddable Build Status Plugin,https://github.com/advisories/GHSA-xxhf-xq6v-c8mj,https://bit.ly/3adFquo
+GithubAdvisories,[GHSA-39r3-h8q6-2phq] Cross site scripting in Jenkins Embeddable Build Status Plugin,https://github.com/advisories/GHSA-39r3-h8q6-2phq,https://bit.ly/3P2u6At
+GithubAdvisories,[GHSA-xfjq-5m4w-cc6h] Missing Authorization in Jenkins Beaker builder Plugin,https://github.com/advisories/GHSA-xfjq-5m4w-cc6h,https://bit.ly/3nM1TS4
+GithubAdvisories,[GHSA-v6h8-5cp2-j9w4] Missing Authorization in Jenkins Jianliao Notification Plugin,https://github.com/advisories/GHSA-v6h8-5cp2-j9w4,https://bit.ly/3nGO7An
+GithubAdvisories,[GHSA-49j4-v37g-5gg2] Missing Authorization in Jenkins EasyQA Plugin,https://github.com/advisories/GHSA-49j4-v37g-5gg2,https://bit.ly/3Aq7FAA
+GithubAdvisories,[GHSA-6923-546p-6rrc] Cross-site Scripting in Jenkins Image Tag Parameter Plugin,https://github.com/advisories/GHSA-6923-546p-6rrc,https://bit.ly/3nJcb5M
+GithubAdvisories,[GHSA-7558-6q45-6x7m] Cross-site Scripting in Jenkins Dynamic Extended Choice Parameter Plugin,https://github.com/advisories/GHSA-7558-6q45-6x7m,https://bit.ly/3RfnQH1
+GithubAdvisories,[GHSA-jhfv-8936-g652] Cross-site Scripting in Jenkins Hidden Parameter Plugin,https://github.com/advisories/GHSA-jhfv-8936-g652,https://bit.ly/3Rc3uOC
+GithubAdvisories,[GHSA-x95w-qf3m-pqpx] Cross-site Scripting in Jenkins Filesystem List Parameter Plugin,https://github.com/advisories/GHSA-x95w-qf3m-pqpx,https://bit.ly/3Rfr7WM
+GithubAdvisories,[GHSA-5hh2-f4h9-446g] Cross-site Scripting in Jenkins Date Parameter Plugin,https://github.com/advisories/GHSA-5hh2-f4h9-446g,https://bit.ly/3AKklCH
+GithubAdvisories,[GHSA-rf5q-8gx3-xqfc] Cross-Site Request Forgery in Jenkins Git Plugin,https://github.com/advisories/GHSA-rf5q-8gx3-xqfc,https://bit.ly/3RcwdD7
+GithubAdvisories,[GHSA-ffmh-x56j-9rc3] Regular Expression Denial of Service in jquery-validation,https://github.com/advisories/GHSA-ffmh-x56j-9rc3,https://bit.ly/3ad2YQ5
+GithubAdvisories,[GHSA-hc44-p2qq-cfm9] Cross-site Scripting in Jenkins CRX Content Package Deployer Plugin,https://github.com/advisories/GHSA-hc44-p2qq-cfm9,https://bit.ly/3bTleOP
+GithubAdvisories,[GHSA-64mj-3p92-589v] Cross-site Scripting in Jenkins JUnit Plugin,https://github.com/advisories/GHSA-64mj-3p92-589v,https://bit.ly/3nHKjyO
+GithubAdvisories,[GHSA-29q6-p2cg-4v23] Path Traversal in Jenkins Pipeline: Input Step Plugin,https://github.com/advisories/GHSA-29q6-p2cg-4v23,https://bit.ly/3P2u5wp
+GithubAdvisories,[GHSA-5247-whvj-83qw] Cross-site Scripting in Jenkins Maven Metadata Plugin,https://github.com/advisories/GHSA-5247-whvj-83qw,https://bit.ly/3OL148b
+GithubAdvisories,[GHSA-pv38-mqpp-v72h] Cross-site Scripting in Jenkins NS-ND Integration Performance Publisher Plugin,https://github.com/advisories/GHSA-pv38-mqpp-v72h,https://bit.ly/3nEGevl
+GithubAdvisories,[GHSA-6882-385p-hhhw] Cross-site Scripting in Jenkins ontrack Jenkins Plugin,https://github.com/advisories/GHSA-6882-385p-hhhw,https://bit.ly/3R9wKWm
+GithubAdvisories,[GHSA-gpw4-7mcw-m8vx] Cross-site Scripting in Jenkins Package Version Plugin,https://github.com/advisories/GHSA-gpw4-7mcw-m8vx,https://bit.ly/3OO5dbh
+GithubAdvisories,[GHSA-438w-rjj9-5fjf] Cross-site Scripting in Jenkins Repository Connector Plugin,https://github.com/advisories/GHSA-438w-rjj9-5fjf,https://bit.ly/3RcNIDi
+GithubAdvisories,[GHSA-fcqr-gh8w-wm8f] Cross-site Scripting in Jenkins Readonly Parameter Plugin,https://github.com/advisories/GHSA-fcqr-gh8w-wm8f,https://bit.ly/3RcNQmg
+GithubAdvisories,[GHSA-pc9c-547w-hhmc] Cross-site Scripting in Jenkins REST List Parameter Plugin,https://github.com/advisories/GHSA-pc9c-547w-hhmc,https://bit.ly/3OOAY4f
+GithubAdvisories,[GHSA-c8mf-mc3f-2wvc] Plaintext Storage of a Password in Jenkins Convertigo Mobile Platform Plugin,https://github.com/advisories/GHSA-c8mf-mc3f-2wvc,https://bit.ly/3Rdo80N
+GithubAdvisories,[GHSA-xcp5-j5fj-3xp6] Plaintext Storage of a Password in Jenkins EasyQA Plugin,https://github.com/advisories/GHSA-xcp5-j5fj-3xp6,https://bit.ly/3AtCl3J
+GithubAdvisories,[GHSA-cqhr-q835-62gm] Cross-site Scripting in Jenkins Sauce OnDemand Plugin,https://github.com/advisories/GHSA-cqhr-q835-62gm,https://bit.ly/3RaCZZX
+GithubAdvisories,[GHSA-7495-24mx-hph2] Missing permission check in Jenkins Convertigo Mobile Platform Plugin,https://github.com/advisories/GHSA-7495-24mx-hph2,https://bit.ly/3OFwn4d
+GithubAdvisories,[GHSA-88r9-hfj2-54hv] Cross-site Scripting in Jenkins Stash Branch Parameter Plugin,https://github.com/advisories/GHSA-88r9-hfj2-54hv,https://bit.ly/3RcxlXl
+GithubAdvisories,[GHSA-24h8-cpqm-qmf3] Cross-Site Request Forgery in Jenkins Convertigo Mobile Platform Plugin,https://github.com/advisories/GHSA-24h8-cpqm-qmf3,https://bit.ly/3At4jwF
+GithubAdvisories,[GHSA-vqpp-q5x5-qj4r] Cross-Site Request Forgery in Jenkins Beaker builder Plugin,https://github.com/advisories/GHSA-vqpp-q5x5-qj4r,https://bit.ly/3nN6ByZ
+GithubAdvisories,[GHSA-q8v3-7h6q-g39q] Cross-Site Request Forgery in Jenkins Jianliao Notification Plugin,https://github.com/advisories/GHSA-q8v3-7h6q-g39q,https://bit.ly/3RfPeo0
