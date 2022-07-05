@@ -1,0 +1,491 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-26wc-3wqp-g3rp] Deserialization of Untrusted Data in Jenkins,https://github.com/advisories/GHSA-26wc-3wqp-g3rp,https://bit.ly/3bKOPtE
+GithubAdvisories,[GHSA-r57f-7xw3-q2r9] Improper Authentication in Jenkins,https://github.com/advisories/GHSA-r57f-7xw3-q2r9,https://bit.ly/3bKOPKa
+GithubAdvisories,[GHSA-4466-8jm4-448p] Deserialization of Untrusted Data in Jenkins,https://github.com/advisories/GHSA-4466-8jm4-448p,https://bit.ly/3bLKpCM
+GithubAdvisories,[GHSA-85wq-pqhp-hmq6] Cross-Site Request Forgery in Jenkins,https://github.com/advisories/GHSA-85wq-pqhp-hmq6,https://bit.ly/3OKNpxP
+GithubAdvisories,[GHSA-92mr-4w2q-4578] Exposure of Sensitive Information to an Unauthorized Actor in Jenkins,https://github.com/advisories/GHSA-92mr-4w2q-4578,https://bit.ly/3aauyNP
+GithubAdvisories,[GHSA-wfj3-535m-p6fx] Improper Input Validation in Jenkins,https://github.com/advisories/GHSA-wfj3-535m-p6fx,https://bit.ly/3OJnvut
+GithubAdvisories,[GHSA-5ppx-rgw2-xg23] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-5ppx-rgw2-xg23,https://bit.ly/3OK6kZK
+GithubAdvisories,[GHSA-j472-mcq2-95p6] OS Command Injection in Jenkins,https://github.com/advisories/GHSA-j472-mcq2-95p6,https://bit.ly/3AqAkWg
+GithubAdvisories,[GHSA-h8c5-c92g-jq6x] Improper Input Validation in Jenkins,https://github.com/advisories/GHSA-h8c5-c92g-jq6x,https://bit.ly/3OPsM3O
+GithubAdvisories,[GHSA-p8x8-p473-mmmv] Missing Authorization in Jenkins,https://github.com/advisories/GHSA-p8x8-p473-mmmv,https://bit.ly/3OKBgJ9
+GithubAdvisories,[GHSA-h972-cwjv-2v39] Exposure of Sensitive Information to an Unauthorized Actor in Jenkins,https://github.com/advisories/GHSA-h972-cwjv-2v39,https://bit.ly/3Anya9R
+GithubAdvisories,[GHSA-fq9f-9wv9-rfmg] Improper Certificate Validation in Jenkins,https://github.com/advisories/GHSA-fq9f-9wv9-rfmg,https://bit.ly/3OGWRCk
+GithubAdvisories,[GHSA-wqv4-9gr3-3qgh] Exposure of Sensitive Information to an Unauthorized Actor in Jenkins,https://github.com/advisories/GHSA-wqv4-9gr3-3qgh,https://bit.ly/3OHwvjJ
+GithubAdvisories,[GHSA-f7f6-xrwc-9c57] Improper Input Validation in Jenkins,https://github.com/advisories/GHSA-f7f6-xrwc-9c57,https://bit.ly/3Aoxdhq
+GithubAdvisories,[GHSA-g78x-xmv8-23xp] Exposure of Sensitive Information to an Unauthorized Actor in Jenkins,https://github.com/advisories/GHSA-g78x-xmv8-23xp,https://bit.ly/3OJ4hFg
+GithubAdvisories,[GHSA-8vhq-qq4p-grq3] OS Command Injection in Plexus-utils,https://github.com/advisories/GHSA-8vhq-qq4p-grq3,https://bit.ly/3AvJSiR
+GithubAdvisories,[GHSA-r5x3-2446-hrp7] Race Condition in Jenkins,https://github.com/advisories/GHSA-r5x3-2446-hrp7,https://bit.ly/3IaXvWp
+GithubAdvisories,[GHSA-99hj-ppg3-2xwc] Cross-Site Request Forgery in Jenkins,https://github.com/advisories/GHSA-99hj-ppg3-2xwc,https://bit.ly/3OO0XIX
+GithubAdvisories,[GHSA-r9jf-hf9x-7hrv] Exposure of Sensitive Information to an Unauthorized Actor Jenkins Script Security Plugin,https://github.com/advisories/GHSA-r9jf-hf9x-7hrv,https://bit.ly/3OVny6g
+GithubAdvisories,[GHSA-x7c8-4x3h-874w] Incorrect Default Permissions in Supervisor,https://github.com/advisories/GHSA-x7c8-4x3h-874w,https://bit.ly/3OLI5u0
+GithubAdvisories,[GHSA-gc96-h5pr-839j] Uncontrolled Resource Consumption in Artemis and HornetQ,https://github.com/advisories/GHSA-gc96-h5pr-839j,https://bit.ly/3IfO5sB
+GithubAdvisories,[GHSA-cp7v-vmv7-6x2q] Incorrect Authorization in Undertow,https://github.com/advisories/GHSA-cp7v-vmv7-6x2q,https://bit.ly/3AGQ5Zp
+GithubAdvisories,[GHSA-x9rg-q5fx-fx66] Improper Input Validation in libpam4j,https://github.com/advisories/GHSA-x9rg-q5fx-fx66,https://bit.ly/3IaXyS5
+GithubAdvisories,[GHSA-xm78-4m3g-7wm7] Improper Authentication in Apache Kafka,https://github.com/advisories/GHSA-xm78-4m3g-7wm7,https://bit.ly/3Ihcgak
+GithubAdvisories,[GHSA-8qq4-8jvq-mfw4] Exposure of Sensitive Information to an Unauthorized Actor in Apache Tomcat,https://github.com/advisories/GHSA-8qq4-8jvq-mfw4,https://bit.ly/3Aqe7Yc
+GithubAdvisories,[GHSA-xjgh-84hx-56c5] Unrestricted Upload of File with Dangerous Type Apache Tomcat,https://github.com/advisories/GHSA-xjgh-84hx-56c5,https://bit.ly/3IcQ0y2
+GithubAdvisories,[GHSA-h22x-hm8g-rxpg] Improper Restriction of XML External Entity Reference in Apache OpenNLP,https://github.com/advisories/GHSA-h22x-hm8g-rxpg,https://bit.ly/3Ilu9EU
+GithubAdvisories,[GHSA-6g33-82gc-3pw5] Improper Restriction of XML External Entity Reference in Jelly,https://github.com/advisories/GHSA-6g33-82gc-3pw5,https://bit.ly/3OH2Net
+GithubAdvisories,[GHSA-7vgj-8mw4-hg8r] Improper Input Validation in Apache CXF,https://github.com/advisories/GHSA-7vgj-8mw4-hg8r,https://bit.ly/3IgqpUR
+GithubAdvisories,[GHSA-pfv2-37f7-9m6w] Improper Verification of Cryptographic Signature in Nimbus JOSE+JWT,https://github.com/advisories/GHSA-pfv2-37f7-9m6w,https://bit.ly/3IdB2b3
+GithubAdvisories,[GHSA-wrwf-pmmj-w989] Observable Discrepancy in BouncyCastle,https://github.com/advisories/GHSA-wrwf-pmmj-w989,https://bit.ly/3AoDbPg
+GithubAdvisories,[GHSA-hpv5-v8g5-c864] Cross-site Scripting in Mistune,https://github.com/advisories/GHSA-hpv5-v8g5-c864,https://bit.ly/3IdSFaM
+GithubAdvisories,[GHSA-wp2f-hrg2-3r5m] Improper Restriction of XML External Entity Reference in Apache uimaj,https://github.com/advisories/GHSA-wp2f-hrg2-3r5m,https://bit.ly/3AqA9dE
+GithubAdvisories,[GHSA-7mfw-43c4-45mq] Cross-site Scripting in Apache Sling XSS Protection API,https://github.com/advisories/GHSA-7mfw-43c4-45mq,https://bit.ly/3bOZUKn
+GithubAdvisories,[GHSA-r9q2-3r6x-qmgp] Inadequate Encryption Strength in Jenkins,https://github.com/advisories/GHSA-r9q2-3r6x-qmgp,https://bit.ly/3bOObLQ
+GithubAdvisories,[GHSA-7r4h-2h23-6jq9] Incorrect Authorization in Jenkins,https://github.com/advisories/GHSA-7r4h-2h23-6jq9,https://bit.ly/3IhKVob
+GithubAdvisories,[GHSA-wj5c-j656-h5fw] Exposure of Sensitive Information to an Unauthorized Actor in Jenkins,https://github.com/advisories/GHSA-wj5c-j656-h5fw,https://bit.ly/3AugwRI
+GithubAdvisories,[GHSA-r69c-5j7c-vm6q] Cross-site Scripting in Jenkins,https://github.com/advisories/GHSA-r69c-5j7c-vm6q,https://bit.ly/3OVnyTO
+GithubAdvisories,[GHSA-ffgg-vphh-v273] Incomplete List of Disallowed Inputs in Jenkins,https://github.com/advisories/GHSA-ffgg-vphh-v273,https://bit.ly/3IbMjJ6
+GithubAdvisories,[GHSA-x55p-6526-xmmp] Exposure of Sensitive Information to an Unauthorized Actor in Jenkins,https://github.com/advisories/GHSA-x55p-6526-xmmp,https://bit.ly/3OVnzqQ
+GithubAdvisories,[GHSA-m93h-5qmx-pphg] Improper Authentication in Jenkins,https://github.com/advisories/GHSA-m93h-5qmx-pphg,https://bit.ly/3AmEU7J
+GithubAdvisories,[GHSA-6967-9vvv-4cmm] Exposure of Sensitive Information to an Unauthorized Actor in Jenkins,https://github.com/advisories/GHSA-6967-9vvv-4cmm,https://bit.ly/3IeN4Rt
+GithubAdvisories,[GHSA-42m6-7xff-9v9m] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-42m6-7xff-9v9m,https://bit.ly/3IfEsu3
+GithubAdvisories,[GHSA-fwqr-3pvp-pjwq] Deserialization of Untrusted Data in Jenkins,https://github.com/advisories/GHSA-fwqr-3pvp-pjwq,https://bit.ly/3IdB5Uh
+GithubAdvisories,[GHSA-v222-w2mw-xjc6] Exposure of Sensitive Information to an Unauthorized Actor in Jenkins,https://github.com/advisories/GHSA-v222-w2mw-xjc6,https://bit.ly/3abEbvJ
+GithubAdvisories,[GHSA-jff5-55xj-4jcq] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-jff5-55xj-4jcq,https://bit.ly/3OVnzXS
+GithubAdvisories,[GHSA-pwv6-872c-gcg6] Cross-Site Request Forgery in Jenkins,https://github.com/advisories/GHSA-pwv6-872c-gcg6,https://bit.ly/3OVnAuU
+GithubAdvisories,[GHSA-wf9g-rh76-6jvr] Incorrect Permission Assignment for Critical Resource in Jenkins,https://github.com/advisories/GHSA-wf9g-rh76-6jvr,https://bit.ly/3AqAlcM
+GithubAdvisories,[GHSA-9v72-p5p3-9w65] Exposure of Sensitive Information to an Unauthorized Actor in Jenkins-mailer-plugin,https://github.com/advisories/GHSA-9v72-p5p3-9w65,https://bit.ly/3IfhCTt
+GithubAdvisories,[GHSA-qc2p-q7x9-v64p] Covert Timing Channel in Apache CXF,https://github.com/advisories/GHSA-qc2p-q7x9-v64p,https://bit.ly/3IgKQ40
+GithubAdvisories,[GHSA-qm7f-r83w-3p46] Improper Neutralization of Input During Web Page Generation in Apache Hadoop,https://github.com/advisories/GHSA-qm7f-r83w-3p46,https://bit.ly/3IeN1Fh
+GithubAdvisories,[GHSA-pr9x-qmp5-j3rr] Improper Input Validation in Apache Hadoop,https://github.com/advisories/GHSA-pr9x-qmp5-j3rr,https://bit.ly/3IhBUf4
+GithubAdvisories,[GHSA-8v4h-j42h-wfhc] Deserialization of Untrusted Data in Spring-flex,https://github.com/advisories/GHSA-8v4h-j42h-wfhc,https://bit.ly/3IhBXrg
+GithubAdvisories,"[GHSA-xx36-6rv4-gj8r] ecdsa-elixir fails to check signatures, vulnerable to message forging",https://github.com/advisories/GHSA-xx36-6rv4-gj8r,https://bit.ly/3AqZ9RL
+GithubAdvisories,[GHSA-2xxh-f8r3-hvvr] Improper Access Control in MySQL Connectors Java,https://github.com/advisories/GHSA-2xxh-f8r3-hvvr,https://bit.ly/3IlumYI
+GithubAdvisories,[GHSA-vhrg-v3cv-p247] Deserialization of Untrusted Data in Spring Security,https://github.com/advisories/GHSA-vhrg-v3cv-p247,https://bit.ly/3IbnE7z
+GithubAdvisories,[GHSA-pwh7-92h3-mqr6] Exposure of Sensitive Information to an Unauthorized Actor in Oracle MySQL Connectors Java,https://github.com/advisories/GHSA-pwh7-92h3-mqr6,https://bit.ly/3IekK1K
+GithubAdvisories,[GHSA-cjcf-wm2p-59h5] Exposure of Sensitive Information to an Unauthorized Actor in Oracle MySQL Connectors Java,https://github.com/advisories/GHSA-cjcf-wm2p-59h5,https://bit.ly/3OVnB1W
+GithubAdvisories,[GHSA-fg9w-cffm-pmh2] Insecure Default Initialization of Resource in Pivotal Spring Web Flow,https://github.com/advisories/GHSA-fg9w-cffm-pmh2,https://bit.ly/3IevBJ4
+GithubAdvisories,[GHSA-7cwj-j333-x7f7] Uncontrolled Resource Consumption in Apache ZooKeeper,https://github.com/advisories/GHSA-7cwj-j333-x7f7,https://bit.ly/3bRSzcY
+GithubAdvisories,[GHSA-78vv-qj73-h9m5] Improper Restriction of Recursive Entity References in DTDs in Apache POI,https://github.com/advisories/GHSA-78vv-qj73-h9m5,https://bit.ly/3OVnByY
+GithubAdvisories,[GHSA-3gv7-3h64-78cm] Exposure of Sensitive Information to an Unauthorized Actor in Apache Tomcat,https://github.com/advisories/GHSA-3gv7-3h64-78cm,https://bit.ly/3AmGg2s
+GithubAdvisories,[GHSA-3vx3-xf6q-r5xp] Exposure of Resource to Wrong Sphere in Apache Tomcat,https://github.com/advisories/GHSA-3vx3-xf6q-r5xp,https://bit.ly/3OVnCmw
+GithubAdvisories,[GHSA-9785-w233-x6hv] Improper Resource Shutdown or Release in Apache Tomcat,https://github.com/advisories/GHSA-9785-w233-x6hv,https://bit.ly/3aauz4l
+GithubAdvisories,[GHSA-6x65-vqp7-5r63] alchemist.vim vulnerable to remote code execution,https://github.com/advisories/GHSA-6x65-vqp7-5r63,https://bit.ly/3AoxdxW
+GithubAdvisories,[GHSA-9hg2-395j-83rm] Expected Behavior Violation in Apache Tomcat,https://github.com/advisories/GHSA-9hg2-395j-83rm,https://bit.ly/3IgKMBi
+GithubAdvisories,[GHSA-5v5w-44w6-q5hv] Erlang Solutions MongooseIM vulnerable to denial of service (DoS) via crafted XMPP stream,https://github.com/advisories/GHSA-5v5w-44w6-q5hv,https://bit.ly/3bRSzK0
+GithubAdvisories,[GHSA-h3gh-978r-747w] puppetlabs-rabbitmq allows local users to obtain sensitive information,https://github.com/advisories/GHSA-h3gh-978r-747w,https://bit.ly/3IcamYc
+GithubAdvisories,[GHSA-hgg6-8x62-m9gf] Improper Certificate Validation in Apache CXF,https://github.com/advisories/GHSA-hgg6-8x62-m9gf,https://bit.ly/3AumK43
+GithubAdvisories,[GHSA-v936-x3j5-c76j] Session Fixation in Apache CXF,https://github.com/advisories/GHSA-v936-x3j5-c76j,https://bit.ly/3OVnDqA
+GithubAdvisories,[GHSA-5hg8-r9vq-gjqp] Improper Restriction of XML External Entity Reference in Apache FOP,https://github.com/advisories/GHSA-5hg8-r9vq-gjqp,https://bit.ly/3bRSAO4
+GithubAdvisories,[GHSA-qwgx-59jw-qfg9] Improper Restriction of XML External Entity Reference in Apache Batik,https://github.com/advisories/GHSA-qwgx-59jw-qfg9,https://bit.ly/3bRSAxy
+GithubAdvisories,[GHSA-jmvv-524f-hj5j] Improper Handling of Exceptional Conditions in Apache Tomcat,https://github.com/advisories/GHSA-jmvv-524f-hj5j,https://bit.ly/3bRSB4A
+GithubAdvisories,[GHSA-chqf-hx79-gxc6] Improper Restriction of XML External Entity Reference in Openpyxl,https://github.com/advisories/GHSA-chqf-hx79-gxc6,https://bit.ly/3IcPX5k
+GithubAdvisories,[GHSA-hrfh-7j5f-8ccr] Pivotal RabbitMQ is vulnerable to a denial of service attack,https://github.com/advisories/GHSA-hrfh-7j5f-8ccr,https://bit.ly/3aafMXq
+GithubAdvisories,[GHSA-57q5-x8jf-g7h8] Inconsistent Interpretation of HTTP Requests in Red Hat JBoss EAP,https://github.com/advisories/GHSA-57q5-x8jf-g7h8,https://bit.ly/3IdlPGW
+GithubAdvisories,[GHSA-73rx-3f9r-x949] Insufficient Verification of Data Authenticity in Apache Tomcat,https://github.com/advisories/GHSA-73rx-3f9r-x949,https://bit.ly/3bRSC8E
+GithubAdvisories,[GHSA-68g5-8q7f-m384] Improper Limitation of a Pathname to a Restricted Directory in Apache Tomcat,https://github.com/advisories/GHSA-68g5-8q7f-m384,https://bit.ly/3bRSvde
+GithubAdvisories,[GHSA-pjqh-2jcc-5j84] Improper Authentication in Pivotal Spring-LDAP,https://github.com/advisories/GHSA-pjqh-2jcc-5j84,https://bit.ly/3OVnEe8
+GithubAdvisories,[GHSA-q4v9-qjmw-j7vf] Insecure Default Initialization of Resource in Pivotal Spring Web Flow,https://github.com/advisories/GHSA-q4v9-qjmw-j7vf,https://bit.ly/3AskcUg
+GithubAdvisories,[GHSA-vqqg-xgv7-cf68] Deserialization of Untrusted Data in Spring AMQP,https://github.com/advisories/GHSA-vqqg-xgv7-cf68,https://bit.ly/3bRSDJK
+GithubAdvisories,[GHSA-w24x-87mr-4r23] SpEL Injection in Spring Data MongoDB,https://github.com/advisories/GHSA-w24x-87mr-4r23,https://bit.ly/3bOZV0T
+GithubAdvisories,[GHSA-86p9-x5pw-94qx] Improper Restriction of XML External Entity Reference in iText,https://github.com/advisories/GHSA-86p9-x5pw-94qx,https://bit.ly/3bRSDcI
+GithubAdvisories,[GHSA-mx3q-j2g2-5qxq] Deserialization of Untrusted Data in NancyFX Nancy,https://github.com/advisories/GHSA-mx3q-j2g2-5qxq,https://bit.ly/3IbM3tC
+GithubAdvisories,[GHSA-p7vm-phxx-g722] Improper Input Validation in Apache Commons Email,https://github.com/advisories/GHSA-p7vm-phxx-g722,https://bit.ly/3ArrjMG
+GithubAdvisories,[GHSA-8c82-9rgp-4qvr] Improper Neutralization of Input During Web Page Generation Apache Sling Servlets Post,https://github.com/advisories/GHSA-8c82-9rgp-4qvr,https://bit.ly/3OVnFPe
+GithubAdvisories,[GHSA-4rj6-9pjh-882r] Improper Restriction of XML External Entity Reference in Jenkins JUnit Plugin,https://github.com/advisories/GHSA-4rj6-9pjh-882r,https://bit.ly/3IhcgqQ
+GithubAdvisories,[GHSA-6mv9-hcx5-7mhh] Server-Side Request Forgery in Jenkins,https://github.com/advisories/GHSA-6mv9-hcx5-7mhh,https://bit.ly/3bRSE0g
+GithubAdvisories,[GHSA-x6jw-2f23-mc5j] Exposure of Sensitive Information to an Unauthorized Actor in Jenkins,https://github.com/advisories/GHSA-x6jw-2f23-mc5j,https://bit.ly/3OVnGCM
+GithubAdvisories,[GHSA-46p2-fwqg-3h6m] Incorrect Authorization in Jenkins Git Plugin,https://github.com/advisories/GHSA-46p2-fwqg-3h6m,https://bit.ly/3AGQ6fV
+GithubAdvisories,[GHSA-f9cx-789c-w2mr] Incorrect Authorization in Jenkins Mercurial Plugin,https://github.com/advisories/GHSA-f9cx-789c-w2mr,https://bit.ly/3OVnG5K
+GithubAdvisories,[GHSA-hfpg-gqjw-779m] Cross-site Scripting in Jolokia agent,https://github.com/advisories/GHSA-hfpg-gqjw-779m,https://bit.ly/3Augx8e
+GithubAdvisories,[GHSA-rhqj-4pp8-vvgf] Injection in Jolokia agent,https://github.com/advisories/GHSA-rhqj-4pp8-vvgf,https://bit.ly/3OVnGTi
+GithubAdvisories,[GHSA-qwq9-8rpf-8mp7] Weak Password Requirements in UnboundID LDAP SDK,https://github.com/advisories/GHSA-qwq9-8rpf-8mp7,https://bit.ly/3IbMjZC
+GithubAdvisories,[GHSA-cpw3-x7gf-p872] Exposure of Sensitive Information to an Unauthorized Actor in Jenkins,https://github.com/advisories/GHSA-cpw3-x7gf-p872,https://bit.ly/3OVnIdS
+GithubAdvisories,[GHSA-53wf-vqf9-cgf2] Server-Side Request Forgery in Jenkins Git Plugin,https://github.com/advisories/GHSA-53wf-vqf9-cgf2,https://bit.ly/3IbMkNa
+GithubAdvisories,[GHSA-2w4x-rxp7-grg7] Exposure of Sensitive Information to an Unauthorized Actor in Jenkins,https://github.com/advisories/GHSA-2w4x-rxp7-grg7,https://bit.ly/3IbMlkc
+GithubAdvisories,[GHSA-x646-m7x2-gcp7] Path Traversal in Jenkins,https://github.com/advisories/GHSA-x646-m7x2-gcp7,https://bit.ly/3OVnJ1q
+GithubAdvisories,[GHSA-7592-93rm-6gpx] Injection in Jenkins,https://github.com/advisories/GHSA-7592-93rm-6gpx,https://bit.ly/3OVnIKU
+GithubAdvisories,[GHSA-rgmj-mccj-h9mx] Cross-Site Request Forgery in Jenkins,https://github.com/advisories/GHSA-rgmj-mccj-h9mx,https://bit.ly/3IbMlAI
+GithubAdvisories,[GHSA-3pr8-rf62-g893] Path Traversal in Jenkins,https://github.com/advisories/GHSA-3pr8-rf62-g893,https://bit.ly/3aauzkR
+GithubAdvisories,[GHSA-hv45-5j9h-7fhg] Cross-site Scripting in Jenkins,https://github.com/advisories/GHSA-hv45-5j9h-7fhg,https://bit.ly/3IbMmog
+GithubAdvisories,[GHSA-4h47-h3cr-23wh] Improper Authorization in Jenkins,https://github.com/advisories/GHSA-4h47-h3cr-23wh,https://bit.ly/3IbMmEM
+GithubAdvisories,[GHSA-rr6r-p7rw-369c] Session Fixation in Jenkins,https://github.com/advisories/GHSA-rr6r-p7rw-369c,https://bit.ly/3OVnK5u
+GithubAdvisories,[GHSA-53jp-gmwc-jwf6] Exposure of Sensitive Information to an Unauthorized Actor in Jenkins,https://github.com/advisories/GHSA-53jp-gmwc-jwf6,https://bit.ly/3IeN57Z
+GithubAdvisories,[GHSA-cwcf-5m5w-mq2w] Exposure of Sensitive Information to an Unauthorized Actor in Jenkins SSH Credentials Plugin,https://github.com/advisories/GHSA-cwcf-5m5w-mq2w,https://bit.ly/3AqFfpW
+GithubAdvisories,[GHSA-vmq9-cm7m-4p8p] Improper Neutralization of Input During Web Page Generation in Dojo Dojo Objective Harness,https://github.com/advisories/GHSA-vmq9-cm7m-4p8p,https://bit.ly/3IdSFHO
+GithubAdvisories,[GHSA-hhpm-5cp2-hg4x] Deserialization of Untrusted Data in Jenkins,https://github.com/advisories/GHSA-hhpm-5cp2-hg4x,https://bit.ly/3IdB6aN
+GithubAdvisories,[GHSA-hph9-9vcq-f7gp] Exposure of Sensitive Information to an Unauthorized Actor in Jenkins,https://github.com/advisories/GHSA-hph9-9vcq-f7gp,https://bit.ly/3OVnKm0
+GithubAdvisories,[GHSA-4jhm-5f7g-75fp] Improper Limitation of a Pathname to a Restricted Directory in Jenkins,https://github.com/advisories/GHSA-4jhm-5f7g-75fp,https://bit.ly/3abEbMf
+GithubAdvisories,[GHSA-9cjv-93g7-c6mv] Loop with Unreachable Exit Condition in Jenkins,https://github.com/advisories/GHSA-9cjv-93g7-c6mv,https://bit.ly/3OLI5Kw
+GithubAdvisories,[GHSA-p4p5-3v2j-w5rv] Improper Privilege Management in Jenkins,https://github.com/advisories/GHSA-p4p5-3v2j-w5rv,https://bit.ly/3IfO5J7
+GithubAdvisories,[GHSA-5hfp-964w-5vgm] Improper Limitation of a Pathname to a Restricted Directory in Jenkins,https://github.com/advisories/GHSA-5hfp-964w-5vgm,https://bit.ly/3OVnLq4
+GithubAdvisories,[GHSA-hcxq-x77q-3469] Improper Limitation of a Pathname to a Restricted Directory in plexus-archiver,https://github.com/advisories/GHSA-hcxq-x77q-3469,https://bit.ly/3AqZa8h
+GithubAdvisories,[GHSA-qcf3-9vmh-xw4r] Improper Limitation of a Pathname to a Restricted Directory in zt-zip,https://github.com/advisories/GHSA-qcf3-9vmh-xw4r,https://bit.ly/3IfO9Zn
+GithubAdvisories,[GHSA-2rpm-4x8c-pvqg] Improper Limitation of a Pathname to a Restricted Directory in Zip4j,https://github.com/advisories/GHSA-2rpm-4x8c-pvqg,https://bit.ly/3bOO9nc
+GithubAdvisories,[GHSA-cqj4-m2pc-v9m5] Improper Limitation of a Pathname to a Restricted Directory in SharpZipLib,https://github.com/advisories/GHSA-cqj4-m2pc-v9m5,https://bit.ly/3IgKQkw
+GithubAdvisories,[GHSA-9pf8-qqhm-7w64] Improper Input Validation in Datomic,https://github.com/advisories/GHSA-9pf8-qqhm-7w64,https://bit.ly/3OVnMu8
+GithubAdvisories,[GHSA-prfw-3qx6-g9xr] Improper Limitation of a Pathname to a Restricted Directory in Jboss EAP Undertow,https://github.com/advisories/GHSA-prfw-3qx6-g9xr,https://bit.ly/3AvJSPT
+GithubAdvisories,[GHSA-47mp-rq2x-wjf2] Improper Neutralization of CRLF Sequences in HTTP Headers in Undertow,https://github.com/advisories/GHSA-47mp-rq2x-wjf2,https://bit.ly/3OVnNyc
+GithubAdvisories,[GHSA-36w5-mwq6-mvp3] Malware in thisisourgoal1,https://github.com/advisories/GHSA-36w5-mwq6-mvp3,https://bit.ly/3IhBUvA
+GithubAdvisories,[GHSA-wc2v-mr32-rm6m] Malware in thisisourgoal,https://github.com/advisories/GHSA-wc2v-mr32-rm6m,https://bit.ly/3IevKfA
+GithubAdvisories,[GHSA-3x87-8rr3-gx82] Malware in material-ui-plugin-theme-provider-cache,https://github.com/advisories/GHSA-3x87-8rr3-gx82,https://bit.ly/3OVnN1a
+GithubAdvisories,[GHSA-fw3f-4m44-f2r2] Malware in material-ui-plugin-styles-provider-cache,https://github.com/advisories/GHSA-fw3f-4m44-f2r2,https://bit.ly/3AmGgiY
+GithubAdvisories,[GHSA-m2j9-j4v6-p487] Malware in @pagetour/sdk,https://github.com/advisories/GHSA-m2j9-j4v6-p487,https://bit.ly/3IdlTqa
+GithubAdvisories,[GHSA-3vpw-rqw3-w5hh] Malware in @3p-future-solutions/ember-cui,https://github.com/advisories/GHSA-3vpw-rqw3-w5hh,https://bit.ly/3AqA9KG
+GithubAdvisories,[GHSA-233w-76x6-827p] Malware in slack-trustpilot,https://github.com/advisories/GHSA-233w-76x6-827p,https://bit.ly/3bLWGqP
+GithubAdvisories,[GHSA-x55p-5h2g-ggqw] Malware in sichain-api,https://github.com/advisories/GHSA-x55p-5h2g-ggqw,https://bit.ly/3IhBXHM
+GithubAdvisories,[GHSA-p6px-cxmc-798f] Malware in separatecalculatingbinary,https://github.com/advisories/GHSA-p6px-cxmc-798f,https://bit.ly/3OJ4hVM
+GithubAdvisories,[GHSA-94p9-72ww-837q] Malware in cleansheet,https://github.com/advisories/GHSA-94p9-72ww-837q,https://bit.ly/3OIqsLT
+GithubAdvisories,[GHSA-48qh-hfvx-27w8] Malware in purple_team_midway_teste_cenario_2,https://github.com/advisories/GHSA-48qh-hfvx-27w8,https://bit.ly/3ItcfjH
+GithubAdvisories,[GHSA-j4xc-rq28-r3cx] Malware in purple_team_midway_cenario_2,https://github.com/advisories/GHSA-j4xc-rq28-r3cx,https://bit.ly/3IbTKzU
+GithubAdvisories,[GHSA-f278-fqf7-rwm9] Malware in purple_team_midway_cenario_1,https://github.com/advisories/GHSA-f278-fqf7-rwm9,https://bit.ly/3Aqe8ve
+GithubAdvisories,[GHSA-3cfq-86px-hwvc] Malware in purple_team_midway_teste_cenario_1,https://github.com/advisories/GHSA-3cfq-86px-hwvc,https://bit.ly/3OKhRYO
+GithubAdvisories,[GHSA-3jgg-9fjp-7gcc] Malware in syndis-test,https://github.com/advisories/GHSA-3jgg-9fjp-7gcc,https://bit.ly/3AqAlJO
+GithubAdvisories,[GHSA-56x9-mvj3-cvj6] Malware in web3-integration,https://github.com/advisories/GHSA-56x9-mvj3-cvj6,https://bit.ly/3Il4egr
+GithubAdvisories,[GHSA-qmg8-f454-qhrc] Malware in @it-eng/is-dinosaur,https://github.com/advisories/GHSA-qmg8-f454-qhrc,https://bit.ly/3IcQ0Oy
+GithubAdvisories,[GHSA-w872-pxm7-rwxx] Malware in swaty-color,https://github.com/advisories/GHSA-w872-pxm7-rwxx,https://bit.ly/3bKOQ0G
+GithubAdvisories,[GHSA-3r79-p2f4-4fjw] Malware in npmbb-deneuve81,https://github.com/advisories/GHSA-3r79-p2f4-4fjw,https://bit.ly/3AkzWIO
+GithubAdvisories,[GHSA-9h5c-gcg7-4h7c] Malware in shda,https://github.com/advisories/GHSA-9h5c-gcg7-4h7c,https://bit.ly/3Arrk3c
+GithubAdvisories,[GHSA-rhmj-rghc-cm4c] Malware in personal-colors-kash,https://github.com/advisories/GHSA-rhmj-rghc-cm4c,https://bit.ly/3IekKig
+GithubAdvisories,[GHSA-5qrc-3fm2-8cp2] Malware in vazgarules,https://github.com/advisories/GHSA-5qrc-3fm2-8cp2,https://bit.ly/3IevBZA
+GithubAdvisories,[GHSA-3crg-f8r3-cw5x] Malware in @radancy/dropr-client,https://github.com/advisories/GHSA-3crg-f8r3-cw5x,https://bit.ly/3bOZZ0D
+GithubAdvisories,[GHSA-9cpc-f9p6-x3j5] Malware in vipps-stitches,https://github.com/advisories/GHSA-9cpc-f9p6-x3j5,https://bit.ly/3OHEHQR
+GithubAdvisories,[GHSA-7c4j-w359-vq4p] Malware in rhynocallbackpackage,https://github.com/advisories/GHSA-7c4j-w359-vq4p,https://bit.ly/3bOOc2m
+GithubAdvisories,[GHSA-w8r2-5j8x-x8j6] Improper Limitation of a Pathname to a Restricted Directory in WildFly,https://github.com/advisories/GHSA-w8r2-5j8x-x8j6,https://bit.ly/3bU6SOg
+GithubAdvisories,[GHSA-xcxf-7q4p-cj26] Cross-Site Request Forgery in Jolokia,https://github.com/advisories/GHSA-xcxf-7q4p-cj26,https://bit.ly/3AoDcmi
+GithubAdvisories,[GHSA-gjjx-gqm4-wcgm] Uncontrolled Resource Consumption in Undertow,https://github.com/advisories/GHSA-gjjx-gqm4-wcgm,https://bit.ly/3OK6lwM
+GithubAdvisories,[GHSA-qqfc-m9hc-pqv3] Deserialization of Untrusted Data in Infinispan,https://github.com/advisories/GHSA-qqfc-m9hc-pqv3,https://bit.ly/3IeN5ov
+GithubAdvisories,[GHSA-62g2-m955-v383] Improper Input Validation in Apache Spark,https://github.com/advisories/GHSA-62g2-m955-v383,https://bit.ly/3IbCc78
+GithubAdvisories,[GHSA-g66q-grxc-64j3] Cross-site Scripting in JavaMelody,https://github.com/advisories/GHSA-g66q-grxc-64j3,https://bit.ly/3IgKMRO
+GithubAdvisories,[GHSA-gh27-38p5-mrxc] Improper Control of Generation of Code in Apache Kafka,https://github.com/advisories/GHSA-gh27-38p5-mrxc,https://bit.ly/3IbTO2C
+GithubAdvisories,[GHSA-hgm9-pww2-93pc] Cross site scripting in Elefant CMS,https://github.com/advisories/GHSA-hgm9-pww2-93pc,https://bit.ly/3Ic7Jpr
+GithubAdvisories,[GHSA-4453-g295-24mh] Cross site scripting in Elefant CMS,https://github.com/advisories/GHSA-4453-g295-24mh,https://bit.ly/3Aqf4Qb
+GithubAdvisories,[GHSA-5hfm-g799-wjw6] Cross site scripting in Elefant CMS,https://github.com/advisories/GHSA-5hfm-g799-wjw6,https://bit.ly/3OO0YfZ
+GithubAdvisories,[GHSA-xwj7-29j7-rw76] Cross site scripting in Elefant CMS,https://github.com/advisories/GHSA-xwj7-29j7-rw76,https://bit.ly/3OK6lNi
+GithubAdvisories,[GHSA-7f7g-8q3x-jpx9] Cross site scripting in Elefant CMS,https://github.com/advisories/GHSA-7f7g-8q3x-jpx9,https://bit.ly/3OKNpOl
+GithubAdvisories,"[GHSA-v68g-62v9-39w5] Unpublished, protected files can be published via shortcode",https://github.com/advisories/GHSA-v68g-62v9-39w5,https://bit.ly/3IfOafT
+GithubAdvisories,[GHSA-9fmg-89fx-r33w] Quadratic blowup in Convert::xml2array(),https://github.com/advisories/GHSA-9fmg-89fx-r33w,https://bit.ly/3ac8kem
+GithubAdvisories,[GHSA-jx34-gqqq-r6gm] Stored XSS via HTML fields in SilverStripe Framework,https://github.com/advisories/GHSA-jx34-gqqq-r6gm,https://bit.ly/3Icares
+GithubAdvisories,[GHSA-rppc-655v-7j3c] Stored XSS in link tags added via XHR in SilverStripe Framework,https://github.com/advisories/GHSA-rppc-655v-7j3c,https://bit.ly/3OZ0gNf
+GithubAdvisories,[GHSA-c7q8-m4xw-c674] Hybridsessions does not expire session id on logout,https://github.com/advisories/GHSA-c7q8-m4xw-c674,https://bit.ly/3OMEmMU
+GithubAdvisories,[GHSA-gx6v-67qv-rhx5] Code injection in Elefant CMS,https://github.com/advisories/GHSA-gx6v-67qv-rhx5,https://bit.ly/3IdB6rj
+GithubAdvisories,[GHSA-mwh6-g9wx-xcx3] Unrestricted Upload of File with Dangerous Type in Elefant CMS,https://github.com/advisories/GHSA-mwh6-g9wx-xcx3,https://bit.ly/3Igqnwd
+GithubAdvisories,[GHSA-pq7f-cq6q-94xh] Cross-Site Request Forgery in Elefant CMS,https://github.com/advisories/GHSA-pq7f-cq6q-94xh,https://bit.ly/3AqEJIH
+GithubAdvisories,[GHSA-jqwc-c49r-4w2x] Miscompilation of `i8x16.swizzle` and `select` with v128 inputs,https://github.com/advisories/GHSA-jqwc-c49r-4w2x,https://bit.ly/3bS6ik1
+GithubAdvisories,[GHSA-3jxh-6635-6jwp] Path traversal in Concrete CMS,https://github.com/advisories/GHSA-3jxh-6635-6jwp,https://bit.ly/3AmGgzu
+GithubAdvisories,[GHSA-6xc4-7fmm-65q2] Code injection in concrete CMS,https://github.com/advisories/GHSA-6xc4-7fmm-65q2,https://bit.ly/3OKDQ1Q
+GithubAdvisories,[GHSA-v25c-8349-v2q3] Incorrect Authorization in thinkcmf,https://github.com/advisories/GHSA-v25c-8349-v2q3,https://bit.ly/3OL5c8f
+GithubAdvisories,[GHSA-r626-fc64-3q28] Data race in abox,https://github.com/advisories/GHSA-r626-fc64-3q28,https://bit.ly/3IdSBYA
+GithubAdvisories,[GHSA-f6g6-54hm-fhxv] Data races in libsbc,https://github.com/advisories/GHSA-f6g6-54hm-fhxv,https://bit.ly/3OVnO5e
+GithubAdvisories,[GHSA-fg42-vwxx-xx5j] Data race in tiny_future,https://github.com/advisories/GHSA-fg42-vwxx-xx5j,https://bit.ly/3AqAa1c
+GithubAdvisories,[GHSA-368f-29c3-4f2r] Data race in conqueue,https://github.com/advisories/GHSA-368f-29c3-4f2r,https://bit.ly/3AlSwQN
+GithubAdvisories,[GHSA-fqq2-xp7m-xvm8] Data race in ruspiro-singleton,https://github.com/advisories/GHSA-fqq2-xp7m-xvm8,https://bit.ly/3IgqqrT
+GithubAdvisories,[GHSA-686f-ch3r-xwmh] Data races in unicycle,https://github.com/advisories/GHSA-686f-ch3r-xwmh,https://bit.ly/3Ay3u5A
+GithubAdvisories,[GHSA-49wp-qq6x-g2rf] Cross-site Request Forgery in fastify-csrf,https://github.com/advisories/GHSA-49wp-qq6x-g2rf,https://bit.ly/2LI38CM
+GithubAdvisories,[GHSA-27g3-58v4-fg9w] Cross-site Scripting in Microweber,https://github.com/advisories/GHSA-27g3-58v4-fg9w,https://bit.ly/3IfhGTd
+GithubAdvisories,[GHSA-j32j-2hxv-rqf7] Uncontrolled Resource Consumption in pg-native and libpq,https://github.com/advisories/GHSA-j32j-2hxv-rqf7,https://bit.ly/3Aqe8LK
+GithubAdvisories,[GHSA-mjjj-6p43-vhhv] Prototype Pollution in deep-get-set,https://github.com/advisories/GHSA-mjjj-6p43-vhhv,https://bit.ly/3IcPXlQ
+GithubAdvisories,[GHSA-qfr5-wjpw-q4c4] Denial of Service in python-ldap,https://github.com/advisories/GHSA-qfr5-wjpw-q4c4,https://bit.ly/3AumKB5
+GithubAdvisories,[GHSA-v829-j9rr-85v9] Cross-site Scripting in krayin/laravel-crm,https://github.com/advisories/GHSA-v829-j9rr-85v9,https://bit.ly/3AugxFg
+GithubAdvisories,[GHSA-22p3-qrh9-cx32] URL previews of unusual or maliciously-crafted pages can crash Synapse media repositories or Synapse monoliths,https://github.com/advisories/GHSA-22p3-qrh9-cx32,https://bit.ly/3OJnw1v
+GithubAdvisories,[GHSA-q588-3544-8g33] Denial of Service in Spring Cloud Function,https://github.com/advisories/GHSA-q588-3544-8g33,https://bit.ly/3aauzRT
+GithubAdvisories,[GHSA-3x96-m42v-hvh5] Cross-site Scripting in Microweber,https://github.com/advisories/GHSA-3x96-m42v-hvh5,https://bit.ly/3OIqt2p
+GithubAdvisories,[GHSA-pm37-5j5m-6cvw] Cross-site Scripting in NukeViet CMS,https://github.com/advisories/GHSA-pm37-5j5m-6cvw,https://bit.ly/3IbMnsk
+GithubAdvisories,[GHSA-8f4f-v9x5-cg6j] CloudCore UDS Server: Malicious Message can crash CloudCore,https://github.com/advisories/GHSA-8f4f-v9x5-cg6j,https://bit.ly/3bKOQhc
+GithubAdvisories,[GHSA-2m7h-86qq-fp4v] Insecure entropy in Argo CD's PKCE/Oauth2/OIDC params,https://github.com/advisories/GHSA-2m7h-86qq-fp4v,https://bit.ly/3IaXzp7
+GithubAdvisories,[GHSA-h4w9-6x78-8vrj] Argo CD's external URLs for Deployments can include JavaScript,https://github.com/advisories/GHSA-h4w9-6x78-8vrj,https://bit.ly/3bOZZh9
+GithubAdvisories,[GHSA-q4w5-4gq2-98vm] Symlink following allows leaking out-of-bounds YAML files from Argo CD repo-server,https://github.com/advisories/GHSA-q4w5-4gq2-98vm,https://bit.ly/3OKxKyG
+GithubAdvisories,[GHSA-q754-vwc4-p6qj] Authenticated Stored Cross-site Scripting in Shopware,https://github.com/advisories/GHSA-q754-vwc4-p6qj,https://bit.ly/3Aqf56H
+GithubAdvisories,[GHSA-x938-fvfw-7jh5] CloudCore CSI Driver: Malicious response from KubeEdge can crash CSI Driver controller server,https://github.com/advisories/GHSA-x938-fvfw-7jh5,https://bit.ly/3IluabW
+GithubAdvisories,[GHSA-gvmf-wcx6-p974] Improper quoting of columns when using setOrderBy() or setGroupBy() on listing classes in Pimcore,https://github.com/advisories/GHSA-gvmf-wcx6-p974,https://bit.ly/3IhKVVd
+GithubAdvisories,[GHSA-g5fm-jp9v-2432] Improper Handling of `callbackUrl` parameter in next-auth,https://github.com/advisories/GHSA-g5fm-jp9v-2432,https://bit.ly/3OHaj9x
+GithubAdvisories,[GHSA-xw6g-jjvf-wwf9] Invalid file request can crash server,https://github.com/advisories/GHSA-xw6g-jjvf-wwf9,https://bit.ly/3AqZNPp
+GithubAdvisories,[GHSA-2jx3-5j9v-prpp] SQL Injection in BlockWishList,https://github.com/advisories/GHSA-2jx3-5j9v-prpp,https://bit.ly/3OC6Okx
+GithubAdvisories,[GHSA-25mq-v84q-4j7r] CURLOPT_HTTPAUTH option not cleared on change of origin,https://github.com/advisories/GHSA-25mq-v84q-4j7r,https://bit.ly/3IeN5F1
+GithubAdvisories,[GHSA-q559-8m2m-g699] Change in port should be considered a change in origin,https://github.com/advisories/GHSA-q559-8m2m-g699,https://bit.ly/3IfOawp
+GithubAdvisories,[GHSA-xggc-qprg-x6mw] Weave GitOps leaked cluster credentials into logs on connection errors,https://github.com/advisories/GHSA-xggc-qprg-x6mw,https://bit.ly/3AqEJZd
+GithubAdvisories,[GHSA-7r3r-gq8p-v9jj] Improper handling of CSS at-rules in lettersanitizer,https://github.com/advisories/GHSA-7r3r-gq8p-v9jj,https://bit.ly/3IgKQRy
+GithubAdvisories,[GHSA-8v9w-p43c-r885] Reachable Assertion in rulex,https://github.com/advisories/GHSA-8v9w-p43c-r885,https://bit.ly/3OKhSfk
+GithubAdvisories,[GHSA-v78m-2q7v-fjqp] Uncontrolled Recursion in rulex,https://github.com/advisories/GHSA-v78m-2q7v-fjqp,https://bit.ly/3IbM4ha
+GithubAdvisories,[GHSA-jhqp-vf4w-rpwq] DoS through large manifest files in Argo CD,https://github.com/advisories/GHSA-jhqp-vf4w-rpwq,https://bit.ly/3AmGgQ0
+GithubAdvisories,[GHSA-m2ww-6wv6-vw3c] Cross site scripting in Concrete CMS,https://github.com/advisories/GHSA-m2ww-6wv6-vw3c,https://bit.ly/3OO0Ywv
+GithubAdvisories,[GHSA-4263-q746-94mw] Uncontrolled Resource Consumption in fast-string-search,https://github.com/advisories/GHSA-4263-q746-94mw,https://bit.ly/3IevKMC
+GithubAdvisories,[GHSA-jvxx-v45p-v5vf] Denial of Service (DoS) vulnerability in RSSHub,https://github.com/advisories/GHSA-jvxx-v45p-v5vf,https://bit.ly/3bNJ4LI
+GithubAdvisories,[GHSA-v7cm-w955-pj6g] Improper Input Validation Apache Commons Email,https://github.com/advisories/GHSA-v7cm-w955-pj6g,https://bit.ly/3IdSGeQ
+GithubAdvisories,[GHSA-42wx-65g4-5cxv] Improper Restriction of XML External Entity Reference in Apache NiFi,https://github.com/advisories/GHSA-42wx-65g4-5cxv,https://bit.ly/3bNJ52e
+GithubAdvisories,[GHSA-42xw-p62x-hwcf] Improper Access Control in Apache Derby,https://github.com/advisories/GHSA-42xw-p62x-hwcf,https://bit.ly/3IdlTXc
+GithubAdvisories,[GHSA-vf6r-mmhc-3xcm] Exposure of Sensitive Information to an Unauthorized Actor in Undertow,https://github.com/advisories/GHSA-vf6r-mmhc-3xcm,https://bit.ly/3AvJTmV
+GithubAdvisories,[GHSA-8h7p-qjv8-9mp4] Improper Access Control in Telerik Extensions,https://github.com/advisories/GHSA-8h7p-qjv8-9mp4,https://bit.ly/3IbM4Oc
+GithubAdvisories,[GHSA-r2jf-rc5v-vmpv] Incorrect Authorization in Jenkins,https://github.com/advisories/GHSA-r2jf-rc5v-vmpv,https://bit.ly/3IbM5le
+GithubAdvisories,[GHSA-47w3-66wq-cpxg] Improper Input Validation in Apache Kafka,https://github.com/advisories/GHSA-47w3-66wq-cpxg,https://bit.ly/3IcaruY
+GithubAdvisories,[GHSA-ccqf-c5hq-77mp] Missing Authorization in Apache ZooKeeper,https://github.com/advisories/GHSA-ccqf-c5hq-77mp,https://bit.ly/3bNJ7qS
+GithubAdvisories,[GHSA-25gw-4pcc-45cf] Deserialization of Untrusted Data in Apache Batik,https://github.com/advisories/GHSA-25gw-4pcc-45cf,https://bit.ly/3AqAahI
+GithubAdvisories,[GHSA-52gq-7j6c-xw6x] Missing Authentication for Critical Function in Apache Cassandra,https://github.com/advisories/GHSA-52gq-7j6c-xw6x,https://bit.ly/3bNJ6mO
+GithubAdvisories,[GHSA-j2xq-pfff-mvgg] Loop with Unreachable Exit Condition in Apache PDFBox,https://github.com/advisories/GHSA-j2xq-pfff-mvgg,https://bit.ly/3bNJ6Dk
+GithubAdvisories,[GHSA-w77p-8cfg-2x43] Improper Access Control in SLF4J,https://github.com/advisories/GHSA-w77p-8cfg-2x43,https://bit.ly/3IekKPi
+GithubAdvisories,[GHSA-6g57-h38c-q52g] Cross-Site Request Forgery in Jenkins Mailer Plugin,https://github.com/advisories/GHSA-6g57-h38c-q52g,https://bit.ly/3IlunMg
+GithubAdvisories,[GHSA-5h29-qq92-wj7f] Cleartext Transmission of Sensitive Information in Apache MINA,https://github.com/advisories/GHSA-5h29-qq92-wj7f,https://bit.ly/3bNJ7Ho
+GithubAdvisories,[GHSA-ccp5-gg58-pxfm] Improper Preservation of Permissions in Apache Struts,https://github.com/advisories/GHSA-ccp5-gg58-pxfm,https://bit.ly/3IfhH9J
+GithubAdvisories,[GHSA-784j-h234-m56x] Protection Mechanism Failure in Jenkins Script Security Plugin,https://github.com/advisories/GHSA-784j-h234-m56x,https://bit.ly/3IbM6pi
+GithubAdvisories,[GHSA-r8rw-xx57-m64q] Cross-Site Request Forgery in Jenkins Git Plugin,https://github.com/advisories/GHSA-r8rw-xx57-m64q,https://bit.ly/3IbM68M
+GithubAdvisories,[GHSA-742j-jcfr-23w3] Insufficient Session Expiration in Jenkins,https://github.com/advisories/GHSA-742j-jcfr-23w3,https://bit.ly/3bNJ8uW
+GithubAdvisories,[GHSA-h47x-2j37-fw5m] Use of Externally-Controlled Input to Select Classes or Code in Infinispan,https://github.com/advisories/GHSA-h47x-2j37-fw5m,https://bit.ly/3Ay3um6
+GithubAdvisories,[GHSA-72gx-qq2m-6xr2] Improper Control of Generation of Code in Jenkins Script Security Plugin,https://github.com/advisories/GHSA-72gx-qq2m-6xr2,https://bit.ly/3bNJ9iu
+GithubAdvisories,[GHSA-9x5v-8352-244g] Missing Authorization in Jenkins Pipeline: Shared Groovy Libraries Plugin,https://github.com/advisories/GHSA-9x5v-8352-244g,https://bit.ly/3bNJ9Pw
+GithubAdvisories,[GHSA-fh5v-5f35-2rv2] Insertion of Sensitive Information into Log File in ansible,https://github.com/advisories/GHSA-fh5v-5f35-2rv2,https://bit.ly/3Il4eNt
+GithubAdvisories,[GHSA-3j68-qwmf-72gv] Malware in horizon_dev,https://github.com/advisories/GHSA-3j68-qwmf-72gv,https://bit.ly/3IbM7cQ
+GithubAdvisories,[GHSA-ph34-pc88-72gc] Incorrect Permission Assignment for Critical Resource in NPM,https://github.com/advisories/GHSA-ph34-pc88-72gc,https://bit.ly/3IgqqIp
+GithubAdvisories,[GHSA-5p59-v5wm-77v4] Improper Limitation of a Pathname to a Restricted Directory in Jenkins,https://github.com/advisories/GHSA-5p59-v5wm-77v4,https://bit.ly/3IbM7JS
+GithubAdvisories,[GHSA-8477-3v39-ggpm] Improper Validation of Integrity Check Value in Bouncy Castle,https://github.com/advisories/GHSA-8477-3v39-ggpm,https://bit.ly/3bNJaTA
+GithubAdvisories,[GHSA-xg47-r67p-vhv5] Improper Input Validation in Deap,https://github.com/advisories/GHSA-xg47-r67p-vhv5,https://bit.ly/3Arrl7g
+GithubAdvisories,[GHSA-4vrv-ch96-6h42] Improper Privilege Management in MySQL Connectors Java,https://github.com/advisories/GHSA-4vrv-ch96-6h42,https://bit.ly/3IbM8gU
+GithubAdvisories,[GHSA-667q-vj58-rj88] Exposure of Sensitive Information to an Unauthorized Actor in Jenkins,https://github.com/advisories/GHSA-667q-vj58-rj88,https://bit.ly/3bOZZxF
+GithubAdvisories,[GHSA-q4cq-r7hg-pxqq] Improper Authentication in Jenkins,https://github.com/advisories/GHSA-q4cq-r7hg-pxqq,https://bit.ly/3IhKWbJ
+GithubAdvisories,[GHSA-2632-h32j-6rg9] Missing Release of Resource after Effective Lifetime in Jenkins,https://github.com/advisories/GHSA-2632-h32j-6rg9,https://bit.ly/3AqZaVP
+GithubAdvisories,[GHSA-28p3-mchr-9frj] Deserialization of Untrusted Data in Jenkins,https://github.com/advisories/GHSA-28p3-mchr-9frj,https://bit.ly/3IbM94s
+GithubAdvisories,[GHSA-6456-xjm5-g3pg] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-6456-xjm5-g3pg,https://bit.ly/3IbM8NW
+GithubAdvisories,[GHSA-2pp9-r4rv-6p6j] Exposure of Sensitive Information to an Unauthorized Actor in Jenkins,https://github.com/advisories/GHSA-2pp9-r4rv-6p6j,https://bit.ly/3AqZbcl
+GithubAdvisories,[GHSA-pgxv-h967-fw2q] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-pgxv-h967-fw2q,https://bit.ly/3Anybur
+GithubAdvisories,[GHSA-wmr8-25ff-ggpj] Incorrect Authorization in Jenkins,https://github.com/advisories/GHSA-wmr8-25ff-ggpj,https://bit.ly/3IbCcEa
+GithubAdvisories,[GHSA-p265-xr98-3vmr] Incorrect Authorization in Jenkins,https://github.com/advisories/GHSA-p265-xr98-3vmr,https://bit.ly/3bNJbXE
+GithubAdvisories,[GHSA-qf38-f2fr-q4x9] Improper Input Validation in Jenkins,https://github.com/advisories/GHSA-qf38-f2fr-q4x9,https://bit.ly/3IbM9S0
+GithubAdvisories,[GHSA-j8qv-mj4r-6fw4] Improper Input Validation in Jenkins,https://github.com/advisories/GHSA-j8qv-mj4r-6fw4,https://bit.ly/3bNJcuG
+GithubAdvisories,[GHSA-xp26-p53h-6h2p] Improper Neutralization of Input During Web Page Generation in LXML,https://github.com/advisories/GHSA-xp26-p53h-6h2p,https://bit.ly/3IbCdbc
+GithubAdvisories,[GHSA-m643-2pfv-xwm8] Exposure of Sensitive Information to an Unauthorized Actor in SonarSource SonarQube API,https://github.com/advisories/GHSA-m643-2pfv-xwm8,https://bit.ly/3bNJd1I
+GithubAdvisories,[GHSA-ww3v-6xjf-jv28] Uncontrolled Resource Consumption in Spray JSON,https://github.com/advisories/GHSA-ww3v-6xjf-jv28,https://bit.ly/3IbCdIe
+GithubAdvisories,[GHSA-ccmr-qj26-845g] Improper Restriction of XML External Entity Reference in Elasticsearch,https://github.com/advisories/GHSA-ccmr-qj26-845g,https://bit.ly/3bNJdie
+GithubAdvisories,[GHSA-vpqm-88c4-x4cv] Exposure of Sensitive Information to an Unauthorized Actor in Elasticsearch,https://github.com/advisories/GHSA-vpqm-88c4-x4cv,https://bit.ly/3IbCdYK
+GithubAdvisories,[GHSA-xm94-9jw8-p6hw] Insertion of Sensitive Information into Externally-Accessible File or Directory in Jenkins Credentials Plugin,https://github.com/advisories/GHSA-xm94-9jw8-p6hw,https://bit.ly/3IbCefg
+GithubAdvisories,[GHSA-vwq9-cmqr-3c8c] Insertion of Sensitive Information into Log File in Jenkins Configuration as Code Plugin,https://github.com/advisories/GHSA-vwq9-cmqr-3c8c,https://bit.ly/3bNJe5M
+GithubAdvisories,[GHSA-mqr8-3v8j-46wv] Missing Authorization in Jenkins Configuration as Code Plugin,https://github.com/advisories/GHSA-mqr8-3v8j-46wv,https://bit.ly/3bNJemi
+GithubAdvisories,[GHSA-ggmx-pq89-7mcr] Plaintext Storage of a Password in Jenkins Configuration as Code Plugin,https://github.com/advisories/GHSA-ggmx-pq89-7mcr,https://bit.ly/3IbCf2O
+GithubAdvisories,[GHSA-qr42-82qj-mw65] Improper Limitation of a Pathname to a Restricted Directory in Jenkins,https://github.com/advisories/GHSA-qr42-82qj-mw65,https://bit.ly/3bNJeCO
+GithubAdvisories,[GHSA-hcxf-rq72-h4rr] Cross-Site Request Forgery in Jenkins,https://github.com/advisories/GHSA-hcxf-rq72-h4rr,https://bit.ly/3bNJf9Q
+GithubAdvisories,[GHSA-6jfc-mc97-c7wg] Missing Authorization in Jenkins,https://github.com/advisories/GHSA-6jfc-mc97-c7wg,https://bit.ly/3IbCfQm
+GithubAdvisories,[GHSA-p56j-x44h-g66j] Incorrect Privilege Assignment in Jenkins Script Security Plugin,https://github.com/advisories/GHSA-p56j-x44h-g66j,https://bit.ly/3bNJguq
+GithubAdvisories,[GHSA-x25x-j4w4-7m59] Return of Pointer Value Outside of Expected Rang in Jenkins Script Security Plugin,https://github.com/advisories/GHSA-x25x-j4w4-7m59,https://bit.ly/3IbMap2
+GithubAdvisories,[GHSA-5r6p-p9r6-r326] Improper Encoding or Escaping of Output in Jenkins Configuration as Code Plugin,https://github.com/advisories/GHSA-5r6p-p9r6-r326,https://bit.ly/3AmGh6w
+GithubAdvisories,[GHSA-r69h-6c4g-63xf] Cleartext Transmission of Sensitive Information in Jenkins Configuration as Code Plugin,https://github.com/advisories/GHSA-r69h-6c4g-63xf,https://bit.ly/3bNJgKW
+GithubAdvisories,[GHSA-7c3v-vc3x-x789] Insertion of Sensitive Information into Log File in Jenkins Configuration as Code Plugin,https://github.com/advisories/GHSA-7c3v-vc3x-x789,https://bit.ly/3IbMaW4
+GithubAdvisories,[GHSA-gp67-c7j2-2qg2] Insertion of Sensitive Information into Log File in Jenkins Mask Passwords Plugin,https://github.com/advisories/GHSA-gp67-c7j2-2qg2,https://bit.ly/3IbMbt6
+GithubAdvisories,[GHSA-9m48-54pj-h248] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-9m48-54pj-h248,https://bit.ly/3OKNq4R
+GithubAdvisories,[GHSA-vcr8-h8qp-qj8h] Cross-Site Request Forgery in Jenkins,https://github.com/advisories/GHSA-vcr8-h8qp-qj8h,https://bit.ly/3ApxUqN
+GithubAdvisories,[GHSA-hw6x-2qwv-rxr7] Improper Neutralization of Special Elements used in an OS Command in Jenkins Git Client Plugin,https://github.com/advisories/GHSA-hw6x-2qwv-rxr7,https://bit.ly/3OGWSpS
+GithubAdvisories,[GHSA-hg6g-jj7g-x6v2] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-hg6g-jj7g-x6v2,https://bit.ly/3IbMc08
+GithubAdvisories,[GHSA-q6q9-83xw-mp6p] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-q6q9-83xw-mp6p,https://bit.ly/3OH2NLv
+GithubAdvisories,[GHSA-7cjc-xppr-xj6x] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-7cjc-xppr-xj6x,https://bit.ly/3IfEty7
+GithubAdvisories,[GHSA-rwqr-c348-m5wr] Withdrawn: Denial of Service in aiohttp,https://github.com/advisories/GHSA-rwqr-c348-m5wr,https://bit.ly/3bU6Wxu
+GithubAdvisories,[GHSA-9qgf-4fpf-cmh2] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-9qgf-4fpf-cmh2,https://bit.ly/3bS6iR3
+GithubAdvisories,[GHSA-hw55-f8wc-82m6] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-hw55-f8wc-82m6,https://bit.ly/3IbMcxa
+GithubAdvisories,[GHSA-8qh4-fghr-6fxg] Improper Limitation of a Pathname to a Restricted Directory in Jenkins Google OAuth Credentials Plugin,https://github.com/advisories/GHSA-8qh4-fghr-6fxg,https://bit.ly/3IbMd4c
+GithubAdvisories,[GHSA-8cxp-cjm8-fj36] Improper Neutralization of Special Elements used in an OS Command in Blamer,https://github.com/advisories/GHSA-8cxp-cjm8-fj36,https://bit.ly/3IbMdkI
+GithubAdvisories,[GHSA-r64q-w8jr-g9qp] Improper Neutralization of CRLF Sequences in urllib3 library for Python,https://github.com/advisories/GHSA-r64q-w8jr-g9qp,https://bit.ly/3IgKRoA
+GithubAdvisories,[GHSA-8cw2-jv5c-c825] Missing Initialization of Resource in Apache Arrow,https://github.com/advisories/GHSA-8cw2-jv5c-c825,https://bit.ly/3bJaGSd
+GithubAdvisories,[GHSA-cjw4-2w9r-r8mv] Missing Initialization of Resource in Apache Arrow,https://github.com/advisories/GHSA-cjw4-2w9r-r8mv,https://bit.ly/3aafO1u
+GithubAdvisories,[GHSA-9jwc-q6j3-8g9g] Improper Restriction of XML External Entity Reference in Apache POI,https://github.com/advisories/GHSA-9jwc-q6j3-8g9g,https://bit.ly/3IbMe8g
+GithubAdvisories,[GHSA-pmxf-4v8c-rwr7] Incorrect Resource Transfer Between Spheres in Grails,https://github.com/advisories/GHSA-pmxf-4v8c-rwr7,https://bit.ly/3bLKqqk
+GithubAdvisories,[GHSA-hmjv-px3j-933c] Unrestricted Upload of File with Dangerous Type in Sonatype Nexus Repository Manager,https://github.com/advisories/GHSA-hmjv-px3j-933c,https://bit.ly/3OKDQim
+GithubAdvisories,[GHSA-62pm-mgrh-7p69] Incorrect Authorization in Jenkins Script Security Plugin,https://github.com/advisories/GHSA-62pm-mgrh-7p69,https://bit.ly/3IfhHqf
+GithubAdvisories,[GHSA-mh2h-6j8q-x246] Improper Neutralization of Special Elements in Output Used by a Downstream Component in Codecov,https://github.com/advisories/GHSA-mh2h-6j8q-x246,https://bit.ly/3Itcg7f
+GithubAdvisories,[GHSA-2q6v-32mr-8p8x] Null Byte Injection in Plug.Static,https://github.com/advisories/GHSA-2q6v-32mr-8p8x,https://bit.ly/3IhckqA
+GithubAdvisories,[GHSA-5v4m-c73v-c7gq] Arbitrary Code Execution in Cookie Serialization,https://github.com/advisories/GHSA-5v4m-c73v-c7gq,https://bit.ly/3IbMfZS
+GithubAdvisories,[GHSA-9h73-w7ch-rh73] Header Injection,https://github.com/advisories/GHSA-9h73-w7ch-rh73,https://bit.ly/3IbMeVO
+GithubAdvisories,[GHSA-v2wf-c3j6-wpvw] Session fixation,https://github.com/advisories/GHSA-v2wf-c3j6-wpvw,https://bit.ly/3AlSxnP
+GithubAdvisories,[GHSA-5653-437f-5hmc] Denial of service,https://github.com/advisories/GHSA-5653-437f-5hmc,https://bit.ly/3IbMfck
+GithubAdvisories,[GHSA-qpmc-wprv-x746] Inline DTD allows XML bomb attack,https://github.com/advisories/GHSA-qpmc-wprv-x746,https://bit.ly/3OKxKPc
+GithubAdvisories,[GHSA-mrq8-53r4-3j5m] Permissive parameters and privilege escalation,https://github.com/advisories/GHSA-mrq8-53r4-3j5m,https://bit.ly/3AqAaOK
+GithubAdvisories,[GHSA-w98m-2xqg-9cvj] Remote Code Execution in paginator,https://github.com/advisories/GHSA-w98m-2xqg-9cvj,https://bit.ly/3AqAm0k
+GithubAdvisories,[GHSA-2xxx-fhc8-9qvq] Missing `is_nil` requirement,https://github.com/advisories/GHSA-2xxx-fhc8-9qvq,https://bit.ly/3IbMgwU
+GithubAdvisories,[GHSA-j3gg-r6gp-95q2] XSS in HEEx class attributes,https://github.com/advisories/GHSA-j3gg-r6gp-95q2,https://bit.ly/3OHajq3
+GithubAdvisories,[GHSA-cmfh-8f8r-fj96] Arbitrary URL Redirect,https://github.com/advisories/GHSA-cmfh-8f8r-fj96,https://bit.ly/3IaXzW9
+GithubAdvisories,[GHSA-5chx-gg25-v37m] Cross-site Scripting in xain,https://github.com/advisories/GHSA-5chx-gg25-v37m,https://bit.ly/3IbMgNq
+GithubAdvisories,[GHSA-5crp-9r3c-p9vr] Improper Handling of Exceptional Conditions in Newtonsoft.Json,https://github.com/advisories/GHSA-5crp-9r3c-p9vr,https://bit.ly/3As9xc2
+GithubAdvisories,[GHSA-pfrx-2q88-qq97] Got allows a redirect to a UNIX socket,https://github.com/advisories/GHSA-pfrx-2q88-qq97,https://bit.ly/3AumL87
+GithubAdvisories,[GHSA-2w73-fqqj-c92p] Improper Input Validation in Undertow,https://github.com/advisories/GHSA-2w73-fqqj-c92p,https://bit.ly/3AqFfWY
+GithubAdvisories,[GHSA-327c-qx3v-h673] Always-Incorrect Control Flow Implementation in Facebook Hermes,https://github.com/advisories/GHSA-327c-qx3v-h673,https://bit.ly/3OKTavp
+GithubAdvisories,[GHSA-x4cf-6jr3-3qvp] Out-of-bounds Read in Facebook Hermes,https://github.com/advisories/GHSA-x4cf-6jr3-3qvp,https://bit.ly/3bOOcPU
+GithubAdvisories,[GHSA-qpg2-vx7j-3869] XML Injection in ReportLab,https://github.com/advisories/GHSA-qpg2-vx7j-3869,https://bit.ly/3IbCgDU
+GithubAdvisories,[GHSA-rj7p-rfgp-852x] Loop with Unreachable Exit Condition in Apache Thrift,https://github.com/advisories/GHSA-rj7p-rfgp-852x,https://bit.ly/3IfO6g9
+GithubAdvisories,[GHSA-j7j6-7hfx-5522] Inconsistent Interpretation of HTTP Requests in Waitress,https://github.com/advisories/GHSA-j7j6-7hfx-5522,https://bit.ly/3IfO5ZD
+GithubAdvisories,[GHSA-v5rq-w2xm-7g5f] Improper Access Control in MySQL Connector Python,https://github.com/advisories/GHSA-v5rq-w2xm-7g5f,https://bit.ly/3aauAoV
+GithubAdvisories,[GHSA-fj32-6v7m-57pg] Improper Access Control in Elasticsearch,https://github.com/advisories/GHSA-fj32-6v7m-57pg,https://bit.ly/3AugysO
+GithubAdvisories,[GHSA-jqm6-m3j3-8gg9] Concurrent Execution using Shared Resource with Improper Synchronization in Elasticsearch,https://github.com/advisories/GHSA-jqm6-m3j3-8gg9,https://bit.ly/3IdB2YB
+GithubAdvisories,[GHSA-hxp8-r9g3-grfr] Exposure of Sensitive Information to an Unauthorized Actor in Elasticsearch,https://github.com/advisories/GHSA-hxp8-r9g3-grfr,https://bit.ly/3abEczN
+GithubAdvisories,[GHSA-964f-g8vf-hp59] Malware in discordselfbotv15,https://github.com/advisories/GHSA-964f-g8vf-hp59,https://bit.ly/3IfEtOD
+GithubAdvisories,[GHSA-grr2-4g6h-qxfp] Malware in discordjs-selfbot-v17,https://github.com/advisories/GHSA-grr2-4g6h-qxfp,https://bit.ly/3Aqe9iM
+GithubAdvisories,[GHSA-4w67-53rp-wvxf] Malware in discorddependency,https://github.com/advisories/GHSA-4w67-53rp-wvxf,https://bit.ly/3OPsMAQ
+GithubAdvisories,[GHSA-857q-g67v-4ccp] Malware in discordselfbotv16,https://github.com/advisories/GHSA-857q-g67v-4ccp,https://bit.ly/3AlSxUR
+GithubAdvisories,[GHSA-9pvq-4cc7-24jg] Cross-site Scripting in Jfinal CMS,https://github.com/advisories/GHSA-9pvq-4cc7-24jg,https://bit.ly/3OLI6hy
+GithubAdvisories,[GHSA-6j88-6whg-x687] Cross-site Scripting in Apache Tomcat,https://github.com/advisories/GHSA-6j88-6whg-x687,https://bit.ly/3bLWGXR
+GithubAdvisories,[GHSA-qx2j-85q5-ffp8] Query predicate bypass in Zalando Skipper,https://github.com/advisories/GHSA-qx2j-85q5-ffp8,https://bit.ly/3OHEInT
+GithubAdvisories,[GHSA-px3r-27qc-hx5g] NT auth module vulnerability in OpenAM,https://github.com/advisories/GHSA-px3r-27qc-hx5g,https://bit.ly/3IhBYvk
+GithubAdvisories,[GHSA-5ww9-9qp2-x524] Improper handling of double quotes in file name in Diffy in Windows environment,https://github.com/advisories/GHSA-5ww9-9qp2-x524,https://bit.ly/3OMEnjW
+GithubAdvisories,[GHSA-fpxm-fprw-6hxj] Salt's PAM auth fails to reject locked accounts,https://github.com/advisories/GHSA-fpxm-fprw-6hxj,https://bit.ly/3IcPXCm
+GithubAdvisories,[GHSA-3fvg-4v2m-98jf] JWS and JWT signature validation vulnerability with special characters,https://github.com/advisories/GHSA-3fvg-4v2m-98jf,https://bit.ly/3IdSGvm
+GithubAdvisories,[GHSA-3jhm-87m6-x959] Path traversal mitigation bypass in OctoRPKI,https://github.com/advisories/GHSA-3jhm-87m6-x959,https://bit.ly/3IbnRrn
+GithubAdvisories,[GHSA-hhx8-cr55-qcxx] Improper Neutralization of Input During Web Page Generation in Jupyter Notebook,https://github.com/advisories/GHSA-hhx8-cr55-qcxx,https://bit.ly/3bJaH8J
+GithubAdvisories,[GHSA-7fhr-2694-rg79] Session Fixation in WildFly Elytron,https://github.com/advisories/GHSA-7fhr-2694-rg79,https://bit.ly/3AqAmgQ
+GithubAdvisories,[GHSA-q9g8-9hpp-xc82] nsufficiently Protected Credentials in ActiveMQ Artemis,https://github.com/advisories/GHSA-q9g8-9hpp-xc82,https://bit.ly/3bLKqGQ
+GithubAdvisories,[GHSA-jffq-528j-mp6c] Improper Restriction of XML External Entity Reference in Mulesoft APIkit,https://github.com/advisories/GHSA-jffq-528j-mp6c,https://bit.ly/3OKNqln
+GithubAdvisories,[GHSA-w4jq-qh47-hvjq] Improper Input Validation in Xerces,https://github.com/advisories/GHSA-w4jq-qh47-hvjq,https://bit.ly/3bRSvKg
+GithubAdvisories,[GHSA-63cq-ppq8-cw6g] Improper Input Validation in RESTEasy,https://github.com/advisories/GHSA-63cq-ppq8-cw6g,https://bit.ly/3AlSyrT
+GithubAdvisories,[GHSA-gv2w-88hx-8m9r] Improper Authorization in Undertoe,https://github.com/advisories/GHSA-gv2w-88hx-8m9r,https://bit.ly/3Ic7FWJ
+GithubAdvisories,[GHSA-qgrq-cx4c-2rmm] Incorrect Authorization in WildFly Elytron,https://github.com/advisories/GHSA-qgrq-cx4c-2rmm,https://bit.ly/3OJnwyx
+GithubAdvisories,[GHSA-f5x2-xv93-4p23] Access of Resource Using Incompatible Type in Facebook Hermes,https://github.com/advisories/GHSA-f5x2-xv93-4p23,https://bit.ly/3AlSyIp
+GithubAdvisories,[GHSA-pf27-929j-9pmm] Out-of-bounds Read and Out-of-bounds Write in Facebook Hermes,https://github.com/advisories/GHSA-pf27-929j-9pmm,https://bit.ly/3OJ4iJk
+GithubAdvisories,[GHSA-gmpm-xp43-f7g6] Signed to Unsigned Conversion Error in Facebook Hermes,https://github.com/advisories/GHSA-gmpm-xp43-f7g6,https://bit.ly/3Iluass
+GithubAdvisories,[GHSA-99mf-f3qh-wqrp] Improper Input Validation in Jenkins Pipeline: Groovy Plugin,https://github.com/advisories/GHSA-99mf-f3qh-wqrp,https://bit.ly/3IcarLu
+GithubAdvisories,[GHSA-qvmf-36h5-3f5v] Improper Input Validation in Jenkins Script Security Plugin,https://github.com/advisories/GHSA-qvmf-36h5-3f5v,https://bit.ly/3ApY10F
+GithubAdvisories,[GHSA-vj6f-q4w6-qx9p] Plaintext Storage of a Password in Jenkins Eagle Tester Plugin,https://github.com/advisories/GHSA-vj6f-q4w6-qx9p,https://bit.ly/3IekLmk
+GithubAdvisories,[GHSA-6c7r-6p5m-cp82] Improper Neutralization of Input During Web Page Generation in Jenkins Git Plugin,https://github.com/advisories/GHSA-6c7r-6p5m-cp82,https://bit.ly/3bOZVxV
+GithubAdvisories,[GHSA-c735-g9f2-2mvp] Cross-Site Request Forgery in Jenkins,https://github.com/advisories/GHSA-c735-g9f2-2mvp,https://bit.ly/3IgKN8k
+GithubAdvisories,[GHSA-g8pg-qrvm-wgh2] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-g8pg-qrvm-wgh2,https://bit.ly/3OKhSMm
+GithubAdvisories,[GHSA-crg2-6xv3-qg5f] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-crg2-6xv3-qg5f,https://bit.ly/3ApY1hb
+GithubAdvisories,[GHSA-2xcm-h7vv-g8m9] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-2xcm-h7vv-g8m9,https://bit.ly/3OL5cFh
+GithubAdvisories,[GHSA-43j2-r4v3-m8jp] Insufficiently Protected Credentials in Jenkins Credentials Binding Plugin,https://github.com/advisories/GHSA-43j2-r4v3-m8jp,https://bit.ly/3OKxL5I
+GithubAdvisories,[GHSA-7ff8-qfwx-8gx5] Insufficiently Protected Credentials in Jenkins Credentials Binding Plugin,https://github.com/advisories/GHSA-7ff8-qfwx-8gx5,https://bit.ly/3OHww7h
+GithubAdvisories,[GHSA-q87g-7mp5-765q] Improper Neutralization of Input During Web Page Generation in Jenkins Script Security Plugin,https://github.com/advisories/GHSA-q87g-7mp5-765q,https://bit.ly/3IcQ1SC
+GithubAdvisories,[GHSA-qgj4-rc8m-44mq] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-qgj4-rc8m-44mq,https://bit.ly/3bRSG8o
+GithubAdvisories,[GHSA-g4j6-m3m3-crw8] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-g4j6-m3m3-crw8,https://bit.ly/3IbnEV7
+GithubAdvisories,[GHSA-864v-5q2g-fr64] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-864v-5q2g-fr64,https://bit.ly/3ApxUXP
+GithubAdvisories,[GHSA-gfhj-524q-gcrm] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-gfhj-524q-gcrm,https://bit.ly/3Iluoji
+GithubAdvisories,[GHSA-h6qc-455m-7v6v] Improper Neutralization of Input During Web Page Generation in Jenkins Matrix Project Plugin,https://github.com/advisories/GHSA-h6qc-455m-7v6v,https://bit.ly/3Igqrfr
+GithubAdvisories,[GHSA-w43x-5f8f-686p] Improper Neutralization of Input During Web Page Generation in Jenkins Matrix Project Plugin,https://github.com/advisories/GHSA-w43x-5f8f-686p,https://bit.ly/3AvJTTX
+GithubAdvisories,[GHSA-mcqm-6ff4-53qx] Cross-site Scripting in Strapi,https://github.com/advisories/GHSA-mcqm-6ff4-53qx,https://bit.ly/3IhcgXS
+GithubAdvisories,[GHSA-6293-2vg2-pmp5] Insufficient Session Expiration in NocoDB,https://github.com/advisories/GHSA-6293-2vg2-pmp5,https://bit.ly/3IdSCvC
+GithubAdvisories,[GHSA-fq4h-m3c8-8m2v] Improper Privilege Management in NocoDB,https://github.com/advisories/GHSA-fq4h-m3c8-8m2v,https://bit.ly/3IcPXSS
+GithubAdvisories,[GHSA-fp76-f299-v3hj] Cross-site Scripting in FacturaScripts,https://github.com/advisories/GHSA-fp76-f299-v3hj,https://bit.ly/3bLWHen
+GithubAdvisories,[GHSA-g2r3-4g8q-h5rj] Missing authorization in Jenkins Kubernetes Plugin,https://github.com/advisories/GHSA-g2r3-4g8q-h5rj,https://bit.ly/3IhKWIL
+GithubAdvisories,[GHSA-7qf3-c2q8-69m3] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-7qf3-c2q8-69m3,https://bit.ly/3IeN6sz
+GithubAdvisories,[GHSA-929w-q433-4h9x] Improper Authorization in Jenkins,https://github.com/advisories/GHSA-929w-q433-4h9x,https://bit.ly/3IbTP6G
+GithubAdvisories,[GHSA-pgj6-jmj5-wqfx] Missing Authorization in Jenkins,https://github.com/advisories/GHSA-pgj6-jmj5-wqfx,https://bit.ly/3abEcQj
+GithubAdvisories,[GHSA-vrrc-3wwh-frgx] Missing Authorization in Jenkins Mercurial Plugin,https://github.com/advisories/GHSA-vrrc-3wwh-frgx,https://bit.ly/3IbC9rY
+GithubAdvisories,[GHSA-x58r-wxc3-7pqr] Improper Restriction of XML External Entity Reference in Jenkins Mercurial Plugin,https://github.com/advisories/GHSA-x58r-wxc3-7pqr,https://bit.ly/3IdB3f7
+GithubAdvisories,[GHSA-ccr8-4xr7-cgj3] Protection Mechanism Failure in Jenkins Script Security Plugin,https://github.com/advisories/GHSA-ccr8-4xr7-cgj3,https://bit.ly/3aauAFr
+GithubAdvisories,[GHSA-6fr3-286q-q3cr] Improper Validation of Certificate with Host Mismatch in Jenkins Mailer Plugin,https://github.com/advisories/GHSA-6fr3-286q-q3cr,https://bit.ly/3As9xsy
+GithubAdvisories,[GHSA-jpvq-v729-7j2h] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-jpvq-v729-7j2h,https://bit.ly/3OHC69O
+GithubAdvisories,[GHSA-9g4m-ffx6-c29g] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-9g4m-ffx6-c29g,https://bit.ly/3IhBYLQ
+GithubAdvisories,[GHSA-hvmc-7g2x-r3p9] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-hvmc-7g2x-r3p9,https://bit.ly/3OEt3pY
+GithubAdvisories,[GHSA-vr6v-wjfw-rxcr] Improper Neutralization of Input During Web Page Generation in Jenkins Matrix Authorization Strategy Plugin,https://github.com/advisories/GHSA-vr6v-wjfw-rxcr,https://bit.ly/3OC6P85
+GithubAdvisories,[GHSA-fh5w-p2j4-4p8x] Exposure of Sensitive Information to an Unauthorized Actor in Jenkins Kubernetes Plugin,https://github.com/advisories/GHSA-fh5w-p2j4-4p8x,https://bit.ly/3Ay3uT8
+GithubAdvisories,[GHSA-rr6j-37cv-c7x7] Missing Authorization in Jenkins Kubernetes Plugin,https://github.com/advisories/GHSA-rr6j-37cv-c7x7,https://bit.ly/3IdSGLS
+GithubAdvisories,[GHSA-97hp-6q9g-5cw2] Uncontrolled Resource Consumption in WildFly,https://github.com/advisories/GHSA-97hp-6q9g-5cw2,https://bit.ly/3IbnRHT
+GithubAdvisories,[GHSA-4m44-5j2g-xf64] Improper Neutralization of Input During Web Page Generation in CKEditor4,https://github.com/advisories/GHSA-4m44-5j2g-xf64,https://bit.ly/3IbTKQq
+GithubAdvisories,[GHSA-cqj8-47ch-rvvq] Incorrect Default Permissions in JetBrains Kotlin,https://github.com/advisories/GHSA-cqj8-47ch-rvvq,https://bit.ly/3IevLjE
+GithubAdvisories,[GHSA-7xx3-qp5w-fw96] Cross-Site Request Forgery in JupyterHub,https://github.com/advisories/GHSA-7xx3-qp5w-fw96,https://bit.ly/3Aqe9zi
+GithubAdvisories,[GHSA-r7rm-8j6h-r933] Buffer Copy without Checking Size of Input in Pillow,https://github.com/advisories/GHSA-r7rm-8j6h-r933,https://bit.ly/3IekLCQ
+GithubAdvisories,[GHSA-4ph4-q9r5-6wm6] Deserialization of Untrusted Data in Spring Batch,https://github.com/advisories/GHSA-4ph4-q9r5-6wm6,https://bit.ly/3AqAmxm
+GithubAdvisories,[GHSA-gfv5-grx2-9jw2] Improper Privilege Management in Elasticsearch,https://github.com/advisories/GHSA-gfv5-grx2-9jw2,https://bit.ly/3ArrlEi
+GithubAdvisories,[GHSA-cqgv-256r-m9r8] Insertion of Sensitive Information into Log File in Elasticsearch,https://github.com/advisories/GHSA-cqgv-256r-m9r8,https://bit.ly/3OH2Oz3
+GithubAdvisories,[GHSA-5h75-pvq4-82c9] Server-Side Request Forgery in Directus,https://github.com/advisories/GHSA-5h75-pvq4-82c9,https://bit.ly/3OH2OPz
+GithubAdvisories,[GHSA-qmx3-m648-hr74] Log Injection in Apache Sling Commons Log and Apache Sling API,https://github.com/advisories/GHSA-qmx3-m648-hr74,https://bit.ly/3IhckXC
+GithubAdvisories,[GHSA-hv6q-5g4f-8897] Cross-site Scripting in NocoDB,https://github.com/advisories/GHSA-hv6q-5g4f-8897,https://bit.ly/3AqZbsR
+GithubAdvisories,[GHSA-rvgf-69j7-xh78] Uncontrolled Resource Consumption in @discordjs/opus,https://github.com/advisories/GHSA-rvgf-69j7-xh78,https://bit.ly/3bRSGoU
+GithubAdvisories,[GHSA-4qhr-q7wf-94xp] Deserialization of Untrusted Data in JYaml,https://github.com/advisories/GHSA-4qhr-q7wf-94xp,https://bit.ly/3IekHmA
+GithubAdvisories,[GHSA-w7pm-cc4v-f3g8] Deserialization of Untrusted Data in Liferay Portal,https://github.com/advisories/GHSA-w7pm-cc4v-f3g8,https://bit.ly/3ItcgEh
+GithubAdvisories,[GHSA-297x-8xj4-vcxv] Improper Control of Generation of Code in doT,https://github.com/advisories/GHSA-297x-8xj4-vcxv,https://bit.ly/3IfO6wF
+GithubAdvisories,[GHSA-vpjm-58cw-r8q5] Improper Link Resolution Before File Access in Jenkins,https://github.com/advisories/GHSA-vpjm-58cw-r8q5,https://bit.ly/3IluozO
+GithubAdvisories,[GHSA-98gq-6hxg-52r6] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-98gq-6hxg-52r6,https://bit.ly/3IbZ7PJ
+GithubAdvisories,[GHSA-qv6f-rcv6-6q3x] Deserialization of Untrusted Data in Jenkins,https://github.com/advisories/GHSA-qv6f-rcv6-6q3x,https://bit.ly/3bLKqXm
+GithubAdvisories,[GHSA-pxgq-gqr9-5gwx] Improper Input Validation in Jenkins,https://github.com/advisories/GHSA-pxgq-gqr9-5gwx,https://bit.ly/3OKDQPo
+GithubAdvisories,[GHSA-f585-9fw3-rj2m] Improper Input Validation in Jenkins,https://github.com/advisories/GHSA-f585-9fw3-rj2m,https://bit.ly/3bP00ld
+GithubAdvisories,[GHSA-cxqw-vjcr-gp5g] Allocation of Resources Without Limits or Throttling in Jenkins,https://github.com/advisories/GHSA-cxqw-vjcr-gp5g,https://bit.ly/3IgqrvX
+GithubAdvisories,[GHSA-wv63-gwr9-5c55] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-wv63-gwr9-5c55,https://bit.ly/3OJ4iZQ
+GithubAdvisories,[GHSA-mj7q-cmf3-mg7h] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-mj7q-cmf3-mg7h,https://bit.ly/3Aqf5nd
+GithubAdvisories,[GHSA-qxp6-27gw-99cj] Time-of-check Time-of-use (TOCTOU) Race Condition in Jenkins,https://github.com/advisories/GHSA-qxp6-27gw-99cj,https://bit.ly/3OKhT2S
+GithubAdvisories,[GHSA-pvwx-3jx5-24r2] Improper Input Validation in Jenkins,https://github.com/advisories/GHSA-pvwx-3jx5-24r2,https://bit.ly/3IbChaW
+GithubAdvisories,[GHSA-w2hv-rcqr-2h7r] mproper Handling of Inconsistent Structural Elements in Jenkins,https://github.com/advisories/GHSA-w2hv-rcqr-2h7r,https://bit.ly/3IhKWZh
+GithubAdvisories,[GHSA-58xm-mxjf-254g] Missing Authorization in Jenkins,https://github.com/advisories/GHSA-58xm-mxjf-254g,https://bit.ly/3bNJhP0
+GithubAdvisories,[GHSA-4g38-hrm4-rg94] Improper Limitation of a Pathname to a Restricted Directory in Jenkins,https://github.com/advisories/GHSA-4g38-hrm4-rg94,https://bit.ly/3Itcco1
+GithubAdvisories,[GHSA-3q84-vrvx-rfvf] Missing Authorization in Jenkins,https://github.com/advisories/GHSA-3q84-vrvx-rfvf,https://bit.ly/3bRSw0M
+GithubAdvisories,[GHSA-m9hr-259f-2v23] Missing Authorization in Jenkins,https://github.com/advisories/GHSA-m9hr-259f-2v23,https://bit.ly/3IfEulF
+GithubAdvisories,[GHSA-j3cq-h6vh-gx7f] Missing Authorization in Jenkins,https://github.com/advisories/GHSA-j3cq-h6vh-gx7f,https://bit.ly/3ApxVel
+GithubAdvisories,[GHSA-97c3-w9cr-6qc2] Protection Mechanism Failure in Jenkins,https://github.com/advisories/GHSA-97c3-w9cr-6qc2,https://bit.ly/3AmZcOF
+GithubAdvisories,[GHSA-2c79-h2h5-g3fw] Incorrect Authorization in Jenkins,https://github.com/advisories/GHSA-2c79-h2h5-g3fw,https://bit.ly/3ApY1xH
+GithubAdvisories,[GHSA-8xg4-xq2v-v6j7] Incorrect Authorization in Jenkins,https://github.com/advisories/GHSA-8xg4-xq2v-v6j7,https://bit.ly/3IluaZu
+GithubAdvisories,[GHSA-cvvm-4cr9-r436] Missing Authorization in Jenkins,https://github.com/advisories/GHSA-cvvm-4cr9-r436,https://bit.ly/3IhBZ2m
+GithubAdvisories,[GHSA-c5r9-rx53-q3gf] Protection Mechanism Failure in Jenkins,https://github.com/advisories/GHSA-c5r9-rx53-q3gf,https://bit.ly/3Ilubg0
+GithubAdvisories,[GHSA-cv2w-q8c3-xjv7] Incomplete List of Disallowed Inputs in Jenkins,https://github.com/advisories/GHSA-cv2w-q8c3-xjv7,https://bit.ly/3Ic7Ktv
+GithubAdvisories,[GHSA-67hm-27mx-9cg7] Link Following in Deno,https://github.com/advisories/GHSA-67hm-27mx-9cg7,https://bit.ly/3OKBi3J
+GithubAdvisories,[GHSA-4v3r-hqr9-69jf] Command Injection in Nuitka,https://github.com/advisories/GHSA-4v3r-hqr9-69jf,https://bit.ly/3AnybKX
+GithubAdvisories,[GHSA-xf37-qcvf-7m57] Improper Authentication in SaltStack Salt,https://github.com/advisories/GHSA-xf37-qcvf-7m57,https://bit.ly/3Iluc3y
+GithubAdvisories,[GHSA-hcjf-rp5h-g5h3] Command Injection in SaltStack Salt,https://github.com/advisories/GHSA-hcjf-rp5h-g5h3,https://bit.ly/3IbnRYp
+GithubAdvisories,[GHSA-hrf3-622q-8366] Unsafe yaml deserialization in NVFlare,https://github.com/advisories/GHSA-hrf3-622q-8366,https://bit.ly/3IgKSc8
+GithubAdvisories,[GHSA-rcxc-3w2m-mp8h] Unsafe deserialisation in the PKI implementation scheme of NVFlare,https://github.com/advisories/GHSA-rcxc-3w2m-mp8h,https://bit.ly/3OC6PoB
+GithubAdvisories,[GHSA-f4c9-cqv8-9v98] Insufficient Granularity of Access Control in JSDom,https://github.com/advisories/GHSA-f4c9-cqv8-9v98,https://bit.ly/3IlucAA
+GithubAdvisories,[GHSA-jwh2-ffg4-48xc] Improper Limitation of a Pathname to a Restricted Directory in Fabric8 Kubernetes Client,https://github.com/advisories/GHSA-jwh2-ffg4-48xc,https://bit.ly/3AqEKwf
+GithubAdvisories,[GHSA-2259-h742-5vr4] Exposure of Sensitive Information to an Unauthorized Actor in JBoss EJB Client,https://github.com/advisories/GHSA-2259-h742-5vr4,https://bit.ly/3IekLTm
+GithubAdvisories,[GHSA-rghw-6px2-fgwc] Improper Certificate Validation in MongoDB,https://github.com/advisories/GHSA-rghw-6px2-fgwc,https://bit.ly/3OLI6OA
+GithubAdvisories,[GHSA-pf94-6v2v-cm3j] Exposure of Resource to Wrong Sphere in Spring Cloud OpenFeign,https://github.com/advisories/GHSA-pf94-6v2v-cm3j,https://bit.ly/3OPsN7S
+GithubAdvisories,[GHSA-4926-qpxg-6r3w] Exposure of Resource to Wrong Sphere in Spring Data REST,https://github.com/advisories/GHSA-4926-qpxg-6r3w,https://bit.ly/3Ilud7C
+GithubAdvisories,[GHSA-945q-ch46-pchg] Deserialization of Untrusted Data in Spring AMQP,https://github.com/advisories/GHSA-945q-ch46-pchg,https://bit.ly/3aafOyw
+GithubAdvisories,[GHSA-rfmp-97jj-h8m6] Improper Output Neutralization for Logs in Spring Framework,https://github.com/advisories/GHSA-rfmp-97jj-h8m6,https://bit.ly/3OZ0hRj
+GithubAdvisories,[GHSA-fx7f-rjqj-52pj] Deserialization of Untrusted Data in Spring AMQP,https://github.com/advisories/GHSA-fx7f-rjqj-52pj,https://bit.ly/3OHEIUV
+GithubAdvisories,[GHSA-gfwj-fwqj-fp3v] Improper Privilege Management in Spring Framework,https://github.com/advisories/GHSA-gfwj-fwqj-fp3v,https://bit.ly/3AGQ7jZ
+GithubAdvisories,[GHSA-hr65-qq6p-87r4] Exposure of Sensitive Information to an Unauthorized Actor in Elasticsearch,https://github.com/advisories/GHSA-hr65-qq6p-87r4,https://bit.ly/3Ihcle8
+GithubAdvisories,[GHSA-q394-h7f5-7f44] Generation of Error Message Containing Sensitive Information in Elasticsearch,https://github.com/advisories/GHSA-q394-h7f5-7f44,https://bit.ly/3OO0Zk3
+GithubAdvisories,[GHSA-mph8-6787-r8hw] Use After Free in Hermes,https://github.com/advisories/GHSA-mph8-6787-r8hw,https://bit.ly/3IludEE
+GithubAdvisories,[GHSA-7mhc-prgv-r3q4] Access of Resource Using Incompatible Type in Hermes,https://github.com/advisories/GHSA-7mhc-prgv-r3q4,https://bit.ly/3IludVa
+GithubAdvisories,[GHSA-w6f2-8wx4-47r5] Incorrect Authorization in MySQL Connector Java,https://github.com/advisories/GHSA-w6f2-8wx4-47r5,https://bit.ly/3bRSGFq
+GithubAdvisories,[GHSA-w358-rj93-r5qv] Improper Neutralization of Input During Web Page Generation in Apache Superset,https://github.com/advisories/GHSA-w358-rj93-r5qv,https://bit.ly/3a9Djrv
+GithubAdvisories,[GHSA-qpfw-4m9x-rxx8] Improper Privilege Management in Azure ms-rest-nodeauth,https://github.com/advisories/GHSA-qpfw-4m9x-rxx8,https://bit.ly/3abEd6P
+GithubAdvisories,[GHSA-5499-qjvh-6j7w] Observable Discrepancy in Wildfly Elytron,https://github.com/advisories/GHSA-5499-qjvh-6j7w,https://bit.ly/3IbZ86f
+GithubAdvisories,[GHSA-3pqv-6pm3-g46j] SQL Injection in RosarioSIS,https://github.com/advisories/GHSA-3pqv-6pm3-g46j,https://bit.ly/3Aqe9PO
+GithubAdvisories,[GHSA-xfpv-hh5h-wqqh] Malware in bumblogger,https://github.com/advisories/GHSA-xfpv-hh5h-wqqh,https://bit.ly/3bJaHWh
+GithubAdvisories,[GHSA-94j4-6795-mfh6] Malware in @amplify-components/amplify-table,https://github.com/advisories/GHSA-94j4-6795-mfh6,https://bit.ly/3IlueII
+GithubAdvisories,[GHSA-qmwh-w2rr-4jxf] Malware in euscp,https://github.com/advisories/GHSA-qmwh-w2rr-4jxf,https://bit.ly/3ArrlUO
+GithubAdvisories,[GHSA-q9pr-qcvg-35q8] Malware in elementor.developers,https://github.com/advisories/GHSA-q9pr-qcvg-35q8,https://bit.ly/3Ilufwg
+GithubAdvisories,[GHSA-hcvq-mfj8-mqv9] Malware in slg-shared-utils,https://github.com/advisories/GHSA-hcvq-mfj8-mqv9,https://bit.ly/3bNJi5w
+GithubAdvisories,[GHSA-wrr6-278x-xvvh] Malware in slg-vue-components,https://github.com/advisories/GHSA-wrr6-278x-xvvh,https://bit.ly/3IbZ8Dh
+GithubAdvisories,[GHSA-3p65-x8g7-2vj9] Malware in katt-player,https://github.com/advisories/GHSA-3p65-x8g7-2vj9,https://bit.ly/3AqAbCi
+GithubAdvisories,[GHSA-8mpj-pcvq-vfhr] Malware in dash-generator-test-component-standard,https://github.com/advisories/GHSA-8mpj-pcvq-vfhr,https://bit.ly/3bKORlg
+GithubAdvisories,[GHSA-8fh2-ccqv-p298] Malware in smoooth-merchant,https://github.com/advisories/GHSA-8fh2-ccqv-p298,https://bit.ly/3OKhTjo
+GithubAdvisories,[GHSA-7r6f-rw4q-fw9p] Malware in shoppedemo,https://github.com/advisories/GHSA-7r6f-rw4q-fw9p,https://bit.ly/3IlugQQ
+GithubAdvisories,[GHSA-c7fq-2j28-gw86] Malware in jobcoin,https://github.com/advisories/GHSA-c7fq-2j28-gw86,https://bit.ly/3IlugAk
+GithubAdvisories,[GHSA-89j5-r869-248c] Malware in 1uphealth-demo-web-app,https://github.com/advisories/GHSA-89j5-r869-248c,https://bit.ly/3OHwwEj
+GithubAdvisories,[GHSA-2vpj-j3f8-gv5j] Malware in wad-workshop-starter,https://github.com/advisories/GHSA-2vpj-j3f8-gv5j,https://bit.ly/3OKxLCK
+GithubAdvisories,[GHSA-9grr-5cp6-72g2] Malware in bakabaka0010,https://github.com/advisories/GHSA-9grr-5cp6-72g2,https://bit.ly/3IluhEo
+GithubAdvisories,[GHSA-cgj2-mxcc-qvq7] Malware in ethmoji-js-demo,https://github.com/advisories/GHSA-cgj2-mxcc-qvq7,https://bit.ly/3OKTbiX
+GithubAdvisories,[GHSA-fmh6-r9mh-39vm] Malware in consideration-deploy-bot,https://github.com/advisories/GHSA-fmh6-r9mh-39vm,https://bit.ly/3OLI756
+GithubAdvisories,[GHSA-299q-v7jx-h55c] Malware in solid-completions,https://github.com/advisories/GHSA-299q-v7jx-h55c,https://bit.ly/3OKBikf
+GithubAdvisories,[GHSA-92q7-wmfg-vq43] Malware in osmosis-frontend,https://github.com/advisories/GHSA-92q7-wmfg-vq43,https://bit.ly/3IbZ9aj
+GithubAdvisories,[GHSA-p6qf-r9v8-5898] Malware in front-channel-template,https://github.com/advisories/GHSA-p6qf-r9v8-5898,https://bit.ly/3IbZ9XR
+GithubAdvisories,[GHSA-mgm2-53mp-rw3c] Malware in omm-frontend,https://github.com/advisories/GHSA-mgm2-53mp-rw3c,https://bit.ly/3IbZaen
+GithubAdvisories,[GHSA-jx66-5ww9-m6q4] Cross-Site Request Forgery in OWASP CSRFGuard,https://github.com/advisories/GHSA-jx66-5ww9-m6q4,https://bit.ly/3IbZb1V
+GithubAdvisories,[GHSA-f8vc-f28w-x9c9] Improper Neutralization of Input During Web Page Generation in Apache Superset,https://github.com/advisories/GHSA-f8vc-f28w-x9c9,https://bit.ly/3IbZbyX
+GithubAdvisories,[GHSA-fpfv-jqm9-f5jm] Incorrect Comparison in NumPy,https://github.com/advisories/GHSA-fpfv-jqm9-f5jm,https://bit.ly/3OMEo7u
+GithubAdvisories,[GHSA-2w4h-f44w-968f] Improper Privilege Management in Neo4j Graph Database,https://github.com/advisories/GHSA-2w4h-f44w-968f,https://bit.ly/3Augzgm
+GithubAdvisories,[GHSA-5h9g-8xcv-qjq9] Improper Restriction of XML External Entity Reference in Stanford CoreNLP,https://github.com/advisories/GHSA-5h9g-8xcv-qjq9,https://bit.ly/3Iluibq
+GithubAdvisories,[GHSA-8gf7-w3cp-gfh3] Improper Restriction of XML External Entity Reference in Stanford CoreNLP,https://github.com/advisories/GHSA-8gf7-w3cp-gfh3,https://bit.ly/3IbZcTx
+GithubAdvisories,[GHSA-h88f-r7cw-8fv3] Missing Authentication for Critical Function in Apache Airflow,https://github.com/advisories/GHSA-h88f-r7cw-8fv3,https://bit.ly/3IbZdqz
+GithubAdvisories,[GHSA-5545-2q6w-2gh6] NULL Pointer Dereference in NumPy,https://github.com/advisories/GHSA-5545-2q6w-2gh6,https://bit.ly/3IluiYY
+GithubAdvisories,[GHSA-f7c7-j99h-c22f] Buffer Copy without Checking Size of Input in NumPy,https://github.com/advisories/GHSA-f7c7-j99h-c22f,https://bit.ly/3OHEJbr
+GithubAdvisories,[GHSA-pg8m-4p8j-2p56] Improper Neutralization of Special Elements used in an SQL Command in Apache Superset,https://github.com/advisories/GHSA-pg8m-4p8j-2p56,https://bit.ly/3OEt3X0
+GithubAdvisories,[GHSA-42q4-9xf9-f67x] Insufficiently Protected Credentials in Apache Superset,https://github.com/advisories/GHSA-42q4-9xf9-f67x,https://bit.ly/3IlujMw
+GithubAdvisories,[GHSA-5fp8-c45m-256p] Improper Encoding or Escaping of Output in Apache Superset,https://github.com/advisories/GHSA-5fp8-c45m-256p,https://bit.ly/3IdSHiU
+GithubAdvisories,[GHSA-3hw2-h67c-wq66] Uncontrolled Recursion in Akka HTTP,https://github.com/advisories/GHSA-3hw2-h67c-wq66,https://bit.ly/3Aqf5DJ
+GithubAdvisories,[GHSA-g4rg-993r-mgx7] Improper Neutralization of Special Elements used in a Command in Shell-quote,https://github.com/advisories/GHSA-g4rg-993r-mgx7,https://bit.ly/3IbZdXB
+GithubAdvisories,[GHSA-65wv-528r-m892] Improper Input Validation in strapi,https://github.com/advisories/GHSA-65wv-528r-m892,https://bit.ly/3OH2PmB
+GithubAdvisories,[GHSA-cmjx-2hrg-5h93] Malware in @react-native-tscodegen/tslint-shared,https://github.com/advisories/GHSA-cmjx-2hrg-5h93,https://bit.ly/3Ilukjy
+GithubAdvisories,[GHSA-x4vc-fx72-g32h] Malware in @atlas-angular/logger,https://github.com/advisories/GHSA-x4vc-fx72-g32h,https://bit.ly/3AmEVsj
+GithubAdvisories,[GHSA-3w6r-x6p2-v86w] Malware in mephisto-worker-experience,https://github.com/advisories/GHSA-3w6r-x6p2-v86w,https://bit.ly/3IcanLK
+GithubAdvisories,[GHSA-5f3x-463w-pgv8] Malware in vngage-scheduler,https://github.com/advisories/GHSA-5f3x-463w-pgv8,https://bit.ly/3OJnxm5
+GithubAdvisories,[GHSA-2v96-xv9p-qr4q] Malware in cvent-web-components,https://github.com/advisories/GHSA-2v96-xv9p-qr4q,https://bit.ly/3AmZd5b
+GithubAdvisories,[GHSA-34wx-x2w9-vqm3] Deserialization of Untrusted Data in Jenkins Core,https://github.com/advisories/GHSA-34wx-x2w9-vqm3,https://bit.ly/3ApY1Od
+GithubAdvisories,[GHSA-85rq-hp8x-ghjq] Cross-Site Request Forgery in Jenkins Mailer Plugin,https://github.com/advisories/GHSA-85rq-hp8x-ghjq,https://bit.ly/3IfhDH1
+GithubAdvisories,[GHSA-558x-h7rg-997v] Incorrect Permission Assignment for Critical Resource in Jenkins Mailer Plugin,https://github.com/advisories/GHSA-558x-h7rg-997v,https://bit.ly/3bOZVOr
+GithubAdvisories,[GHSA-gqm2-2gcx-p88w] Incorrect Permission Assignment for Critical Resource in Jenkins Credentials Binding Plugin,https://github.com/advisories/GHSA-gqm2-2gcx-p88w,https://bit.ly/3IgKNFm
+GithubAdvisories,[GHSA-w2mh-6xj5-f77f] Incorrect Permission Assignment for Critical Resource in Jenkins Bitbucket Branch Source Plugin,https://github.com/advisories/GHSA-w2mh-6xj5-f77f,https://bit.ly/3Anyc1t
+GithubAdvisories,[GHSA-w4jv-6rg4-pr4m] Cross-Site Request Forgery in Jenkins Bitbucket Branch Source Plugin,https://github.com/advisories/GHSA-w4jv-6rg4-pr4m,https://bit.ly/3Anycyv
+GithubAdvisories,[GHSA-g76j-4cxx-23h9] Improper Handling of Insufficient Permissions or Privileges in MySQL Connectors Java,https://github.com/advisories/GHSA-g76j-4cxx-23h9,https://bit.ly/3bOOdDs
+GithubAdvisories,[GHSA-f7vh-qwp3-x37m] Deserialization of Untrusted Data in Apache Log4j,https://github.com/advisories/GHSA-f7vh-qwp3-x37m,https://bit.ly/3bNJim2
+GithubAdvisories,[GHSA-4m7p-55jm-3vwv] Improper Neutralization of Special Elements used in an OS Command in Jenkins Pipeline: Groovy Plugin,https://github.com/advisories/GHSA-4m7p-55jm-3vwv,https://bit.ly/3IhKSZx
+GithubAdvisories,[GHSA-g9fx-6j5c-grmw] Improper Neutralization of Special Elements used in an OS Command in Jenkins Pipeline: Shared Groovy Libraries Plugin,https://github.com/advisories/GHSA-g9fx-6j5c-grmw,https://bit.ly/3IbChrs
+GithubAdvisories,[GHSA-5hfv-mg5x-mv32] Improper Limitation of a Pathname to a Restricted Directory in Jenkins Pipeline: Shared Groovy Libraries Plugin,https://github.com/advisories/GHSA-5hfv-mg5x-mv32,https://bit.ly/3IbC9Iu
+GithubAdvisories,[GHSA-q234-x887-9rxh] Improper Link Resolution Before File Access in Jenkins Pipeline: Shared Groovy Libraries Plugin,https://github.com/advisories/GHSA-q234-x887-9rxh,https://bit.ly/3OJ4jwS
+GithubAdvisories,[GHSA-6473-gqrj-4p65] Improper Link Resolution Before File Access in Jenkins Pipeline: Groovy Plugin,https://github.com/advisories/GHSA-6473-gqrj-4p65,https://bit.ly/3Anydm3
+GithubAdvisories,[GHSA-pj84-qjm3-77mg] Improper Neutralization of Special Elements used in an OS Command in Jenkins Pipeline: Multibranch Plugin,https://github.com/advisories/GHSA-pj84-qjm3-77mg,https://bit.ly/3OKxLTg
+GithubAdvisories,[GHSA-7w2w-fwpf-9m4h] Protection Mechanism Failure in Jenkins Pipeline: Shared Groovy Libraries Plugin,https://github.com/advisories/GHSA-7w2w-fwpf-9m4h,https://bit.ly/3OHwwUP
+GithubAdvisories,[GHSA-7rcw-fwfh-2h2g] Protection Mechanism Failure in Jenkins Pipeline: Shared Groovy Libraries Plugin,https://github.com/advisories/GHSA-7rcw-fwfh-2h2g,https://bit.ly/3bJaIcN
+GithubAdvisories,[GHSA-6hjc-m38h-7jhh] Cross-site Scripting in SEOmatic plugin,https://github.com/advisories/GHSA-6hjc-m38h-7jhh,https://bit.ly/3AnydT5
+GithubAdvisories,[GHSA-2qp4-g3q3-f92w] Improper Locking in JetBrains Kotlin,https://github.com/advisories/GHSA-2qp4-g3q3-f92w,https://bit.ly/3IbTPDI
+GithubAdvisories,[GHSA-pfwp-q984-w7wh] Protection Mechanism Failure in Jenkins Pipeline: Shared Groovy Libraries Plugin,https://github.com/advisories/GHSA-pfwp-q984-w7wh,https://bit.ly/3Arrmbk
+GithubAdvisories,[GHSA-g7xr-v82w-qggq] Code Injection in SEOmatic,https://github.com/advisories/GHSA-g7xr-v82w-qggq,https://bit.ly/3IfEuCb
+GithubAdvisories,[GHSA-vvv8-xw5f-3f88] Prototype Pollution in mout,https://github.com/advisories/GHSA-vvv8-xw5f-3f88,https://bit.ly/3IfO6Nb
+GithubAdvisories,[GHSA-rvp4-r3g6-8hxq] Insufficiently Protected Credentials via Insecure Temporary File in org.apache.nifi:nifi-single-user-utils,https://github.com/advisories/GHSA-rvp4-r3g6-8hxq,https://bit.ly/3IhBZiS
+GithubAdvisories,[GHSA-hmqg-p8f8-3qrw] Out-of-bounds Read in fast-string-search,https://github.com/advisories/GHSA-hmqg-p8f8-3qrw,https://bit.ly/3OKBiAL
+GithubAdvisories,[GHSA-p23c-p8w2-ww5v] Prototype Pollution in querymen,https://github.com/advisories/GHSA-p23c-p8w2-ww5v,https://bit.ly/3OLI7lC
+GithubAdvisories,[GHSA-9xfc-j5mf-9w5p] JacksonJsonpInterceptor susceptible to cross-site script inclusion (XSSI) attack,https://github.com/advisories/GHSA-9xfc-j5mf-9w5p,https://bit.ly/3AvJUqZ
