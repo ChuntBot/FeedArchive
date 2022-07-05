@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-437j-5qc3-c589] Open Redirect in microweber,https://github.com/advisories/GHSA-437j-5qc3-c589,https://bit.ly/3ygL5aV
+GithubAdvisories,[GHSA-9hx5-jmxv-x44q] CSV Injection in inventree,https://github.com/advisories/GHSA-9hx5-jmxv-x44q,https://bit.ly/3urCkcW
+GithubAdvisories,[GHSA-77vq-4j66-46m5] Missing Authorization in Jenkins ThreadFix Plugin,https://github.com/advisories/GHSA-77vq-4j66-46m5,https://bit.ly/3uqQ0Vo
+GithubAdvisories,[GHSA-rq99-93c5-33f6] Cross-Site Request Forgery in Jenkins ThreadFix Plugin,https://github.com/advisories/GHSA-rq99-93c5-33f6,https://bit.ly/3ygL46R
+GithubAdvisories,[GHSA-3j8f-xvm3-ffx4] Authorization Bypass in parse-path,https://github.com/advisories/GHSA-3j8f-xvm3-ffx4,https://bit.ly/3nEiV4G
+GithubAdvisories,[GHSA-cxgw-r5jg-7xwq] Code injection in grav,https://github.com/advisories/GHSA-cxgw-r5jg-7xwq,https://bit.ly/3AtV0fZ
+GithubAdvisories,[GHSA-pf6p-25r2-fx45] Server-Side Request Forgery in dompdf/dompdf,https://github.com/advisories/GHSA-pf6p-25r2-fx45,https://bit.ly/3acUo3P
+GithubAdvisories,[GHSA-w4q4-jcm7-g4m6] Insufficiently Protected Credentials in PowerJob,https://github.com/advisories/GHSA-w4q4-jcm7-g4m6,https://bit.ly/3nHnU4Q
+GithubAdvisories,[GHSA-73pr-g6jj-5hc9] Externally Controlled Reference to a Resource in Another Sphere in ruby-mysql,https://github.com/advisories/GHSA-73pr-g6jj-5hc9,https://bit.ly/3usW9R0
+GithubAdvisories,[GHSA-c58j-88f5-h53f] Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in pycares,https://github.com/advisories/GHSA-c58j-88f5-h53f,https://bit.ly/3AugZn9
+GithubAdvisories,[GHSA-q6wq-5p59-983w] Cross site scripting in parse-url,https://github.com/advisories/GHSA-q6wq-5p59-983w,https://bit.ly/3nIs4ZY
+GithubAdvisories,[GHSA-7f3x-x4pr-wqhj] Server-Side Request Forgery in parse-url,https://github.com/advisories/GHSA-7f3x-x4pr-wqhj,https://bit.ly/3urLx5b
+GithubAdvisories,[GHSA-jpp7-7chh-cf67] Cross site scripting in parse-url,https://github.com/advisories/GHSA-jpp7-7chh-cf67,https://bit.ly/3uqPKGf
+GithubAdvisories,[GHSA-cgrj-xjm7-9q27] Open redirect in web2py,https://github.com/advisories/GHSA-cgrj-xjm7-9q27,https://bit.ly/3aksjaG
+GithubAdvisories,[GHSA-4p35-cfcx-8653] Hostname confusion in parse-url,https://github.com/advisories/GHSA-4p35-cfcx-8653,https://bit.ly/3nEdGC3
+GithubAdvisories,[GHSA-pf7h-h2wq-m7pg] Exposure of Resource to Wrong Sphere in salt,https://github.com/advisories/GHSA-pf7h-h2wq-m7pg,https://bit.ly/3ygL3Ql
+GithubAdvisories,[GHSA-hg5p-233h-c7fh] Direct Web Remoting vulnerable to Denial of Service,https://github.com/advisories/GHSA-hg5p-233h-c7fh,https://bit.ly/3ygL4Up
