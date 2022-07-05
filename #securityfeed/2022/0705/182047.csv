@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pg8v-g4xq-hww9] Rails::Html::Sanitizer vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-pg8v-g4xq-hww9,https://bit.ly/3IkkMW2
+GithubAdvisories,[GHSA-484f-743f-6jx2] Object injection in cookie driver in phpfastcache,https://github.com/advisories/GHSA-484f-743f-6jx2,https://bit.ly/38A2WMc
+GithubAdvisories,[GHSA-7h8x-wmq2-7mff] Command injection in launchpad,https://github.com/advisories/GHSA-7h8x-wmq2-7mff,https://bit.ly/3debYTF
+GithubAdvisories,[GHSA-qc65-cgvr-93p6] Code injection in kill-process-by-name,https://github.com/advisories/GHSA-qc65-cgvr-93p6,https://bit.ly/311j7zQ
+GithubAdvisories,[GHSA-mm4f-47ch-f7hx] Arbitrary code execution in kill-by-port,https://github.com/advisories/GHSA-mm4f-47ch-f7hx,https://bit.ly/3saamP3
