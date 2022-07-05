@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fvcj-hvfw-7f2v] Improper Authentication,https://github.com/advisories/GHSA-fvcj-hvfw-7f2v,https://bit.ly/3qrhCFj
+GithubAdvisories,[GHSA-rpxm-vmr7-5f5f] Data races in convec,https://github.com/advisories/GHSA-rpxm-vmr7-5f5f,https://bit.ly/3bQmUbI
+GithubAdvisories,[GHSA-9j8q-m9x5-9g6j] Data races in async-coap,https://github.com/advisories/GHSA-9j8q-m9x5-9g6j,https://bit.ly/3AtcN76
+GithubAdvisories,[GHSA-m7w4-8wp8-m2xq] Data races in beef,https://github.com/advisories/GHSA-m7w4-8wp8-m2xq,https://bit.ly/3nDFIxy
