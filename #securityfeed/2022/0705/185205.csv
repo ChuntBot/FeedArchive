@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x3vm-38hw-55wf] Possible inject arbitrary `CSS` into the generated graph affecting the container HTML,https://github.com/advisories/GHSA-x3vm-38hw-55wf,https://bit.ly/3nGCBVy
