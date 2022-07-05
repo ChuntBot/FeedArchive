@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Merge pull request #4403 from El-Virus/master,https://github.com/mailcow/mailcow-dockerized/commit/11700d7ecb1b0b0b40c491054709f867aa7e1ade,https://bit.ly/3uovhSr
+GithubCommitStaging,Merge branch 'staging' into feature/tfa-flow,https://github.com/mailcow/mailcow-dockerized/commit/03c49ea1f8ba8b4e2a6a982aa468d95172d203f7,https://bit.ly/3ykiwt2
+GithubCommitStaging,extra tfa register debugging,https://github.com/mailcow/mailcow-dockerized/commit/6fb967cf79209ab4e143fe24e9e5461993ba68be,https://bit.ly/3P85LZz
+GithubCommitStaging,Merge branch 'feature/tfa-flow' of https://github.com/mailcow/mailcow…,https://github.com/mailcow/mailcow-dockerized/commit/3af2f636a5b37434641dee48728298e781897260,https://bit.ly/3y94x9u
+GithubCommitStaging,fix sql query for tfa registration,https://github.com/mailcow/mailcow-dockerized/commit/52e92cc0db159f6e576401c4959a1240a7d945f8,https://bit.ly/3Iias0M
