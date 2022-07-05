@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9pf7-f47q-mwpq] Cross-site Scripting in RabbitMQ,https://github.com/advisories/GHSA-9pf7-f47q-mwpq,https://bit.ly/3yglaQM
+GithubAdvisories,[GHSA-p64x-8rxx-wf6q] SQL Injection in Django,https://github.com/advisories/GHSA-p64x-8rxx-wf6q,https://bit.ly/3OFer9T
+GithubAdvisories,[GHSA-wpqr-jcpx-745r] Incorrect handling of invalid surrogate pair characters,https://github.com/advisories/GHSA-wpqr-jcpx-745r,https://bit.ly/3bMmdAd
+GithubAdvisories,[GHSA-fm67-cv37-96ff] Potential double free of buffer during string decoding,https://github.com/advisories/GHSA-fm67-cv37-96ff,https://bit.ly/3ONRUYq
