@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-977c-63xq-cgw3] Unsafe YAML deserialization in opensearch-ruby,https://github.com/advisories/GHSA-977c-63xq-cgw3,https://bit.ly/3P8MV4z
