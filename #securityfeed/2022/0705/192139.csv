@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c965-p3w4-835c] Cross-Site Request Forgery in Jenkins vRealize Orchestrator Plugin,https://github.com/advisories/GHSA-c965-p3w4-835c,https://bit.ly/3bFHdIL
+GithubAdvisories,[GHSA-35r9-gfqf-r6cw] Missing permission check in Jenkins vRealize Orchestrator Plugin,https://github.com/advisories/GHSA-35r9-gfqf-r6cw,https://bit.ly/3bODOYg
