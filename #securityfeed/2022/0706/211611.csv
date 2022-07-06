@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v923-w3x8-wh69] Improper session management in passport,https://github.com/advisories/GHSA-v923-w3x8-wh69,https://bit.ly/3aonH3q
+GithubAdvisories,[GHSA-h9cw-7g8j-h66h] Server-Side Request Forgery in link-preview-js,https://github.com/advisories/GHSA-h9cw-7g8j-h66h,https://bit.ly/3utsZ4v
+GithubAdvisories,[GHSA-7mwh-4pqv-wmr8] Regular expression denial of service in scss-tokenizer,https://github.com/advisories/GHSA-7mwh-4pqv-wmr8,https://bit.ly/3bWvN3B
+GithubAdvisories,[GHSA-hqw5-62gp-rqgm] Exposure of Sensitive Information to an Unauthorized Actor in Direct Web Remoting,https://github.com/advisories/GHSA-hqw5-62gp-rqgm,https://bit.ly/3yMC7nm
+GithubAdvisories,[GHSA-q5v2-2v66-6hwm] Improper Neutralization of Input During Web Page Generation in Direct Web Remoting,https://github.com/advisories/GHSA-q5v2-2v66-6hwm,https://bit.ly/3yMLhA6
+GithubAdvisories,[GHSA-4c43-cwvx-9crh] Improper Access Control in Apache Tomcat,https://github.com/advisories/GHSA-4c43-cwvx-9crh,https://bit.ly/3Pd3CMd
+GithubAdvisories,[GHSA-h6p6-fc4w-cqhx] Improper Limitation of a Pathname to a Restricted Directory in JBoss Undertow,https://github.com/advisories/GHSA-h6p6-fc4w-cqhx,https://bit.ly/3yJZPk4
+GithubAdvisories,[GHSA-9cvr-8xq4-2m73] Improper Neutralization of Input During Web Page Generation in Apache ActiveMQ,https://github.com/advisories/GHSA-9cvr-8xq4-2m73,https://bit.ly/3uxQs4n
+GithubAdvisories,[GHSA-6qx9-rf9g-7jmr] Improper Input Validation in Drools and jBPM,https://github.com/advisories/GHSA-6qx9-rf9g-7jmr,https://bit.ly/3RfSDTV
+GithubAdvisories,[GHSA-w7cq-j9p9-hm3m] Improper Input Validation in Apache Santuario XML Security,https://github.com/advisories/GHSA-w7cq-j9p9-hm3m,https://bit.ly/3Pd3Djf
+GithubAdvisories,[GHSA-x9mm-6gpf-f749] Loop with Unreachable Exit Condition in Apache POI,https://github.com/advisories/GHSA-x9mm-6gpf-f749,https://bit.ly/3Rsto11
