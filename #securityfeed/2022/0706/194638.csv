@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mf7c-35mq-75pj] Insecure Inherited Permissions in Apache Hadoop,https://github.com/advisories/GHSA-mf7c-35mq-75pj,https://bit.ly/3OMS7vd
+GithubAdvisories,[GHSA-5jg4-p78r-p5j3] Improper Neutralization of Input During Web Page Generation Apache ActiveMQ,https://github.com/advisories/GHSA-5jg4-p78r-p5j3,https://bit.ly/3RfJvP3
+GithubAdvisories,[GHSA-q6x7-f33r-3wxx] Incorrect Authorization in Apache Tomcat,https://github.com/advisories/GHSA-q6x7-f33r-3wxx,https://bit.ly/3nJSb2Y
+GithubAdvisories,[GHSA-xr4v-28rm-pvgw] Improper Neutralization of Special Elements used in an SQL Command Pivotal Spring Data JPA,https://github.com/advisories/GHSA-xr4v-28rm-pvgw,https://bit.ly/3yl2pvw
+GithubAdvisories,[GHSA-r346-rmrg-qpgh] Improper Neutralization of Input During Web Page Generation in RESTEasy,https://github.com/advisories/GHSA-r346-rmrg-qpgh,https://bit.ly/3bVCRxq
+GithubAdvisories,[GHSA-vxhj-3x7p-jxp5] Exposure of Sensitive Information to an Unauthorized Actor in RESTEasy,https://github.com/advisories/GHSA-vxhj-3x7p-jxp5,https://bit.ly/3armpEy
+GithubAdvisories,[GHSA-q446-82vq-w674] Improper Limitation of a Pathname to a Restricted Directory in JCraft JSch,https://github.com/advisories/GHSA-q446-82vq-w674,https://bit.ly/3akNCsw
+GithubAdvisories,[GHSA-7q56-mp4c-gggg] Improper Access Control in Apache Hadoop,https://github.com/advisories/GHSA-7q56-mp4c-gggg,https://bit.ly/3yogBUw
+GithubAdvisories,[GHSA-v646-rx6w-r3qq] Improper Access Control in Apache Tomcat,https://github.com/advisories/GHSA-v646-rx6w-r3qq,https://bit.ly/3OMS8zh
+GithubAdvisories,[GHSA-4v3g-g84w-hv7r] Authentication Bypass Using an Alternate Path or Channel in Apache Tomcat,https://github.com/advisories/GHSA-4v3g-g84w-hv7r,https://bit.ly/3bYwObz
+GithubAdvisories,[GHSA-8r28-r8cp-g6cp] Exposure of Sensitive Information to an Unauthorized Actor in Apache Hadoop,https://github.com/advisories/GHSA-8r28-r8cp-g6cp,https://bit.ly/3OMS7LJ
+GithubAdvisories,[GHSA-735f-pg76-fxc4] Heap memory corruption with RSA private key operation,https://github.com/advisories/GHSA-735f-pg76-fxc4,https://bit.ly/3Rqjhtw
+GithubAdvisories,[GHSA-pgjx-7f9g-9463] Improper handling of email input,https://github.com/advisories/GHSA-pgjx-7f9g-9463,https://bit.ly/3nKI0es
+GithubAdvisories,[GHSA-9x4h-8wgm-8xfg] Malformed CAR panics and excessive memory usage,https://github.com/advisories/GHSA-9x4h-8wgm-8xfg,https://bit.ly/3R8X82J
+GithubAdvisories,[GHSA-hm37-9xh2-q499] Possible leak of key's raw field if declared length is incorrect,https://github.com/advisories/GHSA-hm37-9xh2-q499,https://bit.ly/3yiTgDK
