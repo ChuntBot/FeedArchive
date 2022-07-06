@@ -1,0 +1,58 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6qr6-x7jm-x2q6] Improper Limitation of a Pathname to a Restricted Directory in Apache Tomcat,https://github.com/advisories/GHSA-6qr6-x7jm-x2q6,https://bit.ly/3RfYSab
+GithubAdvisories,[GHSA-3336-h95j-hvvf] Improper Access Control in Apache CXF,https://github.com/advisories/GHSA-3336-h95j-hvvf,https://bit.ly/3RbRf4K
+GithubAdvisories,[GHSA-rh8q-vjgf-gf74] Improper Limitation of a Pathname to a Restricted Directory in Apache Tomcat,https://github.com/advisories/GHSA-rh8q-vjgf-gf74,https://bit.ly/3ahwrbm
+GithubAdvisories,[GHSA-jrcp-c39h-r29x] Improper Neutralization of Input During Web Page Generation in Apache Tomcat,https://github.com/advisories/GHSA-jrcp-c39h-r29x,https://bit.ly/3ReTO67
+GithubAdvisories,[GHSA-jjq8-vfjq-j6v4] Improper Limitation of a Pathname to a Restricted Directory in Elasticsearch,https://github.com/advisories/GHSA-jjq8-vfjq-j6v4,https://bit.ly/3nK50Ku
+GithubAdvisories,[GHSA-q9hr-3pg4-3jp4] Improper Input Validation in Apache ActiveMQ,https://github.com/advisories/GHSA-q9hr-3pg4-3jp4,https://bit.ly/3uw9Sql
+GithubAdvisories,[GHSA-23cr-5hr4-rgwv] Improper Input Validation in Apache ActiveMQ,https://github.com/advisories/GHSA-23cr-5hr4-rgwv,https://bit.ly/3nGRgjC
+GithubAdvisories,[GHSA-48rh-qgjr-xfj6] Improper Neutralization of Input During Web Page Generation in Jsoup,https://github.com/advisories/GHSA-48rh-qgjr-xfj6,https://bit.ly/3nLz6NQ
+GithubAdvisories,[GHSA-4vwq-x64q-j4cj] Improper Neutralization of Input During Web Page Generation in Jupyter Notebook,https://github.com/advisories/GHSA-4vwq-x64q-j4cj,https://bit.ly/3Re26Lu
+GithubAdvisories,[GHSA-x3p3-929j-pq66] Improper Neutralization of Input During Web Page Generation in Jenkins,https://github.com/advisories/GHSA-x3p3-929j-pq66,https://bit.ly/3nGIfaf
+GithubAdvisories,[GHSA-92mr-v722-f48m] Improper Input Validation in Jupyter Notebook,https://github.com/advisories/GHSA-92mr-v722-f48m,https://bit.ly/3Rf9er2
+GithubAdvisories,[GHSA-v6gf-x8fp-532v] Improper Neutralization of Input During Web Page Generation in Apache Solr,https://github.com/advisories/GHSA-v6gf-x8fp-532v,https://bit.ly/3RhLrH2
+GithubAdvisories,[GHSA-mx2h-hf7j-2x3p] Improper Neutralization of Input During Web Page Generation in Apache Solr,https://github.com/advisories/GHSA-mx2h-hf7j-2x3p,https://bit.ly/3ajKuND
+GithubAdvisories,[GHSA-6vx3-hr43-cfrh] Exposure of Sensitive Information to an Unauthorized Actor in Apache Tomcat,https://github.com/advisories/GHSA-6vx3-hr43-cfrh,https://bit.ly/3RhLjr2
+GithubAdvisories,[GHSA-mv42-px54-87jw] Improper Access Control in Apache Tomcat,https://github.com/advisories/GHSA-mv42-px54-87jw,https://bit.ly/3upmXSn
+GithubAdvisories,[GHSA-f2gr-7299-487h] DOS and excessive memory usage when passing untrusted user input to to dag import,https://github.com/advisories/GHSA-f2gr-7299-487h,https://bit.ly/3usAGHS
+GithubAdvisories,[GHSA-9hjv-9h75-xmpp] Improper Verification of Source of a Communication Channel in Apache Tomcat,https://github.com/advisories/GHSA-9hjv-9h75-xmpp,https://bit.ly/3RcKDDb
+GithubAdvisories,[GHSA-wxcp-f2c8-x6xv] Observable Discrepancy in Apache Tomcat,https://github.com/advisories/GHSA-wxcp-f2c8-x6xv,https://bit.ly/3nJzYlS
+GithubAdvisories,[GHSA-8rcq-p4gh-vmj8] Improper Neutralization of Input During Web Page Generation in Apache ActiveMQ,https://github.com/advisories/GHSA-8rcq-p4gh-vmj8,https://bit.ly/3Rj1fsT
+GithubAdvisories,[GHSA-m27m-628v-xxp2] Exposure of Sensitive Information to an Unauthorized Actor in Apache Sling Servlets Post,https://github.com/advisories/GHSA-m27m-628v-xxp2,https://bit.ly/3bVHiby
+GithubAdvisories,[GHSA-h8wp-wgcq-qhrf] Improper Neutralization of Input During Web Page Generation in swagger-ui,https://github.com/advisories/GHSA-h8wp-wgcq-qhrf,https://bit.ly/3bULng9
+GithubAdvisories,[GHSA-rf66-hmqf-q3fc] Improper Neutralization of Input During Web Page Generation in Select2,https://github.com/advisories/GHSA-rf66-hmqf-q3fc,https://bit.ly/3utlkmq
+GithubAdvisories,[GHSA-jv65-pf7v-f7p8] Deserialization of Untrusted Data in Hazelcast,https://github.com/advisories/GHSA-jv65-pf7v-f7p8,https://bit.ly/3nJa2a7
+GithubAdvisories,[GHSA-7jw3-5q4w-89qg] Improper Input Validation in Apache Struts,https://github.com/advisories/GHSA-7jw3-5q4w-89qg,https://bit.ly/3RhmtY8
+GithubAdvisories,[GHSA-5ggr-mpgw-3mgx] Improper Input Validation in Apache Struts,https://github.com/advisories/GHSA-5ggr-mpgw-3mgx,https://bit.ly/3bVee3Y
+GithubAdvisories,[GHSA-rc7h-x6cq-988q] Improper Input Validation in JGroups,https://github.com/advisories/GHSA-rc7h-x6cq-988q,https://bit.ly/3RbRhJU
+GithubAdvisories,[GHSA-hrp3-8p5w-27gv] Improper Input Validation in Spring AMQP,https://github.com/advisories/GHSA-hrp3-8p5w-27gv,https://bit.ly/3ur0FQg
+GithubAdvisories,[GHSA-2g86-r6w2-wqqr] Use of Hard-coded Credentials in Nacos,https://github.com/advisories/GHSA-2g86-r6w2-wqqr,https://bit.ly/3uu9f0u
+GithubAdvisories,[GHSA-xv59-gc3r-rf92] Insufficient Session Expiration in Nakama,https://github.com/advisories/GHSA-xv59-gc3r-rf92,https://bit.ly/3Rqnnlo
+GithubAdvisories,[GHSA-8r94-4h3c-939f] Improper Restriction of Excessive Authentication Attempts,https://github.com/advisories/GHSA-8r94-4h3c-939f,https://bit.ly/3nOoiy8
+GithubAdvisories,[GHSA-4hc2-jh7r-wrc3] Improper Certificate Validation in OkHttp,https://github.com/advisories/GHSA-4hc2-jh7r-wrc3,https://bit.ly/3uuMoC2
+GithubAdvisories,[GHSA-gxg6-rc6c-v673] Improper Input Validation in BeanShell,https://github.com/advisories/GHSA-gxg6-rc6c-v673,https://bit.ly/3nHet55
+GithubAdvisories,[GHSA-3wx7-46ch-7rq2] AES OCB fails to encrypt some bytes,https://github.com/advisories/GHSA-3wx7-46ch-7rq2,https://bit.ly/3uvpTg6
+GithubAdvisories,[GHSA-895m-ww55-59vw] Exposure of Sensitive Information to an Unauthorized Actor in Apache Hadoop,https://github.com/advisories/GHSA-895m-ww55-59vw,https://bit.ly/3RjHGB0
+GithubAdvisories,[GHSA-rxqh-fc23-gxp2] Improper Input Validation in Apache ActiveMQ,https://github.com/advisories/GHSA-rxqh-fc23-gxp2,https://bit.ly/3RslMeX
+GithubAdvisories,[GHSA-383p-xqxx-rrmp] Improper Input Validation in Apache Struts,https://github.com/advisories/GHSA-383p-xqxx-rrmp,https://bit.ly/3uv7obF
+GithubAdvisories,[GHSA-6r7r-jj8h-pq6v] Deserialization of Untrusted Data in Jython,https://github.com/advisories/GHSA-6r7r-jj8h-pq6v,https://bit.ly/3nJTgYh
+GithubAdvisories,[GHSA-rv63-gqm8-9w8q] Loop with Unreachable Exit Condition in Netty,https://github.com/advisories/GHSA-rv63-gqm8-9w8q,https://bit.ly/3RfNsDn
+GithubAdvisories,[GHSA-f38p-mq64-h784] Improper Input Validation in Apache Qpid AMQP 0-x JMS,https://github.com/advisories/GHSA-f38p-mq64-h784,https://bit.ly/3utmlv8
+GithubAdvisories,[GHSA-pmqq-7wfv-jfff] Improper Restriction of XML External Entity Reference in Apache POI,https://github.com/advisories/GHSA-pmqq-7wfv-jfff,https://bit.ly/3RfKE9p
+GithubAdvisories,[GHSA-4cf5-xmhp-3xj7] Improper Authorization in Apache Shiro,https://github.com/advisories/GHSA-4cf5-xmhp-3xj7,https://bit.ly/3utyZdu
+GithubAdvisories,[GHSA-crrq-vr9j-fxxh] Protected fields exposed via LiveQuery,https://github.com/advisories/GHSA-crrq-vr9j-fxxh,https://bit.ly/3R8osxU
+GithubAdvisories,[GHSA-2m4x-4q9j-w97g] Denial of service in Open Policy Agent,https://github.com/advisories/GHSA-2m4x-4q9j-w97g,https://bit.ly/3nHF7Ld
+GithubAdvisories,[GHSA-3829-mgmw-jcg4] Prototype Pollution in deep.assign,https://github.com/advisories/GHSA-3829-mgmw-jcg4,https://bit.ly/3RfYUPl
+GithubAdvisories,[GHSA-384c-gg34-g96h] Incorrect Authorization in Getahead Direct Web Remoting,https://github.com/advisories/GHSA-384c-gg34-g96h,https://bit.ly/3RhB9GC
+GithubAdvisories,[GHSA-8jmw-wjr8-2x66] Command injection in git-clone,https://github.com/advisories/GHSA-8jmw-wjr8-2x66,https://bit.ly/3nLlsKk
+GithubAdvisories,[GHSA-5pg2-qg87-vmj7] Cross-site Scripting in microweber,https://github.com/advisories/GHSA-5pg2-qg87-vmj7,https://bit.ly/3upRCPm
+GithubAdvisories,[GHSA-q6mp-562x-ggvv] Cross-site Scripting in microweber,https://github.com/advisories/GHSA-q6mp-562x-ggvv,https://bit.ly/3RfNvz3
+GithubAdvisories,[GHSA-v9v9-xffq-rwr4] Improper Neutralization of Input During Web Page Generation in html5lib,https://github.com/advisories/GHSA-v9v9-xffq-rwr4,https://bit.ly/3nH2WTB
+GithubAdvisories,[GHSA-2x9h-h3c4-wqqh] Improper Neutralization of Special Elements used in an LDAP Query in Jenkins,https://github.com/advisories/GHSA-2x9h-h3c4-wqqh,https://bit.ly/3Rj1dkL
+GithubAdvisories,[GHSA-w3j5-q8f2-3cqq] Concurrent Execution using Shared Resource with Improper Synchronization in Apache Tomcat,https://github.com/advisories/GHSA-w3j5-q8f2-3cqq,https://bit.ly/3bVHg3q
+GithubAdvisories,[GHSA-8vvh-crqv-jm64] Exposure of Sensitive Information to an Unauthorized Actor in Apache Qpid Broker for Java,https://github.com/advisories/GHSA-8vvh-crqv-jm64,https://bit.ly/3nGNCpU
+GithubAdvisories,[GHSA-x7xf-253v-x3w8] Improper Restriction of XML External Entity Reference in Apache CXF JAX-RS,https://github.com/advisories/GHSA-x7xf-253v-x3w8,https://bit.ly/3ReQk3z
+GithubAdvisories,[GHSA-698c-2x4j-g9gq] Improper Restriction of Operations within the Bounds of a Memory Buffer in Apache Tomcat,https://github.com/advisories/GHSA-698c-2x4j-g9gq,https://bit.ly/3uudzwV
+GithubAdvisories,[GHSA-jc7p-5r39-9477] Improper Input Validation in Apache Tomcat,https://github.com/advisories/GHSA-jc7p-5r39-9477,https://bit.ly/3uw9SGR
+GithubAdvisories,[GHSA-xphj-m9cc-8fmq] Deserialization of Untrusted Data in Groovy,https://github.com/advisories/GHSA-xphj-m9cc-8fmq,https://bit.ly/3Reo4hk
+GithubAdvisories,[GHSA-vw2c-5wph-v92r] Improper Neutralization of Input During Web Page Generation in Apache CXF,https://github.com/advisories/GHSA-vw2c-5wph-v92r,https://bit.ly/3RhLrXy
