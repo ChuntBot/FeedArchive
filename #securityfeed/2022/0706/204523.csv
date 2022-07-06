@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r5c2-rxh2-f5h2] Exposure of Sensitive Information to an Unauthorized Actor in Apache Jasypt,https://github.com/advisories/GHSA-r5c2-rxh2-f5h2,https://bit.ly/3ImmF4d
+GithubAdvisories,[GHSA-w7f2-gjxf-2gm9] Improper Neutralization of Special Elements used in a Command in Apache Cassandra,https://github.com/advisories/GHSA-w7f2-gjxf-2gm9,https://bit.ly/3NPnGDh
+GithubAdvisories,[GHSA-6r5v-hp32-fjqw] Improper Access Control in Apache WSS4J,https://github.com/advisories/GHSA-6r5v-hp32-fjqw,https://bit.ly/3OStAVq
+GithubAdvisories,[GHSA-wfw6-mmmp-87xm] Improper Input Validation in Apache Batik,https://github.com/advisories/GHSA-wfw6-mmmp-87xm,https://bit.ly/3OMPU2E
+GithubAdvisories,[GHSA-9h6p-92jq-888x] Integer Overflow or Wraparound in JBCrypt,https://github.com/advisories/GHSA-9h6p-92jq-888x,https://bit.ly/3OHYcsF
+GithubAdvisories,[GHSA-cvvx-r33m-v7pq] Improper Input Validation in Apache Struts,https://github.com/advisories/GHSA-cvvx-r33m-v7pq,https://bit.ly/3OPYEFm
+GithubAdvisories,[GHSA-w94p-6mhw-4qxw] Improper Access Control in Elasticsearch,https://github.com/advisories/GHSA-w94p-6mhw-4qxw,https://bit.ly/3bUBX4m
+GithubAdvisories,[GHSA-g48f-ff5h-5f64] Exposure of Sensitive Information to an Unauthorized Actor in Apache Hadoop,https://github.com/advisories/GHSA-g48f-ff5h-5f64,https://bit.ly/3bJs60Y
+GithubAdvisories,[GHSA-78fq-w796-q537] Improper Certificate Validation in Shibboleth Identity Provider and OpenSAML,https://github.com/advisories/GHSA-78fq-w796-q537,https://bit.ly/3NMSy7l
+GithubAdvisories,[GHSA-wr69-g62g-2r9h] Improper Restriction of XML External Entity Reference in Apace Derby,https://github.com/advisories/GHSA-wr69-g62g-2r9h,https://bit.ly/3NI1cnH
+GithubAdvisories,[GHSA-9284-j4c9-779q] Improper Input Validation in Apache Jackrabbit,https://github.com/advisories/GHSA-9284-j4c9-779q,https://bit.ly/3bJs5Ks
+GithubAdvisories,[GHSA-gc43-g62c-99g2] Improper Access Control in MySQL Connectors Java,https://github.com/advisories/GHSA-gc43-g62c-99g2,https://bit.ly/3bRL8lV
+GithubAdvisories,[GHSA-rxvx-44w5-44r7] Improper Neutralization of Input During Web Page Generation in Apache Sling,https://github.com/advisories/GHSA-rxvx-44w5-44r7,https://bit.ly/3NKjt3z
+GithubAdvisories,[GHSA-x6rc-54xp-ccxx] Improper Restriction of XML External Entity Reference in Apache ActiveMQ,https://github.com/advisories/GHSA-x6rc-54xp-ccxx,https://bit.ly/3Ii5YqE
+GithubAdvisories,[GHSA-cx3q-cv6w-mx4h] Exposure of Sensitive Information to an Unauthorized Actor in Apache Directory LDAP API,https://github.com/advisories/GHSA-cx3q-cv6w-mx4h,https://bit.ly/3c00ipu
+GithubAdvisories,[GHSA-qg25-hgjv-cg9q] Improper Neutralization of Special Elements in Output Used by a Downstream Component in Apache Groovy,https://github.com/advisories/GHSA-qg25-hgjv-cg9q,https://bit.ly/3IkGg4P
+GithubAdvisories,[GHSA-x8q8-4hp5-463w] Improper Limitation of a Pathname to a Restricted Directory in Elasticsearch,https://github.com/advisories/GHSA-x8q8-4hp5-463w,https://bit.ly/3OPd6NT
+GithubAdvisories,[GHSA-fh5x-4j57-6q5x] Improper Access Control in Elasticsearch,https://github.com/advisories/GHSA-fh5x-4j57-6q5x,https://bit.ly/3bJkqMa
+GithubAdvisories,[GHSA-q326-jhw3-699g] Improper Neutralization of Input During Web Page Generation in IPython,https://github.com/advisories/GHSA-q326-jhw3-699g,https://bit.ly/3NW2bkk
+GithubAdvisories,[GHSA-66gw-5xpf-gfp5] Improper Neutralization of Input During Web Page Generation in IPython,https://github.com/advisories/GHSA-66gw-5xpf-gfp5,https://bit.ly/3IkcVrm
