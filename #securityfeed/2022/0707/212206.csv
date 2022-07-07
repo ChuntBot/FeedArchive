@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wgmr-mf83-7x4j] Invalid HTTP/2 requests can lead to denial of service,https://github.com/advisories/GHSA-wgmr-mf83-7x4j,https://bit.ly/3P8SCiO
+GithubAdvisories,[GHSA-8mpp-f3f7-xc28] SslConnection does not release pooled ByteBuffers in case of errors,https://github.com/advisories/GHSA-8mpp-f3f7-xc28,https://bit.ly/3PgxQ0V
+GithubAdvisories,[GHSA-cj7v-27pg-wf7q] Invalid URI parsing may produce invalid HttpURI.authority,https://github.com/advisories/GHSA-cj7v-27pg-wf7q,https://bit.ly/3nIgsX7
