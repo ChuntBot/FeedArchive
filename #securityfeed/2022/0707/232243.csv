@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g6hf-f9cq-q7w7] Cross-Site Request Forgery in Spring Framework,https://github.com/advisories/GHSA-g6hf-f9cq-q7w7,https://bit.ly/3Ikwyj8
+GithubAdvisories,[GHSA-v723-58jv-2qc4] Exposure of Sensitive Information to an Unauthorized Actor in OpenSAML,https://github.com/advisories/GHSA-v723-58jv-2qc4,https://bit.ly/3InCxDM
+GithubAdvisories,[GHSA-vp63-rrcm-9mph] Missing XML Validation in Spring Framework,https://github.com/advisories/GHSA-vp63-rrcm-9mph,https://bit.ly/3bXUmgH
+GithubAdvisories,[GHSA-8h53-fjgg-g42g] Insufficient Verification of Data Authenticity in Async Http Client,https://github.com/advisories/GHSA-8h53-fjgg-g42g,https://bit.ly/3bScgkN
+GithubAdvisories,[GHSA-5c66-6h6g-6q6m] Insufficient Verification of Data Authenticity in Async Http Client,https://github.com/advisories/GHSA-5c66-6h6g-6q6m,https://bit.ly/3Pf7oVs
+GithubAdvisories,[GHSA-3cwm-7jmm-774w] Deserialization of Untrusted Data in Beaker,https://github.com/advisories/GHSA-3cwm-7jmm-774w,https://bit.ly/3OS2zl0
+GithubAdvisories,[GHSA-23cv-jh4v-vffm] Denial of service in ASP.NET Core,https://github.com/advisories/GHSA-23cv-jh4v-vffm,https://bit.ly/3OPXmKo
+GithubAdvisories,[GHSA-xr8f-59pp-rxxh] Elevation of privilege in ASP.NET Core,https://github.com/advisories/GHSA-xr8f-59pp-rxxh,https://bit.ly/3PaNJFT
+GithubAdvisories,[GHSA-655q-9gvg-q4cm] Remote code execution in ASP.NET Core,https://github.com/advisories/GHSA-655q-9gvg-q4cm,https://bit.ly/3PgL65H
+GithubAdvisories,[GHSA-8cmm-qj8g-fcp6] Cross-Site Request Forgery in Spring Framework,https://github.com/advisories/GHSA-8cmm-qj8g-fcp6,https://bit.ly/3Il5MqN
+GithubAdvisories,[GHSA-v45r-rj5x-hpg2] Cleartext Transmission of Sensitive Information in Apache CXF,https://github.com/advisories/GHSA-v45r-rj5x-hpg2,https://bit.ly/3IoEGz5
+GithubAdvisories,[GHSA-38x2-fp9m-87mx] Improper Input Validation in Apache CXF,https://github.com/advisories/GHSA-38x2-fp9m-87mx,https://bit.ly/3bTKgNI
+GithubAdvisories,[GHSA-hxrm-9w7p-39cc] Cookie parsing failure,https://github.com/advisories/GHSA-hxrm-9w7p-39cc,https://bit.ly/3IniBAU
+GithubAdvisories,[GHSA-h259-3rjg-5qp3] Exposure of Sensitive Information to an Unauthorized Actor in JBoss Fuse,https://github.com/advisories/GHSA-h259-3rjg-5qp3,https://bit.ly/3PtDeOn
+GithubAdvisories,[GHSA-gv9v-c375-hvmg] Improper Authentication in Spring Security,https://github.com/advisories/GHSA-gv9v-c375-hvmg,https://bit.ly/3Pclkzj
+GithubAdvisories,[GHSA-rc2w-r4jq-7pfx] Improper Authorization in Apache Xalan-Java,https://github.com/advisories/GHSA-rc2w-r4jq-7pfx,https://bit.ly/3Rj1vYR
+GithubAdvisories,[GHSA-5wqf-h3r3-gxvh] Uncontrolled Resource Consumption in Apache CXF,https://github.com/advisories/GHSA-5wqf-h3r3-gxvh,https://bit.ly/3RhfsXm
+GithubAdvisories,[GHSA-5xf9-3v63-ww6f] Uncontrolled Resource Consumption in Apache CXF,https://github.com/advisories/GHSA-5xf9-3v63-ww6f,https://bit.ly/3Rg4Tnn
+GithubAdvisories,[GHSA-fjhw-8222-g2hg] Cross-Site Request Forgery in Jolokia,https://github.com/advisories/GHSA-fjhw-8222-g2hg,https://bit.ly/3P7R2xG
+GithubAdvisories,[GHSA-m6g3-xq5q-4hg9] Improper Input Validation in Apache Karaf,https://github.com/advisories/GHSA-m6g3-xq5q-4hg9,https://bit.ly/3Iu7kif
+GithubAdvisories,[GHSA-f93f-g33r-8pcp] Improper Restriction of XML External Entity Reference in Spring Framework,https://github.com/advisories/GHSA-f93f-g33r-8pcp,https://bit.ly/3ONria2
+GithubAdvisories,[GHSA-475f-74wp-pqv5] Integer Overflow or Wraparound in Apache Tomcat,https://github.com/advisories/GHSA-475f-74wp-pqv5,https://bit.ly/3RliObK
+GithubAdvisories,[GHSA-6gjj-c5mj-4cvp] Improper Input Validation in Apache Tomcat,https://github.com/advisories/GHSA-6gjj-c5mj-4cvp,https://bit.ly/3RdACWx
+GithubAdvisories,[GHSA-qprx-q2r7-3rx6] Improper Input Validation in Apache Tomcat,https://github.com/advisories/GHSA-qprx-q2r7-3rx6,https://bit.ly/3OU4y8v
+GithubAdvisories,[GHSA-9r7g-325h-mxrm] Improper Authentication in Apache Hadoop,https://github.com/advisories/GHSA-9r7g-325h-mxrm,https://bit.ly/3OVJtKW
