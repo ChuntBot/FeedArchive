@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4p4w-6h54-g885] Improper Input Validation in Apache Santuario XML Security,https://github.com/advisories/GHSA-4p4w-6h54-g885,https://bit.ly/3RmgfWX
+GithubAdvisories,[GHSA-3m3r-82gc-53mj] Improper Neutralization of Input During Web Page Generation in Mojarra,https://github.com/advisories/GHSA-3m3r-82gc-53mj,https://bit.ly/3ORu2Dv
+GithubAdvisories,[GHSA-jcp9-796g-pv9p] Missing Cryptographic Step in OWASP Enterprise Security API for Java,https://github.com/advisories/GHSA-jcp9-796g-pv9p,https://bit.ly/3Rf7Nc6
+GithubAdvisories,[GHSA-c5h8-cq4v-cvfm] Improper Authentication in pip,https://github.com/advisories/GHSA-c5h8-cq4v-cvfm,https://bit.ly/3RbDi6O
+GithubAdvisories,[GHSA-87w9-x2c3-hrjj] Exposure of Sensitive Information to an Unauthorized Actor in Apache Tomcat,https://github.com/advisories/GHSA-87w9-x2c3-hrjj,https://bit.ly/3uASIYD
+GithubAdvisories,[GHSA-p4mx-p49m-8rw4] Improper Neutralization of Input During Web Page Generation in JavaMelody,https://github.com/advisories/GHSA-p4mx-p49m-8rw4,https://bit.ly/3RiDOQI
+GithubAdvisories,[GHSA-xhfc-gr8f-ffwc] Denial of service in ASP.NET Core,https://github.com/advisories/GHSA-xhfc-gr8f-ffwc,https://bit.ly/3RhzOQa
+GithubAdvisories,[GHSA-5f2m-466j-3848] Denial of service in ASP.NET Core,https://github.com/advisories/GHSA-5f2m-466j-3848,https://bit.ly/3OS5BFU
+GithubAdvisories,[GHSA-4jxx-4qxw-prxm] Denial of service in ASP.NET Core,https://github.com/advisories/GHSA-4jxx-4qxw-prxm,https://bit.ly/3ONuX7M
+GithubAdvisories,[GHSA-qpr7-5m63-hq2c] Improper Neutralization of Input During Web Page Generation in JAMon,https://github.com/advisories/GHSA-qpr7-5m63-hq2c,https://bit.ly/3aqc77Q
+GithubAdvisories,[GHSA-j8qw-mwmv-28cg] Improper Limitation of a Pathname to a Restricted Directory in Apache Solr,https://github.com/advisories/GHSA-j8qw-mwmv-28cg,https://bit.ly/3OVBo8U
+GithubAdvisories,[GHSA-prrf-397v-83xh] Open redirect in ASP.NET Core,https://github.com/advisories/GHSA-prrf-397v-83xh,https://bit.ly/3RmSf6m
+GithubAdvisories,[GHSA-45w3-2hvv-pfxq] XML Injection in Apache Solr,https://github.com/advisories/GHSA-45w3-2hvv-pfxq,https://bit.ly/3RiUpnh
+GithubAdvisories,[GHSA-xjrf-8x4f-43h4] Improper Neutralization of Input During Web Page Generation in Spring Framework,https://github.com/advisories/GHSA-xjrf-8x4f-43h4,https://bit.ly/3bYUn3V
