@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-prc3-7f44-w48j] Missing XML Validation in Apache Tomcat,https://github.com/advisories/GHSA-prc3-7f44-w48j,https://bit.ly/3yP8nGj
+GithubAdvisories,[GHSA-42j3-498q-m6vp] Improper Input Validation in Apache Tomcat,https://github.com/advisories/GHSA-42j3-498q-m6vp,https://bit.ly/3yPHPVo
+GithubAdvisories,[GHSA-pxcx-cxq8-4mmw] Uncontrolled Resource Consumption in Apache Tomcat,https://github.com/advisories/GHSA-pxcx-cxq8-4mmw,https://bit.ly/3yP7IVr
+GithubAdvisories,[GHSA-mpx3-mx2p-9gv3] Improper Neutralization of Special Elements used in a Command in FitNesse Wiki,https://github.com/advisories/GHSA-mpx3-mx2p-9gv3,https://bit.ly/3uxSXDU
+GithubAdvisories,[GHSA-8r7q-cvjq-x353] Incorrect Privilege Assignment in Jinja2,https://github.com/advisories/GHSA-8r7q-cvjq-x353,https://bit.ly/3yPwKnd
+GithubAdvisories,[GHSA-cfj3-7x9c-4p3h] Exposure of Sensitive Information to an Unauthorized Actor in Requests,https://github.com/advisories/GHSA-cfj3-7x9c-4p3h,https://bit.ly/3yLQisK
+GithubAdvisories,[GHSA-652x-xj99-gmcc] Exposure of Sensitive Information to an Unauthorized Actor in Requests,https://github.com/advisories/GHSA-652x-xj99-gmcc,https://bit.ly/3yosSZ4
+GithubAdvisories,[GHSA-rr52-wg7f-8875] Improper Link Resolution Before File Access in logilab-commons,https://github.com/advisories/GHSA-rr52-wg7f-8875,https://bit.ly/3uxSXno
+GithubAdvisories,[GHSA-g5m2-22h2-rr3j] Creation of Temporary File With Insecure Permissions in logilab-commons,https://github.com/advisories/GHSA-g5m2-22h2-rr3j,https://bit.ly/3yP8mlJ
+GithubAdvisories,[GHSA-ff7p-jqjm-v66h] Improper Neutralization of Input During Web Page Generation in Spring Framework,https://github.com/advisories/GHSA-ff7p-jqjm-v66h,https://bit.ly/3aq5EtA
+GithubAdvisories,[GHSA-jwwr-fjgh-cv2x] Improper Restriction of XML External Entity Reference in Castor,https://github.com/advisories/GHSA-jwwr-fjgh-cv2x,https://bit.ly/3amh15P
+GithubAdvisories,[GHSA-qjpq-5pq3-43rr] Incorrect Privilege Assignment in RESTEasy,https://github.com/advisories/GHSA-qjpq-5pq3-43rr,https://bit.ly/3uwr7ro
+GithubAdvisories,[GHSA-q56h-jjj6-52mf] Improper Restriction of XML External Entity Reference in Apache POI,https://github.com/advisories/GHSA-q56h-jjj6-52mf,https://bit.ly/3yMXSU0
+GithubAdvisories,[GHSA-845h-985r-jrqh] Improper Authentication in Hibernate Validator,https://github.com/advisories/GHSA-845h-985r-jrqh,https://bit.ly/3yP8n9h
+GithubAdvisories,[GHSA-3wfj-vh84-732p] Improper Neutralization of Special Elements used in an OS Command in Apache ActiveMQ,https://github.com/advisories/GHSA-3wfj-vh84-732p,https://bit.ly/3uwceWa
+GithubAdvisories,[GHSA-rhcg-rwhx-qj3j] Improper Limitation of a Pathname to a Restricted Directory in Spring Framework,https://github.com/advisories/GHSA-rhcg-rwhx-qj3j,https://bit.ly/3yMVUTE
+GithubAdvisories,[GHSA-gw5j-77f9-v2g2] Loop with Unreachable Exit Condition in Apache CXF,https://github.com/advisories/GHSA-gw5j-77f9-v2g2,https://bit.ly/3yRhfLO
+GithubAdvisories,[GHSA-4vhf-2hv7-8mrx] Improper Restriction of XML External Entity Reference in Apache ActiveMQ,https://github.com/advisories/GHSA-4vhf-2hv7-8mrx,https://bit.ly/3yRyNaB
+GithubAdvisories,[GHSA-rm7v-gqfg-p2wc] Improper Validation of Certificate with Host Mismatch in Shibboleth Identity Provider and OpenSAML Java,https://github.com/advisories/GHSA-rm7v-gqfg-p2wc,https://bit.ly/3ut8dld
+GithubAdvisories,[GHSA-cmxj-wx9v-52qr] Improper Validation of Certificate with Host Mismatch in Not Yet Commons SSL,https://github.com/advisories/GHSA-cmxj-wx9v-52qr,https://bit.ly/3uxl3zf
+GithubAdvisories,[GHSA-hhm4-hwq6-3c6w] Improper Limitation of a Pathname to a Restricted Directory in Spring Framework,https://github.com/advisories/GHSA-hhm4-hwq6-3c6w,https://bit.ly/3uxDqny
+GithubAdvisories,[GHSA-72m6-23ff-7q26] Improper Authentication in Apache WSS4J,https://github.com/advisories/GHSA-72m6-23ff-7q26,https://bit.ly/3anCH1m
+GithubAdvisories,[GHSA-99v3-9x35-c5vf] Improper Authentication in Apache WSS4J,https://github.com/advisories/GHSA-99v3-9x35-c5vf,https://bit.ly/3alX3rV
+GithubAdvisories,[GHSA-jpmf-8cj2-595g] Improper Link Resolution Before File Access in Apache Hadoop,https://github.com/advisories/GHSA-jpmf-8cj2-595g,https://bit.ly/3yNFk5R
+GithubAdvisories,[GHSA-wgw2-gw4v-9w4j] Improper Neutralization of Input During Web Page Generation in Apache Solr,https://github.com/advisories/GHSA-wgw2-gw4v-9w4j,https://bit.ly/3yPzkK0
