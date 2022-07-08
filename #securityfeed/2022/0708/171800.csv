@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-72x4-cq6r-jp4p] Improper Input Validation in orderer/common/cluster consensus request,https://github.com/advisories/GHSA-72x4-cq6r-jp4p,https://bit.ly/3Rh53ei
+GithubAdvisories,[GHSA-m43h-hfrq-x8wx] Uncontrolled Resource Consumption in SystemDS,https://github.com/advisories/GHSA-m43h-hfrq-x8wx,https://bit.ly/3yr3Loz
