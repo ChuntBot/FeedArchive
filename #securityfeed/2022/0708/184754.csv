@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fj6c-prgj-gr3r] Improper Limitation of a Pathname to a Restricted Directory in Apache Tomcat,https://github.com/advisories/GHSA-fj6c-prgj-gr3r,https://bit.ly/3asuI35
+GithubAdvisories,[GHSA-c78g-qwpw-2jgv] Improper Neutralization of Input During Web Page Generation in Apache Tomcat,https://github.com/advisories/GHSA-c78g-qwpw-2jgv,https://bit.ly/3yrsOYv
