@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2g56-7jv7-wxxq] Missing Cryptographic Step in OWASP Enterprise Security API for Java,https://github.com/advisories/GHSA-2g56-7jv7-wxxq,https://bit.ly/3OSgAiw
+GithubAdvisories,[GHSA-x5qj-9vmx-7g6g] Improper Input Validation in .Net Framework API's,https://github.com/advisories/GHSA-x5qj-9vmx-7g6g,https://bit.ly/3yrPyrh
+GithubAdvisories,[GHSA-6px8-22w5-w334] Denial of service in ASP.NET Core,https://github.com/advisories/GHSA-6px8-22w5-w334,https://bit.ly/3OWnPWT
+GithubAdvisories,[GHSA-2xjx-v99w-gqf3] Exposure of Sensitive Information in System.Net.Http,https://github.com/advisories/GHSA-2xjx-v99w-gqf3,https://bit.ly/3OVDBRA
+GithubAdvisories,[GHSA-5633-f33j-c6f7] Tampering vulnerability in .NET Core,https://github.com/advisories/GHSA-5633-f33j-c6f7,https://bit.ly/3P0K3XS
+GithubAdvisories,[GHSA-p9wx-v264-q34p] Improper Certificate Validation in Microsoft .NET Framework components,https://github.com/advisories/GHSA-p9wx-v264-q34p,https://bit.ly/3ytRlfC
+GithubAdvisories,[GHSA-3rp6-rjw4-cq39] Cross-origin Resource Sharing bypass in ASP.NET Core,https://github.com/advisories/GHSA-3rp6-rjw4-cq39,https://bit.ly/3bW3ouu
+GithubAdvisories,[GHSA-f9jc-rrm2-pmfg] Denial of service in ASP.NET Core,https://github.com/advisories/GHSA-f9jc-rrm2-pmfg,https://bit.ly/3OWaP3l
+GithubAdvisories,[GHSA-3wcj-rg8q-9cqv] Open redirect in ASP.NET Core,https://github.com/advisories/GHSA-3wcj-rg8q-9cqv,https://bit.ly/3yqybY2
+GithubAdvisories,[GHSA-pgq7-jcj5-xx6h] Clickjacking in Apache Druid,https://github.com/advisories/GHSA-pgq7-jcj5-xx6h,https://bit.ly/3OVnKTi
+GithubAdvisories,[GHSA-8rmv-98m4-g5c6] Cross site scripting in Apache Druid,https://github.com/advisories/GHSA-8rmv-98m4-g5c6,https://bit.ly/3OSOzrd
+GithubAdvisories,[GHSA-rqph-25q9-9jhp] Insecure cookies in Openshift Origin,https://github.com/advisories/GHSA-rqph-25q9-9jhp,https://bit.ly/3ymgXee
+GithubAdvisories,[GHSA-qr6m-f3gv-8678] Cross-site Scripting in admidio,https://github.com/advisories/GHSA-qr6m-f3gv-8678,https://bit.ly/3OUkoQq
+GithubAdvisories,[GHSA-x9fv-c87w-55wc] Improper Control of Generation of Code in Apache Camel,https://github.com/advisories/GHSA-x9fv-c87w-55wc,https://bit.ly/3OPLCHQ
+GithubAdvisories,[GHSA-x24q-xwrf-66jm] Improper Neutralization of Input During Web Page Generation in Google Web Toolkit,https://github.com/advisories/GHSA-x24q-xwrf-66jm,https://bit.ly/3OWaVYL
