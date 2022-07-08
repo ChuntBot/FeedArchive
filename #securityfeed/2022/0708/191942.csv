@@ -1,0 +1,29 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rp4p-g69r-438x] Cross-Site Request Forgery in Spring Framework,https://github.com/advisories/GHSA-rp4p-g69r-438x,https://bit.ly/3yujbrY
+GithubAdvisories,[GHSA-cc62-496p-hrr7] Exposure of Sensitive Information to an Unauthorized Actor in JGroup,https://github.com/advisories/GHSA-cc62-496p-hrr7,https://bit.ly/3apZeKY
+GithubAdvisories,[GHSA-7j4h-8wpf-rqfh] Missing XML Validation in Apache Xerces2,https://github.com/advisories/GHSA-7j4h-8wpf-rqfh,https://bit.ly/3yrxEoD
+GithubAdvisories,[GHSA-p358-58jj-hp65] Improper Authentication in Apache ActiveMQ,https://github.com/advisories/GHSA-p358-58jj-hp65,https://bit.ly/3uyC7EV
+GithubAdvisories,[GHSA-cxwh-vmhg-39r2] Improper Restriction of Operations within the Bounds of a Memory Buffer in Apache Sling,https://github.com/advisories/GHSA-cxwh-vmhg-39r2,https://bit.ly/3aqjOL6
+GithubAdvisories,[GHSA-vpqp-hx68-p2wx] Improper Link Resolution Before File Access in Suds,https://github.com/advisories/GHSA-vpqp-hx68-p2wx,https://bit.ly/3OSoY1J
+GithubAdvisories,[GHSA-pxv5-5vmp-3jj4] Improper Authentication in Apache Hadoop,https://github.com/advisories/GHSA-pxv5-5vmp-3jj4,https://bit.ly/3uBh6JD
+GithubAdvisories,[GHSA-254q-rp36-v2m8] Missing XML Validation in Apache CXF,https://github.com/advisories/GHSA-254q-rp36-v2m8,https://bit.ly/3OVOK4T
+GithubAdvisories,[GHSA-x33v-f3gp-gw2c] Use of NullPointerException Catch to Detect NULL Pointer Dereference in Pymongo,https://github.com/advisories/GHSA-x33v-f3gp-gw2c,https://bit.ly/3yo21MN
+GithubAdvisories,[GHSA-3p5r-7cw3-2m67] Exposure of Sensitive Information to an Unauthorized Actor in Apache Tomcat,https://github.com/advisories/GHSA-3p5r-7cw3-2m67,https://bit.ly/3ABMLia
+GithubAdvisories,[GHSA-6m48-jxwx-76q7] Improper Authentication in Apache Tomcat,https://github.com/advisories/GHSA-6m48-jxwx-76q7,https://bit.ly/3Ax9Xhn
+GithubAdvisories,[GHSA-49j7-qghp-5wj8] Improper Control of Generation of Code in HawtJNI,https://github.com/advisories/GHSA-49j7-qghp-5wj8,https://bit.ly/3uvgEg0
+GithubAdvisories,[GHSA-whmq-v94q-34p9] Improper Control of Generation of Code in Apache Struts,https://github.com/advisories/GHSA-whmq-v94q-34p9,https://bit.ly/3ABML1E
+GithubAdvisories,[GHSA-4gv5-qhvr-36vv] Improper Link Resolution Before File Access in pip,https://github.com/advisories/GHSA-4gv5-qhvr-36vv,https://bit.ly/3bVZZMe
+GithubAdvisories,[GHSA-mfhr-3xmc-r2gg] Improper Neutralization of Input During Web Page Generation in Apache ActiveMQ,https://github.com/advisories/GHSA-mfhr-3xmc-r2gg,https://bit.ly/3OPHCqO
+GithubAdvisories,[GHSA-j65f-mvgw-prp2] Deserialization of Untrusted Data in Apache OpenJPA,https://github.com/advisories/GHSA-j65f-mvgw-prp2,https://bit.ly/3OUyDEV
+GithubAdvisories,[GHSA-g3p5-fjj9-h8gj] Improper Input Validation in pip,https://github.com/advisories/GHSA-g3p5-fjj9-h8gj,https://bit.ly/3OWT2sM
+GithubAdvisories,[GHSA-8353-fgcr-xfhx] Improper Input Validation in Bouncy Castle,https://github.com/advisories/GHSA-8353-fgcr-xfhx,https://bit.ly/3aqjPyE
+GithubAdvisories,[GHSA-vm69-474v-7q2w] Incorrect Default Permissions in Apache Commons FileUpload,https://github.com/advisories/GHSA-vm69-474v-7q2w,https://bit.ly/3P0G1yI
+GithubAdvisories,[GHSA-p5c5-6564-vvr8] Improper Authentication in Apache CXF,https://github.com/advisories/GHSA-p5c5-6564-vvr8,https://bit.ly/3aslVya
+GithubAdvisories,[GHSA-23vv-v25h-qwqw] Improper Input Validation in Apache Axis2,https://github.com/advisories/GHSA-23vv-v25h-qwqw,https://bit.ly/3P6D3Za
+GithubAdvisories,[GHSA-cqmh-mpx2-g633] Improper Restriction of Operations within the Bounds of a Memory Buffer in python-cjson,https://github.com/advisories/GHSA-cqmh-mpx2-g633,https://bit.ly/3yquAJw
+GithubAdvisories,[GHSA-4fv4-cq5v-x45m] Improper Authentication in Apache MyFaces,https://github.com/advisories/GHSA-4fv4-cq5v-x45m,https://bit.ly/3avGA4h
+GithubAdvisories,[GHSA-v8q2-94f6-6xq2] Improper Input Validation in Apache CXF,https://github.com/advisories/GHSA-v8q2-94f6-6xq2,https://bit.ly/3aqjQ5G
+GithubAdvisories,[GHSA-23x8-j7hm-5xwf] Improper Neutralization of Input During Web Page Generation in Apache Axis2,https://github.com/advisories/GHSA-23x8-j7hm-5xwf,https://bit.ly/3uAtpG3
+GithubAdvisories,[GHSA-xprw-xvvm-vqmv] Improper Access Control in Apache Derby,https://github.com/advisories/GHSA-xprw-xvvm-vqmv,https://bit.ly/3yupcow
+GithubAdvisories,[GHSA-hw4g-fhcp-x5mq] Concurrent Execution using Shared Resource with Improper Synchronization in pyftpdlib,https://github.com/advisories/GHSA-hw4g-fhcp-x5mq,https://bit.ly/3yrLRSr
+GithubAdvisories,[GHSA-3295-h9qx-r82x] Authentication Bypass Using an Alternate Path or Channel in SpringSource Spring Security and Acegi Security,https://github.com/advisories/GHSA-3295-h9qx-r82x,https://bit.ly/3AAH4kl
