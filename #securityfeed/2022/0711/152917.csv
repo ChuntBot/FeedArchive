@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+PacketstormSecurity,GNU Privacy Guard 2.3.7,https://packetstormsecurity.com/files/167725/gnupg-2.3.7.tar.bz2,https://bit.ly/3c5R22Q
+PacketstormSecurity,GNU Privacy Guard 2.2.36,https://packetstormsecurity.com/files/167726/gnupg-2.2.36.tar.bz2,https://bit.ly/3NXXUg9
+PacketstormSecurity,Falco 0.32.1,https://packetstormsecurity.com/files/167724/falco-0.32.1.tar.gz,https://bit.ly/3O1Ctuu
+PacketstormSecurity,3DES Shellcode Crypter,https://packetstormsecurity.com/files/167723/3des_crypter.c,https://bit.ly/3NZLkNc
+PacketstormSecurity,WordPress Visual Slide Box Builder 3.2.9 SQL Injection,https://packetstormsecurity.com/files/167722/wpvsbb329-sql.txt,https://bit.ly/3c4Ndee
+PacketstormSecurity,Sashimi Evil OctoBot Tentacle,https://packetstormsecurity.com/files/167721/Sashimi-Evil-OctoBot-Tentacle-master.zip,https://bit.ly/3NZSqBv
+PacketstormSecurity,Nginx 1.20.0 Denial Of Service,https://packetstormsecurity.com/files/167720/nginx1200-dos.txt,https://bit.ly/3Rs7J96
+PacketstormSecurity,Chrome PaintImage Deserialization Out-Of-Bounds Read,https://packetstormsecurity.com/files/167719/GS20220711141406.tgz,https://bit.ly/3c7V8HG
+PacketstormSecurity,Xen TLB Flush Bypass,https://packetstormsecurity.com/files/167718/GS20220711141006.tgz,https://bit.ly/3NXBLyu
+PacketstormSecurity,Mutt mutt_decode_uuencoded() Memory Disclosure,https://packetstormsecurity.com/files/167717/GS20220711140800.txt,https://bit.ly/3Rs6S8r
