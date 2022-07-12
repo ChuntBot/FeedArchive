@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6xhf-xx3j-75f5] Incorrect Authorization in Jenkins requests-plugin,https://github.com/advisories/GHSA-6xhf-xx3j-75f5,https://bit.ly/3yxsUhj
+GithubAdvisories,[GHSA-hpf7-mmqw-g6vq] Cross-site Scripting in Jenkins Plot Plugin,https://github.com/advisories/GHSA-hpf7-mmqw-g6vq,https://bit.ly/3nXkQ4z
+GithubAdvisories,[GHSA-qv56-j8fg-39h6] Missing Authorization in Jenkins build-metrics Plugin,https://github.com/advisories/GHSA-qv56-j8fg-39h6,https://bit.ly/3yylQRu
+GithubAdvisories,[GHSA-j2gv-q44j-xm42] Cross site scripting in Jenkins build-metrics Plugin,https://github.com/advisories/GHSA-j2gv-q44j-xm42,https://bit.ly/3yzDu7w
+GithubAdvisories,[GHSA-2v6r-jf2g-j5q5] Cross-site Scripting in Jenkins Rich Text Publisher Plugin,https://github.com/advisories/GHSA-2v6r-jf2g-j5q5,https://bit.ly/3yWWlL8
+GithubAdvisories,[GHSA-f655-xhvm-cwp4] Cross-site Scripting in Jenkins GitLab Plugin,https://github.com/advisories/GHSA-f655-xhvm-cwp4,https://bit.ly/3ayJ6H7
+GithubAdvisories,[GHSA-w257-f7qj-4vrq] Cross-site Scripting in Jenkins eXtreme Feedback Panel Plugin,https://github.com/advisories/GHSA-w257-f7qj-4vrq,https://bit.ly/3uHonYx
+GithubAdvisories,[GHSA-hv54-cc8f-42jq] Cross-Site Request Forgery in Jenkins Recipe Plugin,https://github.com/advisories/GHSA-hv54-cc8f-42jq,https://bit.ly/3nVKruz
+GithubAdvisories,[GHSA-hqmp-vxj7-5wpq] Cross-site Scripting in Jenkins Validating Email Parameter Plugin,https://github.com/advisories/GHSA-hqmp-vxj7-5wpq,https://bit.ly/3ywUJX7
+GithubAdvisories,[GHSA-h5h5-m2mc-j2pv] Plaintext Storage of a Password in Jenkins Elasticsearch Query Plugin,https://github.com/advisories/GHSA-h5h5-m2mc-j2pv,https://bit.ly/3yD7SxI
+GithubAdvisories,[GHSA-wppp-xqfv-6cm7] Insufficiently Protected Credentials in Jenkins Cisco Spark Plugin,https://github.com/advisories/GHSA-wppp-xqfv-6cm7,https://bit.ly/3ogbAc5
+GithubAdvisories,[GHSA-qm37-c4w6-h9v9] Missing Authorization in Jenkins XPath Configuration Viewer Plugin,https://github.com/advisories/GHSA-qm37-c4w6-h9v9,https://bit.ly/3yC0Zwx
+GithubAdvisories,[GHSA-3q7f-w8fr-368v] Cross-Site Request Forgery in Jenkins XPath Configuration Viewer Plugin,https://github.com/advisories/GHSA-3q7f-w8fr-368v,https://bit.ly/3aAm7vm
+GithubAdvisories,[GHSA-qhmj-29vh-8mjm] Incorrect Authorization in Jenkins Request Rename Or Delete Plugin,https://github.com/advisories/GHSA-qhmj-29vh-8mjm,https://bit.ly/3uGO8Ig
+GithubAdvisories,[GHSA-3fj7-78h2-w98x] Missing Authorization in Jenkins XPath Configuration Viewer Plugin,https://github.com/advisories/GHSA-3fj7-78h2-w98x,https://bit.ly/3yUrVIn
+GithubAdvisories,[GHSA-f33p-9287-h552] Directory traversal in mat2,https://github.com/advisories/GHSA-f33p-9287-h552,https://bit.ly/3yCyGyf
+GithubAdvisories,[GHSA-qq85-8g89-r5rc] Cross-Site Request Forgery in Jenkins Request Rename Or Delete Plugin,https://github.com/advisories/GHSA-qq85-8g89-r5rc,https://bit.ly/3AKBtZ0
+GithubAdvisories,[GHSA-cp6q-836q-gmj3] Cross-Site Request Forgery in Jenkins Failed Job Deactivator Plugin,https://github.com/advisories/GHSA-cp6q-836q-gmj3,https://bit.ly/3AGzogn
+GithubAdvisories,[GHSA-8rq8-f485-7v8x] Deserialization of Untrusted Data in rpc.py,https://github.com/advisories/GHSA-8rq8-f485-7v8x,https://bit.ly/3B0RJVV
