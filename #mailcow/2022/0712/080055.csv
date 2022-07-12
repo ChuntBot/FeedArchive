@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Fixed OpenAPI docs to be spec compliant,https://github.com/mailcow/mailcow-dockerized/commit/d29580aa02bb5ac4bbe8cb064f7b5067e8fd6856,https://bit.ly/3c0wOrj
+GithubCommitStaging,Merge pull request #4670 from ntimo/task/fix-open-api-yml,https://github.com/mailcow/mailcow-dockerized/commit/58fde558f7b9d6460476f16398b7dbc2eb16c564,https://bit.ly/3yVSoGC
