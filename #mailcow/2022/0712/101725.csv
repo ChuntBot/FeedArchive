@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommit,[CI] Added Mailcow tests & image builds,https://github.com/mailcow/mailcow-dockerized/commit/1c0eab989342825b6af08e1b095ecebede2784b8,https://bit.ly/3NZWUbe
+GithubCommit,Merge pull request #4673 from ntimo/task/run-tests-using-actions,https://github.com/mailcow/mailcow-dockerized/commit/124d5d6bb278492d08523e616e636cd82401b58c,https://bit.ly/3O1atr9
