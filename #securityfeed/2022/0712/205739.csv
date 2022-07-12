@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7rrx-375m-j6cr] Cross-site Scripting in Jenkins Deployment Dashboard Plugin,https://github.com/advisories/GHSA-7rrx-375m-j6cr,https://bit.ly/3yyBwEk
+GithubAdvisories,[GHSA-j33r-cgm6-pv48] Missing Authorization in Jenkins Recipe Plugin,https://github.com/advisories/GHSA-j33r-cgm6-pv48,https://bit.ly/3PjgUGY
+GithubAdvisories,[GHSA-x4g7-5xrm-5wmq] Cross-Site Request Forgery in Jenkins Deployment Dashboard Plugin,https://github.com/advisories/GHSA-x4g7-5xrm-5wmq,https://bit.ly/3Pm25mX
+GithubAdvisories,[GHSA-5mxg-p5qh-2gch] Insufficiently Protected Credentials in Jenkins Deployment Dashboard Plugin,https://github.com/advisories/GHSA-5mxg-p5qh-2gch,https://bit.ly/3ysxmhi
+GithubAdvisories,[GHSA-q4mr-j6w9-r2mr] Missing Authorization in Jenkins Deployment Dashboard Plugin,https://github.com/advisories/GHSA-q4mr-j6w9-r2mr,https://bit.ly/3P1lvha
