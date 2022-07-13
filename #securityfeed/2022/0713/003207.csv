@@ -1,0 +1,32 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wwq7-pxwc-p4rc] Improper Input Validation in Apache Axis2,https://github.com/advisories/GHSA-wwq7-pxwc-p4rc,https://bit.ly/3AHqqzC
+GithubAdvisories,[GHSA-5jc8-8xhv-g8qm] Improper Input Validation in XFire,https://github.com/advisories/GHSA-5jc8-8xhv-g8qm,https://bit.ly/3ANdg4g
+GithubAdvisories,[GHSA-99rf-92v6-cwx4] Improper Access Control in Apache Tomcat,https://github.com/advisories/GHSA-99rf-92v6-cwx4,https://bit.ly/3awVDuC
+GithubAdvisories,[GHSA-9xrj-439h-62hg] Improper Authentication in Apache Tomcat,https://github.com/advisories/GHSA-9xrj-439h-62hg,https://bit.ly/3yDr9PK
+GithubAdvisories,[GHSA-cr6p-23cf-w9g9] No security checking for UnsafeAccess.getInstance() in UnsafeAccessor,https://github.com/advisories/GHSA-cr6p-23cf-w9g9,https://bit.ly/3IG3SkH
+GithubAdvisories,[GHSA-5pgm-3j3g-2rc7] Error messages leading to potential data exfiltration in Valinor,https://github.com/advisories/GHSA-5pgm-3j3g-2rc7,https://bit.ly/3IG3SBd
+GithubAdvisories,[GHSA-qcqr-hcjq-whfq] Improper Neutralization of CRLF Sequences in Wildfly Undertow,https://github.com/advisories/GHSA-qcqr-hcjq-whfq,https://bit.ly/3AHQgDH
+GithubAdvisories,[GHSA-pmjg-52h9-72qv] Cross-site Scripting for Argo CD SSO users,https://github.com/advisories/GHSA-pmjg-52h9-72qv,https://bit.ly/3nY9KMB
+GithubAdvisories,[GHSA-7943-82jg-wmw5] Certificate verification is skipped for connections to OIDC providers,https://github.com/advisories/GHSA-7943-82jg-wmw5,https://bit.ly/3yEU6uJ
+GithubAdvisories,[GHSA-8282-hvxx-6q6g] Malware in atezzz,https://github.com/advisories/GHSA-8282-hvxx-6q6g,https://bit.ly/3nW1nkP
+GithubAdvisories,[GHSA-5mxh-cj98-974h] Malware in libz.jquery,https://github.com/advisories/GHSA-5mxh-cj98-974h,https://bit.ly/3ALoFS4
+GithubAdvisories,[GHSA-m59q-f53g-mx5h] Malware in ajaxapis,https://github.com/advisories/GHSA-m59q-f53g-mx5h,https://bit.ly/3IG3UJl
+GithubAdvisories,[GHSA-p38g-v6x6-g44f] Malware in tescodek,https://github.com/advisories/GHSA-p38g-v6x6-g44f,https://bit.ly/3nYE7CA
+GithubAdvisories,[GHSA-wm57-pv47-45cp] Malware in ajax-libary,https://github.com/advisories/GHSA-wm57-pv47-45cp,https://bit.ly/3yyv2Fr
+GithubAdvisories,[GHSA-28cq-6rmx-pjq4] Improper Authentication in Apache Tomcat,https://github.com/advisories/GHSA-28cq-6rmx-pjq4,https://bit.ly/3yDVvl0
+GithubAdvisories,[GHSA-6cpj-3g83-q2j4] Improper Restriction of XML External Entity Reference in Apache Solr,https://github.com/advisories/GHSA-6cpj-3g83-q2j4,https://bit.ly/3IG3Ucj
+GithubAdvisories,[GHSA-gmh3-x5w7-jg5m] Cross-site Scripting in Microweber,https://github.com/advisories/GHSA-gmh3-x5w7-jg5m,https://bit.ly/3o0EbSy
+GithubAdvisories,[GHSA-5m48-c37x-f792] Ember.js Potential XSS Exploit When Binding `tagName` to User-Supplied Data,https://github.com/advisories/GHSA-5m48-c37x-f792,https://bit.ly/3yDsVjE
+GithubAdvisories,[GHSA-v3r8-6vfj-pppf] Plaintext Storage of a Password in Jenkins Build Notifications Plugin,https://github.com/advisories/GHSA-v3r8-6vfj-pppf,https://bit.ly/3ALKUHB
+GithubAdvisories,[GHSA-7298-w54j-q7wm] Cleartext Storage of Sensitive Information in Jenkins Build Notifications Plugin,https://github.com/advisories/GHSA-7298-w54j-q7wm,https://bit.ly/3nZMy0E
+GithubAdvisories,[GHSA-653c-373w-p343] Malware in gfg-gpe-utilities,https://github.com/advisories/GHSA-653c-373w-p343,https://bit.ly/3ALsAym
+GithubAdvisories,[GHSA-v7jg-gg65-vg2r] Malware in restli-utils,https://github.com/advisories/GHSA-v7jg-gg65-vg2r,https://bit.ly/3yz9Q28
+GithubAdvisories,[GHSA-pgp9-x83g-v8x8] Plaintext Storage of a Password in Jenkins RocketChat Notifier Plugin,https://github.com/advisories/GHSA-pgp9-x83g-v8x8,https://bit.ly/3nVMnTU
+GithubAdvisories,[GHSA-273c-fjw8-v2w8] Plaintext Storage of a Password in Jenkins OpsGenie Plugin,https://github.com/advisories/GHSA-273c-fjw8-v2w8,https://bit.ly/3awtCmU
+GithubAdvisories,[GHSA-3q2w-2qvj-gp36] Malware in waffles-icons,https://github.com/advisories/GHSA-3q2w-2qvj-gp36,https://bit.ly/3ayMl1b
+GithubAdvisories,[GHSA-g377-x8rg-c9mf] Deserialization of Untrusted Data in topthink/framework,https://github.com/advisories/GHSA-g377-x8rg-c9mf,https://bit.ly/3AKcdlr
+GithubAdvisories,[GHSA-crcq-5659-8j45] Malware in @roborox_int/elk-logger,https://github.com/advisories/GHSA-crcq-5659-8j45,https://bit.ly/3APfz6H
+GithubAdvisories,[GHSA-6889-p2hr-hhp2] Malware in @vividcortex/multiplexer,https://github.com/advisories/GHSA-6889-p2hr-hhp2,https://bit.ly/3IG3VwT
+GithubAdvisories,[GHSA-rm23-6mwv-8q9q] XML External Entity Reference in Jenkins Recipe Plugin,https://github.com/advisories/GHSA-rm23-6mwv-8q9q,https://bit.ly/3oh2nAh
+GithubAdvisories,[GHSA-266j-xvxv-7pjp] Malware in amount-normalizer,https://github.com/advisories/GHSA-266j-xvxv-7pjp,https://bit.ly/3AIpNpx
+GithubAdvisories,[GHSA-4gmh-2c3w-8gj7] Malware in ugentec-framework-angular,https://github.com/advisories/GHSA-4gmh-2c3w-8gj7,https://bit.ly/3aum04B
