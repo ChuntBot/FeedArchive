@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8v7h-cpc2-r8jp] RCE via race condition in October CMS upload process,https://github.com/advisories/GHSA-8v7h-cpc2-r8jp,https://bit.ly/3O60FMc
+GithubAdvisories,[GHSA-76vr-72mv-mf3q] Cross-Site Request Forgery in Apache Tomcat,https://github.com/advisories/GHSA-76vr-72mv-mf3q,https://bit.ly/3P5SwJj
+GithubAdvisories,[GHSA-jgm2-m5cg-f66g] Authentication Bypass in Apache Tomcat,https://github.com/advisories/GHSA-jgm2-m5cg-f66g,https://bit.ly/3O6o00D
+GithubAdvisories,[GHSA-55j7-f5wf-43m4] Remote web-service operation execution in Apache CXF,https://github.com/advisories/GHSA-55j7-f5wf-43m4,https://bit.ly/3IyxhgJ
+GithubAdvisories,[GHSA-qmh2-h7r6-gm6q] Client BlockTokens not checked in Apache Hadoop,https://github.com/advisories/GHSA-qmh2-h7r6-gm6q,https://bit.ly/3P80NMO
+GithubAdvisories,[GHSA-2g99-c67p-56hm] XML Signature/Encryption Not Validated in Apache CXF,https://github.com/advisories/GHSA-2g99-c67p-56hm,https://bit.ly/3IzwpZ2
+GithubAdvisories,[GHSA-6fxm-66hq-fc96] Uncontrolled Resource Consumption in Apache Commons Compress,https://github.com/advisories/GHSA-6fxm-66hq-fc96,https://bit.ly/3O7e6vz
+GithubAdvisories,[GHSA-vjpc-vf4f-82qg] Improper Authentication in Apache CXF,https://github.com/advisories/GHSA-vjpc-vf4f-82qg,https://bit.ly/3O0rpOd
