@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,fix blank page on /user when not logged,https://github.com/mailcow/mailcow-dockerized/commit/5b924614aa284cfcae07283b8dabca21d1a797c7,https://bit.ly/3nXcgmr
+GithubCommitStaging,Merge pull request #4677 from mhofer117/patch-1,https://github.com/mailcow/mailcow-dockerized/commit/09dca5d76cece725b64a4dfc9a762c90d9011ea3,https://bit.ly/3AJ2TOR
