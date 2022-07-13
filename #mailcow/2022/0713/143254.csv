@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Changed no compose warning color,https://github.com/mailcow/mailcow-dockerized/commit/d82cfc6c62427e2884ea8ec4da3db47205118dcd,https://bit.ly/3AMaiN7
+GithubCommitStaging,Fixed wrongly override_backup overwriting,https://github.com/mailcow/mailcow-dockerized/commit/385570c1e8aadd49b48134abf09a737fd0553554,https://bit.ly/3IBo5bx
+GithubCommitStaging,Re-aranged the functions position to top,https://github.com/mailcow/mailcow-dockerized/commit/40cf2c85e609f2cb82f85841c16a749cf0748011,https://bit.ly/3ANy3EO
+GithubCommitStaging,Readded (again) the new update script check,https://github.com/mailcow/mailcow-dockerized/commit/43ec12f4f0a87db8440c20759bfe2e2a00bb4aa3,https://bit.ly/3AKO91I
+GithubCommitStaging,Modified pip compose check,https://github.com/mailcow/mailcow-dockerized/commit/b8ec244d92ea3a4118ffc389f0a4fb31c585458c,https://bit.ly/3IB8HeX
+GithubCommitStaging,Fixed PIP Check,https://github.com/mailcow/mailcow-dockerized/commit/83b79edb423c7637650f93a4142c1cded304e391,https://bit.ly/3yEKXCj
+GithubCommitStaging,Muted which Pip in update_compose,https://github.com/mailcow/mailcow-dockerized/commit/65bb808441e4d86e01cf417aff0f36995c312f11,https://bit.ly/3uGsZhl
+GithubCommitStaging,Corrected pip check,https://github.com/mailcow/mailcow-dockerized/commit/f07b9ea304af01caa4d991cd4896dc17602d2390,https://bit.ly/3PhJtoo
+GithubCommitStaging,Unspecified direct compose version (lower then 2.X.X),https://github.com/mailcow/mailcow-dockerized/commit/586b60b276aaf10942c2a78b5c76289802528a32,https://bit.ly/3P3foZK
+GithubCommitStaging,Merge pull request #4662 from mailcow/feature/updatesh-compose-update…,https://github.com/mailcow/mailcow-dockerized/commit/83efd3e506f696a90bb1aa19e127113a4a10cf31,https://bit.ly/3Iynd7n
