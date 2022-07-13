@@ -1,0 +1,37 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8m5q-crqq-6pmf] Unrestricted Upload of File with Dangerous Type in Apache Struts2,https://github.com/advisories/GHSA-8m5q-crqq-6pmf,https://bit.ly/3zdbh8d
+GithubAdvisories,[GHSA-jrf8-cmgg-gv2m] Error on unsupported architectures in raw-cpuid,https://github.com/advisories/GHSA-jrf8-cmgg-gv2m,https://bit.ly/3OjC9aV
+GithubAdvisories,[GHSA-hvqc-pc78-x9wh] Soundness issue in raw-cpuid,https://github.com/advisories/GHSA-hvqc-pc78-x9wh,https://bit.ly/3aCk1eg
+GithubAdvisories,[GHSA-2p7x-jcr3-7p2c] Improper Authentication in Apache CXF,https://github.com/advisories/GHSA-2p7x-jcr3-7p2c,https://bit.ly/3O6UyY2
+GithubAdvisories,[GHSA-8h2q-qm9x-55jc] Denial of Service in Apache Tomcat,https://github.com/advisories/GHSA-8h2q-qm9x-55jc,https://bit.ly/3RrYOod
+GithubAdvisories,[GHSA-wrrh-g7h3-gqmx] Exposure of Sensitive Information to an Unauthorized Actor in RESTEasy,https://github.com/advisories/GHSA-wrrh-g7h3-gqmx,https://bit.ly/3RuYSn4
+GithubAdvisories,[GHSA-6cr4-7c7p-p3xv] Use of Hard-coded Cryptographic Key in Apache Tomcat,https://github.com/advisories/GHSA-6cr4-7c7p-p3xv,https://bit.ly/3z2oHU5
+GithubAdvisories,[GHSA-hffm-fqv4-w27r] Improper Authentication in Apache Tomcat,https://github.com/advisories/GHSA-hffm-fqv4-w27r,https://bit.ly/3z0gSyr
+GithubAdvisories,[GHSA-4f7h-9j2x-cmr4] Improper Authentication in Apache Tomcat,https://github.com/advisories/GHSA-4f7h-9j2x-cmr4,https://bit.ly/3RwwcKo
+GithubAdvisories,[GHSA-9wcx-326r-7j7w] Denial of Service in Apache ActiveMQ,https://github.com/advisories/GHSA-9wcx-326r-7j7w,https://bit.ly/3NZmjSs
+GithubAdvisories,[GHSA-qxp4-27vx-xmm3] Improper Input Validation in Jetty,https://github.com/advisories/GHSA-qxp4-27vx-xmm3,https://bit.ly/3z0ahEa
+GithubAdvisories,[GHSA-wr3m-gw98-mc3j] Improper Input Validation in Apache Tomcat,https://github.com/advisories/GHSA-wr3m-gw98-mc3j,https://bit.ly/3O5qaxe
+GithubAdvisories,[GHSA-f866-m9mv-2xr3] Deserialization of Untrusted Data in Spring Framework and Spring Security,https://github.com/advisories/GHSA-f866-m9mv-2xr3,https://bit.ly/3aCk0He
+GithubAdvisories,[GHSA-5xm9-rf63-wj7h] Improper Control of Generation of Code in Spring Security,https://github.com/advisories/GHSA-5xm9-rf63-wj7h,https://bit.ly/3cbV8qa
+GithubAdvisories,[GHSA-4644-hg35-55m9] Concurrent Execution using Shared Resource with Improper Synchronization in Spring Security,https://github.com/advisories/GHSA-4644-hg35-55m9,https://bit.ly/3RvINxg
+GithubAdvisories,[GHSA-wv88-pf73-x22p] Improper Neutralization of Directives in Dynamically Evaluated Code in Spring Framework,https://github.com/advisories/GHSA-wv88-pf73-x22p,https://bit.ly/3z2fwmI
+GithubAdvisories,[GHSA-9ggm-7897-x4mg] Improper Input Validation in Apache Tomcat,https://github.com/advisories/GHSA-9ggm-7897-x4mg,https://bit.ly/3Rvz1LG
+GithubAdvisories,[GHSA-4qqf-hmv6-r6wh] Use of a Broken or Risky Cryptographic Algorithm in Apache WSS4J,https://github.com/advisories/GHSA-4qqf-hmv6-r6wh,https://bit.ly/3RzeA0w
+GithubAdvisories,[GHSA-c57p-3v2g-w9rg] Insertion of Sensitive Information into Log File in Apache Tomcat,https://github.com/advisories/GHSA-c57p-3v2g-w9rg,https://bit.ly/3O4TNig
+GithubAdvisories,[GHSA-gw85-4gmf-m7rh] Exposure of Sensitive Information to an Unauthorized Actor in Apache HttpClient,https://github.com/advisories/GHSA-gw85-4gmf-m7rh,https://bit.ly/3z3MnYo
+GithubAdvisories,[GHSA-qwwj-qj3f-9hv7] Improper Authentication in OpenSAML,https://github.com/advisories/GHSA-qwwj-qj3f-9hv7,https://bit.ly/3RwPAqM
+GithubAdvisories,[GHSA-q9xf-jwr4-v445] Authentication Bypass in Apache Tomcat,https://github.com/advisories/GHSA-q9xf-jwr4-v445,https://bit.ly/3z1XZLl
+GithubAdvisories,[GHSA-3p86-xgrq-m6p6] Improper Neutralization of Input During Web Page Generation in Apache Tomcat,https://github.com/advisories/GHSA-3p86-xgrq-m6p6,https://bit.ly/3O5NHOw
+GithubAdvisories,[GHSA-mrgh-6x42-x6xf] Improper Authentication in Apache Qpid,https://github.com/advisories/GHSA-mrgh-6x42-x6xf,https://bit.ly/3Rx87D9
+GithubAdvisories,[GHSA-9wqr-9787-p4rf] Bypass IP detection to brute-force password in Microweber,https://github.com/advisories/GHSA-9wqr-9787-p4rf,https://bit.ly/3aCk21O
+GithubAdvisories,[GHSA-8hv7-4vfc-w8pg] Cross-site Scripting in Jenkins TestNG Results Plugin,https://github.com/advisories/GHSA-8hv7-4vfc-w8pg,https://bit.ly/3aCk1Li
+GithubAdvisories,[GHSA-7r65-pjgv-h2h9] Cleartext Transmission of Sensitive Information in Jenkins OpsGenie Plugin,https://github.com/advisories/GHSA-7r65-pjgv-h2h9,https://bit.ly/3ccrHUV
+GithubAdvisories,[GHSA-7488-6x3r-23w5] Path Traversal in ganga,https://github.com/advisories/GHSA-7488-6x3r-23w5,https://bit.ly/3O9MGFk
+GithubAdvisories,[GHSA-gvmr-mp5q-9wvw] Plaintext Storage of a Password in Jenkins Skype notifier Plugin,https://github.com/advisories/GHSA-gvmr-mp5q-9wvw,https://bit.ly/3z16vdK
+GithubAdvisories,[GHSA-h5g3-v72x-hc6f] Plaintext Storage of a Password in Jenkins Jigomerge Plugin,https://github.com/advisories/GHSA-h5g3-v72x-hc6f,https://bit.ly/3RHQPU6
+GithubAdvisories,[GHSA-4828-473v-37gh] Unrestricted Upload of File with Dangerous Type in MCMS,https://github.com/advisories/GHSA-4828-473v-37gh,https://bit.ly/3z1rblI
+GithubAdvisories,[GHSA-3533-rvpc-6x56] Exposure of Sensitive Information to an Unauthorized Actor in Spring Security,https://github.com/advisories/GHSA-3533-rvpc-6x56,https://bit.ly/3aCk2yQ
+GithubAdvisories,[GHSA-66rx-gqx3-p98m] Improper Authentication in Apache Axis2,https://github.com/advisories/GHSA-66rx-gqx3-p98m,https://bit.ly/3ccrEbH
+GithubAdvisories,[GHSA-7v5v-9v8r-w864] Inadequate Encryption Strength in Apache CXF,https://github.com/advisories/GHSA-7v5v-9v8r-w864,https://bit.ly/3O5NLhe
+GithubAdvisories,[GHSA-xf9f-32gh-h2w4] Improper Authentication in Apache CXF,https://github.com/advisories/GHSA-xf9f-32gh-h2w4,https://bit.ly/3O4Hkv4
+GithubAdvisories,[GHSA-3832-9276-x7gf] Improper Certificate Validation in apache HttpClient,https://github.com/advisories/GHSA-3832-9276-x7gf,https://bit.ly/3z4VEPK
