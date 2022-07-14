@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubCommit,Merge pull request #4670 from ntimo/task/fix-open-api-yml,https://github.com/mailcow/mailcow-dockerized/commit/58fde558f7b9d6460476f16398b7dbc2eb16c564,https://bit.ly/3yVSoGC
+GithubCommit,Merge pull request #4671 from ntimo/task/remove-drone-ci,https://github.com/mailcow/mailcow-dockerized/commit/43103add47f91cd00441146d451e0365ce4ecb86,https://bit.ly/3yyq8Zh
+GithubCommit,fix blank page on /user when not logged,https://github.com/mailcow/mailcow-dockerized/commit/5b924614aa284cfcae07283b8dabca21d1a797c7,https://bit.ly/3nXcgmr
+GithubCommit,Modified pip compose check,https://github.com/mailcow/mailcow-dockerized/commit/b8ec244d92ea3a4118ffc389f0a4fb31c585458c,https://bit.ly/3IB8HeX
+GithubCommit,Fixed PIP Check,https://github.com/mailcow/mailcow-dockerized/commit/83b79edb423c7637650f93a4142c1cded304e391,https://bit.ly/3yEKXCj
+GithubCommit,Muted which Pip in update_compose,https://github.com/mailcow/mailcow-dockerized/commit/65bb808441e4d86e01cf417aff0f36995c312f11,https://bit.ly/3uGsZhl
+GithubCommit,Merge pull request #4677 from mhofer117/patch-1,https://github.com/mailcow/mailcow-dockerized/commit/09dca5d76cece725b64a4dfc9a762c90d9011ea3,https://bit.ly/3AJ2TOR
+GithubCommit,Corrected pip check,https://github.com/mailcow/mailcow-dockerized/commit/f07b9ea304af01caa4d991cd4896dc17602d2390,https://bit.ly/3PhJtoo
+GithubCommit,Unspecified direct compose version (lower then 2.X.X),https://github.com/mailcow/mailcow-dockerized/commit/586b60b276aaf10942c2a78b5c76289802528a32,https://bit.ly/3P3foZK
+GithubCommit,Merge pull request #4662 from mailcow/feature/updatesh-compose-update…,https://github.com/mailcow/mailcow-dockerized/commit/83efd3e506f696a90bb1aa19e127113a4a10cf31,https://bit.ly/3Iynd7n
+GithubCommit,readd imapsync fix,https://github.com/mailcow/mailcow-dockerized/commit/bee762737e14e266e71c5b3a54e4a08e922f4a3b,https://bit.ly/3Rvt2Xj
+GithubCommit,readd imapsync fix,https://github.com/mailcow/mailcow-dockerized/commit/f7246628747121886d13bd022b8d7d46a0a91d43,https://bit.ly/3nX0Q27
+GithubCommit,prevent auth wipe out at yubi otp registration,https://github.com/mailcow/mailcow-dockerized/commit/cd02483b19f25dcce08fc09cee775cab66d6a5e0,https://bit.ly/3yL0osO
+GithubCommit,rearrange custom params validation,https://github.com/mailcow/mailcow-dockerized/commit/223ba44b6151f62a98779711a9173aa23876bd8a,https://bit.ly/3z3RrMe
+GithubCommit,parse host from url for webauthn library,https://github.com/mailcow/mailcow-dockerized/commit/753cde0b859336090f98b4ba3daabfc32194c65e,https://bit.ly/3z3Rsjg
+GithubCommit,Added update-compose to update.sh and create-coldstandby,https://github.com/mailcow/mailcow-dockerized/commit/7d72ae3449366fb2f317fd49edf906eb7e669f9d,https://bit.ly/3uLC3Sl
+GithubCommit,Merge pull request #4680 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/528f7da5ef0debdb6abc8ee7a6bb21653250e225,https://bit.ly/3ceVBYI
