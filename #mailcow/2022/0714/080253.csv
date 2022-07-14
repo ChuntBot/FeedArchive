@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,prevent auth wipe out at yubi otp registration,https://github.com/mailcow/mailcow-dockerized/commit/cd02483b19f25dcce08fc09cee775cab66d6a5e0,https://bit.ly/3yL0osO
+GithubCommitStaging,rearrange custom params validation,https://github.com/mailcow/mailcow-dockerized/commit/223ba44b6151f62a98779711a9173aa23876bd8a,https://bit.ly/3z3RrMe
+GithubCommitStaging,parse host from url for webauthn library,https://github.com/mailcow/mailcow-dockerized/commit/753cde0b859336090f98b4ba3daabfc32194c65e,https://bit.ly/3z3Rsjg
