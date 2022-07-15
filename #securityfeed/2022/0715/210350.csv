@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jmv9-5gx8-7xpf] Minion identity not validated in saltstack,https://github.com/advisories/GHSA-jmv9-5gx8-7xpf,https://bit.ly/3aE8hs0
+GithubAdvisories,[GHSA-5p73-qg2v-383h] Use of a Broken or Risky Cryptographic Algorithm in packbackbooks/lti-1-3-php-library,https://github.com/advisories/GHSA-5p73-qg2v-383h,https://bit.ly/3PgnEFW
+GithubAdvisories,[GHSA-768m-5w34-2xf5] Use of Insufficiently Random Values in packbackbooks/lti-1-3-php-library,https://github.com/advisories/GHSA-768m-5w34-2xf5,https://bit.ly/3zaxDqG
+GithubAdvisories,[GHSA-697v-pxg3-j262] Togglz console missing cross-site request forgery (CSRF) protection,https://github.com/advisories/GHSA-697v-pxg3-j262,https://bit.ly/3uS3F8x
+GithubAdvisories,[GHSA-95f9-94vc-665h] Path Traversal in Beego,https://github.com/advisories/GHSA-95f9-94vc-665h,https://bit.ly/3uS4b6i
+GithubAdvisories,[GHSA-c28r-hw5m-5gv3] Partial Path Traversal in com.amazonaws:aws-java-sdk-s3,https://github.com/advisories/GHSA-c28r-hw5m-5gv3,https://bit.ly/3uSmnMZ
+GithubAdvisories,[GHSA-ww4x-rwq6-qpgf] Cross-site Request Forgery in OmniAuth,https://github.com/advisories/GHSA-ww4x-rwq6-qpgf,https://bit.ly/2TZ6mmo
