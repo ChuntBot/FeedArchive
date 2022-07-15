@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wv8q-r932-8hc7] Svelte cross-site scripting prior to 3.49.0 due to when using objects during server-side rendering,https://github.com/advisories/GHSA-wv8q-r932-8hc7,https://bit.ly/3z7j0V0
