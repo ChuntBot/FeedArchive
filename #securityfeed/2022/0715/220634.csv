@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hwqr-f3v9-hwxr] Workers for local Dask clusters mistakenly listened on public interfaces,https://github.com/advisories/GHSA-hwqr-f3v9-hwxr,https://bit.ly/3yNQFSx
+GithubAdvisories,[GHSA-wc5v-r48v-g4vh] Cilium host policy bypass in endpoint-routes mode with dual-stack,https://github.com/advisories/GHSA-wc5v-r48v-g4vh,https://bit.ly/3z9RfLv
+GithubAdvisories,[GHSA-44vr-rwwj-p88h] Shscape vulnerable to insufficient escaping of whitespace,https://github.com/advisories/GHSA-44vr-rwwj-p88h,https://bit.ly/3zapfHF
+GithubAdvisories,[GHSA-jjc5-fp7p-6f8w] Shescape prior to 1.5.8 vulnerable to insufficient escaping of line feeds for CMD,https://github.com/advisories/GHSA-jjc5-fp7p-6f8w,https://bit.ly/3BaEQbV
+GithubAdvisories,[GHSA-q37h-jhf3-85cj] Bypass of CMS Safe Mode Security Feature,https://github.com/advisories/GHSA-q37h-jhf3-85cj,https://bit.ly/3z6TfEr
+GithubAdvisories,[GHSA-339q-62wm-c39w] Undertow vulnerable to Denial of Service (DoS) attacks,https://github.com/advisories/GHSA-339q-62wm-c39w,https://bit.ly/3zavs6D
+GithubAdvisories,[GHSA-748r-5r8q-273m] Apache Superset before 1.5.1 allows authenticated users to access metadata for datasets they have no permission on,https://github.com/advisories/GHSA-748r-5r8q-273m,https://bit.ly/3AU5d5p
+GithubAdvisories,[GHSA-fj7c-vg2v-ccrm] Undertow vulnerable to memory exhaustion due to buffer leak,https://github.com/advisories/GHSA-fj7c-vg2v-ccrm,https://bit.ly/3yLUYNT
