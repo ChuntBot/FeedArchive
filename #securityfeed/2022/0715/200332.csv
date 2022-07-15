@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rpr3-cw39-3pxh] jackson-databind before 2.9.10.4 vulnerable to unsafe deserialization,https://github.com/advisories/GHSA-rpr3-cw39-3pxh,https://bit.ly/3z5V6Jz
