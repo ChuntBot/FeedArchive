@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6f85-3f8q-qc94] OroCommerce vulnerable to XSS when adding class name to Selector Manager on pages that use GrapeJS editor,https://github.com/advisories/GHSA-6f85-3f8q-qc94,https://bit.ly/3aLtArl
+GithubAdvisories,[GHSA-376v-xgjx-7mfr] Timing Attack Vector in fastify-bearer-auth,https://github.com/advisories/GHSA-376v-xgjx-7mfr,https://bit.ly/3AUjYW3
+GithubAdvisories,[GHSA-h3qr-fjhm-jphw] Codecov prior to 2.0.16 does not sanitize gcov arguments,https://github.com/advisories/GHSA-h3qr-fjhm-jphw,https://bit.ly/3yEBb30
+GithubAdvisories,[GHSA-wf5x-cr3r-xr77] vm2 before 3.6.11 vulnerable to sandbox escape,https://github.com/advisories/GHSA-wf5x-cr3r-xr77,https://bit.ly/3RH1w9d
+GithubAdvisories,[GHSA-227g-7cvv-6ff3] Apache Tapestry 5.8.1 vulnerable to ReDoS via Content Types causing catastrophic backtracking,https://github.com/advisories/GHSA-227g-7cvv-6ff3,https://bit.ly/3yEBaMu
+GithubAdvisories,[GHSA-2phq-ghf8-6586] Jenkins Snow Commander Plugin prior to 2.0 vulnerable to Missing Authorization,https://github.com/advisories/GHSA-2phq-ghf8-6586,https://bit.ly/3Ob4BLU
+GithubAdvisories,[GHSA-8mjr-jr5h-q2xr] Account cannot process transactions on Goerli,https://github.com/advisories/GHSA-8mjr-jr5h-q2xr,https://bit.ly/3RH1vCb
+GithubAdvisories,[GHSA-fhfh-6cjg-57rg] Jenkins Snow Commander Plugin 2.0 vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-fhfh-6cjg-57rg,https://bit.ly/3RH1xdh
+GithubAdvisories,[GHSA-6w2f-6wq3-rjvf] RuoYi 4.7.3 vulnerable to arbitrary file upload in background management module,https://github.com/advisories/GHSA-6w2f-6wq3-rjvf,https://bit.ly/3yQnE8O
+GithubAdvisories,[GHSA-j3h2-8mf8-j5r2] Hudson XML API susceptible to External Entity Injection Vunerability prior to v3.3.2,https://github.com/advisories/GHSA-j3h2-8mf8-j5r2,https://bit.ly/3Obn6Qp
+GithubAdvisories,[GHSA-qwrj-9hmp-gpxh] FlyteAdmin Insufficient AccessToken Expiration Check prior to v1.1.30,https://github.com/advisories/GHSA-qwrj-9hmp-gpxh,https://bit.ly/3aFEUFI
+GithubAdvisories,[GHSA-pp3f-98qg-5g75] Improper Input Validation in aws-iam-authenticator,https://github.com/advisories/GHSA-pp3f-98qg-5g75,https://bit.ly/3yEBavY
+GithubAdvisories,[GHSA-5jgj-h9wp-53fr] Known vulnerable to code execution via SVG file in v1.3.1,https://github.com/advisories/GHSA-5jgj-h9wp-53fr,https://bit.ly/3ATt6Kp
+GithubAdvisories,[GHSA-p757-4v3p-j74f] Known vulnerable to account takeover via host header injection attack in v1.3.1,https://github.com/advisories/GHSA-p757-4v3p-j74f,https://bit.ly/3O6Allb
