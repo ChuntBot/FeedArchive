@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2022-21845 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21845,https://bit.ly/3yKju2a
+NVD-NIST,"CVE-2022-22022 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22022,https://bit.ly/3yKjsHA
+NVD-NIST,"CVE-2022-22023 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22023,https://bit.ly/3uTtvc8
+NVD-NIST,"CVE-2022-22024 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22024,https://bit.ly/3yKjsY6
+NVD-NIST,"CVE-2022-22025 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22025,https://bit.ly/3Phxpni
+NVD-NIST,"CVE-2022-22042 (windows_10, windows_11, windows_7, windows_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22042,https://bit.ly/3uV021n
+NVD-NIST,"CVE-2022-22045 (windows_10, windows_11, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22045,https://bit.ly/3uTRnwi
+NVD-NIST,"CVE-2022-22047 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22047,https://bit.ly/3PejePX
+NVD-NIST,CVE-2022-31073 (kubeedge),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-31073,https://bit.ly/3PgvsY8
+NVD-NIST,CVE-2022-31074 (kubeedge),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-31074,https://bit.ly/3uUpBzA
+NVD-NIST,CVE-2022-31075 (kubeedge),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-31075,https://bit.ly/3PcEF3H
+NVD-NIST,CVE-2022-31078 (kubeedge),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-31078,https://bit.ly/3aMkk6r
+NVD-NIST,CVE-2022-31079 (kubeedge),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-31079,https://bit.ly/3yKjtv8
+NVD-NIST,CVE-2022-31080 (kubeedge),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-31080,https://bit.ly/3aLZHHA
+NVD-NIST,CVE-2022-31140 (valinor),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-31140,https://bit.ly/3aMqN1h
