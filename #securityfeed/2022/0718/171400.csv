@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h6gj-6jjq-h8g9] jQuery UI Cross-site Scripting when refreshing a checkboxradio with an HTML-like initial text label,https://github.com/advisories/GHSA-h6gj-6jjq-h8g9,https://bit.ly/3aKKUwG
+GithubAdvisories,[GHSA-cj88-88mr-972w] glob-parent before 6.0.1 vulnerable to Regular Expression Denial of Service (ReDoS),https://github.com/advisories/GHSA-cj88-88mr-972w,https://bit.ly/3cbvWAb
