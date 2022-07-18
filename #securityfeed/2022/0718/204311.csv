@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-29xr-v42j-r956] thenify before 3.3.1 made use of unsafe calls to `eval`,https://github.com/advisories/GHSA-29xr-v42j-r956,https://bit.ly/3PuJTrC
