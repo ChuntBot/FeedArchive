@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubCommit,Add Integration Tests badge,https://github.com/mailcow/mailcow-dockerized/commit/c8ccf080f314fc09a1c6e1458f07658e06e675c3,https://bit.ly/3O1FU4w
+GithubCommit,Merge pull request #4682 from mailcow/feature/badge-readme,https://github.com/mailcow/mailcow-dockerized/commit/6abb4d34c13d552fbcbf712d97c13fa6f8f82c99,https://bit.ly/3aAzZ8Z
+GithubCommit,Changed which to command -v + seperated compose check from for loop,https://github.com/mailcow/mailcow-dockerized/commit/7aab2c55ff4f7286b0efd7409a13e9298b73705b,https://bit.ly/3ASqRHp
+GithubCommit,Merge branch 'master' into staging,https://github.com/mailcow/mailcow-dockerized/commit/9598b503ec891fd154cedeffa086af1789f9a602,https://bit.ly/3uPNzwa
+GithubCommit,Moved general compose v2 check below the parameter section to respect…,https://github.com/mailcow/mailcow-dockerized/commit/ceaf1423f4a7d9e4beb99c3b3280600f1265687c,https://bit.ly/3PyYwd9
+GithubCommit,Merge pull request #4691 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/b6e3e7a658e19978bc94b96dd12fab56b11eefe9,https://bit.ly/3aJzDga
