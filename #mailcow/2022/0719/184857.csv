@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Improve domain api schema (#4689),https://github.com/mailcow/mailcow-dockerized/commit/263cb96786c01ceb0c17ab303559bb7297f8eca3,https://bit.ly/3Protfm
+GithubCommitStaging,Use yaml list style in docker build workflow (#4688),https://github.com/mailcow/mailcow-dockerized/commit/7c7c67948efc79b169ed013a7b42da50f0b5ae44,https://bit.ly/3v2s8rM
+GithubCommitStaging,Mailcow -> mailcow (#4687),https://github.com/mailcow/mailcow-dockerized/commit/4bf38bf00fe960261dc5097fffb01a0b579d7735,https://bit.ly/3v0rJWI
