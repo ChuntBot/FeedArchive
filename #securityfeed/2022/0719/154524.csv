@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jxvf-m3x5-mxwq] Properties-Reader before v2.2.0 vulnerable to prototype pollution,https://github.com/advisories/GHSA-jxvf-m3x5-mxwq,https://bit.ly/3Pz81sS
+GithubAdvisories,[GHSA-rhf5-2378-3w3w] markdown-it-decorate vulnerable to cross-site scripting (XSS),https://github.com/advisories/GHSA-rhf5-2378-3w3w,https://bit.ly/3OjTjF5
