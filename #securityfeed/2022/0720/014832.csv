@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cqhr-jqvc-qw9p] Java Melody vulnerable to cross-site scripting,https://github.com/advisories/GHSA-cqhr-jqvc-qw9p,https://bit.ly/3aTUEoy
+GithubAdvisories,[GHSA-4v4p-87m3-5423] Known v1.3.1 contains Insecure Direct Object Reference,https://github.com/advisories/GHSA-4v4p-87m3-5423,https://bit.ly/3BjKdph
+GithubAdvisories,[GHSA-fr75-x856-q6j8] Octobot before 0.4.4 mishandles Tentacles upload,https://github.com/advisories/GHSA-fr75-x856-q6j8,https://bit.ly/3B2DJdX
+GithubAdvisories,[GHSA-99j7-mhfh-w84p] Slack Morphism for Rust before 0.41.0 can accidentally leak Slack OAuth client information in application debug logs,https://github.com/advisories/GHSA-99j7-mhfh-w84p,https://bit.ly/3v17fgo
+GithubAdvisories,[GHSA-p487-39h9-hm84] Jenkins Google Login Plugin 1.0 and 1.1 allows anonymous users to authenticate through client-side request modification,https://github.com/advisories/GHSA-p487-39h9-hm84,https://bit.ly/3B57dbq
+GithubAdvisories,[GHSA-r84v-qff8-jv5g] Remote code execution in vscode-npm-script,https://github.com/advisories/GHSA-r84v-qff8-jv5g,https://bit.ly/3v2UVwl
+GithubAdvisories,[GHSA-fj2w-qmjp-3rjm] Gollum 5.0 before 5.1.2 vulnerable to cross-site scripting via filename parameter to New Page dialog,https://github.com/advisories/GHSA-fj2w-qmjp-3rjm,https://bit.ly/3ogNfTb
+GithubAdvisories,[GHSA-4wf5-vphf-c2xc] Terser insecure use of regular expressions before v4.8.1 and v5.14.2 leads to ReDoS,https://github.com/advisories/GHSA-4wf5-vphf-c2xc,https://bit.ly/3B1eo46
