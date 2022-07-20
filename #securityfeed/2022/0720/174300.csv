@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g3h8-cg9x-47qw] Kirby Panel users could upload PHP Phar archives as content files before v2.5.14 and v3.4.5,https://github.com/advisories/GHSA-g3h8-cg9x-47qw,https://bit.ly/3grKn1d
