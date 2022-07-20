@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5fhj-g3p3-pq9g] Wasmtime vulnerable to Use After Free with `externref`s,https://github.com/advisories/GHSA-5fhj-g3p3-pq9g,https://bit.ly/3yYt9lx
