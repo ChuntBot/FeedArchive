@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-477v-w82m-634j] Shoutrrr util package DoS via sending 2000, 4000, or 6000 character messages",https://github.com/advisories/GHSA-477v-w82m-634j,https://bit.ly/3aMtwbb
