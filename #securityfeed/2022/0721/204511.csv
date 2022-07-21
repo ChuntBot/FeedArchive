@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q768-x9m6-m9qp] undici before v5.8.0 vulnerable to uncleared cookies on cross-host / cross-origin redirect,https://github.com/advisories/GHSA-q768-x9m6-m9qp,https://bit.ly/3om6MBK
+GithubAdvisories,[GHSA-3cvr-822r-rqcc] undici before v5.8.0 vulnerable to CRLF injection in request headers,https://github.com/advisories/GHSA-3cvr-822r-rqcc,https://bit.ly/3zov4kX
+GithubAdvisories,[GHSA-qpqw-mc85-qvm9] OS Command Injection in awesome spawn,https://github.com/advisories/GHSA-qpqw-mc85-qvm9,https://bit.ly/3aUoqJI
