@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jwvf-28fg-g4xg] WooCommerce WordPress plugin before 6.6.0 vulnerable to stored HTML injection,https://github.com/advisories/GHSA-jwvf-28fg-g4xg,https://bit.ly/3v5RXHn
+GithubAdvisories,[GHSA-5qj8-6xxj-hp9h] Dompdf before v2.0.0 vulnerable to chroot check bypass,https://github.com/advisories/GHSA-5qj8-6xxj-hp9h,https://bit.ly/3yXYwwS
+GithubAdvisories,[GHSA-5cm2-9h8c-rvfx] TZInfo relative path traversal vulnerability allows loading of arbitrary files,https://github.com/advisories/GHSA-5cm2-9h8c-rvfx,https://bit.ly/3z2pFyq
+GithubAdvisories,[GHSA-xwqx-x38c-cw95] Snipe-IT 6.0.2 vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-xwqx-x38c-cw95,https://bit.ly/3cAnWJ6
+GithubAdvisories,[GHSA-6rh6-x8ww-9h97] Grails framework Remote Code Execution via Data Binding,https://github.com/advisories/GHSA-6rh6-x8ww-9h97,https://bit.ly/3OpeRjU
+GithubAdvisories,[GHSA-4hq8-jgr8-mw9j] grunt-util-property 0.0.2 function call can add/modify properties of Object.prototype using a __proto__ payload,https://github.com/advisories/GHSA-4hq8-jgr8-mw9j,https://bit.ly/3cwcY7A
+GithubAdvisories,[GHSA-qp72-96p2-g644] Tooxie Shiva 0.10.0 allows absolute path traversal because Flask send_file function used unsafely,https://github.com/advisories/GHSA-qp72-96p2-g644,https://bit.ly/3PtsuzF
+GithubAdvisories,[GHSA-v3p8-j597-3xg8] Apache Hive before 3.1.3 `CREATE` and `DROP` function operations do not check for necessary authorization,https://github.com/advisories/GHSA-v3p8-j597-3xg8,https://bit.ly/3Ptnjjf
+GithubAdvisories,[GHSA-x2pc-fqrw-hc7f] SatyaLab opendiamond 10.1.1 vulnerable to path traversal because Flask send_file function used unsafely,https://github.com/advisories/GHSA-x2pc-fqrw-hc7f,https://bit.ly/3v5RXal
+GithubAdvisories,[GHSA-w82x-xjjr-cjr5] Snipe-IT 6.0.2 vulnerable to Cross-site Scripting via arbitrary file upload in Update Branding Settings,https://github.com/advisories/GHSA-w82x-xjjr-cjr5,https://bit.ly/3z0CLfD
+GithubAdvisories,[GHSA-687h-86vc-5x59] ChainerRL Visualizer 0.1.1 vulnerable to Path Traversal via unsafe use of send_file function,https://github.com/advisories/GHSA-687h-86vc-5x59,https://bit.ly/3v5RWTP
