@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m58q-qq5h-mgqq] Islandora 2.0 before 2.4.1 could allow any user to upload content into a repository,https://github.com/advisories/GHSA-m58q-qq5h-mgqq,https://bit.ly/3B8r7SB
+GithubAdvisories,[GHSA-64x4-9hc6-r2h6] Microsoft: CBC Padding Oracle in Azure Blob Storage Encryption Library,https://github.com/advisories/GHSA-64x4-9hc6-r2h6,https://bit.ly/3RM1q0h
+GithubAdvisories,[GHSA-7ggc-5r84-xf54] Mattermost users could access some sensitive information via API call,https://github.com/advisories/GHSA-7ggc-5r84-xf54,https://bit.ly/3znQCOt
+GithubAdvisories,[GHSA-fjh6-p566-wr6q] skylot jadx affected by Incorrect Behavior Order in vulnerable dependency,https://github.com/advisories/GHSA-fjh6-p566-wr6q,https://bit.ly/3RV6rDy
+GithubAdvisories,[GHSA-7f6x-jwh5-m9r4] Cranelift vulnerable to miscompilation of constant values in division on AArch64,https://github.com/advisories/GHSA-7f6x-jwh5-m9r4,https://bit.ly/3RM1qgN
+GithubAdvisories,[GHSA-4g63-c64m-25w9] OpenZeppelin Contracts's SignatureChecker may revert on invalid EIP-1271 signers,https://github.com/advisories/GHSA-4g63-c64m-25w9,https://bit.ly/3aS0Iy1
+GithubAdvisories,[GHSA-qh9x-gcfh-pcrw] OpenZeppelin Contracts's ERC165Checker may revert instead of returning false,https://github.com/advisories/GHSA-qh9x-gcfh-pcrw,https://bit.ly/3zooB9y
+GithubAdvisories,[GHSA-vw22-465p-8j5w] Tarball permission preservation in puppet,https://github.com/advisories/GHSA-vw22-465p-8j5w,https://bit.ly/3znqvHt
+GithubAdvisories,[GHSA-96jv-vj39-x4j6] Argo CD improper access control bug can allow malicious user to escalate privileges to admin level,https://github.com/advisories/GHSA-96jv-vj39-x4j6,https://bit.ly/3zmNSRw
+GithubAdvisories,[GHSA-9339-86wc-4qgf] Apache Xalan Java XSLT library integer truncation issue when processing malicious XSLT stylesheets,https://github.com/advisories/GHSA-9339-86wc-4qgf,https://bit.ly/3zmvU1G
