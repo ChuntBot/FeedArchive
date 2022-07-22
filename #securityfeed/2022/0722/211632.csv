@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mhxj-85r3-2x55] file-type vulnerable to Infinite Loop via malformed MKV file,https://github.com/advisories/GHSA-mhxj-85r3-2x55,https://bit.ly/3zsqSAT
