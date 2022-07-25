@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vgv5-cxvh-vfxh] Arbitrary code execution in clickhouse-driver,https://github.com/advisories/GHSA-vgv5-cxvh-vfxh,https://bit.ly/31UPrVo
