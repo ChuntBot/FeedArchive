@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+LinuxSecurity,Oracle8: ELSA-2022-5696: java Important Security Update,https://www.linuxsecurity.com/advisories/oracle/oracle8-elsa-2022-5696-java-important-security-update-00-05-11?rss,https://bit.ly/3z5RFkU
+LinuxSecurity,Oracle9: ELSA-2022-5695: java Important Security Update,https://www.linuxsecurity.com/advisories/oracle/oracle9-elsa-2022-5695-java-important-security-update-00-05-05?rss,https://bit.ly/3zaE9fJ
+LinuxSecurity,Oracle7: ELSA-2022-5698: java Important Security Update,https://www.linuxsecurity.com/advisories/oracle/oracle7-elsa-2022-5698-java-important-security-update-00-04-47?rss,https://bit.ly/3PWTpDI
+GithubAdvisories,[GHSA-7frr-vc7r-p665] Malware in dedicated-servers,https://github.com/advisories/GHSA-7frr-vc7r-p665,https://bit.ly/3za5KO9
+GithubAdvisories,[GHSA-5hjj-5g6g-vh52] Malware in order-link-builder,https://github.com/advisories/GHSA-5hjj-5g6g-vh52,https://bit.ly/3OB2b9J
+GithubAdvisories,[GHSA-2cf5-f3r7-w3m8] Malware in ovhcatalogs,https://github.com/advisories/GHSA-2cf5-f3r7-w3m8,https://bit.ly/3b451Gj
+GithubAdvisories,[GHSA-q8wr-h9pf-ggm6] Malware in @ovh-ui/oui-pagination,https://github.com/advisories/GHSA-q8wr-h9pf-ggm6,https://bit.ly/3ovYvLS
+GithubAdvisories,[GHSA-5r3f-cjr5-mwvq] Malware in @ovh-ui/oui-spinner,https://github.com/advisories/GHSA-5r3f-cjr5-mwvq,https://bit.ly/3z7Kvg6
+GithubAdvisories,[GHSA-j628-ccpc-3gmh] Malware in @ovh-ui/oui-criteria,https://github.com/advisories/GHSA-j628-ccpc-3gmh,https://bit.ly/3OtBNOU
+GithubAdvisories,[GHSA-qrhf-2xrh-f8q3] Malware in eslint-plugin-internal,https://github.com/advisories/GHSA-qrhf-2xrh-f8q3,https://bit.ly/3b3ByMI
+GithubAdvisories,[GHSA-8w9p-r5xc-wgjw] Malware in nsmalkasm,https://github.com/advisories/GHSA-8w9p-r5xc-wgjw,https://bit.ly/3zxVssB
+GithubAdvisories,[GHSA-99f5-4hmw-2637] Malware in postman-echo-nock,https://github.com/advisories/GHSA-99f5-4hmw-2637,https://bit.ly/3b3W5Rk
+GithubAdvisories,[GHSA-crwp-w285-chqw] Malware in pug-web-readiness,https://github.com/advisories/GHSA-crwp-w285-chqw,https://bit.ly/3b3W5AO
+GithubAdvisories,[GHSA-8qv3-xm3g-3q34] Malware in volpino-italiano-content,https://github.com/advisories/GHSA-8qv3-xm3g-3q34,https://bit.ly/3zxVtwF
+GithubAdvisories,[GHSA-hw4g-q8gj-f2xw] Malware in austrian-black-and-tan-hound-platforms,https://github.com/advisories/GHSA-hw4g-q8gj-f2xw,https://bit.ly/3zxVsZD
+GithubAdvisories,[GHSA-f2gf-rrjx-qp9h] Malware in my-very-first-own-package,https://github.com/advisories/GHSA-f2gf-rrjx-qp9h,https://bit.ly/3osZjRs
+GithubAdvisories,[GHSA-xh96-rm47-2945] Malware in shiba-inu-technologies,https://github.com/advisories/GHSA-xh96-rm47-2945,https://bit.ly/3ovYveQ
+GithubAdvisories,[GHSA-9558-pp6x-r6w8] Malware in treeing-cur-content,https://github.com/advisories/GHSA-9558-pp6x-r6w8,https://bit.ly/3zc2m5H
+GithubAdvisories,[GHSA-277h-83mv-fmfm] Malware in bulldog-e-business,https://github.com/advisories/GHSA-277h-83mv-fmfm,https://bit.ly/3cGY7qS
+GithubAdvisories,[GHSA-hfmf-23m9-chj8] Malware in vue-test-utils-mic,https://github.com/advisories/GHSA-hfmf-23m9-chj8,https://bit.ly/3b9R6OX
+GithubAdvisories,[GHSA-hqpm-mp22-vfw2] Malware in wetimejs-twilio-internal,https://github.com/advisories/GHSA-hqpm-mp22-vfw2,https://bit.ly/3OBsWL8
