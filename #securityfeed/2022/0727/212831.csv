@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5m8f-v3gw-h94w] Support Core Plugin before 2.79.1 stores sensitive data in plain text,https://github.com/advisories/GHSA-5m8f-v3gw-h94w,https://bit.ly/3oAOPiV
+GithubAdvisories,[GHSA-9wxh-jjj5-67cv] Missing permission checks in SSH Agent Plugin allow enumerating credentials IDs,https://github.com/advisories/GHSA-9wxh-jjj5-67cv,https://bit.ly/3OEWuaJ
+GithubAdvisories,[GHSA-9h79-5m2f-mqj2] Squash TM Publisher (Squash4Jenkins) Plugin stores passwords stored in plain text,https://github.com/advisories/GHSA-9h79-5m2f-mqj2,https://bit.ly/3OEWtUd
+GithubAdvisories,[GHSA-rv87-vcv4-fjvr] URLTrigger Plugin server-side request forgery vulnerability,https://github.com/advisories/GHSA-rv87-vcv4-fjvr,https://bit.ly/3PI2uRp
