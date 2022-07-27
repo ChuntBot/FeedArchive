@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v64w-96p6-fx7w] Apache Geronimo JMX Remoting functionality allows remote code execution in 3.x before v3.0.1,https://github.com/advisories/GHSA-v64w-96p6-fx7w,https://bit.ly/3OGqNxM
+GithubAdvisories,[GHSA-9772-cwx9-r4cj] simplejson before 2.6.1 vulnerable to array index error,https://github.com/advisories/GHSA-9772-cwx9-r4cj,https://bit.ly/3S6UVFl
+GithubAdvisories,[GHSA-gwf7-vfjf-wf6x] matrix-sydent and matrix-synapse Use Cryptographically Weak PRNG,https://github.com/advisories/GHSA-gwf7-vfjf-wf6x,https://bit.ly/3ODOeYC
+GithubAdvisories,[GHSA-qh9x-mc42-vg4g] django-anymail Includes Sensitive Information in Log Files,https://github.com/advisories/GHSA-qh9x-mc42-vg4g,https://bit.ly/3Ji9RMT
