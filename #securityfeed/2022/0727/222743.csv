@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cv78-v957-jx34] Exposure of Sensitive Information in Gradle publish plugin,https://github.com/advisories/GHSA-cv78-v957-jx34,https://bit.ly/3Bnszk8
+GithubAdvisories,[GHSA-m7gr-5w5g-36jf] Out-of-bounds Read can lead to client side denial of service,https://github.com/advisories/GHSA-m7gr-5w5g-36jf,https://bit.ly/3zCHdmi
+GithubAdvisories,[GHSA-cfcg-2qgr-v243] Microweber before 1.2.21 vulnerable to reflected XSS,https://github.com/advisories/GHSA-cfcg-2qgr-v243,https://bit.ly/3zf1Pj7
+GithubAdvisories,[GHSA-c2pj-rr68-pw94] Dataease before 1.11.2 access control issue allows attackers to arbitrarily uninstall plugin,https://github.com/advisories/GHSA-c2pj-rr68-pw94,https://bit.ly/3BDE7Af
+GithubAdvisories,[GHSA-5469-c5p2-xv5g] Dataease before 1.11.2 allows arbitrary code execution via crafter plugin,https://github.com/advisories/GHSA-5469-c5p2-xv5g,https://bit.ly/3zfjA20
+GithubAdvisories,[GHSA-5834-xv5q-cgfw] Shopware vulnerable to persistent XSS in customer module,https://github.com/advisories/GHSA-5834-xv5q-cgfw,https://bit.ly/3zfkXxF
+GithubAdvisories,[GHSA-8274-h5jp-97vr] Diactoros before 2.11.1 vulnerable to HTTP Host Header Attack,https://github.com/advisories/GHSA-8274-h5jp-97vr,https://bit.ly/3zzUjkr
