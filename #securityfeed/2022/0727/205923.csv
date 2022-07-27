@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h66p-m766-33fv] AWS CodeDeploy Plugin stored AWS Secret Key in plain text,https://github.com/advisories/GHSA-h66p-m766-33fv,https://bit.ly/3cMFmlW
