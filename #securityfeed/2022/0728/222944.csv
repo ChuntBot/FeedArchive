@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r4mw-gxf7-vxr9] Remote code execution in Microsoft.WindowsDesktop.App.Ref,https://github.com/advisories/GHSA-r4mw-gxf7-vxr9,https://bit.ly/3Q42MSa
+GithubAdvisories,[GHSA-4q2w-rw7m-xqw6] Sony Neural Network Libraries reliance on untrusted inputs prior to v1.0.10,https://github.com/advisories/GHSA-4q2w-rw7m-xqw6,https://bit.ly/3BGmAaD
+GithubAdvisories,[GHSA-fj35-m94r-9h4c] Maltego incorrectly shares a MISP connection across users in a remote-transform use case,https://github.com/advisories/GHSA-fj35-m94r-9h4c,https://bit.ly/3cDwUp4
