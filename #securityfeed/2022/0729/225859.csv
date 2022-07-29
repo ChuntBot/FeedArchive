@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ww2v-frv5-pj5x] Joplin is vulnerable to arbitrary code execution,https://github.com/advisories/GHSA-ww2v-frv5-pj5x,https://bit.ly/3JexN3C
+GithubAdvisories,[GHSA-4rx6-g5vg-5f3j] Juniper is vulnerable to @DOS GraphQL Nested Fragments overflow,https://github.com/advisories/GHSA-4rx6-g5vg-5f3j,https://bit.ly/3oDvSw7
