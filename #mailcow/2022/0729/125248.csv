@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubCommit,Improve domain api schema (#4689),https://github.com/mailcow/mailcow-dockerized/commit/263cb96786c01ceb0c17ab303559bb7297f8eca3,https://bit.ly/3Protfm
+GithubCommit,Use yaml list style in docker build workflow (#4688),https://github.com/mailcow/mailcow-dockerized/commit/7c7c67948efc79b169ed013a7b42da50f0b5ae44,https://bit.ly/3v2s8rM
+GithubCommit,Mailcow -> mailcow (#4687),https://github.com/mailcow/mailcow-dockerized/commit/4bf38bf00fe960261dc5097fffb01a0b579d7735,https://bit.ly/3v0rJWI
+GithubCommit,[GH-Actions][stale] Upgrade to v5.1.0 and add close-issue-reason,https://github.com/mailcow/mailcow-dockerized/commit/c9ab8b2eff5f326c496179056768b738c681e2eb,https://bit.ly/3yN7BbE
+GithubCommit,[Web] Update keyHandle max length to 1023 (#4696),https://github.com/mailcow/mailcow-dockerized/commit/4c10525078724dbc65422704617b52582928198f,https://bit.ly/3z6BHH9
+GithubCommit,[CLAMAV] Update to 0.105.1,https://github.com/mailcow/mailcow-dockerized/commit/44a6f09a095b946487c5fa569edd6803d4754fea,https://bit.ly/3S3tHPU
+GithubCommit,Merge pull request #4698 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/b51a659515979cd98017fb5bc8598be4a725b62c,https://bit.ly/3ziWyHj
