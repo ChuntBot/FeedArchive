@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,"CVE-2022-36123 - Linux kernel <5.18.13 lacks a certain clear operation for the block starting symbol (.bss). This allows Xen PV guest OS users to cause a denial of service, or gain privileges.",https://redd.it/wblwa3,
