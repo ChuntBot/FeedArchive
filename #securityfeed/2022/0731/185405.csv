@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] WordPress Plugin WP-UserOnline 2.87.6 - Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50988,https://bit.ly/3SevqC9
+ExploitDB,[remote] Schneider Electric SpaceLogic C-Bus Home Controller (5200WHC2) - Remote Code Execution,https://www.exploit-db.com/exploits/50987,https://bit.ly/3zI0xie
+ExploitDB,[webapps] Carel pCOWeb HVAC BACnet Gateway 2.1.0 - Directory Traversal,https://www.exploit-db.com/exploits/50986,https://bit.ly/3vtXJCS
+ExploitDB,[local] Asus GameSDK v1.0.0.4 - 'GameSDK.exe' Unquoted Service Path,https://www.exploit-db.com/exploits/50985,https://bit.ly/3vtojMx
+ExploitDB,[webapps] Dingtian-DT-R002 3.1.276A - Authentication Bypass,https://www.exploit-db.com/exploits/50984,https://bit.ly/3zdxWQo
+ExploitDB,[remote] rpc.py 0.6.0 - Remote Code Execution (RCE),https://www.exploit-db.com/exploits/50983,https://bit.ly/3zpbBj3
+ExploitDB,[webapps] Geonetwork 4.2.0 - XML External Entity (XXE),https://www.exploit-db.com/exploits/50982,https://bit.ly/3vsFvl9
