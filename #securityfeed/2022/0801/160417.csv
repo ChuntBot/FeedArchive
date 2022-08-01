@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+PacketstormSecurity,"Packet Storm New Exploits For July, 2022",https://packetstormsecurity.com/files/167907/202207-exploits.tgz,https://bit.ly/3d1X712
+PacketstormSecurity,Backdoor.Win32.Destrukor.20 MVID-2022-0627 Remote Command Execution,https://packetstormsecurity.com/files/167904/MVID-2022-0627.txt,https://bit.ly/3JALOcp
+PacketstormSecurity,Omnia MPX 1.5.0+r1 Path Traversal,https://packetstormsecurity.com/files/167903/omniampx150-traversal.txt,https://bit.ly/3cWHuYB
+PacketstormSecurity,Red Hat Security Advisory 2022-5770-01,https://packetstormsecurity.com/files/167902/RHSA-2022-5770-01.txt,https://bit.ly/3zOB2vE
+PacketstormSecurity,NanoCMS 0.4 Remote Code Execution,https://packetstormsecurity.com/files/167901/nanocms04-exec.txt,https://bit.ly/3bpCQSj
+PacketstormSecurity,Red Hat Security Advisory 2022-5767-01,https://packetstormsecurity.com/files/167900/RHSA-2022-5767-01.txt,https://bit.ly/3oLGQ2U
+PacketstormSecurity,CuteEditor For PHP 6.6 Directory Traversal,https://packetstormsecurity.com/files/167899/cuteeditorforphp66-traversal.txt,https://bit.ly/3zOB1I6
+PacketstormSecurity,Backdoor.Win32.Destrukor.20 MVID-2022-0626 Authentication Bypass / Code Execution,https://packetstormsecurity.com/files/167898/MVID-2022-0626.txt,https://bit.ly/3JlONFe
+PacketstormSecurity,mPDF 7.0 Local File Inclusion,https://packetstormsecurity.com/files/167897/mpdf70-lfi.txt,https://bit.ly/3zuGJh8
+PacketstormSecurity,WordPress Duplicator 1.4.6 Backup Disclosure,https://packetstormsecurity.com/files/167896/wpduplicator146-disclose.txt,https://bit.ly/3zI1kP9
+PacketstormSecurity,WordPress Duplicator 1.4.7 Information Disclosure,https://packetstormsecurity.com/files/167895/wpduplicator147-disclose.txt,https://bit.ly/3JjMTow
+PacketstormSecurity,Webmin 1.996 Remote Code Execution,https://packetstormsecurity.com/files/167894/webmin1996-exec.txt,https://bit.ly/3SjtCaO
+PacketstormSecurity,CodeIgniter CMS 4.2.0 SQL Injection,https://packetstormsecurity.com/files/167893/codeignitercms420-sql.txt,https://bit.ly/3cZsKbu
+PacketstormSecurity,Easy Chat Server 3.1 Buffer Overflow,https://packetstormsecurity.com/files/167892/easychatserver31-overflow.txt,https://bit.ly/3oIKomj
+PacketstormSecurity,Wavlink WN530HG4 Password Disclosure,https://packetstormsecurity.com/files/167891/wavlinkwn530hg4-disclose.txt,https://bit.ly/3cXIcF1
+PacketstormSecurity,Wavlink WN533A8 Password Disclosure,https://packetstormsecurity.com/files/167890/wavlinkwn533a8-disclose.txt,https://bit.ly/3PPIn3J
+PacketstormSecurity,Wavlink WN533A8 Cross Site Scripting,https://packetstormsecurity.com/files/167889/wavlinkwn533a8-xss.txt,https://bit.ly/3PSwUAf
+PacketstormSecurity,WordPress SeatReg 1.23.0 Open Redirect,https://packetstormsecurity.com/files/167888/wpseatreg1230-redirect.txt,https://bit.ly/3bjRdaP
+PacketstormSecurity,Crime Reporting System 1.0 SQL Injection,https://packetstormsecurity.com/files/167906/crimereportingsystem10-sql.txt,https://bit.ly/3SjZdJN
