@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xv97-c62v-4587] NextAuth.js before 4.10.3 and 3.29.10 sending verification requests (magic link) to unwanted emails,https://github.com/advisories/GHSA-xv97-c62v-4587,https://bit.ly/3bnGFaH
