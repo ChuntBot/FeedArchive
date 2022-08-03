@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rrj3-qmh8-72pf] grunt-gh-pages before 0.10.0 may allow unencrypted GitHub credentials to be written to a log file,https://github.com/advisories/GHSA-rrj3-qmh8-72pf,https://bit.ly/34OBcUJ
