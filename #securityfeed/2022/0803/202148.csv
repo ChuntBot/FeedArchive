@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8f64-q7jc-ccgp] metascraper before v5.2.0 vulnerable to stored cross-site scripting,https://github.com/advisories/GHSA-8f64-q7jc-ccgp,https://bit.ly/2QDfD1d
