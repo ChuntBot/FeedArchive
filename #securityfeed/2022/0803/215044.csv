@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qh2h-chj9-jffq] Growl before 1.10.0 vulnerable to Command Injection,https://github.com/advisories/GHSA-qh2h-chj9-jffq,https://bit.ly/2EHIxe9
+GithubAdvisories,[GHSA-qmv4-jgp7-mf68] Sails before 0.12.7 vulnerable to Broken CORS,https://github.com/advisories/GHSA-qmv4-jgp7-mf68,https://bit.ly/32LG1vg
