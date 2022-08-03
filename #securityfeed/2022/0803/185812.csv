@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+ExploitDB,[remote] uftpd 2.10 - Directory Traversal (Authenticated),https://www.exploit-db.com/exploits/51000,https://bit.ly/3PVVtMF
+ExploitDB,[remote] Easy Chat Server 3.1 - Remote Stack Buffer Overflow (SEH),https://www.exploit-db.com/exploits/50999,https://bit.ly/3P0Cak6
+ExploitDB,[webapps] Webmin 1.996 - Remote Code Execution (RCE) (Authenticated),https://www.exploit-db.com/exploits/50998,https://bit.ly/3OXQ1b9
+ExploitDB,[webapps] NanoCMS v0.4 - Remote Code Execution (RCE) (Authenticated),https://www.exploit-db.com/exploits/50997,https://bit.ly/3OYWeTU
+ExploitDB,[remote] Omnia MPX 1.5.0+r1 - Path Traversal,https://www.exploit-db.com/exploits/50996,https://bit.ly/3d4iGh7
+ExploitDB,[webapps] mPDF 7.0 - Local File Inclusion,https://www.exploit-db.com/exploits/50995,https://bit.ly/3bvuNUe
+ExploitDB,[webapps] CuteEditor for PHP 6.6 - Directory Traversal,https://www.exploit-db.com/exploits/50994,https://bit.ly/3OYxVWr
+ExploitDB,[webapps] WordPress Plugin Duplicator 1.4.7 - Information Disclosure,https://www.exploit-db.com/exploits/50993,https://bit.ly/3d2EoSO
+ExploitDB,[webapps] WordPress Plugin Duplicator 1.4.6 - Unauthenticated Backup Download,https://www.exploit-db.com/exploits/50992,https://bit.ly/3Q4xrQ0
+ExploitDB,[webapps] Wavlink WN530HG4 - Password Disclosure,https://www.exploit-db.com/exploits/50991,https://bit.ly/3zUXJhJ
+ExploitDB,[webapps] Wavlink WN533A8 - Password Disclosure,https://www.exploit-db.com/exploits/50990,https://bit.ly/3vyvlPW
+ExploitDB,[webapps] Wavlink WN533A8 - Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/50989,https://bit.ly/3OWTeaR
