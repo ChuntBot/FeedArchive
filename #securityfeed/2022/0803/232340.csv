@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qx2f-477c-35rq] method-override ReDoS when untrusted user input passed into X-HTTP-Method-Override header,https://github.com/advisories/GHSA-qx2f-477c-35rq,https://bit.ly/3hJTMRH
