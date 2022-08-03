@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5q6m-3h65-w53x] react-dev-utils OS Command Injection in function `getProcessForPort`,https://github.com/advisories/GHSA-5q6m-3h65-w53x,https://bit.ly/30zPVj1
