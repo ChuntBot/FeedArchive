@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m6mg-jvjf-w44x] conf-cfg-ini Prototype Pollution via malicious INI file before v1.2.2,https://github.com/advisories/GHSA-m6mg-jvjf-w44x,https://bit.ly/3SuhILm
