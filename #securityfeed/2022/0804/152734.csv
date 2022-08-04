@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g86g-chm8-7r2p] check-spelling workflow vulnerable to token leakage via symlink attack,https://github.com/advisories/GHSA-g86g-chm8-7r2p,https://bit.ly/3BLY33X
+GithubAdvisories,[GHSA-4mgv-m5cm-f9h7] Vault GitHub Action did not correctly mask multi-line secrets in output,https://github.com/advisories/GHSA-4mgv-m5cm-f9h7,https://bit.ly/3BLY3AZ
