@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-2181 (advanced_wordpress_reset),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2181,https://bit.ly/3P6UxE2
+NVD-NIST,CVE-2022-2215 (givewp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2215,https://bit.ly/3JxLydU
+NVD-NIST,CVE-2022-2260 (givewp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2260,https://bit.ly/3vIuPPE
+NVD-NIST,CVE-2022-2273 (simple_membership),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2273,https://bit.ly/3vF3ZHN
+NVD-NIST,CVE-2022-2305 (popups),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2305,https://bit.ly/3bCpAdl
+NVD-NIST,CVE-2022-2317 (simple_membership),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2317,https://bit.ly/3JzS97M
+NVD-NIST,CVE-2022-2325 (invitation_based_registrations),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2325,https://bit.ly/3P4D9Qu
+NVD-NIST,CVE-2022-2328 (flexi_quote_rotator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2328,https://bit.ly/3vKXEux
+NVD-NIST,"CVE-2022-2509 (enterprise_linux, gnutls)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2509,https://bit.ly/3vG6yK0
+NVD-NIST,CVE-2022-33955 (cics_tx),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33955,https://bit.ly/3JB9ayd
