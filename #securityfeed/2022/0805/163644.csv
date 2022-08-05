@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-28423 (monorepo-build),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28423,https://bit.ly/3SnD11n
+NVD-NIST,CVE-2020-28424 (s3-kilatstorage),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28424,https://bit.ly/3oTIaRg
+NVD-NIST,CVE-2020-7795 (get-npm-package-version),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-7795,https://bit.ly/3SwlOTe
+NVD-NIST,CVE-2022-2369 (yaysmtp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2369,https://bit.ly/3SxW2OO
+NVD-NIST,CVE-2022-2370 (yaysmtp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2370,https://bit.ly/3zsy52w
+NVD-NIST,"CVE-2022-26430 (android, yocto)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-26430,https://bit.ly/3SsSZqO
+NVD-NIST,"CVE-2022-26431 (android, yocto)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-26431,https://bit.ly/3P4tObj
+NVD-NIST,"CVE-2022-26432 (android, yocto)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-26432,https://bit.ly/3p0upQN
+NVD-NIST,"CVE-2022-26433 (android, yocto)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-26433,https://bit.ly/3SqvsXE
+NVD-NIST,"CVE-2022-26434 (android, yocto)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-26434,https://bit.ly/3oTtNwl
+NVD-NIST,"CVE-2022-26435 (android, yocto)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-26435,https://bit.ly/3dacRPi
+NVD-NIST,"CVE-2022-36343 (enable_svg,_webp_&_ico_upload)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36343,https://bit.ly/3da2pYg
