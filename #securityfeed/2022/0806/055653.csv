@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4vq7-8699-4xgc] WMAgent arbitrary code execution via a crafted dbs-client package,https://github.com/advisories/GHSA-4vq7-8699-4xgc,https://bit.ly/3SuB6YQ
+GithubAdvisories,[GHSA-v4hr-4jpx-56gc] Streamlit directory traversal vulnerability,https://github.com/advisories/GHSA-v4hr-4jpx-56gc,https://bit.ly/3oXeIJU
+GithubAdvisories,[GHSA-r38f-c4h4-hqq2] PostgreSQL JDBC Driver SQL Injection in ResultSet.refreshRow() with malicious column names,https://github.com/advisories/GHSA-r38f-c4h4-hqq2,https://bit.ly/3SvUxjN
+GithubAdvisories,[GHSA-8rmh-55h4-93h5] DSpace ItemImportService API Vulnerable to Path Traversal in Simple Archive Format Package Import,https://github.com/advisories/GHSA-8rmh-55h4-93h5,https://bit.ly/3StGVpm
+GithubAdvisories,[GHSA-qp5m-c3m9-8q2p] JSPUI vulnerable to path traversal in submission (resumable) upload,https://github.com/advisories/GHSA-qp5m-c3m9-8q2p,https://bit.ly/3P8v4tY
+GithubAdvisories,[GHSA-763j-q7wv-vf3m] JSPUI's controlled vocabulary feature vulnerable to Open Redirect before v6.4 and v5.11,https://github.com/advisories/GHSA-763j-q7wv-vf3m,https://bit.ly/3phIkCh
+GithubAdvisories,"[GHSA-4wm8-c2vv-xrpq] JSPUI Possible Cross Site Scripting in ""Request a Copy"" Feature",https://github.com/advisories/GHSA-4wm8-c2vv-xrpq,https://bit.ly/3oWkn39
+GithubAdvisories,[GHSA-c558-5gfm-p2r8] Cross Site Scripting (XSS) possible in JSPUI spellcheck and autocomplete tools,https://github.com/advisories/GHSA-c558-5gfm-p2r8,https://bit.ly/3SvUwML
+GithubAdvisories,[GHSA-7w85-pp86-p4pq] XMLUI's metadata of withdrawn Items is exposed to anonymous users,https://github.com/advisories/GHSA-7w85-pp86-p4pq,https://bit.ly/3oZarpq
+GithubAdvisories,"[GHSA-c2j7-66m3-r4ff] JSPUI's ""Internal System Error"" page prints exceptions and stack traces without sanitization",https://github.com/advisories/GHSA-c2j7-66m3-r4ff,https://bit.ly/3P1HDqP
+GithubAdvisories,[GHSA-j47c-j42c-mwqq] Solana Pay Vulnerable to Weakness in Transfer Validation Logic,https://github.com/advisories/GHSA-j47c-j42c-mwqq,https://bit.ly/3P5HuTg
+GithubAdvisories,[GHSA-jxg9-2ch7-f552] Feehi CMS arbitrary code execution via crafted PHP file,https://github.com/advisories/GHSA-jxg9-2ch7-f552,https://bit.ly/3P8P2Vj
+GithubAdvisories,[GHSA-xh3v-6f9j-wxw3] Drupal core Information Disclosure vulnerability,https://github.com/advisories/GHSA-xh3v-6f9j-wxw3,https://bit.ly/3SvFoyZ
+GithubAdvisories,[GHSA-7xr3-6ggc-wc9p] untangle before 1.2.1 vulnerable to XML Entity Expansion,https://github.com/advisories/GHSA-7xr3-6ggc-wc9p,https://bit.ly/3oYyq8j
+GithubAdvisories,[GHSA-f83q-2cp7-qrjg] untangle before 1.2.1 vulnerable to Improper Restriction of XML External Entity Reference,https://github.com/advisories/GHSA-f83q-2cp7-qrjg,https://bit.ly/3p4ZSB7
+GithubAdvisories,[GHSA-p6mm-27gq-9v3p] next-auth before v4.10.2 and v3.29.9 leaks excessive information into log,https://github.com/advisories/GHSA-p6mm-27gq-9v3p,https://bit.ly/3SvUx3h
