@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-42wq-rch8-6f6j] CKEditor5 Cross-site scripting caused by the editor instance destroying process,https://github.com/advisories/GHSA-42wq-rch8-6f6j,https://bit.ly/3SxRmbm
+GithubAdvisories,[GHSA-8gpg-466c-5cpj] Apache SkyWalking NodeJS Agent can lose availability if header includes illegal SkyWalking header,https://github.com/advisories/GHSA-8gpg-466c-5cpj,https://bit.ly/3P3nYqA
+GithubAdvisories,[GHSA-vjmr-6pmm-rprf] Dataease v1.11.1 SQL Injection via parameter dataSourceId,https://github.com/advisories/GHSA-vjmr-6pmm-rprf,https://bit.ly/3P925pL
+GithubAdvisories,[GHSA-rwvf-c3wm-qm6w] ffmpeg-sdk vulnerable to OS Command Injection,https://github.com/advisories/GHSA-rwvf-c3wm-qm6w,https://bit.ly/3P4qSvd
+GithubAdvisories,[GHSA-74wf-cwjg-9cf2] xopen is vulnerable to OS Command Injection in Exported Function xopen(filepath),https://github.com/advisories/GHSA-74wf-cwjg-9cf2,https://bit.ly/3Sofkpw
+GithubAdvisories,[GHSA-7vrv-5m2h-rjw9] ion-parser Prototype Pollution when malicious INI file submitted to application that parses with `parse`,https://github.com/advisories/GHSA-7vrv-5m2h-rjw9,https://bit.ly/3dbKro4
+GithubAdvisories,[GHSA-gq75-5gc3-rfwg] snyk-broker Path Traversal before v4.73.0,https://github.com/advisories/GHSA-gq75-5gc3-rfwg,https://bit.ly/3SsXqlF
+GithubAdvisories,[GHSA-wfvx-fx73-3rfj] markdown-it-toc Cross-site Scripting due to title of generated toc and contents of header not being escaped,https://github.com/advisories/GHSA-wfvx-fx73-3rfj,https://bit.ly/3oYKVkf
+GithubAdvisories,[GHSA-m939-vrfp-9v8p] js-ini Prorotype Pollution when malicious INI files submitted to an application that parses it with `parse`,https://github.com/advisories/GHSA-m939-vrfp-9v8p,https://bit.ly/3SsXrpJ
+GithubAdvisories,[GHSA-pc62-cq5x-3j5g] node-import `params` argument can be controlled by users without any sanitization,https://github.com/advisories/GHSA-pc62-cq5x-3j5g,https://bit.ly/3SxRlnO
+GithubAdvisories,[GHSA-6x93-h9g3-9phr] otp-generator before v3.0.0 insecurely generates random one-time passwords,https://github.com/advisories/GHSA-6x93-h9g3-9phr,https://bit.ly/3oYusfT
+GithubAdvisories,[GHSA-v42q-78w8-8fcc] set-deep-prop Prototype Pollution,https://github.com/advisories/GHSA-v42q-78w8-8fcc,https://bit.ly/3PiJaJz
+GithubAdvisories,[GHSA-q8hg-3vqv-f8v3] Fava vulnerable to Reflected Cross-site Scripting before v1.22.2,https://github.com/advisories/GHSA-q8hg-3vqv-f8v3,https://bit.ly/3oWGKFy
+GithubAdvisories,[GHSA-589f-c66p-hxr4] grapesjs before 0.19.5 vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-589f-c66p-hxr4,https://bit.ly/3SxRlUQ
+GithubAdvisories,[GHSA-xrf4-39fm-j5f2] Fava time and filter parameters vulnerable to reflected XSS before v1.22,https://github.com/advisories/GHSA-xrf4-39fm-j5f2,https://bit.ly/3SsXqCb
+GithubAdvisories,[GHSA-4vm8-j95f-j6v5] Strapi 4.1.12 Cross-site Scripting via crafted file,https://github.com/advisories/GHSA-4vm8-j95f-j6v5,https://bit.ly/3oXr4lg
+GithubAdvisories,[GHSA-6955-67hm-vjjq] Drupal core arbitrary PHP code execution,https://github.com/advisories/GHSA-6955-67hm-vjjq,https://bit.ly/3SxqvfC
