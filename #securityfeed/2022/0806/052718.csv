@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jxqv-jcvh-7gr4] Atlantis Events prior to 0.19.7 vulnerable to Timing Attack,https://github.com/advisories/GHSA-jxqv-jcvh-7gr4,https://bit.ly/3vN9TXx
+GithubAdvisories,[GHSA-8cw9-5hmv-77w6] sanic vulnerable to Path Traversal,https://github.com/advisories/GHSA-8cw9-5hmv-77w6,https://bit.ly/3vKn0Zt
+GithubAdvisories,[GHSA-6gjm-6wj6-4px5] Byobu user preference to prevent private discussions being started are not respected,https://github.com/advisories/GHSA-6gjm-6wj6-4px5,https://bit.ly/3vN9Jzp
+GithubAdvisories,[GHSA-6367-p3v8-7mgw] google-cloudstorage-commands Command Injection vulnerability,https://github.com/advisories/GHSA-6367-p3v8-7mgw,https://bit.ly/3vJALb7
+GithubAdvisories,[GHSA-qrjv-rf5q-qpxc] Rust-WebSocket memory allocation based on untrusted length,https://github.com/advisories/GHSA-qrjv-rf5q-qpxc,https://bit.ly/3vLrzTn
+GithubAdvisories,[GHSA-vqgr-mfxm-47f3] git-archive vulnerable to Command Injection via exports function,https://github.com/advisories/GHSA-vqgr-mfxm-47f3,https://bit.ly/3bzUmU9
+GithubAdvisories,[GHSA-54w4-2f2p-f48h] deferred-exec Command Injection vulnerability,https://github.com/advisories/GHSA-54w4-2f2p-f48h,https://bit.ly/3vIYF6C
+GithubAdvisories,[GHSA-wr4v-3f2h-6hhh] sonar-wrapper Command Injection vulnerability,https://github.com/advisories/GHSA-wr4v-3f2h-6hhh,https://bit.ly/3vFwDIP
