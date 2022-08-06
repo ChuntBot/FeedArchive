@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-28451 (image-tiler),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28451,https://bit.ly/3BNFuMM
+NVD-NIST,CVE-2022-2245 (counter_box),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2245,https://bit.ly/3daZkqF
+NVD-NIST,CVE-2022-23733 (enterprise_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23733,https://bit.ly/3dajIIO
+NVD-NIST,CVE-2022-2631 (tooljet),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2631,https://bit.ly/3JzA3CQ
+NVD-NIST,CVE-2022-31109 (laminas-diactoros),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-31109,https://bit.ly/3daZjmB
+NVD-NIST,CVE-2022-31128 (tuleap),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-31128,https://bit.ly/3daZiix
+NVD-NIST,CVE-2022-31178 (elabftw),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-31178,https://bit.ly/3JBcE3T
+NVD-NIST,CVE-2022-34162 (cics_tx),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34162,https://bit.ly/3daZhLv
+NVD-NIST,CVE-2022-34163 (cics_tx),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34163,https://bit.ly/3daZiPz
+NVD-NIST,CVE-2022-34164 (cics_tx),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34164,https://bit.ly/3JD7DIi
+NVD-NIST,CVE-2022-34307 (cics_tx),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34307,https://bit.ly/3daZjD7
+NVD-NIST,CVE-2022-34618 (mealie),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34618,https://bit.ly/3JwAG01
+NVD-NIST,CVE-2022-34619 (mealie),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34619,https://bit.ly/3JBBW1H
+NVD-NIST,CVE-2022-34928 (jfinal_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34928,https://bit.ly/3BLCFvr
