@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ExploitDB,[remote] PAN-OS 10.0 - Remote Code Execution (RCE) (Authenticated),https://www.exploit-db.com/exploits/51005,https://bit.ly/3zGDJ1b
+ExploitDB,[webapps] ThingsBoard 3.3.1 'description' - Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/51004,https://bit.ly/3BTtN72
+ExploitDB,[webapps] ThingsBoard 3.3.1 'name' - Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/51003,https://bit.ly/3dmMIgB
+ExploitDB,[webapps] Feehi CMS 2.1.1 - Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/51002,https://bit.ly/3JG7WBS
+ExploitDB,[webapps] Prestashop blockwishlist module 2.1.0 - SQLi,https://www.exploit-db.com/exploits/51001,https://bit.ly/3bJKxmK
