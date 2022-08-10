@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-78fg-pvgg-6g3r] OpenShift Deployer Plugin does not perform permission checks in methods implementing form validation,https://github.com/advisories/GHSA-78fg-pvgg-6g3r,https://bit.ly/3zN1ncq
