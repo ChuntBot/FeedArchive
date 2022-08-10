@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-449w-c77c-vmf6] Jenkins Git Plugin before 4.11.4 provides unauthenticated attackers information about the existence of jobs,https://github.com/advisories/GHSA-449w-c77c-vmf6,https://bit.ly/3vYryeX
+GithubAdvisories,[GHSA-v878-67xw-grw2] Jenkins Git Plugin before 4.11.4 is missing a permission check,https://github.com/advisories/GHSA-v878-67xw-grw2,https://bit.ly/3vYrxaT
+GithubAdvisories,"[GHSA-99mq-hw5m-gwjj] Jenkins Coverity Plugin is missing authorization, leading to Credential Capture",https://github.com/advisories/GHSA-99mq-hw5m-gwjj,https://bit.ly/3QAuGpf
+GithubAdvisories,[GHSA-x7w4-vfrh-fc3h] Jenkins Coverity Plugin allows attackers with Overall/Read permission to enumerate credentials IDs,https://github.com/advisories/GHSA-x7w4-vfrh-fc3h,https://bit.ly/3C0x1FV
+GithubAdvisories,[GHSA-5x3f-7m52-9cgf] Jenkins Coverity Plugin vulnerable to cross-site request forgery (CSRF),https://github.com/advisories/GHSA-5x3f-7m52-9cgf,https://bit.ly/3QAuG8J
+GithubAdvisories,[GHSA-5xp2-7qfc-fwgc] Jenkins Compuware zAdviser API Plugin before 1.0.4 vulnerable to protection mechanism failure,https://github.com/advisories/GHSA-5xp2-7qfc-fwgc,https://bit.ly/3QhrpLF
+GithubAdvisories,[GHSA-57f2-52wj-7vj6] Jenkins Compuware ISPW Operations Plugin before 1.0.9 vulnerable to protection mechanism failure,https://github.com/advisories/GHSA-57f2-52wj-7vj6,https://bit.ly/3vYrwDR
+GithubAdvisories,[GHSA-cqfc-9452-r36j] curljs Command Injection vulnerability,https://github.com/advisories/GHSA-cqfc-9452-r36j,https://bit.ly/3BUIS8m
+GithubAdvisories,[GHSA-32fw-9wq8-9x9c] node-latex-pdf is susceptible to command injection,https://github.com/advisories/GHSA-32fw-9wq8-9x9c,https://bit.ly/3dnGIUH
