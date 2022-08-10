@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vjxv-45g9-9296] cosign's `cosign verify-attestaton --type` can report a false positive if any attestation exists,https://github.com/advisories/GHSA-vjxv-45g9-9296,https://bit.ly/3BWgpz2
+GithubAdvisories,[GHSA-739f-hw6h-7wq8] PolicyController before 0.2.1 may bypass attestation verification,https://github.com/advisories/GHSA-739f-hw6h-7wq8,https://bit.ly/3C0COeD
+GithubAdvisories,"[GHSA-5mv2-vqq7-mq5h] Jenkins OpenShift Deployer Plugin allows attackers to check for file path, upload SSH key file",https://github.com/advisories/GHSA-5mv2-vqq7-mq5h,https://bit.ly/3QRBX4n
+GithubAdvisories,[GHSA-8528-c6m6-gppm] Jenkins OpenShift Deployer Plugin allows connection to attacker-specified URL using attacker-specified credentials,https://github.com/advisories/GHSA-8528-c6m6-gppm,https://bit.ly/3QxlIZV
+GithubAdvisories,[GHSA-jvjh-9r4q-8q5q] Jenkins OpenShift Deployer Plugin does not perform a permission check in a method implementing form validation,https://github.com/advisories/GHSA-jvjh-9r4q-8q5q,https://bit.ly/3bRkVEl
+GithubAdvisories,[GHSA-fjpq-f574-jc45] Jenkins Repository Connector Plugin does not perform a permission check in a method implementing form validation,https://github.com/advisories/GHSA-fjpq-f574-jc45,https://bit.ly/3zPFNDW
+GithubAdvisories,[GHSA-76pg-mr9v-5vwc] Jenkins Repository Connector Plugin allows attackers with Overall/Read permission to enumerate credentials IDs,https://github.com/advisories/GHSA-76pg-mr9v-5vwc,https://bit.ly/3dmsL9j
+GithubAdvisories,[GHSA-2qh6-hhvv-m2ww] Jenkins HTTP Request Plugin stores HTTP Request passwords unencrypted,https://github.com/advisories/GHSA-2qh6-hhvv-m2ww,https://bit.ly/3BX4pxw
