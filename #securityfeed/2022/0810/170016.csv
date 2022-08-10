@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Webmin Package Updates Command Injection,https://packetstormsecurity.com/files/168049/webmin_package_updates_rce.rb.txt,https://bit.ly/3vT4Vsc
+PacketstormSecurity,Zimbra zmslapd Privilege Escalation,https://packetstormsecurity.com/files/168048/zimbra_slapper_priv_esc.rb.txt,https://bit.ly/3bOj0jR
+PacketstormSecurity,AirSpot 5410 0.3.4.1-4 Remote Command Injection,https://packetstormsecurity.com/files/168047/airspot03414-exec.txt,https://bit.ly/3vWlxj3
+PacketstormSecurity,Sophos XG115w Firewall 17.0.10 MR-10 Authentication Bypass,https://packetstormsecurity.com/files/168046/sophosxg115w-bypass.txt,https://bit.ly/3QBXs8O
+PacketstormSecurity,Red Hat Security Advisory 2022-5069-01,https://packetstormsecurity.com/files/168042/RHSA-2022-5069-01.txt,https://bit.ly/3deKijL
+PacketstormSecurity,Red Hat Security Advisory 2022-6038-01,https://packetstormsecurity.com/files/168039/RHSA-2022-6038-01.txt,https://bit.ly/3zFmmO0
+PacketstormSecurity,Red Hat Security Advisory 2022-5068-01,https://packetstormsecurity.com/files/168038/RHSA-2022-5068-01.txt,https://bit.ly/3Qq7x90
+PacketstormSecurity,Red Hat Security Advisory 2022-6037-01,https://packetstormsecurity.com/files/168037/RHSA-2022-6037-01.txt,https://bit.ly/3dokFNL
+PacketstormSecurity,Red Hat Security Advisory 2022-5070-01,https://packetstormsecurity.com/files/168036/RHSA-2022-5070-01.txt,https://bit.ly/3JMmYpP
+PacketstormSecurity,Gentoo Linux Security Advisory 202208-11,https://packetstormsecurity.com/files/168034/glsa-202208-11.txt,https://bit.ly/3vTo9Ou
+PacketstormSecurity,Gentoo Linux Security Advisory 202208-06,https://packetstormsecurity.com/files/168033/glsa-202208-06.txt,https://bit.ly/3deKhMJ
+PacketstormSecurity,Gentoo Linux Security Advisory 202208-12,https://packetstormsecurity.com/files/168032/glsa-202208-12.txt,https://bit.ly/3QwQJx4
+PacketstormSecurity,Gentoo Linux Security Advisory 202208-14,https://packetstormsecurity.com/files/168031/glsa-202208-14.txt,https://bit.ly/3JIiAIy
+PacketstormSecurity,Gentoo Linux Security Advisory 202208-10,https://packetstormsecurity.com/files/168030/glsa-202208-10.txt,https://bit.ly/3QBXtcS
+PacketstormSecurity,Gentoo Linux Security Advisory 202208-07,https://packetstormsecurity.com/files/168029/glsa-202208-07.txt,https://bit.ly/3QBXspk
+PacketstormSecurity,Gentoo Linux Security Advisory 202208-08,https://packetstormsecurity.com/files/168028/glsa-202208-08.txt,https://bit.ly/3bKZNjb
+PacketstormSecurity,Gentoo Linux Security Advisory 202208-13,https://packetstormsecurity.com/files/168027/glsa-202208-13.txt,https://bit.ly/3JNaMoE
+PacketstormSecurity,Gentoo Linux Security Advisory 202208-09,https://packetstormsecurity.com/files/168026/glsa-202208-09.txt,https://bit.ly/3vURbNO
+PacketstormSecurity,Red Hat Security Advisory 2022-5997-01,https://packetstormsecurity.com/files/168025/RHSA-2022-5997-01.txt,https://bit.ly/3zOuOKV
