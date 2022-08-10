@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6hcj-qrw3-m66q] Fava before 1.22.3 vulnerable to reflected cross-site scripting,https://github.com/advisories/GHSA-6hcj-qrw3-m66q,https://bit.ly/3Ae1G1o
+GithubAdvisories,[GHSA-7h96-j3v4-56j2] Malware in testdonotinstall,https://github.com/advisories/GHSA-7h96-j3v4-56j2,https://bit.ly/3A6t7sL
+GithubAdvisories,[GHSA-h3qm-jrrf-cgj3] graphql-go through 0.8.0 has infinite recursion in the type definition parser,https://github.com/advisories/GHSA-h3qm-jrrf-cgj3,https://bit.ly/3vVdgvx
+GithubAdvisories,[GHSA-qq3j-44gw-cf6r] Eclipse Californium denial of service (DoS) via Datagram Transport Layer Security (DTLS) handshake on parameter mismatch,https://github.com/advisories/GHSA-qq3j-44gw-cf6r,https://bit.ly/3JKp7lS
