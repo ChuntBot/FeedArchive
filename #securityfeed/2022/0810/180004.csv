@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3486-rvxc-hrrj] gitblame susceptible to command injection,https://github.com/advisories/GHSA-3486-rvxc-hrrj,https://bit.ly/3AeICjC
+GithubAdvisories,[GHSA-mrxv-pr4h-963q] image-tiler susceptible to command injection,https://github.com/advisories/GHSA-mrxv-pr4h-963q,https://bit.ly/3wiuu6z
+GithubAdvisories,[GHSA-jp45-65jw-94mj] heroku-env susceptible to command injection,https://github.com/advisories/GHSA-jp45-65jw-94mj,https://bit.ly/3SIsGgm
+GithubAdvisories,[GHSA-9jmq-rx5f-8jwq] nbconvert vulnerable to cross-site scripting (XSS) via multiple exploit paths,https://github.com/advisories/GHSA-9jmq-rx5f-8jwq,https://bit.ly/3AmcN8B
+GithubAdvisories,[GHSA-4h66-vghf-xg5x] get-npm-package-version Command Injection vulnerability,https://github.com/advisories/GHSA-4h66-vghf-xg5x,https://bit.ly/3PnfgUw
+GithubAdvisories,[GHSA-cm7j-p8hc-97vj] Jenkins Git client plugin 3.11.0 does not perform SSH host key verification,https://github.com/advisories/GHSA-cm7j-p8hc-97vj,https://bit.ly/3SIsGwS
