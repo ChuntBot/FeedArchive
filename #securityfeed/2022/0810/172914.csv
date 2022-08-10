@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9qxh-258v-666c] owning_ref vulnerable to multiple soundness issues,https://github.com/advisories/GHSA-9qxh-258v-666c,https://bit.ly/3zPBacX
+GithubAdvisories,[GHSA-fqhm-fjjv-7q8x] Jenkins Openstack Heat Plugin CSRF,https://github.com/advisories/GHSA-fqhm-fjjv-7q8x,https://bit.ly/3psM581
