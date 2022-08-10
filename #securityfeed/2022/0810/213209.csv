@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w8gx-4r6w-3rx9] Jenkins rhnpush-plugin does not perform a permission check in a method implementing form validation,https://github.com/advisories/GHSA-w8gx-4r6w-3rx9,https://bit.ly/3pbd4Vb
+GithubAdvisories,[GHSA-j5qq-6rpm-qjgh] Jenkins Deployer Framework Plugin does not restrict application path of applications when configuring a deployment,https://github.com/advisories/GHSA-j5qq-6rpm-qjgh,https://bit.ly/3zPqmf9
+GithubAdvisories,[GHSA-cp5r-xqjr-84gm] Jenkins Compuware ISPW Operations Plugin does not perform permission checks in several HTTP endpoints,https://github.com/advisories/GHSA-cp5r-xqjr-84gm,https://bit.ly/3zNfvST
+GithubAdvisories,[GHSA-qf4p-7gqc-x6jx] Jenkins Compuware Topaz Utilities Plugin is missing authorization,https://github.com/advisories/GHSA-qf4p-7gqc-x6jx,https://bit.ly/3bNQwH8
+GithubAdvisories,[GHSA-75fc-fv3p-xh82] Jenkins Compuware Source Code Download is missing authorization,https://github.com/advisories/GHSA-75fc-fv3p-xh82,https://bit.ly/3zNtNmD
+GithubAdvisories,[GHSA-hxf7-9rv9-88v6] Jenkins Compuware Xpediter Code Coverage Plugin Missing Authorization,https://github.com/advisories/GHSA-hxf7-9rv9-88v6,https://bit.ly/3pbd4o9
+GithubAdvisories,[GHSA-6xf5-c3cx-67pv] Jenkins CLIF Performance Testing Plugin allows attackers to replace arbitrary files with other content,https://github.com/advisories/GHSA-6xf5-c3cx-67pv,https://bit.ly/3zN4qkO
+GithubAdvisories,[GHSA-8xwj-2wgh-gprh] Jenkins Git Plugin before 4.11.4 allows attackers to trigger builds of jobs to use an attacker-specified Git repo,https://github.com/advisories/GHSA-8xwj-2wgh-gprh,https://bit.ly/3AfkEVq
+GithubAdvisories,[GHSA-79x9-477g-w256] Jenkins Buckminster Plugin does not perform a permission check in a method implementing form validation,https://github.com/advisories/GHSA-79x9-477g-w256,https://bit.ly/3bJYqRT
