@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xxc2-j7jj-6g5m] Raneto Denial of Service via crafted payload injected into `Search` parameter,https://github.com/advisories/GHSA-xxc2-j7jj-6g5m,https://bit.ly/3vXCERE
+GithubAdvisories,[GHSA-8wm5-8h9c-47pc] Apache Hadoop argument injection vulnerability,https://github.com/advisories/GHSA-8wm5-8h9c-47pc,https://bit.ly/3w0HmOu
+GithubAdvisories,[GHSA-j259-6c58-9m58] loopback-connector-postgresql Vulnerable to Improper Sanitization of `contains` Filter,https://github.com/advisories/GHSA-j259-6c58-9m58,https://bit.ly/3w0DXix
+GithubAdvisories,[GHSA-85xx-xhjm-rhrw] Socket.IO-client Java before 2.0.1 vulnerable to NULL Pointer Dereference,https://github.com/advisories/GHSA-85xx-xhjm-rhrw,https://bit.ly/3vVeasc
