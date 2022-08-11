@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-30176 (azure_real_time_operating_system_guix_studio),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30176,https://bit.ly/3C0839x
+NVD-NIST,"CVE-2022-30197 (windows_10, windows_11, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30197,https://bit.ly/3QBPTiv
+NVD-NIST,"CVE-2022-33631 (365_apps, excel, office, office_long_term_servicing_channel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33631,https://bit.ly/3zUrzlv
+NVD-NIST,CVE-2022-33636 (edge_chromium),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33636,https://bit.ly/3QDmLYl
+NVD-NIST,"CVE-2022-33640 (open_management_infrastructure, system_center_operations_manager)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33640,https://bit.ly/3QhCVGR
+NVD-NIST,CVE-2022-33646 (azure_batch),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33646,https://bit.ly/3zSl5mR
+NVD-NIST,CVE-2022-33648 (office_online_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33648,https://bit.ly/3zQgmCj
+NVD-NIST,CVE-2022-33649 (edge_chromium),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33649,https://bit.ly/3zTpcz1
+NVD-NIST,"CVE-2022-33670 (windows_10, windows_11, windows_8.1, windows_rt_8.1, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33670,https://bit.ly/3QhCUTj
+NVD-NIST,CVE-2022-34685 (azure_real_time_operating_system_guix_studio),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34685,https://bit.ly/3QhCVql
