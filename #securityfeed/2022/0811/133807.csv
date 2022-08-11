@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wmg4-8cp2-hpg9] Sydent vulnerable to denial of service attack via memory exhaustion,https://github.com/advisories/GHSA-wmg4-8cp2-hpg9,https://bit.ly/3aqc60x
+GithubAdvisories,[GHSA-mh74-4m5g-fcjx] Malicious users could abuse Sydent to control the content of invitation emails,https://github.com/advisories/GHSA-mh74-4m5g-fcjx,https://bit.ly/2P2L5J5
