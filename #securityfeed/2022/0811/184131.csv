@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hgmg-hhc8-g5wr] CKEditor 5 Markdown plugin Regular expression Denial of Service,https://github.com/advisories/GHSA-hgmg-hhc8-g5wr,https://bit.ly/39vU1hj
+GithubAdvisories,[GHSA-7qqq-gh2f-wq76] ts-deepmerge before 2.0.2 vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-7qqq-gh2f-wq76,https://bit.ly/3Qhlwyk
+GithubAdvisories,[GHSA-pcjh-6r5h-r92r] django-sendfile2 before 0.7.0 contains reflected file download vulnerability,https://github.com/advisories/GHSA-pcjh-6r5h-r92r,https://bit.ly/3Ad3qb8
+GithubAdvisories,[GHSA-2jq9-6xx7-3h29] `temporary` makes use of uninitialized memory,https://github.com/advisories/GHSA-2jq9-6xx7-3h29,https://bit.ly/3Ad3pE6
