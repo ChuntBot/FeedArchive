@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-93f3-23rq-pjfp] npm CLI exposing sensitive information through logs,https://github.com/advisories/GHSA-93f3-23rq-pjfp,https://bit.ly/3gAeFgZ
