@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8x94-hmjh-97hq] Django 3.2 before 3.2.15 and 4.0 before 4.0.7 vulnerable to Reflected File Download attack,https://github.com/advisories/GHSA-8x94-hmjh-97hq,https://bit.ly/3STMw8O
+GithubAdvisories,[GHSA-hm53-hrhh-gwfq] Openstack Heat Plugin does not perform permission checks in methods implementing form validation,https://github.com/advisories/GHSA-hm53-hrhh-gwfq,https://bit.ly/3QTJQ9t
