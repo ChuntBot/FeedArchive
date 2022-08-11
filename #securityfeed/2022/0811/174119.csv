@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m2fc-9h5m-29cm] @acrontum/filesystem-template vulnerable to Command Injection due to fetchRepo API missing sanitization,https://github.com/advisories/GHSA-m2fc-9h5m-29cm,https://bit.ly/3AfupCL
