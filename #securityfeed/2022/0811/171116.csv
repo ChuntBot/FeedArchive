@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p9j6-4pjr-gp48] MPXJ path Traversal vulnerability,https://github.com/advisories/GHSA-p9j6-4pjr-gp48,https://bit.ly/3r8Bvm7
+GithubAdvisories,[GHSA-rqmg-hrg4-fm69] Go Ethereum allows attackers to use manipulation of time-difference values to achieve replacement of main-chain blocks,https://github.com/advisories/GHSA-rqmg-hrg4-fm69,https://bit.ly/3CfSQSf
