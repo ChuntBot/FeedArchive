@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qrqq-9c63-xfrg] tower-http's improper validation of Windows paths could lead to directory traversal attack,https://github.com/advisories/GHSA-qrqq-9c63-xfrg,https://bit.ly/3pdIydk
+GithubAdvisories,[GHSA-7942-2fx8-qhpf] Raneto v0.17.0 employs weak password complexity requirements,https://github.com/advisories/GHSA-7942-2fx8-qhpf,https://bit.ly/3QyFqEH
+GithubAdvisories,[GHSA-mr38-g7q2-x79p] Jenkins Openstack Heat Plugin does not perform permission checks in methods implementing form validation,https://github.com/advisories/GHSA-mr38-g7q2-x79p,https://bit.ly/3bL4A42
+GithubAdvisories,[GHSA-9xhm-6w5p-335v] Jenkins Google Cloud Backup Plugin allows attackers with Overall/Read permission to request a manual backup,https://github.com/advisories/GHSA-9xhm-6w5p-335v,https://bit.ly/3p9TRTV
+GithubAdvisories,[GHSA-rqqx-fvqx-539g] Jenkins Deployer Framework Plugin allows attackers with Item/Read permission to read deployment logs,https://github.com/advisories/GHSA-rqqx-fvqx-539g,https://bit.ly/3p9OKDc
+GithubAdvisories,[GHSA-hgp9-2c4w-x9mh] Jenkins Deployer Framework Plugin vulnerable to Path Traversal,https://github.com/advisories/GHSA-hgp9-2c4w-x9mh,https://bit.ly/3p9v82f
+GithubAdvisories,[GHSA-vpf7-q2rx-26mh] Jenkins HashiCorp Vault Plugin does not perform permission checks in several HTTP endpoints that perform Vault connection tests,https://github.com/advisories/GHSA-vpf7-q2rx-26mh,https://bit.ly/3paPzLU
+GithubAdvisories,[GHSA-j896-j72w-cr32] Jenkins Job Configuration History Plugin does not require POST requests for several HTTP endpoints,https://github.com/advisories/GHSA-j896-j72w-cr32,https://bit.ly/3bKZQLN
+GithubAdvisories,[GHSA-6x63-hrxg-2hjx] External Monitor Job Type Plugin does not require POST requests for an HTTP endpoint,https://github.com/advisories/GHSA-6x63-hrxg-2hjx,https://bit.ly/3peIH0m
