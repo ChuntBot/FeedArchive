@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qcgc-6q86-7x2p] AEM WCM Core Components CVG Image vulnerable to Reflected Cross-site Scripting,https://github.com/advisories/GHSA-qcgc-6q86-7x2p,https://bit.ly/3dphViU
+GithubAdvisories,[GHSA-6954-h5c8-m29f] Jenkins Lucene-Search Plugin vulnerable to reflected (XSS) cross-site scripting,https://github.com/advisories/GHSA-6954-h5c8-m29f,https://bit.ly/3bUk0my
+GithubAdvisories,[GHSA-jp3m-p26h-mm7v] Apache JSPWiki CSRF due to crafted invocation on the Image plugin,https://github.com/advisories/GHSA-jp3m-p26h-mm7v,https://bit.ly/3Ag4nj1
+GithubAdvisories,[GHSA-vp68-fm96-7v79] Jenkins Android Signing Plugin allows attackers to check whether attacker-specified file patterns match workspace contents,https://github.com/advisories/GHSA-vp68-fm96-7v79,https://bit.ly/3QAS1r0
+GithubAdvisories,[GHSA-jj8j-6jq7-gmvh] Jenkins Files Found Trigger Plugin allows attackers to check for existence of attacker-specified file path on Jenkins controller file system,https://github.com/advisories/GHSA-jj8j-6jq7-gmvh,https://bit.ly/3bReIZi
+GithubAdvisories,[GHSA-9x9j-vrhj-v364] Apache JSPWiki CSRF due to crafted request on UserPreferences.jsp,https://github.com/advisories/GHSA-9x9j-vrhj-v364,https://bit.ly/3SGAf7r
+GithubAdvisories,[GHSA-ggjq-8c4c-68r5] Apache JSPWiki XSS due to incomplete patch for CVE-2021-40369,https://github.com/advisories/GHSA-ggjq-8c4c-68r5,https://bit.ly/3bQXhrx
+GithubAdvisories,[GHSA-hph8-29xw-qfxx] Apache JSPWiki XSS due to crafted request in WeblogPlugin,https://github.com/advisories/GHSA-hph8-29xw-qfxx,https://bit.ly/3A9k0aL
+GithubAdvisories,[GHSA-2fxf-qj94-3f83] Apache JSPWiki XSS due to crafted request on XHRHtml2Markup.jsp,https://github.com/advisories/GHSA-2fxf-qj94-3f83,https://bit.ly/3zPmaft
+GithubAdvisories,[GHSA-7pwq-f4pq-78gm] `rustdecimal` is a malicious crate,https://github.com/advisories/GHSA-7pwq-f4pq-78gm,https://bit.ly/3AoJylz
