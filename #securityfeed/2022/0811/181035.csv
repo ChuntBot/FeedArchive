@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gwj5-wp6r-5q9f] Cronos vulnerable to DoS through unintended Contract Selfdestruct,https://github.com/advisories/GHSA-gwj5-wp6r-5q9f,https://bit.ly/3QHlI9X
+GithubAdvisories,[GHSA-7r9x-qrpr-3cxw] mofh Vulnerable to Improper Restriction of XML External Entity Reference,https://github.com/advisories/GHSA-7r9x-qrpr-3cxw,https://bit.ly/3w006xr
+GithubAdvisories,[GHSA-mpwp-pf96-9g4r] npos-tesseract Command Injection vulnerability,https://github.com/advisories/GHSA-mpwp-pf96-9g4r,https://bit.ly/3SFZPcK
