@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m8w5-vwq3-gp8f] Lucene-Search Plugin does not perform permission checks in several HTTP endpoints,https://github.com/advisories/GHSA-m8w5-vwq3-gp8f,https://bit.ly/3C6UrcC
