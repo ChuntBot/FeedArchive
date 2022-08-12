@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-78f9-745f-278p] Neo4j Graph apoc plugins Partial Path Traversal Vulnerability,https://github.com/advisories/GHSA-78f9-745f-278p,https://bit.ly/3QG1OMl
+GithubAdvisories,[GHSA-xpp3-xrff-w6rh] rocksdb vulnerable to out-of-bounds read,https://github.com/advisories/GHSA-xpp3-xrff-w6rh,https://bit.ly/3zUkktK
+GithubAdvisories,[GHSA-cf6r-q678-f2p7] Cross-site Scripting in microweber,https://github.com/advisories/GHSA-cf6r-q678-f2p7,https://bit.ly/3SKk1dA
