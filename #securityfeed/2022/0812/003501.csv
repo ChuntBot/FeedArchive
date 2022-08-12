@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-21979 (exchange_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21979,https://bit.ly/3AfXspK
+NVD-NIST,CVE-2022-21980 (exchange_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21980,https://bit.ly/3bNeBOl
+NVD-NIST,CVE-2022-24477 (exchange_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24477,https://bit.ly/3AhsJJd
+NVD-NIST,CVE-2022-24516 (exchange_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24516,https://bit.ly/3PhsulE
+NVD-NIST,"CVE-2022-30133 (windows_10, windows_11, windows_7, windows_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30133,https://bit.ly/3PkxSEz
+NVD-NIST,CVE-2022-30134 (exchange_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30134,https://bit.ly/3PiPdh7
+NVD-NIST,"CVE-2022-30144 (windows_10, windows_11, windows_8.1, windows_rt_8.1)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30144,https://bit.ly/3dsQc0I
+NVD-NIST,CVE-2022-30175 (azure_real_time_operating_system_guix_studio),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30175,https://bit.ly/3Af3O8P
+NVD-NIST,"CVE-2022-30194 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30194,https://bit.ly/3C8xx4C
+NVD-NIST,CVE-2022-30573 (ftl),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30573,https://bit.ly/3bMxJfs
+NVD-NIST,"CVE-2022-30574 (eftl, ftl)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30574,https://bit.ly/3BW0XTH
