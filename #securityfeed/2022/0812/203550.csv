@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-20816 (unified_communications_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20816,https://bit.ly/3perELB
+NVD-NIST,CVE-2022-20820 (webex_meetings),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20820,https://bit.ly/3pgZlMK
+NVD-NIST,"CVE-2022-20827 (rv160_firmware, rv160w_firmware, rv260_firmware, rv260p_firmware, rv260w_firmware, rv340_firmware, rv340w_firmware, rv345_firmware, rv345p_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20827,https://bit.ly/3pirFhC
+NVD-NIST,"CVE-2022-20842 (rv340_firmware, rv340w_firmware, rv345_firmware, rv345p_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20842,https://bit.ly/3QF5aPD
+NVD-NIST,CVE-2022-20852 (webex_meetings),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20852,https://bit.ly/3QC8pbf
+NVD-NIST,CVE-2022-20869 (broadworks),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20869,https://bit.ly/3QEuTaT
+NVD-NIST,CVE-2022-20914 (identity_services_engine),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20914,https://bit.ly/3QGLU4l
+NVD-NIST,CVE-2022-34686 (azure_real_time_operating_system_guix_studio),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34686,https://bit.ly/3QEHoDA
+NVD-NIST,CVE-2022-34687 (azure_real_time_operating_system_guix_studio),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34687,https://bit.ly/3pirEdy
+NVD-NIST,"CVE-2022-34690 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34690,https://bit.ly/3dmuHyN
+NVD-NIST,"CVE-2022-34691 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34691,https://bit.ly/3QkjKw5
+NVD-NIST,CVE-2022-34692 (exchange_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34692,https://bit.ly/3QIRGTd
+NVD-NIST,"CVE-2022-34696 (windows_10, windows_11, windows_8.1, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34696,https://bit.ly/3pirEKA
+NVD-NIST,"CVE-2022-34699 (windows_10, windows_11, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34699,https://bit.ly/3dm4L6l
+NVD-NIST,"CVE-2022-34701 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34701,https://bit.ly/3QnKKLd
+NVD-NIST,"CVE-2022-35825 (visual_studio, visual_studio_2017, visual_studio_2019, visual_studio_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35825,https://bit.ly/3dgTowq
+NVD-NIST,"CVE-2022-35826 (visual_studio, visual_studio_2017, visual_studio_2019, visual_studio_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35826,https://bit.ly/3QCF7sv
+NVD-NIST,"CVE-2022-35827 (visual_studio, visual_studio_2017, visual_studio_2019, visual_studio_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35827,https://bit.ly/3QG2v8t
