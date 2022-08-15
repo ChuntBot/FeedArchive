@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-29804 (go),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-29804,https://bit.ly/3JTSi6f
+NVD-NIST,CVE-2022-30630 (go),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30630,https://bit.ly/3AmjG9B
+NVD-NIST,CVE-2022-30631 (go),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30631,https://bit.ly/3phsAiy
+NVD-NIST,CVE-2022-30632 (go),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30632,https://bit.ly/3Aqfsy1
+NVD-NIST,CVE-2022-37006 (emui),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37006,https://bit.ly/3JXnDoz
+NVD-NIST,"CVE-2022-37007 (emui, harmonyos, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37007,https://bit.ly/3C7nTPL
+NVD-NIST,"CVE-2022-37008 (emui, harmonyos, magic_ui)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37008,https://bit.ly/3JSTuXv
+NVD-NIST,CVE-2022-38129 (sensor_management_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38129,https://bit.ly/3JYqFss
+NVD-NIST,CVE-2022-38130 (sensor_management_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38130,https://bit.ly/3pjjVMj
+NVD-NIST,CVE-2022-38150 (varnish_cache),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38150,https://bit.ly/3pmCz6g
