@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+DebianSecurityNotice,DSA-5211 wpewebkit,https://www.debian.org/security/2022/dsa-5211,https://bit.ly/3c3HANZ
+DebianSecurityNotice,DSA-5210 webkit2gtk,https://www.debian.org/security/2022/dsa-5210,https://bit.ly/3c2VJuO
+DebianSecurityNotice,DSA-5209 net-snmp,https://www.debian.org/security/2022/dsa-5209,https://bit.ly/3A4kKxv
+DebianSecurityNotice,DSA-5208 epiphany-browser,https://www.debian.org/security/2022/dsa-5208,https://bit.ly/3dBf1YF
