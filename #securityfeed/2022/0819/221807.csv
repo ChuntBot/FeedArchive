@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2021-23188 (dual_band_wireless-ac_3165_firmware, dual_band_wireless-ac_3168_firmware, dual_band_wireless-ac_8260_firmware, dual_band_wireless-ac_8265_firmware, killer_ac_1550_firmware, killer_wi-fi_6_ax1650_firmware, killer_wi-fi_6e_ax1675_firmware, killer_wi-fi_6e_ax1690_firmware, proset_wi-fi_6e_ax210_firmware, wi-fi_6_ax200_firmware, wi-fi_6_ax201_firmware, wi-fi_6e_ax211_firmware, wi-fi_6e_ax411_firmware, wireless-ac_9260_firmware, wireless-ac_9461_firmware, wireless-ac_9462_firmware, wireless-ac_9560_firmware, wireless_7265_(rev_d)_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23188,https://bit.ly/3R1bMYZ
+NVD-NIST,"CVE-2021-23223 (killer_wi-fi_6e_ax1675_firmware, killer_wi-fi_6e_ax1690_firmware, proset_wi-fi_6e_ax210_firmware, wi-fi_6e_ax211_firmware, wi-fi_6e_ax411_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23223,https://bit.ly/3K4U4S9
+NVD-NIST,CVE-2022-21812 (hardware_accelerated_execution_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21812,https://bit.ly/3dKxiTd
+NVD-NIST,CVE-2022-23403 (data_center_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23403,https://bit.ly/3QT7O4w
+NVD-NIST,CVE-2022-24378 (data_center_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24378,https://bit.ly/3QVuWiJ
+NVD-NIST,CVE-2022-25228 (candidats),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-25228,https://bit.ly/3dxiIhQ
