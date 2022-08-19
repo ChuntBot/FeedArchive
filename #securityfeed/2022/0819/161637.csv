@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-36599 (omniauth),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-36599,https://bit.ly/3PAzdHi
+NVD-NIST,CVE-2022-21148 (edge_insights_for_industrial),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21148,https://bit.ly/3pwdTbm
+NVD-NIST,CVE-2022-21152 (edge_insights_for_industrial),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21152,https://bit.ly/3PEIj5Q
+NVD-NIST,CVE-2022-22730 (edge_insights_for_industrial),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22730,https://bit.ly/3AzuoKj
+NVD-NIST,"CVE-2022-23747 (xperia_1_firmware, xperia_5_firmware, xperia_pro_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23747,https://bit.ly/3pu6jhl
+NVD-NIST,"CVE-2022-2869 (fedora, libtiff)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2869,https://bit.ly/3pyOaPH
+NVD-NIST,CVE-2022-35204 (vite),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35204,https://bit.ly/3c4EUQ3
+NVD-NIST,CVE-2022-35212 (oscommerce),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35212,https://bit.ly/3PBk6NK
+NVD-NIST,CVE-2022-35540 (agileconfig),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35540,https://bit.ly/3pwzTTA
+NVD-NIST,CVE-2022-36023 (fabric),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36023,https://bit.ly/3AyDbvN
+NVD-NIST,CVE-2022-36024 (pycord),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36024,https://bit.ly/3pwStek
+NVD-NIST,CVE-2022-36722 (library_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36722,https://bit.ly/3CeO0Vf
+NVD-NIST,CVE-2022-36725 (library_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36725,https://bit.ly/3AydZ8R
+NVD-NIST,CVE-2022-37025 (security_scan_plus),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37025,https://bit.ly/3CiRfL6
