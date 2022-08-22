@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-27787 (upx),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27787,https://bit.ly/3cfDnXA
+NVD-NIST,CVE-2020-27788 (upx),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27788,https://bit.ly/3ACOOlo
+NVD-NIST,CVE-2020-27793 (radare2),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27793,https://bit.ly/3wj1r2w
+NVD-NIST,CVE-2022-26344 (single_event_api),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-26344,https://bit.ly/3c8djOc
+NVD-NIST,CVE-2022-26374 (single_event_api),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-26374,https://bit.ly/3dTfndq
+NVD-NIST,CVE-2022-28696 (distribution_for_python),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-28696,https://bit.ly/3KaDrEF
+NVD-NIST,CVE-2022-35213 (ecommerce-codeigniter-bootstrap),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35213,https://bit.ly/3CpARsy
+NVD-NIST,CVE-2022-35975 (gitops_tools),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35975,https://bit.ly/3ADyssH
+NVD-NIST,CVE-2022-36225 (eyoucms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36225,https://bit.ly/3AjeJxn
+NVD-NIST,CVE-2022-36577 (jizhicms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36577,https://bit.ly/3AH0kfS
+NVD-NIST,CVE-2022-36579 (wellcms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36579,https://bit.ly/3CppNve
+NVD-NIST,CVE-2022-37254 (dolphinphp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37254,https://bit.ly/3Kkwwc4
