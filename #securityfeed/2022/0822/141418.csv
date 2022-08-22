@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-27794 (radare2),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27794,https://bit.ly/3pz2S9i
+NVD-NIST,"CVE-2021-37409 (killer_ac_1550_firmware, killer_wi-fi_6_ax1650_firmware, killer_wi-fi_6e_ax1675_firmware, killer_wi-fi_6e_ax1690_firmware, proset_wi-fi_6e_ax210_firmware, wi-fi_6_ax200_firmware, wi-fi_6_ax201_firmware, wi-fi_6e_ax211_firmware, wi-fi_6e_ax411_firmware, wireless-ac_9260_firmware, wireless-ac_9461_firmware, wireless-ac_9462_firmware, wireless-ac_9560_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-37409,https://bit.ly/3CnzgDj
+NVD-NIST,CVE-2022-22489 (mq),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22489,https://bit.ly/3Cq6lyM
+NVD-NIST,"CVE-2022-2336 (edgeaggregator, edgeconnector, opc, opc_ua_c++_software_development_kit, secure_integration_server, uagates)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2336,https://bit.ly/3pz31cQ
+NVD-NIST,CVE-2022-26844 (single_event_api),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-26844,https://bit.ly/3dQkMl6
+NVD-NIST,CVE-2022-30296 (datacenter_group_event),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30296,https://bit.ly/3c6H9md
+NVD-NIST,CVE-2022-35166 (libjpeg),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35166,https://bit.ly/3T6dl9K
+NVD-NIST,CVE-2022-35554 (smartvista),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35554,https://bit.ly/3ClXeyO
+NVD-NIST,CVE-2022-37048 (tcpreplay),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37048,https://bit.ly/3Cncrjf
+NVD-NIST,CVE-2022-37049 (tcpreplay),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37049,https://bit.ly/3pB5ymT
