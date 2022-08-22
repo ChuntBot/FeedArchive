@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2022-21139 (proset_wi-fi_6e_ax210_firmware, wi-fi_6_ax200_firmware, wi-fi_6_ax201_firmware, wi-fi_6e_ax211_firmware, wi-fi_6e_ax411_firmware, wireless-ac_9260_firmware, wireless-ac_9461_firmware, wireless-ac_9462_firmware, wireless-ac_9560_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21139,https://bit.ly/3CjVXZf
+NVD-NIST,"CVE-2022-21160 (proset_wi-fi_6e_ax210_firmware, wi-fi_6_ax200_firmware, wi-fi_6_ax201_firmware, wi-fi_6e_ax211_firmware, wi-fi_6e_ax411_firmware, wireless-ac_9260_firmware, wireless-ac_9461_firmware, wireless-ac_9462_firmware, wireless-ac_9560_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21160,https://bit.ly/3Aeoc91
+NVD-NIST,"CVE-2022-21172 (proset_wi-fi_6e_ax210_firmware, wi-fi_6e_ax211_firmware, wi-fi_6e_ax411_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21172,https://bit.ly/3PGYj7z
+NVD-NIST,"CVE-2022-21197 (proset_wi-fi_6e_ax210_firmware, wi-fi_6_ax200_firmware, wi-fi_6_ax201_firmware, wi-fi_6e_ax211_firmware, wi-fi_6e_ax411_firmware, wireless-ac_9260_firmware, wireless-ac_9461_firmware, wireless-ac_9462_firmware, wireless-ac_9560_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21197,https://bit.ly/3A7oRJa
+NVD-NIST,"CVE-2022-21212 (proset_wi-fi_6e_ax210_firmware, wi-fi_6_ax200_firmware, wi-fi_6_ax201_firmware, wi-fi_6e_ax211_firmware, wi-fi_6e_ax411_firmware, wireless-ac_9260_firmware, wireless-ac_9461_firmware, wireless-ac_9462_firmware, wireless-ac_9560_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21212,https://bit.ly/3cgnMqz
+NVD-NIST,"CVE-2022-21240 (proset_wi-fi_6e_ax210_firmware, wi-fi_6e_ax211_firmware, wi-fi_6e_ax411_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21240,https://bit.ly/3PM1WZH
+NVD-NIST,CVE-2022-2568 (ansible_automation_platform),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2568,https://bit.ly/3dQax0t
+NVD-NIST,CVE-2022-25841 (datacenter_group_event),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-25841,https://bit.ly/3CoptNy
+NVD-NIST,CVE-2022-25899 (open_active_management_technology_cloud_toolkit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-25899,https://bit.ly/3Cp4U3t
+NVD-NIST,CVE-2022-29507 (team_blue),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-29507,https://bit.ly/3cgnMH5
+NVD-NIST,CVE-2022-35165 (bento4),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35165,https://bit.ly/3dOj1ox
