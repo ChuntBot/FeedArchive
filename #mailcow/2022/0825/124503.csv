@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommitStaging,exclude oauth clients & app passwords from mailbox tfa,https://github.com/mailcow/mailcow-dockerized/commit/0342ae926c8c02b13f02ec5f711b9d4d81d29334,https://bit.ly/3Cwl2A3
+GithubCommitStaging,autoselect authenticator if only one exists,https://github.com/mailcow/mailcow-dockerized/commit/1ca566f670d31280b37378fb76b40338436a9866,https://bit.ly/3KiNAz0
+GithubCommitStaging,yubi_otp undo authenticator selection,https://github.com/mailcow/mailcow-dockerized/commit/c8620a066d447ed6aaf6054b184fd16146574e5b,https://bit.ly/3AjRfYR
+GithubCommitStaging,[Web] Mailbox TFA fix,https://github.com/mailcow/mailcow-dockerized/commit/555f4a8a6d300361985c8d4cb9aada97ea339483,https://bit.ly/3cik6oy
+GithubCommitStaging,Merge pull request #4685 from FreddleSpl0it/tfa-patch,https://github.com/mailcow/mailcow-dockerized/commit/02512e0f4f98e1560de40bfe042e231463912a45,https://bit.ly/3cnPTEv
