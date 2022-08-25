@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-21208 (mode-opcua),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-21208,https://bit.ly/3Apl0HO
+NVD-NIST,CVE-2022-24298 (freeopcua),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24298,https://bit.ly/3Cxi26w
+NVD-NIST,CVE-2022-25302 (opc_ua_stack),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-25302,https://bit.ly/3Ana1hZ
+NVD-NIST,"CVE-2022-28882 (atlant, cloud_protection_for_salesforce, elements_collaboration_protection, elements_endpoint_protection, internet_gatekeeper, linux_security, linux_security_64)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-28882,https://bit.ly/3cnGVHk
+NVD-NIST,"CVE-2022-28883 (atlant, cloud_protection_for_salesforce, elements_collaboration_protection, elements_endpoint_protection, internet_gatekeeper, linux_security, linux_security_64)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-28883,https://bit.ly/3AJ1049
