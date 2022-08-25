@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-35992 (prologue),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35992,https://bit.ly/3dWW9Ue
+NVD-NIST,CVE-2021-42232 (archer_a7_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42232,https://bit.ly/3POC8fx
+NVD-NIST,CVE-2022-24381 (opc_ua_stack),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24381,https://bit.ly/3AnLtWa
+NVD-NIST,CVE-2022-25304 (opcua-asyncio),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-25304,https://bit.ly/3e0JZtz
+NVD-NIST,CVE-2022-25761 (open62541),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-25761,https://bit.ly/3PUlYkS
+NVD-NIST,CVE-2022-25888 (opcua),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-25888,https://bit.ly/3PReVt6
