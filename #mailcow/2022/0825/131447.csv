@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Added nightly footer,https://github.com/mailcow/mailcow-dockerized/commit/a8eb3b6ac5b03238f04eb33f08fde1ec98c07729,https://bit.ly/3clugog
+GithubCommitStaging,Readded footer + vars,https://github.com/mailcow/mailcow-dockerized/commit/77f9947613fa3aac9ac772574495a0ee50a3c91f,https://bit.ly/3R69uYs
+GithubCommitStaging,Added missing ;then in update.sh,https://github.com/mailcow/mailcow-dockerized/commit/4f7ee669d3c3fc13829f629a392215abd899c35f,https://bit.ly/3wqsKbe
+GithubCommitStaging,Moved Force Mode check in prio,https://github.com/mailcow/mailcow-dockerized/commit/9db9818edea9ba7680aef32267d91e57a6ff0895,https://bit.ly/3AK2AD0
+GithubCommitStaging,Fixed Force flag,https://github.com/mailcow/mailcow-dockerized/commit/cdc8f63b4b2ec1622c4f62106a4e3ea2b57bc7ba,https://bit.ly/3AJ4NhY
+GithubCommitStaging,Changed Git Checkout form,https://github.com/mailcow/mailcow-dockerized/commit/825c8a6abee977529b3b29dd3e167d5d42b3fb47,https://bit.ly/3Rb7FJW
+GithubCommitStaging,Corrected origin fetch,https://github.com/mailcow/mailcow-dockerized/commit/85deeaf80645fc78adadfbe5b514651096f09382,https://bit.ly/3ALgVih
+GithubCommitStaging,Set correct Commit ID from origin instead of local,https://github.com/mailcow/mailcow-dockerized/commit/e202530afb57ee33c7cce6f9e2dbb3594e6df30f,https://bit.ly/3ALRmh6
+GithubCommitStaging,Corrected Twig Footer,https://github.com/mailcow/mailcow-dockerized/commit/ef311f22bf5b188837909427438ee29423c2ac56,https://bit.ly/3CwxtMw
+GithubCommitStaging,Fix Upstream Commit ID grep,https://github.com/mailcow/mailcow-dockerized/commit/5ea43051856104e9ea5d01bde800b0180e6edd04,https://bit.ly/3ww27l8
+GithubCommitStaging,Use universal Git Commit Date Command,https://github.com/mailcow/mailcow-dockerized/commit/778a3ed551c270d0bb104eddd26c3587fcc25df4,https://bit.ly/3CvP3A4
+GithubCommitStaging,Corrected detect docker compose command position,https://github.com/mailcow/mailcow-dockerized/commit/1f9f4157a674850962b06fe68553ff040e6c9a5e,https://bit.ly/3dJOUi7
+GithubCommitStaging,Re-arranged position of source mailcow.conf,https://github.com/mailcow/mailcow-dockerized/commit/bc9141753fab8fb4b591461d92703c345ebbef0c,https://bit.ly/3Retvwd
+GithubCommitStaging,Implemented correct app_info.php set in generate_config,https://github.com/mailcow/mailcow-dockerized/commit/e98a9844179e0808106d5a7f28c1eca800f2bf40,https://bit.ly/3R8oOUC
+GithubCommitStaging,Fixed missing branch variable in app info.php (gen-config),https://github.com/mailcow/mailcow-dockerized/commit/3633766544d37ee74a96fc34d763885be5504f2e,https://bit.ly/3AK2ziq
+GithubCommitStaging,Readded update.sh new Version check :P,https://github.com/mailcow/mailcow-dockerized/commit/57cd5ec818b5872e91327990f92e9f69a96a2e19,https://bit.ly/3dJOPuP
+GithubCommitStaging,Corrected compose standalone update message in generate config,https://github.com/mailcow/mailcow-dockerized/commit/fee6ff43bf1d65846cea58c727cd707905d6ae65,https://bit.ly/3AK2yuS
+GithubCommitStaging,Merge pull request #4725 from mailcow/feature/nightly-switch,https://github.com/mailcow/mailcow-dockerized/commit/6d36475ed3e81094b4c7aefcd945ebdb16d64ce5,https://bit.ly/3cnKQUv
