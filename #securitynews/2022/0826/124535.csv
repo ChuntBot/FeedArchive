@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,"Tool Release – JWT-Reauth - a plugin aims to provide a painless solution to this issue. JWT-Reauth provides Burp with a way to authenticate with a given endpoint, parse out the provided token and then attach it as a header on requests going to a given scope.",https://redd.it/wy85tn,
