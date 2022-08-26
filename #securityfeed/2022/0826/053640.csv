@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-24375 (mode-opcua),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24375,https://bit.ly/3cnhndn
+NVD-NIST,CVE-2022-25903 (opcua),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-25903,https://bit.ly/3Tliwmc
+NVD-NIST,CVE-2022-35726 (video_gallery),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35726,https://bit.ly/3TliwCI
+NVD-NIST,CVE-2022-36282 (search_exclude),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36282,https://bit.ly/3cmNNEN
+NVD-NIST,"CVE-2022-36285 (uploading_svg,_webp_and_ico_files)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36285,https://bit.ly/3dYT0Di
+NVD-NIST,CVE-2022-36347 (alpine_phototile_for_pinterest),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36347,https://bit.ly/3pKpRy7
+NVD-NIST,CVE-2022-36405 (amcharts:_charts_and_maps),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36405,https://bit.ly/3TjgnaY
+NVD-NIST,CVE-2022-37153 (artica_proxy),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37153,https://bit.ly/3cqROIw
