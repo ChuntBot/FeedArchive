@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-35509 (keycloak),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35509,https://bit.ly/3RbfvD9
+NVD-NIST,CVE-2022-25231 (node-opcua),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-25231,https://bit.ly/3e1zpm0
+NVD-NIST,CVE-2022-28712 (avideo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-28712,https://bit.ly/3pKGI3Z
+NVD-NIST,CVE-2022-30534 (avideo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30534,https://bit.ly/3wtH1E4
+NVD-NIST,CVE-2022-34775 (tabit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34775,https://bit.ly/3APUOHG
+NVD-NIST,CVE-2022-34776 (tabit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34776,https://bit.ly/3dYGrrI
+NVD-NIST,"CVE-2022-35733 (udr-ja1004_firmware, udr-ja1008_firmware, udr-ja1016_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35733,https://bit.ly/3RbCTRc
+NVD-NIST,CVE-2022-37798 (ac1206_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37798,https://bit.ly/3AP7myS
+NVD-NIST,CVE-2022-37799 (ac1206_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37799,https://bit.ly/3ANqrBA
+NVD-NIST,CVE-2022-37800 (ac1206_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37800,https://bit.ly/3APqKvN
+NVD-NIST,CVE-2022-37801 (ac1206_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37801,https://bit.ly/3AMyMFN
+NVD-NIST,CVE-2022-37802 (ac1206_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37802,https://bit.ly/3APHAdV
+NVD-NIST,CVE-2022-37803 (ac1206_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37803,https://bit.ly/3crNZCU
+NVD-NIST,CVE-2022-37804 (ac1206_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37804,https://bit.ly/3AQBWsf
+NVD-NIST,CVE-2022-37805 (ac1206_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37805,https://bit.ly/3KnSCu8
+NVD-NIST,CVE-2022-37806 (ac1206_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37806,https://bit.ly/3KoRBlA
+NVD-NIST,CVE-2022-37807 (ac1206_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37807,https://bit.ly/3wxkZjT
+NVD-NIST,CVE-2022-37808 (ac1206_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37808,https://bit.ly/3wtTqaX
+NVD-NIST,CVE-2022-37809 (ac1206_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37809,https://bit.ly/3AQhbgg
+NVD-NIST,CVE-2022-37810 (ac1206_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37810,https://bit.ly/3wyjlOY
+NVD-NIST,CVE-2022-37811 (ac1206_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37811,https://bit.ly/3KlCFok
+NVD-NIST,CVE-2022-37812 (ac1206_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37812,https://bit.ly/3KoRS7V
+NVD-NIST,CVE-2022-37813 (ac1206_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37813,https://bit.ly/3cqnFsK
+NVD-NIST,CVE-2022-37814 (ac1206_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37814,https://bit.ly/3Km5wJ4
+NVD-NIST,CVE-2022-37815 (ac1206_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37815,https://bit.ly/3e1BYEF
