@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-20298 (openexr),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20298,https://bit.ly/3QXfbs4
+NVD-NIST,CVE-2021-20304 (openexr),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20304,https://bit.ly/3QUM9ta
+NVD-NIST,"CVE-2021-23177 (codeready_linux_builder, enterprise_linux, enterprise_linux_eus, enterprise_linux_for_ibm_z_systems, enterprise_linux_for_ibm_z_systems_eus, enterprise_linux_for_power_little_endian, enterprise_linux_for_power_little_endian_eus, enterprise_linux_server_aus, enterprise_linux_server_for_power_little_endian_update_services_for_sap_solutions, enterprise_linux_server_tus, fedora, libarchive)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-23177,https://bit.ly/3QP96xM
+NVD-NIST,"CVE-2021-31566 (codeready_linux_builder, enterprise_linux, enterprise_linux_eus, enterprise_linux_for_ibm_z_systems, enterprise_linux_for_ibm_z_systems_eus, enterprise_linux_for_power_little_endian, enterprise_linux_for_power_little_endian_eus, enterprise_linux_server_aus, enterprise_linux_server_for_power_little_endian_update_services_for_sap_solutions, enterprise_linux_server_tus, fedora, libarchive)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-31566,https://bit.ly/3QVFEpT
+NVD-NIST,CVE-2022-34868 (yukassa_for_woocommerce),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34868,https://bit.ly/3APDaUk
+NVD-NIST,CVE-2022-36467 (b5_mini_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36467,https://bit.ly/3PY46Wd
+NVD-NIST,CVE-2022-36468 (b5_mini_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36468,https://bit.ly/3AN6WJx
+NVD-NIST,CVE-2022-36469 (b5_mini_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36469,https://bit.ly/3cpXmD4
+NVD-NIST,CVE-2022-36470 (b5_mini_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36470,https://bit.ly/3QVL58r
+NVD-NIST,CVE-2022-36471 (b5_mini_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36471,https://bit.ly/3e4sZ5G
+NVD-NIST,CVE-2022-36472 (b5_mini_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36472,https://bit.ly/3PMSm96
+NVD-NIST,CVE-2022-36473 (b5_mini_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36473,https://bit.ly/3e29qec
+NVD-NIST,CVE-2022-36474 (b5_mini_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36474,https://bit.ly/3e2TWq0
+NVD-NIST,CVE-2022-36475 (b5_mini_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36475,https://bit.ly/3dWSS7d
+NVD-NIST,CVE-2022-36477 (b5_mini_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36477,https://bit.ly/3PTslVB
+NVD-NIST,CVE-2022-36478 (b5_mini_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36478,https://bit.ly/3AQe73D
+NVD-NIST,CVE-2022-37078 (a7000r_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37078,https://bit.ly/3QU0E0i
+NVD-NIST,CVE-2022-37079 (a7000r_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37079,https://bit.ly/3Ajlkri
+NVD-NIST,CVE-2022-37080 (a7000r_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37080,https://bit.ly/3QRTIAI
+NVD-NIST,CVE-2022-37081 (a7000r_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37081,https://bit.ly/3Kmbtpu
+NVD-NIST,CVE-2022-37082 (a7000r_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37082,https://bit.ly/3QS9uvn
+NVD-NIST,CVE-2022-37083 (a7000r_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37083,https://bit.ly/3AjlkaM
+NVD-NIST,CVE-2022-37084 (a7000r_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37084,https://bit.ly/3AR0vFg
