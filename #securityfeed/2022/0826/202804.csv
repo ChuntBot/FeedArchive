@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2021-20316 (debian_linux, enterprise_linux, enterprise_linux_aus, enterprise_linux_eus, enterprise_linux_tus, samba, virtualization_host)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20316,https://bit.ly/3cploOk
+NVD-NIST,CVE-2021-3701 (ansible_runner),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3701,https://bit.ly/3CAz7wH
+NVD-NIST,"CVE-2021-3839 (data_plane_development_kit, enterprise_linux, enterprise_linux_fast_datapath, fedora)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3839,https://bit.ly/3pOCvwo
+NVD-NIST,CVE-2021-3917 (coreos-installer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3917,https://bit.ly/3AuJU93
+NVD-NIST,"CVE-2021-3975 (codeready_linux_builder, debian_linux, enterprise_linux, enterprise_linux_eus, enterprise_linux_for_ibm_z_systems, enterprise_linux_for_ibm_z_systems_eus, enterprise_linux_for_power_little_endian, enterprise_linux_for_power_little_endian_eus, enterprise_linux_server_for_power_little_endian_update_services_for_sap_solutions, enterprise_linux_server_tus, fedora, libvirt, ubuntu_linux)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3975,https://bit.ly/3AxLzuy
+NVD-NIST,CVE-2022-2956 (noxen),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2956,https://bit.ly/3pJLgrv
+NVD-NIST,CVE-2022-30547 (avideo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30547,https://bit.ly/3AsLGaD
+NVD-NIST,CVE-2022-38463 (servicenow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38463,https://bit.ly/3cng9Pn
