@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-3521 (rpm),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3521,https://bit.ly/3CxaqBd
+NVD-NIST,"CVE-2021-3586 (openshift_service_mesh, servicemesh-operator)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3586,https://bit.ly/3Aq6I9N
+NVD-NIST,"CVE-2021-3590 (foreman, satellite)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3590,https://bit.ly/3clXbZw
+NVD-NIST,CVE-2021-3639 (mod_auth_mellon),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3639,https://bit.ly/3CAektc
+NVD-NIST,CVE-2022-1989 (visualization),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-1989,https://bit.ly/3Aq6Kyr
+NVD-NIST,CVE-2022-30036 (grandma2_light_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30036,https://bit.ly/3CA2HlZ
+NVD-NIST,CVE-2022-30605 (avideo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30605,https://bit.ly/3Cwkuuc
+NVD-NIST,CVE-2022-32282 (avideo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32282,https://bit.ly/3Aq6Iqj
+NVD-NIST,CVE-2022-32572 (avideo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32572,https://bit.ly/3Aq6Jun
+NVD-NIST,CVE-2022-32761 (avideo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32761,https://bit.ly/3Aq6K1p
+NVD-NIST,CVE-2022-34770 (tabit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34770,https://bit.ly/3ciRdsp
+NVD-NIST,CVE-2022-34771 (tabit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34771,https://bit.ly/3CzV1jl
+NVD-NIST,CVE-2022-34772 (tabit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34772,https://bit.ly/3CwkudG
+NVD-NIST,CVE-2022-34773 (tabit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34773,https://bit.ly/3CC5efu
+NVD-NIST,CVE-2022-34774 (tabit),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34774,https://bit.ly/3Aq6JdR
+NVD-NIST,CVE-2022-35583 (wkhtmltopdf),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35583,https://bit.ly/3Aq6L5t
