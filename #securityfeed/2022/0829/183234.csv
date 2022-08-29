@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-20223 (sqlite),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20223,https://bit.ly/3ToDssE
+NVD-NIST,CVE-2021-20224 (imagemagick),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-20224,https://bit.ly/3PYqrDa
+NVD-NIST,"CVE-2021-3669 (build_of_quarkus, codeready_linux_builder, debian_linux, developer_tools, enterprise_linux, enterprise_linux_aus, enterprise_linux_for_ibm_z_systems, enterprise_linux_for_ibm_z_systems_eus, enterprise_linux_for_power_little_endian, enterprise_linux_for_power_little_endian_eus, enterprise_linux_for_real_time, enterprise_linux_for_real_time_for_nfv, enterprise_linux_for_real_time_for_nfv_tus, enterprise_linux_for_real_time_tus, enterprise_linux_server_aus, enterprise_linux_server_for_power_little_endian_update_services_for_sap_solutions, enterprise_linux_server_tus, fedora, linux_kernel, openshift_container_platform, spectrum_copy_data_management, spectrum_protect_plus, virtualization_host)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3669,https://bit.ly/3wF7RZV
+NVD-NIST,"CVE-2021-4028 (linux_enterprise, linux_kernel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-4028,https://bit.ly/3wDwR3W
+NVD-NIST,CVE-2021-4037 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-4037,https://bit.ly/3Tqh9Tp
+NVD-NIST,"CVE-2021-4040 (activemq_artemis, amq_broker)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-4040,https://bit.ly/3wHTHr1
+NVD-NIST,CVE-2022-20921 (aci_multi-site_orchestrator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20921,https://bit.ly/3TocT70
+NVD-NIST,CVE-2022-32834 (macos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32834,https://bit.ly/3TmXbZM
+NVD-NIST,"CVE-2022-32837 (ipados, iphone_os, macos, tvos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32837,https://bit.ly/3Tp1ROG
+NVD-NIST,"CVE-2022-32838 (ipados, iphone_os, macos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32838,https://bit.ly/3TnwtjN
+NVD-NIST,"CVE-2022-32894 (ipados, iphone_os, macos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32894,https://bit.ly/3wDPgO7
+NVD-NIST,CVE-2022-36546 (edoc-doctor-appointment-system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36546,https://bit.ly/3ATJoma
+NVD-NIST,CVE-2022-36547 (edoc-doctor-appointment-system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36547,https://bit.ly/3AVxwQy
+NVD-NIST,CVE-2022-36548 (edoc-doctor-appointment-system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36548,https://bit.ly/3e5Imuy
+NVD-NIST,CVE-2022-37318 (archer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37318,https://bit.ly/3wGbjUl
