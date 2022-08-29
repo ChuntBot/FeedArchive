@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2018-14519 (kirby),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-14519,https://bit.ly/3AVIgia
+NVD-NIST,CVE-2018-14520 (kirby),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-14520,https://bit.ly/3pXKfff
+NVD-NIST,CVE-2021-0946 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0946,https://bit.ly/3AUaf1F
+NVD-NIST,CVE-2021-0947 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-0947,https://bit.ly/3pRPtJy
+NVD-NIST,CVE-2021-39815 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-39815,https://bit.ly/3pPNbKT
+NVD-NIST,CVE-2021-43309 (uri-template-lite),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43309,https://bit.ly/3AUnKhK
+NVD-NIST,CVE-2022-20122 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20122,https://bit.ly/3RcmWtK
+NVD-NIST,"CVE-2022-32793 (fedora, ipados, iphone_os, macos, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32793,https://bit.ly/3cn3dcp
+NVD-NIST,"CVE-2022-32810 (ipados, iphone_os, macos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32810,https://bit.ly/3cqTf9P
+NVD-NIST,CVE-2022-32811 (macos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32811,https://bit.ly/3cn3dJr
+NVD-NIST,CVE-2022-37178 (wukong_crm),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37178,https://bit.ly/3AVDnW0
+NVD-NIST,CVE-2022-37181 (wukong_crm),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37181,https://bit.ly/3pPPf5F
+NVD-NIST,"CVE-2022-37333 (exment, laravel-admin)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37333,https://bit.ly/3pPkwWs
+NVD-NIST,"CVE-2022-38080 (exment, laravel-admin)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38080,https://bit.ly/3ARHaUy
