@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Zeek 5.0.1,https://packetstormsecurity.com/files/168198/zeek-5.0.1.tar.gz,https://bit.ly/3R8ANly
+PacketstormSecurity,Red Hat Security Advisory 2022-6206-01,https://packetstormsecurity.com/files/168196/RHSA-2022-6206-01.txt,https://bit.ly/3e9xb3Z
+PacketstormSecurity,Linux unmap_mapping_range() Race Condition,https://packetstormsecurity.com/files/168195/GS20220830150653.txt,https://bit.ly/3wENLyU
+PacketstormSecurity,Linux KVM Instruction Emulation Issue,https://packetstormsecurity.com/files/168192/GS20220830150314.tgz,https://bit.ly/3cs0xu1
+PacketstormSecurity,Kernel Live Patch Security Notice LSN-0089-1,https://packetstormsecurity.com/files/168191/LSN-0089-1.txt,https://bit.ly/3R0WjZh
