@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,fix mailbox tfa,https://github.com/mailcow/mailcow-dockerized/commit/2ed453a400d26d514715cc0dfdfb33f1fcfba793,https://bit.ly/3pVdVtA
+GithubCommitStaging,Merge branch 'staging' of https://github.com/mailcow/mailcow-dockeriz…,https://github.com/mailcow/mailcow-dockerized/commit/cad0f25345c8470749a8eeecc8947cf8c3d8c17e,https://bit.ly/3e4k0RP
+GithubCommitStaging,remove testing debug log,https://github.com/mailcow/mailcow-dockerized/commit/a161aa2c925008de927a7a62fad1576be2e69b3b,https://bit.ly/3Av8R42
