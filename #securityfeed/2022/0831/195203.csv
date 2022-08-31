@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pm55-qfxr-h247] OmniAuth's `lib/omniauth/failure_endpoint.rb` does not escape `message_key` value,https://github.com/advisories/GHSA-pm55-qfxr-h247,https://bit.ly/3wLFM3n
