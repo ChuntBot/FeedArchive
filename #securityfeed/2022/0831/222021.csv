@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-prrh-qvhf-x788] Cross-site Scripting in prestashop/productcomments,https://github.com/advisories/GHSA-prrh-qvhf-x788,https://bit.ly/3q0QUWk
+GithubAdvisories,[GHSA-jhjh-776m-4765] Denial of service due to incorrect application of event authorization rules,https://github.com/advisories/GHSA-jhjh-776m-4765,https://bit.ly/3pVbR4Z
