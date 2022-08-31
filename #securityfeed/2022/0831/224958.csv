@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6qv6-q77g-7qm6] NVFLARE unsafe deserialization due to Pickle,https://github.com/advisories/GHSA-6qv6-q77g-7qm6,https://bit.ly/3RfTeEq
+GithubAdvisories,[GHSA-rvgm-35jw-q628] Improper Control of Generation of Code ('Code Injection') in mdx-mermaid,https://github.com/advisories/GHSA-rvgm-35jw-q628,https://bit.ly/3Q4XzJD
+GithubAdvisories,[GHSA-vqc4-v8hc-h2jg] Polynomial regular expression used on uncontrolled data in nitrado.js,https://github.com/advisories/GHSA-vqc4-v8hc-h2jg,https://bit.ly/3Rq7E4R
