@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-3427 (deluge),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3427,https://bit.ly/3CJXHuY
+NVD-NIST,"CVE-2021-3563 (debian_linux, keystone, openstack_platform)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3563,https://bit.ly/3cuGXxi
+NVD-NIST,CVE-2021-3574 (imagemagick),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3574,https://bit.ly/3PYym3q
+NVD-NIST,CVE-2021-4216 (mupdf),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-4216,https://bit.ly/3ebCM9L
+NVD-NIST,CVE-2022-24304 (mongoose),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24304,https://bit.ly/3CLSOBQ
+NVD-NIST,CVE-2022-3012 (fast_food_ordering_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3012,https://bit.ly/3B0ht3Z
+NVD-NIST,CVE-2022-3013 (simple_task_managing_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3013,https://bit.ly/3CLSIds
+NVD-NIST,CVE-2022-3014 (simple_task_managing_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3014,https://bit.ly/3CHIpqv
+NVD-NIST,CVE-2022-3015 (fast_food_ordering_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3015,https://bit.ly/3AYeCJ0
+NVD-NIST,CVE-2022-31773 (datapower_gateway),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-31773,https://bit.ly/3CFXGZ4
+NVD-NIST,CVE-2022-35714 (maximo_asset_management),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35714,https://bit.ly/3CMu7Fd
+NVD-NIST,CVE-2022-36542 (edoc-doctor-appointment-system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36542,https://bit.ly/3e810BW
+NVD-NIST,CVE-2022-36543 (edoc-doctor-appointment-system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36543,https://bit.ly/3CLfRfL
+NVD-NIST,CVE-2022-36544 (edoc-doctor-appointment-system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36544,https://bit.ly/3RhY1p2
+NVD-NIST,CVE-2022-36545 (edoc-doctor-appointment-system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36545,https://bit.ly/3RaqAov
