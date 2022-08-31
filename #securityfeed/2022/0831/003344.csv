@@ -1,0 +1,61 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rr2m-gffv-mgrj] Deserialization of Untrusted Data in Apache Hadoop YARN,https://github.com/advisories/GHSA-rr2m-gffv-mgrj,https://bit.ly/3QW9BGp
+GithubAdvisories,[GHSA-xc4w-28g8-vqm5] Path Traversal in Gravitee API Management,https://github.com/advisories/GHSA-xc4w-28g8-vqm5,https://bit.ly/3AZ1VgU
+GithubAdvisories,[GHSA-7527-8855-9cf8] Incorrect header handling in mod-wsgi,https://github.com/advisories/GHSA-7527-8855-9cf8,https://bit.ly/3AWu20n
+GithubAdvisories,[GHSA-cmxc-9ghj-jp87] Insufficient Session Expiration in snipe/snipe-it,https://github.com/advisories/GHSA-cmxc-9ghj-jp87,https://bit.ly/3PXBVqt
+GithubAdvisories,[GHSA-c8fj-4pm8-mp2c] Broken Authorization in ZITADEL Actions,https://github.com/advisories/GHSA-c8fj-4pm8-mp2c,https://bit.ly/3Q78Ed4
+GithubAdvisories,[GHSA-8mgq-6r2q-82w9] Captcha Bypass in strapi-plugin-ezforms,https://github.com/advisories/GHSA-8mgq-6r2q-82w9,https://bit.ly/3cw3b1E
+GithubAdvisories,[GHSA-6xf3-5hp7-xqqg] Improper token validation leading to code execution in Teleport,https://github.com/advisories/GHSA-6xf3-5hp7-xqqg,https://bit.ly/3PVZdx6
+GithubAdvisories,[GHSA-rv3r-vqjj-8c76] Cross-site scripting from content entered in the tags and multiselect fields,https://github.com/advisories/GHSA-rv3r-vqjj-8c76,https://bit.ly/3R2ZhMZ
+GithubAdvisories,[GHSA-7hfp-qfw3-5jxh] Denial of service through string value parsing,https://github.com/advisories/GHSA-7hfp-qfw3-5jxh,https://bit.ly/3QhgKA9
+GithubAdvisories,[GHSA-4hr4-pjjh-2q2w] Uncontrolled Resource Consumption in node-opcua,https://github.com/advisories/GHSA-4hr4-pjjh-2q2w,https://bit.ly/3pZSUOx
+GithubAdvisories,[GHSA-8mx2-gqx9-rm7f] Uncontrolled Resource Consumption in opcua,https://github.com/advisories/GHSA-8mx2-gqx9-rm7f,https://bit.ly/3cxHNcp
+GithubAdvisories,[GHSA-mfpj-3qhm-976m] Uncontrolled Resource Consumption in asyncua and opcua,https://github.com/advisories/GHSA-mfpj-3qhm-976m,https://bit.ly/3AWaI3k
+GithubAdvisories,[GHSA-wv39-f3vx-3v6q] SQL injection in jflyfox jfinal,https://github.com/advisories/GHSA-wv39-f3vx-3v6q,https://bit.ly/3AXbddu
+GithubAdvisories,[GHSA-5rf4-f24c-hpvh] SQL injection in jflyfox jfinal,https://github.com/advisories/GHSA-5rf4-f24c-hpvh,https://bit.ly/3pUmBAD
+GithubAdvisories,[GHSA-44w5-q257-8428] Exposure of password hashes in notrinos/notrinos-erp,https://github.com/advisories/GHSA-44w5-q257-8428,https://bit.ly/3R1As3L
+GithubAdvisories,[GHSA-rjvc-mf7r-ch7r] Cross site scripting in yetiforce/yetiforce-crm,https://github.com/advisories/GHSA-rjvc-mf7r-ch7r,https://bit.ly/3Q2c010
+GithubAdvisories,[GHSA-cv6r-h2fm-pvrp] HTML Injection in ActiveMQ Artemis Web Console,https://github.com/advisories/GHSA-cv6r-h2fm-pvrp,https://bit.ly/3pYAiOY
+GithubAdvisories,[GHSA-w83m-rghh-frxj] Cross site scripting in yetiforce/yetiforce-crm,https://github.com/advisories/GHSA-w83m-rghh-frxj,https://bit.ly/3AVvyjf
+GithubAdvisories,[GHSA-7qq9-9g2w-56f9] Improper Privilege Management in com.xuxueli:xxl-job,https://github.com/advisories/GHSA-7qq9-9g2w-56f9,https://bit.ly/3Q3F5t0
+GithubAdvisories,[GHSA-jhxh-68jj-68c7] Cross site scripting in yetiforce/yetiforce-crm,https://github.com/advisories/GHSA-jhxh-68jj-68c7,https://bit.ly/3cvOOKL
+GithubAdvisories,[GHSA-wff4-fpwg-qqv3] Unexpected server crash in Next.js,https://github.com/advisories/GHSA-wff4-fpwg-qqv3,https://bit.ly/3AZmzh7
+GithubAdvisories,[GHSA-p4cc-w597-6cpm] Cryptographically weak PRNG in `utils.generateUUID`,https://github.com/advisories/GHSA-p4cc-w597-6cpm,https://bit.ly/3pVefZd
+GithubAdvisories,[GHSA-4m2g-668v-jwjx] Cross site scripting in getkirby/starterkit,https://github.com/advisories/GHSA-4m2g-668v-jwjx,https://bit.ly/3B0CQ5x
+GithubAdvisories,[GHSA-56x4-j7p9-fcf9] Command Injection in moment-timezone,https://github.com/advisories/GHSA-56x4-j7p9-fcf9,https://bit.ly/3e9r4MS
+GithubAdvisories,[GHSA-v78c-4p63-2j6c] Cleartext Transmission of Sensitive Information in moment-timezone,https://github.com/advisories/GHSA-v78c-4p63-2j6c,https://bit.ly/3AZ8bFo
+GithubAdvisories,[GHSA-39gf-864w-pxw4] Unverified Password Change in OctoPrint,https://github.com/advisories/GHSA-39gf-864w-pxw4,https://bit.ly/3ecmIVe
+GithubAdvisories,[GHSA-xv7h-95r7-595j] Incorrect implementation of lockout feature in Keycloak,https://github.com/advisories/GHSA-xv7h-95r7-595j,https://bit.ly/3Q4D7IC
+GithubAdvisories,[GHSA-hw2p-xqhq-3mjf] Cross site scripting in mobiledoc-kit,https://github.com/advisories/GHSA-hw2p-xqhq-3mjf,https://bit.ly/3cw8E8T
+GithubAdvisories,[GHSA-v65g-f3cj-fjp4] Regular expression denial of service in eth-account,https://github.com/advisories/GHSA-v65g-f3cj-fjp4,https://bit.ly/3e9yJe5
+GithubAdvisories,[GHSA-h9mh-mgpv-gqmv] Remote code execution in Apache Flume,https://github.com/advisories/GHSA-h9mh-mgpv-gqmv,https://bit.ly/3Q4ygr3
+GithubAdvisories,[GHSA-h28c-453m-h9xm] Path Traversal in Payara,https://github.com/advisories/GHSA-h28c-453m-h9xm,https://bit.ly/3pY3YM4
+GithubAdvisories,[GHSA-mj5w-w588-j6xg] Use of Hard-coded Credentials in AgileConfig.Client,https://github.com/advisories/GHSA-mj5w-w588-j6xg,https://bit.ly/3Q2zmnf
+GithubAdvisories,[GHSA-qwp3-5fw3-5wgv] Incorrect Access Control and Cross Site Scripting in Jellyfin,https://github.com/advisories/GHSA-qwp3-5fw3-5wgv,https://bit.ly/3B9eo1X
+GithubAdvisories,[GHSA-77qm-wvqq-fg79] Directus vulnerable to unhandled exception on illegal filename_disk value,https://github.com/advisories/GHSA-77qm-wvqq-fg79,https://bit.ly/3pYlkIy
+GithubAdvisories,[GHSA-hrx5-cv4v-4c44] NotrinosERP Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-hrx5-cv4v-4c44,https://bit.ly/3pUMQqs
+GithubAdvisories,[GHSA-mv48-hcvh-8jj8] Vitejs Vite before v2.9.13 vulnerable to directory traversal via crafted URL to victim's service,https://github.com/advisories/GHSA-mv48-hcvh-8jj8,https://bit.ly/3pXlOyE
+GithubAdvisories,[GHSA-jgrp-6qqq-3284] Chakra Scripting Engine and ChakraCore Vulnerable to Memory Corruption,https://github.com/advisories/GHSA-jgrp-6qqq-3284,https://bit.ly/3pUtsKj
+GithubAdvisories,[GHSA-8449-7gc2-pwrp] HashiCorp Consul Template could reveal Vault secret contents in error messages,https://github.com/advisories/GHSA-8449-7gc2-pwrp,https://bit.ly/3pWUqkl
+GithubAdvisories,[GHSA-hmj3-mqgw-2fq6] Mingsoft MCMS SQL injection vulnerability in /mdiy/page/verify URI via fieldName parameter,https://github.com/advisories/GHSA-hmj3-mqgw-2fq6,https://bit.ly/3AVvyzL
+GithubAdvisories,[GHSA-7m9h-v68w-pfw3] Neos CMS vulnerable to XSS in various backend modules,https://github.com/advisories/GHSA-7m9h-v68w-pfw3,https://bit.ly/3B1Ziv3
+GithubAdvisories,[GHSA-v866-gwf5-w92f] JetBrains Ktor before 2.1.0 was vulnerable to a Reflect File Download attack,https://github.com/advisories/GHSA-v866-gwf5-w92f,https://bit.ly/3R3xZWG
+GithubAdvisories,[GHSA-pfhr-pccp-hwmh] Network Policies & (Clusterwide) Cilium Network Policies with namespace label selectors may unexpectedly select pods with maliciously crafted labels,https://github.com/advisories/GHSA-pfhr-pccp-hwmh,https://bit.ly/3AZoSk5
+GithubAdvisories,[GHSA-wcm8-86x6-8mv3] Apache Avro Rust SDK's Reader could consume memory beyond allowed constraints,https://github.com/advisories/GHSA-wcm8-86x6-8mv3,https://bit.ly/3cxHNsV
+GithubAdvisories,[GHSA-hccx-cg4v-hrjx] JetBrain Ktor before 2.1.0 vulnerable to selection of wrong authentication provider,https://github.com/advisories/GHSA-hccx-cg4v-hrjx,https://bit.ly/3QaLym4
+GithubAdvisories,[GHSA-w3rc-2whg-w934] Mingsoft MCMS SQL injection vulnerability in /mdiy/model/delete URI via models List,https://github.com/advisories/GHSA-w3rc-2whg-w934,https://bit.ly/3ea4CmQ
+GithubAdvisories,[GHSA-3fg9-hcq5-vxrc] iana-time-zone vulnerable to use after free in MacOS / iOS implementation,https://github.com/advisories/GHSA-3fg9-hcq5-vxrc,https://bit.ly/3cwkzn7
+GithubAdvisories,[GHSA-grvv-h2f9-7v9c] gomatrixserverlib and Dendrite vulnerable to incorrect parsing of the event default power level in event auth,https://github.com/advisories/GHSA-grvv-h2f9-7v9c,https://bit.ly/3czld3g
+GithubAdvisories,[GHSA-jwh2-vrr9-vcp2] mz-avro's incorrect use of `set_len` allows for un-initialized memory,https://github.com/advisories/GHSA-jwh2-vrr9-vcp2,https://bit.ly/3cw3bia
+GithubAdvisories,[GHSA-58g2-rgrr-6q9r] WINRPCexploit malicious PyPI package,https://github.com/advisories/GHSA-58g2-rgrr-6q9r,https://bit.ly/3pVegfJ
+GithubAdvisories,[GHSA-2wg3-9fjw-vjvj] browserdiv malicious PyPI package,https://github.com/advisories/GHSA-2wg3-9fjw-vjvj,https://bit.ly/3QhgKQF
+GithubAdvisories,[GHSA-h82j-8jxm-68qp] zlibsrc malicious PyPI package,https://github.com/advisories/GHSA-h82j-8jxm-68qp,https://bit.ly/3eaZDST
+GithubAdvisories,[GHSA-rqcv-3wp9-w2r3] free-net-vpn2 malicious PyPI package,https://github.com/advisories/GHSA-rqcv-3wp9-w2r3,https://bit.ly/3pY3Z2A
+GithubAdvisories,[GHSA-jgw6-3fjm-w5f6] free-net-vpn malicious PyPI package,https://github.com/advisories/GHSA-jgw6-3fjm-w5f6,https://bit.ly/3pUmBR9
+GithubAdvisories,[GHSA-cg89-rrrm-gf58] test-async malicious PyPI package,https://github.com/advisories/GHSA-cg89-rrrm-gf58,https://bit.ly/3R5k3LV
+GithubAdvisories,[GHSA-gw4j-fhj8-497m] PyProto2 malicious PyPI package,https://github.com/advisories/GHSA-gw4j-fhj8-497m,https://bit.ly/3R5p86K
+GithubAdvisories,[GHSA-8rgr-xgx4-q7jq] pymocks malicious PyPI package,https://github.com/advisories/GHSA-8rgr-xgx4-q7jq,https://bit.ly/3AWaIjQ
+GithubAdvisories,[GHSA-p8ph-q2m4-p5wv] pyg-utils malicious PyPI package,https://github.com/advisories/GHSA-p8ph-q2m4-p5wv,https://bit.ly/3pWVVPB
+GithubAdvisories,[GHSA-hqmv-64pp-q4xw] ascii2text malicious PyPI package,https://github.com/advisories/GHSA-hqmv-64pp-q4xw,https://bit.ly/3Q0JpZV
+GithubAdvisories,[GHSA-fcg8-mg9g-6hc4] .NET Denial of Service Vulnerability,https://github.com/advisories/GHSA-fcg8-mg9g-6hc4,https://bit.ly/3AXbdu0
+GithubAdvisories,[GHSA-3rq8-h3gj-r5c6] .NET Denial of Service Vulnerability,https://github.com/advisories/GHSA-3rq8-h3gj-r5c6,https://bit.ly/3pZSV53
