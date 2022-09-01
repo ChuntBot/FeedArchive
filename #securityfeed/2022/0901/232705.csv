@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9q5j-jm53-v7vr] lz4-sys vulnerable to memory corruption via issue in liblz4,https://github.com/advisories/GHSA-9q5j-jm53-v7vr,https://bit.ly/3wOXt1X
+GithubAdvisories,[GHSA-qf7j-25g9-r63f] elrond-go MultiESDTNFTTransfer call on a SC address with missing function name,https://github.com/advisories/GHSA-qf7j-25g9-r63f,https://bit.ly/3cDtaUX
+GithubAdvisories,[GHSA-rp4v-hhm6-rcv9] Pinniped Supervisor Insufficient Session Expiration vulnerability,https://github.com/advisories/GHSA-rp4v-hhm6-rcv9,https://bit.ly/3wP0bVh
+GithubAdvisories,[GHSA-34j6-m83c-52x2] Jfinal Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-34j6-m83c-52x2,https://bit.ly/3KDLqKo
+GithubAdvisories,[GHSA-vh4f-fgpp-x8x2] node-opcua DoS when bypassing limitations for excessive memory consumption,https://github.com/advisories/GHSA-vh4f-fgpp-x8x2,https://bit.ly/3Tu0Tki
+GithubAdvisories,[GHSA-hgxq-hcrm-c5pm] opcua Vulnerable to Out-of-bounds Write,https://github.com/advisories/GHSA-hgxq-hcrm-c5pm,https://bit.ly/3KHAQC5
+GithubAdvisories,[GHSA-gf8c-j759-86mg] org.apache.activemq:artemis-core-client Vulnerable to Out-of-Bounds Write,https://github.com/advisories/GHSA-gf8c-j759-86mg,https://bit.ly/3KFc6uh
+GithubAdvisories,[GHSA-6j58-grhv-2769] ansible-runner vulnerable to shell command injection,https://github.com/advisories/GHSA-6j58-grhv-2769,https://bit.ly/3wOXqmN
+GithubAdvisories,[GHSA-qpgc-xh7j-52q8] node-opcua DoS vulnerability via message with memory allocation that exceeds v8's memory limit,https://github.com/advisories/GHSA-qpgc-xh7j-52q8,https://bit.ly/3cDtbrZ
+GithubAdvisories,[GHSA-5c8p-qhch-qhx6] Deluge Web-UI vulnerable to XSS through a crafted torrent file,https://github.com/advisories/GHSA-5c8p-qhch-qhx6,https://bit.ly/3TwjgoZ
+GithubAdvisories,[GHSA-wwch-cmqr-hhrm] ansible-runner 2.0.0 default temporary files written to world R/W locations,https://github.com/advisories/GHSA-wwch-cmqr-hhrm,https://bit.ly/3wRXTod
+GithubAdvisories,[GHSA-772j-xvf9-qpf5] ansible-runner 2.0.0 vulnerable to Race Condition,https://github.com/advisories/GHSA-772j-xvf9-qpf5,https://bit.ly/3wOXrXT
+GithubAdvisories,[GHSA-xwf3-6rgv-939r] Flux CLI Workload Injection,https://github.com/advisories/GHSA-xwf3-6rgv-939r,https://bit.ly/3wOXral
+GithubAdvisories,[GHSA-gp7f-rwcx-9369] jsoup may not sanitize code injection XSS attempts if SafeList.preserveRelativeLinks is enabled,https://github.com/advisories/GHSA-gp7f-rwcx-9369,https://bit.ly/3wOXsuV
