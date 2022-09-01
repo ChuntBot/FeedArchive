@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,Corrected Twig Footer,https://github.com/mailcow/mailcow-dockerized/commit/ef311f22bf5b188837909427438ee29423c2ac56,https://bit.ly/3CwxtMw
+GithubCommit,Fix Upstream Commit ID grep,https://github.com/mailcow/mailcow-dockerized/commit/5ea43051856104e9ea5d01bde800b0180e6edd04,https://bit.ly/3ww27l8
+GithubCommit,Use universal Git Commit Date Command,https://github.com/mailcow/mailcow-dockerized/commit/778a3ed551c270d0bb104eddd26c3587fcc25df4,https://bit.ly/3CvP3A4
+GithubCommit,Corrected detect docker compose command position,https://github.com/mailcow/mailcow-dockerized/commit/1f9f4157a674850962b06fe68553ff040e6c9a5e,https://bit.ly/3dJOUi7
+GithubCommit,Re-arranged position of source mailcow.conf,https://github.com/mailcow/mailcow-dockerized/commit/bc9141753fab8fb4b591461d92703c345ebbef0c,https://bit.ly/3Retvwd
+GithubCommit,Implemented correct app_info.php set in generate_config,https://github.com/mailcow/mailcow-dockerized/commit/e98a9844179e0808106d5a7f28c1eca800f2bf40,https://bit.ly/3R8oOUC
+GithubCommit,Fixed missing branch variable in app info.php (gen-config),https://github.com/mailcow/mailcow-dockerized/commit/3633766544d37ee74a96fc34d763885be5504f2e,https://bit.ly/3AK2ziq
+GithubCommit,[Web] Mailbox TFA fix,https://github.com/mailcow/mailcow-dockerized/commit/555f4a8a6d300361985c8d4cb9aada97ea339483,https://bit.ly/3cik6oy
+GithubCommit,Merge pull request #4685 from FreddleSpl0it/tfa-patch,https://github.com/mailcow/mailcow-dockerized/commit/02512e0f4f98e1560de40bfe042e231463912a45,https://bit.ly/3cnPTEv
+GithubCommit,Readded update.sh new Version check :P,https://github.com/mailcow/mailcow-dockerized/commit/57cd5ec818b5872e91327990f92e9f69a96a2e19,https://bit.ly/3dJOPuP
+GithubCommit,Corrected compose standalone update message in generate config,https://github.com/mailcow/mailcow-dockerized/commit/fee6ff43bf1d65846cea58c727cd707905d6ae65,https://bit.ly/3AK2yuS
+GithubCommit,Merge pull request #4725 from mailcow/feature/nightly-switch,https://github.com/mailcow/mailcow-dockerized/commit/6d36475ed3e81094b4c7aefcd945ebdb16d64ce5,https://bit.ly/3cnKQUv
+GithubCommit,Translations update from Weblate (#4722),https://github.com/mailcow/mailcow-dockerized/commit/0c11cf747a1eb353aaddeeb8d2d6578dfd88df2c,https://bit.ly/3Ai67H8
+GithubCommit,Merge pull request #4719 from mailcow/sogo-5.7.1,https://github.com/mailcow/mailcow-dockerized/commit/90f77f6d5cdc2bf26d28eb91a0a9fc193536374a,https://bit.ly/3wCk8yn
+GithubCommit,Merge branch 'master' into staging,https://github.com/mailcow/mailcow-dockerized/commit/452d8a686f324f710b4d054086b9bc62e4a71f01,https://bit.ly/3e8owyG
+GithubCommit,fix mailbox tfa,https://github.com/mailcow/mailcow-dockerized/commit/2ed453a400d26d514715cc0dfdfb33f1fcfba793,https://bit.ly/3pVdVtA
+GithubCommit,Merge branch 'staging' of https://github.com/mailcow/mailcow-dockeriz…,https://github.com/mailcow/mailcow-dockerized/commit/cad0f25345c8470749a8eeecc8947cf8c3d8c17e,https://bit.ly/3e4k0RP
+GithubCommit,remove testing debug log,https://github.com/mailcow/mailcow-dockerized/commit/a161aa2c925008de927a7a62fad1576be2e69b3b,https://bit.ly/3Av8R42
+GithubCommit,fix tfa modal trigger from dav/eas login,https://github.com/mailcow/mailcow-dockerized/commit/a40df1ff87a5ff7bf263fa2dbfb0326007a739fc,https://bit.ly/3B1vNcv
+GithubCommit,Merge pull request #4733 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/de7b80922994da3c8685781cdb0929d8579db1e7,https://bit.ly/3TJFmEy
