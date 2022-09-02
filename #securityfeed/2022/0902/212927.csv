@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-w88m-2936-rmxr] wildfly-core allows user with access to management interface to access vault expression, retrieve item from vault",https://github.com/advisories/GHSA-w88m-2936-rmxr,https://bit.ly/3AK4hiy
+GithubAdvisories,[GHSA-3w4v-rvc4-2xpw] Keycloak has Files or Directories Accessible to External Parties,https://github.com/advisories/GHSA-3w4v-rvc4-2xpw,https://bit.ly/3cJ0Ro4
