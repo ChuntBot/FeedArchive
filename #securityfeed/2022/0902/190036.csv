@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fqc7-5xxc-ph7r] Keycloak XSS via use of malicious payload as group name when creating new group from admin console,https://github.com/advisories/GHSA-fqc7-5xxc-ph7r,https://bit.ly/3KJSKEh
