@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c439-chv8-8g2j] `os_socketaddr` invalidly assumes the memory layout of std::net::SocketAddr,https://github.com/advisories/GHSA-c439-chv8-8g2j,https://bit.ly/3RwSwTh
+GithubAdvisories,[GHSA-r6v9-p59m-gj2p] Remote code execution in Indy's NODE_UPGRADE transaction,https://github.com/advisories/GHSA-r6v9-p59m-gj2p,https://bit.ly/3AKK4sT
