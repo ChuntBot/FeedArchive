@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qpq9-jpv4-6gwr] Keycloak allows anyone to register new security device or key for any user by using WebAuthn password-less login flow,https://github.com/advisories/GHSA-qpq9-jpv4-6gwr,https://bit.ly/3KX6trP
+GithubAdvisories,[GHSA-76fg-mhrg-fmmg] XNIO `notifyReadClosed` method logging message to unexpected end,https://github.com/advisories/GHSA-76fg-mhrg-fmmg,https://bit.ly/3B8FINr
