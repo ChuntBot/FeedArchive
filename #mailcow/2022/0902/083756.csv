@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommit,Improved compose version check (detect versions with v in front),https://github.com/mailcow/mailcow-dockerized/commit/b4bb4e2938fbf55dd3ba300440625fb2488bd4f2,https://bit.ly/3B75im4
+GithubCommit,Readded Sieve Location for Dovecot,https://github.com/mailcow/mailcow-dockerized/commit/9806e568c02e1e8a995bffd4de58e9f040e93302,https://bit.ly/3RticAf
+GithubCommit,Merge pull request #4739 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/7c9c2c35f8ccdb0225ecd64347fc25ebc1b0dd6c,https://bit.ly/3TBHWfH
