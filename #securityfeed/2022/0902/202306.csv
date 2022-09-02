@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-29864 (security_identity_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-29864,https://bit.ly/3AObXAt
+NVD-NIST,"CVE-2021-38934 (engineering_test_management, rational_quality_manager)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38934,https://bit.ly/3AIEg32
+NVD-NIST,"CVE-2022-1204 (debian_linux, fedora, linux_kernel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-1204,https://bit.ly/3q8fa8W
+NVD-NIST,CVE-2022-2953 (libtiff),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2953,https://bit.ly/3Rdw5Tz
+NVD-NIST,"CVE-2022-2961 (fedora, linux_kernel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2961,https://bit.ly/3AJLLXA
+NVD-NIST,CVE-2022-3072 (rosariosis),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3072,https://bit.ly/3qahvAh
+NVD-NIST,CVE-2022-34374 (container_storage_modules),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34374,https://bit.ly/3q8kuJu
+NVD-NIST,CVE-2022-36553 (hwl-2511-ss_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36553,https://bit.ly/3q79MD1
+NVD-NIST,"CVE-2022-36556 (skybridge_mb-a100_firmware, skybridge_mb-a110_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36556,https://bit.ly/3B4nMCL
+NVD-NIST,"CVE-2022-36557 (skybridge_mb-a100_firmware, skybridge_mb-a110_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36557,https://bit.ly/3ACh72g
+NVD-NIST,"CVE-2022-36558 (skybridge_mb-a100_firmware, skybridge_mb-a110_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36558,https://bit.ly/3Rdw6XD
+NVD-NIST,CVE-2022-36559 (skybridge_mb-a200_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36559,https://bit.ly/3Rdw7uF
+NVD-NIST,CVE-2022-36560 (skybridge_mb-a200_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36560,https://bit.ly/3ecBbR7
+NVD-NIST,"CVE-2022-38772 (manageengine_netflow_analyzer, manageengine_network_configuration_manager, manageengine_opmanager, manageengine_opmanager_msp, manageengine_opmanager_plus, manageengine_oputils)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38772,https://bit.ly/3q8yUcq
