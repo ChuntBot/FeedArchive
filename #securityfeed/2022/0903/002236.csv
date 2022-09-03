@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-2866 (fvdesigner),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2866,https://bit.ly/3KKD18b
+NVD-NIST,CVE-2022-2892 (scadapro_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2892,https://bit.ly/3TCiKFP
+NVD-NIST,CVE-2022-2894 (scadapro_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2894,https://bit.ly/3B9SThe
+NVD-NIST,CVE-2022-2895 (scadapro_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2895,https://bit.ly/3B7koIm
+NVD-NIST,CVE-2022-2896 (scadapro_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2896,https://bit.ly/3B8bcUa
+NVD-NIST,"CVE-2022-2898 (scadapro_client, scadapro_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2898,https://bit.ly/3TyAiCR
+NVD-NIST,CVE-2022-36569 (ac9_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36569,https://bit.ly/3KQn2Wg
+NVD-NIST,CVE-2022-36570 (ac9_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36570,https://bit.ly/3THCGY3
+NVD-NIST,CVE-2022-36571 (ac9_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36571,https://bit.ly/3emIs13
+NVD-NIST,CVE-2022-36580 (online_ordering_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36580,https://bit.ly/3KGKF3q
+NVD-NIST,CVE-2022-36581 (online_ordering_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36581,https://bit.ly/3TFftFD
+NVD-NIST,CVE-2022-36582 (garage_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36582,https://bit.ly/3KHg6ug
+NVD-NIST,CVE-2022-37123 (dir-816_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37123,https://bit.ly/3TQ3Wng
+NVD-NIST,CVE-2022-37129 (dir-816_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37129,https://bit.ly/3Bcti7A
