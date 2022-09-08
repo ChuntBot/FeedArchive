@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubCommit,Modified branch switch in generate_config.sh,https://github.com/mailcow/mailcow-dockerized/commit/1c15133a522f435e954aa27a010b80cd222d81b5,https://bit.ly/3evmqZV
+GithubCommit,Update generate_config.sh,https://github.com/mailcow/mailcow-dockerized/commit/b5f5b53e37dcc4babca8e5e383c1b11292391709,https://bit.ly/3cS8Rn3
+GithubCommit,fix sogo bugs after 2022-08 update,https://github.com/mailcow/mailcow-dockerized/commit/72e204f8fdec80ef4692a070bff35b6c8645d57d,https://bit.ly/3U3SSTE
+GithubCommit,increase dovecot and sogo image version,https://github.com/mailcow/mailcow-dockerized/commit/7c44375223bdf25e8dc50062d0ec757f3040e51d,https://bit.ly/3BoLj2s
+GithubCommit,add & to smtp url,https://github.com/mailcow/mailcow-dockerized/commit/8f6099e3e4044e60e8f966ed5f29f840aee2bd8e,https://bit.ly/3D8tLJl
+GithubCommit,Merge pull request #4741 from maljes/master,https://github.com/mailcow/mailcow-dockerized/commit/5b30dce60935af8f66af42572ae7898d873356d8,https://bit.ly/3D7UNQN
+GithubCommit,Merge pull request #4747 from mailcow/fix/sogo,https://github.com/mailcow/mailcow-dockerized/commit/a0174c61e8f58a5dd1449998f66a48ea215f0473,https://bit.ly/3evmrwX
+GithubCommit,Merge pull request #4749 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/15f2c4c769bda87ec92c677f7694dcf3adbbade1,https://bit.ly/3TLmHIi
