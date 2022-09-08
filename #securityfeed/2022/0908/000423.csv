@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-727h-hrw8-jg8q] Path traversal in org.postgresql:postgresql,https://github.com/advisories/GHSA-727h-hrw8-jg8q,https://bit.ly/3QoODyT
+GithubAdvisories,[GHSA-pg38-r834-g45j] Improper Privilege Management in Gitea,https://github.com/advisories/GHSA-pg38-r834-g45j,https://bit.ly/3RsNDeg
+GithubAdvisories,[GHSA-hfmf-q69j-6m5p] Reuse of one time passwords allowed in Gitea,https://github.com/advisories/GHSA-hfmf-q69j-6m5p,https://bit.ly/3RsNE1O
+GithubAdvisories,[GHSA-2jx2-76rc-2v7v] Privilege Escalation,https://github.com/advisories/GHSA-2jx2-76rc-2v7v,https://bit.ly/3eqJuJj
+GithubAdvisories,[GHSA-968c-mm28-jfw4] SQL injection in net.mingsoft:ms-mcms,https://github.com/advisories/GHSA-968c-mm28-jfw4,https://bit.ly/3RsNEik
+GithubAdvisories,[GHSA-p94q-9q2m-pfh2] SQL injection in net.mingsoft:ms-mcms,https://github.com/advisories/GHSA-p94q-9q2m-pfh2,https://bit.ly/3RqTOjb
+GithubAdvisories,[GHSA-9hg3-hmmf-c3gr] Path Traversal in nemo-toolkit,https://github.com/advisories/GHSA-9hg3-hmmf-c3gr,https://bit.ly/3QqcHRR
+GithubAdvisories,[GHSA-f9jg-8p32-2f55] ANSI escape characters not filtered,https://github.com/advisories/GHSA-f9jg-8p32-2f55,https://bit.ly/3QnJnLR
+GithubAdvisories,[GHSA-wfwq-xc57-fq7v] Improperly Controlled Modification of Dynamically-Determined Object Attributes in eivindfjeldstad-dot,https://github.com/advisories/GHSA-wfwq-xc57-fq7v,https://bit.ly/3RsNCXK
+GithubAdvisories,[GHSA-g5jm-xhwm-9xp9] Cross site scripting in dolibarr,https://github.com/advisories/GHSA-g5jm-xhwm-9xp9,https://bit.ly/3QlNrMB
+GithubAdvisories,[GHSA-29rv-fqx2-4c9f] Deserialization of Untrusted Data in SinGooCMS.Utility,https://github.com/advisories/GHSA-29rv-fqx2-4c9f,https://bit.ly/3et5uTS
+GithubAdvisories,[GHSA-p674-hh8x-rv5h] XML external entity vulnerability in Jenkins Nuget Plugin,https://github.com/advisories/GHSA-p674-hh8x-rv5h,https://bit.ly/3RCXtu4
+GithubAdvisories,[GHSA-m8r4-c7jm-w782] Download of Code Without Integrity Check in Jenkins Plugin Installation Manager,https://github.com/advisories/GHSA-m8r4-c7jm-w782,https://bit.ly/3QnJneP
+GithubAdvisories,[GHSA-rf92-3vjr-w628] Improper Authentication in Jenkins Active Directory Plugin,https://github.com/advisories/GHSA-rf92-3vjr-w628,https://bit.ly/3Rqaibn
