@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8wcw-cw2f-h4g2] Improper Authentication (empty password) in Jenkins Active Directory Plugin,https://github.com/advisories/GHSA-8wcw-cw2f-h4g2,https://bit.ly/3elt84A
