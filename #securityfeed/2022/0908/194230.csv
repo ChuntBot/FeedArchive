@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-954f-xw44-56r2] Authentication cache in Active Directory Jenkins Plugin allows logging in with any password,https://github.com/advisories/GHSA-954f-xw44-56r2,https://bit.ly/3QnZJUQ
