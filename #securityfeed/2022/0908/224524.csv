@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ccxh-j7hg-m5mr] Incorrect Authorization in Jenkins Kubernetes :: Pipeline :: Kubernetes Steps Plugin,https://github.com/advisories/GHSA-ccxh-j7hg-m5mr,https://bit.ly/3eCdkL5
+GithubAdvisories,[GHSA-f46p-q6jh-226m] Incorrect Authorization in Jenkins Kubernetes :: Pipeline :: Arquillian Steps Plugin,https://github.com/advisories/GHSA-f46p-q6jh-226m,https://bit.ly/3RSp0rw
