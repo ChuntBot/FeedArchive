@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-3123 (dokuwiki),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3123,https://bit.ly/3D7z3EQ
+NVD-NIST,CVE-2022-38749 (snakeyaml),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38749,https://bit.ly/3RxNnL2
+NVD-NIST,CVE-2022-38751 (snakeyaml),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38751,https://bit.ly/3D7z3Vm
+NVD-NIST,CVE-2022-38752 (snakeyaml),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38752,https://bit.ly/3Rvccrf
