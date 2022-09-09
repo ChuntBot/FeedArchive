@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Sagemath 9.0 Overflow / Denial Of Service,https://packetstormsecurity.com/files/168334/sagemath90-dosoverflow.txt,https://bit.ly/3BsCBQD
+PacketstormSecurity,Red Hat Security Advisory 2022-6407-01,https://packetstormsecurity.com/files/168333/RHSA-2022-6407-01.txt,https://bit.ly/3qssuVI
+PacketstormSecurity,.NET XML Signature Verification External Entity Injection,https://packetstormsecurity.com/files/168332/GS20220909160817.tgz,https://bit.ly/3L5Uw2P
+PacketstormSecurity,Windows Credential Guard TGT Renewal Information Disclosure,https://packetstormsecurity.com/files/168331/GS20220909160551.tgz,https://bit.ly/3BtgNEw
+PacketstormSecurity,Windows Credential Guard Non-Constant Time Comparison Information Disclosure,https://packetstormsecurity.com/files/168329/GS20220909160406.txt,https://bit.ly/3L3gbZp
+PacketstormSecurity,InTouch Access Anywhere Secure Gateway 2020 R2 Path Traversal,https://packetstormsecurity.com/files/168328/avevaitaasg-traversal.txt,https://bit.ly/3qoAOWH
+PacketstormSecurity,Red Hat Security Advisory 2022-6263-01,https://packetstormsecurity.com/files/168327/RHSA-2022-6263-01.txt,https://bit.ly/3qqZ4Yb
+PacketstormSecurity,Windows Credential Guard KerbIumGetNtlmSupplementalCredential Information Disclosure,https://packetstormsecurity.com/files/168326/GS20220909155928.tgz,https://bit.ly/3qs78rE
+PacketstormSecurity,Windows Credential Guard KerbIumCreateApReqAuthenticator Key Information Disclosure,https://packetstormsecurity.com/files/168325/GS20220909155726.tgz,https://bit.ly/3B6S5Ze
+PacketstormSecurity,Online Notice Board 2022 SQL Injection,https://packetstormsecurity.com/files/168323/onb2022-sql.txt,https://bit.ly/3B6S6wg
+PacketstormSecurity,Red Hat Security Advisory 2022-6262-01,https://packetstormsecurity.com/files/168322/RHSA-2022-6262-01.txt,https://bit.ly/3qpu0YD
+PacketstormSecurity,mbDrive Lite WiFi Flash Disk 1.4.0 Cross Site Scripting,https://packetstormsecurity.com/files/168321/mbdrivelitewfd140-xss.txt,https://bit.ly/3Bug4mM
+PacketstormSecurity,AirDisk 7.5.5 Cross Site Scripting,https://packetstormsecurity.com/files/168320/airdisk755-xss.txt,https://bit.ly/3cZyfXS
+PacketstormSecurity,Windows Credential Guard Kerberos Change Password Privilege Escalation,https://packetstormsecurity.com/files/168319/GS20220909155201.tgz,https://bit.ly/3d09VVZ
+PacketstormSecurity,Windows Credential Guard Insufficient Checks On Kerberos Encryption Type Use,https://packetstormsecurity.com/files/168318/GS20220909154932.tgz,https://bit.ly/3B6S7Ak
+PacketstormSecurity,@Drive 2.8 Local File Inclusion,https://packetstormsecurity.com/files/168316/atdrive28-lfi.txt,https://bit.ly/3qsLX8Y
+PacketstormSecurity,Windows Credential Guard BCrypt Context Use-After-Free Privilege Escalation,https://packetstormsecurity.com/files/168315/GS20220909154511.tgz,https://bit.ly/3qsa7jS
+PacketstormSecurity,Windows Credential Guard ASN1 Decoder Type Confusion Privilege Escalation,https://packetstormsecurity.com/files/168314/GS20220909154254.tgz,https://bit.ly/3KZQzge
+PacketstormSecurity,Windows Kernel Registry Hive Memory Problems,https://packetstormsecurity.com/files/168313/GS20220909154008.tgz,https://bit.ly/3cZxVZc
+PacketstormSecurity,Windows Kernel Unchecked Blink Cell Index Invalid Read/Write,https://packetstormsecurity.com/files/168312/GS20220909153743.tgz,https://bit.ly/3B6S6fK
+PacketstormSecurity,Windows Kernel Refcount Overflow Use-After-Free,https://packetstormsecurity.com/files/168311/GS20220909153445.tgz,https://bit.ly/3BtTsmn
