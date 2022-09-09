@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rv97-r8f7-8wmg] Plaintext password storage in Jenkins InfluxDB Plugin,https://github.com/advisories/GHSA-rv97-r8f7-8wmg,https://bit.ly/3AX9Ji6
+GithubAdvisories,[GHSA-qw28-g63m-jxqv] Sandbox bypass in ontrack Jenkins Plugin,https://github.com/advisories/GHSA-qw28-g63m-jxqv,https://bit.ly/3x9GvLT
+GithubAdvisories,[GHSA-6755-jgp4-8q7h] XML External Entity processing vulnerability in Pipeline Maven Integration Jenkins Plugin,https://github.com/advisories/GHSA-6755-jgp4-8q7h,https://bit.ly/3Qp139W
