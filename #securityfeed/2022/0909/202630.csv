@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-23691 (aos-cx),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23691,https://bit.ly/3RA52C3
+NVD-NIST,CVE-2022-2433 (ajax_load_more),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2433,https://bit.ly/3RDh4dN
+NVD-NIST,CVE-2022-2434 (string_locator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2434,https://bit.ly/3BrcpGf
+NVD-NIST,CVE-2022-2518 (stockists_manager_for_woocommerce),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2518,https://bit.ly/3d10rtz
+NVD-NIST,CVE-2022-31792 (fireware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-31792,https://bit.ly/3BunSot
+NVD-NIST,CVE-2022-32277 (matrix),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32277,https://bit.ly/3eBfBWL
+NVD-NIST,CVE-2022-36038 (circuitverse),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36038,https://bit.ly/3BtOaHi
+NVD-NIST,CVE-2022-36058 (elrond_go),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36058,https://bit.ly/3RBOKsq
+NVD-NIST,CVE-2022-36061 (elrond_go),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36061,https://bit.ly/3RAxzHq
+NVD-NIST,CVE-2022-36064 (shescape),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36064,https://bit.ly/3BtOgi8
+NVD-NIST,CVE-2022-36663 (oxauth),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36663,https://bit.ly/3L2beQB
+NVD-NIST,CVE-2022-37771 (malware_fighter),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37771,https://bit.ly/3eDlYsO
+NVD-NIST,CVE-2022-38176 (safeq),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38176,https://bit.ly/3KZCBuN
+NVD-NIST,CVE-2022-38529 (tinyexr),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38529,https://bit.ly/3BrMBK8
