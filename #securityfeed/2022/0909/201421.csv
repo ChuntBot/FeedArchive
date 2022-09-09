@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q76q-q8hw-hmpw] Harbor fails to validate the user permissions when reading job execution logs through the P2P preheat execution logs,https://github.com/advisories/GHSA-q76q-q8hw-hmpw,https://bit.ly/3d4dQB6
