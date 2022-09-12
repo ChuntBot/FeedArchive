@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,GitHub - thiagopeixoto/massayo: Massayo is a small proof-of-concept Rust library which removes AV/EDR hooks in a given system DLL by loading a freshy copy from disk and replacing the .text section of the currently loaded DLL,https://redd.it/xcoz09,
