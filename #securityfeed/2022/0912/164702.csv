@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7v44-75jf-22gj] Kimai v2 is vulnerable to Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-7v44-75jf-22gj,https://bit.ly/3QBrB83
+GithubAdvisories,[GHSA-8x3m-m3x9-54fj] JupyterHub OAuthenticator elevation of privilege,https://github.com/advisories/GHSA-8x3m-m3x9-54fj,https://bit.ly/3RIiKTl
