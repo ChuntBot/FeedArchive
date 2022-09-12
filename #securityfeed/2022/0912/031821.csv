@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x8v2-hm46-g9hq] Malware in dep-loop-exit,https://github.com/advisories/GHSA-x8v2-hm46-g9hq,https://bit.ly/3ximiDD
+GithubAdvisories,[GHSA-c893-47mj-823c] Malware in node_resolve_index_4,https://github.com/advisories/GHSA-c893-47mj-823c,https://bit.ly/3xc0byv
+GithubAdvisories,[GHSA-96cq-mff4-jqq3] Malware in example-yarn-package,https://github.com/advisories/GHSA-96cq-mff4-jqq3,https://bit.ly/3RIoGMk
+GithubAdvisories,[GHSA-9473-r47v-6gx2] Malware in node_resolve_index,https://github.com/advisories/GHSA-9473-r47v-6gx2,https://bit.ly/3B5wdgZ
+GithubAdvisories,[GHSA-2fhw-jc3h-38jq] Malware in @himmuhimmu797/lock,https://github.com/advisories/GHSA-2fhw-jc3h-38jq,https://bit.ly/3RDBuDB
+GithubAdvisories,[GHSA-9h7m-357j-p5cm] Malware in e2e-test-repo,https://github.com/advisories/GHSA-9h7m-357j-p5cm,https://bit.ly/3RUlGff
+GithubAdvisories,[GHSA-r84f-m7jg-4wq3] Malware in dep-incompatible,https://github.com/advisories/GHSA-r84f-m7jg-4wq3,https://bit.ly/3eEphji
+GithubAdvisories,[GHSA-vwjh-2qmw-mvhw] Malware in root-b,https://github.com/advisories/GHSA-vwjh-2qmw-mvhw,https://bit.ly/3RRqqD3
+GithubAdvisories,[GHSA-q33c-67m4-cpvx] Malware in top-module,https://github.com/advisories/GHSA-q33c-67m4-cpvx,https://bit.ly/3RusD73
+GithubAdvisories,[GHSA-r9r8-9hqh-4jv3] Malware in faust-nx-cli,https://github.com/advisories/GHSA-r9r8-9hqh-4jv3,https://bit.ly/3RUmP6z
