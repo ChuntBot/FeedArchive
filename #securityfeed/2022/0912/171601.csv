@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6wj9-77wq-jq7p] Nokogiri is vulnerable to XML External Entity (XXE) attack,https://github.com/advisories/GHSA-6wj9-77wq-jq7p,https://bit.ly/3TW4RT0
+GithubAdvisories,[GHSA-cf8f-w2c5-p5jr] keycloak vulnerable to unauthorized login via mail server setup,https://github.com/advisories/GHSA-cf8f-w2c5-p5jr,https://bit.ly/3BvO2Hs
