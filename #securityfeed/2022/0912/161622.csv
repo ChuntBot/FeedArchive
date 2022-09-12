@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qx76-c53f-5c7q] PHP League CommonMark vulnerable to Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-qx76-c53f-5c7q,https://bit.ly/3BbGPLl
