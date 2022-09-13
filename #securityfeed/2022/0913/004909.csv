@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f9wc-w634-w426] Malware in beaker-virtual-fs,https://github.com/advisories/GHSA-f9wc-w634-w426,https://bit.ly/3BaMtgD
+GithubAdvisories,[GHSA-35q5-84jg-74p3] Malware in builtin-pages-lib,https://github.com/advisories/GHSA-35q5-84jg-74p3,https://bit.ly/3RYwbhH
+GithubAdvisories,[GHSA-vvm6-4w42-4393] Malware in hoisting-peer-check-child,https://github.com/advisories/GHSA-vvm6-4w42-4393,https://bit.ly/3Dk3SX2
+GithubAdvisories,[GHSA-qq99-j42v-4hg9] Malware in ganache-cli-coverage,https://github.com/advisories/GHSA-qq99-j42v-4hg9,https://bit.ly/3BaMsJB
+GithubAdvisories,[GHSA-wcpm-87rh-9hhr] Malware in has-bin-entries,https://github.com/advisories/GHSA-wcpm-87rh-9hhr,https://bit.ly/3DljNUW
+GithubAdvisories,[GHSA-fqw4-9f47-m736] Malware in pkg_with_bin,https://github.com/advisories/GHSA-fqw4-9f47-m736,https://bit.ly/3BcxRgF
