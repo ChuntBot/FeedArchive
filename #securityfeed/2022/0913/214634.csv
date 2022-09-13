@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9w3m-gqgf-c4p9] snakeYAML before 1.32 vulnerable to Denial of Service due to Out-of-bounds Write,https://github.com/advisories/GHSA-9w3m-gqgf-c4p9,https://bit.ly/3DlHVGS
