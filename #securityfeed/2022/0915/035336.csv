@@ -1,0 +1,28 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fph9-f5r6-vhqf] Eclipse Milo vulnerable to Resource Exhaustion (Denial of Service),https://github.com/advisories/GHSA-fph9-f5r6-vhqf,https://bit.ly/3BHeLkh
+GithubAdvisories,[GHSA-r7vq-6425-j94w] Python-TUF vulnerable to incorrect threshold signature computation for new root metadata,https://github.com/advisories/GHSA-r7vq-6425-j94w,https://bit.ly/3BHF1et
+GithubAdvisories,[GHSA-ggf6-638m-vqmg] Netmaker before 0.15.1 vulnerable to Insufficient Granularity of Access Control,https://github.com/advisories/GHSA-ggf6-638m-vqmg,https://bit.ly/3S73mQ8
+GithubAdvisories,[GHSA-w45j-f5g5-w94x] Apache James vulnerable to buffering attack,https://github.com/advisories/GHSA-w45j-f5g5-w94x,https://bit.ly/3BHj2o1
+GithubAdvisories,[GHSA-936v-cg49-m2g5] com.google.cloud.tools:jib-core vulnerable to Remote Code Execution (RCE),https://github.com/advisories/GHSA-936v-cg49-m2g5,https://bit.ly/3BHY4oY
+GithubAdvisories,[GHSA-9vm3-r8gq-cr6x] Casdoor arbitrary file write vulnerability,https://github.com/advisories/GHSA-9vm3-r8gq-cr6x,https://bit.ly/3S1TqaE
+GithubAdvisories,[GHSA-5ff8-7639-6v6g] Apache Airflow Session Fixation vulnerability,https://github.com/advisories/GHSA-5ff8-7639-6v6g,https://bit.ly/3SnggKf
+GithubAdvisories,[GHSA-c86f-9grv-pmqf] Apache IoTDB grafana-connector contains an interface without authorization,https://github.com/advisories/GHSA-c86f-9grv-pmqf,https://bit.ly/3qFGRpL
+GithubAdvisories,[GHSA-fjjw-82xw-vfc2] Apache ShenYu Admin v2.4.2-v2.4.3 has insecure permissions,https://github.com/advisories/GHSA-fjjw-82xw-vfc2,https://bit.ly/3S89h7s
+GithubAdvisories,[GHSA-rhwx-hjx2-x4qr] PDFKit vulnerable to Command Injection,https://github.com/advisories/GHSA-rhwx-hjx2-x4qr,https://bit.ly/3BIMqdF
+GithubAdvisories,[GHSA-jj62-mc3m-j769] FeehiCMS has an arbitrary file upload vulnerability,https://github.com/advisories/GHSA-jj62-mc3m-j769,https://bit.ly/3qG18vy
+GithubAdvisories,[GHSA-hvw3-p9px-gpc9] Gophish before 0.12.0 vulnerable to Open Redirect,https://github.com/advisories/GHSA-hvw3-p9px-gpc9,https://bit.ly/3BHSdQD
+GithubAdvisories,[GHSA-p2f7-9cv7-jjf6] Goomph before 3.37.2 allows malicious zip file to write contents to arbitrary locations,https://github.com/advisories/GHSA-p2f7-9cv7-jjf6,https://bit.ly/3de8uTM
+GithubAdvisories,[GHSA-pfw4-xjgm-267c] Dendrite signature checks not applied to some retrieved missing events,https://github.com/advisories/GHSA-pfw4-xjgm-267c,https://bit.ly/3RVJLm2
+GithubAdvisories,[GHSA-c4r9-r8fh-9vj2] snakeYAML before 1.31 vulnerable to Denial of Service due to Out-of-bounds Write,https://github.com/advisories/GHSA-c4r9-r8fh-9vj2,https://bit.ly/3de1wyj
+GithubAdvisories,[GHSA-wxx5-w9jc-48wx] Pebble Templates protection mechanism bypass can lead to arbitrary code execution,https://github.com/advisories/GHSA-wxx5-w9jc-48wx,https://bit.ly/3S2sdoi
+GithubAdvisories,[GHSA-gqqf-g5r7-84vf] TYPO3 HTML Sanitizer Bypasses Cross-Site Scripting Protection,https://github.com/advisories/GHSA-gqqf-g5r7-84vf,https://bit.ly/3BIXuXS
+GithubAdvisories,[GHSA-cq7q-5c67-w39w] matrix-appservice-irc vulnerable to IRC mode parameter confusion,https://github.com/advisories/GHSA-cq7q-5c67-w39w,https://bit.ly/3LebY5e
+GithubAdvisories,[GHSA-xvqg-mv25-rwvw] Parsing issue in matrix-org/node-irc leading to room takeovers,https://github.com/advisories/GHSA-xvqg-mv25-rwvw,https://bit.ly/3ddTMw3
+GithubAdvisories,[GHSA-r8m2-4x37-6592] .NET Denial of Service Vulnerability,https://github.com/advisories/GHSA-r8m2-4x37-6592,https://bit.ly/3qF3daZ
+GithubAdvisories,[GHSA-m77f-652q-wwp4] axum-core has no default limit put on request bodies,https://github.com/advisories/GHSA-m77f-652q-wwp4,https://bit.ly/3qI0RZ3
+GithubAdvisories,[GHSA-mp5p-g2jv-r8qw] rdiffweb before 2.4.2 contains Weak Password Requirements,https://github.com/advisories/GHSA-mp5p-g2jv-r8qw,https://bit.ly/3BHwkAP
+GithubAdvisories,[GHSA-462r-wxvm-jvxh] Markdown-Nice v1.8.22 vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-462r-wxvm-jvxh,https://bit.ly/3Lv4DyF
+GithubAdvisories,"[GHSA-fjm8-m7m6-2fjp] Buildah's incorrect handling of the supplementary groups before v1.27.1 may lead to data disclosure, modification",https://github.com/advisories/GHSA-fjm8-m7m6-2fjp,https://bit.ly/3qFwp1y
+GithubAdvisories,"[GHSA-4wjj-jwc9-2x96] Podman's incorrect handling of the supplementary groups may lead to data disclosure, modification",https://github.com/advisories/GHSA-4wjj-jwc9-2x96,https://bit.ly/3djNqLS
+GithubAdvisories,[GHSA-fmq7-gh8v-mjvc] WildFly vulnerable to Insecure Default Initialization of Resource,https://github.com/advisories/GHSA-fmq7-gh8v-mjvc,https://bit.ly/3BH8k0A
+GithubAdvisories,[GHSA-ch4c-278q-5654] rdiffweb 2.4.1 Missing Custom Error Page,https://github.com/advisories/GHSA-ch4c-278q-5654,https://bit.ly/3qCSrSE
