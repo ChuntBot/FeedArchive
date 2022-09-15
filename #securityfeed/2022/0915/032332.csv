@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mjw4-xvx6-3grg] rdiffweb 2.4.1 vulnerable to Sensitive Cookie in HTTPS Session Without 'Secure' Attribute,https://github.com/advisories/GHSA-mjw4-xvx6-3grg,https://bit.ly/3QLriaX
+GithubAdvisories,[GHSA-p2jg-q8hw-p7gc] Barbican authorization flaw before v14.0.0,https://github.com/advisories/GHSA-p2jg-q8hw-p7gc,https://bit.ly/3S2q4ce
+GithubAdvisories,[GHSA-qcqv-38jg-2r43] Pageflow vulnerable to insecure direct object reference in membership update endpoint,https://github.com/advisories/GHSA-qcqv-38jg-2r43,https://bit.ly/3eQXwEr
+GithubAdvisories,[GHSA-wrrw-crp8-979q] Pageflow vulnerable to sensitive user data extraction via Ransack query injection,https://github.com/advisories/GHSA-wrrw-crp8-979q,https://bit.ly/3LndbY7
+GithubAdvisories,[GHSA-qv98-3369-g364] KubeVirt vulnerable to arbitrary file read on host,https://github.com/advisories/GHSA-qv98-3369-g364,https://bit.ly/3S3ai0L
+GithubAdvisories,[GHSA-vh4m-mw8w-g4w8] RosarioSIS before 10.1 vulnerable to Improper Handling of Length Parameter Inconsistency,https://github.com/advisories/GHSA-vh4m-mw8w-g4w8,https://bit.ly/3S6wKWU
