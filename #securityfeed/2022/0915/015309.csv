@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q98c-rqx7-7ghf] Improper handling of untrusted branches in Gitea Jenkins Plugin,https://github.com/advisories/GHSA-q98c-rqx7-7ghf,https://bit.ly/3RMP2wm
