@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-29490 (microscada_x_sys600),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-29490,https://bit.ly/3LgFVBP
+NVD-NIST,"CVE-2022-30200 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30200,https://bit.ly/3Bmpqzs
+NVD-NIST,CVE-2022-3175 (rdiffweb),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3175,https://bit.ly/3Sq04YH
+NVD-NIST,"CVE-2022-33647 (windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33647,https://bit.ly/3Sq0azx
+NVD-NIST,"CVE-2022-33679 (windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33679,https://bit.ly/3S3a5dU
+NVD-NIST,CVE-2022-34100 (airmedia),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34100,https://bit.ly/3S5eXiK
+NVD-NIST,CVE-2022-34700 (dynamics_365),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34700,https://bit.ly/3dpRQR8
+NVD-NIST,"CVE-2022-34720 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34720,https://bit.ly/3S8K3WJ
+NVD-NIST,"CVE-2022-34721 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34721,https://bit.ly/3Bj90ba
+NVD-NIST,"CVE-2022-34722 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34722,https://bit.ly/3S81jLP
+NVD-NIST,"CVE-2022-34724 (windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34724,https://bit.ly/3ScGiQd
+NVD-NIST,"CVE-2022-34725 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34725,https://bit.ly/3eIThdM
+NVD-NIST,"CVE-2022-34726 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34726,https://bit.ly/3S5T6HZ
+NVD-NIST,"CVE-2022-34727 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34727,https://bit.ly/3RYt3T4
+NVD-NIST,CVE-2022-37011 (saml),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37011,https://bit.ly/3LgU69Y
+NVD-NIST,CVE-2022-38466 (coreshield_one-way_gateway),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38466,https://bit.ly/3SbatqH
+NVD-NIST,CVE-2022-38616 (smartvista_front-end),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38616,https://bit.ly/3eTqa7U
+NVD-NIST,CVE-2022-39817 (1350_optical_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39817,https://bit.ly/3Lmq58W
+NVD-NIST,CVE-2022-39821 (1350_optical_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39821,https://bit.ly/3S9im04
