@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j9fq-vwqv-2fm2] Server-Side Request Forgery (SSRF) in GitHub repository ionicabizau/parse-url,https://github.com/advisories/GHSA-j9fq-vwqv-2fm2,https://bit.ly/3QFQJdS
