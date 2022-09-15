@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3wqf-4x89-9g79] Bootstrap vulnerable to Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-3wqf-4x89-9g79,https://bit.ly/3RMXoEr
+GithubAdvisories,[GHSA-rwx9-wqj8-vr77] Expo on iOS is insecure due incorrect security attribute application,https://github.com/advisories/GHSA-rwx9-wqj8-vr77,https://bit.ly/3xrENpp
+GithubAdvisories,[GHSA-6h98-cf9g-vmg2] Electron vulnerable to URL spoofing via PDFium,https://github.com/advisories/GHSA-6h98-cf9g-vmg2,https://bit.ly/3qIBLsS
