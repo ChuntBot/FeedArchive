@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-44425 (anydesk),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44425,https://bit.ly/3S6QcTp
+NVD-NIST,CVE-2021-44426 (anydesk),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44426,https://bit.ly/3QNMtco
+NVD-NIST,CVE-2022-35828 (defender_for_endpoint),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35828,https://bit.ly/3QR5NWb
+NVD-NIST,"CVE-2022-35830 (windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35830,https://bit.ly/3qJLBuB
+NVD-NIST,"CVE-2022-35831 (windows_10, windows_11, windows_8.1, windows_rt_8.1, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35831,https://bit.ly/3QQhhZR
+NVD-NIST,CVE-2022-36107 (typo3),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36107,https://bit.ly/3qHUrsL
+NVD-NIST,CVE-2022-36108 (typo3),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36108,https://bit.ly/3ScTapc
