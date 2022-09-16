@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x996-7qh9-7ff7] Hyperledger indy-node vulnerable to denial of service,https://github.com/advisories/GHSA-x996-7qh9-7ff7,https://bit.ly/3DvUIqp
+GithubAdvisories,[GHSA-xx9w-464f-7h6f] Harbor fails to validate the user permissions when updating a robot account,https://github.com/advisories/GHSA-xx9w-464f-7h6f,https://bit.ly/3QQNyQv
