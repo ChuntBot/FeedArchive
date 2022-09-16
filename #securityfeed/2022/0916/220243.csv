@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-828c-5j5q-vrjq] TensorFlow vulnerable to null-dereference in `mlir::tfg::GraphDefImporter::ConvertNodeDef`,https://github.com/advisories/GHSA-828c-5j5q-vrjq,https://bit.ly/3qL0Aok
+GithubAdvisories,[GHSA-hwq7-5vv9-c6cf] Smarty Cross-site Scripting vulnerability in pages that use smarty_function_mailto,https://github.com/advisories/GHSA-hwq7-5vv9-c6cf,https://bit.ly/3qIAqCn
+GithubAdvisories,[GHSA-fv43-93gv-vm8f] TensorFlow vulnerable to null dereference on MLIR on empty function attributes,https://github.com/advisories/GHSA-fv43-93gv-vm8f,https://bit.ly/3f03NOd
+GithubAdvisories,[GHSA-wqmc-pm8c-2jhc] TensorFlow vulnerable to segfault in `Requantize`,https://github.com/advisories/GHSA-wqmc-pm8c-2jhc,https://bit.ly/3BqbKDC
+GithubAdvisories,[GHSA-cv2p-32v3-vhwq] TensorFlow vulnerable to `CHECK` fail in `RandomPoissonV2`,https://github.com/advisories/GHSA-cv2p-32v3-vhwq,https://bit.ly/3drz7ol
