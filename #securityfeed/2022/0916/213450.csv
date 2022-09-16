@@ -1,0 +1,33 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qjjj-7g7h-54v3] ThinkPHP deserialization vulnerability,https://github.com/advisories/GHSA-qjjj-7g7h-54v3,https://bit.ly/3DNsGqL
+GithubAdvisories,[GHSA-r26c-679w-mrjm] TensorFlow vulnerable to `CHECK` fail in `FakeQuantWithMinMaxVarsGradient`,https://github.com/advisories/GHSA-r26c-679w-mrjm,https://bit.ly/3eWjjKX
+GithubAdvisories,[GHSA-g9h5-vr8m-x2h4] TensorFlow vulnerable to `CHECK` fail in `AudioSummaryV2`,https://github.com/advisories/GHSA-g9h5-vr8m-x2h4,https://bit.ly/3DwSl6T
+GithubAdvisories,[GHSA-4p6f-m4f9-ch88] Binary vulnerable to Slice Memory Allocation with Excessive Size Value,https://github.com/advisories/GHSA-4p6f-m4f9-ch88,https://bit.ly/3dg4kep
+GithubAdvisories,[GHSA-mv8m-8x97-937q] TensorFlow vulnerable to `CHECK` fail in `tf.random.gamma`,https://github.com/advisories/GHSA-mv8m-8x97-937q,https://bit.ly/3DteO4v
+GithubAdvisories,[GHSA-g468-qj8g-vcjc] TensorFlow vulnerable to `CHECK`-fail in `tensorflow::full_type::SubstituteFromAttrs`,https://github.com/advisories/GHSA-g468-qj8g-vcjc,https://bit.ly/3BMVsWP
+GithubAdvisories,[GHSA-mv8x-668m-53fg] Elrond-go has improper initialization,https://github.com/advisories/GHSA-mv8x-668m-53fg,https://bit.ly/3dg4jHn
+GithubAdvisories,"[GHSA-pqw5-jmp5-px4v] parse-url parses http URLs incorrectly, making it vulnerable to host name spoofing",https://github.com/advisories/GHSA-pqw5-jmp5-px4v,https://bit.ly/3Lks6SK
+GithubAdvisories,[GHSA-7j3m-8g3c-9qqq] TensorFlow vulnerable to null-dereference in `mlir::tfg::TFOp::nameAttr`,https://github.com/advisories/GHSA-7j3m-8g3c-9qqq,https://bit.ly/3LllR1a
+GithubAdvisories,[GHSA-rh87-q4vg-m45j] TensorFlow vulnerable to integer overflow in math ops,https://github.com/advisories/GHSA-rh87-q4vg-m45j,https://bit.ly/3f1j7dq
+GithubAdvisories,[GHSA-jvhc-5hhr-w3v5] TensorFlow vulnerable to assertion fail on MLIR empty edge names,https://github.com/advisories/GHSA-jvhc-5hhr-w3v5,https://bit.ly/3DAGFQn
+GithubAdvisories,[GHSA-w62h-8xjm-fv49] TensorFlow vulnerable to `CHECK` fail in `DenseBincount`,https://github.com/advisories/GHSA-w62h-8xjm-fv49,https://bit.ly/3Dw20dG
+GithubAdvisories,[GHSA-mgmh-g2v6-mqw5] TensorFlow vulnerable to `CHECK` failure in `AvgPoolOp`,https://github.com/advisories/GHSA-mgmh-g2v6-mqw5,https://bit.ly/3dgBoTv
+GithubAdvisories,[GHSA-2m6g-crv8-p3c6] Parse Server vulnerable to brute force guessing of user sensitive data via search patterns,https://github.com/advisories/GHSA-2m6g-crv8-p3c6,https://bit.ly/3LiI4gt
+GithubAdvisories,[GHSA-hhhw-99gj-p3c3] snakeYAML before 1.31 vulnerable to Denial of Service due to Out-of-bounds Write,https://github.com/advisories/GHSA-hhhw-99gj-p3c3,https://bit.ly/3BNJGLU
+GithubAdvisories,[GHSA-9cr2-8pwr-fhfq] TensorFlow vulnerable to `CHECK` fail in `QuantizeAndDequantizeV3`,https://github.com/advisories/GHSA-9cr2-8pwr-fhfq,https://bit.ly/3BMuBdq
+GithubAdvisories,[GHSA-4849-x3jx-45qr] Pimcore vulnerable to stored stored Cross-site Scripting via`properties` when creating new users,https://github.com/advisories/GHSA-4849-x3jx-45qr,https://bit.ly/3eW34gW
+GithubAdvisories,[GHSA-m6cv-4fmf-66xf] TensorFlow vulnerable to `CHECK` fail in `RaggedTensorToVariant`,https://github.com/advisories/GHSA-m6cv-4fmf-66xf,https://bit.ly/3DBPMAx
+GithubAdvisories,[GHSA-9j4v-pp28-mxv7] TensorFlow vulnerable to `CHECK` fail in `FakeQuantWithMinMaxVarsPerChannel`,https://github.com/advisories/GHSA-9j4v-pp28-mxv7,https://bit.ly/3dg4l1X
+GithubAdvisories,[GHSA-cc99-whm5-mmq3] Openstack Keystone Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-cc99-whm5-mmq3,https://bit.ly/3diWxfQ
+GithubAdvisories,[GHSA-p75v-367r-2v23] `cell-project` used incorrect variance when projecting through `&Cell`,https://github.com/advisories/GHSA-p75v-367r-2v23,https://bit.ly/3dg4nXD
+GithubAdvisories,[GHSA-c7x2-7h8r-jq4m] Kirby CMS 2.5.12 Cross-site Request Forgery,https://github.com/advisories/GHSA-c7x2-7h8r-jq4m,https://bit.ly/3DuYeRS
+GithubAdvisories,[GHSA-79h2-q768-fpxr] TensorFlow segfault TFLite converter on per-channel quantized transposed convolutions,https://github.com/advisories/GHSA-79h2-q768-fpxr,https://bit.ly/3DsUPTL
+GithubAdvisories,[GHSA-8629-83m5-rj75] exceedone/exment and exceedone/laravel-admin Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-8629-83m5-rj75,https://bit.ly/3BKoFBU
+GithubAdvisories,[GHSA-54qx-8p8w-xhg8] SFTPGo vulnerable to recovery codes abuse,https://github.com/advisories/GHSA-54qx-8p8w-xhg8,https://bit.ly/3eYXhXW
+GithubAdvisories,[GHSA-fxwr-4vq9-9vhj] XWiki Cross-Site Request Forgery (CSRF) for actions on tags,https://github.com/advisories/GHSA-fxwr-4vq9-9vhj,https://bit.ly/3dg4lit
+GithubAdvisories,[GHSA-ffjm-4qwc-7cmf] TensorFlow vulnerable to OOB write in `scatter_nd` in TF Lite,https://github.com/advisories/GHSA-ffjm-4qwc-7cmf,https://bit.ly/3dg4mD3
+GithubAdvisories,[GHSA-pxrw-j2fv-hx3h] TensorFlow vulnerable to OOB read in `Gather_nd` in TF Lite,https://github.com/advisories/GHSA-pxrw-j2fv-hx3h,https://bit.ly/3dmxyrY
+GithubAdvisories,[GHSA-v8gq-5grq-9728] mozjpeg DecompressScanlines::read_scanlines is Unsound,https://github.com/advisories/GHSA-v8gq-5grq-9728,https://bit.ly/3dg4mTz
+GithubAdvisories,[GHSA-74w3-p89x-ffgh] ansi_term is Unmaintained,https://github.com/advisories/GHSA-74w3-p89x-ffgh,https://bit.ly/3dg4mmx
+GithubAdvisories,[GHSA-6vfq-jmxg-g58r] Shopware contains sensitive data in backend customer module,https://github.com/advisories/GHSA-6vfq-jmxg-g58r,https://bit.ly/3DuVJyS
+GithubAdvisories,[GHSA-3pgj-pg6c-r5p7] OAuthLib vulnerable to DoS when attacker provides malicious IPV6 URI,https://github.com/advisories/GHSA-3pgj-pg6c-r5p7,https://bit.ly/3LjyqtQ
