@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-47m6-46mj-p235] TYPO3 HTML Sanitizer Bypasses Cross-Site Scripting Protection,https://github.com/advisories/GHSA-47m6-46mj-p235,https://bit.ly/3SbH3Ji
+GithubAdvisories,[GHSA-p2g7-xwvr-rrw3] Helm Controller denial of service,https://github.com/advisories/GHSA-p2g7-xwvr-rrw3,https://bit.ly/3dglkRH
+GithubAdvisories,[GHSA-rff2-vqm3-jpv5] snipe-it vulnerable to cross-site scripting (XSS),https://github.com/advisories/GHSA-rff2-vqm3-jpv5,https://bit.ly/3eKvKcr
+GithubAdvisories,[GHSA-w3w9-vrf5-8mx8] ReactPHP's HTTP server parses encoded cookie names so malicious `__Host-` and `__Secure-` cookies can be sent,https://github.com/advisories/GHSA-w3w9-vrf5-8mx8,https://bit.ly/3DwBeSn
+GithubAdvisories,[GHSA-72x9-48mc-phh6] Apache Geode versions prior to 1.15.0 are vulnerable to a deserialization of untrusted data,https://github.com/advisories/GHSA-72x9-48mc-phh6,https://bit.ly/3SdzFNh
+GithubAdvisories,[GHSA-xfhg-9pjg-xg7g] VTK NULL pointer dereference vulnerability,https://github.com/advisories/GHSA-xfhg-9pjg-xg7g,https://bit.ly/3RR0oQd
+GithubAdvisories,[GHSA-p74q-2pf8-j5jx] exceedone/exment and exceedone/laravel-admin SQL Injection vulnerability,https://github.com/advisories/GHSA-p74q-2pf8-j5jx,https://bit.ly/3S8jcdp
+GithubAdvisories,[GHSA-9xgp-3mxp-rv7x] Froxlor vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-9xgp-3mxp-rv7x,https://bit.ly/3dhFzyr
+GithubAdvisories,[GHSA-rh4r-9689-6xw4] Subrion CMS 4.2.1 vulnerable to cross-site scripting in admin panel,https://github.com/advisories/GHSA-rh4r-9689-6xw4,https://bit.ly/3DtBO3x
+GithubAdvisories,[GHSA-2mh7-qxcw-q39g] francoisjacquet/rosariosis vulnerable to Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-2mh7-qxcw-q39g,https://bit.ly/3S0QdIu
+GithubAdvisories,[GHSA-xmgg-fx9p-prq6] NodeBB account takeover via SSO plugins,https://github.com/advisories/GHSA-xmgg-fx9p-prq6,https://bit.ly/3Dx0atg
+GithubAdvisories,[GHSA-6278-2q4m-cmf3] ZK Framework vulnerable to malicious POST,https://github.com/advisories/GHSA-6278-2q4m-cmf3,https://bit.ly/3eTTISH
+GithubAdvisories,[GHSA-w8v7-c7pm-7wfr] Keycloak vulnerable to Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-w8v7-c7pm-7wfr,https://bit.ly/3DsEjmJ
+GithubAdvisories,[GHSA-j9xq-j329-2xvg] Keycloak user may register themselves with same email ID of any existing user,https://github.com/advisories/GHSA-j9xq-j329-2xvg,https://bit.ly/3S5k4iM
