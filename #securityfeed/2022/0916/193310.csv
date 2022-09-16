@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wmqq-r32m-87c5] python-oslo-utils has improper password parsing,https://github.com/advisories/GHSA-wmqq-r32m-87c5,https://bit.ly/3DsHZVz
+GithubAdvisories,[GHSA-3637-v6vq-xqqw] Harbor fails to validate the user permissions when updating tag retention policies,https://github.com/advisories/GHSA-3637-v6vq-xqqw,https://bit.ly/3xtTYhE
+GithubAdvisories,[GHSA-28m8-9j7v-x499] Tauri's readDir Endpoint Scope can be Bypassed With Symbolic Links,https://github.com/advisories/GHSA-28m8-9j7v-x499,https://bit.ly/3dopeb9
+GithubAdvisories,[GHSA-x5cw-843f-r366] x-data-spreadsheet through 1.1.9 vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-x5cw-843f-r366,https://bit.ly/3eTCcxW
+GithubAdvisories,[GHSA-9xgj-fcgf-x6mw] Poetry Argument Injection can lead to Local Code Execution,https://github.com/advisories/GHSA-9xgj-fcgf-x6mw,https://bit.ly/3do3L1Z
+GithubAdvisories,[GHSA-qf8g-vpwp-6579] Apache Geode versions deserialization of untrusted datawhen using JMX over RMI on Java 11,https://github.com/advisories/GHSA-qf8g-vpwp-6579,https://bit.ly/3qNcCgR
+GithubAdvisories,[GHSA-p7hr-f446-x6qf] TensorFlow vulnerable to `CHECK` fail in `tf.sparse.cross`,https://github.com/advisories/GHSA-p7hr-f446-x6qf,https://bit.ly/3xqR8d9
+GithubAdvisories,[GHSA-37jf-mjv6-xfqw] TensorFlow vulnerable to `CHECK` fail in `Conv2DBackpropInput`,https://github.com/advisories/GHSA-37jf-mjv6-xfqw,https://bit.ly/3qQsXRH
+GithubAdvisories,[GHSA-8gw7-4j42-w388] Cosign bundle can be crafted to successfully verify a blob even if the embedded rekorBundle does not reference the given signature,https://github.com/advisories/GHSA-8gw7-4j42-w388,https://bit.ly/3dopeIb
