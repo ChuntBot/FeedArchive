@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8c6p-v837-77f6] Harbor fails to validate the user permissions when updating tag immutability policies,https://github.com/advisories/GHSA-8c6p-v837-77f6,https://bit.ly/3BNank0
+GithubAdvisories,[GHSA-fwv4-6mxc-x5h3] morgan-json vulnerable to Arbitrary Code Execution,https://github.com/advisories/GHSA-fwv4-6mxc-x5h3,https://bit.ly/3BMnVvT
+GithubAdvisories,[GHSA-4rg6-fm25-gc34] oauth2-server through 3.1.1 vulnerable to Open Redirect,https://github.com/advisories/GHSA-4rg6-fm25-gc34,https://bit.ly/3BWoDah
+GithubAdvisories,[GHSA-jf8p-3vjh-pq94] Harbor fails to validate the user permissions when viewing Webhook policies,https://github.com/advisories/GHSA-jf8p-3vjh-pq94,https://bit.ly/3BN4Yt6
+GithubAdvisories,[GHSA-qhxv-296x-hjv7] @pendo324/get-process-by-name are vulnerable to Arbitrary Code Execution,https://github.com/advisories/GHSA-qhxv-296x-hjv7,https://bit.ly/3BKf2TK
