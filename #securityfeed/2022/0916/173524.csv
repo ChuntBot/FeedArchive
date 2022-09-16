@@ -1,0 +1,30 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xr6m-2p4m-jvqf] XWiki Platform Wiki UI Main Wiki Eval Injection vulnerability,https://github.com/advisories/GHSA-xr6m-2p4m-jvqf,https://bit.ly/3Ls9kcj
+GithubAdvisories,[GHSA-2g5c-228j-p52x] XWiki Platform Applications Tag and XWiki Platform Tag UI vulnerable to Eval Injection,https://github.com/advisories/GHSA-2g5c-228j-p52x,https://bit.ly/3qG0Q81
+GithubAdvisories,[GHSA-7hgc-php5-77qq] Talos worker join token can be used to get elevated access level to the Talos API,https://github.com/advisories/GHSA-7hgc-php5-77qq,https://bit.ly/3Lj6sOM
+GithubAdvisories,[GHSA-v973-fxgf-6xhp] mako is vulnerable to Regular Expression Denial of Service,https://github.com/advisories/GHSA-v973-fxgf-6xhp,https://bit.ly/3Ls9lNp
+GithubAdvisories,"[GHSA-6xm7-3cc5-47f9] MEI2Volpiano is vulnerable to XML External Entity (XXE), leading to a Denial of Service (DoS)",https://github.com/advisories/GHSA-6xm7-3cc5-47f9,https://bit.ly/3Ls9lgn
+GithubAdvisories,[GHSA-rc23-xxgq-x27g] wee_alloc is Unmaintained,https://github.com/advisories/GHSA-rc23-xxgq-x27g,https://bit.ly/3S57MHa
+GithubAdvisories,[GHSA-jqhq-pfg3-fg5p] Blink1Control2 uses weak password encryption,https://github.com/advisories/GHSA-jqhq-pfg3-fg5p,https://bit.ly/3QJ6WyY
+GithubAdvisories,[GHSA-jr8j-2jhp-m67v] nftables binding to an already bound chain,https://github.com/advisories/GHSA-jr8j-2jhp-m67v,https://bit.ly/3Ls9mkr
+GithubAdvisories,[GHSA-34vw-m4rh-r36p] Talos vulnerable dependency due to race condition in Linux kernel's IP framework XFRM,https://github.com/advisories/GHSA-34vw-m4rh-r36p,https://bit.ly/3QJ6X60
+GithubAdvisories,[GHSA-3633-5h82-39pq] Improper handling of different key IDs for the same public keys in attacker-controlled metadata,https://github.com/advisories/GHSA-3633-5h82-39pq,https://bit.ly/3xuErhy
+GithubAdvisories,[GHSA-fffr-7x4x-f98q] TYPO3 CMS vulnerable to Denial of Service in Page Error Handling,https://github.com/advisories/GHSA-fffr-7x4x-f98q,https://bit.ly/3Ls9kJl
+GithubAdvisories,[GHSA-m392-235j-9r7r] TYPO3 CMS vulnerable to User Enumeration via Response Timing,https://github.com/advisories/GHSA-m392-235j-9r7r,https://bit.ly/3S6ot5e
+GithubAdvisories,[GHSA-5959-4x58-r8c2] TYPO3 CMS missing check for expiration time of password reset token for backend users,https://github.com/advisories/GHSA-5959-4x58-r8c2,https://bit.ly/3S8w9Ur
+GithubAdvisories,[GHSA-9c6w-55cp-5w25] TYPO3 CMS Stored Cross-Site Scripting via FileDumpController,https://github.com/advisories/GHSA-9c6w-55cp-5w25,https://bit.ly/3S7qnCC
+GithubAdvisories,[GHSA-fv2m-9249-qx85] TYPO3 CMS vulnerable to Cross-Site Scripting in view helper,https://github.com/advisories/GHSA-fv2m-9249-qx85,https://bit.ly/3QJ6XD2
+GithubAdvisories,[GHSA-q8h9-pqcx-59hw] Apache Airflow exposes arbitrary file content,https://github.com/advisories/GHSA-q8h9-pqcx-59hw,https://bit.ly/3SeGvm1
+GithubAdvisories,[GHSA-vfv3-9w6v-23jp] typemap is Unmaintained,https://github.com/advisories/GHSA-vfv3-9w6v-23jp,https://bit.ly/3qMV6cB
+GithubAdvisories,[GHSA-pp8r-vv2j-9j5v] traitobject is Unmaintained,https://github.com/advisories/GHSA-pp8r-vv2j-9j5v,https://bit.ly/3Ls9mRt
+GithubAdvisories,[GHSA-rfj2-q3h3-hm5j] Cargo extracting malicious crates can corrupt arbitrary files,https://github.com/advisories/GHSA-rfj2-q3h3-hm5j,https://bit.ly/3eKkvkf
+GithubAdvisories,[GHSA-2hvr-h6gw-qrxp] Cargo extracting malicious crates can fill the file system,https://github.com/advisories/GHSA-2hvr-h6gw-qrxp,https://bit.ly/3Ls9mAX
+GithubAdvisories,[GHSA-237r-mx84-7x8c] VNCAuthProxy authentication bypass vulnerability,https://github.com/advisories/GHSA-237r-mx84-7x8c,https://bit.ly/3S5n3YC
+GithubAdvisories,[GHSA-r947-2crg-xc39] ouqiang gocron Cross-site scripting vulnerability,https://github.com/advisories/GHSA-r947-2crg-xc39,https://bit.ly/3xuEs56
+GithubAdvisories,[GHSA-xv7r-9vq4-9wrq] Project Wonder WebObjects vulnerable to Arbitrary HTTP Header Injection and Cross-site Scripting,https://github.com/advisories/GHSA-xv7r-9vq4-9wrq,https://bit.ly/3SafuQx
+GithubAdvisories,[GHSA-5m2h-7rf2-rpx6] UniSharp Laravel Filemanager directory traversal vulnerability,https://github.com/advisories/GHSA-5m2h-7rf2-rpx6,https://bit.ly/3SsbpYf
+GithubAdvisories,[GHSA-m379-x4xc-38x9] rdiffweb vulnerable to Improper Restriction of Rendered UI Layers or Frames,https://github.com/advisories/GHSA-m379-x4xc-38x9,https://bit.ly/3ePjN5f
+GithubAdvisories,[GHSA-4r4f-jrvw-h727] Feehi CMS host header injection vulnerability may allow attacker to spoof a particular header,https://github.com/advisories/GHSA-4r4f-jrvw-h727,https://bit.ly/3LiRY1v
+GithubAdvisories,[GHSA-8h89-34w2-jpfm] XWiki Platform Old Core vulnerable to Authentication Bypass Using the Login Action,https://github.com/advisories/GHSA-8h89-34w2-jpfm,https://bit.ly/3Sbuqhm
+GithubAdvisories,[GHSA-h5j3-5x63-p8jv] XWiki Platform Web Templates vulnerable to Unauthorized User Registration Through the Distribution Wizard,https://github.com/advisories/GHSA-h5j3-5x63-p8jv,https://bit.ly/3xuErOA
+GithubAdvisories,[GHSA-mxf2-4r22-5hq9] XWiki Platform Web Parent POM vulnerable to XSS in the attachment history,https://github.com/advisories/GHSA-mxf2-4r22-5hq9,https://bit.ly/3dihOGi
