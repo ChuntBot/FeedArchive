@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r9x7-2xmr-v8fw] mangadex-downloader vulnerable to unauthorized file reading,https://github.com/advisories/GHSA-r9x7-2xmr-v8fw,https://bit.ly/3BpKuFi
+GithubAdvisories,[GHSA-98wm-3w3q-mw94] snakeYAML before 1.31 vulnerable to Denial of Service due to Out-of-bounds Write,https://github.com/advisories/GHSA-98wm-3w3q-mw94,https://bit.ly/3Bqo4no
+GithubAdvisories,[GHSA-jv3g-j58f-9mq9] JOSE vulnerable to resource exhaustion via specifically crafted JWE,https://github.com/advisories/GHSA-jv3g-j58f-9mq9,https://bit.ly/3BmBkJQ
+GithubAdvisories,[GHSA-qm4w-4995-vg7f] cruddl vulnerable to ArangoDB Query Language (AQL) injection through flexSearch,https://github.com/advisories/GHSA-qm4w-4995-vg7f,https://bit.ly/3dlE7La
+GithubAdvisories,"[GHSA-f524-rf33-2jjr] OPA Compiler: Bypass of WithUnsafeBuiltins using ""with"" keyword to mock functions",https://github.com/advisories/GHSA-f524-rf33-2jjr,https://bit.ly/3xuS1BP
+GithubAdvisories,[GHSA-325v-g5vx-whxc] LibreNMS vulnerable to Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-325v-g5vx-whxc,https://bit.ly/3BljQNN
+GithubAdvisories,[GHSA-xg8p-34w2-j49j] linked_list_allocator vulnerable to out-of-bound writes on `Heap` initialization and `Heap::extend`,https://github.com/advisories/GHSA-xg8p-34w2-j49j,https://bit.ly/3BhzF8i
+GithubAdvisories,[GHSA-mwhw-6p27-4crc] Quarkus does not terminate HTTP requests header context,https://github.com/advisories/GHSA-mwhw-6p27-4crc,https://bit.ly/3QRi255
+GithubAdvisories,[GHSA-hc94-9v26-gxwv] Gluu Oxauth before v4.4.1 vulnerable to Server-Side Request Forgery attacks via a crafted request_uri parameter,https://github.com/advisories/GHSA-hc94-9v26-gxwv,https://bit.ly/3QOrCFU
+GithubAdvisories,[GHSA-gwc9-m7rh-j2ww] x/crypto/ssh vulnerable to panic via SSH server,https://github.com/advisories/GHSA-gwc9-m7rh-j2ww,https://bit.ly/3BktAYF
+GithubAdvisories,[GHSA-jgc8-gvcx-9vfx] XWiki Platform Improper Authorization check for inactive users,https://github.com/advisories/GHSA-jgc8-gvcx-9vfx,https://bit.ly/3xwkbfs
+GithubAdvisories,"[GHSA-599v-w48h-rjrm] XWiki Platform Web Templates vulnerable to Missing Authorization, Exposure of Private Personal Information to Unauthorized Actor",https://github.com/advisories/GHSA-599v-w48h-rjrm,https://bit.ly/3BmS1Vr
+GithubAdvisories,[GHSA-gjmq-x5x7-wc36] XWiki Platform vulnerable to Cross-site Scripting in the deleted attachments list,https://github.com/advisories/GHSA-gjmq-x5x7-wc36,https://bit.ly/3BmLJ8j
+GithubAdvisories,[GHSA-9r9j-57rf-f6vj] XWiki Platform Attachment UI vulnerable to cross-site scripting in the move attachment form,https://github.com/advisories/GHSA-9r9j-57rf-f6vj,https://bit.ly/3QOrCpo
+GithubAdvisories,[GHSA-c5v8-2q4r-5w9v] XWiki Platform Mentions UI vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-c5v8-2q4r-5w9v,https://bit.ly/3eWXQkK
