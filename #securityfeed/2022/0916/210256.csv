@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h3w2-qg2r-c7mf] Kirby CMS 2.5.12 Cross-site Scripting,https://github.com/advisories/GHSA-h3w2-qg2r-c7mf,https://bit.ly/3S5Nptw
+GithubAdvisories,[GHSA-qc43-pgwq-3q2q] Shopware access control list bypassed via crafted specific URLs,https://github.com/advisories/GHSA-qc43-pgwq-3q2q,https://bit.ly/3RPqt1T
+GithubAdvisories,"[GHSA-rc4r-wh2q-q6c4] Moby supplementary group permissions not set up properly, allowing attackers to bypass primary group restrictions",https://github.com/advisories/GHSA-rc4r-wh2q-q6c4,https://bit.ly/3SdqU5Q
+GithubAdvisories,[GHSA-v62j-cxhh-fq22] graphql-java vulnerable to Denial of Service via GraphQL query that consumes CPU resources,https://github.com/advisories/GHSA-v62j-cxhh-fq22,https://bit.ly/3S7oLJ9
+GithubAdvisories,[GHSA-xhmf-mmv2-4hhx] Go-CVSS has Out-of-bounds Read vulnerability in ParseVector function,https://github.com/advisories/GHSA-xhmf-mmv2-4hhx,https://bit.ly/3DxMApp
+GithubAdvisories,[GHSA-2gg5-7c4v-6xx2] Duplicate of GHSA-m77f-652q-wwp4,https://github.com/advisories/GHSA-2gg5-7c4v-6xx2,https://bit.ly/3DxMAFV
+GithubAdvisories,[GHSA-f4w6-h4f5-wx45] TensorFlow vulnerable to `CHECK` failure in tf.reshape via overflows,https://github.com/advisories/GHSA-f4w6-h4f5-wx45,https://bit.ly/3eRiliV
+GithubAdvisories,[GHSA-97p7-w86h-vcf9] TensorFlow vulnerable to `CHECK` failure in `SobolSample` via missing validation,https://github.com/advisories/GHSA-97p7-w86h-vcf9,https://bit.ly/3S3yW1u
