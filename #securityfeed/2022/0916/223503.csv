@@ -1,0 +1,38 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m6vp-8q9j-whx4] TensorFlow vulnerable to `CHECK` fail in `Save` and `SaveSlices`,https://github.com/advisories/GHSA-m6vp-8q9j-whx4,https://bit.ly/3eYCJ1F
+GithubAdvisories,[GHSA-p2xf-8hgm-hpw5] TensorFlow vulnerable to `CHECK` fail in `ParameterizedTruncatedNormal`,https://github.com/advisories/GHSA-p2xf-8hgm-hpw5,https://bit.ly/3BJxZpA
+GithubAdvisories,[GHSA-9942-r22v-78cp] TensorFlow vulnerable to `CHECK` fail in `LRNGrad`,https://github.com/advisories/GHSA-9942-r22v-78cp,https://bit.ly/3xuBsWv
+GithubAdvisories,[GHSA-wr9v-g9vf-c74v] TensorFlow vulnerable to segfault in `RaggedBincount`,https://github.com/advisories/GHSA-wr9v-g9vf-c74v,https://bit.ly/3BObsbl
+GithubAdvisories,[GHSA-9vqj-64pv-w55c] TensorFlow vulnerable to `CHECK` fail in `tf.linalg.matrix_rank`,https://github.com/advisories/GHSA-9vqj-64pv-w55c,https://bit.ly/3BM7mQH
+GithubAdvisories,[GHSA-j43h-pgmg-5hjq] TensorFlow vulnerable to `CHECK` fail in `MaxPool`,https://github.com/advisories/GHSA-j43h-pgmg-5hjq,https://bit.ly/3dmUdEw
+GithubAdvisories,[GHSA-397c-5g2j-qxpv] TensorFlow vulnerable to segfault in `SparseBincount`,https://github.com/advisories/GHSA-397c-5g2j-qxpv,https://bit.ly/3BNPqoW
+GithubAdvisories,[GHSA-vxv8-r8q2-63xw] TensorFlow vulnerable to `CHECK` fail in `FractionalMaxPoolGrad`,https://github.com/advisories/GHSA-vxv8-r8q2-63xw,https://bit.ly/3xuBttx
+GithubAdvisories,[GHSA-v7vw-577f-vp8x] TensorFlow vulnerable to segfault in `QuantizedRelu` and `QuantizedRelu6`,https://github.com/advisories/GHSA-v7vw-577f-vp8x,https://bit.ly/3Uj80ww
+GithubAdvisories,[GHSA-vgvh-2pf4-jr2x] TensorFlow vulnerable to segfault in `QuantizeDownAndShrinkRange`,https://github.com/advisories/GHSA-vgvh-2pf4-jr2x,https://bit.ly/3BJ17ND
+GithubAdvisories,[GHSA-689c-r7h2-fv9v] TensorFlow vulnerable to segfault in `QuantizedMatMul`,https://github.com/advisories/GHSA-689c-r7h2-fv9v,https://bit.ly/3dpaYPu
+GithubAdvisories,[GHSA-4pc4-m9mj-v2r9] TensorFlow vulnerable to segfault in `QuantizedBiasAdd`,https://github.com/advisories/GHSA-4pc4-m9mj-v2r9,https://bit.ly/3eXn2I4
+GithubAdvisories,[GHSA-9fpg-838v-wpv7] TensorFlow vulnerable to `CHECK` fail in `FakeQuantWithMinMaxVars`,https://github.com/advisories/GHSA-9fpg-838v-wpv7,https://bit.ly/3xuPdVk
+GithubAdvisories,[GHSA-g35r-369w-3fqp] TensorFlow vulnerable to segfault in `QuantizedInstanceNorm`,https://github.com/advisories/GHSA-g35r-369w-3fqp,https://bit.ly/3UgAXcn
+GithubAdvisories,[GHSA-q2c3-jpmc-gfjx] TensorFlow vulnerable to `CHECK` fail in `Conv2DBackpropInput`,https://github.com/advisories/GHSA-q2c3-jpmc-gfjx,https://bit.ly/3BJS5Qz
+GithubAdvisories,[GHSA-2475-53vw-vp25] TensorFlow vulnerable to `CHECK` fail in `AvgPoolGrad`,https://github.com/advisories/GHSA-2475-53vw-vp25,https://bit.ly/3BJS0wf
+GithubAdvisories,[GHSA-v6h3-348g-6h5x] TensorFlow vulnerable to segfault in `QuantizedAdd`,https://github.com/advisories/GHSA-v6h3-348g-6h5x,https://bit.ly/3xuBuxB
+GithubAdvisories,[GHSA-4w68-4x85-mjj9] TensorFlow vulnerable to segfault in `QuantizedAvgPool`,https://github.com/advisories/GHSA-4w68-4x85-mjj9,https://bit.ly/3BMAsPW
+GithubAdvisories,[GHSA-h7ff-cfc9-wmmh] TensorFlow vulnerable to `CHECK` fail in `FakeQuantWithMinMaxVarsPerChannelGradient`,https://github.com/advisories/GHSA-h7ff-cfc9-wmmh,https://bit.ly/3xuBrSr
+GithubAdvisories,[GHSA-vm7x-4qhj-rrcq] TensorFlow vulnerable to `CHECK` fail in `TensorListScatter` and `TensorListScatterV2`,https://github.com/advisories/GHSA-vm7x-4qhj-rrcq,https://bit.ly/3UgLWm8
+GithubAdvisories,[GHSA-qxpx-j395-pw36] TensorFlow vulnerable to segfault in `LowerBound` and `UpperBound`,https://github.com/advisories/GHSA-qxpx-j395-pw36,https://bit.ly/3Ue1LtM
+GithubAdvisories,[GHSA-9v8w-xmr4-wgxp] TensorFlow vulnerable to `CHECK` fail in `TensorListFromTensor`,https://github.com/advisories/GHSA-9v8w-xmr4-wgxp,https://bit.ly/3xuBtK3
+GithubAdvisories,[GHSA-wq6q-6m32-9rv9] TensorFlow vulnerable to `CHECK` fail in `SetSize`,https://github.com/advisories/GHSA-wq6q-6m32-9rv9,https://bit.ly/3BMALKA
+GithubAdvisories,[GHSA-f7r5-q7cx-h668] TensorFlow vulnerable to segfault in `BlockLSTMGradV2`,https://github.com/advisories/GHSA-f7r5-q7cx-h668,https://bit.ly/3UjVGMg
+GithubAdvisories,[GHSA-84jm-4cf3-9jfm] TensorFlow vulnerable to `CHECK` failures in `FractionalAvgPoolGrad`,https://github.com/advisories/GHSA-84jm-4cf3-9jfm,https://bit.ly/3BPikoR
+GithubAdvisories,[GHSA-h5vq-gw2c-pq47] TensorFlow vulnerable to `CHECK` failures in `UnbatchGradOp`,https://github.com/advisories/GHSA-h5vq-gw2c-pq47,https://bit.ly/3UigXpB
+GithubAdvisories,[GHSA-x989-q2pq-4q5x] TensorFlow vulnerable to Int overflow in `RaggedRangeOp`,https://github.com/advisories/GHSA-x989-q2pq-4q5x,https://bit.ly/3Ugew70
+GithubAdvisories,[GHSA-fhfc-2q7x-929f] TensorFlow vulnerable to `CHECK` fail in `CollectiveGather`,https://github.com/advisories/GHSA-fhfc-2q7x-929f,https://bit.ly/3BKE84K
+GithubAdvisories,[GHSA-v5xg-3q2c-c2r4] TensorFlow vulnerable to `CHECK` failure in `TensorListReserve` via missing validation,https://github.com/advisories/GHSA-v5xg-3q2c-c2r4,https://bit.ly/3BKuAqA
+GithubAdvisories,[GHSA-q5jv-m6qw-5g37] TensorFlow vulnerable to floating point exception in `Conv2D`,https://github.com/advisories/GHSA-q5jv-m6qw-5g37,https://bit.ly/3BMDyn0
+GithubAdvisories,[GHSA-wxjj-cgcx-r3vq] TensorFlow vulnerable to `CHECK` failures in `AvgPool3DGrad`,https://github.com/advisories/GHSA-wxjj-cgcx-r3vq,https://bit.ly/3BP5XsY
+GithubAdvisories,[GHSA-qhw4-wwr7-gjc5] TensorFlow vulnerable to `CHECK` fail in `EmptyTensorList`,https://github.com/advisories/GHSA-qhw4-wwr7-gjc5,https://bit.ly/3Ufbikd
+GithubAdvisories,[GHSA-fqxc-pvf8-2w9v] TensorFlow vulnerable to null dereference on MLIR on empty function attributes,https://github.com/advisories/GHSA-fqxc-pvf8-2w9v,https://bit.ly/3xuBv4D
+GithubAdvisories,[GHSA-jqm7-m5q7-3hm5] TensorFlow vulnerable to `CHECK` fail in `DrawBoundingBoxes`,https://github.com/advisories/GHSA-jqm7-m5q7-3hm5,https://bit.ly/3xuBvBF
+GithubAdvisories,[GHSA-634p-93h9-92vh] ghas-to-csv vulnerable to Improper Neutralization of Formula Elements in a CSV File,https://github.com/advisories/GHSA-634p-93h9-92vh,https://bit.ly/3eYCJib
+GithubAdvisories,[GHSA-mh3m-62v7-68xg] TensorFlow vulnerable to `CHECK` fail in `Unbatch`,https://github.com/advisories/GHSA-mh3m-62v7-68xg,https://bit.ly/3xuBvSb
+GithubAdvisories,[GHSA-fj2m-w3wv-x9pr] Apache Calcite before 1.32.0 vulnerable to potential XML External Entity (XXE) attack,https://github.com/advisories/GHSA-fj2m-w3wv-x9pr,https://bit.ly/3dpaJE4
