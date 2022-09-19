@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vq4h-xrwc-m639] rdiffweb CSRF vulnerability in profile's SSH keys can lead to unauthorized access,https://github.com/advisories/GHSA-vq4h-xrwc-m639,https://bit.ly/3Lpvtbc
