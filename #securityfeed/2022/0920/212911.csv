@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cf7g-cm7q-rq7f] SFTPGo WebClient vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-cf7g-cm7q-rq7f,https://bit.ly/3Lu8Ty2
+GithubAdvisories,[GHSA-56h3-78gp-v83r] Jettison parser crash by stackoverflow,https://github.com/advisories/GHSA-56h3-78gp-v83r,https://bit.ly/3LyjR60
+GithubAdvisories,[GHSA-3mq5-fq9h-gj7j] XStream Denial of Service due to parser crash,https://github.com/advisories/GHSA-3mq5-fq9h-gj7j,https://bit.ly/3qVveve
+GithubAdvisories,[GHSA-3f7h-mf4q-vrm4] XStream Denial of Service due to parser crash,https://github.com/advisories/GHSA-3f7h-mf4q-vrm4,https://bit.ly/3xzVdMr
+GithubAdvisories,[GHSA-4rv7-wj6m-6c6r] XStream Denial of Service due to parser crash,https://github.com/advisories/GHSA-4rv7-wj6m-6c6r,https://bit.ly/3qRFLYb
+GithubAdvisories,[GHSA-fv22-xp26-mm9w] XStream Denial of Service due to parser crash,https://github.com/advisories/GHSA-fv22-xp26-mm9w,https://bit.ly/3qRrrPx
+GithubAdvisories,[GHSA-g4h6-qp44-wqvx] XWiki.WebHome vulnerable to Improper Privilege Management in XWiki resolving groups,https://github.com/advisories/GHSA-g4h6-qp44-wqvx,https://bit.ly/3dtaho6
+GithubAdvisories,[GHSA-gg53-wf5x-r3r6] XWiki Platform Security Parent POM vulnerable to overwriting of security rules of a page with a final page having the same reference,https://github.com/advisories/GHSA-gg53-wf5x-r3r6,https://bit.ly/3xGAztX
