@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cmr8-5w4c-44v8] Fastly Compute@Edge JS Runtime has fixed random number seed during compilation,https://github.com/advisories/GHSA-cmr8-5w4c-44v8,https://bit.ly/3R4wtTk
