@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8r89-x93x-mjq2] Craft CMS Stored Cross-site Scripting in User Addresses Title,https://github.com/advisories/GHSA-8r89-x93x-mjq2,https://bit.ly/3S2ETMe
+GithubAdvisories,[GHSA-wxvf-839f-jqmh] Craft CMS Cross site Scripting vulnerability,https://github.com/advisories/GHSA-wxvf-839f-jqmh,https://bit.ly/3dpxLL6
+GithubAdvisories,[GHSA-cw2v-wv4g-w4p6] rdiffweb CSRF vulnerability in admin area can lead to deletion of repositories and users,https://github.com/advisories/GHSA-cw2v-wv4g-w4p6,https://bit.ly/3DGjDaN
