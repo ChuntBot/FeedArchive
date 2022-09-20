@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3jh2-wmv7-m932] LibreNMS stored Cross-site Scripting via Schedule Maintenance `Title` parameter,https://github.com/advisories/GHSA-3jh2-wmv7-m932,https://bit.ly/3f9okQ4
+GithubAdvisories,[GHSA-fhvv-p968-6vvj] Snipe-IT vulnerable to Improper Authentication,https://github.com/advisories/GHSA-fhvv-p968-6vvj,https://bit.ly/3Uouex8
+GithubAdvisories,[GHSA-m4vx-ccrf-w399] NLnet Labs Routinator has Reachable Assertion vulnerability,https://github.com/advisories/GHSA-m4vx-ccrf-w399,https://bit.ly/3f7LRkD
+GithubAdvisories,[GHSA-2jv3-v37p-65w3] CrafterCMS Improperly Controls Dynamically-Managed Code Resources,https://github.com/advisories/GHSA-2jv3-v37p-65w3,https://bit.ly/3SlR8U8
+GithubAdvisories,[GHSA-j6x3-3jqq-m922] CrafterCMS OS Command Injection vulnerability,https://github.com/advisories/GHSA-j6x3-3jqq-m922,https://bit.ly/3eZ0giR
+GithubAdvisories,[GHSA-mw37-wx8p-gp45] Craft CMS vulnerable to Cross-site Scripting via Drafts,https://github.com/advisories/GHSA-mw37-wx8p-gp45,https://bit.ly/3Si981p
+GithubAdvisories,[GHSA-cv6j-9835-p7fh] exotel-py 0.1.6 includes code execution backdoor inserted by a third party,https://github.com/advisories/GHSA-cv6j-9835-p7fh,https://bit.ly/3f9olDC
