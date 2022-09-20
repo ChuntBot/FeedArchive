@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Zeek 5.0.2,https://packetstormsecurity.com/files/168436/zeek-5.0.2.tar.gz,https://bit.ly/3f421LY
+PacketstormSecurity,Arm Mali CSF Missing Buffer Size Check,https://packetstormsecurity.com/files/168434/GS20220920141716.tgz,https://bit.ly/3RZdr25
+PacketstormSecurity,Arm Mali Race Condition,https://packetstormsecurity.com/files/168433/GS20220920141404.tgz,https://bit.ly/3QXNoH6
+PacketstormSecurity,Arm Mali Physical Address Exposure,https://packetstormsecurity.com/files/168432/GS20220920141211.tgz,https://bit.ly/3qUyEOA
+PacketstormSecurity,Arm Mali Released Buffer Use-After-Free,https://packetstormsecurity.com/files/168431/GS20220920140731.tgz,https://bit.ly/3xCxs6s
+PacketstormSecurity,Backdoor.Win32.Hellza.120 MVID-2022-0641 Remote Command Execution,https://packetstormsecurity.com/files/168430/MVID-2022-0641.txt,https://bit.ly/3BvD8jR
+PacketstormSecurity,Backdoor.Win32.Hellza.120 MVID-2022-0642 Authentication Bypass,https://packetstormsecurity.com/files/168429/MVID-2022-0642.txt,https://bit.ly/3BwSLau
+PacketstormSecurity,Blink1Control2 2.2.7 Weak Password Encryption,https://packetstormsecurity.com/files/168428/blink1control2227-insecure.txt,https://bit.ly/3dvzSNk
+PacketstormSecurity,ProcessMaker Privilege Escalation,https://packetstormsecurity.com/files/168427/Processmaker-PoC-by-Sornram9254.py.txt,https://bit.ly/3LqEroN
+PacketstormSecurity,Red Hat Security Advisory 2022-6537-01,https://packetstormsecurity.com/files/168426/RHSA-2022-6537-01.txt,https://bit.ly/3LuyMhd
+PacketstormSecurity,Buffalo TeraStation Network Attached Storage (NAS) 1.66 Authentication Bypass,https://packetstormsecurity.com/files/168425/buffalotsnas166-bypass.txt,https://bit.ly/3xGXhlJ
+PacketstormSecurity,Trojan.Ransom.Ryuk.A MVID-2022-0640 Code Execution,https://packetstormsecurity.com/files/168424/MVID-2022-0640.txt,https://bit.ly/3qPFDbR
+PacketstormSecurity,Bookwyrm 0.4.3 Authentication Bypass,https://packetstormsecurity.com/files/168423/bookwyrm043-bypass.txt,https://bit.ly/3LIkmKR
+PacketstormSecurity,Trojan-Dropper.Win32.Corty.10 MVID-2022-0639 Insecure Credential Storage,https://packetstormsecurity.com/files/168422/MVID-2022-0639.txt,https://bit.ly/3BUv3qh
