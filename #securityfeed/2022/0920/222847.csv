@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-52xx-r3g2-p8jm] LIEF vulnerable to heap based buffer overflow,https://github.com/advisories/GHSA-52xx-r3g2-p8jm,https://bit.ly/3UuShdY
+GithubAdvisories,[GHSA-2p5h-hpj4-fxgg] LIEF contains a segmentation violation,https://github.com/advisories/GHSA-2p5h-hpj4-fxgg,https://bit.ly/3Lu6TpA
+GithubAdvisories,[GHSA-x2xx-jw5m-5j86] LIEF contains segmentation violation,https://github.com/advisories/GHSA-x2xx-jw5m-5j86,https://bit.ly/3BzaM8k
+GithubAdvisories,[GHSA-42vg-2q93-fj6j] LIEF vulnerable to heap based buffer overflow via print_binary function,https://github.com/advisories/GHSA-42vg-2q93-fj6j,https://bit.ly/3Bp4ojS
