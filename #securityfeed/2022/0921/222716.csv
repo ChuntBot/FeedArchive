@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6h2x-4gjf-jc5w] autogluon.multimodal vulnerable to unsafe YAML deserialization,https://github.com/advisories/GHSA-6h2x-4gjf-jc5w,https://bit.ly/3R2DNig
+GithubAdvisories,[GHSA-9jjv-524m-jm98] @netlify/ipx vulnerable to Full Response SSRF and Stored XSS via Cache Poisoning and Improper Host Validation,https://github.com/advisories/GHSA-9jjv-524m-jm98,https://bit.ly/3BzI6Mq
+GithubAdvisories,[GHSA-232p-59mg-f98p] Microweber Cross-site Scripting can result in redirection to a malicious site,https://github.com/advisories/GHSA-232p-59mg-f98p,https://bit.ly/3R4ordh
+GithubAdvisories,[GHSA-5p8v-58qm-c7fp] python-jwt vulnerable to token forgery with new claims,https://github.com/advisories/GHSA-5p8v-58qm-c7fp,https://bit.ly/3R4SjpP
+GithubAdvisories,[GHSA-2qf8-h7pr-x2r8] YetiForce CRM vulnerable to stored Cross-site Scripting via WidgetsManagement module,https://github.com/advisories/GHSA-2qf8-h7pr-x2r8,https://bit.ly/3fauvn2
+GithubAdvisories,[GHSA-vx3x-hwph-grvw] YetiForce CRM vulnerable to stored Cross-site Scripting via SlaPolicy module,https://github.com/advisories/GHSA-vx3x-hwph-grvw,https://bit.ly/3DRjWQ2
+GithubAdvisories,[GHSA-qwc8-vjh3-gm2j] YetiForce CRM vulnerable to stored Cross-site Scripting via WorkFlow module,https://github.com/advisories/GHSA-qwc8-vjh3-gm2j,https://bit.ly/3R1wYh8
+GithubAdvisories,"[GHSA-c9h3-c6qj-hh7q] Apache Kafka vulnerability can lead to brokers hitting OutOfMemoryException, causing Denial of Service",https://github.com/advisories/GHSA-c9h3-c6qj-hh7q,https://bit.ly/3R7HnaW
+GithubAdvisories,[GHSA-gm8c-w9cm-c445] Microweber vulnerable to HTML Injection in create tag functionality,https://github.com/advisories/GHSA-gm8c-w9cm-c445,https://bit.ly/3QY1p7D
+GithubAdvisories,[GHSA-26m4-qjp9-xmc6] Apache InLong vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-26m4-qjp9-xmc6,https://bit.ly/3QWpTOM
+GithubAdvisories,[GHSA-crf8-h2wq-2h9x] WASM3 Improper Input Validation vulnerability,https://github.com/advisories/GHSA-crf8-h2wq-2h9x,https://bit.ly/3BD6NY7
+GithubAdvisories,[GHSA-wc4x-qmr2-rj8h] steal vulnerable to Prototype Pollution via alias variable,https://github.com/advisories/GHSA-wc4x-qmr2-rj8h,https://bit.ly/3dvhzb0
+GithubAdvisories,[GHSA-rgqx-226f-2xp4] steal Inefficient Regular Expression Complexity vulnerability via string variable,https://github.com/advisories/GHSA-rgqx-226f-2xp4,https://bit.ly/3R3yO0L
+GithubAdvisories,[GHSA-vwhq-pm3r-fjm9] steal vulnerable to Prototype Pollution via key variable in babel.js,https://github.com/advisories/GHSA-vwhq-pm3r-fjm9,https://bit.ly/3ByzghS
+GithubAdvisories,[GHSA-28v4-jf82-jvj8] steal vulnerable to Regular Expression Denial of Service via source and sourceWithComments,https://github.com/advisories/GHSA-28v4-jf82-jvj8,https://bit.ly/3BBH6aq
+GithubAdvisories,[GHSA-8f8g-9j73-7p82] steal vulnerable to Prototype Pollution via optionName variable,https://github.com/advisories/GHSA-8f8g-9j73-7p82,https://bit.ly/3BA2g8X
+GithubAdvisories,[GHSA-7f3x-2wcx-hww8] steal vulnerable to Regular Expression Denial of Service via input variable in main.js,https://github.com/advisories/GHSA-7f3x-2wcx-hww8,https://bit.ly/3R0ZsHF
+GithubAdvisories,[GHSA-fm6m-fg23-67jq] Moodle Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-fm6m-fg23-67jq,https://bit.ly/3dvhzI2
+GithubAdvisories,[GHSA-q4q5-c5cv-2p68] Vuetify Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-q4q5-c5cv-2p68,https://bit.ly/3R82YzT
+GithubAdvisories,[GHSA-9fwf-46g9-45rx] XStream Denial of Service via stack overflow,https://github.com/advisories/GHSA-9fwf-46g9-45rx,https://bit.ly/3BDmPRU
+GithubAdvisories,[GHSA-5hc5-c3m9-8vcj] XStream Denial of Service via stack overflow,https://github.com/advisories/GHSA-5hc5-c3m9-8vcj,https://bit.ly/3BAs4Sz
+GithubAdvisories,[GHSA-r657-33vp-gp22] parse-server auth adapter app ID validation can be circumvented,https://github.com/advisories/GHSA-r657-33vp-gp22,https://bit.ly/3R1aUmM
+GithubAdvisories,[GHSA-vv7x-7w4m-q72f] fhir-works-on-aws-authz-smart handles permissions improperly,https://github.com/advisories/GHSA-vv7x-7w4m-q72f,https://bit.ly/3DJ6Ynr
