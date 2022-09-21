@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-28r9-pq4c-wp3c] personnummer/rust vulnerable to Improper Input Validation,https://github.com/advisories/GHSA-28r9-pq4c-wp3c,https://bit.ly/3faulvV
