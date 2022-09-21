@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6w4q-23cf-j9jp] parse-server's session object properties can be updated by foreign user if object ID is known,https://github.com/advisories/GHSA-6w4q-23cf-j9jp,https://bit.ly/3r2NVNj
