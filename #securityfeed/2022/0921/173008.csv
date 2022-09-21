@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-88cv-mj24-8w3q] arr-pm vulnerable to arbitrary shell execution when extracting or listing files contained in a malicious rpm,https://github.com/advisories/GHSA-88cv-mj24-8w3q,https://bit.ly/3qTIgcD
+GithubAdvisories,[GHSA-gwp4-mcv4-w95j] jwcrypto token substitution can lead to authentication bypass,https://github.com/advisories/GHSA-gwp4-mcv4-w95j,https://bit.ly/3S0YNHn
