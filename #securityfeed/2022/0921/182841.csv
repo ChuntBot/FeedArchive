@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4qw4-jpp4-8gvp] Unbounded resource exhaustion in cmark-gfm autolink extension may lead to denial of service,https://github.com/advisories/GHSA-4qw4-jpp4-8gvp,https://bit.ly/3SrkVe5
+GithubAdvisories,[GHSA-phjr-8j92-w5v7] CRI-O incorrect handling of supplementary groups may lead to sensitive information disclosure,https://github.com/advisories/GHSA-phjr-8j92-w5v7,https://bit.ly/3UrdXHM
+GithubAdvisories,[GHSA-mcvg-g9wx-v5vx] Valine code injection vulnerability,https://github.com/advisories/GHSA-mcvg-g9wx-v5vx,https://bit.ly/3SlGg8x
