@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p2wr-hwhr-9jm4] Malware in luajit-build,https://github.com/advisories/GHSA-p2wr-hwhr-9jm4,https://bit.ly/3UvEjZk
+GithubAdvisories,[GHSA-wg6h-xf2x-gmgf] Malware in luajit-stdlib,https://github.com/advisories/GHSA-wg6h-xf2x-gmgf,https://bit.ly/3dwrmO4
+GithubAdvisories,[GHSA-332g-59g7-9x59] Malware in luapkg,https://github.com/advisories/GHSA-332g-59g7-9x59,https://bit.ly/3xF6GdG
