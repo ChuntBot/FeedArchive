@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fv7x-v67w-cvqv] Spring Data REST can expose hidden entity attributes,https://github.com/advisories/GHSA-fv7x-v67w-cvqv,https://bit.ly/3C30OgQ
+GithubAdvisories,[GHSA-m748-hjqg-rpp8] rdiffweb has insecure HTTP cookies,https://github.com/advisories/GHSA-m748-hjqg-rpp8,https://bit.ly/3UwoHof
+GithubAdvisories,[GHSA-4v5m-vwvp-p7w8] Pagekit vulnerable to Unrestricted Upload of File with Dangerous Type,https://github.com/advisories/GHSA-4v5m-vwvp-p7w8,https://bit.ly/3UpQ82W
+GithubAdvisories,[GHSA-9vxf-mcm6-5m42] rdiffweb CSRF could lead to disabling notifications in user profile,https://github.com/advisories/GHSA-9vxf-mcm6-5m42,https://bit.ly/3DQpRF9
+GithubAdvisories,[GHSA-5rp4-749p-vx26] Apache Airflow vulnerable to Use of Externally-Controlled Format String,https://github.com/advisories/GHSA-5rp4-749p-vx26,https://bit.ly/3C0iUjs
+GithubAdvisories,[GHSA-4fg5-j4mm-wfpg] Apache Airflow vulnerable to open redirect,https://github.com/advisories/GHSA-4fg5-j4mm-wfpg,https://bit.ly/3DMl1bT
