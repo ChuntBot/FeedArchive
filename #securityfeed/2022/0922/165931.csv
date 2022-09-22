@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-93q5-3xpc-8vg3] steal vulnerable to Prototype Pollution via requestedVersion variable,https://github.com/advisories/GHSA-93q5-3xpc-8vg3,https://bit.ly/3LHpyi0
