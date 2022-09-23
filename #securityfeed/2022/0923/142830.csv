@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m4m8-qx26-rvpg] Malware in @dydxprotocol/node-service-base-dev,https://github.com/advisories/GHSA-m4m8-qx26-rvpg,https://bit.ly/3DO0oMI
+GithubAdvisories,[GHSA-xjr5-5w2w-3233] Malware in @dydxprotocol/solo,https://github.com/advisories/GHSA-xjr5-5w2w-3233,https://bit.ly/3Bzqss6
+GithubAdvisories,[GHSA-42m8-vq85-5486] Malware in @dydxprotocol/perpetual,https://github.com/advisories/GHSA-42m8-vq85-5486,https://bit.ly/3dzvn4v
+GithubAdvisories,[GHSA-49wm-4fp6-h59c] OctoPrint vulnerable to Unrestricted Upload of File with Dangerous Type,https://github.com/advisories/GHSA-49wm-4fp6-h59c,https://bit.ly/3DIVaSm
+GithubAdvisories,[GHSA-wqr6-57qm-hhr5] Pimcore vulnerable to cross site scripting,https://github.com/advisories/GHSA-wqr6-57qm-hhr5,https://bit.ly/3DRSLVo
+GithubAdvisories,[GHSA-3cvm-7wrh-qrf9] Craft CMS vulnerable to stored Cross-site Scripting via /admin/settings/fields page,https://github.com/advisories/GHSA-3cvm-7wrh-qrf9,https://bit.ly/3R2Yhr7
+GithubAdvisories,[GHSA-gvjw-8mmr-8f6g] steal vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-gvjw-8mmr-8f6g,https://bit.ly/3DRSKRk
+GithubAdvisories,[GHSA-jjch-7g85-4m72] Jenkins NS-ND Integration Performance Publisher Plugin vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-jjch-7g85-4m72,https://bit.ly/3R6o2XQ
+GithubAdvisories,[GHSA-j2mj-g8jp-gjfm] Jenkins NS-ND Integration Performance Publisher Plugin vulnerable to Missing Authorization,https://github.com/advisories/GHSA-j2mj-g8jp-gjfm,https://bit.ly/3DTcunT
+GithubAdvisories,[GHSA-fq2h-r2h9-pj8r] Jenkins NS-ND Integration Performance Publisher Plugin vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-fq2h-r2h9-pj8r,https://bit.ly/3BGAPKB
+GithubAdvisories,[GHSA-qgv4-7jhx-c72q] Jenkins Rundeck Plugin Missing Authorization vulnerability,https://github.com/advisories/GHSA-qgv4-7jhx-c72q,https://bit.ly/3BDphI8
+GithubAdvisories,[GHSA-j8xr-2279-88qj] Jenkins RQM Plugin vulnerable to Improper Restriction of XML External Entity Reference,https://github.com/advisories/GHSA-j8xr-2279-88qj,https://bit.ly/3S12Fs5
+GithubAdvisories,[GHSA-mrf6-4gw6-65v3] Jenkins extreme-feedback Plugin vulnerable to Missing Authorization,https://github.com/advisories/GHSA-mrf6-4gw6-65v3,https://bit.ly/3R3QRE5
+GithubAdvisories,[GHSA-7jwg-hq85-c6m6] Jenkins SmallTest Plugin improperly validates hostname,https://github.com/advisories/GHSA-7jwg-hq85-c6m6,https://bit.ly/3DRSLES
+GithubAdvisories,[GHSA-pxp5-g66h-wpv2] Jenkins View26 Test-Reporting Plugin improperly validates hostname,https://github.com/advisories/GHSA-pxp5-g66h-wpv2,https://bit.ly/3R5RdtV
+GithubAdvisories,[GHSA-g43x-pcc9-f472] Jenkins Compuware Common Configuration Plugin vulnerable to Improper Restriction of XML External Entity Reference,https://github.com/advisories/GHSA-g43x-pcc9-f472,https://bit.ly/3DRSLom
+GithubAdvisories,[GHSA-f2j5-w76m-3rqh] Jenkins Anchore Container Image Scanner Plugin vulnerable to cross site scripting,https://github.com/advisories/GHSA-f2j5-w76m-3rqh,https://bit.ly/3BIfoZI
+GithubAdvisories,[GHSA-52v4-wxrx-gjjm] Jenkins Apprenda Plugin has Missing Authorization vulnerability,https://github.com/advisories/GHSA-52v4-wxrx-gjjm,https://bit.ly/3BEQnP7
+GithubAdvisories,[GHSA-6cvr-rvpm-9wx4] Jenkins SCM HttpClient Plugin vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-6cvr-rvpm-9wx4,https://bit.ly/3S12FZ7
+GithubAdvisories,[GHSA-cpm5-cqr9-7p79] Jenkins BigPanda Notifier Plugin Missing Password Field Masking,https://github.com/advisories/GHSA-cpm5-cqr9-7p79,https://bit.ly/3R8pIzK
+GithubAdvisories,[GHSA-q9j5-2mjx-8x28] Jenkins SCM HttpClient Plugin Missing Authorization,https://github.com/advisories/GHSA-q9j5-2mjx-8x28,https://bit.ly/3dK2jae
