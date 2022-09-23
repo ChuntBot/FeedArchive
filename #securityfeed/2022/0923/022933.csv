@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+DebianSecurityNotice,DSA-5236 expat,https://www.debian.org/security/2022/dsa-5236,https://bit.ly/3qY06v5
+DebianSecurityNotice,DSA-5235 bind9,https://www.debian.org/security/2022/dsa-5235,https://bit.ly/3r14Os4
+DebianSecurityNotice,DSA-5234 fish,https://www.debian.org/security/2022/dsa-5234,https://bit.ly/3xNUxmF
+DebianSecurityNotice,DSA-5233 e17,https://www.debian.org/security/2022/dsa-5233,https://bit.ly/3DOWXFC
