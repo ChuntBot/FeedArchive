@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-0495 (koha_library_automation),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0495,https://bit.ly/3r0TXxZ
+NVD-NIST,CVE-2022-2315 (accreditation_tracking/presentation_module),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2315,https://bit.ly/3R9gBPi
+NVD-NIST,CVE-2022-2872 (octoprint),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2872,https://bit.ly/3R7M4l9
+NVD-NIST,"CVE-2022-28977 (dxp, liferay_portal)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-28977,https://bit.ly/3xNIHc5
+NVD-NIST,CVE-2022-28981 (liferay_portal),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-28981,https://bit.ly/3R7M58H
+NVD-NIST,CVE-2022-29799 (windows_defender_for_endpoint),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-29799,https://bit.ly/3R7LWSH
+NVD-NIST,CVE-2022-29800 (windows_defender_for_endpoint),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-29800,https://bit.ly/3R7M44D
+NVD-NIST,CVE-2022-3250 (rdiffweb),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3250,https://bit.ly/3R8m2OG
+NVD-NIST,CVE-2022-3251 (minarca),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3251,https://bit.ly/3BJKGj7
+NVD-NIST,CVE-2022-36365 (wha_crossword),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36365,https://bit.ly/3RaD7rf
+NVD-NIST,CVE-2022-36383 (wha_wordsearch),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36383,https://bit.ly/3r3eHWc
+NVD-NIST,"CVE-2022-38177 (bind, debian_linux)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38177,https://bit.ly/3xN205B
+NVD-NIST,"CVE-2022-38178 (bind, debian_linux)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38178,https://bit.ly/3xPTkeK
