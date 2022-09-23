@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v57h-6hmh-g2p4] Weight not properly refunded after EVM execution,https://github.com/advisories/GHSA-v57h-6hmh-g2p4,https://bit.ly/3R8JSd8
