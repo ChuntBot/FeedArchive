@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2019-5641 (insightvm),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-5641,https://bit.ly/3R1Ivgk
+NVD-NIST,CVE-2022-2265 (identity_and_directory_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2265,https://bit.ly/3Ux21nL
+NVD-NIST,"CVE-2022-28982 (dxp, liferay_portal)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-28982,https://bit.ly/3C4gK2h
+NVD-NIST,CVE-2022-3255 (pimcore),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3255,https://bit.ly/3SoJmZy
