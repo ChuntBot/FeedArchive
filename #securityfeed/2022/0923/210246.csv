@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-83qx-288m-72w4] Liferay Portal Missing Authorization vulnerability,https://github.com/advisories/GHSA-83qx-288m-72w4,https://bit.ly/3Rao0hB
+GithubAdvisories,[GHSA-7cgv-v83v-rr87] HashiCorp Vault vulnerable to incorrect metadata access,https://github.com/advisories/GHSA-7cgv-v83v-rr87,https://bit.ly/3BGlgmr
+GithubAdvisories,[GHSA-53jm-3hc9-fqqc] Apache Batik vulnerable to Server-Side Request Forgery,https://github.com/advisories/GHSA-53jm-3hc9-fqqc,https://bit.ly/3BErO4L
+GithubAdvisories,[GHSA-h4qg-p7r2-cpg3] Apache Batik vulnerable to Server-Side Request Forgery,https://github.com/advisories/GHSA-h4qg-p7r2-cpg3,https://bit.ly/3fgqY6I
+GithubAdvisories,[GHSA-c5xv-qc8p-mh2v] Apache Batik Server-Side Request Forgery,https://github.com/advisories/GHSA-c5xv-qc8p-mh2v,https://bit.ly/3Sb52Zh
+GithubAdvisories,[GHSA-f546-v666-559x] Craft CMS Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-f546-v666-559x,https://bit.ly/3S7RApi
+GithubAdvisories,[GHSA-fvf5-xp83-vrqp] ICEcoder vulnerable to Path Traversal,https://github.com/advisories/GHSA-fvf5-xp83-vrqp,https://bit.ly/3UDHX35
+GithubAdvisories,[GHSA-gmj8-84r4-h46j] rdiffweb Cross-Site Request Forgery vulnerability can lead to user email ID being changed,https://github.com/advisories/GHSA-gmj8-84r4-h46j,https://bit.ly/3UxtpSF
+GithubAdvisories,[GHSA-74j6-3hh4-w3f5] rdiffweb Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-74j6-3hh4-w3f5,https://bit.ly/3SbplWK
+GithubAdvisories,[GHSA-8gq9-2x98-w8hf] protobuf-cpp and protobuf-python have potential Denial of Service issue,https://github.com/advisories/GHSA-8gq9-2x98-w8hf,https://bit.ly/3UxOfRP
+GithubAdvisories,[GHSA-f7fq-wp2x-jc25] Jenkins WildFly Deployer Plugin vulnerable to path traversal,https://github.com/advisories/GHSA-f7fq-wp2x-jc25,https://bit.ly/3RdKcY2
+GithubAdvisories,[GHSA-j7xv-fc46-hgpg] Jenkins BigPanda Notifier Plugin stores BigPanda API key unencrypted,https://github.com/advisories/GHSA-j7xv-fc46-hgpg,https://bit.ly/3BGlgTt
+GithubAdvisories,[GHSA-4456-w38r-m53x] Besu VM vulnerable to gas allocation error in CALL operations,https://github.com/advisories/GHSA-4456-w38r-m53x,https://bit.ly/3BErOBN
