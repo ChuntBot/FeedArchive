@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gmhj-xjfh-cf6m] Caddy-SSH vulnerable to Authorization Bypass due to incorrect usage of PAM library,https://github.com/advisories/GHSA-gmhj-xjfh-cf6m,https://bit.ly/3r3aNfR
