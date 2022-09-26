@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Merge pull request #4749 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/15f2c4c769bda87ec92c677f7694dcf3adbbade1,https://bit.ly/3TLmHIi
+GithubCommitStaging,Use utf8mb4 charset and utf8mb4_general_ci collation,https://github.com/mailcow/mailcow-dockerized/commit/852bf750cac27e3a4aa182189aae8e3082b8efff,https://bit.ly/3DRIlVX
+GithubCommitStaging,Fixed typo in escape sequence in update script,https://github.com/mailcow/mailcow-dockerized/commit/b4bab1d5b90943fb164398a53df4eef871de014c,https://bit.ly/3DQgEwG
+GithubCommitStaging,Merge pull request #4762 from mindsolve/patch-1,https://github.com/mailcow/mailcow-dockerized/commit/caf775093e370c4319e240c101a52710eb2a3e71,https://bit.ly/3UETwXM
+GithubCommitStaging,Merge pull request #4758 from mailcow/feature/fix-4743,https://github.com/mailcow/mailcow-dockerized/commit/a502eb239d2cf6e8e8d7e897607397b9807e825f,https://bit.ly/3fpfUEk
