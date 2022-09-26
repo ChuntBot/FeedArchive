@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2022-1941 (protobuf-cpp, protobuf-python)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-1941,https://bit.ly/3SfmE6B
+NVD-NIST,"CVE-2022-28980 (dxp, liferay_portal)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-28980,https://bit.ly/3RjWeyZ
+NVD-NIST,CVE-2022-39224 (ruby-arr-pm),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39224,https://bit.ly/3SDRWUx
+NVD-NIST,CVE-2022-40186 (vault),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40186,https://bit.ly/3Rfzbpl
