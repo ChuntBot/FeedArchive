@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubCommit,[GH-Actions][stale] Update to v5.2.0,https://github.com/mailcow/mailcow-dockerized/commit/47359c4113b47f106b2e8b9b708916924d9d6fdf,https://bit.ly/3BLUw4X
+GithubCommit,Use utf8mb4 charset and utf8mb4_general_ci collation,https://github.com/mailcow/mailcow-dockerized/commit/852bf750cac27e3a4aa182189aae8e3082b8efff,https://bit.ly/3DRIlVX
+GithubCommit,[GH-Actions][stale] Update to v6.0.0,https://github.com/mailcow/mailcow-dockerized/commit/c4d5072e5ca9f6a0a1d2b9dccd39c958488ceda8,https://bit.ly/3BCoaZh
+GithubCommit,Fixed typo in escape sequence in update script,https://github.com/mailcow/mailcow-dockerized/commit/b4bab1d5b90943fb164398a53df4eef871de014c,https://bit.ly/3DQgEwG
+GithubCommit,GitHub Workflows security hardening (#4761),https://github.com/mailcow/mailcow-dockerized/commit/f28e18e67673eccf58af78f67e283a24a2edf4da,https://bit.ly/3f710CD
+GithubCommit,Merge pull request #4762 from mindsolve/patch-1,https://github.com/mailcow/mailcow-dockerized/commit/caf775093e370c4319e240c101a52710eb2a3e71,https://bit.ly/3UETwXM
+GithubCommit,Merge pull request #4758 from mailcow/feature/fix-4743,https://github.com/mailcow/mailcow-dockerized/commit/a502eb239d2cf6e8e8d7e897607397b9807e825f,https://bit.ly/3fpfUEk
+GithubCommit,[Web] Updated lang.tr.json (#4765),https://github.com/mailcow/mailcow-dockerized/commit/494620cdea5370c34f3e37595952e27138ac2ac1,https://bit.ly/3fj2Mkg
+GithubCommit,[API] Update swagger version,https://github.com/mailcow/mailcow-dockerized/commit/000894dabda7c2116f43ad6ff926962295d8095c,https://bit.ly/3xRYdUs
+GithubCommit,Merge pull request #4763 from ntimo/task/update-swagger,https://github.com/mailcow/mailcow-dockerized/commit/2834459b2225cbaaebc92db07aeed6bcdd51bf32,https://bit.ly/3xV6dnR
+GithubCommit,Merge pull request #4703 from devops-ansible/master,https://github.com/mailcow/mailcow-dockerized/commit/8e0b1d8aee4af02311692cb031695cc2ac3850fd,https://bit.ly/3SAep4O
+GithubCommit,Merge pull request #4766 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/5470b51cc7e755bb749fa4492d85276c5233866a,https://bit.ly/3y0bpXp
