@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-3782 (wayland),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-3782,https://bit.ly/3CbEUrD
+NVD-NIST,CVE-2021-45035 (vclient),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-45035,https://bit.ly/3BQwTHk
+NVD-NIST,CVE-2022-2025 (gds3710_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2025,https://bit.ly/3CcGn0X
+NVD-NIST,CVE-2022-2070 (gds3710_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2070,https://bit.ly/3Ce8htm
+NVD-NIST,"CVE-2022-28886 (cloud_protection_for_salesforce, collaboration_protection, elements_endpoint_protection, internet_gatekeeper, linux_security)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-28886,https://bit.ly/3SxLka2
+NVD-NIST,CVE-2022-2970 (libiec61850),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2970,https://bit.ly/3CbEPEl
+NVD-NIST,CVE-2022-2971 (libiec61850),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2971,https://bit.ly/3SBdCQZ
+NVD-NIST,CVE-2022-2972 (libiec61850),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2972,https://bit.ly/3dLQDnq
+NVD-NIST,CVE-2022-2973 (libiec61850),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2973,https://bit.ly/3BQAqFs
+NVD-NIST,CVE-2022-3252 (swift-nio-extras),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3252,https://bit.ly/3BPXEeY
+NVD-NIST,CVE-2022-3257 (mattermost_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3257,https://bit.ly/3BNmb4n
+NVD-NIST,CVE-2022-36944 (scala),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36944,https://bit.ly/3SxiwOU
+NVD-NIST,"CVE-2022-38438 (experience_manager, experience_manager_cloud_service)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38438,https://bit.ly/3BJRQ6V
+NVD-NIST,"CVE-2022-38439 (experience_manager, experience_manager_cloud_service)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38439,https://bit.ly/3BPFeLx
+NVD-NIST,CVE-2022-38742 (thinmanager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38742,https://bit.ly/3Ca9jXo
+NVD-NIST,CVE-2022-40358 (ajaxplorer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40358,https://bit.ly/3BPlCqU
+NVD-NIST,"CVE-2022-40628 (en6200-prime_quad-100_firmware, en6200-prime_quad-35_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40628,https://bit.ly/3CdoSO6
+NVD-NIST,"CVE-2022-40629 (en6200-prime_quad-100_firmware, en6200-prime_quad-35_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40629,https://bit.ly/3CeVO97
+NVD-NIST,CVE-2022-40748 (infosphere_information_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40748,https://bit.ly/3BQwTXQ
