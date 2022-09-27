@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p6fh-xc6r-g5hw] Brokercap Bifrost subject to authentication bypass when using HTTP basic authentication,https://github.com/advisories/GHSA-p6fh-xc6r-g5hw,https://bit.ly/3xW1AK9
