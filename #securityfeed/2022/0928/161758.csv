@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-1755 (svg_support),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-1755,https://bit.ly/3SmuHhW
+NVD-NIST,CVE-2022-23463 (discovery),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23463,https://bit.ly/3SBtUKh
+NVD-NIST,CVE-2022-23464 (discovery),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23464,https://bit.ly/3foJOJ2
+NVD-NIST,CVE-2022-2404 (wp_popup_builder),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2404,https://bit.ly/3dNpvoa
+NVD-NIST,CVE-2022-3025 (bitcoin/altcoin_faucet),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3025,https://bit.ly/3dKqNR2
+NVD-NIST,CVE-2022-3201 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3201,https://bit.ly/3E4U8Aa
+NVD-NIST,CVE-2022-36025 (besu),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36025,https://bit.ly/3dOkATU
+NVD-NIST,CVE-2022-39227 (python-jwt),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39227,https://bit.ly/3rht49s
+NVD-NIST,"CVE-2022-40630 (en6200-prime_quad-100_firmware, en6200-prime_quad-35_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40630,https://bit.ly/3E16XLP
+NVD-NIST,CVE-2022-40854 (ac18_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40854,https://bit.ly/3LRgpDl
+NVD-NIST,CVE-2022-40924 (zoo_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40924,https://bit.ly/3E14elv
+NVD-NIST,CVE-2022-40925 (zoo_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40925,https://bit.ly/3SEimFr
+NVD-NIST,CVE-2022-41340 (secp256k1-js),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41340,https://bit.ly/3DVVKwa
