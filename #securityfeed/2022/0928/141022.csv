@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-8qv5-68g4-248j] Scala subject to file deletion, code execution due to Java deserialization chain with LazyList object deserialization",https://github.com/advisories/GHSA-8qv5-68g4-248j,https://bit.ly/3SJF67f
