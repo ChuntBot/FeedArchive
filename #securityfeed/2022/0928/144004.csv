@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m7w4-q5vg-5xfp] Mattermost subject to Denial of Service via upload of special GIF,https://github.com/advisories/GHSA-m7w4-q5vg-5xfp,https://bit.ly/3UNP6xS
+GithubAdvisories,[GHSA-9w7j-q3xw-p9vh] Hyperledger Fabric subject to Denial of Service via non-validated request,https://github.com/advisories/GHSA-9w7j-q3xw-p9vh,https://bit.ly/3dNCeHp
