@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mrgp-mrhc-5jrq] vm2 vulnerable to Sandbox Escape resulting in Remote Code Execution on host,https://github.com/advisories/GHSA-mrgp-mrhc-5jrq,https://bit.ly/3Ehxcht
