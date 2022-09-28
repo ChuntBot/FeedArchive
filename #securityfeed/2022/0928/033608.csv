@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hhxh-qphc-v423] Nepxion Discovery vulnerable to potential Information Disclosure due to Server-Side Request Forgery,https://github.com/advisories/GHSA-hhxh-qphc-v423,https://bit.ly/3LSdyKG
+GithubAdvisories,[GHSA-q979-9m39-23mq] Nepxion Discovery vulnerable to SpEL Injection leading to Remote Code Execution,https://github.com/advisories/GHSA-q979-9m39-23mq,https://bit.ly/3BQT54j
+GithubAdvisories,[GHSA-3mg9-m3f6-v7fq] Proxy component of Apache Pulsar subject to abuse as Denial of Service endpoint,https://github.com/advisories/GHSA-3mg9-m3f6-v7fq,https://bit.ly/3BTSZJ0
