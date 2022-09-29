@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qj9p-jvmw-82rh] Apache Pinot has Groovy Function support enabled by default,https://github.com/advisories/GHSA-qj9p-jvmw-82rh,https://bit.ly/3y3WwTX
+GithubAdvisories,[GHSA-hvv8-5v86-r45x] Improper beacon events in matrix-js-sdk can result in availability issues,https://github.com/advisories/GHSA-hvv8-5v86-r45x,https://bit.ly/3UPU9hu
+GithubAdvisories,[GHSA-c429-5p7v-vgjp] hoek subject to prototype pollution via the clone function,https://github.com/advisories/GHSA-c429-5p7v-vgjp,https://bit.ly/3UNAvTd
+GithubAdvisories,[GHSA-36jr-mh4h-2g58] d3-color vulnerable to ReDoS,https://github.com/advisories/GHSA-36jr-mh4h-2g58,https://bit.ly/3y2O9YU
