@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j3q4-gmj4-mj95] rdiffweb vulnerable to account access via session fixation,https://github.com/advisories/GHSA-j3q4-gmj4-mj95,https://bit.ly/3LQU7Si
