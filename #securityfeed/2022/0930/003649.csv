@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-jvf3-mfxv-jcqr] Apache Pulsar Broker, Proxy, and WebSocket Proxy vulnerable to Improper Certificate Validation",https://github.com/advisories/GHSA-jvf3-mfxv-jcqr,https://bit.ly/3y3CJ76
