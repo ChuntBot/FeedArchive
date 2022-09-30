@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-crxj-hrmp-4rwf] Labstack Echo Open Redirect vulnerability,https://github.com/advisories/GHSA-crxj-hrmp-4rwf,https://bit.ly/3dPwP2N
+GithubAdvisories,[GHSA-jx7c-7mj5-9438] Apache Tomcat Race Condition vulnerability,https://github.com/advisories/GHSA-jx7c-7mj5-9438,https://bit.ly/3E1LqTr
+GithubAdvisories,[GHSA-rv5q-72p2-2q24] Centreon contains cross-site scripting vulnerability via esc_name parameter,https://github.com/advisories/GHSA-rv5q-72p2-2q24,https://bit.ly/3E5dHIA
+GithubAdvisories,[GHSA-25gv-wg6f-6frp] Centreon SQL Injection vulnerability via esc_name parameter,https://github.com/advisories/GHSA-25gv-wg6f-6frp,https://bit.ly/3SrRb14
+GithubAdvisories,[GHSA-m54f-rp6r-rrrm] XXL-JOB contains a Command execution vulnerability in background tasks,https://github.com/advisories/GHSA-m54f-rp6r-rrrm,https://bit.ly/3Rt1oc6
