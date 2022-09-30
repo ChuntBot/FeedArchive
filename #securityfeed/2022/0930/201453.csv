@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-43980 (tomcat),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-43980,https://bit.ly/3LTFH3W
+NVD-NIST,CVE-2021-45789 (metersphere),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-45789,https://bit.ly/3E3qyex
+NVD-NIST,CVE-2021-45790 (metersphere),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-45790,https://bit.ly/3Cl2S3Q
+NVD-NIST,CVE-2021-45843 (glfusion),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-45843,https://bit.ly/3CjKFDP
+NVD-NIST,CVE-2022-1718 (trudesk),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-1718,https://bit.ly/3LTFGNq
+NVD-NIST,CVE-2022-1719 (trudesk),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-1719,https://bit.ly/3CoQlwz
+NVD-NIST,CVE-2022-1725 (vim),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-1725,https://bit.ly/3C1vQ7o
+NVD-NIST,CVE-2022-23716 (elastic_cloud_enterprise),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23716,https://bit.ly/3Ckouxp
+NVD-NIST,CVE-2022-3075 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3075,https://bit.ly/3Co0HNa
+NVD-NIST,CVE-2022-31367 (strapi),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-31367,https://bit.ly/3CnVncD
+NVD-NIST,CVE-2022-37346 (product_image_bulk_upload),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37346,https://bit.ly/3E49hSf
+NVD-NIST,CVE-2022-38222 (xpdf),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38222,https://bit.ly/3E7jeyz
+NVD-NIST,"CVE-2022-39261 (drupal, twig)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39261,https://bit.ly/3dZAHhK
+NVD-NIST,CVE-2022-39263 (nextauth),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39263,https://bit.ly/3E8hgxN
+NVD-NIST,CVE-2022-40912 (etap_safety_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40912,https://bit.ly/3dRdZIB
