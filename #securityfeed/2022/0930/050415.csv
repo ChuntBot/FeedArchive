@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gfhp-jgp6-838j] Orckestra C1 CMS's deserialization of untrusted data allows for arbitrary code execution,https://github.com/advisories/GHSA-gfhp-jgp6-838j,https://bit.ly/3rkapK4
+GithubAdvisories,[GHSA-f36p-42jv-8rh2] Lithium vulnerable to Cross Site Scripting in provided Swagger-UI,https://github.com/advisories/GHSA-f36p-42jv-8rh2,https://bit.ly/3rjOFy4
+GithubAdvisories,[GHSA-qq29-5vjh-vxwr] rdiffweb vulnerable to Improper Cleanup on Thrown Exception,https://github.com/advisories/GHSA-qq29-5vjh-vxwr,https://bit.ly/3dOU8d7
+GithubAdvisories,[GHSA-6hrg-qmvc-2xh8] joblib vulnerable to arbitrary code execution,https://github.com/advisories/GHSA-6hrg-qmvc-2xh8,https://bit.ly/3dSc9ab
+GithubAdvisories,[GHSA-grjp-4jmr-mjcw] express-xss-sanitizer vulnerable to Prototype Pollution via allowedTags attribute,https://github.com/advisories/GHSA-grjp-4jmr-mjcw,https://bit.ly/3dRSVBJ
+GithubAdvisories,"[GHSA-hrj7-f62f-j7x7] rdiffweb allows unlimited length of root directory name, which could result in DoS",https://github.com/advisories/GHSA-hrj7-f62f-j7x7,https://bit.ly/3E5jWw1
+GithubAdvisories,[GHSA-qrj3-hrgj-fm7r] rdiffweb's unlimited length email field can lead to DoS,https://github.com/advisories/GHSA-qrj3-hrgj-fm7r,https://bit.ly/3y6AjVw
+GithubAdvisories,[GHSA-fpgf-pjjv-2qgm] matrix-android-sdk2 vulnerable to Olm/Megolm protocol confusion,https://github.com/advisories/GHSA-fpgf-pjjv-2qgm,https://bit.ly/3dSzlVM
