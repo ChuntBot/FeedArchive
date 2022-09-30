@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fqfg-c577-2vc3] rdiffweb's unlimited length Fullname field can lead to DoS,https://github.com/advisories/GHSA-fqfg-c577-2vc3,https://bit.ly/3Rsabeg
+GithubAdvisories,[GHSA-5c6q-f783-h888] AWS Redshift JDBC Driver fails to validate class type during object instantiation,https://github.com/advisories/GHSA-5c6q-f783-h888,https://bit.ly/3rhw7yp
+GithubAdvisories,[GHSA-2jjq-x548-rhpv] isolated-vm has vulnerable CachedDataOptions in API,https://github.com/advisories/GHSA-2jjq-x548-rhpv,https://bit.ly/3Rrs3pG
+GithubAdvisories,"[GHSA-w4pr-4vjg-hffh] When matrix-nio receives forwarded room keys, the receiver doesn't check if it requested the key from the forwarder",https://github.com/advisories/GHSA-w4pr-4vjg-hffh,https://bit.ly/3SsysCu
+GithubAdvisories,[GHSA-vp68-2wrm-69qm] matrix-sdk-crypto contains potential impersonation via room key forward responses,https://github.com/advisories/GHSA-vp68-2wrm-69qm,https://bit.ly/3SsCn2d
+GithubAdvisories,[GHSA-5w8r-8pgj-5jmf] matrix-js-sdk subject to user impersonation due to key/device identifier confusion in SAS verification,https://github.com/advisories/GHSA-5w8r-8pgj-5jmf,https://bit.ly/3rEefOt
