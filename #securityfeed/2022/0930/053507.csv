@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4rxr-27mm-mxq9] Upstash Adapter missing token verification,https://github.com/advisories/GHSA-4rxr-27mm-mxq9,https://bit.ly/3E4NOst
+GithubAdvisories,[GHSA-52m2-vc4m-jj33] Twig may load a template outside a configured directory when using the filesystem loader,https://github.com/advisories/GHSA-52m2-vc4m-jj33,https://bit.ly/3Cn2ySr
+GithubAdvisories,[GHSA-4phg-hpqm-c3j4] Strapi mishandles hidden attributes within admin API responses,https://github.com/advisories/GHSA-4phg-hpqm-c3j4,https://bit.ly/3Cnx8vc
