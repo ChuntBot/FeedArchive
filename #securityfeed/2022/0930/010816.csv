@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5v95-j4rr-6f3c] rdiffweb's unlimited username field length can lead to DoS,https://github.com/advisories/GHSA-5v95-j4rr-6f3c,https://bit.ly/3StvT3c
+GithubAdvisories,[GHSA-r48r-j8fx-mq2c] matrix-js-sdk subject to user spoofing via Olm/Megolm protocol confusion,https://github.com/advisories/GHSA-r48r-j8fx-mq2c,https://bit.ly/3SqzjDK
+GithubAdvisories,[GHSA-6263-x97c-c4gg] matrix-js-sdk subject to impersonated messages due to permissive key forwarding,https://github.com/advisories/GHSA-6263-x97c-c4gg,https://bit.ly/3E557JT
