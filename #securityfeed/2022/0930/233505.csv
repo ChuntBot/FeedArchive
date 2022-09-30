@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c9qr-f6c8-rgxf] Hertz contains path traversal via normalizePath function,https://github.com/advisories/GHSA-c9qr-f6c8-rgxf,https://bit.ly/3y5GHw7
