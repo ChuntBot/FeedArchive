@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2pvj-p485-cp3m] matrix-android-sdk2 vulnerable to impersonation via forwarded Megolm sessions,https://github.com/advisories/GHSA-2pvj-p485-cp3m,https://bit.ly/3y3qwzp
+GithubAdvisories,[GHSA-6x28-7h8c-chx4] Dompdf allows remote file inclusion because URI validation failure does not halt font registration,https://github.com/advisories/GHSA-6x28-7h8c-chx4,https://bit.ly/3BW4TSO
+GithubAdvisories,[GHSA-cxgf-v2p8-7ph7] NuProcess vulnerable to command-line injection through insertion of NUL character(s),https://github.com/advisories/GHSA-cxgf-v2p8-7ph7,https://bit.ly/3BXZdHL
+GithubAdvisories,[GHSA-j3qw-g67q-7m64] Apache Pulsar Brokers and Proxies vulnerable to Improper Certificate Validation,https://github.com/advisories/GHSA-j3qw-g67q-7m64,https://bit.ly/3y3qw2n
