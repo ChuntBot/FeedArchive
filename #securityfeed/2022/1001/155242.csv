@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9rpw-2h95-666c] Cloudflare GoFlow vulnerable to a Denial of Service in the sflow packet handling package,https://github.com/advisories/GHSA-9rpw-2h95-666c,https://bit.ly/3fA3F81
