@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pwq7-f7f9-cm2j] Dutchoders transfer.sh contains an XSS vulnerability via malicious file upload,https://github.com/advisories/GHSA-pwq7-f7f9-cm2j,https://bit.ly/3RpGoD1
