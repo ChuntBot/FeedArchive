@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8wxf-c45w-g66g] rdiffweb vulnerable to password complexity bypass leading to weak passwords,https://github.com/advisories/GHSA-8wxf-c45w-g66g,https://bit.ly/3roFuwg
+GithubAdvisories,[GHSA-5mqq-7g25-r4wx] FeehiCMS vulnerable to Cross-Site scripting via crafted payload,https://github.com/advisories/GHSA-5mqq-7g25-r4wx,https://bit.ly/3rpYiv3
