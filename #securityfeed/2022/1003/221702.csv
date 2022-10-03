@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-62g7-fpv9-v95f] Inventree vulnerable to Stored Cross-site Scripting,https://github.com/advisories/GHSA-62g7-fpv9-v95f,https://bit.ly/3V0Jlgi
+GithubAdvisories,[GHSA-mgvv-5mxp-xq67] SQLite3 addresses vulnerability in packaged version of libsqlite,https://github.com/advisories/GHSA-mgvv-5mxp-xq67,https://bit.ly/3fDaTIy
