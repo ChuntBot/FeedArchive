@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3fhq-72hw-jqwv] rdiffweb's lack of token name length limit can result in DoS or memory corruption,https://github.com/advisories/GHSA-3fhq-72hw-jqwv,https://bit.ly/3EdPpfv
