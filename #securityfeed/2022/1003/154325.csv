@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Backdoor.Win32.Delf.eg MVID-2022-0647 Remote Command Execution,https://packetstormsecurity.com/files/168602/MVID-2022-0647.txt,https://bit.ly/3Cvr6IZ
+PacketstormSecurity,Joomla Rentalot Plus 19.05 Cross Site Scripting,https://packetstormsecurity.com/files/168601/joomlarentalotplus1905-xss.txt,https://bit.ly/3SPD5GC
+PacketstormSecurity,Backdoor.Win32.NTRC MVID-2022-0646 Hardcoded Credential,https://packetstormsecurity.com/files/168600/MVID-2022-0646.txt,https://bit.ly/3rx5ghD
+PacketstormSecurity,Password Manager For IIS 2.0 Cross Site Scripting,https://packetstormsecurity.com/files/168599/pmforiis20-xss.txt,https://bit.ly/3yc0p9y
+PacketstormSecurity,Joomla MarvikShop ShoppingCart 3.4 Cross Site Scripting,https://packetstormsecurity.com/files/168598/joomlamarviksc34-xss.txt,https://bit.ly/3CsFGRe
+PacketstormSecurity,Joomla MarvikShop ShoppingCart 3.4 SQL Injection,https://packetstormsecurity.com/files/168597/joomlamarviksc34-sql.txt,https://bit.ly/3ye0yJz
+PacketstormSecurity,Google Chrome 103.0.5060.53 network::URLLoader::NotifyCompleted Heap Use-After-Free,https://packetstormsecurity.com/files/168596/GS20221003145930.tgz,https://bit.ly/3dZnwgL
+PacketstormSecurity,Google Chrome 103.0.5060.53 Autofill Assistant Universal Cross Site Scripting,https://packetstormsecurity.com/files/168595/GS20221003145618.txt,https://bit.ly/3ybFumR
+PacketstormSecurity,Windows Kerberos RC4 MD4 Encryption Downgrade Privilege Escalation,https://packetstormsecurity.com/files/168594/GS20221003145132.txt,https://bit.ly/3e3Nr6W
+PacketstormSecurity,Joomla JKassa ShoppingCart 2.0.0 SQL Injection,https://packetstormsecurity.com/files/168593/joomlajkassashoppingcart200-sql.txt,https://bit.ly/3e2FLBY
+PacketstormSecurity,Joomla Easy Shop 1.4.1 Cross Site Scripting,https://packetstormsecurity.com/files/168592/joomlaeasyshop141-xss.txt,https://bit.ly/3yyTd7N
+PacketstormSecurity,Joomla JUX Charity Hub 1.0.4 SQL Injection,https://packetstormsecurity.com/files/168591/joomlajuxcharityhub104-sql.txt,https://bit.ly/3yd4R7Q
