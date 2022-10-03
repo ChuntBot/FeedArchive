@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vh7g-p26c-j2cw] Dex vulnerable to Man-in-the-Middle allowing ID token capture via intercepted authorization code,https://github.com/advisories/GHSA-vh7g-p26c-j2cw,https://bit.ly/3SWrKVj
