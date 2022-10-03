@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2014-0147 (enterprise_linux_desktop, enterprise_linux_eus, enterprise_linux_openstack_platform, enterprise_linux_server, enterprise_linux_server_aus, enterprise_linux_server_tus, enterprise_linux_workstation, fedora, qemu, virtualization)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-0147,https://bit.ly/3fELVIX
+NVD-NIST,"CVE-2016-2338 (debian_linux, ruby)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-2338,https://bit.ly/3V0G5Sc
+NVD-NIST,CVE-2020-27602 (bigbluebutton),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27602,https://bit.ly/3UYJnW1
+NVD-NIST,CVE-2020-35674 (online_invoicing_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35674,https://bit.ly/3M6ycqj
+NVD-NIST,"CVE-2022-29503 (eufy_homebase_2_firmware, uclibc, uclibc-ng)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-29503,https://bit.ly/3C4qF6W
+NVD-NIST,CVE-2022-32169 (bytebase),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32169,https://bit.ly/3M9IAhe
+NVD-NIST,CVE-2022-32170 (bytebase),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32170,https://bit.ly/3STJssw
+NVD-NIST,CVE-2022-38732 (snapcenter),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38732,https://bit.ly/3C4qEzU
+NVD-NIST,"CVE-2022-39168 (robotic_process_automation, robotic_process_automation_for_cloud_pak, robotic_process_automation_for_services)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39168,https://bit.ly/3V028IU
+NVD-NIST,CVE-2022-39173 (wolfssl),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39173,https://bit.ly/3V0oDgy
+NVD-NIST,CVE-2022-39252 (matrix-rust-sdk),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39252,https://bit.ly/3M1Yr13
+NVD-NIST,CVE-2022-39254 (matrix-nio),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39254,https://bit.ly/3Sz8tta
+NVD-NIST,CVE-2022-40472 (zkbio_time),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40472,https://bit.ly/3STJrEY
+NVD-NIST,CVE-2022-40931 (transfer.sh),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40931,https://bit.ly/3M6g2oS
+NVD-NIST,CVE-2022-41429 (bento4),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41429,https://bit.ly/3Sz8sFC
+NVD-NIST,CVE-2022-41430 (bento4),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41430,https://bit.ly/3STJsc0
+NVD-NIST,CVE-2022-41828 (amazon_web_services_redshift_java_database_connectivity_driver),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41828,https://bit.ly/3MhIrsd
