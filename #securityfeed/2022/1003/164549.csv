@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2014-0144 (enterprise_linux_desktop, enterprise_linux_eus, enterprise_linux_openstack_platform, enterprise_linux_server, enterprise_linux_server_aus, enterprise_linux_server_tus, enterprise_linux_workstation, qemu, virtualization)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-0144,https://bit.ly/3rooINR
+NVD-NIST,"CVE-2014-0148 (enterprise_linux_desktop, enterprise_linux_eus, enterprise_linux_openstack_platform, enterprise_linux_server, enterprise_linux_server_aus, enterprise_linux_server_tus, enterprise_linux_workstation, qemu, virtualization)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-0148,https://bit.ly/3UYFWio
+NVD-NIST,CVE-2021-40694 (moodle),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-40694,https://bit.ly/3C0EOC9
+NVD-NIST,CVE-2021-40695 (moodle),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-40695,https://bit.ly/3SRe6CJ
+NVD-NIST,CVE-2022-3326 (rdiffweb),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3326,https://bit.ly/3UYFWPq
