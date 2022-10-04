@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h4h5-3hr4-j3g2] protobuf-java has a potential Denial of Service issue,https://github.com/advisories/GHSA-h4h5-3hr4-j3g2,https://bit.ly/3yfyuFU
+GithubAdvisories,[GHSA-2w6m-q946-399r] Dapr Dashboard vulnerable to Incorrect Access Control,https://github.com/advisories/GHSA-2w6m-q946-399r,https://bit.ly/3SxS8F0
+GithubAdvisories,[GHSA-pc6f-259w-w3j6] Heartex - Label Studio Community Edition vulnerable to SSRF in the Data Import module,https://github.com/advisories/GHSA-pc6f-259w-w3j6,https://bit.ly/3EhC3z9
+GithubAdvisories,[GHSA-rgv9-q543-rqg4] Deserialization of Untrusted Data in FasterXML jackson-databind,https://github.com/advisories/GHSA-rgv9-q543-rqg4,https://bit.ly/3SDIxfN
+GithubAdvisories,[GHSA-jjjh-jjxp-wpff] Deserialization of Untrusted Data in FasterXML jackson-databind,https://github.com/advisories/GHSA-jjjh-jjxp-wpff,https://bit.ly/3yfHHxV
+GithubAdvisories,[GHSA-5gg9-gwj4-mqmj] OrchardCore vulnerable to HTML injection,https://github.com/advisories/GHSA-5gg9-gwj4-mqmj,https://bit.ly/3CxkQ3a
