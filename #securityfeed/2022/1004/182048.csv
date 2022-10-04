@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-33354 (htmly),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-33354,https://bit.ly/3fGErVV
+NVD-NIST,CVE-2021-36830 (comment_guestbook),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-36830,https://bit.ly/3M3SwJ5
+NVD-NIST,CVE-2022-23726 (pingcentral),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23726,https://bit.ly/3yi4b1g
+NVD-NIST,CVE-2022-2529 (goflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2529,https://bit.ly/3e8w70z
+NVD-NIST,CVE-2022-2922 (dotnetnuke),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2922,https://bit.ly/3yaHT1l
+NVD-NIST,CVE-2022-3371 (rdiffweb),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3371,https://bit.ly/3M6VhsT
+NVD-NIST,CVE-2022-37461 (medical_vitrea_view),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37461,https://bit.ly/3rsvDW7
+NVD-NIST,CVE-2022-40277 (joplin),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40277,https://bit.ly/3SZK5Rn
+NVD-NIST,"CVE-2022-40313 (extra_packages_for_enterprise_linux, fedora, moodle)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40313,https://bit.ly/3yctstK
+NVD-NIST,CVE-2022-40314 (moodle),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40314,https://bit.ly/3ydTpc4
+NVD-NIST,"CVE-2022-40315 (extra_packages_for_enterprise_linux, fedora, moodle)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40315,https://bit.ly/3EgdUsB
+NVD-NIST,"CVE-2022-40316 (extra_packages_for_enterprise_linux, fedora, moodle)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40316,https://bit.ly/3EgNzuj
+NVD-NIST,CVE-2022-40943 (dairy_farm_shop_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40943,https://bit.ly/3yeSQ1R
+NVD-NIST,CVE-2022-40944 (dairy_farm_shop_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40944,https://bit.ly/3M9FY2H
+NVD-NIST,CVE-2022-41437 (billing_system_project),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41437,https://bit.ly/3M2MLeF
+NVD-NIST,CVE-2022-41439 (billing_system_project),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41439,https://bit.ly/3yeSCaO
+NVD-NIST,CVE-2022-41440 (billing_system_project),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41440,https://bit.ly/3SWQNau
+NVD-NIST,CVE-2022-41849 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41849,https://bit.ly/3fvXAtk
+NVD-NIST,CVE-2022-41850 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41850,https://bit.ly/3M4KXlc
+NVD-NIST,CVE-2022-41870 (innovaphone_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41870,https://bit.ly/3M3EF5r
+NVD-NIST,"CVE-2022-41975 (vnc_server, vnc_viewer)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41975,https://bit.ly/3SVSF3n
