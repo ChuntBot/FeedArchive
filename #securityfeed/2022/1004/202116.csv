@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7f42-p84j-f58p] Sanitize vulnerable to Improper Input Validation and Cross-site Scripting,https://github.com/advisories/GHSA-7f42-p84j-f58p,https://bit.ly/2JVPaMr
