@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5rc4-v5mj-g8c4] Bytebase does not restrict low privilege user to access admin issues,https://github.com/advisories/GHSA-5rc4-v5mj-g8c4,https://bit.ly/3fw0sq7
