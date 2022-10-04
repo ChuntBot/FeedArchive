@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-2839 (zephyr_project_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2839,https://bit.ly/3V19zzq
+NVD-NIST,CVE-2022-3124 (frontend_file_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3124,https://bit.ly/3Vf3boz
+NVD-NIST,CVE-2022-3125 (frontend_file_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3125,https://bit.ly/3rOexCt
+NVD-NIST,CVE-2022-32173 (orchardcore),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32173,https://bit.ly/3SJ4B9a
+NVD-NIST,"CVE-2022-33883 (advanced_material_exchange, moldflow_adviser, moldflow_communicator, moldflow_synergy)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33883,https://bit.ly/3UZXuul
+NVD-NIST,CVE-2022-36551 (label_studio),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36551,https://bit.ly/3rwzAZQ
+NVD-NIST,CVE-2022-42002 (sonicjs),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42002,https://bit.ly/3fIzyLZ
+NVD-NIST,CVE-2022-42299 (netbackup),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42299,https://bit.ly/3rv5gyR
+NVD-NIST,CVE-2022-42300 (netbackup),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42300,https://bit.ly/3yk2dxd
+NVD-NIST,CVE-2022-42301 (netbackup),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42301,https://bit.ly/3SAirdS
+NVD-NIST,CVE-2022-42303 (netbackup),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42303,https://bit.ly/3yfwAVD
+NVD-NIST,CVE-2022-42304 (netbackup),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42304,https://bit.ly/3SAirKU
+NVD-NIST,CVE-2022-42305 (netbackup),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42305,https://bit.ly/3SRZ2Fv
+NVD-NIST,CVE-2022-42306 (netbackup),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42306,https://bit.ly/3SBsXBx
+NVD-NIST,CVE-2022-42307 (netbackup),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42307,https://bit.ly/3fMof5y
+NVD-NIST,CVE-2022-42308 (netbackup),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42308,https://bit.ly/3M4A3ft
