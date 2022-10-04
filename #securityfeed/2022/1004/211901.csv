@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2j79-8pqc-r7x6] react-native-reanimated vulnerable to ReDoS,https://github.com/advisories/GHSA-2j79-8pqc-r7x6,https://bit.ly/3UX7kxf
+GithubAdvisories,[GHSA-p28h-cc7q-c4fg] css-what vulnerable to ReDoS due to use of insecure regular expression,https://github.com/advisories/GHSA-p28h-cc7q-c4fg,https://bit.ly/3SXu5z2
