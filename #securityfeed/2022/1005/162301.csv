@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-33882 (autodesk_desktop),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33882,https://bit.ly/3ryp30g
+NVD-NIST,"CVE-2022-33890 (autocad, autocad_advance_steel, autocad_architecture, autocad_civil_3d, autocad_electrical, autocad_lt, autocad_map_3d, autocad_mechanical, autocad_mep, autocad_plant_3d, design_review)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33890,https://bit.ly/3C8bJVn
+NVD-NIST,CVE-2022-34428 (hybrid_client),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34428,https://bit.ly/3CAc0Sj
+NVD-NIST,CVE-2022-34429 (hybrid_client),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34429,https://bit.ly/3V7v29O
+NVD-NIST,CVE-2022-35155 (bus_pass_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35155,https://bit.ly/3ryp2JK
+NVD-NIST,CVE-2022-35156 (bus_pass_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35156,https://bit.ly/3T1fent
+NVD-NIST,CVE-2022-38817 (dapr_dashboard),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38817,https://bit.ly/3SZYJIk
+NVD-NIST,CVE-2022-40341 (mojoportal),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40341,https://bit.ly/3SWemAn
+NVD-NIST,CVE-2022-40721 (creativedream_file_uploader),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40721,https://bit.ly/3SUCumY
+NVD-NIST,"CVE-2022-40756 (psql, zen)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40756,https://bit.ly/3SWLdoO
+NVD-NIST,CVE-2022-40923 (lief),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40923,https://bit.ly/3STsFFM
+NVD-NIST,CVE-2022-41301 (subassembly_composer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41301,https://bit.ly/3ST6zmI
+NVD-NIST,CVE-2022-41443 (phpipam),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41443,https://bit.ly/3RA2jHP
+NVD-NIST,CVE-2022-42247 (pfsense),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42247,https://bit.ly/3V3weuY
+NVD-NIST,CVE-2022-42302 (netbackup),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42302,https://bit.ly/3SV7LGk
