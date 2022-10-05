@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-20844 (sd-wan),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20844,https://bit.ly/3RGpsZf
+NVD-NIST,CVE-2022-20847 (ios_xe),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20847,https://bit.ly/3SHixAc
+NVD-NIST,CVE-2022-20848 (ios_xe),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20848,https://bit.ly/3SD8wnS
+NVD-NIST,"CVE-2022-20850 (ios_xe_sd-wan, sd-wan, sd-wan_vbond_orchestrator, sd-wan_vmanage, sd-wan_vsmart_controller)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20850,https://bit.ly/3e3O80d
+NVD-NIST,CVE-2022-20851 (ios_xe),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20851,https://bit.ly/3EiwsbA
+NVD-NIST,CVE-2022-20855 (ios_xe),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20855,https://bit.ly/3EfjQlI
+NVD-NIST,CVE-2022-20856 (ios_xe),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20856,https://bit.ly/3e3O8xf
+NVD-NIST,CVE-2022-20919 (ios_xe),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20919,https://bit.ly/3SD5v6J
+NVD-NIST,"CVE-2022-20930 (sd-wan, sd-wan_vbond_orchestrator, sd-wan_vmanage, sd-wan_vsmart_controller)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20930,https://bit.ly/3SEMpxn
+NVD-NIST,"CVE-2022-20945 (catalyst_9800-40_firmware, catalyst_9800-80_firmware, catalyst_9800-cl_firmware, catalyst_9800-l_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20945,https://bit.ly/3e5HAhB
+NVD-NIST,"CVE-2022-40764 (cli, golang_cli)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40764,https://bit.ly/3Eh98Ll
