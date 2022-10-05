@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c5fp-x2h5-vjv7] Apache Pulsar Java Client vulnerable to Improper Certificate Validation,https://github.com/advisories/GHSA-c5fp-x2h5-vjv7,https://bit.ly/3eaMsBN
