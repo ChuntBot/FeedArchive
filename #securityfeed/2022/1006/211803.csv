@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-77xx-rxvh-q682] HyperSQL DataBase vulnerable to remote code execution when processing untrusted input,https://github.com/advisories/GHSA-77xx-rxvh-q682,https://bit.ly/3ST4EPg
