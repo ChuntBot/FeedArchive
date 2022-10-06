@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-528j-9r78-wffx] etcd user credentials are stored in WAL logs in plaintext,https://github.com/advisories/GHSA-528j-9r78-wffx,https://bit.ly/3Vdk3vB
+GithubAdvisories,[GHSA-4993-m7g5-r9hh] etcd has no minimum password length,https://github.com/advisories/GHSA-4993-m7g5-r9hh,https://bit.ly/3Vdk3M7
+GithubAdvisories,[GHSA-h8g9-6gvh-5mrc] etcd vulnerable to TOCTOU of gateway endpoint authentication,https://github.com/advisories/GHSA-h8g9-6gvh-5mrc,https://bit.ly/3Vdk3f5
+GithubAdvisories,[GHSA-m332-53r6-2w93] etcd's WAL `ReadAll` method vulnerable to an entry with large index causing panic,https://github.com/advisories/GHSA-m332-53r6-2w93,https://bit.ly/3fQAm1l
+GithubAdvisories,[GHSA-gr7w-x2jp-3xgw] Caddy vulnerable to Authentication Bypass due to mishandling of TLS client authentication,https://github.com/advisories/GHSA-gr7w-x2jp-3xgw,https://bit.ly/3eboLt9
+GithubAdvisories,[GHSA-8w7w-67mw-r5p7] generator-jhipster vulnerable to login check Regular Expression Denial of Service,https://github.com/advisories/GHSA-8w7w-67mw-r5p7,https://bit.ly/3rylSWB
