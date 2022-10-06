@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4xh4-v2pq-jvhm] personnummer/dart vulnerable to Improper Input Validation,https://github.com/advisories/GHSA-4xh4-v2pq-jvhm,https://bit.ly/3fSmB2k
+GithubAdvisories,[GHSA-jwpw-q68h-r678] Improper Neutralization of CRLF Sequences in dio,https://github.com/advisories/GHSA-jwpw-q68h-r678,https://bit.ly/3Ch1nCH
+GithubAdvisories,[GHSA-4rgh-jx4f-qfcq] http before 0.13.3 vulnerable to header injection,https://github.com/advisories/GHSA-4rgh-jx4f-qfcq,https://bit.ly/3V9qVKn
