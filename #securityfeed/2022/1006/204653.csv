@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wrx5-rp7m-mm49] JXPath vulnerable to remote code execution when interpreting untrusted XPath expressions,https://github.com/advisories/GHSA-wrx5-rp7m-mm49,https://bit.ly/3MaW789
