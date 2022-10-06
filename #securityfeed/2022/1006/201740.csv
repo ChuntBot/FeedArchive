@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hrrm-895h-xh34] rdiffweb Path Traversal vulnerability,https://github.com/advisories/GHSA-hrrm-895h-xh34,https://bit.ly/3T0mwYv
+GithubAdvisories,[GHSA-7wr6-fj4x-893v] rdiffweb allows a new password to be the same as the previous password,https://github.com/advisories/GHSA-7wr6-fj4x-893v,https://bit.ly/3fObZRY
+GithubAdvisories,[GHSA-9g3v-v24q-jj5p] rdiffweb does not have a rate limit on incorrect password attempts to prevent brute force attacks,https://github.com/advisories/GHSA-9g3v-v24q-jj5p,https://bit.ly/3T0UEnc
+GithubAdvisories,[GHSA-v9fj-h8g6-4w9q] YetiForce CRM vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-v9fj-h8g6-4w9q,https://bit.ly/3MehaGW
+GithubAdvisories,[GHSA-745p-r637-7vvp] Codeigniter4's Secure or HttpOnly flag set in Config\Cookie is not reflected in Cookies issued,https://github.com/advisories/GHSA-745p-r637-7vvp,https://bit.ly/3SSQKwy
+GithubAdvisories,[GHSA-38hf-c37x-32hv] LIEF vulnerable to denial of service through segmentation fault,https://github.com/advisories/GHSA-38hf-c37x-32hv,https://bit.ly/3T725Jz
+GithubAdvisories,[GHSA-rm2x-hgr8-w343] LIEF vulnerable to denial of service through segmentation fault,https://github.com/advisories/GHSA-rm2x-hgr8-w343,https://bit.ly/3fDtMeo
+GithubAdvisories,[GHSA-m5m3-46gj-wch8] SIF's Digital Signature Hash Algorithms Not Validated,https://github.com/advisories/GHSA-m5m3-46gj-wch8,https://bit.ly/3Me6nML
+GithubAdvisories,[GHSA-px9g-8hgv-jvg2] kamadak-exif vulnerable to Infinite loop when parsing PNG files,https://github.com/advisories/GHSA-px9g-8hgv-jvg2,https://bit.ly/3fLNaGc
+GithubAdvisories,[GHSA-5hw4-m7f3-hhx8] TCPDF vulnerable to attackers triggering deserialization of arbitrary data,https://github.com/advisories/GHSA-5hw4-m7f3-hhx8,https://bit.ly/3T5ew8q
