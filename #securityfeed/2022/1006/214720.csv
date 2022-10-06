@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-398j-f7m7-795j] PHPMailer vulnerable to email header injection,https://github.com/advisories/GHSA-398j-f7m7-795j,https://bit.ly/3RJsTyq
