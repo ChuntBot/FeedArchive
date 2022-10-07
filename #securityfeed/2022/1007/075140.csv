@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xrx9-gj26-5wx9] v8n vulnerable to Inefficient Regular Expression Complexity,https://github.com/advisories/GHSA-xrx9-gj26-5wx9,https://bit.ly/3ryWEHD
+GithubAdvisories,[GHSA-8r99-h8j2-rw64] Twisted vulnerable to HTTP Request Smuggling Attacks,https://github.com/advisories/GHSA-8r99-h8j2-rw64,https://bit.ly/3Eu1b5T
+GithubAdvisories,[GHSA-cg8c-gc2j-2wf7] Flask-Security vulnerable to Open Redirect,https://github.com/advisories/GHSA-cg8c-gc2j-2wf7,https://bit.ly/3Elxtji
+GithubAdvisories,[GHSA-x279-68rr-jp4p] Blst vulnerable to incorrect results for some inputs in blst_fp_eucl_inverse function,https://github.com/advisories/GHSA-x279-68rr-jp4p,https://bit.ly/3ec0cwb
+GithubAdvisories,[GHSA-p658-8693-mhvg] Tendermint Core vulnerable to Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-p658-8693-mhvg,https://bit.ly/3T2gC9b
