@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-40556 (rt-ax56u_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-40556,https://bit.ly/3C9uMi4
+NVD-NIST,CVE-2022-2637 (storage_plug-in),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2637,https://bit.ly/3rFDuQi
+NVD-NIST,CVE-2022-2781 (octopus_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2781,https://bit.ly/3ypIZGA
+NVD-NIST,CVE-2022-2783 (octopus_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2783,https://bit.ly/3rF8EHG
+NVD-NIST,CVE-2022-2975 (aura_application_enablement_services),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2975,https://bit.ly/3yqXAS1
+NVD-NIST,CVE-2022-2986 (moodle),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2986,https://bit.ly/3rGMRiO
+NVD-NIST,CVE-2022-31008 (rabbitmq),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-31008,https://bit.ly/3yoQVYw
+NVD-NIST,CVE-2022-32171 (zinc),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32171,https://bit.ly/3ypJBfd
+NVD-NIST,CVE-2022-32172 (zinc),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32172,https://bit.ly/3rHzHlz
+NVD-NIST,"CVE-2022-33884 (autocad, autocad_advance_steel, autocad_architecture, autocad_civil_3d, autocad_electrical, autocad_lt, autocad_map_3d, autocad_mechanical, autocad_mep, autocad_plant_3d)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33884,https://bit.ly/3MdmNoS
+NVD-NIST,"CVE-2022-36774 (robotic_process_automation, robotic_process_automation_as_a_service, robotic_process_automation_for_cloud_pak)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36774,https://bit.ly/3ykoECz
+NVD-NIST,CVE-2022-38709 (robotic_process_automation_for_cloud_pak),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38709,https://bit.ly/3rHzE9n
+NVD-NIST,CVE-2022-39222 (dex),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39222,https://bit.ly/3Cg1Apx
+NVD-NIST,CVE-2022-39237 (singularity_image_format),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39237,https://bit.ly/3eiBSZJ
+NVD-NIST,CVE-2022-39244 (pjsip),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39244,https://bit.ly/3rCCoEL
+NVD-NIST,CVE-2022-39269 (pjsip),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39269,https://bit.ly/3rBSezJ
