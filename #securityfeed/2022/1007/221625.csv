@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3q8r-f3pj-3gc4] Apache Airflow may allow authenticated users who have been deactivated to continue using the UI or API,https://github.com/advisories/GHSA-3q8r-f3pj-3gc4,https://bit.ly/3RL4aJS
+GithubAdvisories,[GHSA-cqmr-rcpr-cxh3] Ansible password prompts could expose passwords,https://github.com/advisories/GHSA-cqmr-rcpr-cxh3,https://bit.ly/3fVNyCg
+GithubAdvisories,[GHSA-m4wh-848j-9w2r] Katello cleartext password storage issue,https://github.com/advisories/GHSA-m4wh-848j-9w2r,https://bit.ly/3fUy4hT
