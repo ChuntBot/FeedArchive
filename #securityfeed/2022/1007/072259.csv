@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9jjw-hf72-3mxw] TensorFlow vulnerable to heap out of bounds read in filesystem glob matching,https://github.com/advisories/GHSA-9jjw-hf72-3mxw,https://bit.ly/3rE0izM
+GithubAdvisories,[GHSA-4xqx-pqpj-9fqw] gajira-create GitHub action vulnerable to arbitrary code execution,https://github.com/advisories/GHSA-4xqx-pqpj-9fqw,https://bit.ly/3rBbblQ
+GithubAdvisories,"[GHSA-93m7-c69f-5cfj] xmlquery lacks check for whether LoadURL response is in XML format, causing denial of service",https://github.com/advisories/GHSA-93m7-c69f-5cfj,https://bit.ly/3yn2hfO
+GithubAdvisories,[GHSA-mqqv-chpx-vq25] goxmldsig vulnerable to crash on nil-pointer dereference caused by sending malformed XML signatures,https://github.com/advisories/GHSA-mqqv-chpx-vq25,https://bit.ly/3eeh6dG
