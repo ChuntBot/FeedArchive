@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jh7q-5mwf-qvhw] Keycloak vulnerable to Server-Side Request Forgery,https://github.com/advisories/GHSA-jh7q-5mwf-qvhw,https://bit.ly/3CJpUBT
+GithubAdvisories,[GHSA-pj2c-h76w-vv6f] tiny-csrf has openly visible CSRF tokens,https://github.com/advisories/GHSA-pj2c-h76w-vv6f,https://bit.ly/3CeDuf3
+GithubAdvisories,[GHSA-p75c-5x3h-cxcg] Fat Free CRM vulnerable to Remote Denial of Service via Tasks endpoint,https://github.com/advisories/GHSA-p75c-5x3h-cxcg,https://bit.ly/3ymB7FW
