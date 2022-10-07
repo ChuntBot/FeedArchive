@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q3wr-qw3g-3p4h] Injection/XSS in Redcarpet,https://github.com/advisories/GHSA-q3wr-qw3g-3p4h,https://bit.ly/3qf0WBh
+GithubAdvisories,[GHSA-cghx-9gcr-r42x] Path Traversal in the Java Kubernetes Client,https://github.com/advisories/GHSA-cghx-9gcr-r42x,https://bit.ly/2YqAaK7
+GithubAdvisories,[GHSA-m6gj-h9gm-gw44] Incorrect Default Permissions,https://github.com/advisories/GHSA-m6gj-h9gm-gw44,https://bit.ly/3cLiW0W
+GithubAdvisories,[GHSA-fr28-569j-53c4] Incorrect Default Permissions,https://github.com/advisories/GHSA-fr28-569j-53c4,https://bit.ly/30W0PzL
+GithubAdvisories,[GHSA-2mh8-gx2m-mr75] Out-of-Memory Error in Bouncy Castle Crypto,https://github.com/advisories/GHSA-2mh8-gx2m-mr75,https://bit.ly/3eh8i1b
