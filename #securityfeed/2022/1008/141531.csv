@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-30613 (qradar_security_information_and_event_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30613,https://bit.ly/3rFEwf7
+NVD-NIST,CVE-2022-34308 (cics_tx),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34308,https://bit.ly/3EIVQI3
+NVD-NIST,CVE-2022-39848 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39848,https://bit.ly/3rDHz7x
+NVD-NIST,CVE-2022-39849 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39849,https://bit.ly/3rM8xtz
+NVD-NIST,CVE-2022-39850 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39850,https://bit.ly/3T1lJ9y
+NVD-NIST,CVE-2022-39854 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39854,https://bit.ly/3ysh4Wm
+NVD-NIST,CVE-2022-39856 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39856,https://bit.ly/3rE4r6P
