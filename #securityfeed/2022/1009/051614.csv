@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-15855 (bodhi),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-15855,https://bit.ly/3MhcJei
+NVD-NIST,CVE-2022-22480 (qradar_security_information_and_event_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22480,https://bit.ly/3Mkq45y
+NVD-NIST,CVE-2022-22493 (websphere_automation_for_ibm_cloud_pak_for_watson_aiops),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22493,https://bit.ly/3Ey82v7
+NVD-NIST,CVE-2022-36772 (infosphere_information_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36772,https://bit.ly/3T4lYRm
+NVD-NIST,CVE-2022-39873 (internet),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39873,https://bit.ly/3efoYMa
+NVD-NIST,CVE-2022-39877 (group_sharing),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39877,https://bit.ly/3T9c29q
+NVD-NIST,CVE-2022-41291 (infosphere_information_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41291,https://bit.ly/3T87P5H
+NVD-NIST,CVE-2022-41512 (online_diagnostic_lab_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41512,https://bit.ly/3T5W6Vo
+NVD-NIST,CVE-2022-41513 (online_diagnostic_lab_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41513,https://bit.ly/3MhZU3u
+NVD-NIST,CVE-2022-42092 (backdrop_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42092,https://bit.ly/3T2qXSs
