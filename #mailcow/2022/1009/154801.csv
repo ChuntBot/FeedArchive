@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Add pr_to_nighty_template.yml,https://github.com/mailcow/mailcow-dockerized/commit/eacd9ac2400a6896ee770765fe217992131ed278,https://bit.ly/3fIdp07
+GithubCommitStaging,Use milkmaker as PR author,https://github.com/mailcow/mailcow-dockerized/commit/9444000d461d4ca3b4bf76431360d74c48e999d7,https://bit.ly/3fNYr8V
+GithubCommitStaging,Merge pull request #4789 from mailcow/feat/prtonightlyaction,https://github.com/mailcow/mailcow-dockerized/commit/ce4fb069d5b42a0f900cd08a9ae5c2612d2f9da9,https://bit.ly/3MhKSuy
