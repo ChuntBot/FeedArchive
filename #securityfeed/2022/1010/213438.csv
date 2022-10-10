@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c6hx-pjc3-7fqr] Traefik HTTP/2 connections management could cause a denial of service,https://github.com/advisories/GHSA-c6hx-pjc3-7fqr,https://bit.ly/3ErYa5X
+GithubAdvisories,[GHSA-4mjx-2gh5-ph8h] Exposure of sensitive Slack webhook URLs in debug logs and traces,https://github.com/advisories/GHSA-4mjx-2gh5-ph8h,https://bit.ly/3CJjcvA
