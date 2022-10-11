@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vw39-2wj9-4q86] django-mfa2 vulnerable to MFA Replay attack,https://github.com/advisories/GHSA-vw39-2wj9-4q86,https://bit.ly/3CPF0pr
+GithubAdvisories,[GHSA-g3q9-xf95-8hp5] NuGet Elevation of Privilege Vulnerability,https://github.com/advisories/GHSA-g3q9-xf95-8hp5,https://bit.ly/3yxDEge
+GithubAdvisories,[GHSA-7fj2-rrq6-rphq] melisplatform/melis-asset-manager vulnerable to Path Traversal,https://github.com/advisories/GHSA-7fj2-rrq6-rphq,https://bit.ly/3T6Jf5q
+GithubAdvisories,[GHSA-m3m3-6gww-7gj9] melisplatform/melis-cms vulnerable to deserialization of untrusted data,https://github.com/advisories/GHSA-m3m3-6gww-7gj9,https://bit.ly/3SU8vvX
+GithubAdvisories,[GHSA-h479-2mv4-5c26] melisplatform/melis-front vulnerable to deserialization of untrusted data,https://github.com/advisories/GHSA-h479-2mv4-5c26,https://bit.ly/3g1c0lq
+GithubAdvisories,[GHSA-9pgh-qqpf-7wqj] Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') in @xmldom/xmldom and xmldom,https://github.com/advisories/GHSA-9pgh-qqpf-7wqj,https://bit.ly/3T6JfSY
+GithubAdvisories,[GHSA-j4j9-7hg9-97g6] Poetry vulnerable to Untrusted Search Path leading to Local Code Execution on Windows,https://github.com/advisories/GHSA-j4j9-7hg9-97g6,https://bit.ly/3T1bO4A
