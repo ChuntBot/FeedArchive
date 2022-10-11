@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-455w-c45v-86rg] fastify vulnerable to denial of service via malicious Content-Type,https://github.com/advisories/GHSA-455w-c45v-86rg,https://bit.ly/3g0kWaT
