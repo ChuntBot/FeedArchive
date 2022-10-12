@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jc69-hjw2-fm86] com.amazon.redshift:redshift-jdbc42 vulnerable to remote command execution,https://github.com/advisories/GHSA-jc69-hjw2-fm86,https://bit.ly/3g30C8B
