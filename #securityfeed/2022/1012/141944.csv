@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2022-32589 (android, yocto)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32589,https://bit.ly/3CQIOqh
+NVD-NIST,"CVE-2022-32590 (android, yocto)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32590,https://bit.ly/3Vfqa2J
+NVD-NIST,CVE-2022-32591 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32591,https://bit.ly/3RVPoQw
+NVD-NIST,"CVE-2022-32592 (android, yocto)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32592,https://bit.ly/3CSHgfJ
+NVD-NIST,CVE-2022-32593 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32593,https://bit.ly/3VmPnbC
+NVD-NIST,"CVE-2022-36360 (logo!_8_bm_firmware, logo!8_bm_fs-05_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36360,https://bit.ly/3VpZI6n
+NVD-NIST,"CVE-2022-36361 (logo!_8_bm_firmware, logo!8_bm_fs-05_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36361,https://bit.ly/3VnApC8
+NVD-NIST,"CVE-2022-36362 (logo!_8_bm_firmware, logo!8_bm_fs-05_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36362,https://bit.ly/3STONjK
+NVD-NIST,"CVE-2022-36363 (logo!_8_bm_firmware, logo!8_bm_fs-05_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36363,https://bit.ly/3EABVe0
+NVD-NIST,CVE-2022-37864 (solid_edge),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37864,https://bit.ly/3g0PbhX
+NVD-NIST,"CVE-2022-38371 (apogee_modular_building_controller_firmware, apogee_modular_equiment_controller_firmware, apogee_pxc_compact_firmware, apogee_pxc_modular_firmware, desigo_pxc00-e.d_firmware, desigo_pxc00-u_firmware, desigo_pxc001-e.d_firmware, desigo_pxc100-e.d_firmware, desigo_pxc12-e.d_firmware, desigo_pxc128-u_firmware, desigo_pxc200-e.d_firmware, desigo_pxc22-e.d_firmware, desigo_pxc22.1-e.d_firmware, desigo_pxc36.1-e.d_firmware, desigo_pxc50-e.d_firmware, desigo_pxc64-u_firmware, desigo_pxm20-e_firmware, nucleus_net, nucleus_readystart_v3, nucleus_source_code, talon_tc_compact_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38371,https://bit.ly/3SUiUrf
