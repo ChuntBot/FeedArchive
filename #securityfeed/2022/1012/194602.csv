@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-45x9-q6vj-cqgq] Apache Shiro Authentication Bypass vulnerability,https://github.com/advisories/GHSA-45x9-q6vj-cqgq,https://bit.ly/3VmBOZC
+GithubAdvisories,[GHSA-hxmp-pqch-c8mm] Denial of service attack via incorrect parameters in Matrix Synapse,https://github.com/advisories/GHSA-hxmp-pqch-c8mm,https://bit.ly/371RPgA
+GithubAdvisories,[GHSA-cr5j-953j-xw5p] Arbitrary execution of code in Nokogiri,https://github.com/advisories/GHSA-cr5j-953j-xw5p,https://bit.ly/2YONLfw
