@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2p3c-p3qw-69r4] The graphql-upload library included in Apollo Server 2 is vulnerable to CSRF mutations,https://github.com/advisories/GHSA-2p3c-p3qw-69r4,https://bit.ly/3fW380x
