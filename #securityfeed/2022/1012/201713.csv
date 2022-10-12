@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7cm4-vmf2-8wf2] Dolibarr vulnerable to Eval Injection,https://github.com/advisories/GHSA-7cm4-vmf2-8wf2,https://bit.ly/3VnUh8g
+GithubAdvisories,[GHSA-4m5p-5w5w-3jcf] com.enonic.xp:lib-auth vulnerable to Session Fixation,https://github.com/advisories/GHSA-4m5p-5w5w-3jcf,https://bit.ly/3TdCG0P
+GithubAdvisories,[GHSA-633r-r4p8-pw3w] Cross site scripting in Metro UI,https://github.com/advisories/GHSA-633r-r4p8-pw3w,https://bit.ly/3rQNUNe
+GithubAdvisories,[GHSA-7v3g-4878-5qrf] Nomad Panics On Job Submission With Bad Artifact Stanza Source URL,https://github.com/advisories/GHSA-7v3g-4878-5qrf,https://bit.ly/3VoHKRW
+GithubAdvisories,[GHSA-4f63-89w9-3jjv] Using a Custom Cipher with `NID_undef` may lead to NULL encryption,https://github.com/advisories/GHSA-4f63-89w9-3jjv,https://bit.ly/3Vyp2aC
