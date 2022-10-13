@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w67g-6gjv-c599] Powerline Gitstatus vulnerable to arbitrary code execution,https://github.com/advisories/GHSA-w67g-6gjv-c599,https://bit.ly/3RYnG5V
+GithubAdvisories,[GHSA-qj6r-fhrc-jj5r] Remote denial of service in Hyperledger Fabric Gateway,https://github.com/advisories/GHSA-qj6r-fhrc-jj5r,https://bit.ly/3es7vQF
+GithubAdvisories,[GHSA-x4q7-m6fp-4v9v] October CMS Safe Mode bypass leads to authenticated Remote Code Execution,https://github.com/advisories/GHSA-x4q7-m6fp-4v9v,https://bit.ly/3SVzVkW
