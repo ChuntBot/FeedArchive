@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-14129 (xiaomi),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14129,https://bit.ly/3EChBJc
+NVD-NIST,CVE-2020-14131 (xiaomi),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14131,https://bit.ly/3Vq0FvK
+NVD-NIST,CVE-2022-20436 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20436,https://bit.ly/3Mt90KQ
+NVD-NIST,CVE-2022-20437 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20437,https://bit.ly/3CRODUC
+NVD-NIST,CVE-2022-37208 (jfinal_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37208,https://bit.ly/3EE1POc
+NVD-NIST,"CVE-2022-37979 (windows_10, windows_11, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37979,https://bit.ly/3VofC1d
+NVD-NIST,"CVE-2022-37980 (windows_10, windows_11, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37980,https://bit.ly/3ezuzgd
+NVD-NIST,"CVE-2022-37998 (windows_10, windows_11, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37998,https://bit.ly/3Cywz06
+NVD-NIST,"CVE-2022-37999 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37999,https://bit.ly/3EChkWG
+NVD-NIST,"CVE-2022-38000 (windows_10, windows_11, windows_7, windows_8.1, windows_rt_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38000,https://bit.ly/3EChldc
+NVD-NIST,CVE-2022-40921 (dedecms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40921,https://bit.ly/3EFu2UK
+NVD-NIST,CVE-2022-41035 (edge_chromium),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41035,https://bit.ly/3fYApYV
+NVD-NIST,"CVE-2022-41043 (office, office_long_term_servicing_channel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41043,https://bit.ly/3g3ZpOB
+NVD-NIST,CVE-2022-41407 (online_pet_shop_we_app),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41407,https://bit.ly/3Mt91hS
+NVD-NIST,CVE-2022-41408 (online_pet_shop_we_app),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41408,https://bit.ly/3eubBaY
+NVD-NIST,CVE-2022-41530 (open_source_sacco_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41530,https://bit.ly/3CWA9mt
