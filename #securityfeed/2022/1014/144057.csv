@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-31123 (grafana),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-31123,https://bit.ly/3rTJK76
+NVD-NIST,CVE-2022-35080 (swftools),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35080,https://bit.ly/3S2sKGg
+NVD-NIST,CVE-2022-35134 (iot_platform),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35134,https://bit.ly/3rTtyTk
+NVD-NIST,CVE-2022-35612 (mqttroute),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35612,https://bit.ly/3rYi3tK
+NVD-NIST,CVE-2022-39300 (node_saml),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39300,https://bit.ly/3g33Nxf
+NVD-NIST,CVE-2022-41533 (online_diagnostic_lab_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41533,https://bit.ly/3T0NcZu
+NVD-NIST,CVE-2022-41534 (online_diagnostic_lab_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41534,https://bit.ly/3ShrAXT
