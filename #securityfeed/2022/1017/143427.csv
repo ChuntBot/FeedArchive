@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-31130 (grafana),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-31130,https://bit.ly/3CBI47j
+NVD-NIST,CVE-2022-39295 (knowage),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39295,https://bit.ly/3yIFNWE
+NVD-NIST,CVE-2022-39303 (ree6),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39303,https://bit.ly/3ME5E7Y
+NVD-NIST,CVE-2022-42906 (powerline_gitstatus),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42906,https://bit.ly/3TaSsK4
