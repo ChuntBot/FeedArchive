@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Gentoo Linux Security Advisory 202210-09,https://packetstormsecurity.com/files/168756/glsa-202210-09.txt,https://bit.ly/3s1PknX
+PacketstormSecurity,MiniDVBLinux 5.4 Arbitrary File Read,https://packetstormsecurity.com/files/168754/ZSL-2022-5719.txt,https://bit.ly/3eB41LB
+PacketstormSecurity,Gentoo Linux Security Advisory 202210-08,https://packetstormsecurity.com/files/168753/glsa-202210-08.txt,https://bit.ly/3MD0edm
+PacketstormSecurity,WordPress Photo Gallery 1.8.0 Cross Site Scripting,https://packetstormsecurity.com/files/168752/wpphotogallery180-xss.txt,https://bit.ly/3eA5YIc
+PacketstormSecurity,RRX IOB LP 1.0 DNS Cache Snooping,https://packetstormsecurity.com/files/168751/VL-2261.txt,https://bit.ly/3s49UEq
+PacketstormSecurity,MiniDVBLinux 5.4 Remote Root Command Execution,https://packetstormsecurity.com/files/168749/ZSL-2022-5718.txt,https://bit.ly/3gdE7ya
+PacketstormSecurity,WiFi File Transfer 1.0.8 Cross Site Scripting,https://packetstormsecurity.com/files/168746/VL-2322.txt,https://bit.ly/3rZVODR
+PacketstormSecurity,Backdoor.Win32.Redkod.d MVID-2022-0649 Hardcoded Credential,https://packetstormsecurity.com/files/168745/MVID-2022-0649.txt,https://bit.ly/3s7aBfS
+PacketstormSecurity,MiniDVBLinux 5.4 Remote Root Command Injection,https://packetstormsecurity.com/files/168744/ZSL-2022-5717.txt,https://bit.ly/3MBghbJ
+PacketstormSecurity,GNU Privacy Guard 2.3.8,https://packetstormsecurity.com/files/168747/gnupg-2.3.8.tar.bz2,https://bit.ly/3s1PkUZ
+PacketstormSecurity,GNU Privacy Guard 2.2.40,https://packetstormsecurity.com/files/168748/gnupg-2.2.40.tar.bz2,https://bit.ly/3Vz64jT
+PacketstormSecurity,pfSense pfBlockerNG 2.1.4_26 Shell Upload,https://packetstormsecurity.com/files/168743/pfsense_pfblockerng_webshell.rb.txt,https://bit.ly/3MAjPel
+PacketstormSecurity,Spring Cloud Gateway 3.1.0 Remote Code Execution,https://packetstormsecurity.com/files/168742/spring_cloud_gateway_rce.rb.txt,https://bit.ly/3s34byq
