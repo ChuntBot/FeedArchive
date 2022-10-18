@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2qc6-mcvw-92cw] Update bundled libxml2 to v2.10.3 to resolve multiple CVEs,https://github.com/advisories/GHSA-2qc6-mcvw-92cw,https://bit.ly/3CI3zmW
+GithubAdvisories,[GHSA-q4qq-jhjv-7rh2] MySQL JDBC deserialization vulnerability,https://github.com/advisories/GHSA-q4qq-jhjv-7rh2,https://bit.ly/3MEjoQa
+GithubAdvisories,[GHSA-w596-4wvx-j9j6] ReDoS in py library,https://github.com/advisories/GHSA-w596-4wvx-j9j6,https://bit.ly/3MKjFAX
+GithubAdvisories,[GHSA-p8f7-22gq-m7j9] Phoenix before 1.6.14 mishandles check_origin wildcarding,https://github.com/advisories/GHSA-p8f7-22gq-m7j9,https://bit.ly/3MGkFGk
