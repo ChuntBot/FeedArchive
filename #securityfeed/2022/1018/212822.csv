@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f42p-vc8p-7x54] MobSF allows attackers to read arbitrary files via a crafted HTTP request,https://github.com/advisories/GHSA-f42p-vc8p-7x54,https://bit.ly/3s884Cc
+GithubAdvisories,[GHSA-c27j-76xg-6x4f] Kirby CMS vulnerable to user enumeration in the brute force protection,https://github.com/advisories/GHSA-c27j-76xg-6x4f,https://bit.ly/3MIw3S7
+GithubAdvisories,[GHSA-43qq-qw4x-28f8] Kirby CMS vulnerable to user enumeration in the code-based login and password reset forms,https://github.com/advisories/GHSA-43qq-qw4x-28f8,https://bit.ly/3ERP7v7
