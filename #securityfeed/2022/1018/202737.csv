@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mxrx-fg8p-5p5j] Bifrost vulnerable to authentication check flaw that leads to authentication bypass,https://github.com/advisories/GHSA-mxrx-fg8p-5p5j,https://bit.ly/3ghbxMa
