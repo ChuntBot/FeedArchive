@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6mhr-52mv-6v6f] Field-level access-control bypass for multiselect field,https://github.com/advisories/GHSA-6mhr-52mv-6v6f,https://bit.ly/3MDHYAE
+GithubAdvisories,[GHSA-qrw5-5h28-6cmg] Denial-of-service vulnerability in internationalized URLs,https://github.com/advisories/GHSA-qrw5-5h28-6cmg,https://bit.ly/3EZfmjg
+GithubAdvisories,[GHSA-jr6h-r7vg-f9mc] org.ini4j allows attackers to cause a Denial of Service (DoS),https://github.com/advisories/GHSA-jr6h-r7vg-f9mc,https://bit.ly/3VG7qtd
