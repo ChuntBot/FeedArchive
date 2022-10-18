@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h423-w6qv-2wj3] parse-server crashes when receiving file download request with invalid byte range,https://github.com/advisories/GHSA-h423-w6qv-2wj3,https://bit.ly/3SaLWli
