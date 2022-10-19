@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-35rx-7pc8-6963] Jenkins Katalon Plugin stores API keys unencrypted,https://github.com/advisories/GHSA-35rx-7pc8-6963,https://bit.ly/3s9WjLz
+GithubAdvisories,[GHSA-j7pg-863g-22p6] Jenkins Mercurial Plugin provides info about jobs triggered or scheduled for polling through webhook endpoint,https://github.com/advisories/GHSA-j7pg-863g-22p6,https://bit.ly/3VDBBBo
+GithubAdvisories,[GHSA-2w2m-ccf8-57cq] Jenkins REPO Plugin does not configure XML parser to prevent XXE attacks,https://github.com/advisories/GHSA-2w2m-ccf8-57cq,https://bit.ly/3saCwf8
+GithubAdvisories,"[GHSA-5jp2-vwrj-99rf] Team scope authorization bypass when Post/Put request with :team_name in body, allows HTTP parameter pollution",https://github.com/advisories/GHSA-5jp2-vwrj-99rf,https://bit.ly/3S9Mnwg
