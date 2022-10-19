@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-73v5-w6fg-2m44] Jenkins Tuleap Git Branch Source Plugin allows unauthenticated attackers to trigger Tuleap projects whose configured repo matches attacker-specified value,https://github.com/advisories/GHSA-73v5-w6fg-2m44,https://bit.ly/3seRMra
+GithubAdvisories,[GHSA-8cxw-wvhc-p4x4] Jenkins NUnit Plugin vulnerable to Protection Mechanism Failure,https://github.com/advisories/GHSA-8cxw-wvhc-p4x4,https://bit.ly/3gjUOYD
+GithubAdvisories,[GHSA-4g29-r7vj-2rpv] Jenkins Job Import Plugin allows attackers with Overall/Read permission to enumerate credentials IDs of credentials stored in Jenkins,https://github.com/advisories/GHSA-4g29-r7vj-2rpv,https://bit.ly/3s6v8Bw
+GithubAdvisories,[GHSA-2jxx-2x93-2q2f] Jenkins Generic Webhook Trigger Plugin potentially allows attackers to use statistical methods to obtain valid webhook token,https://github.com/advisories/GHSA-2jxx-2x93-2q2f,https://bit.ly/3Shycp5
