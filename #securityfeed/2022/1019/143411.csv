@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-23769 (reversewall-mds),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23769,https://bit.ly/3Tu5uSK
+NVD-NIST,CVE-2022-23770 (smart_wing_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23770,https://bit.ly/3MHa8L8
+NVD-NIST,"CVE-2022-23771 (nas1dual_firmware, nas2dual_firmware, nas4dual_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23771,https://bit.ly/3SfE8Po
+NVD-NIST,CVE-2022-28291 (nessus),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-28291,https://bit.ly/3eDvxbD
