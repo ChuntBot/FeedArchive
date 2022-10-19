@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5fvg-h778-jjjx] Jenkins Katalon Plugin Missing Authorization vulnerability,https://github.com/advisories/GHSA-5fvg-h778-jjjx,https://bit.ly/3EW8ELg
+GithubAdvisories,[GHSA-q6f6-6c4p-xph4] Jenkins Katalon Plugin vulnerable to Protection Mechanism Failure,https://github.com/advisories/GHSA-q6f6-6c4p-xph4,https://bit.ly/3EW8F1M
+GithubAdvisories,[GHSA-x8j7-vxh9-p67g] Jenkins Katalon Plugin vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-x8j7-vxh9-p67g,https://bit.ly/3god3fG
+GithubAdvisories,[GHSA-hvcr-927w-qcvq] Jenkins Contrast Continuous Application Security Plugin vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-hvcr-927w-qcvq,https://bit.ly/3MJMugS
+GithubAdvisories,[GHSA-2x49-wj38-78q9] Jenkins Compuware Topaz Utilities Plugin vulnerable to Protection Mechanism Failure,https://github.com/advisories/GHSA-2x49-wj38-78q9,https://bit.ly/3MJV9Qm
+GithubAdvisories,[GHSA-mf4p-wjrm-cmjp] Jenkins S3 Explorer Plugin 1does not mask the AWS_SECRET_ACCESS_KEY form field,https://github.com/advisories/GHSA-mf4p-wjrm-cmjp,https://bit.ly/3MJ3ELE
+GithubAdvisories,[GHSA-x5gv-5rqv-654m] Jenkins Compuware Topaz for Total Test Plugin allows attackers with Overall/Read permission to enumerate credentials IDs of credentials stored in Jenkins,https://github.com/advisories/GHSA-x5gv-5rqv-654m,https://bit.ly/3s7rDL1
+GithubAdvisories,[GHSA-vhwv-8897-jm7q] Jenkins Compuware Topaz for Total Test Plugin does not configure its XML parser to prevent XXE attacks,https://github.com/advisories/GHSA-vhwv-8897-jm7q,https://bit.ly/3s6Sy9V
+GithubAdvisories,[GHSA-wmfh-h3vm-rcxm] Jenkins NeuVector Vulnerability Scanner Plugin disables Content-Security-Policy protection for user-generated content,https://github.com/advisories/GHSA-wmfh-h3vm-rcxm,https://bit.ly/3MRRhx2
+GithubAdvisories,[GHSA-g66m-fqxf-3w35] Jenkins Pipeline: Input Step Plugin vulnerable to Inappropriate Encoding for Output Context,https://github.com/advisories/GHSA-g66m-fqxf-3w35,https://bit.ly/3MIT5ID
