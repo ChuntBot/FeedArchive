@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-998r-j9rx-qm8m] Apache Isis webconsole module may directly query the database in prototype mode,https://github.com/advisories/GHSA-998r-j9rx-qm8m,https://bit.ly/3s8TMkV
+GithubAdvisories,[GHSA-f4p5-x4vc-mh4v] Improper use of metav1.Duration allows for Denial of Service,https://github.com/advisories/GHSA-f4p5-x4vc-mh4v,https://bit.ly/3CJJ4WR
