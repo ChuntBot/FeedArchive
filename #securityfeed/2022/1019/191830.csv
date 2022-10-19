@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f9qj-7gh3-mhj4] run-terraform allows for RCE via terraform plan,https://github.com/advisories/GHSA-f9qj-7gh3-mhj4,https://bit.ly/3ySkDW0
+GithubAdvisories,[GHSA-5qwq-g2hx-r6f7] Hessian Lite for Apache Dubbo deserialization vulnerability,https://github.com/advisories/GHSA-5qwq-g2hx-r6f7,https://bit.ly/3CMEAih
+GithubAdvisories,[GHSA-7pfc-cc9x-8p4m] Apache Isis Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-7pfc-cc9x-8p4m,https://bit.ly/3eHtJyi
