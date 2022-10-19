@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7qw2-h9gj-hcvh] Jenkins Pipeline: Deprecated Groovy Libraries Plugin vulnerable to Protection Mechanism Failure,https://github.com/advisories/GHSA-7qw2-h9gj-hcvh,https://bit.ly/3TeJtaJ
