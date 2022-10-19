@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f9f9-4r63-4qcc] Jenkins GitLab Plugin potentially allows attackers to use statistical methods to obtain valid webhook token,https://github.com/advisories/GHSA-f9f9-4r63-4qcc,https://bit.ly/3TyJhTx
+GithubAdvisories,[GHSA-64r9-x74q-wxmh] Jenkins Pipeline: Supporting APIs Plugin vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-64r9-x74q-wxmh,https://bit.ly/3TDsy1I
+GithubAdvisories,[GHSA-6rj8-9cm9-6gff] phpMyFAQ vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-6rj8-9cm9-6gff,https://bit.ly/3TCioy4
+GithubAdvisories,[GHSA-rj5f-vm79-5j84] OctoPrint vulnerable to Special Element Injection,https://github.com/advisories/GHSA-rj5f-vm79-5j84,https://bit.ly/3TyJhmv
+GithubAdvisories,[GHSA-mfcw-83qg-4vw3] Jenkins Compuware Xpediter Code Coverage Plugin vulnerable to Protection Mechanism Failure,https://github.com/advisories/GHSA-mfcw-83qg-4vw3,https://bit.ly/3s9XY3O
+GithubAdvisories,[GHSA-4hjj-9gp7-4frg] Jenkins Pipeline: Groovy Libraries Plugin vulnerable to Protection Mechanism Failure,https://github.com/advisories/GHSA-4hjj-9gp7-4frg,https://bit.ly/3eHXE9x
+GithubAdvisories,[GHSA-mqc2-w9r8-mmxm] Jenkins Pipeline: Groovy Plugin allows sandbox protection bypass and arbitrary code execution,https://github.com/advisories/GHSA-mqc2-w9r8-mmxm,https://bit.ly/3Tr2Ihc
+GithubAdvisories,[GHSA-27rf-8mjp-r363] Jenkins Script Security Plugin sandbox bypass vulnerability,https://github.com/advisories/GHSA-27rf-8mjp-r363,https://bit.ly/3Tyz9Kt
+GithubAdvisories,[GHSA-f6mq-6fx5-w2ch] Jenkins Script Security Plugin sandbox bypass vulnerability,https://github.com/advisories/GHSA-f6mq-6fx5-w2ch,https://bit.ly/3saqtP6
+GithubAdvisories,[GHSA-7vr5-72w7-q6jc] Jenkins Script Security Plugin sandbox bypass vulnerability,https://github.com/advisories/GHSA-7vr5-72w7-q6jc,https://bit.ly/3s6rPKC
+GithubAdvisories,[GHSA-cvxj-4745-843x] Jenkins ScreenRecorder Plugin disables Content-Security-Policy protection for user-generated content,https://github.com/advisories/GHSA-cvxj-4745-843x,https://bit.ly/3TzedTH
+GithubAdvisories,[GHSA-px4x-hjm5-w8x3] Jenkins XFramium Builder Plugin disables Content-Security-Policy protection for user-generated content,https://github.com/advisories/GHSA-px4x-hjm5-w8x3,https://bit.ly/3sbSPrW
+GithubAdvisories,[GHSA-hcw3-6459-pwhc] Jenkins Compuware Strobe Measurement Plugin Missing Authorization vulnerability,https://github.com/advisories/GHSA-hcw3-6459-pwhc,https://bit.ly/3TyJiH5
+GithubAdvisories,[GHSA-xp3r-9wx8-q2mm] Jenkins Compuware Topaz for Total Test Plugin vulnerable to Protection Mechanism Failure,https://github.com/advisories/GHSA-xp3r-9wx8-q2mm,https://bit.ly/3eIQQIy
+GithubAdvisories,[GHSA-7fvj-g3wp-29g8] Jenkins Compuware Topaz for Total Test Plugin vulnerable to Protection Mechanism Failure,https://github.com/advisories/GHSA-7fvj-g3wp-29g8,https://bit.ly/3TBzigs
+GithubAdvisories,[GHSA-vf5v-6wjm-vr7v] Jenkins Custom Checkbox Parameter Plugin vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-vf5v-6wjm-vr7v,https://bit.ly/3TyJiqz
+GithubAdvisories,"[GHSA-682j-2p53-xp5f] Jenkins Compuware Source Code Download for Endevor, PDS, and ISPW Plugin vulnerable to Protection Mechanism Failure",https://github.com/advisories/GHSA-682j-2p53-xp5f,https://bit.ly/3eHXDCv
