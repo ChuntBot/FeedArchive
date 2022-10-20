@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vgwq-hfqc-58wv] .NET Core Information Disclosure Vulnerability,https://github.com/advisories/GHSA-vgwq-hfqc-58wv,https://bit.ly/3TEsdvz
+GithubAdvisories,[GHSA-7w4x-4h67-pgmv] Invalid HTTP requests in Reactor Netty HTTP Server may reveal access tokens,https://github.com/advisories/GHSA-7w4x-4h67-pgmv,https://bit.ly/3zm1sV9
+GithubAdvisories,[GHSA-99j5-fvg3-54pm] Rdiffweb is missing authentication for critical function,https://github.com/advisories/GHSA-99j5-fvg3-54pm,https://bit.ly/3VKZln3
+GithubAdvisories,[GHSA-w559-623p-vfg8] MyBatis PageHelper vulnerable to time-blind SQL injection via orderBy parameter,https://github.com/advisories/GHSA-w559-623p-vfg8,https://bit.ly/3TIUrFz
+GithubAdvisories,[GHSA-p373-jqfm-j6wr] Shinken Solutions Shinken Monitoring vulnerable to Incorrect Access Control,https://github.com/advisories/GHSA-p373-jqfm-j6wr,https://bit.ly/3yZW7Tb
+GithubAdvisories,[GHSA-whpx-q3rq-w8jc] Hardening of TypedArrays with non-canonical numeric property names in SES,https://github.com/advisories/GHSA-whpx-q3rq-w8jc,https://bit.ly/3THsfTA
+GithubAdvisories,[GHSA-f8q6-p94x-37v3] minimatch ReDoS vulnerability,https://github.com/advisories/GHSA-f8q6-p94x-37v3,https://bit.ly/3yYUAN6
+GithubAdvisories,[GHSA-3r7j-8mqh-6qhx] Jadx-gui vulnerable to swing HTML Denial of Service (DoS) attack,https://github.com/advisories/GHSA-3r7j-8mqh-6qhx,https://bit.ly/3Ddf3Ak
