@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Merge from upstream branch 'staging',https://github.com/mailcow/mailcow-dockerized/commit/7d46de33d863c604d1f085727f6215ec47fdf0bf,https://bit.ly/3Dekz5R
+GithubCommitStaging,🛠 fix: Language detection,https://github.com/mailcow/mailcow-dockerized/commit/905993d66e86516df3b331f084ffea8ea890d275,https://bit.ly/3DekGOP
+GithubCommitStaging,🛠 fix: Improve language preference algo,https://github.com/mailcow/mailcow-dockerized/commit/cf38d6ca6937b65fabd6be1ec6af53da981f812e,https://bit.ly/3ML3DXs
+GithubCommitStaging,Fix English Flag rendering,https://github.com/mailcow/mailcow-dockerized/commit/cb1602c2dea7de3e939b96014046aeb6ff48b6c3,https://bit.ly/3MPL9oP
+GithubCommitStaging,Merge pull request #4657 from tomy0000000:master,https://github.com/mailcow/mailcow-dockerized/commit/f8d45de74901014b34c07dfa8c4530b4d4206bb0,https://bit.ly/3gpjqPS
