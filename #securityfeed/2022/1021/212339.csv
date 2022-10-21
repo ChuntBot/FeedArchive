@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3w5p-jhp5-c29q] .NET Core & .NET Framework Denial of Service Vulnerability,https://github.com/advisories/GHSA-3w5p-jhp5-c29q,https://bit.ly/3SjAtjr
+GithubAdvisories,[GHSA-3cf7-7wq6-8842] ASP.NET Core Denial of Service Vulnerability,https://github.com/advisories/GHSA-3cf7-7wq6-8842,https://bit.ly/3sfqotd
+GithubAdvisories,"[GHSA-g5vf-38cp-4px9] .NET Framework, SharePoint Server, and Visual Studio Remote Code Execution Vulnerability",https://github.com/advisories/GHSA-g5vf-38cp-4px9,https://bit.ly/3Sm01N2
