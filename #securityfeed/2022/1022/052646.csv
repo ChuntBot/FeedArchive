@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-33231 (service_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-33231,https://bit.ly/3z3gVZW
+NVD-NIST,CVE-2022-42189 (emlog),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42189,https://bit.ly/3Tq1ovc
+NVD-NIST,CVE-2022-43424 (compuware_xpediter_code),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43424,https://bit.ly/3eSLhaF
+NVD-NIST,CVE-2022-43425 (custom_checkbox_parameter),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43425,https://bit.ly/3TH02fl
+NVD-NIST,CVE-2022-43426 (s3_explorer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43426,https://bit.ly/3z0RtUI
+NVD-NIST,CVE-2022-43427 (compuware_topaz_for_total_test),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43427,https://bit.ly/3TNenal
+NVD-NIST,CVE-2022-43428 (compuware_topax_for_total_test),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43428,https://bit.ly/3yY2aHB
+NVD-NIST,CVE-2022-43429 (compuware_topaz_for_total_test),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43429,https://bit.ly/3z1YHbd
+NVD-NIST,CVE-2022-43430 (compuware_topaz_for_total_test),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43430,https://bit.ly/3TByfNG
+NVD-NIST,CVE-2022-43431 (compuware_strobe_measurement),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43431,https://bit.ly/3z2eO8G
