@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f6pc-crhh-cp96] Privilege escalation in Presto,https://github.com/advisories/GHSA-f6pc-crhh-cp96,https://bit.ly/2NJeqUs
+GithubAdvisories,[GHSA-6g6m-m6h5-w9gf] Authorization bypass in express-jwt,https://github.com/advisories/GHSA-6g6m-m6h5-w9gf,https://bit.ly/2ZslrOS
+GithubAdvisories,[GHSA-g975-f26h-93g8] Jenkins Pipeline: Stage View Plugin allows CSRF protection bypass of any target URL in Jenkins,https://github.com/advisories/GHSA-g975-f26h-93g8,https://bit.ly/3eTj5EG
