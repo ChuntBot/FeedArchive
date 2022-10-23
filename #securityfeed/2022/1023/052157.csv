@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2022-41624 (big-ip_access_policy_manager, big-ip_advanced_firewall_manager, big-ip_analytics, big-ip_application_acceleration_manager, big-ip_application_security_manager, big-ip_domain_name_system, big-ip_fraud_protection_service, big-ip_global_traffic_manager, big-ip_link_controller, big-ip_local_traffic_manager, big-ip_policy_enforcement_manager)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41624,https://bit.ly/3eUM2jo
+NVD-NIST,"CVE-2022-41691 (big-ip_advanced_web_application_firewall, big-ip_application_security_manager)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41691,https://bit.ly/3eTTATA
+NVD-NIST,"CVE-2022-41694 (big-ip_access_policy_manager, big-ip_advanced_firewall_manager, big-ip_analytics, big-ip_application_acceleration_manager, big-ip_application_security_manager, big-ip_domain_name_system, big-ip_fraud_protection_service, big-ip_global_traffic_manager, big-ip_link_controller, big-ip_local_traffic_manager, big-ip_policy_enforcement_manager)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41694,https://bit.ly/3z5PFtA
+NVD-NIST,"CVE-2022-41743 (nginx_ingress_controller, nginx_plus)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41743,https://bit.ly/3srrLFb
+NVD-NIST,CVE-2022-43432 (xframium_builder),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43432,https://bit.ly/3z83Luy
+NVD-NIST,CVE-2022-43433 (screenrecorder),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43433,https://bit.ly/3DjVbeN
