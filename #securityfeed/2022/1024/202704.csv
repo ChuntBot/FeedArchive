@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-26732 (iac-ast2500a_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26732,https://bit.ly/3z7L0aU
+NVD-NIST,CVE-2021-26733 (iac-ast2500a_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26733,https://bit.ly/3VYW3Nm
+NVD-NIST,CVE-2021-42010 (heron),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-42010,https://bit.ly/3zc8VG9
+NVD-NIST,CVE-2021-44776 (iac-ast2500a_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44776,https://bit.ly/3z9FBQq
+NVD-NIST,CVE-2021-45925 (iac-ast2500a_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-45925,https://bit.ly/3DrntUI
+NVD-NIST,CVE-2021-46279 (iac-ast2500a_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-46279,https://bit.ly/3W0fl51
+NVD-NIST,CVE-2022-3624 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3624,https://bit.ly/3gqNudJ
+NVD-NIST,CVE-2022-3635 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3635,https://bit.ly/3DoSMzA
+NVD-NIST,CVE-2022-3636 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3636,https://bit.ly/3zd5PS9
+NVD-NIST,CVE-2022-3638 (nginx),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3638,https://bit.ly/3DsDGJt
+NVD-NIST,CVE-2022-3640 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3640,https://bit.ly/3zaYOBv
+NVD-NIST,CVE-2022-3642 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3642,https://bit.ly/3VWNXVr
+NVD-NIST,CVE-2022-39305 (gin-vue-admin),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39305,https://bit.ly/3VUkLyi
+NVD-NIST,CVE-2022-39313 (parse-server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39313,https://bit.ly/3TNCbe4
+NVD-NIST,CVE-2022-41796 (content_transfer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41796,https://bit.ly/3VYchWL
