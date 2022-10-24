@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-23648 (rt-n12e_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-23648,https://bit.ly/3gvfs89
+NVD-NIST,CVE-2021-26727 (iac-ast2500a_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26727,https://bit.ly/3grddmi
+NVD-NIST,CVE-2021-26728 (iac-ast2500a_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26728,https://bit.ly/3za5Je2
+NVD-NIST,CVE-2021-26729 (iac-ast2500a_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26729,https://bit.ly/3f2HTdo
+NVD-NIST,CVE-2021-26730 (iac-ast2500a_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26730,https://bit.ly/3VXHE44
+NVD-NIST,CVE-2021-26731 (iac-ast2500a_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26731,https://bit.ly/3za5IXw
+NVD-NIST,CVE-2021-4228 (iac-ast2500_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-4228,https://bit.ly/3za5Juy
+NVD-NIST,CVE-2021-44467 (iac-ast2500a_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44467,https://bit.ly/3TSbZPo
+NVD-NIST,CVE-2021-44769 (iac-ast2500a_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44769,https://bit.ly/3za5K1A
+NVD-NIST,CVE-2021-46848 (libtasn1),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-46848,https://bit.ly/3sItuGF
+NVD-NIST,CVE-2021-46849 (pikepdf),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-46849,https://bit.ly/3za5JL4
+NVD-NIST,CVE-2022-23462 (iowow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23462,https://bit.ly/3f1Lo3C
+NVD-NIST,CVE-2022-36122 (automox),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36122,https://bit.ly/3za5KyC
+NVD-NIST,CVE-2022-3625 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3625,https://bit.ly/3CVCcWo
+NVD-NIST,CVE-2022-3629 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3629,https://bit.ly/3f6ZkcF
+NVD-NIST,CVE-2022-3647 (redis),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3647,https://bit.ly/3spnan3
+NVD-NIST,CVE-2022-39259 (jadx),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39259,https://bit.ly/3f2HSGm
+NVD-NIST,"CVE-2022-39272 (flux2, helm-controller, image-automation-controller, image-reflector-controller, kustomize-controller, notification-controller, source-controller)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39272,https://bit.ly/3TNjjvK
+NVD-NIST,CVE-2022-40690 (bookstack),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40690,https://bit.ly/3za5Ki6
+NVD-NIST,"CVE-2022-41741 (nginx, nginx_ingress_controller)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41741,https://bit.ly/3sngLcf
+NVD-NIST,"CVE-2022-41742 (nginx, nginx_ingress_controller)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41742,https://bit.ly/3f2HTtU
+NVD-NIST,CVE-2022-41799 (growi),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41799,https://bit.ly/3sqaNXS
+NVD-NIST,CVE-2022-43680 (libexpat),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43680,https://bit.ly/3gE99iP
