@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-3327 (rdiffweb),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3327,https://bit.ly/3F6TOBD
+NVD-NIST,CVE-2022-3577 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3577,https://bit.ly/3f2qUrB
+NVD-NIST,CVE-2022-3619 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3619,https://bit.ly/3N1Cekn
+NVD-NIST,CVE-2022-41575 (enterprise),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41575,https://bit.ly/3zcd254
+NVD-NIST,"CVE-2022-41770 (big-ip_access_policy_manager, big-ip_advanced_firewall_manager, big-ip_analytics, big-ip_application_acceleration_manager, big-ip_application_security_manager, big-ip_domain_name_system, big-ip_fraud_protection_service, big-ip_global_traffic_manager, big-ip_link_controller, big-ip_local_traffic_manager, big-ip_policy_enforcement_manager, big-iq_centralized_management)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41770,https://bit.ly/3Fafcpq
+NVD-NIST,"CVE-2022-41780 (f5os-a, f5os-c)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41780,https://bit.ly/3f2OowP
+NVD-NIST,"CVE-2022-41787 (big-ip_domain_name_system, big-ip_local_traffic_manager)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41787,https://bit.ly/3z8UqTA
+NVD-NIST,CVE-2022-41806 (big-ip_advanced_firewall_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41806,https://bit.ly/3z4DSMn
+NVD-NIST,CVE-2022-42233 (11n_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42233,https://bit.ly/3TMPzzd
+NVD-NIST,"CVE-2022-42936 (autocad, autocad_advance_steel, autocad_architecture, autocad_civil_3d, autocad_electrical, autocad_lt, autocad_map_3d, autocad_mechanical, autocad_mep, autocad_plant_3d, design_review)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42936,https://bit.ly/3TMoRqk
+NVD-NIST,"CVE-2022-42937 (autocad, autocad_advance_steel, autocad_architecture, autocad_civil_3d, autocad_electrical, autocad_lt, autocad_map_3d, autocad_mechanical, autocad_mep, autocad_plant_3d, design_review)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42937,https://bit.ly/3eU1PiJ
+NVD-NIST,"CVE-2022-42938 (autocad, autocad_advance_steel, autocad_architecture, autocad_civil_3d, autocad_electrical, autocad_lt, autocad_map_3d, autocad_mechanical, autocad_mep, autocad_plant_3d, design_review)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42938,https://bit.ly/3FajAop
+NVD-NIST,"CVE-2022-42939 (autocad, autocad_advance_steel, autocad_architecture, autocad_civil_3d, autocad_electrical, autocad_lt, autocad_map_3d, autocad_mechanical, autocad_mep, autocad_plant_3d, design_review)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42939,https://bit.ly/3D0O49K
+NVD-NIST,"CVE-2022-42940 (autocad, autocad_advance_steel, autocad_architecture, autocad_civil_3d, autocad_electrical, autocad_lt, autocad_map_3d, autocad_mechanical, autocad_mep, autocad_plant_3d, design_review)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42940,https://bit.ly/3D4vUEb
+NVD-NIST,"CVE-2022-42941 (autocad, autocad_advance_steel, autocad_architecture, autocad_civil_3d, autocad_electrical, autocad_lt, autocad_map_3d, autocad_mechanical, autocad_mep, autocad_plant_3d, design_review)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42941,https://bit.ly/3TLVYdW
+NVD-NIST,"CVE-2022-42942 (autocad, autocad_advance_steel, autocad_architecture, autocad_civil_3d, autocad_electrical, autocad_lt, autocad_map_3d, autocad_mechanical, autocad_mep, autocad_plant_3d, design_review)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42942,https://bit.ly/3DlLsnh
+NVD-NIST,CVE-2022-43434 (neuvector_vulnerability_scanner),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43434,https://bit.ly/3FaQlSl
+NVD-NIST,CVE-2022-43435 (360_fireline),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43435,https://bit.ly/3FabKLz
