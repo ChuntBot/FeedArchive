@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-59hj-62f5-fgmc] free5GC vulnerable to malformed NGAP message crashing the AMF and NGAP decoders,https://github.com/advisories/GHSA-59hj-62f5-fgmc,https://bit.ly/3SEZDcq
+GithubAdvisories,[GHSA-cwx9-rp4w-4545] Mingsoft MCMS vulnerable to Remote Code Execution via file upload,https://github.com/advisories/GHSA-cwx9-rp4w-4545,https://bit.ly/3DxUC14
+GithubAdvisories,[GHSA-c942-mfmp-p4fh] Markdownify subject to Remote Code Execution via malicious markdown file,https://github.com/advisories/GHSA-c942-mfmp-p4fh,https://bit.ly/3SQPgTf
+GithubAdvisories,[GHSA-47xc-9rr2-q7p4] Improper Control of Generation of Code ('Code Injection') in Azure CLI,https://github.com/advisories/GHSA-47xc-9rr2-q7p4,https://bit.ly/3f3frbg
+GithubAdvisories,[GHSA-2c6m-6gqh-6qg3] Docker Command Escaping in the GitHub Actions Runner,https://github.com/advisories/GHSA-2c6m-6gqh-6qg3,https://bit.ly/3gIfI3I
