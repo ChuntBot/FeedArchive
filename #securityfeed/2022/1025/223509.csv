@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qv37-mfjf-42h8] Plaintext storage of tokens in pulp_ansible,https://github.com/advisories/GHSA-qv37-mfjf-42h8,https://bit.ly/3DcjGcN
+GithubAdvisories,[GHSA-cr84-xvw4-qx3c] Inefficient Regular Expression Complexity in shescape,https://github.com/advisories/GHSA-cr84-xvw4-qx3c,https://bit.ly/3DxmTVo
+GithubAdvisories,[GHSA-hhc4-47rh-cr34] Incorrect is_static parameter for custom stateful precompiles in SputnikVM (evm),https://github.com/advisories/GHSA-hhc4-47rh-cr34,https://bit.ly/3D7PPSK
