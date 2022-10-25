@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-3621 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3621,https://bit.ly/3TQKVju
+NVD-NIST,CVE-2022-3623 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3623,https://bit.ly/3NldsMp
+NVD-NIST,"CVE-2022-37453 (edgeaggregator, edgeconnector, opc, opc_ua_c++_software_development_kit, secure_integration_server, uagates)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37453,https://bit.ly/3ssfKj5
+NVD-NIST,"CVE-2022-39823 (opc, opc_ua_c++_software_development_kit)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39823,https://bit.ly/3gLvfje
