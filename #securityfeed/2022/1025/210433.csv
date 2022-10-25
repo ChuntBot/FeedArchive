@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7gc4-r5jr-9hxv] Gin-vue-admin subject to Remote Code Execution via file upload vulnerability,https://github.com/advisories/GHSA-7gc4-r5jr-9hxv,https://bit.ly/3D020Rq
+GithubAdvisories,[GHSA-xhv5-w9c5-2r2w] Unbounded connection acceptance in http4s-blaze-server,https://github.com/advisories/GHSA-xhv5-w9c5-2r2w,https://bit.ly/3tkBbBD
+GithubAdvisories,[GHSA-23c7-6444-399m] Improper Input Validation in sopel-plugins.channelmgnt,https://github.com/advisories/GHSA-23c7-6444-399m,https://bit.ly/2OApUxL
+GithubAdvisories,[GHSA-7rrj-hqv6-fvpp] Jenkins 360 FireLine Plugin disables Content-Security-Policy protection for user-generated content,https://github.com/advisories/GHSA-7rrj-hqv6-fvpp,https://bit.ly/3gCj0FP
