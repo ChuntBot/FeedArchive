@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2021-46850 (control_panel, vesta_control_panel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-46850,https://bit.ly/3SPLTfj
+NVD-NIST,CVE-2022-3646 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3646,https://bit.ly/3gIPi1N
+NVD-NIST,CVE-2022-3649 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3649,https://bit.ly/3gE73iT
+NVD-NIST,CVE-2022-3676 (openj9),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3676,https://bit.ly/3D7h3cb
+NVD-NIST,CVE-2022-37454 (extended_keccak_code_package),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37454,https://bit.ly/3SyvFqz
+NVD-NIST,CVE-2022-38117 (juiker),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38117,https://bit.ly/3gE732n
+NVD-NIST,CVE-2022-41797 (lemon8),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41797,https://bit.ly/3D6cYoC
+NVD-NIST,CVE-2022-43677 (free5gc),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43677,https://bit.ly/3Ncg6UA
