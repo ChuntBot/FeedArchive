@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,Use milkmaker as PR author,https://github.com/mailcow/mailcow-dockerized/commit/9444000d461d4ca3b4bf76431360d74c48e999d7,https://bit.ly/3fNYr8V
+GithubCommit,Merge pull request #4789 from mailcow/feat/prtonightlyaction,https://github.com/mailcow/mailcow-dockerized/commit/ce4fb069d5b42a0f900cd08a9ae5c2612d2f9da9,https://bit.ly/3MhKSuy
+GithubCommit,[GH-Actions][stale] Update to v6.0.1,https://github.com/mailcow/mailcow-dockerized/commit/44d53146af0c00bfdbeabce802f1d54377b2356d,https://bit.ly/3VfSVMJ
+GithubCommit,[GH-Actions][actionpr] Update to v0.5.1,https://github.com/mailcow/mailcow-dockerized/commit/042676fff7dd95f418383c52586af4d58510d034,https://bit.ly/3Ms23d5
+GithubCommit,Swapped PIGZ instead of gzip,https://github.com/mailcow/mailcow-dockerized/commit/8026b6c87449e4675d1d46f408da26f8e19fe62d,https://bit.ly/3N63VIY
+GithubCommit,Fix English Flag rendering,https://github.com/mailcow/mailcow-dockerized/commit/cb1602c2dea7de3e939b96014046aeb6ff48b6c3,https://bit.ly/3MPL9oP
+GithubCommit,Merge pull request #4657 from tomy0000000:master,https://github.com/mailcow/mailcow-dockerized/commit/f8d45de74901014b34c07dfa8c4530b4d4206bb0,https://bit.ly/3gpjqPS
+GithubCommit,Rename turkish language file for #4657,https://github.com/mailcow/mailcow-dockerized/commit/922603f906704cdd6d86d03d3e026a1511dca50e,https://bit.ly/3Sl1S4B
+GithubCommit,Removed Thread Prompt and set default value to 1 Thread,https://github.com/mailcow/mailcow-dockerized/commit/6306c4555c7221493fac0ff19e9aed2f73459d64,https://bit.ly/3zc38jD
+GithubCommit,Removed debug message,https://github.com/mailcow/mailcow-dockerized/commit/58527857d992e6febc089001122e80bf19ba5f95,https://bit.ly/3Ua6ThV
+GithubCommit,Added PIGZ for Restoring as well,https://github.com/mailcow/mailcow-dockerized/commit/b22ff59f7ba7a26917496b252b78efc213e0980b,https://bit.ly/3D1lLrT
+GithubCommit,Restored Thread Prompt due to implementation in restore,https://github.com/mailcow/mailcow-dockerized/commit/65ca42ca421133bca64733ca474ffd59f5c96add,https://bit.ly/3N2xZoA
+GithubCommit,Bump Redis to version 7,https://github.com/mailcow/mailcow-dockerized/commit/725a5fe5b97b6be896fe367e4c85e8312e0b4877,https://bit.ly/3TPULCr
+GithubCommit,Removed thread prompt again. Added notice message,https://github.com/mailcow/mailcow-dockerized/commit/b73d879f3c681593f763cbf1a0ed286e9edb17e8,https://bit.ly/3SAhr8F
+GithubCommit,Fixed leading / warning removal,https://github.com/mailcow/mailcow-dockerized/commit/50d2671d7511877fae9647c3d82bd3f247a26fab,https://bit.ly/3zfYFMX
+GithubCommit,[RSPAMD] Update to 3.3,https://github.com/mailcow/mailcow-dockerized/commit/2c0f8cda503ab4a4e075428aec1be17faacd38e3,https://bit.ly/3VXNWk3
+GithubCommit,Merge pull request #4806 from mailcow/feature/pigz-backup,https://github.com/mailcow/mailcow-dockerized/commit/963510ed224b4e49b8ceef26021bdc2d120017f2,https://bit.ly/3zdwDln
+GithubCommit,Merge pull request #4816 from mailcow/feature/rspamd-3.3,https://github.com/mailcow/mailcow-dockerized/commit/509086ef54a2d067492a81ea43c53fb8ecde01e1,https://bit.ly/3VRqwwC
+GithubCommit,Merge pull request #4815 from ethrgeist:bump-redis-7,https://github.com/mailcow/mailcow-dockerized/commit/26a5fcf98912d0d45fe4be1ab6f74052b5e1975a,https://bit.ly/3TVG2pI
+GithubCommit,Merge pull request #4819 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/3028a18a37db51d60ca92e8b9a55f77efdb2b37a,https://bit.ly/3f4qlh2
