@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Bump Redis to version 7,https://github.com/mailcow/mailcow-dockerized/commit/725a5fe5b97b6be896fe367e4c85e8312e0b4877,https://bit.ly/3TPULCr
+GithubCommitStaging,Merge pull request #4815 from ethrgeist:bump-redis-7,https://github.com/mailcow/mailcow-dockerized/commit/26a5fcf98912d0d45fe4be1ab6f74052b5e1975a,https://bit.ly/3TVG2pI
