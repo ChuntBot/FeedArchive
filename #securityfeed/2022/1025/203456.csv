@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-95w5-q9vp-5vrm] Heron allows CRLF log injection,https://github.com/advisories/GHSA-95w5-q9vp-5vrm,https://bit.ly/3gKPBcN
+GithubAdvisories,[GHSA-f2rj-m42r-6jm2] Skipper vulnerable to SSRF via X-Skipper-Proxy,https://github.com/advisories/GHSA-f2rj-m42r-6jm2,https://bit.ly/3zjpxM3
+GithubAdvisories,[GHSA-fc4h-xcf3-qj5f] matrix-sdk 0.6.0 logs access tokens,https://github.com/advisories/GHSA-fc4h-xcf3-qj5f,https://bit.ly/3gKPAFL
+GithubAdvisories,[GHSA-c33w-pm52-mqvf] @dependencytrack/frontend vulnerable to Persistent Cross-Site-Scripting via Vulnerability Details,https://github.com/advisories/GHSA-c33w-pm52-mqvf,https://bit.ly/3zjpyj5
+GithubAdvisories,[GHSA-xmw9-q7x9-j5qc] Unbounded connection acceptance leads to file handle exhaustion,https://github.com/advisories/GHSA-xmw9-q7x9-j5qc,https://bit.ly/2YDbmPd
+GithubAdvisories,[GHSA-vj4m-83m8-xpw5] OpenFGA Authorization Bypass via tupleset wildcard,https://github.com/advisories/GHSA-vj4m-83m8-xpw5,https://bit.ly/3TAdulv
+GithubAdvisories,[GHSA-f4mm-2r69-mg5f] OpenFGA Authorization Bypass,https://github.com/advisories/GHSA-f4mm-2r69-mg5f,https://bit.ly/3DuspZ6
+GithubAdvisories,[GHSA-95x7-mh78-7w2r] OpenFGA subject to Information Disclosure via streamed-list-objects endpoint,https://github.com/advisories/GHSA-95x7-mh78-7w2r,https://bit.ly/3Dusr3a
