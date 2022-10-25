@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Swapped PIGZ instead of gzip,https://github.com/mailcow/mailcow-dockerized/commit/8026b6c87449e4675d1d46f408da26f8e19fe62d,https://bit.ly/3N63VIY
+GithubCommitStaging,Removed Thread Prompt and set default value to 1 Thread,https://github.com/mailcow/mailcow-dockerized/commit/6306c4555c7221493fac0ff19e9aed2f73459d64,https://bit.ly/3zc38jD
+GithubCommitStaging,Removed debug message,https://github.com/mailcow/mailcow-dockerized/commit/58527857d992e6febc089001122e80bf19ba5f95,https://bit.ly/3Ua6ThV
+GithubCommitStaging,Added PIGZ for Restoring as well,https://github.com/mailcow/mailcow-dockerized/commit/b22ff59f7ba7a26917496b252b78efc213e0980b,https://bit.ly/3D1lLrT
+GithubCommitStaging,Restored Thread Prompt due to implementation in restore,https://github.com/mailcow/mailcow-dockerized/commit/65ca42ca421133bca64733ca474ffd59f5c96add,https://bit.ly/3N2xZoA
+GithubCommitStaging,Removed thread prompt again. Added notice message,https://github.com/mailcow/mailcow-dockerized/commit/b73d879f3c681593f763cbf1a0ed286e9edb17e8,https://bit.ly/3SAhr8F
+GithubCommitStaging,Fixed leading / warning removal,https://github.com/mailcow/mailcow-dockerized/commit/50d2671d7511877fae9647c3d82bd3f247a26fab,https://bit.ly/3zfYFMX
+GithubCommitStaging,Merge pull request #4806 from mailcow/feature/pigz-backup,https://github.com/mailcow/mailcow-dockerized/commit/963510ed224b4e49b8ceef26021bdc2d120017f2,https://bit.ly/3zdwDln
