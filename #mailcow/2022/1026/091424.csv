@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Compose] Use new (patched) Netfilter Image,https://github.com/mailcow/mailcow-dockerized/commit/52314d1a3566f57227bde28b6f025c403255db1c,https://bit.ly/3suG2kz
+GithubCommitStaging,Merge pull request #4820 from mailcow/feature/netfilter-compose,https://github.com/mailcow/mailcow-dockerized/commit/6f212a41d8162271d7fa329f8e31374fdcfd22e0,https://bit.ly/3D76C8h
