@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vg46-2rrj-3647] Twisted vulnerable to NameVirtualHost Host header injection,https://github.com/advisories/GHSA-vg46-2rrj-3647,https://bit.ly/3sE0uPW
+GithubAdvisories,[GHSA-m678-f26j-3hrp] Execution with Unnecessary Privileges in JupyterApp,https://github.com/advisories/GHSA-m678-f26j-3hrp,https://bit.ly/3N8tlWa
