@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubCommit,[Compose] Use new (patched) Netfilter Image,https://github.com/mailcow/mailcow-dockerized/commit/52314d1a3566f57227bde28b6f025c403255db1c,https://bit.ly/3suG2kz
+GithubCommit,Merge pull request #4820 from mailcow/feature/netfilter-compose,https://github.com/mailcow/mailcow-dockerized/commit/6f212a41d8162271d7fa329f8e31374fdcfd22e0,https://bit.ly/3D76C8h
+GithubCommit,Merge pull request #4769 from ro78/patch-1,https://github.com/mailcow/mailcow-dockerized/commit/6fd9efc30ac2b39663642466132e3e8bbb2996fe,https://bit.ly/3f7UmMU
+GithubCommit,fix encoding failures of parsed text_plain mail,https://github.com/mailcow/mailcow-dockerized/commit/1e08b4ece62f28179912738afc39f6e86b8bbc5b,https://bit.ly/3sxU4BY
+GithubCommit,[RSPAMD] Downgrade to 3.2 (stable),https://github.com/mailcow/mailcow-dockerized/commit/4f14462af7af3ad1107366ad720d0105c034bc7c,https://bit.ly/3TC5EYB
+GithubCommit,Merge pull request #4823 from mailcow/feature/rspamd-downgrade,https://github.com/mailcow/mailcow-dockerized/commit/96dbbf4db6fe2c28ca33454b1cbfde40fe4beb86,https://bit.ly/3TC5FvD
+GithubCommit,Merge pull request #4825 from mailcow/fix/qitems,https://github.com/mailcow/mailcow-dockerized/commit/548d7b983303e0e35a559da29f9d47b95dcf5db2,https://bit.ly/3TC5FM9
+GithubCommit,Merge pull request #4827 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/cb340d78e1d2c537a2c1950b306ee57a7f070e5a,https://bit.ly/3TZnB3q
