@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3f3w-gmqf-4hj3] Apache Linkis subject to Remote Code Execution via deserialization,https://github.com/advisories/GHSA-3f3w-gmqf-4hj3,https://bit.ly/3DyIfRp
+GithubAdvisories,[GHSA-9w4g-fp9h-3q2v] Apache Flume vulnerable to remote code execution via deserialization of unsafe providerURL,https://github.com/advisories/GHSA-9w4g-fp9h-3q2v,https://bit.ly/3gDLlvm
+GithubAdvisories,[GHSA-3fh5-q6fg-w28q] Prototype pollution in Snowboard framework,https://github.com/advisories/GHSA-3fh5-q6fg-w28q,https://bit.ly/3Di81ZM
