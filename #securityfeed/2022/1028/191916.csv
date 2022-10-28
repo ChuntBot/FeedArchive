@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xqv2-3vvq-qg6r] Hashicorp Boundary vulnerable to clickjacking,https://github.com/advisories/GHSA-xqv2-3vvq-qg6r,https://bit.ly/3sDMnu8
+GithubAdvisories,[GHSA-9chr-4fjh-5rgw] Cross-site Scripting in actionpack,https://github.com/advisories/GHSA-9chr-4fjh-5rgw,https://bit.ly/3SNsJGD
+GithubAdvisories,[GHSA-v256-w67v-rx8q] Malware in mailchimp-marketing,https://github.com/advisories/GHSA-v256-w67v-rx8q,https://bit.ly/3zqd8Gh
+GithubAdvisories,[GHSA-5m75-jmvf-mwj2] Malware in mailchimp_transactional,https://github.com/advisories/GHSA-5m75-jmvf-mwj2,https://bit.ly/3TPhxKW
