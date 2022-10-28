@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qm95-pgcg-qqfq] Insufficient validation when decoding a Socket.IO packet,https://github.com/advisories/GHSA-qm95-pgcg-qqfq,https://bit.ly/3gHbR75
+GithubAdvisories,[GHSA-69ch-w2m2-3vjp] Denial of service in golang.org/x/text/language,https://github.com/advisories/GHSA-69ch-w2m2-3vjp,https://bit.ly/3NhxKpO
