@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hff2-x2j9-gxgv] Keylime: unhandled exceptions could lead to invalid attestation states,https://github.com/advisories/GHSA-hff2-x2j9-gxgv,https://bit.ly/3zqnYMr
