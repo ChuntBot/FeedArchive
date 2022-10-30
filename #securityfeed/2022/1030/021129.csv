@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+DebianSecurityNotice,DSA-5265 tomcat9,https://www.debian.org/security/2022/dsa-5265,https://bit.ly/3DKLDK5
+DebianSecurityNotice,DSA-5264 batik,https://www.debian.org/security/2022/dsa-5264,https://bit.ly/3DHzPZ5
+DebianSecurityNotice,DSA-5263 chromium,https://www.debian.org/security/2022/dsa-5263,https://bit.ly/3ztZQsm
