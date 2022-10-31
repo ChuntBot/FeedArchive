@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-2809 (openbmc),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2809,https://bit.ly/3Dn8rye
+NVD-NIST,CVE-2022-3409 (openbmc),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3409,https://bit.ly/3DHLciD
+NVD-NIST,CVE-2022-36182 (boundary),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36182,https://bit.ly/3FwHc6N
+NVD-NIST,CVE-2022-38744 (factorytalk_alarms_and_events),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38744,https://bit.ly/3DqxS1B
+NVD-NIST,CVE-2022-40183 (videojet_multi_4000_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40183,https://bit.ly/3TKmJjj
