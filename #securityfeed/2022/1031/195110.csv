@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vpgf-fgm8-gxr2] Apache DolphinScheduler vulnerable to Path Traversal,https://github.com/advisories/GHSA-vpgf-fgm8-gxr2,https://bit.ly/3TRZQdR
+GithubAdvisories,[GHSA-2rr3-rv49-p42f] phpMyFAQ contains Weak Password Requirements,https://github.com/advisories/GHSA-2rr3-rv49-p42f,https://bit.ly/3DqyZi4
+GithubAdvisories,[GHSA-mg5h-rhjq-6v84] phpMyFAQ vulnerable to reflected Cross-site Scripting,https://github.com/advisories/GHSA-mg5h-rhjq-6v84,https://bit.ly/3UctoCJ
+GithubAdvisories,[GHSA-wr74-2v66-57pp] phpMyFAQ vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-wr74-2v66-57pp,https://bit.ly/3TTOXbg
+GithubAdvisories,[GHSA-p5m3-27vh-52j4] Feather-Sequelize cleanQuery method vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-p5m3-27vh-52j4,https://bit.ly/3TTxT5q
+GithubAdvisories,[GHSA-5hq7-j5wq-p227] feathers-sequelize vulnerable to SQL injection due to improper parameter filtering,https://github.com/advisories/GHSA-5hq7-j5wq-p227,https://bit.ly/3UehcS4
