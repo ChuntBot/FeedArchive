@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pmw9-567p-68pc] OctoRPKI crashes when max iterations is reached,https://github.com/advisories/GHSA-pmw9-567p-68pc,https://bit.ly/3DmcYRj
+GithubAdvisories,[GHSA-9398-5ghf-7pr6] conduit-hyper vulnerable to Denial of Service from unchecked request length,https://github.com/advisories/GHSA-9398-5ghf-7pr6,https://bit.ly/3Ue4B0W
+GithubAdvisories,[GHSA-qpv8-4pjq-qqh7] PENDING feathers-sequelize contains improper input validation leading to SQL injection,https://github.com/advisories/GHSA-qpv8-4pjq-qqh7,https://bit.ly/3UayM9w
