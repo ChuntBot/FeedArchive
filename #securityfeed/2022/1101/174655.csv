@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8rwr-x37p-mx23] X.509 Email Address 4-byte Buffer Overflow,https://github.com/advisories/GHSA-8rwr-x37p-mx23,https://bit.ly/3fsqACL
+GithubAdvisories,[GHSA-h8jm-2x53-xhp5] X.509 Email Address Variable Length Buffer Overflow,https://github.com/advisories/GHSA-h8jm-2x53-xhp5,https://bit.ly/3DQDDqT
+GithubAdvisories,[GHSA-crh6-fp67-6883] xmldom allows multiple root nodes in a DOM,https://github.com/advisories/GHSA-crh6-fp67-6883,https://bit.ly/3DmbxlY
+GithubAdvisories,[GHSA-32vj-v39g-jh23] spring-security-oauth2-client vulnerable to Privilege Escalation,https://github.com/advisories/GHSA-32vj-v39g-jh23,https://bit.ly/3TW54oW
