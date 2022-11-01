@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3gp9-h8hw-pxpw] Denial of service in .NET core,https://github.com/advisories/GHSA-3gp9-h8hw-pxpw,https://bit.ly/3WnEvKL
+GithubAdvisories,[GHSA-8884-xcr4-r68p] Improper Input Validation in Microsoft.NETCore.App,https://github.com/advisories/GHSA-8884-xcr4-r68p,https://bit.ly/3h1E3ls
+GithubAdvisories,[GHSA-vpwh-qmwc-2phg] ProcessWire vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-vpwh-qmwc-2phg,https://bit.ly/3SU7vqz
+GithubAdvisories,[GHSA-8g35-prrr-gxxf] ProcessWire vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-8g35-prrr-gxxf,https://bit.ly/3Wk7Upo
