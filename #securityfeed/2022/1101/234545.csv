@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g24w-373r-5pxg] Use of Insufficiently Random Values in Apereo CAS,https://github.com/advisories/GHSA-g24w-373r-5pxg,https://bit.ly/3FBqdR2
+GithubAdvisories,[GHSA-hhr2-f668-ff2w] Use of a weak cryptographic algorithm in Gradle,https://github.com/advisories/GHSA-hhr2-f668-ff2w,https://bit.ly/3Fwua9z
+GithubAdvisories,[GHSA-7w89-qqxx-c62r] Cross-site Scripting in Jenkins Build Failure Analyzer plugin,https://github.com/advisories/GHSA-7w89-qqxx-c62r,https://bit.ly/3gQud5F
+GithubAdvisories,[GHSA-x869-784m-jmj2] Denial of service in Apache Mesos,https://github.com/advisories/GHSA-x869-784m-jmj2,https://bit.ly/3h6vDta
+GithubAdvisories,[GHSA-32w9-2qpc-5f9v] Docker image code execution with Apache Mesos,https://github.com/advisories/GHSA-32w9-2qpc-5f9v,https://bit.ly/3FBqPpz
+GithubAdvisories,[GHSA-hgq9-q8g2-3jmg] Command Injection in VIVO Vitro,https://github.com/advisories/GHSA-hgq9-q8g2-3jmg,https://bit.ly/3FxCS7z
