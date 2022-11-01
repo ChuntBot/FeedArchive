@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-phf8-3qgv-rg5q] Missing Authorization in Jenkins Blue Ocean Plugin,https://github.com/advisories/GHSA-phf8-3qgv-rg5q,https://bit.ly/3TbDItX
+GithubAdvisories,[GHSA-wxvr-vqfp-9cqw] Denial of service in JBoss resteasy,https://github.com/advisories/GHSA-wxvr-vqfp-9cqw,https://bit.ly/3TXnZzK
+GithubAdvisories,[GHSA-pprq-4488-wgqx] Insecure transport protocol in Gradle,https://github.com/advisories/GHSA-pprq-4488-wgqx,https://bit.ly/3TXnZ2I
+GithubAdvisories,[GHSA-jgj9-6v78-6g8m] Improper Authentication In Apache NiFi,https://github.com/advisories/GHSA-jgj9-6v78-6g8m,https://bit.ly/3sSxUux
+GithubAdvisories,[GHSA-rm5m-9mx4-g5r7] Improper Authentication in Jenkins Blue Ocean Plugin,https://github.com/advisories/GHSA-rm5m-9mx4-g5r7,https://bit.ly/3foIXZ8
+GithubAdvisories,[GHSA-qgjq-m78x-4gm8] Improper Authentication in Jenkins Blue Ocean Plugin,https://github.com/advisories/GHSA-qgjq-m78x-4gm8,https://bit.ly/3TbDJ0Z
+GithubAdvisories,[GHSA-g2fm-x3cp-mqw9] Cross-site Scripting in Apache NiFi,https://github.com/advisories/GHSA-g2fm-x3cp-mqw9,https://bit.ly/3TXnXYE
+GithubAdvisories,[GHSA-pwg7-4hxv-v4cw] Plaintext Storage in Jenkins Spira Importer Plugin,https://github.com/advisories/GHSA-pwg7-4hxv-v4cw,https://bit.ly/3WkFN9r
+GithubAdvisories,[GHSA-vpcv-78cp-whr3] Use after free in Apache Mesos,https://github.com/advisories/GHSA-vpcv-78cp-whr3,https://bit.ly/3TbDJy1
+GithubAdvisories,[GHSA-9523-474x-5h36] Cross site scripting in Jenkins Mission Control Plugin,https://github.com/advisories/GHSA-9523-474x-5h36,https://bit.ly/3TXo1aQ
+GithubAdvisories,[GHSA-f5ch-36rg-vfcc] Cross-Site Request Forgery in Apache CXF Fediz,https://github.com/advisories/GHSA-f5ch-36rg-vfcc,https://bit.ly/3TbDJOx
+GithubAdvisories,[GHSA-2j5w-cwc3-8hxw] Improper Certificate Validation in Jenkins Spira Importer Plugin,https://github.com/advisories/GHSA-2j5w-cwc3-8hxw,https://bit.ly/3TXo1rm
+GithubAdvisories,[GHSA-2hhc-f86x-x74f] Inefficient Regular Expression Complexity in Jenkins Build Failure Analyzer Plugin,https://github.com/advisories/GHSA-2hhc-f86x-x74f,https://bit.ly/3TXo0DO
+GithubAdvisories,[GHSA-543w-gq76-pw7g] Cross-Site Request Forgery in Jenkins Build Failure Analyzer Plugin,https://github.com/advisories/GHSA-543w-gq76-pw7g,https://bit.ly/3sQWDzq
+GithubAdvisories,[GHSA-4r39-f4rh-j6q8] Missing permission check in Jenkins Gerrit Trigger Plugin,https://github.com/advisories/GHSA-4r39-f4rh-j6q8,https://bit.ly/3WkiNaK
+GithubAdvisories,[GHSA-vmvp-2hhx-rgm8] Cross-Site Request Forgery in Jenkins Gerrit Trigger Plugin,https://github.com/advisories/GHSA-vmvp-2hhx-rgm8,https://bit.ly/3TXnZQg
+GithubAdvisories,[GHSA-4vf2-cm23-rf4c] Incorrect Authorization in Jenkins Gerrit Trigger Plugin,https://github.com/advisories/GHSA-4vf2-cm23-rf4c,https://bit.ly/3flpzfP
+GithubAdvisories,[GHSA-wmq2-jc9m-xp4m] Cross-site Scripting in in JRuby,https://github.com/advisories/GHSA-wmq2-jc9m-xp4m,https://bit.ly/3FvWOYq
+GithubAdvisories,[GHSA-wrqc-q8p5-76m5] Incorrect Authorization in Jenkins Gerrit Trigger Plugin,https://github.com/advisories/GHSA-wrqc-q8p5-76m5,https://bit.ly/3TbDKSB
+GithubAdvisories,[GHSA-qxh5-5r5p-5gvf] Cross-Site Request Forgery in Jenkins Blue Ocean Plugin,https://github.com/advisories/GHSA-qxh5-5r5p-5gvf,https://bit.ly/3Fzyg0u
