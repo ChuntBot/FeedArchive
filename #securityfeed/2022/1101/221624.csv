@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9pxm-8g95-q5xr] Insufficient Data Verification in io.really:jwt-scala,https://github.com/advisories/GHSA-9pxm-8g95-q5xr,https://bit.ly/3TYeNej
+GithubAdvisories,[GHSA-j3g9-3fvv-gqfp] Cross-site Scripting In Apache Brooklyn,https://github.com/advisories/GHSA-j3g9-3fvv-gqfp,https://bit.ly/3TUP46p
+GithubAdvisories,[GHSA-273v-g3x4-r3rc] Improper Certificate Validation in vt-ldap,https://github.com/advisories/GHSA-273v-g3x4-r3rc,https://bit.ly/3zCj0w9
+GithubAdvisories,[GHSA-w4x6-j349-9r57] Apache NiFi host header poisoning issue,https://github.com/advisories/GHSA-w4x6-j349-9r57,https://bit.ly/3gWryYh
+GithubAdvisories,[GHSA-frp9-2v6r-gj97] muhammara and hummus vulnerable to null pointer dereference on bad response object,https://github.com/advisories/GHSA-frp9-2v6r-gj97,https://bit.ly/3zz1rwW
+GithubAdvisories,[GHSA-9cv5-4wqv-9w94] muhammara and hummus vulnerable to denial of service by NULL pointer dereference,https://github.com/advisories/GHSA-9cv5-4wqv-9w94,https://bit.ly/3DvJ3pM
