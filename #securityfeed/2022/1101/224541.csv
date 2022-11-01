@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7fjr-5hph-c2mh] Cross-site Scripting in Jenkins Blue Ocean Plugin,https://github.com/advisories/GHSA-7fjr-5hph-c2mh,https://bit.ly/3NqhzXf
+GithubAdvisories,[GHSA-m2fv-3rqm-g7p5] Deserialization of Untrusted Data in org.jboss.resteasy:resteasy-yaml-provider,https://github.com/advisories/GHSA-m2fv-3rqm-g7p5,https://bit.ly/3sQza1c
+GithubAdvisories,[GHSA-hcwx-7q5v-vc67] Path Traversal in OWASP Dependency-Check,https://github.com/advisories/GHSA-hcwx-7q5v-vc67,https://bit.ly/3zAiYoJ
+GithubAdvisories,[GHSA-hf7w-f4h4-9xp8] Exposure of Sensitive Information in Jenkins Datadog plugin,https://github.com/advisories/GHSA-hf7w-f4h4-9xp8,https://bit.ly/3gQlFf5
+GithubAdvisories,[GHSA-9cqh-5x6g-wgm9] Deserialization of Untrusted Data in Apache Brooklyn,https://github.com/advisories/GHSA-9cqh-5x6g-wgm9,https://bit.ly/3Np15P6
+GithubAdvisories,[GHSA-2c9q-qwrc-f486] XML External Entity Reference in org.picketlink:picketlink-common,https://github.com/advisories/GHSA-2c9q-qwrc-f486,https://bit.ly/3NsncV1
+GithubAdvisories,[GHSA-p76j-5v6v-6c22] Apache NiFi JMS Deserialization issue,https://github.com/advisories/GHSA-p76j-5v6v-6c22,https://bit.ly/3UkX293
+GithubAdvisories,[GHSA-wxw2-2mx5-c5qf] Improper Input Validation in OpenSymphony XWork,https://github.com/advisories/GHSA-wxw2-2mx5-c5qf,https://bit.ly/3Np0ywG
+GithubAdvisories,[GHSA-qj7f-j6h9-g5rq] XML External Entity Reference in Apache NiFi,https://github.com/advisories/GHSA-qj7f-j6h9-g5rq,https://bit.ly/3sQ4w8c
+GithubAdvisories,[GHSA-95q3-pppp-r683] Crash when decoding malformed HTTP requests or malformed JSON payload,https://github.com/advisories/GHSA-95q3-pppp-r683,https://bit.ly/3zAiZch
+GithubAdvisories,[GHSA-jvx9-rj3w-jq99] Origin Validation Error in Apache NiFi,https://github.com/advisories/GHSA-jvx9-rj3w-jq99,https://bit.ly/3sOZcSt
+GithubAdvisories,[GHSA-m5r7-w9v3-ghmx] Cross-site Scripting in Apache NiFi,https://github.com/advisories/GHSA-m5r7-w9v3-ghmx,https://bit.ly/3Uhf8bP
+GithubAdvisories,[GHSA-jrcc-7jf5-3pxg] Injection in Apache NiFi,https://github.com/advisories/GHSA-jrcc-7jf5-3pxg,https://bit.ly/3h1ks4X
+GithubAdvisories,[GHSA-68qx-whxm-h4c4] Exposure of sensitive information vulnerability,https://github.com/advisories/GHSA-68qx-whxm-h4c4,https://bit.ly/3No3gTe
+GithubAdvisories,[GHSA-2fx6-r6qx-3c7h] Path Traversal in Apache Oozie,https://github.com/advisories/GHSA-2fx6-r6qx-3c7h,https://bit.ly/3zAiYVL
+GithubAdvisories,[GHSA-v2fp-h4qx-x3r6] Improper Access Control in JBoss mod_cluster,https://github.com/advisories/GHSA-v2fp-h4qx-x3r6,https://bit.ly/3Ue3sGP
