@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8r69-3cvp-wxc3] Batched HTTP requests may set incorrect `cache-control` response header,https://github.com/advisories/GHSA-8r69-3cvp-wxc3,https://bit.ly/3DVtWHE
+GithubAdvisories,[GHSA-9mf2-hpj4-rw3r] TablePress Plugin vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-9mf2-hpj4-rw3r,https://bit.ly/3Ugo69i
+GithubAdvisories,[GHSA-fppq-mj76-fpj2] fluentd vulnerable to remote code execution due to insecure deserialization (in non-default configuration),https://github.com/advisories/GHSA-fppq-mj76-fpj2,https://bit.ly/3U2vlSD
+GithubAdvisories,[GHSA-mcmr-49x3-4jqm] ckb type_id script resume may randomly fail,https://github.com/advisories/GHSA-mcmr-49x3-4jqm,https://bit.ly/3U2vmGb
+GithubAdvisories,[GHSA-7fw6-6mfj-g3q2] ckb: Transaction header_deps validation issue (network forking),https://github.com/advisories/GHSA-7fw6-6mfj-g3q2,https://bit.ly/3UntB6i
+GithubAdvisories,[GHSA-9mfc-chwf-7whf] ckb: Large dep group requires a lot of resources to process but the cost to commit the transaction is very low,https://github.com/advisories/GHSA-9mfc-chwf-7whf,https://bit.ly/3U2vntJ
+GithubAdvisories,[GHSA-39hc-v87j-747x] Vulnerable OpenSSL included in cryptography wheels,https://github.com/advisories/GHSA-39hc-v87j-747x,https://bit.ly/3DVtVn4
+GithubAdvisories,[GHSA-rcrx-fpjp-mfrw] Unchecked Return Value to NULL Pointer Dereference in PDFDocumentHandler.cpp,https://github.com/advisories/GHSA-rcrx-fpjp-mfrw,https://bit.ly/3DVtWr8
