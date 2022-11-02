@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6rh5-23hx-j452] Improper Authorization in Jenkins Core,https://github.com/advisories/GHSA-6rh5-23hx-j452,https://bit.ly/3zzmjEi
+GithubAdvisories,[GHSA-8qxp-g8jv-p37x] Improper Authorization in Jenkins Core,https://github.com/advisories/GHSA-8qxp-g8jv-p37x,https://bit.ly/3NqyVmR
+GithubAdvisories,[GHSA-8qpf-fv36-h4r8] Infinite Loop in Jenkins Core,https://github.com/advisories/GHSA-8qpf-fv36-h4r8,https://bit.ly/3zzEs58
+GithubAdvisories,[GHSA-gjfx-9wx3-j6r7] Path Traversal in Apache MyFaces,https://github.com/advisories/GHSA-gjfx-9wx3-j6r7,https://bit.ly/3zztAnH
+GithubAdvisories,[GHSA-9jcv-v4jp-w3cq] Cross-site Scripting in Jenkins Core,https://github.com/advisories/GHSA-9jcv-v4jp-w3cq,https://bit.ly/3zE1pE3
+GithubAdvisories,[GHSA-8572-5jrg-mx52] Exposure of Sensitive Information in Jenkins Core,https://github.com/advisories/GHSA-8572-5jrg-mx52,https://bit.ly/3U3NqQk
+GithubAdvisories,[GHSA-3857-xm38-jmq2] Incorrect Authorization in Jenkins Core,https://github.com/advisories/GHSA-3857-xm38-jmq2,https://bit.ly/3zAyscl
+GithubAdvisories,[GHSA-59fm-6x3q-q3q5] Missing permissions check in Jenkins Core,https://github.com/advisories/GHSA-59fm-6x3q-q3q5,https://bit.ly/3U9v6VC
+GithubAdvisories,[GHSA-x3rc-cxv7-6xp6] Cross-site Scripting in Jenkins Core,https://github.com/advisories/GHSA-x3rc-cxv7-6xp6,https://bit.ly/3zAdZ7b
+GithubAdvisories,[GHSA-jgpr-qrw2-6gp3] Exposure of Sensitive Information in Jenkins Core,https://github.com/advisories/GHSA-jgpr-qrw2-6gp3,https://bit.ly/3zztOLz
+GithubAdvisories,[GHSA-jmw7-ph6p-33cc] Exposure of Sensitive Information in Jenkins Core,https://github.com/advisories/GHSA-jmw7-ph6p-33cc,https://bit.ly/3zAe8aJ
