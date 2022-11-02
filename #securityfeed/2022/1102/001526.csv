@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5h6x-m52p-23ph] Improper Certificate Validation in Apache Qpid Proton,https://github.com/advisories/GHSA-5h6x-m52p-23ph,https://bit.ly/3SVA6vK
+GithubAdvisories,[GHSA-r9xc-54cq-99r7] Cleartext Storage of Sensitive Information in Jenkins ElasticBox CI Plugin,https://github.com/advisories/GHSA-r9xc-54cq-99r7,https://bit.ly/3h3hnB3
+GithubAdvisories,[GHSA-8x6c-375h-pm4f] Cleartext Storage of Sensitive Information in Jenkins Extensive Testing Plugin,https://github.com/advisories/GHSA-8x6c-375h-pm4f,https://bit.ly/3SPWve0
