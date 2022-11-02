@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-31690 (spring_security),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-31690,https://bit.ly/3DRh85i
+NVD-NIST,CVE-2022-31692 (spring_security),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-31692,https://bit.ly/3DUiV9H
+NVD-NIST,CVE-2022-38142 (infrasuite_device_master),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38142,https://bit.ly/3DnLDy4
+NVD-NIST,CVE-2022-39294 (conduit-hyper),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39294,https://bit.ly/3h2dn3V
+NVD-NIST,CVE-2022-40202 (infrasuite_device_master),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40202,https://bit.ly/3Ue4VNg
+NVD-NIST,CVE-2022-41629 (infrasuite_device_master),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41629,https://bit.ly/3U17HFS
+NVD-NIST,CVE-2022-41644 (infrasuite_device_master),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41644,https://bit.ly/3h40uGF
+NVD-NIST,CVE-2022-41779 (infrasuite_device_master),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41779,https://bit.ly/3Ukwox2
+NVD-NIST,CVE-2022-43082 (fast_food_ordering_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43082,https://bit.ly/3U06rmm
+NVD-NIST,CVE-2022-43083 (vehicle_booking_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43083,https://bit.ly/3U4srwz
+NVD-NIST,CVE-2022-43084 (vehicle_booking_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43084,https://bit.ly/3U0CsuF
