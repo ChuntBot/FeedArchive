@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4q23-g7mf-xp98] Cross-site Scripting in Apache DeltaSpike,https://github.com/advisories/GHSA-4q23-g7mf-xp98,https://bit.ly/3U6gbf8
+GithubAdvisories,[GHSA-fqg2-c97r-rqcj] Exposure of Sensitive Information in Jenkins Kubernetes Plugin,https://github.com/advisories/GHSA-fqg2-c97r-rqcj,https://bit.ly/3WHD7mL
+GithubAdvisories,[GHSA-vwhv-j36g-5rm8] Cross-site Scripting in Apache Struts,https://github.com/advisories/GHSA-vwhv-j36g-5rm8,https://bit.ly/3UbQlXe
+GithubAdvisories,[GHSA-mwrx-hx6x-3hhv] Code injection due to conversion error,https://github.com/advisories/GHSA-mwrx-hx6x-3hhv,https://bit.ly/3FHzyXk
+GithubAdvisories,[GHSA-q5q8-jghf-3pm3] Broken Access Control Vulnerability in Apache Struts2,https://github.com/advisories/GHSA-q5q8-jghf-3pm3,https://bit.ly/3FGblRd
