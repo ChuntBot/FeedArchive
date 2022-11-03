@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2022-32888 (ipad_os, iphone_os, macos, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32888,https://bit.ly/3DVW6CC
+NVD-NIST,"CVE-2022-32889 (iphone_os, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32889,https://bit.ly/3NwDfku
+NVD-NIST,CVE-2022-32890 (macos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32890,https://bit.ly/3DVW65A
+NVD-NIST,"CVE-2022-32892 (ipad_os, iphone_os, macos, safari)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32892,https://bit.ly/3DVW6T8
+NVD-NIST,CVE-2022-32895 (macos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32895,https://bit.ly/3NEDk60
+NVD-NIST,"CVE-2022-32898 (ipad_os, iphone_os, macos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32898,https://bit.ly/3Tih0jT
+NVD-NIST,"CVE-2022-32913 (iphone_os, macos, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32913,https://bit.ly/3NvHgFS
+NVD-NIST,CVE-2022-3308 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3308,https://bit.ly/3T3t7Rm
+NVD-NIST,CVE-2022-3783 (node-red-dashboard),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3783,https://bit.ly/3NzzLxL
+NVD-NIST,CVE-2022-3789 (tim_campus_confession_wall),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3789,https://bit.ly/3DVW79E
+NVD-NIST,CVE-2022-3807 (bento4),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3807,https://bit.ly/3Nux7cN
+NVD-NIST,CVE-2022-3808 (under_construction),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3808,https://bit.ly/3T3t8oo
+NVD-NIST,CVE-2022-40289 (php_point_of_sale),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40289,https://bit.ly/3DCqe4q
+NVD-NIST,CVE-2022-40839 (ndkadvancedcustomizationfields),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40839,https://bit.ly/3NwrGtE
+NVD-NIST,CVE-2022-42309 (xen),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42309,https://bit.ly/3gXPJFE
+NVD-NIST,CVE-2022-42310 (xen),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42310,https://bit.ly/3T3t8Vq
+NVD-NIST,CVE-2022-42320 (xen),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42320,https://bit.ly/3T3t9Zu
+NVD-NIST,CVE-2022-42321 (xen),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42321,https://bit.ly/3T3tag0
+NVD-NIST,CVE-2022-43990 (sim1012-0p0g200_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43990,https://bit.ly/3NyMtgi
