@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xgqr-5wqw-9fpv] Apache UIMA Path Traversal vulnerability,https://github.com/advisories/GHSA-xgqr-5wqw-9fpv,https://bit.ly/3DygyIo
+GithubAdvisories,[GHSA-q2cg-xf9p-h457] Incomplete exclude pattern in Apache Struts,https://github.com/advisories/GHSA-q2cg-xf9p-h457,https://bit.ly/3NAE8IV
+GithubAdvisories,[GHSA-9848-v244-962p] Cross-site Scripting,https://github.com/advisories/GHSA-9848-v244-962p,https://bit.ly/3h9j1RX
+GithubAdvisories,[GHSA-qx6h-9567-5fqw] Arbitrary file write in Apache Commons Fileupload,https://github.com/advisories/GHSA-qx6h-9567-5fqw,https://bit.ly/3NBTBbW
+GithubAdvisories,[GHSA-v6c7-8qx5-8gmp] Deserialization of Untrusted Data in Apache Tomcat,https://github.com/advisories/GHSA-v6c7-8qx5-8gmp,https://bit.ly/3DBSy6W
+GithubAdvisories,[GHSA-v49x-8hvm-q347] Exposure of Sensitive Information in Apache Pluto,https://github.com/advisories/GHSA-v49x-8hvm-q347,https://bit.ly/3zDdNEb
+GithubAdvisories,[GHSA-8699-m855-cwqf] Cross-site scripting in Elasticsearch,https://github.com/advisories/GHSA-8699-m855-cwqf,https://bit.ly/3zIRZY2
+GithubAdvisories,[GHSA-gqqm-564f-vvxq] Arbitrary code execution in Apache Struts 2,https://github.com/advisories/GHSA-gqqm-564f-vvxq,https://bit.ly/3Ws13u6
