@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w47p-5q88-hj5g] Path Traversal in Apache Jetspeed,https://github.com/advisories/GHSA-w47p-5q88-hj5g,https://bit.ly/3zI1JBF
+GithubAdvisories,[GHSA-hj2v-85ph-8g48] Cross-site Scripting in Apache Jetspeed,https://github.com/advisories/GHSA-hj2v-85ph-8g48,https://bit.ly/3fy1KkU
+GithubAdvisories,[GHSA-pr9h-g7p7-rrqh] XML External Entity Reference in Jenkins FindBugs Plugin,https://github.com/advisories/GHSA-pr9h-g7p7-rrqh,https://bit.ly/3hdMeeE
+GithubAdvisories,[GHSA-7m8v-w6f9-q2f9] Cross-site Scripting in Jenkins Rebuilder Plugin,https://github.com/advisories/GHSA-7m8v-w6f9-q2f9,https://bit.ly/3U5THe2
+GithubAdvisories,[GHSA-2rvh-q539-q33v] Cross-Site Request Forgery in Apache Struts,https://github.com/advisories/GHSA-2rvh-q539-q33v,https://bit.ly/3sXYpia
+GithubAdvisories,[GHSA-hrgc-54mv-58gv] Denial of service in Apache Struts,https://github.com/advisories/GHSA-hrgc-54mv-58gv,https://bit.ly/3zI1WVC
+GithubAdvisories,[GHSA-xwf4-88xr-hx2j] Cross site scripting in Apache Sling,https://github.com/advisories/GHSA-xwf4-88xr-hx2j,https://bit.ly/3sYcGvm
+GithubAdvisories,[GHSA-29rm-6752-gvwv] Code execution in Apache Struts 1 plugin,https://github.com/advisories/GHSA-29rm-6752-gvwv,https://bit.ly/3Nx8VpY
+GithubAdvisories,[GHSA-x5fc-pgpx-59j5] Server side object manipulation in Apache Struts,https://github.com/advisories/GHSA-x5fc-pgpx-59j5,https://bit.ly/3h8EUAW
+GithubAdvisories,[GHSA-47qp-8v9g-39hp] Code injection in Apache Struts,https://github.com/advisories/GHSA-47qp-8v9g-39hp,https://bit.ly/3zGI2KO
+GithubAdvisories,[GHSA-4prj-vw9j-v6pr] Arbitrary code execution in Apache Struts 2,https://github.com/advisories/GHSA-4prj-vw9j-v6pr,https://bit.ly/3zGwtDf
+GithubAdvisories,[GHSA-c2hw-w9qm-q5r9] Cross-site Scripting in Jenkins Active Choices plugin,https://github.com/advisories/GHSA-c2hw-w9qm-q5r9,https://bit.ly/3zHoqpz
+GithubAdvisories,[GHSA-pjv3-rh6v-2pj8] Cross-site Scripting in wicket-jquery-ui,https://github.com/advisories/GHSA-pjv3-rh6v-2pj8,https://bit.ly/3zH3BdQ
+GithubAdvisories,[GHSA-pwpc-hqq2-hx2x] Cross-site Scripting in wicket-jquery-ui,https://github.com/advisories/GHSA-pwpc-hqq2-hx2x,https://bit.ly/3NzshLg
