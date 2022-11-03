@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-372q-33vh-8mpc] Inconsistent documentation in Apache Tomcat,https://github.com/advisories/GHSA-372q-33vh-8mpc,https://bit.ly/3E0d7vx
+GithubAdvisories,[GHSA-72x3-c7jc-q35x] Improper authorization in Jenkins Job and Node Ownership Plugin,https://github.com/advisories/GHSA-72x3-c7jc-q35x,https://bit.ly/3sU70Cz
+GithubAdvisories,[GHSA-wr7r-vg3c-54r5] Missing Encryption of Sensitive Data in Apache Guacamole,https://github.com/advisories/GHSA-wr7r-vg3c-54r5,https://bit.ly/3sUNshh
+GithubAdvisories,[GHSA-w47g-4vrc-m3w2] Cross-site Scripting in Apache Pluto Chatroom demo,https://github.com/advisories/GHSA-w47g-4vrc-m3w2,https://bit.ly/3DYF0E9
+GithubAdvisories,[GHSA-6mwh-fw4p-75fj] Deserialization of Untrusted Data in Apache Tapestry,https://github.com/advisories/GHSA-6mwh-fw4p-75fj,https://bit.ly/3zGMLfe
+GithubAdvisories,[GHSA-fjhh-67wv-7gr4] Reflected Cross site scripting (XSS) in kairosdb,https://github.com/advisories/GHSA-fjhh-67wv-7gr4,https://bit.ly/3fA4M8f
