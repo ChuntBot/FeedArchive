@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-prjv-jj26-wf8h] ClassLoader manipulation in Apache Struts,https://github.com/advisories/GHSA-prjv-jj26-wf8h,https://bit.ly/3DDRL5o
+GithubAdvisories,[GHSA-fjq5-5j5f-mvxh] Deserialization of Untrusted Data in Apache commons collections,https://github.com/advisories/GHSA-fjq5-5j5f-mvxh,https://bit.ly/3DsixOg
+GithubAdvisories,[GHSA-vrwc-qjmw-5rjm] ClassLoader manipulation in Apache Struts,https://github.com/advisories/GHSA-vrwc-qjmw-5rjm,https://bit.ly/3DUt7Or
+GithubAdvisories,[GHSA-737w-mh58-cxjp] Arbitrary code execution in Apache Struts,https://github.com/advisories/GHSA-737w-mh58-cxjp,https://bit.ly/3fznTiE
+GithubAdvisories,[GHSA-3c5c-xrq4-qhr8] ClassLoader manipulation in Apache Struts,https://github.com/advisories/GHSA-3c5c-xrq4-qhr8,https://bit.ly/3DDAoSk
+GithubAdvisories,[GHSA-hmhq-382q-mp56] ClassLoader manipulation in Apache Struts,https://github.com/advisories/GHSA-hmhq-382q-mp56,https://bit.ly/3DDl1cv
+GithubAdvisories,[GHSA-44hv-jjx7-qfjg] Path Traversal in Apache Struts,https://github.com/advisories/GHSA-44hv-jjx7-qfjg,https://bit.ly/3fFjCKy
+GithubAdvisories,[GHSA-xg75-68x3-7p3q] Possible DoS attack when using URLValidator,https://github.com/advisories/GHSA-xg75-68x3-7p3q,https://bit.ly/3Dv2LSK
+GithubAdvisories,[GHSA-v67x-gpg7-mwv3] Exposure of Sensitive Information in Jenkins Kubernetes Plugin,https://github.com/advisories/GHSA-v67x-gpg7-mwv3,https://bit.ly/3DBZBwp
+GithubAdvisories,[GHSA-4344-frcp-j22q] Remote code execution due to insecure deserialization,https://github.com/advisories/GHSA-4344-frcp-j22q,https://bit.ly/3Dz34vJ
+GithubAdvisories,[GHSA-j7h6-xr7g-m2c5] Code injection in Apache Struts,https://github.com/advisories/GHSA-j7h6-xr7g-m2c5,https://bit.ly/3DsirWU
+GithubAdvisories,[GHSA-4qgj-9mvg-3929] Special top object can be used to access Struts' internals,https://github.com/advisories/GHSA-4qgj-9mvg-3929,https://bit.ly/3DCaHBA
+GithubAdvisories,[GHSA-86vq-8qhc-5rqw] Possible DoS attack when using URLValidator,https://github.com/advisories/GHSA-86vq-8qhc-5rqw,https://bit.ly/3DDOFOW
+GithubAdvisories,[GHSA-rpj9-r897-wc6q] Open redirect in Apache Struts,https://github.com/advisories/GHSA-rpj9-r897-wc6q,https://bit.ly/3fEHTjX
+GithubAdvisories,[GHSA-q388-j7cw-ff7w] Path Traversal in Eclipse Mojarra,https://github.com/advisories/GHSA-q388-j7cw-ff7w,https://bit.ly/3FIzerm
