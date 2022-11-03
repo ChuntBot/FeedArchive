@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f92p-f8r2-c87q] Tribal Systems Zenario CMS vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-f92p-f8r2-c87q,https://bit.ly/3U4xfSI
+GithubAdvisories,[GHSA-25mx-2mxm-6343] @keystone-6/core's NODE_ENV defaults to development with esbuild,https://github.com/advisories/GHSA-25mx-2mxm-6343,https://bit.ly/3h5eujo
+GithubAdvisories,[GHSA-h63r-9xxf-f2c7] Apache Airflow Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-h63r-9xxf-f2c7,https://bit.ly/3U5nCTH
+GithubAdvisories,[GHSA-f9fq-78ch-4wmj] Apache Airflow Open Redirect vulnerability,https://github.com/advisories/GHSA-f9fq-78ch-4wmj,https://bit.ly/3T40ovR
+GithubAdvisories,[GHSA-jj93-4jr5-x45h] Apache Sling App CMS vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-jj93-4jr5-x45h,https://bit.ly/3FEL9Xi
+GithubAdvisories,[GHSA-59m9-p6cm-94q5] TYPO3 Extension femanager vulnerable to Broken Access Control,https://github.com/advisories/GHSA-59m9-p6cm-94q5,https://bit.ly/3T3MGt3
