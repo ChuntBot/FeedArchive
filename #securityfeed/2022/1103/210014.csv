@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7g54-vgp6-jj5w] XML External Entity Reference in Apache Sling,https://github.com/advisories/GHSA-7g54-vgp6-jj5w,https://bit.ly/3fvTLox
+GithubAdvisories,[GHSA-pw8r-x2qm-3h5m] Arbitrary code execution in Apache Struts 2,https://github.com/advisories/GHSA-pw8r-x2qm-3h5m,https://bit.ly/3zK5Xc5
+GithubAdvisories,[GHSA-m3x6-9v6h-4g28] Cross-site Scripting in Apache Struts,https://github.com/advisories/GHSA-m3x6-9v6h-4g28,https://bit.ly/3SXXgBT
+GithubAdvisories,[GHSA-h4v9-jf2r-9h6m] Cross-Site Request Forgery in Apache Struts,https://github.com/advisories/GHSA-h4v9-jf2r-9h6m,https://bit.ly/3T1W6oH
+GithubAdvisories,[GHSA-3g8j-jj54-3vjg] Cross-site Scripting in Apache Struts,https://github.com/advisories/GHSA-3g8j-jj54-3vjg,https://bit.ly/3DZ0BfH
