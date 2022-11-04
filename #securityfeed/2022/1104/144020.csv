@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-39077 (security_guardium),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-39077,https://bit.ly/3U9J7Tq
+NVD-NIST,CVE-2021-44862 (netskope),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-44862,https://bit.ly/3Uoqt9X
+NVD-NIST,CVE-2021-45446 (vantara_pentaho),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-45446,https://bit.ly/3E2ye0f
+NVD-NIST,CVE-2021-45447 (vantara_pentaho),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-45447,https://bit.ly/3UlPpzD
+NVD-NIST,"CVE-2022-26122 (antivirus_engine, fortimail, fortios)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-26122,https://bit.ly/3E0h7fi
+NVD-NIST,CVE-2022-30307 (fortios),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30307,https://bit.ly/3Uuxrul
+NVD-NIST,CVE-2022-32287 (unstructured_information_management_architecture),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32287,https://bit.ly/3UrSUnu
+NVD-NIST,CVE-2022-33870 (fortitester),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33870,https://bit.ly/3UpScat
+NVD-NIST,CVE-2022-3675 (fedora_coreos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3675,https://bit.ly/3U4soRf
+NVD-NIST,CVE-2022-3825 (huaxia_erp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3825,https://bit.ly/3FKKlAg
+NVD-NIST,CVE-2022-3826 (huaxia_erp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3826,https://bit.ly/3fD8FJK
+NVD-NIST,CVE-2022-39353 (xmldom),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39353,https://bit.ly/3FLq5OT
+NVD-NIST,CVE-2022-41435 (luci),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41435,https://bit.ly/3FMFz5m
+NVD-NIST,CVE-2022-41716 (go),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41716,https://bit.ly/3U7WuU3
+NVD-NIST,CVE-2022-42322 (xen),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42322,https://bit.ly/3UdjVvu
+NVD-NIST,CVE-2022-42751 (candidats),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42751,https://bit.ly/3E39PHW
+NVD-NIST,CVE-2022-44627 (simple_seo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-44627,https://bit.ly/3FOu511
