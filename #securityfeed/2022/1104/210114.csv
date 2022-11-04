@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h95w-p3x6-wwj6] Froxlor vulnerable to Code Injection,https://github.com/advisories/GHSA-h95w-p3x6-wwj6,https://bit.ly/3UtQMfd
+GithubAdvisories,[GHSA-qqhf-xfhw-7884] Markdownify has Files or Directories Accessible to External Parties,https://github.com/advisories/GHSA-qqhf-xfhw-7884,https://bit.ly/3DAfMKR
+GithubAdvisories,[GHSA-7fxj-fr3v-r9gj] TiDB vulnerable to Use of Externally-Controlled Format String,https://github.com/advisories/GHSA-7fxj-fr3v-r9gj,https://bit.ly/3UtQMMf
+GithubAdvisories,[GHSA-j7j7-g4ww-pxg5] Missing certificate validation in Apache JMeter,https://github.com/advisories/GHSA-j7j7-g4ww-pxg5,https://bit.ly/3h0NH7J
+GithubAdvisories,[GHSA-7v85-6hv2-rwgw] Missing certificate validation in Apache JMeter,https://github.com/advisories/GHSA-7v85-6hv2-rwgw,https://bit.ly/3FNz2aA
+GithubAdvisories,[GHSA-85hw-w436-c725] XML External Entity Reference in Apache Cayenne,https://github.com/advisories/GHSA-85hw-w436-c725,https://bit.ly/3UtQLIb
+GithubAdvisories,[GHSA-m4j5-hgqq-5jf2] Insecure cookie sharing in Hawtio,https://github.com/advisories/GHSA-m4j5-hgqq-5jf2,https://bit.ly/3FLCYIT
+GithubAdvisories,[GHSA-9g8w-pjpr-prr4] Path Traversal in io.hawt:project,https://github.com/advisories/GHSA-9g8w-pjpr-prr4,https://bit.ly/3FLDd6I
