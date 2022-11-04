@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rjhx-c9qh-qh8f] Cross-site Scripting in Eclipse Mojarra,https://github.com/advisories/GHSA-rjhx-c9qh-qh8f,https://bit.ly/3gZkM3U
+GithubAdvisories,[GHSA-8mx3-gp3p-vgg7] Missing certificate validation,https://github.com/advisories/GHSA-8mx3-gp3p-vgg7,https://bit.ly/3WGdLpg
+GithubAdvisories,[GHSA-j68f-8h6p-9h5q] ParameterInterceptor vulnerability allows remote command execution,https://github.com/advisories/GHSA-j68f-8h6p-9h5q,https://bit.ly/3DCk982
+GithubAdvisories,[GHSA-7h24-4x4c-69mf] Improper Authorization in Jenkins Alauda Kubernetes Suport Plugin,https://github.com/advisories/GHSA-7h24-4x4c-69mf,https://bit.ly/3UqttCM
+GithubAdvisories,[GHSA-5hvr-3fcr-wx8c] Cross-Site Request Forgery in Jenkins Alauda Kubernetes Suport Plugin,https://github.com/advisories/GHSA-5hvr-3fcr-wx8c,https://bit.ly/3UkzDo4
+GithubAdvisories,[GHSA-265r-pp83-gww7] Cross-site Scripting in Apache Struts,https://github.com/advisories/GHSA-265r-pp83-gww7,https://bit.ly/3WGdKSe
+GithubAdvisories,[GHSA-pvm9-288c-v5wq] Remote Code Execution in Apache Struts,https://github.com/advisories/GHSA-pvm9-288c-v5wq,https://bit.ly/3Uor9MJ
