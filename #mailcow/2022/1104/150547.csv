@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommit,Add new action Check PRs if on staging,https://github.com/mailcow/mailcow-dockerized/commit/abfad4e0257c8865f1364843254992dee70468cf,https://bit.ly/3WxiwBu
+GithubCommit,Merge pull request #4837 from mailcow/feat/action-check_prs_if_on_sta…,https://github.com/mailcow/mailcow-dockerized/commit/eb9d360c0a479b302073514f28b15fb3f3d9bfa8,https://bit.ly/3UrLIbe
