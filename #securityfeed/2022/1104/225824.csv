@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p2r4-rpj8-m2p9] Cross-site Scripting in Apache JSPWiki,https://github.com/advisories/GHSA-p2r4-rpj8-m2p9,https://bit.ly/3DArAg9
+GithubAdvisories,[GHSA-38hf-xjmx-jrh8] Cross-site Scripting in Graylog Server,https://github.com/advisories/GHSA-38hf-xjmx-jrh8,https://bit.ly/3UsP1i6
+GithubAdvisories,[GHSA-4q2v-j639-cp7p] Improper Access Control in Apache Shiro,https://github.com/advisories/GHSA-4q2v-j639-cp7p,https://bit.ly/3fHWcUS
+GithubAdvisories,[GHSA-h7g4-65mf-6mxh] Cross-site Scripting in Graylog Server,https://github.com/advisories/GHSA-h7g4-65mf-6mxh,https://bit.ly/3DEClxP
+GithubAdvisories,[GHSA-rfj2-4g26-7jw5] Potentially compromised builds,https://github.com/advisories/GHSA-rfj2-4g26-7jw5,https://bit.ly/3FLBYnN
+GithubAdvisories,[GHSA-r9pv-hg64-jqrp] Exposure of Sensitive Information in Apache Storm Logviewer,https://github.com/advisories/GHSA-r9pv-hg64-jqrp,https://bit.ly/3FUlb1U
+GithubAdvisories,[GHSA-69wp-3pm3-hxgg] Deserialization of Untrusted Data in Apache Dubbo,https://github.com/advisories/GHSA-69wp-3pm3-hxgg,https://bit.ly/3FLPxnx
+GithubAdvisories,[GHSA-9hg5-7hwc-v434] Athenz vulnerable to Open Redirect,https://github.com/advisories/GHSA-9hg5-7hwc-v434,https://bit.ly/3FIGqUn
