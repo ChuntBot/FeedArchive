@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-46853 (alpine),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-46853,https://bit.ly/3Wz0rCQ
+NVD-NIST,CVE-2022-3258 (workforce_access),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3258,https://bit.ly/3sX5Ztt
+NVD-NIST,CVE-2022-39382 (keystone),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39382,https://bit.ly/3fDG9Ys
+NVD-NIST,CVE-2022-40131 (page_view_count),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40131,https://bit.ly/3E1dNk1
+NVD-NIST,CVE-2022-40230 (mq_appliance),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40230,https://bit.ly/3hgrd2A
+NVD-NIST,CVE-2022-40235 (infosphere_information_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40235,https://bit.ly/3T7baBN
+NVD-NIST,CVE-2022-40747 (infosphere_information_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40747,https://bit.ly/3WvDIHS
+NVD-NIST,"CVE-2022-43574 (robotic_process_automation, robotic_process_automation_for_cloud_pak)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43574,https://bit.ly/3WAUR38
+NVD-NIST,CVE-2022-44638 (pixman),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-44638,https://bit.ly/3FHKTqw
