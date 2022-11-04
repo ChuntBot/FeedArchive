@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m7gv-v8xx-v47w] XWiki OIDC Authenticator vulnerable to bypassing OpenID login by providing a custom provider,https://github.com/advisories/GHSA-m7gv-v8xx-v47w,https://bit.ly/3U7kCGu
+GithubAdvisories,[GHSA-236j-rfx5-wq38] OpenCart allows users on admin page to obtain database information or read server files through SQL injection,https://github.com/advisories/GHSA-236j-rfx5-wq38,https://bit.ly/3T2CsZP
+GithubAdvisories,[GHSA-wvmq-w7m8-g9xm] Insecure cookie storage in Apache Atlas,https://github.com/advisories/GHSA-wvmq-w7m8-g9xm,https://bit.ly/3T54oMS
+GithubAdvisories,[GHSA-m2rr-h6g4-9cm9] Path Traversal in Apache Atlas,https://github.com/advisories/GHSA-m2rr-h6g4-9cm9,https://bit.ly/3FIhI6z
+GithubAdvisories,[GHSA-frqh-x6r7-h6mq] Cross-site Scripting in Apache Atlas,https://github.com/advisories/GHSA-frqh-x6r7-h6mq,https://bit.ly/3Wul3MB
+GithubAdvisories,[GHSA-9xwq-72vp-5j3c] Cross-site Scripting in Apache Atlas,https://github.com/advisories/GHSA-9xwq-72vp-5j3c,https://bit.ly/3WvLfXa
+GithubAdvisories,[GHSA-435g-r2m8-gjvm] Cross-site Scripting in Graylog,https://github.com/advisories/GHSA-435g-r2m8-gjvm,https://bit.ly/3T6Hdl2
+GithubAdvisories,[GHSA-q586-7p8w-9pg8] Cross-site Scripting in Apache Atlas,https://github.com/advisories/GHSA-q586-7p8w-9pg8,https://bit.ly/3WzUlSE
+GithubAdvisories,[GHSA-fx92-wh72-8g9q] Apache Atlas produces Stack trace in error response,https://github.com/advisories/GHSA-fx92-wh72-8g9q,https://bit.ly/3FIhIDB
+GithubAdvisories,[GHSA-vc3x-72q4-g3p5] XML External Entity Reference in jbpmmigration,https://github.com/advisories/GHSA-vc3x-72q4-g3p5,https://bit.ly/3U6X6cJ
+GithubAdvisories,[GHSA-q4q2-fvwf-6ghv] Cross-Site Request Forgery in hawtio,https://github.com/advisories/GHSA-q4q2-fvwf-6ghv,https://bit.ly/3WIiXJg
+GithubAdvisories,[GHSA-236h-r3w7-c85c] Cross-site Scripting in Apache Atlas,https://github.com/advisories/GHSA-236h-r3w7-c85c,https://bit.ly/3U8Ppmn
+GithubAdvisories,[GHSA-9qf9-28h9-hqcj] Remote code execution in PATCH requests in Spring Data REST,https://github.com/advisories/GHSA-9qf9-28h9-hqcj,https://bit.ly/3WIiXce
+GithubAdvisories,[GHSA-m728-qvxh-xfjq] Improper Privilege Management in X-Pack,https://github.com/advisories/GHSA-m728-qvxh-xfjq,https://bit.ly/3T6HdBy
