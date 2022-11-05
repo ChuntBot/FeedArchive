@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-27894 (foundry_blobster),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-27894,https://bit.ly/3hfX5o3
+NVD-NIST,CVE-2022-3023 (tidb),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3023,https://bit.ly/3zKmTzf
+NVD-NIST,CVE-2022-3575 (frauscher_diagnostic_system_102),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3575,https://bit.ly/3zKPIvc
+NVD-NIST,CVE-2022-3721 (froxlor),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3721,https://bit.ly/3T1e3nu
+NVD-NIST,CVE-2022-39369 (phpcas),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39369,https://bit.ly/3zKPK6i
+NVD-NIST,CVE-2022-40276 (zettlr),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40276,https://bit.ly/3zKPILI
+NVD-NIST,"CVE-2022-41666 (ecostruxure_operator_terminal_expert, pro-face_blue)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41666,https://bit.ly/3hhtBGk
+NVD-NIST,"CVE-2022-41667 (ecostruxure_operator_terminal_expert, pro-face_blue)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41667,https://bit.ly/3U9qyPb
+NVD-NIST,"CVE-2022-41668 (ecostruxure_operator_terminal_expert, pro-face_blue)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41668,https://bit.ly/3T82DhJ
+NVD-NIST,CVE-2022-41713 (deep-object-diff),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41713,https://bit.ly/3zHbbW0
+NVD-NIST,CVE-2022-41714 (fastest-json-copy),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41714,https://bit.ly/3FKFXB4
+NVD-NIST,CVE-2022-42743 (deep-parse-json),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42743,https://bit.ly/3TcjkbU
+NVD-NIST,CVE-2022-42744 (candidats),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42744,https://bit.ly/3T98lQm
+NVD-NIST,CVE-2022-42745 (candidats),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42745,https://bit.ly/3T1sLel
+NVD-NIST,CVE-2022-42746 (candidats),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42746,https://bit.ly/3FMj54o
+NVD-NIST,CVE-2022-42747 (candidats),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42747,https://bit.ly/3FMPLea
+NVD-NIST,CVE-2022-42748 (candidats),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42748,https://bit.ly/3T11tVm
+NVD-NIST,CVE-2022-42749 (candidats),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42749,https://bit.ly/3FHqoKB
