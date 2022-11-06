@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Merge pull request #4827 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/cb340d78e1d2c537a2c1950b306ee57a7f070e5a,https://bit.ly/3TZnB3q
+GithubCommitStaging,Add new action Check PRs if on staging,https://github.com/mailcow/mailcow-dockerized/commit/abfad4e0257c8865f1364843254992dee70468cf,https://bit.ly/3WxiwBu
+GithubCommitStaging,Merge pull request #4837 from mailcow/feat/action-check_prs_if_on_sta…,https://github.com/mailcow/mailcow-dockerized/commit/eb9d360c0a479b302073514f28b15fb3f3d9bfa8,https://bit.ly/3UrLIbe
