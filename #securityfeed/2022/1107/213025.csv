@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4pcg-wr6c-h9cq] fastify/websocket vulnerable to uncaught exception via crash on malformed packet,https://github.com/advisories/GHSA-4pcg-wr6c-h9cq,https://bit.ly/3EdjFaf
+GithubAdvisories,[GHSA-97xg-phpr-rg8q] Apache Commons BCEL vulnerable to out-of-bounds write,https://github.com/advisories/GHSA-97xg-phpr-rg8q,https://bit.ly/3G0DfI5
