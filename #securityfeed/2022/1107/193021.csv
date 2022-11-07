@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-20937 (identity_services_engine),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20937,https://bit.ly/3U9d1XX
+NVD-NIST,CVE-2022-38654 (domino),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38654,https://bit.ly/3UiIJ5d
+NVD-NIST,CVE-2022-38660 (domino),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38660,https://bit.ly/3hbkhns
+NVD-NIST,CVE-2022-39344 (azure_rtos_usbx),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39344,https://bit.ly/3FVkxl2
+NVD-NIST,"CVE-2022-39384 (contracts, contracts-upgradeable)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39384,https://bit.ly/3TauxtH
+NVD-NIST,CVE-2022-40263 (totalys_multiprocessor_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40263,https://bit.ly/3DEnUdi
+NVD-NIST,"CVE-2022-43571 (splunk, splunk_cloud_platform)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43571,https://bit.ly/3NLVGBR
+NVD-NIST,CVE-2022-43945 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43945,https://bit.ly/3UDyGYi
