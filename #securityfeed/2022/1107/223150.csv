@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mqmp-4mcp-vg8v] Apache ORC vulnerable to Uncontrolled Recursion,https://github.com/advisories/GHSA-mqmp-4mcp-vg8v,https://bit.ly/3WGWhsN
+GithubAdvisories,[GHSA-vjxc-frw4-jmh5] Undertow vulnerable to Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-vjxc-frw4-jmh5,https://bit.ly/3tayOCL
