@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2chg-86hq-7w38] btcd mishandles witness size checking,https://github.com/advisories/GHSA-2chg-86hq-7w38,https://bit.ly/3UjslkQ
+GithubAdvisories,[GHSA-94rr-4jr5-9h2p] Apache Ivy does not verify target path when extracting the archive,https://github.com/advisories/GHSA-94rr-4jr5-9h2p,https://bit.ly/3fDrbSk
+GithubAdvisories,[GHSA-6rjv-xxgr-v57x] Froxlor vulnerable to code injection,https://github.com/advisories/GHSA-6rjv-xxgr-v57x,https://bit.ly/3E9TNf5
