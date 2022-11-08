@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9hpq-528p-48j3] Jenkins Redgate SQL Change Automation Plugin has Insufficiently Protected Credentials,https://github.com/advisories/GHSA-9hpq-528p-48j3,https://bit.ly/3TfFKZP
+GithubAdvisories,[GHSA-jq2w-w7v2-69q5] Apache Solr vulnerable to XML Bomb,https://github.com/advisories/GHSA-jq2w-w7v2-69q5,https://bit.ly/3UlV6xc
