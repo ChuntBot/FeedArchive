@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q9wv-22m9-vhqh] Tauri Filesystem Scope can be Partially Bypassed,https://github.com/advisories/GHSA-q9wv-22m9-vhqh,https://bit.ly/3UCcq0P
+GithubAdvisories,[GHSA-prm5-8g2m-24gg] Remote code execution via MongoDB BSON parser through prototype pollution,https://github.com/advisories/GHSA-prm5-8g2m-24gg,https://bit.ly/3UBJeqE
