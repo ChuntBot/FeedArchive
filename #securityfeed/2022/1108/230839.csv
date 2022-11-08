@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-393r-r9mq-g9jv] Jenkins Configuration as Code Plugin vulnerable to Exposure of Sensitive Information,https://github.com/advisories/GHSA-393r-r9mq-g9jv,https://bit.ly/3UK9LlT
+GithubAdvisories,[GHSA-8486-h39x-cx2f] Jenkins Configuration as Code Plugin has Insufficiently Protected Credentials,https://github.com/advisories/GHSA-8486-h39x-cx2f,https://bit.ly/3UDWgDZ
+GithubAdvisories,[GHSA-jfmq-4g4m-99rh] Nimbus JOSE+JWT vulnerable to padding oracle attack,https://github.com/advisories/GHSA-jfmq-4g4m-99rh,https://bit.ly/3G26XMQ
+GithubAdvisories,[GHSA-3vv3-585q-wv6x] Apache Guacamole Race Condition vulnerability,https://github.com/advisories/GHSA-3vv3-585q-wv6x,https://bit.ly/3UGB0xv
+GithubAdvisories,[GHSA-8g2p-5pqh-5jmc] .NET Information Disclosure Vulnerability,https://github.com/advisories/GHSA-8g2p-5pqh-5jmc,https://bit.ly/3NP4WFk
