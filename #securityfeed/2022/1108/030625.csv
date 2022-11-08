@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j5v3-363p-g843] OpenCRX vulnerable to password enumeration via error messages in password reset,https://github.com/advisories/GHSA-j5v3-363p-g843,https://bit.ly/3zWI01o
