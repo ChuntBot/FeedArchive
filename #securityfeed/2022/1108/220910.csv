@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hx44-c87v-p6xg] Opencast has Incorrect Permission Assignment,https://github.com/advisories/GHSA-hx44-c87v-p6xg,https://bit.ly/3htbIEU
+GithubAdvisories,[GHSA-jf7g-5q92-4hp2] Apache ODE Path Traversal vulnerability,https://github.com/advisories/GHSA-jf7g-5q92-4hp2,https://bit.ly/3UmRs6a
+GithubAdvisories,[GHSA-5m39-wx2q-mxg3] Invalid use of `mem::uninitialized` causes `use-of-uninitialized-value`,https://github.com/advisories/GHSA-5m39-wx2q-mxg3,https://bit.ly/3WNlfa0
