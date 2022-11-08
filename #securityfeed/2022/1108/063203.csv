@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-12509 (moni::tool),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12509,https://bit.ly/3UAJYML
+NVD-NIST,CVE-2022-2188 (data_exchange_layer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2188,https://bit.ly/3ta7yUK
+NVD-NIST,CVE-2022-33684 (pulsar),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33684,https://bit.ly/3G2JJWV
+NVD-NIST,CVE-2022-3868 (sanitization_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3868,https://bit.ly/3fKeJAb
+NVD-NIST,CVE-2022-3869 (froxlor),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3869,https://bit.ly/3tabWDl
+NVD-NIST,CVE-2022-3873 (drawio),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3873,https://bit.ly/3WLlPEW
+NVD-NIST,CVE-2022-42920 (commons_bcel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42920,https://bit.ly/3tf6hvT
+NVD-NIST,CVE-2022-42990 (food_ordering_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42990,https://bit.ly/3EfosrJ
+NVD-NIST,CVE-2022-43046 (food_ordering_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43046,https://bit.ly/3EfoFev
+NVD-NIST,CVE-2022-43350 (sanitization_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43350,https://bit.ly/3zW6PdG
+NVD-NIST,CVE-2022-43351 (sanitization_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43351,https://bit.ly/3UB7MAe
+NVD-NIST,CVE-2022-43352 (sanitization_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43352,https://bit.ly/3EeG6f2
+NVD-NIST,CVE-2022-44724 (handy_macros_for_confluence),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-44724,https://bit.ly/3tcrxCr
+NVD-NIST,CVE-2022-44792 (net-snmp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-44792,https://bit.ly/3NKnxTb
+NVD-NIST,CVE-2022-44793 (net-snmp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-44793,https://bit.ly/3tbFu3v
+NVD-NIST,CVE-2022-44794 (object_first),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-44794,https://bit.ly/3EdaFle
+NVD-NIST,CVE-2022-44795 (object_first),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-44795,https://bit.ly/3Eejv2b
+NVD-NIST,CVE-2022-44796 (object_first),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-44796,https://bit.ly/3zW6PKI
