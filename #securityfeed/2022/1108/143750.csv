@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-37m3-qp37-x3c6] Apache Geode gfsh query vulnerability,https://github.com/advisories/GHSA-37m3-qp37-x3c6,https://bit.ly/3NO8KXu
+GithubAdvisories,[GHSA-2gw6-73wc-x88f] Apache Geode information disclosure vulnerability,https://github.com/advisories/GHSA-2gw6-73wc-x88f,https://bit.ly/3UloH9Y
+GithubAdvisories,[GHSA-w395-hpq9-7xwr] Apache Geode unsafe deserialization in TcpServer,https://github.com/advisories/GHSA-w395-hpq9-7xwr,https://bit.ly/3zYKCfc
+GithubAdvisories,[GHSA-95m2-p98f-24r5] Apache Geode unsafe deserialization of application objects,https://github.com/advisories/GHSA-95m2-p98f-24r5,https://bit.ly/3Uij2Sk
+GithubAdvisories,[GHSA-vh98-fqfc-4hj3] Apache Geode vulnerable to Exposure of Sensitive Information,https://github.com/advisories/GHSA-vh98-fqfc-4hj3,https://bit.ly/3UiqUTD
+GithubAdvisories,[GHSA-6m68-3w55-6mx4] Apache Geode OQL method invocation vulnerability,https://github.com/advisories/GHSA-6m68-3w55-6mx4,https://bit.ly/3tdzrvb
+GithubAdvisories,[GHSA-q7cp-r6cj-hpf5] Apache Geode OQL bind parameter vulnerability,https://github.com/advisories/GHSA-q7cp-r6cj-hpf5,https://bit.ly/3Um8OQG
+GithubAdvisories,[GHSA-g569-49wg-jx5f] Apache Geode configuration request authorization vulnerability,https://github.com/advisories/GHSA-g569-49wg-jx5f,https://bit.ly/3UirQHz
+GithubAdvisories,[GHSA-h22r-h77w-2g5f] Apache Geode gfsh authorization vulnerability,https://github.com/advisories/GHSA-h22r-h77w-2g5f,https://bit.ly/3tado8K
+GithubAdvisories,[GHSA-jmg4-x4vp-6c6x] Apache Geode vulnerable to Incorrect Authorization,https://github.com/advisories/GHSA-jmg4-x4vp-6c6x,https://bit.ly/3fNTGwx
