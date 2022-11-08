@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j7mw-7crr-658v] Richfaces vulnerable to arbitrary code execution,https://github.com/advisories/GHSA-j7mw-7crr-658v,https://bit.ly/3A0Q94P
+GithubAdvisories,[GHSA-4j38-wjhf-884r] Arbitrary code execution in Richfaces,https://github.com/advisories/GHSA-4j38-wjhf-884r,https://bit.ly/3DRvNw8
+GithubAdvisories,[GHSA-3hx6-fqpj-xfjr] RichFaces vulnerable to Expression Language Injection,https://github.com/advisories/GHSA-3hx6-fqpj-xfjr,https://bit.ly/3EdRB6j
+GithubAdvisories,[GHSA-5gwq-4275-q4qc] Jenkins AWS CodePipeline Plugin has Insufficiently Protected Credentials,https://github.com/advisories/GHSA-5gwq-4275-q4qc,https://bit.ly/3DSym0H
+GithubAdvisories,[GHSA-hgg7-cghq-xhf4] Ruby vulnerable to denial of service,https://github.com/advisories/GHSA-hgg7-cghq-xhf4,https://bit.ly/3UF1LCA
+GithubAdvisories,[GHSA-rj76-h87p-r3wf] Undertow vulnerable to Request Smuggling,https://github.com/advisories/GHSA-rj76-h87p-r3wf,https://bit.ly/3hjgSmF
+GithubAdvisories,[GHSA-mwg7-69hf-vqh3] Insufficiently Protected Credentials in Jenkins AWS CodeBuild Plugin,https://github.com/advisories/GHSA-mwg7-69hf-vqh3,https://bit.ly/3zTgz8A
+GithubAdvisories,[GHSA-644j-jcc4-crx7] Jenkins AWS CodeDeploy Plugin has Insufficiently Protected Credentials,https://github.com/advisories/GHSA-644j-jcc4-crx7,https://bit.ly/3tcfuVD
+GithubAdvisories,[GHSA-3f57-w2rp-72fc] Undertow Uncaught Exception vulnerability,https://github.com/advisories/GHSA-3f57-w2rp-72fc,https://bit.ly/3Een5cu
+GithubAdvisories,[GHSA-xp4g-5xj6-6vpr] Apache Drill vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-xp4g-5xj6-6vpr,https://bit.ly/3UBdHVV
+GithubAdvisories,[GHSA-5gg7-5wv8-4gcj] Undertow Request Smuggling vulnerability,https://github.com/advisories/GHSA-5gg7-5wv8-4gcj,https://bit.ly/3fUpgIS
