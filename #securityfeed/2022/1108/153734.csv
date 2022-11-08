@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-20867 (asyncos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20867,https://bit.ly/3G0Hljq
+NVD-NIST,CVE-2022-20868 (asyncos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20868,https://bit.ly/3G2QNTc
+NVD-NIST,CVE-2022-20942 (asyncos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20942,https://bit.ly/3G2urkL
+NVD-NIST,CVE-2022-38164 (safe),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38164,https://bit.ly/3tdA9bZ
+NVD-NIST,"CVE-2022-43563 (splunk, splunk_cloud_platform)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43563,https://bit.ly/3FYPGnJ
+NVD-NIST,"CVE-2022-43564 (splunk, splunk_cloud_platform)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43564,https://bit.ly/3WVE4Ia
+NVD-NIST,"CVE-2022-43565 (splunk, splunk_cloud_platform)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43565,https://bit.ly/3fHPyOM
+NVD-NIST,"CVE-2022-43566 (splunk, splunk_cloud_platform)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43566,https://bit.ly/3FYxnib
+NVD-NIST,CVE-2022-44053 (d8s-networking),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-44053,https://bit.ly/3Ul6Sbi
+NVD-NIST,CVE-2022-44732 (cyber_protect_home_office),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-44732,https://bit.ly/3UlRf3o
