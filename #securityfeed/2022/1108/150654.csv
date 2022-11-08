@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wjjr-h4wh-w6vv] Spring Framework Inefficient Regular Expression Complexity,https://github.com/advisories/GHSA-wjjr-h4wh-w6vv,https://bit.ly/3NLsrPP
+GithubAdvisories,[GHSA-f553-j2gv-g5r9] Apache Solr Kerberos delegation token functionality flaws,https://github.com/advisories/GHSA-f553-j2gv-g5r9,https://bit.ly/3hnaN8Q
+GithubAdvisories,[GHSA-8gwc-x7mg-7p7p] Apache XML Security For Java vulnerable to Infinite Loop,https://github.com/advisories/GHSA-8gwc-x7mg-7p7p,https://bit.ly/3fLazb6
+GithubAdvisories,[GHSA-8hfm-837h-hjg5] Apache XML Security For Java vulnerable to authentication bypass by HMAC truncation,https://github.com/advisories/GHSA-8hfm-837h-hjg5,https://bit.ly/3UmgXVt
+GithubAdvisories,[GHSA-p5g9-rjcf-95vj] fastest-json-copy vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-p5g9-rjcf-95vj,https://bit.ly/3zWPpOg
+GithubAdvisories,[GHSA-ff9j-pwxg-q5p2] deep-parse-json vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-ff9j-pwxg-q5p2,https://bit.ly/3fLtKSa
+GithubAdvisories,[GHSA-653v-rqx9-j85p] deep-object-diff vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-653v-rqx9-j85p,https://bit.ly/3tajk1w
+GithubAdvisories,[GHSA-5r3h-c3r7-9w4h] Apache Pulsar: Disabled Certificate Validation for OAuth Client Credential Requests makes C++/Python Clients vulnerable to MITM attack,https://github.com/advisories/GHSA-5r3h-c3r7-9w4h,https://bit.ly/3taG41q
