@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4hxv-95rc-jqg7] nv-websocket-client allows attackers to spoof SSL/TLS servers via an arbitrary valid certificate,https://github.com/advisories/GHSA-4hxv-95rc-jqg7,https://bit.ly/3NNSwO8
+GithubAdvisories,[GHSA-rj4p-7mm6-gm9j] JBossWS vulnerable to uncontrolled recursion,https://github.com/advisories/GHSA-rj4p-7mm6-gm9j,https://bit.ly/3NP0W7N
+GithubAdvisories,[GHSA-fg44-w3fr-hgxv] Apache TomEE console vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-fg44-w3fr-hgxv,https://bit.ly/3G6LTV8
