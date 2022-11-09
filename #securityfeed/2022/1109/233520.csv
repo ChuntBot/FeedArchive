@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2022-27510 (application_delivery_controller_firmware, gateway)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-27510,https://bit.ly/3DMo6Hu
+NVD-NIST,"CVE-2022-27513 (application_delivery_controller_firmware, gateway)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-27513,https://bit.ly/3G6QSVZ
+NVD-NIST,CVE-2022-37866 (ivy),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37866,https://bit.ly/3TqEu6h
+NVD-NIST,CVE-2022-39352 (openfga),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39352,https://bit.ly/3hiEsQr
+NVD-NIST,CVE-2022-45061 (python),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45061,https://bit.ly/3GbIB2W
