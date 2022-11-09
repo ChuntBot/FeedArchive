@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3297-944x-j7x7] Incorrect Authorization in Jenkins Core,https://github.com/advisories/GHSA-3297-944x-j7x7,https://bit.ly/3WLtBik
+GithubAdvisories,[GHSA-ffw3-6mp6-jmvj] Improper Access Control in Airflow,https://github.com/advisories/GHSA-ffw3-6mp6-jmvj,https://bit.ly/3wCaY3q
+GithubAdvisories,[GHSA-x9gc-p2qp-4p7v] Missing permission check in Jenkins Build Failure Analyzer Plugin,https://github.com/advisories/GHSA-x9gc-p2qp-4p7v,https://bit.ly/3tcEtbB
+GithubAdvisories,[GHSA-29ph-fjf3-c5cm] Apache NiFi XSS issue in context path handling,https://github.com/advisories/GHSA-29ph-fjf3-c5cm,https://bit.ly/3EiLVZ4
