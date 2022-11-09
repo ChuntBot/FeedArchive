@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3wmg-28v9-8hf6] Subrion CMS is vulnerable to Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-3wmg-28v9-8hf6,https://bit.ly/3fS0jOp
+GithubAdvisories,[GHSA-jrvr-gmqv-hgrh] Subrion CMS is vulnerable to Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-jrvr-gmqv-hgrh,https://bit.ly/3WQM2C8
+GithubAdvisories,[GHSA-xprv-wvh7-qqqx] Parse Server vulnerable to Prototype Pollution via Cloud Code Webhooks or Cloud Code Triggers,https://github.com/advisories/GHSA-xprv-wvh7-qqqx,https://bit.ly/3UmDAZD
