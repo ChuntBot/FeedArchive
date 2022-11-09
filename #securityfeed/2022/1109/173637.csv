@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-247j-2g7v-cpq8] Malware in seller-base-service,https://github.com/advisories/GHSA-247j-2g7v-cpq8,https://bit.ly/3hwgi5n
+GithubAdvisories,[GHSA-f443-5x2c-qr45] Malware in shopee-ui-react,https://github.com/advisories/GHSA-f443-5x2c-qr45,https://bit.ly/3hsbVrY
+GithubAdvisories,[GHSA-cfq9-cmh2-988c] Malware in tsp-sdk,https://github.com/advisories/GHSA-cfq9-cmh2-988c,https://bit.ly/3A0aLdC
+GithubAdvisories,[GHSA-mv99-6fqh-497p] Malware in seller-listing-service,https://github.com/advisories/GHSA-mv99-6fqh-497p,https://bit.ly/3NU0VQ5
+GithubAdvisories,[GHSA-p72g-cgh9-ghjg] Failing DTLS handshakes may cause throttling to block processing of records,https://github.com/advisories/GHSA-p72g-cgh9-ghjg,https://bit.ly/3fVgudF
