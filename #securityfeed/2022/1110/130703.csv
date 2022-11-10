@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-93vw-8fm5-p2jf] Parse Server is vulnerable to Prototype Pollution via Cloud Code Webhooks,https://github.com/advisories/GHSA-93vw-8fm5-p2jf,https://bit.ly/3TjQeHP
+GithubAdvisories,[GHSA-p2jh-44qj-pf2v] Exfiltration of hashed SMB credentials on Windows via file:// redirect,https://github.com/advisories/GHSA-p2jh-44qj-pf2v,https://bit.ly/3fVMoH8
