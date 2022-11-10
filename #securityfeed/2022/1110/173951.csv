@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-0031 (cortex_xsoar),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0031,https://bit.ly/3zZt6rd
+NVD-NIST,CVE-2022-26023 (ir302_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-26023,https://bit.ly/3NWORh5
+NVD-NIST,CVE-2022-28689 (ir302_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-28689,https://bit.ly/3g1rshM
+NVD-NIST,CVE-2022-29481 (ir302_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-29481,https://bit.ly/3zZth5R
+NVD-NIST,CVE-2022-29888 (ir302_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-29888,https://bit.ly/3zZtgij
+NVD-NIST,CVE-2022-31253 (openldap2),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-31253,https://bit.ly/3hvtcAy
+NVD-NIST,CVE-2022-32615 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32615,https://bit.ly/3DYEzIM
+NVD-NIST,CVE-2022-3445 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3445,https://bit.ly/3zZtgPl
+NVD-NIST,CVE-2022-3446 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3446,https://bit.ly/3zZtfef
+NVD-NIST,CVE-2022-3449 (chrome),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3449,https://bit.ly/3zZthTp
+NVD-NIST,"CVE-2022-38014 (azure_iot_edge_for_linux, windows_subsystem_for_linux)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38014,https://bit.ly/3NXctSw
+NVD-NIST,CVE-2022-39879 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39879,https://bit.ly/3DTXvbr
+NVD-NIST,CVE-2022-39880 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39880,https://bit.ly/3ArJoJN
+NVD-NIST,CVE-2022-39881 (exynos_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39881,https://bit.ly/3A3pZOS
+NVD-NIST,CVE-2022-39882 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39882,https://bit.ly/3tklwUs
+NVD-NIST,CVE-2022-39883 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39883,https://bit.ly/3DWRg6L
+NVD-NIST,CVE-2022-39884 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39884,https://bit.ly/3NWamyn
+NVD-NIST,CVE-2022-39885 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39885,https://bit.ly/3NUzntP
+NVD-NIST,CVE-2022-39887 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39887,https://bit.ly/3tjgaIV
+NVD-NIST,CVE-2022-39890 (billing),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39890,https://bit.ly/3zZtiqr
+NVD-NIST,CVE-2022-43290 (canteen_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43290,https://bit.ly/3thkBny
+NVD-NIST,CVE-2022-43291 (canteen_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43291,https://bit.ly/3A7VYgT
+NVD-NIST,CVE-2022-43292 (canteen_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43292,https://bit.ly/3fUuDI9
+NVD-NIST,CVE-2022-43320 (feehicms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43320,https://bit.ly/3zZtiXt
+NVD-NIST,CVE-2022-43321 (shopwind),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43321,https://bit.ly/3DZLBwT
