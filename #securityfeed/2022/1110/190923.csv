@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4r6j-fwcx-94cf] snowflake-connector-python is vulnerable to Regular Expression Denial of Service (ReDoS),https://github.com/advisories/GHSA-4r6j-fwcx-94cf,https://bit.ly/3A3ASQR
+GithubAdvisories,[GHSA-5jqp-885w-xj32] pymatgen is vulnerable to Regular Expression Denial of Service (ReDoS),https://github.com/advisories/GHSA-5jqp-885w-xj32,https://bit.ly/3E0jAVQ
+GithubAdvisories,[GHSA-2p9h-ccw7-33gf] cleo is vulnerable to Regular Expression Denial of Service (ReDoS),https://github.com/advisories/GHSA-2p9h-ccw7-33gf,https://bit.ly/3DRzj9I
