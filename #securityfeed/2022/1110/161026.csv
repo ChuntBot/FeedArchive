@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-98pf-gfh3-x3mp] Read the Docs vulnerable to Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-98pf-gfh3-x3mp,https://bit.ly/3WNWdaL
+GithubAdvisories,"[GHSA-3qmc-2r76-4rqp] Redwood is vulnerable to account takeover via dbAuth ""forgot-password""",https://github.com/advisories/GHSA-3qmc-2r76-4rqp,https://bit.ly/3WOndqC
