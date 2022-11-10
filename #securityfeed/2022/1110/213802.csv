@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3p7g-wrgg-wq45] GraphQL queries can expose password hashes,https://github.com/advisories/GHSA-3p7g-wrgg-wq45,https://bit.ly/3UNllwi
+GithubAdvisories,[GHSA-rc39-g977-687w] Use of unclaimed s3 bucket in tests and examples,https://github.com/advisories/GHSA-rc39-g977-687w,https://bit.ly/3UJQiS1
+GithubAdvisories,[GHSA-wh6w-3828-g9qf] Wasmtime may have data leakage between instances in the pooling allocator,https://github.com/advisories/GHSA-wh6w-3828-g9qf,https://bit.ly/3fSB2DR
+GithubAdvisories,[GHSA-44mr-8vmm-wjhg] Wasmtime out of bounds read/write with zero-memory-pages configuration,https://github.com/advisories/GHSA-44mr-8vmm-wjhg,https://bit.ly/3tlHRAK
