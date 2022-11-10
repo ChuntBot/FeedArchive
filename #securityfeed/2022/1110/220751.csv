@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3ppm-fwhm-qqg6] FeehiCMS is vulnerable to Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-3ppm-fwhm-qqg6,https://bit.ly/3fXtDTI
+GithubAdvisories,[GHSA-c7pc-pgf6-mfh5] ezplatform-graphql GraphQL queries can expose password hashes,https://github.com/advisories/GHSA-c7pc-pgf6-mfh5,https://bit.ly/3UODRnY
+GithubAdvisories,[GHSA-58h5-h554-429q] ezplatform-admin-ui vulnerable to Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-58h5-h554-429q,https://bit.ly/3GnqyHx
