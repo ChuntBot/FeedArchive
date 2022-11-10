@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Red Hat Security Advisory 2022-7434-01,https://packetstormsecurity.com/files/169810/RHSA-2022-7434-01.txt,https://bit.ly/3ULMFva
+PacketstormSecurity,Chrome password_manager::WellKnownChangePasswordState::SetChangePasswordResponseCode Use-After-Free,https://packetstormsecurity.com/files/169809/GS20221110134348.tgz,https://bit.ly/3A36NRx
+PacketstormSecurity,Backdoor.Win32.Aphexdoor.LiteSock MVID-2022-0653 Buffer Overflow,https://packetstormsecurity.com/files/169808/MVID-2022-0653.txt,https://bit.ly/3TobQ5J
+PacketstormSecurity,Windows Kernel Long Registry Key / Value Out-Of-Bounds Read,https://packetstormsecurity.com/files/169807/GS20221110133825.tgz,https://bit.ly/3UIjSaO
+PacketstormSecurity,HEUR:Trojan.MSIL.Agent.gen MVID-2022-0654 Information Disclosure,https://packetstormsecurity.com/files/169806/MVID-2022-0654.txt,https://bit.ly/3UIjRDM
+PacketstormSecurity,Windows Kernel Long Registry Path Memory Corruption,https://packetstormsecurity.com/files/169805/GS20221110133351.tgz,https://bit.ly/3UNdfDQ
