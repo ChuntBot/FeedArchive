@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+ExploitDB,[remote] SmartRG Router SR510n 2.6.13 - RCE (Remote Code Execution),https://www.exploit-db.com/exploits/51031,https://bit.ly/3toH2aC
+ExploitDB,[webapps] CVAT 2.0 - SSRF (Server Side Request Forgery),https://www.exploit-db.com/exploits/51030,https://bit.ly/3UvaIyx
+ExploitDB,[local] IOTransfer V4 - Unquoted Service Path,https://www.exploit-db.com/exploits/51029,https://bit.ly/3g02ek3
+ExploitDB,[remote] AVEVA InTouch Access Anywhere Secure Gateway 2020 R2 - Path Traversal,https://www.exploit-db.com/exploits/51028,https://bit.ly/3Ut5GTn
+ExploitDB,[remote] MSNSwitch Firmware MNT.2408 - Remote Code Exectuion (RCE),https://www.exploit-db.com/exploits/51027,https://bit.ly/3hwOu0v
+ExploitDB,[webapps] Open Web Analytics 1.7.3 - Remote Code Execution (RCE),https://www.exploit-db.com/exploits/51026,https://bit.ly/3tpnGC9
