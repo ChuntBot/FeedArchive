@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-2761 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2761,https://bit.ly/3fTHmea
+NVD-NIST,CVE-2022-3818 (gitlab),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3818,https://bit.ly/3fXaWQ4
+NVD-NIST,CVE-2022-39307 (grafana),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39307,https://bit.ly/3E1QuFs
