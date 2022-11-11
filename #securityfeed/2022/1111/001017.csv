@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gmpq-xrxj-xh8m] Arches vulnerable to execution of arbitrary SQL,https://github.com/advisories/GHSA-gmpq-xrxj-xh8m,https://bit.ly/3UogIcm
+GithubAdvisories,[GHSA-vp35-85q5-9f25] Container build can leak any path on the host into the container,https://github.com/advisories/GHSA-vp35-85q5-9f25,https://bit.ly/3UQvHf7
+GithubAdvisories,[GHSA-99r3-xmmq-7q7g] eZ Platform users with the Company admin role can assign any role to any user,https://github.com/advisories/GHSA-99r3-xmmq-7q7g,https://bit.ly/3E1kjWM
+GithubAdvisories,[GHSA-8h83-chh2-fchp] eZ Platform users with the Company admin role can assign any role to any user,https://github.com/advisories/GHSA-8h83-chh2-fchp,https://bit.ly/3G6NNoM
+GithubAdvisories,[GHSA-446q-xxg5-3vhh] eZ Platform users with the Company admin role can assign any role to any user,https://github.com/advisories/GHSA-446q-xxg5-3vhh,https://bit.ly/3A54dub
+GithubAdvisories,[GHSA-pcpm-vc4v-cmvx] eZ Platform users with the Company admin role can assign any role to any user,https://github.com/advisories/GHSA-pcpm-vc4v-cmvx,https://bit.ly/3UI98sU
+GithubAdvisories,[GHSA-g6jc-xrc3-4wwq] Ibexa DXP users with the Company admin role can assign any role to any user,https://github.com/advisories/GHSA-g6jc-xrc3-4wwq,https://bit.ly/3hyUwO1
+GithubAdvisories,[GHSA-394j-x37r-2q27] Ibexa DXP users with the Company admin role can assign any role to any user,https://github.com/advisories/GHSA-394j-x37r-2q27,https://bit.ly/3fYsL15
+GithubAdvisories,[GHSA-7644-cxp8-h23r] ibexa/admin-ui vulnerable to Cross-site Scripting in content type name/shortname,https://github.com/advisories/GHSA-7644-cxp8-h23r,https://bit.ly/3TtJWVQ
+GithubAdvisories,[GHSA-7wg4-8m5p-hrfg] HashiCorp Nomad vulnerable to non-sensitive metadata exposure,https://github.com/advisories/GHSA-7wg4-8m5p-hrfg,https://bit.ly/3G2OGyV
+GithubAdvisories,[GHSA-9fmc-5fq4-5jwh] HashiCorp Nomad vulnerable to Insufficient Session Expiration,https://github.com/advisories/GHSA-9fmc-5fq4-5jwh,https://bit.ly/3E13Hi3
