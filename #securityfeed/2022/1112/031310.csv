@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7ghm-rpc7-p7g5] Code injection in Apache Struts,https://github.com/advisories/GHSA-7ghm-rpc7-p7g5,https://bit.ly/3tmQqv4
+GithubAdvisories,[GHSA-56f8-g68r-j699] Cross-site Scripting in Apache Struts,https://github.com/advisories/GHSA-56f8-g68r-j699,https://bit.ly/3A8IaTA
+GithubAdvisories,[GHSA-43q7-q5vp-3g68] Path Traversal in Eclipse Mojarra,https://github.com/advisories/GHSA-43q7-q5vp-3g68,https://bit.ly/3fZEoox
