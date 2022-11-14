@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7c2m-vwxw-5qww] Improper Certificate Validation in Apache Netbeans,https://github.com/advisories/GHSA-7c2m-vwxw-5qww,https://bit.ly/3UU7iW2
+GithubAdvisories,[GHSA-cf8q-j9h3-7237] Improper Verification of Cryptographic Signature in Apache Netbeans,https://github.com/advisories/GHSA-cf8q-j9h3-7237,https://bit.ly/3Af0BFW
