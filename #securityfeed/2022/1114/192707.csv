@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-39306 (grafana),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39306,https://bit.ly/3EvOCqd
+NVD-NIST,"CVE-2022-41062 (sharepoint_enterprise_server, sharepoint_foundation, sharepoint_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41062,https://bit.ly/3GfoW2h
+NVD-NIST,"CVE-2022-41063 (365_apps, excel, office, office_online_server, office_web_apps_server)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41063,https://bit.ly/3Gjw91h
+NVD-NIST,"CVE-2022-41073 (windows_10, windows_11, windows_7, windows_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41073,https://bit.ly/3TGlHUt
+NVD-NIST,CVE-2022-41085 (azure_cyclecloud),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41085,https://bit.ly/3TzdPV2
+NVD-NIST,"CVE-2022-41088 (windows_10, windows_11, windows_8.1, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41088,https://bit.ly/3TuILWo
+NVD-NIST,"CVE-2022-41090 (windows_10, windows_11, windows_7, windows_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41090,https://bit.ly/3g8106n
+NVD-NIST,"CVE-2022-41091 (windows_10, windows_11, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41091,https://bit.ly/3GccVL2
+NVD-NIST,"CVE-2022-41092 (windows_10, windows_11, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41092,https://bit.ly/3GjwaST
+NVD-NIST,"CVE-2022-41093 (windows_10, windows_11, windows_8.1, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41093,https://bit.ly/3g1fy7V
+NVD-NIST,"CVE-2022-41095 (windows_10, windows_11, windows_7, windows_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41095,https://bit.ly/3g5C9jE
+NVD-NIST,"CVE-2022-41096 (windows_10, windows_11, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41096,https://bit.ly/3TzdRfC
+NVD-NIST,"CVE-2022-41098 (windows_10, windows_11, windows_7, windows_8.1, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41098,https://bit.ly/3EwIWfG
