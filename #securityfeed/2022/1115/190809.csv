@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-prjq-f4q3-fvfr] gosaml2 is vulnerable to NULL Pointer Dereference,https://github.com/advisories/GHSA-prjq-f4q3-fvfr,https://bit.ly/3tylxnz
