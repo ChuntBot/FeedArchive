@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3rfm-jhwj-7488] loader-utils is vulnerable to Regular Expression Denial of Service (ReDoS) via url variable,https://github.com/advisories/GHSA-3rfm-jhwj-7488,https://bit.ly/3UWVLoT
