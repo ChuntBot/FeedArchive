@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jr77-8gx4-h5qh] MessagePack for Golang subject to DoS via Unmarshal panic,https://github.com/advisories/GHSA-jr77-8gx4-h5qh,https://bit.ly/3O9Bnyw
+GithubAdvisories,[GHSA-xx6g-jj35-pxjv] Cross Site Scripting vulnerability in wsgidav when directory browsing is enabled,https://github.com/advisories/GHSA-xx6g-jj35-pxjv,https://bit.ly/3X4y9As
+GithubAdvisories,[GHSA-925r-r6rp-2jj7] ManyDesigns Portofino subject to creation of insecure temporary file,https://github.com/advisories/GHSA-925r-r6rp-2jj7,https://bit.ly/3X4y93q
+GithubAdvisories,[GHSA-ffwf-47x2-jpr8] Matrix-appservice-irc vulnerable to sql injection via roomIds argument,https://github.com/advisories/GHSA-ffwf-47x2-jpr8,https://bit.ly/3EA0mb2
+GithubAdvisories,[GHSA-x45f-j34v-75xm] NukeView CMS vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-x45f-j34v-75xm,https://bit.ly/3UVzaJi
+GithubAdvisories,[GHSA-mj72-5p9p-45wc] Malware in test-inherited-attrs,https://github.com/advisories/GHSA-mj72-5p9p-45wc,https://bit.ly/3EAc0Tl
+GithubAdvisories,[GHSA-72mw-35vq-rx6g] Malware in commerce-sdk-react,https://github.com/advisories/GHSA-72mw-35vq-rx6g,https://bit.ly/3ECAfAx
+GithubAdvisories,[GHSA-g5gq-xhwf-hj5c] Malware in internal-lib-build,https://github.com/advisories/GHSA-g5gq-xhwf-hj5c,https://bit.ly/3O8YsBk
