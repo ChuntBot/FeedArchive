@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-27639 (xmm_7560_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-27639,https://bit.ly/3TGSCbI
+NVD-NIST,CVE-2022-27874 (xmm_7560_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-27874,https://bit.ly/3AkEVbo
+NVD-NIST,CVE-2022-28126 (xmm_7560_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-28126,https://bit.ly/3AncQQV
+NVD-NIST,"CVE-2022-36349 (nuc_board_nuc5i3mybe_firmware, nuc_kit_nuc5i3myhe_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36349,https://bit.ly/3geaQDN
+NVD-NIST,"CVE-2022-36370 (nuc_board_nuc5i3mybe_firmware, nuc_kit_nuc5i3myhe_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36370,https://bit.ly/3hOpHVH
+NVD-NIST,CVE-2022-36377 (nuc_kit_wireless_adapter_driver_installer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36377,https://bit.ly/3AkcACk
+NVD-NIST,CVE-2022-36380 (nuc_kit_wireless_adapter_driver_installer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36380,https://bit.ly/3AnMyOC
+NVD-NIST,CVE-2022-36384 (nuc_kit_wireless_adapter_driver_installer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36384,https://bit.ly/3txUg4M
+NVD-NIST,CVE-2022-36400 (nuc_kit_wireless_adapter_driver_installer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36400,https://bit.ly/3AjN9kh
+NVD-NIST,"CVE-2022-36789 (nuc_10_performance_kit_nuc10i3fnh_firmware, nuc_10_performance_kit_nuc10i3fnhf_firmware, nuc_10_performance_kit_nuc10i3fnhn_firmware, nuc_10_performance_kit_nuc10i3fnk_firmware, nuc_10_performance_kit_nuc10i3fnkn_firmware, nuc_10_performance_kit_nuc10i5fnh_firmware, nuc_10_performance_kit_nuc10i5fnhf_firmware, nuc_10_performance_kit_nuc10i5fnhj_firmware, nuc_10_performance_kit_nuc10i5fnhn_firmware, nuc_10_performance_kit_nuc10i5fnk_firmware, nuc_10_performance_kit_nuc10i5fnkn_firmware, nuc_10_performance_kit_nuc10i5fnkp_firmware, nuc_10_performance_kit_nuc10i7fnh_firmware, nuc_10_performance_kit_nuc10i7fnhc_firmware, nuc_10_performance_kit_nuc10i7fnhn_firmware, nuc_10_performance_kit_nuc10i7fnk_firmware, nuc_10_performance_kit_nuc10i7fnkn_firmware, nuc_10_performance_kit_nuc10i7fnkp_firmware, nuc_10_performance_mini_pc_nuc10i3fnhfa_firmware, nuc_10_performance_mini_pc_nuc10i3fnhja_firmware, nuc_10_performance_mini_pc_nuc10i5fnhca_firmware, nuc_10_performance_mini_pc_nuc10i5fnhja_firmware, nuc_10_performance_mini_pc_nuc10i5fnkpa_firmware, nuc_10_performance_mini_pc_nuc10i7fnhaa_firmware, nuc_10_performance_mini_pc_nuc10i7fnhja_firmware, nuc_10_performance_mini_pc_nuc10i7fnkpa_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36789,https://bit.ly/3AgsjC7
+NVD-NIST,"CVE-2022-37334 (nuc_11_pro_board_nuc11tnbi30z_firmware, nuc_11_pro_board_nuc11tnbi50z_firmware, nuc_11_pro_board_nuc11tnbi70z_firmware, nuc_11_pro_kit_nuc11tnhi3_firmware, nuc_11_pro_kit_nuc11tnhi30z_firmware, nuc_11_pro_kit_nuc11tnhi5_firmware, nuc_11_pro_kit_nuc11tnhi50z_firmware, nuc_11_pro_kit_nuc11tnhi70z_firmware, nuc_11_pro_kit_nuc11tnki30z_firmware, nuc_11_pro_kit_nuc11tnki50z_firmware, nuc_11_pro_kit_nuc11tnki70z_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37334,https://bit.ly/3Akd37B
+NVD-NIST,CVE-2022-3945 (kavita),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3945,https://bit.ly/3TClMIR
+NVD-NIST,CVE-2022-3955 (crm42),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3955,https://bit.ly/3AncN7H
+NVD-NIST,CVE-2022-3956 (hhims),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3956,https://bit.ly/3twkN2x
+NVD-NIST,CVE-2022-3957 (gpac),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3957,https://bit.ly/3AkakuW
+NVD-NIST,CVE-2022-3959 (drogon),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3959,https://bit.ly/3AkcE52
+NVD-NIST,CVE-2022-40750 (websphere_application_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40750,https://bit.ly/3TFtIsP
+NVD-NIST,CVE-2022-41882 (desktop),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41882,https://bit.ly/3TMeSAW
+NVD-NIST,CVE-2022-41904 (element),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41904,https://bit.ly/3TARPZS
+NVD-NIST,CVE-2022-45198 (pillow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45198,https://bit.ly/3tyoWmi
+NVD-NIST,CVE-2022-45199 (pillow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45199,https://bit.ly/3AnMIFI
