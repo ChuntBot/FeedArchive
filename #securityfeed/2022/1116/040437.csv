@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6pw3-8h9w-32gc] Apache Airflow vulnerable to OS Command Injection via example DAGs,https://github.com/advisories/GHSA-6pw3-8h9w-32gc,https://bit.ly/3X7UTzG
+GithubAdvisories,[GHSA-fvw2-2pf7-77vw] Apache Airflow subject to Exposure of Sensitive Information,https://github.com/advisories/GHSA-fvw2-2pf7-77vw,https://bit.ly/3X5jWDq
