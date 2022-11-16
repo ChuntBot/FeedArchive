@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommit,Optimized/Fixed Tweet action,https://github.com/mailcow/mailcow-dockerized/commit/17f3cc3ad8502beaeb271398d6886590d133e185,https://bit.ly/3AkHslU
+GithubCommit,Fixed typo in tweet action,https://github.com/mailcow/mailcow-dockerized/commit/a46db9e0df91b45cc44311f617421f780dbe321c,https://bit.ly/3EgDxYC
+GithubCommit,Use @MAGICCC Version of action,https://github.com/mailcow/mailcow-dockerized/commit/046e6589841830a668552e8be9508293c8f2c9cd,https://bit.ly/3hBxqX9
