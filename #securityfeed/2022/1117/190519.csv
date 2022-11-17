@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p66x-2cv9-qq3v] Arbitrary code execution in Apache Commons BeanUtils,https://github.com/advisories/GHSA-p66x-2cv9-qq3v,https://bit.ly/2YmknMb
