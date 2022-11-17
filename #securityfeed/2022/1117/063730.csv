@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-12507 (moni::tool),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12507,https://bit.ly/3GkQnaT
+NVD-NIST,CVE-2020-12508 (moni::tool),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12508,https://bit.ly/3tCVZ9a
+NVD-NIST,CVE-2022-2166 (mastodon),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2166,https://bit.ly/3tCTUde
+NVD-NIST,CVE-2022-30769 (zoneminder),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30769,https://bit.ly/3tDBEQO
+NVD-NIST,CVE-2022-3240 (follow_me_plugin),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3240,https://bit.ly/3ENHsxP
+NVD-NIST,"CVE-2022-3480 (fl_mguard_centerport_firmware, fl_mguard_centerport_vpn-1000_firmware, fl_mguard_core_tx_firmware, fl_mguard_core_tx_vpn_firmware, fl_mguard_delta_tx/tx_firmware, fl_mguard_delta_tx/tx_vpn_firmware, fl_mguard_gt/gt_firmware, fl_mguard_gt/gt_vpn_firmware, fl_mguard_pci4000_firmware, fl_mguard_pci4000_vpn_firmware, fl_mguard_pcie4000_firmware, fl_mguard_pcie4000_vpn_firmware, fl_mguard_rs2000_tx/tx-b_firmware, fl_mguard_rs2000_tx/tx_vpn_firmware, fl_mguard_rs2005_tx_vpn_firmware, fl_mguard_rs4000_tx/tx-m_firmware, fl_mguard_rs4000_tx/tx-p_firmware, fl_mguard_rs4000_tx/tx_firmware, fl_mguard_rs4000_tx/tx_vpn_firmware, fl_mguard_rs4004_tx/dtx_firmware, fl_mguard_rs4004_tx/dtx_vpn_firmware, fl_mguard_smart2_firmware, fl_mguard_smart2_vpn_firmware, tc_mguard_rs2000_3g_vpn_firmware, tc_mguard_rs2000_4g_att_vpn_firmware, tc_mguard_rs2000_4g_vpn_firmware, tc_mguard_rs2000_4g_vzw_vpn_firmware, tc_mguard_rs4000_3g_vpn_firmware, tc_mguard_rs4000_4g_att_vpn_firmware, tc_mguard_rs4000_4g_vpn_firmware, tc_mguard_rs4000_4g_vzw_vpn_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3480,https://bit.ly/3GnHA83
+NVD-NIST,CVE-2022-35613 (konker_platform),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35613,https://bit.ly/3gdKodw
+NVD-NIST,CVE-2022-40308 (archiva),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40308,https://bit.ly/3tCVYC8
+NVD-NIST,CVE-2022-40309 (archiva),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40309,https://bit.ly/3g9TCYi
+NVD-NIST,CVE-2022-40405 (wowonder),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40405,https://bit.ly/3EEGL9V
+NVD-NIST,CVE-2022-42977 (confluence_data_center),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42977,https://bit.ly/3tCVZGc
+NVD-NIST,CVE-2022-42978 (confluence_data_center),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42978,https://bit.ly/3gb2sEX
+NVD-NIST,CVE-2022-42984 (wowonder),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42984,https://bit.ly/3tCVYlC
+NVD-NIST,CVE-2022-43265 (canteen_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43265,https://bit.ly/3EG5ISq
+NVD-NIST,CVE-2022-43279 (limesurvey),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43279,https://bit.ly/3g7SiVP
+NVD-NIST,CVE-2022-43295 (xpdf),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43295,https://bit.ly/3tzsYei
+NVD-NIST,CVE-2022-43688 (concrete_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43688,https://bit.ly/3tDqg7E
+NVD-NIST,CVE-2022-43689 (concrete_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43689,https://bit.ly/3EFEk75
+NVD-NIST,CVE-2022-43690 (concrete_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43690,https://bit.ly/3tCW0de
+NVD-NIST,CVE-2022-43695 (concrete_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43695,https://bit.ly/3EB3tj8
