@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h896-mx9x-g32g] XML External Entity injection in Apache Camel,https://github.com/advisories/GHSA-h896-mx9x-g32g,https://bit.ly/3h9Mfe3
+GithubAdvisories,[GHSA-g2qw-6vrr-v6pq] Apache Jena vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-g2qw-6vrr-v6pq,https://bit.ly/3EIlqMR
