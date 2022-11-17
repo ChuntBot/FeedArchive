@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-3461 (automationworx_software_suite),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3461,https://bit.ly/3tAFUke
+NVD-NIST,"CVE-2022-42121 (dxp, liferay_portal)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42121,https://bit.ly/3TG7Dud
+NVD-NIST,"CVE-2022-42122 (dxp, liferay_portal)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42122,https://bit.ly/3EFAZ7X
+NVD-NIST,CVE-2022-45188 (netatalk),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45188,https://bit.ly/3TK1rBB
