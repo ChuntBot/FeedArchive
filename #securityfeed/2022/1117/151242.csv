@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-4012 (hospital_management_center),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-4012,https://bit.ly/3ObEmGV
+NVD-NIST,CVE-2022-4013 (hospital_management_center),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-4013,https://bit.ly/3hRqMfr
+NVD-NIST,"CVE-2022-42110 (dxp, liferay_portal)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42110,https://bit.ly/3TMM4IB
+NVD-NIST,"CVE-2022-42111 (dxp, liferay_portal)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42111,https://bit.ly/3E8fefu
+NVD-NIST,"CVE-2022-42118 (dxp, liferay_portal)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42118,https://bit.ly/3Oe8st7
+NVD-NIST,"CVE-2022-42119 (dxp, liferay_portal)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42119,https://bit.ly/3hSqPId
+NVD-NIST,"CVE-2022-42120 (dxp, liferay_portal)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42120,https://bit.ly/3TJWyse
+NVD-NIST,CVE-2022-43146 (canteen_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43146,https://bit.ly/3hUyNjK
+NVD-NIST,CVE-2022-43687 (concrete_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43687,https://bit.ly/3E8feMw
+NVD-NIST,CVE-2022-43691 (concrete_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43691,https://bit.ly/3UMMC2z
