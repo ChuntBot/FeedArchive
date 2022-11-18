@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-38819 (simple_image_gallery_web_app),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-38819,https://bit.ly/3EHNTCl
+NVD-NIST,CVE-2022-0324 (software_for_open_networking_in_the_cloud),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-0324,https://bit.ly/3tGXbIm
+NVD-NIST,"CVE-2022-20854 (firepower_management_center, firepower_threat_defense)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20854,https://bit.ly/3ULkv3v
+NVD-NIST,CVE-2022-27895 (foundry_build2),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-27895,https://bit.ly/3AqcSaB
+NVD-NIST,CVE-2022-39834 (primekey_ejbca),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39834,https://bit.ly/3AqMIob
+NVD-NIST,CVE-2022-3992 (sanitization_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3992,https://bit.ly/3tDEPYG
+NVD-NIST,CVE-2022-42187 (hustoj),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42187,https://bit.ly/3AqMnSr
+NVD-NIST,CVE-2022-42245 (dreamer_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42245,https://bit.ly/3Ap07NH
+NVD-NIST,CVE-2022-42246 (duofox_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42246,https://bit.ly/3tHAWly
+NVD-NIST,CVE-2022-42954 (kefactor_ejbca),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42954,https://bit.ly/3EGOOTp
+NVD-NIST,CVE-2022-45136 (jena_sdb),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45136,https://bit.ly/3AprXJK
+NVD-NIST,CVE-2022-45387 (bart),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45387,https://bit.ly/3EH6xtX
