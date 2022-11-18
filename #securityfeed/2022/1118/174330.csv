@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-20831 (firepower_management_center),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20831,https://bit.ly/3AnlL4X
+NVD-NIST,CVE-2022-30773 (kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30773,https://bit.ly/3UOmlkn
+NVD-NIST,CVE-2022-30774 (kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-30774,https://bit.ly/3ELtVH0
+NVD-NIST,CVE-2022-31243 (kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-31243,https://bit.ly/3hP01bH
+NVD-NIST,CVE-2022-32266 (kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32266,https://bit.ly/3AtFAYp
+NVD-NIST,CVE-2022-32267 (kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32267,https://bit.ly/3ELtWe2
+NVD-NIST,CVE-2022-33905 (kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33905,https://bit.ly/3Aolr5S
+NVD-NIST,CVE-2022-33906 (kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33906,https://bit.ly/3UQyxkG
+NVD-NIST,CVE-2022-33907 (kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33907,https://bit.ly/3UNg4FG
+NVD-NIST,CVE-2022-33908 (kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33908,https://bit.ly/3ArdBIG
+NVD-NIST,CVE-2022-33909 (kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33909,https://bit.ly/3AroHh4
+NVD-NIST,CVE-2022-33982 (kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33982,https://bit.ly/3Aolqik
+NVD-NIST,CVE-2022-33983 (kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33983,https://bit.ly/3ELtX1A
+NVD-NIST,CVE-2022-33986 (kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-33986,https://bit.ly/3Xg0xzS
+NVD-NIST,"CVE-2022-42123 (digital_experience_platform, liferay_portal)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42123,https://bit.ly/3ELtYTc
+NVD-NIST,"CVE-2022-42124 (digital_experience_platform, liferay_portal)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42124,https://bit.ly/3XfHN3b
+NVD-NIST,"CVE-2022-42125 (digital_experience_platform, liferay_portal)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42125,https://bit.ly/3ELtWL4
+NVD-NIST,"CVE-2022-42126 (digital_experience_platform, liferay_portal)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42126,https://bit.ly/3TNHZ6U
+NVD-NIST,"CVE-2022-42127 (digital_experience_platform, liferay_portal)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42127,https://bit.ly/3URl6AM
+NVD-NIST,"CVE-2022-42129 (digital_experience_platform, liferay_portal)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42129,https://bit.ly/3Vdevk9
+NVD-NIST,"CVE-2022-42130 (digital_experience_platform, liferay_portal)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42130,https://bit.ly/3Vc21t8
+NVD-NIST,"CVE-2022-42131 (digital_experience_platform, liferay_portal)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42131,https://bit.ly/3TSfg0K
+NVD-NIST,CVE-2022-43294 (tasmota),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43294,https://bit.ly/3ELtYma
+NVD-NIST,CVE-2022-45385 (cloudbees_docker_hub/registry_notification),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45385,https://bit.ly/3TPT9bs
+NVD-NIST,CVE-2022-45386 (violations),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45386,https://bit.ly/3ELtXi6
