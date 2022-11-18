@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m5xf-x7q6-3rm7] List helm chart endpoint of VelaUX APIserver has SSRF vulnerability,https://github.com/advisories/GHSA-m5xf-x7q6-3rm7,https://bit.ly/3tIj6za
