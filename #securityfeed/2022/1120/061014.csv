@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-45395 (cccc),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45395,https://bit.ly/3VeT1TI
+NVD-NIST,CVE-2022-45396 (sourcemonitor),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45396,https://bit.ly/3UVvnfA
+NVD-NIST,CVE-2022-45397 (osf_builder_suite_::_xml_linter),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45397,https://bit.ly/3UTIHkm
+NVD-NIST,CVE-2022-45400 (japex),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45400,https://bit.ly/3OklMwa
