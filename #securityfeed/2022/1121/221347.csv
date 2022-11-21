@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mv77-9g28-cwg3] `CHECK` fail via inputs in `PyFunc`,https://github.com/advisories/GHSA-mv77-9g28-cwg3,https://bit.ly/3gwuzhY
+GithubAdvisories,[GHSA-368v-7v32-52fx] Overflow in `ResizeNearestNeighborGrad`,https://github.com/advisories/GHSA-368v-7v32-52fx,https://bit.ly/3gmP4O8
+GithubAdvisories,[GHSA-cg88-rpvp-cjv5] Out of bounds write in grappler in Tensorflow,https://github.com/advisories/GHSA-cg88-rpvp-cjv5,https://bit.ly/3Vd6QSM
+GithubAdvisories,[GHSA-g9fm-r5mm-rf9f] `CHECK_EQ` fail via input in `SparseMatrixNNZ`,https://github.com/advisories/GHSA-g9fm-r5mm-rf9f,https://bit.ly/3OnuERO
+GithubAdvisories,[GHSA-xvwp-h6jv-7472] FractionalMaxPool and FractionalAVGPool heap out-of-bounds acess,https://github.com/advisories/GHSA-xvwp-h6jv-7472,https://bit.ly/3tPlx2I
+GithubAdvisories,[GHSA-27rc-728f-x5w2] `CHECK` fail via inputs in `SdcaOptimizer`,https://github.com/advisories/GHSA-27rc-728f-x5w2,https://bit.ly/3ErCgy6
+GithubAdvisories,[GHSA-hq7g-wwwp-q46h] `CHECK` fail via inputs in `SparseFillEmptyRowsGrad`,https://github.com/advisories/GHSA-hq7g-wwwp-q46h,https://bit.ly/3i3YbUB
+GithubAdvisories,[GHSA-f2w8-jw48-fr7j] `FractionalMaxPoolGrad` Heap out of bounds read,https://github.com/advisories/GHSA-f2w8-jw48-fr7j,https://bit.ly/3gqWhg4
+GithubAdvisories,[GHSA-rmg2-f698-wq35] `tf.raw_ops.Mfcc` crashes,https://github.com/advisories/GHSA-rmg2-f698-wq35,https://bit.ly/3tLtpT0
