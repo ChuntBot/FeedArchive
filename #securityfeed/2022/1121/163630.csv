@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+PacketstormSecurity,ChurchInfo 1.2.13-1.3.0 Remote Code Execution,https://packetstormsecurity.com/files/169968/churchinfo_upload_exec.rb.txt,https://bit.ly/3EMyKzJ
+PacketstormSecurity,F5 BIG-IP iControl Cross Site Request Forgery,https://packetstormsecurity.com/files/169967/f5_icontrol_soap_csrf_rce_cve_2022_41622.rb.txt,https://bit.ly/3VgyZbK
+PacketstormSecurity,Gentoo Linux Security Advisory 202211-03,https://packetstormsecurity.com/files/169966/glsa-202211-03.txt,https://bit.ly/3hQ8bjY
+PacketstormSecurity,Debian Security Advisory 5286-1,https://packetstormsecurity.com/files/169965/dsa-5286-1.txt,https://bit.ly/3EP7Cju
+PacketstormSecurity,Roxy Fileman 1.4.6 Remote Shell Upload,https://packetstormsecurity.com/files/169964/roxy-fileman_upload.py.txt,https://bit.ly/3VibsHw
+PacketstormSecurity,Boa Web Server 0.94.13 / 0.94.14 Authentication Bypass,https://packetstormsecurity.com/files/169962/boa09414-bypass.txt,https://bit.ly/3hQ8bAu
+PacketstormSecurity,Microsoft Outlook 2019 16.0.13231.20262 Remote Code Execution,https://packetstormsecurity.com/files/169961/CVE-2020-16947.tgz,https://bit.ly/3EQMo4O
+PacketstormSecurity,Microsoft Outlook 2019 16.0.12624.20424 Out-Of-Bounds Read,https://packetstormsecurity.com/files/169960/CVE-2020-1493.tgz,https://bit.ly/3EMbxgZ
+PacketstormSecurity,Microsoft Outlook 2019 16.0.12624.20424 Remote Code Execution,https://packetstormsecurity.com/files/169959/CVE-2020-1349.pdf,https://bit.ly/3Vc9kkm
+PacketstormSecurity,ZTE ZXHN-H108NS Authentication Bypass,https://packetstormsecurity.com/files/169958/zteh108ns-bypass.txt,https://bit.ly/3ENDbKG
+PacketstormSecurity,Red Hat Security Advisory 2022-8543-01,https://packetstormsecurity.com/files/169957/RHSA-2022-8543-01.txt,https://bit.ly/3ERhpW8
+PacketstormSecurity,WordPress BeTheme 26.5.1.4 PHP Object Injection,https://packetstormsecurity.com/files/169955/wpbetheme26514-deserialize.txt,https://bit.ly/3EOI2el
+PacketstormSecurity,Red Hat Security Advisory 2022-8545-01,https://packetstormsecurity.com/files/169953/RHSA-2022-8545-01.txt,https://bit.ly/3Vif2B5
+PacketstormSecurity,Backdoor.Win32.Oblivion.01.a MVID-2022-0658 Insecure Transit,https://packetstormsecurity.com/files/169952/MVID-2022-0658.txt,https://bit.ly/3EQiX2Y
+PacketstormSecurity,Kernel Live Patch Security Notice LSN-0090-1,https://packetstormsecurity.com/files/169951/LSN-0090-1.txt,https://bit.ly/3TZUcpc
+PacketstormSecurity,Gentoo Linux Security Advisory 202211-04,https://packetstormsecurity.com/files/169950/glsa-202211-04.txt,https://bit.ly/3Vd3vDh
+PacketstormSecurity,ZTE ZXHN-H108NS Stack Buffer Overflow / Denial Of Service,https://packetstormsecurity.com/files/169949/zteh108ns-overflow.txt,https://bit.ly/3EPURFr
+PacketstormSecurity,Red Hat Security Advisory 2022-8547-01,https://packetstormsecurity.com/files/169947/RHSA-2022-8547-01.txt,https://bit.ly/3ERa2yj
+PacketstormSecurity,ClicShopping 3.402 Cross Site Scripting,https://packetstormsecurity.com/files/169946/clicshopping3402-xss.txt,https://bit.ly/3hUXcG1
+PacketstormSecurity,Trojan.Win32.Platinum.gen MVID-2022-0657 Code Execution,https://packetstormsecurity.com/files/169945/MVID-2022-0657.txt,https://bit.ly/3VbbhgY
