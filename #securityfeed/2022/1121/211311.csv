@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gq2j-cr96-gvqx] `MirrorPadGrad` heap out of bounds read,https://github.com/advisories/GHSA-gq2j-cr96-gvqx,https://bit.ly/3ABYTii
+GithubAdvisories,[GHSA-h6q3-vv32-2cq5] Buffer overflow in `CONV_3D_TRANSPOSE` on TFLite,https://github.com/advisories/GHSA-h6q3-vv32-2cq5,https://bit.ly/3ENmor5
