@@ -1,0 +1,47 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p2x4-6ghr-6vmq] Exposure of Sensitive Information to an Unauthorized Actor in org.xwiki.platform:xwiki-platform-livetable-ui,https://github.com/advisories/GHSA-p2x4-6ghr-6vmq,https://bit.ly/3UWRIcy
+GithubAdvisories,[GHSA-6w8h-26xx-cf8q] Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection') in org.xwiki.platform:xwiki-platform-menu-ui,https://github.com/advisories/GHSA-6w8h-26xx-cf8q,https://bit.ly/3EQtoDo
+GithubAdvisories,[GHSA-q2hm-2h45-v5g3] Plaintext storage of password after a reset in org.xwiki.platform:xwiki-platform-security-authentication-default,https://github.com/advisories/GHSA-q2hm-2h45-v5g3,https://bit.ly/3UUefXm
+GithubAdvisories,[GHSA-4x5r-6v26-7j4v] Creation of new database tables through login form on PostgreSQL,https://github.com/advisories/GHSA-4x5r-6v26-7j4v,https://bit.ly/3UZItZ6
+GithubAdvisories,[GHSA-5j7g-cf6r-g2h7] Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection') in xwiki-platform-icon-ui,https://github.com/advisories/GHSA-5j7g-cf6r-g2h7,https://bit.ly/3gmXqFu
+GithubAdvisories,[GHSA-p5v9-g8w8-5q4v] Missing Authorization to enable or disable users in org.xwiki.platform:xwiki-platform-user-profile-ui,https://github.com/advisories/GHSA-p5v9-g8w8-5q4v,https://bit.ly/3GJgetc
+GithubAdvisories,[GHSA-2gj2-vj98-j2qq] Missing Authorization in User#setDisabledStatus in org.xwiki.platform:xwiki-platform-oldcore,https://github.com/advisories/GHSA-2gj2-vj98-j2qq,https://bit.ly/3GyB1Qg
+GithubAdvisories,[GHSA-9hqh-fmhg-vq2j] Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection') in AttachmentSelector.xml,https://github.com/advisories/GHSA-9hqh-fmhg-vq2j,https://bit.ly/3GAxUap
+GithubAdvisories,[GHSA-mq7h-5574-hw9f] Cross-Site Request Forgery (CSRF) allowing to delete or rename tags,https://github.com/advisories/GHSA-mq7h-5574-hw9f,https://bit.ly/3tPIhzz
+GithubAdvisories,[GHSA-qccm-wmcq-pwr6] Tailscale daemon is vulnerable to information disclosure via CSRF,https://github.com/advisories/GHSA-qccm-wmcq-pwr6,https://bit.ly/3UVUcrL
+GithubAdvisories,[GHSA-vqp6-rc3h-83cp] Tailscale Windows daemon is vulnerable to RCE via CSRF,https://github.com/advisories/GHSA-vqp6-rc3h-83cp,https://bit.ly/3tQ3eum
+GithubAdvisories,[GHSA-83w4-x5w9-hf4h] XXL-JOB vulnerable to Server-Side Request Forgery (SSRF),https://github.com/advisories/GHSA-83w4-x5w9-hf4h,https://bit.ly/3UUCDZ6
+GithubAdvisories,[GHSA-442f-wcwq-fpcf] Prevent RCE when deserializing untrusted user input,https://github.com/advisories/GHSA-442f-wcwq-fpcf,https://bit.ly/3tRr5Ki
+GithubAdvisories,[GHSA-pp3f-xrw5-q5j4] Lancet vulnerable to path traversal when unzipping files,https://github.com/advisories/GHSA-pp3f-xrw5-q5j4,https://bit.ly/3tMXGAD
+GithubAdvisories,[GHSA-gmf5-q34v-vwvp] Cross-site Scripting in Zenario,https://github.com/advisories/GHSA-gmf5-q34v-vwvp,https://bit.ly/3go5Mwy
+GithubAdvisories,[GHSA-j43m-4pxc-hmqj] Cross-site Scripting in Zenario,https://github.com/advisories/GHSA-j43m-4pxc-hmqj,https://bit.ly/3tPIq65
+GithubAdvisories,[GHSA-f454-jm6x-56q6] Cross-site Scripting in Zenario,https://github.com/advisories/GHSA-f454-jm6x-56q6,https://bit.ly/3tOBAhf
+GithubAdvisories,[GHSA-r9xx-4cmv-856x] Cross-site Scripting in Zenario,https://github.com/advisories/GHSA-r9xx-4cmv-856x,https://bit.ly/3tV3Uyp
+GithubAdvisories,[GHSA-3fjj-p79j-c9hh] Fastify: Incorrect Content-Type parsing can lead to CSRF attack,https://github.com/advisories/GHSA-3fjj-p79j-c9hh,https://bit.ly/3EQIIjt
+GithubAdvisories,[GHSA-w37g-rhq8-7m4j] Snakeyaml vulnerbale to Stack overflow leading to denial of service,https://github.com/advisories/GHSA-w37g-rhq8-7m4j,https://bit.ly/3tPq4SM
+GithubAdvisories,[GHSA-chcg-gh9p-96c5] Jenkins Associated Files Plugin vulnerable to cross-site scripting (XSS),https://github.com/advisories/GHSA-chcg-gh9p-96c5,https://bit.ly/3EPOKkh
+GithubAdvisories,[GHSA-8538-25v4-25pg] XML External Entity Reference in Jenkins JAPEX Plugin,https://github.com/advisories/GHSA-8538-25v4-25pg,https://bit.ly/3GAlteH
+GithubAdvisories,[GHSA-w8wg-62wf-62gm] Missing Authorization in Jenkins Cluster Statistics Plugin,https://github.com/advisories/GHSA-w8wg-62wf-62gm,https://bit.ly/3tMNPer
+GithubAdvisories,[GHSA-24hp-84jp-8wgm] Cross-Site Request Forgery in Jenkins Cluster Statistics Plugin,https://github.com/advisories/GHSA-24hp-84jp-8wgm,https://bit.ly/3gsQ6s8
+GithubAdvisories,[GHSA-8847-xvjw-9g43] Jenkins OSF Builder Suite XML Linter Plugin vulnerable to XML external entity (XXE) attacks,https://github.com/advisories/GHSA-8847-xvjw-9g43,https://bit.ly/3UOHWcp
+GithubAdvisories,[GHSA-h4wx-78p9-fwxw] XML External Entity Reference in Jenkins SourceMonitor Plugin,https://github.com/advisories/GHSA-h4wx-78p9-fwxw,https://bit.ly/3GAs6h6
+GithubAdvisories,[GHSA-f3gj-hvv4-f57v] XML External Entity Reference in Jenkins CCCC Plugin,https://github.com/advisories/GHSA-f3gj-hvv4-f57v,https://bit.ly/3tNeSGf
+GithubAdvisories,[GHSA-x2w2-5552-fjv6] Plaintext Storage of a Password in Jenkins NS-ND Integration Performance Publisher Plugin,https://github.com/advisories/GHSA-x2w2-5552-fjv6,https://bit.ly/3tS1pgx
+GithubAdvisories,[GHSA-hw4f-g7wh-xp52] Cross-Site Request Forgery in Jenkins Delete log Plugin,https://github.com/advisories/GHSA-hw4f-g7wh-xp52,https://bit.ly/3tV3M1T
+GithubAdvisories,[GHSA-3vwm-fc87-mq6h] Improper Certificate Validation in Jenkins NS-ND Integration Performance Publisher Plugin,https://github.com/advisories/GHSA-3vwm-fc87-mq6h,https://bit.ly/3tMpFAA
+GithubAdvisories,[GHSA-x9wp-gfrr-p5rp] Missing Authorization in Jenkins XP-Dev Plugin,https://github.com/advisories/GHSA-x9wp-gfrr-p5rp,https://bit.ly/3gsQ7fG
+GithubAdvisories,[GHSA-9pqq-h9qv-28fp] Jenkins Config Rotator Plugin vulnerable to path traversal,https://github.com/advisories/GHSA-9pqq-h9qv-28fp,https://bit.ly/3UYbbJN
+GithubAdvisories,[GHSA-j923-26c2-qq9p] Jenkins BART Plugin vulnerable to cross-site scripting (XSS),https://github.com/advisories/GHSA-j923-26c2-qq9p,https://bit.ly/3gqn50a
+GithubAdvisories,[GHSA-4598-wcg8-x56g] XML External Entity Reference in Jenkins Violations Plugin,https://github.com/advisories/GHSA-4598-wcg8-x56g,https://bit.ly/3EQfEbS
+GithubAdvisories,[GHSA-v535-pc6r-77qh] Jenkins CloudBees Docker Hub/Registry Notification Plugin is missing permission checks,https://github.com/advisories/GHSA-v535-pc6r-77qh,https://bit.ly/3UUxaBB
+GithubAdvisories,[GHSA-wcjj-qm5v-j4pc] Jenkins Reverse Proxy Auth Plugin vulnerable due to plaintext storage of passwords,https://github.com/advisories/GHSA-wcjj-qm5v-j4pc,https://bit.ly/3GEGwwO
+GithubAdvisories,[GHSA-w2j3-pq63-339w] Incorrect Authorization in Jenkins Support Core Plugin,https://github.com/advisories/GHSA-w2j3-pq63-339w,https://bit.ly/3UUDCYZ
+GithubAdvisories,[GHSA-h8hf-hxx6-5g6v] Cross-site Scripting in Jenkins Naginator Plugin,https://github.com/advisories/GHSA-h8hf-hxx6-5g6v,https://bit.ly/3Vc93hX
+GithubAdvisories,[GHSA-3g9q-cmgv-g4p6] Path Traversal in Jenkins Pipeline Utility Steps Plugin,https://github.com/advisories/GHSA-3g9q-cmgv-g4p6,https://bit.ly/3UXFobQ
+GithubAdvisories,[GHSA-298r-5c48-7q2r] Jenkins JUnit Plugin subject to Cross-site Scripting via URL conversion,https://github.com/advisories/GHSA-298r-5c48-7q2r,https://bit.ly/3ERqsGT
+GithubAdvisories,[GHSA-fv42-mx39-6fpw] Jenkins Script Security Plugin vulnerable due to inadequate encryption strength,https://github.com/advisories/GHSA-fv42-mx39-6fpw,https://bit.ly/3GvQctz
+GithubAdvisories,[GHSA-vj5r-mmp4-3hrx] Jenkins NS-ND Integration Performance Publisher Plugin vulnerable due to improper certificate validation,https://github.com/advisories/GHSA-vj5r-mmp4-3hrx,https://bit.ly/3EQsWoI
+GithubAdvisories,[GHSA-q3hq-hm5h-qrx3] Concrete CMS vulnerable to Cleartext Transmission of Sensitive Information,https://github.com/advisories/GHSA-q3hq-hm5h-qrx3,https://bit.ly/3UUCEfC
+GithubAdvisories,[GHSA-pf36-r9c6-h97j] Invalid char to bool conversion when printing a tensor,https://github.com/advisories/GHSA-pf36-r9c6-h97j,https://bit.ly/3UXZfb8
+GithubAdvisories,[GHSA-frqp-wp83-qggv] Heap overflow in `QuantizeAndDequantizeV2`,https://github.com/advisories/GHSA-frqp-wp83-qggv,https://bit.ly/3gnKQ8X
+GithubAdvisories,[GHSA-rjx6-v474-2ch9] Segfault in `CompositeTensorVariantToComponents`,https://github.com/advisories/GHSA-rjx6-v474-2ch9,https://bit.ly/3ER5Kqx
