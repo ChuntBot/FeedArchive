@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-22141 (kibana),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22141,https://bit.ly/3AGbwsG
+NVD-NIST,CVE-2021-33621 (cgi),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-33621,https://bit.ly/3Vno5RB
+NVD-NIST,CVE-2022-41880 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41880,https://bit.ly/3ExkdGB
+NVD-NIST,CVE-2022-41884 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41884,https://bit.ly/3U4X5VM
+NVD-NIST,CVE-2022-41886 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41886,https://bit.ly/3U3CXTU
+NVD-NIST,CVE-2022-41887 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41887,https://bit.ly/3TZ8GWk
+NVD-NIST,CVE-2022-41888 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41888,https://bit.ly/3iaahv6
+NVD-NIST,CVE-2022-41889 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41889,https://bit.ly/3AEKy4C
+NVD-NIST,CVE-2022-41890 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41890,https://bit.ly/3TYbwe7
+NVD-NIST,CVE-2022-41891 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41891,https://bit.ly/3U0mfEU
+NVD-NIST,CVE-2022-41894 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41894,https://bit.ly/3ExkYiW
+NVD-NIST,CVE-2022-41895 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41895,https://bit.ly/3U8v93y
+NVD-NIST,CVE-2022-41898 (tensorflow),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41898,https://bit.ly/3U0FCOl
+NVD-NIST,CVE-2022-45073 (wordpress_rest_api_authentication),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45073,https://bit.ly/3VaKf9w
