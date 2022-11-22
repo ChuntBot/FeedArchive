@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hf4p-mhc8-x2gp] Apache Archiva vulnerable to Cross Site Request Forgery,https://github.com/advisories/GHSA-hf4p-mhc8-x2gp,https://bit.ly/3tSNgiZ
+GithubAdvisories,[GHSA-8jfm-rgmg-3wq2] Apache Archiva vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-8jfm-rgmg-3wq2,https://bit.ly/3EtUkri
+GithubAdvisories,[GHSA-h24p-qwf4-84q8] Apache Hadoop's LinuxContainerExecutor runs docker commands as root with insufficient input validation,https://github.com/advisories/GHSA-h24p-qwf4-84q8,https://bit.ly/3gqwdlk
+GithubAdvisories,[GHSA-998j-j6v9-5846] Apache Solr UpdateRequestHandler for XML resolves XML External Entities,https://github.com/advisories/GHSA-998j-j6v9-5846,https://bit.ly/3Vll0Bi
+GithubAdvisories,[GHSA-qvq6-cw53-rmwg] Drools Improper Input Validation vulnerability allows remote attackers to execute arbitrary code in JBoss EAP,https://github.com/advisories/GHSA-qvq6-cw53-rmwg,https://bit.ly/3tUxkwW
+GithubAdvisories,[GHSA-w5r6-gx3q-hmxj] springframework-social Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-w5r6-gx3q-hmxj,https://bit.ly/3tSNfLX
+GithubAdvisories,[GHSA-4262-wr7p-gpcj] Rundeck Community Edition vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-4262-wr7p-gpcj,https://bit.ly/3tSNgQ1
+GithubAdvisories,[GHSA-xrh2-c3rm-35jr] HornetQ REST vulnerable to Improper Restriction of XML External Entity Reference,https://github.com/advisories/GHSA-xrh2-c3rm-35jr,https://bit.ly/3tTrnQQ
+GithubAdvisories,[GHSA-2chv-87wj-pjv2] OHDSI WebAPI vulnerable to SQL Injection,https://github.com/advisories/GHSA-2chv-87wj-pjv2,https://bit.ly/3tOH2Ro
+GithubAdvisories,[GHSA-cm43-f2pv-6v68] OS Command Injection in Apache Airflow,https://github.com/advisories/GHSA-cm43-f2pv-6v68,https://bit.ly/3tPXLnt
