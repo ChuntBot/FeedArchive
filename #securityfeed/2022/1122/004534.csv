@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4vrc-q7m6-vq7w] Lin CMS vulnerable to Improper Authentication,https://github.com/advisories/GHSA-4vrc-q7m6-vq7w,https://bit.ly/3EpBhON
+GithubAdvisories,[GHSA-gh7m-j673-wm97] Dolibarr vulnerable to privilege escalation,https://github.com/advisories/GHSA-gh7m-j673-wm97,https://bit.ly/3EpBiCl
+GithubAdvisories,[GHSA-xgq8-jq9w-77r5] Apache Archiva subject to arbitrary directory deletion by users,https://github.com/advisories/GHSA-xgq8-jq9w-77r5,https://bit.ly/3EpBj9n
+GithubAdvisories,[GHSA-m2vv-5vj5-2hm7] Pillow vulnerable to Data Amplification attack,https://github.com/advisories/GHSA-m2vv-5vj5-2hm7,https://bit.ly/3EpBiSR
