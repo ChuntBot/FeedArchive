@@ -1,0 +1,53 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gpv5-rp6w-58r8] Remote code execution vulnerability in dependency System.Drawing.Common,https://github.com/advisories/GHSA-gpv5-rp6w-58r8,https://bit.ly/3EQAvvD
+GithubAdvisories,[GHSA-q48r-xg9h-78m8] Concrete CMS vulnerable to XML External Entity,https://github.com/advisories/GHSA-q48r-xg9h-78m8,https://bit.ly/3ET80xG
+GithubAdvisories,[GHSA-q56r-mw39-944g] Concrete CMS vulnerable to Improper Authentication,https://github.com/advisories/GHSA-q56r-mw39-944g,https://bit.ly/3gk4pzf
+GithubAdvisories,[GHSA-9jc5-9wh5-mc36] Concrete CMS vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-9jc5-9wh5-mc36,https://bit.ly/3ES868y
+GithubAdvisories,[GHSA-m53v-5x5x-5m2p] Concrete CMS vulnerable to Session Fixation,https://github.com/advisories/GHSA-m53v-5x5x-5m2p,https://bit.ly/3TVVIsu
+GithubAdvisories,[GHSA-3cxx-3f53-m92c] Concrete CMS vulnerable to Uncontrolled Resource Consumption leading to DoS,https://github.com/advisories/GHSA-3cxx-3f53-m92c,https://bit.ly/3TVVIZw
+GithubAdvisories,[GHSA-vq39-q549-g786] Concrete CMS vulnerable to Cross-site Scripting via multilingual report,https://github.com/advisories/GHSA-vq39-q549-g786,https://bit.ly/3TXvZ2W
+GithubAdvisories,[GHSA-8782-xgh5-r7mv] Concrete CMS vulnerable to Reflected Cross-Site Scripting via dashboard icons,https://github.com/advisories/GHSA-8782-xgh5-r7mv,https://bit.ly/3Onz37j
+GithubAdvisories,[GHSA-rg6w-c352-p8pg] Concrete CMS vulnerable to Reflected Cross-site Scripting,https://github.com/advisories/GHSA-rg6w-c352-p8pg,https://bit.ly/3Onz2Ah
+GithubAdvisories,[GHSA-jfmc-3975-fv5f] Concrete CMS vulnerable to Reflected Cross-site Scripting via image manipulation library,https://github.com/advisories/GHSA-jfmc-3975-fv5f,https://bit.ly/3F0EshH
+GithubAdvisories,[GHSA-8w5g-3wcv-9g2j] Tensorflow vulnerable to Out-of-Bounds Read,https://github.com/advisories/GHSA-8w5g-3wcv-9g2j,https://bit.ly/3gnIVRX
+GithubAdvisories,[GHSA-4696-g7jj-xg2h] Mapbox is vulnerable to Integer Overflow,https://github.com/advisories/GHSA-4696-g7jj-xg2h,https://bit.ly/3TUZna6
+GithubAdvisories,[GHSA-hf94-8mx5-2vvj] Cross-site Scripting in kiwitcms,https://github.com/advisories/GHSA-hf94-8mx5-2vvj,https://bit.ly/3TRslaB
+GithubAdvisories,[GHSA-g8jw-8vpv-pv5q] Cross-site Scripting in Backdrop CMS,https://github.com/advisories/GHSA-g8jw-8vpv-pv5q,https://bit.ly/3TYaYF4
+GithubAdvisories,[GHSA-4wfh-48v4-3r84] Cross-site Scripting in Apache Hama,https://github.com/advisories/GHSA-4wfh-48v4-3r84,https://bit.ly/3TVVKAC
+GithubAdvisories,[GHSA-68m8-v89j-7j2p] Garbage collection issue in BC-FJA in Java 13 and later,https://github.com/advisories/GHSA-68m8-v89j-7j2p,https://bit.ly/3TQko5C
+GithubAdvisories,[GHSA-66jf-xm2m-7m8r] Stored XSS in Compare Mode,https://github.com/advisories/GHSA-66jf-xm2m-7m8r,https://bit.ly/3gmSb90
+GithubAdvisories,[GHSA-rr8h-f97q-8p9c] Blind SQL Injection via GridFieldSortableHeader,https://github.com/advisories/GHSA-rr8h-f97q-8p9c,https://bit.ly/3TVVJwy
+GithubAdvisories,[GHSA-vvxf-r4vm-2vm6] Reflected XSS in querystring parameters,https://github.com/advisories/GHSA-vvxf-r4vm-2vm6,https://bit.ly/3gmSaSu
+GithubAdvisories,[GHSA-wc6r-4ggc-79w5] Stored XSS using HTMLEditor,https://github.com/advisories/GHSA-wc6r-4ggc-79w5,https://bit.ly/3Onz3UR
+GithubAdvisories,[GHSA-qw4w-vq8v-2wcv] Stored XSS using uppercase characters in HTMLEditor,https://github.com/advisories/GHSA-qw4w-vq8v-2wcv,https://bit.ly/3TVshqo
+GithubAdvisories,[GHSA-pp74-g2q5-j4jf] Stored XSS in custom meta tags,https://github.com/advisories/GHSA-pp74-g2q5-j4jf,https://bit.ly/3TVVL7E
+GithubAdvisories,[GHSA-9cx2-hj6m-fv58] XSS in shortcodes,https://github.com/advisories/GHSA-9cx2-hj6m-fv58,https://bit.ly/3i3TpWU
+GithubAdvisories,[GHSA-vv3r-fxqp-vr3f] XSS via uploaded gpx file,https://github.com/advisories/GHSA-vv3r-fxqp-vr3f,https://bit.ly/3ET0fYy
+GithubAdvisories,[GHSA-44xv-v98g-v79f] URL XSS vulnerability due to outdated jquery in CMS,https://github.com/advisories/GHSA-44xv-v98g-v79f,https://bit.ly/3Onz4rT
+GithubAdvisories,[GHSA-gjg7-qfvp-9hm4] SQL injection in Dolibarr,https://github.com/advisories/GHSA-gjg7-qfvp-9hm4,https://bit.ly/3EO6kW2
+GithubAdvisories,[GHSA-r4gq-hv2r-mrf5] Cross-site Scripting in librenms/librenms,https://github.com/advisories/GHSA-r4gq-hv2r-mrf5,https://bit.ly/3U1Ge65
+GithubAdvisories,[GHSA-cv9g-h8mm-xx5h] Deserialization of Untrusted Data in librenms/librenms,https://github.com/advisories/GHSA-cv9g-h8mm-xx5h,https://bit.ly/3gnoLYj
+GithubAdvisories,[GHSA-264w-gw9g-fhgj] Cross-site Scripting in librenms/librenms,https://github.com/advisories/GHSA-264w-gw9g-fhgj,https://bit.ly/3TWV3Xy
+GithubAdvisories,[GHSA-5h77-4245-pg5p] Cross-site Scripting in librenms/librenms,https://github.com/advisories/GHSA-5h77-4245-pg5p,https://bit.ly/3ERoeqT
+GithubAdvisories,[GHSA-qch4-jmf8-xvp7] Cross-site Scripting in librenms/librenms,https://github.com/advisories/GHSA-qch4-jmf8-xvp7,https://bit.ly/3TPW1Fe
+GithubAdvisories,[GHSA-f3hw-3h74-wr98] Cross-site Scripting in librenms/librenms,https://github.com/advisories/GHSA-f3hw-3h74-wr98,https://bit.ly/3TVVK3A
+GithubAdvisories,[GHSA-p55m-g4m3-qmrp] Cross-site Scripting in librenms/librenms,https://github.com/advisories/GHSA-p55m-g4m3-qmrp,https://bit.ly/3GB2nFy
+GithubAdvisories,[GHSA-x93j-3hh3-6x23] Insufficient Session Expiration in librenms/librenms,https://github.com/advisories/GHSA-x93j-3hh3-6x23,https://bit.ly/3TVVLEG
+GithubAdvisories,[GHSA-r7qp-cfhv-p84w] Uncaught exception in engine.io,https://github.com/advisories/GHSA-r7qp-cfhv-p84w,https://bit.ly/3TVVMbI
+GithubAdvisories,[GHSA-3xg8-cc8f-9wv2] Unsanitized input leading to code injection in Dalli,https://github.com/advisories/GHSA-3xg8-cc8f-9wv2,https://bit.ly/3GCkieW
+GithubAdvisories,[GHSA-7x4w-j98p-854x] Cross site scripting vulnerability with discussion titles,https://github.com/advisories/GHSA-7x4w-j98p-854x,https://bit.ly/3TYb7bA
+GithubAdvisories,[GHSA-gw2g-hhc9-wgjh] Missing Authorization in HashiCorp Consul,https://github.com/advisories/GHSA-gw2g-hhc9-wgjh,https://bit.ly/3TVVMse
+GithubAdvisories,[GHSA-cjp8-vv38-p3g2] Cross-Site Request Forgery in feehi/feehicms,https://github.com/advisories/GHSA-cjp8-vv38-p3g2,https://bit.ly/3GAyBjZ
+GithubAdvisories,[GHSA-cqvq-fvhr-v6hc] `CHECK` failure in `SobolSample` via missing validation,https://github.com/advisories/GHSA-cqvq-fvhr-v6hc,https://bit.ly/3TUZ2Em
+GithubAdvisories,[GHSA-xf83-q765-xm6m] `CHECK` fail in `TensorListScatter` and `TensorListScatterV2` in eager mode,https://github.com/advisories/GHSA-xf83-q765-xm6m,https://bit.ly/3TUssCf
+GithubAdvisories,[GHSA-hffx-r282-w2g9] Path Traversal in Liferay Portal,https://github.com/advisories/GHSA-hffx-r282-w2g9,https://bit.ly/3Os44XI
+GithubAdvisories,[GHSA-cx84-43xc-3gm2] Improper Certificate Validation in Liferay Portal,https://github.com/advisories/GHSA-cx84-43xc-3gm2,https://bit.ly/3Oqx3Lu
+GithubAdvisories,[GHSA-mxvq-cv4x-p3jw] Incorrect Default Permissions in Liferay Portal,https://github.com/advisories/GHSA-mxvq-cv4x-p3jw,https://bit.ly/3TWZO3t
+GithubAdvisories,[GHSA-g6x4-57hp-j4xm] Authorization Bypass in Liferay Portal,https://github.com/advisories/GHSA-g6x4-57hp-j4xm,https://bit.ly/3Oq1YHH
+GithubAdvisories,[GHSA-vjj4-qwcm-552h] Inefficient Regular Expression Complexity in Liferay Portal,https://github.com/advisories/GHSA-vjj4-qwcm-552h,https://bit.ly/3U1i8si
+GithubAdvisories,[GHSA-g8hp-rc67-jf96] Path Traversal in Liferay Portal,https://github.com/advisories/GHSA-g8hp-rc67-jf96,https://bit.ly/3ENStz1
+GithubAdvisories,[GHSA-642h-mx8q-47p2] Missing permissions check in Liferay Portal,https://github.com/advisories/GHSA-642h-mx8q-47p2,https://bit.ly/3TSzBDb
+GithubAdvisories,[GHSA-q6jp-gcww-8v2j] Missing Authorization in Filter Stream Converter Application,https://github.com/advisories/GHSA-q6jp-gcww-8v2j,https://bit.ly/3gmhpEv
+GithubAdvisories,[GHSA-fhw8-8j55-vwgq] Unsafe deserialization in Apache MINA SSHD,https://github.com/advisories/GHSA-fhw8-8j55-vwgq,https://bit.ly/3TVsBW8
+GithubAdvisories,[GHSA-5x9h-p2gx-35mg] Incorrect Default Permissions in Liferay Portal,https://github.com/advisories/GHSA-5x9h-p2gx-35mg,https://bit.ly/3TWWo0N
+GithubAdvisories,[GHSA-wgqm-qp44-cg6x] Incorrect Default Permissions in Liferay Portal,https://github.com/advisories/GHSA-wgqm-qp44-cg6x,https://bit.ly/3GBjXcC
