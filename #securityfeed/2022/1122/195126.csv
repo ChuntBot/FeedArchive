@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jqwh-jrpg-5j3h] Jenkins Favorite Plugin vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-jqwh-jrpg-5j3h,https://bit.ly/3ETnAZR
+GithubAdvisories,[GHSA-5gmf-8gh2-hhfp] Jenkins SSH Plugin user passwords for encrypted SSH keys stored in plaintext,https://github.com/advisories/GHSA-5gmf-8gh2-hhfp,https://bit.ly/3tQtzsb
+GithubAdvisories,[GHSA-798p-53r7-mgw9] Jenkins HipChat Plugin allows attackers with Overall/Read access to obtain credential IDs,https://github.com/advisories/GHSA-798p-53r7-mgw9,https://bit.ly/3EVca82
+GithubAdvisories,[GHSA-w3f7-2qfw-348x] Jenkins HipChat Plugin allows credential capture due to incorrect authorization,https://github.com/advisories/GHSA-w3f7-2qfw-348x,https://bit.ly/3tSJ2rG
+GithubAdvisories,[GHSA-c4mp-h3m2-h5mc] Jenkins CCM Plugin vulnerable to Improper Restriction of XML External Entity Reference,https://github.com/advisories/GHSA-c4mp-h3m2-h5mc,https://bit.ly/3Vi4nGB
+GithubAdvisories,[GHSA-v4mq-p756-p4f5] Play Framework's Assets controller vulnerable to directory traversal,https://github.com/advisories/GHSA-v4mq-p756-p4f5,https://bit.ly/3EWfBvq
+GithubAdvisories,[GHSA-w73q-mc9g-j56x] Asset Pipeline Grails Plugin vulnerable to Path Traversal,https://github.com/advisories/GHSA-w73q-mc9g-j56x,https://bit.ly/3VguSMI
+GithubAdvisories,[GHSA-38ch-x695-m794] Jenkins Groovy Postbuild Plugin vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-38ch-x695-m794,https://bit.ly/3ViUHf3
+GithubAdvisories,[GHSA-7qm4-p377-fr2r] ActiveMQ's OpenWire protocol exposes certain system details as plain text,https://github.com/advisories/GHSA-7qm4-p377-fr2r,https://bit.ly/3ES3jUK
+GithubAdvisories,[GHSA-5whj-523x-6j68] Apache Camel camel-hessian component vulnerable to Java object deserialization,https://github.com/advisories/GHSA-5whj-523x-6j68,https://bit.ly/3tQvoFt
+GithubAdvisories,[GHSA-pj45-8vhc-mh2f] Jenkins Swarm Plugin Client vulnerable to man-in-the-middle attacks,https://github.com/advisories/GHSA-pj45-8vhc-mh2f,https://bit.ly/3EQS3Ib
+GithubAdvisories,[GHSA-hgjr-xwj3-jfvw] JBoss RESTEasy vulnerable to Improper Input Validation,https://github.com/advisories/GHSA-hgjr-xwj3-jfvw,https://bit.ly/3gtDqRM
+GithubAdvisories,[GHSA-fg2q-v428-2gph] Eclipse Vorto resolved Maven build artifacts for the Xtext project over HTTP instead of HTTPS,https://github.com/advisories/GHSA-fg2q-v428-2gph,https://bit.ly/3EUF9Jh
+GithubAdvisories,[GHSA-r68m-wq3x-2hqw] OpenTSDB Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-r68m-wq3x-2hqw,https://bit.ly/3EQAtUB
+GithubAdvisories,[GHSA-86vm-8m4p-6263] OpenTSDB Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-86vm-8m4p-6263,https://bit.ly/3VfAtD2
+GithubAdvisories,[GHSA-6xhj-p29v-82j8] Apache Sentry may allow attacker to access/remove data from Sentry protected table,https://github.com/advisories/GHSA-6xhj-p29v-82j8,https://bit.ly/3Ex7FiI
+GithubAdvisories,[GHSA-g7wm-22m6-5774] Asset Pipeline plugin for Grails vulnerable to Path Traversal,https://github.com/advisories/GHSA-g7wm-22m6-5774,https://bit.ly/3gqG9LE
+GithubAdvisories,[GHSA-cx2v-jrjc-g54w] OpenTSDB vulnerable to OS Command Injection,https://github.com/advisories/GHSA-cx2v-jrjc-g54w,https://bit.ly/3grniA2
+GithubAdvisories,[GHSA-mfjw-x4q4-69p9] Ignite Realtime Openfire vulnerable to Server Side Request Forgery,https://github.com/advisories/GHSA-mfjw-x4q4-69p9,https://bit.ly/3F3IfuF
+GithubAdvisories,[GHSA-59h8-h34r-q9cv] Ignite Realtime Openfire directory traversal vulnerability,https://github.com/advisories/GHSA-59h8-h34r-q9cv,https://bit.ly/3VmM3Mv
+GithubAdvisories,[GHSA-jphj-5g3m-w7x6] Ignite Realtime Openfire vulnerable to cross-site scripting,https://github.com/advisories/GHSA-jphj-5g3m-w7x6,https://bit.ly/3gz8cZj
