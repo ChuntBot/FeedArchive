@@ -1,0 +1,33 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v3h2-4j2r-wqj8] Ignite Realtime Openfire Server has Cross-site Scripting vulnerability in admin console,https://github.com/advisories/GHSA-v3h2-4j2r-wqj8,https://bit.ly/3GAOTJJ
+GithubAdvisories,[GHSA-h2mq-p9r5-wh94] Ignite Realtime Openfire allows Cross-site Scripting,https://github.com/advisories/GHSA-h2mq-p9r5-wh94,https://bit.ly/3XkfBfT
+GithubAdvisories,[GHSA-22c6-3h88-26m3] Ignite Realtime Openfire allows Cross-site Scripting,https://github.com/advisories/GHSA-22c6-3h88-26m3,https://bit.ly/3gphmrx
+GithubAdvisories,[GHSA-5cg5-7vw6-jw4r] Ignite Realtime Openfire allows Cross-site Scripting,https://github.com/advisories/GHSA-5cg5-7vw6-jw4r,https://bit.ly/3XnfuQt
+GithubAdvisories,[GHSA-45r6-j3cc-6mxx] OS Command Injection in Apache Airflow,https://github.com/advisories/GHSA-45r6-j3cc-6mxx,https://bit.ly/3XtPVxs
+GithubAdvisories,[GHSA-rmf2-pwfq-h75j] OS Command Injection in Apache Airflow,https://github.com/advisories/GHSA-rmf2-pwfq-h75j,https://bit.ly/3GCiSku
+GithubAdvisories,[GHSA-7wqf-h36w-47mc] OS Command Injection in Apache Airflow,https://github.com/advisories/GHSA-7wqf-h36w-47mc,https://bit.ly/3gpheIz
+GithubAdvisories,[GHSA-rp7f-fhm8-9hpf] Account Takeover Through Password Reset Poisoning,https://github.com/advisories/GHSA-rp7f-fhm8-9hpf,https://bit.ly/3EsAnkJ
+GithubAdvisories,[GHSA-vcvg-g8p2-3hqr] Cross-site Scripting in Backdrop CMS,https://github.com/advisories/GHSA-vcvg-g8p2-3hqr,https://bit.ly/3XnfEHz
+GithubAdvisories,[GHSA-g9cp-9fw3-56cf] Cross-site Scripting in Backdrop CMS,https://github.com/advisories/GHSA-g9cp-9fw3-56cf,https://bit.ly/3XnqwW2
+GithubAdvisories,[GHSA-8rfc-v3vj-j62w] Jenkins Alauda DevOps Pipeline Plugin allows attackers with Overall/Read permission to capture credentials stored in Jenkins,https://github.com/advisories/GHSA-8rfc-v3vj-j62w,https://bit.ly/3Eyc3Ob
+GithubAdvisories,[GHSA-pv4c-rj4h-gr9m] Jenkins Alauda DevOps Pipeline Plugin vulnerable to cross-site request forgery,https://github.com/advisories/GHSA-pv4c-rj4h-gr9m,https://bit.ly/3XB5YJQ
+GithubAdvisories,[GHSA-27j5-2h6r-c9q2] OpenAPI Tools OpenAPI Generator uses HTTP in various files,https://github.com/advisories/GHSA-27j5-2h6r-c9q2,https://bit.ly/3EuUHSy
+GithubAdvisories,[GHSA-442g-gcg6-mhm4] Play Framework Inadequate Encryption Strength vulnerability,https://github.com/advisories/GHSA-442g-gcg6-mhm4,https://bit.ly/3Xnfv6Z
+GithubAdvisories,[GHSA-237q-6hjp-pchq] JBoss KeyCloak is vulnerable to soft token deletion via CSRF,https://github.com/advisories/GHSA-237q-6hjp-pchq,https://bit.ly/3GEugMT
+GithubAdvisories,[GHSA-wx2w-8pqw-vp4g] Ignite Realtime Openfire allows Cross-site Scripting,https://github.com/advisories/GHSA-wx2w-8pqw-vp4g,https://bit.ly/3EwAKKV
+GithubAdvisories,[GHSA-wq8g-hm94-5rqq] JBoss AS may expose root content if excluded-contexts list is mismatched,https://github.com/advisories/GHSA-wq8g-hm94-5rqq,https://bit.ly/3GA2K3b
+GithubAdvisories,"[GHSA-9fc5-q25c-r2wr] Jasig Java CAS Client, .NET CAS Client, and phpCAS contain URL parameter injection vulnerability",https://github.com/advisories/GHSA-9fc5-q25c-r2wr,https://bit.ly/3EpBDVI
+GithubAdvisories,[GHSA-cqm6-hrgq-6869] Apache OpenMeetings has Inadequate Encryption Strength,https://github.com/advisories/GHSA-cqm6-hrgq-6869,https://bit.ly/3GDESeM
+GithubAdvisories,[GHSA-q52r-g8jf-wv3x] Apache OpenMeetings allows flash content to be loaded from untrusted domains,https://github.com/advisories/GHSA-q52r-g8jf-wv3x,https://bit.ly/3GHTVnQ
+GithubAdvisories,[GHSA-2q65-xxg6-3qh5] Apache OpenMeetings vulnerable to parameter manipulation attacks,https://github.com/advisories/GHSA-2q65-xxg6-3qh5,https://bit.ly/3EuNmlV
+GithubAdvisories,[GHSA-g3vq-f35v-vhgm] Apache OpenMeetings vulnerable to Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-g3vq-f35v-vhgm,https://bit.ly/3XrnsZ2
+GithubAdvisories,[GHSA-xhj7-jr45-5w8r] Apache OpenMeetings updates user password in insecure manner,https://github.com/advisories/GHSA-xhj7-jr45-5w8r,https://bit.ly/3EPqv4T
+GithubAdvisories,[GHSA-cv9j-7q4x-v2g2] Apache OpenMeetings may allow authenticated attacker to deny service for privileged users,https://github.com/advisories/GHSA-cv9j-7q4x-v2g2,https://bit.ly/3gnLvYd
+GithubAdvisories,[GHSA-633w-w2pf-x84r] Apache OpenMeetings Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-633w-w2pf-x84r,https://bit.ly/3Xnfwrz
+GithubAdvisories,[GHSA-f6vf-465r-h42p] Apache OpenMeetings allows remote attackers to read arbitrary files by attempting to upload a file,https://github.com/advisories/GHSA-f6vf-465r-h42p,https://bit.ly/3XrOuiG
+GithubAdvisories,[GHSA-gw38-mxr2-rm8r] Apache OpenMeetings Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-gw38-mxr2-rm8r,https://bit.ly/3XCuR83
+GithubAdvisories,[GHSA-pxj9-mw96-q634] Apache OpenMeetings Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-pxj9-mw96-q634,https://bit.ly/3GAON4P
+GithubAdvisories,[GHSA-67q3-gwww-pm4g] Apache OpenMeetings does not correctly validate uploaded XML documents,https://github.com/advisories/GHSA-67q3-gwww-pm4g,https://bit.ly/3XnfvUx
+GithubAdvisories,[GHSA-335g-xcjh-ghc2] Apache OpenMeetings vulnerable to SQL injection,https://github.com/advisories/GHSA-335g-xcjh-ghc2,https://bit.ly/3i5DgAs
+GithubAdvisories,[GHSA-m5pm-rgvf-vg22] Apache OpenMeetings vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-m5pm-rgvf-vg22,https://bit.ly/3XhZbEy
+GithubAdvisories,[GHSA-4v67-wg88-37p9] Apache OpenMeetings displays Tomcat version and detailed error stack trace,https://github.com/advisories/GHSA-4v67-wg88-37p9,https://bit.ly/3GDzoAH
