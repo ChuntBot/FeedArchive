@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-22wj-vf5f-wrvj] Password exposure in H2 Database,https://github.com/advisories/GHSA-22wj-vf5f-wrvj,https://bit.ly/3OAKJno
+GithubAdvisories,[GHSA-8v23-w4w5-w83c] Cross-Site Request Forgery in Moodle,https://github.com/advisories/GHSA-8v23-w4w5-w83c,https://bit.ly/3V3acrX
+GithubAdvisories,[GHSA-v42f-hq78-8c5m] Denial of service in Mattermost,https://github.com/advisories/GHSA-v42f-hq78-8c5m,https://bit.ly/3V4C0fr
+GithubAdvisories,[GHSA-wqg7-mx6p-2rw3] Command injection in Apache DolphinScheduler Alert Plugins,https://github.com/advisories/GHSA-wqg7-mx6p-2rw3,https://bit.ly/3OuLOwX
