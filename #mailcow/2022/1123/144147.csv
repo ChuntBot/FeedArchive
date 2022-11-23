@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[PHP] Update to 8.1,https://github.com/mailcow/mailcow-dockerized/commit/4dd1b97e386a6f464396c41f56e0f4b3077adade,https://bit.ly/3ErOA1g
+GithubCommitStaging,change 'return 1' to 'exit 1',https://github.com/mailcow/mailcow-dockerized/commit/df17e6b75e3ba3d6993932eff52e972406e60815,https://bit.ly/3ADUmvA
+GithubCommitStaging,[PHP] Polish dockerfile,https://github.com/mailcow/mailcow-dockerized/commit/bc937ed2db47516fb68a4619fb14a14fbbad5368,https://bit.ly/3tRKY3R
+GithubCommitStaging,Fixy comment typo,https://github.com/mailcow/mailcow-dockerized/commit/f2f5e212f5c725c56b4703e5a45b85efe99a540d,https://bit.ly/3i1JEsp
+GithubCommitStaging,Merge pull request #4869 from benpro/patch-1,https://github.com/mailcow/mailcow-dockerized/commit/782eae4d4c55750a3f589cb4a4cf8cff2affa187,https://bit.ly/3gvwV0I
+GithubCommitStaging,Merge pull request #4844 from mailcow/feature/php-8.1,https://github.com/mailcow/mailcow-dockerized/commit/b3bbeee5e2beba2e7112ce73584096aa0c18ff4b,https://bit.ly/3AC6vBq
+GithubCommitStaging,Merge pull request #4855 from BigMichi1/polish_phpfpm_dockerfile,https://github.com/mailcow/mailcow-dockerized/commit/738dcac60d85fe381b4c9f23bc60ad66d6a4eebb,https://bit.ly/3gBaU0p
+GithubCommitStaging,Merge pull request #4848 from nathanielmom/compose-fix,https://github.com/mailcow/mailcow-dockerized/commit/05b897f43e1e4d590f35f11de1113875f437e670,https://bit.ly/3UU6j8B
