@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5jph-wrq7-v9hf] Denial of service in Mattermost,https://github.com/advisories/GHSA-5jph-wrq7-v9hf,https://bit.ly/3EAfUdS
+GithubAdvisories,[GHSA-58rj-w2qf-qjg7] Cross-site Scripting in Backdrop CMS,https://github.com/advisories/GHSA-58rj-w2qf-qjg7,https://bit.ly/3EAfVhW
+GithubAdvisories,[GHSA-562r-vg33-8x8h] TemporaryFolder on unix-like systems does not limit access to created files,https://github.com/advisories/GHSA-562r-vg33-8x8h,https://bit.ly/3VjHWRu
