@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Added SENDER_ADDRESS and SENDER_NAME as variables for messages,https://github.com/mailcow/mailcow-dockerized/commit/e82f3b39755d6bc20ebd0fe5c316028bf7b8f1ea,https://bit.ly/3U4jUc4
+GithubCommitStaging,Added SENDER_ADDRESS and SENDER_NAME as variables for messages,https://github.com/mailcow/mailcow-dockerized/commit/65c74c75c74c1a626b8d8c60921a6dcb689e8f4a,https://bit.ly/3Vj5kP0
+GithubCommitStaging,"Updated DB version and make sure default sound is ""pushover"" when null",https://github.com/mailcow/mailcow-dockerized/commit/57a5a9baeb5758d441fbd6c80a00c9d3c94af153,https://bit.ly/3GIb5Sb
+GithubCommitStaging,Removed regex as we have the address from the header,https://github.com/mailcow/mailcow-dockerized/commit/fd14c51f850beb893624808b468233f874526b84,https://bit.ly/3tXyqI1
+GithubCommitStaging,Fixed issue with subdomain senders + added TO variable and allow new …,https://github.com/mailcow/mailcow-dockerized/commit/d8e314db1a34ef29996f7575b66df894351685e3,https://bit.ly/3u2SGbb
+GithubCommitStaging,Split name and address for TO-variables,https://github.com/mailcow/mailcow-dockerized/commit/360bb6f30603f9bf3104e3fdc575159cc7729805,https://bit.ly/3tXqVBa
+GithubCommitStaging,Add new action Build mailcow backup image,https://github.com/mailcow/mailcow-dockerized/commit/118cb1017a63281fb4dbef4e0959388cc9aacae6,https://bit.ly/3GZCXlh
+GithubCommitStaging,[Helper] Backup and restore: Use latest tag for image,https://github.com/mailcow/mailcow-dockerized/commit/ff7102468ee0db49d866301aecc03690f69f1191,https://bit.ly/3GIeMaw
+GithubCommitStaging,Merge pull request #4860 from yhdsl/master,https://github.com/mailcow/mailcow-dockerized/commit/3e007eeaae800664fede1122afc1da421f79069e,https://bit.ly/3icmRdl
+GithubCommitStaging,Merge pull request #4864 from bluewalk/pushover-improvements,https://github.com/mailcow/mailcow-dockerized/commit/17977a2fff89bf9bbaa71403eab6be4a97e55525,https://bit.ly/3GFoD0P
+GithubCommitStaging,Merge pull request #4868 from mailcow/feat/build-backup-image,https://github.com/mailcow/mailcow-dockerized/commit/31b5faa729ea81256334836993db1f14a6688efb,https://bit.ly/3XuWVKf
