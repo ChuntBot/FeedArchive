@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-34830 (utgard_gpu_kernel_driver),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-34830,https://bit.ly/3F5jZbr
+NVD-NIST,CVE-2022-36111 (immudb),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-36111,https://bit.ly/3VwxVRe
+NVD-NIST,CVE-2022-37772 (maarch_rm),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37772,https://bit.ly/3V9lYAV
