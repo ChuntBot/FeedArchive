@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2009-1142 (open_vm_tools),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2009-1142,https://bit.ly/3UjJ2vE
+NVD-NIST,CVE-2009-1143 (open-vm-tools),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2009-1143,https://bit.ly/3VgvB0H
+NVD-NIST,CVE-2021-35246 (engineer's_toolset),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-35246,https://bit.ly/3ELSbY1
+NVD-NIST,CVE-2021-35284 (cms-php),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-35284,https://bit.ly/3Uf9h6k
+NVD-NIST,CVE-2022-35501 (blog_pro),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35501,https://bit.ly/3EJhk5F
+NVD-NIST,CVE-2022-38113 (security_event_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38113,https://bit.ly/3UjJ2f8
+NVD-NIST,CVE-2022-38114 (security_event_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38114,https://bit.ly/3F939IJ
+NVD-NIST,CVE-2022-38115 (security_event_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38115,https://bit.ly/3FaRskw
+NVD-NIST,CVE-2022-44278 (sanitization_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-44278,https://bit.ly/3u4PZ9l
+NVD-NIST,CVE-2022-44280 (automotive_shop_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-44280,https://bit.ly/3UjJ2Ma
