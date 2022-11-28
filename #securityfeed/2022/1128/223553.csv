@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-395x-wv32-44v5] baserproject/basercms vulnerable to cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-395x-wv32-44v5,https://bit.ly/3GQA31R
+GithubAdvisories,[GHSA-jf2p-4gqj-849g] Temporary File Information Disclosure vulnerability in MPXJ,https://github.com/advisories/GHSA-jf2p-4gqj-849g,https://bit.ly/3Vx5bHZ
+GithubAdvisories,[GHSA-28w4-h56g-grg7] Cross-site Scripting in Jenkins Job Configuration History Plugin,https://github.com/advisories/GHSA-28w4-h56g-grg7,https://bit.ly/3VvkRvi
+GithubAdvisories,[GHSA-3fgr-xjr6-xqm8] code injection in phpxmlrpc/phpxmlrpc,https://github.com/advisories/GHSA-3fgr-xjr6-xqm8,https://bit.ly/3ARVOL9
+GithubAdvisories,[GHSA-9gh8-wp53-ccc6] ghost vulnerable to unauthorized newsletter modification via improper access controls,https://github.com/advisories/GHSA-9gh8-wp53-ccc6,https://bit.ly/3gGfdb1
