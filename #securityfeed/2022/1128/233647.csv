@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w573-4hg7-7wgq] decode-uri-component vulnerable to Denial of Service (DoS),https://github.com/advisories/GHSA-w573-4hg7-7wgq,https://bit.ly/3OITRGl
+GithubAdvisories,[GHSA-995f-9x5r-2rcj] Heap buffer overflow in GPU,https://github.com/advisories/GHSA-995f-9x5r-2rcj,https://bit.ly/3ikgIw3
