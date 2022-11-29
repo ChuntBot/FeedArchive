@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g7fx-mmjc-r7gv] Agent-to-controller security bypass in Jenkins Conjur Secrets Plugin allows decrypting secrets,https://github.com/advisories/GHSA-g7fx-mmjc-r7gv,https://bit.ly/3OQgetM
+GithubAdvisories,[GHSA-mh8g-8jwp-q6xw] CSRF vulnerability in Jenkins batch task Plugin,https://github.com/advisories/GHSA-mh8g-8jwp-q6xw,https://bit.ly/3OK6AbX
+GithubAdvisories,[GHSA-r3rr-wph6-9638] Password stored in plain text by Jenkins Publish Over SSH Plugin,https://github.com/advisories/GHSA-r3rr-wph6-9638,https://bit.ly/3OUhHz5
+GithubAdvisories,[GHSA-j8rg-4hjm-8r95] Path traversal vulnerability in Jenkins Publish Over SSH Plugin,https://github.com/advisories/GHSA-j8rg-4hjm-8r95,https://bit.ly/3OKZS5m
+GithubAdvisories,[GHSA-884c-9wwh-9p6v] CSRF vulnerability and missing permission checks in Jenkins Publish Over SSH Plugin,https://github.com/advisories/GHSA-884c-9wwh-9p6v,https://bit.ly/3ucmTES
+GithubAdvisories,[GHSA-fjpm-hf7c-xgc2] Stored XSS vulnerability in Jenkins Publish Over SSH Plugin,https://github.com/advisories/GHSA-fjpm-hf7c-xgc2,https://bit.ly/3gSPY58
+GithubAdvisories,[GHSA-h6x7-jq46-fp33] Improper credentials masking in Jenkins HashiCorp Vault Plugin,https://github.com/advisories/GHSA-h6x7-jq46-fp33,https://bit.ly/3gK8AEq
+GithubAdvisories,[GHSA-c8cc-hj57-vm65] User passwords transmitted in plain text by Jenkins Active Directory Plugin,https://github.com/advisories/GHSA-c8cc-hj57-vm65,https://bit.ly/3P1yu3v
