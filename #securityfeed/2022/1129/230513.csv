@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fhhx-r983-44xc] SSL/TLS certificate validation globally disabled by Jenkins Proxmox Plugin,https://github.com/advisories/GHSA-fhhx-r983-44xc,https://bit.ly/3Vzv6i8
+GithubAdvisories,[GHSA-w97x-j6rg-55v5] Password stored in plain text by Jenkins Proxmox Plugin,https://github.com/advisories/GHSA-w97x-j6rg-55v5,https://bit.ly/3gQfEzl
