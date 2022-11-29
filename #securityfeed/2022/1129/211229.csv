@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-2721 (octopus_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2721,https://bit.ly/3H01x5h
+NVD-NIST,CVE-2022-45886 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45886,https://bit.ly/3H01wOL
+NVD-NIST,CVE-2022-45887 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45887,https://bit.ly/3VjGiQ6
+NVD-NIST,CVE-2022-45888 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45888,https://bit.ly/3Vkj7oT
