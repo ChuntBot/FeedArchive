@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4wph-9vrm-6v3w] Rdiffweb vulnerable to Missing Authentication for Critical Function,https://github.com/advisories/GHSA-4wph-9vrm-6v3w,https://bit.ly/3F797tv
+GithubAdvisories,[GHSA-463w-hxfv-g9f6] Apache Archiva vulnerable to Sensitive Information Disclosure via anonymous user,https://github.com/advisories/GHSA-463w-hxfv-g9f6,https://bit.ly/3Uc6aw1
