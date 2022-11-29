@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x25h-f84x-wh4m] CSRF vulnerability in Jenkins RocketChat Notifier Plugin,https://github.com/advisories/GHSA-x25h-f84x-wh4m,https://bit.ly/3XL7oBm
+GithubAdvisories,[GHSA-gc7m-x2cj-3775] Missing permission check in Jenkins JiraTestResultReporter Plugin,https://github.com/advisories/GHSA-gc7m-x2cj-3775,https://bit.ly/3gGuYPf
+GithubAdvisories,[GHSA-vqcx-jw4r-6fp3] CSRF vulnerability and missing permission check in Jenkins JiraTestResultReporter Plugin,https://github.com/advisories/GHSA-vqcx-jw4r-6fp3,https://bit.ly/3GTBWuH
+GithubAdvisories,[GHSA-r5r6-v8qh-pmpq] Missing permission checks in Jekins Bitbucket Server Integration Plugin,https://github.com/advisories/GHSA-r5r6-v8qh-pmpq,https://bit.ly/3ioCmza
+GithubAdvisories,[GHSA-45v7-65q8-x294] Stored XSS vulnerability in Jenkins Bitbucket Server Integration Plugin,https://github.com/advisories/GHSA-45v7-65q8-x294,https://bit.ly/3UiNhYg
+GithubAdvisories,[GHSA-qh87-2qvh-5jf8] RabbitMQ password stored in plain text by Jenkins CollabNet Plugins Plugin,https://github.com/advisories/GHSA-qh87-2qvh-5jf8,https://bit.ly/3ioCmPG
+GithubAdvisories,[GHSA-jxmw-3gxf-fprh] Improper masking of credentials Jenkins in Git Plugin,https://github.com/advisories/GHSA-jxmw-3gxf-fprh,https://bit.ly/3P1D6Xn
+GithubAdvisories,[GHSA-cw68-xmm4-c83r] Agent-to-controller security bypass in Jenkins Conjur Secrets Plugin allows retrieving all credentials,https://github.com/advisories/GHSA-cw68-xmm4-c83r,https://bit.ly/3XFZLMB
