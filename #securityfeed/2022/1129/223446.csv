@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4p8f-2fwv-6xcw] Missing permission check in Jenkins RocketChat Notifier Plugin,https://github.com/advisories/GHSA-4p8f-2fwv-6xcw,https://bit.ly/3utVPRX
