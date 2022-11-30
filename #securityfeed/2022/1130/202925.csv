@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-chr6-386q-4m3v] Stored Cross-site Scripting vulnerability in Jenkins Folder-based Authorization Strategy Plugin,https://github.com/advisories/GHSA-chr6-386q-4m3v,https://bit.ly/3gI3itm
+GithubAdvisories,[GHSA-x3m3-g8w6-mf28] Agent-to-controller security bypass in Jenkins Semantic Versioning Plugin,https://github.com/advisories/GHSA-x3m3-g8w6-mf28,https://bit.ly/3EPB0ov
+GithubAdvisories,[GHSA-h2v5-3hpc-85j5] Stored Cross-site Scripting vulnerability in Jenkins Extended Choice Parameter Plugin,https://github.com/advisories/GHSA-h2v5-3hpc-85j5,https://bit.ly/3EPky80
+GithubAdvisories,[GHSA-ch63-6cmg-gwg2] Arbitrary JSON and property file read vulnerability in Jenkins Extended Choice Parameter Plugin,https://github.com/advisories/GHSA-ch63-6cmg-gwg2,https://bit.ly/3EJGXDm
+GithubAdvisories,[GHSA-fqpx-xfjr-2qr9] CSRF vulnerability and missing permission checks in Jenkins Extended Choice Parameter Plugin allow SSRF,https://github.com/advisories/GHSA-fqpx-xfjr-2qr9,https://bit.ly/3EOn0eJ
+GithubAdvisories,[GHSA-x95c-qrqr-2v27] CSRF vulnerability and missing permission checks in Extended Choice Parameter Plugin allow SSRF,https://github.com/advisories/GHSA-x95c-qrqr-2v27,https://bit.ly/3EPBaw7
+GithubAdvisories,[GHSA-hx3r-qwxv-5jw9] Client Secret stored in plain text by Jenkins GitLab Authentication Plugin,https://github.com/advisories/GHSA-hx3r-qwxv-5jw9,https://bit.ly/3ER8V0j
+GithubAdvisories,[GHSA-wj78-8xrx-phr7] Stored Cross-site Scripting vulnerability in Jenkins global-build-stats Plugin,https://github.com/advisories/GHSA-wj78-8xrx-phr7,https://bit.ly/3EPkF3q
+GithubAdvisories,[GHSA-fpxq-w7p9-r924] Arbitrary file read vulnerability in Jenkins kubernetes-cd Plugin,https://github.com/advisories/GHSA-fpxq-w7p9-r924,https://bit.ly/3EYnqj0
+GithubAdvisories,[GHSA-23x5-j68g-6jpw] Missing permission checks in Jenkins kubernetes-cd Plugin allow enumerating credentials IDs,https://github.com/advisories/GHSA-23x5-j68g-6jpw,https://bit.ly/3VqFedp
+GithubAdvisories,[GHSA-vq6c-fvxw-p45v] CSRF vulnerability in Jenkins kubernetes-cd Plugin allow capturing credentials,https://github.com/advisories/GHSA-vq6c-fvxw-p45v,https://bit.ly/3ORbZOh
+GithubAdvisories,[GHSA-794j-hx96-4w3m] CSRF vulnerability and missing permission checks in Jenkins kubernetes-cd Plugin allow capturing credentials,https://github.com/advisories/GHSA-794j-hx96-4w3m,https://bit.ly/3gPX3n2
