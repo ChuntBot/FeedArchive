@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+PacketstormSecurity,perfSONAR 4.4.5 Cross Site Request Forgery,https://packetstormsecurity.com/files/170070/CVE-2022-41413.tgz,https://bit.ly/3OMLk5q
+PacketstormSecurity,perfSONAR 4.4.4 Open Proxy / Relay,https://packetstormsecurity.com/files/170069/CVE-2022-41412.tgz,https://bit.ly/3ONUbUm
+PacketstormSecurity,Clam AntiVirus Toolkit 1.0.0,https://packetstormsecurity.com/files/170068/clamav-1.0.0.tar.gz,https://bit.ly/3FfKH0X
+PacketstormSecurity,Suricata IDPE 6.0.9,https://packetstormsecurity.com/files/170067/suricata-6.0.9.tar.gz,https://bit.ly/3ORF6kw
+PacketstormSecurity,Microsoft Exchange ProxyNotShell Remote Code Execution,https://packetstormsecurity.com/files/170066/exchange_proxynotshell_rce.rb.txt,https://bit.ly/3UguMUl
+PacketstormSecurity,Intel Data Center Manager 4.1.1.45749 Authentication Bypass / Spoofing,https://packetstormsecurity.com/files/170065/idcm41145749-bypass.txt,https://bit.ly/3OPrcQ0
+PacketstormSecurity,OX App Suite 7.10.6 Cross Site Scripting / SSRF / Resource Consumption,https://packetstormsecurity.com/files/170064/OXUIB-1654.txt,https://bit.ly/3OMyKDf
+PacketstormSecurity,Hirschmann (Belden) BAT-C2 8.8.1.0R8 Command Injection,https://packetstormsecurity.com/files/170063/hirschmannbatc2-exec.txt,https://bit.ly/3FeRsjv
+PacketstormSecurity,Red Hat Security Advisory 2022-8669-01,https://packetstormsecurity.com/files/170058/RHSA-2022-8669-01.txt,https://bit.ly/3FgjivV
+PacketstormSecurity,Red Hat Security Advisory 2022-8679-01,https://packetstormsecurity.com/files/170057/RHSA-2022-8679-01.txt,https://bit.ly/3UguMnj
+PacketstormSecurity,Red Hat Security Advisory 2022-8673-01,https://packetstormsecurity.com/files/170056/RHSA-2022-8673-01.txt,https://bit.ly/3UguNaR
+PacketstormSecurity,Red Hat Security Advisory 2022-8680-01,https://packetstormsecurity.com/files/170055/RHSA-2022-8680-01.txt,https://bit.ly/3OPlxti
+PacketstormSecurity,Red Hat Security Advisory 2022-8686-01,https://packetstormsecurity.com/files/170052/RHSA-2022-8686-01.txt,https://bit.ly/3Fhnuve
+PacketstormSecurity,Red Hat Security Advisory 2022-8685-01,https://packetstormsecurity.com/files/170051/RHSA-2022-8685-01.txt,https://bit.ly/3OXkiIz
