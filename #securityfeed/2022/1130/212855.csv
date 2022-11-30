@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m74x-fxjh-3qh9] Free5gc vulnerable to uncontrolled resource consumption,https://github.com/advisories/GHSA-m74x-fxjh-3qh9,https://bit.ly/3EOuLBn
+GithubAdvisories,[GHSA-r3qr-vwvg-43f7] Authenticated OpenRedirect Vulnerability,https://github.com/advisories/GHSA-r3qr-vwvg-43f7,https://bit.ly/3UnlUwa
+GithubAdvisories,[GHSA-v87q-rpwp-qr7q] Jeecg-boot vulnerable to SQL Injection,https://github.com/advisories/GHSA-v87q-rpwp-qr7q,https://bit.ly/3UtNWqc
+GithubAdvisories,[GHSA-4j2x-v3mr-467m] Jeecg-boot vulnerable to SQL injection via updateNullByEmptyString,https://github.com/advisories/GHSA-4j2x-v3mr-467m,https://bit.ly/3ERhng3
+GithubAdvisories,[GHSA-25gv-mvm7-5h3h] Jeecg-boot vulnerable to SQL injection via /sys/user/putRecycleBin,https://github.com/advisories/GHSA-25gv-mvm7-5h3h,https://bit.ly/3ERhnwz
+GithubAdvisories,[GHSA-83g7-8fch-p37m] PaddlePaddle vulnerable to code injection via winstr,https://github.com/advisories/GHSA-83g7-8fch-p37m,https://bit.ly/3UlNycY
+GithubAdvisories,[GHSA-2x8x-jmrp-phxw] Sinatra vulnerable to Reflected File Download attack,https://github.com/advisories/GHSA-2x8x-jmrp-phxw,https://bit.ly/3iseWbY
+GithubAdvisories,[GHSA-rmcx-fg5w-x8j9] FusionAuth vulnerable to directory traversal attack,https://github.com/advisories/GHSA-rmcx-fg5w-x8j9,https://bit.ly/3EQwOVM
+GithubAdvisories,[GHSA-82h9-v8vh-mfpq] Browsershot vulnerable to Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-82h9-v8vh-mfpq,https://bit.ly/3isfi2h
+GithubAdvisories,[GHSA-8hh2-rxm8-7fj8] Missing permission check in Jenkins Continuous Integration with Toad Edge Plugin,https://github.com/advisories/GHSA-8hh2-rxm8-7fj8,https://bit.ly/3Ukqqvu
