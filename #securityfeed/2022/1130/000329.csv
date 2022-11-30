@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5cxc-6hr9-q895] Malware in ipcode,https://github.com/advisories/GHSA-5cxc-6hr9-q895,https://bit.ly/3ilSTDW
+GithubAdvisories,[GHSA-266v-68h7-hv7v] Malware in microsoft-data-mapper-vscode-extension,https://github.com/advisories/GHSA-266v-68h7-hv7v,https://bit.ly/3Vmckes
+GithubAdvisories,[GHSA-f2cq-2cxh-g3jg] Malware in test-draco,https://github.com/advisories/GHSA-f2cq-2cxh-g3jg,https://bit.ly/3ikgyoi
+GithubAdvisories,[GHSA-c3mm-593p-jmmg] Malware in cnscode,https://github.com/advisories/GHSA-c3mm-593p-jmmg,https://bit.ly/3OOEV9D
+GithubAdvisories,[GHSA-6jqx-4vr2-hcv3] Malware in cnscodes,https://github.com/advisories/GHSA-6jqx-4vr2-hcv3,https://bit.ly/3VAFrdJ
+GithubAdvisories,[GHSA-j2jp-wvqg-wc2g] crewjam/saml vulnerable to signature bypass via multiple Assertion elements due to improper authentication,https://github.com/advisories/GHSA-j2jp-wvqg-wc2g,https://bit.ly/3H1Y4U1
+GithubAdvisories,[GHSA-755v-r4x4-qf7m] Stored Cross-Site Scripting (XSS) in Keycloak via groups dropdown,https://github.com/advisories/GHSA-755v-r4x4-qf7m,https://bit.ly/3VjM8kI
+GithubAdvisories,[GHSA-gr58-76rp-mmg4] wger vulnerable to brute force attempts,https://github.com/advisories/GHSA-gr58-76rp-mmg4,https://bit.ly/3OLneb2
+GithubAdvisories,[GHSA-g5cj-5h58-j93w] Jeecg-boot vulnerable to SQL Injection,https://github.com/advisories/GHSA-g5cj-5h58-j93w,https://bit.ly/3VgMjNy
