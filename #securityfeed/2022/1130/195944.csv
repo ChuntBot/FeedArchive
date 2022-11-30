@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7756-56hr-2vcp] Stored Cross-site Scripting vulnerability in Jenkins List Git Branches Parameter Plugin,https://github.com/advisories/GHSA-7756-56hr-2vcp,https://bit.ly/3ETBIRB
+GithubAdvisories,[GHSA-35h9-h439-vvmr] Stored Cross-site Scripting vulnerability in Jenkins Environment Dashboard Plugin,https://github.com/advisories/GHSA-35h9-h439-vvmr,https://bit.ly/3VGxpA8
+GithubAdvisories,[GHSA-m4x7-44c8-jg2x] CSRF vulnerability in Jenkins Release Helper Plugin,https://github.com/advisories/GHSA-m4x7-44c8-jg2x,https://bit.ly/3UjjGxZ
