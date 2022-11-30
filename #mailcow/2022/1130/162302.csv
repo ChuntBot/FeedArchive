@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Update SOGo to 5.8.0 nightly,https://github.com/mailcow/mailcow-dockerized/commit/73370de1f97cb363e5e32a7b625ba01185cc1183,https://bit.ly/3uas6x9
+GithubCommitStaging,Updated mailcow/sogo to 1.112,https://github.com/mailcow/mailcow-dockerized/commit/86b67a9a7b33943161fff0821ee94cbe8641ff01,https://bit.ly/3GZ6zzc
+GithubCommitStaging,Merge pull request #4877 from mailcow/feature/sogo-5.8.0,https://github.com/mailcow/mailcow-dockerized/commit/bed521855011e14261300bc0e23a2c5a59d06309,https://bit.ly/3gKsoI2
