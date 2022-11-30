@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p9gq-76fj-4p4p] Missing permission checks in Jenkins Release Helper Plugin,https://github.com/advisories/GHSA-p9gq-76fj-4p4p,https://bit.ly/3VlxZ6y
+GithubAdvisories,[GHSA-x75r-g63m-82wj] Passwords stored in plain text by Jenkins dbCharts Plugin,https://github.com/advisories/GHSA-x75r-g63m-82wj,https://bit.ly/3VG2HXL
+GithubAdvisories,[GHSA-8g9w-5jv6-7m4x] Personal tokens stored in plain text by Jenkins incapptic connect uploader Plugin,https://github.com/advisories/GHSA-8g9w-5jv6-7m4x,https://bit.ly/3AXRzO2
