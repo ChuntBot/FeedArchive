@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mc92-c859-jr66] Path traversal vulnerability on Windows in Jenkins Continuous Integration with Toad Edge Plugin,https://github.com/advisories/GHSA-mc92-c859-jr66,https://bit.ly/3OTpmh1
+GithubAdvisories,[GHSA-x63v-prhc-xx6f] Stored Cross-site Scripting vulnerability in Jenkins Job and Node ownership Plugin,https://github.com/advisories/GHSA-x63v-prhc-xx6f,https://bit.ly/3OSAcUM
+GithubAdvisories,[GHSA-25f2-wgxj-ph29] Missing permission check in Jenkins Job and Node ownership Plugin,https://github.com/advisories/GHSA-25f2-wgxj-ph29,https://bit.ly/3ueFfFy
+GithubAdvisories,[GHSA-9hcj-449v-9234] CSRF vulnerability in Jenkins Job and Node ownership Plugin,https://github.com/advisories/GHSA-9hcj-449v-9234,https://bit.ly/3ipM7x8
+GithubAdvisories,[GHSA-rwg2-w82x-v57j] XML External Entity Reference vulnerability in Jenkins Pipeline: Phoenix AutoTest Plugin,https://github.com/advisories/GHSA-rwg2-w82x-v57j,https://bit.ly/3H1dwzK
+GithubAdvisories,[GHSA-q787-qgw2-j2qf] Stored Cross-site Scripting vulnerability in Jenkins Tests Selector Plugin,https://github.com/advisories/GHSA-q787-qgw2-j2qf,https://bit.ly/3ubTGKb
+GithubAdvisories,[GHSA-3r5x-x6xf-m8fv] Arbitrary file read vulnerability in Jenkins Tests Selector Plugin,https://github.com/advisories/GHSA-3r5x-x6xf-m8fv,https://bit.ly/3uwKY9T
+GithubAdvisories,[GHSA-5mpf-hw8f-86w9] Sensitive parameter values captured in build metadata files by Jenkins Parameterized Trigger Plugin,https://github.com/advisories/GHSA-5mpf-hw8f-86w9,https://bit.ly/3UlISnq
+GithubAdvisories,[GHSA-874r-46c6-7p4r] Stored Cross-site Scripting vulnerability in Jenkins Favorite Plugin,https://github.com/advisories/GHSA-874r-46c6-7p4r,https://bit.ly/3ubqAe4
+GithubAdvisories,[GHSA-6fg4-36v7-xv32] Stored Cross-site Scripting vulnerability in Jenkins Dashboard View Plugin,https://github.com/advisories/GHSA-6fg4-36v7-xv32,https://bit.ly/3ubnxm6
+GithubAdvisories,[GHSA-pv4m-7c68-f4c5] CSRF vulnerability in Jenkins CloudBees AWS Credentials Plugin,https://github.com/advisories/GHSA-pv4m-7c68-f4c5,https://bit.ly/3UoVJoW
