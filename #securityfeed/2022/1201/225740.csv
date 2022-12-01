@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-53c4-cmhf-gp7w] Stored Cross-site Scripting vulnerability in Jenkins Agent Server Parameter Plugin,https://github.com/advisories/GHSA-53c4-cmhf-gp7w,https://bit.ly/3AY9hkj
+GithubAdvisories,[GHSA-mvq8-hgxh-4v2g] Open redirect vulnerability in Jenkins GitLab Authentication Plugin,https://github.com/advisories/GHSA-mvq8-hgxh-4v2g,https://bit.ly/3AY9ion
+GithubAdvisories,[GHSA-2587-w93g-63m2] Agent-to-controller security bypass in Jenkins HashiCorp Vault Plugin allows reading arbitrary files,https://github.com/advisories/GHSA-2587-w93g-63m2,https://bit.ly/3H3ibkx
+GithubAdvisories,[GHSA-vj3j-8m6x-mjq6] Missing permission check in Jenkins SCP publisher Plugin,https://github.com/advisories/GHSA-vj3j-8m6x-mjq6,https://bit.ly/3AY9hRl
