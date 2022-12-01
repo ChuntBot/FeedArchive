@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-23h5-8ph6-7rfc] Path traversal vulnerability in Jenkins Fortify Plugin,https://github.com/advisories/GHSA-23h5-8ph6-7rfc,https://bit.ly/3UxTQqk
+GithubAdvisories,[GHSA-6q8r-5pm6-v2q8] Stored Cross-site Scripting vulnerability in Jenkins Custom Checkbox Parameter Plugin,https://github.com/advisories/GHSA-6q8r-5pm6-v2q8,https://bit.ly/3gSIcs9
+GithubAdvisories,[GHSA-372f-jc47-7gr5] Missing permission check in Jenkins Conjur Secrets Plugin allows enumerating credentials IDs,https://github.com/advisories/GHSA-372f-jc47-7gr5,https://bit.ly/3UrNvwp
