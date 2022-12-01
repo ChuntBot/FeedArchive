@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-4028 (simple:press),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-4028,https://bit.ly/3HjWHQL
+NVD-NIST,CVE-2022-4029 (simple:press),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-4029,https://bit.ly/3itLHFY
+NVD-NIST,CVE-2022-4030 (simple:press),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-4030,https://bit.ly/3XNwjUS
+NVD-NIST,CVE-2022-4031 (simple:press),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-4031,https://bit.ly/3um59H6
+NVD-NIST,CVE-2022-4128 (mptcp_protocol),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-4128,https://bit.ly/3itKgax
+NVD-NIST,CVE-2022-4129 (layer_2_tunneling_protocol),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-4129,https://bit.ly/3itKiPH
+NVD-NIST,CVE-2022-45301 (chocolatey_ruby),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45301,https://bit.ly/3XNIPUw
+NVD-NIST,CVE-2022-45304 (chocolatey_cmder),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45304,https://bit.ly/3Y1BAIT
+NVD-NIST,CVE-2022-45305 (chocolatey_python3),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45305,https://bit.ly/3um59XC
+NVD-NIST,CVE-2022-45306 (chocolatey_azure-pipelines-agent),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45306,https://bit.ly/3XLXMqb
+NVD-NIST,CVE-2022-45307 (chocolatey_php),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45307,https://bit.ly/3iwuWdj
+NVD-NIST,CVE-2022-45914 (electronic_shelf_label_protocol),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45914,https://bit.ly/3GXLDbH
+NVD-NIST,CVE-2022-45933 (kubeview),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45933,https://bit.ly/3XMmmqW
