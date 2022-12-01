@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,Fixed issue with subdomain senders + added TO variable and allow new …,https://github.com/mailcow/mailcow-dockerized/commit/d8e314db1a34ef29996f7575b66df894351685e3,https://bit.ly/3u2SGbb
+GithubCommit,Split name and address for TO-variables,https://github.com/mailcow/mailcow-dockerized/commit/360bb6f30603f9bf3104e3fdc575159cc7729805,https://bit.ly/3tXqVBa
+GithubCommit,Add new action Build mailcow backup image,https://github.com/mailcow/mailcow-dockerized/commit/118cb1017a63281fb4dbef4e0959388cc9aacae6,https://bit.ly/3GZCXlh
+GithubCommit,[Helper] Backup and restore: Use latest tag for image,https://github.com/mailcow/mailcow-dockerized/commit/ff7102468ee0db49d866301aecc03690f69f1191,https://bit.ly/3GIeMaw
+GithubCommit,Fixy comment typo,https://github.com/mailcow/mailcow-dockerized/commit/f2f5e212f5c725c56b4703e5a45b85efe99a540d,https://bit.ly/3i1JEsp
+GithubCommit,Merge pull request #4869 from benpro/patch-1,https://github.com/mailcow/mailcow-dockerized/commit/782eae4d4c55750a3f589cb4a4cf8cff2affa187,https://bit.ly/3gvwV0I
+GithubCommit,Merge pull request #4844 from mailcow/feature/php-8.1,https://github.com/mailcow/mailcow-dockerized/commit/b3bbeee5e2beba2e7112ce73584096aa0c18ff4b,https://bit.ly/3AC6vBq
+GithubCommit,Merge pull request #4855 from BigMichi1/polish_phpfpm_dockerfile,https://github.com/mailcow/mailcow-dockerized/commit/738dcac60d85fe381b4c9f23bc60ad66d6a4eebb,https://bit.ly/3gBaU0p
+GithubCommit,Merge pull request #4848 from nathanielmom/compose-fix,https://github.com/mailcow/mailcow-dockerized/commit/05b897f43e1e4d590f35f11de1113875f437e670,https://bit.ly/3UU6j8B
+GithubCommit,Merge pull request #4860 from yhdsl/master,https://github.com/mailcow/mailcow-dockerized/commit/3e007eeaae800664fede1122afc1da421f79069e,https://bit.ly/3icmRdl
+GithubCommit,Merge pull request #4864 from bluewalk/pushover-improvements,https://github.com/mailcow/mailcow-dockerized/commit/17977a2fff89bf9bbaa71403eab6be4a97e55525,https://bit.ly/3GFoD0P
+GithubCommit,Merge pull request #4868 from mailcow/feat/build-backup-image,https://github.com/mailcow/mailcow-dockerized/commit/31b5faa729ea81256334836993db1f14a6688efb,https://bit.ly/3XuWVKf
+GithubCommit,Merge pull request #4845 from mailcow/feature/rspamd-3.4,https://github.com/mailcow/mailcow-dockerized/commit/64528d8e0efaa38c888c9fb2a470fe9fc3b68411,https://bit.ly/3grAIMJ
+GithubCommit,[Web] Updated lang.sk-sk.json (#4873),https://github.com/mailcow/mailcow-dockerized/commit/524aba09644640dd41b54dee4946c5d9ef590a43,https://bit.ly/3U8cZ1B
+GithubCommit,Update SOGo to 5.8.0 nightly,https://github.com/mailcow/mailcow-dockerized/commit/73370de1f97cb363e5e32a7b625ba01185cc1183,https://bit.ly/3uas6x9
+GithubCommit,Updated mailcow/sogo to 1.112,https://github.com/mailcow/mailcow-dockerized/commit/86b67a9a7b33943161fff0821ee94cbe8641ff01,https://bit.ly/3GZ6zzc
+GithubCommit,Merge pull request #4877 from mailcow/feature/sogo-5.8.0,https://github.com/mailcow/mailcow-dockerized/commit/bed521855011e14261300bc0e23a2c5a59d06309,https://bit.ly/3gKsoI2
+GithubCommit,Added additional Check for Docker Hub,https://github.com/mailcow/mailcow-dockerized/commit/0b00f15811c328dee74e3b9121282a19846de68b,https://bit.ly/3EMOHEV
+GithubCommit,Merge pull request #4859 from mitch-geht-ab/updatesh-proxy-caplty,https://github.com/mailcow/mailcow-dockerized/commit/ff4f2ae0b6653d6ea8176967e6c7765bd14c5f06,https://bit.ly/3AZM1m9
+GithubCommit,Merge pull request #4882 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/6d8c978d176f353152018ae34cc1c937dab39433,https://bit.ly/3FlrHyo
