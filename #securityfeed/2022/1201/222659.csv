@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wwf6-x2rv-vxqh] Missing permission checks in Jenkins Checkmarx Plugin allow capturing credentials,https://github.com/advisories/GHSA-wwf6-x2rv-vxqh,https://bit.ly/3XN6oge
+GithubAdvisories,[GHSA-gc7q-7vg3-h8gf] Stored Cross-site Scripting vulnerability in Jenkins Promoted Builds (Simple) Plugin,https://github.com/advisories/GHSA-gc7q-7vg3-h8gf,https://bit.ly/3XOuxD6
+GithubAdvisories,[GHSA-mv5c-724f-3fq7] Stored Cross-site Scripting vulnerability in Jenkins Team Views Plugin,https://github.com/advisories/GHSA-mv5c-724f-3fq7,https://bit.ly/3FjBLHV
+GithubAdvisories,[GHSA-x92v-xv3x-9v29] CSRF vulnerability in Jenkins Chef Sinatra Plugin allow XXE,https://github.com/advisories/GHSA-x92v-xv3x-9v29,https://bit.ly/3Flbxok
+GithubAdvisories,[GHSA-fq56-c7rj-j3j9] Missing permission checks in Jenkins Chef Sinatra Plugin allow XXE,https://github.com/advisories/GHSA-fq56-c7rj-j3j9,https://bit.ly/3XJ0f4J
+GithubAdvisories,[GHSA-2pj6-5hqc-w5x9] CSRF vulnerability in Jenkins SWAMP Plugin allows capturing credentials,https://github.com/advisories/GHSA-2pj6-5hqc-w5x9,https://bit.ly/3XHKECi
+GithubAdvisories,[GHSA-6hgm-866r-3cjv] Insecure Deserialization in Apache Commons Collection,https://github.com/advisories/GHSA-6hgm-866r-3cjv,https://bit.ly/2UKEbro
