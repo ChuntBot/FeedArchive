@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hgp8-w8fj-r4cm] ToolJet is vulnerable to Denial of Service (DoS),https://github.com/advisories/GHSA-hgp8-w8fj-r4cm,https://bit.ly/3XTxpyI
+GithubAdvisories,[GHSA-jvc3-wjf6-7c6c] Apache Dolphin Scheduler has insufficiently protected credentials,https://github.com/advisories/GHSA-jvc3-wjf6-7c6c,https://bit.ly/3gSVHYM
+GithubAdvisories,[GHSA-g389-rf5p-fg56] Badaso vulnerable to Remote Code Execution (RCE),https://github.com/advisories/GHSA-g389-rf5p-fg56,https://bit.ly/3Uw7tpI
+GithubAdvisories,[GHSA-79gx-3fm8-qxqq] Microweber vulnerable to cross-site scripting (XSS),https://github.com/advisories/GHSA-79gx-3fm8-qxqq,https://bit.ly/3ixghP5
+GithubAdvisories,[GHSA-6q49-35h6-rq2p] Browsershot version 3.57.3 vulnerable to improper input validation,https://github.com/advisories/GHSA-6q49-35h6-rq2p,https://bit.ly/3ujiMH4
+GithubAdvisories,[GHSA-rc2q-x9mf-w3vf] TestNG is vulnerable to Path Traversal,https://github.com/advisories/GHSA-rc2q-x9mf-w3vf,https://bit.ly/3ulnBje
