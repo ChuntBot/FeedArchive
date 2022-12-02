@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-455j-8hg5-8576] Stored Cross-site Scripting vulnerability in Jenkins Gerrit Trigger Plugin,https://github.com/advisories/GHSA-455j-8hg5-8576,https://bit.ly/3izdaWy
+GithubAdvisories,[GHSA-m3p3-2gp6-ghq8] Stored Cross-site Scripting vulnerability in Jenkins Jira Plugin,https://github.com/advisories/GHSA-m3p3-2gp6-ghq8,https://bit.ly/3HnDQ7p
+GithubAdvisories,[GHSA-f3jq-9c79-j65m] Stored Cross-site Scripting vulnerability in Jenkins Job Generator Plugin,https://github.com/advisories/GHSA-f3jq-9c79-j65m,https://bit.ly/3XVsCMU
+GithubAdvisories,[GHSA-pjm3-f4vh-3h3h] Stored Cross-site Scripting in Jenkins Mask Passwords Plugin,https://github.com/advisories/GHSA-pjm3-f4vh-3h3h,https://bit.ly/3HnDPQT
+GithubAdvisories,[GHSA-2xvx-rw9p-xgfc] Sandbox bypass vulnerability through implicitly allowlisted platform Groovy files in Jenkins Pipeline: Groovy Plugin,https://github.com/advisories/GHSA-2xvx-rw9p-xgfc,https://bit.ly/3Umer0w
+GithubAdvisories,[GHSA-qwgx-mrv5-87j8] CSRF vulnerability in Jenkins Script Security Plugin,https://github.com/advisories/GHSA-qwgx-mrv5-87j8,https://bit.ly/3FmewwR
