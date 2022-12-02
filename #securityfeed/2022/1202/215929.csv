@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hh6f-6fp5-gfpv] Untrusted users can modify some Pipeline libraries in Jenkins Pipeline: Deprecated Groovy Libraries Plugin,https://github.com/advisories/GHSA-hh6f-6fp5-gfpv,https://bit.ly/3VvLyjS
+GithubAdvisories,[GHSA-gp7c-xmmm-7pqr] Stored Cross-site Scripting vulnerabilities in Jenkins Extended Choice Parameter Plugin,https://github.com/advisories/GHSA-gp7c-xmmm-7pqr,https://bit.ly/3UxJeY9
