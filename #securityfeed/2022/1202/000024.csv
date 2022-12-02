@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wpr6-qvcq-8269] Stored Cross-site Scripting vulnerability in Jenkins Subversion Plugin,https://github.com/advisories/GHSA-wpr6-qvcq-8269,https://bit.ly/3ufzNCf
+GithubAdvisories,[GHSA-m5cw-c64p-77h6] CSRF vulnerability in Jenkins Subversion Plugin,https://github.com/advisories/GHSA-m5cw-c64p-77h6,https://bit.ly/3ufB4cm
+GithubAdvisories,[GHSA-vhxq-9mpv-gj87] Private key stored in plain text by Jenkins Google Compute Engine Plugin,https://github.com/advisories/GHSA-vhxq-9mpv-gj87,https://bit.ly/3VtiU30
+GithubAdvisories,[GHSA-g84f-cmc8-682c] Password parameter default values exposed by Jenkins Pipeline: Build Step Plugin,https://github.com/advisories/GHSA-g84f-cmc8-682c,https://bit.ly/3ug8eJ5
+GithubAdvisories,[GHSA-qqwx-hcp6-25vr] Stored XSS vulnerability in Jenkins Generic Webhook Trigger Plugin,https://github.com/advisories/GHSA-qqwx-hcp6-25vr,https://bit.ly/3uePDgq
