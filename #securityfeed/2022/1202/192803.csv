@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2021-31740 (seppmail),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-31740,https://bit.ly/3Fnl9PC
+NVD-NIST,"CVE-2021-4242 (br270n_firmware, brc76n_firmware, gr297n_firmware, rb-1732_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-4242,https://bit.ly/3FmccpC
+NVD-NIST,CVE-2022-1606 (m-files_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-1606,https://bit.ly/3OVYNrC
+NVD-NIST,CVE-2022-1911 (m-files_server),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-1911,https://bit.ly/3indV52
+NVD-NIST,"CVE-2022-22984 (snyk_cli, snyk_cocoapods_cli, snyk_docker_cli, snyk_gradle_cli, snyk_hex_cli, snyk_maven_cli, snyk_python_cli, snyk_sbt_cli)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22984,https://bit.ly/3OZjfbi
+NVD-NIST,CVE-2022-38802 (biotime),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38802,https://bit.ly/3EY0Nev
+NVD-NIST,CVE-2022-38803 (biotime),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38803,https://bit.ly/3EWyb5a
+NVD-NIST,CVE-2022-40489 (thinkcmf),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40489,https://bit.ly/3indVC4
+NVD-NIST,CVE-2022-40849 (thinkcmf),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40849,https://bit.ly/3FiXeRj
+NVD-NIST,CVE-2022-4246 (potplayer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-4246,https://bit.ly/3FwcFWF
+NVD-NIST,CVE-2022-4247 (movie_ticket_booking_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-4247,https://bit.ly/3FmbpF8
+NVD-NIST,CVE-2022-4248 (movie_ticket_booking_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-4248,https://bit.ly/3Fn6XGr
+NVD-NIST,CVE-2022-4249 (movie_ticket_booking_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-4249,https://bit.ly/3OTfZOx
+NVD-NIST,CVE-2022-4252 (canteen_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-4252,https://bit.ly/3indUy0
+NVD-NIST,CVE-2022-4253 (canteen_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-4253,https://bit.ly/3indWpC
+NVD-NIST,CVE-2022-44262 (ff4j),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-44262,https://bit.ly/3EXGtd1
+NVD-NIST,CVE-2022-46152 (op-tee_os),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46152,https://bit.ly/3EXkdA6
+NVD-NIST,CVE-2022-46155 (airtable),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46155,https://bit.ly/3OVxNIG
