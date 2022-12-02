@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-47fc-vmwq-366v] PyTorch vulnerable to arbitrary code execution,https://github.com/advisories/GHSA-47fc-vmwq-366v,https://bit.ly/3uocdDn
+GithubAdvisories,[GHSA-22vc-5pgw-644q] KubeView vulnerable to full cluster takeover due to improper authentication,https://github.com/advisories/GHSA-22vc-5pgw-644q,https://bit.ly/3H623i9
+GithubAdvisories,[GHSA-q7qq-9gx2-ggxv] phpxmlrpc vulnerable to argument injection,https://github.com/advisories/GHSA-q7qq-9gx2-ggxv,https://bit.ly/3XPZKWt
+GithubAdvisories,[GHSA-qv6c-367r-3w6q] XBlock vulnerable to Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-qv6c-367r-3w6q,https://bit.ly/3XTuvdi
+GithubAdvisories,[GHSA-7rg2-cxvp-9p7p] Prometheus Exporter-Toolkit is vulnerable to authentication bypass,https://github.com/advisories/GHSA-7rg2-cxvp-9p7p,https://bit.ly/3Hf6lDQ
+GithubAdvisories,[GHSA-rp2v-v467-q9vq] GuardDog vulnerable to arbitrary file write when scanning a specially-crafted PyPI package,https://github.com/advisories/GHSA-rp2v-v467-q9vq,https://bit.ly/3H7cnGS
+GithubAdvisories,[GHSA-47xh-qxqv-mgvg] kube-httpcache is vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-47xh-qxqv-mgvg,https://bit.ly/3gTNnIf
+GithubAdvisories,[GHSA-7fxm-c848-89q8] static-dev-server vulnerable to path traversal,https://github.com/advisories/GHSA-7fxm-c848-89q8,https://bit.ly/3H2TKnr
+GithubAdvisories,[GHSA-96vh-4rfp-c42c] HTSJDK is vulnerable to exposure of resource(s) to the wrong sphere,https://github.com/advisories/GHSA-96vh-4rfp-c42c,https://bit.ly/3H83b4W
+GithubAdvisories,[GHSA-cvh4-cjc9-84qm] owncast is vulnerable to SQL Injection,https://github.com/advisories/GHSA-cvh4-cjc9-84qm,https://bit.ly/3H6hZkx
+GithubAdvisories,[GHSA-4p38-rc98-cr39] Zenario CMS is vulnerable to Remote Code Execution (RCE),https://github.com/advisories/GHSA-4p38-rc98-cr39,https://bit.ly/3gSrFoe
+GithubAdvisories,[GHSA-8c2c-jxwj-jqgf] Browsershot does not validate URL protocols passed to Browsershot URL method,https://github.com/advisories/GHSA-8c2c-jxwj-jqgf,https://bit.ly/3unBGwO
