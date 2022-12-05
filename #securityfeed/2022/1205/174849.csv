@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2r7v-cmch-5x26] muhammara and hummus vulnerable to Unchecked Return Value to NULL Pointer Dereference,https://github.com/advisories/GHSA-2r7v-cmch-5x26,https://bit.ly/3gZoz1H
