@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x45c-cvp8-q4fm] Capsule vulnerable to privilege escalation by ServiceAccount deployed in a Tenant Namespace,https://github.com/advisories/GHSA-x45c-cvp8-q4fm,https://bit.ly/3P6op5m
+GithubAdvisories,[GHSA-rf3g-v8p5-p675] NodeBB vulnerable to account takeover via prototype vulnerability,https://github.com/advisories/GHSA-rf3g-v8p5-p675,https://bit.ly/3iH2tBD
+GithubAdvisories,[GHSA-rpj2-w6fr-79hc] Keycloak vulnerable to Improper Certificate Validation,https://github.com/advisories/GHSA-rpj2-w6fr-79hc,https://bit.ly/3h2PzNK
