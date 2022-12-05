@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qqff-4vw4-f6hx] Cap'n Proto and its Rust implementation vulnerable to out-of-bounds read due to logic error handling list-of-list,https://github.com/advisories/GHSA-qqff-4vw4-f6hx,https://bit.ly/3VztvcE
