@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9grj-j43m-mjqr] Observable timing discrepancy allows determining username validity in Jenkins,https://github.com/advisories/GHSA-9grj-j43m-mjqr,https://bit.ly/3XX3RQG
+GithubAdvisories,[GHSA-78m5-jpmf-ch7v] GuardDog vulnerable to arbitrary file write when scanning a specially-crafted remote PyPI package,https://github.com/advisories/GHSA-78m5-jpmf-ch7v,https://bit.ly/3VBzcXB
+GithubAdvisories,[GHSA-w66j-xc7r-m2jv] camel-ldap component allows LDAP Injection when using the filter option,https://github.com/advisories/GHSA-w66j-xc7r-m2jv,https://bit.ly/3Y00CYx
+GithubAdvisories,[GHSA-p3rc-946h-8cf5] Unauthorized view fragment access in Jenkins,https://github.com/advisories/GHSA-p3rc-946h-8cf5,https://bit.ly/3Y00BDX
+GithubAdvisories,[GHSA-x2jx-w3wm-9p3p] nadesiko3 allows remote attacker to inject invalid value to decodeURIComponent of nako3edit,https://github.com/advisories/GHSA-x2jx-w3wm-9p3p,https://bit.ly/3Y2kbiU
+GithubAdvisories,[GHSA-q5j9-f95w-f4pr] TERASOLUNA Server Framework vulnerable to ClassLoader manipulation,https://github.com/advisories/GHSA-q5j9-f95w-f4pr,https://bit.ly/3h2UdeK
+GithubAdvisories,[GHSA-cgp8-4m63-fhh5] Apache Commons Net vulnerable to information leakage via malicious server,https://github.com/advisories/GHSA-cgp8-4m63-fhh5,https://bit.ly/3VyKzzt
+GithubAdvisories,[GHSA-2c29-wc65-4cx9] linux-cmdline is vulnerable to Prototype Pollution via the constructor,https://github.com/advisories/GHSA-2c29-wc65-4cx9,https://bit.ly/3Y00Dvz
+GithubAdvisories,[GHSA-vc39-x7w6-6vj7] Apache Tapestry allows deserialization of untrusted data,https://github.com/advisories/GHSA-vc39-x7w6-6vj7,https://bit.ly/3Y00CaZ
