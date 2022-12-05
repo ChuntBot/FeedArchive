@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-65hj-9ppw-77xc] ff4j is vulnerable to Remote Code Execution (RCE),https://github.com/advisories/GHSA-65hj-9ppw-77xc,https://bit.ly/3iFUt3w
+GithubAdvisories,[GHSA-7p7c-pvvx-2vx3] hyper-staticfile's improper validation of Windows paths could lead to directory traversal attack,https://github.com/advisories/GHSA-7p7c-pvvx-2vx3,https://bit.ly/3h5wieI
+GithubAdvisories,[GHSA-4v48-4q5m-8vx4] Prometheus vulnerable to basic authentication bypass,https://github.com/advisories/GHSA-4v48-4q5m-8vx4,https://bit.ly/3UHrw4U
