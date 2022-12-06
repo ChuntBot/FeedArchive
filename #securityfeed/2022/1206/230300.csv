@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ghq7-85hp-fh76] CSRF vulnerability in Jenkins Worksoft Execution Manager Plugin allows capturing credentials,https://github.com/advisories/GHSA-ghq7-85hp-fh76,https://bit.ly/3VAQCmZ
+GithubAdvisories,[GHSA-7qpm-vmwv-hq7h] Stored XSS vulnerability in Jenkins Walti plugin,https://github.com/advisories/GHSA-7qpm-vmwv-hq7h,https://bit.ly/3VGfQka
+GithubAdvisories,[GHSA-q9g4-9fx4-v533] Stored XSS vulnerability in Jenkins DotCi Plugin,https://github.com/advisories/GHSA-q9g4-9fx4-v533,https://bit.ly/3Y1BSzi
+GithubAdvisories,[GHSA-m8xw-9x5x-6vh3] py7zr directory traversal vulnerability,https://github.com/advisories/GHSA-m8xw-9x5x-6vh3,https://bit.ly/3XZIKx9
