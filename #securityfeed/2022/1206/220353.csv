@@ -1,0 +1,34 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-345p-pw5q-g98v] Jenkins Google Compute Engine Plugin does not verify SSH host keys when connecting agents created by the plugin,https://github.com/advisories/GHSA-345p-pw5q-g98v,https://bit.ly/3FxflDl
+GithubAdvisories,[GHSA-x24m-wr2f-p3vc] Jenkins Google Compute Engine Plugin Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-x24m-wr2f-p3vc,https://bit.ly/3FtzeuX
+GithubAdvisories,[GHSA-v98h-rv7j-hf6j] Jenkins Google Compute Engine Plugin Missing Authorization vulnerability,https://github.com/advisories/GHSA-v98h-rv7j-hf6j,https://bit.ly/3FwE2zH
+GithubAdvisories,[GHSA-jg29-c2qj-wpm3] Jenkins Anchore Container Scanner Plugin vulnerable to Insufficiently Protected Credentials,https://github.com/advisories/GHSA-jg29-c2qj-wpm3,https://bit.ly/3VUkLxA
+GithubAdvisories,[GHSA-p9r2-gghq-hc57] Jenkins Multijob plugin did not check permissions in the Resume Build action,https://github.com/advisories/GHSA-p9r2-gghq-hc57,https://bit.ly/3Fxfgj1
+GithubAdvisories,[GHSA-4p59-p85x-f3wx] Jenkins Delphix Plugin vulnerable to Cleartext credential storage,https://github.com/advisories/GHSA-4p59-p85x-f3wx,https://bit.ly/3FumLqU
+GithubAdvisories,[GHSA-98m4-m2c3-qxgq] Jenkins JIRA Plugin allows users to select and use credentials with System scope,https://github.com/advisories/GHSA-98m4-m2c3-qxgq,https://bit.ly/3Fxnmbi
+GithubAdvisories,[GHSA-m3wv-fr8v-fmh7] Jenkins Build-Publisher plugin has Insufficiently Protected Credentials,https://github.com/advisories/GHSA-m3wv-fr8v-fmh7,https://bit.ly/3Fy1igw
+GithubAdvisories,[GHSA-mc22-25r3-2w9w] Parameterized Trigger Plugin fails to check Item/Build permission,https://github.com/advisories/GHSA-mc22-25r3-2w9w,https://bit.ly/3ixwXpo
+GithubAdvisories,[GHSA-xfwj-2f34-32f5] Jenkins Groovy Plugin sandbox bypass vulnerability,https://github.com/advisories/GHSA-xfwj-2f34-32f5,https://bit.ly/3FvGgPF
+GithubAdvisories,[GHSA-fpg6-xqj4-j7wf] Jenkins Jira Plugin Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-fpg6-xqj4-j7wf,https://bit.ly/3h5NCQK
+GithubAdvisories,[GHSA-322x-jv5h-cvjh] Jenkins Ansible Plugin man in the middle vulnerability,https://github.com/advisories/GHSA-322x-jv5h-cvjh,https://bit.ly/3h5NNLU
+GithubAdvisories,[GHSA-fm3j-r98g-97jh] Jenkins Groovy Plugin sandbox bypass vulnerability,https://github.com/advisories/GHSA-fm3j-r98g-97jh,https://bit.ly/3iBXQbP
+GithubAdvisories,[GHSA-362p-56c9-q273] Jenkins iceScrum Plugin stores credentials in Cleartext,https://github.com/advisories/GHSA-362p-56c9-q273,https://bit.ly/3VXlWfz
+GithubAdvisories,[GHSA-h5cx-w235-58hm] Jenkins iceScrum Plugin vulnerable to Missing Authorization,https://github.com/advisories/GHSA-h5cx-w235-58hm,https://bit.ly/3Fwfwyu
+GithubAdvisories,[GHSA-m4vq-v7hw-7fqq] Jenkins RapidDeploy Plugin missing permission check,https://github.com/advisories/GHSA-m4vq-v7hw-7fqq,https://bit.ly/3FvC7v3
+GithubAdvisories,[GHSA-922h-8q8g-w7fx] Jenkins RapidDeploy Plugin Cross-Site Request Forgery plugin,https://github.com/advisories/GHSA-922h-8q8g-w7fx,https://bit.ly/3iJOMBW
+GithubAdvisories,[GHSA-5j9f-5wmp-7f8h] Jenkins Cadence vManager Plugin disables SSL/TLS and hostname verification,https://github.com/advisories/GHSA-5j9f-5wmp-7f8h,https://bit.ly/3FxRymC
+GithubAdvisories,[GHSA-wwr4-79jv-297r] Missing permission checks in Google Kubernetes Engine Jenkins Plugin,https://github.com/advisories/GHSA-wwr4-79jv-297r,https://bit.ly/3h3mxxz
+GithubAdvisories,[GHSA-5c97-gxr3-r368] Jenkins Weibo Plugin stores credentials unencrypted in its global configuration file,https://github.com/advisories/GHSA-5c97-gxr3-r368,https://bit.ly/3Fuy0Qa
+GithubAdvisories,[GHSA-98p6-6428-77v7] Jenkins NeoLoad Plugin stores credentials in cleartext,https://github.com/advisories/GHSA-98p6-6428-77v7,https://bit.ly/3Ftzk5N
+GithubAdvisories,[GHSA-4j4g-fp93-qvrw] Jenkins buildgraph-view Plugin vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-4j4g-fp93-qvrw,https://bit.ly/3Fxns2E
+GithubAdvisories,[GHSA-x546-xrx3-hjx4] Jenkins Dynatrace Plugin vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-x546-xrx3-hjx4,https://bit.ly/3Fuy96a
+GithubAdvisories,[GHSA-6xw9-qq9h-cr68] Jenkins Dynatrace Plugin vulnerable to Insufficiently Protected Credentials,https://github.com/advisories/GHSA-6xw9-qq9h-cr68,https://bit.ly/3WeePzJ
+GithubAdvisories,[GHSA-cqjv-whwg-wh47] Jenkins Dynatrace Plugin contains Incorrect Default Permissions,https://github.com/advisories/GHSA-cqjv-whwg-wh47,https://bit.ly/3VVCMeJ
+GithubAdvisories,[GHSA-hfjr-m75m-wmh7] Jenkins Zulip Plugin vulnerable to Insufficiently Protected Credentials,https://github.com/advisories/GHSA-hfjr-m75m-wmh7,https://bit.ly/3iAU1Ud
+GithubAdvisories,[GHSA-6fv3-w7j6-5xfc] Jenkins Sonar Gerrit Plugin stores credentials unencrypted,https://github.com/advisories/GHSA-6fv3-w7j6-5xfc,https://bit.ly/3P4HaWw
+GithubAdvisories,[GHSA-m36j-f2hf-qgj2] Jenkins Libvirt Slaves Plugin vlnerable to Incorrect Default Permissions,https://github.com/advisories/GHSA-m36j-f2hf-qgj2,https://bit.ly/3P5hNns
+GithubAdvisories,[GHSA-8j3m-j6x6-cp5v] Jenkins Libvirt Slaves Plugin vlnerable to Credential Enumeration,https://github.com/advisories/GHSA-8j3m-j6x6-cp5v,https://bit.ly/3FumEM0
+GithubAdvisories,[GHSA-vx6r-w45x-q3h6] Jenkins Kubernetes CI/CD Plugin vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-vx6r-w45x-q3h6,https://bit.ly/3FvC1DH
+GithubAdvisories,[GHSA-84h6-jf8x-ff2j] Jenkins Bitbucket OAuth Plugin contains Insufficiently Protected Credentials,https://github.com/advisories/GHSA-84h6-jf8x-ff2j,https://bit.ly/3FtvWrA
+GithubAdvisories,[GHSA-m295-m3x4-3mmc] Jenkins Libvirt Slaves Plugin vlnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-m295-m3x4-3mmc,https://bit.ly/3iJOM4U
+GithubAdvisories,[GHSA-7jf5-p556-75pr] Jenkins Kubernetes CI/CD Plugin vulnerable to Credential Enumeration,https://github.com/advisories/GHSA-7jf5-p556-75pr,https://bit.ly/3h8GqDu
