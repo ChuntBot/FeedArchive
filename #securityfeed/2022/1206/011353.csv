@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p37p-wg92-2fc4] Missing permission checks in Jenkins CONS3RT Plugin allow enumerating credentials IDs,https://github.com/advisories/GHSA-p37p-wg92-2fc4,https://bit.ly/3VV0uba
+GithubAdvisories,[GHSA-48q3-5297-wmmx] CSRF vulnerability in Jenkins CONS3RT Plugin allow capturing credentials,https://github.com/advisories/GHSA-48q3-5297-wmmx,https://bit.ly/3XXWHeX
