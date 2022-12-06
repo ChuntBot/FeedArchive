@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xr7p-8q82-878q] teler dashboard vulnerable to DOM-based cross-site scripting (XSS),https://github.com/advisories/GHSA-xr7p-8q82-878q,https://bit.ly/3VNTpcw
+GithubAdvisories,[GHSA-xj33-8r43-r227] Concrete CMS vulnerable to cross-site scripting in the text input field,https://github.com/advisories/GHSA-xj33-8r43-r227,https://bit.ly/3VAxAgH
+GithubAdvisories,[GHSA-7vx2-5349-qj99] ConcreteCMS vulnerable to Xpath injection attacks,https://github.com/advisories/GHSA-7vx2-5349-qj99,https://bit.ly/3P2FdKl
