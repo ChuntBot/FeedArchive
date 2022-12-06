@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-2640 (rcc972_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2640,https://bit.ly/3Fs4NVY
+NVD-NIST,CVE-2022-2641 (rcc972_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2641,https://bit.ly/3VRL0EK
+NVD-NIST,CVE-2022-2642 (rcc972_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-2642,https://bit.ly/3VVStmd
+NVD-NIST,"CVE-2022-3086 (uc-2101-lx_firmware, uc-2102-lx_firmware, uc-2104-lx_firmware, uc-2111-lx_firmware, uc-2112-lx_firmware, uc-2114-t-lx_firmware, uc-2116-t-lx_firmware, uc-3101-t-ap-lx_firmware, uc-3101-t-eu-lx_firmware, uc-3101-t-us-lx_firmware, uc-3111-t-ap-lx-nw_firmware, uc-3111-t-ap-lx_firmware, uc-3111-t-eu-lx-nw_firmware, uc-3111-t-eu-lx_firmware, uc-3111-t-us-lx-nw_firmware, uc-3111-t-us-lx_firmware, uc-3121-t-ap-lx_firmware, uc-3121-t-eu-lx_firmware, uc-3121-t-us-lx_firmware, uc-5101-lx_firmware, uc-5101-t-lx_firmware, uc-5102-lx_firmware, uc-5102-t-lx_firmware, uc-5111-lx_firmware, uc-5111-t-lx_firmware, uc-5112-lx_firmware, uc-5112-t-lx_firmware, uc-8112-lx_firmware, uc-8112a-me-t-lx_firmware, uc-8131-lx_firmware, uc-8132-lx_firmware, uc-8162-lx_firmware, uc-8210-t-lx-s_firmware, uc-8220-t-lx-ap-s_firmware, uc-8220-t-lx-eu-s_firmware, uc-8220-t-lx-us-s_firmware, uc-8220-t-lx_firmware, uc-8410a-lx_firmware, uc-8410a-nw-lx_firmware, uc-8410a-nw-t-lx_firmware, uc-8410a-t-lx_firmware, uc-8540-lx_firmware, uc-8540-t-ct-lx_firmware, uc-8540-t-lx_firmware, uc-8580-lx_firmware, uc-8580-q-lx_firmware, uc-8580-t-ct-lx_firmware, uc-8580-t-ct-q-lx_firmware, uc-8580-t-lx_firmware, uc-8580-t-q-lx_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3086,https://bit.ly/3VWdtJG
+NVD-NIST,CVE-2022-3520 (vim),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3520,https://bit.ly/3HeCIm9
+NVD-NIST,CVE-2022-4272 (warehouse_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-4272,https://bit.ly/3HeCHyB
+NVD-NIST,CVE-2022-4280 (smart_campus_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-4280,https://bit.ly/3FufsPN
+NVD-NIST,CVE-2022-44721 (falcon),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-44721,https://bit.ly/3VWdnBS
+NVD-NIST,CVE-2022-46145 (authentik),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46145,https://bit.ly/3VUFC3L
+NVD-NIST,CVE-2022-46167 (capsule),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46167,https://bit.ly/3uM6aZD
+NVD-NIST,"CVE-2022-46391 (awstats, debian_linux)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46391,https://bit.ly/3Fs65Aj
+NVD-NIST,CVE-2022-46405 (mastodon),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46405,https://bit.ly/3uu1RSh
+NVD-NIST,CVE-2022-46410 (netbackup_flex_scale_appliance),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46410,https://bit.ly/3HeCHP7
+NVD-NIST,"CVE-2022-46411 (access_appliance, netbackup_flex_scale_appliance)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46411,https://bit.ly/3uy2p9G
+NVD-NIST,CVE-2022-46412 (netbackup_flex_scale_appliance),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46412,https://bit.ly/3FswE8m
+NVD-NIST,"CVE-2022-46413 (access_appliance, netbackup_flex_scale_appliance)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46413,https://bit.ly/3VWDvMG
+NVD-NIST,"CVE-2022-46414 (access_appliance, netbackup_flex_scale_appliance)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46414,https://bit.ly/3uuFvA6
