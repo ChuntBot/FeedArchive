@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hcpj-qp55-gfph] GitPython vulnerable to Remote Code Execution due to improper user input validation,https://github.com/advisories/GHSA-hcpj-qp55-gfph,https://bit.ly/3F3R1rb
+GithubAdvisories,[GHSA-hrpp-h998-j3pp] qs vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-hrpp-h998-j3pp,https://bit.ly/3BfFfc1
+GithubAdvisories,[GHSA-jrqh-c9v8-ccx9] Path traversal in Jenkins build-publisher Plugin,https://github.com/advisories/GHSA-jrqh-c9v8-ccx9,https://bit.ly/3F9qxEL
+GithubAdvisories,[GHSA-3jp6-q9cg-rvgj] Missing permission check in Jenkins build-publisher Plugin,https://github.com/advisories/GHSA-3jp6-q9cg-rvgj,https://bit.ly/3h79POj
