@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-74x9-fhc2-p79f] Missing permission checks in Jenkins CONS3RT Plugin allow capturing credentials,https://github.com/advisories/GHSA-74x9-fhc2-p79f,https://bit.ly/3utVA9a
