@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9mc6-vgmq-x6xf] Lack of authentication mechanism in Jenkins DotCi Plugin webhook,https://github.com/advisories/GHSA-9mc6-vgmq-x6xf,https://bit.ly/3VSdMVO
+GithubAdvisories,[GHSA-m8r5-7wf4-63mw] Nadesiko3 OS Command Injection vulnerability,https://github.com/advisories/GHSA-m8r5-7wf4-63mw,https://bit.ly/3HcwNy8
+GithubAdvisories,[GHSA-9895-g6x5-xwcp] Quarkus CORS filter allows simple GET and POST requests with an invalid Origin to proceed,https://github.com/advisories/GHSA-9895-g6x5-xwcp,https://bit.ly/3HxyLJN
