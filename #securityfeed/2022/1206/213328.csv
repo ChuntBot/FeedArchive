@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-346g-jrx9-jgf4] Jenkins 360 FireLine Plugin vulnerable to XML External Entity Reference,https://github.com/advisories/GHSA-346g-jrx9-jgf4,https://bit.ly/3Bb8Q6s
+GithubAdvisories,[GHSA-x3jj-rgw9-7r5g] RCE vulnerability in Jenkins DotCi Plugin,https://github.com/advisories/GHSA-x3jj-rgw9-7r5g,https://bit.ly/3VY2EGO
+GithubAdvisories,[GHSA-hch9-6qrj-5f49] Jenkins Kubernetes CI/CD Plugin vulnerable to Improper Authorization,https://github.com/advisories/GHSA-hch9-6qrj-5f49,https://bit.ly/3F8XxwF
+GithubAdvisories,[GHSA-xcj6-4355-2823] Jenkins Mattermost Notification Plugin contains unencrypted storage of secret token,https://github.com/advisories/GHSA-xcj6-4355-2823,https://bit.ly/3F54JtT
+GithubAdvisories,[GHSA-62fp-j75q-mqhc] Jenkins CRX Content Package Deployer Plugin subject to Cross-Site Request Forgery,https://github.com/advisories/GHSA-62fp-j75q-mqhc,https://bit.ly/3F6uD0b
+GithubAdvisories,[GHSA-jww4-2793-9gmg] Jenkins CRX Content Package Deployer Plugin subject to Missing Authorization,https://github.com/advisories/GHSA-jww4-2793-9gmg,https://bit.ly/3VULREz
+GithubAdvisories,[GHSA-4cmq-88f8-53r5] Jenkins CRX Content Package Deployer Plugin subject to credentials enumeration via Missing Authorization,https://github.com/advisories/GHSA-4cmq-88f8-53r5,https://bit.ly/3FvwOf7
+GithubAdvisories,[GHSA-vx2x-9cff-fhjw] DSInternals Credential Roaming Elevation of Privilege Vulnerability,https://github.com/advisories/GHSA-vx2x-9cff-fhjw,https://bit.ly/3Fs54an
+GithubAdvisories,[GHSA-mhhf-vgwh-fw9h] Passeo uses insecure random number generator,https://github.com/advisories/GHSA-mhhf-vgwh-fw9h,https://bit.ly/3Bb8SLC
+GithubAdvisories,[GHSA-59fh-rjq3-xq7j] Thinkphp has a code logic error,https://github.com/advisories/GHSA-59fh-rjq3-xq7j,https://bit.ly/3Fs55er
+GithubAdvisories,[GHSA-jrmf-xhr6-3428] Jenkins SourceGear Vault plugin transmits credentials in plain text,https://github.com/advisories/GHSA-jrmf-xhr6-3428,https://bit.ly/3Bb8SeA
