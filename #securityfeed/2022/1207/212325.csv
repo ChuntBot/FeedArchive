@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2020-6627 (stcg2000300_firmware, stcg3000300_firmware, stcg4000300_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-6627,https://bit.ly/3h8HtDi
+NVD-NIST,CVE-2022-39098 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39098,https://bit.ly/3HiHRJV
+NVD-NIST,CVE-2022-40209 (wp_smart_import),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-40209,https://bit.ly/3VEKVVn
+NVD-NIST,"CVE-2022-42705 (asterisk, certified_asterisk)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42705,https://bit.ly/3Pd7xJZ
+NVD-NIST,"CVE-2022-42706 (asterisk, certified_asterisk)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42706,https://bit.ly/3VxqnOp
+NVD-NIST,CVE-2022-42764 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42764,https://bit.ly/3BhLvjo
+NVD-NIST,CVE-2022-42766 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42766,https://bit.ly/3h8oFUJ
+NVD-NIST,CVE-2022-42782 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42782,https://bit.ly/3Pchh7y
+NVD-NIST,CVE-2022-4296 (tl-wr740n_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-4296,https://bit.ly/3VGRruK
+NVD-NIST,CVE-2022-4300 (fastcms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-4300,https://bit.ly/3VDFHJu
+NVD-NIST,CVE-2022-45816 (gd_bbpress_attachments),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45816,https://bit.ly/3VDAfWJ
+NVD-NIST,CVE-2022-45848 (contest_gallery),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45848,https://bit.ly/3P88Zx8
