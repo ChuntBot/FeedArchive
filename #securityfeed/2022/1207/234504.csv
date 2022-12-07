@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q9hp-hcxc-4h7w] Malware in bluebird.node,https://github.com/advisories/GHSA-q9hp-hcxc-4h7w,https://bit.ly/3Pdngsv
+GithubAdvisories,[GHSA-jfvp-cq4x-cx4p] Malware in read.node,https://github.com/advisories/GHSA-jfvp-cq4x-cx4p,https://bit.ly/3Y3TgDx
+GithubAdvisories,[GHSA-qqfx-rpxc-ghp4] Malware in --hiljson,https://github.com/advisories/GHSA-qqfx-rpxc-ghp4,https://bit.ly/3uzSoJa
+GithubAdvisories,[GHSA-5r9v-fc75-4xpq] Malware in hiljsonhil,https://github.com/advisories/GHSA-5r9v-fc75-4xpq,https://bit.ly/3h6CeUz
+GithubAdvisories,[GHSA-f599-g98m-m3rr] Malware in securityrele,https://github.com/advisories/GHSA-f599-g98m-m3rr,https://bit.ly/3uymA7F
+GithubAdvisories,[GHSA-g57m-g35r-wvcm] Malware in testherejson,https://github.com/advisories/GHSA-g57m-g35r-wvcm,https://bit.ly/3uQOEn3
+GithubAdvisories,[GHSA-f44q-634c-jvwv] libp2p DoS vulnerability from lack of resource management,https://github.com/advisories/GHSA-f44q-634c-jvwv,https://bit.ly/3Y3Tg6v
+GithubAdvisories,[GHSA-2qjp-425j-52j9] containerd CRI stream server vulnerable to host memory exhaustion via terminal,https://github.com/advisories/GHSA-2qjp-425j-52j9,https://bit.ly/3uwh6dx
