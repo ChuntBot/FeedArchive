@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j453-hm5x-c46w] Echo vulnerable to directory traversal,https://github.com/advisories/GHSA-j453-hm5x-c46w,https://bit.ly/3Y6PSrC
