@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vxwf-79ch-f7f7] baserCMS vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-vxwf-79ch-f7f7,https://bit.ly/3PajTm0
+GithubAdvisories,[GHSA-7w2v-35j3-xrm9] baserCMS vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-7w2v-35j3-xrm9,https://bit.ly/3FuTgFj
+GithubAdvisories,[GHSA-h972-v458-m892] Craft CMS discloses password hashes,https://github.com/advisories/GHSA-h972-v458-m892,https://bit.ly/3Hlyg5d
+GithubAdvisories,[GHSA-gcjf-29m9-888q] PaddlePaddle vulnerable to Code Injection,https://github.com/advisories/GHSA-gcjf-29m9-888q,https://bit.ly/3FzJdz1
