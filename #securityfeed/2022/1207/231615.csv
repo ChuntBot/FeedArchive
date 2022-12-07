@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j7qp-mfxf-8xjw] libp2p DoS vulnerability from lack of resource management,https://github.com/advisories/GHSA-j7qp-mfxf-8xjw,https://bit.ly/3HiHPBS
+GithubAdvisories,[GHSA-43fp-rhv2-5gv8] Certifi removing TrustCor root certificate,https://github.com/advisories/GHSA-43fp-rhv2-5gv8,https://bit.ly/3PcuAVy
