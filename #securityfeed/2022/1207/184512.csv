@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cghg-jcv6-4v5m] Jenkins Coverity Plugin has Insufficiently Protected Credentials,https://github.com/advisories/GHSA-cghg-jcv6-4v5m,https://bit.ly/3heYKKW
+GithubAdvisories,[GHSA-rvx4-gg8w-qw24] Jenkins Google Play Android Publisher Plugin allows attacker to obtain credential IDs,https://github.com/advisories/GHSA-rvx4-gg8w-qw24,https://bit.ly/3UE1IX6
+GithubAdvisories,[GHSA-w9gq-8q35-3jcc] Jenkins Subversion Plugin Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-w9gq-8q35-3jcc,https://bit.ly/3UK2phv
+GithubAdvisories,[GHSA-5fq9-x9f4-x2r2] Jenkins z/OS Connector Plugin allows local attacker to retrieve configured password,https://github.com/advisories/GHSA-5fq9-x9f4-x2r2,https://bit.ly/3BdIsc8
