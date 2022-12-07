@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-23143 (otcp_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23143,https://bit.ly/3XYxCk9
+NVD-NIST,CVE-2022-27773 (endpoint_manager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-27773,https://bit.ly/3h5srhJ
+NVD-NIST,CVE-2022-37325 (asterisk),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37325,https://bit.ly/3YgeWwq
+NVD-NIST,CVE-2022-39097 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39097,https://bit.ly/3iL5JMj
+NVD-NIST,CVE-2022-42765 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42765,https://bit.ly/3uvmopx
+NVD-NIST,CVE-2022-42772 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42772,https://bit.ly/3FzYFek
+NVD-NIST,CVE-2022-42773 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42773,https://bit.ly/3VGIjGl
+NVD-NIST,CVE-2022-42774 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42774,https://bit.ly/3uDzHUV
+NVD-NIST,"CVE-2022-43516 (windows_firewall, zabbix)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43516,https://bit.ly/3uvEkjQ
