@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2022-35508 (proxmox_mail_gateway, pve_http_server, virtual_environment)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35508,https://bit.ly/3W2wjPn
+NVD-NIST,CVE-2022-38337 (mobaxterm),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-38337,https://bit.ly/3HgANxs
+NVD-NIST,CVE-2022-39096 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-39096,https://bit.ly/3P7W7qY
+NVD-NIST,CVE-2022-4269 (linux_kernel),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-4269,https://bit.ly/3Y39XPu
+NVD-NIST,CVE-2022-43549 (veeam_backup_for_google_cloud),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43549,https://bit.ly/3VVM22D
