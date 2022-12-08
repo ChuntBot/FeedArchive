@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4crw-w8pw-2hmf] Buildah (as part of Podman) vulnerable to Link Following,https://github.com/advisories/GHSA-4crw-w8pw-2hmf,https://da.gd/wvlLK2
+GithubAdvisories,[GHSA-gg8r-xjwq-4w92] Cross-site scripting vulnerability in TinyMCE alerts,https://github.com/advisories/GHSA-gg8r-xjwq-4w92,https://da.gd/KNSjO
