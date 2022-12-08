@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x39j-h85h-3f46] go-merkledag's ProtoNode may be modified such that common method calls may panic,https://github.com/advisories/GHSA-x39j-h85h-3f46,https://da.gd/jLhjV
