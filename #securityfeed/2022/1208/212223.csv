@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2022-23472 (passeo),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23472,https://da.gd/ipXCY1
+NVD-NIST,"CVE-2022-35254 (connect_secure, neurons_for_zero-trust_access, policy_secure, pulse_connect_secure, pulse_policy_secure)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35254,https://da.gd/6B5TCS
+NVD-NIST,"CVE-2022-35256 (llhttp, node.js)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-35256,https://da.gd/ljtn
+NVD-NIST,CVE-2022-37406 (aficio_sp_4210n_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-37406,https://da.gd/8UJic
+NVD-NIST,CVE-2022-41559 (nimbus),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41559,https://da.gd/SsPu
+NVD-NIST,"CVE-2022-41622 (big-ip_access_policy_manager, big-ip_advanced_firewall_manager, big-ip_analytics, big-ip_application_acceleration_manager, big-ip_application_security_manager, big-ip_domain_name_system, big-ip_fraud_protection_service, big-ip_global_traffic_manager, big-ip_link_controller, big-ip_local_traffic_manager, big-ip_policy_enforcement_manager, big-iq_centralized_management)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-41622,https://da.gd/IlAm
+NVD-NIST,CVE-2022-44030 (redmine),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-44030,https://da.gd/kG5hJ
+NVD-NIST,CVE-2022-44153 (rapid_scada),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-44153,https://da.gd/sV7FZ
+NVD-NIST,CVE-2022-45025 (markdown_preview_enhanced),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45025,https://da.gd/VicM
+NVD-NIST,CVE-2022-45026 (markdown_preview_enhanced),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45026,https://da.gd/wNxQC
