@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9qgp-9wwc-v29r] PrestaShop has potential Information exposure in the upload directory,https://github.com/advisories/GHSA-9qgp-9wwc-v29r,https://da.gd/kfrc
+GithubAdvisories,[GHSA-h2ph-vhm7-g4hp] Traefik may display authorization header in the debug logs,https://github.com/advisories/GHSA-h2ph-vhm7-g4hp,https://da.gd/FPVs4O
+GithubAdvisories,[GHSA-468w-8x39-gj5v] Traefik routes exposed with an empty TLSOption,https://github.com/advisories/GHSA-468w-8x39-gj5v,https://da.gd/Vn2rT
+GithubAdvisories,[GHSA-969w-q74q-9j8v] Unsound API in `secp256k1` allows use-after-free and invalid deallocation from safe code,https://github.com/advisories/GHSA-969w-q74q-9j8v,https://da.gd/n0xtR
+GithubAdvisories,[GHSA-c4pm-63cg-9j7h] Yauaa vulnerable to ArrayIndexOutOfBoundsException triggered by a crafted Sec-Ch-Ua-Full-Version-List,https://github.com/advisories/GHSA-c4pm-63cg-9j7h,https://da.gd/cbm17h
