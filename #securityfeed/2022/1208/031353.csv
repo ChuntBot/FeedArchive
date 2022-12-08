@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qv4q-mr5r-qprj] Unchecked return value from xmlTextReaderExpand,https://github.com/advisories/GHSA-qv4q-mr5r-qprj,https://bit.ly/3VWPxps
