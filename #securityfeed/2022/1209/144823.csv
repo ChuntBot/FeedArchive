@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2348-ccqj-8p27] Jenkins RQM Plugin allows enumerating credentials IDs due to missing permission check,https://github.com/advisories/GHSA-2348-ccqj-8p27,https://da.gd/xsxN
+GithubAdvisories,[GHSA-4v5c-5v6c-37pj] Jenkins Matrix Reloaded Plugin vulnerable to CSRF,https://github.com/advisories/GHSA-4v5c-5v6c-37pj,https://da.gd/NeR4it
+GithubAdvisories,[GHSA-2463-7265-h8r4] Jenkins Matrix Reloaded Plugin vulnerable to Stored XSS,https://github.com/advisories/GHSA-2463-7265-h8r4,https://da.gd/dYJrc5
+GithubAdvisories,[GHSA-3hx4-285w-v6mm] Jenkins Project Inheritance Plugin vulnerable to cross site scripting,https://github.com/advisories/GHSA-3hx4-285w-v6mm,https://da.gd/BXWL1
+GithubAdvisories,[GHSA-2588-cx6w-6vm6] Missing permission checks in Jenkins XebiaLabs XL Release Plugin allow capturing credentials,https://github.com/advisories/GHSA-2588-cx6w-6vm6,https://da.gd/cTW0Z
