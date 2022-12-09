@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rprg-4v7q-87v7] Buildah (as part of Podman) vulnerable to Path Traversal,https://github.com/advisories/GHSA-rprg-4v7q-87v7,https://da.gd/4ISne
