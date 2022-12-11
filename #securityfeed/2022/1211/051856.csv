@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7g7g-82fp-hpxx] CSRF vulnerability in Jenkins SCP publisher Plugin,https://github.com/advisories/GHSA-7g7g-82fp-hpxx,https://da.gd/CusQ
+GithubAdvisories,[GHSA-8p8q-wvxx-jq94] Missing permission check in Jenkins SWAMP Plugin allows capturing credentials,https://github.com/advisories/GHSA-8p8q-wvxx-jq94,https://da.gd/yJpF
+GithubAdvisories,[GHSA-5pcf-vxm3-frph] CSRF vulnerability in Jenkins Checkmarx Plugin allow capturing credentials,https://github.com/advisories/GHSA-5pcf-vxm3-frph,https://da.gd/4r1Mh
