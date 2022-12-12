@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-52h2-m2cf-9jh6] linux-loader reading beyond EOF could lead to infinite loop,https://github.com/advisories/GHSA-52h2-m2cf-9jh6,https://da.gd/6iGp
+GithubAdvisories,[GHSA-g5ww-5jh7-63cx] Protobuf Java vulnerable to Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-g5ww-5jh7-63cx,https://da.gd/zhI4t
+GithubAdvisories,[GHSA-4gjr-vgfx-9qvw] AList vulnerable to Improper Preservation of Permissions,https://github.com/advisories/GHSA-4gjr-vgfx-9qvw,https://da.gd/4CaYRj
+GithubAdvisories,[GHSA-vc9x-gmmr-p7jj] @claviska/jquery-minicolors vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-vc9x-gmmr-p7jj,https://da.gd/PMaYR
+GithubAdvisories,[GHSA-wgpp-g6v9-7hxp] Jenkins Plot Plugin XML External Entity Reference vulnerability,https://github.com/advisories/GHSA-wgpp-g6v9-7hxp,https://da.gd/rqBGa
+GithubAdvisories,[GHSA-v93c-cxj5-c398] Jenkins Google Login Plugin Open Redirect vulnerability,https://github.com/advisories/GHSA-v93c-cxj5-c398,https://da.gd/ZPbu
+GithubAdvisories,[GHSA-x3qh-53qf-jxq9] Jenkins Gitea Plugin vulnerable to Cleartext Transmission of Sensitive Information,https://github.com/advisories/GHSA-x3qh-53qf-jxq9,https://da.gd/BG6iVS
