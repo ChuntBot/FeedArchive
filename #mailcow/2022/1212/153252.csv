@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommit,Update lang.de-de.json,https://github.com/mailcow/mailcow-dockerized/commit/8614d63ace74804d8ab7a82ef82c29941c6963ef,https://da.gd/6ntTy
+GithubCommit,"Revert ""[Dovecot] Disable imapsync job, when auth details are wrong. …",https://github.com/mailcow/mailcow-dockerized/commit/802d304579168bd5c66e057b237608d0067786e5,https://da.gd/W8dO
+GithubCommit,Merge pull request #4883 from schwindelbub/master,https://github.com/mailcow/mailcow-dockerized/commit/698b2bf98897061fd5bcecd8a9a2e97793a7c659,https://da.gd/qg6S7
+GithubCommit,Update tweet-trigger-publish-release.yml,https://github.com/mailcow/mailcow-dockerized/commit/a763dda068a1b0f99e288ebd0c8a2b7697192ceb,https://da.gd/cWks7d
+GithubCommit,Merge pull request #4894 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/ecefbf2166bb41727a8b18bab71dbedf7b97813d,https://da.gd/mex5
