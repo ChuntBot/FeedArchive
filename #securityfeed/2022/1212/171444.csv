@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4pjx-86pg-x4j5] Jenkins SAML Plugin Session Fixation vulnerability,https://github.com/advisories/GHSA-4pjx-86pg-x4j5,https://da.gd/R7tC
+GithubAdvisories,[GHSA-m8x2-4gc8-9v3r] Jenkins CollabNet Plugin man in the middle vulnerability,https://github.com/advisories/GHSA-m8x2-4gc8-9v3r,https://da.gd/Jci92u
+GithubAdvisories,[GHSA-wwgx-94v6-fc2p] Jenkins SSH Agent Plugin exposes SSH private key password to users with permission to read the build log,https://github.com/advisories/GHSA-wwgx-94v6-fc2p,https://da.gd/k27B
+GithubAdvisories,[GHSA-j279-cx9m-jv3w] Jenkins Google Login Plugin Open Redirect vulnerability,https://github.com/advisories/GHSA-j279-cx9m-jv3w,https://da.gd/MU01Q
+GithubAdvisories,[GHSA-rp82-xvg3-727c] Jenkins Google Login Plugin Session Fixation vulnerability,https://github.com/advisories/GHSA-rp82-xvg3-727c,https://da.gd/LlHw
+GithubAdvisories,[GHSA-4x63-3p7q-xmh7] Jenkins HTML Publisher Plugin path traversal vulnerability,https://github.com/advisories/GHSA-4x63-3p7q-xmh7,https://da.gd/Lkkj
+GithubAdvisories,[GHSA-63jg-5wv6-7ghv] Jenkins Resource Disposer Plugin allows attacker to stop tracking specified resource,https://github.com/advisories/GHSA-63jg-5wv6-7ghv,https://da.gd/25hLdu
+GithubAdvisories,[GHSA-9cfq-v2hm-c3xr] Jenkins GitHub Branch Source Plugin vulnerable to Server-Side Request Forgery,https://github.com/advisories/GHSA-9cfq-v2hm-c3xr,https://da.gd/ombg9
+GithubAdvisories,[GHSA-92rv-mvmj-47qh] Jenkins GitHub Pull Request Builder Plugin credential capture vulnerability,https://github.com/advisories/GHSA-92rv-mvmj-47qh,https://da.gd/qibbZq
