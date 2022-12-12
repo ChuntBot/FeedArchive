@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m59q-vgq9-75cr] Password stored in plain text by Jenkins RQM Plugin,https://github.com/advisories/GHSA-m59q-vgq9-75cr,https://da.gd/DaGQhC
+GithubAdvisories,[GHSA-h7pf-h58r-mv93] CSRF vulnerability in Jenkins XebiaLabs XL Release Plugin allow capturing credentials,https://github.com/advisories/GHSA-h7pf-h58r-mv93,https://da.gd/y9rzEz
+GithubAdvisories,[GHSA-w66r-f5gg-gqwm] Jenkins GitHub Branch Source Plugin vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-w66r-f5gg-gqwm,https://da.gd/Zep9ao
+GithubAdvisories,[GHSA-q7jx-r75r-hgj2] Jenkins Cucumber Living Documentation Plugin Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-q7jx-r75r-hgj2,https://da.gd/fAvzb
+GithubAdvisories,[GHSA-vq7p-f4fv-rr5x] Jenkins vSphere Plugin disables SSL/TLS certificate validation by default,https://github.com/advisories/GHSA-vq7p-f4fv-rr5x,https://da.gd/jDuZ0
+GithubAdvisories,[GHSA-6jqm-3c9g-pch7] @cubejs-backend/api-gateway row level security bypass,https://github.com/advisories/GHSA-6jqm-3c9g-pch7,https://da.gd/XdYTe
+GithubAdvisories,[GHSA-jv85-mqxj-3f9j] Sentry vulnerable to invite code reuse via cookie manipulation,https://github.com/advisories/GHSA-jv85-mqxj-3f9j,https://da.gd/kvwi
+GithubAdvisories,[GHSA-hh82-3pmq-7frp] Netty vulnerable to HTTP Response splitting from assigning header value iterator,https://github.com/advisories/GHSA-hh82-3pmq-7frp,https://da.gd/2YI2T
+GithubAdvisories,[GHSA-fx2c-96vj-985v] HAProxyMessageDecoder Stack Exhaustion DoS,https://github.com/advisories/GHSA-fx2c-96vj-985v,https://da.gd/2MI4al
+GithubAdvisories,[GHSA-mjmj-j48q-9wg2] SnakeYaml Constructor Deserialization Remote Code Execution,https://github.com/advisories/GHSA-mjmj-j48q-9wg2,https://da.gd/NRyIUb
