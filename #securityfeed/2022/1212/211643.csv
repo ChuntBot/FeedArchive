@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-876j-4q73-7f56] Jenkins GitHub Pull Request Builder Plugin,https://github.com/advisories/GHSA-876j-4q73-7f56,https://da.gd/qBjdqT
+GithubAdvisories,[GHSA-hr74-2j5v-ghfv] Jenkins GitHub Pull Request Builder Plugin allows attacker with local file system access to obtain GitHub credentials,https://github.com/advisories/GHSA-hr74-2j5v-ghfv,https://da.gd/JaJzHc
+GithubAdvisories,[GHSA-2g32-2j8w-2qgf] Jenkins vSphere Plugin Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-2g32-2j8w-2qgf,https://da.gd/amzkr
+GithubAdvisories,[GHSA-hxpw-7x95-q38m] Jenkins Pipeline: Input Step Plugin,https://github.com/advisories/GHSA-hxpw-7x95-q38m,https://da.gd/5Ux8a
+GithubAdvisories,[GHSA-6jp2-hggx-8j7p] Jenkins GitHub Branch Source Plugin allows any user with Overall/Read permission to get list of valid credentials IDs,https://github.com/advisories/GHSA-6jp2-hggx-8j7p,https://da.gd/rdVTq
