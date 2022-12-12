@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8294-mv9c-7m5h] Stored XSS vulnerability in Jenkins Maven Metadata Plugin for Jenkins CI server plugin,https://github.com/advisories/GHSA-8294-mv9c-7m5h,https://da.gd/DGlRkX
+GithubAdvisories,[GHSA-xfxv-f945-4qv6] JBoss RichFaces Improper Input Validation vulnerability,https://github.com/advisories/GHSA-xfxv-f945-4qv6,https://da.gd/6fRSP
+GithubAdvisories,[GHSA-fv3c-6cw7-2qcq] Jenkins Poll SCM Plugin vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-fv3c-6cw7-2qcq,https://da.gd/2xFcP
