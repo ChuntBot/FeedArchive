@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f8r7-7hv9-7f43] Jenkins CAS Plugin Server-Side Request Forgery vulnerability,https://github.com/advisories/GHSA-f8r7-7hv9-7f43,https://da.gd/t30DjD
+GithubAdvisories,[GHSA-3hw6-gc8h-9243] Jenkins meliora-testlab Plugin allows attackers with file system access to Jenkins master to obtain API key,https://github.com/advisories/GHSA-3hw6-gc8h-9243,https://da.gd/0G8Z
+GithubAdvisories,[GHSA-3xjq-8j89-xrw9] Jenkins Badge Plugin cross-site scripting vulnerability,https://github.com/advisories/GHSA-3xjq-8j89-xrw9,https://da.gd/fErX
+GithubAdvisories,[GHSA-cqp4-cv7h-7jp5] Jenkins SaltStack Plugin allows attackers to capture credentials with a known credentials ID stored in Jenkins,https://github.com/advisories/GHSA-cqp4-cv7h-7jp5,https://da.gd/u6eF
+GithubAdvisories,[GHSA-rf7h-9m85-535v] Jenkins Publisher Over CIFS Plugin confused deputy vulnerability,https://github.com/advisories/GHSA-rf7h-9m85-535v,https://da.gd/8iGm
+GithubAdvisories,[GHSA-69cj-g7mw-mh72] Jenkins Docker Commons Plugin allows any user with Overall/Read permission to get list of valid credentials IDs,https://github.com/advisories/GHSA-69cj-g7mw-mh72,https://da.gd/WFA1Q
