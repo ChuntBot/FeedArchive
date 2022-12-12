@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5g2c-j6v9-vf94] Jenkins Custom Build Properties Plugin vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-5g2c-j6v9-vf94,https://da.gd/VQR1
+GithubAdvisories,[GHSA-3rrx-364r-6wf6] Cross-site Scripting in Jenkins Spring Config Plugin,https://github.com/advisories/GHSA-3rrx-364r-6wf6,https://da.gd/za9W
+GithubAdvisories,[GHSA-m82g-fv7v-h64m] Jenkins Sonar Gerrit Plugin vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-m82g-fv7v-h64m,https://da.gd/SWeTNT
+GithubAdvisories,[GHSA-cp9c-phxx-55xm] phpMyFAQ vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-cp9c-phxx-55xm,https://da.gd/qPcpQ1
+GithubAdvisories,[GHSA-rjf6-wj7r-5fj2] phpMyFAQ vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-rjf6-wj7r-5fj2,https://da.gd/CEeKc
+GithubAdvisories,[GHSA-wpgc-5cr5-h9gg] phpMyFAQ has insecure HTTP cookies,https://github.com/advisories/GHSA-wpgc-5cr5-h9gg,https://da.gd/7IlZt
+GithubAdvisories,[GHSA-9v25-r5q2-2p6w] Candy Machine Set Collection During Mint Missing Check,https://github.com/advisories/GHSA-9v25-r5q2-2p6w,https://da.gd/Y4JZ
+GithubAdvisories,[GHSA-8r76-fr72-j32w] Creator Verification Error when Bubblegum Activate,https://github.com/advisories/GHSA-8r76-fr72-j32w,https://da.gd/hxqQn
+GithubAdvisories,[GHSA-vp22-232w-h9x8] RuoYi-Cloud Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-vp22-232w-h9x8,https://da.gd/XG8G4l
