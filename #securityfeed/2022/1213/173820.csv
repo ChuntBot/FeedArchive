@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-486f-hjj9-9vhh] Inefficient Regular Expression Complexity in Loofah,https://github.com/advisories/GHSA-486f-hjj9-9vhh,https://da.gd/wM1bt
+GithubAdvisories,[GHSA-ppjq-qxhx-m25f] Authentication Bypass for WSFed,https://github.com/advisories/GHSA-ppjq-qxhx-m25f,https://da.gd/wmVjH
+GithubAdvisories,[GHSA-8w3p-qh3x-6gjr] TYPO3 CMS vulnerable to Sensitive Information Disclosure via YAML Placeholder Expressions in Site Configuration,https://github.com/advisories/GHSA-8w3p-qh3x-6gjr,https://da.gd/GISB0
+GithubAdvisories,[GHSA-c5wx-6c2c-f7rm] TYPO3 CMS vulnerable to Arbitrary Code Execution via Form Framework,https://github.com/advisories/GHSA-c5wx-6c2c-f7rm,https://da.gd/1QWhx
