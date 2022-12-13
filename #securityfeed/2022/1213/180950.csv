@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rrfc-7g8p-99q8] Possible XSS vulnerability with certain configurations of rails-html-sanitizer,https://github.com/advisories/GHSA-rrfc-7g8p-99q8,https://da.gd/XW9vWl
+GithubAdvisories,[GHSA-9h9g-93gc-623h] Possible XSS vulnerability with certain configurations of rails-html-sanitizer,https://github.com/advisories/GHSA-9h9g-93gc-623h,https://da.gd/MCgvJn
+GithubAdvisories,[GHSA-mcvf-2q2m-x72m] Improper neutralization of data URIs may allow XSS in rails-html-sanitizer,https://github.com/advisories/GHSA-mcvf-2q2m-x72m,https://da.gd/fPlwHT
+GithubAdvisories,[GHSA-5x79-w82f-gw8w] Inefficient Regular Expression Complexity in rails-html-sanitizer,https://github.com/advisories/GHSA-5x79-w82f-gw8w,https://da.gd/EiXA
+GithubAdvisories,[GHSA-3x8r-x6xp-q4vm] Uncontrolled Recursion in Loofah,https://github.com/advisories/GHSA-3x8r-x6xp-q4vm,https://da.gd/dDuVJW
+GithubAdvisories,[GHSA-228g-948r-83gx] Improper neutralization of data URIs may allow XSS in Loofah,https://github.com/advisories/GHSA-228g-948r-83gx,https://da.gd/mMJSi4
