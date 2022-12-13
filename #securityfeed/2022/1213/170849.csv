@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mgj2-q8wp-29rr] TYPO3 CMS vulnerable to Insufficient Session Expiration after Password Reset,https://github.com/advisories/GHSA-mgj2-q8wp-29rr,https://da.gd/zU9TPt
+GithubAdvisories,[GHSA-8c28-5mp7-v24h] TYPO3 CMS vulnerable to Denial of Service in Page Error Handling,https://github.com/advisories/GHSA-8c28-5mp7-v24h,https://da.gd/kQLQ2T
+GithubAdvisories,[GHSA-jfp7-79g7-89rf] TYPO3 CMS vulnerable to Weak Authentication in Frontend Login,https://github.com/advisories/GHSA-jfp7-79g7-89rf,https://da.gd/YMnW
+GithubAdvisories,[GHSA-hvwx-qh2h-xcfj] TYPO3 HTML Sanitizer vulnerable to Cross-Site Scripting,https://github.com/advisories/GHSA-hvwx-qh2h-xcfj,https://da.gd/EvzBI
