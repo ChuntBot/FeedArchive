@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x3x3-qwjq-8gj4] Apache CXF Server-Side Request Forgery vulnerability,https://github.com/advisories/GHSA-x3x3-qwjq-8gj4,https://da.gd/U2o8
+GithubAdvisories,[GHSA-g8q8-fggx-9r3q] Keycloak vulnerable to path traversal via double URL encoding,https://github.com/advisories/GHSA-g8q8-fggx-9r3q,https://da.gd/pzvXp
+GithubAdvisories,[GHSA-97g8-xfvw-q4hg] Keycloak vulnerable to session takeover with OIDC offline refreshtokens,https://github.com/advisories/GHSA-97g8-xfvw-q4hg,https://da.gd/BcCfP
