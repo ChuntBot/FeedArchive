@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Update.sh] Increased Timeout for online status check,https://github.com/mailcow/mailcow-dockerized/commit/83bd66db98e4bab629f29d6d74365e7a5eeaba6a,https://da.gd/I7ZK
+GithubCommitStaging,[SOGo] Updated to newer SOGo 5.8.0 (CalDav Issue fix),https://github.com/mailcow/mailcow-dockerized/commit/3a13c9302265e9d2119294c147dbcc47e85f1012,https://da.gd/z6Bkw
