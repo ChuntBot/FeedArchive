@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-894q-wpg5-mf2h] pyRdfa3 Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-894q-wpg5-mf2h,https://da.gd/LgqW2O
+GithubAdvisories,[GHSA-7rx6-4vwv-432g] Missing permission check in CloudBees CD Plugin allows scheduling builds,https://github.com/advisories/GHSA-7rx6-4vwv-432g,https://da.gd/DFqq
+GithubAdvisories,[GHSA-2959-fj73-hm8p] Missing permission checks in Jenkins Config File Provider Plugin allow enumerating configuration file IDs,https://github.com/advisories/GHSA-2959-fj73-hm8p,https://da.gd/AOifFJ
+GithubAdvisories,[GHSA-998m-f2x3-jjq4] CSRF vulnerability in Jenkins Config File Provider Plugin allows deleting configuration files,https://github.com/advisories/GHSA-998m-f2x3-jjq4,https://da.gd/bwjHS
+GithubAdvisories,[GHSA-3m3f-2323-64m7] Incorrect permission checks in Jenkins Config File Provider Plugin allow enumerating credentials IDs,https://github.com/advisories/GHSA-3m3f-2323-64m7,https://da.gd/Eei88
+GithubAdvisories,[GHSA-3w37-5p3p-jv92] Apache CXF vulnerable to Exposure of Sensitive Information,https://github.com/advisories/GHSA-3w37-5p3p-jv92,https://da.gd/D3Pv
+GithubAdvisories,[GHSA-3vqj-43w4-2q58] hutool-json stack overflow vulnerability,https://github.com/advisories/GHSA-3vqj-43w4-2q58,https://da.gd/gSU2
+GithubAdvisories,[GHSA-fxrc-hg6j-6v3x] hutool-json vulnerable to memory exhaustion,https://github.com/advisories/GHSA-fxrc-hg6j-6v3x,https://da.gd/MSQX
+GithubAdvisories,[GHSA-whgh-g24c-3j5q] hutool-json stack overflow vulnerability,https://github.com/advisories/GHSA-whgh-g24c-3j5q,https://da.gd/j9v3g
+GithubAdvisories,[GHSA-q296-9j5x-fxf4] SSL/TLS certificate validation unconditionally disabled by Jenkins Micro Focus Application Automation Tools Plugin,https://github.com/advisories/GHSA-q296-9j5x-fxf4,https://da.gd/u3OkkT
+GithubAdvisories,[GHSA-gc2r-ccfh-62v9] Reflected XSS vulnerability in Jenkins Micro Focus Application Automation Tools Plugin,https://github.com/advisories/GHSA-gc2r-ccfh-62v9,https://da.gd/YrHajm
