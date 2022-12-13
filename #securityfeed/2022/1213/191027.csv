@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mwg2-3xpv-5v28] CSRF vulnerability in Jenkins Micro Focus Application Automation Tools Plugin,https://github.com/advisories/GHSA-mwg2-3xpv-5v28,https://da.gd/wLBI
+GithubAdvisories,[GHSA-5cxw-8v65-76vf] CSRF vulnerability in Jenkins promoted builds Plugin,https://github.com/advisories/GHSA-5cxw-8v65-76vf,https://da.gd/HHDVCy
+GithubAdvisories,[GHSA-gc87-qwmv-7x9x] Stored XSS vulnerability in Jenkins Artifact Repository Parameter Plugin,https://github.com/advisories/GHSA-gc87-qwmv-7x9x,https://da.gd/7jQS
+GithubAdvisories,[GHSA-92pg-8g57-hqpx] Support bundles can include user session IDs in Jenkins Support Core Plugin,https://github.com/advisories/GHSA-92pg-8g57-hqpx,https://da.gd/x48DHS
+GithubAdvisories,[GHSA-hg2w-3c4j-jjwm] Stored XSS vulnerability in Jenkins Repository Connector Plugin,https://github.com/advisories/GHSA-hg2w-3c4j-jjwm,https://da.gd/ObOnn
+GithubAdvisories,[GHSA-42mm-x828-56c7] CSRF vulnerability in Jenkins Configuration Slicing Plugin,https://github.com/advisories/GHSA-42mm-x828-56c7,https://da.gd/swc6ou
+GithubAdvisories,[GHSA-4f6x-g5vh-8jm5] Stored XSS vulnerability in Jenkins Active Choices Plugin,https://github.com/advisories/GHSA-4f6x-g5vh-8jm5,https://da.gd/37PFo
+GithubAdvisories,[GHSA-xmw5-45v9-pxqx] XSS vulnerability in Jenkins TICS Plugin,https://github.com/advisories/GHSA-xmw5-45v9-pxqx,https://da.gd/kLJGYf
+GithubAdvisories,[GHSA-qvjr-x8fw-hghv] Credentials stored in plain text by Jenkins TraceTronic ECU-TEST Plugin,https://github.com/advisories/GHSA-qvjr-x8fw-hghv,https://da.gd/FpXw4
