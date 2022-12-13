@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommit,Updated README.md,https://github.com/mailcow/mailcow-dockerized/commit/13175b4e6c777116929fd9b602ca7a6b79f45b4b,https://da.gd/XFrgwG
+GithubCommit,[Update.sh] Increased Timeout for online status check,https://github.com/mailcow/mailcow-dockerized/commit/83bd66db98e4bab629f29d6d74365e7a5eeaba6a,https://da.gd/I7ZK
+GithubCommit,[SOGo] Updated to newer SOGo 5.8.0 (CalDav Issue fix),https://github.com/mailcow/mailcow-dockerized/commit/3a13c9302265e9d2119294c147dbcc47e85f1012,https://da.gd/z6Bkw
+GithubCommit,Merge pull request #4898 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/f1f9626b5ba6e6d37eab20eb7ff3f7e4ad4e1d24,https://da.gd/lN6Bsr
+GithubCommit,Update tweet-trigger-publish-release.yml,https://github.com/mailcow/mailcow-dockerized/commit/87214fef70fca6a05fd45302eb7f24bdcaf07ed3,https://da.gd/Eu8lE
