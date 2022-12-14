@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-96jw-3xw4-mq9p] Incorrect permission checks in Jenkins Matrix Authorization Strategy Plugin may allow accessing some items,https://github.com/advisories/GHSA-96jw-3xw4-mq9p,https://da.gd/vB6YL
+GithubAdvisories,[GHSA-rm4m-39fj-288c] Incorrect permission checks in Jenkins Role-based Authorization Strategy Plugin may allow accessing some items,https://github.com/advisories/GHSA-rm4m-39fj-288c,https://da.gd/7Naj
+GithubAdvisories,[GHSA-jwr9-h4jm-c9ch] Missing permission checks in Jenkins CloudBees AWS Credentials Plugin allows enumerating credentials IDs,https://github.com/advisories/GHSA-jwr9-h4jm-c9ch,https://da.gd/xGdU8
+GithubAdvisories,[GHSA-7j3x-xm4j-jfj7] Missing permission checks in Jenkins Warnings Next Generation Plugin allow listing workspace contents,https://github.com/advisories/GHSA-7j3x-xm4j-jfj7,https://da.gd/T9Rp3
+GithubAdvisories,[GHSA-h246-g39x-7vmx] Missing permission check in Jenkins XebiaLabs XL Deploy Plugin allows enumerating credentials IDs,https://github.com/advisories/GHSA-h246-g39x-7vmx,https://da.gd/6J6s
+GithubAdvisories,[GHSA-6mpp-cm3v-23vv] Missing permission check in Jenkins XebiaLabs XL Deploy Plugin allows capturing credentials,https://github.com/advisories/GHSA-6mpp-cm3v-23vv,https://da.gd/q4O1v
+GithubAdvisories,[GHSA-jm4g-8rvq-v87j] Missing permission check in XebiaLabs XL Deploy Plugin allows capturing credentials,https://github.com/advisories/GHSA-jm4g-8rvq-v87j,https://da.gd/DI9qX
