@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2c7v-qcjp-4mg2] .NET Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-2c7v-qcjp-4mg2,https://da.gd/gZD5bs
+GithubAdvisories,[GHSA-995x-33wq-8gc9] cycle-import-check vulnerable to Command Injection,https://github.com/advisories/GHSA-995x-33wq-8gc9,https://da.gd/ZrFX0A
+GithubAdvisories,[GHSA-67fx-wx78-jx33] Helm vulnerable to denial of service through schema file,https://github.com/advisories/GHSA-67fx-wx78-jx33,https://da.gd/ZWxV
+GithubAdvisories,[GHSA-53c4-hhmh-vw5q] Helm vulnerable to denial of service through through repository index file,https://github.com/advisories/GHSA-53c4-hhmh-vw5q,https://da.gd/qzDN
+GithubAdvisories,[GHSA-6rx9-889q-vv2r] Helm vulnerable to denial of service through string value parsing,https://github.com/advisories/GHSA-6rx9-889q-vv2r,https://da.gd/xJY1lT
+GithubAdvisories,[GHSA-xqqc-c5gw-c5r5] Tendermint light client verification not taking into account chain ID,https://github.com/advisories/GHSA-xqqc-c5gw-c5r5,https://da.gd/jIFAFx
+GithubAdvisories,[GHSA-9qcm-fqj9-93m4] .NET Framework Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-9qcm-fqj9-93m4,https://da.gd/KX8i40
