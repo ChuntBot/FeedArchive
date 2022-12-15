@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-837v-6vgx-jqcc] yikes-inc-easy-mailchimp-extender Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-837v-6vgx-jqcc,https://da.gd/uiA2
+GithubAdvisories,[GHSA-6vh6-72g6-xqx2] FeehiCMS Cross Site Scripting vulnerability,https://github.com/advisories/GHSA-6vh6-72g6-xqx2,https://da.gd/it5kX
+GithubAdvisories,[GHSA-gqgq-784q-v9xp] FeehiCMS Cross Site Scripting vulnerability,https://github.com/advisories/GHSA-gqgq-784q-v9xp,https://da.gd/0VaF
+GithubAdvisories,[GHSA-8vjp-hfgh-68rj] FeehiCMS Cross Site Scripting vulnerability,https://github.com/advisories/GHSA-8vjp-hfgh-68rj,https://da.gd/SLY2
+GithubAdvisories,[GHSA-gxq5-79m2-gvvq] Apache Bookkeeper vulnerable to Improper Certificate Validation,https://github.com/advisories/GHSA-gxq5-79m2-gvvq,https://da.gd/v79wU
+GithubAdvisories,[GHSA-67mh-hw8v-x8v9] FeehiCMS Unrestricted Upload vulnerability,https://github.com/advisories/GHSA-67mh-hw8v-x8v9,https://da.gd/Bngd
+GithubAdvisories,[GHSA-m54v-gv8p-9pqp] FeehiCMS Cross Site Scripting vulnerability,https://github.com/advisories/GHSA-m54v-gv8p-9pqp,https://da.gd/SJLr8
+GithubAdvisories,[GHSA-hw46-vg6w-88fj] replicator vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-hw46-vg6w-88fj,https://da.gd/Kb3L0
+GithubAdvisories,[GHSA-pwh3-3pcm-6vjh] FeehiCMS vulnerable to Cross Site Scripting,https://github.com/advisories/GHSA-pwh3-3pcm-6vjh,https://da.gd/ec0NER
+GithubAdvisories,[GHSA-6jj8-mqx2-7fg5] FeehiCMS Cross Site Scripting vulnerability,https://github.com/advisories/GHSA-6jj8-mqx2-7fg5,https://da.gd/mJgDCr
+GithubAdvisories,[GHSA-252h-2cmq-pmr6] easywebpack-cli Path Traversal vulnerability,https://github.com/advisories/GHSA-252h-2cmq-pmr6,https://da.gd/sRuOs
+GithubAdvisories,[GHSA-p495-jxh2-wrfg] npm package rfc6902 vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-p495-jxh2-wrfg,https://da.gd/ncxT0n
+GithubAdvisories,[GHSA-287q-jfcp-9vhv] django-photologue vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-287q-jfcp-9vhv,https://da.gd/lpga7z
+GithubAdvisories,[GHSA-gp5f-gqgq-7254] WSO2 carbon-registry vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-gp5f-gqgq-7254,https://da.gd/Dsej
+GithubAdvisories,[GHSA-jw6x-4h8h-569x] Roots Soil plugin vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-jw6x-4h8h-569x,https://da.gd/vuH0y
