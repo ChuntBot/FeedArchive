@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xpvp-h73c-m9rq] Jenkins vulnerable to stored cross site scripting in the I:helpIcon component,https://github.com/advisories/GHSA-xpvp-h73c-m9rq,https://da.gd/euxEPJ
+GithubAdvisories,[GHSA-fmq9-r4p2-8272] API token stored in plain text by Jenkins CONS3RT Plugin,https://github.com/advisories/GHSA-fmq9-r4p2-8272,https://da.gd/YnUcy
+GithubAdvisories,[GHSA-4x6g-3cmx-w76r] Snyk plugins vulnerable to Command Injection,https://github.com/advisories/GHSA-4x6g-3cmx-w76r,https://da.gd/ewFh6
+GithubAdvisories,[GHSA-rxvx-9wg5-qpww] Jenkins iceScrum Plugin vulnerable to Cross-site Request Forgery,https://github.com/advisories/GHSA-rxvx-9wg5-qpww,https://da.gd/qyIfLZ
