@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6q4g-84f3-mw74] Improper handling of equivalent directory names on Windows in Jenkins,https://github.com/advisories/GHSA-6q4g-84f3-mw74,https://da.gd/hLkxoU
+GithubAdvisories,[GHSA-4pw5-r58h-fv24] Path traversal vulnerability on Windows in Jenkins,https://github.com/advisories/GHSA-4pw5-r58h-fv24,https://da.gd/KJCr5R
+GithubAdvisories,[GHSA-gghc-g8cj-4vfv] Stored XSS vulnerability in Jenkins Git Plugin,https://github.com/advisories/GHSA-gghc-g8cj-4vfv,https://da.gd/VFSnH
+GithubAdvisories,[GHSA-cphv-7cxw-5hcc] XXE vulnerability in Jenkins Filesystem Trigger Plugin,https://github.com/advisories/GHSA-cphv-7cxw-5hcc,https://da.gd/T1l6
+GithubAdvisories,[GHSA-34j5-c4cv-mmg5] XXE vulnerability in Jenkins URLTrigger Plugin,https://github.com/advisories/GHSA-34j5-c4cv-mmg5,https://da.gd/9MQ1
+GithubAdvisories,[GHSA-xqpp-26pp-2365] XSS vulnerability in Jenkins Markdown Formatter Plugin,https://github.com/advisories/GHSA-xqpp-26pp-2365,https://da.gd/XiK4S
+GithubAdvisories,[GHSA-g594-55mp-f6q8] Improper Privilege Management in rdiffweb,https://github.com/advisories/GHSA-g594-55mp-f6q8,https://da.gd/VC4iA
+GithubAdvisories,[GHSA-xjrg-6fv9-6rjg] Stored XSS vulnerability in Jenkins Build With Parameters Plugin,https://github.com/advisories/GHSA-xjrg-6fv9-6rjg,https://da.gd/ZwabNi
+GithubAdvisories,[GHSA-wx66-pm7r-2q82] Stored XSS vulnerability in Jenkins Extra Columns Plugin,https://github.com/advisories/GHSA-wx66-pm7r-2q82,https://da.gd/4wfg
+GithubAdvisories,[GHSA-xv69-6rf3-w5g2] Missing permission check in Jenkins Cloud Statistics Plugin,https://github.com/advisories/GHSA-xv69-6rf3-w5g2,https://da.gd/ZQC4Zn
+GithubAdvisories,[GHSA-xfrw-pcmc-r2p3] Missing permission checks in Jenkins OWASP Dependency-Track Plugin allow capturing credentials,https://github.com/advisories/GHSA-xfrw-pcmc-r2p3,https://da.gd/GHDYB
+GithubAdvisories,[GHSA-v7xh-h48c-xw5f] CSRF vulnerability and in Jenkins OWASP Dependency-Track Plugin allow capturing credentials,https://github.com/advisories/GHSA-v7xh-h48c-xw5f,https://da.gd/6fPFNn
