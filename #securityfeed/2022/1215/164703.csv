@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mj5v-ggjc-48p5] XXE vulnerability in Jenkins OWASP Dependency-Check Plugin,https://github.com/advisories/GHSA-mj5v-ggjc-48p5,https://da.gd/D17O
+GithubAdvisories,[GHSA-h648-gj34-5x4r] Agent-to-controller security bypass in Jenkins Squash TM Publisher (Squash4Jenkins) Plugin allows writing arbitrary files,https://github.com/advisories/GHSA-h648-gj34-5x4r,https://da.gd/wwDJqc
+GithubAdvisories,[GHSA-58pr-hprx-7hg6] RCE vulnerability in Jenkins Code Coverage API Plugin,https://github.com/advisories/GHSA-58pr-hprx-7hg6,https://da.gd/Z5e6wA
+GithubAdvisories,[GHSA-r5w3-pfq8-3r82] Jenkins SAML Plugin allows bypassing CSRF protection for any URL,https://github.com/advisories/GHSA-r5w3-pfq8-3r82,https://da.gd/C056Y
+GithubAdvisories,[GHSA-x77r-7m5w-pqq2] Jenkins Azure AD Plugin allows bypassing CSRF protection for any URL,https://github.com/advisories/GHSA-x77r-7m5w-pqq2,https://da.gd/g6f4
