@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-79r5-rhrw-7pvh] Passwords stored in plain text by Jenkins Jabber (XMPP) notifier and control Plugin,https://github.com/advisories/GHSA-79r5-rhrw-7pvh,https://da.gd/HWqp
+GithubAdvisories,[GHSA-x3m6-vcp7-98mr] Stored XSS vulnerability in Jenkins REST List Parameter Plugin,https://github.com/advisories/GHSA-x3m6-vcp7-98mr,https://da.gd/9LXCCq
+GithubAdvisories,[GHSA-vg28-9f43-gmh5] Missing permission check in Jenkins Team Foundation Server Plugin allows enumerating credentials IDs,https://github.com/advisories/GHSA-vg28-9f43-gmh5,https://da.gd/DScWF
+GithubAdvisories,[GHSA-263q-5pj7-j6hj] CSRF vulnerability in Jenkins Team Foundation Server Plugin allow capturing credentials,https://github.com/advisories/GHSA-263q-5pj7-j6hj,https://da.gd/xnc1yE
+GithubAdvisories,[GHSA-rp4x-h577-chvq] Stored XSS vulnerability in Jenkins Active Choices Plugin,https://github.com/advisories/GHSA-rp4x-h577-chvq,https://da.gd/5mpR7W
+GithubAdvisories,[GHSA-f9gf-2q87-5m44] Stored XSS vulnerability in Jenkins Scriptler Plugin,https://github.com/advisories/GHSA-f9gf-2q87-5m44,https://da.gd/OgIJ
+GithubAdvisories,[GHSA-hr8p-76q8-fxwq] XXE vulnerability in Jenkins Performance Plugin,https://github.com/advisories/GHSA-hr8p-76q8-fxwq,https://da.gd/sU5jp
+GithubAdvisories,[GHSA-5wc4-w63v-97c3] XXE vulnerability in Jenkins Nested View Plugin,https://github.com/advisories/GHSA-5wc4-w63v-97c3,https://da.gd/0TvR
