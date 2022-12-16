@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4hhq-j3xw-wj89] RCE vulnerability in SCM Filter Jervis Plugin,https://github.com/advisories/GHSA-4hhq-j3xw-wj89,https://da.gd/RW0kxF
+GithubAdvisories,[GHSA-9f37-ggxm-h6wx] CSRF vulnerability in Jenkins Shelve Project Plugin,https://github.com/advisories/GHSA-9f37-ggxm-h6wx,https://da.gd/tLgcFS
+GithubAdvisories,[GHSA-hx53-635r-vmv8] Missing permission checks in Jenkins Chaos Monkey Plugin,https://github.com/advisories/GHSA-hx53-635r-vmv8,https://da.gd/LSCZ
