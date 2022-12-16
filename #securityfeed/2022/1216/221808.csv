@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r48c-4vfj-h426] collective.dms.basecontent Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-r48c-4vfj-h426,https://da.gd/HCdkP
+GithubAdvisories,[GHSA-cmwm-45mj-mpg3] SCIFIO vulnerable to Path Traversal,https://github.com/advisories/GHSA-cmwm-45mj-mpg3,https://da.gd/jti6
+GithubAdvisories,[GHSA-47vx-fqr5-j2gw] HuTool vulnerable to Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-47vx-fqr5-j2gw,https://da.gd/5auI
