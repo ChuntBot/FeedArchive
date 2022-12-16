@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2vvr-5757-qp87] Open redirect vulnerability in Jenkins CAS Plugin,https://github.com/advisories/GHSA-2vvr-5757-qp87,https://da.gd/nQdb1
+GithubAdvisories,[GHSA-5frh-wx6v-8m2r] CSRF vulnerabilities in Jenkins requests-plugin Plugin,https://github.com/advisories/GHSA-5frh-wx6v-8m2r,https://da.gd/0TYc3
+GithubAdvisories,[GHSA-w3gm-vv58-wr55] Missing permission check in Jenkins requests-plugin Plugin allows sending emails,https://github.com/advisories/GHSA-w3gm-vv58-wr55,https://da.gd/CeluV
