@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5c2c-cvg6-ghjm] Password stored in plain text by Jenkins Nomad Plugin,https://github.com/advisories/GHSA-5c2c-cvg6-ghjm,https://da.gd/mfdW6
+GithubAdvisories,[GHSA-q4wp-8c99-69pw] Improper permission checks allow canceling queue items and aborting builds in Jenkins,https://github.com/advisories/GHSA-q4wp-8c99-69pw,https://da.gd/f7LpX
