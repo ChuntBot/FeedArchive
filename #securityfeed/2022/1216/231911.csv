@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p86x-75j8-w4xh] Stored XSS vulnerability in Jenkins Checkmarx Plugin,https://github.com/advisories/GHSA-p86x-75j8-w4xh,https://da.gd/PmKoXp
+GithubAdvisories,[GHSA-4wx5-c723-xvwv] Credentials stored in plain text by Jenkins Copr Plugin,https://github.com/advisories/GHSA-4wx5-c723-xvwv,https://da.gd/slvl
+GithubAdvisories,[GHSA-2rh4-xgmq-63jp] XXE vulnerability in Jenkins Parasoft Findings Plugin,https://github.com/advisories/GHSA-2rh4-xgmq-63jp,https://da.gd/ybcz
+GithubAdvisories,[GHSA-324h-2v7h-q3xx] RCE vulnerability in Jenkins Yaml Axis Plugin,https://github.com/advisories/GHSA-324h-2v7h-q3xx,https://da.gd/OG9G2
+GithubAdvisories,[GHSA-qrm8-cw73-r9w8] RCE vulnerability in Jenkins AWS SAM Plugin,https://github.com/advisories/GHSA-qrm8-cw73-r9w8,https://da.gd/qru0e
+GithubAdvisories,[GHSA-q58j-fhj7-j6fg] Path traversal vulnerability in Jenkins Subversion Plugin allows reading arbitrary files,https://github.com/advisories/GHSA-q58j-fhj7-j6fg,https://da.gd/oQDI
+GithubAdvisories,[GHSA-vv89-xggx-qqh2] Improper permission checks in Jenkins Copy Artifact Plugin,https://github.com/advisories/GHSA-vv89-xggx-qqh2,https://da.gd/6B5QaN
+GithubAdvisories,[GHSA-gpxv-776p-7gc7] Jenkins vulnerable to UDP amplification reflection attack,https://github.com/advisories/GHSA-gpxv-776p-7gc7,https://da.gd/0et2x
+GithubAdvisories,[GHSA-63mw-hp3h-gc77] CSRF vulnerability in Jenkins CVS Plugin,https://github.com/advisories/GHSA-63mw-hp3h-gc77,https://da.gd/KEUiBb
+GithubAdvisories,[GHSA-w6hw-57jq-h7f5] CSRF vulnerability in Amazon EC2 Plugin,https://github.com/advisories/GHSA-w6hw-57jq-h7f5,https://da.gd/9Vi1Z
+GithubAdvisories,[GHSA-c89c-pvm7-33wj] Lack of SSL/TLS certificate and hostname validation in Amazon EC2 Plugin,https://github.com/advisories/GHSA-c89c-pvm7-33wj,https://da.gd/twSxX6
+GithubAdvisories,[GHSA-rmp9-mc8w-mqf3] Users with Overall/Read access can enumerate credentials IDs in Amazon EC2 Plugin,https://github.com/advisories/GHSA-rmp9-mc8w-mqf3,https://da.gd/Xtday
