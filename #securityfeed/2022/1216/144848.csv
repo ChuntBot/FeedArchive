@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wg2f-9rf7-48gm] Missing permission check in Jenkins loader.io Plugin allows enumerating credentials IDs,https://github.com/advisories/GHSA-wg2f-9rf7-48gm,https://da.gd/IYFIJq
+GithubAdvisories,[GHSA-j874-47xx-9xfg] Missing permission check in Jenkins Delete log Plugin,https://github.com/advisories/GHSA-j874-47xx-9xfg,https://da.gd/3kgMe
+GithubAdvisories,[GHSA-fg52-xjfc-9rh8] Pterodactyl vulnerable to 2FA Sniffing,https://github.com/advisories/GHSA-fg52-xjfc-9rh8,https://da.gd/r4LM
