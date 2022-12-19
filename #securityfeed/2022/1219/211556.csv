@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xr37-pjfh-qwwc] Fortify Plugin stored credentials in plain text,https://github.com/advisories/GHSA-xr37-pjfh-qwwc,https://da.gd/gLik
+GithubAdvisories,[GHSA-xg77-xqhq-crpr] Stored XSS vulnerability in Code Coverage API Plugin,https://github.com/advisories/GHSA-xg77-xqhq-crpr,https://da.gd/dCnK
+GithubAdvisories,[GHSA-7xp8-7wqx-5hqx] Jenkins REST APIs vulnerable to clickjacking,https://github.com/advisories/GHSA-7xp8-7wqx-5hqx,https://da.gd/U1P1
+GithubAdvisories,[GHSA-53mm-hx32-6475] TYPO3 vulnerable to Insufficient Session Expiration,https://github.com/advisories/GHSA-53mm-hx32-6475,https://da.gd/nVIlY
+GithubAdvisories,[GHSA-3v6v-2x6p-32mc] pgadmin4 vulnerable to Code Injection,https://github.com/advisories/GHSA-3v6v-2x6p-32mc,https://da.gd/yunQk
+GithubAdvisories,[GHSA-cq2g-pw6q-hf7j] Cortex's Alertmanager can expose local files content via specially crafted config,https://github.com/advisories/GHSA-cq2g-pw6q-hf7j,https://da.gd/L5L4
+GithubAdvisories,[GHSA-fj6f-6933-839j] Non-constant time HMAC comparison,https://github.com/advisories/GHSA-fj6f-6933-839j,https://da.gd/ZW7j
+GithubAdvisories,[GHSA-w7jr-wqw6-54xc] Non-constant time comparison of inbound TCP agent connection secret,https://github.com/advisories/GHSA-w7jr-wqw6-54xc,https://da.gd/1LhKn8
+GithubAdvisories,[GHSA-v279-v2xm-whq9] Oils JS vulnerable to Open Redirect,https://github.com/advisories/GHSA-v279-v2xm-whq9,https://da.gd/28CbJ
