@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7c8f-m389-4xjc] Missing permission checks in Jenkins XebiaLabs XL Release Plugin allow enumerating credentials IDs,https://github.com/advisories/GHSA-7c8f-m389-4xjc,https://da.gd/f8K9
+GithubAdvisories,[GHSA-m9j2-grqf-fg26] Jenkins Reverse Proxy Auth Plugin allows attackers with local file system access to obtain a list of authorities for logged in users,https://github.com/advisories/GHSA-m9j2-grqf-fg26,https://da.gd/OOJd
+GithubAdvisories,[GHSA-4gg5-vx3j-xwc7] Protobuf Java vulnerable to Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-4gg5-vx3j-xwc7,https://da.gd/nILF
