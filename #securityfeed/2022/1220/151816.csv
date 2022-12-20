@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-24855 (easywebpack-cli),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-24855,https://da.gd/rGHhvA
+NVD-NIST,CVE-2022-23526 (helm),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23526,https://da.gd/EEpL
+NVD-NIST,"CVE-2022-32948 (ipados, iphone_os, macos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32948,https://da.gd/x10N
+NVD-NIST,"CVE-2022-42848 (ipados, iphone_os, tvos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42848,https://da.gd/SKuSq
+NVD-NIST,"CVE-2022-42850 (ipados, iphone_os)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42850,https://da.gd/JWcK
+NVD-NIST,CVE-2022-42853 (macos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42853,https://da.gd/856A
+NVD-NIST,CVE-2022-42854 (macos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42854,https://da.gd/wCYta
+NVD-NIST,"CVE-2022-46694 (ipados, iphone_os, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46694,https://da.gd/LJrWp
+NVD-NIST,"CVE-2022-46695 (ipados, iphone_os, macos, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46695,https://da.gd/Vlvgqb
+NVD-NIST,"CVE-2022-46696 (ipados, iphone_os, macos, safari, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46696,https://da.gd/crgrM
+NVD-NIST,"CVE-2022-46698 (icloud, ipados, iphone_os, macos, safari, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46698,https://da.gd/p1WY8
+NVD-NIST,"CVE-2022-46699 (ipados, iphone_os, macos, safari, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46699,https://da.gd/CmfzC
+NVD-NIST,"CVE-2022-46700 (ipad_os, iphone_os, macos, safari, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46700,https://da.gd/PZOEX
