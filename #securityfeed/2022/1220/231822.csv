@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rp4x-xpgf-4xv7] Complete lack of CSRF protection in Jenkins Selenium Plugin can lead to OS command injection,https://github.com/advisories/GHSA-rp4x-xpgf-4xv7,https://da.gd/HFGFG
