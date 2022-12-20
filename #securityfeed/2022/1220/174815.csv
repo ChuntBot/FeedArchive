@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f82v-pg74-6686] Reflected XSS vulnerability in Jenkins AWSEB Deployment Plugin,https://github.com/advisories/GHSA-f82v-pg74-6686,https://da.gd/1p4Yr
+GithubAdvisories,[GHSA-hv53-qjg6-5pm9] XSS vulnerability in Jenkins Gatling Plugin,https://github.com/advisories/GHSA-hv53-qjg6-5pm9,https://da.gd/KpReEB
+GithubAdvisories,[GHSA-33vh-7x8q-mg35] safe-eval vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-33vh-7x8q-mg35,https://da.gd/5rFZbe
+GithubAdvisories,[GHSA-jfm8-hwhg-r6gg] p4 vulnerable to Command Injection due to improper input sanitization,https://github.com/advisories/GHSA-jfm8-hwhg-r6gg,https://da.gd/HwGQK1
+GithubAdvisories,[GHSA-wcwm-c3mr-pxcr] easy-static-server vulnerable to Directory Traversal,https://github.com/advisories/GHSA-wcwm-c3mr-pxcr,https://da.gd/fFmcGS
+GithubAdvisories,[GHSA-89w7-5q45-r53w] lite-server vulnerable to Denial of Service,https://github.com/advisories/GHSA-89w7-5q45-r53w,https://da.gd/1Dt4b
+GithubAdvisories,[GHSA-54r5-wr8x-x5v3] Apiman has insufficient checks for read permissions,https://github.com/advisories/GHSA-54r5-wr8x-x5v3,https://da.gd/0vNsO
+GithubAdvisories,[GHSA-4jv9-3563-23j3] Knex.js has a limited SQL injection vulnerability,https://github.com/advisories/GHSA-4jv9-3563-23j3,https://da.gd/8E703
