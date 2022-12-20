@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-44cm-p9q7-rr3p] Missing permission check in Jenkins Liquibase Runner Plugin allows enumerating credentials IDs,https://github.com/advisories/GHSA-44cm-p9q7-rr3p,https://da.gd/JD9D
+GithubAdvisories,[GHSA-xx7g-f287-f9fq] XXE vulnerability in Jenkins Liquibase Runner Plugin,https://github.com/advisories/GHSA-xx7g-f287-f9fq,https://da.gd/6DIgH
+GithubAdvisories,[GHSA-q564-vvx8-9388] CSRF vulnerability in Jenkins warnings Plugin allows remote code execution,https://github.com/advisories/GHSA-q564-vvx8-9388,https://da.gd/3WekS
