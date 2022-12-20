@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c264-8834-ppj2] CSRF vulnerability in Jenkins Swarm Plugin,https://github.com/advisories/GHSA-c264-8834-ppj2,https://da.gd/aefqlg
+GithubAdvisories,[GHSA-j852-mp82-wv2g] Improper permission checks in Jenkins Swarm Plugin,https://github.com/advisories/GHSA-j852-mp82-wv2g,https://da.gd/Q5yhNl
+GithubAdvisories,[GHSA-vjf8-xw6c-wjhq] CSRF vulnerability in Jenkins Flaky Test Handler Plugin,https://github.com/advisories/GHSA-vjf8-xw6c-wjhq,https://da.gd/c5OBo
+GithubAdvisories,[GHSA-3mwj-7vmq-w43p] Stored XSS vulnerability in Jenkins Yet Another Build Visualizer Plugin,https://github.com/advisories/GHSA-3mwj-7vmq-w43p,https://da.gd/IAkhY
+GithubAdvisories,[GHSA-q4qq-8q2r-g2f2] Passwords transmitted in plain text by Jenkins ReadyAPI Functional Testing Plugin,https://github.com/advisories/GHSA-q4qq-8q2r-g2f2,https://da.gd/8Bs4r
+GithubAdvisories,[GHSA-ccwp-633j-g29v] Passwords stored in plain text by Jenkins ReadyAPI Functional Testing Plugin,https://github.com/advisories/GHSA-ccwp-633j-g29v,https://da.gd/BwvQZ
+GithubAdvisories,[GHSA-9p8j-hrgf-jc2g] Apache Zeppelin Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-9p8j-hrgf-jc2g,https://da.gd/su1PtK
+GithubAdvisories,[GHSA-j34r-57xj-pfm5] WSO2 carbon-registry Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-j34r-57xj-pfm5,https://da.gd/JOfSkZ
