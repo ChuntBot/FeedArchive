@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x68x-wvm2-hqc8] Stored XSS vulnerability in Jenkins Compact Columns Plugin,https://github.com/advisories/GHSA-x68x-wvm2-hqc8,https://da.gd/REro
+GithubAdvisories,[GHSA-q397-w28f-jx97] Stored XSS vulnerability in Jenkins ECharts API Plugin,https://github.com/advisories/GHSA-q397-w28f-jx97,https://da.gd/4gLn
+GithubAdvisories,[GHSA-x9rq-9h44-f84v] Stored XSS vulnerability in Jenkins ECharts API Plugin,https://github.com/advisories/GHSA-x9rq-9h44-f84v,https://da.gd/gZS3y
+GithubAdvisories,[GHSA-w6c2-jrhh-jrxg] Credentials stored in plain text by Jenkins tfs Plugin,https://github.com/advisories/GHSA-w6c2-jrhh-jrxg,https://da.gd/gGFs
+GithubAdvisories,[GHSA-7hf3-h28p-q6gx] Reflected XSS vulnerability in Jenkins JSGames Plugin,https://github.com/advisories/GHSA-7hf3-h28p-q6gx,https://da.gd/YHSa
+GithubAdvisories,[GHSA-p6c5-737r-2r93] XXE vulnerability in Jenkins Klocwork Analysis Plugin,https://github.com/advisories/GHSA-p6c5-737r-2r93,https://da.gd/uc0vZ
+GithubAdvisories,[GHSA-xq2q-8hxc-7jr2] XXE vulnerability in Jenkins Valgrind Plugin,https://github.com/advisories/GHSA-xq2q-8hxc-7jr2,https://da.gd/oLE81
+GithubAdvisories,[GHSA-p5jh-8rxp-wqjj] XSS vulnerability in Jenkins Build Failure Analyzer Plugin,https://github.com/advisories/GHSA-p5jh-8rxp-wqjj,https://da.gd/t1i7
+GithubAdvisories,[GHSA-v46q-xjp5-7p6r] Stored XSS vulnerability in Jenkins Cadence vManager Plugin,https://github.com/advisories/GHSA-v46q-xjp5-7p6r,https://da.gd/bOTfB4
+GithubAdvisories,[GHSA-hj36-v72x-cc6j] Missing permission checks in Jenkins Database Plugin,https://github.com/advisories/GHSA-hj36-v72x-cc6j,https://da.gd/YKBKva
