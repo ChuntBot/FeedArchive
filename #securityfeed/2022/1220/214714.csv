@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c2hg-2jj6-h8vh] CSRF vulnerability in Jenkins Pipeline Maven Integration Plugin allow capturing credentials,https://github.com/advisories/GHSA-c2hg-2jj6-h8vh,https://da.gd/C8T7
+GithubAdvisories,[GHSA-mrr8-fcg7-p2wg] Missing permission check in Jenkins Pipeline Maven Integration Plugin allow capturing credentials,https://github.com/advisories/GHSA-mrr8-fcg7-p2wg,https://da.gd/iR9D
+GithubAdvisories,[GHSA-32xp-m6vg-gwpj] Missing permission check in Jenkins Pipeline Maven Integration Plugin allows enumerating credentials IDs,https://github.com/advisories/GHSA-32xp-m6vg-gwpj,https://da.gd/8VLeLS
