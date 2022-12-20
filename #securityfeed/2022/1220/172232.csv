@@ -1,0 +1,25 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-20588 (ibarn),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-20588,https://da.gd/fbt6tB
+NVD-NIST,CVE-2021-4226 (rsfirewall!),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-4226,https://da.gd/uIX8Y
+NVD-NIST,CVE-2022-20516 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20516,https://da.gd/Qzyqp
+NVD-NIST,CVE-2022-20517 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20517,https://da.gd/tAqNt
+NVD-NIST,CVE-2022-20518 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20518,https://da.gd/4o1btA
+NVD-NIST,CVE-2022-20519 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20519,https://da.gd/gXfJ8p
+NVD-NIST,CVE-2022-20520 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20520,https://da.gd/XfWUA
+NVD-NIST,CVE-2022-20521 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20521,https://da.gd/vfox
+NVD-NIST,CVE-2022-20522 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20522,https://da.gd/2kHdtY
+NVD-NIST,CVE-2022-20523 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20523,https://da.gd/KKkf
+NVD-NIST,CVE-2022-20524 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20524,https://da.gd/mpKk
+NVD-NIST,CVE-2022-20525 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-20525,https://da.gd/H2hlm
+NVD-NIST,"CVE-2022-22063 (apq8096au_firmware, mdm9640_firmware, mdm9645_firmware, qca6174_firmware, qca6174a_firmware, qca6574a_firmware, qca6574au_firmware, wcn3990_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-22063,https://da.gd/CaVaE
+NVD-NIST,"CVE-2022-23507 (tendermint-light-client, tendermint-light-client-js, tendermint-light-client-verifier)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23507,https://da.gd/nWLby
+NVD-NIST,CVE-2022-23524 (helm),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23524,https://da.gd/2oZTec
+NVD-NIST,CVE-2022-23525 (helm),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23525,https://da.gd/P32pCO
+NVD-NIST,CVE-2022-32833 (iphone_os),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32833,https://da.gd/e3NaEw
+NVD-NIST,"CVE-2022-32860 (ipados, iphone_os, macos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32860,https://da.gd/ajKXl
+NVD-NIST,CVE-2022-32916 (iphone_os),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32916,https://da.gd/RMYnpq
+NVD-NIST,CVE-2022-32942 (macos),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32942,https://da.gd/Ixj1y
+NVD-NIST,"CVE-2022-42864 (ipados, iphone_os, macos, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-42864,https://da.gd/kcwlZ
+NVD-NIST,"CVE-2022-46690 (ipados, iphone_os, macos, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46690,https://da.gd/FdjZyz
+NVD-NIST,"CVE-2022-46691 (ipados, iphone_os, macos, safari, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46691,https://da.gd/waYXO
+NVD-NIST,"CVE-2022-46693 (icloud, ipados, iphone_os, macos, tvos, watchos)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46693,https://da.gd/6MMGgu
