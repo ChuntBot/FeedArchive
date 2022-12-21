@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x87m-36g7-6mpw] Yii2 Gii Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-x87m-36g7-6mpw,https://da.gd/0vie
+GithubAdvisories,[GHSA-p6qc-37hq-wqr6] Remote code execution vulnerability in Jenkins Templating Engine Plugin,https://github.com/advisories/GHSA-p6qc-37hq-wqr6,https://da.gd/IvLRF
+GithubAdvisories,[GHSA-8v72-qr3h-c6rv] Credentials stored in plain text by Jenkins Bumblebee HP ALM Plugin,https://github.com/advisories/GHSA-8v72-qr3h-c6rv,https://da.gd/hyV5
+GithubAdvisories,[GHSA-7qp2-rgxr-29q4] Missing permission checks in Micro Focus Application Automation Tools Plugin,https://github.com/advisories/GHSA-7qp2-rgxr-29q4,https://da.gd/t3tV9
+GithubAdvisories,[GHSA-48hr-jg4p-w4p4] XSS vulnerability in Jenkins Claim Plugin,https://github.com/advisories/GHSA-48hr-jg4p-w4p4,https://da.gd/jCSTQT
+GithubAdvisories,[GHSA-q7xg-hh3q-hc68] XML External Entity Reference vulnerability in Jenkins Config File Provider Plugin,https://github.com/advisories/GHSA-q7xg-hh3q-hc68,https://da.gd/2EaRf
