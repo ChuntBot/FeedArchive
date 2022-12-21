@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g662-qq45-ppwm] Smoothie vulnerable to Cross-site Scripting when tooltipLabel or strokeStyle are controlled by users,https://github.com/advisories/GHSA-g662-qq45-ppwm,https://da.gd/yje4y
+GithubAdvisories,[GHSA-wcrg-92wp-4h28] XXE vulnerability in Jenkins Nerrvana Plugin,https://github.com/advisories/GHSA-wcrg-92wp-4h28,https://da.gd/8QhP
+GithubAdvisories,[GHSA-vwfv-qpw8-83c7] Access token stored in plain text by Jenkins SMS Notification Plugin,https://github.com/advisories/GHSA-vwfv-qpw8-83c7,https://da.gd/6cfZd
+GithubAdvisories,[GHSA-2v9x-gpq4-8gg2] CSRF vulnerability in Jenkins Shared Objects Plugin,https://github.com/advisories/GHSA-2v9x-gpq4-8gg2,https://da.gd/lBoDxd
+GithubAdvisories,[GHSA-wfpw-hqjg-58ph] CSRF vulnerability in Jenkins Maven Cascade Release Plugin,https://github.com/advisories/GHSA-wfpw-hqjg-58ph,https://da.gd/lZe3Vl
+GithubAdvisories,[GHSA-5xv9-gp22-gqm5] Missing permission checks in Jenkins Maven Cascade Release Plugin,https://github.com/advisories/GHSA-5xv9-gp22-gqm5,https://da.gd/hEihK
+GithubAdvisories,[GHSA-c2p4-8mvv-rwmv] Apache Karaf vulnerable to potential code injection,https://github.com/advisories/GHSA-c2p4-8mvv-rwmv,https://da.gd/VpWaK
