@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vp5f-8jgw-j53c] XXE vulnerability in Jenkins Subversion Plugin,https://github.com/advisories/GHSA-vp5f-8jgw-j53c,https://da.gd/VfSI
+GithubAdvisories,[GHSA-2wf5-4mf7-vmh3] CSRF vulnerability in Jenkins Active Directory Plugin,https://github.com/advisories/GHSA-2wf5-4mf7-vmh3,https://da.gd/dH7q
+GithubAdvisories,[GHSA-q6rq-4whr-r879] Missing permission check in Jenkins Active Directory Plugin allows accessing domain health check page,https://github.com/advisories/GHSA-q6rq-4whr-r879,https://da.gd/E9rll
