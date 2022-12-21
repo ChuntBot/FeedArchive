@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j7q2-c6r4-x2jw] Stored XSS vulnerability in Jenkins Git Parameter Plugin,https://github.com/advisories/GHSA-j7q2-c6r4-x2jw,https://da.gd/QHPY
+GithubAdvisories,[GHSA-wphq-j78p-fhgp] Secret stored in plain text by Jenkins Parameterized Remote Trigger Plugin,https://github.com/advisories/GHSA-wphq-j78p-fhgp,https://da.gd/lMDNTC
+GithubAdvisories,[GHSA-jf9j-hx2j-m9xh] CSRF vulnerability in Jenkins Database Plugin,https://github.com/advisories/GHSA-jf9j-hx2j-m9xh,https://da.gd/uV37zv
+GithubAdvisories,[GHSA-9rvw-7mx7-h53x] CSRF vulnerability in Jenkins Database Plugin,https://github.com/advisories/GHSA-9rvw-7mx7-h53x,https://da.gd/bbQyp
