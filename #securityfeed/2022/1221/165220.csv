@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rjch-j5x9-fgph] Stored XSS vulnerability in Jenkins Active Choices Plugin,https://github.com/advisories/GHSA-rjch-j5x9-fgph,https://da.gd/gPrd
+GithubAdvisories,[GHSA-9jv5-wf44-8vfm] Stored XSS vulnerability in Jenkins Active Choices Plugin,https://github.com/advisories/GHSA-9jv5-wf44-8vfm,https://da.gd/xxfA
+GithubAdvisories,[GHSA-7v9p-34r2-q668] Incorrect default pattern in Jenkins Audit Trail Plugin,https://github.com/advisories/GHSA-7v9p-34r2-q668,https://da.gd/25qt
+GithubAdvisories,[GHSA-x37x-3fw2-5qw2] CSRF vulnerability in Jenkins Sounds Plugin allow OS command execution,https://github.com/advisories/GHSA-x37x-3fw2-5qw2,https://da.gd/OaJP
+GithubAdvisories,[GHSA-8696-836p-c8qp] Reflected XSS vulnerability in Jenkins gitlab-hook Plugin,https://github.com/advisories/GHSA-8696-836p-c8qp,https://da.gd/GIUH2z
+GithubAdvisories,[GHSA-x23m-8c2h-6wg7] Redgate SQL Change Automation Plugin stored credentials in plain text,https://github.com/advisories/GHSA-x23m-8c2h-6wg7,https://da.gd/TrEByH
+GithubAdvisories,[GHSA-h72v-652w-xv64] Missing permission checks in Health Advisor by CloudBees Plugin,https://github.com/advisories/GHSA-h72v-652w-xv64,https://da.gd/aQC2FV
+GithubAdvisories,[GHSA-fc92-8r77-9297] CSRF vulnerability in Health Advisor by CloudBees Plugin,https://github.com/advisories/GHSA-fc92-8r77-9297,https://da.gd/s7iuBC
+GithubAdvisories,[GHSA-m53p-f25q-q6fg] XXE vulnerability in Jenkins Robot Framework Plugin,https://github.com/advisories/GHSA-m53p-f25q-q6fg,https://da.gd/ux6Ep
+GithubAdvisories,[GHSA-6hmm-77r2-h6hr] Missing permission checks in Jenkins Amazon EC2 Plugin,https://github.com/advisories/GHSA-6hmm-77r2-h6hr,https://da.gd/IaQBqh
+GithubAdvisories,[GHSA-h5mv-fv98-gqmq] OS command injection vulnerability in Jenkins Play Framework Plugin,https://github.com/advisories/GHSA-h5mv-fv98-gqmq,https://da.gd/Vmf9X
