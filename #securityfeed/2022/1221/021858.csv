@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-25g4-p347-x748] Improper authorization due to caching in Jenkins Role-based Authorization Strategy Plugin,https://github.com/advisories/GHSA-25g4-p347-x748,https://da.gd/35gjR
