@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hj32-9mcw-5cwh] Missing permission check in Jenkins Project Inheritance Plugin,https://github.com/advisories/GHSA-hj32-9mcw-5cwh,https://da.gd/YIkQ2O
+GithubAdvisories,[GHSA-m3cq-xcx9-3gvm] Bypass of verifyImages rule possible with malicious proxy/registry,https://github.com/advisories/GHSA-m3cq-xcx9-3gvm,https://da.gd/YHMsbM
+GithubAdvisories,[GHSA-4r9h-x77w-mffv] collective.task Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-4r9h-x77w-mffv,https://da.gd/mxgTj
+GithubAdvisories,[GHSA-m5v8-wpw4-rj3x] abacus-ext-cmdline vulnerable to Command Injection,https://github.com/advisories/GHSA-m5v8-wpw4-rj3x,https://da.gd/O3OQt
+GithubAdvisories,[GHSA-pppv-ch8p-rp2w] lite-dev-server vulnerable to Directory Traversal,https://github.com/advisories/GHSA-pppv-ch8p-rp2w,https://da.gd/KSljTl
+GithubAdvisories,[GHSA-3mmh-vq9w-4c3g] Microweber vulnerable to Reflected Cross-site Scripting,https://github.com/advisories/GHSA-3mmh-vq9w-4c3g,https://da.gd/GHdMi
