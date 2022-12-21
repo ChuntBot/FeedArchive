@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p82q-rxpm-hjpc] AAD Pod Identity obtaining token with backslash,https://github.com/advisories/GHSA-p82q-rxpm-hjpc,https://da.gd/ygtWDg
+GithubAdvisories,[GHSA-5mfw-p6qv-wgvv] Arbitrary file read vulnerability in Jenkins Persona Plugin,https://github.com/advisories/GHSA-5mfw-p6qv-wgvv,https://da.gd/qRXx
+GithubAdvisories,[GHSA-vmg8-g8j3-m355] Stored XSS vulnerability in Jenkins Release Plugin,https://github.com/advisories/GHSA-vmg8-g8j3-m355,https://da.gd/0mwYDD
+GithubAdvisories,[GHSA-jrjr-7rf4-3wqh] Password stored in plain text by Jenkins couchdb-statistics Plugin,https://github.com/advisories/GHSA-jrjr-7rf4-3wqh,https://da.gd/BRe3L
