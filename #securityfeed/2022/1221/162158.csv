@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jhjh-ghwx-6h7r] modulemd uses an unsafe function for processing externally provided data,https://github.com/advisories/GHSA-jhjh-ghwx-6h7r,https://da.gd/XhNKG9
