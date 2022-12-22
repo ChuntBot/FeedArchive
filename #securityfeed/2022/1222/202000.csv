@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6mv3-wm7j-h4w5] Tauri Filesystem Scope Glob Pattern is too Permissive,https://github.com/advisories/GHSA-6mv3-wm7j-h4w5,https://da.gd/dtyi
+GithubAdvisories,[GHSA-45rm-2893-5f49] liquidjs may leak properties of a prototype,https://github.com/advisories/GHSA-45rm-2893-5f49,https://da.gd/332gy
+GithubAdvisories,[GHSA-74hc-57m5-83ch] text_helpers uses web link to untrusted target with window.opener access,https://github.com/advisories/GHSA-74hc-57m5-83ch,https://da.gd/U2My
+GithubAdvisories,[GHSA-wmxm-6wxc-3xqf] Apache ShardingSphere-Proxy Incomplete Cleanup vulnerability,https://github.com/advisories/GHSA-wmxm-6wxc-3xqf,https://da.gd/QUk5e
+GithubAdvisories,[GHSA-639f-hxcv-84mc] rdiffweb Open Redirect vulnerability,https://github.com/advisories/GHSA-639f-hxcv-84mc,https://da.gd/9WzWK
+GithubAdvisories,[GHSA-85fp-523q-5xwc] rdiffweb vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-85fp-523q-5xwc,https://da.gd/eRnFf
+GithubAdvisories,[GHSA-9cmm-52cv-6hvc] Microweber vulnerable to Stored Cross-Site Scripting,https://github.com/advisories/GHSA-9cmm-52cv-6hvc,https://da.gd/Nn4dyM
+GithubAdvisories,[GHSA-6cq5-8cj7-g558] CodeIgniter4 Potential Session Handlers Vulnerability,https://github.com/advisories/GHSA-6cq5-8cj7-g558,https://da.gd/6aRefO
+GithubAdvisories,[GHSA-ghw3-5qvm-3mqc] CodeIgniter4 allows spoofing of IP address when using proxy,https://github.com/advisories/GHSA-ghw3-5qvm-3mqc,https://da.gd/wAMQY2
+GithubAdvisories,[GHSA-6rvv-h8g7-728w] Mingsoft MCMS Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-6rvv-h8g7-728w,https://da.gd/ZjHBqe
