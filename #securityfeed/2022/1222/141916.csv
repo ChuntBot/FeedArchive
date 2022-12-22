@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g7w4-r4mg-gvhx] XXE vulnerability in Jenkins RapidDeploy Plugin,https://github.com/advisories/GHSA-g7w4-r4mg-gvhx,https://da.gd/vaK6rf
+GithubAdvisories,[GHSA-f4gq-7hvf-fjm3] Stored XSS vulnerability in Jenkins RapidDeploy Plugin,https://github.com/advisories/GHSA-f4gq-7hvf-fjm3,https://da.gd/xJeZA
+GithubAdvisories,[GHSA-m7pr-m4cx-6m22] Reflected XSS vulnerability in Jenkins Queue cleanup Plugin,https://github.com/advisories/GHSA-m7pr-m4cx-6m22,https://da.gd/OvPeC
+GithubAdvisories,[GHSA-5qff-7944-vq4f] RCE vulnerability in Jenkins Azure Container Service Plugin,https://github.com/advisories/GHSA-5qff-7944-vq4f,https://da.gd/zii5y7
+GithubAdvisories,[GHSA-xqf6-5grh-6223] Passwords transmitted in plain text by Jenkins Artifactory Plugin,https://github.com/advisories/GHSA-xqf6-5grh-6223,https://da.gd/ogeeXS
+GithubAdvisories,[GHSA-4q47-ph87-fq4f] Passwords stored in plain text by Jenkins Artifactory Plugin,https://github.com/advisories/GHSA-4q47-ph87-fq4f,https://da.gd/zOaX
+GithubAdvisories,[GHSA-cg4h-cfjp-h3x2] Password stored in plain text by Jenkins VMware Lab Manager Slaves Plugin,https://github.com/advisories/GHSA-cg4h-cfjp-h3x2,https://da.gd/l9pY5
+GithubAdvisories,[GHSA-485q-v457-3p58] Passwords stored in plain text by Mail Commander Plugin for Jenkins-ci Plugin,https://github.com/advisories/GHSA-485q-v457-3p58,https://da.gd/0lSLm
+GithubAdvisories,[GHSA-24g8-35x9-fv8r] Stored XSS vulnerability in Jenkins FindBugs Plugin,https://github.com/advisories/GHSA-24g8-35x9-fv8r,https://da.gd/sHmR
