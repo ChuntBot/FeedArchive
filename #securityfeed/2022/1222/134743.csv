@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fg6g-52rg-vr9q] Stored XSS vulnerability in Jenkins Static Analysis Utilities Plugin,https://github.com/advisories/GHSA-fg6g-52rg-vr9q,https://da.gd/OyLt9
+GithubAdvisories,[GHSA-rm7r-xv53-xwc3] Password stored in plain text by Jenkins AppSpider Plugin,https://github.com/advisories/GHSA-rm7r-xv53-xwc3,https://da.gd/HFYjb
+GithubAdvisories,[GHSA-gf8w-6hcm-rh3j] Missing permission checks in Jenkins Azure Key Vault Plugin allow enumerating credentials IDs,https://github.com/advisories/GHSA-gf8w-6hcm-rh3j,https://da.gd/mPy2KI
+GithubAdvisories,[GHSA-rwh3-5g7v-3c5m] Password written to the build log by Jenkins SQLPlus Script Runner Plugin,https://github.com/advisories/GHSA-rwh3-5g7v-3c5m,https://da.gd/hfBx4
+GithubAdvisories,[GHSA-w53q-r5cw-6vjh] Missing permission check in Jenkins Project Inheritance Plugin,https://github.com/advisories/GHSA-w53q-r5cw-6vjh,https://da.gd/Arp1lj
