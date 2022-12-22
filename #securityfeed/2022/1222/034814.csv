@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c6rp-wrp9-qr4q] dustjs-linkedin vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-c6rp-wrp9-qr4q,https://da.gd/3Xzye
+GithubAdvisories,[GHSA-vq23-hwg7-hxrh] EnumStringValues vulnerable to Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-vq23-hwg7-hxrh,https://da.gd/EZ5hc
+GithubAdvisories,[GHSA-7v7g-mh53-89hw] Missing permission check in Jenkins AWS Global Configuration Plugin allows replacing plugin configuration,https://github.com/advisories/GHSA-7v7g-mh53-89hw,https://da.gd/I5V0S
+GithubAdvisories,[GHSA-6xqj-wvgp-rqp8] Missing permission checks in Jenkins Ansible Plugin allow enumerating credentials IDs,https://github.com/advisories/GHSA-6xqj-wvgp-rqp8,https://da.gd/TRx3
+GithubAdvisories,[GHSA-4w2j-2rg4-5mjw] vm2 vulnerable to Arbitrary Code Execution,https://github.com/advisories/GHSA-4w2j-2rg4-5mjw,https://da.gd/Lw0av
+GithubAdvisories,[GHSA-hjrf-2m68-5959] jsonwebtoken's insecure implementation of key retrieval function could lead to Forgeable Public/Private Tokens from RSA to HMAC,https://github.com/advisories/GHSA-hjrf-2m68-5959,https://da.gd/IDgE4M
+GithubAdvisories,[GHSA-qwph-4952-7xr6] jsonwebtoken vulnerable to signature validation bypass due to insecure default algorithm in jwt.verify(),https://github.com/advisories/GHSA-qwph-4952-7xr6,https://da.gd/X4Nq3t
+GithubAdvisories,[GHSA-8cf7-32gw-wr33] jsonwebtoken unrestricted key type could lead to legacy keys usage,https://github.com/advisories/GHSA-8cf7-32gw-wr33,https://da.gd/7yO4
+GithubAdvisories,[GHSA-27h2-hvpr-p74q] jsonwebtoken has insecure input validation in jwt.verify function,https://github.com/advisories/GHSA-27h2-hvpr-p74q,https://da.gd/eJrv3
