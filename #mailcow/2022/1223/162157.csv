@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Updated DB Schemata + reverted escape HTML of alert boxes,https://github.com/mailcow/mailcow-dockerized/commit/aa7888c37d0f098d6c213f0e9ce8bddb0c296831,https://da.gd/IxYp
+GithubCommitStaging,Merge remote-tracking branch 'origin/feature/bootstrap5' into staging,https://github.com/mailcow/mailcow-dockerized/commit/41d56a867a6cb11f27d439d19ff0130a0679f865,https://da.gd/TYhdx
