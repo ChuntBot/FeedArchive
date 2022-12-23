@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Merge pull request #4898 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/f1f9626b5ba6e6d37eab20eb7ff3f7e4ad4e1d24,https://da.gd/lN6Bsr
+GithubCommitStaging,Update tweet-trigger-publish-release.yml,https://github.com/mailcow/mailcow-dockerized/commit/87214fef70fca6a05fd45302eb7f24bdcaf07ed3,https://da.gd/Eu8lE
+GithubCommitStaging,Update bulk_header.map,https://github.com/mailcow/mailcow-dockerized/commit/118984dfff395cafc3aaeea3bf6593520466ab78,https://da.gd/ktCOX
+GithubCommitStaging,docker comes with compose,https://github.com/mailcow/mailcow-dockerized/commit/bfd53293633a386909aba5603f3a2227d30480e0,https://da.gd/dgFQ
+GithubCommitStaging,Use built in compose,https://github.com/mailcow/mailcow-dockerized/commit/a8d50955ee26ebe97d6b9d6229c635026bfbca47,https://da.gd/AsTNcZ
+GithubCommitStaging,fix unicode char,https://github.com/mailcow/mailcow-dockerized/commit/7875185e1f30bcb93ed44aec8f4093df49950eb4,https://da.gd/dIyTs
+GithubCommitStaging,use GitHub for newest docker-compose release,https://github.com/mailcow/mailcow-dockerized/commit/d98fd74968277843713d70b0f95ddd252e059d45,https://da.gd/sV57uI
+GithubCommitStaging,fix incorrect render value,https://github.com/mailcow/mailcow-dockerized/commit/99bcfb8c4bd0371cbc7444d4320c51548c8d8005,https://da.gd/PClyZ4
+GithubCommitStaging,use GitHub redirect for newest version,https://github.com/mailcow/mailcow-dockerized/commit/65585e286d6e7b3ce65cc854a5ed291ddfcd35e8,https://da.gd/1lwm
+GithubCommitStaging,fix unicode char,https://github.com/mailcow/mailcow-dockerized/commit/e5cf35aff89c7c9bce2a94fdff780c3b2cba708d,https://da.gd/YrdO
+GithubCommitStaging,Add Message-ID to pushover,https://github.com/mailcow/mailcow-dockerized/commit/f1e1232849dc8671d188079d8aa6cc54756bf221,https://da.gd/n0Iw2a
+GithubCommitStaging,Merge pull request #4904 from mailcow/feature/alpine-3.17,https://github.com/mailcow/mailcow-dockerized/commit/125aaa5b7dc7917efd33a0a2453db015471bba50,https://da.gd/ApjQ5y
+GithubCommitStaging,Merge pull request #4901 from ethrgeist/chore/docker-compose-cleanup,https://github.com/mailcow/mailcow-dockerized/commit/c24664894970b736e69e47a853ac1981a688d31e,https://da.gd/KAqKz
+GithubCommitStaging,Merge pull request #4903 from Der-Jan/msgidpushover,https://github.com/mailcow/mailcow-dockerized/commit/ea040f44127726ee1f55143008be060283805339,https://da.gd/xjEH
+GithubCommitStaging,Merge pull request #4888 from mailcow/feature/helper-scripts_nextcloud25,https://github.com/mailcow/mailcow-dockerized/commit/4bf81975dc6b558665dba3ac66908117b50757be,https://da.gd/iDI4Me
+GithubCommitStaging,Merge pull request #4900 from ethrgeist/chore/fix-github-template,https://github.com/mailcow/mailcow-dockerized/commit/2b4189b1a4d629124c374da727786ea2b25f172c,https://da.gd/xNZh5u
+GithubCommitStaging,Merge pull request #4899 from mhupfauer/patch-1,https://github.com/mailcow/mailcow-dockerized/commit/0dbd6be010531f005bdd42bf4bbb163d9ecadfb8,https://da.gd/O11d7Y
+GithubCommitStaging,Merge pull request #4835 from VermiumSifell/master,https://github.com/mailcow/mailcow-dockerized/commit/50e9a3ec8a824ad43b1608798d568e4e6e58b4d1,https://da.gd/Wf2b1
