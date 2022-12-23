@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6364-jx4h-7564] Missing permission check in Jenkins Team Foundation Server Plugin allow capturing credentials,https://github.com/advisories/GHSA-6364-jx4h-7564,https://da.gd/a7fK
+GithubAdvisories,[GHSA-w24g-24qg-v4w2] CSRF vulnerability in Jenkins Build With Parameters Plugin,https://github.com/advisories/GHSA-w24g-24qg-v4w2,https://da.gd/yIU6V
+GithubAdvisories,[GHSA-ppv9-v43c-xqpp] XXE vulnerability in Jenkins pom2config Plugin,https://github.com/advisories/GHSA-ppv9-v43c-xqpp,https://da.gd/cT7Bn5
