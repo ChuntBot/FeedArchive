@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4wr9-2xc6-jmg5] Session fixation vulnerability in Jenkins,https://github.com/advisories/GHSA-4wr9-2xc6-jmg5,https://da.gd/JlWrut
+GithubAdvisories,[GHSA-mr75-899x-qcxq] Missing permission checks in Jenkins Chaos Monkey Plugin,https://github.com/advisories/GHSA-mr75-899x-qcxq,https://da.gd/kTgfX
+GithubAdvisories,[GHSA-q8qq-2p5p-rg44] Missing SSH host key validation in Amazon EC2 Plugin,https://github.com/advisories/GHSA-q8qq-2p5p-rg44,https://da.gd/uYBH
+GithubAdvisories,[GHSA-qp4f-2w67-c8hw] Inbound TCP Agent Protocol/3 authentication bypass in Jenkins,https://github.com/advisories/GHSA-qp4f-2w67-c8hw,https://da.gd/XvZNx
+GithubAdvisories,[GHSA-c4c3-3cgh-vvrh] Missing permission check in Jenkins requests-plugin Plugin allows viewing pending requests,https://github.com/advisories/GHSA-c4c3-3cgh-vvrh,https://da.gd/1tsJp
+GithubAdvisories,[GHSA-g9hg-x9c9-7xgr] XXE vulnerability in Jenkins CVS Plugin,https://github.com/advisories/GHSA-g9hg-x9c9-7xgr,https://da.gd/iSaQJ
