@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubCommit,Fix timestamps not sorting in datatables,https://github.com/mailcow/mailcow-dockerized/commit/240b2c63f6d2b544782ad0c661cb589c2231fff2,https://da.gd/Sdyow
+GithubCommit,Fix incorrect datetime for Rspamd logs,https://github.com/mailcow/mailcow-dockerized/commit/eefce62f017be3a13c2ff6d9fee51a31689829d2,https://da.gd/km4GPa
+GithubCommit,Fix missing score and scan time Rspamd logs,https://github.com/mailcow/mailcow-dockerized/commit/136cc2e3fff2276074de7e51cd2e5a66f4659ef1,https://da.gd/idjCAe
+GithubCommit,Make default ordering of Rspamd table consistent,https://github.com/mailcow/mailcow-dockerized/commit/82c80a9682f29d69a935f93dd26b2b1ed1b107cf,https://da.gd/SSIv8
+GithubCommit,[UI] Fixed Wrong Table content in Qurantine (sender instead of subject),https://github.com/mailcow/mailcow-dockerized/commit/8070db96e9d752be0c0e2b6574a840d219a2a1be,https://da.gd/TD0rc
+GithubCommit,[UI] Removed solr informations if container is disabled,https://github.com/mailcow/mailcow-dockerized/commit/3281b97ea9123bcda388c261013e96aa7bdaf6a4,https://da.gd/1OgbcU
+GithubCommit,🛠 fix: Locale decision algorithm,https://github.com/mailcow/mailcow-dockerized/commit/13bdd4ad0bd6c1f417386192683d5fc36e06ec69,https://da.gd/u3dxbN
+GithubCommit,[UI] Show Restart SOGo only when permission = admin,https://github.com/mailcow/mailcow-dockerized/commit/dabf4d4383bbc6adaa61d49c8d68ce83dfe1af0e,https://da.gd/qhS9lh
+GithubCommit,[Web] add missing tag in edit/mailbox.twig,https://github.com/mailcow/mailcow-dockerized/commit/e7a929a947291ce8ae3c47d33a3da7640cc0f396,https://da.gd/gOFFDw
+GithubCommit,[Web] fix SAL display,https://github.com/mailcow/mailcow-dockerized/commit/0cf59159cd8e92e3699615e1bbe64071b3a5fa79,https://da.gd/Peyr7O
+GithubCommit,Merge pull request #4914 from tomudding/fix/datatables-not-ordering-d…,https://github.com/mailcow/mailcow-dockerized/commit/e67b512499057df1fb3fb367d16669f0aeeae153,https://da.gd/SaIAVe
+GithubCommit,Merge pull request #4916 from tomy0000000/patch-1,https://github.com/mailcow/mailcow-dockerized/commit/be35a88f8c30f3604fe50e6aff87964d4c6bebd5,https://da.gd/ICzwn
+GithubCommit,[Compose Updater] Corrected syntax errors,https://github.com/mailcow/mailcow-dockerized/commit/48310034e5f2fa072788ea17110caecdc1706533,https://da.gd/BYyxB
+GithubCommit,Merge pull request #4923 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/516c8ea66cdc3564da8de7623b3a555856164d5f,https://da.gd/NiaoA
