@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qwmp-2cf2-g9g6] pypa/wheel vulnerable to Regular Expression denial of service (ReDoS),https://github.com/advisories/GHSA-qwmp-2cf2-g9g6,https://da.gd/rhKSJ
