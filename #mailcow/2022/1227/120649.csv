@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[WEB] Update DataTables to v1.13.1 and fix crash for non-English locales,https://github.com/mailcow/mailcow-dockerized/commit/eaa0dea63bb951081b8ff6cfb1b2b4987724a094,https://da.gd/8CgLw
+GithubCommitStaging,Merge pull request #4925 from tomudding/fix/datatables-crashing-with-…,https://github.com/mailcow/mailcow-dockerized/commit/850fd85d4d821c7c3af47ea7d132833e2f97110f,https://da.gd/wZqj1W
