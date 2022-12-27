@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g86j-hwg9-77q5] SentinelOne impersonated via PyPI packages,https://github.com/advisories/GHSA-g86j-hwg9-77q5,https://da.gd/5KLTQn
+GithubAdvisories,[GHSA-r9hx-vwmv-q579] pypa/setuptools vulnerable to Regular Expression Denial of Service (ReDoS),https://github.com/advisories/GHSA-r9hx-vwmv-q579,https://da.gd/Vxl6u
+GithubAdvisories,[GHSA-c5hg-mr8r-f6jp] Hazelcast connection caching,https://github.com/advisories/GHSA-c5hg-mr8r-f6jp,https://da.gd/72fa
