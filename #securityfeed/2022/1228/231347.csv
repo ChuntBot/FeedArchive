@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qv6q-4jwx-7j5c] Arbitrary file write vulnerability in Storable Configs Plugin,https://github.com/advisories/GHSA-qv6q-4jwx-7j5c,https://da.gd/6w5Oa
+GithubAdvisories,[GHSA-85wg-cg5p-m76p] Arbitrary file read vulnerability in Storable Configs Plugin,https://github.com/advisories/GHSA-85wg-cg5p-m76p,https://da.gd/1Q3Fs
+GithubAdvisories,[GHSA-79h8-7735-v3f9] System command execution vulnerability in Selection tasks Jenkins Plugin,https://github.com/advisories/GHSA-79h8-7735-v3f9,https://da.gd/spJSU
+GithubAdvisories,[GHSA-2f4c-8rp6-fh6q] Arbitrary file read vulnerability in Copy data to workspace Jenkins Plugin,https://github.com/advisories/GHSA-2f4c-8rp6-fh6q,https://da.gd/TUDOx
+GithubAdvisories,[GHSA-66rm-wg7m-8pgv] CSRF vulnerability in ElasTest Plugin,https://github.com/advisories/GHSA-66rm-wg7m-8pgv,https://da.gd/2TGpAq
