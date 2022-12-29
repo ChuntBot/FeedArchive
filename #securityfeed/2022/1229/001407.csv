@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mqp3-jrhq-65j5] Malware in usaa-typography,https://github.com/advisories/GHSA-mqp3-jrhq-65j5,https://da.gd/5R2id
+GithubAdvisories,[GHSA-pcxj-qq2v-r6qr] Malware in usaa-colors,https://github.com/advisories/GHSA-pcxj-qq2v-r6qr,https://da.gd/m5f42A
+GithubAdvisories,[GHSA-q655-jqj5-8gmh] Malware in usaa-datepicker,https://github.com/advisories/GHSA-q655-jqj5-8gmh,https://da.gd/cdlHx2
+GithubAdvisories,[GHSA-ggfg-gcrj-44m6] Malware in ent-cas-form-navigation-buttons,https://github.com/advisories/GHSA-ggfg-gcrj-44m6,https://da.gd/I5jQ6O
+GithubAdvisories,[GHSA-c374-rg69-hwh4] Malware in usaa-form,https://github.com/advisories/GHSA-c374-rg69-hwh4,https://da.gd/QVVJI
+GithubAdvisories,[GHSA-p364-xfp2-f9rr] CSRF vulnerability in Jenkins Fortify on Demand Plugin,https://github.com/advisories/GHSA-p364-xfp2-f9rr,https://da.gd/OGLP4
+GithubAdvisories,[GHSA-fph2-fwjq-prjf] Users with Overall/Read access could enumerate credentials IDs in Jenkins Fortify on Demand Plugin,https://github.com/advisories/GHSA-fph2-fwjq-prjf,https://da.gd/OCRA6D
+GithubAdvisories,[GHSA-f799-hfg3-48jp] Stored XSS vulnerability in Jenkins Sonargraph Integration Plugin,https://github.com/advisories/GHSA-f799-hfg3-48jp,https://da.gd/jbgMs
+GithubAdvisories,[GHSA-qq38-mxpq-rrpj] Improper authorization of users and groups with the same base name in Jenkins GitLab Authentication Plugin,https://github.com/advisories/GHSA-qq38-mxpq-rrpj,https://da.gd/h4MF6
+GithubAdvisories,[GHSA-cfvw-84vq-43mx] Stored XSS vulnerability in Jenkins Deployer Framework Plugin,https://github.com/advisories/GHSA-cfvw-84vq-43mx,https://da.gd/vD99c
