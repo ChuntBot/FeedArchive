@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5pqf-rvm7-3wgw] collective.contact.widget is vulnerable to cross-site scripting,https://github.com/advisories/GHSA-5pqf-rvm7-3wgw,https://da.gd/ESzBrx
+GithubAdvisories,[GHSA-9r3h-wm3x-v245] RCE vulnerability in ElasticBox Jenkins Kubernetes CI/CD Plugin,https://github.com/advisories/GHSA-9r3h-wm3x-v245,https://da.gd/1tC3o
+GithubAdvisories,[GHSA-3f82-v3qw-53q7] Passwords transmitted in plain text by Jenkins Stash Branch Parameter Plugin,https://github.com/advisories/GHSA-3f82-v3qw-53q7,https://da.gd/J3lK
+GithubAdvisories,[GHSA-r32r-f6wr-cc3w] Password stored in plain text by Jenkins TestComplete support Plugin,https://github.com/advisories/GHSA-r32r-f6wr-cc3w,https://da.gd/W3D52
+GithubAdvisories,[GHSA-jr65-gpj5-cw74] go-resolver's DNSSEC validation not performed correctly,https://github.com/advisories/GHSA-jr65-gpj5-cw74,https://da.gd/HfYQ4
+GithubAdvisories,[GHSA-656g-hf8v-x2rw] Secret stored in plain text by Jenkins Slack Upload Plugin,https://github.com/advisories/GHSA-656g-hf8v-x2rw,https://da.gd/6ZeaH
+GithubAdvisories,[GHSA-2j4h-cjgh-659v] Reflected XSS vulnerability in Jenkins VncViewer Plugin,https://github.com/advisories/GHSA-2j4h-cjgh-659v,https://da.gd/MQD9vp
+GithubAdvisories,[GHSA-fq52-6cjf-jw59] Reflected XSS vulnerability in Jenkins VncRecorder Plugin,https://github.com/advisories/GHSA-fq52-6cjf-jw59,https://da.gd/8V2Xk
+GithubAdvisories,[GHSA-vqp8-h53h-3jfh] Stored XSS vulnerability in Jenkins VncRecorder Plugin,https://github.com/advisories/GHSA-vqp8-h53h-3jfh,https://da.gd/eAQF
+GithubAdvisories,[GHSA-fhmf-xf2q-4m8p] Missing permission checks in Jenkins Fortify on Demand Plugin,https://github.com/advisories/GHSA-fhmf-xf2q-4m8p,https://da.gd/TpFx
