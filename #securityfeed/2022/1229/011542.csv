@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2q7j-52xg-x8fm] Missing permission checks in Zephyr for JIRA Test Management Plugin,https://github.com/advisories/GHSA-2q7j-52xg-x8fm,https://da.gd/hThiC
+GithubAdvisories,[GHSA-56wf-mx5c-ffjx] CSRF vulnerability in Jenkins Zephyr for JIRA Test Management Plugin,https://github.com/advisories/GHSA-56wf-mx5c-ffjx,https://da.gd/weFZ5n
+GithubAdvisories,[GHSA-4c87-9xq5-5c35] Content-Security-Policy protection for user content disabled by Jenkins ZAP Pipeline Plugin,https://github.com/advisories/GHSA-4c87-9xq5-5c35,https://da.gd/WUdTgU
+GithubAdvisories,[GHSA-v8v2-fhgv-3vq2] Credentials stored in plain text by Jenkins White Source Plugin,https://github.com/advisories/GHSA-v8v2-fhgv-3vq2,https://da.gd/wSp3
