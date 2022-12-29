@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6cr6-fmvc-vw2p] Noise vulnerable to uncontrolled resource consumption,https://github.com/advisories/GHSA-6cr6-fmvc-vw2p,https://da.gd/9qjy
+GithubAdvisories,[GHSA-967g-cjx4-h7j6] go-codec-dagpb vulnerable to panic when decoding invalid blocks,https://github.com/advisories/GHSA-967g-cjx4-h7j6,https://da.gd/LJ7T
+GithubAdvisories,[GHSA-9c47-m6qq-7p4h] Prototype Pollution in JSON5 via Parse Method,https://github.com/advisories/GHSA-9c47-m6qq-7p4h,https://da.gd/XttcNL
+GithubAdvisories,[GHSA-9v48-2h5x-fvpm] POSSIBLE DUPLICATE usememos/memos vulnerable due to improper access control,https://github.com/advisories/GHSA-9v48-2h5x-fvpm,https://da.gd/ngZqoL
+GithubAdvisories,[GHSA-9h6h-9g78-86f7] Yapscan's report receiver server vulnerable to path traversal and log injection,https://github.com/advisories/GHSA-9h6h-9g78-86f7,https://da.gd/4WOi
+GithubAdvisories,[GHSA-cm9x-c3rh-7rc4] CRI-O vulnerable to /etc/passwd tampering resulting in Privilege Escalation,https://github.com/advisories/GHSA-cm9x-c3rh-7rc4,https://da.gd/oR3oo
+GithubAdvisories,[GHSA-j563-grx4-pjpv] XStream can cause Denial of Service via stack overflow,https://github.com/advisories/GHSA-j563-grx4-pjpv,https://da.gd/NMZbA8
