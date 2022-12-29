@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mr43-vf8q-q5f2] Missing permission checks in ElasTest Plugin,https://github.com/advisories/GHSA-mr43-vf8q-q5f2,https://da.gd/c0vR
+GithubAdvisories,[GHSA-9rhc-vjjp-gccw] Stored XSS vulnerability in Locked Files Report Plugin,https://github.com/advisories/GHSA-9rhc-vjjp-gccw,https://da.gd/rAVfNu
+GithubAdvisories,[GHSA-2c84-35rv-6q3f] Stored XSS vulnerability in ClearCase Release Plugin,https://github.com/advisories/GHSA-2c84-35rv-6q3f,https://da.gd/wIfDr
+GithubAdvisories,[GHSA-226h-qrg4-8236] Stored XSS vulnerability in chosen-views-tabbar Plugin,https://github.com/advisories/GHSA-226h-qrg4-8236,https://da.gd/b9lZF
+GithubAdvisories,[GHSA-j6p9-hm3q-hwmj] CSRF vulnerability in MongoDB Plugin,https://github.com/advisories/GHSA-j6p9-hm3q-hwmj,https://da.gd/XFUkk3
+GithubAdvisories,[GHSA-c26h-8h4p-4jgj] Missing permission checks in MongoDB Plugin,https://github.com/advisories/GHSA-c26h-8h4p-4jgj,https://da.gd/sN9q0
+GithubAdvisories,[GHSA-qxrx-m6v6-m767] Stored XSS vulnerability in Description Column Plugin,https://github.com/advisories/GHSA-qxrx-m6v6-m767,https://da.gd/80rF
+GithubAdvisories,[GHSA-f6mg-hmfp-6grw] Stored XSS vulnerability in Coverage/Complexity Scatter Plot Plugin,https://github.com/advisories/GHSA-f6mg-hmfp-6grw,https://da.gd/3BMjY
+GithubAdvisories,[GHSA-7vp5-xf5q-fxjq] Stored XSS vulnerability in Radiator View Plugin,https://github.com/advisories/GHSA-7vp5-xf5q-fxjq,https://da.gd/dP9PN2
+GithubAdvisories,[GHSA-wrwq-4f2h-qxj8] Stored XSS vulnerability in Custom Job Icon Plugin,https://github.com/advisories/GHSA-wrwq-4f2h-qxj8,https://da.gd/k9hNj3
+GithubAdvisories,[GHSA-jq84-6fmm-6qv6] OS command execution vulnerability in Perfecto Plugin,https://github.com/advisories/GHSA-jq84-6fmm-6qv6,https://da.gd/oJFyj
+GithubAdvisories,[GHSA-3h2q-m63q-9cf6] Missing permission check in Perfecto Plugin,https://github.com/advisories/GHSA-3h2q-m63q-9cf6,https://da.gd/QTVy
+GithubAdvisories,[GHSA-qg66-xv7v-m834] Stored XSS vulnerability in computer-queue-plugin Plugin,https://github.com/advisories/GHSA-qg66-xv7v-m834,https://da.gd/G4Dxd
+GithubAdvisories,[GHSA-c445-xm3f-hmfh] Incorrect permission check in Health Advisor by CloudBees Plugin,https://github.com/advisories/GHSA-c445-xm3f-hmfh,https://da.gd/OyGw2
+GithubAdvisories,[GHSA-fvwh-wv43-8qj5] Stored XSS vulnerability in Validating String Parameter Plugin,https://github.com/advisories/GHSA-fvwh-wv43-8qj5,https://da.gd/Rj5g
+GithubAdvisories,[GHSA-hq2h-9mc3-h6w2] Stored XSS vulnerability in Pipeline Maven Integration Plugin via unescaped display name,https://github.com/advisories/GHSA-hq2h-9mc3-h6w2,https://da.gd/IE5TjL
+GithubAdvisories,[GHSA-vc7g-4269-f7hw] Missing permission check in Blue Ocean Plugin,https://github.com/advisories/GHSA-vc7g-4269-f7hw,https://da.gd/EN6dw
+GithubAdvisories,[GHSA-vq7j-6pcq-f48p] Path traversal vulnerability in Blue Ocean Plugin,https://github.com/advisories/GHSA-vq7j-6pcq-f48p,https://da.gd/HA1g
+GithubAdvisories,[GHSA-4qrj-99r6-jfrh] Missing hostname validation in Email Extension Plugin,https://github.com/advisories/GHSA-4qrj-99r6-jfrh,https://da.gd/XvXEy
+GithubAdvisories,[GHSA-q2mm-w3qc-2936] Stored XSS vulnerability in Jenkins Link Column Plugin,https://github.com/advisories/GHSA-q2mm-w3qc-2936,https://da.gd/KpwAN
+GithubAdvisories,[GHSA-fc3j-cfqv-pfrm] Password stored in plain text by Jenkins HP ALM Quality Center Plugin,https://github.com/advisories/GHSA-fc3j-cfqv-pfrm,https://da.gd/D3FN8
+GithubAdvisories,[GHSA-rfrq-3v89-fqg6] Reflected XSS in Jenkins Compatibility Action Storage Plugin,https://github.com/advisories/GHSA-rfrq-3v89-fqg6,https://da.gd/GBccPV
