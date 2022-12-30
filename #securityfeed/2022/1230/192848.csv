@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jcr6-mmjj-pchw] gorilla/handlers may allow requester to bypass expected behavior of the Same Origin Policy,https://github.com/advisories/GHSA-jcr6-mmjj-pchw,https://da.gd/EOHT4X
+GithubAdvisories,[GHSA-32qh-8vg6-9g43] Cloud Foundry Archiver vulnerable to path traversal,https://github.com/advisories/GHSA-32qh-8vg6-9g43,https://da.gd/I3Ac
+GithubAdvisories,[GHSA-3fm3-m23v-5r46] Tendermint Client package vulnerable to Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-3fm3-m23v-5r46,https://da.gd/RBx8y
+GithubAdvisories,[GHSA-vp56-r7qv-783v] ahh vulnerable to Path Traversal,https://github.com/advisories/GHSA-vp56-r7qv-783v,https://da.gd/Q3kx
+GithubAdvisories,[GHSA-f5c5-hmw9-v8hx] Unzip vulnerable to path traversal,https://github.com/advisories/GHSA-f5c5-hmw9-v8hx,https://da.gd/raUJ
+GithubAdvisories,[GHSA-5x84-q523-vvwr] nosurf vulnerable to improper input validation,https://github.com/advisories/GHSA-5x84-q523-vvwr,https://da.gd/K0dVp
+GithubAdvisories,[GHSA-rmj9-q58g-9qgg] go-unzip vulnerable to Path Traversal,https://github.com/advisories/GHSA-rmj9-q58g-9qgg,https://da.gd/G8cV
+GithubAdvisories,[GHSA-jpf8-h7h7-3ppm] tar-utils Path Traversal vulnerability,https://github.com/advisories/GHSA-jpf8-h7h7-3ppm,https://da.gd/uCQV
+GithubAdvisories,[GHSA-r88r-gmrh-7j83] YAML Go package vulnerable to denial of service,https://github.com/advisories/GHSA-r88r-gmrh-7j83,https://da.gd/pYK3SV
