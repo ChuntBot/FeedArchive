@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qw36-rw5q-gxcq] usememos/memos Improper Authorization vulnerability,https://github.com/advisories/GHSA-qw36-rw5q-gxcq,https://da.gd/cUgvE
+GithubAdvisories,[GHSA-rx2m-xr4x-54hh] usememos/memos vulnerable to Improper Authorization,https://github.com/advisories/GHSA-rx2m-xr4x-54hh,https://da.gd/PTpmi
+GithubAdvisories,[GHSA-f83p-pg86-p922] usememos/memos has Insufficient Granularity of Access Control,https://github.com/advisories/GHSA-f83p-pg86-p922,https://da.gd/qznDkX
+GithubAdvisories,[GHSA-mfvq-m3jj-8864] usememos/memos vulnerable to Improper Verification of Source of a Communication Channel,https://github.com/advisories/GHSA-mfvq-m3jj-8864,https://da.gd/IAbkY
+GithubAdvisories,[GHSA-jvq8-w7qv-hqp6] usememos/memos Improper Authentication vulnerability,https://github.com/advisories/GHSA-jvq8-w7qv-hqp6,https://da.gd/RNYm
+GithubAdvisories,[GHSA-qcf5-m2c6-89f2] usememos/memos Improper Authorization vulnerability,https://github.com/advisories/GHSA-qcf5-m2c6-89f2,https://da.gd/BINyGX
+GithubAdvisories,[GHSA-qrrf-xvcf-p64q] usememos/memos vulnerable Improper Restriction of Excessive Authentication Attempts,https://github.com/advisories/GHSA-qrrf-xvcf-p64q,https://da.gd/WhFO
+GithubAdvisories,[GHSA-ghx2-6v4g-9wmm] usememos/memos makes Incorrect Use of Privileged APIs,https://github.com/advisories/GHSA-ghx2-6v4g-9wmm,https://da.gd/PBeZ
+GithubAdvisories,[GHSA-p6fg-723f-hgpw] shiyanhui/dht vulnerable to Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-p6fg-723f-hgpw,https://da.gd/QlRN
+GithubAdvisories,[GHSA-5rhg-xhgr-5hfj] go-saml's XML Digital Signatures use SHA-1,https://github.com/advisories/GHSA-5rhg-xhgr-5hfj,https://da.gd/yrxQe
+GithubAdvisories,[GHSA-q9qr-jwpw-3qvv] Golf may allow attacker to bypass CSRF protections,https://github.com/advisories/GHSA-q9qr-jwpw-3qvv,https://da.gd/Y7Tv1Y
+GithubAdvisories,[GHSA-5vw4-v588-pgv8] robbert229/jwt's token validation methods vulnerable to a timing side-channel during HMAC comparison,https://github.com/advisories/GHSA-5vw4-v588-pgv8,https://da.gd/ttEAch
