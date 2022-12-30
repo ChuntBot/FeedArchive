@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4348-x292-h437] GoBase Race Condition vulnerability,https://github.com/advisories/GHSA-4348-x292-h437,https://da.gd/fMoX1
+GithubAdvisories,[GHSA-6q6q-88xp-6f2r] yaml package for Go can consume excessive amounts of CPU or memory,https://github.com/advisories/GHSA-6q6q-88xp-6f2r,https://da.gd/hYJpt
+GithubAdvisories,[GHSA-9p62-x3c5-hr5p] Path Traversal In MeterSpere leads to upload file to any path,https://github.com/advisories/GHSA-9p62-x3c5-hr5p,https://da.gd/qBaUat
+GithubAdvisories,[GHSA-3fhj-wpvj-x5w8] laravel-jqgrid vulnerable to SQL Injection,https://github.com/advisories/GHSA-3fhj-wpvj-x5w8,https://da.gd/pQmVOG
+GithubAdvisories,[GHSA-97rc-mm5j-f6rj] usememos/memos vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-97rc-mm5j-f6rj,https://da.gd/iZop
+GithubAdvisories,[GHSA-v92p-phmp-xffr] usememos/memos vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-v92p-phmp-xffr,https://da.gd/Balm7
+GithubAdvisories,[GHSA-c2v4-8r9g-g5xj] usememos/memos vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-c2v4-8r9g-g5xj,https://da.gd/Ac6R
+GithubAdvisories,[GHSA-2wpw-cm9w-v4xm] rdiffweb vulnerable to Business Logic Errors,https://github.com/advisories/GHSA-2wpw-cm9w-v4xm,https://da.gd/xMMY
+GithubAdvisories,[GHSA-83pm-7v48-5jp4] rdiffweb vulnerable to Special Element Injection,https://github.com/advisories/GHSA-83pm-7v48-5jp4,https://da.gd/0Ai3
+GithubAdvisories,[GHSA-wf33-6x33-wcf9] rdiffweb vulnerable to Authentication Bypass by Primary Weakness,https://github.com/advisories/GHSA-wf33-6x33-wcf9,https://da.gd/RjCviJ
+GithubAdvisories,[GHSA-7q4r-x5qg-mmcp] rdiffweb has no rate limit on resend email feature,https://github.com/advisories/GHSA-7q4r-x5qg-mmcp,https://da.gd/bXIjr
+GithubAdvisories,[GHSA-m8r9-qxx8-mrxp] rdiffweb Improper Access Control vulnerability,https://github.com/advisories/GHSA-m8r9-qxx8-mrxp,https://da.gd/6Ium
