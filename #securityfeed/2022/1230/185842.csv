@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hrm3-3xm6-x33h] golang-nanoauth authentication bypass vulnerability,https://github.com/advisories/GHSA-hrm3-3xm6-x33h,https://da.gd/CS8h2
+GithubAdvisories,[GHSA-3839-6r69-m497] GoUtils's randomly-generated alphanumeric strings contain significantly less entropy than expected,https://github.com/advisories/GHSA-3839-6r69-m497,https://da.gd/Wb115
+GithubAdvisories,[GHSA-6jvc-q2x7-pchv] AWS S3 Crypto SDK sends an unencrypted hash of the plaintext alongside the ciphertext as a metadata field,https://github.com/advisories/GHSA-6jvc-q2x7-pchv,https://da.gd/1gWdL
