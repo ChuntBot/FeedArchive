@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6xrf-q977-5vgc] json-pointer vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-6xrf-q977-5vgc,https://da.gd/czUdX
+GithubAdvisories,[GHSA-qvx2-59g8-8hph] docconv vulnerable to Memory Allocation with Excessive Size Value,https://github.com/advisories/GHSA-qvx2-59g8-8hph,https://da.gd/Q3xEy
+GithubAdvisories,[GHSA-jwrv-x6rx-8vfm] Macaron i18n Open Redirect vulnerability,https://github.com/advisories/GHSA-jwrv-x6rx-8vfm,https://da.gd/sKcXi
+GithubAdvisories,[GHSA-qqv9-gqh5-7h99] Snipe-IT allows attackers to check whether a user account exists,https://github.com/advisories/GHSA-qqv9-gqh5-7h99,https://da.gd/vw3InS
+GithubAdvisories,[GHSA-363q-j92x-7543] Snipe-IT vulnerable to Cross Site Scripting for View Assigned Assets,https://github.com/advisories/GHSA-363q-j92x-7543,https://da.gd/8yWMFb
+GithubAdvisories,[GHSA-q6cq-m9gm-6q2f] Slixmpp lacks SSL Certificate hostname validation in XMLStream,https://github.com/advisories/GHSA-q6cq-m9gm-6q2f,https://da.gd/QLSxM
+GithubAdvisories,[GHSA-6m4h-hfpp-x8cx] docconv OS Command Injection vulnerability,https://github.com/advisories/GHSA-6m4h-hfpp-x8cx,https://da.gd/iCr3e
