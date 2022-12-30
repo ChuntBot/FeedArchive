@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f8cc-g7j8-xxpm] XStream can cause a Denial of Service by injecting deeply nested objects raising a stack overflow,https://github.com/advisories/GHSA-f8cc-g7j8-xxpm,https://da.gd/F6uTjV
+GithubAdvisories,[GHSA-f552-97qx-c694] usememos/memos vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-f552-97qx-c694,https://da.gd/4SM1uE
+GithubAdvisories,[GHSA-4fv8-w65m-3932] efs-utils and aws-efs-csi-driver have race condition during concurrent TLS mounts,https://github.com/advisories/GHSA-4fv8-w65m-3932,https://da.gd/KLLWV
+GithubAdvisories,"[GHSA-5wvv-q5fv-2388] hyper-staticfile's location header incorporates user input, allowing open redirect",https://github.com/advisories/GHSA-5wvv-q5fv-2388,https://da.gd/7eg8Je
+GithubAdvisories,[GHSA-p228-4mrh-ww7r] Elrond-GO processing: fallback search of SCRs when not found in the main cache,https://github.com/advisories/GHSA-p228-4mrh-ww7r,https://da.gd/C6ov2
