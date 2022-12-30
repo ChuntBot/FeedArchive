@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h5wp-jrqc-cwwx] rdiffweb vulnerable to Open Redirect,https://github.com/advisories/GHSA-h5wp-jrqc-cwwx,https://da.gd/r2Z6c
+GithubAdvisories,[GHSA-f5h9-qx38-2hgp] AWS SDK is vulnerable to server-side request forgery (SSRF),https://github.com/advisories/GHSA-f5h9-qx38-2hgp,https://da.gd/jAkgfU
