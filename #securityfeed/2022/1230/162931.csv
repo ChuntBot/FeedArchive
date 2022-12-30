@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qr52-59r6-49f4] usememos/memos Improper Access Control vulnerability,https://github.com/advisories/GHSA-qr52-59r6-49f4,https://da.gd/4bpu
+GithubAdvisories,[GHSA-68gw-r2x5-7r5r] usememos/memos Improper Authentication vulnerability,https://github.com/advisories/GHSA-68gw-r2x5-7r5r,https://da.gd/Apt6ng
+GithubAdvisories,[GHSA-8gh8-hqwg-xf34] Starcounter-Jack JSON-Patch Prototype Pollution vulnerability,https://github.com/advisories/GHSA-8gh8-hqwg-xf34,https://da.gd/ow4PO2
+GithubAdvisories,[GHSA-2j2x-2gpw-g8fm] flat vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-2j2x-2gpw-g8fm,https://da.gd/6jg43
+GithubAdvisories,[GHSA-j5p7-jf4q-742q] markdown-it vulnerable to Inefficient Regular Expression Complexity,https://github.com/advisories/GHSA-j5p7-jf4q-742q,https://da.gd/5opk
+GithubAdvisories,[GHSA-fv6c-rfg3-gvjw] usememos/memos makes Incorrect Use of Privileged APIs,https://github.com/advisories/GHSA-fv6c-rfg3-gvjw,https://da.gd/KKbMHu
