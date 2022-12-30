@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cjcc-46j8-xmr8] destiny.gg chat vulnerable to cross-site request forgery,https://github.com/advisories/GHSA-cjcc-46j8-xmr8,https://da.gd/Hgul
+GithubAdvisories,[GHSA-q2fj-6h62-59m2] Apiman Vert.x Gateway has Transitive Hazelcast connection caching issue,https://github.com/advisories/GHSA-q2fj-6h62-59m2,https://da.gd/Gy5yoY
+GithubAdvisories,[GHSA-7qpw-2j9m-rw8c] usememos/memos has Insufficient Granularity of Access Control,https://github.com/advisories/GHSA-7qpw-2j9m-rw8c,https://da.gd/ftTak
+GithubAdvisories,[GHSA-6fx9-29x2-fmfj] usememos/memos Improper Access Control vulnerability,https://github.com/advisories/GHSA-6fx9-29x2-fmfj,https://da.gd/DyNfWE
+GithubAdvisories,[GHSA-m5pr-wm6q-x4g2] usememos/memos vulnerable to Comparison of Object References Instead of Object Contents,https://github.com/advisories/GHSA-m5pr-wm6q-x4g2,https://da.gd/VmMr
+GithubAdvisories,[GHSA-hc5q-26h8-r9wf] usememos/memos Improper Authorization vulnerability,https://github.com/advisories/GHSA-hc5q-26h8-r9wf,https://da.gd/fLTvy
+GithubAdvisories,[GHSA-qf9q-3wwx-8qjv] usememos/memos Improper Access Control vulnerability,https://github.com/advisories/GHSA-qf9q-3wwx-8qjv,https://da.gd/6kaY
+GithubAdvisories,[GHSA-6w5w-wx8w-2cq9] usememos/memos Improper Access Control vulnerability,https://github.com/advisories/GHSA-6w5w-wx8w-2cq9,https://da.gd/BOEc71
+GithubAdvisories,[GHSA-gfj4-wg89-m22r] usememos/memos Improper Access Control vulnerability,https://github.com/advisories/GHSA-gfj4-wg89-m22r,https://da.gd/4w4L7l
+GithubAdvisories,[GHSA-pp3p-6jjh-rmg7] usememos/memos Improper Access Control vulnerability,https://github.com/advisories/GHSA-pp3p-6jjh-rmg7,https://da.gd/QTZF9
