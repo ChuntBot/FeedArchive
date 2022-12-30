@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h8w6-c53g-53vv] Missing permission checks in Jenkins Sounds Plugin allow OS command execution,https://github.com/advisories/GHSA-h8w6-c53g-53vv,https://da.gd/BE8PN
+GithubAdvisories,[GHSA-9hvf-pfq3-7pp6] CSRF vulnerability in Jenkins Amazon EC2 Plugin,https://github.com/advisories/GHSA-9hvf-pfq3-7pp6,https://da.gd/c6ZT
