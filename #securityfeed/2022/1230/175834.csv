@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3c5x-4hvx-qrrr] Graphite Web Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-3c5x-4hvx-qrrr,https://da.gd/f5CBA
+GithubAdvisories,[GHSA-q99p-78hp-xg5c] Graphite Web Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-q99p-78hp-xg5c,https://da.gd/4Jww8
+GithubAdvisories,[GHSA-m973-4vpc-x43c] Graphite Web Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-m973-4vpc-x43c,https://da.gd/Aoa3V
+GithubAdvisories,[GHSA-j593-h5v3-45x6] usememos/memos may leak user information to an authenticated user,https://github.com/advisories/GHSA-j593-h5v3-45x6,https://da.gd/FMN03E
+GithubAdvisories,[GHSA-33m8-f4hw-wm3q] usememos/memos Denial of Service vulnerability,https://github.com/advisories/GHSA-33m8-f4hw-wm3q,https://da.gd/NYdj5
+GithubAdvisories,[GHSA-gfgm-chr3-x6px] prettytable-rs: Force cast a &Vec to &[T] may lead to undefined behavior,https://github.com/advisories/GHSA-gfgm-chr3-x6px,https://da.gd/a76sxf
+GithubAdvisories,[GHSA-8m3f-g62j-3vx8] binwalk vulnerable to UNIX Symbolic Link (Symlink) Following,https://github.com/advisories/GHSA-8m3f-g62j-3vx8,https://da.gd/zwdY
