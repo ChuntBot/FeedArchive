@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gxqf-4g4p-q3hc] usememos/memos vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-gxqf-4g4p-q3hc,https://da.gd/NSsfab
+GithubAdvisories,[GHSA-pwhr-p68w-296x] usememos/memos vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-pwhr-p68w-296x,https://da.gd/lMMvy
+GithubAdvisories,[GHSA-rmhx-9h5h-3xh3] usememos/memos vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-rmhx-9h5h-3xh3,https://da.gd/0IV0C
+GithubAdvisories,[GHSA-gw9m-2m5v-c6x5] usememos/memos Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-gw9m-2m5v-c6x5,https://da.gd/8jRcQV
+GithubAdvisories,[GHSA-cwrm-33qq-4w2x] usememos/memos Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-cwrm-33qq-4w2x,https://da.gd/nhkbmn
+GithubAdvisories,[GHSA-642q-2q68-9j3p] usememos/memos Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-642q-2q68-9j3p,https://da.gd/qsYy
+GithubAdvisories,[GHSA-r7hg-2cpp-8wqq] usememos/memos has Incorrectly Specified Destination in a Communication Channel,https://github.com/advisories/GHSA-r7hg-2cpp-8wqq,https://da.gd/W2YYYV
+GithubAdvisories,[GHSA-vh43-cc6x-prpr] usememos/memos vulnerable to Improper Verification of Source of a Communication Channel,https://github.com/advisories/GHSA-vh43-cc6x-prpr,https://da.gd/wBmn8
+GithubAdvisories,[GHSA-c5hq-35h7-r9x4] usememos/memos Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-c5hq-35h7-r9x4,https://da.gd/1t0z
