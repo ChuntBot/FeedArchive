@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gw62-c7w4-x449] studygolang vulnerable to cross-site scripting,https://github.com/advisories/GHSA-gw62-c7w4-x449,https://da.gd/hUbgW4
+GithubAdvisories,[GHSA-xv6x-456v-24xh] gotify/server vulnerable to Cross-site Scripting in the application image file upload,https://github.com/advisories/GHSA-xv6x-456v-24xh,https://da.gd/1LqJyd
+GithubAdvisories,[GHSA-hggr-p7v6-73p5] revel is vulnerable to resource exhaustion,https://github.com/advisories/GHSA-hggr-p7v6-73p5,https://da.gd/AC4u4G
+GithubAdvisories,[GHSA-6vm3-jj99-7229] Gin's default logger allows unsanitized input that can allow remote attackers to inject arbitrary log lines,https://github.com/advisories/GHSA-6vm3-jj99-7229,https://da.gd/JpWAVX
