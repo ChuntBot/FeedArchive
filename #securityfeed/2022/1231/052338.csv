@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g3wc-xv93-445q] DNS NuGet package uses insufficiently random values,https://github.com/advisories/GHSA-g3wc-xv93-445q,https://da.gd/EIuQ
+GithubAdvisories,[GHSA-jvjm-j945-8qwc] XXE vulnerability in Jenkins Visualworks Store Plugin,https://github.com/advisories/GHSA-jvjm-j945-8qwc,https://da.gd/6MUqa
+GithubAdvisories,[GHSA-w598-25hm-jqx3] RCE vulnerability in Jenkins Pipeline: AWS Steps Plugin,https://github.com/advisories/GHSA-w598-25hm-jqx3,https://da.gd/8ZE4
