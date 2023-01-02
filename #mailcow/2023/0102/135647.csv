@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Enable regex as manager,https://github.com/mailcow/mailcow-dockerized/commit/072cbe62de4674f63c5f592e38a5253701fc6c2e,https://da.gd/JDR3f
+GithubCommitStaging,Add matchstring line for regex,https://github.com/mailcow/mailcow-dockerized/commit/afa1ed1effd8942e147b0a8d82f699513bae2830,https://da.gd/7SvFI
+GithubCommitStaging,Merge pull request #4956 from mailcow/feat/nextcloud-renovate,https://github.com/mailcow/mailcow-dockerized/commit/e5c9752681024c3e3cf74fbb9fb58256633658ed,https://da.gd/tG960
