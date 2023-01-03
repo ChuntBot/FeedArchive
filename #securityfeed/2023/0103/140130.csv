@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5pq7-52mg-hr42] httparty has multipart/form-data request tampering vulnerability,https://github.com/advisories/GHSA-5pq7-52mg-hr42,https://da.gd/R39Nb2
