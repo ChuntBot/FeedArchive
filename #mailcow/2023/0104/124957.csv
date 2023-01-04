@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Sort sync jobs DataTable based on ID,https://github.com/mailcow/mailcow-dockerized/commit/690c34bc1d10d8ab463d59988ddaa0559ff1f1ec,https://da.gd/IoF6
+GithubCommitStaging,Sort other mailbox DataTables also descending by ID,https://github.com/mailcow/mailcow-dockerized/commit/de30650dc78c025f8413e498a063b1e64ad6398b,https://da.gd/rGkwn
+GithubCommitStaging,Merge pull request #4948 from tomudding/fix/sorting-mail-configuratio…,https://github.com/mailcow/mailcow-dockerized/commit/48a13255f35f4ba8090ccee1d2abc80a91da9887,https://da.gd/PAro
