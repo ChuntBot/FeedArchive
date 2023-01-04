@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gvfj-fxx3-j323] Mellium vulnerable to authentication failure or insufficient randomness used during authentication,https://github.com/advisories/GHSA-gvfj-fxx3-j323,https://da.gd/Xb9bP
+GithubAdvisories,[GHSA-rc58-qr9j-cpgw] Apache Airflow Hive Provider vulnerable to Command Injection,https://github.com/advisories/GHSA-rc58-qr9j-cpgw,https://da.gd/DxhHc
+GithubAdvisories,[GHSA-p4qr-vq2g-22wp] ThinkPHP Framework vulnerable to remote code execution,https://github.com/advisories/GHSA-p4qr-vq2g-22wp,https://da.gd/OGrm0D
+GithubAdvisories,[GHSA-v3c5-jqr6-7qm8] Python Charmers Future denial of service vulnerability,https://github.com/advisories/GHSA-v3c5-jqr6-7qm8,https://da.gd/pgVrye
