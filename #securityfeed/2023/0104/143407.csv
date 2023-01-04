@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pfrm-4rjw-g9q5] string-kit Inefficient Regular Expression Complexity vulnerability,https://github.com/advisories/GHSA-pfrm-4rjw-g9q5,https://da.gd/oLzHD
+GithubAdvisories,[GHSA-7rf3-mqpx-h7xg] Jettison Out-of-bounds Write vulnerability,https://github.com/advisories/GHSA-7rf3-mqpx-h7xg,https://da.gd/NicCxH
+GithubAdvisories,[GHSA-7599-fqgm-v84p] rgb2hex vulnerable to inefficient regular expression complexity,https://github.com/advisories/GHSA-7599-fqgm-v84p,https://da.gd/T7Wt
+GithubAdvisories,[GHSA-grr4-wv38-f68w] Jettison Out-of-bounds Write vulnerability,https://github.com/advisories/GHSA-grr4-wv38-f68w,https://da.gd/LstGX
+GithubAdvisories,[GHSA-399p-vq28-5hg8] keynote Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-399p-vq28-5hg8,https://da.gd/QnoH
