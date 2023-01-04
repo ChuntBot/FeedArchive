@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8w5q-5fpq-v4pm] usememos/memos Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-8w5q-5fpq-v4pm,https://da.gd/5NJNxM
+GithubAdvisories,[GHSA-x9p9-v3x6-68mq] usememos/memos vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-x9p9-v3x6-68mq,https://da.gd/nSSm9
+GithubAdvisories,[GHSA-6whj-8g9g-5jvx] usememos/memos vulnerable to Improper Handling of Insufficient Permissions or Privileges,https://github.com/advisories/GHSA-6whj-8g9g-5jvx,https://da.gd/d5YQuR
+GithubAdvisories,[GHSA-6gwx-gw56-qhf7] Froxlor vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-6gwx-gw56-qhf7,https://da.gd/Oe7IzS
+GithubAdvisories,[GHSA-w6qf-j4qr-f946] Froxlor Improper Authorization vulnerability,https://github.com/advisories/GHSA-w6qf-j4qr-f946,https://da.gd/x3Ye
