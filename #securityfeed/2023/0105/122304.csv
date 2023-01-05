@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h857-2g56-468g] @mattkrick/sanitize-svg vulnerable to Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-h857-2g56-468g,https://da.gd/RJOT
+GithubAdvisories,[GHSA-c653-6hhg-9x92] go-ipld-prime/codec/json may panic if asked to encode bytes,https://github.com/advisories/GHSA-c653-6hhg-9x92,https://da.gd/A4cwb
+GithubAdvisories,[GHSA-fprr-rrm8-4534] Apache Dubbo vulnerable to remote code execution via Telnet Handler,https://github.com/advisories/GHSA-fprr-rrm8-4534,https://da.gd/FaF5F
+GithubAdvisories,[GHSA-rq2w-37h9-vg94] Apache Tomcat improperly escapes input from JsonErrorReportValve,https://github.com/advisories/GHSA-rq2w-37h9-vg94,https://da.gd/9sC5v
