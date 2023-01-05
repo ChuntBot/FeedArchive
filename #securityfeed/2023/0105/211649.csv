@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p5x5-jg3j-2jcj] OS command injection in CryptoMove Plugin,https://github.com/advisories/GHSA-p5x5-jg3j-2jcj,https://da.gd/IZVbbG
+GithubAdvisories,[GHSA-c329-r874-xc7j] Remote Code Execution vulnerability in Jenkins Literate Plugin,https://github.com/advisories/GHSA-c329-r874-xc7j,https://da.gd/p5sul
+GithubAdvisories,[GHSA-q2wv-m3pq-xpv9] Credentials transmitted in plain text by Skytap Cloud CI Plugin,https://github.com/advisories/GHSA-q2wv-m3pq-xpv9,https://da.gd/QzKvp5
