@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hm57-4qpx-f734] Credentials transmitted in plain text by Jenkins DeployHub Plugin,https://github.com/advisories/GHSA-hm57-4qpx-f734,https://da.gd/0p8La
+GithubAdvisories,[GHSA-cj2g-wwfv-mvjh] XSS vulnerability in Jenkins Audit Trail Plugin,https://github.com/advisories/GHSA-cj2g-wwfv-mvjh,https://da.gd/8891
+GithubAdvisories,[GHSA-m935-chfp-9f63] Arbitrary file write vulnerability in Jenkins Cobertura Plugin,https://github.com/advisories/GHSA-m935-chfp-9f63,https://da.gd/JejM
+GithubAdvisories,[GHSA-vpfj-5gg5-fvfm] XXE vulnerability in Jenkins Cobertura Plugin,https://github.com/advisories/GHSA-vpfj-5gg5-fvfm,https://da.gd/nbTAmU
+GithubAdvisories,[GHSA-6xxf-rwv4-mrjm] Stored XSS vulnerability in Jenkins Timestamper Plugin,https://github.com/advisories/GHSA-6xxf-rwv4-mrjm,https://da.gd/LBaJi
