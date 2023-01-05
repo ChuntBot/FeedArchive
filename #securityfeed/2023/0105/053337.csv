@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-87mm-qxm5-cp3f] go-resolver vulnerable to attacker-controlled domains due to unvalidated RRSIG RRs,https://github.com/advisories/GHSA-87mm-qxm5-cp3f,https://da.gd/SEbWkp
+GithubAdvisories,[GHSA-28x9-hc4p-9vh2] Stored XSS vulnerability in android-lint Plugin,https://github.com/advisories/GHSA-28x9-hc4p-9vh2,https://da.gd/HVCfp
+GithubAdvisories,[GHSA-5r5f-hcwf-r9jh] Secret stored in plain text by Jenkins GitHub Coverage Reporter Plugin,https://github.com/advisories/GHSA-5r5f-hcwf-r9jh,https://da.gd/Ln45c
+GithubAdvisories,[GHSA-p9rc-x48f-582x] Passwords stored in plain text by ElasTest Plugin,https://github.com/advisories/GHSA-p9rc-x48f-582x,https://da.gd/wPj22
