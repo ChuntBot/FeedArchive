@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vjhf-8vqx-vqpq] KubePi allows malicious actor to login with a forged JWT token via Hardcoded Jwtsigkeys,https://github.com/advisories/GHSA-vjhf-8vqx-vqpq,https://da.gd/ur3YN3
+GithubAdvisories,[GHSA-vp62-m958-qj8c] Gravitee API Management contains Path Traversal,https://github.com/advisories/GHSA-vp62-m958-qj8c,https://da.gd/gFtbM
