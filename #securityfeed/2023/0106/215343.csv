@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7rrj-xr53-82p7] Tokio reject_remote_clients configuration may get dropped when creating a Windows named pipe,https://github.com/advisories/GHSA-7rrj-xr53-82p7,https://da.gd/OBmF
+GithubAdvisories,[GHSA-9mjx-wfqp-j5ph] window-control vulnerable to Command Injection due to improper input sanitization,https://github.com/advisories/GHSA-9mjx-wfqp-j5ph,https://da.gd/KD9Z
+GithubAdvisories,[GHSA-3xh5-8hvq-rc8x] Apache DolphinScheduler vulnerable to Improper Input Validation,https://github.com/advisories/GHSA-3xh5-8hvq-rc8x,https://da.gd/Mo3Kk
