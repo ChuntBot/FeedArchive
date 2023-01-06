@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-54w6-vxfh-fw7f] Http4s improperly parses User-Agent and Server headers,https://github.com/advisories/GHSA-54w6-vxfh-fw7f,https://da.gd/A7yZ
