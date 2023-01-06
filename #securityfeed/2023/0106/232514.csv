@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m3g7-wrrq-v5c8] Pyload contains Sensitive Cookie in HTTPS Session Without 'Secure' Attribute,https://github.com/advisories/GHSA-m3g7-wrrq-v5c8,https://da.gd/OFLRRD
+GithubAdvisories,[GHSA-p8j8-wxvp-h695] SimbCo httpster vulnerable to Path Traversal,https://github.com/advisories/GHSA-p8j8-wxvp-h695,https://da.gd/bR7x
