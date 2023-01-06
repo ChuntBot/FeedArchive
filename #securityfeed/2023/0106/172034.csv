@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6mjp-2rm6-9g85] XWiki CKEditor.HTMLConverter vulnerable to Remote Code Execution via Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-6mjp-2rm6-9g85,https://da.gd/nPGYy
+GithubAdvisories,[GHSA-ffr6-8cv5-j637] Jenkins S3 Publisher Plugin transmits credentials in plain text during configuration,https://github.com/advisories/GHSA-ffr6-8cv5-j637,https://da.gd/aRJloh
+GithubAdvisories,[GHSA-fgxc-mxvw-55mv] Jenkins Git Parameter Plugin vulnerable to stored cross-site scripting (XSS),https://github.com/advisories/GHSA-fgxc-mxvw-55mv,https://da.gd/oUTRRl
+GithubAdvisories,[GHSA-hw26-fw67-qxm9] Jenkins Git Parameter Plugin vulnerable to Stored cross-site scripting (XSS),https://github.com/advisories/GHSA-hw26-fw67-qxm9,https://da.gd/30sZL
+GithubAdvisories,[GHSA-m365-98j8-w96w] Jenkins Zephyr for JIRA Test Management Plugin stores credentials in plain text,https://github.com/advisories/GHSA-m365-98j8-w96w,https://da.gd/SMS39E
+GithubAdvisories,[GHSA-wc2g-9j98-vcgw] Jenkins Subversion Release Manager Plugin vulnerable to cross-site scripting (XSS),https://github.com/advisories/GHSA-wc2g-9j98-vcgw,https://da.gd/lqkaZ
+GithubAdvisories,[GHSA-gvcj-72h4-8xm9] Jenkins Quality Gates Plugin transmits credentials in plain text during configuration,https://github.com/advisories/GHSA-gvcj-72h4-8xm9,https://da.gd/zk1Pt
+GithubAdvisories,[GHSA-6fh3-xhwg-7hfh] Jenkins Sonar Quality Gates Plugin transmits credentials in plain text during configuration,https://github.com/advisories/GHSA-6fh3-xhwg-7hfh,https://da.gd/b8ufE
