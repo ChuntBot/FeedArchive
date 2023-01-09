@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Add regex for matchstring line in Dockerfiles,https://github.com/mailcow/mailcow-dockerized/commit/b3c54ed07af02f4f213dfad39982280313a90d4a,https://da.gd/ZuiPr
+GithubCommitStaging,Update gosu to 1.16,https://github.com/mailcow/mailcow-dockerized/commit/cb098df743a5da37ca450212da0321f00c97163e,https://da.gd/k5uDdI
+GithubCommitStaging,[Web] load public ip on click and add curl timeout,https://github.com/mailcow/mailcow-dockerized/commit/9727e4084f7303208f24da2154e40030b54516c2,https://da.gd/gRXX
+GithubCommitStaging,[Web] remove remote Google fonts from lumen theme,https://github.com/mailcow/mailcow-dockerized/commit/68f5fbf65c04585485672dd1d91749134cdd861c,https://da.gd/YhMxwk
+GithubCommitStaging,[Web] fix quarantine darkmode style,https://github.com/mailcow/mailcow-dockerized/commit/fc0e6b6efb041c6fa85024d101b44d4bf0a5f2ec,https://da.gd/2c3w
+GithubCommitStaging,[Web] fix extend_sender_acl issue for domainadmins,https://github.com/mailcow/mailcow-dockerized/commit/dd9296ffc28d6442d479f0f41a90950226cccaf2,https://da.gd/DPEyh
+GithubCommitStaging,[Web] Opt-In for third party ip_check,https://github.com/mailcow/mailcow-dockerized/commit/1e98784eee64240418d6e6df2336e2c0d7ac9dd2,https://da.gd/XxV3xv
+GithubCommitStaging,[Web] set domain tab default active,https://github.com/mailcow/mailcow-dockerized/commit/c44281f62d0e18de8bff3c42e46265ee79afb716,https://da.gd/GorJY
+GithubCommitStaging,[Web] set correct type for routing password input,https://github.com/mailcow/mailcow-dockerized/commit/606eaad8f747423fbe8241fa8759095d38a15fc7,https://da.gd/yjGiJ
+GithubCommitStaging,[Web] use saved password policy for pwgen,https://github.com/mailcow/mailcow-dockerized/commit/c928948b1508a0f2c787926c8b2843ede56489f9,https://da.gd/VaarfG
+GithubCommitStaging,[Web] persist table settings + fix quarantine sort,https://github.com/mailcow/mailcow-dockerized/commit/b22f74cb5985456eb659ee237c392632e4515166,https://da.gd/TkMzwu
+GithubCommitStaging,[Web] switch table length + filter field positions,https://github.com/mailcow/mailcow-dockerized/commit/7966f010a2d487603f990fa352818f9e5087216e,https://da.gd/octcgq
+GithubCommitStaging,[Web] fix mailboxtable sort by quota,https://github.com/mailcow/mailcow-dockerized/commit/e501642b8ebc0d6af25f8a2663b4d1dbfb56bc80,https://da.gd/pYxtuE
+GithubCommitStaging,changed language string (de),https://github.com/mailcow/mailcow-dockerized/commit/028ad4ceb9e687e6557947a7d40a7751722bbd57,https://da.gd/PCAr
+GithubCommitStaging,Merge pull request #4966 from mailcow/fix/bs5,https://github.com/mailcow/mailcow-dockerized/commit/27c87de4ede1be77b469c174e3cc225f4e6ee826,https://da.gd/ur5b4z
+GithubCommitStaging,Merge pull request #4964 from mailcow/feat/renovate-gosu,https://github.com/mailcow/mailcow-dockerized/commit/93b3e0302a0add83051fc32442513db79a3004a5,https://da.gd/3D0Dx
+GithubCommitStaging,Merge pull request #4943 from sivn/staging,https://github.com/mailcow/mailcow-dockerized/commit/c97afbfa0b8ea8310fb46aba9f1fa9462465f136,https://da.gd/jSj9
