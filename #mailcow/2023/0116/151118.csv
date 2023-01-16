@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Generate] Refactor compose version detection using regex,https://github.com/mailcow/mailcow-dockerized/commit/4c6f8c4f6034c7e3d526c2c940555243c0991955,https://da.gd/iIOUY
+GithubCommitStaging,[Update.sh] Implemented optimized Regex Compose Detection,https://github.com/mailcow/mailcow-dockerized/commit/a76e6b32f7973c79936cc9aa3dfbfc900135df3d,https://da.gd/k37Jct
