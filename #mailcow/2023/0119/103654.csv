@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Dovecot] Update to 2.3.20,https://github.com/mailcow/mailcow-dockerized/commit/9279ee2e76a1ad67720e2cd69ef5a1298b434afe,https://da.gd/flIc
+GithubCommitStaging,Add regex for matchstring line in Dockerfiles,https://github.com/mailcow/mailcow-dockerized/commit/7626becb38f8b5908b1e4c0d238f3a918bba2f1c,https://da.gd/fdQy4W
+GithubCommitStaging,[SOGo] Update to newer 5.8.0 (fix for macOS Caldav Bug),https://github.com/mailcow/mailcow-dockerized/commit/8e3d2f70106fdc7f33b4f7d6984bd9bb6556bc66,https://da.gd/1kS1pH
+GithubCommitStaging,Merge pull request #4991 from mailcow/feat/dovecot-2.3.20,https://github.com/mailcow/mailcow-dockerized/commit/f0d9948aeeaa6b68b8e29dae03e7ce29dda44aa1,https://da.gd/EAVK
