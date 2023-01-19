@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,Update thollander/actions-comment-pull-request action to v2.3.1 (#4986),https://github.com/mailcow/mailcow-dockerized/commit/814f4aed15f6d36d5a30aece3fa1cdf54e906a56,https://da.gd/Hkc21
+GithubCommit,[Web] fix domain admins cant delete tags,https://github.com/mailcow/mailcow-dockerized/commit/36fa5dc6330102da68425fda09670c25be548bce,https://da.gd/grhbDW
+GithubCommit,[Web] fix Spamfilter flag fwdhosts wrong naming,https://github.com/mailcow/mailcow-dockerized/commit/152431a7d710385f5e93f7af19ce78c8fd4cba21,https://da.gd/xNeZ
+GithubCommit,[Web] disable datatable default row click listener,https://github.com/mailcow/mailcow-dockerized/commit/099db33e447fac10a47d3b2d974209cfcd0ad1fa,https://da.gd/EgSbh
+GithubCommit,[Nextcloud] Updated and improved script (implemented -u and more),https://github.com/mailcow/mailcow-dockerized/commit/9c55d46bc6335505cb0c03b3eb303dd3664a50cd,https://da.gd/TqFi
+GithubCommit,[Web] show fold/unfold action if child rows exists,https://github.com/mailcow/mailcow-dockerized/commit/8782304e8dea57fc7991af0654f3f89c48ba2792,https://da.gd/pVIqq
+GithubCommit,Feature: Add developer mode option to generate_config.sh,https://github.com/mailcow/mailcow-dockerized/commit/b6799d9fcb2d1719cdf43a4938a2e1ad91871296,https://da.gd/ynaib
+GithubCommit,Merge branch 'staging' of https://github.com/mailcow/mailcow-dockeriz…,https://github.com/mailcow/mailcow-dockerized/commit/826d32413bb7bc2d0e5a74e23bcdce9912f785a5,https://da.gd/LNfg
+GithubCommit,[Generate] Refactor compose version detection using regex,https://github.com/mailcow/mailcow-dockerized/commit/4c6f8c4f6034c7e3d526c2c940555243c0991955,https://da.gd/iIOUY
+GithubCommit,[Update.sh] Implemented optimized Regex Compose Detection,https://github.com/mailcow/mailcow-dockerized/commit/a76e6b32f7973c79936cc9aa3dfbfc900135df3d,https://da.gd/k37Jct
+GithubCommit,[Dovecot] Update to 2.3.20,https://github.com/mailcow/mailcow-dockerized/commit/9279ee2e76a1ad67720e2cd69ef5a1298b434afe,https://da.gd/flIc
+GithubCommit,Merge pull request #4989 from mailcow/feat/nextcloud-script-overhaul,https://github.com/mailcow/mailcow-dockerized/commit/49bbdd064ec1fac18d5a75468806e39595ec042f,https://da.gd/e1CHf
+GithubCommit,Add regex for matchstring line in Dockerfiles,https://github.com/mailcow/mailcow-dockerized/commit/5d5e95972914e548209b54c9a7f996a247d5e6f6,https://da.gd/ocSvV
+GithubCommit,Add regex for matchstring line in Dockerfiles,https://github.com/mailcow/mailcow-dockerized/commit/7626becb38f8b5908b1e4c0d238f3a918bba2f1c,https://da.gd/fdQy4W
+GithubCommit,Enable dependencyDashboard,https://github.com/mailcow/mailcow-dockerized/commit/1af785a94f73cbe588435e15b7e749762e876019,https://da.gd/Qq7k
+GithubCommit,Merge pull request #4993 from mailcow/feat/renovate-docker-compose,https://github.com/mailcow/mailcow-dockerized/commit/18cb06fbc7e3d40bf5ab67cf654d559b6084a0eb,https://da.gd/T1Lyku
+GithubCommit,Merge pull request #4992 from mailcow/feat/phpfpm-renovate,https://github.com/mailcow/mailcow-dockerized/commit/fc1c5a505d95456c05d5d267b6bb36a60b288156,https://da.gd/v1qPWz
+GithubCommit,[SOGo] Update to newer 5.8.0 (fix for macOS Caldav Bug),https://github.com/mailcow/mailcow-dockerized/commit/8e3d2f70106fdc7f33b4f7d6984bd9bb6556bc66,https://da.gd/1kS1pH
+GithubCommit,Merge pull request #4991 from mailcow/feat/dovecot-2.3.20,https://github.com/mailcow/mailcow-dockerized/commit/f0d9948aeeaa6b68b8e29dae03e7ce29dda44aa1,https://da.gd/EAVK
+GithubCommit,Merge pull request #4995 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/86beba6f5a27cf743f29138eb0074de0b5da72cb,https://da.gd/T6n77M
