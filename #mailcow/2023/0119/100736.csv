@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Add regex for matchstring line in Dockerfiles,https://github.com/mailcow/mailcow-dockerized/commit/5d5e95972914e548209b54c9a7f996a247d5e6f6,https://da.gd/ocSvV
+GithubCommitStaging,Merge pull request #4992 from mailcow/feat/phpfpm-renovate,https://github.com/mailcow/mailcow-dockerized/commit/fc1c5a505d95456c05d5d267b6bb36a60b288156,https://da.gd/v1qPWz
