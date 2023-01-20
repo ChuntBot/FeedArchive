@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Update alpine Docker tag to v3.17 (#4997),https://github.com/mailcow/mailcow-dockerized/commit/1b3a13ca19086130dd9cca98974b4ad8c2fff4c6,https://da.gd/1Pq8
+GithubCommitStaging,Update dependency nextcloud/server to v25.0.3 (#4996),https://github.com/mailcow/mailcow-dockerized/commit/9af40eba10da1741f1005223e7d953215adf9eae,https://da.gd/7gelQr
