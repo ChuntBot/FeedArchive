@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Debian Security Advisory 5323-1,https://packetstormsecurity.com/files/170622/dsa-5323-1.txt,https://da.gd/FBtB
+PacketstormSecurity,Solaris 10 dtprintinfo Local Privilege Escalation,https://packetstormsecurity.com/files/170621/raptor_dtprintlibXmas.c,https://da.gd/W6SFOp
+PacketstormSecurity,Solaris 10 dtprintinfo / libXm / libXpm Security Issues,https://packetstormsecurity.com/files/170620/HNS-2022-01-dtprintinfo.txt,https://da.gd/CC6Xe
+PacketstormSecurity,TOR Virtual Network Tunneling Tool 0.4.7.13,https://packetstormsecurity.com/files/170619/tor-0.4.7.13.tar.gz,https://da.gd/HeTOQ
+PacketstormSecurity,Patient Record Management System 1.0 Authentication Bypass,https://packetstormsecurity.com/files/170617/prms10-bypass.txt,https://da.gd/J8mq
+PacketstormSecurity,OpenText Extended ECM 22.3 File Deletion / LFI / Privilege Escsalation,https://packetstormsecurity.com/files/170615/SA-20230117-2.txt,https://da.gd/AXVFEH
+PacketstormSecurity,OpenText Extended ECM 22.3 Java Frontend Remote Code Execution,https://packetstormsecurity.com/files/170614/SA-20230117-1.txt,https://da.gd/kuUEGq
+PacketstormSecurity,OpenText Extended ECM 22.3 cs.exe Remote Code Execution,https://packetstormsecurity.com/files/170613/SA-20230117-0.txt,https://da.gd/q69NK
+PacketstormSecurity,NetChess 2.1 Buffer Overflow,https://packetstormsecurity.com/files/170612/netchess21-overflow.txt,https://da.gd/tO3Kb
+PacketstormSecurity,wolfSSL WOLFSSL_CALLBACKS Heap Buffer Over-Read,https://packetstormsecurity.com/files/170610/wolfssl-overread.txt,https://da.gd/khxLR
+PacketstormSecurity,ASKEY RTF3505VW-N1 Privilege Escalation,https://packetstormsecurity.com/files/170608/askey-escalate.txt,https://da.gd/JOCgu
+PacketstormSecurity,Inout Multi-Vendor Shopping Cart 3.2.3 SQL Injection,https://packetstormsecurity.com/files/170607/inoutmvsc323-sql.txt,https://da.gd/oRSS
+PacketstormSecurity,Inout Multi-Vendor Shopping Cart 3.2.3 Cross Site Scripting,https://packetstormsecurity.com/files/170606/inoutmvsc323-xss.txt,https://da.gd/WB2uN8
+PacketstormSecurity,wolfSSL 5.3.0 Denial Of Service,https://packetstormsecurity.com/files/170605/wolfssl530-dos.txt,https://da.gd/juIO
+PacketstormSecurity,wolfSSL Session Resumption Denial Of Service,https://packetstormsecurity.com/files/170604/wolfsslsession-dos.txt,https://da.gd/mEmuZ
+PacketstormSecurity,Red Hat Security Advisory 2023-0069-01,https://packetstormsecurity.com/files/170603/RHSA-2023-0069-01.txt,https://da.gd/RN5LLk
+PacketstormSecurity,Red Hat Security Advisory 2023-0264-01,https://packetstormsecurity.com/files/170602/RHSA-2023-0264-01.txt,https://da.gd/PNBb2
