@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Fix installation of nextcloud,https://github.com/mailcow/mailcow-dockerized/commit/ef6452cf55f5f8ba4f92d563a6ebe038615b68e3,https://da.gd/IL95mZ
+GithubCommitStaging,Merge pull request #5015 from mailcow/feat/nc-install-fix,https://github.com/mailcow/mailcow-dockerized/commit/294569f5c93e86c51cab77986f3da8cef3448860,https://da.gd/5wXz
