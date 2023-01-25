@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubCommit,Update alpine Docker tag to v3.17 (#4997),https://github.com/mailcow/mailcow-dockerized/commit/1b3a13ca19086130dd9cca98974b4ad8c2fff4c6,https://da.gd/1Pq8
+GithubCommit,Update dependency nextcloud/server to v25.0.3 (#4996),https://github.com/mailcow/mailcow-dockerized/commit/9af40eba10da1741f1005223e7d953215adf9eae,https://da.gd/7gelQr
+GithubCommit,Fix installation of nextcloud,https://github.com/mailcow/mailcow-dockerized/commit/ef6452cf55f5f8ba4f92d563a6ebe038615b68e3,https://da.gd/IL95mZ
+GithubCommit,Merge pull request #5015 from mailcow/feat/nc-install-fix,https://github.com/mailcow/mailcow-dockerized/commit/294569f5c93e86c51cab77986f3da8cef3448860,https://da.gd/5wXz
+GithubCommit,replace nullnull.org with fuzzy.mailcow.email,https://github.com/mailcow/mailcow-dockerized/commit/afddcf7f3b79c506a5b385a7dbbf6fadf95639fa,https://da.gd/0sVAV
+GithubCommit,[Web] add missing template var for dadmins,https://github.com/mailcow/mailcow-dockerized/commit/9ba65a572e1e22d89d75130f0ee609ec1f9f6d70,https://da.gd/ozWhTR
+GithubCommit,[Web] Updated lang.da-dk.json (#5020),https://github.com/mailcow/mailcow-dockerized/commit/8281d3fa557c01f4a250550443001d4c1412d0be,https://da.gd/ejQxT
+GithubCommit,partial rollback of dockerapi,https://github.com/mailcow/mailcow-dockerized/commit/b71998250406656963fc9176826522e1af73cc66,https://da.gd/Ur91iu
+GithubCommit,Merge branch 'staging' of https://github.com/mailcow/mailcow-dockeriz…,https://github.com/mailcow/mailcow-dockerized/commit/5439ea1010c83cdf09db3a8570b9410a6a21d193,https://da.gd/CA5f
+GithubCommit,[Web] fix queue btn showing undefined,https://github.com/mailcow/mailcow-dockerized/commit/ed7b384e2431e4c98a45c3262c2229b285f778b6,https://da.gd/iH7f
+GithubCommit,Removed Integration Tests,https://github.com/mailcow/mailcow-dockerized/commit/99e38d81b1a34893f5738919e719fa50a032fcb9,https://da.gd/XBaRSp
+GithubCommit,Merge pull request #5003 from mailcow/feat/acme-skip-ip-check,https://github.com/mailcow/mailcow-dockerized/commit/05d1a974eb6831770e35f7650a03befbb1395e35,https://da.gd/UADZmQ
+GithubCommit,Merge pull request #5019 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/640f535e9995f27fcc1541a60f0a56648d0d66cc,https://da.gd/H0Dbpm
