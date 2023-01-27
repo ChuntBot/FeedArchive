@@ -1,0 +1,38 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3ppr-72x5-x67q] XML external entity vulnerability on agents in Jenkins MSTest Plugin,https://github.com/advisories/GHSA-3ppr-72x5-x67q,https://da.gd/k9eZP
+GithubAdvisories,[GHSA-4x65-4fjx-r7m6] Plaintext storage of Access Token in Jenkins GitHub Pull Request Coverage Status Plugin,https://github.com/advisories/GHSA-4x65-4fjx-r7m6,https://da.gd/V59o
+GithubAdvisories,[GHSA-96jv-c7m6-q43g] Cross-site request forgery vulnerability in Jenkins OpenID Plugin,https://github.com/advisories/GHSA-96jv-c7m6-q43g,https://da.gd/wsPi3f
+GithubAdvisories,[GHSA-2jpx-h8j2-g8m4] Exposure of system-scoped Kubernetes credentials in Jenkins Kubernetes Credentials Provider Plugin,https://github.com/advisories/GHSA-2jpx-h8j2-g8m4,https://da.gd/hlrIsy
+GithubAdvisories,[GHSA-69f2-4375-qv9h] Command injection in smartctl,https://github.com/advisories/GHSA-69f2-4375-qv9h,https://da.gd/1oL7F
+GithubAdvisories,[GHSA-f976-24hc-mjvr] Session fixation vulnerability in Jenkins OpenID Plugin,https://github.com/advisories/GHSA-f976-24hc-mjvr,https://da.gd/qyb24i
+GithubAdvisories,[GHSA-9w5j-4mwv-2wj8] Remote code execution in simple-git,https://github.com/advisories/GHSA-9w5j-4mwv-2wj8,https://da.gd/K8V931
+GithubAdvisories,[GHSA-8m9f-c5p9-wqch] Remote Code Execution in com.bstek.uflo:uflo-core,https://github.com/advisories/GHSA-8m9f-c5p9-wqch,https://da.gd/BWKU
+GithubAdvisories,[GHSA-g5qr-xgg7-8q2w] Command Injection in puppet-facter,https://github.com/advisories/GHSA-g5qr-xgg7-8q2w,https://da.gd/ivQ7eN
+GithubAdvisories,[GHSA-pcc2-w6m8-x5w4] Agent-to-controller security bypass in Jenkins Semantic Versioning Plugin,https://github.com/advisories/GHSA-pcc2-w6m8-x5w4,https://da.gd/JcB4
+GithubAdvisories,[GHSA-g29v-5pwh-wxx4] Plaintext Storage of a Password in Jenkins JIRA Pipeline Steps Plugin,https://github.com/advisories/GHSA-g29v-5pwh-wxx4,https://da.gd/BhCHPv
+GithubAdvisories,[GHSA-g5mj-c26g-vmpm] XML Entity Expansion in Jenkins TestComplete support Plugin,https://github.com/advisories/GHSA-g5mj-c26g-vmpm,https://da.gd/YE3gaT
+GithubAdvisories,[GHSA-wj79-9fxj-j86p] Cross-site request forgery vulnerability in Jenkins RabbitMQ Consumer Plugin,https://github.com/advisories/GHSA-wj79-9fxj-j86p,https://da.gd/lzxFi0
+GithubAdvisories,[GHSA-mj62-m63x-mh84] Open redirect vulnerability in Jenkins OpenID Plugin,https://github.com/advisories/GHSA-mj62-m63x-mh84,https://da.gd/FJ4P
+GithubAdvisories,[GHSA-px2f-cqrf-f2qg] CSRF vulnerability in Jenkins TestQuality Updater Plugin,https://github.com/advisories/GHSA-px2f-cqrf-f2qg,https://da.gd/00s0jT
+GithubAdvisories,[GHSA-xr8h-wj4v-rx7f] Missing permission check in Jenkins TestQuality Updater Plugin,https://github.com/advisories/GHSA-xr8h-wj4v-rx7f,https://da.gd/8rU5
+GithubAdvisories,[GHSA-98qc-v8vg-mcx4] Plaintext Storage of a Password in Jenkins TestQuality Updater Plugin,https://github.com/advisories/GHSA-98qc-v8vg-mcx4,https://da.gd/MdEnjk
+GithubAdvisories,[GHSA-9963-gmh8-vvm6] Session fixation vulnerability in Jenkins Keycloak Authentication Plugin,https://github.com/advisories/GHSA-9963-gmh8-vvm6,https://da.gd/tq9be
+GithubAdvisories,[GHSA-67w4-w877-jv29] Missing permission check in Jenkins BearyChat Plugin,https://github.com/advisories/GHSA-67w4-w877-jv29,https://da.gd/CaLU67
+GithubAdvisories,[GHSA-9wrr-4r9v-26xc] CSRF vulnerability in Jenkins Keycloak Authentication Plugin,https://github.com/advisories/GHSA-9wrr-4r9v-26xc,https://da.gd/dr6mb
+GithubAdvisories,[GHSA-h632-p764-pjqm] DataFlow upload remote code execution vulnerability,https://github.com/advisories/GHSA-h632-p764-pjqm,https://da.gd/XXOKn
+GithubAdvisories,[GHSA-5j2g-3ph4-rgvm] Fix for authenticated remote code execution through layout update,https://github.com/advisories/GHSA-5j2g-3ph4-rgvm,https://da.gd/Py0QF
+GithubAdvisories,[GHSA-8mmh-h4jh-2g34] Path Traversal in Jenkins visualexpert Plugin,https://github.com/advisories/GHSA-8mmh-h4jh-2g34,https://da.gd/Xo0s
+GithubAdvisories,[GHSA-5xhh-6xfv-7q42] Cross-site request forgery vulnerability in Jenkins BearyChat Plugin,https://github.com/advisories/GHSA-5xhh-6xfv-7q42,https://da.gd/zxPc
+GithubAdvisories,[GHSA-x477-fq37-q5wr] Initial debug-host handler implementation could leak information and facilitate denial of service,https://github.com/advisories/GHSA-x477-fq37-q5wr,https://da.gd/vMt8zQ
+GithubAdvisories,[GHSA-3p73-mm7v-4f6m] DoS vulnerability in MaliciousCode filter,https://github.com/advisories/GHSA-3p73-mm7v-4f6m,https://da.gd/qkDQu
+GithubAdvisories,[GHSA-5vpv-xmcj-9q85] Fix for arbitrary file deletion in customer media allows for remote code execution,https://github.com/advisories/GHSA-5vpv-xmcj-9q85,https://da.gd/341l2
+GithubAdvisories,[GHSA-c9q3-r4rv-mjm7] Fix for arbitrary command execution in custom layout update through blocks,https://github.com/advisories/GHSA-c9q3-r4rv-mjm7,https://da.gd/T6iw
+GithubAdvisories,[GHSA-254j-mmc5-qhpx] Smashing Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-254j-mmc5-qhpx,https://da.gd/imf1y
+GithubAdvisories,[GHSA-5gxp-c379-pj42] ccsv Double Free vulnerability,https://github.com/advisories/GHSA-5gxp-c379-pj42,https://da.gd/1TsZh
+GithubAdvisories,[GHSA-hh2x-7mf9-78fr] Sup Code Injection vulnerability,https://github.com/advisories/GHSA-hh2x-7mf9-78fr,https://da.gd/gWUgZZ
+GithubAdvisories,[GHSA-cpv6-pfq6-j2v7] katello Improper Privilege Management vulnerability,https://github.com/advisories/GHSA-cpv6-pfq6-j2v7,https://da.gd/1o5D2a
+GithubAdvisories,[GHSA-77h8-xr85-3x5q] hammer_cli_foreman Improper Certificate Validation vulnerability,https://github.com/advisories/GHSA-77h8-xr85-3x5q,https://da.gd/Nhm5A
+GithubAdvisories,[GHSA-8xm3-gm7c-5fjx] Ember.js Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-8xm3-gm7c-5fjx,https://da.gd/9hwb
+GithubAdvisories,[GHSA-mc8m-x6hf-cw2g] point-cli allows local users to obtain sensitive information by listing the process,https://github.com/advisories/GHSA-mc8m-x6hf-cw2g,https://da.gd/amce
+GithubAdvisories,[GHSA-39v7-xpq4-8884] PDFKit Improper Input Validation vulnerability,https://github.com/advisories/GHSA-39v7-xpq4-8884,https://da.gd/oxEUe
+GithubAdvisories,[GHSA-x4vj-279x-qwf2] VladTheEnterprising allows local users to write to arbitrary files via a symlink attack,https://github.com/advisories/GHSA-x4vj-279x-qwf2,https://da.gd/86zRmA
