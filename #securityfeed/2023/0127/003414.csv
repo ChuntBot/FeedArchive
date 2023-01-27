@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-42gq-h7xj-33r4] Features file injection vulnerability,https://github.com/advisories/GHSA-42gq-h7xj-33r4,https://da.gd/Mxge5
+GithubAdvisories,[GHSA-vr22-43gj-rx3f] omniauth-weibo-oauth2 included a code-execution backdoor inserted by a third party,https://github.com/advisories/GHSA-vr22-43gj-rx3f,https://da.gd/1xp5GE
+GithubAdvisories,[GHSA-jp57-9j37-5476] spree_auth_devise allows remote authenticated users to assign arbitrary roles to themselves,https://github.com/advisories/GHSA-jp57-9j37-5476,https://da.gd/H7yP
+GithubAdvisories,[GHSA-hwrx-wc75-mgh7] Spree allows remote attackers to obtain sensitive information,https://github.com/advisories/GHSA-hwrx-wc75-mgh7,https://da.gd/maM6
+GithubAdvisories,[GHSA-7qw4-w7hf-22q3] xapian-core Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-7qw4-w7hf-22q3,https://da.gd/zKekK9
+GithubAdvisories,[GHSA-mhhc-r88h-2qrm] katello Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-mhhc-r88h-2qrm,https://da.gd/UQe1C
+GithubAdvisories,[GHSA-rcx6-7jp6-pqf2] ember-source Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-rcx6-7jp6-pqf2,https://da.gd/fftbKj
+GithubAdvisories,[GHSA-g466-57gh-cqfw] Spree uses a hardcoded hash value,https://github.com/advisories/GHSA-g466-57gh-cqfw,https://da.gd/yO1NJ
+GithubAdvisories,[GHSA-r3qh-pv9g-9f5q] Malware in vuln-npm,https://github.com/advisories/GHSA-r3qh-pv9g-9f5q,https://da.gd/IHZT
+GithubAdvisories,[GHSA-hxvp-655x-xxqv] Kafo allows local users to obtain passwords and other sensitive information by reading default_values.yaml,https://github.com/advisories/GHSA-hxvp-655x-xxqv,https://da.gd/7Jipy
+GithubAdvisories,[GHSA-5f2p-6vjv-2q2m] Sup Code Injection vulnerability,https://github.com/advisories/GHSA-5f2p-6vjv-2q2m,https://da.gd/UwXKnU
