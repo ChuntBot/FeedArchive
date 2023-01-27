@@ -1,0 +1,28 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6hw7-x86v-wrgf] Passwords stored in plain text by Jenkins view-cloner Plugin,https://github.com/advisories/GHSA-6hw7-x86v-wrgf,https://da.gd/QzFv9
+GithubAdvisories,[GHSA-5xpc-c4xv-7w62] Path traversal vulnerability in Jenkins PWauth Security Realm Plugin,https://github.com/advisories/GHSA-5xpc-c4xv-7w62,https://da.gd/oxNEf
+GithubAdvisories,[GHSA-r3gm-jwf4-xgv2] Cross-site request forgery vulnerability in Jenkins JIRA Pipeline Steps Plugin,https://github.com/advisories/GHSA-r3gm-jwf4-xgv2,https://da.gd/QQ93dv
+GithubAdvisories,[GHSA-87rh-wc85-xqvc] Missing permission checks in Jenkins Orka Plugin allow enumerating credentials IDs,https://github.com/advisories/GHSA-87rh-wc85-xqvc,https://da.gd/db0so3
+GithubAdvisories,[GHSA-9jwh-qvg7-gr59] CSRF vulnerability in Jenkins Orka Plugin allow capturing credentials,https://github.com/advisories/GHSA-9jwh-qvg7-gr59,https://da.gd/q05olD
+GithubAdvisories,[GHSA-gmhf-37fx-c4q8] Missing permission checks in Jenkins Orka Plugin allow capturing credentials,https://github.com/advisories/GHSA-gmhf-37fx-c4q8,https://da.gd/ytFOWq
+GithubAdvisories,[GHSA-w4v5-54p8-m4j5] Missing permission checks in Jenkins GitHub Pull Request Builder Plugin,https://github.com/advisories/GHSA-w4v5-54p8-m4j5,https://da.gd/zqHe47
+GithubAdvisories,[GHSA-qgjq-hrhg-f24h] Missing permission check in Jenkins RabbitMQ Consumer Plugin,https://github.com/advisories/GHSA-qgjq-hrhg-f24h,https://da.gd/SyZ0V
+GithubAdvisories,[GHSA-3g2g-rcm6-rrq2] Cleartext Transmission of Sensitive Information in Jenkins JIRA Pipeline Steps Plugin,https://github.com/advisories/GHSA-3g2g-rcm6-rrq2,https://da.gd/Q5hS8
+GithubAdvisories,[GHSA-m6q8-mwf6-6mmc] CSRF vulnerability in Jenkins GitHub Pull Request Builder Plugin,https://github.com/advisories/GHSA-m6q8-mwf6-6mmc,https://da.gd/77DTyJ
+GithubAdvisories,[GHSA-h8p8-6378-649p] XML external entity reference vulnerability on agents in Jenkins Semantic Versioning Plugin,https://github.com/advisories/GHSA-h8p8-6378-649p,https://da.gd/on70n
+GithubAdvisories,[GHSA-c467-5c2g-jp86] Cross-site Scripting in modoboa,https://github.com/advisories/GHSA-c467-5c2g-jp86,https://da.gd/SFVn
+GithubAdvisories,[GHSA-wcm6-wv95-7jw6] Cross-site Scripting in pyload-ng,https://github.com/advisories/GHSA-wcm6-wv95-7jw6,https://da.gd/OQGt
+GithubAdvisories,[GHSA-8v53-23mx-hcf9] Improper Certificate Validation in pyload-ng,https://github.com/advisories/GHSA-8v53-23mx-hcf9,https://da.gd/e0bm
+GithubAdvisories,[GHSA-x9q4-qwfh-9gjq] Session fixation vulnerability in Jenkins Bitbucket OAuth Plugin,https://github.com/advisories/GHSA-x9q4-qwfh-9gjq,https://da.gd/VP3xV
+GithubAdvisories,[GHSA-ccf4-9hjc-xxc4] Missing permission check in Jenkins GitHub Pull Request Builder Plugin allows enumerating credentials IDs,https://github.com/advisories/GHSA-ccf4-9hjc-xxc4,https://da.gd/Qnp8Lk
+GithubAdvisories,[GHSA-685j-36qx-3vp2] Cross-site request forgery vulnerability in Jenkins Bitbucket OAuth Plugin,https://github.com/advisories/GHSA-685j-36qx-3vp2,https://da.gd/23aU
+GithubAdvisories,[GHSA-54jw-jqr9-6cj9] Command injection in vagrant.js,https://github.com/advisories/GHSA-54jw-jqr9-6cj9,https://da.gd/mYRrgf
+GithubAdvisories,[GHSA-j8wr-fwf2-vvr9] Command Injection in create-choo-electron,https://github.com/advisories/GHSA-j8wr-fwf2-vvr9,https://da.gd/GgYT
+GithubAdvisories,[GHSA-vxmh-p52j-h33m] Session fixation vulnerability in Jenkins OpenId Connect Authentication Plugin,https://github.com/advisories/GHSA-vxmh-p52j-h33m,https://da.gd/9kbQ4
+GithubAdvisories,[GHSA-95jq-24cr-pgrq] Cross-site request forgery in Jenkins Gerrit Trigger Plugin,https://github.com/advisories/GHSA-95jq-24cr-pgrq,https://da.gd/7MEXJI
+GithubAdvisories,[GHSA-76qj-9gwh-pvv3] Sandbox bypass in Jenkins Script Security Plugin,https://github.com/advisories/GHSA-76qj-9gwh-pvv3,https://da.gd/OhWSV
+GithubAdvisories,[GHSA-65v6-3c9m-hmrp] Arbitrary file write in net.mingsoft:ms-mcms,https://github.com/advisories/GHSA-65v6-3c9m-hmrp,https://da.gd/Qs9O3
+GithubAdvisories,[GHSA-jm3m-wr3p-hjrq] Cross-site Scripting in modoboa,https://github.com/advisories/GHSA-jm3m-wr3p-hjrq,https://da.gd/2OyjM
+GithubAdvisories,[GHSA-ffxj-547x-5j7c] Directory Traversal in onnx,https://github.com/advisories/GHSA-ffxj-547x-5j7c,https://da.gd/Ff1Cl
+GithubAdvisories,[GHSA-jgh8-vchw-q3g7] Permissive regex leads to domain filter bypass,https://github.com/advisories/GHSA-jgh8-vchw-q3g7,https://da.gd/dFgH
+GithubAdvisories,[GHSA-4jqw-vfmj-9rmh] Cross-site Scripting in yapi-vendor,https://github.com/advisories/GHSA-4jqw-vfmj-9rmh,https://da.gd/9hou
