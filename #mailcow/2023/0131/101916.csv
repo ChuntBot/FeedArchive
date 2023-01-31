@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] Skip update_sogo_static_view if sogo is disabled,https://github.com/mailcow/mailcow-dockerized/commit/64ac6a88911e4a644fad3bba17d6e40887447eea,https://da.gd/tJaK2P
+GithubCommitStaging,Merge pull request #5034 from mailcow/fix/skip-sogo,https://github.com/mailcow/mailcow-dockerized/commit/d684e0efc059b110fd3990270bf5d07fccdb173f,https://da.gd/aojGHu
