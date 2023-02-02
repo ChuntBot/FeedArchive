@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubCommit,[Web] Set pageLength to pagination_size + repect savedState,https://github.com/mailcow/mailcow-dockerized/commit/6ff3f3f044b8673d315d0e7dc3f7c33e70bef977,https://da.gd/TRhK0
+GithubCommit,[Web] Implemented SSO for domain admins,https://github.com/mailcow/mailcow-dockerized/commit/5bf62481d51d0dcd7b8202f65fc73d2e6d349f93,https://da.gd/4yYe
+GithubCommit,Translations update from Weblate (#5026),https://github.com/mailcow/mailcow-dockerized/commit/58ddc31db6ce3d86471ad6ffdf2fd3e2c33e12a6,https://da.gd/Uy8D9k
+GithubCommit,Update docker/build-push-action action to v4 (#5032),https://github.com/mailcow/mailcow-dockerized/commit/a1f033e4c167e2d87eafc4acfdbed4177285c3b0,https://da.gd/mYw4g
+GithubCommit,Merge pull request #5011 from realizelol/staging,https://github.com/mailcow/mailcow-dockerized/commit/aa7f562761a19248a8fadadfa1ec23b57a1accd8,https://da.gd/AmDEf
+GithubCommit,[Web] match PAGINATION_SIZE to an existing datatable option,https://github.com/mailcow/mailcow-dockerized/commit/d62c27500430da91463e731cdf1ddb701e25366e,https://da.gd/MpouEb
+GithubCommit,[Web] datatable adjustment,https://github.com/mailcow/mailcow-dockerized/commit/72e8180c6be0f8ae9444e4ae10129ffa830c0c9b,https://da.gd/rHxWNl
+GithubCommit,[Web] Skip update_sogo_static_view if sogo is disabled,https://github.com/mailcow/mailcow-dockerized/commit/64ac6a88911e4a644fad3bba17d6e40887447eea,https://da.gd/tJaK2P
+GithubCommit,Merge pull request #5034 from mailcow/fix/skip-sogo,https://github.com/mailcow/mailcow-dockerized/commit/d684e0efc059b110fd3990270bf5d07fccdb173f,https://da.gd/aojGHu
+GithubCommit,[Fix] SOGo Update Fix for 5.8.0 (macOS fix),https://github.com/mailcow/mailcow-dockerized/commit/6aebb8352eabe0a144f4c3b48d038a6c11cb9bc7,https://da.gd/dMMG
+GithubCommit,[Web] webauthn add lang strings,https://github.com/mailcow/mailcow-dockerized/commit/e8fd34d31f4551c7415b38a8a401e619a9fe24e4,https://da.gd/zkqxa1
+GithubCommit,Merge pull request #5038 from mailcow/fix/sogo-macos-fix,https://github.com/mailcow/mailcow-dockerized/commit/e437810eca01dc7e33bb190068348e69306392bc,https://da.gd/Dis5
+GithubCommit,Merge pull request #4967 from FELDSAM-INC/feldsam/sso,https://github.com/mailcow/mailcow-dockerized/commit/1071bb8230378572c4dcc920493887a72063e230,https://da.gd/Mb4hJ
+GithubCommit,Removed Twitter Action due to Twitter Paid API (soon). Thx Elon!,https://github.com/mailcow/mailcow-dockerized/commit/2bc663dcd573c16c4bd246646dfca15c1ac9a4dd,https://da.gd/9ZggG
+GithubCommit,Merge pull request #5040 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/df8775d4c9662d80039caad5688c13893e5a60bf,https://da.gd/PV24gb
