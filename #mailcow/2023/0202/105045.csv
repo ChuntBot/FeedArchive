@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Fix] SOGo Update Fix for 5.8.0 (macOS fix),https://github.com/mailcow/mailcow-dockerized/commit/6aebb8352eabe0a144f4c3b48d038a6c11cb9bc7,https://da.gd/dMMG
+GithubCommitStaging,[Web] webauthn add lang strings,https://github.com/mailcow/mailcow-dockerized/commit/e8fd34d31f4551c7415b38a8a401e619a9fe24e4,https://da.gd/zkqxa1
+GithubCommitStaging,Merge pull request #5038 from mailcow/fix/sogo-macos-fix,https://github.com/mailcow/mailcow-dockerized/commit/e437810eca01dc7e33bb190068348e69306392bc,https://da.gd/Dis5
