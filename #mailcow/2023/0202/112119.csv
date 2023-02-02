@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] Implemented SSO for domain admins,https://github.com/mailcow/mailcow-dockerized/commit/5bf62481d51d0dcd7b8202f65fc73d2e6d349f93,https://da.gd/4yYe
+GithubCommitStaging,Merge pull request #4967 from FELDSAM-INC/feldsam/sso,https://github.com/mailcow/mailcow-dockerized/commit/1071bb8230378572c4dcc920493887a72063e230,https://da.gd/Mb4hJ
