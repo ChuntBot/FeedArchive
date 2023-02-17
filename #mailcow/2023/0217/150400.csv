@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubCommit,[Web] Updated lang.ru-ru.json (#5046),https://github.com/mailcow/mailcow-dockerized/commit/5dca4dac81260d92ce62f4b6c825a8c630e6c65e,https://da.gd/qB090
+GithubCommit,✨ feat: Change FIDO2 login to independent button,https://github.com/mailcow/mailcow-dockerized/commit/dc85f4996192210cdd1ab3b2a43bccca59e7e52a,https://da.gd/fdYCyw
+GithubCommit,Update devops-infra/action-pull-request action to v0.5.5 (#5060),https://github.com/mailcow/mailcow-dockerized/commit/ca64ff2c0b9e2edbd3b564169cea92eca6c358b9,https://da.gd/wZRmK
+GithubCommit,[DB] Fix espacing of special db names during upgrade,https://github.com/mailcow/mailcow-dockerized/commit/38291d123fe3af0769fbb5a48b7d9011da8b0aa5,https://da.gd/QYGt
+GithubCommit,[Web] Updated lang.lv-lv.json (#5061),https://github.com/mailcow/mailcow-dockerized/commit/9054ca18be0bc9ea9399658499910a5f7a653ef5,https://da.gd/YSqN2I
+GithubCommit,Update dependency composer/composer to v2.5.4,https://github.com/mailcow/mailcow-dockerized/commit/aa4d8b1f47675bd47148aa5ad5358f899325fea6,https://da.gd/JgpX
+GithubCommit,[CLAMAV] Update to 1.0.1,https://github.com/mailcow/mailcow-dockerized/commit/63e92e0897acffb770ab6e6517fb1bc7ba93ef22,https://da.gd/RmOw4
+GithubCommit,Merge pull request #5064 from mailcow/feat/clamav-1.0.1,https://github.com/mailcow/mailcow-dockerized/commit/4403bc2d180dab570dad0278553c5ebfe2731eae,https://da.gd/jdcXGs
+GithubCommit,Changed Language strings for clearer button meaning,https://github.com/mailcow/mailcow-dockerized/commit/29e5b87207bd4e3d20b468a03a8c408924257c36,https://da.gd/C58vwt
+GithubCommit,[web] Change FIDO2 login to independent button,https://github.com/mailcow/mailcow-dockerized/commit/6f3179bb8d9a372620c5fd1c558bef26ee6b12d0,https://da.gd/iwDSd8
+GithubCommit,Merge pull request #5048 from mailcow/renovate/composer-composer-2.x,https://github.com/mailcow/mailcow-dockerized/commit/15bb331a7d46deaf7b7eafb7ac2b370f210a978f,https://da.gd/9IL0yQ
+GithubCommit,[Web] fix mbox percentage sorting,https://github.com/mailcow/mailcow-dockerized/commit/e1cd719a178b77a388662a9ec50b1e8faf118ea6,https://da.gd/UoyIY
+GithubCommit,Merge branch 'staging' of https://github.com/mailcow/mailcow-dockeriz…,https://github.com/mailcow/mailcow-dockerized/commit/cd29ad883ea2b490d1db293b59aec4ed60f29141,https://da.gd/xBSG
+GithubCommit,[Nextcloud] Added bzip2 as required package,https://github.com/mailcow/mailcow-dockerized/commit/7f0dd7d0d7a52115c3b97bb8c634b4b67d0693bb,https://da.gd/53D7
+GithubCommit,[Netfilter] fix setting SNAT Rule if chain is empty,https://github.com/mailcow/mailcow-dockerized/commit/04403aaf70b106bdffa19614b1ce25f715d4d7c0,https://da.gd/eHHtQt
+GithubCommit,Updated netfilter to 1.51,https://github.com/mailcow/mailcow-dockerized/commit/1a4f11209a52ac38847ac9562cedf6972b25307b,https://da.gd/QA8q
+GithubCommit,Merge pull request #5070 from mailcow/fix/snat,https://github.com/mailcow/mailcow-dockerized/commit/a8c61daeaf5db5eed646e0da72c39bc5d7f1b63f,https://da.gd/RACgv
+GithubCommit,Merge pull request #5068 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/d20df7d73eccfb13fc8c71bf74552eda27a9c6c1,https://da.gd/q0zKV
