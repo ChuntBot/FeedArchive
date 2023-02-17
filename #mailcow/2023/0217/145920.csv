@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Netfilter] fix setting SNAT Rule if chain is empty,https://github.com/mailcow/mailcow-dockerized/commit/04403aaf70b106bdffa19614b1ce25f715d4d7c0,https://da.gd/eHHtQt
+GithubCommitStaging,Updated netfilter to 1.51,https://github.com/mailcow/mailcow-dockerized/commit/1a4f11209a52ac38847ac9562cedf6972b25307b,https://da.gd/QA8q
+GithubCommitStaging,Merge pull request #5070 from mailcow/fix/snat,https://github.com/mailcow/mailcow-dockerized/commit/a8c61daeaf5db5eed646e0da72c39bc5d7f1b63f,https://da.gd/RACgv
