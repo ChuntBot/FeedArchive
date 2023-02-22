@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-337f-xr2x-6fcf] Apache Kerby LdapIdentityBackend LDAP Injection vulnerability,https://github.com/advisories/GHSA-337f-xr2x-6fcf,https://da.gd/tlvUs
+GithubAdvisories,[GHSA-hfrx-6qgj-fp6c] Apache Commons FileUpload denial of service vulnerability,https://github.com/advisories/GHSA-hfrx-6qgj-fp6c,https://da.gd/xBViP
+GithubAdvisories,[GHSA-m22q-97p5-79v2] Mind-elixir Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-m22q-97p5-79v2,https://da.gd/aCSk5y
+GithubAdvisories,[GHSA-7h4w-6p98-r3wx] textAngular Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-7h4w-6p98-r3wx,https://da.gd/ouuB
+GithubAdvisories,[GHSA-vfmp-9999-6wqj] Vditor Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-vfmp-9999-6wqj,https://da.gd/Tk4wA
+GithubAdvisories,[GHSA-mv37-xrmc-hf64] Microweber Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-mv37-xrmc-hf64,https://da.gd/qzaNu
+GithubAdvisories,[GHSA-465f-mxxh-grc4] Baremetrics date range picker vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-465f-mxxh-grc4,https://da.gd/mwzTj
+GithubAdvisories,[GHSA-h685-83w4-3ph3] iziModal Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-h685-83w4-3ph3,https://da.gd/ndCs
+GithubAdvisories,[GHSA-6cvf-m58q-h9wf] Answer vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-6cvf-m58q-h9wf,https://da.gd/Be4Ksu
+GithubAdvisories,[GHSA-f8hv-rx9p-f9r4] generator-hottowel Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-f8hv-rx9p-f9r4,https://da.gd/sqAR
+GithubAdvisories,[GHSA-4jx2-hvqw-93j9] dd-plist XML External Entitly vulnerability,https://github.com/advisories/GHSA-4jx2-hvqw-93j9,https://da.gd/DKgj1
+GithubAdvisories,[GHSA-fj78-2vc5-f6cm] Versionn Command Injection Vulnerability,https://github.com/advisories/GHSA-fj78-2vc5-f6cm,https://da.gd/9VDl4r
+GithubAdvisories,[GHSA-qh6w-pq52-qxxq] Pixelfed may allow unauthorized actor to view private posts,https://github.com/advisories/GHSA-qh6w-pq52-qxxq,https://da.gd/Mbvh4
+GithubAdvisories,[GHSA-vjxx-jgcx-9fq2] Pixelfed allows user enumeration via reset password functionality,https://github.com/advisories/GHSA-vjxx-jgcx-9fq2,https://da.gd/vjun7
+GithubAdvisories,[GHSA-8mfq-f5wj-vw5m] Nautobot vulnerable to remote code execution via Jinja2 template rendering,https://github.com/advisories/GHSA-8mfq-f5wj-vw5m,https://da.gd/bIiZEC
+GithubAdvisories,[GHSA-87x9-7grx-m28v] notation-go has excessive memory allocation on verification,https://github.com/advisories/GHSA-87x9-7grx-m28v,https://da.gd/2bnvo4
