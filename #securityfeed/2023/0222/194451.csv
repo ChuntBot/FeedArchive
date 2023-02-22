@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mgmm-cmhj-2h5f] modoboa Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-mgmm-cmhj-2h5f,https://da.gd/sGmVU
+GithubAdvisories,[GHSA-g9ph-r9hc-34r8] Erxes vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-g9ph-r9hc-34r8,https://da.gd/t9715D
+GithubAdvisories,[GHSA-99c3-qc2q-p94m] GeoTools OGC Filter SQL Injection Vulnerabilities,https://github.com/advisories/GHSA-99c3-qc2q-p94m,https://da.gd/hMw3
+GithubAdvisories,[GHSA-7g5f-wrx8-5ccf] GeoServer OGC Filter SQL Injection Vulnerabilities,https://github.com/advisories/GHSA-7g5f-wrx8-5ccf,https://da.gd/S86DMN
