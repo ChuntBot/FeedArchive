@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-79jr-8fhm-8wv3] OpenNMS Horizon and Meridian vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-79jr-8fhm-8wv3,https://da.gd/TQYCi
+GithubAdvisories,[GHSA-wrh9-cjv3-2hpw] Sequelize vulnerable to SQL Injection via replacements,https://github.com/advisories/GHSA-wrh9-cjv3-2hpw,https://da.gd/ZH8n29
