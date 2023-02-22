@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-368x-wmmg-hq5c] Apollo has potential access control security issue in eureka,https://github.com/advisories/GHSA-368x-wmmg-hq5c,https://da.gd/K5ToM
+GithubAdvisories,[GHSA-fmxq-v8mg-qh25] apollo-portal has potential CSRF issue,https://github.com/advisories/GHSA-fmxq-v8mg-qh25,https://da.gd/f3Ncg
