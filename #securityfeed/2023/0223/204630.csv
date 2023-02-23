@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f6g8-pxvp-9328] Jenkins Inedo ProGet Plugin Plugin has Cleartext Transmission of Sensitive Information,https://github.com/advisories/GHSA-f6g8-pxvp-9328,https://da.gd/BDlA
+GithubAdvisories,[GHSA-8hwr-589g-xpj2] Jenkins Violation Comments to GitLab Plugin has Insufficiently Protected Credentials,https://github.com/advisories/GHSA-8hwr-589g-xpj2,https://da.gd/jJE7t
+GithubAdvisories,[GHSA-h27g-72mh-9m33] Jenkins Git Changelog Plugin has Insufficiently Protected Credentials,https://github.com/advisories/GHSA-h27g-72mh-9m33,https://da.gd/Gyya
+GithubAdvisories,[GHSA-3p8r-p4q5-mc44] Violation Comments to GitLab Plugin has Insufficiently Protected Credentials,https://github.com/advisories/GHSA-3p8r-p4q5-mc44,https://da.gd/4tfJK
+GithubAdvisories,[GHSA-jjmv-6fv4-85vf] Jenkins Data Theorem Mobile Security: CI/CD Plugin has Insufficiently Protected Credentials,https://github.com/advisories/GHSA-jjmv-6fv4-85vf,https://da.gd/mGyPDS
