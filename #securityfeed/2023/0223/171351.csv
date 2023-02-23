@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vqfx-gj96-3w95] Unsafe fall-through in getWhereConditions,https://github.com/advisories/GHSA-vqfx-gj96-3w95,https://da.gd/0HMCa
+GithubAdvisories,[GHSA-r3vq-92c6-3mqf] Duplicate advisory: Sequelize - Unsafe fall-through in getWhereConditions,https://github.com/advisories/GHSA-r3vq-92c6-3mqf,https://da.gd/3CbRw
