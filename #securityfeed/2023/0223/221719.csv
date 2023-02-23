@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c57v-hc7m-8px2] Cross-site Scripting in Quarkus,https://github.com/advisories/GHSA-c57v-hc7m-8px2,https://da.gd/kIOhZ0
+GithubAdvisories,[GHSA-jwr6-75xh-jh5j] Synopsys Jenkins Coverity Plugin has Incorrect Default Permissions,https://github.com/advisories/GHSA-jwr6-75xh-jh5j,https://da.gd/zWvWb
+GithubAdvisories,[GHSA-9j2p-8qqf-h55c] Cross-site Scripting in UDX Stateless Media Plugin,https://github.com/advisories/GHSA-9j2p-8qqf-h55c,https://da.gd/MClD
+GithubAdvisories,[GHSA-3x5j-9vwr-8rr5] Update share links to use FRP instead of SSH tunneling,https://github.com/advisories/GHSA-3x5j-9vwr-8rr5,https://da.gd/t6oXea
+GithubAdvisories,[GHSA-jv62-6xvc-ccwh] Jenkins elOyente Plugin has Insufficiently Protected Credentials,https://github.com/advisories/GHSA-jv62-6xvc-ccwh,https://da.gd/Cx3X
+GithubAdvisories,[GHSA-j8c7-fm85-6jj6] Jenkins Call Remote Job Plugin has Insufficiently Protected Credentials,https://github.com/advisories/GHSA-j8c7-fm85-6jj6,https://da.gd/8WrSv
+GithubAdvisories,[GHSA-jp8r-jh5j-cgwf] Jenkins CodeScan Plugin has Insufficiently Protected Credentials,https://github.com/advisories/GHSA-jp8r-jh5j-cgwf,https://da.gd/Snbd
+GithubAdvisories,[GHSA-826h-fxff-hpqf] Jenkins Azure Event Grid Build Notifier Plugin has Insufficiently Protected Credentials,https://github.com/advisories/GHSA-826h-fxff-hpqf,https://da.gd/llT3R
+GithubAdvisories,[GHSA-mhq6-h9m7-wq8c] Jenkins Assembla Plugin has Insufficiently Protected Credentials,https://github.com/advisories/GHSA-mhq6-h9m7-wq8c,https://da.gd/evlp42
+GithubAdvisories,[GHSA-hx82-2ggv-vwm5] Jenkins vFabric Application Director Plugin Insufficiently Protected Credentials,https://github.com/advisories/GHSA-hx82-2ggv-vwm5,https://da.gd/dTf02
+GithubAdvisories,[GHSA-7v39-jjj6-j4j4] Cross Site Scripting in OpenNMS,https://github.com/advisories/GHSA-7v39-jjj6-j4j4,https://da.gd/esD6mE
+GithubAdvisories,[GHSA-mrpv-5pmr-p92h] Improper Privilege Management in Apache Sling,https://github.com/advisories/GHSA-mrpv-5pmr-p92h,https://da.gd/Vbut90
