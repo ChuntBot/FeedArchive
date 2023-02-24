@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qwx8-mxxx-mg96] wallabag contains Improper Authorization via export feature,https://github.com/advisories/GHSA-qwx8-mxxx-mg96,https://da.gd/GrD6r
+GithubAdvisories,[GHSA-3244-8mff-w398] Reflected XSS in Gotify's /docs via import of outdated Swagger UI,https://github.com/advisories/GHSA-3244-8mff-w398,https://da.gd/vG6C
+GithubAdvisories,[GHSA-8g23-2q5p-8866] Apache Airflow Google Provider Improper Input Validation vulnerability,https://github.com/advisories/GHSA-8g23-2q5p-8866,https://da.gd/a7I7is
+GithubAdvisories,[GHSA-h8p2-8g72-qpgh] Apache Airflow Google Provider Improper Input Validation vulnerability,https://github.com/advisories/GHSA-h8p2-8g72-qpgh,https://da.gd/jR0ar
+GithubAdvisories,[GHSA-9mwf-mw74-9cv5] Apache Airflow Hive Provider Improper Input Validation vulnerability,https://github.com/advisories/GHSA-9mwf-mw74-9cv5,https://da.gd/rGrpol
+GithubAdvisories,[GHSA-j69x-v4wc-3fpf] Apache Airflow Sqoop Provider Improper Input Validation vulnerability,https://github.com/advisories/GHSA-j69x-v4wc-3fpf,https://da.gd/RWW6
+GithubAdvisories,[GHSA-w695-p3j5-hrj9] Apache Airflow AWS Provider Generates Error Message Containing Sensitive Information,https://github.com/advisories/GHSA-w695-p3j5-hrj9,https://da.gd/3ZS35
+GithubAdvisories,[GHSA-mc8h-8q98-g5hr] Race Condition Enabling Link Following and Time-of-check Time-of-use (TOCTOU) Race Condition in remove_dir_all,https://github.com/advisories/GHSA-mc8h-8q98-g5hr,https://da.gd/jeqP
+GithubAdvisories,[GHSA-65rp-mhqf-8gj3] rangy vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-65rp-mhqf-8gj3,https://da.gd/DS0Q
+GithubAdvisories,[GHSA-q8gg-vj6m-hgmj] @braintree/sanitize-url Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-q8gg-vj6m-hgmj,https://da.gd/huv4nH
+GithubAdvisories,[GHSA-prjg-28jg-m3p5] RosarioSIS Improper Access Control vulnerability,https://github.com/advisories/GHSA-prjg-28jg-m3p5,https://da.gd/p3OfMG
+GithubAdvisories,[GHSA-3x49-g6rc-c284] LiteDB may deserialize bad JSON on object type using _type,https://github.com/advisories/GHSA-3x49-g6rc-c284,https://da.gd/r4AZbm
