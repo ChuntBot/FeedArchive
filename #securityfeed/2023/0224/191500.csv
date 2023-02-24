@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f598-mfpv-gmfx] Sequelize - Default support for “raw attributes” when using parentheses,https://github.com/advisories/GHSA-f598-mfpv-gmfx,https://da.gd/50AT
