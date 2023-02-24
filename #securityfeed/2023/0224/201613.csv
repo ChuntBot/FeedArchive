@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j75r-vf64-6rrh] RestEasy Reactive implementation of Quarkus allows Creation of Temporary File With Insecure Permissions,https://github.com/advisories/GHSA-j75r-vf64-6rrh,https://da.gd/2zTT
