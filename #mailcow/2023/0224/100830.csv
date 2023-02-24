@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Update dependency nextcloud/server to v25.0.4,https://github.com/mailcow/mailcow-dockerized/commit/02afc45a158ac7ed17046f5143b453c4d71bb6b9,https://da.gd/nUlT
+GithubCommitStaging,Merge pull request #5089 from mailcow/renovate/nextcloud-server-25.x,https://github.com/mailcow/mailcow-dockerized/commit/11e1502b1218af9d93a7511ef284f489f2ad9372,https://da.gd/40YR
