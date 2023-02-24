@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ppp9-7jff-5vj2] golang.org/x/text/language Out-of-bounds Read vulnerability,https://github.com/advisories/GHSA-ppp9-7jff-5vj2,https://da.gd/8M3W
