@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p7qq-rrvw-x55x] Froxlor Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-p7qq-rrvw-x55x,https://da.gd/n1NegG
+GithubAdvisories,[GHSA-vr2x-7687-h6qv] api-platform/core's secured properties may be accessible within collections,https://github.com/advisories/GHSA-vr2x-7687-h6qv,https://da.gd/o4l1H
+GithubAdvisories,[GHSA-4w59-c3gc-rrhp] vantage6 refresh tokens do not expire,https://github.com/advisories/GHSA-4w59-c3gc-rrhp,https://da.gd/oaznb
+GithubAdvisories,[GHSA-vvjv-97j8-94xh] vantage6 vulnerable to Improper Preservation of Permissions,https://github.com/advisories/GHSA-vvjv-97j8-94xh,https://da.gd/rUurc
+GithubAdvisories,[GHSA-36gx-9q6h-g429] vantage6 vulnerable to Observable Response Discrepancy,https://github.com/advisories/GHSA-36gx-9q6h-g429,https://da.gd/KnfC
