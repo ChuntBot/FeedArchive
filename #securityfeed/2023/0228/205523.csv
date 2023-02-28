@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5x36-7567-3cw6] partial_sort contains Out-of-bounds Read in release mode,https://github.com/advisories/GHSA-5x36-7567-3cw6,https://da.gd/Z2BXlL
+GithubAdvisories,[GHSA-mrrw-grhq-86gf] Ascii (crate) allows out-of-bounds array indexing in safe code,https://github.com/advisories/GHSA-mrrw-grhq-86gf,https://da.gd/0NTMm
