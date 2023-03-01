@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Add raw attribute for lang.admin.hash_remove_info,https://github.com/mailcow/mailcow-dockerized/commit/af267ff7064271bcd6e9db16482c1aea7e4c7c95,https://da.gd/lbQ7fh
+GithubCommitStaging,Merge pull request #5098 from mailcow/feat/fix-raw-attr,https://github.com/mailcow/mailcow-dockerized/commit/791bbeeb39e2cca7457a852ff09825ae49cc2099,https://da.gd/xSzqo
