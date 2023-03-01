@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-674j-7m97-j2p9] curl FTP path confusion leads to NIL byte out of bounds write,https://github.com/advisories/GHSA-674j-7m97-j2p9,https://da.gd/AgxKEO
