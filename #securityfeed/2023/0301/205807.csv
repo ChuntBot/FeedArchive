@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7rqg-hjwc-6mjf] Grafana vulnerable to Stored Cross-site Scripting in Text plugin,https://github.com/advisories/GHSA-7rqg-hjwc-6mjf,https://da.gd/OBqFO2
+GithubAdvisories,[GHSA-3vrc-rrpw-r5pw] java-xmlbuilder vulnerable to XML External Entity Reference,https://github.com/advisories/GHSA-3vrc-rrpw-r5pw,https://da.gd/zKcBZ
+GithubAdvisories,[GHSA-p2pf-g8cq-3gq5] teler-waf contains detection rule bypass via Entities payload,https://github.com/advisories/GHSA-p2pf-g8cq-3gq5,https://da.gd/46pA
+GithubAdvisories,[GHSA-xxj3-55p6-xg3h] Apache MXNet vulnerable to potential denial-of-service by excessive resource consumption,https://github.com/advisories/GHSA-xxj3-55p6-xg3h,https://da.gd/IrR43K
