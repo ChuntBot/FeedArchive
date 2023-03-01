@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5fqv-mpj8-h7gm] Lemur subject to insecure random generation,https://github.com/advisories/GHSA-5fqv-mpj8-h7gm,https://da.gd/Zeqm3K
+GithubAdvisories,[GHSA-32gr-4cq6-5w5q] rsshub vulnerable to Cross-site Scripting via unvalidated URL parameters,https://github.com/advisories/GHSA-32gr-4cq6-5w5q,https://da.gd/ECBcyb
+GithubAdvisories,[GHSA-m4fv-gm5m-4725] HTML Injection in Keycloak Admin REST API,https://github.com/advisories/GHSA-m4fv-gm5m-4725,https://da.gd/M7tzDx
