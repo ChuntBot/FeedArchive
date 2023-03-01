@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-96hp-38wx-j3wc] Pimcore vulnerable to Cross Site Scripting in Email Blacklist,https://github.com/advisories/GHSA-96hp-38wx-j3wc,https://da.gd/bDNNl
+GithubAdvisories,[GHSA-qxcw-rf4v-hp26] Pimcore vulnerable to Cross Site Scripting in image/video thumbnail config,https://github.com/advisories/GHSA-qxcw-rf4v-hp26,https://da.gd/ChyFM
+GithubAdvisories,[GHSA-97cp-8873-v2gf] Pimcore vulnerable to Cross Site Scripting in Documents Link Editable,https://github.com/advisories/GHSA-97cp-8873-v2gf,https://da.gd/MDDqrQ
+GithubAdvisories,[GHSA-6q8m-42qq-64r7] Imperative CLI vulnerable to Command Injection,https://github.com/advisories/GHSA-6q8m-42qq-64r7,https://da.gd/AfdA
