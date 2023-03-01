@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qfh2-6f7q-gr86] Cross-Site Scripting in sexstatic,https://github.com/advisories/GHSA-qfh2-6f7q-gr86,https://da.gd/6kj4hc
+GithubAdvisories,[GHSA-8w4h-3cm3-2pm2] Out-of-bounds Read in atob,https://github.com/advisories/GHSA-8w4h-3cm3-2pm2,https://da.gd/3QWc1b
+GithubAdvisories,[GHSA-534w-937m-v7x3] restforce vulnerable Improper Input Validation,https://github.com/advisories/GHSA-534w-937m-v7x3,https://da.gd/1YT7
+GithubAdvisories,[GHSA-52r9-g5g6-2hjp] Path Traversal in node-srv,https://github.com/advisories/GHSA-52r9-g5g6-2hjp,https://da.gd/591EAx
+GithubAdvisories,[GHSA-4rvg-955w-h68q] Path Traversal in angular-http-server,https://github.com/advisories/GHSA-4rvg-955w-h68q,https://da.gd/CsNKpL
+GithubAdvisories,[GHSA-4cmx-hrq9-c23p] Improper Authorization in aedes,https://github.com/advisories/GHSA-4cmx-hrq9-c23p,https://da.gd/2WT1Z
+GithubAdvisories,[GHSA-vfp9-gwrh-wq9g] Path Traversal in crud-file-server,https://github.com/advisories/GHSA-vfp9-gwrh-wq9g,https://da.gd/3hLBSl
+GithubAdvisories,[GHSA-rch9-xh7r-mqgw] Cross-Site Scripting in simple-server,https://github.com/advisories/GHSA-rch9-xh7r-mqgw,https://da.gd/JcOb
