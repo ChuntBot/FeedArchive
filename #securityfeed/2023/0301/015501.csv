@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p6mr-pxg4-68hx] Symlink Arbitrary File Overwrite in bower,https://github.com/advisories/GHSA-p6mr-pxg4-68hx,https://da.gd/oz41
+GithubAdvisories,[GHSA-2gjg-5x33-mmp2] Path Traversal in localhost-now,https://github.com/advisories/GHSA-2gjg-5x33-mmp2,https://da.gd/rMKPXJ
+GithubAdvisories,[GHSA-xcvv-84j5-jw9h] Prototype Pollution in assign-deep,https://github.com/advisories/GHSA-xcvv-84j5-jw9h,https://da.gd/S0Osm
+GithubAdvisories,[GHSA-62g9-6hw5-rwfp] Path Traversal in resolve-path,https://github.com/advisories/GHSA-62g9-6hw5-rwfp,https://da.gd/IrHt
+GithubAdvisories,[GHSA-gpvj-q7fp-jcch] Moderate severity vulnerability that affects simplehttpserver,https://github.com/advisories/GHSA-gpvj-q7fp-jcch,https://da.gd/K9GGUt
+GithubAdvisories,[GHSA-p7c9-jqhq-vr3v] Remote Code Execution in markdown-pdf,https://github.com/advisories/GHSA-p7c9-jqhq-vr3v,https://da.gd/N8lOHz
+GithubAdvisories,[GHSA-m8cr-q935-8j67] Path Traversal in buttle,https://github.com/advisories/GHSA-m8cr-q935-8j67,https://da.gd/3LNzJ
+GithubAdvisories,[GHSA-3mpr-hq3p-49h9] Prototype Pollution in mixin-deep,https://github.com/advisories/GHSA-3mpr-hq3p-49h9,https://da.gd/9K8B4
