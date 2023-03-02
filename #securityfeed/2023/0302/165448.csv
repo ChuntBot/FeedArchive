@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9678-5f6f-wp3f] Jenkins Beaker Builder Plugin has Insufficiently Protected Credentials,https://github.com/advisories/GHSA-9678-5f6f-wp3f,https://da.gd/VjFgL
+GithubAdvisories,[GHSA-88qj-3q6h-8m5q] Jenkins Build Environment Plugin vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-88qj-3q6h-8m5q,https://da.gd/A2MXqB
+GithubAdvisories,[GHSA-fv4q-4h24-23qr] Jenkins Dashboard View Plugin vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-fv4q-4h24-23qr,https://da.gd/KbpCF
