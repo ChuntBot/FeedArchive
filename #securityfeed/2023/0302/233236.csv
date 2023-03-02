@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9g98-5mj6-f9mv] Keycloak vulnerable to user impersonation via stolen UUID code,https://github.com/advisories/GHSA-9g98-5mj6-f9mv,https://da.gd/ACM37
+GithubAdvisories,[GHSA-59fq-727j-hm3f] keycloak-connect contains Open redirect vulnerability in the Node.js adapter,https://github.com/advisories/GHSA-59fq-727j-hm3f,https://da.gd/Khjbx
+GithubAdvisories,[GHSA-6gc3-crp7-25w5] gosaml2 vulnerable to Denial Of Service Via Deflate Decompression Bomb,https://github.com/advisories/GHSA-6gc3-crp7-25w5,https://da.gd/sTvqoH
+GithubAdvisories,[GHSA-4vq7-882g-wcg4] Vega Expression Language `scale` expression function Cross Site Scripting,https://github.com/advisories/GHSA-4vq7-882g-wcg4,https://da.gd/P47yw
+GithubAdvisories,[GHSA-w5m3-xh75-mp55] Vega has Cross-site Scripting vulnerability in `lassoAppend` function,https://github.com/advisories/GHSA-w5m3-xh75-mp55,https://da.gd/pShMB
+GithubAdvisories,[GHSA-hjv9-hm2f-rpcj] Grafana vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-hjv9-hm2f-rpcj,https://da.gd/t5K6G
+GithubAdvisories,[GHSA-xw5p-hw8j-xg4q] Grafana vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-xw5p-hw8j-xg4q,https://da.gd/ukQR
+GithubAdvisories,[GHSA-3hvj-3cg9-v242] Saleor Unauthenticated Information Disclosure Vulnerability via Python Exceptions,https://github.com/advisories/GHSA-3hvj-3cg9-v242,https://da.gd/tpUN5Q
