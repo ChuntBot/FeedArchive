@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w64w-qqph-5gxm] HTTP Smuggling via Transfer-Encoding Header in Puma,https://github.com/advisories/GHSA-w64w-qqph-5gxm,https://da.gd/JqZOu3
+GithubAdvisories,[GHSA-xw4c-9434-3f7p] Jenkins Google Kubernetes Engine Plugin vulnerable to Exposure of Resource to Wrong Sphere,https://github.com/advisories/GHSA-xw4c-9434-3f7p,https://da.gd/11g3dC
+GithubAdvisories,[GHSA-pfcc-3g6r-8rg8] Undertow client not checking server identity presented by server certificate in https connections,https://github.com/advisories/GHSA-pfcc-3g6r-8rg8,https://da.gd/yJgb
+GithubAdvisories,[GHSA-mjv2-6jv4-vrg7] OpenNMS Meridian and Horizon vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-mjv2-6jv4-vrg7,https://da.gd/Q6I9
+GithubAdvisories,[GHSA-ch7v-37xg-75ph] coreDNS vulnerable to Improper Restriction of Communication Channel to Intended Endpoints,https://github.com/advisories/GHSA-ch7v-37xg-75ph,https://da.gd/B45KVm
+GithubAdvisories,[GHSA-jxg7-cghf-mggx] Jenkins VMware Lab Manager Slaves Plugin vulnerable to Improper Certificate Validation,https://github.com/advisories/GHSA-jxg7-cghf-mggx,https://da.gd/LghnY
+GithubAdvisories,[GHSA-hc34-f55m-rh3m] Jenkins Wall Display Plugin Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-hc34-f55m-rh3m,https://da.gd/Ad8rIw
