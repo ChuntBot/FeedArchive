@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Merge pull request #5068 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/d20df7d73eccfb13fc8c71bf74552eda27a9c6c1,https://da.gd/q0zKV
+GithubCommitStaging,Fix cursor style when hovering 'Aliases' tab,https://github.com/mailcow/mailcow-dockerized/commit/3e1cfe0d08726e7edb7a611e1db0ab2bea1943eb,https://da.gd/mNNaD
+GithubCommitStaging,fix URLHAUS_ABUSE_CH check,https://github.com/mailcow/mailcow-dockerized/commit/46cc0225906d67b23a59b93b1bdf8f795b486de5,https://da.gd/5ZH4yT
+GithubCommitStaging,Merge pull request #5097 from rekup/fix/URLHAUS_ABUSE_CH,https://github.com/mailcow/mailcow-dockerized/commit/510ef5196b2e51b69f90cef44bcd7df6e84f507c,https://da.gd/e5Gk4c
+GithubCommitStaging,Merge pull request #5085 from kritzl/patch-2,https://github.com/mailcow/mailcow-dockerized/commit/c54750ef8b6dd67691df014209f5a8a98842456d,https://da.gd/TjG64
