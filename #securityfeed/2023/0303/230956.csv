@@ -1,0 +1,28 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-862j-cv9p-6hpf] Jenkins Codefresh Integration Plugin Improper Certificate Validation vulnerability,https://github.com/advisories/GHSA-862j-cv9p-6hpf,https://da.gd/B62vsu
+GithubAdvisories,[GHSA-35j2-p8fh-x966] Elastic APM agent for Ruby vulnerable to Improper Certificate Validation,https://github.com/advisories/GHSA-35j2-p8fh-x966,https://da.gd/276c
+GithubAdvisories,[GHSA-j3rg-3rgm-537h] Directus vulnerable to Server-Side Request Forgery On File Import,https://github.com/advisories/GHSA-j3rg-3rgm-537h,https://da.gd/iUhT
+GithubAdvisories,[GHSA-wxwq-525w-hcqx] Yapscan Denial of Service vulnerability in report server,https://github.com/advisories/GHSA-wxwq-525w-hcqx,https://da.gd/4fQX
+GithubAdvisories,[GHSA-hm7p-r324-hhf3] phpseclib Infinite Loop vulnerability,https://github.com/advisories/GHSA-hm7p-r324-hhf3,https://da.gd/sbVeh
+GithubAdvisories,[GHSA-p8cq-pv6w-6rwx] Cockpit Uses Platform-Dependent Third Party Components,https://github.com/advisories/GHSA-p8cq-pv6w-6rwx,https://da.gd/e3Bkf
+GithubAdvisories,[GHSA-79rm-f26g-296p] Jenkins Maven Release Plugin vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-79rm-f26g-296p,https://da.gd/bLyv
+GithubAdvisories,[GHSA-7j9m-j397-g4wx] MongoDB .NET/C# Driver vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-7j9m-j397-g4wx,https://da.gd/LGVgt
+GithubAdvisories,[GHSA-wr8h-w969-36m8] GoPistolet vulnerable to Improper Resource Shutdown or Release,https://github.com/advisories/GHSA-wr8h-w969-36m8,https://da.gd/2ufB9J
+GithubAdvisories,[GHSA-2q79-56rq-8v3c] Codiad information disclosure vulnerability,https://github.com/advisories/GHSA-2q79-56rq-8v3c,https://da.gd/dGABmR
+GithubAdvisories,[GHSA-859x-p6jp-rc2w] xwiki contains Incorrect Authorization,https://github.com/advisories/GHSA-859x-p6jp-rc2w,https://da.gd/NtMe
+GithubAdvisories,[GHSA-32fq-m2q5-h83g] XWiki-Platform vulnerable to stored Cross-site Scripting via the HTML displayer in Live Data,https://github.com/advisories/GHSA-32fq-m2q5-h83g,https://da.gd/z8Yxbq
+GithubAdvisories,[GHSA-52vf-hvv3-98h7] xwiki vulnerable to Improper Handling of Exceptional Conditions,https://github.com/advisories/GHSA-52vf-hvv3-98h7,https://da.gd/JMNZuS
+GithubAdvisories,[GHSA-8692-g6g9-gm5p] xwiki contains Exposed Dangerous Method or Function,https://github.com/advisories/GHSA-8692-g6g9-gm5p,https://da.gd/faP7K3
+GithubAdvisories,[GHSA-922h-x9qv-2274] Jenkins PegDown Formatter Plugin has Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-922h-x9qv-2274,https://da.gd/qcn0
+GithubAdvisories,[GHSA-x2qm-r4wx-8gpg] org.xwiki.platform:xwiki-platform-flamingo-theme-ui Eval Injection vulnerability,https://github.com/advisories/GHSA-x2qm-r4wx-8gpg,https://da.gd/hVl18Q
+GithubAdvisories,[GHSA-92wp-r7hm-42g7] XWiki Platform subject to Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-92wp-r7hm-42g7,https://da.gd/jIIO68
+GithubAdvisories,[GHSA-9cqm-5wf7-wcj7] XWiki Platform users may execute anything with superadmin right through comments and async macro,https://github.com/advisories/GHSA-9cqm-5wf7-wcj7,https://da.gd/xUe3o0
+GithubAdvisories,[GHSA-8cw6-4r32-6r3h] XWiki Platform may allow privilege escalation to programming rights via user's first name,https://github.com/advisories/GHSA-8cw6-4r32-6r3h,https://da.gd/B5Xyu
+GithubAdvisories,[GHSA-pg59-2w33-8vmc] Jenkins Gitlab Authentication Plugin Open Redirect vulnerability,https://github.com/advisories/GHSA-pg59-2w33-8vmc,https://da.gd/RigAsw
+GithubAdvisories,[GHSA-vwr6-qp4q-2wj7] XWiki Platform vulnerable to privilege escalation via async macro and IconThemeSheet from the user profile,https://github.com/advisories/GHSA-vwr6-qp4q-2wj7,https://da.gd/BKYBe
+GithubAdvisories,[GHSA-3738-p9x3-mv9r] XWiki Platform vulnerable to privilege escalation via properties with wiki syntax that are executed with wrong author,https://github.com/advisories/GHSA-3738-p9x3-mv9r,https://da.gd/IJ6s
+GithubAdvisories,[GHSA-5cf8-vrr8-8hjm] XWiki Platform packages Expose Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-5cf8-vrr8-8hjm,https://da.gd/dHvkh8
+GithubAdvisories,[GHSA-vpx4-7rfp-h545] Unprivileged XWiki Platform users can make arbitrary select queries using DatabaseListProperty and suggest.vm,https://github.com/advisories/GHSA-vpx4-7rfp-h545,https://da.gd/cr4D
+GithubAdvisories,[GHSA-r8qr-wwg3-2r85] Saleor has Staff-Authenticated Error Message Information Disclosure Vulnerability via Python Exceptions,https://github.com/advisories/GHSA-r8qr-wwg3-2r85,https://da.gd/mMCtL
+GithubAdvisories,[GHSA-qcrj-6ffc-v7hq] Craft CMS Stored Ctos-site Scripting Injection Vulnerability,https://github.com/advisories/GHSA-qcrj-6ffc-v7hq,https://da.gd/qXivd
+GithubAdvisories,[GHSA-682g-c99v-9r2g] Jenkins Gitlab Authentication Plugin vulnerable to Session Fixation,https://github.com/advisories/GHSA-682g-c99v-9r2g,https://da.gd/24l1Ab
