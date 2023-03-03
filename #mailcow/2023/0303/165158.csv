@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubCommit,Fix cursor style when hovering 'Aliases' tab,https://github.com/mailcow/mailcow-dockerized/commit/3e1cfe0d08726e7edb7a611e1db0ab2bea1943eb,https://da.gd/mNNaD
+GithubCommit,Update dependency nextcloud/server to v25.0.4,https://github.com/mailcow/mailcow-dockerized/commit/02afc45a158ac7ed17046f5143b453c4d71bb6b9,https://da.gd/nUlT
+GithubCommit,Merge pull request #5089 from mailcow/renovate/nextcloud-server-25.x,https://github.com/mailcow/mailcow-dockerized/commit/11e1502b1218af9d93a7511ef284f489f2ad9372,https://da.gd/40YR
+GithubCommit,Translations update from Weblate (#5092),https://github.com/mailcow/mailcow-dockerized/commit/1052e13af82f3ceb12ded292d47345789662f2f0,https://da.gd/Mx90w
+GithubCommit,fix URLHAUS_ABUSE_CH check,https://github.com/mailcow/mailcow-dockerized/commit/46cc0225906d67b23a59b93b1bdf8f795b486de5,https://da.gd/5ZH4yT
+GithubCommit,Add raw attribute for lang.admin.hash_remove_info,https://github.com/mailcow/mailcow-dockerized/commit/af267ff7064271bcd6e9db16482c1aea7e4c7c95,https://da.gd/lbQ7fh
+GithubCommit,Merge pull request #5098 from mailcow/feat/fix-raw-attr,https://github.com/mailcow/mailcow-dockerized/commit/791bbeeb39e2cca7457a852ff09825ae49cc2099,https://da.gd/xSzqo
+GithubCommit,[Web] Updated lang.da-dk.json (#5102),https://github.com/mailcow/mailcow-dockerized/commit/6c0a5028c0eff8abf675d6322f8ce776cecef377,https://da.gd/KovK6
+GithubCommit,[Imapsync] Use pure perl code for XOAUTH2 authmech,https://github.com/mailcow/mailcow-dockerized/commit/04e46f9f5b1e14ba99fe2ec6ca776a69aba9f262,https://da.gd/UX6bV
+GithubCommit,Merge pull request #5097 from rekup/fix/URLHAUS_ABUSE_CH,https://github.com/mailcow/mailcow-dockerized/commit/510ef5196b2e51b69f90cef44bcd7df6e84f507c,https://da.gd/e5Gk4c
+GithubCommit,Merge pull request #5085 from kritzl/patch-2,https://github.com/mailcow/mailcow-dockerized/commit/c54750ef8b6dd67691df014209f5a8a98842456d,https://da.gd/TjG64
+GithubCommit,[Helper] Update expiry-dates.sh,https://github.com/mailcow/mailcow-dockerized/commit/d11d3568036b7b99d4e2089da94e950aa418695f,https://da.gd/py8PLc
+GithubCommit,Fixed permission for expiry-dates.sh,https://github.com/mailcow/mailcow-dockerized/commit/d04f0257c254d0d0f45578588bb2b27b8de6974b,https://da.gd/ASrkmb
+GithubCommit,Merge pull request #5104 from svengo/patch-4,https://github.com/mailcow/mailcow-dockerized/commit/fc075bc6b75b0354570fcb291750bc1627a12b83,https://da.gd/5qPKah
+GithubCommit,Merge pull request #5106 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/229303c1f877d505a636352b0613b0d957343e0e,https://da.gd/vEcys
