@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gwp4-hfv6-p7hw] Deserialization of untrusted data in FasterXML jackson-databind,https://github.com/advisories/GHSA-gwp4-hfv6-p7hw,https://da.gd/jpeiX
+GithubAdvisories,[GHSA-r679-m633-g7wc] Improper input validation in Apache Shiro,https://github.com/advisories/GHSA-r679-m633-g7wc,https://da.gd/sJfl6
