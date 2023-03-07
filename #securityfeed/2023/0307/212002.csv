@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f46j-r7q3-6cm2] Moodle SQL Injection vulnerability,https://github.com/advisories/GHSA-f46j-r7q3-6cm2,https://da.gd/wa4B8
+GithubAdvisories,[GHSA-2563-fp9c-mgm8] Moodle Session Fixation vulnerability,https://github.com/advisories/GHSA-2563-fp9c-mgm8,https://da.gd/jjZiS
+GithubAdvisories,[GHSA-qc86-vgf2-6fq6] Moodle SQL Injection vulnerability,https://github.com/advisories/GHSA-qc86-vgf2-6fq6,https://da.gd/9jb4
+GithubAdvisories,[GHSA-273w-7fxj-pcp6] Moodle vulnerable to Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-273w-7fxj-pcp6,https://da.gd/kgPOi
+GithubAdvisories,[GHSA-4rmj-w58m-fvch] Moodle vulnerable to Server-Side Request Forgery,https://github.com/advisories/GHSA-4rmj-w58m-fvch,https://da.gd/iSOWc
+GithubAdvisories,[GHSA-hfxp-j95j-cwrp] uvdesk/community-skeleton vulnerable to Stored Cross-site Scripting,https://github.com/advisories/GHSA-hfxp-j95j-cwrp,https://da.gd/jDWAK
+GithubAdvisories,[GHSA-qxpm-5ghc-6gc2] jeecg-boot contains SQL Injection vulnerability,https://github.com/advisories/GHSA-qxpm-5ghc-6gc2,https://da.gd/jxRBBs
