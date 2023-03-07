@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-67j4-2mh6-8627] json-logic-js Command Injection vulnerability,https://github.com/advisories/GHSA-67j4-2mh6-8627,https://da.gd/VybD6
+GithubAdvisories,[GHSA-8ccw-f83g-v7g3] Wallabag Improper Authorization vulnerability,https://github.com/advisories/GHSA-8ccw-f83g-v7g3,https://da.gd/bjMv3
+GithubAdvisories,[GHSA-wm8x-php5-hvq6] Maligned causes incorrect deallocation,https://github.com/advisories/GHSA-wm8x-php5-hvq6,https://da.gd/RC2U6B
+GithubAdvisories,[GHSA-gc89-7gcr-jxqc] Buildkit credentials inlined to Git URLs could end up in provenance attestation,https://github.com/advisories/GHSA-gc89-7gcr-jxqc,https://da.gd/Xav1bH
+GithubAdvisories,[GHSA-p756-rfxh-x63h] Azure/setup-kubectl: Escalation of privilege vulnerability for v3 and lower,https://github.com/advisories/GHSA-p756-rfxh-x63h,https://da.gd/UN3uCE
+GithubAdvisories,[GHSA-wmx7-x4jp-9jgg] OpenSearch has issue with fine-grained access control of indices backing data streams,https://github.com/advisories/GHSA-wmx7-x4jp-9jgg,https://da.gd/W7py
