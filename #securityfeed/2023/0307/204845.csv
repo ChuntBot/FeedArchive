@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8h9c-r582-mggc] OWSLib vulnerable to XML External Entity (XXE) Injection,https://github.com/advisories/GHSA-8h9c-r582-mggc,https://da.gd/IPc8
+GithubAdvisories,[GHSA-fx2v-qfhr-4chv] Goutil vulnerable to path traversal when unzipping files,https://github.com/advisories/GHSA-fx2v-qfhr-4chv,https://da.gd/rmj1BC
+GithubAdvisories,[GHSA-4hmq-ggrm-qfc6] directus vulnerable to HTML Injection in Password Reset email to custom Reset URL,https://github.com/advisories/GHSA-4hmq-ggrm-qfc6,https://da.gd/jVI6
+GithubAdvisories,[GHSA-rmhg-2cvv-q7vx] dot-lens vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-rmhg-2cvv-q7vx,https://da.gd/xdyg
+GithubAdvisories,[GHSA-6722-xvq8-3254] SketchSVG Arbitrary Code Injection vulnerability,https://github.com/advisories/GHSA-6722-xvq8-3254,https://da.gd/8iGOj
+GithubAdvisories,[GHSA-5g97-whc9-8g7j] node-static and @nubosoftware/node-static vulnerable to Directory Traversal,https://github.com/advisories/GHSA-5g97-whc9-8g7j,https://da.gd/76vK
