@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9xpj-mvp2-3943] OpenNMS has potential Insertion of Sensitive Information into Log File vulnerability,https://github.com/advisories/GHSA-9xpj-mvp2-3943,https://da.gd/8NDu
+GithubAdvisories,[GHSA-f599-5m7p-hcpf] grape subject to Cross-site Scripting,https://github.com/advisories/GHSA-f599-5m7p-hcpf,https://da.gd/yLIo
