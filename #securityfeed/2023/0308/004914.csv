@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6c32-3x46-m9rh] Answer vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-6c32-3x46-m9rh,https://da.gd/jLSn
+GithubAdvisories,[GHSA-2wmj-8mqg-r9q8] Moodle has Incorrect Default Permissions,https://github.com/advisories/GHSA-2wmj-8mqg-r9q8,https://da.gd/FPzgb6
+GithubAdvisories,[GHSA-786g-xv8v-9h93] Moodle Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-786g-xv8v-9h93,https://da.gd/fn7Yr
