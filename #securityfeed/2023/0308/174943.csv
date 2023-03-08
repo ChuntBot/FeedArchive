@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-347f-rxg8-qgrv] Easy!Appointments uses hard-coded credentials,https://github.com/advisories/GHSA-347f-rxg8-qgrv,https://da.gd/hMxRWa
+GithubAdvisories,[GHSA-933g-v89r-x8pf] Apache Dubbo vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-933g-v89r-x8pf,https://da.gd/YUelZf
+GithubAdvisories,[GHSA-g57g-rvpg-2f2c] OpenNMS Meridian and Horizon vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-g57g-rvpg-2f2c,https://da.gd/rVIQAC
+GithubAdvisories,[GHSA-p2hp-3wv3-4w74] ecdh vulnerable to Exposure of Resource to Wrong Sphere,https://github.com/advisories/GHSA-p2hp-3wv3-4w74,https://da.gd/3D9m2
+GithubAdvisories,[GHSA-79jp-m64f-pgrc] Moodle Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-79jp-m64f-pgrc,https://da.gd/HqlrXQ
+GithubAdvisories,[GHSA-g857-47pm-3r32] laravel-admin has Arbitrary File Upload vulnerability,https://github.com/advisories/GHSA-g857-47pm-3r32,https://da.gd/jywA
+GithubAdvisories,[GHSA-q3r2-23r8-wqr9] frp_form_answers allows Cross-site Scripting,https://github.com/advisories/GHSA-q3r2-23r8-wqr9,https://da.gd/8Iqt56
