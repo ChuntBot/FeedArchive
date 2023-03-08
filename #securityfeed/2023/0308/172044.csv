@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3h57-hmj3-gj3p] Rack has possible DoS Vulnerability in Multipart MIME parsing,https://github.com/advisories/GHSA-3h57-hmj3-gj3p,https://da.gd/UzpfpE
+GithubAdvisories,[GHSA-gx4f-976g-7g6v] XWiki Platform vulnerable to data leak via Improper Restriction of XML External Entity Reference,https://github.com/advisories/GHSA-gx4f-976g-7g6v,https://da.gd/0jHVx
+GithubAdvisories,[GHSA-qxjg-jhgw-qhrv] org.xwiki.platform:xwiki-platform-panels-ui vulnerable to Eval Injection,https://github.com/advisories/GHSA-qxjg-jhgw-qhrv,https://da.gd/L7fmp
+GithubAdvisories,[GHSA-8wg7-88cg-7p9j] Pimcore vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-8wg7-88cg-7p9j,https://da.gd/kMj15
+GithubAdvisories,[GHSA-m5q3-8wgf-x8xf] Directus vulnerable to extraction of password hashes through export querying,https://github.com/advisories/GHSA-m5q3-8wgf-x8xf,https://da.gd/O6TgX
+GithubAdvisories,[GHSA-9v4v-9fj5-p982] Answer vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-9v4v-9fj5-p982,https://da.gd/6YBs
+GithubAdvisories,[GHSA-5w78-v688-cx9q] Answer vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-5w78-v688-cx9q,https://da.gd/rMeD
+GithubAdvisories,[GHSA-vxhr-p2vp-7gf8] Answer vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-vxhr-p2vp-7gf8,https://da.gd/NWCyc
+GithubAdvisories,[GHSA-55vm-3vq3-4jpc] Answer vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-55vm-3vq3-4jpc,https://da.gd/Pkpcz
+GithubAdvisories,[GHSA-ff27-hrmr-ggpj] Answer vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-ff27-hrmr-ggpj,https://da.gd/MPAr
+GithubAdvisories,[GHSA-qrwm-xqfr-4vhv] Answer vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-qrwm-xqfr-4vhv,https://da.gd/JEePq
+GithubAdvisories,[GHSA-8jh8-33f5-cgfp] Answer vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-8jh8-33f5-cgfp,https://da.gd/bSF0YS
+GithubAdvisories,[GHSA-h85v-cx5m-78wj] Answer vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-h85v-cx5m-78wj,https://da.gd/Qxg0
