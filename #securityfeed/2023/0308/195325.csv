@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mc6j-h948-v2p6] RubyGems Improper Verification of Cryptographic Signature vulnerability,https://github.com/advisories/GHSA-mc6j-h948-v2p6,https://da.gd/wwMG
+GithubAdvisories,[GHSA-8mvw-22r7-w6fq] ruby_parser allows local users to overwrite arbitrary files via symlink attack on temporary file with predictable name,https://github.com/advisories/GHSA-8mvw-22r7-w6fq,https://da.gd/5EbHFM
