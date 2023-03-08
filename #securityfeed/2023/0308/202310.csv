@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gx69-6cp4-hxrj] RubyGems Link Following vulnerability,https://github.com/advisories/GHSA-gx69-6cp4-hxrj,https://da.gd/ZWBy
+GithubAdvisories,[GHSA-v882-ccj6-jc48] Rack vulnerable to Denial of Service,https://github.com/advisories/GHSA-v882-ccj6-jc48,https://da.gd/COr37
+GithubAdvisories,[GHSA-95vx-q4c2-64gr] RubyGems file overwrite vulnerability,https://github.com/advisories/GHSA-95vx-q4c2-64gr,https://da.gd/SuPd
+GithubAdvisories,[GHSA-jw9f-hh49-cvp9] Nokogiri contains libxml Out-of-bounds Write vulnerability,https://github.com/advisories/GHSA-jw9f-hh49-cvp9,https://da.gd/4BzlCu
+GithubAdvisories,[GHSA-gwfg-cqmg-cf8f] WEBRick vulnerable to HTTP Request/Response Smuggling,https://github.com/advisories/GHSA-gwfg-cqmg-cf8f,https://da.gd/YxDv
+GithubAdvisories,[GHSA-cf46-6xxh-pc75] libxslt Type Confusion vulnerability that affects Nokogiri,https://github.com/advisories/GHSA-cf46-6xxh-pc75,https://da.gd/PwedsD
+GithubAdvisories,[GHSA-mvqr-r76c-wm5f] Devise Token Auth vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-mvqr-r76c-wm5f,https://da.gd/pJc4Xo
+GithubAdvisories,[GHSA-9qvm-2vhf-q649] RubyGems Regular Expression Denial of Service,https://github.com/advisories/GHSA-9qvm-2vhf-q649,https://da.gd/dZxx5c
