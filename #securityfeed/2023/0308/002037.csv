@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-35wf-3wq2-r3hx] Moodle has Incorrect Default Permissions,https://github.com/advisories/GHSA-35wf-3wq2-r3hx,https://da.gd/j4wty0
+GithubAdvisories,[GHSA-g6h6-4fp6-w33w] Moodle vulnerable to Stored Cross-site Scripting,https://github.com/advisories/GHSA-g6h6-4fp6-w33w,https://da.gd/LWT2K
+GithubAdvisories,[GHSA-gv8f-43pg-c5qw] Moodle Improper Input Validation vulnerability,https://github.com/advisories/GHSA-gv8f-43pg-c5qw,https://da.gd/Nm6bUv
+GithubAdvisories,[GHSA-j9cw-5cpj-9qj5] Moodle has a Hidden Functionality vulnerability,https://github.com/advisories/GHSA-j9cw-5cpj-9qj5,https://da.gd/Synt
+GithubAdvisories,[GHSA-4jpv-8r57-pv7j] @nestjs/core vulnerable to Information Exposure via StreamableFile pipe,https://github.com/advisories/GHSA-4jpv-8r57-pv7j,https://da.gd/elK88
