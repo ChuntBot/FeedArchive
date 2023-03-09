@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cxx3-36qc-m6qm] node-bluetooth is vulnerable to Buffer Overflow via the findSerialPortChannel method due to improper user input length validation,https://github.com/advisories/GHSA-cxx3-36qc-m6qm,https://da.gd/7KBCE
