@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Fix SELinux labelling of init_db.inc.php for SOGo,https://github.com/mailcow/mailcow-dockerized/commit/310c01aac24d70f4d925b366429b409cd73e1900,https://da.gd/7nfj
+GithubCommitStaging,[Rspamd] Fix cases of forwarding via freemail,https://github.com/mailcow/mailcow-dockerized/commit/1a9294b58f0c1756c4e61451e4a7103e34640998,https://da.gd/f6VNDC
+GithubCommitStaging,Fix Bug with button to load more logs,https://github.com/mailcow/mailcow-dockerized/commit/f36bc16ca7bccbff3c1e649ce84eaaa61c0d5a95,https://da.gd/y3ADX2
+GithubCommitStaging,Merge pull request #5119 from bdwebnet:staging,https://github.com/mailcow/mailcow-dockerized/commit/ad9dee92bedef985c91e0a05a13170185de466c0,https://da.gd/Eg9DP
+GithubCommitStaging,Merge pull request #5108 from mailcow:dragoangel-patch-1,https://github.com/mailcow/mailcow-dockerized/commit/deb2b8035249e0fc9e846d5977e40f70a57afdf2,https://da.gd/ep1af
+GithubCommitStaging,Merge pull request #5107 from kaechele:staging,https://github.com/mailcow/mailcow-dockerized/commit/7225bd2f55f87e8ac71daaaff562ef28ef19e81f,https://da.gd/9rBJ5N
