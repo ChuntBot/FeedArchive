@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6w5f-5wgr-qjg5] Constellation allows Emergency shell access during initramfs boot phase,https://github.com/advisories/GHSA-6w5f-5wgr-qjg5,https://da.gd/Ga30
