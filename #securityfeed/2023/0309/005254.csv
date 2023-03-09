@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mqwr-4qf2-2hcv] RubyGems vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-mqwr-4qf2-2hcv,https://da.gd/tuHjwv
+GithubAdvisories,[GHSA-pm9x-4392-2c2p] RubyGems may allow a maliciously crafted gem to overwrite files,https://github.com/advisories/GHSA-pm9x-4392-2c2p,https://da.gd/hyDOu
+GithubAdvisories,[GHSA-7gcp-2gmq-w3xh] RubyGems Code Injection vulnerability,https://github.com/advisories/GHSA-7gcp-2gmq-w3xh,https://da.gd/8Q4IJ
+GithubAdvisories,[GHSA-73w7-6w9g-gc8w] RubyGems has Origin Validation Error vulnerability,https://github.com/advisories/GHSA-73w7-6w9g-gc8w,https://da.gd/GNa46w
+GithubAdvisories,[GHSA-98hq-3qvg-pg78] Gem in a Box vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-98hq-3qvg-pg78,https://da.gd/PQdut
+GithubAdvisories,[GHSA-qxcg-xjjg-66mj] Nokogiri vulnerable to libxslt protection mechanism bypass,https://github.com/advisories/GHSA-qxcg-xjjg-66mj,https://da.gd/gcEV01
+GithubAdvisories,[GHSA-qwv2-2x8g-g43g] Gem in a Box vulnerable to Cross-site Request Forgery,https://github.com/advisories/GHSA-qwv2-2x8g-g43g,https://da.gd/UFIaWi
