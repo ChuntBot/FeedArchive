@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ff4p-7xrq-q5r8] wasmtime vulnerable to guest-controlled out-of-bounds read/write on x86_64,https://github.com/advisories/GHSA-ff4p-7xrq-q5r8,https://da.gd/1KviQ
+GithubAdvisories,[GHSA-xm67-587q-r2vw] wasmtime vulnerable to miscompilation of `i8x16.select` with the same inputs on x86_64,https://github.com/advisories/GHSA-xm67-587q-r2vw,https://da.gd/XVy0
