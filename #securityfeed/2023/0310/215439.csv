@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6x8f-x6qw-qwx3] cockpit-hq/cockpit is vulnerable to unrestricted file uploads,https://github.com/advisories/GHSA-6x8f-x6qw-qwx3,https://da.gd/tDtL5
+GithubAdvisories,[GHSA-gh4g-65f6-84g5] pimcore is vulnerable to cross-site scripting,https://github.com/advisories/GHSA-gh4g-65f6-84g5,https://da.gd/pjDZ
+GithubAdvisories,[GHSA-795w-7426-m94j] stoqey/gnuplot is vulnerable to command injection,https://github.com/advisories/GHSA-795w-7426-m94j,https://da.gd/SZ2Od
