@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jx2x-fg9p-7gc7] Funadmin vulnerable to SQL injection,https://github.com/advisories/GHSA-jx2x-fg9p-7gc7,https://da.gd/PNhKD
+GithubAdvisories,[GHSA-vp98-w2p3-mv35] Apache Log4j 1.x (EOL) allows Denial of Service (DoS),https://github.com/advisories/GHSA-vp98-w2p3-mv35,https://da.gd/BKyzp
+GithubAdvisories,[GHSA-v829-x6hh-cqfq] Crossplane-runtime contains Improper Input Validation via Compositions,https://github.com/advisories/GHSA-v829-x6hh-cqfq,https://da.gd/9AZF
