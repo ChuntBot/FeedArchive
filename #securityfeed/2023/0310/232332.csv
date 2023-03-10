@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q4q3-r45f-7gwg] Apache Geode vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-q4q3-r45f-7gwg,https://da.gd/mLYLFq
