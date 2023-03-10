@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p7f2-rr42-m9xm] RubyGems Improper Input Validation vulnerability,https://github.com/advisories/GHSA-p7f2-rr42-m9xm,https://da.gd/dcWS
+GithubAdvisories,[GHSA-qj2w-mw2r-pv39] RubyGems Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-qj2w-mw2r-pv39,https://da.gd/io8D2
+GithubAdvisories,[GHSA-87qx-g5wg-mwmj] RubyGems Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-87qx-g5wg-mwmj,https://da.gd/HV2skP
+GithubAdvisories,[GHSA-gv86-43rv-79m2] RubyGems Improper Input Validation vulnerability,https://github.com/advisories/GHSA-gv86-43rv-79m2,https://da.gd/pTRn
+GithubAdvisories,[GHSA-8qxg-mff5-j3wc] RubyGems Path Traversal vulnerability,https://github.com/advisories/GHSA-8qxg-mff5-j3wc,https://da.gd/rJ3o
+GithubAdvisories,[GHSA-wp3j-rvfp-624h] RubyGems vulnerable to DNS hijack attack,https://github.com/advisories/GHSA-wp3j-rvfp-624h,https://da.gd/9XUHcp
