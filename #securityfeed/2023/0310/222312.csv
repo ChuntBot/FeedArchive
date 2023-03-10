@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j83x-r9qq-9g4v] Froxlor is vulnerable to authentication bypass,https://github.com/advisories/GHSA-j83x-r9qq-9g4v,https://da.gd/ChSv
+GithubAdvisories,[GHSA-9654-pr4f-gh6m] HL7 FHIR Partial Path Zip Slip due to bypass of CVE-2023-24057,https://github.com/advisories/GHSA-9654-pr4f-gh6m,https://da.gd/nh4h
