@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jh36-q97c-9928] Kubernetes vulnerable to validation bypass,https://github.com/advisories/GHSA-jh36-q97c-9928,https://da.gd/gmWGcy
+GithubAdvisories,[GHSA-2394-5535-8j88] Kubernetes vulnerable to path traversal,https://github.com/advisories/GHSA-2394-5535-8j88,https://da.gd/YHDf8D
+GithubAdvisories,[GHSA-9wf9-qvvp-2929] builderio/qwik is vulnerable to code injection,https://github.com/advisories/GHSA-9wf9-qvvp-2929,https://da.gd/VfzF
