@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xm5f-hc9r-76f3] PHP JOSE Library by Gree Inc. Uses a Broken or Risky Cryptographic Algorithm,https://github.com/advisories/GHSA-xm5f-hc9r-76f3,https://da.gd/nhVvW
+GithubAdvisories,[GHSA-cx5r-p4vj-2mqh] Jenkins Build Pipeline Plugin vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-cx5r-p4vj-2mqh,https://da.gd/TTW6P
