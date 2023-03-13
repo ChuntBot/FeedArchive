@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jqv5-7xpx-qj74] sqlite vulnerable to code execution due to Object coercion,https://github.com/advisories/GHSA-jqv5-7xpx-qj74,https://da.gd/A8Hjvz
