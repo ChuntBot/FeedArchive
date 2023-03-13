@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-89p3-9j8c-fqh4] User account enumeration in eZ Publish Ibexa Kernel,https://github.com/advisories/GHSA-89p3-9j8c-fqh4,https://da.gd/jOkTiE
+GithubAdvisories,[GHSA-c737-jhwr-fqxj] Cross Site Scripting in eZ Platform Ibexa Kernel,https://github.com/advisories/GHSA-c737-jhwr-fqxj,https://da.gd/n9naN
+GithubAdvisories,[GHSA-qq2j-9pf8-g58c] Company admin role gives excessive privileges in eZ Platform Ibexa,https://github.com/advisories/GHSA-qq2j-9pf8-g58c,https://da.gd/UUuFCV
+GithubAdvisories,[GHSA-66m4-gc8h-hpjx] Timing attack in eZ Platform Ibexa,https://github.com/advisories/GHSA-66m4-gc8h-hpjx,https://da.gd/3YFPKE
+GithubAdvisories,[GHSA-h5v2-wrhp-5v35] Access control issue in ezsystems/ezpublish-kernel,https://github.com/advisories/GHSA-h5v2-wrhp-5v35,https://da.gd/nTxl7
+GithubAdvisories,[GHSA-vfvj-3m3g-m532] fieldpath's Paved.SetValue allows growing arrays up to arbitrary sizes in crossplane-runtime,https://github.com/advisories/GHSA-vfvj-3m3g-m532,https://da.gd/UfTyl1
+GithubAdvisories,"[GHSA-7r7x-4c4q-c4qf] Missing proper state, nonce and PKCE checks for OAuth authentication",https://github.com/advisories/GHSA-7r7x-4c4q-c4qf,https://da.gd/PPSeN
+GithubAdvisories,[GHSA-vhm8-wwrf-3gcw] Path Traversal Vulnerability in `LESS` Parser allows reading of sensitive server files,https://github.com/advisories/GHSA-vhm8-wwrf-3gcw,https://da.gd/QlRyAK
+GithubAdvisories,[GHSA-3g43-x7qr-96ph] Possible CSRF token fixation,https://github.com/advisories/GHSA-3g43-x7qr-96ph,https://da.gd/6avM
+GithubAdvisories,[GHSA-c5vj-f36q-p9vg] Password Shucking Vulnerability,https://github.com/advisories/GHSA-c5vj-f36q-p9vg,https://da.gd/clEbpc
+GithubAdvisories,[GHSA-p7mj-xvxg-grff] `out_reference::Out::from_raw` should be `unsafe`,https://github.com/advisories/GHSA-p7mj-xvxg-grff,https://da.gd/AoAY2
