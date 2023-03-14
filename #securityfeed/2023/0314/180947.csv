@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4g76-w3xw-2x6w] Full authentication bypass if SASL authorization username is specified,https://github.com/advisories/GHSA-4g76-w3xw-2x6w,https://da.gd/qNfnQm
+GithubAdvisories,[GHSA-rqm8-q8j9-662f] Nomad Job Submitter Privilege Escalation Using Workload Identity,https://github.com/advisories/GHSA-rqm8-q8j9-662f,https://da.gd/UJiP4
