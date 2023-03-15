@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c6qg-cjj8-47qp] Possible Denial of Service Vulnerability in Rack’s header parsing,https://github.com/advisories/GHSA-c6qg-cjj8-47qp,https://da.gd/UcDhOc
+GithubAdvisories,[GHSA-pj73-v5mw-pm9j] Possible XSS Security Vulnerability in SafeBuffer#bytesplice,https://github.com/advisories/GHSA-pj73-v5mw-pm9j,https://da.gd/p57Z
