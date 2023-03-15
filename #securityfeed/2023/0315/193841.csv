@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9jh3-4pc9-hq29] node-bluetooth-serial-port is vulnerable to Buffer Overflow via the findSerialPortChannel,https://github.com/advisories/GHSA-9jh3-4pc9-hq29,https://da.gd/ABPq
+GithubAdvisories,[GHSA-8jv7-vwrc-mv4g] Cross-site Scripting (XSS) in pimcore/pimcore,https://github.com/advisories/GHSA-8jv7-vwrc-mv4g,https://da.gd/wnlNYR
