@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-36f2-fcrx-fp4j] Authelia allows open redirects on the logout endpoint,https://github.com/advisories/GHSA-36f2-fcrx-fp4j,https://da.gd/04YQ52
+GithubAdvisories,"[GHSA-cp96-jpmq-xrr2] On a compromised node, the virt-handler service account can be used to modify all node specs",https://github.com/advisories/GHSA-cp96-jpmq-xrr2,https://da.gd/MJeED
+GithubAdvisories,[GHSA-wj6x-hcc2-f32j] Consul Server Panic when Ingress and API Gateways Configured with Peering Connections,https://github.com/advisories/GHSA-wj6x-hcc2-f32j,https://da.gd/bkaW
+GithubAdvisories,[GHSA-rrgp-c2w8-6vg6] Information disclosure through error stack traces related to agents,https://github.com/advisories/GHSA-rrgp-c2w8-6vg6,https://da.gd/i2V4Vj
+GithubAdvisories,[GHSA-584m-7r4m-8j6v] Incorrect Authorization in Jenkins Core,https://github.com/advisories/GHSA-584m-7r4m-8j6v,https://da.gd/fwf16G
+GithubAdvisories,[GHSA-pqg3-xfx2-fmqp] Cross site scripting vulnerability in update-center2,https://github.com/advisories/GHSA-pqg3-xfx2-fmqp,https://da.gd/o1uhm
