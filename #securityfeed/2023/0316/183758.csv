@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vpqv-mqvc-pcx2] Reflective Cross-site Scripting Vulnerability in twitter-bootstrap-rails,https://github.com/advisories/GHSA-vpqv-mqvc-pcx2,https://da.gd/j0FeV
+GithubAdvisories,[GHSA-xg89-vvwp-9c27] Exposure of Sensitive Information in OpenGoofy Hippo4j,https://github.com/advisories/GHSA-xg89-vvwp-9c27,https://da.gd/csc4g
+GithubAdvisories,[GHSA-2xpm-cmvw-3jcc] Reflected XSS in Application Logger module,https://github.com/advisories/GHSA-2xpm-cmvw-3jcc,https://da.gd/57u16
+GithubAdvisories,[GHSA-3223-w774-99fq] Cross-site Scripting (XSS) in Document Types,https://github.com/advisories/GHSA-3223-w774-99fq,https://da.gd/TkvLnp
+GithubAdvisories,[GHSA-p8p7-x288-28g6] Server-Side Request Forgery in Request,https://github.com/advisories/GHSA-p8p7-x288-28g6,https://da.gd/a6wDsA
+GithubAdvisories,[GHSA-rrwm-8wqm-gwgv] Cross-site Scripting (XSS) - stored in Print Documents,https://github.com/advisories/GHSA-rrwm-8wqm-gwgv,https://da.gd/7MOXek
+GithubAdvisories,[GHSA-5g39-ppwg-6xx8] Go-huge-util vulnerable to path traversal when unzipping files,https://github.com/advisories/GHSA-5g39-ppwg-6xx8,https://da.gd/mghQN
