@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j664-qhh4-hpf8] Cross-site Scripting vulnerability in Jenkins,https://github.com/advisories/GHSA-j664-qhh4-hpf8,https://da.gd/ndyPN
+GithubAdvisories,[GHSA-hf9h-vv4m-2f33] Incorrect Authorization in Jenkins Core,https://github.com/advisories/GHSA-hf9h-vv4m-2f33,https://da.gd/I4jnEL
+GithubAdvisories,[GHSA-frgr-c5f2-8qhh] Denial of service in Jenkins Core,https://github.com/advisories/GHSA-frgr-c5f2-8qhh,https://da.gd/2QDzW
+GithubAdvisories,[GHSA-h76p-mc68-jv3p] Denial of service in Jenkins Core,https://github.com/advisories/GHSA-h76p-mc68-jv3p,https://da.gd/UzVgN
+GithubAdvisories,"[GHSA-xc9p-r5qj-8xm9] Improper quoting of columns when calling methods ""getByUuid"" & ""exists"" on UUID Model",https://github.com/advisories/GHSA-xc9p-r5qj-8xm9,https://da.gd/bUPMwQ
+GithubAdvisories,[GHSA-x5j3-mq9g-8jc8] Cross-site Scripting (XSS) in UrlSlug Data type,https://github.com/advisories/GHSA-x5j3-mq9g-8jc8,https://da.gd/PpxMH
+GithubAdvisories,[GHSA-vq59-5x26-h639] Authorization Bypass Through User-Controlled Key play-with-docker,https://github.com/advisories/GHSA-vq59-5x26-h639,https://da.gd/nM11Z
+GithubAdvisories,[GHSA-9c6g-qpgj-rvxw] Streamlit publishes previously-patched Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-9c6g-qpgj-rvxw,https://da.gd/AYPLfB
+GithubAdvisories,[GHSA-cqvm-j2r2-hwpg] russh may use insecure Diffie-Hellman keys,https://github.com/advisories/GHSA-cqvm-j2r2-hwpg,https://da.gd/8smYqT
