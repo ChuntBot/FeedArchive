@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gq6w-q6wh-jggc] PHAR deserialization allowing remote code execution,https://github.com/advisories/GHSA-gq6w-q6wh-jggc,https://da.gd/qwAg
+GithubAdvisories,[GHSA-86jq-pwgx-6vrq] Improper Authorization in nilsteampassnet/teampass,https://github.com/advisories/GHSA-86jq-pwgx-6vrq,https://da.gd/cGrdo
+GithubAdvisories,[GHSA-r5x6-w42p-jhpp] Cilium eBPF filters may be temporarily removed during agent restart,https://github.com/advisories/GHSA-r5x6-w42p-jhpp,https://da.gd/BNWK
+GithubAdvisories,[GHSA-8fg8-jh2h-f2hc] Potential network policy bypass when routing IPv6 traffic,https://github.com/advisories/GHSA-8fg8-jh2h-f2hc,https://da.gd/SAMdeI
+GithubAdvisories,[GHSA-4hc4-pgfx-3mrx] cilium-agent container can access the host via `hostPath` mount,https://github.com/advisories/GHSA-4hc4-pgfx-3mrx,https://da.gd/uv94oS
