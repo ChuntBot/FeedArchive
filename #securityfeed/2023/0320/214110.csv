@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rwmf-w63j-p7gv] CairoSVG improperly processes SVG files loaded from external resources,https://github.com/advisories/GHSA-rwmf-w63j-p7gv,https://da.gd/Y9vV
+GithubAdvisories,[GHSA-c24f-2j3g-rg48] kaml has potential denial of service while parsing input with anchors and aliases,https://github.com/advisories/GHSA-c24f-2j3g-rg48,https://da.gd/FicU4D
+GithubAdvisories,[GHSA-47pj-q2vm-46xc] Collection.js vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-47pj-q2vm-46xc,https://da.gd/RgZb
+GithubAdvisories,[GHSA-pmhg-cmjc-3875] Ansible Semaphore mishandles authentication,https://github.com/advisories/GHSA-pmhg-cmjc-3875,https://da.gd/CMsy0S
+GithubAdvisories,[GHSA-3x8x-79m2-3w2w] jackson-databind possible Denial of Service if using JDK serialization to serialize JsonNode,https://github.com/advisories/GHSA-3x8x-79m2-3w2w,https://da.gd/4ELtB
+GithubAdvisories,[GHSA-ch9g-x9j7-rcgp] imgproxy Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-ch9g-x9j7-rcgp,https://da.gd/gr1dy
+GithubAdvisories,[GHSA-ppjr-267j-5p9x] NULL pointer derefernce in `stb_image`,https://github.com/advisories/GHSA-ppjr-267j-5p9x,https://da.gd/LYW4V
