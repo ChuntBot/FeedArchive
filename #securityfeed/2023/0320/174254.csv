@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rwrx-x2hw-9h5w] Apache Sling Resource Merger has Excessive Iteration vulnerability,https://github.com/advisories/GHSA-rwrx-x2hw-9h5w,https://da.gd/SmEmM
+GithubAdvisories,[GHSA-rcg9-hrhx-6q69] Pimcore has Cross-site Scripting vulnerability in DataObject tooltip field,https://github.com/advisories/GHSA-rcg9-hrhx-6q69,https://da.gd/DFc15
+GithubAdvisories,[GHSA-66cm-c7ch-5j8q] Pimcore vulnerable to Cross-site Scripting (XSS) in Redirects,https://github.com/advisories/GHSA-66cm-c7ch-5j8q,https://da.gd/ecps7
+GithubAdvisories,[GHSA-42x8-2v53-pqmj] Pimcore has Cross site Scripting vulnerability in Schedule tab of Documents,https://github.com/advisories/GHSA-42x8-2v53-pqmj,https://da.gd/ZjV9d
