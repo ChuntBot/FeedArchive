@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Generate.sh] Fixed broken pipe error message,https://github.com/mailcow/mailcow-dockerized/commit/e6ce5e88f748f61e2952176391da820db5d4d699,https://da.gd/1m3M
+GithubCommitStaging,Merge pull request #5134 from mailcow/fix/generate-config-dev,https://github.com/mailcow/mailcow-dockerized/commit/f7da314dcf55e5809644da389ac0db156941a3e5,https://da.gd/beAe
