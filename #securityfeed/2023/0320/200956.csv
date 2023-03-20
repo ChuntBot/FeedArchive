@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-49jx-9cmc-xjxm] Bundler may install gems from a different source than expected,https://github.com/advisories/GHSA-49jx-9cmc-xjxm,https://da.gd/udKwEM
