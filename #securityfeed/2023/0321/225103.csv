@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jhjm-5xjg-mpqp] Xuxueli xxl-job allows attacker to obtain sensitive information via the pageList parameter,https://github.com/advisories/GHSA-jhjm-5xjg-mpqp,https://da.gd/PWQClN
+GithubAdvisories,[GHSA-h384-ph77-3699] weixin-python XML External Entity vulnerability,https://github.com/advisories/GHSA-h384-ph77-3699,https://da.gd/26Kb
+GithubAdvisories,[GHSA-9324-jv53-9cc8] dio vulnerable to CRLF injection with HTTP method string,https://github.com/advisories/GHSA-9324-jv53-9cc8,https://da.gd/aDjkpe
+GithubAdvisories,[GHSA-ppxm-q2h4-v7mm] Teampass SQL Injection vulnerability,https://github.com/advisories/GHSA-ppxm-q2h4-v7mm,https://da.gd/tmAGJ
+GithubAdvisories,[GHSA-7mjv-x3jf-545x] cloudflared's Installer has Local Privilege Escalation Vulnerability,https://github.com/advisories/GHSA-7mjv-x3jf-545x,https://da.gd/iXuU
+GithubAdvisories,[GHSA-h2wg-83fc-xvm9] Answer vulnerable to Business Logic Errors,https://github.com/advisories/GHSA-h2wg-83fc-xvm9,https://da.gd/8w3oV
+GithubAdvisories,[GHSA-6x5v-cxpp-pc5x] Answer has Observable Response Discrepancy,https://github.com/advisories/GHSA-6x5v-cxpp-pc5x,https://da.gd/s4aiq
+GithubAdvisories,[GHSA-g44v-6qfm-f6ch] Answer has Guessable CAPTCHA,https://github.com/advisories/GHSA-g44v-6qfm-f6ch,https://da.gd/tAeSZL
+GithubAdvisories,[GHSA-rvjp-8qj4-8p29] Answer has Observable Timing Discrepancy,https://github.com/advisories/GHSA-rvjp-8qj4-8p29,https://da.gd/eME9ir
+GithubAdvisories,[GHSA-hwj7-frgj-7829] Answer vulnerable to Authentication Bypass by Capture-replay,https://github.com/advisories/GHSA-hwj7-frgj-7829,https://da.gd/Tp83
+GithubAdvisories,[GHSA-xvfj-84vc-hrmf] Answer vulnerable to Stored Cross-site Scripting,https://github.com/advisories/GHSA-xvfj-84vc-hrmf,https://da.gd/tiTA
+GithubAdvisories,[GHSA-83qr-c7m9-wmgw] Answer vulnerable to Stored Cross-site Scripting,https://github.com/advisories/GHSA-83qr-c7m9-wmgw,https://da.gd/FV1Gv
+GithubAdvisories,[GHSA-r95w-7cpx-h5mx] Answer vulnerable to Business Logic Errors,https://github.com/advisories/GHSA-r95w-7cpx-h5mx,https://da.gd/5uYbn
+GithubAdvisories,[GHSA-79hx-g43v-xfmr] Answer vulnerable to Insufficient Session Expiration,https://github.com/advisories/GHSA-79hx-g43v-xfmr,https://da.gd/MzBgDb
+GithubAdvisories,[GHSA-fcmm-54jp-7vf6] Frontier's modexp precompile is slow for even modulus,https://github.com/advisories/GHSA-fcmm-54jp-7vf6,https://da.gd/ksndM
+GithubAdvisories,[GHSA-29pr-6jr8-q5jm] Sentry SDK leaks sensitive session information when `sendDefaultPII` is set to `True`,https://github.com/advisories/GHSA-29pr-6jr8-q5jm,https://da.gd/bzJB
+GithubAdvisories,[GHSA-6f27-3p6c-p5jc] `cilium-cli` disables etcd authorization for clustermesh clusters,https://github.com/advisories/GHSA-6f27-3p6c-p5jc,https://da.gd/trXNvm
