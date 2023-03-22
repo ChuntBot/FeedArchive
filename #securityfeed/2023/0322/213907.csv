@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5mqj-xc49-246p] crewjam/saml vulnerable to Denial Of Service Via Deflate Decompression Bomb,https://github.com/advisories/GHSA-5mqj-xc49-246p,https://da.gd/YpzTcV
+GithubAdvisories,[GHSA-vf7q-g2pv-jxvx] Pimcore vulnerable to improper quoting of filters in Custom Reports,https://github.com/advisories/GHSA-vf7q-g2pv-jxvx,https://da.gd/Mc2P
+GithubAdvisories,[GHSA-q6g2-g7f3-rr83] Jettison vulnerable to infinite recursion,https://github.com/advisories/GHSA-q6g2-g7f3-rr83,https://da.gd/TGi4Z
+GithubAdvisories,[GHSA-2c9m-w27f-53rm] Apache Tomcat vulnerable to Unprotected Transport of Credentials,https://github.com/advisories/GHSA-2c9m-w27f-53rm,https://da.gd/R4vEK
