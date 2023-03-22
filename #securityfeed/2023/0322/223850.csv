@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-55m9-hm92-xm8j] Gophish vulnerable to Cross-site Scripting via crafted landing page,https://github.com/advisories/GHSA-55m9-hm92-xm8j,https://da.gd/QT6g
+GithubAdvisories,[GHSA-jxr6-7qg5-8wv6] OpenNMS Meridian and Horizon vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-jxr6-7qg5-8wv6,https://da.gd/0jB7n8
+GithubAdvisories,[GHSA-255r-3prx-mf99] `rmp-serde` `Raw` and `RawRef` may crash when receiving invalid UTF-8,https://github.com/advisories/GHSA-255r-3prx-mf99,https://da.gd/DeDIg5
