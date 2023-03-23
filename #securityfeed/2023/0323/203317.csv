@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-493p-pfq6-5258] json-smart Uncontrolled Recursion vulnerabilty,https://github.com/advisories/GHSA-493p-pfq6-5258,https://da.gd/dzWblB
+GithubAdvisories,[GHSA-qrrg-gw7w-vp76] Grafana Stored Cross-site Scripting in Graphite FunctionDescription tooltip,https://github.com/advisories/GHSA-qrrg-gw7w-vp76,https://da.gd/irQQE
+GithubAdvisories,[GHSA-3cgw-hfw7-wc7j] Duplicate Advisory: Grafana Stored Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-3cgw-hfw7-wc7j,https://da.gd/eXWzw
