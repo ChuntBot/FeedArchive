@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c25x-cm9x-qqgx] Deno improperly handles resizable ArrayBuffer,https://github.com/advisories/GHSA-c25x-cm9x-qqgx,https://da.gd/YLJg2b
+GithubAdvisories,[GHSA-7x96-2w32-w3gw] tripleo-ansible may disclose important configuration details from an OpenStack deployment,https://github.com/advisories/GHSA-7x96-2w32-w3gw,https://da.gd/UL1U
+GithubAdvisories,[GHSA-w4x6-6w3r-9h2m] tripleo-ansible may disclose important configuration details from an OpenStack deployment,https://github.com/advisories/GHSA-w4x6-6w3r-9h2m,https://da.gd/C0mqI
+GithubAdvisories,[GHSA-vj5p-fp42-774p] Moodle may display roles to users who don't have access to them,https://github.com/advisories/GHSA-vj5p-fp42-774p,https://da.gd/6YDeka
+GithubAdvisories,[GHSA-r47r-87p9-8jh3] Spring Vault vulnerable to insertion of sensitive information into a log file,https://github.com/advisories/GHSA-r47r-87p9-8jh3,https://da.gd/3mfb
+GithubAdvisories,[GHSA-564r-hj7v-mcr5] Spring Framework vulnerable to denial of service via specially crafted SpEL expression,https://github.com/advisories/GHSA-564r-hj7v-mcr5,https://da.gd/AFimD
+GithubAdvisories,[GHSA-4pqp-69m3-f8pp] NotrinosERP vulnerable to SQL Injection,https://github.com/advisories/GHSA-4pqp-69m3-f8pp,https://da.gd/qBXK
+GithubAdvisories,[GHSA-hh52-g5c4-wprh] Moodle may allow authenticated users to enumerate other user's names via learning plans page,https://github.com/advisories/GHSA-hh52-g5c4-wprh,https://da.gd/udF0Q7
+GithubAdvisories,[GHSA-q2x3-2f9g-h559] Moodle's Mustache pix helper contained a potential Mustache injection risk if combined with user input,https://github.com/advisories/GHSA-q2x3-2f9g-h559,https://da.gd/RXMI9h
+GithubAdvisories,[GHSA-9f45-9qrw-pp4v] Moodle vulnerable to Cross-site Scripting when algebra filter enabled but not functional,https://github.com/advisories/GHSA-9f45-9qrw-pp4v,https://da.gd/V7LD14
+GithubAdvisories,[GHSA-77jm-f3vj-xvx2] Moodle vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-77jm-f3vj-xvx2,https://da.gd/DYR20I
+GithubAdvisories,[GHSA-56r9-72vx-q989] Moodle arbitrary file read vulnerability,https://github.com/advisories/GHSA-56r9-72vx-q989,https://da.gd/x3cWbC
+GithubAdvisories,[GHSA-72w2-j52c-7682] Moodle SQL Injection vulnerability,https://github.com/advisories/GHSA-72w2-j52c-7682,https://da.gd/LwT1
+GithubAdvisories,[GHSA-wxmq-v9gx-75pg] Moodle vulnerable to Cross-site Request Forgery,https://github.com/advisories/GHSA-wxmq-v9gx-75pg,https://da.gd/MBd7D
+GithubAdvisories,[GHSA-prjm-2fj2-787f] Moodle may allow teachers to access the names of users they could not otherwise access,https://github.com/advisories/GHSA-prjm-2fj2-787f,https://da.gd/z4D04
