@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mfvg-qwcw-qvc8] baserCMS allows any file to be uploaded,https://github.com/advisories/GHSA-mfvg-qwcw-qvc8,https://da.gd/tFRe1
+GithubAdvisories,[GHSA-h4cc-fxpp-pgw9] baserCMS File Uploader Remote Code Execution (RCE) vulnerability,https://github.com/advisories/GHSA-h4cc-fxpp-pgw9,https://da.gd/zBead
+GithubAdvisories,[GHSA-vfgq-g5x8-g595] Non-interactive Tailscale SSH sessions on FreeBSD may use the effective group ID of the tailscaled process,https://github.com/advisories/GHSA-vfgq-g5x8-g595,https://da.gd/FTNM
+GithubAdvisories,[GHSA-frjg-g767-7363] code-server vulnerable to Missing Origin Validation in WebSockets,https://github.com/advisories/GHSA-frjg-g767-7363,https://da.gd/KssBN6
+GithubAdvisories,[GHSA-2q5c-qw9c-fmvq] Argo CD authenticated but unauthorized users may enumerate Application names via the API,https://github.com/advisories/GHSA-2q5c-qw9c-fmvq,https://da.gd/4IV7bA
+GithubAdvisories,[GHSA-fvx4-8h2x-gm9q] Hippo4j privilege escalation issue,https://github.com/advisories/GHSA-fvx4-8h2x-gm9q,https://da.gd/nxCvHL
+GithubAdvisories,[GHSA-8vg2-wf3q-mwv7] directus vulnerable to Insertion of Sensitive Information into Log File,https://github.com/advisories/GHSA-8vg2-wf3q-mwv7,https://da.gd/qJ3WdM
