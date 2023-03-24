@@ -1,0 +1,31 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cpmr-mw4j-99r7] Nginx alias path traversal allows unauthenticated attackers to read all files on /label_studio/core/,https://github.com/advisories/GHSA-cpmr-mw4j-99r7,https://da.gd/DcBlFa
+GithubAdvisories,[GHSA-3gxf-9r58-2ghg] `openssl` `X509NameBuilder::build` returned object is not thread safe,https://github.com/advisories/GHSA-3gxf-9r58-2ghg,https://da.gd/ZrU7O9
+GithubAdvisories,[GHSA-9qwg-crg9-m2vc] `openssl` `SubjectAlternativeName` and `ExtendedKeyUsage::other` allow arbitrary file read,https://github.com/advisories/GHSA-9qwg-crg9-m2vc,https://da.gd/vxKTIw
+GithubAdvisories,[GHSA-6hcf-g6gr-hhcr] `openssl` `X509Extension::new` and `X509Extension::new_nid` null pointer dereference,https://github.com/advisories/GHSA-6hcf-g6gr-hhcr,https://da.gd/nUMOUk
+GithubAdvisories,[GHSA-wp72-7hj9-5265] Remote file existence check vulnerability in `mlflow server` and `mlflow ui` CLIs,https://github.com/advisories/GHSA-wp72-7hj9-5265,https://da.gd/MJZePL
+GithubAdvisories,[GHSA-xg73-94fp-g449] Remote file access vulnerability in `mlflow server` and `mlflow ui` CLIs,https://github.com/advisories/GHSA-xg73-94fp-g449,https://da.gd/qZvxST
+GithubAdvisories,"[GHSA-8vxc-r5wp-vgvc] Versionize::deserialize implementation for FamStructWrapper is lacking bound checks, potentially leading to out of bounds memory accesses",https://github.com/advisories/GHSA-8vxc-r5wp-vgvc,https://da.gd/GChv8Q
+GithubAdvisories,[GHSA-f5v5-ccqc-6w36] async-nats vulnerable to TLS certificate common name validation bypass,https://github.com/advisories/GHSA-f5v5-ccqc-6w36,https://da.gd/53GLw
+GithubAdvisories,[GHSA-948f-j464-rfj2] Moodle may allow students to bypass sequential navigation during a quiz attempt,https://github.com/advisories/GHSA-948f-j464-rfj2,https://da.gd/ra1op
+GithubAdvisories,[GHSA-g8xm-p2h4-v6jp] OpenShift Assisted Installer leaks image pull secrets as plaintext in installation logs,https://github.com/advisories/GHSA-g8xm-p2h4-v6jp,https://da.gd/pfe9
+GithubAdvisories,[GHSA-93vr-9q9m-pj8p] TensorFlow vulnerable to Out-of-Bounds Read in DynamicStitch,https://github.com/advisories/GHSA-93vr-9q9m-pj8p,https://da.gd/9zr2
+GithubAdvisories,[GHSA-qjqc-vqcf-5qvj] TensorFlow vulnerable to seg fault in `tf.raw_ops.Print`,https://github.com/advisories/GHSA-qjqc-vqcf-5qvj,https://da.gd/Qam8ua
+GithubAdvisories,[GHSA-7jvm-xxmr-v5cw] TensorFlow vulnerable to integer overflow in EditDistance,https://github.com/advisories/GHSA-7jvm-xxmr-v5cw,https://da.gd/TeAwY
+GithubAdvisories,[GHSA-64jg-wjww-7c5w] TensorFlow has Null Pointer Error in TensorArrayConcatV2,https://github.com/advisories/GHSA-64jg-wjww-7c5w,https://da.gd/XHctYe
+GithubAdvisories,[GHSA-6hg6-5c2q-7rcr] TensorFlow has Heap-buffer-overflow in AvgPoolGrad,https://github.com/advisories/GHSA-6hg6-5c2q-7rcr,https://da.gd/FK66td
+GithubAdvisories,[GHSA-558h-mq8x-7q9g] TensorFlow has Null Pointer Error in SparseSparseMaximum,https://github.com/advisories/GHSA-558h-mq8x-7q9g,https://da.gd/BIvY1
+GithubAdvisories,[GHSA-f637-vh3r-vfh2] TensorFlow has Floating Point Exception in AudioSpectrogram,https://github.com/advisories/GHSA-f637-vh3r-vfh2,https://da.gd/UR7vH0
+GithubAdvisories,[GHSA-fqm2-gh8w-gr68] TensorFlow vulnerable to segfault when opening multiframe gif,https://github.com/advisories/GHSA-fqm2-gh8w-gr68,https://da.gd/QwIn
+GithubAdvisories,[GHSA-gw97-ff7c-9v96] TensorFlow has a heap out-of-buffer read vulnerability in the QuantizeAndDequantize operation,https://github.com/advisories/GHSA-gw97-ff7c-9v96,https://da.gd/AUxIN4
+GithubAdvisories,[GHSA-rcf8-g8jv-vg6p] TensorFlow has Floating Point Exception in AvgPoolGrad with XLA,https://github.com/advisories/GHSA-rcf8-g8jv-vg6p,https://da.gd/LO6Hs1
+GithubAdvisories,[GHSA-49rq-hwc3-x77w] TensorFlow has Null Pointer Error in QuantizedMatMulWithBiasAndDequantize,https://github.com/advisories/GHSA-49rq-hwc3-x77w,https://da.gd/V9rFzX
+GithubAdvisories,[GHSA-j5w9-hmfh-4cr6] TensorFlow has segmentation fault in tfg-translate,https://github.com/advisories/GHSA-j5w9-hmfh-4cr6,https://da.gd/h7RV
+GithubAdvisories,[GHSA-94mm-g2mv-8p7r] TensorFlow has Null Pointer Error in LookupTableImportV2,https://github.com/advisories/GHSA-94mm-g2mv-8p7r,https://da.gd/kaKf2J
+GithubAdvisories,[GHSA-647v-r7qq-24fh] TensorFlow has Floating Point Exception in TensorListSplit with XLA,https://github.com/advisories/GHSA-647v-r7qq-24fh,https://da.gd/aBeQtP
+GithubAdvisories,[GHSA-gf97-q72m-7579] TensorFlow has Null Pointer Error in RandomShuffle with XLA enable,https://github.com/advisories/GHSA-gf97-q72m-7579,https://da.gd/9GEes4
+GithubAdvisories,[GHSA-7x4v-9gxg-9hwj] TensorFlow has Segfault in Bincount with XLA,https://github.com/advisories/GHSA-7x4v-9gxg-9hwj,https://da.gd/WLY6k
+GithubAdvisories,[GHSA-6wfh-89q8-44jq] TensorFlow has null dereference on ParallelConcat with XLA,https://github.com/advisories/GHSA-6wfh-89q8-44jq,https://da.gd/wzymsy
+GithubAdvisories,[GHSA-f49c-87jh-g47q] TensorFlow has double free in Fractional(Max/Avg)Pool,https://github.com/advisories/GHSA-f49c-87jh-g47q,https://da.gd/cIuAWl
+GithubAdvisories,[GHSA-5w96-866f-6rm8] TensorFlow has Floating Point Exception in TFLite in conv kernel,https://github.com/advisories/GHSA-5w96-866f-6rm8,https://da.gd/5XYpQ
+GithubAdvisories,[GHSA-68v3-g9cm-rmm6] TensorFlow vulnerable to Out-of-Bounds Read in GRUBlockCellGrad,https://github.com/advisories/GHSA-68v3-g9cm-rmm6,https://da.gd/JNCYy
