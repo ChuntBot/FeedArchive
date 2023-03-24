@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vq67-rp93-65qf] Interactive `run` permission prompt spoofing via improper ANSI neutralization,https://github.com/advisories/GHSA-vq67-rp93-65qf,https://da.gd/JullgZ
+GithubAdvisories,[GHSA-gwvm-vrp4-4pp5] angular-server-side-configuration information disclosure vulnerability in monorepo with node.js backend,https://github.com/advisories/GHSA-gwvm-vrp4-4pp5,https://da.gd/fPC5
