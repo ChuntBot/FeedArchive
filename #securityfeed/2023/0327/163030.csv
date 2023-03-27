@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Debian Security Advisory 5378-1,https://packetstormsecurity.com/files/171526/dsa-5378-1.txt,https://da.gd/USgOs
+PacketstormSecurity,Red Hat Security Advisory 2023-1470-01,https://packetstormsecurity.com/files/171524/RHSA-2023-1470-01.txt,https://da.gd/udpIc
+PacketstormSecurity,Suprema BioStar 2 2.8.16 SQL Injection,https://packetstormsecurity.com/files/171523/supremabiostar2816-sql.txt,https://da.gd/GezEM
+PacketstormSecurity,Red Hat Security Advisory 2023-1468-01,https://packetstormsecurity.com/files/171522/RHSA-2023-1468-01.txt,https://da.gd/KZii
+PacketstormSecurity,WebTareas 2.4 SQL Injection,https://packetstormsecurity.com/files/171521/webtareas24unauth-sql.txt,https://da.gd/TWsD15
+PacketstormSecurity,WebTareas 2.4 Cross Site Scripting,https://packetstormsecurity.com/files/171520/webtareas24-xss.txt,https://da.gd/lbDhow
+PacketstormSecurity,WebTareas 2.4 Remote Shell Upload,https://packetstormsecurity.com/files/171519/webtareas24-shell.txt,https://da.gd/u0HjD
+PacketstormSecurity,Tftpd32_SE 4.60 Unquoted Service Path,https://packetstormsecurity.com/files/171518/tftpd32se460-unquotedpath.txt,https://da.gd/H1SrT3
+PacketstormSecurity,Rental House Management System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/171517/rhms10-xss.txt,https://da.gd/GQLfI
+PacketstormSecurity,WPN-XM Serverstack For Windows 0.8.6 XSS / LFI / Traversal,https://packetstormsecurity.com/files/171516/wpnxmserverstack086-lfixss.txt,https://da.gd/VXRcD
+PacketstormSecurity,Fortinet 7.2.1 Authentication Bypass,https://packetstormsecurity.com/files/171515/forti721-bypass.txt,https://da.gd/ZDJfB
+PacketstormSecurity,Atom CMS 2.0 SQL Injection,https://packetstormsecurity.com/files/171513/atomcms20noauth-sql.txt,https://da.gd/mZcbq
+PacketstormSecurity,Red Hat Security Advisory 2023-1467-01,https://packetstormsecurity.com/files/171512/RHSA-2023-1467-01.txt,https://da.gd/8MnIy
+PacketstormSecurity,Aero CMS 0.0.1 Remote Shell Upload,https://packetstormsecurity.com/files/171511/aerocms001-shellinject.txt,https://da.gd/UpwKK
+PacketstormSecurity,Aero CMS 0.0.1 SQL Injection,https://packetstormsecurity.com/files/171510/aerocms001-sql.txt,https://da.gd/Sd6z5g
+PacketstormSecurity,Red Hat Security Advisory 2023-1469-01,https://packetstormsecurity.com/files/171509/RHSA-2023-1469-01.txt,https://da.gd/Wvxy
+PacketstormSecurity,Desktop Central 9.1.0 CRLF Injection / Server-Side Request Forgery,https://packetstormsecurity.com/files/171508/desktopcentral910-ssrfcrlf.txt,https://da.gd/AP9LiK
+PacketstormSecurity,Explorer32++ 1.3.5.531 Buffer Overflow,https://packetstormsecurity.com/files/171507/explorer32135531-overflow.txt,https://da.gd/0NpOE
+PacketstormSecurity,Frhed 1.6.0 Buffer Overflow,https://packetstormsecurity.com/files/171506/frhed160-overflow.txt,https://da.gd/yvTJ
+PacketstormSecurity,Resource Hacker 3.6.0.92 Buffer Overflow,https://packetstormsecurity.com/files/171505/resourcehacker36092-overflow.txt,https://da.gd/rHHC
+PacketstormSecurity,Hex Workshop 6.7 Buffer Overflow / Denial Of Service,https://packetstormsecurity.com/files/171504/hexworkshop67-dos.txt,https://da.gd/HOTjVR
+PacketstormSecurity,Scdbg 1.0 Denial Of Service,https://packetstormsecurity.com/files/171503/scdbg10-dos.txt,https://da.gd/YjbLLD
+PacketstormSecurity,Red Hat Security Advisory 2023-1471-01,https://packetstormsecurity.com/files/171502/RHSA-2023-1471-01.txt,https://da.gd/rOdQo
