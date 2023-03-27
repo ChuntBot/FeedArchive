@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Zoneminder < v1.37.24 - Log Injection & Stored XSS & CSRF Bypass,https://www.exploit-db.com/exploits/51071,https://da.gd/vlfk8F
+ExploitDB,[webapps] Clansphere CMS 2011.4 - Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/51070,https://da.gd/LJH3
+ExploitDB,[webapps] Zentao Project Management System 17.0 - Authenticated Remote Code Execution (RCE),https://www.exploit-db.com/exploits/51069,https://da.gd/LnDztJ
+ExploitDB,[webapps] FlatCore CMS 2.1.1 - Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/51068,https://da.gd/Tzmm
+ExploitDB,[webapps] eXtplorer<= 2.1.14 - Authentication Bypass & Remote Code Execution (RCE),https://www.exploit-db.com/exploits/51067,https://da.gd/3E1KcI
+ExploitDB,[dos] Sysax Multi Server 6.95 - 'Password' Denial of Service (PoC),https://www.exploit-db.com/exploits/51066,https://da.gd/98qoLY
+ExploitDB,[local] Gestionale Open 12.00.00 - 'DB_GO_80' Unquoted Service Path,https://www.exploit-db.com/exploits/51065,https://da.gd/sPwrh2
+ExploitDB,[local] Mediconta 3.7.27 - 'servermedicontservice' Unquoted Service Path,https://www.exploit-db.com/exploits/51064,https://da.gd/HtQBp
