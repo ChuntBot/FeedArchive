@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,log exception of redis pubsub subscription,https://github.com/mailcow/mailcow-dockerized/commit/5bc3d93545f9f0d24773477022cf8fa0315983d5,https://da.gd/7hIJ
+GithubCommitStaging,Merge pull request #5138 from th-joerger/feature/pubsub-exception,https://github.com/mailcow/mailcow-dockerized/commit/e891bf8411ef1a39c5546a214dd967fa93628719,https://da.gd/JTJmB
