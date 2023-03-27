@@ -1,0 +1,28 @@
+feed,title,long_url,short_url
+ExploitDB,[remote] MiniDVBLinux 5.4 - Arbitrary File Read,https://www.exploit-db.com/exploits/51097,https://da.gd/uFMA6y
+ExploitDB,[remote] MiniDVBLinux 5.4 - Remote Root Command Injection,https://www.exploit-db.com/exploits/51096,https://da.gd/DFfhj6
+ExploitDB,[remote] MiniDVBLinux 5.4 - Unauthenticated Stream Disclosure,https://www.exploit-db.com/exploits/51095,https://da.gd/wGc5Wl
+ExploitDB,[remote] MiniDVBLinux 5.4 - Change Root Password,https://www.exploit-db.com/exploits/51094,https://da.gd/sqSjqG
+ExploitDB,[remote] MiniDVBLinux 5.4 Simple VideoDiskRecorder Protocol SVDRP - Remote Code Execution (RCE),https://www.exploit-db.com/exploits/51093,https://da.gd/qUx2zX
+ExploitDB,"[webapps] FortiOS, FortiProxy, FortiSwitchManager v7.2.1 - Authentication Bypass",https://www.exploit-db.com/exploits/51092,https://da.gd/g9Yf
+ExploitDB,[remote] MiniDVBLinux <=5.4 - Config Download Exploit,https://www.exploit-db.com/exploits/51091,https://da.gd/7iYIK
+ExploitDB,[local] AVS Audio Converter 10.3 - Stack Overflow (SEH),https://www.exploit-db.com/exploits/51090,https://da.gd/7WXz
+ExploitDB,[webapps] WebTareas 2.4 - RCE (Authorized),https://www.exploit-db.com/exploits/51089,https://da.gd/86Ufbe
+ExploitDB,[webapps] WebTareas 2.4 - Reflected XSS (Unauthorised),https://www.exploit-db.com/exploits/51088,https://da.gd/jZdT
+ExploitDB,[webapps] WebTareas 2.4 - SQL Injection (Unauthorised),https://www.exploit-db.com/exploits/51087,https://da.gd/90cjQ
+ExploitDB,[webapps] Atom CMS v2.0 - SQL Injection (no auth),https://www.exploit-db.com/exploits/51086,https://da.gd/AzKBFz
+ExploitDB,[webapps] Aero CMS v0.0.1 - PHP Code Injection (auth),https://www.exploit-db.com/exploits/51085,https://da.gd/Axus9I
+ExploitDB,[webapps] Aero CMS v0.0.1 - SQL Injection (no auth),https://www.exploit-db.com/exploits/51083,https://da.gd/jhNvJa
+ExploitDB,[webapps] Desktop Central 9.1.0 - Multiple Vulnerabilities,https://www.exploit-db.com/exploits/51082,https://da.gd/AkkvvS
+ExploitDB,[dos] Scdbg 1.0 - Buffer overflow DoS,https://www.exploit-db.com/exploits/51081,https://da.gd/oZVG7
+ExploitDB,[dos] Hex Workshop v6.7 - Buffer overflow DoS,https://www.exploit-db.com/exploits/51080,https://da.gd/diHFtc
+ExploitDB,[local] Resource Hacker v3.6.0.92 - Buffer overflow,https://www.exploit-db.com/exploits/51079,https://da.gd/daQYD
+ExploitDB,[local] Frhed (Free hex editor) v1.6.0 - Buffer overflow,https://www.exploit-db.com/exploits/51078,https://da.gd/jPOI
+ExploitDB,[local] Explorer32++ v1.3.5.531 - Buffer overflow,https://www.exploit-db.com/exploits/51077,https://da.gd/GibS
+ExploitDB,[local] Tftpd32_SE 4.60 - 'Tftpd32_svc' Unquoted Service Path,https://www.exploit-db.com/exploits/51076,https://da.gd/aYFwrY
+LinuxSecurity,"RedHat: RHSA-2023-1470:01 Important: kernel security, bug fix,",https://www.linuxsecurity.com/advisories/red-hat/redhat-rhsa-2023-1470-01-important-kernel-security-bug-fix-oqlohehdagf0?rss,https://da.gd/my3ypd
+LinuxSecurity,"RedHat: RHSA-2023-1468:01 Important: kernel security, bug fix,",https://www.linuxsecurity.com/advisories/red-hat/redhat-rhsa-2023-1468-01-important-kernel-security-bug-fix-emdqbcnfir4v?rss,https://da.gd/WT46
+LinuxSecurity,RedHat: RHSA-2023-1472:01 Important: thunderbird security update,https://www.linuxsecurity.com/advisories/red-hat/redhat-rhsa-2023-1472-01-important-thunderbird-security-update-4dzvkmmjiu8m?rss,https://da.gd/EhSe
+LinuxSecurity,RedHat: RHSA-2023-1467:01 Important: kernel-rt,https://www.linuxsecurity.com/advisories/red-hat/redhat-rhsa-2023-1467-01-important-kernel-rt-ukx7xognicyg?rss,https://da.gd/NoTL
+LinuxSecurity,RedHat: RHSA-2023-1466:01 Important: kpatch-patch security update,https://www.linuxsecurity.com/advisories/red-hat/redhat-rhsa-2023-1466-01-important-kpatch-patch-security-update-b2f45fn3w19q?rss,https://da.gd/MtZS
+LinuxSecurity,RedHat: RHSA-2023-1471:01 Important: kpatch-patch security update,https://www.linuxsecurity.com/advisories/red-hat/redhat-rhsa-2023-1471-01-important-kpatch-patch-security-update-oqyonvwyvw48?rss,https://da.gd/UYr6U8
