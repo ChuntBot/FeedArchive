@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gpqq-59rp-3c3w] Apache InLong vulnerable to JDBC Deserialization of Untrusted Data,https://github.com/advisories/GHSA-gpqq-59rp-3c3w,https://da.gd/nrDzU
+GithubAdvisories,[GHSA-8648-h559-8h42] Fluid Components TYPO3 extension vulnerable to Cross-Site Scripting,https://github.com/advisories/GHSA-8648-h559-8h42,https://da.gd/LjJx8
