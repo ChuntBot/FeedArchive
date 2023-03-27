@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Update dependency composer/composer to v2.5.5,https://github.com/mailcow/mailcow-dockerized/commit/e808e595eb4864c5beed87b3519195f1be1ad7e4,https://da.gd/LWz7
+GithubCommitStaging,Install sysvsem for Nextcloud 26,https://github.com/mailcow/mailcow-dockerized/commit/db2fb12837d95660680fc9eb5e84b22991abd161,https://da.gd/4rxV
+GithubCommitStaging,Update dependency nextcloud/server to v26,https://github.com/mailcow/mailcow-dockerized/commit/22cd12f37b28e2906839b9b6a596c28944e6d902,https://da.gd/F8Dz
+GithubCommitStaging,Merge pull request #5142 from mailcow/renovate/nextcloud-server-26.x,https://github.com/mailcow/mailcow-dockerized/commit/d11f00261b17d14aa0ae8236d9f7a72f233da580,https://da.gd/tl5zV
+GithubCommitStaging,Merge pull request #5099 from mailcow/feat/phpfpm-8.2,https://github.com/mailcow/mailcow-dockerized/commit/f7798d1aaccbeef26e59ac5e720358b2e1005f7b,https://da.gd/QfHiwO
