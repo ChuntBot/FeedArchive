@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8fww-64cx-x8p5] redis-py Race Condition due to incomplete fix,https://github.com/advisories/GHSA-8fww-64cx-x8p5,https://da.gd/kUJsy
+GithubAdvisories,[GHSA-24wv-mv5m-xv4h] redis-py Race Condition vulnerability,https://github.com/advisories/GHSA-24wv-mv5m-xv4h,https://da.gd/aIBZr
+GithubAdvisories,[GHSA-p4qx-6w5p-4rj2] GraphQL Java vulnerable to stack consumption,https://github.com/advisories/GHSA-p4qx-6w5p-4rj2,https://da.gd/O07O
+GithubAdvisories,[GHSA-2w9p-xf5h-qwj3] pullit Command Injection vulnerability,https://github.com/advisories/GHSA-2w9p-xf5h-qwj3,https://da.gd/P4p8
+GithubAdvisories,[GHSA-wvc4-j7g5-4f79] NATS TLS certificate common name validation bypass,https://github.com/advisories/GHSA-wvc4-j7g5-4f79,https://da.gd/XiD8dO
