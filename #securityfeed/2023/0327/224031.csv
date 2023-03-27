@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qwqv-rqgf-8qh8] Podman Time-of-check Time-of-use (TOCTOU) Race Condition,https://github.com/advisories/GHSA-qwqv-rqgf-8qh8,https://da.gd/9rOJ
+GithubAdvisories,[GHSA-cp4w-6x4w-v2h5] lambdaisland/uri `authority-regex` returns the wrong authority,https://github.com/advisories/GHSA-cp4w-6x4w-v2h5,https://da.gd/rNZYO
+GithubAdvisories,[GHSA-838x-pcvx-6p5w] Snappier vulnerable to buffer overrun due to improper restriction of operations within the bounds of a memory buffer,https://github.com/advisories/GHSA-838x-pcvx-6p5w,https://da.gd/Dk3uo
+GithubAdvisories,[GHSA-m6f8-hjrv-mw5f] Apiman vulnerable to permissions bypass due to missing check on API key URL,https://github.com/advisories/GHSA-m6f8-hjrv-mw5f,https://da.gd/UYpuZ
+GithubAdvisories,[GHSA-7phr-6cc9-4m5q] Grafana Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-7phr-6cc9-4m5q,https://da.gd/90CVi
