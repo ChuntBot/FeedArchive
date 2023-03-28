@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+ExploitDB,[dos] Tunnel Interface Driver - Denial of Service,https://www.exploit-db.com/exploits/51114,https://da.gd/Ha5y
+ExploitDB,[webapps] OPSWAT Metadefender Core - Privilege Escalation,https://www.exploit-db.com/exploits/51113,https://da.gd/2mbY7
+ExploitDB,[webapps] ZKTeco ZEM/ZMM 8.88 - Missing Authentication,https://www.exploit-db.com/exploits/51112,https://da.gd/daVlz
+ExploitDB,[remote] X-Skipper-Proxy v0.13.237 - Server Side Request Forgery (SSRF),https://www.exploit-db.com/exploits/51111,https://da.gd/l7E2KX
+ExploitDB,[webapps] Subrion CMS 4.2.1 - Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/51110,https://da.gd/OjIwhL
+ExploitDB,[webapps] Label Studio 1.5.0 - Authenticated Server Side Request Forgery (SSRF),https://www.exploit-db.com/exploits/51109,https://da.gd/CDFezj
+ExploitDB,[webapps] BoxBilling<=4.22.1.5 - Remote Code Execution (RCE),https://www.exploit-db.com/exploits/51108,https://da.gd/AYdKw6
+ExploitDB,[remote] Tapo C310 RTSP server v1.3.0 - Unauthorised Video Stream Access,https://www.exploit-db.com/exploits/51107,https://da.gd/BWMt
+ExploitDB,[local] SugarSync 4.1.3 - 'SugarSync Service' Unquoted Service Path,https://www.exploit-db.com/exploits/51106,https://da.gd/PenZ
