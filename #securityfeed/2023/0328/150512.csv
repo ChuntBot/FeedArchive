@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5r3x-p7xx-x6q5] Comrak AST node data is not validated (GHSL-2023-049),https://github.com/advisories/GHSA-5r3x-p7xx-x6q5,https://da.gd/4hFvv
+GithubAdvisories,[GHSA-xxmq-4vph-956w] Comrak vulnerable to production of excessive output when parsing Markdown (GHSL-2023-048),https://github.com/advisories/GHSA-xxmq-4vph-956w,https://da.gd/eNb4
+GithubAdvisories,[GHSA-8hqf-xjwp-p67v] Comrak vulnerable to quadratic runtime issues when parsing Markdown (GHSL-2023-047),https://github.com/advisories/GHSA-8hqf-xjwp-p67v,https://da.gd/b429a7
