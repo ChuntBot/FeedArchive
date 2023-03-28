@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7phw-cxx7-q9vq] Spring Framework is vulnerable to security bypass via mvcRequestMatcher pattern mismatch,https://github.com/advisories/GHSA-7phw-cxx7-q9vq,https://da.gd/si52N
