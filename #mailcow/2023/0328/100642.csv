@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Update mailcow/rspamd Docker tag to v1.93,https://github.com/mailcow/mailcow-dockerized/commit/9fd4aa93e9136f88a68f97f7ed6d55265f4c9450,https://da.gd/TScFC
+GithubCommitStaging,Fixed broken pipe errors in nextcloud.sh,https://github.com/mailcow/mailcow-dockerized/commit/4cd5f93cdfbced2627d3445775965a322599fb9b,https://da.gd/Hme9sg
+GithubCommitStaging,[Nextcloud] Changed default X-Robots Tag behavior,https://github.com/mailcow/mailcow-dockerized/commit/4336a99c6a3dbdb94195915f5949949dd8450f86,https://da.gd/KJg4e5
+GithubCommitStaging,Merge pull request #5139 from mailcow/renovate/mailcow-rspamd-1.x,https://github.com/mailcow/mailcow-dockerized/commit/535dd23509f37b6d3bc82fbc86ecc01847643e11,https://da.gd/EjS7uy
