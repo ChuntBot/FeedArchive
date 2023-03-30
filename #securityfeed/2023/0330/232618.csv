@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6wj2-g87r-pm62] Cross-site Scripting in comrak,https://github.com/advisories/GHSA-6wj2-g87r-pm62,https://da.gd/VgAof6
+GithubAdvisories,[GHSA-p9gf-gmfv-398m] Double free in slice-deque,https://github.com/advisories/GHSA-p9gf-gmfv-398m,https://da.gd/mVzWd4
+GithubAdvisories,[GHSA-m875-3xf6-mf78] unpoly-rails Denial of Service vulnerability,https://github.com/advisories/GHSA-m875-3xf6-mf78,https://da.gd/INIFkk
