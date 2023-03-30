@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2wxv-3g4v-p76p] phpSysInfo allows remote attackers to determine the existence of arbitrary files via a .. (dot dot) sequence,https://github.com/advisories/GHSA-2wxv-3g4v-p76p,https://da.gd/as5b7
+GithubAdvisories,[GHSA-v3hp-mcj5-pg39] HashiCorp Vault’s Microsoft SQL Database Storage Backend Vulnerable to SQL Injection Via Configuration File,https://github.com/advisories/GHSA-v3hp-mcj5-pg39,https://da.gd/ZI1AK
