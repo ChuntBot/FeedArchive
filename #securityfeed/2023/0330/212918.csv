@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-69fc-v223-6rjw] Pimcore Cross-site scripting in Predefined Asset Metadata module in Settings,https://github.com/advisories/GHSA-69fc-v223-6rjw,https://da.gd/TDbC5Y
+GithubAdvisories,[GHSA-6mmf-qm37-pmgg] Pimcore vulnerable to Reflected XSS in Predefined Properties module in Settings,https://github.com/advisories/GHSA-6mmf-qm37-pmgg,https://da.gd/zKdQ
