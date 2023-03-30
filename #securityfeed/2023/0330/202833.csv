@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rp78-4562-gx3c] pimcore is vulnerable to cross-site scripting in translate module,https://github.com/advisories/GHSA-rp78-4562-gx3c,https://da.gd/d4u8cg
+GithubAdvisories,[GHSA-3r5c-h7g6-cqw7] pimcore is vulnerable to cross-site scripting in classes module,https://github.com/advisories/GHSA-3r5c-h7g6-cqw7,https://da.gd/sRKs6
+GithubAdvisories,[GHSA-g2j6-57v7-gm8c] runc AppArmor bypass with symlinked /proc,https://github.com/advisories/GHSA-g2j6-57v7-gm8c,https://da.gd/H6iW
+GithubAdvisories,[GHSA-mwq8-fjpf-c2gr] Prototype pollution in matrix-js-sdk (part 2),https://github.com/advisories/GHSA-mwq8-fjpf-c2gr,https://da.gd/kWPwE
+GithubAdvisories,[GHSA-2wcr-87wf-cf9j] Kiwi TCMS Stored Cross-site Scripting via SVG file,https://github.com/advisories/GHSA-2wcr-87wf-cf9j,https://da.gd/aXujD
+GithubAdvisories,[GHSA-m8cg-xc2p-r3fc] rootless: `/sys/fs/cgroup` is writable when cgroupns isn't unshared in runc,https://github.com/advisories/GHSA-m8cg-xc2p-r3fc,https://da.gd/Tp3E
+GithubAdvisories,[GHSA-7x45-phmr-9wqp] Arbitrary file write in mindsdb when Extracting Tarballs retrieved from a remote location,https://github.com/advisories/GHSA-7x45-phmr-9wqp,https://da.gd/Z6oBf
