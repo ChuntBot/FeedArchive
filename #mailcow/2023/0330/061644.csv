@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubCommitStaging,delete vmail_index when mbox is deleted,https://github.com/mailcow/mailcow-dockerized/commit/4021613059694356d1a5659c3ba0dc6759b35881,https://da.gd/5jaS
+GithubCommitStaging,increase dockerapi image,https://github.com/mailcow/mailcow-dockerized/commit/26c34b484a87e3690451567ab97cf096f4c8f4fd,https://da.gd/ZQrj
+GithubCommitStaging,"verify options after loading them, set defaults if options are missin…",https://github.com/mailcow/mailcow-dockerized/commit/e010f0814321cafe65be6c0e932df2fb99a2dd68,https://da.gd/YhTB2g
+GithubCommitStaging,Push verified options to redis after each check,https://github.com/mailcow/mailcow-dockerized/commit/096e2a41e96c981bccf4629d0df4803d5f756481,https://da.gd/a6Fiyo
+GithubCommitStaging,Merge pull request #5153 from mailcow/fix/del-vmail-index,https://github.com/mailcow/mailcow-dockerized/commit/e367a8ce2419ccb15e021c677b6fe46bb7e79b30,https://da.gd/orHxZ4
+GithubCommitStaging,Merge pull request #5127 from th-joerger/feature/bantime-increment,https://github.com/mailcow/mailcow-dockerized/commit/fd0205aafd1e154f4b50f0edfae28ae3630a17d7,https://da.gd/WtWeUg
