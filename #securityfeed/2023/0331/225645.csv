@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-58g2-vgpg-335q] request-baskets vulnerable to Server-Side Request Forgery,https://github.com/advisories/GHSA-58g2-vgpg-335q,https://da.gd/5Inr
+GithubAdvisories,[GHSA-wg4w-5m5r-w3p8] OpenAPI Generator vulnerable to Server-Side Request Forgery,https://github.com/advisories/GHSA-wg4w-5m5r-w3p8,https://da.gd/fMepI
+GithubAdvisories,[GHSA-5x5q-8cgm-2hjq] Karate has vulnerable dependency on json-smart package (CVE-2023-1370),https://github.com/advisories/GHSA-5x5q-8cgm-2hjq,https://da.gd/KuElFs
+GithubAdvisories,[GHSA-hv5j-3h9f-99c2] Ruby URI component ReDoS issue,https://github.com/advisories/GHSA-hv5j-3h9f-99c2,https://da.gd/TNMt0
+GithubAdvisories,[GHSA-fg7x-g82r-94qc] Ruby Time component ReDos issue,https://github.com/advisories/GHSA-fg7x-g82r-94qc,https://da.gd/Hz5oU
+GithubAdvisories,[GHSA-h855-6hph-v363] Hippo4j allows attacker to obtain sensitive info via ConfigVerifyController function of Tenant Management module,https://github.com/advisories/GHSA-h855-6hph-v363,https://da.gd/bTP3W0
+GithubAdvisories,[GHSA-gvg8-r8w2-9gfj] phpMyFAQ Improper Input Validation vulnerability,https://github.com/advisories/GHSA-gvg8-r8w2-9gfj,https://da.gd/1tVh7
+GithubAdvisories,[GHSA-4p4m-5qp7-479x] phpMyFAQ has Weak Password Requirements,https://github.com/advisories/GHSA-4p4m-5qp7-479x,https://da.gd/kzA3F
+GithubAdvisories,[GHSA-hp8m-g55r-9cfq] phpMyFAQ Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-hp8m-g55r-9cfq,https://da.gd/R9wTAF
+GithubAdvisories,[GHSA-4wfc-ghv5-2v7j] phpMyFAQ Stored Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-4wfc-ghv5-2v7j,https://da.gd/BjsTc5
+GithubAdvisories,[GHSA-7q9c-f2v8-j8gw] phpMyFAQ Stored Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-7q9c-f2v8-j8gw,https://da.gd/bm7cJ6
+GithubAdvisories,[GHSA-6cpg-gqgq-2rrr] phpMyFAQ Code Injection vulnerability,https://github.com/advisories/GHSA-6cpg-gqgq-2rrr,https://da.gd/8l8RE
