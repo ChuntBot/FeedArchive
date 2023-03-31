@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hfmg-g39c-5444] pimcore is vulnerable to cross-site scripting in translate module,https://github.com/advisories/GHSA-hfmg-g39c-5444,https://da.gd/M0Au7C
