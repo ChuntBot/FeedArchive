@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8v4j-7jgf-5rg9] Warp vulnerable to Path Traversal via Improper validation of Windows paths,https://github.com/advisories/GHSA-8v4j-7jgf-5rg9,https://da.gd/9aU0cq
