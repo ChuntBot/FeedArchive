@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9xjr-m6f3-v5wm] HTTPS MitM vulnerability due to lack of hostname verification,https://github.com/advisories/GHSA-9xjr-m6f3-v5wm,https://da.gd/6UpFib
+GithubAdvisories,[GHSA-9pp4-8p8v-g78w] Data races in lever,https://github.com/advisories/GHSA-9pp4-8p8v-g78w,https://da.gd/8oyrI4
+GithubAdvisories,[GHSA-9cp3-fh5x-xfcj] Regular Expression Denial of Service in charset,https://github.com/advisories/GHSA-9cp3-fh5x-xfcj,https://da.gd/GbXQ8
+GithubAdvisories,[GHSA-9c2p-jw8p-f84v] SQL Injection in sequelize,https://github.com/advisories/GHSA-9c2p-jw8p-f84v,https://da.gd/gXTt3
