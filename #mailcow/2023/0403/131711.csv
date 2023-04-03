@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,Update dependency nextcloud/server to v26,https://github.com/mailcow/mailcow-dockerized/commit/22cd12f37b28e2906839b9b6a596c28944e6d902,https://da.gd/F8Dz
+GithubCommit,Merge pull request #5142 from mailcow/renovate/nextcloud-server-26.x,https://github.com/mailcow/mailcow-dockerized/commit/d11f00261b17d14aa0ae8236d9f7a72f233da580,https://da.gd/tl5zV
+GithubCommit,Merge pull request #5099 from mailcow/feat/phpfpm-8.2,https://github.com/mailcow/mailcow-dockerized/commit/f7798d1aaccbeef26e59ac5e720358b2e1005f7b,https://da.gd/QfHiwO
+GithubCommit,Merge pull request #5138 from th-joerger/feature/pubsub-exception,https://github.com/mailcow/mailcow-dockerized/commit/e891bf8411ef1a39c5546a214dd967fa93628719,https://da.gd/JTJmB
+GithubCommit,delete vmail_index when mbox is deleted,https://github.com/mailcow/mailcow-dockerized/commit/4021613059694356d1a5659c3ba0dc6759b35881,https://da.gd/5jaS
+GithubCommit,increase dockerapi image,https://github.com/mailcow/mailcow-dockerized/commit/26c34b484a87e3690451567ab97cf096f4c8f4fd,https://da.gd/ZQrj
+GithubCommit,Fix broken pipe error in reset-admin.sh,https://github.com/mailcow/mailcow-dockerized/commit/67955779b03ee807a9cd3463159c774e7c89c4db,https://da.gd/Bb2zw3
+GithubCommit,Fixed broken pipe errors in nextcloud.sh,https://github.com/mailcow/mailcow-dockerized/commit/4cd5f93cdfbced2627d3445775965a322599fb9b,https://da.gd/Hme9sg
+GithubCommit,[Nextcloud] Changed default X-Robots Tag behavior,https://github.com/mailcow/mailcow-dockerized/commit/4336a99c6a3dbdb94195915f5949949dd8450f86,https://da.gd/KJg4e5
+GithubCommit,Merge pull request #5139 from mailcow/renovate/mailcow-rspamd-1.x,https://github.com/mailcow/mailcow-dockerized/commit/535dd23509f37b6d3bc82fbc86ecc01847643e11,https://da.gd/EjS7uy
+GithubCommit,Merge pull request #5093 from brunoleon/fix_snat,https://github.com/mailcow/mailcow-dockerized/commit/3d2483ca379ec053bb83483533e853125fd1fd94,https://da.gd/gyvMK9
+GithubCommit,"verify options after loading them, set defaults if options are missin…",https://github.com/mailcow/mailcow-dockerized/commit/e010f0814321cafe65be6c0e932df2fb99a2dd68,https://da.gd/YhTB2g
+GithubCommit,Push verified options to redis after each check,https://github.com/mailcow/mailcow-dockerized/commit/096e2a41e96c981bccf4629d0df4803d5f756481,https://da.gd/a6Fiyo
+GithubCommit,Merge pull request #5153 from mailcow/fix/del-vmail-index,https://github.com/mailcow/mailcow-dockerized/commit/e367a8ce2419ccb15e021c677b6fe46bb7e79b30,https://da.gd/orHxZ4
+GithubCommit,Merge pull request #5127 from th-joerger/feature/bantime-increment,https://github.com/mailcow/mailcow-dockerized/commit/fd0205aafd1e154f4b50f0edfae28ae3630a17d7,https://da.gd/WtWeUg
+GithubCommit,[Netfilter] Update to 1.52,https://github.com/mailcow/mailcow-dockerized/commit/400939faf676af0c08940402d62339f173d1f17c,https://da.gd/dNZmWE
+GithubCommit,Merge pull request #5157 from mailcow/feat/netfilter-1.52,https://github.com/mailcow/mailcow-dockerized/commit/ae46a877d3405db32822d196ef8d075c6f77f199,https://da.gd/5CT9u
+GithubCommit,[SOGo] Update to 5.8.2,https://github.com/mailcow/mailcow-dockerized/commit/f53ca24bb08ecd11188b4943d774816859aab0cc,https://da.gd/deX49p
+GithubCommit,Merge pull request #5158 from mailcow/feat/sogo-5.8.2,https://github.com/mailcow/mailcow-dockerized/commit/0194c39bd5a6c01d6ab11fb371b8a735feb6d908,https://da.gd/NrwX
+GithubCommit,Merge pull request #5162 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/028ef22878d1f947bb09f80fe9124fae77dae8f6,https://da.gd/ryMNG
