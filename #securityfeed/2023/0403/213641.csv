@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c9rv-3jmq-527w] Unexpected panic when decoding tokens in branca,https://github.com/advisories/GHSA-c9rv-3jmq-527w,https://da.gd/0y99mc
