@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+PacketstormSecurity,GNUnet P2P Framework 0.19.4,https://packetstormsecurity.com/files/171669/gnunet-0.19.4.tar.gz,https://da.gd/DFaK4l
+PacketstormSecurity,Red Hat Security Advisory 2023-1533-01,https://packetstormsecurity.com/files/171666/RHSA-2023-1533-01.txt,https://da.gd/956jhQ
+PacketstormSecurity,ChatGPT Cross Site Scripting,https://packetstormsecurity.com/files/171665/chatgpt-xss.txt,https://da.gd/stYl44
+PacketstormSecurity,Red Hat Security Advisory 2023-1516-01,https://packetstormsecurity.com/files/171664/RHSA-2023-1516-01.txt,https://da.gd/E9tEFA
+PacketstormSecurity,WordPress Accessibility Help Button 1.1 Cross Site Scripting,https://packetstormsecurity.com/files/171663/wpah11-xss.txt,https://da.gd/p8douM
+PacketstormSecurity,Online Pizza Ordering 1.0 Shell Upload,https://packetstormsecurity.com/files/171662/opo10-shell.txt,https://da.gd/GQzbOj
+PacketstormSecurity,WordPress Paid Memberships Pro 2.9.8 SQL Injection,https://packetstormsecurity.com/files/171661/wppaidmembershipspro298-sql.txt,https://da.gd/zgoIA
+PacketstormSecurity,GLPI Cartography Shell Upload,https://packetstormsecurity.com/files/171660/glpicartography600-shell.txt,https://da.gd/lzYcs0
+PacketstormSecurity,GLPI 10.0.2 SQL Injection / Remote Code Execution,https://packetstormsecurity.com/files/171656/glpi1002-sqlexec.txt,https://da.gd/tRJS
+PacketstormSecurity,GLPI Activity Local File Inclusion,https://packetstormsecurity.com/files/171655/glpiactivity310-lfi.txt,https://da.gd/3oGXPN
+PacketstormSecurity,GLPI Glpiinventory 1.0.1 Local File Inclusion,https://packetstormsecurity.com/files/171654/glpiinventory101-lfi.txt,https://da.gd/DNXnQ
+PacketstormSecurity,GLPI Manageentities Local File Inclusion,https://packetstormsecurity.com/files/171653/glpime402-lfi.txt,https://da.gd/i4QEjN
+PacketstormSecurity,Roxy WI 6.1.1.0 Remote Code Execution,https://packetstormsecurity.com/files/171652/roxywi6110-exec.txt,https://da.gd/8oSCc
+PacketstormSecurity,Roxy WI 6.1.0.0 Remote Code Execution,https://packetstormsecurity.com/files/171651/roxywi6100-exec.txt,https://da.gd/XqUse
+PacketstormSecurity,WordPress File Manager 6.9 Shell Upload,https://packetstormsecurity.com/files/171650/wpfilemanager69-shell.txt,https://da.gd/SgtQ8
+PacketstormSecurity,Sleuthkit 4.11.1 Command Injection,https://packetstormsecurity.com/files/171649/sleuthkit4111-exec.txt,https://da.gd/1YobU
+PacketstormSecurity,Roxy WI 6.1.0.0 Improper Authentication Control,https://packetstormsecurity.com/files/171648/roxywi6100-improperauth.txt,https://da.gd/8jfX6
+PacketstormSecurity,SQL Monitor 12.1.31.893 Cross Site Scripting,https://packetstormsecurity.com/files/171647/sqlmonitor12131893-xss.txt,https://da.gd/dPs46Q
+PacketstormSecurity,Grand Theft Auto III Vice City Skin File 1.1 Buffer Overflow,https://packetstormsecurity.com/files/171646/gta3vcsf11-overflow.txt,https://da.gd/LJHgk
+PacketstormSecurity,ManageEngine Access Manager Plus 4.3.0 Path Traversal,https://packetstormsecurity.com/files/171645/manageengineamp430-traversal.txt,https://da.gd/9BP3m
+PacketstormSecurity,sudo 1.9.12p1 Privilege Escalation,https://packetstormsecurity.com/files/171644/sudo1912p1-escalate.txt,https://da.gd/vzxzr
