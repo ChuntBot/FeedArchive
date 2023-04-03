@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Add a check for PHP>=8.2 errormsg,https://github.com/mailcow/mailcow-dockerized/commit/b68e189d9791de27ed81deaae6abd8462c5d57b4,https://da.gd/ATYR9
+GithubCommitStaging,Merge pull request #5164 from mailcow/fix-5163,https://github.com/mailcow/mailcow-dockerized/commit/469f959e968599dfd5fe8ef9b6f63906b1a49fa1,https://da.gd/mQSXt6
