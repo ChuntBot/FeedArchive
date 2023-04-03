@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5286-f2rf-35c2] Wagtail vulnerable to stored Cross-site Scripting attack via ModelAdmin views,https://github.com/advisories/GHSA-5286-f2rf-35c2,https://da.gd/0pyz
+GithubAdvisories,[GHSA-jc97-h3h9-7xh6] Regular Expression Denial of Service in Deno.upgradeWebSocket API,https://github.com/advisories/GHSA-jc97-h3h9-7xh6,https://da.gd/W7hD2Q
