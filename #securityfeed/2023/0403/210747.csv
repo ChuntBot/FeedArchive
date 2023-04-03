@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-38h6-gmr2-j4wx] Silverstripe Form Capture vulnerable to stored cross-site-scripting,https://github.com/advisories/GHSA-38h6-gmr2-j4wx,https://da.gd/DGiraz
