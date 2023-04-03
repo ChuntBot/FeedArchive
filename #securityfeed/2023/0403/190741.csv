@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fq8q-55v3-2986] Pimcore Perspective Editor vulnerable to stored cross-site scripting (XSS) in perspective name,https://github.com/advisories/GHSA-fq8q-55v3-2986,https://da.gd/4WN64D
