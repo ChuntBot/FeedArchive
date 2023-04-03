@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w4g6-8xqp-g92m] Jenkins Phabricator Differential Plugin vulnerable to XML external entity (XXE) attacks,https://github.com/advisories/GHSA-w4g6-8xqp-g92m,https://da.gd/fFIjZ3
+GithubAdvisories,[GHSA-qgm7-m77f-j8pf] Jenkins Performance Publisher Plugin vulnerable to XML external entity (XXE) attacks,https://github.com/advisories/GHSA-qgm7-m77f-j8pf,https://da.gd/GSbr
+GithubAdvisories,[GHSA-vq5h-qgxm-2m39] Jenkins Crap4J Plugin vulnerable to XML external entity (XXE) attacks,https://github.com/advisories/GHSA-vq5h-qgxm-2m39,https://da.gd/94x0dm
+GithubAdvisories,[GHSA-436g-2f92-cvhh] Jenkins Role-based Authorization Strategy Plugin grants permissions even after they’ve been disabled,https://github.com/advisories/GHSA-436g-2f92-cvhh,https://da.gd/wV0V4
+GithubAdvisories,[GHSA-v27q-87jf-j9cr] Jenkins Pipeline Aggregator View Plugin vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-v27q-87jf-j9cr,https://da.gd/N0LEu
+GithubAdvisories,[GHSA-xj29-gfww-j67g] Jenkins JaCoCo Plugin vulnerable to Stored Cross-site Scripting,https://github.com/advisories/GHSA-xj29-gfww-j67g,https://da.gd/kYAQ1
+GithubAdvisories,[GHSA-wq3w-3rxh-vcxx] Jenkins OctoPerf Load Testing Plugin vulnerable to Cross-site Request Forgery,https://github.com/advisories/GHSA-wq3w-3rxh-vcxx,https://da.gd/90TTw
+GithubAdvisories,[GHSA-j9h4-p6p7-8652] Jenkins OctoPerf Load Testing Plugin vulnerable to credential capture,https://github.com/advisories/GHSA-j9h4-p6p7-8652,https://da.gd/xoZDo
+GithubAdvisories,[GHSA-x263-hp5c-p2rj] Jenkins OctoPerf Load Testing Plugin vulnerable to Cross-site Request Forgery,https://github.com/advisories/GHSA-x263-hp5c-p2rj,https://da.gd/9dUj
+GithubAdvisories,[GHSA-8j88-2hfc-5rf3] Jenkins Visual Studio Code Metrics Plugin vulnerable to XML external entity (XXE) attacks,https://github.com/advisories/GHSA-8j88-2hfc-5rf3,https://da.gd/aHemk
+GithubAdvisories,[GHSA-w7r6-v4j7-h94w] Apache James server's JMX management service vulnerable to privilege escalation by local user,https://github.com/advisories/GHSA-w7r6-v4j7-h94w,https://da.gd/uUQltV
+GithubAdvisories,[GHSA-2qv5-7mw5-j3cg] spin-rs initialisation failure in `Once::try_call_once` can lead to undefined behaviour for other initialisers,https://github.com/advisories/GHSA-2qv5-7mw5-j3cg,https://da.gd/4ZYXT
+GithubAdvisories,[GHSA-f9vc-q3hh-qhfv] Content Injection in remarkable,https://github.com/advisories/GHSA-f9vc-q3hh-qhfv,https://da.gd/eXow
