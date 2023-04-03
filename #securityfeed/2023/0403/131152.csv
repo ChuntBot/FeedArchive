@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2vrf-hf26-jrp5] angular vulnerable to regular expression denial of service via the angular.copy() utility,https://github.com/advisories/GHSA-2vrf-hf26-jrp5,https://da.gd/taeHQu
+GithubAdvisories,[GHSA-2qqx-w9hr-q5gx] angular vulnerable to regular expression denial of service via the $resource service,https://github.com/advisories/GHSA-2qqx-w9hr-q5gx,https://da.gd/WbIT
+GithubAdvisories,[GHSA-qwqh-hm9m-p5hr] angular vulnerable to regular expression denial of service via the element,https://github.com/advisories/GHSA-qwqh-hm9m-p5hr,https://da.gd/Nmgti
