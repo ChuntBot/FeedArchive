@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4f25-2x2c-vg6v] pimcore is vulnerable to cross-site scripting in Composite indices key field,https://github.com/advisories/GHSA-4f25-2x2c-vg6v,https://da.gd/uJmKz
