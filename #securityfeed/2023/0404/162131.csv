@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j927-269r-96xw] Jenkins Cppcheck Plugin vulnerable to stored cross-site scripting (XSS),https://github.com/advisories/GHSA-j927-269r-96xw,https://da.gd/63Ss
