@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-232p-vwff-86mp] moby/moby's dockerd daemon encrypted overlay network may be unauthenticated,https://github.com/advisories/GHSA-232p-vwff-86mp,https://da.gd/5v45AX
+GithubAdvisories,[GHSA-33pg-m6jh-5237] moby/moby's dockerd daemon encrypted overlay network traffic may be unencrypted,https://github.com/advisories/GHSA-33pg-m6jh-5237,https://da.gd/Bw0MBi
+GithubAdvisories,[GHSA-6wrf-mxfj-pf5p] moby/moby's dockerd daemon encrypted overlay network with a single endpoint is unauthenticated,https://github.com/advisories/GHSA-6wrf-mxfj-pf5p,https://da.gd/5EK1wl
