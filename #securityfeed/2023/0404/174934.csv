@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3r48-3m8r-4r9w] Apache OpenMeetings missing authentication and can allow user impersonation,https://github.com/advisories/GHSA-3r48-3m8r-4r9w,https://da.gd/uJfbbO
+GithubAdvisories,[GHSA-mjg3-2v66-p34j] Jenkins OctoPerf Load Testing Plugin missing permission check allows for ID enumeration,https://github.com/advisories/GHSA-mjg3-2v66-p34j,https://da.gd/t3Ig
