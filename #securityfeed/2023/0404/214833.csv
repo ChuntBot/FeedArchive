@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gv73-9mwv-fwgq] Out of bounds write in prost,https://github.com/advisories/GHSA-gv73-9mwv-fwgq,https://da.gd/GsxCVX
+GithubAdvisories,[GHSA-c33w-24p9-8m24] configobj ReDoS exploitable by developer using values in a server-side configuration file,https://github.com/advisories/GHSA-c33w-24p9-8m24,https://da.gd/BdTqz
+GithubAdvisories,[GHSA-5p84-mmh9-pxgr] Pandao Editor.md vulnerable to cross-site scripting (XSS) in editor parameter,https://github.com/advisories/GHSA-5p84-mmh9-pxgr,https://da.gd/tqP7J
+GithubAdvisories,[GHSA-w974-rq9x-mh3v] Pandao Editor.md vulnerable to cross-site scripting (XSS) in iframe src parameter,https://github.com/advisories/GHSA-w974-rq9x-mh3v,https://da.gd/PT4Bd
+GithubAdvisories,[GHSA-hx8p-9m48-g76r] Ming-Soft MCMS vulnerable to SQL injection,https://github.com/advisories/GHSA-hx8p-9m48-g76r,https://da.gd/XjxP1
+GithubAdvisories,[GHSA-5p75-vc5g-8rv2] SvelteKit vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-5p75-vc5g-8rv2,https://da.gd/gZyut
