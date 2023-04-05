@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c4jr-vjm4-27hq] Veracode Scan Jenkins Plugin vulnerable to information disclosure,https://github.com/advisories/GHSA-c4jr-vjm4-27hq,https://da.gd/DIlGt
+GithubAdvisories,[GHSA-h9x2-5rm7-x4gm] Insecure Comparison in secure-compare,https://github.com/advisories/GHSA-h9x2-5rm7-x4gm,https://da.gd/63rLYR
+GithubAdvisories,[GHSA-fprp-p869-w6q2] LangChain vulnerable to code injection,https://github.com/advisories/GHSA-fprp-p869-w6q2,https://da.gd/L2gC
+GithubAdvisories,[GHSA-qf34-f43r-gv9p] Apache Archiva vulnerable to privilege escalation via stored cross-site scripting (XSS),https://github.com/advisories/GHSA-qf34-f43r-gv9p,https://da.gd/biwQTk
+GithubAdvisories,[GHSA-f7rp-xx67-4pj9] Phachon mm-wiki vulnerable to stored cross-site scripting (XSS),https://github.com/advisories/GHSA-f7rp-xx67-4pj9,https://da.gd/ISuNcO
