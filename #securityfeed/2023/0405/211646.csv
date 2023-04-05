@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-32qq-m9fh-f74w] MyBatis-Plus vulnerable to SQL injection via TenantPlugin,https://github.com/advisories/GHSA-32qq-m9fh-f74w,https://da.gd/0BqVQx
