@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qghr-877h-f9jh] markdown-pdf vulnerable to local file read via server side cross-site scripting (XSS),https://github.com/advisories/GHSA-qghr-877h-f9jh,https://da.gd/1ja5
