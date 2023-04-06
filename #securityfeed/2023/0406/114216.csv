@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+ExploitDB,[remote] Osprey Pump Controller 1.0.1 - (userName) Blind Command Injection,https://www.exploit-db.com/exploits/51301,https://da.gd/9KCC5
+ExploitDB,[remote] Osprey Pump Controller 1.0.1 - (pseudonym) Semi-blind Command Injection,https://www.exploit-db.com/exploits/51300,https://da.gd/U27k
+ExploitDB,[remote] Osprey Pump Controller 1.0.1 - Administrator Backdoor Access,https://www.exploit-db.com/exploits/51299,https://da.gd/Y0aGs
+ExploitDB,[remote] Osprey Pump Controller 1.0.1 - Unauthenticated File Disclosure,https://www.exploit-db.com/exploits/51298,https://da.gd/c7mmJT
+ExploitDB,[remote] Osprey Pump Controller 1.0.1 - Predictable Session Token / Session Hijack,https://www.exploit-db.com/exploits/51297,https://da.gd/jcqMQ
+ExploitDB,[webapps] ChurchCRM v4.5.3-121fcc1 - SQL Injection,https://www.exploit-db.com/exploits/51296,https://da.gd/yFOlm
+ExploitDB,[webapps] flatnux 2021-03.25 - Remote Code Execution (Authenticated),https://www.exploit-db.com/exploits/51295,https://da.gd/3VwxGC
+ExploitDB,"[remote] ABUS Security Camera TVIP 20000-21150 - LFI, RCE and SSH Root Access",https://www.exploit-db.com/exploits/51294,https://da.gd/r02Rl
+ExploitDB,[local] pdfkit v0.8.7.2 - Command Injection,https://www.exploit-db.com/exploits/51293,https://da.gd/syzni
+ExploitDB,[webapps] Simple Food Ordering System v1.0 - Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/51292,https://da.gd/mVSR
+ExploitDB,[webapps] Music Gallery Site v1.0 - SQL Injection on page Master.php,https://www.exploit-db.com/exploits/51291,https://da.gd/PSpwJ
+ExploitDB,[webapps] Music Gallery Site v1.0 - SQL Injection on page view_music_details.php,https://www.exploit-db.com/exploits/51290,https://da.gd/jVO3qI
+ExploitDB,[webapps] Music Gallery Site v1.0 - Broken Access Control,https://www.exploit-db.com/exploits/51289,https://da.gd/2y8WE5
+ExploitDB,[webapps] Music Gallery Site v1.0 - SQL Injection on music_list.php,https://www.exploit-db.com/exploits/51288,https://da.gd/RdePLr
+ExploitDB,[webapps] Employee Task Management System v1.0 - SQL Injection on edit-task.php,https://www.exploit-db.com/exploits/51287,https://da.gd/tNc6
