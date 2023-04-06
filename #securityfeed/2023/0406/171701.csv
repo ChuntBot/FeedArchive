@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f8r8-h93m-mj77] HashiCorp Nomad vulnerable to unauthenticated client agent HTTP request privilege escalation,https://github.com/advisories/GHSA-f8r8-h93m-mj77,https://da.gd/f1JeB
+GithubAdvisories,[GHSA-gx43-fqrx-6fcw] thorsten/phpmyfaq vulnerable to business logic errors,https://github.com/advisories/GHSA-gx43-fqrx-6fcw,https://da.gd/jjo4
+GithubAdvisories,[GHSA-4cr4-x82x-hwm9] thorsten/phpmyfaq vulnerable to authentication bypass,https://github.com/advisories/GHSA-4cr4-x82x-hwm9,https://da.gd/PR6j1
+GithubAdvisories,[GHSA-hhjm-mpmf-cxg9] Microweber vulnerable to stored cross-site scripting (XSS) via X-Forwarded-For header,https://github.com/advisories/GHSA-hhjm-mpmf-cxg9,https://da.gd/nF599w
