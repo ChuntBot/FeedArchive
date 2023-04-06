@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xxm6-ff3x-v4vm] thorsten/phpmyfaq vulnerable to stored cross-site scripting (XSS) via category field name parameter,https://github.com/advisories/GHSA-xxm6-ff3x-v4vm,https://da.gd/eDLvC3
+GithubAdvisories,[GHSA-2wjp-w7g7-h63q] thorsten/phpmyfaq vulnerable to improper access control,https://github.com/advisories/GHSA-2wjp-w7g7-h63q,https://da.gd/0Fs34v
+GithubAdvisories,[GHSA-gmjj-g2rm-xwm7] thorsten/phpmyfaq vulnerable to cross-site scripting (XSS) via stopword parameter,https://github.com/advisories/GHSA-gmjj-g2rm-xwm7,https://da.gd/BlKW6h
+GithubAdvisories,[GHSA-jph3-3j24-pg3j] thorsten/phpmyfaq vulnerable to DOM cross-site scripting (XSS) via configuration privacy note URL parameter,https://github.com/advisories/GHSA-jph3-3j24-pg3j,https://da.gd/fHKv3
+GithubAdvisories,[GHSA-m8q9-7v2f-qjx9] thorsten/phpmyfaq vulnerable to stored cross-site scripting (XSS) via artlang parameter,https://github.com/advisories/GHSA-m8q9-7v2f-qjx9,https://da.gd/pWAx
+GithubAdvisories,[GHSA-m9qm-m5w5-9pgj] thorsten/phpmyfaq vulnerable to stored cross-site scripting (XSS) via updatecategory parameter,https://github.com/advisories/GHSA-m9qm-m5w5-9pgj,https://da.gd/DnOkDd
+GithubAdvisories,[GHSA-gcmq-7652-x98j] thorsten/phpmyfaq vulnerable to stored cross-site scripting (XSS) via adminlog,https://github.com/advisories/GHSA-gcmq-7652-x98j,https://da.gd/TbabrK
+GithubAdvisories,[GHSA-jvjx-qqh7-6x6c] thorsten/phpmyfaq vulnerable to stored cross-site scripting (XSS) via FAQ News link parameter,https://github.com/advisories/GHSA-jvjx-qqh7-6x6c,https://da.gd/hcNFg
+GithubAdvisories,[GHSA-8p48-ghv5-7qq7] thorsten/phpmyfaq vulnerable to stored cross-site scripting (XSS) via HTML export,https://github.com/advisories/GHSA-8p48-ghv5-7qq7,https://da.gd/pOzdO2
