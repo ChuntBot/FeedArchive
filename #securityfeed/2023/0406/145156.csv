@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Red Hat Security Advisory 2023-1525-01,https://packetstormsecurity.com/files/171763/RHSA-2023-1525-01.txt,https://da.gd/WnLQwm
+PacketstormSecurity,Red Hat Security Advisory 2023-1666-01,https://packetstormsecurity.com/files/171758/RHSA-2023-1666-01.txt,https://da.gd/EuRRQl
+PacketstormSecurity,Debian Security Advisory 5383-1,https://packetstormsecurity.com/files/171757/dsa-5383-1.txt,https://da.gd/nMcWz
+PacketstormSecurity,Debian Security Advisory 5381-1,https://packetstormsecurity.com/files/171756/dsa-5381-1.txt,https://da.gd/vKWzy
+PacketstormSecurity,Debian Security Advisory 5382-1,https://packetstormsecurity.com/files/171755/dsa-5382-1.txt,https://da.gd/LSbM4
+PacketstormSecurity,Universal Media Server 13.2.1 Cross Site Scripting,https://packetstormsecurity.com/files/171754/ums1321-xss.txt,https://da.gd/jwFWRP
+PacketstormSecurity,BulletProof FTP Server 2019.0.0.51 Denial Of Service,https://packetstormsecurity.com/files/171753/BulletProof_FTP_Server_2019.0.0.51.py.txt,https://da.gd/UdN8bB
+PacketstormSecurity,Microsoft Excel Spoofing,https://packetstormsecurity.com/files/171752/msexcel-spoof.txt,https://da.gd/tQepXE
+PacketstormSecurity,Mitel MiCollab AWV 8.1.2.4 / 9.1.3 Directory Traversal / LFI,https://packetstormsecurity.com/files/171751/mma913-traversallfi.txt,https://da.gd/3KYF
+PacketstormSecurity,Unified Remote 3.13.0 Remote Code Execution,https://packetstormsecurity.com/files/171750/unifiedremote3130-exec.txt,https://da.gd/VsWh9
+PacketstormSecurity,HospitalRun 1.0.0-beta macOS Local Root,https://packetstormsecurity.com/files/171749/hospitalrun100beta-escalate.txt,https://da.gd/HzbB
+PacketstormSecurity,WIMAX SWC-5100W Remote Command Execution,https://packetstormsecurity.com/files/171748/wimaxswc5100w-exec.txt,https://da.gd/pE0Xm
+PacketstormSecurity,Linux/x86_64 Bash Shellcode,https://packetstormsecurity.com/files/171747/71linuxx8664bash-shellcode.txt,https://da.gd/sYTZop
+PacketstormSecurity,pdfkit 0.8.7.2 Command Injection,https://packetstormsecurity.com/files/171746/pdfkit0872-exec.txt,https://da.gd/ofjCS
+PacketstormSecurity,flatnux 2021-03.25 Remote Code Execution,https://packetstormsecurity.com/files/171745/flatnux20210325-exec.txt,https://da.gd/6u3Pp
+PacketstormSecurity,modoboa 2.0.4 Admin Takeover,https://packetstormsecurity.com/files/171744/modoboa204-takeover.txt,https://da.gd/PPAH
+PacketstormSecurity,POLR URL 2.3.0 Shortener Admin Takeover,https://packetstormsecurity.com/files/171743/polrurl230-takeover.txt,https://da.gd/KzmTE
+PacketstormSecurity,Auto Dealer Management System 1.0 Broken Access Control,https://packetstormsecurity.com/files/171742/adms10-accesscontrol.txt,https://da.gd/4YZ8aa
+PacketstormSecurity,LDAP Tool Box Self Service Password 1.5.2 Account Takeover,https://packetstormsecurity.com/files/171741/ldaptbssp162-accounttakeover.txt,https://da.gd/rLCI
+PacketstormSecurity,Intern Record System 1.0 SQL Injection,https://packetstormsecurity.com/files/171740/internrs10-sql.txt,https://da.gd/H3olb
+PacketstormSecurity,Simple Task Managing System 1.0 SQL Injection,https://packetstormsecurity.com/files/171739/stms10-sql.txt,https://da.gd/QNG3qg
