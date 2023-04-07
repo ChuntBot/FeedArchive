@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3wq5-3f56-v5xc] Mattermost vulnerable to information disclosure,https://github.com/advisories/GHSA-3wq5-3f56-v5xc,https://da.gd/uOBeNu
+GithubAdvisories,[GHSA-h4c9-rr5m-32fm] RuoYi vulnerable to arbitrary file download,https://github.com/advisories/GHSA-h4c9-rr5m-32fm,https://da.gd/DfueK
+GithubAdvisories,[GHSA-776f-qx25-q3cc] xml2js is vulnerable to prototype pollution,https://github.com/advisories/GHSA-776f-qx25-q3cc,https://da.gd/E4eU
