@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fq33-vmhv-48xh] ntru-rs has unsound FFI: Wrong API usage causes write past allocated area,https://github.com/advisories/GHSA-fq33-vmhv-48xh,https://da.gd/FSmueE
+GithubAdvisories,[GHSA-gv7g-x59x-wf8f] SvelteKit framework has Insufficient CSRF protection for CORS requests,https://github.com/advisories/GHSA-gv7g-x59x-wf8f,https://da.gd/Wu9f
+GithubAdvisories,[GHSA-vq4h-9ghm-qmrr] HashiCorp Vault's implementation of Shamir's secret sharing vulnerable to cache-timing attacks,https://github.com/advisories/GHSA-vq4h-9ghm-qmrr,https://da.gd/05Ld
+GithubAdvisories,[GHSA-hwc3-3qh6-r4gg] HashiCorp Vault's PKI mount vulnerable to denial of service,https://github.com/advisories/GHSA-hwc3-3qh6-r4gg,https://da.gd/iCIRK
+GithubAdvisories,[GHSA-7v7g-9vx6-vcg2] Goobi viewer Core Reflected Cross-Site Scripting Vulnerability Using LOGID Parameter,https://github.com/advisories/GHSA-7v7g-9vx6-vcg2,https://da.gd/7ubXq
+GithubAdvisories,[GHSA-622w-995c-3c3h] Goobi viewer Core has Cross-Site Scripting Vulnerability in User Comments,https://github.com/advisories/GHSA-622w-995c-3c3h,https://da.gd/5GQ5R
+GithubAdvisories,[GHSA-2r9r-8fcg-m38g] Goobi viewer Core has Cross-Site Scripting Vulnerability in User Nicknames,https://github.com/advisories/GHSA-2r9r-8fcg-m38g,https://da.gd/WYi6
