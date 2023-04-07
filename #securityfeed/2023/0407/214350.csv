@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6rfv-h5v8-cj7g] jeecg-boot vulnerable to improper authentication,https://github.com/advisories/GHSA-6rfv-h5v8-cj7g,https://da.gd/9Weg
+GithubAdvisories,[GHSA-8jhh-3jf2-pfwr] Mattermost vulnerable to information disclosure,https://github.com/advisories/GHSA-8jhh-3jf2-pfwr,https://da.gd/ZQVba1
+GithubAdvisories,[GHSA-63f2-6959-2pxj] Mattermost vulnerable to cross-site scripting (XSS),https://github.com/advisories/GHSA-63f2-6959-2pxj,https://da.gd/moVoRq
