@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xq3x-grrj-fj6x] sjqzhang go-fastdfs vulnerable to path traversal,https://github.com/advisories/GHSA-xq3x-grrj-fj6x,https://da.gd/Ol0hYi
+GithubAdvisories,[GHSA-5cvg-9pp5-mxcj] Apache Airflow Hive Provider vulnerable to code injection,https://github.com/advisories/GHSA-5cvg-9pp5-mxcj,https://da.gd/27ptky
+GithubAdvisories,[GHSA-85pf-r4c7-3j9r] Apache Airflow Drill Provider vulnerable to improper input validation,https://github.com/advisories/GHSA-85pf-r4c7-3j9r,https://da.gd/qlXALU
+GithubAdvisories,[GHSA-ffj9-4crc-q7wf] Apache Airflow Spark Provider vulnerable to improper input validation,https://github.com/advisories/GHSA-ffj9-4crc-q7wf,https://da.gd/e8sI
