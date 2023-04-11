@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rjvg-8v36-xv9r] element-plus vulnerable to cross-site scripting (XSS) via el-table-column,https://github.com/advisories/GHSA-rjvg-8v36-xv9r,https://da.gd/lblj6C
