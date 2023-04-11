@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x2xw-hw8g-6773] govuk_tech_docs vulnerable to unescaped HTML on search results page,https://github.com/advisories/GHSA-x2xw-hw8g-6773,https://da.gd/iKrw3o
+GithubAdvisories,[GHSA-hcg3-56jf-x4vh] safe-eval vulnerable to Prototype Pollution via the safeEval function,https://github.com/advisories/GHSA-hcg3-56jf-x4vh,https://da.gd/M0353
+GithubAdvisories,[GHSA-79xf-67r4-q2jj] safe-eval vulnerable to Sandbox Bypass due to improper input sanitization,https://github.com/advisories/GHSA-79xf-67r4-q2jj,https://da.gd/au0nB
