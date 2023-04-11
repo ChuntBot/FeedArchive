@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pxvg-2qj5-37jq] Nokogiri updates packaged libxml2 to v2.10.4 to resolve multiple CVEs,https://github.com/advisories/GHSA-pxvg-2qj5-37jq,https://da.gd/JOpqu
+GithubAdvisories,[GHSA-f8vr-r385-rh5r] hyper and h2 vulnerable to denial of service,https://github.com/advisories/GHSA-f8vr-r385-rh5r,https://da.gd/3lN0Tp
+GithubAdvisories,[GHSA-gmph-wf7j-9gcm] Etcd-io Improper Authentication vulnerability,https://github.com/advisories/GHSA-gmph-wf7j-9gcm,https://da.gd/nouT
+GithubAdvisories,[GHSA-65v8-6pvw-jwvq] Answer vulnerable to Insertion of Sensitive Information Into Sent Data,https://github.com/advisories/GHSA-65v8-6pvw-jwvq,https://da.gd/yG7MW
+GithubAdvisories,[GHSA-8jg3-rx43-3fv4] Answer vulnerable to Exposure of Sensitive Information Through Metadata,https://github.com/advisories/GHSA-8jg3-rx43-3fv4,https://da.gd/Z9BQr6
+GithubAdvisories,[GHSA-j97g-77fj-9c4p] Answer vulnerable to account takeover because password reset links do not expire,https://github.com/advisories/GHSA-j97g-77fj-9c4p,https://da.gd/dGtjz
