@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-735r-hv67-g38f] vitess allows users to create keyspaces that can deny access to already existing keyspaces,https://github.com/advisories/GHSA-735r-hv67-g38f,https://da.gd/0gnu
+GithubAdvisories,[GHSA-7hj9-rv74-5g92] Traefik HTTP header parsing could cause a denial of service,https://github.com/advisories/GHSA-7hj9-rv74-5g92,https://da.gd/cw5m
