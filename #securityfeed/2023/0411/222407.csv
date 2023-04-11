@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-48wp-p9qv-4j64] Commonmarker vulnerable to to several quadratic complexity bugs that may lead to denial of service,https://github.com/advisories/GHSA-48wp-p9qv-4j64,https://da.gd/dKASx
+GithubAdvisories,[GHSA-w4m3-43gp-x8hx] .NET Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-w4m3-43gp-x8hx,https://da.gd/n4Oumt
+GithubAdvisories,[GHSA-2hw6-4rv9-82fp] Uvdesk remote code execution vulnerability,https://github.com/advisories/GHSA-2hw6-4rv9-82fp,https://da.gd/IkxB
+GithubAdvisories,[GHSA-fwhv-9phj-wrj5] Uvdesk vulnerable to stored cross-site scripting (XSS),https://github.com/advisories/GHSA-fwhv-9phj-wrj5,https://da.gd/4etk
