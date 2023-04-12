@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v5hq-cqqr-6w4g] Jenkins Kubernetes Plugin does not properly mask credentials,https://github.com/advisories/GHSA-v5hq-cqqr-6w4g,https://da.gd/ALspE
+GithubAdvisories,[GHSA-gmxm-pr58-v5jc] Jenkins Azure Key Vault Plugin does not properly mask credentials,https://github.com/advisories/GHSA-gmxm-pr58-v5jc,https://da.gd/Sa65j
+GithubAdvisories,[GHSA-f244-f9fc-w6fq] Jenkins Thycotic DevOps Secrets Vault Plugin does not properly mask credentials,https://github.com/advisories/GHSA-f244-f9fc-w6fq,https://da.gd/OUR5L
+GithubAdvisories,[GHSA-38jc-2rwx-qgxr] Jenkins Image Tag Parameter Plugin improperly introduces option to opt out of SSL/TLS certificate validation,https://github.com/advisories/GHSA-38jc-2rwx-qgxr,https://da.gd/DmWvuI
+GithubAdvisories,[GHSA-r3mm-v4x7-2phm] Jenkins NeuVector Vulnerability Scanner Plugin disables SSL/TLS certificate and hostname validation,https://github.com/advisories/GHSA-r3mm-v4x7-2phm,https://da.gd/GK6t
+GithubAdvisories,[GHSA-4697-3g92-gh78] Jenkins Thycotic Secret Server Plugin missing permissions check,https://github.com/advisories/GHSA-4697-3g92-gh78,https://da.gd/e6Lk4
+GithubAdvisories,[GHSA-q2fc-9ww2-ggfj] Jenkins Quay.io trigger Plugin webhook endpoint can be accessed without authentication,https://github.com/advisories/GHSA-q2fc-9ww2-ggfj,https://da.gd/MDSp
+GithubAdvisories,[GHSA-gh5w-gffh-68pr] Jenkins Lucene-Search Plugin vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-gh5w-gffh-68pr,https://da.gd/9e1Rub
+GithubAdvisories,[GHSA-96c7-fqxv-rmv7] Jenkins Consul KV Builder Plugin stores HashiCorp Consul ACL Token unencrypted,https://github.com/advisories/GHSA-96c7-fqxv-rmv7,https://da.gd/428E8
+GithubAdvisories,[GHSA-q9hm-hr89-hgm7] Jenkins WSO2 Oauth Plugin does not mask the WSO2 Oauth client secret on the global configuration form,https://github.com/advisories/GHSA-q9hm-hr89-hgm7,https://da.gd/9GaYNJ
+GithubAdvisories,[GHSA-g472-f8cm-8x5f] Jenkins WSO2 Oauth Plugin stores WSO2 Oauth client secret unencrypted in global config.xml file on Jenkins controller,https://github.com/advisories/GHSA-g472-f8cm-8x5f,https://da.gd/Yhax
+GithubAdvisories,[GHSA-c9jf-rhvg-p65r] Jenkins Report Portal Plugin missing permissions check,https://github.com/advisories/GHSA-c9jf-rhvg-p65r,https://da.gd/6n3SGe
+GithubAdvisories,[GHSA-c8ff-j5gm-6492] Jenkins Report Portal Plugin Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-c8ff-j5gm-6492,https://da.gd/dEhcn
+GithubAdvisories,[GHSA-qgw9-vgrf-h723] Jenkins Report Portal Plugin allows users with Item/Extended Read permission to view tokens on Jenkins controller,https://github.com/advisories/GHSA-qgw9-vgrf-h723,https://da.gd/ov9JL
+GithubAdvisories,[GHSA-2482-gr3v-f3f3] Jenkins Fogbugz Plugin has missing permissions check,https://github.com/advisories/GHSA-2482-gr3v-f3f3,https://da.gd/NZONsC
+GithubAdvisories,[GHSA-jr86-6j4j-mv45] Jenkins Assembla merge request builder Plugin missing authentication to access endpoint,https://github.com/advisories/GHSA-jr86-6j4j-mv45,https://da.gd/515SX
+GithubAdvisories,[GHSA-2jgw-28qh-6mg8] Jenkins Quay.io trigger Plugin Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-2jgw-28qh-6mg8,https://da.gd/Hv1nV8
+GithubAdvisories,[GHSA-j55j-28wc-v338] Jenkins Report Portal Plugin configuration form does not mask tokens,https://github.com/advisories/GHSA-j55j-28wc-v338,https://da.gd/ALo2mu
