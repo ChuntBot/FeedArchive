@@ -1,0 +1,25 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-54cw-rvr3-w6cx] Jenkins Consul KV Builder Plugin stores HashiCorp Consul ACL Token unencrypted,https://github.com/advisories/GHSA-54cw-rvr3-w6cx,https://da.gd/VPmD2x
+GithubAdvisories,[GHSA-6vgh-9r3c-2cxp] Improper Neutralization of Script-Related HTML Tags (XSS) in the LiveTable Macro,https://github.com/advisories/GHSA-6vgh-9r3c-2cxp,https://da.gd/ebIV7
+GithubAdvisories,[GHSA-xj72-wvfv-8985] vm2 Sandbox Escape vulnerability,https://github.com/advisories/GHSA-xj72-wvfv-8985,https://da.gd/PYrF
+GithubAdvisories,[GHSA-cwf6-xj49-wp83] OpenFeature Operator vulnerable to Cluster-level Privilege Escalation,https://github.com/advisories/GHSA-cwf6-xj49-wp83,https://da.gd/cykpz1
+GithubAdvisories,[GHSA-9337-8c6c-c2xg] CubeFS allows Kubernetes cluster-level privilege escalation,https://github.com/advisories/GHSA-9337-8c6c-c2xg,https://da.gd/gMB1
+GithubAdvisories,[GHSA-vvp7-r422-rx83] Unauthenticated user can have information about hidden users on subwikis through uorgsuggest.vm,https://github.com/advisories/GHSA-vvp7-r422-rx83,https://da.gd/7Ha2u
+GithubAdvisories,[GHSA-vxf7-mx22-jr24] org.xwiki.platform:xwiki-platform-rendering-xwiki vulnerable to stored cross-site scripting via HTML and raw macro,https://github.com/advisories/GHSA-vxf7-mx22-jr24,https://da.gd/UVHPa
+GithubAdvisories,[GHSA-cmvg-w72j-7phx] org.xwiki.platform:xwiki-platform-skin-skinx vulnerable to basic Cross-site Scripting by exploiting JSX or SSX plugins,https://github.com/advisories/GHSA-cmvg-w72j-7phx,https://da.gd/bw1h1G
+GithubAdvisories,[GHSA-xwph-x6xj-wggv] org.xwiki.platform:xwiki-platform-oldcore Open Redirect vulnerability,https://github.com/advisories/GHSA-xwph-x6xj-wggv,https://da.gd/AtLDEp
+GithubAdvisories,[GHSA-c885-89fw-55qr] org.xwiki.platform:xwiki-platform-rendering-macro-rss Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-c885-89fw-55qr,https://da.gd/gUTd
+GithubAdvisories,[GHSA-m3jr-cvhj-f35j] org.xwiki.commons:xwiki-commons-xml Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-m3jr-cvhj-f35j,https://da.gd/RqWBDj
+GithubAdvisories,[GHSA-hmm7-6ph9-8jf2] org.xwiki.platform:xwiki-platform-livedata-macro vulnerable to Basic Cross-site Scripting,https://github.com/advisories/GHSA-hmm7-6ph9-8jf2,https://da.gd/PECLW5
+GithubAdvisories,[GHSA-rfh6-mg6h-h668] xwiki-platform-administration-ui vulnerable to privilege escalation,https://github.com/advisories/GHSA-rfh6-mg6h-h668,https://da.gd/dDDGgB
+GithubAdvisories,[GHSA-pwfv-3cvg-9m4c] org.xwiki.platform:xwiki-platform-oldcore makes Incorrect Use of Privileged APIs with DocumentAuthors,https://github.com/advisories/GHSA-pwfv-3cvg-9m4c,https://da.gd/UKjbRY
+GithubAdvisories,[GHSA-f4v8-58f6-mwj4] org.xwiki.platform:xwiki-platform-flamingo-theme-ui Eval Injection vulnerability,https://github.com/advisories/GHSA-f4v8-58f6-mwj4,https://da.gd/5qhp4V
+GithubAdvisories,[GHSA-jjm5-5v9v-7hx2] org.xwiki.platform:xwiki-platform-security-authentication-default XSS with authenticate endpoints,https://github.com/advisories/GHSA-jjm5-5v9v-7hx2,https://da.gd/6qPmh
+GithubAdvisories,[GHSA-vrr8-fp7c-7qgp] org.xwiki.platform:xwiki-platform-flamingo-theme-ui vulnerable to privilege escalation,https://github.com/advisories/GHSA-vrr8-fp7c-7qgp,https://da.gd/Sn6OUk
+GithubAdvisories,[GHSA-qx9h-c5v6-ghqh] org.xwiki.platform:xwiki-platform-panels-ui Eval Injection vulnerability,https://github.com/advisories/GHSA-qx9h-c5v6-ghqh,https://da.gd/t85g
+GithubAdvisories,[GHSA-4655-wh7v-3vmg] org.xwiki.platform:xwiki-platform-logging-ui Eval Injection vulnerability,https://github.com/advisories/GHSA-4655-wh7v-3vmg,https://da.gd/UOHvsv
+GithubAdvisories,[GHSA-c5f4-p5wv-2475] xwiki.platform:xwiki-platform-panels-ui Eval Injection vulnerability,https://github.com/advisories/GHSA-c5f4-p5wv-2475,https://da.gd/kclqDI
+GithubAdvisories,[GHSA-w7v9-fc49-4qg4] org.xwiki.platform:xwiki-platform-wiki-ui-mainwiki Eval Injection vulnerability,https://github.com/advisories/GHSA-w7v9-fc49-4qg4,https://da.gd/mFKh
+GithubAdvisories,[GHSA-p9mj-v5mf-m82x] org.xwiki.platform:xwiki-platform-notifications-ui Eval Injection vulnerability,https://github.com/advisories/GHSA-p9mj-v5mf-m82x,https://da.gd/JoWd
+GithubAdvisories,[GHSA-9pc2-x9qf-7j2q] org.xwiki.platform:xwiki-platform-legacy-notification-activitymacro Eval Injection vulnerability,https://github.com/advisories/GHSA-9pc2-x9qf-7j2q,https://da.gd/dV2Qf
+GithubAdvisories,[GHSA-4f8g-fq6x-jqrr] org.xwiki.platform:xwiki-platform-oldcore vulnerable to data leak through deleted documents,https://github.com/advisories/GHSA-4f8g-fq6x-jqrr,https://da.gd/knmH5k
