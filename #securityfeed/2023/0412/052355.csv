@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-48g9-h7g5-8pw2] Jenkins Convert To Pipeline Plugin vulnerable to cross-site request forgery,https://github.com/advisories/GHSA-48g9-h7g5-8pw2,https://da.gd/uz7gBg
