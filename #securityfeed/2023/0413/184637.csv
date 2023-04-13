@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pf3p-x6qj-6j7q] mio invalidly assumes the memory layout of std::net::SocketAddr,https://github.com/advisories/GHSA-pf3p-x6qj-6j7q,https://da.gd/8mgyQ
