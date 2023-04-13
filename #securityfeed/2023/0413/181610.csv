@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-746v-hfh2-xphm] Remote code execution in Apache Airflow Docker's Provider,https://github.com/advisories/GHSA-746v-hfh2-xphm,https://da.gd/KtULvV
+GithubAdvisories,[GHSA-cjr9-mr35-7xh6] SpiceDB binding metrics port to untrusted networks and can leak command-line flags,https://github.com/advisories/GHSA-cjr9-mr35-7xh6,https://da.gd/5T9EB
