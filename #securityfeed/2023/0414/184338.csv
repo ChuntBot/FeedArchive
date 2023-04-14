@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4g3j-c4wg-6j7x] Snowflake JDBC vulnerable to command injection via SSO URL authentication,https://github.com/advisories/GHSA-4g3j-c4wg-6j7x,https://da.gd/2PptZ
