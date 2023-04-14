@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2v78-j59h-fmpf] Heap overflow or corruption in safe-transmute,https://github.com/advisories/GHSA-2v78-j59h-fmpf,https://da.gd/8sHEWL
+GithubAdvisories,[GHSA-37jj-wp7g-7wj4] Read of uninitialized memory in cdr,https://github.com/advisories/GHSA-37jj-wp7g-7wj4,https://da.gd/c1jeV
+GithubAdvisories,[GHSA-3c67-gc48-983w] Path Traversal in Ansible,https://github.com/advisories/GHSA-3c67-gc48-983w,https://da.gd/42pM
