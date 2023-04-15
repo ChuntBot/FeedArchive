@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-23xf-5535-62v5] jeecg-boot vulnerable to SQL injection,https://github.com/advisories/GHSA-23xf-5535-62v5,https://da.gd/L7Bk4
+GithubAdvisories,[GHSA-9hj7-v56g-rhf6] Mattermost fails to properly authentication inviter's permissions to private channel,https://github.com/advisories/GHSA-9hj7-v56g-rhf6,https://da.gd/hVEClH
