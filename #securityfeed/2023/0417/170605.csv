@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mx2q-35m2-x2rh] OpenZeppelin Contracts TransparentUpgradeableProxy clashing selector calls may not be delegated,https://github.com/advisories/GHSA-mx2q-35m2-x2rh,https://da.gd/51YvEh
