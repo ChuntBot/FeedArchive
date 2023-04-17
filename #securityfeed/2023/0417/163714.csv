@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fjx5-qpf4-xjf2] Parsing borsh messages with ZST which are not-copy/clone is unsound,https://github.com/advisories/GHSA-fjx5-qpf4-xjf2,https://da.gd/KICLR
