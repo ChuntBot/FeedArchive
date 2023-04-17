@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wxqc-pxw9-g2p8] Spring Framework vulnerable to denial of service,https://github.com/advisories/GHSA-wxqc-pxw9-g2p8,https://da.gd/eAtEV
+GithubAdvisories,[GHSA-r7qr-f43m-pxfr] Spring Session session ID can be logged to the standard output stream,https://github.com/advisories/GHSA-r7qr-f43m-pxfr,https://da.gd/HpUJk
