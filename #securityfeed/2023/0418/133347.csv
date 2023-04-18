@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7v2v-9rm4-7m8f] Improper Control of Generation of Code in Twig rendered views,https://github.com/advisories/GHSA-7v2v-9rm4-7m8f,https://da.gd/7bpQ4R
+GithubAdvisories,[GHSA-2jg5-xgvv-4wq7] Mailman Core vulnerable to timing attacks,https://github.com/advisories/GHSA-2jg5-xgvv-4wq7,https://da.gd/r95Vug
