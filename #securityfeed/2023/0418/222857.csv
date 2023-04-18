@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xv3q-jrmm-4fxv] Authentication Bypass in @strapi/plugin-users-permissions,https://github.com/advisories/GHSA-xv3q-jrmm-4fxv,https://da.gd/N4ETAf
+GithubAdvisories,[GHSA-q2qj-628g-vhfw] Insecure header validation in slim/psr7,https://github.com/advisories/GHSA-q2qj-628g-vhfw,https://da.gd/B7uJmG
+GithubAdvisories,[GHSA-p26g-97m4-6q7c] Eclipse Jetty's cookie parsing of quoted values can exfiltrate values from other cookies,https://github.com/advisories/GHSA-p26g-97m4-6q7c,https://da.gd/Ofmg9P
