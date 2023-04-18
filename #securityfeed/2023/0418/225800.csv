@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8pf3-6fgr-3g3g] `chainId` may be outdated if user changes chains as part of connection in @web3-react,https://github.com/advisories/GHSA-8pf3-6fgr-3g3g,https://da.gd/TXZu
