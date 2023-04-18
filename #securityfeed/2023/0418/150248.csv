@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mg46-f9h5-g27x] Apache Sling Engine vulnerable to cross-site scripting (XSS) that can lead to privilege escalation,https://github.com/advisories/GHSA-mg46-f9h5-g27x,https://da.gd/p4OGMl
