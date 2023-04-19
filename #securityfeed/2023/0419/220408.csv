@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2h87-4q2w-v4hf] Strapi plugins vulnerable to Server-Side Template Injection and Remote Code Execution in the Users-Permissions Plugin,https://github.com/advisories/GHSA-2h87-4q2w-v4hf,https://da.gd/6kcjY
+GithubAdvisories,[GHSA-jjqf-j4w7-92w8] Strapi leaking sensitive user information by filtering on private fields,https://github.com/advisories/GHSA-jjqf-j4w7-92w8,https://da.gd/SJ3IPd
