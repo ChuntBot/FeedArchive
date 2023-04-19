@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Merge pull request #5162 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/028ef22878d1f947bb09f80fe9124fae77dae8f6,https://da.gd/ryMNG
+GithubCommitStaging,Merge pull request #5166 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/428b917579f9f12236fbf1655edbbf5da300969f,https://da.gd/WjBrWk
+GithubCommitStaging,"Fix error ""Deprecated: Using ${var} in strings is deprecated, use {$…",https://github.com/mailcow/mailcow-dockerized/commit/bdb07061ed08aababf0fcb8722bab24dcc640e25,https://da.gd/BxJ8W6
+GithubCommitStaging,Merge branch 'mailcow:staging' into staging,https://github.com/mailcow/mailcow-dockerized/commit/b4a9df76b8424c8084104281af91f82637b45e0e,https://da.gd/vgRAY
+GithubCommitStaging,"Added dropdown divider to ""allowed protocols"" selection on mailbox page",https://github.com/mailcow/mailcow-dockerized/commit/6986e7758ff91a5da1fd83042ddb81d9e0483de2,https://da.gd/dy8hv
+GithubCommitStaging,Fix Typo,https://github.com/mailcow/mailcow-dockerized/commit/20fc9eaf8491482162483981758bc89177cc7f5a,https://da.gd/M7NS
+GithubCommitStaging,Merge pull request #5174 from bdwebnet/staging,https://github.com/mailcow/mailcow-dockerized/commit/13b6df74afdf32535565e5c9663e277d1f3a73c8,https://da.gd/A0zi
+GithubCommitStaging,Merge pull request #5191 from shiz0/patch-1,https://github.com/mailcow/mailcow-dockerized/commit/4bb0dbb2f7a1bf200062f38a7c8347a066041486,https://da.gd/kbQwJ
+GithubCommitStaging,Merge pull request #5184 from bdwebnet/fix/ui-allowed-protocols,https://github.com/mailcow/mailcow-dockerized/commit/00ac61f0a4d811c9fadfa496c3be8bfcb125becb,https://da.gd/VqRfF5
