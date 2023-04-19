@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4v38-964c-xjmw] Code injection via unescaped translations in xwiki-platform,https://github.com/advisories/GHSA-4v38-964c-xjmw,https://da.gd/IJxpV7
+GithubAdvisories,[GHSA-wxmh-65f7-jcvw] Improper header name validation in guzzlehttp/psr7,https://github.com/advisories/GHSA-wxmh-65f7-jcvw,https://da.gd/Ygv1f
+GithubAdvisories,[GHSA-pg5p-wwp8-97g8] Debug mode leaks confidential data in Cilium,https://github.com/advisories/GHSA-pg5p-wwp8-97g8,https://da.gd/4BGv
+GithubAdvisories,[GHSA-qw69-rqj8-6qw8] OutOfMemoryError for large multipart without filename in Eclipse Jetty,https://github.com/advisories/GHSA-qw69-rqj8-6qw8,https://da.gd/HtjBr4
