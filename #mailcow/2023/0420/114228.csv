@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] check mailbox before replacing sogo_static_view,https://github.com/mailcow/mailcow-dockerized/commit/e1d8df658031033232f939a9af43dd8e0f448d02,https://da.gd/1AodNK
+GithubCommitStaging,[Dockerapi] fix maildir cleanup for domains,https://github.com/mailcow/mailcow-dockerized/commit/be2286c11c743cf07098c30ac06d411de48f7200,https://da.gd/53XTG
