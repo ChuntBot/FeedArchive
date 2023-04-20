@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,Fix sorting for active fowrardinghoststable,https://github.com/mailcow/mailcow-dockerized/commit/99739eada05b3304f727c6ee7148187a3161c301,https://da.gd/fTeys
+GithubCommit,Fix sorting for active transport map,https://github.com/mailcow/mailcow-dockerized/commit/236d627fbd6eef3e7559d77b4329ee6db6a02bde,https://da.gd/SWIjJ
+GithubCommit,Fix sorting for active relayhost,https://github.com/mailcow/mailcow-dockerized/commit/3510d5617d8f82d4dcf785aa71e78d7a8e949d2a,https://da.gd/3pgFw
+GithubCommit,Redo the PHP check grep,https://github.com/mailcow/mailcow-dockerized/commit/22a0479fab14c457b92e9dacaa4c4c1a99fd7623,https://da.gd/KhneC
+GithubCommit,Fix Typo,https://github.com/mailcow/mailcow-dockerized/commit/20fc9eaf8491482162483981758bc89177cc7f5a,https://da.gd/M7NS
+GithubCommit,[Rspamd] rollback to 3.4,https://github.com/mailcow/mailcow-dockerized/commit/5c025bf865e215511adb77364420642fdc1e67cb,https://da.gd/IcureD
+GithubCommit,Merge pull request #5174 from bdwebnet/staging,https://github.com/mailcow/mailcow-dockerized/commit/13b6df74afdf32535565e5c9663e277d1f3a73c8,https://da.gd/A0zi
+GithubCommit,Merge pull request #5191 from shiz0/patch-1,https://github.com/mailcow/mailcow-dockerized/commit/4bb0dbb2f7a1bf200062f38a7c8347a066041486,https://da.gd/kbQwJ
+GithubCommit,Merge pull request #5184 from bdwebnet/fix/ui-allowed-protocols,https://github.com/mailcow/mailcow-dockerized/commit/00ac61f0a4d811c9fadfa496c3be8bfcb125becb,https://da.gd/VqRfF5
+GithubCommit,[Web] optimizing update_sogo_static_view function,https://github.com/mailcow/mailcow-dockerized/commit/4121509ceb34161ba0c38db899d6c9a287eede94,https://da.gd/JIr8m
+GithubCommit,Merge pull request #5183 from mailcow/fix/add-mbox-performance,https://github.com/mailcow/mailcow-dockerized/commit/026b27835768bc6e0dcdd79838e70d3d77d2f6ba,https://da.gd/03bmk
+GithubCommit,[SOGo] update sogo 5.8.2.20230419,https://github.com/mailcow/mailcow-dockerized/commit/3c0c8aa01fe2c8f9088019288ef43fe15f0e4f45,https://da.gd/AAWiHS
+GithubCommit,Merge pull request #5193 from mailcow/feat/update-sogo,https://github.com/mailcow/mailcow-dockerized/commit/04a08a7d690db292915afc069a33e0b945403dff,https://da.gd/bflmg
+GithubCommit,[Web] check mailbox before replacing sogo_static_view,https://github.com/mailcow/mailcow-dockerized/commit/e1d8df658031033232f939a9af43dd8e0f448d02,https://da.gd/1AodNK
+GithubCommit,Update dependency nextcloud/server to v26.0.1,https://github.com/mailcow/mailcow-dockerized/commit/0e24c3d3009c74e89eb7b8dd6a7bf6ba81a2926b,https://da.gd/UDY7
+GithubCommit,[Dockerapi] fix maildir cleanup for domains,https://github.com/mailcow/mailcow-dockerized/commit/be2286c11c743cf07098c30ac06d411de48f7200,https://da.gd/53XTG
+GithubCommit,Merge pull request #5186 from goodygh/datatables_sorting,https://github.com/mailcow/mailcow-dockerized/commit/ed076dc23e8c767320af4a52dd0f8d5126928235,https://da.gd/GVCmK
+GithubCommit,Merge pull request #5194 from mailcow/renovate/nextcloud-server-26.x,https://github.com/mailcow/mailcow-dockerized/commit/8c79056a9454a8cb829e548a510dcce48b4d4c6c,https://da.gd/Eyeg4
+GithubCommit,Merge pull request #5187 from mailcow/fix-5185,https://github.com/mailcow/mailcow-dockerized/commit/3eaa5a626c04aefbbad65afa0ffa360d64498d59,https://da.gd/aFJp
+GithubCommit,Merge pull request #5195 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/8f286669162805f74e128ae20fabb15bb49c538d,https://da.gd/DOdUxf
