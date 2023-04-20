@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Fix sorting for active bcc-map and recipient-map,https://github.com/mailcow/mailcow-dockerized/commit/78a8fac6afadbbcaa0672ccb34092b45221ca45f,https://da.gd/Rf2BpK
+GithubCommitStaging,Fix sorting for active tls-policy-map,https://github.com/mailcow/mailcow-dockerized/commit/3fe8aaa719081abe058e87ac92cfe7ace812b1b9,https://da.gd/m2wE
+GithubCommitStaging,Fix sorting for active and tla on domain-admins,https://github.com/mailcow/mailcow-dockerized/commit/d9dfe15253ccadfd2df4ba388507ee090d56c035,https://da.gd/mgtr
+GithubCommitStaging,Fix sorting for active and tla on admins,https://github.com/mailcow/mailcow-dockerized/commit/7bfef57894df79731f3c3c530a924ebfc3d64516,https://da.gd/ueHgB
+GithubCommitStaging,Fix sorting for active fowrardinghoststable,https://github.com/mailcow/mailcow-dockerized/commit/99739eada05b3304f727c6ee7148187a3161c301,https://da.gd/fTeys
+GithubCommitStaging,Fix sorting for active transport map,https://github.com/mailcow/mailcow-dockerized/commit/236d627fbd6eef3e7559d77b4329ee6db6a02bde,https://da.gd/SWIjJ
+GithubCommitStaging,Fix sorting for active relayhost,https://github.com/mailcow/mailcow-dockerized/commit/3510d5617d8f82d4dcf785aa71e78d7a8e949d2a,https://da.gd/3pgFw
+GithubCommitStaging,Merge pull request #5186 from goodygh/datatables_sorting,https://github.com/mailcow/mailcow-dockerized/commit/ed076dc23e8c767320af4a52dd0f8d5126928235,https://da.gd/GVCmK
