@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jgg7-w2rj-58cj] XWiki Platform vulnerable to privilege escalation from view right on XWiki.Notifications.Code.LegacyNotificationAdministration,https://github.com/advisories/GHSA-jgg7-w2rj-58cj,https://da.gd/xb05k
+GithubAdvisories,[GHSA-jgrg-qvpp-9vwr] XWiki Platform vulnerable to code injection from account through AWM view sheet,https://github.com/advisories/GHSA-jgrg-qvpp-9vwr,https://da.gd/8pHLFw
+GithubAdvisories,[GHSA-gpq5-7p34-vqx5] XWiki Platform's async and display macro allow displaying and interacting with any document in restricted mode,https://github.com/advisories/GHSA-gpq5-7p34-vqx5,https://da.gd/pIyMmo
+GithubAdvisories,[GHSA-fc42-5w56-qw7h] XWiki Platform vulnerable to code injection from account through XWiki.SchedulerJobSheet,https://github.com/advisories/GHSA-fc42-5w56-qw7h,https://da.gd/QFEo
+GithubAdvisories,[GHSA-x764-ff8r-9hpx] XWiki Platform vulnerable to code injection in display method used in user profiles,https://github.com/advisories/GHSA-x764-ff8r-9hpx,https://da.gd/MvLAF
+GithubAdvisories,[GHSA-mjw9-3f9f-jq2w] XWiki Platform vulnerable to code injection from view right on XWiki.ClassSheet,https://github.com/advisories/GHSA-mjw9-3f9f-jq2w,https://da.gd/YQJM
