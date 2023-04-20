@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9mh9-44q3-v79x] PowerJob vulnerable to remote code execution,https://github.com/advisories/GHSA-9mh9-44q3-v79x,https://da.gd/sGtAnH
+GithubAdvisories,[GHSA-h2pm-378c-pcxx] Path traversal vulnerability in gatsby-plugin-sharp,https://github.com/advisories/GHSA-h2pm-378c-pcxx,https://da.gd/5lq8L
