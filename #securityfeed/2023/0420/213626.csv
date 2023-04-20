@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cqf3-vpx7-rxhw] Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) in Pay,https://github.com/advisories/GHSA-cqf3-vpx7-rxhw,https://da.gd/jo10uR
+GithubAdvisories,[GHSA-x77j-w7wf-fjmw] Nunjucks autoescape bypass leads to cross site scripting,https://github.com/advisories/GHSA-x77j-w7wf-fjmw,https://da.gd/uks9a
+GithubAdvisories,[GHSA-qrgf-9gpc-vrxw] Bypass of CSRF protection in the presence of predictable userInfo,https://github.com/advisories/GHSA-qrgf-9gpc-vrxw,https://da.gd/WySUqH
