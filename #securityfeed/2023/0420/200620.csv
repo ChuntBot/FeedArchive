@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c23v-vqw5-52c5] PowerJob vulnerable to Incorrect Access Control via the create user/save interface,https://github.com/advisories/GHSA-c23v-vqw5-52c5,https://da.gd/ZiVQ
