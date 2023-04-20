@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p67q-h88v-5jgr] XWiki Platform vulnerable to code injection from account/view through VFS Tree macro,https://github.com/advisories/GHSA-p67q-h88v-5jgr,https://da.gd/MxEHF
+GithubAdvisories,[GHSA-9jq5-xwqw-q8j3] XWiki Platform vulnerable to page render failure due to broken translations,https://github.com/advisories/GHSA-9jq5-xwqw-q8j3,https://da.gd/P979
+GithubAdvisories,[GHSA-3hjg-cghv-22ww] org.xwiki.platform:xwiki-platform-attachment-ui vulnerable to Code Injection,https://github.com/advisories/GHSA-3hjg-cghv-22ww,https://da.gd/AEw7nW
+GithubAdvisories,[GHSA-px54-3w5j-qjg9] XWiki Platform vulnerable to privilege escalation from view right using Invitation.InvitationCommon,https://github.com/advisories/GHSA-px54-3w5j-qjg9,https://da.gd/BNvk
+GithubAdvisories,[GHSA-m3c3-9qj7-7xmx] Exposure of Sensitive Information to an Unauthorized Actor in org.xwiki.platform:xwiki-platform-office-viewer,https://github.com/advisories/GHSA-m3c3-9qj7-7xmx,https://da.gd/Sh3w0
+GithubAdvisories,[GHSA-3989-4c6x-725f] XWiki Platform vulnerable to privilege escalation from view right on XWiki.AttachmentSelector,https://github.com/advisories/GHSA-3989-4c6x-725f,https://da.gd/jvc0I
+GithubAdvisories,[GHSA-44h9-xxvx-pg6x] XWiki App Within Minutes app grants space admin rights that allows cross-site scripting,https://github.com/advisories/GHSA-44h9-xxvx-pg6x,https://da.gd/8TWA
+GithubAdvisories,[GHSA-vcw4-8ph6-7vw8] Use after free in Rocket,https://github.com/advisories/GHSA-vcw4-8ph6-7vw8,https://da.gd/Q2FP1
+GithubAdvisories,[GHSA-9j36-3cp4-rh4j] XWiki vulnerable to Code Injection in template provider administration,https://github.com/advisories/GHSA-9j36-3cp4-rh4j,https://da.gd/lv76
+GithubAdvisories,[GHSA-fp36-mjw5-fmgx] xwiki-platform-web-templates allows users to be created even when registration is disabled without validation via template macro,https://github.com/advisories/GHSA-fp36-mjw5-fmgx,https://da.gd/pHHpk5
+GithubAdvisories,[GHSA-hg5x-3w3x-7g96] xwiki-platform-web-templates vulnerable to Eval Injection,https://github.com/advisories/GHSA-hg5x-3w3x-7g96,https://da.gd/awKMmH
