@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4xr4-89m5-46c7] eslint-detailed-reporter vulnerable to cross-site scripting,https://github.com/advisories/GHSA-4xr4-89m5-46c7,https://da.gd/XzpZ
+GithubAdvisories,[GHSA-q55c-hmpf-6h2g] AzuraCast/AzuraCast vulnerable to cross-site scripting,https://github.com/advisories/GHSA-q55c-hmpf-6h2g,https://da.gd/UoNZ4k
+GithubAdvisories,[GHSA-3jxw-cv35-2mmv] Apache DolphinScheduler's python gateway suffered from improper authentication,https://github.com/advisories/GHSA-3jxw-cv35-2mmv,https://da.gd/1bUHl
