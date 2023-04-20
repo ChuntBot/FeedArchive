@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Redo the PHP check grep,https://github.com/mailcow/mailcow-dockerized/commit/22a0479fab14c457b92e9dacaa4c4c1a99fd7623,https://da.gd/KhneC
+GithubCommitStaging,Update dependency nextcloud/server to v26.0.1,https://github.com/mailcow/mailcow-dockerized/commit/0e24c3d3009c74e89eb7b8dd6a7bf6ba81a2926b,https://da.gd/UDY7
+GithubCommitStaging,Merge pull request #5194 from mailcow/renovate/nextcloud-server-26.x,https://github.com/mailcow/mailcow-dockerized/commit/8c79056a9454a8cb829e548a510dcce48b4d4c6c,https://da.gd/Eyeg4
+GithubCommitStaging,Merge pull request #5187 from mailcow/fix-5185,https://github.com/mailcow/mailcow-dockerized/commit/3eaa5a626c04aefbbad65afa0ffa360d64498d59,https://da.gd/aFJp
