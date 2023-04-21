@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4qmm-cv4r-qfr4] alextselegidis/easyappointments Session Fixation vulnerability,https://github.com/advisories/GHSA-4qmm-cv4r-qfr4,https://da.gd/rHr9l
+GithubAdvisories,[GHSA-fc4g-f42p-7rhp] alextselegidis/easyappointments Improper Access Control vulnerability,https://github.com/advisories/GHSA-fc4g-f42p-7rhp,https://da.gd/DMp1
+GithubAdvisories,[GHSA-j6qq-9939-9jv8] alextselegidis/easyappointments vulnerable to Stored Cross-site Scripting,https://github.com/advisories/GHSA-j6qq-9939-9jv8,https://da.gd/5fXls
+GithubAdvisories,[GHSA-pvjv-386f-c8wh] Apache IoTDB Grafana Connector vulnerable to Improper Authentication,https://github.com/advisories/GHSA-pvjv-386f-c8wh,https://da.gd/42U6f
+GithubAdvisories,[GHSA-wjfc-pgfp-pv9c] Improper Input Validation in nyholm/psr7,https://github.com/advisories/GHSA-wjfc-pgfp-pv9c,https://da.gd/6EOFRz
+GithubAdvisories,[GHSA-9jxr-mwpp-w643] Improper header validation in httpsoft/http-message,https://github.com/advisories/GHSA-9jxr-mwpp-w643,https://da.gd/X5twr
+GithubAdvisories,[GHSA-7jhg-8m74-6f6g] Apache Superset vulnerable to Improper Authorization,https://github.com/advisories/GHSA-7jhg-8m74-6f6g,https://da.gd/vrzwZ
+GithubAdvisories,[GHSA-fp2w-g92g-fgq4] @nuxtlabs/github-module made Use of Hard-coded Credentials,https://github.com/advisories/GHSA-fp2w-g92g-fgq4,https://da.gd/DTvWf5
+GithubAdvisories,[GHSA-9gxx-32p7-ff7m] Modoboa has Weak Password Requirements,https://github.com/advisories/GHSA-9gxx-32p7-ff7m,https://da.gd/LKyI
+GithubAdvisories,[GHSA-rrm6-wvj7-cwh2] sqlparse contains a regular expression that is vulnerable to Regular Expression Denial of Service,https://github.com/advisories/GHSA-rrm6-wvj7-cwh2,https://da.gd/vv2h
+GithubAdvisories,[GHSA-5h2q-4hrp-v9rr] Django vulnerable to Improper Restriction of Operations within the Bounds of a Memory Buffer,https://github.com/advisories/GHSA-5h2q-4hrp-v9rr,https://da.gd/3Juw
+GithubAdvisories,[GHSA-mpvf-6h9g-2hq2] PowerJob Incorrect Access Control vulnerability,https://github.com/advisories/GHSA-mpvf-6h9g-2hq2,https://da.gd/4TEI8
+GithubAdvisories,[GHSA-5c86-gpvc-fp53] PowerJob vulnerable to Insecure Permissions,https://github.com/advisories/GHSA-5c86-gpvc-fp53,https://da.gd/8qyaLv
