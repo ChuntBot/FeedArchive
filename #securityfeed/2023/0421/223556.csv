@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4m3m-ppvx-xgw9] Session fixation in fastify-passport,https://github.com/advisories/GHSA-4m3m-ppvx-xgw9,https://da.gd/tBWGAH
+GithubAdvisories,[GHSA-2ccf-ffrj-m4qw] CSRF token fixation in fastify-passport,https://github.com/advisories/GHSA-2ccf-ffrj-m4qw,https://da.gd/cNgQ54
