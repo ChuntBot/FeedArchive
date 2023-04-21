@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3qj8-93xh-pwh2] Starlette allows an unauthenticated and remote attacker to specify any number of form fields or files,https://github.com/advisories/GHSA-3qj8-93xh-pwh2,https://da.gd/gCNPnf
+GithubAdvisories,[GHSA-mj9r-fpv3-rgfx] Shopware vulnerable to cross-site scripting (XSS),https://github.com/advisories/GHSA-mj9r-fpv3-rgfx,https://da.gd/0fZ4px
+GithubAdvisories,[GHSA-833c-xh79-p429] A potential risk in clusternet which can be leveraged to make a cluster-level privilege escalation,https://github.com/advisories/GHSA-833c-xh79-p429,https://da.gd/FFb1S
+GithubAdvisories,[GHSA-23fx-92m6-4f2g] pretalx allows path traversal in HTML export,https://github.com/advisories/GHSA-23fx-92m6-4f2g,https://da.gd/z0241P
