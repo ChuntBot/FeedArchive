@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-583x-23h9-f5w7] Strapi does not verify the access or ID tokens issued during the OAuth flow,https://github.com/advisories/GHSA-583x-23h9-f5w7,https://da.gd/6udw8
+GithubAdvisories,[GHSA-7m8r-gmc3-3p4v] alextselegidis/easyappointments vulnerable to Stored Cross-site Scripting,https://github.com/advisories/GHSA-7m8r-gmc3-3p4v,https://da.gd/T8zi4
