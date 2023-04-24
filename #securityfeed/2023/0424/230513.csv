@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-88qf-5f3v-pm6m] Remote code execution in dawnsparks-node-tesseract,https://github.com/advisories/GHSA-88qf-5f3v-pm6m,https://da.gd/M585fi
+GithubAdvisories,[GHSA-wq8f-xmq3-5vq9] Remote code execution in broccoli-compass,https://github.com/advisories/GHSA-wq8f-xmq3-5vq9,https://da.gd/Az6Mo
+GithubAdvisories,[GHSA-65g2-x53q-cmf6] Sensitive Terraform Output Values Printed At Info Logging Level In Kitchen-Terraform,https://github.com/advisories/GHSA-65g2-x53q-cmf6,https://da.gd/AKpc
+GithubAdvisories,[GHSA-fwcf-753v-fgcj] Unrestricted file upload in kiwi TCMS,https://github.com/advisories/GHSA-fwcf-753v-fgcj,https://da.gd/uma0n
+GithubAdvisories,[GHSA-xv3h-4844-9h36] HTTP Multiline Header Termination,https://github.com/advisories/GHSA-xv3h-4844-9h36,https://da.gd/GSawk
+GithubAdvisories,[GHSA-jg8w-wgx2-g7q4] Improper Restriction of Excessive Authentication Attempts in calibreweb,https://github.com/advisories/GHSA-jg8w-wgx2-g7q4,https://da.gd/3YxvbD
+GithubAdvisories,[GHSA-4r6h-8v6p-xvw6] Prototype Pollution in sheetJS,https://github.com/advisories/GHSA-4r6h-8v6p-xvw6,https://da.gd/QQVvy
+GithubAdvisories,[GHSA-9p5f-5x8v-x65m] Directory traversal + file write causing arbitrary code execution,https://github.com/advisories/GHSA-9p5f-5x8v-x65m,https://da.gd/pYWwL
+GithubAdvisories,[GHSA-5cx2-vq3h-x52c] Missing check for default SECRET_KEY,https://github.com/advisories/GHSA-5cx2-vq3h-x52c,https://da.gd/l8OJgQ
+GithubAdvisories,[GHSA-6m9f-pj6w-w87g] Rancher Webhook is misconfigured during upgrade process,https://github.com/advisories/GHSA-6m9f-pj6w-w87g,https://da.gd/tmaVus
+GithubAdvisories,[GHSA-w9g2-3w7p-72g9] Incorrect success value returned in vyper,https://github.com/advisories/GHSA-w9g2-3w7p-72g9,https://da.gd/j40hf
