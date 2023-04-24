@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h83h-77x2-6w6g] Information exposure in microweber,https://github.com/advisories/GHSA-h83h-77x2-6w6g,https://da.gd/95shV7
+GithubAdvisories,[GHSA-qvc4-78gw-pv8p] Adverserial use of `make_bitflags!` macro can cause undefined behavior,https://github.com/advisories/GHSA-qvc4-78gw-pv8p,https://da.gd/Nvcoep
+GithubAdvisories,[GHSA-7x6q-3v3m-cwjg] kiwi TCMS has possibility for user to update email address to unverified one,https://github.com/advisories/GHSA-7x6q-3v3m-cwjg,https://da.gd/oRMETj
+GithubAdvisories,[GHSA-ch5w-2994-6h82] Cross-site Scripting in thorsten/phpmyfaq,https://github.com/advisories/GHSA-ch5w-2994-6h82,https://da.gd/KiXfXQ
