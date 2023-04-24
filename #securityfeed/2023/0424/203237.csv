@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c6mx-3fj9-9j7q] PowerJob vulnerable to incorrect access control,https://github.com/advisories/GHSA-c6mx-3fj9-9j7q,https://da.gd/tp8ONz
+GithubAdvisories,[GHSA-cfh2-7f6h-3m85] Access bypass in Drupal Core,https://github.com/advisories/GHSA-cfh2-7f6h-3m85,https://da.gd/fFwY
+GithubAdvisories,[GHSA-6pvf-cq4f-hfjp] modoboa vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-6pvf-cq4f-hfjp,https://da.gd/GOqFP
+GithubAdvisories,[GHSA-67mg-gm8m-ph5r] Improper Authorization in modoboa,https://github.com/advisories/GHSA-67mg-gm8m-ph5r,https://da.gd/MXTB
+GithubAdvisories,[GHSA-h3r8-h5qw-4r35] sidekiq vulnerable to cross-site scripting,https://github.com/advisories/GHSA-h3r8-h5qw-4r35,https://da.gd/JFQ8A
+GithubAdvisories,[GHSA-g66v-3v62-g375] RosarioSIS improper access control vulnerability,https://github.com/advisories/GHSA-g66v-3v62-g375,https://da.gd/ct9r2
+GithubAdvisories,[GHSA-wh3w-jcc7-mhmf] pretalx vulnerable to path traversal in HTML export,https://github.com/advisories/GHSA-wh3w-jcc7-mhmf,https://da.gd/T8ORJ
+GithubAdvisories,[GHSA-g5h3-w546-pj7f] Spring Boot Security Bypass with Wildcard Pattern Matching on Cloud Foundry,https://github.com/advisories/GHSA-g5h3-w546-pj7f,https://da.gd/xKBXFs
