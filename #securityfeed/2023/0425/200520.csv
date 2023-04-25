@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j4rf-7357-f4cg] Unpatched extfs vulnerabilities are exploitable through suid-mode Apptainer and Singularity,https://github.com/advisories/GHSA-j4rf-7357-f4cg,https://da.gd/45Kq3
+GithubAdvisories,[GHSA-xv83-x443-7rmw] HTML injection in search results via plaintext message highlighting,https://github.com/advisories/GHSA-xv83-x443-7rmw,https://da.gd/mqRa7X
+GithubAdvisories,[GHSA-xgh5-gwq5-rpx8] Arbitrary javascript injection in Apache Jena,https://github.com/advisories/GHSA-xgh5-gwq5-rpx8,https://da.gd/OMsF
+GithubAdvisories,[GHSA-fh7r-996q-gvcp] Possible XSS injection through Validate::isCleanHTML method,https://github.com/advisories/GHSA-fh7r-996q-gvcp,https://da.gd/kC4TZd
+GithubAdvisories,"[GHSA-p379-cxqh-q822] SQL filter bypass leading to arbitrary write requests using ""SQL Manager""",https://github.com/advisories/GHSA-p379-cxqh-q822,https://da.gd/lY3fGQ
