@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fp7q-xhhw-6rj3] Path traversal vulnerability in the file manager,https://github.com/advisories/GHSA-fp7q-xhhw-6rj3,https://da.gd/qnpmH
+GithubAdvisories,[GHSA-8r4m-5p6p-52rp] Arbitrary file read via SQL injection,https://github.com/advisories/GHSA-8r4m-5p6p-52rp,https://da.gd/J7iK
+GithubAdvisories,[GHSA-mjv9-vp6w-3rc9] AWS SDK for Rust will log AWS credentials when TRACE-level logging is enabled for request sending,https://github.com/advisories/GHSA-mjv9-vp6w-3rc9,https://da.gd/MvzjJ
+GithubAdvisories,[GHSA-mhmp-m6g7-7c24] Weak Password Requirements in calibreweb,https://github.com/advisories/GHSA-mhmp-m6g7-7c24,https://da.gd/CMZZ
+GithubAdvisories,[GHSA-wv7j-rc2q-9j67] Cross Site Scripting in CraftCMS,https://github.com/advisories/GHSA-wv7j-rc2q-9j67,https://da.gd/H1Yxk
