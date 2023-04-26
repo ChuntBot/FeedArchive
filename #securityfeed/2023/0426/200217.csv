@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jh3w-6jp2-vqqm] Missing permission check of canView in GridFieldPrintButton,https://github.com/advisories/GHSA-jh3w-6jp2-vqqm,https://da.gd/WtKcUB
+GithubAdvisories,[GHSA-fw84-xgm8-9jmv] Open redirect vulnerability on CMSSecurity relogin screen,https://github.com/advisories/GHSA-fw84-xgm8-9jmv,https://da.gd/15TdL
+GithubAdvisories,[GHSA-9wh7-397j-722m] Ironic and ironic-inspector may expose as ConfigMaps,https://github.com/advisories/GHSA-9wh7-397j-722m,https://da.gd/cJWH8
+GithubAdvisories,[GHSA-35jj-vqcf-f2jf] Hidden fields can be leaked on readable collections in Payload,https://github.com/advisories/GHSA-35jj-vqcf-f2jf,https://da.gd/Zniv
+GithubAdvisories,[GHSA-w9mr-28mw-j8hg] Hop-by-hop abuse to malform header mutator,https://github.com/advisories/GHSA-w9mr-28mw-j8hg,https://da.gd/88VDO
+GithubAdvisories,[GHSA-2fch-hv74-fgw9] Cross site scripting (XSS) in wwbn/avideo,https://github.com/advisories/GHSA-2fch-hv74-fgw9,https://da.gd/lToc0f
+GithubAdvisories,[GHSA-g36h-4jr6-qmm9] Improper input validation in Drupal core,https://github.com/advisories/GHSA-g36h-4jr6-qmm9,https://da.gd/A3bu9X
