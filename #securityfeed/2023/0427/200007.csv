@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wj6r-53f5-q789] Duplicate Advisory: AVideo contains Command injection when embedding a video link,https://github.com/advisories/GHSA-wj6r-53f5-q789,https://da.gd/K1ZM2
+GithubAdvisories,[GHSA-2295-vh28-pphc] Cross-site Scripting (XSS) in DataObjects QuantityValue Unit Definition,https://github.com/advisories/GHSA-2295-vh28-pphc,https://da.gd/LRJEM
+GithubAdvisories,[GHSA-x9xj-pqmv-8jf7] Cross-site Scripting (XSS) in DataObject Class date fields,https://github.com/advisories/GHSA-x9xj-pqmv-8jf7,https://da.gd/uCsG
+GithubAdvisories,[GHSA-cjv6-w5hf-5wr6] Cross-site Scripting (XSS) in Ecommerce Pricing Rules name field,https://github.com/advisories/GHSA-cjv6-w5hf-5wr6,https://da.gd/E6oB1
+GithubAdvisories,[GHSA-476g-v7hf-cw5m] Cross-site Scripting (XSS) in Document Properties Parameter,https://github.com/advisories/GHSA-476g-v7hf-cw5m,https://da.gd/2MH1Q
