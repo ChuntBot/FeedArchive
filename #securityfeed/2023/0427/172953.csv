@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4x35-vr82-xvj6] SQL Injection in AssetController,https://github.com/advisories/GHSA-4x35-vr82-xvj6,https://da.gd/4C7DC
+GithubAdvisories,[GHSA-2c67-p4xh-m34w] Cross-site Scripting (XSS) in Website Settings name field,https://github.com/advisories/GHSA-2c67-p4xh-m34w,https://da.gd/w8GkWw
+GithubAdvisories,[GHSA-fq95-rx4q-qgg2] Cross-site Scripting (XSS) in Admin Login too many attempts notice,https://github.com/advisories/GHSA-fq95-rx4q-qgg2,https://da.gd/Z8WpZ
+GithubAdvisories,[GHSA-9q7q-r54q-3f3g] Cross-site Scripting (XSS) in DataObject Classification Store,https://github.com/advisories/GHSA-9q7q-r54q-3f3g,https://da.gd/LVT3n
+GithubAdvisories,[GHSA-jwg4-qcgv-5wg6] SQL Injection in Admin Translations API,https://github.com/advisories/GHSA-jwg4-qcgv-5wg6,https://da.gd/Xnz0
+GithubAdvisories,[GHSA-xmg8-w465-mr56] SQL Injection in Translation Export API,https://github.com/advisories/GHSA-xmg8-w465-mr56,https://da.gd/7ULUVM
+GithubAdvisories,[GHSA-6mhm-gcpf-5gr8] SQL Injection in Admin Search Find API,https://github.com/advisories/GHSA-6mhm-gcpf-5gr8,https://da.gd/Iw1b
+GithubAdvisories,[GHSA-2hp9-3xfr-r9w2] Insufficient token expiration in Serenity,https://github.com/advisories/GHSA-2hp9-3xfr-r9w2,https://da.gd/7NTRT
+GithubAdvisories,[GHSA-ch89-5g45-qwc7] Undefined Behavior in Rust runtime functions,https://github.com/advisories/GHSA-ch89-5g45-qwc7,https://da.gd/AiVAW
+GithubAdvisories,[GHSA-93h6-wx7r-mgfp] Cross Site Scripting (XSS) in Serenity,https://github.com/advisories/GHSA-93h6-wx7r-mgfp,https://da.gd/K6W7H
