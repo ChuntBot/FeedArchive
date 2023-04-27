@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j5c3-r84f-9596] Arbitrary File Read in Admin JS CSS files,https://github.com/advisories/GHSA-j5c3-r84f-9596,https://da.gd/yf5Q4v
+GithubAdvisories,[GHSA-g93x-fm2w-5pxw] Cross-site Scripting (XSS) in DataObject columns grid,https://github.com/advisories/GHSA-g93x-fm2w-5pxw,https://da.gd/kRj2S8
+GithubAdvisories,[GHSA-6fvf-x8c6-2f6j] Cross-site Scripting (XSS) in DataObject Any Getter grid operator,https://github.com/advisories/GHSA-6fvf-x8c6-2f6j,https://da.gd/kqRck
+GithubAdvisories,"[GHSA-hg77-vx9v-f49x] Path Traversal in Asset ""import from server"" option",https://github.com/advisories/GHSA-hg77-vx9v-f49x,https://da.gd/hGhjV
