@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gh24-c683-79r2] Arbitrary code execution in jfinal CMS,https://github.com/advisories/GHSA-gh24-c683-79r2,https://da.gd/qRPPy
+GithubAdvisories,"[GHSA-wwxh-74fx-33c6] Possible prototype pollution in metadata record, when using meta decorator",https://github.com/advisories/GHSA-wwxh-74fx-33c6,https://da.gd/77pvz
+GithubAdvisories,[GHSA-hjp3-5g2q-7jww] Race Condition leading to logging errors,https://github.com/advisories/GHSA-hjp3-5g2q-7jww,https://da.gd/262XVu
+GithubAdvisories,[GHSA-ph6g-6v8w-8p6m] Missing rate limit for password resets,https://github.com/advisories/GHSA-ph6g-6v8w-8p6m,https://da.gd/TltZo
+GithubAdvisories,[GHSA-fgxj-g7x3-85cq] Stored cross site scripting in RSS displayer,https://github.com/advisories/GHSA-fgxj-g7x3-85cq,https://da.gd/uxyc
+GithubAdvisories,[GHSA-474f-mcjv-pgrm] Stored cross site scripting,https://github.com/advisories/GHSA-474f-mcjv-pgrm,https://da.gd/b8Bukm
+GithubAdvisories,[GHSA-xfmj-r86m-j2hr] Stored cross site scripting on API integration,https://github.com/advisories/GHSA-xfmj-r86m-j2hr,https://da.gd/snDwOZ
