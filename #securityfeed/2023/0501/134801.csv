@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vcpr-hm2m-gjjj] Reflected cross site scripting,https://github.com/advisories/GHSA-vcpr-hm2m-gjjj,https://da.gd/bGo3Y
+GithubAdvisories,[GHSA-2j26-j953-2rph] Stored cross site scripting on saved presets,https://github.com/advisories/GHSA-2j26-j953-2rph,https://da.gd/nLZg5
+GithubAdvisories,[GHSA-pj76-75cm-3552] Authenication bypass,https://github.com/advisories/GHSA-pj76-75cm-3552,https://da.gd/EHA4P
+GithubAdvisories,[GHSA-9h33-5fxw-r2xv] Stored cross site scripting via container name,https://github.com/advisories/GHSA-9h33-5fxw-r2xv,https://da.gd/i6WnAw
+GithubAdvisories,[GHSA-83fm-w79m-64r5] Remote file access vulnerability in `mlflow server` and `mlflow ui` CLIs,https://github.com/advisories/GHSA-83fm-w79m-64r5,https://da.gd/7LyvVK
+GithubAdvisories,[GHSA-9xg6-75mh-7x3f] Cross-site Scripting (XSS) in pimcore,https://github.com/advisories/GHSA-9xg6-75mh-7x3f,https://da.gd/ElSN1a
+GithubAdvisories,[GHSA-x422-6qhv-p29g] Relative path traversal in mlflow,https://github.com/advisories/GHSA-x422-6qhv-p29g,https://da.gd/H8zBU
+GithubAdvisories,[GHSA-h3qr-39j9-4r5v] Data written to GitHub Actions Cache may expose secrets,https://github.com/advisories/GHSA-h3qr-39j9-4r5v,https://da.gd/CTme3
