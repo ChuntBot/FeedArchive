@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-847g-34c5-vvm8] editor.md vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-847g-34c5-vvm8,https://da.gd/VbSRB
+GithubAdvisories,[GHSA-pjfj-qvqw-3f6v] Apache StreamPark LDAP Injection vulnerability,https://github.com/advisories/GHSA-pjfj-qvqw-3f6v,https://da.gd/bE9rO
+GithubAdvisories,[GHSA-8595-6653-96p2] phpMyFAQ vulnerable to Stored Cross-site Scripting,https://github.com/advisories/GHSA-8595-6653-96p2,https://da.gd/pjkTV
+GithubAdvisories,"[GHSA-xr9h-p2rc-rpqm] WWBN/AVideo stored XSS vulnerability leads to takeover of any user's account, including admin's account",https://github.com/advisories/GHSA-xr9h-p2rc-rpqm,https://da.gd/Itchoo
