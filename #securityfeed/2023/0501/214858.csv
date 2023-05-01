@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xr7r-88qv-q7hm] Out of bounds write in serde_cbor,https://github.com/advisories/GHSA-xr7r-88qv-q7hm,https://da.gd/kq62n8
