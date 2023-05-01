@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m2qf-hxjv-5gpq] Flask vulnerable to possible disclosure of permanent session cookie due to missing Vary: Cookie header,https://github.com/advisories/GHSA-m2qf-hxjv-5gpq,https://da.gd/mBkF
