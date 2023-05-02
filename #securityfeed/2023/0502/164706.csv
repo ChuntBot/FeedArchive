@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g2mc-fqqc-hxg3] Pimcore Path Traversal Vulnerability in AdminBundle/Controller/Reports/CustomReportController.php,https://github.com/advisories/GHSA-g2mc-fqqc-hxg3,https://da.gd/C73z
+GithubAdvisories,[GHSA-vr8j-hgmm-jh9r] openssl-src subject to DoS by double-checked locking,https://github.com/advisories/GHSA-vr8j-hgmm-jh9r,https://da.gd/qEomD
