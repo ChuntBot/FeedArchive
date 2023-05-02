@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7mmc-22g7-3xq2] Moodle SQL Injection vulnerability,https://github.com/advisories/GHSA-7mmc-22g7-3xq2,https://da.gd/soKj
+GithubAdvisories,[GHSA-22gj-8qj2-fj46] Moodle External Control of File Name or Path vulnerability,https://github.com/advisories/GHSA-22gj-8qj2-fj46,https://da.gd/X2sLt
+GithubAdvisories,[GHSA-f8hp-grmr-pp7j] RosarioSIS vulnerable to CSV Injection,https://github.com/advisories/GHSA-f8hp-grmr-pp7j,https://da.gd/0a2TO
