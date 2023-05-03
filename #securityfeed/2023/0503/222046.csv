@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4wm2-cwcf-wwvp] Tauri Open Redirect Vulnerability Possibly Exposes IPC to External Sites,https://github.com/advisories/GHSA-4wm2-cwcf-wwvp,https://da.gd/zUDes
+GithubAdvisories,[GHSA-r97q-ghch-82j9] Ghost vulnerable to information disclosure of private API fields,https://github.com/advisories/GHSA-r97q-ghch-82j9,https://da.gd/YYTb2
+GithubAdvisories,[GHSA-q9mw-68c2-j6m5] engine.io Uncaught Exception vulnerability,https://github.com/advisories/GHSA-q9mw-68c2-j6m5,https://da.gd/p00J95
+GithubAdvisories,[GHSA-2h5h-59f5-c5x9] Rekor's compressed archives can result in OOM conditions,https://github.com/advisories/GHSA-2h5h-59f5-c5x9,https://da.gd/HTNCk
