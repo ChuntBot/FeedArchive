@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-228f-g3h7-3fj3] RubyGems HTTPS to HTTP redirect,https://github.com/advisories/GHSA-228f-g3h7-3fj3,https://da.gd/zCpM
+GithubAdvisories,[GHSA-5mgj-mvv8-46mw] RubyGems does not verify SSL certificate,https://github.com/advisories/GHSA-5mgj-mvv8-46mw,https://da.gd/MK8O
+GithubAdvisories,[GHSA-qv62-xfj6-32xm] RubyGems Improper Input Validation vulnerability,https://github.com/advisories/GHSA-qv62-xfj6-32xm,https://da.gd/MPDM
