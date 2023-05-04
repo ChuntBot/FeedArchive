@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m2jr-hmc3-qmpr] Authorization bypass in Spree,https://github.com/advisories/GHSA-m2jr-hmc3-qmpr,https://da.gd/5fAeU
+GithubAdvisories,[GHSA-33vf-4xgg-9r58] HTTP Response Splitting (Early Hints) in Puma,https://github.com/advisories/GHSA-33vf-4xgg-9r58,https://da.gd/7b1E
+GithubAdvisories,[GHSA-xq52-rv6w-397c] Directive injection when using dynamic overrides with user input,https://github.com/advisories/GHSA-xq52-rv6w-397c,https://da.gd/7Pfl
+GithubAdvisories,[GHSA-w978-rmpf-qmwg] Limited header injection when using dynamic overrides with user input in RubyGems secure_headers,https://github.com/advisories/GHSA-w978-rmpf-qmwg,https://da.gd/1pjXa
+GithubAdvisories,[GHSA-qpg4-4w7w-2mq5] Authentication and extension bypass in Faye,https://github.com/advisories/GHSA-qpg4-4w7w-2mq5,https://da.gd/CoffST
+GithubAdvisories,[GHSA-3q49-h8f9-9fr9] Missing TLS certificate verification,https://github.com/advisories/GHSA-3q49-h8f9-9fr9,https://da.gd/6Ay0dP
