@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xgww-h98f-24qf] Metasploit Framework user exposes Metasploit to same deserialization issue that is exploited by that module,https://github.com/advisories/GHSA-xgww-h98f-24qf,https://da.gd/vnorRi
+GithubAdvisories,[GHSA-jmp2-wc4p-wfh2] Mutagen list and monitor operations do not neutralize control characters in text controlled by remote endpoints,https://github.com/advisories/GHSA-jmp2-wc4p-wfh2,https://da.gd/LLDgt
+GithubAdvisories,[GHSA-9chv-3w6c-jq9w] Cross Site Scripting in OpenTSDB,https://github.com/advisories/GHSA-9chv-3w6c-jq9w,https://da.gd/Upn033
+GithubAdvisories,[GHSA-h475-7v3c-26q7] Command injection in OpenTSDB,https://github.com/advisories/GHSA-h475-7v3c-26q7,https://da.gd/PrOMkF
+GithubAdvisories,[GHSA-mphm-gqh9-q59x] Stored cross site scripting in Microbin,https://github.com/advisories/GHSA-mphm-gqh9-q59x,https://da.gd/d55D4z
+GithubAdvisories,[GHSA-m69h-4frq-vwq7] Server-side template injection in beetl,https://github.com/advisories/GHSA-m69h-4frq-vwq7,https://da.gd/aXLo
+GithubAdvisories,[GHSA-3vp4-m3rf-835h] Improper input validation in github.com/gin-gonic/gin,https://github.com/advisories/GHSA-3vp4-m3rf-835h,https://da.gd/S90RI7
+GithubAdvisories,[GHSA-vpf7-r2fv-75m9] Uncontrolled Resource Consumption in OPC UA .NET Standard Reference Server,https://github.com/advisories/GHSA-vpf7-r2fv-75m9,https://da.gd/xsqvQg
+GithubAdvisories,[GHSA-4cvp-hr63-822j] Exposure of Sensitive Information in OPC UA .NET Standard Reference Server,https://github.com/advisories/GHSA-4cvp-hr63-822j,https://da.gd/Qufc
+GithubAdvisories,[GHSA-fwj4-72fm-c93g] Under-validated ComSpec and cmd.exe resolution in Mutagen projects,https://github.com/advisories/GHSA-fwj4-72fm-c93g,https://da.gd/6FWnB4
+GithubAdvisories,[GHSA-jj45-24rw-v6jw] Cross-site scripting in TotalJS,https://github.com/advisories/GHSA-jj45-24rw-v6jw,https://da.gd/Hj4lS
