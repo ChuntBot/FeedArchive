@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mgv8-gggw-mrg6] vyper vulnerable to storage allocator overflow,https://github.com/advisories/GHSA-mgv8-gggw-mrg6,https://da.gd/zIiwoy
