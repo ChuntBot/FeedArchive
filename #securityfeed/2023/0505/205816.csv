@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-55vq-xpjf-r2xc] Lightbend Alpakka Kafka logs credentials on debug level,https://github.com/advisories/GHSA-55vq-xpjf-r2xc,https://da.gd/0t0aZ
+GithubAdvisories,[GHSA-w7jm-9x4m-8qc3] User account enumeration in Serenity,https://github.com/advisories/GHSA-w7jm-9x4m-8qc3,https://da.gd/5oowt
+GithubAdvisories,[GHSA-2ggc-552c-rmqr] Stored cross site scripting on tags,https://github.com/advisories/GHSA-2ggc-552c-rmqr,https://da.gd/ylyvk
