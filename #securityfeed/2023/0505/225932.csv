@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x873-6rgc-94jc] Spring Security logout not clearing security context,https://github.com/advisories/GHSA-x873-6rgc-94jc,https://da.gd/GDtSry
+GithubAdvisories,[GHSA-vjr2-wpfh-5r9p] Apache Ranger Hive Plugin missing permissions check,https://github.com/advisories/GHSA-vjr2-wpfh-5r9p,https://da.gd/J4sUJx
+GithubAdvisories,[GHSA-wf7x-fh6w-34r6] Path Traversal in Ghost,https://github.com/advisories/GHSA-wf7x-fh6w-34r6,https://da.gd/g3Mhgt
+GithubAdvisories,[GHSA-4m7v-wr6v-2mw5] AzuraCast missing brute force prevention,https://github.com/advisories/GHSA-4m7v-wr6v-2mw5,https://da.gd/gmhwjz
