@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] Fix temporary email aliases sorting,https://github.com/mailcow/mailcow-dockerized/commit/cf1cc24e33ec0410f79be808c52507844ac4e18e,https://da.gd/fip5H
+GithubCommitStaging,Merge pull request #5198 from mailcow/fix/sorting-tla,https://github.com/mailcow/mailcow-dockerized/commit/2cbf0da13707270670328b122db716161fb89bc0,https://da.gd/Vj5et
