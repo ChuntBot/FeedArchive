@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Dockerapi] Fix typo in dockerapi sieve print,https://github.com/mailcow/mailcow-dockerized/commit/6e79c486404e423425097d4506b956265f23eb7d,https://da.gd/13sM
+GithubCommitStaging,[Web] hide user tabs if acl is missing,https://github.com/mailcow/mailcow-dockerized/commit/c2bcc4e086a20097f2956522877d09ab219c3dce,https://da.gd/dMfXra
+GithubCommitStaging,Add IP Connect Inc,https://github.com/mailcow/mailcow-dockerized/commit/f3322c05772c8192160628c6e7a5e6477e87f7e6,https://da.gd/BM2i
+GithubCommitStaging,[Web] fix rspamd table on sm devices,https://github.com/mailcow/mailcow-dockerized/commit/0372a2150d438ad71c1acc853db2a8556486ee82,https://da.gd/7ffK
+GithubCommitStaging,Fix typo in mobileconfig redirect,https://github.com/mailcow/mailcow-dockerized/commit/fd203abd473d15c6b0d178ba4711b4a12c1a0fb3,https://da.gd/HKNJt
+GithubCommitStaging,[Web] fix rspamd table scan_time on sm devices,https://github.com/mailcow/mailcow-dockerized/commit/fe4a418af45fd7e82df7facfb9cdfb71efd17fb3,https://da.gd/yEO9a
+GithubCommitStaging,[Web] fix bcc localdest selectpicker,https://github.com/mailcow/mailcow-dockerized/commit/aabcd1053969e7bd3601c0dd7e7aa3e5b333cb97,https://da.gd/lCSo2
+GithubCommitStaging,Merge pull request #5204 from mailcow/fix/rspamd-table,https://github.com/mailcow/mailcow-dockerized/commit/58452abcdfb9242816546fbe2d9422999e001f87,https://da.gd/pJYlva
+GithubCommitStaging,Merge pull request #5202 from mailcow/feat/user-acl-tabs,https://github.com/mailcow/mailcow-dockerized/commit/e015c7dbca3e906bd53868f86a3ae6bf72145ce5,https://da.gd/yusKV
+GithubCommitStaging,Merge pull request #5220 from mailcow/fix/bcc-selectpicker,https://github.com/mailcow/mailcow-dockerized/commit/8eaf8bbbde5dd92e3d51b37b4b8ffdbab3a47636,https://da.gd/3Jtz
+GithubCommitStaging,Merge pull request #5211 from goodygh/5175-fix-mobileconfig-redirect,https://github.com/mailcow/mailcow-dockerized/commit/e38c27ed67914db35680f3c9fabdb92224012857,https://da.gd/hVuF1y
+GithubCommitStaging,Merge pull request #5201 from mailcow/fix/sieve-print,https://github.com/mailcow/mailcow-dockerized/commit/3c68a53170f915c9a1e09ea87152e6dce016a99b,https://da.gd/gE2tD
+GithubCommitStaging,Merge pull request #5203 from mailcow/feat/bad_asn,https://github.com/mailcow/mailcow-dockerized/commit/1a6f93327e7fe4189299e0c43315d755f1a922a0,https://da.gd/m31Coj
