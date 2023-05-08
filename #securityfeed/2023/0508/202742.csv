@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vcf6-3wv2-5vcr] Apache Airflow vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-vcf6-3wv2-5vcr,https://da.gd/O2Gsf
