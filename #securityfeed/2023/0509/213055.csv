@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g8xc-6mf7-h28h] OpenSearch issue with fine-grained access control during extremely rare race conditions,https://github.com/advisories/GHSA-g8xc-6mf7-h28h,https://da.gd/1qE3a
