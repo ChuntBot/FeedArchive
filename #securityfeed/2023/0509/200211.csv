@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pv7v-ph6g-3gxv] Improper Neutralization of Invalid Characters in Data Attribute Names in org.xwiki.commons:xwiki-commons-xml,https://github.com/advisories/GHSA-pv7v-ph6g-3gxv,https://da.gd/uc2f
+GithubAdvisories,"[GHSA-93xx-cvmc-9w3v] On a compromised node, the fluid-csi service account can be used to modify node specs",https://github.com/advisories/GHSA-93xx-cvmc-9w3v,https://da.gd/9ASNzi
