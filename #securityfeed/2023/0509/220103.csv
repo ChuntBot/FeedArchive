@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r3xc-prgr-mg9p] Django bypasses validation when using one form field to upload multiple files,https://github.com/advisories/GHSA-r3xc-prgr-mg9p,https://da.gd/Vs7S
