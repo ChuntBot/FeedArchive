@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m6m9-gr85-79vm] Pimcore Cross-site Scripting (XSS) in name field of Custom Reports,https://github.com/advisories/GHSA-m6m9-gr85-79vm,https://da.gd/4CJh
+GithubAdvisories,[GHSA-q7cc-m6jw-m262] Pimcore Cross-site Scripting (XSS) in Predefined Properties delete,https://github.com/advisories/GHSA-q7cc-m6jw-m262,https://da.gd/UH3gj
+GithubAdvisories,[GHSA-r3fg-3r88-6x3f] Ibexa User Settings are accessible on the front-end for anonymous user,https://github.com/advisories/GHSA-r3fg-3r88-6x3f,https://da.gd/ka0G
+GithubAdvisories,[GHSA-j93v-cx26-2xc4] Duplicate Advisory: Cross-site Scripting (XSS) in Predefined Properties delete,https://github.com/advisories/GHSA-j93v-cx26-2xc4,https://da.gd/PfNZs
+GithubAdvisories,[GHSA-6gp6-xj27-g89q] Duplicate Advisory: Cross-site Scripting (XSS) in name field of Custom Reports,https://github.com/advisories/GHSA-6gp6-xj27-g89q,https://da.gd/5PuLN
+GithubAdvisories,[GHSA-g947-422m-hr7p] Duplicate Advisory: Pimcore Cross-site Scripting (XSS) in Static Routes name field,https://github.com/advisories/GHSA-g947-422m-hr7p,https://da.gd/IE3oH1
