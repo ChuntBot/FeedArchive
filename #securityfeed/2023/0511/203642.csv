@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qmqw-r4x6-3w2q] Answer Missing Authorization vulnerability,https://github.com/advisories/GHSA-qmqw-r4x6-3w2q,https://da.gd/GNtGmE
+GithubAdvisories,[GHSA-9x7h-ggc3-xg47] imgproxy is vulnerable to Server-Side Request Forgery,https://github.com/advisories/GHSA-9x7h-ggc3-xg47,https://da.gd/ah0g
+GithubAdvisories,[GHSA-293v-5329-36wp] MCMS vulnerable to arbitrary code execution via crafted thumbnail,https://github.com/advisories/GHSA-293v-5329-36wp,https://da.gd/fNnT
+GithubAdvisories,[GHSA-jchm-fm4q-c2fp] Apache Airflow vulnerable to Privilege Context Switching Error,https://github.com/advisories/GHSA-jchm-fm4q-c2fp,https://da.gd/Ujtyi
+GithubAdvisories,[GHSA-m974-xj4j-7qv5] Boxo bitswap/server: DOS unbounded persistent memory leak,https://github.com/advisories/GHSA-m974-xj4j-7qv5,https://da.gd/26WHh
+GithubAdvisories,[GHSA-mhpj-7m7h-8p6x] Pimcore Cross-site Scripting (XSS) in Static Routes name field,https://github.com/advisories/GHSA-mhpj-7m7h-8p6x,https://da.gd/32gBW
+GithubAdvisories,[GHSA-wc6j-5g83-xfm6] mflow vulnerable to directory traversal,https://github.com/advisories/GHSA-wc6j-5g83-xfm6,https://da.gd/Bx9n9
