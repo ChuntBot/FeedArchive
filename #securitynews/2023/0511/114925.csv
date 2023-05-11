@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,RET2ASLR - return instructions from other processes can leak pointers through the Branch Target Buffer (BTB) in a reversed spectre-BTI like scenario,https://redd.it/13ekxn5,
