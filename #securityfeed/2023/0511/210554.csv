@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jjgp-whrp-gq8m] in-toto: PGP trust model not (fully) considered,https://github.com/advisories/GHSA-jjgp-whrp-gq8m,https://da.gd/S7RYEI
+GithubAdvisories,[GHSA-wc64-c5rv-32pf] in-toto vulnerable to Configuration Read From Local Directory,https://github.com/advisories/GHSA-wc64-c5rv-32pf,https://da.gd/jZxwO
+GithubAdvisories,[GHSA-r9xw-p7wj-w792] n8n Information Disclosure vulnerability,https://github.com/advisories/GHSA-r9xw-p7wj-w792,https://da.gd/1HRohc
+GithubAdvisories,[GHSA-97cp-mr4m-9mcf] n8n Privilege Escalation vulnerability,https://github.com/advisories/GHSA-97cp-mr4m-9mcf,https://da.gd/dicqnp
+GithubAdvisories,[GHSA-p58x-7733-vp9m] n8n Directory Traversal vulnerability,https://github.com/advisories/GHSA-p58x-7733-vp9m,https://da.gd/JSx9O
+GithubAdvisories,[GHSA-w766-3572-f2hv] Pimcore Cross-site Scripting (XSS) vulnerability in Admin Translations,https://github.com/advisories/GHSA-w766-3572-f2hv,https://da.gd/UVky
+GithubAdvisories,[GHSA-mq3x-qgwx-3rfw] Embedding untrusted input inside CSV files leads to Formula Injection/CSV Injection,https://github.com/advisories/GHSA-mq3x-qgwx-3rfw,https://da.gd/DJhEmS
+GithubAdvisories,[GHSA-2q89-485c-9j2x] Improper random reading in CIRCL,https://github.com/advisories/GHSA-2q89-485c-9j2x,https://da.gd/y1Rzas
+GithubAdvisories,[GHSA-qvqg-6rp8-4p9h] github.com/ipfs/kubo affected by DOS Bitswap unbounded persistent memory leak,https://github.com/advisories/GHSA-qvqg-6rp8-4p9h,https://da.gd/9CXF
+GithubAdvisories,[GHSA-q3j6-22wf-3jh9] github.com/ipfs/go-bitswap vulnerable to DOS unbounded persistent memory leak,https://github.com/advisories/GHSA-q3j6-22wf-3jh9,https://da.gd/hsboL
+GithubAdvisories,[GHSA-vcxh-qvgr-9fw9] m.static Directory Traversal vulnerability,https://github.com/advisories/GHSA-vcxh-qvgr-9fw9,https://da.gd/ctehz
+GithubAdvisories,[GHSA-hqxw-f8mx-cpmw] distribution catalog API endpoint can lead to OOM via malicious user input,https://github.com/advisories/GHSA-hqxw-f8mx-cpmw,https://da.gd/bIN3k
+GithubAdvisories,[GHSA-6gf5-c898-7rxp] Improper Neutralization of Script in Attributes in XWiki (X)HTML renderers,https://github.com/advisories/GHSA-6gf5-c898-7rxp,https://da.gd/rFXvx
+GithubAdvisories,[GHSA-36fm-j33w-c25f] Privilege escalation (PR)/RCE from account through class sheet,https://github.com/advisories/GHSA-36fm-j33w-c25f,https://da.gd/QT1cK
