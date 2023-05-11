@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p744-4q6p-hvc2] Wings vulnerable to escape to host from installation container,https://github.com/advisories/GHSA-p744-4q6p-hvc2,https://da.gd/IB3mig
+GithubAdvisories,[GHSA-pqj7-jx24-wj7w] VTAdmin users that can create shards can deny access to other functions,https://github.com/advisories/GHSA-pqj7-jx24-wj7w,https://da.gd/cvyp
