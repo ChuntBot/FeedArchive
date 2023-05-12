@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3p37-3636-q8wv] Vyper vulnerable to OOB DynArray access when array is on both LHS and RHS of an assignment,https://github.com/advisories/GHSA-3p37-3636-q8wv,https://da.gd/k4J9
+GithubAdvisories,[GHSA-6r8q-pfpv-7cgj] Vyper vulnerable to integer overflow in loop,https://github.com/advisories/GHSA-6r8q-pfpv-7cgj,https://da.gd/sIu4o
+GithubAdvisories,[GHSA-ph9x-4vc9-m39g] Vyper vulnerable to incorrect ordering of arguments for kwargs passed to internal calls,https://github.com/advisories/GHSA-ph9x-4vc9-m39g,https://da.gd/toDv0o
+GithubAdvisories,[GHSA-2mhh-27v7-3vcx] WWBN AVideo command injection vulnerability,https://github.com/advisories/GHSA-2mhh-27v7-3vcx,https://da.gd/KJws
+GithubAdvisories,[GHSA-gvrq-cg5r-7chp] Vert.x STOMP server process client frames that would not send initially a connect frame,https://github.com/advisories/GHSA-gvrq-cg5r-7chp,https://da.gd/DncCy
+GithubAdvisories,[GHSA-3p4g-rcw5-8298] etcd Key name can be accessed via LeaseTimeToLive API,https://github.com/advisories/GHSA-3p4g-rcw5-8298,https://da.gd/8EXLqP
+GithubAdvisories,[GHSA-2c4m-59x9-fr2g] Gin Web Framework does not properly sanitize filename parameter of Context.FileAttachment function,https://github.com/advisories/GHSA-2c4m-59x9-fr2g,https://da.gd/t7Nlvb
+GithubAdvisories,[GHSA-6mhc-hqr3-w466] PrestaShop Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-6mhc-hqr3-w466,https://da.gd/0z36W
+GithubAdvisories,[GHSA-g8ph-74m6-8m7r] ClickHouse vulnerable to client certificate password exposure in client exception,https://github.com/advisories/GHSA-g8ph-74m6-8m7r,https://da.gd/WTzVV
+GithubAdvisories,[GHSA-mg5h-f3q8-c96g] Apache OpenMeetings vulnerable to remote code execution via null-bye injection,https://github.com/advisories/GHSA-mg5h-f3q8-c96g,https://da.gd/ZF25V
+GithubAdvisories,[GHSA-v9rm-7rv9-r3fw] Apache OpenMeetings Improper Authentication vulnerability,https://github.com/advisories/GHSA-v9rm-7rv9-r3fw,https://da.gd/swE4
+GithubAdvisories,[GHSA-7g2v-2frm-rg94] Mattermost Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-7g2v-2frm-rg94,https://da.gd/9Npll
+GithubAdvisories,[GHSA-8vx6-69vg-c46f] Buffer under-read in workerd,https://github.com/advisories/GHSA-8vx6-69vg-c46f,https://da.gd/k2scc8
+GithubAdvisories,[GHSA-94q4-v5g6-qp7x] LavaLite CMS vulnerable to host header injection attack,https://github.com/advisories/GHSA-94q4-v5g6-qp7x,https://da.gd/akwOF
+GithubAdvisories,[GHSA-fjx5-xm7q-whvj] CraftCMS allows remote attacker to execute arbitrary code via crafted script to Section parameter,https://github.com/advisories/GHSA-fjx5-xm7q-whvj,https://da.gd/oQfUYU
