@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6gvj-8vc5-8v3j] org.xwiki.platform:xwiki-platform-oldcore Open Redirect vulnerability,https://github.com/advisories/GHSA-6gvj-8vc5-8v3j,https://da.gd/jMLcI
+GithubAdvisories,[GHSA-4xqq-73wg-5mjp] git-url-parse Regular Expression Denial of Service,https://github.com/advisories/GHSA-4xqq-73wg-5mjp,https://da.gd/08sY
+GithubAdvisories,[GHSA-8j28-34qq-gmch] Apache Sling Commons JSON bundle vulnerable to Improper Input Validation,https://github.com/advisories/GHSA-8j28-34qq-gmch,https://da.gd/scRO
+GithubAdvisories,[GHSA-whpj-8f3w-67p5] vm2 Sandbox Escape vulnerability,https://github.com/advisories/GHSA-whpj-8f3w-67p5,https://da.gd/o3Z2c
+GithubAdvisories,[GHSA-jh85-wwv9-24hv] Any file can be included with the pymdowm-snippets extension,https://github.com/advisories/GHSA-jh85-wwv9-24hv,https://da.gd/LeDpmV
