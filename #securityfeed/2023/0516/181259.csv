@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vp55-fhxx-vcx8] Maven Extension plugin for Gradle Enterprise vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-vp55-fhxx-vcx8,https://da.gd/hC7A
