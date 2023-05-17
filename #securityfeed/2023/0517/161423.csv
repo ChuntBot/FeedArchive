@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-25fx-3c2q-cq46] pimcore/customer-management-framework-bundle has SQL Injection vulnerability in Segment Assignment query,https://github.com/advisories/GHSA-25fx-3c2q-cq46,https://da.gd/knNiq6
