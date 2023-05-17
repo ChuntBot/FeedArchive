@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-46f2-x6h2-x9hx] Jenkins File Parameter Plugin arbitrary file write vulnerability,https://github.com/advisories/GHSA-46f2-x6h2-x9hx,https://da.gd/gIqz
+GithubAdvisories,[GHSA-h3hg-r97v-5r9w] Jenkins TestNG Results Plugin Stored Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-h3hg-r97v-5r9w,https://da.gd/ydCIo
+GithubAdvisories,[GHSA-97wp-63wq-hfwh] Jenkins Ansible Plugin job configuration form does not mask variables,https://github.com/advisories/GHSA-97wp-63wq-hfwh,https://da.gd/FZomRD
+GithubAdvisories,[GHSA-2f89-66v2-9p53] Jenkins Email Extension Plugin Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-2f89-66v2-9p53,https://da.gd/XH8l3k
+GithubAdvisories,[GHSA-6987-xccv-fhjp] Jenkins Pipeline Utility Steps Plugin arbitrary file write vulnerability,https://github.com/advisories/GHSA-6987-xccv-fhjp,https://da.gd/0MYS
+GithubAdvisories,[GHSA-6gp4-2f92-j2w5] Jenkins Email Extension Plugin missing permission check,https://github.com/advisories/GHSA-6gp4-2f92-j2w5,https://da.gd/p2QoAC
+GithubAdvisories,[GHSA-2wvv-phhw-qvmc] Jenkins Pipeline: Job Plugin vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-2wvv-phhw-qvmc,https://da.gd/RH8m89
+GithubAdvisories,[GHSA-xw6j-mq6v-pmv6] Jenkins SAML Single Sign On(SSO) Plugin Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-xw6j-mq6v-pmv6,https://da.gd/0S8E
