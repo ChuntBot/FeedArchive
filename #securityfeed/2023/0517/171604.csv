@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-95x4-j7vc-h8mf] ReactPHP's HTTP server continues parsing unused multipart parts after reaching input field and file upload limits,https://github.com/advisories/GHSA-95x4-j7vc-h8mf,https://da.gd/gMZy
+GithubAdvisories,[GHSA-92wq-q9pq-gw47] Dgraph Audit Log Encryption Vulnerability,https://github.com/advisories/GHSA-92wq-q9pq-gw47,https://da.gd/s1Oa
+GithubAdvisories,[GHSA-mjmf-7wjw-f5xx] Jenkins Code Dx Plugin missing permission checks,https://github.com/advisories/GHSA-mjmf-7wjw-f5xx,https://da.gd/NS66Dg
+GithubAdvisories,[GHSA-gx2j-5vc3-3794] Jenkins Code Dx Plugin cross-site request forgery vulnerability,https://github.com/advisories/GHSA-gx2j-5vc3-3794,https://da.gd/sGlPgt
+GithubAdvisories,[GHSA-w2pm-fr62-jgv4] Moodle vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-w2pm-fr62-jgv4,https://da.gd/OKeCJ
+GithubAdvisories,[GHSA-m44f-9jhg-59cr] alkacon-OpenCMS vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-m44f-9jhg-59cr,https://da.gd/dSXHt
+GithubAdvisories,[GHSA-j657-pjgc-c4h6] phpMyFAQ vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-j657-pjgc-c4h6,https://da.gd/qN3N
+GithubAdvisories,[GHSA-vppq-6ff8-2m8w] phpMyFAQ vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-vppq-6ff8-2m8w,https://da.gd/aXXxj
