@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p5gc-c584-jj6v] vm2 vulnerable to Inspect Manipulation,https://github.com/advisories/GHSA-p5gc-c584-jj6v,https://da.gd/g6QLVE
+GithubAdvisories,[GHSA-v5gw-mw7f-84px] Starlette has Path Traversal vulnerability in StaticFiles,https://github.com/advisories/GHSA-v5gw-mw7f-84px,https://da.gd/uBNYL
+GithubAdvisories,[GHSA-p6m6-9j36-vfjx] glazedlists XML Deserialization vulnerability,https://github.com/advisories/GHSA-p6m6-9j36-vfjx,https://da.gd/IDmF
+GithubAdvisories,[GHSA-5wpg-qcmj-48wh] TestComplete support Plugin vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-5wpg-qcmj-48wh,https://da.gd/rmxP
+GithubAdvisories,[GHSA-49f2-j3pp-22jm] Jenkins Tag Profiler Plugin vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-49f2-j3pp-22jm,https://da.gd/6YCdw
+GithubAdvisories,[GHSA-cpc3-gm2x-mrvp] Jenkins Tag Profiler Plugin missing permission check,https://github.com/advisories/GHSA-cpc3-gm2x-mrvp,https://da.gd/XQ7G
+GithubAdvisories,[GHSA-xxq2-74hw-vg6m] Jenkins WSO2 Oauth Plugin Session Fixation vulnerability,https://github.com/advisories/GHSA-xxq2-74hw-vg6m,https://da.gd/4CG2r
+GithubAdvisories,[GHSA-7xgj-j9hp-c692] Jenkins WSO2 Oauth Plugin cross-site request forgery vulnerability,https://github.com/advisories/GHSA-7xgj-j9hp-c692,https://da.gd/yRl9
+GithubAdvisories,[GHSA-7p6g-gr9g-vfx6] Jenkins LoadComplete support Plugin Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-7p6g-gr9g-vfx6,https://da.gd/RO7Sfj
