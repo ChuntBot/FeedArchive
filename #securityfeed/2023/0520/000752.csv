@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-chm8-wp3h-f4m3] Jenkins jira-ext Plugin stores credentials unencrypted,https://github.com/advisories/GHSA-chm8-wp3h-f4m3,https://da.gd/LetEh
+GithubAdvisories,[GHSA-4gm9-c9jq-g523] Froxlor vulnerable to Allocation of Resources Without Limits or Throttling,https://github.com/advisories/GHSA-4gm9-c9jq-g523,https://da.gd/KLNJ9
+GithubAdvisories,[GHSA-36cm-h8gv-mg97] RosarioSIS Stores Sensitive Data in a Mechanism without Access Control,https://github.com/advisories/GHSA-36cm-h8gv-mg97,https://da.gd/Spcw
