@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h79m-5cm2-278c] User data exposure in Apache InLong,https://github.com/advisories/GHSA-h79m-5cm2-278c,https://da.gd/lg41
+GithubAdvisories,[GHSA-5gj6-62g7-vmgf] Hazelcast vulnerable to unmasked password exposure,https://github.com/advisories/GHSA-5gj6-62g7-vmgf,https://da.gd/xKcAC
+GithubAdvisories,[GHSA-mxhg-rvwx-x993] Invalid push request payload crashes Parse Server,https://github.com/advisories/GHSA-mxhg-rvwx-x993,https://da.gd/e3w5u
+GithubAdvisories,[GHSA-m6m8-6gq8-c9fj] Remote Code Execution Vulnerability in Validation Placeholders in CodeIgniter4,https://github.com/advisories/GHSA-m6m8-6gq8-c9fj,https://da.gd/12thH
+GithubAdvisories,[GHSA-qjrq-hm79-49ww] ginuerzh/gost vulnerable to Timing Attack,https://github.com/advisories/GHSA-qjrq-hm79-49ww,https://da.gd/k8OWy
+GithubAdvisories,[GHSA-qg36-9jxh-fj25] Incorrect signature verification in django-ses,https://github.com/advisories/GHSA-qg36-9jxh-fj25,https://da.gd/C22cv
+GithubAdvisories,[GHSA-x7c2-7wvg-jpx7] kiwitcms vulnerable to stored XSS via unrestricted files upload,https://github.com/advisories/GHSA-x7c2-7wvg-jpx7,https://da.gd/t2RHRk
