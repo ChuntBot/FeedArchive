@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j8r2-6x86-q33q] Unintended leak of Proxy-Authorization header in requests,https://github.com/advisories/GHSA-j8r2-6x86-q33q,https://da.gd/GwjgK
+GithubAdvisories,[GHSA-vqxf-r9ph-cc9c] Craft CMS vulnerable to Remote Code Execution via unrestricted file extension,https://github.com/advisories/GHSA-vqxf-r9ph-cc9c,https://da.gd/tZmIJQ
+GithubAdvisories,[GHSA-vxmm-cwh2-q762] Vyper's nonpayable default functions are sometimes payable,https://github.com/advisories/GHSA-vxmm-cwh2-q762,https://da.gd/GZXH
+GithubAdvisories,[GHSA-8775-5hwv-wr6v] Potential for cross-site scripting in PostHog-js,https://github.com/advisories/GHSA-8775-5hwv-wr6v,https://da.gd/k82oW
+GithubAdvisories,[GHSA-2h44-x2wx-49f4] Potential HTTP policy bypass when using header rules in Cilium,https://github.com/advisories/GHSA-2h44-x2wx-49f4,https://da.gd/vvd8
