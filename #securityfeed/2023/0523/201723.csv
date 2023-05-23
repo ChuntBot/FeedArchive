@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6phf-6h5g-97j2] Sqlite-jdbc vulnerable to remote code execution when JDBC url is attacker controlled,https://github.com/advisories/GHSA-6phf-6h5g-97j2,https://da.gd/fmqBk
+GithubAdvisories,[GHSA-7gm3-mwjw-j53w] Command injection in nevado-jms,https://github.com/advisories/GHSA-7gm3-mwjw-j53w,https://da.gd/gwbAyY
+GithubAdvisories,[GHSA-cqmj-92xf-r6r9] Insufficient validation when decoding a Socket.IO packet,https://github.com/advisories/GHSA-cqmj-92xf-r6r9,https://da.gd/wuzOs
+GithubAdvisories,[GHSA-gw42-f939-fhvm] Administration Console authentication bypass in openfire xmppserver,https://github.com/advisories/GHSA-gw42-f939-fhvm,https://da.gd/wigq
