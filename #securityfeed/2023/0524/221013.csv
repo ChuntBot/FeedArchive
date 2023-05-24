@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-863x-868h-968x] Ingress-nginx `path` sanitization can be bypassed with newline character,https://github.com/advisories/GHSA-863x-868h-968x,https://da.gd/oZX5E
+GithubAdvisories,[GHSA-g9mr-9xfc-4gf7] Insecure Default Initialization In Liferay Portal,https://github.com/advisories/GHSA-g9mr-9xfc-4gf7,https://da.gd/LAyGu2
+GithubAdvisories,[GHSA-w6f8-mxf5-4vf8] Missing authorization in Liferay portal,https://github.com/advisories/GHSA-w6f8-mxf5-4vf8,https://da.gd/LNvHda
+GithubAdvisories,[GHSA-769c-p92r-xgxj] Liferay portal has unauthorized access to object definition via search,https://github.com/advisories/GHSA-769c-p92r-xgxj,https://da.gd/15MYF
+GithubAdvisories,[GHSA-2868-ff44-43qv] Liferay portal unauthorized access to objects via OAuth 2 scope,https://github.com/advisories/GHSA-2868-ff44-43qv,https://da.gd/dkqc4e
+GithubAdvisories,[GHSA-pfwc-4frf-4gf8] Cross-site scripting in Liferay Portal,https://github.com/advisories/GHSA-pfwc-4frf-4gf8,https://da.gd/LOqGyc
