@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hh7j-pg39-q563] toui allows user-specific variables to be shared between users,https://github.com/advisories/GHSA-hh7j-pg39-q563,https://da.gd/80r5j
+GithubAdvisories,[GHSA-63c6-w556-3h7q] SSCMS vulnerable to Cross Site Scripting,https://github.com/advisories/GHSA-63c6-w556-3h7q,https://da.gd/0drrgp
+GithubAdvisories,[GHSA-w7jw-q4fg-qc4c] nfpm has incorrect default permissions,https://github.com/advisories/GHSA-w7jw-q4fg-qc4c,https://da.gd/8WQ99N
+GithubAdvisories,[GHSA-f3wc-3vxv-xmvr] Synapse Outgoing federation to specific hosts can be disabled by sending malicious invites,https://github.com/advisories/GHSA-f3wc-3vxv-xmvr,https://da.gd/Do0h
+GithubAdvisories,[GHSA-446m-hmmm-hm8m] Ckan remote code execution and private information access via crafted resource ids,https://github.com/advisories/GHSA-446m-hmmm-hm8m,https://da.gd/l8Jsh
+GithubAdvisories,[GHSA-p9qp-c452-f9r7] Synapse Denial of service due to incorrect application of event authorization rules during state resolution,https://github.com/advisories/GHSA-p9qp-c452-f9r7,https://da.gd/aa1jQI
+GithubAdvisories,[GHSA-45cj-f97f-ggwv] Synapse does not apply enough checks to servers requesting auth events of events in a room,https://github.com/advisories/GHSA-45cj-f97f-ggwv,https://da.gd/2WDRAO
