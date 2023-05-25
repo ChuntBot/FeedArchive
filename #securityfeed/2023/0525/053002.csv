@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-38hw-368m-7jmg] Jenkins Ansible Plugin stores and displays secrets in plain text,https://github.com/advisories/GHSA-38hw-368m-7jmg,https://da.gd/evj9AN
+GithubAdvisories,[GHSA-c9qp-6556-jwwp] Jenkins LDAP Plugin vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-c9qp-6556-jwwp,https://da.gd/9TL24E
+GithubAdvisories,[GHSA-6v6h-rw43-97fh] Jenkins SAML Single Sign On(SSO) Plugin missing hostname validation,https://github.com/advisories/GHSA-6v6h-rw43-97fh,https://da.gd/NfPg0
+GithubAdvisories,[GHSA-v3fv-v9m6-26g3] Jenkins HashiCorp Vault Plugin has improper masking of credentials,https://github.com/advisories/GHSA-v3fv-v9m6-26g3,https://da.gd/z9VPP
