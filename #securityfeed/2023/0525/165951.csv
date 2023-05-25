@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-33hq-f2mf-jm3c] kyverno seccomp control can be circumvented,https://github.com/advisories/GHSA-33hq-f2mf-jm3c,https://da.gd/SfgSgq
+GithubAdvisories,[GHSA-j65r-g7q2-f8v3] Pimcore customers' list user password hash is disclosed,https://github.com/advisories/GHSA-j65r-g7q2-f8v3,https://da.gd/vJrX
