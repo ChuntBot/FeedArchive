@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,[DockerAPI] Update to 2.04,https://github.com/mailcow/mailcow-dockerized/commit/1265302a8e08a4f966ceb40df5d53a6d8ce4a71f,https://da.gd/5dz6Z
+GithubCommit,Translations update from Weblate (#5218),https://github.com/mailcow/mailcow-dockerized/commit/ee607dc3cc5f996091b2f4f40ef5726fb6206b11,https://da.gd/aXuxG
+GithubCommit,[Web] fix bcc localdest selectpicker,https://github.com/mailcow/mailcow-dockerized/commit/aabcd1053969e7bd3601c0dd7e7aa3e5b333cb97,https://da.gd/lCSo2
+GithubCommit,Merge pull request #5198 from mailcow/fix/sorting-tla,https://github.com/mailcow/mailcow-dockerized/commit/2cbf0da13707270670328b122db716161fb89bc0,https://da.gd/Vj5et
+GithubCommit,Merge pull request #5204 from mailcow/fix/rspamd-table,https://github.com/mailcow/mailcow-dockerized/commit/58452abcdfb9242816546fbe2d9422999e001f87,https://da.gd/pJYlva
+GithubCommit,Merge pull request #5202 from mailcow/feat/user-acl-tabs,https://github.com/mailcow/mailcow-dockerized/commit/e015c7dbca3e906bd53868f86a3ae6bf72145ce5,https://da.gd/yusKV
+GithubCommit,Merge pull request #5220 from mailcow/fix/bcc-selectpicker,https://github.com/mailcow/mailcow-dockerized/commit/8eaf8bbbde5dd92e3d51b37b4b8ffdbab3a47636,https://da.gd/3Jtz
+GithubCommit,Merge pull request #5211 from goodygh/5175-fix-mobileconfig-redirect,https://github.com/mailcow/mailcow-dockerized/commit/e38c27ed67914db35680f3c9fabdb92224012857,https://da.gd/hVuF1y
+GithubCommit,Merge pull request #5201 from mailcow/fix/sieve-print,https://github.com/mailcow/mailcow-dockerized/commit/3c68a53170f915c9a1e09ea87152e6dce016a99b,https://da.gd/gE2tD
+GithubCommit,Merge pull request #5203 from mailcow/feat/bad_asn,https://github.com/mailcow/mailcow-dockerized/commit/1a6f93327e7fe4189299e0c43315d755f1a922a0,https://da.gd/m31Coj
+GithubCommit,Merge pull request #5197 from mailcow/fix/bcc-validation,https://github.com/mailcow/mailcow-dockerized/commit/c0745c5cdeefd918ae03a6434b46f604d57d7f10,https://da.gd/DUuqB0
+GithubCommit,Merge pull request #5200 from mailcow/fix/delete-sender-acl,https://github.com/mailcow/mailcow-dockerized/commit/173e39c859b1adc4614bdb97f4e6e3e797b5ca03,https://da.gd/H0eMWQ
+GithubCommit,Merge pull request #5205 from mailcow/clean_sasl_log,https://github.com/mailcow/mailcow-dockerized/commit/73d6a29ae1a8e5769e15403595c433e39779933e,https://da.gd/vvOuhf
+GithubCommit,Update alpine Docker tag to v3.18,https://github.com/mailcow/mailcow-dockerized/commit/bd6c98047a902c476b983976782cab83ca15fc05,https://da.gd/FFVz
+GithubCommit,Merge pull request #5231 from mailcow/renovate/alpine-3.x,https://github.com/mailcow/mailcow-dockerized/commit/23d33ad5a861aa99a07b3547ae4dc49dce26f6a0,https://da.gd/j6Q9nR
+GithubCommit,change domain for docs,https://github.com/mailcow/mailcow-dockerized/commit/33c97fb318ad7cc7d6550ff9864d665bffacbaae,https://da.gd/DZFC
+GithubCommit,[PHP] Update to 1.84,https://github.com/mailcow/mailcow-dockerized/commit/55b019105044f855d904c18938b73902cdd4cc50,https://da.gd/mXaMF7
+GithubCommit,Merge pull request #4028 from Daniel15/patch-2,https://github.com/mailcow/mailcow-dockerized/commit/88b8d50cd5697509e88704ee618077ddbf1641e5,https://da.gd/dqFXK
+GithubCommit,Merge pull request #5214 from mailcow/feat/gh_actions_postscreen,https://github.com/mailcow/mailcow-dockerized/commit/9700b3251f43b5e0329044873e0059ae2ffd2e7c,https://da.gd/SR4Wk
+GithubCommit,Merge pull request #5250 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/74bcec45f13b267be4f75919b9bd08c44c02ea6a,https://da.gd/pVeq
