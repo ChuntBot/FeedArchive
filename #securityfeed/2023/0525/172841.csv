@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rc44-5cmh-879m] Unrestricted recursion in htmlunit,https://github.com/advisories/GHSA-rc44-5cmh-879m,https://da.gd/P6ZFw
+GithubAdvisories,[GHSA-qwhm-h7v3-mrjx] Improper handling of NTS cookie length that could crash the ntpd-rs server,https://github.com/advisories/GHSA-qwhm-h7v3-mrjx,https://da.gd/d7Tsa
+GithubAdvisories,[GHSA-hj3f-6gcp-jg8j] Open redirect in Tornado,https://github.com/advisories/GHSA-hj3f-6gcp-jg8j,https://da.gd/8BiMO
