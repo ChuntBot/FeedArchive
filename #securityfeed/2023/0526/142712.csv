@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g82w-58jf-gcxx] secrets-store-csi-driver discloses service account tokens in logs,https://github.com/advisories/GHSA-g82w-58jf-gcxx,https://da.gd/z6XE0
+GithubAdvisories,[GHSA-jv3f-7m33-qp65] Minio console object names with RIGHT-TO-LEFT OVERRIDE unicode character can be exploited,https://github.com/advisories/GHSA-jv3f-7m33-qp65,https://da.gd/CdzY8
+GithubAdvisories,[GHSA-6qjx-787v-6pxr] Craft CMS stored XSS in indexedVolumes,https://github.com/advisories/GHSA-6qjx-787v-6pxr,https://da.gd/8Jr7W
