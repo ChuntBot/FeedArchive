@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cjmm-x9x9-m2w5] Craft CMS stored XSS in review volume,https://github.com/advisories/GHSA-cjmm-x9x9-m2w5,https://da.gd/G0aq
+GithubAdvisories,[GHSA-qpgm-gjgf-8c2x] Craft CMS XSS in RSS widget feed,https://github.com/advisories/GHSA-qpgm-gjgf-8c2x,https://da.gd/9GZm
+GithubAdvisories,[GHSA-3wxg-w96j-8hq9] CraftCMS stored XSS in Quick Post widget error message,https://github.com/advisories/GHSA-3wxg-w96j-8hq9,https://da.gd/RcK67
+GithubAdvisories,[GHSA-9qpj-qq2r-5mcc] html inputs of type password recorded in plaintext when converted to text inputs,https://github.com/advisories/GHSA-9qpj-qq2r-5mcc,https://da.gd/FN0JCG
