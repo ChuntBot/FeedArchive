@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-549h-r7g9-2qpf] n158 vulnerable to Command Injection due to improper input sanitization in the 'module.exports' function,https://github.com/advisories/GHSA-549h-r7g9-2qpf,https://da.gd/bMRObr
+GithubAdvisories,[GHSA-wxrx-pc44-rcgc] keep-module-latest vulnerable to Command Injection due to missing input sanitization,https://github.com/advisories/GHSA-wxrx-pc44-rcgc,https://da.gd/H92w
+GithubAdvisories,[GHSA-8vw3-vxmj-h43w] bwm-ng vulnerable to command injection,https://github.com/advisories/GHSA-8vw3-vxmj-h43w,https://da.gd/UP8d
+GithubAdvisories,[GHSA-hgv6-w7r3-w4qw] Kyverno vulnerable due to usage of insecure cipher,https://github.com/advisories/GHSA-hgv6-w7r3-w4qw,https://da.gd/04Tb
+GithubAdvisories,[GHSA-9wqr-5jp4-mjmh] Dolibarr vulnerable to remote code execution via uppercase manipulation,https://github.com/advisories/GHSA-9wqr-5jp4-mjmh,https://da.gd/TqlwE
+GithubAdvisories,[GHSA-x7fr-pg8f-93f5] sccache vulnerable to privilege escalation if server is run as root,https://github.com/advisories/GHSA-x7fr-pg8f-93f5,https://da.gd/c9pcj0
