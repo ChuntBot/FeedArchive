@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommit,Update dependency nextcloud/server to v26.0.2 (#5254),https://github.com/mailcow/mailcow-dockerized/commit/38cd37622880ef4c3ee2ca1a25abd740bfbe9e54,https://da.gd/li5z8X
+GithubCommit,[Dovecot] remove pass return in Dovecot lua auth,https://github.com/mailcow/mailcow-dockerized/commit/f80940efdccd393bf5fccec2886795372a38c445,https://da.gd/yxNT0
+GithubCommit,[Dovecot] Update to 1.24,https://github.com/mailcow/mailcow-dockerized/commit/f82aba3e26a58c018283524098dc373ca6273172,https://da.gd/uWbRwk
+GithubCommit,Changed maintainers to tinc (Dockerfiles),https://github.com/mailcow/mailcow-dockerized/commit/70aab7568e7eea15d5d1777781bdcdfee06dbacd,https://da.gd/9NOJB
+GithubCommit,Merge pull request #5264 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/490d553dfc661dd72b546e3a038366e79adf49b6,https://da.gd/iUvx
