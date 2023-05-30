@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommit,[Dovecot] remove pass return in Dovecot lua auth,https://github.com/mailcow/mailcow-dockerized/commit/67510adb9e0e354d0d16564a5156e3167bc28f8b,https://da.gd/HnbT
+GithubCommit,Merge pull request #5266 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/e691d2c78216c2628d9a08abe6f6f63c45802f87,https://da.gd/gXM5H
