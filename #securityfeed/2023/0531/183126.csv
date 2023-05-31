@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mv7x-27pc-8c96] Go package pydio/cells vulnerable to authorization bypass,https://github.com/advisories/GHSA-mv7x-27pc-8c96,https://da.gd/efNT
+GithubAdvisories,[GHSA-wmfc-g86p-fjvr] go package pydio cells vulnerable to cross-site scripting,https://github.com/advisories/GHSA-wmfc-g86p-fjvr,https://da.gd/GEhLQA
+GithubAdvisories,[GHSA-hmhg-95wh-r699] DNS based denial of service in Apache Wicket,https://github.com/advisories/GHSA-hmhg-95wh-r699,https://da.gd/Tp5XGR
