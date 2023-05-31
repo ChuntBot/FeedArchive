@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-vc52-gwm3-8v2f] Missing ""--allow-net"" permission check for built-in Node modules",https://github.com/advisories/GHSA-vc52-gwm3-8v2f,https://da.gd/0KNaJ
+GithubAdvisories,[GHSA-9prm-jqwx-45x9] Phishing attack vulnerability by uploading malicious HTML file,https://github.com/advisories/GHSA-9prm-jqwx-45x9,https://da.gd/aYc5
+GithubAdvisories,"[GHSA-f7qw-jj9c-rpq9] In Lima, a malicious disk image could read a single file on the host filesystem as a qcow2/vmdk backing file",https://github.com/advisories/GHSA-f7qw-jj9c-rpq9,https://da.gd/pud99
