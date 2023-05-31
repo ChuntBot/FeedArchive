@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,I found a remote code execution bug in VSCode that can be triggered from untrusted workspaces. Microsoft fixed it but marked it as moderate severity and ineligible under their bug bounty program.,https://redd.it/13wpvyh,
