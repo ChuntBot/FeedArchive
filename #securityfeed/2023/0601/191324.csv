@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h5g9-2p35-54c7] nilsteampassnet/teampass vulnerable to cross-site scripting,https://github.com/advisories/GHSA-h5g9-2p35-54c7,https://da.gd/fSDTDw
+GithubAdvisories,[GHSA-42qm-8v8m-m78c] PocketMine MP vulnerable to uncontrolled resource consumption via mismatched type of 'InventoryTransactionPacket',https://github.com/advisories/GHSA-42qm-8v8m-m78c,https://da.gd/Y3Ju
