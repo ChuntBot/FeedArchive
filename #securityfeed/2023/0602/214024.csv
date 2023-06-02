@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-22fx-6r9m-r8h9] libheif vulnerable to segmentation fault via floating point exception,https://github.com/advisories/GHSA-22fx-6r9m-r8h9,https://da.gd/y8oTTs
