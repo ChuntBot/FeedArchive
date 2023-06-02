@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7xpv-4pm9-xch2] mx-chain-go does not treat invalid transaction with wrong username correctly,https://github.com/advisories/GHSA-7xpv-4pm9-xch2,https://da.gd/ChH7Sw
