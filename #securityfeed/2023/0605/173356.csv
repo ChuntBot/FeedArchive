@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hq4m-4948-64cc] Kyverno resource with a deletionTimestamp may allow policy circumvention,https://github.com/advisories/GHSA-hq4m-4948-64cc,https://da.gd/pPnAY
