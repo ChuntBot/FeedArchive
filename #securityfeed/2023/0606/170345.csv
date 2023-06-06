@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x67g-47p3-rc7f] MindSpore vulnerable to memory corruption,https://github.com/advisories/GHSA-x67g-47p3-rc7f,https://da.gd/jmPpI
+GithubAdvisories,[GHSA-86h2-2g4g-29qx] avo possible unsafe reflection / partial DoS vulnerability,https://github.com/advisories/GHSA-86h2-2g4g-29qx,https://da.gd/wiYVO
+GithubAdvisories,[GHSA-2fqm-m4r2-fh98] kiwitcms vulnerable to stored cross-site scripting via unrestricted file upload,https://github.com/advisories/GHSA-2fqm-m4r2-fh98,https://da.gd/ocAQ
+GithubAdvisories,[GHSA-xhg5-42rf-296r] notation-go's verification bypass can cause users to verify the wrong artifact,https://github.com/advisories/GHSA-xhg5-42rf-296r,https://da.gd/qr09n
+GithubAdvisories,[GHSA-rvrx-rrwh-r9p6] Notation's default `maxSignatureAttempts` in `notation verify` enables an endless data attack,https://github.com/advisories/GHSA-rvrx-rrwh-r9p6,https://da.gd/TXxakk
+GithubAdvisories,[GHSA-9m3v-v4r5-ppx7] Notation vulnerable to denial of service from high number of artifact signatures,https://github.com/advisories/GHSA-9m3v-v4r5-ppx7,https://da.gd/2KSjR
+GithubAdvisories,[GHSA-98px-6486-j7qc] Synapse has URL deny list bypass via oEmbed and image URLs when generating previews,https://github.com/advisories/GHSA-98px-6486-j7qc,https://da.gd/NL1sH
+GithubAdvisories,[GHSA-26c5-ppr8-f33p] Synapse has improper checks for deactivated users during login,https://github.com/advisories/GHSA-26c5-ppr8-f33p,https://da.gd/px1dWH
+GithubAdvisories,[GHSA-9rp6-23gf-4c3h] syncthing vulnerable to Cross-site Scripting (XSS) in Web GUI,https://github.com/advisories/GHSA-9rp6-23gf-4c3h,https://da.gd/6Wz6k
