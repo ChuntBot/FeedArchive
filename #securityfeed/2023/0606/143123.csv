@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5cr9-5jx3-2g39] avo vulnerable to Stored XSS (Cross Site Scripting) in html content based fields,https://github.com/advisories/GHSA-5cr9-5jx3-2g39,https://da.gd/QURrF
