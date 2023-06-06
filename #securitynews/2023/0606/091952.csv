@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,A vulnerability in Roundcube’s markasjunk plugin allows attackers that send a specially crafted identity email address to cause the plugin to execute arbitrary code,https://redd.it/1429pcz,
