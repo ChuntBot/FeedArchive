@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6w63-h3fj-q4vw] fast-xml-parser vulnerable to Regex Injection via Doctype Entities,https://github.com/advisories/GHSA-6w63-h3fj-q4vw,https://da.gd/tXbd
