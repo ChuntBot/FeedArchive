@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gqx9-h3w2-fprg] Gitpod vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-gqx9-h3w2-fprg,https://da.gd/GyiV
+GithubAdvisories,[GHSA-7gf7-jv65-wjmh] xml-rs vulnerable to denial of service via invalid token in XML document,https://github.com/advisories/GHSA-7gf7-jv65-wjmh,https://da.gd/TQJi
+GithubAdvisories,[GHSA-g3jr-6vj4-3x82] TeamPass vulnerable to Improper Access Control,https://github.com/advisories/GHSA-g3jr-6vj4-3x82,https://da.gd/M6zBxP
+GithubAdvisories,[GHSA-5fm9-h728-fwpj] trust-dns vulnerable to Remote Attackers causing Denial-of-Service (packet loops) with crafted DNS packets,https://github.com/advisories/GHSA-5fm9-h728-fwpj,https://da.gd/iAAY7
+GithubAdvisories,[GHSA-j245-v2mh-5h6f] TeamPass vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-j245-v2mh-5h6f,https://da.gd/UpG5t
+GithubAdvisories,[GHSA-8vm8-38pc-8xhh] TeamPass vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-8vm8-38pc-8xhh,https://da.gd/Rbdvxp
+GithubAdvisories,[GHSA-c6fv-3jm9-6r8f] TeamPass vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-c6fv-3jm9-6r8f,https://da.gd/XSCg
+GithubAdvisories,[GHSA-c57c-7hrj-6q6v] Hashicorp Consul vulnerable to denial of service,https://github.com/advisories/GHSA-c57c-7hrj-6q6v,https://da.gd/z9eVI
