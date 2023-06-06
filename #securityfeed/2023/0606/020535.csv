@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rqjq-ww83-wv5c] Hashicorp Consul allows user with service:write permissions to patch remote proxy instances,https://github.com/advisories/GHSA-rqjq-ww83-wv5c,https://da.gd/9vRG
+GithubAdvisories,[GHSA-p223-c4w6-q454] hawtio vulnerable to Path Traversal,https://github.com/advisories/GHSA-p223-c4w6-q454,https://da.gd/SO5HUk
+GithubAdvisories,[GHSA-gcg6-xv4f-f749] janino vulnerable to denial of service due to stack overflow,https://github.com/advisories/GHSA-gcg6-xv4f-f749,https://da.gd/pla0U
+GithubAdvisories,[GHSA-353f-5xf4-qw67] Vite Server Options (server.fs.deny) can be bypassed using double forward-slash (//),https://github.com/advisories/GHSA-353f-5xf4-qw67,https://da.gd/Suhi
+GithubAdvisories,[GHSA-qj8w-rv5x-2v9h] Starlette vulnerable to directory traversal,https://github.com/advisories/GHSA-qj8w-rv5x-2v9h,https://da.gd/iof8g
+GithubAdvisories,[GHSA-p976-h52c-26p6] Rancher vulnerable to Privilege Escalation via manipulation of Secrets,https://github.com/advisories/GHSA-p976-h52c-26p6,https://da.gd/uT1bO0
+GithubAdvisories,[GHSA-46v3-ggjg-qq3x] Rancher UI has multiple Cross-Site Scripting (XSS) issues,https://github.com/advisories/GHSA-46v3-ggjg-qq3x,https://da.gd/dZAJ9M
+GithubAdvisories,[GHSA-8vhc-hwhc-cpj4] Rancher users retain access after moving namespaces into projects they don't have access to,https://github.com/advisories/GHSA-8vhc-hwhc-cpj4,https://da.gd/VQKxp7
+GithubAdvisories,[GHSA-29mf-62xx-28jq] buffered-reader vulnerable to out-of-bounds array access leading to panic,https://github.com/advisories/GHSA-29mf-62xx-28jq,https://da.gd/qKEhDB
+GithubAdvisories,[GHSA-25mx-8f3v-8wh7] sequoia-openpgp vulnerable to out-of-bounds array access leading to panic,https://github.com/advisories/GHSA-25mx-8f3v-8wh7,https://da.gd/Ioi0
+GithubAdvisories,[GHSA-p74v-mwvg-8ghp] Dcat-Admin vulnerable to Stored Cross-site Scripting,https://github.com/advisories/GHSA-p74v-mwvg-8ghp,https://da.gd/1cMm
+GithubAdvisories,[GHSA-g47h-fgcw-g4ph] Algernon engine and themes vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-g47h-fgcw-g4ph,https://da.gd/5BEno
+GithubAdvisories,[GHSA-94r7-63g8-c4jw] thorsten/phpmyfaq vulnerable to cross-site scripting,https://github.com/advisories/GHSA-94r7-63g8-c4jw,https://da.gd/keVa
+GithubAdvisories,[GHSA-mj6p-3pc9-wf5m] proxy denial of service vulnerability,https://github.com/advisories/GHSA-mj6p-3pc9-wf5m,https://da.gd/QeHZyx
+GithubAdvisories,[GHSA-46g3-f9r8-xj4v] Pimcore vulnerable to Pre-Auth Path Traversal in pimcore_log parameter,https://github.com/advisories/GHSA-46g3-f9r8-xj4v,https://da.gd/2ocr
+GithubAdvisories,[GHSA-h87r-f4vc-mchv] PocketMine-MP vulnerable to improperly checked dropped item count leading to server crash,https://github.com/advisories/GHSA-h87r-f4vc-mchv,https://da.gd/zTKyA
+GithubAdvisories,[GHSA-pqp3-8rrw-g8vm] PocketMine-MP vulnerable to server crash with certain invalid JSON payloads in `LoginPacket` due to vulnerable dependency,https://github.com/advisories/GHSA-pqp3-8rrw-g8vm,https://da.gd/YU2dKz
+GithubAdvisories,[GHSA-m4mv-rmr7-h5f5] Pimcore Privilege Defined With Unsafe Actions vulnerability,https://github.com/advisories/GHSA-m4mv-rmr7-h5f5,https://da.gd/Fmsak4
+GithubAdvisories,[GHSA-jqvr-j2vg-gjrv] Moov signedxml vulnerable to signature wrapping attack,https://github.com/advisories/GHSA-jqvr-j2vg-gjrv,https://da.gd/AIGjI
+GithubAdvisories,[GHSA-4c32-w6c7-77x4] SQL injection when using MySQL/PostgreSQL data checking,https://github.com/advisories/GHSA-4c32-w6c7-77x4,https://da.gd/SkJU00
+GithubAdvisories,[GHSA-vfrj-fv6p-3cpf] Brook's tproxy server is vulnerable to a drive-by command injection,https://github.com/advisories/GHSA-vfrj-fv6p-3cpf,https://da.gd/ntOMI8
