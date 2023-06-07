@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wm7r-3qxj-5xgq] Grafana Improper Access Control vulnerability,https://github.com/advisories/GHSA-wm7r-3qxj-5xgq,https://da.gd/l7zfFL
+GithubAdvisories,[GHSA-x2w4-c67p-g44j] Grafana Missing Synchronization vulnerability,https://github.com/advisories/GHSA-x2w4-c67p-g44j,https://da.gd/f1OMHK
+GithubAdvisories,[GHSA-j436-h7hm-rx46] Puppet Labs Facter allows local users to obtain sensitive Amazon EC2 IAM instance metadata,https://github.com/advisories/GHSA-j436-h7hm-rx46,https://da.gd/jFDm
