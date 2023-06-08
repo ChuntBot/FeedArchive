@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hh54-53m7-7ffj] alist Incorrect Access Control vulnerability,https://github.com/advisories/GHSA-hh54-53m7-7ffj,https://da.gd/Pzr2
+GithubAdvisories,[GHSA-5h3x-9wvq-w4m2] OpenZeppelin Contracts's governor proposal creation may be blocked by frontrunning,https://github.com/advisories/GHSA-5h3x-9wvq-w4m2,https://da.gd/Oo3zj
