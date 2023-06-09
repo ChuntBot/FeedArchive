@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4qvx-qq5w-695p] HashiCorp Consul can use cleartext agent-to-agent RPC communication,https://github.com/advisories/GHSA-4qvx-qq5w-695p,https://da.gd/CIwBzq
+GithubAdvisories,[GHSA-q7fx-wm2p-qfj8] HashiCorp Consul vulnerable to Origin Validation Error,https://github.com/advisories/GHSA-q7fx-wm2p-qfj8,https://da.gd/sYOdSp
+GithubAdvisories,[GHSA-8xmx-h8rq-h94j] HashiCorp Consul Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-8xmx-h8rq-h94j,https://da.gd/N1pwPe
+GithubAdvisories,[GHSA-h65h-v7fw-4p38] HashiCorp Consul Incorrect Access Control vulnerability,https://github.com/advisories/GHSA-h65h-v7fw-4p38,https://da.gd/jH7Vw
