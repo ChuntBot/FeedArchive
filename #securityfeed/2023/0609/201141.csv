@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-62qp-3fxm-9wxf] Nokogiri vulnerable to DoS while parsing XML documents,https://github.com/advisories/GHSA-62qp-3fxm-9wxf,https://da.gd/WLvX2
+GithubAdvisories,[GHSA-jmhh-w7xp-wg39] Nokogiri vulnerable to DoS while parsing XML entities,https://github.com/advisories/GHSA-jmhh-w7xp-wg39,https://da.gd/Tx5eX
+GithubAdvisories,[GHSA-95xq-v4m2-fq3r] GitLab Grit Gem for Ruby contains a flaw allowing arbitrary commands to be executed,https://github.com/advisories/GHSA-95xq-v4m2-fq3r,https://da.gd/ypjCF
