@@ -1,0 +1,27 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6pqm-pp65-mc26] Jenkins Gem Publisher Plugin stores credentials unencrypted,https://github.com/advisories/GHSA-6pqm-pp65-mc26,https://da.gd/IRQ9
+GithubAdvisories,[GHSA-j4gx-p3x5-m987] Echor Ruby Gem credentials can be stolen via process table monitoring,https://github.com/advisories/GHSA-j4gx-p3x5-m987,https://da.gd/DYbj
+GithubAdvisories,[GHSA-8936-cgj4-phr2] Echor contains Command Injection,https://github.com/advisories/GHSA-8936-cgj4-phr2,https://da.gd/AntdWh
+GithubAdvisories,"[GHSA-x2fm-93ww-ggvx] Nokogiri gem, via libxml, is affected by DoS vulnerabilities",https://github.com/advisories/GHSA-x2fm-93ww-ggvx,https://da.gd/WrecMW
+GithubAdvisories,[GHSA-7m2w-9gw7-c3xp] open-uri-cached Gem for Ruby Unsafe Temporary File Creation Local Privilege Escalation,https://github.com/advisories/GHSA-7m2w-9gw7-c3xp,https://da.gd/H6zW
+GithubAdvisories,[GHSA-7cv3-gvmc-8mq5] SpawningKit exploits in Passenger,https://github.com/advisories/GHSA-7cv3-gvmc-8mq5,https://da.gd/z6qO8
+GithubAdvisories,[GHSA-jjcj-fgfm-9g9r] CHMOD race vulnerability in Passenger,https://github.com/advisories/GHSA-jjcj-fgfm-9g9r,https://da.gd/VWl0
+GithubAdvisories,[GHSA-4hm9-844j-jmxp] Uninitialized read in Nokogiri gem,https://github.com/advisories/GHSA-4hm9-844j-jmxp,https://da.gd/EpgT
+GithubAdvisories,[GHSA-whfx-877c-5p28] Insecure Permissions in Phusion Passenger,https://github.com/advisories/GHSA-whfx-877c-5p28,https://da.gd/diqVf8
+GithubAdvisories,[GHSA-jjhj-8gx7-x836] Incorrect Access Control in Phusion Passenger,https://github.com/advisories/GHSA-jjhj-8gx7-x836,https://da.gd/U0gP
+GithubAdvisories,[GHSA-mmrq-6999-72v8] Incorrect value comparison in Ruby openssl,https://github.com/advisories/GHSA-mmrq-6999-72v8,https://da.gd/mHY0kR
+GithubAdvisories,[GHSA-7r36-jf3c-jhp4] Duplicate Advisory: tgstation-server vulnerable to cached user logins in legacy server,https://github.com/advisories/GHSA-7r36-jf3c-jhp4,https://da.gd/IQlG1J
+GithubAdvisories,[GHSA-v3v9-3jf4-5pxx] Jeecg P3 Biz Chat allows remote attackers to read arbitrary files,https://github.com/advisories/GHSA-v3v9-3jf4-5pxx,https://da.gd/OfSr
+GithubAdvisories,[GHSA-h53w-7qw7-vh5c] Snowflake NodeJS Driver vulnerable to Command Injection,https://github.com/advisories/GHSA-h53w-7qw7-vh5c,https://da.gd/mVPgC
+GithubAdvisories,[GHSA-fwv2-65wh-2w8c] Snowflake Golang Driver vulnerable to Command Injection,https://github.com/advisories/GHSA-fwv2-65wh-2w8c,https://da.gd/Usu9AU
+GithubAdvisories,[GHSA-5w5m-pfw9-c8fp] Snowflake Python Connector vulnerable to Command Injection,https://github.com/advisories/GHSA-5w5m-pfw9-c8fp,https://da.gd/9VJsc
+GithubAdvisories,[GHSA-fqcv-rfp6-wv92] Microweber Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-fqcv-rfp6-wv92,https://da.gd/QptwTI
+GithubAdvisories,[GHSA-c29g-q3h3-mwcf] xxl-rpc deserialization vulnerability,https://github.com/advisories/GHSA-c29g-q3h3-mwcf,https://da.gd/qBsvm
+GithubAdvisories,[GHSA-c6f8-8r25-c4gc] Gatsby develop server has Local File Inclusion vulnerability,https://github.com/advisories/GHSA-c6f8-8r25-c4gc,https://da.gd/NJ8jSe
+GithubAdvisories,[GHSA-3qqg-pgqq-3695] Gradio vulnerable to arbitrary file read and proxying of arbitrary URLs,https://github.com/advisories/GHSA-3qqg-pgqq-3695,https://da.gd/6AZAED
+GithubAdvisories,[GHSA-g3hh-q55f-9g3w] RuoYi Uncontrolled Resource Consumption vulnerability,https://github.com/advisories/GHSA-g3hh-q55f-9g3w,https://da.gd/X6pi
+GithubAdvisories,[GHSA-4882-hxpr-hrvm] @udecode/plate-link does not sanitize URLs to prevent use of the `javascript:` scheme,https://github.com/advisories/GHSA-4882-hxpr-hrvm,https://da.gd/U8sx
+GithubAdvisories,[GHSA-ghqq-jfx7-f6m9] Froxlor vulnerable to Path Traversal,https://github.com/advisories/GHSA-ghqq-jfx7-f6m9,https://da.gd/OyOfV
+GithubAdvisories,[GHSA-chw4-88xc-79w6] Froxlor vulnerable to Improper Restriction of Excessive Authentication Attempts,https://github.com/advisories/GHSA-chw4-88xc-79w6,https://da.gd/w4wT2
+GithubAdvisories,[GHSA-xp5h-f8jf-rc8q] rails-ujs vulnerable to DOM Based Cross-site Scripting contenteditable HTML Elements,https://github.com/advisories/GHSA-xp5h-f8jf-rc8q,https://da.gd/Ozej2
+GithubAdvisories,[GHSA-h2wm-p2vg-6pw4] Kredis JSON Possible Deserialization of Untrusted Data Vulnerability,https://github.com/advisories/GHSA-h2wm-p2vg-6pw4,https://da.gd/O1v0
