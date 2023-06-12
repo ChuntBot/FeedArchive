@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-42r6-p4px-qvv6] tgstation-server cached user logins in legacy server,https://github.com/advisories/GHSA-42r6-p4px-qvv6,https://da.gd/EDedif
+GithubAdvisories,[GHSA-65wh-g8x8-gm2h] Apache NiFi vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-65wh-g8x8-gm2h,https://da.gd/auBBTq
+GithubAdvisories,[GHSA-xm2m-2q6h-22jw] Apache NiFi vulnerable to Code Injection,https://github.com/advisories/GHSA-xm2m-2q6h-22jw,https://da.gd/XZMZM3
