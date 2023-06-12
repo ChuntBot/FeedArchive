@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qfh9-8p57-mjjj] git-url-parse crate vulnerable to Regular Expression Denial of Service,https://github.com/advisories/GHSA-qfh9-8p57-mjjj,https://da.gd/F8FQs
+GithubAdvisories,[GHSA-89qm-hm2x-mxm3] progressbar.js vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-89qm-hm2x-mxm3,https://da.gd/0BAMRD
+GithubAdvisories,[GHSA-87mf-9wg6-ppf8] Ouroboros is Unsound,https://github.com/advisories/GHSA-87mf-9wg6-ppf8,https://da.gd/KNaW
