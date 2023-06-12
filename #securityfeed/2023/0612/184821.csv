@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jr66-9ghf-6gp3] Froxlor Session Fixation vulnerability,https://github.com/advisories/GHSA-jr66-9ghf-6gp3,https://da.gd/qB5Ctq
+GithubAdvisories,[GHSA-5fp6-4xw3-xqq3] @keystone-6/core's bundled cuid package known to be insecure,https://github.com/advisories/GHSA-5fp6-4xw3-xqq3,https://da.gd/Y1kiK
+GithubAdvisories,[GHSA-4gxf-g5gf-22h4] dottie vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-4gxf-g5gf-22h4,https://da.gd/X0bFOf
+GithubAdvisories,"[GHSA-8qxh-2gh8-r923] cheqd-node subject to Cosmos SDK ""Barberry"" vulnerability",https://github.com/advisories/GHSA-8qxh-2gh8-r923,https://da.gd/J9m5
