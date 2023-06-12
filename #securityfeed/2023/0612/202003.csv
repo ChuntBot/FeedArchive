@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cvm3-pp2j-chr3] Grafana has Broken Access Control in Alert manager: Viewer can send test alerts,https://github.com/advisories/GHSA-cvm3-pp2j-chr3,https://da.gd/C5HaM
+GithubAdvisories,[GHSA-7w2c-w47h-789w] Doorkeeper Improper Authentication vulnerability,https://github.com/advisories/GHSA-7w2c-w47h-789w,https://da.gd/3sYgl
