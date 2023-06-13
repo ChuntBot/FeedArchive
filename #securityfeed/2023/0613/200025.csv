@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-85j6-f8j6-q26x] Unaligned references in Obstack,https://github.com/advisories/GHSA-85j6-f8j6-q26x,https://da.gd/BiJPq
+GithubAdvisories,[GHSA-xjxc-vfw2-cg96] Use after free in openssl,https://github.com/advisories/GHSA-xjxc-vfw2-cg96,https://da.gd/voU9uw
+GithubAdvisories,[GHSA-m3ww-7hrp-gw9w] Drop of uninitialized memory in Ozone,https://github.com/advisories/GHSA-m3ww-7hrp-gw9w,https://da.gd/ajzH
