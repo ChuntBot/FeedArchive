@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wq8f-46ww-6c2h] Integer underflow in untrusted,https://github.com/advisories/GHSA-wq8f-46ww-6c2h,https://da.gd/4V5Zd
+GithubAdvisories,[GHSA-64j8-7gp2-xjx5] Data races in try-mutex,https://github.com/advisories/GHSA-64j8-7gp2-xjx5,https://da.gd/cf1Pai
+GithubAdvisories,[GHSA-4cww-f7w5-x525] Stack consumption in trust-dns-server,https://github.com/advisories/GHSA-4cww-f7w5-x525,https://da.gd/TFzj
+GithubAdvisories,[GHSA-369h-pjr2-6wrh] Uncontrolled recursion in trust-dns-proto,https://github.com/advisories/GHSA-369h-pjr2-6wrh,https://da.gd/0Icr
+GithubAdvisories,[GHSA-hv87-47h9-jcvq] Uncontrolled recursion in rust-yaml,https://github.com/advisories/GHSA-hv87-47h9-jcvq,https://da.gd/49cAA
+GithubAdvisories,[GHSA-3hj2-hh36-hv9v] Data race in va-ts,https://github.com/advisories/GHSA-3hj2-hh36-hv9v,https://da.gd/7qZr
+GithubAdvisories,[GHSA-77m6-x95j-75r5] Data races in ticketed_lock,https://github.com/advisories/GHSA-77m6-x95j-75r5,https://da.gd/2DfF
+GithubAdvisories,[GHSA-2f5j-3mhq-xv58] Double free in sys-info,https://github.com/advisories/GHSA-2f5j-3mhq-xv58,https://da.gd/jOa9y
