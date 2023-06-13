@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wv4p-jp67-jr97] Data races in magnetic,https://github.com/advisories/GHSA-wv4p-jp67-jr97,https://da.gd/71VaS
+GithubAdvisories,[GHSA-3mf3-2gv9-h39j] Uninitialized buffer use in marc,https://github.com/advisories/GHSA-3mf3-2gv9-h39j,https://da.gd/GTmvB
+GithubAdvisories,[GHSA-rh89-x75f-rh3c] Exposure of uninitialized memory in memoffset,https://github.com/advisories/GHSA-rh89-x75f-rh3c,https://da.gd/o3n9V
+GithubAdvisories,[GHSA-r2x6-vrxx-jgv4] Data races in multiqueue,https://github.com/advisories/GHSA-r2x6-vrxx-jgv4,https://da.gd/oK3wq
+GithubAdvisories,[GHSA-rm4w-6696-r77p] nb-connect invalidly assumes the memory layout of std::net::SocketAddr,https://github.com/advisories/GHSA-rm4w-6696-r77p,https://da.gd/bOx3x
+GithubAdvisories,[GHSA-32v7-ghpr-c8hg] Mishandling of format strings in ncurses,https://github.com/advisories/GHSA-32v7-ghpr-c8hg,https://da.gd/7GrTke
