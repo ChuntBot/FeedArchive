@@ -1,0 +1,25 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rxr4-x558-x7hw] Double free in smallvec,https://github.com/advisories/GHSA-rxr4-x558-x7hw,https://da.gd/uRlJUt
+GithubAdvisories,[GHSA-c3m3-c39q-pv23] Out of bounds write in slice-deque,https://github.com/advisories/GHSA-c3m3-c39q-pv23,https://da.gd/UKouc
+GithubAdvisories,[GHSA-2wc6-2rcj-8v76] scalarmult() vulnerable to degenerate public keys,https://github.com/advisories/GHSA-2wc6-2rcj-8v76,https://da.gd/pVu661
+GithubAdvisories,[GHSA-hv7x-f3pv-gpwr] Wrong memory orderings violates mutual exclusion in spin,https://github.com/advisories/GHSA-hv7x-f3pv-gpwr,https://da.gd/ryruEi
+GithubAdvisories,[GHSA-h45v-vgvp-3h5v] Out-of-bounds write in stack,https://github.com/advisories/GHSA-h45v-vgvp-3h5v,https://da.gd/epvck
+GithubAdvisories,[GHSA-9frf-r7c7-j2vg] Out of bounds write in stackvector,https://github.com/advisories/GHSA-9frf-r7c7-j2vg,https://da.gd/5wr5R
+GithubAdvisories,[GHSA-jpwg-6gf5-5vh9] Out of bounds write in reorder,https://github.com/advisories/GHSA-jpwg-6gf5-5vh9,https://da.gd/P87mCz
+GithubAdvisories,[GHSA-mcrf-7hf9-f6q5] Unchecked vector pre-allocation,https://github.com/advisories/GHSA-mcrf-7hf9-f6q5,https://da.gd/5JHvB
+GithubAdvisories,[GHSA-8q2v-67v7-6vc6] Data races in rocket,https://github.com/advisories/GHSA-8q2v-67v7-6vc6,https://da.gd/7vQcb
+GithubAdvisories,[GHSA-q2gj-9r85-p832] Data races in rulinalg,https://github.com/advisories/GHSA-q2gj-9r85-p832,https://da.gd/8RF0
+GithubAdvisories,[GHSA-9mxw-4856-9cm5] Data races in rusb,https://github.com/advisories/GHSA-9mxw-4856-9cm5,https://da.gd/l9Mp1
+GithubAdvisories,[GHSA-6q5w-m3c5-rv95] Data races in rusqlite,https://github.com/advisories/GHSA-6q5w-m3c5-rv95,https://da.gd/FMua
+GithubAdvisories,[GHSA-28ph-f7gx-fqj8] Data races in rusqlite,https://github.com/advisories/GHSA-28ph-f7gx-fqj8,https://da.gd/qKMxB
+GithubAdvisories,[GHSA-3cgf-9m6x-pwwr] Data races in rusqlite,https://github.com/advisories/GHSA-3cgf-9m6x-pwwr,https://da.gd/IuFZj
+GithubAdvisories,[GHSA-8r7q-r9mx-35rh] Mishandling of format strings in rusqlite,https://github.com/advisories/GHSA-8r7q-r9mx-35rh,https://da.gd/3vmP8o
+GithubAdvisories,[GHSA-rjh8-p66p-jrh5] Data races in rusqlite,https://github.com/advisories/GHSA-rjh8-p66p-jrh5,https://da.gd/aY33Y
+GithubAdvisories,[GHSA-36cg-4jff-5863] Data races in signal-simple,https://github.com/advisories/GHSA-36cg-4jff-5863,https://da.gd/3txs
+GithubAdvisories,[GHSA-x54v-qxxr-93qc] Missing release of memory in sized-chunks,https://github.com/advisories/GHSA-x54v-qxxr-93qc,https://da.gd/NnCBG
+GithubAdvisories,[GHSA-jqqr-c2r2-9cvr] Improper Certificate Validation in security-framework,https://github.com/advisories/GHSA-jqqr-c2r2-9cvr,https://da.gd/iuKg2
+GithubAdvisories,[GHSA-xwxc-j97j-84gf] Race condition in Parc,https://github.com/advisories/GHSA-xwxc-j97j-84gf,https://da.gd/Xnlca
+GithubAdvisories,[GHSA-qpjr-ch72-2qq4] Use after free in portaudio-rs,https://github.com/advisories/GHSA-qpjr-ch72-2qq4,https://da.gd/b66mIZ
+GithubAdvisories,[GHSA-fhvc-gp6c-h2wx] Read on uninitialized buffer in postscript,https://github.com/advisories/GHSA-fhvc-gp6c-h2wx,https://da.gd/Jp7k6S
+GithubAdvisories,[GHSA-mh6h-f25p-98f8] Uncontrolled memory consumption in protobuf,https://github.com/advisories/GHSA-mh6h-f25p-98f8,https://da.gd/5q5CvX
+GithubAdvisories,[GHSA-fhv4-fx3v-77w6] quinn invalidly assumes the memory layout of std::net::SocketAddr,https://github.com/advisories/GHSA-fhv4-fx3v-77w6,https://da.gd/vpHBoO
