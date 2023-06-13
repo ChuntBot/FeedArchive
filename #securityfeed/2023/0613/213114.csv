@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-39vw-qp34-rmwf] Uncontrolled recursion leads to abort in deserialization,https://github.com/advisories/GHSA-39vw-qp34-rmwf,https://da.gd/o9h9x
+GithubAdvisories,[GHSA-gwfj-pw2x-h6c2] Out of bounds read in simd-json,https://github.com/advisories/GHSA-gwfj-pw2x-h6c2,https://da.gd/MTmY7
