@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gf93-h79q-6jjv] Incorrect implementation of the Streebog hash functions in streebog,https://github.com/advisories/GHSA-gf93-h79q-6jjv,https://da.gd/OOPj
+GithubAdvisories,[GHSA-2jfv-g3fh-xq3v] Excessive memory usage in tokio-rustls,https://github.com/advisories/GHSA-2jfv-g3fh-xq3v,https://da.gd/qhm4M
+GithubAdvisories,[GHSA-39wr-f4ff-xm6p] Incorrect implementation in streebog,https://github.com/advisories/GHSA-39wr-f4ff-xm6p,https://da.gd/PLz2I
+GithubAdvisories,[GHSA-vp6r-mrq9-8f4h] Data race in syncpool,https://github.com/advisories/GHSA-vp6r-mrq9-8f4h,https://da.gd/VEShg
+GithubAdvisories,[GHSA-69gw-hgj3-45m7] Memory corruption in smallvec,https://github.com/advisories/GHSA-69gw-hgj3-45m7,https://da.gd/zfWF
