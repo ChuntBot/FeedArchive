@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-773q-5334-5gf9] Memory over-allocation in evm-core,https://github.com/advisories/GHSA-773q-5334-5gf9,https://da.gd/ySiXm
+GithubAdvisories,[GHSA-c9h5-hf8r-m97x] Dangling reference in flatbuffers,https://github.com/advisories/GHSA-c9h5-hf8r-m97x,https://da.gd/2bJl5
+GithubAdvisories,[GHSA-qxjq-v4wf-ppvh] Out of bounds read in dync,https://github.com/advisories/GHSA-qxjq-v4wf-ppvh,https://da.gd/fKXS4
+GithubAdvisories,[GHSA-m8h8-v6jh-c762] Incorrect buffer size in crossbeam-channel,https://github.com/advisories/GHSA-m8h8-v6jh-c762,https://da.gd/e499Ww
+GithubAdvisories,[GHSA-c3cw-c387-pj65] Double free in crossbeam,https://github.com/advisories/GHSA-c3cw-c387-pj65,https://da.gd/19BbD
+GithubAdvisories,[GHSA-f9xr-3m55-5q2v] Data races in cgc,https://github.com/advisories/GHSA-f9xr-3m55-5q2v,https://da.gd/wr2S
+GithubAdvisories,[GHSA-vjrq-cg9x-rfjp] Improper Input Validation in cookie,https://github.com/advisories/GHSA-vjrq-cg9x-rfjp,https://da.gd/u6jpT
+GithubAdvisories,[GHSA-cv7x-6rc6-pq5v] Double free in containers,https://github.com/advisories/GHSA-cv7x-6rc6-pq5v,https://da.gd/8OgN
+GithubAdvisories,[GHSA-3jc5-5hc5-33gj] Data races in conquer-once,https://github.com/advisories/GHSA-3jc5-5hc5-33gj,https://da.gd/LV2fuO
