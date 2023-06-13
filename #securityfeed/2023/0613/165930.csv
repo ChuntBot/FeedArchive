@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7j36-gc4r-9x3r] Out of bounds access in compact_arena,https://github.com/advisories/GHSA-7j36-gc4r-9x3r,https://da.gd/xOcCn
+GithubAdvisories,[GHSA-8c6g-4xc5-w96c] Uninitialized memory exposure in claxon,https://github.com/advisories/GHSA-8c6g-4xc5-w96c,https://da.gd/CJFy
+GithubAdvisories,[GHSA-955p-rc5h-hg6h] Double free in arenavec,https://github.com/advisories/GHSA-955p-rc5h-hg6h,https://da.gd/jACU7
+GithubAdvisories,"[GHSA-c7fw-cr3w-wvfc] Multiple security issues including data race, buffer overflow, and uninitialized memory drop in arr",https://github.com/advisories/GHSA-c7fw-cr3w-wvfc,https://da.gd/lh58
+GithubAdvisories,"[GHSA-36xw-hgfv-jwm7] Multiple security issues including data race, buffer overflow, and uninitialized memory drop in arr",https://github.com/advisories/GHSA-36xw-hgfv-jwm7,https://da.gd/5RL0
+GithubAdvisories,"[GHSA-fhvj-7f9p-w788] Multiple security issues including data race, buffer overflow, and uninitialized memory drop in arr",https://github.com/advisories/GHSA-fhvj-7f9p-w788,https://da.gd/JloyFu
+GithubAdvisories,[GHSA-9cg2-2j2h-59v9] Data races in atom,https://github.com/advisories/GHSA-9cg2-2j2h-59v9,https://da.gd/jKOa
+GithubAdvisories,[GHSA-pwhf-7427-9vv2] Non-atomic writes in cgc,https://github.com/advisories/GHSA-pwhf-7427-9vv2,https://da.gd/zaw2GO
+GithubAdvisories,[GHSA-327x-39hh-65wf] Out of bounds write in arenavec,https://github.com/advisories/GHSA-327x-39hh-65wf,https://da.gd/6qWHfp
+GithubAdvisories,[GHSA-7cjc-hvxf-gqh7] Use after free and double free in bitvec,https://github.com/advisories/GHSA-7cjc-hvxf-gqh7,https://da.gd/zWjpc
