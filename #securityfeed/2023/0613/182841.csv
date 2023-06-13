@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ppj3-7jw3-8vc4] Data races in lock_api,https://github.com/advisories/GHSA-ppj3-7jw3-8vc4,https://da.gd/Oh4Yvo
+GithubAdvisories,[GHSA-vh4p-6j7g-f4j9] Data races in lock_api,https://github.com/advisories/GHSA-vh4p-6j7g-f4j9,https://da.gd/UJoCUb
+GithubAdvisories,[GHSA-hj9h-wrgg-hgmx] Data races in lock_api,https://github.com/advisories/GHSA-hj9h-wrgg-hgmx,https://da.gd/uk3X
+GithubAdvisories,[GHSA-gmv4-vmx3-x9f3] Data races in lock_api,https://github.com/advisories/GHSA-gmv4-vmx3-x9f3,https://da.gd/ZYUgdu
+GithubAdvisories,[GHSA-x7vr-c387-8w57] Integer Overflow/Infinite Loop in the http crate,https://github.com/advisories/GHSA-x7vr-c387-8w57,https://da.gd/gZIH3
+GithubAdvisories,[GHSA-vfqx-hv88-f9cv] Double-free in id-map,https://github.com/advisories/GHSA-vfqx-hv88-f9cv,https://da.gd/lbCfia
+GithubAdvisories,[GHSA-rccq-j2m7-8fwr] Double-free in id-map,https://github.com/advisories/GHSA-rccq-j2m7-8fwr,https://da.gd/5ArDvr
+GithubAdvisories,[GHSA-m2pf-hprp-3vqm] Use after free in image,https://github.com/advisories/GHSA-m2pf-hprp-3vqm,https://da.gd/of3j
+GithubAdvisories,[GHSA-wr55-mf5c-hhwm] Data races in late-static,https://github.com/advisories/GHSA-wr55-mf5c-hhwm,https://da.gd/Z94AqB
+GithubAdvisories,[GHSA-w47j-hqpf-qw9w] Out of bounds read in lazy-init,https://github.com/advisories/GHSA-w47j-hqpf-qw9w,https://da.gd/0Thw
+GithubAdvisories,[GHSA-5wg8-7c9q-794v] Data races in lock_api,https://github.com/advisories/GHSA-5wg8-7c9q-794v,https://da.gd/EwZWE1
+GithubAdvisories,[GHSA-69vj-xx27-g45w] Data race in eventio,https://github.com/advisories/GHSA-69vj-xx27-g45w,https://da.gd/TpNWcz
+GithubAdvisories,[GHSA-5pg8-h4gv-m3p8] Null pointer deference in fltk,https://github.com/advisories/GHSA-5pg8-h4gv-m3p8,https://da.gd/rUGV
+GithubAdvisories,[GHSA-7qcc-g2m9-8533] Null pointer deference in fltk,https://github.com/advisories/GHSA-7qcc-g2m9-8533,https://da.gd/ohQA8
+GithubAdvisories,[GHSA-vjmg-pc8h-p6p8] Out of bounds read in fltk,https://github.com/advisories/GHSA-vjmg-pc8h-p6p8,https://da.gd/MpHkE
+GithubAdvisories,[GHSA-4hjg-cx88-g9f9] Data races in futures-intrusive,https://github.com/advisories/GHSA-4hjg-cx88-g9f9,https://da.gd/B6MFV
+GithubAdvisories,[GHSA-xp6v-qx65-4pp7] Data races in gfwx,https://github.com/advisories/GHSA-xp6v-qx65-4pp7,https://da.gd/55h8Ly
+GithubAdvisories,[GHSA-cx4j-fxr7-jxg8] Double free in glsl-layout,https://github.com/advisories/GHSA-cx4j-fxr7-jxg8,https://da.gd/D0SZ
