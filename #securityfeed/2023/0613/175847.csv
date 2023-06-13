@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j52m-489x-v634] Double free in linea,https://github.com/advisories/GHSA-j52m-489x-v634,https://da.gd/vka91
+GithubAdvisories,[GHSA-4q4x-67hx-5mpg] Failure to properly verify ed25519 signatures in libp2p-core,https://github.com/advisories/GHSA-4q4x-67hx-5mpg,https://da.gd/rtmP
+GithubAdvisories,[GHSA-h3qr-rq2j-74w4] HTTP Request Smuggling in hyper,https://github.com/advisories/GHSA-h3qr-rq2j-74w4,https://da.gd/faKmUM
