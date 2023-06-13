@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3w3w-pxmm-2w2j] crypto-js uses insecure random numbers,https://github.com/advisories/GHSA-3w3w-pxmm-2w2j,https://da.gd/2A4Q1
+GithubAdvisories,[GHSA-x3cc-x39p-42qx] fast-xml-parser vulnerable to Prototype Pollution through tag or attribute name,https://github.com/advisories/GHSA-x3cc-x39p-42qx,https://da.gd/APJ0
