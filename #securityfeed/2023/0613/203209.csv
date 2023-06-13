@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3h87-v52r-p9rg] Out of bounds write in reorder,https://github.com/advisories/GHSA-3h87-v52r-p9rg,https://da.gd/HBPB
+GithubAdvisories,[GHSA-g4rw-8m5q-6453] Out of bounds access in rgb,https://github.com/advisories/GHSA-g4rw-8m5q-6453,https://da.gd/t9SCnL
+GithubAdvisories,[GHSA-g4w7-3qr8-5623] Improper type usage in rusqlite,https://github.com/advisories/GHSA-g4w7-3qr8-5623,https://da.gd/V83vD
+GithubAdvisories,[GHSA-q3cc-7p7g-392c] Use after free in rusqlite,https://github.com/advisories/GHSA-q3cc-7p7g-392c,https://da.gd/I4R0G
+GithubAdvisories,[GHSA-34p9-f4q3-c4r7] Improper Certificate Validation in openssl,https://github.com/advisories/GHSA-34p9-f4q3-c4r7,https://da.gd/vFBbWN
+GithubAdvisories,[GHSA-qrwc-jxf5-g8x6] Out of bounds read in ordnung,https://github.com/advisories/GHSA-qrwc-jxf5-g8x6,https://da.gd/n1Ljr
+GithubAdvisories,[GHSA-4wj3-p7hj-cvx8] Double free in ordnung,https://github.com/advisories/GHSA-4wj3-p7hj-cvx8,https://da.gd/8mvEho
+GithubAdvisories,[GHSA-gffv-5hr2-f9gj] Flaw in streaming state in orion,https://github.com/advisories/GHSA-gffv-5hr2-f9gj,https://da.gd/8ixFlQ
+GithubAdvisories,[GHSA-q948-x8rf-888m] os_str_bytes relies on undefined behavior of `char::from_u32_unchecked`,https://github.com/advisories/GHSA-q948-x8rf-888m,https://da.gd/rf0R5
+GithubAdvisories,[GHSA-p2q9-9cq6-h3jw] Out of bounds read in Ozone,https://github.com/advisories/GHSA-p2q9-9cq6-h3jw,https://da.gd/xg7arW
+GithubAdvisories,[GHSA-29v7-3v4c-gf38] Data races in parc,https://github.com/advisories/GHSA-29v7-3v4c-gf38,https://da.gd/AcAl
+GithubAdvisories,[GHSA-3933-wvjf-pcvc] Out of bounds access in lucet-runtime-internals,https://github.com/advisories/GHSA-3933-wvjf-pcvc,https://da.gd/U5LDJ
+GithubAdvisories,[GHSA-9f5r-vqm5-m342] Use of Uninitialized Resource in ms3d,https://github.com/advisories/GHSA-9f5r-vqm5-m342,https://da.gd/nOxI77
+GithubAdvisories,[GHSA-h7qh-3h6f-w79p] Unexpected panic in multihash,https://github.com/advisories/GHSA-h7qh-3h6f-w79p,https://da.gd/nf4rYf
+GithubAdvisories,[GHSA-jphw-p3m6-pj3c] Data races in multiqueue2,https://github.com/advisories/GHSA-jphw-p3m6-pj3c,https://da.gd/UANkV
+GithubAdvisories,[GHSA-wp34-mqw5-jj85] Use after free in nano_arena,https://github.com/advisories/GHSA-wp34-mqw5-jj85,https://da.gd/Win1A
+GithubAdvisories,[GHSA-g7r5-x7cr-vm3v] Buffer overflow and format vulnerabilities in ncurses,https://github.com/advisories/GHSA-g7r5-x7cr-vm3v,https://da.gd/gqXY
