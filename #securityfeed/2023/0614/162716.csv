@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fpvg-m786-h5vr] Dolibarr vulnerable to unauthenticated database access,https://github.com/advisories/GHSA-fpvg-m786-h5vr,https://da.gd/YHyg
+GithubAdvisories,[GHSA-c79c-gwph-gqfm] `net2` invalidly assumes the memory layout of std::net::SocketAddr,https://github.com/advisories/GHSA-c79c-gwph-gqfm,https://da.gd/7efld
