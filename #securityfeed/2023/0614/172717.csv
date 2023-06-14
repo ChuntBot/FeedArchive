@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rm8v-mxj3-5rmq] github.com/lestrrat-go/jwx vulnerable to Potential Padding Oracle Attack,https://github.com/advisories/GHSA-rm8v-mxj3-5rmq,https://da.gd/gavvvs
+GithubAdvisories,[GHSA-gh24-9qjj-mr67] Microsoft Security Advisory CVE-2023-33126: .NET Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-gh24-9qjj-mr67,https://da.gd/IUWC5A
+GithubAdvisories,[GHSA-x469-cv7m-77r9] .NET Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-x469-cv7m-77r9,https://da.gd/mO9a8a
+GithubAdvisories,[GHSA-555c-2p6r-68mm] .NET Denial of Service vulnerability,https://github.com/advisories/GHSA-555c-2p6r-68mm,https://da.gd/b5RyLe
+GithubAdvisories,[GHSA-jx7q-xxmw-44vf] .NET Elevation of Privilege Vulnerability,https://github.com/advisories/GHSA-jx7q-xxmw-44vf,https://da.gd/Zd564
+GithubAdvisories,[GHSA-jh2h-qcrw-ghg7] .NET Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-jh2h-qcrw-ghg7,https://da.gd/svfZvd
+GithubAdvisories,[GHSA-88q2-h5g3-p4pg] .NET Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-88q2-h5g3-p4pg,https://da.gd/sbHihT
