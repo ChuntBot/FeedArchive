@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-66gv-5m8q-rrjc] jsonij vulnerable to stack exhaustion,https://github.com/advisories/GHSA-66gv-5m8q-rrjc,https://da.gd/fUkt6
+GithubAdvisories,[GHSA-p4c9-x742-qh8c] pbjson vulnerable to stack exhaustion,https://github.com/advisories/GHSA-p4c9-x742-qh8c,https://da.gd/4Axz3
+GithubAdvisories,[GHSA-fj64-qprx-q7vq] genson vulnerable to stack exhaustion,https://github.com/advisories/GHSA-fj64-qprx-q7vq,https://da.gd/NzLO
+GithubAdvisories,[GHSA-5wfc-hjrc-gq87] hjson stack exhaustion vulnerability,https://github.com/advisories/GHSA-5wfc-hjrc-gq87,https://da.gd/AgckDo
+GithubAdvisories,[GHSA-5ghv-wxh9-7356] Jenkins Digital.ai App Management Publisher Plugin missing permission checks,https://github.com/advisories/GHSA-5ghv-wxh9-7356,https://da.gd/Dx0vc6
+GithubAdvisories,[GHSA-r72x-2h45-p59x] Jenkins Digital.ai App Management Publisher Plugin vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-r72x-2h45-p59x,https://da.gd/EoXxH
+GithubAdvisories,[GHSA-wmxx-2pvr-x7j6] Jenkins Sonargraph Integration Plugin vulnerable to Stored Cross-site Scripting,https://github.com/advisories/GHSA-wmxx-2pvr-x7j6,https://da.gd/6zK4
+GithubAdvisories,[GHSA-62v2-xwh3-5gvx] Jenkins Template Workflows Plugin vulnerable to Stored Cross-site Scripting,https://github.com/advisories/GHSA-62v2-xwh3-5gvx,https://da.gd/ChM2
+GithubAdvisories,[GHSA-98fp-r22g-wpj7] Jenkins CSRF protection bypass vulnerability,https://github.com/advisories/GHSA-98fp-r22g-wpj7,https://da.gd/UmzCdq
