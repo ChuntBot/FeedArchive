@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4g42-gqrg-4633] Apache Struts vulnerable to memory exhaustion,https://github.com/advisories/GHSA-4g42-gqrg-4633,https://da.gd/k71DnO
+GithubAdvisories,[GHSA-8f6x-v685-g2xc] Apache Struts vulnerable to memory exhaustion,https://github.com/advisories/GHSA-8f6x-v685-g2xc,https://da.gd/TbssSA
+GithubAdvisories,[GHSA-853p-5678-hv8f] ink! vulnerable to incorrect decoding of storage value when using `DelegateCall`,https://github.com/advisories/GHSA-853p-5678-hv8f,https://da.gd/wL0wQ4
