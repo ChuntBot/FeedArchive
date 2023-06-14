@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w2rr-wvh9-m2m7] JSONUtil vulnerable to stack exhaustion,https://github.com/advisories/GHSA-w2rr-wvh9-m2m7,https://da.gd/OCgJYE
+GithubAdvisories,[GHSA-mx27-gg24-h2jc] ph-json vulnerable to stack exhaustion,https://github.com/advisories/GHSA-mx27-gg24-h2jc,https://da.gd/ST0z
+GithubAdvisories,[GHSA-779h-3r69-4f5p] json-io vulnerable to stack exhaustion,https://github.com/advisories/GHSA-779h-3r69-4f5p,https://da.gd/4QKD
+GithubAdvisories,[GHSA-x32c-59v5-h7fg] Langchain OS Command Injection vulnerability,https://github.com/advisories/GHSA-x32c-59v5-h7fg,https://da.gd/rhUhX
+GithubAdvisories,[GHSA-75m3-f4hr-2vh9] jjson vulnerable to stack exhaustion,https://github.com/advisories/GHSA-75m3-f4hr-2vh9,https://da.gd/6JhKi2
+GithubAdvisories,[GHSA-75r3-38rh-pmxv] sojo vulnerable to stack exhaustion,https://github.com/advisories/GHSA-75r3-38rh-pmxv,https://da.gd/Vyw34E
+GithubAdvisories,[GHSA-jv4x-j47q-6qvp] htmlcleaner vulnerable to stack exhaustion,https://github.com/advisories/GHSA-jv4x-j47q-6qvp,https://da.gd/RJTr
+GithubAdvisories,[GHSA-7g45-4rm6-3mm3] Guava vulnerable to insecure use of temporary directory,https://github.com/advisories/GHSA-7g45-4rm6-3mm3,https://da.gd/ypJ0
