@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3x74-v64j-qc3f] CraftCMS Server-Side Template Injection vulnerability,https://github.com/advisories/GHSA-3x74-v64j-qc3f,https://da.gd/SjNpu
+GithubAdvisories,[GHSA-6qmf-mmc7-6c2p] NuGet Client Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-6qmf-mmc7-6c2p,https://da.gd/T8V8Np
+GithubAdvisories,[GHSA-7mcw-xmx3-7p8m] Insecure Temporary File in HuTool,https://github.com/advisories/GHSA-7mcw-xmx3-7p8m,https://da.gd/N06luD
+GithubAdvisories,[GHSA-wm5g-p99q-66g4] Path Traversal vulnerability in PHP LocalVolumeDriver connector,https://github.com/advisories/GHSA-wm5g-p99q-66g4,https://da.gd/W8o3
