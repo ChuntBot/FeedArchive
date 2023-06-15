@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pqr6-cmr2-h8hf] snappy-java's Integer Overflow vulnerability in shuffle leads to DoS,https://github.com/advisories/GHSA-pqr6-cmr2-h8hf,https://da.gd/TGZnB
