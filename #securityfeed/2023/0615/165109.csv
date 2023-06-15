@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fjpj-2g6w-x25r] snappy-java's Integer Overflow vulnerability in compress leads to DoS,https://github.com/advisories/GHSA-fjpj-2g6w-x25r,https://da.gd/0Vcy
