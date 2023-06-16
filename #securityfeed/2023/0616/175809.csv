@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r7wr-4w5q-55m6] Cilium vulnerable to information leakage via incorrect ReferenceGrant handling,https://github.com/advisories/GHSA-r7wr-4w5q-55m6,https://da.gd/LOExr
