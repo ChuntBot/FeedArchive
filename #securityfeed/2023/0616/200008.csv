@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f4m6-x2xj-jc7w] ke_search (aka Faceted Search) vulnerable to Cross-Site Scripting,https://github.com/advisories/GHSA-f4m6-x2xj-jc7w,https://da.gd/UuYe
+GithubAdvisories,[GHSA-xc8m-28vv-4pjc] Kubelet vulnerable to bypass of seccomp profile enforcement,https://github.com/advisories/GHSA-xc8m-28vv-4pjc,https://da.gd/PnO3
+GithubAdvisories,[GHSA-68jh-rf6x-836f] @apollo/server vulnerable to unsafe application of Content Security Policy via reused nonces,https://github.com/advisories/GHSA-68jh-rf6x-836f,https://da.gd/YPu5rn
+GithubAdvisories,[GHSA-p2qf-9vp6-3jjq] HuTool XML parsing module has blind XXE vulnerability,https://github.com/advisories/GHSA-p2qf-9vp6-3jjq,https://da.gd/T5ba
+GithubAdvisories,[GHSA-whr7-m3f8-mpm8] Grav Server-side Template Injection (SSTI) via Twig Default Filters,https://github.com/advisories/GHSA-whr7-m3f8-mpm8,https://da.gd/V5nize
+GithubAdvisories,[GHSA-j3v8-v77f-fvgm] Grav Server-side Template Injection (SSTI) via Denylist Bypass Vulnerability,https://github.com/advisories/GHSA-j3v8-v77f-fvgm,https://da.gd/oNTF
+GithubAdvisories,[GHSA-96xv-rmwj-6p9w] Grav Server-side Template Injection (SSTI) via Twig Default Filters,https://github.com/advisories/GHSA-96xv-rmwj-6p9w,https://da.gd/AK4wCB
+GithubAdvisories,[GHSA-f9jf-4cp4-4fq5] Grav Server Side Template Injection (SSTI) vulnerability,https://github.com/advisories/GHSA-f9jf-4cp4-4fq5,https://da.gd/6zIigY
