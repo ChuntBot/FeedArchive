@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mjff-wv85-hmcj] Apache Airflow vulnerable to exposure of sensitive information,https://github.com/advisories/GHSA-mjff-wv85-hmcj,https://da.gd/bXv43O
+GithubAdvisories,[GHSA-rx28-r23p-2qc3] AWS CDK EKS overly permissive trust policies,https://github.com/advisories/GHSA-rx28-r23p-2qc3,https://da.gd/VJQhF
+GithubAdvisories,[GHSA-cvgc-465m-cw9g] JeecgBoot vulnerable to SQL injection in queryFilterTableDictInfo,https://github.com/advisories/GHSA-cvgc-465m-cw9g,https://da.gd/KzaZB
+GithubAdvisories,[GHSA-784x-7w88-w564] JeecgBoot vulnerable to SQL injection in queryTableDictItemsByCode,https://github.com/advisories/GHSA-784x-7w88-w564,https://da.gd/MoO5
+GithubAdvisories,[GHSA-rx62-5cw6-x29q] Whaleal IceFrog is vulnerable to deserialization,https://github.com/advisories/GHSA-rx62-5cw6-x29q,https://da.gd/9wamU
