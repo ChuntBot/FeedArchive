@@ -1,0 +1,25 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w3f6-pc54-gfw7] swift-nio-http2 vulnerable to denial of service via mishandled HPACK variable length integer encoding,https://github.com/advisories/GHSA-w3f6-pc54-gfw7,https://da.gd/4qi0O
+GithubAdvisories,[GHSA-wfvq-p7qf-vv64] Duplicate advisory: swift-nio-http2 vulnerable to denial of service via mishandled HPACK variable length integer encoding,https://github.com/advisories/GHSA-wfvq-p7qf-vv64,https://da.gd/qSOJF
+GithubAdvisories,[GHSA-pgfx-g6rc-8cjv] swift-nio-http2 vulnerable to denial of service via ALTSVC or ORIGIN frames,https://github.com/advisories/GHSA-pgfx-g6rc-8cjv,https://da.gd/paHtyU
+GithubAdvisories,[GHSA-gpgx-whwh-r297] Duplicate advisory: swift-nio-http2 vulnerable to denial of service via ALTSVC or ORIGIN frames,https://github.com/advisories/GHSA-gpgx-whwh-r297,https://da.gd/uRind
+GithubAdvisories,[GHSA-r6ww-5963-7r95] Denial of Service via reachable assertion,https://github.com/advisories/GHSA-r6ww-5963-7r95,https://da.gd/YhHB
+GithubAdvisories,[GHSA-q36x-r5x4-h4q6] Denial of service via HTTP/2 HEADERS frames padding,https://github.com/advisories/GHSA-q36x-r5x4-h4q6,https://da.gd/ZDHtE
+GithubAdvisories,[GHSA-rv3x-xq3r-8j9h] LeafKit allows XSS with untrusted user input,https://github.com/advisories/GHSA-rv3x-xq3r-8j9h,https://da.gd/D5eYMG
+GithubAdvisories,[GHSA-2jx2-qcm4-rf9h] Incomplete Internal State Distinction in GRPCWebToHTTP2ServerCodec,https://github.com/advisories/GHSA-2jx2-qcm4-rf9h,https://da.gd/wCL9yt
+GithubAdvisories,[GHSA-rxmj-hg9v-vp3p] Uncontrolled Resource Consumption in LengthPrefixedMessageReader,https://github.com/advisories/GHSA-rxmj-hg9v-vp3p,https://da.gd/mHmoAR
+GithubAdvisories,[GHSA-pqwh-c2f3-vxmq] Untrusted data fed into `Data.init(base32Encoded:)` can result in exposing server memory and/or crash,https://github.com/advisories/GHSA-pqwh-c2f3-vxmq,https://da.gd/caEB8
+GithubAdvisories,[GHSA-gcj9-jj38-hwmc] Vapor's Metrics integration could cause a system drain,https://github.com/advisories/GHSA-gcj9-jj38-hwmc,https://da.gd/Xhzvk
+GithubAdvisories,[GHSA-vcvg-xgr8-p5gq] Arbitrary file read using percent-encoded relative paths in FileMiddleware,https://github.com/advisories/GHSA-vcvg-xgr8-p5gq,https://da.gd/FrrZ3G
+GithubAdvisories,[GHSA-vj2m-9f5j-mpr5] Vapor vulnerable to denial of service in HTTP Range Request of FileMiddleware,https://github.com/advisories/GHSA-vj2m-9f5j-mpr5,https://da.gd/ejfo
+GithubAdvisories,[GHSA-qvxg-wjxc-r4gg] Vapor vulnerable to denial of service in URLEncodedFormDecoder,https://github.com/advisories/GHSA-qvxg-wjxc-r4gg,https://da.gd/EIkB
+GithubAdvisories,[GHSA-239c-6cv2-wwx8] Swift-corelibs-foundation denial of service in JSON decoding with JSONDecoder,https://github.com/advisories/GHSA-239c-6cv2-wwx8,https://da.gd/virlm
+GithubAdvisories,[GHSA-773g-x274-8qmf] SwiftNIO Extras vulnerable to improper detection of complete HTTP body decompression,https://github.com/advisories/GHSA-773g-x274-8qmf,https://da.gd/AgFCh
+GithubAdvisories,[GHSA-7fj7-39wj-c64f] SwiftNIO vulnerable to Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting'),https://github.com/advisories/GHSA-7fj7-39wj-c64f,https://da.gd/lNbOzK
+GithubAdvisories,[GHSA-v3r5-pjpm-mwgq] Async HTTP Client has CRLF Injection vulnerability in HTTP request headers,https://github.com/advisories/GHSA-v3r5-pjpm-mwgq,https://da.gd/Vqec2
+GithubAdvisories,[GHSA-4rhq-vq24-88gw] Uncontrolled Recursion in HTTP2ToRawGRPCServerCodec,https://github.com/advisories/GHSA-4rhq-vq24-88gw,https://da.gd/GxDXfL
+GithubAdvisories,[GHSA-ccw9-q5h2-8c2w] swift-nio-http2 vulnerable to denial of service via invalid HTTP/2 HEADERS frame length,https://github.com/advisories/GHSA-ccw9-q5h2-8c2w,https://da.gd/D3Nbb
+GithubAdvisories,[GHSA-mgc4-wqv7-4pxm] SwiftNIO vulnerable to HTTP request smuggling using malformed Transfer-Encoding header,https://github.com/advisories/GHSA-mgc4-wqv7-4pxm,https://da.gd/aECT
+GithubAdvisories,[GHSA-9cfh-vx93-84vv] PostgresNIO processes unencrypted bytes from man-in-the-middle,https://github.com/advisories/GHSA-9cfh-vx93-84vv,https://da.gd/EtJh3
+GithubAdvisories,[GHSA-5c9c-6x87-f9vm] zstd vulnerable to buffer overrun,https://github.com/advisories/GHSA-5c9c-6x87-f9vm,https://da.gd/FVMPAd
+GithubAdvisories,[GHSA-frg3-gpcx-968f] SwiftNIO SSL arbitrary code execution vulnerability,https://github.com/advisories/GHSA-frg3-gpcx-968f,https://da.gd/Q01tH
