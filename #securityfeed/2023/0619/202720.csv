@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3p2q-mh7q-9pxj] Duplicate Advisory: elFinder vulnerable to path traversal in LocalVolumeDriver connector,https://github.com/advisories/GHSA-3p2q-mh7q-9pxj,https://da.gd/Vn7c
