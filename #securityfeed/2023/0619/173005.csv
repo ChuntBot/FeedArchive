@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pv7r-9vjg-g3f9] Duplicate advisory: swift-nio-http2 vulnerable to denial of service via invalid HTTP/2 HEADERS frame length,https://github.com/advisories/GHSA-pv7r-9vjg-g3f9,https://da.gd/QTme7
