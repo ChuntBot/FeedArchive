@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wprv-93r4-jj2p] OpenZeppelin Contracts using MerkleProof multiproofs may allow proving arbitrary leaves for specific trees,https://github.com/advisories/GHSA-wprv-93r4-jj2p,https://da.gd/AYjY
