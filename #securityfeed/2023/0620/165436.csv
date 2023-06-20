@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fwwj-wg89-7h4c] XWiki Platform vulnerable to cross-site scripting in target parameter via share page by email,https://github.com/advisories/GHSA-fwwj-wg89-7h4c,https://da.gd/U7OmaR
+GithubAdvisories,[GHSA-4wc6-hqv9-qc97] XWiki Platform vulnerable to stored cross-site scripting in ClassEditSheet page via name parameters,https://github.com/advisories/GHSA-4wc6-hqv9-qc97,https://da.gd/qpu1J
+GithubAdvisories,[GHSA-rf8j-q39g-7xfm] XWiki Platform vulnerable to privilege escalation (PR) from account through like LiveTableResults,https://github.com/advisories/GHSA-rf8j-q39g-7xfm,https://da.gd/OpdGIH
+GithubAdvisories,[GHSA-8g9c-c9cm-9c56] XWiki Platform may show email addresses in clear in REST results,https://github.com/advisories/GHSA-8g9c-c9cm-9c56,https://da.gd/KZSE
+GithubAdvisories,[GHSA-6mf5-36v9-3h2w] XWiki Platform vulnerable to privilege escalation (PR) from view right via Invitation application,https://github.com/advisories/GHSA-6mf5-36v9-3h2w,https://da.gd/34MA7
+GithubAdvisories,[GHSA-7vr7-cghh-ch63] XWiki Platform may retrieve email addresses of all users,https://github.com/advisories/GHSA-7vr7-cghh-ch63,https://da.gd/Qc7S
+GithubAdvisories,[GHSA-7f2f-pcv3-j2r7] XWiki Platform's tags on non-viewable pages can be revealed to users,https://github.com/advisories/GHSA-7f2f-pcv3-j2r7,https://da.gd/gKIAM
+GithubAdvisories,[GHSA-g75c-cjr6-39mc] XWiki Platform's Mail.MailConfig can be edited by any user with edit rights,https://github.com/advisories/GHSA-g75c-cjr6-39mc,https://da.gd/6wLSp
+GithubAdvisories,[GHSA-fp7h-f9f5-x4q7] XWiki vulnerable to stored cross-site scripting via any wiki document and the displaycontent/rendercontent template,https://github.com/advisories/GHSA-fp7h-f9f5-x4q7,https://da.gd/Qwnc8S
+GithubAdvisories,[GHSA-8rc9-vxjh-qjf2] Vega's validators able to submit duplicate transactions,https://github.com/advisories/GHSA-8rc9-vxjh-qjf2,https://da.gd/IkS1g
+GithubAdvisories,[GHSA-hcpw-v727-64qh] Jenkins Team Concert Plugin does not perform permission checks in methods implementing form validation,https://github.com/advisories/GHSA-hcpw-v727-64qh,https://da.gd/kEZS5x
+GithubAdvisories,[GHSA-6mjq-h674-j845] netty-handler SniHandler 16MB allocation,https://github.com/advisories/GHSA-6mjq-h674-j845,https://da.gd/topSb
