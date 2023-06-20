@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-7hh3-3x64-v2g9] When setting EntityOptions.apiPrefilter to a function, the filter is not applied to API requests for a resource by Id",https://github.com/advisories/GHSA-7hh3-3x64-v2g9,https://da.gd/YPZ7
+GithubAdvisories,[GHSA-77rv-6vfw-x4gc] spring-security-oauth and spring-security-oauth2 Open Redirect vulnerability,https://github.com/advisories/GHSA-77rv-6vfw-x4gc,https://da.gd/ORWBdU
