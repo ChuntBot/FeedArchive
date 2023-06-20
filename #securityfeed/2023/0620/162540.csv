@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7q8c-49f4-4c8q] Solon vulnerable to deserialization of untrusted data,https://github.com/advisories/GHSA-7q8c-49f4-4c8q,https://da.gd/cNKtco
