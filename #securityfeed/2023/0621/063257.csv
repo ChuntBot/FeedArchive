@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+FreeBSDSecurityNotice,FreeBSD-EN-23:07.mpr,https://www.freebsd.org/security/advisories/FreeBSD-EN-23:07.mpr.asc,https://da.gd/BSMQLX
+FreeBSDSecurityNotice,FreeBSD-EN-23:06.loader,https://www.freebsd.org/security/advisories/FreeBSD-EN-23:06.loader.asc,https://da.gd/5s8S
+FreeBSDSecurityNotice,FreeBSD-EN-23:05.tzdata,https://www.freebsd.org/security/advisories/FreeBSD-EN-23:05.tzdata.asc,https://da.gd/spmv5z
+FreeBSDSecurityNotice,FreeBSD-SA-23:05.openssh,https://www.freebsd.org//security/advisories/FreeBSD-SA-23:05.openssh.asc,https://da.gd/IGkk5
+FreeBSDSecurityNotice,FreeBSD-SA-23:04.pam_krb5,https://www.freebsd.org//security/advisories/FreeBSD-SA-23:04.pam_krb5.asc,https://da.gd/kog7kH
