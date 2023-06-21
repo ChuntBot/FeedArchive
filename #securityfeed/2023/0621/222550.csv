@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7xqx-xwg9-jx34] NodCMS Cross Site Scripting vulnerability,https://github.com/advisories/GHSA-7xqx-xwg9-jx34,https://da.gd/bX3G0j
+GithubAdvisories,[GHSA-q3q5-qvh5-cmw5] liufee CMS File Upload vulnerability,https://github.com/advisories/GHSA-q3q5-qvh5-cmw5,https://da.gd/6KE1VL
+GithubAdvisories,[GHSA-gqr4-cvf4-3957] YiiCMS Cross Site Scripting vulnerability,https://github.com/advisories/GHSA-gqr4-cvf4-3957,https://da.gd/IXTtOl
+GithubAdvisories,[GHSA-298m-hvgh-x9cw] Alluxio Cross Site Scripting vulnerability,https://github.com/advisories/GHSA-298m-hvgh-x9cw,https://da.gd/YbfwHn
+GithubAdvisories,[GHSA-6vf2-mfmr-qqqw] Liufee CMS File Upload vulnerability,https://github.com/advisories/GHSA-6vf2-mfmr-qqqw,https://da.gd/9w2FI
+GithubAdvisories,[GHSA-6643-h7h5-x9wh] Langchain vulnerable to arbitrary code execution,https://github.com/advisories/GHSA-6643-h7h5-x9wh,https://da.gd/9FdGdG
+GithubAdvisories,[GHSA-gc34-5v43-h7v8] nuxt Code Injection vulnerability,https://github.com/advisories/GHSA-gc34-5v43-h7v8,https://da.gd/RB7i98
+GithubAdvisories,[GHSA-8jxm-xp43-qh3q] Silver vulnerable to MitM attack against implants due to a cryptography vulnerability,https://github.com/advisories/GHSA-8jxm-xp43-qh3q,https://da.gd/LZ4ven
+GithubAdvisories,[GHSA-xcf7-rvmh-g6q4] `openssl` `X509VerifyParamRef::set_host` buffer over-read,https://github.com/advisories/GHSA-xcf7-rvmh-g6q4,https://da.gd/AC3tmL
+GithubAdvisories,[GHSA-564w-97r7-c6p9] Livebook Desktop's protocol handler can be exploited to execute arbitrary command on Windows,https://github.com/advisories/GHSA-564w-97r7-c6p9,https://da.gd/CtA1W
+GithubAdvisories,[GHSA-hp5w-w29m-vg63] Apache Accumulo Improper Authentication vulnerability,https://github.com/advisories/GHSA-hp5w-w29m-vg63,https://da.gd/U1vAy
+GithubAdvisories,[GHSA-mppv-79ch-vw6q] Apache Tomcat vulnerable to information leak,https://github.com/advisories/GHSA-mppv-79ch-vw6q,https://da.gd/sirK1R
+GithubAdvisories,[GHSA-wfg4-322g-9vqv] memoffset allows reading uninitialized memory,https://github.com/advisories/GHSA-wfg4-322g-9vqv,https://da.gd/Pfb5q
+GithubAdvisories,[GHSA-5wrg-8fxp-cx9r] passport-wsfed-saml2 Signature Bypass vulnerability,https://github.com/advisories/GHSA-5wrg-8fxp-cx9r,https://da.gd/Wdx4
+GithubAdvisories,[GHSA-wg6p-jmpc-xjmr] Backstage Scaffolder plugin has insecure sandbox,https://github.com/advisories/GHSA-wg6p-jmpc-xjmr,https://da.gd/2DmvV
+GithubAdvisories,[GHSA-77fw-rf4v-vfp9] passport-wsfed-saml2 vulnerable to Signature Bypass in SAML2 token,https://github.com/advisories/GHSA-77fw-rf4v-vfp9,https://da.gd/YwL00
+GithubAdvisories,[GHSA-3862-fmr3-4f3h] Broadleaf vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-3862-fmr3-4f3h,https://da.gd/u9pbG
+GithubAdvisories,[GHSA-47p7-xfcc-4pv9] php-imap vulnerable to RCE through a directory traversal vulnerability,https://github.com/advisories/GHSA-47p7-xfcc-4pv9,https://da.gd/X5Peg3
+GithubAdvisories,[GHSA-fqhp-rhm6-8rrj] urlnorm vulnerable to Regular Expression Denial of Service,https://github.com/advisories/GHSA-fqhp-rhm6-8rrj,https://da.gd/TTwz2l
