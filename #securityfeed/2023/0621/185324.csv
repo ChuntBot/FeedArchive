@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4cw3-rhqx-vqwr] GilaCMS Cross Site Request Forgery vulnerability,https://github.com/advisories/GHSA-4cw3-rhqx-vqwr,https://da.gd/JTOeN
+GithubAdvisories,[GHSA-m3v5-gjj9-rg24] Craft CMS vulnerable to HTML injection,https://github.com/advisories/GHSA-m3v5-gjj9-rg24,https://da.gd/hX1AvG
+GithubAdvisories,[GHSA-wmff-grcw-jcfm] Tauri vulnerable to Regression on Filesystem Scope Checks for Dotfiles,https://github.com/advisories/GHSA-wmff-grcw-jcfm,https://da.gd/aQVf
