@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c2qf-rxjj-qqgw] semver vulnerable to Regular Expression Denial of Service,https://github.com/advisories/GHSA-c2qf-rxjj-qqgw,https://da.gd/7Nwz
