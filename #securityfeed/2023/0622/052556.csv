@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rw2c-c256-3r53] Data races in hashconsing,https://github.com/advisories/GHSA-rw2c-c256-3r53,https://da.gd/qU2NXa
+GithubAdvisories,[GHSA-8gmx-cpcg-f8h5] Double-free in id-map,https://github.com/advisories/GHSA-8gmx-cpcg-f8h5,https://da.gd/A0m9
+GithubAdvisories,[GHSA-8h4j-vm3r-vcq3] Use after free in rusqlite,https://github.com/advisories/GHSA-8h4j-vm3r-vcq3,https://da.gd/JEeeF
+GithubAdvisories,[GHSA-4x25-pvhw-5224] Algorithms compute incorrect results in blake2,https://github.com/advisories/GHSA-4x25-pvhw-5224,https://da.gd/q6fPIj
+GithubAdvisories,[GHSA-5rrv-m36h-qwf8] Use-after-free in chttp,https://github.com/advisories/GHSA-5rrv-m36h-qwf8,https://da.gd/j1skE
