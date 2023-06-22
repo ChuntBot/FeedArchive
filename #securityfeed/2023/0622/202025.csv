@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g753-ghr7-q33w] cyfs-base vulnerable to misaligned pointer dereference in `ChunkId::new`,https://github.com/advisories/GHSA-g753-ghr7-q33w,https://da.gd/l11t
+GithubAdvisories,"[GHSA-w44m-8mv2-v78h] Cosmos ""Barberry"" vulnerability in github.com/cosmos/cosmos-sdk",https://github.com/advisories/GHSA-w44m-8mv2-v78h,https://da.gd/ISgMxY
+GithubAdvisories,[GHSA-3g7p-8qhx-mc8r] Shescape potential environment variable exposure on Windows with CMD,https://github.com/advisories/GHSA-3g7p-8qhx-mc8r,https://da.gd/N0l5e
+GithubAdvisories,[GHSA-5m3m-q8cq-77g4] fuadmin vulnerable to insecure file upload,https://github.com/advisories/GHSA-5m3m-q8cq-77g4,https://da.gd/SzmUBA
+GithubAdvisories,[GHSA-rwcp-qrwg-56cg] Casdoor Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-rwcp-qrwg-56cg,https://da.gd/Q579v
+GithubAdvisories,[GHSA-5f9v-mv5g-jh5q] Vaadin vulnerable to possible information disclosure in non visible components,https://github.com/advisories/GHSA-5f9v-mv5g-jh5q,https://da.gd/y8cxeL
+GithubAdvisories,[GHSA-ch48-9r3q-pv7x] Vaadin vulnerable to possible information disclosure of class and method names in RPC response,https://github.com/advisories/GHSA-ch48-9r3q-pv7x,https://da.gd/cYnGaX
+GithubAdvisories,[GHSA-q2fp-jw87-86px] laravel-s vulnerable to Local File Inclusion,https://github.com/advisories/GHSA-q2fp-jw87-86px,https://da.gd/646sJ
+GithubAdvisories,[GHSA-whj9-m24x-qhhp] FastAsyncWorldEdit vulnerable to Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-whj9-m24x-qhhp,https://da.gd/zt1ENt
+GithubAdvisories,[GHSA-4xm7-5q79-3fch] XWiki Platform vulnerable to reflected cross-site scripting via xredirect parameter in DeleteApplication page,https://github.com/advisories/GHSA-4xm7-5q79-3fch,https://da.gd/BirJ
+GithubAdvisories,[GHSA-r8xc-xxh3-q5x3] XWiki Platform vulnerable to reflected cross-site scripting via back and xcontinue parameters in resubmit template,https://github.com/advisories/GHSA-r8xc-xxh3-q5x3,https://da.gd/y6SMpP
+GithubAdvisories,[GHSA-x234-mg7q-m8g8] XWiki Platform vulnerable to reflected cross-site scripting via xredirect parameter in deletespace template,https://github.com/advisories/GHSA-x234-mg7q-m8g8,https://da.gd/Y53h
+GithubAdvisories,[GHSA-mwxj-g7fw-7hc8] XWiki Platform vulnerable to reflected cross-site scripting via xredirect parameter in restore template,https://github.com/advisories/GHSA-mwxj-g7fw-7hc8,https://da.gd/LG9NU6
+GithubAdvisories,[GHSA-phwm-87rg-27qq] XWiki Platform vulnerable to reflected cross-site scripting via delattachment action,https://github.com/advisories/GHSA-phwm-87rg-27qq,https://da.gd/ZWnJ
+GithubAdvisories,[GHSA-834c-x29c-f42c] XWiki Platform vulnerable to reflected cross-site scripting via xredirect parameter in delete template,https://github.com/advisories/GHSA-834c-x29c-f42c,https://da.gd/WeVqPm
+GithubAdvisories,[GHSA-jhpr-j7cq-3jp3] Flask-AppBuilder vulnerable to possible disclosure of sensitive information on user error,https://github.com/advisories/GHSA-jhpr-j7cq-3jp3,https://da.gd/saf9
+GithubAdvisories,[GHSA-9849-p7jc-9rmv] org.nokogiri:nekohtml vulnerable to Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-9849-p7jc-9rmv,https://da.gd/nyJ1
