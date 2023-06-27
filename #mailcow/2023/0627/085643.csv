@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Merge pull request #5250 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/74bcec45f13b267be4f75919b9bd08c44c02ea6a,https://da.gd/pVeq
+GithubCommitStaging,[API] Update swagger version,https://github.com/mailcow/mailcow-dockerized/commit/6f875398c09dc40732cbff4efe33d14c1b536907,https://da.gd/Cal1p
+GithubCommitStaging,Merge pull request #5264 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/490d553dfc661dd72b546e3a038366e79adf49b6,https://da.gd/iUvx
+GithubCommitStaging,Merge pull request #5266 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/e691d2c78216c2628d9a08abe6f6f63c45802f87,https://da.gd/gXM5H
+GithubCommitStaging,Fix smtp settings for nextcloud v26,https://github.com/mailcow/mailcow-dockerized/commit/61c8afa0881e41df930632e23e586e4c987197f5,https://da.gd/LB5M
+GithubCommitStaging,Update dependency nextcloud/server to v27,https://github.com/mailcow/mailcow-dockerized/commit/6e1ee638ff54d313207e715ec67418dac70c4764,https://da.gd/NnGRyO
+GithubCommitStaging,[API] Update swagger version,https://github.com/mailcow/mailcow-dockerized/commit/42a91af7ac0c49e24ff0b470d38aae1707ae76cc,https://da.gd/duWrDX
+GithubCommitStaging,[API] Update swagger version,https://github.com/mailcow/mailcow-dockerized/commit/c0c46b7cf5011d123c427c33157135f422915a32,https://da.gd/pMVd0s
+GithubCommitStaging,Merge pull request #5284 from mailcow:renovate/nextcloud-server-27.x,https://github.com/mailcow/mailcow-dockerized/commit/3b748a30cc62a11dac96dbd91f14f77b0423821e,https://da.gd/5QAjUg
+GithubCommitStaging,Merge pull request #5283 from superpuffin:master,https://github.com/mailcow/mailcow-dockerized/commit/0863bffdd26507f4413995a489eab31afad9c249,https://da.gd/V5f8ZA
+GithubCommitStaging,Merge pull request #5263 from mailcow:update-api,https://github.com/mailcow/mailcow-dockerized/commit/14265f3de8f40146c1e3c2975620985aecd9a5a8,https://da.gd/y79c
