@@ -1,0 +1,29 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ff3m-68vj-h86p] PlantUML Server-Side Request Forgery vulnerability,https://github.com/advisories/GHSA-ff3m-68vj-h86p,https://da.gd/SAihpM
+GithubAdvisories,[GHSA-p2mf-q26j-3xmh] PlantUML Improper Access Control vulnerability,https://github.com/advisories/GHSA-p2mf-q26j-3xmh,https://da.gd/7wthja
+GithubAdvisories,[GHSA-c2pj-v37r-2p6h] Coraza has potential denial of service vulnerability,https://github.com/advisories/GHSA-c2pj-v37r-2p6h,https://da.gd/7lPupR
+GithubAdvisories,[GHSA-x49m-3cw7-gq5q] jcvi vulnerable to Configuration Injection due to unsanitized user input,https://github.com/advisories/GHSA-x49m-3cw7-gq5q,https://da.gd/umwt
+GithubAdvisories,[GHSA-7q37-c5jg-cx58] Malware in graphite_remote_adapter,https://github.com/advisories/GHSA-7q37-c5jg-cx58,https://da.gd/aMGki
+GithubAdvisories,[GHSA-x2fq-235w-r2f2] Malware in cypress-typed-stubs-example-app,https://github.com/advisories/GHSA-x2fq-235w-r2f2,https://da.gd/XiOQ
+GithubAdvisories,[GHSA-hj8m-9fhf-v7jp] fief-server Server-Side Template Injection vulnerability,https://github.com/advisories/GHSA-hj8m-9fhf-v7jp,https://da.gd/NjB9O
+GithubAdvisories,[GHSA-ffjx-vmgh-34cp] Malware in criteo-static-variables-datasource,https://github.com/advisories/GHSA-ffjx-vmgh-34cp,https://da.gd/XVNz
+GithubAdvisories,[GHSA-pmm4-9w9m-2gcm] Malware in reactsix,https://github.com/advisories/GHSA-pmm4-9w9m-2gcm,https://da.gd/4O2GBv
+GithubAdvisories,[GHSA-fj3f-ffhw-76r9] Malware in mesos-term,https://github.com/advisories/GHSA-fj3f-ffhw-76r9,https://da.gd/TSxH3
+GithubAdvisories,[GHSA-wmf4-f2f7-2fv7] Malware in babar-report,https://github.com/advisories/GHSA-wmf4-f2f7-2fv7,https://da.gd/CC1Iy
+GithubAdvisories,[GHSA-jrjw-qgr2-wfcg] YARP Denial of Service Vulnerability,https://github.com/advisories/GHSA-jrjw-qgr2-wfcg,https://da.gd/8BEI9y
+GithubAdvisories,[GHSA-6wq5-3h8p-g8m2] Malware in doks-child-theme,https://github.com/advisories/GHSA-6wq5-3h8p-g8m2,https://da.gd/fvC2D
+GithubAdvisories,[GHSA-rh2c-7fh3-7gm5] Malware in react-liveness,https://github.com/advisories/GHSA-rh2c-7fh3-7gm5,https://da.gd/idQ2L
+GithubAdvisories,[GHSA-vmxg-wx6c-4f3r] Admidio Improper Access Control vulnerability,https://github.com/advisories/GHSA-vmxg-wx6c-4f3r,https://da.gd/IdUXD
+GithubAdvisories,[GHSA-hm75-8w6h-4f8f] Admidio Improper Neutralization of Formula Elements in a CSV File vulnerability,https://github.com/advisories/GHSA-hm75-8w6h-4f8f,https://da.gd/p665I
+GithubAdvisories,[GHSA-x3m2-3pwj-8fj4] Admidio Improper Access Control vulnerability,https://github.com/advisories/GHSA-x3m2-3pwj-8fj4,https://da.gd/8caE6i
+GithubAdvisories,[GHSA-pm73-x2h5-cmj3] Apache StreamPipes Improper Privilege Management vulnerability,https://github.com/advisories/GHSA-pm73-x2h5-cmj3,https://da.gd/BARA
+GithubAdvisories,[GHSA-mpv3-g8m3-3fjc] Grafana vulnerable to Authentication Bypass by Spoofing,https://github.com/advisories/GHSA-mpv3-g8m3-3fjc,https://da.gd/Q0lcfs
+GithubAdvisories,[GHSA-hhqm-f4m4-pq39] RaspAP raspap-webgui Command Injection vulnerability,https://github.com/advisories/GHSA-hhqm-f4m4-pq39,https://da.gd/KVc7
+GithubAdvisories,[GHSA-fwfj-8p36-rc64] Moodle vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-fwfj-8p36-rc64,https://da.gd/n3i54
+GithubAdvisories,[GHSA-49mv-vfcp-8gg9] Moodle vulnerable to SQL Injection,https://github.com/advisories/GHSA-49mv-vfcp-8gg9,https://da.gd/Snrd
+GithubAdvisories,[GHSA-xxp4-mf4h-6cwm] Moodle vulnerable to Server Side Request Forgery,https://github.com/advisories/GHSA-xxp4-mf4h-6cwm,https://da.gd/cH7J7h
+GithubAdvisories,[GHSA-w65q-jcmv-28gj] Dynamic Linq vulnerable to remote code execution,https://github.com/advisories/GHSA-w65q-jcmv-28gj,https://da.gd/XBWi7
+GithubAdvisories,[GHSA-455c-vqrf-mghr] Mattermost Server Missing Authorization vulnerability,https://github.com/advisories/GHSA-455c-vqrf-mghr,https://da.gd/HZJWX7
+GithubAdvisories,[GHSA-59gp-qqm7-cw4j] Nokogiri has vulnerable dependencies on libxml2 and libxslt,https://github.com/advisories/GHSA-59gp-qqm7-cw4j,https://da.gd/0jt09
+GithubAdvisories,[GHSA-jvgm-pfqv-887x] Bundler allows attacker to inject arbitrary code via secondary Gem source,https://github.com/advisories/GHSA-jvgm-pfqv-887x,https://da.gd/wwbyz
+GithubAdvisories,[GHSA-jc36-42cf-vqwj] Nokogiri affected by zlib's Out-of-bounds Write vulnerability,https://github.com/advisories/GHSA-jc36-42cf-vqwj,https://da.gd/GQYe
