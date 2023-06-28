@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hr9r-8phq-5x8j] OpenFGA vulnerable to denial of service due to circular relationship,https://github.com/advisories/GHSA-hr9r-8phq-5x8j,https://da.gd/rF6BD
+GithubAdvisories,[GHSA-m54h-5x5f-5m6r] SpiceDB's LookupResources may return partial results,https://github.com/advisories/GHSA-m54h-5x5f-5m6r,https://da.gd/lrXvf
+GithubAdvisories,[GHSA-gh66-fp7j-98v5] Shopware improper mail validation vulnerability,https://github.com/advisories/GHSA-gh66-fp7j-98v5,https://da.gd/uz0UC
+GithubAdvisories,[GHSA-q97c-2mh3-pgw9] Shopware dependency configuration exposed,https://github.com/advisories/GHSA-q97c-2mh3-pgw9,https://da.gd/sgQI0C
