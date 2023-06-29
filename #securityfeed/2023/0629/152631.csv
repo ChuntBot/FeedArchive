@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4g8v-vg43-wpgf] Actionpack has possible cross-site scripting vulnerability via User Supplied Values to redirect_to,https://github.com/advisories/GHSA-4g8v-vg43-wpgf,https://da.gd/UN7R
+GithubAdvisories,[GHSA-cgmm-c2m9-ff7r] jFinal Server-Side Template Injection vulnerability,https://github.com/advisories/GHSA-cgmm-c2m9-ff7r,https://da.gd/mdsOg
+GithubAdvisories,[GHSA-373w-rj84-pv6x] SafeURL-Python's hostname blocklist does not block FQDNs,https://github.com/advisories/GHSA-373w-rj84-pv6x,https://da.gd/CsVwUt
