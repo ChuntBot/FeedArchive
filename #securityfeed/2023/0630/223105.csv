@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w5w5-2882-47pc] github.com/cosmos/cosmos-sdk's x/crisis does not charge ConstantFee,https://github.com/advisories/GHSA-w5w5-2882-47pc,https://da.gd/bDQAA
+GithubAdvisories,[GHSA-hm9v-vj3r-r55m] PyPDF2 vulnerable to possible Infinite Loop when reading malformed objects,https://github.com/advisories/GHSA-hm9v-vj3r-r55m,https://da.gd/qtg83
+GithubAdvisories,[GHSA-jrm6-h9cq-8gqw] PyPDF2 quadratic runtime with malformed PDF missing xref marker,https://github.com/advisories/GHSA-jrm6-h9cq-8gqw,https://da.gd/UYR4
+GithubAdvisories,[GHSA-xwc8-rf6m-xr86] hnswlib Double Free vulnerability,https://github.com/advisories/GHSA-xwc8-rf6m-xr86,https://da.gd/7sUm
+GithubAdvisories,[GHSA-v4f4-23wc-99mh] pipreqs vulnerable to Dependency Confusion,https://github.com/advisories/GHSA-v4f4-23wc-99mh,https://da.gd/sYr8R
+GithubAdvisories,[GHSA-hxq4-mx37-fqvg] s2n-quic potential denial of service vulnerability when receiving empty UDP packets,https://github.com/advisories/GHSA-hxq4-mx37-fqvg,https://da.gd/GUJWnh
