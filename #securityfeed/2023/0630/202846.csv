@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cr8c-972v-rmp3] pgAdmin 4 Path Traversal vulnerability,https://github.com/advisories/GHSA-cr8c-972v-rmp3,https://da.gd/WQv4
+GithubAdvisories,"[GHSA-q57w-826p-46jr] Apache Airflow ODBC Provider, Apache Airflow MSSQL Provider Improper Input Validation vulnerability",https://github.com/advisories/GHSA-q57w-826p-46jr,https://da.gd/xNT08Y
+GithubAdvisories,[GHSA-9766-v29c-4vm7] Apache Airflow ODBC Provider Argument Injection vulnerability,https://github.com/advisories/GHSA-9766-v29c-4vm7,https://da.gd/sOaTF
+GithubAdvisories,[GHSA-74j8-w7f9-pp62] Improper configuration of RBAC permissions obtaining cluster control permissions,https://github.com/advisories/GHSA-74j8-w7f9-pp62,https://da.gd/axmPH1
+GithubAdvisories,[GHSA-gm2g-2xr9-pxxj] Temporal Server vulnerable to Incorrect Authorization and Insecure Default Initialization of Resource,https://github.com/advisories/GHSA-gm2g-2xr9-pxxj,https://da.gd/fVO1a
+GithubAdvisories,[GHSA-fmrf-p77g-vv5c] MediaWiki Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-fmrf-p77g-vv5c,https://da.gd/E0nwG
+GithubAdvisories,[GHSA-g98v-hv3f-hcfr] atty potential unaligned read,https://github.com/advisories/GHSA-g98v-hv3f-hcfr,https://da.gd/cdue
