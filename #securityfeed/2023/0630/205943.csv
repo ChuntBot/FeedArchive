@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8q9q-r9v2-644m] Upgrading doesn't prevent exploiting vulnerable XWiki documents,https://github.com/advisories/GHSA-8q9q-r9v2-644m,https://da.gd/EDGfql
+GithubAdvisories,[GHSA-94pf-92hw-2hjc] XWiki Platform vulnerable to Code injection through NotificationRSSService,https://github.com/advisories/GHSA-94pf-92hw-2hjc,https://da.gd/JPPcSi
+GithubAdvisories,[GHSA-fm68-j7ww-h9xf] XWiki Platform vulnerable to Code Injection in icon themes,https://github.com/advisories/GHSA-fm68-j7ww-h9xf,https://da.gd/xJOGC
+GithubAdvisories,[GHSA-6pqf-c99p-758v] org.xwiki.commons:xwiki-commons-xml's HTML sanitizer allows form elements in restricted,https://github.com/advisories/GHSA-6pqf-c99p-758v,https://da.gd/iSZI
+GithubAdvisories,[GHSA-462x-c3jw-7vr6] Parse Server vulnerable to remote code execution via MongoDB BSON parser through prototype pollution,https://github.com/advisories/GHSA-462x-c3jw-7vr6,https://da.gd/SE20t
+GithubAdvisories,[GHSA-793w-g325-hrw2] XWiki Platform vulnerable to persistent Cross-site Scripting through CKEditor Configuration pages,https://github.com/advisories/GHSA-793w-g325-hrw2,https://da.gd/vbDTyL
+GithubAdvisories,[GHSA-mx8q-jqwm-85mv] NocoDB information disclosure vulnerability,https://github.com/advisories/GHSA-mx8q-jqwm-85mv,https://da.gd/53Bs
+GithubAdvisories,[GHSA-mm87-c3x2-6f89] Apache Airflow JDBC Provider Improper Input Validation vulnerability,https://github.com/advisories/GHSA-mm87-c3x2-6f89,https://da.gd/K00LXl
+GithubAdvisories,[GHSA-4jjv-p8x9-rrf7] Joplin Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-4jjv-p8x9-rrf7,https://da.gd/Nr9zP
+GithubAdvisories,[GHSA-7grw-xfx6-qhx6] Joplin Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-7grw-xfx6-qhx6,https://da.gd/O4iCz
+GithubAdvisories,[GHSA-7px2-3c2p-q4v4] flatnest Prototype Pollution vulnerability,https://github.com/advisories/GHSA-7px2-3c2p-q4v4,https://da.gd/KNw904
+GithubAdvisories,[GHSA-v6g2-jwrm-h5r5] phpMyFAQ Cross-site Scripting,https://github.com/advisories/GHSA-v6g2-jwrm-h5r5,https://da.gd/bB33
+GithubAdvisories,[GHSA-vpxf-q44g-w34w] Sealos billing system permission control defect,https://github.com/advisories/GHSA-vpxf-q44g-w34w,https://da.gd/VdPXNp
+GithubAdvisories,[GHSA-vv6q-6hwp-vrgp] easy-parse XML External Entity Injection vulnerability,https://github.com/advisories/GHSA-vv6q-6hwp-vrgp,https://da.gd/uQ8Cdo
+GithubAdvisories,[GHSA-j6v2-mwxm-f952] py-xml XML External Entity Injection vulnerability,https://github.com/advisories/GHSA-j6v2-mwxm-f952,https://da.gd/WQ4Kcf
+GithubAdvisories,[GHSA-ccrc-9x59-3vc4] requests-xml XML External Entity Injection vulnerability,https://github.com/advisories/GHSA-ccrc-9x59-3vc4,https://da.gd/QIfXzE
+GithubAdvisories,[GHSA-cfh4-7wq9-6pgg] WPGraphQL Plugin vulnerable to Server Side Request Forgery (SSRF),https://github.com/advisories/GHSA-cfh4-7wq9-6pgg,https://da.gd/qdl2PK
+GithubAdvisories,[GHSA-mrcj-5qxr-vhp2] angular-ui-notification Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-mrcj-5qxr-vhp2,https://da.gd/WxuEjB
+GithubAdvisories,[GHSA-97wh-6hmj-g8j9] Spina Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-97wh-6hmj-g8j9,https://da.gd/IgaO
+GithubAdvisories,[GHSA-4vvm-4w3v-6mr8] pypdf and PyPDF2 possible Infinite Loop when a comment isn't followed by a character,https://github.com/advisories/GHSA-4vvm-4w3v-6mr8,https://da.gd/Vfpr
+GithubAdvisories,[GHSA-h42j-mrmp-9369] git-commit-info vulnerable to Command Injection,https://github.com/advisories/GHSA-h42j-mrmp-9369,https://da.gd/MVgRXz
+GithubAdvisories,[GHSA-3qh5-qqj2-c78f] Keycloak vulnerable to Improper Client Certificate Validation for OAuth/OpenID clients,https://github.com/advisories/GHSA-3qh5-qqj2-c78f,https://da.gd/8lqy
+GithubAdvisories,[GHSA-3p62-6fjh-3p5h] Keycloak vulnerable to cross-site scripting when validating URI-schemes on SAML and OIDC,https://github.com/advisories/GHSA-3p62-6fjh-3p5h,https://da.gd/MDLZ
+GithubAdvisories,[GHSA-5cc8-pgp5-7mpm] Keycloak Untrusted Certificate Validation vulnerability,https://github.com/advisories/GHSA-5cc8-pgp5-7mpm,https://da.gd/Ay9pXl
+GithubAdvisories,[GHSA-f5h4-wmp5-xhg6] Client Spoofing within the Keycloak Device Authorisation Grant,https://github.com/advisories/GHSA-f5h4-wmp5-xhg6,https://da.gd/nzQUg
