@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qc2g-gmh6-95p4] kube-apiserver vulnerable to policy bypass,https://github.com/advisories/GHSA-qc2g-gmh6-95p4,https://da.gd/eq3AR
+GithubAdvisories,[GHSA-jh3w-4vvf-mjgr] Django has regular expression denial of service vulnerability in EmailValidator/URLValidator,https://github.com/advisories/GHSA-jh3w-4vvf-mjgr,https://da.gd/TXUf1
+GithubAdvisories,[GHSA-hg6c-qqcm-r79r] Apache Airflow Hive Provider Beeline remote code execution with Principal,https://github.com/advisories/GHSA-hg6c-qqcm-r79r,https://da.gd/NBH9pd
+GithubAdvisories,[GHSA-4hpj-8rhv-9x87] Products.CMFCore unauthenticated denial of service and crash via unchecked use of input with Python's marshal module,https://github.com/advisories/GHSA-4hpj-8rhv-9x87,https://da.gd/Mqqmz
+GithubAdvisories,[GHSA-jpgw-2r9m-8qfw] Kiwi TCMS's misconfigured HTTP headers allow stored XSS execution with Firefox,https://github.com/advisories/GHSA-jpgw-2r9m-8qfw,https://da.gd/uGxWgu
+GithubAdvisories,[GHSA-qxh3-jgvh-x55j] Connect-CMS Privilege Escalation Vulnerability,https://github.com/advisories/GHSA-qxh3-jgvh-x55j,https://da.gd/qJJu6e
