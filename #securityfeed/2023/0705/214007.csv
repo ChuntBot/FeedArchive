@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7x2c-fgx6-xf9h] 1Panel vulnerable to ommand injection when entering the container terminal,https://github.com/advisories/GHSA-7x2c-fgx6-xf9h,https://da.gd/1T1Vp
+GithubAdvisories,[GHSA-q2mx-gpjf-3h8x] 1Panel vulnerable to command injection when adding container repositories,https://github.com/advisories/GHSA-q2mx-gpjf-3h8x,https://da.gd/4maR
+GithubAdvisories,[GHSA-g8x5-p9qc-cf95] @fastify/oauth2 vulnerable to Cross Site Request Forgery due to reused Oauth2 state,https://github.com/advisories/GHSA-g8x5-p9qc-cf95,https://da.gd/PHgPx
+GithubAdvisories,[GHSA-x456-3ccm-m6j4] MechanicalSoup vulnerable to malicious web server reading arbitrary files on client using file input inside HTML form,https://github.com/advisories/GHSA-x456-3ccm-m6j4,https://da.gd/0XjtGj
+GithubAdvisories,[GHSA-w24w-wp77-qffm] CometBFT may duplicate transactions in the mempool's data structures,https://github.com/advisories/GHSA-w24w-wp77-qffm,https://da.gd/zfd3bt
+GithubAdvisories,[GHSA-mvj3-qrqh-cjvr] CometBFT PeerState JSON serialization deadlock,https://github.com/advisories/GHSA-mvj3-qrqh-cjvr,https://da.gd/BHof
+GithubAdvisories,[GHSA-v4f8-2847-rwm7] Nokogiri Implements libxml2 version vulnerable to use-after-free,https://github.com/advisories/GHSA-v4f8-2847-rwm7,https://da.gd/HFc23T
+GithubAdvisories,[GHSA-286v-pcf5-25rc] Nokogiri Implements libxml2 version vulnerable to null pointer dereferencing,https://github.com/advisories/GHSA-286v-pcf5-25rc,https://da.gd/IPlcnb
