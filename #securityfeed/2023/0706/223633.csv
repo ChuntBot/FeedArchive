@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cmjc-52fg-9f7j] Apache Superset vulnerable to Exposure of Sensitive Information,https://github.com/advisories/GHSA-cmjc-52fg-9f7j,https://da.gd/MbokW
+GithubAdvisories,[GHSA-fxjg-28fm-pfxh] Apache Superset Server-Side Request Forgery vulnerability,https://github.com/advisories/GHSA-fxjg-28fm-pfxh,https://da.gd/k9g3w
+GithubAdvisories,[GHSA-qvwf-w35m-6r95] XXE Vulnerability in XMLBundle 0.1.7,https://github.com/advisories/GHSA-qvwf-w35m-6r95,https://da.gd/Gico
