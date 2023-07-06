@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gm68-572p-q28r] @vendure/admin-ui-plugin authenticated Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-gm68-572p-q28r,https://da.gd/kGclaZ
+GithubAdvisories,[GHSA-2qmj-7962-cjq8] langchain arbitrary code execution vulnerability,https://github.com/advisories/GHSA-2qmj-7962-cjq8,https://da.gd/fxda
+GithubAdvisories,[GHSA-cgcv-5272-97pr] Kubernetes mountable secrets policy bypass,https://github.com/advisories/GHSA-cgcv-5272-97pr,https://da.gd/kUzNTw
