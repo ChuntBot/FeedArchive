@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ppxx-m926-g569] Apache Kylin vulnerable to remote code execution,https://github.com/advisories/GHSA-ppxx-m926-g569,https://da.gd/XWQie
+GithubAdvisories,[GHSA-6r6h-vhg7-53x7] Cross Site Scripting (XSS) in LavaLite 5.8.0,https://github.com/advisories/GHSA-6r6h-vhg7-53x7,https://da.gd/vUurX
+GithubAdvisories,[GHSA-9mh8-9j64-443f] HashiCorp Vault's revocation list not respected,https://github.com/advisories/GHSA-9mh8-9j64-443f,https://da.gd/wv5bn3
+GithubAdvisories,[GHSA-7j6x-42mm-p7jm] Zinc Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-7j6x-42mm-p7jm,https://da.gd/lQWtTl
+GithubAdvisories,[GHSA-4fgv-8448-gf82] Zinc Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-4fgv-8448-gf82,https://da.gd/ZJECJ
+GithubAdvisories,[GHSA-vv33-27jm-cvxq] Stored XSS in LavaLite 5.8.0,https://github.com/advisories/GHSA-vv33-27jm-cvxq,https://da.gd/vePJA
+GithubAdvisories,[GHSA-7q94-qpjr-xpgm] langchain SQL Injection vulnerability,https://github.com/advisories/GHSA-7q94-qpjr-xpgm,https://da.gd/InJ8
+GithubAdvisories,[GHSA-57fc-8q82-gfp3] langchain vulnerable to arbitrary code execution,https://github.com/advisories/GHSA-57fc-8q82-gfp3,https://da.gd/gCOut8
+GithubAdvisories,[GHSA-wj7q-gjg8-3cpm] league/oauth2-server key exposed in exception message when passing as a string and providing an invalid pass phrase,https://github.com/advisories/GHSA-wj7q-gjg8-3cpm,https://da.gd/Gljr
+GithubAdvisories,"[GHSA-jqhc-m2j3-fjrx] SQLFluff users with access to config file, using `libary_path` may call arbitrary python code",https://github.com/advisories/GHSA-jqhc-m2j3-fjrx,https://da.gd/ynWjY
