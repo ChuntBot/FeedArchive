@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pj5j-w7mw-w797] Apache Linkis Zip Slip issue,https://github.com/advisories/GHSA-pj5j-w7mw-w797,https://da.gd/YvhPz
+GithubAdvisories,[GHSA-4x5h-xmv4-99wx] Apache Linkis Authentication Bypass vulnerability,https://github.com/advisories/GHSA-4x5h-xmv4-99wx,https://da.gd/hfYndK
+GithubAdvisories,[GHSA-33fq-qm4m-cjw3] baserCMS Access Control Bypass,https://github.com/advisories/GHSA-33fq-qm4m-cjw3,https://da.gd/Ppqa
+GithubAdvisories,[GHSA-3xrr-7m6p-p7xh] HtmlUnit Code Injection vulnerability,https://github.com/advisories/GHSA-3xrr-7m6p-p7xh,https://da.gd/Zx6sBT
+GithubAdvisories,[GHSA-x84r-jrqm-3hj8] Apache Linkis Unrestricted File Upload vulnerability,https://github.com/advisories/GHSA-x84r-jrqm-3hj8,https://da.gd/We1zM
+GithubAdvisories,[GHSA-wf8m-qr47-xc9m] Jenkins AbsInt a³ Plugin XML External Entity Reference vulnerability,https://github.com/advisories/GHSA-wf8m-qr47-xc9m,https://da.gd/efkzd
+GithubAdvisories,[GHSA-hhvx-8755-4cvw] Hashicorp Nomad ACLs Cannot Deny Access to Workload’s Own Variables,https://github.com/advisories/GHSA-hhvx-8755-4cvw,https://da.gd/e2sWlv
+GithubAdvisories,[GHSA-wmg5-g953-qqfw] Hashicorp Vault Fails to Verify if Approle SecretID Belongs to Role During a Destroy Operation,https://github.com/advisories/GHSA-wmg5-g953-qqfw,https://da.gd/t0EjP
+GithubAdvisories,[GHSA-w745-xjqx-7wp8] Artesãos SEOTools Open Redirect vulnerability,https://github.com/advisories/GHSA-w745-xjqx-7wp8,https://da.gd/cGvml
+GithubAdvisories,[GHSA-wjg8-pxqj-c3c7] Artesãos SEOTools Open Redirect vulnerability,https://github.com/advisories/GHSA-wjg8-pxqj-c3c7,https://da.gd/V86cN4
+GithubAdvisories,[GHSA-9vrm-v9xv-x3xr] HashiCorp Boundary Workers Store Rotated Credentials in Plaintext Even When Key Management Service Configured,https://github.com/advisories/GHSA-9vrm-v9xv-x3xr,https://da.gd/4LcAo
+GithubAdvisories,[GHSA-gjf5-j475-p4g6] Stored XSS in LavaLite 5.8.0,https://github.com/advisories/GHSA-gjf5-j475-p4g6,https://da.gd/zgo0mo
+GithubAdvisories,[GHSA-pvrw-g6fx-mcx2] is_js vulnerable to Regular Expression Denial of Service,https://github.com/advisories/GHSA-pvrw-g6fx-mcx2,https://da.gd/7aUVh
+GithubAdvisories,[GHSA-gm67-h5wr-w3cv] Apache Zeppelin Improper Input Validation vulnerability,https://github.com/advisories/GHSA-gm67-h5wr-w3cv,https://da.gd/YKqLV
+GithubAdvisories,[GHSA-4vrv-93c7-m92j] snyk Code Injection vulnerability,https://github.com/advisories/GHSA-4vrv-93c7-m92j,https://da.gd/Vhl8
+GithubAdvisories,[GHSA-8699-h45g-7hm8] Concrete CMS Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-8699-h45g-7hm8,https://da.gd/KfriB
