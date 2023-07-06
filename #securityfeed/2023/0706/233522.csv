@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7mhc-76hf-3jp9] Apache InLong Exposure of Resource to Wrong Sphere vulnerability,https://github.com/advisories/GHSA-7mhc-76hf-3jp9,https://da.gd/fsjlv
+GithubAdvisories,[GHSA-63qj-p8gh-5xxx] Plaintext Storage of Sensitive Information in Laravel Log Viewer before v0.13.0,https://github.com/advisories/GHSA-63qj-p8gh-5xxx,https://da.gd/Xc5bam
+GithubAdvisories,[GHSA-q5p5-xg93-2jqc] Apache InLong Improper Privilege Management vulnerability,https://github.com/advisories/GHSA-q5p5-xg93-2jqc,https://da.gd/c1a815
+GithubAdvisories,[GHSA-wx79-r3q8-fq9h] Apache InLong has Files or Directories Accessible to External Parties in Apache InLong,https://github.com/advisories/GHSA-wx79-r3q8-fq9h,https://da.gd/9w9y
+GithubAdvisories,[GHSA-3p9p-59qf-mqwh] Apache InLong has Files or Directories Accessible to External Parties,https://github.com/advisories/GHSA-3p9p-59qf-mqwh,https://da.gd/H2dvh
+GithubAdvisories,[GHSA-4wgf-9x5r-p938] Weak Cryptography in PHP-Proxy,https://github.com/advisories/GHSA-4wgf-9x5r-p938,https://da.gd/niGOk
+GithubAdvisories,[GHSA-757p-7hp5-pqmr] Apache InLong Insufficient Session Expiration vulnerability,https://github.com/advisories/GHSA-757p-7hp5-pqmr,https://da.gd/jGqmF
+GithubAdvisories,[GHSA-v93h-rwj8-78qh] Apache OpenMeetings insufficient authorization vulnerability,https://github.com/advisories/GHSA-v93h-rwj8-78qh,https://da.gd/ISiMr
+GithubAdvisories,[GHSA-89gw-cffj-mqg9] Apache Ranger code execution vulnerability in policy expressions,https://github.com/advisories/GHSA-89gw-cffj-mqg9,https://da.gd/QoYbK
+GithubAdvisories,[GHSA-m5h8-2pjw-vg3j] Apache StreamPark Improper Input Validation vulnerability,https://github.com/advisories/GHSA-m5h8-2pjw-vg3j,https://da.gd/YstR
