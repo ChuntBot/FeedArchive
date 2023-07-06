@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v8mc-9377-rwjj] yt-dlp File Downloader cookie leak,https://github.com/advisories/GHSA-v8mc-9377-rwjj,https://da.gd/sX438D
+GithubAdvisories,[GHSA-f5ww-cq3m-q3g7] Sanitize vulnerable to Cross-site Scripting via insufficient neutralization of `style` element content,https://github.com/advisories/GHSA-f5ww-cq3m-q3g7,https://da.gd/ldir4
