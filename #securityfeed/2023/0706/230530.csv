@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6874-289g-f7h7] Apache StreamPark Path Traversal vulnerability,https://github.com/advisories/GHSA-6874-289g-f7h7,https://da.gd/4k7em
+GithubAdvisories,[GHSA-4xqm-4p72-87h6] Sentry CORS misconfiguration,https://github.com/advisories/GHSA-4xqm-4p72-87h6,https://da.gd/kRSmHk
+GithubAdvisories,[GHSA-cqr6-3x3f-9wr3] Apache InLong SQL Injection vulnerability,https://github.com/advisories/GHSA-cqr6-3x3f-9wr3,https://da.gd/VzHgjj
+GithubAdvisories,[GHSA-cghj-w42g-hqmr] XSS in PHP-Proxy-App through v3.0,https://github.com/advisories/GHSA-cghj-w42g-hqmr,https://da.gd/VUjy
