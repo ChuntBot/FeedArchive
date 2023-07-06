@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9jx5-6pgf-crrp] scipy memory leak vulnerability,https://github.com/advisories/GHSA-9jx5-6pgf-crrp,https://da.gd/lngHCb
+GithubAdvisories,[GHSA-6r5g-cq4q-327g] Statamic's Antlers sanitizer cannot effectively sanitize malicious SVG,https://github.com/advisories/GHSA-6r5g-cq4q-327g,https://da.gd/ygVDH
+GithubAdvisories,[GHSA-v762-47vh-j7q3] XSS in Username Field of Feehi CMS 2.0.8,https://github.com/advisories/GHSA-v762-47vh-j7q3,https://da.gd/tZPrD
+GithubAdvisories,[GHSA-2q4p-f6gf-mqr5] Graylog server has partial path traversal vulnerability in Support Bundle feature,https://github.com/advisories/GHSA-2q4p-f6gf-mqr5,https://da.gd/axzjSY
+GithubAdvisories,[GHSA-g96c-x7rh-99r3] Graylog vulnerable to insecure source port usage for DNS queries,https://github.com/advisories/GHSA-g96c-x7rh-99r3,https://da.gd/CgtD7
+GithubAdvisories,[GHSA-3fqm-frhg-7c85] Graylog user session is still usable after logout,https://github.com/advisories/GHSA-3fqm-frhg-7c85,https://da.gd/RSVAM
+GithubAdvisories,[GHSA-cf6v-9j57-v6r6] code.gitea.io/gitea Open Redirect vulnerability,https://github.com/advisories/GHSA-cf6v-9j57-v6r6,https://da.gd/SgOv
+GithubAdvisories,[GHSA-r25m-cr6v-p9hq] ethyca-fides Webserver API Path Traversal vulnerability,https://github.com/advisories/GHSA-r25m-cr6v-p9hq,https://da.gd/GEtXyl
+GithubAdvisories,[GHSA-hgxv-3497-3hhj] Duplicate Advisory: @fastify/oauth2 Oauth2 state parameter reuse,https://github.com/advisories/GHSA-hgxv-3497-3hhj,https://da.gd/vQyILw
+GithubAdvisories,[GHSA-2gpr-j5vj-wvh2] Apache Any23 vulnerable to excessive memory usage,https://github.com/advisories/GHSA-2gpr-j5vj-wvh2,https://da.gd/JyryBZ
