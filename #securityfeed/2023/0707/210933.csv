@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hc4j-7mqg-cxjj] PHPServerMon PRNG has Insufficient Entropy,https://github.com/advisories/GHSA-hc4j-7mqg-cxjj,https://da.gd/QeklD
+GithubAdvisories,[GHSA-fg52-rc36-jp43] baserCMS Cross Site Request Forgery vulnerability,https://github.com/advisories/GHSA-fg52-rc36-jp43,https://da.gd/LzAS
+GithubAdvisories,[GHSA-mxfv-c8p8-qw5h] baserCMS Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-mxfv-c8p8-qw5h,https://da.gd/XoWjsD
+GithubAdvisories,[GHSA-xxv8-pv43-57x5] PEAR core file overwrite vulnerability,https://github.com/advisories/GHSA-xxv8-pv43-57x5,https://da.gd/KU55
+GithubAdvisories,[GHSA-9v3w-m552-m6ff] Pi Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-9v3w-m552-m6ff,https://da.gd/cRWjQY
+GithubAdvisories,[GHSA-5hpw-vcj2-prwg] Firefly III vulnerable to stored XSS,https://github.com/advisories/GHSA-5hpw-vcj2-prwg,https://da.gd/5aYrMQ
+GithubAdvisories,[GHSA-mrc2-h7q2-pp97] Firefly III vulnerable to reflected cross-site scripting,https://github.com/advisories/GHSA-mrc2-h7q2-pp97,https://da.gd/U8Ul7
+GithubAdvisories,[GHSA-9xmx-rj7j-fv9q] Firefly III vulnerable to stored XSS,https://github.com/advisories/GHSA-9xmx-rj7j-fv9q,https://da.gd/aVNE6M
