@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-97w9-gcc7-vr8g] Insufficient Entropy in PHPServerMon PRNG,https://github.com/advisories/GHSA-97w9-gcc7-vr8g,https://da.gd/wIY1h
+GithubAdvisories,[GHSA-7gh2-8q93-87hp] SAML Bypass in Wizkunde SAMLBase before 1.2.7,https://github.com/advisories/GHSA-7gh2-8q93-87hp,https://da.gd/6KcvYg
+GithubAdvisories,[GHSA-7q88-jxvp-9gp2] Path Traversal in Studio-42 elFinder through 2.1.60,https://github.com/advisories/GHSA-7q88-jxvp-9gp2,https://da.gd/bNHUj
+GithubAdvisories,[GHSA-6p96-vfrc-fv32] RCE in Studio-42 elFinder on Windows before 2.1.61,https://github.com/advisories/GHSA-6p96-vfrc-fv32,https://da.gd/pZZ6l
