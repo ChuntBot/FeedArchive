@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2022-32666 (mt7603_firmware, mt7613_firmware, mt7615_firmware, mt7622_firmware, mt7628_firmware, mt7629_firmware, mt7915_firmware, mt7916_firmware, mt7981_firmware, mt7986_firmware, mt8365_firmware, yocto)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-32666,https://da.gd/CYqst
+NVD-NIST,"CVE-2023-20689 (android, yocto)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-20689,https://da.gd/r34I
+NVD-NIST,CVE-2023-20755 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-20755,https://da.gd/FM6c
+NVD-NIST,CVE-2023-20756 (android),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-20756,https://da.gd/ieUAx
+NVD-NIST,"CVE-2023-3395 (tbox_lt2_firmware, tbox_ms-cpu32-s2_firmware, tbox_ms-cpu32_firmware, tbox_rm2_firmware, tbox_tg2_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-3395,https://da.gd/armP
+NVD-NIST,"CVE-2023-36610 (tbox_lt2_firmware, tbox_ms-cpu32-s2_firmware, tbox_ms-cpu32_firmware, tbox_rm2_firmware, tbox_tg2_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36610,https://da.gd/BAWL
+NVD-NIST,"CVE-2023-36611 (tbox_lt2_firmware, tbox_ms-cpu32-s2_firmware, tbox_ms-cpu32_firmware, tbox_rm2_firmware, tbox_tg2_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36611,https://da.gd/lvbn3
