@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-22cq-xxr9-jrrv] Zenario CMS vulnerable to CSRF,https://github.com/advisories/GHSA-22cq-xxr9-jrrv,https://da.gd/AnBXUB
+GithubAdvisories,[GHSA-w935-p7mg-xc96] Sensitive Data Exposure in baserCMS,https://github.com/advisories/GHSA-w935-p7mg-xc96,https://da.gd/L7TJM
+GithubAdvisories,[GHSA-6qjv-43mf-rgrh] XSS in baserCMS,https://github.com/advisories/GHSA-6qjv-43mf-rgrh,https://da.gd/uzTPPf
+GithubAdvisories,[GHSA-994g-74gq-5qpr] XSS in baserCMS,https://github.com/advisories/GHSA-994g-74gq-5qpr,https://da.gd/YgxWO
+GithubAdvisories,[GHSA-6j3p-vrph-j7qq] OS Command Injection in baserCMS,https://github.com/advisories/GHSA-6j3p-vrph-j7qq,https://da.gd/LDpAz
+GithubAdvisories,[GHSA-h7vh-6gmm-g7h9] Stored XSS in LavaLite 5.2.4,https://github.com/advisories/GHSA-h7vh-6gmm-g7h9,https://da.gd/XnAdLT
+GithubAdvisories,[GHSA-c9r9-3h38-r7vj] Authenticated RCE in Zen Cart 1.5.5e,https://github.com/advisories/GHSA-c9r9-3h38-r7vj,https://da.gd/qmvGF0
