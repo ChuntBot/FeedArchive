@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j2cr-jc39-wpx5] Barberry Security Advisory - regarding x/auth periodic vesting accounts,https://github.com/advisories/GHSA-j2cr-jc39-wpx5,https://da.gd/bYQG
+GithubAdvisories,[GHSA-46vm-rwrf-jrxm] CSRF in baserCMS 3.0.10 and earlier,https://github.com/advisories/GHSA-46vm-rwrf-jrxm,https://da.gd/wszp6
+GithubAdvisories,[GHSA-crqg-jrpj-fc84] Apache Johnzon Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-crqg-jrpj-fc84,https://da.gd/TG3ze
+GithubAdvisories,[GHSA-pxxp-283v-xpq5] Stored XSS in LavaLite 5.5,https://github.com/advisories/GHSA-pxxp-283v-xpq5,https://da.gd/3QORj9
+GithubAdvisories,[GHSA-397g-4jpj-44xg] CSRF in baserCMS 3.0.10 and earlier,https://github.com/advisories/GHSA-397g-4jpj-44xg,https://da.gd/39So
+GithubAdvisories,[GHSA-x73x-7gmx-w835] Arbitrary file delete in baserCMS,https://github.com/advisories/GHSA-x73x-7gmx-w835,https://da.gd/W8GhI5
