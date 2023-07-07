@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-38f9-4vhq-9cr8] Zen Cart vulnerable to authenticated remote code execution,https://github.com/advisories/GHSA-38f9-4vhq-9cr8,https://da.gd/TGu4HP
+GithubAdvisories,[GHSA-gcv6-2v9c-rj48] Cosenary Instagram-PHP-API contains reflected XSS vulnerability,https://github.com/advisories/GHSA-gcv6-2v9c-rj48,https://da.gd/GDMTiI
+GithubAdvisories,[GHSA-65x8-9vgm-5fg5] Feehi CMS arbitrary file upload vulnerability,https://github.com/advisories/GHSA-65x8-9vgm-5fg5,https://da.gd/d3KkR
+GithubAdvisories,[GHSA-3q76-jq6m-573p] Archive_Tar contains Potential RCE if filename starts with phar://,https://github.com/advisories/GHSA-3q76-jq6m-573p,https://da.gd/RYghBX
