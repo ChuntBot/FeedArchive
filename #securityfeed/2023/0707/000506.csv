@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pwrw-g29q-3mp8] TeamPass Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-pwrw-g29q-3mp8,https://da.gd/rcZG1B
+GithubAdvisories,[GHSA-9hxf-ppjv-w6rq] gRPC connection termination issue,https://github.com/advisories/GHSA-9hxf-ppjv-w6rq,https://da.gd/l5GByu
+GithubAdvisories,[GHSA-6628-q6j9-w8vg] gRPC Reachable Assertion issue,https://github.com/advisories/GHSA-6628-q6j9-w8vg,https://da.gd/Jbsia
+GithubAdvisories,[GHSA-2rx4-9f5h-9gjf] Apache Airflow CNCF Kubernetes Provider: KubernetesPodOperator RCE via connection configuration,https://github.com/advisories/GHSA-2rx4-9f5h-9gjf,https://da.gd/MEWDD
+GithubAdvisories,[GHSA-5gq7-826w-8282] Unrestricted File Upload vulnerability in Firefly III,https://github.com/advisories/GHSA-5gq7-826w-8282,https://da.gd/KKTdah
+GithubAdvisories,[GHSA-m9p2-j4hg-g373] Apache Cassandra: Privilege escalation when enabling FQL/Audit logs,https://github.com/advisories/GHSA-m9p2-j4hg-g373,https://da.gd/dJ7Kal
+GithubAdvisories,[GHSA-x3cq-8f32-5f63] Apache RocketMQ may have remote code execution vulnerability when using update configuration function,https://github.com/advisories/GHSA-x3cq-8f32-5f63,https://da.gd/oGWDg
+GithubAdvisories,[GHSA-w3wr-gmwf-r333] Apache InLong has Weak Password Requirements in Apache InLong,https://github.com/advisories/GHSA-w3wr-gmwf-r333,https://da.gd/qa6a
+GithubAdvisories,[GHSA-rf76-whgp-fp56] Apache InLong vulnerable to Incorrect Permission Assignment for Critical Resource,https://github.com/advisories/GHSA-rf76-whgp-fp56,https://da.gd/lQnv
+GithubAdvisories,[GHSA-f475-jgg3-3jwc] Apache InLong Exposure of Resource to Wrong Sphere vulnerability,https://github.com/advisories/GHSA-f475-jgg3-3jwc,https://da.gd/mWsRe
+GithubAdvisories,[GHSA-8rjh-3mhm-966q] Apache InLong Incorrect Permission Assignment for Critical Resource Vulnerability,https://github.com/advisories/GHSA-8rjh-3mhm-966q,https://da.gd/IxBLVm
+GithubAdvisories,[GHSA-69gw-v5ph-6vxq] Code Injection in baserCMS,https://github.com/advisories/GHSA-69gw-v5ph-6vxq,https://da.gd/DFjTz
+GithubAdvisories,[GHSA-c3rh-f2w5-fghm] Apache InLong Deserialization of Untrusted Data Vulnerability,https://github.com/advisories/GHSA-c3rh-f2w5-fghm,https://da.gd/rnnYq
+GithubAdvisories,[GHSA-cx6h-86xw-9x34] Apache Tomcat - Fix for CVE-2023-24998 was incomplete,https://github.com/advisories/GHSA-cx6h-86xw-9x34,https://da.gd/cKaKR
