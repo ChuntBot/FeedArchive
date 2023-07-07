@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v6vp-62vc-84qw] Apache James server allows an attacker with local access to access private user data in transit,https://github.com/advisories/GHSA-v6vp-62vc-84qw,https://da.gd/D2HED
+GithubAdvisories,[GHSA-72xf-g2v4-qvf3] tough-cookie Prototype Pollution vulnerability,https://github.com/advisories/GHSA-72xf-g2v4-qvf3,https://da.gd/33JZB
+GithubAdvisories,[GHSA-fr5w-98mc-jjvg] Arbitrary file upload in Mingsoft MCMS,https://github.com/advisories/GHSA-fr5w-98mc-jjvg,https://da.gd/gflzXc
