@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jcgc-vxqg-85xx] Sensitive Data Exposure in elFinder,https://github.com/advisories/GHSA-jcgc-vxqg-85xx,https://da.gd/3CMUXE
+GithubAdvisories,[GHSA-44p8-c3wv-f28r] Directory Traversal in Studio 42 elFinder,https://github.com/advisories/GHSA-44p8-c3wv-f28r,https://da.gd/jKG8s
+GithubAdvisories,[GHSA-jf5f-h3wr-j666] SQL Injection in Zenario 7.1-7.6,https://github.com/advisories/GHSA-jf5f-h3wr-j666,https://da.gd/9rw0C
+GithubAdvisories,[GHSA-w2h3-vvvq-3m53] Pipelines do not validate child UIDs,https://github.com/advisories/GHSA-w2h3-vvvq-3m53,https://da.gd/KxSqy
