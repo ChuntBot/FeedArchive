@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-whph-446h-6m9v] Azure SDK for .NET Information Disclosure Vulnerability,https://github.com/advisories/GHSA-whph-446h-6m9v,https://da.gd/KGLSkA
+GithubAdvisories,[GHSA-vmfx-gcfq-wvm2] Nokogiri implementation of libxslt vulnerable to heap corruption,https://github.com/advisories/GHSA-vmfx-gcfq-wvm2,https://da.gd/3erRiP
+GithubAdvisories,[GHSA-242x-7cm6-4w8j] Nokogiri affected by libxslt Use of Uninitialized Resource/Use After Free vulnerability,https://github.com/advisories/GHSA-242x-7cm6-4w8j,https://da.gd/VACWWh
+GithubAdvisories,[GHSA-wjw2-4j7j-6gc3] Winter CMS stored XSS through privileged upload of SVG file,https://github.com/advisories/GHSA-wjw2-4j7j-6gc3,https://da.gd/N9Wyj
+GithubAdvisories,[GHSA-cm22-88qr-7ffh] Lavalite vulnerable to Arbitrary File Read via Directory Traversal,https://github.com/advisories/GHSA-cm22-88qr-7ffh,https://da.gd/0mII
