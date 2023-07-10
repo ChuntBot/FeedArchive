@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5689-v88g-g6rv] llhttp allows HTTP Request Smuggling via Flawed Parsing of Transfer-Encoding,https://github.com/advisories/GHSA-5689-v88g-g6rv,https://da.gd/fmREvQ
