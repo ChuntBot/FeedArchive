@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Dockerapi] add pubsub handler for broadcasting in ha setup,https://github.com/mailcow/mailcow-dockerized/commit/06cce79806fccefa29f7145a7421ca8d122f6dbe,https://da.gd/99RAN
+GithubCommitStaging,[Web] add CLUSTERMODE environment variable,https://github.com/mailcow/mailcow-dockerized/commit/0f6956572e760f6b303902f95de5898848d28cff,https://da.gd/2pimTf
+GithubCommitStaging,[Dockerapi] add missing import os,https://github.com/mailcow/mailcow-dockerized/commit/0f0d43b253185e0980d96e8a7cdc98c6cd0ae457,https://da.gd/OgwHO
+GithubCommitStaging,[Web] fix rspamd-history,https://github.com/mailcow/mailcow-dockerized/commit/cb1a11e5514abfe2637f304b0a21f30e1a0afee7,https://da.gd/loMmmS
+GithubCommitStaging,Merge pull request #5312 from mailcow/fix/ui-logs,https://github.com/mailcow/mailcow-dockerized/commit/722134e47443a9696fc6f43b111b5f64806b3b47,https://da.gd/zxSO
+GithubCommitStaging,Merge pull request #5310 from mailcow/feat/ha-pubsub,https://github.com/mailcow/mailcow-dockerized/commit/da8e496430ad470f35d768c47213aee27dd2a260,https://da.gd/LAvaE
+GithubCommitStaging,Merge pull request #5221 from mailcow/fix/dot-stuffing-bcc,https://github.com/mailcow/mailcow-dockerized/commit/a0723f60d2ebfaf902a7f57c2f878b3fc328cb48,https://da.gd/VGKIo7
