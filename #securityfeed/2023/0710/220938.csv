@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2rhg-hqq9-8xjh] TeamPass information exposure vulnerability,https://github.com/advisories/GHSA-2rhg-hqq9-8xjh,https://da.gd/39yCP
+GithubAdvisories,[GHSA-8c6x-g4fw-8rf4] Whatsapp-Chat-Exporter has Cross-Site Scripting vulnerability in HTML output of chats,https://github.com/advisories/GHSA-8c6x-g4fw-8rf4,https://da.gd/fSnLIf
+GithubAdvisories,[GHSA-q9w4-w667-qqj4] ckeditor-wordcount-plugin vulnerable to Cross-site Scripting in Source Mode of Editor,https://github.com/advisories/GHSA-q9w4-w667-qqj4,https://da.gd/XdBnQA
+GithubAdvisories,[GHSA-vx35-f379-4q49] Pimcore Customer Management Framework vulnerable to Improper Authorization in Rules Controller,https://github.com/advisories/GHSA-vx35-f379-4q49,https://da.gd/XepDCf
+GithubAdvisories,[GHSA-wqc8-x2pr-7jqh] RestrictedPython vulnerable to arbitrary code execution via stack frame sandbox escape,https://github.com/advisories/GHSA-wqc8-x2pr-7jqh,https://da.gd/p5hhy
+GithubAdvisories,[GHSA-6xxr-648m-gch6] XWiki Platform vulnerable to cross-site request forgery (CSRF) via the REST API,https://github.com/advisories/GHSA-6xxr-648m-gch6,https://da.gd/TYmCS
+GithubAdvisories,[GHSA-6g2w-257v-3c9f] Apache Camel information exposure vulnerability,https://github.com/advisories/GHSA-6g2w-257v-3c9f,https://da.gd/8SGzjn
+GithubAdvisories,[GHSA-mjmq-gwgm-5qhm] Apache MINA SSHD information disclosure vulnerability,https://github.com/advisories/GHSA-mjmq-gwgm-5qhm,https://da.gd/rDPOl
+GithubAdvisories,[GHSA-6qq7-3hqc-p5w4] Wallabag vulnerable to Allocation of Resources Without Limits or Throttling,https://github.com/advisories/GHSA-6qq7-3hqc-p5w4,https://da.gd/UcAAS
+GithubAdvisories,[GHSA-524r-w8fx-hqg3] TeamPass Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-524r-w8fx-hqg3,https://da.gd/G3e9
+GithubAdvisories,[GHSA-58qw-p7qm-5rvh] Eclipse Jetty XmlParser allows arbitrary DOCTYPE declarations,https://github.com/advisories/GHSA-58qw-p7qm-5rvh,https://da.gd/SOSdH6
+GithubAdvisories,[GHSA-97hm-2mfr-2p97] TeamPass Code Injection vulnerability,https://github.com/advisories/GHSA-97hm-2mfr-2p97,https://da.gd/UIZCN
+GithubAdvisories,[GHSA-2cv5-qvq3-6276] TeamPass vulnerable to Improper Encoding or Escaping of Output,https://github.com/advisories/GHSA-2cv5-qvq3-6276,https://da.gd/nxOvAM
