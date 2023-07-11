@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q9xg-h756-8689] jquery-plugin-query-object contains prototype pollution vulnerability,https://github.com/advisories/GHSA-q9xg-h756-8689,https://da.gd/IgAQOs
+GithubAdvisories,[GHSA-6q5m-22mq-q2xv] Istio Authorization Bypass Vulnerability,https://github.com/advisories/GHSA-6q5m-22mq-q2xv,https://da.gd/gL59Fz
+GithubAdvisories,[GHSA-h3j8-fr5q-8rfr] JFinal Java Deserialization Vulnerability,https://github.com/advisories/GHSA-h3j8-fr5q-8rfr,https://da.gd/p7JN4R
