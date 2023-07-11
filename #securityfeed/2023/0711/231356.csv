@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5652-92r9-3fx9] Decidim Cross-site Scripting vulnerability in the processes filter,https://github.com/advisories/GHSA-5652-92r9-3fx9,https://da.gd/uvseR
+GithubAdvisories,[GHSA-469h-mqg8-535r] Decidim Cross-site Scripting vulnerability in the external link redirections,https://github.com/advisories/GHSA-469h-mqg8-535r,https://da.gd/Ugcj
+GithubAdvisories,[GHSA-jm79-9pm4-vrw9] Decidim vulnerable to sensitive data disclosure,https://github.com/advisories/GHSA-jm79-9pm4-vrw9,https://da.gd/6wbIX
+GithubAdvisories,[GHSA-ph6g-p72v-pc3p] Orchid Deserialization of Untrusted Data vulnerability leads to Remote Code Execution,https://github.com/advisories/GHSA-ph6g-p72v-pc3p,https://da.gd/fXYZuP
+GithubAdvisories,[GHSA-h9wq-xcqx-mqxm] Vendure Cross Site Request Forgery vulnerability impacting all API requests,https://github.com/advisories/GHSA-h9wq-xcqx-mqxm,https://da.gd/7AZf2S
+GithubAdvisories,[GHSA-jx3q-5rgf-vrrr] xalpha vulnerable to Remote Code Execution,https://github.com/advisories/GHSA-jx3q-5rgf-vrrr,https://da.gd/emV8Ax
+GithubAdvisories,[GHSA-f44m-65h3-99vc] tarteaucitron.js vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-f44m-65h3-99vc,https://da.gd/6tvlMK
+GithubAdvisories,[GHSA-2w8w-qhg4-f78j] A stored XSS in jaeger UI might allow an attacker who controls a trace to perform arbitrary jaeger queries,https://github.com/advisories/GHSA-2w8w-qhg4-f78j,https://da.gd/tjNs1
+GithubAdvisories,[GHSA-485r-rp8v-998v] Microsoft Security Advisory CVE-2023-33127: .NET Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-485r-rp8v-998v,https://da.gd/3GKky
+GithubAdvisories,[GHSA-25c8-p796-jg6r] Microsoft Security Advisory CVE-2023-33170: .NET Security Feature Bypass Vulnerability,https://github.com/advisories/GHSA-25c8-p796-jg6r,https://da.gd/ahJNJp
+GithubAdvisories,[GHSA-cggh-pq45-6h9x] llhttp vulnerable to HTTP request smuggling,https://github.com/advisories/GHSA-cggh-pq45-6h9x,https://da.gd/nDTNu2
