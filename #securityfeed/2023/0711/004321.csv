@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8wq7-hhjj-fpqv] RCE in Mingsoft MCMS,https://github.com/advisories/GHSA-8wq7-hhjj-fpqv,https://da.gd/1uVgLC
+GithubAdvisories,[GHSA-q469-j32f-h7vm] RCE in SiteServer CMS,https://github.com/advisories/GHSA-q469-j32f-h7vm,https://da.gd/DDsX
+GithubAdvisories,[GHSA-c8f2-5h29-8j2h] libconnect Extension for Typo3 Vulnerable to XSS,https://github.com/advisories/GHSA-c8f2-5h29-8j2h,https://da.gd/1nNse
+GithubAdvisories,[GHSA-q5vx-44v4-gch4] llhttp allows HTTP Request Smuggling via Improper Delimiting of Header Fields,https://github.com/advisories/GHSA-q5vx-44v4-gch4,https://da.gd/JwMjta
+GithubAdvisories,[GHSA-q72p-4w56-hx7h] Hardcoded JWT Token in Lin CMS Spring Boot,https://github.com/advisories/GHSA-q72p-4w56-hx7h,https://da.gd/SiQ8EC
+GithubAdvisories,[GHSA-x832-r2rj-4g5p] SSRF in Kitodo.Presentation,https://github.com/advisories/GHSA-x832-r2rj-4g5p,https://da.gd/YpkWDX
+GithubAdvisories,[GHSA-c3mp-9vx3-2rvv] OpenNMS Horizon RCE via JEXL2 expression,https://github.com/advisories/GHSA-c3mp-9vx3-2rvv,https://da.gd/jIxdE
