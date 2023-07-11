@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3fhx-3vvg-2j84] quarkus-core vulnerable to client driven TLS cipher downgrading,https://github.com/advisories/GHSA-3fhx-3vvg-2j84,https://da.gd/nkI9O7
