@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3jrj-x6cj-97cp] Moodle contains CSRF vulnerability,https://github.com/advisories/GHSA-3jrj-x6cj-97cp,https://da.gd/lMxEKu
+GithubAdvisories,[GHSA-fc6h-769x-gff5] Dolibarr ERP and CRM contain XSS Vulnerability,https://github.com/advisories/GHSA-fc6h-769x-gff5,https://da.gd/MFiVt
+GithubAdvisories,[GHSA-hp5f-qqrw-c8gj] Kibana Sensitive Data Disclosure,https://github.com/advisories/GHSA-hp5f-qqrw-c8gj,https://da.gd/Qtemnw
+GithubAdvisories,[GHSA-8jhp-2gcr-qw96] Moodle vulnerable to RCE via unsafe deserialization,https://github.com/advisories/GHSA-8jhp-2gcr-qw96,https://da.gd/h12pK
