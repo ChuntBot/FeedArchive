@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w3p4-7823-m33q] Jenkins Datadog Plugin does not perform a permission check in an HTTP endpoint,https://github.com/advisories/GHSA-w3p4-7823-m33q,https://da.gd/enhDXq
+GithubAdvisories,[GHSA-g8c3-6fj2-87w7] Jenkins Active Directory Plugin vulnerable to Active Directory credential disclosure,https://github.com/advisories/GHSA-g8c3-6fj2-87w7,https://da.gd/4DJf1
+GithubAdvisories,[GHSA-g4c3-4f3v-84x8] Jenkins External Monitor Job Type Plugin XML external entity vulnerability,https://github.com/advisories/GHSA-g4c3-4f3v-84x8,https://da.gd/7mFdNl
