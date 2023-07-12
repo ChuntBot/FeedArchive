@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rwg5-2pv9-633w] Jenkins OpenShift Login Plugin session fixation vulnerability,https://github.com/advisories/GHSA-rwg5-2pv9-633w,https://da.gd/83kkg
+GithubAdvisories,[GHSA-hmw6-r547-42fr] Jenkins Pipeline restFul API Plugin vulnerable to Cross Site Request Forgery,https://github.com/advisories/GHSA-hmw6-r547-42fr,https://da.gd/IUmVw
+GithubAdvisories,[GHSA-h656-vmrg-7rr6] Jenkins Test Results Aggregator Plugin missing permission check,https://github.com/advisories/GHSA-h656-vmrg-7rr6,https://da.gd/MwqCA
+GithubAdvisories,[GHSA-m9jj-p947-m8xv] Jenkins mabl Plugin missing permission check,https://github.com/advisories/GHSA-m9jj-p947-m8xv,https://da.gd/nxzz8P
+GithubAdvisories,[GHSA-8gc7-whph-rx5q] Jenkins Test Results Aggregator Plugin vulnerable to Cross Site Request Forgery,https://github.com/advisories/GHSA-8gc7-whph-rx5q,https://da.gd/EAnFi
+GithubAdvisories,[GHSA-5r5c-7rm4-mp4r] Jenkins Rebuilder Plugin vulnerable to Cross Site Request Forgery,https://github.com/advisories/GHSA-5r5c-7rm4-mp4r,https://da.gd/QRHM
+GithubAdvisories,[GHSA-4c3q-r84r-q6pp] Jenkins mabl Plugin vulnerable to exposure of system-scooped credentials,https://github.com/advisories/GHSA-4c3q-r84r-q6pp,https://da.gd/bjbE
+GithubAdvisories,[GHSA-wvgr-5wgr-c6fj] Jenkins mabl Plugin vulnerable to cross-site request forgery,https://github.com/advisories/GHSA-wvgr-5wgr-c6fj,https://da.gd/pHIz1
+GithubAdvisories,[GHSA-4hm4-94g6-f23f] Jenkins Orka by MacStadium Plugin missing permission check,https://github.com/advisories/GHSA-4hm4-94g6-f23f,https://da.gd/3nZG0t
+GithubAdvisories,[GHSA-23rr-6phq-5p65] Jenkins mabl Plugin missing permission check,https://github.com/advisories/GHSA-23rr-6phq-5p65,https://da.gd/jpOZBM
+GithubAdvisories,[GHSA-35gf-xjgf-96c5] Jenkins OpenShift Login Plugin vulnerable to Open Redirect,https://github.com/advisories/GHSA-35gf-xjgf-96c5,https://da.gd/V4A1r
+GithubAdvisories,[GHSA-j54r-w587-95q7] Jenkins Oracle Cloud Infrastructure Compute Plugin missing SSH host key validation,https://github.com/advisories/GHSA-j54r-w587-95q7,https://da.gd/CjSwyE
+GithubAdvisories,[GHSA-p4wr-9wfm-f9jw] Jenkins SAML Single Sign On(SSO) Plugin missing permission check,https://github.com/advisories/GHSA-p4wr-9wfm-f9jw,https://da.gd/SMVVv
+GithubAdvisories,[GHSA-7jrr-fwhw-762v] Jenkins Sumologic Publisher Plugin vulnerable to cross-site request forgery,https://github.com/advisories/GHSA-7jrr-fwhw-762v,https://da.gd/iqmR
+GithubAdvisories,[GHSA-mx84-frhw-pcg8] Jenkins Sumologic Publisher Plugin missing permission check,https://github.com/advisories/GHSA-mx84-frhw-pcg8,https://da.gd/ae108L
+GithubAdvisories,[GHSA-q6cq-8r4j-6rj5] Jenkins MathWorks Polyspace Plugin vulnerable to arbitrary file read,https://github.com/advisories/GHSA-q6cq-8r4j-6rj5,https://da.gd/yGy5v
+GithubAdvisories,[GHSA-p756-66w2-35g7] Jenkins Assembla Auth Plugin vulnerable to cross-site request forgery,https://github.com/advisories/GHSA-p756-66w2-35g7,https://da.gd/9102Q
+GithubAdvisories,[GHSA-wgvx-9rh5-4g4m] Jenkins Benchmark Evaluator Plugin vulnerable to cross-site request forgery,https://github.com/advisories/GHSA-wgvx-9rh5-4g4m,https://da.gd/Fdz0hO
+GithubAdvisories,[GHSA-gg44-xm5p-x9cm] Jenkins ElasticBox CI Plugin missing permission check,https://github.com/advisories/GHSA-gg44-xm5p-x9cm,https://da.gd/EbOBa
+GithubAdvisories,[GHSA-5g87-44p9-v4j7] Jenkins Benchmark Evaluator Plugin missing permission check,https://github.com/advisories/GHSA-5g87-44p9-v4j7,https://da.gd/KIt7sp
+GithubAdvisories,[GHSA-5v46-54vj-4mjq] Jenkins ElasticBox CI Plugin vulnerable to cross-site request forgery,https://github.com/advisories/GHSA-5v46-54vj-4mjq,https://da.gd/LjKiri
