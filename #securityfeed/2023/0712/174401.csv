@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3h4m-m55v-gx4m] Apache Airflow Improper Input Validation vulnerability,https://github.com/advisories/GHSA-3h4m-m55v-gx4m,https://da.gd/35jIy1
+GithubAdvisories,[GHSA-ggwr-4vr8-g7wv] Apache Airflow Path Traversal vulnerability,https://github.com/advisories/GHSA-ggwr-4vr8-g7wv,https://da.gd/LdwRB
+GithubAdvisories,[GHSA-gpq8-963w-8qc9] RocketMQ NameServer component Code Injection vulnerability,https://github.com/advisories/GHSA-gpq8-963w-8qc9,https://da.gd/QoWB
+GithubAdvisories,[GHSA-74mc-g2xv-pch2] Apache Pulsar Function Worker Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-74mc-g2xv-pch2,https://da.gd/rXjmwL
+GithubAdvisories,[GHSA-2h84-3crq-vgfj] Apache Airflow Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-2h84-3crq-vgfj,https://da.gd/Vi5hS
+GithubAdvisories,[GHSA-47r2-phr8-m8cp] Apache Pulsar Broker Improper Authentication vulnerability,https://github.com/advisories/GHSA-47r2-phr8-m8cp,https://da.gd/DYbQo
+GithubAdvisories,[GHSA-j2r7-3rvw-g7gx] Apache Pulsar Broker's Rest Producer vulnerable to Incorrect Authorization,https://github.com/advisories/GHSA-j2r7-3rvw-g7gx,https://da.gd/oSGgy
+GithubAdvisories,[GHSA-g9cv-v3v4-3h8r] Apache Pulsar Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-g9cv-v3v4-3h8r,https://da.gd/GEptG7
+GithubAdvisories,[GHSA-xvw9-3mhm-xjqq] Apache Airflow information disclosure vulnerability,https://github.com/advisories/GHSA-xvw9-3mhm-xjqq,https://da.gd/V2QU1
+GithubAdvisories,[GHSA-p7w2-784m-qpq9] Apache Ambari Expression Language Injection vulnerability,https://github.com/advisories/GHSA-p7w2-784m-qpq9,https://da.gd/u2AMsu
+GithubAdvisories,[GHSA-m384-pj54-5vr2] Apache Ambari Expression Language Injection vulnerability,https://github.com/advisories/GHSA-m384-pj54-5vr2,https://da.gd/b64qKI
+GithubAdvisories,[GHSA-j927-w6g7-7c7w] Apache Jena Expression Language Injection vulnerability,https://github.com/advisories/GHSA-j927-w6g7-7c7w,https://da.gd/eNkWgm
+GithubAdvisories,[GHSA-f99h-w337-mv56] iprange may panic when parsing ranges with invalid masks,https://github.com/advisories/GHSA-f99h-w337-mv56,https://da.gd/GiagkA
+GithubAdvisories,[GHSA-hqv9-6jqw-9g8m] Pimcore admin UI vulnerable to Cross-site Scripting in 2 factor authentication setup page,https://github.com/advisories/GHSA-hqv9-6jqw-9g8m,https://da.gd/BNAy
