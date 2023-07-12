@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,New Symbols defined for Security ClamAV DBs,https://github.com/mailcow/mailcow-dockerized/commit/689856b186f9d26cc0e0275ad2f1069966632538,https://da.gd/3mSDNm
+GithubCommitStaging,Improved Scores,https://github.com/mailcow/mailcow-dockerized/commit/8cd4ae1e349f926b0a738e2165e54ead5c5b129a,https://da.gd/mDjgx5
+GithubCommitStaging,Changed weight to score for CLAMD_SPAM,https://github.com/mailcow/mailcow-dockerized/commit/6e9c024b3c30f58d8e080490688baec6a84c3deb,https://da.gd/HWC7lJ
+GithubCommitStaging,Merge pull request #5316 from mailcow/feat/rspamd-securite-symbols,https://github.com/mailcow/mailcow-dockerized/commit/2b009c71c1c16eab08f6227c601cfa14ecc48809,https://da.gd/kSiz0
