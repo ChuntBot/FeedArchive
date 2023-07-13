@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-84qj-9qf2-q92r] Malicious Package in pm-controls,https://github.com/advisories/GHSA-84qj-9qf2-q92r,https://da.gd/yK2rCB
+GithubAdvisories,[GHSA-56r9-v65c-34jm] Malicious Package in radicjs,https://github.com/advisories/GHSA-56r9-v65c-34jm,https://da.gd/HONvHU
+GithubAdvisories,[GHSA-5vmg-x99g-396q] Shopware vulnerable to SSRF,https://github.com/advisories/GHSA-5vmg-x99g-396q,https://da.gd/NtLRa
+GithubAdvisories,[GHSA-hhpm-74pm-hf35] ingress-nginx component for Kubernetes allows file overwrite,https://github.com/advisories/GHSA-hhpm-74pm-hf35,https://da.gd/kicmS
