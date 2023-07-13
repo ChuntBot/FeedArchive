@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qx3p-9mmp-4v8h] Wildfly has a memory leak vulnerability,https://github.com/advisories/GHSA-qx3p-9mmp-4v8h,https://da.gd/wHJiMr
+GithubAdvisories,[GHSA-99xx-83jm-h24m] ClusterLabs crmsh vulnerable to shell code injection,https://github.com/advisories/GHSA-99xx-83jm-h24m,https://da.gd/HSULki
+GithubAdvisories,[GHSA-95qr-67rx-9pgh] Umbraco CMS vulnerable to stored XSS,https://github.com/advisories/GHSA-95qr-67rx-9pgh,https://da.gd/eH8OpD
+GithubAdvisories,[GHSA-jw3v-5ch2-wfmm] Wildfly logs plaintext passwords,https://github.com/advisories/GHSA-jw3v-5ch2-wfmm,https://da.gd/E1HIY
+GithubAdvisories,[GHSA-7pxg-6p87-8c9v] Magento 2 Community Edition RCE via Unsafe File Upload,https://github.com/advisories/GHSA-7pxg-6p87-8c9v,https://da.gd/lDFqR
+GithubAdvisories,[GHSA-f2g3-3c6q-4478] Magento 2 Community Edition Incorrect Authorization,https://github.com/advisories/GHSA-f2g3-3c6q-4478,https://da.gd/rEdxoc
+GithubAdvisories,[GHSA-g7r3-jwhw-2wfv] Microweber Insufficient Session Expiry,https://github.com/advisories/GHSA-g7r3-jwhw-2wfv,https://da.gd/KaMjl
+GithubAdvisories,[GHSA-pmxg-w9c7-ffmq] Microweber Discloses Sensitive Information,https://github.com/advisories/GHSA-pmxg-w9c7-ffmq,https://da.gd/mbDH
+GithubAdvisories,[GHSA-2pw2-qpcp-m47x] Silverstripe CMS XSS Vulnerability,https://github.com/advisories/GHSA-2pw2-qpcp-m47x,https://da.gd/GzMQ
+GithubAdvisories,[GHSA-gm5x-hpmw-xpxg] Silverstripe CMS information disclosure,https://github.com/advisories/GHSA-gm5x-hpmw-xpxg,https://da.gd/LueYpG
+GithubAdvisories,[GHSA-h77w-655f-6j3m] Silverstripe CMS malicious file upload enables script execution,https://github.com/advisories/GHSA-h77w-655f-6j3m,https://da.gd/MrNzA
+GithubAdvisories,[GHSA-qcch-9268-59jw] Wildfly EJB Client causes DoS,https://github.com/advisories/GHSA-qcch-9268-59jw,https://da.gd/MNdP8j
