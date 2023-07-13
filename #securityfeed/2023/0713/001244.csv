@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f478-xwv9-p93q] Kerberos for NodeJS allows DLL Injection,https://github.com/advisories/GHSA-f478-xwv9-p93q,https://da.gd/cwFqWi
+GithubAdvisories,[GHSA-cw58-gpgw-hwx2] Plone allows weak passwords,https://github.com/advisories/GHSA-cw58-gpgw-hwx2,https://da.gd/0U5ueG
+GithubAdvisories,[GHSA-82j9-wfcf-9v2h] Plone Open Redirect Vulnerability,https://github.com/advisories/GHSA-82j9-wfcf-9v2h,https://da.gd/iSYykV
+GithubAdvisories,[GHSA-w6qf-35f2-j6h7] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-w6qf-35f2-j6h7,https://da.gd/7e4J
