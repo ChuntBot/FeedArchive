@@ -1,0 +1,29 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gqqf-8cx6-9r7h] Umbraco CMS vulnerable to CSRF,https://github.com/advisories/GHSA-gqqf-8cx6-9r7h,https://da.gd/aWUkW
+GithubAdvisories,[GHSA-8mc4-2xrc-g582] Plone cross site scripting (XSS),https://github.com/advisories/GHSA-8mc4-2xrc-g582,https://da.gd/Xh1Zqd
+GithubAdvisories,[GHSA-cjg3-q24h-9qwf] Plone Privilege Escallation,https://github.com/advisories/GHSA-cjg3-q24h-9qwf,https://da.gd/jlEpc
+GithubAdvisories,[GHSA-63fw-7jgf-5hwv] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-63fw-7jgf-5hwv,https://da.gd/iZBz
+GithubAdvisories,[GHSA-67xp-4726-4978] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-67xp-4726-4978,https://da.gd/XMiPKb
+GithubAdvisories,[GHSA-fhc8-h6hr-h9mq] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-fhc8-h6hr-h9mq,https://da.gd/H17eOS
+GithubAdvisories,[GHSA-jh69-6vv2-wfp5] Dolibarr ERP and CRM contain XSS Vulnerability,https://github.com/advisories/GHSA-jh69-6vv2-wfp5,https://da.gd/6lQeBk
+GithubAdvisories,[GHSA-rqw2-hhrf-7936] OpenStack Keystone does not check signature TTL of the EC2 credential auth method,https://github.com/advisories/GHSA-rqw2-hhrf-7936,https://da.gd/QakgsF
+GithubAdvisories,[GHSA-69q7-hww4-8pjq] phpBB allows CSRF,https://github.com/advisories/GHSA-69q7-hww4-8pjq,https://da.gd/N5kF8R
+GithubAdvisories,[GHSA-q7hx-mrv5-6mrp] HashBrown CMS Directory Traversal,https://github.com/advisories/GHSA-q7hx-mrv5-6mrp,https://da.gd/9nX5Q
+GithubAdvisories,[GHSA-9phr-h5mx-4fp6] DNN XSS Vulnerability,https://github.com/advisories/GHSA-9phr-h5mx-4fp6,https://da.gd/UIQw8
+GithubAdvisories,[GHSA-h68c-4jh3-cp9j] Umbraco CMS Authenticated File Upload,https://github.com/advisories/GHSA-h68c-4jh3-cp9j,https://da.gd/enkO1
+GithubAdvisories,[GHSA-g67x-mgrv-m3gv] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-g67x-mgrv-m3gv,https://da.gd/pSFxo
+GithubAdvisories,[GHSA-pg99-mp4c-75g6] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-pg99-mp4c-75g6,https://da.gd/CzUo6
+GithubAdvisories,[GHSA-4qf5-7xc2-wqpg] DNN Path Traversal via Zip Slip,https://github.com/advisories/GHSA-4qf5-7xc2-wqpg,https://da.gd/lNuD
+GithubAdvisories,[GHSA-4j5x-f394-xx79] gitjacker arbitrary code execution,https://github.com/advisories/GHSA-4j5x-f394-xx79,https://da.gd/xFPB
+GithubAdvisories,[GHSA-h7h6-fwpv-ggvx] Moodle contains Stored XSS via ID number user profile field,https://github.com/advisories/GHSA-h7h6-fwpv-ggvx,https://da.gd/T05O0H
+GithubAdvisories,[GHSA-xx77-w6p5-xvmj] ShopXO RCE Vulnerability,https://github.com/advisories/GHSA-xx77-w6p5-xvmj,https://da.gd/XqM5qI
+GithubAdvisories,[GHSA-9hhc-cc6c-99hh] OpenNMS Horizon vulnerable to XSS,https://github.com/advisories/GHSA-9hhc-cc6c-99hh,https://da.gd/ZLdSKO
+GithubAdvisories,[GHSA-vcx4-fpmp-mvv6] OctoPrint API Error Messages vulnerable to XSS,https://github.com/advisories/GHSA-vcx4-fpmp-mvv6,https://da.gd/wVQoyF
+GithubAdvisories,[GHSA-phwq-9gc4-q5c8] Mingsoft MCMS SQL injection vulnerability,https://github.com/advisories/GHSA-phwq-9gc4-q5c8,https://da.gd/j0uPB
+GithubAdvisories,[GHSA-m3x9-623g-35c4] Routinator infinite loop vulnerability,https://github.com/advisories/GHSA-m3x9-623g-35c4,https://da.gd/7wi1Z
+GithubAdvisories,[GHSA-j494-7x2v-vvvp] mx-chain-go's relayed transactions always increment nonce,https://github.com/advisories/GHSA-j494-7x2v-vvvp,https://da.gd/SnfqE
+GithubAdvisories,[GHSA-h8wc-r4jh-mg7m] Umbraco allows possible Admin-level access to backoffice without Auth under rare conditions,https://github.com/advisories/GHSA-h8wc-r4jh-mg7m,https://da.gd/NpgyD
+GithubAdvisories,[GHSA-cchq-frgv-rjh5] vm2 Sandbox Escape vulnerability,https://github.com/advisories/GHSA-cchq-frgv-rjh5,https://da.gd/aUvHF
+GithubAdvisories,[GHSA-g644-9gfx-q4q4] vm2 Sandbox Escape vulnerability,https://github.com/advisories/GHSA-g644-9gfx-q4q4,https://da.gd/72yUp
+GithubAdvisories,[GHSA-w33c-445m-f8w7] Okio Signed to Unsigned Conversion Error vulnerability,https://github.com/advisories/GHSA-w33c-445m-f8w7,https://da.gd/F0PVxh
+GithubAdvisories,[GHSA-4q2q-q5pw-2342] Apache Airflow Apache Hive Provider Improper Input Validation vulnerability,https://github.com/advisories/GHSA-4q2q-q5pw-2342,https://da.gd/nghBBA
