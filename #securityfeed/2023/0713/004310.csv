@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jfgp-q2hg-w285] WSO2 API Manager vulnerable to SSRF,https://github.com/advisories/GHSA-jfgp-q2hg-w285,https://da.gd/Xp0nCS
+GithubAdvisories,[GHSA-853f-x27w-8r74] OpenNMS Horizon RCE via Unsafe Deserialization,https://github.com/advisories/GHSA-853f-x27w-8r74,https://da.gd/jODI9
+GithubAdvisories,[GHSA-23q7-59jj-2pj4] SEOmatic for CraftCMS allows Server-Side Template Injection,https://github.com/advisories/GHSA-23q7-59jj-2pj4,https://da.gd/eVANv
