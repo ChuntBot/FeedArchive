@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g3m9-qrfj-xw4g] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-g3m9-qrfj-xw4g,https://da.gd/jEQn
+GithubAdvisories,[GHSA-fx6x-h9g4-56f8] containernetworking/plugins vulnerable to MitM attacks,https://github.com/advisories/GHSA-fx6x-h9g4-56f8,https://da.gd/hIGGo
+GithubAdvisories,[GHSA-f28g-86hc-823q] Tokenizer vulnerable to client brute-force of token secrets,https://github.com/advisories/GHSA-f28g-86hc-823q,https://da.gd/VwB8ku
+GithubAdvisories,[GHSA-667r-p4gg-7m2q] ImpressCMS Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-667r-p4gg-7m2q,https://da.gd/2WFc
+GithubAdvisories,[GHSA-vwxv-frj6-fhc9] OMERO-web Sensitive Data Exposure,https://github.com/advisories/GHSA-vwxv-frj6-fhc9,https://da.gd/yY1Fnd
