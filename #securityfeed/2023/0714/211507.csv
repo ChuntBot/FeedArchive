@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6452-jr93-r5qm] b3log Wide unauthenticated file access,https://github.com/advisories/GHSA-6452-jr93-r5qm,https://da.gd/JCVFp
+GithubAdvisories,[GHSA-5rh7-6gfj-mc87] Gitea XSS Vulnerability,https://github.com/advisories/GHSA-5rh7-6gfj-mc87,https://da.gd/X4ETC
+GithubAdvisories,[GHSA-85c5-ccm8-vr96] mastercactapus proxyprotocol vulnerable to denial of service vulnerability,https://github.com/advisories/GHSA-85c5-ccm8-vr96,https://da.gd/9GVZ9B
+GithubAdvisories,[GHSA-3hxw-g85p-qgxm] PharStreamWrapper for Typo3 unsafe deserialization vulnerability,https://github.com/advisories/GHSA-3hxw-g85p-qgxm,https://da.gd/UY2MTj
