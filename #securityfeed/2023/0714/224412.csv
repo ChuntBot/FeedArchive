@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2rwh-262r-r85j] Dolibarr ERP and CRM malicious executable loading,https://github.com/advisories/GHSA-2rwh-262r-r85j,https://da.gd/5XPoOF
+GithubAdvisories,[GHSA-jwg3-v9xm-v6q9] Dolibarr ERP and CRM Code Injection,https://github.com/advisories/GHSA-jwg3-v9xm-v6q9,https://da.gd/Y1eIld
+GithubAdvisories,[GHSA-cf7p-gm2m-833m] cryptography mishandles SSH certificates,https://github.com/advisories/GHSA-cf7p-gm2m-833m,https://da.gd/0QTMMU
