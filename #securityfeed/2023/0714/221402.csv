@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rh5f-2w6r-q7vj] Podman Path Traversal Vulnerability leads to arbitrary file read/write,https://github.com/advisories/GHSA-rh5f-2w6r-q7vj,https://da.gd/G1OM7O
+GithubAdvisories,[GHSA-mhvf-j94g-3qp7] Magento 2 Community Edition CSRF vulnerability,https://github.com/advisories/GHSA-mhvf-j94g-3qp7,https://da.gd/vnGA
+GithubAdvisories,[GHSA-pxfv-7rr3-2qjg] copyparty vulnerable to path traversal attack affecting all subfolders in http://localhost:3923/.cpr/ subfolder,https://github.com/advisories/GHSA-pxfv-7rr3-2qjg,https://da.gd/bQHK5
+GithubAdvisories,[GHSA-7xr2-8ff7-6fjq] zenstruck/collection passing callable string to EntityRepository::find() and query(),https://github.com/advisories/GHSA-7xr2-8ff7-6fjq,https://da.gd/KPDvJX
+GithubAdvisories,[GHSA-jq43-q8mx-r7mq] SwiftTerm Code Injection vulnerability,https://github.com/advisories/GHSA-jq43-q8mx-r7mq,https://da.gd/mZ4yyk
+GithubAdvisories,[GHSA-h4vp-69r8-gvjg] org.xwiki.platform:xwiki-platform-skin-ui Eval Injection vulnerability,https://github.com/advisories/GHSA-h4vp-69r8-gvjg,https://da.gd/6eSsR
+GithubAdvisories,[GHSA-6hvv-j432-23cv] Weave GitOps Terraform Controller Information Disclosure Vulnerability,https://github.com/advisories/GHSA-6hvv-j432-23cv,https://da.gd/lplWLv
+GithubAdvisories,[GHSA-hww2-5g85-429m] URI gem has ReDoS vulnerability,https://github.com/advisories/GHSA-hww2-5g85-429m,https://da.gd/shzD
+GithubAdvisories,[GHSA-c6v5-pf66-xfq8] Froxlor vulnerable to Improper Encoding or Escaping of Output,https://github.com/advisories/GHSA-c6v5-pf66-xfq8,https://da.gd/fmTnkR
+GithubAdvisories,[GHSA-7gj7-224w-vpr3] Thymeleaf allows sandbox bypass via crafted HTML,https://github.com/advisories/GHSA-7gj7-224w-vpr3,https://da.gd/Jww7pg
+GithubAdvisories,[GHSA-7wrv-6h42-w54f] PocketMine-MP vulnerable to server crash using badly formatted sign NBT in BlockActorDataPacket,https://github.com/advisories/GHSA-7wrv-6h42-w54f,https://da.gd/jUjGCA
+GithubAdvisories,[GHSA-r54g-4qq6-chxg] webmention.js Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-r54g-4qq6-chxg,https://da.gd/3vtjA
+GithubAdvisories,[GHSA-rxp5-qwrf-pfv3] Pimcore SQL Injection vulnerability,https://github.com/advisories/GHSA-rxp5-qwrf-pfv3,https://da.gd/RVR92
