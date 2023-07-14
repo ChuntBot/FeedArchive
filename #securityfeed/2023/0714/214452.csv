@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wv9c-pfpm-4wc5] Moodle CSRF Vulnerability,https://github.com/advisories/GHSA-wv9c-pfpm-4wc5,https://da.gd/83BwyT
+GithubAdvisories,[GHSA-45fh-g845-pj9w] Auth0 Passport-SharePoint does not validate JWT signature,https://github.com/advisories/GHSA-45fh-g845-pj9w,https://da.gd/cp1fRC
+GithubAdvisories,[GHSA-hq75-ggc3-8h3q] AntSword RCE and XSS via code injection,https://github.com/advisories/GHSA-hq75-ggc3-8h3q,https://da.gd/jJXDnv
