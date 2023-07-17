@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j224-7qr4-8646] Centreon Does Not Set HTTPOnly Flag,https://github.com/advisories/GHSA-j224-7qr4-8646,https://da.gd/Y4PffH
+GithubAdvisories,[GHSA-rx4j-x3fh-9qwg] Centreon Sensitive Data Exposure,https://github.com/advisories/GHSA-rx4j-x3fh-9qwg,https://da.gd/MW8iUS
+GithubAdvisories,[GHSA-22jh-6gx8-f944] Elastic APM agent for Python client CGI proxy redirection flaw,https://github.com/advisories/GHSA-22jh-6gx8-f944,https://da.gd/NPker
+GithubAdvisories,[GHSA-4j6w-9rf8-hg7r] Magento 2 Community Edition SQLi Vulnerability,https://github.com/advisories/GHSA-4j6w-9rf8-hg7r,https://da.gd/73Mca
+GithubAdvisories,[GHSA-hqhf-8jgc-h5hx] Magento 2 Community Edition Path Traversal Vulnerability,https://github.com/advisories/GHSA-hqhf-8jgc-h5hx,https://da.gd/dJAo5V
+GithubAdvisories,[GHSA-ff7r-7rrm-wx6w] Magento 2 Community Edition XSS Vulnerability,https://github.com/advisories/GHSA-ff7r-7rrm-wx6w,https://da.gd/rZqec
+GithubAdvisories,[GHSA-ccjm-rgm5-rjjh] Magento 2 Community Edition XSS Vulnerability,https://github.com/advisories/GHSA-ccjm-rgm5-rjjh,https://da.gd/ddXniR
