@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hx4h-676r-j3qp] layui vulnerable to cross-site scripting,https://github.com/advisories/GHSA-hx4h-676r-j3qp,https://da.gd/qUe6
+GithubAdvisories,[GHSA-9x44-9pgq-cf45] avro vulnerable to denial of service via attacker-controlled parameter,https://github.com/advisories/GHSA-9x44-9pgq-cf45,https://da.gd/0rH1u1
+GithubAdvisories,[GHSA-q347-jrx8-5pw9] Admidio vulnerable to Unrestricted Upload of File with Dangerous Type,https://github.com/advisories/GHSA-q347-jrx8-5pw9,https://da.gd/14mTo
