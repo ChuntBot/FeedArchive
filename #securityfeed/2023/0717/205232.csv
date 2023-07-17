@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wmrg-w9vg-7jqx] Magento 2 Community Edition CSRF Vulnerability,https://github.com/advisories/GHSA-wmrg-w9vg-7jqx,https://da.gd/nx30X
+GithubAdvisories,[GHSA-j837-vm6w-6qcv] Magento 2 Community Edition Unsafe File Upload,https://github.com/advisories/GHSA-j837-vm6w-6qcv,https://da.gd/AftXk
+GithubAdvisories,[GHSA-mp9r-rh95-f8f8] Magento 2 Community Edition RCE Vulnerability,https://github.com/advisories/GHSA-mp9r-rh95-f8f8,https://da.gd/3yKhe
+GithubAdvisories,[GHSA-9pgc-rvp9-rqv3] Magento 2 Community Edition Information Disclosure,https://github.com/advisories/GHSA-9pgc-rvp9-rqv3,https://da.gd/8WS16c
+GithubAdvisories,[GHSA-hxmp-jcqj-83hm] Magento 2 Community Edition Injection Vulnerability,https://github.com/advisories/GHSA-hxmp-jcqj-83hm,https://da.gd/UwzM7r
+GithubAdvisories,[GHSA-3pgc-7jf3-5x5g] Magento 2 Community Edition IDOR Vulnerability,https://github.com/advisories/GHSA-3pgc-7jf3-5x5g,https://da.gd/ghlxOw
+GithubAdvisories,[GHSA-w3r8-fxv5-58pp] Magento 2 Community Edition RCE Vulnerability via SSRF,https://github.com/advisories/GHSA-w3r8-fxv5-58pp,https://da.gd/FTr69U
+GithubAdvisories,[GHSA-mw5w-cf76-73m8] Magento 2 Community Edition RCE Vulnerability,https://github.com/advisories/GHSA-mw5w-cf76-73m8,https://da.gd/LmJe
+GithubAdvisories,[GHSA-2x55-mg9r-24f7] Magento 2 Community Edition RCE Vulnerability,https://github.com/advisories/GHSA-2x55-mg9r-24f7,https://da.gd/LxUl1P
+GithubAdvisories,[GHSA-jxp3-mmw7-8285] Magento 2 Community Edition XSS Vulnerability,https://github.com/advisories/GHSA-jxp3-mmw7-8285,https://da.gd/r1qvL
+GithubAdvisories,[GHSA-vqxq-3wqv-r9xp] Magento 2 Community Edition Information Disclosure,https://github.com/advisories/GHSA-vqxq-3wqv-r9xp,https://da.gd/4wYjk5
+GithubAdvisories,[GHSA-274w-2j5w-m2xj] Magento 2 Community Edition Information Disclosure,https://github.com/advisories/GHSA-274w-2j5w-m2xj,https://da.gd/kDxc
+GithubAdvisories,[GHSA-jhvh-mjfg-5m99] Magento 2 Community Edition RCE Vulnerability,https://github.com/advisories/GHSA-jhvh-mjfg-5m99,https://da.gd/Ii2ThT
+GithubAdvisories,[GHSA-mjgf-xmrr-6gvx] Magento 2 Community Edition XSS Vulnerability,https://github.com/advisories/GHSA-mjgf-xmrr-6gvx,https://da.gd/YuXiP
