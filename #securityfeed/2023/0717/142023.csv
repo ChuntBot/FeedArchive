@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7m5c-fgwf-mwph] Spring HATEOAS vulnerable to Improper Neutralization of HTTP Headers for Scripting Syntax,https://github.com/advisories/GHSA-7m5c-fgwf-mwph,https://da.gd/CgbY
+GithubAdvisories,[GHSA-8c6q-26w6-qwhg] Easy!Appointments Improper Access Control vulnerability,https://github.com/advisories/GHSA-8c6q-26w6-qwhg,https://da.gd/BhT9k
