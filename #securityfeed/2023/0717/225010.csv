@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r8g9-w4f3-9crm] LMDB invalid write,https://github.com/advisories/GHSA-r8g9-w4f3-9crm,https://da.gd/3vX1EB
+GithubAdvisories,[GHSA-q95h-vc86-hv77] wolfCrypt leaks cryptographic information via timing side channel,https://github.com/advisories/GHSA-q95h-vc86-hv77,https://da.gd/0XghE
+GithubAdvisories,[GHSA-pm48-cvv2-29q5] Ansible Uses Plugins That Disclose Credentials,https://github.com/advisories/GHSA-pm48-cvv2-29q5,https://da.gd/HvK7FV
