@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r226-w5p8-vvh2] Malware in chart-tablejs,https://github.com/advisories/GHSA-r226-w5p8-vvh2,https://da.gd/YC7sJE
+GithubAdvisories,[GHSA-m5q5-8mfw-p2hr] CasaOS contains weak JWT secrets,https://github.com/advisories/GHSA-m5q5-8mfw-p2hr,https://da.gd/nyZ3
+GithubAdvisories,[GHSA-vjh7-5r6x-xh6g] CasaOS Gateway vulnerable to incorrect identification of source IP addresses,https://github.com/advisories/GHSA-vjh7-5r6x-xh6g,https://da.gd/nyOK
