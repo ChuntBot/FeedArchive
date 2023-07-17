@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x2ph-qqwm-9cc6] CleverTap Cordova plugin vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-x2ph-qqwm-9cc6,https://da.gd/FM1VFm
+GithubAdvisories,[GHSA-vc79-65pr-q82v] rswag vulnerable to arbitrary JSON and YAML file read via directory traversal,https://github.com/advisories/GHSA-vc79-65pr-q82v,https://da.gd/0iBD
