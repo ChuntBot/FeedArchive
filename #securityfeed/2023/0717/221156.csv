@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7xqv-jgv6-x2h8] Magento 2 Community Edition XSS Vulnerability,https://github.com/advisories/GHSA-7xqv-jgv6-x2h8,https://da.gd/IELG4
+GithubAdvisories,[GHSA-6qh6-v99h-vh4c] Magento 2 Community Edition RCE Vulnerability,https://github.com/advisories/GHSA-6qh6-v99h-vh4c,https://da.gd/wfrkB0
+GithubAdvisories,[GHSA-8v75-8jj8-77gf] Magento 2 Community Edition XSS Vulnerability,https://github.com/advisories/GHSA-8v75-8jj8-77gf,https://da.gd/Kzt7o
+GithubAdvisories,[GHSA-v527-6h5r-cfg8] Magento 2 Community Edition Unsafe File Upload,https://github.com/advisories/GHSA-v527-6h5r-cfg8,https://da.gd/Hlg54K
+GithubAdvisories,[GHSA-3ccx-7588-r6c6] Magento 2 Community Edition XSS Vulnerability,https://github.com/advisories/GHSA-3ccx-7588-r6c6,https://da.gd/yOJN1x
+GithubAdvisories,[GHSA-352x-hc2f-fwff] Pimcore RCE via PHAR upload,https://github.com/advisories/GHSA-352x-hc2f-fwff,https://da.gd/xeoK0
+GithubAdvisories,[GHSA-v84j-vh7x-g7j6] Joomla! XSS in Default Templates,https://github.com/advisories/GHSA-v84j-vh7x-g7j6,https://da.gd/ViHTBU
+GithubAdvisories,[GHSA-rfvw-5848-gxc5] Silverstripe Flash Clipboard Reflected XSS,https://github.com/advisories/GHSA-rfvw-5848-gxc5,https://da.gd/bRIB
+GithubAdvisories,[GHSA-hpxv-vpfv-7jc9] Magento 2 Community Edition IDOR Vulnerability,https://github.com/advisories/GHSA-hpxv-vpfv-7jc9,https://da.gd/goI7Pq
+GithubAdvisories,[GHSA-c2gg-rrhc-fvvg] Magento 2 Community Edition Cryptographic Flaw,https://github.com/advisories/GHSA-c2gg-rrhc-fvvg,https://da.gd/KYqt
+GithubAdvisories,[GHSA-7h8v-f2g9-39fx] Magento 2 Community Edition Cryptographic Flaw,https://github.com/advisories/GHSA-7h8v-f2g9-39fx,https://da.gd/6SuRN
+GithubAdvisories,[GHSA-8v9h-m7pj-hx7c] Magento 2 Community Edition Weak PRNG,https://github.com/advisories/GHSA-8v9h-m7pj-hx7c,https://da.gd/K7TChh
+GithubAdvisories,[GHSA-m3v2-r236-5xgq] Magento 2 Community Edition XSS Vulnerability,https://github.com/advisories/GHSA-m3v2-r236-5xgq,https://da.gd/P2qI
+GithubAdvisories,[GHSA-c33v-23rx-7qqc] Magento 2 Community Edition IDOR Vulnerability,https://github.com/advisories/GHSA-c33v-23rx-7qqc,https://da.gd/LfiFnp
+GithubAdvisories,[GHSA-vx2g-f45p-j674] Magento 2 Community Edition XSS Vulnerability,https://github.com/advisories/GHSA-vx2g-f45p-j674,https://da.gd/hEq9
+DebianSecurityNotice,DSA-5455 iperf3,https://www.debian.org/security/2023/dsa-5455,https://da.gd/T7SMl
