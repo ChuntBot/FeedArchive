@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xcgp-c6hp-cj4r] Magento 2 Community Edition Path Disclosure,https://github.com/advisories/GHSA-xcgp-c6hp-cj4r,https://da.gd/iofYZ
+GithubAdvisories,[GHSA-2fhr-f6q6-c4p2] Magento 2 Community Edition Access Control Bypass,https://github.com/advisories/GHSA-2fhr-f6q6-c4p2,https://da.gd/wPGrx
+GithubAdvisories,[GHSA-3mxq-v9rw-m6x9] Magento 2 Community Edition XSS Vulnerability,https://github.com/advisories/GHSA-3mxq-v9rw-m6x9,https://da.gd/4S3B5
+GithubAdvisories,[GHSA-94fc-rxhv-vvf8] Magento 2 Community Edition XSS Vulnerability,https://github.com/advisories/GHSA-94fc-rxhv-vvf8,https://da.gd/8Kfnri
+GithubAdvisories,[GHSA-77mv-p94f-qcq4] Magento 2 Community Edition XSS Vulnerability,https://github.com/advisories/GHSA-77mv-p94f-qcq4,https://da.gd/m8u1uI
+GithubAdvisories,[GHSA-969v-mwp3-4mr3] Magento 2 Community Edition RCE Vulnerability,https://github.com/advisories/GHSA-969v-mwp3-4mr3,https://da.gd/lrhBdA
+GithubAdvisories,[GHSA-3h69-4frw-g2jm] Magento 2 Community Unrestricted File Upload,https://github.com/advisories/GHSA-3h69-4frw-g2jm,https://da.gd/00V9LO
+GithubAdvisories,[GHSA-mr5m-2385-2vcp] xdlocalstorage does not verify request origin,https://github.com/advisories/GHSA-mr5m-2385-2vcp,https://da.gd/LOxg
+GithubAdvisories,[GHSA-h522-94xp-2xr6] Magento 2 Community Edition Information Disclosure,https://github.com/advisories/GHSA-h522-94xp-2xr6,https://da.gd/NgDDD
+GithubAdvisories,[GHSA-f2wx-xjfw-xjv6] topgrade Time-of-check Time-of-use (TOCTOU) Race Condition in remove_dir_all,https://github.com/advisories/GHSA-f2wx-xjfw-xjv6,https://da.gd/oLIic
