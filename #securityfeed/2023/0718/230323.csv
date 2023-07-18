@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xvgx-668j-f67p] Subrion CMS XSS,https://github.com/advisories/GHSA-xvgx-668j-f67p,https://da.gd/v0UpS
+GithubAdvisories,[GHSA-wm4w-8vc6-2j4h] Moodle XSS Vulnerability,https://github.com/advisories/GHSA-wm4w-8vc6-2j4h,https://da.gd/Mrt4
+GithubAdvisories,[GHSA-qrcj-6fjw-3h9h] Moodle XSS Vulnerability,https://github.com/advisories/GHSA-qrcj-6fjw-3h9h,https://da.gd/I1ts3
+GithubAdvisories,[GHSA-rv62-6f56-j83w] Moodle Oauth 2 Insufficiently Protects Against Compromise,https://github.com/advisories/GHSA-rv62-6f56-j83w,https://da.gd/Cs93
+GithubAdvisories,[GHSA-pj65-3pf6-c5q4] python-apt Does Not Check Hash Signature,https://github.com/advisories/GHSA-pj65-3pf6-c5q4,https://da.gd/j1EXv
+GithubAdvisories,[GHSA-rp8m-h266-53jh] python-apt Flawed Package Integrity Check,https://github.com/advisories/GHSA-rp8m-h266-53jh,https://da.gd/enVCV
