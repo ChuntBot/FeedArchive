@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j2w4-45qm-r674] direct_mail for Typo3 sensitive data exposure,https://github.com/advisories/GHSA-j2w4-45qm-r674,https://da.gd/2PSS2y
+GithubAdvisories,[GHSA-hcpv-xh8q-f3vq] url_redirect for Typo3 SQLi Vulnerability,https://github.com/advisories/GHSA-hcpv-xh8q-f3vq,https://da.gd/aQOEg
+GithubAdvisories,[GHSA-m88m-crr9-jvqq] OpenRefine vulnerable to zip slip in project import,https://github.com/advisories/GHSA-m88m-crr9-jvqq,https://da.gd/OrGygk
+GithubAdvisories,[GHSA-598p-rv6p-g7qc] sr_freecap for Typo3 RCE Vulnerability,https://github.com/advisories/GHSA-598p-rv6p-g7qc,https://da.gd/c5tiRV
+GithubAdvisories,[GHSA-3264-65pg-5xm4] Dolibarr ERP and CRM HTML Injection,https://github.com/advisories/GHSA-3264-65pg-5xm4,https://da.gd/8Tev
+GithubAdvisories,[GHSA-65p8-5423-fw3x] Pimcore XSS Vulnerability,https://github.com/advisories/GHSA-65p8-5423-fw3x,https://da.gd/Jhu4s5
+GithubAdvisories,[GHSA-vghm-8cjp-hjw6] postgraas-server vulnerable to SQL injection,https://github.com/advisories/GHSA-vghm-8cjp-hjw6,https://da.gd/N1epI4
+GithubAdvisories,[GHSA-8p5c-f836-m4h7] Magento 2 Community Edition XML Injection,https://github.com/advisories/GHSA-8p5c-f836-m4h7,https://da.gd/M3DinP
+GithubAdvisories,[GHSA-jjmg-xmq2-g6ff] Magento 2 Community Edition XSS Vulnerability,https://github.com/advisories/GHSA-jjmg-xmq2-g6ff,https://da.gd/t2Ii
+GithubAdvisories,[GHSA-v8fg-p27h-mxjp] Magento 2 Community Edition XSS Vulnerability,https://github.com/advisories/GHSA-v8fg-p27h-mxjp,https://da.gd/wjnxD3
+GithubAdvisories,[GHSA-6m27-3r8q-c7f7] Magento 2 Community Edition XSS Vulnerability,https://github.com/advisories/GHSA-6m27-3r8q-c7f7,https://da.gd/WMUH
+GithubAdvisories,[GHSA-vpg9-gq7j-mxqg] Magento 2 Community Edition RCE Vulnerability,https://github.com/advisories/GHSA-vpg9-gq7j-mxqg,https://da.gd/LQHU1
+GithubAdvisories,[GHSA-9wr9-fw9v-8fgr] Magento 2 Community Edition RCE Vulnerability,https://github.com/advisories/GHSA-9wr9-fw9v-8fgr,https://da.gd/vjuB2
+GithubAdvisories,[GHSA-xgcp-59g2-wm8g] Magento 2 Community Edition Insecure Component,https://github.com/advisories/GHSA-xgcp-59g2-wm8g,https://da.gd/3N9A0
+GithubAdvisories,[GHSA-fp5m-4mqh-849p] Magento 2 Community Edition Insufficient Logging,https://github.com/advisories/GHSA-fp5m-4mqh-849p,https://da.gd/y3KT
+GithubAdvisories,[GHSA-vx7m-v8v2-fhwm] Magento 2 Community Edition XSS Vulnerability,https://github.com/advisories/GHSA-vx7m-v8v2-fhwm,https://da.gd/S5WFsZ
+GithubAdvisories,[GHSA-g378-6fg4-gx3v] Magento 2 Community Edition XSS Vulnerability,https://github.com/advisories/GHSA-g378-6fg4-gx3v,https://da.gd/7f5fz
+GithubAdvisories,[GHSA-5v5p-x8c2-mqxp] Magento 2 Community Edition RCE Vulnerability,https://github.com/advisories/GHSA-5v5p-x8c2-mqxp,https://da.gd/40Bc
