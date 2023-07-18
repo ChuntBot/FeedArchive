@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-83m8-7hj8-ff5w] Pebble Templates contains Improper Input Validation,https://github.com/advisories/GHSA-83m8-7hj8-ff5w,https://da.gd/jtBM8q
+GithubAdvisories,[GHSA-2j23-fwqm-mgwr] OpenStack Keystone Credential Leakage,https://github.com/advisories/GHSA-2j23-fwqm-mgwr,https://da.gd/0KZeVa
+GithubAdvisories,[GHSA-p84x-5xx8-hff9] bson-objectid contains Improper input validation,https://github.com/advisories/GHSA-p84x-5xx8-hff9,https://da.gd/zyWL5
+GithubAdvisories,[GHSA-mj73-5x75-9phh] Singularity insecure permissions,https://github.com/advisories/GHSA-mj73-5x75-9phh,https://da.gd/TFTYI
