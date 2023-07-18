@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3rw2-wfc8-wmj5] Fides Webserver Vulnerable to SVG Bomb File Uploads,https://github.com/advisories/GHSA-3rw2-wfc8-wmj5,https://da.gd/Qm0Fwa
+GithubAdvisories,[GHSA-g95c-2jgm-hqc6] Fides Webserver Vulnerable to Zip Bomb File Uploads,https://github.com/advisories/GHSA-g95c-2jgm-hqc6,https://da.gd/1wBZj
+GithubAdvisories,[GHSA-c7xw-p58w-h6fj] Keycloak: Impersonation and lockout possible through incorrect handling of email trust,https://github.com/advisories/GHSA-c7xw-p58w-h6fj,https://da.gd/lWiY
+GithubAdvisories,[GHSA-p9xf-74xh-mhw5] 1Panel command injection vulnerability in Firewall ip functionality,https://github.com/advisories/GHSA-p9xf-74xh-mhw5,https://da.gd/adFHO
