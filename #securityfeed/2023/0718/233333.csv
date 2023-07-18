@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5mh2-82g9-72jv] Subrion CMS CSRF Vulnerability,https://github.com/advisories/GHSA-5mh2-82g9-72jv,https://da.gd/kWr2
+GithubAdvisories,[GHSA-6hvf-xvwm-vrw4] XMLTooling Library Incorrectly Handles Some Exceptions,https://github.com/advisories/GHSA-6hvf-xvwm-vrw4,https://da.gd/AkcGkN
+GithubAdvisories,[GHSA-m6pr-xcrm-4qqp] XSS in Ignite Realtime Openfire via isTrustStore,https://github.com/advisories/GHSA-m6pr-xcrm-4qqp,https://da.gd/jujG
