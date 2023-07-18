@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cvcf-w75c-gw5r] Mulesoft Mule Unsafe Deserialization,https://github.com/advisories/GHSA-cvcf-w75c-gw5r,https://da.gd/L3om
+GithubAdvisories,[GHSA-9fq2-x9r6-wfmf] Numpy Deserialization of Untrusted Data,https://github.com/advisories/GHSA-9fq2-x9r6-wfmf,https://da.gd/uLMK6
+GithubAdvisories,[GHSA-653q-vqm6-gmjm] Magento 2 Community Edition Arbitrary File Deletion,https://github.com/advisories/GHSA-653q-vqm6-gmjm,https://da.gd/RaECW
+GithubAdvisories,[GHSA-56hf-w8gm-448q] Magento 2 Community Edition XSS Vulnerability,https://github.com/advisories/GHSA-56hf-w8gm-448q,https://da.gd/MecW
+GithubAdvisories,[GHSA-2cg3-w597-rjfv] Magento 2 Community Edition Arbitrary File Deletion,https://github.com/advisories/GHSA-2cg3-w597-rjfv,https://da.gd/Zifm
+GithubAdvisories,[GHSA-x72m-p4qc-p7rv] Magento 2 Community Edition RCE Vulnerability via CSRF,https://github.com/advisories/GHSA-x72m-p4qc-p7rv,https://da.gd/X6ew0
+GithubAdvisories,[GHSA-gfcq-wh3g-c6h4] Magento 2 Community Edition RCE Vulnerability,https://github.com/advisories/GHSA-gfcq-wh3g-c6h4,https://da.gd/hwfL
+GithubAdvisories,[GHSA-2crc-5vq6-386r] Magento 2 Community Edition RCE Vulnerability,https://github.com/advisories/GHSA-2crc-5vq6-386r,https://da.gd/Ecjbq
+GithubAdvisories,[GHSA-c4r2-3f9r-rwp8] Magento 2 Community Weak PRNG,https://github.com/advisories/GHSA-c4r2-3f9r-rwp8,https://da.gd/VTQY5
+GithubAdvisories,[GHSA-crv7-r357-gw3w] Magento 2 Community Edition RCE Vulnerability,https://github.com/advisories/GHSA-crv7-r357-gw3w,https://da.gd/EjiJ3
+GithubAdvisories,[GHSA-p9vf-4jx2-5hpp] Magento 2 Community Edition Security Bypass,https://github.com/advisories/GHSA-p9vf-4jx2-5hpp,https://da.gd/B9ux0o
+GithubAdvisories,[GHSA-p783-gj6m-9r88] Magento 2 Community Edition RCE Vulnerability,https://github.com/advisories/GHSA-p783-gj6m-9r88,https://da.gd/iUss1D
