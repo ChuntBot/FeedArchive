@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4r8x-2p26-976p] goproxy Denial of Service vulnerability,https://github.com/advisories/GHSA-4r8x-2p26-976p,https://da.gd/wUVExy
+GithubAdvisories,[GHSA-9436-3gmp-4f53] grav Server-side Template Injection (SSTI) mitigation bypass,https://github.com/advisories/GHSA-9436-3gmp-4f53,https://da.gd/GejlW
+GithubAdvisories,[GHSA-4vpr-xfrp-cj64] Spring Security's authorization rules can be misconfigured when using multiple servlets,https://github.com/advisories/GHSA-4vpr-xfrp-cj64,https://da.gd/lYPx
+GithubAdvisories,[GHSA-f9g6-fp84-fv92] impl `FromMdbValue` for bool is unsound,https://github.com/advisories/GHSA-f9g6-fp84-fv92,https://da.gd/MxQx9
+GithubAdvisories,[GHSA-c5vj-wp4v-mmvx] Hazelcast Executor Services don't check client permissions properly,https://github.com/advisories/GHSA-c5vj-wp4v-mmvx,https://da.gd/nmr7
