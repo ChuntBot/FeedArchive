@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fx37-56v6-85q6] Silverstripe CSRF Protection Bypass via GraphQL,https://github.com/advisories/GHSA-fx37-56v6-85q6,https://da.gd/NtMIK1
+GithubAdvisories,[GHSA-g6r3-hhg9-qf58] component-flatten vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-g6r3-hhg9-qf58,https://da.gd/bWIc3L
+GithubAdvisories,[GHSA-jh3j-xfv2-f9m9] Dolibarr ERP and CRM SQLi,https://github.com/advisories/GHSA-jh3j-xfv2-f9m9,https://da.gd/1miB
+GithubAdvisories,[GHSA-87r3-4gc8-f897] Dolibarr ERP and CRM contain XSS Vulnerability,https://github.com/advisories/GHSA-87r3-4gc8-f897,https://da.gd/VyPFQ
+GithubAdvisories,[GHSA-gfhf-2xr5-2fvw] Dolibarr ERP and CRM contain XSS Vulnerability,https://github.com/advisories/GHSA-gfhf-2xr5-2fvw,https://da.gd/4xySM
+GithubAdvisories,[GHSA-9jf6-wq34-fg9w] Moodle XSS Vulnerability,https://github.com/advisories/GHSA-9jf6-wq34-fg9w,https://da.gd/ybIZA5
