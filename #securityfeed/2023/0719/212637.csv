@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wr5c-4f2h-28m6] Croogo XSS,https://github.com/advisories/GHSA-wr5c-4f2h-28m6,https://da.gd/PSVlW
+GithubAdvisories,[GHSA-v6q8-8wgx-8hm7] Croogo XSS,https://github.com/advisories/GHSA-v6q8-8wgx-8hm7,https://da.gd/uih30o
+GithubAdvisories,[GHSA-9f9r-w3xq-f722] Croogo XSS,https://github.com/advisories/GHSA-9f9r-w3xq-f722,https://da.gd/LGsdzH
+GithubAdvisories,[GHSA-66x7-2r56-fj77] Buildbot CRLF Injection,https://github.com/advisories/GHSA-66x7-2r56-fj77,https://da.gd/Us6zVX
+GithubAdvisories,[GHSA-3cwc-m7c2-qr86] mPDF Unsafe Deserialization,https://github.com/advisories/GHSA-3cwc-m7c2-qr86,https://da.gd/881RD
+GithubAdvisories,[GHSA-xrxm-mvqm-r553] Helm Path Traversal,https://github.com/advisories/GHSA-xrxm-mvqm-r553,https://da.gd/dJkCLF
+GithubAdvisories,[GHSA-fx98-8w93-4mxr] Snipe-IT XSS Vulnerability,https://github.com/advisories/GHSA-fx98-8w93-4mxr,https://da.gd/9Jft4
+GithubAdvisories,[GHSA-r6h7-846c-8m78] Elgg open redirect,https://github.com/advisories/GHSA-r6h7-846c-8m78,https://da.gd/DD1o
+GithubAdvisories,[GHSA-vjxx-54vw-q59f] Moodle SSRF Vulnerability,https://github.com/advisories/GHSA-vjxx-54vw-q59f,https://da.gd/plThXs
+GithubAdvisories,[GHSA-pfg4-p438-p874] Laravel Framework Deserialization Vulnerability,https://github.com/advisories/GHSA-pfg4-p438-p874,https://da.gd/vhAiK
