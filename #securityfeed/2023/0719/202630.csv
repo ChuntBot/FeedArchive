@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3w4v-qfqc-3433] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-3w4v-qfqc-3433,https://da.gd/Nk0eXE
+GithubAdvisories,[GHSA-6x4f-5v4h-r29j] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-6x4f-5v4h-r29j,https://da.gd/OzjzXf
+GithubAdvisories,[GHSA-2m5h-6g38-jjf2] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-2m5h-6g38-jjf2,https://da.gd/bkX7k
+GithubAdvisories,[GHSA-jrqm-v8cv-53ww] Matrix Synapse Predictable Secret Key,https://github.com/advisories/GHSA-jrqm-v8cv-53ww,https://da.gd/HiI92
+GithubAdvisories,[GHSA-5fh8-x9xc-hxmc] irisnet-crypto RCE Vulnerability,https://github.com/advisories/GHSA-5fh8-x9xc-hxmc,https://da.gd/eJ24S
+GithubAdvisories,[GHSA-2cvf-r9jm-4qm9] Ceilometer Prints Sensitive Configuration Data to Log,https://github.com/advisories/GHSA-2cvf-r9jm-4qm9,https://da.gd/zfzzJV
+GithubAdvisories,[GHSA-3qr5-h7w4-3gx3] Donfig Command Execution,https://github.com/advisories/GHSA-3qr5-h7w4-3gx3,https://da.gd/Dllev
+GithubAdvisories,[GHSA-4r2p-wpv5-683w] Moodle XSS Vulnerability,https://github.com/advisories/GHSA-4r2p-wpv5-683w,https://da.gd/KdffK
+GithubAdvisories,[GHSA-jgwg-35hf-xqrr] OpenShift OAuth Server XSS Vulnerability,https://github.com/advisories/GHSA-jgwg-35hf-xqrr,https://da.gd/NYhE8m
