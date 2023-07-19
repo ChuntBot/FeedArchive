@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-443j-6p7g-6v4w] OpenStack Mistral DoS,https://github.com/advisories/GHSA-443j-6p7g-6v4w,https://da.gd/iqWZiq
+GithubAdvisories,[GHSA-2cjc-rgmp-x649] Traefik Missing Authentication,https://github.com/advisories/GHSA-2cjc-rgmp-x649,https://da.gd/OTUfz
+GithubAdvisories,[GHSA-7gfx-wxfh-7rvm] Smarty Path Traversal Vulnerability,https://github.com/advisories/GHSA-7gfx-wxfh-7rvm,https://da.gd/foqjdY
