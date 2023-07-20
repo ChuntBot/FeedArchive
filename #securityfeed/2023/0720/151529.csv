@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g4wg-cfpf-9689] keylime fails to flag device as untrusted when signature does not validate,https://github.com/advisories/GHSA-g4wg-cfpf-9689,https://da.gd/qrW6t
+GithubAdvisories,[GHSA-hhr9-rh25-hvf9] Feathers socket handler allows abusing implicit toString,https://github.com/advisories/GHSA-hhr9-rh25-hvf9,https://da.gd/BgwOVd
+GithubAdvisories,[GHSA-45c4-8wx5-qw6w] aiohttp.web.Application vulnerable to HTTP request smuggling via llhttp HTTP request parser,https://github.com/advisories/GHSA-45c4-8wx5-qw6w,https://da.gd/FYk2V3
+GithubAdvisories,[GHSA-ch37-ch8w-cfrq] Bookstack Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-ch37-ch8w-cfrq,https://da.gd/Kl5uUn
