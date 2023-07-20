@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m2p5-fwp2-qcw2] Yii Framework Code Injection,https://github.com/advisories/GHSA-m2p5-fwp2-qcw2,https://da.gd/ujwIl
+GithubAdvisories,[GHSA-f24j-f97w-65h8] Centreon Privilege Escalation,https://github.com/advisories/GHSA-f24j-f97w-65h8,https://da.gd/1EXl5
+GithubAdvisories,[GHSA-p3x5-5xpx-9phm] Kubernetes ingress exposes sensitive information,https://github.com/advisories/GHSA-p3x5-5xpx-9phm,https://da.gd/PqKvUV
+GithubAdvisories,[GHSA-g8j7-w673-4mjp] Subrion CMS CSRF Vulnerability,https://github.com/advisories/GHSA-g8j7-w673-4mjp,https://da.gd/c2nPXz
+GithubAdvisories,[GHSA-xj7v-c82w-92q2] Argo Exposure of Sensitive Information,https://github.com/advisories/GHSA-xj7v-c82w-92q2,https://da.gd/YFp5xV
