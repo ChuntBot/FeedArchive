@@ -1,0 +1,30 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-96mh-7xpr-qcgw] October CMS XSS,https://github.com/advisories/GHSA-96mh-7xpr-qcgw,https://da.gd/QYGA
+GithubAdvisories,[GHSA-wgw2-wwq8-c7wf] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-wgw2-wwq8-c7wf,https://da.gd/Yjqk5t
+GithubAdvisories,[GHSA-6g23-fww6-rfrj] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-6g23-fww6-rfrj,https://da.gd/MUJEBE
+GithubAdvisories,[GHSA-j67m-wpv6-pv44] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-j67m-wpv6-pv44,https://da.gd/rkRNK
+GithubAdvisories,[GHSA-788w-269g-j92q] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-788w-269g-j92q,https://da.gd/2XyOjH
+GithubAdvisories,[GHSA-6xmv-mx7q-789r] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-6xmv-mx7q-789r,https://da.gd/06FK3R
+GithubAdvisories,[GHSA-pcgp-vfgq-mf5j] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-pcgp-vfgq-mf5j,https://da.gd/7pZ8yC
+GithubAdvisories,[GHSA-4c93-q79v-mw45] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-4c93-q79v-mw45,https://da.gd/48u4j
+GithubAdvisories,[GHSA-mm5q-x9qg-x4vp] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-mm5q-x9qg-x4vp,https://da.gd/WbiE
+GithubAdvisories,[GHSA-xxp7-423f-hcp4] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-xxp7-423f-hcp4,https://da.gd/PIvXs
+GithubAdvisories,[GHSA-fw42-4mq4-4qpq] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-fw42-4mq4-4qpq,https://da.gd/9XFlMp
+GithubAdvisories,[GHSA-2589-r26x-mh8p] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-2589-r26x-mh8p,https://da.gd/aPhY8
+GithubAdvisories,[GHSA-fmqq-25x9-c6hm] Indico vulnerable to Cross-Site-Scripting via confirmation prompts,https://github.com/advisories/GHSA-fmqq-25x9-c6hm,https://da.gd/8jsaNw
+GithubAdvisories,[GHSA-p37h-rg3w-23wx] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-p37h-rg3w-23wx,https://da.gd/5dbED
+GithubAdvisories,[GHSA-ghg2-3w9x-9599] Alkacon OpenCMS arbitrary file upload vulnerability,https://github.com/advisories/GHSA-ghg2-3w9x-9599,https://da.gd/EBAmPb
+GithubAdvisories,[GHSA-45g2-r339-pjwf] Cockpit CMS Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-45g2-r339-pjwf,https://da.gd/LWdUTD
+GithubAdvisories,[GHSA-cw7j-v52w-fp5r] copyparty vulnerable to reflected cross-site scripting via hc parameter,https://github.com/advisories/GHSA-cw7j-v52w-fp5r,https://da.gd/6BCVQh
+GithubAdvisories,[GHSA-vjf9-8wqg-xc7r] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-vjf9-8wqg-xc7r,https://da.gd/3N3FPg
+GithubAdvisories,[GHSA-vwqh-cmvp-6694] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-vwqh-cmvp-6694,https://da.gd/afarx7
+GithubAdvisories,[GHSA-p4ww-j4pr-qw6q] RuoYi vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-p4ww-j4pr-qw6q,https://da.gd/CS0KqS
+GithubAdvisories,[GHSA-r87r-982q-2c3q] Pimcore vulnerable to Exposure of Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-r87r-982q-2c3q,https://da.gd/qZMXI
+GithubAdvisories,[GHSA-c9hw-557q-f8hq] Pimcore vulnerable to SQL Injection in Dataobjects sorting,https://github.com/advisories/GHSA-c9hw-557q-f8hq,https://da.gd/mBrzNm
+GithubAdvisories,[GHSA-87f6-8gr7-pc6h] KubePi may leak password hash of any user,https://github.com/advisories/GHSA-87f6-8gr7-pc6h,https://da.gd/C5cNR
+GithubAdvisories,[GHSA-4f79-fxh8-vgq2] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-4f79-fxh8-vgq2,https://da.gd/160Bi
+GithubAdvisories,[GHSA-757p-vx43-fp9r] KubePi Privilege Escalation vulnerability,https://github.com/advisories/GHSA-757p-vx43-fp9r,https://da.gd/X8pFhE
+GithubAdvisories,[GHSA-78q2-cv3p-x9fm] Pimcore Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-78q2-cv3p-x9fm,https://da.gd/oq7KLq
+GithubAdvisories,[GHSA-vmpv-qjhq-r463] Pimcore Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-vmpv-qjhq-r463,https://da.gd/CMXB18
+GithubAdvisories,[GHSA-59m6-82qm-vqgj] Dapr API token authentication bypass in HTTP endpoints,https://github.com/advisories/GHSA-59m6-82qm-vqgj,https://da.gd/d5Ety
+GithubAdvisories,[GHSA-gxxx-j8m7-hh7m] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-gxxx-j8m7-hh7m,https://da.gd/AwsJKO
