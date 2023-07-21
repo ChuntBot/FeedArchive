@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5jxp-4x68-mhqc] Centreon SQL Injection,https://github.com/advisories/GHSA-5jxp-4x68-mhqc,https://da.gd/0cscU2
+GithubAdvisories,[GHSA-w2xf-4gg9-87wr] Centreon allows SNMP trap SQL Injection,https://github.com/advisories/GHSA-w2xf-4gg9-87wr,https://da.gd/7MFD8U
+GithubAdvisories,[GHSA-7g3c-hrc6-5v4j] Centreon XSS Vulnerability,https://github.com/advisories/GHSA-7g3c-hrc6-5v4j,https://da.gd/i0mI3
+GithubAdvisories,[GHSA-v8wm-g9f2-xjv4] Matrix Synapse Security Filtering Flaw,https://github.com/advisories/GHSA-v8wm-g9f2-xjv4,https://da.gd/JHn5C
+GithubAdvisories,[GHSA-3qh2-mccc-q5m6] Keycloak Open Redirect,https://github.com/advisories/GHSA-3qh2-mccc-q5m6,https://da.gd/cmMbl
+GithubAdvisories,[GHSA-458h-wv48-fq75] Keycloak XSS Vulnerability,https://github.com/advisories/GHSA-458h-wv48-fq75,https://da.gd/GYJe
