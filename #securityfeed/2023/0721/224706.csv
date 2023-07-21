@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fv8m-p45w-gf38] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-fv8m-p45w-gf38,https://da.gd/YLNaw2
+GithubAdvisories,[GHSA-m899-6mh4-mpc5] MODX Revolution Incorrect Access Control vulnerability,https://github.com/advisories/GHSA-m899-6mh4-mpc5,https://da.gd/bDdMU
+GithubAdvisories,[GHSA-f88q-22g8-frcg] Cobbler Improper Validation of Security Tokens,https://github.com/advisories/GHSA-f88q-22g8-frcg,https://da.gd/sr7Pg
+GithubAdvisories,[GHSA-574p-6fw4-4hw8] Pulp Improper Path Parsing,https://github.com/advisories/GHSA-574p-6fw4-4hw8,https://da.gd/Wzgqg
+GithubAdvisories,[GHSA-p97q-j98q-f98w] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-p97q-j98q-f98w,https://da.gd/u9kM
+GithubAdvisories,[GHSA-jgj7-hq9p-rqmg] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-jgj7-hq9p-rqmg,https://da.gd/cdty1q
+GithubAdvisories,[GHSA-67x3-36j7-pj4g] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-67x3-36j7-pj4g,https://da.gd/DPE1CT
+GithubAdvisories,[GHSA-ggvv-6v25-r49r] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-ggvv-6v25-r49r,https://da.gd/yUwh
+GithubAdvisories,[GHSA-p349-q795-qj4q] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-p349-q795-qj4q,https://da.gd/JHFy
+GithubAdvisories,[GHSA-85j8-g29g-m326] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-85j8-g29g-m326,https://da.gd/Zknzx
+GithubAdvisories,[GHSA-gxcf-6h72-8gxf] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-gxcf-6h72-8gxf,https://da.gd/1ciWX
+GithubAdvisories,[GHSA-38r7-rv5p-ggwq] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-38r7-rv5p-ggwq,https://da.gd/BzU1
+GithubAdvisories,[GHSA-h8jq-5737-hpcf] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-h8jq-5737-hpcf,https://da.gd/bzrHWs
+GithubAdvisories,[GHSA-vgxq-xv7f-jxjx] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-vgxq-xv7f-jxjx,https://da.gd/3kIsx9
+GithubAdvisories,[GHSA-2jq6-ffph-p4h8] Kubernetes arbitrary file overwrite,https://github.com/advisories/GHSA-2jq6-ffph-p4h8,https://da.gd/eL5OBw
+GithubAdvisories,[GHSA-6pcv-qqx4-mxm3] Minikube RCE via DNS Rebinding,https://github.com/advisories/GHSA-6pcv-qqx4-mxm3,https://da.gd/uzNi3
+GithubAdvisories,[GHSA-hxcw-pqqc-rv85] Anchor CMS Logs Credentials,https://github.com/advisories/GHSA-hxcw-pqqc-rv85,https://da.gd/ujTXG
