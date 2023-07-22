@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qvqm-h22r-4cp9] Laravel Framework RCE Vulnerability,https://github.com/advisories/GHSA-qvqm-h22r-4cp9,https://da.gd/WvTAxA
+GithubAdvisories,[GHSA-79hg-357g-rrgv] Centreon SQL Injection,https://github.com/advisories/GHSA-79hg-357g-rrgv,https://da.gd/EW33u
+GithubAdvisories,[GHSA-8vh5-j6xj-5953] Centreon XSS Vulnerability,https://github.com/advisories/GHSA-8vh5-j6xj-5953,https://da.gd/ZlP8
+GithubAdvisories,[GHSA-ch5v-fhg8-7gv9] Matrix Synapse Authorization Error,https://github.com/advisories/GHSA-ch5v-fhg8-7gv9,https://da.gd/AZdf
+GithubAdvisories,[GHSA-g4g7-q726-v5hg] Symfony CSRF Token Fixation,https://github.com/advisories/GHSA-g4g7-q726-v5hg,https://da.gd/2tyAmR
+GithubAdvisories,[GHSA-4x32-h296-rg6j] Singularity Incorrect Access Control,https://github.com/advisories/GHSA-4x32-h296-rg6j,https://da.gd/eq4z
