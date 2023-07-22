@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+FreeBSDSecurityNotice,FreeBSD-SA-23:05.openssh,https://www.freebsd.org/security/advisories/FreeBSD-SA-23:05.openssh.asc,https://da.gd/rGzSq
+FreeBSDSecurityNotice,FreeBSD-SA-23:04.pam_krb5,https://www.freebsd.org/security/advisories/FreeBSD-SA-23:04.pam_krb5.asc,https://da.gd/jQsQ
+FreeBSDSecurityNotice,FreeBSD-SA-23:03.openssl,https://www.freebsd.org/security/advisories/FreeBSD-SA-23:03.openssl.asc,https://da.gd/zSxu7H
+FreeBSDSecurityNotice,FreeBSD-SA-23:02.openssh,https://www.freebsd.org/security/advisories/FreeBSD-SA-23:02.openssh.asc,https://da.gd/eEEx
+FreeBSDSecurityNotice,FreeBSD-SA-23:01.geli,https://www.freebsd.org/security/advisories/FreeBSD-SA-23:01.geli.asc,https://da.gd/yl91F
+FreeBSDSecurityNotice,FreeBSD-SA-22:15.ping,https://www.freebsd.org/security/advisories/FreeBSD-SA-22:15.ping.asc,https://da.gd/cAiGF
+FreeBSDSecurityNotice,FreeBSD-SA-22:14.heimdal,https://www.freebsd.org/security/advisories/FreeBSD-SA-22:14.heimdal.asc,https://da.gd/FTaluJ
+FreeBSDSecurityNotice,FreeBSD-SA-22:13.zlib,https://www.freebsd.org/security/advisories/FreeBSD-SA-22:13.zlib.asc,https://da.gd/hhoF9
+FreeBSDSecurityNotice,FreeBSD-SA-22:12.lib9p,https://www.freebsd.org/security/advisories/FreeBSD-SA-22:12.lib9p.asc,https://da.gd/Jb64
+FreeBSDSecurityNotice,FreeBSD-SA-22:11.vm,https://www.freebsd.org/security/advisories/FreeBSD-SA-22:11.vm.asc,https://da.gd/PIp4uH
