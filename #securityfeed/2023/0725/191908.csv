@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-66p6-7p29-55p9] Symfony Host Header Injection,https://github.com/advisories/GHSA-66p6-7p29-55p9,https://da.gd/N75d
+GithubAdvisories,[GHSA-86pw-4rqp-6x7v] Apache InLong: General user can delete and update process,https://github.com/advisories/GHSA-86pw-4rqp-6x7v,https://da.gd/VKBiot
+GithubAdvisories,[GHSA-m8fw-p3cr-6jqc] Cross-Site Scripting in CKEditor4 WordCount Plugin,https://github.com/advisories/GHSA-m8fw-p3cr-6jqc,https://da.gd/TlIM2
+GithubAdvisories,[GHSA-gmff-vcv6-mmfr] Pimcore CSRF Vulnerability,https://github.com/advisories/GHSA-gmff-vcv6-mmfr,https://da.gd/wH96g
+GithubAdvisories,[GHSA-q4hw-c66h-4xqc] Pimcore SQLi Vulnerability,https://github.com/advisories/GHSA-q4hw-c66h-4xqc,https://da.gd/HznGo6
+GithubAdvisories,[GHSA-88fh-8979-q2rr] Angular Redactor XSS Vulnerability,https://github.com/advisories/GHSA-88fh-8979-q2rr,https://da.gd/1CloF
