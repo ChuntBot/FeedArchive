@@ -1,0 +1,29 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p83v-8vmr-qfv9] Sylabs Singularity Improper Input Validation,https://github.com/advisories/GHSA-p83v-8vmr-qfv9,https://da.gd/M4Vm
+GithubAdvisories,[GHSA-f6fv-fjg8-4m6w] OpenRefine Directory Traversal,https://github.com/advisories/GHSA-f6fv-fjg8-4m6w,https://da.gd/D2Qb
+GithubAdvisories,[GHSA-c8qc-cp8v-prpx] Centreon RCE Vulnerability,https://github.com/advisories/GHSA-c8qc-cp8v-prpx,https://da.gd/1LbMm
+GithubAdvisories,[GHSA-gqgv-2gp3-qqp3] WeChat Pay Java SDK allows XXE,https://github.com/advisories/GHSA-gqgv-2gp3-qqp3,https://da.gd/v5nno
+GithubAdvisories,[GHSA-c8mg-wp7h-f2pf] Subrion CMS XSS,https://github.com/advisories/GHSA-c8mg-wp7h-f2pf,https://da.gd/7487Jr
+GithubAdvisories,[GHSA-rfhg-rjfp-9q8q] Potential denial of service after connection migration,https://github.com/advisories/GHSA-rfhg-rjfp-9q8q,https://da.gd/hVDS
+GithubAdvisories,[GHSA-pwjq-6wrh-5w8q] OnionShare Predictable Pathname,https://github.com/advisories/GHSA-pwjq-6wrh-5w8q,https://da.gd/6XSlZ7
+GithubAdvisories,[GHSA-xx67-2j3v-h76p] PrestaShop PHP Object Injection,https://github.com/advisories/GHSA-xx67-2j3v-h76p,https://da.gd/QfJm
+GithubAdvisories,[GHSA-mxv3-qcmf-r6wj] Subrion CMS XSS,https://github.com/advisories/GHSA-mxv3-qcmf-r6wj,https://da.gd/e8uUa
+GithubAdvisories,[GHSA-3gq5-r59m-mmv2] Kirby XSS Vulnerability,https://github.com/advisories/GHSA-3gq5-r59m-mmv2,https://da.gd/VNeo
+GithubAdvisories,[GHSA-g4rg-rw65-8hfg] Symfony Session Fixation Vulnerability,https://github.com/advisories/GHSA-g4rg-rw65-8hfg,https://da.gd/xkzRH
+GithubAdvisories,[GHSA-m6w9-8cxc-jff7] DNN XSS Vulnerability,https://github.com/advisories/GHSA-m6w9-8cxc-jff7,https://da.gd/VrnNe
+GithubAdvisories,[GHSA-4fwh-r866-pvh9] LibreNMS SQL Injection,https://github.com/advisories/GHSA-4fwh-r866-pvh9,https://da.gd/LBRLTt
+GithubAdvisories,[GHSA-xmcr-x5x3-gjfx] Microweber XSS Vulnerability,https://github.com/advisories/GHSA-xmcr-x5x3-gjfx,https://da.gd/mBbrc
+GithubAdvisories,[GHSA-x5fh-fvvr-892f] Grafana XSS Vulnerability,https://github.com/advisories/GHSA-x5fh-fvvr-892f,https://da.gd/U2Epw
+GithubAdvisories,[GHSA-p6m5-x83r-hqmr] Flarum Core Leaks PII,https://github.com/advisories/GHSA-p6m5-x83r-hqmr,https://da.gd/0TE0
+GithubAdvisories,[GHSA-wrrj-r2j4-969w] Umbraco CMS vulnerable to stored XSS,https://github.com/advisories/GHSA-wrrj-r2j4-969w,https://da.gd/WFbw5X
+GithubAdvisories,[GHSA-3p87-gqw8-4pf2] Showdoc CSRF Vulnerability,https://github.com/advisories/GHSA-3p87-gqw8-4pf2,https://da.gd/oP6weF
+GithubAdvisories,[GHSA-pfrc-5hhq-6hvr] Showdoc Unauthenticated Access,https://github.com/advisories/GHSA-pfrc-5hhq-6hvr,https://da.gd/KvYSS
+GithubAdvisories,[GHSA-xphq-3x6q-q2qq] ChakraCore information disclosure vulnerability,https://github.com/advisories/GHSA-xphq-3x6q-q2qq,https://da.gd/H6ULI
+GithubAdvisories,[GHSA-w3qr-8v4r-592m] ChakraCore information disclosure vulnerability,https://github.com/advisories/GHSA-w3qr-8v4r-592m,https://da.gd/FFCzOc
+GithubAdvisories,[GHSA-wg47-6cqc-q52j] ChakraCore Security Bypass,https://github.com/advisories/GHSA-wg47-6cqc-q52j,https://da.gd/Dd8dP
+GithubAdvisories,[GHSA-fmvh-rvq5-hhjx] Matrix Synapse Improper Signature Validation,https://github.com/advisories/GHSA-fmvh-rvq5-hhjx,https://da.gd/WRmLM
+GithubAdvisories,[GHSA-mvmv-rq2j-97p2] Etherpad Lite Access Restriction Bypass,https://github.com/advisories/GHSA-mvmv-rq2j-97p2,https://da.gd/7D3m
+GithubAdvisories,[GHSA-jrcv-3c5h-rh3q] SiCKRAGE Discloses Plaintext Credentials,https://github.com/advisories/GHSA-jrcv-3c5h-rh3q,https://da.gd/IPM37
+GithubAdvisories,[GHSA-x3cf-w64x-4cp2] Symfony Path Disclosure,https://github.com/advisories/GHSA-x3cf-w64x-4cp2,https://da.gd/LiBTsn
+GithubAdvisories,[GHSA-582j-m369-hj2f] Microweber XSS Vulnerability,https://github.com/advisories/GHSA-582j-m369-hj2f,https://da.gd/esS6Ml
+GithubAdvisories,[GHSA-xwf2-53mc-r8hx] phpMyAdmin CSRF Vulnerability,https://github.com/advisories/GHSA-xwf2-53mc-r8hx,https://da.gd/MqQXEC
