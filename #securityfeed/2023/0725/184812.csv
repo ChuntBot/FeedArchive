@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-78q9-24gv-g288] ThinkPHP SQLi Vulnerability,https://github.com/advisories/GHSA-78q9-24gv-g288,https://da.gd/1Ab92
+GithubAdvisories,[GHSA-p57w-9q28-j6v7] phpMyFAQ CSRF,https://github.com/advisories/GHSA-p57w-9q28-j6v7,https://da.gd/ohkWL3
+GithubAdvisories,[GHSA-59jf-3q9v-rh6g] By-passing Cross-Site Scripting Protection in HTML Sanitizer,https://github.com/advisories/GHSA-59jf-3q9v-rh6g,https://da.gd/IPCMo8
+GithubAdvisories,[GHSA-jq6g-4v5m-wm9r] Information Disclosure due to Out-of-scope Site Resolution,https://github.com/advisories/GHSA-jq6g-4v5m-wm9r,https://da.gd/ow72GN
+GithubAdvisories,[GHSA-ggww-q2gv-m3g4] Dolibarr ERP and CRM contain XSS Vulnerability,https://github.com/advisories/GHSA-ggww-q2gv-m3g4,https://da.gd/KeOKU
+GithubAdvisories,[GHSA-wvp2-9ppw-337j] Paths contain matrix variables bypass decorators,https://github.com/advisories/GHSA-wvp2-9ppw-337j,https://da.gd/iipfp
+GithubAdvisories,[GHSA-6xx7-cphv-pxgr] Showdoc Forced Browsing,https://github.com/advisories/GHSA-6xx7-cphv-pxgr,https://da.gd/oAFDl
+GithubAdvisories,[GHSA-42gv-77f4-r3j9] Shopware SQL Injection,https://github.com/advisories/GHSA-42gv-77f4-r3j9,https://da.gd/V8Omi
+GithubAdvisories,[GHSA-xcmj-xjhg-wvhq] Fork CMS XSS Vulnerability,https://github.com/advisories/GHSA-xcmj-xjhg-wvhq,https://da.gd/MWXrGE
