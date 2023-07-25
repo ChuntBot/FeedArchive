@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vh2g-6c4x-5hmp] Path traversal and code execution via prototype vulnerability,https://github.com/advisories/GHSA-vh2g-6c4x-5hmp,https://da.gd/WpL62
+GithubAdvisories,[GHSA-vf78-3q9f-92g3] Hard-coded System User Credentials in Folio Data Export Spring module,https://github.com/advisories/GHSA-vf78-3q9f-92g3,https://da.gd/6nsxM4
+GithubAdvisories,[GHSA-mmx5-32m4-wxvx] Ineffective privileges drop when requesting container network,https://github.com/advisories/GHSA-mmx5-32m4-wxvx,https://da.gd/cidaT
+GithubAdvisories,[GHSA-pmhc-2g4f-85cg] Path Traversal in Apache Shiro,https://github.com/advisories/GHSA-pmhc-2g4f-85cg,https://da.gd/HCd2Z
