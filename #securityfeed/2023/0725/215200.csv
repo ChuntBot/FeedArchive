@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p77r-c6m3-gj2r] oauth2orize-fprm XSS vulnerability,https://github.com/advisories/GHSA-p77r-c6m3-gj2r,https://da.gd/nOkPN
+GithubAdvisories,[GHSA-g434-3q2j-hj4r] CodeIgniter Session Fixation Vulnerability,https://github.com/advisories/GHSA-g434-3q2j-hj4r,https://da.gd/Z1wl7a
+GithubAdvisories,[GHSA-vxj6-pm6r-23hq] phpMyAdmin XSS Vulnerability,https://github.com/advisories/GHSA-vxj6-pm6r-23hq,https://da.gd/eXwae7
+GithubAdvisories,[GHSA-8fjq-cpr7-cmfp] Fork CMS XSS Vulnerability,https://github.com/advisories/GHSA-8fjq-cpr7-cmfp,https://da.gd/CHQlML
+GithubAdvisories,[GHSA-65qg-f77j-cccf] Yii2-StateMachine extension for Yii2 XSS Vulnerability,https://github.com/advisories/GHSA-65qg-f77j-cccf,https://da.gd/Kw2o
+GithubAdvisories,[GHSA-595j-wpfg-23w4] Moodle XSS Vulnerability,https://github.com/advisories/GHSA-595j-wpfg-23w4,https://da.gd/mjWo9
+GithubAdvisories,[GHSA-7f2f-crxg-cpfv] Tiki Wiki CMS XSS Vulnerability,https://github.com/advisories/GHSA-7f2f-crxg-cpfv,https://da.gd/IqT5u
+GithubAdvisories,[GHSA-g888-g2pp-82hf] SimpleSAMLphp saml2 incorrect signature validation,https://github.com/advisories/GHSA-g888-g2pp-82hf,https://da.gd/07MTh9
