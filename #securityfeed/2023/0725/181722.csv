@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9hxg-w7qf-hh93] Gogs Directory Traversal,https://github.com/advisories/GHSA-9hxg-w7qf-hh93,https://da.gd/mlTc
+GithubAdvisories,[GHSA-4qcv-qf38-5j3j] Unintentional leakage of private information via cross-origin websocket session hijacking,https://github.com/advisories/GHSA-4qcv-qf38-5j3j,https://da.gd/zuaBEw
+GithubAdvisories,[GHSA-j7g8-3qqg-8cvm] ThinkPHP SQLi Vulnerability,https://github.com/advisories/GHSA-j7g8-3qqg-8cvm,https://da.gd/TBFfSN
+GithubAdvisories,[GHSA-9m82-f3wx-p625] LibreNMS XSS Vulnerability,https://github.com/advisories/GHSA-9m82-f3wx-p625,https://da.gd/BSY2y
+GithubAdvisories,[GHSA-7xfj-4jpg-58vf] ThinkPHP SQLi Vulnerability,https://github.com/advisories/GHSA-7xfj-4jpg-58vf,https://da.gd/6kaUW7
+GithubAdvisories,[GHSA-f54q-j679-p9hh] Reflected cross-site scripting via k304 parameter,https://github.com/advisories/GHSA-f54q-j679-p9hh,https://da.gd/aKkLPl
