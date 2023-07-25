@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-77j2-7whr-6vpx] Elefant CMS Code Execution Vulnerability,https://github.com/advisories/GHSA-77j2-7whr-6vpx,https://da.gd/3JPNf
+GithubAdvisories,[GHSA-65j5-vpm7-6xp4] Smarty Path Traversal Vulnerability,https://github.com/advisories/GHSA-65j5-vpm7-6xp4,https://da.gd/UGc4Va
+GithubAdvisories,[GHSA-6mvr-cq72-f66v] XWiki XSS Vulnerability,https://github.com/advisories/GHSA-6mvr-cq72-f66v,https://da.gd/7S00
+GithubAdvisories,[GHSA-276r-24xq-hwg8] Pimcore XSS Vulnerability,https://github.com/advisories/GHSA-276r-24xq-hwg8,https://da.gd/ybtrS
+GithubAdvisories,[GHSA-93c7-2942-3h47] ChakraCore information disclosure vulnerability,https://github.com/advisories/GHSA-93c7-2942-3h47,https://da.gd/pnIZN
+GithubAdvisories,[GHSA-2263-jwgm-wv97] Showdoc XSS Vulnerability,https://github.com/advisories/GHSA-2263-jwgm-wv97,https://da.gd/mhLUMq
+GithubAdvisories,[GHSA-q8cm-3v62-jj79] Remote code execution in Apache Jackrabbit,https://github.com/advisories/GHSA-q8cm-3v62-jj79,https://da.gd/gHJ1jp
+GithubAdvisories,[GHSA-79m2-h67v-35q7] Elefant CMS CSRF Vulnerability,https://github.com/advisories/GHSA-79m2-h67v-35q7,https://da.gd/vLGqVo
+GithubAdvisories,[GHSA-r3jh-qhgj-gvr8] Denial of service in neutron,https://github.com/advisories/GHSA-r3jh-qhgj-gvr8,https://da.gd/tMI5K
+GithubAdvisories,[GHSA-r5pv-7g89-cxmc] SQL injection in audit endpoint,https://github.com/advisories/GHSA-r5pv-7g89-cxmc,https://da.gd/PGEHI
+GithubAdvisories,[GHSA-q9g5-98pm-w6q7] Cobbler XSS Vulnerability,https://github.com/advisories/GHSA-q9g5-98pm-w6q7,https://da.gd/brY1X
+GithubAdvisories,[GHSA-pq67-9jf9-hc3c] JDBC URL bypassing by allowLoadLocalInfileInPath param,https://github.com/advisories/GHSA-pq67-9jf9-hc3c,https://da.gd/kvyH
+GithubAdvisories,[GHSA-pcf7-5974-vjh4] Elefant CMS Improper Input Validation,https://github.com/advisories/GHSA-pcf7-5974-vjh4,https://da.gd/VP3kdR
+GithubAdvisories,[GHSA-fg3x-rwq9-74cw] Gogs and Gitea SSRF Vulnerability,https://github.com/advisories/GHSA-fg3x-rwq9-74cw,https://da.gd/dfjug
