@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r2rq-3h56-fqm4] Symfony DoS,https://github.com/advisories/GHSA-r2rq-3h56-fqm4,https://da.gd/gvzRb
+GithubAdvisories,[GHSA-f5x6-7qgp-jhf3] ecrecover can return undefined data if signature does not verify,https://github.com/advisories/GHSA-f5x6-7qgp-jhf3,https://da.gd/mhOkQc
+GithubAdvisories,[GHSA-wh3p-fphp-9h2m] Arbitrary File Creation in AbstractUnArchiver,https://github.com/advisories/GHSA-wh3p-fphp-9h2m,https://da.gd/E2Jr1
+GithubAdvisories,[GHSA-m4hc-m2v6-hfw8] Improper authorization on debug and artifact file downloads,https://github.com/advisories/GHSA-m4hc-m2v6-hfw8,https://da.gd/Go9pd
+GithubAdvisories,[GHSA-4gpr-p634-922x] Cross site scripting via input unit widget,https://github.com/advisories/GHSA-4gpr-p634-922x,https://da.gd/pCaWe
+GithubAdvisories,[GHSA-9xg4-3qfm-9w8f] Leaking sensitive user information still possible by filtering on private with prefix fields,https://github.com/advisories/GHSA-9xg4-3qfm-9w8f,https://da.gd/7BVQV0
+GithubAdvisories,[GHSA-chmr-rg2f-9jmf] Making all attributes on a content-type public without noticing it,https://github.com/advisories/GHSA-chmr-rg2f-9jmf,https://da.gd/cW0P
