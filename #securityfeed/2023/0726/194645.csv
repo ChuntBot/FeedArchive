@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c79v-2rjq-965m] ChakraCore Privilege Escalation,https://github.com/advisories/GHSA-c79v-2rjq-965m,https://da.gd/3J1eI
+GithubAdvisories,[GHSA-qc57-h2f7-p4hx] Plone Unauthorized Access Vulnerability,https://github.com/advisories/GHSA-qc57-h2f7-p4hx,https://da.gd/uZLVaq
+GithubAdvisories,[GHSA-8p5x-w9cv-92hv] OpenDaylight Controller DoS,https://github.com/advisories/GHSA-8p5x-w9cv-92hv,https://da.gd/gsDF
+GithubAdvisories,[GHSA-7fmw-85qm-h22p] Keycloak CSRF Vulnerability,https://github.com/advisories/GHSA-7fmw-85qm-h22p,https://da.gd/e2QJG
+GithubAdvisories,[GHSA-v38p-mqq3-m6v5] Keycloak Reflected XSS,https://github.com/advisories/GHSA-v38p-mqq3-m6v5,https://da.gd/DYV5m
+GithubAdvisories,[GHSA-jjhx-5jff-rc8m] Moodle Improper Privilege Management,https://github.com/advisories/GHSA-jjhx-5jff-rc8m,https://da.gd/Pg4k
+GithubAdvisories,[GHSA-w8gx-hhcx-px6w] Openstack tripleo-heat-templates unauthenticated file access,https://github.com/advisories/GHSA-w8gx-hhcx-px6w,https://da.gd/8LwJgr
