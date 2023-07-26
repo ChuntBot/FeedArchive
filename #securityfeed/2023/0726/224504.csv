@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r47v-rxcg-p28j] Stored Cross-Site Scripting October CMS,https://github.com/advisories/GHSA-r47v-rxcg-p28j,https://da.gd/0nTYtw
+GithubAdvisories,[GHSA-cj2x-r74q-vcx9] Missing authorization in Jenkins Plug-in for ServiceNow,https://github.com/advisories/GHSA-cj2x-r74q-vcx9,https://da.gd/Qiyw
+GithubAdvisories,[GHSA-rchx-rvh2-vx5j] Credential leakage in Jenkins Plug-in for ServiceNow,https://github.com/advisories/GHSA-rchx-rvh2-vx5j,https://da.gd/it6RJJ
+GithubAdvisories,[GHSA-6f4q-f5fj-q6fc] CSRF vulnerability in Bazaar Plugin,https://github.com/advisories/GHSA-6f4q-f5fj-q6fc,https://da.gd/KE1oPq
+GithubAdvisories,[GHSA-8wgf-3mrj-73x7] Incorrect permission checks in Qualys Web App Scanning Connector Plugin allow capturing credentials,https://github.com/advisories/GHSA-8wgf-3mrj-73x7,https://da.gd/3FMpn
+GithubAdvisories,[GHSA-r4h9-gv2m-9x97] Croogo XSS,https://github.com/advisories/GHSA-r4h9-gv2m-9x97,https://da.gd/DxgE
+GithubAdvisories,[GHSA-5jc5-m87x-88fj] Secret displayed without masking by Chef Identity Plugin,https://github.com/advisories/GHSA-5jc5-m87x-88fj,https://da.gd/l8gthf
+GithubAdvisories,[GHSA-cg6r-gqvc-r396] CSRF vulnerability in GitLab Authentication Plugin,https://github.com/advisories/GHSA-cg6r-gqvc-r396,https://da.gd/cIlQLj
+GithubAdvisories,[GHSA-94hc-7qc9-34rf] Canvs Canvas XSS Vulnerability,https://github.com/advisories/GHSA-94hc-7qc9-34rf,https://da.gd/j50wz7
+GithubAdvisories,[GHSA-69vw-3pcm-84rw] Jenkins Stored Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-69vw-3pcm-84rw,https://da.gd/r6TOL
+GithubAdvisories,[GHSA-cv2j-922j-hr56] Float point exception (FPE) in paddlepaddle,https://github.com/advisories/GHSA-cv2j-922j-hr56,https://da.gd/33wJMz
+GithubAdvisories,[GHSA-9q9v-qgwx-84mr] Command injection in PaddlePaddle,https://github.com/advisories/GHSA-9q9v-qgwx-84mr,https://da.gd/ySm5Tb
+GithubAdvisories,[GHSA-hh7p-hvm3-rg88] Heap buffer overflow in PaddlePaddle,https://github.com/advisories/GHSA-hh7p-hvm3-rg88,https://da.gd/AQ4xSq
+GithubAdvisories,[GHSA-rr46-m366-gm44] Null pointer dereference in PaddlePaddle,https://github.com/advisories/GHSA-rr46-m366-gm44,https://da.gd/yFGCsm
+GithubAdvisories,[GHSA-8wfh-qxxv-3q8c] Use after free in PaddlePaddle,https://github.com/advisories/GHSA-8wfh-qxxv-3q8c,https://da.gd/B9eEbh
+GithubAdvisories,[GHSA-96hw-v598-jvgh] Cobbler arbitrary code execution,https://github.com/advisories/GHSA-96hw-v598-jvgh,https://da.gd/7wvvwt
+GithubAdvisories,[GHSA-859j-668v-mrr6] Plone XSS,https://github.com/advisories/GHSA-859j-668v-mrr6,https://da.gd/in9q
+GithubAdvisories,[GHSA-28xp-g7f6-7mhf] Syncthing symlink attack vulnerability,https://github.com/advisories/GHSA-28xp-g7f6-7mhf,https://da.gd/B0F8
+GithubAdvisories,[GHSA-hqfh-p9h7-m6v5] Dolibarr ERP and CRM contain XSS Vulnerability,https://github.com/advisories/GHSA-hqfh-p9h7-m6v5,https://da.gd/Pij6n
+GithubAdvisories,[GHSA-4323-cfj5-98mh] Dolibarr ERP and CRM contain XSS Vulnerability,https://github.com/advisories/GHSA-4323-cfj5-98mh,https://da.gd/hdHjzg
+GithubAdvisories,[GHSA-qjq9-wx5j-jrg6] Dolibarr ERP and CRM contain XSS Vulnerability,https://github.com/advisories/GHSA-qjq9-wx5j-jrg6,https://da.gd/cqdyRV
+GithubAdvisories,[GHSA-8g72-gq68-6gqh] Plone Open Redirect Vulnerability,https://github.com/advisories/GHSA-8g72-gq68-6gqh,https://da.gd/2O1nh
+GithubAdvisories,[GHSA-f9hx-5jq4-fgjm] phpMyAdmin CSRF Vulnerability,https://github.com/advisories/GHSA-f9hx-5jq4-fgjm,https://da.gd/pirSlR
+GithubAdvisories,[GHSA-fv7m-wc3v-wr3w] SimpleSAMLphp XSS Vulnerability,https://github.com/advisories/GHSA-fv7m-wc3v-wr3w,https://da.gd/97WPJ
+GithubAdvisories,[GHSA-v882-949x-6v28] SimpleSAMLphp allows timing side-channel attacks,https://github.com/advisories/GHSA-v882-949x-6v28,https://da.gd/NICFK
