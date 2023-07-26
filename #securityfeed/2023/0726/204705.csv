@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rc94-7v55-wmg6] Subrion CMS CSRF Vulnerability,https://github.com/advisories/GHSA-rc94-7v55-wmg6,https://da.gd/92TLL
+GithubAdvisories,[GHSA-c939-g732-48r8] Subrion CMS CSRF Vulnerability,https://github.com/advisories/GHSA-c939-g732-48r8,https://da.gd/9pCV
+GithubAdvisories,[GHSA-3fgq-cmr4-97rr] phpMyAdmin CSS Injection Vulnerability,https://github.com/advisories/GHSA-3fgq-cmr4-97rr,https://da.gd/N5jRtU
+GithubAdvisories,[GHSA-v6rp-3r3v-hf4p] Ruby OpenSSL DoS Vulnerability,https://github.com/advisories/GHSA-v6rp-3r3v-hf4p,https://da.gd/XSzaBS
+GithubAdvisories,[GHSA-369m-2gv6-mw28] WEBrick RCE Vulnerability,https://github.com/advisories/GHSA-369m-2gv6-mw28,https://da.gd/EZg8v
+GithubAdvisories,[GHSA-g4rw-82hq-8jpr] MapProxy CSRF Vulnerability,https://github.com/advisories/GHSA-g4rw-82hq-8jpr,https://da.gd/BTvu
+GithubAdvisories,[GHSA-89c9-3758-737w] keycloak-httpd-client-install Insecure Secrets,https://github.com/advisories/GHSA-89c9-3758-737w,https://da.gd/PYooxj
