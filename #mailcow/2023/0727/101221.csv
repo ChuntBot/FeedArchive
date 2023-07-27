@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] display is_catch_all and aliases_send_as_all if not empty #5320,https://github.com/mailcow/mailcow-dockerized/commit/9c44b5e546d4c0e4c76a148575aa3104684be3ca,https://da.gd/SIEsa
