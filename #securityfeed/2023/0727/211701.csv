@@ -1,0 +1,43 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9mcw-mwxv-grwj] Craft CMS XSS Vulnerability,https://github.com/advisories/GHSA-9mcw-mwxv-grwj,https://da.gd/J6t8
+GithubAdvisories,[GHSA-4xh9-5vh8-3p58] Yii Framework Reflected XSS,https://github.com/advisories/GHSA-4xh9-5vh8-3p58,https://da.gd/4y2RC
+GithubAdvisories,[GHSA-x2fq-gq6c-hp44] Dolibarr ERP and CRM contain XSS Vulnerability,https://github.com/advisories/GHSA-x2fq-gq6c-hp44,https://da.gd/4l5M
+GithubAdvisories,[GHSA-v3m8-7h3p-6j5m] Dolibarr ERP and CRM SQLi,https://github.com/advisories/GHSA-v3m8-7h3p-6j5m,https://da.gd/4A9U
+GithubAdvisories,[GHSA-cwgm-qw8v-hrrg] Dolibarr ERP and CRM Unsafe File Upload Vulnerability,https://github.com/advisories/GHSA-cwgm-qw8v-hrrg,https://da.gd/zbMZU
+GithubAdvisories,[GHSA-68cp-h96v-gg3x] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-68cp-h96v-gg3x,https://da.gd/B80RpZ
+GithubAdvisories,[GHSA-rm8g-7g54-w6fh] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-rm8g-7g54-w6fh,https://da.gd/Ae3OQe
+GithubAdvisories,[GHSA-ghwq-7v3r-5433] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-ghwq-7v3r-5433,https://da.gd/BMnIw
+GithubAdvisories,[GHSA-6p7q-85qq-7c43] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-6p7q-85qq-7c43,https://da.gd/dxCWa
+GithubAdvisories,[GHSA-pjpr-2qqp-gprf] ChakraCore information disclosure vulnerability,https://github.com/advisories/GHSA-pjpr-2qqp-gprf,https://da.gd/IyaqFn
+GithubAdvisories,[GHSA-c4v8-2hg8-jv77] admidio CSRF Vulnerability,https://github.com/advisories/GHSA-c4v8-2hg8-jv77,https://da.gd/ScFMk
+GithubAdvisories,[GHSA-2rvx-cvfc-mcp2] New Relic .NET Agent contains SQL Injection,https://github.com/advisories/GHSA-2rvx-cvfc-mcp2,https://da.gd/u908
+GithubAdvisories,[GHSA-j5qg-46p9-w2rp] Malicious Package in jekyll-for-github-projects,https://github.com/advisories/GHSA-j5qg-46p9-w2rp,https://da.gd/XDlx
+GithubAdvisories,[GHSA-4rx9-58m7-gr8w] Malicious Package in css_transform_step,https://github.com/advisories/GHSA-4rx9-58m7-gr8w,https://da.gd/tjiuL
+GithubAdvisories,[GHSA-563h-697m-j7x5] Malicious Package in device-mqtt,https://github.com/advisories/GHSA-563h-697m-j7x5,https://da.gd/MFGEFg
+GithubAdvisories,[GHSA-48hw-37g6-3gw4] Malicious Package in mx-nested-menu,https://github.com/advisories/GHSA-48hw-37g6-3gw4,https://da.gd/wEXYH
+GithubAdvisories,[GHSA-fwvp-x5gj-773j] Malicious Package in react-server-native,https://github.com/advisories/GHSA-fwvp-x5gj-773j,https://da.gd/a1ONJT
+GithubAdvisories,[GHSA-j5jc-jf8f-86q7] Malicious Package in dictum.js,https://github.com/advisories/GHSA-j5jc-jf8f-86q7,https://da.gd/BXSt3P
+GithubAdvisories,[GHSA-94m7-w873-6wwf] Malicious Package in modlibrary,https://github.com/advisories/GHSA-94m7-w873-6wwf,https://da.gd/neri
+GithubAdvisories,[GHSA-5w4r-wwc3-6qcp] Malicious Package in precode.js,https://github.com/advisories/GHSA-5w4r-wwc3-6qcp,https://da.gd/4qP4D
+GithubAdvisories,[GHSA-54cr-gv8w-8324] Malicious Package in xoc,https://github.com/advisories/GHSA-54cr-gv8w-8324,https://da.gd/22u1k
+GithubAdvisories,[GHSA-jf55-rgpx-p6rx] Malicious Package in iie-viz,https://github.com/advisories/GHSA-jf55-rgpx-p6rx,https://da.gd/uapTnD
+GithubAdvisories,[GHSA-78p3-96hc-3j47] Malicious Package in jquery-airload,https://github.com/advisories/GHSA-78p3-96hc-3j47,https://da.gd/gZNbC
+GithubAdvisories,[GHSA-p7w2-mc6m-mfx2] Malicious Package in scroool,https://github.com/advisories/GHSA-p7w2-mc6m-mfx2,https://da.gd/cgVVkS
+GithubAdvisories,[GHSA-45cp-hpc9-8347] Malicious Package in css_transform_support,https://github.com/advisories/GHSA-45cp-hpc9-8347,https://da.gd/AjkDb6
+GithubAdvisories,[GHSA-p3rw-88pp-w4jh] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-p3rw-88pp-w4jh,https://da.gd/gt71pA
+GithubAdvisories,[GHSA-c722-pv5w-cfg2] Malicious Package in github-jquery-widgets,https://github.com/advisories/GHSA-c722-pv5w-cfg2,https://da.gd/kWlm8
+GithubAdvisories,[GHSA-fgfj-rj24-mj7q] Malicious Package in kraken-api,https://github.com/advisories/GHSA-fgfj-rj24-mj7q,https://da.gd/QvpZvj
+GithubAdvisories,[GHSA-76wf-2xcf-6wmx] Malicious Package in ngx-pica,https://github.com/advisories/GHSA-76wf-2xcf-6wmx,https://da.gd/WaE9f
+GithubAdvisories,[GHSA-pjxp-f379-6284] Malicious Package in @fangrong/xoc,https://github.com/advisories/GHSA-pjxp-f379-6284,https://da.gd/HhHjUi
+GithubAdvisories,[GHSA-4c87-gg2q-fc6m] Malicious Package in rc-calendar-jhorst,https://github.com/advisories/GHSA-4c87-gg2q-fc6m,https://da.gd/7zZ7Z
+GithubAdvisories,[GHSA-5645-gc7h-98h8] Malicious Package in react-dates-sc,https://github.com/advisories/GHSA-5645-gc7h-98h8,https://da.gd/0x6X2t
+GithubAdvisories,[GHSA-w6xj-45gv-fw35] Malicious Package in stream-combine,https://github.com/advisories/GHSA-w6xj-45gv-fw35,https://da.gd/aqgSU
+GithubAdvisories,[GHSA-cxcf-78mr-wpg7] Malicious Package in oauth-validator,https://github.com/advisories/GHSA-cxcf-78mr-wpg7,https://da.gd/b7vsnn
+GithubAdvisories,[GHSA-3wjm-33mw-h388] Malicious Package in s3asy,https://github.com/advisories/GHSA-3wjm-33mw-h388,https://da.gd/W7Yjfr
+GithubAdvisories,[GHSA-448h-7hmp-99fg] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-448h-7hmp-99fg,https://da.gd/sMQgGW
+GithubAdvisories,[GHSA-9cq4-mhmr-84gm] Malicious Package in jasmin,https://github.com/advisories/GHSA-9cq4-mhmr-84gm,https://da.gd/Qff9N
+GithubAdvisories,[GHSA-4j54-mmmv-hjpm] Malicious Package in slush-fullstack-framework,https://github.com/advisories/GHSA-4j54-mmmv-hjpm,https://da.gd/EO67l
+GithubAdvisories,[GHSA-m7xv-7p93-g6q8] Malicious Package in libubx,https://github.com/advisories/GHSA-m7xv-7p93-g6q8,https://da.gd/p22B0
+GithubAdvisories,[GHSA-7wfq-wmx2-3wr4] Home Assistant Frontend XSS Vulnerability,https://github.com/advisories/GHSA-7wfq-wmx2-3wr4,https://da.gd/0ZykFR
+GithubAdvisories,[GHSA-5f5r-65pm-r3wr] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-5f5r-65pm-r3wr,https://da.gd/VXd8aV
+GithubAdvisories,[GHSA-735f-mx7h-46w8] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-735f-mx7h-46w8,https://da.gd/tUmhtx
