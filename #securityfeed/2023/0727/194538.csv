@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-72gm-pp6q-gpx5] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-72gm-pp6q-gpx5,https://da.gd/qRZbt
+GithubAdvisories,[GHSA-43qp-hphf-5rjw] Chakra Core Privilege Escalation,https://github.com/advisories/GHSA-43qp-hphf-5rjw,https://da.gd/m7nPD
+GithubAdvisories,[GHSA-9f2p-wm46-6m5f] Chakra Core Privilege Escalation,https://github.com/advisories/GHSA-9f2p-wm46-6m5f,https://da.gd/T60qee
+GithubAdvisories,[GHSA-pcr8-75v3-w9pf] Chakra Core Privilege Escalation,https://github.com/advisories/GHSA-pcr8-75v3-w9pf,https://da.gd/xFDd
+GithubAdvisories,[GHSA-gch5-hwqf-mxhp] Unsoundness in `intern` methods on `intaglio` symbol interners,https://github.com/advisories/GHSA-gch5-hwqf-mxhp,https://da.gd/vwlxqd
+GithubAdvisories,[GHSA-g9w4-prf3-m25g] Obfuscated email addresses should not be sorted,https://github.com/advisories/GHSA-g9w4-prf3-m25g,https://da.gd/TOHDl
+GithubAdvisories,[GHSA-wxf3-4fvj-vqqx] Unsafe plugins can be installed via pack import by tenant admins,https://github.com/advisories/GHSA-wxf3-4fvj-vqqx,https://da.gd/zL6eD
+GithubAdvisories,[GHSA-hrf4-ww4w-6rv6] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-hrf4-ww4w-6rv6,https://da.gd/VkY3r
+GithubAdvisories,[GHSA-f8f9-q5hg-9c7q] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-f8f9-q5hg-9c7q,https://da.gd/w1zM
