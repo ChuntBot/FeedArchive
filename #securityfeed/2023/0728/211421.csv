@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gmwp-3pwc-3j3g] mockery is vulnerable to prototype pollution,https://github.com/advisories/GHSA-gmwp-3pwc-3j3g,https://da.gd/Ck8Woq
+GithubAdvisories,[GHSA-jr83-vr4j-mp6p] web2py exposure of sensitive information,https://github.com/advisories/GHSA-jr83-vr4j-mp6p,https://da.gd/4eaMSH
+GithubAdvisories,[GHSA-99p5-qpqx-mhwc] Code injection in BoofCV,https://github.com/advisories/GHSA-99p5-qpqx-mhwc,https://da.gd/Ty3P
+GithubAdvisories,[GHSA-p83q-99rc-vfmv] Code injection in Duke,https://github.com/advisories/GHSA-p83q-99rc-vfmv,https://da.gd/X8t9Om
+GithubAdvisories,[GHSA-2h26-qfxm-r3pq] Code injection in PowerJob,https://github.com/advisories/GHSA-2h26-qfxm-r3pq,https://da.gd/xsqBKi
+GithubAdvisories,[GHSA-wp6c-29r3-jqw9] SQL injection in jeecg-boot,https://github.com/advisories/GHSA-wp6c-29r3-jqw9,https://da.gd/T5Fuv
+GithubAdvisories,[GHSA-grvq-vjqr-x8vm] Code injection in webmagic-core,https://github.com/advisories/GHSA-grvq-vjqr-x8vm,https://da.gd/Hcg4BY
+GithubAdvisories,[GHSA-vcmm-ppqx-95ch] Logstash Logs Sensitive Information,https://github.com/advisories/GHSA-vcmm-ppqx-95ch,https://da.gd/rX3rH
+GithubAdvisories,[GHSA-pw34-qf6c-84fc] phpMyAdmin XSS Vulnerability,https://github.com/advisories/GHSA-pw34-qf6c-84fc,https://da.gd/cbI8YP
+GithubAdvisories,[GHSA-fx3v-4w3w-wpwr] Code injection in wix-embedded-mysql,https://github.com/advisories/GHSA-fx3v-4w3w-wpwr,https://da.gd/8naqX0
+GithubAdvisories,[GHSA-8rjr-6qq5-pj9p] Python RSA allows attackers to spoof signatures,https://github.com/advisories/GHSA-8rjr-6qq5-pj9p,https://da.gd/jgTgsb
+GithubAdvisories,[GHSA-859m-2pfx-fwhf] Code injection in oscore,https://github.com/advisories/GHSA-859m-2pfx-fwhf,https://da.gd/TltIU8
+GithubAdvisories,[GHSA-rxvj-5mv6-j5mc] Cross-site Scripting in Mingsoft MCMS,https://github.com/advisories/GHSA-rxvj-5mv6-j5mc,https://da.gd/I58LG
+GithubAdvisories,[GHSA-hh3v-5chw-wgh7] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-hh3v-5chw-wgh7,https://da.gd/ns7U
+GithubAdvisories,[GHSA-vr4j-gj8q-m89v] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-vr4j-gj8q-m89v,https://da.gd/TN8ZB
+GithubAdvisories,[GHSA-w4mj-xwvw-382f] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-w4mj-xwvw-382f,https://da.gd/j9lZZ
+GithubAdvisories,[GHSA-36c3-jcm2-rm3j] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-36c3-jcm2-rm3j,https://da.gd/3q5J3
+GithubAdvisories,[GHSA-mmfq-r3rg-8r7w] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-mmfq-r3rg-8r7w,https://da.gd/ECzSl
+GithubAdvisories,[GHSA-5whg-j5fv-xcm2] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-5whg-j5fv-xcm2,https://da.gd/XlkjP
+GithubAdvisories,[GHSA-4f5g-j7wg-7w8j] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-4f5g-j7wg-7w8j,https://da.gd/ln9us
+GithubAdvisories,[GHSA-wcvc-rhfj-997g] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-wcvc-rhfj-997g,https://da.gd/gMa6uU
+GithubAdvisories,[GHSA-vx5c-598g-qpg6] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-vx5c-598g-qpg6,https://da.gd/agS9C
