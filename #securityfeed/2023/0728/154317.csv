@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-68p4-95xf-7gx8] Denial of service from large image,https://github.com/advisories/GHSA-68p4-95xf-7gx8,https://da.gd/twgiU
+GithubAdvisories,[GHSA-x5mr-p6v4-wp93] Field injection in the KirbyData text storage handler,https://github.com/advisories/GHSA-x5mr-p6v4-wp93,https://da.gd/GC0vkZ
+GithubAdvisories,[GHSA-5mvj-rvp8-rf45] Insufficient Session Expiration after a password change,https://github.com/advisories/GHSA-5mvj-rvp8-rf45,https://da.gd/IAgj7
+GithubAdvisories,[GHSA-q386-w6fg-gmgp] XML External Entity (XXE) vulnerability in the XML data handler,https://github.com/advisories/GHSA-q386-w6fg-gmgp,https://da.gd/FfMYgu
+GithubAdvisories,[GHSA-8fv7-wq38-f5c9] Cross-site scripting (XSS) from MIME type auto-detection of uploaded files,https://github.com/advisories/GHSA-8fv7-wq38-f5c9,https://da.gd/Uk2rO
+GithubAdvisories,[GHSA-3v6j-v3qc-cxff] Denial of service from unlimited password lengths,https://github.com/advisories/GHSA-3v6j-v3qc-cxff,https://da.gd/5s4tqd
+GithubAdvisories,[GHSA-pj4x-2xr5-w87m] Possible image tampering from missing image validation for Packages,https://github.com/advisories/GHSA-pj4x-2xr5-w87m,https://da.gd/oss1jS
+GithubAdvisories,[GHSA-8www-cffh-4q98] Anyone with a share link can RESET all website data in Umami,https://github.com/advisories/GHSA-8www-cffh-4q98,https://da.gd/VwVjj6
