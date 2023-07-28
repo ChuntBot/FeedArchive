@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Update postfix.sh to include pbl for dqs,https://github.com/mailcow/mailcow-dockerized/commit/ec8d298c362c13ad575e1e48d287cce17927f4d0,https://da.gd/QGbwA
+GithubCommitStaging,Merge branch 'feat/spamhaus-dqs-asn' into staging,https://github.com/mailcow/mailcow-dockerized/commit/815572f2009e7964599de20e2d9e9e177bf15a27,https://da.gd/jdGj6
