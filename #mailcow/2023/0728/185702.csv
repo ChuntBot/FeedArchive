@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommit,Fixed Syntax error in generate_config.sh,https://github.com/mailcow/mailcow-dockerized/commit/731fabef58726a9f8d6ffdb2fb81e9bbe0da1757,https://da.gd/bQi5J
+GithubCommit,Implemented remote Bad AS lookup,https://github.com/mailcow/mailcow-dockerized/commit/525364ba6541b59f98b4a6becdd09ab541b02729,https://da.gd/PwRx6k
+GithubCommit,Added remote Bad ASN Check for Spamhaus DNSBL,https://github.com/mailcow/mailcow-dockerized/commit/020cb21b35723339008d745c479cd039dca7475b,https://da.gd/NCCeu
