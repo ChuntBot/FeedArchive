@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,Merge pull request #5262 from mailcow/fix-5252,https://github.com/mailcow/mailcow-dockerized/commit/29892dc694f97764fa1167a83c3ba466d3c111f6,https://da.gd/tTQN
+GithubCommit,[Web] add CLUSTERMODE environment variable,https://github.com/mailcow/mailcow-dockerized/commit/0f6956572e760f6b303902f95de5898848d28cff,https://da.gd/2pimTf
+GithubCommit,[Dockerapi] add missing import os,https://github.com/mailcow/mailcow-dockerized/commit/0f0d43b253185e0980d96e8a7cdc98c6cd0ae457,https://da.gd/OgwHO
+GithubCommit,Merge pull request #5213 from mailcow/feat/cors,https://github.com/mailcow/mailcow-dockerized/commit/8984509f58898540e19649b2a0f7b148fd977771,https://da.gd/x42R6s
+GithubCommit,[Web] fix rspamd-history,https://github.com/mailcow/mailcow-dockerized/commit/cb1a11e5514abfe2637f304b0a21f30e1a0afee7,https://da.gd/loMmmS
+GithubCommit,Merge pull request #5312 from mailcow/fix/ui-logs,https://github.com/mailcow/mailcow-dockerized/commit/722134e47443a9696fc6f43b111b5f64806b3b47,https://da.gd/zxSO
+GithubCommit,Merge pull request #5310 from mailcow/feat/ha-pubsub,https://github.com/mailcow/mailcow-dockerized/commit/da8e496430ad470f35d768c47213aee27dd2a260,https://da.gd/LAvaE
+GithubCommit,Merge pull request #5221 from mailcow/fix/dot-stuffing-bcc,https://github.com/mailcow/mailcow-dockerized/commit/a0723f60d2ebfaf902a7f57c2f878b3fc328cb48,https://da.gd/VGKIo7
+GithubCommit,Merge pull request #5215 from goodygh/5136-fix-logger-error-handling,https://github.com/mailcow/mailcow-dockerized/commit/cf239dd6b27218e4ec114fc25963f5acf8425fb2,https://da.gd/of1T
+GithubCommit,"Fixes several instances of missing , extra role='tabpanel' and…",https://github.com/mailcow/mailcow-dockerized/commit/b903cf38881364fffacf445dad32a51b343ac458,https://da.gd/gd48d
+GithubCommit,Merge pull request #5316 from mailcow/feat/rspamd-securite-symbols,https://github.com/mailcow/mailcow-dockerized/commit/2b009c71c1c16eab08f6227c601cfa14ecc48809,https://da.gd/kSiz0
+GithubCommit,Merge pull request #5315 from SnailShea/fix/twig-typos,https://github.com/mailcow/mailcow-dockerized/commit/03580cbf39e7aaae797c1a72c7786471773bbad6,https://da.gd/SHkWcF
+GithubCommit,Update dependency nextcloud/server to v27.0.1 (#5324),https://github.com/mailcow/mailcow-dockerized/commit/521120a448899b5fd7bdfeef65a8fa0b01c96622,https://da.gd/Z778yD
+GithubCommit,[Web] fix visual bug #5322,https://github.com/mailcow/mailcow-dockerized/commit/03831149f824f0a31eb9a325b7936abdb972c18c,https://da.gd/1GUvNU
+GithubCommit,[Dockerapi] Update to 2.05,https://github.com/mailcow/mailcow-dockerized/commit/cd635ec81362c63e6df263fe63e74cd16fe1250a,https://da.gd/zQBM
+GithubCommit,[Web] display is_catch_all and aliases_send_as_all if not empty #5320,https://github.com/mailcow/mailcow-dockerized/commit/9c44b5e546d4c0e4c76a148575aa3104684be3ca,https://da.gd/SIEsa
+GithubCommit,[Web] add edit/cors api endpoint to swagger,https://github.com/mailcow/mailcow-dockerized/commit/3814c3294f74ca1ba926f40a2096e5bff0ea0717,https://da.gd/UNNn
+GithubCommit,[Web] change style of f2b active ban actions,https://github.com/mailcow/mailcow-dockerized/commit/b9867e3fe0e9d1afd53a83e115560713b32734fb,https://da.gd/aHoU
+GithubCommit,[Web] change style of f2b active ban actions,https://github.com/mailcow/mailcow-dockerized/commit/11407973b10af8d9f79735a44f1f3f33b9d9aa33,https://da.gd/wRqjCJ
+GithubCommit,Merge pull request #5332 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/23fc54f2cf95ebaa68939997f115b42f7b89f767,https://da.gd/eRqC3
