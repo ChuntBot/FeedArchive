@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p4xg-cpr9-vwvj] Red Hat Wildfly DoS,https://github.com/advisories/GHSA-p4xg-cpr9-vwvj,https://da.gd/6wbZ6
+GithubAdvisories,[GHSA-fj8f-56wc-q36r] rabbitmq-connector plugin module in Apache EventMesh platforms allows attackers to send controlled message,https://github.com/advisories/GHSA-fj8f-56wc-q36r,https://da.gd/DV43
+GithubAdvisories,[GHSA-3gg4-6hqg-2vjx] Logstash Logs Sensitive Information,https://github.com/advisories/GHSA-3gg4-6hqg-2vjx,https://da.gd/4Ckp
+GithubAdvisories,[GHSA-876p-4wgc-75rx] Apache Struts RCE Vulnerability,https://github.com/advisories/GHSA-876p-4wgc-75rx,https://da.gd/xEuQQ
+GithubAdvisories,[GHSA-8c6j-ffmf-q6vm] Apache Struts RCE Vulnerability,https://github.com/advisories/GHSA-8c6j-ffmf-q6vm,https://da.gd/fyk0Bo
