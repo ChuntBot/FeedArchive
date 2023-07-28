@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2hh3-jmv8-5fmx] Moodle Does Not Escape Characters In Email Headers,https://github.com/advisories/GHSA-2hh3-jmv8-5fmx,https://da.gd/KLvsI
+GithubAdvisories,[GHSA-h6ch-v84p-w6p9] Regular Expression Denial of Service (ReDoS),https://github.com/advisories/GHSA-h6ch-v84p-w6p9,https://da.gd/xd1oxC
+GithubAdvisories,[GHSA-5282-96ff-xx3h] Moodle sensitive information disclosure,https://github.com/advisories/GHSA-5282-96ff-xx3h,https://da.gd/jUbVGS
+GithubAdvisories,[GHSA-hjrj-7wcj-7j3c] Moodle sensitive information disclosure,https://github.com/advisories/GHSA-hjrj-7wcj-7j3c,https://da.gd/FjwLab
+GithubAdvisories,[GHSA-r9pc-g29w-f86j] Moodle sensitive information disclosure,https://github.com/advisories/GHSA-r9pc-g29w-f86j,https://da.gd/Qn8DI
+GithubAdvisories,[GHSA-4vc9-4xpq-77vm] Cobbler Arbitrary File Read,https://github.com/advisories/GHSA-4vc9-4xpq-77vm,https://da.gd/8N9s38
