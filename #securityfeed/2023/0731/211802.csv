@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q3pw-6vf2-66hf] Apache Ambari reveals administrator passwords,https://github.com/advisories/GHSA-q3pw-6vf2-66hf,https://da.gd/eL2bM
+GithubAdvisories,[GHSA-rxfp-8jmr-xc95] Cloudera HUE Account Enumeration,https://github.com/advisories/GHSA-rxfp-8jmr-xc95,https://da.gd/Dc5Vb
+GithubAdvisories,[GHSA-6h8x-73fx-q2h9] Chameleon in Plone allows Authentication Bypass,https://github.com/advisories/GHSA-6h8x-73fx-q2h9,https://da.gd/swtua1
+GithubAdvisories,[GHSA-w799-prg3-cx77] python-jose failure to use a constant time comparison for HMAC keys,https://github.com/advisories/GHSA-w799-prg3-cx77,https://da.gd/j1uq
+GithubAdvisories,[GHSA-jxg5-35fj-ccwf] Extbase for TYPO3 allows RCE,https://github.com/advisories/GHSA-jxg5-35fj-ccwf,https://da.gd/BqLPb
+GithubAdvisories,[GHSA-v4w5-p2hg-8fh6] Urllib3 Incorrect Certificate Validation,https://github.com/advisories/GHSA-v4w5-p2hg-8fh6,https://da.gd/5GA2
+GithubAdvisories,[GHSA-vfjw-crcq-q92v] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-vfjw-crcq-q92v,https://da.gd/5x2Vc
+GithubAdvisories,[GHSA-ww6f-76ff-phhj] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-ww6f-76ff-phhj,https://da.gd/pSLG
+GithubAdvisories,[GHSA-538h-6rv2-wmj3] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-538h-6rv2-wmj3,https://da.gd/eOEnW
+GithubAdvisories,[GHSA-q6mv-8vh9-4ggj] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-q6mv-8vh9-4ggj,https://da.gd/OKxunl
+GithubAdvisories,[GHSA-wm27-49x2-mg9q] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-wm27-49x2-mg9q,https://da.gd/RvBX
+GithubAdvisories,[GHSA-h6g3-73h7-chxp] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-h6g3-73h7-chxp,https://da.gd/hAjA9
+GithubAdvisories,[GHSA-rf8f-hqjv-986p] Shopware Insecure Deserialization Vulnerability,https://github.com/advisories/GHSA-rf8f-hqjv-986p,https://da.gd/dGGyM2
