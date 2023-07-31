@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubCommit,Removed obsolete whois package,https://github.com/mailcow/mailcow-dockerized/commit/34d990a80038e88122f8ff6b9d4f235416d8cef1,https://da.gd/vYuZp
+GithubCommit,dns_blocklists.cf isn't appended to main.cf and therefore ineffective…,https://github.com/mailcow/mailcow-dockerized/commit/952ddb18fd59707b3d68b7908cc599d17aadadc5,https://da.gd/q50E
+GithubCommit,Merge pull request #5342 from DocFraggle/mailcow_spamhaus,https://github.com/mailcow/mailcow-dockerized/commit/dabf9104eddf4415e51f1e2a2b397c3f8afb114c,https://da.gd/p3KUTB
+GithubCommit,Fix Reponse Code for ASN Checks,https://github.com/mailcow/mailcow-dockerized/commit/6cf2775e7e03a01436d4f6f07145d24d1b80fa48,https://da.gd/ShzuMO
+GithubCommit,Reimplemented option for custom dnsbls,https://github.com/mailcow/mailcow-dockerized/commit/0f337971ff12b89805bb58b14b858c74e8fdb7dd,https://da.gd/hbjDDC
+GithubCommit,Added dns_blocklists.cf for customizations,https://github.com/mailcow/mailcow-dockerized/commit/6d17b9f504c1356b31ddb997dfa751032e257410,https://da.gd/OogLq
+GithubCommit,update postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/31cb0f7db133bfbf3ebe7761032644ada6ec6683,https://da.gd/umtHc6
+GithubCommit,Merge pull request #5267 from mailcow/update/postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/22acbb6b57cf4bad6d2ddcafed73a3a8780c94f3,https://da.gd/oQBMk
+GithubCommit,Merge pull request #5347 from mailcow/feat/sogo-5.8.4,https://github.com/mailcow/mailcow-dockerized/commit/db75cbbcb050f1556b829125a66f58d90f311b89,https://da.gd/cbjju
+GithubCommit,Fix spamhaus query domains (.net only),https://github.com/mailcow/mailcow-dockerized/commit/3000da6b880da04d4621bc9b1a93d86f1b6112e4,https://da.gd/y1c6
+GithubCommit,Merge pull request #5349 from DocFraggle/spamhaus_domains,https://github.com/mailcow/mailcow-dockerized/commit/57d849a51b2126e53f5806807f1c58a01ef4bca7,https://da.gd/0P0YE4
+GithubCommit,Merge pull request #5350 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/a1fb9622154c797fbba0bc4bb48ec6d1384034ff,https://da.gd/E9cC1D
