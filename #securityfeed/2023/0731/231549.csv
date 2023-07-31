@@ -1,0 +1,35 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-87r7-q54j-f9qg] OpenStack Murano Code Execution,https://github.com/advisories/GHSA-87r7-q54j-f9qg,https://da.gd/izlnw
+GithubAdvisories,[GHSA-jjx5-fq5g-8xpc] Symfony Cryptographic Vulnerability,https://github.com/advisories/GHSA-jjx5-fq5g-8xpc,https://da.gd/MRsk1n
+GithubAdvisories,[GHSA-jh5p-wpg2-8rgv] Dolibarr ERP and CRM contain XSS Vulnerabilities,https://github.com/advisories/GHSA-jh5p-wpg2-8rgv,https://da.gd/3B2qAY
+GithubAdvisories,[GHSA-836p-6p4j-35cg] Drupal Open Redirect,https://github.com/advisories/GHSA-836p-6p4j-35cg,https://da.gd/RLkjn
+GithubAdvisories,[GHSA-22v7-w6c5-v4rr] Apache Ranger Access Restriction Bypass,https://github.com/advisories/GHSA-22v7-w6c5-v4rr,https://da.gd/MDBvh8
+GithubAdvisories,[GHSA-9fc7-rhq3-wm7x] Apache Jackrabbit Authentication Hijacking Vulnerability,https://github.com/advisories/GHSA-9fc7-rhq3-wm7x,https://da.gd/IKf7ey
+GithubAdvisories,[GHSA-4gmg-gwjh-3mmr] phpMyAdmin Cryptographic Vulnerability,https://github.com/advisories/GHSA-4gmg-gwjh-3mmr,https://da.gd/BqJk5E
+GithubAdvisories,[GHSA-2j4q-9fff-236j] Apache Struts XSS Vulnerability,https://github.com/advisories/GHSA-2j4q-9fff-236j,https://da.gd/NjDpF
+GithubAdvisories,[GHSA-46x4-9jmv-jc8p] Django Access Restrictions Bypass,https://github.com/advisories/GHSA-46x4-9jmv-jc8p,https://da.gd/EXvDW
+GithubAdvisories,[GHSA-3f2c-jm6v-cr35] Django DNS Rebinding Vulnerability,https://github.com/advisories/GHSA-3f2c-jm6v-cr35,https://da.gd/C597XN
+GithubAdvisories,[GHSA-wm8w-qp2f-728q] Apache Struts Open Redirect,https://github.com/advisories/GHSA-wm8w-qp2f-728q,https://da.gd/VbVv
+GithubAdvisories,[GHSA-38qw-j787-v8c2] Apache Struts CSRF Vulnerability,https://github.com/advisories/GHSA-38qw-j787-v8c2,https://da.gd/FJYa
+GithubAdvisories,[GHSA-q263-j3q9-g964] October CMS PHP Code Execution,https://github.com/advisories/GHSA-q263-j3q9-g964,https://da.gd/7eWTuX
+GithubAdvisories,[GHSA-vq79-mgpx-2wx4] Apache Struts Access Control Redirect,https://github.com/advisories/GHSA-vq79-mgpx-2wx4,https://da.gd/7cBgfN
+GithubAdvisories,[GHSA-pw27-w7w4-9qc7] Django XSS Vulnerability,https://github.com/advisories/GHSA-pw27-w7w4-9qc7,https://da.gd/eDTe0
+GithubAdvisories,[GHSA-fp6p-5xvw-m74f] Django User Enumeration Vulnerability,https://github.com/advisories/GHSA-fp6p-5xvw-m74f,https://da.gd/4VX8uB
+GithubAdvisories,[GHSA-mvxp-3j62-jqr6] Infinispan Rest API Does Not Enforce Auth Constraints,https://github.com/advisories/GHSA-mvxp-3j62-jqr6,https://da.gd/11blX
+GithubAdvisories,[GHSA-wp3j-gv53-4pg8] fs-git command injection vulnerability,https://github.com/advisories/GHSA-wp3j-gv53-4pg8,https://da.gd/W4lot
+GithubAdvisories,[GHSA-98vc-98q7-57qf] Dolibarr ERP and CRM Insecure Encryption,https://github.com/advisories/GHSA-98vc-98q7-57qf,https://da.gd/wzJWhK
+GithubAdvisories,[GHSA-g77f-7wm9-rh6p] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-g77f-7wm9-rh6p,https://da.gd/wUBR4U
+GithubAdvisories,[GHSA-p6hw-wm59-3g5g] Sydent does not verify email server certificates,https://github.com/advisories/GHSA-p6hw-wm59-3g5g,https://da.gd/Ikc0KQ
+GithubAdvisories,[GHSA-779w-xvpm-78jx] twitch-tui's connection is not encrypted,https://github.com/advisories/GHSA-779w-xvpm-78jx,https://da.gd/nA2I4
+GithubAdvisories,[GHSA-4q66-g4mm-8rg5] Silverstripe has Cross-site Scripting (XSS) vulnerabilities inherited from TinyMCE,https://github.com/advisories/GHSA-4q66-g4mm-8rg5,https://da.gd/vfsVJO
+GithubAdvisories,[GHSA-2xvx-368h-qcmv] phpMyFAQ Improper Neutralization of Formula Elements in a CSV File vulnerability,https://github.com/advisories/GHSA-2xvx-368h-qcmv,https://da.gd/HZ5HYw
+GithubAdvisories,[GHSA-q9vm-29ph-p7mp] phpMyFAQ Stored Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-q9vm-29ph-p7mp,https://da.gd/EkvVf
+GithubAdvisories,[GHSA-36xx-7vf6-7mv3] Silverstripe Framework: Members with no password can be created and bypass custom login forms,https://github.com/advisories/GHSA-36xx-7vf6-7mv3,https://da.gd/uvHaGG
+GithubAdvisories,[GHSA-3q28-xfw3-2q35] phpMyAdmin XSS Vulnerability,https://github.com/advisories/GHSA-3q28-xfw3-2q35,https://da.gd/rdQJi
+GithubAdvisories,[GHSA-9xhq-pm7v-693p] phpMyAdmin Cryptographic Vulnerability,https://github.com/advisories/GHSA-9xhq-pm7v-693p,https://da.gd/30IzKj
+GithubAdvisories,[GHSA-rmmf-5xhh-gg27] phpMyAdmin path disclosure,https://github.com/advisories/GHSA-rmmf-5xhh-gg27,https://da.gd/KVApK
+GithubAdvisories,[GHSA-hmmx-wxh4-9w8w] phpMyAdmin XSS Vulnerability,https://github.com/advisories/GHSA-hmmx-wxh4-9w8w,https://da.gd/rsGOx
+GithubAdvisories,[GHSA-j8mx-x32r-5rf4] phpMyAdmin XSS Vulnerability,https://github.com/advisories/GHSA-j8mx-x32r-5rf4,https://da.gd/gMX0ZV
+GithubAdvisories,[GHSA-qgrq-64g6-mmh6] phpMyAdmin DoS Vulnerability,https://github.com/advisories/GHSA-qgrq-64g6-mmh6,https://da.gd/rraH
+GithubAdvisories,[GHSA-jvxx-8xxf-5495] phpMyAdmin CSRF Vulnerability,https://github.com/advisories/GHSA-jvxx-8xxf-5495,https://da.gd/kJVTf
+GithubAdvisories,[GHSA-3h6f-g5f3-gc4w] Access Control Bypass in Spring Security,https://github.com/advisories/GHSA-3h6f-g5f3-gc4w,https://da.gd/yQYDB
