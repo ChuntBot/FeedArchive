@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Fix Reponse Code for ASN Checks,https://github.com/mailcow/mailcow-dockerized/commit/6cf2775e7e03a01436d4f6f07145d24d1b80fa48,https://da.gd/ShzuMO
+GithubCommitStaging,Reimplemented option for custom dnsbls,https://github.com/mailcow/mailcow-dockerized/commit/0f337971ff12b89805bb58b14b858c74e8fdb7dd,https://da.gd/hbjDDC
+GithubCommitStaging,Added dns_blocklists.cf for customizations,https://github.com/mailcow/mailcow-dockerized/commit/6d17b9f504c1356b31ddb997dfa751032e257410,https://da.gd/OogLq
+GithubCommitStaging,update postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/31cb0f7db133bfbf3ebe7761032644ada6ec6683,https://da.gd/umtHc6
+GithubCommitStaging,Merge pull request #5267 from mailcow/update/postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/22acbb6b57cf4bad6d2ddcafed73a3a8780c94f3,https://da.gd/oQBMk
