@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ggmp-fxfg-277r] Apache Struts RCE Vulnerability,https://github.com/advisories/GHSA-ggmp-fxfg-277r,https://da.gd/5JUG7
+GithubAdvisories,[GHSA-crhm-qpjc-cm64] Django CSRF Protection Bypass,https://github.com/advisories/GHSA-crhm-qpjc-cm64,https://da.gd/oADK1L
+GithubAdvisories,[GHSA-cj2f-96jq-phpp] Shopware RCE Vulnerability,https://github.com/advisories/GHSA-cj2f-96jq-phpp,https://da.gd/d7xmmv
+GithubAdvisories,[GHSA-c8c8-9472-w52h] Django XSS Vulnerability,https://github.com/advisories/GHSA-c8c8-9472-w52h,https://da.gd/daKy4
+GithubAdvisories,[GHSA-wvj5-r78r-hhfq] Symfony Authentication Bypass,https://github.com/advisories/GHSA-wvj5-r78r-hhfq,https://da.gd/Hgk75
+GithubAdvisories,[GHSA-799h-qr84-pcrp] Kallithea Routes CSRF Bypass,https://github.com/advisories/GHSA-799h-qr84-pcrp,https://da.gd/wBGB6
+GithubAdvisories,[GHSA-r4m4-pmvw-m6j5] Apache Thrift Go Library Command Injection,https://github.com/advisories/GHSA-r4m4-pmvw-m6j5,https://da.gd/5yJD
+GithubAdvisories,[GHSA-x7rc-4gqw-3q6q] Apache MyFaces Trinidad Deserialization Vulnerability,https://github.com/advisories/GHSA-x7rc-4gqw-3q6q,https://da.gd/a0pe3
