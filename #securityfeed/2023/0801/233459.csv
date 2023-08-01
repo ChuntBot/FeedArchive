@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x3jr-pf6g-c48f] Golang/crypto message forgery vulnerability,https://github.com/advisories/GHSA-x3jr-pf6g-c48f,https://da.gd/NKZgT
+GithubAdvisories,[GHSA-mfr9-pcm3-6mwc] phpMyAdmin CSRF Vulnerability,https://github.com/advisories/GHSA-mfr9-pcm3-6mwc,https://da.gd/Z1h8gw
+GithubAdvisories,[GHSA-gc62-j469-9gjm] Rancher Privilege Escalation Vulnerability,https://github.com/advisories/GHSA-gc62-j469-9gjm,https://da.gd/2vs8S
+GithubAdvisories,[GHSA-4v6q-gjm6-6vv4] ChakraCore RCE via Out-of-bounds write,https://github.com/advisories/GHSA-4v6q-gjm6-6vv4,https://da.gd/yyDCZu
+GithubAdvisories,[GHSA-g8q3-rcf9-qx4q] ChakraCore RCE Vulnerability,https://github.com/advisories/GHSA-g8q3-rcf9-qx4q,https://da.gd/V8F5
+GithubAdvisories,[GHSA-fxrx-5j36-pwg5] ChakraCore RCE via Out-of-bounds write,https://github.com/advisories/GHSA-fxrx-5j36-pwg5,https://da.gd/xRviQd
+GithubAdvisories,[GHSA-v8jw-x9wq-hw4v] ChakraCore RCE via Out-of-bounds write,https://github.com/advisories/GHSA-v8jw-x9wq-hw4v,https://da.gd/nUAol
+GithubAdvisories,[GHSA-q9h8-gpw5-c95c] Matrix Sydent mishandles emails,https://github.com/advisories/GHSA-q9h8-gpw5-c95c,https://da.gd/u6xV4
+GithubAdvisories,[GHSA-5xp2-rv4h-mm2q] Moodle Open Redirect Vulnerability,https://github.com/advisories/GHSA-5xp2-rv4h-mm2q,https://da.gd/Cyz1C
+GithubAdvisories,[GHSA-v797-hfv8-v2xm] Magento 2 Community Edition Session Fixation Check,https://github.com/advisories/GHSA-v797-hfv8-v2xm,https://da.gd/XdFSJF
+GithubAdvisories,[GHSA-x6r5-vxfg-gq3v] Helm Improper Certificate Validation,https://github.com/advisories/GHSA-x6r5-vxfg-gq3v,https://da.gd/piwdOj
+GithubAdvisories,[GHSA-fgjh-x3f8-8gmh] Mirumee Saleor CSRF Protection Disabled,https://github.com/advisories/GHSA-fgjh-x3f8-8gmh,https://da.gd/ApBTU
+GithubAdvisories,[GHSA-8qxh-hcr9-2379] Shopware Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-8qxh-hcr9-2379,https://da.gd/UUE8Vd
