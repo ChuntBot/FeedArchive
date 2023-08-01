@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7c28-wg7r-pg6f] RaspAP Command Injection vulnerability,https://github.com/advisories/GHSA-7c28-wg7r-pg6f,https://da.gd/HZTrkR
+GithubAdvisories,[GHSA-v9gf-98vr-mgp2] baserCMS Access Control Bypass,https://github.com/advisories/GHSA-v9gf-98vr-mgp2,https://da.gd/p7vuZg
+GithubAdvisories,"[GHSA-8hx6-qv6f-xgcw] MindsDB 'Call to requests with verify=False disabling SSL certificate checks, security issue.' issue",https://github.com/advisories/GHSA-8hx6-qv6f-xgcw,https://da.gd/6MmF0z
+GithubAdvisories,[GHSA-xqcq-j8w9-3pxv] Jettison parser crash by stackoverflow,https://github.com/advisories/GHSA-xqcq-j8w9-3pxv,https://da.gd/nBiVEN
+GithubAdvisories,[GHSA-gvc8-xjfp-6569] Silverstripe CMS XSS Vulnerability,https://github.com/advisories/GHSA-gvc8-xjfp-6569,https://da.gd/jOfm0s
+GithubAdvisories,[GHSA-rrxv-q8m4-wch3] .eth registrar controller can shorten the duration of registered names,https://github.com/advisories/GHSA-rrxv-q8m4-wch3,https://da.gd/u8iRy
+GithubAdvisories,[GHSA-gpvc-mx6g-cchv] underscore-keypath vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-gpvc-mx6g-cchv,https://da.gd/vlOPnn
+GithubAdvisories,[GHSA-ffw3-6378-cqgp] mlflow vulnerable to OS Command Injection,https://github.com/advisories/GHSA-ffw3-6378-cqgp,https://da.gd/f3eOJ
