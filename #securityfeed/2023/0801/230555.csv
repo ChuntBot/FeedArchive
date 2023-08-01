@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w392-68rg-pgg4] Magento 2 Community Edition CSRF vulnerability,https://github.com/advisories/GHSA-w392-68rg-pgg4,https://da.gd/fuoxE2
+GithubAdvisories,[GHSA-cgm7-gjhw-rrf6] Magento 2 Community Edition Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-cgm7-gjhw-rrf6,https://da.gd/pDZR
+GithubAdvisories,[GHSA-hvcp-jvx5-4pmp] Magento 2 Community Edition SSRF vulnerability,https://github.com/advisories/GHSA-hvcp-jvx5-4pmp,https://da.gd/4Pa5
+GithubAdvisories,[GHSA-gg96-8w9x-7rx9] Magento 2 Community Edition Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-gg96-8w9x-7rx9,https://da.gd/LHP7Q
+GithubAdvisories,[GHSA-hppc-rpfp-r8qw] Magento 2 Community Edition SSRF vulnerability,https://github.com/advisories/GHSA-hppc-rpfp-r8qw,https://da.gd/MpR8r
+GithubAdvisories,[GHSA-5hcx-vg88-hgpm] Magento 2 Community Edition Insufficient Access Controls,https://github.com/advisories/GHSA-5hcx-vg88-hgpm,https://da.gd/7vDVgo
+GithubAdvisories,[GHSA-rj8f-g5gm-jw5c] Magento 2 Community Edition Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-rj8f-g5gm-jw5c,https://da.gd/qOOS8z
+GithubAdvisories,[GHSA-qmwh-rh2g-3682] Magento 2 Community Edition Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-qmwh-rh2g-3682,https://da.gd/tZFuu
+GithubAdvisories,[GHSA-8578-mmf4-f327] Magento 2 Community Edition Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-8578-mmf4-f327,https://da.gd/DuBlN
+GithubAdvisories,[GHSA-33cj-w75f-49m2] Magento 2 Community Edition Server-Side Request Forgery vulnerability,https://github.com/advisories/GHSA-33cj-w75f-49m2,https://da.gd/frXI6
+GithubAdvisories,[GHSA-8prc-58j4-m55q] Keycloak Unauthenticated Access,https://github.com/advisories/GHSA-8prc-58j4-m55q,https://da.gd/A5d4W
+GithubAdvisories,[GHSA-5pww-3mfc-g8vr] slub_events for Typo3 Arbitrary File Upload,https://github.com/advisories/GHSA-5pww-3mfc-g8vr,https://da.gd/yBFiSZ
+GithubAdvisories,[GHSA-86pc-6mm8-542r] Magento 2 Community Edition XSS Vulnerability,https://github.com/advisories/GHSA-86pc-6mm8-542r,https://da.gd/Y5SxBB
+GithubAdvisories,[GHSA-47h6-hfpv-7phj] Magento 2 Community Edition RCE Vulnerability,https://github.com/advisories/GHSA-47h6-hfpv-7phj,https://da.gd/aubeu
