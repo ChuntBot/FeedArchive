@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5r98-f33j-g8h7] pnpm incorrectly parses tar archives relative to specification,https://github.com/advisories/GHSA-5r98-f33j-g8h7,https://da.gd/CWHqNQ
+GithubAdvisories,[GHSA-vxjg-hchx-cc4g] @simonsmith/cypress-image-snapshothas fix for insecure snapshot file names,https://github.com/advisories/GHSA-vxjg-hchx-cc4g,https://da.gd/GH7E4A
+GithubAdvisories,[GHSA-9v3w-w2jh-4hff] HashiCorp Vault and Vault Enterprise vulnerable to user enumeration,https://github.com/advisories/GHSA-9v3w-w2jh-4hff,https://da.gd/hslo
