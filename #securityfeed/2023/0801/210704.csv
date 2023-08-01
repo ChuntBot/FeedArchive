@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7mj4-2984-955f] AlchemyCMS is vulnerable to stored XSS via the /admin/pictures image field,https://github.com/advisories/GHSA-7mj4-2984-955f,https://da.gd/dDmoor
