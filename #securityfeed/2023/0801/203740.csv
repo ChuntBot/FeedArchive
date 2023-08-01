@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cp39-43xr-2wrp] Moodle XSS Vulnerability,https://github.com/advisories/GHSA-cp39-43xr-2wrp,https://da.gd/o2K8t
+GithubAdvisories,[GHSA-h798-h7ff-93xv] Moodle Arbitrary Redirect,https://github.com/advisories/GHSA-h798-h7ff-93xv,https://da.gd/8RcyLa
+GithubAdvisories,[GHSA-mmvj-j7hq-rx85] Moodle sensitive information disclosure,https://github.com/advisories/GHSA-mmvj-j7hq-rx85,https://da.gd/URgXM9
+GithubAdvisories,[GHSA-pg75-v6fp-8q59] Keylime's registrar vulnerable to Denial-of-service attack via a single open connection,https://github.com/advisories/GHSA-pg75-v6fp-8q59,https://da.gd/W28w
+GithubAdvisories,[GHSA-m7cc-6vhg-39wr] Moodle improper access control,https://github.com/advisories/GHSA-m7cc-6vhg-39wr,https://da.gd/6nW9
+GithubAdvisories,[GHSA-9gjg-834p-5gvv] Duplicate Advisory: Keylime's registrar vulnerable to Denial-of-service attack via a single open connection,https://github.com/advisories/GHSA-9gjg-834p-5gvv,https://da.gd/HuBvzN
