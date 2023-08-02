@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pw2f-m22m-p75c] Magento 2 Community Edition Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-pw2f-m22m-p75c,https://da.gd/CPalpn
+GithubAdvisories,[GHSA-hf62-5vxh-jpwj] Pimcore 2FA Vulnerable to Brute Forcing,https://github.com/advisories/GHSA-hf62-5vxh-jpwj,https://da.gd/LiEDTU
+GithubAdvisories,[GHSA-g9m2-c2x5-fr2v] Moodle does not revoke role capabilities correctly,https://github.com/advisories/GHSA-g9m2-c2x5-fr2v,https://da.gd/7yaEXT
+GithubAdvisories,[GHSA-36pq-cjh9-fv46] Croogo Cross-site Scripting,https://github.com/advisories/GHSA-36pq-cjh9-fv46,https://da.gd/wdqR
