@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Postfix] rework dns_blocklists.cf generation,https://github.com/mailcow/mailcow-dockerized/commit/c45684b986fbe2f11a492ba44a82351acb097fed,https://da.gd/vVsVC4
+GithubCommitStaging,[Postfix] only apply DNSBL if dns_blocklists.cf is not empty,https://github.com/mailcow/mailcow-dockerized/commit/5d3491c80192b14abce7ff71585a0c3b8b786855,https://da.gd/Gyzjir
+GithubCommitStaging,Merge pull request #5359 from mailcow/fix/gen-dnsbl,https://github.com/mailcow/mailcow-dockerized/commit/180b9fc8d2c03e15dd80e4f54d68056825ae9bdc,https://da.gd/mPLwFO
