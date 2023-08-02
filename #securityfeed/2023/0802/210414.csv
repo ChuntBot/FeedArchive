@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cgvf-22vv-83h5] Apache James Server OS Command Injection,https://github.com/advisories/GHSA-cgvf-22vv-83h5,https://da.gd/kNy7
+GithubAdvisories,[GHSA-fh35-p8ph-p545] Silverstripe CMS Open Redirect,https://github.com/advisories/GHSA-fh35-p8ph-p545,https://da.gd/4vKKg
+GithubAdvisories,[GHSA-cg5h-q983-4rww] Apache Storm remote code execution vulnerability,https://github.com/advisories/GHSA-cg5h-q983-4rww,https://da.gd/vGEg
+GithubAdvisories,[GHSA-4749-p7rx-8jjj] tlslite remote denial of service vulnerability,https://github.com/advisories/GHSA-4749-p7rx-8jjj,https://da.gd/tICg04
+GithubAdvisories,[GHSA-785h-hrf7-gqxc] Docker Notary Signature Algorithm Not Matched to Key vulnerability,https://github.com/advisories/GHSA-785h-hrf7-gqxc,https://da.gd/rYKN
