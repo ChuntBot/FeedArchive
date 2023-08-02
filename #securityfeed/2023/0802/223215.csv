@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8w3f-236q-53m4] Centreon Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-8w3f-236q-53m4,https://da.gd/ENt4
+GithubAdvisories,[GHSA-wwwh-47wp-m522] Ansible Sandbox Escape via Symlink Attack,https://github.com/advisories/GHSA-wwwh-47wp-m522,https://da.gd/TMCT5J
+GithubAdvisories,[GHSA-3g56-2hh3-35ph] SoSReport Predictable Tmp File Names,https://github.com/advisories/GHSA-3g56-2hh3-35ph,https://da.gd/akVN
