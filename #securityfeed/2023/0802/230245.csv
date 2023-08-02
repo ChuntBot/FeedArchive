@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cpcw-p965-wpqx] rtslib-fb weak permissions for /etc/target/saveconfig.json file,https://github.com/advisories/GHSA-cpcw-p965-wpqx,https://da.gd/pdvbO7
+GithubAdvisories,[GHSA-45h5-cqqw-9rjw] Aubio is vulnerable to a NULL pointer dereference,https://github.com/advisories/GHSA-45h5-cqqw-9rjw,https://da.gd/XzZx7
+GithubAdvisories,[GHSA-84cw-mxhv-qvv4] Radicale is vulnerable to directory traversal on Windows Filesystem Storage Backend component,https://github.com/advisories/GHSA-84cw-mxhv-qvv4,https://da.gd/i31Y1Q
