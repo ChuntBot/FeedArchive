@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Merge pull request #5350 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/a1fb9622154c797fbba0bc4bb48ec6d1384034ff,https://da.gd/E9cC1D
+GithubCommitStaging,Fix main.cf merging order,https://github.com/mailcow/mailcow-dockerized/commit/5e7583c5e622ee264edb188b6259d668b8ad6b85,https://da.gd/3BH5
+GithubCommitStaging,Fix for fix,https://github.com/mailcow/mailcow-dockerized/commit/7cda9f063f900f216e32785bdbb2ddb7bdc3814b,https://da.gd/LB7Mm
+GithubCommitStaging,Merge pull request #5356 from sriccio/fix-postfix-merge-order,https://github.com/mailcow/mailcow-dockerized/commit/5c886d2f4eb76bc6fdba943c78b9215b298cc113,https://da.gd/jvek
