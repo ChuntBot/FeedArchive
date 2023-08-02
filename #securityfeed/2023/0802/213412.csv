@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c4fj-3wqq-g9c9] Centreon Command Injection,https://github.com/advisories/GHSA-c4fj-3wqq-g9c9,https://da.gd/Koh9PF
+GithubAdvisories,[GHSA-vfg9-phjp-9frw] Kallithea CRLF injection vulnerability,https://github.com/advisories/GHSA-vfg9-phjp-9frw,https://da.gd/bWnSbg
+GithubAdvisories,[GHSA-j5jh-hpr4-h332] Symfony Session Fixation Vulnerability,https://github.com/advisories/GHSA-j5jh-hpr4-h332,https://da.gd/GljZ0
