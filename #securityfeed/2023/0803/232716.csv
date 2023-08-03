@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gwvq-rgqf-993f] python-keystoneclient vulnerable to context confusion in Keystone auth_token middleware,https://github.com/advisories/GHSA-gwvq-rgqf-993f,https://da.gd/8ptIkt
+GithubAdvisories,[GHSA-c35g-jr5f-h83p] SleekXMPP and Slixmpp Incorrect Implementation of Message Carbons,https://github.com/advisories/GHSA-c35g-jr5f-h83p,https://da.gd/cviAO
