@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Add postscreen_dnsbl_reply_map to avoid disclosure of DQS key with Sp…,https://github.com/mailcow/mailcow-dockerized/commit/9f39af46aa9952d192cb1aaea47a3785eb088fc7,https://da.gd/mfCKd
+GithubCommitStaging,Merge branch 'staging' into staging,https://github.com/mailcow/mailcow-dockerized/commit/8f9ed9e0df04247e029b7241165e44d1d3828719,https://da.gd/iiEjM
+GithubCommitStaging,Merge pull request #5357 from DocFraggle/staging,https://github.com/mailcow/mailcow-dockerized/commit/e1767247753703d0ea535ba5fe00f85bc6093c1c,https://da.gd/6JrBW0
