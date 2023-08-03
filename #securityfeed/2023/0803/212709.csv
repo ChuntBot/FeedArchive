@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4vwv-x3gp-2j4g] The Undertow module of WildFly allows source code disclosure,https://github.com/advisories/GHSA-4vwv-x3gp-2j4g,https://da.gd/2bE644
+GithubAdvisories,[GHSA-gv98-g628-m9x5] Django Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-gv98-g628-m9x5,https://da.gd/mEO7FS
+GithubAdvisories,[GHSA-7qfw-j7hp-v45g] Django WSGI Header Spoofing Vulnerability,https://github.com/advisories/GHSA-7qfw-j7hp-v45g,https://da.gd/mX02j
