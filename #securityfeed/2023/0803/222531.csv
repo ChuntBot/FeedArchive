@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wwrg-2w5j-grvx] RDiffWeb vulnerable to Allocation of Resources Without Limits or Throttling,https://github.com/advisories/GHSA-wwrg-2w5j-grvx,https://da.gd/fYCuV
+GithubAdvisories,[GHSA-92pw-mff9-jqgm] Salt improper handling of tmp files,https://github.com/advisories/GHSA-92pw-mff9-jqgm,https://da.gd/bTuD2
+GithubAdvisories,[GHSA-wmhw-fvg9-87fc] OpenStack Glance Signature Verification Bypass,https://github.com/advisories/GHSA-wmhw-fvg9-87fc,https://da.gd/SJtwY
+GithubAdvisories,[GHSA-5f6p-4hxq-rjxm] Umbraco CMS vulnerable to CSRF,https://github.com/advisories/GHSA-5f6p-4hxq-rjxm,https://da.gd/p9qq7
+GithubAdvisories,[GHSA-4fxw-g29w-r8mx] Apache Solr Cross-site scripting Vulnerability,https://github.com/advisories/GHSA-4fxw-g29w-r8mx,https://da.gd/dN3F
+GithubAdvisories,[GHSA-gwwq-54qp-9pgp] Zend Framework CSRF Vulnerability,https://github.com/advisories/GHSA-gwwq-54qp-9pgp,https://da.gd/q7wmqt
+GithubAdvisories,[GHSA-w2xx-jp9f-gp8g] Yii Framework Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-w2xx-jp9f-gp8g,https://da.gd/37a06
