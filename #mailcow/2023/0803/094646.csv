@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubCommit,Fix main.cf merging order,https://github.com/mailcow/mailcow-dockerized/commit/5e7583c5e622ee264edb188b6259d668b8ad6b85,https://da.gd/3BH5
+GithubCommit,Fix for fix,https://github.com/mailcow/mailcow-dockerized/commit/7cda9f063f900f216e32785bdbb2ddb7bdc3814b,https://da.gd/LB7Mm
+GithubCommit,Add postscreen_dnsbl_reply_map to avoid disclosure of DQS key with Sp…,https://github.com/mailcow/mailcow-dockerized/commit/9f39af46aa9952d192cb1aaea47a3785eb088fc7,https://da.gd/mfCKd
+GithubCommit,Merge pull request #5356 from sriccio/fix-postfix-merge-order,https://github.com/mailcow/mailcow-dockerized/commit/5c886d2f4eb76bc6fdba943c78b9215b298cc113,https://da.gd/jvek
+GithubCommit,[Postfix] rework dns_blocklists.cf generation,https://github.com/mailcow/mailcow-dockerized/commit/c45684b986fbe2f11a492ba44a82351acb097fed,https://da.gd/vVsVC4
+GithubCommit,[Postfix] only apply DNSBL if dns_blocklists.cf is not empty,https://github.com/mailcow/mailcow-dockerized/commit/5d3491c80192b14abce7ff71585a0c3b8b786855,https://da.gd/Gyzjir
+GithubCommit,Merge pull request #5359 from mailcow/fix/gen-dnsbl,https://github.com/mailcow/mailcow-dockerized/commit/180b9fc8d2c03e15dd80e4f54d68056825ae9bdc,https://da.gd/mPLwFO
+GithubCommit,[Postfix] remove spamhaus dbl and zrd from postscreen_dnsbl_sites,https://github.com/mailcow/mailcow-dockerized/commit/003eecf131f15b86f5ace52f7441cbd141dc1ce7,https://da.gd/TiTG
+GithubCommit,Merge branch 'staging' into staging,https://github.com/mailcow/mailcow-dockerized/commit/8f9ed9e0df04247e029b7241165e44d1d3828719,https://da.gd/iiEjM
+GithubCommit,Merge pull request #5357 from DocFraggle/staging,https://github.com/mailcow/mailcow-dockerized/commit/e1767247753703d0ea535ba5fe00f85bc6093c1c,https://da.gd/6JrBW0
+GithubCommit,[Postfix] remove dnsbl_reply.map if not required,https://github.com/mailcow/mailcow-dockerized/commit/b050cb9864c09bb78d747c4e0243f2ba4c144b43,https://da.gd/z6TkH
+GithubCommit,Merge pull request #5360 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/d6c3c58f429a4cd9d4bcf6f2f3ab0dc2c13b00f8,https://da.gd/q90ix1
