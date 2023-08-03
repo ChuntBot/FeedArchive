@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jhjg-w2cp-5j44] Django DoS in django.views.static.serve,https://github.com/advisories/GHSA-jhjg-w2cp-5j44,https://da.gd/nYEwe
+GithubAdvisories,[GHSA-cqf7-ff9h-7967] Django ReDoS in validators.URLValidator,https://github.com/advisories/GHSA-cqf7-ff9h-7967,https://da.gd/EU2PP
+GithubAdvisories,[GHSA-2pqc-gv8q-pvqv] django-cms CSRF Vulnerability,https://github.com/advisories/GHSA-2pqc-gv8q-pvqv,https://da.gd/VZpeh8
+GithubAdvisories,[GHSA-jj95-55cr-9597] Aerospike Java Client vulnerable to unsafe deserialization of server responses,https://github.com/advisories/GHSA-jj95-55cr-9597,https://da.gd/iF6N
+GithubAdvisories,[GHSA-g6w6-h933-4rc5] Soketi was exposed to Sandbox Escape vulnerability via vm2,https://github.com/advisories/GHSA-g6w6-h933-4rc5,https://da.gd/0l4dK
+GithubAdvisories,[GHSA-wmwf-49vv-p3mr] Sulu Observable Response Discrepancy on Admin Login,https://github.com/advisories/GHSA-wmwf-49vv-p3mr,https://da.gd/uqy1
+GithubAdvisories,[GHSA-353m-jh2m-72v4] Code injection in stanford-parser,https://github.com/advisories/GHSA-353m-jh2m-72v4,https://da.gd/d0704p
