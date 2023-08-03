@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xp8p-9rq5-4wgv] ZendXml and Zend Framework contain XXE and XEE Vulnerabilities,https://github.com/advisories/GHSA-xp8p-9rq5-4wgv,https://da.gd/ONlfwr
+GithubAdvisories,[GHSA-g97c-jfx6-xvxh] Symfony Vulnerable to Timing Attack,https://github.com/advisories/GHSA-g97c-jfx6-xvxh,https://da.gd/ePbEF
+GithubAdvisories,[GHSA-qmqw-mpqp-mr54] Symfony Incorrect Access Control,https://github.com/advisories/GHSA-qmqw-mpqp-mr54,https://da.gd/h12JIh
+GithubAdvisories,[GHSA-v6fh-vg22-r6cm] phpMyAdmin ReCaptcha bypass,https://github.com/advisories/GHSA-v6fh-vg22-r6cm,https://da.gd/ANKTu
+GithubAdvisories,[GHSA-6fw8-vf2x-4wpm] Dolibarr ERP and CRM contain Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-6fw8-vf2x-4wpm,https://da.gd/P3b1uO
+GithubAdvisories,[GHSA-r969-8v3h-23v9] Apache NiFi Code Injection vulnerability,https://github.com/advisories/GHSA-r969-8v3h-23v9,https://da.gd/QDvX55
+GithubAdvisories,[GHSA-hwq7-cvp8-6hm3] phpBB Open Redirect,https://github.com/advisories/GHSA-hwq7-cvp8-6hm3,https://da.gd/NggE
+GithubAdvisories,[GHSA-p9cv-hrxr-fxx8] Restkit Does Not Validate TLS certificates,https://github.com/advisories/GHSA-p9cv-hrxr-fxx8,https://da.gd/J7hhxR
