@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-52h8-c876-989c] Answer has Race Condition within a Thread,https://github.com/advisories/GHSA-52h8-c876-989c,https://da.gd/hyh3
+GithubAdvisories,[GHSA-ggcf-hwxp-rc77] Answer Insufficient Session Expiration vulnerability,https://github.com/advisories/GHSA-ggcf-hwxp-rc77,https://da.gd/qRT4
+GithubAdvisories,[GHSA-v9vc-7x69-c2x8] Answer Missing Authorization vulnerability,https://github.com/advisories/GHSA-v9vc-7x69-c2x8,https://da.gd/SvSwZO
+GithubAdvisories,[GHSA-x92g-49gh-63qm] Budibase Improper Access Control vulnerability,https://github.com/advisories/GHSA-x92g-49gh-63qm,https://da.gd/6aeG
+GithubAdvisories,[GHSA-39ph-wr67-j4xq] loguru vulnerable to improper privilege management,https://github.com/advisories/GHSA-39ph-wr67-j4xq,https://da.gd/pIsIf
+GithubAdvisories,[GHSA-6jwc-qr2q-7xwj] protocol-http1 HTTP Request/Response Smuggling vulnerability,https://github.com/advisories/GHSA-6jwc-qr2q-7xwj,https://da.gd/RqmfJ
+GithubAdvisories,[GHSA-gpcv-p28p-fv2p] odoh-rs's Invalid Slice Split Results in Server Panic,https://github.com/advisories/GHSA-gpcv-p28p-fv2p,https://da.gd/qE3uhd
+GithubAdvisories,[GHSA-8c93-4hch-xgxp] Cloudflare Wrangler directory traversal vulnerability,https://github.com/advisories/GHSA-8c93-4hch-xgxp,https://da.gd/RVgUX
+GithubAdvisories,[GHSA-34hj-v8fm-x887] Pimcore Path Traversal Vulnerability in AssetController:importServerFilesAction,https://github.com/advisories/GHSA-34hj-v8fm-x887,https://da.gd/UwetN
+GithubAdvisories,[GHSA-735f-w79p-282x] pimcore/customer-management-framework-bundle Cross-site Scripting vulnerability in Segment name,https://github.com/advisories/GHSA-735f-w79p-282x,https://da.gd/sHJHaX
+GithubAdvisories,[GHSA-j3xp-wfr4-hx87] Cargo not respecting umask when extracting crate archives,https://github.com/advisories/GHSA-j3xp-wfr4-hx87,https://da.gd/EjvSkb
