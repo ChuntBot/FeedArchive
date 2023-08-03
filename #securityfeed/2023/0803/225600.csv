@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x58j-j539-w8mv] Duplicate Advisory: Improper Restriction of XML External Entity Reference in pikepdf,https://github.com/advisories/GHSA-x58j-j539-w8mv,https://da.gd/TjmNIj
+GithubAdvisories,[GHSA-97cv-6pjf-5f9q] AsyncSSH SSH Server Authentication Bypass,https://github.com/advisories/GHSA-97cv-6pjf-5f9q,https://da.gd/87mmL
+GithubAdvisories,[GHSA-gv85-wgxc-vc56] web2py is vulnerable to password brute-force attack,https://github.com/advisories/GHSA-gv85-wgxc-vc56,https://da.gd/U1NNI
+GithubAdvisories,[GHSA-q2rq-qgcf-m22w] web2py remote code execution via hardcoded encryption key in session.connect function,https://github.com/advisories/GHSA-q2rq-qgcf-m22w,https://da.gd/QVtNP
