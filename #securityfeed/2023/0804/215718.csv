@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gp69-xcm6-ffqj] Web2py Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-gp69-xcm6-ffqj,https://da.gd/V6tz
+GithubAdvisories,[GHSA-j24g-gm76-j829] Weblate user account enumeration via reset password form,https://github.com/advisories/GHSA-j24g-gm76-j829,https://da.gd/pmb7W
+GithubAdvisories,[GHSA-8q2m-pwxf-jc7g] python-keystoneclient unsecure user password update,https://github.com/advisories/GHSA-8q2m-pwxf-jc7g,https://da.gd/AazR7
+GithubAdvisories,[GHSA-rcv6-7hmv-fj7h] Aubio is vulnerable to denial of service via aubio_source_avcodec_readframe function,https://github.com/advisories/GHSA-rcv6-7hmv-fj7h,https://da.gd/LOlQ6
+GithubAdvisories,[GHSA-vcwx-8mqh-2557] Aubio Divide-By-Zero DoS vulnerability in new_aubio_source_wavread function,https://github.com/advisories/GHSA-vcwx-8mqh-2557,https://da.gd/q39Mk
+GithubAdvisories,[GHSA-g7g8-mx45-x4c8] Aubio is vulnerable to denial of service via aubio_pitch_set_unit function,https://github.com/advisories/GHSA-g7g8-mx45-x4c8,https://da.gd/J0pa
+GithubAdvisories,[GHSA-3x58-8qmv-wqw5] Aubio is vulnerable to out of bound read when samplerate > 50kHz,https://github.com/advisories/GHSA-3x58-8qmv-wqw5,https://da.gd/2nEgT
+GithubAdvisories,[GHSA-rpv4-63g3-9x23] Radicale is vulnerable to timing oracles and simple bruteforce attacks,https://github.com/advisories/GHSA-rpv4-63g3-9x23,https://da.gd/WXZCX
+GithubAdvisories,[GHSA-mqwh-r366-4224] Cabot Cross Site Scripting (XSS) vulnerability via Endpoint column,https://github.com/advisories/GHSA-mqwh-r366-4224,https://da.gd/xWRjEN
+GithubAdvisories,[GHSA-8q2h-4mq6-396j] Cabot Cross Site Scripting (XSS) vulnerability via Address column,https://github.com/advisories/GHSA-8q2h-4mq6-396j,https://da.gd/Pki7
+GithubAdvisories,[GHSA-q7mc-fc87-v7w7] OpenRefine Server-Side Request Forgery vulnerability,https://github.com/advisories/GHSA-q7mc-fc87-v7w7,https://da.gd/Pwrz
