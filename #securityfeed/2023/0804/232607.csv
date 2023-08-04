@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q5qw-4364-5hhm] Django Vulnerable to HTTP Response Splitting Attack,https://github.com/advisories/GHSA-q5qw-4364-5hhm,https://da.gd/JpAee
+GithubAdvisories,[GHSA-9g4f-5rpg-4948] NodeBB Cross-site Scripting Vulnerability in Markdown Processing,https://github.com/advisories/GHSA-9g4f-5rpg-4948,https://da.gd/yPY6n
+GithubAdvisories,[GHSA-6565-fg86-6jcx] Django Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-6565-fg86-6jcx,https://da.gd/byNqrQ
+GithubAdvisories,[GHSA-j984-q4qc-6qxf] librsvg DoS via Cyclic References,https://github.com/advisories/GHSA-j984-q4qc-6qxf,https://da.gd/doZ7kF
+GithubAdvisories,[GHSA-56f9-5563-m2h7] Typo3 XSS Vulnerability,https://github.com/advisories/GHSA-56f9-5563-m2h7,https://da.gd/BgzFK
+GithubAdvisories,[GHSA-w3p6-94x2-xcvm] Apache Ambari Open Redirect,https://github.com/advisories/GHSA-w3p6-94x2-xcvm,https://da.gd/nn1DBh
+GithubAdvisories,[GHSA-9g2j-5685-h44h] Apache Ambari SSRF Vulnerability,https://github.com/advisories/GHSA-9g2j-5685-h44h,https://da.gd/PoXQ1
+GithubAdvisories,[GHSA-9hq8-v2jc-qj4r] October CMS XSS In Caption Tag of Profile,https://github.com/advisories/GHSA-9hq8-v2jc-qj4r,https://da.gd/LKeX
+GithubAdvisories,[GHSA-wxmr-7xjv-8xqw] django-markupfield Arbitrary File Read,https://github.com/advisories/GHSA-wxmr-7xjv-8xqw,https://da.gd/z2RWiE
