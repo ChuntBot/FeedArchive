@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w7vm-4v3j-vgpw] PyroCMS remote code execution vulnerability,https://github.com/advisories/GHSA-w7vm-4v3j-vgpw,https://da.gd/0Yna
+GithubAdvisories,[GHSA-2xx4-jj5v-6mff] Nuclei Path Traversal vulnerability,https://github.com/advisories/GHSA-2xx4-jj5v-6mff,https://da.gd/Ug9Hv
+GithubAdvisories,[GHSA-3pmj-jqqp-2mj3] matrix-appservice-irc IRC command injection via admin commands containing newlines,https://github.com/advisories/GHSA-3pmj-jqqp-2mj3,https://da.gd/NSulA
+GithubAdvisories,"[GHSA-vc7j-h8xg-fv5x] matrix-appservice-bridge doesn't verify the sub parameter of an openId token exhange, allowing unauthorized access to provisioning APIs",https://github.com/advisories/GHSA-vc7j-h8xg-fv5x,https://da.gd/JWlioT
+GithubAdvisories,[GHSA-c7hh-3v6c-fj4q] matrix-appservice-irc events can be crafted to leak parts of targeted messages from other bridged rooms,https://github.com/advisories/GHSA-c7hh-3v6c-fj4q,https://da.gd/Bmut
