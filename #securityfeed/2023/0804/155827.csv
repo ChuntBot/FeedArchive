@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4r2w-w73w-36jm] eyeD3 is vulnerable to arbitrary file modification via symlink attack,https://github.com/advisories/GHSA-4r2w-w73w-36jm,https://da.gd/J35S6
