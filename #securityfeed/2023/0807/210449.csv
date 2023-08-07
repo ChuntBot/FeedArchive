@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vq74-9583-hrm4] Publify vulnerable to DoS attack,https://github.com/advisories/GHSA-vq74-9583-hrm4,https://da.gd/iybgZ
+GithubAdvisories,[GHSA-xr6q-qqx7-553g] JBoss Keycloak CSRF Vulnerability,https://github.com/advisories/GHSA-xr6q-qqx7-553g,https://da.gd/DuRO
+GithubAdvisories,[GHSA-49m5-2838-q2rv] Ansible unsafe evaluation of some strings,https://github.com/advisories/GHSA-49m5-2838-q2rv,https://da.gd/VaK2
+GithubAdvisories,[GHSA-jjwj-w3gc-gcw4] DOMPDF Remote Code Execution,https://github.com/advisories/GHSA-jjwj-w3gc-gcw4,https://da.gd/QOgNPs
+GithubAdvisories,[GHSA-jwf8-mjj8-r8hq] DOMPDF Information Disclosure,https://github.com/advisories/GHSA-jwf8-mjj8-r8hq,https://da.gd/S0Memz
+GithubAdvisories,[GHSA-5r7w-pjx8-99qg] JBoss KeyCloak Open Redirect,https://github.com/advisories/GHSA-5r7w-pjx8-99qg,https://da.gd/s46qIq
+GithubAdvisories,[GHSA-px42-mr8m-cpgh] JBoss KeyCloak Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-px42-mr8m-cpgh,https://da.gd/vM5j6k
+GithubAdvisories,[GHSA-7vpq-g998-qpv7] Netty denial of service vulnerability,https://github.com/advisories/GHSA-7vpq-g998-qpv7,https://da.gd/AQWVop
+GithubAdvisories,[GHSA-q7wx-mhx4-jr8q] Apache Wicket Sensitive Data Exposure,https://github.com/advisories/GHSA-q7wx-mhx4-jr8q,https://da.gd/NGERb
+GithubAdvisories,[GHSA-c438-8cvq-pxxx] Apache Tapestry Unsafe Object Storage,https://github.com/advisories/GHSA-c438-8cvq-pxxx,https://da.gd/zYT5M2
+GithubAdvisories,[GHSA-5g4v-2pc6-4hh4] Ansible Sensitive Files Are Locally Readable,https://github.com/advisories/GHSA-5g4v-2pc6-4hh4,https://da.gd/F2fek
+GithubAdvisories,[GHSA-qg47-5px9-32g7] Ansible Remote Code Execution,https://github.com/advisories/GHSA-qg47-5px9-32g7,https://da.gd/Q21V
