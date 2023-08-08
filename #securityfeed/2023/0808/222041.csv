@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j63x-f657-2m9g] Answer has Weak Password Requirements,https://github.com/advisories/GHSA-j63x-f657-2m9g,https://da.gd/fVAAbQ
+GithubAdvisories,[GHSA-f259-h6m8-hm8m] exec-local-bin vulnerable to Command Injection,https://github.com/advisories/GHSA-f259-h6m8-hm8m,https://da.gd/GhTvNw
