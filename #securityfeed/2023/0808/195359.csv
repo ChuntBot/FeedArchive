@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c497-v8pv-ch6x] Prototype pollution in nested-object-assign,https://github.com/advisories/GHSA-c497-v8pv-ch6x,https://da.gd/eWop4
+GithubAdvisories,[GHSA-f5c9-x9j6-87qp] Prototype pollution in dotty,https://github.com/advisories/GHSA-f5c9-x9j6-87qp,https://da.gd/nsXLA
+GithubAdvisories,[GHSA-5r27-rw8r-7967] Unsanitized user controlled input in module generation,https://github.com/advisories/GHSA-5r27-rw8r-7967,https://da.gd/mzUJa0
