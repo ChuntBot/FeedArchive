@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7vh7-fw88-wj87] Several quadratic complexity bugs may lead to denial of service in Commonmarker,https://github.com/advisories/GHSA-7vh7-fw88-wj87,https://da.gd/s8qArA
