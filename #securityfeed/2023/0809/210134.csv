@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f8pq-3926-8gx5] Unsanitized user controlled input in module generation,https://github.com/advisories/GHSA-f8pq-3926-8gx5,https://da.gd/WNWn
+GithubAdvisories,[GHSA-hgj4-h2x3-rfx4] Sentry vulnerable to incorrect credential validation on OAuth token requests,https://github.com/advisories/GHSA-hgj4-h2x3-rfx4,https://da.gd/Soqb2Z
+GithubAdvisories,[GHSA-8c37-7qx3-4c4p] Blst has logical error in SigValidate in Go bindings,https://github.com/advisories/GHSA-8c37-7qx3-4c4p,https://da.gd/8gGoOO
