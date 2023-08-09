@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-876p-8259-xjgg] libp2p nodes vulnerable to attack using large RSA keys,https://github.com/advisories/GHSA-876p-8259-xjgg,https://da.gd/ZYvqw
+GithubAdvisories,[GHSA-c3x7-354f-4p2x] lol-html panics on certain HTML inputs,https://github.com/advisories/GHSA-c3x7-354f-4p2x,https://da.gd/w7GYNs
+GithubAdvisories,[GHSA-6xxc-4jc4-7jv3] Exposure of Resource to Wrong Sphere in Liferay Portal,https://github.com/advisories/GHSA-6xxc-4jc4-7jv3,https://da.gd/5s7dG
+GithubAdvisories,[GHSA-jjmc-4p83-pp26] Logic error in Matrix SDK for Android,https://github.com/advisories/GHSA-jjmc-4p83-pp26,https://da.gd/RsNbU
+GithubAdvisories,[GHSA-2q4g-wfm6-5fpm] SaltStack Improper Verification of Cryptographic Signature,https://github.com/advisories/GHSA-2q4g-wfm6-5fpm,https://da.gd/Z6yVv
+GithubAdvisories,[GHSA-p8rx-fwgq-rh2f] .NET Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-p8rx-fwgq-rh2f,https://da.gd/0MFD1d
+GithubAdvisories,[GHSA-p57v-gv7q-4xfm] .NET Denial of Service Vulnerability,https://github.com/advisories/GHSA-p57v-gv7q-4xfm,https://da.gd/Vak0pN
+GithubAdvisories,[GHSA-vmch-3w2x-vhgq] .NET Denial of Service Vulnerability,https://github.com/advisories/GHSA-vmch-3w2x-vhgq,https://da.gd/Z5jj
+GithubAdvisories,[GHSA-rg2c-cfxv-qp6f] Denial of service in jackson-dataformats-text,https://github.com/advisories/GHSA-rg2c-cfxv-qp6f,https://da.gd/otVQ
+GithubAdvisories,[GHSA-r3hf-q8q7-fv2p] Angular critical CSS inlining Cross-site Scripting Vulnerability Advisory,https://github.com/advisories/GHSA-r3hf-q8q7-fv2p,https://da.gd/DpVF7
