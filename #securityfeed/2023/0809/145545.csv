@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9c4h-3f7h-322r] SES's dynamic import and spread operator provides possible path to arbitrary exfiltration and execution,https://github.com/advisories/GHSA-9c4h-3f7h-322r,https://da.gd/X7l0sb
+GithubAdvisories,[GHSA-2ggp-cmvm-f62f] ScanCode.io command injection in docker image fetch process,https://github.com/advisories/GHSA-2ggp-cmvm-f62f,https://da.gd/L4zh6
+GithubAdvisories,[GHSA-8j3v-68w3-3848] Gitea erroneous repo clones,https://github.com/advisories/GHSA-8j3v-68w3-3848,https://da.gd/r43mk
+GithubAdvisories,[GHSA-v4gr-v679-42p7] PrestaShop file deletion via CustomerMessage,https://github.com/advisories/GHSA-v4gr-v679-42p7,https://da.gd/Vycs7b
+GithubAdvisories,[GHSA-2rf5-3fw8-qm47] PrestaShop file deletion via attachment API,https://github.com/advisories/GHSA-2rf5-3fw8-qm47,https://da.gd/EgKTL
+GithubAdvisories,[GHSA-hpf4-v7v2-95p2] PrestaShop file access through path traversal,https://github.com/advisories/GHSA-hpf4-v7v2-95p2,https://da.gd/iR0GqR
+GithubAdvisories,[GHSA-xw2r-f8xv-c8xp] PrestaShop XSS injection through Validate::isCleanHTML method,https://github.com/advisories/GHSA-xw2r-f8xv-c8xp,https://da.gd/V9oXw
+GithubAdvisories,[GHSA-gf46-prm4-56pc] PrestaShop SQL manager vulnerability,https://github.com/advisories/GHSA-gf46-prm4-56pc,https://da.gd/FdZsjV
+GithubAdvisories,[GHSA-m9r4-3fg7-pqm2] PrestaShop path traversal,https://github.com/advisories/GHSA-m9r4-3fg7-pqm2,https://da.gd/7qNhNq
+GithubAdvisories,[GHSA-75p5-jwx4-qw9h] PrestaShop boolean SQL injection,https://github.com/advisories/GHSA-75p5-jwx4-qw9h,https://da.gd/YXVZS
+GithubAdvisories,[GHSA-w3qm-93vf-5hrw] Cockpit Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-w3qm-93vf-5hrw,https://da.gd/m4gqy
+GithubAdvisories,[GHSA-xcq3-7pf3-5jvc] Cockpit PHP Remote File Inclusion vulnerability,https://github.com/advisories/GHSA-xcq3-7pf3-5jvc,https://da.gd/xZyb5s
+GithubAdvisories,[GHSA-qq8m-9rpx-w2fm] Admidio Insufficient Session Expiration vulnerability,https://github.com/advisories/GHSA-qq8m-9rpx-w2fm,https://da.gd/bspZ
+GithubAdvisories,[GHSA-5824-cm3x-3c38] Vyper has incorrectly allocated named re-entrancy locks,https://github.com/advisories/GHSA-5824-cm3x-3c38,https://da.gd/U9jmoB
+GithubAdvisories,[GHSA-269x-pg5c-5xgm] Apache Airflow Execution with Unnecessary Privileges,https://github.com/advisories/GHSA-269x-pg5c-5xgm,https://da.gd/36Jatm
