@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hf7j-xj3w-87g4] 1Panel arbitrary file write vulnerability,https://github.com/advisories/GHSA-hf7j-xj3w-87g4,https://da.gd/yT0d9
+GithubAdvisories,[GHSA-85cf-gj29-f555] 1Panel Arbitrary File Download vulnerability,https://github.com/advisories/GHSA-85cf-gj29-f555,https://da.gd/5C77
+GithubAdvisories,[GHSA-pv7q-v9mv-9mh5] 1Panel O&M management panel has a background arbitrary file reading vulnerability,https://github.com/advisories/GHSA-pv7q-v9mv-9mh5,https://da.gd/C0wb
