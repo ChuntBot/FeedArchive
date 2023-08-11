@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pr76-5cm5-w9cj] GitPython vulnerable to remote code execution due to insufficient sanitization of input arguments,https://github.com/advisories/GHSA-pr76-5cm5-w9cj,https://da.gd/ioEK7
+GithubAdvisories,[GHSA-9rmf-6qgj-g3wj] Froxlor vulnerable to business logic errors,https://github.com/advisories/GHSA-9rmf-6qgj-g3wj,https://da.gd/nkiTrj
