@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g4vp-m682-qqmp] OpenZeppelin Contracts vulnerable to Improper Escaping of Output,https://github.com/advisories/GHSA-g4vp-m682-qqmp,https://da.gd/Fx5C5n
+GithubAdvisories,[GHSA-wrxf-x8rm-6ggg] Fluent Fluentd and Fluent-ui use default password,https://github.com/advisories/GHSA-wrxf-x8rm-6ggg,https://da.gd/2ofPK
+GithubAdvisories,[GHSA-cx3j-qqxj-9597] Critters Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-cx3j-qqxj-9597,https://da.gd/KkJnJ
