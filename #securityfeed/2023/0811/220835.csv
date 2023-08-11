@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jfrf-vv54-j2jg] Margox Braft-Editor Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-jfrf-vv54-j2jg,https://da.gd/5IzxiC
+GithubAdvisories,[GHSA-4987-5p3p-9r27] FaucetSDN Ryu Denial of Service Vulnerability,https://github.com/advisories/GHSA-4987-5p3p-9r27,https://da.gd/VQUVL
+GithubAdvisories,[GHSA-5x64-925v-h4gv] FaucetSDN Ryu Denial of Service Vulnerability,https://github.com/advisories/GHSA-5x64-925v-h4gv,https://da.gd/IAKpC
+GithubAdvisories,[GHSA-mq4v-6vg4-796c] apache-airflow-providers-apache-drill Improper Input Validation vulnerability,https://github.com/advisories/GHSA-mq4v-6vg4-796c,https://da.gd/5woR
+GithubAdvisories,[GHSA-9rww-66w7-7vjx] Mattermost fails to sanitize post metadata,https://github.com/advisories/GHSA-9rww-66w7-7vjx,https://da.gd/daqsfo
+GithubAdvisories,[GHSA-6xjj-v76v-fwpj] Mattermost does not validate requesting user permissions before updating admin details,https://github.com/advisories/GHSA-6xjj-v76v-fwpj,https://da.gd/l1UkY
+GithubAdvisories,[GHSA-g3v6-r8p9-wxg9] Mattermost fails to correctly delete attachments,https://github.com/advisories/GHSA-g3v6-r8p9-wxg9,https://da.gd/4FzpU
+GithubAdvisories,[GHSA-p267-jjfq-pphf] Mattermost fails to check if user is a guest before performing actions on public playbooks,https://github.com/advisories/GHSA-p267-jjfq-pphf,https://da.gd/i90u9
