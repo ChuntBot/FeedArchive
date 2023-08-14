@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w5vr-6qhr-36cc] `ed25519-dalek` Double Public Key Signing Function Oracle Attack,https://github.com/advisories/GHSA-w5vr-6qhr-36cc,https://da.gd/Gs9dd
+GithubAdvisories,[GHSA-9phh-r37v-34wh] lakeFS vulnerable to Arbitrary JavaScript Injection via Direct Link to HTML Files,https://github.com/advisories/GHSA-9phh-r37v-34wh,https://da.gd/JZaR
+GithubAdvisories,[GHSA-3vf5-xm2p-6mh5] Cockpit Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-3vf5-xm2p-6mh5,https://da.gd/8QaPQ
