@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qppv-j76h-2rpx] Tornado vulnerable to HTTP request smuggling via improper parsing of `Content-Length` fields and chunk lengths,https://github.com/advisories/GHSA-qppv-j76h-2rpx,https://da.gd/1Xh2
+GithubAdvisories,[GHSA-xvv9-5j67-3rpq] zola Path Traversal vulnerability,https://github.com/advisories/GHSA-xvv9-5j67-3rpq,https://da.gd/N3JnfM
+GithubAdvisories,[GHSA-xc2r-jf2x-gjr8] external-svg-loader Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-xc2r-jf2x-gjr8,https://da.gd/iKzqK
+GithubAdvisories,[GHSA-7h45-grc5-89wq] Svelecte item names vulnerable to execution of arbitrary JavaScript,https://github.com/advisories/GHSA-7h45-grc5-89wq,https://da.gd/P7Y4Ib
+GithubAdvisories,[GHSA-chgr-j2p9-jjh8] OpenNMS vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-chgr-j2p9-jjh8,https://da.gd/IbpE7D
+GithubAdvisories,[GHSA-qfw7-pfxx-h9q2] OpenNMS vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-qfw7-pfxx-h9q2,https://da.gd/9qZ4
+GithubAdvisories,[GHSA-w5gq-xrrp-3fxf] OpenNMS privilege elevation vulnerability,https://github.com/advisories/GHSA-w5gq-xrrp-3fxf,https://da.gd/yzlofa
