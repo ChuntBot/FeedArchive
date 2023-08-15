@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9c9v-w225-v5rg] Ghost vulnerable to arbitrary file read via symlinks in content import,https://github.com/advisories/GHSA-9c9v-w225-v5rg,https://da.gd/BImen
