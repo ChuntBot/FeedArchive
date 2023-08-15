@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j249-ghv5-7mxv] Secret insertion into debug log in Docker,https://github.com/advisories/GHSA-j249-ghv5-7mxv,https://da.gd/5AbI
+GithubAdvisories,[GHSA-xvhg-w6qc-m3qq] Yaklang Plugin's Fuzztag Component Allows Unauthorized Local File Reading,https://github.com/advisories/GHSA-xvhg-w6qc-m3qq,https://da.gd/s9Cp3f
+GithubAdvisories,[GHSA-6xcx-gx7r-rccj] Scancode.io Reflected Cross-Site Scripting (XSS) in license endpoint,https://github.com/advisories/GHSA-6xcx-gx7r-rccj,https://da.gd/HJIQ
+GithubAdvisories,"[GHSA-9cvc-v7wm-992c] When `ui.isAccessAllowed` is `undefined`, the `adminMeta` GraphQL query is publicly accessible",https://github.com/advisories/GHSA-9cvc-v7wm-992c,https://da.gd/EnwCp
+GithubAdvisories,[GHSA-m6pf-cm3f-7876] LibreNMS Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-m6pf-cm3f-7876,https://da.gd/453LiR
+GithubAdvisories,[GHSA-fj32-q626-pjjc] LangChain vulnerable to arbitrary code execution,https://github.com/advisories/GHSA-fj32-q626-pjjc,https://da.gd/5ncm
+GithubAdvisories,[GHSA-xrrh-h86w-pwfj] Alluxio vulnerable to arbitrary code execution,https://github.com/advisories/GHSA-xrrh-h86w-pwfj,https://da.gd/sAEkeB
