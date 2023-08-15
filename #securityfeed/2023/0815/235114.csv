@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-83c3-qx27-2rwr] Symfony Allows URI Restrictions Bypass Via Double-Encoded String,https://github.com/advisories/GHSA-83c3-qx27-2rwr,https://da.gd/t8egg
+GithubAdvisories,[GHSA-89cp-fvcc-hxh7] Symfony Access Control Vulnerability,https://github.com/advisories/GHSA-89cp-fvcc-hxh7,https://da.gd/MSjZ9
+GithubAdvisories,[GHSA-xpxp-v33m-5jp9] phpMyAdmin Unsafe Fetching of Javascript Code,https://github.com/advisories/GHSA-xpxp-v33m-5jp9,https://da.gd/yLNDw
+GithubAdvisories,[GHSA-296w-6qhq-gf92] Django denial of service via file upload naming,https://github.com/advisories/GHSA-296w-6qhq-gf92,https://da.gd/1d2pQ
