@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v4vm-gj2x-6qhm] DCE extension for Typo3 Discloses Environment Information,https://github.com/advisories/GHSA-v4vm-gj2x-6qhm,https://da.gd/NlIKc
+GithubAdvisories,[GHSA-66c7-5pwv-mm3j] Ansible Code Injection Vulnerability,https://github.com/advisories/GHSA-66c7-5pwv-mm3j,https://da.gd/X1hEjx
+GithubAdvisories,[GHSA-2fmv-j5xj-4fmq] Moodle Reveals Student Information Meant To Be Anonymous,https://github.com/advisories/GHSA-2fmv-j5xj-4fmq,https://da.gd/e9bX3
+GithubAdvisories,[GHSA-9v64-447r-wch6] Moodle Temporary Passwords are Brute Force-able,https://github.com/advisories/GHSA-9v64-447r-wch6,https://da.gd/1OWSi
+GithubAdvisories,[GHSA-3m99-h3hp-w9j7] Moodle remote code execution via quiz questions,https://github.com/advisories/GHSA-3m99-h3hp-w9j7,https://da.gd/3EZ3
