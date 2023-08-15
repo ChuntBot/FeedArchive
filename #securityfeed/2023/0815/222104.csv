@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-27j2-c838-c3qg] Moodle Arbitrary File Read via XML External Entity vulnerability,https://github.com/advisories/GHSA-27j2-c838-c3qg,https://da.gd/4L3iD
+GithubAdvisories,[GHSA-pvr5-84gr-g985] phpMyAdmin Implementation XSS Vulnerability on Server Monitor Page,https://github.com/advisories/GHSA-pvr5-84gr-g985,https://da.gd/TfTjZD
+GithubAdvisories,[GHSA-4c72-mrhf-23cg] Apache Syncope uses a weak PNRG,https://github.com/advisories/GHSA-4c72-mrhf-23cg,https://da.gd/Q77a
+GithubAdvisories,[GHSA-6wfj-2mw7-p5cg] phpMyAdmin micro history Implementation XSS Vulnerability,https://github.com/advisories/GHSA-6wfj-2mw7-p5cg,https://da.gd/JEUqUu
+GithubAdvisories,[GHSA-vq3h-3q7v-9prw] Django Allows Open Redirects,https://github.com/advisories/GHSA-vq3h-3q7v-9prw,https://da.gd/FSWf
