@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5xm4-jmpw-p6j3] Ansible discloses credential information,https://github.com/advisories/GHSA-5xm4-jmpw-p6j3,https://da.gd/JQGvWT
+GithubAdvisories,[GHSA-cfmr-38g9-f2h7] Pillow denial of service via Crafted Block Size,https://github.com/advisories/GHSA-cfmr-38g9-f2h7,https://da.gd/pllPEy
+GithubAdvisories,[GHSA-625g-gx8c-xcmg] Django Middleware Enables Session Hijacking,https://github.com/advisories/GHSA-625g-gx8c-xcmg,https://da.gd/VRve
+GithubAdvisories,[GHSA-frpw-jrwx-hcfv] Path Traversal in node-red-contrib-huemagic,https://github.com/advisories/GHSA-frpw-jrwx-hcfv,https://da.gd/2hNjc
+GithubAdvisories,[GHSA-f7cm-ccfp-3q4r] Django Incorrectly Validates URLs,https://github.com/advisories/GHSA-f7cm-ccfp-3q4r,https://da.gd/KdwMwG
