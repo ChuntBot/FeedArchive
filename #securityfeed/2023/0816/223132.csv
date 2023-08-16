@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-594h-cx6w-p4jf] Typo3 Host Header Spoofing Vulnerability,https://github.com/advisories/GHSA-594h-cx6w-p4jf,https://da.gd/xVw6RO
+GithubAdvisories,[GHSA-6h58-c7r7-g2hw] UberFire Framework Improperly Restricts Paths,https://github.com/advisories/GHSA-6h58-c7r7-g2hw,https://da.gd/Co49V
+GithubAdvisories,[GHSA-w7rq-8f2g-jvqr] Djiblets Cross-site scripting Vulnerability via JSON Objects,https://github.com/advisories/GHSA-w7rq-8f2g-jvqr,https://da.gd/ZtvDU
+GithubAdvisories,[GHSA-q586-xpwr-jc3j] phpMyAdmin cross-site scripting vulnerability in crafted view name,https://github.com/advisories/GHSA-q586-xpwr-jc3j,https://da.gd/S445X
+GithubAdvisories,[GHSA-xjr9-2wf2-3v4w] Subrion CMS Cross-site scripting in search,https://github.com/advisories/GHSA-xjr9-2wf2-3v4w,https://da.gd/05Diln
+GithubAdvisories,[GHSA-r2xf-w5pj-9pw8] Apache Syncope JEXL Code Injection,https://github.com/advisories/GHSA-r2xf-w5pj-9pw8,https://da.gd/JtbYc
+GithubAdvisories,[GHSA-h5rf-vgqx-wjv2] Pillow denial of service via PNG bomb,https://github.com/advisories/GHSA-h5rf-vgqx-wjv2,https://da.gd/2JQ7E
+GithubAdvisories,[GHSA-4cvm-5776-jx9f] Ansible Arbitrary Code Execution,https://github.com/advisories/GHSA-4cvm-5776-jx9f,https://da.gd/2gtz
