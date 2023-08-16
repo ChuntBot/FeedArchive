@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jqmr-wqgp-8mh2] phpMyAdmin cross-site scripting Vulnerability in Table or Column Names,https://github.com/advisories/GHSA-jqmr-wqgp-8mh2,https://da.gd/ebya
+GithubAdvisories,[GHSA-wqjj-hx84-v449] Django Vulnerable to MySQL Injection,https://github.com/advisories/GHSA-wqjj-hx84-v449,https://da.gd/m4d9
+GithubAdvisories,[GHSA-89hj-xfx5-7q66] Django Reuses Cached CSRF Token,https://github.com/advisories/GHSA-89hj-xfx5-7q66,https://da.gd/LymJf
+GithubAdvisories,[GHSA-q7q2-qf2q-rw3w] Django Vulnerable to Cache Poisoning,https://github.com/advisories/GHSA-q7q2-qf2q-rw3w,https://da.gd/uNJrq
+GithubAdvisories,[GHSA-x895-2wrm-hvp7] PIL and Pillow Vulnerable to Symlink Attack on Tmpfiles,https://github.com/advisories/GHSA-x895-2wrm-hvp7,https://da.gd/vtxU
+GithubAdvisories,[GHSA-9gcf-pq99-rjw3] RPLY Predictable Tmpfile Names Allows Cache Spoofing,https://github.com/advisories/GHSA-9gcf-pq99-rjw3,https://da.gd/X3Nj7
+GithubAdvisories,[GHSA-7372-q459-jxhr] pyxdg Arbitrary File Overwrite via Race Condition,https://github.com/advisories/GHSA-7372-q459-jxhr,https://da.gd/L3wV0
+GithubAdvisories,[GHSA-cpp8-r8pr-wv4v] Apache Storm log viewer path traversal vulnerability,https://github.com/advisories/GHSA-cpp8-r8pr-wv4v,https://da.gd/wqWsW
+GithubAdvisories,[GHSA-qqh2-h6gw-6x8x] Typo3 XSS Vulnerabilities,https://github.com/advisories/GHSA-qqh2-h6gw-6x8x,https://da.gd/11Y3d
+GithubAdvisories,[GHSA-v6xv-rmqc-wcc8] Typo3 Open Redirect In Frontend Rendering,https://github.com/advisories/GHSA-v6xv-rmqc-wcc8,https://da.gd/ibJE8
