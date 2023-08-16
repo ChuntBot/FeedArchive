@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4vqp-pcm3-73xp] Jenkins Folders Plugin cross-site request forgery vulnerability,https://github.com/advisories/GHSA-4vqp-pcm3-73xp,https://da.gd/Xp5kG
+GithubAdvisories,[GHSA-22c3-whjv-hrfm] Jenkins Folders Plugin cross-site request forgery vulnerability,https://github.com/advisories/GHSA-22c3-whjv-hrfm,https://da.gd/N17TRl
+GithubAdvisories,[GHSA-36hq-v2fc-rpqp] Jenkins Folders Plugin information disclosure vulnerability,https://github.com/advisories/GHSA-36hq-v2fc-rpqp,https://da.gd/WbNCD
+GithubAdvisories,[GHSA-pv2g-vm98-vjxf] Jenkins Config File Provider Plugin improper credential masking vulnerability,https://github.com/advisories/GHSA-pv2g-vm98-vjxf,https://da.gd/REDO2
+GithubAdvisories,[GHSA-36fg-whr2-g999] Jenkins NodeJS Plugin improper credential masking vulnerability,https://github.com/advisories/GHSA-36fg-whr2-g999,https://da.gd/ugbRE
+GithubAdvisories,[GHSA-hv48-hgp6-xpqf] Jenkins Flaky Test Handler Plugin stored cross-site scripting vulnerability,https://github.com/advisories/GHSA-hv48-hgp6-xpqf,https://da.gd/qVo8A
+GithubAdvisories,[GHSA-3fqw-j7x8-g75j] Jenkins Delphix Plugin missing permission check,https://github.com/advisories/GHSA-3fqw-j7x8-g75j,https://da.gd/BAhwBq
+GithubAdvisories,[GHSA-5r33-mgjf-6656] Jenkins Tuleap Authentication Plugin non-constant time token comparison,https://github.com/advisories/GHSA-5r33-mgjf-6656,https://da.gd/WJ99YO
+GithubAdvisories,[GHSA-wwww-xvm2-62w7] Jenkins Delphix Plugin vulnerable to exposure of system-scoped credentials,https://github.com/advisories/GHSA-wwww-xvm2-62w7,https://da.gd/tK0VFY
+GithubAdvisories,[GHSA-qxwc-wchr-5h29] Jenkins Gogs Plugin vulnerable to unsafe default behavior and information disclosure,https://github.com/advisories/GHSA-qxwc-wchr-5h29,https://da.gd/FCjmP
+GithubAdvisories,[GHSA-97mg-9jhf-r7rm] Jenkins Maven Artifact ChoiceListProvider (Nexus) Plugin vulnerable to exposure of system-scoped credentials,https://github.com/advisories/GHSA-97mg-9jhf-r7rm,https://da.gd/D4s9yk
+GithubAdvisories,[GHSA-jg35-vf67-gg2j] Jenkins Shortcut Job Plugin stored cross-site scripting vulnerability,https://github.com/advisories/GHSA-jg35-vf67-gg2j,https://da.gd/mOkN
+GithubAdvisories,[GHSA-v9rw-hjr3-426h] Jenkins Docker Swarm Plugin stored cross-site scripting vulnerability,https://github.com/advisories/GHSA-v9rw-hjr3-426h,https://da.gd/XqpV
+GithubAdvisories,[GHSA-rc33-44qp-vpvq] Jenkins Gogs Plugin vulnerable to unsafe default behavior and information disclosure,https://github.com/advisories/GHSA-rc33-44qp-vpvq,https://da.gd/j9ri
+GithubAdvisories,[GHSA-jrj6-qx48-3cpq] Jenkins Favorite View Plugin cross-site request forgery vulnerability,https://github.com/advisories/GHSA-jrj6-qx48-3cpq,https://da.gd/BS5giK
+GithubAdvisories,[GHSA-67c6-q4j4-hccg] Flarum vulnerable to LFI and Blind SSRF via Avatar upload,https://github.com/advisories/GHSA-67c6-q4j4-hccg,https://da.gd/tQ18d
+GithubAdvisories,[GHSA-4gcf-5m39-98mc] Woodpecker does not validate webhook before changing any data,https://github.com/advisories/GHSA-4gcf-5m39-98mc,https://da.gd/fnKas
