@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f5jh-q6mp-9c8p] ImpressCMS Cross-site scripting Vulnerability,https://github.com/advisories/GHSA-f5jh-q6mp-9c8p,https://da.gd/SsJN
+GithubAdvisories,[GHSA-vccp-5v5h-p8m6] Typo3 Information Disclosure,https://github.com/advisories/GHSA-vccp-5v5h-p8m6,https://da.gd/eC3zq
+GithubAdvisories,[GHSA-52wr-3vww-rmpq] SOAPpy vulnerable to XML External Entity attacks,https://github.com/advisories/GHSA-52wr-3vww-rmpq,https://da.gd/0HZ4o
+GithubAdvisories,[GHSA-j5qh-cp3p-2h87] Ignite Realtime Openfire vulnerable to XMPPbomb attack,https://github.com/advisories/GHSA-j5qh-cp3p-2h87,https://da.gd/OXKNWk
+GithubAdvisories,[GHSA-8m9x-pxwq-j236] Pillow command injection,https://github.com/advisories/GHSA-8m9x-pxwq-j236,https://da.gd/oWJLML
+GithubAdvisories,[GHSA-g7pj-3v97-3vxp] Pimcore Vulnerable to PHP Object Injection Attacks,https://github.com/advisories/GHSA-g7pj-3v97-3vxp,https://da.gd/n1DP8a
+GithubAdvisories,[GHSA-cf9m-q836-vf26] OpenStack Swift Discloses Secret URLs to Timing Attack,https://github.com/advisories/GHSA-cf9m-q836-vf26,https://da.gd/xgiHH
+GithubAdvisories,[GHSA-4xf6-xr96-7vmp] Djblets Cross-site scripting Vulnerability,https://github.com/advisories/GHSA-4xf6-xr96-7vmp,https://da.gd/grzI
+GithubAdvisories,[GHSA-873q-wpqr-xfgw] Bottle does not properly limit content-types,https://github.com/advisories/GHSA-873q-wpqr-xfgw,https://da.gd/nEYMhu
+GithubAdvisories,[GHSA-5479-gqqr-f9gj] Typo3 Vulnerable to Cache Poisoning,https://github.com/advisories/GHSA-5479-gqqr-f9gj,https://da.gd/XXK75
+GithubAdvisories,[GHSA-wcj4-ff9m-5r7g] ImpressCMS Path Traversal to Arbitrary File Delete,https://github.com/advisories/GHSA-wcj4-ff9m-5r7g,https://da.gd/zPRoRq
+GithubAdvisories,[GHSA-wv8g-fx9j-q2jg] phpMyAdmin cross-site scripting Vulnerability via ENUM value,https://github.com/advisories/GHSA-wv8g-fx9j-q2jg,https://da.gd/QXjt8L
+GithubAdvisories,[GHSA-j556-q367-2gw6] Roundup sensitive data disclosure vulnerability,https://github.com/advisories/GHSA-j556-q367-2gw6,https://da.gd/AjBRL
+GithubAdvisories,[GHSA-2ch8-f849-pjg3] Eugene Pankov Ajenti Cross-site scripting Vulnerabilities,https://github.com/advisories/GHSA-2ch8-f849-pjg3,https://da.gd/j4FPq
+GithubAdvisories,[GHSA-7f2c-vp52-gmfw] OpenStack keystonemiddleware does not verify certificate,https://github.com/advisories/GHSA-7f2c-vp52-gmfw,https://da.gd/A5N2
+GithubAdvisories,[GHSA-w9ph-q4h9-rwq6] CodeIgniter and Kohana vulnerable to PHP Object Injection,https://github.com/advisories/GHSA-w9ph-q4h9-rwq6,https://da.gd/TqqLw
