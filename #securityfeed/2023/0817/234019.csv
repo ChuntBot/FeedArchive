@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c9gx-27hq-wcvj] Apache ActiveMQ Cross-site scripting (XSS) vulnerability in the Portfolio publisher servlet,https://github.com/advisories/GHSA-c9gx-27hq-wcvj,https://da.gd/HKAa
+GithubAdvisories,[GHSA-wq2p-q66w-q8gp] Apache Tomcat Denial of Service vulnerability,https://github.com/advisories/GHSA-wq2p-q66w-q8gp,https://da.gd/g7aLZy
+GithubAdvisories,[GHSA-j448-j653-r3vj] Apache Tomcat is vulnerable to HTTP request-smuggling,https://github.com/advisories/GHSA-j448-j653-r3vj,https://da.gd/FbgBF
+GithubAdvisories,[GHSA-4c42-4rxm-x6qf] Django Denial of Service Vulnerability in the authentication framework,https://github.com/advisories/GHSA-4c42-4rxm-x6qf,https://da.gd/rbkkp
