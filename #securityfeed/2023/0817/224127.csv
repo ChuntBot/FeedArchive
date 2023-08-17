@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q8j7-fjh7-25v5] Symfony collectionCascaded and collectionCascadedDeeply fields security bypass,https://github.com/advisories/GHSA-q8j7-fjh7-25v5,https://da.gd/QnoHBx
+GithubAdvisories,[GHSA-9347-9w64-q5wp] Jython Improper Access Restrictions vulnerability,https://github.com/advisories/GHSA-9347-9w64-q5wp,https://da.gd/l4XE
+GithubAdvisories,[GHSA-wxqg-fg7v-mmc6] Moodle Authenticated Spelling Binary Remote Code Execution,https://github.com/advisories/GHSA-wxqg-fg7v-mmc6,https://da.gd/ylGo0
+GithubAdvisories,[GHSA-r7w6-p47g-vj53] Django Data leakage via admin history log,https://github.com/advisories/GHSA-r7w6-p47g-vj53,https://da.gd/N5Bvx9
+GithubAdvisories,[GHSA-89f3-74m6-g27g] Moodle Multiple cross-site scripting (XSS) vulnerabilities in the File Picker module,https://github.com/advisories/GHSA-89f3-74m6-g27g,https://da.gd/l3XF6
+GithubAdvisories,[GHSA-h6c8-x5r3-pm88] Apache Tomcat Unrestricted file upload vulnerability,https://github.com/advisories/GHSA-h6c8-x5r3-pm88,https://da.gd/PtzBwl
