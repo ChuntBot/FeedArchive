@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9cwg-mhxf-hh59] Django Cross-site scripting (XSS) vulnerability via is_safe_url function,https://github.com/advisories/GHSA-9cwg-mhxf-hh59,https://da.gd/sOKE
+GithubAdvisories,[GHSA-g8xg-jgj6-49r3] Django is vulnerable to Denial of Service attack in formset,https://github.com/advisories/GHSA-g8xg-jgj6-49r3,https://da.gd/ajSdf
+GithubAdvisories,[GHSA-wmmc-qjq2-vvm2] Moodle is vulnerable to Sensitive Information Disclosure,https://github.com/advisories/GHSA-wmmc-qjq2-vvm2,https://da.gd/F66g2U
+GithubAdvisories,[GHSA-m63h-q4x3-6hwj] Moodle is vulnerable to Improper Input Validation in MoodleQuickForm class,https://github.com/advisories/GHSA-m63h-q4x3-6hwj,https://da.gd/2AjdU
+GithubAdvisories,[GHSA-22pv-7v9j-hqxp] Symfony Host Header Injection vulnerability in the HttpFoundation component,https://github.com/advisories/GHSA-22pv-7v9j-hqxp,https://da.gd/u6iXn
+GithubAdvisories,[GHSA-6w62-83g6-rfhj] Node Connect Reflected Cross-Site Scripting in Sencha Labs Connect middleware,https://github.com/advisories/GHSA-6w62-83g6-rfhj,https://da.gd/xb210x
