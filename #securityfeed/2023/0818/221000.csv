@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9v66-9239-cqv2] Jeecg-boot SQL Injection vulnerability,https://github.com/advisories/GHSA-9v66-9239-cqv2,https://da.gd/mYsgX
+GithubAdvisories,[GHSA-5m5f-qg8r-p9qf] OpenNMS vulnerable to remote code execution,https://github.com/advisories/GHSA-5m5f-qg8r-p9qf,https://da.gd/lS53Po
+GithubAdvisories,[GHSA-443m-3fr6-w8wj] PowerJob incorrect access control vulnerability,https://github.com/advisories/GHSA-443m-3fr6-w8wj,https://da.gd/XZqb
+GithubAdvisories,[GHSA-hf5p-f83x-5q2g] OpenNMS privilege escalation vulnerability,https://github.com/advisories/GHSA-hf5p-f83x-5q2g,https://da.gd/UZwmx
+GithubAdvisories,[GHSA-7954-6m9q-gpvf] XWiki Platform privilege escalation (PR)/RCE from account through Invitation subject/message,https://github.com/advisories/GHSA-7954-6m9q-gpvf,https://da.gd/1RLFLZ
+GithubAdvisories,[GHSA-68xg-gqqm-vgj8] Puma HTTP Request/Response Smuggling vulnerability,https://github.com/advisories/GHSA-68xg-gqqm-vgj8,https://da.gd/NlU0nj
