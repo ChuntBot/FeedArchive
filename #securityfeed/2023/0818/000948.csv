@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4894-5vqc-6r2r] Django Cross-site scripting (XSS) vulnerability in the AdminURLFieldWidget widget,https://github.com/advisories/GHSA-4894-5vqc-6r2r,https://da.gd/aCIAv1
