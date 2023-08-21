@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rwpg-4c4c-v3r4] Duplicate Advisory: Wallabag user can reset data unintentionally,https://github.com/advisories/GHSA-rwpg-4c4c-v3r4,https://da.gd/zbqHv
+GithubAdvisories,[GHSA-w832-v3c6-m6rg] pandasai vulnerable to prompt injection,https://github.com/advisories/GHSA-w832-v3c6-m6rg,https://da.gd/IbhGE
+GithubAdvisories,[GHSA-gvvx-fc6p-2h9x] Duplicate Advisory: Wallabag user can delete own API client unintentionally,https://github.com/advisories/GHSA-gvvx-fc6p-2h9x,https://da.gd/IfrJZ
+GithubAdvisories,[GHSA-v6c8-pwhq-288m] Nacos Spring vulnerable to Unsafe Deserialization,https://github.com/advisories/GHSA-v6c8-pwhq-288m,https://da.gd/T7f9PK
+GithubAdvisories,[GHSA-ch6w-mc6c-g65g] weaviate denial of service vulnerability,https://github.com/advisories/GHSA-ch6w-mc6c-g65g,https://da.gd/1YsuT
+GithubAdvisories,[GHSA-599v-h3q5-g6r9] Pimcore Cross-site Scripting (XSS) vulnerability in DataObject datetime fields,https://github.com/advisories/GHSA-599v-h3q5-g6r9,https://da.gd/XA7r7
