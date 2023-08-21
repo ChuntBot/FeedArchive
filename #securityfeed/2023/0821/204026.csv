@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2jc4-r94c-rp7h] Apache Ivy External Entity Reference vulnerability,https://github.com/advisories/GHSA-2jc4-r94c-rp7h,https://da.gd/k21Y
+GithubAdvisories,[GHSA-p8gp-899c-jvq9] Wallabag user can reset data unintentionally,https://github.com/advisories/GHSA-p8gp-899c-jvq9,https://da.gd/9nnDsU
+GithubAdvisories,[GHSA-gjvc-55fw-v6vq] Wallabag user can delete own API client unintentionally,https://github.com/advisories/GHSA-gjvc-55fw-v6vq,https://da.gd/tJu1My
+GithubAdvisories,[GHSA-g3mv-64h3-h482] Cockpit Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-g3mv-64h3-h482,https://da.gd/fsIf6d
+GithubAdvisories,[GHSA-ff45-2jp9-69jc] Cockpit Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-ff45-2jp9-69jc,https://da.gd/rNNh
+GithubAdvisories,[GHSA-rmgx-3w4r-xcfp] Cockpit Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-rmgx-3w4r-xcfp,https://da.gd/SleUuK
+GithubAdvisories,[GHSA-23qf-3jf9-h3q9] Apache NiFi Insufficient Property Validation vulnerability,https://github.com/advisories/GHSA-23qf-3jf9-h3q9,https://da.gd/YvHZ
+GithubAdvisories,[GHSA-vx8m-6fhw-pccw] @node-saml/node-saml's validatePostRequestAsync does not include checkTimestampsValidityError,https://github.com/advisories/GHSA-vx8m-6fhw-pccw,https://da.gd/LySC
+GithubAdvisories,[GHSA-5mf8-v43w-mfxp] XWiki Platform privilege escalation (PR) from account through AWM content fields,https://github.com/advisories/GHSA-5mf8-v43w-mfxp,https://da.gd/5gTKjE
