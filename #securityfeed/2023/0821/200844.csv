@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h8cm-3v5f-rgp6] XWiki Platform Stored Cross-site Scripting in the user profile via the timezone displayer,https://github.com/advisories/GHSA-h8cm-3v5f-rgp6,https://da.gd/txva
+GithubAdvisories,[GHSA-44wr-rmwq-3phw] Craft CMS vulnerable to Remote Code Execution via validatePath bypass,https://github.com/advisories/GHSA-44wr-rmwq-3phw,https://da.gd/iKlOzL
