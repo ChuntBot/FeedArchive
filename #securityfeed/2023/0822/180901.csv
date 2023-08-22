@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7ch3-7pp7-7cpq] Datasette 1.0 alpha series leaks names of databases and tables to unauthenticated users,https://github.com/advisories/GHSA-7ch3-7pp7-7cpq,https://da.gd/Jkdw8D
+GithubAdvisories,[GHSA-fh2r-99q2-6mmg] rustls-webpki: CPU denial of service in certificate path building,https://github.com/advisories/GHSA-fh2r-99q2-6mmg,https://da.gd/cwtsP
+GithubAdvisories,[GHSA-8697-479h-5mfp] Weaviate denial of service vulnerability,https://github.com/advisories/GHSA-8697-479h-5mfp,https://da.gd/GA9hb
+GithubAdvisories,[GHSA-j55r-787p-m549] Shescape on Windows escaping may be bypassed in threaded context,https://github.com/advisories/GHSA-j55r-787p-m549,https://da.gd/yGBXGX
+GithubAdvisories,[GHSA-223m-pgcq-f3xg] Jenkins Fortify Plugin HTML injection vulnerability,https://github.com/advisories/GHSA-223m-pgcq-f3xg,https://da.gd/FomB
+GithubAdvisories,[GHSA-3fjv-8r82-6xm9] Jenkins Fortify Plugin cross-site request forgery vulnerability,https://github.com/advisories/GHSA-3fjv-8r82-6xm9,https://da.gd/dSRH5S
+GithubAdvisories,[GHSA-4xmf-344q-m4cc] Jenkins Fortify Plugin missing permission check,https://github.com/advisories/GHSA-4xmf-344q-m4cc,https://da.gd/w5q9
