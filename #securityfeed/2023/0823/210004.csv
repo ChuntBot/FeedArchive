@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pm87-24wq-r8w9] Apache Airflow Session Fixation vulnerability,https://github.com/advisories/GHSA-pm87-24wq-r8w9,https://da.gd/Pqaot
+GithubAdvisories,[GHSA-v86x-5fm3-5p7j] Alertmanager UI is vulnerable to stored XSS via the /api/v1/alerts endpoint,https://github.com/advisories/GHSA-v86x-5fm3-5p7j,https://da.gd/KkOqX
+GithubAdvisories,"[GHSA-8xhr-x3v8-rghj] XWiki Platform's Groovy jobs check the wrong author, allowing remote code execution",https://github.com/advisories/GHSA-8xhr-x3v8-rghj,https://da.gd/3Nsk6
+GithubAdvisories,[GHSA-4f8m-7h83-9f6m] XWiki Platform vulnerable to CSRF privilege escalation/RCE via the create action,https://github.com/advisories/GHSA-4f8m-7h83-9f6m,https://da.gd/yuAaMp
+GithubAdvisories,[GHSA-cr5q-6q9f-rq6q] Active Support Possibly Discloses Locally Encrypted Files,https://github.com/advisories/GHSA-cr5q-6q9f-rq6q,https://da.gd/Ax3uWo
