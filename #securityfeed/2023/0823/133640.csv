@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-65rp-cv85-263x] etcd denial of service vulnerability,https://github.com/advisories/GHSA-65rp-cv85-263x,https://da.gd/lZSSx1
+GithubAdvisories,[GHSA-7gfq-f96f-g85j] langchain vulnerable to arbitrary code execution,https://github.com/advisories/GHSA-7gfq-f96f-g85j,https://da.gd/yYuhG
+GithubAdvisories,[GHSA-5pv6-rprw-82wv] Horizon Web Dashboard Open Redirect vulnerability,https://github.com/advisories/GHSA-5pv6-rprw-82wv,https://da.gd/kdsP
+GithubAdvisories,[GHSA-8rj5-2857-877j] json2xml Uncaught Exception vulnerability,https://github.com/advisories/GHSA-8rj5-2857-877j,https://da.gd/EmB6R8
