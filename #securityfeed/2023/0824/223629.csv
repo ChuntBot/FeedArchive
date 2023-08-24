@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-crqf-q9fp-hwjw] Spring-Kafka has Java Deserialization vulnerability When Improperly Configured,https://github.com/advisories/GHSA-crqf-q9fp-hwjw,https://da.gd/9cD6Vf
+GithubAdvisories,[GHSA-gcq9-qqwx-rgj3] libp2p nodes vulnerable to OOM attack,https://github.com/advisories/GHSA-gcq9-qqwx-rgj3,https://da.gd/I4d4VH
+GithubAdvisories,[GHSA-rcx8-48pc-v9q8] mail-internals use-after-free vulnerability in `vec_insert_bytes`,https://github.com/advisories/GHSA-rcx8-48pc-v9q8,https://da.gd/EHNY3
+GithubAdvisories,[GHSA-37xq-q42p-rv3p] ntpd has Dependency on Vulnerable Third-Party Component,https://github.com/advisories/GHSA-37xq-q42p-rv3p,https://da.gd/wmagC7
+GithubAdvisories,[GHSA-3x59-vrmc-5mx6] @webiny/react-rich-text-renderer vulnerable to insecure rendering of rich text content,https://github.com/advisories/GHSA-3x59-vrmc-5mx6,https://da.gd/mtUX2T
+GithubAdvisories,[GHSA-wrrj-h57r-vx9p] Malicious dependencies can inject arbitrary JavaScript into cargo-generated timing reports,https://github.com/advisories/GHSA-wrrj-h57r-vx9p,https://da.gd/m7hf
