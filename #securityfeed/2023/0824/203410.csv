@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vcph-37mh-fqrh] Apache HTTP Server via mod_proxy_uwsgi HTTP response smuggling,https://github.com/advisories/GHSA-vcph-37mh-fqrh,https://da.gd/ESPA
