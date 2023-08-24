@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q4pp-j36h-3gqg] Minimal `basti` IAM Policy Allows Shell Access,https://github.com/advisories/GHSA-q4pp-j36h-3gqg,https://da.gd/n79G
+GithubAdvisories,[GHSA-5f35-pq34-c87q] Apache Airflow missing Certificate Validation,https://github.com/advisories/GHSA-5f35-pq34-c87q,https://da.gd/MYmD8
+GithubAdvisories,[GHSA-x2mh-8fmc-rqgh] Apache Airflow denial of service vulnerability,https://github.com/advisories/GHSA-x2mh-8fmc-rqgh,https://da.gd/2aAmpP
