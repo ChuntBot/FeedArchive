@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8qv2-5vq6-g2g7] webpki: CPU denial of service in certificate path building,https://github.com/advisories/GHSA-8qv2-5vq6-g2g7,https://da.gd/Cgdvp
+GithubAdvisories,[GHSA-hrjm-c879-pp86] libsecp256k1 contains side-channel timing attack,https://github.com/advisories/GHSA-hrjm-c879-pp86,https://da.gd/R8yqY
+GithubAdvisories,[GHSA-r98r-j25q-rmpr] Rust Failure Crate Vulnerable to Type confusion,https://github.com/advisories/GHSA-r98r-j25q-rmpr,https://da.gd/IvIQi
