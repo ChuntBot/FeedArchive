@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j8g2-6fc7-q8f8] Pyramid static view path traversal up one directory,https://github.com/advisories/GHSA-j8g2-6fc7-q8f8,https://da.gd/8lv7mT
+GithubAdvisories,[GHSA-826j-8wp2-4x6q] Netmaker Vulnerable to Privilege Escalation From Non Admin To Admin User,https://github.com/advisories/GHSA-826j-8wp2-4x6q,https://da.gd/bZEo
+GithubAdvisories,[GHSA-256m-j5qw-38f4] Netmaker IDOR Allows User to Update Other User's Password,https://github.com/advisories/GHSA-256m-j5qw-38f4,https://da.gd/m3FIC
+GithubAdvisories,[GHSA-8x8h-hcq8-jwwx] Netmaker has Hardcoded DNS Secret Key,https://github.com/advisories/GHSA-8x8h-hcq8-jwwx,https://da.gd/0qws
