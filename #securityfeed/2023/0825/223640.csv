@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q3mw-pvr8-9ggc] Apache Tomcat Open Redirect vulnerability,https://github.com/advisories/GHSA-q3mw-pvr8-9ggc,https://da.gd/KHuTSU
+GithubAdvisories,[GHSA-vj49-j7rc-h54f] Esoteric YamlBeans XML Entity Expansion vulnerability,https://github.com/advisories/GHSA-vj49-j7rc-h54f,https://da.gd/o67kwI
+GithubAdvisories,[GHSA-jm7r-4pg6-gf26] Esoteric YamlBeans Unsafe Deserialization vulnerability,https://github.com/advisories/GHSA-jm7r-4pg6-gf26,https://da.gd/fQxJ
