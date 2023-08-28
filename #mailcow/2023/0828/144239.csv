@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Fix CPU load of dockerapi container,https://github.com/mailcow/mailcow-dockerized/commit/533bd36572dc0e6476425717499f1c2248160ec4,https://da.gd/vi39
+GithubCommitStaging,Set asyncio timeout to 0 for yielding,https://github.com/mailcow/mailcow-dockerized/commit/930473a980051ef1931ae5c4f57bedb24d56745e,https://da.gd/oA2wga
+GithubCommitStaging,Merge pull request #5376 from mstilkerich/fix_dockerapi_cpuload,https://github.com/mailcow/mailcow-dockerized/commit/9ba5c13702509ec56a08bc7e4edcbbe18480994c,https://da.gd/fswR
