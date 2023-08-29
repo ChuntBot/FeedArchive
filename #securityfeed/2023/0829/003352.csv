@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vjjp-9r83-22rc] Django Directory Traversal via ssi template tag,https://github.com/advisories/GHSA-vjjp-9r83-22rc,https://da.gd/LHHY0
+GithubAdvisories,[GHSA-x962-w72p-mv7q] phpMyAdmin Global variables scope injection vulnerability,https://github.com/advisories/GHSA-x962-w72p-mv7q,https://da.gd/YnJvAp
+GithubAdvisories,[GHSA-7gxq-5qqc-v3fc] TYPO3 Open redirect vulnerability in the Access tracking mechanism,https://github.com/advisories/GHSA-7gxq-5qqc-v3fc,https://da.gd/YATXVG
+GithubAdvisories,[GHSA-pxxv-rv32-2qgv] OpenStack Nova uses insecure keystone middleware tmpdir by default,https://github.com/advisories/GHSA-pxxv-rv32-2qgv,https://da.gd/SJ9jp
+GithubAdvisories,[GHSA-4rpv-g4gq-rh4m] TYPO3 vulnerable to Information Disclosure via Content Editing Wizards component,https://github.com/advisories/GHSA-4rpv-g4gq-rh4m,https://da.gd/9iKAM4
+GithubAdvisories,[GHSA-838c-v5cq-hp33] TYPO3 OpenID extension Open redirect vulnerability,https://github.com/advisories/GHSA-838c-v5cq-hp33,https://da.gd/0hC4u
+GithubAdvisories,[GHSA-rvrj-j7cc-236p] DotNetNuke (DNN) Cross-site scripting (XSS) vulnerability via the __dnnVariable parameter,https://github.com/advisories/GHSA-rvrj-j7cc-236p,https://da.gd/hw4I
+GithubAdvisories,[GHSA-7w53-hfpw-rg3g] Symfony Arbitrary PHP code Execution,https://github.com/advisories/GHSA-7w53-hfpw-rg3g,https://da.gd/KIgrw
+GithubAdvisories,[GHSA-r8m7-792j-5jvq] TYPO3 Cross-Site Scripting (XSS) vulnerabilities in Content Editing Wizards component,https://github.com/advisories/GHSA-r8m7-792j-5jvq,https://da.gd/QP14aP
+GithubAdvisories,[GHSA-qj69-chjp-g4f5] TYPO3 Cross-site scripting (XSS) vulnerability in the Extbase Framework,https://github.com/advisories/GHSA-qj69-chjp-g4f5,https://da.gd/14Nn7
+GithubAdvisories,[GHSA-5cmc-r23m-hvrr] TYPO3 Cross-site scripting (XSS) vulnerability in the Backend User Administration Module,https://github.com/advisories/GHSA-5cmc-r23m-hvrr,https://da.gd/Qf76v
+GithubAdvisories,[GHSA-vc74-c4m6-9979] TYPO3 Flow Cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-vc74-c4m6-9979,https://da.gd/jztV
+GithubAdvisories,[GHSA-p9jg-9w87-6rg4] TYPO3 Improper Access Management in the File Abstraction Layer,https://github.com/advisories/GHSA-p9jg-9w87-6rg4,https://da.gd/207Txr
+GithubAdvisories,[GHSA-fj24-ghp9-39v3] Ansible uses a socket with predictable filename in /tmp,https://github.com/advisories/GHSA-fj24-ghp9-39v3,https://da.gd/PDjjp
+GithubAdvisories,[GHSA-crpg-2mm2-jjqf] PrestaShop Stored Cross-Site Scripting Vulnerability,https://github.com/advisories/GHSA-crpg-2mm2-jjqf,https://da.gd/A0Pj22
+GithubAdvisories,[GHSA-pcqv-c46v-2p4v] Ansible Arbitrary File Overwrite Vulnerability,https://github.com/advisories/GHSA-pcqv-c46v-2p4v,https://da.gd/4OH00
+GithubAdvisories,[GHSA-77xq-7c6p-6xp6] RubyGem openshift-origin-controller is vulnerable to command injection,https://github.com/advisories/GHSA-77xq-7c6p-6xp6,https://da.gd/B9J0j
+GithubAdvisories,[GHSA-4793-w44w-m7xm] Plone Zope cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-4793-w44w-m7xm,https://da.gd/GOOSs
+GithubAdvisories,[GHSA-cr6r-6xm9-ww22] Yii Incorrectly Implements CORS,https://github.com/advisories/GHSA-cr6r-6xm9-ww22,https://da.gd/mZ1vR
+GithubAdvisories,[GHSA-vhqr-3gr2-7px9] Subrion CMS Cross-site Scripting,https://github.com/advisories/GHSA-vhqr-3gr2-7px9,https://da.gd/6ReZSP
+GithubAdvisories,[GHSA-wp32-wq34-2rqh] dijit editor cross-site scripting vulnerability,https://github.com/advisories/GHSA-wp32-wq34-2rqh,https://da.gd/AKgyMk
