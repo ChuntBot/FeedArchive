@@ -1,0 +1,138 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wc9j-gc65-3cm7] DDFFileParser is vulnerable to XXE Attacks,https://github.com/advisories/GHSA-wc9j-gc65-3cm7,https://da.gd/dss4UV
+GithubAdvisories,[GHSA-893h-35v4-mxqx] Path Traversal in Ansible,https://github.com/advisories/GHSA-893h-35v4-mxqx,https://da.gd/vr3MOw
+GithubAdvisories,[GHSA-7422-7rq6-j4qv] Badaso vulnerable to cross-site scripting,https://github.com/advisories/GHSA-7422-7rq6-j4qv,https://da.gd/XUONSl
+GithubAdvisories,[GHSA-62pr-54gv-vg5g] SpringBlade vulnerable to SQL injection,https://github.com/advisories/GHSA-62pr-54gv-vg5g,https://da.gd/KmQrw
+GithubAdvisories,[GHSA-f248-v4qh-x2r6] Improper Certificate Validation in blackduck,https://github.com/advisories/GHSA-f248-v4qh-x2r6,https://da.gd/EYuxi5
+GithubAdvisories,[GHSA-3p3h-qghp-hvh2] Open Redirect in werkzeug,https://github.com/advisories/GHSA-3p3h-qghp-hvh2,https://da.gd/Ndpf
+GithubAdvisories,[GHSA-77pw-c3j2-5fc8] Plaintext password leak in Apache Superset,https://github.com/advisories/GHSA-77pw-c3j2-5fc8,https://da.gd/vLfV5
+GithubAdvisories,[GHSA-3r28-rgp9-qgv4] pf4j vulnerable to remote code execution via the zippluginPath parameter,https://github.com/advisories/GHSA-3r28-rgp9-qgv4,https://da.gd/1ZwyHb
+GithubAdvisories,[GHSA-cj8w-v588-p8wx] pf4j vulnerable to remote code execution via expandIfZip method in the extract function,https://github.com/advisories/GHSA-cj8w-v588-p8wx,https://da.gd/68r4c
+GithubAdvisories,[GHSA-rvm8-j2cp-j592] pf4j vulnerable to remote code execution via loadpluginPath parameter,https://github.com/advisories/GHSA-rvm8-j2cp-j592,https://da.gd/VVUUH
+GithubAdvisories,[GHSA-99fg-2h75-m92h] Spipu HTML2PDF vulnerable to cross-site scripting,https://github.com/advisories/GHSA-99fg-2h75-m92h,https://da.gd/kWI9TB
+GithubAdvisories,[GHSA-6cc5-2vg4-cc7m] Twisted CRLF Injection,https://github.com/advisories/GHSA-6cc5-2vg4-cc7m,https://da.gd/MEMTHd
+GithubAdvisories,[GHSA-xp3m-rpr3-6xr7] Malware in mmolecule-redis,https://github.com/advisories/GHSA-xp3m-rpr3-6xr7,https://da.gd/j6L6l
+GithubAdvisories,[GHSA-p82c-x2ww-vp9v] Malware in mmolecule-sqs,https://github.com/advisories/GHSA-p82c-x2ww-vp9v,https://da.gd/RKwhq
+GithubAdvisories,[GHSA-9c7j-hjcc-mh5m] Malware in mmolecule-pm2-metrics,https://github.com/advisories/GHSA-9c7j-hjcc-mh5m,https://da.gd/qBZOXN
+GithubAdvisories,[GHSA-gm2h-cjv9-rfff] Malware in mmolecule-mysql,https://github.com/advisories/GHSA-gm2h-cjv9-rfff,https://da.gd/Npbb
+GithubAdvisories,[GHSA-c2mc-fxmp-4qw8] Malware in mmolecule-mongo,https://github.com/advisories/GHSA-c2mc-fxmp-4qw8,https://da.gd/czE2
+GithubAdvisories,[GHSA-4r6f-978m-vrjh] Malware in mmolecule-logger,https://github.com/advisories/GHSA-4r6f-978m-vrjh,https://da.gd/oR6r
+GithubAdvisories,[GHSA-93x8-8xw6-2w54] Malware in mmolecule-httprequester,https://github.com/advisories/GHSA-93x8-8xw6-2w54,https://da.gd/FlqkR
+GithubAdvisories,[GHSA-7rr6-q3jg-pp2x] Malware in mmolecule-jwt,https://github.com/advisories/GHSA-7rr6-q3jg-pp2x,https://da.gd/9aMHs
+GithubAdvisories,[GHSA-q38p-pw25-vwxw] Malware in mmolecule-elasticsearch,https://github.com/advisories/GHSA-q38p-pw25-vwxw,https://da.gd/lrfeF
+GithubAdvisories,[GHSA-98mq-w3x5-cr92] Malware in react-navigation-area-view,https://github.com/advisories/GHSA-98mq-w3x5-cr92,https://da.gd/yLFpb
+GithubAdvisories,[GHSA-c73g-jpxw-r5c7] Malware in react-navigation-core,https://github.com/advisories/GHSA-c73g-jpxw-r5c7,https://da.gd/xvaSR
+GithubAdvisories,[GHSA-gx5v-m2fm-ww45] Malware in @manomano-internal/toolbox-pkg-components,https://github.com/advisories/GHSA-gx5v-m2fm-ww45,https://da.gd/mazgl
+GithubAdvisories,[GHSA-qjrf-33pj-965p] Malware in @manomano-internal/mf-seller-xp-commons-objects,https://github.com/advisories/GHSA-qjrf-33pj-965p,https://da.gd/wg8y7
+GithubAdvisories,[GHSA-hvrq-c8r2-92x7] Malware in @manomano-internal/mf-seller-xp-commons-module-scanner,https://github.com/advisories/GHSA-hvrq-c8r2-92x7,https://da.gd/cPOcy
+GithubAdvisories,[GHSA-gqjf-56pp-cqjp] Malware in @manomano-internal/mf-seller-xp-commons-error-handlers,https://github.com/advisories/GHSA-gqjf-56pp-cqjp,https://da.gd/6z1i
+GithubAdvisories,[GHSA-c2cc-3569-6jh2] Path traversal in ZIPFoundation,https://github.com/advisories/GHSA-c2cc-3569-6jh2,https://da.gd/ePrsp
+GithubAdvisories,[GHSA-r285-q736-9v95] Filename spoofing in archive,https://github.com/advisories/GHSA-r285-q736-9v95,https://da.gd/AcjGU
+GithubAdvisories,[GHSA-9v85-q87q-g4vg] Path traversal in Archive,https://github.com/advisories/GHSA-9v85-q87q-g4vg,https://da.gd/yFhGBX
+GithubAdvisories,[GHSA-g454-wj9r-jpg4] Path traversal in Zip Swift,https://github.com/advisories/GHSA-g454-wj9r-jpg4,https://da.gd/3TD4U
+GithubAdvisories,[GHSA-fjq3-5pxw-4wj4] Cross-Site Request Forgery in Webargs,https://github.com/advisories/GHSA-fjq3-5pxw-4wj4,https://da.gd/YGxhO
+GithubAdvisories,[GHSA-x823-j7c4-vpc5] Cross-site scripting in sickrage,https://github.com/advisories/GHSA-x823-j7c4-vpc5,https://da.gd/h9ff
+GithubAdvisories,[GHSA-rmp7-f2vp-3rq4] Cross-site scripting in SiCKRAGE,https://github.com/advisories/GHSA-rmp7-f2vp-3rq4,https://da.gd/E0ZQbH
+GithubAdvisories,[GHSA-j5g3-5c8r-7qfx] Prevent logging invalid header values,https://github.com/advisories/GHSA-j5g3-5c8r-7qfx,https://da.gd/anXn
+GithubAdvisories,[GHSA-vxvm-qww3-2fh7] MongoDB Driver may publish events containing authentication-related data,https://github.com/advisories/GHSA-vxvm-qww3-2fh7,https://da.gd/logLgn
+GithubAdvisories,[GHSA-2xpj-f5g2-8p7m] Asyncpg Arbitrary Code Execution Via Access to an Uninitialized Pointer,https://github.com/advisories/GHSA-2xpj-f5g2-8p7m,https://da.gd/X4xdQ
+GithubAdvisories,[GHSA-6r3p-fcvm-xh7c] SSRF vulnerability in Arache Airflow,https://github.com/advisories/GHSA-6r3p-fcvm-xh7c,https://da.gd/43yd
+GithubAdvisories,[GHSA-cvcq-gmc3-q6m8] Apache Airflow logs passwords in plaintext,https://github.com/advisories/GHSA-cvcq-gmc3-q6m8,https://da.gd/6Szg
+GithubAdvisories,"[GHSA-xjw2-6jm9-rf67] Sandbox escape via various forms of ""format""",https://github.com/advisories/GHSA-xjw2-6jm9-rf67,https://da.gd/e2Oqa
+GithubAdvisories,[GHSA-hw6r-g8gj-2987] Actions expression injection in `filter-test-configs` (`GHSL-2023-181`),https://github.com/advisories/GHSA-hw6r-g8gj-2987,https://da.gd/82XXSu
+GithubAdvisories,[GHSA-3r32-cp7v-5wq4] Code injection in ansible semaphore,https://github.com/advisories/GHSA-3r32-cp7v-5wq4,https://da.gd/dMwc
+GithubAdvisories,[GHSA-j6mp-hx4g-p3gm] Command injection in pagekit,https://github.com/advisories/GHSA-j6mp-hx4g-p3gm,https://da.gd/uiO3L
+GithubAdvisories,[GHSA-mhp6-jvpx-2p4m] Heap-based buffer overflow in ZBar,https://github.com/advisories/GHSA-mhp6-jvpx-2p4m,https://da.gd/r2pV
+GithubAdvisories,[GHSA-g3m9-pr5m-4cvp] Airflow Sqoop Provider RCE Vulnerability,https://github.com/advisories/GHSA-g3m9-pr5m-4cvp,https://da.gd/19OxjK
+GithubAdvisories,[GHSA-8q28-pw9g-w82c] Apache Airflow vulnerable arbitrary code execution via Spark server,https://github.com/advisories/GHSA-8q28-pw9g-w82c,https://da.gd/VDQzAZ
+GithubAdvisories,[GHSA-cwvm-v4w8-q58c] Blind local file inclusion,https://github.com/advisories/GHSA-cwvm-v4w8-q58c,https://da.gd/Y8bwe
+GithubAdvisories,[GHSA-8fjr-hghr-4m99] Archive spoofing vulnerability in borgbackup,https://github.com/advisories/GHSA-8fjr-hghr-4m99,https://da.gd/2oS0e
+GithubAdvisories,[GHSA-95rp-6gqp-6622] Command Injection Vulnerability in find-exec,https://github.com/advisories/GHSA-95rp-6gqp-6622,https://da.gd/K1mJD
+GithubAdvisories,[GHSA-wjp3-4xcq-598p] Apache Sling JCR ContentLoader XmlReader Arbitrary File Load,https://github.com/advisories/GHSA-wjp3-4xcq-598p,https://da.gd/hu5qH8
+GithubAdvisories,[GHSA-phw8-fw9g-v3xc] Apache QPID Allows Remote Authentication Bypass,https://github.com/advisories/GHSA-phw8-fw9g-v3xc,https://da.gd/5m0Nt
+GithubAdvisories,[GHSA-vmf9-6pcv-xr87] Username enumeration attack in goauthentik,https://github.com/advisories/GHSA-vmf9-6pcv-xr87,https://da.gd/lHjq
+GithubAdvisories,[GHSA-r726-vmfq-j9j3] Open Redirect Vulnerability in jupyter-server,https://github.com/advisories/GHSA-r726-vmfq-j9j3,https://da.gd/ENcp
+GithubAdvisories,[GHSA-64x5-55rw-9974] cross-site inclusion (XSSI) of files in jupyter-server,https://github.com/advisories/GHSA-64x5-55rw-9974,https://da.gd/hJhLY
+GithubAdvisories,[GHSA-wfm5-v35h-vwf4] GitPython untrusted search path on Windows systems leading to arbitrary code execution,https://github.com/advisories/GHSA-wfm5-v35h-vwf4,https://da.gd/X8OS8
+GithubAdvisories,[GHSA-hpx4-r86g-5jrg] @adobe/css-tools Regular Expression Denial of Service (ReDOS) while Parsing CSS,https://github.com/advisories/GHSA-hpx4-r86g-5jrg,https://da.gd/L4NCG2
+GithubAdvisories,[GHSA-7jfm-px59-99w8] Typo3 Extbase Framework Unsafe Deserialization,https://github.com/advisories/GHSA-7jfm-px59-99w8,https://da.gd/PMfcD
+GithubAdvisories,[GHSA-7wwr-p84q-qr3q] Typo3 Backend XSS Vulnerabilities,https://github.com/advisories/GHSA-7wwr-p84q-qr3q,https://da.gd/Jzfn
+GithubAdvisories,[GHSA-w3v6-r62r-fvqh] Typo3 API XSS Vulnerabilities,https://github.com/advisories/GHSA-w3v6-r62r-fvqh,https://da.gd/ssaC6u
+GithubAdvisories,[GHSA-342c-f869-5m44] Apache Sling POST Servlets Denial of Service Vulnerability,https://github.com/advisories/GHSA-342c-f869-5m44,https://da.gd/XKyEi6
+GithubAdvisories,[GHSA-q7v2-w38r-pv7v] phpMyAdmin Multiple XSS Vulnerabilities,https://github.com/advisories/GHSA-q7v2-w38r-pv7v,https://da.gd/ledSK
+GithubAdvisories,[GHSA-2655-q453-22f9] Django Allows Arbitrary URL Generation,https://github.com/advisories/GHSA-2655-q453-22f9,https://da.gd/t22X6m
+GithubAdvisories,[GHSA-59w8-4wm2-4xw8] Django Image Field Vulnerable to Image Decompression Bombs,https://github.com/advisories/GHSA-59w8-4wm2-4xw8,https://da.gd/7CjV
+GithubAdvisories,[GHSA-ch3c-v47x-4pgp] Cleartext Signed Message Signature Spoofing in openpgp,https://github.com/advisories/GHSA-ch3c-v47x-4pgp,https://da.gd/LQneY
+GithubAdvisories,[GHSA-78vx-ggch-wghm] Django Allows Redirect via Data URL,https://github.com/advisories/GHSA-78vx-ggch-wghm,https://da.gd/ayTX3
+GithubAdvisories,[GHSA-r3pq-mp8v-cp33] phpMyAdmin Multiple Cross-site Scripting Vulnerabilities in the Database Structure page,https://github.com/advisories/GHSA-r3pq-mp8v-cp33,https://da.gd/4CXX
+GithubAdvisories,[GHSA-rfpg-2fp8-2fph] phpMyAdmin multiple cross-site scripting vulnerabilities,https://github.com/advisories/GHSA-rfpg-2fp8-2fph,https://da.gd/YGCs7O
+GithubAdvisories,[GHSA-p3h7-3c45-qj4v] Python Keyring does not securely initialize encryption cipher,https://github.com/advisories/GHSA-p3h7-3c45-qj4v,https://da.gd/jpz0v
+GithubAdvisories,[GHSA-q46g-v7r4-9vhr] Plone Cross-site scripting Vulnerability,https://github.com/advisories/GHSA-q46g-v7r4-9vhr,https://da.gd/B6pV
+GithubAdvisories,[GHSA-25jh-5h5r-h33m] Plone Sandbox Bypass,https://github.com/advisories/GHSA-25jh-5h5r-h33m,https://da.gd/ZHeHM
+GithubAdvisories,[GHSA-5whw-5cmm-9jw4] Plone Cross-site scripting Vulnerability,https://github.com/advisories/GHSA-5whw-5cmm-9jw4,https://da.gd/lzBw6N
+GithubAdvisories,[GHSA-3g6w-4m7x-97v6] Plone Cross-site scripting Vulnerability,https://github.com/advisories/GHSA-3g6w-4m7x-97v6,https://da.gd/8xf4pH
+GithubAdvisories,[GHSA-hr59-35cr-qf43] Plone Cross-site scripting Vulnerability,https://github.com/advisories/GHSA-hr59-35cr-qf43,https://da.gd/W51hZ
+GithubAdvisories,[GHSA-pvhv-qwc8-r2pg] Plone Arbitrary File Read,https://github.com/advisories/GHSA-pvhv-qwc8-r2pg,https://da.gd/S18Y
+GithubAdvisories,[GHSA-6w93-4c4p-xv2x] Plone Metadata Disclosure,https://github.com/advisories/GHSA-6w93-4c4p-xv2x,https://da.gd/QOMfvK
+GithubAdvisories,[GHSA-9m4g-f42q-vrrh] Plone Sandbox Bypass,https://github.com/advisories/GHSA-9m4g-f42q-vrrh,https://da.gd/ALDQ3X
+GithubAdvisories,[GHSA-f8pg-wp5j-rjxx] Plone Information Disclosure,https://github.com/advisories/GHSA-f8pg-wp5j-rjxx,https://da.gd/DN0nva
+GithubAdvisories,[GHSA-9gqj-ppv2-f2hq] Cross-site Scripting in SmartyException,https://github.com/advisories/GHSA-9gqj-ppv2-f2hq,https://da.gd/dIdvQ
+GithubAdvisories,[GHSA-34fp-xvxp-rg22] Apache ActiveMQ default configuration subject to denial of service,https://github.com/advisories/GHSA-34fp-xvxp-rg22,https://da.gd/b1lvWV
+GithubAdvisories,[GHSA-wwrm-8947-4m6c] Drupal Open Redirect,https://github.com/advisories/GHSA-wwrm-8947-4m6c,https://da.gd/AeMh
+GithubAdvisories,[GHSA-vpm6-h53m-x2xf] Drupal improper access restrictions,https://github.com/advisories/GHSA-vpm6-h53m-x2xf,https://da.gd/b3y2
+GithubAdvisories,[GHSA-gx6w-hcw3-5r37] Plone DoS via Crafted URL,https://github.com/advisories/GHSA-gx6w-hcw3-5r37,https://da.gd/EQi6Mn
+GithubAdvisories,[GHSA-w6pw-5gh5-4952] Plone python code injection,https://github.com/advisories/GHSA-w6pw-5gh5-4952,https://da.gd/UN15P
+GithubAdvisories,[GHSA-cq5g-924m-7fxh] Plone Information Disclosure,https://github.com/advisories/GHSA-cq5g-924m-7fxh,https://da.gd/gkJKhP
+GithubAdvisories,[GHSA-79hj-474h-v4xv] Plone denial of service via RSS Feed Request,https://github.com/advisories/GHSA-79hj-474h-v4xv,https://da.gd/R8VBBD
+GithubAdvisories,[GHSA-pwx5-xg7g-wpc5] Tweepy does not verify SSL Certificate,https://github.com/advisories/GHSA-pwx5-xg7g-wpc5,https://da.gd/Ighy
+GithubAdvisories,[GHSA-7crp-p2vc-69r7] Apache James Hupa Webmail application Cross-site Scripting Vulnerabilities,https://github.com/advisories/GHSA-7crp-p2vc-69r7,https://da.gd/oLvni
+GithubAdvisories,[GHSA-77hg-g8cc-5r37] Puppet Privilege Escallation,https://github.com/advisories/GHSA-77hg-g8cc-5r37,https://da.gd/HWiPZ
+GithubAdvisories,[GHSA-c6f9-4pmv-m7m6] Apache Hadoop allows impersonation of arbitrary cluster user accounts,https://github.com/advisories/GHSA-c6f9-4pmv-m7m6,https://da.gd/fUmjY
+GithubAdvisories,"[GHSA-c4mc-49hq-q275] Puppet uses predictable filenames, allowing arbitrary file overwrite",https://github.com/advisories/GHSA-c4mc-49hq-q275,https://da.gd/YEmtic
+GithubAdvisories,[GHSA-97rj-p794-wq6m] Plone denial of service via Caching Bypass,https://github.com/advisories/GHSA-97rj-p794-wq6m,https://da.gd/Nt4iD
+GithubAdvisories,[GHSA-4wrr-9h5r-m92w] Apache Struts Remote Java Code Execution,https://github.com/advisories/GHSA-4wrr-9h5r-m92w,https://da.gd/BspB
+GithubAdvisories,[GHSA-fmmq-j7pq-f85c] JRuby denial of service via Hash Collision,https://github.com/advisories/GHSA-fmmq-j7pq-f85c,https://da.gd/VgAB
+GithubAdvisories,[GHSA-cmpm-jg8r-fv37] Apache Struts Multiple Cross-site Scripting Vulnerabilities,https://github.com/advisories/GHSA-cmpm-jg8r-fv37,https://da.gd/lnENy
+GithubAdvisories,[GHSA-j33m-2537-86jm] PrestaShop XSS Vulnerability,https://github.com/advisories/GHSA-j33m-2537-86jm,https://da.gd/7DsfDn
+GithubAdvisories,[GHSA-358r-g2xw-7c83] Moodle backs up private files,https://github.com/advisories/GHSA-358r-g2xw-7c83,https://da.gd/fhjO0u
+GithubAdvisories,[GHSA-v5c9-98f7-2h54] Hadoop symlink vulnerability,https://github.com/advisories/GHSA-v5c9-98f7-2h54,https://da.gd/B9j6rL
+GithubAdvisories,[GHSA-73xj-v6gc-g5p5] Subrion CMS RCE Vulnerability,https://github.com/advisories/GHSA-73xj-v6gc-g5p5,https://da.gd/IUQLa7
+GithubAdvisories,[GHSA-j7f2-cqvq-5jcf] Apache Sling Auth Core bundle vulnerable to Open Redirection,https://github.com/advisories/GHSA-j7f2-cqvq-5jcf,https://da.gd/iX1iM3
+GithubAdvisories,[GHSA-6jvw-rpw4-gj4x] Apache Shindig PHP Sensitive Information Disclosure,https://github.com/advisories/GHSA-6jvw-rpw4-gj4x,https://da.gd/DZwusQ
+GithubAdvisories,[GHSA-47ww-mq32-g4xw] TYPO3 vulnerable to Insecure Unserialize via Content Editing Wizards component,https://github.com/advisories/GHSA-47ww-mq32-g4xw,https://da.gd/5t6X7E
+GithubAdvisories,[GHSA-5fj8-wh3g-qvq2] TYPO3 is vulnerable to Mass Assignment in the Extension table administration library,https://github.com/advisories/GHSA-5fj8-wh3g-qvq2,https://da.gd/43ZdP
+GithubAdvisories,[GHSA-r674-mc9p-hvw5] TYPO3 Improper Access Control vulnerability,https://github.com/advisories/GHSA-r674-mc9p-hvw5,https://da.gd/pPefm
+GithubAdvisories,[GHSA-m923-w2gj-v43g] graphite-web is vulnerable to Remote Code Execution via renderLocalView function,https://github.com/advisories/GHSA-m923-w2gj-v43g,https://da.gd/PzsQ
+GithubAdvisories,[GHSA-ch3j-w953-hfcm] graphite-web is vulnerable to Remote Code Execution,https://github.com/advisories/GHSA-ch3j-w953-hfcm,https://da.gd/tLeQd
+GithubAdvisories,[GHSA-h7jc-pg2r-mqj4] Tiki Wiki CMS Groupware Cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-h7jc-pg2r-mqj4,https://da.gd/yqBP
+GithubAdvisories,[GHSA-f5hm-h272-2qwm] Eucalyptus Unauthorized Access to CC/NC Log Files,https://github.com/advisories/GHSA-f5hm-h272-2qwm,https://da.gd/45kOM
+GithubAdvisories,[GHSA-7m7g-jq4m-98w5] Apache Solr for TYPO3 (solr) extension is vulnerable to Insecure Unserialize,https://github.com/advisories/GHSA-7m7g-jq4m-98w5,https://da.gd/urNKh
+GithubAdvisories,[GHSA-p3xv-97g8-4wmj] Python Swift client is vulnerable to Missing SSL Certificate Check,https://github.com/advisories/GHSA-p3xv-97g8-4wmj,https://da.gd/PYmfv
+GithubAdvisories,[GHSA-m64j-j252-jxmr] TYPO3 SQL injection vulnerability in the Extbase Framework,https://github.com/advisories/GHSA-m64j-j252-jxmr,https://da.gd/KhGAgJ
+GithubAdvisories,[GHSA-xc7q-q62f-wcvr] Apache Solr for TYPO3 (solr) extension is vulnerable to Cross-site scripting (XSS),https://github.com/advisories/GHSA-xc7q-q62f-wcvr,https://da.gd/TDaIH4
+GithubAdvisories,[GHSA-jf9v-fxfq-wm76] Lift Sensitive Information Disclosure,https://github.com/advisories/GHSA-jf9v-fxfq-wm76,https://da.gd/2GU5
+GithubAdvisories,[GHSA-27x4-j476-jp5f] Setuptools vulnerable to Man-in-the-middle attacks,https://github.com/advisories/GHSA-27x4-j476-jp5f,https://da.gd/k9giJ
+GithubAdvisories,[GHSA-4465-r2hg-v4rj] CiviCRM SQL injection vulnerability via Quick Search API,https://github.com/advisories/GHSA-4465-r2hg-v4rj,https://da.gd/hCD2l
+GithubAdvisories,[GHSA-6g7x-4c7m-g63m] Review Board Cross-site scripting (XSS) vulnerability in the reviews dropdown,https://github.com/advisories/GHSA-6g7x-4c7m-g63m,https://da.gd/O8JK
+GithubAdvisories,[GHSA-4rrr-j7ff-r844] python-keystoneclient missing expiration check in PKI token validation,https://github.com/advisories/GHSA-4rrr-j7ff-r844,https://da.gd/pIkrAF
+GithubAdvisories,[GHSA-5gh4-v2ch-pcx4] phpMyAdmin Multiple cross-site scripting (XSS) vulnerabilities,https://github.com/advisories/GHSA-5gh4-v2ch-pcx4,https://da.gd/Hj2MV
+GithubAdvisories,[GHSA-w3pw-qxjj-6prr] Plone Authenticated Denial of Service vulnerability,https://github.com/advisories/GHSA-w3pw-qxjj-6prr,https://da.gd/VAsgmZ
+GithubAdvisories,[GHSA-f5h9-3hpf-9j8m] Plone is vulnerable to email spoofing,https://github.com/advisories/GHSA-f5h9-3hpf-9j8m,https://da.gd/kTIzl
+GithubAdvisories,[GHSA-grwx-4p5v-9g2g] Plone is vulnerable to Information Exposure when generating zip archives,https://github.com/advisories/GHSA-grwx-4p5v-9g2g,https://da.gd/ioPyX4
+GithubAdvisories,[GHSA-qphh-5fv5-2mjj] Plone is vulnerable to information exposure via the object manager implementation,https://github.com/advisories/GHSA-qphh-5fv5-2mjj,https://da.gd/1e5N
+GithubAdvisories,[GHSA-rg52-j87w-pf83] Plone Filesystem path information leak,https://github.com/advisories/GHSA-rg52-j87w-pf83,https://da.gd/RdGBpi
+GithubAdvisories,[GHSA-jjvw-3h9j-p7jf] Plone Improper Access Control Vulnerability,https://github.com/advisories/GHSA-jjvw-3h9j-p7jf,https://da.gd/VfXWh
+GithubAdvisories,[GHSA-6fgf-x7wg-hp8r] Plone Unrestricted Filed Manipulation vulnerability via content edit forms,https://github.com/advisories/GHSA-6fgf-x7wg-hp8r,https://da.gd/dhB2Z
+GithubAdvisories,[GHSA-xfjq-9rxq-ph6m] Plone Denial of Service vulnerability via decompressing large zip archives,https://github.com/advisories/GHSA-xfjq-9rxq-ph6m,https://da.gd/LiMTs
+GithubAdvisories,[GHSA-j67j-8hrp-76xm] Plone Multiple open redirect vulnerabilities,https://github.com/advisories/GHSA-j67j-8hrp-76xm,https://da.gd/CRdwU
+GithubAdvisories,[GHSA-mm32-jw73-9227] Plone is vulnerable to File System Path Exposure,https://github.com/advisories/GHSA-mm32-jw73-9227,https://da.gd/1uMYAE
+GithubAdvisories,[GHSA-89rq-27xp-vgv7] Plone Multiple cross-site scripting (XSS) vulnerabilities,https://github.com/advisories/GHSA-89rq-27xp-vgv7,https://da.gd/Ai5azq
+GithubAdvisories,[GHSA-gg36-9346-9qx9] phpMyAdmin Remote Code Execution,https://github.com/advisories/GHSA-gg36-9346-9qx9,https://da.gd/12TEi
+GithubAdvisories,[GHSA-p632-5w74-x8xx] phpMyAdmin Cross-site scripting (XSS) vulnerability via pageNumber value,https://github.com/advisories/GHSA-p632-5w74-x8xx,https://da.gd/9DgQyY
+GithubAdvisories,[GHSA-mj48-f959-pqph] DotNetNuke (DNN) Open redirect vulnerability,https://github.com/advisories/GHSA-mj48-f959-pqph,https://da.gd/aSEDS
+GithubAdvisories,[GHSA-3747-gjc9-vvg6] phpThumb is vulnerable to Server-Side Request Forgery (SSRF),https://github.com/advisories/GHSA-3747-gjc9-vvg6,https://da.gd/1QrVp
+GithubAdvisories,[GHSA-rv8h-p43r-4x5r] SimpleGeo python-oauth2 vulnerable to the use of Insufficiently Random Values to generate nonces,https://github.com/advisories/GHSA-rv8h-p43r-4x5r,https://da.gd/BQ2XsF
+GithubAdvisories,[GHSA-5qp6-78pr-gv8c] PHP OpenID Library Denial of Service vulnerability,https://github.com/advisories/GHSA-5qp6-78pr-gv8c,https://da.gd/sKee
+GithubAdvisories,[GHSA-f3mv-g3xr-fp7w] Restlet Arbitrary Java Code Execution via a serialized object,https://github.com/advisories/GHSA-f3mv-g3xr-fp7w,https://da.gd/lWUYk
+GithubAdvisories,[GHSA-92j2-5r7p-6hjw] Restlet is vulnerable to Arbitrary Java Code Execution via crafted XML,https://github.com/advisories/GHSA-92j2-5r7p-6hjw,https://da.gd/4eIwJ
+GithubAdvisories,[GHSA-rq5c-hvw6-8pr7] Improper log output when using GitHub Status Notifications in spinnaker,https://github.com/advisories/GHSA-rq5c-hvw6-8pr7,https://da.gd/I5a8u
