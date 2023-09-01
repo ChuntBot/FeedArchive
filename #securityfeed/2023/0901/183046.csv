@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2018-25089 (meetup_tag),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-25089,https://da.gd/vnhTo
+NVD-NIST,CVE-2023-27604 (airflow_sqoop_provider),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-27604,https://da.gd/bu0CD
+NVD-NIST,CVE-2023-40195 (airflow_spark_provider),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-40195,https://da.gd/QSw5b
