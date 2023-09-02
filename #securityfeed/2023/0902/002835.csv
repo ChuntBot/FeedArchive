@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f73w-4m7g-ch9x] Langchain vulnerable to arbitrary code execution via the evaluate function in the numexpr library,https://github.com/advisories/GHSA-f73w-4m7g-ch9x,https://da.gd/VrAfs
+GithubAdvisories,[GHSA-8rv7-g772-pp3j] DataEase vulnerable to SQL injection,https://github.com/advisories/GHSA-8rv7-g772-pp3j,https://da.gd/U6tJq3
+GithubAdvisories,[GHSA-94w5-rf69-2h6c] hson-java vulnerable to denial of service,https://github.com/advisories/GHSA-94w5-rf69-2h6c,https://da.gd/p0fs
+GithubAdvisories,[GHSA-96gq-6ch5-mm54] usememos/memos vulnerable to improper input validation,https://github.com/advisories/GHSA-96gq-6ch5-mm54,https://da.gd/GW5GOD
+GithubAdvisories,[GHSA-5j6p-59cj-j6cp] usememos/memos vulnerable to privilege escalation,https://github.com/advisories/GHSA-5j6p-59cj-j6cp,https://da.gd/MIqdd5
+GithubAdvisories,[GHSA-wq6x-g685-w5f2] Improper Restriction of XML External Entity Reference in Plone,https://github.com/advisories/GHSA-wq6x-g685-w5f2,https://da.gd/Std23
+GithubAdvisories,[GHSA-2c8c-84w2-j38j] Improper Restriction of XML External Entity Reference in Plone,https://github.com/advisories/GHSA-2c8c-84w2-j38j,https://da.gd/2Caq
+GithubAdvisories,[GHSA-x7wf-5mjc-6x76] SSRF attacks via tracebacks in Plone,https://github.com/advisories/GHSA-x7wf-5mjc-6x76,https://da.gd/8S400P
+GithubAdvisories,[GHSA-j2gj-g3p9-7mrr] Account TakeOver Due to Improper Handling of JWT Tokens in usememos/memos,https://github.com/advisories/GHSA-j2gj-g3p9-7mrr,https://da.gd/P5eEKI
+GithubAdvisories,[GHSA-m2f8-v8q4-3m59] Authenticated Local Privilege Escalation vulnerability in Intel Optimization for Tensorflow,https://github.com/advisories/GHSA-m2f8-v8q4-3m59,https://da.gd/k4ZTus
+GithubAdvisories,[GHSA-h24c-6p6p-m3vx] tss-lib leaks secret keys in response to incorrectly constructed Paillier moduli,https://github.com/advisories/GHSA-h24c-6p6p-m3vx,https://da.gd/TYLy4
+GithubAdvisories,[GHSA-j8j8-348v-wfm3] Python-saml allows manipulation of SAML data without invalidation of cryptographic signature,https://github.com/advisories/GHSA-j8j8-348v-wfm3,https://da.gd/y8uW
+GithubAdvisories,[GHSA-38rv-5jqc-m2cv] Recurly vulnerable to SSRF,https://github.com/advisories/GHSA-38rv-5jqc-m2cv,https://da.gd/UYJwI
