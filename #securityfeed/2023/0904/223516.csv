@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xc27-f9q3-4448] Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') in hyper-bump-it,https://github.com/advisories/GHSA-xc27-f9q3-4448,https://da.gd/Jl9o
+GithubAdvisories,[GHSA-c2hm-mjxv-89r4] Multiple soundness issues in lexical,https://github.com/advisories/GHSA-c2hm-mjxv-89r4,https://da.gd/z9F3f
+GithubAdvisories,[GHSA-4hg4-9mf5-wxxq] incorrect order of evaluation of side effects for some builtins,https://github.com/advisories/GHSA-4hg4-9mf5-wxxq,https://da.gd/UrxSxt
+GithubAdvisories,[GHSA-g2xh-c426-v8mf] reversed order of side effects for some operations,https://github.com/advisories/GHSA-g2xh-c426-v8mf,https://da.gd/IZOVu
+GithubAdvisories,[GHSA-m5m2-h6h9-p2c8] Velocity execution without script right through VelocityCode and VelocityWiki property,https://github.com/advisories/GHSA-m5m2-h6h9-p2c8,https://da.gd/5VdgUL
+GithubAdvisories,[GHSA-vp4f-wxgw-7x8x] Improper Neutralization of Script in Attributes in @dcl/single-sign-on-client,https://github.com/advisories/GHSA-vp4f-wxgw-7x8x,https://da.gd/KzzJf
+GithubAdvisories,"[GHSA-49hh-fprx-m68g] Default functions in VolatileMemory trait lack bounds checks, potentially leading to out-of-bounds memory accesses",https://github.com/advisories/GHSA-49hh-fprx-m68g,https://da.gd/e0jIF
+GithubAdvisories,[GHSA-hf64-x4gq-p99h] Pillow Out-of-bounds Read,https://github.com/advisories/GHSA-hf64-x4gq-p99h,https://da.gd/EbOAg
+GithubAdvisories,[GHSA-vqcj-wrf2-7v73] Pillow Out-of-bounds Write,https://github.com/advisories/GHSA-vqcj-wrf2-7v73,https://da.gd/Tt71
