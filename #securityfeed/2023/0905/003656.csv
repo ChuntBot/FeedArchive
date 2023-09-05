@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fcv6-fg5r-jm9q] Trigger `beforeFind` not invoked in internal query pipeline when fetching pointer,https://github.com/advisories/GHSA-fcv6-fg5r-jm9q,https://da.gd/lR0oOa
