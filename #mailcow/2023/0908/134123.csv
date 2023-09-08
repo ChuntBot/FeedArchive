@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] checkbox styling,https://github.com/mailcow/mailcow-dockerized/commit/8e5323023a1ffd4f05477663f229b064a6c1e787,https://da.gd/bbqN
+GithubCommitStaging,[Web] Ratelimit settings as input group,https://github.com/mailcow/mailcow-dockerized/commit/e4e8abb1b9f04b6852d2b64e8ae99476d27ee11a,https://da.gd/J9w5Lc
+GithubCommitStaging,[Web] edit mailbox template - fixed settigns buttons styling,https://github.com/mailcow/mailcow-dockerized/commit/f059db54d0c27ac419b41eb8b070d1455ff0d210,https://da.gd/7ln1wk
+GithubCommitStaging,[Web] domain and alias domain edit - translated dkim “domain”,https://github.com/mailcow/mailcow-dockerized/commit/bb69f399760cdb3fa27e0d33624ce4b92a29a5b0,https://da.gd/SC9WiO
+GithubCommitStaging,[Web] edit object - added space after heaading,https://github.com/mailcow/mailcow-dockerized/commit/d48193fd0e11837a6c09da95b476cbe841f473fa,https://da.gd/lL3bYM
+GithubCommitStaging,[Web] standarize select box dropdown buttons,https://github.com/mailcow/mailcow-dockerized/commit/1b7cc830caea787520f032c30b10e993d64e4ee9,https://da.gd/I4QB5P
+GithubCommitStaging,[Web] fixed add domain save action button group styling,https://github.com/mailcow/mailcow-dockerized/commit/633ebe5e8dca0cd8b064a4897b911d58143afe87,https://da.gd/OJI7
+GithubCommitStaging,[Web] mobile devices styling fixes and enhancements,https://github.com/mailcow/mailcow-dockerized/commit/871ae5d7d285b216021e782ab57ab403d2dfd194,https://da.gd/KKJtNV
+GithubCommitStaging,[Web] mobile devices - scroll window to opened tab,https://github.com/mailcow/mailcow-dockerized/commit/d0ba061f7a79119ec2b191772ce8f0ab14af22e5,https://da.gd/zSd1Q
+GithubCommitStaging,"[Web] mailboxes - remove tab dropdown, if not admin",https://github.com/mailcow/mailcow-dockerized/commit/db9562e84375c3b1343f9cc773bdf3185383e9ff,https://da.gd/DqtrDa
+GithubCommitStaging,[Web] Edit Domain/Mailbox - added collapsible tabs for mobile devices,https://github.com/mailcow/mailcow-dockerized/commit/9ffa8100548451597d680b623dfd61dbd6fae474,https://da.gd/H3j4e
+GithubCommitStaging,Merge pull request #5403 from FELDSAM-INC/feldsam/css-fixes,https://github.com/mailcow/mailcow-dockerized/commit/9caaaa6498488be7a2ae02d70cdafa0925d304a7,https://da.gd/RHEhA
