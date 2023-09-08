@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+PacketstormSecurity,WinRAR Remote Code Execution,https://packetstormsecurity.com/files/174573/winrar_cve_2023_38831.rb.txt,https://da.gd/B4zL
+PacketstormSecurity,LG Simple Editor Remote Code Execution,https://packetstormsecurity.com/files/174572/lg_simple_editor_rce.rb.txt,https://da.gd/Phucu
+PacketstormSecurity,Sonicwall GMS 9.9.9320 Remote Code Execution,https://packetstormsecurity.com/files/174571/sonicwall_shell_injection_cve_2023_34124.rb.txt,https://da.gd/CJXVPU
+PacketstormSecurity,OpenTSDB 2.4.1 Unauthenticated Command Injection,https://packetstormsecurity.com/files/174570/opentsdb_key_cmd_injection.rb.txt,https://da.gd/AUu0
+PacketstormSecurity,Kibana Timelion Prototype Pollution Remote Code Execution,https://packetstormsecurity.com/files/174569/kibana_timelion_prototype_pollution_rce.rb.txt,https://da.gd/iMPJ
