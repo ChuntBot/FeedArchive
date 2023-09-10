@@ -1,0 +1,176 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g93h-75m9-3qq4] pngcrush-installer downloads Resources over HTTP,https://github.com/advisories/GHSA-g93h-75m9-3qq4,https://da.gd/HvgZUI
+GithubAdvisories,[GHSA-fv9m-f7w4-889c] discordi.js is malware,https://github.com/advisories/GHSA-fv9m-f7w4-889c,https://da.gd/Piae
+GithubAdvisories,[GHSA-f89g-whpf-6q9m] Cross-Site Scripting in i18next,https://github.com/advisories/GHSA-f89g-whpf-6q9m,https://da.gd/HPqQ0
+GithubAdvisories,[GHSA-cmh5-qc8w-xvcq] Cross-Site Scripting in i18next,https://github.com/advisories/GHSA-cmh5-qc8w-xvcq,https://da.gd/hdpx
+GithubAdvisories,[GHSA-pr49-5hhf-6mm6] Directory Traversal in serverabc,https://github.com/advisories/GHSA-pr49-5hhf-6mm6,https://da.gd/MU0W
+GithubAdvisories,[GHSA-q257-vv4p-fg92] Header Forgery in http-signature,https://github.com/advisories/GHSA-q257-vv4p-fg92,https://da.gd/N6jZg
+GithubAdvisories,[GHSA-wg96-3933-j2w5] Cross-Site Scripting in sanitize-html,https://github.com/advisories/GHSA-wg96-3933-j2w5,https://da.gd/I3JgHP
+GithubAdvisories,[GHSA-xc6g-ggrc-qq4r] Cross-Site Scripting in sanitize-html,https://github.com/advisories/GHSA-xc6g-ggrc-qq4r,https://da.gd/IwY55
+GithubAdvisories,[GHSA-j866-8vxx-27hx] nodemailer.js is malware,https://github.com/advisories/GHSA-j866-8vxx-27hx,https://da.gd/0Yv9
+GithubAdvisories,[GHSA-487w-pqcm-63hq] Command injection in buns,https://github.com/advisories/GHSA-487w-pqcm-63hq,https://da.gd/uthNV1
+GithubAdvisories,[GHSA-w7q9-p3jq-fmhm] Uncontrolled resource consumption in jpeg-js,https://github.com/advisories/GHSA-w7q9-p3jq-fmhm,https://da.gd/ylAV
+GithubAdvisories,[GHSA-m8pw-h8qj-rgj9] ipip-coffee downloads Resources over HTTP,https://github.com/advisories/GHSA-m8pw-h8qj-rgj9,https://da.gd/lOILwW
+GithubAdvisories,[GHSA-9qj9-36jm-prpv] Regular Expression Denial of Service in fresh,https://github.com/advisories/GHSA-9qj9-36jm-prpv,https://da.gd/z18u1n
+GithubAdvisories,[GHSA-8r98-rqg5-4vm3] node-browser downloads Resources over HTTP,https://github.com/advisories/GHSA-8r98-rqg5-4vm3,https://da.gd/rXwIAz
+GithubAdvisories,[GHSA-3q5p-3558-364f] Fiber unauthorized access vulnerability in `ctx.IsFromLocal()`,https://github.com/advisories/GHSA-3q5p-3558-364f,https://da.gd/Cloik
+GithubAdvisories,"[GHSA-w8vq-3hf9-xppx] Apollo Router Unnamed ""Subscription"" operation results in Denial-of-Service",https://github.com/advisories/GHSA-w8vq-3hf9-xppx,https://da.gd/ZiWH5
+GithubAdvisories,[GHSA-6g33-f262-xjp4] Cryptographically Weak PRNG in randomatic,https://github.com/advisories/GHSA-6g33-f262-xjp4,https://da.gd/ERHZx7
+GithubAdvisories,[GHSA-4wch-fwmx-cf47] Directory Traversal in augustine,https://github.com/advisories/GHSA-4wch-fwmx-cf47,https://da.gd/1X2s1
+GithubAdvisories,[GHSA-3cgg-gh9j-w8vm] Directory Traversal in iter-http,https://github.com/advisories/GHSA-3cgg-gh9j-w8vm,https://da.gd/OX5PGg
+GithubAdvisories,[GHSA-v8v8-6859-qxm4] Arbitrary shell command execution in logkitty,https://github.com/advisories/GHSA-v8v8-6859-qxm4,https://da.gd/YMTWN
+GithubAdvisories,[GHSA-8qp3-pvwc-2g4p] nodefabric is malware,https://github.com/advisories/GHSA-8qp3-pvwc-2g4p,https://da.gd/gP2sY
+GithubAdvisories,[GHSA-xfhp-gmh8-r8v2] printf vulnerable to Regular Expression Denial of Service (ReDoS),https://github.com/advisories/GHSA-xfhp-gmh8-r8v2,https://da.gd/idqZp
+GithubAdvisories,[GHSA-57f3-gghm-9mhc] jspdf vulnerable to Regular Expression Denial of Service (ReDoS),https://github.com/advisories/GHSA-57f3-gghm-9mhc,https://da.gd/NuQ4FS
+GithubAdvisories,[GHSA-ww4j-c2rq-47q8] Command injection in ts-process-promises,https://github.com/advisories/GHSA-ww4j-c2rq-47q8,https://da.gd/JkjzPJ
+GithubAdvisories,[GHSA-q5c4-39f5-m68j] Regular Expression Denial of Service in decamelize,https://github.com/advisories/GHSA-q5c4-39f5-m68j,https://da.gd/V8thrb
+GithubAdvisories,[GHSA-pwqj-h62h-q35c] Directory Traversal in goserv,https://github.com/advisories/GHSA-pwqj-h62h-q35c,https://da.gd/xUayRR
+GithubAdvisories,[GHSA-pmv6-gf98-p3r5] Command Injection in kill-port,https://github.com/advisories/GHSA-pmv6-gf98-p3r5,https://da.gd/4xLMT
+GithubAdvisories,[GHSA-mrmf-qwxg-7c3h] XSS in Data URI in remarkable,https://github.com/advisories/GHSA-mrmf-qwxg-7c3h,https://da.gd/PFJ6
+GithubAdvisories,[GHSA-h626-pv66-hhm7] Terraform allows arbitrary file write during the `init` operation,https://github.com/advisories/GHSA-h626-pv66-hhm7,https://da.gd/N6O38
+GithubAdvisories,[GHSA-x6wp-rfwh-hcx7] Regular Expression Denial of Service in content,https://github.com/advisories/GHSA-x6wp-rfwh-hcx7,https://da.gd/blT5j
+GithubAdvisories,[GHSA-g87g-4x3w-f8jp] Directory Traversal in serverwzl,https://github.com/advisories/GHSA-g87g-4x3w-f8jp,https://da.gd/Uvu9y
+GithubAdvisories,[GHSA-vhx6-cp8w-295m] Directory Traversal in serverliujiayi1,https://github.com/advisories/GHSA-vhx6-cp8w-295m,https://da.gd/ic8bbd
+GithubAdvisories,[GHSA-hwhq-3hrj-v6v5] Hijacked Environment Variables in cross-env.js,https://github.com/advisories/GHSA-hwhq-3hrj-v6v5,https://da.gd/1BpAo
+GithubAdvisories,[GHSA-5crw-6j7v-xc72] matrix-media-repo: Unsafe media served inline on download endpoints,https://github.com/advisories/GHSA-5crw-6j7v-xc72,https://da.gd/z0divV
+GithubAdvisories,[GHSA-pj2h-85jq-g5vg] Answer Missing Authentication for Critical Function,https://github.com/advisories/GHSA-pj2h-85jq-g5vg,https://da.gd/sxNp4O
+GithubAdvisories,"[GHSA-pmxq-pj47-j8j4] Domain restrictions bypass via DNS Rebinding in WireMock and WireMock Studio webhooks, proxy and recorder modes",https://github.com/advisories/GHSA-pmxq-pj47-j8j4,https://da.gd/vYYFed
+GithubAdvisories,[GHSA-fm4q-j8g4-c9j4] Apache Superset Improper Input Validation vulnerability,https://github.com/advisories/GHSA-fm4q-j8g4-c9j4,https://da.gd/vk2T
+GithubAdvisories,[GHSA-fj4x-m62j-wvwg] Apache Superset Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-fj4x-m62j-wvwg,https://da.gd/3DNp
+GithubAdvisories,[GHSA-4fg9-5w46-xmrj] Apache Superset Server Side Request Forgery vulnerability,https://github.com/advisories/GHSA-4fg9-5w46-xmrj,https://da.gd/AEQa
+GithubAdvisories,[GHSA-92rv-4j2h-8mjj] Snappy PHAR deserialization vulnerability,https://github.com/advisories/GHSA-92rv-4j2h-8mjj,https://da.gd/ZCxe5
+GithubAdvisories,[GHSA-hq8w-9w8w-pmx7] WireMock Controlled Server Side Request Forgery vulnerability through URL,https://github.com/advisories/GHSA-hq8w-9w8w-pmx7,https://da.gd/HPO9
+GithubAdvisories,[GHSA-23xp-j737-282v] Path Traversal in takeapeek,https://github.com/advisories/GHSA-23xp-j737-282v,https://da.gd/u7QY
+GithubAdvisories,[GHSA-68cm-mgv7-vg5c] Directory Traversal in utahcityfinder,https://github.com/advisories/GHSA-68cm-mgv7-vg5c,https://da.gd/dWFE
+GithubAdvisories,[GHSA-4r4m-hjwj-43p8] Insecure Defaults Allow MITM Over TLS in engine.io-client,https://github.com/advisories/GHSA-4r4m-hjwj-43p8,https://da.gd/Hoq4Fh
+GithubAdvisories,[GHSA-432j-4fw9-2g6f] libsbml downloads Resources over HTTP,https://github.com/advisories/GHSA-432j-4fw9-2g6f,https://da.gd/IbI6Ja
+GithubAdvisories,[GHSA-3p8f-j2vw-7hw9] mssql-node is malware,https://github.com/advisories/GHSA-3p8f-j2vw-7hw9,https://da.gd/ZVU4
+GithubAdvisories,[GHSA-23wc-v4mf-x7v4] Directory Traversal in intsol-package,https://github.com/advisories/GHSA-23wc-v4mf-x7v4,https://da.gd/KoSR
+GithubAdvisories,[GHSA-x268-6jhm-2mx8] libsbmlsim downloads Resources over HTTP,https://github.com/advisories/GHSA-x268-6jhm-2mx8,https://da.gd/MQCE7
+GithubAdvisories,[GHSA-wv2f-3rxv-jqhp] Path Traversal in general-file-server,https://github.com/advisories/GHSA-wv2f-3rxv-jqhp,https://da.gd/jwTvn6
+GithubAdvisories,[GHSA-wqg7-vrj7-v82h] High severity vulnerability that affects mosca,https://github.com/advisories/GHSA-wqg7-vrj7-v82h,https://da.gd/F2Uow
+GithubAdvisories,[GHSA-wh33-4p32-g7vh] Directory Traversal in serverxxx,https://github.com/advisories/GHSA-wh33-4p32-g7vh,https://da.gd/WwUtOZ
+GithubAdvisories,[GHSA-vfvf-mqq8-rwqc] Sanitization bypass using HTML Entities in marked,https://github.com/advisories/GHSA-vfvf-mqq8-rwqc,https://da.gd/ZTQ7E
+GithubAdvisories,[GHSA-rgq8-25qc-h54q] Directory Traversal in myserver.alexcthomas18,https://github.com/advisories/GHSA-rgq8-25qc-h54q,https://da.gd/DiVJhO
+GithubAdvisories,[GHSA-x5pg-88wf-qq4p] Regular Expression Denial of Service in marked,https://github.com/advisories/GHSA-x5pg-88wf-qq4p,https://da.gd/n7jg3
+GithubAdvisories,[GHSA-25jw-gcfj-283j] Directory Traversal in 360class.jansenhm,https://github.com/advisories/GHSA-25jw-gcfj-283j,https://da.gd/JVJc5
+GithubAdvisories,[GHSA-cwcp-6c48-fm7m] Unsafe eval() in summit allows arbitrary code execution,https://github.com/advisories/GHSA-cwcp-6c48-fm7m,https://da.gd/DIHSe
+GithubAdvisories,[GHSA-cch6-5x4h-6qc5] Directory Traversal in tiny-http,https://github.com/advisories/GHSA-cch6-5x4h-6qc5,https://da.gd/X3Mde
+GithubAdvisories,[GHSA-rr77-w4w8-w8wp] Directory Traversal in tencent-server,https://github.com/advisories/GHSA-rr77-w4w8-w8wp,https://da.gd/HAn9Rx
+GithubAdvisories,[GHSA-m69q-pmxg-vqch] Directory Traversal in cypserver,https://github.com/advisories/GHSA-m69q-pmxg-vqch,https://da.gd/zBTCo
+GithubAdvisories,[GHSA-f8rj-4v7g-p5rj] Directory Traversal in jansenstuffpleasework,https://github.com/advisories/GHSA-f8rj-4v7g-p5rj,https://da.gd/3ECUM
+GithubAdvisories,[GHSA-h372-w3xp-2jg3] Directory Traversal in section2.madisonjbrooks12,https://github.com/advisories/GHSA-h372-w3xp-2jg3,https://da.gd/Y9e1tf
+GithubAdvisories,[GHSA-vpjg-wmf8-29h9] Salt vulnerable to denial of service,https://github.com/advisories/GHSA-vpjg-wmf8-29h9,https://da.gd/6fA6A
+GithubAdvisories,[GHSA-7x97-j373-85x5] Electron vulnerable to out-of-package code execution when launched with arbitrary cwd,https://github.com/advisories/GHSA-7x97-j373-85x5,https://da.gd/fPsOp
+GithubAdvisories,[GHSA-p7v2-p9m8-qqg7] Electron context isolation bypass via nested unserializable return value,https://github.com/advisories/GHSA-p7v2-p9m8-qqg7,https://da.gd/9MqT0q
+GithubAdvisories,[GHSA-gxh7-wv9q-fwfr] Electron's Content-Secrity-Policy disabling eval not applied consistently in renderers with sandbox disabled,https://github.com/advisories/GHSA-gxh7-wv9q-fwfr,https://da.gd/4OxHSe
+GithubAdvisories,[GHSA-ppjg-v974-84cm] Go-Ethereum vulnerable to denial of service via malicious p2p message,https://github.com/advisories/GHSA-ppjg-v974-84cm,https://da.gd/ea2IS
+GithubAdvisories,[GHSA-428f-mh7w-6w2x] pandora-doomsday is malware,https://github.com/advisories/GHSA-428f-mh7w-6w2x,https://da.gd/xPoDZ
+GithubAdvisories,[GHSA-6x8c-mvpv-5366] Directory Traversal in shit-server,https://github.com/advisories/GHSA-6x8c-mvpv-5366,https://da.gd/UjkttG
+GithubAdvisories,[GHSA-xgf5-5gjr-4hjq] Directory Traversal in zjjserver,https://github.com/advisories/GHSA-xgf5-5gjr-4hjq,https://da.gd/76HFdZ
+GithubAdvisories,[GHSA-2f29-pmpx-vj62] Directory Traversal in serverwg,https://github.com/advisories/GHSA-2f29-pmpx-vj62,https://da.gd/CKyuwR
+GithubAdvisories,[GHSA-xj3h-vc9j-j823] Directory Traversal in nodeaaaaa,https://github.com/advisories/GHSA-xj3h-vc9j-j823,https://da.gd/Mm2r
+GithubAdvisories,[GHSA-vgjp-vh3c-32v3] Directory Traversal in mockserve,https://github.com/advisories/GHSA-vgjp-vh3c-32v3,https://da.gd/OwqPAt
+GithubAdvisories,[GHSA-mq76-m7gv-xhfm] sauce-connect downloads Resources over HTTP,https://github.com/advisories/GHSA-mq76-m7gv-xhfm,https://da.gd/jBOJuo
+GithubAdvisories,[GHSA-m79w-4mqv-r39f] windows-seleniumjar downloads Resources over HTTP,https://github.com/advisories/GHSA-m79w-4mqv-r39f,https://da.gd/N5PKG
+GithubAdvisories,[GHSA-j68r-23hj-xf9c] node-openssl is malware,https://github.com/advisories/GHSA-j68r-23hj-xf9c,https://da.gd/MGSaY
+GithubAdvisories,[GHSA-hxhm-3vj9-6cqh] Downloads Resources over HTTP in apk-parser2,https://github.com/advisories/GHSA-hxhm-3vj9-6cqh,https://da.gd/l5NfQv
+GithubAdvisories,[GHSA-f9cm-qmx5-m98h] Prototype Pollution in merge,https://github.com/advisories/GHSA-f9cm-qmx5-m98h,https://da.gd/KW8DS
+GithubAdvisories,[GHSA-cqjg-whmm-8gv6] Denial of Service via malformed accept-encoding header in hapi,https://github.com/advisories/GHSA-cqjg-whmm-8gv6,https://da.gd/Ffn9LJ
+GithubAdvisories,[GHSA-38h8-x697-gh8q] Tmp files readable by other users in sync-exec,https://github.com/advisories/GHSA-38h8-x697-gh8q,https://da.gd/3fz6h
+GithubAdvisories,[GHSA-59m2-j944-839w] clang-extra downloads Resources over HTTP,https://github.com/advisories/GHSA-59m2-j944-839w,https://da.gd/HqzKtJ
+GithubAdvisories,[GHSA-65q2-x652-xx84] dalek-browser-ie downloads Resources over HTTP,https://github.com/advisories/GHSA-65q2-x652-xx84,https://da.gd/XINFIm
+GithubAdvisories,[GHSA-756f-6j3f-48q9] Directory Traversal in calmquist.static-server,https://github.com/advisories/GHSA-756f-6j3f-48q9,https://da.gd/JU3dN8
+GithubAdvisories,[GHSA-wq7q-7vfh-2x3h] install-nw downloads Resources over HTTP,https://github.com/advisories/GHSA-wq7q-7vfh-2x3h,https://da.gd/8nvj
+GithubAdvisories,[GHSA-xh56-3f5w-9h25] nodemailer-js is malware,https://github.com/advisories/GHSA-xh56-3f5w-9h25,https://da.gd/eP4r
+GithubAdvisories,[GHSA-xf46-8vvp-4hxx] Keycloak Missing authentication for critical function,https://github.com/advisories/GHSA-xf46-8vvp-4hxx,https://da.gd/EJISA
+GithubAdvisories,[GHSA-22j5-38qv-pxx7] sqliter is malware,https://github.com/advisories/GHSA-22j5-38qv-pxx7,https://da.gd/9IONdb
+GithubAdvisories,[GHSA-3wxq-7r8m-qpmg] ffmepg is malware,https://github.com/advisories/GHSA-3wxq-7r8m-qpmg,https://da.gd/9yLRyz
+GithubAdvisories,[GHSA-5cv7-r488-wc5x] noderequest is malware,https://github.com/advisories/GHSA-5cv7-r488-wc5x,https://da.gd/Ri3OE
+GithubAdvisories,[GHSA-5hxw-r847-qfwp] opencv.js is malware,https://github.com/advisories/GHSA-5hxw-r847-qfwp,https://da.gd/PEBuA
+GithubAdvisories,[GHSA-675m-85rw-j3w4] Prototype Pollution in just-extend,https://github.com/advisories/GHSA-675m-85rw-j3w4,https://da.gd/z1Ms
+GithubAdvisories,[GHSA-vwjj-2852-3765] Cross-Site Scripting in forms,https://github.com/advisories/GHSA-vwjj-2852-3765,https://da.gd/DH6RNE
+GithubAdvisories,[GHSA-v73m-fjxv-w4rh] fabric-js is malware,https://github.com/advisories/GHSA-v73m-fjxv-w4rh,https://da.gd/ORq1s
+GithubAdvisories,[GHSA-jppx-hw2f-8gx4] chromedriver126 downloads Resources over HTTP,https://github.com/advisories/GHSA-jppx-hw2f-8gx4,https://da.gd/Q6cM
+GithubAdvisories,[GHSA-j5mg-fpq8-vvxv] Directory Traversal in commentapp.stetsonwood,https://github.com/advisories/GHSA-j5mg-fpq8-vvxv,https://da.gd/CtlrQ
+GithubAdvisories,[GHSA-j49g-mp79-5vm5] coffe-script is malware,https://github.com/advisories/GHSA-j49g-mp79-5vm5,https://da.gd/LEZvA
+GithubAdvisories,[GHSA-h466-j336-74wx] Prototype Pollution in mpath,https://github.com/advisories/GHSA-h466-j336-74wx,https://da.gd/HeHrt
+GithubAdvisories,[GHSA-gfv4-2vhm-486m] node-fabric is malware,https://github.com/advisories/GHSA-gfv4-2vhm-486m,https://da.gd/MzVi
+GithubAdvisories,[GHSA-9g9w-hmvj-5h57] Prototype Pollution in merge-deep,https://github.com/advisories/GHSA-9g9w-hmvj-5h57,https://da.gd/AfEfl
+GithubAdvisories,[GHSA-85fq-56wq-gmcf] mariadb is malware,https://github.com/advisories/GHSA-85fq-56wq-gmcf,https://da.gd/cQWi
+GithubAdvisories,[GHSA-7g2w-6r25-2j7p] Command Injection in libnmap,https://github.com/advisories/GHSA-7g2w-6r25-2j7p,https://da.gd/7nze57
+GithubAdvisories,[GHSA-7ggw-h8pp-r95r] October CMS Session ID not invalidated after logout,https://github.com/advisories/GHSA-7ggw-h8pp-r95r,https://da.gd/I87pJ
+GithubAdvisories,[GHSA-95ch-p3gw-23qg] Apache Superset has incorrect authorization check,https://github.com/advisories/GHSA-95ch-p3gw-23qg,https://da.gd/Ch9Bq
+GithubAdvisories,[GHSA-v594-2c97-hx38] Apache Superset vulnerable to improper data authorization,https://github.com/advisories/GHSA-v594-2c97-hx38,https://da.gd/w6tGKE
+GithubAdvisories,[GHSA-p6p2-qq95-vq5h] Remote Code Execution in Custom Integration Upload,https://github.com/advisories/GHSA-p6p2-qq95-vq5h,https://da.gd/Mkb4V
+GithubAdvisories,"[GHSA-6xv5-86q9-7xr8] SecureJoin: on windows, paths outside of the rootfs could be inadvertently produced",https://github.com/advisories/GHSA-6xv5-86q9-7xr8,https://da.gd/YfEEc3
+GithubAdvisories,[GHSA-8xv7-89vj-q48c] Information disclosure in AccessControl,https://github.com/advisories/GHSA-8xv7-89vj-q48c,https://da.gd/Ig5v
+GithubAdvisories,[GHSA-x8mm-hwhf-jh3m] Malware in chatbot-community,https://github.com/advisories/GHSA-x8mm-hwhf-jh3m,https://da.gd/O84Se
+GithubAdvisories,[GHSA-cxwc-8pqp-2whw] Directory Traversal in qinserve,https://github.com/advisories/GHSA-cxwc-8pqp-2whw,https://da.gd/Vz20
+GithubAdvisories,[GHSA-qhf6-vqq9-q2p7] Directory Traversal in gaoxiaotingtingting,https://github.com/advisories/GHSA-qhf6-vqq9-q2p7,https://da.gd/DuqSt
+GithubAdvisories,[GHSA-xpqw-fqpw-35fc] Directory Traversal in wangguojing123,https://github.com/advisories/GHSA-xpqw-fqpw-35fc,https://da.gd/bO51ea
+GithubAdvisories,[GHSA-whcm-29f4-j4mx] Directory Traversal in zwserver,https://github.com/advisories/GHSA-whcm-29f4-j4mx,https://da.gd/Osdla6
+GithubAdvisories,[GHSA-c3hr-wwh3-qm54] Directory Traversal in fsk-server,https://github.com/advisories/GHSA-c3hr-wwh3-qm54,https://da.gd/1mKGWk
+GithubAdvisories,[GHSA-r74q-wqx8-2pr3] nodeschnaps downloads resources over HTTP,https://github.com/advisories/GHSA-r74q-wqx8-2pr3,https://da.gd/xPxgs
+GithubAdvisories,[GHSA-pxq7-4ppw-qp7f] Directory Traversal in serverzyy,https://github.com/advisories/GHSA-pxq7-4ppw-qp7f,https://da.gd/bOrauQ
+GithubAdvisories,[GHSA-r9p9-mrjm-926w] Elliptic Uses a Broken or Risky Cryptographic Algorithm,https://github.com/advisories/GHSA-r9p9-mrjm-926w,https://da.gd/iN6zW
+GithubAdvisories,[GHSA-753c-phhg-cj29] Madge vulnerable to command injection,https://github.com/advisories/GHSA-753c-phhg-cj29,https://da.gd/Pz8eOS
+GithubAdvisories,[GHSA-9qc3-p9jq-2x27] Apache Superset users may incorrectly create resources using the import charts feature,https://github.com/advisories/GHSA-9qc3-p9jq-2x27,https://da.gd/DMnT
+GithubAdvisories,[GHSA-23px-mw2p-46qm] Cosmos-SDK Cosmovisor component may be vulnerable to denial of service,https://github.com/advisories/GHSA-23px-mw2p-46qm,https://da.gd/bpKnWb
+GithubAdvisories,[GHSA-23vf-5g53-hm9q] Directory Traversal in list-n-stream,https://github.com/advisories/GHSA-23vf-5g53-hm9q,https://da.gd/x1ZUG
+GithubAdvisories,[GHSA-pjmx-9xr3-82qr] ReDoS via long UserAgent header in useragent,https://github.com/advisories/GHSA-pjmx-9xr3-82qr,https://da.gd/urBgu
+GithubAdvisories,[GHSA-m6wh-m8m8-6xx5] cofeescript is malware,https://github.com/advisories/GHSA-m6wh-m8m8-6xx5,https://da.gd/lSl70
+GithubAdvisories,[GHSA-h8mc-42c3-r72p] hubl-server downloads resources over HTTP,https://github.com/advisories/GHSA-h8mc-42c3-r72p,https://da.gd/I6tSea
+GithubAdvisories,[GHSA-g8wf-rcg3-qw4q] Directory Traversal in tinyserver2,https://github.com/advisories/GHSA-g8wf-rcg3-qw4q,https://da.gd/dRta
+GithubAdvisories,[GHSA-f499-jv47-9wxf] Directory Traversal in desafio,https://github.com/advisories/GHSA-f499-jv47-9wxf,https://da.gd/nIaqww
+GithubAdvisories,[GHSA-cpp2-q66x-fq44] Directory Traversal in jikes,https://github.com/advisories/GHSA-cpp2-q66x-fq44,https://da.gd/m4cMO
+GithubAdvisories,[GHSA-6f34-pq9f-36vf] sqlite.js is malware,https://github.com/advisories/GHSA-6f34-pq9f-36vf,https://da.gd/GapmP
+GithubAdvisories,[GHSA-qvh6-3j7x-3hq7] Salt can cause Git Providers to get wrong data,https://github.com/advisories/GHSA-qvh6-3j7x-3hq7,https://da.gd/hslSf
+GithubAdvisories,[GHSA-w23q-4hw3-2pp6] Minio vulnerable to Privilege Escalation on Windows via Path separator manipulation,https://github.com/advisories/GHSA-w23q-4hw3-2pp6,https://da.gd/vf17r
+GithubAdvisories,[GHSA-6fjr-m7v6-fpg9] jquey is malware,https://github.com/advisories/GHSA-6fjr-m7v6-fpg9,https://da.gd/vzE05
+GithubAdvisories,[GHSA-f4r5-q63f-gcww] Keylime registrar and (untrusted) Agent can be bypassed by an attacker,https://github.com/advisories/GHSA-f4r5-q63f-gcww,https://da.gd/WE2jWa
+GithubAdvisories,[GHSA-3w43-83jj-x86j] Malware in @grabdefence/trust-feature-bank-ui,https://github.com/advisories/GHSA-3w43-83jj-x86j,https://da.gd/IdYAws
+GithubAdvisories,[GHSA-vw3v-52fj-6p2g] Malware in @ks-radar/radar-error-collect,https://github.com/advisories/GHSA-vw3v-52fj-6p2g,https://da.gd/Zeu1F
+GithubAdvisories,[GHSA-fqqj-8fqc-hrrg] Malware in @ks-radar/radar-resource-collect,https://github.com/advisories/GHSA-fqqj-8fqc-hrrg,https://da.gd/v947o
+GithubAdvisories,[GHSA-9pf9-45h8-7gx7] Malware in @ks-radar/radar-event-collect,https://github.com/advisories/GHSA-9pf9-45h8-7gx7,https://da.gd/PrZ4f
+GithubAdvisories,[GHSA-w23f-f3c5-r9qh] ikst Downloads Resources over HTTP,https://github.com/advisories/GHSA-w23f-f3c5-r9qh,https://da.gd/6ePOag
+GithubAdvisories,[GHSA-x5x2-mfc7-r22f] Directory Traversal in picard,https://github.com/advisories/GHSA-x5x2-mfc7-r22f,https://da.gd/nbjhQ
+GithubAdvisories,[GHSA-xj6q-9hx8-mm7f] Directory Traversal in liuyaserver,https://github.com/advisories/GHSA-xj6q-9hx8-mm7f,https://da.gd/4vnou
+GithubAdvisories,[GHSA-j38m-7q52-fgfh] Directory Traversal in node-server-forfront,https://github.com/advisories/GHSA-j38m-7q52-fgfh,https://da.gd/PL6k
+GithubAdvisories,[GHSA-cvx3-pqmj-x57x] Downloads Resources over HTTP in scalajs-standalone-bin,https://github.com/advisories/GHSA-cvx3-pqmj-x57x,https://da.gd/R9Op
+GithubAdvisories,[GHSA-79p8-4cwq-rhqh] Directory Traversal in jn_jj_server,https://github.com/advisories/GHSA-79p8-4cwq-rhqh,https://da.gd/Eurp
+GithubAdvisories,[GHSA-8w74-g84v-c5w8] Directory Traversal in chatbyvista,https://github.com/advisories/GHSA-8w74-g84v-c5w8,https://da.gd/DhUn
+GithubAdvisories,[GHSA-m362-87jc-f39v] Directory Traversal in uv-tj-demo,https://github.com/advisories/GHSA-m362-87jc-f39v,https://da.gd/Y6MCTk
+GithubAdvisories,[GHSA-7qmm-q394-fmch] Command Injection in ps-kill,https://github.com/advisories/GHSA-7qmm-q394-fmch,https://da.gd/3abm0
+GithubAdvisories,[GHSA-h4hr-7fg3-h35w] Denial of service in prismjs,https://github.com/advisories/GHSA-h4hr-7fg3-h35w,https://da.gd/4Vc2
+GithubAdvisories,[GHSA-j32x-j8pj-pg2h] Prototype Pollution in decal,https://github.com/advisories/GHSA-j32x-j8pj-pg2h,https://da.gd/P133V4
+GithubAdvisories,[GHSA-p2r2-h92r-w2mg] Directory Traversal in mfrserver,https://github.com/advisories/GHSA-p2r2-h92r-w2mg,https://da.gd/yCzU
+GithubAdvisories,[GHSA-36vc-cw62-fqvr] Shadowsock is malware,https://github.com/advisories/GHSA-36vc-cw62-fqvr,https://da.gd/nhziq
+GithubAdvisories,[GHSA-4vfj-c2xf-8r48] Directory Traversal in looppake,https://github.com/advisories/GHSA-4vfj-c2xf-8r48,https://da.gd/FOPmBX
+GithubAdvisories,[GHSA-2pxw-r47w-4p8c] Privilege Escalation on Linux/MacOS,https://github.com/advisories/GHSA-2pxw-r47w-4p8c,https://da.gd/nVEVhp
+GithubAdvisories,[GHSA-qhx9-7hx7-cp4r] bottle HTTP Request smuggling,https://github.com/advisories/GHSA-qhx9-7hx7-cp4r,https://da.gd/ajNOR
+GithubAdvisories,[GHSA-v542-8q9x-cffc] Django Channels leakage of session identifiers using legacy AsgiHandler,https://github.com/advisories/GHSA-v542-8q9x-cffc,https://da.gd/4sj66I
+GithubAdvisories,[GHSA-wgpj-7c2j-vfjm] Indico Tampering with links (e.g. password reset) in sent emails,https://github.com/advisories/GHSA-wgpj-7c2j-vfjm,https://da.gd/PRWIcU
+GithubAdvisories,[GHSA-f6gc-2jp8-h9mg] Malware in mc-dxp,https://github.com/advisories/GHSA-f6gc-2jp8-h9mg,https://da.gd/xYip
+GithubAdvisories,[GHSA-68v5-j4r5-g5gp] Malware in ivr-payments,https://github.com/advisories/GHSA-68v5-j4r5-g5gp,https://da.gd/Gz2H
+GithubAdvisories,[GHSA-q2wp-r7m2-6cjw] Malware in fiji-core-cryptopool,https://github.com/advisories/GHSA-q2wp-r7m2-6cjw,https://da.gd/tIzFgl
+GithubAdvisories,[GHSA-88f4-6j55-4f7c] Malware in jupiter-opensdk,https://github.com/advisories/GHSA-88f4-6j55-4f7c,https://da.gd/bG5aok
+GithubAdvisories,[GHSA-fqxw-p863-cj6f] Malware in jupiter-emoji,https://github.com/advisories/GHSA-fqxw-p863-cj6f,https://da.gd/PtwH
+GithubAdvisories,[GHSA-8f94-f3c5-6qrv] Malware in fiji-core-framework,https://github.com/advisories/GHSA-8f94-f3c5-6qrv,https://da.gd/tYoi3
+GithubAdvisories,[GHSA-48gx-m395-rh53] Malware in fiji-core-foundation,https://github.com/advisories/GHSA-48gx-m395-rh53,https://da.gd/pchU
+GithubAdvisories,[GHSA-q669-pw87-hg2f] Malware in feature-flag-framework,https://github.com/advisories/GHSA-q669-pw87-hg2f,https://da.gd/bXkGG5
+GithubAdvisories,[GHSA-gr2c-3876-m52x] Malware in jupiter-i18n,https://github.com/advisories/GHSA-gr2c-3876-m52x,https://da.gd/iPfJy
+GithubAdvisories,[GHSA-hpc3-8x49-5j33] Malware in fiji-core-foc,https://github.com/advisories/GHSA-hpc3-8x49-5j33,https://da.gd/Xj5c
+GithubAdvisories,[GHSA-44hg-5rqh-pfv8] Malware in course-structure-debugger,https://github.com/advisories/GHSA-44hg-5rqh-pfv8,https://da.gd/zXSLri
+GithubAdvisories,[GHSA-g5c3-f89p-x6vx] Malware in dm_commons_utilities,https://github.com/advisories/GHSA-g5c3-f89p-x6vx,https://da.gd/GUFaOs
+GithubAdvisories,[GHSA-c857-g688-89w9] Malware in chain-list,https://github.com/advisories/GHSA-c857-g688-89w9,https://da.gd/X0B0
+GithubAdvisories,[GHSA-2mw7-hrw4-3c89] Malware in betterbit-frame-pkg,https://github.com/advisories/GHSA-2mw7-hrw4-3c89,https://da.gd/h7Frt4
+GithubAdvisories,[GHSA-6qwm-hw7m-v847] Malware in vesper-synth-user-lib,https://github.com/advisories/GHSA-6qwm-hw7m-v847,https://da.gd/wSvNK
+GithubAdvisories,[GHSA-38xg-55hq-mjj2] Malware in metronome-synth-info-lib,https://github.com/advisories/GHSA-38xg-55hq-mjj2,https://da.gd/L06BQP
+GithubAdvisories,[GHSA-pw8f-p87w-gxvw] Malware in master-oracle-lib,https://github.com/advisories/GHSA-pw8f-p87w-gxvw,https://da.gd/tvDtKS
+GithubAdvisories,[GHSA-rf93-qxw6-9mfc] Malware in web3-provider-patchers,https://github.com/advisories/GHSA-rf93-qxw6-9mfc,https://da.gd/Fo48i3
+GithubAdvisories,[GHSA-4jmc-jgjw-83hr] Malware in metronome-ui,https://github.com/advisories/GHSA-4jmc-jgjw-83hr,https://da.gd/N3c7
+GithubAdvisories,[GHSA-4hmh-62wh-g6c5] Malware in wallet-switch-chain,https://github.com/advisories/GHSA-4hmh-62wh-g6c5,https://da.gd/O2pa5
+GithubAdvisories,[GHSA-4hgx-px9x-352j] Malware in wallet-add-chain,https://github.com/advisories/GHSA-4hgx-px9x-352j,https://da.gd/bPuOa
+GithubAdvisories,[GHSA-qv4m-fwq2-82qh] Malware in metronome-synth-user-lib,https://github.com/advisories/GHSA-qv4m-fwq2-82qh,https://da.gd/4f1Th
+GithubAdvisories,[GHSA-g9rv-wm73-jg9w] Malware in wallet-watch-asset,https://github.com/advisories/GHSA-g9rv-wm73-jg9w,https://da.gd/nLryjD
