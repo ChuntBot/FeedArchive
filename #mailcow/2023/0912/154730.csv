@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Update docker/build-push-action action to v5 (#5415),https://github.com/mailcow/mailcow-dockerized/commit/e02a92a0d072e95b3dbfdcc54829b96badbdf8b4,https://da.gd/hpJjWY
+GithubCommitStaging,Update docker/login-action action to v3 (#5416),https://github.com/mailcow/mailcow-dockerized/commit/f86f5657d91132047daf5d4c487e7ce73f816b09,https://da.gd/0pqqn
+GithubCommitStaging,Update docker/setup-qemu-action action to v3 (#5418),https://github.com/mailcow/mailcow-dockerized/commit/33de78845380dc11040b08a3d8b62a7852326bf9,https://da.gd/RKaIw
+GithubCommitStaging,Update docker/setup-buildx-action action to v3 (#5417),https://github.com/mailcow/mailcow-dockerized/commit/160c9caee35a79058dd79f8ea45ec3518533a048,https://da.gd/Zcqte
