@@ -1,0 +1,81 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xh22-fw58-56pp] Robocode Arbitrary Code Execution,https://github.com/advisories/GHSA-xh22-fw58-56pp,https://da.gd/Gx78R
+GithubAdvisories,[GHSA-m7r6-43v2-49vf] Mongrel vulnerable to directory traversal via double-encoded sequences,https://github.com/advisories/GHSA-m7r6-43v2-49vf,https://da.gd/Lvy5
+GithubAdvisories,[GHSA-966r-962g-2jq5] Mortbay Jetty CRLF Injection Vulnerability,https://github.com/advisories/GHSA-966r-962g-2jq5,https://da.gd/enF6Z
+GithubAdvisories,[GHSA-xr96-7ccp-pg5c] DotNetNuke Vulnerable to XSS in Pass-Through Values,https://github.com/advisories/GHSA-xr96-7ccp-pg5c,https://da.gd/CQsTc
+GithubAdvisories,[GHSA-4prh-gqw8-rgh5] Apache Tomcat Directory Traversal,https://github.com/advisories/GHSA-4prh-gqw8-rgh5,https://da.gd/AenMvG
+GithubAdvisories,[GHSA-m26p-m559-g5j5] Legion of the Bouncy Castle Java Cryptography API Bleichenbacher Oracle Vulnerability,https://github.com/advisories/GHSA-m26p-m559-g5j5,https://da.gd/umGMiO
+GithubAdvisories,[GHSA-qv64-w99c-qcr9] Jenkins temporary uploaded file created with insecure permissions,https://github.com/advisories/GHSA-qv64-w99c-qcr9,https://da.gd/liuNy
+GithubAdvisories,[GHSA-262f-77q5-rqv6] Jenkins Build Failure Analyzer Plugin Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-262f-77q5-rqv6,https://da.gd/0nvOh
+GithubAdvisories,[GHSA-58rq-69jp-xc23] Jenkins Build Failure Analyzer Plugin Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-58rq-69jp-xc23,https://da.gd/ClYAh
+GithubAdvisories,[GHSA-2wwh-qgh8-w9xw] Jenkins Build Failure Analyzer Plugin Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-2wwh-qgh8-w9xw,https://da.gd/azrev
+GithubAdvisories,[GHSA-55q6-r3hm-7ff4] Jenkins Build Failure Analyzer Plugin missing permission check,https://github.com/advisories/GHSA-55q6-r3hm-7ff4,https://da.gd/KS9L
+GithubAdvisories,[GHSA-hq87-h4jg-vxfw] Jenkins temporary uploaded file created with insecure permissions,https://github.com/advisories/GHSA-hq87-h4jg-vxfw,https://da.gd/hwGcLw
+GithubAdvisories,[GHSA-55wp-3pq4-w8p9] Jenkins temporary plugin file created with insecure permissions,https://github.com/advisories/GHSA-55wp-3pq4-w8p9,https://da.gd/HK9Gou
+GithubAdvisories,[GHSA-5j46-5hwq-gwh7] Jenkins Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-5j46-5hwq-gwh7,https://da.gd/FYQh4
+GithubAdvisories,[GHSA-725m-w832-q973] Composer allows cache poisoning from other projects built on the same host,https://github.com/advisories/GHSA-725m-w832-q973,https://da.gd/vxqvE1
+GithubAdvisories,[GHSA-9mcr-873m-xcxp] Tungstenite allows remote attackers to cause a denial of service,https://github.com/advisories/GHSA-9mcr-873m-xcxp,https://da.gd/mvwuq9
+GithubAdvisories,[GHSA-xrpm-hccg-28x7] Improper Input Validation in nocodb,https://github.com/advisories/GHSA-xrpm-hccg-28x7,https://da.gd/c6C81R
+GithubAdvisories,[GHSA-q8wc-j5m9-27w3] Denial of Service issue in quinn-proto,https://github.com/advisories/GHSA-q8wc-j5m9-27w3,https://da.gd/BYyU8
+GithubAdvisories,[GHSA-hc5c-r8m5-2gfh] plone.restapi vulnerable to Stored Cross Site Scripting with SVG image in user portrait,https://github.com/advisories/GHSA-hc5c-r8m5-2gfh,https://da.gd/c9yg
+GithubAdvisories,[GHSA-gx6r-qc2v-3p3v] systeminformation SSID Command Injection Vulnerability,https://github.com/advisories/GHSA-gx6r-qc2v-3p3v,https://da.gd/ZCeQUI
+GithubAdvisories,[GHSA-jj7c-jrv4-c65x] plone.namedfile vulnerable to Stored Cross Site Scripting with SVG images,https://github.com/advisories/GHSA-jj7c-jrv4-c65x,https://da.gd/7zgG
+GithubAdvisories,[GHSA-v4q9-qgqf-7jwp] Gradio arbitrary file upload vulnerability,https://github.com/advisories/GHSA-v4q9-qgqf-7jwp,https://da.gd/wM7uY
+GithubAdvisories,[GHSA-j646-gj5p-p45g] CefSharp affected by heap buffer overflow in WebP,https://github.com/advisories/GHSA-j646-gj5p-p45g,https://da.gd/O7vN
+GithubAdvisories,[GHSA-whhr-7f2w-qqj2] phonenumber panics on parsing crafted RF3966 inputs,https://github.com/advisories/GHSA-whhr-7f2w-qqj2,https://da.gd/TgbQak
+GithubAdvisories,[GHSA-cxvp-82cq-57h2] blurhash panics on parsing crafted inputs,https://github.com/advisories/GHSA-cxvp-82cq-57h2,https://da.gd/0ep9LM
+GithubAdvisories,[GHSA-v5wf-jg37-r9m5] SQLpage vulnerable to public exposure of database credentials,https://github.com/advisories/GHSA-v5wf-jg37-r9m5,https://da.gd/AEj8UN
+GithubAdvisories,[GHSA-6qjf-7g3j-qx25] Neos CMS Cross Site Scripting vulnerability,https://github.com/advisories/GHSA-6qjf-7g3j-qx25,https://da.gd/CmzZ
+GithubAdvisories,[GHSA-2q8c-gqf4-mg3v] Cross site scripting in librenms,https://github.com/advisories/GHSA-2q8c-gqf4-mg3v,https://da.gd/Pm9fT
+GithubAdvisories,[GHSA-vpjc-4jcv-jc29] NATS nats-server allows directory traversal via unintended path to a management action,https://github.com/advisories/GHSA-vpjc-4jcv-jc29,https://da.gd/IT64
+GithubAdvisories,[GHSA-95xr-cq6h-vwr3] Jodit Editor vulnerable to cross-site scripting,https://github.com/advisories/GHSA-95xr-cq6h-vwr3,https://da.gd/dTzn2
+GithubAdvisories,[GHSA-6f9p-g466-f8v8] blamer vulnerable to Arbitrary Argument Injection via the blameByFile() API,https://github.com/advisories/GHSA-6f9p-g466-f8v8,https://da.gd/QocBK
+GithubAdvisories,[GHSA-2r3c-m6v7-9354] sudo-rs Session File Relative Path Traversal vulnerability,https://github.com/advisories/GHSA-2r3c-m6v7-9354,https://da.gd/tb0Cy
+GithubAdvisories,[GHSA-v8gr-m533-ghj9] Vulnerable OpenSSL included in cryptography wheels,https://github.com/advisories/GHSA-v8gr-m533-ghj9,https://da.gd/TcK9nw
+GithubAdvisories,[GHSA-h6rp-mprm-xgcq] plone.rest vulnerable to Denial of Service when ++api++ is used many times,https://github.com/advisories/GHSA-h6rp-mprm-xgcq,https://da.gd/LhQsC
+GithubAdvisories,[GHSA-wm8q-9975-xh5v] Zope vulnerable to Stored Cross Site Scripting with SVG images,https://github.com/advisories/GHSA-wm8q-9975-xh5v,https://da.gd/euDnk4
+GithubAdvisories,[GHSA-g8h7-mcp6-pf47] File Upload vulnerability in Dolibarr ERP CRM,https://github.com/advisories/GHSA-g8h7-mcp6-pf47,https://da.gd/EOHl1
+GithubAdvisories,[GHSA-6773-rfjv-c54w] Dolibarr allows a remote privileged attacker to execute arbitrary code via a crafted command/script,https://github.com/advisories/GHSA-6773-rfjv-c54w,https://da.gd/zK7rW
+GithubAdvisories,[GHSA-62wf-h26v-5m57] Cross Site Scripting vulnerability in Dolibarr ERP CRM,https://github.com/advisories/GHSA-62wf-h26v-5m57,https://da.gd/JvBY
+GithubAdvisories,[GHSA-9pv7-vfvm-6vr7] graphql Uncontrolled Resource Consumption vulnerability,https://github.com/advisories/GHSA-9pv7-vfvm-6vr7,https://da.gd/ucNmg
+GithubAdvisories,[GHSA-8c8w-f7wp-2jr2] Sender can cause a receiver to overwrite files during ZIP extraction in Croc,https://github.com/advisories/GHSA-8c8w-f7wp-2jr2,https://da.gd/yOgdUZ
+GithubAdvisories,[GHSA-hp56-xvf4-g6wr] Cros secrets may be disclosed to untrusted relay,https://github.com/advisories/GHSA-hp56-xvf4-g6wr,https://da.gd/gDrB
+GithubAdvisories,[GHSA-7mp6-929p-pqhj] Croc requires senders to provide local IP addresses in cleartext,https://github.com/advisories/GHSA-7mp6-929p-pqhj,https://da.gd/WoIE
+GithubAdvisories,[GHSA-ppjh-xp5v-46wc] Croc sender may send dangerous new files to receiver,https://github.com/advisories/GHSA-ppjh-xp5v-46wc,https://da.gd/Dyzi2
+GithubAdvisories,[GHSA-7g3v-4ggr-xvjf] Croc may expose secret to local users,https://github.com/advisories/GHSA-7g3v-4ggr-xvjf,https://da.gd/i3It
+GithubAdvisories,[GHSA-364c-vvqx-446c] Croc sender may place ANSI or CSI escape sequences in filename to attach receiver's terminal device,https://github.com/advisories/GHSA-364c-vvqx-446c,https://da.gd/YY97H4
+GithubAdvisories,[GHSA-frqc-f2h8-fjvf] Spring for GraphQL may be exposed to GraphQL context with values from a different session,https://github.com/advisories/GHSA-frqc-f2h8-fjvf,https://da.gd/Jo2Qg
+GithubAdvisories,[GHSA-pj98-2xf6-cff5] ReportLab vulnerable to remote code execution via paraparser,https://github.com/advisories/GHSA-pj98-2xf6-cff5,https://da.gd/Yb9XF
+GithubAdvisories,[GHSA-279f-qwgh-h5mp] Jenkins does not exclude sensitive build variables from search,https://github.com/advisories/GHSA-279f-qwgh-h5mp,https://da.gd/qvcau
+GithubAdvisories,[GHSA-7cfq-72w2-24q4] Yii2 allows attackers to execute any local .php file via a relative path in the view parameter,https://github.com/advisories/GHSA-7cfq-72w2-24q4,https://da.gd/NYvlI
+GithubAdvisories,[GHSA-x4hh-vjm7-g2jv] Faktory Web Dashboard can lead to denial of service(DOS) via malicious user input,https://github.com/advisories/GHSA-x4hh-vjm7-g2jv,https://da.gd/tXpeeV
+GithubAdvisories,[GHSA-3rh7-vm4x-q2hp] sqlserver is malware,https://github.com/advisories/GHSA-3rh7-vm4x-q2hp,https://da.gd/U83aZ
+GithubAdvisories,[GHSA-ffmq-j2h7-9v3x] Malware in @zettle-bo/dashboard,https://github.com/advisories/GHSA-ffmq-j2h7-9v3x,https://da.gd/QnWC
+GithubAdvisories,[GHSA-6jc9-8w7p-xxh6] Malware in @zettle-bo/customers,https://github.com/advisories/GHSA-6jc9-8w7p-xxh6,https://da.gd/BETJp
+GithubAdvisories,[GHSA-rm7x-8ccm-j42x] Malware in @zettle-bo/pp-profile-widget,https://github.com/advisories/GHSA-rm7x-8ccm-j42x,https://da.gd/dLYim
+GithubAdvisories,[GHSA-m9cq-wq8c-vq32] Malware in @zettle-bo/shell,https://github.com/advisories/GHSA-m9cq-wq8c-vq32,https://da.gd/6opad
+GithubAdvisories,[GHSA-vcj7-7fp9-jg9v] Malware in @zettle-bo/products,https://github.com/advisories/GHSA-vcj7-7fp9-jg9v,https://da.gd/sGfLEM
+GithubAdvisories,[GHSA-j435-cg5g-5fqw] Malware in @zettle-bo/react-router-dom,https://github.com/advisories/GHSA-j435-cg5g-5fqw,https://da.gd/zwJDD
+GithubAdvisories,[GHSA-g2qv-c7hp-pq3j] Malware in @zettle-bo/routes,https://github.com/advisories/GHSA-g2qv-c7hp-pq3j,https://da.gd/ZQih
+GithubAdvisories,[GHSA-wphm-q9gv-6hch] Malware in @zettle-bo/inventory,https://github.com/advisories/GHSA-wphm-q9gv-6hch,https://da.gd/tbEBfd
+GithubAdvisories,[GHSA-g2hg-v756-69w3] Malware in @zettle-bo/capital,https://github.com/advisories/GHSA-g2hg-v756-69w3,https://da.gd/vYtC8
+GithubAdvisories,[GHSA-7w9g-67m2-jrrx] Malware in @zettle-bo/react,https://github.com/advisories/GHSA-7w9g-67m2-jrrx,https://da.gd/qZJJ3Y
+GithubAdvisories,[GHSA-4rm3-x7w8-crwf] Malware in @zettle-bo/vertical-navigation,https://github.com/advisories/GHSA-4rm3-x7w8-crwf,https://da.gd/2KaSJT
+GithubAdvisories,[GHSA-cqhg-pq6p-mxmm] Malware in @zettle-bo/sales-trends,https://github.com/advisories/GHSA-cqhg-pq6p-mxmm,https://da.gd/nCcR2
+GithubAdvisories,[GHSA-g6j8-jp22-h3x9] Malware in @zettle-bo/direct-debit,https://github.com/advisories/GHSA-g6j8-jp22-h3x9,https://da.gd/ZCT6
+GithubAdvisories,[GHSA-x4fw-q4vp-7h2f] Malware in @zettle-bo/bank-settings,https://github.com/advisories/GHSA-x4fw-q4vp-7h2f,https://da.gd/B0Splm
+GithubAdvisories,[GHSA-g9gj-9496-j3v4] Malware in @zettle-bo/cash-register,https://github.com/advisories/GHSA-g9gj-9496-j3v4,https://da.gd/hkih0F
+GithubAdvisories,[GHSA-m9mv-p66m-w2vj] Malware in @zettle-bo/receipts,https://github.com/advisories/GHSA-m9mv-p66m-w2vj,https://da.gd/jgp6
+GithubAdvisories,[GHSA-p47m-fc9m-fjqh] Malware in @zettle-bo/integrations,https://github.com/advisories/GHSA-p47m-fc9m-fjqh,https://da.gd/ltqO
+GithubAdvisories,[GHSA-h2h5-pf3v-6vmv] Malware in @zettle-bo/invoices,https://github.com/advisories/GHSA-h2h5-pf3v-6vmv,https://da.gd/Cpxx58
+GithubAdvisories,[GHSA-h9rj-f8jp-6vxr] Malware in @zettle-bo/bootstrapper,https://github.com/advisories/GHSA-h9rj-f8jp-6vxr,https://da.gd/5zJ8TF
+GithubAdvisories,[GHSA-7959-6gqh-9rp6] Malware in @zettle-bo/react-spa,https://github.com/advisories/GHSA-7959-6gqh-9rp6,https://da.gd/rVZWnB
+GithubAdvisories,[GHSA-5fr8-78fg-fr5r] Malware in @zettle-bo/account-statement,https://github.com/advisories/GHSA-5fr8-78fg-fr5r,https://da.gd/L2Ah1S
+GithubAdvisories,[GHSA-377r-jph2-775c] Malware in @zettle-bo/staff-account,https://github.com/advisories/GHSA-377r-jph2-775c,https://da.gd/0dFH
+GithubAdvisories,[GHSA-jhqm-x4p5-jf46] Malware in @zettle-bo/settings,https://github.com/advisories/GHSA-jhqm-x4p5-jf46,https://da.gd/Dpjpz
+GithubAdvisories,[GHSA-h3q5-7hwh-c982] Malware in @zettle-bo/account-settings,https://github.com/advisories/GHSA-h3q5-7hwh-c982,https://da.gd/VVEU8
+GithubAdvisories,[GHSA-2wh8-hj75-m83c] Malware in sentrybrowser5,https://github.com/advisories/GHSA-2wh8-hj75-m83c,https://da.gd/JZmBP
+GithubAdvisories,[GHSA-c647-pxm2-c52w] Vyper vulnerable to memory corruption in certain builtins utilizing `msize`,https://github.com/advisories/GHSA-c647-pxm2-c52w,https://da.gd/y6xid
+GithubAdvisories,[GHSA-pxg5-h34r-7q8p] GeoNode vulnerable to SSRF Bypass to return internal host data,https://github.com/advisories/GHSA-pxg5-h34r-7q8p,https://da.gd/gCAl
+GithubAdvisories,[GHSA-fv2h-753j-9g39] Sustainsys.Saml2 Insufficient Identity Provider Issuer Validation,https://github.com/advisories/GHSA-fv2h-753j-9g39,https://da.gd/LZdkJk
+GithubAdvisories,[GHSA-6r58-4xgr-gm6m] SilverStripe Priviledge escalation through cache pollution,https://github.com/advisories/GHSA-6r58-4xgr-gm6m,https://da.gd/YYlLw9
