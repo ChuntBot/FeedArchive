@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v5p2-vg3c-pmrr] Apache Tomcat Path Traversal Vulnerability,https://github.com/advisories/GHSA-v5p2-vg3c-pmrr,https://da.gd/Vge3
+GithubAdvisories,[GHSA-qrj4-rmqg-4hcp] Apache Tomcat Does Not Properly Handle Empty Requests,https://github.com/advisories/GHSA-qrj4-rmqg-4hcp,https://da.gd/1joO
+GithubAdvisories,[GHSA-g77g-vjjm-x83j] Apache Tomcat Example Application CSRF and XSS Vulnerabilities,https://github.com/advisories/GHSA-g77g-vjjm-x83j,https://da.gd/tiLpY
+GithubAdvisories,[GHSA-xmc9-6p56-3c4v] Apache Tomcat XSS In Accept-Language Headers,https://github.com/advisories/GHSA-xmc9-6p56-3c4v,https://da.gd/Olxuq
+GithubAdvisories,[GHSA-hc39-rjwp-qffq] Apache Tomcat XSS Vulnerabilities in Examples Web Application,https://github.com/advisories/GHSA-hc39-rjwp-qffq,https://da.gd/YfXx
+GithubAdvisories,[GHSA-qff8-g48j-pwpw] Apache Tomcat treats single quotes as delimiters in cookies,https://github.com/advisories/GHSA-qff8-g48j-pwpw,https://da.gd/v2tTZC
+GithubAdvisories,[GHSA-6j8f-66vh-39mj] Apache Tomcat Mishandles Character Sequence in Cookies,https://github.com/advisories/GHSA-6j8f-66vh-39mj,https://da.gd/BNHBRs
+GithubAdvisories,[GHSA-wjwr-3jch-479j] Apache Tomcat SendMailServlet XSS,https://github.com/advisories/GHSA-wjwr-3jch-479j,https://da.gd/cZHi9G
+GithubAdvisories,[GHSA-36hp-4x3g-phrg] Apache Tomcat's CookieExample Vulnerable to XSS,https://github.com/advisories/GHSA-36hp-4x3g-phrg,https://da.gd/GFoiw
+GithubAdvisories,[GHSA-ghp8-52vx-77j4] pgAdmin failed to properly control the server code,https://github.com/advisories/GHSA-ghp8-52vx-77j4,https://da.gd/NBC3c
+GithubAdvisories,[GHSA-v9q5-9crp-92f9] FUXA SQL Injection vulnerability,https://github.com/advisories/GHSA-v9q5-9crp-92f9,https://da.gd/LOZGN
+GithubAdvisories,[GHSA-p46g-8c3q-89p2] FUXA SQL Injection vulnerability,https://github.com/advisories/GHSA-p46g-8c3q-89p2,https://da.gd/Hrfm
+GithubAdvisories,[GHSA-wwfj-h843-3hrq] FUXA local file inclusion vulnerability,https://github.com/advisories/GHSA-wwfj-h843-3hrq,https://da.gd/nE8jH
+GithubAdvisories,[GHSA-m9xq-6h2j-65r2] Out-of-bounds Read while parsing citations,https://github.com/advisories/GHSA-m9xq-6h2j-65r2,https://da.gd/NC6Vu
+GithubAdvisories,[GHSA-4f4r-wgv2-jjvg] Quarkus HTTP vulnerable to incorrect evaluation of permissions,https://github.com/advisories/GHSA-4f4r-wgv2-jjvg,https://da.gd/Z18B
+GithubAdvisories,[GHSA-423w-p2w9-r7vq] AEADs/aes-gcm: Plaintext exposed in decrypt_in_place_detached even on tag verification failure,https://github.com/advisories/GHSA-423w-p2w9-r7vq,https://da.gd/ZzHGmB
+GithubAdvisories,[GHSA-45c3-c4c3-8rqg] FUXA vulnerable to Local File Inclusion,https://github.com/advisories/GHSA-45c3-c4c3-8rqg,https://da.gd/o8rl6
