@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hjp5-hv33-q58g] Plone credentials stored in session cookie,https://github.com/advisories/GHSA-hjp5-hv33-q58g,https://da.gd/y2CDqo
+GithubAdvisories,[GHSA-rwhx-6hx7-pqc8] SQl injection in jeecgboot,https://github.com/advisories/GHSA-rwhx-6hx7-pqc8,https://da.gd/rpCd
+GithubAdvisories,[GHSA-q74x-qqhr-f8rx] Apache Tomcat Cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-q74x-qqhr-f8rx,https://da.gd/xoPnq
+GithubAdvisories,[GHSA-54qj-48vx-cr9f] Django Cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-54qj-48vx-cr9f,https://da.gd/zuxpg
+GithubAdvisories,[GHSA-r5cj-wv24-92p5] Django cross-site request forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-r5cj-wv24-92p5,https://da.gd/v2Zq
+GithubAdvisories,[GHSA-grw3-hjjm-5cjm] DotNetNuke Default Machine Key Exposure,https://github.com/advisories/GHSA-grw3-hjjm-5cjm,https://da.gd/VA5El
+GithubAdvisories,[GHSA-v2gw-x5jf-pgwv] Mercurial Directory traversal vulnerability,https://github.com/advisories/GHSA-v2gw-x5jf-pgwv,https://da.gd/Bk8b7N
+GithubAdvisories,[GHSA-hf26-vvmx-x8c8] Plone Arbitrary Code Execution via Unsafe Handling of Pickles,https://github.com/advisories/GHSA-hf26-vvmx-x8c8,https://da.gd/LWtEx
+GithubAdvisories,[GHSA-rm26-w253-9qv7] Apache Struts Dojo Plugin XSS Vulnerability,https://github.com/advisories/GHSA-rm26-w253-9qv7,https://da.gd/38PB8
+GithubAdvisories,[GHSA-w65j-cmqc-37p2] JULI logging component in Apache Tomcat does not restrict certain permissions for web applications,https://github.com/advisories/GHSA-w65j-cmqc-37p2,https://da.gd/v0Za
+GithubAdvisories,[GHSA-wxcw-rqxc-hj85] FTP backend for Duplicity Discloses Passwords to Process Listing,https://github.com/advisories/GHSA-wxcw-rqxc-hj85,https://da.gd/6wO1Yc
+GithubAdvisories,[GHSA-h22q-g2c7-2jwj] Joomla! vulnerable to CRLF injection,https://github.com/advisories/GHSA-h22q-g2c7-2jwj,https://da.gd/GK232
