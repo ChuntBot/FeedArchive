@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jcwr-x25h-x5fh] codehaus-plexus vulnerable to XML injection,https://github.com/advisories/GHSA-jcwr-x25h-x5fh,https://da.gd/eyIrB
+GithubAdvisories,[GHSA-r5hm-mp3j-285g] sing-box vulnerable to improper authentication in the SOCKS inbound,https://github.com/advisories/GHSA-r5hm-mp3j-285g,https://da.gd/r3l5q
+GithubAdvisories,[GHSA-cx2q-hfxr-rj97] Vyper's `_abi_decode` input not validated in complex expressions,https://github.com/advisories/GHSA-cx2q-hfxr-rj97,https://da.gd/xhgkR0
+GithubAdvisories,[GHSA-7565-cq32-vx2x] matrix-synapse vulnerable to improper validation of receipts allows forged read receipts,https://github.com/advisories/GHSA-7565-cq32-vx2x,https://da.gd/SDue
+GithubAdvisories,[GHSA-4f74-84v3-j9q5] matrix-synapse vulnerable to temporary storage of plaintext passwords during password changes,https://github.com/advisories/GHSA-4f74-84v3-j9q5,https://da.gd/nvJf47
