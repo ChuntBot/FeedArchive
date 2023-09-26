@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gj2r-phwg-6rww] Kubernetes users may update Pod labels to bypass network policy,https://github.com/advisories/GHSA-gj2r-phwg-6rww,https://da.gd/Dvd9z
