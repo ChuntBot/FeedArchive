@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-55g7-9cwv-5qfv] snappy-java's missing upper bound check on chunk length can lead to Denial of Service (DoS) impact,https://github.com/advisories/GHSA-55g7-9cwv-5qfv,https://da.gd/qWqjoM
+GithubAdvisories,[GHSA-rrjw-j4m2-mf34] gix-transport code execution vulnerability,https://github.com/advisories/GHSA-rrjw-j4m2-mf34,https://da.gd/p2IwZ
+GithubAdvisories,[GHSA-x7m3-jprg-wc5g] Gevent allows remote attacker to escalate privileges,https://github.com/advisories/GHSA-x7m3-jprg-wc5g,https://da.gd/7eKg
+GithubAdvisories,[GHSA-66m2-493m-crh2] Searchor CLI's Search vulnerable to Arbitrary Code using Eval,https://github.com/advisories/GHSA-66m2-493m-crh2,https://da.gd/vxit
+GithubAdvisories,[GHSA-6rx9-c2rh-3qv4] OpenStack Barbican information disclosure vulnerability,https://github.com/advisories/GHSA-6rx9-c2rh-3qv4,https://da.gd/P2q1
+GithubAdvisories,[GHSA-6qqp-4vm3-359v] OpenStack Barbican credential leak flaw,https://github.com/advisories/GHSA-6qqp-4vm3-359v,https://da.gd/FUnUk
+GithubAdvisories,[GHSA-92hx-3mh6-hc49] kube-apiserver authentication bypass vulnerability,https://github.com/advisories/GHSA-92hx-3mh6-hc49,https://da.gd/ue3wXf
+GithubAdvisories,[GHSA-6f4m-j56w-55c3] Kiali content spoofing vulnerability,https://github.com/advisories/GHSA-6f4m-j56w-55c3,https://da.gd/oxv2
+GithubAdvisories,[GHSA-m988-7375-7g2c] pimcore/admin-ui-classic-bundle Cross-site Scripting vulnerability in Translations,https://github.com/advisories/GHSA-m988-7375-7g2c,https://da.gd/14Rlo
+GithubAdvisories,[GHSA-42h4-v29r-42qg] yt-dlp on Windows vulnerable to `--exec` command injection when using `%q`,https://github.com/advisories/GHSA-42h4-v29r-42qg,https://da.gd/Ci41W
+GithubAdvisories,[GHSA-vfw5-hrgq-h5wf] x/net/html Vulnerable to DoS During HTML Parsing,https://github.com/advisories/GHSA-vfw5-hrgq-h5wf,https://da.gd/RWiq2E
+GithubAdvisories,[GHSA-wmhw-hpwh-44pg] Apache ActiveMQ Apollo XXE Vulnerability,https://github.com/advisories/GHSA-wmhw-hpwh-44pg,https://da.gd/wjCvks
+GithubAdvisories,[GHSA-43xg-87xw-jpv8] Several Zend Products Vulnerable to XXE and XEE attacks,https://github.com/advisories/GHSA-43xg-87xw-jpv8,https://da.gd/WWb84
+GithubAdvisories,[GHSA-gp39-h9c2-qw79] Several Zend Products Vulnerable to XXE and XEE attacks,https://github.com/advisories/GHSA-gp39-h9c2-qw79,https://da.gd/cY4JSd
+GithubAdvisories,[GHSA-5wm2-38q5-5rxv] Several Zend Products Vulnerable to XXE and XEE attacks,https://github.com/advisories/GHSA-5wm2-38q5-5rxv,https://da.gd/PKQK4
+GithubAdvisories,[GHSA-28rm-rj57-qjpv] PHPExcel vulnerable to XXE attacks through libxml,https://github.com/advisories/GHSA-28rm-rj57-qjpv,https://da.gd/bQhtG
+GithubAdvisories,[GHSA-gp63-6m4f-xm6g] Malware in peekatchuysharmlesspackage,https://github.com/advisories/GHSA-gp63-6m4f-xm6g,https://da.gd/yXee
+GithubAdvisories,[GHSA-6c2c-2p6v-2whp] Malware in peekatchuysharnlesspackage,https://github.com/advisories/GHSA-6c2c-2p6v-2whp,https://da.gd/qZ3smC
+GithubAdvisories,[GHSA-mmc5-5gmc-964q] Malware in beta-fhr-nxt,https://github.com/advisories/GHSA-mmc5-5gmc-964q,https://da.gd/umqm
+GithubAdvisories,[GHSA-f3qp-g63p-mmwc] Malware in gradient-async,https://github.com/advisories/GHSA-f3qp-g63p-mmwc,https://da.gd/tshCX
