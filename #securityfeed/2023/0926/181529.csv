@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2022-4039 (openshift_container_platform, openshift_container_platform_for_ibm_z, openshift_container_platform_for_linuxone, openshift_container_platform_for_power, single_sign-on)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-4039,https://da.gd/a3o4Ld
+NVD-NIST,"CVE-2023-1260 (kube-apiserver, openshift_container_platform)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1260,https://da.gd/ezSH
+NVD-NIST,"CVE-2023-1633 (barbican, openstack_platform)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1633,https://da.gd/qEsc
+NVD-NIST,"CVE-2023-1636 (barbican, openstack_platform)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1636,https://da.gd/53AJ
+NVD-NIST,CVE-2023-32653 (imagegear),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-32653,https://da.gd/PRKLQ
+NVD-NIST,CVE-2023-34319 (xen),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-34319,https://da.gd/2rB1io
+NVD-NIST,CVE-2023-35002 (imagegear),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-35002,https://da.gd/QQDXGM
+NVD-NIST,CVE-2023-3547 (all_in_one_b2b_for_woocommerce),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-3547,https://da.gd/O3d3
+NVD-NIST,CVE-2023-3550 (mediawiki),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-3550,https://da.gd/SRX6
+NVD-NIST,CVE-2023-3664 (fileorganizer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-3664,https://da.gd/YvaNU
+NVD-NIST,"CVE-2023-38907 (tapo, tapo_l530e_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-38907,https://da.gd/ZCrLH
+NVD-NIST,CVE-2023-39453 (imagegear),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-39453,https://da.gd/8Pko0
+NVD-NIST,CVE-2023-4258 (zephyr),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-4258,https://da.gd/cz74
+NVD-NIST,"CVE-2023-43141 (a3700r_firmware, n600r_firmware)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-43141,https://da.gd/FohTmZ
+NVD-NIST,CVE-2023-43457 (service_provider_management_system),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-43457,https://da.gd/CXh3Sg
