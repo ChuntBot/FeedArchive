@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7vpr-3ppw-qrpj] Imageflow affected by libwebp zero-day and should not be used with malicious source images,https://github.com/advisories/GHSA-7vpr-3ppw-qrpj,https://da.gd/N9636Y
+GithubAdvisories,[GHSA-p76j-h4m8-hx5c] Pimcore Demo Allows GraphQL Introspection,https://github.com/advisories/GHSA-p76j-h4m8-hx5c,https://da.gd/rGImR
+GithubAdvisories,[GHSA-q832-2275-rfqh] Subrion CMS XSS in /panel/configuration/financial/,https://github.com/advisories/GHSA-q832-2275-rfqh,https://da.gd/PR6dFa
+GithubAdvisories,[GHSA-4vjr-crvh-383h] @napi-rs/image affected by libwebp CVE,https://github.com/advisories/GHSA-4vjr-crvh-383h,https://da.gd/41mx1w
+GithubAdvisories,[GHSA-65h2-wf7m-q2v8] Undertow vulnerable to denial of service,https://github.com/advisories/GHSA-65h2-wf7m-q2v8,https://da.gd/arGcLV
+GithubAdvisories,[GHSA-v4j2-cwmm-xg89] OpenCart Path Traversal vulnerability,https://github.com/advisories/GHSA-v4j2-cwmm-xg89,https://da.gd/yiyX9
+GithubAdvisories,[GHSA-4q6p-r6v2-jvc5] Chaijs/get-func-name vulnerable to ReDoS,https://github.com/advisories/GHSA-4q6p-r6v2-jvc5,https://da.gd/zOEuf
+GithubAdvisories,[GHSA-6jqw-jwf5-rp8h] Path traversal allows leaking out-of-bound Helm charts from Argo CD repo-server,https://github.com/advisories/GHSA-6jqw-jwf5-rp8h,https://da.gd/Nhby0A
