@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5m62-x38q-qp37] Malware in cm-react-components,https://github.com/advisories/GHSA-5m62-x38q-qp37,https://da.gd/UvMfpw
+GithubAdvisories,[GHSA-4xp2-w642-7mcx] Cilium vulnerable to bypass of namespace restrictions in CiliumNetworkPolicy,https://github.com/advisories/GHSA-4xp2-w642-7mcx,https://da.gd/8G8wQ
+GithubAdvisories,[GHSA-9jfq-54vc-9rr2] Foreman Transpilation Enables OS Command Injection,https://github.com/advisories/GHSA-9jfq-54vc-9rr2,https://da.gd/qioFeH
+GithubAdvisories,[GHSA-24m5-r6hv-ccgp] Specific Cilium configurations vulnerable to DoS via Kubernetes annotations,https://github.com/advisories/GHSA-24m5-r6hv-ccgp,https://da.gd/xeJp
