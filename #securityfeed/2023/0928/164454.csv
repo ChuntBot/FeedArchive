@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hqp9-mrjw-7qq2] Economizzer host header injection vulnerability,https://github.com/advisories/GHSA-hqp9-mrjw-7qq2,https://da.gd/QTA9qX
+GithubAdvisories,[GHSA-jgw5-rp4p-qhp6] quill-mention Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-jgw5-rp4p-qhp6,https://da.gd/qvujx
+GithubAdvisories,[GHSA-8mjr-6c96-39w8] pydash Command Injection vulnerability,https://github.com/advisories/GHSA-8mjr-6c96-39w8,https://da.gd/AmUSww
+GithubAdvisories,"[GHSA-6jmf-2pfc-q9m7] PrestaShop allows users to uninstall modules from backoffice, even with low rights",https://github.com/advisories/GHSA-6jmf-2pfc-q9m7,https://da.gd/K90i
+GithubAdvisories,[GHSA-gvrg-62jp-rf7j] PrestaShop allows employee without any access rights to list all installed modules,https://github.com/advisories/GHSA-gvrg-62jp-rf7j,https://da.gd/hi4oId
