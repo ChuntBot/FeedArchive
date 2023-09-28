@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rgf9-j7gv-rq22] Microweber Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-rgf9-j7gv-rq22,https://da.gd/JbnRY
+GithubAdvisories,[GHSA-h3qf-v68r-35jg] Economizzer user enumeration vulnerability,https://github.com/advisories/GHSA-h3qf-v68r-35jg,https://da.gd/6CrKi
+GithubAdvisories,[GHSA-896v-ph5w-379h] Economizzer Insecure Direct Object Reference vulnerability,https://github.com/advisories/GHSA-896v-ph5w-379h,https://da.gd/zL7Zsh
+GithubAdvisories,[GHSA-gc95-5mmp-mp6j] Economizzer vulnerable to Clickjacking,https://github.com/advisories/GHSA-gc95-5mmp-mp6j,https://da.gd/x4QS
+GithubAdvisories,[GHSA-pq98-6hf6-3rj3] Economizzer remote code execution vulnerability,https://github.com/advisories/GHSA-pq98-6hf6-3rj3,https://da.gd/eanS5
