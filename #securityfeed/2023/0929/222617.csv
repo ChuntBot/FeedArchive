@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c4rv-2j6x-pq7x] Rdiffweb Allocation of Resources Without Limits or Throttling vulnerability,https://github.com/advisories/GHSA-c4rv-2j6x-pq7x,https://da.gd/5iHe1
+GithubAdvisories,[GHSA-rhrv-645h-fjfh] Apache Avro Java SDK vulnerable to Improper Input Validation,https://github.com/advisories/GHSA-rhrv-645h-fjfh,https://da.gd/dSejKF
+GithubAdvisories,[GHSA-33r7-wjfc-7w98] Mattermost Uncontrolled Resource Consumption vulnerability,https://github.com/advisories/GHSA-33r7-wjfc-7w98,https://da.gd/XTe9bU
+GithubAdvisories,[GHSA-9hwp-cj7m-wjw4] Mattermost Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-9hwp-cj7m-wjw4,https://da.gd/8GWkPx
+GithubAdvisories,[GHSA-h69v-mvh9-hfrq] Mattermost Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-h69v-mvh9-hfrq,https://da.gd/E88Fm
