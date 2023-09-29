@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rp65-jpc7-8h8p] Mattermost Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-rp65-jpc7-8h8p,https://da.gd/5YaGd
+GithubAdvisories,[GHSA-4w2j-wj9q-6wpx] Subrion CMS Cross-site Scripting vulnerability in /panel/languages,https://github.com/advisories/GHSA-4w2j-wj9q-6wpx,https://da.gd/gPZHvY
+GithubAdvisories,[GHSA-jm6m-4632-36hf] Composer Remote Code Execution vulnerability via web-accessible composer.phar,https://github.com/advisories/GHSA-jm6m-4632-36hf,https://da.gd/WzEHo
+GithubAdvisories,[GHSA-2g8p-j2r6-vqpj] October Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-2g8p-j2r6-vqpj,https://da.gd/zcYJ2D
+GithubAdvisories,[GHSA-7vff-rv2f-cj79] Subrion CMS Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-7vff-rv2f-cj79,https://da.gd/BiMWPp
+GithubAdvisories,[GHSA-hq58-p9mv-338c] CometBFT's default for `BlockParams.MaxBytes` consensus parameter may increase block times and affect consensus participation,https://github.com/advisories/GHSA-hq58-p9mv-338c,https://da.gd/vAD962
+GithubAdvisories,[GHSA-86c6-3g63-5w64] Hashicorp Vault Incorrect Permission Assignment for Critical Resource vulnerability,https://github.com/advisories/GHSA-86c6-3g63-5w64,https://da.gd/OYn3
+GithubAdvisories,[GHSA-9jvx-p6mq-fw4v] pretix allows Pillow to parse EPS files,https://github.com/advisories/GHSA-9jvx-p6mq-fw4v,https://da.gd/4g5S7Q
+GithubAdvisories,[GHSA-h8wh-f7gw-fwpr] Mattermost Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-h8wh-f7gw-fwpr,https://da.gd/WcLP
