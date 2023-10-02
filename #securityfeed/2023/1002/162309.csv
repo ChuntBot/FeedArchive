@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+PacketstormSecurity,"Packet Storm New Exploits For September, 2023",https://packetstormsecurity.com/files/174882/202309-exploits.tgz,https://da.gd/rc8ZV
+PacketstormSecurity,Electrolink FM/DAB/TV Transmitter Pre-Auth MPFS Image Remote Code Execution,https://packetstormsecurity.com/files/174881/ZSL-2023-5796.txt,https://da.gd/m8vbn
+PacketstormSecurity,Electrolink FM/DAB/TV Transmitter Unauthenticated Remote Denial Of Service,https://packetstormsecurity.com/files/174880/ZSL-2023-5795.txt,https://da.gd/91FgOB
+PacketstormSecurity,Electrolink FM/DAB/TV Transmitter SuperAdmin Hidden Functionality,https://packetstormsecurity.com/files/174879/ZSL-2023-5794.txt,https://da.gd/NHg1k
+PacketstormSecurity,Electrolink FM/DAB/TV Transmitter Vertical Privilege Escalation,https://packetstormsecurity.com/files/174878/ZSL-2023-5793.txt,https://da.gd/3DHSM
+PacketstormSecurity,Electrolink FM/DAB/TV Transmitter Remote Authentication Removal,https://packetstormsecurity.com/files/174877/ZSL-2023-5792.txt,https://da.gd/Pq7RvO
+PacketstormSecurity,Electrolink FM/DAB/TV Transmitter (Login Cookie) Authentication Bypass,https://packetstormsecurity.com/files/174876/ZSL-2023-5791.txt,https://da.gd/7duw
+PacketstormSecurity,Electrolink FM/DAB/TV Transmitter (controlloLogin.js) Credential Disclosure,https://packetstormsecurity.com/files/174875/ZSL-2023-5790.txt,https://da.gd/dVjxZ
+PacketstormSecurity,Electrolink FM/DAB/TV Transmitter (login.htm/mail.htm) Credential Disclosure,https://packetstormsecurity.com/files/174874/ZSL-2023-5789.txt,https://da.gd/k3CiqE
+PacketstormSecurity,Gentoo Linux Security Advisory 202310-01,https://packetstormsecurity.com/files/174873/glsa-202310-01.txt,https://da.gd/m60rWA
+PacketstormSecurity,Debian Security Advisory 5512-1,https://packetstormsecurity.com/files/174872/dsa-5512-1.txt,https://da.gd/Mf7go
+PacketstormSecurity,Debian Security Advisory 5511-1,https://packetstormsecurity.com/files/174871/dsa-5511-1.txt,https://da.gd/AAXhu
+PacketstormSecurity,TOR Virtual Network Tunneling Tool 0.4.8.7,https://packetstormsecurity.com/files/174870/tor-0.4.8.7.tar.gz,https://da.gd/Mxd3
+PacketstormSecurity,Gentoo Linux Security Advisory 202309-17,https://packetstormsecurity.com/files/174869/glsa-202309-17.txt,https://da.gd/o3jmjr
+PacketstormSecurity,Gentoo Linux Security Advisory 202309-16,https://packetstormsecurity.com/files/174868/glsa-202309-16.txt,https://da.gd/uxP9V
+PacketstormSecurity,Debian Security Advisory 5510-1,https://packetstormsecurity.com/files/174867/dsa-5510-1.txt,https://da.gd/dNFP0l
+PacketstormSecurity,jSQL Injection 0.93,https://packetstormsecurity.com/files/174866/jsql-injection-0.93.tar.gz,https://da.gd/mPZ82
+PacketstormSecurity,Juniper SRX Firewall / EX Switch Remote Code Execution,https://packetstormsecurity.com/files/174865/junos_phprc_auto_prepend_file.rb.txt,https://da.gd/DdnlB
+PacketstormSecurity,Gentoo Linux Security Advisory 202309-15,https://packetstormsecurity.com/files/174864/glsa-202309-15.txt,https://da.gd/rqEt
+PacketstormSecurity,Debian Security Advisory 5509-1,https://packetstormsecurity.com/files/174863/dsa-5509-1.txt,https://da.gd/9ImN
+PacketstormSecurity,Debian Security Advisory 5508-1,https://packetstormsecurity.com/files/174862/dsa-5508-1.txt,https://da.gd/5m9yeq
+PacketstormSecurity,Red Hat Security Advisory 2023-5407-01,https://packetstormsecurity.com/files/174861/RHSA-2023-5407-01.txt,https://da.gd/gZyJ8
