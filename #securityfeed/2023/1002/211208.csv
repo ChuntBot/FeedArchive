@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8fxr-qfr9-p34w] TorchServe Server-Side Request Forgery vulnerability,https://github.com/advisories/GHSA-8fxr-qfr9-p34w,https://da.gd/jJ32J
+GithubAdvisories,[GHSA-4mqg-h5jf-j9m7] TorchServe Pre-Auth Remote Code Execution,https://github.com/advisories/GHSA-4mqg-h5jf-j9m7,https://da.gd/rAe6Nk
+GithubAdvisories,[GHSA-pp4w-g5p4-85p2] phpMyFAQ Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-pp4w-g5p4-85p2,https://da.gd/wq8f
+GithubAdvisories,[GHSA-j5ww-5xf4-hqm2] phpMyFAQ Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-j5ww-5xf4-hqm2,https://da.gd/lfU7P4
+GithubAdvisories,[GHSA-qcjg-hvg6-hxcp] phpMyFAQ allows unrestricted file types in image field,https://github.com/advisories/GHSA-qcjg-hvg6-hxcp,https://da.gd/6GNF70
+GithubAdvisories,[GHSA-58v7-58c2-qwm9] phpMyFAQ Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-58v7-58c2-qwm9,https://da.gd/nocC5L
+GithubAdvisories,[GHSA-r657-3wqh-g2x9] Microweber uses hard coded credentials,https://github.com/advisories/GHSA-r657-3wqh-g2x9,https://da.gd/nmNDKC
+GithubAdvisories,[GHSA-5jwv-m8h3-69cg] phpMyFaq Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-5jwv-m8h3-69cg,https://da.gd/W59vX
