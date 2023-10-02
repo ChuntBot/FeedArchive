@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g6ph-x5wf-g337] plexus-codehaus vulnerable to directory traversal,https://github.com/advisories/GHSA-g6ph-x5wf-g337,https://da.gd/NVEWE
+GithubAdvisories,[GHSA-56fm-hfp3-x3w3] Wallabag user can disable 2FA unintentionally,https://github.com/advisories/GHSA-56fm-hfp3-x3w3,https://da.gd/FLGnl
+GithubAdvisories,[GHSA-9xfq-8j3r-xp5g] Consensys gnark-crypto allows Signature Malleability,https://github.com/advisories/GHSA-9xfq-8j3r-xp5g,https://da.gd/9iowo
