@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gfvq-mxw3-mfq3] asyncua vulnerable to denial of service via infinite loop,https://github.com/advisories/GHSA-gfvq-mxw3-mfq3,https://da.gd/H6dc
+GithubAdvisories,[GHSA-2894-qcqf-g23g] asyncua Improper Authentication vulnerability,https://github.com/advisories/GHSA-2894-qcqf-g23g,https://da.gd/6vIAcD
+GithubAdvisories,[GHSA-j9gq-w73w-9h6c] pretix potential IP address spoofing vulnerability,https://github.com/advisories/GHSA-j9gq-w73w-9h6c,https://da.gd/Y2Pe
