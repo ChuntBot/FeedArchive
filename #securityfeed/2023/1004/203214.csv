@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-57m8-f3v5-hm5m] Netty-handler does not validate host names by default,https://github.com/advisories/GHSA-57m8-f3v5-hm5m,https://da.gd/fCT4wq
