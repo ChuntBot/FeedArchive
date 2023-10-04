@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mvrp-3cvx-c325] Zod denial of service vulnerability during email validation,https://github.com/advisories/GHSA-mvrp-3cvx-c325,https://da.gd/KzeTo
+GithubAdvisories,[GHSA-3xr3-phjp-g6p2] Drupal core access bypass vulnerability,https://github.com/advisories/GHSA-3xr3-phjp-g6p2,https://da.gd/lqc2K
+GithubAdvisories,[GHSA-498w-5j49-vqjg] gnark unsoundness in variable comparison / non-unique binary decomposition,https://github.com/advisories/GHSA-498w-5j49-vqjg,https://da.gd/fedP
+GithubAdvisories,[GHSA-v834-rhv4-65m3] static-server Path Traversal vulnerability,https://github.com/advisories/GHSA-v834-rhv4-65m3,https://da.gd/I905Q2
