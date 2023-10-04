@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-43cp-6p3q-2pc4] HtmlSanitizer vulnerable to Cross-site Scripting in Foreign Content,https://github.com/advisories/GHSA-43cp-6p3q-2pc4,https://da.gd/1M3Ab
+GithubAdvisories,[GHSA-m755-gxxg-r5qh] Zope management interface vulnerable to stored cross site scripting via the title property,https://github.com/advisories/GHSA-m755-gxxg-r5qh,https://da.gd/qToH4
+GithubAdvisories,[GHSA-6hc9-cf8x-hf83] Quarkus OIDC can leak both ID and access tokens,https://github.com/advisories/GHSA-6hc9-cf8x-hf83,https://da.gd/Yvso
