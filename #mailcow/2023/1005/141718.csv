@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubCommitStaging,update postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/24ff70759abf4e752161e0604330fd392dc60eb2,https://da.gd/iBe03W
+GithubCommitStaging,Fix renovate.json to allow version extracts,https://github.com/mailcow/mailcow-dockerized/commit/ed365c35e716b19d501e74fded1d53a5cde09e82,https://da.gd/m2XNq
+GithubCommitStaging,Update ClamAV to latest LTS version 1.0.3,https://github.com/mailcow/mailcow-dockerized/commit/3f2a9b6973a246d92231cd2f7ddeb771413e95e6,https://da.gd/TaRkzM
+GithubCommitStaging,Update dependency nextcloud/server to v27.1.2,https://github.com/mailcow/mailcow-dockerized/commit/257e104d2b05c9d44a060cb04c36731acfaa0cb3,https://da.gd/XB8V6Y
+GithubCommitStaging,Bumped clamd version in compose.yml,https://github.com/mailcow/mailcow-dockerized/commit/3851a48ea0833c29fcc8c663186d2216cdae3fee,https://da.gd/B8knK
+GithubCommitStaging,Merge pull request #5398 from mailcow/update/postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/d0562ddbd9770f65eb81854d2e79f42f4c822baa,https://da.gd/kGnTT
+GithubCommitStaging,Merge pull request #5441 from mailcow/renovate/nextcloud-server-27.x,https://github.com/mailcow/mailcow-dockerized/commit/1a793e0b7e8caa95fcea096119dfe20562e1805c,https://da.gd/Tjoar
+GithubCommitStaging,Merge pull request #5438 from accolon/master,https://github.com/mailcow/mailcow-dockerized/commit/c4c76e0945d7a0c6db69bc6438d08d8a59c71e57,https://da.gd/vbVsy
+GithubCommitStaging,Merge pull request #5436 from mailcow/fix-renovate,https://github.com/mailcow/mailcow-dockerized/commit/a72b3689b0c8eb466824f038211513c58f04fff4,https://da.gd/U2vR1M
