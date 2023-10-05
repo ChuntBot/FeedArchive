@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pffg-92cg-xf5c] gnark-crypto's exponentiation in the pairing target group GT using GLV can give incorrect results,https://github.com/advisories/GHSA-pffg-92cg-xf5c,https://da.gd/usTq
+GithubAdvisories,[GHSA-3f48-9j7q-q2gv] NI MeasurementLink Python Services Improper Access Restriction vulnerability,https://github.com/advisories/GHSA-3f48-9j7q-q2gv,https://da.gd/G536
+GithubAdvisories,[GHSA-3mwq-h3g6-ffhm] Vapor's incorrect request error handling triggers server crash,https://github.com/advisories/GHSA-3mwq-h3g6-ffhm,https://da.gd/OYcEVh
+GithubAdvisories,[GHSA-qw22-8w9r-864h] io.micronaut.security:micronaut-security-oauth2 has invalid IdTokenClaimsValidator logic on aud,https://github.com/advisories/GHSA-qw22-8w9r-864h,https://da.gd/QE4P
+GithubAdvisories,[GHSA-639h-86hw-qcjq] Decidim has broken access control in templates,https://github.com/advisories/GHSA-639h-86hw-qcjq,https://da.gd/K4k3
