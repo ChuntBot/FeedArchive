@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qqvq-6xgj-jw8g] Electron affected by libvpx's heap buffer overflow in vp8 encoding,https://github.com/advisories/GHSA-qqvq-6xgj-jw8g,https://da.gd/qyG9TO
