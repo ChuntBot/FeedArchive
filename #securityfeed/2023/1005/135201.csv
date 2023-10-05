@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4c29-gfrp-g6x9] CefSharp affected by libvpx's heap buffer overflow in vp8 encoding,https://github.com/advisories/GHSA-4c29-gfrp-g6x9,https://da.gd/CB5Jp
