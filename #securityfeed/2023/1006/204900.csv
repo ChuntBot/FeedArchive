@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wqcr-xm43-hpqr] Vulnerable version of libwebp and can be exploited with a malicious source image,https://github.com/advisories/GHSA-wqcr-xm43-hpqr,https://da.gd/BecpUp
+GithubAdvisories,[GHSA-622h-h2p8-743x] JWT token compromise can allow malicious actions including Remote Code Execution (RCE),https://github.com/advisories/GHSA-622h-h2p8-743x,https://da.gd/kEzgH5
