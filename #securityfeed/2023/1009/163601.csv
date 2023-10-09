@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Splunk 9.0.5 - admin account take over,https://www.exploit-db.com/exploits/51747,https://da.gd/TN2zOq
+ExploitDB,[dos] OpenPLC WebServer 3 - Denial of Service,https://www.exploit-db.com/exploits/51746,https://da.gd/kgHAAW
+ExploitDB,[webapps] Shuttle-Booking-Software v1.0 - Multiple-SQLi,https://www.exploit-db.com/exploits/51745,https://da.gd/HIZXxr
+ExploitDB,[webapps] Limo Booking Software v1.0 - CORS,https://www.exploit-db.com/exploits/51744,https://da.gd/yz1U
+ExploitDB,[webapps] Webedition CMS v2.9.8.8 - Blind SSRF,https://www.exploit-db.com/exploits/51743,https://da.gd/irGu
+ExploitDB,[remote] Atcom 2.7.x.x - Authenticated Command Injection,https://www.exploit-db.com/exploits/51742,https://da.gd/5t1oi
+ExploitDB,[webapps] BoidCMS v2.0.0 - authenticated file upload vulnerability,https://www.exploit-db.com/exploits/51741,https://da.gd/EVNUAd
+ExploitDB,[webapps] Cacti 1.2.24 - Authenticated command injection when using SNMP options,https://www.exploit-db.com/exploits/51740,https://da.gd/ZJkF8
+ExploitDB,[webapps] Wordpress Sonaar Music Plugin 4.7 - Stored XSS,https://www.exploit-db.com/exploits/51739,https://da.gd/Lga7hT
+ExploitDB,[webapps] Coppermine Gallery 1.6.25 - RCE,https://www.exploit-db.com/exploits/51738,https://da.gd/WiFbj
+ExploitDB,[webapps] Media Library Assistant Wordpress Plugin - RCE and LFI,https://www.exploit-db.com/exploits/51737,https://da.gd/u15oH
+ExploitDB,[webapps] WEBIGniter v28.7.23 File Upload - Remote Code Execution,https://www.exploit-db.com/exploits/51736,https://da.gd/aeSzbw
+ExploitDB,[webapps] Wordpress Plugin Masterstudy LMS - 3.0.17 - Unauthenticated Instructor Account Creation,https://www.exploit-db.com/exploits/51735,https://da.gd/H6h3xE
+ExploitDB,[webapps] Minio 2022-07-29T19-40-48Z - Path traversal,https://www.exploit-db.com/exploits/51734,https://da.gd/SKAMX
+ExploitDB,[local] Microsoft Windows 11 - 'apds.dll' DLL hijacking (Forced),https://www.exploit-db.com/exploits/51733,https://da.gd/s1Dz
+ExploitDB,[remote] Tinycontrol LAN Controller v3 (LK3) 1.58a - Remote Admin Password Change,https://www.exploit-db.com/exploits/51732,https://da.gd/jkWGD8
+ExploitDB,[remote] Tinycontrol LAN Controller v3 (LK3) 1.58a - Remote Credentials Extraction,https://www.exploit-db.com/exploits/51731,https://da.gd/TmGA67
+ExploitDB,[dos] Tinycontrol LAN Controller v3 (LK3) 1.58a - Remote Denial Of Service,https://www.exploit-db.com/exploits/51730,https://da.gd/A7BeqF
+ExploitDB,[webapps] Clcknshop 1.0.0 - SQL Injection,https://www.exploit-db.com/exploits/51729,https://da.gd/UH3Yy
+ExploitDB,[webapps] Online ID Generator 1.0 - Remote Code Execution (RCE),https://www.exploit-db.com/exploits/51728,https://da.gd/BaW7AJ
