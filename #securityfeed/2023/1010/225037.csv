@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jm7m-8jh6-29hp] Apache Tomcat Incomplete Cleanup vulnerability,https://github.com/advisories/GHSA-jm7m-8jh6-29hp,https://da.gd/3MooB
+GithubAdvisories,[GHSA-g8pj-r55q-5c2v] Apache Tomcat Incomplete Cleanup vulnerability,https://github.com/advisories/GHSA-g8pj-r55q-5c2v,https://da.gd/9igFVL
+GithubAdvisories,[GHSA-r6j3-px5g-cq3x] Apache Tomcat Improper Input Validation vulnerability,https://github.com/advisories/GHSA-r6j3-px5g-cq3x,https://da.gd/VXOlS
+GithubAdvisories,[GHSA-289m-2964-f8q5] Puppet Bolt privilege escalation vulnerability,https://github.com/advisories/GHSA-289m-2964-f8q5,https://da.gd/wtNlad
+GithubAdvisories,[GHSA-ww3m-ffrm-qvqv] Ansible may expose private key,https://github.com/advisories/GHSA-ww3m-ffrm-qvqv,https://da.gd/OCUhG
+GithubAdvisories,[GHSA-738q-mc72-2q22] MTProto proxy remote code execution vulnerability,https://github.com/advisories/GHSA-738q-mc72-2q22,https://da.gd/Kp9h7
+GithubAdvisories,[GHSA-wrp2-6v6j-hfmg] ConcreteCMS vulnerable to Stored Cross-site Scripting,https://github.com/advisories/GHSA-wrp2-6v6j-hfmg,https://da.gd/zsydh
+GithubAdvisories,[GHSA-fr44-546p-7xcp] MsQuic Remote Denial of Service Vulnerability,https://github.com/advisories/GHSA-fr44-546p-7xcp,https://da.gd/YQMAL
+GithubAdvisories,[GHSA-xpw8-rcwv-8f8p] io.netty:netty-codec-http2 vulnerable to HTTP/2 Rapid Reset Attack,https://github.com/advisories/GHSA-xpw8-rcwv-8f8p,https://da.gd/6lbWHd
