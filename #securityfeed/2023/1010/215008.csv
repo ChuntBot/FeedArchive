@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-v683-rcxx-vpff] ZITADEL's password reset does not respect the ""Ignoring unknown usernames"" setting",https://github.com/advisories/GHSA-v683-rcxx-vpff,https://da.gd/834SO
+GithubAdvisories,[GHSA-rr4x-crhf-8886] Cache variables with the operations when transforms exist on the root level even if variables change in the further requests with the same operation,https://github.com/advisories/GHSA-rr4x-crhf-8886,https://da.gd/jVj99M
+GithubAdvisories,[GHSA-g9v2-wqcj-j99g] Uptime Kuma has Persistentent User Sessions,https://github.com/advisories/GHSA-g9v2-wqcj-j99g,https://da.gd/lPaDBa
+GithubAdvisories,[GHSA-mq6f-5xh5-hgcf] Harbor timing attack risk,https://github.com/advisories/GHSA-mq6f-5xh5-hgcf,https://da.gd/1Kqf
+GithubAdvisories,[GHSA-qppj-fm5r-hxr3] swift-nio-http2 vulnerable to HTTP/2 Stream Cancellation Attack,https://github.com/advisories/GHSA-qppj-fm5r-hxr3,https://da.gd/QcmqM4
+GithubAdvisories,[GHSA-5chr-wjw5-3gq4] matrix-synapse vulnerable to denial of service due to malicious server ACL events,https://github.com/advisories/GHSA-5chr-wjw5-3gq4,https://da.gd/80uG1g
+GithubAdvisories,[GHSA-c54w-7j5f-xg98] @builder.io/qwik-city Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-c54w-7j5f-xg98,https://da.gd/0Bryd
+GithubAdvisories,[GHSA-xh5m-8qqp-c5x7] Remote Denial of Service Vulnerability in Microsoft.Native.Quic.MsQuic.Schannel,https://github.com/advisories/GHSA-xh5m-8qqp-c5x7,https://da.gd/Cu2ABu
+GithubAdvisories,[GHSA-fwfg-vprh-97ph] OctoPrint vulnerable to Improper Neutralization of Special Elements Used in a Template Engine,https://github.com/advisories/GHSA-fwfg-vprh-97ph,https://da.gd/JaBr
