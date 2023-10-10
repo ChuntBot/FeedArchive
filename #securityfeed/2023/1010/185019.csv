@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mj24-gpw7-23m9] Denial of service vulnerability on creating a Launch with too many recursively nested elements in reportportal,https://github.com/advisories/GHSA-mj24-gpw7-23m9,https://da.gd/sXAlY
+GithubAdvisories,[GHSA-vx74-f528-fxqg] github.com/nghttp2/nghttp2 has HTTP/2 Rapid Reset,https://github.com/advisories/GHSA-vx74-f528-fxqg,https://da.gd/Y1f2f
