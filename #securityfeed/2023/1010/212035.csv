@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gjjr-63x4-v8cq] langchain_experimental vulnerable to arbitrary code execution via PALChain in the python exec method,https://github.com/advisories/GHSA-gjjr-63x4-v8cq,https://da.gd/nh4Rg
+GithubAdvisories,[GHSA-wgh7-54f2-x98r] HTTP/2 HPACK integer overflow and buffer allocation,https://github.com/advisories/GHSA-wgh7-54f2-x98r,https://da.gd/KtaSsR
+GithubAdvisories,[GHSA-2jc6-3fhj-8q84] OroCommerce Cross-site Scripting vulnerability in add note dialog of Shopping List line item,https://github.com/advisories/GHSA-2jc6-3fhj-8q84,https://da.gd/g3TAT
