@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-33vj-r6p6-x4p8] Cross-Site Request Forgery (CSRF) in snipe/snipe-it,https://github.com/advisories/GHSA-33vj-r6p6-x4p8,https://da.gd/bTn7L
+GithubAdvisories,[GHSA-7286-pgfv-vxvh] Authorization Bypass Through User-Controlled Key vulnerability in Apache ZooKeeper,https://github.com/advisories/GHSA-7286-pgfv-vxvh,https://da.gd/2Xy6EQ
+GithubAdvisories,[GHSA-2wrh-6pvc-2jm9] Improper rendering of text nodes in golang.org/x/net/html,https://github.com/advisories/GHSA-2wrh-6pvc-2jm9,https://da.gd/YdpMQ
+GithubAdvisories,[GHSA-4374-p667-p6c8] HTTP/2 rapid reset can cause excessive work in net/http,https://github.com/advisories/GHSA-4374-p667-p6c8,https://da.gd/pmdZQ
