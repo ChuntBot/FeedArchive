@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Dovecot] Update to 2.3.21,https://github.com/mailcow/mailcow-dockerized/commit/a02bd4beff7a550f25e018b61c652770e94845c5,https://da.gd/S3I4O
+GithubCommitStaging,Update Images which contains Curl to fix CVEs,https://github.com/mailcow/mailcow-dockerized/commit/1fda71e4fa6c457707c744f9820a94e965718691,https://da.gd/yHwO3S
