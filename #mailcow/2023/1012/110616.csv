@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,Merge pull request #5401 from AlexHuebi/master,https://github.com/mailcow/mailcow-dockerized/commit/1c403a6d608315d40c5d4c4a055e382ecbb94331,https://da.gd/BdY27Z
+GithubCommit,Update dependency php/pecl-mail-mailparse to v3.1.6,https://github.com/mailcow/mailcow-dockerized/commit/115d0681a729f554e46cb57031eeca8670e0f73f,https://da.gd/8xUM
+GithubCommit,change column name,https://github.com/mailcow/mailcow-dockerized/commit/5de151a966a3f5ee3c8a6bfdf66a54fd3beb0eef,https://da.gd/yEqxyx
+GithubCommit,Merge pull request #5443 from mailcow/fix-generateconfigsh,https://github.com/mailcow/mailcow-dockerized/commit/40df25dcf0bd5d5f1c5ccb2a852c8d0fcdceaf14,https://da.gd/jNkuS
+GithubCommit,Update dependency composer/composer to v2.6.5,https://github.com/mailcow/mailcow-dockerized/commit/3d8f45db43fe1b7b3de852c83bce5aaf93a0f9cc,https://da.gd/SQfl
+GithubCommit,[Web] Avoid setting default ACL on create when nothing is selected,https://github.com/mailcow/mailcow-dockerized/commit/33a38e6fde83e10f5a7987fcc624d6edda8e39f2,https://da.gd/S5T4
+GithubCommit,Update Dockerfile,https://github.com/mailcow/mailcow-dockerized/commit/87e3c91c26ee117d9ccd92df053bfc2f0ebcd1a2,https://da.gd/Pt2O
+GithubCommit,Update Dovecot Wiki Link for new mailcows,https://github.com/mailcow/mailcow-dockerized/commit/d7f3ee16aab2656d94c5d68ec4e5b448eaaad771,https://da.gd/CH5gK
+GithubCommit,[Dovecot] Update to 2.3.21,https://github.com/mailcow/mailcow-dockerized/commit/a02bd4beff7a550f25e018b61c652770e94845c5,https://da.gd/S3I4O
+GithubCommit,Update Images which contains Curl to fix CVEs,https://github.com/mailcow/mailcow-dockerized/commit/1fda71e4fa6c457707c744f9820a94e965718691,https://da.gd/yHwO3S
+GithubCommit,[Unbound] Added Healthcheck (nslookup),https://github.com/mailcow/mailcow-dockerized/commit/eb3be80286b1fe80c64f407cb5ac692767955abc,https://da.gd/yGDT
+GithubCommit,[Compose] Added Healthcheck startup logics,https://github.com/mailcow/mailcow-dockerized/commit/0b627017e0658bc48234e001d2611cc50c5005d4,https://da.gd/jDFCb
+GithubCommit,Merge pull request #5451 from mailcow/feat/unbound-healthcheck,https://github.com/mailcow/mailcow-dockerized/commit/a8bc6aff2e10a3f310b5c2fb4ba645de747d5679,https://da.gd/k5Rua
+GithubCommit,Add comment about experimental thingy,https://github.com/mailcow/mailcow-dockerized/commit/c134078d601488e233b95a3ceb7a0b42ad711129,https://da.gd/7XlT
+GithubCommit,Merge pull request #5402 from cero1988/staging,https://github.com/mailcow/mailcow-dockerized/commit/ce4b9c98dcc8c79a3cbc297002b6d684b719656f,https://da.gd/HQPX
+GithubCommit,Merge pull request #5372 from Habetdin:staging,https://github.com/mailcow/mailcow-dockerized/commit/437534556e620ce625236e3f805b2df2a79bd838,https://da.gd/9Ad8NT
+GithubCommit,Merge pull request #5413 from mailcow/renovate/phpredis-phpredis-6.x,https://github.com/mailcow/mailcow-dockerized/commit/7e3d736ee199f48fb9025afb0fabdf29ce450d18,https://da.gd/wUEEg0
+GithubCommit,Merge pull request #5442 from mailcow/renovate/php-pecl-mail-mailpars…,https://github.com/mailcow/mailcow-dockerized/commit/a94a29a6ac6d5e714eca9561015d18844869c49f,https://da.gd/lkF2u
+GithubCommit,Merge pull request #5253 from mailcow/renovate/composer-composer-2.x,https://github.com/mailcow/mailcow-dockerized/commit/f1c93fa3376b09d6a95deac7043ef19ecc3e18bd,https://da.gd/z3jL
+GithubCommit,Merge pull request #5454 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/5b8efeb2ba799e33b5bb855171d0a22989b183e2,https://da.gd/5JnyI
