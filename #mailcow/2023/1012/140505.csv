@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommit,Fix Clamd Version image in compose,https://github.com/mailcow/mailcow-dockerized/commit/907912046feb3e6aecd1df909f774ac5ed366761,https://da.gd/OBPs
+GithubCommit,Reverted restart action removal in docker-compose.yml for older 2.X c…,https://github.com/mailcow/mailcow-dockerized/commit/99de302ec9426b2c038c24322443ec23d3c7580f,https://da.gd/amnF
+GithubCommit,Merge pull request #5458 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/a366494c3492157947b494d89c7839bfd1c8f09e,https://da.gd/3X15e
