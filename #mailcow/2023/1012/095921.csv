@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Update dependency php/pecl-mail-mailparse to v3.1.6,https://github.com/mailcow/mailcow-dockerized/commit/115d0681a729f554e46cb57031eeca8670e0f73f,https://da.gd/8xUM
+GithubCommitStaging,Update dependency composer/composer to v2.6.5,https://github.com/mailcow/mailcow-dockerized/commit/3d8f45db43fe1b7b3de852c83bce5aaf93a0f9cc,https://da.gd/SQfl
+GithubCommitStaging,Update Dockerfile,https://github.com/mailcow/mailcow-dockerized/commit/87e3c91c26ee117d9ccd92df053bfc2f0ebcd1a2,https://da.gd/Pt2O
+GithubCommitStaging,Merge pull request #5413 from mailcow/renovate/phpredis-phpredis-6.x,https://github.com/mailcow/mailcow-dockerized/commit/7e3d736ee199f48fb9025afb0fabdf29ce450d18,https://da.gd/wUEEg0
+GithubCommitStaging,Merge pull request #5442 from mailcow/renovate/php-pecl-mail-mailpars…,https://github.com/mailcow/mailcow-dockerized/commit/a94a29a6ac6d5e714eca9561015d18844869c49f,https://da.gd/lkF2u
+GithubCommitStaging,Merge pull request #5253 from mailcow/renovate/composer-composer-2.x,https://github.com/mailcow/mailcow-dockerized/commit/f1c93fa3376b09d6a95deac7043ef19ecc3e18bd,https://da.gd/z3jL
