@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Unbound] Added Healthcheck (nslookup),https://github.com/mailcow/mailcow-dockerized/commit/eb3be80286b1fe80c64f407cb5ac692767955abc,https://da.gd/yGDT
+GithubCommitStaging,[Compose] Added Healthcheck startup logics,https://github.com/mailcow/mailcow-dockerized/commit/0b627017e0658bc48234e001d2611cc50c5005d4,https://da.gd/jDFCb
+GithubCommitStaging,Merge pull request #5451 from mailcow/feat/unbound-healthcheck,https://github.com/mailcow/mailcow-dockerized/commit/a8bc6aff2e10a3f310b5c2fb4ba645de747d5679,https://da.gd/k5Rua
