@@ -1,0 +1,27 @@
+feed,title,long_url,short_url
+NVD-NIST,CVE-2020-27630 (uc/tcp-ip),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27630,https://da.gd/X5BTc
+NVD-NIST,CVE-2020-27631 (cyclonetcp),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27631,https://da.gd/pnpZQ
+NVD-NIST,CVE-2020-27633 (fnet),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27633,https://da.gd/RWV65r
+NVD-NIST,CVE-2020-27634 (contiki-ng),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27634,https://da.gd/71rfen
+NVD-NIST,CVE-2020-27636 (mplab_network_creator),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27636,https://da.gd/ggRrjt
+NVD-NIST,"CVE-2023-25822 (reportportal, service-api)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-25822,https://da.gd/6Nlk
+NVD-NIST,CVE-2023-30802 (next-gen_application_firewall),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-30802,https://da.gd/SSNYuQ
+NVD-NIST,CVE-2023-30803 (next-gen_application_firewall),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-30803,https://da.gd/RgXPD
+NVD-NIST,CVE-2023-30804 (next-gen_application_firewall),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-30804,https://da.gd/N1szM
+NVD-NIST,CVE-2023-30805 (next-gen_application_firewall),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-30805,https://da.gd/ie5Jxb
+NVD-NIST,CVE-2023-30806 (next-gen_application_firewall),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-30806,https://da.gd/nHwnM
+NVD-NIST,CVE-2023-33301 (fortios),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-33301,https://da.gd/RBn8O2
+NVD-NIST,"CVE-2023-36567 (windows_10_1507, windows_10_1809, windows_10_21h1, windows_10_22h2, windows_11_21h2, windows_11_22h2, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36567,https://da.gd/YdPsh
+NVD-NIST,"CVE-2023-36568 (365_apps, office, office_long_term_servicing_channel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36568,https://da.gd/kmDym
+NVD-NIST,"CVE-2023-36569 (365_apps, office, office_long_term_servicing_channel)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36569,https://da.gd/WFWA3
+NVD-NIST,"CVE-2023-36572 (windows_10_1507, windows_10_1607, windows_10_1809, windows_10_21h2, windows_10_22h2, windows_11_21h2, windows_11_22h2, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36572,https://da.gd/TRxxK
+NVD-NIST,"CVE-2023-36573 (windows_10_1507, windows_10_1607, windows_10_1809, windows_10_21h2, windows_10_22h2, windows_11_21h2, windows_11_22h2, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36573,https://da.gd/FFrKbO
+NVD-NIST,"CVE-2023-36574 (windows_10_1507, windows_10_1607, windows_10_1809, windows_10_21h2, windows_10_22h2, windows_11_21h2, windows_11_22h2, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36574,https://da.gd/ib6TSP
+NVD-NIST,"CVE-2023-36575 (windows_10_1507, windows_10_1607, windows_10_1809, windows_10_21h2, windows_10_22h2, windows_11_21h2, windows_11_22h2, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36575,https://da.gd/UwHr4I
+NVD-NIST,"CVE-2023-36576 (windows_10_1507, windows_10_1809, windows_10_21h1, windows_10_22h2, windows_11_21h2, windows_11_22h2, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36576,https://da.gd/wIou
+NVD-NIST,"CVE-2023-36577 (windows_10_1507, windows_10_1809, windows_10_21h1, windows_10_22h2, windows_11_21h2, windows_11_22h2, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36577,https://da.gd/PWonx
+NVD-NIST,"CVE-2023-36578 (windows_10_1507, windows_10_1607, windows_10_1809, windows_10_21h2, windows_10_22h2, windows_11_21h2, windows_11_22h2, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36578,https://da.gd/G7SYj
+NVD-NIST,"CVE-2023-36579 (windows_10_1507, windows_10_1607, windows_10_1809, windows_10_21h2, windows_10_22h2, windows_11_21h2, windows_11_22h2, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36579,https://da.gd/rNC3K
+NVD-NIST,"CVE-2023-42787 (fortianalyzer, fortimanager)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-42787,https://da.gd/NIMQ
+NVD-NIST,"CVE-2023-42788 (fortianalyzer, fortimanager)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-42788,https://da.gd/cl1DZ
+NVD-NIST,CVE-2023-5520 (gpac),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-5520,https://da.gd/1YFneY
