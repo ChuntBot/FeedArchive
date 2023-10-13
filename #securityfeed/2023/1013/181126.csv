@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+NVD-NIST,"CVE-2023-29348 (windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-29348,https://da.gd/1DY2AC
+NVD-NIST,CVE-2023-34992 (fortisiem),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-34992,https://da.gd/uE3R5c
+NVD-NIST,CVE-2023-36414 (azure_identity_sdk),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36414,https://da.gd/GAvL
+NVD-NIST,CVE-2023-36415 (azure_identity_sdk),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36415,https://da.gd/Up35
+NVD-NIST,CVE-2023-36416 (dynamics_365),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36416,https://da.gd/r4dGg
+NVD-NIST,CVE-2023-36429 (dynamics_365),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36429,https://da.gd/oGZvb
+NVD-NIST,"CVE-2023-36436 (windows_10_1507, windows_10_1809, windows_10_21h1, windows_10_22h2, windows_11_21h2, windows_11_22h2, windows_server_2008, windows_server_2012, windows_server_2016, windows_server_2019, windows_server_2022)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36436,https://da.gd/DV6f0
+NVD-NIST,CVE-2023-36555 (fortios),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36555,https://da.gd/eRmVKr
+NVD-NIST,CVE-2023-36556 (fortimail),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36556,https://da.gd/jTtif
+NVD-NIST,CVE-2023-36637 (fortimail),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36637,https://da.gd/AMFVD
+NVD-NIST,CVE-2023-36820 (micronaut_security),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36820,https://da.gd/xjp3kt
+NVD-NIST,"CVE-2023-41675 (fortios, fortiproxy)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-41675,https://da.gd/piel3s
+NVD-NIST,CVE-2023-41679 (fortimanager),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-41679,https://da.gd/zQcps
+NVD-NIST,"CVE-2023-41838 (fortianalyzer, fortimanager)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-41838,https://da.gd/MZ3CA
+NVD-NIST,"CVE-2023-42455 (wazuh-dashboard, wazuh-kibana-app)",https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-42455,https://da.gd/JgQgL
+NVD-NIST,CVE-2023-42782 (fortianalyzer),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-42782,https://da.gd/OjWluM
+NVD-NIST,CVE-2023-43643 (antisamy),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-43643,https://da.gd/mp9pnQ
+NVD-NIST,CVE-2023-44763 (concrete_cms),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-44763,https://da.gd/67ctm7
+NVD-NIST,CVE-2023-5461 (wplsoft),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-5461,https://da.gd/FCtip
+NVD-NIST,CVE-2023-5493 (smart_s45f_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-5493,https://da.gd/0UKEh
+NVD-NIST,CVE-2023-5494 (smart_s45f_firmware),https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-5494,https://da.gd/o5PkU
