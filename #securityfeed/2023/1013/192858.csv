@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5m22-cfq9-86x6] Pickle serialization vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-5m22-cfq9-86x6,https://da.gd/y1eL3
+GithubAdvisories,[GHSA-5ghm-h2wq-g3mh] Allocation of Resources Without Limits or Throttling in vriteio/vrite,https://github.com/advisories/GHSA-5ghm-h2wq-g3mh,https://da.gd/7xhOvq
