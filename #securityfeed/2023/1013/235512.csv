@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j5hq-6frc-64v3] Cross-site Scripting (XSS) in froxlor/froxlor,https://github.com/advisories/GHSA-j5hq-6frc-64v3,https://da.gd/Nd4Lc
+GithubAdvisories,[GHSA-w35p-wxwj-rcm9] Server-Side Request Forgery (SSRF) in vriteio/vrite,https://github.com/advisories/GHSA-w35p-wxwj-rcm9,https://da.gd/R4mJwl
+GithubAdvisories,[GHSA-44ff-9w4f-99w6] Improper Input Validation in vriteio/vrite,https://github.com/advisories/GHSA-44ff-9w4f-99w6,https://da.gd/WzMOtd
