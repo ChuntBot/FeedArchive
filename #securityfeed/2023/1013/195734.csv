@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7x94-6g2m-3hp2] Defining resource name as integer may give unintended access in vantage6,https://github.com/advisories/GHSA-7x94-6g2m-3hp2,https://da.gd/x3RL
+GithubAdvisories,[GHSA-gc57-xhh5-m94r] Improper Access Control in vantage6,https://github.com/advisories/GHSA-gc57-xhh5-m94r,https://da.gd/pYLW
