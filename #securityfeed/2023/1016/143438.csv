@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rf54-7qrr-96j6] vantage6 does not properly delete linked resources when deleting a collaboration,https://github.com/advisories/GHSA-rf54-7qrr-96j6,https://da.gd/9zcHKY
+GithubAdvisories,[GHSA-hv79-p62r-wg3p] Cachet vulnerable to Authenticated Remote Code Execution,https://github.com/advisories/GHSA-hv79-p62r-wg3p,https://da.gd/ZtgOuD
+GithubAdvisories,[GHSA-wqq4-5wpv-mx2g] Undici's cookie header not cleared on cross-origin redirect in fetch,https://github.com/advisories/GHSA-wqq4-5wpv-mx2g,https://da.gd/OnspUD
