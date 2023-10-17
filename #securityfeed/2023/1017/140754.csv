@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3m5q-q39v-xf8f] nocodb SQL Injection vulnerability,https://github.com/advisories/GHSA-3m5q-q39v-xf8f,https://da.gd/HplS
+GithubAdvisories,[GHSA-v23w-pppm-jh66] Silverstripe GraphQL has DDOS Vulnerability due to lack of protection against recursive queries,https://github.com/advisories/GHSA-v23w-pppm-jh66,https://da.gd/7LS3j
