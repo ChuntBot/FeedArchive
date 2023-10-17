@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fw9c-75hh-89p6] Grafana privilege escalation vulnerability,https://github.com/advisories/GHSA-fw9c-75hh-89p6,https://da.gd/BWp4QH
+GithubAdvisories,[GHSA-g4mx-q9vg-27p4] urllib3's request body not stripped after redirect from 303 status changes request method to GET,https://github.com/advisories/GHSA-g4mx-q9vg-27p4,https://da.gd/v87Br
