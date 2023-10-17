@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-72q2-gwwf-6hrv] OpenSearch Issue with tenant read-only permissions,https://github.com/advisories/GHSA-72q2-gwwf-6hrv,https://da.gd/jtRNc
+GithubAdvisories,[GHSA-8wx3-324g-w4qq] OpenSearch uncontrolled resource consumption,https://github.com/advisories/GHSA-8wx3-324g-w4qq,https://da.gd/3SUf2D
+GithubAdvisories,[GHSA-7p92-x423-vwj6] Plonk verifier KZG multi point verification,https://github.com/advisories/GHSA-7p92-x423-vwj6,https://da.gd/Qt81x
+GithubAdvisories,[GHSA-fpcf-qr79-hjqp] SQL Injection in Apache InLong,https://github.com/advisories/GHSA-fpcf-qr79-hjqp,https://da.gd/AnW3H
+GithubAdvisories,[GHSA-rp6x-ggw6-8g56] Authorization Bypass in Apache InLong,https://github.com/advisories/GHSA-rp6x-ggw6-8g56,https://da.gd/6kuX
+GithubAdvisories,[GHSA-wj6q-chpv-mcrx] Insufficient Verification of Data Authenticity in Apache InLong,https://github.com/advisories/GHSA-wj6q-chpv-mcrx,https://da.gd/CAOg
+GithubAdvisories,[GHSA-mr6h-7x2m-rgmq] SQL injection in librenms/librenms,https://github.com/advisories/GHSA-mr6h-7x2m-rgmq,https://da.gd/rz8hNM
+GithubAdvisories,[GHSA-gwvm-45gx-3cf8] Authorization Header forwarded on redirect,https://github.com/advisories/GHSA-gwvm-45gx-3cf8,https://da.gd/1a3luI
+GithubAdvisories,[GHSA-rc4v-99cr-pjcm] Prototype Pollution in ali-security/mongoose,https://github.com/advisories/GHSA-rc4v-99cr-pjcm,https://da.gd/arFhv
+GithubAdvisories,[GHSA-267v-3v32-g6q5] Cross-site Scripting via missing Binding syntax validation,https://github.com/advisories/GHSA-267v-3v32-g6q5,https://da.gd/ph8jm2
+GithubAdvisories,[GHSA-v642-mh27-8j6m] MantisBT may disclose project names to unauthorized users,https://github.com/advisories/GHSA-v642-mh27-8j6m,https://da.gd/XegFg
