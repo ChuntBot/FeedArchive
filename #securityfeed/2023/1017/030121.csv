@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fpxx-xv4c-gxqp] Apache Airflow vulnerable to sensitive information exposure when expose-config is set to non-sensitive-only,https://github.com/advisories/GHSA-fpxx-xv4c-gxqp,https://da.gd/2uChC
+GithubAdvisories,[GHSA-cgx2-rrmr-jx43] Apache Airflow vulnerable to sensitive information exposure when users list warnings for all DAGs,https://github.com/advisories/GHSA-cgx2-rrmr-jx43,https://da.gd/YcJCS
+GithubAdvisories,[GHSA-j3w8-2p2h-mrr9] Apache Airflow vulnerable to privilege escalation,https://github.com/advisories/GHSA-j3w8-2p2h-mrr9,https://da.gd/LqUIXl
+GithubAdvisories,[GHSA-6pgr-j9v4-xfvv] ThingsBoard Server-Side Template Injection,https://github.com/advisories/GHSA-6pgr-j9v4-xfvv,https://da.gd/AV6SOL
+GithubAdvisories,[GHSA-32wr-qqw6-5mfp] Apache Airflow vulnerable to sensitive information exposure,https://github.com/advisories/GHSA-32wr-qqw6-5mfp,https://da.gd/QxeZm0
+GithubAdvisories,[GHSA-7v4p-328v-8v5g] Traefik vulnerable to HTTP/2 request causing denial of service,https://github.com/advisories/GHSA-7v4p-328v-8v5g,https://da.gd/BdrTt1
