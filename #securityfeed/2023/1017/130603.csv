@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h2rm-29ch-wfmh] XWiki Identity Oauth Privilege escalation (PR)/remote code execution from login screen through unescaped URL parameter,https://github.com/advisories/GHSA-h2rm-29ch-wfmh,https://da.gd/Nahnt
+GithubAdvisories,[GHSA-9wmc-rg4h-28wv] github.com/kumahq/kuma affected by CVE-2023-44487,https://github.com/advisories/GHSA-9wmc-rg4h-28wv,https://da.gd/ZYOqOP
+GithubAdvisories,[GHSA-mv73-f69x-444p] Go Fiber CSRF Token Validation Vulnerability,https://github.com/advisories/GHSA-mv73-f69x-444p,https://da.gd/Q9PhB
+GithubAdvisories,[GHSA-94w9-97p3-p368] CSRF Token Reuse Vulnerability,https://github.com/advisories/GHSA-94w9-97p3-p368,https://da.gd/mrYINc
