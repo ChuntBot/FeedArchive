@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8gwj-m6vh-2g6j] kOps privilege escalation vulnerability,https://github.com/advisories/GHSA-8gwj-m6vh-2g6j,https://da.gd/6sG32w
+GithubAdvisories,[GHSA-v9jh-j8px-98vq] go-ethereum vulnerable to denial of service via crafted GraphQL query,https://github.com/advisories/GHSA-v9jh-j8px-98vq,https://da.gd/vlid
+GithubAdvisories,[GHSA-c827-hfw6-qwvm] rustix's `rustix::fs::Dir` iterator with the `linux_raw` backend can cause memory explosion,https://github.com/advisories/GHSA-c827-hfw6-qwvm,https://da.gd/l3vAR
+GithubAdvisories,[GHSA-jg82-xh3w-rhxx] Synchrony deobfuscator prototype pollution vulnerability leading to arbitrary code execution,https://github.com/advisories/GHSA-jg82-xh3w-rhxx,https://da.gd/ZK4Ysk
+GithubAdvisories,[GHSA-hr4f-6jh8-f2vq] OpenFGA DoS vulnerability,https://github.com/advisories/GHSA-hr4f-6jh8-f2vq,https://da.gd/BciR
+GithubAdvisories,[GHSA-m5jc-r4gf-c6p8] Arduino Create Agent path traversal - arbitrary file deletion vulnerability,https://github.com/advisories/GHSA-m5jc-r4gf-c6p8,https://da.gd/81E10y
+GithubAdvisories,[GHSA-75j7-w798-cwwx] Arduino Create Agent path traversal - local privilege escalation vulnerability,https://github.com/advisories/GHSA-75j7-w798-cwwx,https://da.gd/9DiTK
