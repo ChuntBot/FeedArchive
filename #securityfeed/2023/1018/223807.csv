@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rmqp-9w4c-gc7w] Apache Axis 1.x (EOL) may allow RCE when untrusted input is passed to getService,https://github.com/advisories/GHSA-rmqp-9w4c-gc7w,https://da.gd/ArcXz
