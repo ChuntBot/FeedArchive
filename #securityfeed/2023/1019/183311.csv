@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5v25-xr56-phph] Clamscan vulnerable to command injection,https://github.com/advisories/GHSA-5v25-xr56-phph,https://da.gd/lTb6K
+GithubAdvisories,[GHSA-hcj4-xf6x-63wj] Grunt-karma vulnerable to prototype pollution,https://github.com/advisories/GHSA-hcj4-xf6x-63wj,https://da.gd/bOLx
+GithubAdvisories,[GHSA-xfg5-vrmc-24wc] Obsidian Dataview vulnerable to code injection due to unsafe eval,https://github.com/advisories/GHSA-xfg5-vrmc-24wc,https://da.gd/g7p1T6
+GithubAdvisories,[GHSA-2gqw-q9r9-7f79] Changeset vulnerable to prototype pollution,https://github.com/advisories/GHSA-2gqw-q9r9-7f79,https://da.gd/Pgg8G
+GithubAdvisories,[GHSA-8mp8-28xh-r486] keyget vulnerable to prototype pollution,https://github.com/advisories/GHSA-8mp8-28xh-r486,https://da.gd/qLCf
+GithubAdvisories,[GHSA-6h8c-gw33-cjm2] DevSpace vulnerable to remote code execution,https://github.com/advisories/GHSA-6h8c-gw33-cjm2,https://da.gd/di6W7
+GithubAdvisories,[GHSA-vm2p-f5j4-mj6g] Auth0 angular-jwt misinterprets allowlist as regex,https://github.com/advisories/GHSA-vm2p-f5j4-mj6g,https://da.gd/yX8h
+GithubAdvisories,[GHSA-vc7h-cmp3-4hw5] Istio vulnerable to denial of service,https://github.com/advisories/GHSA-vc7h-cmp3-4hw5,https://da.gd/Z0DoW
