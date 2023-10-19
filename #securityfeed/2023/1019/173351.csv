@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q24m-6h38-5xj8] ydb-go-sdk token in custom credentials object can leak through logs,https://github.com/advisories/GHSA-q24m-6h38-5xj8,https://da.gd/ImoDPA
+GithubAdvisories,[GHSA-jj32-3pf5-5mv5] Apache InLong Deserialization of Untrusted Data Vulnerability,https://github.com/advisories/GHSA-jj32-3pf5-5mv5,https://da.gd/96NGGC
+GithubAdvisories,[GHSA-hmq4-c2r4-5q8h] Artifact Hub arbitrary file read vulnerability,https://github.com/advisories/GHSA-hmq4-c2r4-5q8h,https://da.gd/vaRJW2
+GithubAdvisories,[GHSA-9pc8-m4vp-ggvf] Artifact Hub allows unsafe rego built-in,https://github.com/advisories/GHSA-9pc8-m4vp-ggvf,https://da.gd/4E5NGs
+GithubAdvisories,[GHSA-g6pq-x539-7w4j] Artifact Hub has Incorrect Docker Hub registry check,https://github.com/advisories/GHSA-g6pq-x539-7w4j,https://da.gd/uPcOFS
