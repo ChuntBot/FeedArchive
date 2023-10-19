@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fc75-58r8-rm3h] Wagtail vulnerable to disclosure of user names via admin bulk action views,https://github.com/advisories/GHSA-fc75-58r8-rm3h,https://da.gd/CEHlS
