@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-72qw-p7hh-m3ff] TorBot vulnerable to Inefficient Regular Expression Complexity in validate_link,https://github.com/advisories/GHSA-72qw-p7hh-m3ff,https://da.gd/0tJJta
