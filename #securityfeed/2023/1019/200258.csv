@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w4m2-qmh3-2g8f] Yamcs Path Traversal vulnerability,https://github.com/advisories/GHSA-w4m2-qmh3-2g8f,https://da.gd/9Evnl
+GithubAdvisories,[GHSA-hmgw-9jrg-hf2m] Directus crashes on invalid WebSocket message,https://github.com/advisories/GHSA-hmgw-9jrg-hf2m,https://da.gd/vzneO9
+GithubAdvisories,[GHSA-2c28-m2m7-mf55] Pleroma Path Traversal vulnerability,https://github.com/advisories/GHSA-2c28-m2m7-mf55,https://da.gd/xfHGO
