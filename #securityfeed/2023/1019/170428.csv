@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7w8v-5fcq-pvqw] Apache Shenyu Server Side Request Forgery vulnerability,https://github.com/advisories/GHSA-7w8v-5fcq-pvqw,https://da.gd/GUWDZ
+GithubAdvisories,[GHSA-hgqx-r2hp-jr38] TinyMCE XSS vulnerability in notificationManager.open API,https://github.com/advisories/GHSA-hgqx-r2hp-jr38,https://da.gd/yD75y
+GithubAdvisories,"[GHSA-v65r-p3vv-jjfv] TinyMCE mXSS vulnerability in undo/redo, getContent API, resetContent API, and Autosave plugin",https://github.com/advisories/GHSA-v65r-p3vv-jjfv,https://da.gd/QjO0hP
