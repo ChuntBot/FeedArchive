@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6fq2-x65v-v9h7] Ansible password prompts could expose passwords,https://github.com/advisories/GHSA-6fq2-x65v-v9h7,https://da.gd/dmYQn
+GithubAdvisories,[GHSA-8vwv-2v7v-jmgr] Horizon-Orchestration Cross-site scripting (XSS) vulnerability through resource name,https://github.com/advisories/GHSA-8vwv-2v7v-jmgr,https://da.gd/PXlLO
+GithubAdvisories,[GHSA-j57p-g33w-95c5] OpenStack Horizon Cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-j57p-g33w-95c5,https://da.gd/2zglBX
+GithubAdvisories,[GHSA-53mr-44pp-crf4] pip lack of randomness in build directory,https://github.com/advisories/GHSA-53mr-44pp-crf4,https://da.gd/2VSgJG
+GithubAdvisories,[GHSA-wf9j-m9fv-92gq] ovirt-engine-sdk-python improper validation of hostname in x.509 certificate,https://github.com/advisories/GHSA-wf9j-m9fv-92gq,https://da.gd/qFING
