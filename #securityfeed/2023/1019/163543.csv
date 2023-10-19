@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cr45-98w9-gwqx] Viewing wget extractor output while logged in as an admin allows archived JS to execute in the admins context,https://github.com/advisories/GHSA-cr45-98w9-gwqx,https://da.gd/xnvTQ
+GithubAdvisories,[GHSA-fr2g-9hjm-wr23] NATS.io: Adding accounts for just the system account adds auth bypass,https://github.com/advisories/GHSA-fr2g-9hjm-wr23,https://da.gd/AtceI
+GithubAdvisories,[GHSA-jrf2-h5j6-3rrq] Bunkum tokens cached in the AuthenticationService are susceptible to a use-after-free,https://github.com/advisories/GHSA-jrf2-h5j6-3rrq,https://da.gd/GxMBG5
+GithubAdvisories,[GHSA-r344-xw3p-2frj] Apollo Router vulnerable to Improper Check or Handling of Exceptional Conditions,https://github.com/advisories/GHSA-r344-xw3p-2frj,https://da.gd/yF1xPA
