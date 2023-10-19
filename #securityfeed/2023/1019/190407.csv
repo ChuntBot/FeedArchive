@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c9m9-48pw-6mpv] apiconnect-cli-plugins vulnerable to OS Command Injection,https://github.com/advisories/GHSA-c9m9-48pw-6mpv,https://da.gd/l8CZao
+GithubAdvisories,[GHSA-x43g-gj9x-838x] PhantomJS Arbitrary File Read,https://github.com/advisories/GHSA-x43g-gj9x-838x,https://da.gd/2g1C0C
+GithubAdvisories,[GHSA-xm59-jvxm-cp3v] mxGraph vulnerable to cross-site scripting in color field,https://github.com/advisories/GHSA-xm59-jvxm-cp3v,https://da.gd/JNwEVO
+GithubAdvisories,[GHSA-g78h-pf65-46rv] Enhanced Image plugin for CKEditor is vulnerable to Cross-site scripting (XSS),https://github.com/advisories/GHSA-g78h-pf65-46rv,https://da.gd/a9sXZ
+GithubAdvisories,[GHSA-mxq6-vrrr-ppmg] tree-kill vulnerable to remote code execution,https://github.com/advisories/GHSA-mxq6-vrrr-ppmg,https://da.gd/X4GIki
+GithubAdvisories,[GHSA-5h7x-68wj-jhwc] Docsify vulnerable to cross-site scripting due to mishandled encoding,https://github.com/advisories/GHSA-5h7x-68wj-jhwc,https://da.gd/BAAqB
+GithubAdvisories,[GHSA-7fv9-m79r-j9x8] Electron vulnerable to remote command execution,https://github.com/advisories/GHSA-7fv9-m79r-j9x8,https://da.gd/KTxy
+GithubAdvisories,[GHSA-grvm-gcqf-gh8q] Xen Orchestra Mishandles Authorization,https://github.com/advisories/GHSA-grvm-gcqf-gh8q,https://da.gd/Oeru4
