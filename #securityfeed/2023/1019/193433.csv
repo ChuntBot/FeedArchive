@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w4m6-x6c2-j5c9] Express-FileUpload Arbitrary File Overwrite,https://github.com/advisories/GHSA-w4m6-x6c2-j5c9,https://da.gd/1N7z
+GithubAdvisories,[GHSA-fv4m-5j2c-787r] Bacula-web SQL Injection Vulnerabilities,https://github.com/advisories/GHSA-fv4m-5j2c-787r,https://da.gd/7udNV4
+GithubAdvisories,[GHSA-pw5c-xqf2-6xc2] Doctrine Security Misconfiguration Vulnerability,https://github.com/advisories/GHSA-pw5c-xqf2-6xc2,https://da.gd/2JmVY
+GithubAdvisories,[GHSA-wvpv-8524-wg6x] mxGraph vulnerable to XXE attacks,https://github.com/advisories/GHSA-wvpv-8524-wg6x,https://da.gd/zjLBU
+GithubAdvisories,[GHSA-j4rv-pr9g-q8jv] mxGraph vulnerable to cross-site scripting in setTooltips function,https://github.com/advisories/GHSA-j4rv-pr9g-q8jv,https://da.gd/gmHulp
+GithubAdvisories,[GHSA-4hch-r9xf-6vfr] MJML vulnerable to path traversal,https://github.com/advisories/GHSA-4hch-r9xf-6vfr,https://da.gd/BpjVy
