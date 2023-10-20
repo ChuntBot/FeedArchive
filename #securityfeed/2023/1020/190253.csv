@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r894-5r7v-7rx3] easy-scrypt Observable Timing Discrepancy vulnerability,https://github.com/advisories/GHSA-r894-5r7v-7rx3,https://da.gd/IKTIij
+GithubAdvisories,[GHSA-c9pw-f4wp-22jr] SUKOHI Surpass Path Traversal vulnerability,https://github.com/advisories/GHSA-c9pw-f4wp-22jr,https://da.gd/QllQB
+GithubAdvisories,[GHSA-rh3m-pr36-xh2f] kelvinmo simplexrd vulnerable to Improper Restriction of XML External Entity Reference,https://github.com/advisories/GHSA-rh3m-pr36-xh2f,https://da.gd/rI6iTY
+GithubAdvisories,[GHSA-68hv-8926-j34c] DBRisinajumi d2files SQL Injection vulnerability,https://github.com/advisories/GHSA-68hv-8926-j34c,https://da.gd/851ulK
