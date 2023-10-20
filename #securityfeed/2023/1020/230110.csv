@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xfrj-6vvc-3xm2] Apache Santuario - XML Security for Java are vulnerable to private key disclosure,https://github.com/advisories/GHSA-xfrj-6vvc-3xm2,https://da.gd/ucWOlI
+GithubAdvisories,[GHSA-3fwq-qv5v-2wxf] Path Traversal in web-node-server,https://github.com/advisories/GHSA-3fwq-qv5v-2wxf,https://da.gd/N2SLg
+GithubAdvisories,[GHSA-6hv3-9fqx-8pg5] CImage Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-6hv3-9fqx-8pg5,https://da.gd/92TdO
+GithubAdvisories,[GHSA-cp2p-6xh4-jmcp] nterchange Code Injection vulnerability,https://github.com/advisories/GHSA-cp2p-6xh4-jmcp,https://da.gd/03UsTy
+GithubAdvisories,[GHSA-cgf8-h3fp-h956] Pleaser privilege escalation vulnerability,https://github.com/advisories/GHSA-cgf8-h3fp-h956,https://da.gd/M4je
+GithubAdvisories,[GHSA-wvr2-q86m-6whp] Baobab vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-wvr2-q86m-6whp,https://da.gd/G1UHI
+GithubAdvisories,[GHSA-432f-967f-vxg4] Evolution CMS Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-432f-967f-vxg4,https://da.gd/c2CJEI
+GithubAdvisories,[GHSA-mjgw-f2c4-f8qj] WebPA SQL Injection vulnerability,https://github.com/advisories/GHSA-mjgw-f2c4-f8qj,https://da.gd/7ddNAY
+GithubAdvisories,[GHSA-643f-hpcc-2gv8] Yamcs Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-643f-hpcc-2gv8,https://da.gd/mZ8G
+GithubAdvisories,[GHSA-4cqv-q33x-wfxw] Yamcs Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-4cqv-q33x-wfxw,https://da.gd/vOG4w
+GithubAdvisories,[GHSA-v9vj-9pxv-mr2w] mycli has Inadequate Encryption Strength,https://github.com/advisories/GHSA-v9vj-9pxv-mr2w,https://da.gd/kLcf
