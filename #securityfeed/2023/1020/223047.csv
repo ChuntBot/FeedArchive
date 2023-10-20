@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8ph8-9q2j-c3rq] nodebatis SQL Injection vulnerability,https://github.com/advisories/GHSA-8ph8-9q2j-c3rq,https://da.gd/FTO1p
+GithubAdvisories,[GHSA-jjvp-wfp8-rv69] globalpom-utils has Insecure Temporary File,https://github.com/advisories/GHSA-jjvp-wfp8-rv69,https://da.gd/R8nIuT
+GithubAdvisories,[GHSA-wg99-5vrx-j2gg] bonita-connector-webservice XML External Entity vulnerability,https://github.com/advisories/GHSA-wg99-5vrx-j2gg,https://da.gd/MTarZL
+GithubAdvisories,[GHSA-g4r8-28fp-f255] aXMLRPC XML External Entity vulnerability,https://github.com/advisories/GHSA-g4r8-28fp-f255,https://da.gd/H11o
+GithubAdvisories,[GHSA-646r-8fcc-p82r] Subrion CMS vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-646r-8fcc-p82r,https://da.gd/69NCsX
+GithubAdvisories,[GHSA-vq8w-x8v7-f88m] LdapCherry Cross-site Scripting vulnerbaility,https://github.com/advisories/GHSA-vq8w-x8v7-f88m,https://da.gd/r4SzJC
+GithubAdvisories,[GHSA-5h47-9rm5-fx3f] Evolution CMS Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-5h47-9rm5-fx3f,https://da.gd/sTh2
+GithubAdvisories,[GHSA-64wv-c7jw-jw2q] Xataface vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-64wv-c7jw-jw2q,https://da.gd/pSIu0
+GithubAdvisories,[GHSA-cf5r-3pvm-w64w] typo3-appointments vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-cf5r-3pvm-w64w,https://da.gd/ZjPr
+GithubAdvisories,[GHSA-rxrc-rgv4-jpvx] React Developer Tools extension Improper Authorization vulnerability,https://github.com/advisories/GHSA-rxrc-rgv4-jpvx,https://da.gd/w9ah
