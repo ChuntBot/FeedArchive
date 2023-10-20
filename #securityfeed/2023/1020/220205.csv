@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pjx4-3f3p-29v3] django-ucamlookup Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-pjx4-3f3p-29v3,https://da.gd/GdByK
+GithubAdvisories,[GHSA-w9mr-4mfr-499f] Vercel ms Inefficient Regular Expression Complexity vulnerability,https://github.com/advisories/GHSA-w9mr-4mfr-499f,https://da.gd/4mzHD
+GithubAdvisories,[GHSA-fr54-72wr-cqvq] express-param vulnerable to Improper Handling of Extra Parameters,https://github.com/advisories/GHSA-fr54-72wr-cqvq,https://da.gd/qE7l
+GithubAdvisories,[GHSA-77cc-w3wm-6whp] dssp vulnerable to Improper Restriction of XML External Entity Reference,https://github.com/advisories/GHSA-77cc-w3wm-6whp,https://da.gd/eTmD
+GithubAdvisories,[GHSA-wm32-3r4m-jvcc] Symbiote Seed Open Redirect vulnerability,https://github.com/advisories/GHSA-wm32-3r4m-jvcc,https://da.gd/f0jUR
+GithubAdvisories,[GHSA-j82x-fh8h-326g] Yii2 FileAPI Widget vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-j82x-fh8h-326g,https://da.gd/ym9irb
