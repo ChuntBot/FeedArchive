@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6q3p-fp6h-p9j2] Malware in proofing,https://github.com/advisories/GHSA-6q3p-fp6h-p9j2,https://da.gd/KrbY
+GithubAdvisories,[GHSA-rjxg-rpg3-9r89] Fides Information Disclosure Vulnerability in Config API Endpoint,https://github.com/advisories/GHSA-rjxg-rpg3-9r89,https://da.gd/boVB
+GithubAdvisories,[GHSA-jq3w-9mgf-43m4] Fides Server-Side Request Forgery Vulnerability in Custom Integration Upload,https://github.com/advisories/GHSA-jq3w-9mgf-43m4,https://da.gd/zdkJP
