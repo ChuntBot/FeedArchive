@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4r5x-x283-wm96] Jumpserver Koko vulnerable to remote code execution on the host system via MongoDB shell,https://github.com/advisories/GHSA-4r5x-x283-wm96,https://da.gd/OVEcF
