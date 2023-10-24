@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3px7-jm2p-6h2c] encoded_id-rails potential DOS vulnerability due to URIs with extremely long encoded IDs,https://github.com/advisories/GHSA-3px7-jm2p-6h2c,https://da.gd/KuUTP
+GithubAdvisories,[GHSA-cqvv-r3g3-26rf] free5GC udm vulnerable to Invalid Curve Attack,https://github.com/advisories/GHSA-cqvv-r3g3-26rf,https://da.gd/M8taM
+GithubAdvisories,[GHSA-h9mw-grgx-2fhf] sbt vulnerable to arbitrary file write via archive extraction (Zip Slip),https://github.com/advisories/GHSA-h9mw-grgx-2fhf,https://da.gd/AwYxkB
+GithubAdvisories,[GHSA-mm8h-8587-p46h] RabbitMQ Java client's Lack of Message Size Limitation leads to Remote DoS Attack,https://github.com/advisories/GHSA-mm8h-8587-p46h,https://da.gd/9Ovee
+GithubAdvisories,[GHSA-9x43-5qcq-h79q] in django-grappelli,https://github.com/advisories/GHSA-9x43-5qcq-h79q,https://da.gd/28z9
+GithubAdvisories,[GHSA-h454-rq3m-89rc] Wagtail CRX CodeRed Extensions vulnerable to Path Traversal,https://github.com/advisories/GHSA-h454-rq3m-89rc,https://da.gd/D8jG4g
+GithubAdvisories,[GHSA-8h5w-f6q9-wg35] Langchain SQL Injection vulnerability,https://github.com/advisories/GHSA-8h5w-f6q9-wg35,https://da.gd/CNfsb
