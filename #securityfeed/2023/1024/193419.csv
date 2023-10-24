@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r2hw-74xv-4gqp] Nautobot vulnerable to exposure of hashed user passwords via REST API,https://github.com/advisories/GHSA-r2hw-74xv-4gqp,https://da.gd/Z2A8s
+GithubAdvisories,"[GHSA-6878-6wc2-pf5h] Sequential calls of encryption API (`encrypt`, `wrap`, and `dump`) result in nonce reuse",https://github.com/advisories/GHSA-6878-6wc2-pf5h,https://da.gd/7mNAg
+GithubAdvisories,[GHSA-4qv6-37xq-mgq2] Concrete CMS Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-4qv6-37xq-mgq2,https://da.gd/hwKxA
+GithubAdvisories,[GHSA-5pr3-m5hm-9956] WPS Server Side Request Forgery vulnerability,https://github.com/advisories/GHSA-5pr3-m5hm-9956,https://da.gd/XZBM57
+GithubAdvisories,[GHSA-cqpc-x2c6-2gmf] Unsecured WMS dynamic styling sld= parameter affords blind unauthenticated SSRF,https://github.com/advisories/GHSA-cqpc-x2c6-2gmf,https://da.gd/2VexR
+GithubAdvisories,[GHSA-c59h-r6p8-q9wc] Next.js missing cache-control header may lead to CDN caching empty reply,https://github.com/advisories/GHSA-c59h-r6p8-q9wc,https://da.gd/XhP1Hh
