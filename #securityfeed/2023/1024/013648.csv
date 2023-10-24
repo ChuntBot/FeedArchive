@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6h8p-4hx9-w66c] Langchain Server-Side Request Forgery vulnerability,https://github.com/advisories/GHSA-6h8p-4hx9-w66c,https://da.gd/Mx4PA
+GithubAdvisories,[GHSA-792q-q67h-w579] Parse Server may crash when uploading file without extension,https://github.com/advisories/GHSA-792q-q67h-w579,https://da.gd/rNyh
