@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gr82-8fj2-ggc3] XWiki Platform XSS vulnerability from account in the create page form via template provider,https://github.com/advisories/GHSA-gr82-8fj2-ggc3,https://da.gd/a9qdO6
+GithubAdvisories,[GHSA-vcvr-v426-3m3m] org.xwiki.platform:xwiki-platform-office-importer vulnerable to arbitrary server side file writing from account through office converter,https://github.com/advisories/GHSA-vcvr-v426-3m3m,https://da.gd/5HB8
+GithubAdvisories,[GHSA-35j5-m29r-xfq5] XWiki Rendering's footnote macro vulnerable to privilege escalation via the footnote macro,https://github.com/advisories/GHSA-35j5-m29r-xfq5,https://da.gd/1gS0f
+GithubAdvisories,[GHSA-gh64-qxh5-4m33] org.xwiki.platform:xwiki-platform-oldcore may leak data through deleted and re-created documents,https://github.com/advisories/GHSA-gh64-qxh5-4m33,https://da.gd/HPq37a
+GithubAdvisories,[GHSA-rwwx-6572-mp29] org.xwiki.platform:xwiki-platform-attachment-api vulnerable to Missing Authorization on Attachment Move,https://github.com/advisories/GHSA-rwwx-6572-mp29,https://da.gd/peoB
+GithubAdvisories,[GHSA-v2rr-xw95-wcjx] Privilege escalation (PR)/remote code execution from account through Menu.UIExtensionSheet,https://github.com/advisories/GHSA-v2rr-xw95-wcjx,https://da.gd/veexF
+GithubAdvisories,[GHSA-663w-2xp3-5739] org.xwiki.rendering:xwiki-rendering-xml Improper Neutralization of Invalid Characters in Identifiers in Web Pages vulnerability,https://github.com/advisories/GHSA-663w-2xp3-5739,https://da.gd/XG93
