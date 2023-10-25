@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r798-qx7r-v3gw] Jenkins Octopus Deploy Plugin stores credentials in plain text,https://github.com/advisories/GHSA-r798-qx7r-v3gw,https://da.gd/UL1Cu7
+GithubAdvisories,[GHSA-3j3v-7f8f-v2xp] Jenkins Aqua Security Scanner Plugin stores credentials in plain text,https://github.com/advisories/GHSA-3j3v-7f8f-v2xp,https://da.gd/WUpn
+GithubAdvisories,[GHSA-2mh9-wpgv-7xr8] Jenkins Cloud Foundry Plugin vulnerable to exposure of sensitive information,https://github.com/advisories/GHSA-2mh9-wpgv-7xr8,https://da.gd/E0LhK
+GithubAdvisories,[GHSA-23h9-m55m-c5jp] Jenkins Token Macro Plugin's recursive token expansion results in information disclosure and DoS,https://github.com/advisories/GHSA-23h9-m55m-c5jp,https://da.gd/tD40a0
+GithubAdvisories,[GHSA-jgpm-2862-q5m8] Jenkins Script Security Plugin sandbox bypass vulnerability,https://github.com/advisories/GHSA-jgpm-2862-q5m8,https://da.gd/4kxpJ
