@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-57ww-2cvr-wv38] Jenkins Job Import Plugin vulnerable to exposure of sensitive information,https://github.com/advisories/GHSA-57ww-2cvr-wv38,https://da.gd/acCna
+GithubAdvisories,[GHSA-whf8-3h58-2w9f] Jenkins Warnings Next Generation Plugin cross-site request forgery vulnerability,https://github.com/advisories/GHSA-whf8-3h58-2w9f,https://da.gd/K3un9
+GithubAdvisories,[GHSA-mmqx-g78c-hvfj] Jenkins AppDynamics Dashboard Plugin has insufficiently protected credentials,https://github.com/advisories/GHSA-mmqx-g78c-hvfj,https://da.gd/LZD3nD
