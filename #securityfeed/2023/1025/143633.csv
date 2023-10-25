@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hrfv-mqp8-q5rw] Werkzeug DoS: High resource usage when parsing multipart/form-data containing a large part with CR/LF character at the beginning,https://github.com/advisories/GHSA-hrfv-mqp8-q5rw,https://da.gd/7vhsJ8
+GithubAdvisories,[GHSA-jq6c-r9xf-qxjm] dtale vulnerable to Remote Code Execution through the Custom Filter Input,https://github.com/advisories/GHSA-jq6c-r9xf-qxjm,https://da.gd/1M6mrb
+GithubAdvisories,[GHSA-5873-6fwq-463f] stellar-strkey vulnerable to panic in SignedPayload::from_payload,https://github.com/advisories/GHSA-5873-6fwq-463f,https://da.gd/EGgCg
