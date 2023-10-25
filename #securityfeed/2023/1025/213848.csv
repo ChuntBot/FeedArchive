@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-99jc-v8pq-6qm4] Jenkins Repository Connector Plugin has insufficiently protected credentials,https://github.com/advisories/GHSA-99jc-v8pq-6qm4,https://da.gd/VnJp8X
+GithubAdvisories,[GHSA-x6jx-cxg3-mggh] Jenkins Pipeline Declarative Plugin sandbox bypass vulnerability,https://github.com/advisories/GHSA-x6jx-cxg3-mggh,https://da.gd/LZBRJ
+GithubAdvisories,[GHSA-m425-mq94-257g] gRPC-Go HTTP/2 Rapid Reset vulnerability,https://github.com/advisories/GHSA-m425-mq94-257g,https://da.gd/DPdac
+GithubAdvisories,"[GHSA-xwcq-pm8m-c4vf] crypto-js PBKDF2 1,000 times weaker than specified in 1993 and 1.3M times weaker than current standard",https://github.com/advisories/GHSA-xwcq-pm8m-c4vf,https://da.gd/OIswl
+GithubAdvisories,[GHSA-xc8x-vp79-p3wm] twisted.web has disordered HTTP pipeline response,https://github.com/advisories/GHSA-xc8x-vp79-p3wm,https://da.gd/TyXuF9
+GithubAdvisories,"[GHSA-mpj8-q39x-wq5h] crypto-es PBKDF2 1,000 times weaker than specified in 1993 and 1.3M times weaker than current standard",https://github.com/advisories/GHSA-mpj8-q39x-wq5h,https://da.gd/HGBQFr
+GithubAdvisories,[GHSA-93gh-jgjj-r929] XWiki Platform vulnerable to XSS with edit right in the create document form for existing pages,https://github.com/advisories/GHSA-93gh-jgjj-r929,https://da.gd/71ZDS2
+GithubAdvisories,[GHSA-qcj9-gcpg-4w2w] XWiki Platform web templates vulnerable to reflected XSS in the create document form if name validation is enabled,https://github.com/advisories/GHSA-qcj9-gcpg-4w2w,https://da.gd/TIXEoU
+GithubAdvisories,[GHSA-ghf6-2f42-mjh9] XWiki users can be tricked to execute scripts as the create page action doesn't display the page's title,https://github.com/advisories/GHSA-ghf6-2f42-mjh9,https://da.gd/0KBul
