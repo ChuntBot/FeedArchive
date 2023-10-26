@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wrgw-v987-5qmw] Jenkins CloudShare Docker-Machine Plugin stores credentials in plain text,https://github.com/advisories/GHSA-wrgw-v987-5qmw,https://da.gd/iuqNj
+GithubAdvisories,[GHSA-7h99-vjmf-5pg8] Jenkins VMware vRealize Automation Plugin Missing Encryption of Sensitive Data,https://github.com/advisories/GHSA-7h99-vjmf-5pg8,https://da.gd/ENgZ
+GithubAdvisories,[GHSA-xjrr-5jpv-v6mw] Jenkins CloudFormation Plugin stores credentials in plain text,https://github.com/advisories/GHSA-xjrr-5jpv-v6mw,https://da.gd/96V7BR
+GithubAdvisories,[GHSA-p6qr-286g-79rv] Jenkins Jira Issue Updater Plugin stores credentials in plain text,https://github.com/advisories/GHSA-p6qr-286g-79rv,https://da.gd/Wjsqp
+GithubAdvisories,[GHSA-rqf2-4ggc-c74w] Jenkins WebSphere Deployer Plugin stores credentials in plain text,https://github.com/advisories/GHSA-rqf2-4ggc-c74w,https://da.gd/r2E7i
+GithubAdvisories,[GHSA-84p4-7mxc-7phj] Jenkins Amazon SNS Build Notifier Plugin stores credentials in plain text,https://github.com/advisories/GHSA-84p4-7mxc-7phj,https://da.gd/I9bJUB
+GithubAdvisories,[GHSA-vrv9-ccj3-g284] Jenkins IRC Plugin stores credentials in plain text,https://github.com/advisories/GHSA-vrv9-ccj3-g284,https://da.gd/dfUHKf
