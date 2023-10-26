@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w898-3ph8-5pgm] Jenkins Self-Organizing Swarm Plug-in Modules Plugin XXE vulnerability via UDP broadcast response,https://github.com/advisories/GHSA-w898-3ph8-5pgm,https://da.gd/nPZ43N
+GithubAdvisories,[GHSA-3v9f-4vff-rx42] Jenkins Static Analysis Utilities Plugin is vulnerable to Cross-site request forgery vulnerability,https://github.com/advisories/GHSA-3v9f-4vff-rx42,https://da.gd/grJ8Rj
+GithubAdvisories,[GHSA-2j3r-x6xc-qqqj] Credential stored in plain text by BMC Release Package and Deployment Plugin,https://github.com/advisories/GHSA-2j3r-x6xc-qqqj,https://da.gd/Z2ngv
+GithubAdvisories,[GHSA-8g6v-g8qc-5w7j] Token stored in plain text by DigitalOcean Plugin,https://github.com/advisories/GHSA-8g6v-g8qc-5w7j,https://da.gd/JrAzY2
