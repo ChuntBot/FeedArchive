@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3m8w-442m-3p2q] Jenkins Artifactory Plugin missing permission check,https://github.com/advisories/GHSA-3m8w-442m-3p2q,https://da.gd/MfFzaQ
+GithubAdvisories,[GHSA-gxm5-jrrf-5c4v] Jenkins Artifactory Plugin missing permission check,https://github.com/advisories/GHSA-gxm5-jrrf-5c4v,https://da.gd/Y95US
+GithubAdvisories,[GHSA-8q6r-5hc6-hrr8] Jenkins Artifactory Plugin cross-site request forgery vulnerability,https://github.com/advisories/GHSA-8q6r-5hc6-hrr8,https://da.gd/DGT9
+GithubAdvisories,[GHSA-jcwj-j574-8j2c] Jenkins Azure AD Plugin stored the client secret unencrypted,https://github.com/advisories/GHSA-jcwj-j574-8j2c,https://da.gd/nQIN
+GithubAdvisories,[GHSA-gg8r-24qm-qfch] Jenkins Aqua MicroScanner Plugin stored credentials in plain text,https://github.com/advisories/GHSA-gg8r-24qm-qfch,https://da.gd/t7ULL
+GithubAdvisories,[GHSA-23c2-w636-5rhm] Jenkins SiteMonitor Plugin globally and unconditionally disables SSL/TLS certificate validation,https://github.com/advisories/GHSA-23c2-w636-5rhm,https://da.gd/8GOo
+GithubAdvisories,[GHSA-phwv-crgp-9r69] Jenkins GitHub Authentication Plugin Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-phwv-crgp-9r69,https://da.gd/4n4Jn
+GithubAdvisories,[GHSA-j365-62px-vjjv] Jenkins GitLab Plugin Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-j365-62px-vjjv,https://da.gd/vIs2QT
+GithubAdvisories,[GHSA-pc24-753j-gmqf] Jenkins Ansible Tower Plugin missing permission check,https://github.com/advisories/GHSA-pc24-753j-gmqf,https://da.gd/IehPU
+GithubAdvisories,[GHSA-x2cx-h7w4-q6x7] Jenkins Twitter Plugin stores credentials in plain text,https://github.com/advisories/GHSA-x2cx-h7w4-q6x7,https://da.gd/uDM4v
+GithubAdvisories,[GHSA-qhhj-7hrc-gqj5] Home Assistant vulnerable to account takeover via auth_callback login,https://github.com/advisories/GHSA-qhhj-7hrc-gqj5,https://da.gd/cw99
+GithubAdvisories,[GHSA-vrvm-459q-j824] Jenkins Ansible Tower Plugin cross-site request forgery vulnerability,https://github.com/advisories/GHSA-vrvm-459q-j824,https://da.gd/QvlC
