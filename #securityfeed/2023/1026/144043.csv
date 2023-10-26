@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9fpq-v2p3-w63j] Jenkins Relution Enterprise Appstore Publisher Plugin stores credentials in plain text,https://github.com/advisories/GHSA-9fpq-v2p3-w63j,https://da.gd/fbtW
+GithubAdvisories,[GHSA-22xp-7rcx-xp34] Jenkins Slack Notification Plugin missing permission check,https://github.com/advisories/GHSA-22xp-7rcx-xp34,https://da.gd/YA1ywL
+GithubAdvisories,[GHSA-mxmw-6qgj-h67x] Jenkins PRQA Plugin stored password in plain text,https://github.com/advisories/GHSA-mxmw-6qgj-h67x,https://da.gd/8ZB7J
+GithubAdvisories,[GHSA-7mfp-938r-fcfj] Jenkins hyper.sh Commons Plugin stores credentials in plain text,https://github.com/advisories/GHSA-7mfp-938r-fcfj,https://da.gd/5ugjKn
+GithubAdvisories,[GHSA-8j62-29jg-6hj6] Jenkins wildFly Deployer Plugin stores credentials in plain text,https://github.com/advisories/GHSA-8j62-29jg-6hj6,https://da.gd/Mlh7z
+GithubAdvisories,[GHSA-vv6p-63g8-m8fw] Jenkins Audit to Database Plugin stores credentials in plain text,https://github.com/advisories/GHSA-vv6p-63g8-m8fw,https://da.gd/3Ayd
+GithubAdvisories,[GHSA-5722-v5wc-x7h8] Jenkins veracode-scanner Plugin stores credentials in plain text,https://github.com/advisories/GHSA-5722-v5wc-x7h8,https://da.gd/bovNn
