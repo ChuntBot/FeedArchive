@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vjr6-cq22-m4q5] Jenkins AWS Elastic Beanstalk Publisher Plugin stores credentials in plain text,https://github.com/advisories/GHSA-vjr6-cq22-m4q5,https://da.gd/Q7abM
+GithubAdvisories,[GHSA-7jx8-244g-jfpx] Jenkins OWASP ZAP Plugin stores unencrypted credentials,https://github.com/advisories/GHSA-7jx8-244g-jfpx,https://da.gd/5pBd9
