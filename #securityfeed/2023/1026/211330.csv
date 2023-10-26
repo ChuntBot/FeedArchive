@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-grpp-gx5h-pvh8] Jenkins XebiaLabs XL Deploy Plugin vulnerable to Cross-site request forgery (CSRF),https://github.com/advisories/GHSA-grpp-gx5h-pvh8,https://da.gd/co0U
+GithubAdvisories,[GHSA-rfc8-wrrf-wp3w] Jenkins Azure PublisherSettings Credentials Plugin stored credentials in plain text,https://github.com/advisories/GHSA-rfc8-wrrf-wp3w,https://da.gd/zksvj
+GithubAdvisories,[GHSA-923w-9p3x-hmgw] Jenkins GitLab Plugin missing permission checks,https://github.com/advisories/GHSA-923w-9p3x-hmgw,https://da.gd/bs6JCX
+GithubAdvisories,[GHSA-pxgr-rc8g-pj7r] Jenkins crittercism-dsym Plugin stores API key in plain text,https://github.com/advisories/GHSA-pxgr-rc8g-pj7r,https://da.gd/Roqu
+GithubAdvisories,[GHSA-m7q8-8g56-m78w] Jenkins Netsparker Enterprise Scan Plugin stored credentials in plain text,https://github.com/advisories/GHSA-m7q8-8g56-m78w,https://da.gd/7NKCt
+GithubAdvisories,[GHSA-x9w5-v3q2-3rhw] browserify-sign upper bound check issue in `dsaVerify` leads to a signature forgery attack,https://github.com/advisories/GHSA-x9w5-v3q2-3rhw,https://da.gd/oux8N
+GithubAdvisories,[GHSA-vrm6-c878-fpq6] baserCMS Code Injection Vulnerability in Mail Form Feature,https://github.com/advisories/GHSA-vrm6-c878-fpq6,https://da.gd/0ymmL
+GithubAdvisories,[GHSA-fw9x-cqjq-7jx5] baserCMS CSRF vulnerability in Content preview Feature,https://github.com/advisories/GHSA-fw9x-cqjq-7jx5,https://da.gd/ym4g1
+GithubAdvisories,[GHSA-hmqj-gv2m-hq55] baserCMS Directory Traversal vulnerability in Form submission data management Feature,https://github.com/advisories/GHSA-hmqj-gv2m-hq55,https://da.gd/GXUfV
+GithubAdvisories,[GHSA-ggj4-78rm-6xgv] baserCMS Cross-site Scripting vulnerability in File upload Feature,https://github.com/advisories/GHSA-ggj4-78rm-6xgv,https://da.gd/8a6Y
+GithubAdvisories,[GHSA-8vqx-prq4-rqrq] baserCMS Cross-site Scripting Vulnerability in Favorites Feature,https://github.com/advisories/GHSA-8vqx-prq4-rqrq,https://da.gd/PMgNyK
