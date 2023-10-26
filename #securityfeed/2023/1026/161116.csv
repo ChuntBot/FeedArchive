@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jvr5-r663-qxgw] Jenkins Sametime Plugin stores credentials in plain text,https://github.com/advisories/GHSA-jvr5-r663-qxgw,https://da.gd/bDToM
+GithubAdvisories,[GHSA-x464-r7f4-gj3m] Jenkins Koji Plugin stores credentials in plain text,https://github.com/advisories/GHSA-x464-r7f4-gj3m,https://da.gd/zgr67v
+GithubAdvisories,[GHSA-7hf6-hggp-vvp9] Jenkins CloudCoreo DeployTime Plugin stores credentials in plain text,https://github.com/advisories/GHSA-7hf6-hggp-vvp9,https://da.gd/ow11sS
