@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-phwr-pmh3-m8g2] Jenkins aws-device-farm Plugin stores credentials in plain text,https://github.com/advisories/GHSA-phwr-pmh3-m8g2,https://da.gd/mxpAD0
+GithubAdvisories,[GHSA-m34r-f7h6-c3j2] Jenkins AWS CloudWatch Logs Publisher Plugin stores credentials in plain text,https://github.com/advisories/GHSA-m34r-f7h6-c3j2,https://da.gd/AZqX6c
+GithubAdvisories,[GHSA-rpx6-hp2h-gww4] Jenkins Bugzilla Plugin stores credentials in plain text,https://github.com/advisories/GHSA-rpx6-hp2h-gww4,https://da.gd/6DjFwB
+GithubAdvisories,[GHSA-577w-62cp-f67h] Jenkins Trac Publisher Plugin stores credentials in plain text,https://github.com/advisories/GHSA-577w-62cp-f67h,https://da.gd/qCMc
+GithubAdvisories,[GHSA-4cxr-4vwc-6pg7] Jenkins Bitbucket Approve Plugin stores credentials in plain text,https://github.com/advisories/GHSA-4cxr-4vwc-6pg7,https://da.gd/DMyoA8
