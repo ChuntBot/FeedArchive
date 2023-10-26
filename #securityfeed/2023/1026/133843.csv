@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cwqv-4cf2-5vfj] Jenkins FTP publisher Plugin stores credentials in plain text,https://github.com/advisories/GHSA-cwqv-4cf2-5vfj,https://da.gd/3pXcz
