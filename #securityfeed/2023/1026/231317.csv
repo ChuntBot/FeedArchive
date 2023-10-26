@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w6rp-vxj2-fjhr] Cosmos packet-forward-middleware vulnerable to chain-halt,https://github.com/advisories/GHSA-w6rp-vxj2-fjhr,https://da.gd/cv8bzZ
+GithubAdvisories,[GHSA-4c2w-wcw4-8jv9] Jenkins Rundeck Plugin CSRF vulnerability,https://github.com/advisories/GHSA-4c2w-wcw4-8jv9,https://da.gd/5sufwk
+GithubAdvisories,[GHSA-5rc5-4c5c-4cwx] Jenkins View26 Test-Reporting Plugin stores access token in plain text,https://github.com/advisories/GHSA-5rc5-4c5c-4cwx,https://da.gd/lwmQX
+GithubAdvisories,[GHSA-qgp8-h5cp-r75r] Jenkins Bumblebee HP ALM Plugin unconditionally disabled SSL/TLS certificate validation,https://github.com/advisories/GHSA-qgp8-h5cp-r75r,https://da.gd/3c55C9
+GithubAdvisories,[GHSA-pxv2-mfq7-vhp6] Jenkins Inedo BuildMaster Plugin showed plain text password in configuration form,https://github.com/advisories/GHSA-pxv2-mfq7-vhp6,https://da.gd/mYGsi
+GithubAdvisories,[GHSA-cjr8-5rw4-wh65] Jenkins Splunk Plugin Sandbox Bypass,https://github.com/advisories/GHSA-cjr8-5rw4-wh65,https://da.gd/c3eBFC
+GithubAdvisories,[GHSA-87hx-q65g-r35x] Jenkins JClouds Plugin cross-site request forgery vulnerability,https://github.com/advisories/GHSA-87hx-q65g-r35x,https://da.gd/5oAH
+GithubAdvisories,[GHSA-x7p9-vx6v-wv84] Jenkins Simple Travis Pipeline Runner Plugin script sandbox bypass vulnerability,https://github.com/advisories/GHSA-x7p9-vx6v-wv84,https://da.gd/m5D8hG
+GithubAdvisories,[GHSA-qcfr-65hf-f98x] Jenkins TestLink Plugin stores credentials in plain text,https://github.com/advisories/GHSA-qcfr-65hf-f98x,https://da.gd/6zkTn
+GithubAdvisories,[GHSA-7wxc-7qrg-rg6w] Jenkins JClouds Plugin missing permission check,https://github.com/advisories/GHSA-7wxc-7qrg-rg6w,https://da.gd/6Uo0
+GithubAdvisories,[GHSA-q736-rgcp-q443] Jenkins Gogs Plugin stored credentials in plain text,https://github.com/advisories/GHSA-q736-rgcp-q443,https://da.gd/2H7DGx
+GithubAdvisories,[GHSA-w7fv-7j46-wwrv] Jenkins Amazon EC2 Plugin leaked beginning of private key in system log,https://github.com/advisories/GHSA-w7fv-7j46-wwrv,https://da.gd/CCvdrL
+GithubAdvisories,[GHSA-vwx8-qpqh-qwm9] Jenkins Maven Release Plug-in Plugin stored credentials in plain text,https://github.com/advisories/GHSA-vwx8-qpqh-qwm9,https://da.gd/ZZnFTb
+GithubAdvisories,[GHSA-3frc-879c-j9h5] Jenkins Caliper CI Plugin stores credentials in plain text,https://github.com/advisories/GHSA-3frc-879c-j9h5,https://da.gd/6O00EA
