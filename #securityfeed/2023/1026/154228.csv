@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cc7j-xx7q-fr34] Jenkins Jabber Server Plugin stores credentials in plain text,https://github.com/advisories/GHSA-cc7j-xx7q-fr34,https://da.gd/s2ZwG
+GithubAdvisories,[GHSA-c7p6-x2p3-3wph] Jenkins youtrack-plugin Plugin stored credentials in plain text,https://github.com/advisories/GHSA-c7p6-x2p3-3wph,https://da.gd/G9w9
+GithubAdvisories,[GHSA-ph9f-h462-j5jg] Jenkins Diawi Upload Plugin stores credentials in plain text,https://github.com/advisories/GHSA-ph9f-h462-j5jg,https://da.gd/xK0OJM
+GithubAdvisories,[GHSA-55f8-m8w5-fmq8] Jenkins Minio Storage Plugin stores credentials in plain text,https://github.com/advisories/GHSA-55f8-m8w5-fmq8,https://da.gd/r3VA5
+GithubAdvisories,[GHSA-9m3c-xfhf-53mh] Jenkins DeployHub Plugin stores credentials in plain text,https://github.com/advisories/GHSA-9m3c-xfhf-53mh,https://da.gd/ABcOL
+GithubAdvisories,[GHSA-hmf2-prm5-rvxm] Jenkins mabl Plugin stores credentials in plain text,https://github.com/advisories/GHSA-hmf2-prm5-rvxm,https://da.gd/rDcm
+GithubAdvisories,[GHSA-cr98-64h9-g8cg] Jenkins Klaros-Testmanagement Plugin stores credentials in plain text,https://github.com/advisories/GHSA-cr98-64h9-g8cg,https://da.gd/O1Z86j
