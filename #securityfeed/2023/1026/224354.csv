@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5hhg-q22c-6g39] Jenkins Port Allocator Plugin stores credentials in plain text,https://github.com/advisories/GHSA-5hhg-q22c-6g39,https://da.gd/tjq1
+GithubAdvisories,[GHSA-76x4-hr82-cg3m] Jenkins ElectricFlow Plugin cross-site request forgery vulnerability,https://github.com/advisories/GHSA-76x4-hr82-cg3m,https://da.gd/evJnS
+GithubAdvisories,[GHSA-xqqr-mq8x-22qx] Jenkins JX Resources Plugin missing permission check,https://github.com/advisories/GHSA-xqqr-mq8x-22qx,https://da.gd/Z5nNIF
+GithubAdvisories,[GHSA-qww5-p626-rfpf] Jenkins JX Resources Plugin cross-site request forgery vulnerability,https://github.com/advisories/GHSA-qww5-p626-rfpf,https://da.gd/Eqxnd
+GithubAdvisories,[GHSA-w3pj-v9jr-v2wc] Jenkins ElectricFlow Plugin is vulnerable to reflected cross site scripting vulnerability,https://github.com/advisories/GHSA-w3pj-v9jr-v2wc,https://da.gd/Z7kQ
+GithubAdvisories,[GHSA-fx9p-2qvx-pgjv] Jenkins ElectricFlow Plugin is vulnerable to stored cross site scripting vulnerability,https://github.com/advisories/GHSA-fx9p-2qvx-pgjv,https://da.gd/vvBN7z
+GithubAdvisories,[GHSA-xmqv-pfw7-qmj7] Jenkins ElectricFlow Plugin globally and unconditionally disabled SSL/TLS certificate validation,https://github.com/advisories/GHSA-xmqv-pfw7-qmj7,https://da.gd/GMV9vo
+GithubAdvisories,[GHSA-m8f2-9282-x38v] Jenkins ElectricFlow Plugin Missing permission checks,https://github.com/advisories/GHSA-m8f2-9282-x38v,https://da.gd/w6Fvu
+GithubAdvisories,[GHSA-66r6-rvv9-9x6m] Jenkins ElectricFlow Plugin missing permission check,https://github.com/advisories/GHSA-66r6-rvv9-9x6m,https://da.gd/DDHSG
+GithubAdvisories,[GHSA-3qf7-9xhj-qcfj] Jenkins Koji Plugin globally and unconditionally disables SSL/TLS certificate validation,https://github.com/advisories/GHSA-3qf7-9xhj-qcfj,https://da.gd/bZ2V
