@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fgq9-fc3q-vqmw] dom4j XML Entity Expansion vulnerability,https://github.com/advisories/GHSA-fgq9-fc3q-vqmw,https://da.gd/cBJKX2
+GithubAdvisories,[GHSA-54f6-9mx9-86f7] SaToken privilege escalation vulnerability,https://github.com/advisories/GHSA-54f6-9mx9-86f7,https://da.gd/rHzC5
+GithubAdvisories,[GHSA-w9vh-hv5g-7wmr] SaToken authentication bypass vulnerability,https://github.com/advisories/GHSA-w9vh-hv5g-7wmr,https://da.gd/iPuxs
