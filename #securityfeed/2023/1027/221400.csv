@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7c2q-5qmr-v76q] DoS vulnerabilities persist in ESAPI file uploads despite remediation of CVE-2023-24998,https://github.com/advisories/GHSA-7c2q-5qmr-v76q,https://da.gd/0zmYOc
