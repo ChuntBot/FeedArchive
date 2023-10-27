@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7g24-qg88-p43q] jose4j uses weak cryptographic algorithm,https://github.com/advisories/GHSA-7g24-qg88-p43q,https://da.gd/yAMuA
+GithubAdvisories,[GHSA-3j2f-58rq-g6p7] Sureness uses hardcoded key,https://github.com/advisories/GHSA-3j2f-58rq-g6p7,https://da.gd/W2Ut
+GithubAdvisories,[GHSA-mx47-h5fv-ghwh] light-oauth2 missing public key verification,https://github.com/advisories/GHSA-mx47-h5fv-ghwh,https://da.gd/1Z3u
