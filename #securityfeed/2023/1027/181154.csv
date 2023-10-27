@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wj24-xmc5-hjw4] Jenkins Team Concert Plugin missing permission check,https://github.com/advisories/GHSA-wj24-xmc5-hjw4,https://da.gd/SV4yiH
+GithubAdvisories,[GHSA-c998-c4f6-vjw2] Jenkins Team Concert Plugin missing permission check,https://github.com/advisories/GHSA-c998-c4f6-vjw2,https://da.gd/sNuN
+GithubAdvisories,[GHSA-9h9v-rfh6-jf3w] Jenkins Team Concert Plugin cross-site request forgery vulnerability,https://github.com/advisories/GHSA-9h9v-rfh6-jf3w,https://da.gd/VAh3kB
+GithubAdvisories,[GHSA-mxf8-grm7-mvqw] Jenkins WebSphere Deployer Plugin missing permission check,https://github.com/advisories/GHSA-mxf8-grm7-mvqw,https://da.gd/vXvf6w
+GithubAdvisories,[GHSA-7mf5-79gv-66gh] Jenkins Maven Release Plug-in Plugin XXE vulnerability,https://github.com/advisories/GHSA-7mf5-79gv-66gh,https://da.gd/Vh5E
+GithubAdvisories,[GHSA-8mjp-8c2x-3g7w] Jenkins QMetry for JIRA Plugin stored credentials in plain text,https://github.com/advisories/GHSA-8mjp-8c2x-3g7w,https://da.gd/GsQv1B
