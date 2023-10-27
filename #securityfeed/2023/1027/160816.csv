@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2cxg-448h-4wxj] Jenkins Support Core Plugin allowed users with Overall/Read permission to delete arbitrary files,https://github.com/advisories/GHSA-2cxg-448h-4wxj,https://da.gd/Beh3d2
+GithubAdvisories,[GHSA-24w5-w6fw-qqx7] Jenkins Global Post Script Plugin missing permission check,https://github.com/advisories/GHSA-24w5-w6fw-qqx7,https://da.gd/pIIakC
+GithubAdvisories,[GHSA-6x2w-gwgf-5rg3] Jenkins Deploy WebLogic Plugin cross-site request forgery vulnerability,https://github.com/advisories/GHSA-6x2w-gwgf-5rg3,https://da.gd/PMIwlw
+GithubAdvisories,[GHSA-89vj-rqv8-7737] Jenkins Deploy WebLogic Plugin missing permission check,https://github.com/advisories/GHSA-89vj-rqv8-7737,https://da.gd/NpEe
+GithubAdvisories,[GHSA-h668-p5hg-7mc5] Jenkins Oracle Cloud Infrastructure Compute Classic Plugin cross-site request forgery vulnerability,https://github.com/advisories/GHSA-h668-p5hg-7mc5,https://da.gd/b0Iv
+GithubAdvisories,[GHSA-7hp3-5w4x-8f7c] Jenkins SOASTA CloudTest Plugin stores API token in plain text,https://github.com/advisories/GHSA-7hp3-5w4x-8f7c,https://da.gd/XeATJ
+GithubAdvisories,[GHSA-hhhh-69qp-5p2v] Jenkins Fortify on Demand Plugin stores credentials in plain text,https://github.com/advisories/GHSA-hhhh-69qp-5p2v,https://da.gd/9yER
+GithubAdvisories,[GHSA-757g-m98v-6r49] Jenkins Sofy.AI Plugin stores API token in plain text,https://github.com/advisories/GHSA-757g-m98v-6r49,https://da.gd/oTrE
