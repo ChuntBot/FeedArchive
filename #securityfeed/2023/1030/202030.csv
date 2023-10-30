@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-crg9-44h2-xw35] Apache ActiveMQ is vulnerable to Remote Code Execution,https://github.com/advisories/GHSA-crg9-44h2-xw35,https://da.gd/IgTTs
+GithubAdvisories,[GHSA-9242-6p36-6256] Inefficient Regular Expression Complexity in node-email-check,https://github.com/advisories/GHSA-9242-6p36-6256,https://da.gd/4Eb1G
