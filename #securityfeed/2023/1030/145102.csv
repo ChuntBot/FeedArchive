@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-86j9-25m2-9w97] Non-constant time webhook token hash comparison in Jenkins Zanata Plugin,https://github.com/advisories/GHSA-86j9-25m2-9w97,https://da.gd/xDbV5
