@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hwxf-qxj7-7rfj] Detailed Error Report is Displayed in Production Environment,https://github.com/advisories/GHSA-hwxf-qxj7-7rfj,https://da.gd/X4nUCy
+GithubAdvisories,[GHSA-66hv-fhcm-7xm7] Jenkins Warnings Plugin exposures system-scoped credentials,https://github.com/advisories/GHSA-66hv-fhcm-7xm7,https://da.gd/EQOU4
+GithubAdvisories,[GHSA-mv77-fj63-q5w8] Stored XSS vulnerability in Jenkins GitHub Plugin,https://github.com/advisories/GHSA-mv77-fj63-q5w8,https://da.gd/tx2b
+GithubAdvisories,[GHSA-qwrx-45xf-jjf7] Elasticsearch vulnerable to stack overflow in the search API,https://github.com/advisories/GHSA-qwrx-45xf-jjf7,https://da.gd/746mY
+GithubAdvisories,[GHSA-99pc-69q9-jxf2] Elasticsearch allows insertion of sensitive information into log files when using deprecated URIs,https://github.com/advisories/GHSA-99pc-69q9-jxf2,https://da.gd/FKry
+GithubAdvisories,[GHSA-2cqf-6xv9-f22w] Elasticsearch vulnerable to Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-2cqf-6xv9-f22w,https://da.gd/JDjO
+GithubAdvisories,[GHSA-3q6m-v84f-6p9h] quic-go vulnerable to pointer dereference that can lead to panic,https://github.com/advisories/GHSA-3q6m-v84f-6p9h,https://da.gd/74W6dg
+GithubAdvisories,[GHSA-9ggw-h9mf-4jh7] Jenkins CloudBees CD Plugin vulnerable to arbitrary file read,https://github.com/advisories/GHSA-9ggw-h9mf-4jh7,https://da.gd/zlAiD
+GithubAdvisories,[GHSA-8859-v9jp-cphf] Jenkins Multibranch Scan Webhook Trigger Plugin uses non-constant time webhook token comparison,https://github.com/advisories/GHSA-8859-v9jp-cphf,https://da.gd/z50J5
+GithubAdvisories,[GHSA-jx7x-rf3f-j644] Jenkins CloudBees CD Plugin vulnerable to arbitrary file deletion,https://github.com/advisories/GHSA-jx7x-rf3f-j644,https://da.gd/dM1fHM
+GithubAdvisories,[GHSA-885r-hhpr-cc9p] Jenkins Gogs Plugin uses non-constant time webhook token comparison,https://github.com/advisories/GHSA-885r-hhpr-cc9p,https://da.gd/QywnLi
+GithubAdvisories,[GHSA-2xpq-5952-38w3] Jenkins MSTeams Webhook Trigger Plugin uses non-constant time webhook token comparison,https://github.com/advisories/GHSA-2xpq-5952-38w3,https://da.gd/lTMJeY
+GithubAdvisories,[GHSA-jwx3-2hq3-682c] Jenkins Edgewall Trac Plugin vulnerable to Stored XSS,https://github.com/advisories/GHSA-jwx3-2hq3-682c,https://da.gd/0MwemJ
