@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fjhg-96cp-6fcw] Kimai (Authenticated) SSTI to RCE by Uploading a Malicious Twig File,https://github.com/advisories/GHSA-fjhg-96cp-6fcw,https://da.gd/dj9r
+GithubAdvisories,[GHSA-jq35-85cj-fj4p] /sys/devices/virtual/powercap accessible by default to containers,https://github.com/advisories/GHSA-jq35-85cj-fj4p,https://da.gd/dcKSG
