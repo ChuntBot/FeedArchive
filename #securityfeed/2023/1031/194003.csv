@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-34w4-wrqp-j47g] Sensitive cookie in HTTPS session without 'Secure' attribute in thorsten/phpmyfaq,https://github.com/advisories/GHSA-34w4-wrqp-j47g,https://da.gd/LHddE8
+GithubAdvisories,[GHSA-prrv-r843-4p75] Cross-site Scripting (XSS) in thorsten/phpmyfaq,https://github.com/advisories/GHSA-prrv-r843-4p75,https://da.gd/FRaij
+GithubAdvisories,[GHSA-4gpm-r23h-gprw] generator-jhipster allows a timing attack against validateToken due to a string comparison that stops at the first character,https://github.com/advisories/GHSA-4gpm-r23h-gprw,https://da.gd/F61Lb
