@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4frv-5fj6-4p25] Duplicate Advisory: NATS.io: Adding accounts for just the system account adds auth bypass,https://github.com/advisories/GHSA-4frv-5fj6-4p25,https://da.gd/s3hEZR
+GithubAdvisories,[GHSA-jg7w-cxjv-98c2] `SPICEDB_DATASTORE_CONN_URI` is leaked when URI cannot be parsed in github.com/authzed/spicedb,https://github.com/advisories/GHSA-jg7w-cxjv-98c2,https://da.gd/xaRV
+GithubAdvisories,[GHSA-6f58-j323-6472] pimcore/admin-ui-classic-bundle Unverified Password Change,https://github.com/advisories/GHSA-6f58-j323-6472,https://da.gd/4MbQA
+GithubAdvisories,[GHSA-35c7-w35f-xwgh] Kube-proxy may unintentionally forward traffic,https://github.com/advisories/GHSA-35c7-w35f-xwgh,https://da.gd/q72gc
+GithubAdvisories,[GHSA-wjcc-cq79-p63f] Possible Infinite Loop when PdfWriter(clone_from) is used with a PDF,https://github.com/advisories/GHSA-wjcc-cq79-p63f,https://da.gd/oQNHWr
