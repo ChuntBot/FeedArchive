@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-47xw-vw6m-w9fq] HashiCorp Vagrant Insecure Operation on Windows Junction / Mount Point vulnerability,https://github.com/advisories/GHSA-47xw-vw6m-w9fq,https://da.gd/OZ2XG
+GithubAdvisories,[GHSA-mr45-rx8q-wcm9] xkeys seal encryption used fixed key for all encryption,https://github.com/advisories/GHSA-mr45-rx8q-wcm9,https://da.gd/S4n4mg
