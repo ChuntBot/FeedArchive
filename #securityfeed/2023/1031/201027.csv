@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9pjf-jw9q-fx49] Cross-site Scripting (XSS) in dolibarr/dolibarr,https://github.com/advisories/GHSA-9pjf-jw9q-fx49,https://da.gd/4n69
+GithubAdvisories,[GHSA-frgf-8jr5-j2jv] memory leak flaw was found in ruby-magick,https://github.com/advisories/GHSA-frgf-8jr5-j2jv,https://da.gd/OLLwU
+GithubAdvisories,[GHSA-7q5f-29gx-57ff] Cross-site Scripting (XSS) in microweber/microweber,https://github.com/advisories/GHSA-7q5f-29gx-57ff,https://da.gd/ndcOi
+GithubAdvisories,[GHSA-f728-prhw-2g68] Insufficient Session Expiration in thorsten/phpmyfaq,https://github.com/advisories/GHSA-f728-prhw-2g68,https://da.gd/1z7hx
