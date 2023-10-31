@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mp92-3jfm-3575] Synapse vulnerable to leak of remote user device information,https://github.com/advisories/GHSA-mp92-3jfm-3575,https://da.gd/9VGS
