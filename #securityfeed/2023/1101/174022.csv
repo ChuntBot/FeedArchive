@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r9cm-pw9j-3fpx] Dolibarr Improper Input Validation vulnerability,https://github.com/advisories/GHSA-r9cm-pw9j-3fpx,https://da.gd/V6xUZP
+GithubAdvisories,[GHSA-q78c-gwqw-jcmc] Kubernetes privilege escalation vulnerability,https://github.com/advisories/GHSA-q78c-gwqw-jcmc,https://da.gd/MtFFj
+GithubAdvisories,[GHSA-q74f-rf27-8hxc] OpenCRX allows a remote attacker to execute arbitrary code via a crafted request,https://github.com/advisories/GHSA-q74f-rf27-8hxc,https://da.gd/YIhde
