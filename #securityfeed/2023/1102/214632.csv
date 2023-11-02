@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qmf9-6jqf-j8fq] Django potential denial of service vulnerability in UsernameField on Windows,https://github.com/advisories/GHSA-qmf9-6jqf-j8fq,https://da.gd/KJFOSb
+GithubAdvisories,[GHSA-x92r-3vfx-4cv3] Golang TIFF decoder does not place a limit on the size of compressed tile data,https://github.com/advisories/GHSA-x92r-3vfx-4cv3,https://da.gd/m0a4
+GithubAdvisories,[GHSA-j3p8-6mrq-6g7h] Golang TIFF decoder vulnerable to excessive CPU consumption,https://github.com/advisories/GHSA-j3p8-6mrq-6g7h,https://da.gd/rnO3vg
+GithubAdvisories,[GHSA-hpv3-f5p7-pxj9] Jenkins lambdatest-automation Plugin may expose Credentials access token,https://github.com/advisories/GHSA-hpv3-f5p7-pxj9,https://da.gd/15mJa
+GithubAdvisories,[GHSA-vw64-g7c6-mm7g] Jenkins lambdatest-automation Plugin missing permission check,https://github.com/advisories/GHSA-vw64-g7c6-mm7g,https://da.gd/Gktb
