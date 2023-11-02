@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8g87-73vq-443p] Zenario CMS Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-8g87-73vq-443p,https://da.gd/1jqG
+GithubAdvisories,[GHSA-mq26-g339-26xf] Command Injection in pip when used with Mercurial,https://github.com/advisories/GHSA-mq26-g339-26xf,https://da.gd/BS7QK
+GithubAdvisories,[GHSA-w9cp-3x79-2p8p] transmute-core unsafe YAML deserialization vulnerability,https://github.com/advisories/GHSA-w9cp-3x79-2p8p,https://da.gd/D3fo7A
+GithubAdvisories,[GHSA-jhww-fx2j-3rf7] FoodCoopShop Server-Side Request Forgery vulnerability,https://github.com/advisories/GHSA-jhww-fx2j-3rf7,https://da.gd/4zvQg3
