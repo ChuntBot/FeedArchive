@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gv2c-5g79-h73c] Download route allows filename change,https://github.com/advisories/GHSA-gv2c-5g79-h73c,https://da.gd/NIfm5
+GithubAdvisories,[GHSA-g95c-xc83-8353] Ibexa DXP Download route allows filename change,https://github.com/advisories/GHSA-g95c-xc83-8353,https://da.gd/cjJr
+GithubAdvisories,[GHSA-7crc-r3wg-cfgf] Json response for search reveals Solr credentials,https://github.com/advisories/GHSA-7crc-r3wg-cfgf,https://da.gd/eReDMy
