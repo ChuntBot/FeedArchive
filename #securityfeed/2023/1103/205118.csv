@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r6cc-7wj7-gfx2] Kubernetes csi-proxy vulnerable to privilege escalation due to improper input validation,https://github.com/advisories/GHSA-r6cc-7wj7-gfx2,https://da.gd/xwRHR
