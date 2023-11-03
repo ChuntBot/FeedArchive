@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v6xp-ccvx-w52m] Json response for search reveals Solr credentials,https://github.com/advisories/GHSA-v6xp-ccvx-w52m,https://da.gd/2UxPR6
+GithubAdvisories,[GHSA-g8p6-p27c-52fx] Eclipse Parsson Denial of Service vulnerability,https://github.com/advisories/GHSA-g8p6-p27c-52fx,https://da.gd/2PIy6
+GithubAdvisories,[GHSA-2mw4-wj8c-7f93] Eclipse Glassfish remote code execution issue,https://github.com/advisories/GHSA-2mw4-wj8c-7f93,https://da.gd/VbIAn
+GithubAdvisories,[GHSA-8ghj-p4vj-mr35] Pillow Denial of Service vulnerability,https://github.com/advisories/GHSA-8ghj-p4vj-mr35,https://da.gd/4kUD
+GithubAdvisories,[GHSA-h8gc-pgj2-vjm3] Django Denial-of-service in django.utils.text.Truncator,https://github.com/advisories/GHSA-h8gc-pgj2-vjm3,https://da.gd/G2lRw0
+GithubAdvisories,[GHSA-7h4p-27mh-hmrw] Django Denial of service vulnerability in django.utils.encoding.uri_to_iri,https://github.com/advisories/GHSA-7h4p-27mh-hmrw,https://da.gd/KyiFo
+GithubAdvisories,[GHSA-xr8c-mq5x-5f56] Dromara Lamp-Cloud Use of Hard-coded Cryptographic Key,https://github.com/advisories/GHSA-xr8c-mq5x-5f56,https://da.gd/kAb90
+GithubAdvisories,[GHSA-jf8x-943c-r4h6] Jenkins Pipeline Aggregator View Plugin stored XSS vulnerability,https://github.com/advisories/GHSA-jf8x-943c-r4h6,https://da.gd/PzttsU
