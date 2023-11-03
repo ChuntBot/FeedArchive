@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5wj4-wffq-3378] Ingress nginx annotation injection causes arbitrary command execution,https://github.com/advisories/GHSA-5wj4-wffq-3378,https://da.gd/kQae97
+GithubAdvisories,[GHSA-gvrm-w2f9-f77q] Ingress-nginx path sanitization can be bypassed,https://github.com/advisories/GHSA-gvrm-w2f9-f77q,https://da.gd/p8qil
+GithubAdvisories,[GHSA-9w5f-mw3p-pj47] Prototype Pollution(PP) vulnerability in setByPath,https://github.com/advisories/GHSA-9w5f-mw3p-pj47,https://da.gd/GdON
+GithubAdvisories,[GHSA-gc7p-j5xm-xxh2] Unauthorized Access to Private Fields in User Registration API,https://github.com/advisories/GHSA-gc7p-j5xm-xxh2,https://da.gd/Xgslvm
