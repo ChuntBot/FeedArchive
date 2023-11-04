@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-29gq-h27w-54qf] Jenkins VS Team Services Continuous Deployment Plugin stores credentials in plain text,https://github.com/advisories/GHSA-29gq-h27w-54qf,https://da.gd/pGNjLp
