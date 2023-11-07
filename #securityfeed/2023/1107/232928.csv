@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7jrw-p8jc-v6qw] sviehb/jefferson vulnerable to path traversal,https://github.com/advisories/GHSA-7jrw-p8jc-v6qw,https://da.gd/nqREx
+GithubAdvisories,[GHSA-rmxw-c48h-2vf5] XWiki Platform privilege escalation from script right to programming right through title displayer,https://github.com/advisories/GHSA-rmxw-c48h-2vf5,https://da.gd/fHjfK
+GithubAdvisories,[GHSA-g2qq-c5j9-5w5w] XWiki Platform vulnerable to privilege escalation and remote code execution via the edit action,https://github.com/advisories/GHSA-g2qq-c5j9-5w5w,https://da.gd/6L2j1c
