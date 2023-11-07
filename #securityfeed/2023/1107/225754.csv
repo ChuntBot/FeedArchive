@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hgpw-6p4h-j6h5] XWiki Platform vulnerable to remote code execution via the edit action because it lacks CSRF token,https://github.com/advisories/GHSA-hgpw-6p4h-j6h5,https://da.gd/kGaC
