@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j57r-4qw6-58r3] rusty_paseto vulnerable to private key extraction due to ed25519-dalek dependency,https://github.com/advisories/GHSA-j57r-4qw6-58r3,https://da.gd/wG6ii2
