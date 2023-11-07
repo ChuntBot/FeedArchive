@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6758-979h-249x] capsule-proxy service discloses Namespaces of colliding tenants to owners of different tenants with the same ServiceAccount name,https://github.com/advisories/GHSA-6758-979h-249x,https://da.gd/fNW5t
