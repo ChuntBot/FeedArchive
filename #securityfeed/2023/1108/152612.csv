@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-475v-pq2g-fp9g] s2n-quic potential denial of service via crafted stream frames,https://github.com/advisories/GHSA-475v-pq2g-fp9g,https://da.gd/b45lZw
+GithubAdvisories,[GHSA-vfp6-jrw2-99g9] Cosign vulnerable to possible endless data attack from attacker-controlled registry,https://github.com/advisories/GHSA-vfp6-jrw2-99g9,https://da.gd/cX8i
+GithubAdvisories,[GHSA-w496-f5qq-m58j] Mattermost vulnerable to excessive memory consumption,https://github.com/advisories/GHSA-w496-f5qq-m58j,https://da.gd/DSwEn
+GithubAdvisories,[GHSA-r67m-mf7v-qp7j] Mattermost password hash disclosure vulnerability,https://github.com/advisories/GHSA-r67m-mf7v-qp7j,https://da.gd/bbr0Q
