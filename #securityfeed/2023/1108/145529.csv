@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xvq6-h898-wcj8] Mattermost denial of service vulnerability,https://github.com/advisories/GHSA-xvq6-h898-wcj8,https://da.gd/dojIhi
+GithubAdvisories,[GHSA-5r5h-q934-cccp] Calico Typha denial of service vulnerability,https://github.com/advisories/GHSA-5r5h-q934-cccp,https://da.gd/fbFjtQ
+GithubAdvisories,[GHSA-j9rc-w3wv-fv62] XWiki Platform vulnerable to reflected cross-site scripting through revision parameter in content menu,https://github.com/advisories/GHSA-j9rc-w3wv-fv62,https://da.gd/tFLrX
+GithubAdvisories,[GHSA-62pr-qqf7-hh89] XWiki Platform vulnerable to remote code execution through the section parameter in Administration as guest,https://github.com/advisories/GHSA-62pr-qqf7-hh89,https://da.gd/B3N8cC
+GithubAdvisories,[GHSA-8pp6-5qpw-85g3] Magnesium-PHP Injection vulnerability,https://github.com/advisories/GHSA-8pp6-5qpw-85g3,https://da.gd/gBHL
+GithubAdvisories,[GHSA-666g-rfc5-c9jv] Apache Airflow Celery provider Insertion of Sensitive Information into Log File vulnerability,https://github.com/advisories/GHSA-666g-rfc5-c9jv,https://da.gd/jtWh1
