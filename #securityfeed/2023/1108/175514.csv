@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-83j2-qhx2-p7jc] PrestaShop blockreassurance BO User can remove any file from server when adding a and deleting a block,https://github.com/advisories/GHSA-83j2-qhx2-p7jc,https://da.gd/MxTGQ
+GithubAdvisories,[GHSA-7h8m-vrxx-vr4m] ZITADEL race condition in lockout policy execution,https://github.com/advisories/GHSA-7h8m-vrxx-vr4m,https://da.gd/8nljUF
+GithubAdvisories,[GHSA-3vpf-mcj7-5h38] Ethyca Fides HTML Injection Vulnerability in HTML-Formatted DSR Packages,https://github.com/advisories/GHSA-3vpf-mcj7-5h38,https://da.gd/s8y0r
+GithubAdvisories,"[GHSA-5r8j-qmcm-7g7q] Apache UIMA Java SDK Deserialization of Untrusted Data, Improper Input Validation vulnerability",https://github.com/advisories/GHSA-5r8j-qmcm-7g7q,https://da.gd/8by3Y9
+GithubAdvisories,[GHSA-26qx-4m49-6cfr] wildfly-core Exposure of Sensitive Information to an Unauthorized Actor vulnerability,https://github.com/advisories/GHSA-26qx-4m49-6cfr,https://da.gd/HIE6
