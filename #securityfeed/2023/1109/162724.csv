@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-72fp-w44g-625q] Signing DynamoDB Sets when using the AWS Database Encryption SDK,https://github.com/advisories/GHSA-72fp-w44g-625q,https://da.gd/MQEX
+GithubAdvisories,[GHSA-xfm3-hjcc-gv78] Any value can be changed in the configuration table by an employee having access to block reassurance module,https://github.com/advisories/GHSA-xfm3-hjcc-gv78,https://da.gd/r1LSmP
