@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5wvp-7f3h-6wmm] PyArrow: Arbitrary code execution when loading a malicious data file,https://github.com/advisories/GHSA-5wvp-7f3h-6wmm,https://da.gd/QpDW9h
+GithubAdvisories,[GHSA-3f38-96qm-r3fw] esptool allows attackers to view sensitive information via weak cryptographic algorithm,https://github.com/advisories/GHSA-3f38-96qm-r3fw,https://da.gd/feFkB
+GithubAdvisories,[GHSA-9cw9-m7hg-w8mf] Reportico Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-9cw9-m7hg-w8mf,https://da.gd/YsoaHs
+GithubAdvisories,[GHSA-3xxm-3g3c-w579] Moodle Code Injection vulnerability,https://github.com/advisories/GHSA-3xxm-3g3c-w579,https://da.gd/7IPTj8
+GithubAdvisories,[GHSA-hm92-vgmw-qfmx] chromedriver Command Injection vulnerability,https://github.com/advisories/GHSA-hm92-vgmw-qfmx,https://da.gd/ZAFeQ
+GithubAdvisories,[GHSA-2rmr-xw8m-22q9] Sentry Next.js vulnerable to SSRF via Next.js SDK tunnel endpoint,https://github.com/advisories/GHSA-2rmr-xw8m-22q9,https://da.gd/sifum8
