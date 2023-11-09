@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f475-x83m-rx5m] Label Studio has Hardcoded Django `SECRET_KEY` that can be Abused to Forge Session Tokens,https://github.com/advisories/GHSA-f475-x83m-rx5m,https://da.gd/W3ZVC
