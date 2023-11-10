@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4qhc-v8r6-8vwm] HashiCorp Vault Missing Release of Memory after Effective Lifetime vulnerability,https://github.com/advisories/GHSA-4qhc-v8r6-8vwm,https://da.gd/B4TAcw
+GithubAdvisories,[GHSA-jr83-8x65-xcr5] Moodle Exposure of Sensitive Information to an Unauthorized Actor vulnerability,https://github.com/advisories/GHSA-jr83-8x65-xcr5,https://da.gd/lgXP4n
+GithubAdvisories,[GHSA-5cvx-cwpx-9rjh] Moodle Code Injection vulnerability,https://github.com/advisories/GHSA-5cvx-cwpx-9rjh,https://da.gd/YV2M5
+GithubAdvisories,[GHSA-fm5h-58g2-4m3f] Moodle Improper Access Control vulnerability,https://github.com/advisories/GHSA-fm5h-58g2-4m3f,https://da.gd/JsDZAg
+GithubAdvisories,[GHSA-cwh2-q44x-5w3c] Moodle Acceptance of Extraneous Untrusted Data With Trusted Data vulnerability,https://github.com/advisories/GHSA-cwh2-q44x-5w3c,https://da.gd/GeM9np
+GithubAdvisories,[GHSA-9gqp-3g28-w9xc] Moodle Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-9gqp-3g28-w9xc,https://da.gd/baVd7U
+GithubAdvisories,[GHSA-9724-h8p7-r3jv] Moodle Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-9724-h8p7-r3jv,https://da.gd/fl50B
+GithubAdvisories,[GHSA-26fg-v32r-h663] Moodle Exposure of Sensitive Information to an Unauthorized Actor vulnerability,https://github.com/advisories/GHSA-26fg-v32r-h663,https://da.gd/2gkeu
+GithubAdvisories,[GHSA-j5xf-gv89-g422] Moodle Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-j5xf-gv89-g422,https://da.gd/L2B6Q
+GithubAdvisories,[GHSA-8mm2-m2gp-c6x2] Moodle Improper Access Control vulnerability,https://github.com/advisories/GHSA-8mm2-m2gp-c6x2,https://da.gd/tz4Cl
+GithubAdvisories,[GHSA-w8x2-w4qr-v3x4] Moodle Code Injection vulnerability,https://github.com/advisories/GHSA-w8x2-w4qr-v3x4,https://da.gd/1rsBz
+GithubAdvisories,[GHSA-28gc-4qq5-8q26] Moodle Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-28gc-4qq5-8q26,https://da.gd/Q3Ho
+GithubAdvisories,[GHSA-wf5p-g6vw-rhxx] Axios Cross-Site Request Forgery Vulnerability,https://github.com/advisories/GHSA-wf5p-g6vw-rhxx,https://da.gd/0bqy
