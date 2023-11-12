@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-72hg-5wr5-rmfc] Statamic CMS remote code execution via front-end form uploads,https://github.com/advisories/GHSA-72hg-5wr5-rmfc,https://da.gd/RE3ZB
+GithubAdvisories,[GHSA-xq59-7jf3-rjc6] piccolo SQL Injection via named transaction savepoints,https://github.com/advisories/GHSA-xq59-7jf3-rjc6,https://da.gd/mhkwpA
+GithubAdvisories,[GHSA-rjjm-x32p-m3f7] gnark's range checker gadget allows wider inputs up to word alignment,https://github.com/advisories/GHSA-rjjm-x32p-m3f7,https://da.gd/zjbJTr
+GithubAdvisories,[GHSA-4jch-8qq5-hqg6] Froxlor Improper Input Validation vulnerability,https://github.com/advisories/GHSA-4jch-8qq5-hqg6,https://da.gd/ixmcZb
+GithubAdvisories,[GHSA-8pgv-569h-w5rw] otelgrpc DoS vulnerability due to unbound cardinality metrics,https://github.com/advisories/GHSA-8pgv-569h-w5rw,https://da.gd/QuEsD
+GithubAdvisories,[GHSA-72x2-5c85-6wmr] Symfony potential Cross-site Scripting in WebhookController,https://github.com/advisories/GHSA-72x2-5c85-6wmr,https://da.gd/XWfhs1
+GithubAdvisories,[GHSA-q847-2q57-wmr3] Symfony potential Cross-site Scripting vulnerabilities in CodeExtension filters,https://github.com/advisories/GHSA-q847-2q57-wmr3,https://da.gd/aM9EL
+GithubAdvisories,[GHSA-m2wj-r6g3-fxfx] Symfony possible session fixation vulnerability,https://github.com/advisories/GHSA-m2wj-r6g3-fxfx,https://da.gd/HQdol
