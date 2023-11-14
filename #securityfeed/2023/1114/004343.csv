@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hm9r-7f84-25c9] Apache Airflow allows authenticated and DAG-view authorized users to modify some DAG run detail values when submitting notes,https://github.com/advisories/GHSA-hm9r-7f84-25c9,https://da.gd/Zbcgg6
+GithubAdvisories,[GHSA-wmm9-w6cp-x3j9] Malware in @atea/common-design-components,https://github.com/advisories/GHSA-wmm9-w6cp-x3j9,https://da.gd/XNhw
+GithubAdvisories,[GHSA-qqv6-2mcr-fx2x] Malware in @atea/warranty-form,https://github.com/advisories/GHSA-qqv6-2mcr-fx2x,https://da.gd/QmEy
