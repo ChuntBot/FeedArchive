@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+PacketstormSecurity,AjaxPro Deserialization Remote Code Execution,https://packetstormsecurity.com/files/175677/ajaxpro_deserialization_rce.rb.txt,https://da.gd/TI6Kb2
+PacketstormSecurity,Apache ActiveMQ Unauthenticated Remote Code Execution,https://packetstormsecurity.com/files/175676/apache_activemq_rce_cve_2023_46604.rb.txt,https://da.gd/Wcdx
+PacketstormSecurity,ZoneMinder Snapshots Command Injection,https://packetstormsecurity.com/files/175675/zoneminder_snapshots.rb.txt,https://da.gd/5q5Vv
+PacketstormSecurity,Cisco IOX XE Unauthenticated Remote Code Execution,https://packetstormsecurity.com/files/175674/cisco_ios_xe_rce.rb.txt,https://da.gd/ixaMh
+PacketstormSecurity,F5 BIG-IP TMUI AJP Smuggling Remote Command Execution,https://packetstormsecurity.com/files/175673/f5_bigip_tmui_rce_cve_2023_46747.rb.txt,https://da.gd/K73DWR
+PacketstormSecurity,MagnusBilling Remote Command Execution,https://packetstormsecurity.com/files/175672/magnusbilling_unauth_rce_cve_2023_30258.rb.txt,https://da.gd/LCCmtM
+PacketstormSecurity,F5 BIG-IP TMUI Directory Traversal / File Upload / Code Execution,https://packetstormsecurity.com/files/175671/f5_bigip_tmui_rce_cve_2020_5902.rb.txt,https://da.gd/3tdy
+PacketstormSecurity,TOR Virtual Network Tunneling Tool 0.4.8.9,https://packetstormsecurity.com/files/175670/tor-0.4.8.9.tar.gz,https://da.gd/C8cPTQ
+PacketstormSecurity,Debian Security Advisory 5554-1,https://packetstormsecurity.com/files/175667/dsa-5554-1.txt,https://da.gd/lkBLA1
+PacketstormSecurity,mtk-jpeg Driver Out-Of-Bounds Read / Write,https://packetstormsecurity.com/files/175665/GS20231114000351.tgz,https://da.gd/f63BKv
+PacketstormSecurity,Debian Security Advisory 5553-1,https://packetstormsecurity.com/files/175664/dsa-5553-1.txt,https://da.gd/YUeAB8
+PacketstormSecurity,Debian Security Advisory 5552-1,https://packetstormsecurity.com/files/175663/dsa-5552-1.txt,https://da.gd/nHxFg
+PacketstormSecurity,Android mtk_jpeg Driver Race Condition / Privilege Escalation,https://packetstormsecurity.com/files/175662/GS20231113235758.tgz,https://da.gd/mg4l8n
+PacketstormSecurity,Debian Security Advisory 5551-1,https://packetstormsecurity.com/files/175661/dsa-5551-1.txt,https://da.gd/eb6vd
+PacketstormSecurity,Maxima Max Pro Power 1.0 486A BLE Traffic Replay,https://packetstormsecurity.com/files/175660/maximamaxpropower-replay.txt,https://da.gd/TuhNu
+PacketstormSecurity,Windows Kernel Containerized Registry Escape,https://packetstormsecurity.com/files/175659/GS20231113234953.tgz,https://da.gd/ezAzM
+PacketstormSecurity,Zephyr RTOS 3.x.0 Buffer Overflows,https://packetstormsecurity.com/files/175657/HNS-2023-03-zephyr.txt,https://da.gd/lXUTdv
+PacketstormSecurity,WordPress Contact Form To Any API 1.1.2 SQL Injection,https://packetstormsecurity.com/files/175654/wpcftaa112-sql.txt,https://da.gd/Axap
+PacketstormSecurity,Debian Security Advisory 5550-1,https://packetstormsecurity.com/files/175652/dsa-5550-1.txt,https://da.gd/WKFfFf
+PacketstormSecurity,Not CVE Announcement,https://packetstormsecurity.com/files/175651/notcve-info.txt,https://da.gd/ueaNS
