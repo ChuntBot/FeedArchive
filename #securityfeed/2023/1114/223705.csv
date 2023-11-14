@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q57g-38pc-jwv8] Microweber Improper Access Control vulnerability,https://github.com/advisories/GHSA-q57g-38pc-jwv8,https://da.gd/5eJ3G9
+GithubAdvisories,[GHSA-2r53-9295-3m86] Statamic CMS vulnerable to remote code execution via form uploads,https://github.com/advisories/GHSA-2r53-9295-3m86,https://da.gd/aYYkha
+GithubAdvisories,[GHSA-hq6q-c2x6-hmch] Kubernetes Improper Input Validation vulnerability,https://github.com/advisories/GHSA-hq6q-c2x6-hmch,https://da.gd/Lcxze
+GithubAdvisories,[GHSA-4jq9-2xhw-jpx7] Java: DoS Vulnerability in JSON-JAVA,https://github.com/advisories/GHSA-4jq9-2xhw-jpx7,https://da.gd/7LN55
+GithubAdvisories,[GHSA-vc3v-ppc7-v486] vantage6-server node accepts non-whitelisted algorithms from malicious server,https://github.com/advisories/GHSA-vc3v-ppc7-v486,https://da.gd/U3KAbh
+GithubAdvisories,"[GHSA-gfw2-4jvh-wgfg] AIOHTTP has problems in HTTP parser (the python one, not llhttp)",https://github.com/advisories/GHSA-gfw2-4jvh-wgfg,https://da.gd/ClAw
+GithubAdvisories,[GHSA-3hfq-cx9j-923w] Attacker can cause Kyverno user to unintentionally consume insecure image,https://github.com/advisories/GHSA-3hfq-cx9j-923w,https://da.gd/LlONw
+GithubAdvisories,[GHSA-mw2w-2hj2-fg8q] yiisoft/yii deserializing untrusted user input can lead to remote code execution,https://github.com/advisories/GHSA-mw2w-2hj2-fg8q,https://da.gd/Gx46NL
+GithubAdvisories,"[GHSA-gw7g-qr8w-3448] Remarshal expands YAML alias nodes unlimitedly, hence Remarshal is vulnerable to Billion Laughs Attack",https://github.com/advisories/GHSA-gw7g-qr8w-3448,https://da.gd/krAW7
+GithubAdvisories,[GHSA-c3hf-8vgx-72rh] Microsoft Security Advisory CVE-2023-36049: .NET Elevation of Privilege Vulnerability,https://github.com/advisories/GHSA-c3hf-8vgx-72rh,https://da.gd/Pdxuxm
+GithubAdvisories,[GHSA-p2jh-95jg-2w55] Information Disclosure in typo3/cms-install tool,https://github.com/advisories/GHSA-p2jh-95jg-2w55,https://da.gd/SNzZg
+GithubAdvisories,[GHSA-v9w2-543f-h69m] Fabric vulnerable to crosslinking transaction attack,https://github.com/advisories/GHSA-v9w2-543f-h69m,https://da.gd/Glmc
+GithubAdvisories,[GHSA-xx9p-xxvh-7g8j] Aiohttp has inconsistent interpretation of `Content-Length` vs. `Transfer-Encoding` differing in C and Python fallbacks,https://github.com/advisories/GHSA-xx9p-xxvh-7g8j,https://da.gd/BiKln
+GithubAdvisories,[GHSA-mm79-jhqm-9j54] Bypassing Cross-Site Scripting Protection in TYPO3 HTML Sanitizer,https://github.com/advisories/GHSA-mm79-jhqm-9j54,https://da.gd/74qrC
+GithubAdvisories,[GHSA-3fx3-85r4-8j3w] Microsoft Security Advisory CVE-2023-36558: .NET Security Feature Bypass Vulnerability,https://github.com/advisories/GHSA-3fx3-85r4-8j3w,https://da.gd/mATe9
+GithubAdvisories,[GHSA-m4ch-4m5f-2gp6] Bootbox.js Cross Site Scripting vulnerability,https://github.com/advisories/GHSA-m4ch-4m5f-2gp6,https://da.gd/YOUWY8
+GithubAdvisories,[GHSA-r7x6-xfcm-3mxv] Apache Airflow vulnerable to Exposure of Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-r7x6-xfcm-3mxv,https://da.gd/caTQ
+GithubAdvisories,[GHSA-wp76-cf2j-rqq7] Headscale writes bearer tokens to info-level logs,https://github.com/advisories/GHSA-wp76-cf2j-rqq7,https://da.gd/JKnwmf
+GithubAdvisories,[GHSA-xvrc-2wvh-49vc] Gitsign's Rekor public keys fetched from upstream API instead of local TUF client,https://github.com/advisories/GHSA-xvrc-2wvh-49vc,https://da.gd/qkPH
