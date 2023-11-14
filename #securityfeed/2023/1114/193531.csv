@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rw82-mhmx-grmj] Guest Entries Remote code execution via file uploads,https://github.com/advisories/GHSA-rw82-mhmx-grmj,https://da.gd/y5raf
+GithubAdvisories,[GHSA-48m6-wm5p-rr6h] Insufficient covariance check makes self_cell unsound,https://github.com/advisories/GHSA-48m6-wm5p-rr6h,https://da.gd/Yzybtu
+GithubAdvisories,[GHSA-3vmm-7h4j-69rm] TYPO3 vulnerable to Weak Authentication in Session Handling,https://github.com/advisories/GHSA-3vmm-7h4j-69rm,https://da.gd/jAJk
+GithubAdvisories,[GHSA-6hjj-gq77-j4qw] Label Studio Object Relational Mapper Leak Vulnerability in Filtering Task,https://github.com/advisories/GHSA-6hjj-gq77-j4qw,https://da.gd/hcn2r
