@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r345-x8hr-2r9p] acf-to-rest-api plugin insecure direct object reference (IDOR) via permalink manipulation,https://github.com/advisories/GHSA-r345-x8hr-2r9p,https://da.gd/kjPwZV
+GithubAdvisories,[GHSA-79xr-v794-wq35] MunkiReport Managed Installs module Reflected Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-79xr-v794-wq35,https://da.gd/1kjUp0
+GithubAdvisories,[GHSA-8hgg-xxm5-3873] DOMPurify Open Redirect vulnerability,https://github.com/advisories/GHSA-8hgg-xxm5-3873,https://da.gd/dqE9CN
