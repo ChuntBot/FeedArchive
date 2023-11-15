@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xjhv-p3fv-x24r] In Reactor Netty HTTP Server a malicious user can send a request using a specially crafted URL that can lead to a directory traversal attack,https://github.com/advisories/GHSA-xjhv-p3fv-x24r,https://da.gd/DeOaDB
+GithubAdvisories,[GHSA-v626-r774-j7f8] TinyMCE vulnerable to mutation Cross-site Scripting via special characters in unescaped text nodes,https://github.com/advisories/GHSA-v626-r774-j7f8,https://da.gd/sHmO
+GithubAdvisories,[GHSA-3w8r-3jh9-89v9] xxl-job-admin vulnerable to Insecure Permissions,https://github.com/advisories/GHSA-3w8r-3jh9-89v9,https://da.gd/yiVtY1
+GithubAdvisories,[GHSA-x98f-2rgf-qwqh] xxl-job-admin vulnerable to Remote Code Execution,https://github.com/advisories/GHSA-x98f-2rgf-qwqh,https://da.gd/CYL9c
+GithubAdvisories,[GHSA-6733-7rp7-vf3m] xxl-job-admin vulnerable to Cross Site Scripting,https://github.com/advisories/GHSA-6733-7rp7-vf3m,https://da.gd/WNLgk
+GithubAdvisories,"[GHSA-p62q-5483-h57v] Quarkus does not properly sanitize artifacts created from its use of the Gradle plugin, allowing certain build system information to remain",https://github.com/advisories/GHSA-p62q-5483-h57v,https://da.gd/r8Lnv
