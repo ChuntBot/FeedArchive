@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f798-qm4r-23r5] MLflow allowed arbitrary files to be PUT onto the server,https://github.com/advisories/GHSA-f798-qm4r-23r5,https://da.gd/PQpl
