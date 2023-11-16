@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v8fc-qxvj-f3mg] NASA Open MCT Cross Site Scripting vulnerability,https://github.com/advisories/GHSA-v8fc-qxvj-f3mg,https://da.gd/4LwvaX
+GithubAdvisories,[GHSA-55g2-vm3q-7w52] Ansible galaxy-importer Path Traversal vulnerability,https://github.com/advisories/GHSA-55g2-vm3q-7w52,https://da.gd/CKXlf
+GithubAdvisories,[GHSA-xvmv-4rx6-x6jx] Authenticated users can view job names and groups they do not have authorization to view,https://github.com/advisories/GHSA-xvmv-4rx6-x6jx,https://da.gd/w8ohBP
