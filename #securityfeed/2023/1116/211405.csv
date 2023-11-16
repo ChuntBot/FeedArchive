@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j327-c69h-4gh8] Abstrium Pydio Cells Resource Injection vulnerability,https://github.com/advisories/GHSA-j327-c69h-4gh8,https://da.gd/ulsYxs
+GithubAdvisories,[GHSA-hxjc-9j8v-v9pr] CKEditor Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-hxjc-9j8v-v9pr,https://da.gd/WumCl
+GithubAdvisories,[GHSA-94jh-j374-9r3j] Apache Hadoop allows local user to gain root privileges,https://github.com/advisories/GHSA-94jh-j374-9r3j,https://da.gd/yFmiP
+GithubAdvisories,[GHSA-6944-6pmv-6mp2] free5gc Buffer Overflow vulnerability,https://github.com/advisories/GHSA-6944-6pmv-6mp2,https://da.gd/PyTUG1
+GithubAdvisories,[GHSA-phmw-jx86-x666] Authenticated Rundeck users can view or delete jobs they do not have authorization for,https://github.com/advisories/GHSA-phmw-jx86-x666,https://da.gd/EovZOM
