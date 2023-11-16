@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Merge pull request #5498 from mailcow:feat/fix-5497,https://github.com/mailcow/mailcow-dockerized/commit/548999f163d1131fc592c62a5c7dabe5acc22173,https://da.gd/0nnmaR
+GithubCommitStaging,Update actions/cache action to v3,https://github.com/mailcow/mailcow-dockerized/commit/0aa520c03031e3ec16a50a4e3dccecb6fb89c851,https://da.gd/l7q4O
+GithubCommitStaging,Update actions/checkout action to v4,https://github.com/mailcow/mailcow-dockerized/commit/7c5248388755273dc803494219cf18eeea0f8158,https://da.gd/LkK22l
+GithubCommitStaging,Merge pull request #5533 from mailcow/renovate/actions-checkout-4.x,https://github.com/mailcow/mailcow-dockerized/commit/6e88550f92e1478a203cc41ba426ee842a8c195b,https://da.gd/s9Rh
+GithubCommitStaging,Merge pull request #5532 from mailcow/renovate/actions-cache-3.x,https://github.com/mailcow/mailcow-dockerized/commit/849decaa59084faf879503bf8154494fbd9b2d9a,https://da.gd/xmp9hH
