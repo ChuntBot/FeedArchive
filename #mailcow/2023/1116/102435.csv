@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Allow `--dry` IMAPsync,https://github.com/mailcow/mailcow-dockerized/commit/afed94cc0ebb1af25815e3c4e93c435740d6a584,https://da.gd/4qjSO
+GithubCommitStaging,fix: support utf-8 in password synchronization,https://github.com/mailcow/mailcow-dockerized/commit/46b995f9e3c09bca82a8de60a6adac6df233d0db,https://da.gd/GBdvrJ
+GithubCommitStaging,Add Dry Mode Option for ImapSyncs (Button),https://github.com/mailcow/mailcow-dockerized/commit/547d2ca3087a9a3b1e383c8edd6c38fd02c455b9,https://da.gd/4y2VkF
+GithubCommitStaging,Tweaked German Translation,https://github.com/mailcow/mailcow-dockerized/commit/63df547306f2e7a22e30cbfc77adb5c2c5d312f1,https://da.gd/WFRHM
+GithubCommitStaging,Added f1f2 + sorted whitelist for imapsync,https://github.com/mailcow/mailcow-dockerized/commit/85641794c3f1ff6889b174fddaf373c6b2eef145,https://da.gd/tghy
+GithubCommitStaging,Merge pull request #5521 from raph-topo/fix/impasync-options,https://github.com/mailcow/mailcow-dockerized/commit/c8bee5773295bd68d1894923e624cadc31478ac6,https://da.gd/PqgWWx
+GithubCommitStaging,Merge pull request #5530 from Quiwy/staging,https://github.com/mailcow/mailcow-dockerized/commit/8f1ae0f099b598a04a4535f124ac01c2bc46ce81,https://da.gd/iTTIo
