@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m87h-jxr6-f82w] Concrete CMS allows unauthorized access because directories can be created with insecure permissions,https://github.com/advisories/GHSA-m87h-jxr6-f82w,https://da.gd/HbuzWj
