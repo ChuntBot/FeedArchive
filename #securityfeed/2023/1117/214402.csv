@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fxff-wxxv-c2jc] PyPinkSign uses a non-random or static IV for Cipher Block Chaining (CBC) mode in AES encryption,https://github.com/advisories/GHSA-fxff-wxxv-c2jc,https://da.gd/S1Br47
+GithubAdvisories,[GHSA-rq42-58qf-v3qx] LibreNMS vulnerable to rate limiting bypass on login page,https://github.com/advisories/GHSA-rq42-58qf-v3qx,https://da.gd/chWw65
