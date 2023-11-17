@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4qq5-mxxx-m6gg] MLflow authentication requirement bypass can allow a user to arbitrarily create an account,https://github.com/advisories/GHSA-4qq5-mxxx-m6gg,https://da.gd/gsSC
+GithubAdvisories,[GHSA-4xw9-cx39-r355] json-web-token library is vulnerable to a JWT algorithm confusion attack,https://github.com/advisories/GHSA-4xw9-cx39-r355,https://da.gd/T4BQ
+GithubAdvisories,[GHSA-36fr-3wg8-q5v8] Concrete CMS Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-36fr-3wg8-q5v8,https://da.gd/G046la
