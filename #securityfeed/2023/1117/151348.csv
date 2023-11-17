@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q27h-hw2v-x5jm] Free5gc allows a local attacker to cause a denial of service via the free5gc-compose component,https://github.com/advisories/GHSA-q27h-hw2v-x5jm,https://da.gd/RQliKZ
