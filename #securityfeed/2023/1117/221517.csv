@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fpq5-4vwm-78x4] LibreNMS has Broken Access control on Graphs Feature,https://github.com/advisories/GHSA-fpq5-4vwm-78x4,https://da.gd/BOrA3J
+GithubAdvisories,[GHSA-8phr-637g-pxrg] LibreNMS Cross-site Scripting at Device groups Deletion feature,https://github.com/advisories/GHSA-8phr-637g-pxrg,https://da.gd/HGW42A
+GithubAdvisories,[GHSA-wm63-7627-ch33] @vendure/core's insecure currencyCode handling allows wrong payment amounts,https://github.com/advisories/GHSA-wm63-7627-ch33,https://da.gd/OfIic
+GithubAdvisories,[GHSA-x563-6hqv-26mr] Ibis PyArrow dependency allows arbitrary code execution when loading a malicious data file,https://github.com/advisories/GHSA-x563-6hqv-26mr,https://da.gd/nsjzsg
