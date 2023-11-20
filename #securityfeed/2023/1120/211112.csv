@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6h67-934r-82g7] Bypass of field access control in strapi-plugin-protected-populate,https://github.com/advisories/GHSA-6h67-934r-82g7,https://da.gd/qfAF
+GithubAdvisories,[GHSA-4f4c-rhjv-4wgv] Cross-Site Request Forgery with QueryOnXWiki allows arbitrary database queries,https://github.com/advisories/GHSA-4f4c-rhjv-4wgv,https://da.gd/XfOw
+GithubAdvisories,[GHSA-8jpr-ff92-hpf9] Run Shell Command allows Cross-Site Request Forgery,https://github.com/advisories/GHSA-8jpr-ff92-hpf9,https://da.gd/Ozt2
+GithubAdvisories,[GHSA-7fqr-97j7-jgf4] Whole content of all documents of all wikis exposed to anybody with view right on Solr suggest service,https://github.com/advisories/GHSA-7fqr-97j7-jgf4,https://da.gd/E0Gz28
+GithubAdvisories,[GHSA-7rfg-6273-f5wp] Cookies are sent to external images in rendered diff (and server side request forgery),https://github.com/advisories/GHSA-7rfg-6273-f5wp,https://da.gd/D7nYSt
+GithubAdvisories,[GHSA-c2ff-88x2-x9pg] JWT Algorithm Confusion,https://github.com/advisories/GHSA-c2ff-88x2-x9pg,https://da.gd/jIHl
