@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4532-pmx7-9ww7] Cross-site Scripting in cesium,https://github.com/advisories/GHSA-4532-pmx7-9ww7,https://da.gd/sByJ9q
+GithubAdvisories,[GHSA-8hcr-5x2g-9f7j] Deserialization of Untrusted Data in apache-submarine,https://github.com/advisories/GHSA-8hcr-5x2g-9f7j,https://da.gd/WNhoQ
+GithubAdvisories,[GHSA-rcjc-c4pj-xxrp] Apache Derby: LDAP injection vulnerability in authenticator,https://github.com/advisories/GHSA-rcjc-c4pj-xxrp,https://da.gd/XwiyG
+GithubAdvisories,[GHSA-v64w-49xw-qq89] Possible user mocking that bypasses basic authentication,https://github.com/advisories/GHSA-v64w-49xw-qq89,https://da.gd/BxPv0k
+GithubAdvisories,[GHSA-96q4-7fwr-gmxh] Cross-site Scripting in OpenCRX,https://github.com/advisories/GHSA-96q4-7fwr-gmxh,https://da.gd/eB8lOW
+GithubAdvisories,[GHSA-qjmx-q5m4-xqf5] Cross-site Scripting in OpenCRX,https://github.com/advisories/GHSA-qjmx-q5m4-xqf5,https://da.gd/4CzWpJ
+GithubAdvisories,[GHSA-hhcf-79pm-r8r9] Cross-site Scripting in OpenCRX,https://github.com/advisories/GHSA-hhcf-79pm-r8r9,https://da.gd/1H3D
+GithubAdvisories,[GHSA-chj5-8wxj-rxg8] Cross-site Scripting in OpenCRX,https://github.com/advisories/GHSA-chj5-8wxj-rxg8,https://da.gd/bgXlz8
+GithubAdvisories,[GHSA-5phw-6g3r-55xx] Cross-site Scripting in OpenCRX,https://github.com/advisories/GHSA-5phw-6g3r-55xx,https://da.gd/AGMY3t
+GithubAdvisories,[GHSA-3g79-j8hq-r4xv] Cross-site Scripting in OpenCRX,https://github.com/advisories/GHSA-3g79-j8hq-r4xv,https://da.gd/OW4I
+GithubAdvisories,[GHSA-gx82-jm5q-gfw2] Cross-site Scripting in OpenCRX,https://github.com/advisories/GHSA-gx82-jm5q-gfw2,https://da.gd/ma7G8
+GithubAdvisories,[GHSA-mfp5-vh58-3j3r] Cross-site Scripting in OpenCRX,https://github.com/advisories/GHSA-mfp5-vh58-3j3r,https://da.gd/fRsUp
