@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h73m-pcfw-25h2] Download to arbitrary folder can lead to RCE,https://github.com/advisories/GHSA-h73m-pcfw-25h2,https://da.gd/k0WiAl
+GithubAdvisories,[GHSA-vccg-f4gp-45x9] Eval Injection in fastbots,https://github.com/advisories/GHSA-vccg-f4gp-45x9,https://da.gd/sVqcy
+GithubAdvisories,[GHSA-2c7c-3mj9-8fqh] Decryption of malicious PBES2 JWE objects can consume unbounded system resources,https://github.com/advisories/GHSA-2c7c-3mj9-8fqh,https://da.gd/gyHe
