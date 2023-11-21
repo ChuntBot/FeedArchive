@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,Add Dry Mode Option for ImapSyncs (Button),https://github.com/mailcow/mailcow-dockerized/commit/547d2ca3087a9a3b1e383c8edd6c38fd02c455b9,https://da.gd/4y2VkF
+GithubCommit,Tweaked German Translation,https://github.com/mailcow/mailcow-dockerized/commit/63df547306f2e7a22e30cbfc77adb5c2c5d312f1,https://da.gd/WFRHM
+GithubCommit,Merge pull request #5498 from mailcow:feat/fix-5497,https://github.com/mailcow/mailcow-dockerized/commit/548999f163d1131fc592c62a5c7dabe5acc22173,https://da.gd/0nnmaR
+GithubCommit,Update actions/cache action to v3,https://github.com/mailcow/mailcow-dockerized/commit/0aa520c03031e3ec16a50a4e3dccecb6fb89c851,https://da.gd/l7q4O
+GithubCommit,Update actions/checkout action to v4,https://github.com/mailcow/mailcow-dockerized/commit/7c5248388755273dc803494219cf18eeea0f8158,https://da.gd/LkK22l
+GithubCommit,Merge pull request #5533 from mailcow/renovate/actions-checkout-4.x,https://github.com/mailcow/mailcow-dockerized/commit/6e88550f92e1478a203cc41ba426ee842a8c195b,https://da.gd/s9Rh
+GithubCommit,Merge pull request #5532 from mailcow/renovate/actions-cache-3.x,https://github.com/mailcow/mailcow-dockerized/commit/849decaa59084faf879503bf8154494fbd9b2d9a,https://da.gd/xmp9hH
+GithubCommit,Added f1f2 + sorted whitelist for imapsync,https://github.com/mailcow/mailcow-dockerized/commit/85641794c3f1ff6889b174fddaf373c6b2eef145,https://da.gd/tghy
+GithubCommit,Merge pull request #5521 from raph-topo/fix/impasync-options,https://github.com/mailcow/mailcow-dockerized/commit/c8bee5773295bd68d1894923e624cadc31478ac6,https://da.gd/PqgWWx
+GithubCommit,Merge pull request #5530 from Quiwy/staging,https://github.com/mailcow/mailcow-dockerized/commit/8f1ae0f099b598a04a4535f124ac01c2bc46ce81,https://da.gd/iTTIo
+GithubCommit,Merge pull request #5487 from artemislena/master,https://github.com/mailcow/mailcow-dockerized/commit/f398ecbe39c8bf9a3b68aeb1b998bc04115fbbc3,https://da.gd/qHUMNV
+GithubCommit,Translations update from Weblate (#5538),https://github.com/mailcow/mailcow-dockerized/commit/b5c3d01834052e2a5efc431ff80e3a625c520913,https://da.gd/YCOT8c
+GithubCommit,Ignore everything in vendor subdirs,https://github.com/mailcow/mailcow-dockerized/commit/03311b06c92a590859b93f37e444467cfc3151c9,https://da.gd/lLsZ5u
+GithubCommit,Merge pull request #5544 from mailcow/feat/update-renovate,https://github.com/mailcow/mailcow-dockerized/commit/55576084fc905643d2d44cef2bf47cb6c241737c,https://da.gd/cMfdA
+GithubCommit,"[Rspamd] workaround - remove ""--\x0D\x0A"" prefix from rewritten cts",https://github.com/mailcow/mailcow-dockerized/commit/8ba1e1ba9e4bd18fd7044714799b645569eb429c,https://da.gd/ZqlY0t
+GithubCommit,[Web] escape quarantine html,https://github.com/mailcow/mailcow-dockerized/commit/f423ad77f3c33f60eaf0bd58b6634b062460696f,https://da.gd/0noSW
+GithubCommit,Merge pull request #5548 from mailcow/fix-5547,https://github.com/mailcow/mailcow-dockerized/commit/f55c3c08871ed7c202e2070cf023ae93183db8bd,https://da.gd/vdBoy
+GithubCommit,Merge pull request #5546 from mailcow/fix/domain-wide-footer,https://github.com/mailcow/mailcow-dockerized/commit/3b3c2b71410692d6eed32a9e6c4d64c5e1245ec1,https://da.gd/zvNnmg
+GithubCommit,[Rspamd] domain wide footer check for empty strings,https://github.com/mailcow/mailcow-dockerized/commit/392967d6647da44db6fd7f8111d3c98f7032e6bc,https://da.gd/OJ7R
+GithubCommit,Merge pull request #5551 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/a80b5b7dd0762de734759db09ec5b9e5dbd4bef8,https://da.gd/HVdpP
