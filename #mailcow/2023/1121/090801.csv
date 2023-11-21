@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,"[Rspamd] workaround - remove ""--\x0D\x0A"" prefix from rewritten cts",https://github.com/mailcow/mailcow-dockerized/commit/8ba1e1ba9e4bd18fd7044714799b645569eb429c,https://da.gd/ZqlY0t
+GithubCommitStaging,[Web] escape quarantine html,https://github.com/mailcow/mailcow-dockerized/commit/f423ad77f3c33f60eaf0bd58b6634b062460696f,https://da.gd/0noSW
+GithubCommitStaging,Merge pull request #5548 from mailcow/fix-5547,https://github.com/mailcow/mailcow-dockerized/commit/f55c3c08871ed7c202e2070cf023ae93183db8bd,https://da.gd/vdBoy
+GithubCommitStaging,Merge pull request #5546 from mailcow/fix/domain-wide-footer,https://github.com/mailcow/mailcow-dockerized/commit/3b3c2b71410692d6eed32a9e6c4d64c5e1245ec1,https://da.gd/zvNnmg
