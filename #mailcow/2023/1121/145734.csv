@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommit,Fix repo change when running in forced mode,https://github.com/mailcow/mailcow-dockerized/commit/5a10f2dd7c14f1f08b12a220d8fb2f8430541889,https://da.gd/Ek9iC
+GithubCommit,Merge pull request #5552 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/979f5475c3c07f5a61fa2fa55c512532b64cc25f,https://da.gd/xU5qZV
