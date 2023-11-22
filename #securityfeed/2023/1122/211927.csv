@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rgg9-264h-3hfw] Directory Traversal in jeecg-boot,https://github.com/advisories/GHSA-rgg9-264h-3hfw,https://da.gd/RWuqr
+GithubAdvisories,[GHSA-2492-xxqf-6h78] Cross Site Request Forgery in SwiftyEdit,https://github.com/advisories/GHSA-2492-xxqf-6h78,https://da.gd/exxJ
+GithubAdvisories,[GHSA-vm4p-gh82-xq96] Cross-site Scripting in Admidio,https://github.com/advisories/GHSA-vm4p-gh82-xq96,https://da.gd/om5Bk
+GithubAdvisories,[GHSA-v5gj-fx3g-hcpw] SQL injection in Apache Submarine,https://github.com/advisories/GHSA-v5gj-fx3g-hcpw,https://da.gd/8jSaBE
+GithubAdvisories,[GHSA-285m-vhfq-xx4h] Elasticsearch Improper Handling of Exceptional Conditions,https://github.com/advisories/GHSA-285m-vhfq-xx4h,https://da.gd/mXamob
+GithubAdvisories,[GHSA-5xqm-hc45-f2g2] APM Java Agent Local Privilege Escalation issue,https://github.com/advisories/GHSA-5xqm-hc45-f2g2,https://da.gd/yItp
+GithubAdvisories,[GHSA-hx93-gc73-5rpr] Exposure of Sensitive Information in Elastic APM .NET Agent,https://github.com/advisories/GHSA-hx93-gc73-5rpr,https://da.gd/GPPhH
+GithubAdvisories,"[GHSA-cf9f-wmhp-v4pr] Cross-site Scripting potential in custom links, job buttons, and computed fields",https://github.com/advisories/GHSA-cf9f-wmhp-v4pr,https://da.gd/g7FkI
+GithubAdvisories,[GHSA-8jjh-j3c2-cjcv] Cross-site Scripting via uploaded assets,https://github.com/advisories/GHSA-8jjh-j3c2-cjcv,https://da.gd/Fkjk9B
