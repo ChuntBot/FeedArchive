@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Update dependency nextcloud/server to v27.1.4,https://github.com/mailcow/mailcow-dockerized/commit/9c3e73606cc5bb17259cb5ff74971c404f8dad4e,https://da.gd/sw5LRO
+GithubCommitStaging,Merge pull request #5559 from mailcow/renovate/nextcloud-server-27.x,https://github.com/mailcow/mailcow-dockerized/commit/f730192c9808993eeab389ac9b5afadc392e5556,https://da.gd/nWUp7
