@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v4v2-8h88-65qj] Attribute Injection leading to XSS(Cross-Site-Scripting),https://github.com/advisories/GHSA-v4v2-8h88-65qj,https://da.gd/2qOmK
+GithubAdvisories,[GHSA-rqr8-pxh7-cq3g] Ethereum ABI decoder DoS when parsing ZST,https://github.com/advisories/GHSA-rqr8-pxh7-cq3g,https://da.gd/1T73Ph
+GithubAdvisories,[GHSA-wjxj-5m7g-mg7q] Bouncy Castle Denial of Service (DoS),https://github.com/advisories/GHSA-wjxj-5m7g-mg7q,https://da.gd/jlzK7n
+GithubAdvisories,[GHSA-85p4-q357-72h9] Apache Storm Local Information Disclosure Vulnerability in Storm-core on Unix-Like systems due temporary files,https://github.com/advisories/GHSA-85p4-q357-72h9,https://da.gd/89pwxb
+GithubAdvisories,[GHSA-v32m-pf9q-p3xg] Liferay Portal XSS with `p_l_back_url_title` on edit content page,https://github.com/advisories/GHSA-v32m-pf9q-p3xg,https://da.gd/sIV0rW
+GithubAdvisories,[GHSA-fpvw-6m5v-hqfp] Capsule Proxy Authentication bypass using an empty token,https://github.com/advisories/GHSA-fpvw-6m5v-hqfp,https://da.gd/uGEcN
