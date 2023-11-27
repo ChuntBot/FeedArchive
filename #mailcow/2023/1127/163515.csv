@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web][Rspamd] implement custom mailbox attributes and improve domain …,https://github.com/mailcow/mailcow-dockerized/commit/d2e38678936158637fae1f9518248cc10099bf7f,https://da.gd/6ltCzE
+GithubCommitStaging,[Rspamd] fix excluding alias from domain wide footer,https://github.com/mailcow/mailcow-dockerized/commit/b3ac94115e9870159acbeae5477fbcc06fe01536,https://da.gd/nGNI
+GithubCommitStaging,[Web] check if mbox exists before excluding it from domain wide footer,https://github.com/mailcow/mailcow-dockerized/commit/7b7798e8c44f22900d8f817ba1ed9acfe8f29c15,https://da.gd/95BTws
+GithubCommitStaging,Merge pull request #5555 from mailcow/feat/custom-footer-vars,https://github.com/mailcow/mailcow-dockerized/commit/f68a28fa2b0f119caed2f85c42e587facd2aa344,https://da.gd/30V5Jm
