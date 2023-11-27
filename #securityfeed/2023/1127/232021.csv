@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q3qx-c6g2-7pw2] aiohttp's ClientSession is vulnerable to CRLF injection via version,https://github.com/advisories/GHSA-q3qx-c6g2-7pw2,https://da.gd/glKyfY
+GithubAdvisories,[GHSA-qvrw-v9rv-5rjx] aiohttp's ClientSession is vulnerable to CRLF injection via method,https://github.com/advisories/GHSA-qvrw-v9rv-5rjx,https://da.gd/jrn6OQ
+GithubAdvisories,[GHSA-pjjw-qhg8-p2p9] aiohttp has vulnerable dependency that is vulnerable to request smuggling,https://github.com/advisories/GHSA-pjjw-qhg8-p2p9,https://da.gd/5EYRR3
