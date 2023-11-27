@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4233-7q5q-m7p6] google-translate-api-browser Server-Side Request Forgery (SSRF) Vulnerability,https://github.com/advisories/GHSA-4233-7q5q-m7p6,https://da.gd/JdQQ8
+GithubAdvisories,[GHSA-88g2-xgh9-4ph2] OroCommerce get-totals-for-checkout API endpoint returns unwanted data,https://github.com/advisories/GHSA-88g2-xgh9-4ph2,https://da.gd/jH61E3
+GithubAdvisories,[GHSA-8gwj-68w6-7v6c] OroCommerce Customer Portal Incorrect Customer and Customer Group Frontend Menus pages visibility,https://github.com/advisories/GHSA-8gwj-68w6-7v6c,https://da.gd/SR0zc
+GithubAdvisories,[GHSA-897w-jv7j-6r7g] OroCRMCallBundle has incorrect call view page visibility,https://github.com/advisories/GHSA-897w-jv7j-6r7g,https://da.gd/eQ6m
+GithubAdvisories,[GHSA-x2xm-p6vq-482g] OroCalendarBundle has incorrect system calendar events visibility,https://github.com/advisories/GHSA-x2xm-p6vq-482g,https://da.gd/uLcsG
+GithubAdvisories,[GHSA-9v3j-4j64-p937] OroPlatform vulnerable to path traversal during temporary file manipulations,https://github.com/advisories/GHSA-9v3j-4j64-p937,https://da.gd/VmAtp
+GithubAdvisories,[GHSA-4vvc-r4p4-qgrr] Apache DolphinScheduler sensitive information disclosure,https://github.com/advisories/GHSA-4vvc-r4p4-qgrr,https://da.gd/QqZNRK
+GithubAdvisories,[GHSA-qmvj-4qr9-v547] Knative Serving vulnerable to attacker-controlled pod causing denial of service of autoscaler,https://github.com/advisories/GHSA-qmvj-4qr9-v547,https://da.gd/VZqu2h
+GithubAdvisories,[GHSA-75w2-qv55-x7fv] openssl npm package vulnerable to command execution,https://github.com/advisories/GHSA-75w2-qv55-x7fv,https://da.gd/odA9R
+GithubAdvisories,[GHSA-9wwg-r3c7-4vfg] Pimcore Admin UI has Two Factor Authentication disabled for non admin security firewalls,https://github.com/advisories/GHSA-9wwg-r3c7-4vfg,https://da.gd/Lpc0g
+GithubAdvisories,[GHSA-c6xw-hg9q-3c9f] OpenNMS Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-c6xw-hg9q-3c9f,https://da.gd/XRPOSf
+GithubAdvisories,[GHSA-6cxr-8q3m-jwrr] Ray Missing Authorization vulnerability,https://github.com/advisories/GHSA-6cxr-8q3m-jwrr,https://da.gd/tQWE
+GithubAdvisories,[GHSA-h3xg-wv58-5p43] Ray OS Command Injection vulnerability,https://github.com/advisories/GHSA-h3xg-wv58-5p43,https://da.gd/33mM
+GithubAdvisories,[GHSA-4hh5-2678-83fx] Cross-Site Request Forgery vulnerability in Prefect,https://github.com/advisories/GHSA-4hh5-2678-83fx,https://da.gd/8fEPUl
+GithubAdvisories,[GHSA-3pww-qvr8-6mhp] Ray Path Traversal vulnerability,https://github.com/advisories/GHSA-3pww-qvr8-6mhp,https://da.gd/wyVP
