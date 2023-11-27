@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r68h-jhhj-9jvm] Validator.isValidSafeHTML is being deprecated and will be deleted from org.owasp.esapi:esapi in 1 year,https://github.com/advisories/GHSA-r68h-jhhj-9jvm,https://da.gd/lbFXe
+GithubAdvisories,[GHSA-hfxh-rjv7-2369] Uptime Kuma Authenticated remote code execution via TailscalePing,https://github.com/advisories/GHSA-hfxh-rjv7-2369,https://da.gd/pUN6Q
