@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jjfh-589g-3hjx] Spring Boot denial of service vulnerability,https://github.com/advisories/GHSA-jjfh-589g-3hjx,https://da.gd/FyOov
+GithubAdvisories,[GHSA-q24v-hpg3-v3jp] Reactor Netty HTTP Server denial of service vulnerability,https://github.com/advisories/GHSA-q24v-hpg3-v3jp,https://da.gd/cKNWYg
+GithubAdvisories,[GHSA-v94h-hvhg-mf9h] Spring Framework vulnerable to denial of service,https://github.com/advisories/GHSA-v94h-hvhg-mf9h,https://da.gd/2GKZVI
+GithubAdvisories,[GHSA-wq8q-99p5-xfrw] Apache Superset Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-wq8q-99p5-xfrw,https://da.gd/ghuL
+GithubAdvisories,[GHSA-vv65-fjfj-4736] Apache Superset has Incorrect Default Permissions,https://github.com/advisories/GHSA-vv65-fjfj-4736,https://da.gd/xkbkI
+GithubAdvisories,[GHSA-85jj-c9jr-9jhx] Mattermost Improper Access Control vulnerability,https://github.com/advisories/GHSA-85jj-c9jr-9jhx,https://da.gd/t83Gh
+GithubAdvisories,[GHSA-c6cg-73p3-973h] Apache DolphinScheduler Exposure of Sensitive Information to an Unauthorized Actor vulnerability,https://github.com/advisories/GHSA-c6cg-73p3-973h,https://da.gd/CVX4ey
+GithubAdvisories,[GHSA-xphf-cx8h-7q9g] `openssl` `X509StoreRef::objects` is unsound,https://github.com/advisories/GHSA-xphf-cx8h-7q9g,https://da.gd/weCjX0
+GithubAdvisories,[GHSA-jj46-9cgh-qmfx] Mattermost Improper Access Control vulnerability,https://github.com/advisories/GHSA-jj46-9cgh-qmfx,https://da.gd/YTv4k
+GithubAdvisories,[GHSA-jcgv-3pfq-j4hr] Mattermost Injection vulnerability,https://github.com/advisories/GHSA-jcgv-3pfq-j4hr,https://da.gd/JIOsjJ
+GithubAdvisories,[GHSA-c37r-v8jx-7cv2] Mattermost Uncontrolled Resource Consumption vulnerability,https://github.com/advisories/GHSA-c37r-v8jx-7cv2,https://da.gd/vt89U
+GithubAdvisories,[GHSA-jjr7-372r-cx7x] Mattermost Exposure of Sensitive Information to an Unauthorized Actor vulnerability,https://github.com/advisories/GHSA-jjr7-372r-cx7x,https://da.gd/wZ2K
+GithubAdvisories,[GHSA-p5pr-vm3j-jxxf] Mattermost Exposure of Sensitive Information to an Unauthorized Actor vulnerability,https://github.com/advisories/GHSA-p5pr-vm3j-jxxf,https://da.gd/hRTm
+GithubAdvisories,[GHSA-4ghx-8jw8-p76q] Mattermost Open Redirect vulnerability,https://github.com/advisories/GHSA-4ghx-8jw8-p76q,https://da.gd/G4TT5N
+GithubAdvisories,[GHSA-j4c3-3h73-74m9] Mattermost Uncontrolled Resource Consumption vulnerability,https://github.com/advisories/GHSA-j4c3-3h73-74m9,https://da.gd/IIAMgJ
+GithubAdvisories,[GHSA-3487-3j7c-7gwj] Mattermost Uncontrolled Resource Consumption vulnerability,https://github.com/advisories/GHSA-3487-3j7c-7gwj,https://da.gd/Fs69Kd
+GithubAdvisories,[GHSA-jfhm-5ghh-2f97] cryptography vulnerable to NULL-dereference when loading PKCS7 certificates,https://github.com/advisories/GHSA-jfhm-5ghh-2f97,https://da.gd/EWFT6n
