@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3hp7-4qq4-v5c6] Apache Superset Allocation of Resources Without Limits or Throttling vulnerability,https://github.com/advisories/GHSA-3hp7-4qq4-v5c6,https://da.gd/CQM43
+GithubAdvisories,[GHSA-9vfc-qxc8-wrpq] ureport arbitrary file read vulnerability,https://github.com/advisories/GHSA-9vfc-qxc8-wrpq,https://da.gd/vsnmp
+GithubAdvisories,[GHSA-fgpw-4w69-j256] Apache Superset Exposure of Sensitive Information to an Unauthorized Actor vulnerability,https://github.com/advisories/GHSA-fgpw-4w69-j256,https://da.gd/TS3df
+GithubAdvisories,[GHSA-hc74-9vjm-c9xv] Apache Superset Open Redirect vulnerability,https://github.com/advisories/GHSA-hc74-9vjm-c9xv,https://da.gd/4cEikB
+GithubAdvisories,[GHSA-fccv-jmmp-qg76] Apache Tomcat Improper Input Validation vulnerability,https://github.com/advisories/GHSA-fccv-jmmp-qg76,https://da.gd/3zt7dR
+GithubAdvisories,[GHSA-53v4-42fg-g287] Apache ActiveMQ Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-53v4-42fg-g287,https://da.gd/1Nvte
+GithubAdvisories,[GHSA-c38w-74pg-36hr] Marvin Attack: potential key recovery through timing sidechannels,https://github.com/advisories/GHSA-c38w-74pg-36hr,https://da.gd/n8w80
+GithubAdvisories,[GHSA-4grx-2x9w-596c] Marvin Attack: potential key recovery through timing sidechannels,https://github.com/advisories/GHSA-4grx-2x9w-596c,https://da.gd/pQ6WDz
