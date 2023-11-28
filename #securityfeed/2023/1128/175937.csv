@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jpr7-q523-hx25] phpseclib vulnerable to denial of service,https://github.com/advisories/GHSA-jpr7-q523-hx25,https://da.gd/MEwZx
+GithubAdvisories,[GHSA-xwh9-gc39-5298] github.com/go-resty/resty/v2 HTTP request body disclosure,https://github.com/advisories/GHSA-xwh9-gc39-5298,https://da.gd/TVfQc0
