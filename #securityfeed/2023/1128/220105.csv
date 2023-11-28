@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5p3h-7fwh-92rc] Remote Code Execution due to Full Controled File Write in mlflow,https://github.com/advisories/GHSA-5p3h-7fwh-92rc,https://da.gd/ZkASpK
