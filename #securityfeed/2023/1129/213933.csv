@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-gxhx-g4fq-49hj] CarrierWave Content-Type allowlist bypass vulnerability, possibly leading to XSS",https://github.com/advisories/GHSA-gxhx-g4fq-49hj,https://da.gd/keAPbv
+GithubAdvisories,[GHSA-p8q3-h652-65vx] October CMS safe mode bypass using Twig sandbox escape,https://github.com/advisories/GHSA-p8q3-h652-65vx,https://da.gd/EiJri
+GithubAdvisories,[GHSA-q22j-5r3g-9hmh] October CMS safe mode bypass using Page template injection,https://github.com/advisories/GHSA-q22j-5r3g-9hmh,https://da.gd/1ODNYO
+GithubAdvisories,[GHSA-8hc5-rmgf-qx6p] Keycloak vulnerable to LDAP Injection on UsernameForm Login,https://github.com/advisories/GHSA-8hc5-rmgf-qx6p,https://da.gd/7CLau
+GithubAdvisories,[GHSA-vmq6-5m68-f53m] logback serialization vulnerability,https://github.com/advisories/GHSA-vmq6-5m68-f53m,https://da.gd/0tJeD
+GithubAdvisories,[GHSA-2wmj-46rj-qm2w] ZITADEL Account Takeover via Malicious Host Header Injection,https://github.com/advisories/GHSA-2wmj-46rj-qm2w,https://da.gd/nazfl7
+GithubAdvisories,[GHSA-pgpj-83g3-mfr2] Jenkins Google Compute Engine Plugin has incorrect permission checks,https://github.com/advisories/GHSA-pgpj-83g3-mfr2,https://da.gd/nybL
+GithubAdvisories,[GHSA-qmhq-876f-cr65] Jenkins Jira Plugin vulnerable to exposure of system-scoped credentials,https://github.com/advisories/GHSA-qmhq-876f-cr65,https://da.gd/EKLD
+GithubAdvisories,[GHSA-cv4x-9f34-8rp9] Jenkins MATLAB Plugin missing permission checks,https://github.com/advisories/GHSA-cv4x-9f34-8rp9,https://da.gd/qph8
+GithubAdvisories,[GHSA-9f5g-rgcr-8grw] Jenkins MATLAB Plugin cross-site request forgery vulnerability,https://github.com/advisories/GHSA-9f5g-rgcr-8grw,https://da.gd/2rqpE
+GithubAdvisories,[GHSA-wpfc-r5qq-7r7p] Jenkins NeuVector Vulnerability Scanner Plugin Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-wpfc-r5qq-7r7p,https://da.gd/6HwcY
+GithubAdvisories,[GHSA-82q9-88m2-4v68] Jenkins MATLAB Plugin XML External Entity vulnerability,https://github.com/advisories/GHSA-82q9-88m2-4v68,https://da.gd/esHc7
+GithubAdvisories,[GHSA-ph87-4x2g-6hp4] Jenkins NeuVector Vulnerability Scanner Plugin missing permission check,https://github.com/advisories/GHSA-ph87-4x2g-6hp4,https://da.gd/2XBQI9
