@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qc4j-hrj6-cppf] upydev has weak encryption padding,https://github.com/advisories/GHSA-qc4j-hrj6-cppf,https://da.gd/1yTxG
+GithubAdvisories,[GHSA-rvx8-p3xp-fj3p] October CMS stored XSS by authenticated backend user with improper configuration,https://github.com/advisories/GHSA-rvx8-p3xp-fj3p,https://da.gd/5gSGRk
