@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j24h-xcpc-9jw8] Eclipse IDE XXE in eclipse.platform,https://github.com/advisories/GHSA-j24h-xcpc-9jw8,https://da.gd/tZD3
+GithubAdvisories,[GHSA-2c7x-w3mx-h7p6] Microweber file upload vulnerability,https://github.com/advisories/GHSA-2c7x-w3mx-h7p6,https://da.gd/iWSwIH
+GithubAdvisories,[GHSA-8v4w-jr33-4rh3] Apache Cocoon SQL Injection vulnerability,https://github.com/advisories/GHSA-8v4w-jr33-4rh3,https://da.gd/1rudqT
+GithubAdvisories,[GHSA-r44q-98gx-pmh2] Apache DolphinScheduler Missing Authorization vulnerability,https://github.com/advisories/GHSA-r44q-98gx-pmh2,https://da.gd/mZPqe
+GithubAdvisories,[GHSA-77jg-cpw9-73vg] Apache Cocoon Improper Restriction of XML External Entity Reference vulnerability,https://github.com/advisories/GHSA-77jg-cpw9-73vg,https://da.gd/A6xOQ
+GithubAdvisories,[GHSA-prr3-c3m5-p7q2] @adobe/css-tools Improper Input Validation and Inefficient Regular Expression Complexity,https://github.com/advisories/GHSA-prr3-c3m5-p7q2,https://da.gd/N1Z46K
