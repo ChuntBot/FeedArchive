@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fg29-37px-c7wm] RuoYi vulnerable to SQL injection vulnerability,https://github.com/advisories/GHSA-fg29-37px-c7wm,https://da.gd/fRyg9
+GithubAdvisories,[GHSA-7vwr-g6pm-9hc8] Cookie leakage between different users in fastapi-proxy-lib,https://github.com/advisories/GHSA-7vwr-g6pm-9hc8,https://da.gd/Cpn0e
+GithubAdvisories,[GHSA-6g3j-p5g6-992f] OpenSearch StackOverflow vulnerability,https://github.com/advisories/GHSA-6g3j-p5g6-992f,https://da.gd/92iM0
+GithubAdvisories,[GHSA-r8j9-5cj7-cv39] Reflected XSS Vulnerability in dpaste,https://github.com/advisories/GHSA-r8j9-5cj7-cv39,https://da.gd/mfLrW
