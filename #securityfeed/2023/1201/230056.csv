@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wj7f-468m-6mv8] Environment variables still accessible through /proc,https://github.com/advisories/GHSA-wj7f-468m-6mv8,https://da.gd/rtlId
+GithubAdvisories,[GHSA-7pvx-4585-hqww] sequelize-typescript Prototype Pollution vulnerability,https://github.com/advisories/GHSA-7pvx-4585-hqww,https://da.gd/QngC7a
