@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gqj2-324p-vx73] Microcks contains a Server-Side Request Forgery (SSRF) via the component /jobs and /artifact/download,https://github.com/advisories/GHSA-gqj2-324p-vx73,https://da.gd/EcAe0J
+GithubAdvisories,[GHSA-4g6q-77j7-vvjc] Logging of the firestore key within nodejs-firestore,https://github.com/advisories/GHSA-4g6q-77j7-vvjc,https://da.gd/wybMB
+GithubAdvisories,[GHSA-j3rq-4xjw-xg63] Go package github.com/edgelesssys/marblerun CLI commands susceptible to MITM attacks,https://github.com/advisories/GHSA-j3rq-4xjw-xg63,https://da.gd/ixNUYz
+GithubAdvisories,[GHSA-37vq-hr2f-g7h7] HtmlUnit vulnerable to Remote Code Execution (RCE) via XSTL,https://github.com/advisories/GHSA-37vq-hr2f-g7h7,https://da.gd/p0fcI
