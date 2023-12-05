@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v5f6-hjmf-9mc5] PyDrive2's unsafe YAML deserialization in LoadSettingsFile allows arbitrary code execution,https://github.com/advisories/GHSA-v5f6-hjmf-9mc5,https://da.gd/D7sNXY
+GithubAdvisories,[GHSA-pjrj-h4fg-6gm4] tokio-boring vulnerable to resource exhaustion via memory leak,https://github.com/advisories/GHSA-pjrj-h4fg-6gm4,https://da.gd/gnLl
+GithubAdvisories,[GHSA-729q-fcgp-r5xh] Apache Struts Improper Control of Dynamically-Managed Code Resources vulnerability,https://github.com/advisories/GHSA-729q-fcgp-r5xh,https://da.gd/RDwWVA
+GithubAdvisories,[GHSA-x9qq-236j-gj97] Canonical LXD documentation improvement to make clear restricted.devices.disk=allow without restricted.devices.disk.paths also allows shift=true,https://github.com/advisories/GHSA-x9qq-236j-gj97,https://da.gd/qmPQKy
+GithubAdvisories,[GHSA-92r3-m2mg-pj97] Vite XSS vulnerability in `server.transformIndexHtml` via URL payload,https://github.com/advisories/GHSA-92r3-m2mg-pj97,https://da.gd/zhs09
+GithubAdvisories,[GHSA-8j98-cjfr-qx3h] github.com/ecies/go vulnerable to possible private key restoration,https://github.com/advisories/GHSA-8j98-cjfr-qx3h,https://da.gd/tOSm9
+GithubAdvisories,[GHSA-8v8w-v8xg-79rf] tj-actions/branch-names's Improper Sanitization of Branch Name Leads to Arbitrary Code Injection,https://github.com/advisories/GHSA-8v8w-v8xg-79rf,https://da.gd/4uxJV
+GithubAdvisories,[GHSA-7f9x-gw85-8grf] lestrrat-go/jwx's malicious parameters in JWE can cause a DOS,https://github.com/advisories/GHSA-7f9x-gw85-8grf,https://da.gd/TNy0k
