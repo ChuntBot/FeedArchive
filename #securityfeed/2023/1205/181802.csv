@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h56g-gq9v-vc8r] jupyter-server errors include tracebacks with path information,https://github.com/advisories/GHSA-h56g-gq9v-vc8r,https://da.gd/ZO7h
+GithubAdvisories,[GHSA-6fwg-jrfw-ff7p] Traefik docker container using 100% CPU,https://github.com/advisories/GHSA-6fwg-jrfw-ff7p,https://da.gd/7MLT4
+GithubAdvisories,[GHSA-8g85-whqh-cr2f] Traefik vulnerable to potential DDoS via ACME HTTPChallenge,https://github.com/advisories/GHSA-8g85-whqh-cr2f,https://da.gd/7Ve1ik
+GithubAdvisories,"[GHSA-fvhj-4qfh-q2hm] Traefik incorrectly processes fragment in the URL, leads to Authorization Bypass",https://github.com/advisories/GHSA-fvhj-4qfh-q2hm,https://da.gd/pjomnP
