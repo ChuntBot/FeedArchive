@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mhhp-c3cm-2r86] Test code in published microsoft-graph-core package exposes phpinfo(),https://github.com/advisories/GHSA-mhhp-c3cm-2r86,https://da.gd/1HTib
+GithubAdvisories,[GHSA-cgwq-6prq-8h9q] Test code in published microsoft-graph package exposes phpinfo(),https://github.com/advisories/GHSA-cgwq-6prq-8h9q,https://da.gd/JOAb
