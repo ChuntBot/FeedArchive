@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xfv5-jqgp-vqhj] Quarkus Cache Runtime exposes sensitive information to an unauthorized actor,https://github.com/advisories/GHSA-xfv5-jqgp-vqhj,https://da.gd/tl3dwv
