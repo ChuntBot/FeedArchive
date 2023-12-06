@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pr4w-m4rp-gp87] PHPMemcachedAdmin vulnerable to cross-site scripting (XSS) via improper encoding,https://github.com/advisories/GHSA-pr4w-m4rp-gp87,https://da.gd/8SEGB
+GithubAdvisories,[GHSA-8qfm-h8rh-h3r7] PHPMemcachedAdmin Path Traversal vulnerability,https://github.com/advisories/GHSA-8qfm-h8rh-h3r7,https://da.gd/FPwW8m
