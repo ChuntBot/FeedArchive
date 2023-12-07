@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6pqx-v9g4-5hc8] Jupiter allows attackers to execute arbitrary commands via sending a crafted RPC request,https://github.com/advisories/GHSA-6pqx-v9g4-5hc8,https://da.gd/SDxeo
