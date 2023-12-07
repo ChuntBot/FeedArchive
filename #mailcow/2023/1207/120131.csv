@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubCommit,Add Mastodon Links,https://github.com/mailcow/mailcow-dockerized/commit/f2e21c68d0cacdf9798277a9bd7d250e8d04d6f1,https://da.gd/Rp91
+GithubCommit,Use full mastodon name instead,https://github.com/mailcow/mailcow-dockerized/commit/b1a172cad9a16ea80c1a8045d79f9c595cb76c7c,https://da.gd/eHeGR
+GithubCommit,[Rspamd] fix excluding alias from domain wide footer,https://github.com/mailcow/mailcow-dockerized/commit/b3ac94115e9870159acbeae5477fbcc06fe01536,https://da.gd/nGNI
+GithubCommit,[Web] check if mbox exists before excluding it from domain wide footer,https://github.com/mailcow/mailcow-dockerized/commit/7b7798e8c44f22900d8f817ba1ed9acfe8f29c15,https://da.gd/95BTws
+GithubCommit,Merge pull request #5555 from mailcow/feat/custom-footer-vars,https://github.com/mailcow/mailcow-dockerized/commit/f68a28fa2b0f119caed2f85c42e587facd2aa344,https://da.gd/30V5Jm
+GithubCommit,Implemented improved check in update.sh as well,https://github.com/mailcow/mailcow-dockerized/commit/de812221efaa2c36e2db7b40ff30c8a672c85f5c,https://da.gd/9qbVI
+GithubCommit,Merge pull request #5562 from startnow65/master,https://github.com/mailcow/mailcow-dockerized/commit/9a5d8d2d22beacece8968327d0bd1db5f083ed20,https://da.gd/Z12vZD
+GithubCommit,[Web] Updated lang.fi-fi.json (#5567),https://github.com/mailcow/mailcow-dockerized/commit/3a675fb5415ae9386d985e46fb0c3818567308fe,https://da.gd/8Dhch
+GithubCommit,Translations update from Weblate (#5569),https://github.com/mailcow/mailcow-dockerized/commit/91e00f7d9798c7444a4de2c62e4af13417c5c0f9,https://da.gd/JX2N
+GithubCommit,update postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/5da089ccd7a003479a18855557ac86a8b355bcf7,https://da.gd/vVX7
+GithubCommit,[Web] Updated lang.pt-br.json (#5573),https://github.com/mailcow/mailcow-dockerized/commit/981c7d59740faaf79d07cbdd9e8a5073ff4ec654,https://da.gd/b50PD
+GithubCommit,Merge pull request #5570 from mailcow/update/postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/9ffc83f0f66b75978fbe550c3dac6d1fd93a9c8c,https://da.gd/s1Pvt
+GithubCommit,[Rspamd] Removed global ratelimit override,https://github.com/mailcow/mailcow-dockerized/commit/d3ed22567578eab3547753e2dde686b15b5fce20,https://da.gd/1B2h
+GithubCommit,[Rspamd] Added customizable global ratelimit file (disabled by default),https://github.com/mailcow/mailcow-dockerized/commit/d81f105ed7317ea9d5bbfe16ceedcf2c4bee2a9e,https://da.gd/hZnl
+GithubCommit,Merge pull request #5577 from mailcow/fix/rspamd-ratelimiting,https://github.com/mailcow/mailcow-dockerized/commit/02ae5fa0074f34190ec3c1cc7f462a28859daac1,https://da.gd/GZvniV
+GithubCommit,"[UI] Fixed showing of ""disabled"" placeholder for ratelimits in domains",https://github.com/mailcow/mailcow-dockerized/commit/550b88861f7a6dc8651659ceb894e111f49d76ab,https://da.gd/KLehEs
+GithubCommit,Update Rspamd Image to 1.94,https://github.com/mailcow/mailcow-dockerized/commit/03aaf4ad76898cebb5ad83cde2a7ca769410f8be,https://da.gd/SNU5
+GithubCommit,Merge pull request #5578 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/2024cda5603f74d96653500100a300387ac47d20,https://da.gd/J8NI
