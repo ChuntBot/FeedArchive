@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Rspamd] Removed global ratelimit override,https://github.com/mailcow/mailcow-dockerized/commit/d3ed22567578eab3547753e2dde686b15b5fce20,https://da.gd/1B2h
+GithubCommitStaging,[Rspamd] Added customizable global ratelimit file (disabled by default),https://github.com/mailcow/mailcow-dockerized/commit/d81f105ed7317ea9d5bbfe16ceedcf2c4bee2a9e,https://da.gd/hZnl
+GithubCommitStaging,Merge pull request #5577 from mailcow/fix/rspamd-ratelimiting,https://github.com/mailcow/mailcow-dockerized/commit/02ae5fa0074f34190ec3c1cc7f462a28859daac1,https://da.gd/GZvniV
+GithubCommitStaging,"[UI] Fixed showing of ""disabled"" placeholder for ratelimits in domains",https://github.com/mailcow/mailcow-dockerized/commit/550b88861f7a6dc8651659ceb894e111f49d76ab,https://da.gd/KLehEs
