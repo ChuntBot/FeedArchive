@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j4g3-3q8x-jxqp] dbt-core's secret env vars written to package-lock.json in plaintext,https://github.com/advisories/GHSA-j4g3-3q8x-jxqp,https://da.gd/rRvHct
+GithubAdvisories,[GHSA-p8q6-qrgj-7gx2] Microweber allows a remote attacker to obtain sensitive information via the HTTP GET method,https://github.com/advisories/GHSA-p8q6-qrgj-7gx2,https://da.gd/0ZyqQz
+GithubAdvisories,[GHSA-7787-p7x6-fq3j] Candid infinite decoding loop through specially crafted payload,https://github.com/advisories/GHSA-7787-p7x6-fq3j,https://da.gd/sVwbC
+GithubAdvisories,[GHSA-9j5w-2cqc-cwj9] Magento LTS vulnerable to Stored XSS via TinyMCE WYSIWYG Editor,https://github.com/advisories/GHSA-9j5w-2cqc-cwj9,https://da.gd/SYFce
+GithubAdvisories,[GHSA-9r6p-hg4g-5gxp] Microweber missing standardized error handling mechanism,https://github.com/advisories/GHSA-9r6p-hg4g-5gxp,https://da.gd/LAf6
+GithubAdvisories,[GHSA-vwgg-2q82-38c5] Solon is vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-vwgg-2q82-38c5,https://da.gd/tiuN
