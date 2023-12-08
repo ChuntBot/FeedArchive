@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w7cg-5969-678w] Apache Tomcat allows remote attackers to bypass a CSRF protection mechanism by using a token,https://github.com/advisories/GHSA-w7cg-5969-678w,https://da.gd/yGZIH
+GithubAdvisories,[GHSA-fjwp-r6fm-q6qw] Apache Tomcat allows remote attackers to read data that was intended to be associated with a different request,https://github.com/advisories/GHSA-fjwp-r6fm-q6qw,https://da.gd/nyzCVT
