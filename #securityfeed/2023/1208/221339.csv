@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3mjp-p938-4329] Apache Tomcat vulnerable to SecurityManager bypass,https://github.com/advisories/GHSA-3mjp-p938-4329,https://da.gd/xYdg2X
+GithubAdvisories,[GHSA-cw54-59pw-4g8c] Apache Tomcat Improper Access Control vulnerability,https://github.com/advisories/GHSA-cw54-59pw-4g8c,https://da.gd/ZhntES
+GithubAdvisories,[GHSA-7gq9-p94f-g5v9] ThinkAdmin arbitrary file upload vulnerability,https://github.com/advisories/GHSA-7gq9-p94f-g5v9,https://da.gd/F3QuNv
+GithubAdvisories,"[GHSA-99jv-8292-2hpm] eventing-gitlab vulnerable to denial of service, caused by improper enforcement of the timeout on individual read operations",https://github.com/advisories/GHSA-99jv-8292-2hpm,https://da.gd/Q494Vi
+GithubAdvisories,[GHSA-63cv-4pc2-4fcf] Mattermost Exposure of Sensitive Information to an Unauthorized Actor vulnerability,https://github.com/advisories/GHSA-63cv-4pc2-4fcf,https://da.gd/e3Xbg
+GithubAdvisories,[GHSA-7664-hcp7-f497] Mattermost Injection vulnerability,https://github.com/advisories/GHSA-7664-hcp7-f497,https://da.gd/DTzQ
