@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hj4c-vfc4-5f9c] Cross-site Scripting in Semantic MediaWiki,https://github.com/advisories/GHSA-hj4c-vfc4-5f9c,https://da.gd/VgnRQw
+GithubAdvisories,[GHSA-w4x6-hh3x-wjrx] Stale copy of the public suffix list,https://github.com/advisories/GHSA-w4x6-hh3x-wjrx,https://da.gd/wxz9Dh
+GithubAdvisories,[GHSA-rxg9-hgq7-8pwx] Header spoofing in caddy-geo-ip,https://github.com/advisories/GHSA-rxg9-hgq7-8pwx,https://da.gd/dyHjk
+GithubAdvisories,[GHSA-qxrj-hx23-xp82] Overly permissive origin policy,https://github.com/advisories/GHSA-qxrj-hx23-xp82,https://da.gd/4GnzwF
+GithubAdvisories,[GHSA-qw4h-3xjj-84cc] Apache Tiles: Unvalidated input may lead to path traversal and XXE,https://github.com/advisories/GHSA-qw4h-3xjj-84cc,https://da.gd/EuE9xA
+GithubAdvisories,[GHSA-wqxf-447m-6f5f] Information exposure in MLflow,https://github.com/advisories/GHSA-wqxf-447m-6f5f,https://da.gd/Sr52q
