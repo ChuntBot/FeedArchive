@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Netfilter] set image back to mailcow/netfilter:1.52,https://github.com/mailcow/mailcow-dockerized/commit/340980bdd0b3e44c13bd8b4b3ef37dbea823d108,https://da.gd/EOeRDQ
+GithubCommitStaging,[Netfilter] do not ignore RETRY_WINDOW,https://github.com/mailcow/mailcow-dockerized/commit/86fa8634eeed0ccbf1ba89f67be6194586c3842b,https://da.gd/sh9v1
+GithubCommitStaging,[Netfilter] update image & delete old server.py,https://github.com/mailcow/mailcow-dockerized/commit/f4b838cad8f376bea4522b822f1edd77076f64f7,https://da.gd/EAIEB
+GithubCommitStaging,Merge pull request #5585 from mailcow/feat/nftables,https://github.com/mailcow/mailcow-dockerized/commit/3498d4b9c5791fe0f6504cfb05140d83a179fbcd,https://da.gd/26avgQ
