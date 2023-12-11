@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Watchdog] add curl verbose & use | as sed delimiter,https://github.com/mailcow/mailcow-dockerized/commit/218ba6950187c2648769e8eeef0c3529023cecd7,https://da.gd/lFcnX
+GithubCommitStaging,Merge branch 'staging' into staging,https://github.com/mailcow/mailcow-dockerized/commit/7f4e9c1ad4d43b552eae2a6a1561626aff76f1ec,https://da.gd/LUORn
+GithubCommitStaging,Merge pull request #4968 from felixoi/staging,https://github.com/mailcow/mailcow-dockerized/commit/996772a27dcded9f7c8ed88c6361094fadd3e082,https://da.gd/ZuA8k2
