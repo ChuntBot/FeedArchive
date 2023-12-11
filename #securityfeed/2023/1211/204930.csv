@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q6hx-3m4p-749h] DOS by abusing `fetchOptions.retry`,https://github.com/advisories/GHSA-q6hx-3m4p-749h,https://da.gd/JaSzfI
