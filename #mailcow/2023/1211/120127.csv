@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Merge remote-tracking branch 'origin/staging' into feat/f2b-banlist,https://github.com/mailcow/mailcow-dockerized/commit/3e40bbc60357d901c974b182b0eb744be37518ae,https://da.gd/LAohV
+GithubCommitStaging,Merge pull request #5313 from mailcow/feat/f2b-banlist,https://github.com/mailcow/mailcow-dockerized/commit/c2e5dfd933403ced2b1cf17b588dd3a0becf8c95,https://da.gd/D8Pob
