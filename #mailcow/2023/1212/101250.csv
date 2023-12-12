@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[SOGo] Update to 5.9.1,https://github.com/mailcow/mailcow-dockerized/commit/f38ec686959fd618b3a0e4f8ed71ce3457949eb4,https://da.gd/G95JDE
+GithubCommitStaging,fix WATCHDOG_NOTIFY_WEBHOOK env vars,https://github.com/mailcow/mailcow-dockerized/commit/66b9245b2870224fbc9f662856af20040dd431bf,https://da.gd/iip8D
