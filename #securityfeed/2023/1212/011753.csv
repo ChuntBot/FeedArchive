@@ -1,0 +1,30 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-88j4-pcx8-q4q3] Password Change Vulnerability,https://github.com/advisories/GHSA-88j4-pcx8-q4q3,https://da.gd/E0eLS
+GithubAdvisories,[GHSA-4rgc-5g6r-2rjf] lakeFS logs S3 credentials in plain text,https://github.com/advisories/GHSA-4rgc-5g6r-2rjf,https://da.gd/N4Hhp
+GithubAdvisories,[GHSA-26hr-q2wp-rvc5] User with permission to write actions can impersonate another user when auth token is configured in environment variable,https://github.com/advisories/GHSA-26hr-q2wp-rvc5,https://da.gd/epahQh
+GithubAdvisories,[GHSA-vwhf-3v6x-wff8] Cross-site Scripting in MLflow,https://github.com/advisories/GHSA-vwhf-3v6x-wff8,https://da.gd/Ruwc4U
+GithubAdvisories,[GHSA-pv3g-vc3q-8c9g] Cross-Site Request Forgery in JFinalCMS via admin/nav/delete,https://github.com/advisories/GHSA-pv3g-vc3q-8c9g,https://da.gd/OeJ6
+GithubAdvisories,[GHSA-32j2-c7mx-v4jj] Cross-Site Request Forgery in JFinalCMS via /admin/nav/update,https://github.com/advisories/GHSA-32j2-c7mx-v4jj,https://da.gd/cOTbqw
+GithubAdvisories,[GHSA-hv4c-v8j8-54cw] Cross-Site Request Forgery in JFinalCMS via /admin/nav/save,https://github.com/advisories/GHSA-hv4c-v8j8-54cw,https://da.gd/r0Sft
+GithubAdvisories,[GHSA-mwvq-gc5w-m78f] Cross-Site Request Forgery in JFinalCMS via /admin/category/delete,https://github.com/advisories/GHSA-mwvq-gc5w-m78f,https://da.gd/JtGzc
+GithubAdvisories,[GHSA-5f56-h6fg-rcrh] Cross-Site Request Forgery in JFinalCMS via /admin/category/updateStatus,https://github.com/advisories/GHSA-5f56-h6fg-rcrh,https://da.gd/UBwdi
+GithubAdvisories,[GHSA-882g-gjqp-9vjp] Cross-Site Request Forgery in JFinalCMS via /admin/category/save,https://github.com/advisories/GHSA-882g-gjqp-9vjp,https://da.gd/rJ6Gn
+GithubAdvisories,[GHSA-6v55-h6m5-2352] Cross-Site Request Forgery in JFinalCMS via /admin/div/delete,https://github.com/advisories/GHSA-6v55-h6m5-2352,https://da.gd/5SEWTQ
+GithubAdvisories,[GHSA-rq2q-hc6h-2px2] Cross-Site Request Forgery in JFinalCMS via /admin/tag/save,https://github.com/advisories/GHSA-rq2q-hc6h-2px2,https://da.gd/bMGnR
+GithubAdvisories,[GHSA-8hch-q86g-j38w] Cross-Site Request Forgery in JFinalCMS via /admin/category/update,https://github.com/advisories/GHSA-8hch-q86g-j38w,https://da.gd/DVf96P
+GithubAdvisories,[GHSA-r222-mcff-27ff] Cross-Site Request Forgery in JFinalCMS via /admin/div/update,https://github.com/advisories/GHSA-r222-mcff-27ff,https://da.gd/O1FPK
+GithubAdvisories,[GHSA-r7w2-j96v-vw8m] Cross-Site Request Forgery in JFinalCMS via /admin/slide/update,https://github.com/advisories/GHSA-r7w2-j96v-vw8m,https://da.gd/czxBi
+GithubAdvisories,[GHSA-765f-3mgx-24pw] Cross-Site Request Forgery in JFinalCMS via /admin/friend_link/delete,https://github.com/advisories/GHSA-765f-3mgx-24pw,https://da.gd/8xHWLf
+GithubAdvisories,[GHSA-r2wj-mxvh-wqfh] Cross-Site Request Forgery in JFinalCMS via the component /admin/friend_link/save,https://github.com/advisories/GHSA-r2wj-mxvh-wqfh,https://da.gd/jhJW8
+GithubAdvisories,[GHSA-gw26-cchc-8f2f] Cross-Site Request Forgery in JFinalCMS via /admin/form/save,https://github.com/advisories/GHSA-gw26-cchc-8f2f,https://da.gd/ENfRk
+GithubAdvisories,[GHSA-r6mg-fq87-gw34] Cross-Site Request Forgery in JFinalCMS via /admin/tag/update,https://github.com/advisories/GHSA-r6mg-fq87-gw34,https://da.gd/q8Cka
+GithubAdvisories,[GHSA-gfhv-xxqj-h323] Cross-Site Request Forgery in JFinalCMS via /admin/friend_link/update,https://github.com/advisories/GHSA-gfhv-xxqj-h323,https://da.gd/K0uzJ
+GithubAdvisories,[GHSA-w492-7g9m-j2ww] Cross-Site Request Forgery in JFinalCMS,https://github.com/advisories/GHSA-w492-7g9m-j2ww,https://da.gd/tDWE
+GithubAdvisories,[GHSA-9wvj-wr2f-6mx6] Cross-Site Request Forgery in JFinalCMS,https://github.com/advisories/GHSA-9wvj-wr2f-6mx6,https://da.gd/oHAN
+GithubAdvisories,[GHSA-cj7j-23wf-mhrx] Cross-Site Request Forgery in JFinalCMS,https://github.com/advisories/GHSA-cj7j-23wf-mhrx,https://da.gd/j472xK
+GithubAdvisories,[GHSA-mvc8-6ffp-jrx5] Authorization bypass in Quarkus,https://github.com/advisories/GHSA-mvc8-6ffp-jrx5,https://da.gd/jcjhL
+GithubAdvisories,[GHSA-6p62-6cg9-f5f5] Memory exhaustion in HashiCorp Vault,https://github.com/advisories/GHSA-6p62-6cg9-f5f5,https://da.gd/8JRmQ9
+GithubAdvisories,[GHSA-3wfp-253j-5jxv] SSRF & Credentials Leak,https://github.com/advisories/GHSA-3wfp-253j-5jxv,https://da.gd/v7Mz
+GithubAdvisories,[GHSA-699g-q6qh-q4v8] OpenZeppelin Contracts and Contracts Upgradeable duplicated execution of subcalls in v4.9.4,https://github.com/advisories/GHSA-699g-q6qh-q4v8,https://da.gd/3O7W
+GithubAdvisories,[GHSA-crhp-7c74-cg4c] Improper Input Validation in mindsdb,https://github.com/advisories/GHSA-crhp-7c74-cg4c,https://da.gd/mpTs
+GithubAdvisories,[GHSA-34mr-6q8x-g9r6] Server-Side Request Forgery in mindsdb,https://github.com/advisories/GHSA-34mr-6q8x-g9r6,https://da.gd/Hb0oMQ
