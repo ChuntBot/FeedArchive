@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Merge branch 'staging' into watchdog-no-notify-on-startup,https://github.com/mailcow/mailcow-dockerized/commit/96a5891ce75d8055bd2315a7166d1de7364b1620,https://da.gd/hs1IS
+GithubCommitStaging,Merge pull request #5453 from smarsching/watchdog-no-notify-on-startup,https://github.com/mailcow/mailcow-dockerized/commit/69e3b830ed5bbd57950aa0be3754fe9071b67f9d,https://da.gd/urprS
