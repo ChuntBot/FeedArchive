@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6x4h-9622-fqr6] Improper validation in meraki,https://github.com/advisories/GHSA-6x4h-9622-fqr6,https://da.gd/Ed4eP
+GithubAdvisories,[GHSA-w3vp-jw9m-f9pm] Unbounded queuing of path validation messages in cloudflare-quiche,https://github.com/advisories/GHSA-w3vp-jw9m-f9pm,https://da.gd/tu6IMG
+GithubAdvisories,[GHSA-6mjg-37cp-42x5] Improper Privilege Management in sap-xssec,https://github.com/advisories/GHSA-6mjg-37cp-42x5,https://da.gd/npTwq
+GithubAdvisories,[GHSA-m8rw-rcpq-2vp2] Improper Privilege Management in github.com/sap/cloud-security-client-go,https://github.com/advisories/GHSA-m8rw-rcpq-2vp2,https://da.gd/zD6Psl
+GithubAdvisories,[GHSA-59c9-pxq8-9c73] Improper JWT Signature Validation in SAP Security Services Library,https://github.com/advisories/GHSA-59c9-pxq8-9c73,https://da.gd/I2Bj
+GithubAdvisories,[GHSA-cxfr-5q3r-2rc2] Jinja2 template injection in mlflow,https://github.com/advisories/GHSA-cxfr-5q3r-2rc2,https://da.gd/YAqbxO
+GithubAdvisories,[GHSA-rv74-m283-5j95] Elasticsearch-hadoop Unsafe Deserialization,https://github.com/advisories/GHSA-rv74-m283-5j95,https://da.gd/LsvN3k
+GithubAdvisories,[GHSA-4mq4-7rw3-vm5j] Filesystem sandbox not enforced,https://github.com/advisories/GHSA-4mq4-7rw3-vm5j,https://da.gd/oQAjPT
+GithubAdvisories,[GHSA-ff5x-7qg5-vwf2] Denial of service caused by infinite recursion when parsing SVG document,https://github.com/advisories/GHSA-ff5x-7qg5-vwf2,https://da.gd/ocnme
+GithubAdvisories,[GHSA-6xmx-85x3-4cv2] Stored XSS via SVG File Upload,https://github.com/advisories/GHSA-6xmx-85x3-4cv2,https://da.gd/P0eb
+GithubAdvisories,[GHSA-7x74-h8cw-qhxq] Brute force exploit can be used to collect valid usernames,https://github.com/advisories/GHSA-7x74-h8cw-qhxq,https://da.gd/G1hzr
+GithubAdvisories,"[GHSA-8qp8-9rpw-j46c] SMTP misconfiguration leading to ""Forgot Password"" exploit that leaks registered user email",https://github.com/advisories/GHSA-8qp8-9rpw-j46c,https://da.gd/85Tsb
+GithubAdvisories,[GHSA-cfr5-7p54-4qg8] Privilege Escalation using Spoofing,https://github.com/advisories/GHSA-cfr5-7p54-4qg8,https://da.gd/9kbE2
+GithubAdvisories,[GHSA-6324-52pr-h4p5] Using the directory back payload (“/../”) in a package name allows placement of package in other folders,https://github.com/advisories/GHSA-6324-52pr-h4p5,https://da.gd/xvEATH
+GithubAdvisories,[GHSA-v98m-398x-269r] DOM-XSS on Backoffice login screen,https://github.com/advisories/GHSA-v98m-398x-269r,https://da.gd/a6q9r
+GithubAdvisories,"[GHSA-335x-5wcm-8jv2] Backoffice User can bypass ""Publish"" restriction",https://github.com/advisories/GHSA-335x-5wcm-8jv2,https://da.gd/FLVH
+GithubAdvisories,[GHSA-6m97-7527-mh74] incorrect storage layout for contracts containing large arrays,https://github.com/advisories/GHSA-6m97-7527-mh74,https://da.gd/UiKxs
+GithubAdvisories,[GHSA-xxc6-35r7-796w] Possible injection of HTML into user invite mails,https://github.com/advisories/GHSA-xxc6-35r7-796w,https://da.gd/skziu
