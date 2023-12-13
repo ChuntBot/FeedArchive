@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v945-r3rc-6fjm] Path traversal in MLflow,https://github.com/advisories/GHSA-v945-r3rc-6fjm,https://da.gd/7rshF
+GithubAdvisories,[GHSA-5mmr-9qx3-3pf9] Code execution in evershop,https://github.com/advisories/GHSA-5mmr-9qx3-3pf9,https://da.gd/ZmiTD
+GithubAdvisories,[GHSA-gjj8-m83c-qv9h] Cross-site Scripting in evershop,https://github.com/advisories/GHSA-gjj8-m83c-qv9h,https://da.gd/LOuhe
+GithubAdvisories,[GHSA-7443-5962-wp4r] Directory Traversal in evershop,https://github.com/advisories/GHSA-7443-5962-wp4r,https://da.gd/Ylidn
+GithubAdvisories,[GHSA-rwf3-w4jq-f4cm] Directory Traversal in evershop,https://github.com/advisories/GHSA-rwf3-w4jq-f4cm,https://da.gd/mtWcz
+GithubAdvisories,[GHSA-m6vm-ff9v-jp3r] Cross Site Scripting in evershop,https://github.com/advisories/GHSA-m6vm-ff9v-jp3r,https://da.gd/uSirP
+GithubAdvisories,[GHSA-2xcj-557c-hf8r] Cross-site Scripting in evershop,https://github.com/advisories/GHSA-2xcj-557c-hf8r,https://da.gd/gzEA2f
+GithubAdvisories,[GHSA-4wrm-qmq2-5fjx] Directory Traversal in evershop,https://github.com/advisories/GHSA-4wrm-qmq2-5fjx,https://da.gd/fWIRiI
+GithubAdvisories,[GHSA-75mc-3pjc-727q] Unauthenticated db-file-storage views,https://github.com/advisories/GHSA-75mc-3pjc-727q,https://da.gd/FTDN
