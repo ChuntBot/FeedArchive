@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7ccg-jm7j-4f8v] Cross-site request forgery vulnerability in Jenkins HTMLResource Plugin,https://github.com/advisories/GHSA-7ccg-jm7j-4f8v,https://da.gd/tCiH
+GithubAdvisories,[GHSA-4j42-6xfx-h754] Missing permission check in Jenkins Scriptler Plugin,https://github.com/advisories/GHSA-4j42-6xfx-h754,https://da.gd/JtEgk
+GithubAdvisories,[GHSA-7x2g-4jvc-4x6p] Directory Traversal in JFinalCMS,https://github.com/advisories/GHSA-7x2g-4jvc-4x6p,https://da.gd/Ty0M6
+GithubAdvisories,[GHSA-gqgv-7wpj-vm6q] Cross Site Request Forgery in Silverpeas,https://github.com/advisories/GHSA-gqgv-7wpj-vm6q,https://da.gd/aPiG0v
+GithubAdvisories,[GHSA-wgrw-fj3v-fhc5] Cross-site Scripting in silverpeas,https://github.com/advisories/GHSA-wgrw-fj3v-fhc5,https://da.gd/kONJb
+GithubAdvisories,[GHSA-42g3-3jwm-63rx] Broken access control in Silverpeas,https://github.com/advisories/GHSA-42g3-3jwm-63rx,https://da.gd/bEBjM
+GithubAdvisories,[GHSA-vpp3-hpcm-v944] Broken access control in Silverpeas,https://github.com/advisories/GHSA-vpp3-hpcm-v944,https://da.gd/hX18r2
+GithubAdvisories,[GHSA-g27c-w2v7-88xp] Cross Site Request Forgery in Silverpeas,https://github.com/advisories/GHSA-g27c-w2v7-88xp,https://da.gd/MaPTC
+GithubAdvisories,[GHSA-cwh6-hm53-6w2m] Missing access control in Silverpeas,https://github.com/advisories/GHSA-cwh6-hm53-6w2m,https://da.gd/O7Rw
+GithubAdvisories,[GHSA-28wg-8gv4-mpjf] Broken access control in Silverpeas,https://github.com/advisories/GHSA-28wg-8gv4-mpjf,https://da.gd/tOxpP
+GithubAdvisories,[GHSA-whgv-6j78-5rh2] Broken access control in Silverpeas,https://github.com/advisories/GHSA-whgv-6j78-5rh2,https://da.gd/CQdNGT
