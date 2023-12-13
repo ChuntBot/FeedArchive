@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7cwq-p8cr-h9qg] Buttercup allows attackers to obtain the hash of the master password,https://github.com/advisories/GHSA-7cwq-p8cr-h9qg,https://da.gd/s1z8
+GithubAdvisories,[GHSA-9759-3276-g2pm] Denial of service attack on the cube-api endpoint,https://github.com/advisories/GHSA-9759-3276-g2pm,https://da.gd/g6Y5
+GithubAdvisories,[GHSA-v9w3-34xq-hrjg] Tokens stored in plain text by PaaSLane Estimate Plugin,https://github.com/advisories/GHSA-v9w3-34xq-hrjg,https://da.gd/cl86
+GithubAdvisories,[GHSA-xcrr-x93h-rv4v] Arbitrary file deletion vulnerability in Jenkins Scriptler Plugin,https://github.com/advisories/GHSA-xcrr-x93h-rv4v,https://da.gd/KlK6Pt
+GithubAdvisories,"[GHSA-j8cw-ppmv-wj85] Insecure Direct Object Reference in extension ""Content Consent"" (content_consent)",https://github.com/advisories/GHSA-j8cw-ppmv-wj85,https://da.gd/9jlFn
+GithubAdvisories,"[GHSA-4xp5-hr35-84cx] Broken Access Control in extension ""femanager""",https://github.com/advisories/GHSA-4xp5-hr35-84cx,https://da.gd/RhUs
+GithubAdvisories,"[GHSA-p6xx-fhfw-7mj7] Configuration Injection in extension ""Direct Mail"" (direct_mail)",https://github.com/advisories/GHSA-p6xx-fhfw-7mj7,https://da.gd/HLR0o9
+GithubAdvisories,[GHSA-3qx2-6f78-w2j2] Denial of service caused by infinite recursion when parsing SVG images,https://github.com/advisories/GHSA-3qx2-6f78-w2j2,https://da.gd/f8D7f
+GithubAdvisories,[GHSA-7fgc-89cx-w8j5] Out of memory error when submitting the dataset form with a specially-crafted field,https://github.com/advisories/GHSA-7fgc-89cx-w8j5,https://da.gd/tSlvaT
