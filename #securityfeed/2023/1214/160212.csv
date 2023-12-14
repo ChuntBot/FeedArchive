@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-76q7-r3g4-wvm4] Sandbox bypass vulnerability in Jenkins Script Security Plugin,https://github.com/advisories/GHSA-76q7-r3g4-wvm4,https://da.gd/1806BR
+GithubAdvisories,[GHSA-22rj-q66g-2jg3] Jenkins GitLab Logo Plugin stores credentials unencrypted,https://github.com/advisories/GHSA-22rj-q66g-2jg3,https://da.gd/bMaiRp
+GithubAdvisories,[GHSA-m26f-w3h5-62fj] Sandbox bypass vulnerability in Jenkins Script Security Plugin,https://github.com/advisories/GHSA-m26f-w3h5-62fj,https://da.gd/q8qKe3
+GithubAdvisories,[GHSA-hvmx-5hv4-f235] Sandbox bypass vulnerability in Jenkins Script Security Plugin,https://github.com/advisories/GHSA-hvmx-5hv4-f235,https://da.gd/8xL6eX
+GithubAdvisories,[GHSA-9fp8-64xf-w957] Sandbox bypass vulnerability in Script Security Plugin,https://github.com/advisories/GHSA-9fp8-64xf-w957,https://da.gd/n8qm1
+GithubAdvisories,[GHSA-vp26-4hj6-jrvx] Skytap Cloud CI Plugin stored credentials in plain text,https://github.com/advisories/GHSA-vp26-4hj6-jrvx,https://da.gd/2EaC
+GithubAdvisories,[GHSA-44w7-gh9c-4qvr] Missing permission check in Jenkins XebiaLabs XL Deploy Plugin,https://github.com/advisories/GHSA-44w7-gh9c-4qvr,https://da.gd/puoE9
+GithubAdvisories,[GHSA-9p5v-6p5f-f28h] Stored credentials unencrypted in Jenkins Mashup Portlets Plugin,https://github.com/advisories/GHSA-9p5v-6p5f-f28h,https://da.gd/w3ruz
+GithubAdvisories,[GHSA-76w6-m7vv-7hhw] Missing permission check in Jenkins Docker Plugin,https://github.com/advisories/GHSA-76w6-m7vv-7hhw,https://da.gd/BeZr
+GithubAdvisories,[GHSA-xqwq-jxjh-wj82] Missing permission check in Jenkins PAM Authentication Plugin,https://github.com/advisories/GHSA-xqwq-jxjh-wj82,https://da.gd/AMbfj
