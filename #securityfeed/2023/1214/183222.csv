@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vc4r-j8j6-3fp6] Missing permission check in Jenkins Publish Over SSH Plugin,https://github.com/advisories/GHSA-vc4r-j8j6-3fp6,https://da.gd/Yqb7j
+GithubAdvisories,[GHSA-h3rg-4h5g-8fqg] SSRF vulnerability due to missing permission check in Fortify on Demand Uploader Plugin,https://github.com/advisories/GHSA-h3rg-4h5g-8fqg,https://da.gd/Xmp6AP
+GithubAdvisories,[GHSA-r2vw-x3hr-969v] Unprivileged users with Overall/Read access are able to enumerate credential IDs in Azure VM Agents Plugin,https://github.com/advisories/GHSA-r2vw-x3hr-969v,https://da.gd/RR6Frw
+GithubAdvisories,[GHSA-m33c-cjjj-2mg4] Missing permission check in Azure VM Agents Plugin allowed modifying VM configuration,https://github.com/advisories/GHSA-m33c-cjjj-2mg4,https://da.gd/jXaO34
+GithubAdvisories,[GHSA-3hg6-c7f8-3348] Information disclosure in Azure VM Agents Plugin,https://github.com/advisories/GHSA-3hg6-c7f8-3348,https://da.gd/gwxu
+GithubAdvisories,[GHSA-hr96-qfvm-52r6] Maven Integration Plugin did not mask sensitive values in module build logs,https://github.com/advisories/GHSA-hr96-qfvm-52r6,https://da.gd/MVaGt5
+GithubAdvisories,[GHSA-g2x8-xw86-vpq3] Cross-site request forgery (CSRF) vulnerability in Jenkins Maven Release Plugin,https://github.com/advisories/GHSA-g2x8-xw86-vpq3,https://da.gd/bcAxvg
+GithubAdvisories,[GHSA-j52r-pmqv-wm38] Missing permission check in Jenkins Support Core Plugin,https://github.com/advisories/GHSA-j52r-pmqv-wm38,https://da.gd/3cicV
+GithubAdvisories,[GHSA-p4f7-7c33-9675] Missing permission check in Jenkins Rundeck Plugin,https://github.com/advisories/GHSA-p4f7-7c33-9675,https://da.gd/ZPDk86
+GithubAdvisories,[GHSA-xg8p-cp7f-cphx] DingTalk Plugin stores credentials in plain text,https://github.com/advisories/GHSA-xg8p-cp7f-cphx,https://da.gd/Ggw4eW
