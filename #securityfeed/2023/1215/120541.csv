@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4m38-gqh8-x266] CSRF vulnerability in Email Extension Template Plugin,https://github.com/advisories/GHSA-4m38-gqh8-x266,https://da.gd/Xrbexx
+GithubAdvisories,[GHSA-vwfm-42q6-qj75] Stored XSS vulnerability in Config File Provider Plugin,https://github.com/advisories/GHSA-vwfm-42q6-qj75,https://da.gd/MDIE
+GithubAdvisories,[GHSA-r5m8-5mwx-cmj8] CSRF vulnerability in Config File Provider Plugin,https://github.com/advisories/GHSA-r5m8-5mwx-cmj8,https://da.gd/ZEQwlq
