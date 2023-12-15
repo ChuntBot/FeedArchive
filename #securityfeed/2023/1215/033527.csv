@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p99h-pfg6-qrfg] Privilege escalation in sap-xssec,https://github.com/advisories/GHSA-p99h-pfg6-qrfg,https://da.gd/7m9U
+GithubAdvisories,[GHSA-cfxh-frx4-9gjg] Cross-site Scripting in @spscommerce/ds-react,https://github.com/advisories/GHSA-cfxh-frx4-9gjg,https://da.gd/JzKi4m
+GithubAdvisories,[GHSA-gqrq-j6pm-98c2] External Control of File Name or Path in h2oai/h2o-3,https://github.com/advisories/GHSA-gqrq-j6pm-98c2,https://da.gd/pgYHxx
+GithubAdvisories,[GHSA-hhw5-c326-822h] Open redirect in Apache Shiro,https://github.com/advisories/GHSA-hhw5-c326-822h,https://da.gd/9P6w
