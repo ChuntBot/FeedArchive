@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-97rv-88gf-phvr] Apache Dubbo: Bypass deny serialize list check in Apache Dubbo,https://github.com/advisories/GHSA-97rv-88gf-phvr,https://da.gd/aow3q
+GithubAdvisories,[GHSA-6x49-w35h-wqrj] Bypass serialize checks in Apache Dubbo,https://github.com/advisories/GHSA-6x49-w35h-wqrj,https://da.gd/bAWjq
+GithubAdvisories,[GHSA-qjfx-fvx7-3wvw] Business Logic Errors in microweber/microweber,https://github.com/advisories/GHSA-qjfx-fvx7-3wvw,https://da.gd/MlBHL
+GithubAdvisories,[GHSA-jqpc-rc7g-vf83] User accounts disclosed to unauthenticated actors on the LAN,https://github.com/advisories/GHSA-jqpc-rc7g-vf83,https://da.gd/hSnKH
