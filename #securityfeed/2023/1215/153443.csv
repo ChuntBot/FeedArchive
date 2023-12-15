@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6cvm-v6qj-hjq9] CSRF vulnerability and missing permission checks in GitHub Plugin allowed capturing credentials,https://github.com/advisories/GHSA-6cvm-v6qj-hjq9,https://da.gd/M8aJi
+GithubAdvisories,[GHSA-3hvc-xwjp-xr8m] Liquibase Runner Plugin allows users to load arbitrary Java code into controller JVM,https://github.com/advisories/GHSA-3hvc-xwjp-xr8m,https://da.gd/EkoYm
+GithubAdvisories,[GHSA-grf8-94q5-4phx] CSRF vulnerability and missing permission checks in Openstack Cloud Plugin allowed capturing credentials,https://github.com/advisories/GHSA-grf8-94q5-4phx,https://da.gd/xZUpB
