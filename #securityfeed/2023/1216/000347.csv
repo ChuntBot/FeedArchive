@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-356j-hg45-x525] Potential CSV export data leak,https://github.com/advisories/GHSA-356j-hg45-x525,https://da.gd/XJBV7
+GithubAdvisories,[GHSA-qqhq-8r2c-c3f5] nvdApiKey is logged in debug mode,https://github.com/advisories/GHSA-qqhq-8r2c-c3f5,https://da.gd/dqCPp
