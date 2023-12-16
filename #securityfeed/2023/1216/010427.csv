@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pwfr-8pq7-x9qv] Unauthenticated Denial of Service in the octokit/webhooks library,https://github.com/advisories/GHSA-pwfr-8pq7-x9qv,https://da.gd/Y8NaiY
+GithubAdvisories,[GHSA-qg44-xqwj-wc28] Apache StreamPark: Authenticated system users could trigger remote command execution,https://github.com/advisories/GHSA-qg44-xqwj-wc28,https://da.gd/Kh9io
+GithubAdvisories,[GHSA-rrcg-jwr5-32g7] Apache StreamPark: Authenticated system users could trigger SQL injection vulnerability,https://github.com/advisories/GHSA-rrcg-jwr5-32g7,https://da.gd/sVnwf
+GithubAdvisories,[GHSA-qj86-p74r-7wp5] Remote code execution/programming rights with configuration section from any user account,https://github.com/advisories/GHSA-qj86-p74r-7wp5,https://da.gd/tq0GRu
+GithubAdvisories,[GHSA-cp3j-273x-3jxc] XSS/CSRF Remote Code Execution in XWiki.ConfigurableClass,https://github.com/advisories/GHSA-cp3j-273x-3jxc,https://da.gd/OjvSiP
+GithubAdvisories,[GHSA-7654-vfh6-rw6x] Remote code execution from account through SearchAdmin,https://github.com/advisories/GHSA-7654-vfh6-rw6x,https://da.gd/C8qWpC
