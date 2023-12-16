@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2grh-gr37-2283] Solr search discloses email addresses of users,https://github.com/advisories/GHSA-2grh-gr37-2283,https://da.gd/GM2r
+GithubAdvisories,[GHSA-p6cp-6r35-32mh] Solr search discloses password hashes of all users,https://github.com/advisories/GHSA-p6cp-6r35-32mh,https://da.gd/JkST1v
