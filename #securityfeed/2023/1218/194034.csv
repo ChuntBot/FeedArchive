@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rw54-6826-c8j5] yiisoft/yii2-authclient's Oauth2 PKCE implementation is vulnerable,https://github.com/advisories/GHSA-rw54-6826-c8j5,https://da.gd/r8hl7
+GithubAdvisories,[GHSA-r8xx-8vm8-x6wj] Resque vulnerable to Reflected Cross Site Scripting through pathnames,https://github.com/advisories/GHSA-r8xx-8vm8-x6wj,https://da.gd/yF2v
+GithubAdvisories,[GHSA-gc3j-vvwf-4rp8] Resque vulnerable to reflected XSS in resque-web failed and queues lists,https://github.com/advisories/GHSA-gc3j-vvwf-4rp8,https://da.gd/EZucoM
+GithubAdvisories,[GHSA-r9mq-m72x-257g] Resque vulnerable to reflected XSS in Queue Endpoint,https://github.com/advisories/GHSA-r9mq-m72x-257g,https://da.gd/CdSlI5
+GithubAdvisories,[GHSA-mq29-j5xf-cjwr] pyminizip affected by zlib's integer overflow/heap based buffer overflow vulnerability due to vulnerable dependency,https://github.com/advisories/GHSA-mq29-j5xf-cjwr,https://da.gd/L953Z
+GithubAdvisories,[GHSA-4h72-34j6-j8x7] Maloja error page XSS vulnerability,https://github.com/advisories/GHSA-4h72-34j6-j8x7,https://da.gd/5m6w9
+GithubAdvisories,[GHSA-cvg2-7c3j-g36j] Keycloak vulnerable to reflected XSS via wildcard in OIDC redirect_uri,https://github.com/advisories/GHSA-cvg2-7c3j-g36j,https://da.gd/zFL3
+GithubAdvisories,[GHSA-5968-qw33-h47j] Duplicate Advisory: Keycloak vulnerable to reflected XSS via wildcard in OIDC redirect_uri,https://github.com/advisories/GHSA-5968-qw33-h47j,https://da.gd/IuWa
+GithubAdvisories,[GHSA-9hmq-fm33-x4xx] Resque Scheduler Reflected XSS In Delayed Jobs View,https://github.com/advisories/GHSA-9hmq-fm33-x4xx,https://da.gd/rWApVu
+GithubAdvisories,[GHSA-q7jc-v6f2-q9jr] Duplicate Advisory: Resque Scheduler Reflected XSS In Delayed Jobs View,https://github.com/advisories/GHSA-q7jc-v6f2-q9jr,https://da.gd/4t7NS9
+GithubAdvisories,[GHSA-45x7-px36-x8w8] Russh vulnerable to Prefix Truncation Attack against ChaCha20-Poly1305 and Encrypt-then-MAC,https://github.com/advisories/GHSA-45x7-px36-x8w8,https://da.gd/VQHr
+GithubAdvisories,[GHSA-hfmc-7525-mj55] AsyncSSH vulnerable to Prefix Truncation Attack (a.k.a. Terrapin Attack) against ChaCha20-Poly1305 and Encrypt-then-MAC,https://github.com/advisories/GHSA-hfmc-7525-mj55,https://da.gd/F0pL
+GithubAdvisories,[GHSA-rjhf-4mh8-9xjq] Zerocopy: Some Ref methods are unsound with some type parameters,https://github.com/advisories/GHSA-rjhf-4mh8-9xjq,https://da.gd/QIoeDI
+GithubAdvisories,[GHSA-4h37-q5j3-hw96] phpMyFAQ Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-4h37-q5j3-hw96,https://da.gd/OygVuu
+GithubAdvisories,[GHSA-w8xj-992g-842f] phpMyFAQ Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-w8xj-992g-842f,https://da.gd/bpr3an
