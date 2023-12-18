@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4gfc-72gw-v385] Jenkins Nexus Platform Plugin Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-4gfc-72gw-v385,https://da.gd/hxEb
+GithubAdvisories,[GHSA-phjq-7xqp-2526] Jenkins Nexus Platform Plugin Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-phjq-7xqp-2526,https://da.gd/t4ZlG
+GithubAdvisories,[GHSA-9vrm-747r-668v] Jenkins Nexus Platform Plugin missing permission check,https://github.com/advisories/GHSA-9vrm-747r-668v,https://da.gd/kXQxkE
+GithubAdvisories,[GHSA-4g5f-w3mh-w99m] Jenkins Nexus Platform Plugin missing permission check,https://github.com/advisories/GHSA-4g5f-w3mh-w99m,https://da.gd/m1QFW
+GithubAdvisories,[GHSA-g56x-7j6w-g8r8] Grackle has StackOverflowError in GraphQL query processing,https://github.com/advisories/GHSA-g56x-7j6w-g8r8,https://da.gd/mD7dHl
