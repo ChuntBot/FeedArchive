@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-w8vh-p74j-x9xp] yii2-authclient vulnerable to possible timing attack on string comparison in OAuth1, OAuth2 and OpenID Connect implementation",https://github.com/advisories/GHSA-w8vh-p74j-x9xp,https://da.gd/TGrDD
+GithubAdvisories,[GHSA-x3v3-8xg8-8v72] Sentry's Astro SDK vulnerable to ReDoS,https://github.com/advisories/GHSA-x3v3-8xg8-8v72,https://da.gd/pPuuAV
