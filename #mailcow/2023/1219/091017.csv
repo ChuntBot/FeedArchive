@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommitStaging,issue_templates: corrected links + added premium support link,https://github.com/mailcow/mailcow-dockerized/commit/987ca68ca66a1f4fb01a7759273fc1d575a32230,https://da.gd/J6BArL
+GithubCommitStaging,contributing.md: Updated guidelines,https://github.com/mailcow/mailcow-dockerized/commit/89adaabb646a4941b1989ecccda0c9b349d8948d,https://da.gd/UDyPBx
+GithubCommitStaging,Merge pull request #5602 from mailcow/feat/bug-reporting-changes,https://github.com/mailcow/mailcow-dockerized/commit/603d451fc9973fbd11c83c1257a33d6b1f28d7a2,https://da.gd/gmNLw
+GithubCommitStaging,chore(deps): update alpine docker tag to v3.19,https://github.com/mailcow/mailcow-dockerized/commit/f27e41d19cf97032a02a028c68be8980b7333ff4,https://da.gd/pMRr4
+GithubCommitStaging,Merge pull request #5603 from mailcow/renovate/alpine-3.x,https://github.com/mailcow/mailcow-dockerized/commit/515b85bb2fa2b2bca16f7d7e370fa67bfc4f7864,https://da.gd/zzp4zL
