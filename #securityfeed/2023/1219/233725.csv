@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9wgg-m99q-hhfc] Expired tokens can be renewed without validating the account password,https://github.com/advisories/GHSA-9wgg-m99q-hhfc,https://da.gd/4DT2D
