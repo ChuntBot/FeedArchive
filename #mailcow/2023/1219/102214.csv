@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,[Watchdog] add curl verbose & use | as sed delimiter,https://github.com/mailcow/mailcow-dockerized/commit/218ba6950187c2648769e8eeef0c3529023cecd7,https://da.gd/lFcnX
+GithubCommit,Merge branch 'staging' into staging,https://github.com/mailcow/mailcow-dockerized/commit/7f4e9c1ad4d43b552eae2a6a1561626aff76f1ec,https://da.gd/LUORn
+GithubCommit,Merge pull request #4968 from felixoi/staging,https://github.com/mailcow/mailcow-dockerized/commit/996772a27dcded9f7c8ed88c6361094fadd3e082,https://da.gd/ZuA8k2
+GithubCommit,[SOGo] Update to 5.9.1,https://github.com/mailcow/mailcow-dockerized/commit/f38ec686959fd618b3a0e4f8ed71ce3457949eb4,https://da.gd/G95JDE
+GithubCommit,fix WATCHDOG_NOTIFY_WEBHOOK env vars,https://github.com/mailcow/mailcow-dockerized/commit/66b9245b2870224fbc9f662856af20040dd431bf,https://da.gd/iip8D
+GithubCommit,Merge branch 'staging' into watchdog-no-notify-on-startup,https://github.com/mailcow/mailcow-dockerized/commit/96a5891ce75d8055bd2315a7166d1de7364b1620,https://da.gd/hs1IS
+GithubCommit,Merge pull request #5453 from smarsching/watchdog-no-notify-on-startup,https://github.com/mailcow/mailcow-dockerized/commit/69e3b830ed5bbd57950aa0be3754fe9071b67f9d,https://da.gd/urprS
+GithubCommit,Update dependency nextcloud/server to v28,https://github.com/mailcow/mailcow-dockerized/commit/c3b5474cbf0a820ea39c7b72bf6eb6cc88113398,https://da.gd/xjll7
+GithubCommit,Translations update from Weblate (#5590),https://github.com/mailcow/mailcow-dockerized/commit/06ad5f6652a5dda96a78d891bb905d52d0ddb3f3,https://da.gd/PG6fIJ
+GithubCommit,Merge pull request #5589 from mailcow/renovate/nextcloud-server-28.x,https://github.com/mailcow/mailcow-dockerized/commit/dc3e52a900e7de5919044355cbff89ae9f11031f,https://da.gd/cGcJt4
+GithubCommit,[Web] Updated lang.pt-br.json (#5591),https://github.com/mailcow/mailcow-dockerized/commit/4e252f8243b721c399482d4d182f16a5731743b5,https://da.gd/5IrP
+GithubCommit,[Web] Updated lang.pt-br.json (#5598),https://github.com/mailcow/mailcow-dockerized/commit/904b37c4befae305e757b9d9e0687bcc36fc03f0,https://da.gd/4FPx
+GithubCommit,Update Netfilter and Watchdog Image,https://github.com/mailcow/mailcow-dockerized/commit/5c35b42844df36f3d56c471817ac16bc0e506e30,https://da.gd/Q2YAL
+GithubCommit,escapeHtml in qhandler.js,https://github.com/mailcow/mailcow-dockerized/commit/71defbf2f92f157faee8fed134a7ffbd74d18e17,https://da.gd/vvouM
+GithubCommit,issue_templates: corrected links + added premium support link,https://github.com/mailcow/mailcow-dockerized/commit/987ca68ca66a1f4fb01a7759273fc1d575a32230,https://da.gd/J6BArL
+GithubCommit,contributing.md: Updated guidelines,https://github.com/mailcow/mailcow-dockerized/commit/89adaabb646a4941b1989ecccda0c9b349d8948d,https://da.gd/UDyPBx
+GithubCommit,Merge pull request #5602 from mailcow/feat/bug-reporting-changes,https://github.com/mailcow/mailcow-dockerized/commit/603d451fc9973fbd11c83c1257a33d6b1f28d7a2,https://da.gd/gmNLw
+GithubCommit,chore(deps): update alpine docker tag to v3.19,https://github.com/mailcow/mailcow-dockerized/commit/f27e41d19cf97032a02a028c68be8980b7333ff4,https://da.gd/pMRr4
+GithubCommit,Merge pull request #5603 from mailcow/renovate/alpine-3.x,https://github.com/mailcow/mailcow-dockerized/commit/515b85bb2fa2b2bca16f7d7e370fa67bfc4f7864,https://da.gd/zzp4zL
+GithubCommit,Merge pull request #5604 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/121f0120f0110457739f5a8d4ca82f24f828cacc,https://da.gd/Tjko
