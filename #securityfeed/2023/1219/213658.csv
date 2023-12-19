@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hvc6-42vf-jhf8] mlflow Command Injection vulnerability,https://github.com/advisories/GHSA-hvc6-42vf-jhf8,https://da.gd/7YGa
+GithubAdvisories,[GHSA-67gv-xrw7-p72w] Phpsysinfo Cross Site Request Forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-67gv-xrw7-p72w,https://da.gd/f7dzfH
+GithubAdvisories,[GHSA-7ww5-4wqc-m92c] containerd allows RAPL to be accessible to a container,https://github.com/advisories/GHSA-7ww5-4wqc-m92c,https://da.gd/oGj98a
+GithubAdvisories,[GHSA-hj4r-2c9c-29h3] Elastic Beats inserts sensitive information into log file,https://github.com/advisories/GHSA-hj4r-2c9c-29h3,https://da.gd/qOPG2m
+GithubAdvisories,[GHSA-g49j-j489-3xpf] Apache Superset incorrect write permissions vulnerability,https://github.com/advisories/GHSA-g49j-j489-3xpf,https://da.gd/sJv7eN
+GithubAdvisories,[GHSA-jfxj-xf67-x723] Apache Superset SQL injection vulnerability,https://github.com/advisories/GHSA-jfxj-xf67-x723,https://da.gd/nJ4KAS
