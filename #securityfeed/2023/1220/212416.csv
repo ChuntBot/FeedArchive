@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3pjv-r7w4-2cf5] Grails data binding causes JVM crash and/or DoS,https://github.com/advisories/GHSA-3pjv-r7w4-2cf5,https://da.gd/T9fyRh
+GithubAdvisories,[GHSA-m648-hpf8-qcjw] Drupal Core Cross-Site Request Forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-m648-hpf8-qcjw,https://da.gd/DjLN8m
+GithubAdvisories,[GHSA-rjqg-3h9m-fx5x] Cache poisoning in drupal/core,https://github.com/advisories/GHSA-rjqg-3h9m-fx5x,https://da.gd/5kNhv0
