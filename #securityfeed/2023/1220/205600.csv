@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5r3q-93q3-f978] MLflow Path Traversal Vulnerability,https://github.com/advisories/GHSA-5r3q-93q3-f978,https://da.gd/w5SrPA
+GithubAdvisories,[GHSA-wv8q-4f85-2p8p] MLflow Path Traversal Vulnerability,https://github.com/advisories/GHSA-wv8q-4f85-2p8p,https://da.gd/HvnuD
+GithubAdvisories,[GHSA-59v3-898r-qwhj] MLflow Server-Side Request Forgery (SSRF),https://github.com/advisories/GHSA-59v3-898r-qwhj,https://da.gd/2CcKC1
+GithubAdvisories,[GHSA-qg8p-32gr-gh6x] MLflow Local File Disclosure Vulnerability,https://github.com/advisories/GHSA-qg8p-32gr-gh6x,https://da.gd/DWB91T
+GithubAdvisories,[GHSA-hh8p-p8mp-gqhm] MLFlow Path Traversal Vulnerability,https://github.com/advisories/GHSA-hh8p-p8mp-gqhm,https://da.gd/URx06l
+GithubAdvisories,[GHSA-83q5-whqp-r8jr] Apache Pulsar WebSocket Proxy contains an Improper Authentication vulnerability,https://github.com/advisories/GHSA-83q5-whqp-r8jr,https://da.gd/3ixddU
+GithubAdvisories,[GHSA-mhpq-9638-x6pw] Denial of service when decrypting attack controlled input in github.com/dvsekhvalnov/jose2go,https://github.com/advisories/GHSA-mhpq-9638-x6pw,https://da.gd/LGgIvG
+GithubAdvisories,[GHSA-v68g-wm8c-6x7j] transformers has a Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-v68g-wm8c-6x7j,https://da.gd/aArvrO
+GithubAdvisories,[GHSA-p9rv-qgqw-jx2w] MongoDB C# Driver Risk of Exposing Authentication Data via Command Listener,https://github.com/advisories/GHSA-p9rv-qgqw-jx2w,https://da.gd/HFRpog
