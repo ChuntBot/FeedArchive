@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-557v-xcg6-rm5m] Potential URI resolution path traversal in the AWS SDK for PHP,https://github.com/advisories/GHSA-557v-xcg6-rm5m,https://da.gd/h5Lej
+GithubAdvisories,[GHSA-6ggr-cwv4-g7qg] Remotely exploitable denial of service in Rosenpass,https://github.com/advisories/GHSA-6ggr-cwv4-g7qg,https://da.gd/ZRlH7j
