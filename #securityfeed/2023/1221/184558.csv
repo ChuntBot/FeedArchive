@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mxf7-pv8q-294h] Cross-site scripting in Apache ActiveMQ,https://github.com/advisories/GHSA-mxf7-pv8q-294h,https://da.gd/rayFrQ
+GithubAdvisories,[GHSA-mpwq-j3xf-7m5w] The redirect_uri validation logic allows for bypassing explicitly allowed hosts that would otherwise be restricted,https://github.com/advisories/GHSA-mpwq-j3xf-7m5w,https://da.gd/52l4
+GithubAdvisories,[GHSA-3x3w-849q-423v] Xnx3 Wangmarket Cross-Site Scripting vulnerability,https://github.com/advisories/GHSA-3x3w-849q-423v,https://da.gd/9llq0
+GithubAdvisories,[GHSA-6qm2-wpxq-7qh2] Gradio makes the `/file` secure against file traversal and server-side request forgery attacks,https://github.com/advisories/GHSA-6qm2-wpxq-7qh2,https://da.gd/1buLqq
