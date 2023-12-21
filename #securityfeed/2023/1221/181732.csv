@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r24f-hg58-vfrw] unsafe-libyaml unaligned write of u64 on 32-bit and 16-bit platforms,https://github.com/advisories/GHSA-r24f-hg58-vfrw,https://da.gd/qzBP
+GithubAdvisories,[GHSA-pxch-wr7m-rwxj] Apache Airflow has a stored cross-site scripting vulnerability,https://github.com/advisories/GHSA-pxch-wr7m-rwxj,https://da.gd/6CFO0
+GithubAdvisories,[GHSA-8f57-wcmg-4jmh] Apache Airflow vulnerable to Exposure of Resource to Wrong Sphere,https://github.com/advisories/GHSA-8f57-wcmg-4jmh,https://da.gd/aPD0G
+GithubAdvisories,[GHSA-6m9r-7wrx-xmr6] Apache Airflow Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-6m9r-7wrx-xmr6,https://da.gd/Pcxx
+GithubAdvisories,[GHSA-5938-79hg-xh3q] Apache Airflow Improper Access Control vulnerability,https://github.com/advisories/GHSA-5938-79hg-xh3q,https://da.gd/9mcMaT
+GithubAdvisories,[GHSA-jj93-39pf-7mcf] bsock uses weak hashing algorithms,https://github.com/advisories/GHSA-jj93-39pf-7mcf,https://da.gd/Pi3b
+GithubAdvisories,[GHSA-pqj5-37xf-x5gc] blinksocks has weak encryption algorithms,https://github.com/advisories/GHSA-pqj5-37xf-x5gc,https://da.gd/fJGx
+GithubAdvisories,[GHSA-f23h-52hj-99p6] Apache IoTDB: Unsafe deserialize map in Sync Tool,https://github.com/advisories/GHSA-f23h-52hj-99p6,https://da.gd/Ei4uao
