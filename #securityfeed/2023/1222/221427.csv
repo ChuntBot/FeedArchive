@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j88v-q3vw-p9vr] Deserialization of Untrusted Data in Flamingo amf-serializer,https://github.com/advisories/GHSA-j88v-q3vw-p9vr,https://da.gd/2APnu
