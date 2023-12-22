@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vf5m-xrhm-v999] Nautobot missing object-level permissions enforcement when running Job Buttons,https://github.com/advisories/GHSA-vf5m-xrhm-v999,https://da.gd/g5oEl
+GithubAdvisories,[GHSA-jcrr-rr6w-8c83] free5GC AMF denial of service vulnerability,https://github.com/advisories/GHSA-jcrr-rr6w-8c83,https://da.gd/3L1kRm
+GithubAdvisories,[GHSA-hwcc-4cv8-cf3h] Snowflake Connector .NET does not properly check the Certificate Revocation List (CRL),https://github.com/advisories/GHSA-hwcc-4cv8-cf3h,https://da.gd/5Ldjt
