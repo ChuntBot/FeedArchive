@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2ppp-xj34-vvf7] Apache Struts's CookieInterceptor component does not use the parameter-name whitelist,https://github.com/advisories/GHSA-2ppp-xj34-vvf7,https://da.gd/H66Ux
