@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3gjc-mp82-fj4q] TYPO3 Arbitrary File Read via Directory Traversal,https://github.com/advisories/GHSA-3gjc-mp82-fj4q,https://da.gd/1YHQ
+GithubAdvisories,[GHSA-qp42-5pj7-4ccm] Concrete CMS Cross Site Request Forgery (CSRF),https://github.com/advisories/GHSA-qp42-5pj7-4ccm,https://da.gd/45kE6
+GithubAdvisories,[GHSA-rqxc-9p8h-xqgq] ActiveAdmin vulnerable to CSV injection,https://github.com/advisories/GHSA-rqxc-9p8h-xqgq,https://da.gd/2BcorR
+GithubAdvisories,[GHSA-mw99-9chc-xw7r] Maliciously crafted Git server replies can cause DoS on go-git clients,https://github.com/advisories/GHSA-mw99-9chc-xw7r,https://da.gd/PHFRj
+GithubAdvisories,[GHSA-jpfp-xq3p-4h3r] Deis Workflow Manager race condition vulnerability,https://github.com/advisories/GHSA-jpfp-xq3p-4h3r,https://da.gd/lVUY
