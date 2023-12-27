@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Postfix] Do not remove X-Mailer header,https://github.com/mailcow/mailcow-dockerized/commit/100e8ab00d7d5c18ecab92b899993403b447a534,https://da.gd/wWQl7S
+GithubCommitStaging,Merge pull request #5504 from FELDSAM-INC/feldsam/do-not-remove-x-mailer,https://github.com/mailcow/mailcow-dockerized/commit/acf9d5480c184133c049b740ad471251c54a7099,https://da.gd/V8WLsw
