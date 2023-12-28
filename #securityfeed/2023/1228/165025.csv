@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h63j-xqx6-w58r] mvel2 TimeOut error exists in the ParseTools.subCompileExpression method,https://github.com/advisories/GHSA-h63j-xqx6-w58r,https://da.gd/5PdUe
+GithubAdvisories,[GHSA-7m7h-rgvp-3v4r] hutool-core discovered to contain an infinite loop in the StrSplitter.splitByRegex function,https://github.com/advisories/GHSA-7m7h-rgvp-3v4r,https://da.gd/MChQj5
+GithubAdvisories,[GHSA-cw2r-4p82-qv79] DoS with algorithms that use PBKDF2 due to unbounded PBES2 Count value,https://github.com/advisories/GHSA-cw2r-4p82-qv79,https://da.gd/Y1lA3
