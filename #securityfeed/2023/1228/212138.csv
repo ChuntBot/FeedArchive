@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wpmx-564x-h2mh] ewen-lbh/ffcss Late-Unicode normalization vulnerability,https://github.com/advisories/GHSA-wpmx-564x-h2mh,https://da.gd/cls9tT
+GithubAdvisories,[GHSA-7hpj-7hhx-2fgx] msgpackr's conversion of property names to strings can trigger infinite recursion,https://github.com/advisories/GHSA-7hpj-7hhx-2fgx,https://da.gd/XZqYY
