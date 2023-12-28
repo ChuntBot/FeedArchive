@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-43w4-4j3c-jx29] Winter CMS Stored XSS through Backend ColorPicker FormWidget,https://github.com/advisories/GHSA-43w4-4j3c-jx29,https://da.gd/1EUX
+GithubAdvisories,[GHSA-4wvw-75qh-fqjp] Winter CMS Stored XSS through privileged upload of Media Manager file followed by renaming,https://github.com/advisories/GHSA-4wvw-75qh-fqjp,https://da.gd/Gmjg0b
