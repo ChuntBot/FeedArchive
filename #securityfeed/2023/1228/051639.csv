@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3863-2447-669p] transformers has a Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-3863-2447-669p,https://da.gd/IJjC
