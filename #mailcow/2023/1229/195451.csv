@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubCommit,chore(deps): update dependency nextcloud/server to v28.0.1 (#5614),https://github.com/mailcow/mailcow-dockerized/commit/7bd27b920ab5da35f022c0de6bcd395636ed3e49,https://da.gd/WhoE
+GithubCommit,[Postfix] Do not remove X-Mailer header,https://github.com/mailcow/mailcow-dockerized/commit/100e8ab00d7d5c18ecab92b899993403b447a534,https://da.gd/wWQl7S
+GithubCommit,[Web] Updated lang.zh-tw.json (#5617),https://github.com/mailcow/mailcow-dockerized/commit/a1cb7fd778316e80e2f8078c5d2959f50fac44b3,https://da.gd/W8wIKQ
+GithubCommit,Merge pull request #5504 from FELDSAM-INC/feldsam/do-not-remove-x-mailer,https://github.com/mailcow/mailcow-dockerized/commit/acf9d5480c184133c049b740ad471251c54a7099,https://da.gd/V8WLsw
+GithubCommit,Translations update from Weblate (#5622),https://github.com/mailcow/mailcow-dockerized/commit/0b628fb22d2c60b5fb6b863b14e7e928d18f49d0,https://da.gd/9cvni
+GithubCommit,[Postfix] set smtpd_forbid_bare_newline = yes,https://github.com/mailcow/mailcow-dockerized/commit/6ff6f7a28d5128fff497c2fa0ceec7da03976dea,https://da.gd/X4gFa
+GithubCommit,Merge pull request #5623 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/cb0b0235f01a8e4102ece9540fe0aa3bb2b60d72,https://da.gd/dFXqKw
