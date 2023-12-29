@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mmj6-cjj4-hpr5] Apache Struts vulnerable to arbitrary remote code execution due to improper input validation,https://github.com/advisories/GHSA-mmj6-cjj4-hpr5,https://da.gd/STINHS
