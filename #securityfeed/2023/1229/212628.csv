@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cr78-rphw-w73p] Moodle Arbitrary File Read via Backup Functionality,https://github.com/advisories/GHSA-cr78-rphw-w73p,https://da.gd/g9YEC8
+GithubAdvisories,[GHSA-2x36-7xfm-pgm7] Moodle default permissions too permissive,https://github.com/advisories/GHSA-2x36-7xfm-pgm7,https://da.gd/HNbld
+GithubAdvisories,[GHSA-p9hr-f4xj-8w8r] Moodle included private user files in course backups,https://github.com/advisories/GHSA-p9hr-f4xj-8w8r,https://da.gd/K3NwZ
