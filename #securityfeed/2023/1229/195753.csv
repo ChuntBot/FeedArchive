@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fgwc-3j6w-ch22] easy-rules-mvel vulnerable to remote code execution,https://github.com/advisories/GHSA-fgwc-3j6w-ch22,https://da.gd/zRhasc
+GithubAdvisories,[GHSA-fwvg-2739-22v7] Miniflare vulnerable to Server-Side Request Forgery (SSRF),https://github.com/advisories/GHSA-fwvg-2739-22v7,https://da.gd/dkHhLT
+GithubAdvisories,[GHSA-4j8w-p6hv-3qxc] Cross-Site Request Forgery (CSRF) in automad/automad,https://github.com/advisories/GHSA-4j8w-p6hv-3qxc,https://da.gd/jTCImt
+GithubAdvisories,[GHSA-q5q3-qm26-9jwm] Authenticated Blind SSRF in automad/automad,https://github.com/advisories/GHSA-q5q3-qm26-9jwm,https://da.gd/1UPe0f
+GithubAdvisories,[GHSA-7j9h-ch38-474r] Stored Cross-site scripting affecting automad/automad,https://github.com/advisories/GHSA-7j9h-ch38-474r,https://da.gd/rNwQo
