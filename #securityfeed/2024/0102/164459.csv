@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ghm2-rq8q-wrhc] Potential Actions command injection in output filenames (GHSL-2023-275),https://github.com/advisories/GHSA-ghm2-rq8q-wrhc,https://da.gd/xURDLx
+GithubAdvisories,[GHSA-mcph-m25j-8j63] tj-actions/changed-files has Potential Actions command injection in output filenames (GHSL-2023-271),https://github.com/advisories/GHSA-mcph-m25j-8j63,https://da.gd/WcJxu1
+GithubAdvisories,[GHSA-487p-qx68-5vjw] Hail relies on OIDC email claims to verify the validity of a user's domain,https://github.com/advisories/GHSA-487p-qx68-5vjw,https://da.gd/xdta
+GithubAdvisories,[GHSA-fp9f-44c2-cw27] Ingress-nginx code injection via nginx.ingress.kubernetes.io/permanent-redirect annotation,https://github.com/advisories/GHSA-fp9f-44c2-cw27,https://da.gd/zpJN6a
+GithubAdvisories,[GHSA-8x6f-956f-q43w] OWASP.AntiSamy mXSS when preserving comments,https://github.com/advisories/GHSA-8x6f-956f-q43w,https://da.gd/NhGqzT
+GithubAdvisories,[GHSA-875g-mfp6-g7f9] `serde` deserialization for `FamStructWrapper` lacks bound checks that could potentially lead to out-of-bounds memory access,https://github.com/advisories/GHSA-875g-mfp6-g7f9,https://da.gd/A0dq
