@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7xg2-83f8-39mr] The DES/3DES cipher was used as part of the TLS protocol by installation tools,https://github.com/advisories/GHSA-7xg2-83f8-39mr,https://da.gd/gx3n
+GithubAdvisories,[GHSA-8rfx-6mr3-5jh3] Duplicate Advisory: Improper Handling of Exceptional Conditions in Newtonsoft.Json,https://github.com/advisories/GHSA-8rfx-6mr3-5jh3,https://da.gd/CHkTa0
+GithubAdvisories,[GHSA-xjpw-hx47-rccv] PaddlePaddle floating point exception in paddle.nanmedian,https://github.com/advisories/GHSA-xjpw-hx47-rccv,https://da.gd/zzlR
+GithubAdvisories,[GHSA-r5hg-349q-mg2q] Buildkite Elastic CI for AWS time-of-check-time-of-use race condition vulnerability,https://github.com/advisories/GHSA-r5hg-349q-mg2q,https://da.gd/OlRD
