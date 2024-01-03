@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v7hg-77v9-2445] Apache DolphinScheduler: Arbitrary js execute as root for authenticated users,https://github.com/advisories/GHSA-v7hg-77v9-2445,https://da.gd/yQm9Zk
+GithubAdvisories,[GHSA-rpjw-97p8-p2xp] Gila CMS SQL Injection,https://github.com/advisories/GHSA-rpjw-97p8-p2xp,https://da.gd/bx9yDk
+GithubAdvisories,[GHSA-5v9r-788c-wc8p] Jeecg Boot SQL injection vulnerability,https://github.com/advisories/GHSA-5v9r-788c-wc8p,https://da.gd/UWDt
+GithubAdvisories,[GHSA-vfxf-76hv-v4w4] User-provided environment values allow execution on macOS agents,https://github.com/advisories/GHSA-vfxf-76hv-v4w4,https://da.gd/dizhm9
+GithubAdvisories,[GHSA-c9v7-wmwj-vf6x] SFTP is possible on the Proxy server for any user with SFTP access,https://github.com/advisories/GHSA-c9v7-wmwj-vf6x,https://da.gd/dD7u
+GithubAdvisories,[GHSA-76cc-p55w-63g3] Teleport Access List owners can escalate their privileges,https://github.com/advisories/GHSA-76cc-p55w-63g3,https://da.gd/JCQRo
+GithubAdvisories,[GHSA-hw4x-mcx5-9q36] Teleport Proxy and Teleport Agents: SSRF to arbitrary hosts is possible from low privileged users,https://github.com/advisories/GHSA-hw4x-mcx5-9q36,https://da.gd/hRhH
+GithubAdvisories,[GHSA-625p-jwcp-r2r5] Corveda PHPSandbox Protection Mechanism Failure vulnerability,https://github.com/advisories/GHSA-625p-jwcp-r2r5,https://da.gd/2vKi
+GithubAdvisories,[GHSA-qphf-w3cq-jpmx] IPAddress Infinite Loop vulnerability,https://github.com/advisories/GHSA-qphf-w3cq-jpmx,https://da.gd/U1bMY
+GithubAdvisories,[GHSA-h3gq-j7p9-x3p4] Mattermost Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-h3gq-j7p9-x3p4,https://da.gd/zfIvQ
+GithubAdvisories,[GHSA-f8mp-x433-5wpf] Arbitrary remote code execution within `wrangler dev` Workers sandbox,https://github.com/advisories/GHSA-f8mp-x433-5wpf,https://da.gd/op2Bl
+GithubAdvisories,[GHSA-q5pp-5q2h-g8rv] Duplicate Advisory: Cross-site scripting vulnerability in TinyMCE,https://github.com/advisories/GHSA-q5pp-5q2h-g8rv,https://da.gd/OkSQQt
+GithubAdvisories,[GHSA-cfph-4qqh-w828] Arbitrary remote file read in Wrangler dev server,https://github.com/advisories/GHSA-cfph-4qqh-w828,https://da.gd/ZbZaU
+GithubAdvisories,[GHSA-wxj2-777f-vxmf] Duplicate Advisory: Cross-site scripting vulnerability in TinyMCE plugins,https://github.com/advisories/GHSA-wxj2-777f-vxmf,https://da.gd/tbYn6
+GithubAdvisories,[GHSA-gjhc-6xm7-mc8q] Duplicate Advisory: Cross-site scripting vulnerability in TinyMCE,https://github.com/advisories/GHSA-gjhc-6xm7-mc8q,https://da.gd/zlrp
