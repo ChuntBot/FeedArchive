@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-547m-23x7-cxg5] PaddlePaddle null pointer dereference in paddle.nextafter,https://github.com/advisories/GHSA-547m-23x7-cxg5,https://da.gd/413Vn
