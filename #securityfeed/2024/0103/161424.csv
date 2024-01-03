@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4248-p65p-hcrm] Insecure random string generator used for sensitive data,https://github.com/advisories/GHSA-4248-p65p-hcrm,https://da.gd/eHGH
+GithubAdvisories,[GHSA-8579-7p32-f398] CubeFS timing attack can leak user passwords,https://github.com/advisories/GHSA-8579-7p32-f398,https://da.gd/QTeBa
+GithubAdvisories,[GHSA-qc6v-g3xw-grmx] Authenticated users can crash the CubeFS servers with maliciously crafted requests,https://github.com/advisories/GHSA-qc6v-g3xw-grmx,https://da.gd/661CGs
