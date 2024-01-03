@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m5hf-m3r2-xq53] hutool-core was discovered to contain a stack overflow via NumberUtil.toBigDecimal method,https://github.com/advisories/GHSA-m5hf-m3r2-xq53,https://da.gd/1oVtxD
+GithubAdvisories,[GHSA-vwch-g97w-hfg2] CubeFS leaks users key in logs,https://github.com/advisories/GHSA-vwch-g97w-hfg2,https://da.gd/v2u9l
+GithubAdvisories,[GHSA-8h2x-gr2c-c275] CubeFS leaks magic secret key when starting Blobstore access service,https://github.com/advisories/GHSA-8h2x-gr2c-c275,https://da.gd/azAs
