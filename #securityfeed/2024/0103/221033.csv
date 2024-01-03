@@ -1,0 +1,33 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-264p-99wq-f4j6] Ion Java StackOverflow vulnerability,https://github.com/advisories/GHSA-264p-99wq-f4j6,https://da.gd/feG0
+GithubAdvisories,[GHSA-fqh6-6h6c-366m] CouchAuth host header injection vulnerability leaks the password reset token,https://github.com/advisories/GHSA-fqh6-6h6c-366m,https://da.gd/2oR11C
+GithubAdvisories,[GHSA-crwj-2r3c-gx2g] Apache InLong Manager Arbitrary File Read Vulnerability,https://github.com/advisories/GHSA-crwj-2r3c-gx2g,https://da.gd/BnUNL
+GithubAdvisories,[GHSA-9xg9-hh45-xcm6] Apache InLong Manager Remote Code Execution vulnerability,https://github.com/advisories/GHSA-9xg9-hh45-xcm6,https://da.gd/7IUx
+GithubAdvisories,[GHSA-3cr5-2446-8pg3] PaddlePaddle command injection in convert_shape_compare,https://github.com/advisories/GHSA-3cr5-2446-8pg3,https://da.gd/z6J2aF
+GithubAdvisories,[GHSA-qppw-c37g-xwcc] PaddlePaddle nullptr dereference in paddle.crop,https://github.com/advisories/GHSA-qppw-c37g-xwcc,https://da.gd/yrSBr
+GithubAdvisories,[GHSA-rf7p-79xq-8xwm] PaddlePaddle command injection in _wget_download,https://github.com/advisories/GHSA-rf7p-79xq-8xwm,https://da.gd/xkN7YP
+GithubAdvisories,[GHSA-j5h9-9r39-43q5] PaddlePaddle command injection in get_online_pass_interval,https://github.com/advisories/GHSA-j5h9-9r39-43q5,https://da.gd/OG2ne
+GithubAdvisories,[GHSA-8fp7-jwv2-49x9] PaddlePaddle heap buffer overflow in paddle.repeat_interleave,https://github.com/advisories/GHSA-8fp7-jwv2-49x9,https://da.gd/HKLzJu
+GithubAdvisories,[GHSA-v9pg-qw6x-w5r2] PaddlePaddle floating point exception in paddle.amin,https://github.com/advisories/GHSA-v9pg-qw6x-w5r2,https://da.gd/Rm34r
+GithubAdvisories,[GHSA-g57v-2687-jx33] PaddlePaddle stack overflow in paddle.linalg.lu_unpack,https://github.com/advisories/GHSA-g57v-2687-jx33,https://da.gd/Of7gs
+GithubAdvisories,[GHSA-rg9q-m8hv-xxr6] PaddlePaddle floating point exception in paddle.lerp,https://github.com/advisories/GHSA-rg9q-m8hv-xxr6,https://da.gd/Yi2Km
+GithubAdvisories,[GHSA-rx2r-q96c-w5cc] PaddlePaddle floating point exception in paddle.topk,https://github.com/advisories/GHSA-rx2r-q96c-w5cc,https://da.gd/5a4p
+GithubAdvisories,[GHSA-2wcj-qr76-9768] PaddlePaddle segfault in paddle.put_along_axis,https://github.com/advisories/GHSA-2wcj-qr76-9768,https://da.gd/DA2aRV
+GithubAdvisories,[GHSA-mr78-v55p-7777] PaddlePaddle segfault in paddle.mode,https://github.com/advisories/GHSA-mr78-v55p-7777,https://da.gd/e9E7R
+GithubAdvisories,[GHSA-c6ph-m8cw-rfqh] PaddlePaddle floating point exception in paddle.linalg.eig,https://github.com/advisories/GHSA-c6ph-m8cw-rfqh,https://da.gd/sayE
+GithubAdvisories,[GHSA-x3q9-c788-j7c8] PaddlePaddle segfault in paddle.dot,https://github.com/advisories/GHSA-x3q9-c788-j7c8,https://da.gd/5piA
+GithubAdvisories,[GHSA-j5g9-j7r4-6qvx] Craft CMS Privilege Escalation,https://github.com/advisories/GHSA-j5g9-j7r4-6qvx,https://da.gd/QSbY3
+GithubAdvisories,[GHSA-49jp-cghc-p5pj] JeecgBoot server-side template injection,https://github.com/advisories/GHSA-49jp-cghc-p5pj,https://da.gd/WAs7S
+GithubAdvisories,"[GHSA-vr7m-r9vm-m4wf] PrestaShop XSS can be stored in DB from ""add a message form"" in order detail page (FO)",https://github.com/advisories/GHSA-vr7m-r9vm-m4wf,https://da.gd/uFWG
+GithubAdvisories,[GHSA-27wg-99g8-2v4v] Rust EVM erroneousle handles `record_external_operation` error return,https://github.com/advisories/GHSA-27wg-99g8-2v4v,https://da.gd/WaQl5N
+GithubAdvisories,[GHSA-fr29-w6j4-525f] Jeecg Boot SQL Injection,https://github.com/advisories/GHSA-fr29-w6j4-525f,https://da.gd/phiIoI
+GithubAdvisories,[GHSA-5g66-628f-7cvj] Omniauth::MicrosoftGraph Account takeover (nOAuth),https://github.com/advisories/GHSA-5g66-628f-7cvj,https://da.gd/4yt5n
+GithubAdvisories,[GHSA-7c44-7j7v-w554] Buildkite Elastic CI for AWS symbolic link following vulnerability,https://github.com/advisories/GHSA-7c44-7j7v-w554,https://da.gd/rHCmwe
+GithubAdvisories,[GHSA-q7rx-w656-fwmv] Mattermost notified all users in the channel when using WebSockets to respond individually,https://github.com/advisories/GHSA-q7rx-w656-fwmv,https://da.gd/YxMgWB
+GithubAdvisories,[GHSA-r6r4-5pr8-gjcp] Vapor contains an integer overflow in URI leading to potential host spoofing,https://github.com/advisories/GHSA-r6r4-5pr8-gjcp,https://da.gd/xEUxK2
+GithubAdvisories,[GHSA-w88v-pjr8-cmv2] Mattermost viewing archived public channels permissions vulnerability,https://github.com/advisories/GHSA-w88v-pjr8-cmv2,https://da.gd/R4Dr
+GithubAdvisories,[GHSA-9w97-9rqx-8v4j] Mattermost allows demoted guests to change group names,https://github.com/advisories/GHSA-9w97-9rqx-8v4j,https://da.gd/GYwKUP
+GithubAdvisories,[GHSA-rcvr-8whx-3m5p] Layui cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-rcvr-8whx-3m5p,https://da.gd/iwcOrG
+GithubAdvisories,[GHSA-xgpm-q3mq-46rq] PrestaShop some attribute not escaped in Validate::isCleanHTML method,https://github.com/advisories/GHSA-xgpm-q3mq-46rq,https://da.gd/ZbpX7d
+GithubAdvisories,[GHSA-p4v8-jgcv-9g75] safe_pqc_kyber leaks parts of secret keys,https://github.com/advisories/GHSA-p4v8-jgcv-9g75,https://da.gd/fFDybt
+GithubAdvisories,[GHSA-3vvh-8c65-32j4] Mingsoft MCMS SQL injection,https://github.com/advisories/GHSA-3vvh-8c65-32j4,https://da.gd/O5Ch
