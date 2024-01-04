@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v6f4-jwv9-682w] class.upload.php allows cross-site scripting attacks via uploaded files,https://github.com/advisories/GHSA-v6f4-jwv9-682w,https://da.gd/5514E
