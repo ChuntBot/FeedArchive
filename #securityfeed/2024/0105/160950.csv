@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-437m-7hj5-9mpw] Kruise allows leveraging the kruise-daemon pod to list all secrets in the entire cluster,https://github.com/advisories/GHSA-437m-7hj5-9mpw,https://da.gd/MlSMh
