@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j225-cvw7-qrx7] PyCryptodome and pycryptodomex side-channel leakage for OAEP decryption,https://github.com/advisories/GHSA-j225-cvw7-qrx7,https://da.gd/zP1Qaz
+GithubAdvisories,[GHSA-vwv2-9wcj-64vx] Firefly III allows webhooks HTML Injection,https://github.com/advisories/GHSA-vwv2-9wcj-64vx,https://da.gd/wCzFtJ
+GithubAdvisories,[GHSA-6w3h-vq7m-v3qf] Jenkins Black Duck Detect Plugin information exposure vulnerability,https://github.com/advisories/GHSA-6w3h-vq7m-v3qf,https://da.gd/nQBx
