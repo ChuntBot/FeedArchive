@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g47j-3m2m-74qv] Duplicate Advisory: httparty has multipart/form-data request tampering vulnerability,https://github.com/advisories/GHSA-g47j-3m2m-74qv,https://da.gd/7dsNa
+GithubAdvisories,[GHSA-c2v4-chx5-vff6] Duplicate Advisory: Integer overflow in cmark-gfm table parsing extension leads to heap memory corruption,https://github.com/advisories/GHSA-c2v4-chx5-vff6,https://da.gd/BPq2b
+GithubAdvisories,[GHSA-qwf7-rv77-fcr3] Duplicate Advisory: Malicious URL drafting attack against iodines static file server may allow path traversal,https://github.com/advisories/GHSA-qwf7-rv77-fcr3,https://da.gd/bYBSbs
+GithubAdvisories,[GHSA-4mvm-xh8j-fv27] Duplicate Advisory: govuk_tech_docs vulnerable to unescaped HTML on search results page,https://github.com/advisories/GHSA-4mvm-xh8j-fv27,https://da.gd/68nbwC
+GithubAdvisories,[GHSA-v444-jggx-6v7f] Duplicate Advisory: Race Condition leading to logging errors,https://github.com/advisories/GHSA-v444-jggx-6v7f,https://da.gd/2G4Pan
+GithubAdvisories,[GHSA-4553-hq82-8654] Duplicate Advisory: encoded_id-rails potential DOS vulnerability due to URIs with extremely long encoded IDs,https://github.com/advisories/GHSA-4553-hq82-8654,https://da.gd/AiCBKx
