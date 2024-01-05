@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4cj8-779h-r25h] Cross-site Scripting in Pivotal Spring Batch Admin,https://github.com/advisories/GHSA-4cj8-779h-r25h,https://da.gd/otJuJ
+GithubAdvisories,[GHSA-f6jm-9pr8-9c3w] Multiple WSO2 products vulnerable to perform user impersonatoin using JIT provisioning,https://github.com/advisories/GHSA-f6jm-9pr8-9c3w,https://da.gd/16ukW
