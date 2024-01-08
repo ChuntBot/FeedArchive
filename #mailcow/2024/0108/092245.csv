@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Merge pull request #5604 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/121f0120f0110457739f5a8d4ca82f24f828cacc,https://da.gd/Tjko
+GithubCommitStaging,[Web] Fixed form fields bg color in dark mode,https://github.com/mailcow/mailcow-dockerized/commit/c24543fea07058100494eaab2cd8c029af16657c,https://da.gd/KlhRBq
+GithubCommitStaging,[Postfix] Remove pipeling from ehlo keywords as we block it in data r…,https://github.com/mailcow/mailcow-dockerized/commit/c61938db23c5bbc76be8172e22a25e89253655e9,https://da.gd/0dqTU3
+GithubCommitStaging,Update main.cf,https://github.com/mailcow/mailcow-dockerized/commit/b4bb11320f88070421aff4fafed1a0e784325892,https://da.gd/t4wV5
+GithubCommitStaging,Update main.cf,https://github.com/mailcow/mailcow-dockerized/commit/68036eeccf4cd2a5ad979c5ec728bfc4296868fa,https://da.gd/lfZE8d
+GithubCommitStaging,update postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/de00c424f49623be282cc5e796e9da027a19030e,https://da.gd/24mY
+GithubCommitStaging,Merge pull request #5625 from mailcow/update/postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/7f58c422f26157b67419dfad01378b7584a6d187,https://da.gd/Wd2evt
+GithubCommitStaging,Merge pull request #5616 from FELDSAM-INC/feldsam/fix-form-dark-mode,https://github.com/mailcow/mailcow-dockerized/commit/1c7347d38d5f4ee9b9e1894e37f61233ca72fb42,https://da.gd/RhNf
+GithubCommitStaging,Merge pull request #5621 from mailcow/align-ehlo-keywords-to-fuctions,https://github.com/mailcow/mailcow-dockerized/commit/fd206a7ef633ad995790f4a84aa01fa190905eda,https://da.gd/9I4Vq
