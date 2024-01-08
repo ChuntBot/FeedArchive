@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Add new SOGoMailHideInlineAttachments option to sogo.conf,https://github.com/mailcow/mailcow-dockerized/commit/a249e2028dd5ca345aac187d77bcda8d0a1737a7,https://da.gd/xTgFce
+GithubCommitStaging,Merge pull request #5624 from mthld/patch-2,https://github.com/mailcow/mailcow-dockerized/commit/0a0e2b5e93d77144bb57298e6529d782f3773174,https://da.gd/M6cGqz
