@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mqpq-2p68-46fv] pyload Unauthenticated Flask Configuration Leakage vulnerability,https://github.com/advisories/GHSA-mqpq-2p68-46fv,https://da.gd/Qk4z9x
+GithubAdvisories,[GHSA-ghmw-rwh8-6qmr] pyload Log Injection vulnerability,https://github.com/advisories/GHSA-ghmw-rwh8-6qmr,https://da.gd/2m1u
+GithubAdvisories,[GHSA-v2v2-hph8-q5xp] @fastify/reply-from JSON Content-Type parsing confusion,https://github.com/advisories/GHSA-v2v2-hph8-q5xp,https://da.gd/BQVXM
