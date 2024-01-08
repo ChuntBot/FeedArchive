@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jchw-25xp-jwwc] Follow Redirects improperly handles URLs in the url.parse() function,https://github.com/advisories/GHSA-jchw-25xp-jwwc,https://da.gd/a8AZRv
+GithubAdvisories,[GHSA-672h-6x89-76m5] Open redirect vulnerability in Flask-Security-Too,https://github.com/advisories/GHSA-672h-6x89-76m5,https://da.gd/zIk8i
