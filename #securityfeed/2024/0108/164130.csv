@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8959-rfxh-r4j4] XWiki vulnerable to Denial of Service attack through attachments,https://github.com/advisories/GHSA-8959-rfxh-r4j4,https://da.gd/Fsp4Tc
+GithubAdvisories,[GHSA-rj7p-xjv7-7229] XWiki Remote Code Execution Vulnerability via User Registration,https://github.com/advisories/GHSA-rj7p-xjv7-7229,https://da.gd/fHZug
+GithubAdvisories,[GHSA-xh35-w7wg-95v3] XWiki has no right protection on rollback action,https://github.com/advisories/GHSA-xh35-w7wg-95v3,https://da.gd/btacW
