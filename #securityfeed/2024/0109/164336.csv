@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wfw7-6632-xcv2] Jenkins CLI Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-wfw7-6632-xcv2,https://da.gd/Qpjv
+GithubAdvisories,[GHSA-pvcr-v8j8-j5q3] Parsing JSON serialized payload without protected field can lead to segfault,https://github.com/advisories/GHSA-pvcr-v8j8-j5q3,https://da.gd/eoO5y
