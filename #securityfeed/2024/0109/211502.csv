@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jrhw-r343-pjwj] Jenkins Perforce Plugin exposure of sensitive information vulnerability exists,https://github.com/advisories/GHSA-jrhw-r343-pjwj,https://da.gd/mMJNVd
+GithubAdvisories,[GHSA-ghjw-fcf6-rpr9] Job Configuration History Plugin's path traversal allows exploiting XXE vulnerability,https://github.com/advisories/GHSA-ghjw-fcf6-rpr9,https://da.gd/N7Gew
+GithubAdvisories,[GHSA-fjh2-qhfh-rvfc] Jenkins Maven Artifact ChoiceListProvider (Nexus) Plugin CSRF vulnerability and missing permission checks,https://github.com/advisories/GHSA-fjh2-qhfh-rvfc,https://da.gd/eRoTF
