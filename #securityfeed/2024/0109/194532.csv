@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-59j7-ghrg-fj52] Microsoft Security Advisory CVE-2024-21319: .NET Denial of Service Vulnerability,https://github.com/advisories/GHSA-59j7-ghrg-fj52,https://da.gd/YxsCUH
+GithubAdvisories,[GHSA-4jh3-6jhv-2mgp] react-native-mmkv Insertion of Sensitive Information into Log File vulnerability,https://github.com/advisories/GHSA-4jh3-6jhv-2mgp,https://da.gd/dVHc2
+GithubAdvisories,[GHSA-3pfj-g4wr-qj3j] Gila CMS SQL Injection vulnerability,https://github.com/advisories/GHSA-3pfj-g4wr-qj3j,https://da.gd/7WkF5M
+GithubAdvisories,[GHSA-5gwh-r76w-934h] Qualys Jenkins Plugin for WAS XML External Entity vulnerability,https://github.com/advisories/GHSA-5gwh-r76w-934h,https://da.gd/OzZ5p
