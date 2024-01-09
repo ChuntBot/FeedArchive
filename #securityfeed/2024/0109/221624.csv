@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3f3p-qhfv-7p8h] Jenkins openid Plugin missing permission check,https://github.com/advisories/GHSA-3f3p-qhfv-7p8h,https://da.gd/w2uilc
+GithubAdvisories,[GHSA-4p5r-2m5c-hvcc] Jenkins Zephyr Enterprise Test Management Plugin missing permission check,https://github.com/advisories/GHSA-4p5r-2m5c-hvcc,https://da.gd/vahsL5
+GithubAdvisories,[GHSA-cg6q-gp23-vwx8] Jenkins Crowd 2 Integration Plugin stored credentials in plain text,https://github.com/advisories/GHSA-cg6q-gp23-vwx8,https://da.gd/BWpGa7
+GithubAdvisories,[GHSA-wchh-wvpx-pf47] Jenkins Upload to pgyer Plugin stores credentials in plain text,https://github.com/advisories/GHSA-wchh-wvpx-pf47,https://da.gd/I8kNTD
+GithubAdvisories,[GHSA-jjg9-mf63-vqrp] Cross-site scripting in yui 2.4.0,https://github.com/advisories/GHSA-jjg9-mf63-vqrp,https://da.gd/1tnWHG
