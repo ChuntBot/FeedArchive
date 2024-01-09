@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g5q2-cxgq-h2rw] Information leak in Gerrit,https://github.com/advisories/GHSA-g5q2-cxgq-h2rw,https://da.gd/8MFrZ
+GithubAdvisories,[GHSA-grmg-5q49-mqmf] Jenkins Crowd 2 Integration Plugin server-side request forgery vulnerability,https://github.com/advisories/GHSA-grmg-5q49-mqmf,https://da.gd/dkefe
+GithubAdvisories,[GHSA-x9gm-m8pp-54vx] Jenkins JUnit Plugin CSRF vulnerability,https://github.com/advisories/GHSA-x9gm-m8pp-54vx,https://da.gd/4yzoCC
+GithubAdvisories,[GHSA-w86j-99wg-r29f] Jenkins TraceTronic ECU-TEST Plugin Man in the middle vulnerability,https://github.com/advisories/GHSA-w86j-99wg-r29f,https://da.gd/Wjr36r
+GithubAdvisories,[GHSA-hp7x-282p-hhr9] Jenkins TraceTronic ECU-TEST Plugin server-side request forgery vulnerability,https://github.com/advisories/GHSA-hp7x-282p-hhr9,https://da.gd/3OVQ7
+GithubAdvisories,[GHSA-v7g7-cmxx-wxw9] Jenkins GitHub Plugin exposure of sensitive information vulnerability exists,https://github.com/advisories/GHSA-v7g7-cmxx-wxw9,https://da.gd/zrlA
+GithubAdvisories,[GHSA-gh85-mq87-r7v3] Jenkins GitHub Plugin server-side request forgery vulnerability exists,https://github.com/advisories/GHSA-gh85-mq87-r7v3,https://da.gd/yFP3m
