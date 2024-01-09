@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w3r4-vx9w-f7p7] Jenkins Job Config History Plugin reflected XSS vulnerability,https://github.com/advisories/GHSA-w3r4-vx9w-f7p7,https://da.gd/hczr
+GithubAdvisories,[GHSA-8vg7-gh73-866v] Jenkins Accurev Plugin CSRF vulnerability and missing permission checks,https://github.com/advisories/GHSA-8vg7-gh73-866v,https://da.gd/5o7EGO
+GithubAdvisories,[GHSA-pwrm-8mvm-p2f2] Jenkins Agiletestware Pangolin Connector for TestRail Plugin CSRF vulnerability and missing permission checks,https://github.com/advisories/GHSA-pwrm-8mvm-p2f2,https://da.gd/ZgQdMn
+GithubAdvisories,[GHSA-mcqx-wc2j-qx9v] GitHub Authentication Plugin session fixation vulnerability,https://github.com/advisories/GHSA-mcqx-wc2j-qx9v,https://da.gd/t7jlE
+GithubAdvisories,[GHSA-wqjj-c9cx-q7cf] Jenkins Lockable Resources Plugin XSS vulnerability,https://github.com/advisories/GHSA-wqjj-c9cx-q7cf,https://da.gd/Hx7Xah
+GithubAdvisories,[GHSA-5r8q-9fwv-2gpr] Jenkins Slack Notification Plugin CSRF vulnerability and missing permission checks,https://github.com/advisories/GHSA-5r8q-9fwv-2gpr,https://da.gd/bhunyx
+GithubAdvisories,[GHSA-7jcx-j6gv-m4hf] Jenkins Fortify on Demand Uploader Plugin CSRF vulnerability,https://github.com/advisories/GHSA-7jcx-j6gv-m4hf,https://da.gd/Pb75u
+GithubAdvisories,[GHSA-qj8p-c733-v494] CSRF vulnerability in Zephyr Enterprise Test Management Plugin,https://github.com/advisories/GHSA-qj8p-c733-v494,https://da.gd/OhmP
+GithubAdvisories,[GHSA-8v26-3p83-mf2g] Jenkins OpenID Plugin CSRF vulnerability,https://github.com/advisories/GHSA-8v26-3p83-mf2g,https://da.gd/jsVxn5
+GithubAdvisories,[GHSA-p278-2qh9-6mwj] Jenkins Nomad Plugin missing permission check,https://github.com/advisories/GHSA-p278-2qh9-6mwj,https://da.gd/xHe7fZ
