@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-87pj-9q82-m9qh] GitHub Authentication Plugin showed plain text client secret in configuration form,https://github.com/advisories/GHSA-87pj-9q82-m9qh,https://da.gd/5NGcuG
