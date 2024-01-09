@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rv9j-c866-gp5h] Microsoft.IdentityModel.Protocols.SignedHttpRequest remote code execution vulnerability,https://github.com/advisories/GHSA-rv9j-c866-gp5h,https://da.gd/tnB36
+GithubAdvisories,[GHSA-4vf6-2rmx-fgqx] Gila CMS SQL Injection vulnerability,https://github.com/advisories/GHSA-4vf6-2rmx-fgqx,https://da.gd/2fEjt
+GithubAdvisories,[GHSA-g58x-57fv-86jh] Jenkins Google Login Plugin non-constant time token comparison,https://github.com/advisories/GHSA-g58x-57fv-86jh,https://da.gd/D8NSD
+GithubAdvisories,[GHSA-pmc5-74w3-78mw] Jenkins Config File Provider Plugin XSS vulnerability,https://github.com/advisories/GHSA-pmc5-74w3-78mw,https://da.gd/8ap4ip
+GithubAdvisories,[GHSA-gqhm-4h93-rrhg] Jenkins Script Security and Pipeline Groovy Plugins Sandbox Bypass,https://github.com/advisories/GHSA-gqhm-4h93-rrhg,https://da.gd/oqtzP
+GithubAdvisories,[GHSA-8g9c-28fc-mcx2] Microsoft Identity Denial of service vulnerability,https://github.com/advisories/GHSA-8g9c-28fc-mcx2,https://da.gd/pIYP
