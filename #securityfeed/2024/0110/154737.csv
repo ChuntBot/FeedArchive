@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2mqj-m65w-jghx] Untrusted search path under some conditions on Windows allows arbitrary code execution,https://github.com/advisories/GHSA-2mqj-m65w-jghx,https://da.gd/2XsDa
+GithubAdvisories,[GHSA-449p-3h89-pw88] Maliciously crafted Git server replies can lead to path traversal and RCE on go-git clients,https://github.com/advisories/GHSA-449p-3h89-pw88,https://da.gd/DGoet
+GithubAdvisories,[GHSA-p4rx-7wvg-fwrc] CRI-O's pods can break out of resource confinement on cgroupv2,https://github.com/advisories/GHSA-p4rx-7wvg-fwrc,https://da.gd/oI18FK
+GithubAdvisories,[GHSA-g273-wppx-82w4] Pimcore Customer Data Framework Improper Access Control allows unprivileged user to access GDPR extracts,https://github.com/advisories/GHSA-g273-wppx-82w4,https://da.gd/AkTjO
+GithubAdvisories,[GHSA-c38c-c8mh-vq68] Pimcore Customer Data Framework Improper Access Control allows unprivileged user to access customers duplicates list,https://github.com/advisories/GHSA-c38c-c8mh-vq68,https://da.gd/Z9rnP
