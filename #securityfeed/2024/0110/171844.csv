@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rj4f-cp4v-hvcv] Magento Blind SQL Injection in the Search module,https://github.com/advisories/GHSA-rj4f-cp4v-hvcv,https://da.gd/cO6aky
+GithubAdvisories,[GHSA-3657-q433-mmpx] Canvs Canvas Cross-site Scripting (XSS) via title and content fields,https://github.com/advisories/GHSA-3657-q433-mmpx,https://da.gd/fdnmb
+GithubAdvisories,[GHSA-6988-g89m-27vf] Magento stored cross-site scripting (XSS) in the customer address upload feature,https://github.com/advisories/GHSA-6988-g89m-27vf,https://da.gd/z88kD
