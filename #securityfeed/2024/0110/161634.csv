@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7pr3-34rg-g53m] Magento Unrestricted file upload vulnerability,https://github.com/advisories/GHSA-7pr3-34rg-g53m,https://da.gd/OxQH1M
+GithubAdvisories,[GHSA-mgfv-4whf-c574] Magento Cross-site Scripting in the admin panel,https://github.com/advisories/GHSA-mgfv-4whf-c574,https://da.gd/E9kOy
+GithubAdvisories,[GHSA-g4jh-vxqm-6fff] Magento Cross-site Scripting in the admin panel,https://github.com/advisories/GHSA-g4jh-vxqm-6fff,https://da.gd/lDlL8B
+GithubAdvisories,[GHSA-9f4p-3jgf-98f5] Magento Stored Cross-site Scripting vulnerability in the admin panel,https://github.com/advisories/GHSA-9f4p-3jgf-98f5,https://da.gd/JNmxZE
+GithubAdvisories,[GHSA-f899-4mr4-fqpv] Apache Answer Race Condition vulnerability,https://github.com/advisories/GHSA-f899-4mr4-fqpv,https://da.gd/TkYTr
