@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hhfw-xxhm-pf32] ADOdb Cross-site scripting vulnerability in old test script,https://github.com/advisories/GHSA-hhfw-xxhm-pf32,https://da.gd/kHTqn
+GithubAdvisories,[GHSA-2j6v-829g-885q] Magento Improper Access Control,https://github.com/advisories/GHSA-2j6v-829g-885q,https://da.gd/8Dgfm7
+GithubAdvisories,[GHSA-4h3p-63x6-vwg2] Magento Insufficient Session Expiration,https://github.com/advisories/GHSA-4h3p-63x6-vwg2,https://da.gd/AWeEft
+GithubAdvisories,[GHSA-4jfq-f8hc-775q] Magento Insufficient Session Expiration,https://github.com/advisories/GHSA-4jfq-f8hc-775q,https://da.gd/kKkuYC
