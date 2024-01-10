@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8pfq-g48p-x7w8] Magento Insecure Direct Object Reference (IDOR) in the product module,https://github.com/advisories/GHSA-8pfq-g48p-x7w8,https://da.gd/RW9mOb
+GithubAdvisories,[GHSA-mw95-gmw4-883p] Magento XML injection in the Widgets module,https://github.com/advisories/GHSA-mw95-gmw4-883p,https://da.gd/St5d
+GithubAdvisories,[GHSA-h437-qjj9-vmq4] Magento XPath Injection,https://github.com/advisories/GHSA-h437-qjj9-vmq4,https://da.gd/DIPA
+GithubAdvisories,[GHSA-9wc9-498w-h8xv] Magento deserialization vulnerability,https://github.com/advisories/GHSA-9wc9-498w-h8xv,https://da.gd/XwHz
+GithubAdvisories,[GHSA-874g-pxqp-frqp] Magento Path Traversal,https://github.com/advisories/GHSA-874g-pxqp-frqp,https://da.gd/P6SKKc
