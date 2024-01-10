@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-689w-2f93-2x67] Magento stored cross-site scripting vulnerability,https://github.com/advisories/GHSA-689w-2f93-2x67,https://da.gd/G0Vd
+GithubAdvisories,[GHSA-j4fq-3fm7-wh5v] Magento arbitrary PHP code execution via the productData parameter,https://github.com/advisories/GHSA-j4fq-3fm7-wh5v,https://da.gd/vDhbl
