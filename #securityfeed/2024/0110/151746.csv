@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cx99-25hr-5jxf] Pimcore Ecommerce Framework Bundle Improper Access Control allows unprivileged user to access back-office orders list,https://github.com/advisories/GHSA-cx99-25hr-5jxf,https://da.gd/TLELqA
+GithubAdvisories,[GHSA-ppxx-5m9h-6vxf] quic-go's path validation mechanism can be exploited to cause denial of service,https://github.com/advisories/GHSA-ppxx-5m9h-6vxf,https://da.gd/nDRO
