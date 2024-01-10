@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qpc8-m2xm-9w75] Magento Remote code execution through catalog attribute sets,https://github.com/advisories/GHSA-qpc8-m2xm-9w75,https://da.gd/XvxGPT
+GithubAdvisories,[GHSA-qp43-2vhf-cj8g] Magento Remote code execution through support/output path modification,https://github.com/advisories/GHSA-qp43-2vhf-cj8g,https://da.gd/OTz4pT
+GithubAdvisories,[GHSA-rcmf-88p4-9wrg] WooCommerce Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-rcmf-88p4-9wrg,https://da.gd/8IRGz
