@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4v2q-hjx3-c4vr] Magento remote code execution vulnerability,https://github.com/advisories/GHSA-4v2q-hjx3-c4vr,https://da.gd/b0as
+GithubAdvisories,[GHSA-x4jx-hjwf-gc99] elFinder Unrestricted File Upload vulnerability,https://github.com/advisories/GHSA-x4jx-hjwf-gc99,https://da.gd/hfN284
+GithubAdvisories,[GHSA-45x3-mw7q-wf7f] elFinder Path Traversal vulnerability,https://github.com/advisories/GHSA-45x3-mw7q-wf7f,https://da.gd/soJKRF
+GithubAdvisories,[GHSA-3qhm-qfj3-4rrx] elFinder Server Side Request Forgery (SSRF),https://github.com/advisories/GHSA-3qhm-qfj3-4rrx,https://da.gd/qgrWQ
+GithubAdvisories,[GHSA-wwh8-v3j3-gxfw] WooCommerce Incorrect Authorization,https://github.com/advisories/GHSA-wwh8-v3j3-gxfw,https://da.gd/MT0hb
