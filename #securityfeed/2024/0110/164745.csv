@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f6ww-vqw2-xp3v] Magento Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-f6ww-vqw2-xp3v,https://da.gd/gRDKzk
+GithubAdvisories,[GHSA-f73h-224c-62qr] Magento Server-Side Request Forgery (SSRF),https://github.com/advisories/GHSA-f73h-224c-62qr,https://da.gd/YDiCV8
+GithubAdvisories,[GHSA-273r-v888-vgc6] Magento Cross-site Scripting (XSS),https://github.com/advisories/GHSA-273r-v888-vgc6,https://da.gd/TqLqz
