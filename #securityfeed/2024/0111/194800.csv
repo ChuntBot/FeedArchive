@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5rv2-vvmf-f7w8] PHPEMS Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-5rv2-vvmf-f7w8,https://da.gd/sqzUs
+GithubAdvisories,[GHSA-x95x-f4g9-mm85] Magento Improper Access Control vulnerability,https://github.com/advisories/GHSA-x95x-f4g9-mm85,https://da.gd/5MzwiW
+GithubAdvisories,[GHSA-r7mm-grf3-5fjv] Magento Improper Authorization vulnerability,https://github.com/advisories/GHSA-r7mm-grf3-5fjv,https://da.gd/5msWo
+GithubAdvisories,[GHSA-269w-pqc7-68q9] Magento vulnerable to a file upload restriction bypass,https://github.com/advisories/GHSA-269w-pqc7-68q9,https://da.gd/Yd1cnr
+GithubAdvisories,[GHSA-792f-c8mp-2cr5] Magento OS command injection via the WebAPI,https://github.com/advisories/GHSA-792f-c8mp-2cr5,https://da.gd/MSb2H
+GithubAdvisories,[GHSA-crjc-2v9m-8w7r] Magento improper authorization vulnerability in the integrations module,https://github.com/advisories/GHSA-crjc-2v9m-8w7r,https://da.gd/huZfZ
+GithubAdvisories,[GHSA-h4xc-577p-hgj9] Magento cross-site request forgery (CSRF) vulnerability via the GraphQL API,https://github.com/advisories/GHSA-h4xc-577p-hgj9,https://da.gd/iBSK
+GithubAdvisories,[GHSA-w2p4-2c8c-2g7h] Magento OS command injection via the customer attribute save controller,https://github.com/advisories/GHSA-w2p4-2c8c-2g7h,https://da.gd/cqvST
+GithubAdvisories,[GHSA-9wjf-94h3-r4rh] Magento Improper Access Control vulnerability,https://github.com/advisories/GHSA-9wjf-94h3-r4rh,https://da.gd/rOm1B
+GithubAdvisories,[GHSA-5m55-g8pv-x8ww] Magento stored Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-5m55-g8pv-x8ww,https://da.gd/GvaA8z
