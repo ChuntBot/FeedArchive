@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rg7p-wmgj-f374] Magento stored Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-rg7p-wmgj-f374,https://da.gd/wWPgvD
+GithubAdvisories,[GHSA-cj7w-pm77-hvg6] Magento XML Injection vulnerability in the Widgets Module,https://github.com/advisories/GHSA-cj7w-pm77-hvg6,https://da.gd/ApSX3A
+GithubAdvisories,[GHSA-f8fv-f786-9933] Magento improper input validation vulnerability,https://github.com/advisories/GHSA-f8fv-f786-9933,https://da.gd/wHgxg
