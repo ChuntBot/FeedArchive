@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Debian Security Advisory 5598-1,https://packetstormsecurity.com/files/176528/dsa-5598-1.txt,https://da.gd/2kqKjN
+PacketstormSecurity,WordPress POST SMTP Mailer 2.8.7 Authorization Bypass / Cross Site Scripting,https://packetstormsecurity.com/files/176525/wppostsmtp287-bypassxss.txt,https://da.gd/E9Cw
+PacketstormSecurity,SimpleWebServer 2.2-rc2 Denial Of Service,https://packetstormsecurity.com/files/176520/PSimpleWebServer-2.2-rc2-Exploit.pl.txt,https://da.gd/GD0uuc
+PacketstormSecurity,PHPJabbers Event Ticketing System 1.0 Missing Rate Limiting,https://packetstormsecurity.com/files/176519/phpjabbersets10-ratelimit.txt,https://da.gd/RjZkB8
+PacketstormSecurity,PHPJabbers Meeting Room Booking System 1.0 CSV Injection,https://packetstormsecurity.com/files/176518/phpjabbersmrbs10-csvinject.txt,https://da.gd/JPcM
+PacketstormSecurity,PHPJabbers Meeting Room Booking System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/176517/phpjabbersmrbs10-xss.txt,https://da.gd/olbj
+PacketstormSecurity,PHPJabbers Event Ticketing System 1.0 Cross Site Scripting / HTML Injection,https://packetstormsecurity.com/files/176516/phpjabbersets10-xss.txt,https://da.gd/281n
+PacketstormSecurity,PHPJabbers Cinema Booking System 1.0 Missing Rate Limiting,https://packetstormsecurity.com/files/176512/phpjabberscinemabs10-ratelimit.txt,https://da.gd/3ZCefY
+PacketstormSecurity,PHPJabbers Cinema Booking System 1.0 CSV Injection,https://packetstormsecurity.com/files/176511/phpjabberscinemabs10-csvinject.txt,https://da.gd/kJ3u
+PacketstormSecurity,PHPJabbers Meeting Room Booking System 1.0 Missing Rate Limiting,https://packetstormsecurity.com/files/176510/phpjabbersmrbs10-ratelimit.txt,https://da.gd/dvXXh
+PacketstormSecurity,PHPJabbers Cleaning Business Software 1.0 CSV Injection,https://packetstormsecurity.com/files/176509/phpjabberscbs10-csvinject.txt,https://da.gd/2ldsJ
+PacketstormSecurity,PHPJabbers Cinema Booking System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/176508/phpjabberscinemabs10-xss.txt,https://da.gd/3p1Jb
+PacketstormSecurity,PHPJabbers Cleaning Business Software 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/176507/phpjabberscbs10-xss.txt,https://da.gd/D0vZ
+PacketstormSecurity,PHPJabbers Cleaning Business Software 1.0 Missing Rate Limiting,https://packetstormsecurity.com/files/176506/phpjabberscbs10-ratelimit.txt,https://da.gd/vkIE4
+PacketstormSecurity,PHPJabbers Shared Asset Booking System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/176505/phpjabberssabs10-xss.txt,https://da.gd/b18je
