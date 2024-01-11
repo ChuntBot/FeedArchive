@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4mq2-gc4j-cmw6] Django Template Engine Vulnerable to XSS,https://github.com/advisories/GHSA-4mq2-gc4j-cmw6,https://da.gd/c6vfDd
+GithubAdvisories,[GHSA-8r25-68wm-jw35] Authenticated (user role) arbitrary command execution by modifying `start_cmd` setting (GHSL-2023-268),https://github.com/advisories/GHSA-8r25-68wm-jw35,https://da.gd/g0GB
+GithubAdvisories,[GHSA-pxmr-q2x3-9x9m] Authenticated (user role) remote command execution by modifying `nginx` settings (GHSL-2023-269),https://github.com/advisories/GHSA-pxmr-q2x3-9x9m,https://da.gd/ng4X
+GithubAdvisories,[GHSA-h374-mm57-879c] Authenticated (user role) SQL injection in `OrderAndPaginate` (GHSL-2023-270),https://github.com/advisories/GHSA-h374-mm57-879c,https://da.gd/FdgEjY
