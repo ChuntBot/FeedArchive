@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rgrf-6mf5-m882] cdo-local-uuid vulnerable to insertion of artifact derived from developer's Present Working Directory into demonstration code,https://github.com/advisories/GHSA-rgrf-6mf5-m882,https://da.gd/hgnTs
