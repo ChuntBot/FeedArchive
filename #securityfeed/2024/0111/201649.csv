@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cc3w-r3w8-hfh7] Magento Improper Authorization vulnerability in the customers module,https://github.com/advisories/GHSA-cc3w-r3w8-hfh7,https://da.gd/f0UiEz
+GithubAdvisories,[GHSA-7gh6-f4jh-3crq] Magento Violation of Secure Design Principles vulnerability in RMA PDF filename formats,https://github.com/advisories/GHSA-7gh6-f4jh-3crq,https://da.gd/hTDS
+GithubAdvisories,[GHSA-7gpv-xrjr-f5h4] Magento Path Traversal vulnerability,https://github.com/advisories/GHSA-7gpv-xrjr-f5h4,https://da.gd/YzsQ9
+GithubAdvisories,[GHSA-c38m-9668-6j2w] Magento Improper input validation vulnerability,https://github.com/advisories/GHSA-c38m-9668-6j2w,https://da.gd/VR85ob
