@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xgp9-j48h-jjf9] Magento observable timing discrepancy vulnerability,https://github.com/advisories/GHSA-xgp9-j48h-jjf9,https://da.gd/YgPxw
+GithubAdvisories,[GHSA-vqg7-8v6x-54rq] Magento security mitigation bypass vulnerability,https://github.com/advisories/GHSA-vqg7-8v6x-54rq,https://da.gd/5Ov1mx
+GithubAdvisories,[GHSA-pf6w-3pfw-fxvw] Magento SQL Injection vulnerability,https://github.com/advisories/GHSA-pf6w-3pfw-fxvw,https://da.gd/L7SR
+GithubAdvisories,[GHSA-hvf5-4jr9-fghh] Magento incorrect permissions vulnerability in the Integrations component,https://github.com/advisories/GHSA-hvf5-4jr9-fghh,https://da.gd/iJG6
+GithubAdvisories,[GHSA-39rw-4m66-82gf] Magento incorrect user permissions vulnerability within the Inventory component,https://github.com/advisories/GHSA-39rw-4m66-82gf,https://da.gd/6m3v
+GithubAdvisories,[GHSA-mr8q-7f5j-wc79] Magento information disclosure vulnerability,https://github.com/advisories/GHSA-mr8q-7f5j-wc79,https://da.gd/Kck3
+GithubAdvisories,[GHSA-p7m7-j8jv-393q] Magento incorrect permissions vulnerability in the Inventory module,https://github.com/advisories/GHSA-p7m7-j8jv-393q,https://da.gd/W0jvJC
+GithubAdvisories,[GHSA-fr6f-xmfx-rrpq] Magento path traversal vulnerability,https://github.com/advisories/GHSA-fr6f-xmfx-rrpq,https://da.gd/DMakf
