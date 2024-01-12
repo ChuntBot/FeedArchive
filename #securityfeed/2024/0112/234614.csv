@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v977-h4hm-rrff] WWBN AVideo Improper Restriction of Excessive Authentication Attempts vulnerability,https://github.com/advisories/GHSA-v977-h4hm-rrff,https://da.gd/jdCO9V
+GithubAdvisories,[GHSA-wqcc-qf63-c2x4] WWBN AVideo Insufficient Entropy vulnerbaility,https://github.com/advisories/GHSA-wqcc-qf63-c2x4,https://da.gd/bvBIP
+GithubAdvisories,[GHSA-rwf9-8fqr-p44m] Qualys Jenkins Plugin for Policy Compliance Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-rwf9-8fqr-p44m,https://da.gd/DtIr
+GithubAdvisories,[GHSA-g777-crp9-m27g] Apprite CLI makes Use of Hard-coded Credentials,https://github.com/advisories/GHSA-g777-crp9-m27g,https://da.gd/QAXaj6
