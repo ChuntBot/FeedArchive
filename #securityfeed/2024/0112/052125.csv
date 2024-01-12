@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-275c-w5mq-v5m2] PaddlePaddle floating point exception in paddle.argmin and paddle.argmax,https://github.com/advisories/GHSA-275c-w5mq-v5m2,https://da.gd/IitBi
+GithubAdvisories,[GHSA-jm68-fpmr-8j2g] PaddlePaddle floating point exception in paddle.linalg.matrix_rank,https://github.com/advisories/GHSA-jm68-fpmr-8j2g,https://da.gd/HVGzWS
