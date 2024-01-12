@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2hp4-8h6h-93rr] Typo3 Backend History Module Vulnerable to XSS,https://github.com/advisories/GHSA-2hp4-8h6h-93rr,https://da.gd/A5s4l
+GithubAdvisories,[GHSA-p9wg-jvj4-cx26] Typo3 Install Tool XSS Vulnerability,https://github.com/advisories/GHSA-p9wg-jvj4-cx26,https://da.gd/Nm7De
+GithubAdvisories,[GHSA-94c2-g68f-9r98] Typo3 API XSS Vulnerability,https://github.com/advisories/GHSA-94c2-g68f-9r98,https://da.gd/F50GRe
+GithubAdvisories,[GHSA-7gg8-3r6j-5g55] Typo3 Backend Configuration XSS Vulnerability,https://github.com/advisories/GHSA-7gg8-3r6j-5g55,https://da.gd/cvPET
+GithubAdvisories,[GHSA-7w6c-5pr4-7qvp] Typo3 Backend XSS Vulnerability,https://github.com/advisories/GHSA-7w6c-5pr4-7qvp,https://da.gd/ZXE6
+GithubAdvisories,[GHSA-w7h9-8wr4-hwqh] OpenStack Horizon Session Fixation,https://github.com/advisories/GHSA-w7h9-8wr4-hwqh,https://da.gd/3DFD
+GithubAdvisories,[GHSA-4x28-j85r-668q] ForkCMS Directory Traversal vulnerability,https://github.com/advisories/GHSA-4x28-j85r-668q,https://da.gd/K4vMob
+GithubAdvisories,[GHSA-qfr3-29w6-hwpg] Typo3 Exception Handler XSS,https://github.com/advisories/GHSA-qfr3-29w6-hwpg,https://da.gd/zqVre
+GithubAdvisories,[GHSA-947m-vgqc-x6v4] Typo3 Backend History Module Vulnerable to SQL Injection,https://github.com/advisories/GHSA-947m-vgqc-x6v4,https://da.gd/0JUlYp
+GithubAdvisories,[GHSA-rgf6-9q7g-55qg] Typo3 Function Menu API XSS Vulnerability,https://github.com/advisories/GHSA-rgf6-9q7g-55qg,https://da.gd/YUNh
+GithubAdvisories,[GHSA-w563-rq37-cvq5] Typo3 Backend History Module Vulnerable to XSS,https://github.com/advisories/GHSA-w563-rq37-cvq5,https://da.gd/ckzr
+GithubAdvisories,[GHSA-qmmw-ch2q-j6xx] Typo3 Backend API XSS Vulnerability,https://github.com/advisories/GHSA-qmmw-ch2q-j6xx,https://da.gd/yf6AxI
+GithubAdvisories,[GHSA-j5fj-m342-mgcm] Fork CMS Multiple XSS Vulnerabilities,https://github.com/advisories/GHSA-j5fj-m342-mgcm,https://da.gd/54vSXU
+GithubAdvisories,[GHSA-qjjq-rcq8-jw6j] Elefant CMS Multiple XSS Vulnerabilities,https://github.com/advisories/GHSA-qjjq-rcq8-jw6j,https://da.gd/qgsvTQ
