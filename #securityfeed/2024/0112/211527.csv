@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qgvw-qc2q-gv5q] Django Tastypie Improper Deserialization of YAML Data,https://github.com/advisories/GHSA-qgvw-qc2q-gv5q,https://da.gd/m4It7
+GithubAdvisories,[GHSA-9fqr-pqc9-f7pj] Cobbler Web Interface Lacks CSRF Protection,https://github.com/advisories/GHSA-9fqr-pqc9-f7pj,https://da.gd/BNNa
