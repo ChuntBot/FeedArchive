@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-prcq-52f8-fp44] Apache Libcloud vulnerable to certificate impersonation,https://github.com/advisories/GHSA-prcq-52f8-fp44,https://da.gd/oXwc8x
+GithubAdvisories,[GHSA-88r4-38gc-97p4] Apache Axis2 Vulnerable to XML Signature wrapping attack,https://github.com/advisories/GHSA-88r4-38gc-97p4,https://da.gd/JwDVO
+GithubAdvisories,[GHSA-h5p3-7mg6-hgj4] Zend Framework XEE Vulnerability,https://github.com/advisories/GHSA-h5p3-7mg6-hgj4,https://da.gd/ke1gj
