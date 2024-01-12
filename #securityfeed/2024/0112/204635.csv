@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gx4p-6w86-f8jx] Typo3 SQL injection due to faulty prepared statements,https://github.com/advisories/GHSA-gx4p-6w86-f8jx,https://da.gd/nPKQNH
+GithubAdvisories,[GHSA-79gv-5cgx-x6rx] Typo3 Authentication Bypass,https://github.com/advisories/GHSA-79gv-5cgx-x6rx,https://da.gd/0puX95
+GithubAdvisories,[GHSA-29wr-24h5-95r5] Typo3 XSS Vulnerability,https://github.com/advisories/GHSA-29wr-24h5-95r5,https://da.gd/rGnOJn
+GithubAdvisories,[GHSA-h86g-796f-hhfq] Typo3 XSS Vulnerabilities,https://github.com/advisories/GHSA-h86g-796f-hhfq,https://da.gd/gi1QEV
+GithubAdvisories,[GHSA-rwx5-7x5r-jgrm] Typo3 Information Disclosure,https://github.com/advisories/GHSA-rwx5-7x5r-jgrm,https://da.gd/D2Z4lh
+GithubAdvisories,[GHSA-8grp-3j5v-543g] Typo3 Arbitrary Information Disclosure,https://github.com/advisories/GHSA-8grp-3j5v-543g,https://da.gd/Zybq9B
+GithubAdvisories,[GHSA-9vxq-mxw5-mcgp] Typo3 Arbitrary File Delete,https://github.com/advisories/GHSA-9vxq-mxw5-mcgp,https://da.gd/ekNym
+GithubAdvisories,[GHSA-qf79-34j4-54m6] Typo3 Improper Access Control,https://github.com/advisories/GHSA-qf79-34j4-54m6,https://da.gd/2BKIT
+GithubAdvisories,[GHSA-q22w-r5qq-v3wf] Typo3 XSS in RemoveXSS function,https://github.com/advisories/GHSA-q22w-r5qq-v3wf,https://da.gd/YTAAw
+GithubAdvisories,[GHSA-frf4-5p2c-c3ff] Typo3 Information Disclosure,https://github.com/advisories/GHSA-frf4-5p2c-c3ff,https://da.gd/TdjnFt
+GithubAdvisories,[GHSA-xxgm-qpj5-4886] OpenStack Nova Scheduler denial of service through scheduler_hints,https://github.com/advisories/GHSA-xxgm-qpj5-4886,https://da.gd/7IdYz
+GithubAdvisories,[GHSA-xp97-6w7r-4cjc] OpenStack Keystone token expiration issues,https://github.com/advisories/GHSA-xp97-6w7r-4cjc,https://da.gd/hLagf
+GithubAdvisories,[GHSA-6rrm-xxvh-7r87] OpenStack Glance arbitrary deletion of non-protected images,https://github.com/advisories/GHSA-6rrm-xxvh-7r87,https://da.gd/hg53y
+GithubAdvisories,[GHSA-vwr9-9f8v-vp5m] OpenStack Glance arbitrary deletion of non-protected images,https://github.com/advisories/GHSA-vwr9-9f8v-vp5m,https://da.gd/F1ijP5
+GithubAdvisories,[GHSA-q6w5-jg5q-47vg] @clerk/nextjs auth() and getAuth() methods vulnerable to insecure direct object reference (IDOR),https://github.com/advisories/GHSA-q6w5-jg5q-47vg,https://da.gd/GSnCp
+GithubAdvisories,[GHSA-qvpr-qm6w-6rcc] OpenStack Keystone intended authorization restrictions bypass,https://github.com/advisories/GHSA-qvpr-qm6w-6rcc,https://da.gd/5PSKr
+GithubAdvisories,[GHSA-x8h4-xf47-pqc3] OpenStack Keystone Token authorization for a user in a disabled tenant is allowed,https://github.com/advisories/GHSA-x8h4-xf47-pqc3,https://da.gd/Rzx1f
+GithubAdvisories,[GHSA-v358-rvxr-wffx] Silverstripe XSS Vulnerabilities,https://github.com/advisories/GHSA-v358-rvxr-wffx,https://da.gd/RuVwIU
