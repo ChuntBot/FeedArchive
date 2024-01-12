@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v3fg-x8jw-m974] Fork CMS XSS via Highlight Parameter,https://github.com/advisories/GHSA-v3fg-x8jw-m974,https://da.gd/xOiLyN
+GithubAdvisories,[GHSA-v58w-6xc2-w799] Puppet Denial of Service and Arbitrary File Write,https://github.com/advisories/GHSA-v58w-6xc2-w799,https://da.gd/FONJU
+GithubAdvisories,[GHSA-6xxq-j39w-g3f6] Puppet Arbitrary Command Execution,https://github.com/advisories/GHSA-6xxq-j39w-g3f6,https://da.gd/vRAxA
+GithubAdvisories,[GHSA-mr97-gvvg-rhgh] Moodle Exposes Sensitive User Information,https://github.com/advisories/GHSA-mr97-gvvg-rhgh,https://da.gd/T8wA
+GithubAdvisories,[GHSA-3rqj-jchw-9cc7] Moodle Authentication Bypass in Question-Bank,https://github.com/advisories/GHSA-3rqj-jchw-9cc7,https://da.gd/p6j77
