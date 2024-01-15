@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qjmg-77xh-7mjw] Loggerhead XSS via filename,https://github.com/advisories/GHSA-qjmg-77xh-7mjw,https://da.gd/tds0
+GithubAdvisories,[GHSA-wgvv-5396-ggvj] EC-CUBE XSS Vulnerabilities,https://github.com/advisories/GHSA-wgvv-5396-ggvj,https://da.gd/9k5OZr
+GithubAdvisories,[GHSA-hpj3-5p46-g87w] Cobbler vulnerable to code injection via unsafe YAML loading,https://github.com/advisories/GHSA-hpj3-5p46-g87w,https://da.gd/6gF6wT
