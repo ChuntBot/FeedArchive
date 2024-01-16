@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ggpm-9qfx-mhwg] EverShop vulnerable to improper authorization in GraphQL endpoints,https://github.com/advisories/GHSA-ggpm-9qfx-mhwg,https://da.gd/i3yX4P
+GithubAdvisories,[GHSA-32r3-57hp-cgfw] EverShop at risk to unauthorized access via weak HMAC secret,https://github.com/advisories/GHSA-32r3-57hp-cgfw,https://da.gd/PfmVvO
