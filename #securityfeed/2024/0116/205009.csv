@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xgfm-fjx6-62mj] readthedocs-sphinx-search vulnerable to cross-site scripting when including search results from malicious projects,https://github.com/advisories/GHSA-xgfm-fjx6-62mj,https://da.gd/6aeaO2
+GithubAdvisories,[GHSA-rxgg-273w-rfw7] Remote Code Execution vulnerability in Apache IoTDB via UDF,https://github.com/advisories/GHSA-rxgg-273w-rfw7,https://da.gd/JlTWCj
+GithubAdvisories,[GHSA-gg7w-pw2r-x2cq] Apache Solr allows read access to host environmet variables,https://github.com/advisories/GHSA-gg7w-pw2r-x2cq,https://da.gd/Ng7C
+GithubAdvisories,[GHSA-jc7h-c423-mpjc] Apache Shiro vulnerable to path traversal,https://github.com/advisories/GHSA-jc7h-c423-mpjc,https://da.gd/ivVsW
