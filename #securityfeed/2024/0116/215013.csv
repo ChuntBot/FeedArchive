@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8c56-v25w-f89c] Puppet arbitrary file overwrite,https://github.com/advisories/GHSA-8c56-v25w-f89c,https://da.gd/4f7Rhd
+GithubAdvisories,[GHSA-qh3g-27jf-3j54] Puppet allows local users to modify the permissions of arbitrary files,https://github.com/advisories/GHSA-qh3g-27jf-3j54,https://da.gd/PLrsv
+GithubAdvisories,"[GHSA-mpmx-gm5v-q789] Puppet uses predictable filenames, allowing arbitrary file overwrite",https://github.com/advisories/GHSA-mpmx-gm5v-q789,https://da.gd/kEff1
