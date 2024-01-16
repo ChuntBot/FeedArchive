@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9pvx-fwwh-w289] Puppet does not properly restrict access to node resources,https://github.com/advisories/GHSA-9pvx-fwwh-w289,https://da.gd/FBDHH
+GithubAdvisories,[GHSA-r78f-4q2q-hvv4] CL-Signatures Revocation Scheme in Ursa has flaws that allow a holder to demonstrate non-revocation of a revoked credential,https://github.com/advisories/GHSA-r78f-4q2q-hvv4,https://da.gd/bd6Yu
+GithubAdvisories,[GHSA-6698-mhxx-r84g] Ursa CL-Signatures Revocation allows verifiers to generate unique identifiers for holders,https://github.com/advisories/GHSA-6698-mhxx-r84g,https://da.gd/gpNz
+GithubAdvisories,[GHSA-2q6j-gqc4-4gw3] Breaking unlinkability in Identity Mixer using malicious keys,https://github.com/advisories/GHSA-2q6j-gqc4-4gw3,https://da.gd/rIQi
