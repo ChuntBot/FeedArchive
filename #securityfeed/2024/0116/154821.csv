@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-62jr-84gf-wmg4] Default swagger-ui configuration exposes all files in the module,https://github.com/advisories/GHSA-62jr-84gf-wmg4,https://da.gd/kecb2Z
+GithubAdvisories,[GHSA-ghjv-mh6x-7q6h] avo vulnerable to stored cross-site scripting (XSS) in key_value field,https://github.com/advisories/GHSA-ghjv-mh6x-7q6h,https://da.gd/4kLq0
