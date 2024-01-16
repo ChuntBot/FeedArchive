@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wxg3-mfph-qg9w] Django Might Allow CSRF Requests via URL Verification,https://github.com/advisories/GHSA-wxg3-mfph-qg9w,https://da.gd/bdybo
+GithubAdvisories,[GHSA-rm2j-x595-q9cj] Django Vulnerable to Cache Poisoning,https://github.com/advisories/GHSA-rm2j-x595-q9cj,https://da.gd/TDEq
