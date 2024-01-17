@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h6c8-rg87-f3pc] Apache Tomcat HTTP BIO Connector Error Discloses Information From Different Requests to Remote Users,https://github.com/advisories/GHSA-h6c8-rg87-f3pc,https://da.gd/cZRRb5
+GithubAdvisories,[GHSA-g8vp-2v5p-9qfh] Cross-site scripting (XSS) in Action messages on Avo,https://github.com/advisories/GHSA-g8vp-2v5p-9qfh,https://da.gd/m6nK
+GithubAdvisories,[GHSA-jq6g-p65r-44xr] Apache MyFaces Vulnerable to EL Injection,https://github.com/advisories/GHSA-jq6g-p65r-44xr,https://da.gd/9S8K6
