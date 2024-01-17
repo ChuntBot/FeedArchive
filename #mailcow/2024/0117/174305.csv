@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommitStaging,dockerapi: implemented lifespan function,https://github.com/mailcow/mailcow-dockerized/commit/25007b19633a3ae121981206854fb3dc1e9e86a8,https://da.gd/BKgcPw
+GithubCommitStaging,compose: updated image tags,https://github.com/mailcow/mailcow-dockerized/commit/1ee3bb42f359fc606a5946325e04769a1f2a71bb,https://da.gd/0k1bfR
+GithubCommitStaging,Merge pull request #5592 from mailcow/feat/alpine-3.19,https://github.com/mailcow/mailcow-dockerized/commit/942ef7c254ae62bef548b26d40c6450d3a911451,https://da.gd/5tZvxq
+GithubCommitStaging,Merge pull request #5615 from mailcow/fix/default-values,https://github.com/mailcow/mailcow-dockerized/commit/b491f6af9bf8e3babb2f55d53506c1c4327ff0c3,https://da.gd/ODV03J
+GithubCommitStaging,Merge pull request #5581 from mailcow/renovate/composer-composer-2.x,https://github.com/mailcow/mailcow-dockerized/commit/2b215014502361e3faee06f5f3a7df4910225f73,https://da.gd/rAEwLm
+GithubCommitStaging,Merge pull request #5550 from mailcow/renovate/tianon-gosu-1.x,https://github.com/mailcow/mailcow-dockerized/commit/01b0ad0fd9b38dc2abc996990ca41299fd19defe,https://da.gd/WLfyu
+GithubCommitStaging,Merge pull request #5549 from mailcow/renovate/phpredis-phpredis-6.x,https://github.com/mailcow/mailcow-dockerized/commit/48549ead7f4e14b544247371a3c184852124a44b,https://da.gd/Y7CXrD
+GithubCommitStaging,Merge pull request #5522 from mailcow/renovate/krakjoe-apcu-5.x,https://github.com/mailcow/mailcow-dockerized/commit/b4eeb0ffae92c80a1ba13624c8c60f844ccfad79,https://da.gd/FJDOY
+GithubCommitStaging,lang: fixed totp langs,https://github.com/mailcow/mailcow-dockerized/commit/b5a1a18b041cea4b725ea2850721ac9581416971,https://da.gd/BdKpED
+GithubCommitStaging,ui: fix alignment secondary,https://github.com/mailcow/mailcow-dockerized/commit/cf9f02adbbec76ae39457952dfb88ec5acce5129,https://da.gd/pW9cJC
+GithubCommitStaging,unbound: rewrote healthcheck to be more detailed,https://github.com/mailcow/mailcow-dockerized/commit/b29dc3799114089471253d31295a290c239b8488,https://da.gd/aHHmrs
+GithubCommitStaging,Merge pull request #5639 from mailcow/feat/unbound-healthcheck-rewrite,https://github.com/mailcow/mailcow-dockerized/commit/43bb26f28ce2a51dc4a61f680545e4b98d10c105,https://da.gd/FbgEW
+GithubCommitStaging,[Web] limit logo file upload,https://github.com/mailcow/mailcow-dockerized/commit/7f6f7e0e9ff608618e5b144bcf18d279610aa3ed,https://da.gd/SpYFz4
+GithubCommitStaging,Domains and Mailboxes datatable - server side processing - filtering …,https://github.com/mailcow/mailcow-dockerized/commit/ac4f131fa8f1629b1c831478d020f5f1b6be4261,https://da.gd/Wypd
+GithubCommitStaging,[Web] fix mailbox and domain creation,https://github.com/mailcow/mailcow-dockerized/commit/99d9a2eacdfffc27604e2b7c572638c456398d19,https://da.gd/HqgTNj
+GithubCommitStaging,Updated mailcow Components to be ARM64 compatible,https://github.com/mailcow/mailcow-dockerized/commit/accedf028003ad6f0511a41a8773562458038bed,https://da.gd/MIHUB
+GithubCommitStaging,Merge pull request #5587 from mailcow/feat/arm64,https://github.com/mailcow/mailcow-dockerized/commit/905a2028731b81e394212a9239e40c5ff404fed4,https://da.gd/BMdZf
+GithubCommitStaging,Merge pull request #5523 from FELDSAM-INC/feldsam/datatables-ssp,https://github.com/mailcow/mailcow-dockerized/commit/bd6a7210b79681ac46fc77b252b3f72077d57699,https://da.gd/vuD59q
+GithubCommitStaging,[Web] fix datatables ssp queries,https://github.com/mailcow/mailcow-dockerized/commit/cc3adbe78c815e07ef68cc7f2e355b7dc9d03d2c,https://da.gd/T5S5rP
+GithubCommitStaging,[Rspamd] check if footer.skip_replies is not 0,https://github.com/mailcow/mailcow-dockerized/commit/90a7cff2c9061b0ffd0cba63ade68e3a313d4b61,https://da.gd/LRLSQP
