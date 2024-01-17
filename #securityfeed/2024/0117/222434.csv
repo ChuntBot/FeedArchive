@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c38m-v4m2-524v] Apache Tomcat Allows Remote Attackers to Spoof AJP Requests,https://github.com/advisories/GHSA-c38m-v4m2-524v,https://da.gd/0nc8
+GithubAdvisories,[GHSA-f6jh-hvg2-9525] crystals-go vulnerable to KyberSlash (timing side-channel attack for Kyber),https://github.com/advisories/GHSA-f6jh-hvg2-9525,https://da.gd/6xMPo1
