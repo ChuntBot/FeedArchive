@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4w8m-96v9-2c86] Moodle CRLF Injection Vulnerability in Calendar Component,https://github.com/advisories/GHSA-4w8m-96v9-2c86,https://da.gd/4O3UAV
+GithubAdvisories,[GHSA-8vjj-wf73-w882] Moodle Incorrect Default Settings,https://github.com/advisories/GHSA-8vjj-wf73-w882,https://da.gd/XgdmQ
+GithubAdvisories,[GHSA-mx5g-3vxh-rgm8] Moodle vulnerable to XSS via bundled spikephpcoverage library,https://github.com/advisories/GHSA-mx5g-3vxh-rgm8,https://da.gd/kOmVs
+GithubAdvisories,[GHSA-jcrj-x36p-h9f6] Moodle Open Redirect in Calendar Set Page,https://github.com/advisories/GHSA-jcrj-x36p-h9f6,https://da.gd/mbrFM8
