@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-wxvp-8q8h-r6rr] Moodle Double-Caches Content, Potentially Writing to a File System's Tmp Directory",https://github.com/advisories/GHSA-wxvp-8q8h-r6rr,https://da.gd/yQiTc
+GithubAdvisories,[GHSA-r729-mx2r-j26j] Moodle XSS Vulnerability,https://github.com/advisories/GHSA-r729-mx2r-j26j,https://da.gd/noyI6
+GithubAdvisories,[GHSA-jcrj-gmr6-p5j8] Moodle Allows Modification of Constants,https://github.com/advisories/GHSA-jcrj-gmr6-p5j8,https://da.gd/Y7ufTI
+GithubAdvisories,[GHSA-6656-6qwx-4c2m] Moodle XSS In Tag Autocomplete functionality,https://github.com/advisories/GHSA-6656-6qwx-4c2m,https://da.gd/d62n
+GithubAdvisories,[GHSA-hxmp-8f47-x9fc] Moodle Open Redirect Via Error Messages,https://github.com/advisories/GHSA-hxmp-8f47-x9fc,https://da.gd/3qHEh
