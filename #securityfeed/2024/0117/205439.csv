@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8f24-6m29-wm2r] use-after-free in tracing,https://github.com/advisories/GHSA-8f24-6m29-wm2r,https://da.gd/mw1dV
+GithubAdvisories,[GHSA-v363-rrf2-5fmj] ferris-says has undefined behavior when not using UTF-8,https://github.com/advisories/GHSA-v363-rrf2-5fmj,https://da.gd/F9hWrr
+GithubAdvisories,[GHSA-3867-jc5c-66qf] Broken Access Control order API in Shopware,https://github.com/advisories/GHSA-3867-jc5c-66qf,https://da.gd/98kbl
+GithubAdvisories,[GHSA-qmp9-2xwj-m6m9] Blind SQL injection in shopware,https://github.com/advisories/GHSA-qmp9-2xwj-m6m9,https://da.gd/euj1cR
