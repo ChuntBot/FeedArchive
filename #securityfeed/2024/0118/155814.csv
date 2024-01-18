@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6r8p-hpg7-825g] Uncontrolled Recursion in SurrealQL Parsing,https://github.com/advisories/GHSA-6r8p-hpg7-825g,https://da.gd/d9eHQ
+GithubAdvisories,[GHSA-m24x-r6q3-2vp9] Uncaught Exception processing HTTP Headers in SurrealDB,https://github.com/advisories/GHSA-m24x-r6q3-2vp9,https://da.gd/M1hA2Z
+GithubAdvisories,[GHSA-jm4v-58r5-66hj] Uncaught Exception in surrealdb,https://github.com/advisories/GHSA-jm4v-58r5-66hj,https://da.gd/Q9Qxr
