@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+PacketstormSecurity,WordPress Backup Migration 1.3.7 Remote Command Execution,https://packetstormsecurity.com/files/176638/wp_backup_migration_php_filter.rb.txt,https://da.gd/k4cqe
+PacketstormSecurity,Ansible Agent Payload Deployer,https://packetstormsecurity.com/files/176637/ansible_node_deployer.rb.txt,https://da.gd/xY5Ov
+PacketstormSecurity,Debian Security Advisory 5602-1,https://packetstormsecurity.com/files/176636/dsa-5602-1.txt,https://da.gd/xK8k
+PacketstormSecurity,mqXSS 0.2,https://packetstormsecurity.com/files/176634/mqxss-0.2.zip,https://da.gd/OdsH
+PacketstormSecurity,SpyCamLizard 1.230 Denial Of Service,https://packetstormsecurity.com/files/176633/SpyCamLizard-1.230-Exploit.pl.txt,https://da.gd/ygcRS3
+PacketstormSecurity,Contiki-NG tinyDTLS Buffer Over-Read / Denial Of Service,https://packetstormsecurity.com/files/176631/cngtinydtls-overreaddos.txt,https://da.gd/QYx6c
+PacketstormSecurity,Contiki-NG tinyDTLS Epoch Number Reuse,https://packetstormsecurity.com/files/176630/cngtinydtls-epochreuse.txt,https://da.gd/OJ8Fv
+PacketstormSecurity,Contiki-NG tinyDTLS check_certificate_request() Denial Of Service,https://packetstormsecurity.com/files/176629/cngtinydtls-assertionfailure.txt,https://da.gd/iI4YJ2
+PacketstormSecurity,Contiki-NG tinyDTLS dtls_ccm_decrypt_message() Buffer Overread,https://packetstormsecurity.com/files/176628/cngtinydtls-bufferoverread.txt,https://da.gd/LZwZuG
+PacketstormSecurity,Contiki-NG tinyDTLS Buffer Over-Read / Denial Of Service,https://packetstormsecurity.com/files/176627/cngtinydtls-infiniteloop.txt,https://da.gd/ePrU55
+PacketstormSecurity,Contiki-NG tinyDTLS Denial Of Service,https://packetstormsecurity.com/files/176626/cngtinydtls-dos.txt,https://da.gd/uk4A
+PacketstormSecurity,Contiki-NG tinyDTLS Denial Of Service,https://packetstormsecurity.com/files/176625/tinydtls-dos.txt,https://da.gd/KyniMp
+PacketstormSecurity,Redis Raft ODR Violation,https://packetstormsecurity.com/files/176624/redisraft-odr.txt,https://da.gd/ti85n4
+PacketstormSecurity,Legends Of IdleOn Random Number Generation Manipulation,https://packetstormsecurity.com/files/176623/loio-insecure.tgz,https://da.gd/5oknJx
+PacketstormSecurity,Red Hat Security Advisory 2024-0279-03,https://packetstormsecurity.com/files/176622/RHSA-2024-0279-03.txt,https://da.gd/SLmuwj
+PacketstormSecurity,Red Hat Security Advisory 2024-0278-03,https://packetstormsecurity.com/files/176621/RHSA-2024-0278-03.txt,https://da.gd/NvQa69
+PacketstormSecurity,Red Hat Security Advisory 2024-0267-03,https://packetstormsecurity.com/files/176620/RHSA-2024-0267-03.txt,https://da.gd/NllhJ
+PacketstormSecurity,Red Hat Security Advisory 2024-0265-03,https://packetstormsecurity.com/files/176619/RHSA-2024-0265-03.txt,https://da.gd/vd1TrT
+PacketstormSecurity,Red Hat Security Advisory 2024-0250-03,https://packetstormsecurity.com/files/176618/RHSA-2024-0250-03.txt,https://da.gd/AysHJ5
+PacketstormSecurity,Red Hat Security Advisory 2024-0249-03,https://packetstormsecurity.com/files/176617/RHSA-2024-0249-03.txt,https://da.gd/mM2yS
+PacketstormSecurity,Red Hat Security Advisory 2024-0248-03,https://packetstormsecurity.com/files/176616/RHSA-2024-0248-03.txt,https://da.gd/UiQi4
+PacketstormSecurity,Red Hat Security Advisory 2024-0247-03,https://packetstormsecurity.com/files/176615/RHSA-2024-0247-03.txt,https://da.gd/drpasr
+PacketstormSecurity,Red Hat Security Advisory 2024-0246-03,https://packetstormsecurity.com/files/176614/RHSA-2024-0246-03.txt,https://da.gd/vRU1
