@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommit,unbound: increased healthcheck timeout,https://github.com/mailcow/mailcow-dockerized/commit/cb3bc207b94562ab13ce08455a5571613a26c8dd,https://da.gd/uvgjdq
+GithubCommit,Merge pull request #5650 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/76f8a5b7de927fad6a00454e4ffe0e9b18b3f654,https://da.gd/3LHNS
