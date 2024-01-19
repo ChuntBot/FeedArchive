@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vch7-92vf-jm44] Apache Tomcat does not follow ServletSecurity annotations,https://github.com/advisories/GHSA-vch7-92vf-jm44,https://da.gd/qzhT
+GithubAdvisories,[GHSA-cvwc-g7fw-7xrj] Plone XSS Vulnerability,https://github.com/advisories/GHSA-cvwc-g7fw-7xrj,https://da.gd/LPg5W
+GithubAdvisories,[GHSA-rp8h-vr48-4j8p] Apache Tomcat Exposes IP Addresses and HTTP Headers of Requests,https://github.com/advisories/GHSA-rp8h-vr48-4j8p,https://da.gd/DVrUZ
