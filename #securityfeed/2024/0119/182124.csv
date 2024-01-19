@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xwg2-qc6c-7c3q] Fabric vulnerable to symlink attack on tmp files,https://github.com/advisories/GHSA-xwg2-qc6c-7c3q,https://da.gd/0QZz
