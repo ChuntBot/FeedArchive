@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pcm9-fp55-563v] OWASP HTML Sanitizer allows redirecting to an arbitrary URL when JavaScript is disabled,https://github.com/advisories/GHSA-pcm9-fp55-563v,https://da.gd/O0nQ
+GithubAdvisories,[GHSA-3jhc-wjqf-5f2c] Virtualenv Allows Symlink Attack on /tmp/,https://github.com/advisories/GHSA-3jhc-wjqf-5f2c,https://da.gd/wkEyL1
+GithubAdvisories,[GHSA-gv6c-59h4-9pmg] Silverstripe CMS Arbitrary Code Execution,https://github.com/advisories/GHSA-gv6c-59h4-9pmg,https://da.gd/8PaKG7
+GithubAdvisories,[GHSA-96vx-qf28-6f8m] Drupal Access Control Bypass,https://github.com/advisories/GHSA-96vx-qf28-6f8m,https://da.gd/VQIYWG
+GithubAdvisories,[GHSA-pchf-755w-jj6v] QooxDoo XSS in Callback Parameter,https://github.com/advisories/GHSA-pchf-755w-jj6v,https://da.gd/IUyeR
