@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-57wx-m636-g3g8] Go package github.com/notaryproject/notation configured with permissive trust policies potentially susceptible to rollback attack from compromised registry,https://github.com/advisories/GHSA-57wx-m636-g3g8,https://da.gd/gTcB
+GithubAdvisories,[GHSA-62cf-jvpp-48q6] Drupal Denial of Service vulnerability,https://github.com/advisories/GHSA-62cf-jvpp-48q6,https://da.gd/GEG4bT
+GithubAdvisories,[GHSA-wg2x-rv86-mmpx] SPV Merkle proof malleability allows the maintainer to prove invalid transactions,https://github.com/advisories/GHSA-wg2x-rv86-mmpx,https://da.gd/zLGvlW
+GithubAdvisories,[GHSA-c24v-8rfc-w8vw] Vite dev server option `server.fs.deny` can be bypassed when hosted on case-insensitive filesystem,https://github.com/advisories/GHSA-c24v-8rfc-w8vw,https://da.gd/NeRLy
