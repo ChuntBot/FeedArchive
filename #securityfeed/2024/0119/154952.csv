@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qr8r-m495-7hc4] Validation of `VoteExtensionsEnableHeight` can cause chain halt in Go package github.com/cometbft/cometbft,https://github.com/advisories/GHSA-qr8r-m495-7hc4,https://da.gd/iCIpL
+GithubAdvisories,[GHSA-pgpj-v85q-h5fm] Cross-Site Request Forgery on any API call in pyLoad may lead to admin privilege escalation,https://github.com/advisories/GHSA-pgpj-v85q-h5fm,https://da.gd/eQjf
+GithubAdvisories,[GHSA-8r5v-vm4m-4g25] Resource exhaustion vulnerability in h2 may lead to Denial of Service (DoS),https://github.com/advisories/GHSA-8r5v-vm4m-4g25,https://da.gd/n1FBx3
