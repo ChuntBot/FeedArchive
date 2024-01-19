@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xmwv-mqh8-4xgw] Moodle allows remote attackers to read arbitrary files,https://github.com/advisories/GHSA-xmwv-mqh8-4xgw,https://da.gd/NthECE
+GithubAdvisories,[GHSA-8r7x-qq55-74v2] Moodle does not enforce the forceloginforprofiles setting,https://github.com/advisories/GHSA-8r7x-qq55-74v2,https://da.gd/Etupz
+GithubAdvisories,[GHSA-5xfx-55x4-j223] Cross-Frame Scripting vulnerability has been found on Plone CMS,https://github.com/advisories/GHSA-5xfx-55x4-j223,https://da.gd/IybE8K
