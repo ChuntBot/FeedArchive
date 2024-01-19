@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g5c6-w479-93xm] Mono ASP.NET View State Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-g5c6-w479-93xm,https://da.gd/0FJjs
+GithubAdvisories,[GHSA-92mw-q256-5vwg] github.com/argoproj/argo-cd Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-92mw-q256-5vwg,https://da.gd/AUyzK
+GithubAdvisories,[GHSA-58j9-j2fj-v8f4] SurrealDB vulnerable to Uncontrolled CPU Consumption via WebSocket Interface,https://github.com/advisories/GHSA-58j9-j2fj-v8f4,https://da.gd/Le6tVc
+GithubAdvisories,[GHSA-44cc-43rp-5947] JupyterLab vulnerable to potential authentication and CSRF tokens leak,https://github.com/advisories/GHSA-44cc-43rp-5947,https://da.gd/7yDWhp
+GithubAdvisories,[GHSA-4m77-cmpx-vjc4] JupyterLab vulnerable to SXSS in Markdown Preview,https://github.com/advisories/GHSA-4m77-cmpx-vjc4,https://da.gd/p3vPM
