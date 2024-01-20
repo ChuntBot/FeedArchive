@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jwxh-wj79-ccm6] Magento Reflected Cross-site Scripting vulnerability via 'file' parameter,https://github.com/advisories/GHSA-jwxh-wj79-ccm6,https://da.gd/nIiO9r
+GithubAdvisories,[GHSA-c3m4-hxv9-4mxj] Magento command injection vulnerability,https://github.com/advisories/GHSA-c3m4-hxv9-4mxj,https://da.gd/TwD9S
+GithubAdvisories,[GHSA-39ch-rg26-gmq5] Magento DOM-based Cross-Site Scripting vulnerability on mage-messages cookies,https://github.com/advisories/GHSA-39ch-rg26-gmq5,https://da.gd/GDM1n
