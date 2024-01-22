@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,fix: rollback of Alpine 3.19 were possible,https://github.com/mailcow/mailcow-dockerized/commit/a0613e4b1085d3a4de8f5872b0a6deeed8efc066,https://da.gd/o4LJN
+GithubCommitStaging,Merge pull request #5662 from mailcow/fix/rollback-curl-bug,https://github.com/mailcow/mailcow-dockerized/commit/1159450cc4b238485100f40c2c121e6c11db0f31,https://da.gd/C4Roo
