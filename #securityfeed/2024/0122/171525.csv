@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-prrh-679x-79qh] Moodle allows remote authenticated users to reassign notes,https://github.com/advisories/GHSA-prrh-679x-79qh,https://da.gd/NMPls
+GithubAdvisories,[GHSA-pgp5-rcwp-qvfg] Moodle includes the WebDAV password in the configuration form,https://github.com/advisories/GHSA-pgp5-rcwp-qvfg,https://da.gd/c2YVk
