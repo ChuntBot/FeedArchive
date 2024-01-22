@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubCommit,Allow user skip unbound healthcheck,https://github.com/mailcow/mailcow-dockerized/commit/ed493f9c3a63d94ef10b149829fe3a752c3532e3,https://da.gd/8l1kc
+GithubCommit,change variable name,https://github.com/mailcow/mailcow-dockerized/commit/b89d71e6e4d42d1082f92914ff453d1272c67088,https://da.gd/21VwO9
+GithubCommit,add SKIP_UNBOUND_HEALTHCHECK to docker-compose.yml,https://github.com/mailcow/mailcow-dockerized/commit/aa1d92dfbbcb555caf5f1a39032b7361254240aa,https://da.gd/2ssAm
+GithubCommit,update config comment,https://github.com/mailcow/mailcow-dockerized/commit/d2edf359ac3ebdc51d56aab488ffc5dd927db13b,https://da.gd/1jnD
+GithubCommit,add parameter SKIP_UNBOUND_HEALTHCHECK to old installations,https://github.com/mailcow/mailcow-dockerized/commit/9d4055fc4d3a67221160f0d8342f41f77e28dd8e,https://da.gd/rMCsXR
+GithubCommit,Test for openrc configuration file instead of alpine,https://github.com/mailcow/mailcow-dockerized/commit/25bdc4c9ed93392e71ee0b32bcdb51572bd75172,https://da.gd/HxJZ1
+GithubCommit,compose: bump unbound version,https://github.com/mailcow/mailcow-dockerized/commit/53be119e39b0db25c45bb0f058f5259e6b9d1347,https://da.gd/tQGuqn
+GithubCommit,Merge pull request #5652 from KagurazakaNyaa/master,https://github.com/mailcow/mailcow-dockerized/commit/3e02dcbb95e3a4ebfd831c3b021cb8fb77d81487,https://da.gd/dnZB
+GithubCommit,Merge pull request #5660 from luminem/openrc-support,https://github.com/mailcow/mailcow-dockerized/commit/b25ac855ca6d067e060df5f70bc6527f67cd930c,https://da.gd/kpTgJ
+GithubCommit,fix: watchdog webhook body variables injector,https://github.com/mailcow/mailcow-dockerized/commit/6e7a0eb66222e52d8144802c132c2131d1badd45,https://da.gd/1MuAJ
+GithubCommit,compose: bump watchdog version,https://github.com/mailcow/mailcow-dockerized/commit/7da5e3697e4373fb8220bbc5bcfa79aa98793743,https://da.gd/qXsQF6
+GithubCommit,Merge pull request #5647 from Candinya/patch-1,https://github.com/mailcow/mailcow-dockerized/commit/68989f0a45f05f65928a63bb6333a29c7a0d011e,https://da.gd/xVCG
+GithubCommit,fix: rollback of Alpine 3.19 were possible,https://github.com/mailcow/mailcow-dockerized/commit/a0613e4b1085d3a4de8f5872b0a6deeed8efc066,https://da.gd/o4LJN
+GithubCommit,Merge pull request #5662 from mailcow/fix/rollback-curl-bug,https://github.com/mailcow/mailcow-dockerized/commit/1159450cc4b238485100f40c2c121e6c11db0f31,https://da.gd/C4Roo
+GithubCommit,Merge pull request #5663 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/cb978136bda3b5564362a7cd5a86e3f0d474866c,https://da.gd/0OKh
