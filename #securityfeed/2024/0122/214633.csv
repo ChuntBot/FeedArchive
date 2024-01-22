@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wj6h-64fc-37mp] Minerva timing attack on P-256 in python-ecdsa,https://github.com/advisories/GHSA-wj6h-64fc-37mp,https://da.gd/bgNtc
+GithubAdvisories,[GHSA-m4m5-j36m-8x72] html injection vulnerability in the `tuitse_html` function,https://github.com/advisories/GHSA-m4m5-j36m-8x72,https://da.gd/fZNTNO
+GithubAdvisories,[GHSA-fh38-9fgr-454w] Cross-site Scripting in Ghost,https://github.com/advisories/GHSA-fh38-9fgr-454w,https://da.gd/8rl5gU
+GithubAdvisories,[GHSA-hj55-9jmv-9jrj] Sandbox escape in Artemis Java Test Sandbox,https://github.com/advisories/GHSA-hj55-9jmv-9jrj,https://da.gd/mukQ
+GithubAdvisories,[GHSA-r67w-f99w-mgxj] ReDoS in Embedchain,https://github.com/advisories/GHSA-r67w-f99w-mgxj,https://da.gd/8WMW5
+GithubAdvisories,[GHSA-3f63-hfp8-52jq] Arbitrary Code Execution in Pillow,https://github.com/advisories/GHSA-3f63-hfp8-52jq,https://da.gd/gmxlUH
+GithubAdvisories,[GHSA-rhhj-5436-95vf] Code execution in Embedchain,https://github.com/advisories/GHSA-rhhj-5436-95vf,https://da.gd/Ace3
+GithubAdvisories,[GHSA-jgxc-8mwq-9xqw] Clojure classes can be used to craft a serialized object that runs arbitrary code on deserialization,https://github.com/advisories/GHSA-jgxc-8mwq-9xqw,https://da.gd/ahzkR
+GithubAdvisories,[GHSA-c4pg-5ggh-vcpp] Sandbox escape in Artemis Java Test Sandbox,https://github.com/advisories/GHSA-c4pg-5ggh-vcpp,https://da.gd/oBqt
+GithubAdvisories,[GHSA-9rhq-86fm-qxqc] Hard-coded credentials in org.folio:mod-data-export-spring,https://github.com/advisories/GHSA-9rhq-86fm-qxqc,https://da.gd/iJq9n
+GithubAdvisories,[GHSA-297x-2qf3-jrj3] Unsafe yaml deserialization in llama-hub,https://github.com/advisories/GHSA-297x-2qf3-jrj3,https://da.gd/Y5I5
+GithubAdvisories,[GHSA-664q-mrxx-2x2v] Moodle does not properly manage privileges for WebDAV repositories,https://github.com/advisories/GHSA-664q-mrxx-2x2v,https://da.gd/bAIs
+GithubAdvisories,[GHSA-r7qv-8r2h-pg27] Multiple issues involving quote API in shlex,https://github.com/advisories/GHSA-r7qv-8r2h-pg27,https://da.gd/hKFT
+GithubAdvisories,[GHSA-g7ph-8423-pf4j] Code execution in metagpt,https://github.com/advisories/GHSA-g7ph-8423-pf4j,https://da.gd/0g4G5I
