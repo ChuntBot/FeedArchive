@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q45q-5233-229p] Authentication library in TYPO3 vulnerable to session fixation,https://github.com/advisories/GHSA-q45q-5233-229p,https://da.gd/aoMRn
