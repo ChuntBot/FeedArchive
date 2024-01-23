@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r62w-x9pp-jrqp] Ignite Realtime Openfire Allows Users to Change Passwords of Arbitrary Accounts,https://github.com/advisories/GHSA-r62w-x9pp-jrqp,https://da.gd/opquJT
+GithubAdvisories,[GHSA-jg55-3q6h-2ccf] Typo3 Backend XSS Vulnerability,https://github.com/advisories/GHSA-jg55-3q6h-2ccf,https://da.gd/djUvG
+GithubAdvisories,[GHSA-2c6q-rgvj-66rx] Apache Tiles Vulnerable to XSS via EL Expression Injection,https://github.com/advisories/GHSA-2c6q-rgvj-66rx,https://da.gd/Wemy2
