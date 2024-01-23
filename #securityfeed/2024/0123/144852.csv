@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-v4xv-795h-rv4h] XSS potential in rendered Markdown fields (comments, description, notes, etc.)",https://github.com/advisories/GHSA-v4xv-795h-rv4h,https://da.gd/Crk3l
+GithubAdvisories,[GHSA-r4q3-7g4q-x89m] Spring Framework server Web DoS Vulnerability,https://github.com/advisories/GHSA-r4q3-7g4q-x89m,https://da.gd/UbDH
+GithubAdvisories,"[GHSA-9vm7-v8wj-3fqw] keycloak-core: open redirect via ""form_post.jwt"" JARM response mode",https://github.com/advisories/GHSA-9vm7-v8wj-3fqw,https://da.gd/OR7a
+GithubAdvisories,[GHSA-w59h-378f-2frm] Unsound sending of non-Send types across threads in threadalone,https://github.com/advisories/GHSA-w59h-378f-2frm,https://da.gd/076RV
+GithubAdvisories,[GHSA-4c2g-hx49-7h25] Prototype pollution not blocked by object-path related utilities in hoolock,https://github.com/advisories/GHSA-4c2g-hx49-7h25,https://da.gd/D6BDYC
+GithubAdvisories,"[GHSA-rjq5-w47x-x359] @hono/node-server cannot handle ""double dots"" in URL",https://github.com/advisories/GHSA-rjq5-w47x-x359,https://da.gd/PK7z8H
+GithubAdvisories,[GHSA-chj7-w3f6-cvfj] Code Injection in paddlepaddle,https://github.com/advisories/GHSA-chj7-w3f6-cvfj,https://da.gd/Me3T2
+GithubAdvisories,[GHSA-c962-g533-823f] Cross-site Scripting in Bagisto,https://github.com/advisories/GHSA-c962-g533-823f,https://da.gd/o4lZRu
+GithubAdvisories,[GHSA-859h-4w58-78xw] Cross-site Scripting in JFinal,https://github.com/advisories/GHSA-859h-4w58-78xw,https://da.gd/raHbW
+GithubAdvisories,[GHSA-3j4x-9q9q-3277] Cross-site Scripting in JFinal,https://github.com/advisories/GHSA-3j4x-9q9q-3277,https://da.gd/dH9P
+GithubAdvisories,[GHSA-cc94-hwj3-rf65] Moodle's login_as feature leaks information from external repositories,https://github.com/advisories/GHSA-cc94-hwj3-rf65,https://da.gd/5tdT
+GithubAdvisories,[GHSA-frxm-v7q3-v2wv] Insertion of Sensitive Information into Log File in OWASP DependencyCheck,https://github.com/advisories/GHSA-frxm-v7q3-v2wv,https://da.gd/l4YcF
+GithubAdvisories,[GHSA-hfj8-63c8-rmfw] Inefficient Algorithmic Complexity in com.upokecenter:cbor,https://github.com/advisories/GHSA-hfj8-63c8-rmfw,https://da.gd/4GLX0
+GithubAdvisories,[GHSA-gvc7-gjrw-hj65] Improper Verification of Cryptographic Signature in aws-encryption-sdk-java,https://github.com/advisories/GHSA-gvc7-gjrw-hj65,https://da.gd/gXzEw
+GithubAdvisories,[GHSA-hv5g-q4h3-64q4] Hard-coded credentials in org.folio:mod-remote-storage,https://github.com/advisories/GHSA-hv5g-q4h3-64q4,https://da.gd/zuWIXK
+GithubAdvisories,[GHSA-wc6f-qjxc-622v] JavaScript execution via malicious molfiles (XSS),https://github.com/advisories/GHSA-wc6f-qjxc-622v,https://da.gd/teH3
+GithubAdvisories,[GHSA-3p77-wg4c-qm24] Exposure of sensitive information in ClickHouse,https://github.com/advisories/GHSA-3p77-wg4c-qm24,https://da.gd/IESS3
+GithubAdvisories,[GHSA-23rx-79r7-6cpx] Sandbox escape in Artemis Java Test Sandbox,https://github.com/advisories/GHSA-23rx-79r7-6cpx,https://da.gd/cHn4ra
