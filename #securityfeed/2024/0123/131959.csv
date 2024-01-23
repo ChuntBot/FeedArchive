@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hcvp-2cc7-jrwr] changedetection.io API endpoint is not secured with API token,https://github.com/advisories/GHSA-hcvp-2cc7-jrwr,https://da.gd/Lu8wn
+GithubAdvisories,[GHSA-qm2j-qvq3-j29v] Record titles for restricted records can be viewed if exposed by GridFieldAddExistingAutocompleter,https://github.com/advisories/GHSA-qm2j-qvq3-j29v,https://da.gd/nzF8jM
+GithubAdvisories,[GHSA-jgph-w8rh-xf5p] View permissions are bypassed for paginated lists of ORM data,https://github.com/advisories/GHSA-jgph-w8rh-xf5p,https://da.gd/tW29
