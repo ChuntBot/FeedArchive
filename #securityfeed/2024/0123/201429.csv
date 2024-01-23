@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v9wr-2xrg-v7w8] Cross-site Scripting in beetl-bbs,https://github.com/advisories/GHSA-v9wr-2xrg-v7w8,https://da.gd/vzHO
+GithubAdvisories,[GHSA-v435-pfj6-68r3] Cross-site Scripting in JFinal,https://github.com/advisories/GHSA-v435-pfj6-68r3,https://da.gd/zsrA5X
+GithubAdvisories,[GHSA-h57w-vh34-f8cw] Code injection in mingSoft MCMS,https://github.com/advisories/GHSA-h57w-vh34-f8cw,https://da.gd/hBo92h
+GithubAdvisories,[GHSA-rwhh-6x83-84v6] Cross-site Scripting in Apache superset,https://github.com/advisories/GHSA-rwhh-6x83-84v6,https://da.gd/ZRO2U
+GithubAdvisories,[GHSA-c8v3-jhv9-4ppc] Use-after-free when setting the locale,https://github.com/advisories/GHSA-c8v3-jhv9-4ppc,https://da.gd/UMQuP
+GithubAdvisories,[GHSA-32q4-86g8-6637] Stored Cross Site Scripting in beetl-bbs,https://github.com/advisories/GHSA-32q4-86g8-6637,https://da.gd/mpEpjO
+GithubAdvisories,[GHSA-7q8p-9953-pxvr] Remote Command Execution in SOFARPC,https://github.com/advisories/GHSA-7q8p-9953-pxvr,https://da.gd/9IO6HD
+GithubAdvisories,[GHSA-2jxw-4hm4-6w87] SQL injection in llama-index,https://github.com/advisories/GHSA-2jxw-4hm4-6w87,https://da.gd/sEqj
+GithubAdvisories,[GHSA-j3m6-gvm8-mhvw] No permission checks for editing/deleting records with CSV import form,https://github.com/advisories/GHSA-j3m6-gvm8-mhvw,https://da.gd/VSqM6
