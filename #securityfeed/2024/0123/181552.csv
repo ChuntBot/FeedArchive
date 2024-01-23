@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xrpq-63mp-9vcw] phpMyAdmin HTTP Response Splitting Vulnerability,https://github.com/advisories/GHSA-xrpq-63mp-9vcw,https://da.gd/HWriss
+GithubAdvisories,[GHSA-74w6-ww7w-45j9] Indexed Search Engine for TYPO3 Command Execution via Metacharacter Injection,https://github.com/advisories/GHSA-74w6-ww7w-45j9,https://da.gd/ocezG
+GithubAdvisories,[GHSA-5cw4-ggx9-36vg] Apache Tomcat Denial of Service via Malformed Request Headers,https://github.com/advisories/GHSA-5cw4-ggx9-36vg,https://da.gd/6dkqo
+GithubAdvisories,[GHSA-2vhr-4mhq-m35c] Moodle does not properly restrict access,https://github.com/advisories/GHSA-2vhr-4mhq-m35c,https://da.gd/A5OnAr
+GithubAdvisories,[GHSA-f9m9-494r-w36p] Moodle allows bypass of intended access restrictions,https://github.com/advisories/GHSA-f9m9-494r-w36p,https://da.gd/XCRvi
+GithubAdvisories,[GHSA-j6c3-3c4w-qv8p] Moodle cross-site scripting (XSS) vulnerabilities,https://github.com/advisories/GHSA-j6c3-3c4w-qv8p,https://da.gd/1Bz7r7
+GithubAdvisories,[GHSA-wp3g-pr4h-q6vv] Moodle does not enforce capability requirements for reading blog comments,https://github.com/advisories/GHSA-wp3g-pr4h-q6vv,https://da.gd/eoyWf
+GithubAdvisories,"[GHSA-x3x8-fjw6-hccx] Moodle does not consider ""don't send"" attributes during hub registration",https://github.com/advisories/GHSA-x3x8-fjw6-hccx,https://da.gd/S5gy
