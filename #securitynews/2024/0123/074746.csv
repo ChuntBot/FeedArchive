@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,[VNCERT/CC] CVE-2023-22527 realworld poc The original PoC: payload is length limited Solution: 1. Write the script file in parts 2. Run the script,https://redd.it/19dizr7,
