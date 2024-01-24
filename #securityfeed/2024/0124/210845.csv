@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vm5m-qmrx-fw8w] Apache Airflow: Bypass permission verification to read code of other dags,https://github.com/advisories/GHSA-vm5m-qmrx-fw8w,https://da.gd/Ksymq
+GithubAdvisories,[GHSA-c3c6-f2ww-xfr2] Apache Airflow: pickle deserialization vulnerability in XComs,https://github.com/advisories/GHSA-c3c6-f2ww-xfr2,https://da.gd/aJyEF9
+GithubAdvisories,[GHSA-mrqg-mwh7-q94j] Host header injection in the password reset,https://github.com/advisories/GHSA-mrqg-mwh7-q94j,https://da.gd/OGw4h
+GithubAdvisories,[GHSA-cwx6-4wmf-c6xv] SQL Injection in Admin download files as zip,https://github.com/advisories/GHSA-cwx6-4wmf-c6xv,https://da.gd/IVk5o
+GithubAdvisories,[GHSA-7g9j-g5jg-3vv3] Unauthenticated Nonce Increment in snow,https://github.com/advisories/GHSA-7g9j-g5jg-3vv3,https://da.gd/xsIMO
