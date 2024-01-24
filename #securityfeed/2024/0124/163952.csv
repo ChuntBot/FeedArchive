@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c3vx-v4x8-x894] Moodle does not check for the moodle/course:viewhiddencourses capability,https://github.com/advisories/GHSA-c3vx-v4x8-x894,https://da.gd/Nd5Odl
+GithubAdvisories,[GHSA-8rc7-4qfv-4484] Moodle does not properly restrict file access,https://github.com/advisories/GHSA-8rc7-4qfv-4484,https://da.gd/6Q06O
+GithubAdvisories,[GHSA-48rq-vj58-2mh6] Moodle creates a MoodleMobile web-service token with an infinite lifetime,https://github.com/advisories/GHSA-48rq-vj58-2mh6,https://da.gd/oprXh4
+GithubAdvisories,[GHSA-h75f-hjcr-cvh8] Moodle multiple cross-site request forgery (CSRF) vulnerabilities,https://github.com/advisories/GHSA-h75f-hjcr-cvh8,https://da.gd/44GMpE
+GithubAdvisories,[GHSA-5rr5-fxhc-jv64] Moodle allows attackers to modify the visibility of a badge,https://github.com/advisories/GHSA-5rr5-fxhc-jv64,https://da.gd/myk1K
+GithubAdvisories,[GHSA-6p3g-hw27-qh44] Moodle's time-validation implementation allows bypassing intended restrictions,https://github.com/advisories/GHSA-6p3g-hw27-qh44,https://da.gd/rQZkN
+GithubAdvisories,[GHSA-4wvg-7886-83gv] Moodle cross-site request forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-4wvg-7886-83gv,https://da.gd/kwdo9F
+GithubAdvisories,[GHSA-j465-7mp6-3xg3] Moodle places a session key in a URL,https://github.com/advisories/GHSA-j465-7mp6-3xg3,https://da.gd/4mJ7g
+GithubAdvisories,[GHSA-fc5p-vj3h-x7g4] Moodle allows attackers to obtain sensitive information,https://github.com/advisories/GHSA-fc5p-vj3h-x7g4,https://da.gd/1nvtu
