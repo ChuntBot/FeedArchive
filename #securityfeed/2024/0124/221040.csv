@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2cvg-w29m-j8xc] Arbitrary Code Execution in Processwire,https://github.com/advisories/GHSA-2cvg-w29m-j8xc,https://da.gd/VBIO2H
+GithubAdvisories,[GHSA-v3rg-qm46-xrg9] Path traversal in flaskcode,https://github.com/advisories/GHSA-v3rg-qm46-xrg9,https://da.gd/h5Xvh
+GithubAdvisories,[GHSA-6h4q-63c5-qfqf] Path traversal in flaskcode,https://github.com/advisories/GHSA-6h4q-63c5-qfqf,https://da.gd/sNzmrJ
+GithubAdvisories,[GHSA-x22x-5pp9-8v7f] Content-Security-Policy disabled by Red Hat Dependency Analytics Jenkins Plugin,https://github.com/advisories/GHSA-x22x-5pp9-8v7f,https://da.gd/NKrV
+GithubAdvisories,[GHSA-qjpf-2jhx-3758] Arbitrary file read vulnerability in Jenkins Log Command Plugin,https://github.com/advisories/GHSA-qjpf-2jhx-3758,https://da.gd/bhaij0
+GithubAdvisories,[GHSA-f67f-2j6r-m4c9] Non-constant time webhook token comparison in Jenkins GitLab Branch Source Plugin,https://github.com/advisories/GHSA-f67f-2j6r-m4c9,https://da.gd/01gwS3
+GithubAdvisories,[GHSA-8r93-59cf-358f] CSRF vulnerability in Jenkins GitLab Branch Source Plugin,https://github.com/advisories/GHSA-8r93-59cf-358f,https://da.gd/revcW
+GithubAdvisories,[GHSA-fw9h-cxx9-gfq3] Shared projects are unconditionally discovered by Jenkins GitLab Branch Source Plugin,https://github.com/advisories/GHSA-fw9h-cxx9-gfq3,https://da.gd/3lgRL
+GithubAdvisories,[GHSA-cjgm-9vc9-56mx] Path traversal vulnerability in Jenkins Matrix Project Plugin,https://github.com/advisories/GHSA-cjgm-9vc9-56mx,https://da.gd/apaaw
+GithubAdvisories,[GHSA-vph5-2q33-7r9h] Arbitrary file read vulnerability in Git server Plugin can lead to RCE,https://github.com/advisories/GHSA-vph5-2q33-7r9h,https://da.gd/F2Fdg
+GithubAdvisories,[GHSA-47cw-whh9-j2fq] Moodle allows attacks to obtain sensitive information,https://github.com/advisories/GHSA-47cw-whh9-j2fq,https://da.gd/8dTwu
+GithubAdvisories,[GHSA-6vjg-2q57-rgfw] Moodle allows attackers to cause a denial of service,https://github.com/advisories/GHSA-6vjg-2q57-rgfw,https://da.gd/ciCRq
+GithubAdvisories,[GHSA-468q-9cmp-76wc] Moodle does not consider the moodle/tag:edit capability before adding a tag,https://github.com/advisories/GHSA-468q-9cmp-76wc,https://da.gd/G9m8E
+GithubAdvisories,[GHSA-43r4-vm25-qm78] Moodle has multiple cross-site request forgery (CSRF) vulnerabilities in the Forum module,https://github.com/advisories/GHSA-43r4-vm25-qm78,https://da.gd/K6LM
