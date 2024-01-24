@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g5m6-hxpp-fc49] Sending a GET or HEAD request with a body crashes SvelteKit,https://github.com/advisories/GHSA-g5m6-hxpp-fc49,https://da.gd/utF3nF
+GithubAdvisories,[GHSA-qh2w-9m7w-hjg2] Cross-site Scripting in JFinal,https://github.com/advisories/GHSA-qh2w-9m7w-hjg2,https://da.gd/6zCOs
+GithubAdvisories,[GHSA-fq23-g58m-799r] Cross-site Scripting Vulnerability on Data Import,https://github.com/advisories/GHSA-fq23-g58m-799r,https://da.gd/fKT5
+GithubAdvisories,[GHSA-q68h-xwq5-mm7x] Cross-site Scripting Vulnerability on Avatar Upload,https://github.com/advisories/GHSA-q68h-xwq5-mm7x,https://da.gd/fEHSc
