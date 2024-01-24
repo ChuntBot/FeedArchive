@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p3hj-cfhm-7g6v] Moodle allows attackers to remove wiki pages,https://github.com/advisories/GHSA-p3hj-cfhm-7g6v,https://da.gd/eYOoqZ
+GithubAdvisories,[GHSA-wpq5-q3mj-8f3r] Moodle multiple cross-site request forgery (CSRF) vulnerabilities,https://github.com/advisories/GHSA-wpq5-q3mj-8f3r,https://da.gd/4BKD
+GithubAdvisories,[GHSA-vrf6-q7qj-69v5] Moodle allows attackers to upload files containing JavaScript,https://github.com/advisories/GHSA-vrf6-q7qj-69v5,https://da.gd/3U6II
+GithubAdvisories,[GHSA-557f-2hv4-7jjm] Moodle does not verify group permissions,https://github.com/advisories/GHSA-557f-2hv4-7jjm,https://da.gd/ZzlqW
+GithubAdvisories,[GHSA-jq7x-gm9r-v8m7] Moodle allows attackers to obtain sensitive information,https://github.com/advisories/GHSA-jq7x-gm9r-v8m7,https://da.gd/Wys6f9
+GithubAdvisories,[GHSA-mphj-h2fc-62x3] Moodle allows attackers to bypass the mod/lti:view capability requirement,https://github.com/advisories/GHSA-mphj-h2fc-62x3,https://da.gd/2ENZG6
+GithubAdvisories,[GHSA-59j6-8g7w-prf7] Moodle exposes hidden grades to students,https://github.com/advisories/GHSA-59j6-8g7w-prf7,https://da.gd/kRGvA
+GithubAdvisories,[GHSA-j4mr-vc54-h5pc] Moodle cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-j4mr-vc54-h5pc,https://da.gd/W6b0t7
+GithubAdvisories,[GHSA-mg69-5q59-8jcg] Moodle does not enforce the moodle/site:accessallgroups capability requirement,https://github.com/advisories/GHSA-mg69-5q59-8jcg,https://da.gd/bM5sO
+GithubAdvisories,[GHSA-m8f5-9wg8-2c3h] Moodle multiple cross-site scripting (XSS) vulnerabilities,https://github.com/advisories/GHSA-m8f5-9wg8-2c3h,https://da.gd/RuPkPS
+GithubAdvisories,[GHSA-f66h-6mj2-rwj2] Moodle multiple cross-site scripting (XSS) vulnerabilities,https://github.com/advisories/GHSA-f66h-6mj2-rwj2,https://da.gd/Vzd7gP
+GithubAdvisories,[GHSA-hwjv-mc78-cccj] Moodle multiple cross-site scripting (XSS) vulnerabilities,https://github.com/advisories/GHSA-hwjv-mc78-cccj,https://da.gd/Exb3l
+GithubAdvisories,[GHSA-4c5g-w3gf-rf4f] Moodle allows attackers to obtain username and course information,https://github.com/advisories/GHSA-4c5g-w3gf-rf4f,https://da.gd/omcGbK
+GithubAdvisories,[GHSA-c9jp-244j-vh78] Moodle cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-c9jp-244j-vh78,https://da.gd/3X8jy
+GithubAdvisories,[GHSA-267j-cwvg-j28c] Moodle attackers to modify grade metadata,https://github.com/advisories/GHSA-267j-cwvg-j28c,https://da.gd/ahBbTV
+GithubAdvisories,[GHSA-75c6-xqwr-v2r9] Moodle cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-75c6-xqwr-v2r9,https://da.gd/bKWz8
+GithubAdvisories,[GHSA-r64r-5h43-26qv] Any authenticated user may obtain private message details from other users on the same instance,https://github.com/advisories/GHSA-r64r-5h43-26qv,https://da.gd/wreNSY
+GithubAdvisories,"[GHSA-mg2x-mggj-6955] Apache Airflow CNCF Kubernetes provider, Apache Airflow: Kubernetes configuration file saved without encryption in the Metadata and logged as plain text in the Triggerer service",https://github.com/advisories/GHSA-mg2x-mggj-6955,https://da.gd/YEOCw
