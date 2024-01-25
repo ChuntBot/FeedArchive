@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4jm2-c9jr-6prf] Moodle allows attackers to bypass a messaging-disabled setting,https://github.com/advisories/GHSA-4jm2-c9jr-6prf,https://da.gd/xwNixn
+GithubAdvisories,[GHSA-hhq7-jf2p-hw9c] Moodle multiple cross-site request forgery (CSRF) vulnerabilities,https://github.com/advisories/GHSA-hhq7-jf2p-hw9c,https://da.gd/s5Id1
+GithubAdvisories,[GHSA-jj3j-mhgc-g4m4] Moodle cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-jj3j-mhgc-g4m4,https://da.gd/GLdud
+GithubAdvisories,[GHSA-frhc-9hwc-x7j3] Moodle allows attackers to obtain sensitive information,https://github.com/advisories/GHSA-frhc-9hwc-x7j3,https://da.gd/PYndd
+GithubAdvisories,[GHSA-c87j-9rrq-h3j8] Moodle allows attackers to trigger the generation of arbitrary messages,https://github.com/advisories/GHSA-c87j-9rrq-h3j8,https://da.gd/UV52W7
+GithubAdvisories,[GHSA-crcq-pw8h-9xwf] Moodle does not provide charset information in HTTP headers,https://github.com/advisories/GHSA-crcq-pw8h-9xwf,https://da.gd/DngEe
+GithubAdvisories,[GHSA-fx5h-3786-h2w6] PHP Spellchecker addon for TinyMCE allows attackers to trigger arbitrary outbound HTTP requests,https://github.com/advisories/GHSA-fx5h-3786-h2w6,https://da.gd/VHHZL
