@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5659-g9p4-354f] Moodle allows attackers to bypass a forced-password-change requirement,https://github.com/advisories/GHSA-5659-g9p4-354f,https://da.gd/KTFGRY
+GithubAdvisories,[GHSA-v3wp-35g3-m9mm] Moodle does not consider the moodle/tag:flag capability,https://github.com/advisories/GHSA-v3wp-35g3-m9mm,https://da.gd/D9sCTG
+GithubAdvisories,[GHSA-fp4h-j22r-vwcv] Moodle allows attackers to obtain sensitive course information,https://github.com/advisories/GHSA-fp4h-j22r-vwcv,https://da.gd/LdWuRB
+GithubAdvisories,[GHSA-36cm-vrqh-8p98] Moodle allows attackers to cause a denial of service,https://github.com/advisories/GHSA-36cm-vrqh-8p98,https://da.gd/rJdtSX
+GithubAdvisories,[GHSA-cm4r-58pj-h2ph] Moodle allows attackers to extract archives to arbitrary directories,https://github.com/advisories/GHSA-cm4r-58pj-h2ph,https://da.gd/YhKn
+GithubAdvisories,[GHSA-35pr-gqm6-r366] Moodle allows attackers to obtain sensitive personal-contact and unread-message-count information,https://github.com/advisories/GHSA-35pr-gqm6-r366,https://da.gd/Xw7Ls3
+GithubAdvisories,[GHSA-gphj-63h8-r9vq] Moodle directory traversal vulnerability,https://github.com/advisories/GHSA-gphj-63h8-r9vq,https://da.gd/KIFjFA
+GithubAdvisories,[GHSA-p497-37fc-xvvc] Moodle allows attackers to cause a denial of service,https://github.com/advisories/GHSA-p497-37fc-xvvc,https://da.gd/ojckvZ
+GithubAdvisories,[GHSA-2jcw-r79x-4r5v] Moodle does not set the RISK_XSS bit for graders,https://github.com/advisories/GHSA-2jcw-r79x-4r5v,https://da.gd/AWJ5H
+GithubAdvisories,[GHSA-fr9m-pjmm-qx9f] Moodle allows attackers to obtain sensitive calendar-event information,https://github.com/advisories/GHSA-fr9m-pjmm-qx9f,https://da.gd/KVOWy
