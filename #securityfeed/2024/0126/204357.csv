@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fmq9-58q4-xjw5] Moodle allows attackers to discover hidden course names,https://github.com/advisories/GHSA-fmq9-58q4-xjw5,https://da.gd/vRgag
+GithubAdvisories,[GHSA-m882-j7gq-v9p7] Moodle allows attackers to obtain sensitive category-detail information,https://github.com/advisories/GHSA-m882-j7gq-v9p7,https://da.gd/Pi2Sn
+GithubAdvisories,"[GHSA-32hg-73hp-vwc8] Moodle allows attackers to modify ""Exclude grade"" settings",https://github.com/advisories/GHSA-32hg-73hp-vwc8,https://da.gd/KdTYM
+GithubAdvisories,[GHSA-r3fc-hx6q-g6cq] Moodle allows attackers to discover student e-mail addresses,https://github.com/advisories/GHSA-r3fc-hx6q-g6cq,https://da.gd/7gbrC
+GithubAdvisories,[GHSA-f5pm-c4cw-563p] Moodle cross-site request forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-f5pm-c4cw-563p,https://da.gd/AV3u
+GithubAdvisories,[GHSA-h8vc-v44p-5r2q] Moodle provides calendar-event data without considering whether an activity is hidden,https://github.com/advisories/GHSA-h8vc-v44p-5r2q,https://da.gd/nXbII
+GithubAdvisories,[GHSA-6xpm-q8x9-j3rw] Moodle allows attackers to bypass intended access restrictions,https://github.com/advisories/GHSA-6xpm-q8x9-j3rw,https://da.gd/KJDOH
+GithubAdvisories,[GHSA-c2r4-f8qv-2v7v] Moodle allows attackers to read SCORM contents,https://github.com/advisories/GHSA-c2r4-f8qv-2v7v,https://da.gd/GXz1x
+GithubAdvisories,[GHSA-rxpw-85vw-fx87] OpenFGA denial of service,https://github.com/advisories/GHSA-rxpw-85vw-fx87,https://da.gd/YmSz6F
+GithubAdvisories,[GHSA-gmhr-6f43-7qpj] Moodle does not properly implement group-based access restrictions,https://github.com/advisories/GHSA-gmhr-6f43-7qpj,https://da.gd/Mh3AO
+GithubAdvisories,[GHSA-v33x-q8gh-4x42] Moodle multiple cross-site request forgery (CSRF) vulnerabilities,https://github.com/advisories/GHSA-v33x-q8gh-4x42,https://da.gd/fU0AFV
+GithubAdvisories,[GHSA-grvw-qq2j-r898] Moodle multiple cross-site scripting (XSS) vulnerabilities,https://github.com/advisories/GHSA-grvw-qq2j-r898,https://da.gd/GMZS
+GithubAdvisories,[GHSA-hpmv-wvq3-gj27] Moodle cross-site request forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-hpmv-wvq3-gj27,https://da.gd/sXg3G
+GithubAdvisories,[GHSA-5729-822w-j342] Moodle cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-5729-822w-j342,https://da.gd/reQhU
+GithubAdvisories,[GHSA-h34c-px28-rjgw] Moodle mishandles group-based authorization checks,https://github.com/advisories/GHSA-h34c-px28-rjgw,https://da.gd/ZyTE2
