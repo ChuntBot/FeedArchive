@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3fj7-9j8m-7r8g] Moodle Stored HTML in assignment submission comments allowed links to be opened directly,https://github.com/advisories/GHSA-3fj7-9j8m-7r8g,https://da.gd/YjhhI
+GithubAdvisories,[GHSA-5wg9-5w3f-hxmh] Moodle Users could elevate their role when accessing the LTI tool on a provider site,https://github.com/advisories/GHSA-5wg9-5w3f-hxmh,https://da.gd/pvPfMQ
