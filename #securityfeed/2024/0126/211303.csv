@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cw72-69wq-f9f2] Moodle External function mod_assign_save_submission does not check due dates,https://github.com/advisories/GHSA-cw72-69wq-f9f2,https://da.gd/UODl8G
+GithubAdvisories,[GHSA-6mxm-wpqv-675h] Moodle XSS from profile fields from external db,https://github.com/advisories/GHSA-6mxm-wpqv-675h,https://da.gd/etHOG6
+GithubAdvisories,[GHSA-ww45-x87c-wgff] Moodle all messaging conversations could be viewed,https://github.com/advisories/GHSA-ww45-x87c-wgff,https://da.gd/ydwKJr
