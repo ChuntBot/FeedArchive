@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-382v-gxj9-ffhc] Moodle uses predictable password-recovery tokens,https://github.com/advisories/GHSA-382v-gxj9-ffhc,https://da.gd/WdiDm
+GithubAdvisories,[GHSA-c3pr-h96w-2jjg] Moodle XML import of ddwtos could lead to intentional remote code execution,https://github.com/advisories/GHSA-c3pr-h96w-2jjg,https://da.gd/gTIN
+GithubAdvisories,[GHSA-r867-v437-4rrm] Moodle Cross-site request forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-r867-v437-4rrm,https://da.gd/kODZ
