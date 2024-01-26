@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gr79-9v6v-gc9r] Dex discarding TLSconfig and always serves deprecated TLS 1.0/1.1 and insecure ciphers,https://github.com/advisories/GHSA-gr79-9v6v-gc9r,https://da.gd/QvqK2
+GithubAdvisories,[GHSA-53ph-2r2x-vqw8] Cross-site WebSocket hijacking vulnerability in the Jenkins CLI,https://github.com/advisories/GHSA-53ph-2r2x-vqw8,https://da.gd/XZ91d
+GithubAdvisories,[GHSA-6f9g-cxwr-q5jr] Arbitrary file read vulnerability through the Jenkins CLI can lead to RCE,https://github.com/advisories/GHSA-6f9g-cxwr-q5jr,https://da.gd/B9QQc
+GithubAdvisories,[GHSA-454r-4cjv-vc9h] Moodle allows attackers to obtain manager privileges,https://github.com/advisories/GHSA-454r-4cjv-vc9h,https://da.gd/bln3y
+GithubAdvisories,[GHSA-44xp-wj24-9xxj] Moodle allows attackers to delete files,https://github.com/advisories/GHSA-44xp-wj24-9xxj,https://da.gd/mtv5z
+GithubAdvisories,[GHSA-mm9q-3847-m48x] Moodle allows attackers to enter additional answer attempts,https://github.com/advisories/GHSA-mm9q-3847-m48x,https://da.gd/2oQwLX
