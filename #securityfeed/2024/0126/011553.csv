@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2hw2-h3mf-c2j9] Moodle open redirect vulnerability,https://github.com/advisories/GHSA-2hw2-h3mf-c2j9,https://da.gd/gWeKim
+GithubAdvisories,[GHSA-622h-cjgg-5mx6] Moodle allows attackers to bypass file-management restrictions,https://github.com/advisories/GHSA-622h-cjgg-5mx6,https://da.gd/nn0WJ
+GithubAdvisories,[GHSA-688p-pgj4-77hh] Moodle allows attackers to obtain sensitive course-structure information,https://github.com/advisories/GHSA-688p-pgj4-77hh,https://da.gd/8Aup8g
+GithubAdvisories,[GHSA-4ppg-2mx6-fqx9] Moodle allows attackers to bypass intended login restrictions,https://github.com/advisories/GHSA-4ppg-2mx6-fqx9,https://da.gd/fZyYp8
+GithubAdvisories,[GHSA-9fmw-m4qx-6cq8] Moodle cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-9fmw-m4qx-6cq8,https://da.gd/CgdIF
+GithubAdvisories,[GHSA-fqrg-vmvj-jv3x] Moodle allows attackers obtain full-name information,https://github.com/advisories/GHSA-fqrg-vmvj-jv3x,https://da.gd/FgnGAt
+GithubAdvisories,[GHSA-6r7x-6q98-qcqp] Moodle does not set the RISK_XSS bit for graders,https://github.com/advisories/GHSA-6r7x-6q98-qcqp,https://da.gd/Er9fp7
+GithubAdvisories,[GHSA-w77v-xpxr-c6pv] Moodle cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-w77v-xpxr-c6pv,https://da.gd/m1cSqH
