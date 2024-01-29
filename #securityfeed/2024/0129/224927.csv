@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5h86-8mv2-jq9f] aiohttp is vulnerable to directory traversal,https://github.com/advisories/GHSA-5h86-8mv2-jq9f,https://da.gd/lnvkti
+GithubAdvisories,[GHSA-mrx3-gxjx-hjqj] Authentik vulnerable to PKCE downgrade attack,https://github.com/advisories/GHSA-mrx3-gxjx-hjqj,https://da.gd/M2wWU
+GithubAdvisories,[GHSA-f4qf-m5gf-8jm8] Generation of Error Message Containing Sensitive Information,https://github.com/advisories/GHSA-f4qf-m5gf-8jm8,https://da.gd/ja8LD
+GithubAdvisories,[GHSA-4hrp-m3f2-643j] Session fixation in Enonic XP,https://github.com/advisories/GHSA-4hrp-m3f2-643j,https://da.gd/OfLk
+GithubAdvisories,[GHSA-qcjq-7f7v-pvc8] Nginx-UI vulnerable to authenticated RCE through injecting into the application config via CRLF,https://github.com/advisories/GHSA-qcjq-7f7v-pvc8,https://da.gd/NB1TrN
+GithubAdvisories,[GHSA-xvq9-4vpv-227m] Nginx-UI vulnerable to arbitrary file write through the Import Certificate feature,https://github.com/advisories/GHSA-xvq9-4vpv-227m,https://da.gd/0rM9JX
+GithubAdvisories,"[GHSA-8qpw-xqxj-h4r2] aiohttp's HTTP parser (the python one, not llhttp) still overly lenient about separators",https://github.com/advisories/GHSA-8qpw-xqxj-h4r2,https://da.gd/kt0G0
+GithubAdvisories,[GHSA-3vvc-v8c2-43r7] Apache Kylin has Insufficiently Protected Credentials,https://github.com/advisories/GHSA-3vvc-v8c2-43r7,https://da.gd/KUG8B
+GithubAdvisories,[GHSA-g4x3-mfpj-f335] chasquid HTTP Request/Response Smuggling vulnerability,https://github.com/advisories/GHSA-g4x3-mfpj-f335,https://da.gd/PCdff
+GithubAdvisories,[GHSA-wpxw-5xfm-x22v] MeshCentral algorithm-downgrade issue,https://github.com/advisories/GHSA-wpxw-5xfm-x22v,https://da.gd/PRgBmZ
