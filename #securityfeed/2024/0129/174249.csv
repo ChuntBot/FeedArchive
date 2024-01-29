@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Debian Security Advisory 5609-1,https://packetstormsecurity.com/files/176845/dsa-5609-1.txt,https://da.gd/Zpjk6n
+PacketstormSecurity,Debian Security Advisory 5608-1,https://packetstormsecurity.com/files/176843/dsa-5608-1.txt,https://da.gd/Yb9nl2
+PacketstormSecurity,Reprise License Manager 15.1 Privilege Escalation / File Write,https://packetstormsecurity.com/files/176841/rlm151-escalatefilewrite.txt,https://da.gd/Nta0
+PacketstormSecurity,Jenkins 2.441 / LTS 2.426.3 Arbitrary File Read,https://packetstormsecurity.com/files/176840/CVE-2024-23897.py.txt,https://da.gd/T9nvFS
+PacketstormSecurity,Jenkins 2.441 / LTS 2.426.3 CVE-2024-23897 Scanner,https://packetstormsecurity.com/files/176839/CVE-2024-23897-scanner.zip,https://da.gd/0Z4oH
+PacketstormSecurity,CSZCMS 1.3.0 SQL Injection,https://packetstormsecurity.com/files/176838/cszcmsadmin130-sql.txt,https://da.gd/NnudF
+PacketstormSecurity,PrommetriX Prometheus Metrics Leaker,https://packetstormsecurity.com/files/176837/Prommetrix-dataleak.zip,https://da.gd/WM1U
+PacketstormSecurity,Interactive Floor Plan 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/176836/ifp10-xss.txt,https://da.gd/4fJecb
+PacketstormSecurity,Chrome 121 Javascript Fork Malloc Bomb,https://packetstormsecurity.com/files/176835/chromejsbomb-dos.txt,https://da.gd/8ytBj
+PacketstormSecurity,PHPJ Callback Widget 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/176834/phpjcw10-xss.txt,https://da.gd/Uj77a
+PacketstormSecurity,Xitami 2.5b4 Denial Of Service,https://packetstormsecurity.com/files/176833/Xitami-2.5b4-Exploit.pl.txt,https://da.gd/n3di
+PacketstormSecurity,Seattle Lab Mail 5.5 Denial Of Service,https://packetstormsecurity.com/files/176832/SeattleLabMail-Exploit.pl.txt,https://da.gd/w4ReG0
+PacketstormSecurity,PSOProxy 0.91 Denial Of Service,https://packetstormsecurity.com/files/176831/PSOProxy-0.91-Exploit.pl.txt,https://da.gd/14XRb7
+PacketstormSecurity,Savant 3.0 Denial Of Service,https://packetstormsecurity.com/files/176830/Savant-3.0-Exploit.pl.txt,https://da.gd/mKpvmp
+PacketstormSecurity,Apple Security Advisory 01-22-2024-9,https://packetstormsecurity.com/files/176829/APPLE-SA-01-22-2024-9.txt,https://da.gd/CLZsGf
+PacketstormSecurity,Apple Security Advisory 01-22-2024-8,https://packetstormsecurity.com/files/176828/APPLE-SA-01-22-2024-8.txt,https://da.gd/drXgVz
+PacketstormSecurity,Apple Security Advisory 01-22-2024-7,https://packetstormsecurity.com/files/176827/APPLE-SA-01-22-2024-7.txt,https://da.gd/D2KWZ
+PacketstormSecurity,Apple Security Advisory 01-22-2024-6,https://packetstormsecurity.com/files/176826/APPLE-SA-01-22-2024-6.txt,https://da.gd/zyUNip
+PacketstormSecurity,Apple Security Advisory 01-22-2024-5,https://packetstormsecurity.com/files/176825/APPLE-SA-01-22-2024-5.txt,https://da.gd/x9Z6G
+PacketstormSecurity,Apple Security Advisory 01-22-2024-4,https://packetstormsecurity.com/files/176824/APPLE-SA-01-22-2024-4.txt,https://da.gd/0GjZBN
+PacketstormSecurity,sane 1.2.1 Buffer Overflow,https://packetstormsecurity.com/files/176823/sane121-overflow.txt,https://da.gd/lX1v
+PacketstormSecurity,tex-live 944e257 Null Pointer,https://packetstormsecurity.com/files/176822/texlive944e257tounicode-nullpointer.txt,https://da.gd/yBcYe
+PacketstormSecurity,MiniZinc 2.7.6 Null Pointer,https://packetstormsecurity.com/files/176821/minizinc276pref-nullpointer.txt,https://da.gd/WZB1f
