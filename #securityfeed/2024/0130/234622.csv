@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m979-w9wj-qfj9] HashiCorp Vault Improper Privilege Management,https://github.com/advisories/GHSA-m979-w9wj-qfj9,https://da.gd/xVH6m
+GithubAdvisories,[GHSA-j6vv-vv26-rh7c] HashiCorp Vault Improper Privilege Management,https://github.com/advisories/GHSA-j6vv-vv26-rh7c,https://da.gd/KKfcos
+GithubAdvisories,[GHSA-997j-37h7-mhg9] CSRF vulnerability in Jenkins AWS CodeCommit Trigger Plugin,https://github.com/advisories/GHSA-997j-37h7-mhg9,https://da.gd/GLSwVr
+GithubAdvisories,[GHSA-pfg6-cj3j-rpv4] Missing permission check in Jenkins AWS CodeCommit Trigger Plugin allows enumerating credentials IDs,https://github.com/advisories/GHSA-pfg6-cj3j-rpv4,https://da.gd/pbh1
+GithubAdvisories,[GHSA-r428-g373-m2h4] Missing permission check in Jenkins AWS CodeCommit Trigger Plugin,https://github.com/advisories/GHSA-r428-g373-m2h4,https://da.gd/NZOiub
+GithubAdvisories,[GHSA-7p4p-v6hr-gp3m] Jenkins Gitlab Hook Plugin stores and displays GitLab API token in plain text,https://github.com/advisories/GHSA-7p4p-v6hr-gp3m,https://da.gd/3P8cs
+GithubAdvisories,[GHSA-vf2c-w49g-3xf3] Missing permission check in Jenkins XL TestView Plugin,https://github.com/advisories/GHSA-vf2c-w49g-3xf3,https://da.gd/pV4zgf
+GithubAdvisories,[GHSA-6q4p-jrjv-44gf] Cross-site request forgery vulnerability in Jenkins XL TestView Plugin,https://github.com/advisories/GHSA-6q4p-jrjv-44gf,https://da.gd/Mhr5P
+GithubAdvisories,[GHSA-gw8g-hh47-q4gw] Cross-Site Request Forgery (CSRF) vulnerability in Jenkins global-build-stats plugin,https://github.com/advisories/GHSA-gw8g-hh47-q4gw,https://da.gd/Shx3Xz
+GithubAdvisories,[GHSA-g7cf-wg27-qw87] Jenkins secure flag not set on session cookies,https://github.com/advisories/GHSA-g7cf-wg27-qw87,https://da.gd/4G0FW
+GithubAdvisories,[GHSA-p3g4-9xfv-wq9v] Arbitrary code execution due to incomplete sandbox protection in Pipeline: Supporting APIs Plugin,https://github.com/advisories/GHSA-p3g4-9xfv-wq9v,https://da.gd/RoewBy
+GithubAdvisories,[GHSA-xgmh-rvpw-6498] Reflected cross-site-scripting vulnerability in report URL of Jenkins CppNCSS Plugin,https://github.com/advisories/GHSA-xgmh-rvpw-6498,https://da.gd/ulC2B
