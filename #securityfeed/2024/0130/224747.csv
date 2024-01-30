@@ -1,0 +1,47 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mhwq-4mh7-fv7c] Arbitrary code execution due to incomplete sandbox protection in Jenkins Pipeline,https://github.com/advisories/GHSA-mhwq-4mh7-fv7c,https://da.gd/CFZ6h
+GithubAdvisories,[GHSA-6h72-m3xw-fp3c] Improper Privilege Management in Jenkins Config File Provider Plugin,https://github.com/advisories/GHSA-6h72-m3xw-fp3c,https://da.gd/nzrZEL
+GithubAdvisories,[GHSA-h7rx-r733-7x7r] Sandbox bypass in Jenkins Script Security Plugin sandbox bypass,https://github.com/advisories/GHSA-h7rx-r733-7x7r,https://da.gd/ECehn
+GithubAdvisories,[GHSA-5532-prrf-rf5x] Arbitrary code execution vulnerability in Jenkins Speaks! Plugin,https://github.com/advisories/GHSA-5532-prrf-rf5x,https://da.gd/XgWr6X
+GithubAdvisories,[GHSA-9rx5-w522-5fh7] Jenkins Promoted Builds Plugin allowed unauthorized users to run some promotion processes,https://github.com/advisories/GHSA-9rx5-w522-5fh7,https://da.gd/lQJ9ox
+GithubAdvisories,[GHSA-cwxx-gwwj-pqjq] Jenkins Perforce Plugin uses ineffective credentials encryption,https://github.com/advisories/GHSA-cwxx-gwwj-pqjq,https://da.gd/5SdHm
+GithubAdvisories,[GHSA-c9px-7j36-f35v] CSRF vulnerability and missing permission checks in Jenkins AbsInt Astrée Plugin,https://github.com/advisories/GHSA-c9px-7j36-f35v,https://da.gd/NJfzf
+GithubAdvisories,[GHSA-crvq-mw2w-4cfx] Jenkins Black Duck Hub Plugin allowed any user with Overall/Read to read and write its configuration,https://github.com/advisories/GHSA-crvq-mw2w-4cfx,https://da.gd/ZFEE
+GithubAdvisories,[GHSA-3892-qqv6-h2qm] Stored XSS vulnerability in Jenkins S3 Publisher Plugin,https://github.com/advisories/GHSA-3892-qqv6-h2qm,https://da.gd/6OHzb
+GithubAdvisories,[GHSA-p498-rpcw-3578] XXE vulnerability Jenkins Warnings Plugin,https://github.com/advisories/GHSA-p498-rpcw-3578,https://da.gd/sO1nC
+GithubAdvisories,[GHSA-j2h6-j34w-g5vp] CSRF vulnerability in Jenkins Release plugin,https://github.com/advisories/GHSA-j2h6-j34w-g5vp,https://da.gd/ovmE
+GithubAdvisories,[GHSA-pwvj-6phx-qv8c] CSRF vulnerability in Jenkins Translation Assistance plugin,https://github.com/advisories/GHSA-pwvj-6phx-qv8c,https://da.gd/7U4d
+GithubAdvisories,[GHSA-774g-r3fm-4v85] CSRF vulnerability in Jenkins Role-based Authorization Strategy Plugin configuration,https://github.com/advisories/GHSA-774g-r3fm-4v85,https://da.gd/sHHn0
+GithubAdvisories,[GHSA-3rrg-p8xc-3457] Stored cross-site scripting vulnerability in Jenkins TestLink Plugin,https://github.com/advisories/GHSA-3rrg-p8xc-3457,https://da.gd/KrMDp
+GithubAdvisories,[GHSA-9jrh-hch8-rr5c] Jenkins Copy To Slave Plugin allows access to arbitrary files on the Jenkins controller file system,https://github.com/advisories/GHSA-9jrh-hch8-rr5c,https://da.gd/SYBE
+GithubAdvisories,[GHSA-wp79-cpv2-9g7m] Arbitrary shell command execution in Jenkins EC2 Plugin,https://github.com/advisories/GHSA-wp79-cpv2-9g7m,https://da.gd/avT1Jj
+GithubAdvisories,[GHSA-26hw-262c-g9gc] Exposure of sensitive information vulnerability in Jenkins Black Duck Hub Plugin,https://github.com/advisories/GHSA-26hw-262c-g9gc,https://da.gd/hrX6h
+GithubAdvisories,[GHSA-x7qf-qh3r-mx22] XXE vulnerability in Jenkins DRY Plugin,https://github.com/advisories/GHSA-x7qf-qh3r-mx22,https://da.gd/xluVB8
+GithubAdvisories,[GHSA-jfj9-7j5w-6xgx] XXE vulnerability in Jenkins Checkstyle Plugin,https://github.com/advisories/GHSA-jfj9-7j5w-6xgx,https://da.gd/TPgbG
+GithubAdvisories,[GHSA-687x-269m-7cv9] XXE vulnerability in Jenkins PMD Plugin,https://github.com/advisories/GHSA-687x-269m-7cv9,https://da.gd/qu4JCo
+GithubAdvisories,[GHSA-477r-v22q-r42f] Persisted XSS Vulnerability in Jenkins Sidebar Link Plugin,https://github.com/advisories/GHSA-477r-v22q-r42f,https://da.gd/CELp
+GithubAdvisories,[GHSA-63cj-3r94-234v] Persistent XSS vulnerability in Jenkins DRY Plugin,https://github.com/advisories/GHSA-63cj-3r94-234v,https://da.gd/NtzK
+GithubAdvisories,[GHSA-9c2p-99pg-c4j9] Persistent XSS vulnerability in Static Analysis Utilities,https://github.com/advisories/GHSA-9c2p-99pg-c4j9,https://da.gd/baQRhr
+GithubAdvisories,[GHSA-gwxm-wqpq-w539] Jenkins Email Extension Plugin showed plain text SMTP password in configuration form field,https://github.com/advisories/GHSA-gwxm-wqpq-w539,https://da.gd/OAytoF
+GithubAdvisories,[GHSA-65cq-whr4-7c2v] Persistent XSS vulnerability in Jenkins OWASP Dependency-Check Plugin,https://github.com/advisories/GHSA-65cq-whr4-7c2v,https://da.gd/FCHmd5
+GithubAdvisories,[GHSA-r5c7-qcc9-5v7m] Jenkins Pipeline Classpath Step plugin allowed Script Security sandbox bypass,https://github.com/advisories/GHSA-r5c7-qcc9-5v7m,https://da.gd/2bElYD
+GithubAdvisories,[GHSA-449p-7c3p-vf7g] CSRF vulnerability in Jenkins Gearman Plugin,https://github.com/advisories/GHSA-449p-7c3p-vf7g,https://da.gd/4sqFf
+GithubAdvisories,[GHSA-23r7-hf6g-qqqg] CSRF vulnerability in Jenkins SOASTA CloudTest Plugin,https://github.com/advisories/GHSA-23r7-hf6g-qqqg,https://da.gd/ZC7L
+GithubAdvisories,[GHSA-c8qr-vfjf-62q3] Emails were sent to addresses not associated with actual users of Jenkins by Email Extension Plugin,https://github.com/advisories/GHSA-c8qr-vfjf-62q3,https://da.gd/zOjh
+GithubAdvisories,[GHSA-jcmg-9rw5-9rm2] Stored XSS vulnerability in Jenkins Git Changelog Plugin,https://github.com/advisories/GHSA-jcmg-9rw5-9rm2,https://da.gd/9ZpTFV
+GithubAdvisories,[GHSA-3858-58w9-wpcg] Jenkins OpenId Connect Authentication Plugin showed plain text client secret in configuration form,https://github.com/advisories/GHSA-3858-58w9-wpcg,https://da.gd/AOxgiu
+GithubAdvisories,[GHSA-m46p-rp8x-x8c4] CSRF vulnerability in Jenkins OpenShift Deployer Plugin,https://github.com/advisories/GHSA-m46p-rp8x-x8c4,https://da.gd/c3unt
+GithubAdvisories,[GHSA-cqp7-hwm3-cfg7] XSS vulnerability in Jenkins Warnings Next Generation Plugin,https://github.com/advisories/GHSA-cqp7-hwm3-cfg7,https://da.gd/2shxA
+GithubAdvisories,[GHSA-jp4r-pf5r-4wg8] CSRF vulnerability in Jenkins OpenShift Deployer Plugin,https://github.com/advisories/GHSA-jp4r-pf5r-4wg8,https://da.gd/AiWxzH
+GithubAdvisories,[GHSA-wxj2-qc9p-65r3] Jenkins Mattermost Notification Plugin vulnerable to SSRF,https://github.com/advisories/GHSA-wxj2-qc9p-65r3,https://da.gd/qAYyD
+GithubAdvisories,[GHSA-5v2j-w677-j4mp] SSRF vulnerability due to missing permission check in Jenkins OctopusDeploy Plugin,https://github.com/advisories/GHSA-5v2j-w677-j4mp,https://da.gd/ColofF
+GithubAdvisories,[GHSA-fvcf-wgxj-h7ch] CSRF vulnerability in Jenkins Nomad Plugin allow SSRF,https://github.com/advisories/GHSA-fvcf-wgxj-h7ch,https://da.gd/uGOjyI
+GithubAdvisories,[GHSA-g3rg-cj5x-3vpf] CSRF vulnerability in jenkins-reviewbot Plugin,https://github.com/advisories/GHSA-g3rg-cj5x-3vpf,https://da.gd/kf0FV
+GithubAdvisories,[GHSA-mmrv-3cqg-hpf9] Sandbox Bypass via CSRF in Jenkins Warnings Plugin,https://github.com/advisories/GHSA-mmrv-3cqg-hpf9,https://da.gd/0a2W
+GithubAdvisories,[GHSA-qrh2-mh97-pw8p] CSRF vulnerability in Jenkins Audit to Database Plugin,https://github.com/advisories/GHSA-qrh2-mh97-pw8p,https://da.gd/H2jrB9
+GithubAdvisories,[GHSA-hw83-jpxr-g225] Jenkins Monitoring Plugin vulnerable to Denial of service vulnerability,https://github.com/advisories/GHSA-hw83-jpxr-g225,https://da.gd/DIJIj
+GithubAdvisories,[GHSA-qc3m-6xmq-7hrj] CSRF vulnerability in Jenkins Netsparker Enterprise Scan Plugin,https://github.com/advisories/GHSA-qc3m-6xmq-7hrj,https://da.gd/ECpomj
+GithubAdvisories,[GHSA-4mvc-33v7-cqc3] Missing permission check in Jenkins sinatra-chef-builder Plugin,https://github.com/advisories/GHSA-4mvc-33v7-cqc3,https://da.gd/vODeh
+GithubAdvisories,[GHSA-2cm5-f78c-h2c8] Missing permission checks in Jenkins Distributed Fork Plugin,https://github.com/advisories/GHSA-2cm5-f78c-h2c8,https://da.gd/ETZ0hp
+GithubAdvisories,[GHSA-278v-j3cr-jv2x] Jenkins Kanboard Plugin vulnerable to Server-side request forgery (SSRF),https://github.com/advisories/GHSA-278v-j3cr-jv2x,https://da.gd/a1YZ
+GithubAdvisories,[GHSA-g3gj-632x-fhrh] SSRF vulnerability due to missing permission check in Jenkins JMS Messaging Plugin,https://github.com/advisories/GHSA-g3gj-632x-fhrh,https://da.gd/iMaO0P
