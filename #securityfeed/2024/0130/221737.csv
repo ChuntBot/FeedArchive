@@ -1,0 +1,57 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wg7x-vf54-9qjw] CSRF vulnerability in Jenkins FTP publisher Plugin,https://github.com/advisories/GHSA-wg7x-vf54-9qjw,https://da.gd/rVXJG
+GithubAdvisories,[GHSA-23xr-9xxr-vg3c] Improper authorization vulnerability in Jenkins Mesos Plugin,https://github.com/advisories/GHSA-23xr-9xxr-vg3c,https://da.gd/PnD5tK
+GithubAdvisories,[GHSA-7577-f8fp-5977] Stored Cross-Site Scripting Vulnerability in Jenkins Shelve Project Plugin,https://github.com/advisories/GHSA-7577-f8fp-5977,https://da.gd/HiLI7
+GithubAdvisories,[GHSA-8rc4-3jc3-83pm] XML External Entity processing vulnerability in Jenkins Black Duck Hub Plugin,https://github.com/advisories/GHSA-8rc4-3jc3-83pm,https://da.gd/JaA4s
+GithubAdvisories,[GHSA-h5hm-73hg-frrm] Jenkins Inedo ProGet Plugin globally and unconditionally disabled SSL/TLS certificate validation,https://github.com/advisories/GHSA-h5hm-73hg-frrm,https://da.gd/P1y7E
+GithubAdvisories,[GHSA-hrr3-7r5v-vxx5] Jenkins Inedo BuildMaster Plugin globally and unconditionally disabled SSL/TLS certificate validation,https://github.com/advisories/GHSA-hrr3-7r5v-vxx5,https://da.gd/t0xtO
+GithubAdvisories,[GHSA-5q7j-8hpc-4848] Server-side request forgery vulnerability in Jenkins Mesos Plugin,https://github.com/advisories/GHSA-5q7j-8hpc-4848,https://da.gd/zXgVM
+GithubAdvisories,[GHSA-5339-9974-hqj9] Server-Side Request Forgery (SSRF) in Jenkins Confluence Publisher Plugin,https://github.com/advisories/GHSA-5339-9974-hqj9,https://da.gd/8zxfd
+GithubAdvisories,[GHSA-3q6p-r6rr-266x] Jenkins Deploy to container Plugin stored plain text passwords in job configuration,https://github.com/advisories/GHSA-3q6p-r6rr-266x,https://da.gd/sIAPN
+GithubAdvisories,[GHSA-8864-pwhg-3mp2] Arbitrary file write vulnerability in Jenkins Fortify CloudScan Plugin,https://github.com/advisories/GHSA-8864-pwhg-3mp2,https://da.gd/LNp9ms
+GithubAdvisories,[GHSA-2mgj-mwvf-mpg5] Missing permission checks in Jenkins Proxmox Plugin,https://github.com/advisories/GHSA-2mgj-mwvf-mpg5,https://da.gd/Xissb
+GithubAdvisories,[GHSA-q5wm-qgxj-h9ph] Missing permission check in Jenkins Kmap Plugin allow SSRF,https://github.com/advisories/GHSA-q5wm-qgxj-h9ph,https://da.gd/BjJ7GH
+GithubAdvisories,[GHSA-cvh8-9j4x-5v4j] Jenkins Artifactory Plugin stored old directly entered credentials unencrypted on disk,https://github.com/advisories/GHSA-cvh8-9j4x-5v4j,https://da.gd/YgKjzY
+GithubAdvisories,[GHSA-56ff-m6pv-8594] Missing permission check in Jenkins VMware Lab Manager Slaves Plugin,https://github.com/advisories/GHSA-56ff-m6pv-8594,https://da.gd/Mg17F
+GithubAdvisories,[GHSA-vhh3-mvc4-hhq6] Jenkins Dependency Graph Viewer plugin vulnerable to missing permission checks,https://github.com/advisories/GHSA-vhh3-mvc4-hhq6,https://da.gd/bk5k
+GithubAdvisories,[GHSA-492x-gfqx-wpf3] Missing permission check in Jenkins Audit to Database Plugin,https://github.com/advisories/GHSA-492x-gfqx-wpf3,https://da.gd/TRV5m
+GithubAdvisories,[GHSA-ffv8-x822-fx73] Jenkins TestFairy Plugin stores credentials in plain text,https://github.com/advisories/GHSA-ffv8-x822-fx73,https://da.gd/Ug3N
+GithubAdvisories,[GHSA-vc2v-34c4-vg9c] Jenkins Fabric-beta-publisher Plugin stores credentials in plain text,https://github.com/advisories/GHSA-vc2v-34c4-vg9c,https://da.gd/gQ4Fnq
+GithubAdvisories,[GHSA-fhgg-j92h-29rc] Missing permission check in Jenkins SOASTA CloudTest Plugin,https://github.com/advisories/GHSA-fhgg-j92h-29rc,https://da.gd/6XHmo
+GithubAdvisories,[GHSA-5293-3fgp-cr3x] Missing permission checks in Jenkins Periodic Backup Plugin allow every user to change settings,https://github.com/advisories/GHSA-5293-3fgp-cr3x,https://da.gd/bQgr4
+GithubAdvisories,[GHSA-268v-2qq7-84pf] Missing permission check in Jenkins Favorite Plugin,https://github.com/advisories/GHSA-268v-2qq7-84pf,https://da.gd/HoXO22
+GithubAdvisories,[GHSA-ffj8-w4rj-vr7v] ECS Publisher Plugin stored and displayed API token in plain text,https://github.com/advisories/GHSA-ffj8-w4rj-vr7v,https://da.gd/g1ANQ
+GithubAdvisories,[GHSA-9r7f-rqhw-j8h8] Incorrect permission checks in Pipeline: Nodes and Processes plugin,https://github.com/advisories/GHSA-9r7f-rqhw-j8h8,https://da.gd/E3kjEw
+GithubAdvisories,[GHSA-whcg-2364-672f] Missing permission check in Jenkins Netsparker Cloud Scan Plugin,https://github.com/advisories/GHSA-whcg-2364-672f,https://da.gd/J7JBk
+GithubAdvisories,[GHSA-3ccq-gccx-pm7j] Jenkins SonarQube Scanner Plugin stored server authentication token in plain text,https://github.com/advisories/GHSA-3ccq-gccx-pm7j,https://da.gd/TrevFW
+GithubAdvisories,[GHSA-cq9m-rpm5-27m9] Jenkins Perfecto Mobile Plugin stores credentials in plain text,https://github.com/advisories/GHSA-cq9m-rpm5-27m9,https://da.gd/pfpz8
+GithubAdvisories,[GHSA-r5jr-82x4-r6j7] Jenkins Crowd Integration Plugin stores credentials in plain text,https://github.com/advisories/GHSA-r5jr-82x4-r6j7,https://da.gd/YdPgd
+GithubAdvisories,[GHSA-746x-xxrx-23jp] Jenkins Kmap Plugin stores credentials in plain text,https://github.com/advisories/GHSA-746x-xxrx-23jp,https://da.gd/EiUWb
+GithubAdvisories,[GHSA-6pj9-5q6j-j97c] Missing permission check in Jenkins Gearman Plugin,https://github.com/advisories/GHSA-6pj9-5q6j-j97c,https://da.gd/SGvQDv
+GithubAdvisories,[GHSA-g2rp-qwrq-qqqq] Jenkins Open STF Plugin stores credentials in plain text,https://github.com/advisories/GHSA-g2rp-qwrq-qqqq,https://da.gd/aULJ
+GithubAdvisories,[GHSA-2r46-cwgm-vvjx] Missing permission check in Jenkins jenkins-reviewbot Plugin,https://github.com/advisories/GHSA-2r46-cwgm-vvjx,https://da.gd/4aD0z
+GithubAdvisories,[GHSA-rcrv-6r7r-rr7m] Missing permission check in Jenkins FTP publisher Plugin,https://github.com/advisories/GHSA-rcrv-6r7r-rr7m,https://da.gd/ridJN1
+GithubAdvisories,[GHSA-45fr-w365-f7pm] Jenkins HockeyApp Plugin stores credentials in plain text,https://github.com/advisories/GHSA-45fr-w365-f7pm,https://da.gd/419av
+GithubAdvisories,[GHSA-6j5j-w6v4-rwqr] Jenkins VMware Lab Manager Slaves Plugin vulnerable CSRF vulnerability,https://github.com/advisories/GHSA-6j5j-w6v4-rwqr,https://da.gd/O0lo
+GithubAdvisories,[GHSA-6mgq-vh7r-gccc] CSRF vulnerability in Jenkins sinatra-chef-builder Plugin,https://github.com/advisories/GHSA-6mgq-vh7r-gccc,https://da.gd/1I0Okc
+GithubAdvisories,[GHSA-wrr5-p265-7252] Jenkins Warnings NG Plugin Cross-site scripting vulnerability,https://github.com/advisories/GHSA-wrr5-p265-7252,https://da.gd/EkFkHg
+GithubAdvisories,[GHSA-px35-882c-47hw] Jenkins Warnings NG Plugin cross-site request forgery vulnerability,https://github.com/advisories/GHSA-px35-882c-47hw,https://da.gd/ipMzH
+GithubAdvisories,[GHSA-mqj3-fc39-73fj] Cross-site request forgery vulnerability in Jenkins Artifactory Plugin,https://github.com/advisories/GHSA-mqj3-fc39-73fj,https://da.gd/GKTyJj
+GithubAdvisories,[GHSA-745w-v492-4fj5] Missing permission check in Jenkins Docker Plugin,https://github.com/advisories/GHSA-745w-v492-4fj5,https://da.gd/xySo
+GithubAdvisories,[GHSA-mg72-h5gj-8gg7] Missing permission check in Jenkins Avatar Plugin,https://github.com/advisories/GHSA-mg72-h5gj-8gg7,https://da.gd/cfZxaY
+GithubAdvisories,[GHSA-47rr-8vrp-9283] Arbitrary file read vulnerability in Jenkins File System SCM Plugin,https://github.com/advisories/GHSA-47rr-8vrp-9283,https://da.gd/PEebI
+GithubAdvisories,[GHSA-c3r5-vxj6-62mc] Jenkins Google Cloud Messaging Notification Plugin stores credentials in plain text,https://github.com/advisories/GHSA-c3r5-vxj6-62mc,https://da.gd/OF64q
+GithubAdvisories,[GHSA-pv88-89rq-9fg6] Missing permission check in Jenkins Relution Enterprise Appstore Publisher Plugin,https://github.com/advisories/GHSA-pv88-89rq-9fg6,https://da.gd/RvvIMV
+GithubAdvisories,[GHSA-xj63-95xc-jc4v] Jenkins eggplant-plugin Plugin stores credentials in plain text,https://github.com/advisories/GHSA-xj63-95xc-jc4v,https://da.gd/OJwJCL
+GithubAdvisories,[GHSA-65rj-cgrp-g65w] Jenkins IBM AppScan Plugin showed plain text password in job configuration form fields,https://github.com/advisories/GHSA-65rj-cgrp-g65w,https://da.gd/flWpTd
+GithubAdvisories,[GHSA-56gj-927p-mfph] Jenkins Aqua Security Serverless Scanner Plugin showed plain text password in job configuration form fields,https://github.com/advisories/GHSA-56gj-927p-mfph,https://da.gd/qJlUSN
+GithubAdvisories,[GHSA-xj4w-r6gr-x5qm] Project Inheritance Plugin showed secret environment variables defined in Mask Passwords Plugin,https://github.com/advisories/GHSA-xj4w-r6gr-x5qm,https://da.gd/wEBaL
+GithubAdvisories,[GHSA-gpmw-h4wq-4rch] Missing permission check in Jenkins Project Inheritance Plugin,https://github.com/advisories/GHSA-gpmw-h4wq-4rch,https://da.gd/dxUzCM
+GithubAdvisories,[GHSA-vv4q-2w98-4v8g] Jenkins Aqua MicroScanner Plugin showed plain text credential in configuration form,https://github.com/advisories/GHSA-vv4q-2w98-4v8g,https://da.gd/ygkn
+GithubAdvisories,[GHSA-xp44-8vwr-xwmv] Jenkins Aqua Security Scanner Plugin showed plain text password in configuration form,https://github.com/advisories/GHSA-xp44-8vwr-xwmv,https://da.gd/LgYqZ
+GithubAdvisories,[GHSA-3fpx-g9h3-hh8x] Jenkins NeuVector Vulnerability Scanner Plugin stored credentials in plain text,https://github.com/advisories/GHSA-3fpx-g9h3-hh8x,https://da.gd/FLYtF
+GithubAdvisories,[GHSA-74c2-965q-mqjw] Missing permission check in Jenkins Oracle Cloud Infrastructure Compute Classic Plugin,https://github.com/advisories/GHSA-74c2-965q-mqjw,https://da.gd/bLha5h
+GithubAdvisories,[GHSA-qh3m-c6hw-5hmv] Jenkins Rundeck Plugin stored credentials in plain text,https://github.com/advisories/GHSA-qh3m-c6hw-5hmv,https://da.gd/ILizu
+GithubAdvisories,[GHSA-c3wf-rrhq-rfp2] Cross-site request forgery vulnerability in Jenkins WebSphere Deployer Plugin,https://github.com/advisories/GHSA-c3wf-rrhq-rfp2,https://da.gd/ZHXP
+GithubAdvisories,[GHSA-46rr-87h4-f5q6] SSL/TLS certificate validation globally and unconditionally disabled by Jenkins WebSphere Deployer Plugin,https://github.com/advisories/GHSA-46rr-87h4-f5q6,https://da.gd/77O1zO
+GithubAdvisories,[GHSA-rxph-cq38-gm3g] Jenkins SCTMExecutor Plugin stores credentials in plain text,https://github.com/advisories/GHSA-rxph-cq38-gm3g,https://da.gd/2LWk8N
