@@ -1,0 +1,29 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7f6w-fhmr-j8hq] Jenkins HttpOnly flag not Set for session cookies,https://github.com/advisories/GHSA-7f6w-fhmr-j8hq,https://da.gd/8NZkoo
+GithubAdvisories,[GHSA-c3v2-5388-v8pw] CSRF vulnerability in Jenkins Coverity Plugin allow capturing credentials,https://github.com/advisories/GHSA-c3v2-5388-v8pw,https://da.gd/gyiKOB
+GithubAdvisories,[GHSA-px6v-6jhf-j46r] CSRF vulnerability in Synopsys Jenkins Coverity Plugin,https://github.com/advisories/GHSA-px6v-6jhf-j46r,https://da.gd/IGHkW
+GithubAdvisories,[GHSA-rr3p-5fcf-v5m3] SSL/TLS certificate validation disabled by default in Jenkins Checkmarx Plugin,https://github.com/advisories/GHSA-rr3p-5fcf-v5m3,https://da.gd/p5lePZ
+GithubAdvisories,[GHSA-9pvw-8q92-hm9w] Stored XSS vulnerability in Jenkins Maven Repository Server Plugin,https://github.com/advisories/GHSA-9pvw-8q92-hm9w,https://da.gd/lXAD
+GithubAdvisories,[GHSA-39r8-4962-j7vg] Stored XSS vulnerability in Jenkins Maven Repository Server Plugin,https://github.com/advisories/GHSA-39r8-4962-j7vg,https://da.gd/V2cG4
+GithubAdvisories,[GHSA-c7r5-cww9-64q6] Path traversal in Jenkins Job Configuration History Plugin,https://github.com/advisories/GHSA-c7r5-cww9-64q6,https://da.gd/NPqUNN
+GithubAdvisories,[GHSA-3vcr-579j-4x48] Stored XSS vulnerability in Jenkins TAP Plugin,https://github.com/advisories/GHSA-3vcr-579j-4x48,https://da.gd/shByNx
+GithubAdvisories,[GHSA-cgh7-rgqg-hrcx] Path traversal allows exploiting XXE vulnerability in Jenkins Job Configuration History Plugin,https://github.com/advisories/GHSA-cgh7-rgqg-hrcx,https://da.gd/vK5KS
+GithubAdvisories,[GHSA-9v8g-f9mq-739g] Improper masking of credentials in Jenkins Pipeline Maven Integration Plugin,https://github.com/advisories/GHSA-9v8g-f9mq-739g,https://da.gd/kVGW8G
+GithubAdvisories,[GHSA-hj7p-h74j-6gxj] Non-constant time nonce comparison in Jenkins Microsoft Entra ID (previously Azure AD) Plugin,https://github.com/advisories/GHSA-hj7p-h74j-6gxj,https://da.gd/753Z1l
+GithubAdvisories,[GHSA-vrpg-c7c4-8mpx] SSRF vulnerability in Jenkins Bitbucket Push and Pull Request Plugin allows capturing credentials,https://github.com/advisories/GHSA-vrpg-c7c4-8mpx,https://da.gd/beTT
+GithubAdvisories,[GHSA-4gh2-m88h-8cj8] Disabled permissions can be granted by Jenkins SSH2 Easy Plugin,https://github.com/advisories/GHSA-4gh2-m88h-8cj8,https://da.gd/pGk4
+GithubAdvisories,[GHSA-63vw-rprv-4f8j] CSRF vulnerability in Jenkins Ivy Plugin,https://github.com/advisories/GHSA-63vw-rprv-4f8j,https://da.gd/vYR0X
+GithubAdvisories,[GHSA-5jxp-f5rr-g6jc] XSS vulnerability in Jenkins Job Configuration History Plugin,https://github.com/advisories/GHSA-5jxp-f5rr-g6jc,https://da.gd/rgrMiC
+GithubAdvisories,[GHSA-pvjf-4hfg-wr84] Incorrect control flow in Jenkins Gradle Plugin breaks credentials masking in the build log,https://github.com/advisories/GHSA-pvjf-4hfg-wr84,https://da.gd/8uvke
+GithubAdvisories,[GHSA-8hc6-w44m-wfxf] Potential leak of credentials in Micro Focus Dimensions CM Jenkins Plugin,https://github.com/advisories/GHSA-8hc6-w44m-wfxf,https://da.gd/9gPaO
+GithubAdvisories,[GHSA-px39-5h8c-j3c8] Exposure of system-scoped credentials in Jenkins Dimensions Plugin,https://github.com/advisories/GHSA-px39-5h8c-j3c8,https://da.gd/6uZ3H
+GithubAdvisories,[GHSA-27pr-r7hm-c2rc] Missing permission check in Jenkins Dimensions Plugin allows enumerating credentials IDs,https://github.com/advisories/GHSA-27pr-r7hm-c2rc,https://da.gd/42mrt
+GithubAdvisories,[GHSA-whgj-6m78-2gg9] Arbitrary file read vulnerability in Jenkins AWS CodeCommit Trigger Plugin,https://github.com/advisories/GHSA-whgj-6m78-2gg9,https://da.gd/EcUx
+GithubAdvisories,[GHSA-g4qf-5523-7wvf] HTML injection vulnerability in Jenkins AWS CodeCommit Trigger Plugin,https://github.com/advisories/GHSA-g4qf-5523-7wvf,https://da.gd/sjZlA
+GithubAdvisories,[GHSA-p986-hpr3-493p] Missing permission checks in Jenkins Frugal Testing Plugin,https://github.com/advisories/GHSA-p986-hpr3-493p,https://da.gd/NM6hF
+GithubAdvisories,[GHSA-qf42-f5vf-6w99] Disabled permissions granted by Jenkins Assembla Auth Plugin,https://github.com/advisories/GHSA-qf42-f5vf-6w99,https://da.gd/WcZEay
+GithubAdvisories,[GHSA-g6rx-2w84-xmgj] CSRF vulnerability in Jenkins Frugal Testing Plugin,https://github.com/advisories/GHSA-g6rx-2w84-xmgj,https://da.gd/SkgHZ
+GithubAdvisories,[GHSA-x654-4wjh-74q6] Jenkins SSH Build Agents Plugin did not verify host keys,https://github.com/advisories/GHSA-x654-4wjh-74q6,https://da.gd/CDUQC
+GithubAdvisories,[GHSA-vcgj-j8c5-2h52] Jenkins Active Directory Plugin did not verify certificate of AD server,https://github.com/advisories/GHSA-vcgj-j8c5-2h52,https://da.gd/CHz45
+GithubAdvisories,[GHSA-8jx9-7j5m-79x4] Jenkins Build Step Plugin fails to check Item/Build permission,https://github.com/advisories/GHSA-8jx9-7j5m-79x4,https://da.gd/0ReV0q
+GithubAdvisories,[GHSA-m68x-cc2f-gr5h] Unsafe methods in the default list of approved signatures in Jenkins Script Security Plugin,https://github.com/advisories/GHSA-m68x-cc2f-gr5h,https://da.gd/Ijowm
