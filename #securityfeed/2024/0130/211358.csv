@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wwrr-4jp4-58wg] CSRF vulnerability in Jenkins Mantis Plugin,https://github.com/advisories/GHSA-wwrr-4jp4-58wg,https://da.gd/tB1I
+GithubAdvisories,[GHSA-qg7x-4h4q-3m49] XML external entity (XXE) vulnerability in Jenkins,https://github.com/advisories/GHSA-qg7x-4h4q-3m49,https://da.gd/ISWMU
+GithubAdvisories,[GHSA-qj27-w92h-fc9r] XML external entity (XXE) vulnerability in Jenkins,https://github.com/advisories/GHSA-qj27-w92h-fc9r,https://da.gd/tLmer
+GithubAdvisories,[GHSA-pchp-c5w8-47gc] Hash collision attack vulnerability in Jenkins,https://github.com/advisories/GHSA-pchp-c5w8-47gc,https://da.gd/ax0pC
+GithubAdvisories,[GHSA-gvhp-v4m2-3rwf] Jenkins StarTeam Plugin stores credentials in plain text,https://github.com/advisories/GHSA-gvhp-v4m2-3rwf,https://da.gd/9x3bZr
+GithubAdvisories,[GHSA-wmq3-24jm-m8xh] Jenkins Assembla Auth Plugin stores credentials in plain text,https://github.com/advisories/GHSA-wmq3-24jm-m8xh,https://da.gd/igsAI
+GithubAdvisories,[GHSA-wjvr-2hjg-6rhj] CSRF vulnerability in Proxmox Plugin,https://github.com/advisories/GHSA-wjvr-2hjg-6rhj,https://da.gd/s4lr
+GithubAdvisories,[GHSA-m9gv-4523-jffm] Missing permission checks in AWS Credentials Plugin,https://github.com/advisories/GHSA-m9gv-4523-jffm,https://da.gd/cVdbF
+GithubAdvisories,[GHSA-67m4-qxp3-j6hh] TrueLayer.Client SSRF when fetching payment or payment provider,https://github.com/advisories/GHSA-67m4-qxp3-j6hh,https://da.gd/4G49b
+GithubAdvisories,[GHSA-h3q2-8whx-c29h] `goreleaser release --debug` shows secrets,https://github.com/advisories/GHSA-h3q2-8whx-c29h,https://da.gd/iobGo
+GithubAdvisories,[GHSA-rv8p-rr2h-fgpg] @apollo/experimental-nextjs-app-support Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-rv8p-rr2h-fgpg,https://da.gd/oN56d
+GithubAdvisories,[GHSA-qhjf-hm5j-335w] @urql/next Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-qhjf-hm5j-335w,https://da.gd/67si
+GithubAdvisories,[GHSA-997g-27x8-43rf] react-query-streamed-hydration Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-997g-27x8-43rf,https://da.gd/aggY7z
+GithubAdvisories,[GHSA-475g-vj6c-xf96] CrateDB database has an arbitrary file read vulnerability,https://github.com/advisories/GHSA-475g-vj6c-xf96,https://da.gd/xiQ8yO
+GithubAdvisories,[GHSA-rjmv-52mp-gjrr] vantage6 may create unencrypted tasks in encrypted collaboration,https://github.com/advisories/GHSA-rjmv-52mp-gjrr,https://da.gd/efRc4K
+GithubAdvisories,[GHSA-2wgc-48g2-cj5w] vantage6 has insecure SSH configuration for node and server containers,https://github.com/advisories/GHSA-2wgc-48g2-cj5w,https://da.gd/bA1dD
+GithubAdvisories,[GHSA-45gq-q4xh-cp53] vantage6 vulnerable to username timing attack,https://github.com/advisories/GHSA-45gq-q4xh-cp53,https://da.gd/rIoTi5
+GithubAdvisories,[GHSA-w9h2-px87-74vx] vantage6 remote code execution vulnerability,https://github.com/advisories/GHSA-w9h2-px87-74vx,https://da.gd/3CPY8Z
