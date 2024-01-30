@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8xw6-9h78-c89j] Ylianst MeshCentral Missing SSL Certificate Validation,https://github.com/advisories/GHSA-8xw6-9h78-c89j,https://da.gd/367xkm
+GithubAdvisories,[GHSA-7mgx-gvjw-m3w3] CrateDB authentication bypass vulnerability,https://github.com/advisories/GHSA-7mgx-gvjw-m3w3,https://da.gd/NekpC
+GithubAdvisories,[GHSA-v89q-c273-3p42] Craft CMS Audit Plugin Cross Site Scripting vulnerability,https://github.com/advisories/GHSA-v89q-c273-3p42,https://da.gd/RAAJ9
+GithubAdvisories,[GHSA-vvh2-82c7-ppfg] network Arbitrary Command Injection vulnerability,https://github.com/advisories/GHSA-vvh2-82c7-ppfg,https://da.gd/Ksmsg
+GithubAdvisories,[GHSA-x2c2-q32w-4w6m] Vyper's raw_call `value=` kwargs not disabled for static and delegate calls,https://github.com/advisories/GHSA-x2c2-q32w-4w6m,https://da.gd/730W61
+GithubAdvisories,[GHSA-6p78-f7h9-6838] Craft CMS Feed-Me,https://github.com/advisories/GHSA-6p78-f7h9-6838,https://da.gd/GeslD
