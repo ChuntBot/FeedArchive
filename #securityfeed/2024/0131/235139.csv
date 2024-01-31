@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3fwx-pjgw-3558] Moby (Docker Engine) Insufficiently restricted permissions on data directory,https://github.com/advisories/GHSA-3fwx-pjgw-3558,https://da.gd/ZwnEX
+GithubAdvisories,[GHSA-v5gq-qvjq-8p53] Grafana Cross-site Scripting (XSS),https://github.com/advisories/GHSA-v5gq-qvjq-8p53,https://da.gd/XjXLM
+GithubAdvisories,[GHSA-qrqr-3x5j-2xw9] Docker Moby Authentication Bypass,https://github.com/advisories/GHSA-qrqr-3x5j-2xw9,https://da.gd/Mp4sR
+GithubAdvisories,[GHSA-6g2q-w5j3-fwh4] containerd environment variable leak,https://github.com/advisories/GHSA-6g2q-w5j3-fwh4,https://da.gd/fAX3Q
+GithubAdvisories,[GHSA-rq95-xf66-j689] Improper Authentication in HashiCorp Vault,https://github.com/advisories/GHSA-rq95-xf66-j689,https://da.gd/qriBiG
