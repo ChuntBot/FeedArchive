@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+PacketstormSecurity,XenForo 2.2.13 ArchiveImport.php Zip Slip,https://packetstormsecurity.com/files/176939/KIS-2024-01.txt,https://da.gd/6APAn
+PacketstormSecurity,Gentoo Linux Security Advisory 202401-34,https://packetstormsecurity.com/files/176938/glsa-202401-34.txt,https://da.gd/F2B4
+PacketstormSecurity,Gentoo Linux Security Advisory 202401-33,https://packetstormsecurity.com/files/176937/glsa-202401-33.txt,https://da.gd/pMsl
+PacketstormSecurity,TELSAT marKoni FM Transmitter 1.9.5 Insecure Access Control,https://packetstormsecurity.com/files/176936/ZSL-2024-5811.txt,https://da.gd/EQymc
+PacketstormSecurity,TELSAT marKoni FM Transmitter 1.9.5 Client-Side Access Control Bypass,https://packetstormsecurity.com/files/176935/ZSL-2024-5810.txt,https://da.gd/qvpaXD
+PacketstormSecurity,TELSAT marKoni FM Transmitter 1.9.5 Backdoor Account,https://packetstormsecurity.com/files/176934/ZSL-2024-5809.txt,https://da.gd/k44FQ
+PacketstormSecurity,TELSAT marKoni FM Transmitter 1.9.5 Root Command Injection,https://packetstormsecurity.com/files/176933/ZSL-2024-5808.txt,https://da.gd/sBTN
+PacketstormSecurity,glibc syslog() Heap-Based Buffer Overflow,https://packetstormsecurity.com/files/176932/QSA-syslog.txt,https://da.gd/FJLS
+PacketstormSecurity,glibc qsort() Out-Of-Bounds Read / Write,https://packetstormsecurity.com/files/176931/QSA-qsort.txt,https://da.gd/xy9OR
+PacketstormSecurity,Debian Security Advisory 5611-1,https://packetstormsecurity.com/files/176930/dsa-5611-1.txt,https://da.gd/dYJIr
+PacketstormSecurity,Gentoo Linux Security Advisory 202401-32,https://packetstormsecurity.com/files/176929/glsa-202401-32.txt,https://da.gd/PRHOGR
+PacketstormSecurity,Trojan.Win32 BankShot MVID-2024-0669 Buffer Overflow,https://packetstormsecurity.com/files/176928/MVID-2024-0669.txt,https://da.gd/MNpIp
+PacketstormSecurity,War-FTPD 1.65 Denial Of Service,https://packetstormsecurity.com/files/176926/war-ftpd-user-Exploit.c,https://da.gd/bZS3dZ
+PacketstormSecurity,Solar FTP Server 2.1.1 Denial Of Service,https://packetstormsecurity.com/files/176925/SolarFTP-2.1.1-Exploit.py.txt,https://da.gd/GLRi
+PacketstormSecurity,Gentoo Linux Security Advisory 202401-31,https://packetstormsecurity.com/files/176924/glsa-202401-31.txt,https://da.gd/Fdkb
+PacketstormSecurity,Gentoo Linux Security Advisory 202401-30,https://packetstormsecurity.com/files/176923/glsa-202401-30.txt,https://da.gd/0BQx
+PacketstormSecurity,Mirth Connect 4.4.0 Remote Command Execution,https://packetstormsecurity.com/files/176920/mirth_connect_cve_2023_43208.rb.txt,https://da.gd/y8jEx
+PacketstormSecurity,OpenSSL Toolkit 3.2.1,https://packetstormsecurity.com/files/176910/openssl-3.2.1.tar.gz,https://da.gd/yiJrn5
