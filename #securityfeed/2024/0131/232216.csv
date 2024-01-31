@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6fj5-m822-rqx8] moby docker daemon crash during image pull of malicious image,https://github.com/advisories/GHSA-6fj5-m822-rqx8,https://da.gd/IadfX
+GithubAdvisories,[GHSA-7452-xqpj-6rpc] moby Access to remapped root allows privilege escalation to real root,https://github.com/advisories/GHSA-7452-xqpj-6rpc,https://da.gd/tKBuHT
+GithubAdvisories,[GHSA-6hwg-w5jg-9c6x] Path Traversal in Moby builder,https://github.com/advisories/GHSA-6hwg-w5jg-9c6x,https://da.gd/T1gWC
+GithubAdvisories,[GHSA-rpgp-9hmg-j25x] Enumeration of users in HashiCorp Vault,https://github.com/advisories/GHSA-rpgp-9hmg-j25x,https://da.gd/IEMJ
+GithubAdvisories,[GHSA-6m72-467w-94rh] Privilege Escalation in HashiCorp Consul,https://github.com/advisories/GHSA-6m72-467w-94rh,https://da.gd/g9aEU
+GithubAdvisories,[GHSA-496g-fr33-whrf] Denial of service in HashiCorp Consul,https://github.com/advisories/GHSA-496g-fr33-whrf,https://da.gd/h8kKt7
