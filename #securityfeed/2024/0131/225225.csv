@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xr7r-f8xq-vfvv] runc vulnerable to container breakout through process.cwd trickery and leaked fds,https://github.com/advisories/GHSA-xr7r-f8xq-vfvv,https://da.gd/OnEWQI
+GithubAdvisories,[GHSA-9p26-698r-w4hx] BuildKit vulnerable to possible panic when incorrect parameters sent from frontend,https://github.com/advisories/GHSA-9p26-698r-w4hx,https://da.gd/N47us
+GithubAdvisories,[GHSA-m3r6-h7wv-7xxv] BuildKit vulnerable to possible race condition with accessing subpaths from cache mounts,https://github.com/advisories/GHSA-m3r6-h7wv-7xxv,https://da.gd/ki4AGl
+GithubAdvisories,[GHSA-4v98-7qmw-rqr8] BuildKit vulnerable to possible host system access from mount stub cleaner,https://github.com/advisories/GHSA-4v98-7qmw-rqr8,https://da.gd/20AHs
+GithubAdvisories,[GHSA-wr6v-9f75-vh2g] Buildkit's interactive containers API does not validate entitlements check,https://github.com/advisories/GHSA-wr6v-9f75-vh2g,https://da.gd/YkN7b7
+GithubAdvisories,[GHSA-9xc9-xq7w-vpcr] Apache ServiceComb Service-Center Server-Side Request Forgery vulnerability,https://github.com/advisories/GHSA-9xc9-xq7w-vpcr,https://da.gd/wTUq1z
+GithubAdvisories,[GHSA-r8xp-52mq-rmm8] Apache ServiceComb Service-Center Exposure of Sensitive Information to an Unauthorized Actor vulnerability,https://github.com/advisories/GHSA-r8xp-52mq-rmm8,https://da.gd/a7qOZ
+GithubAdvisories,[GHSA-9h6g-pr28-7cqp] nodemailer ReDoS when trying to send a specially crafted email,https://github.com/advisories/GHSA-9h6g-pr28-7cqp,https://da.gd/SC2ZG
+GithubAdvisories,[GHSA-hpxr-w9w7-g4gv] stereoscope vulnerable to tar path traversal when processing OCI tar archives,https://github.com/advisories/GHSA-hpxr-w9w7-g4gv,https://da.gd/T1t1AO
+GithubAdvisories,[GHSA-8j3x-w35r-rw4r] Quarkus Improper Handling of Insufficient Permissions or Privileges and Improper Handling of Exceptional Conditions vulnerability,https://github.com/advisories/GHSA-8j3x-w35r-rw4r,https://da.gd/AmpQ
