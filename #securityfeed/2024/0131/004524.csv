@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4mp7-2m29-gqxf] HashiCorp Vault Authentication bypass,https://github.com/advisories/GHSA-4mp7-2m29-gqxf,https://da.gd/HVQ4Zw
+GithubAdvisories,[GHSA-wr2v-9rpq-c35q] Etcd Gateway TLS authentication only applies to endpoints detected in DNS SRV records,https://github.com/advisories/GHSA-wr2v-9rpq-c35q,https://da.gd/zsqft
+GithubAdvisories,[GHSA-2xhq-gv6c-p224] Etcd Gateway can include itself as an endpoint resulting in resource exhaustion,https://github.com/advisories/GHSA-2xhq-gv6c-p224,https://da.gd/sTbpzB
