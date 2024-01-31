@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6667-f46p-pg88] Ansible sets unsafe permissions for sources.list,https://github.com/advisories/GHSA-6667-f46p-pg88,https://da.gd/ImTz
+GithubAdvisories,[GHSA-v638-q856-grg8] MathJax Regular expression Denial of Service (ReDoS),https://github.com/advisories/GHSA-v638-q856-grg8,https://da.gd/4d5VE
+GithubAdvisories,[GHSA-wqq5-c89p-3wc3] Ansible Arbitrary Code Execution,https://github.com/advisories/GHSA-wqq5-c89p-3wc3,https://da.gd/dgJ3
+GithubAdvisories,[GHSA-64cw-m57j-65xj] Ansible Arbitrary Code Execution,https://github.com/advisories/GHSA-64cw-m57j-65xj,https://da.gd/tfQuK
+GithubAdvisories,[GHSA-4jwq-572w-4388] Memory over-allocation in evm crate,https://github.com/advisories/GHSA-4jwq-572w-4388,https://da.gd/mzx0
+GithubAdvisories,[GHSA-chh6-ppwq-jh92] Improper Preservation of Permissions in etcd,https://github.com/advisories/GHSA-chh6-ppwq-jh92,https://da.gd/4zX6g
+GithubAdvisories,[GHSA-6wh2-8hw7-jw94] Grafana XSS via adding a link in General feature,https://github.com/advisories/GHSA-6wh2-8hw7-jw94,https://da.gd/yHue1m
+GithubAdvisories,[GHSA-cmq2-j8v8-2q44] Grafana XSS in Dashboard Text Panel,https://github.com/advisories/GHSA-cmq2-j8v8-2q44,https://da.gd/NN8zV
