@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p6rp-mx85-m459] Spring Cloud Contract vulnerable to local information disclosure,https://github.com/advisories/GHSA-p6rp-mx85-m459,https://da.gd/E7x6
+GithubAdvisories,[GHSA-29w6-c52g-m8jc] C5 Firefly III CSV Injection,https://github.com/advisories/GHSA-29w6-c52g-m8jc,https://da.gd/v3qv
+GithubAdvisories,[GHSA-pf55-fj96-xf37] @lobehub/chat vulnerable to unauthorized access to plugins,https://github.com/advisories/GHSA-pf55-fj96-xf37,https://da.gd/ErkYbo
+GithubAdvisories,[GHSA-5626-pw9c-hmjr] OctoPrint Unverified Password Change via Access Control Settings,https://github.com/advisories/GHSA-5626-pw9c-hmjr,https://da.gd/raE3z
+GithubAdvisories,[GHSA-p59w-9gqw-wj8r] Label Studio SSRF on Import Bypassing `SSRF_PROTECTION_ENABLED` Protections,https://github.com/advisories/GHSA-p59w-9gqw-wj8r,https://da.gd/cuwYq
