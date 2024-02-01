@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q4xc-7cw8-cgfj] dset vulnerable to prototype pollution,https://github.com/advisories/GHSA-q4xc-7cw8-cgfj,https://da.gd/JI61M
+GithubAdvisories,[GHSA-pqwc-3vhw-qcvq] shvl vulnerable to prototype pollution,https://github.com/advisories/GHSA-pqwc-3vhw-qcvq,https://da.gd/rB4V
+GithubAdvisories,[GHSA-jxfp-4rvq-9h9m] scikit-learn Denial of Service,https://github.com/advisories/GHSA-jxfp-4rvq-9h9m,https://da.gd/9B3Q
+GithubAdvisories,[GHSA-j66q-qmrc-89rx] jsonpickle unsafe deserialization,https://github.com/advisories/GHSA-j66q-qmrc-89rx,https://da.gd/z5Du8
+GithubAdvisories,[GHSA-8vpw-mgpf-mpvv] Tornado XSRF cookie allows side-channel attack against TLS (BREACH attack),https://github.com/advisories/GHSA-8vpw-mgpf-mpvv,https://da.gd/W1cpO5
+GithubAdvisories,[GHSA-99f9-gv72-fw9r] Bref Doesn't Support Multiple Value Headers in ApiGatewayFormatV2,https://github.com/advisories/GHSA-99f9-gv72-fw9r,https://da.gd/c9uJmn
+GithubAdvisories,[GHSA-x4hh-frx8-98r5] Bref's Uploaded Files Not Deleted in Event-Driven Functions,https://github.com/advisories/GHSA-x4hh-frx8-98r5,https://da.gd/16yY
+GithubAdvisories,[GHSA-vgh3-mwxq-rcp8] Hashicorp Vault may expose sensitive log information,https://github.com/advisories/GHSA-vgh3-mwxq-rcp8,https://da.gd/HINM
+GithubAdvisories,[GHSA-vqxq-hvxw-9mv9] Statmic CMS vulnerable to account takeover via XSS and password reset link,https://github.com/advisories/GHSA-vqxq-hvxw-9mv9,https://da.gd/I5LW
+GithubAdvisories,[GHSA-9x7f-gwxq-6f2c] Vyper's bounds check on built-in `slice()` function can be overflowed,https://github.com/advisories/GHSA-9x7f-gwxq-6f2c,https://da.gd/9ELxGC
+GithubAdvisories,[GHSA-xw73-rw38-6vjc] Moby vulnerable to classic builder cache poisoning,https://github.com/advisories/GHSA-xw73-rw38-6vjc,https://da.gd/0jG6B
