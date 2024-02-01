@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wvr4-w6cw-4px8] Craft CMS possibility of brute force attempts,https://github.com/advisories/GHSA-wvr4-w6cw-4px8,https://da.gd/BE86n7
+GithubAdvisories,[GHSA-7w6p-rwhg-7h3g] Grin Insufficient Validation,https://github.com/advisories/GHSA-7w6p-rwhg-7h3g,https://da.gd/sC5BW
+GithubAdvisories,[GHSA-fcmh-7492-g4q9] z-song laravel-admin XSS via the Slug or Name on the Roles screen,https://github.com/advisories/GHSA-fcmh-7492-g4q9,https://da.gd/ozSR1j
+GithubAdvisories,[GHSA-v2cv-wwxq-qq97] Moby Docker cp broken with debian containers,https://github.com/advisories/GHSA-v2cv-wwxq-qq97,https://da.gd/BuILot
+GithubAdvisories,[GHSA-22x7-vwh9-5w4g] LIEF heap-buffer-overflow,https://github.com/advisories/GHSA-22x7-vwh9-5w4g,https://da.gd/8VksYg
+GithubAdvisories,[GHSA-33jj-92px-m4g7] Craft CMS Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-33jj-92px-m4g7,https://da.gd/YrVGx
+GithubAdvisories,[GHSA-q83c-64c9-c42m] DOMPDF denial of service vulnerability,https://github.com/advisories/GHSA-q83c-64c9-c42m,https://da.gd/GshMPv
+GithubAdvisories,[GHSA-hf4p-4j9r-3cvx] Incorrect Default Permissions in Beego,https://github.com/advisories/GHSA-hf4p-4j9r-3cvx,https://da.gd/yj8GjE
+GithubAdvisories,[GHSA-w55x-q3gv-px85] InfluxDB Reflected Cross-site Scripting,https://github.com/advisories/GHSA-w55x-q3gv-px85,https://da.gd/OQLA
