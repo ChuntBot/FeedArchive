@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8pjx-jj86-j47p] Grafana path traversal,https://github.com/advisories/GHSA-8pjx-jj86-j47p,https://da.gd/j07Krb
+GithubAdvisories,[GHSA-cmf4-h3xc-jw8w] Grafana Cross Site Request Forgery (CSRF),https://github.com/advisories/GHSA-cmf4-h3xc-jw8w,https://da.gd/cvrMsl
+GithubAdvisories,[GHSA-h84q-m8rr-3v9q] wasmtime_trap_code C API function has out of bounds write vulnerability,https://github.com/advisories/GHSA-h84q-m8rr-3v9q,https://da.gd/Rhlnf
