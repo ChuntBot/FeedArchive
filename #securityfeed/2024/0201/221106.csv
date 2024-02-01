@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c8wv-qwwc-6j73] MediaWiki allows a denial of service,https://github.com/advisories/GHSA-c8wv-qwwc-6j73,https://da.gd/w6xZ
+GithubAdvisories,[GHSA-rv74-mh27-4jpv] browsershot local file inclusion vulnerability,https://github.com/advisories/GHSA-rv74-mh27-4jpv,https://da.gd/ssuPy
+GithubAdvisories,[GHSA-57gg-cj55-q5g2] Token leases could outlive their TTL in HashiCorp Vault,https://github.com/advisories/GHSA-57gg-cj55-q5g2,https://da.gd/LcJGs
+GithubAdvisories,[GHSA-pqqj-299w-wf53] xxl-job Multiple cross-site scripting (XSS) vulnerabilities,https://github.com/advisories/GHSA-pqqj-299w-wf53,https://da.gd/cb3hy1
+GithubAdvisories,[GHSA-mvpr-q6rh-8vrp] Grafana XSS via a query alias for the ElasticSearch datasource,https://github.com/advisories/GHSA-mvpr-q6rh-8vrp,https://da.gd/T2wl0
+GithubAdvisories,[GHSA-p75g-gcv5-42qg] Grin insufficient data validation,https://github.com/advisories/GHSA-p75g-gcv5-42qg,https://da.gd/Jmx8N
+GithubAdvisories,[GHSA-6x52-88cq-55q5] Grin allows attackers to adversely affect availability of data on a Mimblewimble blockchain,https://github.com/advisories/GHSA-6x52-88cq-55q5,https://da.gd/YnW9
+GithubAdvisories,[GHSA-xr3x-62qw-vc4w] Grafana stored XSS,https://github.com/advisories/GHSA-xr3x-62qw-vc4w,https://da.gd/Qw6Kb
+GithubAdvisories,[GHSA-9hv8-4frf-cprf] Grafana XSS via a column style,https://github.com/advisories/GHSA-9hv8-4frf-cprf,https://da.gd/NF29S
+GithubAdvisories,[GHSA-7m2x-qhrq-rp8h] Grafana XSS via the OpenTSDB datasource,https://github.com/advisories/GHSA-7m2x-qhrq-rp8h,https://da.gd/I3B3d
+GithubAdvisories,[GHSA-3jq7-8ph8-63xm] Grafana information disclosure,https://github.com/advisories/GHSA-3jq7-8ph8-63xm,https://da.gd/bB5C8
+GithubAdvisories,[GHSA-m25m-5778-fm22] Grafana world readable configuration files,https://github.com/advisories/GHSA-m25m-5778-fm22,https://da.gd/S4g0j
+GithubAdvisories,[GHSA-ccmg-w4xm-p28v] Grafana XSS in header column rename,https://github.com/advisories/GHSA-ccmg-w4xm-p28v,https://da.gd/TedJ
