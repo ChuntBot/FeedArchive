@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,update postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/cc77caad671f0ae40068351861d81712da8f2b9e,https://da.gd/AMJuik
+GithubCommitStaging,sogo: fix ACL allow authenticated users + rebuild on Bookworm,https://github.com/mailcow/mailcow-dockerized/commit/93e4d586060aa1045395aae1bcf7a7126bbdc9f1,https://da.gd/c1ND0
+GithubCommitStaging,Merge pull request #5688 from mailcow/fix/sogo-authenticated-users,https://github.com/mailcow/mailcow-dockerized/commit/694f1d1623c2efc9cdd72e81c705f800cebec72e,https://da.gd/JBEIG9
+GithubCommitStaging,Merge pull request #5686 from mailcow/update/postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/b968695e318a5a2ccfbbd592f44791baf0df73df,https://da.gd/Hz0GID
