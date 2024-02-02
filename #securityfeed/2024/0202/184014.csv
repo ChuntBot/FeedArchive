@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g5p6-327m-3fxx] Talos Linux ships runc vulnerable to the escape to the host attack,https://github.com/advisories/GHSA-g5p6-327m-3fxx,https://da.gd/DuUS7
+GithubAdvisories,[GHSA-547x-748v-vp6p] Dash apps vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-547x-748v-vp6p,https://da.gd/Cvc3wS
+GithubAdvisories,[GHSA-9gh8-877r-g477] Beetl Server-Side Template Injection vulnerability,https://github.com/advisories/GHSA-9gh8-877r-g477,https://da.gd/WadUBA
+GithubAdvisories,[GHSA-7mgg-3rq2-hff4] ai-flow Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-7mgg-3rq2-hff4,https://da.gd/0sLY
+GithubAdvisories,[GHSA-gp3w-2v2m-p686] Vyper's external calls can overflow return data to return input buffer,https://github.com/advisories/GHSA-gp3w-2v2m-p686,https://da.gd/LBxIx
