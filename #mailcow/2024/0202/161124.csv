@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Dovecot] fix repl_health.sh,https://github.com/mailcow/mailcow-dockerized/commit/a3104934850cd6663c9e7347478f6f8902def03a,https://da.gd/qrPb
+GithubCommitStaging,dovecot: bump version for repl fix,https://github.com/mailcow/mailcow-dockerized/commit/909f07939e93af0135cc9bd6b5aeb2f9ee50d8fe,https://da.gd/BxZO
