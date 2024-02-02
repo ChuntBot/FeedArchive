@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2mrq-w8pv-5pvq] Malicious input can provoke XSS when preserving comments,https://github.com/advisories/GHSA-2mrq-w8pv-5pvq,https://da.gd/OKDg
