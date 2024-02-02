@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubCommit,chore(deps): update peter-evans/create-pull-request action to v6 (#5683),https://github.com/mailcow/mailcow-dockerized/commit/f74573f5d04cf578e4101a5e32a0814d9fd849ae,https://da.gd/wb4Bl
+GithubCommit,update postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/cc77caad671f0ae40068351861d81712da8f2b9e,https://da.gd/AMJuik
+GithubCommit,sogo: fix ACL allow authenticated users + rebuild on Bookworm,https://github.com/mailcow/mailcow-dockerized/commit/93e4d586060aa1045395aae1bcf7a7126bbdc9f1,https://da.gd/c1ND0
+GithubCommit,Merge pull request #5688 from mailcow/fix/sogo-authenticated-users,https://github.com/mailcow/mailcow-dockerized/commit/694f1d1623c2efc9cdd72e81c705f800cebec72e,https://da.gd/JBEIG9
+GithubCommit,Merge pull request #5686 from mailcow/update/postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/b968695e318a5a2ccfbbd592f44791baf0df73df,https://da.gd/Hz0GID
+GithubCommit,[Netfilter] add mailcow isolation rule to MAILCOW chain,https://github.com/mailcow/mailcow-dockerized/commit/b236fd3ac683ea1434521807c5d118040b54882c,https://da.gd/vo8hu
+GithubCommit,[Netfilter] only perform cleanup at exit if SIGTERM was recieved,https://github.com/mailcow/mailcow-dockerized/commit/2072301d89683cdbe9a398150b199630d1109d81,https://da.gd/k1bxPW
+GithubCommit,docker-compose.yml: Bump dovecot + netfilter version,https://github.com/mailcow/mailcow-dockerized/commit/2e57325dde15062fbecdf5ca49e29072f70a4814,https://da.gd/ekGO
+GithubCommit,[Netfilter] only perform cleanup at exit if SIGTERM was recieved,https://github.com/mailcow/mailcow-dockerized/commit/39589bd441291c7068f6642782be6edff0bcb371,https://da.gd/dz5Eh
+GithubCommit,[Netfilter] only perform cleanup at exit if SIGTERM was recieved,https://github.com/mailcow/mailcow-dockerized/commit/c941e802d4177a7d8278f3a80359d833d9770bec,https://da.gd/VKcGo
+GithubCommit,Merge pull request #5696 from mailcow/fix/netfilter,https://github.com/mailcow/mailcow-dockerized/commit/087481ac12bfa5dd715f3630f0b1697be94f7e88,https://da.gd/eQNYj
+GithubCommit,Merge pull request #5689 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/1e09df20b65b5443a4e3cb58b7b4a7f38d506dfa,https://da.gd/ZqMY5
