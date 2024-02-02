@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommit,[Netfilter] fix mailcow isolation rule for iptables,https://github.com/mailcow/mailcow-dockerized/commit/57e67ea8f79a1fe218cb0f0ea8ad95a53b9f0179,https://da.gd/NdngD
+GithubCommit,Merge pull request #5700 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/20c90642f99eba6c1e79cb23976640d827e02a07,https://da.gd/795hkV
