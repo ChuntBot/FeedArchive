@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4957-7vhp-7v59] Deserialization of untrusted data in synthcity,https://github.com/advisories/GHSA-4957-7vhp-7v59,https://da.gd/7zTcqp
+GithubAdvisories,[GHSA-v269-rrr6-cx6r] Ylianst MeshCentral 1.1.16 suffers from Use of a Broken or Risky Cryptographic Algorithm,https://github.com/advisories/GHSA-v269-rrr6-cx6r,https://da.gd/0i981
+GithubAdvisories,[GHSA-9394-xfq9-6qrp] Calico vulnerable to pod route hijacking,https://github.com/advisories/GHSA-9394-xfq9-6qrp,https://da.gd/zJo1mT
