@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hjqq-29pw-96wj] Nervos CKB node panics when processing a block which parent timestamp is too new,https://github.com/advisories/GHSA-hjqq-29pw-96wj,https://da.gd/WOnn
+GithubAdvisories,[GHSA-r9rv-9mh8-pxf4] Nervos CKB BlockTimeTooNew should not be considered as invalid block,https://github.com/advisories/GHSA-r9rv-9mh8-pxf4,https://da.gd/OxYMbU
+GithubAdvisories,[GHSA-pr39-8257-fxc2] Nervos CKB DoS: Process exists when p2p discovery protocol receives unsupported peer IP,https://github.com/advisories/GHSA-pr39-8257-fxc2,https://da.gd/eqcIRW
+GithubAdvisories,[GHSA-84x2-2qv6-qg56] Nervos CKB P2P DoS Attacks,https://github.com/advisories/GHSA-84x2-2qv6-qg56,https://da.gd/zFY8
