@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Netfilter] add mailcow isolation rule to MAILCOW chain,https://github.com/mailcow/mailcow-dockerized/commit/b236fd3ac683ea1434521807c5d118040b54882c,https://da.gd/vo8hu
+GithubCommitStaging,[Netfilter] only perform cleanup at exit if SIGTERM was recieved,https://github.com/mailcow/mailcow-dockerized/commit/2072301d89683cdbe9a398150b199630d1109d81,https://da.gd/k1bxPW
+GithubCommitStaging,docker-compose.yml: Bump dovecot + netfilter version,https://github.com/mailcow/mailcow-dockerized/commit/2e57325dde15062fbecdf5ca49e29072f70a4814,https://da.gd/ekGO
+GithubCommitStaging,[Netfilter] only perform cleanup at exit if SIGTERM was recieved,https://github.com/mailcow/mailcow-dockerized/commit/39589bd441291c7068f6642782be6edff0bcb371,https://da.gd/dz5Eh
+GithubCommitStaging,[Netfilter] only perform cleanup at exit if SIGTERM was recieved,https://github.com/mailcow/mailcow-dockerized/commit/c941e802d4177a7d8278f3a80359d833d9770bec,https://da.gd/VKcGo
+GithubCommitStaging,Merge pull request #5696 from mailcow/fix/netfilter,https://github.com/mailcow/mailcow-dockerized/commit/087481ac12bfa5dd715f3630f0b1697be94f7e88,https://da.gd/eQNYj
