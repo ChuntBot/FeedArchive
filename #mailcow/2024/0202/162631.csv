@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommit,[Dovecot] fix repl_health.sh,https://github.com/mailcow/mailcow-dockerized/commit/a3104934850cd6663c9e7347478f6f8902def03a,https://da.gd/qrPb
+GithubCommit,dovecot: bump version for repl fix,https://github.com/mailcow/mailcow-dockerized/commit/909f07939e93af0135cc9bd6b5aeb2f9ee50d8fe,https://da.gd/BxZO
+GithubCommit,Merge pull request #5699 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/c9e9628383d73eb3d695b886a1b3aabd6a8e2ed0,https://da.gd/tGZA
