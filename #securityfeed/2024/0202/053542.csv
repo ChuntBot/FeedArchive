@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p5j7-26wj-423j] Moodle allows discovery of an author's username,https://github.com/advisories/GHSA-p5j7-26wj-423j,https://da.gd/hPIoyK
+GithubAdvisories,[GHSA-ch68-5r37-p7c3] Moodle cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-ch68-5r37-p7c3,https://da.gd/v6xz
+GithubAdvisories,[GHSA-fccf-p8fx-vjj4] Moodle vulnerable to PHP object injection attacks,https://github.com/advisories/GHSA-fccf-p8fx-vjj4,https://da.gd/ADyl6n
