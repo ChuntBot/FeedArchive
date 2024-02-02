@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jcmq-5rrv-j2g4] PowerShell is subject to remote code execution vulnerability,https://github.com/advisories/GHSA-jcmq-5rrv-j2g4,https://da.gd/0XVmw
+GithubAdvisories,[GHSA-q669-2vfg-cxcg] Nervos CKB Unaligned Pointer Dereference,https://github.com/advisories/GHSA-q669-2vfg-cxcg,https://da.gd/2IW8vd
+GithubAdvisories,[GHSA-8jc3-5p29-qgjx] PHPMailer Local file inclusion,https://github.com/advisories/GHSA-8jc3-5p29-qgjx,https://da.gd/BN3bgl
+GithubAdvisories,[GHSA-6h78-85v2-mmch] PHPMailer Shell command injection,https://github.com/advisories/GHSA-6h78-85v2-mmch,https://da.gd/SIVX
