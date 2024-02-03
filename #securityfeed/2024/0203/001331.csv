@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vjg6-93fv-qv64] Etcd auth Inaccurate logging of authentication attempts for users with CN-based auth only,https://github.com/advisories/GHSA-vjg6-93fv-qv64,https://da.gd/JXWni
+GithubAdvisories,[GHSA-pm3m-32r3-7mfh] Etcd embed auto compaction retention negative value causing a compaction loop or a crash,https://github.com/advisories/GHSA-pm3m-32r3-7mfh,https://da.gd/jFtLu
+GithubAdvisories,[GHSA-j86v-2vjr-fg8f] Etcd Gateway TLS endpoint validation only confirms TCP reachability,https://github.com/advisories/GHSA-j86v-2vjr-fg8f,https://da.gd/QDE9Yy
+GithubAdvisories,[GHSA-5x4g-q5rc-36jp] Etcd pkg Insecure ciphers are allowed by default,https://github.com/advisories/GHSA-5x4g-q5rc-36jp,https://da.gd/O3gA
