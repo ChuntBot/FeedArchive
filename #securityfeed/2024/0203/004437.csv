@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mf74-qq7w-6j7v] Zmarkdown Server-Side Request Forgery (SSRF) in remark-download-images,https://github.com/advisories/GHSA-mf74-qq7w-6j7v,https://da.gd/PqCYcZ
+GithubAdvisories,[GHSA-mq6v-w35g-3c97] Local File Inclusion vulnerability in zmarkdown,https://github.com/advisories/GHSA-mq6v-w35g-3c97,https://da.gd/Qg6l
+GithubAdvisories,[GHSA-29c2-65rj-h343] Nervos CKB Permit load cell data from memory,https://github.com/advisories/GHSA-29c2-65rj-h343,https://da.gd/a4KjPc
+GithubAdvisories,[GHSA-h4c3-5275-vrmg] Nervos CKB Pool does not remove the conflicting transactions from the statistics,https://github.com/advisories/GHSA-h4c3-5275-vrmg,https://da.gd/zcPVU
+GithubAdvisories,[GHSA-f56g-chqp-22m9] Use after free in libpulse-binding,https://github.com/advisories/GHSA-f56g-chqp-22m9,https://da.gd/VdQI2
+GithubAdvisories,[GHSA-7f32-hm4h-w77q] github-slug-action use of `set-env` Runner commands which are processed via stdout,https://github.com/advisories/GHSA-7f32-hm4h-w77q,https://da.gd/jAy5as
+GithubAdvisories,[GHSA-q73f-w3h7-7wcc] Nervos CKB Transaction which calls syscall load_cell_data_hash has nondeterministic result,https://github.com/advisories/GHSA-q73f-w3h7-7wcc,https://da.gd/HGxOMT
+GithubAdvisories,[GHSA-3gjh-29fv-8hr6] Nervos CKB Snappy decompress length can be very large and causes out of memory error,https://github.com/advisories/GHSA-3gjh-29fv-8hr6,https://da.gd/medJ0O
+GithubAdvisories,[GHSA-wjxc-pjx9-4wvm] Nervos CKB Panic on malformed input,https://github.com/advisories/GHSA-wjxc-pjx9-4wvm,https://da.gd/2gfT2
