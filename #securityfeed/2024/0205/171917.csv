@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qf9m-vfgh-m389] FastAPI Content-Type Header ReDoS,https://github.com/advisories/GHSA-qf9m-vfgh-m389,https://da.gd/Rwr8Qd
+GithubAdvisories,[GHSA-93gm-qmq6-w238] Starlette Content-Type Header ReDoS,https://github.com/advisories/GHSA-93gm-qmq6-w238,https://da.gd/beVc
