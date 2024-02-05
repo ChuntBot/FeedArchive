@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vh73-q3rw-qx7w] Boundary vulnerable to session hijacking through TLS certificate tampering,https://github.com/advisories/GHSA-vh73-q3rw-qx7w,https://da.gd/5G9VnA
+GithubAdvisories,[GHSA-3ww4-gg4f-jr7f] Python Cryptography package vulnerable to Bleichenbacher timing oracle attack,https://github.com/advisories/GHSA-3ww4-gg4f-jr7f,https://da.gd/NY2blI
+GithubAdvisories,[GHSA-9m6m-c64r-w4f4] Stimulsoft Dashboard.JS Cross Site Scripting vulnerability,https://github.com/advisories/GHSA-9m6m-c64r-w4f4,https://da.gd/yzF5
