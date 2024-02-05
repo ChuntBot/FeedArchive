@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g3cm-qg2v-2hj5] pyLoad open redirect vulnerability due to improper validation of the is_safe_url function,https://github.com/advisories/GHSA-g3cm-qg2v-2hj5,https://da.gd/2oxui
