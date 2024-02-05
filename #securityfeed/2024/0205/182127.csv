@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-86rg-pf4c-5grg] @backstage/backend-app-api leaks GitLab access tokens,https://github.com/advisories/GHSA-86rg-pf4c-5grg,https://da.gd/34s2Y
