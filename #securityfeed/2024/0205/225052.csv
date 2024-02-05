@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-944j-8ch6-rf6x] m2crypto Bleichenbacher timing attack - incomplete fix for CVE-2020-25657,https://github.com/advisories/GHSA-944j-8ch6-rf6x,https://da.gd/7Wda
+GithubAdvisories,[GHSA-7qw4-9r68-2rmx] mingSoft MCMS File Upload vulnerability,https://github.com/advisories/GHSA-7qw4-9r68-2rmx,https://da.gd/ig1SF6
+GithubAdvisories,[GHSA-9cgf-pxwq-2cpw] Stimulsoft Dashboard.JS Cross Site Scripting vulnerability,https://github.com/advisories/GHSA-9cgf-pxwq-2cpw,https://da.gd/QVWk
+GithubAdvisories,[GHSA-wgpq-p2hm-56v9] glance-store logs s3 access keys,https://github.com/advisories/GHSA-wgpq-p2hm-56v9,https://da.gd/idBBG
