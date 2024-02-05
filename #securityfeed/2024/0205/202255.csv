@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7m8g-fprr-47fx] phpMyFAQ vulnerable to stored XSS on attachments filename,https://github.com/advisories/GHSA-7m8g-fprr-47fx,https://da.gd/QYiQb
+GithubAdvisories,[GHSA-9hhf-xmcw-r3xg] phpMyFAQ sharing FAQ functionality can easily be abused for phishing purposes,https://github.com/advisories/GHSA-9hhf-xmcw-r3xg,https://da.gd/KUSi7
+GithubAdvisories,[GHSA-6648-6g96-mg35] phpMyFAQ User Removal Page Allows Spoofing Of User Details,https://github.com/advisories/GHSA-6648-6g96-mg35,https://da.gd/2Hp8jr
+GithubAdvisories,[GHSA-mpwj-fcr6-x34c] Yarn untrusted search path vulnerability,https://github.com/advisories/GHSA-mpwj-fcr6-x34c,https://da.gd/hINJqO
+GithubAdvisories,[GHSA-9xfw-jjq2-7v8h] 1Panel set-cookie is missing the Secure keyword,https://github.com/advisories/GHSA-9xfw-jjq2-7v8h,https://da.gd/KT6x2D
