@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h2rq-qhr7-53gm] Apache Sling Servlets Resolver executes malicious code via path traversal,https://github.com/advisories/GHSA-h2rq-qhr7-53gm,https://da.gd/3oG61
+GithubAdvisories,[GHSA-gfqf-9w98-7jmx] Stimulsoft Dashboard.JS directory traversal vulnerability,https://github.com/advisories/GHSA-gfqf-9w98-7jmx,https://da.gd/iaUu7j
