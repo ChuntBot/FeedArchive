@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w277-wpqf-rcfv] Svix vulnerable to improper comparison of different-length signatures,https://github.com/advisories/GHSA-w277-wpqf-rcfv,https://da.gd/370aX
+GithubAdvisories,[GHSA-7xm8-wjq7-88r5] DeviceFarmer stf uses DES-ECB,https://github.com/advisories/GHSA-7xm8-wjq7-88r5,https://da.gd/maGS
+GithubAdvisories,[GHSA-m95h-p4gg-wfw3] Allegro AI ClearML path traversal vulnerability,https://github.com/advisories/GHSA-m95h-p4gg-wfw3,https://da.gd/icX58
+GithubAdvisories,[GHSA-cpcw-9h9m-wqw9] Allegro AI ClearML vulnerable to deserialization of untrusted data,https://github.com/advisories/GHSA-cpcw-9h9m-wqw9,https://da.gd/t5uZw
+GithubAdvisories,[GHSA-h24r-m9qc-pvpg] Ansible-core information disclosure flaw,https://github.com/advisories/GHSA-h24r-m9qc-pvpg,https://da.gd/Ai70
+GithubAdvisories,[GHSA-f3h9-8phc-6gvh] Gradio Path Traversal vulnerability,https://github.com/advisories/GHSA-f3h9-8phc-6gvh,https://da.gd/F0K5
