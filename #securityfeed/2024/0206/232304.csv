@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8xp9-99h5-4vcg] TYPO3 is vulnerable to Information Disclosure on the backend,https://github.com/advisories/GHSA-8xp9-99h5-4vcg,https://da.gd/aHoaK
+GithubAdvisories,[GHSA-c7xr-736p-29j3] TYPO3 is vulnerable to Insecure randomness in uniqid function,https://github.com/advisories/GHSA-c7xr-736p-29j3,https://da.gd/uh6Fy
+GithubAdvisories,[GHSA-wjpc-gjf7-9938] TYPO3 Arbitrary Code Execution vulnerability on the backend,https://github.com/advisories/GHSA-wjpc-gjf7-9938,https://da.gd/fQJff
+GithubAdvisories,[GHSA-j628-384g-rmgc] TYPO3 Open Redirection vulnerability on the backend,https://github.com/advisories/GHSA-j628-384g-rmgc,https://da.gd/IyTRdD
+GithubAdvisories,[GHSA-cg45-qgcf-hf9x] TYPO3 is vulnerable to Cross-Site Scripting (XSS) on the backend,https://github.com/advisories/GHSA-cg45-qgcf-hf9x,https://da.gd/qvEPy0
