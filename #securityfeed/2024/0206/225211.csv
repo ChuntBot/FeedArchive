@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vrh7-99jh-3fmm] Puppet arbitrary files overwrite via a symlink attack,https://github.com/advisories/GHSA-vrh7-99jh-3fmm,https://da.gd/Zppf
