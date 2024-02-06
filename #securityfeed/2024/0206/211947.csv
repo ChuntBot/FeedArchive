@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p78x-93mq-qwqh] TYPO3 vulnerable to Cross-Site Scripting in the textarea view helper,https://github.com/advisories/GHSA-p78x-93mq-qwqh,https://da.gd/Zludy7
