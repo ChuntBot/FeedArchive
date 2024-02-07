@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8vp7-j5cj-vvm2] Ability to expose data in Sylius by using an unintended serialisation group,https://github.com/advisories/GHSA-8vp7-j5cj-vvm2,https://da.gd/cLQoN
+GithubAdvisories,[GHSA-3rfr-mpfj-2jwq] Pimcore Admin Classic Bundle permissions are not getting checked when working with tags,https://github.com/advisories/GHSA-3rfr-mpfj-2jwq,https://da.gd/aBRic
+GithubAdvisories,[GHSA-3xf8-g8gr-g7rh] Graylog session fixation vulnerability through cookie injection,https://github.com/advisories/GHSA-3xf8-g8gr-g7rh,https://da.gd/h1TRzm
+GithubAdvisories,[GHSA-p6gg-5hf4-4rgj] Graylog vulnerable to instantiation of arbitrary classes triggered by API request,https://github.com/advisories/GHSA-p6gg-5hf4-4rgj,https://da.gd/7sOOx6
+GithubAdvisories,[GHSA-c57v-4vg5-cm2x] Apache Pulsar SASL Authentication Provider observable timing discrepancy vulnerability,https://github.com/advisories/GHSA-c57v-4vg5-cm2x,https://da.gd/xP0Q22
