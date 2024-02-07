@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jr79-65xr-q7cx] TYPO3 Cross-site Scripting vulnerability in the extension manager and backend forms,https://github.com/advisories/GHSA-jr79-65xr-q7cx,https://da.gd/GCKIl
+GithubAdvisories,[GHSA-v2c9-9m8v-8jjm] Apache ActiveMQ Sensitive Information Disclosure via the Jetty ResourceHandler,https://github.com/advisories/GHSA-v2c9-9m8v-8jjm,https://da.gd/WqITx
+GithubAdvisories,[GHSA-3jx9-mgwx-4q83] Apache Shiro Path Traversal vulnerability,https://github.com/advisories/GHSA-3jx9-mgwx-4q83,https://da.gd/TVfhaW
+GithubAdvisories,[GHSA-3gm8-32vv-q8mp] Moodle Cross-site Scripting vulnerability in the KSES text cleaning filter,https://github.com/advisories/GHSA-3gm8-32vv-q8mp,https://da.gd/HKDLP
+GithubAdvisories,[GHSA-39vm-rvwh-q86j] ImpressCMS Cross-site Scripting vulnerability via quicksearch_ContentContent parameter,https://github.com/advisories/GHSA-39vm-rvwh-q86j,https://da.gd/A0Ar4
