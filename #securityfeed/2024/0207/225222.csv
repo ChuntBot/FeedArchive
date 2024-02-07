@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-45ch-hxgr-vx8j] phpCAS client library and Moodle Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-45ch-hxgr-vx8j,https://da.gd/YKe9bu
+GithubAdvisories,[GHSA-5pjj-7m4p-wfh2] ocrodjvu is vulnerable to Arbitrary File Modification via symlink attack,https://github.com/advisories/GHSA-5pjj-7m4p-wfh2,https://da.gd/GOk9o
+GithubAdvisories,[GHSA-966m-m549-2878] Moodle is vulnerable to unauthorized new accounts creation,https://github.com/advisories/GHSA-966m-m549-2878,https://da.gd/3SQT
+GithubAdvisories,[GHSA-4rvc-5hrh-qmwf] TYPO3 SQL injection vulnerability on the backend,https://github.com/advisories/GHSA-4rvc-5hrh-qmwf,https://da.gd/r4JS5
+GithubAdvisories,[GHSA-cgr9-h9qq-x9fx] TYPO3 Authentication Bypass via Salted user password hashes extension,https://github.com/advisories/GHSA-cgr9-h9qq-x9fx,https://da.gd/jWKRwz
