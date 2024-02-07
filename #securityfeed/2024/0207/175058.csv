@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wh5w-82f3-wrxh] CKEditor cross-site scripting vulnerability in AJAX sample,https://github.com/advisories/GHSA-wh5w-82f3-wrxh,https://da.gd/Do3c
+GithubAdvisories,[GHSA-xxj9-f6rv-m3x4] Django denial-of-service attack in the intcomma template filter,https://github.com/advisories/GHSA-xxj9-f6rv-m3x4,https://da.gd/aoTzyW
+GithubAdvisories,[GHSA-mw2c-vx6j-mg76] CKEditor4 Cross-site Scripting vulnerability in samples with enabled the preview feature,https://github.com/advisories/GHSA-mw2c-vx6j-mg76,https://da.gd/YFoNH
+GithubAdvisories,[GHSA-fq6h-4g8v-qqvm] CKEditor4 Cross-site Scripting vulnerability caused by incorrect CDATA detection,https://github.com/advisories/GHSA-fq6h-4g8v-qqvm,https://da.gd/RlA2
+GithubAdvisories,[GHSA-r3jc-3qmm-w3pw] SQLAlchemyDA unauthenticated arbitrary SQL query execution,https://github.com/advisories/GHSA-r3jc-3qmm-w3pw,https://da.gd/vigXU
+GithubAdvisories,[GHSA-52xq-j7v9-v4v2] Vyper array negative index vulnerability,https://github.com/advisories/GHSA-52xq-j7v9-v4v2,https://da.gd/vqVRtJ
