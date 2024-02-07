@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9hw3-4gvp-8mv5] TYPO3 Cross-site scripting (XSS) vulnerability in the click enlarge functionality,https://github.com/advisories/GHSA-9hw3-4gvp-8mv5,https://da.gd/jWuRh
+GithubAdvisories,[GHSA-3mqf-fwc6-vwqw] TYPO3 Cross-site scripting (XSS) vulnerability in the FORM content object,https://github.com/advisories/GHSA-3mqf-fwc6-vwqw,https://da.gd/sxYcr
+GithubAdvisories,[GHSA-gr4x-xr6m-47wm] Malware in styled-compoment,https://github.com/advisories/GHSA-gr4x-xr6m-47wm,https://da.gd/9iggE
+GithubAdvisories,[GHSA-4pcr-5rfj-r7q6] Malware in dependency-ab,https://github.com/advisories/GHSA-4pcr-5rfj-r7q6,https://da.gd/b9qNa
+GithubAdvisories,[GHSA-pvjh-7h8q-q56r] Apache Tomcat has cookies without HTTPOnly flag in Set-Cookie header,https://github.com/advisories/GHSA-pvjh-7h8q-q56r,https://da.gd/rlExxD
+GithubAdvisories,[GHSA-9hh2-8cw6-hfv7] TYPO3 Cross-Site Scripting vulnerability in the Install Tool,https://github.com/advisories/GHSA-9hh2-8cw6-hfv7,https://da.gd/XnhNz
+GithubAdvisories,[GHSA-xgc2-q928-27wv] TYPO3 Sensitive Information Disclosure via escapeStrForLike method,https://github.com/advisories/GHSA-xgc2-q928-27wv,https://da.gd/yvI9
+GithubAdvisories,[GHSA-mqhc-33qj-22p3] Malware in paradis,https://github.com/advisories/GHSA-mqhc-33qj-22p3,https://da.gd/dC0F
+GithubAdvisories,[GHSA-hjcj-vwgh-8xrf] Malware in nhatcoder-fb-api,https://github.com/advisories/GHSA-hjcj-vwgh-8xrf,https://da.gd/hQzLGA
