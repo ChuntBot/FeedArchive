@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,dovecot: fix wrong timestamps inside logs,https://github.com/mailcow/mailcow-dockerized/commit/d08ccbce789880eb81ebebca48d440637ab36983,https://da.gd/PsrP3
+GithubCommitStaging,dovecot: bump to docker image 1.28.1,https://github.com/mailcow/mailcow-dockerized/commit/583c5b48a00bb1f1a61cbc411bc90532fce3ca3b,https://da.gd/uDSKCV
