@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3276-p9f2-8q89] TYPO3 is vulnerable to insecure randomness during hash generation in forgot password function,https://github.com/advisories/GHSA-3276-p9f2-8q89,https://da.gd/XpROr
+GithubAdvisories,[GHSA-gqmh-5xmq-3fhg] TYPO3 is vulnerable to Session Fixation,https://github.com/advisories/GHSA-gqmh-5xmq-3fhg,https://da.gd/V8mt
+GithubAdvisories,[GHSA-9vgq-w5pv-v77q] Liferay Portal stored cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-9vgq-w5pv-v77q,https://da.gd/Hm6s
