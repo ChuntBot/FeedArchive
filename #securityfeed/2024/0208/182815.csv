@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w275-m8cr-hf2v] Liferay Portal denial-of-service vulnerability,https://github.com/advisories/GHSA-w275-m8cr-hf2v,https://da.gd/P26DC
+GithubAdvisories,[GHSA-8v28-3g86-chj5] PanelSwWix4.Sdk .be TEMP folder is vulnerable to DLL redirection attacks that allow the attacker to escalate privileges,https://github.com/advisories/GHSA-8v28-3g86-chj5,https://da.gd/71Cg0P
+GithubAdvisories,[GHSA-259p-rvjx-ffwg] Panel::Software Customized WiX .be TEMP folder is vulnerable to DLL redirection attacks that allow the attacker to escalate privileges,https://github.com/advisories/GHSA-259p-rvjx-ffwg,https://da.gd/g2AIVr
+GithubAdvisories,[GHSA-7wh2-wxc7-9ph5] WiX Toolset's .be TEMP folder is vulnerable to DLL redirection attacks that allow the attacker to escalate privileges,https://github.com/advisories/GHSA-7wh2-wxc7-9ph5,https://da.gd/60DE3
