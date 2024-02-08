@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9xg7-gg9m-rmq9] Django Admin Media Handler Vulnerable to Directory Traversal,https://github.com/advisories/GHSA-9xg7-gg9m-rmq9,https://da.gd/cSumP
