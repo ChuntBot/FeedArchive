@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3vcx-w94h-68vg] XXE vulnerability in Jenkins Android Lint Plugin,https://github.com/advisories/GHSA-3vcx-w94h-68vg,https://da.gd/Gplc6l
+GithubAdvisories,[GHSA-7mvg-cx9c-r6jm] Missing permission check in Jenkins Ansible Tower Plugin,https://github.com/advisories/GHSA-7mvg-cx9c-r6jm,https://da.gd/Z1XCCr
+GithubAdvisories,[GHSA-7gqc-q9mc-6348] Lack of authentication mechanism in Jenkins TurboScript Plugin webhook,https://github.com/advisories/GHSA-7gqc-q9mc-6348,https://da.gd/TFqKQn
