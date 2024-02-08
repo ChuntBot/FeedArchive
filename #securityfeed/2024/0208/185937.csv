@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3qx3-6hxr-j2ch] eza Potential Heap Overflow Vulnerability for AArch64,https://github.com/advisories/GHSA-3qx3-6hxr-j2ch,https://da.gd/p07nPr
+GithubAdvisories,[GHSA-833m-37f7-jq55] Rancher API Server Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-833m-37f7-jq55,https://da.gd/en98v
+GithubAdvisories,[GHSA-r8f4-hv23-6qp6] Norman API Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-r8f4-hv23-6qp6,https://da.gd/jUnFJJ
+GithubAdvisories,[GHSA-xfj7-qf8w-2gcr] Rancher 'Audit Log' leaks sensitive information,https://github.com/advisories/GHSA-xfj7-qf8w-2gcr,https://da.gd/afje
+GithubAdvisories,[GHSA-c85r-fwc7-45vc] Rancher permissions on 'namespaces' in any API group grants 'edit' permissions on namespaces in 'core',https://github.com/advisories/GHSA-c85r-fwc7-45vc,https://da.gd/GOTPI
+GithubAdvisories,[GHSA-c352-x843-ggpq] XXL-JOB vulnerable to Server-Side Request Forgery,https://github.com/advisories/GHSA-c352-x843-ggpq,https://da.gd/dwMe
+GithubAdvisories,[GHSA-6mv8-95x5-xcq9] H2O local file inclusion vulnerability,https://github.com/advisories/GHSA-6mv8-95x5-xcq9,https://da.gd/J8qMII
+GithubAdvisories,[GHSA-hvp4-vrv2-8wrq] Kinto Attachment's attachments can be replaced on read-only records,https://github.com/advisories/GHSA-hvp4-vrv2-8wrq,https://da.gd/M6vci2
+GithubAdvisories,[GHSA-qwj8-qgpr-8crm] Liferay Portal vulnerable to user impersonation,https://github.com/advisories/GHSA-qwj8-qgpr-8crm,https://da.gd/xPT7P
+GithubAdvisories,[GHSA-mqf8-4cqm-p83x] Liferay Portal allows attackers to discover the existence of sites,https://github.com/advisories/GHSA-mqf8-4cqm-p83x,https://da.gd/YeCN3x
