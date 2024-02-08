@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7gfc-2v6g-6w9f] Paste is vulnerable to Cross-site Scripting via vectors involving a 404 status code,https://github.com/advisories/GHSA-7gfc-2v6g-6w9f,https://da.gd/cb7wuP
+GithubAdvisories,[GHSA-92cv-wv2c-8899] Apache MyFaces Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-92cv-wv2c-8899,https://da.gd/W8TgL
+GithubAdvisories,[GHSA-mmjh-45vj-hfvf] Dojo Open Redirect vulnerability,https://github.com/advisories/GHSA-mmjh-45vj-hfvf,https://da.gd/yrFq1q
+GithubAdvisories,[GHSA-qj7x-wm9q-qjx8] Plone Cross-site Scripting vulnerability in PortalTransforms,https://github.com/advisories/GHSA-qj7x-wm9q-qjx8,https://da.gd/ehm4
+GithubAdvisories,[GHSA-2j76-26qq-7rvv] MoinMoin cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-2j76-26qq-7rvv,https://da.gd/YIUiER
+GithubAdvisories,[GHSA-gxh5-r8gp-pjc3] MoinMoin cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-gxh5-r8gp-pjc3,https://da.gd/H8ntlf
+GithubAdvisories,[GHSA-pjmx-4gc6-hwv8] Drupal cross-site scripting vulnerability via actions feature and trigger module,https://github.com/advisories/GHSA-pjmx-4gc6-hwv8,https://da.gd/TekWR
+GithubAdvisories,[GHSA-59qj-jcjv-662j] DIRAC's TokenManager does not check permissions on cached tokens,https://github.com/advisories/GHSA-59qj-jcjv-662j,https://da.gd/ksmXyG
+GithubAdvisories,[GHSA-f68m-q26r-64f6] Chef Improper Access Control vulnerability,https://github.com/advisories/GHSA-f68m-q26r-64f6,https://da.gd/oUDDz
