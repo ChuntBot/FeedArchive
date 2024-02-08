@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mwqv-jff6-5v62] TYPO3 cross-site scripting (XSS) vulnerability in the RemoveXSS function and the backend,https://github.com/advisories/GHSA-mwqv-jff6-5v62,https://da.gd/Z0Nc
+GithubAdvisories,[GHSA-w736-qv86-vq94] TYPO3 Remote File Disclosure vulnerability in the jumpUrl mechanism,https://github.com/advisories/GHSA-w736-qv86-vq94,https://da.gd/QUpn4x
