@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubCommit,[Netfilter] fix redis logs,https://github.com/mailcow/mailcow-dockerized/commit/464b6f2e9328b64b0548deba7ab1c9edb096bf62,https://da.gd/qWNjL7
+GithubCommit,[Netfilter] Update to 1.57,https://github.com/mailcow/mailcow-dockerized/commit/77e6ef218c9d5b0ceeb873b43435aee4173cc86c,https://da.gd/gm9JVn
+GithubCommit,set strict=False,https://github.com/mailcow/mailcow-dockerized/commit/38cc85fa4ca08723363c7a672a36383fccf259e2,https://da.gd/qgME8
+GithubCommit,fix typpo in chain order message,https://github.com/mailcow/mailcow-dockerized/commit/eb91d9905bc1f4dbdde486e635592bea4ee02726,https://da.gd/UnDk
+GithubCommit,[SOGo] Fixed SOGo crash on older kernels < 5.10.0-X,https://github.com/mailcow/mailcow-dockerized/commit/5a9702771cba4fedbc79331e92ff757f734df58e,https://da.gd/uVZoLy
+GithubCommit,dovecot: fix wrong timestamps inside logs,https://github.com/mailcow/mailcow-dockerized/commit/d08ccbce789880eb81ebebca48d440637ab36983,https://da.gd/PsrP3
+GithubCommit,dovecot: bump to docker image 1.28.1,https://github.com/mailcow/mailcow-dockerized/commit/583c5b48a00bb1f1a61cbc411bc90532fce3ca3b,https://da.gd/uDSKCV
+GithubCommit,unbound: increase check interval to 30s,https://github.com/mailcow/mailcow-dockerized/commit/63bb8e8cefb4afebd50f12a485f6af5d12c98125,https://da.gd/xpnHQ
+GithubCommit,Merge pull request #5711 from amorfo77/master,https://github.com/mailcow/mailcow-dockerized/commit/1926625297b369de934eb4cecca6ddb827220dcc,https://da.gd/O54Mz
+GithubCommit,added action for support label in issues,https://github.com/mailcow/mailcow-dockerized/commit/e184713c67ad0a75d5164237ecd0c97e8a0552aa,https://da.gd/KofKf
+GithubCommit,unbound: remove netcat check & package,https://github.com/mailcow/mailcow-dockerized/commit/63426c3cd023922a6e3c5f3aa40c4cc95f1d9fe1,https://da.gd/iGuhEs
+GithubCommit,Merge pull request #5717 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/8ae762a8c80ce0d12659e918257fe5dbf78118d7,https://da.gd/Z2HICZ
