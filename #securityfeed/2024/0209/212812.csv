@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-4wxw-42wx-2wfx] Apache Solr Schema Designer blindly ""trusts"" all configsets",https://github.com/advisories/GHSA-4wxw-42wx-2wfx,https://da.gd/3AOgTy
+GithubAdvisories,[GHSA-xrj7-x7gp-wwqr] Apache Solr's Streaming Expressions allow users to extract data from other Solr Clouds,https://github.com/advisories/GHSA-xrj7-x7gp-wwqr,https://da.gd/LqwLbw
