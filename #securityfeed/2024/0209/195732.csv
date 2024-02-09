@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wqmm-q65g-2hqr] Paramiko Unsafe randomness usage may allow access to sensitive information,https://github.com/advisories/GHSA-wqmm-q65g-2hqr,https://da.gd/sVV6j
+GithubAdvisories,[GHSA-wjjc-m3fc-fcm8] MoinMoin Denial of Service vulnerability via password_checker function,https://github.com/advisories/GHSA-wjjc-m3fc-fcm8,https://da.gd/kwhZMq
