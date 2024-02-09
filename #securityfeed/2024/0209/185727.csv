@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-733v-22mg-7f8w] TYPO3 Cross-site Scripting vulnerability in the file backend module,https://github.com/advisories/GHSA-733v-22mg-7f8w,https://da.gd/Ng8eL
+GithubAdvisories,[GHSA-m3p9-c7p3-xxmp] Mayaa Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-m3p9-c7p3-xxmp,https://da.gd/EKD4w
+GithubAdvisories,[GHSA-9jp4-68vc-r8wq] FormEncode Access Restrictions Bypass,https://github.com/advisories/GHSA-9jp4-68vc-r8wq,https://da.gd/wSx9S
+GithubAdvisories,[GHSA-wc8w-gh5m-62fv] MoinMoin Access Restrictions Bypassed due to improper ACL enforcement,https://github.com/advisories/GHSA-wc8w-gh5m-62fv,https://da.gd/N4Or
+GithubAdvisories,[GHSA-p8w2-f44p-fmcj] Cobbler Web Interface Kickstart Template Remote Privilege Escalation Vulnerability,https://github.com/advisories/GHSA-p8w2-f44p-fmcj,https://da.gd/qKI78
+GithubAdvisories,[GHSA-46f9-f8jm-mw2x] Plone Cross-site Scripting vulnerability in the LiveSearch module,https://github.com/advisories/GHSA-46f9-f8jm-mw2x,https://da.gd/Z68oEV
+GithubAdvisories,[GHSA-wfrc-r6c6-7j9r] WEBrick Denial of Service Vulnerability,https://github.com/advisories/GHSA-wfrc-r6c6-7j9r,https://da.gd/X6xArB
