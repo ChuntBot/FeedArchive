@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q4mm-89q2-xffg] phpMyAdmin vulnerable to XML external entity (XXE) injection attack,https://github.com/advisories/GHSA-q4mm-89q2-xffg,https://da.gd/q7VjNu
+GithubAdvisories,[GHSA-m8h8-6rvg-f4mg] Apache Tomcat Path Traversal Vulnerability,https://github.com/advisories/GHSA-m8h8-6rvg-f4mg,https://da.gd/LQ1v
+GithubAdvisories,[GHSA-x5j2-g63m-f8g4] pqc_kyber KyberSlash: division timings depending on secrets,https://github.com/advisories/GHSA-x5j2-g63m-f8g4,https://da.gd/iycl
+GithubAdvisories,[GHSA-rr69-rxr6-8qwf] serde-json-wasm stack overflow during recursive JSON parsing,https://github.com/advisories/GHSA-rr69-rxr6-8qwf,https://da.gd/t4xvGd
+GithubAdvisories,[GHSA-wcgx-2hvx-5cwr] Apache Struts Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-wcgx-2hvx-5cwr,https://da.gd/EPehBz
