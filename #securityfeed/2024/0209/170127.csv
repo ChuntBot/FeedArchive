@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7g59-hm8v-cwmc] Apache Tomcat information disclosure vulnerability,https://github.com/advisories/GHSA-7g59-hm8v-cwmc,https://da.gd/A41VS
+GithubAdvisories,[GHSA-gm5q-2cx5-wr2j] Joomla! Open Redirect vulnerability,https://github.com/advisories/GHSA-gm5q-2cx5-wr2j,https://da.gd/sQnuA
+GithubAdvisories,[GHSA-6cj8-c359-p7q9] Drupal vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-6cj8-c359-p7q9,https://da.gd/ao4L
+GithubAdvisories,[GHSA-f35p-hcwf-9f9f] TYPO3 Unrestricted File Upload vulnerability,https://github.com/advisories/GHSA-f35p-hcwf-9f9f,https://da.gd/SUDl
