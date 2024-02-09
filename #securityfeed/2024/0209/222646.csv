@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mgp6-j658-vcw9] Concrete CMS vulnerable to stored XSS in file tags and description attributes,https://github.com/advisories/GHSA-mgp6-j658-vcw9,https://da.gd/pd5cua
+GithubAdvisories,[GHSA-9v3w-cj7m-qh5g] Concrete CMS vulnerable to reflected XSS via the Image URL Import Feature,https://github.com/advisories/GHSA-9v3w-cj7m-qh5g,https://da.gd/7X5QHo
+GithubAdvisories,[GHSA-q25h-jch8-gfrp] Concrete CMS vulnerable to stored XSS via the Role Name field,https://github.com/advisories/GHSA-q25h-jch8-gfrp,https://da.gd/YqkC
+GithubAdvisories,[GHSA-76rh-xv36-9mrc] PEAR::Auth potential authentication bypass vulnerability,https://github.com/advisories/GHSA-76rh-xv36-9mrc,https://da.gd/gyEqwf
+GithubAdvisories,[GHSA-f9fr-w54q-772h] Apache log4net format string vulnerability causes DoS,https://github.com/advisories/GHSA-f9fr-w54q-772h,https://da.gd/dF7dwm
