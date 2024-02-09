@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5x5f-9r6q-q7mh] Apache Tomcat Sensitive Information Disclosure,https://github.com/advisories/GHSA-5x5f-9r6q-q7mh,https://da.gd/Yn2Z
+GithubAdvisories,[GHSA-22r3-9w55-cj54] Pkg Local Privilege Escalation,https://github.com/advisories/GHSA-22r3-9w55-cj54,https://da.gd/SsIU3m
+GithubAdvisories,[GHSA-583g-g682-crxf] Micronaut management endpoints vulnerable to drive-by localhost attack,https://github.com/advisories/GHSA-583g-g682-crxf,https://da.gd/zzgqE
+GithubAdvisories,[GHSA-78xj-cgh5-2h22] NPM IP package vulnerable to Server-Side Request Forgery (SSRF) attacks,https://github.com/advisories/GHSA-78xj-cgh5-2h22,https://da.gd/CjoLb5
+GithubAdvisories,[GHSA-c866-8gpw-p3mv] HashiCorp Nomad vulnerable to symlink attacks,https://github.com/advisories/GHSA-c866-8gpw-p3mv,https://da.gd/M3akcs
+GithubAdvisories,[GHSA-59j8-776v-xxxg] NoneBot Potential Information Leak in User-Constructed Message Templates,https://github.com/advisories/GHSA-59j8-776v-xxxg,https://da.gd/3vt8IO
