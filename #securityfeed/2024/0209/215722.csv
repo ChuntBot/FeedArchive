@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-37vr-vmg4-jwpw] Apache Solr: Backup/Restore APIs allow for deployment of executables in malicious ConfigSets,https://github.com/advisories/GHSA-37vr-vmg4-jwpw,https://da.gd/TfTDs
+GithubAdvisories,[GHSA-3hwc-rqwp-v36q] Apache Solr can leak certain passwords due to System Property redaction logic inconsistencies,https://github.com/advisories/GHSA-3hwc-rqwp-v36q,https://da.gd/5nJ0
+GithubAdvisories,[GHSA-gvqv-h7hh-6fcc] Allegro AI ClearML Stores Credentials in Plaintext in MongoDB Instance,https://github.com/advisories/GHSA-gvqv-h7hh-6fcc,https://da.gd/B4erjd
+GithubAdvisories,[GHSA-32h7-7j94-8fc2] Mattermost vulnerable to denial of service via large number of emoji reactions,https://github.com/advisories/GHSA-32h7-7j94-8fc2,https://da.gd/nZOKyN
