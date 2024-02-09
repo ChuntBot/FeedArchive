@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c4cm-r9fh-jgj9] commonground-api-common unexploitable privilege escalation in JWT authentication middleware,https://github.com/advisories/GHSA-c4cm-r9fh-jgj9,https://da.gd/yhCk
