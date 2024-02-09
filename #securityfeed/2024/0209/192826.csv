@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jgcr-9c2q-rvp8] Apache Struts is vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-jgcr-9c2q-rvp8,https://da.gd/VPdt
+GithubAdvisories,[GHSA-wv7g-xhvw-8hcp] Apache Struts directory traversal vulnerability,https://github.com/advisories/GHSA-wv7g-xhvw-8hcp,https://da.gd/cFX3n6
+GithubAdvisories,[GHSA-9645-6g72-2pv8] phpMyAdmin unsafely handles temporary files,https://github.com/advisories/GHSA-9645-6g72-2pv8,https://da.gd/hasb
+GithubAdvisories,[GHSA-ph2j-5hxq-gxrr] Drupal Node Validation Bypass in the node module API,https://github.com/advisories/GHSA-ph2j-5hxq-gxrr,https://da.gd/xhcDa
