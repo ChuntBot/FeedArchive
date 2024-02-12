@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h9w8-4376-j344] Moodle does not properly validate module instance id,https://github.com/advisories/GHSA-h9w8-4376-j344,https://da.gd/a1z4T
+GithubAdvisories,[GHSA-jg2x-r643-w2ch] Jetty Uses Predictable Session Identifiers,https://github.com/advisories/GHSA-jg2x-r643-w2ch,https://da.gd/pegaxm
+GithubAdvisories,[GHSA-jcwh-rj6j-vm75] Plone allows remote users to modify arbitrary portraits,https://github.com/advisories/GHSA-jcwh-rj6j-vm75,https://da.gd/qbhBiw
+GithubAdvisories,[GHSA-qmgj-5h75-jr67] Jetty Directory Traversal Vulnerability,https://github.com/advisories/GHSA-qmgj-5h75-jr67,https://da.gd/Qbbvb
