@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-22q8-ghmq-63vf] libgit2-sys affected by memory corruption, denial of service, and arbitrary code execution in libgit2",https://github.com/advisories/GHSA-22q8-ghmq-63vf,https://da.gd/keQqv
