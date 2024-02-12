@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pqr5-9v2j-44xg] Apache Tomcat DoS via Malicious Get Request,https://github.com/advisories/GHSA-pqr5-9v2j-44xg,https://da.gd/jFE3v
+GithubAdvisories,[GHSA-8g4f-fh7f-4fwh] Apache Tomcat Default Installation Reveals Sensitive Information,https://github.com/advisories/GHSA-8g4f-fh7f-4fwh,https://da.gd/FsUHQ
+GithubAdvisories,[GHSA-86fp-jgwm-wgj5] Apache Tomcat XSS Vulnerability,https://github.com/advisories/GHSA-86fp-jgwm-wgj5,https://da.gd/Y2a5Fm
