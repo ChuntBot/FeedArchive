@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xmf4-j3j7-xj7q] Apache Tomcat DoS Via Requests Including Null Characters,https://github.com/advisories/GHSA-xmf4-j3j7-xj7q,https://da.gd/hkwCLG
+GithubAdvisories,[GHSA-p543-jg43-9pm5] Apache Tomcat may be started without proper security settings,https://github.com/advisories/GHSA-p543-jg43-9pm5,https://da.gd/xmZ8Z
+GithubAdvisories,[GHSA-vwrc-g9q6-f675] Zope Server vulnerable to DoS via header injection,https://github.com/advisories/GHSA-vwrc-g9q6-f675,https://da.gd/LmhV1
