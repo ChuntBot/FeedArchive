@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2jv5-9r88-3w3p] python-multipart vulnerable to Content-Type Header ReDoS,https://github.com/advisories/GHSA-2jv5-9r88-3w3p,https://da.gd/RxU0RS
+GithubAdvisories,[GHSA-h3rw-77w7-92gf] Samly access control vulnerability,https://github.com/advisories/GHSA-h3rw-77w7-92gf,https://da.gd/0qXAS2
+GithubAdvisories,[GHSA-c5vw-342h-x5rx] Alkacon OpenCms Exposes JSP Source Code,https://github.com/advisories/GHSA-c5vw-342h-x5rx,https://da.gd/vc9TKE
