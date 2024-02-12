@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-gccq-h3xj-jgvf] Pixelfed doesn't check OAuth Scopes in API routes, giving elevated permissions",https://github.com/advisories/GHSA-gccq-h3xj-jgvf,https://da.gd/FOD2
+GithubAdvisories,[GHSA-6p92-qfqf-qwx4] OpenRefine JDBC Attack Vulnerability,https://github.com/advisories/GHSA-6p92-qfqf-qwx4,https://da.gd/rp6da
