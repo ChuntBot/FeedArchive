@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c3rp-4cjh-cp38] Zope does not properly verify the access for objects with proxy roles,https://github.com/advisories/GHSA-c3rp-4cjh-cp38,https://da.gd/ltKlp
+GithubAdvisories,[GHSA-5p2x-8427-9fgp] Moodle Improper Access Control vulnerability,https://github.com/advisories/GHSA-5p2x-8427-9fgp,https://da.gd/VYGsf
