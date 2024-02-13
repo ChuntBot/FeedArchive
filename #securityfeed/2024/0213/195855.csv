@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g74q-5xw3-j7q9] Microsoft Security Advisory CVE-2024-21386: .NET Denial of Service Vulnerability,https://github.com/advisories/GHSA-g74q-5xw3-j7q9,https://da.gd/XXxz7
+GithubAdvisories,[GHSA-32q7-gv7f-4cg5] Duplicate Advisory: Microsoft Security Advisory CVE-2024-21386: .NET Denial of Service Vulnerability,https://github.com/advisories/GHSA-32q7-gv7f-4cg5,https://da.gd/WEVr
+GithubAdvisories,[GHSA-rjmf-p882-645m] mongodb-client-encryption vulnerable to Improper Certificate Validation,https://github.com/advisories/GHSA-rjmf-p882-645m,https://da.gd/ZPJItX
