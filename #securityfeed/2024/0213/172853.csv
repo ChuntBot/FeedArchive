@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wf85-8hx9-gj7c] TYPO3 vulnerable to Improper Access Control of Resources Referenced by t3:// URI Scheme,https://github.com/advisories/GHSA-wf85-8hx9-gj7c,https://da.gd/py1hm
+GithubAdvisories,[GHSA-h47m-3f78-qp9g] TYPO3 Install Tool vulnerable to Information Disclosure of Encryption Key,https://github.com/advisories/GHSA-h47m-3f78-qp9g,https://da.gd/KH6gLD
+GithubAdvisories,[GHSA-4576-pgh2-g34j] derhansen/sf_event_mgt vulnerable to Broken Access Control in Backend Module,https://github.com/advisories/GHSA-4576-pgh2-g34j,https://da.gd/BSWhu
