@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xwmv-cx7p-fqfc] caddy-security plugin for Caddy vulnerable to reflected Cross-site Scripting,https://github.com/advisories/GHSA-xwmv-cx7p-fqfc,https://da.gd/ZyEUw
+GithubAdvisories,[GHSA-rj3x-wvc6-5j66] TYPO3 vulnerable to Improper Access Control Persisting File Abstraction Layer Entities via Data Handler,https://github.com/advisories/GHSA-rj3x-wvc6-5j66,https://da.gd/g3wItV
