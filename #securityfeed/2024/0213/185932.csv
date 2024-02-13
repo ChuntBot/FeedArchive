@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-27pg-4cj6-8994] yuan1994 tpAdmin Unrestricted Upload of File with Dangerous Type vulnerability,https://github.com/advisories/GHSA-27pg-4cj6-8994,https://da.gd/Tt7kr
+GithubAdvisories,[GHSA-qr7h-8pv2-xvx2] yuan1994 tpAdmin vulnerable to Server-Side Request Forgery,https://github.com/advisories/GHSA-qr7h-8pv2-xvx2,https://da.gd/UWNm2V
+GithubAdvisories,[GHSA-747x-5m58-mq97] svix vulnerable to Authentication Bypass,https://github.com/advisories/GHSA-747x-5m58-mq97,https://da.gd/olzP4q
+GithubAdvisories,[GHSA-cmh9-rx85-xj38] sidekiq-unique-jobs UI server vulnerable to XSS & RCE in Redis,https://github.com/advisories/GHSA-cmh9-rx85-xj38,https://da.gd/eEOdQS
