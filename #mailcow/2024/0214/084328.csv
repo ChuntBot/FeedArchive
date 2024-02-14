@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Rspamd] apply domain wide footer to alias domains,https://github.com/mailcow/mailcow-dockerized/commit/86ba019ca09b7e09c59ec8a1e4f562493947510a,https://da.gd/b7rP
+GithubCommitStaging,[Web] fix blank /debug page with invalid timezone,https://github.com/mailcow/mailcow-dockerized/commit/a0e55cb9b17933f355bbaf773295a2592c950211,https://da.gd/M6WiT7
+GithubCommitStaging,[Web] display human readable domainnames instead of punycode,https://github.com/mailcow/mailcow-dockerized/commit/288dbfa37c59666e548915e66cd0cd3902f08eed,https://da.gd/nELbb
+GithubCommitStaging,[Web] fix setting unchecked checkboxes,https://github.com/mailcow/mailcow-dockerized/commit/dac1bd88dc2842317fefb22b0efb0c8a1eb92bf4,https://da.gd/IYWEI
+GithubCommitStaging,Merge pull request #5728 from mailcow/fix/debug-tz,https://github.com/mailcow/mailcow-dockerized/commit/861fa7b1450e06d97ea105bf8dd42fa3f6b9f920,https://da.gd/59U0C
+GithubCommitStaging,Merge pull request #5730 from mailcow/fix/add-domain-gal,https://github.com/mailcow/mailcow-dockerized/commit/ff05cff36cb036a4ab55d5dc3391aa71afe03b53,https://da.gd/MdHpd
+GithubCommitStaging,Merge pull request #5729 from mailcow/feat/readable-domainnames,https://github.com/mailcow/mailcow-dockerized/commit/705d144a858ea340f52d12891ff8cefe32591402,https://da.gd/hIoCI
+GithubCommitStaging,Merge pull request #5727 from mailcow/fix/domain-wide-footer,https://github.com/mailcow/mailcow-dockerized/commit/7d3f9fa407e53edb70b1bc3a7a0f411862919143,https://da.gd/sRjbI
