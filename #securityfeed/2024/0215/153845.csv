@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v53g-5gjp-272r] Helm dependency management path traversal,https://github.com/advisories/GHSA-v53g-5gjp-272r,https://da.gd/V1KnB
+GithubAdvisories,[GHSA-cw9j-q3vf-hrrv] Scrapy authorization header leakage on cross-domain redirect,https://github.com/advisories/GHSA-cw9j-q3vf-hrrv,https://da.gd/t01jSZ
+GithubAdvisories,[GHSA-cc65-xxvf-f7r9] ReDos vulnerability of XMLFeedSpider,https://github.com/advisories/GHSA-cc65-xxvf-f7r9,https://da.gd/Cc46q6
