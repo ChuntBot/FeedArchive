@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7j7m-v7m3-jqm7] Scrapy decompression bomb vulnerability,https://github.com/advisories/GHSA-7j7m-v7m3-jqm7,https://da.gd/zA8eer
+GithubAdvisories,[GHSA-3787-6prv-h9w3] Undici proxy-authorization header not cleared on cross-origin redirect in fetch,https://github.com/advisories/GHSA-3787-6prv-h9w3,https://da.gd/rfhBVs
+GithubAdvisories,[GHSA-9f24-jqhm-jfcw] fetch(url) leads to a memory leak in undici,https://github.com/advisories/GHSA-9f24-jqhm-jfcw,https://da.gd/qKw20u
