@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pmgm-h3cc-m4hj] React Native Document Picker Directory Traversal vulnerability,https://github.com/advisories/GHSA-pmgm-h3cc-m4hj,https://da.gd/KzoKLp
+GithubAdvisories,[GHSA-77hh-43cm-v8j6] tuf's Metadata API: Targets.get_delegated_role() is missing input validation,https://github.com/advisories/GHSA-77hh-43cm-v8j6,https://da.gd/M1l0Dq
+GithubAdvisories,[GHSA-gcgj-qh8p-57hm] October CMS Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-gcgj-qh8p-57hm,https://da.gd/hkH3X
+GithubAdvisories,[GHSA-8r33-q5j5-rh7g] APM Server vulnerable to Insertion of Sensitive Information into Log File,https://github.com/advisories/GHSA-8r33-q5j5-rh7g,https://da.gd/MF2rx
+GithubAdvisories,[GHSA-8h4x-xvjp-vf99] Hazelcast Platform permission checking in CSV File Source connector,https://github.com/advisories/GHSA-8h4x-xvjp-vf99,https://da.gd/FA9Eb
