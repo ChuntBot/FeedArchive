@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9v9h-cgj8-h64p] Null pointer dereference in PKCS12 parsing,https://github.com/advisories/GHSA-9v9h-cgj8-h64p,https://da.gd/hOgOd
