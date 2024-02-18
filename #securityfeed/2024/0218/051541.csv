@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2mx7-xvfg-fg53] Liferay Portal's account lockout does not invalidate existing user sessions,https://github.com/advisories/GHSA-2mx7-xvfg-fg53,https://da.gd/z8Vg5
+GithubAdvisories,[GHSA-5pvv-f8h3-gw96] phpMyAdmin Cross-site Scripting In MySQL Table Name,https://github.com/advisories/GHSA-5pvv-f8h3-gw96,https://da.gd/XQ7wj
+GithubAdvisories,[GHSA-qh4q-fwf8-qqrw] Zope Denial of Service (DoS) vulnerability in ZServer,https://github.com/advisories/GHSA-qh4q-fwf8-qqrw,https://da.gd/t4cc
