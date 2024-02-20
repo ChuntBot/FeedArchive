@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5jjq-8cvj-v6m9] Cross-site Scripting in Serenity,https://github.com/advisories/GHSA-5jjq-8cvj-v6m9,https://da.gd/6Xi9
+GithubAdvisories,[GHSA-7f2v-5877-rx3x] Code injection in REDAXO,https://github.com/advisories/GHSA-7f2v-5877-rx3x,https://da.gd/qRZ9vA
+GithubAdvisories,[GHSA-93x8-66j2-wwr5] Server-Side Request Forgery in github.com/greenpau/caddy-security,https://github.com/advisories/GHSA-93x8-66j2-wwr5,https://da.gd/cRn1jQ
+GithubAdvisories,[GHSA-vfph-hjfv-cpv2] Improper Restriction of Excessive Authentication Attempts in github.com/greenpau/caddy-security,https://github.com/advisories/GHSA-vfph-hjfv-cpv2,https://da.gd/g3tF
+GithubAdvisories,[GHSA-r969-783f-6jqr] Improper Neutralization of HTTP Headers in github.com/greenpau/caddy-security,https://github.com/advisories/GHSA-r969-783f-6jqr,https://da.gd/s328v
+GithubAdvisories,[GHSA-vp66-gf7w-9m4x] Insufficient Session Expiration in github.com/greenpau/caddy-security,https://github.com/advisories/GHSA-vp66-gf7w-9m4x,https://da.gd/wOBAo
+GithubAdvisories,[GHSA-8hp3-rmr7-xh88] Open Redirect in github.com/greenpau/caddy-security,https://github.com/advisories/GHSA-8hp3-rmr7-xh88,https://da.gd/jsrgs
+GithubAdvisories,[GHSA-8h95-jcp5-pjpr] Improper Validation of Array Index in github.com/greenpau/caddy-security,https://github.com/advisories/GHSA-8h95-jcp5-pjpr,https://da.gd/VELF5
+GithubAdvisories,[GHSA-ff72-ff42-c3gw] Cross-site Scripting in github.com/greenpau/caddy-security,https://github.com/advisories/GHSA-ff72-ff42-c3gw,https://da.gd/HTdN
+GithubAdvisories,[GHSA-vj36-3ccr-6563] Authentication Bypass by Spoofing in github.com/greenpau/caddy-security,https://github.com/advisories/GHSA-vj36-3ccr-6563,https://da.gd/FPNCc
+GithubAdvisories,[GHSA-c7vf-m394-m4x4] Use of Insufficiently Random Values in github.com/greenpau/caddy-security,https://github.com/advisories/GHSA-c7vf-m394-m4x4,https://da.gd/b4MsL
+GithubAdvisories,[GHSA-x989-52fc-4vr4] Unencrypted traffic between pods when using Wireguard and an external kvstore,https://github.com/advisories/GHSA-x989-52fc-4vr4,https://da.gd/tGe5ig
+GithubAdvisories,[GHSA-7496-fgv9-xw82] Unencrypted ingress/health traffic when using Wireguard transparent encryption,https://github.com/advisories/GHSA-7496-fgv9-xw82,https://da.gd/TzGUK
+GithubAdvisories,[GHSA-3qpq-6w89-f7mx] Pimcore Host Header Injection in user invitation link,https://github.com/advisories/GHSA-3qpq-6w89-f7mx,https://da.gd/VxoMau
+GithubAdvisories,[GHSA-mcqj-7p29-9528] MantisBT Host Header Injection vulnerability,https://github.com/advisories/GHSA-mcqj-7p29-9528,https://da.gd/ODPne9
+GithubAdvisories,[GHSA-9w99-78rj-hmxq] Cross-site scripting (XSS) in the dynamic file uploads,https://github.com/advisories/GHSA-9w99-78rj-hmxq,https://da.gd/V68H0t
