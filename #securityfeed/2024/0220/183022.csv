@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f3qm-vfc3-jg6v] Possible CSRF attack at questionnaire templates preview,https://github.com/advisories/GHSA-f3qm-vfc3-jg6v,https://da.gd/0QUXK9
+GithubAdvisories,[GHSA-r275-j57c-7mf2] Race condition in Endorsements,https://github.com/advisories/GHSA-r275-j57c-7mf2,https://da.gd/DgjP
