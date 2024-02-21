@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-24rp-q3w6-vc56] org.postgresql:postgresql vulnerable to SQL Injection via line comment generation,https://github.com/advisories/GHSA-24rp-q3w6-vc56,https://da.gd/tviu
+GithubAdvisories,"[GHSA-hgr6-6hhw-883f] Liferay Portal Calendar module and Liferay DXP vulnerable to Cross-site Scripting, content spoofing",https://github.com/advisories/GHSA-hgr6-6hhw-883f,https://da.gd/EeDfm
+GithubAdvisories,[GHSA-rwhv-hvj2-qrqm] Liferay Portal Frontend JS module's portlet.js and Liferay DXP vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-rwhv-hvj2-qrqm,https://da.gd/k1B6iz
+GithubAdvisories,[GHSA-rwxc-4cmw-7x75] Liferay Portal and Liferay DXP vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-rwxc-4cmw-7x75,https://da.gd/Oql8Q
+GithubAdvisories,[GHSA-73x3-8mrg-5r93] Liferay Portal Language Override edit screen and Liferay DXP vulnerable to reflected Cross-site Scripting,https://github.com/advisories/GHSA-73x3-8mrg-5r93,https://da.gd/KN5feS
+GithubAdvisories,[GHSA-468x-frcm-ghx6] Liferay Portal and Liferay DXP vulnerable to reflected Cross-site Scripting,https://github.com/advisories/GHSA-468x-frcm-ghx6,https://da.gd/qbJZ1g
+GithubAdvisories,[GHSA-54pv-r62j-9qqc] Liferay Portal and Liferay DXP vulnerable to reflected Cross-site Scripting,https://github.com/advisories/GHSA-54pv-r62j-9qqc,https://da.gd/t77of
+GithubAdvisories,[GHSA-cr36-3vqf-x5w5] Liferay Portal Expando module and Liferay DXP vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-cr36-3vqf-x5w5,https://da.gd/AlAUPI
+GithubAdvisories,[GHSA-v2xq-m22w-jmpr] Liferay Portal and Liferay DXP's Users Admin module vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-v2xq-m22w-jmpr,https://da.gd/Ceu6y8
+GithubAdvisories,[GHSA-xpjg-7hx7-wgcx] Liferay Portal and Liferay DXP vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-xpjg-7hx7-wgcx,https://da.gd/PDQrsT
+GithubAdvisories,[GHSA-p28x-4r5h-ph6j] Liferay Portal Message Board widget and Liferay DXP vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-p28x-4r5h-ph6j,https://da.gd/FfWl
+GithubAdvisories,[GHSA-43v2-6grp-9pp9] Apache Tomcat does not enforce the maxHttpHeaderSize limit,https://github.com/advisories/GHSA-43v2-6grp-9pp9,https://da.gd/LCNIf
+GithubAdvisories,[GHSA-q2cv-7j58-rfmj] Liferay Portal Document and Media widget and Liferay DXP vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-q2cv-7j58-rfmj,https://da.gd/dCifa
+GithubAdvisories,[GHSA-84xv-jfrm-h4gm] registry-supper Path Traversal vulnerability,https://github.com/advisories/GHSA-84xv-jfrm-h4gm,https://da.gd/M4BV5H
+GithubAdvisories,[GHSA-r48h-jr2j-9g78] HashiCorp Terraform Amazon Web Services (AWS) uses an insecure PRNG,https://github.com/advisories/GHSA-r48h-jr2j-9g78,https://da.gd/0Cig
