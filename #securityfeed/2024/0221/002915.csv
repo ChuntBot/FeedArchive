@@ -1,0 +1,28 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7rw2-3hhp-rc46] Cross-site Scripting Vulnerability in Statement Browser,https://github.com/advisories/GHSA-7rw2-3hhp-rc46,https://da.gd/Eg3FUL
+GithubAdvisories,[GHSA-36xr-4x2f-cfj9] Deserialization of Untrusted Data in Apache Camel SQL,https://github.com/advisories/GHSA-36xr-4x2f-cfj9,https://da.gd/k280
+GithubAdvisories,[GHSA-m43p-55rf-8c2j] Deserialization of Untrusted Data in Apache Camel CassandraQL,https://github.com/advisories/GHSA-m43p-55rf-8c2j,https://da.gd/1H1gw
+GithubAdvisories,[GHSA-ff2w-wm48-jhqj] Arbitrary File Read Vulnerability in Apache Dolphinscheduler,https://github.com/advisories/GHSA-ff2w-wm48-jhqj,https://da.gd/pXdEJ
+GithubAdvisories,[GHSA-vjqc-g788-f378] Session Fixation Apache DolphinScheduler,https://github.com/advisories/GHSA-vjqc-g788-f378,https://da.gd/9aMdmG
+GithubAdvisories,[GHSA-37gx-jqx9-fwmg] Improper Certificate Validation in Apache DolphinScheduler,https://github.com/advisories/GHSA-37gx-jqx9-fwmg,https://da.gd/b2A9
+GithubAdvisories,[GHSA-qwxx-xww6-8q8m] Remote Code Execution in Apache Dolphinscheduler,https://github.com/advisories/GHSA-qwxx-xww6-8q8m,https://da.gd/zgHYpw
+GithubAdvisories,[GHSA-w3w6-26f2-p474] Broken Access Control in Spring Security With Direct Use of isFullyAuthenticated,https://github.com/advisories/GHSA-w3w6-26f2-p474,https://da.gd/FpOwBY
+GithubAdvisories,[GHSA-3jcv-5f9p-2f2p] Cross-site Scripting in electron-pdf,https://github.com/advisories/GHSA-3jcv-5f9p-2f2p,https://da.gd/JafFN5
+GithubAdvisories,[GHSA-p3rv-qj56-2fqx] Cross-site Scripting in Pyhtml2pdf,https://github.com/advisories/GHSA-p3rv-qj56-2fqx,https://da.gd/mEu49y
+GithubAdvisories,[GHSA-2557-x9mg-76w8] ASA-2024-002: Default `PrepareProposalHandler` may produce invalid proposals when used with default `SenderNonceMempool`,https://github.com/advisories/GHSA-2557-x9mg-76w8,https://da.gd/v7RelW
+GithubAdvisories,[GHSA-4j93-fm92-rp4m] ASA-2024-003: Missing `BlockedAddressed` Validation in Vesting Module,https://github.com/advisories/GHSA-4j93-fm92-rp4m,https://da.gd/pFHSB
+GithubAdvisories,[GHSA-5rwm-2xw8-hh9p] Deserialization of Untrusted Data in Torrentpier,https://github.com/advisories/GHSA-5rwm-2xw8-hh9p,https://da.gd/hpBF
+GithubAdvisories,[GHSA-cp68-qrhr-g9h8] MeshCentral cross-site websocket hijacking (CSWSH) vulnerability,https://github.com/advisories/GHSA-cp68-qrhr-g9h8,https://da.gd/SA64G
+GithubAdvisories,[GHSA-375g-39jq-vq7m] Potential buffer overflow in CBOR2 decoder,https://github.com/advisories/GHSA-375g-39jq-vq7m,https://da.gd/HexcnH
+GithubAdvisories,[GHSA-487g-3m3v-hjhq] Uncontrolled Resource Consumption in moodle,https://github.com/advisories/GHSA-487g-3m3v-hjhq,https://da.gd/SFad4
+GithubAdvisories,[GHSA-9r26-5w88-qhp9] Authorization Bypass in moodle,https://github.com/advisories/GHSA-9r26-5w88-qhp9,https://da.gd/PDiIz7
+GithubAdvisories,[GHSA-7pjp-fm93-p6pj] Cross-Site Request Forgery in moodle,https://github.com/advisories/GHSA-7pjp-fm93-p6pj,https://da.gd/0AY7Ry
+GithubAdvisories,[GHSA-jfrg-9hpq-9hvp] Improper Access Control in moodle,https://github.com/advisories/GHSA-jfrg-9hpq-9hvp,https://da.gd/Frqy
+GithubAdvisories,[GHSA-cp8m-h777-g4p3] Improper Access Control in moodle,https://github.com/advisories/GHSA-cp8m-h777-g4p3,https://da.gd/whK7Sj
+GithubAdvisories,[GHSA-6vjf-48fh-vxxj] Improper Handling of Parameters in moodle,https://github.com/advisories/GHSA-6vjf-48fh-vxxj,https://da.gd/xwiSab
+GithubAdvisories,[GHSA-xfg6-62px-cxc2] SQL injection in pgjdbc,https://github.com/advisories/GHSA-xfg6-62px-cxc2,https://da.gd/IUDhJG
+GithubAdvisories,[GHSA-3366-9287-7qpr] Path disclosure in JavaScript variable,https://github.com/advisories/GHSA-3366-9287-7qpr,https://da.gd/92t3CK
+GithubAdvisories,[GHSA-q3gg-m8hr-h4x4] Externally Controlled Format String in Scripting Functions,https://github.com/advisories/GHSA-q3gg-m8hr-h4x4,https://da.gd/rOwb1
+GithubAdvisories,[GHSA-6wr5-jmpr-mjcx] Uncaught Exception in Macro Expecting Native Function to Exist,https://github.com/advisories/GHSA-6wr5-jmpr-mjcx,https://da.gd/59wBdL
+GithubAdvisories,[GHSA-8xff-473h-f863] Uncaught Exception Handling Parsing Errors on Line Terminators,https://github.com/advisories/GHSA-8xff-473h-f863,https://da.gd/XR8DZ4
+GithubAdvisories,[GHSA-4265-ccf5-phj5] Apache Commons Compress: OutOfMemoryError unpacking broken Pack200 file,https://github.com/advisories/GHSA-4265-ccf5-phj5,https://da.gd/jC8aQ
