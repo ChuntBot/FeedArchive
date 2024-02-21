@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-4hfp-m9gv-m753] XWiki extension license information is public, exposing instance id and license holder details",https://github.com/advisories/GHSA-4hfp-m9gv-m753,https://da.gd/ZVXp
+GithubAdvisories,[GHSA-6vqw-3v5j-54x4] cryptography NULL pointer deference with pkcs12.serialize_key_and_certificates when called with a non-matching certificate and private key and an hmac_hash override,https://github.com/advisories/GHSA-6vqw-3v5j-54x4,https://da.gd/YGeyD
+GithubAdvisories,[GHSA-f3qr-qr4x-j273] php-svg-lib lacks path validation on font through SVG inline styles,https://github.com/advisories/GHSA-f3qr-qr4x-j273,https://da.gd/UHWMUu
+GithubAdvisories,[GHSA-vgv8-5cpj-qj2f] pymatgen vulnerable to arbitrary code execution when parsing a maliciously crafted JonesFaithfulTransformation transformation_string,https://github.com/advisories/GHSA-vgv8-5cpj-qj2f,https://da.gd/fFRG2
