@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-66c2-p8rh-qx87] baserCMS Cross-site Scripting vulnerability in Site search Feature,https://github.com/advisories/GHSA-66c2-p8rh-qx87,https://da.gd/hiy1t
+GithubAdvisories,[GHSA-77fc-4cv5-hmfr] baserCMS OS command injection vulnerability in Installer,https://github.com/advisories/GHSA-77fc-4cv5-hmfr,https://da.gd/go4D
+GithubAdvisories,[GHSA-f7w7-6pjc-wwm6] Apache Tomcat affected by vulnerability in TLS and SSL protocol,https://github.com/advisories/GHSA-f7w7-6pjc-wwm6,https://da.gd/fQf2BD
+GithubAdvisories,[GHSA-jjxq-m8h3-4vw5] baserCMS Cross-site Scripting vulnerability in Content Management,https://github.com/advisories/GHSA-jjxq-m8h3-4vw5,https://da.gd/tqFbG5
