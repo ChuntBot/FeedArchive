@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6xv9-957j-qfhg] Label Studio vulnerable to Cross-site Scripting if `` or `` are used in labeling config,https://github.com/advisories/GHSA-6xv9-957j-qfhg,https://da.gd/vJbNz
+GithubAdvisories,[GHSA-rc4p-p3j9-6577] pypqc private key retrieval vulnerability,https://github.com/advisories/GHSA-rc4p-p3j9-6577,https://da.gd/AISmAC
+GithubAdvisories,[GHSA-578p-fxmm-6229] Potentially untrusted input is rendered as HTML in final output,https://github.com/advisories/GHSA-578p-fxmm-6229,https://da.gd/L2ts90
+GithubAdvisories,[GHSA-pcm8-qqrp-w6qf] Enhavo Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-pcm8-qqrp-w6qf,https://da.gd/gNT1tb
+GithubAdvisories,[GHSA-c579-hhw5-cr3p] Enhavo Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-c579-hhw5-cr3p,https://da.gd/LvLhn8
+GithubAdvisories,[GHSA-38m8-5gfc-663g] Enhavo Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-38m8-5gfc-663g,https://da.gd/dvUW
+GithubAdvisories,[GHSA-fvv5-h29g-f6w5] User with ci:ReadAction permissions and write permissions to one path in a repository may copy objects from any path in the repository,https://github.com/advisories/GHSA-fvv5-h29g-f6w5,https://da.gd/ZPzlvU
+GithubAdvisories,[GHSA-9q24-hwmc-797x] Apache Answer Race Condition vulnerability,https://github.com/advisories/GHSA-9q24-hwmc-797x,https://da.gd/1mx4oQ
