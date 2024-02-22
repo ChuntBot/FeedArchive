@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r53h-jv2g-vpx6] Helm's Missing YAML Content Leads To Panic,https://github.com/advisories/GHSA-r53h-jv2g-vpx6,https://da.gd/zymxuj
+GithubAdvisories,[GHSA-rmqp-mvv2-54c6] Apache Answer Unrestricted Upload of File with Dangerous Type vulnerability,https://github.com/advisories/GHSA-rmqp-mvv2-54c6,https://da.gd/xFP6fw
+GithubAdvisories,[GHSA-8pf2-qj4v-fj64] Apache Answer Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-8pf2-qj4v-fj64,https://da.gd/PNHIpS
