@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-fmg4-x8pw-hjhg] Fiber has Insecure CORS Configuration, Allowing Wildcard Origin with Credentials",https://github.com/advisories/GHSA-fmg4-x8pw-hjhg,https://da.gd/2BjT6F
+GithubAdvisories,[GHSA-97m3-52wr-xvv2] Dompdf's usage of vulnerable version of phenx/php-svg-lib leads to restriction bypass and potential RCE,https://github.com/advisories/GHSA-97m3-52wr-xvv2,https://da.gd/O3lxp
