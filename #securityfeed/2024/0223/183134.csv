@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m7xj-ccqc-p4g2] Apache Tomcat Directory Traversal vulnerability,https://github.com/advisories/GHSA-m7xj-ccqc-p4g2,https://da.gd/8eAcO0
+GithubAdvisories,[GHSA-ccgv-vj62-xf9h] Spring Web vulnerable to Open Redirect or Server Side Request Forgery,https://github.com/advisories/GHSA-ccgv-vj62-xf9h,https://da.gd/o8k30m
+GithubAdvisories,[GHSA-2fc9-xpp8-2g9h] `@backstage/backend-common` vulnerable to path traversal through symlinks,https://github.com/advisories/GHSA-2fc9-xpp8-2g9h,https://da.gd/Fnos
