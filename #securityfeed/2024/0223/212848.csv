@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w8hx-f868-pvch] Openstack Neutron has Insufficient Verification of IPv6 addresses,https://github.com/advisories/GHSA-w8hx-f868-pvch,https://da.gd/wNRU
+GithubAdvisories,[GHSA-4433-4cxq-vv73] SimpleGeo python-oauth2 does not check the nonce allowing replay attacks,https://github.com/advisories/GHSA-4433-4cxq-vv73,https://da.gd/HI0Ds
+GithubAdvisories,[GHSA-cj7g-h7rf-h8j9] Apache Superset OS Command Injection,https://github.com/advisories/GHSA-cj7g-h7rf-h8j9,https://da.gd/jbVA
+GithubAdvisories,[GHSA-5w5c-3g26-8mmc] furlongm openvpn-monitor allows Authorization Bypass to disconnect arbitrary clients,https://github.com/advisories/GHSA-5w5c-3g26-8mmc,https://da.gd/rYvno
