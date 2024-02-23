@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-whh8-fjgc-qp73] Onnx Directory Traversal vulnerability,https://github.com/advisories/GHSA-whh8-fjgc-qp73,https://da.gd/866Iaj
+GithubAdvisories,[GHSA-rc6h-qwj9-2c53] Apache DolphinScheduler vulnerable to arbitrary JavaScript execution as root for authenticated users,https://github.com/advisories/GHSA-rc6h-qwj9-2c53,https://da.gd/MNyXST
