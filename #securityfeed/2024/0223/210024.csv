@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w3j6-8j34-q43x] Apache Libcloud does not verify SSL certificates for HTTPS connections,https://github.com/advisories/GHSA-w3j6-8j34-q43x,https://da.gd/6ZoGW
+GithubAdvisories,[GHSA-6748-36qp-fx6r] PyOpenSSL Mishandles NUL Byte In Certificate Subject Alternative Name,https://github.com/advisories/GHSA-6748-36qp-fx6r,https://da.gd/iGXr
+GithubAdvisories,[GHSA-cggm-52qp-wvw7] txAWS AWSServiceEndpoint defaults to not verifying server certificates,https://github.com/advisories/GHSA-cggm-52qp-wvw7,https://da.gd/Q5zK
+GithubAdvisories,[GHSA-7c4h-w765-6pwg] OISF suricata-update unsafely deserializes YAML data,https://github.com/advisories/GHSA-7c4h-w765-6pwg,https://da.gd/YVACWn
+GithubAdvisories,[GHSA-rv25-9wgj-xg75] Apache Airflow Reflected Cross-site Scripting vulnerability in 404 Endpoint,https://github.com/advisories/GHSA-rv25-9wgj-xg75,https://da.gd/oDow8C
+GithubAdvisories,[GHSA-g892-9h8m-r69r] Libcloud does not properly scrub data when destroying a DigitalOcean node,https://github.com/advisories/GHSA-g892-9h8m-r69r,https://da.gd/Dv4nG
+GithubAdvisories,[GHSA-mffc-9gx5-99g3] python-kerberos vulnerable to KDC spoofing attacks,https://github.com/advisories/GHSA-mffc-9gx5-99g3,https://da.gd/USHRL
+GithubAdvisories,[GHSA-4258-vcjw-wwxx] furlongm openvpn-monitor command injection,https://github.com/advisories/GHSA-4258-vcjw-wwxx,https://da.gd/cMnRR
+GithubAdvisories,[GHSA-vqxw-9pg7-v7v9] Locust Stored Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-vqxw-9pg7-v7v9,https://da.gd/ityx
+GithubAdvisories,[GHSA-f8m3-jpxr-hm5x] bsdiff4 out-of-bounds write via patch file,https://github.com/advisories/GHSA-f8m3-jpxr-hm5x,https://da.gd/KsfNmg
+GithubAdvisories,[GHSA-jjgh-m322-fjx6] Openstack Octavia Access Control Vulnerability,https://github.com/advisories/GHSA-jjgh-m322-fjx6,https://da.gd/ftGF
