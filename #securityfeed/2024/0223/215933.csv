@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cpx3-696p-3cw9] OpenStack Neutron Denial of Service vulnerability,https://github.com/advisories/GHSA-cpx3-696p-3cw9,https://da.gd/IzWc
+GithubAdvisories,[GHSA-fh73-gjvg-349c] OpenStack Neutron vulnerable to authenticated attackers reconfiguring dnsmasq via crafted extra_dhcp_opts value,https://github.com/advisories/GHSA-fh73-gjvg-349c,https://da.gd/kLQwPP
+GithubAdvisories,[GHSA-hvm4-mc7m-22w4] OpenStack Neutron vulnerable to hardware address impersonation,https://github.com/advisories/GHSA-hvm4-mc7m-22w4,https://da.gd/X6DM
