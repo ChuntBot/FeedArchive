@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pwr2-4v36-6qpr] orjson does not limit recursion for deeply nested JSON documents,https://github.com/advisories/GHSA-pwr2-4v36-6qpr,https://da.gd/mXj4LP
+GithubAdvisories,[GHSA-qpxm-689r-3849] Apache Camel data exposure vulnerability,https://github.com/advisories/GHSA-qpxm-689r-3849,https://da.gd/0lp6u
