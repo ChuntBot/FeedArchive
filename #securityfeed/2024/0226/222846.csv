@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c372-x57p-6x7v] Apache Geronimo Application Server multiple cross-site scripting (XSS) vulnerabilities,https://github.com/advisories/GHSA-c372-x57p-6x7v,https://da.gd/qyeFr
+GithubAdvisories,[GHSA-q6h8-4j2v-pjg4] Minder trusts client-provided mapping from repo name to upstream ID,https://github.com/advisories/GHSA-q6h8-4j2v-pjg4,https://da.gd/LLQeq
+GithubAdvisories,[GHSA-qv4x-v2v4-f8p9] Kirby CMS HTML injection vulnerability,https://github.com/advisories/GHSA-qv4x-v2v4-f8p9,https://da.gd/vh6p
+GithubAdvisories,[GHSA-785g-282q-pwvx] Rack CORS Middleware has Insecure File Permissions,https://github.com/advisories/GHSA-785g-282q-pwvx,https://da.gd/XLavh
+GithubAdvisories,[GHSA-672r-97r7-vx2q] pretix mishandles file validation,https://github.com/advisories/GHSA-672r-97r7-vx2q,https://da.gd/gvtzf9
