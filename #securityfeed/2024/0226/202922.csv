@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rggv-cv7r-mw98] Connection leaking on idle timeout when TCP congested,https://github.com/advisories/GHSA-rggv-cv7r-mw98,https://da.gd/3GQW7p
+GithubAdvisories,[GHSA-4hwq-4cpm-8vmx] Vyper's `extract32` can ready dirty memory,https://github.com/advisories/GHSA-4hwq-4cpm-8vmx,https://da.gd/KASJw
+GithubAdvisories,[GHSA-9p8r-4xp4-gw5w] Vyper's `_abi_decode` vulnerable to Memory Overflow,https://github.com/advisories/GHSA-9p8r-4xp4-gw5w,https://da.gd/jn0rqK
+GithubAdvisories,[GHSA-84c3-j8r2-mcm8] @nfid/embed has compromised private key due to @dfinity/auth-client producing insecure session keys,https://github.com/advisories/GHSA-84c3-j8r2-mcm8,https://da.gd/JdLKY
+GithubAdvisories,[GHSA-6749-m5cp-6cg7] Cross-site Scripting in MLFlow,https://github.com/advisories/GHSA-6749-m5cp-6cg7,https://da.gd/LGH8
+GithubAdvisories,[GHSA-hx5q-v6pj-533r] SAML authentication bypass due to missing validation on unsigned SAML messages,https://github.com/advisories/GHSA-hx5q-v6pj-533r,https://da.gd/jtlu
+GithubAdvisories,[GHSA-4m6j-23p2-8c54] Armeria SAML authentication bypass due to missing validation on unsigned SAML messages,https://github.com/advisories/GHSA-4m6j-23p2-8c54,https://da.gd/g9fCnc
+GithubAdvisories,[GHSA-p4m5-32pr-2hqr] PyPop C extensions possible vulnerability: missing arguments and redundant null pointers,https://github.com/advisories/GHSA-p4m5-32pr-2hqr,https://da.gd/mgOVzh
+GithubAdvisories,[GHSA-4gmj-3p3h-gm8h] es5-ext vulnerable to Regular Expression Denial of Service in `function#copy` and `function#toStringTokens`,https://github.com/advisories/GHSA-4gmj-3p3h-gm8h,https://da.gd/t0GfLb
+GithubAdvisories,"[GHSA-63h4-w25c-3qv4] Kirby vulnerable to Cross-site scripting (XSS) in the link field ""Custom"" type",https://github.com/advisories/GHSA-63h4-w25c-3qv4,https://da.gd/PzBEC
