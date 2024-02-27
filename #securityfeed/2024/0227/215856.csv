@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3v79-q7ph-j75h] MLFlow Cross-site Scripting vulnerability leads to client-side Remote Code Execution,https://github.com/advisories/GHSA-3v79-q7ph-j75h,https://da.gd/60qsg
+GithubAdvisories,[GHSA-mg4v-rf8p-ghqq] Apache Tomcat allows remote attackers to bypass intended access restrictions,https://github.com/advisories/GHSA-mg4v-rf8p-ghqq,https://da.gd/4WUj2
+GithubAdvisories,[GHSA-gvgc-rxmh-5hvw] Apache Tomcat affected by infinite loop in Double.parseDouble method in Java Runtime Environment,https://github.com/advisories/GHSA-gvgc-rxmh-5hvw,https://da.gd/BQjv7B
+GithubAdvisories,[GHSA-86h5-xcpx-cfqc] ASA-2024-005: Potential slashing evasion during re-delegation,https://github.com/advisories/GHSA-86h5-xcpx-cfqc,https://da.gd/YAUgR
+GithubAdvisories,[GHSA-7p7q-fjfw-v3gf] Bagisto Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-7p7q-fjfw-v3gf,https://da.gd/tMXrG
+GithubAdvisories,[GHSA-jw7r-rxff-gv24] Apache James MIME4J improper input validation vulnerability,https://github.com/advisories/GHSA-jw7r-rxff-gv24,https://da.gd/Q8WD
+GithubAdvisories,[GHSA-xh6m-7cr7-xx66] Missing permission checks on Hazelcast client protocol,https://github.com/advisories/GHSA-xh6m-7cr7-xx66,https://da.gd/2gUcq
+GithubAdvisories,[GHSA-qrp9-23p7-g5mf] Apache Ambari XML External Entity injection,https://github.com/advisories/GHSA-qrp9-23p7-g5mf,https://da.gd/lPSyn
+GithubAdvisories,[GHSA-33w6-hvmq-gh4x] diffoscope Path Traversal vulnerability,https://github.com/advisories/GHSA-33w6-hvmq-gh4x,https://da.gd/6oZ7L
+GithubAdvisories,[GHSA-q4qh-8pxw-r48q] Subrion CMS vulnerable to Cross Site Scripting,https://github.com/advisories/GHSA-q4qh-8pxw-r48q,https://da.gd/91gY
+GithubAdvisories,[GHSA-xxf8-fpmr-fw7v] Subrion CMS vulnerable to SQL Injection,https://github.com/advisories/GHSA-xxf8-fpmr-fw7v,https://da.gd/wnJad3
+GithubAdvisories,[GHSA-gp6m-fq6h-cjcx] Magento LTS vulnerable to stored XSS in admin file form,https://github.com/advisories/GHSA-gp6m-fq6h-cjcx,https://da.gd/pWgX
+GithubAdvisories,[GHSA-8h22-8cf7-hq6g] Rails has possible Sensitive Session Information Leak in Active Storage,https://github.com/advisories/GHSA-8h22-8cf7-hq6g,https://da.gd/Al5We
+GithubAdvisories,[GHSA-9822-6m93-xqf4] Rails has possible XSS Vulnerability in Action Controller,https://github.com/advisories/GHSA-9822-6m93-xqf4,https://da.gd/yJnMg2
+GithubAdvisories,[GHSA-jjhx-jhvp-74wq] Rails has possible ReDoS vulnerability in Accept header parsing in Action Dispatch,https://github.com/advisories/GHSA-jjhx-jhvp-74wq,https://da.gd/oXjD
