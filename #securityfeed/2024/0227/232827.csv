@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-px7w-c9gw-7gj3] Apache James server: Privilege escalation via JMX pre-authentication deserialization,https://github.com/advisories/GHSA-px7w-c9gw-7gj3,https://da.gd/c0pprR
