@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,sogo: update to 5.10.0,https://github.com/mailcow/mailcow-dockerized/commit/35f039a119bd0588ad025efec591f2d1a90551c7,https://da.gd/hFN4Bk
+GithubCommitStaging,sogo: add new options to sogo.conf for update 5.10.0,https://github.com/mailcow/mailcow-dockerized/commit/d7430bf516ecd756a4384eca3d7a7a442b94aa93,https://da.gd/bAQU
+GithubCommitStaging,Merge pull request #5765 from mailcow/feat/sogo-5.10,https://github.com/mailcow/mailcow-dockerized/commit/1fb0060a739dad642a3929156823daa9ee9f20e5,https://da.gd/nfwd
