@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qp56-82vp-xqgv] Mezzanine allows attackers to bypass access control mechanisms,https://github.com/advisories/GHSA-qp56-82vp-xqgv,https://da.gd/1xr96b
+GithubAdvisories,[GHSA-rc2r-w8jv-vggp] Cloud Foundry vulnerable to Improper Certificate Validation,https://github.com/advisories/GHSA-rc2r-w8jv-vggp,https://da.gd/qi3Dy
+GithubAdvisories,[GHSA-22f2-v57c-j9cx] Rack vulnerable to ReDoS in content type parsing (2nd degree polynomial),https://github.com/advisories/GHSA-22f2-v57c-j9cx,https://da.gd/NRKGS
+GithubAdvisories,[GHSA-xj5v-6v4g-jfw6] Rack has possible DoS Vulnerability with Range Header,https://github.com/advisories/GHSA-xj5v-6v4g-jfw6,https://da.gd/LqYYN
+GithubAdvisories,[GHSA-54rr-7fvw-6x8f] Rack Header Parsing leads to Possible Denial of Service Vulnerability,https://github.com/advisories/GHSA-54rr-7fvw-6x8f,https://da.gd/fo3uo
