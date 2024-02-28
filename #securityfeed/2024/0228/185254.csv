@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ch6p-4jcm-h8vh] Moderate severity vulnerability that affects Microsoft.AspNetCore.Mvc and Microsoft.AspNetCore.Mvc.Core,https://github.com/advisories/GHSA-ch6p-4jcm-h8vh,https://da.gd/qenHi
+GithubAdvisories,[GHSA-fj69-p8f6-q97h] Cloud Foundry Runtime has Weak Password Recovery Mechanism for Forgotten Password,https://github.com/advisories/GHSA-fj69-p8f6-q97h,https://da.gd/GBTSn
+GithubAdvisories,[GHSA-crv8-r5wq-gv2w] webui-aria2 Path Traversal vulnerability,https://github.com/advisories/GHSA-crv8-r5wq-gv2w,https://da.gd/QwOz3
+GithubAdvisories,[GHSA-j2pw-vp55-fqqj] Flask-AppBuilder vulnerable to incorrect authentication when using auth type OpenID,https://github.com/advisories/GHSA-j2pw-vp55-fqqj,https://da.gd/9SgMw
+GithubAdvisories,[GHSA-fqxj-46wg-9v84] Flask-AppBuilder's OAuth login page subject to Cross Site Scripting (XSS),https://github.com/advisories/GHSA-fqxj-46wg-9v84,https://da.gd/z4JqiM
+GithubAdvisories,[GHSA-5474-f7g5-273q] Apache Superset: Improper validation of SQL statements allows for unauthorized access to data,https://github.com/advisories/GHSA-5474-f7g5-273q,https://da.gd/AFOAG
+GithubAdvisories,[GHSA-m6jm-3v38-76j4] Apache Superset: Improper Neutralization of custom SQL on embedded context,https://github.com/advisories/GHSA-m6jm-3v38-76j4,https://da.gd/4RQCK
+GithubAdvisories,[GHSA-h7r6-8qmm-hj5r] Apache Superset: Improper error handling on alerts,https://github.com/advisories/GHSA-h7r6-8qmm-hj5r,https://da.gd/YSdv0o
