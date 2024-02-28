@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gqvf-3hgp-5hxv] Gradio Exposure of Sensitive Information to an Unauthorized Actor vulnerability,https://github.com/advisories/GHSA-gqvf-3hgp-5hxv,https://da.gd/pBevK
+GithubAdvisories,[GHSA-8mq4-9jjh-9xrc] YARD's default template vulnerable to Cross-site Scripting in generated frames.html,https://github.com/advisories/GHSA-8mq4-9jjh-9xrc,https://da.gd/hd0ibX
+GithubAdvisories,[GHSA-wr6g-9wcr-cmqj] Apache Superset: Improper data authorization when creating a new dataset,https://github.com/advisories/GHSA-wr6g-9wcr-cmqj,https://da.gd/jwHP69
+GithubAdvisories,[GHSA-mpv3-g527-fqrj] Cloud Foundry Runtime Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-mpv3-g527-fqrj,https://da.gd/mEuGL
