@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cq6m-74r4-x77g] Cloud Foundry Runtime has Weak Password Recovery Mechanism for Forgotten Password,https://github.com/advisories/GHSA-cq6m-74r4-x77g,https://da.gd/e5w9Y
+GithubAdvisories,[GHSA-h533-q6jc-qx28] Cloud Foundry Runtime Insufficient Session Expiration vulnerability,https://github.com/advisories/GHSA-h533-q6jc-qx28,https://da.gd/GWjcb
