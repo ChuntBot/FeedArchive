@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jq57-3w7p-vwvv] Docassemble unauthorized access through URL manipulation,https://github.com/advisories/GHSA-jq57-3w7p-vwvv,https://da.gd/8NyX8
+GithubAdvisories,[GHSA-pcfx-g2j2-f6f6] Docassemble HTML and javascript injection,https://github.com/advisories/GHSA-pcfx-g2j2-f6f6,https://da.gd/8KJ75
+GithubAdvisories,[GHSA-7wxf-r2qv-9xwr] Docassemble open redirect,https://github.com/advisories/GHSA-7wxf-r2qv-9xwr,https://da.gd/fE4w8
