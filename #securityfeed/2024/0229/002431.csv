@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w7gj-h6f2-x4c6] fabric8-maven-plugin: insecure way to construct Yaml Object leading to remote code execution,https://github.com/advisories/GHSA-w7gj-h6f2-x4c6,https://da.gd/bYCgkD
+GithubAdvisories,[GHSA-hxgw-7539-pv7r] Cloud Foundry denial of service vulnerability,https://github.com/advisories/GHSA-hxgw-7539-pv7r,https://da.gd/ooUHKb
+GithubAdvisories,[GHSA-4m8c-h7fr-gq5c] Cloud Foundry vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-4m8c-h7fr-gq5c,https://da.gd/ydpD
