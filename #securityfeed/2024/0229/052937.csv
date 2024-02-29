@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4g9r-vxhx-9pgx] Apache Commons Compress: Denial of service caused by an infinite loop for a corrupted DUMP file,https://github.com/advisories/GHSA-4g9r-vxhx-9pgx,https://da.gd/6GTZtT
+GithubAdvisories,[GHSA-3w4h-r27h-4r2w] TYPO3 Image Processing susceptible to Code Execution,https://github.com/advisories/GHSA-3w4h-r27h-4r2w,https://da.gd/Zc6j4K
