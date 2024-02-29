@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q76r-7p4q-mqpw] Cockpit CMS Cross-Site Scripting vulnerability,https://github.com/advisories/GHSA-q76r-7p4q-mqpw,https://da.gd/B2xp
+GithubAdvisories,[GHSA-6v6w-h8m6-7mv2] Apache Airflow: DAG Code and Import Error Permissions Ignored,https://github.com/advisories/GHSA-6v6w-h8m6-7mv2,https://da.gd/gfU4f
+GithubAdvisories,[GHSA-vf7j-cmrj-pmmm] ZenML Server Remote Privilege Escalation Vulnerability,https://github.com/advisories/GHSA-vf7j-cmrj-pmmm,https://da.gd/KcVJy
