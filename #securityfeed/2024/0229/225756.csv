@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vm9m-57jr-4pxh] Mattermost fails to limit the number of role names,https://github.com/advisories/GHSA-vm9m-57jr-4pxh,https://da.gd/29nXaS
+GithubAdvisories,[GHSA-3g35-v53r-gpxc] Mattermost race condition,https://github.com/advisories/GHSA-3g35-v53r-gpxc,https://da.gd/M3zpta
+GithubAdvisories,[GHSA-hwjf-4667-gqwx] Mattermost allows attackers access to posts in channels they are not a member of,https://github.com/advisories/GHSA-hwjf-4667-gqwx,https://da.gd/ll3R
+GithubAdvisories,"[GHSA-pfw6-5rx3-xh3c] Mattermost fails to check the ""invite_guest"" permission",https://github.com/advisories/GHSA-pfw6-5rx3-xh3c,https://da.gd/SZcJp
+GithubAdvisories,[GHSA-6mx3-9qfh-77gj] Mattermost denial of service through long emoji value,https://github.com/advisories/GHSA-6mx3-9qfh-77gj,https://da.gd/BEqt
+GithubAdvisories,[GHSA-7v3v-984v-h74r] Mattermost leaks details of AD/LDAP groups of a teams,https://github.com/advisories/GHSA-7v3v-984v-h74r,https://da.gd/V21h
+GithubAdvisories,[GHSA-xgxj-j98c-59rv] Mattermost fails to properly restrict the access of files attached to posts,https://github.com/advisories/GHSA-xgxj-j98c-59rv,https://da.gd/1OKu
+GithubAdvisories,[GHSA-fx48-xv6q-6gp3] Mattermost post fetching without auditing in compliance export,https://github.com/advisories/GHSA-fx48-xv6q-6gp3,https://da.gd/AdBMw
