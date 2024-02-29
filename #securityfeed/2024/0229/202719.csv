@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6p5q-h963-pwwf] Apache AGE: Python and Golang drivers allow data manipulation and exposure due to SQL injection,https://github.com/advisories/GHSA-6p5q-h963-pwwf,https://da.gd/SBdVy
+GithubAdvisories,[GHSA-49w7-5r33-jm9m] http-swagger XSS via PUT requests,https://github.com/advisories/GHSA-49w7-5r33-jm9m,https://da.gd/BcSgS
+GithubAdvisories,[GHSA-3hrr-xwvg-hxvr] Keycloak DoS via account lockout,https://github.com/advisories/GHSA-3hrr-xwvg-hxvr,https://da.gd/j1J97
+GithubAdvisories,[GHSA-6qvw-249j-h44c] jose4j denial of service via specifically crafted JWE,https://github.com/advisories/GHSA-6qvw-249j-h44c,https://da.gd/IMgVJl
+GithubAdvisories,[GHSA-9xxv-q6pp-96wq] Concrete CMS Stored XSS,https://github.com/advisories/GHSA-9xxv-q6pp-96wq,https://da.gd/MWo66
+GithubAdvisories,[GHSA-45m2-8q7f-93wv] Concrete CMS Cross Site Request Forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-45m2-8q7f-93wv,https://da.gd/CYlH5J
+GithubAdvisories,[GHSA-9vx6-7xxf-x967] OpenZeppelin Contracts base64 encoding may read from potentially dirty memory,https://github.com/advisories/GHSA-9vx6-7xxf-x967,https://da.gd/wFdVsE
+GithubAdvisories,[GHSA-3rxx-8f33-7p6p] Concrete CMS Cross Site Request Forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-3rxx-8f33-7p6p,https://da.gd/B1gac
