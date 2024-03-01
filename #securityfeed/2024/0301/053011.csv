@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cxg2-49rq-8gcr] Apache Tomcat does not properly handle an invalid Transfer-Encoding header,https://github.com/advisories/GHSA-cxg2-49rq-8gcr,https://da.gd/UmGmm
+GithubAdvisories,[GHSA-44jg-jgjx-3xg5] Liferay Portal's Dynamic Data Mapping module's DDMForm and Liferay DXP vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-44jg-jgjx-3xg5,https://da.gd/efBTq
