@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hp2x-6vrm-7j7v] Apache Archiva Reflected Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-hp2x-6vrm-7j7v,https://da.gd/DGeddD
+GithubAdvisories,[GHSA-9q6v-rxmw-g3gh] Apache Ambari: Various Cross site scripting problems,https://github.com/advisories/GHSA-9q6v-rxmw-g3gh,https://da.gd/1dblKO
+GithubAdvisories,[GHSA-6xwf-xvf3-v459] Apache Airflow: Incorrect Default Permissions in audit logs for Ops and Viewers users,https://github.com/advisories/GHSA-6xwf-xvf3-v459,https://da.gd/1Gom0
+GithubAdvisories,[GHSA-5hj9-m76g-xrc8] Apache HDFS Provider error message suggested,https://github.com/advisories/GHSA-5hj9-m76g-xrc8,https://da.gd/6EzHsL
