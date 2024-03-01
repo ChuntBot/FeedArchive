@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rv4h-m4wc-v99w] Apache Archiva Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-rv4h-m4wc-v99w,https://da.gd/mRd60
+GithubAdvisories,[GHSA-h595-vwhc-3xwx] Apache Archiva Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-h595-vwhc-3xwx,https://da.gd/nt5N
+GithubAdvisories,[GHSA-cw9c-v3v2-99hm] Blind SQL Injection with privileged Cloud Foundry UAA endpoints,https://github.com/advisories/GHSA-cw9c-v3v2-99hm,https://da.gd/2WRie
+GithubAdvisories,[GHSA-pgjc-gc7g-p2c6] Cloud Foundry UAA Privilege Escalation,https://github.com/advisories/GHSA-pgjc-gc7g-p2c6,https://da.gd/uxkIq
+GithubAdvisories,[GHSA-5mhg-wv8w-p59j] Directus version number disclosure,https://github.com/advisories/GHSA-5mhg-wv8w-p59j,https://da.gd/VekNCm
+GithubAdvisories,[GHSA-8p25-3q46-8q2p] ESPHome vulnerable to remote code execution via arbitrary file write,https://github.com/advisories/GHSA-8p25-3q46-8q2p,https://da.gd/bXQvpb
+GithubAdvisories,[GHSA-4g2x-vq5p-5vj6] Budibase affected by VM2 Constructor Escape Vulnerability,https://github.com/advisories/GHSA-4g2x-vq5p-5vj6,https://da.gd/xc0GT
+GithubAdvisories,[GHSA-6927-3vr9-fxf2] ZDI-CAN-19105: Parse Server literalizeRegexPart SQL Injection,https://github.com/advisories/GHSA-6927-3vr9-fxf2,https://da.gd/SumUY4
+GithubAdvisories,[GHSA-w5mx-334j-6fwv] Bagist Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-w5mx-334j-6fwv,https://da.gd/HNEkF
+GithubAdvisories,[GHSA-jcmh-x32v-7mgf] Cloud Foundry UAA privilege escalation with user invitations,https://github.com/advisories/GHSA-jcmh-x32v-7mgf,https://da.gd/FXuSJ
+GithubAdvisories,[GHSA-j4p3-2m2h-cv5f] Cloud Foundry UAA Denial of Service through client token revocation endpoint,https://github.com/advisories/GHSA-j4p3-2m2h-cv5f,https://da.gd/Gj4Ib
+GithubAdvisories,[GHSA-9frw-wmvq-5rrc] Cloud Foundry UAA Identity Zone Admin Privilege Escalation,https://github.com/advisories/GHSA-9frw-wmvq-5rrc,https://da.gd/X2AE3
