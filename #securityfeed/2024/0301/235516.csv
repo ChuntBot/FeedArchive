@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xh4m-99qp-w483] Cloud Foundry UAA open redirect,https://github.com/advisories/GHSA-xh4m-99qp-w483,https://da.gd/pe6qxN
+GithubAdvisories,[GHSA-r4v8-9hgx-vm6m] Cloud Foundry UAA accepts refresh token as access token on admin endpoints,https://github.com/advisories/GHSA-r4v8-9hgx-vm6m,https://da.gd/IezGTU
+GithubAdvisories,[GHSA-j97q-9xp9-g5fx] Pivotal Cloud Foundry UAA XSS on UAA OpenID Connect check session iframe endpoint,https://github.com/advisories/GHSA-j97q-9xp9-g5fx,https://da.gd/iXKkL
+GithubAdvisories,[GHSA-xg5v-696h-c3vr] Cloud Foundry UAA SessionID present in Audit Event Logs,https://github.com/advisories/GHSA-xg5v-696h-c3vr,https://da.gd/4AeX
+GithubAdvisories,[GHSA-8v97-gv3g-32rf] UAA privilege escalation across identity zones,https://github.com/advisories/GHSA-8v97-gv3g-32rf,https://da.gd/2NBZRq
+GithubAdvisories,[GHSA-292x-hjr8-226f] Cloud Foundry UAA Privilege Escalation,https://github.com/advisories/GHSA-292x-hjr8-226f,https://da.gd/nRnvBi
+GithubAdvisories,[GHSA-h3m7-rqc4-7h9p] Integer overflow in chunking helper causes dispatching to miss elements or panic,https://github.com/advisories/GHSA-h3m7-rqc4-7h9p,https://da.gd/7mVAuw
