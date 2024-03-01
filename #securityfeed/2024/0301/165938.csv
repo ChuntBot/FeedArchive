@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qw9g-7549-7wg5] Directus has MySQL accent insensitive email matching,https://github.com/advisories/GHSA-qw9g-7549-7wg5,https://da.gd/nnHVww
+GithubAdvisories,[GHSA-fffg-cwc9-xvj7] mongo-express Cross-site Request Forgery vulnerability,https://github.com/advisories/GHSA-fffg-cwc9-xvj7,https://da.gd/e1A06v
+GithubAdvisories,[GHSA-68c2-4mpx-qh95] Potential leakage of Sentry auth tokens by React Native SDK with Expo plugin,https://github.com/advisories/GHSA-68c2-4mpx-qh95,https://da.gd/JKkn
+GithubAdvisories,[GHSA-6jvg-hp25-42f6] Nteract Remote Code Execution vulnerability,https://github.com/advisories/GHSA-6jvg-hp25-42f6,https://da.gd/xosuIR
+GithubAdvisories,[GHSA-vr64-r9qj-h27f] Clojure Denial of Service vulnerability,https://github.com/advisories/GHSA-vr64-r9qj-h27f,https://da.gd/zYC6F
+GithubAdvisories,[GHSA-75x2-6h4m-h6mx] FullStackHero's WebAPI Boilerplate host header injection vulnerability,https://github.com/advisories/GHSA-75x2-6h4m-h6mx,https://da.gd/6avpF
+GithubAdvisories,[GHSA-c8v6-786g-vjx6] json-jwt allows bypass of identity checks via a sign/encryption confusion attack,https://github.com/advisories/GHSA-c8v6-786g-vjx6,https://da.gd/JeK7
+GithubAdvisories,[GHSA-6294-6rgp-fr7r] jose2go vulnerable to denial of service via large p2c value,https://github.com/advisories/GHSA-6294-6rgp-fr7r,https://da.gd/0M6I2
+GithubAdvisories,[GHSA-rm97-x556-q36h] sanitize-html Information Exposure vulnerability,https://github.com/advisories/GHSA-rm97-x556-q36h,https://da.gd/uX6WE
