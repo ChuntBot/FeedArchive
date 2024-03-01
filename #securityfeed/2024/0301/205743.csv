@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rghc-9fhx-h32m] Apache Ambari: authenticated users could perform command injection to perform RCE,https://github.com/advisories/GHSA-rghc-9fhx-h32m,https://da.gd/ag6N1
