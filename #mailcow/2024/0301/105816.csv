@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubCommitStaging,helper: remove old SOGo repo to not break builds on ARM64,https://github.com/mailcow/mailcow-dockerized/commit/d92ffe8fc791abb613e5d1c56511411fed6d7c7e,https://da.gd/BVe7Kd
