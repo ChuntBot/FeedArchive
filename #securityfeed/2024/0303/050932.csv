@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h8wv-9h96-m4hr] Onnx Out-of-bounds Read vulnerability,https://github.com/advisories/GHSA-h8wv-9h96-m4hr,https://da.gd/N91O
+GithubAdvisories,[GHSA-vw35-c8hf-fwmq] furlongm openvpn-monitor allows CSRF to disconnect an arbitrary client,https://github.com/advisories/GHSA-vw35-c8hf-fwmq,https://da.gd/MOstO7
+GithubAdvisories,[GHSA-q4v3-wmm6-hcrx] pyrad is vulnerable to the use of Insufficiently Random Values,https://github.com/advisories/GHSA-q4v3-wmm6-hcrx,https://da.gd/R7kHbM
