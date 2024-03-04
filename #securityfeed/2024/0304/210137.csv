@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qh3m-qw6v-qvhg] Moderate severity vulnerability that affects io.vertx:vertx-core,https://github.com/advisories/GHSA-qh3m-qw6v-qvhg,https://da.gd/DeOFU5
+GithubAdvisories,[GHSA-7cc2-r658-7xpf] Coder's OIDC authentication allows email with partially matching domain to register,https://github.com/advisories/GHSA-7cc2-r658-7xpf,https://da.gd/TWrFUx
+GithubAdvisories,[GHSA-7jwh-3vrq-q3m8] pgproto3 SQL Injection via Protocol Message Size Overflow,https://github.com/advisories/GHSA-7jwh-3vrq-q3m8,https://da.gd/iRRfKB
+GithubAdvisories,[GHSA-jr83-m233-gg6p] Sulu grants access to pages regardless of role permissions,https://github.com/advisories/GHSA-jr83-m233-gg6p,https://da.gd/fwKxK
+GithubAdvisories,[GHSA-r8w9-5wcg-vfj7] Mio's tokens for named pipes may be delivered after deregistration,https://github.com/advisories/GHSA-r8w9-5wcg-vfj7,https://da.gd/vP53Y
+GithubAdvisories,"[GHSA-fqg8-vfv7-8fj8] JSONata expression can pollute the ""Object"" prototype",https://github.com/advisories/GHSA-fqg8-vfv7-8fj8,https://da.gd/6G6r7C
+GithubAdvisories,[GHSA-fgxv-gw55-r5fq] Authorization Bypass Through User-Controlled Key in go-zero,https://github.com/advisories/GHSA-fgxv-gw55-r5fq,https://da.gd/Pqnuyh
+GithubAdvisories,[GHSA-mrww-27vc-gghv] pgx SQL Injection via Protocol Message Size Overflow,https://github.com/advisories/GHSA-mrww-27vc-gghv,https://da.gd/fykPzA
+GithubAdvisories,[GHSA-r4pf-3v7r-hh55] electron-builder's NSIS installer - execute arbitrary code on the target machine (Windows only),https://github.com/advisories/GHSA-r4pf-3v7r-hh55,https://da.gd/v2P1uh
+GithubAdvisories,[GHSA-jr22-8qgm-4q87] phpseclib does not properly limit the ASN1 OID length,https://github.com/advisories/GHSA-jr22-8qgm-4q87,https://da.gd/hk29
+GithubAdvisories,[GHSA-hg35-mp25-qf6h] phpseclib a large prime can cause a denial of service,https://github.com/advisories/GHSA-hg35-mp25-qf6h,https://da.gd/jjzbR
