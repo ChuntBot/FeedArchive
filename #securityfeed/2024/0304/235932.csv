@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wr5r-m8pc-85j9] Improper Restriction of XML External Entity Reference in org.springframework.integration:spring-integration-ws and org.springframework.integration:spring-integration-xml,https://github.com/advisories/GHSA-wr5r-m8pc-85j9,https://da.gd/f3LLF7
