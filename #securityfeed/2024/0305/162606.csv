@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-86fc-f9gr-v533] HTTP Handling Vulnerability in the Bare server,https://github.com/advisories/GHSA-86fc-f9gr-v533,https://da.gd/KVxge5
+GithubAdvisories,"[GHSA-v627-69v2-xx37] `GetRepositoryByName`, `DeleteRepositoryByName` and `GetArtifactByName` allow access of arbitrary repositories in Minder by any authenticated user",https://github.com/advisories/GHSA-v627-69v2-xx37,https://da.gd/cXhYUb
+GithubAdvisories,[GHSA-hrqr-jv8w-v9jh] Insufficient permission checking in `Deno.makeTemp*` APIs,https://github.com/advisories/GHSA-hrqr-jv8w-v9jh,https://da.gd/iIrvg
