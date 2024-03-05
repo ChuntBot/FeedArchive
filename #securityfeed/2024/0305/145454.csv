@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3qwc-47jf-5rf7] eth-abi is vulnerable to recursive DoS,https://github.com/advisories/GHSA-3qwc-47jf-5rf7,https://da.gd/rAAhx
+GithubAdvisories,[GHSA-jw44-4f3j-q396] Helm shows secrets in clear text,https://github.com/advisories/GHSA-jw44-4f3j-q396,https://da.gd/VIin
+GithubAdvisories,[GHSA-v759-3fh9-84mx] Jenkins directory traversal vulnerability,https://github.com/advisories/GHSA-v759-3fh9-84mx,https://da.gd/zWvfz
+GithubAdvisories,[GHSA-rxfv-gm5x-9wqj] Jenkin allows attackers to obtain passwords by reading the HTML source code,https://github.com/advisories/GHSA-rxfv-gm5x-9wqj,https://da.gd/GLMAfO
+GithubAdvisories,[GHSA-vxc6-wvh8-fpxw] Jenkins does not invalidate the API token when a user is deleted,https://github.com/advisories/GHSA-vxc6-wvh8-fpxw,https://da.gd/UwFe
+GithubAdvisories,[GHSA-9vg9-x38g-9hfx] Jenkins allows attackers to determine whether a user exists,https://github.com/advisories/GHSA-9vg9-x38g-9hfx,https://da.gd/8pTSwh
+GithubAdvisories,[GHSA-fxj8-cqcp-3vgq] Jenkins cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-fxj8-cqcp-3vgq,https://da.gd/3luh9Z
+GithubAdvisories,[GHSA-8jfx-h6q2-v4g3] Jenkins session fixation vulnerability,https://github.com/advisories/GHSA-8jfx-h6q2-v4g3,https://da.gd/FooWXc
+GithubAdvisories,[GHSA-vj6q-v2h7-6q5m] Jenkins cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-vj6q-v2h7-6q5m,https://da.gd/sQSt8J
+GithubAdvisories,[GHSA-pv88-j6rg-r56p] Jenkins allows attackers to obtain sensitive information,https://github.com/advisories/GHSA-pv88-j6rg-r56p,https://da.gd/JxVTrP
+GithubAdvisories,[GHSA-7fpg-pp3m-h22f] Jenkins allows attackers to execute arbitrary jobs,https://github.com/advisories/GHSA-7fpg-pp3m-h22f,https://da.gd/fx04o
