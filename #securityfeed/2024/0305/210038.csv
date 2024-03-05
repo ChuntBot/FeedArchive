@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m4pq-fv2w-6hrw] Deno's deno_runtime vulnerable to interactive permission prompt spoofing via improper ANSI stripping,https://github.com/advisories/GHSA-m4pq-fv2w-6hrw,https://da.gd/wsvZq
+GithubAdvisories,[GHSA-wrqv-pf6j-mqjp] Deno's Node.js Compatibility Runtime has Cross-Session Data Contamination,https://github.com/advisories/GHSA-wrqv-pf6j-mqjp,https://da.gd/gCq2
