@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cgqf-3cq5-wvcj] Apollo Router's Compressed Payloads do not respect HTTP Payload Limits,https://github.com/advisories/GHSA-cgqf-3cq5-wvcj,https://da.gd/GE2hh
