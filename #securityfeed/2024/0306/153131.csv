@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-26w3-q4j8-4xjp] 1Panel open source panel project has an unauthorized vulnerability,https://github.com/advisories/GHSA-26w3-q4j8-4xjp,https://da.gd/q1373
+GithubAdvisories,[GHSA-9p43-hj5j-96h5] esphome vulnerable to stored Cross-site Scripting in edit configuration file API,https://github.com/advisories/GHSA-9p43-hj5j-96h5,https://da.gd/6TfcRZ
+GithubAdvisories,[GHSA-c69x-5xmw-v44x] CasaOS Improper Restriction of Excessive Authentication Attempts vulnerability,https://github.com/advisories/GHSA-c69x-5xmw-v44x,https://da.gd/rfcs
+GithubAdvisories,[GHSA-c967-2652-gfjm] CasaOS Username Enumeration,https://github.com/advisories/GHSA-c967-2652-gfjm,https://da.gd/oEh1Br
+GithubAdvisories,[GHSA-jwfr-h6jp-9p2g] Jenkins allows attackers to obtain the master cryptographic key,https://github.com/advisories/GHSA-jwfr-h6jp-9p2g,https://da.gd/zXNEa7
+GithubAdvisories,[GHSA-h5gf-cmm8-cg7c] CasaOS-UserService allows unauthorized access to any file,https://github.com/advisories/GHSA-h5gf-cmm8-cg7c,https://da.gd/bDfee
+GithubAdvisories,[GHSA-h5jv-hg68-mjhg] Jenkins allows attackers to configure restricted projects,https://github.com/advisories/GHSA-h5jv-hg68-mjhg,https://da.gd/5iAOfB
+GithubAdvisories,[GHSA-c2f9-4jmm-v45m] Shopware's session is persistent in Cache for 404 pages,https://github.com/advisories/GHSA-c2f9-4jmm-v45m,https://da.gd/91SuNZ
