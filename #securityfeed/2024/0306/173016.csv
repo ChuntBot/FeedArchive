@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p2gx-4434-pf6g] Apache InLong Deserialization of Untrusted Data Vulnerability,https://github.com/advisories/GHSA-p2gx-4434-pf6g,https://da.gd/r6PV
+GithubAdvisories,[GHSA-h5cg-53g7-gqjw] RPyC's missing security check results in code execution when using numpy.array on the server-side,https://github.com/advisories/GHSA-h5cg-53g7-gqjw,https://da.gd/FQI1b
+GithubAdvisories,[GHSA-4m7h-34xm-4wjv] Concrete CMS Stored Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-4m7h-34xm-4wjv,https://da.gd/gwYAh8
+GithubAdvisories,[GHSA-3j27-563v-28wf] *const c_void / ExternalPointer unsoundness leading to use-after-free,https://github.com/advisories/GHSA-3j27-563v-28wf,https://da.gd/PbfIvj
+GithubAdvisories,[GHSA-6q4w-9x56-rmwq] Deno arbitrary file descriptor close via `op_node_ipc_pipe()` leading to permission prompt bypass,https://github.com/advisories/GHSA-6q4w-9x56-rmwq,https://da.gd/NIUEc
+GithubAdvisories,[GHSA-5frw-4rwq-xhcr] Deno's improper suffix match testing for DENO_AUTH_TOKENS,https://github.com/advisories/GHSA-5frw-4rwq-xhcr,https://da.gd/sgQX6
+GithubAdvisories,[GHSA-3p3p-cgj7-vgw3] RSSHub vulnerable to Server-Side Request Forgery,https://github.com/advisories/GHSA-3p3p-cgj7-vgw3,https://da.gd/CXJs5D
+GithubAdvisories,[GHSA-2wqw-hr4f-xrhh] RSSHub Cross-site Scripting vulnerability caused by internal media proxy,https://github.com/advisories/GHSA-2wqw-hr4f-xrhh,https://da.gd/akFh8g
+GithubAdvisories,[GHSA-h6j3-j35f-v2x7] PocketMine-MP server crash with certain invalid JSON payloads in `LoginPacket` due to dependency vulnerability (3rd time),https://github.com/advisories/GHSA-h6j3-j35f-v2x7,https://da.gd/X5Y0f
+GithubAdvisories,[GHSA-xc7j-wj36-qjfr] PocketMine-MP BookEditPacket crash when inventory slot in the packet is invalid,https://github.com/advisories/GHSA-xc7j-wj36-qjfr,https://da.gd/F73g3
