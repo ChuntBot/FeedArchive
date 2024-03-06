@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mr9j-qqjh-67f2] Jenkins Subversion Partial Release Manager Plugin missing permission check,https://github.com/advisories/GHSA-mr9j-qqjh-67f2,https://da.gd/OTPx
+GithubAdvisories,[GHSA-rv35-69ff-g9gv] Jenkins Subversion Partial Release Manager Plugin vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-rv35-69ff-g9gv,https://da.gd/jpyN
+GithubAdvisories,[GHSA-5j74-g3c5-wqww] Jenkins GitBucket Plugin vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-5j74-g3c5-wqww,https://da.gd/MCABcE
+GithubAdvisories,[GHSA-xxv9-w5hm-328j] Jenkins AppSpider Plugin missing permission checks,https://github.com/advisories/GHSA-xxv9-w5hm-328j,https://da.gd/CnaFf4
