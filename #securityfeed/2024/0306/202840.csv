@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8h2m-54wh-gwj3] Jenkins docker-build-step Plugin missing permission check,https://github.com/advisories/GHSA-8h2m-54wh-gwj3,https://da.gd/cDW0
+GithubAdvisories,[GHSA-64c5-r2h5-c2fg] Jenkins docker-build-step Plugin Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-64c5-r2h5-c2fg,https://da.gd/2nNi2j
+GithubAdvisories,[GHSA-pfh3-j79r-vqrj] Jenkins Delphix Plugin has improper SSL/TLS certificate validation,https://github.com/advisories/GHSA-pfh3-j79r-vqrj,https://da.gd/Nk4j4
+GithubAdvisories,[GHSA-xj36-6xc6-8p9x] Jenkins Delphix Plugin has SSL/TLS certificate validation disabled by default,https://github.com/advisories/GHSA-xj36-6xc6-8p9x,https://da.gd/o0uf7O
+GithubAdvisories,[GHSA-2pc2-h97h-2mmw] Jenkins iceScrum Plugin vulnerable to stored Cross-site Scripting,https://github.com/advisories/GHSA-2pc2-h97h-2mmw,https://da.gd/P5Ao6I
+GithubAdvisories,[GHSA-5pf6-2qwx-pxm2] Go SDK for CloudEvents's use of WithRoundTripper to create a Client leaks credentials,https://github.com/advisories/GHSA-5pf6-2qwx-pxm2,https://da.gd/GMiF
+GithubAdvisories,[GHSA-j857-7rvv-vj97] JWCrypto vulnerable to JWT bomb Attack in `deserialize` function,https://github.com/advisories/GHSA-j857-7rvv-vj97,https://da.gd/Yk4G3
