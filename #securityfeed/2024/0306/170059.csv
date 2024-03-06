@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r3w7-mfpm-c2vw] Incorrect TLS certificate auth method in Vault,https://github.com/advisories/GHSA-r3w7-mfpm-c2vw,https://da.gd/Ns0nj
+GithubAdvisories,[GHSA-f6g2-h7qv-3m5v] Remote Code Execution by uploading a phar file using frontmatter,https://github.com/advisories/GHSA-f6g2-h7qv-3m5v,https://da.gd/sdY42
