@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hhhv-q57g-882q] jose vulnerable to resource exhaustion via specifically crafted JWE with compressed plaintext,https://github.com/advisories/GHSA-hhhv-q57g-882q,https://da.gd/JOs6fK
