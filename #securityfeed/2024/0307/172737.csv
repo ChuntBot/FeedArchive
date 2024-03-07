@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-75jp-vq8x-h4cq] Wasmi Out-of-bounds Write for host to Wasm calls with more than 128 Parameters,https://github.com/advisories/GHSA-75jp-vq8x-h4cq,https://da.gd/fdunD7
+GithubAdvisories,[GHSA-mrmm-qmrj-xgp6] PaddlePaddle vulnerable to remote code execution,https://github.com/advisories/GHSA-mrmm-qmrj-xgp6,https://da.gd/Olcdkn
+GithubAdvisories,[GHSA-j7jm-8gf5-frcm] nGrinder vulnerable to unsafe Java objects deserialization,https://github.com/advisories/GHSA-j7jm-8gf5-frcm,https://da.gd/x5mSM5
+GithubAdvisories,[GHSA-qqv2-35q8-p2g2] PaddlePaddle command injection in paddle.utils.download._wget_download,https://github.com/advisories/GHSA-qqv2-35q8-p2g2,https://da.gd/4kc9K
+GithubAdvisories,[GHSA-fh54-3vhg-mpc2] PaddlePaddle command injection vulnerability,https://github.com/advisories/GHSA-fh54-3vhg-mpc2,https://da.gd/5jNPsB
