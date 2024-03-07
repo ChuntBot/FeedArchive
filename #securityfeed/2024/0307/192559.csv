@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5mxf-42f5-j782] Grafana's users with permissions to create a data source can CRUD all data sources,https://github.com/advisories/GHSA-5mxf-42f5-j782,https://da.gd/gRGAuK
