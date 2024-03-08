@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xhjw-7vh5-qxqm] LibOSDP RMAC revert to the beginning of the session,https://github.com/advisories/GHSA-xhjw-7vh5-qxqm,https://da.gd/f9DxIb
+GithubAdvisories,[GHSA-7945-5mcv-f2pp] LibOSDP vulnerable to a null pointer deref in osdp_reply_name,https://github.com/advisories/GHSA-7945-5mcv-f2pp,https://da.gd/jERN
