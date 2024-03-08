@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hj3v-m684-v259] JWX vulnerable to a denial of service attack using compressed JWE message,https://github.com/advisories/GHSA-hj3v-m684-v259,https://da.gd/GtMU
