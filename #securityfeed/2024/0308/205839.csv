@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6wcr-wcqm-3mfh] Django settings leak in date template filter,https://github.com/advisories/GHSA-6wcr-wcqm-3mfh,https://da.gd/sDeFU
+GithubAdvisories,[GHSA-35jj-wx47-4w8r] WeasyPrint allows the attachment of arbitrary files and URLs to a PDF,https://github.com/advisories/GHSA-35jj-wx47-4w8r,https://da.gd/OhNHTz
