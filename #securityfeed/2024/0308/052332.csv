@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-22cc-w7xm-rfhx] Mezzanine allows attackers to bypass access controls via manipulating the Host header,https://github.com/advisories/GHSA-22cc-w7xm-rfhx,https://da.gd/AQBfNM
