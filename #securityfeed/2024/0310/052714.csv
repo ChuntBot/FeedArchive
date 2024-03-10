@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r4fm-g65h-cr54] Mattermost incorrectly allows access individual posts,https://github.com/advisories/GHSA-r4fm-g65h-cr54,https://da.gd/FJbKU1
+GithubAdvisories,[GHSA-v4cp-2q7v-hg9q] livehelperchat Server-Side Template Injection,https://github.com/advisories/GHSA-v4cp-2q7v-hg9q,https://da.gd/SMR7f
+GithubAdvisories,[GHSA-x577-gcc9-9xjj] Concrete CMS Stored XSS in Layout Preset Name,https://github.com/advisories/GHSA-x577-gcc9-9xjj,https://da.gd/jcfqVS
