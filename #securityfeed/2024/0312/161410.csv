@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2jx3-fx5f-r2c6] FFmpeg discovered to contain a code injection vulnerability in the component net.bramp.ffmpeg.FFmpeg,https://github.com/advisories/GHSA-2jx3-fx5f-r2c6,https://da.gd/0nED
+GithubAdvisories,[GHSA-95rx-m9m5-m94v] ASA-2024-006: ValidateVoteExtensions helper function in Cosmos SDK may allow incorrect voting power assumptions,https://github.com/advisories/GHSA-95rx-m9m5-m94v,https://da.gd/eX4yD
+GithubAdvisories,[GHSA-f78j-4w3g-4q65] StimulusReflex arbitrary method call,https://github.com/advisories/GHSA-f78j-4w3g-4q65,https://da.gd/FlG7N
