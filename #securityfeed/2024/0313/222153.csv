@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xp2r-g8qq-44hh] Apache Pulsar: Improper Input Validation in Pulsar Function Worker allows Remote Code Execution,https://github.com/advisories/GHSA-xp2r-g8qq-44hh,https://da.gd/QMIkHM
+GithubAdvisories,[GHSA-c35h-w8hj-mm55] Apache Pulsar: Improper Authentication for Pulsar Proxy Statistics Endpoint,https://github.com/advisories/GHSA-c35h-w8hj-mm55,https://da.gd/4rnK
