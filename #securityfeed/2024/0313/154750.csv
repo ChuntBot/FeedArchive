@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-78wx-jg4j-5j6g] quiche vulnerable to unlimited resource allocation by QUIC CRYPTO frames flooding,https://github.com/advisories/GHSA-78wx-jg4j-5j6g,https://da.gd/NSnK2z
+GithubAdvisories,[GHSA-xhg9-xwch-vr7x] quiche vulnerable to unbounded storage of information related to connection ID retirement,https://github.com/advisories/GHSA-xhg9-xwch-vr7x,https://da.gd/9C8Qn
+GithubAdvisories,[GHSA-pr2m-px7j-xg65] aiosmtpd vulnerable to SMTP smuggling,https://github.com/advisories/GHSA-pr2m-px7j-xg65,https://da.gd/UTCwvD
+GithubAdvisories,[GHSA-8g38-3m6v-232j] Potential log injection in reset user endpoint in CKAN,https://github.com/advisories/GHSA-8g38-3m6v-232j,https://da.gd/FtNNph
