@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8r3f-844c-mc37] Golang protojson.Unmarshal function infinite loop when unmarshaling certain forms of invalid JSON,https://github.com/advisories/GHSA-8r3f-844c-mc37,https://da.gd/2wn2
