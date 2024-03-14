@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cxjh-pqwp-8mfp] follow-redirects' Proxy-Authorization header kept across hosts,https://github.com/advisories/GHSA-cxjh-pqwp-8mfp,https://da.gd/dS75d
