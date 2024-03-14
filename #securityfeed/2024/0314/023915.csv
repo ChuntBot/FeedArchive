@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+ExploitDB,[local] KiTTY 0.76.1.13 - Command Injection,https://www.exploit-db.com/exploits/51892,https://da.gd/ju6n
+ExploitDB,[local] KiTTY 0.76.1.13 - 'Start Duplicated Session Username' Buffer Overflow,https://www.exploit-db.com/exploits/51891,https://da.gd/INtsDc
+ExploitDB,[local] KiTTY 0.76.1.13 - 'Start Duplicated Session Hostname' Buffer Overflow,https://www.exploit-db.com/exploits/51890,https://da.gd/Ntm0E
+ExploitDB,[remote] GitLab CE/EE < 16.7.2 - Password Reset,https://www.exploit-db.com/exploits/51889,https://da.gd/2zmxl
+ExploitDB,[remote] Ruijie Switch PSG-5124 26293 - Remote Code Execution (RCE),https://www.exploit-db.com/exploits/51888,https://da.gd/QTPCrI
+ExploitDB,[remote] Viessmann Vitogate 300 2.1.3.0 - Remote Code Execution (RCE),https://www.exploit-db.com/exploits/51887,https://da.gd/p9Toi
+ExploitDB,[remote] SolarView Compact 6.00 - Command Injection,https://www.exploit-db.com/exploits/51886,https://da.gd/2sU1qS
+ExploitDB,[remote] Honeywell PM43 < P10.19.050004 - Remote Code Execution (RCE),https://www.exploit-db.com/exploits/51885,https://da.gd/k3dq25
