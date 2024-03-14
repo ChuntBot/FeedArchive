@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c2x9-vw5h-39vc] Apache Pulsar: Pulsar Functions Worker Allows Unauthorized File Access and Unauthorized HTTP/HTTPS Proxying,https://github.com/advisories/GHSA-c2x9-vw5h-39vc,https://da.gd/YLkHA
+GithubAdvisories,[GHSA-jg2g-4rjg-cmqh] Apache Pulsar: Pulsar Functions Worker's Archive Extraction Vulnerability Allows Unauthorized File Modification,https://github.com/advisories/GHSA-jg2g-4rjg-cmqh,https://da.gd/GYOmIY
