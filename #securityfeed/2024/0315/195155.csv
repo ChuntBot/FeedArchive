@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jwv5-8mqv-g387] Cross-site scripting on application summary component,https://github.com/advisories/GHSA-jwv5-8mqv-g387,https://da.gd/XPzEU
+GithubAdvisories,[GHSA-qmgx-j96g-4428] SSRF vulnerability using the Aegis DataBinding in Apache CXF,https://github.com/advisories/GHSA-qmgx-j96g-4428,https://da.gd/BiGz
+GithubAdvisories,[GHSA-r978-9m6m-6gm6] Apache ZooKeeper vulnerable to information disclosure in persistent watchers handling,https://github.com/advisories/GHSA-r978-9m6m-6gm6,https://da.gd/sU0yw
