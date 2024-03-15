@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-32jq-mv89-5rx7] CoreWCF NetFraming based services can leave connections open when they should be closed,https://github.com/advisories/GHSA-32jq-mv89-5rx7,https://da.gd/1FeJ8
+GithubAdvisories,[GHSA-879p-8gw4-mcpw] fgr Vulnerable to Insecure Default Variable Initialization,https://github.com/advisories/GHSA-879p-8gw4-mcpw,https://da.gd/Lc0xo
