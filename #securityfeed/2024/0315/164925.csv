@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-494h-9924-xww9] Pterodactyl Wings vulnerable to improper isolation of server file access,https://github.com/advisories/GHSA-494h-9924-xww9,https://da.gd/dggt1
+GithubAdvisories,[GHSA-5h3x-6gwf-73jm] vantage6 vulnerable to a username timing attack on recover password/MFA token,https://github.com/advisories/GHSA-5h3x-6gwf-73jm,https://da.gd/jePQU
+GithubAdvisories,[GHSA-4946-85pr-fvxh] vantage6's CORS settings overly permissive,https://github.com/advisories/GHSA-4946-85pr-fvxh,https://da.gd/WKj6
+GithubAdvisories,[GHSA-wx8q-4gm9-rj2g] Fluid vulnerable to OS Command Injection for Fluid Users with JuicefsRuntime,https://github.com/advisories/GHSA-wx8q-4gm9-rj2g,https://da.gd/wn2Hak
+GithubAdvisories,[GHSA-g623-jcgg-mhmm] Users with `create` but not `override` privileges can perform local sync,https://github.com/advisories/GHSA-g623-jcgg-mhmm,https://da.gd/1d81ny
+GithubAdvisories,[GHSA-7w75-32cg-r6g2] Apache Tomcat Denial of Service due to improper input validation vulnerability for HTTP/2 requests,https://github.com/advisories/GHSA-7w75-32cg-r6g2,https://da.gd/QSp4J
