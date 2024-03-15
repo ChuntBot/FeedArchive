@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4jhj-3gv3-c3gr] CLI for Vela Insecure Variable Substitution,https://github.com/advisories/GHSA-4jhj-3gv3-c3gr,https://da.gd/Elle
+GithubAdvisories,[GHSA-7v38-w32m-wx4m] Types for Vela Insecure Variable Substitution,https://github.com/advisories/GHSA-7v38-w32m-wx4m,https://da.gd/MUkB
+GithubAdvisories,[GHSA-69p4-j5v5-x234] Server/API for Vela Insecure Variable Substitution,https://github.com/advisories/GHSA-69p4-j5v5-x234,https://da.gd/0GiHaX
+GithubAdvisories,[GHSA-v8mx-hp2q-gw85] Golang SDK for Vela Insecure Variable Substitution,https://github.com/advisories/GHSA-v8mx-hp2q-gw85,https://da.gd/d43zJ
+GithubAdvisories,[GHSA-2qph-qpvm-2qf7] tls-listener affected by the slow loris vulnerability with default configuration,https://github.com/advisories/GHSA-2qph-qpvm-2qf7,https://da.gd/B8qw
+GithubAdvisories,[GHSA-mp76-7w5v-pr75] TurboBoost Commands vulnerable to arbitrary method invocation,https://github.com/advisories/GHSA-mp76-7w5v-pr75,https://da.gd/k5bTE
