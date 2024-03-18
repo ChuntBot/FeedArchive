@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v6q2-4qr3-5cw6] Unencrypted traffic between nodes when using WireGuard and L7 policies,https://github.com/advisories/GHSA-v6q2-4qr3-5cw6,https://da.gd/Uqzp8w
+GithubAdvisories,[GHSA-j89h-qrvr-xc36] Unencrypted traffic between nodes when using IPsec and L7 policies,https://github.com/advisories/GHSA-j89h-qrvr-xc36,https://da.gd/D3rEfE
+GithubAdvisories,[GHSA-68mj-9pjq-mc85] Intermittent HTTP policy bypass,https://github.com/advisories/GHSA-68mj-9pjq-mc85,https://da.gd/ghnrZ
+GithubAdvisories,"[GHSA-x7mf-wrh9-r76c] XSS via the ""Snapshot Test"" feature in Classic Webcam plugin settings",https://github.com/advisories/GHSA-x7mf-wrh9-r76c,https://da.gd/MLJojt
+GithubAdvisories,[GHSA-2vgg-9h6w-m454] Bypassing Rate Limit and Brute Force Protection Using Cache Overflow,https://github.com/advisories/GHSA-2vgg-9h6w-m454,https://da.gd/ldjq2H
+GithubAdvisories,[GHSA-6v85-wr92-q4p7] Denial of Service (DoS) Vulnerability Due to Unsafe Array Modification in Multi-threaded Environment,https://github.com/advisories/GHSA-6v85-wr92-q4p7,https://da.gd/MlBBt
+GithubAdvisories,[GHSA-h2x6-5jx5-46hf] RCE in TranformGraph().to_dot_graph function,https://github.com/advisories/GHSA-h2x6-5jx5-46hf,https://da.gd/jYB9t
+GithubAdvisories,[GHSA-f3jh-qvm4-mg39] Erroneous authentication pass in Spring Security,https://github.com/advisories/GHSA-f3jh-qvm4-mg39,https://da.gd/cQ18DU
