@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x2h8-qmj4-g62f] ROTP 6.2.2 and 6.2.1 has 0666 permissions for the .rb files,https://github.com/advisories/GHSA-x2h8-qmj4-g62f,https://da.gd/IUO2
+GithubAdvisories,[GHSA-x32m-mvfj-52xv] Bypassing Brute Force Protection via Application Crash and In-Memory Data Loss,https://github.com/advisories/GHSA-x32m-mvfj-52xv,https://da.gd/ZsQJ
