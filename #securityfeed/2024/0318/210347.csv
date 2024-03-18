@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rj29-j2g4-77q8] [TagAwareCipher] - Decryption Failure (Regex Match),https://github.com/advisories/GHSA-rj29-j2g4-77q8,https://da.gd/pu0nDP
+GithubAdvisories,[GHSA-vcc3-rw6f-jv97] Use-after-free in libxml2 via Nokogiri::XML::Reader,https://github.com/advisories/GHSA-vcc3-rw6f-jv97,https://da.gd/rEwt
+GithubAdvisories,[GHSA-wj85-w4f4-xh8h] Denial of service via regular expression,https://github.com/advisories/GHSA-wj85-w4f4-xh8h,https://da.gd/Iee3Q
+GithubAdvisories,[GHSA-5vcc-86wm-547q] Improper Privilege Management in djangorestframework-simplejwt,https://github.com/advisories/GHSA-5vcc-86wm-547q,https://da.gd/fULH0
+GithubAdvisories,[GHSA-vm8q-m57g-pff3] Regular expression denial-of-service in Django,https://github.com/advisories/GHSA-vm8q-m57g-pff3,https://da.gd/O5LO
+GithubAdvisories,[GHSA-wjv8-pxr6-5f4r] Gadget chain in Symfony 1 due to vulnerable Swift Mailer dependency,https://github.com/advisories/GHSA-wjv8-pxr6-5f4r,https://da.gd/mxE1O
+GithubAdvisories,[GHSA-hfrg-4jwr-jfpj] Improper HTML sanitization in ZITADEL,https://github.com/advisories/GHSA-hfrg-4jwr-jfpj,https://da.gd/15qVSE
