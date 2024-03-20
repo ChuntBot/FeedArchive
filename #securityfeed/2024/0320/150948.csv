@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fg9v-56hw-g525] GeoServer's Simple SVG Renderer vulnerable to Stored Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-fg9v-56hw-g525,https://da.gd/WxaDdw
+GithubAdvisories,[GHSA-9rfr-pf2x-g4xf] GeoServer's Style Publisher vulnerable to Stored Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-9rfr-pf2x-g4xf,https://da.gd/OL4Yf
+GithubAdvisories,[GHSA-9v5q-2gwq-q9hq] Arbitrary file upload vulnerability in GeoServer's REST Coverage Store API,https://github.com/advisories/GHSA-9v5q-2gwq-q9hq,https://da.gd/LCGUhm
+GithubAdvisories,[GHSA-fh7p-5f6g-vj2w] Stored Cross-Site Scripting (XSS) vulnerability in GeoServer's REST Resources API,https://github.com/advisories/GHSA-fh7p-5f6g-vj2w,https://da.gd/uN9BgU
+GithubAdvisories,[GHSA-75m5-hh4r-q9gx] GeoServer Arbitrary file renaming vulnerability in REST Coverage/Data Store API,https://github.com/advisories/GHSA-75m5-hh4r-q9gx,https://da.gd/Hf3GIw
+GithubAdvisories,[GHSA-8g7v-vjrc-x4g5] GeoServer log file path traversal vulnerability,https://github.com/advisories/GHSA-8g7v-vjrc-x4g5,https://da.gd/xltEZc
