@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x4x5-jv3x-9c7m] `qiskit_ibm_runtime.RuntimeDecoder` can execute arbitrary code,https://github.com/advisories/GHSA-x4x5-jv3x-9c7m,https://da.gd/KQ2cY
+GithubAdvisories,[GHSA-cq96-9974-v8hm] Dynamic Variable Evaluation in qiskit-ibm-runtime,https://github.com/advisories/GHSA-cq96-9974-v8hm,https://da.gd/TVcYv
