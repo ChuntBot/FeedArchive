@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9j39-4686-m3c4] Ibexa Kernel's files with blacklisted extensions can be still saved to drafts,https://github.com/advisories/GHSA-9j39-4686-m3c4,https://da.gd/VEYVa
+GithubAdvisories,[GHSA-mwvh-p3hx-x4gg] Ibexa Kernel's files with blacklisted extensions can be still saved to drafts,https://github.com/advisories/GHSA-mwvh-p3hx-x4gg,https://da.gd/uwhE
+GithubAdvisories,[GHSA-78hx-gp6g-7mj6] Memory leaks in code encrypting and verifying RSA payloads,https://github.com/advisories/GHSA-78hx-gp6g-7mj6,https://da.gd/dFIXf
