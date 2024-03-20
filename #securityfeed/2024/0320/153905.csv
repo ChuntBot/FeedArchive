@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8vvp-525h-cxf9] Cross-Site Request Forgery in Apache Wicket,https://github.com/advisories/GHSA-8vvp-525h-cxf9,https://da.gd/5abUC
+GithubAdvisories,[GHSA-f6g6-pjgc-5cj5] Improper Input Validation vulnerability in Apache Hop Engine,https://github.com/advisories/GHSA-f6g6-pjgc-5cj5,https://da.gd/stmUn
+GithubAdvisories,[GHSA-389c-cf87-qmwj] Cross-site Scripting in livewire/livewire,https://github.com/advisories/GHSA-389c-cf87-qmwj,https://da.gd/R9p6vk
+GithubAdvisories,[GHSA-fj7x-q9j7-g6q6] Black vulnerable to Regular Expression Denial of Service (ReDoS),https://github.com/advisories/GHSA-fj7x-q9j7-g6q6,https://da.gd/i8IVBY
+GithubAdvisories,[GHSA-w3vc-fx9p-wp4v] Jupyter Server Proxy's Websocket Proxying does not require authentication,https://github.com/advisories/GHSA-w3vc-fx9p-wp4v,https://da.gd/LG6Lw
+GithubAdvisories,[GHSA-88wc-fcj9-q3r9] GeoServer's GWC Demos Page vulnerable to Stored Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-88wc-fcj9-q3r9,https://da.gd/VFRacM
+GithubAdvisories,[GHSA-7x76-57fr-m5r5] GeoServer's MapML HTML Page vulnerable to Stored Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-7x76-57fr-m5r5,https://da.gd/viNcw
+GithubAdvisories,[GHSA-fcpm-hchj-mh72] GeoServer's WMS OpenLayers Format vulnerable to Stored Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-fcpm-hchj-mh72,https://da.gd/ACAdP
+GithubAdvisories,[GHSA-56r3-f536-5gf7] GeoServer's GWC Seed Form vulnerable to Stored Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-56r3-f536-5gf7,https://da.gd/cliC9
