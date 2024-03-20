@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-55m3-44xf-hg4h] GoogleOAuthenticator.hosted_domain incorrectly verifies membership of an Google organization/workspace,https://github.com/advisories/GHSA-55m3-44xf-hg4h,https://da.gd/chL3w
+GithubAdvisories,[GHSA-mq39-4gv4-mvpx] Moby's external DNS requests from 'internal' networks could lead to data exfiltration,https://github.com/advisories/GHSA-mq39-4gv4-mvpx,https://da.gd/TbrikZ
+GithubAdvisories,[GHSA-552f-97wf-pmpq] Umbraco possible user enumeration,https://github.com/advisories/GHSA-552f-97wf-pmpq,https://da.gd/2O4E8n
