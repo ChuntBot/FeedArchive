@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wr3j-pwj9-hqq6] Path traversal in webpack-dev-middleware,https://github.com/advisories/GHSA-wr3j-pwj9-hqq6,https://da.gd/MRZwG
+GithubAdvisories,"[GHSA-9w38-p64v-xpmv] Apache Commons Configuration: StackOverflowError calling ListDelimiterHandler.flatten(Object, int) with a cyclical object tree",https://github.com/advisories/GHSA-9w38-p64v-xpmv,https://da.gd/Jb8Pm
+GithubAdvisories,[GHSA-xjp4-hw94-mvp5] Apache Commons Configuration: StackOverflowError adding property in AbstractListDelimiterHandler.flattenIterator(),https://github.com/advisories/GHSA-xjp4-hw94-mvp5,https://da.gd/5Hev
+GithubAdvisories,[GHSA-xgj4-2hrf-j4xg] Cross-site scripting in Survey Creator,https://github.com/advisories/GHSA-xgj4-2hrf-j4xg,https://da.gd/ihaUb
+GithubAdvisories,[GHSA-4h5h-p23f-hjqf] SQL injection in Folio Spring Module Core,https://github.com/advisories/GHSA-4h5h-p23f-hjqf,https://da.gd/M4WP4
+GithubAdvisories,[GHSA-xgmm-3vvr-6c8j] Index out of bounds leading to crash,https://github.com/advisories/GHSA-xgmm-3vvr-6c8j,https://da.gd/HKX8wK
+GithubAdvisories,[GHSA-q7pp-wcgr-pffx] Crash when processing crafted TIFF files,https://github.com/advisories/GHSA-q7pp-wcgr-pffx,https://da.gd/18XTg
+GithubAdvisories,[GHSA-fx4w-v43j-vc45] SQL injection in typeORM,https://github.com/advisories/GHSA-fx4w-v43j-vc45,https://da.gd/hUBph
