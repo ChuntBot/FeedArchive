@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j4hq-f63x-f39r] Slow String Operations via MultiPart Requests in Event-Driven Functions,https://github.com/advisories/GHSA-j4hq-f63x-f39r,https://da.gd/okGk
+GithubAdvisories,[GHSA-882j-4vj5-7vmj] Cache Poisoning Vulnerability,https://github.com/advisories/GHSA-882j-4vj5-7vmj,https://da.gd/9cUru0
+GithubAdvisories,[GHSA-f5x3-32g6-xq36] Denial of service while parsing a tar file due to lack of folders count validation,https://github.com/advisories/GHSA-f5x3-32g6-xq36,https://da.gd/MMk3
+GithubAdvisories,[GHSA-pv9j-c53q-h433] Gadget chain in Symfony 1 due to uncontrolled unserialized input in sfNamespacedParameterHolder,https://github.com/advisories/GHSA-pv9j-c53q-h433,https://da.gd/qVlJ8o
+GithubAdvisories,[GHSA-2m7x-c7px-hp58] Server Side Template Injection (SSTI) via Twig escape handler,https://github.com/advisories/GHSA-2m7x-c7px-hp58,https://da.gd/wscrW
+GithubAdvisories,[GHSA-r6vw-8v8r-pmp4] Server Side Template Injection (SSTI),https://github.com/advisories/GHSA-r6vw-8v8r-pmp4,https://da.gd/i1Guab
