@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qfv4-q44r-g7rv] Server Side Template Injection (SSTI),https://github.com/advisories/GHSA-qfv4-q44r-g7rv,https://da.gd/BpiXS
+GithubAdvisories,[GHSA-c9gp-64c4-2rrh] Server-Side Template Injection (SSTI) with Grav CMS security sandbox bypass,https://github.com/advisories/GHSA-c9gp-64c4-2rrh,https://da.gd/Ar9W
+GithubAdvisories,[GHSA-m7hx-hw6h-mqmc] File Upload Path Traversal,https://github.com/advisories/GHSA-m7hx-hw6h-mqmc,https://da.gd/xSbTfF
