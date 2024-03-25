@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q7g6-xfh2-vhpx] phpMyFAQ stored Cross-site Scripting at user email,https://github.com/advisories/GHSA-q7g6-xfh2-vhpx,https://da.gd/nQCcZ
+GithubAdvisories,[GHSA-pwh2-fpfr-x5gf] phpMyFAQ's File Upload Bypass at Category Image Leads to RCE,https://github.com/advisories/GHSA-pwh2-fpfr-x5gf,https://da.gd/Q1AHvz
+GithubAdvisories,[GHSA-6p68-36m6-392r] phpMyFAQ Stored Cross-site Scripting at FAQ News Content,https://github.com/advisories/GHSA-6p68-36m6-392r,https://da.gd/fjxMh
+GithubAdvisories,[GHSA-2grw-mc9r-822r] phpMyFAQ SQL injections at insertentry & saveentry,https://github.com/advisories/GHSA-2grw-mc9r-822r,https://da.gd/7bNm5o
+GithubAdvisories,[GHSA-48vw-jpf8-hwqh] phpMyFAQ Stored HTML Injection at contentLink,https://github.com/advisories/GHSA-48vw-jpf8-hwqh,https://da.gd/JRHOn
+GithubAdvisories,[GHSA-hm8r-95g3-5hj9] phpMyFAQ Stored Cross-site Scripting at File Attachments,https://github.com/advisories/GHSA-hm8r-95g3-5hj9,https://da.gd/fTiUPX
+GithubAdvisories,"[GHSA-qgxx-4xv5-6hcw] phpMyFAQ SQL Injection at ""Save News""",https://github.com/advisories/GHSA-qgxx-4xv5-6hcw,https://da.gd/3fZy
+GithubAdvisories,[GHSA-v7px-46v9-5qwp] Storefront user can access history and most viewed data from matching back-office user with the same ID,https://github.com/advisories/GHSA-v7px-46v9-5qwp,https://da.gd/uabP
+GithubAdvisories,[GHSA-rf39-3f98-xr7r] WiX based installers are vulnerable to binary hijack when run as SYSTEM,https://github.com/advisories/GHSA-rf39-3f98-xr7r,https://da.gd/CmNM
+GithubAdvisories,[GHSA-jx4p-m4wm-vvjg] Malicious directory junction can cause WiX RemoveFoldersEx to possibly delete elevated files,https://github.com/advisories/GHSA-jx4p-m4wm-vvjg,https://da.gd/UZgg1
+GithubAdvisories,[GHSA-9xvf-cjvf-ff5q] WP Crontrol vulnerable to possible RCE when combined with a pre-condition,https://github.com/advisories/GHSA-9xvf-cjvf-ff5q,https://da.gd/pQ0ye
+GithubAdvisories,[GHSA-5jpm-x58v-624v] Netty's HttpPostRequestDecoder can OOM,https://github.com/advisories/GHSA-5jpm-x58v-624v,https://da.gd/lYMW4
+GithubAdvisories,[GHSA-vfmv-jfc5-pjjw] CarrierWave content-Type allowlist bypass vulnerability which possibly leads to XSS remained,https://github.com/advisories/GHSA-vfmv-jfc5-pjjw,https://da.gd/SSjF9
+GithubAdvisories,[GHSA-rv95-896h-c2vc] Express.js Open Redirect in malformed URLs,https://github.com/advisories/GHSA-rv95-896h-c2vc,https://da.gd/7heke
+GithubAdvisories,[GHSA-vxq2-p937-3px3] Pinned entity creation form shows wrong data,https://github.com/advisories/GHSA-vxq2-p937-3px3,https://da.gd/oF38X
