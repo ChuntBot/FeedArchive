@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3wc5-fcw2-2329] KaTeX missing normalization of the protocol in URLs allows bypassing forbidden protocols,https://github.com/advisories/GHSA-3wc5-fcw2-2329,https://da.gd/UPMHjm
+GithubAdvisories,[GHSA-f98w-7cxr-ff2h] KaTeX's `\includegraphics` does not escape filename,https://github.com/advisories/GHSA-f98w-7cxr-ff2h,https://da.gd/FAPGD
+GithubAdvisories,[GHSA-cvr6-37gx-v8wc] KaTeX's maxExpand bypassed by Unicode sub/superscripts,https://github.com/advisories/GHSA-cvr6-37gx-v8wc,https://da.gd/H0Ib
+GithubAdvisories,[GHSA-64fm-8hw2-v72w] KaTeX's maxExpand bypassed by `\edef`,https://github.com/advisories/GHSA-64fm-8hw2-v72w,https://da.gd/Tix06g
+GithubAdvisories,[GHSA-38jr-29fh-w9vm] ansys-geometry-core OS Command Injection vulnerability,https://github.com/advisories/GHSA-38jr-29fh-w9vm,https://da.gd/SzzrBW
+GithubAdvisories,[GHSA-jwrc-3v3f-5cq5] PaddlePaddle allows arbitrary file read via paddle.vision.ops.read_file,https://github.com/advisories/GHSA-jwrc-3v3f-5cq5,https://da.gd/mCIFe
+GithubAdvisories,[GHSA-246p-xmg8-wmcq] OneUptime Vulnerable to a Privilege Escalation via Local Storage Key Manipulation,https://github.com/advisories/GHSA-246p-xmg8-wmcq,https://da.gd/vwx9R
+GithubAdvisories,[GHSA-592j-995h-p23j] RDoc RCE vulnerability with .rdoc_options,https://github.com/advisories/GHSA-592j-995h-p23j,https://da.gd/dAa8
+GithubAdvisories,[GHSA-v5h6-c2hv-hv3r] StringIO buffer overread vulnerability,https://github.com/advisories/GHSA-v5h6-c2hv-hv3r,https://da.gd/aA5VY
+GithubAdvisories,[GHSA-87qp-7cw8-8q9c] web3-utils Prototype Pollution vulnerability,https://github.com/advisories/GHSA-87qp-7cw8-8q9c,https://da.gd/Ng5C
+GithubAdvisories,[GHSA-g4v6-69p6-q3p4] WiX Burn-based bundles are vulnerable to binary hijack when run as SYSTEM,https://github.com/advisories/GHSA-g4v6-69p6-q3p4,https://da.gd/sBGh8
+GithubAdvisories,[GHSA-wq88-fq4x-h2pm] WiX Burn-based bundles are vulnerable to binary hijack when run as SYSTEM,https://github.com/advisories/GHSA-wq88-fq4x-h2pm,https://da.gd/NnIc
+GithubAdvisories,[GHSA-mmh6-5cpf-2c72] phpMyFAQ Path Traversal in Attachments,https://github.com/advisories/GHSA-mmh6-5cpf-2c72,https://da.gd/IR6DIg
+GithubAdvisories,[GHSA-8ppr-www8-hfjx] @thi.ng/paths Prototype Pollution vulnerability,https://github.com/advisories/GHSA-8ppr-www8-hfjx,https://da.gd/3Qz6DK
