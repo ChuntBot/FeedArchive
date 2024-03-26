@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-438c-3975-5x3f] TinyMCE Cross-Site Scripting (XSS) vulnerability in handling iframes,https://github.com/advisories/GHSA-438c-3975-5x3f,https://da.gd/IHxLL9
+GithubAdvisories,[GHSA-5359-pvf2-pw78] TinyMCE Cross-Site Scripting (XSS) vulnerability in handling external SVG files through Object or Embed elements,https://github.com/advisories/GHSA-5359-pvf2-pw78,https://da.gd/yXfSnm
+GithubAdvisories,[GHSA-q84m-rmw3-4382] LangChain's XMLOutputParser vulnerable to XML Entity Expansion,https://github.com/advisories/GHSA-q84m-rmw3-4382,https://da.gd/yds7A
