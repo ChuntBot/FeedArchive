@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6pwg-gg6j-5crm] Ignite Realtime Openfire privilege escalation vulnerability,https://github.com/advisories/GHSA-6pwg-gg6j-5crm,https://da.gd/fneWQ
+GithubAdvisories,[GHSA-5xvc-rwv8-86p7] Ignite Realtime Openfire privilege escalation vulnerability,https://github.com/advisories/GHSA-5xvc-rwv8-86p7,https://da.gd/PHgmvm
+GithubAdvisories,[GHSA-m5gw-8q8h-2gxf] Malware in commandlib,https://github.com/advisories/GHSA-m5gw-8q8h-2gxf,https://da.gd/HMtJ
+GithubAdvisories,[GHSA-5667-3wch-7q7w] Eclipse Vert.x memory leak,https://github.com/advisories/GHSA-5667-3wch-7q7w,https://da.gd/iCZU2
+GithubAdvisories,[GHSA-r364-m2j9-mf4h] gradio Server-Side Request Forgery vulnerability,https://github.com/advisories/GHSA-r364-m2j9-mf4h,https://da.gd/TMoV
+GithubAdvisories,[GHSA-2g4c-8fpm-c46v] web3-utils Prototype Pollution vulnerability,https://github.com/advisories/GHSA-2g4c-8fpm-c46v,https://da.gd/ESFyq
+GithubAdvisories,[GHSA-xcgp-r7r8-2hc9] Gradio's CI vulnerable to Command Injection,https://github.com/advisories/GHSA-xcgp-r7r8-2hc9,https://da.gd/SqwJe
+GithubAdvisories,[GHSA-w5gg-2q56-6h4f] Elasticsearch Uncontrolled Resource Consumption vulnerability,https://github.com/advisories/GHSA-w5gg-2q56-6h4f,https://da.gd/bezu5
+GithubAdvisories,[GHSA-r3hx-qfh5-r9m7] Elasticsearch Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-r3hx-qfh5-r9m7,https://da.gd/X0O38
