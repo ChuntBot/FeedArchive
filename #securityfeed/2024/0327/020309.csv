@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cff3-5qrp-hqx7] Apache Airflow Improper Preservation of Permissions vulnerability,https://github.com/advisories/GHSA-cff3-5qrp-hqx7,https://da.gd/iyhhH
+GithubAdvisories,[GHSA-mh7p-8m2f-qrm6] Grafana vulnerable to authorization bypass,https://github.com/advisories/GHSA-mh7p-8m2f-qrm6,https://da.gd/4uy3I
