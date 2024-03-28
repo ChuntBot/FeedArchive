@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-874v-pj72-92f3] Podman affected by CVE-2024-1753 container escape at build time,https://github.com/advisories/GHSA-874v-pj72-92f3,https://da.gd/NCEZ
+GithubAdvisories,[GHSA-r75m-26cq-mjxc] Serverpod improved security for stored password hashes,https://github.com/advisories/GHSA-r75m-26cq-mjxc,https://da.gd/7yu9
+GithubAdvisories,[GHSA-h6x7-r5rg-x5fw] Serverpod client accepts any certificate,https://github.com/advisories/GHSA-h6x7-r5rg-x5fw,https://da.gd/DtAMM
+GithubAdvisories,[GHSA-mrj3-f2h4-7w45] Saleor: Customers' addresses leak when using Warehouse as a `Pickup: Local stock only` delivery method,https://github.com/advisories/GHSA-mrj3-f2h4-7w45,https://da.gd/cVOv4T
