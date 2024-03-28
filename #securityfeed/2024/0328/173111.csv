@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pwqm-x5x6-5586] Cilium has insecure IPsec transport encryption,https://github.com/advisories/GHSA-pwqm-x5x6-5586,https://da.gd/xUW7f
+GithubAdvisories,[GHSA-7r3h-4ph8-w38g] Cross site scripting (XSS) in JupyterHub via Self-XSS leveraged by Cookie Tossing,https://github.com/advisories/GHSA-7r3h-4ph8-w38g,https://da.gd/rBnZB0
+GithubAdvisories,[GHSA-hr5w-cwwq-2v4m] ZITADEL's Improper Content-Type Validation Leads to Account Takeover via Stored XSS + CSP Bypass,https://github.com/advisories/GHSA-hr5w-cwwq-2v4m,https://da.gd/qdckm
+GithubAdvisories,[GHSA-gp8g-f42f-95q2] ZITADEL's actions can overload reserved claims,https://github.com/advisories/GHSA-gp8g-f42f-95q2,https://da.gd/2FyCb
