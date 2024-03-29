@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-34h3-8mw4-qw57] @electron/packager's build process memory potentially leaked into final executable,https://github.com/advisories/GHSA-34h3-8mw4-qw57,https://da.gd/duzS9J
+GithubAdvisories,[GHSA-35w3-6qhc-474v] @workos-inc/authkit-nextjs session replay vulnerability,https://github.com/advisories/GHSA-35w3-6qhc-474v,https://da.gd/xwTF
+GithubAdvisories,[GHSA-8r5j-gm3j-cx9c] Winter CMS Server-Side Template Injection (SSTI) vulnerability,https://github.com/advisories/GHSA-8r5j-gm3j-cx9c,https://da.gd/t9kaYB
+GithubAdvisories,[GHSA-73v2-rxqp-7q4f] aliyundrive-webdav vulnerable to Command Injection,https://github.com/advisories/GHSA-73v2-rxqp-7q4f,https://da.gd/RbaF7
