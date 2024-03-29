@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cj3c-5xpm-cx94] Kimai API returns timesheet entries a user should not be authorized to view,https://github.com/advisories/GHSA-cj3c-5xpm-cx94,https://da.gd/mY1X
+GithubAdvisories,[GHSA-x768-cvr2-345r] Un-sanitized metric name or labels can be used to take over exported metrics,https://github.com/advisories/GHSA-x768-cvr2-345r,https://da.gd/4jzfg
+GithubAdvisories,[GHSA-jhwx-mhww-rgc3] ArgoCD's repo server has Uncontrolled Resource Consumption vulnerability,https://github.com/advisories/GHSA-jhwx-mhww-rgc3,https://da.gd/bTycN1
+GithubAdvisories,[GHSA-w387-5qqw-7g8m] Content-Security-Policy header generation in middleware could be compromised by malicious injections,https://github.com/advisories/GHSA-w387-5qqw-7g8m,https://da.gd/3DKy3x
