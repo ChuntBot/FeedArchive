@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hr89-w7p6-pjmq] express-cart allows any user to create an admin user,https://github.com/advisories/GHSA-hr89-w7p6-pjmq,https://da.gd/XYTaHq
+GithubAdvisories,[GHSA-4w62-cq5r-5mmq] express-cart unrestricted file upload vulnerability,https://github.com/advisories/GHSA-4w62-cq5r-5mmq,https://da.gd/aqs8X7
+GithubAdvisories,[GHSA-wc29-h54q-q8qx] Formstone Vulnerable to Reflected XSS,https://github.com/advisories/GHSA-wc29-h54q-q8qx,https://da.gd/3vI0Z
