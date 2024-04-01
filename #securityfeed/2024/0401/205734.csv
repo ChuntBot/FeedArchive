@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-c4gr-q97g-ppwc] In Astro-Shield, setting a correct `integrity` attribute to injected code allows to bypass the allow-lists",https://github.com/advisories/GHSA-c4gr-q97g-ppwc,https://da.gd/ur7jsL
