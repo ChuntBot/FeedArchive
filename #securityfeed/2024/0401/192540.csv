@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-876c-qmcf-cxv6] MoinMoin Exposure of Sensitive Disclosure when GATEWAY_INTERFACE variable is set,https://github.com/advisories/GHSA-876c-qmcf-cxv6,https://da.gd/yYYBB
+GithubAdvisories,[GHSA-v5fm-hr72-27hx] Nomad Search API Leaks Information About CSI Plugins,https://github.com/advisories/GHSA-v5fm-hr72-27hx,https://da.gd/Det0at
