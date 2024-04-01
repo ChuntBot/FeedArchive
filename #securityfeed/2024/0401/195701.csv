@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pfm2-mqwj-ggm5] MediaWiki makeCollapsible allows applying event handler to any CSS selector,https://github.com/advisories/GHSA-pfm2-mqwj-ggm5,https://da.gd/VNhhF2
+GithubAdvisories,[GHSA-76x8-gg39-5jjg] CherryPy Malicious cookies allow access to files outside the session directory,https://github.com/advisories/GHSA-76x8-gg39-5jjg,https://da.gd/FQ0ye
+GithubAdvisories,[GHSA-c3qv-mf8h-434r] Roundup vulnerability related to Cross-site scripting (XSS),https://github.com/advisories/GHSA-c3qv-mf8h-434r,https://da.gd/reo2ch
+GithubAdvisories,[GHSA-j59j-h3g7-cpmf] Roundup xml-rpc server improper check of property permissions,https://github.com/advisories/GHSA-j59j-h3g7-cpmf,https://da.gd/LApL1
+GithubAdvisories,[GHSA-5432-c996-hvhj] Zope Object Database (ZODB) Authentication bypass in ZEO storage servers,https://github.com/advisories/GHSA-5432-c996-hvhj,https://da.gd/55eBE
+GithubAdvisories,[GHSA-jqqh-999x-w26w] Buildbot Cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-jqqh-999x-w26w,https://da.gd/tI4Sf5
+GithubAdvisories,[GHSA-mj3x-wprp-mvj9] Buildbot Multiple cross-site scripting (XSS) vulnerabilities,https://github.com/advisories/GHSA-mj3x-wprp-mvj9,https://da.gd/6jlEOj
