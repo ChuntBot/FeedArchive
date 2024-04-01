@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rpvr-38xv-xvxq] Nomad ACL Policies without Label are Applied to Unexpected Resources,https://github.com/advisories/GHSA-rpvr-38xv-xvxq,https://da.gd/TT4YI
+GithubAdvisories,[GHSA-9jfx-84v9-2rr2] Nomad Caller ACL Token’s Secret ID is Exposed to Sentinel,https://github.com/advisories/GHSA-9jfx-84v9-2rr2,https://da.gd/7lmb
