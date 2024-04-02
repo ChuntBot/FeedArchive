@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-626r-cj47-p49g] Centreon insertGraphTemplate SQL Injection Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-626r-cj47-p49g,https://da.gd/9CEgl0
+GithubAdvisories,[GHSA-2j4g-v4fv-rhwg] Centreon updateContactHostCommands SQL Injection Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-2j4g-v4fv-rhwg,https://da.gd/lyC6
+GithubAdvisories,[GHSA-j8hg-v5qv-9m28] Centreon updateContactServiceCommands SQL Injection Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-j8hg-v5qv-9m28,https://da.gd/ajJ0cj
+GithubAdvisories,[GHSA-qjvm-p5vg-437c] Centreon updateGroups SQL Injection Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-qjvm-p5vg-437c,https://da.gd/AT00K
+GithubAdvisories,[GHSA-j4pc-vqvc-4p9x] Centreon updateLCARelation SQL Injection Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-j4pc-vqvc-4p9x,https://da.gd/70MSL6
+GithubAdvisories,[GHSA-22v7-v3mj-pm8r] Centreon updateDirectory SQL Injection Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-22v7-v3mj-pm8r,https://da.gd/FMzZj
