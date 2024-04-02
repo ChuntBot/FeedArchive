@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9ph3-v2vh-3qx7] Eclipse Vert.x vulnerable to a memory leak in TCP servers,https://github.com/advisories/GHSA-9ph3-v2vh-3qx7,https://da.gd/HOVx6
