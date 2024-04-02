@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Daily Habit Tracker 1.0 - SQL Injection,https://www.exploit-db.com/exploits/51953,https://da.gd/AT6HyD
+ExploitDB,[webapps] Daily Habit Tracker 1.0 - Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/51952,https://da.gd/RWmg0d
+ExploitDB,[webapps] Employee Management System 1.0 - `txtusername` and `txtpassword` SQL Injection (Admin Login),https://www.exploit-db.com/exploits/51951,https://da.gd/0S7r9V
+ExploitDB,[webapps] Employee Management System 1.0 - `txtfullname` and `txtphone` SQL Injection,https://www.exploit-db.com/exploits/51950,https://da.gd/hf56Ae
+ExploitDB,[webapps] LeptonCMS 7.0.0 - Remote Code Execution (RCE) (Authenticated),https://www.exploit-db.com/exploits/51949,https://da.gd/yIxOU
+ExploitDB,[webapps] FoF Pretty Mail 1.1.2 - Server Side Template Injection (SSTI),https://www.exploit-db.com/exploits/51948,https://da.gd/zgwMHB
+ExploitDB,[webapps] FoF Pretty Mail 1.1.2 - Local File Inclusion (LFI),https://www.exploit-db.com/exploits/51947,https://da.gd/Usvzj1
+ExploitDB,[local] Microsoft Windows 10.0.17763.5458 - Kernel Privilege Escalation,https://www.exploit-db.com/exploits/51946,https://da.gd/QaCSZ
+ExploitDB,[webapps] Hospital Management System v1.0 - Stored Cross Site Scripting (XSS),https://www.exploit-db.com/exploits/51945,https://da.gd/LmKdk0
+ExploitDB,[webapps] E-INSUARANCE v1.0 - Stored Cross Site Scripting (XSS),https://www.exploit-db.com/exploits/51944,https://da.gd/sRWcG
+ExploitDB,[webapps] Petrol Pump Management Software v1.0 - Remote Code Execution (RCE),https://www.exploit-db.com/exploits/51943,https://da.gd/sI7V7p
+ExploitDB,[remote] GL-iNet MT6000 4.5.5 - Arbitrary File Download,https://www.exploit-db.com/exploits/51942,https://da.gd/mi4SqR
+ExploitDB,[local] Rapid7 nexpose - 'nexposeconsole' Unquoted Service Path,https://www.exploit-db.com/exploits/51941,https://da.gd/8DIj
+ExploitDB,[webapps] OpenCart Core 4.0.2.3 - 'search' SQLi,https://www.exploit-db.com/exploits/51940,https://da.gd/XxU9O
+ExploitDB,[local] ASUS Control Center Express 01.06.15 - Unquoted Service Path,https://www.exploit-db.com/exploits/51939,https://da.gd/SCHxq2
+ExploitDB,[webapps] Online Hotel Booking In PHP 1.0 - Blind SQL Injection (Unauthenticated),https://www.exploit-db.com/exploits/51938,https://da.gd/6f98i
