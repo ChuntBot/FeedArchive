@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Axigen < 10.5.7 - Persistent Cross-Site Scripting,https://www.exploit-db.com/exploits/51963,https://da.gd/KErD
+ExploitDB,[webapps] Gibbon LMS v26.0.00 - SSTI vulnerability,https://www.exploit-db.com/exploits/51962,https://da.gd/BmD64
+ExploitDB,[webapps] Casdoor < v1.331.0 - '/api/set-password' CSRF,https://www.exploit-db.com/exploits/51961,https://da.gd/9doMRk
+ExploitDB,[local] Microsoft Windows Defender - Detection Mitigation Bypass TrojanWin32Powessere.G,https://www.exploit-db.com/exploits/51960,https://da.gd/eRu8
+ExploitDB,[webapps] Wordpress Plugin - Membership For WooCommerce < v2.1.7 - Arbitrary File Upload to Shell (Unauthenticated),https://www.exploit-db.com/exploits/51959,https://da.gd/7V3I
