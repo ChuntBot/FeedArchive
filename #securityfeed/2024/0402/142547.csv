@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c33x-xqrf-c478] QUIC's Connection ID Mechanism vulnerable to Memory Exhaustion Attack,https://github.com/advisories/GHSA-c33x-xqrf-c478,https://da.gd/d9WZ
+GithubAdvisories,[GHSA-3jcq-cwr7-6332] jplayer Cross Site Scripting vulnerability,https://github.com/advisories/GHSA-3jcq-cwr7-6332,https://da.gd/Rx8AX
+GithubAdvisories,[GHSA-v63q-hgqc-qvpg] MooTools Regular Expression Denial of Service,https://github.com/advisories/GHSA-v63q-hgqc-qvpg,https://da.gd/Pq98Fr
