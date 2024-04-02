@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-75hq-h6g9-h4q5] Wasmtime vulnerable to panic when using a dropped extenref-typed element segment,https://github.com/advisories/GHSA-75hq-h6g9-h4q5,https://da.gd/cLO6
