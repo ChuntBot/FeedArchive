@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r7q4-cw9r-vhp4] Concrete CMS Stored XSS in the Custom Class page editing,https://github.com/advisories/GHSA-r7q4-cw9r-vhp4,https://da.gd/Q4NZv
+GithubAdvisories,[GHSA-xwrh-qxmc-x8c8] Concrete CMS Cross-site Scripting (XSS) in the Advanced File Search Filter,https://github.com/advisories/GHSA-xwrh-qxmc-x8c8,https://da.gd/0YYJi9
+GithubAdvisories,[GHSA-pj42-r64f-4xfq] Concrete CMS Stored XSS on the calendar color settings screen,https://github.com/advisories/GHSA-pj42-r64f-4xfq,https://da.gd/Wepi8p
