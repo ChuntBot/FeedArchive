@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qjfw-cvjf-f4fm] AMPHP Denial of Service via HTTP/2 CONTINUATION Frames,https://github.com/advisories/GHSA-qjfw-cvjf-f4fm,https://da.gd/O6qagf
+GithubAdvisories,[GHSA-vjhf-6xfr-5p9g] KubeVirt NULL pointer dereference flaw,https://github.com/advisories/GHSA-vjhf-6xfr-5p9g,https://da.gd/2tAf
+GithubAdvisories,[GHSA-p73x-rpgm-3v56] Dolibarr ERP CRM Code Injection vulnerability during installation,https://github.com/advisories/GHSA-p73x-rpgm-3v56,https://da.gd/YD7SAi
