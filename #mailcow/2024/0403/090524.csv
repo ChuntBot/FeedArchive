@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Rspamd] milter update Content-Type and Content-Transfer-Encoding hea…,https://github.com/mailcow/mailcow-dockerized/commit/98cdb95bc018b41cbebc8765ee10a1c5577a1110,https://da.gd/H43KY
+GithubCommitStaging,Set local_addrs in Rspamd,https://github.com/mailcow/mailcow-dockerized/commit/26be1cb6026c1425b8015460ae53e1b170e3bb05,https://da.gd/rKjaik
+GithubCommitStaging,Merge pull request #5812 from mailcow/limit-local-addrs,https://github.com/mailcow/mailcow-dockerized/commit/75550eeea38badeb13d9198b9acedcbf132f3cb4,https://da.gd/iYvPum
+GithubCommitStaging,Merge pull request #5751 from mailcow/fix/rspamd-rewrite-ct,https://github.com/mailcow/mailcow-dockerized/commit/17d797cee4e1e3f1bf3c8961f4e1e1878977eae2,https://da.gd/qIvnV
