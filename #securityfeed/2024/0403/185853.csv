@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w8gf-g2vq-j2f4] amphp/http-client Denial of Service via HTTP/2 CONTINUATION Frames,https://github.com/advisories/GHSA-w8gf-g2vq-j2f4,https://da.gd/b0g9y
