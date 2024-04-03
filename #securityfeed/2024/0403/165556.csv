@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mj35-2rgf-cv8p] OpenID Connect client Atom Exhaustion in provider configuration worker ets table location,https://github.com/advisories/GHSA-mj35-2rgf-cv8p,https://da.gd/e3z83
+GithubAdvisories,[GHSA-8jhw-289h-jh2g] Vite's `server.fs.deny` did not deny requests for patterns with directories,https://github.com/advisories/GHSA-8jhw-289h-jh2g,https://da.gd/K6eGIb
