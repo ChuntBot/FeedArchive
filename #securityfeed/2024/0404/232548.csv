@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-4v7x-pqxf-cx7m] net/http, x/net/http2: close connections when receiving too many headers",https://github.com/advisories/GHSA-4v7x-pqxf-cx7m,https://da.gd/exG0
