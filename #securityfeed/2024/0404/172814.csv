@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-27jx-ffw8-xrqv] pgAdmin Remote Code Execution (RCE) vulnerability,https://github.com/advisories/GHSA-27jx-ffw8-xrqv,https://da.gd/ZoIpwa
+GithubAdvisories,[GHSA-f8h5-v2vg-46rr] quarkus-core leaks local environment variables from Quarkus namespace during application's build,https://github.com/advisories/GHSA-f8h5-v2vg-46rr,https://da.gd/nWDL5
