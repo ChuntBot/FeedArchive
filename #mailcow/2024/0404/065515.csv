@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,update postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/e0eb3a4f137db2694196f744e15c4e80f4a36bee,https://da.gd/P7pVv
+GithubCommit,helper: remove old SOGo repo to not break builds on ARM64,https://github.com/mailcow/mailcow-dockerized/commit/d92ffe8fc791abb613e5d1c56511411fed6d7c7e,https://da.gd/BVe7Kd
+GithubCommit,[Web] Updated lang.lv-lv.json (#5777),https://github.com/mailcow/mailcow-dockerized/commit/8c0637b5561e33bb07c09a9725f08fd0868d2eff,https://da.gd/b44ht
+GithubCommit,Update lang.zh-cn.json (#5789),https://github.com/mailcow/mailcow-dockerized/commit/fd73b3ad8847bad6b7b867836761349ad3bc1fa7,https://da.gd/z8ZFA
+GithubCommit,Merge pull request #5770 from mailcow/update/postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/b054a57e16289ea5cff6adbff662e3d67410808e,https://da.gd/a0xFM
+GithubCommit,Merge pull request #5743 from mailcow/fix-5742,https://github.com/mailcow/mailcow-dockerized/commit/bbbdcfb6259ec3f0901e211a893f7ab56256a3fe,https://da.gd/9eEC
+GithubCommit,Translations update from Weblate (#5810),https://github.com/mailcow/mailcow-dockerized/commit/52455be8150a7488ae2cff674621ec5f5fc2613c,https://da.gd/Mitok
+GithubCommit,Update French translation (#5805),https://github.com/mailcow/mailcow-dockerized/commit/dc7a48cbf93215e0caf4a5abcc24ac4798999e6c,https://da.gd/U98gFQ
+GithubCommit,Set local_addrs in Rspamd,https://github.com/mailcow/mailcow-dockerized/commit/26be1cb6026c1425b8015460ae53e1b170e3bb05,https://da.gd/rKjaik
+GithubCommit,[Web] Updated lang.tr-tr.json (#5813),https://github.com/mailcow/mailcow-dockerized/commit/5dc836671d6fbb302e164f3a6eab022f50f19adb,https://da.gd/6TPA1
+GithubCommit,update postscreen_access.cidr (#5811),https://github.com/mailcow/mailcow-dockerized/commit/237a25e6b0795299e13491bea8e70f8327cea550,https://da.gd/1fsug1
+GithubCommit,[Web] Updated lang.tr-tr.json (#5815),https://github.com/mailcow/mailcow-dockerized/commit/8a82bab1f3977ff51433e254cc7a28bf67dc97b7,https://da.gd/eSTrO
+GithubCommit,[Web] deny api calls from sogo,https://github.com/mailcow/mailcow-dockerized/commit/00d4b32a1b0b2b6072e7b62eb52408044a2438d7,https://da.gd/leLec
+GithubCommit,[Web] escape html of alert messages,https://github.com/mailcow/mailcow-dockerized/commit/2db8f482dbadcacf98bac77733daaf14c61b7e02,https://da.gd/TZRpx
+GithubCommit,[Web] fix invalid rspamd map check,https://github.com/mailcow/mailcow-dockerized/commit/0d09c86c124e9a4f17f6813ce06cc4537ce81b46,https://da.gd/TIXsN
+GithubCommit,Merge pull request #5812 from mailcow/limit-local-addrs,https://github.com/mailcow/mailcow-dockerized/commit/75550eeea38badeb13d9198b9acedcbf132f3cb4,https://da.gd/iYvPum
+GithubCommit,Merge pull request #5751 from mailcow/fix/rspamd-rewrite-ct,https://github.com/mailcow/mailcow-dockerized/commit/17d797cee4e1e3f1bf3c8961f4e1e1878977eae2,https://da.gd/qIvnV
+GithubCommit,[Web] use SEC_FETCH_DEST header instead of Referer to block api requests,https://github.com/mailcow/mailcow-dockerized/commit/3aee2b6cf567222b6ea962f1a4d17160a283bb82,https://da.gd/hRjw
+GithubCommit,Merge pull request #5818 from mailcow/fix/web,https://github.com/mailcow/mailcow-dockerized/commit/9decfa9c319824c28461f0c723b6a0f969308366,https://da.gd/An6Ra
+GithubCommit,Merge pull request #5819 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/36b5cccd186090d726de62b6b00d1e842e67aacd,https://da.gd/JeqQq
