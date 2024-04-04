@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] deny api calls from sogo,https://github.com/mailcow/mailcow-dockerized/commit/00d4b32a1b0b2b6072e7b62eb52408044a2438d7,https://da.gd/leLec
+GithubCommitStaging,[Web] escape html of alert messages,https://github.com/mailcow/mailcow-dockerized/commit/2db8f482dbadcacf98bac77733daaf14c61b7e02,https://da.gd/TZRpx
+GithubCommitStaging,[Web] fix invalid rspamd map check,https://github.com/mailcow/mailcow-dockerized/commit/0d09c86c124e9a4f17f6813ce06cc4537ce81b46,https://da.gd/TIXsN
+GithubCommitStaging,[Web] use SEC_FETCH_DEST header instead of Referer to block api requests,https://github.com/mailcow/mailcow-dockerized/commit/3aee2b6cf567222b6ea962f1a4d17160a283bb82,https://da.gd/hRjw
+GithubCommitStaging,Merge pull request #5818 from mailcow/fix/web,https://github.com/mailcow/mailcow-dockerized/commit/9decfa9c319824c28461f0c723b6a0f969308366,https://da.gd/An6Ra
