@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] break loop if rspamd_map is valid,https://github.com/mailcow/mailcow-dockerized/commit/7660ca89ae35f9900fef1858f53c292b22883faa,https://da.gd/CfTzzQ
+GithubCommitStaging,[Web] secure container_ctrl.php,https://github.com/mailcow/mailcow-dockerized/commit/b37caaf9e51d23fce11981a63d7355ccb2665584,https://da.gd/JJhNZ
