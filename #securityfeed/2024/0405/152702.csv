@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4v52-7q2x-v4xj] eyre: Parts of Report are dropped as the wrong type during downcast,https://github.com/advisories/GHSA-4v52-7q2x-v4xj,https://da.gd/d3sC4s
+GithubAdvisories,[GHSA-4685-2x5r-65pj] Pebble service manager's file pull API allows access by any user,https://github.com/advisories/GHSA-4685-2x5r-65pj,https://da.gd/2H2hH
+GithubAdvisories,[GHSA-w7hm-hmxv-pvhf] HPACK decoder panics on invalid input,https://github.com/advisories/GHSA-w7hm-hmxv-pvhf,https://da.gd/ZvNvr2
+GithubAdvisories,[GHSA-65pc-76pq-pvf5] Duplicate Advisory: Pebble service manager's file pull API allows access by any user,https://github.com/advisories/GHSA-65pc-76pq-pvf5,https://da.gd/z3fTxe
+GithubAdvisories,[GHSA-q6cp-qfwq-4gcv] h2 servers vulnerable to degradation of service with CONTINUATION Flood,https://github.com/advisories/GHSA-q6cp-qfwq-4gcv,https://da.gd/sYoukn
+GithubAdvisories,[GHSA-x9xc-63hg-vcfq] cassandra-rs's non-idiomatic use of iterators leads to use after free,https://github.com/advisories/GHSA-x9xc-63hg-vcfq,https://da.gd/BfAw
