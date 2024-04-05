@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j496-crgh-34mx] ibc-go: Potential Reentrancy using Timeout Callbacks in ibc-hooks,https://github.com/advisories/GHSA-j496-crgh-34mx,https://da.gd/hhbRp
+GithubAdvisories,[GHSA-xg8v-m2mh-45m6] PsiTransfer: Violation of the integrity of file distribution,https://github.com/advisories/GHSA-xg8v-m2mh-45m6,https://da.gd/augd
+GithubAdvisories,[GHSA-2p2x-p7wj-j5h2] PsiTransfer: File integrity violation,https://github.com/advisories/GHSA-2p2x-p7wj-j5h2,https://da.gd/h2gfXL
+GithubAdvisories,[GHSA-wp43-vprh-c3w5] Mattermost fails to authenticate the source of certain types of post actions,https://github.com/advisories/GHSA-wp43-vprh-c3w5,https://da.gd/08Hmot
+GithubAdvisories,[GHSA-mcw6-3256-64gg] Mattermost Server doesn't limit the number of user preferences,https://github.com/advisories/GHSA-mcw6-3256-64gg,https://da.gd/Rq7gYz
