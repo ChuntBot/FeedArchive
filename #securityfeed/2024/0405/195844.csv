@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-67rv-qpw2-6qrr] Grafana: Users outside an organization can delete a snapshot with its key,https://github.com/advisories/GHSA-67rv-qpw2-6qrr,https://da.gd/wEacX
