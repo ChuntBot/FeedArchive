@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mc39-h54g-pvw6] libdav1d-sys affected by dav1d AV1 decoder integer overflow,https://github.com/advisories/GHSA-mc39-h54g-pvw6,https://da.gd/IbR6rW
+GithubAdvisories,[GHSA-5gmm-6m36-r7jh] transpose: Buffer overflow due to integer overflow,https://github.com/advisories/GHSA-5gmm-6m36-r7jh,https://da.gd/dkFT
+GithubAdvisories,[GHSA-xfhw-6mc4-mgxf] crayon: ObjectPool creates uninitialized memory when freeing objects,https://github.com/advisories/GHSA-xfhw-6mc4-mgxf,https://da.gd/JFND
+GithubAdvisories,[GHSA-w5w5-8vfh-xcjq] whoami stack buffer overflow on several Unix platforms,https://github.com/advisories/GHSA-w5w5-8vfh-xcjq,https://da.gd/0P4Sv
