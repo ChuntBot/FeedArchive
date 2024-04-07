@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,RedHat: kernel 2.4 ehternet vulnerability,https://linuxsecurity.com/advisories/red-hat/redhat-kernel-24-ehternet-vulnerability-rhsa-2003-025-20,https://da.gd/HGJ8P
+LinuxSecurity,RedHat: pam_xauth information leak vulnerability,https://linuxsecurity.com/advisories/red-hat/redhat-pamxauth-information-leak-vulnerability-rhsa-2003-035-10,https://da.gd/nC6s
+LinuxSecurity,RedHat: SquirrelMail XSS vulnerabilities,https://linuxsecurity.com/advisories/red-hat/redhat-squirrelmail-xss-vulnerabilities-rhsa-2002-204-10,https://da.gd/kihB3
+LinuxSecurity,Red Hat: FTP 'iptables' vulnerability,https://linuxsecurity.com/advisories/red-hat/red-hat-ftp-iptables-vulnerability-rhsa-2001-052-02,https://da.gd/cKy7
