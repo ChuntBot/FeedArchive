@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wv28-7fpw-fj49] Lektor does not sanitize database path traversal,https://github.com/advisories/GHSA-wv28-7fpw-fj49,https://da.gd/RIDaDM
