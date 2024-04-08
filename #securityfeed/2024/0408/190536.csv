@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f889-wfwm-6p7m] OpenStack Identity Keystone Privilege Escalation vulnerability,https://github.com/advisories/GHSA-f889-wfwm-6p7m,https://da.gd/g4mNU
+GithubAdvisories,[GHSA-7pf9-7cff-f854] sosreport Exposure of Sensitive Information vulnerability,https://github.com/advisories/GHSA-7pf9-7cff-f854,https://da.gd/g3UdF
+GithubAdvisories,[GHSA-j6jq-3q8p-xgg6] Netflix Security Monkey Open Redirect vulnerability,https://github.com/advisories/GHSA-j6jq-3q8p-xgg6,https://da.gd/0yG4Ew
+GithubAdvisories,[GHSA-8q95-jj7p-x93x] Openstack Neutron vulnerable to eavesdropping on private traffic,https://github.com/advisories/GHSA-8q95-jj7p-x93x,https://da.gd/xEvWqd
+GithubAdvisories,[GHSA-9773-3fqg-8w25] OpenStack Neutron's unsupported dport option prevents applying security groups,https://github.com/advisories/GHSA-9773-3fqg-8w25,https://da.gd/pXhuJ
+GithubAdvisories,[GHSA-jr9m-v5qh-mh2j] OpenStack Neutron overlapping security group rules prevents compute node network configuration,https://github.com/advisories/GHSA-jr9m-v5qh-mh2j,https://da.gd/0Lp9C
+GithubAdvisories,[GHSA-x634-34m9-96mp] OpensStack Neutron Denial of Service Vulnerability,https://github.com/advisories/GHSA-x634-34m9-96mp,https://da.gd/3Liqhw
+GithubAdvisories,[GHSA-6mmf-v5q7-vw2w] Asterix Heap-based Buffer Overflow,https://github.com/advisories/GHSA-6mmf-v5q7-vw2w,https://da.gd/Blko
