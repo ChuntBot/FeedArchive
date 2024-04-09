@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6623-c6mr-6737] Apache Zeppelin: Denial of service with invalid notebook name,https://github.com/advisories/GHSA-6623-c6mr-6737,https://da.gd/ceQhQ
+GithubAdvisories,[GHSA-rr59-h6rh-v84v] Apache Zeppelin SAP: connecting to a malicious SAP server allowed it to perform XXE,https://github.com/advisories/GHSA-rr59-h6rh-v84v,https://da.gd/BgYUWA
+GithubAdvisories,[GHSA-prvg-rh5h-74jr] Apache Zeppelin CSRF vulnerability in the Credentials page,https://github.com/advisories/GHSA-prvg-rh5h-74jr,https://da.gd/kRxt50
+GithubAdvisories,[GHSA-gv3w-m57p-3wc4] gin-vue-admin background arbitrary code coverage vulnerability,https://github.com/advisories/GHSA-gv3w-m57p-3wc4,https://da.gd/3bHu2
+GithubAdvisories,[GHSA-g64r-xf39-q4p5] Apache Zeppelin Path Traversal vulnerability,https://github.com/advisories/GHSA-g64r-xf39-q4p5,https://da.gd/Sgwhob
+GithubAdvisories,[GHSA-ggp5-28x4-xcj9] Minder GetRepositoryByName data leak,https://github.com/advisories/GHSA-ggp5-28x4-xcj9,https://da.gd/NNmF7
+GithubAdvisories,[GHSA-r4r6-j2j3-7pp5] Contao's remember-me tokens will not be cleared after a password change,https://github.com/advisories/GHSA-r4r6-j2j3-7pp5,https://da.gd/BAXn
