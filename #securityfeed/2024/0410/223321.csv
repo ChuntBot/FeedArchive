@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j85q-46hg-36p2] SpiceDB: LookupSubjects may return partial results if a specific kind of relation is used,https://github.com/advisories/GHSA-j85q-46hg-36p2,https://da.gd/rdCb9q
+GithubAdvisories,[GHSA-37q5-v5qm-c9v8] Transformers Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-37q5-v5qm-c9v8,https://da.gd/YSIqaZ
+GithubAdvisories,[GHSA-wvpx-g427-q9wc] llama-index-core Prompt Injection vulnerability leading to Arbitrary Code Execution,https://github.com/advisories/GHSA-wvpx-g427-q9wc,https://da.gd/Kr1IH
+GithubAdvisories,[GHSA-mxvw-cj37-8g2h] Aim Web API vulnerable to Remote Code Execution,https://github.com/advisories/GHSA-mxvw-cj37-8g2h,https://da.gd/UOnj
+GithubAdvisories,[GHSA-46cm-pfwv-cgf8] LiteLLM has Server-Side Template Injection vulnerability in /completions endpoint,https://github.com/advisories/GHSA-46cm-pfwv-cgf8,https://da.gd/RvddTt
+GithubAdvisories,[GHSA-99w2-67h8-5948] Aim Cross-Site Request Forgery vulnerability allows user to delete runs and perform other operations,https://github.com/advisories/GHSA-99w2-67h8-5948,https://da.gd/vmz582
+GithubAdvisories,[GHSA-wx43-g55g-2jf4] LocalAI Command Injection in audioToWav,https://github.com/advisories/GHSA-wx43-g55g-2jf4,https://da.gd/AVVomM
+GithubAdvisories,[GHSA-3f95-mxq2-2f63] Gradio Local File Inclusion vulnerability,https://github.com/advisories/GHSA-3f95-mxq2-2f63,https://da.gd/UA7x
+GithubAdvisories,"[GHSA-jpmx-996v-48fm] WildFly Elytron: OIDC app attempting to access the second tenant, the user should be prompted to log",https://github.com/advisories/GHSA-jpmx-996v-48fm,https://da.gd/vDapSv
+GithubAdvisories,[GHSA-3fp5-2xwh-fxm6] Evmos transaction execution not accounting for all state transition after interaction with precompiles,https://github.com/advisories/GHSA-3fp5-2xwh-fxm6,https://da.gd/IdpyYY
