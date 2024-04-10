@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c2gg-4gq4-jv5j] XWiki Platform remote code execution from account through UIExtension parameters,https://github.com/advisories/GHSA-c2gg-4gq4-jv5j,https://da.gd/UhODql
+GithubAdvisories,[GHSA-hf43-47q4-fhq5] XWiki Commons missing escaping of `{` in Velocity escapetool allows remote code execution,https://github.com/advisories/GHSA-hf43-47q4-fhq5,https://da.gd/vHDO
+GithubAdvisories,[GHSA-hp8h-7x69-4wmv] zcap has incomplete expiration checks in capability chains,https://github.com/advisories/GHSA-hp8h-7x69-4wmv,https://da.gd/dZCn
+GithubAdvisories,[GHSA-9wwp-q7wq-jx35] @fastify/secure-session: Reuse of destroyed secure session cookie,https://github.com/advisories/GHSA-9wwp-q7wq-jx35,https://da.gd/RINxAW
+GithubAdvisories,"[GHSA-j5vm-7qcc-2wwg] Kopia: Storage connection credentials written to console on ""repository status"" CLI command with JSON output",https://github.com/advisories/GHSA-j5vm-7qcc-2wwg,https://da.gd/WoNuMR
+GithubAdvisories,[GHSA-r5vh-gc3r-r24w] XWiki Platform CSRF remote code execution through the realtime HTML Converter API,https://github.com/advisories/GHSA-r5vh-gc3r-r24w,https://da.gd/lduQmZ
+GithubAdvisories,[GHSA-cv55-v6rw-7r5v] XWiki Platform remote code execution from account via custom skins support,https://github.com/advisories/GHSA-cv55-v6rw-7r5v,https://da.gd/aVeEs
+GithubAdvisories,[GHSA-37m4-hqxv-w26g] XWiki Platform CSRF remote code execution through scheduler job's document reference,https://github.com/advisories/GHSA-37m4-hqxv-w26g,https://da.gd/MVNGR0
+GithubAdvisories,[GHSA-j2r6-r929-v6gf] XWiki Platform CSRF in the job scheduler,https://github.com/advisories/GHSA-j2r6-r929-v6gf,https://da.gd/wGLc8o
+GithubAdvisories,[GHSA-xm4h-3jxr-m3c6] XWiki Platform: Remote code execution through space title and Solr space facet,https://github.com/advisories/GHSA-xm4h-3jxr-m3c6,https://da.gd/85avc
+GithubAdvisories,[GHSA-xxp2-9c9g-7wmj] XWiki Platform: Remote code execution from edit in multilingual wikis via translations,https://github.com/advisories/GHSA-xxp2-9c9g-7wmj,https://da.gd/ddze
+GithubAdvisories,[GHSA-2858-8cfx-69m9] XWiki Platform: Remote code execution as guest via DatabaseSearch,https://github.com/advisories/GHSA-2858-8cfx-69m9,https://da.gd/Uktoak
+GithubAdvisories,[GHSA-vxwr-wpjv-qjq7] XWiki Platform: Privilege escalation (PR) from user registration through PDFClass,https://github.com/advisories/GHSA-vxwr-wpjv-qjq7,https://da.gd/n71aV
+GithubAdvisories,[GHSA-34fj-r5gq-7395] XWiki Platform: Remote code execution from account via SearchSuggestSourceSheet,https://github.com/advisories/GHSA-34fj-r5gq-7395,https://da.gd/B39KF
