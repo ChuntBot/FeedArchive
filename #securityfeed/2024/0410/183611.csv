@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c473-pvhv-mfm2] Malware in @sdc-wob-type-3/group-ui,https://github.com/advisories/GHSA-c473-pvhv-mfm2,https://da.gd/A3fRe
+GithubAdvisories,[GHSA-9824-332p-264p] Malware in @getstep/sdk,https://github.com/advisories/GHSA-9824-332p-264p,https://da.gd/evuk
+GithubAdvisories,[GHSA-w67v-ph4x-f48q] Mattermost Server Improper Access Control,https://github.com/advisories/GHSA-w67v-ph4x-f48q,https://da.gd/Zfyy96
+GithubAdvisories,[GHSA-xp9j-8p68-9q93] Mattermost Server Improper Access Control,https://github.com/advisories/GHSA-xp9j-8p68-9q93,https://da.gd/roU97
+GithubAdvisories,[GHSA-vc6q-ccj9-9r89] MailDev Remote Code Execution,https://github.com/advisories/GHSA-vc6q-ccj9-9r89,https://da.gd/TXczB
+GithubAdvisories,[GHSA-jhvf-7c85-3c9g] LocalAI cross-site request forgery vulnerability,https://github.com/advisories/GHSA-jhvf-7c85-3c9g,https://da.gd/OKWhM
+GithubAdvisories,[GHSA-9mg4-v392-8j68] erlang-jose vulnerable to denial of service via large p2c value,https://github.com/advisories/GHSA-9mg4-v392-8j68,https://da.gd/cWmkV
+GithubAdvisories,[GHSA-9rhf-q362-77mx] Consul JWT Auth in L7 Intentions Allow for Mismatched Service Identity and JWT Providers,https://github.com/advisories/GHSA-9rhf-q362-77mx,https://da.gd/vLiweN
+GithubAdvisories,[GHSA-xc7w-jvhx-p6q9] Cobbler Path Traversal vulnerability,https://github.com/advisories/GHSA-xc7w-jvhx-p6q9,https://da.gd/yIM6o7
+GithubAdvisories,[GHSA-vq33-26pr-r4h6] flattenizer vulnerable to prototype pollution,https://github.com/advisories/GHSA-vq33-26pr-r4h6,https://da.gd/ukfcsr
+GithubAdvisories,[GHSA-9rj9-5wcv-xgf2] Roundup Improper Access Control,https://github.com/advisories/GHSA-9rj9-5wcv-xgf2,https://da.gd/Oi7vdR
