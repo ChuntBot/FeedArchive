@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qmr3-52xf-wmhx] Apache Zeppelin: LDAP search filter query Injection Vulnerability,https://github.com/advisories/GHSA-qmr3-52xf-wmhx,https://da.gd/6lrfDf
+GithubAdvisories,[GHSA-g44m-x5h7-fr5q] Apache Zeppelin: Cron arbitrary user impersonation with improper privileges,https://github.com/advisories/GHSA-g44m-x5h7-fr5q,https://da.gd/1P7eH
