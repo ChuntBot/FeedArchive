@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v782-xr4w-3vqx] XWiki Platform: Password hash might be leaked by diff once the xobject holding them is deleted,https://github.com/advisories/GHSA-v782-xr4w-3vqx,https://da.gd/yVYMV
+GithubAdvisories,[GHSA-hjq6-52gw-2g7p] yt-dlp: `--exec` command injection when using `%q` in yt-dlp on Windows (Bypass of CVE-2023-40581),https://github.com/advisories/GHSA-hjq6-52gw-2g7p,https://da.gd/mtIjo
