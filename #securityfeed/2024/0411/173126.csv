@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-95pr-fxf5-86gv] Cosign malicious artifacts can cause machine-wide DoS,https://github.com/advisories/GHSA-95pr-fxf5-86gv,https://da.gd/ukQF3
+GithubAdvisories,[GHSA-88jx-383q-w4qc] Cosign malicious attachments can cause system-wide denial of service,https://github.com/advisories/GHSA-88jx-383q-w4qc,https://da.gd/3u9dGZ
