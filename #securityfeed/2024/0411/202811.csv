@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wm4w-7h2q-3pf7] Matrix IRC Bridge truncated content of messages can be leaked,https://github.com/advisories/GHSA-wm4w-7h2q-3pf7,https://da.gd/GVPtr
+GithubAdvisories,[GHSA-66j8-c83m-gj5f] Apache Zeppelin remote code execution by adding malicious JDBC connection string,https://github.com/advisories/GHSA-66j8-c83m-gj5f,https://da.gd/SILl
+GithubAdvisories,[GHSA-rrvf-5w4r-3x7v] Apache Zeppelin vulnerable to cross-site scripting in the helium module,https://github.com/advisories/GHSA-rrvf-5w4r-3x7v,https://da.gd/S33b
