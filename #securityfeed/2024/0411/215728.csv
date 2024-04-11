@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2rc5-2755-v422] Mautic vulnerable to stored cross-site scripting in description field,https://github.com/advisories/GHSA-2rc5-2755-v422,https://da.gd/Kr8P23
+GithubAdvisories,[GHSA-jjg7-2v4v-x38h] Internationalized Domain Names in Applications (IDNA) vulnerable to denial of service from specially crafted inputs to idna.encode,https://github.com/advisories/GHSA-jjg7-2v4v-x38h,https://da.gd/llHaxa
+GithubAdvisories,[GHSA-x565-32qp-m3vf] phin may include sensitive headers in subsequent requests after redirect,https://github.com/advisories/GHSA-x565-32qp-m3vf,https://da.gd/490zr
