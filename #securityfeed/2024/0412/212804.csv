@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-79vv-vp32-gpp7] Apache Kafka: Potential incorrect access control during migration from ZK mode to KRaft mode,https://github.com/advisories/GHSA-79vv-vp32-gpp7,https://da.gd/mw26Oe
+GithubAdvisories,[GHSA-pww3-x2g7-x8q2] Reportico affected by Incorrect Access Control,https://github.com/advisories/GHSA-pww3-x2g7-x8q2,https://da.gd/91JgFj
+GithubAdvisories,[GHSA-chcp-g9j5-3xxx] Dusk plugin may allow unfettered user authentication in misconfigured installs,https://github.com/advisories/GHSA-chcp-g9j5-3xxx,https://da.gd/ZU5J9t
+GithubAdvisories,[GHSA-3rq5-2g8h-59hc] Potential DoS via the Tudoor mechanism in eventlet and dnspython,https://github.com/advisories/GHSA-3rq5-2g8h-59hc,https://da.gd/d5Z8Q
+GithubAdvisories,[GHSA-mgv8-w49f-822w] Mautic: MST-48 Server-Side Request Forgery in Asset section,https://github.com/advisories/GHSA-mgv8-w49f-822w,https://da.gd/v7rGzX
+GithubAdvisories,[GHSA-p3j6-f45h-hw5f] tiagorlampert CHAOS vulnerable to command injections,https://github.com/advisories/GHSA-p3j6-f45h-hw5f,https://da.gd/Go4At
+GithubAdvisories,[GHSA-mwc7-64wg-pgvj] NiceGUI allows potential access to local file system,https://github.com/advisories/GHSA-mwc7-64wg-pgvj,https://da.gd/iW5MX
+GithubAdvisories,[GHSA-jx7x-9r98-h5xr] OpenStack magnum vulnerable to time-of-check to time-of-use (TOCTOU) attack,https://github.com/advisories/GHSA-jx7x-9r98-h5xr,https://da.gd/6fYO5
+GithubAdvisories,[GHSA-c5rv-hjjc-jv7m] tiagorlampert CHAOS vulnerable to Cross Site Scripting,https://github.com/advisories/GHSA-c5rv-hjjc-jv7m,https://da.gd/RjJuW
+GithubAdvisories,[GHSA-rvgg-f8qm-6h7j] High severity vulnerability that affects io.vertx:vertx-web,https://github.com/advisories/GHSA-rvgg-f8qm-6h7j,https://da.gd/Gauwn
+GithubAdvisories,[GHSA-g9qx-25vj-rf53] Apache Solr Operator liveness and readiness probes may leak basic auth credentials,https://github.com/advisories/GHSA-g9qx-25vj-rf53,https://da.gd/RdIdZ3
