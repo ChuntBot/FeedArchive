@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fhcx-f7jg-jx3f] Mautic vulnerable to cross-site scripting in notifications via saving Dashboards,https://github.com/advisories/GHSA-fhcx-f7jg-jx3f,https://da.gd/aiaYmx
+GithubAdvisories,[GHSA-fpw7-j2hg-69v5] mysql2 Remote Code Execution (RCE) via the readCodeFor function,https://github.com/advisories/GHSA-fpw7-j2hg-69v5,https://da.gd/pI8eBT
+GithubAdvisories,[GHSA-49j4-86m8-q2jw] mysql2 vulnerable to Prototype Poisoning,https://github.com/advisories/GHSA-49j4-86m8-q2jw,https://da.gd/JvgHu
+GithubAdvisories,[GHSA-mqr2-w7wj-jjgr] mysql2 cache poisoning vulnerability,https://github.com/advisories/GHSA-mqr2-w7wj-jjgr,https://da.gd/ylr0t
