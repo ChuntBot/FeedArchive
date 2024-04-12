@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6363-v5m4-fvq3] timber/timber vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-6363-v5m4-fvq3,https://da.gd/eUyGM
