@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vh2m-22xx-q94f] Sensitive query parameters logged by default in OpenTelemetry.Instrumentation http and AspNetCore,https://github.com/advisories/GHSA-vh2m-22xx-q94f,https://da.gd/z3mfI
