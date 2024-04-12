@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jj6w-2cqg-7p94] Mautic SQL Injection in dynamic Reports,https://github.com/advisories/GHSA-jj6w-2cqg-7p94,https://da.gd/sEfAo
+GithubAdvisories,[GHSA-9fcx-cv56-w58p] Mautic vulnerable to Relative Path Traversal / Arbitrary File Deletion due to GrapesJS builder,https://github.com/advisories/GHSA-9fcx-cv56-w58p,https://da.gd/x6XJ
+GithubAdvisories,[GHSA-4vwx-54mw-vqfw] Traefik vulnerable to denial of service with Content-length header,https://github.com/advisories/GHSA-4vwx-54mw-vqfw,https://da.gd/mRc3d1
