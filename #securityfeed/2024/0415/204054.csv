@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-846g-p7hm-f54r] AWS Amplify CLI has incorrect trust policy management,https://github.com/advisories/GHSA-846g-p7hm-f54r,https://da.gd/q4hgu
+GithubAdvisories,[GHSA-5x7m-6737-26cr] SixLabors.ImageSharp vulnerable to Use After Free,https://github.com/advisories/GHSA-5x7m-6737-26cr,https://da.gd/vxBnI
+GithubAdvisories,[GHSA-g85r-6x2q-45w7] SixLabors.ImageSharp vulnerable to Memory Allocation with Excessive Size Value,https://github.com/advisories/GHSA-g85r-6x2q-45w7,https://da.gd/wf2dv
+GithubAdvisories,[GHSA-2m57-hf25-phgg] sqlparse parsing heavily nested list leads to Denial of Service,https://github.com/advisories/GHSA-2m57-hf25-phgg,https://da.gd/hRvp1
+GithubAdvisories,[GHSA-2gvw-w6fj-7m3c] Argo CD's API server does not enforce project sourceNamespaces,https://github.com/advisories/GHSA-2gvw-w6fj-7m3c,https://da.gd/IzfLeM
