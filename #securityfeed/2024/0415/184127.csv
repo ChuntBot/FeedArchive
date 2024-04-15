@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7f4j-64p6-5h5v] Traefik affected by HTTP/2 CONTINUATION flood in net/http,https://github.com/advisories/GHSA-7f4j-64p6-5h5v,https://da.gd/krs00
+GithubAdvisories,[GHSA-g8fc-vrcg-8vjg] Constallation has pods exposed to peers in VPC,https://github.com/advisories/GHSA-g8fc-vrcg-8vjg,https://da.gd/uxi4I
+GithubAdvisories,[GHSA-g9wg-98c2-qv3v] TCPDF Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-g9wg-98c2-qv3v,https://da.gd/E3O1r
