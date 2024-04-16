@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w3h3-4rj7-4ph4] Request smuggling leading to endpoint restriction bypass in Gunicorn,https://github.com/advisories/GHSA-w3h3-4rj7-4ph4,https://da.gd/9Q6mVD
