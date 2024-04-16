@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4q82-j5c2-g2c5] Duplicate Advisory: Scrapy authorization header leakage on cross-domain redirect,https://github.com/advisories/GHSA-4q82-j5c2-g2c5,https://da.gd/xCroL
+GithubAdvisories,[GHSA-rmqv-7v3j-mr7p] Scrapy decompression bomb vulnerability,https://github.com/advisories/GHSA-rmqv-7v3j-mr7p,https://da.gd/wWx78
