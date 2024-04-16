@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-93c5-rj2p-w52x] Cross-site Scripting (XSS) in mindsdb/mindsdb,https://github.com/advisories/GHSA-93c5-rj2p-w52x,https://da.gd/1GNfi
+GithubAdvisories,[GHSA-rgp8-pm28-3759] langchain vulnerable to path traversal,https://github.com/advisories/GHSA-rgp8-pm28-3759,https://da.gd/VKc8J
+GithubAdvisories,[GHSA-r6gp-rff2-p3hf] llama-index-core Command Injection vulnerability,https://github.com/advisories/GHSA-r6gp-rff2-p3hf,https://da.gd/gXcNk
+GithubAdvisories,[GHSA-hvj5-mvw9-93j3] Insecure deserialization in BentoML,https://github.com/advisories/GHSA-hvj5-mvw9-93j3,https://da.gd/rMPAQ
+GithubAdvisories,[GHSA-g3r5-72hf-p7p2] zenml Session Fixation vulnerability,https://github.com/advisories/GHSA-g3r5-72hf-p7p2,https://da.gd/EIoAQ
+GithubAdvisories,[GHSA-6h3f-43vq-53hj] Directory traversal in zenml,https://github.com/advisories/GHSA-6h3f-43vq-53hj,https://da.gd/47oOC8
+GithubAdvisories,[GHSA-g9cj-cfpp-4g2x] gradio vulnerable to Path Traversal,https://github.com/advisories/GHSA-g9cj-cfpp-4g2x,https://da.gd/OKOV
+GithubAdvisories,[GHSA-hq88-wg7q-gp4g] mlflow vulnerable to Path Traversal,https://github.com/advisories/GHSA-hq88-wg7q-gp4g,https://da.gd/EbSCq
+GithubAdvisories,[GHSA-m49c-5c52-6696] mlflow vulnerable to Path Traversal,https://github.com/advisories/GHSA-m49c-5c52-6696,https://da.gd/TolXgx
+GithubAdvisories,[GHSA-f42m-mvfv-cgw5] mlflow vulnerable to Path Traversal,https://github.com/advisories/GHSA-f42m-mvfv-cgw5,https://da.gd/fxsc2
+GithubAdvisories,[GHSA-5mvj-wmgj-7q8c] mlflow vulnerable to Path Traversal,https://github.com/advisories/GHSA-5mvj-wmgj-7q8c,https://da.gd/BMSULO
+GithubAdvisories,[GHSA-f82r-jj5r-6g97] mlflow Path Traversal vulnerability,https://github.com/advisories/GHSA-f82r-jj5r-6g97,https://da.gd/rp4e
+GithubAdvisories,[GHSA-qh6x-j82h-vpf9] gradio Server-Side Request Forgery vulnerability,https://github.com/advisories/GHSA-qh6x-j82h-vpf9,https://da.gd/L1YaM
