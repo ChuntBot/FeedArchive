@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7fpj-9hr8-28vh] Keycloak vulnerable to impersonation via logout token exchange,https://github.com/advisories/GHSA-7fpj-9hr8-28vh,https://da.gd/jJr9m
+GithubAdvisories,[GHSA-c9h6-v78w-52wj] Keycloak vulnerable to session hijacking via re-authentication,https://github.com/advisories/GHSA-c9h6-v78w-52wj,https://da.gd/SoonbG
+GithubAdvisories,[GHSA-72vp-xfrc-42xm] Keycloak path transversal vulnerability in redirection validation,https://github.com/advisories/GHSA-72vp-xfrc-42xm,https://da.gd/s6MLm8
+GithubAdvisories,[GHSA-m6q9-p373-g5q8] Keycloak's unvalidated cross-origin messages in checkLoginIframe leads to DDoS,https://github.com/advisories/GHSA-m6q9-p373-g5q8,https://da.gd/lEzDS
+GithubAdvisories,[GHSA-j628-q885-8gr5] Keycloak vulnerable to log Injection during WebAuthn authentication or registration,https://github.com/advisories/GHSA-j628-q885-8gr5,https://da.gd/HPN4d
+GithubAdvisories,[GHSA-6ppg-rgrg-f573] Dolibarr vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-6ppg-rgrg-f573,https://da.gd/zLJnB
+GithubAdvisories,[GHSA-6qmx-42h2-j8h6] .NET Elevation of Privilege Vulnerability,https://github.com/advisories/GHSA-6qmx-42h2-j8h6,https://da.gd/pFzLg
+GithubAdvisories,[GHSA-8m45-2rjm-j347] @solana/web3.js vulnerable to Denial of Service attack via Message/Transaction object deserialization,https://github.com/advisories/GHSA-8m45-2rjm-j347,https://da.gd/XUXEG6
+GithubAdvisories,[GHSA-74p6-39f2-23v3] Blind SSRF Leads to Port Scan by using Webhooks,https://github.com/advisories/GHSA-74p6-39f2-23v3,https://da.gd/MBZs5l
