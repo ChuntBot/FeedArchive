@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v6rw-hhgg-wc4x] Evmos vulnerable to DOS and transaction fee expropiation through Authz exploit,https://github.com/advisories/GHSA-v6rw-hhgg-wc4x,https://da.gd/7TUAZ
+GithubAdvisories,[GHSA-46c8-635v-68r2] Keycloak Authorization Bypass vulnerability,https://github.com/advisories/GHSA-46c8-635v-68r2,https://da.gd/s9HkpV
+GithubAdvisories,[GHSA-8rmm-gm28-pj8q] Keycloak Cross-site Scripting (XSS) via assertion consumer service URL in SAML POST-binding flow,https://github.com/advisories/GHSA-8rmm-gm28-pj8q,https://da.gd/0X5eV
+GithubAdvisories,[GHSA-4f53-xh3v-g8x4] Keycloak secondary factor bypass in step-up authentication,https://github.com/advisories/GHSA-4f53-xh3v-g8x4,https://da.gd/HrjQL
+GithubAdvisories,[GHSA-mrv8-pqfj-7gp5] Keycloak path traversal vulnerability in the redirect validation,https://github.com/advisories/GHSA-mrv8-pqfj-7gp5,https://da.gd/nZmvZC
