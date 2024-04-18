@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6cjm-4pxw-7xp9] Sentry vulnerable to leaking superuser cleartext password in logs,https://github.com/advisories/GHSA-6cjm-4pxw-7xp9,https://da.gd/1EFY
