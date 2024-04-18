@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7gpw-8wmc-pm8g] aiohttp Cross-site Scripting vulnerability on index pages for static file handling,https://github.com/advisories/GHSA-7gpw-8wmc-pm8g,https://da.gd/iMegDS
