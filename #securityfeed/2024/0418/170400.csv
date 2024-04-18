@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jjff-q3q4-5hh8] @andrei-tatar/nora-firebase-common Prototype Pollution vulnerability,https://github.com/advisories/GHSA-jjff-q3q4-5hh8,https://da.gd/PWhd1S
+GithubAdvisories,"[GHSA-2522-mrjc-m688] Apache Airflow: Sensitive configuration for providers displayed when ""non-sensitive-only"" config used",https://github.com/advisories/GHSA-2522-mrjc-m688,https://da.gd/3kiCIn
+GithubAdvisories,[GHSA-6m9h-2pr2-9j8f] 1Panel's password verification is suspected to have a timing attack vulnerability,https://github.com/advisories/GHSA-6m9h-2pr2-9j8f,https://da.gd/YAylfi
+GithubAdvisories,[GHSA-7947-48q7-cp5m] Dolibarr Application Home Page has HTML injection vulnerability,https://github.com/advisories/GHSA-7947-48q7-cp5m,https://da.gd/iv2ZW
