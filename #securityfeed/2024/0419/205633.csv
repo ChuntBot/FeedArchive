@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mx3p-fhpw-x6rv] TCPDF vulnerable to Regular Expression Denial of Service,https://github.com/advisories/GHSA-mx3p-fhpw-x6rv,https://da.gd/0a2yG
+GithubAdvisories,[GHSA-hgxw-5xg3-69jx] @hono/node-server has Denial of Service risk when receiving Host header that cannot be parsed,https://github.com/advisories/GHSA-hgxw-5xg3-69jx,https://da.gd/kYFw
+GithubAdvisories,[GHSA-6g7w-8wpp-frhj] Infinite loop in rustls::conn::ConnectionCommon::complete_io() with proper client input,https://github.com/advisories/GHSA-6g7w-8wpp-frhj,https://da.gd/X3rwh
