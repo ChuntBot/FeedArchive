@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-23q2-5gf8-gjpp] Enabling Authentication does not close all logged in socket connections immediately,https://github.com/advisories/GHSA-23q2-5gf8-gjpp,https://da.gd/buavX
