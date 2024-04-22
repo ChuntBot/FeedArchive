@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hvp5-5x4f-33fq] JADX file override vulnerability,https://github.com/advisories/GHSA-hvp5-5x4f-33fq,https://da.gd/zVYPfb
+GithubAdvisories,[GHSA-x883-2vmg-xwf7] Authelia's Group Changes may not have the expected results (YAML file backend),https://github.com/advisories/GHSA-x883-2vmg-xwf7,https://da.gd/I8JIkl
+GithubAdvisories,[GHSA-cvqr-mwh6-2vc6] Apache Answer: XSS vulnerability when changing personal website,https://github.com/advisories/GHSA-cvqr-mwh6-2vc6,https://da.gd/PykgK
+GithubAdvisories,[GHSA-qwhw-hh9j-54f5] Ant Media Server vulnerable to a local privilege escalation,https://github.com/advisories/GHSA-qwhw-hh9j-54f5,https://da.gd/pJV5K
