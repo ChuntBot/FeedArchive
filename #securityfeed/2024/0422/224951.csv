@@ -1,0 +1,36 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-53wm-97p6-582f] instack-undercloud vulnerable to symlink attack on tmp files,https://github.com/advisories/GHSA-53wm-97p6-582f,https://da.gd/KJq9PL
+GithubAdvisories,[GHSA-h896-6hcp-gj6c] Bodhi Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-h896-6hcp-gj6c,https://da.gd/Y0AyL
+GithubAdvisories,[GHSA-g3cc-pvjj-9xq9] Yelp OSXCollector Improper Certificate Validation,https://github.com/advisories/GHSA-g3cc-pvjj-9xq9,https://da.gd/VDZmfT
+GithubAdvisories,[GHSA-4fpg-j5mp-783g] Cloudtoken Insufficiently Protects Credentials,https://github.com/advisories/GHSA-4fpg-j5mp-783g,https://da.gd/RlJgae
+GithubAdvisories,[GHSA-xmw7-848p-p95w] Airbnb Knowledge Repo XSS In Comments,https://github.com/advisories/GHSA-xmw7-848p-p95w,https://da.gd/LPbtC
+GithubAdvisories,[GHSA-336h-q7mh-8vf8] Reddit Terminal Viewer (RTV) vulnerable to argument injection attacks,https://github.com/advisories/GHSA-336h-q7mh-8vf8,https://da.gd/JsTzO
+GithubAdvisories,[GHSA-mpmf-hr8p-p49g] Sanic arbitrary file read and directory traversal,https://github.com/advisories/GHSA-mpmf-hr8p-p49g,https://da.gd/CYDnSj
+GithubAdvisories,[GHSA-2gh8-gr6x-7q26] SOAPpy vulnerable to XXE attacks,https://github.com/advisories/GHSA-2gh8-gr6x-7q26,https://da.gd/kQpPCM
+GithubAdvisories,[GHSA-63h2-9cc8-fc7m] meinheld vulnerable to HTTP Request Smuggling,https://github.com/advisories/GHSA-63h2-9cc8-fc7m,https://da.gd/lSqRzw
+GithubAdvisories,[GHSA-pf3p-v9xp-mrvf] py-lmdb Invalid write operation,https://github.com/advisories/GHSA-pf3p-v9xp-mrvf,https://da.gd/ifuMR
+GithubAdvisories,[GHSA-9q62-r72g-pvv7] py-lmdb Invalid write operation,https://github.com/advisories/GHSA-9q62-r72g-pvv7,https://da.gd/ij3v
+GithubAdvisories,[GHSA-c74c-p4p7-r8q5] py-lmdb Invalid write operation,https://github.com/advisories/GHSA-c74c-p4p7-r8q5,https://da.gd/tNFU
+GithubAdvisories,[GHSA-ggwq-vrgp-6gv4] py-lmdb Divide by Zero interruptions,https://github.com/advisories/GHSA-ggwq-vrgp-6gv4,https://da.gd/TbXAi
+GithubAdvisories,[GHSA-5pj3-6fqm-8m7m] OpenStack Sushy-Tools and VirtualBMC Improper Preservation of Permissions,https://github.com/advisories/GHSA-5pj3-6fqm-8m7m,https://da.gd/EWBvFq
+GithubAdvisories,[GHSA-v9pc-9mvp-x87g] Pillow Buffer overflow in Jpeg2KEncode.c,https://github.com/advisories/GHSA-v9pc-9mvp-x87g,https://da.gd/YSd0fK
+GithubAdvisories,[GHSA-r562-m862-63w3] APM Java Agent Local Privilege Escalation,https://github.com/advisories/GHSA-r562-m862-63w3,https://da.gd/lzhIO
+GithubAdvisories,[GHSA-p4xh-4869-8vrg] AdaptiveScale LXDUI Hardcoded JWT Secret Key,https://github.com/advisories/GHSA-p4xh-4869-8vrg,https://da.gd/Y3LXy
+GithubAdvisories,[GHSA-x38j-4rr5-hqrj] git-big-picture Code Execution,https://github.com/advisories/GHSA-x38j-4rr5-hqrj,https://da.gd/FYy71
+GithubAdvisories,[GHSA-h8xp-h3jf-wv4v] SaltStack Salt SQL Injection vulnerability in mysql.user_chpass function,https://github.com/advisories/GHSA-h8xp-h3jf-wv4v,https://da.gd/Prir
+GithubAdvisories,[GHSA-pmj6-9f8c-8g2m] Saltstack Salt Unauthenticated Arbitrary Code Execution,https://github.com/advisories/GHSA-pmj6-9f8c-8g2m,https://da.gd/rF9Q
+GithubAdvisories,[GHSA-q53j-p6r2-g2v4] SaltStack Salt is vulnerable to command injection,https://github.com/advisories/GHSA-q53j-p6r2-g2v4,https://da.gd/WYuB
+GithubAdvisories,[GHSA-vp49-2g4r-m3x3] SaltStack Salt is vulnerable Arbitrary Directory Access,https://github.com/advisories/GHSA-vp49-2g4r-m3x3,https://da.gd/hxgFv
+GithubAdvisories,[GHSA-3c56-vx6v-q5vh] SaltStack Salt Allows creating certificates with weak file permissions,https://github.com/advisories/GHSA-3c56-vx6v-q5vh,https://da.gd/emz5Jq
+GithubAdvisories,[GHSA-pjhf-vpx3-33r3] SaltStack Salt Unauthenticated Remote Code Execution,https://github.com/advisories/GHSA-pjhf-vpx3-33r3,https://da.gd/8vuQ26
+GithubAdvisories,[GHSA-29j3-2446-5j4w] SaltStack Salt Improper Validation of eauth credentials and tokens in salt-netapi,https://github.com/advisories/GHSA-29j3-2446-5j4w,https://da.gd/rqmgB
+GithubAdvisories,[GHSA-x549-r7m8-gv63] SaltStack Salt Remote command execution and incorrect access control when using salt-api,https://github.com/advisories/GHSA-x549-r7m8-gv63,https://da.gd/fkQwV
+GithubAdvisories,[GHSA-jx34-pppm-gjvr] SaltStack Salt Directory Traversal vulnerability in salt-api,https://github.com/advisories/GHSA-jx34-pppm-gjvr,https://da.gd/EwCLs
+GithubAdvisories,[GHSA-8r7r-x48r-pf8f] SaltStack Salt arbitrary command execution in Salt-api via ssh_client,https://github.com/advisories/GHSA-8r7r-x48r-pf8f,https://da.gd/Tv1Vj
+GithubAdvisories,[GHSA-g283-88v5-rmq2] SaltStack Salt allows compromised salt-minions to impersonate the salt-master,https://github.com/advisories/GHSA-g283-88v5-rmq2,https://da.gd/jFoout
+GithubAdvisories,[GHSA-657p-cj5r-mjrh] SaltStack Salt Denial of Service via a crafted authentication request,https://github.com/advisories/GHSA-657p-cj5r-mjrh,https://da.gd/3hW8l
+GithubAdvisories,[GHSA-j6gj-pg62-x8j6] SaltStack Salt Directory traversal vulnerability in minion id validation,https://github.com/advisories/GHSA-j6gj-pg62-x8j6,https://da.gd/xo1SoZ
+GithubAdvisories,[GHSA-f2h7-4f84-8qrm] SaltStack Salt Authentication Bypass when using the local_batch client from salt-api,https://github.com/advisories/GHSA-f2h7-4f84-8qrm,https://da.gd/y6X1TZ
+GithubAdvisories,[GHSA-xxvj-8g5m-4qgw] SaltStack Salt Directory traversal vulnerability in minion id validation,https://github.com/advisories/GHSA-xxvj-8g5m-4qgw,https://da.gd/eNhY
+GithubAdvisories,[GHSA-mfr3-9cj8-h2qm] SaltStack Salt Insecure Temporary File Creation,https://github.com/advisories/GHSA-mfr3-9cj8-h2qm,https://da.gd/NaJZ4
+GithubAdvisories,[GHSA-xcx4-5wq7-g5g7] SaltStack Salt Information Exposure,https://github.com/advisories/GHSA-xcx4-5wq7-g5g7,https://da.gd/mXfgN1
