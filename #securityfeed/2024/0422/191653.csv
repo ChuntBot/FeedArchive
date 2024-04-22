@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3h6c-c475-jm7v] Arbitrary Code Execution in Gitea,https://github.com/advisories/GHSA-3h6c-c475-jm7v,https://da.gd/WV9kfN
+GithubAdvisories,[GHSA-2qm5-r82g-5hcx] ThinkAdmin directory traversal vulnerability,https://github.com/advisories/GHSA-2qm5-r82g-5hcx,https://da.gd/JVaN
+GithubAdvisories,[GHSA-c49v-35ff-q9f7] DotPlant2 Improper Restriction of XML External Entity Reference,https://github.com/advisories/GHSA-c49v-35ff-q9f7,https://da.gd/RuJro
+GithubAdvisories,[GHSA-rcmj-xp8f-f6q4] Trac Open redirect vulnerability,https://github.com/advisories/GHSA-rcmj-xp8f-f6q4,https://da.gd/lfVoW
+GithubAdvisories,[GHSA-m52m-2qpx-9j4j] Zope Object Database (ZODB) Arbitrary files reading and deletion,https://github.com/advisories/GHSA-m52m-2qpx-9j4j,https://da.gd/KhA4nP
+GithubAdvisories,[GHSA-jrfm-2h82-xg28] Use after free in SciPy,https://github.com/advisories/GHSA-jrfm-2h82-xg28,https://da.gd/OxRl
+GithubAdvisories,[GHSA-jhxw-4hw4-mhh7] MoinMoin improper access control on the included page for the rst parser,https://github.com/advisories/GHSA-jhxw-4hw4-mhh7,https://da.gd/LGue
