@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-phhw-3wc9-8q75] SaltStack Salt command injection via a crafted process name,https://github.com/advisories/GHSA-phhw-3wc9-8q75,https://da.gd/TcklW
+GithubAdvisories,[GHSA-w589-r335-4f55] SaltStack Salt Improper Certificate Validation,https://github.com/advisories/GHSA-w589-r335-4f55,https://da.gd/cP7U9
+GithubAdvisories,[GHSA-76x4-x3p6-rpr9] SaltStack Salt Directory Traversal vulnerability,https://github.com/advisories/GHSA-76x4-x3p6-rpr9,https://da.gd/8x0myT
+GithubAdvisories,[GHSA-xxw3-765m-f37p] SaltStack Salt Improper Authentication vulnerability,https://github.com/advisories/GHSA-xxw3-765m-f37p,https://da.gd/H2QD7F
+GithubAdvisories,[GHSA-xgmh-gfxw-2hvv] SaltStack Salt Server Side Template Injection,https://github.com/advisories/GHSA-xgmh-gfxw-2hvv,https://da.gd/g0sO
+GithubAdvisories,[GHSA-r55w-xph5-xvx2] SaltStack Salt Cleartext Storage of Sensitive Information via cmdmod,https://github.com/advisories/GHSA-r55w-xph5-xvx2,https://da.gd/GUNo9
+GithubAdvisories,[GHSA-8rp6-x3r7-5qw3] SaltStack Salt is vulnerable to shell injection via ProxyCommand argument,https://github.com/advisories/GHSA-8rp6-x3r7-5qw3,https://da.gd/vgVLm
+GithubAdvisories,[GHSA-w2hr-3mc8-46gh] SaltStack Salt eauth tokens can be used once after expiration,https://github.com/advisories/GHSA-w2hr-3mc8-46gh,https://da.gd/aJc3Ef
+GithubAdvisories,[GHSA-ghc2-hx3w-jqmp] SaltStack Salt command injection in the Salt-API when using the Salt-SSH client,https://github.com/advisories/GHSA-ghc2-hx3w-jqmp,https://da.gd/BxmKh
+GithubAdvisories,[GHSA-qcr3-hr2f-6557] SaltStack Salt Permissions Bypass,https://github.com/advisories/GHSA-qcr3-hr2f-6557,https://da.gd/Gs05j
+GithubAdvisories,[GHSA-5r3f-3m3j-wcj2] SaltStack Salt Authentication Bypass by Capture-replay,https://github.com/advisories/GHSA-5r3f-3m3j-wcj2,https://da.gd/GOJAI
