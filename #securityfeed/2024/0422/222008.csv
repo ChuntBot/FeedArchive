@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p72q-h37j-3hq7] dbt uses a SQLparse version with a high vulnerability,https://github.com/advisories/GHSA-p72q-h37j-3hq7,https://da.gd/uqO18E
+GithubAdvisories,[GHSA-h653-95qw-h2mp] Ansible leaks sensitive information to logs when told not to,https://github.com/advisories/GHSA-h653-95qw-h2mp,https://da.gd/AisZp
+GithubAdvisories,[GHSA-q5h6-49gg-2wfg] GramAddict bot uses dependency with reverse tcp backdoor,https://github.com/advisories/GHSA-q5h6-49gg-2wfg,https://da.gd/CI5Qjg
+GithubAdvisories,[GHSA-3m8p-xpm6-8ww3] Ansible Arbitrary Code Execution,https://github.com/advisories/GHSA-3m8p-xpm6-8ww3,https://da.gd/4tv4
+GithubAdvisories,[GHSA-j569-fghw-f9rx] Ansible sensitive information disclosure,https://github.com/advisories/GHSA-j569-fghw-f9rx,https://da.gd/Xap3
+GithubAdvisories,[GHSA-fc4h-467w-46rh] Ansible Arbitrary Code Execution,https://github.com/advisories/GHSA-fc4h-467w-46rh,https://da.gd/vJ9uP4
+GithubAdvisories,[GHSA-hwrm-63v2-42g4] Ansible Leaks Data Passed to ssh-keygen,https://github.com/advisories/GHSA-hwrm-63v2-42g4,https://da.gd/4IoO
+GithubAdvisories,[GHSA-v735-2pp6-h86r] Ansible Logs Passwords If PowerShell ScriptBlock is Enabled,https://github.com/advisories/GHSA-v735-2pp6-h86r,https://da.gd/EbePgv
+GithubAdvisories,[GHSA-5pcv-m8w2-62m9] Ajenti Cross-site Scripting Via Filename,https://github.com/advisories/GHSA-5pcv-m8w2-62m9,https://da.gd/WrIi8
