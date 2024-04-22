@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hwgp-c653-6684] GitBook allows Cross-site Scripting via a local .md file,https://github.com/advisories/GHSA-hwgp-c653-6684,https://da.gd/X25r9z
+GithubAdvisories,[GHSA-h6xg-rg33-9mf4] deep-defaults vulnerable to prototype pollution,https://github.com/advisories/GHSA-h6xg-rg33-9mf4,https://da.gd/Ga1Ld
+GithubAdvisories,[GHSA-45mx-g85m-wwm3] Obsidian does not require user confirmation for non-http/https URLs,https://github.com/advisories/GHSA-45mx-g85m-wwm3,https://da.gd/GvtQoQ
+GithubAdvisories,[GHSA-5gxc-fxcr-9326] convert-svg-core vulnerable to remote code injection,https://github.com/advisories/GHSA-5gxc-fxcr-9326,https://da.gd/C49t
+GithubAdvisories,[GHSA-866w-wm4h-95c6] thlorenz browserify-shim vulnerable to prototype pollution,https://github.com/advisories/GHSA-866w-wm4h-95c6,https://da.gd/TScPD4
+GithubAdvisories,[GHSA-r737-347m-wqc7] thlorenz browserify-shim vulnerable to prototype pollution,https://github.com/advisories/GHSA-r737-347m-wqc7,https://da.gd/QTkUP
+GithubAdvisories,[GHSA-cfgr-75jx-h88g] thlorenz browserify-shim vulnerable to prototype pollution,https://github.com/advisories/GHSA-cfgr-75jx-h88g,https://da.gd/LuWFfd
+GithubAdvisories,[GHSA-j7fq-p9q7-5wfv] Treekill Enables OS Command Injection,https://github.com/advisories/GHSA-j7fq-p9q7-5wfv,https://da.gd/L8ZSKV
