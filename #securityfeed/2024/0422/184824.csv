@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2mm7-x5h6-5pvq] Moby (Docker Engine) started with non-empty inheritable Linux process capabilities,https://github.com/advisories/GHSA-2mm7-x5h6-5pvq,https://da.gd/dLJW7
+GithubAdvisories,[GHSA-qmmm-73r2-f8xr] @hoppscotch/cli affected by Sandbox Escape in @hoppscotch/js-sandbox leads to RCE,https://github.com/advisories/GHSA-qmmm-73r2-f8xr,https://da.gd/tOcA0
+GithubAdvisories,[GHSA-6mgp-p75r-vhjm] Apache HugeGraph-Server: Bypass whitelist in Auth mode,https://github.com/advisories/GHSA-6mgp-p75r-vhjm,https://da.gd/zMP9
+GithubAdvisories,[GHSA-29rc-vq7f-x335] Apache HugeGraph-Server: Command execution in gremlin,https://github.com/advisories/GHSA-29rc-vq7f-x335,https://da.gd/tr3qFI
+GithubAdvisories,[GHSA-77x4-55q7-4vmj] Apache HugeGraph-Hubble: SSRF in Hubble connection page,https://github.com/advisories/GHSA-77x4-55q7-4vmj,https://da.gd/9lEAc
+GithubAdvisories,[GHSA-jh57-j3vq-h438] LibreNMS vulnerable to a Time-Based Blind SQL injection leads to database extraction,https://github.com/advisories/GHSA-jh57-j3vq-h438,https://da.gd/Xmafed
+GithubAdvisories,[GHSA-72m9-7c8x-pmmw] LibreNMS uses Improper Sanitization on Service template name leads to Stored XSS,https://github.com/advisories/GHSA-72m9-7c8x-pmmw,https://da.gd/QDz1RE
+GithubAdvisories,[GHSA-cwx6-cx7x-4q34] LibreNMS vulnerable to SQL injection time-based leads to database extraction,https://github.com/advisories/GHSA-cwx6-cx7x-4q34,https://da.gd/PRnit
