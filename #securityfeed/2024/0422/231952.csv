@@ -1,0 +1,30 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h2p3-h48h-9jj7] PIDUsage Enables OS Command Injection,https://github.com/advisories/GHSA-h2p3-h48h-9jj7,https://da.gd/WWpDk
+GithubAdvisories,[GHSA-h8hf-x3f4-xwgp] Mongoose Vulnerable to Prototype Pollution in Schema Object,https://github.com/advisories/GHSA-h8hf-x3f4-xwgp,https://da.gd/LEGAK
+GithubAdvisories,[GHSA-g2c3-vwff-m3xr] Font-Converter Vulnerable to Arbitrary Command Injection,https://github.com/advisories/GHSA-g2c3-vwff-m3xr,https://da.gd/IyZ7m
+GithubAdvisories,[GHSA-cgfm-xwp7-2cvr] Sanitize-html Vulnerable To REDoS Attacks,https://github.com/advisories/GHSA-cgfm-xwp7-2cvr,https://da.gd/qWRZi
+GithubAdvisories,[GHSA-8mmm-9v2q-x3f9] tschaub gh-pages vulnerable to prototype pollution,https://github.com/advisories/GHSA-8mmm-9v2q-x3f9,https://da.gd/ZkHJ
+GithubAdvisories,[GHSA-fw45-938v-p26j] mootools-more vulnerable to prototype pollution,https://github.com/advisories/GHSA-fw45-938v-p26j,https://da.gd/p8vbWD
+GithubAdvisories,[GHSA-jv4c-7jqq-m34x] CKEditor 4 ReDoS Vulnerability,https://github.com/advisories/GHSA-jv4c-7jqq-m34x,https://da.gd/KBAIA
+GithubAdvisories,[GHSA-wgxm-rg53-h2c6] Prototype pollution vulnerability in 'deep-set',https://github.com/advisories/GHSA-wgxm-rg53-h2c6,https://da.gd/ccgC2
+GithubAdvisories,[GHSA-jr64-pggr-j8xj] Shiba vulnerable to XSS leading to code execution,https://github.com/advisories/GHSA-jr64-pggr-j8xj,https://da.gd/A5pO3
+GithubAdvisories,[GHSA-pcv5-m2wh-66j3] Keycloak discloses information without authentication,https://github.com/advisories/GHSA-pcv5-m2wh-66j3,https://da.gd/Txm9V9
+GithubAdvisories,[GHSA-qgmm-f2qw-r95f] Keycloak leaks sensitive information in logged exceptions,https://github.com/advisories/GHSA-qgmm-f2qw-r95f,https://da.gd/PruJg2
+GithubAdvisories,[GHSA-vmqq-7qvx-68qx] promise-probe OS command injection vulnerability,https://github.com/advisories/GHSA-vmqq-7qvx-68qx,https://da.gd/heT3HD
+GithubAdvisories,[GHSA-p739-9479-5wr2] jqueryFileTree vulnerable to Directory Traversal,https://github.com/advisories/GHSA-p739-9479-5wr2,https://da.gd/rrn5h4
+GithubAdvisories,[GHSA-8cp3-66vr-3r4c] Formidable arbitrary file upload,https://github.com/advisories/GHSA-8cp3-66vr-3r4c,https://da.gd/jJlef
+GithubAdvisories,[GHSA-pfq8-rq6v-vf5m] kangax html-minifier REDoS vulnerability,https://github.com/advisories/GHSA-pfq8-rq6v-vf5m,https://da.gd/dPr2s
+GithubAdvisories,[GHSA-vjjf-3rvg-gv3v] Dulwich Buffer Overflow when handling pack files,https://github.com/advisories/GHSA-vjjf-3rvg-gv3v,https://da.gd/UIoqr
+GithubAdvisories,[GHSA-mv8g-fhh6-6267] Django user with hardcoded password created when running tests on Oracle,https://github.com/advisories/GHSA-mv8g-fhh6-6267,https://da.gd/wQ42V
+GithubAdvisories,[GHSA-2cf3-g243-hhfx] MySQL Connectors Privilege Escalation,https://github.com/advisories/GHSA-2cf3-g243-hhfx,https://da.gd/hMyi9o
+GithubAdvisories,[GHSA-7cwg-2575-3546] Tryton Information Disclosure Vulnerability,https://github.com/advisories/GHSA-7cwg-2575-3546,https://da.gd/EjhBL
+GithubAdvisories,[GHSA-whmq-cfm5-j8mj] NFStream Local Denial of Service (DoS),https://github.com/advisories/GHSA-whmq-cfm5-j8mj,https://da.gd/tPGBy
+GithubAdvisories,[GHSA-qxm5-vx5j-pp6w] snapcraft Access Restriction Bypass,https://github.com/advisories/GHSA-qxm5-vx5j-pp6w,https://da.gd/16l4k
+GithubAdvisories,[GHSA-jjw5-xxj6-pcv5] scikit-learn Deserialization of Untrusted Data,https://github.com/advisories/GHSA-jjw5-xxj6-pcv5,https://da.gd/LfXxP
+GithubAdvisories,[GHSA-vf8g-m3vq-6p4p] Plone Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-vf8g-m3vq-6p4p,https://da.gd/q7sd
+GithubAdvisories,[GHSA-qj27-32wp-ghrg] Pyo Buffer Overflow Vulnerability,https://github.com/advisories/GHSA-qj27-32wp-ghrg,https://da.gd/khUp1
+GithubAdvisories,[GHSA-84jm-cpc5-c7g7] Plone XSS in Zope ZMI,https://github.com/advisories/GHSA-84jm-cpc5-c7g7,https://da.gd/gMk5x
+GithubAdvisories,[GHSA-hprr-4vfq-fcxw] Plone XSS in User Fullname Property and File Upload,https://github.com/advisories/GHSA-hprr-4vfq-fcxw,https://da.gd/zotnr
+GithubAdvisories,[GHSA-38g6-x6jv-jwff] Plone XSS Vulnerability,https://github.com/advisories/GHSA-38g6-x6jv-jwff,https://da.gd/hlb2Z
+GithubAdvisories,[GHSA-x9rq-fjp5-qgm9] OctoPrint Incorrect Access Control,https://github.com/advisories/GHSA-x9rq-fjp5-qgm9,https://da.gd/vRkP1
+GithubAdvisories,[GHSA-v83x-78q3-gr2j] GNU Mailman Postorius Access Control Issues,https://github.com/advisories/GHSA-v83x-78q3-gr2j,https://da.gd/8mmJ
