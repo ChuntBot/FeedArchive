@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ph84-vg7q-fqq8] Bolt Cross-site Scripting (XSS) via a title that is mishandled in the system log,https://github.com/advisories/GHSA-ph84-vg7q-fqq8,https://da.gd/mOJ512
+GithubAdvisories,[GHSA-fp8m-xw3f-6h7x] Bolt Cross-site Scripting (XSS) via an image's alt or title field,https://github.com/advisories/GHSA-fp8m-xw3f-6h7x,https://da.gd/IGuj4
+GithubAdvisories,"[GHSA-2g23-qmmp-fvmr] Bolt Cross-site Scripting via the slug, teaser or title parameters",https://github.com/advisories/GHSA-2g23-qmmp-fvmr,https://da.gd/hTduHp
+GithubAdvisories,[GHSA-wr23-m9m2-jjf4] Bolt Improper Access Control,https://github.com/advisories/GHSA-wr23-m9m2-jjf4,https://da.gd/6CAX
+GithubAdvisories,[GHSA-3g6c-88pf-m46f] Bolt Cross Site Request Forgery (CSRF),https://github.com/advisories/GHSA-3g6c-88pf-m46f,https://da.gd/yO8znc
+GithubAdvisories,[GHSA-gmg5-f2gm-p3h7] Bolt Unrestricted Upload of File with Dangerous Type,https://github.com/advisories/GHSA-gmg5-f2gm-p3h7,https://da.gd/sqgu
+GithubAdvisories,[GHSA-5r9j-698h-2h5m] Bolt stored Cross-site Scripting (XSS),https://github.com/advisories/GHSA-5r9j-698h-2h5m,https://da.gd/AsXVl
+GithubAdvisories,[GHSA-r9mw-gwx9-v3h5] zend-mail remote code execution via Sendmail adapter,https://github.com/advisories/GHSA-r9mw-gwx9-v3h5,https://da.gd/1Un147
+GithubAdvisories,[GHSA-pm9m-w23q-5967] Zend Framework Information Disclosure,https://github.com/advisories/GHSA-pm9m-w23q-5967,https://da.gd/twYGS
+GithubAdvisories,[GHSA-f6rc-rh43-h8gr] Zend Access Restriction Bypass,https://github.com/advisories/GHSA-f6rc-rh43-h8gr,https://da.gd/dPFGJZ
+GithubAdvisories,[GHSA-2hvh-c5c2-vj85] Zend Framework SQL injection vector using null byte for PDO,https://github.com/advisories/GHSA-2hvh-c5c2-vj85,https://da.gd/sn9F
+GithubAdvisories,[GHSA-rh3c-7wqx-6w95] zend-diactoros Cross-site Scripting (XSS),https://github.com/advisories/GHSA-rh3c-7wqx-6w95,https://da.gd/EQAKYF
+GithubAdvisories,[GHSA-hgr8-g756-vmg9] Zeta Components Mail Arbitrary code execution via a crafted email address,https://github.com/advisories/GHSA-hgr8-g756-vmg9,https://da.gd/v6lp2
+GithubAdvisories,[GHSA-358v-cqjc-2pcq] Mautic Cross Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-358v-cqjc-2pcq,https://da.gd/C9UZK
+GithubAdvisories,[GHSA-7vvh-xqq4-w777] Mautic Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-7vvh-xqq4-w777,https://da.gd/LFLS
+GithubAdvisories,[GHSA-98j2-3jv7-274m] Mautic stored Cross-site Scripting (XSS),https://github.com/advisories/GHSA-98j2-3jv7-274m,https://da.gd/yZu4D
+GithubAdvisories,[GHSA-2jjm-6whx-p8w4] filp whoops Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-2jjm-6whx-p8w4,https://da.gd/fzHo
+GithubAdvisories,[GHSA-77cq-wgpf-g449] Coaster CMS Stored Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-77cq-wgpf-g449,https://da.gd/gdpKw
+GithubAdvisories,[GHSA-x2w2-qgv6-8xrm] Elefant CMS PHP Code Execution Vulnerability,https://github.com/advisories/GHSA-x2w2-qgv6-8xrm,https://da.gd/xi20v
+GithubAdvisories,[GHSA-8255-qf34-44mp] Sensitive Cookie Without HttpOnly and Secure Flag,https://github.com/advisories/GHSA-8255-qf34-44mp,https://da.gd/hWO4s
+GithubAdvisories,[GHSA-h847-63fg-vm6c] nZEDb Cross-site Scripting (XSS) in the 404 error page,https://github.com/advisories/GHSA-h847-63fg-vm6c,https://da.gd/zobGK
+GithubAdvisories,[GHSA-2853-hf2g-9843] PHPOffice Common Improper Restriction of XML External Entity Reference,https://github.com/advisories/GHSA-2853-hf2g-9843,https://da.gd/dKTcPl
+GithubAdvisories,[GHSA-9x63-m3cc-qf3g] Moodle Unauthorized searching of arbitrary blogs by typing full url,https://github.com/advisories/GHSA-9x63-m3cc-qf3g,https://da.gd/yRZnBF
+GithubAdvisories,[GHSA-5v43-55m5-qr8f] getID3 is vulnerable to XML External Entity (XXE),https://github.com/advisories/GHSA-5v43-55m5-qr8f,https://da.gd/JhEG
+GithubAdvisories,[GHSA-9mpf-g3fc-9rgv] FriendsOfSymfony FOSUserBundle denial of service via login form,https://github.com/advisories/GHSA-9mpf-g3fc-9rgv,https://da.gd/UdRT7q
