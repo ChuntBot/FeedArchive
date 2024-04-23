@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p745-347h-hjfw] Drupal sensitive information disclosure,https://github.com/advisories/GHSA-p745-347h-hjfw,https://da.gd/6KSS
+GithubAdvisories,[GHSA-5vpr-v24w-mmjj] Drupal cross site scripting vulnerability,https://github.com/advisories/GHSA-5vpr-v24w-mmjj,https://da.gd/3B0Ra2
+GithubAdvisories,[GHSA-wm86-w3cf-h6vm] Drupal external link injection vulnerability,https://github.com/advisories/GHSA-wm86-w3cf-h6vm,https://da.gd/2xnkUD
