@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w228-rfpx-fhm4] cg vulnerable to an Open Redirect Vulnerability on Referer Header,https://github.com/advisories/GHSA-w228-rfpx-fhm4,https://da.gd/2Q5mU
+GithubAdvisories,[GHSA-rqgv-292v-5qgr] Renovate vulnerable to arbitrary command injection via helmv3 manager and registryAliases,https://github.com/advisories/GHSA-rqgv-292v-5qgr,https://da.gd/sVadtf
+GithubAdvisories,[GHSA-3mpf-rcc7-5347] Hono vulnerable to Restricted Directory Traversal in serveStatic with deno,https://github.com/advisories/GHSA-3mpf-rcc7-5347,https://da.gd/c5uUp
+GithubAdvisories,[GHSA-pxhw-596r-rwq5] Kubernetes allows bypassing mountable secrets policy imposed by the ServiceAccount admission plugin,https://github.com/advisories/GHSA-pxhw-596r-rwq5,https://da.gd/mokQ0
