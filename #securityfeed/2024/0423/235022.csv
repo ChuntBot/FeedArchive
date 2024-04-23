@@ -1,0 +1,53 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xhfw-wjjc-4j5h] Moodle Cross-site Scripting,https://github.com/advisories/GHSA-xhfw-wjjc-4j5h,https://da.gd/5MBJy
+GithubAdvisories,"[GHSA-xv72-6pgh-cjj8] Moodle stored-XSS vulnerability in some ""social"" user profile fields",https://github.com/advisories/GHSA-xv72-6pgh-cjj8,https://da.gd/Ls9OI
+GithubAdvisories,[GHSA-6gx2-g773-hv9h] Moodle reflected cross-site scripting vulnerability in policy tool,https://github.com/advisories/GHSA-6gx2-g773-hv9h,https://da.gd/U03az
+GithubAdvisories,[GHSA-xjr3-fwp9-9g96] Moodle Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-xjr3-fwp9-9g96,https://da.gd/JHPgo
+GithubAdvisories,[GHSA-385f-vgq7-8hhx] Moodle No groups filtering in H5P activity attempts report,https://github.com/advisories/GHSA-385f-vgq7-8hhx,https://da.gd/mYEu
+GithubAdvisories,[GHSA-mqw9-3cjm-xwp3] Moodle Minor SQL injection risk in admin user browsing,https://github.com/advisories/GHSA-mqw9-3cjm-xwp3,https://da.gd/1TjcBZ
+GithubAdvisories,[GHSA-2hmm-q272-xmhf] Moodle remote code execution,https://github.com/advisories/GHSA-2hmm-q272-xmhf,https://da.gd/2YcG
+GithubAdvisories,[GHSA-54r2-r67g-fr9m] Moodle User fullname disclosure on user preferences page,https://github.com/advisories/GHSA-54r2-r67g-fr9m,https://da.gd/Ialhbh
+GithubAdvisories,[GHSA-xhq3-455r-xv44] Moodle SQL injection via user preferences,https://github.com/advisories/GHSA-xhq3-455r-xv44,https://da.gd/IH1j0G
+GithubAdvisories,[GHSA-rjh8-w8jg-xwq5] Moodle Exposure of Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-rjh8-w8jg-xwq5,https://da.gd/5piIff
+GithubAdvisories,[GHSA-332g-xh34-5c96] Moodle Privilege escalation in quiz web services,https://github.com/advisories/GHSA-332g-xh34-5c96,https://da.gd/fpoKk
+GithubAdvisories,[GHSA-vxmv-74rf-vqgp] Moodle Portfolio forum caller class allows a user to download any file,https://github.com/advisories/GHSA-vxmv-74rf-vqgp,https://da.gd/Xtpv
+GithubAdvisories,[GHSA-vxqh-mx28-7ghw] Moodle Portfolio script allows instantiation of class chosen by user,https://github.com/advisories/GHSA-vxqh-mx28-7ghw,https://da.gd/A6njj
+GithubAdvisories,[GHSA-45rw-4r25-jvg7] Moodle Logged in users could view all calendar events,https://github.com/advisories/GHSA-45rw-4r25-jvg7,https://da.gd/Jb3Jz
+GithubAdvisories,[GHSA-xjx9-7c29-pwmm] Moodle Improper Privilege Management,https://github.com/advisories/GHSA-xjx9-7c29-pwmm,https://da.gd/YCWHuy
+GithubAdvisories,[GHSA-hpwm-84h5-vqr8] Moodle Setting for blocked hosts list can be bypassed with multiple A record hostnames,https://github.com/advisories/GHSA-hpwm-84h5-vqr8,https://da.gd/qarb
+GithubAdvisories,[GHSA-5w4h-xrr5-7273] Moodle Exposure of Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-5w4h-xrr5-7273,https://da.gd/GVAtM
+GithubAdvisories,[GHSA-xj5f-qv37-r9jc] Moodle Login CSRF vulnerability in login form,https://github.com/advisories/GHSA-xj5f-qv37-r9jc,https://da.gd/jz0Jt
+GithubAdvisories,[GHSA-qh8m-6g4p-33h3] Moodle Improper Authentication,https://github.com/advisories/GHSA-qh8m-6g4p-33h3,https://da.gd/iEJaVd
+GithubAdvisories,[GHSA-jp4g-r8c9-3534] Moodle Blind SSRF Risk in /badges/mybackpack.php,https://github.com/advisories/GHSA-jp4g-r8c9-3534,https://da.gd/95fevS
+GithubAdvisories,[GHSA-v9xq-vh72-chr4] Moodle Unauthenticated users can trigger custom messages to admin via paypal enrol script,https://github.com/advisories/GHSA-v9xq-vh72-chr4,https://da.gd/N1jeP
+GithubAdvisories,[GHSA-cjrf-xg77-chpw] Moodle Incorrect sanitation of attributes in forums,https://github.com/advisories/GHSA-cjrf-xg77-chpw,https://da.gd/7HyyN
+GithubAdvisories,[GHSA-2phx-w35g-x9vm] Moodle Weak Password Recovery Mechanism for Forgotten Password,https://github.com/advisories/GHSA-2phx-w35g-x9vm,https://da.gd/hw4N1
+GithubAdvisories,[GHSA-g96h-wvrm-c2ww] Moodle Improper Access Control,https://github.com/advisories/GHSA-g96h-wvrm-c2ww,https://da.gd/cq1VJ
+GithubAdvisories,[GHSA-gj2j-ppjq-9pjg] Moodle Cross-site scripting (XSS) vulnerability in course management search,https://github.com/advisories/GHSA-gj2j-ppjq-9pjg,https://da.gd/TS0o8
+GithubAdvisories,[GHSA-j8wr-7xxj-c2fr] Moodle Private files uploaded via incoming mail processing could bypass quota restrictions,https://github.com/advisories/GHSA-j8wr-7xxj-c2fr,https://da.gd/nDNO
+GithubAdvisories,[GHSA-4qxc-qxrp-33cw] Moodle denial-of-service risk in the draft files area,https://github.com/advisories/GHSA-4qxc-qxrp-33cw,https://da.gd/KKHBS6
+GithubAdvisories,[GHSA-5wjh-v7c8-wrhx] Moodle stored Cross-site Scripting,https://github.com/advisories/GHSA-5wjh-v7c8-wrhx,https://da.gd/4XDOjU
+GithubAdvisories,[GHSA-vrpr-2xxx-g444] Moodle Exposure of Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-vrpr-2xxx-g444,https://da.gd/BdiI
+GithubAdvisories,[GHSA-rvmc-8gmg-ggqr] Moodle Blind SQL injection possible via MNet authentication,https://github.com/advisories/GHSA-rvmc-8gmg-ggqr,https://da.gd/gcXLv
+GithubAdvisories,[GHSA-grj4-g57c-9xmv] Moodle Bypass email verification secret when confirming account registration,https://github.com/advisories/GHSA-grj4-g57c-9xmv,https://da.gd/5ssYY
+GithubAdvisories,[GHSA-h8m4-h385-qhqv] Moodle Cross-site Scripting,https://github.com/advisories/GHSA-h8m4-h385-qhqv,https://da.gd/z06K63
+GithubAdvisories,[GHSA-c3j6-33r4-89q3] Moodle Client side denial of service via personal message,https://github.com/advisories/GHSA-c3j6-33r4-89q3,https://da.gd/ZSeb9z
+GithubAdvisories,[GHSA-mm73-86f9-5x5c] Moodle Grade information disclosure in grade's external fetch functions,https://github.com/advisories/GHSA-mm73-86f9-5x5c,https://da.gd/VG9uOT
+GithubAdvisories,[GHSA-4w4j-9533-82qg] Moodle Cross-site Scripting (XSS),https://github.com/advisories/GHSA-4w4j-9533-82qg,https://da.gd/7ALYSR
+GithubAdvisories,[GHSA-mgfp-qcf2-pw3m] Moodle stored Cross-site Scripting (XSS),https://github.com/advisories/GHSA-mgfp-qcf2-pw3m,https://da.gd/srOSW
+GithubAdvisories,[GHSA-m98q-q59p-r9fv] Moodle open redirect vulnerability,https://github.com/advisories/GHSA-m98q-q59p-r9fv,https://da.gd/Fj1T8i
+GithubAdvisories,[GHSA-2jrm-gww7-wch2] Moodle Arbitrary PHP code execution by site admins via Shibboleth configuration,https://github.com/advisories/GHSA-2jrm-gww7-wch2,https://da.gd/0Ljf
+GithubAdvisories,[GHSA-2jxg-mv2m-j4r7] Moodle type juggling vulnerability,https://github.com/advisories/GHSA-2jxg-mv2m-j4r7,https://da.gd/tTaYuZ
+GithubAdvisories,[GHSA-m37g-mwcg-7j7v] Moodle Improper Encoding or Escaping of Output,https://github.com/advisories/GHSA-m37g-mwcg-7j7v,https://da.gd/p6i8xV
+GithubAdvisories,[GHSA-gp4w-f57r-9rx3] Moodle Exposure of Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-gp4w-f57r-9rx3,https://da.gd/BiTHU5
+GithubAdvisories,[GHSA-wwv7-h477-wrv7] Moodle Stored XSS and blind SSRF possible via SCORM track details,https://github.com/advisories/GHSA-wwv7-h477-wrv7,https://da.gd/26hoc3
+GithubAdvisories,[GHSA-pgm5-cr62-prxq] Moodle Arbitrary file read when importing lesson questions,https://github.com/advisories/GHSA-pgm5-cr62-prxq,https://da.gd/ADPC
+GithubAdvisories,[GHSA-xp2f-9mx3-3c6p] Moodle PostScript Code Injection,https://github.com/advisories/GHSA-xp2f-9mx3-3c6p,https://da.gd/OaSAG
+GithubAdvisories,[GHSA-58fm-v4pr-jh8p] Moodle Unrestricted file upload vulnerability,https://github.com/advisories/GHSA-58fm-v4pr-jh8p,https://da.gd/snYIxI
+GithubAdvisories,[GHSA-g58x-p3pj-rg52] Moodle Glossary search displays entries without checking user permissions to view them,https://github.com/advisories/GHSA-g58x-p3pj-rg52,https://da.gd/kTJ6UV
+GithubAdvisories,[GHSA-xqcf-vgqc-pcmg] Moodle blind Server-Side Request Forgery (SSRF) vulnerability in LTI provider library,https://github.com/advisories/GHSA-xqcf-vgqc-pcmg,https://da.gd/OGFwr
+GithubAdvisories,[GHSA-6r76-f8c8-fh7p] Moodle Cross-site Scripting in assignment submission page,https://github.com/advisories/GHSA-6r76-f8c8-fh7p,https://da.gd/WPSNk3
+GithubAdvisories,[GHSA-wr6q-xv23-rfq9] Moodle Incorrect Authorization,https://github.com/advisories/GHSA-wr6q-xv23-rfq9,https://da.gd/K6VR
+GithubAdvisories,[GHSA-92vh-mr2w-j2cr] Moodle Improper Authentication,https://github.com/advisories/GHSA-92vh-mr2w-j2cr,https://da.gd/a5Mdir
+GithubAdvisories,[GHSA-jqgr-gh62-jf53] Moodle Stored Cross-site Scripting and page denial of service,https://github.com/advisories/GHSA-jqgr-gh62-jf53,https://da.gd/szhLY
+GithubAdvisories,[GHSA-2m72-m5cw-3g9h] Missing permission check in Moodle,https://github.com/advisories/GHSA-2m72-m5cw-3g9h,https://da.gd/SmrD
