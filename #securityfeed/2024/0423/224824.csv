@@ -1,0 +1,38 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-66xp-28cq-mrf2] Moodle Denial of Service,https://github.com/advisories/GHSA-66xp-28cq-mrf2,https://da.gd/tjuJUM
+GithubAdvisories,[GHSA-x6gq-vr59-4q5q] KumbiaPHP Cross-site Scripting,https://github.com/advisories/GHSA-x6gq-vr59-4q5q,https://da.gd/0dczFr
+GithubAdvisories,[GHSA-3hmr-948v-5qgq] Moodle Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-3hmr-948v-5qgq,https://da.gd/mcv9sl
+GithubAdvisories,[GHSA-3xh5-5v5v-mfgm] Moodle reflected Cross-site Scripting (XSS),https://github.com/advisories/GHSA-3xh5-5v5v-mfgm,https://da.gd/m1BsM
+GithubAdvisories,[GHSA-454r-jccq-96q8] Moodle Exposure of Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-454r-jccq-96q8,https://da.gd/3Lfj8
+GithubAdvisories,[GHSA-wx87-h539-4775] Moodle Information Disclosure vulnerability,https://github.com/advisories/GHSA-wx87-h539-4775,https://da.gd/QSUZF
+GithubAdvisories,[GHSA-92q5-2h76-vgmj] moodle Improper Access Control,https://github.com/advisories/GHSA-92q5-2h76-vgmj,https://da.gd/yjFO
+GithubAdvisories,[GHSA-h7xp-7fjp-ghhc] moodle Improper Access Control,https://github.com/advisories/GHSA-h7xp-7fjp-ghhc,https://da.gd/7lrWln
+GithubAdvisories,[GHSA-c95f-27gx-6vq9] phpWhois arbitrary code execution via a crafted whois record,https://github.com/advisories/GHSA-c95f-27gx-6vq9,https://da.gd/oIUhiC
+GithubAdvisories,[GHSA-9r2j-rg24-fvpj] FrozenNode Laravel-Administrator unrestricted file upload,https://github.com/advisories/GHSA-9r2j-rg24-fvpj,https://da.gd/bqGqx7
+GithubAdvisories,[GHSA-qh9w-r7g5-q939] Zend Framework SQL injection vulnerability,https://github.com/advisories/GHSA-qh9w-r7g5-q939,https://da.gd/6JgG
+GithubAdvisories,"[GHSA-6g9h-6v79-w4pc] Drupal Users without ""Administer comments"" can set comment visibility on nodes they can edit",https://github.com/advisories/GHSA-6g9h-6v79-w4pc,https://da.gd/Kx0CPY
+GithubAdvisories,[GHSA-585j-5449-mf5m] Drupal cross-site scripting vulnerability,https://github.com/advisories/GHSA-585j-5449-mf5m,https://da.gd/j8yZFI
+GithubAdvisories,[GHSA-2p28-5mvp-2j2r] Drupal Comment reply form allows access to restricted content,https://github.com/advisories/GHSA-2p28-5mvp-2j2r,https://da.gd/3P8oM7
+GithubAdvisories,[GHSA-7fh9-933g-885p] Drupal Core Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-7fh9-933g-885p,https://da.gd/AgJx7
+GithubAdvisories,[GHSA-297x-j9pm-xjgg] Drupal Core Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-297x-j9pm-xjgg,https://da.gd/8B7P
+GithubAdvisories,[GHSA-qp8q-gwf5-hqh2] Drupal Cross-Site Scripting vulnerability,https://github.com/advisories/GHSA-qp8q-gwf5-hqh2,https://da.gd/GkqAt4
+GithubAdvisories,[GHSA-7ffh-cjvg-fpr4] Drupal Settings Tray access bypass,https://github.com/advisories/GHSA-7ffh-cjvg-fpr4,https://da.gd/MCwIG
+GithubAdvisories,[GHSA-66mv-q8r2-hj8w] Drupal access bypass vulnerability,https://github.com/advisories/GHSA-66mv-q8r2-hj8w,https://da.gd/L9J3xD
+GithubAdvisories,[GHSA-3327-jr93-7hq3] Drupal access bypass vulnerability,https://github.com/advisories/GHSA-3327-jr93-7hq3,https://da.gd/mVlH1r
+GithubAdvisories,[GHSA-f4qx-jqfq-7785] Drupal Entity access bypass for entities that do not have UUIDs or have protected revisions,https://github.com/advisories/GHSA-f4qx-jqfq-7785,https://da.gd/tbq57b
+GithubAdvisories,[GHSA-rhx9-3qf7-r3j7] Drupal Remote code execution,https://github.com/advisories/GHSA-rhx9-3qf7-r3j7,https://da.gd/rYSg
+GithubAdvisories,[GHSA-p8g6-5mg7-9r5q] Drupal REST API can bypass comment approval,https://github.com/advisories/GHSA-p8g6-5mg7-9r5q,https://da.gd/HNnJDs
+GithubAdvisories,[GHSA-58f3-cx8p-h8jg] Drupal core access bypass vulnerability,https://github.com/advisories/GHSA-58f3-cx8p-h8jg,https://da.gd/gcbf54
+GithubAdvisories,[GHSA-qf2g-mrrx-rr5p] Drupal Core Cross-site scripting vulnerability,https://github.com/advisories/GHSA-qf2g-mrrx-rr5p,https://da.gd/HwEI
+GithubAdvisories,[GHSA-x2q9-r8gm-f657] Drupal Core Access bypass vulnerability,https://github.com/advisories/GHSA-x2q9-r8gm-f657,https://da.gd/Lr4tmB
+GithubAdvisories,[GHSA-wxqp-jwc9-g39x] Drupal Core Access bypass vulnerability,https://github.com/advisories/GHSA-wxqp-jwc9-g39x,https://da.gd/Ba5IAJ
+GithubAdvisories,[GHSA-x72f-ggjw-v5xh] Drupal Core Arbitrary PHP code execution vulnerability,https://github.com/advisories/GHSA-x72f-ggjw-v5xh,https://da.gd/1DNSNA
+GithubAdvisories,[GHSA-gjqg-9rhv-qj67] Drupal Core Open Redirect vulnerability,https://github.com/advisories/GHSA-gjqg-9rhv-qj67,https://da.gd/cX0Ew9
+GithubAdvisories,[GHSA-8jj2-x2gc-ggm7] Drupal Core Cross-site scripting vulnerability,https://github.com/advisories/GHSA-8jj2-x2gc-ggm7,https://da.gd/PJUOz
+GithubAdvisories,[GHSA-fg5q-r2q5-qmh3] Drupal CRLF injection vulnerability in the drupal_set_header function,https://github.com/advisories/GHSA-fg5q-r2q5-qmh3,https://da.gd/qGjYD
+GithubAdvisories,[GHSA-4gh5-3hqj-x3pj] Drupal Form API ignores access restrictions on submit buttons,https://github.com/advisories/GHSA-4gh5-3hqj-x3pj,https://da.gd/Aiauy
+GithubAdvisories,[GHSA-gxwx-c7m8-f95h] Drupal Open redirect vulnerability in the drupal_goto function,https://github.com/advisories/GHSA-gxwx-c7m8-f95h,https://da.gd/ATE5w
+GithubAdvisories,[GHSA-w2pj-c8x5-jvg2] Drupal File upload access bypass and denial of service,https://github.com/advisories/GHSA-w2pj-c8x5-jvg2,https://da.gd/bDTYa
+GithubAdvisories,[GHSA-69g8-g9jq-74v7] Drupal arbitrary code execution,https://github.com/advisories/GHSA-69g8-g9jq-74v7,https://da.gd/ZNjq
+GithubAdvisories,[GHSA-vhg8-x858-7wq6] Drupal Cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-vhg8-x858-7wq6,https://da.gd/6chUo2
+GithubAdvisories,[GHSA-fmqh-2j2x-vgp3] Drupal Unprivileged access to config export,https://github.com/advisories/GHSA-fmqh-2j2x-vgp3,https://da.gd/ay8Fsl
