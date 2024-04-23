@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3h7q-rfh9-xm4v] Synapse V2 state resolution weakness allows Denial of Service (DoS),https://github.com/advisories/GHSA-3h7q-rfh9-xm4v,https://da.gd/t65Sn
+GithubAdvisories,[GHSA-7vf4-x5m2-r6gr] OpenMetadata vulnerable to SpEL Injection in `PUT /api/v1/policies` (`GHSL-2023-252`),https://github.com/advisories/GHSA-7vf4-x5m2-r6gr,https://da.gd/6KE6
+GithubAdvisories,[GHSA-4rch-2fh8-94vw] MySQL2 for Node Arbitrary Code Injection,https://github.com/advisories/GHSA-4rch-2fh8-94vw,https://da.gd/wnp4c
