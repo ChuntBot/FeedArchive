@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q6v4-xjp2-8ggv] Securimage HTML Injection,https://github.com/advisories/GHSA-q6v4-xjp2-8ggv,https://da.gd/fhYJX
+GithubAdvisories,[GHSA-6rm6-mjmh-86jq] HTML Purifier Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-6rm6-mjmh-86jq,https://da.gd/JYFT
+GithubAdvisories,[GHSA-3p68-m5qw-9g9w] HTML Purifier cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-3p68-m5qw-9g9w,https://da.gd/QuAESB
+GithubAdvisories,[GHSA-5hr6-r8h6-wh22] JetPack Exposure of Resource to Wrong Sphere,https://github.com/advisories/GHSA-5hr6-r8h6-wh22,https://da.gd/oAGENR
+GithubAdvisories,[GHSA-7vrp-3pff-c3j4] OpenCart Stored Cross-Site Scripting,https://github.com/advisories/GHSA-7vrp-3pff-c3j4,https://da.gd/M6US2u
+GithubAdvisories,[GHSA-87cv-57p8-j33x] OpenCart Cross-site Scripting (XSS) in the Subject field of mail,https://github.com/advisories/GHSA-87cv-57p8-j33x,https://da.gd/XN9hF
+GithubAdvisories,[GHSA-6grv-hw8g-4gfm] PrestaShop Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-6grv-hw8g-4gfm,https://da.gd/Xqi21P
+GithubAdvisories,[GHSA-cmmh-8mwp-gq5p] Drupal Cross Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-cmmh-8mwp-gq5p,https://da.gd/XxKvO
+GithubAdvisories,[GHSA-qc2p-6qrf-25j2] laracom Cross-site Scripting,https://github.com/advisories/GHSA-qc2p-6qrf-25j2,https://da.gd/Kc6Iw
