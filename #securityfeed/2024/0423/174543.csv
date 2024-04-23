@@ -1,0 +1,31 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mjr5-v9c9-mm7g] Joplin Remote Code Execution,https://github.com/advisories/GHSA-mjr5-v9c9-mm7g,https://da.gd/FfAzHh
+GithubAdvisories,[GHSA-phj8-2p6x-hq5r] Joplin Cross Site Scripting Vulnerability via NOSCRIPT tags,https://github.com/advisories/GHSA-phj8-2p6x-hq5r,https://da.gd/4kiQw
+GithubAdvisories,[GHSA-m6mf-hmrh-ph4j] Joplin Vulnerable to Cross-site Scripting in Note Content,https://github.com/advisories/GHSA-m6mf-hmrh-ph4j,https://da.gd/3GaX8n
+GithubAdvisories,[GHSA-8478-53pv-jxvm] Joplin Vulnerable to Code Injection,https://github.com/advisories/GHSA-8478-53pv-jxvm,https://da.gd/B8lBi
+GithubAdvisories,[GHSA-mrmf-755g-w2vw] Joplin vulnerable to Cross-site Scripting in notes,https://github.com/advisories/GHSA-mrmf-755g-w2vw,https://da.gd/zDnZt
+GithubAdvisories,[GHSA-9695-w6h2-jpv9] Keycloak users may be able to remove MFA from other users' devices,https://github.com/advisories/GHSA-9695-w6h2-jpv9,https://da.gd/5krb
+GithubAdvisories,[GHSA-9c24-43p5-fv82] Keycloak code execution via UMA policy abuse,https://github.com/advisories/GHSA-9c24-43p5-fv82,https://da.gd/HspD4
+GithubAdvisories,[GHSA-8xj2-47xw-q78c] Keycloak Insufficient Session Expiry,https://github.com/advisories/GHSA-8xj2-47xw-q78c,https://da.gd/ZDUf
+GithubAdvisories,[GHSA-3j6m-m5v5-9785] OpenCart Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-3j6m-m5v5-9785,https://da.gd/WROr
+GithubAdvisories,[GHSA-jwqr-jcwp-445w] OpenCart Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-jwqr-jcwp-445w,https://da.gd/5V9H7c
+GithubAdvisories,[GHSA-wx3q-f5f2-4q8v] OpenCart Path Traversal,https://github.com/advisories/GHSA-wx3q-f5f2-4q8v,https://da.gd/Ixk1r
+GithubAdvisories,[GHSA-qgrf-34hp-ghm9] OpenCart Path Traversal,https://github.com/advisories/GHSA-qgrf-34hp-ghm9,https://da.gd/88l1d6
+GithubAdvisories,[GHSA-825g-f3g2-6vxf] QuickApps CMS Cross-site Scripting,https://github.com/advisories/GHSA-825g-f3g2-6vxf,https://da.gd/7fT6O
+GithubAdvisories,[GHSA-62g2-8p9f-ghjp] QuickAppsCMS Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-62g2-8p9f-ghjp,https://da.gd/Xr4xx
+GithubAdvisories,[GHSA-3p9v-xp6w-wcmc] QuickAppsCMS Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-3p9v-xp6w-wcmc,https://da.gd/MNeV80
+GithubAdvisories,[GHSA-489x-ccjw-q7c4] Paymorrow Improper Input Validation vulnerability,https://github.com/advisories/GHSA-489x-ccjw-q7c4,https://da.gd/FH0ou
+GithubAdvisories,[GHSA-vg4f-8v9q-5c3x] LightSAML Incorrect Access Control vulnerability,https://github.com/advisories/GHSA-vg4f-8v9q-5c3x,https://da.gd/n11v
+GithubAdvisories,[GHSA-297f-r9w7-w492] Magento Improper input validation vulnerability,https://github.com/advisories/GHSA-297f-r9w7-w492,https://da.gd/7Kskv
+GithubAdvisories,[GHSA-phhm-6pgm-mxw9] MODX Revolution blind SQL injection,https://github.com/advisories/GHSA-phhm-6pgm-mxw9,https://da.gd/56V9f7
+GithubAdvisories,[GHSA-h4fh-gpvh-753g] Yab Quarx persistent cross-site scripting vulnerability,https://github.com/advisories/GHSA-h4fh-gpvh-753g,https://da.gd/B2Lhz
+GithubAdvisories,[GHSA-9c24-g32g-35rj] Drupal PECL YAML parser unsafe object handling,https://github.com/advisories/GHSA-9c24-g32g-35rj,https://da.gd/GJBi
+GithubAdvisories,[GHSA-98w5-wqp9-w466] Drupal Incorrect cache context on password reset page,https://github.com/advisories/GHSA-98w5-wqp9-w466,https://da.gd/aNqy
+GithubAdvisories,[GHSA-w7qx-vwr9-2j3r] Drupal editor module incorrectly checks access to inline private files,https://github.com/advisories/GHSA-w7qx-vwr9-2j3r,https://da.gd/EQLJ
+GithubAdvisories,[GHSA-h377-287m-w2r9] Drupal file REST resource does not properly validate,https://github.com/advisories/GHSA-h377-287m-w2r9,https://da.gd/Ujj6e
+GithubAdvisories,[GHSA-q3p9-8728-wq7x] Drupal saving user accounts can sometimes grant the user all roles,https://github.com/advisories/GHSA-q3p9-8728-wq7x,https://da.gd/4SIvml
+GithubAdvisories,[GHSA-3gx6-h57h-rm27] Drupal Core Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-3gx6-h57h-rm27,https://da.gd/WVldN
+GithubAdvisories,[GHSA-qqxc-cppg-4xp8] Drupal Reflected file download vulnerability,https://github.com/advisories/GHSA-qqxc-cppg-4xp8,https://da.gd/nJad5Z
+GithubAdvisories,[GHSA-rfxx-gxwc-923c] Drupal Views can allow unauthorized users to see Statistics information,https://github.com/advisories/GHSA-rfxx-gxwc-923c,https://da.gd/ez7GAm
+GithubAdvisories,[GHSA-jpj8-49hr-wcwv] Drupal Denial of service via transliterate mechanism,https://github.com/advisories/GHSA-jpj8-49hr-wcwv,https://da.gd/ewfKhg
+GithubAdvisories,[GHSA-66gr-xrcf-8jpq] Drupal Open Redirect,https://github.com/advisories/GHSA-66gr-xrcf-8jpq,https://da.gd/KMjBe
