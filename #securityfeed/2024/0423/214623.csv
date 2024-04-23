@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ppf8-hhpp-f5hj] Hugo Markdown titles do not escaped in internal render hooks,https://github.com/advisories/GHSA-ppf8-hhpp-f5hj,https://da.gd/2K2K
+GithubAdvisories,[GHSA-mw82-6m2g-qh6c] Sylius Cross Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-mw82-6m2g-qh6c,https://da.gd/niCC
+GithubAdvisories,[GHSA-624g-8qjg-8qxf] Conform contains a Prototype Pollution Vulnerability in `parseWith...` function,https://github.com/advisories/GHSA-624g-8qjg-8qxf,https://da.gd/06RQmc
