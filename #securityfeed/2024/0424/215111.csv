@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f2wr-c4c4-xjg7] Apache Traffic Control vulnerable to Slowloris-style Denial of Service attack,https://github.com/advisories/GHSA-f2wr-c4c4-xjg7,https://da.gd/85y5ga
+GithubAdvisories,[GHSA-mg2c-rc36-p594] Apache Traffic Control Traffic Ops Vulnerable to LDAP Injection,https://github.com/advisories/GHSA-mg2c-rc36-p594,https://da.gd/wXFU
+GithubAdvisories,[GHSA-c3wv-qmjj-45r6] Information disclosure in podman,https://github.com/advisories/GHSA-c3wv-qmjj-45r6,https://da.gd/UdcQhu
+GithubAdvisories,[GHSA-xh8x-j8h3-m5ph] Rancher Recreates Default User With Known Password Despite Deletion,https://github.com/advisories/GHSA-xh8x-j8h3-m5ph,https://da.gd/OXqdkE
+GithubAdvisories,[GHSA-2p4g-jrmx-r34m] Rancher Login Parameter Can Be Edited,https://github.com/advisories/GHSA-2p4g-jrmx-r34m,https://da.gd/FZ6ie5
+GithubAdvisories,[GHSA-6g56-v9qg-jp92] Heketi Arbitrary Code Execution,https://github.com/advisories/GHSA-6g56-v9qg-jp92,https://da.gd/1oDxV
+GithubAdvisories,[GHSA-rm7c-x6gj-2mr8] Heketi logs sensitive information,https://github.com/advisories/GHSA-rm7c-x6gj-2mr8,https://da.gd/ijHut
+GithubAdvisories,[GHSA-849r-8wvp-4wwg] Permissions bypass in KubeVirt,https://github.com/advisories/GHSA-849r-8wvp-4wwg,https://da.gd/zaSMbo
