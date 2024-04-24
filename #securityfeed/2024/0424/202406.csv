@@ -1,0 +1,25 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vpq9-c67q-23fq] Fastly Magento2 sensitive information disclosure,https://github.com/advisories/GHSA-vpq9-c67q-23fq,https://da.gd/2qXUiW
+GithubAdvisories,[GHSA-rp89-32rp-qpq2] Pagekit Weak Password Recovery Mechanism for Forgotten Password,https://github.com/advisories/GHSA-rp89-32rp-qpq2,https://da.gd/QRdSEw
+GithubAdvisories,[GHSA-v47j-rw9h-6m47] Pagekit open redirect vulnerability,https://github.com/advisories/GHSA-v47j-rw9h-6m47,https://da.gd/24eba
+GithubAdvisories,[GHSA-3rwj-v7jp-w542] Pagekit Stored Cross-site Scripting,https://github.com/advisories/GHSA-3rwj-v7jp-w542,https://da.gd/vS7mCi
+GithubAdvisories,[GHSA-jh2j-7248-9p3c] Pagekit User enumeration,https://github.com/advisories/GHSA-jh2j-7248-9p3c,https://da.gd/lM5f
+GithubAdvisories,[GHSA-g5r6-vrmx-9gwj] LibreNMS SQL Injection vulnerability,https://github.com/advisories/GHSA-g5r6-vrmx-9gwj,https://da.gd/sKeIw
+GithubAdvisories,[GHSA-c7fv-wv9f-cgjw] php-shellcommand command injection vulnerability,https://github.com/advisories/GHSA-c7fv-wv9f-cgjw,https://da.gd/rk7cj
+GithubAdvisories,[GHSA-9mmc-27gw-w6mq] Bytebase allows low-privilege users to view admin projects,https://github.com/advisories/GHSA-9mmc-27gw-w6mq,https://da.gd/fhXgv0
+GithubAdvisories,[GHSA-jf2w-mq6r-56v8] Caddy allows enumeration of Certificates and Hostnames,https://github.com/advisories/GHSA-jf2w-mq6r-56v8,https://da.gd/j5F2Cc
+GithubAdvisories,[GHSA-2v35-wj4r-rcmv] Kubernetes Secrets Store CSI Driver plugins arbitrary file write,https://github.com/advisories/GHSA-2v35-wj4r-rcmv,https://da.gd/EWO8
+GithubAdvisories,[GHSA-r76g-g87f-vw8f] Kubelet Incorrect Privilege Assignment,https://github.com/advisories/GHSA-r76g-g87f-vw8f,https://da.gd/8JHgdI
+GithubAdvisories,[GHSA-5xfg-wv98-264m] Sensitive Information leak via Log File in Kubernetes,https://github.com/advisories/GHSA-5xfg-wv98-264m,https://da.gd/ZR4n
+GithubAdvisories,[GHSA-5x96-j797-5qqw] Sensitive Information leak via Log File in Kubernetes,https://github.com/advisories/GHSA-5x96-j797-5qqw,https://da.gd/Xdcpj
+GithubAdvisories,[GHSA-r23h-3jmw-q7hr] Access Restriction Bypass in go-ipfs,https://github.com/advisories/GHSA-r23h-3jmw-q7hr,https://da.gd/Qru6
+GithubAdvisories,[GHSA-55qj-gj3x-jq9r] Denial of service in Kubernetes,https://github.com/advisories/GHSA-55qj-gj3x-jq9r,https://da.gd/tUzJuE
+GithubAdvisories,[GHSA-33c5-9fx5-fvjm] Privilege Escalation in Kubernetes,https://github.com/advisories/GHSA-33c5-9fx5-fvjm,https://da.gd/Pm7d
+GithubAdvisories,[GHSA-mq35-x99r-54fc] github.com/u-root/u-root/pkg/cpio Arbitrary File Write via Archive Extraction (Zip Slip),https://github.com/advisories/GHSA-mq35-x99r-54fc,https://da.gd/u65WFU
+GithubAdvisories,[GHSA-84gf-rw24-pfqg] NukeViet SQL Injection vulnerability via topicsid parameter,https://github.com/advisories/GHSA-84gf-rw24-pfqg,https://da.gd/fwKlm
+GithubAdvisories,[GHSA-m8jx-mxf9-2rpw] NukeViet SQL Injection vulnerability,https://github.com/advisories/GHSA-m8jx-mxf9-2rpw,https://da.gd/Q1Cx
+GithubAdvisories,[GHSA-6j4j-22qg-9ffm] NukeViet Cross-site Scripting via the editor in the News module,https://github.com/advisories/GHSA-6j4j-22qg-9ffm,https://da.gd/jsq7
+GithubAdvisories,[GHSA-g3xf-85wc-45gq] NukeViet Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-g3xf-85wc-45gq,https://da.gd/XS1O
+GithubAdvisories,[GHSA-c2px-jcgw-9x57] NukeViet Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-c2px-jcgw-9x57,https://da.gd/lBjt0
+GithubAdvisories,[GHSA-7rw5-6pr4-fgh3] NukeViet Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-7rw5-6pr4-fgh3,https://da.gd/7uNTo4
+GithubAdvisories,[GHSA-9p7q-v9gp-frq4] Dolibarr Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-9p7q-v9gp-frq4,https://da.gd/SIsp8O
