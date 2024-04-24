@@ -1,0 +1,33 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c8wj-q36q-3wg4] phpMyAdmin Arbitrary file read vulnerability,https://github.com/advisories/GHSA-c8wj-q36q-3wg4,https://da.gd/2D26i
+GithubAdvisories,[GHSA-5868-g58j-vrj5] phpMyAdmin Improper Privilege Management,https://github.com/advisories/GHSA-5868-g58j-vrj5,https://da.gd/E7GJ
+GithubAdvisories,[GHSA-xc97-r49q-cxgc] phpMyAdmin Local file inclusion through transformation feature,https://github.com/advisories/GHSA-xc97-r49q-cxgc,https://da.gd/VE75
+GithubAdvisories,[GHSA-f732-fxh6-g4qj] phpMyAdmin SQL injection in Designer feature,https://github.com/advisories/GHSA-f732-fxh6-g4qj,https://da.gd/kaafz
+GithubAdvisories,[GHSA-8m97-xc46-rw9w] phpMyAdmin Unsafe comparison of XSRF/CSRF token,https://github.com/advisories/GHSA-8m97-xc46-rw9w,https://da.gd/KvzwjP
+GithubAdvisories,[GHSA-9rmm-8fp4-26hv] phpMyAdmin Denial Of Service (DOS) attack,https://github.com/advisories/GHSA-9rmm-8fp4-26hv,https://da.gd/oEBnQ0
+GithubAdvisories,[GHSA-c958-4j9x-q7w4] phpMyAdmin Cross-site Scripting (XSS) in the import dialog,https://github.com/advisories/GHSA-c958-4j9x-q7w4,https://da.gd/CCGp
+GithubAdvisories,[GHSA-rv6m-chvv-wmxg] phpMyAdmin Denial of service (DOS) attack in transformation feature,https://github.com/advisories/GHSA-rv6m-chvv-wmxg,https://da.gd/9Vz1r
+GithubAdvisories,[GHSA-wpww-hx7x-xfjh] phpMyAdmin PHP code injection,https://github.com/advisories/GHSA-wpww-hx7x-xfjh,https://da.gd/5hL4Q
+GithubAdvisories,[GHSA-r2vw-p77f-vc27] phpMyAdmin Bypass logout timeout,https://github.com/advisories/GHSA-r2vw-p77f-vc27,https://da.gd/Cf9eK
+GithubAdvisories,[GHSA-p849-vf5f-f3x7] phpMyAdmin Remote code execution vulnerability when PHP is running with dbase extension,https://github.com/advisories/GHSA-p849-vf5f-f3x7,https://da.gd/iXfgU1
+GithubAdvisories,[GHSA-426q-975p-w5cr] phpMyAdmin Denial of service (DOS) attack with dbase extension,https://github.com/advisories/GHSA-426q-975p-w5cr,https://da.gd/5h8xjS
+GithubAdvisories,[GHSA-r643-7xfg-ppc5] phpMyAdmin allows to detect if user is logged in,https://github.com/advisories/GHSA-r643-7xfg-ppc5,https://da.gd/Vmgjw
+GithubAdvisories,[GHSA-mhxj-6vf8-mwv3] phpMyAdmin IPv6 and proxy server IP-based authentication rule circumvention,https://github.com/advisories/GHSA-mhxj-6vf8-mwv3,https://da.gd/tU6M
+GithubAdvisories,[GHSA-jfmj-27fp-qp67] phpMyAdmin Cross-site Scripting (XSS),https://github.com/advisories/GHSA-jfmj-27fp-qp67,https://da.gd/yPC6zd
+GithubAdvisories,[GHSA-xj4v-gp4q-h6qq] qcubed reflected cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-xj4v-gp4q-h6qq,https://da.gd/O7Ipt
+GithubAdvisories,[GHSA-7w3c-jgh7-cwjw] qcubed PHP object injection,https://github.com/advisories/GHSA-7w3c-jgh7-cwjw,https://da.gd/O1Jpvy
+GithubAdvisories,[GHSA-8fj6-pc5r-347q] qcubed SQL injection vulnerability in profile.php via the strQuery parameter,https://github.com/advisories/GHSA-8fj6-pc5r-347q,https://da.gd/1V5VZ
+GithubAdvisories,[GHSA-wmh7-782f-xfw5] Gravity Forms stored Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-wmh7-782f-xfw5,https://da.gd/OlUJca
+GithubAdvisories,[GHSA-pjv5-v9gv-3679] Gravity Forms stored Cross-Site Scripting (XSS) vulnerability in the survey feature,https://github.com/advisories/GHSA-pjv5-v9gv-3679,https://da.gd/UtcoV
+GithubAdvisories,[GHSA-fcj2-rxqc-294c] Gravity Forms stored HTML injection vulnerability,https://github.com/advisories/GHSA-fcj2-rxqc-294c,https://da.gd/bqfp
+GithubAdvisories,[GHSA-m983-q76g-cwpq] Gravity Forms plugin leak hashed passwords,https://github.com/advisories/GHSA-m983-q76g-cwpq,https://da.gd/2Xu3R
+GithubAdvisories,[GHSA-6fxc-v8wq-849g] WPGlobus plugin Stored XSS & CSRF security vulnerability,https://github.com/advisories/GHSA-6fxc-v8wq-849g,https://da.gd/f4hag
+GithubAdvisories,[GHSA-qf99-3qrg-g97q] WPGlobus plugin Stored XSS & CSRF security vulnerability,https://github.com/advisories/GHSA-qf99-3qrg-g97q,https://da.gd/MtQ1SD
+GithubAdvisories,[GHSA-599g-r6x7-jm4x] WPGlobus plugin Stored XSS & CSRF security vulnerability,https://github.com/advisories/GHSA-599g-r6x7-jm4x,https://da.gd/6oP3n
+GithubAdvisories,[GHSA-gpq5-vqvx-ch9j] WPGlobus plugin Stored XSS & CSRF security vulnerability,https://github.com/advisories/GHSA-gpq5-vqvx-ch9j,https://da.gd/q3i9l
+GithubAdvisories,[GHSA-35mh-f6p8-pj2c] WPGlobus plugin Stored XSS & CSRF security vulnerability,https://github.com/advisories/GHSA-35mh-f6p8-pj2c,https://da.gd/aJVT
+GithubAdvisories,[GHSA-v9h6-53fx-gh4j] WPGlobus plugin Stored XSS & CSRF security vulnerability,https://github.com/advisories/GHSA-v9h6-53fx-gh4j,https://da.gd/KDmyF
+GithubAdvisories,[GHSA-69ww-wv3j-mhg4] Comments plugin stored Cross-site Scripting (XSS) via an asset volume name,https://github.com/advisories/GHSA-69ww-wv3j-mhg4,https://da.gd/3y1iM2
+GithubAdvisories,[GHSA-4r8c-pj7x-m5jx] Comments plugin Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-4r8c-pj7x-m5jx,https://da.gd/TjFEt2
+GithubAdvisories,[GHSA-jhhf-c849-3rh2] Comments plugin stored Cross-site Scripting via a guest name,https://github.com/advisories/GHSA-jhhf-c849-3rh2,https://da.gd/NQljO
+GithubAdvisories,[GHSA-j9f9-8j39-4g97] CodeIgniter HTTP Header Injection,https://github.com/advisories/GHSA-j9f9-8j39-4g97,https://da.gd/V0yN
