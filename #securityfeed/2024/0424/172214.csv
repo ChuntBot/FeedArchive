@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7rf8-9r8f-qf59] phpMyAdmin Cross-site scripting (XSS) vulnerability in SQL parser,https://github.com/advisories/GHSA-7rf8-9r8f-qf59,https://da.gd/gR5Xz
+GithubAdvisories,[GHSA-w8qg-j9fp-hrjf] phpMyAdmin Improper Input Validation,https://github.com/advisories/GHSA-w8qg-j9fp-hrjf,https://da.gd/c9I0
+GithubAdvisories,[GHSA-6j2v-g9rg-qcm5] phpMyAdmin Local file exposure through symlinks with UploadDir,https://github.com/advisories/GHSA-6j2v-g9rg-qcm5,https://da.gd/LfgRQe
+GithubAdvisories,[GHSA-fcgm-62p3-f7cm] phpMyAdmin Local file exposure,https://github.com/advisories/GHSA-fcgm-62p3-f7cm,https://da.gd/zqqt
+GithubAdvisories,[GHSA-phhm-63xx-v9rr] phpMyAdmin Reflected File Download attack,https://github.com/advisories/GHSA-phhm-63xx-v9rr,https://da.gd/Bigac
+GithubAdvisories,[GHSA-3hw5-fffc-qrg4] phpMyAdmin Denial of Service (DoS),https://github.com/advisories/GHSA-3hw5-fffc-qrg4,https://da.gd/HN41e
+GithubAdvisories,[GHSA-r326-mp8g-6xfc] phpMyAdmin Bypass white-list protection for URL redirection,https://github.com/advisories/GHSA-r326-mp8g-6xfc,https://da.gd/PkahR9
+GithubAdvisories,[GHSA-gqmj-f46x-wqhw] phpMyAdmin Cross-site scripting (XSS) vulnerability in central columns feature,https://github.com/advisories/GHSA-gqmj-f46x-wqhw,https://da.gd/FJzJNd
+GithubAdvisories,[GHSA-v6fp-h79x-9rqc] phpMyAdmin CSRF vulnerability allowing arbitrary SQL execution,https://github.com/advisories/GHSA-v6fp-h79x-9rqc,https://da.gd/4hve2
+GithubAdvisories,[GHSA-wm9c-vcv2-vpqc] phpMyAdmin full path disclosure vulnerability,https://github.com/advisories/GHSA-wm9c-vcv2-vpqc,https://da.gd/xAIGZy
+GithubAdvisories,[GHSA-mwm8-36c5-j5cf] phpMyAdmin Cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-mwm8-36c5-j5cf,https://da.gd/YH5G
+GithubAdvisories,[GHSA-99xj-xqc9-98hr] phpMyAdmin SSRF in replication,https://github.com/advisories/GHSA-99xj-xqc9-98hr,https://da.gd/fp6TBp
+GithubAdvisories,[GHSA-x394-g9j8-x7mf] phpMyAdmin Improper Authentication,https://github.com/advisories/GHSA-x394-g9j8-x7mf,https://da.gd/H0e8Y
+GithubAdvisories,[GHSA-j2cq-h6v2-f875] phpMyAdmin Cookie attribute injection attack,https://github.com/advisories/GHSA-j2cq-h6v2-f875,https://da.gd/qzfW
+GithubAdvisories,[GHSA-x37v-98f9-mj32] phpMyAdmin SQL injection in Designer feature,https://github.com/advisories/GHSA-x37v-98f9-mj32,https://da.gd/Vzkkmb
+GithubAdvisories,[GHSA-7ff4-cv53-4cjq] phpMyAdmin SQL injection vulnerability,https://github.com/advisories/GHSA-7ff4-cv53-4cjq,https://da.gd/ZuNNL7
+GithubAdvisories,[GHSA-6349-53vr-7hcr] phpMyAdmin Cross-site Scripting (XSS),https://github.com/advisories/GHSA-6349-53vr-7hcr,https://da.gd/ePivbB
+GithubAdvisories,[GHSA-fgj8-93xx-f6g6] phpMyAdmin SQL injection in user accounts page,https://github.com/advisories/GHSA-fgj8-93xx-f6g6,https://da.gd/YvlKiy
+GithubAdvisories,[GHSA-4c9q-64gq-xhx4] phpMyAdmin Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-4c9q-64gq-xhx4,https://da.gd/FCO93X
+GithubAdvisories,[GHSA-5xv3-fm7g-865r] OpenMetadata vulnerable to a SpEL Injection in `GET /api/v1/policies/validation/condition/` (`GHSL-2023-236`),https://github.com/advisories/GHSA-5xv3-fm7g-865r,https://da.gd/f2PqI
+GithubAdvisories,[GHSA-8p5r-6mvv-2435] OpenMetadata vulnerable to a SpEL Injection in `PUT /api/v1/events/subscriptions` (`GHSL-2023-251`),https://github.com/advisories/GHSA-8p5r-6mvv-2435,https://da.gd/O8ZGI
+GithubAdvisories,[GHSA-287f-46j7-j4wh] Umbraco Workflow's Backoffice users can execute arbitrary SQL,https://github.com/advisories/GHSA-287f-46j7-j4wh,https://da.gd/ORUj
+GithubAdvisories,"[GHSA-vjwg-28gv-pm8h] Pimcore TinyMCE Bundle - tinymce CVE-2024-29203, CVE-2024-29881",https://github.com/advisories/GHSA-vjwg-28gv-pm8h,https://da.gd/RptZDG
