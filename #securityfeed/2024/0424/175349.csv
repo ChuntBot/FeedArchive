@@ -1,0 +1,35 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9jm4-rg99-566c] phpBB Server-Side Request Forgery (SSRF),https://github.com/advisories/GHSA-9jm4-rg99-566c,https://da.gd/KORsR
+GithubAdvisories,[GHSA-6pgr-x867-h7jx] phpBB Denial of Service,https://github.com/advisories/GHSA-6pgr-x867-h7jx,https://da.gd/KzsYB
+GithubAdvisories,[GHSA-h3mr-q96r-37v4] phpBB Remote Code Execution,https://github.com/advisories/GHSA-h3mr-q96r-37v4,https://da.gd/LRB6rb
+GithubAdvisories,[GHSA-3fm8-7gpf-p8fm] SocialNetwork Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-3fm8-7gpf-p8fm,https://da.gd/6WfJ1
+GithubAdvisories,[GHSA-2pcj-76hj-xqhm] CodeIgniter arbitrary code execution,https://github.com/advisories/GHSA-2pcj-76hj-xqhm,https://da.gd/rtQfW
+GithubAdvisories,[GHSA-jwqp-wh5g-4gmm] CodeIgniter Improper Privilege Management,https://github.com/advisories/GHSA-jwqp-wh5g-4gmm,https://da.gd/8iu5
+GithubAdvisories,[GHSA-m69r-4h68-xq7j] Knock Knock plugin Open redirection vulnerability,https://github.com/advisories/GHSA-m69r-4h68-xq7j,https://da.gd/mfBqrb
+GithubAdvisories,[GHSA-wxvr-qqm7-6h65] Knock Knock plugin IP Whitelist bypass via an X-Forwarded-For HTTP header,https://github.com/advisories/GHSA-wxvr-qqm7-6h65,https://da.gd/KaLXGG
+GithubAdvisories,[GHSA-pgph-mc4p-f8c3] phpMyAdmin unsanitized Git information,https://github.com/advisories/GHSA-pgph-mc4p-f8c3,https://da.gd/MYqV
+GithubAdvisories,[GHSA-4hx9-p925-qcv7] phpBB Server side request forgery (SSRF),https://github.com/advisories/GHSA-4hx9-p925-qcv7,https://da.gd/Jp5Jj
+GithubAdvisories,[GHSA-6mh2-98gr-wv76] phpBB Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-6mh2-98gr-wv76,https://da.gd/XBXZy
+GithubAdvisories,[GHSA-vj3x-vfm4-hvxc] phpBB Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-vj3x-vfm4-hvxc,https://da.gd/SqR7f
+GithubAdvisories,[GHSA-cpqc-g4r8-6hxg] phpBB Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-cpqc-g4r8-6hxg,https://da.gd/KiBc
+GithubAdvisories,[GHSA-wg24-9xm9-593v] phpBB Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-wg24-9xm9-593v,https://da.gd/SznV
+GithubAdvisories,[GHSA-8hc2-hvrc-x4qr] phpBB arbitrary CSS injection,https://github.com/advisories/GHSA-8hc2-hvrc-x4qr,https://da.gd/73ccD
+GithubAdvisories,[GHSA-5v5q-3m7m-97j7] Image Resizer Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-5v5q-3m7m-97j7,https://da.gd/wxhtTw
+GithubAdvisories,[GHSA-p7rm-gh9g-5fr8] Image Resizer Cross-site Scripting (XSS) in the Bulk Resize action,https://github.com/advisories/GHSA-p7rm-gh9g-5fr8,https://da.gd/LYsSCo
+GithubAdvisories,[GHSA-h65r-8fp8-w7cx] phpMyAdmin SQL Injection,https://github.com/advisories/GHSA-h65r-8fp8-w7cx,https://da.gd/d1jCU9
+GithubAdvisories,[GHSA-fcww-8wvc-38q9] phpMyAdmin SQL injection vulnerability,https://github.com/advisories/GHSA-fcww-8wvc-38q9,https://da.gd/zXhR
+GithubAdvisories,[GHSA-f4cr-3xmc-2wpm] phpMyAdmin SQL injection vulnerability,https://github.com/advisories/GHSA-f4cr-3xmc-2wpm,https://da.gd/oBPrS
+GithubAdvisories,[GHSA-8724-5xmm-w5xq] CosmWasm affected by arithmetic overflows,https://github.com/advisories/GHSA-8724-5xmm-w5xq,https://da.gd/lGbqYr
+GithubAdvisories,[GHSA-243v-5pff-qqfj] Moodle Open redirect risk in mobile auto-login feature,https://github.com/advisories/GHSA-243v-5pff-qqfj,https://da.gd/uDiydo
+GithubAdvisories,[GHSA-98mf-mqw9-9q8q] Moodle Global search displays user names for unauthenticated users,https://github.com/advisories/GHSA-98mf-mqw9-9q8q,https://da.gd/OpEb
+GithubAdvisories,[GHSA-9cg4-4f87-jhm3] Moodle XSS in attachments to evidence of prior learning,https://github.com/advisories/GHSA-9cg4-4f87-jhm3,https://da.gd/9oWvy
+GithubAdvisories,[GHSA-4m6v-x9fj-847j] Moodle Cross-site Scripting in the Course summary filter of the Add a new course,https://github.com/advisories/GHSA-4m6v-x9fj-847j,https://da.gd/ALWx
+GithubAdvisories,[GHSA-m34m-fgh4-v7cx] Moodle External blog editing takeover,https://github.com/advisories/GHSA-m34m-fgh4-v7cx,https://da.gd/s33s5Y
+GithubAdvisories,[GHSA-gqrp-qhv8-phrv] Moodle Cross-site Scripting,https://github.com/advisories/GHSA-gqrp-qhv8-phrv,https://da.gd/iFK45L
+GithubAdvisories,[GHSA-c7jj-vfmr-j9mj] Moodle command execution vulnerability exists in the default legacy spellchecker plugin,https://github.com/advisories/GHSA-c7jj-vfmr-j9mj,https://da.gd/Wh9TLY
+GithubAdvisories,[GHSA-g5m5-j48g-fr24] Moodle Cross Site Scripting (XSS),https://github.com/advisories/GHSA-g5m5-j48g-fr24,https://da.gd/ESuMZ
+GithubAdvisories,[GHSA-2mg9-hv69-897x] Moodle Ability to delete glossary entries that belong to another glossary,https://github.com/advisories/GHSA-2mg9-hv69-897x,https://da.gd/H8pYr
+GithubAdvisories,[GHSA-cxj7-4jpj-2q38] Pimcore Unrestricted Upload of File with Dangerous Type,https://github.com/advisories/GHSA-cxj7-4jpj-2q38,https://da.gd/5bhkL
+GithubAdvisories,[GHSA-m4x3-xmjv-r778] Pimcore Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-m4x3-xmjv-r778,https://da.gd/VhuAX
+GithubAdvisories,[GHSA-7hqr-j26m-gmwp] Pimcore Unserialize Remote Code Execution,https://github.com/advisories/GHSA-7hqr-j26m-gmwp,https://da.gd/p9Dh0
+GithubAdvisories,[GHSA-pr4f-4pcx-2r3h] Pimcore Cross-site Scripting (XSS),https://github.com/advisories/GHSA-pr4f-4pcx-2r3h,https://da.gd/3D97i
