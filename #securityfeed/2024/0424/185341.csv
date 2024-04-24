@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2gr8-3wc7-xhj3] social-auth-app-djangon affected by Improper Handling of Case Sensitivity,https://github.com/advisories/GHSA-2gr8-3wc7-xhj3,https://da.gd/P0I4E
+GithubAdvisories,[GHSA-hhg2-g6h6-c266] Yii SQL injection vulnerability,https://github.com/advisories/GHSA-hhg2-g6h6-c266,https://da.gd/raz5JY
+GithubAdvisories,[GHSA-jqfp-m5f8-vg28] Dolibarr Cross Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-jqfp-m5f8-vg28,https://da.gd/dAi0
+GithubAdvisories,[GHSA-w969-pq6x-267j] INTER-Mediator Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-w969-pq6x-267j,https://da.gd/8NnUr3
+GithubAdvisories,[GHSA-27v2-398x-f74x] MAGMI cross-site scripting (XSS),https://github.com/advisories/GHSA-27v2-398x-f74x,https://da.gd/cQRsE
+GithubAdvisories,[GHSA-h34q-878w-w96r] Dolibarr SQL injection via the integer parameters qty and value_unit,https://github.com/advisories/GHSA-h34q-878w-w96r,https://da.gd/FfKQS
+GithubAdvisories,[GHSA-vxr9-p2xw-m8cf] Dolibarr remote PHP code execution,https://github.com/advisories/GHSA-vxr9-p2xw-m8cf,https://da.gd/Y8l61
+GithubAdvisories,[GHSA-4c64-w8fg-xcq2] Yii Cross-site Scripting Framework vulnerability,https://github.com/advisories/GHSA-4c64-w8fg-xcq2,https://da.gd/LdLI
+GithubAdvisories,[GHSA-cwhm-272p-3wj9] Yii Framework Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-cwhm-272p-3wj9,https://da.gd/ItRy36
+GithubAdvisories,[GHSA-4hx3-m8w5-g5qh] yii2-redis Potential Remote code execution,https://github.com/advisories/GHSA-4hx3-m8w5-g5qh,https://da.gd/zFxNlu
+GithubAdvisories,[GHSA-74qv-rv53-5wcx] Yii PHP Framework arbitrary PHP scripts execution,https://github.com/advisories/GHSA-74qv-rv53-5wcx,https://da.gd/peQgL
+GithubAdvisories,[GHSA-8gfq-c54m-3rf6] Yii Framework reflected Cross-site Scripting,https://github.com/advisories/GHSA-8gfq-c54m-3rf6,https://da.gd/HLZ7Vg
+GithubAdvisories,[GHSA-4gjj-r7w8-42cq] Jerome Gamez Firebase Admin SDK for PHP Incorrect Access Control vulnerability,https://github.com/advisories/GHSA-4gjj-r7w8-42cq,https://da.gd/lOr9s
