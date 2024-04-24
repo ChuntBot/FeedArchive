@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4vp2-mj4m-69m4] ThinkAdmin insecure unserialize vulnerability,https://github.com/advisories/GHSA-4vp2-mj4m-69m4,https://da.gd/4CrB7
+GithubAdvisories,[GHSA-cxv7-6jgf-7gwf] ThinkAdmin Admin Panel Access using Default Credentials,https://github.com/advisories/GHSA-cxv7-6jgf-7gwf,https://da.gd/HjFSm
+GithubAdvisories,[GHSA-qv5j-rwq3-m823] ThinkAdmin Administrator cookies still working after password change,https://github.com/advisories/GHSA-qv5j-rwq3-m823,https://da.gd/wEYv5
+GithubAdvisories,[GHSA-j78w-6r73-22vh] FineUploader php-traditional-server unauthenticated arbitrary file upload vulnerability,https://github.com/advisories/GHSA-j78w-6r73-22vh,https://da.gd/3aZ5vR
+GithubAdvisories,[GHSA-r4ph-mx67-x58p] Shopware database password is leaked to an unauthenticated users,https://github.com/advisories/GHSA-r4ph-mx67-x58p,https://da.gd/z8WM9Z
+GithubAdvisories,[GHSA-28pv-2j2h-fmhc] TeamPass Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-28pv-2j2h-fmhc,https://da.gd/XPQIDB
+GithubAdvisories,[GHSA-977g-93f5-rqjx] Grav CMS Cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-977g-93f5-rqjx,https://da.gd/FdmJ
+GithubAdvisories,[GHSA-q9qr-h33g-fw3j] TeamPass Storing Passwords in a Recoverable Format vulnerability,https://github.com/advisories/GHSA-q9qr-h33g-fw3j,https://da.gd/XmRCT
+GithubAdvisories,[GHSA-5qr3-4839-88gf] TeamPass Improper Privilege Management,https://github.com/advisories/GHSA-5qr3-4839-88gf,https://da.gd/yYopnN
+GithubAdvisories,[GHSA-xvjf-394g-phrr] TeamPass Improper Privilege Management,https://github.com/advisories/GHSA-xvjf-394g-phrr,https://da.gd/qPkip
+GithubAdvisories,[GHSA-7ghm-6p42-h226] TeamPass Improper Privilege Management,https://github.com/advisories/GHSA-7ghm-6p42-h226,https://da.gd/BeKNL
+GithubAdvisories,[GHSA-cm26-gp8j-w6xf] TeamPass SQL injection in users.queries.php,https://github.com/advisories/GHSA-cm26-gp8j-w6xf,https://da.gd/1773s
+GithubAdvisories,[GHSA-r68m-4v39-cf43] TeamPass stored cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-r68m-4v39-cf43,https://da.gd/5ny2P
+GithubAdvisories,[GHSA-rm3q-qfrm-frrv] TeamPass arbitrary file upload vulnerability,https://github.com/advisories/GHSA-rm3q-qfrm-frrv,https://da.gd/VEpl76
+GithubAdvisories,[GHSA-pqx8-q35p-pgcv] TeamPass Stored Cross-site Scripting,https://github.com/advisories/GHSA-pqx8-q35p-pgcv,https://da.gd/Boqdy
+GithubAdvisories,[GHSA-qx37-225j-qr89] TeamPass Stored Cross-site Scripting,https://github.com/advisories/GHSA-qx37-225j-qr89,https://da.gd/TUGzEk
+GithubAdvisories,[GHSA-v969-5v7f-pmg2] TeamPass Stored Cross-site Scripting,https://github.com/advisories/GHSA-v969-5v7f-pmg2,https://da.gd/oYjqb
+GithubAdvisories,[GHSA-83h6-22cp-f22w] TeamPass files are available without authentication,https://github.com/advisories/GHSA-83h6-22cp-f22w,https://da.gd/T9eOTE
+GithubAdvisories,[GHSA-6jf9-8m34-96w5] TeamPass PHP arbitrary file include vulnerability,https://github.com/advisories/GHSA-6jf9-8m34-96w5,https://da.gd/aDyQsO
+GithubAdvisories,[GHSA-rpmr-fwh5-24fm] TeamPass Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-rpmr-fwh5-24fm,https://da.gd/RvWI
+GithubAdvisories,[GHSA-m3pp-jcpm-2vr9] TeamPass Cross-site Scripting (XSS),https://github.com/advisories/GHSA-m3pp-jcpm-2vr9,https://da.gd/yD6O8M
