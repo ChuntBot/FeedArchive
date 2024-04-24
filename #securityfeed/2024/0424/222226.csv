@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-62q7-qj6g-gvr7] LibreNMS arbitrary OS commands execution,https://github.com/advisories/GHSA-62q7-qj6g-gvr7,https://da.gd/ZLVWqP
+GithubAdvisories,[GHSA-fqff-vcvx-68h3] Grav CMS Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-fqff-vcvx-68h3,https://da.gd/EzsU8
+GithubAdvisories,[GHSA-r3rg-jrjq-w4mr] Grav CMS Local File Injection,https://github.com/advisories/GHSA-r3rg-jrjq-w4mr,https://da.gd/6yt4
+GithubAdvisories,[GHSA-pr44-4jfr-286m] Swift Mailer mail transport Command Injection,https://github.com/advisories/GHSA-pr44-4jfr-286m,https://da.gd/Emlt5
+GithubAdvisories,[GHSA-vwh5-78jc-hpjx] SunHater KCFinder cross-site scripting (XSS) vulnerability in upload.php,https://github.com/advisories/GHSA-vwh5-78jc-hpjx,https://da.gd/3PPGi8
