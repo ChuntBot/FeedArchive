@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3f7w-p8vr-4v5f] pyLoad allows upload to arbitrary folder lead to RCE,https://github.com/advisories/GHSA-3f7w-p8vr-4v5f,https://da.gd/HtKRx
+GithubAdvisories,[GHSA-6r7x-4q7g-h83j] Rancher Project Members Have Continued Access to Namespaces After Being Removed From Them,https://github.com/advisories/GHSA-6r7x-4q7g-h83j,https://da.gd/LVFl1n
+GithubAdvisories,[GHSA-f9xf-jq4j-vqw4] Rancher does not properly specify ApiGroup when creating Kubernetes RBAC resources,https://github.com/advisories/GHSA-f9xf-jq4j-vqw4,https://da.gd/KBvDCt
+GithubAdvisories,"[GHSA-pvxj-25m6-7vqr] Rancher Privilege escalation vulnerability via malicious ""Connection"" header",https://github.com/advisories/GHSA-pvxj-25m6-7vqr,https://da.gd/9HqXU
+GithubAdvisories,[GHSA-gvh9-xgrq-r8hw] Rancher's Steve API Component Improper authorization check allows privilege escalation,https://github.com/advisories/GHSA-gvh9-xgrq-r8hw,https://da.gd/pRjRS
+GithubAdvisories,[GHSA-28g7-896h-695v] Rancher's Failure to delete orphaned role bindings does not revoke project level access from group based authentication,https://github.com/advisories/GHSA-28g7-896h-695v,https://da.gd/0xctBx
+GithubAdvisories,[GHSA-53pj-67m4-9w98] Rancher code injection via fluentd config commands,https://github.com/advisories/GHSA-53pj-67m4-9w98,https://da.gd/dj7KG
+GithubAdvisories,[GHSA-mgqh-3qm7-gx82] IBAX go-ibax vulnerable to SQL injection,https://github.com/advisories/GHSA-mgqh-3qm7-gx82,https://da.gd/ELxcR
+GithubAdvisories,[GHSA-rwcf-gq22-ph83] IBAX go-ibax vulnerable to SQL injection,https://github.com/advisories/GHSA-rwcf-gq22-ph83,https://da.gd/Od8WY
+GithubAdvisories,[GHSA-fcgf-j8cf-h2rm] IBAX go-ibax vulnerable to SQL injection,https://github.com/advisories/GHSA-fcgf-j8cf-h2rm,https://da.gd/OqM9u5
+GithubAdvisories,[GHSA-m738-584h-26p6] IBAX go-ibax vulnerable to SQL injection,https://github.com/advisories/GHSA-m738-584h-26p6,https://da.gd/VuNtbg
+GithubAdvisories,[GHSA-g23g-mw97-65c8] IBAX go-ibax vulnerable to SQL injection,https://github.com/advisories/GHSA-g23g-mw97-65c8,https://da.gd/xoEzg
+GithubAdvisories,[GHSA-j99q-rwp6-498g] Gitea Arbitrary File Delete Vulnerability,https://github.com/advisories/GHSA-j99q-rwp6-498g,https://da.gd/lFpqe
+GithubAdvisories,[GHSA-4rqq-rxvc-v2rc] Gitea Open Redirect,https://github.com/advisories/GHSA-4rqq-rxvc-v2rc,https://da.gd/8Y19
+GithubAdvisories,[GHSA-fhv8-m4j4-cww2] Gitea allowed assignment of private issues,https://github.com/advisories/GHSA-fhv8-m4j4-cww2,https://da.gd/Xj9oNm
+GithubAdvisories,[GHSA-3393-r4p5-vhqh] Gitea Allows 1FA Even for 2FA-Enrolled Accounts,https://github.com/advisories/GHSA-3393-r4p5-vhqh,https://da.gd/pXK6M
+GithubAdvisories,[GHSA-hqx2-j33x-9fc4] Gitea XSS Vulnerability in Repository Description,https://github.com/advisories/GHSA-hqx2-j33x-9fc4,https://da.gd/HRPEV
+GithubAdvisories,[GHSA-r7h7-chh4-5rvm] Improper Access Control in Gitea,https://github.com/advisories/GHSA-r7h7-chh4-5rvm,https://da.gd/cBMa
+GithubAdvisories,[GHSA-9f8c-pfvv-p4gm] Buffer Overflow in gitea,https://github.com/advisories/GHSA-9f8c-pfvv-p4gm,https://da.gd/le3dzE
+GithubAdvisories,[GHSA-828r-r2c8-rfw3] Privilege Escalation in kubevirt,https://github.com/advisories/GHSA-828r-r2c8-rfw3,https://da.gd/QHVbqq
