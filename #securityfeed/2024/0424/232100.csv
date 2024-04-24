@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-75jp-87w2-c6x2] ThinkPHP Remote Code Execution (RCE) vulnerability,https://github.com/advisories/GHSA-75jp-87w2-c6x2,https://da.gd/iGxQ7p
+GithubAdvisories,[GHSA-q868-c4vw-qjx3] ThinkPHP5 SQL Injection vulnerability,https://github.com/advisories/GHSA-q868-c4vw-qjx3,https://da.gd/vaj6d
+GithubAdvisories,[GHSA-75fm-52mm-q5rm] ThinkPHP SQL injection vulnerability,https://github.com/advisories/GHSA-75fm-52mm-q5rm,https://da.gd/3tk9I
+GithubAdvisories,[GHSA-xvhr-7q4q-qjgp] thinkphp SQL Injection via the index.php s parameter,https://github.com/advisories/GHSA-xvhr-7q4q-qjgp,https://da.gd/CUPr3
+GithubAdvisories,[GHSA-9m49-vhwv-422g] Smarty PHP code injection,https://github.com/advisories/GHSA-9m49-vhwv-422g,https://da.gd/bP182
+GithubAdvisories,[GHSA-2pmx-6mm6-6v72] Smarty arbitrary PHP code execution,https://github.com/advisories/GHSA-2pmx-6mm6-6v72,https://da.gd/F2OJa
+GithubAdvisories,[GHSA-x9q4-5f3c-cw62] MunkiReport munki_facts module Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-x9q4-5f3c-cw62,https://da.gd/n4MD
+GithubAdvisories,[GHSA-qvw9-6567-wq78] MunkiReport reportdata module SQL injection vulnerability,https://github.com/advisories/GHSA-qvw9-6567-wq78,https://da.gd/odOsle
+GithubAdvisories,[GHSA-4qgh-m9vp-48xp] MunkiReport Software Update module is vulnerable to SQL injection,https://github.com/advisories/GHSA-4qgh-m9vp-48xp,https://da.gd/KtPgO
