@@ -1,0 +1,47 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fff9-m6f6-q3mh] Dolibarr SQL Injection vulnerability,https://github.com/advisories/GHSA-fff9-m6f6-q3mh,https://da.gd/bQV3
+GithubAdvisories,[GHSA-6j62-m2vv-wc3m] Dolibarr arbitrary commands execution,https://github.com/advisories/GHSA-6j62-m2vv-wc3m,https://da.gd/6JAu2
+GithubAdvisories,[GHSA-5x4j-xcmv-v3q2] Dolibarr allows password changes without supplying the current password,https://github.com/advisories/GHSA-5x4j-xcmv-v3q2,https://da.gd/ccoAV
+GithubAdvisories,[GHSA-r3r5-fqfm-9wrh] Dolibarr Stored Cross-site Scripting in expensereport/card.php,https://github.com/advisories/GHSA-r3r5-fqfm-9wrh,https://da.gd/Ow7WJ
+GithubAdvisories,[GHSA-97jv-2hp6-3frj] Dolibarr SQL injection vulnerability in user/card.php,https://github.com/advisories/GHSA-97jv-2hp6-3frj,https://da.gd/qdMqi
+GithubAdvisories,[GHSA-78hj-952q-99rw] Dolibarr error-based SQL injection vulnerability in product/card.php,https://github.com/advisories/GHSA-78hj-952q-99rw,https://da.gd/ptHiU
+GithubAdvisories,[GHSA-4xfw-599q-fmp6] Dolibarr stored cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-4xfw-599q-fmp6,https://da.gd/WnTOxY
+GithubAdvisories,[GHSA-2gc5-3h3p-8vpf] Dolibarr reflected cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-2gc5-3h3p-8vpf,https://da.gd/QgSxa3
+GithubAdvisories,[GHSA-3v8x-286h-9pxp] Dolibarr stored cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-3v8x-286h-9pxp,https://da.gd/Gl6c3
+GithubAdvisories,[GHSA-24q2-6x37-cgcx] Dolibarr SQL injection vulnerability in product/card.php,https://github.com/advisories/GHSA-24q2-6x37-cgcx,https://da.gd/IRB64
+GithubAdvisories,[GHSA-g5mq-v9hf-958h] Dolibarr SQL injection vulnerability in product/card.php,https://github.com/advisories/GHSA-g5mq-v9hf-958h,https://da.gd/GtQJT0
+GithubAdvisories,[GHSA-jjqq-m998-53jf] Dolibarr SQL injection vulnerability in product/card.php,https://github.com/advisories/GHSA-jjqq-m998-53jf,https://da.gd/OhjM
+GithubAdvisories,[GHSA-m5rg-g6f9-8wpw] Dolibarr SQL injection vulnerability in product/card.php,https://github.com/advisories/GHSA-m5rg-g6f9-8wpw,https://da.gd/nwrA6D
+GithubAdvisories,[GHSA-57wj-22w9-wm9r] Dolibarr SQL injection vulnerability,https://github.com/advisories/GHSA-57wj-22w9-wm9r,https://da.gd/v9kqXK
+GithubAdvisories,[GHSA-qm8m-7626-762h] Dolibarr SQL injection vulnerability in admin/menus/edit.php,https://github.com/advisories/GHSA-qm8m-7626-762h,https://da.gd/97V00
+GithubAdvisories,[GHSA-gw37-vmvw-f833] Dolibarr SQL Injection in doli/theme/eldy/style.css.php via the lang parameter,https://github.com/advisories/GHSA-gw37-vmvw-f833,https://da.gd/akph
+GithubAdvisories,[GHSA-29qv-hhg4-6x96] Unauthenticated Sensitive Information Disclosure vulnerability,https://github.com/advisories/GHSA-29qv-hhg4-6x96,https://da.gd/Z0QCEv
+GithubAdvisories,[GHSA-jjgq-jq8g-24w4] Dolibarr SQL injection vulnerability in don/list.php,https://github.com/advisories/GHSA-jjgq-jq8g-24w4,https://da.gd/qBut1h
+GithubAdvisories,[GHSA-74c7-r9m3-hvj4] Dolibarr cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-74c7-r9m3-hvj4,https://da.gd/NpVxOU
+GithubAdvisories,[GHSA-9v7m-f3cv-68rw] Dolibarr SQL injection vulnerability in comm/multiprix.php,https://github.com/advisories/GHSA-9v7m-f3cv-68rw,https://da.gd/WjPo
+GithubAdvisories,[GHSA-7789-v767-37r5] Dolibarr SQL injection vulnerability in adherents/subscription/info.php,https://github.com/advisories/GHSA-7789-v767-37r5,https://da.gd/goe40
+GithubAdvisories,[GHSA-jm38-vmgp-j7rx] Dolibarr sensitive information disclosure,https://github.com/advisories/GHSA-jm38-vmgp-j7rx,https://da.gd/auLPEZ
+GithubAdvisories,[GHSA-6frc-vfw9-wm27] Dolibarr SQL injection vulnerability in fourn/index.php,https://github.com/advisories/GHSA-6frc-vfw9-wm27,https://da.gd/vAuTk8
+GithubAdvisories,[GHSA-9986-6m4g-25f6] Dolibarr SQL injection vulnerability,https://github.com/advisories/GHSA-9986-6m4g-25f6,https://da.gd/hYjHz
+GithubAdvisories,[GHSA-84gh-4m36-cgqx] Dolibarr SQL injection via type parameter in product/stats/card.php,https://github.com/advisories/GHSA-84gh-4m36-cgqx,https://da.gd/WC0Ky
+GithubAdvisories,[GHSA-726g-cgcq-4xw8] Dolibarr Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-726g-cgcq-4xw8,https://da.gd/315o2
+GithubAdvisories,[GHSA-p2fm-8rhj-58fr] Dolibarr Cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-p2fm-8rhj-58fr,https://da.gd/I4lqE
+GithubAdvisories,[GHSA-m5c3-3gvf-q8j5] Dolibarr Improper Restriction of Excessive Authentication Attempts,https://github.com/advisories/GHSA-m5c3-3gvf-q8j5,https://da.gd/52kxV
+GithubAdvisories,[GHSA-fvxr-767j-f28v] Dolibarr stored Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-fvxr-767j-f28v,https://da.gd/Amw0X
+GithubAdvisories,[GHSA-m44p-cfwj-wwr6] Dolibarr Cross-site Scripting in a User Note section,https://github.com/advisories/GHSA-m44p-cfwj-wwr6,https://da.gd/OxrVGL
+GithubAdvisories,[GHSA-m9q9-4m25-23gc] Dolibarr Cross-site Scripting in a User Profile in a Signature section,https://github.com/advisories/GHSA-m9q9-4m25-23gc,https://da.gd/vTQhtz
+GithubAdvisories,[GHSA-9h46-g4c9-7976] Dolibarr stored Cross-site Scripting in an Email Template section,https://github.com/advisories/GHSA-9h46-g4c9-7976,https://da.gd/YwDyyq
+GithubAdvisories,[GHSA-r4gf-ggp5-25g5] Dolibarr Cross-site Scripting via outgoing email setup feature,https://github.com/advisories/GHSA-r4gf-ggp5-25g5,https://da.gd/J57ls
+GithubAdvisories,[GHSA-rr5g-rc28-wxwj] Dolibarr Cross-site Scripting via outgoing email setup feature,https://github.com/advisories/GHSA-rr5g-rc28-wxwj,https://da.gd/RiUtW
+GithubAdvisories,[GHSA-4hf3-229w-6h8r] Dolibarr cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-4hf3-229w-6h8r,https://da.gd/h8Dlci
+GithubAdvisories,[GHSA-pm57-926c-28mr] Dolibarr Cross-site Scripting via the qty parameter in product/fournisseurs.php,https://github.com/advisories/GHSA-pm57-926c-28mr,https://da.gd/Q5MMFV
+GithubAdvisories,[GHSA-q938-82fw-wfcf] Dolibarr stored Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-q938-82fw-wfcf,https://da.gd/UNM8D
+GithubAdvisories,[GHSA-f848-r5g6-6gpf] Dolibarr Stored Cross-site Scripting,https://github.com/advisories/GHSA-f848-r5g6-6gpf,https://da.gd/uKk9gP
+GithubAdvisories,[GHSA-fvf9-2hjp-w936] Dolibarr Stored Cross-site Scripting via file upload,https://github.com/advisories/GHSA-fvf9-2hjp-w936,https://da.gd/kHPQ0
+GithubAdvisories,[GHSA-8v7v-6mmm-xjxm] Dolibarr SQL injection vulnerability in accountancy/customer/card.php,https://github.com/advisories/GHSA-8v7v-6mmm-xjxm,https://da.gd/xeFy7
+GithubAdvisories,[GHSA-m396-2x3h-v3v4] Dolibarr reflected cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-m396-2x3h-v3v4,https://da.gd/Vlngl
+GithubAdvisories,[GHSA-8r2w-phx4-mgpv] Dolibarr stored Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-8r2w-phx4-mgpv,https://da.gd/BvGs70
+GithubAdvisories,[GHSA-2gcp-xwxg-hqg3] Dolibarr Unrestricted Upload of File with Dangerous Type,https://github.com/advisories/GHSA-2gcp-xwxg-hqg3,https://da.gd/L7G8f
+GithubAdvisories,[GHSA-7x8g-h246-gvx3] Dolibarr authenticated Remote Code Execution,https://github.com/advisories/GHSA-7x8g-h246-gvx3,https://da.gd/CDrSM
+GithubAdvisories,[GHSA-97fp-5m87-r9mf] Dolibarr Cross Site Scripting (XSS),https://github.com/advisories/GHSA-97fp-5m87-r9mf,https://da.gd/ZY7IO
+GithubAdvisories,[GHSA-rg8m-84jf-9367] Incorrect Authorization in Dolibarr,https://github.com/advisories/GHSA-rg8m-84jf-9367,https://da.gd/Yb5iq9
