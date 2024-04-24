@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3gg8-mc87-cq3h] Improper Certificate Validation vulnerability in Apache Airflow FTP Provider,https://github.com/advisories/GHSA-3gg8-mc87-cq3h,https://da.gd/swEe
