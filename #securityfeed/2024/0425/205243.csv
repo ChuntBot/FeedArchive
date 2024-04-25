@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8jxq-gpmr-h4g4] imdbphp Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-8jxq-gpmr-h4g4,https://da.gd/Ul1hld
+GithubAdvisories,[GHSA-pggw-rqfm-72rh] EC-CUBE DOM-based cross-site scripting vulnerability,https://github.com/advisories/GHSA-pggw-rqfm-72rh,https://da.gd/7glG
+GithubAdvisories,[GHSA-wjpv-frf2-3r58] EC-CUBE Directory traversal vulnerability,https://github.com/advisories/GHSA-wjpv-frf2-3r58,https://da.gd/zbFqn7
+GithubAdvisories,[GHSA-fcgg-qgxg-2g2x] EC-CUBE Open redirect vulnerability,https://github.com/advisories/GHSA-fcgg-qgxg-2g2x,https://da.gd/Sj1wfY
+GithubAdvisories,[GHSA-pw97-6v74-9w3p] EC-CUBE improperly handles HTTP Host header values,https://github.com/advisories/GHSA-pw97-6v74-9w3p,https://da.gd/R1LzDB
+GithubAdvisories,[GHSA-jc55-crg7-pr35] EC-CUBE Improper access control in Management screen,https://github.com/advisories/GHSA-jc55-crg7-pr35,https://da.gd/DeGadm
+GithubAdvisories,[GHSA-m9hv-qmqh-33qh] EC-CUBE Cross-site request forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-m9hv-qmqh-33qh,https://da.gd/NRg4fc
+GithubAdvisories,[GHSA-4cxm-8hh5-jj33] EC-CUBE Improper access control vulnerability,https://github.com/advisories/GHSA-4cxm-8hh5-jj33,https://da.gd/mzsO
+GithubAdvisories,[GHSA-r6qq-qc9m-98w2] EC-CUBE Cross-site scripting vulnerability,https://github.com/advisories/GHSA-r6qq-qc9m-98w2,https://da.gd/7IpW
+GithubAdvisories,[GHSA-vrpv-26fm-7vf7] EC-CUBE Cross-site scripting vulnerability,https://github.com/advisories/GHSA-vrpv-26fm-7vf7,https://da.gd/cRi9v
+GithubAdvisories,[GHSA-c8mx-43cq-993w] EC-CUBE Cross-site scripting vulnerability,https://github.com/advisories/GHSA-c8mx-43cq-993w,https://da.gd/BdDzl
+GithubAdvisories,[GHSA-6wm9-966m-73jr] EC-CUBE Improper input validation vulnerability,https://github.com/advisories/GHSA-6wm9-966m-73jr,https://da.gd/jmbpt3
+GithubAdvisories,[GHSA-rwh8-h525-4jvj] EC-CUBE Improper Restriction of Rendered UI Layers or Frames,https://github.com/advisories/GHSA-rwh8-h525-4jvj,https://da.gd/yZhZYI
+GithubAdvisories,[GHSA-hx79-x87c-hgm3] EC-CUBE Directory traversal vulnerability,https://github.com/advisories/GHSA-hx79-x87c-hgm3,https://da.gd/w9xv
+GithubAdvisories,[GHSA-wxg6-f773-g2f7] jQuery File Upload Plugin Unrestricted file upload vulnerability,https://github.com/advisories/GHSA-wxg6-f773-g2f7,https://da.gd/r40qCO
+GithubAdvisories,[GHSA-9wf6-88x4-6xvj] BuddyPress Docs plugin Improper Privilege Management,https://github.com/advisories/GHSA-9wf6-88x4-6xvj,https://da.gd/Gc1ef
+GithubAdvisories,[GHSA-g6w5-439m-jhwv] Flarum mishandles invalidation of user email tokens,https://github.com/advisories/GHSA-g6w5-439m-jhwv,https://da.gd/0ADeNi
+GithubAdvisories,[GHSA-4j6v-3895-8g2j] silverstripe restfulserver and registry modules SQL injection vulnerability,https://github.com/advisories/GHSA-4j6v-3895-8g2j,https://da.gd/pI80Y
+GithubAdvisories,[GHSA-99rh-vxmc-7wgf] ezplatform-admin-ui Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-99rh-vxmc-7wgf,https://da.gd/78XbiP
