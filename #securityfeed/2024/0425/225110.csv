@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5qqx-32hw-5vx4] Gleez CMS Vulnerable to Cross-site Scripting in media/imagecache/resize,https://github.com/advisories/GHSA-5qqx-32hw-5vx4,https://da.gd/qb2XlO
+GithubAdvisories,[GHSA-g644-x4hj-cmhq] Gleez CMS CSRF Allows Adding of Administrator Accounts,https://github.com/advisories/GHSA-g644-x4hj-cmhq,https://da.gd/Wjqn
+GithubAdvisories,[GHSA-hh92-wg7v-8vfr] Gleez CMS Vulnerability Allows Forced Browsing to Profile Page of Other Users,https://github.com/advisories/GHSA-hh92-wg7v-8vfr,https://da.gd/Ba4HIZ
+GithubAdvisories,[GHSA-jj4j-cwgq-fx7g] ViMbAdmin Cross-site Scripting Vulnerabilities,https://github.com/advisories/GHSA-jj4j-cwgq-fx7g,https://da.gd/Q0DjB1
+GithubAdvisories,[GHSA-9gv2-2m38-j6cx] BEdita vulnerable to SQL injection,https://github.com/advisories/GHSA-9gv2-2m38-j6cx,https://da.gd/mdwdz
+GithubAdvisories,[GHSA-pgwp-f3xh-m24g] Bagisto CSRF Vulnerability,https://github.com/advisories/GHSA-pgwp-f3xh-m24g,https://da.gd/4wXC
+GithubAdvisories,[GHSA-r342-vjc4-wrmj] Craft CMS PHP Code Injection Vulnerability,https://github.com/advisories/GHSA-r342-vjc4-wrmj,https://da.gd/ZNctm
+GithubAdvisories,[GHSA-j7fx-v37j-v3w7] Craft CMS Vulnerable to Server-Side Template Injection,https://github.com/advisories/GHSA-j7fx-v37j-v3w7,https://da.gd/mZKQ9a
+GithubAdvisories,[GHSA-72pf-cvwq-vgqg] Craft CMS Cross-site Scripting (XSS) Vulnerability,https://github.com/advisories/GHSA-72pf-cvwq-vgqg,https://da.gd/egKPGu
+GithubAdvisories,[GHSA-j27g-r58q-624w] Craft CMS subject to URL forgery,https://github.com/advisories/GHSA-j27g-r58q-624w,https://da.gd/LTqRVu
+GithubAdvisories,[GHSA-cr3q-658v-qv3x] OpenCart-Overclocked Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-cr3q-658v-qv3x,https://da.gd/Y9Sk6Y
+GithubAdvisories,[GHSA-33rh-5hvf-5jjp] ZF-Commons ZfcUser Vulnerable to XSS in Login Redirect,https://github.com/advisories/GHSA-33rh-5hvf-5jjp,https://da.gd/AVTQup
+GithubAdvisories,[GHSA-74mf-vjpg-9xh7] Slim vulnerable to PHP object injection,https://github.com/advisories/GHSA-74mf-vjpg-9xh7,https://da.gd/qyDAW
