@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9wmf-xf3h-r8pr] Jberet: jberet-core logging database credentials,https://github.com/advisories/GHSA-9wmf-xf3h-r8pr,https://da.gd/3ONbAD
+GithubAdvisories,[GHSA-x5m7-63c6-fx79] Cluster Monitoring Operator contains a credentials leak,https://github.com/advisories/GHSA-x5m7-63c6-fx79,https://da.gd/lnIK
+GithubAdvisories,[GHSA-25w4-hfqg-4r52] Quarkus: authorization flaw in quarkus resteasy reactive and classic,https://github.com/advisories/GHSA-25w4-hfqg-4r52,https://da.gd/GIaDb
+GithubAdvisories,"[GHSA-ppx5-q359-pvwj] vyper's range(start, start + N) reverts for negative numbers",https://github.com/advisories/GHSA-ppx5-q359-pvwj,https://da.gd/DzzcOW
+GithubAdvisories,[GHSA-xchq-w5r3-4wg3] vyper performs incorrect topic logging in raw_log,https://github.com/advisories/GHSA-xchq-w5r3-4wg3,https://da.gd/dOyiIu
+GithubAdvisories,[GHSA-r56x-j438-vw5m] vyper performs double eval of the slice args when buffer from adhoc locations,https://github.com/advisories/GHSA-r56x-j438-vw5m,https://da.gd/dlCvA
+GithubAdvisories,[GHSA-3whq-64q2-qfj6] vyper performs double eval of raw_args in create_from_blueprint,https://github.com/advisories/GHSA-3whq-64q2-qfj6,https://da.gd/s99MaB
