@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c3q8-hh69-7mg5] Codiad SSRF Vulnerability,https://github.com/advisories/GHSA-c3q8-hh69-7mg5,https://da.gd/JWP5v
+GithubAdvisories,[GHSA-35gp-jxw8-xw6h] Codiad CSRF Vulnerability,https://github.com/advisories/GHSA-35gp-jxw8-xw6h,https://da.gd/DGFOE
+GithubAdvisories,[GHSA-g2x4-256v-5pvx] Codiad Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-g2x4-256v-5pvx,https://da.gd/HS0sn
+GithubAdvisories,[GHSA-8fhh-hf9w-55p7] Codiad Vulnerable to PHP Magic Hash Vulnerability,https://github.com/advisories/GHSA-8fhh-hf9w-55p7,https://da.gd/SuRr
+GithubAdvisories,[GHSA-584h-jhxh-pxp2] Codiad remote code execution vulnerability,https://github.com/advisories/GHSA-584h-jhxh-pxp2,https://da.gd/TcASg
+GithubAdvisories,[GHSA-jccv-3h4x-35mv] Codiad Vulnerable to Shell Command Injection,https://github.com/advisories/GHSA-jccv-3h4x-35mv,https://da.gd/viCNZC
+GithubAdvisories,[GHSA-89r2-5g34-2g47] Symfony Open Redirect,https://github.com/advisories/GHSA-89r2-5g34-2g47,https://da.gd/mz6gS
+GithubAdvisories,[GHSA-cqqh-94r6-wjrg] Symfony SSRF Vulnerability via Form Component,https://github.com/advisories/GHSA-cqqh-94r6-wjrg,https://da.gd/e9TzfR
+GithubAdvisories,[GHSA-35c5-28pg-2qg4] Symfony Authentication Bypass,https://github.com/advisories/GHSA-35c5-28pg-2qg4,https://da.gd/bvKoy
+GithubAdvisories,[GHSA-2r5h-6r7v-5m7c] Symphony Vulnerable to PHP Code Injection via YAML Parsing,https://github.com/advisories/GHSA-2r5h-6r7v-5m7c,https://da.gd/Zhb05
+GithubAdvisories,[GHSA-5c58-w9xc-qcj9] Symfony Vulnerable to PHP Eval Injection,https://github.com/advisories/GHSA-5c58-w9xc-qcj9,https://da.gd/REI8b
+GithubAdvisories,[GHSA-whgv-8cg3-7hcm] Symphony Denial of Service Via Overlong Usernames,https://github.com/advisories/GHSA-whgv-8cg3-7hcm,https://da.gd/hbc2
+GithubAdvisories,[GHSA-cr49-fx2v-9p57] Symfony Denial of Service Via Long Password Hashing,https://github.com/advisories/GHSA-cr49-fx2v-9p57,https://da.gd/rj9my6
+GithubAdvisories,[GHSA-5ffj-mph5-c5hv] Appwrite Vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-5ffj-mph5-c5hv,https://da.gd/8EHTDU
+GithubAdvisories,[GHSA-4f4h-jgjp-3vfg] Subrion CMS CSV injection via Export Language,https://github.com/advisories/GHSA-4f4h-jgjp-3vfg,https://da.gd/7qSMD
+GithubAdvisories,[GHSA-c4wx-3x5q-hf4w] Subrion CMS Cross-Site Request Forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-c4wx-3x5q-hf4w,https://da.gd/UPcthm
+GithubAdvisories,[GHSA-fmqq-hw9m-448q] Subrion CMS PHP Object Injection,https://github.com/advisories/GHSA-fmqq-hw9m-448q,https://da.gd/QUMdz
+GithubAdvisories,[GHSA-xhc3-5pgf-p576] subrion CMS Cross Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-xhc3-5pgf-p576,https://da.gd/522Nf
+GithubAdvisories,[GHSA-jj94-j4r3-5gr4] Subrion Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-jj94-j4r3-5gr4,https://da.gd/0Q5UT
+GithubAdvisories,[GHSA-9738-c49q-4rgc] Subrion Cross-site Scripting (XSS),https://github.com/advisories/GHSA-9738-c49q-4rgc,https://da.gd/f1OkG6
+GithubAdvisories,[GHSA-6wc4-v4v5-3m82] Subrion CMS Stored Cross-site Scripting (XSS),https://github.com/advisories/GHSA-6wc4-v4v5-3m82,https://da.gd/5pgH
+GithubAdvisories,[GHSA-4j79-4m6q-77vf] Subrion CMS PHP Object Injection,https://github.com/advisories/GHSA-4j79-4m6q-77vf,https://da.gd/bJOb10
+GithubAdvisories,[GHSA-2xv7-fwh6-x7fc] Subrion Cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-2xv7-fwh6-x7fc,https://da.gd/LvHB
