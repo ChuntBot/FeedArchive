@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x5g4-crxq-qxjx] Contao Core directory traversal vulnerability,https://github.com/advisories/GHSA-x5g4-crxq-qxjx,https://da.gd/k1pn2
+GithubAdvisories,[GHSA-vcgg-hp4r-87gx] Contao Does Not Invalidate Existing Sessions When Password Changes,https://github.com/advisories/GHSA-vcgg-hp4r-87gx,https://da.gd/MKb26
+GithubAdvisories,[GHSA-4r6g-xhx7-fm36] Contao Core directory traversal vulnerability,https://github.com/advisories/GHSA-4r6g-xhx7-fm36,https://da.gd/sRLh8
+GithubAdvisories,[GHSA-j99g-qjvx-995g] Contao Does Not Expire Tokens Correctly,https://github.com/advisories/GHSA-j99g-qjvx-995g,https://da.gd/X8G92
+GithubAdvisories,[GHSA-vq59-x6mq-4wgw] Contao SQL injection in the file manager,https://github.com/advisories/GHSA-vq59-x6mq-4wgw,https://da.gd/gDjvLT
+GithubAdvisories,[GHSA-w38g-hj45-mjjp] Contao SQL injection in the backend and listing module,https://github.com/advisories/GHSA-w38g-hj45-mjjp,https://da.gd/1x3X
+GithubAdvisories,[GHSA-hwmh-9jj9-8c9c] Contao CSRF Token Bypass,https://github.com/advisories/GHSA-hwmh-9jj9-8c9c,https://da.gd/csDF7
+GithubAdvisories,[GHSA-q99w-j4mj-7hj8] Contao Information Disclosure via Access Control Flaws,https://github.com/advisories/GHSA-q99w-j4mj-7hj8,https://da.gd/23Pr1
+GithubAdvisories,[GHSA-9jq2-jvwc-p52f] Contao core SQL Injection Vulnerability,https://github.com/advisories/GHSA-9jq2-jvwc-p52f,https://da.gd/F1kik7
+GithubAdvisories,[GHSA-48r9-4v93-x4wh] DOMPDF Remote File Inclusion Vulnerability,https://github.com/advisories/GHSA-48r9-4v93-x4wh,https://da.gd/CpGwU
+GithubAdvisories,[GHSA-wwfh-28hx-w2r2] Joomla! Framework Remote Code Injection Vulnerability,https://github.com/advisories/GHSA-wwfh-28hx-w2r2,https://da.gd/lpHma
+GithubAdvisories,[GHSA-qr6q-w4gj-3865] DOMPDF Arbitrary File Read,https://github.com/advisories/GHSA-qr6q-w4gj-3865,https://da.gd/v7vdm
+GithubAdvisories,[GHSA-vg2g-698h-v9w3] PyroCMS Vulnerable to CSRF,https://github.com/advisories/GHSA-vg2g-698h-v9w3,https://da.gd/FVIW2S
+GithubAdvisories,[GHSA-56xx-pv88-2662] PyroCMS Vulnerable to CSRF,https://github.com/advisories/GHSA-56xx-pv88-2662,https://da.gd/7lMoM
+GithubAdvisories,[GHSA-rc8x-jrrc-frfv] Laravel does not properly constrain the host portion of a password-reset URL,https://github.com/advisories/GHSA-rc8x-jrrc-frfv,https://da.gd/Upe1Wm
+GithubAdvisories,[GHSA-rrmf-fpmm-jpwr] ViMbAdmin CSRF Vulnerabilities,https://github.com/advisories/GHSA-rrmf-fpmm-jpwr,https://da.gd/HG6DCH
+GithubAdvisories,[GHSA-q5fg-v5p7-r424] Croogo vulnerable to Cross-site Scripting in title field,https://github.com/advisories/GHSA-q5fg-v5p7-r424,https://da.gd/lPfys
