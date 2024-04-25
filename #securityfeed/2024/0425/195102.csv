@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m2v9-w374-5hj9] vyper default functions don't respect nonreentrancy keys,https://github.com/advisories/GHSA-m2v9-w374-5hj9,https://da.gd/hYfkO
+GithubAdvisories,[GHSA-5jrj-52x8-m64h] vyper performs double eval of the argument of sqrt,https://github.com/advisories/GHSA-5jrj-52x8-m64h,https://da.gd/2Upwas
