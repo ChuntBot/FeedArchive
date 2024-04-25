@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-346h-749j-r28w] PHPECC vulnerable to multiple cryptographic side-channel attacks,https://github.com/advisories/GHSA-346h-749j-r28w,https://da.gd/9w92q
+GithubAdvisories,[GHSA-7j7j-66cv-m239] ZITADEL's Improper Lockout Mechanism Leads to MFA Bypass,https://github.com/advisories/GHSA-7j7j-66cv-m239,https://da.gd/hlfA2
