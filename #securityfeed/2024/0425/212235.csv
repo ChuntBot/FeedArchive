@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j9wr-mj69-cqmv] Froxlor Exposure of Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-j9wr-mj69-cqmv,https://da.gd/XR2S6
+GithubAdvisories,[GHSA-p29c-jpgj-v57r] Froxlor arbitrary code execution via the database configuration options,https://github.com/advisories/GHSA-p29c-jpgj-v57r,https://da.gd/lFZeFr
+GithubAdvisories,[GHSA-hpj2-4hfj-g233] Fat-Free Framework arbitrary code execution,https://github.com/advisories/GHSA-hpj2-4hfj-g233,https://da.gd/Npqkc
+GithubAdvisories,[GHSA-592m-4533-rxq9] SilverStripe Folders migrated from 3.x may be unsafe to upload to,https://github.com/advisories/GHSA-592m-4533-rxq9,https://da.gd/UjN4m
+GithubAdvisories,[GHSA-5fr8-xhqq-4p3q] SilverStripe Denial of Service on flush and development URL tools,https://github.com/advisories/GHSA-5fr8-xhqq-4p3q,https://da.gd/bfdl
+GithubAdvisories,[GHSA-jgw2-f5mx-rg7h] SilverStripe asset-admin Cross-site Scripting (XSS),https://github.com/advisories/GHSA-jgw2-f5mx-rg7h,https://da.gd/IlGDG
+GithubAdvisories,[GHSA-3vjc-5x79-m9r8] SilverStripe XXE Vulnerability in CSSContentParser,https://github.com/advisories/GHSA-3vjc-5x79-m9r8,https://da.gd/0SMH9X
+GithubAdvisories,[GHSA-2jvj-mhf2-g99w] SilverStripe CSV Excel Macro Injection,https://github.com/advisories/GHSA-2jvj-mhf2-g99w,https://da.gd/f73e3v
+GithubAdvisories,[GHSA-923w-2xv2-7pr8] SimpleSAMLphp Improper Verification of Cryptographic Signature,https://github.com/advisories/GHSA-923w-2xv2-7pr8,https://da.gd/kMEIh
+GithubAdvisories,[GHSA-fj28-869x-vv5g] SimpleSAMLphp InfoCard module Incorrect signature verification,https://github.com/advisories/GHSA-fj28-869x-vv5g,https://da.gd/vyNlsi
+GithubAdvisories,[GHSA-j4qf-3w33-8cgc] SimpleSAMLphp Signature validation bypass,https://github.com/advisories/GHSA-j4qf-3w33-8cgc,https://da.gd/OZnZV
+GithubAdvisories,[GHSA-hhm8-2j4g-mpgg] SimpleSAMLphp SAML2 library Regular Expression Denial of Service vulnerability,https://github.com/advisories/GHSA-hhm8-2j4g-mpgg,https://da.gd/JcExI
+GithubAdvisories,[GHSA-r8v4-7vwj-983x] SimpleSAMLphp SAML2 spoof SAML responses,https://github.com/advisories/GHSA-r8v4-7vwj-983x,https://da.gd/1mnJL
+GithubAdvisories,[GHSA-ww3w-592j-5qrw] SimpleSAMLphp Incorrect IV generation for encryption,https://github.com/advisories/GHSA-ww3w-592j-5qrw,https://da.gd/YQmALa
+GithubAdvisories,[GHSA-44pr-mgcp-v36r] SimpleSAMLphp Unauthenticated encryption in CBC mode,https://github.com/advisories/GHSA-44pr-mgcp-v36r,https://da.gd/6DT4F
+GithubAdvisories,[GHSA-qfg7-wc25-r3j2] eGroupware Community Edition Stored XSS vulnerability,https://github.com/advisories/GHSA-qfg7-wc25-r3j2,https://da.gd/M5F96G
+GithubAdvisories,[GHSA-m98q-p5gq-q5ff] eZ Publish Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-m98q-p5gq-q5ff,https://da.gd/v5lQ
+GithubAdvisories,[GHSA-54p5-gxq6-j98g] eZ Publish Kernel and Legacy Unrestricted Upload of File with Dangerous Type,https://github.com/advisories/GHSA-54p5-gxq6-j98g,https://da.gd/9Fa8
+GithubAdvisories,[GHSA-6xw3-cpqj-8mxr] ThinkCMF Cross Site Request Forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-6xw3-cpqj-8mxr,https://da.gd/rF01g4
+GithubAdvisories,[GHSA-m9mf-rqx6-2xpc] ThinkCMF Stored Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-m9mf-rqx6-2xpc,https://da.gd/SvU7Ed
+GithubAdvisories,[GHSA-842m-vp3r-qwwr] ThinkCMF Cross Site Request Forgerly (CSRF) vulnerability,https://github.com/advisories/GHSA-842m-vp3r-qwwr,https://da.gd/gF4cYa
