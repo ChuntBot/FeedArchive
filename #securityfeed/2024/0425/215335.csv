@@ -1,0 +1,47 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9mfc-gr8c-xj4m] Evolution CMS Cross-site Scripting (XSS),https://github.com/advisories/GHSA-9mfc-gr8c-xj4m,https://da.gd/5CxHH
+GithubAdvisories,[GHSA-8h24-3cjr-xxmh] Evolution CMS Stored Cross-site Scripting (XSS),https://github.com/advisories/GHSA-8h24-3cjr-xxmh,https://da.gd/8phPL
+GithubAdvisories,[GHSA-mwxh-6j9v-45ph] bbPress unauthenticated privilege-escalation,https://github.com/advisories/GHSA-mwxh-6j9v-45ph,https://da.gd/ZpAehC
+GithubAdvisories,[GHSA-p9xp-xghp-gqvp] bbPress stored Cross-Site Scripting (XSS) vulnerability in the Forum creation section,https://github.com/advisories/GHSA-p9xp-xghp-gqvp,https://da.gd/7DJGGG
+GithubAdvisories,[GHSA-483f-wxw9-3rpq] bbPress Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-483f-wxw9-3rpq,https://da.gd/K0iptU
+GithubAdvisories,[GHSA-277w-qpxr-2549] MediaElement Vulnerable to Reflected XSS,https://github.com/advisories/GHSA-277w-qpxr-2549,https://da.gd/EigC9w
+GithubAdvisories,[GHSA-qv5p-6wrc-79wg] SimpleSAMLphp Use of insecure connection charset (sqlauth module),https://github.com/advisories/GHSA-qv5p-6wrc-79wg,https://da.gd/4quKv
+GithubAdvisories,[GHSA-597c-mh7m-48v7] SimpleSAMLphp Invalid token creation and validation,https://github.com/advisories/GHSA-597c-mh7m-48v7,https://da.gd/2SqF6
+GithubAdvisories,[GHSA-qc43-78vj-vg7p] SimpleSAMLphp Authentication context bypass in the multiauth module,https://github.com/advisories/GHSA-qc43-78vj-vg7p,https://da.gd/17EU2
+GithubAdvisories,[GHSA-2qfc-48v5-4w5h] SimpleSAMLphp Open redirection protection bypass,https://github.com/advisories/GHSA-2qfc-48v5-4w5h,https://da.gd/ATZwLS
+GithubAdvisories,[GHSA-9327-mqm6-x97j] SimpleSAMLphp Information leakage issue in the sanitycheck module,https://github.com/advisories/GHSA-9327-mqm6-x97j,https://da.gd/b8bat
+GithubAdvisories,[GHSA-77p4-wfr8-977w] TYPO3 Directory Traversal on ZIP extraction,https://github.com/advisories/GHSA-77p4-wfr8-977w,https://da.gd/RZVXD
+GithubAdvisories,[GHSA-989h-wv8x-933p] TYPO3 cross-site scripting (XSS),https://github.com/advisories/GHSA-989h-wv8x-933p,https://da.gd/92dz
+GithubAdvisories,[GHSA-rcgc-4xfc-564v] TYPO3 Insecure Deserialization in Query Generator & Query View,https://github.com/advisories/GHSA-rcgc-4xfc-564v,https://da.gd/s9QOM
+GithubAdvisories,[GHSA-q8cr-xphm-7gfv] Akeneo PIM vulnerable to shell injection in the mass edition,https://github.com/advisories/GHSA-q8cr-xphm-7gfv,https://da.gd/IqdDY1
+GithubAdvisories,[GHSA-2qfv-wwfx-fh34] paypal/permissions-sdk-php reflected Cross-site Scripting (XSS),https://github.com/advisories/GHSA-2qfv-wwfx-fh34,https://da.gd/cJTO1
+GithubAdvisories,[GHSA-626w-hmpw-x74j] paypal/invoice-sdk-php reflected XSS,https://github.com/advisories/GHSA-626w-hmpw-x74j,https://da.gd/h3xlR4
+GithubAdvisories,[GHSA-p4g7-wjhq-9r2h] PayPal PHP Merchant SDK Cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-p4g7-wjhq-9r2h,https://da.gd/eboZpv
+GithubAdvisories,[GHSA-hvgf-2rf7-wrx9] Froxlor Information Disclosure,https://github.com/advisories/GHSA-hvgf-2rf7-wrx9,https://da.gd/to2PVN
+GithubAdvisories,[GHSA-2ppw-6xvg-rwgw] GeniXCMS SQL injection vulnerability,https://github.com/advisories/GHSA-2ppw-6xvg-rwgw,https://da.gd/heyUya
+GithubAdvisories,[GHSA-478j-mcrr-3877] GeniXCMS Cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-478j-mcrr-3877,https://da.gd/6ITWv
+GithubAdvisories,[GHSA-9r4x-3534-w3f9] paypal/adaptivepayments-sdk-php vulnerable to a reflected XSS,https://github.com/advisories/GHSA-9r4x-3534-w3f9,https://da.gd/LIevI
+GithubAdvisories,[GHSA-59pj-7mjh-4465] TYPO3 SQL Injection in low-level Query Generator,https://github.com/advisories/GHSA-59pj-7mjh-4465,https://da.gd/cpV0Nf
+GithubAdvisories,[GHSA-9j8h-xrgj-7gw2] TYPO3 Improper Session Invalidation,https://github.com/advisories/GHSA-9j8h-xrgj-7gw2,https://da.gd/IYmzy
+GithubAdvisories,[GHSA-ffcm-vhcw-p32r] TYPO3 Backend component Cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-ffcm-vhcw-p32r,https://da.gd/0OqkN
+GithubAdvisories,[GHSA-fh4q-hxrw-cjqq] TYPO3 Arbitrary Code Execution,https://github.com/advisories/GHSA-fh4q-hxrw-cjqq,https://da.gd/UsNEv
+GithubAdvisories,[GHSA-87hc-phmj-rhgh] TYPO3 Information Disclosure Vulnerability,https://github.com/advisories/GHSA-87hc-phmj-rhgh,https://da.gd/4qxGj
+GithubAdvisories,[GHSA-gjcj-fj23-5j5v] GeniXCMS SQL injection vulnerability,https://github.com/advisories/GHSA-gjcj-fj23-5j5v,https://da.gd/N9XmSL
+GithubAdvisories,[GHSA-52xr-wx26-9rfg] GeniXCMS Cross-site Scripting (XSS),https://github.com/advisories/GHSA-52xr-wx26-9rfg,https://da.gd/fbFUOJ
+GithubAdvisories,[GHSA-34vw-8cjw-cwjj] GeniXCMS SQL Injection,https://github.com/advisories/GHSA-34vw-8cjw-cwjj,https://da.gd/ZobXQ
+GithubAdvisories,[GHSA-5hf2-7xf4-w3j6] GeniXCMS Cross-site Scripting,https://github.com/advisories/GHSA-5hf2-7xf4-w3j6,https://da.gd/OZsCY
+GithubAdvisories,[GHSA-4399-46r4-5rmv] GeniXCMS Cross-site Scripting (XSS),https://github.com/advisories/GHSA-4399-46r4-5rmv,https://da.gd/Ldcdu
+GithubAdvisories,[GHSA-wm7g-rmgg-9837] GeniXCMS Arbitrary User Password Reset Vulnerability,https://github.com/advisories/GHSA-wm7g-rmgg-9837,https://da.gd/YILE
+GithubAdvisories,[GHSA-2m9r-pm7q-wr6f] GeniXCMS denial of service (account blockage),https://github.com/advisories/GHSA-2m9r-pm7q-wr6f,https://da.gd/tK30i
+GithubAdvisories,[GHSA-jgc6-jr94-h442] GeniXCMS Cross-site Scripting (XSS) via id parameter,https://github.com/advisories/GHSA-jgc6-jr94-h442,https://da.gd/eFmKgx
+GithubAdvisories,[GHSA-3c7g-p9jx-8cgm] GeniXCMS Cross-site Scripting (XSS) via the Menu ID field,https://github.com/advisories/GHSA-3c7g-p9jx-8cgm,https://da.gd/QVO8
+GithubAdvisories,[GHSA-5cmg-8m8p-whmj] GeniXCMS arbitrary PHP code execution,https://github.com/advisories/GHSA-5cmg-8m8p-whmj,https://da.gd/ecapPL
+GithubAdvisories,[GHSA-559c-w54x-8342] GeniXCMS Mailbox validation logic vulnerability,https://github.com/advisories/GHSA-559c-w54x-8342,https://da.gd/69S9
+GithubAdvisories,[GHSA-xf2g-c66g-5f5r] GeniXCMS Cross-site Scripting (XSS) vulnerability via id parameter,https://github.com/advisories/GHSA-xf2g-c66g-5f5r,https://da.gd/N61nX
+GithubAdvisories,[GHSA-2f6r-892p-69g5] GeniXCMS arbitrary PHP code execution,https://github.com/advisories/GHSA-2f6r-892p-69g5,https://da.gd/ghVJD
+GithubAdvisories,[GHSA-q4qm-fv7m-8rf7] Duplicate Advisory: Cross-Site Request Forgery in easyii CMS,https://github.com/advisories/GHSA-q4qm-fv7m-8rf7,https://da.gd/llVNHn
+GithubAdvisories,[GHSA-6fvw-x6gw-4wv8] Froxlor SQL injection vulnerability,https://github.com/advisories/GHSA-6fvw-x6gw-4wv8,https://da.gd/MSeGwX
+GithubAdvisories,[GHSA-r6g8-mq9v-cgp4] Froxlor Incorrect Access Control,https://github.com/advisories/GHSA-r6g8-mq9v-cgp4,https://da.gd/FXlEM
+GithubAdvisories,[GHSA-g77v-m226-3f7g] Froxlor PHP Object Injection vulnerability,https://github.com/advisories/GHSA-g77v-m226-3f7g,https://da.gd/pSF4
+GithubAdvisories,[GHSA-qj6h-m7xc-r2v3] Froxlor guessable password reset token,https://github.com/advisories/GHSA-qj6h-m7xc-r2v3,https://da.gd/LsgWh
+GithubAdvisories,[GHSA-cv24-vh45-4hjm] Foxlor cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-cv24-vh45-4hjm,https://da.gd/HdUyV
