@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mv64-86g8-cqq7] Quarkus: security checks in resteasy reactive may trigger a denial of service,https://github.com/advisories/GHSA-mv64-86g8-cqq7,https://da.gd/Q3HmS
