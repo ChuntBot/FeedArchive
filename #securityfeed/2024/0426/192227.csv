@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p2wq-4ggp-45f3] Mattermost fails to limit the size of a request path,https://github.com/advisories/GHSA-p2wq-4ggp-45f3,https://da.gd/CMtYN
+GithubAdvisories,[GHSA-8f99-g2pj-x8w3] Mattermost crashes web clients via a malformed custom status,https://github.com/advisories/GHSA-8f99-g2pj-x8w3,https://da.gd/zJwWp
+GithubAdvisories,[GHSA-vx97-8q8q-qgq5] Mattermost's detailed error messages reveal the full file path,https://github.com/advisories/GHSA-vx97-8q8q-qgq5,https://da.gd/wf0nV
+GithubAdvisories,[GHSA-wj37-mpq9-xrcm] Mattermost fails to limit the number of active sessions,https://github.com/advisories/GHSA-wj37-mpq9-xrcm,https://da.gd/1XqTGa
+GithubAdvisories,[GHSA-5qx9-9ffj-5r8f] Mattermost fails to fully validate role changes,https://github.com/advisories/GHSA-5qx9-9ffj-5r8f,https://da.gd/CGINJ9
+GithubAdvisories,[GHSA-5fh7-7mw7-mmx5] Mattermost allows team admins to promote guests to team admins,https://github.com/advisories/GHSA-5fh7-7mw7-mmx5,https://da.gd/3mQJg
