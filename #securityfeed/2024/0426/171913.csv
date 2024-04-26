@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cjwg-qfpm-7377] python-jose denial of service via compressed JWT tokens,https://github.com/advisories/GHSA-cjwg-qfpm-7377,https://da.gd/30Et
+GithubAdvisories,[GHSA-6c5p-j8vq-pqhj] python-jose algorithm confusion with OpenSSH ECDSA keys,https://github.com/advisories/GHSA-6c5p-j8vq-pqhj,https://da.gd/Q6Zg9X
