@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c5pj-mqfh-rvc3] Runc allows an arbitrary systemd property to be injected,https://github.com/advisories/GHSA-c5pj-mqfh-rvc3,https://da.gd/OQTK2
