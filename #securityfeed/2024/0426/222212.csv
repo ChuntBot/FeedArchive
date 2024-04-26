@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q655-3pj8-9fxq] Sidekiq vulnerable to a Reflected XSS in Queues Web Page,https://github.com/advisories/GHSA-q655-3pj8-9fxq,https://da.gd/bklykq
