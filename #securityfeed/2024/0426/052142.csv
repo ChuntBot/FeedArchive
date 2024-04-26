@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j62r-wxqq-f3gf] mlflow vulnerable to Path Traversal,https://github.com/advisories/GHSA-j62r-wxqq-f3gf,https://da.gd/zOAv
+GithubAdvisories,[GHSA-2wrp-6fg6-hmc5] Spring Framework URL Parsing with Host Validation,https://github.com/advisories/GHSA-2wrp-6fg6-hmc5,https://da.gd/CCRQL
