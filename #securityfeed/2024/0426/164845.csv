@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2pg6-vw9c-qhjv] Passbolt API allows HTML injection,https://github.com/advisories/GHSA-2pg6-vw9c-qhjv,https://da.gd/tC5KA
+GithubAdvisories,[GHSA-9m6p-x4h2-6frq] Argo CD vulnerable to a Denial of Service via malicious jqPathExpressions in ignoreDifferences,https://github.com/advisories/GHSA-9m6p-x4h2-6frq,https://da.gd/2Kn0
