@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q64h-39hv-4cf7] HashiCorp go-getter Vulnerable to Argument Injection When Fetching Remote Default Git Branches,https://github.com/advisories/GHSA-q64h-39hv-4cf7,https://da.gd/5isSR
