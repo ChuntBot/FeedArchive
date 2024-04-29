@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7498-c9fm-g64p] koji hub allows arbitrary upload destinations,https://github.com/advisories/GHSA-7498-c9fm-g64p,https://da.gd/hTdTyB
+GithubAdvisories,[GHSA-mh78-8f49-vjg3] Home Assistant information disclosure vulnerability,https://github.com/advisories/GHSA-mh78-8f49-vjg3,https://da.gd/gls4
+GithubAdvisories,[GHSA-pg64-r7rr-phv8] OpenStack Nova Server Resource Faults Leak External Exception Details,https://github.com/advisories/GHSA-pg64-r7rr-phv8,https://da.gd/f89Q
+GithubAdvisories,[GHSA-q886-75m2-vff8] Duplicate Advisory: Unauthorized privilege escalation in Mod module,https://github.com/advisories/GHSA-q886-75m2-vff8,https://da.gd/xuIyxI
+GithubAdvisories,[GHSA-c7fc-cm7p-92r2] Openstack ironic-inspector has SQL injection vulnerability in node_cache,https://github.com/advisories/GHSA-c7fc-cm7p-92r2,https://da.gd/DasA
+GithubAdvisories,[GHSA-rqg8-xjp2-pg9w] LinOTP replay vulnerability with auto resynchronization enabled for TOTP token,https://github.com/advisories/GHSA-rqg8-xjp2-pg9w,https://da.gd/yfa9Dl
