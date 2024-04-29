@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6wgp-fwfm-mxp3] Django allows user sessions hijacking via an empty string in the session key,https://github.com/advisories/GHSA-6wgp-fwfm-mxp3,https://da.gd/nw5GXF
+GithubAdvisories,[GHSA-wg33-x934-3ghh] jwcrypto lacks the Random Filling protection mechanism,https://github.com/advisories/GHSA-wg33-x934-3ghh,https://da.gd/fvy5av
+GithubAdvisories,[GHSA-9w4f-3v37-6f75] ceph-deploy allows local users to obtain sensitive information by reading the file,https://github.com/advisories/GHSA-9w4f-3v37-6f75,https://da.gd/P43b1M
+GithubAdvisories,[GHSA-fh5c-7gmg-xmp6] Kallithea cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-fh5c-7gmg-xmp6,https://da.gd/xqYAY
+GithubAdvisories,[GHSA-hhx9-4vw2-x54r] RhodeCode and Kallithea are vulnerable to sensitive information disclosure,https://github.com/advisories/GHSA-hhx9-4vw2-x54r,https://da.gd/N4Lk4
