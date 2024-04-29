@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v3m2-pg96-w33m] Openstack cinder Improper handling of ScaleIO backend credentials,https://github.com/advisories/GHSA-v3m2-pg96-w33m,https://da.gd/N8FSy8
+GithubAdvisories,[GHSA-chgw-36xv-47cw] OpenStack Keystone EC2 and/or credential endpoints are not protected from a scoped context,https://github.com/advisories/GHSA-chgw-36xv-47cw,https://da.gd/nvt9
