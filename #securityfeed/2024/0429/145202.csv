@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-chg9-3c3p-ch23] Lemur uses static IV per key,https://github.com/advisories/GHSA-chg9-3c3p-ch23,https://da.gd/dp1uFU
+GithubAdvisories,[GHSA-chvw-gjxf-f8mc] Plone vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-chvw-gjxf-f8mc,https://da.gd/D8qSeY
+GithubAdvisories,[GHSA-2q4h-27m7-rj67] python-bugzilla has improper validation of X.509 certificates,https://github.com/advisories/GHSA-2q4h-27m7-rj67,https://da.gd/ZA9DKD
+GithubAdvisories,[GHSA-rw75-m7gp-92m3] Django data leakage via querystring manipulation in admin,https://github.com/advisories/GHSA-rw75-m7gp-92m3,https://da.gd/OwVkdi
+GithubAdvisories,[GHSA-gw46-8559-cggp] sosreport sensitive information disclosure via weak permissions of the generated archives,https://github.com/advisories/GHSA-gw46-8559-cggp,https://da.gd/vhpodI
+GithubAdvisories,[GHSA-fqw7-c6vr-q29m] openstack-mistral Discloses the presence of arbitrary files within the filesystem,https://github.com/advisories/GHSA-fqw7-c6vr-q29m,https://da.gd/8LxI9
+GithubAdvisories,[GHSA-jj23-fj2v-m872] MoinMoin Improper Access Control vulnerability,https://github.com/advisories/GHSA-jj23-fj2v-m872,https://da.gd/89YAtm
+GithubAdvisories,[GHSA-f9qv-j5g6-g5cr] Trac is vulnerable to improper policy checks and missing 'raw' role check in docutils,https://github.com/advisories/GHSA-f9qv-j5g6-g5cr,https://da.gd/ZvR6
+GithubAdvisories,[GHSA-gh7c-cg3x-pmcr] pyftpdlib Use of Insufficiently Random Values of port selection on PASV command,https://github.com/advisories/GHSA-gh7c-cg3x-pmcr,https://da.gd/6X4hNs
+GithubAdvisories,[GHSA-9v8h-57gv-qch6] Django vulnerable to Denial of Service via i18n middleware component,https://github.com/advisories/GHSA-9v8h-57gv-qch6,https://da.gd/gZiEe
+GithubAdvisories,[GHSA-w7x2-57f7-3p3x] Trac Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-w7x2-57f7-3p3x,https://da.gd/9HF4Fi
+GithubAdvisories,[GHSA-7jjr-3r8r-9pcf] Trac missing Content-Disposition HTTP header,https://github.com/advisories/GHSA-7jjr-3r8r-9pcf,https://da.gd/ABANg
+GithubAdvisories,[GHSA-2q26-r8c4-jfx5] Edgewall Trac Cross-site request forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-2q26-r8c4-jfx5,https://da.gd/ZzYM
+GithubAdvisories,[GHSA-r524-c2gf-5chr] Trac reStructuredText breach of privacy and denial of service vulnerability,https://github.com/advisories/GHSA-r524-c2gf-5chr,https://da.gd/xGj9N
+GithubAdvisories,[GHSA-vx77-5pf4-c9wr] CherryPy Directory traversal vulnerability,https://github.com/advisories/GHSA-vx77-5pf4-c9wr,https://da.gd/pq3fhn
+GithubAdvisories,[GHSA-6vhp-hp77-6w52] Trac HTML WikiProcessor cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-6vhp-hp77-6w52,https://da.gd/cVJA2
+GithubAdvisories,[GHSA-x23q-4j9j-9cxw] Ops CLI Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-x23q-4j9j-9cxw,https://da.gd/CRskL
+GithubAdvisories,[GHSA-fpv7-hx6r-9vcx] Mezzanine Cross Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-fpv7-hx6r-9vcx,https://da.gd/sTal2
+GithubAdvisories,[GHSA-8q8v-28rm-qw4w] Borg Improper Access Control vulnerability,https://github.com/advisories/GHSA-8q8v-28rm-qw4w,https://da.gd/H9wba0
