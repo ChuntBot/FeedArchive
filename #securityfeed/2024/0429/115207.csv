@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4x83-5gw5-q346] Zope Object Database (ZODB) vulnerable to arbitrary Python code execution in ZEO storage servers,https://github.com/advisories/GHSA-4x83-5gw5-q346,https://da.gd/mmSNq
+GithubAdvisories,[GHSA-q48q-77qv-cf9p] httplib2 incorrectly checks SSL certificate,https://github.com/advisories/GHSA-q48q-77qv-cf9p,https://da.gd/BF0PSU
+GithubAdvisories,[GHSA-977v-29j9-9rxc] MoinMoin improper sanitizes user profiles,https://github.com/advisories/GHSA-977v-29j9-9rxc,https://da.gd/ZoUq
+GithubAdvisories,[GHSA-75cw-5cgv-g853] IPython Notebook vulnerable to improper validation of the origin of websocket requests,https://github.com/advisories/GHSA-75cw-5cgv-g853,https://da.gd/n4c6fe
+GithubAdvisories,[GHSA-j6f7-g425-4gmx] Pillow is vulnerable to Denial of Service (DOS) in the Jpeg2KImagePlugin,https://github.com/advisories/GHSA-j6f7-g425-4gmx,https://da.gd/BB62z
+GithubAdvisories,"[GHSA-574f-mh6m-c6qm] MoinMoin has multiple vulnerabilities related to superuser list, xmlrpc and OpenID configuration",https://github.com/advisories/GHSA-574f-mh6m-c6qm,https://da.gd/8PTi
