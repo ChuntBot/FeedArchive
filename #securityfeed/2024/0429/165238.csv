@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v4vj-49m5-wjhw] Plone vulnerable to unauthorized disclosure of site content,https://github.com/advisories/GHSA-v4vj-49m5-wjhw,https://da.gd/xioF
+GithubAdvisories,[GHSA-f9q6-69fh-4w5w] flask-oidc Open Redirect vulnerability,https://github.com/advisories/GHSA-f9q6-69fh-4w5w,https://da.gd/jXTAv
+GithubAdvisories,[GHSA-6gx4-29v9-g9q5] MoinMoin Multiple vulnerable to directory traversal,https://github.com/advisories/GHSA-6gx4-29v9-g9q5,https://da.gd/tWWSA
+GithubAdvisories,[GHSA-v2rp-9cpj-pfw2] Salt Insecure configuration of PAM external authentication service,https://github.com/advisories/GHSA-v2rp-9cpj-pfw2,https://da.gd/o7yAn
+GithubAdvisories,[GHSA-5fq5-pfv8-mrfv] MoinMoin Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-5fq5-pfv8-mrfv,https://da.gd/yazC3P
+GithubAdvisories,[GHSA-3x76-j3jj-439j] MoinMoin Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-3x76-j3jj-439j,https://da.gd/5ll39k
+GithubAdvisories,[GHSA-m2c4-jgmm-fvq3] MoinMoin Multiple unrestricted file upload vulnerabilities,https://github.com/advisories/GHSA-m2c4-jgmm-fvq3,https://da.gd/0yinYb
+GithubAdvisories,[GHSA-jpr7-8rxm-4vgx] Tryton allow authenticated users with certain permissions to read arbitrary files via the name parameter,https://github.com/advisories/GHSA-jpr7-8rxm-4vgx,https://da.gd/uiDOp
+GithubAdvisories,[GHSA-qjxf-6pr8-j87v] Plone's authenticated users able to alter their password despite of policy definition,https://github.com/advisories/GHSA-qjxf-6pr8-j87v,https://da.gd/EFbbv
+GithubAdvisories,[GHSA-52j9-v3jc-9xgc] Tryton allows users to read the hashed password,https://github.com/advisories/GHSA-52j9-v3jc-9xgc,https://da.gd/0k9lt
+GithubAdvisories,[GHSA-6g95-x6cj-mg4v] Django database denial-of-service with ModelMultipleChoiceField,https://github.com/advisories/GHSA-6g95-x6cj-mg4v,https://da.gd/6UdNx
+GithubAdvisories,[GHSA-f9q5-46qg-74x4] PyWBEM TOCTOU vulnerability in certificate validation,https://github.com/advisories/GHSA-f9q5-46qg-74x4,https://da.gd/12YUJf
+GithubAdvisories,[GHSA-fgqv-96v9-w23m] Radicale vulnerable to arbitrary file read or write,https://github.com/advisories/GHSA-fgqv-96v9-w23m,https://da.gd/ny4Lp
+GithubAdvisories,[GHSA-6w8c-6jrg-qwj2] Radicale regex metacharacters injection in the user name,https://github.com/advisories/GHSA-6w8c-6jrg-qwj2,https://da.gd/fKkt
+GithubAdvisories,[GHSA-4vr8-r7qr-fpvq] Plone Privilege escalation through exposed underlying API,https://github.com/advisories/GHSA-4vr8-r7qr-fpvq,https://da.gd/QdjLA
+GithubAdvisories,[GHSA-gh2c-6m38-c78j] PyWBEM TOCTOU vulnerability in certificate validation,https://github.com/advisories/GHSA-gh2c-6m38-c78j,https://da.gd/ZKa03
