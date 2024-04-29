@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-jx7v-gmqc-6xrj] OpenStack Manila Unprivileged users can retrieve, use and manipulate share networks",https://github.com/advisories/GHSA-jx7v-gmqc-6xrj,https://da.gd/u57cqn
+GithubAdvisories,[GHSA-vc42-mgr2-w34r] Modoboa is vulnerable to an XML External Entity Injection (XXE),https://github.com/advisories/GHSA-vc42-mgr2-w34r,https://da.gd/YFOpV2
+GithubAdvisories,[GHSA-w4px-9pgm-p2f3] pyrad uses sequential packet IDs,https://github.com/advisories/GHSA-w4px-9pgm-p2f3,https://da.gd/x5adlb
+GithubAdvisories,[GHSA-vpp3-q826-4mv4] Malware in discord.js-red,https://github.com/advisories/GHSA-vpp3-q826-4mv4,https://da.gd/EF8O1Y
+GithubAdvisories,[GHSA-w4q7-f34x-vpgc] FreeIPA logs passwords embedded in commands in calls using batch,https://github.com/advisories/GHSA-w4q7-f34x-vpgc,https://da.gd/FxIcJ
+GithubAdvisories,[GHSA-jfgc-5vh4-8rh5] trytond Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-jfgc-5vh4-8rh5,https://da.gd/dzGr
+GithubAdvisories,[GHSA-xp76-357g-9wqq] SciPy creates insecure temporary directories,https://github.com/advisories/GHSA-xp76-357g-9wqq,https://da.gd/lI3si
