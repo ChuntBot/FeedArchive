@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7fq8-4pv5-5w5c] Django cross-site scripting (XSS) attack via user-supplied redirect URLs,https://github.com/advisories/GHSA-7fq8-4pv5-5w5c,https://da.gd/FUKcf
+GithubAdvisories,[GHSA-rvf8-c35m-8289] Lin-CMS-Flask Cross Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-rvf8-c35m-8289,https://da.gd/mfzyx
+GithubAdvisories,[GHSA-c8q5-2j73-qvcc] trytond arbitrary fields write via a sequence of records,https://github.com/advisories/GHSA-c8q5-2j73-qvcc,https://da.gd/sF097E
+GithubAdvisories,[GHSA-4pfg-2frf-f67v] MoinMoin Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-4pfg-2frf-f67v,https://da.gd/noAkg7
+GithubAdvisories,[GHSA-x6jf-c7wh-7m7w] Trac Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-x6jf-c7wh-7m7w,https://da.gd/JDFyE
