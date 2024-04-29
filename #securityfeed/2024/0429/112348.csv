@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j3j3-jrfh-cm2w] Django Denial-of-service possibility with strip_tags,https://github.com/advisories/GHSA-j3j3-jrfh-cm2w,https://da.gd/YEAOY
+GithubAdvisories,[GHSA-pp4c-2692-7f37] Plone Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-pp4c-2692-7f37,https://da.gd/TZZPmM
+GithubAdvisories,[GHSA-5jjr-gmq3-f986] MoinMoin has improper default configuration,https://github.com/advisories/GHSA-5jjr-gmq3-f986,https://da.gd/kgNL9r
+GithubAdvisories,[GHSA-m7f9-65wr-pwch] Plone vulnerable to filesystem information leak,https://github.com/advisories/GHSA-m7f9-65wr-pwch,https://da.gd/HGVuv
+GithubAdvisories,[GHSA-fc72-v54c-x9jg] MoinMoin Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-fc72-v54c-x9jg,https://da.gd/IlfpLx
+GithubAdvisories,[GHSA-h2vm-c85r-5vh5] uWSGI Directory Traversal vulnerability,https://github.com/advisories/GHSA-h2vm-c85r-5vh5,https://da.gd/7BvR8
+GithubAdvisories,[GHSA-8j9g-c9rp-jvg4] Salt vulnerable to Improper Certificate Validation,https://github.com/advisories/GHSA-8j9g-c9rp-jvg4,https://da.gd/6yJMH
+GithubAdvisories,[GHSA-m9jj-5qvj-5fhx] Tryton vulnerable to arbitrary command execution,https://github.com/advisories/GHSA-m9jj-5qvj-5fhx,https://da.gd/d5RH3Z
+GithubAdvisories,[GHSA-qcj3-h27m-mp9x] Openstack Octavia allows Insertion of Sensitive Information into Log File,https://github.com/advisories/GHSA-qcj3-h27m-mp9x,https://da.gd/1IiX
+GithubAdvisories,[GHSA-3g2p-7c6p-vj8c] Apache Qpid Python client Improper certificate validation,https://github.com/advisories/GHSA-3g2p-7c6p-vj8c,https://da.gd/qtQ01l
+GithubAdvisories,[GHSA-hjr4-fhgp-23g9] qlib Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-hjr4-fhgp-23g9,https://da.gd/nvXW3j
+GithubAdvisories,[GHSA-f8fh-xp28-q59m] OpenStack Horizon Open redirect in workflow forms,https://github.com/advisories/GHSA-f8fh-xp28-q59m,https://da.gd/T1Lo2h
+GithubAdvisories,[GHSA-w6xv-mf6f-r5f6] Scalyr Agent Missing SSL Certificate Validation,https://github.com/advisories/GHSA-w6xv-mf6f-r5f6,https://da.gd/O1B3if
+GithubAdvisories,[GHSA-c7w7-9c85-4qxv] OpenStack Nova Live migration fails to update persistent domain XML,https://github.com/advisories/GHSA-c7w7-9c85-4qxv,https://da.gd/ZO96o
