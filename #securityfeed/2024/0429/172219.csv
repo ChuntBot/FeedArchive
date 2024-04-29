@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4wcc-jv3p-prqw] Cherry Music Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-4wcc-jv3p-prqw,https://da.gd/ekVCL
+GithubAdvisories,[GHSA-6prw-8xhm-h247] Salt uses weak permissions on the cache data,https://github.com/advisories/GHSA-6prw-8xhm-h247,https://da.gd/CZTn
+GithubAdvisories,[GHSA-q624-9634-77gh] Cherry Music directory traversal vulnerability,https://github.com/advisories/GHSA-q624-9634-77gh,https://da.gd/hF7YWE
+GithubAdvisories,[GHSA-qqgj-22gr-73vx] Plone vulnerable to privilege escalation in WebDAV,https://github.com/advisories/GHSA-qqgj-22gr-73vx,https://da.gd/eHrSA
