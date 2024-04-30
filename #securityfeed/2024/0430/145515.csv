@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-27px-qpmj-qg38] Paste Script has improper group memberships permissions,https://github.com/advisories/GHSA-27px-qpmj-qg38,https://da.gd/N95IFD
+GithubAdvisories,[GHSA-f594-f3v3-g649] pyshop vulnerable to man-in-the-middle attacks due to using HTTP to retrieve packages from the PyPI repository,https://github.com/advisories/GHSA-f594-f3v3-g649,https://da.gd/4RiFJS
+GithubAdvisories,[GHSA-v367-p58w-98h5] PyCrypto makes Use of Insufficiently Random Values,https://github.com/advisories/GHSA-v367-p58w-98h5,https://da.gd/Ccgw9
+GithubAdvisories,[GHSA-q2x6-8gfj-hjxw] salt leaks git usernames and passwords to the log,https://github.com/advisories/GHSA-q2x6-8gfj-hjxw,https://da.gd/ToMhGr
