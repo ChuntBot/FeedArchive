@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5v6q-xqq8-g4xj] Roundup Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-5v6q-xqq8-g4xj,https://da.gd/DEHBT
+GithubAdvisories,[GHSA-mccq-3m7h-fjxg] Roundup Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-mccq-3m7h-fjxg,https://da.gd/wekWU
+GithubAdvisories,[GHSA-p3qm-44cf-f8qx] Plone vulnerable to cross-site request forgery,https://github.com/advisories/GHSA-p3qm-44cf-f8qx,https://da.gd/7aNmG
+GithubAdvisories,[GHSA-ww53-wxxr-8f9w] Trac has vulnerability in HTML sanitizer filter,https://github.com/advisories/GHSA-ww53-wxxr-8f9w,https://da.gd/meIbep
