@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7wx3-vr2f-6p29] SaltStack Privilege Escalation vulnerability,https://github.com/advisories/GHSA-7wx3-vr2f-6p29,https://da.gd/WxaBtS
+GithubAdvisories,[GHSA-437p-qw95-wqqr] Trac vulnerable to denial of service,https://github.com/advisories/GHSA-437p-qw95-wqqr,https://da.gd/eQv5Rx
+GithubAdvisories,[GHSA-4j5j-58j7-6c3w] Dulwich Arbitrary code execution via commit with directory path starting with .git,https://github.com/advisories/GHSA-4j5j-58j7-6c3w,https://da.gd/i8OLkZ
+GithubAdvisories,[GHSA-gw2q-cgvq-9g3v] Roundup Cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-gw2q-cgvq-9g3v,https://da.gd/yqWYR
+GithubAdvisories,[GHSA-m94p-8942-pm49] OpenStack TripleO Heat templates spoof metadata requests,https://github.com/advisories/GHSA-m94p-8942-pm49,https://da.gd/Bqqt7
+GithubAdvisories,[GHSA-79jf-ccm8-43w7] ceph-deploy uses world-readable permissions on client.admin key,https://github.com/advisories/GHSA-79jf-ccm8-43w7,https://da.gd/l2K7G
+GithubAdvisories,[GHSA-6grp-75pq-c8cj] SaltStack has insecure /tmp file handling in salt/modules/chef.py,https://github.com/advisories/GHSA-6grp-75pq-c8cj,https://da.gd/yb5R
+GithubAdvisories,[GHSA-hfg2-wf6j-x53p] SQLAlchemy vulnerable to SQL injection,https://github.com/advisories/GHSA-hfg2-wf6j-x53p,https://da.gd/ZWZ5G5
+GithubAdvisories,[GHSA-fj26-q4vh-85f6] MoinMoin Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-fj26-q4vh-85f6,https://da.gd/YcwEa
+GithubAdvisories,[GHSA-5hcr-g32p-h74c] Lavalite CMS Cross Site Scripting vulnerability,https://github.com/advisories/GHSA-5hcr-g32p-h74c,https://da.gd/oeKNJ
