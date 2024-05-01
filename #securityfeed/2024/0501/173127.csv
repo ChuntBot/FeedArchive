@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2xp3-57p7-qf4v] xml-crypto vulnerable to XML signature verification bypass due improper verification of signature/signature spoofing,https://github.com/advisories/GHSA-2xp3-57p7-qf4v,https://da.gd/c8lAQ
+GithubAdvisories,[GHSA-49cw-434h-qc57] Mercurial vulnerable to arbitrary code execution when converting Git repos,https://github.com/advisories/GHSA-49cw-434h-qc57,https://da.gd/FVzFzj
+GithubAdvisories,[GHSA-4mr4-7vjv-9hm6] Mercurial Incorrect Access Control vulnerability,https://github.com/advisories/GHSA-4mr4-7vjv-9hm6,https://da.gd/B0OXl
+GithubAdvisories,[GHSA-3mjj-mr4f-qxmx] Mercurial mishandles integer addition and subtraction,https://github.com/advisories/GHSA-3mjj-mr4f-qxmx,https://da.gd/2zcmh4
+GithubAdvisories,[GHSA-3v62-ww8w-758m] Mercurial Improper Input Validation vulnerability,https://github.com/advisories/GHSA-3v62-ww8w-758m,https://da.gd/Iiy1Fq
+GithubAdvisories,[GHSA-9xv4-r2hf-26gh] Mercurial Improper Input Validation vulnerability,https://github.com/advisories/GHSA-9xv4-r2hf-26gh,https://da.gd/48QSls
+GithubAdvisories,[GHSA-6v56-cpg6-3rpx] Mercurial vulnerable to arbitrary code injection,https://github.com/advisories/GHSA-6v56-cpg6-3rpx,https://da.gd/KlOHDK
+GithubAdvisories,[GHSA-3qmg-c9vc-r47j] Mercurial is vulnerable to shell injection attack,https://github.com/advisories/GHSA-3qmg-c9vc-r47j,https://da.gd/BXnLI
+GithubAdvisories,[GHSA-hvr9-wr9p-grgr] Mercurial missing symlink check,https://github.com/advisories/GHSA-hvr9-wr9p-grgr,https://da.gd/5UJVTg
