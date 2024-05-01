@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qhq8-xwqv-pvv9] OpenStack Swauth object/proxy server writing Auth Token to log file,https://github.com/advisories/GHSA-qhq8-xwqv-pvv9,https://da.gd/OfDLvq
+GithubAdvisories,[GHSA-6476-g47x-h3c7] PyFriBidi Buffer overflow in the fribidi_utf8_to_unicode function,https://github.com/advisories/GHSA-6476-g47x-h3c7,https://da.gd/SRAoGS
+GithubAdvisories,[GHSA-cxm4-7qcw-267r] salt password information leaked in debug logs,https://github.com/advisories/GHSA-cxm4-7qcw-267r,https://da.gd/WHSi
+GithubAdvisories,[GHSA-jf99-2rj4-jxrm] Transifex command-line client has improper certificate validation,https://github.com/advisories/GHSA-jf99-2rj4-jxrm,https://da.gd/tbuv2r
+GithubAdvisories,[GHSA-v89f-4mc4-h6w9] Salt has insufficient argument validation in several modules,https://github.com/advisories/GHSA-v89f-4mc4-h6w9,https://da.gd/x1xb76
+GithubAdvisories,[GHSA-f22j-37jj-cxw9] SaltStack MITM SSH attack in salt-ssh,https://github.com/advisories/GHSA-f22j-37jj-cxw9,https://da.gd/yq4apK
+GithubAdvisories,[GHSA-vfcg-5ggc-3rxx] Elixir can leak information due to weak use of crypto,https://github.com/advisories/GHSA-vfcg-5ggc-3rxx,https://da.gd/P90Z2
+GithubAdvisories,[GHSA-62qf-jcq8-8gxw] Duplicate Advisory: sqlparse parsing heavily nested list leads to Denial of Service,https://github.com/advisories/GHSA-62qf-jcq8-8gxw,https://da.gd/d6OrMS
+GithubAdvisories,[GHSA-f7fv-v9rh-prvc] Tornado CRLF injection vulnerability,https://github.com/advisories/GHSA-f7fv-v9rh-prvc,https://da.gd/kD2s
