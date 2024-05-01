@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8fm8-7365-5rh2] Mercurial vulnerable to arbitrary code execution via a crafted name when converting a Git repository,https://github.com/advisories/GHSA-8fm8-7365-5rh2,https://da.gd/NNoH
+GithubAdvisories,[GHSA-9vjf-jjcq-3gh7] Mercurial arbitrary code execution vulnerability,https://github.com/advisories/GHSA-9vjf-jjcq-3gh7,https://da.gd/JQwoCl
+GithubAdvisories,[GHSA-p575-cf9h-wv42] Mercurial Out-of-bounds Read vulnerability,https://github.com/advisories/GHSA-p575-cf9h-wv42,https://da.gd/V72TWi
+GithubAdvisories,[GHSA-j7c2-rqm3-c97m] Mercurial arbitrary code execution via a crafted git ext:: URL,https://github.com/advisories/GHSA-j7c2-rqm3-c97m,https://da.gd/RDiZv
+GithubAdvisories,[GHSA-3pmw-h7j4-rf54] Mercurial vulnerable to arbitrary command execution via a crafted repository name in a clone command,https://github.com/advisories/GHSA-3pmw-h7j4-rf54,https://da.gd/2NxJ
+GithubAdvisories,[GHSA-mq66-vcfc-8246] Mercurial Path Traversal/Link Following vulnerability,https://github.com/advisories/GHSA-mq66-vcfc-8246,https://da.gd/q6oAUK
+GithubAdvisories,[GHSA-h6r2-pgvx-683c] Lin-CMS-Flask vulnerable to Improper Authentication,https://github.com/advisories/GHSA-h6r2-pgvx-683c,https://da.gd/BgJU1
+GithubAdvisories,[GHSA-rpc6-h455-3rx5] Celery local privilege escalation vulnerability,https://github.com/advisories/GHSA-rpc6-h455-3rx5,https://da.gd/Ecn0h
+GithubAdvisories,[GHSA-3999-5ffv-wp2r] Yamux Memory Exhaustion Vulnerability via Active::pending_frames property,https://github.com/advisories/GHSA-3999-5ffv-wp2r,https://da.gd/vwpM9
+GithubAdvisories,[GHSA-chfm-68vv-pvw5] XMLUnit for Java has Insecure Defaults when Processing XSLT Stylesheets,https://github.com/advisories/GHSA-chfm-68vv-pvw5,https://da.gd/DcYUGA
+GithubAdvisories,[GHSA-rwfq-v4hq-h7fg] static-web-server vulnerable to stored Cross-site Scripting in directory listings via file names,https://github.com/advisories/GHSA-rwfq-v4hq-h7fg,https://da.gd/j9Gra
+GithubAdvisories,[GHSA-9p57-h987-4vgx] Phlex vulnerable to Cross-site Scripting (XSS) via maliciously formed HTML attribute names and values,https://github.com/advisories/GHSA-9p57-h987-4vgx,https://da.gd/SDYx
+GithubAdvisories,[GHSA-q5qj-x2h5-3945] Zitadel exposing internal database user name and host information,https://github.com/advisories/GHSA-q5qj-x2h5-3945,https://da.gd/OCf9
+GithubAdvisories,[GHSA-w2v8-php4-p8hc] Wagtail has permission check bypass when editing a model with per-field restrictions through `wagtail.contrib.settings` or `ModelViewSet`,https://github.com/advisories/GHSA-w2v8-php4-p8hc,https://da.gd/Ko3yT
+GithubAdvisories,[GHSA-69vw-jfq7-935g] PyWebDAV SQL Injection vulnerability,https://github.com/advisories/GHSA-69vw-jfq7-935g,https://da.gd/LygrN
