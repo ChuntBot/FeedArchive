@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7grx-f945-mj96] Uptime Kuma vulnerable to authenticated remote code execution via malicious plugin installation,https://github.com/advisories/GHSA-7grx-f945-mj96,https://da.gd/fqmLE
