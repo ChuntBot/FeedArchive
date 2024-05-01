@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vr8x-74pm-6vj7] Uptime Kuma's authenticated path traversal via plugin repository name may lead to unavailability or data loss,https://github.com/advisories/GHSA-vr8x-74pm-6vj7,https://da.gd/6Vx9
+GithubAdvisories,[GHSA-jxgr-gcj5-cqqg] nautobot has reflected Cross-site Scripting potential in all object list views,https://github.com/advisories/GHSA-jxgr-gcj5-cqqg,https://da.gd/pmjfN
