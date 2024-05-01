@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5x6q-ffwj-8vcf] attic has improper verification of unencrypted backups,https://github.com/advisories/GHSA-5x6q-ffwj-8vcf,https://da.gd/Z4Q4H
+GithubAdvisories,[GHSA-39vm-p9mr-4r27] Beaker Sensitive Information Disclosure vulnerability,https://github.com/advisories/GHSA-39vm-p9mr-4r27,https://da.gd/FY0EU
+GithubAdvisories,[GHSA-m9j7-xcj7-42j9] MoinMoin Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-m9j7-xcj7-42j9,https://da.gd/6PnP5w
+GithubAdvisories,[GHSA-v33q-2xcj-4f3m] MoinMoin Directory Traversal vulnerability,https://github.com/advisories/GHSA-v33q-2xcj-4f3m,https://da.gd/FREsYW
+GithubAdvisories,[GHSA-3v28-9jjp-4g5w] Plone Privilege Escalation Vulnerability,https://github.com/advisories/GHSA-3v28-9jjp-4g5w,https://da.gd/MvDJhB
+GithubAdvisories,[GHSA-452h-rx28-49w9] MoinMoin Cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-452h-rx28-49w9,https://da.gd/bSz9pi
+GithubAdvisories,[GHSA-g4mx-rm5q-vh24] MoinMoin Improper Access Control,https://github.com/advisories/GHSA-g4mx-rm5q-vh24,https://da.gd/EINtW
+GithubAdvisories,[GHSA-9crx-p357-5vw8] Ajenti Cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-9crx-p357-5vw8,https://da.gd/ERYVde
+GithubAdvisories,[GHSA-qjmc-wwmw-cq9r] Tryton Directory Traversal vulnerability,https://github.com/advisories/GHSA-qjmc-wwmw-cq9r,https://da.gd/f1tJAm
