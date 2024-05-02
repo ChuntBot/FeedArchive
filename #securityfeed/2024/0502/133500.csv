@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qh2x-hpf9-cf2g] OpenStack Keystone and other components vulnerable to Improper Certificate Validation,https://github.com/advisories/GHSA-qh2x-hpf9-cf2g,https://da.gd/tYsaS
+GithubAdvisories,[GHSA-7gf7-7wx4-mxmw] Mercurial Improper Certificate Validation vulnerability,https://github.com/advisories/GHSA-7gf7-7wx4-mxmw,https://da.gd/FbAxY
+GithubAdvisories,[GHSA-r4v4-3jj7-jc29] OpenStack Octavia Amphora-Agent not requiring Client-Certificate,https://github.com/advisories/GHSA-r4v4-3jj7-jc29,https://da.gd/VTDs4k
+GithubAdvisories,[GHSA-mcpw-cp35-p3h8] OpenStack os-vif Ageing time of 0 disables linuxbridge MAC learning,https://github.com/advisories/GHSA-mcpw-cp35-p3h8,https://da.gd/TZbf5
