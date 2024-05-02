@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rfm2-f94j-qhjp] OpenStack Storlets arbitrary code execution vulnerability,https://github.com/advisories/GHSA-rfm2-f94j-qhjp,https://da.gd/SmQEe
+GithubAdvisories,[GHSA-84pr-m4jr-85g5] flask-cors vulnerable to log injection when the log level is set to debug,https://github.com/advisories/GHSA-84pr-m4jr-85g5,https://da.gd/vcEXY
+GithubAdvisories,[GHSA-x377-f64p-hf5j] PyCrypto does not properly reseed PRNG before allowing access,https://github.com/advisories/GHSA-x377-f64p-hf5j,https://da.gd/lLPe
+GithubAdvisories,[GHSA-qx72-q6w3-qgc7] SaltStack Salt Improper SSL Certificate Validation,https://github.com/advisories/GHSA-qx72-q6w3-qgc7,https://da.gd/XNDt8
+GithubAdvisories,[GHSA-qr38-h96j-2j3w] SaltStack Salt Command Injection in netapi ssh client,https://github.com/advisories/GHSA-qr38-h96j-2j3w,https://da.gd/moWfGH
+GithubAdvisories,[GHSA-393x-fr59-r8fg] statics-server Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-393x-fr59-r8fg,https://da.gd/KkfED
+GithubAdvisories,[GHSA-cvcc-5x92-gmhc] SaltStack Salt Improper Authentication via Man in the Middle Attack,https://github.com/advisories/GHSA-cvcc-5x92-gmhc,https://da.gd/Kd4DW
+GithubAdvisories,[GHSA-qfhw-fv3g-v836] Plone has stored XSS in folder contents,https://github.com/advisories/GHSA-qfhw-fv3g-v836,https://da.gd/uXPda
