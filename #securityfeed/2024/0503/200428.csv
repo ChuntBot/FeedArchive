@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rcm2-22f3-pqv3] Firebase vulnerable to CRSF attack,https://github.com/advisories/GHSA-rcm2-22f3-pqv3,https://da.gd/oyWB
+GithubAdvisories,[GHSA-phh3-2p9m-w6j5] Jenkins Subversion Partial Release Manager Plugin programmatically disables the fix for CVE-2016-3721,https://github.com/advisories/GHSA-phh3-2p9m-w6j5,https://da.gd/HtxzWl
+GithubAdvisories,[GHSA-94pr-w968-h923] Jenkins Telegram Bot Plugin stores the Telegram Bot token in plaintext,https://github.com/advisories/GHSA-94pr-w968-h923,https://da.gd/qeEsmD
