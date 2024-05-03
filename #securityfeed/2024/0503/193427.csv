@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c3hm-hxwf-g5c6] vodozemac has degraded secret zeroization capabilities,https://github.com/advisories/GHSA-c3hm-hxwf-g5c6,https://da.gd/xgo6
+GithubAdvisories,[GHSA-g7vv-2v7x-gj9p] tqdm CLI arguments injection attack,https://github.com/advisories/GHSA-g7vv-2v7x-gj9p,https://da.gd/IsmvTS
