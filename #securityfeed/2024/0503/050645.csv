@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3px5-wjh3-9x6r] Mautic stored Cross-site Scripting (XSS),https://github.com/advisories/GHSA-3px5-wjh3-9x6r,https://da.gd/w53rm5
+GithubAdvisories,[GHSA-pqv4-xgqh-j8vh] Drupal sensitive information disclosure,https://github.com/advisories/GHSA-pqv4-xgqh-j8vh,https://da.gd/eg8jb
+GithubAdvisories,[GHSA-774q-wfcp-vc2q] Moodle Email media URL tokens were not checking for user status,https://github.com/advisories/GHSA-774q-wfcp-vc2q,https://da.gd/ZOMKoL
+GithubAdvisories,[GHSA-gjx6-58xh-p7pw] Bolt Cross-site Scripting (XSS) via text input click preview button,https://github.com/advisories/GHSA-gjx6-58xh-p7pw,https://da.gd/UFAG
+GithubAdvisories,[GHSA-6hpj-9xj7-2jxx] Drupal access control bypass vulnerability,https://github.com/advisories/GHSA-6hpj-9xj7-2jxx,https://da.gd/O2MJr8
+GithubAdvisories,[GHSA-hcq9-hmgf-6qr9] Drupal SQL Injection vulnerability,https://github.com/advisories/GHSA-hcq9-hmgf-6qr9,https://da.gd/GyIA
+GithubAdvisories,[GHSA-8jmj-4p32-mc9p] infusionsoft-php-sdk reflected Cross-site Scripting,https://github.com/advisories/GHSA-8jmj-4p32-mc9p,https://da.gd/lLndK
+GithubAdvisories,[GHSA-h3r9-pjmr-f938] Drupal Brute force amplification attacks via XML-RPC,https://github.com/advisories/GHSA-h3r9-pjmr-f938,https://da.gd/t8Y6Tx
+GithubAdvisories,[GHSA-frqf-9qr4-6vxf] Drupal Saving user accounts can sometimes grant the user all roles,https://github.com/advisories/GHSA-frqf-9qr4-6vxf,https://da.gd/qp1P
+GithubAdvisories,[GHSA-gxxq-fhc7-3jv9] Drupal Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-gxxq-fhc7-3jv9,https://da.gd/AzZtA
+GithubAdvisories,[GHSA-q6vw-27c6-jv9c] Moodle Persistent Cross-site Scripting (XSS),https://github.com/advisories/GHSA-q6vw-27c6-jv9c,https://da.gd/SQj3N
+GithubAdvisories,[GHSA-g39c-mccf-rxjv] Moodle Insecure direct object reference (IDOR) in a calendar web service,https://github.com/advisories/GHSA-g39c-mccf-rxjv,https://da.gd/xLqVpf
+GithubAdvisories,[GHSA-xh2j-q4mc-v522] Moodle calculated question type allows remote code execution by Question authors,https://github.com/advisories/GHSA-xh2j-q4mc-v522,https://da.gd/cmXrM
