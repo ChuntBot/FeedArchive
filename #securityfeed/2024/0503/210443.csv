@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m5jf-8crm-r65m] Vditor allows Cross-site Scripting via an attribute of an `A` element,https://github.com/advisories/GHSA-m5jf-8crm-r65m,https://da.gd/u3AIsc
+GithubAdvisories,[GHSA-4h8f-2wvx-gg5w] Bouncy Castle Java Cryptography API vulnerable to DNS poisoning,https://github.com/advisories/GHSA-4h8f-2wvx-gg5w,https://da.gd/ADZnvL
