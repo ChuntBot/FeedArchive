@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v84h-653v-4pq9] Some CORS middleware allow untrusted origins,https://github.com/advisories/GHSA-v84h-653v-4pq9,https://da.gd/jAI3c5
+GithubAdvisories,[GHSA-vhxv-fg4m-p2w8] Some CORS middleware allow untrusted origins,https://github.com/advisories/GHSA-vhxv-fg4m-p2w8,https://da.gd/unYZRF
+GithubAdvisories,[GHSA-mjr4-7xg5-pfvh] libxmljs2 type confusion vulnerability when parsing specially crafted XML,https://github.com/advisories/GHSA-mjr4-7xg5-pfvh,https://da.gd/BxPWQ4
+GithubAdvisories,[GHSA-r4q9-xx5g-j24p] s3-url-parser vulnerable to Denial of Service via regexes component,https://github.com/advisories/GHSA-r4q9-xx5g-j24p,https://da.gd/p3z4sS
+GithubAdvisories,[GHSA-5m98-qgg9-wh84] aiohttp vulnerable to Denial of Service when trying to parse malformed POST requests,https://github.com/advisories/GHSA-5m98-qgg9-wh84,https://da.gd/8w7z5c
