@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6fg2-hvj9-832f] piraeus-operator allows attacker to impersonate service account,https://github.com/advisories/GHSA-6fg2-hvj9-832f,https://da.gd/dJ8na
+GithubAdvisories,[GHSA-hfrv-h3q8-9jpr] kurwov vulnerable to Denial of Service due to improper data sanitization,https://github.com/advisories/GHSA-hfrv-h3q8-9jpr,https://da.gd/fgI8I
+GithubAdvisories,[GHSA-qq22-jj8x-4wwv] Pterodactyl Wings vulnerable to Server-Side Request Forgery during remote file pull,https://github.com/advisories/GHSA-qq22-jj8x-4wwv,https://da.gd/AuMS
+GithubAdvisories,[GHSA-384w-wffr-x63q] Pterodactyl panel's admin area vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-384w-wffr-x63q,https://da.gd/2ayM3L
+GithubAdvisories,[GHSA-gqmf-jqgv-v8fw] Pterodactyl Wings vulnerable to Arbitrary File Write/Read,https://github.com/advisories/GHSA-gqmf-jqgv-v8fw,https://da.gd/4IHP6
+GithubAdvisories,[GHSA-7pc3-pr3q-58vg] sagemaker-python-sdk Command Injection vulnerability,https://github.com/advisories/GHSA-7pc3-pr3q-58vg,https://da.gd/MTdmGh
+GithubAdvisories,[GHSA-wjvx-jhpj-r54r] sagemaker-python-sdk vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-wjvx-jhpj-r54r,https://da.gd/8vpCOa
+GithubAdvisories,[GHSA-6433-x5p4-8jc7] libxmljs vulnerable to type confusion when parsing specially crafted XML,https://github.com/advisories/GHSA-6433-x5p4-8jc7,https://da.gd/8pHI7t
+GithubAdvisories,[GHSA-78h3-pg4x-j8cv] libxmljs vulnerable to type confusion when parsing specially crafted XML,https://github.com/advisories/GHSA-78h3-pg4x-j8cv,https://da.gd/niqOs
+GithubAdvisories,[GHSA-mg49-jqgw-gcj6] libxmljs vulnerable to type confusion when parsing specially crafted XML,https://github.com/advisories/GHSA-mg49-jqgw-gcj6,https://da.gd/YnljlY
+GithubAdvisories,[GHSA-wccg-v638-j9q2] karmada vulnerable to arbitrary code execution via a crafted command,https://github.com/advisories/GHSA-wccg-v638-j9q2,https://da.gd/CIdBo
+GithubAdvisories,[GHSA-xv64-8p4r-94gq] pgAdmin Cross-site Scripting vulnerability in /settings/store API response json payload,https://github.com/advisories/GHSA-xv64-8p4r-94gq,https://da.gd/LWAn1a
+GithubAdvisories,[GHSA-2mvc-557g-5638] pgAdmin is affected by a multi-factor authentication bypass vulnerability,https://github.com/advisories/GHSA-2mvc-557g-5638,https://da.gd/LfdzU
+GithubAdvisories,[GHSA-2g4q-9vm9-9fw4] Jenkins Script Security Plugin sandbox bypass vulnerability,https://github.com/advisories/GHSA-2g4q-9vm9-9fw4,https://da.gd/GtcXkc
+GithubAdvisories,[GHSA-4q63-mr2m-57hf] kubevirt allows a local attacker to execute arbitrary code via a crafted command,https://github.com/advisories/GHSA-4q63-mr2m-57hf,https://da.gd/GzvMt
+GithubAdvisories,[GHSA-v63g-v339-2673] Jenkins Script Security Plugin has sandbox bypass vulnerability involving crafted constructor bodies,https://github.com/advisories/GHSA-v63g-v339-2673,https://da.gd/kzElk
+GithubAdvisories,[GHSA-x7g6-rwhc-g7mj] Wildfly vulnerable to denial of service,https://github.com/advisories/GHSA-x7g6-rwhc-g7mj,https://da.gd/ab7o8P
