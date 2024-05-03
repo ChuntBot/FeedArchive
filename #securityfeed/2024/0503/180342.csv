@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pwgc-w4x9-gw67] changedetection.io Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-pwgc-w4x9-gw67,https://da.gd/zBImA
+GithubAdvisories,[GHSA-gj5m-m88j-v7c3] Apache ActiveMQ's default configuration doesn't secure the API web context,https://github.com/advisories/GHSA-gj5m-m88j-v7c3,https://da.gd/XkMs8C
