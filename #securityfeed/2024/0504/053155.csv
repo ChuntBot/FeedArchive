@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9266-j9v3-q4j5] Couchbase Sync Gateway admin credentials not verified when using X.509 client cert authentication,https://github.com/advisories/GHSA-9266-j9v3-q4j5,https://da.gd/3OSL3
+GithubAdvisories,[GHSA-62wh-m4jr-233r] Moodle LTI module reflected XSS risk,https://github.com/advisories/GHSA-62wh-m4jr-233r,https://da.gd/FJ7l
+GithubAdvisories,[GHSA-4qq9-qg7j-fcm9] Dolibarr Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-4qq9-qg7j-fcm9,https://da.gd/Vp2mZ5
+GithubAdvisories,[GHSA-gpmf-q5jh-hjx4] Grav CMS Arbitrary File Deletion,https://github.com/advisories/GHSA-gpmf-q5jh-hjx4,https://da.gd/FYpYKT
+GithubAdvisories,[GHSA-vcm7-88jx-3r39] ThinkPHP SQL Injection vulnerability,https://github.com/advisories/GHSA-vcm7-88jx-3r39,https://da.gd/uWyU6F
+GithubAdvisories,[GHSA-mg4m-v9fc-9hcc] WPGlobus plugin Stored XSS & CSRF security vulnerability,https://github.com/advisories/GHSA-mg4m-v9fc-9hcc,https://da.gd/Wl8iG
+GithubAdvisories,[GHSA-hwmc-v6j6-gc2p] Dolibarr Cross Site Request Forgery (CSRF),https://github.com/advisories/GHSA-hwmc-v6j6-gc2p,https://da.gd/Hr13dB
+GithubAdvisories,[GHSA-8987-93fh-rcwq] phpMyAdmin Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-8987-93fh-rcwq,https://da.gd/wRLmM
