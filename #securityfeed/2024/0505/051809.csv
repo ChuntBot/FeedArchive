@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m9w6-wp3h-vq8g] CoreDNS may return invalid cache entries,https://github.com/advisories/GHSA-m9w6-wp3h-vq8g,https://da.gd/j0f1YL
+GithubAdvisories,[GHSA-j96g-47x2-46hv] SimpleSAMLphp Session fixation issue and authentication bypass in the authcrypt module,https://github.com/advisories/GHSA-j96g-47x2-46hv,https://da.gd/b4sIz
+GithubAdvisories,[GHSA-q9g7-pff4-548r] Gleez Cms Cross-site Scripting in Profile Page,https://github.com/advisories/GHSA-q9g7-pff4-548r,https://da.gd/ai0Sg
