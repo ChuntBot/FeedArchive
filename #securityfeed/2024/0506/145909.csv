@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vjc4-3vgx-pq9h] Nebari prints temporary Keycloak root password,https://github.com/advisories/GHSA-vjc4-3vgx-pq9h,https://da.gd/3yOW
+GithubAdvisories,[GHSA-23qq-p4gq-gc2g] WordOps has TOCTOU race condition,https://github.com/advisories/GHSA-23qq-p4gq-gc2g,https://da.gd/0AQH8L
+GithubAdvisories,[GHSA-34rf-p3r3-58x2] Gradio's Component Server does not properly consider` _is_server_fn` for functions,https://github.com/advisories/GHSA-34rf-p3r3-58x2,https://da.gd/rzFRFF
+GithubAdvisories,[GHSA-wvhx-q427-fgh3] Arbitrary HTML present after sanitization because of unicode normalization,https://github.com/advisories/GHSA-wvhx-q427-fgh3,https://da.gd/IFCoJp
+GithubAdvisories,[GHSA-59p2-v62x-gxj8] Ryu Infinite Loop vulnerability,https://github.com/advisories/GHSA-59p2-v62x-gxj8,https://da.gd/9prpmo
+GithubAdvisories,[GHSA-m9vm-8mv9-v5v3] Ryu Infinite Loop vulnerability,https://github.com/advisories/GHSA-m9vm-8mv9-v5v3,https://da.gd/5anG
+GithubAdvisories,[GHSA-ffp9-pfq9-g2ww] Ryu Infinite Loop vulnerability,https://github.com/advisories/GHSA-ffp9-pfq9-g2ww,https://da.gd/6CR6g
+GithubAdvisories,[GHSA-fgpw-cx3v-wj95] Ryu Infinite Loop vulnerability,https://github.com/advisories/GHSA-fgpw-cx3v-wj95,https://da.gd/bAgh7
+GithubAdvisories,[GHSA-c7w6-33j3-j3mx] Ryu Infinite Loop vulnerability,https://github.com/advisories/GHSA-c7w6-33j3-j3mx,https://da.gd/JMOKa
+GithubAdvisories,[GHSA-7hmm-wg23-2w7m] Ryu Infinite Loop vulnerability,https://github.com/advisories/GHSA-7hmm-wg23-2w7m,https://da.gd/zw3Kc
+GithubAdvisories,[GHSA-3jgf-r68h-xfqm] btcd susceptible to consensus failures,https://github.com/advisories/GHSA-3jgf-r68h-xfqm,https://da.gd/FskE
