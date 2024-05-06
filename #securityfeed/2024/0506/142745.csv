@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hr2r-w6wc-25pv] Zenario uses Twig filters insecurely in the Twig Snippet plugin,https://github.com/advisories/GHSA-hr2r-w6wc-25pv,https://da.gd/20xeU
+GithubAdvisories,[GHSA-7qwj-gcjf-828f] Zenario's Tree Explorer tool from Organizer affected by Cross-site Scripting,https://github.com/advisories/GHSA-7qwj-gcjf-828f,https://da.gd/86GcD5
+GithubAdvisories,[GHSA-2g68-c3qc-8985] Werkzeug debugger vulnerable to remote execution when interacting with attacker controlled domain,https://github.com/advisories/GHSA-2g68-c3qc-8985,https://da.gd/C4AOPp
+GithubAdvisories,[GHSA-h75v-3vvj-5mfj] Jinja vulnerable to HTML attribute injection when passing user input as keys to xmlattr filter,https://github.com/advisories/GHSA-h75v-3vvj-5mfj,https://da.gd/VUuorM
+GithubAdvisories,[GHSA-83pv-qr33-2vcf] Litestar and Starlite vulnerable to Path Traversal,https://github.com/advisories/GHSA-83pv-qr33-2vcf,https://da.gd/43VGt
+GithubAdvisories,[GHSA-4xc9-8hmq-j652] go-ethereum vulnerable to DoS via malicious p2p message,https://github.com/advisories/GHSA-4xc9-8hmq-j652,https://da.gd/7hPv7t
