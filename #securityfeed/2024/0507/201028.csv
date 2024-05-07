@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p343-9qwp-pqxv] Neo4j Cypher component mishandles IMMUTABLE privileges,https://github.com/advisories/GHSA-p343-9qwp-pqxv,https://da.gd/FZ5I
+GithubAdvisories,[GHSA-6f3v-2r2j-2rpr] Kimai information disclosure vulnerability,https://github.com/advisories/GHSA-6f3v-2r2j-2rpr,https://da.gd/jJI3i
+GithubAdvisories,[GHSA-64cm-3cj3-67hf] MS Basic Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-64cm-3cj3-67hf,https://da.gd/NOPOx
