@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9c5w-9q3f-3hv7] Minder's GitHub Webhook Handler vulnerable to DoS from un-validated requests,https://github.com/advisories/GHSA-9c5w-9q3f-3hv7,https://da.gd/0ASFt
