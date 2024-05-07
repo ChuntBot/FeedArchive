@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wgrm-67xf-hhpq] PDF.js vulnerable to arbitrary JavaScript execution upon opening a malicious PDF,https://github.com/advisories/GHSA-wgrm-67xf-hhpq,https://da.gd/KPsP
