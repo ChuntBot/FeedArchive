@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xfjj-f699-rc79] tiagorlampert CHAOS vulnerable to arbitrary code execution,https://github.com/advisories/GHSA-xfjj-f699-rc79,https://da.gd/eu5E
+GithubAdvisories,[GHSA-299q-3p96-5898] Apache Superset Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-299q-3p96-5898,https://da.gd/fyK61L
+GithubAdvisories,[GHSA-2x52-8f29-7cjr] Eclipse Dataspace Components vulnerable to OAuth2 client secret disclosure,https://github.com/advisories/GHSA-2x52-8f29-7cjr,https://da.gd/tNvfg
+GithubAdvisories,[GHSA-qjqp-xr96-cj99] Trix Editor Arbitrary Code Execution Vulnerability,https://github.com/advisories/GHSA-qjqp-xr96-cj99,https://da.gd/gA5vbc
+GithubAdvisories,[GHSA-87hq-q4gp-9wr4] react-pdf vulnerable to arbitrary JavaScript execution upon opening a malicious PDF with PDF.js,https://github.com/advisories/GHSA-87hq-q4gp-9wr4,https://da.gd/8x2tB
