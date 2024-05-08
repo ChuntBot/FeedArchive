@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fgh3-pwmp-3qw3] Apache Inlong Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-fgh3-pwmp-3qw3,https://da.gd/YRyeCz
+GithubAdvisories,[GHSA-38gf-rh2w-gmj7] @cyclonedx/cyclonedx-library Improper Restriction of XML External Entity Reference vulnerability,https://github.com/advisories/GHSA-38gf-rh2w-gmj7,https://da.gd/9jmamN
+GithubAdvisories,[GHSA-gq26-cpq6-w85r] SaltStack RSA Key Generation allows remote users to decrypt communications,https://github.com/advisories/GHSA-gq26-cpq6-w85r,https://da.gd/p3Iqh
+GithubAdvisories,[GHSA-vcmv-6rxx-fh7r] OpenStack Nova Exposure of Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-vcmv-6rxx-fh7r,https://da.gd/qhXQG
