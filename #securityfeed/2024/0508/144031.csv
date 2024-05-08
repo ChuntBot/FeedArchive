@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-23rx-c3g5-hv9w] Deno permission escalation vulnerability via open of privileged files with missing `--deny` flag,https://github.com/advisories/GHSA-23rx-c3g5-hv9w,https://da.gd/1EyQW
+GithubAdvisories,[GHSA-649x-hxfx-57j2] Vitess vulnerable to infinite memory consumption and vtgate crash,https://github.com/advisories/GHSA-649x-hxfx-57j2,https://da.gd/Rm2bAl
