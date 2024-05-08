@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x38m-486c-2wr9] Denial-of-service possibility in logout() view by filling session store,https://github.com/advisories/GHSA-x38m-486c-2wr9,https://da.gd/r1PlI6
