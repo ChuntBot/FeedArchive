@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fr5h-rqp8-mj6g] Next.js Server-Side Request Forgery in Server Actions,https://github.com/advisories/GHSA-fr5h-rqp8-mj6g,https://da.gd/IAcRMo
+GithubAdvisories,[GHSA-77r5-gw3j-2mpf] Next.js Vulnerable to HTTP Request Smuggling,https://github.com/advisories/GHSA-77r5-gw3j-2mpf,https://da.gd/Cnc805
