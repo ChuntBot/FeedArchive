@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qfp8-hfqx-c79c] OpenStack Compute Nova Unauthorised access to arbitrary VM using VNC token from deleted VM,https://github.com/advisories/GHSA-qfp8-hfqx-c79c,https://da.gd/tCtJ0
+GithubAdvisories,[GHSA-5hch-v5pq-x4qp] Plone allows anonymous users to reset any users password through the web via Password Reset Tool,https://github.com/advisories/GHSA-5hch-v5pq-x4qp,https://da.gd/YHbHG
+GithubAdvisories,[GHSA-v744-h36c-hv5j] MoinMoin Improper Access Control,https://github.com/advisories/GHSA-v744-h36c-hv5j,https://da.gd/fRigrp
+GithubAdvisories,[GHSA-q7mf-hp9m-cx6f] Roundup Directory traversal vulnerability,https://github.com/advisories/GHSA-q7mf-hp9m-cx6f,https://da.gd/AKz79
+GithubAdvisories,[GHSA-7jrp-r6jx-32cw] MoinMoin allows administrative access,https://github.com/advisories/GHSA-7jrp-r6jx-32cw,https://da.gd/U42joh
