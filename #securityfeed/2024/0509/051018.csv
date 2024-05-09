@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4427-7f3w-mqv6] OpenStack Keystone V3 /credentials endpoint policy logic allows to change credentials owner or target project ID,https://github.com/advisories/GHSA-4427-7f3w-mqv6,https://da.gd/MrotGW
+GithubAdvisories,[GHSA-8c4w-v65p-jvcv] OpenStack Identity Keystone and keystonemiddleware Insufficiently Protected Credentials,https://github.com/advisories/GHSA-8c4w-v65p-jvcv,https://da.gd/akTC
+GithubAdvisories,[GHSA-pwpq-632g-h49g] Plone Privilege escalation due improper authorization,https://github.com/advisories/GHSA-pwpq-632g-h49g,https://da.gd/8NADQ
+GithubAdvisories,[GHSA-6xc7-4cx8-j3xc] OpenStack Nova-LXD bypass security restrictions,https://github.com/advisories/GHSA-6xc7-4cx8-j3xc,https://da.gd/PB3yZ
+GithubAdvisories,[GHSA-6fgp-29mf-chhc] Kallithea cross-site request forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-6fgp-29mf-chhc,https://da.gd/hEwdw
