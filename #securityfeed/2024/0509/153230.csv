@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f8ch-w75v-c847] 1Panel arbitrary file write vulnerability,https://github.com/advisories/GHSA-f8ch-w75v-c847,https://da.gd/7Qa3zD
+GithubAdvisories,[GHSA-w4h6-9wrp-v5jq] Malicious Long Unicode filenames may cause a Multiple Application-level Denial of Service,https://github.com/advisories/GHSA-w4h6-9wrp-v5jq,https://da.gd/Nuz6Q
+GithubAdvisories,[GHSA-x9vc-6hfv-hg8c] Npgsql vulnerable to SQL Injection via Protocol Message Size Overflow,https://github.com/advisories/GHSA-x9vc-6hfv-hg8c,https://da.gd/iun1fW
