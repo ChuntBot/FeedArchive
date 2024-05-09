@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hqfx-4x4w-vmwp] Openstack nova qcow format could expose host filesystem information,https://github.com/advisories/GHSA-hqfx-4x4w-vmwp,https://da.gd/WQ6j
+GithubAdvisories,[GHSA-22jm-4hxw-35jf] OpenStack Nova can leak consoleauth token into log files,https://github.com/advisories/GHSA-22jm-4hxw-35jf,https://da.gd/zfqY6j
