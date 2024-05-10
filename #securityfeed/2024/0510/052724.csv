@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8p42-7597-p2f6] dcnnt-py is vulnerable to command injection via Notification Handler,https://github.com/advisories/GHSA-8p42-7597-p2f6,https://da.gd/F6RaE
+GithubAdvisories,[GHSA-qr3x-v97p-42xw] SaltStack insecurely uses /tmp,https://github.com/advisories/GHSA-qr3x-v97p-42xw,https://da.gd/eUWz
+GithubAdvisories,[GHSA-hvmj-356c-gpf4] Salt allows deleted minions to read or write to minions with the same id,https://github.com/advisories/GHSA-hvmj-356c-gpf4,https://da.gd/aXxql
