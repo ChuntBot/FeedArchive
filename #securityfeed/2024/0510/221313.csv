@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3494-cfwf-56hw] mdanter/ecc affected by timing vulnerability in cryptographic side-channels,https://github.com/advisories/GHSA-3494-cfwf-56hw,https://da.gd/QSPnbR
