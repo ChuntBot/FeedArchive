@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jcqq-g64v-gcm7] Previous ATX is not checked to be the newest valid ATX by Smesher when validating incoming ATX,https://github.com/advisories/GHSA-jcqq-g64v-gcm7,https://da.gd/26lGv
+GithubAdvisories,"[GHSA-7prj-9ccr-hr3q] Sylius has potential Cross Site Scripting vulnerability via the ""Province"" field in the Checkout and Address Book",https://github.com/advisories/GHSA-7prj-9ccr-hr3q,https://da.gd/mvNYkQ
+GithubAdvisories,"[GHSA-v2f9-rv6w-vw8r] Sylius potentially vulnerable to Cross Site Scripting via ""Name"" field (Taxons, Products, Options, Variants) in Admin Panel",https://github.com/advisories/GHSA-v2f9-rv6w-vw8r,https://da.gd/e0oNPM
+GithubAdvisories,[GHSA-x525-54hf-xr53] Blind XSS Leading to Froxlor Application Compromise,https://github.com/advisories/GHSA-x525-54hf-xr53,https://da.gd/Tjktf
+GithubAdvisories,[GHSA-mxhq-xw3g-rphc] lobe-chat `/api/proxy` endpoint Server-Side Request Forgery vulnerability,https://github.com/advisories/GHSA-mxhq-xw3g-rphc,https://da.gd/Yml2vW
