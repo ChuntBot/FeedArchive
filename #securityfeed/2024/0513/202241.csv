@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g65h-35f3-x2w3] Directus Lacks Session Tokens Invalidation,https://github.com/advisories/GHSA-g65h-35f3-x2w3,https://da.gd/Vlmqg
+GithubAdvisories,[GHSA-r2hr-4v48-fjv3] Nautobot's BANNER_* configuration can be used to inject arbitrary HTML content into Nautobot pages,https://github.com/advisories/GHSA-r2hr-4v48-fjv3,https://da.gd/wj3Vc
+GithubAdvisories,[GHSA-h6r4-xvw6-jc5h] NocoDB Vulnerable to Stored Cross-Site Scripting in Formula.vue,https://github.com/advisories/GHSA-h6r4-xvw6-jc5h,https://da.gd/zLrIsn
