@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-969f-v7jv-pgj3] ThinkPHP allows remote attackers to discover the PHPSESSION cookie,https://github.com/advisories/GHSA-969f-v7jv-pgj3,https://da.gd/Hjf82
