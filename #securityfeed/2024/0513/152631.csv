@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-99jc-wqmr-ff2q] MantisBT Vulnerable to Exposure of Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-99jc-wqmr-ff2q,https://da.gd/eiwzz
+GithubAdvisories,[GHSA-93x3-m7pw-ppqm] Mantis Bug Tracker (MantisBT) allows user account takeover in the signup/reset password process,https://github.com/advisories/GHSA-93x3-m7pw-ppqm,https://da.gd/IKD5AK
