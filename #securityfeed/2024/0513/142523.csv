@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-56xg-wfcc-g829] llama-cpp-python vulnerable to Remote Code Execution by Server-Side Template Injection in Model Metadata,https://github.com/advisories/GHSA-56xg-wfcc-g829,https://da.gd/cyrcP5
+GithubAdvisories,[GHSA-75r6-6jg8-pfcq] octo-sts vulnerable to unauthenticated attacker causing unbounded CPU and memory usage,https://github.com/advisories/GHSA-75r6-6jg8-pfcq,https://da.gd/yAsVr
