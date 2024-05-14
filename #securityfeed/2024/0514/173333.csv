@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f7cr-7c2c-fm8r] OpenStack Ironic Exposure of Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-f7cr-7c2c-fm8r,https://da.gd/ICEbHb
+GithubAdvisories,[GHSA-j36m-hv43-7w7m] OpenStack Identity service (keystone) Incorrect Authorization,https://github.com/advisories/GHSA-j36m-hv43-7w7m,https://da.gd/TO5nYz
+GithubAdvisories,[GHSA-pwgm-jvqv-6v8p] Plone anonymous access to sub-objects in CMFEditions where KwAsAttributes classes were publishable,https://github.com/advisories/GHSA-pwgm-jvqv-6v8p,https://da.gd/34negd
+GithubAdvisories,[GHSA-grm6-x6mr-q3cv] OpenStack Dashboard (Horizon) Cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-grm6-x6mr-q3cv,https://da.gd/ZJN8b
+GithubAdvisories,[GHSA-4j3w-g62x-hrcp] Plone Cross-site request forgery (CSRF),https://github.com/advisories/GHSA-4j3w-g62x-hrcp,https://da.gd/g9nb8
+GithubAdvisories,[GHSA-r7j4-82xw-8m9p] Plone allows a user to masquerade as a group,https://github.com/advisories/GHSA-r7j4-82xw-8m9p,https://da.gd/7stecz
+GithubAdvisories,[GHSA-4225-97pr-rr52] OpenStack Keystone allows information disclosure during account locking,https://github.com/advisories/GHSA-4225-97pr-rr52,https://da.gd/CJSDtE
+GithubAdvisories,[GHSA-mq3q-jjph-rp5p] Plone CMS Improper Session Management,https://github.com/advisories/GHSA-mq3q-jjph-rp5p,https://da.gd/SwejjV
+GithubAdvisories,[GHSA-593c-j348-f3gv] Plone Improper Session Management,https://github.com/advisories/GHSA-593c-j348-f3gv,https://da.gd/Yd86Y
+GithubAdvisories,[GHSA-mwv2-398h-v489] Django Improper Access Control,https://github.com/advisories/GHSA-mwv2-398h-v489,https://da.gd/ZgUd
+GithubAdvisories,[GHSA-qc99-g3wm-hgxr] Django Arbitrary Code Execution,https://github.com/advisories/GHSA-qc99-g3wm-hgxr,https://da.gd/2Rmebw
+GithubAdvisories,[GHSA-q7q4-5g8p-33fq] MoinMoin Multiple cross-site scripting (XSS) vulnerabilities,https://github.com/advisories/GHSA-q7q4-5g8p-33fq,https://da.gd/n0ZYl
