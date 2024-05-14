@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2q2f-h83x-cx3x] Reportico Web fails to invalidate cookies upon logout,https://github.com/advisories/GHSA-2q2f-h83x-cx3x,https://da.gd/1HLWa1
+GithubAdvisories,[GHSA-hf54-fq2m-p9v6] dotmesh arbitrary file read and/or write,https://github.com/advisories/GHSA-hf54-fq2m-p9v6,https://da.gd/01n3
+GithubAdvisories,[GHSA-wchx-rm6h-7jf6] Microsoft Power BI Client JavaScript SDK Information Disclosure Vulnerability,https://github.com/advisories/GHSA-wchx-rm6h-7jf6,https://da.gd/B4QIaT
+GithubAdvisories,[GHSA-4w53-6jvp-gg52] sshpiper's enabling of proxy protocol without proper feature flagging allows faking source address,https://github.com/advisories/GHSA-4w53-6jvp-gg52,https://da.gd/inkJJ
+GithubAdvisories,[GHSA-r3w4-36x6-7r99] Nokogiri updates packaged libxml2 to v2.12.7 to resolve CVE-2024-34459,https://github.com/advisories/GHSA-r3w4-36x6-7r99,https://da.gd/2l3dM
+GithubAdvisories,[GHSA-p978-56hq-r492] Grafana folders admin only permission privilege escalation,https://github.com/advisories/GHSA-p978-56hq-r492,https://da.gd/bPv60g
+GithubAdvisories,[GHSA-x744-mm8v-vpgr] Grafana Data source and plugin proxy endpoints could leak the authentication cookie to some destination plugins,https://github.com/advisories/GHSA-x744-mm8v-vpgr,https://da.gd/veNel
+GithubAdvisories,[GHSA-gj7m-853r-289r] Grafana when using email as a username can block other users from signing in,https://github.com/advisories/GHSA-gj7m-853r-289r,https://da.gd/i8XT
+GithubAdvisories,[GHSA-2x6g-h2hg-rq84] Grafana Email addresses and usernames can not be trusted,https://github.com/advisories/GHSA-2x6g-h2hg-rq84,https://da.gd/E9wzXp
+GithubAdvisories,[GHSA-3p62-42x7-gxg5] Grafana User enumeration via forget password,https://github.com/advisories/GHSA-3p62-42x7-gxg5,https://da.gd/JK3qO
+GithubAdvisories,[GHSA-4724-7jwc-3fpw] Grafana Spoofing originalUrl of snapshots,https://github.com/advisories/GHSA-4724-7jwc-3fpw,https://da.gd/YW3D7
+GithubAdvisories,[GHSA-vqc4-mpj8-jxch] Grafana Race condition allowing privilege escalation,https://github.com/advisories/GHSA-vqc4-mpj8-jxch,https://da.gd/Wtr3PE
+GithubAdvisories,[GHSA-ff5c-938w-8c9q] Grafana Escalation from admin to server admin when auth proxy is used,https://github.com/advisories/GHSA-ff5c-938w-8c9q,https://da.gd/RyL1
+GithubAdvisories,[GHSA-jv32-5578-pxjc] Grafana Data source and plugin proxy endpoints leaking authentication tokens to some destination plugins,https://github.com/advisories/GHSA-jv32-5578-pxjc,https://da.gd/fXDYu
+GithubAdvisories,[GHSA-rhxj-gh46-jvw8] Grafana Plugin signature bypass,https://github.com/advisories/GHSA-rhxj-gh46-jvw8,https://da.gd/tAeDg
+GithubAdvisories,[GHSA-mx47-6497-3fv2] Grafana account takeover via OAuth vulnerability,https://github.com/advisories/GHSA-mx47-6497-3fv2,https://da.gd/VgcJH2
+GithubAdvisories,[GHSA-63g3-9jq3-mccv] Grafana API IDOR,https://github.com/advisories/GHSA-63g3-9jq3-mccv,https://da.gd/lQ2JBx
+GithubAdvisories,[GHSA-vw7q-p2qg-4m5f] Grafana Stored Cross-site Scripting in Unified Alerting,https://github.com/advisories/GHSA-vw7q-p2qg-4m5f,https://da.gd/qRjfCG
+GithubAdvisories,[GHSA-xc3p-28hw-q24g] Grafana proxy Cross-site Scripting,https://github.com/advisories/GHSA-xc3p-28hw-q24g,https://da.gd/Io1My
+GithubAdvisories,[GHSA-8wjh-59cw-9xh4] Grafana Forward OAuth Identity Token can allow users to access some data sources,https://github.com/advisories/GHSA-8wjh-59cw-9xh4,https://da.gd/Zzwp
+GithubAdvisories,[GHSA-7533-c8qv-jm9m] Grafana directory traversal for .cvs files,https://github.com/advisories/GHSA-7533-c8qv-jm9m,https://da.gd/yPSz
+GithubAdvisories,[GHSA-mpwp-42x6-4wmx] Grafana Fine-grained access control vulnerability,https://github.com/advisories/GHSA-mpwp-42x6-4wmx,https://da.gd/FddVa
