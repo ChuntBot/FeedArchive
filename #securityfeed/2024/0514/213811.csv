@@ -1,0 +1,51 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4xw6-hj5p-4j79] OpenStack Glance sensitive information disclosure via logs,https://github.com/advisories/GHSA-4xw6-hj5p-4j79,https://da.gd/mRv9
+GithubAdvisories,[GHSA-j4mh-9wq6-8rg6] OpenStack Glance Bypass the storage quota and Denial of service,https://github.com/advisories/GHSA-j4mh-9wq6-8rg6,https://da.gd/Sx4VH
+GithubAdvisories,[GHSA-h737-q6g6-8wr6] OpenStack Glance Denial of service by creating a large number of images,https://github.com/advisories/GHSA-h737-q6g6-8wr6,https://da.gd/usJt
+GithubAdvisories,[GHSA-4jp4-3c62-r8jv] OpenStack Glance Denial of service by creating a large number of images,https://github.com/advisories/GHSA-4jp4-3c62-r8jv,https://da.gd/Bq9VfO
+GithubAdvisories,[GHSA-479j-jf2p-38pg] OpenStack Glance improper validation of the image_size_cap configuration option,https://github.com/advisories/GHSA-479j-jf2p-38pg,https://da.gd/Qct0
+GithubAdvisories,[GHSA-c8w9-83vg-r8vv] OpenStack Glance is vulnerable to Exposure of Sensitive Information,https://github.com/advisories/GHSA-c8w9-83vg-r8vv,https://da.gd/Zifkp
+GithubAdvisories,[GHSA-pwrj-f53c-f89j] OpenStack Glance v2 API unrestricted path traversal through filesystem:// scheme,https://github.com/advisories/GHSA-pwrj-f53c-f89j,https://da.gd/Blux
+GithubAdvisories,[GHSA-9xgv-6v35-mmcj] OpenStack Swift Unchecked user input in XML responses,https://github.com/advisories/GHSA-9xgv-6v35-mmcj,https://da.gd/8EOz
+GithubAdvisories,[GHSA-cc77-5vw4-7pwg] OpenStack Swift Unauthorized delete of versioned Swift object,https://github.com/advisories/GHSA-cc77-5vw4-7pwg,https://da.gd/NBNluE
+GithubAdvisories,[GHSA-g6x3-55qv-x6p2] OpenStack Swift metadata constraints are not correctly enforced,https://github.com/advisories/GHSA-g6x3-55qv-x6p2,https://da.gd/aTuTSj
+GithubAdvisories,[GHSA-wxx2-gqvv-34hx] OpenStack Swift allows authenticated users to cause a denial of service,https://github.com/advisories/GHSA-wxx2-gqvv-34hx,https://da.gd/Q3gW
+GithubAdvisories,[GHSA-274c-rx2j-2v3x] OpenStack Swift XML external entities (XXE) Injection,https://github.com/advisories/GHSA-274c-rx2j-2v3x,https://da.gd/pAzO
+GithubAdvisories,[GHSA-47vp-44v9-rhgq] OpenStack Horizon Cross-site Scripting (XSS),https://github.com/advisories/GHSA-47vp-44v9-rhgq,https://da.gd/bk4Ac
+GithubAdvisories,[GHSA-v725-c588-h936] OpenStack Nova Changing vnic_type breaks compute service restart,https://github.com/advisories/GHSA-v725-c588-h936,https://da.gd/EBJXT
+GithubAdvisories,[GHSA-m454-cm7h-rqhh] OpenStack Nova Directory traversal vulnerability,https://github.com/advisories/GHSA-m454-cm7h-rqhh,https://da.gd/jx5TT
+GithubAdvisories,[GHSA-cm54-3vvf-f5p8] OpenStack Nova Arbitrary file injection/corruption through directory traversal issues,https://github.com/advisories/GHSA-cm54-3vvf-f5p8,https://da.gd/g873a
+GithubAdvisories,[GHSA-rwhr-h69g-8qmq] OpenStack Nova Information leak in libvirt LVM-backed instances,https://github.com/advisories/GHSA-rwhr-h69g-8qmq,https://da.gd/i0OR
+GithubAdvisories,[GHSA-43cm-73px-5v4m] OpenStack Compute (Nova) Resource limit circumvention in Nova private flavors,https://github.com/advisories/GHSA-43cm-73px-5v4m,https://da.gd/OI2wKl
+GithubAdvisories,[GHSA-27q4-38qf-m25h] OpenStack Compute Nova Improper Access Control,https://github.com/advisories/GHSA-27q4-38qf-m25h,https://da.gd/J2UYSf
+GithubAdvisories,[GHSA-22w9-j288-8p9w] OpenStack Nova Router metadata queries are not restricted by tenant,https://github.com/advisories/GHSA-22w9-j288-8p9w,https://da.gd/n2K2m
+GithubAdvisories,[GHSA-99rx-9x8v-9j8p] OpenStack Nova Live migration can leak root disk into ephemeral storage,https://github.com/advisories/GHSA-99rx-9x8v-9j8p,https://da.gd/cnHkbi
+GithubAdvisories,[GHSA-pjvw-p2v5-wf6q] OpenStack Nova Long server names grow nova-api log files significantly,https://github.com/advisories/GHSA-pjvw-p2v5-wf6q,https://da.gd/769Cb
+GithubAdvisories,[GHSA-mfg4-9xf4-f45q] OpenStack Cinder Denial of Service using XML entities,https://github.com/advisories/GHSA-mfg4-9xf4-f45q,https://da.gd/u1QQ3p
+GithubAdvisories,[GHSA-9hcj-h2qc-689p] OpenStack Cinder file disclosure in image convert,https://github.com/advisories/GHSA-9hcj-h2qc-689p,https://da.gd/94DwZ
+GithubAdvisories,[GHSA-q3rw-wcj6-8cjf] OpenStack Cinder LVMVolumeDriver does not zero deleted snapshots,https://github.com/advisories/GHSA-q3rw-wcj6-8cjf,https://da.gd/r39wL
+GithubAdvisories,[GHSA-v933-vx5p-j7w2] OpenStack Oslo utility sensitive information exposure via log files,https://github.com/advisories/GHSA-v933-vx5p-j7w2,https://da.gd/b9FxPb
+GithubAdvisories,[GHSA-w446-h7vg-wv3p] openstack-neutron uncontrolled resource consumption flaw,https://github.com/advisories/GHSA-w446-h7vg-wv3p,https://da.gd/JOZVBX
+GithubAdvisories,[GHSA-6p2h-rjj7-2j63] openstack-barbican Denial of Service vulnerability,https://github.com/advisories/GHSA-6p2h-rjj7-2j63,https://da.gd/y3HCm3
+GithubAdvisories,[GHSA-rhjj-f6gq-6gx2] OpenStack Dashboard (Horizon) Cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-rhjj-f6gq-6gx2,https://da.gd/VSGS
+GithubAdvisories,[GHSA-98c8-36p9-gw66] Openstack DBaaS (Trove) Improper Link Resolution Before File Access,https://github.com/advisories/GHSA-98c8-36p9-gw66,https://da.gd/Hcmj
+GithubAdvisories,[GHSA-j772-hpmw-32rm] OpenStack Horizon Cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-j772-hpmw-32rm,https://da.gd/eqZg
+GithubAdvisories,[GHSA-rxrm-xvp4-jqvh] OpenStack Keystone Sensitive information disclosure via log files,https://github.com/advisories/GHSA-rxrm-xvp4-jqvh,https://da.gd/p3pn
+GithubAdvisories,[GHSA-v8fq-gq9j-3v7h] OpenStack Identity (Keystone) UUID v2 tokens does not expire with revocation events,https://github.com/advisories/GHSA-v8fq-gq9j-3v7h,https://da.gd/uCHaC
+GithubAdvisories,[GHSA-gmvp-5rf9-mxcm] OpenStack Identity (Keystone) Multiple vulnerabilities in revocation events,https://github.com/advisories/GHSA-gmvp-5rf9-mxcm,https://da.gd/xS38Yl
+GithubAdvisories,[GHSA-77w8-qv8m-386h] OpenStack Keystone Domain-scoped tokens don't get revoked,https://github.com/advisories/GHSA-77w8-qv8m-386h,https://da.gd/ITpFe
+GithubAdvisories,[GHSA-hj89-qmx9-8qmh] OpenStack Identity (Keystone) improper revoking of the authentication token when deleting a user,https://github.com/advisories/GHSA-hj89-qmx9-8qmh,https://da.gd/2l49L
+GithubAdvisories,[GHSA-g63p-mfcm-54c4] OpenStack Nova VMware instance leak potentially leading to compute DoS,https://github.com/advisories/GHSA-g63p-mfcm-54c4,https://da.gd/x5nw
+GithubAdvisories,[GHSA-2w87-5qcj-j6gx] OpenStack Compute (Nova) Denial of service due to improper validation of virtual size of QCOW2 image,https://github.com/advisories/GHSA-2w87-5qcj-j6gx,https://da.gd/z87AM
+GithubAdvisories,[GHSA-w429-xc55-hc48] OpenStack Nova host data leak to vm instance in rescue mode,https://github.com/advisories/GHSA-w429-xc55-hc48,https://da.gd/jtv4e4
+GithubAdvisories,[GHSA-5644-2v3h-5w4x] OpenStack Nova denial of service through compressed disk images,https://github.com/advisories/GHSA-5644-2v3h-5w4x,https://da.gd/NSyVjJ
+GithubAdvisories,[GHSA-jv34-xvjq-ppch] OpenStack Nova VMWare driver leaks rescued images,https://github.com/advisories/GHSA-jv34-xvjq-ppch,https://da.gd/ibNef
+GithubAdvisories,[GHSA-49jv-37hm-6gfp] OpenStack Nova host data access through resize/migration,https://github.com/advisories/GHSA-49jv-37hm-6gfp,https://da.gd/b91TT
+GithubAdvisories,[GHSA-c36r-g737-9qp8] OpenStack Nova Potential Xen connection password leak via StorageError,https://github.com/advisories/GHSA-c36r-g737-9qp8,https://da.gd/Pukey
+GithubAdvisories,[GHSA-qr62-r9xc-r2gj] OpenStack Nova Multiple directory traversal vulnerabilities,https://github.com/advisories/GHSA-qr62-r9xc-r2gj,https://da.gd/Q8pR
+GithubAdvisories,[GHSA-ph2h-hh49-vh27] OpenStack Nova Denial of Service in network source security groups,https://github.com/advisories/GHSA-ph2h-hh49-vh27,https://da.gd/YNpk
+GithubAdvisories,[GHSA-f4g4-cj8f-3cr9] OpenStack Nova logs sensitive context from notification exceptions,https://github.com/advisories/GHSA-f4g4-cj8f-3cr9,https://da.gd/W5dVmR
+GithubAdvisories,[GHSA-63fq-8fp9-vhwq] OpenStack Compute (Nova) Denial of service via a large number of calls to the addFixedIp function,https://github.com/advisories/GHSA-63fq-8fp9-vhwq,https://da.gd/Xo5oX
+GithubAdvisories,[GHSA-23x9-8hxr-978c] OpenStack Identity (Keystone) Trustee token revocations does not work with memcache backend,https://github.com/advisories/GHSA-23x9-8hxr-978c,https://da.gd/cphKxJ
+GithubAdvisories,[GHSA-46r8-9cj7-pw6g] OpenStack Compute (Nova) Improper Input Validation,https://github.com/advisories/GHSA-46r8-9cj7-pw6g,https://da.gd/mHL978
+GithubAdvisories,[GHSA-9pp3-cvmq-9p22] OpenStack Neutron Intended MAC-spoofing protection mechanism bypass,https://github.com/advisories/GHSA-9pp3-cvmq-9p22,https://da.gd/kDD18Q
