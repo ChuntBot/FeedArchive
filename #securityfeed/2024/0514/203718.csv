@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hhc7-x9w4-cw47] Microsoft Security Advisory CVE-2024-30046 | .NET Denial of Service Vulnerability,https://github.com/advisories/GHSA-hhc7-x9w4-cw47,https://da.gd/ZbsP3
+GithubAdvisories,[GHSA-7fcr-8qw6-92fr] Microsoft Security Advisory CVE-2024-30045 | .NET Remote code Execution Vulnerability,https://github.com/advisories/GHSA-7fcr-8qw6-92fr,https://da.gd/P7qR
+GithubAdvisories,[GHSA-m44j-cfrm-g8qc] Bouncy Castle crafted signature and public key can be used to trigger an infinite loop,https://github.com/advisories/GHSA-m44j-cfrm-g8qc,https://da.gd/ec88T
+GithubAdvisories,"[GHSA-v435-xc8x-wvr9] Bouncy Castle affected by timing side-channel for RSA key exchange (""The Marvin Attack"")",https://github.com/advisories/GHSA-v435-xc8x-wvr9,https://da.gd/ZiSAz
+GithubAdvisories,[GHSA-8xfc-gm6g-vgpv] Bouncy Castle certificate parsing issues cause high CPU usage during parameter evaluation,https://github.com/advisories/GHSA-8xfc-gm6g-vgpv,https://da.gd/fSxtK
+GithubAdvisories,[GHSA-7pjr-2rgh-fc5g] Anonymous PrestaShop customer can download other customers' invoices,https://github.com/advisories/GHSA-7pjr-2rgh-fc5g,https://da.gd/wirCn
+GithubAdvisories,"[GHSA-45vm-3j38-7p78] PrestaShop cross-site scripting via customer contact form in FO, through file upload",https://github.com/advisories/GHSA-45vm-3j38-7p78,https://da.gd/Lo7PC
+GithubAdvisories,[GHSA-jmqp-37m5-49wh] sshproxy vulnerable to SSH option injection,https://github.com/advisories/GHSA-jmqp-37m5-49wh,https://da.gd/bni1s
+GithubAdvisories,[GHSA-23j4-mw76-5v7h] Scrapy allows redirect following in protocols other than HTTP,https://github.com/advisories/GHSA-23j4-mw76-5v7h,https://da.gd/2oxvr
+GithubAdvisories,[GHSA-jm3v-qxmh-hxwv] Scrapy's redirects ignoring scheme-specific proxy settings,https://github.com/advisories/GHSA-jm3v-qxmh-hxwv,https://da.gd/ykFcbS
+GithubAdvisories,[GHSA-4qqq-9vqf-3h3f] Scrapy leaks the authorization header on same-domain but cross-origin redirects,https://github.com/advisories/GHSA-4qqq-9vqf-3h3f,https://da.gd/Iy1WMs
+GithubAdvisories,[GHSA-5h5v-hw44-f6gg] Oceanic allows unsanitized user input to lead to path traversal in URLs,https://github.com/advisories/GHSA-5h5v-hw44-f6gg,https://da.gd/ZJktQW
+GithubAdvisories,[GHSA-2vjq-hg5w-5gm7] OctoPrint has an Authentication Bypass via X-Forwarded-For Header when autologinLocal is enabled,https://github.com/advisories/GHSA-2vjq-hg5w-5gm7,https://da.gd/N6JFdz
+GithubAdvisories,[GHSA-36g8-62qv-5957] TYPO3 vulnerable to an Uncontrolled Resource Consumption in the ShowImageController,https://github.com/advisories/GHSA-36g8-62qv-5957,https://da.gd/CCaSdK
+GithubAdvisories,[GHSA-hw6c-6gwq-3m3m] TYPO3 vulnerable to Cross-Site Scripting in the ShowImageController,https://github.com/advisories/GHSA-hw6c-6gwq-3m3m,https://da.gd/MFn0vM
+GithubAdvisories,[GHSA-v6mw-h7w6-59w3] TYPO3 vulnerable to Cross-Site Scripting in the Form Manager Module,https://github.com/advisories/GHSA-v6mw-h7w6-59w3,https://da.gd/9cryb
+GithubAdvisories,[GHSA-xjwx-78x7-q6jc] TYPO3 vulnerable to an HTML Injection in the History Module,https://github.com/advisories/GHSA-xjwx-78x7-q6jc,https://da.gd/0wmD7Y
