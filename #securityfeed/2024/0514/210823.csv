@@ -1,0 +1,25 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f82m-w3p3-cgp3] OpenStack Identity Keystone Improper Access Control,https://github.com/advisories/GHSA-f82m-w3p3-cgp3,https://da.gd/vdphQ5
+GithubAdvisories,[GHSA-6mv3-p2gr-wgqf] OpenStack Identity (Keystone) DoS through V3 API authentication chaining,https://github.com/advisories/GHSA-6mv3-p2gr-wgqf,https://da.gd/19jfD
+GithubAdvisories,[GHSA-hhpj-6pj7-wpx5] OpenStack Neutron Race condition vulnerability,https://github.com/advisories/GHSA-hhpj-6pj7-wpx5,https://da.gd/Vd9avv
+GithubAdvisories,[GHSA-97fv-22hc-mrgj] OpenStack Compute (Nova) Improper Access Control,https://github.com/advisories/GHSA-97fv-22hc-mrgj,https://da.gd/r40tbv
+GithubAdvisories,[GHSA-hq3f-9gf7-73r8] Openstack Compute (Nova) Denial of service via network request that triggers large number of iptables rules,https://github.com/advisories/GHSA-hq3f-9gf7-73r8,https://da.gd/UukLc
+GithubAdvisories,[GHSA-hrv9-4x4c-9jc8] OpenStack Nova DoS through ephemeral disk backing files,https://github.com/advisories/GHSA-hrv9-4x4c-9jc8,https://da.gd/Ot1BsJ
+GithubAdvisories,[GHSA-3vx7-xff6-h2vx] OpenStack Nova instance migration process does not stop when instance is deleted,https://github.com/advisories/GHSA-3vx7-xff6-h2vx,https://da.gd/y3g85
+GithubAdvisories,[GHSA-grp5-h379-j75x] OpenStack Nova live snapshots use an insecure local directory,https://github.com/advisories/GHSA-grp5-h379-j75x,https://da.gd/r8ko4d
+GithubAdvisories,[GHSA-w2wf-cgwh-vpqg] OpenStack Nova Filter Scheduler Bypass,https://github.com/advisories/GHSA-w2wf-cgwh-vpqg,https://da.gd/OwBtO
+GithubAdvisories,[GHSA-vq76-rxx3-4r4r] OpenStack Nova DoS by rebuilding the same instance with a new image multiple times,https://github.com/advisories/GHSA-vq76-rxx3-4r4r,https://da.gd/mbFa6
+GithubAdvisories,[GHSA-mxh8-xgq9-w782] MoinMoin Insertion of Sensitive Information into Log File,https://github.com/advisories/GHSA-mxh8-xgq9-w782,https://da.gd/9PYl00
+GithubAdvisories,[GHSA-c4p9-87h3-7vr4] OpenStack Identity Keystone Improper Privilege Management,https://github.com/advisories/GHSA-c4p9-87h3-7vr4,https://da.gd/yuVAq
+GithubAdvisories,[GHSA-8v8f-vc72-pmhc] OpenStack Identity Keystone Exposure of Sensitive Information,https://github.com/advisories/GHSA-8v8f-vc72-pmhc,https://da.gd/SN3HfU
+GithubAdvisories,[GHSA-274v-r947-v34r] OpenStack Identity Keystone is vulnerable to Block delegation escalation of privilege,https://github.com/advisories/GHSA-274v-r947-v34r,https://da.gd/bR0jI
+GithubAdvisories,[GHSA-7hjm-hqgj-xv9f] MoinMoin Multiple cross-site scripting (XSS) vulnerabilities,https://github.com/advisories/GHSA-7hjm-hqgj-xv9f,https://da.gd/CLNlG
+GithubAdvisories,[GHSA-jj2f-57jg-5rm6] MoinMoin Improper Access Control,https://github.com/advisories/GHSA-jj2f-57jg-5rm6,https://da.gd/OgepMq
+GithubAdvisories,[GHSA-8fj9-pj4p-4vq7] MoinMoin Multiple cross-site scripting (XSS) vulnerabilities,https://github.com/advisories/GHSA-8fj9-pj4p-4vq7,https://da.gd/Y0BMie
+GithubAdvisories,[GHSA-6766-r2rx-mfw9] MoinMoin Directory traversal vulnerability,https://github.com/advisories/GHSA-6766-r2rx-mfw9,https://da.gd/JbvCT
+GithubAdvisories,[GHSA-775g-4482-pm94] MoinMoin Multiple cross-site scripting (XSS) vulnerabilities,https://github.com/advisories/GHSA-775g-4482-pm94,https://da.gd/Kjie
+GithubAdvisories,[GHSA-53wj-6m7w-j6mj] MoinMoin Cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-53wj-6m7w-j6mj,https://da.gd/JGD1
+GithubAdvisories,[GHSA-cmg7-xr2j-4r9v] MoinMoin Improper ACL handling for calendars and includes,https://github.com/advisories/GHSA-cmg7-xr2j-4r9v,https://da.gd/t1coG3
+GithubAdvisories,[GHSA-cx94-3h5x-cc57] MoinMoin Cross-site scripting (XSS) vulnerability in the antispam feature,https://github.com/advisories/GHSA-cx94-3h5x-cc57,https://da.gd/g1Ep9c
+GithubAdvisories,[GHSA-8g68-2hcj-h8vg] OpenStack Dashboard (Horizon) Cross-site scripting (XSS) vulnerability in the Host Aggregates interface,https://github.com/advisories/GHSA-8g68-2hcj-h8vg,https://da.gd/ApDj8
+GithubAdvisories,[GHSA-vq76-5ghr-9p4v] Openstack Manila Persistent XSS in Metadata field,https://github.com/advisories/GHSA-vq76-5ghr-9p4v,https://da.gd/NZRJt
