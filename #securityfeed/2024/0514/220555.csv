@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c9cp-9c75-9v8c] containerd started with non-empty inheritable Linux process capabilities,https://github.com/advisories/GHSA-c9cp-9c75-9v8c,https://da.gd/neY2NF
+GithubAdvisories,[GHSA-jj54-5q2m-q7pj] NATS server TLS missing ciphersuite settings when CLI flags used,https://github.com/advisories/GHSA-jj54-5q2m-q7pj,https://da.gd/BIAk7z
+GithubAdvisories,[GHSA-fqw7-839j-hvxj] PHP Censor uses a weak hashing algorithm for the remember me key,https://github.com/advisories/GHSA-fqw7-839j-hvxj,https://da.gd/DLaQx
+GithubAdvisories,[GHSA-93pf-mrc8-4g3h] Konga is vulnerable to Cross Site Scripting (XSS) attacks,https://github.com/advisories/GHSA-93pf-mrc8-4g3h,https://da.gd/UfUb1
+GithubAdvisories,[GHSA-vpj8-xfqc-jcv9] Cockpit CMS contains an arbitrary file upload vulenrability,https://github.com/advisories/GHSA-vpj8-xfqc-jcv9,https://da.gd/rERW8
+GithubAdvisories,[GHSA-6wvf-f2vw-3425] github.com/containers/image allows unexpected authenticated registry accesses,https://github.com/advisories/GHSA-6wvf-f2vw-3425,https://da.gd/zdo6qm
+GithubAdvisories,[GHSA-g95v-3pj6-j433] Ant Media Server does not properly authorize non-administrative API calls,https://github.com/advisories/GHSA-g95v-3pj6-j433,https://da.gd/M1933D
+GithubAdvisories,[GHSA-338x-hfx8-vx9x] Apache Karaf Cave: Cave SSRF and arbitrary file access,https://github.com/advisories/GHSA-338x-hfx8-vx9x,https://da.gd/mKqIFM
