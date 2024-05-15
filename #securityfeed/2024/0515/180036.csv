@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8v5x-6vv5-jv4g] amphp/http Host Header Injection vulnerability,https://github.com/advisories/GHSA-8v5x-6vv5-jv4g,https://da.gd/gmZhps
+GithubAdvisories,[GHSA-gm98-g2wf-7c68] amphp/artax Cookie leakage to wrong origins and non-restricted cookie acceptance,https://github.com/advisories/GHSA-gm98-g2wf-7c68,https://da.gd/lQjLj
+GithubAdvisories,[GHSA-8jp9-mpv9-98rj] amphp/http-client Header leakage on cross-domain redirects,https://github.com/advisories/GHSA-8jp9-mpv9-98rj,https://da.gd/KR7SX
+GithubAdvisories,[GHSA-87mp-xc4x-x8rh] asymmetricrypt/asymmetricrypt Padding Oracle Vulnerability in RSA Encryption,https://github.com/advisories/GHSA-87mp-xc4x-x8rh,https://da.gd/50Oo
+GithubAdvisories,[GHSA-32rx-xvvr-4xv9] easyadmin-extension-bundle action case insensitivity,https://github.com/advisories/GHSA-32rx-xvvr-4xv9,https://da.gd/QDvdt
+GithubAdvisories,[GHSA-h63c-xvpf-264j] ADOdb SQL injection vulnerability,https://github.com/advisories/GHSA-h63c-xvpf-264j,https://da.gd/sIuAuN
+GithubAdvisories,[GHSA-77mv-mp2j-gxxh] pygmentize Remote Code Execution,https://github.com/advisories/GHSA-77mv-mp2j-gxxh,https://da.gd/RnBT
+GithubAdvisories,[GHSA-42q7-95j7-w62m] Mautic is vulnerable to XSS vulnerability,https://github.com/advisories/GHSA-42q7-95j7-w62m,https://da.gd/b7Br18
