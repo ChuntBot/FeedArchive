@@ -1,0 +1,28 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2c28-7gwv-cpgf] Mediawiki tarball is missing .htaccess files,https://github.com/advisories/GHSA-2c28-7gwv-cpgf,https://da.gd/2hxf4
+GithubAdvisories,[GHSA-mhfv-9h99-jwg7] Mediawiki Improper Privilege Management,https://github.com/advisories/GHSA-mhfv-9h99-jwg7,https://da.gd/6ACn05
+GithubAdvisories,[GHSA-5c6w-f4w2-2grp] Mediawiki BotPassword can bypass CentralAuth's account lock,https://github.com/advisories/GHSA-5c6w-f4w2-2grp,https://da.gd/9muHu
+GithubAdvisories,[GHSA-hr8v-f4g2-p66f] Mediawiki information disclosure vulnerability,https://github.com/advisories/GHSA-hr8v-f4g2-p66f,https://da.gd/w5VYXW
+GithubAdvisories,[GHSA-mqhw-wq8p-vf5r] MediaWiki Open Redirect vulnerability,https://github.com/advisories/GHSA-mqhw-wq8p-vf5r,https://da.gd/vDFbFa
+GithubAdvisories,[GHSA-vrw4-34p5-pjg5] Magento Cross-Site Scripting via admin panel,https://github.com/advisories/GHSA-vrw4-34p5-pjg5,https://da.gd/qcdHPx
+GithubAdvisories,[GHSA-8mwx-wpp4-5xh4] Magento Broken authentication and session managememt,https://github.com/advisories/GHSA-8mwx-wpp4-5xh4,https://da.gd/KQnSp5
+GithubAdvisories,[GHSA-94q8-gx29-6mqv] Magento Injection vulnerability via email templates,https://github.com/advisories/GHSA-94q8-gx29-6mqv,https://da.gd/jN8m48
+GithubAdvisories,[GHSA-45gj-78hc-4mvc] Magento SQL injection via marketing account with access to email templates variables,https://github.com/advisories/GHSA-45gj-78hc-4mvc,https://da.gd/DPSs
+GithubAdvisories,[GHSA-mhwc-4w67-xq2c] Magento Cross-Site Scripting via store name,https://github.com/advisories/GHSA-mhwc-4w67-xq2c,https://da.gd/r08a7
+GithubAdvisories,[GHSA-wg25-j79r-v5wp] Magento Cross-Site Scripting via Signifyd Guarantee Option Translation Override,https://github.com/advisories/GHSA-wg25-j79r-v5wp,https://da.gd/5Q5sXk
+GithubAdvisories,[GHSA-pjv5-vv93-p648] Possible to circumvent title-blacklist,https://github.com/advisories/GHSA-pjv5-vv93-p648,https://da.gd/aunQNd
+GithubAdvisories,[GHSA-7hwr-f745-5rwq] MediaWiki information disclosure,https://github.com/advisories/GHSA-7hwr-f745-5rwq,https://da.gd/ttM7js
+GithubAdvisories,[GHSA-2qrr-c2gh-pr35] Wikimedia information leak vulnerability,https://github.com/advisories/GHSA-2qrr-c2gh-pr35,https://da.gd/ffWZVg
+GithubAdvisories,[GHSA-33xw-x3pr-rvqj] Wikimedia Potential DOS due to slow WatchedItemStore::countVisitingWatchersMultiple,https://github.com/advisories/GHSA-33xw-x3pr-rvqj,https://da.gd/Tx7ei
+GithubAdvisories,[GHSA-2rm7-xxx8-35jh] MediaWiki Cross-site Scripting (XSS),https://github.com/advisories/GHSA-2rm7-xxx8-35jh,https://da.gd/UsXgeF
+GithubAdvisories,[GHSA-733q-m38x-q7cc] Wikimedia MediaWik exposed suppressed log in RevisionDelete page,https://github.com/advisories/GHSA-733q-m38x-q7cc,https://da.gd/byuobc
+GithubAdvisories,[GHSA-x3fr-w7r5-x7rg] MediaWiki Incorrect Access Control vulnerability,https://github.com/advisories/GHSA-x3fr-w7r5-x7rg,https://da.gd/yYxnH
+GithubAdvisories,[GHSA-wrhx-3pxr-6vgg] Wikimedia MediaWiki Incorrect Access Control vulnerability,https://github.com/advisories/GHSA-wrhx-3pxr-6vgg,https://da.gd/5KhuOD
+GithubAdvisories,[GHSA-27fw-r78j-h898] Wikimedia MediaWiki allows CSRF,https://github.com/advisories/GHSA-27fw-r78j-h898,https://da.gd/xON5U
+GithubAdvisories,[GHSA-6vfg-8ppv-h5hg] MediaWiki Incorrect Access Control vulnerability,https://github.com/advisories/GHSA-6vfg-8ppv-h5hg,https://da.gd/k57p
+GithubAdvisories,[GHSA-32x5-6p4q-q8jh] Magento Information Disclosure via File upload functionality,https://github.com/advisories/GHSA-32x5-6p4q-q8jh,https://da.gd/G9cNG
+GithubAdvisories,[GHSA-92ph-xm9v-cg3j] Magento Broken authentication and session managememt,https://github.com/advisories/GHSA-92ph-xm9v-cg3j,https://da.gd/9ery2V
+GithubAdvisories,[GHSA-r728-jwf5-f5r5] Magento Reflected cross-site scripting on customer cart page,https://github.com/advisories/GHSA-r728-jwf5-f5r5,https://da.gd/qvMDy9
+GithubAdvisories,[GHSA-7g5j-q8qj-8984] Magento Insecure Direct Object Reference (IDOR) vulnerability,https://github.com/advisories/GHSA-7g5j-q8qj-8984,https://da.gd/H1BmL
+GithubAdvisories,[GHSA-f8h9-7rpq-7qcc] Magento Filter extension bypass via crafted store configuration keys,https://github.com/advisories/GHSA-f8h9-7rpq-7qcc,https://da.gd/4cKkfP
+GithubAdvisories,[GHSA-pfxv-66r9-4gqw] Magento Insufficient authorization check when adding users to company accounts,https://github.com/advisories/GHSA-pfxv-66r9-4gqw,https://da.gd/NhCf
