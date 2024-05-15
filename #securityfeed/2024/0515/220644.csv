@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rj3w-99gc-8j58] Laravel Risk of mass-assignment vulnerabilities,https://github.com/advisories/GHSA-rj3w-99gc-8j58,https://da.gd/9MJRDJ
+GithubAdvisories,[GHSA-hvgw-gg3p-295j] Read private customer data reclaiming carts in Klaviyo Magento,https://github.com/advisories/GHSA-hvgw-gg3p-295j,https://da.gd/dhJWJ
+GithubAdvisories,[GHSA-6wjw-qf87-fv5v] Laravel Encrypter Failure to decryption vulnerability,https://github.com/advisories/GHSA-6wjw-qf87-fv5v,https://da.gd/k4LD
+GithubAdvisories,[GHSA-2867-6rrm-38gr] Laravel Cookie serialization vulnerability,https://github.com/advisories/GHSA-2867-6rrm-38gr,https://da.gd/tkYKhc
+GithubAdvisories,[GHSA-297g-xg4h-7w4c] Laravel Cross-site Scripting vulnerability in blade templating,https://github.com/advisories/GHSA-297g-xg4h-7w4c,https://da.gd/WLxApH
+GithubAdvisories,[GHSA-cc2w-ghc5-m5qr] Laravel Risk of mass-assignment vulnerabilities,https://github.com/advisories/GHSA-cc2w-ghc5-m5qr,https://da.gd/q8PhI
+GithubAdvisories,"[GHSA-2ffv-r4r9-r8xr] Laravel RCE vulnerability in ""cookie"" session driver",https://github.com/advisories/GHSA-2ffv-r4r9-r8xr,https://da.gd/aNgvB
+GithubAdvisories,[GHSA-q4xf-7fw5-4x8v] Laravel Hijacked authentication cookies vulnerability,https://github.com/advisories/GHSA-q4xf-7fw5-4x8v,https://da.gd/8T6Xg7
+GithubAdvisories,[GHSA-2gq2-m628-33xp] gregwar/rst Local File Inclusion Vulnerability,https://github.com/advisories/GHSA-2gq2-m628-33xp,https://da.gd/zfML8
+GithubAdvisories,"[GHSA-9gxv-x7rp-r2hc] gree/jose - ""None"" Algorithm treated as valid in tokens",https://github.com/advisories/GHSA-9gxv-x7rp-r2hc,https://da.gd/biwtMm
+GithubAdvisories,[GHSA-fgrx-4637-fcf5] fuel/core Crypt encryption compromised,https://github.com/advisories/GHSA-fgrx-4637-fcf5,https://da.gd/wkFpE
+GithubAdvisories,[GHSA-26hp-cgjj-m2j3] fuel/core ImageMagick driver does not escape all shell arguments,https://github.com/advisories/GHSA-26hp-cgjj-m2j3,https://da.gd/JRgnOz
+GithubAdvisories,[GHSA-8wx3-8m4x-g5h4] FOSUserBundle User Identity Validation Vulnerability,https://github.com/advisories/GHSA-8wx3-8m4x-g5h4,https://da.gd/tgp5Cj
+GithubAdvisories,[GHSA-6mjq-9x4w-m3w9] FOSUserBundle Session Hijacking Vulnerability,https://github.com/advisories/GHSA-6mjq-9x4w-m3w9,https://da.gd/UI9xq
+GithubAdvisories,[GHSA-pjx8-984p-7p3x] FOSUserBundle Entropy is lost in the TokenGenerator,https://github.com/advisories/GHSA-pjx8-984p-7p3x,https://da.gd/Lb6Jl
+GithubAdvisories,[GHSA-p9fg-j6ww-953m] FOSRestBundle issue with broken validation of JSONP callbacks,https://github.com/advisories/GHSA-p9fg-j6ww-953m,https://da.gd/A0I4Xa
+GithubAdvisories,[GHSA-xm3x-4ph3-3x9c] friendsofsymfony/oauth2-php open redirection in oauth,https://github.com/advisories/GHSA-xm3x-4ph3-3x9c,https://da.gd/xId6Wd
+GithubAdvisories,"[GHSA-h533-5v22-8vcp] firebase/php-jwt: ""None"" Algorithm treated as valid on tokens",https://github.com/advisories/GHSA-h533-5v22-8vcp,https://da.gd/cdQbtA
+GithubAdvisories,[GHSA-3g43-xfrw-pv5m] eZ Platform User data disclosure,https://github.com/advisories/GHSA-3g43-xfrw-pv5m,https://da.gd/VbNDZ
