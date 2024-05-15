@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9wv8-3h8h-x2wc] doctrine/doctrine-module zero-valued authentication credentials vulnerability,https://github.com/advisories/GHSA-9wv8-3h8h-x2wc,https://da.gd/trDcGh
+GithubAdvisories,[GHSA-76w8-mqx4-wjrf] Doctrine DBAL SQL injection possibility,https://github.com/advisories/GHSA-76w8-mqx4-wjrf,https://da.gd/uQ08q
+GithubAdvisories,[GHSA-qvgg-r6rq-vwfx] datadog/dd-trace Circumvents open_basedir INI directive,https://github.com/advisories/GHSA-qvgg-r6rq-vwfx,https://da.gd/QnULN
+GithubAdvisories,[GHSA-wq43-8r5p-w3mc] contao/core PHP object injection vulnerability allows for arbitrary code execution,https://github.com/advisories/GHSA-wq43-8r5p-w3mc,https://da.gd/P5YZVQ
+GithubAdvisories,[GHSA-wxxw-5gq6-j2g5] contao/core Insufficient input validation allows for code injection and remote execution,https://github.com/advisories/GHSA-wxxw-5gq6-j2g5,https://da.gd/PfyWc
