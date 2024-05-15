@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6mgp-v5cm-ghg5] Drupal core Remote Code Execution,https://github.com/advisories/GHSA-6mgp-v5cm-ghg5,https://da.gd/882uzP
+GithubAdvisories,[GHSA-gfvf-2f25-f34r] Drupal Anonymous Open Redirect,https://github.com/advisories/GHSA-gfvf-2f25-f34r,https://da.gd/05L4vH
+GithubAdvisories,[GHSA-7f4f-p7mq-p4fv] Drupal External URL injection through URL aliases leading to Open Redirect,https://github.com/advisories/GHSA-7f4f-p7mq-p4fv,https://da.gd/ZuhedX
+GithubAdvisories,[GHSA-f84q-mgj9-8jfc] Drupal Content moderation Access bypass,https://github.com/advisories/GHSA-f84q-mgj9-8jfc,https://da.gd/c7RT2Z
+GithubAdvisories,[GHSA-c7rm-w2hj-x8g3] Guard bypass in Eloquent models affecting Laravel illuminate database component,https://github.com/advisories/GHSA-c7rm-w2hj-x8g3,https://da.gd/AEPHC
+GithubAdvisories,[GHSA-vjrg-wpm8-rhrw] doctrine/orm Regression in Query Parenthesis can have Security Implications,https://github.com/advisories/GHSA-vjrg-wpm8-rhrw,https://da.gd/m5t3dj
+GithubAdvisories,[GHSA-6q9v-4hq6-5m67] Doctrine SQL injection vulnerability,https://github.com/advisories/GHSA-6q9v-4hq6-5m67,https://da.gd/qruLr
+GithubAdvisories,[GHSA-8fg7-hp93-qhvr] wolfictl leaks GitHub tokens to remote non-GitHub git servers,https://github.com/advisories/GHSA-8fg7-hp93-qhvr,https://da.gd/fSoj0
