@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f6mm-5fc7-3g3c] goreleaser shows environment by default,https://github.com/advisories/GHSA-f6mm-5fc7-3g3c,https://da.gd/7KN4I9
+GithubAdvisories,[GHSA-qjqg-4wg7-957h] azure-file-csi-driver leaks service account tokens in the logs,https://github.com/advisories/GHSA-qjqg-4wg7-957h,https://da.gd/1wX8p
+GithubAdvisories,[GHSA-f8v5-jmfh-pr69] Grav Vulnerable to Arbitrary File Read to Account Takeover,https://github.com/advisories/GHSA-f8v5-jmfh-pr69,https://da.gd/meXwt
+GithubAdvisories,[GHSA-x3wm-hffr-chwm] Amazon JDBC Driver for Redshift SQL Injection via line comment generation,https://github.com/advisories/GHSA-x3wm-hffr-chwm,https://da.gd/SExH4
+GithubAdvisories,[GHSA-v554-xwgw-hc3w] source-controller leaks Azure Storage SAS token into logs,https://github.com/advisories/GHSA-v554-xwgw-hc3w,https://da.gd/TKSxY6
