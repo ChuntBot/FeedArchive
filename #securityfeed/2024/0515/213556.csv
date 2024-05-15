@@ -1,0 +1,30 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w9p3-26fx-5mp3] eZ Platform Admin UI is vulnerable to Cross-site Scripting (XSS),https://github.com/advisories/GHSA-w9p3-26fx-5mp3,https://da.gd/bauB
+GithubAdvisories,[GHSA-39j2-4p9j-5w4j] Ez Platform Object Injection in legacy shop module,https://github.com/advisories/GHSA-39j2-4p9j-5w4j,https://da.gd/GpJNF4
+GithubAdvisories,[GHSA-9895-26wr-4fgv] EZsystems Remote code execution in file uploads,https://github.com/advisories/GHSA-9895-26wr-4fgv,https://da.gd/EoZ5B
+GithubAdvisories,[GHSA-pqjm-xcp8-wgmm] Ez Platform and Legacy are prone to an insecure interpretation of PHP/PHAR uploads,https://github.com/advisories/GHSA-pqjm-xcp8-wgmm,https://da.gd/9CHYcr
+GithubAdvisories,[GHSA-p9mp-vq4v-v5m5] eZ Publish Legacy Passwordless login for LDAP users,https://github.com/advisories/GHSA-p9mp-vq4v-v5m5,https://da.gd/BpioD
+GithubAdvisories,[GHSA-2vh3-cj9j-mcj5] eZ Publish Legacy Cross-site Scripting (XSS) in 'disabled module' error template,https://github.com/advisories/GHSA-2vh3-cj9j-mcj5,https://da.gd/nEHR6H
+GithubAdvisories,[GHSA-64vj-933f-6pm3] eZ Platform Object Injection in SiteAccessMatchListener,https://github.com/advisories/GHSA-64vj-933f-6pm3,https://da.gd/SplpCR
+GithubAdvisories,[GHSA-82rv-45pc-v28w] eZ Publish Legacy Patch EZSA-2018-001 for Several vulnerabilities,https://github.com/advisories/GHSA-82rv-45pc-v28w,https://da.gd/0OBB
+GithubAdvisories,[GHSA-cc2j-92jq-wgjg] eZ Publish Information disclosure in backend content tree menu,https://github.com/advisories/GHSA-cc2j-92jq-wgjg,https://da.gd/RTNl
+GithubAdvisories,[GHSA-3vwr-jj4f-h98x] eZ Publish Remote code execution in file uploads,https://github.com/advisories/GHSA-3vwr-jj4f-h98x,https://da.gd/qsYUz
+GithubAdvisories,[GHSA-qhjc-hg94-245v] eZ Platform Prevent accepting app.php in URL in Platform.sh,https://github.com/advisories/GHSA-qhjc-hg94-245v,https://da.gd/3lGOU
+GithubAdvisories,[GHSA-9wwx-c723-vm8x] eZ Platform REST API returns list of all SiteAccesses,https://github.com/advisories/GHSA-9wwx-c723-vm8x,https://da.gd/FPxkq
+GithubAdvisories,[GHSA-6xch-2vxx-5pvr] eZ Platform Rules to disable executable access are ignored on Platform.sh (eZ Cloud),https://github.com/advisories/GHSA-6xch-2vxx-5pvr,https://da.gd/p7wCS6
+GithubAdvisories,[GHSA-45qm-j4m9-whv9] eZ Platform CSRF token in login form is disabled by default,https://github.com/advisories/GHSA-45qm-j4m9-whv9,https://da.gd/mKINr
+GithubAdvisories,[GHSA-hfpp-2vhw-qq43] eZ Platform Admin UI Password reset vulnerability,https://github.com/advisories/GHSA-hfpp-2vhw-qq43,https://da.gd/E5HDZL
+GithubAdvisories,[GHSA-2w9p-xxqr-h253] eZ Platform Object Injection in SiteAccessMatchListener,https://github.com/advisories/GHSA-2w9p-xxqr-h253,https://da.gd/L3VXx
+GithubAdvisories,[GHSA-q73v-79x3-jv2w] eZ Platform Admin UI Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-q73v-79x3-jv2w,https://da.gd/Dd80G
+GithubAdvisories,[GHSA-cg84-55jx-4237] eZ Platform Password reset vulnerability,https://github.com/advisories/GHSA-cg84-55jx-4237,https://da.gd/g96F2
+GithubAdvisories,[GHSA-4c2w-v5rq-5mx7] eZ Platform Editor Cross-site Scripting (XSS),https://github.com/advisories/GHSA-4c2w-v5rq-5mx7,https://da.gd/AtKNW
+GithubAdvisories,[GHSA-jrpw-8884-2747] eZ Platform Bundled jQuery affected by CVE-2019-11358,https://github.com/advisories/GHSA-jrpw-8884-2747,https://da.gd/XzNM
+GithubAdvisories,[GHSA-9cq2-pcgr-8h62] Cross-site Scripting in eZFind spellcheck,https://github.com/advisories/GHSA-9cq2-pcgr-8h62,https://da.gd/tt4S
+GithubAdvisories,[GHSA-xmp3-7745-g4vj] ezsystems/ez-support-tools Failing access control in system info view,https://github.com/advisories/GHSA-xmp3-7745-g4vj,https://da.gd/sRX5F
+GithubAdvisories,[GHSA-8c85-4rr5-chr4] Cross-site Scripting (XSS) in DemoBundle/ezdemo bundled VideoJS,https://github.com/advisories/GHSA-8c85-4rr5-chr4,https://da.gd/GvNQb
+GithubAdvisories,[GHSA-jq9q-6p42-qpr7] Cross-site Scripting (XSS) in DemoBundle/ezdemo bundled VideoJS,https://github.com/advisories/GHSA-jq9q-6p42-qpr7,https://da.gd/mJCcT
+GithubAdvisories,[GHSA-mvf6-3f2g-xfxf] endroid/qr-code-bundle File Disclosure via logo_path query parameter,https://github.com/advisories/GHSA-mvf6-3f2g-xfxf,https://da.gd/O0v4w
+GithubAdvisories,[GHSA-rc8q-45v8-x6xc] Path Disclosure within joomla/filesystem class,https://github.com/advisories/GHSA-rc8q-45v8-x6xc,https://da.gd/hdMr
+GithubAdvisories,[GHSA-jm67-jh3g-cg3f] Path Traversal within joomla/archive tar class,https://github.com/advisories/GHSA-jm67-jh3g-cg3f,https://da.gd/nlS2Tn
+GithubAdvisories,[GHSA-49fj-qp6p-q544] Variable Tampering within joomla/input class,https://github.com/advisories/GHSA-49fj-qp6p-q544,https://da.gd/42MXp
+GithubAdvisories,[GHSA-qcv6-h33g-hvrc] Cross-site Scripting (XSS) within joomla/filter class,https://github.com/advisories/GHSA-qcv6-h33g-hvrc,https://da.gd/0A1LV8
