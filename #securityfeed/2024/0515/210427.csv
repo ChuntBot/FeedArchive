@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qf65-hph9-453r] Drupal Cross-Site Scripting (XSS) affecting CKEditor Third-party library,https://github.com/advisories/GHSA-qf65-hph9-453r,https://da.gd/fwDPNC
+GithubAdvisories,[GHSA-j66p-fvp2-fxhj] Drupal core Arbitrary PHP code execution,https://github.com/advisories/GHSA-j66p-fvp2-fxhj,https://da.gd/A2pYz
+GithubAdvisories,[GHSA-337w-fxpq-5m34] Drupal core uses a vulnerable Third-party library CKEditor,https://github.com/advisories/GHSA-337w-fxpq-5m34,https://da.gd/qdBD1
+GithubAdvisories,[GHSA-wxfg-253g-m7r4] Drupal core Open Redirect vulnerability,https://github.com/advisories/GHSA-wxfg-253g-m7r4,https://da.gd/5aFcW
+GithubAdvisories,[GHSA-m9fv-whq2-6wmc] Drupal core Multiple vulnerabilities due to the use of the third-party library Archive_Tar,https://github.com/advisories/GHSA-m9fv-whq2-6wmc,https://da.gd/zUZU
+GithubAdvisories,[GHSA-5x28-3f32-x523] Drupal core Access control bypass,https://github.com/advisories/GHSA-5x28-3f32-x523,https://da.gd/cxj4xx
+GithubAdvisories,[GHSA-w333-5f96-mjrr] Drupal core Denial of Service,https://github.com/advisories/GHSA-w333-5f96-mjrr,https://da.gd/J2Elq
+GithubAdvisories,[GHSA-jf8c-36vw-98x4] Drupal core Remote Code Execution,https://github.com/advisories/GHSA-jf8c-36vw-98x4,https://da.gd/JWz6
+GithubAdvisories,[GHSA-jjx7-8462-w4m4] Drupal Core Insufficient Contextual Links validation leads to Remote Code Execution,https://github.com/advisories/GHSA-jjx7-8462-w4m4,https://da.gd/BCol
+GithubAdvisories,[GHSA-58xv-7h9r-mx3c] Drupal Malicious file upload with filenames stating with dot,https://github.com/advisories/GHSA-58xv-7h9r-mx3c,https://da.gd/bm1by
+GithubAdvisories,[GHSA-x6v2-xmrq-574j] Drupal Anonymous Open Redirect,https://github.com/advisories/GHSA-x6v2-xmrq-574j,https://da.gd/era5fE
+GithubAdvisories,[GHSA-86xw-vmcx-9mj4] Drupal Content moderation Access bypass,https://github.com/advisories/GHSA-86xw-vmcx-9mj4,https://da.gd/M7M27
+GithubAdvisories,[GHSA-r67r-42wx-c8r7] Drupal External URL injection through URL aliases leading to Open Redirect,https://github.com/advisories/GHSA-r67r-42wx-c8r7,https://da.gd/t6tTib
+GithubAdvisories,[GHSA-c533-c843-67h8] Drupal core Cross-site Scripting (XSS) vulnerability in ckeditor,https://github.com/advisories/GHSA-c533-c843-67h8,https://da.gd/NDDvNu
+GithubAdvisories,[GHSA-vfgc-c76h-mwh4] Drupal core Cross-Site Scripting (XSS) vulnerabilities,https://github.com/advisories/GHSA-vfgc-c76h-mwh4,https://da.gd/zRGeF
+GithubAdvisories,[GHSA-gxxj-g9v8-w28p] Drupal core Arbitrary PHP code execution,https://github.com/advisories/GHSA-gxxj-g9v8-w28p,https://da.gd/edOizR
+GithubAdvisories,[GHSA-6gf6-24h2-66j4] Drupal core Open Redirect vulnerability,https://github.com/advisories/GHSA-6gf6-24h2-66j4,https://da.gd/gDiRs
+GithubAdvisories,[GHSA-v273-j5hq-26xp] Drupal core uses a vulnerable Third-party library CKEditor,https://github.com/advisories/GHSA-v273-j5hq-26xp,https://da.gd/sM5nF
+GithubAdvisories,[GHSA-98h9-727m-44qv] Drupal core Multiple vulnerabilities due to the use of the third-party library Archive_Tar,https://github.com/advisories/GHSA-98h9-727m-44qv,https://da.gd/vAcWlC
+GithubAdvisories,[GHSA-mh4h-27gq-cxwj] Drupal core Access bypass,https://github.com/advisories/GHSA-mh4h-27gq-cxwj,https://da.gd/ondUXB
+GithubAdvisories,[GHSA-7gwj-7fhm-vw4w] Drupal core unrestricted file upload,https://github.com/advisories/GHSA-7gwj-7fhm-vw4w,https://da.gd/20Dlj
+GithubAdvisories,[GHSA-pr99-c33p-fwf6] Drupal core Denial of Service,https://github.com/advisories/GHSA-pr99-c33p-fwf6,https://da.gd/ccFApo
+GithubAdvisories,[GHSA-7v68-3pr5-h3cr] Drupal Core Insufficient Contextual Links validation leads to Remote Code Execution,https://github.com/advisories/GHSA-7v68-3pr5-h3cr,https://da.gd/mAkx
