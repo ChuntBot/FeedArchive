@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p8gw-x2p7-vc73] Magento Stored cross-site scripting in admin panel,https://github.com/advisories/GHSA-p8gw-x2p7-vc73,https://da.gd/dqYD
+GithubAdvisories,"[GHSA-8j7c-682x-r9f2] Magento RCE,XSS and other vulnerabilities",https://github.com/advisories/GHSA-8j7c-682x-r9f2,https://da.gd/fQqoX
+GithubAdvisories,[GHSA-mcfc-67vm-j568] Magento Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-mcfc-67vm-j568,https://da.gd/STD1vU
+GithubAdvisories,"[GHSA-5gmh-85x8-5cx7] Magento remote code execution (RCE), Cross-Site Scripting (XSS) and other vulnerabilities",https://github.com/advisories/GHSA-5gmh-85x8-5cx7,https://da.gd/duw3M
+GithubAdvisories,[GHSA-cv25-3pxr-4q7x] Magento Open Source Security Advisory: Patch SUPEE-10975,https://github.com/advisories/GHSA-cv25-3pxr-4q7x,https://da.gd/FeGPeb
+GithubAdvisories,[GHSA-26hq-7286-mg8f] Magento Patch SUPEE-9652 - Remote Code Execution using mail vulnerability,https://github.com/advisories/GHSA-26hq-7286-mg8f,https://da.gd/sm6eyi
+GithubAdvisories,"[GHSA-6wm4-3rjj-c8xx] Magento Security enhancements that help close RCE,XSS,CSRF and other vulnerabilities",https://github.com/advisories/GHSA-6wm4-3rjj-c8xx,https://da.gd/YYeYW
+GithubAdvisories,[GHSA-prpf-cj87-hwvr] Magento Patch SUPEE-10752 - Multiple security enhancements vulnerabilities,https://github.com/advisories/GHSA-prpf-cj87-hwvr,https://da.gd/YlfG2z
+GithubAdvisories,[GHSA-qwvp-268g-jjm8] Data Leakage Vulnerability in livewire/livewire,https://github.com/advisories/GHSA-qwvp-268g-jjm8,https://da.gd/vfOgm
+GithubAdvisories,[GHSA-h97c-qp24-439v] Insecure State Generation in laravel/socialite,https://github.com/advisories/GHSA-h97c-qp24-439v,https://da.gd/8BgQ
+GithubAdvisories,[GHSA-7fjv-25q9-2w88] State Guessing Vulnerability in laravel/socialite,https://github.com/advisories/GHSA-7fjv-25q9-2w88,https://da.gd/d2rMp
+GithubAdvisories,[GHSA-wq8p-mqvg-2p5h] laravel framework SQL Injection via limit and offset functions,https://github.com/advisories/GHSA-wq8p-mqvg-2p5h,https://da.gd/7sN53
+GithubAdvisories,[GHSA-jwvj-pwww-3mj5] laravel framework Unexpected database bindings via requests,https://github.com/advisories/GHSA-jwvj-pwww-3mj5,https://da.gd/mKgwt6
+GithubAdvisories,[GHSA-44pg-c29v-hp6r] Laravel Guard bypass in Eloquent models,https://github.com/advisories/GHSA-44pg-c29v-hp6r,https://da.gd/UE4AT7
+GithubAdvisories,"[GHSA-qm5c-m76r-2hfr] Laravel RCE vulnerability in ""cookie"" session driver",https://github.com/advisories/GHSA-qm5c-m76r-2hfr,https://da.gd/NOHNyw
+GithubAdvisories,[GHSA-vr95-p7q6-8m9q] Laravel Cross-site Scripting (XSS) vulnerability in blade templating,https://github.com/advisories/GHSA-vr95-p7q6-8m9q,https://da.gd/QMRX5A
+GithubAdvisories,[GHSA-6jvx-8ch9-j2jr] Laravel Cookie serialization vulnerability,https://github.com/advisories/GHSA-6jvx-8ch9-j2jr,https://da.gd/n5f7d
+GithubAdvisories,[GHSA-7852-w36x-6mf6] Laravel Encrypter Component Potential Decryption Failure Leading to Unintended Behavior,https://github.com/advisories/GHSA-7852-w36x-6mf6,https://da.gd/zVCDd
+GithubAdvisories,[GHSA-p62r-7637-3wwc] Laravel Hijacked authentication cookies vulnerability,https://github.com/advisories/GHSA-p62r-7637-3wwc,https://da.gd/hD63Kf
