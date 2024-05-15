@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-42j4-733x-5vcf] Regular expression denial of service (ReDoS) in EmailValidator class in Vaadin 7,https://github.com/advisories/GHSA-42j4-733x-5vcf,https://da.gd/gNp2j
