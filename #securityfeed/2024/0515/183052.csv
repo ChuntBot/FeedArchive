@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mpg7-2rx9-h5qp] Contao Cross-site Scripting vulnerabililty,https://github.com/advisories/GHSA-mpg7-2rx9-h5qp,https://da.gd/yNgVr2
+GithubAdvisories,[GHSA-x42g-82pp-4v6g] Magento SQL injection vulnerability,https://github.com/advisories/GHSA-x42g-82pp-4v6g,https://da.gd/wz9s
+GithubAdvisories,[GHSA-27qr-636m-wxg2] codeigniter/framework SQL injection in ODBC database driver,https://github.com/advisories/GHSA-27qr-636m-wxg2,https://da.gd/ILTUdW
+GithubAdvisories,[GHSA-q9j3-4ghj-6h57] Inadequate XSS Prevention in CodeIgniter/Framework Security Library,https://github.com/advisories/GHSA-q9j3-4ghj-6h57,https://da.gd/ghZ6X
+GithubAdvisories,[GHSA-2m5g-8xpw-42vp] OpenCFP Framework (Sentry) Account takeover via null password reset codes,https://github.com/advisories/GHSA-2m5g-8xpw-42vp,https://da.gd/CJzyq
+GithubAdvisories,[GHSA-pgj4-g5j4-cmfx] cart2quote/module-quotation-encoded Remote Code Execution via downloadCustomOptionAction,https://github.com/advisories/GHSA-pgj4-g5j4-cmfx,https://da.gd/eLaRd8
+GithubAdvisories,"[GHSA-4cv2-xc5f-px8h] Denial of Service in extension ""Code Highlight"" (codehighlight)",https://github.com/advisories/GHSA-4cv2-xc5f-px8h,https://da.gd/mBfmfZ
+GithubAdvisories,"[GHSA-65xh-hh78-6454] Denial of Service in extension ""Code Highlight"" (codehighlight)",https://github.com/advisories/GHSA-65xh-hh78-6454,https://da.gd/1zINv4
