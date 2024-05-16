@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3783-62vc-jr7x] ConsoleMe has an Arbitrary File Read Vulnerability via Limited Git command,https://github.com/advisories/GHSA-3783-62vc-jr7x,https://da.gd/kWejK
