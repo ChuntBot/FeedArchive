@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x8xm-wrjq-5g54] Stakater Forecastle has a directory traversal vulnerability,https://github.com/advisories/GHSA-x8xm-wrjq-5g54,https://da.gd/idbKb1
+GithubAdvisories,[GHSA-rfqq-wq6w-72jm] MLflow has a Local File Read/Path Traversal bypass,https://github.com/advisories/GHSA-rfqq-wq6w-72jm,https://da.gd/LXTRY
+GithubAdvisories,[GHSA-p4jx-q62p-x5jr] MLflow allows low privilege users to delete any artifact,https://github.com/advisories/GHSA-p4jx-q62p-x5jr,https://da.gd/NUq7
+GithubAdvisories,[GHSA-cqh9-jfqr-h9jj] Weights and Biases (wandb) has a Server-Side Request Forgery (SSRF) vulnerability,https://github.com/advisories/GHSA-cqh9-jfqr-h9jj,https://da.gd/TItCmb
+GithubAdvisories,[GHSA-fjw8-3gp8-4cvx] Denial of service of Minder Server with attacker-controlled REST endpoint,https://github.com/advisories/GHSA-fjw8-3gp8-4cvx,https://da.gd/DOkO
+GithubAdvisories,[GHSA-vg3r-rm7w-2xgh] REXML contains a denial of service vulnerability,https://github.com/advisories/GHSA-vg3r-rm7w-2xgh,https://da.gd/lUe7
