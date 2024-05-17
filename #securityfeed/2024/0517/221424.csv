@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rqvj-fc2x-99q6] OATHAuth extension in MediaWiki is not implementing rate limit,https://github.com/advisories/GHSA-rqvj-fc2x-99q6,https://da.gd/YmRjl
+GithubAdvisories,[GHSA-c4rj-wrmq-52rj] MediaWiki Special:UserRights exposes the existence of hidden users,https://github.com/advisories/GHSA-c4rj-wrmq-52rj,https://da.gd/TgMOc
+GithubAdvisories,[GHSA-2f58-vf6g-6p8x] MediaWiki Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-2f58-vf6g-6p8x,https://da.gd/O2Kd8e
+GithubAdvisories,[GHSA-h8qx-mj6v-2934] MediaWiki Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-h8qx-mj6v-2934,https://da.gd/6zjxq
+GithubAdvisories,[GHSA-4vr7-m8p8-434h] MediaWiki Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-4vr7-m8p8-434h,https://da.gd/JvTreR
+GithubAdvisories,[GHSA-rj9p-8jxj-2ch4] MediaWiki Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-rj9p-8jxj-2ch4,https://da.gd/yKdlIl
