@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2rhx-qhxp-5jpw] Submariner Operator sets unnecessary RBAC permissions in helm charts,https://github.com/advisories/GHSA-2rhx-qhxp-5jpw,https://da.gd/UjQRc2
