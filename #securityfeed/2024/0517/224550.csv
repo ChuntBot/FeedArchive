@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7h74-7vcw-4mwp] Insecure deserialize Vulnerability in FLOW3,https://github.com/advisories/GHSA-7h74-7vcw-4mwp,https://da.gd/CMyZsN
+GithubAdvisories,[GHSA-4rr6-gf59-ggw5] namshi/jose - Verification bypass,https://github.com/advisories/GHSA-4rr6-gf59-ggw5,https://da.gd/bwmgih
+GithubAdvisories,[GHSA-hxhc-wmg8-xrqf] namshi/jose insecure JSON Web Signatures (JWS),https://github.com/advisories/GHSA-hxhc-wmg8-xrqf,https://da.gd/3NOM4
+GithubAdvisories,[GHSA-j2fp-9wp5-mg66] Passbolt API is vulnerable to XSS in the url field on the password workspace grid and sidebar,https://github.com/advisories/GHSA-j2fp-9wp5-mg66,https://da.gd/lJ6e
