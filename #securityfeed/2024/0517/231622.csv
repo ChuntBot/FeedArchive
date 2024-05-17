@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g48f-pgwh-wwxx] onelogin/php-saml signature wrapping attacks,https://github.com/advisories/GHSA-g48f-pgwh-wwxx,https://da.gd/XaZuL
+GithubAdvisories,[GHSA-9wrw-p9rm-r782] onelogin/php-saml Improper signature validation on LogoutRequest/LogoutResponse,https://github.com/advisories/GHSA-9wrw-p9rm-r782,https://da.gd/rdMKg
+GithubAdvisories,[GHSA-r2r8-36pq-27cm] nzo/url-encryptor-bundle Insecure default secret key and IV allowing anyone to decrypt values,https://github.com/advisories/GHSA-r2r8-36pq-27cm,https://da.gd/B5Yjs
+GithubAdvisories,[GHSA-rq6q-hjvh-5mwh] Flow Swift Mailer package Remote code execution,https://github.com/advisories/GHSA-rq6q-hjvh-5mwh,https://da.gd/JmNUo
+GithubAdvisories,[GHSA-6cj3-rc4p-f38f] Cross-site Scripting vulnerabilities in Neos,https://github.com/advisories/GHSA-6cj3-rc4p-f38f,https://da.gd/w013Ek
+GithubAdvisories,[GHSA-43cf-7f3h-38rg] Privilege Escalation in TYPO3 Neos,https://github.com/advisories/GHSA-43cf-7f3h-38rg,https://da.gd/O4JVa
+GithubAdvisories,[GHSA-6pq8-67pw-j6hw] Time-Based Information Disclosure Vulnerability in Flow,https://github.com/advisories/GHSA-6pq8-67pw-j6hw,https://da.gd/aqQZF
+GithubAdvisories,[GHSA-3c5g-73f7-grvm] Neos Information Disclosure Security Note,https://github.com/advisories/GHSA-3c5g-73f7-grvm,https://da.gd/L8xMs
+GithubAdvisories,[GHSA-9cw3-j7wg-jwj8] Neos Flow Information disclosure in entity security,https://github.com/advisories/GHSA-9cw3-j7wg-jwj8,https://da.gd/JYFv7
+GithubAdvisories,[GHSA-5vv7-j593-mgjc] Neos Flow Arbitrary file upload and XML External Entity processing,https://github.com/advisories/GHSA-5vv7-j593-mgjc,https://da.gd/pinUw
