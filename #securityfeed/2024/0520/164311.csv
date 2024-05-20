@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7ggm-4rjg-594w] litellm passes untrusted data to `eval` function without sanitization,https://github.com/advisories/GHSA-7ggm-4rjg-594w,https://da.gd/iOAkF
+GithubAdvisories,"[GHSA-c96h-cxx6-rmg9] Tor path lengths too short when ""full Vanguards"" configured",https://github.com/advisories/GHSA-c96h-cxx6-rmg9,https://da.gd/7XBD
+GithubAdvisories,[GHSA-9328-gcfq-p269] Tor Arti's STUB circuits incorrectly have a length of 2,https://github.com/advisories/GHSA-9328-gcfq-p269,https://da.gd/9CwGE
