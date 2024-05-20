@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xcq4-m2r3-cmrj] Trivy possibly leaks registry credential when scanning images from malicious registries,https://github.com/advisories/GHSA-xcq4-m2r3-cmrj,https://da.gd/jhGKcH
+GithubAdvisories,[GHSA-v45m-hxqp-fwf5] verbb/formie Server-Side Template Injection for variable-enabled settings,https://github.com/advisories/GHSA-v45m-hxqp-fwf5,https://da.gd/Qt5oO
+GithubAdvisories,[GHSA-cg34-w3fm-82h3] Duplicate Advisory: Scrapy leaks the authorization header on same-domain but cross-origin redirects,https://github.com/advisories/GHSA-cg34-w3fm-82h3,https://da.gd/xp7sSk
+GithubAdvisories,[GHSA-9wx4-h78v-vm56] Requests `Session` object does not verify requests after making first request with verify=False,https://github.com/advisories/GHSA-9wx4-h78v-vm56,https://da.gd/cTACU4
