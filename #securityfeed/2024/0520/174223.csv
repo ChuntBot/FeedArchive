@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7g7c-qhf3-x59p] propel/propel1 SQL injection possible with limit() on MySQL,https://github.com/advisories/GHSA-7g7c-qhf3-x59p,https://da.gd/5r50
+GithubAdvisories,[GHSA-7vw7-qx38-37vr] Propel2 SQL injection possible with limit() on MySQL,https://github.com/advisories/GHSA-7vw7-qx38-37vr,https://da.gd/TT80kg
+GithubAdvisories,[GHSA-ww6p-q26w-fr6m] phpxmlrpc/extra XSS in class documenting_xmlrpc_server,https://github.com/advisories/GHSA-ww6p-q26w-fr6m,https://da.gd/To27Ad
