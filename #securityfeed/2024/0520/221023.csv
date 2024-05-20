@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2j6r-9vv4-6gf5] github.com/bincyber/go-sqlcrypter vulnerable to IV collision,https://github.com/advisories/GHSA-2j6r-9vv4-6gf5,https://da.gd/JGJKh
+GithubAdvisories,"[GHSA-qjcv-rx3v-7mvj] github.com/cosmos/ibc-go affected by IBC protocol ""Huckleberry"" vulnerability",https://github.com/advisories/GHSA-qjcv-rx3v-7mvj,https://da.gd/OZkQsh
