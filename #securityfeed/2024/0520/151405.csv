@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wgjv-9j3q-jhg8] aiosmtpd STARTTLS unencrypted commands injection,https://github.com/advisories/GHSA-wgjv-9j3q-jhg8,https://da.gd/O5M2
+GithubAdvisories,[GHSA-qxqf-2mfx-x8jw] veraPDF has potential XSLT injection vulnerability when using policy files,https://github.com/advisories/GHSA-qxqf-2mfx-x8jw,https://da.gd/VFHeME
