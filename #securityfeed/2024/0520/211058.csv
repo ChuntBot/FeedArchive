@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5f97-h2c2-826q] json-schema-ref-parser Prototype Pollution issue,https://github.com/advisories/GHSA-5f97-h2c2-826q,https://da.gd/Xo78
+GithubAdvisories,[GHSA-8vr4-h4rr-8ph6] MiguelCastillo @bit/loader Prototype Pollution issue,https://github.com/advisories/GHSA-8vr4-h4rr-8ph6,https://da.gd/m8pYST
+GithubAdvisories,[GHSA-g3q2-vcjq-rgrc] Blackprint @blackprint/engine Prototype Pollution issue,https://github.com/advisories/GHSA-g3q2-vcjq-rgrc,https://da.gd/3kVGO
+GithubAdvisories,[GHSA-crgc-2583-rw27] Stacklok Minder vulnerable to denial of service from maliciously crafted templates,https://github.com/advisories/GHSA-crgc-2583-rw27,https://da.gd/K8ni0
