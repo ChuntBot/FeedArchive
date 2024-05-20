@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-qm5v-pj64-852j] Passbolt Api Tabnabbing when opening URI with menu ""Open URI in a new tab""",https://github.com/advisories/GHSA-qm5v-pj64-852j,https://da.gd/H9Pzuf
+GithubAdvisories,[GHSA-2f46-4xjm-73x5] Passbolt API Stored XSS on first/last name during setup,https://github.com/advisories/GHSA-2f46-4xjm-73x5,https://da.gd/PIZue
+GithubAdvisories,[GHSA-cv5c-2qv5-w2m2] Passbolt Api Remote code execution,https://github.com/advisories/GHSA-cv5c-2qv5-w2m2,https://da.gd/K4AekV
+GithubAdvisories,[GHSA-f5pp-pmq8-gp46] Passbolt Api Retrieval of HTTP-only cookies,https://github.com/advisories/GHSA-f5pp-pmq8-gp46,https://da.gd/2iSIt
+GithubAdvisories,[GHSA-v86m-j5f7-ccwh] Passbolt Api E-mail HTML injection,https://github.com/advisories/GHSA-v86m-j5f7-ccwh,https://da.gd/2xTTR
