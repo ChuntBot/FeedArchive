@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,"*Technical blog post alert* In this post we share our considerations behind the Vault architecture. The architecture uses the principle of separating control and data functionality to support enhanced scalability and high throughput, high data volume, and low latency",https://redd.it/1cx1wws,
