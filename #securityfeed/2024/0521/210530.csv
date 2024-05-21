@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-83jv-4prm-34g7] Shopware Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-83jv-4prm-34g7,https://da.gd/EDauT
+GithubAdvisories,[GHSA-7336-ghhp-f2qj] Shopware Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-7336-ghhp-f2qj,https://da.gd/15IyK
+GithubAdvisories,[GHSA-jqr7-5h7r-ch8p] Shopware Non-Persistent XSS in the Frontend,https://github.com/advisories/GHSA-jqr7-5h7r-ch8p,https://da.gd/Sl9Tr9
