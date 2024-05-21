@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6wqp-7g94-f69j] sensiolabs/connect has a Cross-Site Request Forgery Vulnerability,https://github.com/advisories/GHSA-6wqp-7g94-f69j,https://da.gd/X9W4r
+GithubAdvisories,[GHSA-9phw-7h96-q3rv] scheb/two-factor-bundle bypass two-factor authentication with remember-me option,https://github.com/advisories/GHSA-9phw-7h96-q3rv,https://da.gd/2W6UV9
+GithubAdvisories,[GHSA-h6mp-mc7g-mg49] scheb/two-factor-bundle bypass two-factor authentication with unverified JWT trusted device token,https://github.com/advisories/GHSA-h6mp-mc7g-mg49,https://da.gd/tGgVQ
+GithubAdvisories,[GHSA-pj27-2xvp-4qxg] @fastify/session reuses destroyed session cookie,https://github.com/advisories/GHSA-pj27-2xvp-4qxg,https://da.gd/JcLsBM
+GithubAdvisories,[GHSA-9766-5277-j5hr] ArgoCD Vulnerable to Use of Risky or Missing Cryptographic Algorithms in Redis Cache,https://github.com/advisories/GHSA-9766-5277-j5hr,https://da.gd/4vH788
