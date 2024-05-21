@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3rcq-39xp-7xjp] ic-stable-structures vulnerable to BTreeMap memory leak when deallocating nodes with overflows,https://github.com/advisories/GHSA-3rcq-39xp-7xjp,https://da.gd/xpsa
+GithubAdvisories,[GHSA-gvpc-3pj6-4m9w] Umbraco CMS Vulnerable to Stored XSS on Content Page Through Markdown Editor Preview Pane,https://github.com/advisories/GHSA-gvpc-3pj6-4m9w,https://da.gd/QDgAso
+GithubAdvisories,[GHSA-48cq-79qq-6f7x] Gradio applications running locally vulnerable to 3rd party websites accessing routes and uploading files,https://github.com/advisories/GHSA-48cq-79qq-6f7x,https://da.gd/VsrfUs
+GithubAdvisories,[GHSA-vr85-5pwx-c6gq] OMERO.web must check that the JSONP callback is a valid function,https://github.com/advisories/GHSA-vr85-5pwx-c6gq,https://da.gd/7Y6KPy
