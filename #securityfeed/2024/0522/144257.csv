@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jqff-8g2v-642h] NASA AIT-Core vulnerable to remote code execution,https://github.com/advisories/GHSA-jqff-8g2v-642h,https://da.gd/xKWd
+GithubAdvisories,[GHSA-49jc-r788-3fc9] gix refs and paths with reserved Windows device names access the devices,https://github.com/advisories/GHSA-49jc-r788-3fc9,https://da.gd/YpuOLF
