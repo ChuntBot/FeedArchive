@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7w47-3wg8-547c] gix traversal outside working tree enables arbitrary code execution,https://github.com/advisories/GHSA-7w47-3wg8-547c,https://da.gd/ZGMHFf
