@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9rrw-82r2-623p] Silverpeas Core vulnerable to Cross Site Scripting,https://github.com/advisories/GHSA-9rrw-82r2-623p,https://da.gd/DNDLvm
+GithubAdvisories,[GHSA-xgwh-cgv9-783v] Ghost allows CVS Injection during member CSV export,https://github.com/advisories/GHSA-xgwh-cgv9-783v,https://da.gd/vk5SKv
+GithubAdvisories,[GHSA-qv6x-53jj-vw59] NASA AIT-Core uses unencrypted channels to exchange data over the network,https://github.com/advisories/GHSA-qv6x-53jj-vw59,https://da.gd/0rs0eT
+GithubAdvisories,[GHSA-q9ff-3q93-fm8m] SilverStripe Web Cache Poisoning through HTTPRequestBuilder,https://github.com/advisories/GHSA-q9ff-3q93-fm8m,https://da.gd/nvYkN
