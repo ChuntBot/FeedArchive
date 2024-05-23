@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-97jm-g33h-f46g] silverstripe/framework ReadOnly transformation for formfields exploitable,https://github.com/advisories/GHSA-97jm-g33h-f46g,https://da.gd/xKW12
+GithubAdvisories,[GHSA-mpqj-f4v3-334h] Silverstripe Cross-site scripting vulnerability in VersionedRequestFilter,https://github.com/advisories/GHSA-mpqj-f4v3-334h,https://da.gd/Xk1c
+GithubAdvisories,[GHSA-vj2j-6g3w-4662] Silverstripe Missing CSRF protection in login form,https://github.com/advisories/GHSA-vj2j-6g3w-4662,https://da.gd/VG7Zk8
+GithubAdvisories,[GHSA-8v6m-7f5v-hhx6] Silverstripe Brute force bypass on default admin,https://github.com/advisories/GHSA-8v6m-7f5v-hhx6,https://da.gd/p5b4Z
+GithubAdvisories,[GHSA-m8v7-x398-pxrf] Silverstripe XSS in CMS Edit Page,https://github.com/advisories/GHSA-m8v7-x398-pxrf,https://da.gd/FLsHr
