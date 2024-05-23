@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-87pf-7x99-5xc4] Silverstripe Hostname, IP and Protocol Spoofing through HTTP Headers",https://github.com/advisories/GHSA-87pf-7x99-5xc4,https://da.gd/7QBY
+GithubAdvisories,[GHSA-2hpc-mf4q-j885] Silverstripe CSRF vulnerability in GridFieldAddExistingAutocompleter,https://github.com/advisories/GHSA-2hpc-mf4q-j885,https://da.gd/r7wnN
+GithubAdvisories,[GHSA-x5w2-wcr8-9q45] Silverstripe Missing security check on dev/build/defaults,https://github.com/advisories/GHSA-x5w2-wcr8-9q45,https://da.gd/AfbeF
