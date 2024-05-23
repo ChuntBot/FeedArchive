@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-25gq-jvx2-vg9x] Silverstripe X-Forwarded-Host request hostname injection,https://github.com/advisories/GHSA-25gq-jvx2-vg9x,https://da.gd/JLImE
+GithubAdvisories,[GHSA-jqp8-v74p-g8px] Silverstripe XSS in Director::force_redirect(),https://github.com/advisories/GHSA-jqp8-v74p-g8px,https://da.gd/dAWUe
