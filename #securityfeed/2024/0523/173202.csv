@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mqf5-275h-gf6r] Silverstripe framework is vulnerable to XSS in install.php,https://github.com/advisories/GHSA-mqf5-275h-gf6r,https://da.gd/NDnnCT
+GithubAdvisories,"[GHSA-g4hp-pfvf-vm5w] SilverStripe Vulnerability on 'isDev', 'isTest' and 'flush' $_GET validation",https://github.com/advisories/GHSA-g4hp-pfvf-vm5w,https://da.gd/odRH
+GithubAdvisories,[GHSA-hq4p-5mpr-jj9m] Silverstripe XSS in dev/build returnURL Parameter,https://github.com/advisories/GHSA-hq4p-5mpr-jj9m,https://da.gd/GllsT
+GithubAdvisories,[GHSA-vp8p-c6xj-xpj7] Silverstripe External redirection risk in Security?ReturnURL,https://github.com/advisories/GHSA-vp8p-c6xj-xpj7,https://da.gd/9yROE
