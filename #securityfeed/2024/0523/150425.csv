@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-88jp-9jrv-6368] Silverstripe XSS In GridField print,https://github.com/advisories/GHSA-88jp-9jrv-6368,https://da.gd/z16Vu
+GithubAdvisories,[GHSA-r32j-mr8p-hfp8] Silverstripe XSS in TreeDropdownField and TreeMultiSelectField,https://github.com/advisories/GHSA-r32j-mr8p-hfp8,https://da.gd/XDVS7W
+GithubAdvisories,[GHSA-g43w-98wp-m694] SilverStripe framework XML Quadratic Blowup Attack,https://github.com/advisories/GHSA-g43w-98wp-m694,https://da.gd/FV5t1b
+GithubAdvisories,[GHSA-5f5v-5c3v-gw5v] Silverstripe IE requests not properly behaving with rewritehashlinks,https://github.com/advisories/GHSA-5f5v-5c3v-gw5v,https://da.gd/NbLFNC
+GithubAdvisories,[GHSA-w8fq-xgvh-cxc2] Silverstripe Forum Module CSRF Vulnerability,https://github.com/advisories/GHSA-w8fq-xgvh-cxc2,https://da.gd/qcW5w
