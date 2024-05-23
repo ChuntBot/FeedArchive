@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4h54-vwx9-3vr3] Silverstripe XSS In FormAction,https://github.com/advisories/GHSA-4h54-vwx9-3vr3,https://da.gd/gjwU5N
+GithubAdvisories,[GHSA-34q6-xqxh-gq39] Silverstripe XSS In rewritten hash links,https://github.com/advisories/GHSA-34q6-xqxh-gq39,https://da.gd/n3jhQo
+GithubAdvisories,[GHSA-f7cq-5v43-8pwp] Traefik vulnerable to GO issue allowing malformed DNS message to cause infinite loop,https://github.com/advisories/GHSA-f7cq-5v43-8pwp,https://da.gd/hE6t
