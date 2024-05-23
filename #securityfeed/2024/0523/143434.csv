@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hjfc-6jxr-j2rx] Eclipse Ditto vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-hjfc-6jxr-j2rx,https://da.gd/fo4Uo
+GithubAdvisories,[GHSA-wx24-vqrg-m6m5] VuFind Server-Side Request Forgery (SSRF) vulnerability,https://github.com/advisories/GHSA-wx24-vqrg-m6m5,https://da.gd/RO8XD
+GithubAdvisories,[GHSA-fwhc-mm9q-mqq8] VuFind Server-Side Request Forgery (SSRF) vulnerability,https://github.com/advisories/GHSA-fwhc-mm9q-mqq8,https://da.gd/74Sk
+GithubAdvisories,[GHSA-57fm-592m-34r7] iFrames Bypass Origin Checks for Tauri API Access Control,https://github.com/advisories/GHSA-57fm-592m-34r7,https://da.gd/v26Zx5
