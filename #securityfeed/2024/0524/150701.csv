@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q8x7-jc3h-p8xc] Dolibarr vulnerable to SQL Injection,https://github.com/advisories/GHSA-q8x7-jc3h-p8xc,https://da.gd/JKMjTd
+GithubAdvisories,[GHSA-c3h9-q3jx-w7fc] Dolibarr vulnerable to SQL Injection,https://github.com/advisories/GHSA-c3h9-q3jx-w7fc,https://da.gd/DphK
+GithubAdvisories,[GHSA-2qjp-fg8c-g878] vxe-table Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-2qjp-fg8c-g878,https://da.gd/wHELv
+GithubAdvisories,[GHSA-3965-hpx2-q597] Pug allows JavaScript code execution if an application accepts untrusted input,https://github.com/advisories/GHSA-3965-hpx2-q597,https://da.gd/18A5N
