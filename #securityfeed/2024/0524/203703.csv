@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3f65-m234-9mxr] github.com/huandu/facebook may expose access_token in error message,https://github.com/advisories/GHSA-3f65-m234-9mxr,https://da.gd/WCmokM
+GithubAdvisories,[GHSA-86jx-wr74-xr74] Improper escaping in Apache Zeppelin,https://github.com/advisories/GHSA-86jx-wr74-xr74,https://da.gd/U0A8oG
+GithubAdvisories,[GHSA-hfg7-j82c-fr3w] Soot Infinite Loop vulnerability,https://github.com/advisories/GHSA-hfg7-j82c-fr3w,https://da.gd/QqI2N6
