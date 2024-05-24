@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w8cp-frxc-55pj] Kwik does not discard unused encryption keys,https://github.com/advisories/GHSA-w8cp-frxc-55pj,https://da.gd/8Rez
+GithubAdvisories,[GHSA-cw5r-jx8r-9f7x] Jenkins Report Info Plugin Path Traversal vulnerability,https://github.com/advisories/GHSA-cw5r-jx8r-9f7x,https://da.gd/tL0Sa3
+GithubAdvisories,[GHSA-rq7f-j68f-mqh3] PHP Server Monitor vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-rq7f-j68f-mqh3,https://da.gd/6hJy5
