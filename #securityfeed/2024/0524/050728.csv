@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-86cv-9gpx-6hwj] Openstack Aodh can be used to launder Keystone trusts,https://github.com/advisories/GHSA-86cv-9gpx-6hwj,https://da.gd/B2kt7a
+GithubAdvisories,[GHSA-7332-36h8-8jh8] OpenStack Identity (Keystone) Denial of Service,https://github.com/advisories/GHSA-7332-36h8-8jh8,https://da.gd/cE4iL
+GithubAdvisories,[GHSA-ffmh-r67w-m88f] OpenStack Nova Denial of service attack on the compute host,https://github.com/advisories/GHSA-ffmh-r67w-m88f,https://da.gd/GkuGS
+GithubAdvisories,[GHSA-m84w-vgwf-p893] MoinMoin Multiple cross-site scripting (XSS) vulnerabilities,https://github.com/advisories/GHSA-m84w-vgwf-p893,https://da.gd/1gwGr
+GithubAdvisories,[GHSA-52gm-qmg3-r4qp] Apache Airflow: XSS vulnerability in Task Instance Log/Log Details,https://github.com/advisories/GHSA-52gm-qmg3-r4qp,https://da.gd/ivQzS7
+GithubAdvisories,[GHSA-j6mr-cm6x-h6jg] OpenStack Glance Server-Side Request Forgery (SSRF),https://github.com/advisories/GHSA-j6mr-cm6x-h6jg,https://da.gd/D95RVO
