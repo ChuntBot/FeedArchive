@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3m36-mjwj-352c] Drupal core Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-3m36-mjwj-352c,https://da.gd/L2VAKa
+GithubAdvisories,[GHSA-pw38-xv9x-h8ch] RunGptLLM class in LlamaIndex has a command injection,https://github.com/advisories/GHSA-pw38-xv9x-h8ch,https://da.gd/eCOO
+GithubAdvisories,[GHSA-7mqg-5fgh-xh4r] MediaWiki Incorrect Access Control vulnerability,https://github.com/advisories/GHSA-7mqg-5fgh-xh4r,https://da.gd/27X9WF
+GithubAdvisories,[GHSA-x64m-686f-fmm3] XML External Entity (XXE) in Django,https://github.com/advisories/GHSA-x64m-686f-fmm3,https://da.gd/kBkNO6
