@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-frm9-7pm9-5rgc] SilverStripe comments module includes version of jQuery vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-frm9-7pm9-5rgc,https://da.gd/vpEtQn
