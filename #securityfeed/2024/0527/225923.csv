@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r3pr-fh25-wrfc] silverstripe/framework's install.php script discloses sensitive data by pre-populating DB credential forms,https://github.com/advisories/GHSA-r3pr-fh25-wrfc,https://da.gd/Auzmsb
