@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-crr3-h4m8-7f56] silverstripe/framework vulnerable to member disclosure in login form,https://github.com/advisories/GHSA-crr3-h4m8-7f56,https://da.gd/OyXub
+GithubAdvisories,[GHSA-vh7q-j8p5-2h4h] silverstripe/framework sends passwords back to browsers under some circumstances,https://github.com/advisories/GHSA-vh7q-j8p5-2h4h,https://da.gd/K7BLd
+GithubAdvisories,[GHSA-f43j-8hq4-2xj9] silverstripe/framework uploaded PHP script execution in assets,https://github.com/advisories/GHSA-f43j-8hq4-2xj9,https://da.gd/FEab
+GithubAdvisories,[GHSA-vgxh-x8jv-hmff] silverstripe/framework code execution vulnerability,https://github.com/advisories/GHSA-vgxh-x8jv-hmff,https://da.gd/LvxbgI
+GithubAdvisories,[GHSA-m5q3-mvcr-gc5m] silverstripe/framework BackURL validation bypass with malformed URLs,https://github.com/advisories/GHSA-m5q3-mvcr-gc5m,https://da.gd/1eFTM
