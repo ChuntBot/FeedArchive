@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xpff-c35g-j3cr] silverstripe/framework Privilege Escalation Risk in Member Edit form,https://github.com/advisories/GHSA-xpff-c35g-j3cr,https://da.gd/cRMm2n
+GithubAdvisories,[GHSA-55qg-6c4m-mw6g] silverstripe/framework's URL parameters `isDev` and `isTest` unguarded,https://github.com/advisories/GHSA-55qg-6c4m-mw6g,https://da.gd/9LKhc
