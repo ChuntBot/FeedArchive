@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g84q-cq55-xwgp] silverstripe/framework member disclosure in login form,https://github.com/advisories/GHSA-g84q-cq55-xwgp,https://da.gd/htzIH
+GithubAdvisories,[GHSA-468j-6jrc-2rjx] silverstripe/framework vulnerable to Cross-site Scripting In `OptionsetField` and `CheckboxSetField`,https://github.com/advisories/GHSA-468j-6jrc-2rjx,https://da.gd/Q1e9
