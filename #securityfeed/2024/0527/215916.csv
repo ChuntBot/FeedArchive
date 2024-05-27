@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xx4r-5265-48j6] silverstripe/framework SQL injection in full text search,https://github.com/advisories/GHSA-xx4r-5265-48j6,https://da.gd/CJbz8
+GithubAdvisories,[GHSA-ph62-fv59-vf9h] silverstripe/framework users inadvertently passing sensitive data to LoginAttempt,https://github.com/advisories/GHSA-ph62-fv59-vf9h,https://da.gd/qlv0tt
+GithubAdvisories,[GHSA-mqjc-x563-c9q8] silverstripe/framework CSV Excel Macro Injection,https://github.com/advisories/GHSA-mqjc-x563-c9q8,https://da.gd/3uvA
+GithubAdvisories,[GHSA-7m2v-x7rg-5hm5] silverstripe/framework vulnerable to user enumeration via timing attack on login and password reset forms,https://github.com/advisories/GHSA-7m2v-x7rg-5hm5,https://da.gd/w6QBK
