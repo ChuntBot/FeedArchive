@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vpr3-cw3h-prw8] SimpleSAMLphp Reflected Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-vpr3-cw3h-prw8,https://da.gd/q1Uo
+GithubAdvisories,[GHSA-7jg2-jgv3-fmr4] Malicious PDF can inject JavaScript into PDF Viewer,https://github.com/advisories/GHSA-7jg2-jgv3-fmr4,https://da.gd/BxX9P
+GithubAdvisories,[GHSA-p572-p2rj-q5f4] Umbraco Forms components vulnerable to Stored Cross-site Scripting,https://github.com/advisories/GHSA-p572-p2rj-q5f4,https://da.gd/yjrZi
