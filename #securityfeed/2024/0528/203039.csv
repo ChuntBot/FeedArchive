@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j6cv-98jx-mrwr] Mocodo vulnerable to SQL injection in `/web/generate.php`,https://github.com/advisories/GHSA-j6cv-98jx-mrwr,https://da.gd/OOHYzO
+GithubAdvisories,[GHSA-8pfj-w89w-m24x] Code injection in Apache Zeppelin Shell,https://github.com/advisories/GHSA-8pfj-w89w-m24x,https://da.gd/U6N9r
