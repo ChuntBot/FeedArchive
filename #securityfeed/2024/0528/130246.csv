@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-265q-222x-52m6] silverstripe/framework has potential SQL Injection vulnerability in PostgreSQL database connector,https://github.com/advisories/GHSA-265q-222x-52m6,https://da.gd/GojQXX
+GithubAdvisories,[GHSA-cwgq-83w5-8jfq] silverstripe/framework has possible denial of service attack vector when flushing,https://github.com/advisories/GHSA-cwgq-83w5-8jfq,https://da.gd/rGrP9
+GithubAdvisories,[GHSA-m2hh-2m46-x6j5] silverstripe/framework may disclose database credentials during connection failure,https://github.com/advisories/GHSA-m2hh-2m46-x6j5,https://da.gd/gA8u2P
