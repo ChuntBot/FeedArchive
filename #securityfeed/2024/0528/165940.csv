@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8fmj-33gw-g7pw] Denial of service of Minder Server from maliciously crafted GitHub attestations,https://github.com/advisories/GHSA-8fmj-33gw-g7pw,https://da.gd/Rm8P7
+GithubAdvisories,[GHSA-gx8m-f3mp-fg99] formwork Cross-site scripting vulnerability in Markdown fields,https://github.com/advisories/GHSA-gx8m-f3mp-fg99,https://da.gd/xIAhAn
