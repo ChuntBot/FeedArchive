@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7wh8-jrq7-p27f] SimpleSAMLphp exposes credentials in session storage,https://github.com/advisories/GHSA-7wh8-jrq7-p27f,https://da.gd/EbS6W
