@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ppm4-r2vc-pg74] SimpleSAMLphp Information Disclosure vulnerability,https://github.com/advisories/GHSA-ppm4-r2vc-pg74,https://da.gd/MIFMhd
+GithubAdvisories,[GHSA-927p-xrc2-x2gj] ansibleguy-webui Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-927p-xrc2-x2gj,https://da.gd/DRXbTS
+GithubAdvisories,[GHSA-4r4c-66gf-g9g5] rockhopper Buffer Overflow vulnerability,https://github.com/advisories/GHSA-4r4c-66gf-g9g5,https://da.gd/9hEtAY
+GithubAdvisories,[GHSA-pmrx-695r-4349] dbt allows Binding to an Unrestricted IP Address via socketsocket,https://github.com/advisories/GHSA-pmrx-695r-4349,https://da.gd/Ls0zR
+GithubAdvisories,[GHSA-rpj9-xjwm-wr6w] Umbraco Commerce vulnerable to Stored Cross-site Scripting on Print Functionality,https://github.com/advisories/GHSA-rpj9-xjwm-wr6w,https://da.gd/sK9qE4
