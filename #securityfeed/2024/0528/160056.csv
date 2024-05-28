@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-8c8q-2xw3-j869] rack-contrib vulnerable to Denial of Service due to the unconstrained value of the incoming ""profiler_runs"" parameter",https://github.com/advisories/GHSA-8c8q-2xw3-j869,https://da.gd/ig2J
+GithubAdvisories,[GHSA-g3hr-p86p-593h] OpenAPI Generator Online - Arbitrary File Read/Delete,https://github.com/advisories/GHSA-g3hr-p86p-593h,https://da.gd/Yp8HLP
+GithubAdvisories,[GHSA-7r3j-qmr4-jfpj] Kaminari Insecure File Permissions Vulnerability,https://github.com/advisories/GHSA-7r3j-qmr4-jfpj,https://da.gd/wiDZVc
