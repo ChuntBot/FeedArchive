@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4qpj-gxxg-jqg4] Swiftmailer Sendmail transport arbitrary shell execution,https://github.com/advisories/GHSA-4qpj-gxxg-jqg4,https://da.gd/t3J7i2
+GithubAdvisories,[GHSA-q8fc-v85f-78pw] stormpath/sdk uses Insecure Random Number Generator,https://github.com/advisories/GHSA-q8fc-v85f-78pw,https://da.gd/LEFzPe
+GithubAdvisories,[GHSA-g6f5-4w43-2x63] ScnSocialAuth Cross-site Scripting vulnerability in login redirect param,https://github.com/advisories/GHSA-g6f5-4w43-2x63,https://da.gd/j485o
