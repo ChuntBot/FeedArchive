@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g5vj-wj9x-4jg9] symbiote/silverstripe-multivaluefield Possible PHP Object Injection via Multi-Value Field Extension,https://github.com/advisories/GHSA-g5vj-wj9x-4jg9,https://da.gd/ljvlDf
+GithubAdvisories,[GHSA-945h-6vcv-pc8h] Sylius Admin Bundle Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-945h-6vcv-pc8h,https://da.gd/nyBc3
+GithubAdvisories,[GHSA-65v7-wg35-2qpm] Sylius Resource Bundle Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-65v7-wg35-2qpm,https://da.gd/OCiGP
+GithubAdvisories,[GHSA-4rmg-292m-wg3w] Smarty vulnerable to PHP Code Injection by malicious attribute in extends-tag,https://github.com/advisories/GHSA-4rmg-292m-wg3w,https://da.gd/ldlOQh
+GithubAdvisories,[GHSA-qmjf-wc2h-6x3q] Nautobot dynamic-group-members doesn't enforce permission restrictions on member objects,https://github.com/advisories/GHSA-qmjf-wc2h-6x3q,https://da.gd/muWitS
+GithubAdvisories,[GHSA-95fr-cm4m-q5p9] MinIO information disclosure vulnerability,https://github.com/advisories/GHSA-95fr-cm4m-q5p9,https://da.gd/M4koa
