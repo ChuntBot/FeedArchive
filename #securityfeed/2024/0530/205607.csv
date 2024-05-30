@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p84g-j2gh-83g3] TYPO3 possible cache poisoning on the homepage when anchors are used,https://github.com/advisories/GHSA-p84g-j2gh-83g3,https://da.gd/ACp7B
