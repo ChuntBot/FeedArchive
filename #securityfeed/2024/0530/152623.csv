@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-66c2-7g4p-wx4p] TYPO3 Information Disclosure in Install Tool,https://github.com/advisories/GHSA-66c2-7g4p-wx4p,https://da.gd/5RwS
+GithubAdvisories,[GHSA-ppvg-hw62-6ph9] TYPO3 Security Misconfiguration in Install Tool Cookie,https://github.com/advisories/GHSA-ppvg-hw62-6ph9,https://da.gd/L9tzc
+GithubAdvisories,[GHSA-8c25-vj2w-p72j] TYPO3 Cross-Site Scripting in Frontend User Login,https://github.com/advisories/GHSA-8c25-vj2w-p72j,https://da.gd/Fu03Q
+GithubAdvisories,[GHSA-g4c9-qfvw-fmr4] TYPO3 Cross-Site Scripting in Backend Modal Component,https://github.com/advisories/GHSA-g4c9-qfvw-fmr4,https://da.gd/z8v0IE
