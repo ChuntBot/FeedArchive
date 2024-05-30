@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wvvp-jwf5-qcpc] TYPO3 Information Disclosure in Page Tree,https://github.com/advisories/GHSA-wvvp-jwf5-qcpc,https://da.gd/FWEW3
+GithubAdvisories,[GHSA-xmgr-jff3-fcfv] TYPO3 Security Misconfiguration in User Session Handling,https://github.com/advisories/GHSA-xmgr-jff3-fcfv,https://da.gd/mFlmv
+GithubAdvisories,[GHSA-4459-qrcc-vfcf] TYPO3 Cross-Site Scripting in Form Framework,https://github.com/advisories/GHSA-4459-qrcc-vfcf,https://da.gd/ECtQwn
+GithubAdvisories,[GHSA-76r3-m635-p3vc] TYPO3 Cross-Site Scripting in Language Pack Handling,https://github.com/advisories/GHSA-76r3-m635-p3vc,https://da.gd/L32Xf
+GithubAdvisories,[GHSA-f9hr-7cfq-mjg2] TYPO3 Arbitrary Code Execution via File List Module,https://github.com/advisories/GHSA-f9hr-7cfq-mjg2,https://da.gd/QWYtD
