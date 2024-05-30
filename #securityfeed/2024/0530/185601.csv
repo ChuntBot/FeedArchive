@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5h5v-m596-r6rf] TYPO3 Possible Insecure Deserialization in Extbase Request Handling,https://github.com/advisories/GHSA-5h5v-m596-r6rf,https://da.gd/h3lCF
+GithubAdvisories,[GHSA-6xwf-7rfm-4gwc] TYPO3 Cross-Site Scripting in Filelist Module,https://github.com/advisories/GHSA-6xwf-7rfm-4gwc,https://da.gd/SUwY8
+GithubAdvisories,[GHSA-pmh2-wpjm-fj45] mysql2 vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-pmh2-wpjm-fj45,https://da.gd/zro7NZ
+GithubAdvisories,[GHSA-4ppr-jw47-9qm5] TYPO3 Cross-Site Scripting in Link Handling,https://github.com/advisories/GHSA-4ppr-jw47-9qm5,https://da.gd/z3v7v
+GithubAdvisories,[GHSA-95qm-3xp7-vfj5] TYPO3 Cross-Site Scripting in Form Framework validation handling,https://github.com/advisories/GHSA-95qm-3xp7-vfj5,https://da.gd/wUtXq6
+GithubAdvisories,[GHSA-x428-565f-8xj2] TYPO3 Arbitrary Code Execution and Cross-Site Scripting in Backend API,https://github.com/advisories/GHSA-x428-565f-8xj2,https://da.gd/hZMnYp
+GithubAdvisories,[GHSA-g776-759r-pf6x] TYPO3 Broken Access Control in Import Module,https://github.com/advisories/GHSA-g776-759r-pf6x,https://da.gd/eEZf
