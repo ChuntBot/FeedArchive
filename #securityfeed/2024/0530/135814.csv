@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-45wj-jv2h-jwrf] TYPO3 CMS Privilege Escalation and SQL Injection,https://github.com/advisories/GHSA-45wj-jv2h-jwrf,https://da.gd/1XYqog
+GithubAdvisories,[GHSA-cc97-g92w-jm65] TYPO3 CMS Insecure Deserialization & Arbitrary Code Execution,https://github.com/advisories/GHSA-cc97-g92w-jm65,https://da.gd/uXW7hH
+GithubAdvisories,[GHSA-x4rj-f7m6-42c3] TYPO3 CMS Authentication Bypass vulnerability,https://github.com/advisories/GHSA-x4rj-f7m6-42c3,https://da.gd/9UWqJ
+GithubAdvisories,[GHSA-7cvr-xhm5-x998] Twig Path Traversal vulnerability in the filesystem loader,https://github.com/advisories/GHSA-7cvr-xhm5-x998,https://da.gd/KVGQA
+GithubAdvisories,[GHSA-q3jm-v27q-jfww] titon/framework vulnerable to Remote Code Execution via Chosen-Ciphertext Attack,https://github.com/advisories/GHSA-q3jm-v27q-jfww,https://da.gd/vErFpq
+GithubAdvisories,[GHSA-g8pg-33v4-9r96] Thelia authentication bypass vulnerability,https://github.com/advisories/GHSA-g8pg-33v4-9r96,https://da.gd/UExrI
