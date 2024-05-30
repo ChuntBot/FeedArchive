@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pp7v-wxx9-hm6r] Thelia BackOffice default template vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-pp7v-wxx9-hm6r,https://da.gd/q1Osj
+GithubAdvisories,[GHSA-vq4j-qcx7-ppc6] Thelia Cross-site Scripting vulnerability in BackOffice,https://github.com/advisories/GHSA-vq4j-qcx7-ppc6,https://da.gd/AUY3
+GithubAdvisories,[GHSA-7fpj-wc8v-9cgc] terminal42/contao-tablelookupwizard possible SQL injection in widget field value,https://github.com/advisories/GHSA-7fpj-wc8v-9cgc,https://da.gd/XPC3DG
+GithubAdvisories,[GHSA-4vf2-qfg3-7598] symfony/validator XML Entity Expansion vulnerability,https://github.com/advisories/GHSA-4vf2-qfg3-7598,https://da.gd/uMFy
+GithubAdvisories,[GHSA-f75p-x5vm-83qp] symfony/translation XML Entity Expansion vulnerability,https://github.com/advisories/GHSA-f75p-x5vm-83qp,https://da.gd/O7UgSv
+GithubAdvisories,[GHSA-v35g-4rrw-h4fw] Symfony Cross-Site Request Forgery vulnerability in the Web Profiler,https://github.com/advisories/GHSA-v35g-4rrw-h4fw,https://da.gd/gHXow3
