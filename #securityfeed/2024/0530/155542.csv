@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9rx9-7fmh-gj3g] TYPO3 Broken Access Control in Localization Handling,https://github.com/advisories/GHSA-9rx9-7fmh-gj3g,https://da.gd/YPO4cm
+GithubAdvisories,[GHSA-22q7-cg4r-p9mx] TYPO3 Cross-Site Scripting in Fluid ViewHelpers,https://github.com/advisories/GHSA-22q7-cg4r-p9mx,https://da.gd/FYYV
+GithubAdvisories,[GHSA-rxc9-f2x6-qh4w] TYPO3 Security Misconfiguration for Backend User Accounts,https://github.com/advisories/GHSA-rxc9-f2x6-qh4w,https://da.gd/6jYM
+GithubAdvisories,[GHSA-hjx5-v9xg-7h25] TYPO3 Denial of Service in Frontend Record Registration,https://github.com/advisories/GHSA-hjx5-v9xg-7h25,https://da.gd/zJwK
+GithubAdvisories,[GHSA-29m4-mx89-3mjg] TYPO3 Denial of Service in Online Media Asset Handling,https://github.com/advisories/GHSA-29m4-mx89-3mjg,https://da.gd/bwXFlH
