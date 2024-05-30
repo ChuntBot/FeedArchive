@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q2gc-gg3x-7942] Symfony XML Entity Expansion security vulnerability,https://github.com/advisories/GHSA-q2gc-gg3x-7942,https://da.gd/4whmi9
+GithubAdvisories,[GHSA-mmcv-fvq8-r9x3] Symfony XML decoding attack vector through external entities,https://github.com/advisories/GHSA-mmcv-fvq8-r9x3,https://da.gd/pAuirO
