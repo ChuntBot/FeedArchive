@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7mx2-7q8p-pgmw] Symfony may allow a user to switch to using another user's identity,https://github.com/advisories/GHSA-7mx2-7q8p-pgmw,https://da.gd/t1pq
+GithubAdvisories,[GHSA-j68w-pg49-f6vx] Symfony XML decoding attack vector through external entities,https://github.com/advisories/GHSA-j68w-pg49-f6vx,https://da.gd/Z6kp4o
+GithubAdvisories,[GHSA-rjpm-qmq7-q85w] Symfony XXE security vulnerability,https://github.com/advisories/GHSA-rjpm-qmq7-q85w,https://da.gd/5ejx
+GithubAdvisories,[GHSA-wvjv-p5rr-mmqm] Symfony allows direct access of ESI URLs behind a trusted proxy,https://github.com/advisories/GHSA-wvjv-p5rr-mmqm,https://da.gd/tftiig
+GithubAdvisories,[GHSA-p684-f7fh-jv2j] Symfony has unsafe methods in the Request class,https://github.com/advisories/GHSA-p684-f7fh-jv2j,https://da.gd/qpRvs
+GithubAdvisories,[GHSA-h7v2-2qwg-h829] Symfony has a security issue when parsing the Authorization header,https://github.com/advisories/GHSA-h7v2-2qwg-h829,https://da.gd/b0goA
+GithubAdvisories,[GHSA-v77v-x634-9m56] Symfony vulnerable to denial of service via a malicious HTTP Host header,https://github.com/advisories/GHSA-v77v-x634-9m56,https://da.gd/pFHPw
+GithubAdvisories,[GHSA-vfm6-r2gc-pwww] Symfony2 security issue when the trust proxy mode is enabled,https://github.com/advisories/GHSA-vfm6-r2gc-pwww,https://da.gd/GBpGm
