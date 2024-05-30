@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xw83-pwrm-9j74] Twig remote code execution in templates,https://github.com/advisories/GHSA-xw83-pwrm-9j74,https://da.gd/8SQTH
+GithubAdvisories,[GHSA-hx53-jchx-cr52] Symfony2 improper IP based access control,https://github.com/advisories/GHSA-hx53-jchx-cr52,https://da.gd/xo3t
