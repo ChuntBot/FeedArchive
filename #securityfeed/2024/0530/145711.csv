@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-96jg-pmc4-cx39] TYPO3 CMS Insecure Deserialization,https://github.com/advisories/GHSA-96jg-pmc4-cx39,https://da.gd/D3RZ
+GithubAdvisories,[GHSA-wg8h-gxf4-g4gh] TYPO3 Cross-Site Scripting in Online Media Asset Rendering,https://github.com/advisories/GHSA-wg8h-gxf4-g4gh,https://da.gd/TIsgD
