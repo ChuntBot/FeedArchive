@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-75mx-chcf-2q32] TYPO3 Cross-Site Scripting vulnerability in typolinks,https://github.com/advisories/GHSA-75mx-chcf-2q32,https://da.gd/QuPEnD
+GithubAdvisories,[GHSA-pqfv-97hj-g97g] TYPO3 Frontend vulnerable to Unauthenticated Path Disclosure,https://github.com/advisories/GHSA-pqfv-97hj-g97g,https://da.gd/QjTxz
+GithubAdvisories,[GHSA-jqr8-q455-xx45] TYPO3 Brute Force Protection Bypass in backend login,https://github.com/advisories/GHSA-jqr8-q455-xx45,https://da.gd/IoYJd
+GithubAdvisories,[GHSA-r287-hc8j-w56h] TYPO3 Information Disclosure Vulnerability Exploitable by Editors,https://github.com/advisories/GHSA-r287-hc8j-w56h,https://da.gd/yzMv
+GithubAdvisories,[GHSA-wp8j-c736-c5r3] TYPO3 Cross-Site Scripting Vulnerability Exploitable by Editors,https://github.com/advisories/GHSA-wp8j-c736-c5r3,https://da.gd/H6yuZx
+GithubAdvisories,[GHSA-r9vc-jfmh-6j48] TYPO3 frontend login vulnerable to Session Fixation,https://github.com/advisories/GHSA-r9vc-jfmh-6j48,https://da.gd/cszmL
+GithubAdvisories,"[GHSA-4r76-xr68-w7m7] TYPO3 may allow editors to change, create, or delete metadata of files not within their file mounts",https://github.com/advisories/GHSA-4r76-xr68-w7m7,https://da.gd/E2vwN
