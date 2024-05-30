@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-82vp-jr39-4j2j] TYPO3 Security Misconfiguration in Frontend Session Handling,https://github.com/advisories/GHSA-82vp-jr39-4j2j,https://da.gd/8G1Y
+GithubAdvisories,[GHSA-rv8r-8mh5-5376] TYPO3 Information Disclosure in Backend User Interface,https://github.com/advisories/GHSA-rv8r-8mh5-5376,https://da.gd/zPLfqR
+GithubAdvisories,[GHSA-wj85-rg5g-v8jm] TYPO3 Information Disclosure in User Authentication,https://github.com/advisories/GHSA-wj85-rg5g-v8jm,https://da.gd/jky50
+GithubAdvisories,[GHSA-p2h4-7fp3-cmh8] TYPO3 Disclosure of Information about Installed Extensions,https://github.com/advisories/GHSA-p2h4-7fp3-cmh8,https://da.gd/niu7s
