@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vw63-824v-qf2j] SQL Injection in Harbor scan log API,https://github.com/advisories/GHSA-vw63-824v-qf2j,https://da.gd/TojUF4
+GithubAdvisories,[GHSA-5757-v49g-f6r7] Open Redirect URL in Harbor,https://github.com/advisories/GHSA-5757-v49g-f6r7,https://da.gd/sP0P
+GithubAdvisories,[GHSA-8hqg-whrw-pv92] Ollama does not validate the format of the digest (sha256 with 64 hex digits),https://github.com/advisories/GHSA-8hqg-whrw-pv92,https://da.gd/QEqQ
+GithubAdvisories,[GHSA-9mg6-x45v-hcfm] activeadmin vulnerable to stored persistent cross-site scripting (XSS) in dynamic form legends,https://github.com/advisories/GHSA-9mg6-x45v-hcfm,https://da.gd/zjih1
+GithubAdvisories,[GHSA-9hfw-cvf4-5x25] wanEditor was discovered to contain a cross-site scripting (XSS) vulnerability via the image upload function,https://github.com/advisories/GHSA-9hfw-cvf4-5x25,https://da.gd/rwcRzB
+GithubAdvisories,[GHSA-qvpj-w7xj-r6w9] Password confirmation stored in plain text via registration form in statamic/cms,https://github.com/advisories/GHSA-qvpj-w7xj-r6w9,https://da.gd/Ug7v
+GithubAdvisories,[GHSA-cjcc-p67m-7qxm] Unsafe Reflection in base Component class in yiisoft/yii2,https://github.com/advisories/GHSA-cjcc-p67m-7qxm,https://da.gd/uWX7k
+GithubAdvisories,[GHSA-9p73-x86v-jw57] path traversal vulnerability was identified in the parisneo/lollms-webui,https://github.com/advisories/GHSA-9p73-x86v-jw57,https://da.gd/hzwhM
+GithubAdvisories,[GHSA-qq99-p57r-g3v7] code injection vulnerability exists in the huggingface/text-generation-inference repository,https://github.com/advisories/GHSA-qq99-p57r-g3v7,https://da.gd/mx4aZ7
+GithubAdvisories,[GHSA-xcr2-h8hv-6227] qdrant is vulnerable to path traversal due to improper input validation in the `/collections/{name}/snapshots/upload` endpoint,https://github.com/advisories/GHSA-xcr2-h8hv-6227,https://da.gd/IPC5uM
+GithubAdvisories,[GHSA-973x-65j7-xcf4] Decompressors can crash the JVM and leak memory content in Aircompressor,https://github.com/advisories/GHSA-973x-65j7-xcf4,https://da.gd/cDry1
+GithubAdvisories,[GHSA-2p57-rm9w-gvfp] ip SSRF improper categorization in isPublic,https://github.com/advisories/GHSA-2p57-rm9w-gvfp,https://da.gd/82tel
+GithubAdvisories,[GHSA-xxfm-vmcf-g33f] Improper Handling of Insufficient Permissions in `wagtail.contrib.settings`,https://github.com/advisories/GHSA-xxfm-vmcf-g33f,https://da.gd/c8RN1
+GithubAdvisories,[GHSA-c2g2-gx4j-rj3j] Slack integration leaks sensitive information in logs,https://github.com/advisories/GHSA-c2g2-gx4j-rj3j,https://da.gd/990f
+GithubAdvisories,[GHSA-rcvg-jj3g-rj7c] Sensitive Data Disclosure Vulnerability in Connection Configuration Endpoints,https://github.com/advisories/GHSA-rcvg-jj3g-rj7c,https://da.gd/ek4Q
+GithubAdvisories,[GHSA-qg5r-95m4-mjgj] Reflected Cross-site Scripting in yiisoft/yii2 Debug mode,https://github.com/advisories/GHSA-qg5r-95m4-mjgj,https://da.gd/Q0MuKm
