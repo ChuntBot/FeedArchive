@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wh8q-72cp-p5wf] Cross-Site Scripting in TYPO3 component Indexed Search,https://github.com/advisories/GHSA-wh8q-72cp-p5wf,https://da.gd/n4hf7q
+GithubAdvisories,[GHSA-qrxh-46mr-pr7q] TYPO3 is susceptible to Cross-Site Flashing,https://github.com/advisories/GHSA-qrxh-46mr-pr7q,https://da.gd/hWWV2
+GithubAdvisories,[GHSA-5cxf-xx9j-54jc] Multiple Cross-Site Scripting vulnerabilities in TYPO3 backend,https://github.com/advisories/GHSA-5cxf-xx9j-54jc,https://da.gd/GJ8tT
