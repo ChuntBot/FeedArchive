@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5j86-5xvg-7q93] TYPO3 Cross-Site Scripting (XSS) in form component,https://github.com/advisories/GHSA-5j86-5xvg-7q93,https://da.gd/1ur563
+GithubAdvisories,[GHSA-vgm8-r9gm-fw59] TYPO3 Cross-Site Scripting in legacy form component,https://github.com/advisories/GHSA-vgm8-r9gm-fw59,https://da.gd/clQjS
