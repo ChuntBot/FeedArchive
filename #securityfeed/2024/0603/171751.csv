@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cg4m-qjjp-7497] TYPO3 Cross-Site Scripting in link validator component,https://github.com/advisories/GHSA-cg4m-qjjp-7497,https://da.gd/lUobnp
+GithubAdvisories,[GHSA-6fc6-cj2j-h22x] TYPO3 Multiple Cross-Site Scripting vulnerabilities in frontend,https://github.com/advisories/GHSA-6fc6-cj2j-h22x,https://da.gd/lpJgVt
