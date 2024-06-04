@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fwhr-88qx-h9g7] Missing security headers in Action Pack on non-HTML responses,https://github.com/advisories/GHSA-fwhr-88qx-h9g7,https://da.gd/fQSfJ
+GithubAdvisories,[GHSA-prjp-h48f-jgf6] ActionText ContentAttachment can Contain Unsanitized HTML,https://github.com/advisories/GHSA-prjp-h48f-jgf6,https://da.gd/TNroUR
