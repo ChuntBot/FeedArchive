@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9p6p-8v9r-8c9m] javascript-deobfuscator crafted payload can lead to code execution,https://github.com/advisories/GHSA-9p6p-8v9r-8c9m,https://da.gd/Wd2pKU
+GithubAdvisories,[GHSA-pmxp-7224-h794] Denial of Service (DoS) attack possibility in TYPO3 component Indexed Search,https://github.com/advisories/GHSA-pmxp-7224-h794,https://da.gd/doBfP
+GithubAdvisories,[GHSA-wrpf-2x8h-82gr] Typo3 Arbitrary File Disclosure in Form Component,https://github.com/advisories/GHSA-wrpf-2x8h-82gr,https://da.gd/A2BDuh
+GithubAdvisories,[GHSA-8j9v-4hhh-x43c] Cross-Site Scripting (XSS) in TYPO3 component CSS styled content,https://github.com/advisories/GHSA-8j9v-4hhh-x43c,https://da.gd/ieY8D
+GithubAdvisories,[GHSA-qffc-gwpp-m2xr] XML External Entity (XXE) Processing in TYPO3 Core,https://github.com/advisories/GHSA-qffc-gwpp-m2xr,https://da.gd/EBJRQ6
