@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xqhh-253w-4q5f] Moodle Cross-site Scripting (XSS),https://github.com/advisories/GHSA-xqhh-253w-4q5f,https://da.gd/N6ExuC
+GithubAdvisories,[GHSA-9qgq-93c7-9hm4] Moodle stored Cross-site Scripting (XSS),https://github.com/advisories/GHSA-9qgq-93c7-9hm4,https://da.gd/m4QTS
+GithubAdvisories,[GHSA-7735-w2jp-gvg6] Vanna prompt injection code execution,https://github.com/advisories/GHSA-7735-w2jp-gvg6,https://da.gd/IX6G
