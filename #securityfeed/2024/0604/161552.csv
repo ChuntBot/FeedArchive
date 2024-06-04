@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r99q-hmqv-xw8w] Moodle Authenticated LFI risk in some misconfigured shared hosting environments,https://github.com/advisories/GHSA-r99q-hmqv-xw8w,https://da.gd/XXPvP
+GithubAdvisories,[GHSA-jg4f-8w9x-jv35] Moodle Authenticated LFI risk in some misconfigured shared hosting environments,https://github.com/advisories/GHSA-jg4f-8w9x-jv35,https://da.gd/9A32
+GithubAdvisories,[GHSA-q3cm-ccrm-2mr6] Moodle Authenticated LFI risk in some misconfigured shared hosting environments,https://github.com/advisories/GHSA-q3cm-ccrm-2mr6,https://da.gd/BN07
+GithubAdvisories,[GHSA-gq9f-8rj4-w7jc] Moodle CSRF risk in admin preset tool management of presets,https://github.com/advisories/GHSA-gq9f-8rj4-w7jc,https://da.gd/5mIRx
+GithubAdvisories,[GHSA-mm9p-xwfm-3fqf] Moodle Authenticated LFI risk in some misconfigured shared hosting environments,https://github.com/advisories/GHSA-mm9p-xwfm-3fqf,https://da.gd/1dAWV
+GithubAdvisories,[GHSA-8qwh-4vwv-7c5m] Moodle Cross-site Scripting (XSS),https://github.com/advisories/GHSA-8qwh-4vwv-7c5m,https://da.gd/j5R9JW
+GithubAdvisories,[GHSA-r2wx-46gp-rp3h] Moodle Improper Input Validation,https://github.com/advisories/GHSA-r2wx-46gp-rp3h,https://da.gd/LFgd
+GithubAdvisories,[GHSA-4qww-rxq6-x7gf] Moodle broken access control when setting calendar event type,https://github.com/advisories/GHSA-4qww-rxq6-x7gf,https://da.gd/x76VWy
