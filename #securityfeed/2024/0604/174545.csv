@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-8wh2-6qhj-h7j9] iq80 Snappy out-of-bounds read when uncompressing data, leading to JVM crash",https://github.com/advisories/GHSA-8wh2-6qhj-h7j9,https://da.gd/WUxm
+GithubAdvisories,[GHSA-vvh5-7v3m-j3mj] Moodle Unsanitized HTML in site log for config_log_created,https://github.com/advisories/GHSA-vvh5-7v3m-j3mj,https://da.gd/kNMS
+GithubAdvisories,[GHSA-68x5-4jg5-gjgg] Moodle CSRF risk in analytics management of models,https://github.com/advisories/GHSA-68x5-4jg5-gjgg,https://da.gd/3XpkT
+GithubAdvisories,[GHSA-gwf6-q6c2-94p3] Moodle ReCAPTCHA can be bypassed on the login page,https://github.com/advisories/GHSA-gwf6-q6c2-94p3,https://da.gd/6wt1G
+GithubAdvisories,[GHSA-8g5h-gjwq-w5ch] Moodle Logout CSRF in admin/tool/mfa/auth.php,https://github.com/advisories/GHSA-8g5h-gjwq-w5ch,https://da.gd/pT2dic
+GithubAdvisories,[GHSA-277c-5vvj-9pwx] Flooding Server with Thumbnail files,https://github.com/advisories/GHSA-277c-5vvj-9pwx,https://da.gd/xYXohC
