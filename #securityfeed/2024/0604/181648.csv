@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-j9hf-98c3-wrm8] malicious container creates symlink ""mtab"" on the host External",https://github.com/advisories/GHSA-j9hf-98c3-wrm8,https://da.gd/Bm9kbA
+GithubAdvisories,[GHSA-4w54-wwc9-x62c] Silverpeas authentication bypass,https://github.com/advisories/GHSA-4w54-wwc9-x62c,https://da.gd/dUihh
+GithubAdvisories,[GHSA-632p-p495-25m5] Directus is soft-locked by providing a string value to random string util,https://github.com/advisories/GHSA-632p-p495-25m5,https://da.gd/M4HJ
+GithubAdvisories,[GHSA-v6mg-7f7p-qmqp] apko Exposure of HTTP basic auth credentials in log output,https://github.com/advisories/GHSA-v6mg-7f7p-qmqp,https://da.gd/MktAt
+GithubAdvisories,[GHSA-7m75-x27w-r52r] qdrant input validation failure,https://github.com/advisories/GHSA-7m75-x27w-r52r,https://da.gd/tkvQ62
+GithubAdvisories,[GHSA-2hfw-w739-p7x5] nano-id reduced entropy due to inadequate character set usage,https://github.com/advisories/GHSA-2hfw-w739-p7x5,https://da.gd/E4XHy
