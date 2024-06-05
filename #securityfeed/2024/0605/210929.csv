@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xjw3-5r5c-m5ph] typo3 Security fix for Flow Swift Mailer package,https://github.com/advisories/GHSA-xjw3-5r5c-m5ph,https://da.gd/GBHRkd
+GithubAdvisories,[GHSA-m2hp-5x78-74mg] Insecure Unserialize Vulnerability in FLOW3,https://github.com/advisories/GHSA-m2hp-5x78-74mg,https://da.gd/fLYHmx
