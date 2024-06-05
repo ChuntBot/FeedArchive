@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c7p6-3c9c-f88q] Information Disclosure in TYPO3 CMS,https://github.com/advisories/GHSA-c7p6-3c9c-f88q,https://da.gd/oTPuG
+GithubAdvisories,[GHSA-7qwg-fcpw-xg5g] Privilege Escalation & SQL Injection in TYPO3 CMS,https://github.com/advisories/GHSA-7qwg-fcpw-xg5g,https://da.gd/GIxR5
+GithubAdvisories,[GHSA-g4pf-3jvq-2gcw] TYPO3 Remote Code Execution in third party library swiftmailer,https://github.com/advisories/GHSA-g4pf-3jvq-2gcw,https://da.gd/umA6
+GithubAdvisories,[GHSA-67wg-6j7r-mqh8] Arbitrary Code Execution in TYPO3 CMS,https://github.com/advisories/GHSA-67wg-6j7r-mqh8,https://da.gd/HCZaW3
+GithubAdvisories,[GHSA-8h28-f46f-m87h] Insecure Deserialization in TYPO3 CMS,https://github.com/advisories/GHSA-8h28-f46f-m87h,https://da.gd/J09y
+GithubAdvisories,[GHSA-p5c5-gmj4-g48f] Cross-Site Scripting (XSS) vulnerability in typolinks,https://github.com/advisories/GHSA-p5c5-gmj4-g48f,https://da.gd/lBx4N
+GithubAdvisories,[GHSA-hq37-rfjc-mr8h] Cross-Site Scripting (XSS) in TYPO3 Backend,https://github.com/advisories/GHSA-hq37-rfjc-mr8h,https://da.gd/3vyf
+GithubAdvisories,[GHSA-qmwf-j7g7-f5jw] Cross-Site Scripting in third party library mso/idna-convert,https://github.com/advisories/GHSA-qmwf-j7g7-f5jw,https://da.gd/JkWNiY
+GithubAdvisories,[GHSA-vpr3-rc99-2wpr] Information Disclosure in TYPO3 Backend,https://github.com/advisories/GHSA-vpr3-rc99-2wpr,https://da.gd/yWgbDX
