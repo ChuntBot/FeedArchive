@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Update debug.twig to include a link to the git project URL for the ma…,https://github.com/mailcow/mailcow-dockerized/commit/cd83ffbaa219b634c4281401c4fa26b0d7ab7c82,https://da.gd/9eEbot
+GithubCommitStaging,"Update debug.twig target=""_blank"" attribute for the mailcow version t…",https://github.com/mailcow/mailcow-dockerized/commit/47c08ab8d287816b551ce2a2296fb91c28a71e6f,https://da.gd/1nzUEw
+GithubCommitStaging,Update debug.twig,https://github.com/mailcow/mailcow-dockerized/commit/c160e1f68ec11d9c5febc813a7e42be1c5937b23,https://da.gd/a1E3ob
+GithubCommitStaging,fix formatting of the mailcow version tag link,https://github.com/mailcow/mailcow-dockerized/commit/f7f93c360df381582e02b36b921e3667379b5a6d,https://da.gd/lYJE6
+GithubCommitStaging,Switch IP2Country lookup backend to shortened version,https://github.com/mailcow/mailcow-dockerized/commit/64cd7e74c576bb91a23462c1da42f1c4879fe445,https://da.gd/F2PRfU
+GithubCommitStaging,update postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/11e9a77840b0fc2d50e04494b837de2fe487ab45,https://da.gd/ZU4gF
+GithubCommitStaging,Merge pull request #5875 from CallMeLeon167:staging_cml,https://github.com/mailcow/mailcow-dockerized/commit/2fa3a22eca3eaba0a73b4a9e4851f25b120f1f39,https://da.gd/8FAbfQ
+GithubCommitStaging,Merge pull request #5863 from mailcow:update/postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/49d738809b510646e30bdd89cca1eec0546a92c8,https://da.gd/8i2UK
+GithubCommitStaging,Merge pull request #5886 from Thomas2500:patch-1,https://github.com/mailcow/mailcow-dockerized/commit/34b0574e5678f78cc1766f9e314f5614677d32a3,https://da.gd/pAVPx
