@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4v5g-8pq2-32m2] By-passing Protection of PharStreamWrapper Interceptor,https://github.com/advisories/GHSA-4v5g-8pq2-32m2,https://da.gd/osaJK
+GithubAdvisories,[GHSA-r6mm-wmhf-849m] Time-Based Information Disclosure Vulnerability in Flow,https://github.com/advisories/GHSA-r6mm-wmhf-849m,https://da.gd/nl54h
+GithubAdvisories,[GHSA-wr3c-6c22-m9v6] Privilege Escalation in TYPO3 Neos,https://github.com/advisories/GHSA-wr3c-6c22-m9v6,https://da.gd/vWTk2
+GithubAdvisories,[GHSA-4542-p56h-8xww] Cross-Site Scripting (XSS) vulnerabilities in Neos,https://github.com/advisories/GHSA-4542-p56h-8xww,https://da.gd/irLQ
+GithubAdvisories,[GHSA-vh6j-wv25-8qxr] Flow Bugfix Releases for Entity Security,https://github.com/advisories/GHSA-vh6j-wv25-8qxr,https://da.gd/8TOJZ
+GithubAdvisories,[GHSA-259v-xm34-p7fr] Typo3 Cross-Site Scripting in Language Pack Handling,https://github.com/advisories/GHSA-259v-xm34-p7fr,https://da.gd/SQ5OE
+GithubAdvisories,[GHSA-f5rr-9r84-wwqf] Typo3 Broken Access Control in Import Module,https://github.com/advisories/GHSA-f5rr-9r84-wwqf,https://da.gd/jt63n
+GithubAdvisories,[GHSA-h934-f4m4-wc8x] Typo3 Information Disclosure in Page Tree,https://github.com/advisories/GHSA-h934-f4m4-wc8x,https://da.gd/ts2g30
+GithubAdvisories,[GHSA-hww5-6x85-mc24] Typo3 Arbitrary Code Execution and Cross-Site Scripting in Backend API,https://github.com/advisories/GHSA-hww5-6x85-mc24,https://da.gd/PbnGj
