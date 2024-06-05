@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,In-memory sleeping technique using threads created in suspended state and timers that work with the ResumeThread function after context is set for execution. Each workers has its own stack and no need to modify the list of valid indirect call targets in CFG. Use case: Swappala with Reflective DLL,https://redd.it/1d8jnub,
