@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v4g2-cm5v-cxv7] Digital products download without proper payment status check,https://github.com/advisories/GHSA-v4g2-cm5v-cxv7,https://da.gd/4P2EE
+GithubAdvisories,[GHSA-rhc2-23c2-ww7c] Remote code execution in web server context,https://github.com/advisories/GHSA-rhc2-23c2-ww7c,https://da.gd/pNJRoT
+GithubAdvisories,[GHSA-665w-mwrr-77q3] Arbitrary file read via Playwright's screenshot feature exploiting file wrapper,https://github.com/advisories/GHSA-665w-mwrr-77q3,https://da.gd/fuaY6
+GithubAdvisories,[GHSA-jmh9-6rjq-gjh9] Vulnerable embedded jQuery Version,https://github.com/advisories/GHSA-jmh9-6rjq-gjh9,https://da.gd/7T5cM
+GithubAdvisories,[GHSA-q49c-6v6g-wgq3] Skops unsafe deserialization,https://github.com/advisories/GHSA-q49c-6v6g-wgq3,https://da.gd/r7l2C
+GithubAdvisories,[GHSA-2r57-2mrh-ggjv] ydata cross-site scripting,https://github.com/advisories/GHSA-2r57-2mrh-ggjv,https://da.gd/qyHE0
+GithubAdvisories,[GHSA-cg49-hrj4-3rpr] ydata unsafe deserialization,https://github.com/advisories/GHSA-cg49-hrj4-3rpr,https://da.gd/NgMH
+GithubAdvisories,[GHSA-fpvj-m2h6-6wc5] ydata unsafe deserialization,https://github.com/advisories/GHSA-fpvj-m2h6-6wc5,https://da.gd/bq0PT1
+GithubAdvisories,[GHSA-pqcv-qw2r-r859] MLFlow improper input validation,https://github.com/advisories/GHSA-pqcv-qw2r-r859,https://da.gd/OCZaBp
+GithubAdvisories,[GHSA-cv6c-7963-wxcg] MLFlow unsafe deserialization,https://github.com/advisories/GHSA-cv6c-7963-wxcg,https://da.gd/34aN
+GithubAdvisories,[GHSA-wf7f-8fxf-xfxc] MLFlow unsafe deserialization,https://github.com/advisories/GHSA-wf7f-8fxf-xfxc,https://da.gd/4sH96
+GithubAdvisories,[GHSA-cwgg-w6mp-w9hg] MLFlow unsafe deserialization,https://github.com/advisories/GHSA-cwgg-w6mp-w9hg,https://da.gd/a7ooY
+GithubAdvisories,[GHSA-j8mg-pqc5-x9gj] MLFlow unsafe deserialization,https://github.com/advisories/GHSA-j8mg-pqc5-x9gj,https://da.gd/4EBuka
+GithubAdvisories,[GHSA-76cg-cfhx-373f] MLFlow unsafe deserialization,https://github.com/advisories/GHSA-76cg-cfhx-373f,https://da.gd/itHSW
+GithubAdvisories,[GHSA-7p8j-qv6x-f4g4] MLFlow unsafe deserialization,https://github.com/advisories/GHSA-7p8j-qv6x-f4g4,https://da.gd/riTgsf
+GithubAdvisories,[GHSA-x38x-g6gr-jqff] MLFlow unsafe deserialization,https://github.com/advisories/GHSA-x38x-g6gr-jqff,https://da.gd/CXC9V
+GithubAdvisories,[GHSA-ghv6-9r9j-wh4j] MLFlow unsafe deserialization,https://github.com/advisories/GHSA-ghv6-9r9j-wh4j,https://da.gd/YNDv
+GithubAdvisories,[GHSA-43c4-9qgj-x742] MLFlow unsafe deserialization,https://github.com/advisories/GHSA-43c4-9qgj-x742,https://da.gd/RdGyG
