@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,os: updated all Alpine containers to 3.20,https://github.com/mailcow/mailcow-dockerized/commit/ba8902f0b18ccf58d30081aa9cf80eb8574dd0f9,https://da.gd/hPgzwV
+GithubCommitStaging,dovecot: fixed sa-rules download,https://github.com/mailcow/mailcow-dockerized/commit/af626d98d31637b17ed11a4f96aecaa3e3c67082,https://da.gd/Oq4L1
+GithubCommitStaging,Merge pull request #5893 from mailcow/feat/base-os,https://github.com/mailcow/mailcow-dockerized/commit/8f3ea09732aafb968e39fee71ea12d01cc549cd6,https://da.gd/7SHdW
