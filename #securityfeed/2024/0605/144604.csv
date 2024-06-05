@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j86x-pjmr-9m6w] SQL Injection in TYPO3 Frontend Login,https://github.com/advisories/GHSA-j86x-pjmr-9m6w,https://da.gd/LzPZv
+GithubAdvisories,[GHSA-gwfx-p7mr-f92v] Missing Access Check in TYPO3 CMS,https://github.com/advisories/GHSA-gwfx-p7mr-f92v,https://da.gd/swM1LD
+GithubAdvisories,[GHSA-xvcp-33rc-j8gq] Insecure Unserialize in TYPO3 Import/Export,https://github.com/advisories/GHSA-xvcp-33rc-j8gq,https://da.gd/8kjB
+GithubAdvisories,[GHSA-86r8-4g3w-7xjp] Cross-Site Scripting in TYPO3 Backend,https://github.com/advisories/GHSA-86r8-4g3w-7xjp,https://da.gd/Ti4eJ
+GithubAdvisories,[GHSA-v5jp-4h2p-j2p4] Privilege Escalation in TYPO3 CMS,https://github.com/advisories/GHSA-v5jp-4h2p-j2p4,https://da.gd/L9XBMG
+GithubAdvisories,[GHSA-5wx6-xwxf-q8qj] Cross-Site Scripting in TYPO3 Backend,https://github.com/advisories/GHSA-5wx6-xwxf-q8qj,https://da.gd/IyHUWE
+GithubAdvisories,[GHSA-6xh8-8pfv-53vx] Authentication Bypass in TYPO3 CMS,https://github.com/advisories/GHSA-6xh8-8pfv-53vx,https://da.gd/j8LbY1
+GithubAdvisories,[GHSA-4m3g-6r7g-jv4f] Arbitrary JavaScript execution due to using outdated libraries,https://github.com/advisories/GHSA-4m3g-6r7g-jv4f,https://da.gd/1lwqt
