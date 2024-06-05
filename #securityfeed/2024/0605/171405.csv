@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qr5f-6fcv-w69q] Typo3 Security Misconfiguration in Frontend Session Handling,https://github.com/advisories/GHSA-qr5f-6fcv-w69q,https://da.gd/yJA0
+GithubAdvisories,[GHSA-m87m-mmvp-v9qm] PyMongo Out-of-bounds Read in the bson module,https://github.com/advisories/GHSA-m87m-mmvp-v9qm,https://da.gd/bIikx
+GithubAdvisories,[GHSA-g9rv-6g56-65h8] Typo3 Security Misconfiguration in User Session Handling,https://github.com/advisories/GHSA-g9rv-6g56-65h8,https://da.gd/WhHU
+GithubAdvisories,[GHSA-q9c4-9v5m-597p] Typo3 Information Disclosure in Backend User Interface,https://github.com/advisories/GHSA-q9c4-9v5m-597p,https://da.gd/A1vVC9
+GithubAdvisories,[GHSA-m96r-7vqm-j95g] Typo3 Information Disclosure in User Authentication,https://github.com/advisories/GHSA-m96r-7vqm-j95g,https://da.gd/Tu9JVk
+GithubAdvisories,[GHSA-v4qr-8h2v-qpjx] Cross-Site Scripting in TYPO3 CMS Backend,https://github.com/advisories/GHSA-v4qr-8h2v-qpjx,https://da.gd/VMzaj
+GithubAdvisories,[GHSA-q5mg-pc7r-r8cr] Files or Directories Accessible to External Parties in ProjectDiscovery,https://github.com/advisories/GHSA-q5mg-pc7r-r8cr,https://da.gd/fsdQO4
+GithubAdvisories,[GHSA-5gr6-97fv-52cc] Cross-Site Scripting in TYPO3 CMS,https://github.com/advisories/GHSA-5gr6-97fv-52cc,https://da.gd/g9fbI
+GithubAdvisories,[GHSA-c7rj-92xr-wprg] Insecure Unserialize in TYPO3 Backend,https://github.com/advisories/GHSA-c7rj-92xr-wprg,https://da.gd/5huH9
+GithubAdvisories,[GHSA-hvh4-5qr6-3v7r] Observable Timing Discrepancy in pypqc,https://github.com/advisories/GHSA-hvh4-5qr6-3v7r,https://da.gd/oXAka
+GithubAdvisories,[GHSA-c74f-6mfw-mm4v] Denial of service via Compressed HTTP Bomb,https://github.com/advisories/GHSA-c74f-6mfw-mm4v,https://da.gd/XvNC
+GithubAdvisories,[GHSA-pw2q-qwvj-gh43] Cache Flooding in TYPO3 Frontend,https://github.com/advisories/GHSA-pw2q-qwvj-gh43,https://da.gd/3QjH0
+GithubAdvisories,[GHSA-mh3r-6cp5-hc2j] Authentication Bypass in TYPO3 Frontend,https://github.com/advisories/GHSA-mh3r-6cp5-hc2j,https://da.gd/sr5QaI
+GithubAdvisories,[GHSA-g762-h86w-8749] BoringSSLAEADContext in Netty Repeats Nonces,https://github.com/advisories/GHSA-g762-h86w-8749,https://da.gd/rzz4V
+GithubAdvisories,[GHSA-6f9m-v7mp-7jjq] Authentication Bypass in TYPO3 CMS,https://github.com/advisories/GHSA-6f9m-v7mp-7jjq,https://da.gd/74Iur
+GithubAdvisories,[GHSA-g46h-v2cc-6c94] Information Disclosure in TYPO3 CMS,https://github.com/advisories/GHSA-g46h-v2cc-6c94,https://da.gd/mvcn
