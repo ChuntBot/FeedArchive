@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3p4x-grpm-xw58] Password hash exposed in CraftCMS two factor authentication plugin,https://github.com/advisories/GHSA-3p4x-grpm-xw58,https://da.gd/7XJzPP
+GithubAdvisories,[GHSA-96qm-hwhp-2rm8] Improper Authentication in CraftCMS two factor authentication plugin,https://github.com/advisories/GHSA-96qm-hwhp-2rm8,https://da.gd/vcoNYE
