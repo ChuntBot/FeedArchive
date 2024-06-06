@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wjmj-h3xc-hxp8] Generation of Error Message Containing Sensitive Information in zsa,https://github.com/advisories/GHSA-wjmj-h3xc-hxp8,https://da.gd/Pfj4H
+GithubAdvisories,[GHSA-x234-r5fg-x52m] Arbitrary system path lookup in h20,https://github.com/advisories/GHSA-x234-r5fg-x52m,https://da.gd/9dOdlo
+GithubAdvisories,[GHSA-3xr8-qfvj-9p9j] Arbitrary file deletion in litellm,https://github.com/advisories/GHSA-3xr8-qfvj-9p9j,https://da.gd/hPv9
+GithubAdvisories,[GHSA-h6m6-jj8v-94jj] SQL injection in litellm,https://github.com/advisories/GHSA-h6m6-jj8v-94jj,https://da.gd/b8J61
+GithubAdvisories,[GHSA-8j42-pcfm-3467] SQL injection in litellm,https://github.com/advisories/GHSA-8j42-pcfm-3467,https://da.gd/K7ihW0
+GithubAdvisories,[GHSA-v9q6-fm48-rx74] Authentication bypass in dtale,https://github.com/advisories/GHSA-v9q6-fm48-rx74,https://da.gd/7qBtz5
