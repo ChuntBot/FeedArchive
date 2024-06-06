@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7hrh-v6wp-53vw] Evmos allows unvested token delegations,https://github.com/advisories/GHSA-7hrh-v6wp-53vw,https://da.gd/qfhjH
+GithubAdvisories,[GHSA-3cqf-953p-h5cp] Argo-cd authenticated users can enumerate clusters by name,https://github.com/advisories/GHSA-3cqf-953p-h5cp,https://da.gd/lb1c4
+GithubAdvisories,[GHSA-xgr7-jgq3-mhmc] Contract balance not updating correctly after interchain transaction,https://github.com/advisories/GHSA-xgr7-jgq3-mhmc,https://da.gd/Jlpj
