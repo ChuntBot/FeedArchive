@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q25c-c977-4cmh] Server-Side Request Forgery in langchain,https://github.com/advisories/GHSA-q25c-c977-4cmh,https://da.gd/d4XZkM
+GithubAdvisories,[GHSA-8f8q-q2j7-7j2m] Undefined Behavior in mlflow,https://github.com/advisories/GHSA-8f8q-q2j7-7j2m,https://da.gd/RbT2xr
+GithubAdvisories,[GHSA-j46q-5pxx-8vmw] Local File Inclusion in mlflow,https://github.com/advisories/GHSA-j46q-5pxx-8vmw,https://da.gd/17eC84
+GithubAdvisories,[GHSA-mq73-g4qr-fgcq] Clickjacking in zenml,https://github.com/advisories/GHSA-mq73-g4qr-fgcq,https://da.gd/Lhqx4
+GithubAdvisories,[GHSA-j527-v579-m98h] Improper authentication in zenml,https://github.com/advisories/GHSA-j527-v579-m98h,https://da.gd/T1hCU
+GithubAdvisories,[GHSA-vwgf-7f9h-h499] Cross site scripting in zenml,https://github.com/advisories/GHSA-vwgf-7f9h-h499,https://da.gd/cX5C9
+GithubAdvisories,[GHSA-c546-8jmq-hprj] Race condition in zenml,https://github.com/advisories/GHSA-c546-8jmq-hprj,https://da.gd/JTzxN
+GithubAdvisories,[GHSA-9x88-4jg8-4vf7] Improper authorization in zenml,https://github.com/advisories/GHSA-9x88-4jg8-4vf7,https://da.gd/ROduI
+GithubAdvisories,[GHSA-3hjh-jh2h-vrg6] Denial of service in langchain,https://github.com/advisories/GHSA-3hjh-jh2h-vrg6,https://da.gd/Uba6
+GithubAdvisories,[GHSA-5q6c-ffvg-xcm9] Remote code execution in mlflow,https://github.com/advisories/GHSA-5q6c-ffvg-xcm9,https://da.gd/Zm2O
+GithubAdvisories,[GHSA-6v6g-j5fq-hpvw] Local file inclusion in gradio,https://github.com/advisories/GHSA-6v6g-j5fq-hpvw,https://da.gd/LKp4a9
