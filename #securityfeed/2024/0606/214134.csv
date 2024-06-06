@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rrvc-c7xg-7cf3] TokenController formName not sanitized in hidden input,https://github.com/advisories/GHSA-rrvc-c7xg-7cf3,https://da.gd/EeH7Sk
+GithubAdvisories,[GHSA-87p9-x75h-p4j2] Unauthenticated Access to sensitive settings in Argo CD,https://github.com/advisories/GHSA-87p9-x75h-p4j2,https://da.gd/wpd9eB
+GithubAdvisories,[GHSA-hrw6-wg82-cm62] Jupyter server on Windows discloses Windows user password hash,https://github.com/advisories/GHSA-hrw6-wg82-cm62,https://da.gd/zYnOjq
