@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cgwc-qvrx-rf7f] Remote code execution in pytorch lightning,https://github.com/advisories/GHSA-cgwc-qvrx-rf7f,https://da.gd/hhqRtq
+GithubAdvisories,[GHSA-973g-55hp-3frw] Server-Side Request Forgery in gradio,https://github.com/advisories/GHSA-973g-55hp-3frw,https://da.gd/mEjR
+GithubAdvisories,[GHSA-w235-7p84-xx57] Tornado has a CRLF injection in CurlAsyncHTTPClient headers,https://github.com/advisories/GHSA-w235-7p84-xx57,https://da.gd/baNp
+GithubAdvisories,[GHSA-753j-mpmx-qq6g] Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling') in tornado,https://github.com/advisories/GHSA-753j-mpmx-qq6g,https://da.gd/rRRx5
