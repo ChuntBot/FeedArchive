@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-52xf-5p2m-9wrv] s2n-tls has a potentially observable differences in RSA premaster secret handling,https://github.com/advisories/GHSA-52xf-5p2m-9wrv,https://da.gd/fzfj8
