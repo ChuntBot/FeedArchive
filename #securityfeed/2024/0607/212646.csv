@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-96c6-m98x-hxjx] Zend-Session session validation vulnerability,https://github.com/advisories/GHSA-96c6-m98x-hxjx,https://da.gd/FlgsI
+GithubAdvisories,[GHSA-g52p-86j5-xr8q] ZendFramework Potential Cross-site Scripting in Development Environment Error View Script,https://github.com/advisories/GHSA-g52p-86j5-xr8q,https://da.gd/Rc8B
+GithubAdvisories,[GHSA-cxf7-m5g2-v594] Zend-Mail remote code execution in zend-mail via Sendmail adapter,https://github.com/advisories/GHSA-cxf7-m5g2-v594,https://da.gd/kdNo9
+GithubAdvisories,[GHSA-mhpx-3rv8-wrjm] ZendFramework potential XML eXternal Entity injection vectors,https://github.com/advisories/GHSA-mhpx-3rv8-wrjm,https://da.gd/g1td0i
+GithubAdvisories,[GHSA-4j9x-g4x8-vcmf] ZendFramework potential XML eXternal Entity injection vectors,https://github.com/advisories/GHSA-4j9x-g4x8-vcmf,https://da.gd/y3gvRj
+GithubAdvisories,[GHSA-hg35-vqp3-fv39] ZendFramework potential Cross-site Scripting vectors due to inconsistent encodings,https://github.com/advisories/GHSA-hg35-vqp3-fv39,https://da.gd/REU8NG
+GithubAdvisories,[GHSA-qf36-fx9f-232x] ZendFramework potential SQL Injection Vector When Using PDO_MySql,https://github.com/advisories/GHSA-qf36-fx9f-232x,https://da.gd/m4oYgz
+GithubAdvisories,[GHSA-j543-vg33-g6vj] ZendFramework potential Cross-site Scripting vector in `Zend_Dojo_View_Helper_Editor`,https://github.com/advisories/GHSA-j543-vg33-g6vj,https://da.gd/FB34vu
+GithubAdvisories,[GHSA-f4fj-q6m4-cc52] ZendFramework vulnerable to XXE/XEE attacks,https://github.com/advisories/GHSA-f4fj-q6m4-cc52,https://da.gd/OGBp
+GithubAdvisories,[GHSA-hx3m-959f-v849] ZendFramework local file inclusion vector in `Zend_View::setScriptPath()` and `render()`,https://github.com/advisories/GHSA-hx3m-959f-v849,https://da.gd/V5mzjy
+GithubAdvisories,[GHSA-m7hr-j867-3f34] ZendFramework has potential Cross-site Scripting vector in multiple view helpers,https://github.com/advisories/GHSA-m7hr-j867-3f34,https://da.gd/L5n9j3
