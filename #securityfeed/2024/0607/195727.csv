@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f3wf-q4fj-3gxf] TYPO3 Denial of Service in Online Media Asset Handling,https://github.com/advisories/GHSA-f3wf-q4fj-3gxf,https://da.gd/m1csC
+GithubAdvisories,[GHSA-6487-3qvg-8px9] TYPO3 Information Disclosure in Install Tool,https://github.com/advisories/GHSA-6487-3qvg-8px9,https://da.gd/lteLc
+GithubAdvisories,[GHSA-f777-f784-36gm] TYPO3 Security Misconfiguration in Install Tool Cookie,https://github.com/advisories/GHSA-f777-f784-36gm,https://da.gd/H2lJ
+GithubAdvisories,[GHSA-2rcw-9hrm-8q7q] TYPO3 Cross-Site Scripting in Frontend User Login,https://github.com/advisories/GHSA-2rcw-9hrm-8q7q,https://da.gd/CVz63I
+GithubAdvisories,[GHSA-7q33-hxwj-7p8v] TYPO3 Cross-Site Scripting in Backend Modal Component,https://github.com/advisories/GHSA-7q33-hxwj-7p8v,https://da.gd/D4uRqg
+GithubAdvisories,[GHSA-8m6j-p5jv-v69w] TYPO3 Cross-Site Scripting in Online Media Asset Rendering,https://github.com/advisories/GHSA-8m6j-p5jv-v69w,https://da.gd/9YT3Z9
+GithubAdvisories,[GHSA-55f3-3qvg-8pv5] Symlink bypasses filesystem sandbox,https://github.com/advisories/GHSA-55f3-3qvg-8pv5,https://da.gd/KZDBK
+GithubAdvisories,[GHSA-5pxr-7m4j-jjc6] Cross-site scripting (XSS) vulnerability in Description metadata,https://github.com/advisories/GHSA-5pxr-7m4j-jjc6,https://da.gd/3P4gHs
+GithubAdvisories,[GHSA-92wp-jghr-hh87] Weak encryption in Ninja Core,https://github.com/advisories/GHSA-92wp-jghr-hh87,https://da.gd/lJ3MM
