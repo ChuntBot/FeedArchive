@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-62f6-h68r-3jpw] Zendframework session validation vulnerability,https://github.com/advisories/GHSA-62f6-h68r-3jpw,https://da.gd/bpIVY
+GithubAdvisories,[GHSA-jq87-2wxp-8349] ZendFramework Route Parameter Injection Via Query String in `Zend\Mvc`,https://github.com/advisories/GHSA-jq87-2wxp-8349,https://da.gd/GzCkq
+GithubAdvisories,[GHSA-8q77-cv62-jj38] Zendframework has potential Cross-site Scripting vector in multiple view helpers,https://github.com/advisories/GHSA-8q77-cv62-jj38,https://da.gd/9SSJPh
+GithubAdvisories,[GHSA-xffp-6w68-4775] Zendframework Remote Address Spoofing Vector in `Zend\Http\PhpEnvironment\RemoteAddress`,https://github.com/advisories/GHSA-xffp-6w68-4775,https://da.gd/DoFc
