@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fh7r-58q4-6387] Zendframework URL Rewrite vulnerability,https://github.com/advisories/GHSA-fh7r-58q4-6387,https://da.gd/vhpxv
+GithubAdvisories,[GHSA-5gmf-3c43-q73v] ZendFramework vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-5gmf-3c43-q73v,https://da.gd/4n6JXP
+GithubAdvisories,[GHSA-gff2-p6vm-3p8g] ZendFramework potential remote code execution in zend-mail via Sendmail adapter,https://github.com/advisories/GHSA-gff2-p6vm-3p8g,https://da.gd/PSIo
+GithubAdvisories,[GHSA-mg7h-9qfx-4r83] ZendFramework Potential Proxy Injection Vulnerabilities,https://github.com/advisories/GHSA-mg7h-9qfx-4r83,https://da.gd/D8xFa4
+GithubAdvisories,[GHSA-2fhr-8r8r-qp56] ZendFramework Information Disclosure and Insufficient Entropy vulnerability,https://github.com/advisories/GHSA-2fhr-8r8r-qp56,https://da.gd/UHf0
+GithubAdvisories,[GHSA-x2f4-8wxf-w3vf] ZendFramework SQL injection due to execution of platform-specific SQL containing interpolations,https://github.com/advisories/GHSA-x2f4-8wxf-w3vf,https://da.gd/cQsn
+GithubAdvisories,[GHSA-qc7w-4567-84wv] Zendframework vulnerable to XXE/XEE attacks,https://github.com/advisories/GHSA-qc7w-4567-84wv,https://da.gd/S0oCQo
+GithubAdvisories,[GHSA-xg9w-r469-m455] ZendFramework Potential Information Disclosure and Insufficient Entropy vulnerabilities,https://github.com/advisories/GHSA-xg9w-r469-m455,https://da.gd/nWdKDD
