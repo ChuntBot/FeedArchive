@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8h4m-r4wm-xj7r] TYPO3 Arbitrary Code Execution via File List Module,https://github.com/advisories/GHSA-8h4m-r4wm-xj7r,https://da.gd/0uhVq
+GithubAdvisories,[GHSA-g585-crjf-vhwq] TYPO3 Denial of Service in Frontend Record Registration,https://github.com/advisories/GHSA-g585-crjf-vhwq,https://da.gd/j4m3c
+GithubAdvisories,[GHSA-f624-8hfq-5fh3] TYPO3 Information Disclosure of Installed Extensions,https://github.com/advisories/GHSA-f624-8hfq-5fh3,https://da.gd/YCcWOW
