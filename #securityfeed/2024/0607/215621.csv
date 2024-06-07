@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hx54-pf28-7xch] ebookmeta XML External Entity vulnerability,https://github.com/advisories/GHSA-hx54-pf28-7xch,https://da.gd/rKWj9
+GithubAdvisories,[GHSA-whf4-fpj8-pgg8] ebookmeta XML External Entity vulnerability,https://github.com/advisories/GHSA-whf4-fpj8-pgg8,https://da.gd/Z5i75s
+GithubAdvisories,[GHSA-vvm3-rv48-j3g5] Zendframework Potential XSS or HTML Injection vector in Zend_Json,https://github.com/advisories/GHSA-vvm3-rv48-j3g5,https://da.gd/WbsvI
+GithubAdvisories,[GHSA-cg8w-5jrc-675g] Zend-HTTP URL Rewrite vulnerability,https://github.com/advisories/GHSA-cg8w-5jrc-675g,https://da.gd/Uf9mVQ
+GithubAdvisories,[GHSA-w5mj-j45q-m638] ZendFramework1 Potential Security Issues in Bundled Dojo Library,https://github.com/advisories/GHSA-w5mj-j45q-m638,https://da.gd/Qbl7S
+GithubAdvisories,[GHSA-8x2v-pcg7-94f4] Zend-JSON vulnerable to XXE/XEE attacks,https://github.com/advisories/GHSA-8x2v-pcg7-94f4,https://da.gd/tzLJO
+GithubAdvisories,[GHSA-229x-22xc-2f2w] Zendframework Local file disclosure via XXE injection in Zend_XmlRpc,https://github.com/advisories/GHSA-229x-22xc-2f2w,https://da.gd/uiEuy7
+GithubAdvisories,[GHSA-2jx7-xg83-j2m7] Zendframework Denial of Service vector via XEE injection,https://github.com/advisories/GHSA-2jx7-xg83-j2m7,https://da.gd/EG3BRb
+GithubAdvisories,[GHSA-gwpm-pm6x-h7rj] ZendFramework Cross-site Scripting vector in `Zend_Filter_StripTags`,https://github.com/advisories/GHSA-gwpm-pm6x-h7rj,https://da.gd/xrzHy
