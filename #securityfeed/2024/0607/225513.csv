@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rcm4-jv5g-wccm] zfr authentication adapter did not verify validity of tokens,https://github.com/advisories/GHSA-rcm4-jv5g-wccm,https://da.gd/uv9yje
+GithubAdvisories,[GHSA-3x57-m5p4-rgh4] ZendOpenID potential security issue in login mechanism,https://github.com/advisories/GHSA-3x57-m5p4-rgh4,https://da.gd/VRCLE
+GithubAdvisories,[GHSA-6fqw-j3vm-7f66] Zendframework1 Potential SQL injection in ORDER and GROUP functions,https://github.com/advisories/GHSA-6fqw-j3vm-7f66,https://da.gd/RiqgRM
+GithubAdvisories,[GHSA-848f-mph5-9pm9] Zendframework Potential Information Disclosure and Insufficient Entropy vulnerability,https://github.com/advisories/GHSA-848f-mph5-9pm9,https://da.gd/WLfDIk
+GithubAdvisories,[GHSA-8xhv-gqm4-3w99] ZendFramework1 Potential Insufficient Entropy Vulnerability,https://github.com/advisories/GHSA-8xhv-gqm4-3w99,https://da.gd/nGmwIH
