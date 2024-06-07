@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c5mj-39cf-3pp5] TYPO3 Security Misconfiguration for Backend User Accounts,https://github.com/advisories/GHSA-c5mj-39cf-3pp5,https://da.gd/ecAF
+GithubAdvisories,[GHSA-xgmx-j3hv-jh9x] TYPO3 Cross-Site Scripting in Link Handling,https://github.com/advisories/GHSA-xgmx-j3hv-jh9x,https://da.gd/ex9U2L
+GithubAdvisories,[GHSA-772m-43f3-hmf8] TYPO3 Broken Access Control in Localization Handling,https://github.com/advisories/GHSA-772m-43f3-hmf8,https://da.gd/Wmp3YY
+GithubAdvisories,[GHSA-g7hw-jh4p-75wr] TYPO3 Cross-Site Scripting in Filelist Module,https://github.com/advisories/GHSA-g7hw-jh4p-75wr,https://da.gd/tJsFDW
+GithubAdvisories,[GHSA-85ch-44w7-rf32] TYPO3 Cross-Site Scripting in Fluid ViewHelpers,https://github.com/advisories/GHSA-85ch-44w7-rf32,https://da.gd/UrVdh3
+GithubAdvisories,[GHSA-hh95-5xm5-v8v7] TYPO3 CMS Possible Insecure Deserialization in Extbase Request Handling,https://github.com/advisories/GHSA-hh95-5xm5-v8v7,https://da.gd/73PQIB
