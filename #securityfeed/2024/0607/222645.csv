@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-v42g-7q2x-cw32] Zendframework1 potential SQL injection vector using null byte for PDO (MsSql, SQLite)",https://github.com/advisories/GHSA-v42g-7q2x-cw32,https://da.gd/GvRLXw
+GithubAdvisories,[GHSA-mg4x-prh7-g4mx] Zend-Captcha Information Disclosure and Insufficient Entropy vulnerability,https://github.com/advisories/GHSA-mg4x-prh7-g4mx,https://da.gd/rnMFX
+GithubAdvisories,[GHSA-2x36-qhx3-7m5f] ZendFramework1 Potential SQL injection in the ORDER implementation of Zend_Db_Select,https://github.com/advisories/GHSA-2x36-qhx3-7m5f,https://da.gd/iIzZS
+GithubAdvisories,[GHSA-9v78-h226-2rmq] Zendframework potential security issue in login mechanism,https://github.com/advisories/GHSA-9v78-h226-2rmq,https://da.gd/8fBZZ
+GithubAdvisories,[GHSA-x86x-qhf8-f37w] willdurand/js-translation-bundle potential path traversal attack and remote code injection,https://github.com/advisories/GHSA-x86x-qhf8-f37w,https://da.gd/NsVWbQ
+GithubAdvisories,[GHSA-97h7-mf38-g9mf] Adminer file disclosure vulnerability,https://github.com/advisories/GHSA-97h7-mf38-g9mf,https://da.gd/McBZ
+GithubAdvisories,[GHSA-78hm-5hjw-58mh] ua-parser/uap-php ReDoS vulnerability,https://github.com/advisories/GHSA-78hm-5hjw-58mh,https://da.gd/Gdur27
+GithubAdvisories,[GHSA-5pqx-77vf-85rw] Wikimedia Parsoid vulnerable to Cross-site Scripting (XSS),https://github.com/advisories/GHSA-5pqx-77vf-85rw,https://da.gd/7DobNF
+GithubAdvisories,[GHSA-qg7m-mwxm-j3h7] Zend-developer-tools information disclosure vulnerability,https://github.com/advisories/GHSA-qg7m-mwxm-j3h7,https://da.gd/ZtE3a
+GithubAdvisories,[GHSA-4vf6-mq7w-3hp6] Zend_Filter_StripTags vulnerable to Cross-site Scripting when comments allowed,https://github.com/advisories/GHSA-4vf6-mq7w-3hp6,https://da.gd/gBLdFj
+GithubAdvisories,[GHSA-fq4p-86hh-42v9] Zend-Diactoros URL Rewrite vulnerability,https://github.com/advisories/GHSA-fq4p-86hh-42v9,https://da.gd/hDnN5
+GithubAdvisories,[GHSA-6v7p-5qcq-268c] Zend-Navigation vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-6v7p-5qcq-268c,https://da.gd/Y6wAZ
+GithubAdvisories,[GHSA-jmmp-vh96-78rm] Zend-Feed URL Rewrite vulnerability,https://github.com/advisories/GHSA-jmmp-vh96-78rm,https://da.gd/B2t3zf
+GithubAdvisories,[GHSA-4v57-pwvf-x35j] Zendframework potential Cross-site Scripting vector in `Zend_Service_ReCaptcha_MailHide`,https://github.com/advisories/GHSA-4v57-pwvf-x35j,https://da.gd/UZSBTg
+GithubAdvisories,[GHSA-gvpp-6jrj-5pqc] Zend-Form vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-gvpp-6jrj-5pqc,https://da.gd/sub7gq
+GithubAdvisories,[GHSA-cr7j-rwmv-vgch] aimeos-core arbitrary file uopload vulnerability,https://github.com/advisories/GHSA-cr7j-rwmv-vgch,https://da.gd/p8ym7J
