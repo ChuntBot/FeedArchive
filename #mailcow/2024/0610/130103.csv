@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,nextcloud: add deprecation notice once script start,https://github.com/mailcow/mailcow-dockerized/commit/533c4e7956146baa2f0da8789a3eb39d195ce675,https://da.gd/oUqqn
+GithubCommitStaging,Merge pull request #5902 from mailcow/feat/nextcloud-deprecation,https://github.com/mailcow/mailcow-dockerized/commit/f675af5bb02233fd3022d8771f9d070f38fc3651,https://da.gd/Eo4Ox
+GithubCommitStaging,Remove unnecessary log lines in Postfix's log (#5817),https://github.com/mailcow/mailcow-dockerized/commit/38b0641742c6b7cfd77d52cc6aa38a2b1b2940ac,https://da.gd/QviQgb
