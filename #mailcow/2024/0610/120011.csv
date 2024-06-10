@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,chore(deps): update dependency nextcloud/server to v28.0.6,https://github.com/mailcow/mailcow-dockerized/commit/cac65d081eeb08668c65750b105061a4c42f93ec,https://da.gd/AwcOCO
+GithubCommitStaging,Merge pull request #5690 from mailcow:renovate/nextcloud-server-28.x,https://github.com/mailcow/mailcow-dockerized/commit/1b2c2c00374d168b8d652086e078d368cfd7cc2d,https://da.gd/WiP6
