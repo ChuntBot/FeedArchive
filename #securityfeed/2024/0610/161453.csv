@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5357-c2jx-v7qh] Authlib has algorithm confusion with asymmetric public keys,https://github.com/advisories/GHSA-5357-c2jx-v7qh,https://da.gd/2GoL
