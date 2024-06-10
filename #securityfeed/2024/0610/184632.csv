@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xmmx-7jpf-fx42] Moby (Docker Engine) is vulnerable to Ambiguous OCI manifest parsing,https://github.com/advisories/GHSA-xmmx-7jpf-fx42,https://da.gd/NC2v3
+GithubAdvisories,[GHSA-99pg-grm5-qq3v] Docker CLI leaks private registry credentials to registry-1.docker.io,https://github.com/advisories/GHSA-99pg-grm5-qq3v,https://da.gd/05qZXV
+GithubAdvisories,[GHSA-v994-f8vw-g7j4] `docker cp` allows unexpected chmod of host files in Moby Docker Engine,https://github.com/advisories/GHSA-v994-f8vw-g7j4,https://da.gd/arIwQu
+GithubAdvisories,[GHSA-69fp-7c8p-crjr] Keycloak exposes sensitive information in Pushed Authorization Requests (PAR),https://github.com/advisories/GHSA-69fp-7c8p-crjr,https://da.gd/HyCz
+GithubAdvisories,[GHSA-3mwc-2cj7-gx8c] lunary-ai/lunary Access Control Vulnerability in Prompt Variation Management,https://github.com/advisories/GHSA-3mwc-2cj7-gx8c,https://da.gd/d7AE
+GithubAdvisories,[GHSA-99hm-86h7-gr3g] zenml-io/zenml does not expire the session after password reset,https://github.com/advisories/GHSA-99hm-86h7-gr3g,https://da.gd/5VNQG8
+GithubAdvisories,[GHSA-87m9-rv8p-rgmg] go-grpc-compression has a zstd decompression bombing vulnerability,https://github.com/advisories/GHSA-87m9-rv8p-rgmg,https://da.gd/hpyyx
