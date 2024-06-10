@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6362-gv4m-53ww] Calico privilege escalation vulnerability,https://github.com/advisories/GHSA-6362-gv4m-53ww,https://da.gd/77uo
+GithubAdvisories,[GHSA-7v5v-9h63-cj86] @grpc/grpc-js can allocate memory for incoming messages well above configured limits,https://github.com/advisories/GHSA-7v5v-9h63-cj86,https://da.gd/2ELbi
+GithubAdvisories,[GHSA-vvhj-v88f-5gxr] ghtml Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-vvhj-v88f-5gxr,https://da.gd/VpiE8
+GithubAdvisories,[GHSA-47f6-5gq3-vx9c] Composer has a command injection via malicious git branch name,https://github.com/advisories/GHSA-47f6-5gq3-vx9c,https://da.gd/M7tI5
+GithubAdvisories,[GHSA-v9qv-c7wm-wgmf] Composer has multiple command injections via malicious git/hg branch names,https://github.com/advisories/GHSA-v9qv-c7wm-wgmf,https://da.gd/bfacZ
