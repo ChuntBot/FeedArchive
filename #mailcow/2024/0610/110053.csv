@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Fixed blocking last connection fetching,https://github.com/mailcow/mailcow-dockerized/commit/6ba2459645567f027ee00b5d0109a61328ba9462,https://da.gd/QgguiU
+GithubCommitStaging,"Add switch to skip fetching certificates auto{config,discover} subdom…",https://github.com/mailcow/mailcow-dockerized/commit/4a052da289c36547fd7863d18e3ba23f8ea5dc78,https://da.gd/loF7
+GithubCommitStaging,Merge pull request #5880 from PierrePlt:fix/blocking-last-logins,https://github.com/mailcow/mailcow-dockerized/commit/97768494e17925e90d376e4a2858b02d5cfa9975,https://da.gd/8q5cv
