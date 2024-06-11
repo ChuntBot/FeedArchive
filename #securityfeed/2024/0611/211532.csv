@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fvcq-4x64-hqxr] Jupyter Server Proxy has a reflected XSS issue in host parameter,https://github.com/advisories/GHSA-fvcq-4x64-hqxr,https://da.gd/XSbYd
