@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5jqc-qj57-4hrc] Jan path traversal vulnerability,https://github.com/advisories/GHSA-5jqc-qj57-4hrc,https://da.gd/29UWiA
+GithubAdvisories,[GHSA-7jmw-8259-q9jx] Traefik has unexpected behavior with IPv4-mapped IPv6 addresses,https://github.com/advisories/GHSA-7jmw-8259-q9jx,https://da.gd/nh7L4V
+GithubAdvisories,[GHSA-j2hg-w4p4-6rvm] EC-CUBE vulnerable to authorization bypass,https://github.com/advisories/GHSA-j2hg-w4p4-6rvm,https://da.gd/oisuKx
+GithubAdvisories,[GHSA-qg33-x2c5-6p44] Langflow remote code execution vulnerability,https://github.com/advisories/GHSA-qg33-x2c5-6p44,https://da.gd/ICjC
