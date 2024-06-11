@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-32f8-hmr3-7vxg] Azure Storage Movement Client Library Denial of Service Vulnerability,https://github.com/advisories/GHSA-32f8-hmr3-7vxg,https://da.gd/TCRgnq
+GithubAdvisories,[GHSA-m5vv-6r4h-3vj9] Azure Identity Libraries and Microsoft Authentication Library Elevation of Privilege Vulnerability,https://github.com/advisories/GHSA-m5vv-6r4h-3vj9,https://da.gd/2Ea2l
+GithubAdvisories,[GHSA-878h-rqcq-mv3x] Jan path traversal vulnerability,https://github.com/advisories/GHSA-878h-rqcq-mv3x,https://da.gd/1x3j8
+GithubAdvisories,[GHSA-qfjh-mvq6-c5p8] Jan path traversal vulnerability,https://github.com/advisories/GHSA-qfjh-mvq6-c5p8,https://da.gd/L5CZ
