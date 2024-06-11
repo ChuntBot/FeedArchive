@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v5gf-r78h-55q6] document-merge-service vulnerable to Remote Code Execution via Server-Side Template Injection,https://github.com/advisories/GHSA-v5gf-r78h-55q6,https://da.gd/2KK62N
+GithubAdvisories,[GHSA-2cww-fgmg-4jqc] Keycloak's admin API allows low privilege users to use administrative functions,https://github.com/advisories/GHSA-2cww-fgmg-4jqc,https://da.gd/5evnDH
