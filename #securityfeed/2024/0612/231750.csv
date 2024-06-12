@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2hmf-46v7-v6fx] gqlparser denial of service vulnerability via the parserDirectives function,https://github.com/advisories/GHSA-2hmf-46v7-v6fx,https://da.gd/hO2O
