@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-32cj-5wx4-gq8p] HashiCorp Vault Incorrectly Validated JSON Web Tokens (JWT) Audience Claims,https://github.com/advisories/GHSA-32cj-5wx4-gq8p,https://da.gd/0yoQl
