@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gprj-3p75-f996] Globus `identity_provider` restriction ignored when used with `allow_all` in JupyterHub 5.0,https://github.com/advisories/GHSA-gprj-3p75-f996,https://da.gd/3pPPcG
+GithubAdvisories,[GHSA-vqwr-q6cc-c242] parisneo/lollms Local File Inclusion (LFI) attack,https://github.com/advisories/GHSA-vqwr-q6cc-c242,https://da.gd/G2Jo
