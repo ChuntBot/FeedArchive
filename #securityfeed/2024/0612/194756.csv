@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6q97-8v3g-rpxw] Apache Submarine Server Core Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-6q97-8v3g-rpxw,https://da.gd/fYgcSC
+GithubAdvisories,[GHSA-cc55-mvqc-g9mg] SummerNote Cross Site Scripting Vulnerability,https://github.com/advisories/GHSA-cc55-mvqc-g9mg,https://da.gd/q8Yce
+GithubAdvisories,[GHSA-v74c-qc46-9gg9] Apache Submarine Server Core has a SQL Injection Vulnerability,https://github.com/advisories/GHSA-v74c-qc46-9gg9,https://da.gd/OdjLKs
+GithubAdvisories,[GHSA-jwcg-wv5x-vg3g] Apache Submarine Commons Utils has a hard-coded secret,https://github.com/advisories/GHSA-jwcg-wv5x-vg3g,https://da.gd/wPklT
+GithubAdvisories,[GHSA-4c7q-m7hc-pc92] Elasticsearch Remote Cluster Search Cross Cluster API Key insufficient restrictions,https://github.com/advisories/GHSA-4c7q-m7hc-pc92,https://da.gd/EatzN
+GithubAdvisories,[GHSA-hjx6-f647-mvf9] Invenio-Communities has a Cross-Site Scripting (XSS) vulnerability in React components,https://github.com/advisories/GHSA-hjx6-f647-mvf9,https://da.gd/AJpde
+GithubAdvisories,[GHSA-cq42-vhv7-xr7p] Keycloak Denial of Service via account lockout,https://github.com/advisories/GHSA-cq42-vhv7-xr7p,https://da.gd/EgGCS
+GithubAdvisories,[GHSA-4vc8-pg5c-vg4x] Keycloak's improper input validation allows using email as username,https://github.com/advisories/GHSA-4vc8-pg5c-vg4x,https://da.gd/ApJ3p
+GithubAdvisories,[GHSA-cv23-q6gh-xfrf] WooCommerce has a Cross-Site Scripting Vulnerability in checkout & registration forms,https://github.com/advisories/GHSA-cv23-q6gh-xfrf,https://da.gd/FEKy
+GithubAdvisories,[GHSA-wrvh-rcmr-9qfc] @strapi/plugin-users-permissions leaks 3rd party authentication tokens and authentication bypass,https://github.com/advisories/GHSA-wrvh-rcmr-9qfc,https://da.gd/N5stz
+GithubAdvisories,[GHSA-pm9q-xj9p-96pm] @strapi/plugin-upload has a Denial-of-Service via Improper Exception Handling,https://github.com/advisories/GHSA-pm9q-xj9p-96pm,https://da.gd/Ntnt4
+GithubAdvisories,[GHSA-6j89-frxc-q26m] @strapi/plugin-content-manager leaks data via relations via the Admin Panel,https://github.com/advisories/GHSA-6j89-frxc-q26m,https://da.gd/tbLMDF
