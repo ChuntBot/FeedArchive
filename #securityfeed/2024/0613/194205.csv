@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-85rg-8m6h-825p] Vulnerabilities with the k8sGPT,https://github.com/advisories/GHSA-85rg-8m6h-825p,https://da.gd/HoiRXD
+GithubAdvisories,[GHSA-x268-qpg6-w9g2] CrateDB has a Client initialized Session-Renegotiation DoS,https://github.com/advisories/GHSA-x268-qpg6-w9g2,https://da.gd/vdpCu
+GithubAdvisories,[GHSA-m8cj-3v68-3cxj] Magento Open Source affected by an Improper Restriction of XML External Entity Reference ('XXE') vulnerability,https://github.com/advisories/GHSA-m8cj-3v68-3cxj,https://da.gd/mMOcPE
+GithubAdvisories,[GHSA-wh78-7948-358j] Cilium leaks sensitive information in cilium-bugtool,https://github.com/advisories/GHSA-wh78-7948-358j,https://da.gd/FeQ8Tr
