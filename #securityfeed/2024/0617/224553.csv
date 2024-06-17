@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jw8x-6495-233v] scikit-learn sensitive data leakage vulnerability,https://github.com/advisories/GHSA-jw8x-6495-233v,https://da.gd/AmwE8u
+GithubAdvisories,[GHSA-64jq-m7rq-768h] Rancher's External RoleTemplates can lead to privilege escalation,https://github.com/advisories/GHSA-64jq-m7rq-768h,https://da.gd/7DLV
+GithubAdvisories,[GHSA-q6c7-56cq-g2wm] Rancher's RKE1 Encryption Config kept in plain-text within cluster AppliedSpec,https://github.com/advisories/GHSA-q6c7-56cq-g2wm,https://da.gd/VEAUW
+GithubAdvisories,[GHSA-6gr4-52w6-vmqx] rke's credentials are stored in the RKE1 Cluster state ConfigMap,https://github.com/advisories/GHSA-6gr4-52w6-vmqx,https://da.gd/wL3XN
+GithubAdvisories,[GHSA-9ghh-mmcq-8phc] Rancher does not automatically clean up a user deleted or disabled from the configured Authentication Provider,https://github.com/advisories/GHSA-9ghh-mmcq-8phc,https://da.gd/nWcE
+GithubAdvisories,[GHSA-mj4p-gmhr-92g3] @akbr/update Prototype Pollution,https://github.com/advisories/GHSA-mj4p-gmhr-92g3,https://da.gd/kuiJC
+GithubAdvisories,[GHSA-qj86-v6m7-4qv2] Object Resolver Prototype Pollution,https://github.com/advisories/GHSA-qj86-v6m7-4qv2,https://da.gd/Chdi
+GithubAdvisories,[GHSA-j8px-pjmp-325f] flatten-json Prototype Pollution,https://github.com/advisories/GHSA-j8px-pjmp-325f,https://da.gd/vlgfCU
+GithubAdvisories,[GHSA-jj58-488v-4rgf] obx Prototype Pollution,https://github.com/advisories/GHSA-jj58-488v-4rgf,https://da.gd/q1fVfG
+GithubAdvisories,[GHSA-p36r-qxgx-jq2v] Lobe Chat API Key Leak,https://github.com/advisories/GHSA-p36r-qxgx-jq2v,https://da.gd/hJ9NBB
+GithubAdvisories,[GHSA-4gm4-c4mh-4p7w] Firefly III has a MFA bypass in oauth flow,https://github.com/advisories/GHSA-4gm4-c4mh-4p7w,https://da.gd/BPoXEY
