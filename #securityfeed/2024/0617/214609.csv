@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-69r2-2fg7-7hf9] Badger Database Prototype Pollution,https://github.com/advisories/GHSA-69r2-2fg7-7hf9,https://da.gd/0Gh5X
+GithubAdvisories,[GHSA-4xg3-7w7q-856q] object-deep-assign Prototype Pollution,https://github.com/advisories/GHSA-4xg3-7w7q-856q,https://da.gd/9dFEQ6
+GithubAdvisories,[GHSA-34jh-p97f-mpxf] urllib3's Proxy-Authorization request header isn't stripped during cross-origin redirects,https://github.com/advisories/GHSA-34jh-p97f-mpxf,https://da.gd/by2o93
+GithubAdvisories,[GHSA-fg52-5jjj-28h7] @cdr0/sg Prototype Pollution,https://github.com/advisories/GHSA-fg52-5jjj-28h7,https://da.gd/aa2OxF
+GithubAdvisories,[GHSA-3j4h-h3fp-vwww] LNbits improperly handles potential network and payment failures when using Eclair backend,https://github.com/advisories/GHSA-3j4h-h3fp-vwww,https://da.gd/ed9AG
+GithubAdvisories,"[GHSA-9xpj-62mm-24h2] Apache Airflow does not return the ""Cache-Control"" header for dynamic content",https://github.com/advisories/GHSA-9xpj-62mm-24h2,https://da.gd/jhhgz
+GithubAdvisories,[GHSA-xgqm-wp7w-mgg2] Mattermost Desktop App allows for bypassing TCC restrictions on macOS,https://github.com/advisories/GHSA-xgqm-wp7w-mgg2,https://da.gd/Wz6w
+GithubAdvisories,[GHSA-hvxg-77mg-vrvp] Mattermost Desktop App Remote Code Execution,https://github.com/advisories/GHSA-hvxg-77mg-vrvp,https://da.gd/mvizRD
+GithubAdvisories,[GHSA-544r-fc65-v832] Snipe-IT allows users to promote or demote themselves or other users,https://github.com/advisories/GHSA-544r-fc65-v832,https://da.gd/Jxuk8J
+GithubAdvisories,[GHSA-hw2c-8xgw-mf57] SonarQube logs sensitive information,https://github.com/advisories/GHSA-hw2c-8xgw-mf57,https://da.gd/cxWcE
+GithubAdvisories,[GHSA-wmvm-9vqv-5qpp] langchain_experimental Code Execution via Python REPL access,https://github.com/advisories/GHSA-wmvm-9vqv-5qpp,https://da.gd/BpASn5
+GithubAdvisories,[GHSA-w877-jfw7-46rj] DeepJavaLibrary API absolute path traversal,https://github.com/advisories/GHSA-w877-jfw7-46rj,https://da.gd/Xiy5Q
