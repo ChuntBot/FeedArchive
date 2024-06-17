@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3h5v-q93c-6h6q] ws affected by a DoS when handling a request with many HTTP headers,https://github.com/advisories/GHSA-3h5v-q93c-6h6q,https://da.gd/v6DCA
