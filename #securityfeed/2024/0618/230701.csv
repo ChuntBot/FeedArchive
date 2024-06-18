@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r82w-3phg-qvr4] Moodle uses the same key for QR login and auto-login,https://github.com/advisories/GHSA-r82w-3phg-qvr4,https://da.gd/X1rom
+GithubAdvisories,[GHSA-356g-7x36-7m34] Moodle CSRF risks due to misuse of confirm_sesskey,https://github.com/advisories/GHSA-356g-7x36-7m34,https://da.gd/dAqxfk
+GithubAdvisories,"[GHSA-p2cj-86v4-7782] Moodle HTTP authorization header is preserved between ""emulated redirects""",https://github.com/advisories/GHSA-p2cj-86v4-7782,https://da.gd/x3VkME
+GithubAdvisories,[GHSA-p7r8-7w87-8g46] Dolibarr arbitrary file upload vulnerability,https://github.com/advisories/GHSA-p7r8-7w87-8g46,https://da.gd/qqsm
+GithubAdvisories,[GHSA-p5cg-6rfr-6mx8] Moodle stored XSS via calendar's event title when deleting the event,https://github.com/advisories/GHSA-p5cg-6rfr-6mx8,https://da.gd/X9kw
