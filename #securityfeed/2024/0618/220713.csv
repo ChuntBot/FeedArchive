@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x29x-qwvx-fxr2] Moodle BigBlueButton web service leaks meeting joining information,https://github.com/advisories/GHSA-x29x-qwvx-fxr2,https://da.gd/bvaW0z
+GithubAdvisories,[GHSA-x4gp-pqpj-f43q] curve25519-dalek has timing variability in `curve25519-dalek`'s `Scalar29::sub`/`Scalar52::sub`,https://github.com/advisories/GHSA-x4gp-pqpj-f43q,https://da.gd/6DvMIE
