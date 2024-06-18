@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gmrm-8fx4-66x7] Keycloak: Leak of configured LDAP bind credentials,https://github.com/advisories/GHSA-gmrm-8fx4-66x7,https://da.gd/2AckD
+GithubAdvisories,[GHSA-hpcg-xjq5-g666] Minder affected by denial of service from maliciously configured Git repository,https://github.com/advisories/GHSA-hpcg-xjq5-g666,https://da.gd/T0Diat
+GithubAdvisories,[GHSA-q2xx-f8r3-9mg5] STRIMZI incorrect access control,https://github.com/advisories/GHSA-q2xx-f8r3-9mg5,https://da.gd/iLs9la
