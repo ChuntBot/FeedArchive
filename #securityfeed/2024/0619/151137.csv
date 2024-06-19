@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9hcv-j9pv-qmph] TinyMCE Cross-Site Scripting (XSS) vulnerability using noneditable_regexp option,https://github.com/advisories/GHSA-9hcv-j9pv-qmph,https://da.gd/XVXYP
+GithubAdvisories,[GHSA-w9jx-4g6g-rp7x] TinyMCE Cross-Site Scripting (XSS) vulnerability using noscript elements,https://github.com/advisories/GHSA-w9jx-4g6g-rp7x,https://da.gd/ook0X
+GithubAdvisories,[GHSA-25hc-qcg6-38wj] socket.io has an unhandled 'error' event,https://github.com/advisories/GHSA-25hc-qcg6-38wj,https://da.gd/cPvXM
