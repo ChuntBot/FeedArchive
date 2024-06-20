@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h95x-26f3-88hr] js2py allows remote code execution,https://github.com/advisories/GHSA-h95x-26f3-88hr,https://da.gd/wTjGJ
+GithubAdvisories,[GHSA-9gxx-58q6-42p7] Lightning Network Daemon (LND)'s onion processing logic leads to a denial of service,https://github.com/advisories/GHSA-9gxx-58q6-42p7,https://da.gd/f8Zr
