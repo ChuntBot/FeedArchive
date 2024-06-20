@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-grjv-gjgr-66g2] SpiceDB exclusions can result in no permission returned when permission expected,https://github.com/advisories/GHSA-grjv-gjgr-66g2,https://da.gd/kokf
+GithubAdvisories,[GHSA-9442-gm4v-r222] Undertow's url-encoded request path information can be broken on ajp-listener,https://github.com/advisories/GHSA-9442-gm4v-r222,https://da.gd/Cg3KMG
+GithubAdvisories,[GHSA-rvj4-q8q5-8grf] ACME DNS: Azure Identity Libraries Elevation of Privilege Vulnerability,https://github.com/advisories/GHSA-rvj4-q8q5-8grf,https://da.gd/yxoFu
+GithubAdvisories,[GHSA-j584-j2vj-3f93] XWiki Platform allows remote code execution from user account,https://github.com/advisories/GHSA-j584-j2vj-3f93,https://da.gd/K9LFg
+GithubAdvisories,[GHSA-hcr7-cqwc-q5gq] Apache Superset server arbitrary file read,https://github.com/advisories/GHSA-hcr7-cqwc-q5gq,https://da.gd/4CCpS
+GithubAdvisories,[GHSA-hw5f-6wvv-xcrh] SFTPGo has insufficient access control for password reset,https://github.com/advisories/GHSA-hw5f-6wvv-xcrh,https://da.gd/zFq1Xj
+GithubAdvisories,[GHSA-cpcx-r2gq-x893] LocalAI path traversal vulnerability,https://github.com/advisories/GHSA-cpcx-r2gq-x893,https://da.gd/s7abn
