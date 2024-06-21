@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c25h-c27q-5qpv] Keycloak leaks configured LDAP bind credentials through the Keycloak admin console,https://github.com/advisories/GHSA-c25h-c27q-5qpv,https://da.gd/kV9Oc
