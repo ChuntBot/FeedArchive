@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jg62-h7pv-hxgv] FriendlyCaptcha Plugin for TYPO3 Captcha Check Bypass,https://github.com/advisories/GHSA-jg62-h7pv-hxgv,https://da.gd/gwGwtJ
+GithubAdvisories,[GHSA-cchp-3rq6-69wj] events2 TYPO3 extension insecure direct object reference (IDOR) vulnerability,https://github.com/advisories/GHSA-cchp-3rq6-69wj,https://da.gd/JRYBRJ
+GithubAdvisories,[GHSA-v2xm-76pq-phcf] ClassGraph XML External Entity Reference,https://github.com/advisories/GHSA-v2xm-76pq-phcf,https://da.gd/yu9D57
