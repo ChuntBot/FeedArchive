@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v6v8-xj6m-xwqh] go-retryablehttp can leak basic auth credentials to log files,https://github.com/advisories/GHSA-v6v8-xj6m-xwqh,https://da.gd/H5Abf
+GithubAdvisories,[GHSA-36gf-vpj2-j42w] Cross site scripting in Apache JSPWiki,https://github.com/advisories/GHSA-36gf-vpj2-j42w,https://da.gd/FT4bk
+GithubAdvisories,[GHSA-7gjr-hcc3-xfr4] Improper line feed handling in zenml,https://github.com/advisories/GHSA-7gjr-hcc3-xfr4,https://da.gd/DIj7e
+GithubAdvisories,[GHSA-79h8-gxhq-q3jg] Remote Code Execution in create_conda_env function in lollms,https://github.com/advisories/GHSA-79h8-gxhq-q3jg,https://da.gd/WhI9Aq
+GithubAdvisories,[GHSA-mvrm-fh8q-6wr2] Remote Code Execution via path traversal bypass in lollms,https://github.com/advisories/GHSA-mvrm-fh8q-6wr2,https://da.gd/ppjxq
+GithubAdvisories,[GHSA-g6c9-f4xm-9j4x] Open redirect in gradio,https://github.com/advisories/GHSA-g6c9-f4xm-9j4x,https://da.gd/hrVpx2
