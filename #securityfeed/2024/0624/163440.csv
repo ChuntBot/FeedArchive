@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h26w-r4m5-8rrf] CodeChecker has a Path traversal in `CodeChecker server` in the endpoint of `CodeChecker store`,https://github.com/advisories/GHSA-h26w-r4m5-8rrf,https://da.gd/1X6T
