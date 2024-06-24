@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-683x-4444-jxh8] Improper Restriction of XML External Entity Reference in org.cyclonedx:cyclonedx-core-java,https://github.com/advisories/GHSA-683x-4444-jxh8,https://da.gd/cPZuu
+GithubAdvisories,[GHSA-7q3h-j95q-3vjh] Arbitrary File Creation in opencart,https://github.com/advisories/GHSA-7q3h-j95q-3vjh,https://da.gd/Q19iRQ
+GithubAdvisories,[GHSA-m7r8-2r98-vppj] Zip slip in opencart,https://github.com/advisories/GHSA-m7r8-2r98-vppj,https://da.gd/7XvK1
+GithubAdvisories,[GHSA-qc3q-8rr8-8p5v] Cross site scripting in opencart,https://github.com/advisories/GHSA-qc3q-8rr8-8p5v,https://da.gd/ysRnJT
+GithubAdvisories,[GHSA-pqhq-77pw-763c] Cross site scripting in opencart,https://github.com/advisories/GHSA-pqhq-77pw-763c,https://da.gd/UyZJNn
+GithubAdvisories,[GHSA-qx44-885h-7p56] Cross site scripting in opencart,https://github.com/advisories/GHSA-qx44-885h-7p56,https://da.gd/Olau
