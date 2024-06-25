@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xfhp-jf8p-mh5w] HashiCorp go-getter Vulnerable to Code Execution On Git Update Via Git Config Manipulation,https://github.com/advisories/GHSA-xfhp-jf8p-mh5w,https://da.gd/gFiaP
