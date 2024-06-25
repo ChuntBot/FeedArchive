@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5vgj-ggm4-fg62] pdoc embeds link to malicious CDN if math mode is enabled,https://github.com/advisories/GHSA-5vgj-ggm4-fg62,https://da.gd/Xv7bC
