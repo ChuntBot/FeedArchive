@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ppm5-jv84-2xg2] Aimeos HTML client may potentially reveal sensitive information in error log,https://github.com/advisories/GHSA-ppm5-jv84-2xg2,https://da.gd/b8cf7v
+GithubAdvisories,[GHSA-94cc-xjxr-pwvf] DSpace Cross Site Scripting (XSS) via a deposited HTML/XML document,https://github.com/advisories/GHSA-94cc-xjxr-pwvf,https://da.gd/3Gk3V
