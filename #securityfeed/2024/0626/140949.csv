@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rjw8-v7rr-r563] October System module has a Reflected XSS via X-October-Request-Handler Header,https://github.com/advisories/GHSA-rjw8-v7rr-r563,https://da.gd/Ua3yT
