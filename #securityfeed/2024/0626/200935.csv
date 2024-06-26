@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3cpq-rw36-cppv] Secret file credentials stored unencrypted in rare cases by Plain Credentials Plugin,https://github.com/advisories/GHSA-3cpq-rw36-cppv,https://da.gd/etCaLE
+GithubAdvisories,[GHSA-xfx3-cr74-x3cv] Exposure of secrets through system log in Jenkins Structs Plugin,https://github.com/advisories/GHSA-xfx3-cr74-x3cv,https://da.gd/HlJ4
+GithubAdvisories,[GHSA-x8mf-jcmf-r79f] Bitbucket OAuth access token exposed in the build log by Bitbucket Branch Source Plugin,https://github.com/advisories/GHSA-x8mf-jcmf-r79f,https://da.gd/vlhqJ
