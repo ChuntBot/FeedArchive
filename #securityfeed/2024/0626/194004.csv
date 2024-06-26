@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9phm-fm57-rhg8] Panic when parsing invalid palette-color images in golang.org/x/image,https://github.com/advisories/GHSA-9phm-fm57-rhg8,https://da.gd/aezrfd
+GithubAdvisories,[GHSA-mp3g-vpm9-9vqv] @fastly/js-compute has a use-after-free in some host call implementations,https://github.com/advisories/GHSA-mp3g-vpm9-9vqv,https://da.gd/XZnQ
+GithubAdvisories,[GHSA-9344-p847-qm5c] Low severity (DoS) vulnerability in sequoia-openpgp,https://github.com/advisories/GHSA-9344-p847-qm5c,https://da.gd/a9igmF
