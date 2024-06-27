@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,Merge pull request #5750 from DocFraggle:staging,https://github.com/mailcow/mailcow-dockerized/commit/27c007ebd3aff7a32df5f61e065d1cb719221eb1,https://da.gd/NcKYN
+GithubCommit,compose: removed all versions declarations (DEPRECATED),https://github.com/mailcow/mailcow-dockerized/commit/e0bde1c459bb4b5b8b21a67e0d98ac46b705f1bd,https://da.gd/dr17XC
+GithubCommit,Merge pull request #5845 from iamspido:patch-1,https://github.com/mailcow/mailcow-dockerized/commit/b4e8355827ac2f66ff1f3b470f37aa121f8a7867,https://da.gd/GO0i
+GithubCommit,Remove discontinued SORBS DNSBL,https://github.com/mailcow/mailcow-dockerized/commit/9ca2fb7ccff5da7eedde3ac61e423f991fd27f45,https://da.gd/yaIG9
+GithubCommit,Merge pull request #5901 from mailcow:sorbs,https://github.com/mailcow/mailcow-dockerized/commit/18d7a55b15fdcf62abc77a570d77dc605998555e,https://da.gd/mMFqE5
+GithubCommit,"Add switch to skip fetching certificates auto{config,discover} subdom…",https://github.com/mailcow/mailcow-dockerized/commit/4a052da289c36547fd7863d18e3ba23f8ea5dc78,https://da.gd/loF7
+GithubCommit,Merge pull request #5880 from PierrePlt:fix/blocking-last-logins,https://github.com/mailcow/mailcow-dockerized/commit/97768494e17925e90d376e4a2858b02d5cfa9975,https://da.gd/8q5cv
+GithubCommit,Merge pull request #5690 from mailcow:renovate/nextcloud-server-28.x,https://github.com/mailcow/mailcow-dockerized/commit/1b2c2c00374d168b8d652086e078d368cfd7cc2d,https://da.gd/WiP6
+GithubCommit,nextcloud: add deprecation notice once script start,https://github.com/mailcow/mailcow-dockerized/commit/533c4e7956146baa2f0da8789a3eb39d195ce675,https://da.gd/oUqqn
+GithubCommit,Merge pull request #5902 from mailcow/feat/nextcloud-deprecation,https://github.com/mailcow/mailcow-dockerized/commit/f675af5bb02233fd3022d8771f9d070f38fc3651,https://da.gd/Eo4Ox
+GithubCommit,Remove unnecessary log lines in Postfix's log (#5817),https://github.com/mailcow/mailcow-dockerized/commit/38b0641742c6b7cfd77d52cc6aa38a2b1b2940ac,https://da.gd/QviQgb
+GithubCommit,Translations update from Weblate (#5908),https://github.com/mailcow/mailcow-dockerized/commit/9daf2d80c0f584de398df88de8bc52aed4ae76a7,https://da.gd/qSg4m
+GithubCommit,chore(deps): update docker/build-push-action action to v6 (#5910),https://github.com/mailcow/mailcow-dockerized/commit/527577b4389ae8c5b9686d1fc3f2480145307a0b,https://da.gd/9v4SF1
+GithubCommit,[Rspamd] Delete overriding obsolete rspamd plugin (#5900),https://github.com/mailcow/mailcow-dockerized/commit/443941e68748472604f9a6ee983e94732a460e0b,https://da.gd/mfHIG
+GithubCommit,Translations update from Weblate (#5912),https://github.com/mailcow/mailcow-dockerized/commit/1af9c21a50e0bc937062c348ec9610b1db87418f,https://da.gd/IyHrI
+GithubCommit,increased rspamd image tag,https://github.com/mailcow/mailcow-dockerized/commit/bf13af96917ebf86a76d2b90c6745088e156da90,https://da.gd/AEtiHy
+GithubCommit,acme: corrected acme-tiny download path,https://github.com/mailcow/mailcow-dockerized/commit/6fc86dd7d33794fb82cdba774f3b54f1eb3b37dd,https://da.gd/LyW87e
+GithubCommit,[Postfix] Upgrade to Deb12 + PF to 3.7.10 & Drop TLS 1.0/1.1 per defa…,https://github.com/mailcow/mailcow-dockerized/commit/2cf952eb368609e44e9c076f9e2b058effeae6b7,https://da.gd/fbZBkn
+GithubCommit,dovecot: add Flatcurve FTS Engine as EXPERIMENTAL (#5920),https://github.com/mailcow/mailcow-dockerized/commit/cf6594220cdc74426f71f6eeb11a9a7cd089036b,https://da.gd/eGxkn
+GithubCommit,Merge pull request #5922 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/9c814cc18235208f574043211d3d8424c309ff39,https://da.gd/7OAvDF
