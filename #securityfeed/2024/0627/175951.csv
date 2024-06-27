@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2qw3-2wv6-p64x] Path traversal in saltstack,https://github.com/advisories/GHSA-2qw3-2wv6-p64x,https://da.gd/PjML5
+GithubAdvisories,[GHSA-q27c-j6j9-53w3] Directory creation by malicious user in saltstack,https://github.com/advisories/GHSA-q27c-j6j9-53w3,https://da.gd/OZ3IaV
