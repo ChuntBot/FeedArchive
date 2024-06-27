@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommit,"Revert ""Translations update from Weblate (#5912)""",https://github.com/mailcow/mailcow-dockerized/commit/9715c5731429fbcb9c9b00f87c864fbb567ff359,https://da.gd/pgbhQ
+GithubCommit,Merge pull request #5925 from mailcow/revert-5912-weblate-translated,https://github.com/mailcow/mailcow-dockerized/commit/b9ae174a6aaff3a141bb24c9986afd58f7a61f3b,https://da.gd/mxZCd
+GithubCommit,Merge pull request #5926 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/70126e1f0cb0f78d99446453521b8d665fe07db9,https://da.gd/uDxSHg
