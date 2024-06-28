@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qqcv-vg9f-5rr3] litellm vulnerable to improper access control in team management,https://github.com/advisories/GHSA-qqcv-vg9f-5rr3,https://da.gd/hvgki
+GithubAdvisories,[GHSA-hg58-rf2h-6rr7] CometBFT is unstability during blocksync when syncing from malicious peer,https://github.com/advisories/GHSA-hg58-rf2h-6rr7,https://da.gd/ggDMi9
