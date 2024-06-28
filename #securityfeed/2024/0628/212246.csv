@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cgvx-9447-vcch] ntlk unsafe deserialization vulnerability,https://github.com/advisories/GHSA-cgvx-9447-vcch,https://da.gd/fy8BL
+GithubAdvisories,[GHSA-w9qf-83jg-2x6c] lollms vulnerable to dot-dot-slash path traversal in XTTS server,https://github.com/advisories/GHSA-w9qf-83jg-2x6c,https://da.gd/kJb0DH
+GithubAdvisories,[GHSA-9chm-m6x2-6fvc] lollms vulnerable to path traversal due to unauthenticated root folder settings change,https://github.com/advisories/GHSA-9chm-m6x2-6fvc,https://da.gd/W9pjI
+GithubAdvisories,[GHSA-mr7h-w2qc-ffc2] pytorch-lightning vulnerable to Arbitrary File Write via /v1/runs API endpoint,https://github.com/advisories/GHSA-mr7h-w2qc-ffc2,https://da.gd/for9j
+GithubAdvisories,[GHSA-58m3-rcvp-f9ww] h2o vulnerable to unexpected POST request shutting down server,https://github.com/advisories/GHSA-58m3-rcvp-f9ww,https://da.gd/LxMffo
+GithubAdvisories,[GHSA-rrqq-fv6m-692m] vanna vulnerable to remote code execution caused by prompt injection,https://github.com/advisories/GHSA-rrqq-fv6m-692m,https://da.gd/v2dyQ
+GithubAdvisories,"[GHSA-m45c-v46h-c788] lollms path traversal vulnerability allows overriding of config.yaml file, leading to RCE",https://github.com/advisories/GHSA-m45c-v46h-c788,https://da.gd/ujEFX
+GithubAdvisories,[GHSA-gppg-gqw8-wh9g] litellm vulnerable to remote code exection base on using eval unsafely,https://github.com/advisories/GHSA-gppg-gqw8-wh9g,https://da.gd/A2mI
+GithubAdvisories,[GHSA-2xpx-vcmq-5f72] Unlimited number of NTS-KE connections can crash ntpd-rs server,https://github.com/advisories/GHSA-2xpx-vcmq-5f72,https://da.gd/IHIHL
