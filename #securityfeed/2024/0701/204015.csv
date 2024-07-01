@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3669-72x9-r9p3] Potential memory exhaustion attack due to sparse slice deserialization,https://github.com/advisories/GHSA-3669-72x9-r9p3,https://da.gd/RCmh7j
+GithubAdvisories,[GHSA-98j2-3j3p-fw2v] Session Middleware Token Injection Vulnerability,https://github.com/advisories/GHSA-98j2-3j3p-fw2v,https://da.gd/Ml3QOz
+GithubAdvisories,[GHSA-6jj6-gm7p-fcvv] Remote Code Execution (RCE) vulnerability in geoserver,https://github.com/advisories/GHSA-6jj6-gm7p-fcvv,https://da.gd/Wbl3wP
