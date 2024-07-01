@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cf3q-vg8w-mw84] Apache StreamPipes: Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG) in Recovery Token Generation,https://github.com/advisories/GHSA-cf3q-vg8w-mw84,https://da.gd/Xl8iU
