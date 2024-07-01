@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gc7m-596h-x57r] frappejs was discovered to contain a prototype pollution via the function registerView,https://github.com/advisories/GHSA-gc7m-596h-x57r,https://da.gd/042EyB
+GithubAdvisories,[GHSA-4wm9-3qmv-gvxj] jsonic was discovered to contain a prototype pollution via the function empty,https://github.com/advisories/GHSA-4wm9-3qmv-gvxj,https://da.gd/IQ0ow
+GithubAdvisories,[GHSA-w58v-r3cp-qr93] @amoy/common v was discovered to contain a prototype pollution via the function extend,https://github.com/advisories/GHSA-w58v-r3cp-qr93,https://da.gd/Ku7NK
