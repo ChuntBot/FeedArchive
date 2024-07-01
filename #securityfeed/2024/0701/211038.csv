@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jfgp-674x-6q4p] Weblate vulnerable to improper sanitization of project backups,https://github.com/advisories/GHSA-jfgp-674x-6q4p,https://da.gd/A1Jey6
