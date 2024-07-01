@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-88vr-hjqx-57qh] adolph_dudu ratio-swiper was discovered to contain a prototype pollution via the function extendDefaults,https://github.com/advisories/GHSA-88vr-hjqx-57qh,https://da.gd/Z0HfkX
+GithubAdvisories,[GHSA-876p-c77m-x2hc] ag-grid-community were discovered to contain a prototype pollution via the _.mergeDeep function,https://github.com/advisories/GHSA-876p-c77m-x2hc,https://da.gd/1FLrb3
+GithubAdvisories,[GHSA-9v2f-6vcg-3hgv] Gradio was discovered to contain a code injection vulnerability via the component /gradio/component_meta.py,https://github.com/advisories/GHSA-9v2f-6vcg-3hgv,https://da.gd/jRuOu6
