@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jhqx-5v5g-mpf3] Classpath resource disclosure in GWC Web Resource API on Windows / Tomcat,https://github.com/advisories/GHSA-jhqx-5v5g-mpf3,https://da.gd/RvRsl
+GithubAdvisories,[GHSA-j59v-vgcr-hxvf] GeoServer's Server Status shows sensitive environmental variables and Java properties,https://github.com/advisories/GHSA-j59v-vgcr-hxvf,https://da.gd/IzOw4
