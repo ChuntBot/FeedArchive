@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c2hr-cqg6-8j6r] ZDI-CAN-23894: Parse Server literalizeRegexPart SQL Injection Authentication Bypass Vulnerability,https://github.com/advisories/GHSA-c2hr-cqg6-8j6r,https://da.gd/tP18C
+GithubAdvisories,[GHSA-3434-hc3m-8mmm] Reflected Cross-Site Scripting (XSS) in zenml,https://github.com/advisories/GHSA-3434-hc3m-8mmm,https://da.gd/u8s8v
