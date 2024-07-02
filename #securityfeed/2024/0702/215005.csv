@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8fj2-587w-5whr] aimeos/ai-admin-jsonadm improper access control vulnerability allows editors to remove required records,https://github.com/advisories/GHSA-8fj2-587w-5whr,https://da.gd/PH6qXI
+GithubAdvisories,[GHSA-jj68-cp4v-98qf] aimeos/ai-admin-graphql improper access control vulnerability allows editors to manage own services,https://github.com/advisories/GHSA-jj68-cp4v-98qf,https://da.gd/Fezd
+GithubAdvisories,[GHSA-vc7j-99jw-jrqm] aimeos/ai-admin-graphql improper access control vulnerability allows an editor to modify admin account,https://github.com/advisories/GHSA-vc7j-99jw-jrqm,https://da.gd/DPTHEY
+GithubAdvisories,[GHSA-cvw4-c69g-7v7m] Inclusion of Untrusted polyfill.io Code Vulnerability in fides.js,https://github.com/advisories/GHSA-cvw4-c69g-7v7m,https://da.gd/LGPQ
