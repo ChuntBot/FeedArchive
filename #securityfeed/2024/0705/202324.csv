@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gxrv-wf35-62w9] Bypassing IP allow-lists in traefik via HTTP/3 early data requests in QUIC 0-RTT handshakes,https://github.com/advisories/GHSA-gxrv-wf35-62w9,https://da.gd/Go5Mw
+GithubAdvisories,[GHSA-m9gv-6p22-qgmj] ai-controller-frontend payment status in basket isn't reset,https://github.com/advisories/GHSA-m9gv-6p22-qgmj,https://da.gd/hS6ol
+GithubAdvisories,[GHSA-fqpg-rq76-99pq] Panic in Pipeline when PgConn is busy or closed in github.com/jackc/pgx,https://github.com/advisories/GHSA-fqpg-rq76-99pq,https://da.gd/Nt3RP
+GithubAdvisories,[GHSA-p9cg-vqcc-grcx] Server Side Request Forgery (SSRF) attack in Fedify,https://github.com/advisories/GHSA-p9cg-vqcc-grcx,https://da.gd/X1GyqX
+GithubAdvisories,[GHSA-xr7q-jx4m-x55m] Private tokens could appear in logs if context containing gRPC metadata is logged in github.com/grpc/grpc-go,https://github.com/advisories/GHSA-xr7q-jx4m-x55m,https://da.gd/rQX6Z
+GithubAdvisories,[GHSA-248v-346w-9cwc] Certifi removes GLOBALTRUST root certificate,https://github.com/advisories/GHSA-248v-346w-9cwc,https://da.gd/eSgw
+GithubAdvisories,[GHSA-w9mh-5x8j-9754] Malicious Matrix homeserver can leak truncated message content of messages it shouldn't have access to,https://github.com/advisories/GHSA-w9mh-5x8j-9754,https://da.gd/M4RBP
+GithubAdvisories,[GHSA-qjvf-8748-9w7h] github.com/google/nftable IP addresses were encoded in the wrong byte order,https://github.com/advisories/GHSA-qjvf-8748-9w7h,https://da.gd/oaLh
+GithubAdvisories,[GHSA-8mm6-wmpp-mmm3] Gogs allows argument injection during the tagging of a new release,https://github.com/advisories/GHSA-8mm6-wmpp-mmm3,https://da.gd/FcXA
+GithubAdvisories,[GHSA-hf29-9hfh-w63j] Gogs allows argument injection during the previewing of changes,https://github.com/advisories/GHSA-hf29-9hfh-w63j,https://da.gd/JZ9hk
+GithubAdvisories,[GHSA-2vgj-3pvg-xh4w] Gogs allows deletion of internal files,https://github.com/advisories/GHSA-2vgj-3pvg-xh4w,https://da.gd/UrHbBS
+GithubAdvisories,[GHSA-4f92-w438-f484] CraftBeerPi 4 allows arbitrary code execution,https://github.com/advisories/GHSA-4f92-w438-f484,https://da.gd/uhRoA
+GithubAdvisories,[GHSA-cvw9-c57h-3397] ZITADEL Vulnerable to Session Information Leakage,https://github.com/advisories/GHSA-cvw9-c57h-3397,https://da.gd/4YdnFf
