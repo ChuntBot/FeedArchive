@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mh55-gqvf-xfwm] Denial of service via malicious preflight requests in github.com/rs/cors,https://github.com/advisories/GHSA-mh55-gqvf-xfwm,https://da.gd/ckntd
+GithubAdvisories,[GHSA-rrqr-7w59-637v] Pomerium exposed OAuth2 access and ID tokens in user info endpoint response,https://github.com/advisories/GHSA-rrqr-7w59-637v,https://da.gd/ldzYGq
