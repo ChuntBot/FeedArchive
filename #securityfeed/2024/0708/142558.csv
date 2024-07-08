@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3v33-3wmw-3785] yt-dlp has dependency on potentially malicious third-party code in Douyu extractors,https://github.com/advisories/GHSA-3v33-3wmw-3785,https://da.gd/Muml
+GithubAdvisories,[GHSA-4q2p-hwmr-qcxc] OPCFoundation.NetStandard.Opc.Ua.Core buffer-management vulnerability,https://github.com/advisories/GHSA-4q2p-hwmr-qcxc,https://da.gd/ZP8q
+GithubAdvisories,[GHSA-mwxm-35f8-6vg2] Vanna vulnerable to SQL Injection,https://github.com/advisories/GHSA-mwxm-35f8-6vg2,https://da.gd/t963QJ
+GithubAdvisories,"[GHSA-fg4q-ccq8-3r5q] NHibernate SQL injection vulnerability in discriminator mappings, static fields referenced in HQL, and some utilities",https://github.com/advisories/GHSA-fg4q-ccq8-3r5q,https://da.gd/CKWfzo
+GithubAdvisories,[GHSA-8qgm-g2vv-vwvc] RailsAdmin Cross-site Scripting vulnerability in the list view,https://github.com/advisories/GHSA-8qgm-g2vv-vwvc,https://da.gd/UaFS
