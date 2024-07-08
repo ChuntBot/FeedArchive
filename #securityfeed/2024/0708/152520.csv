@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-phg7-8mm9-gj88] EGroupware mishandles an ORDER BY clause,https://github.com/advisories/GHSA-phg7-8mm9-gj88,https://da.gd/OqIXK
+GithubAdvisories,[GHSA-h658-qqv9-qwv8] Apache NiFi vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-h658-qqv9-qwv8,https://da.gd/jOa1rv
+GithubAdvisories,[GHSA-564j-v29w-rqr6] Khoj Open Redirect Vulnerability in Login Page,https://github.com/advisories/GHSA-564j-v29w-rqr6,https://da.gd/BGtq
