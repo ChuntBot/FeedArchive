@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jgf4-vwc3-r46v] Directus Allows Single Sign-On User Enumeration,https://github.com/advisories/GHSA-jgf4-vwc3-r46v,https://da.gd/8hmpqU
+GithubAdvisories,[GHSA-7hmh-pfrp-vcx4] Directus GraphQL Field Duplication Denial of Service (DoS),https://github.com/advisories/GHSA-7hmh-pfrp-vcx4,https://da.gd/YlxrD
+GithubAdvisories,[GHSA-74r5-g7vc-j2v2] zerovec-derive incorrectly uses `#[repr(packed)]`,https://github.com/advisories/GHSA-74r5-g7vc-j2v2,https://da.gd/7gFuF
+GithubAdvisories,[GHSA-5f4x-hwv2-w9w2] rejetto HFS vulnerable to OS Command Execution by remote authenticated users,https://github.com/advisories/GHSA-5f4x-hwv2-w9w2,https://da.gd/aNge7
+GithubAdvisories,[GHSA-hxgm-ghmv-xjjm] Directus incorrectly handles `_in` filter,https://github.com/advisories/GHSA-hxgm-ghmv-xjjm,https://da.gd/axm5X
+GithubAdvisories,[GHSA-xrv3-jmcp-374j] zerovec incorrectly uses `#[repr(packed)]`,https://github.com/advisories/GHSA-xrv3-jmcp-374j,https://da.gd/MYJwDV
