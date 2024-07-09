@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3g92-w8c5-73pq] Undici vulnerable to data leak when using response.arrayBuffer(),https://github.com/advisories/GHSA-3g92-w8c5-73pq,https://da.gd/qrF939
