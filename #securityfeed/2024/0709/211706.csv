@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-447r-wph3-92pm] Microsoft Security Advisory CVE-2024-38095 | .NET Denial of Service Vulnerability,https://github.com/advisories/GHSA-447r-wph3-92pm,https://da.gd/5s3yJ
+GithubAdvisories,[GHSA-hq7w-xv5x-g34j] Microsoft Security Advisory CVE-2024-38081 | .NET Denial of Service Vulnerability,https://github.com/advisories/GHSA-hq7w-xv5x-g34j,https://da.gd/60nUbs
+GithubAdvisories,[GHSA-chfc-9w6m-75rf] Microsoft Security Advisory CVE-2024-35264 | .NET Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-chfc-9w6m-75rf,https://da.gd/Ww58Z
+GithubAdvisories,[GHSA-hh2w-p6rv-4g7w] Microsoft Security Advisory CVE-2024-30105 | .NET Denial of Service Vulnerability,https://github.com/advisories/GHSA-hh2w-p6rv-4g7w,https://da.gd/ZQEJd
+GithubAdvisories,[GHSA-j4r7-p9fp-w3f3] Spring Cloud Function Framework vulnerable to Denial of Service,https://github.com/advisories/GHSA-j4r7-p9fp-w3f3,https://da.gd/WViU
+GithubAdvisories,[GHSA-ch7q-gpff-h9hp] Undertow Missing Release of Memory after Effective Lifetime vulnerability,https://github.com/advisories/GHSA-ch7q-gpff-h9hp,https://da.gd/nnMmv4
+GithubAdvisories,[GHSA-xpp6-8r3j-ww43] Undertow Denial of Service vulnerability,https://github.com/advisories/GHSA-xpp6-8r3j-ww43,https://da.gd/tCC07
+GithubAdvisories,[GHSA-55r9-5mx9-qq7r] Cache driver GetBlob() allows read access to any blob without access control check,https://github.com/advisories/GHSA-55r9-5mx9-qq7r,https://da.gd/pEplQj
