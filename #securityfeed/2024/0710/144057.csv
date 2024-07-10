@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p69r-v3h4-rj4f] github.com/gogs/gogs affected by CVE-2024-39930,https://github.com/advisories/GHSA-p69r-v3h4-rj4f,https://da.gd/YxYG
+GithubAdvisories,[GHSA-vfwh-gvf6-mff8] Silverpeas Core Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-vfwh-gvf6-mff8,https://da.gd/KNn6GP
+GithubAdvisories,[GHSA-mqqj-fx8h-437j] PrivateBin allows shortening of URLs for other domains,https://github.com/advisories/GHSA-mqqj-fx8h-437j,https://da.gd/J0Tm
+GithubAdvisories,[GHSA-q6hg-6m9x-5g9c] Evmos vulnerable to exploit of smart contract account and vesting,https://github.com/advisories/GHSA-q6hg-6m9x-5g9c,https://da.gd/JJ0jiR
