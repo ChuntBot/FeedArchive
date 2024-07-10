@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-77vc-rj32-2r33] OpenSearch Observability does not properly restrict access to private tenant resources,https://github.com/advisories/GHSA-77vc-rj32-2r33,https://da.gd/43g5A
+GithubAdvisories,[GHSA-3q56-9cc2-46j4] robinweser fast-loops vulnerable to prototype pollution,https://github.com/advisories/GHSA-3q56-9cc2-46j4,https://da.gd/nelJ6r
+GithubAdvisories,[GHSA-fq54-2j52-jc42] Next.js Denial of Service (DoS) condition,https://github.com/advisories/GHSA-fq54-2j52-jc42,https://da.gd/OTjB1g
+GithubAdvisories,[GHSA-529p-jj47-w3m3] Decidim cross-site scripting (XSS) in the admin panel,https://github.com/advisories/GHSA-529p-jj47-w3m3,https://da.gd/ECgqW
+GithubAdvisories,[GHSA-7cx8-44pc-xv3q] Decidim cross-site scripting (XSS) in the pagination,https://github.com/advisories/GHSA-7cx8-44pc-xv3q,https://da.gd/Hxs2o
