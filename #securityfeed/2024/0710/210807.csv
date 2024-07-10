@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g533-xq5w-jmf3] node-stringbuilder vulnerable to Out-of-bounds Read,https://github.com/advisories/GHSA-g533-xq5w-jmf3,https://da.gd/qZTkO
+GithubAdvisories,[GHSA-7vhm-fmph-7wxw] audify vulnerable to Improper Validation of Array Index,https://github.com/advisories/GHSA-7vhm-fmph-7wxw,https://da.gd/aUjS5
