@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jmp3-39vp-fwg8] Wagtail regular expression denial-of-service via search query parsing,https://github.com/advisories/GHSA-jmp3-39vp-fwg8,https://da.gd/kkwI1
+GithubAdvisories,[GHSA-gh9f-6xm2-c4j2] SurrealDB vulnerable to Improper Authentication when Changing Databases as Scope User,https://github.com/advisories/GHSA-gh9f-6xm2-c4j2,https://da.gd/fWZ1TY
