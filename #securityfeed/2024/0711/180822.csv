@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vg6v-jcg3-5mp7] @aofl/cli-lib Prototype Pollution vulnerability,https://github.com/advisories/GHSA-vg6v-jcg3-5mp7,https://da.gd/aBBcAG
+GithubAdvisories,[GHSA-gmc6-fwg3-75m5] Mimekit has vulnerable dependency that can lead to denial of service,https://github.com/advisories/GHSA-gmc6-fwg3-75m5,https://da.gd/5HFJD5
