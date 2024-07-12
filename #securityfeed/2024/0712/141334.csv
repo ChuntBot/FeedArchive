@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2qmw-pvf7-4mw6] Hashicorp Vault vulnerable to Improper Check or Handling of Exceptional Conditions,https://github.com/advisories/GHSA-2qmw-pvf7-4mw6,https://da.gd/U2jj
+GithubAdvisories,"[GHSA-2h2x-8hh2-mfq8] NATS Server and Streaming Server fails to enforce negative user permissions, may allow denied subjects",https://github.com/advisories/GHSA-2h2x-8hh2-mfq8,https://da.gd/p9sux
+GithubAdvisories,[GHSA-328p-362g-r48j] ag-grid packages vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-328p-362g-r48j,https://da.gd/LPU2G
+GithubAdvisories,[GHSA-5248-h45p-9pgw] SQL Injection in the KubeClarity REST API,https://github.com/advisories/GHSA-5248-h45p-9pgw,https://da.gd/Ei64b
