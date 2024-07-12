@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,"Revert ""Update debug.twig to include a link to the git project URL fo…",https://github.com/mailcow/mailcow-dockerized/commit/58c0a46459661570ead125a5b9c5865d25ad40c2,https://da.gd/8d6o85
+GithubCommitStaging,Merge pull request #5955 from mailcow/revert-5875-staging_cml,https://github.com/mailcow/mailcow-dockerized/commit/a689109f449a85fd192a6b73bd8f793604dd1925,https://da.gd/F83nAs
+GithubCommitStaging,"Revert ""php: Rebase on Debian 12"" (#5956)",https://github.com/mailcow/mailcow-dockerized/commit/eea81e21f653730640a87ef265b557a9ee7cddc8,https://da.gd/YtoH
