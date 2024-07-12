@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,update postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/8e2d3a6db539019be4f1cbd19d504dc96a4670f9,https://da.gd/USR7XB
+GithubCommitStaging,web: remove WIP notice for ARM64 from ui,https://github.com/mailcow/mailcow-dockerized/commit/fc7ea7a24722fb38700f19331b23c51be0cfbf5a,https://da.gd/dpmzg
+GithubCommitStaging,Merge pull request #5930 from mailcow/update/postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/ef7ec06947c304895bb7be09c59c454697f97451,https://da.gd/BhNC6
