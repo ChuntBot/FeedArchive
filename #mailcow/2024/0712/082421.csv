@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubCommit,update postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/8e2d3a6db539019be4f1cbd19d504dc96a4670f9,https://da.gd/USR7XB
+GithubCommit,Merge pull request #5634 from torzech/proper-threads-regex,https://github.com/mailcow/mailcow-dockerized/commit/aadeeb0df3ca30bb544a1880e1754f846a3173d3,https://da.gd/iTQfW
+GithubCommit,php: Rebase on Debian 12 (#5951),https://github.com/mailcow/mailcow-dockerized/commit/9b478b3859f0261f69110b06822acc23055d5362,https://da.gd/m3Kv
+GithubCommit,web: remove WIP notice for ARM64 from ui,https://github.com/mailcow/mailcow-dockerized/commit/fc7ea7a24722fb38700f19331b23c51be0cfbf5a,https://da.gd/dpmzg
+GithubCommit,Merge pull request #5930 from mailcow/update/postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/ef7ec06947c304895bb7be09c59c454697f97451,https://da.gd/BhNC6
+GithubCommit,Merge pull request #5952 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/2dbe8bf4ca7bebba00fa3dba9f043b9a34f6d40a,https://da.gd/jBfhl
