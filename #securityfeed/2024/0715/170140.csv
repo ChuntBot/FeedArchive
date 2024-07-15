@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-875x-g8p7-5w27] The FIDO2/Webauthn Support for PHP library allows enumeration of valid usernames,https://github.com/advisories/GHSA-875x-g8p7-5w27,https://da.gd/N4tZv
