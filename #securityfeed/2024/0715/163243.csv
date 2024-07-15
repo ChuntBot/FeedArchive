@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cgcg-p68q-3w7v] langchain-experimental vulnerable to Arbitrary Code Execution,https://github.com/advisories/GHSA-cgcg-p68q-3w7v,https://da.gd/TYFBFU
+GithubAdvisories,[GHSA-cx63-2mw6-8hw5] setuptools vulnerable to Command Injection via package URL,https://github.com/advisories/GHSA-cx63-2mw6-8hw5,https://da.gd/bWvOB
