@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qc6v-5g5m-8cw2] ZITADEL Go's GRPC example code vulnerability - GO-2024-2687 HTTP/2 CONTINUATION flood in net/http,https://github.com/advisories/GHSA-qc6v-5g5m-8cw2,https://da.gd/52X8Kh
+GithubAdvisories,[GHSA-5f5c-8rvc-j8wf] OpaMiddleware does not filter HTTP OPTIONS requests,https://github.com/advisories/GHSA-5f5c-8rvc-j8wf,https://da.gd/cLX0d
+GithubAdvisories,[GHSA-fg86-4c2r-7wxw] TorrentPier Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-fg86-4c2r-7wxw,https://da.gd/dMH6w
+GithubAdvisories,[GHSA-342q-2mc2-5gmp] @jmondi/url-to-png enables capture screenshot of localhost web services (unauthenticated pages),https://github.com/advisories/GHSA-342q-2mc2-5gmp,https://da.gd/YhJzEh
+GithubAdvisories,[GHSA-vvmv-wrvp-9gjr] @jmondi/url-to-png contains a Path Traversal vulnerability,https://github.com/advisories/GHSA-vvmv-wrvp-9gjr,https://da.gd/Ni1V
+GithubAdvisories,[GHSA-7qpc-4xx9-x5qw] Apache Linkis DataSource's JDBC Datasource Module with DB2 has JNDI Injection vulnerability,https://github.com/advisories/GHSA-7qpc-4xx9-x5qw,https://da.gd/QmIA
+GithubAdvisories,[GHSA-jjvc-v8gw-5255] Apache Linkis DataSource remote code execution vulnerability,https://github.com/advisories/GHSA-jjvc-v8gw-5255,https://da.gd/nWMPI
+GithubAdvisories,[GHSA-f22j-9j59-33j4] Apache Linkis DataSource allows arbitrary file reading,https://github.com/advisories/GHSA-f22j-9j59-33j4,https://da.gd/8ybC
