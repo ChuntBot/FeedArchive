@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4xqq-m2hx-25v8] REXML denial of service vulnerability,https://github.com/advisories/GHSA-4xqq-m2hx-25v8,https://da.gd/bkF56Q
+GithubAdvisories,[GHSA-q5fm-55c2-v6j9] Fiona affected by CVE-2023-45853 related to MiniZip madler-zlib,https://github.com/advisories/GHSA-q5fm-55c2-v6j9,https://da.gd/9xnbh
+GithubAdvisories,[GHSA-g4m4-9q4c-mfw6] Fiona affected by CVE-2020-14152 related to madler-zlib,https://github.com/advisories/GHSA-g4m4-9q4c-mfw6,https://da.gd/jwcC
