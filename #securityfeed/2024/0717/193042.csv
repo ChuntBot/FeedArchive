@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ghgq-x6wc-6jr5] Zowe CLI allows storage of previously entered secure credentials in a plaintext file,https://github.com/advisories/GHSA-ghgq-x6wc-6jr5,https://da.gd/Cfjl2X
+GithubAdvisories,[GHSA-2rwm-xv5j-777p] Eclipse Parsson stack overflow when parsing deeply nested input,https://github.com/advisories/GHSA-2rwm-xv5j-777p,https://da.gd/pDgwYd
