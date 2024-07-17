@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g5hv-r743-v8pm] Apache Airflow has DAG Author Code Execution possibility in airflow-scheduler,https://github.com/advisories/GHSA-g5hv-r743-v8pm,https://da.gd/dccVnw
+GithubAdvisories,[GHSA-j482-47xf-p25c] Apache Airflow Potential Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-j482-47xf-p25c,https://da.gd/o05hLa
