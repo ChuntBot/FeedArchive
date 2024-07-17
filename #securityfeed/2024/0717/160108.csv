@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-52cw-pvq9-9m5v] Silverstripe uses TinyMCE which allows svg files linked in object tags,https://github.com/advisories/GHSA-52cw-pvq9-9m5v,https://da.gd/fdfyL
+GithubAdvisories,[GHSA-vmcp-66r5-3pcp] Steeltoe Leaks Basic Auth Credentials to Logs After Fetch Registry Error,https://github.com/advisories/GHSA-vmcp-66r5-3pcp,https://da.gd/jjMxZI
+GithubAdvisories,[GHSA-p3f3-5ccg-83xq] dbt has an implicit override for built-in materializations from installed packages,https://github.com/advisories/GHSA-p3f3-5ccg-83xq,https://da.gd/HswXO0
