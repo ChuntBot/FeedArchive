@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j8cm-g7r6-hfpq] vodozemac's usage of non-constant time base64 decoder could lead to leakage of secret key material,https://github.com/advisories/GHSA-j8cm-g7r6-hfpq,https://da.gd/xOeqq
