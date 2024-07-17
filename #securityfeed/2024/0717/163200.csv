@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vhmj-5q9r-mm9g] BlastRADIUS also affects eduMFA,https://github.com/advisories/GHSA-vhmj-5q9r-mm9g,https://da.gd/K8wjEM
+GithubAdvisories,[GHSA-w799-v85j-88pg] Skupper uses a static cookie secret for the openshift oauth-proxy,https://github.com/advisories/GHSA-w799-v85j-88pg,https://da.gd/oMymQ
