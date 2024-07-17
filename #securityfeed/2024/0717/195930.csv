@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c3q9-c27p-cw9h] projectdiscovery/nuclei allows unsigned code template execution through workflows,https://github.com/advisories/GHSA-c3q9-c27p-cw9h,https://da.gd/Y74csm
