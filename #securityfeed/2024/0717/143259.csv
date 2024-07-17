@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-55rf-8q29-4g43] Sylius has a security vulnerability via adjustments API endpoint,https://github.com/advisories/GHSA-55rf-8q29-4g43,https://da.gd/3cL8y
+GithubAdvisories,[GHSA-chx7-9x8h-r5mg] Silverstripe Framework has a Cross-site Scripting vulnerability with encoded payload,https://github.com/advisories/GHSA-chx7-9x8h-r5mg,https://da.gd/3riZhk
+GithubAdvisories,[GHSA-89q6-98xx-4ffw] Silverstripe Reports are still accessible even when `canView()` returns false,https://github.com/advisories/GHSA-89q6-98xx-4ffw,https://da.gd/TY7yFL
