@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5grx-v727-qmq6] 1Panel has an SQL injection issue related to the orderBy clause,https://github.com/advisories/GHSA-5grx-v727-qmq6,https://da.gd/SOLSc
