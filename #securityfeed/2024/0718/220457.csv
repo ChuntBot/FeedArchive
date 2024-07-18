@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wxcx-gg9c-fwp2] TorchServe vulnerable to bypass of allowed_urls configuration,https://github.com/advisories/GHSA-wxcx-gg9c-fwp2,https://da.gd/ejqv
+GithubAdvisories,[GHSA-82m2-cv7p-4m75] Kubernetes sets incorrect permissions on Windows containers logs,https://github.com/advisories/GHSA-82m2-cv7p-4m75,https://da.gd/0RMXZx
