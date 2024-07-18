@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hc5w-gxxr-w8x8] Sliver Allows Authenticated Operator-to-Server Remote Code Execution,https://github.com/advisories/GHSA-hc5w-gxxr-w8x8,https://da.gd/4xzft
+GithubAdvisories,[GHSA-6523-jf4r-c962] Apache StreamPipes has potential remote code execution (RCE) via file upload,https://github.com/advisories/GHSA-6523-jf4r-c962,https://da.gd/9MLaCi
+GithubAdvisories,[GHSA-9gr7-gh74-qg9x] Apache StreamPipes has possibility of SSRF in pipeline element installation process,https://github.com/advisories/GHSA-9gr7-gh74-qg9x,https://da.gd/Q00day
+GithubAdvisories,[GHSA-2qph-v9p2-q2gv] Apache StreamPipes potentially allows creation of multiple identical accounts,https://github.com/advisories/GHSA-2qph-v9p2-q2gv,https://da.gd/jrWp2h
