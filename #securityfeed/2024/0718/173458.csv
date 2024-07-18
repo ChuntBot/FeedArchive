@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g92j-qhmh-64v2] Sentry's Python SDK unintentionally exposes environment variables to subprocesses,https://github.com/advisories/GHSA-g92j-qhmh-64v2,https://da.gd/Aqrt0
