@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4qg4-cvh2-crgg] matrix-sdk-crypto's `UserIdentity::is_verified` not checking verification status of own user identity while performing the check,https://github.com/advisories/GHSA-4qg4-cvh2-crgg,https://da.gd/Rh08uI
+GithubAdvisories,[GHSA-mgvv-9p9g-3jv4] gix-path can use a fake program files location,https://github.com/advisories/GHSA-mgvv-9p9g-3jv4,https://da.gd/WB7Jdf
+GithubAdvisories,[GHSA-xmvg-335g-x44q] The OpenSearch reporting plugin improperly controls tenancy access to reporting resources,https://github.com/advisories/GHSA-xmvg-335g-x44q,https://da.gd/R7Qh4
