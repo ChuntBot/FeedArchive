@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rpx8-fg6w-rm6x] lunary-ai/lunary XSS in SAML metadata endpoint,https://github.com/advisories/GHSA-rpx8-fg6w-rm6x,https://da.gd/9CIt94
+GithubAdvisories,[GHSA-rwcj-7jjp-4w38] [PUNCIA] [CWE-319] Cleartext Transmission of Sensitive Information via HTTP urls in `API_URLS`,https://github.com/advisories/GHSA-rwcj-7jjp-4w38,https://da.gd/o0JocQ
+GithubAdvisories,[GHSA-xw35-rrcp-g7xm] Woodpecker's custom workspace allow to overwrite plugin entrypoint executable,https://github.com/advisories/GHSA-xw35-rrcp-g7xm,https://da.gd/M1Zkjw
+GithubAdvisories,[GHSA-3wf2-2pq4-4rvc] Woodpecker's custom environment variables allow to alter execution flow of plugins,https://github.com/advisories/GHSA-3wf2-2pq4-4rvc,https://da.gd/Isojh5
