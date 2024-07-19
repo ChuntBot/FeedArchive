@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4mgg-fqfq-64hg] Apache CXF allows unrestricted memory consumption in CXF HTTP clients,https://github.com/advisories/GHSA-4mgg-fqfq-64hg,https://da.gd/VrKb
+GithubAdvisories,[GHSA-6pff-fmh2-4mmf] Apache CXF Denial of Service vulnerability in JOSE,https://github.com/advisories/GHSA-6pff-fmh2-4mmf,https://da.gd/raaZJ
+GithubAdvisories,[GHSA-5m3j-pxh7-455p] Apache CXF: SSRF vulnerability via WADL stylesheet parameter,https://github.com/advisories/GHSA-5m3j-pxh7-455p,https://da.gd/5mALdo
