@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qxrv-gp6x-rc23] SixLabors ImageSharp has Excessive Memory Allocation in Gif Decoder,https://github.com/advisories/GHSA-qxrv-gp6x-rc23,https://da.gd/Te2MW
+GithubAdvisories,[GHSA-63p8-c4ww-9cg7] SixLabors ImageSharp Out-of-bounds Write,https://github.com/advisories/GHSA-63p8-c4ww-9cg7,https://da.gd/WLEHmQ
+GithubAdvisories,[GHSA-hcmv-jmqh-fjgm] ops leaking secrets if `subprocess.CalledProcessError` happens with a `secret-*` CLI command,https://github.com/advisories/GHSA-hcmv-jmqh-fjgm,https://da.gd/aWEEB
