@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x72p-g37q-4xr9] SFTPGo's JWT implmentation lacks certain security measures,https://github.com/advisories/GHSA-x72p-g37q-4xr9,https://da.gd/Nlyll
+GithubAdvisories,[GHSA-8pxv-x6jq-5vw9] Apache Syncope Improper Input Validation vulnerability,https://github.com/advisories/GHSA-8pxv-x6jq-5vw9,https://da.gd/dSDpr
