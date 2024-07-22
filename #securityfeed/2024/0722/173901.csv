@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q445-7m23-qrmw] openssl's `MemBio::get_buf` has undefined behavior with empty buffers,https://github.com/advisories/GHSA-q445-7m23-qrmw,https://da.gd/ZWoADk
+GithubAdvisories,[GHSA-crjg-w57m-rqqf] DNSJava vulnerable to KeyTrap - Denial-of-Service Algorithmic Complexity Attacks,https://github.com/advisories/GHSA-crjg-w57m-rqqf,https://da.gd/xrwGH
+GithubAdvisories,[GHSA-jmvp-698c-4x3w] Argo CD Unauthenticated Denial of Service (DoS) Vulnerability via /api/webhook Endpoint,https://github.com/advisories/GHSA-jmvp-698c-4x3w,https://da.gd/JFiCns
