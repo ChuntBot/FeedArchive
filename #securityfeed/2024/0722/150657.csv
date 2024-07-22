@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mmwx-rj87-vfgr] DNSJava affected by KeyTrap - NSEC3 closest encloser proof can exhaust CPU resources,https://github.com/advisories/GHSA-mmwx-rj87-vfgr,https://da.gd/S7O4
+GithubAdvisories,[GHSA-f8hx-f4xw-c646] Guardrails AI vulnerable to Improper Restriction of XML External Entity Reference,https://github.com/advisories/GHSA-f8hx-f4xw-c646,https://da.gd/OJTG0
+GithubAdvisories,[GHSA-w36w-948j-xhfw] H2O vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-w36w-948j-xhfw,https://da.gd/6pFge5
