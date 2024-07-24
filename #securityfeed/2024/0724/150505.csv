@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8gj9-r4hv-3jjw] Apache Pinot: Unauthorized endpoint exposed sensitive information,https://github.com/advisories/GHSA-8gj9-r4hv-3jjw,https://da.gd/GqIyA
+GithubAdvisories,[GHSA-c2hf-vcmr-qjrf] Apache Arrow Rust Object Store: AWS WebIdentityToken exposure in log files,https://github.com/advisories/GHSA-c2hf-vcmr-qjrf,https://da.gd/wN9h
