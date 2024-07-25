@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vprp-94p9-5jp8] Dolibarr ERP CRM vulnerable to remote code execution (RCE),https://github.com/advisories/GHSA-vprp-94p9-5jp8,https://da.gd/dThdb
+GithubAdvisories,[GHSA-cx7h-h87r-jpgr] The kstring integration in gix-attributes is unsound,https://github.com/advisories/GHSA-cx7h-h87r-jpgr,https://da.gd/lDznu
