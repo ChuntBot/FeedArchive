@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5pcm-hx3q-hm94] PyTorch heap buffer overflow vulnerability,https://github.com/advisories/GHSA-5pcm-hx3q-hm94,https://da.gd/0o18
+GithubAdvisories,[GHSA-pg7h-5qx3-wjr3] Pytorch use-after-free vulnerability,https://github.com/advisories/GHSA-pg7h-5qx3-wjr3,https://da.gd/bmaMUq
