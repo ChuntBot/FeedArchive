@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rm86-h44c-2r2m] OpenStack Nova vulnerable to unauthorized access to potentially sensitive data,https://github.com/advisories/GHSA-rm86-h44c-2r2m,https://da.gd/DSZ3bB
+GithubAdvisories,[GHSA-7726-43hg-m23v] OpenAM FreeMarker template injection,https://github.com/advisories/GHSA-7726-43hg-m23v,https://da.gd/maGTW
