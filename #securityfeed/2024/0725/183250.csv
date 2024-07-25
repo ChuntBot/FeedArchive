@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9gq7-p5w9-w899] Ankitects Anki arbitrary script execution vulnerability,https://github.com/advisories/GHSA-9gq7-p5w9-w899,https://da.gd/apJ2
+GithubAdvisories,[GHSA-3wmx-48g3-x66g] Backdrop CMS does not sufficiently sanitize field labels before they are displayed in certain places,https://github.com/advisories/GHSA-3wmx-48g3-x66g,https://da.gd/aBpzO
