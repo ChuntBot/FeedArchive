@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-vx24-x4mv-vwr5] Starship vulnerable to shell injection via undocumented, unpredictable shell expansion in custom commands",https://github.com/advisories/GHSA-vx24-x4mv-vwr5,https://da.gd/G8rxf
+GithubAdvisories,[GHSA-66fw-43h8-f8p3] XMP Toolkit's `XmpFile::close` can trigger undefined behavior,https://github.com/advisories/GHSA-66fw-43h8-f8p3,https://da.gd/EZFlJy
