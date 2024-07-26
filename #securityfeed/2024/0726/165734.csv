@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-69p6-gp5x-j269] snapd failed to properly check the destination of symbolic links when extracting a snap,https://github.com/advisories/GHSA-69p6-gp5x-j269,https://da.gd/yx9O
