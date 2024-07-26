@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4mh8-9689-38vr] snapd failed to restrict writes to the $HOME/bin path,https://github.com/advisories/GHSA-4mh8-9689-38vr,https://da.gd/1Gceut
+GithubAdvisories,[GHSA-64jh-cjwc-w8q6] snapd failed to properly check the file type when extracting a snap,https://github.com/advisories/GHSA-64jh-cjwc-w8q6,https://da.gd/jEJ5MB
