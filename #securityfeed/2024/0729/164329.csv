@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5vrp-638w-p8m2] Magento LTS vulnerable to stored Cross-site Scripting (XSS) in admin system configs,https://github.com/advisories/GHSA-5vrp-638w-p8m2,https://da.gd/sP3ow
+GithubAdvisories,[GHSA-c8m8-j448-xjx7] twisted.web has disordered HTTP pipeline response,https://github.com/advisories/GHSA-c8m8-j448-xjx7,https://da.gd/Iemj7k
+GithubAdvisories,[GHSA-g872-jwwr-vggm] Admidio Vulnerable to RCE via Arbitrary File Upload in Message Attachment,https://github.com/advisories/GHSA-g872-jwwr-vggm,https://da.gd/Cf03
+GithubAdvisories,[GHSA-69wx-xc6j-28v3] Admidio has Blind SQL Injection in ecard_send.php,https://github.com/advisories/GHSA-69wx-xc6j-28v3,https://da.gd/UhJn5g
