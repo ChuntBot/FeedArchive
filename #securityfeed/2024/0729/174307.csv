@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cf56-g6w6-pqq2] Twisted vulnerable to HTML injection in HTTP redirect body,https://github.com/advisories/GHSA-cf56-g6w6-pqq2,https://da.gd/EVr0n
