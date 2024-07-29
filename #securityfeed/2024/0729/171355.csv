@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q623-2j2j-23jj] RaspAP allows an attacker to escalate privileges,https://github.com/advisories/GHSA-q623-2j2j-23jj,https://da.gd/Ivum9E
+GithubAdvisories,[GHSA-c3h4-9gc2-f7h4] tgstation-server's DreamMaker environment files outside the deployment directory can be compiled and ran by insufficiently permissioned users,https://github.com/advisories/GHSA-c3h4-9gc2-f7h4,https://da.gd/hC3b
