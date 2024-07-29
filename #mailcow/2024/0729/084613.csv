@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Do not add MAILCOW_WHITE on failed DMARC,https://github.com/mailcow/mailcow-dockerized/commit/7f7a869678293a4577eb34fa5f0de9ff72c62fc3,https://da.gd/bQAB1z
+GithubCommitStaging,Update composites.conf,https://github.com/mailcow/mailcow-dockerized/commit/8fbfd99dd6f74e20e65f9f71a1e185ab3dce27be,https://da.gd/AWpwv2
+GithubCommitStaging,Merge pull request #5971 from mailcow/dragoangel-patch-1,https://github.com/mailcow/mailcow-dockerized/commit/03fccb28e961419c72a80582d79b6dc945838255,https://da.gd/NEh1Sc
