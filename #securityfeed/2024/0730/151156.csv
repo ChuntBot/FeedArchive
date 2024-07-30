@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h9mq-f6q5-6c8m] GraphQL Java does not properly consider ExecutableNormalizedFields (ENFs) as part of preventing denial of service,https://github.com/advisories/GHSA-h9mq-f6q5-6c8m,https://da.gd/20POE
+GithubAdvisories,[GHSA-wm25-j4gw-6vr3] pREST vulnerable to jwt bypass + sql injection,https://github.com/advisories/GHSA-wm25-j4gw-6vr3,https://da.gd/4cImH7
+GithubAdvisories,[GHSA-p9f2-jg9w-cx69] Aim Stored Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-p9f2-jg9w-cx69,https://da.gd/pop5
+GithubAdvisories,[GHSA-fx6j-9pp6-ph36] Pimcore vulnerable to disclosure of system and database information behind /admin firewall,https://github.com/advisories/GHSA-fx6j-9pp6-ph36,https://da.gd/Ig6lA
