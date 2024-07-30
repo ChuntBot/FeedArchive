@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3jcg-vx7f-j6qf] The fuels-ts typescript SDK has no awareness of to-be-spent transactions,https://github.com/advisories/GHSA-3jcg-vx7f-j6qf,https://da.gd/xWjvh
+GithubAdvisories,[GHSA-gjh7-xx4r-x345] TensorFlow has segfault in array_ops.upper_bound,https://github.com/advisories/GHSA-gjh7-xx4r-x345,https://da.gd/3kHdc
