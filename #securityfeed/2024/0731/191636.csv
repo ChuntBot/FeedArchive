@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hx9v-6r9f-w677] Insecure Jinja2 templates rendered in Haystack Components can lead to RCE,https://github.com/advisories/GHSA-hx9v-6r9f-w677,https://da.gd/w1070
+GithubAdvisories,[GHSA-5hcj-rwm6-xmw4] biscuit-java vulnerable to public key confusion in third party block,https://github.com/advisories/GHSA-5hcj-rwm6-xmw4,https://da.gd/SstI
