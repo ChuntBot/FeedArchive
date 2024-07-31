@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-258h-f687-4226] PheonixAppAPI has visible Encoding Maps,https://github.com/advisories/GHSA-258h-f687-4226,https://da.gd/I7gFLD
+GithubAdvisories,"[GHSA-567v-6hmg-6qg7] ZITADEL ""ignoring unknown usernames"" vulnerability",https://github.com/advisories/GHSA-567v-6hmg-6qg7,https://da.gd/Jdczu
+GithubAdvisories,[GHSA-v333-7h2p-5fhv] ZITADEL has improper HTML sanitization in emails and Console UI,https://github.com/advisories/GHSA-v333-7h2p-5fhv,https://da.gd/06R2SM
+GithubAdvisories,[GHSA-r49h-6qxq-624f] Weave server API vulnerable to arbitrary file leak,https://github.com/advisories/GHSA-r49h-6qxq-624f,https://da.gd/NyQRS
+GithubAdvisories,[GHSA-8m9j-2f32-2vx4] MobSF vulnerable to Open Redirect in Login Redirect,https://github.com/advisories/GHSA-8m9j-2f32-2vx4,https://da.gd/1r2PkU
+GithubAdvisories,[GHSA-5v8f-xx9m-wj44] Elasticsearch stores private key on disk unencrypted,https://github.com/advisories/GHSA-5v8f-xx9m-wj44,https://da.gd/EwnQL
