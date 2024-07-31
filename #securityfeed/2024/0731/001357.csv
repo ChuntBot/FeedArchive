@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4vrx-8phj-x3mg] Duplicate Advisory: Keycloak exposes sensitive information in Pushed Authorization Requests (PAR),https://github.com/advisories/GHSA-4vrx-8phj-x3mg,https://da.gd/VIz0H
