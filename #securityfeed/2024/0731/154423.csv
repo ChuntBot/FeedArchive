@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-28mc-g557-92m7] @75lb/deep-merge Prototype Pollution vulnerability,https://github.com/advisories/GHSA-28mc-g557-92m7,https://da.gd/tCUxg
+GithubAdvisories,[GHSA-ff4q-64jc-gx98] IdentityServer Open Redirect vulnerability,https://github.com/advisories/GHSA-ff4q-64jc-gx98,https://da.gd/RR0i5
+GithubAdvisories,[GHSA-qm44-wjm2-pr59] Ibexa Admin UI vulnerable to DOM-based Cross-site Scripting in file upload widget,https://github.com/advisories/GHSA-qm44-wjm2-pr59,https://da.gd/lY4TN
+GithubAdvisories,[GHSA-h63h-5c77-77p5] XWiki Platform vulnerable to remote code execution from account via SearchSuggestConfigSheet,https://github.com/advisories/GHSA-h63h-5c77-77p5,https://da.gd/kyZbxO
+GithubAdvisories,[GHSA-wf3x-jccf-5g5g] XWiki Platform vulnerable to Cross-site Scripting through attachment filename in uploader,https://github.com/advisories/GHSA-wf3x-jccf-5g5g,https://da.gd/W3ZA
+GithubAdvisories,[GHSA-33gp-gmg3-hfpq] XWiki Platform vulnerable to document deletion and overwrite from edit,https://github.com/advisories/GHSA-33gp-gmg3-hfpq,https://da.gd/a2V5pq
