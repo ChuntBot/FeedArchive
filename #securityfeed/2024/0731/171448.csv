@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gc5h-6jx9-q2qh] eZ Platform Admin UI vulnerable to DOM-based Cross-site Scripting in file upload widget,https://github.com/advisories/GHSA-gc5h-6jx9-q2qh,https://da.gd/xHDHQJ
+GithubAdvisories,[GHSA-692v-783f-mg8x] XWiki Platform vulnerable to Cross-Site Scripting (XSS) through conflict resolution,https://github.com/advisories/GHSA-692v-783f-mg8x,https://da.gd/zVf4
+GithubAdvisories,[GHSA-hw28-333w-qxp3] Harbor fails to validate the user permissions when updating project configurations,https://github.com/advisories/GHSA-hw28-333w-qxp3,https://da.gd/82qBG2
