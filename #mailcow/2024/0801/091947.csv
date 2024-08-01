@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] use correct user to fetch TFA authenticators,https://github.com/mailcow/mailcow-dockerized/commit/f33d82ffc11ed3438609d4e7a6baa78cb3305bc3,https://da.gd/lHEBz
+GithubCommitStaging,[Web] escapeHtml in api_log table,https://github.com/mailcow/mailcow-dockerized/commit/66aa28b5de282fc037e0d2f02fbdc84539b614a1,https://da.gd/pHR5Z
+GithubCommitStaging,[Web] escapeHtml in relayhosts table,https://github.com/mailcow/mailcow-dockerized/commit/efb2572f0fa57628ad98a76a4ae884a10cac0a1a,https://da.gd/wD9861
+GithubCommitStaging,Merge pull request #5976 from mailcow/fix/get-tfa,https://github.com/mailcow/mailcow-dockerized/commit/cbca306fc107b3de5429ec9455da91300ceed64e,https://da.gd/6LFQsO
