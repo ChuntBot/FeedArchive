@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-762m-4cx6-6mf4] Mattermost allows a remote actor to permanently delete local data by abusing dangerous error handling,https://github.com/advisories/GHSA-762m-4cx6-6mf4,https://da.gd/NhXV
