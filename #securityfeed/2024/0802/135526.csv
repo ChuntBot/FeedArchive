@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x38c-v778-w56m] ICEcoder Path Traversal vulnerability,https://github.com/advisories/GHSA-x38c-v778-w56m,https://da.gd/jVrzI
+GithubAdvisories,[GHSA-56mc-f9w7-2wxq] Mattermost failed to disallow the modification of local users when syncing users in shared channels,https://github.com/advisories/GHSA-56mc-f9w7-2wxq,https://da.gd/ZRr7oR
+GithubAdvisories,[GHSA-jq3g-xqpx-37x3] Mattermost failed to properly validate synced reactions,https://github.com/advisories/GHSA-jq3g-xqpx-37x3,https://da.gd/o17G0V
+GithubAdvisories,[GHSA-cmc8-222c-vqp9] Mattermost failed to properly validate that the channel that comes from the sync message is a shared channel,https://github.com/advisories/GHSA-cmc8-222c-vqp9,https://da.gd/1JZrf
+GithubAdvisories,[GHSA-vvpg-55p7-5h8w] Mattermost did not properly restrict channel creation,https://github.com/advisories/GHSA-vvpg-55p7-5h8w,https://da.gd/EnFovm
+GithubAdvisories,[GHSA-jr9x-3x7m-4j75] Mattermost allows a remote actor to make an arbitrary local channel read-only,https://github.com/advisories/GHSA-jr9x-3x7m-4j75,https://da.gd/f6Aker
+GithubAdvisories,[GHSA-67fw-w8f2-88wp] casdoor's use of`ssh.InsecureIgnoreHostKey()` disables host key verification,https://github.com/advisories/GHSA-67fw-w8f2-88wp,https://da.gd/7pPJiY
+GithubAdvisories,[GHSA-3cpf-jmmc-8jm3] Concrete CMS vulnerable to Stored Cross-site Scripting,https://github.com/advisories/GHSA-3cpf-jmmc-8jm3,https://da.gd/ds3yAi
+GithubAdvisories,[GHSA-pmm3-68q9-57jg] VvvebJs Arbitrary File Upload vulnerability,https://github.com/advisories/GHSA-pmm3-68q9-57jg,https://da.gd/3MO47
+GithubAdvisories,[GHSA-hrmx-8jjv-g758] Navidrome uses MD5 hashing algorithm,https://github.com/advisories/GHSA-hrmx-8jjv-g758,https://da.gd/FttnZj
