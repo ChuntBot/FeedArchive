@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6wp6-22x5-rr3w] Flowise vulnerable to code injection via api/v1,https://github.com/advisories/GHSA-6wp6-22x5-rr3w,https://da.gd/DewRH
+GithubAdvisories,[GHSA-82wx-rxf8-fxch] PyPXE Buffer Overflow vulnerability,https://github.com/advisories/GHSA-82wx-rxf8-fxch,https://da.gd/kpFsVr
+GithubAdvisories,[GHSA-5j47-3m62-7vr3] ICEcoder vulnerable to Cross Site Scripting,https://github.com/advisories/GHSA-5j47-3m62-7vr3,https://da.gd/yJb5vr
+GithubAdvisories,[GHSA-x4wf-678h-2pmq] Keras code injection vulnerability,https://github.com/advisories/GHSA-x4wf-678h-2pmq,https://da.gd/rAb1C
+GithubAdvisories,[GHSA-6w5q-79rf-7c49] Webtrees Path Traversal vulnerability,https://github.com/advisories/GHSA-6w5q-79rf-7c49,https://da.gd/JioX0
+GithubAdvisories,[GHSA-9xhh-3m78-gvgj] CLSA Directory Traversal vulnerability,https://github.com/advisories/GHSA-9xhh-3m78-gvgj,https://da.gd/NKDbU
+GithubAdvisories,[GHSA-5g3x-8g2v-r8x8] Volcano has insecure permissions,https://github.com/advisories/GHSA-5g3x-8g2v-r8x8,https://da.gd/664lVy
+GithubAdvisories,[GHSA-3hvj-2783-34x2] njwt Prototype Pollution vulnerability,https://github.com/advisories/GHSA-3hvj-2783-34x2,https://da.gd/OBk2f2
