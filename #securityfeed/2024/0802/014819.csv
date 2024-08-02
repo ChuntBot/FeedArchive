@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jf28-v5f6-cvpr] NASA AIT-Core vulnerable to remote code execution,https://github.com/advisories/GHSA-jf28-v5f6-cvpr,https://da.gd/x5sgpy
+GithubAdvisories,[GHSA-5cf7-cxrf-mq73] Bostr Improper Authorization vulnerability,https://github.com/advisories/GHSA-5cf7-cxrf-mq73,https://da.gd/DVQoOL
+GithubAdvisories,[GHSA-9fpw-c9x7-cv3j] Mattermost allows remote actor to set arbitrary RemoteId values for synced users,https://github.com/advisories/GHSA-9fpw-c9x7-cv3j,https://da.gd/7rn7Bh
+GithubAdvisories,[GHSA-vg67-chm7-8m3j] Mattermost allows remote actor to create/update/delete posts in arbitrary channels,https://github.com/advisories/GHSA-vg67-chm7-8m3j,https://da.gd/UBzhXD
