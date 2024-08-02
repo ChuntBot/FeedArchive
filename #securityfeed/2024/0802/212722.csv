@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vw7g-3cc7-7rmh] cortex establishes TLS connections with `InsecureSkipVerify` set to `true`,https://github.com/advisories/GHSA-vw7g-3cc7-7rmh,https://da.gd/DMmZH
+GithubAdvisories,[GHSA-frvj-cfq4-3228] Path traversal in Reposilite javadoc file expansion (arbitrary file creation/overwrite) (`GHSL-2024-073`),https://github.com/advisories/GHSA-frvj-cfq4-3228,https://da.gd/Lxsgb
+GithubAdvisories,[GHSA-9w8w-34vr-65j2] Reposilite artifacts vulnerable to Stored Cross-site Scripting,https://github.com/advisories/GHSA-9w8w-34vr-65j2,https://da.gd/lhF9Jg
