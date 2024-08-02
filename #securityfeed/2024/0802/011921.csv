@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vg6q-84p8-qvqh] Mattermost allows a user on a remote to set their remote username prop to an arbitrary string,https://github.com/advisories/GHSA-vg6q-84p8-qvqh,https://da.gd/OjcfUB
