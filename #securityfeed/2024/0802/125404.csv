@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m445-w3xr-vp2f] soft-serve vulnerable to arbitrary code execution by crafting git-lfs requests,https://github.com/advisories/GHSA-m445-w3xr-vp2f,https://da.gd/dk2O
+GithubAdvisories,[GHSA-5866-49gr-22v4] REXML DoS vulnerability,https://github.com/advisories/GHSA-5866-49gr-22v4,https://da.gd/8Gf96y
