@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mpvx-whpp-99xj] Filestash skips TLS certificate verification process when sending out email verification codes,https://github.com/advisories/GHSA-mpvx-whpp-99xj,https://da.gd/CIF3EB
+GithubAdvisories,[GHSA-4jmm-c6jw-g796] Filestash configured to skip TLS certificate verification when using the FTPS protocol,https://github.com/advisories/GHSA-4jmm-c6jw-g796,https://da.gd/UbRnD6
