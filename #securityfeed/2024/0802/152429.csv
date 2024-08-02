@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v352-rg37-5q5m] Apache Linkis vulnerable to privilege escalation,https://github.com/advisories/GHSA-v352-rg37-5q5m,https://da.gd/Om9Wba
+GithubAdvisories,[GHSA-qff2-8qw7-hcvw] Apache Inlong Code Injection vulnerability,https://github.com/advisories/GHSA-qff2-8qw7-hcvw,https://da.gd/E6ZiLk
+GithubAdvisories,[GHSA-j6vx-r77h-44wc] Apache Linkis arbitrary file deletion vulnerability,https://github.com/advisories/GHSA-j6vx-r77h-44wc,https://da.gd/mVHv
