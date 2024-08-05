@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rpcc-p8xm-rc6p] Podman vulnerable to memory-based denial of service,https://github.com/advisories/GHSA-rpcc-p8xm-rc6p,https://da.gd/whMYa
+GithubAdvisories,[GHSA-2fqr-cx7q-3ph8] openstack-heat may disclose sensitive information,https://github.com/advisories/GHSA-2fqr-cx7q-3ph8,https://da.gd/X9fQ4
+GithubAdvisories,[GHSA-6vjm-54vp-mxhx] Juju's unprivileged user running on charm node can leak any secret or relation data accessible to the local charm,https://github.com/advisories/GHSA-6vjm-54vp-mxhx,https://da.gd/vv4A
+GithubAdvisories,[GHSA-8c64-q78q-87r6] Duplicate Advisory: Juju leaks of the sensitive context ID,https://github.com/advisories/GHSA-8c64-q78q-87r6,https://da.gd/79W3hq
