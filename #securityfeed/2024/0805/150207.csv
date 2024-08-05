@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-qv35-3gw6-8q4j] In regclient, pinned manifest digests may be ignored",https://github.com/advisories/GHSA-qv35-3gw6-8q4j,https://da.gd/VQFe3
+GithubAdvisories,[GHSA-f6cj-4h3g-hwq4] APM Server vulnerable to Insertion of Sensitive Information into Log File,https://github.com/advisories/GHSA-f6cj-4h3g-hwq4,https://da.gd/ktojaI
+GithubAdvisories,[GHSA-w9pg-7c3h-fc8j] ipl/web's `ipl\Web\Common\CsrfCounterMeasure` is susceptible to CSRF,https://github.com/advisories/GHSA-w9pg-7c3h-fc8j,https://da.gd/8ZtlQa
