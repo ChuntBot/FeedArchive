@@ -1,0 +1,32 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-858c-qxvx-rg9v] Flowise Cross-site Scripting in /api/v1/chatflows-streaming/id,https://github.com/advisories/GHSA-858c-qxvx-rg9v,https://da.gd/HQ2gG
+GithubAdvisories,[GHSA-wxm4-9f8p-gggv] Flowise Cross-site Scripting in/api/v1/credentials/id,https://github.com/advisories/GHSA-wxm4-9f8p-gggv,https://da.gd/HmUVWW
+GithubAdvisories,[GHSA-2jch-qc96-9f5g] Flowise Cross-site Scripting in api/v1/chatflows/id,https://github.com/advisories/GHSA-2jch-qc96-9f5g,https://da.gd/ZsdEaC
+GithubAdvisories,[GHSA-fccx-2pwj-hrq7] Flowise Cross-site Scripting in /api/v1/public-chatflows/id,https://github.com/advisories/GHSA-fccx-2pwj-hrq7,https://da.gd/sInRqV
+GithubAdvisories,[GHSA-66f2-xxgm-f6xp] Flowise Cors Misconfiguration in packages/server/src/index.ts,https://github.com/advisories/GHSA-66f2-xxgm-f6xp,https://da.gd/OSo2O1
+GithubAdvisories,[GHSA-h7cm-jvpp-69xf] Meshery SQL Injection vulnerability,https://github.com/advisories/GHSA-h7cm-jvpp-69xf,https://da.gd/9DYDu
+GithubAdvisories,[GHSA-h997-3fxj-p5j8] Flowise Path Injection at /api/v1/openai-assistants-file,https://github.com/advisories/GHSA-h997-3fxj-p5j8,https://da.gd/olH8D
+GithubAdvisories,[GHSA-9f24-jrv4-f8g5] Meshery SQL Injection vulnerability,https://github.com/advisories/GHSA-9f24-jrv4-f8g5,https://da.gd/9P1pNs
+GithubAdvisories,[GHSA-w7c4-5w4f-jm3g] Reposilite Arbitrary File Read vulnerability,https://github.com/advisories/GHSA-w7c4-5w4f-jm3g,https://da.gd/k42XHv
+GithubAdvisories,[GHSA-qgj8-g9q4-7f2p] gotortc vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-qgj8-g9q4-7f2p,https://da.gd/7QH25W
+GithubAdvisories,[GHSA-rh4r-f7f7-r99m] gotortc Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-rh4r-f7f7-r99m,https://da.gd/9BH3w
+GithubAdvisories,[GHSA-652r-q29p-m25h] Meshery SQL Injection vulnerability,https://github.com/advisories/GHSA-652r-q29p-m25h,https://da.gd/aHDk6
+GithubAdvisories,[GHSA-wv8x-3w6r-6h7v] gotortc Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-wv8x-3w6r-6h7v,https://da.gd/G7Bbn
+GithubAdvisories,[GHSA-9355-27m8-h74v] Owncast Path Traversal vulnerability,https://github.com/advisories/GHSA-9355-27m8-h74v,https://da.gd/0MGf6K
+GithubAdvisories,[GHSA-65fm-2jgr-j7qq] memos vulnerable to Server-Side Request Forgery in /api/resource,https://github.com/advisories/GHSA-65fm-2jgr-j7qq,https://da.gd/CscG
+GithubAdvisories,[GHSA-9cqm-mgv9-vv9j] memos vulnerable to Server-Side Request Forgery and Cross-site Scripting,https://github.com/advisories/GHSA-9cqm-mgv9-vv9j,https://da.gd/MMvI
+GithubAdvisories,[GHSA-qf3q-9f3h-cjp9] NextChat has full-read SSRF and XSS vulnerability in /api/cors endpoint,https://github.com/advisories/GHSA-qf3q-9f3h-cjp9,https://da.gd/uy2qaX
+GithubAdvisories,[GHSA-v99w-r56h-g23v] Owncast Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-v99w-r56h-g23v,https://da.gd/giNUy
+GithubAdvisories,[GHSA-6fcf-g3mp-xj2x] memos vulnerable to Server-Side Request Forgery in /o/get/httpmeta,https://github.com/advisories/GHSA-6fcf-g3mp-xj2x,https://da.gd/r0yM3
+GithubAdvisories,[GHSA-xmhh-xrcc-mx36] Scrypted Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-xmhh-xrcc-mx36,https://da.gd/xc0rN
+GithubAdvisories,[GHSA-6h53-q94j-348w] RobotsAndPencils go-saml authentication bypass vulnerability,https://github.com/advisories/GHSA-6h53-q94j-348w,https://da.gd/VD4yrd
+GithubAdvisories,[GHSA-f984-3wx8-grp9] XXL-RPC Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-f984-3wx8-grp9,https://da.gd/G5ffQ
+GithubAdvisories,[GHSA-ww7p-8gfg-v82r] Scrypted Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-ww7p-8gfg-v82r,https://da.gd/g0qmJn
+GithubAdvisories,[GHSA-4hvc-qwr2-f8rv] Redisson vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-4hvc-qwr2-f8rv,https://da.gd/cXISKH
+GithubAdvisories,[GHSA-hf66-xfgj-42g8] Microweber Cross Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-hf66-xfgj-42g8,https://da.gd/z0yNI
+GithubAdvisories,[GHSA-mr24-cf69-5chq] dcat-admin Cross Site Scripting vulnerability,https://github.com/advisories/GHSA-mr24-cf69-5chq,https://da.gd/yBu9tP
+GithubAdvisories,[GHSA-whr2-9x5f-5c79] Alpine allows Authentication Filter bypass,https://github.com/advisories/GHSA-whr2-9x5f-5c79,https://da.gd/hfle
+GithubAdvisories,[GHSA-p78h-m8pv-g9gm] Apereo CAS vulnerable to credential leaks for LDAP authentication,https://github.com/advisories/GHSA-p78h-m8pv-g9gm,https://da.gd/KtEk
+GithubAdvisories,[GHSA-6mvj-2569-3mcm] Editor.js vulnerable to Code Injection,https://github.com/advisories/GHSA-6mvj-2569-3mcm,https://da.gd/dnUu8
+GithubAdvisories,[GHSA-2w4p-2hf7-gh8x] Alpine allows URL access filter bypass,https://github.com/advisories/GHSA-2w4p-2hf7-gh8x,https://da.gd/iCBvn
+GithubAdvisories,[GHSA-5fwq-9x7j-2qpg] lorawan-stack Open Redirect vulnerability,https://github.com/advisories/GHSA-5fwq-9x7j-2qpg,https://da.gd/dULK
