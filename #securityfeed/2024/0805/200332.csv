@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cxgv-px37-4mp2] Nuxt Icon affected by a Server-Side Request Forgery (SSRF),https://github.com/advisories/GHSA-cxgv-px37-4mp2,https://da.gd/hz3mGK
+GithubAdvisories,[GHSA-v784-fjjh-f8r4] Nuxt vulnerable to remote code execution via the browser when running the test locally,https://github.com/advisories/GHSA-v784-fjjh-f8r4,https://da.gd/Bv8hp
+GithubAdvisories,[GHSA-vf6r-87q4-2vjf] nuxt vulnerable to Cross-site Scripting in navigateTo if used after SSR,https://github.com/advisories/GHSA-vf6r-87q4-2vjf,https://da.gd/0psnC
+GithubAdvisories,[GHSA-rcvg-rgf7-pppv] Nuxt Devtools has a Path Traversal: '../filedir',https://github.com/advisories/GHSA-rcvg-rgf7-pppv,https://da.gd/J8MHC
