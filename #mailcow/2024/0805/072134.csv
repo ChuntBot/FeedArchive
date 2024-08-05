@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubCommit,[Web] use correct user to fetch TFA authenticators,https://github.com/mailcow/mailcow-dockerized/commit/f33d82ffc11ed3438609d4e7a6baa78cb3305bc3,https://da.gd/lHEBz
+GithubCommit,[Web] escapeHtml in api_log table,https://github.com/mailcow/mailcow-dockerized/commit/66aa28b5de282fc037e0d2f02fbdc84539b614a1,https://da.gd/pHR5Z
+GithubCommit,[Web] escapeHtml in relayhosts table,https://github.com/mailcow/mailcow-dockerized/commit/efb2572f0fa57628ad98a76a4ae884a10cac0a1a,https://da.gd/wD9861
+GithubCommit,postfix: remove forced helo restrictions from master.cf,https://github.com/mailcow/mailcow-dockerized/commit/73257151c41252f08d1e6e6eb67b0846960416a5,https://da.gd/YoI9c
+GithubCommit,Do not add MAILCOW_WHITE on failed DMARC,https://github.com/mailcow/mailcow-dockerized/commit/7f7a869678293a4577eb34fa5f0de9ff72c62fc3,https://da.gd/bQAB1z
+GithubCommit,Update composites.conf,https://github.com/mailcow/mailcow-dockerized/commit/8fbfd99dd6f74e20e65f9f71a1e185ab3dce27be,https://da.gd/AWpwv2
+GithubCommit,Merge pull request #5971 from mailcow/dragoangel-patch-1,https://github.com/mailcow/mailcow-dockerized/commit/03fccb28e961419c72a80582d79b6dc945838255,https://da.gd/NEh1Sc
+GithubCommit,update postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/ff34eb12e2dbd9f9905aba0020fcb5921c2be7a0,https://da.gd/30kZu
+GithubCommit,Merge pull request #5974 from mailcow:update/postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/6a8986fe4f895ac6849cc58e209ca475abf93a22,https://da.gd/uNpStT
+GithubCommit,Merge pull request #5976 from mailcow/fix/get-tfa,https://github.com/mailcow/mailcow-dockerized/commit/cbca306fc107b3de5429ec9455da91300ceed64e,https://da.gd/6LFQsO
+GithubCommit,Merge pull request #5979 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/fcf27d640d61a9fef09ae6efc3b59a92b7412fb8,https://da.gd/514XO
