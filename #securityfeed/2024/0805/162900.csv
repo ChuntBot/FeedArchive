@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-62qf-qm3g-fvcw] Apache Airflow Providers FAB Insufficient Session Expiration vulnerability,https://github.com/advisories/GHSA-62qf-qm3g-fvcw,https://da.gd/ocHLK
+GithubAdvisories,[GHSA-3wfj-3x8q-hrpg] Kubean vulnerable to cluster-level privilege escalation,https://github.com/advisories/GHSA-3wfj-3x8q-hrpg,https://da.gd/100rw
