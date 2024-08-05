@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Debian Security Advisory 5737-1,https://packetstormsecurity.com/files/179911/dsa-5737-1.txt,https://da.gd/YUvXa
+PacketstormSecurity,Linux DRM drm_file_update_pid() Race Condition / Use-After-Free,https://packetstormsecurity.com/files/179909/GS20240805171400.txt,https://da.gd/kggqH
+PacketstormSecurity,Online Shopping Portal Project 2.0 SQL Injection,https://packetstormsecurity.com/files/179908/ospp20-sql.txt,https://da.gd/1TL9Ls
+PacketstormSecurity,Dolphin 7.4.2 Blind SQL Injection,https://packetstormsecurity.com/files/179907/dolphin742-sql.txt,https://da.gd/lvBp61
+PacketstormSecurity,Ivanti ADC 9.9 Authentication Bypass,https://packetstormsecurity.com/files/179906/ivantiadc99-bypass.txt,https://da.gd/7qeBqD
+PacketstormSecurity,Genexus Protection Server 9.7.2.10 Unquoted Service Path,https://packetstormsecurity.com/files/179905/genexusps97210-unquotedpath.txt,https://da.gd/W9oKU
+PacketstormSecurity,Devika 1 Path Traversal,https://packetstormsecurity.com/files/179904/devika1-traversal.txt,https://da.gd/Kz6WK
+PacketstormSecurity,Debian Security Advisory 5736-1,https://packetstormsecurity.com/files/179903/dsa-5736-1.txt,https://da.gd/6djko
+PacketstormSecurity,e107 2.3.3 Cross Site Scripting,https://packetstormsecurity.com/files/179902/e107233-xss.txt,https://da.gd/6DL6
+PacketstormSecurity,Codeprojects E-Commerce 1.0 Insecure Settings,https://packetstormsecurity.com/files/179901/codeprojectsecomm10-insecure.txt,https://da.gd/on3R6
+PacketstormSecurity,Blog Site 1.0 SQL Injection,https://packetstormsecurity.com/files/179899/blogsite10-sqlbypass.txt,https://da.gd/wfkOe
+PacketstormSecurity,Best Courier Management System 1.0 SQL Injection,https://packetstormsecurity.com/files/179898/bcms10-sqlbypass.txt,https://da.gd/fwYMo0
+PacketstormSecurity,Appointment Scheduler 4.0 Insecure Direct Object Reference,https://packetstormsecurity.com/files/179897/appointmentscheduler40-idor.txt,https://da.gd/ZgL8wu
