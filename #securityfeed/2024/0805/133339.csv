@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f7q4-pwc6-w24p] Elliptic's EDDSA missing signature length check,https://github.com/advisories/GHSA-f7q4-pwc6-w24p,https://da.gd/QLpXU6
