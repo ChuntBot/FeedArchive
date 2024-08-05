@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-49q7-c7j4-3p7m] Elliptic allows BER-encoded signatures,https://github.com/advisories/GHSA-49q7-c7j4-3p7m,https://da.gd/UYoFF
+GithubAdvisories,[GHSA-977x-g7h5-7qgw] Elliptic's ECDSA missing check for whether leading bit of r and s is zero,https://github.com/advisories/GHSA-977x-g7h5-7qgw,https://da.gd/nQWcEI
