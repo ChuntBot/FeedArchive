@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Greek names of dovecot folders,https://github.com/mailcow/mailcow-dockerized/commit/e426c3a7e7fbf80e989329853cd039a6dd482489,https://da.gd/BRJlty
+GithubCommitStaging,dovecot: fix precompiling of sieve scripts,https://github.com/mailcow/mailcow-dockerized/commit/c9187261430672f41fdb7b432444e270454278ff,https://da.gd/seNb5Z
+GithubCommitStaging,Merge pull request #5804 from Ayowel/feat/unattended-install,https://github.com/mailcow/mailcow-dockerized/commit/10077ece314c39284c7130c439dfd74c55830600,https://da.gd/uzFPbn
+GithubCommitStaging,Merge pull request #5983 from mailcow/fix/sieve-compiling,https://github.com/mailcow/mailcow-dockerized/commit/f8de520d2900fccd4c84f98d76449bae79544dfe,https://da.gd/sr1RF
+GithubCommitStaging,Merge pull request #5972 from rallisf1/dovecot-folders-greek,https://github.com/mailcow/mailcow-dockerized/commit/68616c2d578122c349326373d1de6b94093d65b4,https://da.gd/vr0MXK
