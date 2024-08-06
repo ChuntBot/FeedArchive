@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,ui: added enotify and mime as valid options for ui,https://github.com/mailcow/mailcow-dockerized/commit/6ee0303b0f5b3953f66a21195eec1d08bdae1d98,https://da.gd/KD3W
+GithubCommitStaging,Merge pull request #5985 from mailcow/feat/improve-sieve-parser,https://github.com/mailcow/mailcow-dockerized/commit/e398cb91e927fc0e8970d66e9cedbed89e7bd12a,https://da.gd/YPfaub
