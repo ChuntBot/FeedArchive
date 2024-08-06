@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,scripts: adding docker version check to align to docs (24.X),https://github.com/mailcow/mailcow-dockerized/commit/926af87cfb19cb3fdad8da992dccc2d506400079,https://da.gd/b9gcg
+GithubCommitStaging,update.sh: fix text for min. docker ver,https://github.com/mailcow/mailcow-dockerized/commit/a001a0584f12c19efd6054b417284a5488f8eb74,https://da.gd/FqXBmZ
