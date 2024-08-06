@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2rwj-7xq8-4gx4] Qwik has a potential mXSS vulnerability due to improper HTML escaping,https://github.com/advisories/GHSA-2rwj-7xq8-4gx4,https://da.gd/1Ffn2R
