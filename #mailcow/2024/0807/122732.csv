@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Refactor: `update.sh` script with `--help` should exit with status co…,https://github.com/mailcow/mailcow-dockerized/commit/2fe21e964126e0f4a251ad72443f21ef622c6edb,https://da.gd/zQ6PJ4
+GithubCommitStaging,rspamd: Added DQS RBLs when key is set,https://github.com/mailcow/mailcow-dockerized/commit/4b400eadb1112c07d8e6ac523cebf099912210e2,https://da.gd/BQ9Db
+GithubCommitStaging,rspamd: upgrade to 3.9.1 + upgrade to bookworm,https://github.com/mailcow/mailcow-dockerized/commit/5d7c9b20bc2fe101ab7da37f768d0812aec37e02,https://da.gd/LBBEu
+GithubCommitStaging,rspamd: fixed dqs rbl insertion handling,https://github.com/mailcow/mailcow-dockerized/commit/b6c036496d03634c48cd953d09aeba67bf19a29d,https://da.gd/MngF
+GithubCommitStaging,compose: bumped rspamd tag,https://github.com/mailcow/mailcow-dockerized/commit/6e00d653ce64d17092fa86c178509900aa84821b,https://da.gd/j1lR
+GithubCommitStaging,Merge pull request #5661 from mailcow/feat/rspamd-3.8,https://github.com/mailcow/mailcow-dockerized/commit/3b23afa0ff8d4e551adcabd5a53fbc4f375bbe47,https://da.gd/5nHMG
+GithubCommitStaging,Merge pull request #5991 from h3ssan/refactor/update-script-help-exit,https://github.com/mailcow/mailcow-dockerized/commit/76194be7dd1d3ca112647b53c0d590f9f8fc5550,https://da.gd/4UhgxX
