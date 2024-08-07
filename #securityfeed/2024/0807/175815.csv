@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p6h9-gx5g-wg64] Magento Open Source Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-p6h9-gx5g-wg64,https://da.gd/p56uc5
+GithubAdvisories,[GHSA-5632-wq7m-gfq9] Magento Open Source Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-5632-wq7m-gfq9,https://da.gd/693FYH
+GithubAdvisories,[GHSA-wwj3-573j-rvvm] Magento Open Source Improper Authorization vulnerability,https://github.com/advisories/GHSA-wwj3-573j-rvvm,https://da.gd/ebPFm
+GithubAdvisories,[GHSA-f7q4-9gwv-6774] Magento Open Source Improper Authentication vulnerability,https://github.com/advisories/GHSA-f7q4-9gwv-6774,https://da.gd/0XmOcE
+GithubAdvisories,[GHSA-jmqp-r3gg-6jh3] Magento Open Source Server-Side Request Forgery (SSRF) vulnerability,https://github.com/advisories/GHSA-jmqp-r3gg-6jh3,https://da.gd/BpFhF
