@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Fix typo in `update.sh`: Proceeding,https://github.com/mailcow/mailcow-dockerized/commit/e994cf4d0575aec5690663c2713f974f415db862,https://da.gd/qori
+GithubCommitStaging,Fix typo: receiving updates from `an` unsupported branch,https://github.com/mailcow/mailcow-dockerized/commit/b3e0a6622297bc1c7d25d5d70ab84c7eab0943c7,https://da.gd/piWQ5P
+GithubCommitStaging,Fix typos and English grammar in `update.sh`,https://github.com/mailcow/mailcow-dockerized/commit/292306b191f952d2b853fb02458e6fc9bf066c2b,https://da.gd/zgpns
+GithubCommitStaging,Fix typo for word `Potential` in `update.sh` file,https://github.com/mailcow/mailcow-dockerized/commit/3bf90c1f73412073eca44219eb55a1c54d793406,https://da.gd/7vlA
+GithubCommitStaging,"Fix `LABEL` in Dockerfile, should be key=value",https://github.com/mailcow/mailcow-dockerized/commit/edd85dea8dc194092aa4ae1b60ec943213ea0928,https://da.gd/5G8vNG
+GithubCommitStaging,change nginx address,https://github.com/mailcow/mailcow-dockerized/commit/8fe1cc49618b4525c8ed163092a2a3271ccbf9e7,https://da.gd/QjstD
+GithubCommitStaging,Include COMPOSE_PROJECT_NAME in Nginx url,https://github.com/mailcow/mailcow-dockerized/commit/0cdf7647c4669eb84942e9a978f13817a5c80ac1,https://da.gd/M1WYN
+GithubCommitStaging,adapt scheme to affected curl containers (dirty way... but workaround),https://github.com/mailcow/mailcow-dockerized/commit/b56291f62b07df92ebff1b119379c0007bfe9d47,https://da.gd/T3jIY
+GithubCommitStaging,compose: bump container tags,https://github.com/mailcow/mailcow-dockerized/commit/a4c006828e7d167b41fd9856262ac5bbbd343c14,https://da.gd/9l4y
+GithubCommitStaging,Merge pull request #5989 from h3ssan/fix/update-script-procceding-typo,https://github.com/mailcow/mailcow-dockerized/commit/c48f4f4ab895e08d655fa5c1f594dd81fbbdb14f,https://da.gd/3zJe5g
+GithubCommitStaging,Merge pull request #5990 from h3ssan/fix/dockerfile-label-fix,https://github.com/mailcow/mailcow-dockerized/commit/fd927853cbb67e42c11ecd5f00c358aecacefb6e,https://da.gd/2KGvdQ
+GithubCommitStaging,Merge pull request #5945 from SailReal/master,https://github.com/mailcow/mailcow-dockerized/commit/b7ed6982d8f2f40fccce65dfc1cd2c2c8a746d6e,https://da.gd/xsS7m9
+GithubCommitStaging,Merge pull request #5967 from Doozy134/fix/curl-hostname,https://github.com/mailcow/mailcow-dockerized/commit/ab2abda8cc9a8a73fb8e9ef56dbbc156f1cc383d,https://da.gd/U5rK
