@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8pv9-qh96-9hc6] Jenkins does not perform a permission check in an HTTP endpoint,https://github.com/advisories/GHSA-8pv9-qh96-9hc6,https://da.gd/waMjV
+GithubAdvisories,[GHSA-h856-ffvv-xvr4] Jenkins Remoting library arbitrary file read vulnerability,https://github.com/advisories/GHSA-h856-ffvv-xvr4,https://da.gd/P1mM1B
