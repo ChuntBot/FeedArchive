@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9m5j-4xx9-44j9] Pulp incorrectly assigns RBAC permissions in tasks that create objects,https://github.com/advisories/GHSA-9m5j-4xx9-44j9,https://da.gd/Rt0DXM
