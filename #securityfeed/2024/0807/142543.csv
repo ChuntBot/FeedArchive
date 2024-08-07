@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p3pf-mff8-3h47] Gorush uses deprecated TLS versions,https://github.com/advisories/GHSA-p3pf-mff8-3h47,https://da.gd/kz7fv
+GithubAdvisories,[GHSA-9v35-4xcr-w9ph] NetBird uses a static initialization vector (IV),https://github.com/advisories/GHSA-9v35-4xcr-w9ph,https://da.gd/kgWTxR
