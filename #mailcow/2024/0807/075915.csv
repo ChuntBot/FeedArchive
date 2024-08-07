@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Check `mailcow.conf` exists before source it,https://github.com/mailcow/mailcow-dockerized/commit/b0339372b5482781fffff6c39a286c01e5a2c65d,https://da.gd/ooS1s
+GithubCommitStaging,Add color-coded error message for missing `mailcow.conf`,https://github.com/mailcow/mailcow-dockerized/commit/cc0dc2eae090fec01320d619b0008e82bebca315,https://da.gd/QNBmy
+GithubCommitStaging,Merge pull request #5987 from h3ssan/fix/validate-mailcow-conf-before…,https://github.com/mailcow/mailcow-dockerized/commit/bf050f17c41cc29ac6c9c5d9cad9984026554ea3,https://da.gd/PaROGu
