@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r836-hh6v-rg5g] Django vulnerable to denial-of-service attack,https://github.com/advisories/GHSA-r836-hh6v-rg5g,https://da.gd/RVPsgx
+GithubAdvisories,[GHSA-pv4p-cwwg-4rph] Django SQL injection vulnerability,https://github.com/advisories/GHSA-pv4p-cwwg-4rph,https://da.gd/Fjrb4U
+GithubAdvisories,[GHSA-795c-9xpc-xw6g] Django vulnerable to a denial-of-service attack,https://github.com/advisories/GHSA-795c-9xpc-xw6g,https://da.gd/soYBB
+GithubAdvisories,[GHSA-jh75-99hh-qvx9] Django memory consumption vulnerability,https://github.com/advisories/GHSA-jh75-99hh-qvx9,https://da.gd/cGzwY
