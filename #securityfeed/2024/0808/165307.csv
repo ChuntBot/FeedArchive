@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m3rh-cvr5-x6q4] CosmWasm wasmd has large address count in ValidateBasic,https://github.com/advisories/GHSA-m3rh-cvr5-x6q4,https://da.gd/dZyAg
+GithubAdvisories,[GHSA-rg2q-2jh9-447q] Gas mispricing in cosmwasm-vm,https://github.com/advisories/GHSA-rg2q-2jh9-447q,https://da.gd/m0h5q
+GithubAdvisories,[GHSA-5jp3-wp5v-5363] Open WebUI Stored Cross-Site Scripting Vulnerability,https://github.com/advisories/GHSA-5jp3-wp5v-5363,https://da.gd/zfLbbr
