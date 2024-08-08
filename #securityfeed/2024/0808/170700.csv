@@ -1,0 +1,25 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Calibre 7.15.0 Python Code Injection,https://packetstormsecurity.com/files/180007/calibre_exec.rb.txt,https://da.gd/HVuY5
+PacketstormSecurity,Debian Security Advisory 5742-1,https://packetstormsecurity.com/files/180006/dsa-5742-1.txt,https://da.gd/fM1pB
+PacketstormSecurity,Journyx 11.5.4 XML Injection,https://packetstormsecurity.com/files/180005/KL-001-2024-010.txt,https://da.gd/ovosFd
+PacketstormSecurity,Journyx 11.5.4 Cross Site Scripting,https://packetstormsecurity.com/files/180004/KL-001-2024-009.txt,https://da.gd/KjAkVb
+PacketstormSecurity,Journyx 11.5.4 Authenticated Remote Code Execution,https://packetstormsecurity.com/files/180002/KL-001-2024-008.txt,https://da.gd/zYcNJS
+PacketstormSecurity,Debian Security Advisory 5743-1,https://packetstormsecurity.com/files/180001/dsa-5743-1.txt,https://da.gd/XHJ37
+PacketstormSecurity,Journyx 11.5.4 Unauthenticated Password Reset Bruteforce,https://packetstormsecurity.com/files/180000/KL-001-2024-007.txt,https://da.gd/sEDLbc
+PacketstormSecurity,Debian Security Advisory 5741-1,https://packetstormsecurity.com/files/179999/dsa-5741-1.txt,https://da.gd/AsBTp
+PacketstormSecurity,Open WebUI 0.1.105 File Upload / Path Traversal,https://packetstormsecurity.com/files/179998/KL-001-2024-006.txt,https://da.gd/a1d9vs
+PacketstormSecurity,Open WebUI 0.1.105 Persistent Cross Site Scripting,https://packetstormsecurity.com/files/179997/KL-001-2024-005.txt,https://da.gd/AtHcW
+PacketstormSecurity,Oracle VM VirtualBox 7.0.10 r158379 Escape,https://packetstormsecurity.com/files/179996/CVE-2023-22098.tgz,https://da.gd/nvq4a
+PacketstormSecurity,Linux eBPF Path Pruning Gone Wrong,https://packetstormsecurity.com/files/179995/CVE-2023-2163.tgz,https://da.gd/Fh87
+PacketstormSecurity,XGETBV Is Non-Deterministic On Intel CPUs,https://packetstormsecurity.com/files/179994/xgetbv-intel.tgz,https://da.gd/jp5W8p
+PacketstormSecurity,XSAVES Instruction May Fail To Save XMM Registers,https://packetstormsecurity.com/files/179993/1386-failure.tgz,https://da.gd/AiSM
+PacketstormSecurity,RET2ASLR - Leaking ASLR From Return Instructions,https://packetstormsecurity.com/files/179992/ret2aslr.tgz,https://da.gd/EXjxm
+PacketstormSecurity,Unexpected Speculation Control Of _RETs_,https://packetstormsecurity.com/files/179991/top-of-stack.tgz,https://da.gd/RZz5C
+PacketstormSecurity,Bleve Library Traversal,https://packetstormsecurity.com/files/179990/bleve-traversal.tgz,https://da.gd/zdMS
+PacketstormSecurity,Microsoft CBC Padding Oracle In Azure Blob Storage Encryption Library,https://packetstormsecurity.com/files/179989/azure-padding.tgz,https://da.gd/RJaC5z
+PacketstormSecurity,Apple libresolve Heap Buffer Overflow,https://packetstormsecurity.com/files/179988/libresolv-overflow.tgz,https://da.gd/hAyGtv
+PacketstormSecurity,Apache log4j2 Code Execution,https://packetstormsecurity.com/files/179987/log4j-CVE-2021-45046.tgz,https://da.gd/xDLxc
+PacketstormSecurity,Surface Pro 3 BIOS False Health Attestation / TPM Carte Blanche,https://packetstormsecurity.com/files/179986/tpm-carte-blanche.tgz,https://da.gd/xAMAjj
+PacketstormSecurity,Linux xt_compat_target_from_user Heap Out-Of-Bounds Write,https://packetstormsecurity.com/files/179985/CVE-2021-22555.tgz,https://da.gd/Zmqe
+PacketstormSecurity,Linux KVM VM_IO|VM_PFNMAP VMA Mishandling,https://packetstormsecurity.com/files/179984/kvmvma.tgz,https://da.gd/CDhC
+PacketstormSecurity,Windows Firewall Control 6.11.0 Unquoted Service Path,https://packetstormsecurity.com/files/179983/wfc6110-unquotedpath.txt,https://da.gd/CW0k
