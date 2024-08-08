@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p6w9-r443-r752] Shopware vulnerable to blind SQL-injection in DAL aggregations,https://github.com/advisories/GHSA-p6w9-r443-r752,https://da.gd/W2ial
+GithubAdvisories,[GHSA-35jp-8cgg-p4wj] Shopware vulnerable to Server Side Template Injection in Twig using Context functions,https://github.com/advisories/GHSA-35jp-8cgg-p4wj,https://da.gd/WkGfd
+GithubAdvisories,[GHSA-27wp-jvhw-v4xp] Shopware vulnerable to Server Side Template Injection in Twig using deprecation silence tag,https://github.com/advisories/GHSA-27wp-jvhw-v4xp,https://da.gd/XiNwC
+GithubAdvisories,[GHSA-hhcq-ph6w-494g] Shopware vulnerable to Improper Access Control with ManyToMany associations in store-api,https://github.com/advisories/GHSA-hhcq-ph6w-494g,https://da.gd/dwvFMt
+GithubAdvisories,[GHSA-9x4q-3gxw-849f] JupyterHub has a privilege escalation vulnerability with the `admin:users` scope,https://github.com/advisories/GHSA-9x4q-3gxw-849f,https://da.gd/jH0nl
