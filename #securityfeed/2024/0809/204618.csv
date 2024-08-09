@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-857q-xmph-p2v5] s2n-tls's mTLS API ordering may skip client authentication,https://github.com/advisories/GHSA-857q-xmph-p2v5,https://da.gd/TBZRsc
