@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-jwhx-xcg6-8xhj] In aiohttp, compressed files as symlinks are not protected from path traversal",https://github.com/advisories/GHSA-jwhx-xcg6-8xhj,https://da.gd/iGMJ4
