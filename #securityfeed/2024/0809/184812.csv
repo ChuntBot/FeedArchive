@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vcvp-89fq-hwj8] Apache Sling Authentication Service vulnerability,https://github.com/advisories/GHSA-vcvp-89fq-hwj8,https://da.gd/3ux7t
+GithubAdvisories,[GHSA-pcwp-26pw-j98w] CometVisu Backend for openHAB has a path traversal vulnerability,https://github.com/advisories/GHSA-pcwp-26pw-j98w,https://da.gd/Vcyhp
+GithubAdvisories,[GHSA-f729-58x4-gqgf] CometVisu Backend for openHAB affected by RCE through path traversal,https://github.com/advisories/GHSA-f729-58x4-gqgf,https://da.gd/yeH0u
+GithubAdvisories,[GHSA-3g4c-hjhr-73rj] CometVisu Backend for openHAB has a sensitive information disclosure vulnerability,https://github.com/advisories/GHSA-3g4c-hjhr-73rj,https://da.gd/QH6nE
+GithubAdvisories,[GHSA-v7gr-mqpj-wwh3] CometVisu Backend for openHAB affected by SSRF/XSS,https://github.com/advisories/GHSA-v7gr-mqpj-wwh3,https://da.gd/HEHDb
