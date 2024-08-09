@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4hq2-rpgc-r8r7] Litestar has an environment Variable injection in `docs-preview.yml` workflow,https://github.com/advisories/GHSA-4hq2-rpgc-r8r7,https://da.gd/GeyzwG
