@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4vv4-crw4-8pcw] Apache DolphinScheduler: Resource File Read And Write Vulnerability,https://github.com/advisories/GHSA-4vv4-crw4-8pcw,https://da.gd/DluAm3
+GithubAdvisories,[GHSA-m9q4-p56m-mc6q] Apache DolphinScheduler: RCE by arbitrary js execution,https://github.com/advisories/GHSA-m9q4-p56m-mc6q,https://da.gd/pmOE9U
