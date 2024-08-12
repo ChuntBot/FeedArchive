@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m3px-vjxr-fx4m] Filament Excel Vulnerable to Path Traversal Attack on Export Download Endpoint,https://github.com/advisories/GHSA-m3px-vjxr-fx4m,https://da.gd/3EiV6T
+GithubAdvisories,[GHSA-rxff-vr5r-8cj5] Path traveral in Streamlit on windows,https://github.com/advisories/GHSA-rxff-vr5r-8cj5,https://da.gd/KiynP
+GithubAdvisories,[GHSA-v3x9-wrq5-868j] Apache Answer: The link for resetting user password is not Single-Use,https://github.com/advisories/GHSA-v3x9-wrq5-868j,https://da.gd/CdV0yr
+GithubAdvisories,[GHSA-gvpv-r32v-9737] Apache Answer: The link to reset the user's password will remain valid after sending a new link,https://github.com/advisories/GHSA-gvpv-r32v-9737,https://da.gd/MauQT
+GithubAdvisories,[GHSA-xj87-mqvh-88w2] fish-shop/syntax-check Improper Neutralization of Delimiters,https://github.com/advisories/GHSA-xj87-mqvh-88w2,https://da.gd/fFOY
+GithubAdvisories,[GHSA-6r4j-4rjc-8vw5] RBAC Roles for `etcd` created by Kamaji are not disjunct,https://github.com/advisories/GHSA-6r4j-4rjc-8vw5,https://da.gd/L6gr
