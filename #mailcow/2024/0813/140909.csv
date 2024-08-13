@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,unbound: fix healthcheck logging + added fail tolerance to checks (#6…,https://github.com/mailcow/mailcow-dockerized/commit/b26ccc2019921aa399d801a5241dbdf21b8350c0,https://da.gd/C6i20c
+GithubCommitStaging,github-actions: compacted auto nightly pr,https://github.com/mailcow/mailcow-dockerized/commit/a6f71faf46d5f30c762c35f5f6d16fac293a53e5,https://da.gd/S3BMNL
