@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qm2q-9f3q-2vcv] Trix has a cross-site Scripting vulnerability on copy & paste,https://github.com/advisories/GHSA-qm2q-9f3q-2vcv,https://da.gd/ewNm
+GithubAdvisories,[GHSA-rhm7-7469-rcpw] Persistent Cross-site Scripting in eZ Platform Rich Text Field Type,https://github.com/advisories/GHSA-rhm7-7469-rcpw,https://da.gd/flWD8
+GithubAdvisories,[GHSA-hvcf-6324-cjh7] Persistent Cross-site Scripting in Ibexa RichText Field Type,https://github.com/advisories/GHSA-hvcf-6324-cjh7,https://da.gd/7TMqBR
+GithubAdvisories,[GHSA-ccqh-278p-xq6w] webcrack has an Arbitrary File Write Vulnerability on Windows when Parsing and Saving a Malicious Bundle,https://github.com/advisories/GHSA-ccqh-278p-xq6w,https://da.gd/JYyi6C
