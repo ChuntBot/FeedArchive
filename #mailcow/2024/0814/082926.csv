@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,flatcurve-fts: limit tokenizers for email adresses,https://github.com/mailcow/mailcow-dockerized/commit/e34afd3fdddabb82f4d71bf7e1e554d13ff21497,https://da.gd/i3bwAP
+GithubCommitStaging,dovecot: optimized dockerfile syntax,https://github.com/mailcow/mailcow-dockerized/commit/1994f706c09f7a6d0ff0c8a858e2fa0db9af17dd,https://da.gd/oa7d5
+GithubCommitStaging,Merge pull request #6006 from mailcow/fix/issue-5986,https://github.com/mailcow/mailcow-dockerized/commit/6d4fcacd83a2a5fa916028529388b37d527d4996,https://da.gd/5XQK2D
