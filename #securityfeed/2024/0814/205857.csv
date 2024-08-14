@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7x29-qqmq-v6qc] GitHub Actions Script Injection in `ultralytics/actions`,https://github.com/advisories/GHSA-7x29-qqmq-v6qc,https://da.gd/7yTb
+GithubAdvisories,[GHSA-f67q-wr6w-23jq] Boa has an uncaught exception when transitioning the state of `AsyncGenerator` objects,https://github.com/advisories/GHSA-f67q-wr6w-23jq,https://da.gd/oQGSJ0
