@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-83qr-9v2h-qxp4] Cosmos Hub (Gaia): The check for the height of cryptographic equivocation evidence is missing,https://github.com/advisories/GHSA-83qr-9v2h-qxp4,https://da.gd/2dszJy
+GithubAdvisories,[GHSA-mg3v-6m49-jhp3] WebOb's location header normalization during redirect leads to open redirect,https://github.com/advisories/GHSA-mg3v-6m49-jhp3,https://da.gd/cs200
