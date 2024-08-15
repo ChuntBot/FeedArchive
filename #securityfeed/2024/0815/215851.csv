@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q83v-hq3j-4pq3] Improper access control in Directus,https://github.com/advisories/GHSA-q83v-hq3j-4pq3,https://da.gd/WoP4
+GithubAdvisories,[GHSA-qf6h-p3mr-vmh5] Code injection in Directus,https://github.com/advisories/GHSA-qf6h-p3mr-vmh5,https://da.gd/CmNOh6
+GithubAdvisories,[GHSA-qcm3-7879-xcww] Gateway API route matching order contradicts specification,https://github.com/advisories/GHSA-qcm3-7879-xcww,https://da.gd/HqutIK
+GithubAdvisories,[GHSA-q7w8-72mr-vpgw] Policy bypass for Host Firewall policy due to race condition in Cilium agent,https://github.com/advisories/GHSA-q7w8-72mr-vpgw,https://da.gd/gtd7P
