@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-25qx-vfw2-fw8r] Nomad Vulnerable to Allocation Directory Escape On Non-Existing File Paths Through Archive Unpacking,https://github.com/advisories/GHSA-25qx-vfw2-fw8r,https://da.gd/bVvAGL
