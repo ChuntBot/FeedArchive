@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,compose: bump watchdog image,https://github.com/mailcow/mailcow-dockerized/commit/52431a39425c90db35bb2a76a0078ac050fd42cb,https://da.gd/TBnz
+GithubCommit,[Web] Updated lang.si-si.json (#5995),https://github.com/mailcow/mailcow-dockerized/commit/7f790c5360bd40b534afd96b67ef2d127e63344a,https://da.gd/RgemC
+GithubCommit,ofelia: limit scope to mailcow project (#5776),https://github.com/mailcow/mailcow-dockerized/commit/824a473fea3227a82e4bfc1f135b7d1459691fcb,https://da.gd/dS8tTy
+GithubCommit,Merge pull request #5934 from muhlba91/fix/restore-docker,https://github.com/mailcow/mailcow-dockerized/commit/8b933f1967fb478512ff7e28ef0cc8f065eeec64,https://da.gd/ltCD90
+GithubCommit,fix: disabled api call to solr in ui when mailbox deleted but using f…,https://github.com/mailcow/mailcow-dockerized/commit/294a406b91b44d9519cdb2ef0282cbedebdf3788,https://da.gd/OQEwtc
+GithubCommit,Translations update from Weblate (#5999),https://github.com/mailcow/mailcow-dockerized/commit/9fee5680827d9a95e5b33a5cb64d3524ff785ee3,https://da.gd/QaVMbs
+GithubCommit,[Rspamd] Fix bayes config (#6000),https://github.com/mailcow/mailcow-dockerized/commit/8753ea2be61d886de220b7ceff77d98c179dc22c,https://da.gd/7yFF
+GithubCommit,sogo: update to 5.11.0 + Rebase on Bookworm (#6002),https://github.com/mailcow/mailcow-dockerized/commit/b1c1e403d2ff9993c07c5c62ba82744a69238564,https://da.gd/iVpqW
+GithubCommit,unbound: fix healthcheck logging + added fail tolerance to checks (#6…,https://github.com/mailcow/mailcow-dockerized/commit/b26ccc2019921aa399d801a5241dbdf21b8350c0,https://da.gd/C6i20c
+GithubCommit,github-actions: compacted auto nightly pr,https://github.com/mailcow/mailcow-dockerized/commit/a6f71faf46d5f30c762c35f5f6d16fac293a53e5,https://da.gd/S3BMNL
+GithubCommit,flatcurve-fts: limit tokenizers for email adresses,https://github.com/mailcow/mailcow-dockerized/commit/e34afd3fdddabb82f4d71bf7e1e554d13ff21497,https://da.gd/i3bwAP
+GithubCommit,dovecot: optimized dockerfile syntax,https://github.com/mailcow/mailcow-dockerized/commit/1994f706c09f7a6d0ff0c8a858e2fa0db9af17dd,https://da.gd/oa7d5
+GithubCommit,Merge pull request #6006 from mailcow/fix/issue-5986,https://github.com/mailcow/mailcow-dockerized/commit/6d4fcacd83a2a5fa916028529388b37d527d4996,https://da.gd/5XQK2D
+GithubCommit,"Revert ""Don't expose SMTP/IMAP if announced ""not provided"" via SRV""",https://github.com/mailcow/mailcow-dockerized/commit/6c97c4f372b35bc9237a0d9f9b5696ff24cf0797,https://da.gd/yF5ET
+GithubCommit,Merge pull request #6007 from mailcow/revert-5945-master,https://github.com/mailcow/mailcow-dockerized/commit/162f05ccdadac12e5ea511e54949650b3914673e,https://da.gd/J8I8
+GithubCommit,Merge pull request #6009 from mailcow/feat/pw-reset,https://github.com/mailcow/mailcow-dockerized/commit/cb9ca772b1b53013a46a068b2bae394b6dba2ac2,https://da.gd/hdRWq
+GithubCommit,.github: Add pull_request_template.md,https://github.com/mailcow/mailcow-dockerized/commit/c5e399ebc2c15f5ff2eb570894ffe37ef82bda27,https://da.gd/7zHMeH
+GithubCommit,Updated contributing.md,https://github.com/mailcow/mailcow-dockerized/commit/e00d0d5f8de369fd8499aae78825aa4a670449e3,https://da.gd/pbYo4Z
+GithubCommit,Merge pull request #6011 from mailcow/gh/add_pull_request_template,https://github.com/mailcow/mailcow-dockerized/commit/74b4097ee0435d1d9100f199403fe2bac37085a2,https://da.gd/eBxZQ
+GithubCommit,Merge pull request #6012 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/9a729d89bf0fff0cead23ebe1828455611b636e4,https://da.gd/2uv8WF
