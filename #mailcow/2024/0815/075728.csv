@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,"Revert ""Don't expose SMTP/IMAP if announced ""not provided"" via SRV""",https://github.com/mailcow/mailcow-dockerized/commit/6c97c4f372b35bc9237a0d9f9b5696ff24cf0797,https://da.gd/yF5ET
+GithubCommitStaging,Merge pull request #6007 from mailcow/revert-5945-master,https://github.com/mailcow/mailcow-dockerized/commit/162f05ccdadac12e5ea511e54949650b3914673e,https://da.gd/J8I8
