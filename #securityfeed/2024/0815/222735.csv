@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3qw5-v9cc-v262] Cross site scripting in moodle,https://github.com/advisories/GHSA-3qw5-v9cc-v262,https://da.gd/lNAZ6
+GithubAdvisories,[GHSA-cpfp-m5qw-c4r3] Improper Preservation of Permissions in xxl-job,https://github.com/advisories/GHSA-cpfp-m5qw-c4r3,https://da.gd/Nr8EWH
+GithubAdvisories,[GHSA-8327-84cj-8xjm] Stack overflow when parsing specially crafted JSON ABI strings,https://github.com/advisories/GHSA-8327-84cj-8xjm,https://da.gd/brcln
