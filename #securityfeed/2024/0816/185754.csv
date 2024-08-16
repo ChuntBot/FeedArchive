@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vwf8-q6fw-4wcm] Cilium leaks information via incorrect ReferenceGrant update logic in Gateway API,https://github.com/advisories/GHSA-vwf8-q6fw-4wcm,https://da.gd/jUuAVC
