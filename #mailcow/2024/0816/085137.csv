@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,fix: 🚑 Fixed version parsing of docker,https://github.com/mailcow/mailcow-dockerized/commit/eb3f88fc91b38688baa91529c3d39fe2e486c3e1,https://da.gd/RVJW
+GithubCommitStaging,Merge pull request #6016 from jkrgr0/fix/ParseDockerVersion,https://github.com/mailcow/mailcow-dockerized/commit/12e4d639f0bb52318d93127f943ba6797c205a65,https://da.gd/lJftxZ
