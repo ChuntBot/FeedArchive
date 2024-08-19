@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xmrp-424f-vfpx] SQLx Binary Protocol Misinterpretation caused by Truncating or Overflowing Casts,https://github.com/advisories/GHSA-xmrp-424f-vfpx,https://da.gd/MvtmP
+GithubAdvisories,[GHSA-h6jq-w432-j26w] Silverpeas vulnerable to password complexity rule bypass,https://github.com/advisories/GHSA-h6jq-w432-j26w,https://da.gd/hwvGKu
