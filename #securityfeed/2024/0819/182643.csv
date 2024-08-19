@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hxwh-jpp2-84pm] Flask-CORS allows the `Access-Control-Allow-Private-Network` CORS header to be set to true by default,https://github.com/advisories/GHSA-hxwh-jpp2-84pm,https://da.gd/6H6g
+GithubAdvisories,[GHSA-rv9v-r4vm-gj8x] Miniscript allows stack consumption,https://github.com/advisories/GHSA-rv9v-r4vm-gj8x,https://da.gd/XbvI0X
