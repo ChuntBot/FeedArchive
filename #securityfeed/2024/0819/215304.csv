@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xhqw-4hcq-fcvr] Bolt CMS Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-xhqw-4hcq-fcvr,https://da.gd/FVtyq0
+GithubAdvisories,"[GHSA-f963-4cq8-2gw7] In XWiki Platform, payloads stored in content is executed when a user with script/programming right edit them",https://github.com/advisories/GHSA-f963-4cq8-2gw7,https://da.gd/KYcfE0
+GithubAdvisories,[GHSA-wcg9-pgqv-xm5v] XWiki Platform allows XSS through XClass name in string properties,https://github.com/advisories/GHSA-wcg9-pgqv-xm5v,https://da.gd/mbIRMm
+GithubAdvisories,[GHSA-r6ph-5fp2-3w2v] Microcks's POST /api/import and POST /api/export endpoints allow non-administrator access,https://github.com/advisories/GHSA-r6ph-5fp2-3w2v,https://da.gd/gSGen
