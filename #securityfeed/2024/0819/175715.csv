@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4hh3-vj32-gr6j] Mobile Security Framework (MobSF) has a Zip Slip Vulnerability in .a Static Library Files,https://github.com/advisories/GHSA-4hh3-vj32-gr6j,https://da.gd/u01WB
+GithubAdvisories,[GHSA-2m96-52r3-2f3g] fugit parse and parse_nat stall on lengthy input,https://github.com/advisories/GHSA-2m96-52r3-2f3g,https://da.gd/Qsk99
+GithubAdvisories,[GHSA-3r74-v83p-f4f4] Trufflehog vulnerable to Blind SSRF in some Detectors,https://github.com/advisories/GHSA-3r74-v83p-f4f4,https://da.gd/j05P
