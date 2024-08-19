@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubCommitStaging,containers: use mariadb-admin instead of deprecated mysqladmin (#6026),https://github.com/mailcow/mailcow-dockerized/commit/b70bcd36fbe84136285ccbce92fa7839f830e350,https://da.gd/P5NL3
