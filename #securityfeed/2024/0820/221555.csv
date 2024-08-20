@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h27c-6xm3-mcqp] Kanister vulnerable to cluster-level privilege escalation,https://github.com/advisories/GHSA-h27c-6xm3-mcqp,https://da.gd/nzmaYR
