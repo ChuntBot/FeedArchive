@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c6c3-h4f7-3962] apollo-portal has potential unauthorized access issue,https://github.com/advisories/GHSA-c6c3-h4f7-3962,https://da.gd/WMWRr
+GithubAdvisories,[GHSA-vhr5-g3pm-49fm] matrix-js-sdk will freeze when a user sets a room with itself as a its predecessor,https://github.com/advisories/GHSA-vhr5-g3pm-49fm,https://da.gd/ewkK
+GithubAdvisories,"[GHSA-mq69-4j5w-3qwp] Capsule tenant owner with ""patch namespace"" permission can hijack system namespaces",https://github.com/advisories/GHSA-mq69-4j5w-3qwp,https://da.gd/zHtHq
+GithubAdvisories,[GHSA-hrww-x3fq-xcvh] Umbraco CMS Improper Access Control vulnerability,https://github.com/advisories/GHSA-hrww-x3fq-xcvh,https://da.gd/CxUr7
+GithubAdvisories,[GHSA-77gj-crhp-3gvx] Umbraco CMS vulnerable to Generation of Error Message Containing Sensitive Information,https://github.com/advisories/GHSA-77gj-crhp-3gvx,https://da.gd/9aEmO5
