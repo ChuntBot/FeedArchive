@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubCommit,fix: 🚑 Fixed version parsing of docker,https://github.com/mailcow/mailcow-dockerized/commit/eb3f88fc91b38688baa91529c3d39fe2e486c3e1,https://da.gd/RVJW
+GithubCommit,Merge pull request #6016 from jkrgr0/fix/ParseDockerVersion,https://github.com/mailcow/mailcow-dockerized/commit/12e4d639f0bb52318d93127f943ba6797c205a65,https://da.gd/lJftxZ
+GithubCommit,Refactor/Change Dockerfiles cmd from shell to exec form (#6019),https://github.com/mailcow/mailcow-dockerized/commit/f3da8bb85ff98164f45c742aff957c960b75c69e,https://da.gd/57Ep2
+GithubCommit,dovecot: added timeout option when sa-rules cannot be downloaded (#6025),https://github.com/mailcow/mailcow-dockerized/commit/cb50d08605875e4f1862d6309e3ff9145423c9ad,https://da.gd/Rb71Vm
+GithubCommit,containers: use mariadb-admin instead of deprecated mysqladmin (#6026),https://github.com/mailcow/mailcow-dockerized/commit/b70bcd36fbe84136285ccbce92fa7839f830e350,https://da.gd/P5NL3
+GithubCommit,Fix: bash variables are not quoted (#6022),https://github.com/mailcow/mailcow-dockerized/commit/3d628696643d5b1a1dd68bcbc5ff3051c0d1b0c6,https://da.gd/NIdwZ4
+GithubCommit,Replace weird character to the correct `'` (#6029),https://github.com/mailcow/mailcow-dockerized/commit/f9a7712025db1b6118afc37941e30e3e8c473f95,https://da.gd/FfECE
+GithubCommit,Pushover/Quarantine utf 8 fix - fixes #6028 (#6031),https://github.com/mailcow/mailcow-dockerized/commit/567ebbc324496f1a6a36867a29470c648bcc409e,https://da.gd/MILoo
+GithubCommit,Merge pull request #6033 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/439a936fd84aea6361c7611877f7dc920457adc5,https://da.gd/xWTtoT
