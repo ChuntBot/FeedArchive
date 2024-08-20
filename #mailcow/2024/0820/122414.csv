@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Fix: Escape a `'` character in `update.sh` (#6034),https://github.com/mailcow/mailcow-dockerized/commit/bb7fd483f7762a5df55acdd4463b70e0409849fb,https://da.gd/XoAsba
