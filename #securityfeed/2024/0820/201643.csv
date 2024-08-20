@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hh8p-374f-qgr5] Grafana plugin data sources vulnerable to access control bypass,https://github.com/advisories/GHSA-hh8p-374f-qgr5,https://da.gd/ehjk5v
+GithubAdvisories,[GHSA-78x2-cwp9-5j42] Ghost's improper authentication allows access to member information and actions,https://github.com/advisories/GHSA-78x2-cwp9-5j42,https://da.gd/58sbpd
+GithubAdvisories,[GHSA-r5ph-4jxm-6j9p] LF Edge eKuiper has a SQL Injection in sqlKvStore,https://github.com/advisories/GHSA-r5ph-4jxm-6j9p,https://da.gd/L7y4j
+GithubAdvisories,[GHSA-2fm6-mv57-p2qh] Apache Dolphinscheduler Code Injection vulnerability,https://github.com/advisories/GHSA-2fm6-mv57-p2qh,https://da.gd/etZxG1
+GithubAdvisories,[GHSA-hmqf-wpq9-jq83] Spring Security Missing Authorization vulnerability,https://github.com/advisories/GHSA-hmqf-wpq9-jq83,https://da.gd/sQRIKR
+GithubAdvisories,[GHSA-9cmq-m9j5-mvww] Spring Framework vulnerable to Denial of Service,https://github.com/advisories/GHSA-9cmq-m9j5-mvww,https://da.gd/NTD1N
+GithubAdvisories,[GHSA-c47w-9mcf-w972] Concrete CMS vulnerable to Stored Cross-site Scripting,https://github.com/advisories/GHSA-c47w-9mcf-w972,https://da.gd/U3aUye
+GithubAdvisories,[GHSA-cf72-vg59-4j4h] Khoj Vulnerable to Stored Cross-site Scripting In Automate (Preview feature),https://github.com/advisories/GHSA-cf72-vg59-4j4h,https://da.gd/3ba0Y
