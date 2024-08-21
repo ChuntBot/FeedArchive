@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6247-7862-q2pq] Apache Helix Front (UI) component contained a hard-coded secret,https://github.com/advisories/GHSA-6247-7862-q2pq,https://da.gd/y8EEF
+GithubAdvisories,[GHSA-8m84-h9hh-3cfh] Apache SeaTunnel SQL Injection vulnerability,https://github.com/advisories/GHSA-8m84-h9hh-3cfh,https://da.gd/czxJs6
+GithubAdvisories,[GHSA-w7cp-g8v7-r54m] Apache Airflow Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-w7cp-g8v7-r54m,https://da.gd/vjkoZg
+GithubAdvisories,[GHSA-4crf-28c7-v4gr] Openshift Console insufficient entropy vulnerability,https://github.com/advisories/GHSA-4crf-28c7-v4gr,https://da.gd/VwKkbU
+GithubAdvisories,[GHSA-w5pw-gmcw-rfc8] squirrelly Code Injection vulnerability,https://github.com/advisories/GHSA-w5pw-gmcw-rfc8,https://da.gd/6NYtx
+GithubAdvisories,[GHSA-mhj4-vrcv-x4xc] nukeviet Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-mhj4-vrcv-x4xc,https://da.gd/F4qIN
+GithubAdvisories,[GHSA-9623-mqmm-5rcf] Undertow vulnerable to Race Condition,https://github.com/advisories/GHSA-9623-mqmm-5rcf,https://da.gd/DCqWV3
