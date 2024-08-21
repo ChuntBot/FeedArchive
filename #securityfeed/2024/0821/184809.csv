@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fpgj-cr28-fvpx] CWA-2024-006: wasmd non-deterministic module_query_safe query,https://github.com/advisories/GHSA-fpgj-cr28-fvpx,https://da.gd/5fj73
+GithubAdvisories,[GHSA-g8w7-7vgg-x7xg] CWA-2024-005: Stackoverflow in wasmd,https://github.com/advisories/GHSA-g8w7-7vgg-x7xg,https://da.gd/6XTp8
+GithubAdvisories,[GHSA-6v96-m24v-f58j] CKEditor4 low-risk cross-site scripting (XSS) vulnerability linked to potential domain takeover,https://github.com/advisories/GHSA-6v96-m24v-f58j,https://da.gd/fCfc
+GithubAdvisories,[GHSA-7r32-vfj5-c2jv] Code Snippet GeSHi plugin has reflected cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-7r32-vfj5-c2jv,https://da.gd/H0E35Q
+GithubAdvisories,[GHSA-g9ph-j5vj-f8wm] Potential access to sensitive URLs via CKAN extensions (SSRF),https://github.com/advisories/GHSA-g9ph-j5vj-f8wm,https://da.gd/FPyRI
+GithubAdvisories,[GHSA-r3jc-vhf4-6v32] CKAN has Cross-site Scripting vector in the Datatables view plugin,https://github.com/advisories/GHSA-r3jc-vhf4-6v32,https://da.gd/6WyGm
+GithubAdvisories,[GHSA-2rqw-cfhc-35fh] CKAN may leak Solr credentials via error message in package_search action,https://github.com/advisories/GHSA-2rqw-cfhc-35fh,https://da.gd/fbhFYG
