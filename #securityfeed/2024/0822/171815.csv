@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gv2p-4mvg-g32h] Casdoor has reflected XSS in QrCodePage.js (GHSL-2024-036),https://github.com/advisories/GHSA-gv2p-4mvg-g32h,https://da.gd/bX5Vn
+GithubAdvisories,[GHSA-mchx-7j67-8mcf] Casdoor CORS misconfiguration (GHSL-2024-035),https://github.com/advisories/GHSA-mchx-7j67-8mcf,https://da.gd/OG4yRM
