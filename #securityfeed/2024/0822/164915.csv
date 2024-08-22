@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cgrq-wvfj-v28j] Mage AI allows remote unauthenticated attackers to leak the terminal server command history of arbitrary users,https://github.com/advisories/GHSA-cgrq-wvfj-v28j,https://da.gd/1E3hc
+GithubAdvisories,[GHSA-88g2-r9rw-g55h] gitoxide-core does not neutralize special characters for terminals,https://github.com/advisories/GHSA-88g2-r9rw-g55h,https://da.gd/d5JAF7
+GithubAdvisories,[GHSA-rpfr-3m35-5vx5] Hono CSRF middleware can be bypassed using crafted Content-Type header,https://github.com/advisories/GHSA-rpfr-3m35-5vx5,https://da.gd/nNsfFk
+GithubAdvisories,[GHSA-vmwr-mc7x-5vc3] REXML denial of service vulnerability,https://github.com/advisories/GHSA-vmwr-mc7x-5vc3,https://da.gd/shp6JD
+GithubAdvisories,[GHSA-qxqc-27pr-wgc8] GoAuthentik vulnerable to Insufficient Authorization for several API endpoints,https://github.com/advisories/GHSA-qxqc-27pr-wgc8,https://da.gd/yYYTA
