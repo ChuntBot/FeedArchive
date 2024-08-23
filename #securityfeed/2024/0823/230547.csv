@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g8h2-j9pm-4xx2] Automad Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-g8h2-j9pm-4xx2,https://da.gd/LnC82
+GithubAdvisories,[GHSA-4mrc-w7jh-hx4j] Mage AI Path Traversal vulnerability,https://github.com/advisories/GHSA-4mrc-w7jh-hx4j,https://da.gd/JF2a
+GithubAdvisories,[GHSA-cgxv-795x-3vqr] Mage AI Path Traversal vulnerability,https://github.com/advisories/GHSA-cgxv-795x-3vqr,https://da.gd/UaBNv3
+GithubAdvisories,[GHSA-v9wr-8wrm-h6p7] Mage AI Path Traversal vulnerability,https://github.com/advisories/GHSA-v9wr-8wrm-h6p7,https://da.gd/bbInZb
+GithubAdvisories,[GHSA-jg95-r9xh-xw9c] Mage AI incorrectly gives privileges to users with deleted accounts,https://github.com/advisories/GHSA-jg95-r9xh-xw9c,https://da.gd/EkEWPS
