@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hrf9-rm95-fpf3] Mattermost Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-hrf9-rm95-fpf3,https://da.gd/4x3hS
+GithubAdvisories,[GHSA-5263-pm2h-m7hw] Mattermost doesn't restrict which roles can promote a user as system admin,https://github.com/advisories/GHSA-5263-pm2h-m7hw,https://da.gd/HCD9
+GithubAdvisories,"[GHSA-c6vp-jjgv-38wj] Mattermost allows remote/synthetic users to create sessions, reset passwords",https://github.com/advisories/GHSA-c6vp-jjgv-38wj,https://da.gd/fWLgO
+GithubAdvisories,[GHSA-4ww8-fprq-cq34] Mattermost doesn't redact remote users' original email addresses,https://github.com/advisories/GHSA-4ww8-fprq-cq34,https://da.gd/hByLW
+GithubAdvisories,[GHSA-869f-px86-vj84] Mattermost Plugin Channel Export excessive resource consumption,https://github.com/advisories/GHSA-869f-px86-vj84,https://da.gd/x74T52
