@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-34qg-65m4-f23m] Froxlor: /etc/pure-ftpd/db/mysql.conf is chmod 644 but contains,https://github.com/advisories/GHSA-34qg-65m4-f23m,https://da.gd/7ASro
+GithubAdvisories,[GHSA-frp2-5qfc-7r8m] request_store has Incorrect Default Permissions,https://github.com/advisories/GHSA-frp2-5qfc-7r8m,https://da.gd/njUQ
+GithubAdvisories,[GHSA-fxc2-8m62-m85x] LlamaIndex includes an exec call for `import {cls_name}`,https://github.com/advisories/GHSA-fxc2-8m62-m85x,https://da.gd/Sf6JH
+GithubAdvisories,[GHSA-7cj3-x93g-gj76] Signature forgery in Spring Boot's Loader,https://github.com/advisories/GHSA-7cj3-x93g-gj76,https://da.gd/M4Qa8y
+GithubAdvisories,[GHSA-wq9x-qwcq-mmgf] Diesel vulnerable to Binary Protocol Misinterpretation caused by Truncating or Overflowing Casts,https://github.com/advisories/GHSA-wq9x-qwcq-mmgf,https://da.gd/qbGHyW
+GithubAdvisories,[GHSA-q22q-2rrf-m27p] Mattermost allows unsolicited invites to expose access to local channels,https://github.com/advisories/GHSA-q22q-2rrf-m27p,https://da.gd/UqJ3Ap
+GithubAdvisories,[GHSA-45rp-q25w-4426] pretix Stored Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-45rp-q25w-4426,https://da.gd/TgOsA9
