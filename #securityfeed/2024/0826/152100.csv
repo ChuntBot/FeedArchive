@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6jrj-vc65-c983] unzip-stream allows Arbitrary File Write via artifact extraction,https://github.com/advisories/GHSA-6jrj-vc65-c983,https://da.gd/rYgFL
+GithubAdvisories,[GHSA-48gg-32q2-4r6m] Hyperledger Fabric does not verify request has a timestamp within the expected time window,https://github.com/advisories/GHSA-48gg-32q2-4r6m,https://da.gd/K5HG2
