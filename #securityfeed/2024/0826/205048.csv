@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-22xm-w7r2-834q] FastAPI Admin cross-site scripting (XSS) vulnerability in the Create Product function,https://github.com/advisories/GHSA-22xm-w7r2-834q,https://da.gd/hYfm
