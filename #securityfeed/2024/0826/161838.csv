@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cj55-gc7m-wvcq] req may send an unintended request when a malformed URL is provided,https://github.com/advisories/GHSA-cj55-gc7m-wvcq,https://da.gd/H7zgj
