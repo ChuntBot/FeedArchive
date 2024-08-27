@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-75qh-gg76-p2w4] CWA-2023-004: Excessive number of function parameters in compiled Wasm,https://github.com/advisories/GHSA-75qh-gg76-p2w4,https://da.gd/5g2DI0
+GithubAdvisories,[GHSA-3fff-gqw3-vj86] Directus has an insecure object reference via PATH presets,https://github.com/advisories/GHSA-3fff-gqw3-vj86,https://da.gd/NcBrVk
+GithubAdvisories,[GHSA-qj85-69xf-2vxq] AWS CDK RestApi not generating authorizationScope correctly in resultant CFN template,https://github.com/advisories/GHSA-qj85-69xf-2vxq,https://da.gd/LOPVU
+GithubAdvisories,[GHSA-48x4-mx8f-gr4h] Flowise Unauthenticated Denial of Service (DoS) vulnerability,https://github.com/advisories/GHSA-48x4-mx8f-gr4h,https://da.gd/ULJSh
+GithubAdvisories,[GHSA-r3jq-4r5c-j9hp] Taipy has a Session Cookie without Secure and HTTPOnly flags,https://github.com/advisories/GHSA-r3jq-4r5c-j9hp,https://da.gd/OjXUb8
+GithubAdvisories,[GHSA-pp84-v3mw-gg4w] Taipy 3.1.1 affected by CVEs on flask-core and pymongo,https://github.com/advisories/GHSA-pp84-v3mw-gg4w,https://da.gd/ehKPb
+GithubAdvisories,[GHSA-4vvj-4cpr-p986] Webpack's AutoPublicPathRuntimeModule has a DOM Clobbering Gadget that leads to XSS,https://github.com/advisories/GHSA-4vvj-4cpr-p986,https://da.gd/04Omz
