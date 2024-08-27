@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-38jh-8h67-m7mj] Chisel's AUTH environment variable not respected in server entrypoint,https://github.com/advisories/GHSA-38jh-8h67-m7mj,https://da.gd/EG85mr
