@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mg8j-w93w-xjgc] Drupal Full Path Disclosure,https://github.com/advisories/GHSA-mg8j-w93w-xjgc,https://da.gd/idFARh
+GithubAdvisories,[GHSA-846m-99qv-67mg] Ollama can extract members of a ZIP archive outside of the parent directory,https://github.com/advisories/GHSA-846m-99qv-67mg,https://da.gd/i7JSn
+GithubAdvisories,[GHSA-9jqr-5x45-pgw8] Powermail TYPO3 extension Broken Access Control in the OutputController,https://github.com/advisories/GHSA-9jqr-5x45-pgw8,https://da.gd/s7Ghqk
+GithubAdvisories,[GHSA-whx6-m9j4-w2m2] yyjson has a Double Free vulnerability,https://github.com/advisories/GHSA-whx6-m9j4-w2m2,https://da.gd/o02jXA
+GithubAdvisories,[GHSA-mv5w-wr5c-575p] WWBN AVideo Remote Code Execution,https://github.com/advisories/GHSA-mv5w-wr5c-575p,https://da.gd/HSl8R
+GithubAdvisories,[GHSA-9f3p-wvj7-q82x] Cargo prior to Rust 1.26.0 may download the wrong dependency,https://github.com/advisories/GHSA-9f3p-wvj7-q82x,https://da.gd/M7Bz
+GithubAdvisories,[GHSA-x9r9-48rm-4xm6] FitNesse allows execution of arbitrary OS commands,https://github.com/advisories/GHSA-x9r9-48rm-4xm6,https://da.gd/Youqb
+GithubAdvisories,[GHSA-cqfh-c4c5-c2hg] domain-suffix RegEx Denial of Service,https://github.com/advisories/GHSA-cqfh-c4c5-c2hg,https://da.gd/ST6Fm
+GithubAdvisories,[GHSA-pc95-3wgm-x28p] VvvebJs Reflected Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-pc95-3wgm-x28p,https://da.gd/AObe
+GithubAdvisories,[GHSA-mgwr-h7mv-fh29] Hwameistor Potential Permission Leakage of Cluster Level,https://github.com/advisories/GHSA-mgwr-h7mv-fh29,https://da.gd/qpzf3
+GithubAdvisories,"[GHSA-p652-xcgx-f85m] ""powermail"" (powermail) Insecure Direct Object Reference (IDOR)",https://github.com/advisories/GHSA-p652-xcgx-f85m,https://da.gd/GlZedw
+GithubAdvisories,[GHSA-ghg6-32f9-2jp7] XXE in PHPSpreadsheet encoding is returned,https://github.com/advisories/GHSA-ghg6-32f9-2jp7,https://da.gd/2lsiyY
+GithubAdvisories,[GHSA-wgmf-q9vr-vww6] PhpSpreadsheet HTML writer is vulnerable to Cross-Site Scripting via style information,https://github.com/advisories/GHSA-wgmf-q9vr-vww6,https://da.gd/6nYSC
+GithubAdvisories,[GHSA-prf6-xjxh-p698] OpenTelemetry Collector module AWS Firehose Receiver Authentication Bypass Vulnerability,https://github.com/advisories/GHSA-prf6-xjxh-p698,https://da.gd/C0Bmz
+GithubAdvisories,[GHSA-9q39-rmj3-p4r2] HTML injection in Jupyter Notebook and JupyterLab leading to DOM Clobbering,https://github.com/advisories/GHSA-9q39-rmj3-p4r2,https://da.gd/sI2wD
+GithubAdvisories,[GHSA-jm9m-rqr3-wfmh] Kirby has insufficient permission checks in the language settings,https://github.com/advisories/GHSA-jm9m-rqr3-wfmh,https://da.gd/hjkqY
