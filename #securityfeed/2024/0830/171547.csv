@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8266-84wp-wv5c] Svelte has a potential mXSS vulnerability due to improper HTML escaping,https://github.com/advisories/GHSA-8266-84wp-wv5c,https://da.gd/LwGr7
