@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f3q4-ggfp-jv34] Adyen APIs Library for Python timing attack vulnerability,https://github.com/advisories/GHSA-f3q4-ggfp-jv34,https://da.gd/UNv0mc
+GithubAdvisories,[GHSA-mcmc-c59m-pqq8] GeoServer style upload functionality vulnerable to XML External Entity (XXE) injection,https://github.com/advisories/GHSA-mcmc-c59m-pqq8,https://da.gd/OlvBn
+GithubAdvisories,[GHSA-7j9p-67mm-5g87] LTI 1.3 Grade Pass Back Implementation has Missing Authorization Vulnerability,https://github.com/advisories/GHSA-7j9p-67mm-5g87,https://da.gd/t5ngz
+GithubAdvisories,[GHSA-7mv5-5mxh-qg88] nanopb vulnerable to invalid free() call with oneofs and PB_ENABLE_MALLOC,https://github.com/advisories/GHSA-7mv5-5mxh-qg88,https://da.gd/HEJRev
+GithubAdvisories,[GHSA-9cfv-9463-8gqv] freewvs vulnerable to denial of service through large files,https://github.com/advisories/GHSA-9cfv-9463-8gqv,https://da.gd/TbXnmR
+GithubAdvisories,[GHSA-7pmh-vrww-25xx] freewvs's nested directory structure can interrupt scan,https://github.com/advisories/GHSA-7pmh-vrww-25xx,https://da.gd/cDxBdy
