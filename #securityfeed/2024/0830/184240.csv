@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wh2w-39f4-rpv2] Hyperledger Indy's update process of a DID does not check who signs the request,https://github.com/advisories/GHSA-wh2w-39f4-rpv2,https://da.gd/17yzS
