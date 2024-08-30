@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-2r6g-7r83-jg72] `spam` project on PyPI compromised, malicious releases made",https://github.com/advisories/GHSA-2r6g-7r83-jg72,https://da.gd/A5yGIV
+GithubAdvisories,[GHSA-pw5x-x5jw-ccmh] Gentoo Portage missing PGP validation of executed code,https://github.com/advisories/GHSA-pw5x-x5jw-ccmh,https://da.gd/cInvws
+GithubAdvisories,[GHSA-h3q4-6j7f-r24c] priority vulnerable to denial of service,https://github.com/advisories/GHSA-h3q4-6j7f-r24c,https://da.gd/cQzajz
+GithubAdvisories,[GHSA-qr4w-53vh-m672] opencv-python bundled libwebp binaries in wheels that are vulnerable to CVE-2023-4863,https://github.com/advisories/GHSA-qr4w-53vh-m672,https://da.gd/U0JJr
+GithubAdvisories,[GHSA-cxjf-x6jp-p7mc] opencv-contrib-python bundled libwebp binaries in wheels that are vulnerable to CVE-2023-4863,https://github.com/advisories/GHSA-cxjf-x6jp-p7mc,https://da.gd/p3rIF
+GithubAdvisories,[GHSA-jh2j-j4j9-crg3] opencv-python-headless bundled libwebp binaries in wheels that are vulnerable to CVE-2023-4863,https://github.com/advisories/GHSA-jh2j-j4j9-crg3,https://da.gd/cBadY7
+GithubAdvisories,[GHSA-w2pj-9cgh-mq2c] opencv-contrib-python-headless bundled libwebp binaries in wheels that are vulnerable to CVE-2023-4863,https://github.com/advisories/GHSA-w2pj-9cgh-mq2c,https://da.gd/i7swJG
+GithubAdvisories,[GHSA-xm4r-5rj9-2pg3] gratient 0.5 contains credential harvesting code,https://github.com/advisories/GHSA-xm4r-5rj9-2pg3,https://da.gd/pWtVK
+GithubAdvisories,"[GHSA-x6xg-3fj2-4pq3] `exotel` project on PyPI compromised, malicious release made",https://github.com/advisories/GHSA-x6xg-3fj2-4pq3,https://da.gd/mCQ5
