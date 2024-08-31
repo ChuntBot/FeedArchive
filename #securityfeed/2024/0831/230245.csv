@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Cisco IKE Information Disclosure,https://packetstormsecurity.com/files/180932/cisco_ike_benigncertain.rb.txt,https://da.gd/n7fjZ0
+PacketstormSecurity,Etcd Keys API Information Gathering,https://packetstormsecurity.com/files/180931/open_key_scanner.rb.txt,https://da.gd/fxQQs
+PacketstormSecurity,VMware Server Directory Traversal,https://packetstormsecurity.com/files/180930/vmware_server_dir_trav.rb.txt,https://da.gd/nhHP
+PacketstormSecurity,VMWare Web Login Scanner,https://packetstormsecurity.com/files/180929/vmware_http_login.rb.txt,https://da.gd/ROXnA
+PacketstormSecurity,VMWare Update Manager 4 Directory Traversal,https://packetstormsecurity.com/files/180928/vmware_update_manager_traversal.rb.txt,https://da.gd/puh0V4
+PacketstormSecurity,VMWare Enumerate User Accounts,https://packetstormsecurity.com/files/180927/vmware_enum_users.rb.txt,https://da.gd/T679o
+PacketstormSecurity,Cisco DLSw Information Disclosure Scanner,https://packetstormsecurity.com/files/180926/dlsw_leak_capture.rb.txt,https://da.gd/yMi5yt
+PacketstormSecurity,CVE-2023-21554 QueueJumper - MSMQ Remote Code Execution Check,https://packetstormsecurity.com/files/180925/cve_2023_21554_queuejumper.rb.txt,https://da.gd/RmK8cZ
+PacketstormSecurity,Apple Filing Protocol Info Enumerator,https://packetstormsecurity.com/files/180924/afp_server_info.rb.txt,https://da.gd/OtiIj
+PacketstormSecurity,Apple Filing Protocol Login Utility,https://packetstormsecurity.com/files/180923/afp_login.rb.txt,https://da.gd/NQQ7J
+PacketstormSecurity,Brocade Password Hash Enumeration,https://packetstormsecurity.com/files/180922/brocade_enumhash.rb.txt,https://da.gd/qMMPL
+PacketstormSecurity,SNMP Windows Username Enumeration,https://packetstormsecurity.com/files/180921/snmp_enumusers.rb.txt,https://da.gd/6MiHO
+PacketstormSecurity,HP LaserJet Printer SNMP Enumeration,https://packetstormsecurity.com/files/180920/snmp_enum_hp_laserjet.rb.txt,https://da.gd/erM7dg
+PacketstormSecurity,Xerox WorkCentre User Enumeration,https://packetstormsecurity.com/files/180919/xerox_workcentre_enumusers.rb.txt,https://da.gd/b0AVOx
+PacketstormSecurity,Cambium CnPilot R200/r201 SNMP Enumeration,https://packetstormsecurity.com/files/180918/cnpilot_r_snmp_loot.rb.txt,https://da.gd/QLEp0v
+PacketstormSecurity,SNMP Community Login Scanner,https://packetstormsecurity.com/files/180917/snmp_login.rb.txt,https://da.gd/g0T5Z
+PacketstormSecurity,Cisco IOS SNMP File Upload,https://packetstormsecurity.com/files/180916/cisco_upload_file.rb.txt,https://da.gd/KZKfF
+PacketstormSecurity,Arris DG950A Cable Modem Wifi Enumeration,https://packetstormsecurity.com/files/180915/arris_dg950.rb.txt,https://da.gd/7zV5e0
+PacketstormSecurity,Cambium EPMP 1000 SNMP Enumeration,https://packetstormsecurity.com/files/180914/epmp1000_snmp_loot.rb.txt,https://da.gd/J9Rzh
+PacketstormSecurity,Ubee DDW3611b Cable Modem Wifi Enumeration,https://packetstormsecurity.com/files/180913/ubee_ddw3611.rb.txt,https://da.gd/b8ZEKy
+PacketstormSecurity,Netopia 3347 Cable Modem Wifi Enumeration,https://packetstormsecurity.com/files/180912/netopia_enum.rb.txt,https://da.gd/B9LjK
+PacketstormSecurity,Gather Steam Server Information,https://packetstormsecurity.com/files/180911/scanner-steam-server_info.rb.txt,https://da.gd/XOLpL
+PacketstormSecurity,Gather Quake Server Information,https://packetstormsecurity.com/files/180910/scanner-quake-server_info.rb.txt,https://da.gd/mMKig6
+PacketstormSecurity,Gather Kademlia Server Information,https://packetstormsecurity.com/files/180909/scanner-kademlia-server_info.rb.txt,https://da.gd/oDDZ
+PacketstormSecurity,CouchDB Enum Utility,https://packetstormsecurity.com/files/180908/couchdb_enum.rb.txt,https://da.gd/pjFq9
