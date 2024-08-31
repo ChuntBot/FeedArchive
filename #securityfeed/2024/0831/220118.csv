@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+PacketstormSecurity,VBulletin Administrator Account Creation,https://packetstormsecurity.com/files/180859/vbulletin_upgrade_admin.rb.txt,https://da.gd/2bTj
+PacketstormSecurity,Control ID IDSecure Authentication Bypass,https://packetstormsecurity.com/files/180858/idsecure_auth_bypass.rb.txt,https://da.gd/GB5tZ
+PacketstormSecurity,MS10-065 Microsoft IIS 5 NTFS Stream Authentication Bypass,https://packetstormsecurity.com/files/180857/iis_auth_bypass.rb.txt,https://da.gd/pPMuo
+PacketstormSecurity,TYPO3 Sa-2010-020 Remote File Disclosure,https://packetstormsecurity.com/files/180856/typo3_sa_2010_020.rb.txt,https://da.gd/afCkRS
+PacketstormSecurity,Limesurvey Unauthenticated File Download,https://packetstormsecurity.com/files/180855/limesurvey_file_download.rb.txt,https://da.gd/IS3nnK
+PacketstormSecurity,MantisBT Password Reset,https://packetstormsecurity.com/files/180854/mantisbt_password_reset.rb.txt,https://da.gd/5EB3k6
+PacketstormSecurity,Axigen Arbitrary File Read And Delete,https://packetstormsecurity.com/files/180853/axigen_file_access.rb.txt,https://da.gd/itYkBI
+PacketstormSecurity,Allegro Software RomPager Misfortune Cookie (CVE-2014-9222) Authentication Bypass,https://packetstormsecurity.com/files/180852/allegro_rompager_auth_bypass.rb.txt,https://da.gd/CCWRZ7
+PacketstormSecurity,Netgear Unauthenticated SOAP Password Extractor,https://packetstormsecurity.com/files/180851/netgear_soap_password_extractor.rb.txt,https://da.gd/GcXNa
+PacketstormSecurity,Linksys E1500/E2500 Remote Command Execution,https://packetstormsecurity.com/files/180850/linksys_e1500_e2500_exec.rb.txt,https://da.gd/zFffr
+PacketstormSecurity,D-Link DSL 320B Password Extractor,https://packetstormsecurity.com/files/180849/dlink_dsl320b_password_extractor.rb.txt,https://da.gd/Ja91
+PacketstormSecurity,HP Web JetAdmin 6.5 Server Arbitrary Command Execution,https://packetstormsecurity.com/files/180848/hp_web_jetadmin_exec.rb.txt,https://da.gd/6XOB
+PacketstormSecurity,WebNMS Framework Server Arbitrary Text File Download,https://packetstormsecurity.com/files/180847/webnms_file_download.rb.txt,https://da.gd/NBDF4
+PacketstormSecurity,ManageEngine Desktop Central Administrator Account Creation,https://packetstormsecurity.com/files/180846/manage_engine_dc_create_admin.rb.txt,https://da.gd/f7MnV
+PacketstormSecurity,Cambium CnPilot R200/r201 Command Execution,https://packetstormsecurity.com/files/180845/cnpilot_r_cmd_exec.rb.txt,https://da.gd/a3CSz
+PacketstormSecurity,Telpho10 Backup Credentials Dumper,https://packetstormsecurity.com/files/180844/telpho10_credential_dump.rb.txt,https://da.gd/9H4wLY
+PacketstormSecurity,Pi-Hole Top Domains API Authenticated Exec,https://packetstormsecurity.com/files/180843/pihole_domains_api_exec.rb.txt,https://da.gd/VxKBfo
+PacketstormSecurity,NETGEAR WNR2000v5 Administrator Password Recovery,https://packetstormsecurity.com/files/180842/netgear_wnr2000_pass_recovery.rb.txt,https://da.gd/UllR
+PacketstormSecurity,ManageEngine Password Manager SQLAdvancedALSearchResult.cc Pro SQL Injection,https://packetstormsecurity.com/files/180841/manageengine_pmp_privesc.rb.txt,https://da.gd/Bgvs5N
+PacketstormSecurity,D-Link DIR-600 / DIR-300 Unauthenticated Remote Command Execution,https://packetstormsecurity.com/files/180840/dlink_dir_300_600_exec_noauth.rb.txt,https://da.gd/ka5y
+PacketstormSecurity,WordPress WP GDPR Compliance Plugin Privilege Escalation,https://packetstormsecurity.com/files/180839/wp_gdpr_compliance_privesc.rb.txt,https://da.gd/PA5xC
+PacketstormSecurity,SysAid Help Desk Administrator Account Creation,https://packetstormsecurity.com/files/180838/sysaid_admin_acct.rb.txt,https://da.gd/73Swh
+PacketstormSecurity,Linksys WRT120N TmUnblock Stack Buffer Overflow,https://packetstormsecurity.com/files/180837/linksys_tmunblock_admin_reset_bof.rb.txt,https://da.gd/3PgShj
+PacketstormSecurity,WordPress WP EasyCart Plugin Privilege Escalation,https://packetstormsecurity.com/files/180836/wp_easycart_privilege_escalation.rb.txt,https://da.gd/6oHy
+PacketstormSecurity,Nexpose XXE Arbitrary File Read,https://packetstormsecurity.com/files/180835/nexpose_xxe_file_read.rb.txt,https://da.gd/Cjls9D
