@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Titan FTP Server 6.26.630 SITE WHO Denial of Service,https://packetstormsecurity.com/files/180578/titan626_site.rb.txt,https://da.gd/yvyE
+PacketstormSecurity,Guild FTPd 0.999.8.11/0.999.14 Heap Corruption,https://packetstormsecurity.com/files/180577/guildftp_cwdlist.rb.txt,https://da.gd/OfDSX
+PacketstormSecurity,WinFTP 2.3.0 NLST Denial of Service,https://packetstormsecurity.com/files/180576/winftp230_nlst.rb.txt,https://da.gd/x8DRT8
+PacketstormSecurity,FileZilla FTP Server Malformed PORT Denial of Service,https://packetstormsecurity.com/files/180575/filezilla_server_port.rb.txt,https://da.gd/3V5G9
+PacketstormSecurity,XM Easy Personal FTP Server 5.7.0 NLST Denial of Service,https://packetstormsecurity.com/files/180574/xmeasy570_nlst.rb.txt,https://da.gd/deG6A
+PacketstormSecurity,Microsoft IIS FTP Server LIST Stack Exhaustion,https://packetstormsecurity.com/files/180573/iis_list_exhaustion.rb.txt,https://da.gd/fUpj
+PacketstormSecurity,XM Easy Personal FTP Server 5.6.0 NLST Denial of Service,https://packetstormsecurity.com/files/180572/xmeasy560_nlst.rb.txt,https://da.gd/mW2vlD
+PacketstormSecurity,Solar FTP Server Malformed USER Denial of Service,https://packetstormsecurity.com/files/180571/solarftp_user.rb.txt,https://da.gd/L0JTb
+PacketstormSecurity,FileZilla FTP Server Admin Interface Denial of Service,https://packetstormsecurity.com/files/180570/filezilla_admin_user.rb.txt,https://da.gd/73ZB9
+PacketstormSecurity,Microsoft Windows DNSAPI.dll LLMNR Buffer Underrun Denial of Service,https://packetstormsecurity.com/files/180569/ms11_030_dnsapi.rb.txt,https://da.gd/Rgm8U
+PacketstormSecurity,Appian Enterprise Business Suite 5.6 SP1 Denial of Service,https://packetstormsecurity.com/files/180568/appian_bpm.rb.txt,https://da.gd/34h6t
+PacketstormSecurity,Microsoft Windows SRV.SYS SrvSmbQueryFsInformation Pool Overflow Denial of Service,https://packetstormsecurity.com/files/180567/ms10_054_queryfs_pool_overflow.rb.txt,https://da.gd/N6IxT
+PacketstormSecurity,Microsoft Windows 7 / Server 2008 R2 SMB Client Infinite Loop,https://packetstormsecurity.com/files/180566/ms10_006_negotiate_response_loop.rb.txt,https://da.gd/898q
+PacketstormSecurity,Microsoft SRV.SYS WriteAndX Invalid DataOffset,https://packetstormsecurity.com/files/180565/ms09_001_write.rb.txt,https://da.gd/GluZ92
+PacketstormSecurity,Microsoft SRV.SYS Pipe Transaction No Null,https://packetstormsecurity.com/files/180564/ms06_063_trans.rb.txt,https://da.gd/wh1dE
+PacketstormSecurity,Microsoft Plug and Play Service Registry Overflow,https://packetstormsecurity.com/files/180563/ms05_047_pnp.rb.txt,https://da.gd/067hJ
+PacketstormSecurity,Microsoft SRV2.SYS SMB Negotiate ProcessID Function Table Dereference,https://packetstormsecurity.com/files/180562/ms09_050_smb2_negotiate_pidhigh.rb.txt,https://da.gd/ZLMBqU
+PacketstormSecurity,Microsoft Vista SP0 SMB Negotiate Protocol Denial of Service,https://packetstormsecurity.com/files/180561/vista_negotiate_stop.rb.txt,https://da.gd/GGTBL
+PacketstormSecurity,Microsoft SRV2.SYS SMB2 Logoff Remote Kernel NULL Pointer Dereference,https://packetstormsecurity.com/files/180560/ms09_050_smb2_session_logoff.rb.txt,https://da.gd/x46eZP
+PacketstormSecurity,Microsoft SRV.SYS Mailslot Write Corruption,https://packetstormsecurity.com/files/180559/ms06_035_mailslot.rb.txt,https://da.gd/5anB
+PacketstormSecurity,Microsoft Windows Browser Pool Denial of Service,https://packetstormsecurity.com/files/180558/ms11_019_electbowser.rb.txt,https://da.gd/QWul
+PacketstormSecurity,Microsoft RRAS InterfaceAdjustVLSPointers NULL Dereference,https://packetstormsecurity.com/files/180557/rras_vls_null_deref.rb.txt,https://da.gd/UP7e2
+PacketstormSecurity,MS12-020 Microsoft Remote Desktop Use-After-Free Denial of Service,https://packetstormsecurity.com/files/180556/ms12_020_maxchannelids.rb.txt,https://da.gd/4n86
+PacketstormSecurity,SolarWinds TFTP Server 10.4.0.10 Denial of Service,https://packetstormsecurity.com/files/180555/solarwinds.rb.txt,https://da.gd/a61PS
+PacketstormSecurity,PacketTrap TFTP Server 2.2.5459.0 Denial of Service,https://packetstormsecurity.com/files/180554/pt360_write.rb.txt,https://da.gd/fp3kC
