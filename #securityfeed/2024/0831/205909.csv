@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Jetty WEB-INF File Disclosure,https://packetstormsecurity.com/files/180705/jetty_web_inf_disclosure.rb.txt,https://da.gd/X22p7
+PacketstormSecurity,GitLab Tags RSS Feed Email Disclosure,https://packetstormsecurity.com/files/180704/gitlab_tags_rss_feed_email_disclosure.rb.txt,https://da.gd/QpeWx
+PacketstormSecurity,Progress MOVEit SFTP Authentication Bypass for Arbitrary File Read,https://packetstormsecurity.com/files/180703/progress_moveit_sftp_fileread_cve_2024_5806.rb.txt,https://da.gd/TFild9
+PacketstormSecurity,MongoDB Ops Manager Diagnostic Archive Sensitive Information Retriever,https://packetstormsecurity.com/files/180702/mongodb_ops_manager_diagnostic_archive_info.rb.txt,https://da.gd/9ScQGr
+PacketstormSecurity,ManageEngine DataSecurity Plus Xnode Enumeration,https://packetstormsecurity.com/files/180701/manageengine_datasecurity_plus_xnode_enum.rb.txt,https://da.gd/1lXNOI
+PacketstormSecurity,Joomla com_contenthistory Error-Based SQL Injection,https://packetstormsecurity.com/files/180700/joomla_contenthistory_sqli.rb.txt,https://da.gd/R0Z3
+PacketstormSecurity,vBulletin /ajax/api/content_infraction/getIndexableContent nodeid Parameter SQL Injection,https://packetstormsecurity.com/files/180699/vbulletin_getindexablecontent_sqli.rb.txt,https://da.gd/ZwSclk
+PacketstormSecurity,IBM BigFix Relay Server Sites and Package Enum,https://packetstormsecurity.com/files/180698/ibm_bigfix_sites_packages_enum.rb.txt,https://da.gd/Pt7LC1
+PacketstormSecurity,Advantech WebAccess 8.1 Post Authentication Credential Collector,https://packetstormsecurity.com/files/180697/advantech_webaccess_creds.rb.txt,https://da.gd/9FEj70
+PacketstormSecurity,TeamTalk Gather Credentials,https://packetstormsecurity.com/files/180696/teamtalk_creds.rb.txt,https://da.gd/FREI
+PacketstormSecurity,Rancher Authenticated API Credential Exposure,https://packetstormsecurity.com/files/180695/rancher_authenticated_api_cred_exposure.rb.txt,https://da.gd/loLdwI
+PacketstormSecurity,BillQuick Web Suite txtID SQL Injection,https://packetstormsecurity.com/files/180694/billquick_txtid_sqli.rb.txt,https://da.gd/f2UTu
+PacketstormSecurity,ManageEngine ADAudit Plus Xnode Enumeration,https://packetstormsecurity.com/files/180693/manageengine_adaudit_plus_xnode_enum.rb.txt,https://da.gd/HpQY
+PacketstormSecurity,Wordpress BookingPress bookingpress_front_get_category_services SQL Injection,https://packetstormsecurity.com/files/180692/wp_bookingpress_category_services_sqli.rb.txt,https://da.gd/TYAKC
+PacketstormSecurity,BMC / Numara Track-It! Domain Administrator and SQL Server User Password Disclosure,https://packetstormsecurity.com/files/180691/trackit_sql_domain_creds.rb.txt,https://da.gd/B9zMX
+PacketstormSecurity,HP ProCurve SNAC Domain Controller Credential Dumper,https://packetstormsecurity.com/files/180690/hp_snac_domain_creds.rb.txt,https://da.gd/emAlQM
+PacketstormSecurity,HP Operations Manager Perfd Environment Scanner,https://packetstormsecurity.com/files/180689/hp_enum_perfd.rb.txt,https://da.gd/qfQQlj
+PacketstormSecurity,Dolibarr Gather Credentials via SQL Injection,https://packetstormsecurity.com/files/180688/dolibarr_creds_sqli.rb.txt,https://da.gd/5mMgT
+PacketstormSecurity,Xymon Daemon Gather Information,https://packetstormsecurity.com/files/180687/xymon_info.rb.txt,https://da.gd/IHzgi
+PacketstormSecurity,WordPress All-in-One Migration Export,https://packetstormsecurity.com/files/180686/wp_all_in_one_migration_export.rb.txt,https://da.gd/py1sEG
+PacketstormSecurity,Mac OS X Safari file:// Redirection Sandbox Escape,https://packetstormsecurity.com/files/180685/safari_file_url_navigation.rb.txt,https://da.gd/IpQZ8M
+PacketstormSecurity,IBM Lotus Notes Sametime User Enumeration,https://packetstormsecurity.com/files/180684/ibm_sametime_enumerate_users.rb.txt,https://da.gd/F1p5e
