@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+PacketstormSecurity,GitLab Authenticated File Read,https://packetstormsecurity.com/files/180683/gitlab_authenticated_subgroups_file_read.rb.txt,https://da.gd/IK3wvN
+PacketstormSecurity,Grandstream UCM62xx IP PBX WebSocket Blind SQL Injection Credential Dump,https://packetstormsecurity.com/files/180682/grandstream_ucm62xx_sql_account_guess.rb.txt,https://da.gd/VZhb
+PacketstormSecurity,ColdFusion password.properties Hash Extraction,https://packetstormsecurity.com/files/180681/coldfusion_pwd_props.rb.txt,https://da.gd/w2YKj
+PacketstormSecurity,Windows Secrets Dump,https://packetstormsecurity.com/files/180680/windows_secrets_dump.rb.txt,https://da.gd/a0y84J
+PacketstormSecurity,CheckPoint Firewall-1 SecuRemote Topology Service Hostname Disclosure,https://packetstormsecurity.com/files/180679/checkpoint_hostname.rb.txt,https://da.gd/zFt0
+PacketstormSecurity,Apache Superset Signed Cookie Privilege Escalation,https://packetstormsecurity.com/files/180678/apache_superset_cookie_sig_priv_esc.rb.txt,https://da.gd/jbouMH
+PacketstormSecurity,MantisBT Admin SQL Injection Arbitrary File Read,https://packetstormsecurity.com/files/180677/mantisbt_admin_sqli.rb.txt,https://da.gd/HxlRj
+PacketstormSecurity,Samsung Internet Browser SOP Bypass,https://packetstormsecurity.com/files/180676/samsung_browser_sop_bypass.rb.txt,https://da.gd/gMvDY
+PacketstormSecurity,Roundcube TimeZone Authenticated File Disclosure,https://packetstormsecurity.com/files/180675/roundcube_auth_file_read.rb.txt,https://da.gd/UG9l
+PacketstormSecurity,FortiOS Path Traversal Credential Gatherer,https://packetstormsecurity.com/files/180674/fortios_vpnssl_traversal_creds_leak.rb.txt,https://da.gd/w6n0A
+PacketstormSecurity,AlienVault Authenticated SQL Injection Arbitrary File Read,https://packetstormsecurity.com/files/180673/alienvault_iso27001_sqli.rb.txt,https://da.gd/mi8VE
+PacketstormSecurity,WordPress W3-Total-Cache 0.9.2.4 Username / Hash Extraction,https://packetstormsecurity.com/files/180672/wp_w3_total_cache_hash_extract.rb.txt,https://da.gd/Xs2j
+PacketstormSecurity,Drupal OpenID External Entity Injection,https://packetstormsecurity.com/files/180671/drupal_openid_xxe.rb.txt,https://da.gd/3u2W
+PacketstormSecurity,Jasmin Ransomware Web Server Unauthenticated Directory Traversal,https://packetstormsecurity.com/files/180670/jasmin_ransomware_dir_traversal.rb.txt,https://da.gd/Ks8aWo
+PacketstormSecurity,Ray Static Arbitrary File Read,https://packetstormsecurity.com/files/180669/ray_lfi_cve_2023_6020.rb.txt,https://da.gd/SCUF98
+PacketstormSecurity,Lansweeper Credential Collector,https://packetstormsecurity.com/files/180668/lansweeper_collector.rb.txt,https://da.gd/Tvp49
+PacketstormSecurity,MS14-052 Microsoft Internet Explorer XMLDOM Filename Disclosure,https://packetstormsecurity.com/files/180667/ms14_052_xmldom.rb.txt,https://da.gd/0f9t0I
+PacketstormSecurity,MinIO Bootstrap Verify Information Disclosure,https://packetstormsecurity.com/files/180666/minio_bootstrap_verify_info_disc.rb.txt,https://da.gd/73iAOG
+PacketstormSecurity,NIS bootparamd Domain Name Disclosure,https://packetstormsecurity.com/files/180665/nis_bootparamd_domain.rb.txt,https://da.gd/PoHOx
+PacketstormSecurity,Peplink Balance Routers SQL Injection,https://packetstormsecurity.com/files/180664/peplink_bauth_sqli.rb.txt,https://da.gd/okhno
+PacketstormSecurity,Piwigo CVE-2023-26876 Gather Credentials via SQL Injection,https://packetstormsecurity.com/files/180663/piwigo_cve_2023_26876.rb.txt,https://da.gd/aDQvJE
+PacketstormSecurity,Microsoft Windows Deployment Services Unattend Gatherer,https://packetstormsecurity.com/files/180662/windows_deployment_services_shares.rb.txt,https://da.gd/uyHil
+PacketstormSecurity,Cerberus Helpdesk User Hash Disclosure,https://packetstormsecurity.com/files/180661/cerberus_helpdesk_hash_disclosure.rb.txt,https://da.gd/J2Z6F
+PacketstormSecurity,Ruby On Rails File Content Disclosure,https://packetstormsecurity.com/files/180660/rails_doubletap_file_read.rb.txt,https://da.gd/kzVGtO
+PacketstormSecurity,IBM Lotus Notes Sametime Room Name Bruteforce,https://packetstormsecurity.com/files/180659/ibm_sametime_room_brute.rb.txt,https://da.gd/byFEwT
