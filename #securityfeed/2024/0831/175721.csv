@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+PacketstormSecurity,F5 BigIP Access Policy Manager Session Exhaustion Denial of Service,https://packetstormsecurity.com/files/180520/f5_bigip_apm_max_sessions.rb.txt,https://da.gd/LoBz0
+PacketstormSecurity,Ruby on Rails JSON Processor Floating Point Heap Overflow Denial of Service,https://packetstormsecurity.com/files/180519/rails_json_float_dos.rb.txt,https://da.gd/APTKXL
+PacketstormSecurity,Ruby WEBrick::HTTP::DefaultFileHandler Denial of Service,https://packetstormsecurity.com/files/180518/webrick_regex.rb.txt,https://da.gd/EfqoDG
+PacketstormSecurity,Apache Range Header Denial of Service (Apache Killer),https://packetstormsecurity.com/files/180517/apache_range_dos.rb.txt,https://da.gd/AhVrq
+PacketstormSecurity,Ruby on Rails Action View MIME Memory Exhaustion,https://packetstormsecurity.com/files/180516/rails_action_view.rb.txt,https://da.gd/QSdBle
+PacketstormSecurity,Gzip Memory Bomb Denial Of Service,https://packetstormsecurity.com/files/180515/gzip_bomb_dos.rb.txt,https://da.gd/9G3z
+PacketstormSecurity,SonicWALL SSL-VPN Format String,https://packetstormsecurity.com/files/180514/sonicwall_ssl_format.rb.txt,https://da.gd/VCWWtM
+PacketstormSecurity,3Com SuperStack Switch Denial of Service,https://packetstormsecurity.com/files/180513/3com_superstack_switch.rb.txt,https://da.gd/iIzEy
+PacketstormSecurity,Apache Tomcat Transfer-Encoding Information Disclosure and Denial of Service,https://packetstormsecurity.com/files/180512/apache_tomcat_transfer_encoding.rb.txt,https://da.gd/Qnoo7
+PacketstormSecurity,Canon Wireless Printer Denial Of Service,https://packetstormsecurity.com/files/180511/canon_wireless_printer.rb.txt,https://da.gd/hD79pK
+PacketstormSecurity,marked npm module heading ReDenial of Service,https://packetstormsecurity.com/files/180510/marked_redos.rb.txt,https://da.gd/mGwN3
+PacketstormSecurity,Dell OpenManage POST Request Heap Overflow (win32),https://packetstormsecurity.com/files/180509/dell_openmanage_post.rb.txt,https://da.gd/DayeN
+PacketstormSecurity,Apache Commons FileUpload and Apache Tomcat Denial of Service,https://packetstormsecurity.com/files/180508/apache_commons_fileupload_dos.rb.txt,https://da.gd/BnMXyi
+PacketstormSecurity,IBM Notes encodeURI Denial of Service,https://packetstormsecurity.com/files/180507/ibm_lotus_notes.rb.txt,https://da.gd/6oRkpw
+PacketstormSecurity,Wordpress XMLRPC Denial of Service,https://packetstormsecurity.com/files/180506/wordpress_xmlrpc_dos.rb.txt,https://da.gd/MyQJK
+PacketstormSecurity,MS15-034 HTTP Protocol Stack Request Handling Denial-of-Service,https://packetstormsecurity.com/files/180505/ms15_034_ulonglongadd.rb.txt,https://da.gd/yi5797
+PacketstormSecurity,WordPress Traversal Directory Denial of Service,https://packetstormsecurity.com/files/180504/wordpress_directory_traversal_dos.rb.txt,https://da.gd/iw3XF
+PacketstormSecurity,Cablehaunt Cable Modem WebSocket Denial of Service,https://packetstormsecurity.com/files/180503/cable_haunt_websocket_dos.rb.txt,https://da.gd/k16Elx
+PacketstormSecurity,Sendmail SMTP Address prescan Memory Corruption,https://packetstormsecurity.com/files/180502/sendmail_prescan.rb.txt,https://da.gd/VDdQbx
+PacketstormSecurity,VSFTPD 2.3.2 Denial of Service,https://packetstormsecurity.com/files/180501/vsftpd_232.rb.txt,https://da.gd/YuvSr
+PacketstormSecurity,Solaris LPD Arbitrary File Delete,https://packetstormsecurity.com/files/180500/cascade_delete.rb.txt,https://da.gd/yXDvBC
+PacketstormSecurity,SAP SOAP EPS_DELETE_FILE File Deletion,https://packetstormsecurity.com/files/180499/sap_soap_rfc_eps_delete_file.rb.txt,https://da.gd/marnL
+PacketstormSecurity,Avahi Source Port 0 Denial of Service,https://packetstormsecurity.com/files/180498/avahi_portzero.rb.txt,https://da.gd/9NbKuy
+PacketstormSecurity,SMBLoris NBSS Denial of Service,https://packetstormsecurity.com/files/180497/smb_loris.rb.txt,https://da.gd/ixcGn
+PacketstormSecurity,NTP.org ntpd Reserved Mode Denial of Service,https://packetstormsecurity.com/files/180496/ntpd_reserved_dos.rb.txt,https://da.gd/nTxwEX
