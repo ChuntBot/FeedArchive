@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Cisco ASA Directory Traversal,https://packetstormsecurity.com/files/181032/cisco_directory_traversal.rb.txt,https://da.gd/9bnLN
+PacketstormSecurity,NFR Agent SRS Record Arbitrary Remote File Access,https://packetstormsecurity.com/files/181031/novell_file_reporter_srs_fileaccess.rb.txt,https://da.gd/nOnwj
+PacketstormSecurity,Supermicro Onboard IPMI Static SSL Certificate Scanner,https://packetstormsecurity.com/files/181030/smt_ipmi_static_cert_scanner.rb.txt,https://da.gd/tf5FYT
+PacketstormSecurity,Linksys E1500 Directory Traversal,https://packetstormsecurity.com/files/181029/linksys_e1500_traversal.rb.txt,https://da.gd/ILhLoK
+PacketstormSecurity,Apache Axis2 1.4.1 Local File Inclusion,https://packetstormsecurity.com/files/181028/axis_local_file_include.rb.txt,https://da.gd/iJHDI4
+PacketstormSecurity,Microsoft IIS Shortname Scanner,https://packetstormsecurity.com/files/181027/iis_shortname_scanner.rb.txt,https://da.gd/9CTkWC
+PacketstormSecurity,JBoss Scanner,https://packetstormsecurity.com/files/181026/jboss_vulnscan.rb.txt,https://da.gd/UQMS
+PacketstormSecurity,TVT NVMS-1000 Directory Traversal,https://packetstormsecurity.com/files/181025/tvt_nvms_traversal.rb.txt,https://da.gd/alablf
+PacketstormSecurity,Cambium CnPilot R200/r201 Login Scanner And Config Dump,https://packetstormsecurity.com/files/181024/cnpilot_r_web_login_loot.rb.txt,https://da.gd/TokAIH
+PacketstormSecurity,WordPress Total Upkeep Unauthenticated Backup Downloader,https://packetstormsecurity.com/files/181023/wp_total_upkeep_downloader.rb.txt,https://da.gd/WHqxI
+PacketstormSecurity,HTTP Open Proxy Detection,https://packetstormsecurity.com/files/181022/open_proxy.rb.txt,https://da.gd/ldQ5
+PacketstormSecurity,Oracle Demantra Database Credentials Leak,https://packetstormsecurity.com/files/181021/oracle_demantra_database_credentials_leak.rb.txt,https://da.gd/KDoV0
+PacketstormSecurity,Yaws Web Server Directory Traversal,https://packetstormsecurity.com/files/181020/yaws_traversal.rb.txt,https://da.gd/Fhq9e
+PacketstormSecurity,Drupal Views Module Users Enumeration,https://packetstormsecurity.com/files/181019/drupal_views_user_enum.rb.txt,https://da.gd/8w0Eu
+PacketstormSecurity,S40 0.4.2 CMS Directory Traversal,https://packetstormsecurity.com/files/181018/s40_traversal.rb.txt,https://da.gd/oMHCTB
+PacketstormSecurity,Elasticsearch Memory Disclosure,https://packetstormsecurity.com/files/181017/elasticsearch_memory_disclosure.rb.txt,https://da.gd/sR25U7
+PacketstormSecurity,Oracle Demantra Arbitrary File Retrieval With Authentication Bypass,https://packetstormsecurity.com/files/181016/oracle_demantra_file_retrieval.rb.txt,https://da.gd/ln0T
+PacketstormSecurity,"Carlo Gavazzi Energy Meters Login Brute Force, Extract Info And Dump Plant Database",https://packetstormsecurity.com/files/181015/gavazzi_em_login_loot.rb.txt,https://da.gd/UY7dp
+PacketstormSecurity,FrontPage .pwd File Credential Dump,https://packetstormsecurity.com/files/181014/frontpage_credential_dump.rb.txt,https://da.gd/VjlJML
+PacketstormSecurity,Titan FTP Administrative Password Disclosure,https://packetstormsecurity.com/files/181013/titan_ftp_admin_pwd.rb.txt,https://da.gd/ziMDX3
+PacketstormSecurity,Chromecast Wifi Enumeration,https://packetstormsecurity.com/files/181012/chromecast_wifi.rb.txt,https://da.gd/GqiAbH
+PacketstormSecurity,Novell ZENworks Asset Management 7.5 Configuration Access,https://packetstormsecurity.com/files/181011/zenworks_assetmanagement_getconfig.rb.txt,https://da.gd/HDCN
+PacketstormSecurity,Cambium EPMP 1000 Login Scanner,https://packetstormsecurity.com/files/181010/epmp1000_web_login.rb.txt,https://da.gd/rjn0
+PacketstormSecurity,HTTP Verb Authentication Bypass Scanner,https://packetstormsecurity.com/files/181009/verb_auth_bypass.rb.txt,https://da.gd/xnZK6h
+PacketstormSecurity,SMTP Open Relay Detection,https://packetstormsecurity.com/files/181008/smtp_relay.rb.txt,https://da.gd/g1gwQq
