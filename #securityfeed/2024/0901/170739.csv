@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Apache 2.4.49/2.4.50 Traversal Remote Code Execution Scanner,https://packetstormsecurity.com/files/181114/apache_normalize_path.rb.txt,https://da.gd/yVGw
+PacketstormSecurity,Wordpress BulletProof Security Backup Disclosure,https://packetstormsecurity.com/files/181113/wp_bulletproofsecurity_backups.rb.txt,https://da.gd/aRuWD
+PacketstormSecurity,WildFly Directory Traversal,https://packetstormsecurity.com/files/181112/wildfly_traversal.rb.txt,https://da.gd/1zA55
+PacketstormSecurity,Apache Mod_cgi Bash Environment Variable Injection (Shellshock) Scanner,https://packetstormsecurity.com/files/181111/apache_mod_cgi_bash_env.rb.txt,https://da.gd/zhM4xt
+PacketstormSecurity,GlassFish Brute Force Utility,https://packetstormsecurity.com/files/181110/glassfish_login.rb.txt,https://da.gd/LuZtGJ
+PacketstormSecurity,WordPress Contus Video Gallery Unauthenticated SQL Injection Scanner,https://packetstormsecurity.com/files/181109/wp_contus_video_gallery_sqli.rb.txt,https://da.gd/4ro8n
+PacketstormSecurity,Cisco SSL VPN Bruteforce Login Utility,https://packetstormsecurity.com/files/181108/cisco_ssl_vpn.rb.txt,https://da.gd/ESBG
+PacketstormSecurity,Atlassian Crowd XML Entity Expansion Remote File Access,https://packetstormsecurity.com/files/181107/atlassian_crowd_fileaccess.rb.txt,https://da.gd/mXKfjl
+PacketstormSecurity,Jenkins-CI Unauthenticated Script-Console Scanner,https://packetstormsecurity.com/files/181106/jenkins_command.rb.txt,https://da.gd/tthry3
+PacketstormSecurity,ManageEngine DeviceExpert User Credentials,https://packetstormsecurity.com/files/181105/manageengine_deviceexpert_user_creds.rb.txt,https://da.gd/qD7h
+PacketstormSecurity,Spring Cloud Config Server Directory Traversal,https://packetstormsecurity.com/files/181104/springcloud_traversal.rb.txt,https://da.gd/JoRprW
+PacketstormSecurity,Cisco ASA ASDM Brute-force Login,https://packetstormsecurity.com/files/181103/cisco_asa_asdm_bruteforce.rb.txt,https://da.gd/LFpk3
+PacketstormSecurity,Apache Flink JobManager Traversal,https://packetstormsecurity.com/files/181102/apache_flink_jobmanager_traversal.rb.txt,https://da.gd/56wstO
+PacketstormSecurity,RFCode Reader Web Interface Login / Bruteforce Utility,https://packetstormsecurity.com/files/181101/rfcode_reader_enum.rb.txt,https://da.gd/PB30Q
+PacketstormSecurity,WordPress Easy WP SMTP Password Reset,https://packetstormsecurity.com/files/181100/wp_easy_wp_smtp.rb.txt,https://da.gd/7Z5fQ
+PacketstormSecurity,Typo3 Login Bruteforcer,https://packetstormsecurity.com/files/181099/typo3_bruteforce.rb.txt,https://da.gd/TAEkRG
+PacketstormSecurity,Apache ActiveMQ JSP Files Source Disclosure,https://packetstormsecurity.com/files/181098/apache_activemq_source_disclosure.rb.txt,https://da.gd/k23DXO
+PacketstormSecurity,Meteocontrol WEBlog Password Extractor,https://packetstormsecurity.com/files/181097/meteocontrol_weblog_extractadmin.rb.txt,https://da.gd/SteJkO
+PacketstormSecurity,HP SiteScope SOAP Call GetFileInternal Remote File Access,https://packetstormsecurity.com/files/181096/hp_sitescope_getfileinternal_fileaccess.rb.txt,https://da.gd/GyCi0a
+PacketstormSecurity,Adobe XML External Entity Injection,https://packetstormsecurity.com/files/181095/adobe_xml_inject.rb.txt,https://da.gd/JFoIo
+PacketstormSecurity,SAP BusinessObjects User Bruteforcer,https://packetstormsecurity.com/files/181094/sap_businessobjects_user_brute.rb.txt,https://da.gd/fwxgWO
+PacketstormSecurity,Novell Zenworks Mobile Device Management Admin Credentials,https://packetstormsecurity.com/files/181093/novell_mdm_creds.rb.txt,https://da.gd/81IndZ
+PacketstormSecurity,Dolibarr ERP/CRM Login Utility,https://packetstormsecurity.com/files/181092/dolibarr_login.rb.txt,https://da.gd/e4J3KO
+PacketstormSecurity,Symantec Messaging Gateway 9.5 Log File Download,https://packetstormsecurity.com/files/181091/symantec_brightmail_logfile.rb.txt,https://da.gd/BYgI2c
+PacketstormSecurity,HTTP Git Scanner,https://packetstormsecurity.com/files/181090/git_scanner.rb.txt,https://da.gd/t4xj4u
