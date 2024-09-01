@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Cerberus FTP Server SFTP Username Enumeration,https://packetstormsecurity.com/files/181228/cerberus_sftp_enumusers.rb.txt,https://da.gd/JCmYm
+PacketstormSecurity,Libssh Authentication Bypass Scanner,https://packetstormsecurity.com/files/181227/libssh_auth_bypass.rb.txt,https://da.gd/iUmhY
+PacketstormSecurity,Juniper SSH Backdoor Scanner,https://packetstormsecurity.com/files/181226/juniper_backdoor.rb.txt,https://da.gd/MSQ7Zt
+PacketstormSecurity,Apache Karaf Default Credentials Command Execution,https://packetstormsecurity.com/files/181225/apache_karaf_command_execution.rb.txt,https://da.gd/sMWvDI
+PacketstormSecurity,Eaton Xpert Meter SSH Private Key Exposure Scanner,https://packetstormsecurity.com/files/181224/eaton_xpert_backdoor.rb.txt,https://da.gd/FknII
+PacketstormSecurity,SSH Username Enumeration,https://packetstormsecurity.com/files/181223/ssh_enumusers.rb.txt,https://da.gd/Sc7sp
+PacketstormSecurity,Fortinet SSH Backdoor Scanner,https://packetstormsecurity.com/files/181222/fortinet_backdoor.rb.txt,https://da.gd/vvUvO
+PacketstormSecurity,MySQL Authentication Bypass Password Dump,https://packetstormsecurity.com/files/181221/mysql_authbypass_hashdump.rb.txt,https://da.gd/T7tV
+PacketstormSecurity,DNS Amplification Scanner,https://packetstormsecurity.com/files/181220/dns_amp.rb.txt,https://da.gd/m2JaK
+PacketstormSecurity,Novell ZENworks Configuration Management Preboot Service Remote File Access,https://packetstormsecurity.com/files/181219/zenworks_preboot_fileaccess.rb.txt,https://da.gd/Pw55c
+PacketstormSecurity,Ray Sharp DVR Password Retriever,https://packetstormsecurity.com/files/181218/raysharp_dvr_passwords.rb.txt,https://da.gd/Tj3H5j
+PacketstormSecurity,Dahua DVR Authentication Bypass Scanner,https://packetstormsecurity.com/files/181217/dahua_dvr_auth_bypass.rb.txt,https://da.gd/zBDDr
+PacketstormSecurity,Rosewill RXS-3211 IP Camera Password Retriever,https://packetstormsecurity.com/files/181216/rosewill_rxs3211_passwords.rb.txt,https://da.gd/JU4BF
+PacketstormSecurity,EasyCafe Server Remote File Access,https://packetstormsecurity.com/files/181215/easycafe_server_fileaccess.rb.txt,https://da.gd/dFZSFP
+PacketstormSecurity,SerComm Network Device Backdoor Detection,https://packetstormsecurity.com/files/181214/sercomm_backdoor_scanner.rb.txt,https://da.gd/Pkh920
+PacketstormSecurity,IBM WebSphere MQ Channel Name Bruteforce,https://packetstormsecurity.com/files/181213/ibm_mq_channel_brute.rb.txt,https://da.gd/7V78ZF
+PacketstormSecurity,OKI Printer Default Login Credential Scanner,https://packetstormsecurity.com/files/181212/oki_scanner.rb.txt,https://da.gd/3RK1t
+PacketstormSecurity,Multiple DVR Manufacturers Configuration Disclosure,https://packetstormsecurity.com/files/181211/dvr_config_disclosure.rb.txt,https://da.gd/Ufuue
+PacketstormSecurity,Portmapper Amplification Scanner,https://packetstormsecurity.com/files/181210/portmap_amp.rb.txt,https://da.gd/k3xzH
+PacketstormSecurity,VICIdial Multiple Authenticated SQL Injection,https://packetstormsecurity.com/files/181209/vicidial_multiple_sqli.rb.txt,https://da.gd/VmcaJW
+PacketstormSecurity,A10 Networks AX Loadbalancer Directory Traversal,https://packetstormsecurity.com/files/181208/a10networks_ax_directory_traversal.rb.txt,https://da.gd/Jm3E2j
+PacketstormSecurity,Icingaweb Directory Traversal In Static Library File Requests,https://packetstormsecurity.com/files/181207/icinga_static_library_file_directory_traversal.rb.txt,https://da.gd/RrcqB
+PacketstormSecurity,Microsoft Exchange Privilege Escalation,https://packetstormsecurity.com/files/181206/exchange_web_server_pushsubscription.rb.txt,https://da.gd/9GAoh
+PacketstormSecurity,WordPress NextGEN Gallery Directory Read,https://packetstormsecurity.com/files/181205/wp_nextgen_galley_file_read.rb.txt,https://da.gd/qoNwr5
+PacketstormSecurity,SAP BusinessObjects Web User Bruteforcer,https://packetstormsecurity.com/files/181204/sap_businessobjects_user_brute_web.rb.txt,https://da.gd/p2LHNy
