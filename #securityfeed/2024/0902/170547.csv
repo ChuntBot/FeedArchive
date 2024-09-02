@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+PacketstormSecurity,"Packet Storm New Exploits For August, 2024",https://packetstormsecurity.com/files/181245/202408-exploits.tgz,https://da.gd/JB0sZ
+PacketstormSecurity,libpcap 1.10.5,https://packetstormsecurity.com/files/181243/libpcap-1.10.5.tar.xz,https://da.gd/pdkhhf
+PacketstormSecurity,tcpdump 4.99.5,https://packetstormsecurity.com/files/181244/tcpdump-4.99.5.tar.xz,https://da.gd/99U3
+PacketstormSecurity,Debian Security Advisory 5762-1,https://packetstormsecurity.com/files/181242/dsa-5762-1.txt,https://da.gd/OK1Lk
+PacketstormSecurity,IntelliNet 2.0 Remote Root,https://packetstormsecurity.com/files/181241/intellinet20-exec.txt,https://da.gd/KwlEzU
+PacketstormSecurity,Online Musical Instrument Shop IN 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/181239/omisin10-xss.txt,https://da.gd/qFNlb1
+PacketstormSecurity,Online Job Portal IN 1.0 SQL Injection,https://packetstormsecurity.com/files/181238/ojbin10-sql.txt,https://da.gd/UM7ZZ
+PacketstormSecurity,Debian Security Advisory 5763-1,https://packetstormsecurity.com/files/181237/dsa-5763-1.txt,https://da.gd/J37L8i
+PacketstormSecurity,pgAdmin 8.4 Code Execution,https://packetstormsecurity.com/files/181236/pgadmin4-exec.txt,https://da.gd/wqi9H
+PacketstormSecurity,SPIP 4.2.7 Code Execution,https://packetstormsecurity.com/files/181235/spip427-exec.txt,https://da.gd/kQqPS
+PacketstormSecurity,Loan Management System 2024 1.0 Insecure Settings,https://packetstormsecurity.com/files/181234/lms202410-insecure.txt,https://da.gd/9cED8U
+PacketstormSecurity,Hostel Management System 1.0 Arbitrary File Upload,https://packetstormsecurity.com/files/181233/hostelms10-upload.txt,https://da.gd/WlGGGy
+PacketstormSecurity,File Management System 1.0 Cross Site Request Forgery,https://packetstormsecurity.com/files/181232/fms10-xsrf.txt,https://da.gd/1FrT0
+PacketstormSecurity,Faculty Evaluation System 1.0 Cross Site Request Forgery,https://packetstormsecurity.com/files/181231/fes10-xsrf.txt,https://da.gd/OCe20Z
+PacketstormSecurity,eClass LMS 6.2.0 Shell Upload,https://packetstormsecurity.com/files/181230/eclasslms620-shell.txt,https://da.gd/fvIYV
+PacketstormSecurity,Free Hospital Management System For Small Practices 1.0 CSRF,https://packetstormsecurity.com/files/181229/fhms10-xsrf.txt,https://da.gd/xG4Wk
