@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,update postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/af0c61b90adcdf3564efd8e30fe7659a74a2ddd9,https://da.gd/qhpYA
+GithubCommitStaging,Merge pull request #6056 from mailcow/update/postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/0129f84a32f21137713acfe53506c9097dc3273b,https://da.gd/fCuss
+GithubCommitStaging,feat: Added check for newer version tags on remote (#6054),https://github.com/mailcow/mailcow-dockerized/commit/710cec996cc60219dcb152b2459e1beffe722130,https://da.gd/rt3lyi
