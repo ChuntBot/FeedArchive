@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h4gh-qq45-vh27] pyca/cryptography has a vulnerable OpenSSL included in cryptography wheels,https://github.com/advisories/GHSA-h4gh-qq45-vh27,https://da.gd/Rn1T
+GithubAdvisories,[GHSA-8wm9-24qg-m5qj] Keycloak has a brute force login protection bypass,https://github.com/advisories/GHSA-8wm9-24qg-m5qj,https://da.gd/rxJkU
