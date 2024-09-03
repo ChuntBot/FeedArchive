@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-p2q9-36vw-c468] olm-sys: wrapped library unmaintained, potentially vulnerable",https://github.com/advisories/GHSA-p2q9-36vw-c468,https://da.gd/JkMSk
+GithubAdvisories,[GHSA-rw72-v6c7-hf9r] ReDoS in urlregex,https://github.com/advisories/GHSA-rw72-v6c7-hf9r,https://da.gd/9CcP
+GithubAdvisories,[GHSA-6xx4-x46f-f897] Hoverfly allows an arbitrary file read in the `/api/v2/simulation` endpoint (`GHSL-2023-274`),https://github.com/advisories/GHSA-6xx4-x46f-f897,https://da.gd/Hc4iX
+GithubAdvisories,[GHSA-cxww-7g56-2vh6] @actions/download-artifact has an Arbitrary File Write via artifact extraction,https://github.com/advisories/GHSA-cxww-7g56-2vh6,https://da.gd/RgXdPw
