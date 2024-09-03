@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jfvp-7x6p-h2pv] runc can be confused to create empty files/directories on the host,https://github.com/advisories/GHSA-jfvp-7x6p-h2pv,https://da.gd/bLFo
+GithubAdvisories,[GHSA-hq76-662x-7mw4] Pimcore includes vulnerable PHPOffice/PhpSpreadsheet,https://github.com/advisories/GHSA-hq76-662x-7mw4,https://da.gd/dU5YLx
+GithubAdvisories,[GHSA-q765-wm9j-66qj] @blakeembrey/template vulnerable to code injection when attacker controls template input,https://github.com/advisories/GHSA-q765-wm9j-66qj,https://da.gd/Jy4dC
+GithubAdvisories,[GHSA-4qrm-9h4r-v2fx] Tina search token leak via lock file in TinaCMS,https://github.com/advisories/GHSA-4qrm-9h4r-v2fx,https://da.gd/lZgar
+GithubAdvisories,[GHSA-gprj-6m2f-j9hx] DOM clobbering could escalate to Cross-site Scripting (XSS),https://github.com/advisories/GHSA-gprj-6m2f-j9hx,https://da.gd/NHbV
