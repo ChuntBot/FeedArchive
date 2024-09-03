@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vr26-jcq5-fjj8] Denial of service in quinn-proto when using `Endpoint::retry()`,https://github.com/advisories/GHSA-vr26-jcq5-fjj8,https://da.gd/YXwAN
+GithubAdvisories,[GHSA-jjxf-26c9-77gm] Vault Leaks Client Token and Token Accessor in Audit Devices,https://github.com/advisories/GHSA-jjxf-26c9-77gm,https://da.gd/VUE6f
