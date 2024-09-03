@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v26r-4c9c-h3j6] gix-path uses local config across repos when it is the highest scope,https://github.com/advisories/GHSA-v26r-4c9c-h3j6,https://da.gd/Nkqe2a
+GithubAdvisories,[GHSA-h83p-72jv-g7vp] Missing hostname validation in Kroxylicious,https://github.com/advisories/GHSA-h83p-72jv-g7vp,https://da.gd/RdCh9
+GithubAdvisories,[GHSA-pqfh-xh7w-7h3p] The Bare Metal Operator (BMO) can expose particularly named secrets from other namespaces via BMH CRD,https://github.com/advisories/GHSA-pqfh-xh7w-7h3p,https://da.gd/5MVgKb
+GithubAdvisories,[GHSA-6q32-hq47-5qq3] @actions/artifact has an Arbitrary File Write via artifact extraction,https://github.com/advisories/GHSA-6q32-hq47-5qq3,https://da.gd/oLbGR
+GithubAdvisories,[GHSA-g5xx-c4hv-9ccc] CometBFT's state syncing validator from malicious node may lead to a chain split,https://github.com/advisories/GHSA-g5xx-c4hv-9ccc,https://da.gd/zKDWpa
