@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g76f-gjfx-4rpr] Vertx gRPC server does not limit the maximum message size,https://github.com/advisories/GHSA-g76f-gjfx-4rpr,https://da.gd/WByzy
