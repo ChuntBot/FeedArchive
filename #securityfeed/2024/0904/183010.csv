@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fw5r-6m3x-rh7p] Flask-AppBuilder's login form allows browser to cache sensitive fields,https://github.com/advisories/GHSA-fw5r-6m3x-rh7p,https://da.gd/pb5Vq7
+GithubAdvisories,[GHSA-c34r-238x-f7qx] Remote Code Execution Vulnerability via SSTI in Fides Webserver Jinja Email Templating Engine,https://github.com/advisories/GHSA-c34r-238x-f7qx,https://da.gd/aaz20f
+GithubAdvisories,[GHSA-2h46-8gf5-fmxv] Timing-Based Username Enumeration Vulnerability in Fides Webserver Authentication,https://github.com/advisories/GHSA-2h46-8gf5-fmxv,https://da.gd/L1NVT1
