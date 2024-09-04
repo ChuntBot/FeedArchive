@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubCommitStaging,compose: added clamd as depends_on to rspamd (#6062),https://github.com/mailcow/mailcow-dockerized/commit/bb6f4058416b60ac0cb3e808740056de4a7cbc92,https://da.gd/m6kAB
