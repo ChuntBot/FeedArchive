@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rwq6-crjg-9cpw] ic-cdk has a memory leak when calling a canister method via `ic_cdk::call`,https://github.com/advisories/GHSA-rwq6-crjg-9cpw,https://da.gd/mXe0sG
+GithubAdvisories,[GHSA-fv4g-gwpj-74gr] Path traversal vulnerability in stripe-cli,https://github.com/advisories/GHSA-fv4g-gwpj-74gr,https://da.gd/vsm1a
+GithubAdvisories,[GHSA-4jcv-vp96-94xr] MindsDB Vulnerable to Bypass of SSRF Protection with DNS Rebinding,https://github.com/advisories/GHSA-4jcv-vp96-94xr,https://da.gd/8Em8i
