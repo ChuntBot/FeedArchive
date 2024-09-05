@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7q74-g774-7x3g] Interchain Security: The signers of ICS messages do not need to match the provider address,https://github.com/advisories/GHSA-7q74-g774-7x3g,https://da.gd/84MbC8
