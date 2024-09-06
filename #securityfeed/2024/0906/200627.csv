@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m8rp-vv92-46c7] gix-path improperly resolves configuration path reported by Git,https://github.com/advisories/GHSA-m8rp-vv92-46c7,https://da.gd/YoMs
+GithubAdvisories,[GHSA-q3hw-3gm4-w5cr] gnark's Groth16 commitment extension unsound for more than one commitment,https://github.com/advisories/GHSA-q3hw-3gm4-w5cr,https://da.gd/QpWUmx
+GithubAdvisories,[GHSA-9xcg-3q8v-7fq6] gnark commitments to private witnesses in Groth16 as implemented break zero-knowledge property,https://github.com/advisories/GHSA-9xcg-3q8v-7fq6,https://da.gd/r1Zsdp
+GithubAdvisories,[GHSA-gj55-2xf9-67rq] HTML injection in JupyterLite leading to DOM Clobbering,https://github.com/advisories/GHSA-gj55-2xf9-67rq,https://da.gd/xy24
+GithubAdvisories,[GHSA-6cr6-ph3p-f5rf] XXE vulnerability in XSLT transforms in `org.hl7.fhir.core`,https://github.com/advisories/GHSA-6cr6-ph3p-f5rf,https://da.gd/qCmb5
