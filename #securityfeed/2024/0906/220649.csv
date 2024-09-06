@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8pgc-65mj-53h5] github.com/gitpod-io/gitpod vulnerable to Cookie Tossing,https://github.com/advisories/GHSA-8pgc-65mj-53h5,https://da.gd/eAJd5
+GithubAdvisories,[GHSA-g6q4-w3j3-jfc4] Windmill HTTP Request users.rs excessive authentication in github.com/windmill-labs/windmill,https://github.com/advisories/GHSA-g6q4-w3j3-jfc4,https://da.gd/8MLKZ
