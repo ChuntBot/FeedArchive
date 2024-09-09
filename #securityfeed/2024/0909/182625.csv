@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-28h4-788g-rh42] Craft CMS vulnerable to stored XSS in breadcrumb list and title fields,https://github.com/advisories/GHSA-28h4-788g-rh42,https://da.gd/7Y6e2
+GithubAdvisories,[GHSA-gcfg-hmwx-wq5h] Httpful is Missing Certificate Validation,https://github.com/advisories/GHSA-gcfg-hmwx-wq5h,https://da.gd/7LoDG
+GithubAdvisories,[GHSA-pv7h-hg6m-82j8] Gouniverse GoLang CMS vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-pv7h-hg6m-82j8,https://da.gd/BrXP
+GithubAdvisories,[GHSA-r9pp-r4xf-597r] pyload-ng vulnerable to RCE with js2py sandbox escape,https://github.com/advisories/GHSA-r9pp-r4xf-597r,https://da.gd/rXbh3
+GithubAdvisories,[GHSA-c392-whpc-vfpr] Apache Airflow vulnerable to Improper Encoding or Escaping of Output,https://github.com/advisories/GHSA-c392-whpc-vfpr,https://da.gd/YbKn5s
+GithubAdvisories,[GHSA-92xg-gmrq-5c3w] Apache Airflow vulnerable to Execution with Unnecessary Privileges,https://github.com/advisories/GHSA-92xg-gmrq-5c3w,https://da.gd/BjAgmc
+GithubAdvisories,[GHSA-qwgc-rr35-h4x9] External Secrets Operator vulnerable to privilege escalation,https://github.com/advisories/GHSA-qwgc-rr35-h4x9,https://da.gd/rx99
