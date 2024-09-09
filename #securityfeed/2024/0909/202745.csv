@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9wv6-86v2-598j] path-to-regexp outputs backtracking regular expressions,https://github.com/advisories/GHSA-9wv6-86v2-598j,https://da.gd/KFPwbX
+GithubAdvisories,[GHSA-6j75-5wfj-gh66] Twig has a possible sandbox bypass,https://github.com/advisories/GHSA-6j75-5wfj-gh66,https://da.gd/bDAulW
+GithubAdvisories,[GHSA-mqm9-c95h-x2p6] AngularJS allows attackers to bypass common image source restrictions,https://github.com/advisories/GHSA-mqm9-c95h-x2p6,https://da.gd/OSfMb
+GithubAdvisories,[GHSA-m9gf-397r-hwpg] AngularJS allows attackers to bypass common image source restrictions,https://github.com/advisories/GHSA-m9gf-397r-hwpg,https://da.gd/G2UJkG
