@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cff8-x7jv-4fm8] Session is cached for OpenID and OAuth2 if `redirect` is not used,https://github.com/advisories/GHSA-cff8-x7jv-4fm8,https://da.gd/GLQS
+GithubAdvisories,[GHSA-pw44-4h99-wqff] D-Tale vulnerable to Remote Code Execution through the Query input on Chart Builder,https://github.com/advisories/GHSA-pw44-4h99-wqff,https://da.gd/Ll39g
+GithubAdvisories,[GHSA-m6fv-jmcg-4jfg] send vulnerable to template injection that can lead to XSS,https://github.com/advisories/GHSA-m6fv-jmcg-4jfg,https://da.gd/SDjn
+GithubAdvisories,[GHSA-cm22-4g7w-348p] serve-static vulnerable to template injection that can lead to XSS,https://github.com/advisories/GHSA-cm22-4g7w-348p,https://da.gd/LZTs4
+GithubAdvisories,[GHSA-jw9c-mfg7-9rx2] SAML authentication bypass via Incorrect XPath selector,https://github.com/advisories/GHSA-jw9c-mfg7-9rx2,https://da.gd/D41q
+GithubAdvisories,[GHSA-w97f-w3hq-36g2] Keycloak Denial of Service vulnerability,https://github.com/advisories/GHSA-w97f-w3hq-36g2,https://da.gd/C158Pj
+GithubAdvisories,[GHSA-qw6h-vgh9-j6wx] express vulnerable to XSS via response.redirect(),https://github.com/advisories/GHSA-qw6h-vgh9-j6wx,https://da.gd/yV8s
