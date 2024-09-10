@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pvmm-55r5-g3mm] XWiki Platform document history including authors of any page exposed to unauthorized actors,https://github.com/advisories/GHSA-pvmm-55r5-g3mm,https://da.gd/qASTo
+GithubAdvisories,[GHSA-78vg-7v27-hj67] auditor-bundle vulnerable to Cross-site Scripting because name of entity does not get escaped,https://github.com/advisories/GHSA-78vg-7v27-hj67,https://da.gd/5r0Hr
+GithubAdvisories,[GHSA-g974-hxvm-x689] node-gettext vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-g974-hxvm-x689,https://da.gd/3cy8
+GithubAdvisories,[GHSA-qwcr-r2fm-qrc7] body-parser vulnerable to denial of service when url encoding is enabled,https://github.com/advisories/GHSA-qwcr-r2fm-qrc7,https://da.gd/elxLmf
