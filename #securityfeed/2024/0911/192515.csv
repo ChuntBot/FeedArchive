@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rjc6-vm4h-85cg] Sensitive Information Exposure Through Insecure Logging For Secrets Like Metadata.DockerBuildArgs,https://github.com/advisories/GHSA-rjc6-vm4h-85cg,https://da.gd/1dGvUZ
+GithubAdvisories,[GHSA-635v-pc42-fr74] AWS SageMaker Training Toolkit logs CodeArtifact Authorization token,https://github.com/advisories/GHSA-635v-pc42-fr74,https://da.gd/0SvKg
+GithubAdvisories,[GHSA-64f8-pjgr-9wmr] Untrusted Query Object Evaluation in RPC API,https://github.com/advisories/GHSA-64f8-pjgr-9wmr,https://da.gd/YLl0i
