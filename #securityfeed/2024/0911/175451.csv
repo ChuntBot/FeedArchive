@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8259-2x72-2gvc] Eclipse Dataspace Components's ConsumerPullTransferTokenValidationApiController doesn't check for token validit,https://github.com/advisories/GHSA-8259-2x72-2gvc,https://da.gd/E0Eo
+GithubAdvisories,[GHSA-7gq2-vwq9-w8vw] Eclipse Glassfish URL redirection vulnerability,https://github.com/advisories/GHSA-7gq2-vwq9-w8vw,https://da.gd/6X6wo
