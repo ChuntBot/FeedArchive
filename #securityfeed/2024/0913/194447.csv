@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p8h7-c8gw-6x8c] LoLLMS Path Traversal vulnerability,https://github.com/advisories/GHSA-p8h7-c8gw-6x8c,https://da.gd/tS1bIi
+GithubAdvisories,[GHSA-pwc9-q4hj-pg8g] LoLLMS Command Injection vulnerability,https://github.com/advisories/GHSA-pwc9-q4hj-pg8g,https://da.gd/lqYThe
+GithubAdvisories,[GHSA-3x47-w4rx-6pm7] LoLLMS Path Traversal vulnerability,https://github.com/advisories/GHSA-3x47-w4rx-6pm7,https://da.gd/KEXtZK
+GithubAdvisories,[GHSA-8mrm-r7h3-c3hj] LoLLMS vulnerable to Expected Behavior Violation,https://github.com/advisories/GHSA-8mrm-r7h3-c3hj,https://da.gd/DEZqMP
+GithubAdvisories,[GHSA-9jmp-j63g-8x6m] Lunary information disclosure vulnerability,https://github.com/advisories/GHSA-9jmp-j63g-8x6m,https://da.gd/MN2YO7
+GithubAdvisories,[GHSA-v6x6-4v4x-2fx9] Lunary Cross-Site Request Forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-v6x6-4v4x-2fx9,https://da.gd/rYhcUD
+GithubAdvisories,[GHSA-cx7f-g6mp-7hqm] Path traversal vulnerability in functional web frameworks,https://github.com/advisories/GHSA-cx7f-g6mp-7hqm,https://da.gd/OjPN0
+GithubAdvisories,[GHSA-w73r-8mm4-cfvf] Lunary Improper Authentication vulnerability,https://github.com/advisories/GHSA-w73r-8mm4-cfvf,https://da.gd/GoJ7u
+GithubAdvisories,[GHSA-6p2q-8qfq-wq7x] Lunary improper access control vulnerability,https://github.com/advisories/GHSA-6p2q-8qfq-wq7x,https://da.gd/PQnFW
+GithubAdvisories,[GHSA-g26j-5385-hhw3] LiteLLM Server-Side Request Forgery (SSRF) vulnerability,https://github.com/advisories/GHSA-g26j-5385-hhw3,https://da.gd/UFDy
