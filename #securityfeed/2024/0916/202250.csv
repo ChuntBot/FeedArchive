@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xgq9-7gw6-jr5r] Mattermost Desktop App fails to sufficiently configure Electron Fuses,https://github.com/advisories/GHSA-xgq9-7gw6-jr5r,https://da.gd/1WngKP
+GithubAdvisories,[GHSA-5777-rcjj-9p22] Mattermost Desktop App fails to safeguard screen capture functionality,https://github.com/advisories/GHSA-5777-rcjj-9p22,https://da.gd/3Mdww
+GithubAdvisories,[GHSA-3xq2-w6j4-c99r] Apache Seata Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-3xq2-w6j4-c99r,https://da.gd/mcj3
+GithubAdvisories,"[GHSA-46hr-3cq3-mcgp] OpenDaylight Authentication, Authorization and Accounting (AAA) peer impersonation vulnerability",https://github.com/advisories/GHSA-46hr-3cq3-mcgp,https://da.gd/odNdx
+GithubAdvisories,[GHSA-hv38-h5pj-c96j] OpenDaylight Model-Driven Service Abstraction Layer (MD-SAL) allows follower controller to set up flow entries,https://github.com/advisories/GHSA-hv38-h5pj-c96j,https://da.gd/gEHqNl
+GithubAdvisories,[GHSA-wj4j-qc2m-fgh7] Mattermost Desktop App Uncontrolled Search Path Vulnerability,https://github.com/advisories/GHSA-wj4j-qc2m-fgh7,https://da.gd/TnU4sW
+GithubAdvisories,[GHSA-7472-vw39-g2j3] Magento Open Source Improper Authorization vulnerability,https://github.com/advisories/GHSA-7472-vw39-g2j3,https://da.gd/lyrWv
+GithubAdvisories,[GHSA-4323-f82v-f6jr] Magento Open Source Cross-Site Request Forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-4323-f82v-f6jr,https://da.gd/VAu9
+GithubAdvisories,[GHSA-rf4q-m23c-7q8r] Magento Open Source Cross-Site Request Forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-rf4q-m23c-7q8r,https://da.gd/3JnEuL
+GithubAdvisories,[GHSA-4cj6-f32v-6hgx] Magento Open Source Cross-Site Request Forgery vulnerability,https://github.com/advisories/GHSA-4cj6-f32v-6hgx,https://da.gd/ffnkH
