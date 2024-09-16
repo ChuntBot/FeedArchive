@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gg57-587f-h5v6] Infinispan caches credentials in clear text,https://github.com/advisories/GHSA-gg57-587f-h5v6,https://da.gd/7dKLmf
+GithubAdvisories,[GHSA-5fq8-3q2f-4m5g] Session key exposure through session list in Django User Sessions,https://github.com/advisories/GHSA-5fq8-3q2f-4m5g,https://da.gd/mguPe
