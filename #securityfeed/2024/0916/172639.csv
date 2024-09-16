@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r4w2-hjmr-36m7] Infinispan REST Server's cache retrieval endpoints do not properly evaluate the necessary admin permissions,https://github.com/advisories/GHSA-r4w2-hjmr-36m7,https://da.gd/QGxEt8
+GithubAdvisories,[GHSA-fhr7-8jx4-r9cp] Infinispan REST Server's bulk read endpoints do not properly evaluate user permissions,https://github.com/advisories/GHSA-fhr7-8jx4-r9cp,https://da.gd/mmdl
+GithubAdvisories,[GHSA-2326-pfpj-vx3h] lexical-core has multiple soundness issues,https://github.com/advisories/GHSA-2326-pfpj-vx3h,https://da.gd/JMzH7
+GithubAdvisories,[GHSA-vvqw-fqwx-mqmm] Decidim::Admin vulnerable to cross-site scripting (XSS) in the admin panel with QuillJS WYSWYG editor,https://github.com/advisories/GHSA-vvqw-fqwx-mqmm,https://da.gd/nBflAi
+GithubAdvisories,[GHSA-rx9f-5ggv-5rh6] Decidim::Admin vulnerable to cross-site scripting (XSS) in the admin activity log,https://github.com/advisories/GHSA-rx9f-5ggv-5rh6,https://da.gd/6dYBJ
