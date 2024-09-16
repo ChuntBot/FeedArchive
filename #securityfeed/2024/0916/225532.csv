@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jpxc-vmjf-9fcj] Ansible vulnerable to Insertion of Sensitive Information into Log File,https://github.com/advisories/GHSA-jpxc-vmjf-9fcj,https://da.gd/giDlvW
+GithubAdvisories,[GHSA-fhx8-5c23-x7x5] Cross Site Scripting vulnerability in Contribsys Sidekiq,https://github.com/advisories/GHSA-fhx8-5c23-x7x5,https://da.gd/cJuR5
