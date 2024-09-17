@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w2r7-9579-27hf] vLLM denial of service vulnerability,https://github.com/advisories/GHSA-w2r7-9579-27hf,https://da.gd/V2W4l7
+GithubAdvisories,[GHSA-qjxf-mc72-wjr2] Devise-Two-Factor Authentication Uses Insufficient Default OTP Shared Secret Length,https://github.com/advisories/GHSA-qjxf-mc72-wjr2,https://da.gd/RMy11A
+GithubAdvisories,[GHSA-5j94-f3mf-8685] @backstage/plugin-techdocs-backend vulnerable to circumvention of cross site scripting protection,https://github.com/advisories/GHSA-5j94-f3mf-8685,https://da.gd/EJkrng
+GithubAdvisories,[GHSA-39v3-f278-vj3g] @backstage/plugin-techdocs-backend storage bucket Directory Traversal vulnerability,https://github.com/advisories/GHSA-39v3-f278-vj3g,https://da.gd/sduUi
+GithubAdvisories,[GHSA-3x3f-jcp3-g22j] @backstage/plugin-catalog-backend Prototype Pollution vulnerability,https://github.com/advisories/GHSA-3x3f-jcp3-g22j,https://da.gd/4ERbAh
+GithubAdvisories,[GHSA-q25c-r482-77p9] powermail TYPO3 extension has Insecure Direct Object Reference,https://github.com/advisories/GHSA-q25c-r482-77p9,https://da.gd/Pozsl
