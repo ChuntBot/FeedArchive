@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2gh6-wc3m-g37f] hermes-management is vulnerable to RCE due to Apache commons-jxpath,https://github.com/advisories/GHSA-2gh6-wc3m-g37f,https://da.gd/QTsvT
+GithubAdvisories,[GHSA-64vr-g452-qvp3] Vite DOM Clobbering gadget found in vite bundled scripts that leads to XSS,https://github.com/advisories/GHSA-64vr-g452-qvp3,https://da.gd/aNRULV
