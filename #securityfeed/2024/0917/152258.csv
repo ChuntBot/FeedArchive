@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2xpq-xp6c-5mgj] Contao affected by insert tag injection via canonical URL,https://github.com/advisories/GHSA-2xpq-xp6c-5mgj,https://da.gd/KfAQ
+GithubAdvisories,[GHSA-4p75-5p53-65m9] Contao affected by directory traversal in the file selector widget,https://github.com/advisories/GHSA-4p75-5p53-65m9,https://da.gd/5T2nsz
+GithubAdvisories,[GHSA-vm6r-j788-hjh5] Contao affected by remote command execution through file upload,https://github.com/advisories/GHSA-vm6r-j788-hjh5,https://da.gd/XGe7OM
