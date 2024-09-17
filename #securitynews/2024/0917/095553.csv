@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,A vulnerability in LANCOM LCOS web interface (usually listening on port 443) allows a remote attacker to trigger a heap overflow in the service listening on this port,https://redd.it/1fiuv4y,
