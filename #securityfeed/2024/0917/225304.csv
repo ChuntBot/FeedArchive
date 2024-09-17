@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jh66-3545-vpm7] Apache Druid: Users can provide MySQL JDBC properties not on allow list,https://github.com/advisories/GHSA-jh66-3545-vpm7,https://da.gd/Ahrf
+GithubAdvisories,[GHSA-gc7q-jgjv-vjr2] Keycloak Services has a potential bypass of brute force protection,https://github.com/advisories/GHSA-gc7q-jgjv-vjr2,https://da.gd/7xMc5q
