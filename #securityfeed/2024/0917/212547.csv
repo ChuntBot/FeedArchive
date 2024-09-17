@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6rgh-r6j3-3223] czim/file-handling vulnerable to SSRF and directory traversal,https://github.com/advisories/GHSA-6rgh-r6j3-3223,https://da.gd/Ia7ZpL
+GithubAdvisories,[GHSA-f2jm-rw3h-6phg] LangChain pickle deserialization of untrusted data,https://github.com/advisories/GHSA-f2jm-rw3h-6phg,https://da.gd/RZxAdQ
+GithubAdvisories,[GHSA-mrmh-3hqh-pfw7] Composio Code Injection Vulnerability,https://github.com/advisories/GHSA-mrmh-3hqh-pfw7,https://da.gd/oSvuN
+GithubAdvisories,[GHSA-66r2-xm28-74w9] Composio Path Traversal vulnerability,https://github.com/advisories/GHSA-66r2-xm28-74w9,https://da.gd/WLv8Y
