@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-p72w-r6fv-6g5h] druid-pac4j, Apache Druid extension, has Padding Oracle vulnerability",https://github.com/advisories/GHSA-p72w-r6fv-6g5h,https://da.gd/gXtp
+GithubAdvisories,"[GHSA-998c-q8hh-h8gv] Concrete CMS stored XSS vulnerability in the ""Top Navigator Bar"" block",https://github.com/advisories/GHSA-998c-q8hh-h8gv,https://da.gd/0q7jbr
+GithubAdvisories,[GHSA-gp8f-8m3g-qvj9] Next.js Cache Poisoning,https://github.com/advisories/GHSA-gp8f-8m3g-qvj9,https://da.gd/pxETC
+GithubAdvisories,[GHSA-wc36-9694-f9rf] vLLM Denial of Service via the best_of parameter,https://github.com/advisories/GHSA-wc36-9694-f9rf,https://da.gd/0vkn8v
