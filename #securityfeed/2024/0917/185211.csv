@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9cwx-2883-4wfx] Vite's `server.fs.deny` is bypassed when using `?import&raw`,https://github.com/advisories/GHSA-9cwx-2883-4wfx,https://da.gd/dGYitR
+GithubAdvisories,[GHSA-534c-hcr7-67jg] Kimai has an XXE Leading to Local File Read,https://github.com/advisories/GHSA-534c-hcr7-67jg,https://da.gd/NTyhrZ
+GithubAdvisories,[GHSA-rw5h-g8xq-6877] Wire UI has a JS XSS Vulnerability on route /wireui/button?label=Content,https://github.com/advisories/GHSA-rw5h-g8xq-6877,https://da.gd/efquV
+GithubAdvisories,"[GHSA-qqv8-ph7f-h3f7] OpenShift Builder has a path traversal, allows command injection in privileged BuildContainer",https://github.com/advisories/GHSA-qqv8-ph7f-h3f7,https://da.gd/cNyLn
