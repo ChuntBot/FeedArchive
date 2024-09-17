@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j8gh-87rx-c7w9] OpenShift Controller Manager Improper Privilege Management,https://github.com/advisories/GHSA-j8gh-87rx-c7w9,https://da.gd/clFJM
+GithubAdvisories,[GHSA-v345-w9f2-mpm5] Sentry improperly authorizes muting of alert rules,https://github.com/advisories/GHSA-v345-w9f2-mpm5,https://da.gd/N8GJh3
+GithubAdvisories,[GHSA-54m3-95j9-v89j] Sentry improperly authorizes deletion of user issue alert notifications,https://github.com/advisories/GHSA-54m3-95j9-v89j,https://da.gd/Z2emL
