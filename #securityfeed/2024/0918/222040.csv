@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g84q-54hf-36rg] AutoGPT bypass of the shell commands denylist settings,https://github.com/advisories/GHSA-g84q-54hf-36rg,https://da.gd/Wmado
+GithubAdvisories,[GHSA-8vff-35qm-qjvv] Mautic allows users enumeration due to weak password login,https://github.com/advisories/GHSA-8vff-35qm-qjvv,https://da.gd/PSBMp
+GithubAdvisories,[GHSA-qf6m-6m4g-rmrc] Mautic has insufficient authentication in upgrade flow,https://github.com/advisories/GHSA-qf6m-6m4g-rmrc,https://da.gd/CE7qd
+GithubAdvisories,[GHSA-xpc5-rr39-v8v2] Mautic has an XSS in contact tracking and page hits report,https://github.com/advisories/GHSA-xpc5-rr39-v8v2,https://da.gd/Kd94wy
+GithubAdvisories,[GHSA-73gr-32wg-qhh7] Mautic vulnerable to XSS in contact/company tracking (no authentication),https://github.com/advisories/GHSA-73gr-32wg-qhh7,https://da.gd/5UiFO
+GithubAdvisories,[GHSA-xv68-rrmw-9xwf] Mautic vulnerable to Cross-site Scripting (XSS) - stored (edit form HTML field),https://github.com/advisories/GHSA-xv68-rrmw-9xwf,https://da.gd/MxYMp
