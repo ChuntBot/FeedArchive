@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,"Improved SLEAPING sleepmask using Timers and APCs in order to spoof Timer Callback addresses at sleeping time achieving a more resilient sleep mask that works against great in-memory scanner like HSB, Moneta, etc. Also call stack return address detection is addressed in the SWAPPALA implementation.",https://redd.it/1fjlor4,
