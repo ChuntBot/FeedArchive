@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rrr8-f88r-h8q6] find-my-way has a ReDoS vulnerability in multiparametric routes,https://github.com/advisories/GHSA-rrr8-f88r-h8q6,https://da.gd/4JUc
+GithubAdvisories,[GHSA-7x4w-cj9r-h4v9] Camaleon CMS vulnerable to remote code execution through code injection (GHSL-2024-185),https://github.com/advisories/GHSA-7x4w-cj9r-h4v9,https://da.gd/js4bFh
+GithubAdvisories,[GHSA-r9cr-qmfw-pmrc] Camaleon CMS vulnerable to stored XSS through user file upload (GHSL-2024-184),https://github.com/advisories/GHSA-r9cr-qmfw-pmrc,https://da.gd/PAo99
+GithubAdvisories,[GHSA-cp65-5m9r-vc2c] Camaleon CMS vulnerable to arbitrary path traversal (GHSL-2024-183),https://github.com/advisories/GHSA-cp65-5m9r-vc2c,https://da.gd/t9Oq
