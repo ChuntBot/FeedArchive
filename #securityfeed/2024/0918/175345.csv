@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pmv9-3xqp-8w42] Mesop has a local file Inclusion via static file serving functionality,https://github.com/advisories/GHSA-pmv9-3xqp-8w42,https://da.gd/KD6XR
+GithubAdvisories,[GHSA-x3jx-5w6m-q2fc] Mautic vulnerable to Improper Access Control in UI upgrade process,https://github.com/advisories/GHSA-x3jx-5w6m-q2fc,https://da.gd/Xidg
+GithubAdvisories,[GHSA-jhg6-6qrx-38mr] SpiceDB having multiple caveats on resources of the same type may improperly result in no permission,https://github.com/advisories/GHSA-jhg6-6qrx-38mr,https://da.gd/Ejp8J
+GithubAdvisories,[GHSA-68g8-c275-xf2m] Directus vulnerable to SSRF Loopback IP filter bypass,https://github.com/advisories/GHSA-68g8-c275-xf2m,https://da.gd/r96k
+GithubAdvisories,[GHSA-w392-75q8-vr67] Guardrails has an arbitrary code execution vulnerability,https://github.com/advisories/GHSA-w392-75q8-vr67,https://da.gd/1jshtc
+GithubAdvisories,[GHSA-g4r7-86gm-pgqc] sqlitedict insecure deserialization vulnerability,https://github.com/advisories/GHSA-g4r7-86gm-pgqc,https://da.gd/SoExT
+GithubAdvisories,[GHSA-hfmw-7g3m-gj6q] CoreDNS vulnerable to TuDoor Attacks,https://github.com/advisories/GHSA-hfmw-7g3m-gj6q,https://da.gd/Q8xk2
