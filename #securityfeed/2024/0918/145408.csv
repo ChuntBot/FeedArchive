@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wmjg-vqhv-q5p5] Camaleon CMS affected by arbitrary file write to RCE (GHSL-2024-182),https://github.com/advisories/GHSA-wmjg-vqhv-q5p5,https://da.gd/vsm4Hi
+GithubAdvisories,[GHSA-pg4m-3gp6-hw4w] org.xwiki.platform:xwiki-platform-notifications-ui leaks data of notification filters of users,https://github.com/advisories/GHSA-pg4m-3gp6-hw4w,https://da.gd/kD8ORb
+GithubAdvisories,[GHSA-r95w-889q-x2gx] org.xwiki.platform:xwiki-platform-notifications-ui is missing checks for notification filter preferences editions,https://github.com/advisories/GHSA-r95w-889q-x2gx,https://da.gd/zsb5L
