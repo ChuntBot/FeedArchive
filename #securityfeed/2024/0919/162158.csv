@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jj94-6f5c-65r8] ZITADEL Allows Unauthorized Access After Organization or Project Deactivation,https://github.com/advisories/GHSA-jj94-6f5c-65r8,https://da.gd/Wdf0f
+GithubAdvisories,[GHSA-qr2h-7pwm-h393] ZITADEL's Service Users Deactivation not Working,https://github.com/advisories/GHSA-qr2h-7pwm-h393,https://da.gd/gwE1XU
+GithubAdvisories,[GHSA-2w5j-qfvw-2hf5] ZITADEL's User Grant Deactivation not Working,https://github.com/advisories/GHSA-2w5j-qfvw-2hf5,https://da.gd/dzPi
+GithubAdvisories,[GHSA-5hc5-fxr9-5frc] Mautic has insufficient authentication in upgrade flow,https://github.com/advisories/GHSA-5hc5-fxr9-5frc,https://da.gd/LujUf8
+GithubAdvisories,[GHSA-735f-pc8j-v9w8] protobuf-java has potential Denial of Service issue,https://github.com/advisories/GHSA-735f-pc8j-v9w8,https://da.gd/uVmkha
