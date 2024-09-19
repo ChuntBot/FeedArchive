@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4xx7-2cx3-x473] Keycloak SAML signature validation flaw,https://github.com/advisories/GHSA-4xx7-2cx3-x473,https://da.gd/W9GiW
+GithubAdvisories,[GHSA-vvf8-2h68-9475] Keycloak Open Redirect vulnerability,https://github.com/advisories/GHSA-vvf8-2h68-9475,https://da.gd/1173
+GithubAdvisories,[GHSA-w69q-w4h4-2fx8] Reverb use after free vulnerability,https://github.com/advisories/GHSA-w69q-w4h4-2fx8,https://da.gd/85x6M
+GithubAdvisories,[GHSA-c77r-fh37-x2px] OPA for Windows has an SMB force-authentication vulnerability,https://github.com/advisories/GHSA-c77r-fh37-x2px,https://da.gd/ZfpMq
