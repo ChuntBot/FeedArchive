@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xxxw-3j6h-q7h6] Grafana plugin SDK Information Leakage,https://github.com/advisories/GHSA-xxxw-3j6h-q7h6,https://da.gd/UNfhq
+GithubAdvisories,[GHSA-84jw-g43v-8gjm] DOM Clobbering Gadget found in Rspack's AutoPublicPathRuntimeModule that leads to XSS,https://github.com/advisories/GHSA-84jw-g43v-8gjm,https://da.gd/ecs4ZA
