@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-68j8-fp38-p48q] Gematik Referenzvalidator has an XXE vulnerability that can lead to a Server Side Request Forgery attack,https://github.com/advisories/GHSA-68j8-fp38-p48q,https://da.gd/ajo2jJ
+GithubAdvisories,[GHSA-c459-2m73-67hj] SOFA Hessian Remote Command Execution (RCE) Vulnerability,https://github.com/advisories/GHSA-c459-2m73-67hj,https://da.gd/6EoT
+GithubAdvisories,[GHSA-62c8-mh53-4cqv] HTTP client can manipulate custom HTTP headers that are added by Traefik,https://github.com/advisories/GHSA-62c8-mh53-4cqv,https://da.gd/3J7Pnc
+GithubAdvisories,[GHSA-hpc8-7wpm-889w] Dragonfly2 has hard coded cyptographic key,https://github.com/advisories/GHSA-hpc8-7wpm-889w,https://da.gd/cW4RwP
