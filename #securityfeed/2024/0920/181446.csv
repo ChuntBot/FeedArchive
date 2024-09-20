@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hh7m-rx4f-4vpv] CSRF can expose users authentication token,https://github.com/advisories/GHSA-hh7m-rx4f-4vpv,https://da.gd/ypzy0n
+GithubAdvisories,[GHSA-g8q7-xv52-hf9f] Feedgen Vulnerable to XML Denial of Service Attacks,https://github.com/advisories/GHSA-g8q7-xv52-hf9f,https://da.gd/YSKtA
