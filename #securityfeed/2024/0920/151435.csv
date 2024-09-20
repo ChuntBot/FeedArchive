@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-58vj-cv5w-v4v6] Navidrome has Multiple SQL Injections and ORM Leak,https://github.com/advisories/GHSA-58vj-cv5w-v4v6,https://da.gd/MFyvw
