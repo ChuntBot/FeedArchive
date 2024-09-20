@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2mrj-435v-c2cr] Duplicate Advisory: possible DoS caused by malformed signature decoding in Pure-Python ECDSA,https://github.com/advisories/GHSA-2mrj-435v-c2cr,https://da.gd/MoaVYd
