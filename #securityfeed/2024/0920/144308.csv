@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-73rg-f94j-xvhx] Plate allows arbitrary DOM attributes in element.attributes and leaf.attributes,https://github.com/advisories/GHSA-73rg-f94j-xvhx,https://da.gd/9BpHt
+GithubAdvisories,[GHSA-9hf4-67fc-4vf4] Puma's header normalization allows for client to clobber proxy set headers,https://github.com/advisories/GHSA-9hf4-67fc-4vf4,https://da.gd/VBcLJu
