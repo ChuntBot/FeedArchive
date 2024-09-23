@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gcx4-mw62-g8wm] DOM Clobbering Gadget found in rollup bundled scripts that leads to XSS,https://github.com/advisories/GHSA-gcx4-mw62-g8wm,https://da.gd/0Inw9
+GithubAdvisories,[GHSA-8fx8-3rg2-79xw] Camaleon CMS vulnerable to stored XSS through user file upload (GHSL-2024-184),https://github.com/advisories/GHSA-8fx8-3rg2-79xw,https://da.gd/mnwS
+GithubAdvisories,[GHSA-3hp8-6j24-m5gm] Camaleon CMS vulnerable to remote code execution through code injection (GHSL-2024-185),https://github.com/advisories/GHSA-3hp8-6j24-m5gm,https://da.gd/ujyoVl
