@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2wq5-g96f-mv3v] Ouch! allows a segmentation fault due to use of uninitialized memory,https://github.com/advisories/GHSA-2wq5-g96f-mv3v,https://da.gd/xnvzKo
+GithubAdvisories,[GHSA-6f62-3596-g6w7] HTTP Request Smuggling in ruby webrick,https://github.com/advisories/GHSA-6f62-3596-g6w7,https://da.gd/yJev3w
