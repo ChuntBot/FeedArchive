@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3fc8-2r3f-8wrg] lobe-chat implemented an insufficient fix for GHSA-mxhq-xw3g-rphc (CVE-2024-32964),https://github.com/advisories/GHSA-3fc8-2r3f-8wrg,https://da.gd/Sp8c
+GithubAdvisories,[GHSA-4m9p-7xg6-f4mm] DataEase has an XML External Entity Reference vulnerability,https://github.com/advisories/GHSA-4m9p-7xg6-f4mm,https://da.gd/uTpxis
+GithubAdvisories,[GHSA-h7mj-m72h-qm8w] DataEase's H2 datasource has a remote command execution risk,https://github.com/advisories/GHSA-h7mj-m72h-qm8w,https://da.gd/ZygRq8
