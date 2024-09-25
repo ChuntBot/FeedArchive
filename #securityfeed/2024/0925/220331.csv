@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-75j2-9gmc-m855] Camaleon CMS vulnerable to stored XSS through user file upload (GHSL-2024-184),https://github.com/advisories/GHSA-75j2-9gmc-m855,https://da.gd/snwHWq
+GithubAdvisories,[GHSA-m842-4qm8-7gpq] Gradio allows users to access arbitrary files,https://github.com/advisories/GHSA-m842-4qm8-7gpq,https://da.gd/iO08ol
