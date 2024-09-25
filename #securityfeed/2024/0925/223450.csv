@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vrcx-gx3g-j3h8] Heap-based Buffer Overflow in sqlite-vec,https://github.com/advisories/GHSA-vrcx-gx3g-j3h8,https://da.gd/UtAmVH
