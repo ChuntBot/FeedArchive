@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-98hf-m87w-cq6h] Mellium allows Authentication Bypass by Spoofing,https://github.com/advisories/GHSA-98hf-m87w-cq6h,https://da.gd/SmpOpY
+GithubAdvisories,[GHSA-74qm-4v7r-jw2f] Heap-based Buffer Overflow in MicroPython,https://github.com/advisories/GHSA-74qm-4v7r-jw2f,https://da.gd/6s49GL
+GithubAdvisories,[GHSA-79gp-q4wv-33fr] Cross-Site Request Forgery (CSRF) in strawberry-graphql,https://github.com/advisories/GHSA-79gp-q4wv-33fr,https://da.gd/98KCr
+GithubAdvisories,[GHSA-pwwp-3q7j-9mx8] Use After Free in MicroPython,https://github.com/advisories/GHSA-pwwp-3q7j-9mx8,https://da.gd/Ezgw80
+GithubAdvisories,[GHSA-rgg8-g5x8-wr9v] Cross-site scripting (XSS) in the clipboard package,https://github.com/advisories/GHSA-rgg8-g5x8-wr9v,https://da.gd/QTXyHi
