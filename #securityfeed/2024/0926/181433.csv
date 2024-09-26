@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h355-hm5h-cm8h] Agnai File Disclosure Vulnerability: JSON via Path Traversal,https://github.com/advisories/GHSA-h355-hm5h-cm8h,https://da.gd/by8O
+GithubAdvisories,[GHSA-mpch-89gm-hm83] Agnai vulnerable to Remote Code Execution via JS Upload using Directory Traversal,https://github.com/advisories/GHSA-mpch-89gm-hm83,https://da.gd/e35nN
+GithubAdvisories,[GHSA-j827-6rgf-9629] Layui has DOM Clobbering gadgets that leads to Cross-site Scripting,https://github.com/advisories/GHSA-j827-6rgf-9629,https://da.gd/2uN4
+GithubAdvisories,[GHSA-wc43-73w7-x2f5] Ory Kratos's setting required_aal `highest_available` does not properly respect code + mfa credentials,https://github.com/advisories/GHSA-wc43-73w7-x2f5,https://da.gd/kuznlb
