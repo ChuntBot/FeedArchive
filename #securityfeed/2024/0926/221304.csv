@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jg74-mwgw-v6x3] Vault SSH Secrets Engine Configuration Did Not Restrict Valid Principals By Default,https://github.com/advisories/GHSA-jg74-mwgw-v6x3,https://da.gd/1LGo7
