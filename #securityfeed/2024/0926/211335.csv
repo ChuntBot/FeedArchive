@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h4h5-9833-v2p4] Rancher agents can be hijacked by taking over the Rancher Server URL,https://github.com/advisories/GHSA-h4h5-9833-v2p4,https://da.gd/i7VEB
