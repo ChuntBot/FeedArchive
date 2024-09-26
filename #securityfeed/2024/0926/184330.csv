@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-2qq7-fch2-phqf] Maven Archetype Plugin: Maven Archetype integration-test may package local settings into the published artifact, possibly containing credentials",https://github.com/advisories/GHSA-2qq7-fch2-phqf,https://da.gd/emU7V
+GithubAdvisories,[GHSA-g54f-66mw-hv66] Agnai vulnerable to Relative Path Traversal in Image Upload,https://github.com/advisories/GHSA-g54f-66mw-hv66,https://da.gd/iFwXd
