@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-59hf-mpf8-pqjh] Mattermost fails to strip `embeds` from `metadata` when broadcasting `posted` events,https://github.com/advisories/GHSA-59hf-mpf8-pqjh,https://da.gd/ENsrxu
