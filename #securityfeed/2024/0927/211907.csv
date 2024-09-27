@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9h9q-qhxg-89xr] Filament has unvalidated ColorColumn and ColorEntry values that can be used for Cross-site Scripting,https://github.com/advisories/GHSA-9h9q-qhxg-89xr,https://da.gd/7V5ki
