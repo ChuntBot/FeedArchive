@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-62r2-gcxr-426x] starcitizentools/citizen-skin vulnerable to stored, self-XSS in the ""real name"" field",https://github.com/advisories/GHSA-62r2-gcxr-426x,https://da.gd/wMttN
+GithubAdvisories,[GHSA-7p89-p6hx-q4fw] basic-auth-connect's callback uses time unsafe string comparison,https://github.com/advisories/GHSA-7p89-p6hx-q4fw,https://da.gd/kPeU
+GithubAdvisories,[GHSA-h5q3-fjp4-2x7r] MantisBT vulnerable to information disclosure with user profiles,https://github.com/advisories/GHSA-h5q3-fjp4-2x7r,https://da.gd/dzSYsM
