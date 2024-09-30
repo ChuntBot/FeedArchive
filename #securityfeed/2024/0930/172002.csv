@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5rfv-66g4-jr8h] RestrictedPython information leakage via `AttributeError.obj` and the `string` module,https://github.com/advisories/GHSA-5rfv-66g4-jr8h,https://da.gd/o3fY9
+GithubAdvisories,[GHSA-jq3f-mfmg-747x] Eclipse Glassfish improperly handles http parameters,https://github.com/advisories/GHSA-jq3f-mfmg-747x,https://da.gd/aF0VBm
