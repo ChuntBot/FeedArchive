@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fhqq-8f65-5xfc] Improper Input Validation in Buildah and Podman,https://github.com/advisories/GHSA-fhqq-8f65-5xfc,https://da.gd/bdXIer
+GithubAdvisories,[GHSA-3h3x-2hwv-hr52] Golang FIPS OpenSSL has a Use of Uninitialized Variable vulnerability,https://github.com/advisories/GHSA-3h3x-2hwv-hr52,https://da.gd/d3j6Q
+GithubAdvisories,[GHSA-mc76-5925-c5p6] Link Following in github.com/containers/common,https://github.com/advisories/GHSA-mc76-5925-c5p6,https://da.gd/dFITM
+GithubAdvisories,[GHSA-m5gv-m5f9-wgv4] Grafana Agent (Flow mode) on Windows has Unquoted Search Path or Element vulnerability,https://github.com/advisories/GHSA-m5gv-m5f9-wgv4,https://da.gd/WzLjFn
+GithubAdvisories,[GHSA-chqx-36rm-rf8h] Grafana Alloy on Windows has Unquoted Search Path or Element vulnerability,https://github.com/advisories/GHSA-chqx-36rm-rf8h,https://da.gd/mFSk3
+GithubAdvisories,[GHSA-4jwc-w2hc-78qv] Tonic has remotely exploitable denial of service vulnerability,https://github.com/advisories/GHSA-4jwc-w2hc-78qv,https://da.gd/Gcuq
+GithubAdvisories,[GHSA-x8gm-j36p-fppf] LibreNMS vulnerable to Stored Cross-site Scripting via File Upload,https://github.com/advisories/GHSA-x8gm-j36p-fppf,https://da.gd/pRux0
