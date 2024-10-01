@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jm9x-rx9x-wpqj] OAuth2 client ID and secret exposed through the web browser,https://github.com/advisories/GHSA-jm9x-rx9x-wpqj,https://da.gd/vjqm
+GithubAdvisories,"[GHSA-7f84-28qh-9486] LibreNMS has Stored Cross-site Scripting vulnerability in ""Alert Transports"" feature",https://github.com/advisories/GHSA-7f84-28qh-9486,https://da.gd/XFdfi
+GithubAdvisories,"[GHSA-fc38-2254-48g7] LibreNMS has Stored Cross-site Scripting vulnerability in ""Device Group"" Name",https://github.com/advisories/GHSA-fc38-2254-48g7,https://da.gd/0WCCVd
+GithubAdvisories,"[GHSA-j2j9-7pr6-xqwv] LibreNMS has Stored Cross-site Scripting vulnerability in ""Alert Rules"" feature",https://github.com/advisories/GHSA-j2j9-7pr6-xqwv,https://da.gd/UjnfFy
+GithubAdvisories,"[GHSA-gcgp-q2jq-fw52] LibreNMS has Stored Cross-site Scripting vulnerability in ""Alert Templates"" feature",https://github.com/advisories/GHSA-gcgp-q2jq-fw52,https://da.gd/K4cT4
+GithubAdvisories,"[GHSA-rwwc-2v8q-gc9v] LibreNMS has Stored Cross-site Scripting vulnerability in ""Device Dependencies"" feature",https://github.com/advisories/GHSA-rwwc-2v8q-gc9v,https://da.gd/1GLnHn
