@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cc4g-m3g7-xmw8] Decidim has a cross-site scripting vulnerability in the version control page,https://github.com/advisories/GHSA-cc4g-m3g7-xmw8,https://da.gd/5IFNQ
+GithubAdvisories,[GHSA-4f8r-qqr9-fq8j] Incorrect delegation lookups can make go-tuf download the wrong artifact,https://github.com/advisories/GHSA-4f8r-qqr9-fq8j,https://da.gd/vHK3
+GithubAdvisories,[GHSA-34q8-jcq6-mc37] uPlot Prototype Pollution vulnerability,https://github.com/advisories/GHSA-34q8-jcq6-mc37,https://da.gd/LCYhv
+GithubAdvisories,[GHSA-qwrq-vxvw-537r] git-shallow-clone OS Command Injection vulnerability,https://github.com/advisories/GHSA-qwrq-vxvw-537r,https://da.gd/kiYZ3
+GithubAdvisories,[GHSA-xw32-6422-frqm] Pagekit Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-xw32-6422-frqm,https://da.gd/NU5Z
