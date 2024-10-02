@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mrw8-5368-phm3] Contao allows admin an account to upload SVG file containing malicious JavaScript,https://github.com/advisories/GHSA-mrw8-5368-phm3,https://da.gd/n8A6yk
+GithubAdvisories,[GHSA-2cc5-429x-p387] Zenario Cross Site Scripting in the Image library,https://github.com/advisories/GHSA-2cc5-429x-p387,https://da.gd/TrQxK
+GithubAdvisories,[GHSA-hxpp-g76m-qhvg] October allows an admin account to upload PDF containing malicious JavaScript,https://github.com/advisories/GHSA-hxpp-g76m-qhvg,https://da.gd/K6HGkx
+GithubAdvisories,[GHSA-3636-hx62-pv26] Zenario allows authenticated admin users to upload PDF files containing malicious code,https://github.com/advisories/GHSA-3636-hx62-pv26,https://da.gd/RR0V
