@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vx3h-qwqw-r2wq] Inventree Server-Side Request Forgery vulnerability exposes server port/internal IP,https://github.com/advisories/GHSA-vx3h-qwqw-r2wq,https://da.gd/EEjDm
+GithubAdvisories,[GHSA-9mjw-79r6-c9m8] Portainer improperly uses an encryption algorithm in the AesEncrypt function,https://github.com/advisories/GHSA-9mjw-79r6-c9m8,https://da.gd/BjHCDj
+GithubAdvisories,"[GHSA-r2jw-c95q-rj29] cocoon Reuses a Nonce, Key Pair in Encryption",https://github.com/advisories/GHSA-r2jw-c95q-rj29,https://da.gd/F5OBe7
