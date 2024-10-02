@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-85qf-6845-m8p2] Duplicate Advisory: Juju Unprotected Alternate Channel vulnerability,https://github.com/advisories/GHSA-85qf-6845-m8p2,https://da.gd/KzwEb
+GithubAdvisories,[GHSA-fc27-7pf5-96v3] Duplicate Advisory: Vulnerable juju hook tool abstract UNIX domain socket,https://github.com/advisories/GHSA-fc27-7pf5-96v3,https://da.gd/nS9Hz
+GithubAdvisories,[GHSA-phh4-3hmm-24rx] Duplicate Advisory: Juju makes Use of Weak Credentials,https://github.com/advisories/GHSA-phh4-3hmm-24rx,https://da.gd/iCmNu
+GithubAdvisories,[GHSA-8pjw-fff6-3mjv] Jenkins OpenId Connect Authentication Plugin lacks issuer claim validation,https://github.com/advisories/GHSA-8pjw-fff6-3mjv,https://da.gd/q7puFR
+GithubAdvisories,[GHSA-49hx-9mm2-7675] Jenkins OpenId Connect Authentication Plugin lacks audience claim validation,https://github.com/advisories/GHSA-49hx-9mm2-7675,https://da.gd/Hy1YhZ
+GithubAdvisories,[GHSA-62jv-j4w7-5hh8] Jenkins Credentials plugin reveals encrypted values of credentials to users with Extended Read permission,https://github.com/advisories/GHSA-62jv-j4w7-5hh8,https://da.gd/vzlXn
+GithubAdvisories,[GHSA-f9qj-77q2-h5c5] Jenkins item creation restriction bypass vulnerability,https://github.com/advisories/GHSA-f9qj-77q2-h5c5,https://da.gd/CTRUc
+GithubAdvisories,[GHSA-pj95-ph4q-4qm4] Jenkins exposes multi-line secrets through error messages,https://github.com/advisories/GHSA-pj95-ph4q-4qm4,https://da.gd/e57xb
+GithubAdvisories,[GHSA-29xx-fhff-36m7] Liferay Portal vulnerable to Denial of Service,https://github.com/advisories/GHSA-29xx-fhff-36m7,https://da.gd/XRLj
