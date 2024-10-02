@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4xqv-47rm-37mm] OpenC3 stores passwords in clear text (`GHSL-2024-129`),https://github.com/advisories/GHSA-4xqv-47rm-37mm,https://da.gd/x3TS
+GithubAdvisories,[GHSA-8jxr-mccc-mwg8] OpenC3 Path Traversal via screen controller (`GHSL-2024-127`),https://github.com/advisories/GHSA-8jxr-mccc-mwg8,https://da.gd/2w0r
+GithubAdvisories,[GHSA-vfj8-5pj7-2f9g] OpenC3 Cross-site Scripting in Login functionality (`GHSL-2024-128`),https://github.com/advisories/GHSA-vfj8-5pj7-2f9g,https://da.gd/kUy7
