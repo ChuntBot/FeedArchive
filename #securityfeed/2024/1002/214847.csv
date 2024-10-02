@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r7rh-jww5-5fjr] Pomerium service account access token may grant unintended access to databroker API,https://github.com/advisories/GHSA-r7rh-jww5-5fjr,https://da.gd/DTezXq
