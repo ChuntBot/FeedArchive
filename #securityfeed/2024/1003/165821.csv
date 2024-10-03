@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xwgj-vpm9-q2rq] Vulnerable juju introspection abstract UNIX domain socket,https://github.com/advisories/GHSA-xwgj-vpm9-q2rq,https://da.gd/zGoiT
+GithubAdvisories,[GHSA-8v4w-f4r9-7h6x] Vulnerable juju hook tool abstract UNIX domain socket,https://github.com/advisories/GHSA-8v4w-f4r9-7h6x,https://da.gd/QpdpK
+GithubAdvisories,[GHSA-x5q3-c8rm-w787] PAM module may allow accessing with the credentials of another user,https://github.com/advisories/GHSA-x5q3-c8rm-w787,https://da.gd/Slnkt
+GithubAdvisories,[GHSA-r7pg-v2c8-mfg3] Apache Avro Java SDK: Arbitrary Code Execution when reading Avro Data (Java SDK),https://github.com/advisories/GHSA-r7pg-v2c8-mfg3,https://da.gd/9b024
+GithubAdvisories,[GHSA-78wr-2p64-hpwj] Apache Commons IO: Possible denial of service attack on untrusted input to XmlStreamReader,https://github.com/advisories/GHSA-78wr-2p64-hpwj,https://da.gd/teELoO
+GithubAdvisories,[GHSA-wpr2-j6gr-pjw9] OpenTofu potential leaking of secret variable values when using static evaluation in v1.8,https://github.com/advisories/GHSA-wpr2-j6gr-pjw9,https://da.gd/SniAd
+GithubAdvisories,[GHSA-qc4v-xq2m-65wc] Unexpected visibility of environment variable configurations in @backstage/plugin-app-backend,https://github.com/advisories/GHSA-qc4v-xq2m-65wc,https://da.gd/ja7D1x
+GithubAdvisories,[GHSA-mh98-763h-m9v4] JUJU_CONTEXT_ID is a predictable authentication secret,https://github.com/advisories/GHSA-mh98-763h-m9v4,https://da.gd/jKiXbx
