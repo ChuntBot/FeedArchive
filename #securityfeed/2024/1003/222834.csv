@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fm76-w8jw-xf8m] @saltcorn/plugins-loader unsanitized plugin name leads to a remote code execution (RCE) vulnerability when creating plugins using git source,https://github.com/advisories/GHSA-fm76-w8jw-xf8m,https://da.gd/5jCNX
