@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6784-9c82-vr85] Injection of arbitrary HTML/JavaScript code through the media download URL,https://github.com/advisories/GHSA-6784-9c82-vr85,https://da.gd/IUPuQ
+GithubAdvisories,[GHSA-255w-87rh-rg44] Cross-site Scripting via uploaded SVG,https://github.com/advisories/GHSA-255w-87rh-rg44,https://da.gd/fZIPFM
