@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-78p3-fwcq-62c2] @saltcorn/server Remote Code Execution (RCE) / SQL injection via prototype pollution by manipulating `lang` and `defstring` parameters when setting localizer strings,https://github.com/advisories/GHSA-78p3-fwcq-62c2,https://da.gd/juoL
+GithubAdvisories,[GHSA-cfqx-f43m-vfh7] @saltcorn/server arbitrary file and directory listing when accessing build mobile app results,https://github.com/advisories/GHSA-cfqx-f43m-vfh7,https://da.gd/NRzHv
+GithubAdvisories,[GHSA-277h-px4m-62q8] @saltcorn/server arbitrary file zip read and download when downloading auto backups,https://github.com/advisories/GHSA-277h-px4m-62q8,https://da.gd/KjD4v
