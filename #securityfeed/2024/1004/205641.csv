@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8h22-6qwx-q4w9] OpenStack Ironic fails to verify checksums of supplied image_source URLs,https://github.com/advisories/GHSA-8h22-6qwx-q4w9,https://da.gd/jQAw
+GithubAdvisories,"[GHSA-pxg6-pf52-xh8x] cookie accepts cookie name, path, and domain with out of bounds characters",https://github.com/advisories/GHSA-pxg6-pf52-xh8x,https://da.gd/ZDCWvi
