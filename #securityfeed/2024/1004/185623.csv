@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wwcp-26wc-3fxm] JSON-lib mishandles an unbalanced comment string,https://github.com/advisories/GHSA-wwcp-26wc-3fxm,https://da.gd/iqJK
+GithubAdvisories,[GHSA-q898-frwq-f3qp] Minecraft MOTD Parser's HtmlGenerator vulnerable to XSS,https://github.com/advisories/GHSA-q898-frwq-f3qp,https://da.gd/VH1we
+GithubAdvisories,[GHSA-8xq9-g7ch-35hg] Parse Server's custom object ID allows to acquire role privileges,https://github.com/advisories/GHSA-8xq9-g7ch-35hg,https://da.gd/Kaspt
