@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Zeek 6.0.8,https://packetstormsecurity.com/files/182016/zeek-6.0.8.tar.gz,https://da.gd/2Dzzs
+PacketstormSecurity,ABB Cylon Aspect 3.07.02 Authenticated File Disclosure,https://packetstormsecurity.com/files/182015/ZSL-2024-5831.txt,https://da.gd/L2GhWV
+PacketstormSecurity,Debian Security Advisory 5784-1,https://packetstormsecurity.com/files/182014/dsa-5784-1.txt,https://da.gd/d2Xml
+PacketstormSecurity,Debian Security Advisory 5783-1,https://packetstormsecurity.com/files/182013/dsa-5783-1.txt,https://da.gd/MpIlO8
+PacketstormSecurity,TeamViewer Privilege Escalation,https://packetstormsecurity.com/files/182012/CVE-2024-7479_CVE-2024-7481-main.zip,https://da.gd/rwzCYW
+PacketstormSecurity,Debian Security Advisory 5782-1,https://packetstormsecurity.com/files/182010/dsa-5782-1.txt,https://da.gd/oOJMw
+PacketstormSecurity,MD-Pro 1.0.76 Shell Upload / SQL Injection,https://packetstormsecurity.com/files/182008/mdpro1076-sqlshell.txt,https://da.gd/KyrX
+PacketstormSecurity,Computer Laboratory Management System 2024 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/182007/clms202410-xss.txt,https://da.gd/in8BiG
+PacketstormSecurity,Acronis Cyber Infrastructure 5.0.1-61 Cross Site Request Forgery,https://packetstormsecurity.com/files/182005/acronisci50161-xsrf.txt,https://da.gd/EhXxKg
+PacketstormSecurity,Vehicle Service Management System 1.0 WYSIWYG Code Injection,https://packetstormsecurity.com/files/182004/vsms10-inject.txt,https://da.gd/4KoK
+PacketstormSecurity,Vehicle Service Management System 1.0 Code Injection,https://packetstormsecurity.com/files/182003/vsms10-exec.txt,https://da.gd/3P9DY
+PacketstormSecurity,Transport Management System 1.0 Arbitrary File Upload,https://packetstormsecurity.com/files/182002/transportms10-upload.txt,https://da.gd/Jqw2
+PacketstormSecurity,Transport Management System 1.0 Code Injection,https://packetstormsecurity.com/files/182001/transportms10-exec.txt,https://da.gd/ZIk4zy
+PacketstormSecurity,ManageEngine ADManager 7183 Password Hash Disclosure,https://packetstormsecurity.com/files/182000/meadmanager7183-disclose.txt,https://da.gd/2I3wY
+PacketstormSecurity,fastrpc_mmap_create Use-After-Free,https://packetstormsecurity.com/files/181999/GS2024100442451715.tgz,https://da.gd/GxlcO
+PacketstormSecurity,fastrpc_mmap_find Information Leak,https://packetstormsecurity.com/files/181998/GS2024100442461713.txt,https://da.gd/EFq8Q
+PacketstormSecurity,Android qrtr_bpf_filter_detach Double-Free / Use-After-Free,https://packetstormsecurity.com/files/181997/GS2024100424251712.txt,https://da.gd/9OO9K
