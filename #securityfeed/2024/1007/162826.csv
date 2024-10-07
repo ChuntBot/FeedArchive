@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6hwr-6v2f-3m88] XXE in PHPSpreadsheet's XLSX reader,https://github.com/advisories/GHSA-6hwr-6v2f-3m88,https://da.gd/xh9Og
+GithubAdvisories,[GHSA-r8w8-74ww-j4wh] PhpSpreadsheet HTML writer is vulnerable to Cross-Site Scripting via JavaScript hyperlinks,https://github.com/advisories/GHSA-r8w8-74ww-j4wh,https://da.gd/jUMF
+GithubAdvisories,[GHSA-w9xv-qf98-ccq4] PhpSpreadsheet allows absolute path traversal and Server-Side Request Forgery in HTML writer when embedding images is enabled,https://github.com/advisories/GHSA-w9xv-qf98-ccq4,https://da.gd/4xBAPb
+GithubAdvisories,[GHSA-5gpr-w2p5-6m37] PhpSpreadsheet allows absolute path traversal and Server-Side Request Forgery when opening XLSX file,https://github.com/advisories/GHSA-5gpr-w2p5-6m37,https://da.gd/jUIIfU
