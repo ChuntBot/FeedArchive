@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c6cw-g7fc-4gwc] Lara-zeus Dynamic Dashboard and Artemis do not validate paragraph widget values which can be used for XSS,https://github.com/advisories/GHSA-c6cw-g7fc-4gwc,https://da.gd/SCr0H
+GithubAdvisories,[GHSA-jqvm-9xm2-gc38] Mediawiki Cargo extension vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-jqvm-9xm2-gc38,https://da.gd/rrhh12
+GithubAdvisories,[GHSA-v66g-p9x6-v98p] PhpSpreadsheet has an Unauthenticated Cross-Site-Scripting (XSS) in sample file,https://github.com/advisories/GHSA-v66g-p9x6-v98p,https://da.gd/VfgRl
