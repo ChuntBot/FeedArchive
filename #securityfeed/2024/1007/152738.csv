@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pf56-h9qf-rxq4] Saltcorn Server Stored Cross-Site Scripting (XSS) in event logs page,https://github.com/advisories/GHSA-pf56-h9qf-rxq4,https://da.gd/PniZ4n
+GithubAdvisories,[GHSA-43f3-h63w-p6f6] Saltcorn Server allows logged-in users to delete arbitrary files because of a path traversal vulnerability,https://github.com/advisories/GHSA-43f3-h63w-p6f6,https://da.gd/4dDz
