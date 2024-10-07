@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gfp2-w5jm-955q] OMERO.web exposes some unnecessary session information in the page,https://github.com/advisories/GHSA-gfp2-w5jm-955q,https://da.gd/BStf
+GithubAdvisories,[GHSA-rfw2-x9f8-2f6m] LinkedIn Oncall vulnerable to Cross-Site Scripting,https://github.com/advisories/GHSA-rfw2-x9f8-2f6m,https://da.gd/mriE3
