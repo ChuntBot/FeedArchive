@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-74q2-6jp4-3rqq] Krayin CRM vulnerable to Cross Site Scripting (XSS) via the organization name,https://github.com/advisories/GHSA-74q2-6jp4-3rqq,https://da.gd/N6AdO
+GithubAdvisories,[GHSA-c7xm-rwqj-pgcj] LimeSurvey Cross Site Scripting vulnerability,https://github.com/advisories/GHSA-c7xm-rwqj-pgcj,https://da.gd/35Z39
+GithubAdvisories,[GHSA-632q-77qj-c89q] LimeSurvey Cross Site Scripting vulnerability,https://github.com/advisories/GHSA-632q-77qj-c89q,https://da.gd/H2JKpu
