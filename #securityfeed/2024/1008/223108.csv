@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jqh2-ch7p-xwxh] Quarkus CXF logs passwords and other secrets,https://github.com/advisories/GHSA-jqh2-ch7p-xwxh,https://da.gd/CYH0yB
+GithubAdvisories,[GHSA-5wpr-cj9p-959r] HTTP Request Smuggling Leading to Client Timeouts in resteasy-netty4,https://github.com/advisories/GHSA-5wpr-cj9p-959r,https://da.gd/EmGN7
+GithubAdvisories,[GHSA-9722-9j67-vjcr] Improper Authorization in Select Permissions,https://github.com/advisories/GHSA-9722-9j67-vjcr,https://da.gd/sdOlOb
+GithubAdvisories,[GHSA-qjrv-v6qp-x99x] SurrealDB has an Uncaught Exception Handling Parsing Errors on Empty Strings,https://github.com/advisories/GHSA-qjrv-v6qp-x99x,https://da.gd/CVGiw9
+GithubAdvisories,[GHSA-f3cx-396f-7jqp] Livewire Remote Code Execution on File Uploads,https://github.com/advisories/GHSA-f3cx-396f-7jqp,https://da.gd/h0Yjp
+GithubAdvisories,[GHSA-ffcv-v6pw-qhrp] Denial of Service in TYPO3 Bookmark Toolbar,https://github.com/advisories/GHSA-ffcv-v6pw-qhrp,https://da.gd/ZCeLS
