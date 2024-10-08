@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rrqc-c2jx-6jgv] Django allows enumeration of user e-mail addresses,https://github.com/advisories/GHSA-rrqc-c2jx-6jgv,https://da.gd/5Ns742
+GithubAdvisories,[GHSA-5hgc-2vfp-mqvc] Django vulnerable to denial-of-service attack via the urlize() and urlizetrunc() template filters,https://github.com/advisories/GHSA-5hgc-2vfp-mqvc,https://da.gd/8LBkAC
