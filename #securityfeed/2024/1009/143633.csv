@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pfr9-2p92-qrhq] Databento Binary Encoding (DBN) has a heap buffer overflow using c_chars_to_str function,https://github.com/advisories/GHSA-pfr9-2p92-qrhq,https://da.gd/kAjBvF
+GithubAdvisories,[GHSA-cp6c-p9xp-q9qw] Malware in shmam-test-npm-test-5,https://github.com/advisories/GHSA-cp6c-p9xp-q9qw,https://da.gd/0AHP
