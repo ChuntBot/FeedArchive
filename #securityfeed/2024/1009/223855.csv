@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xcvc-5hgv-phqg] open-webui Insecure Direct Object Reference (IDOR) vulnerability,https://github.com/advisories/GHSA-xcvc-5hgv-phqg,https://da.gd/Ek0t
+GithubAdvisories,[GHSA-mq92-jr35-ffpc] open-webui allows enumeration of file names and traversal of directories by observing the error messages,https://github.com/advisories/GHSA-mq92-jr35-ffpc,https://da.gd/upfyR
+GithubAdvisories,[GHSA-54f4-v6v9-9q82] open-webui allows writing and deleting arbitrary files,https://github.com/advisories/GHSA-54f4-v6v9-9q82,https://da.gd/ymXdYy
