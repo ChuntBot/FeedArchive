@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-586p-749j-fhwp] Buildah allows arbitrary directory mount,https://github.com/advisories/GHSA-586p-749j-fhwp,https://da.gd/aGOEF
+GithubAdvisories,[GHSA-7qmx-3fpx-r45m] Wasmtime race condition could lead to WebAssembly control-flow integrity and type safety violations,https://github.com/advisories/GHSA-7qmx-3fpx-r45m,https://da.gd/ujj0S
+GithubAdvisories,[GHSA-q8hx-mm92-4wvg] wasmtime has a runtime crash when combining tail calls with trapping imports,https://github.com/advisories/GHSA-q8hx-mm92-4wvg,https://da.gd/2itG0I
