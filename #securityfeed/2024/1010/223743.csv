@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rr8j-7w34-xp5j] Vault Community Edition privilege escalation vulnerability,https://github.com/advisories/GHSA-rr8j-7w34-xp5j,https://da.gd/xrNEd
+GithubAdvisories,[GHSA-26jh-r8g2-6fpr] Gradio's dropdown component pre-process step does not limit the values to those in the dropdown list,https://github.com/advisories/GHSA-26jh-r8g2-6fpr,https://da.gd/S1IRsp
+GithubAdvisories,"[GHSA-gvv6-33j7-884g] Gradio has an XSS on every Gradio server via upload of HTML files, JS files, or SVG files",https://github.com/advisories/GHSA-gvv6-33j7-884g,https://da.gd/JJpgm
+GithubAdvisories,[GHSA-279j-x4gx-hfrh] Gradio uses insecure communication between the FRP client and server,https://github.com/advisories/GHSA-279j-x4gx-hfrh,https://da.gd/9doIY9
