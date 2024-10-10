@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-37qc-qgx6-9xjv] Gradio has a one-level read path traversal in `/custom_component`,https://github.com/advisories/GHSA-37qc-qgx6-9xjv,https://da.gd/IY3MZ
+GithubAdvisories,[GHSA-89v2-pqfv-c5r9] Gradio's CORS origin validation accepts the null origin,https://github.com/advisories/GHSA-89v2-pqfv-c5r9,https://da.gd/paXgU
+GithubAdvisories,[GHSA-77xq-6g77-h274] Gradio's `is_in_or_equal` function may be bypassed,https://github.com/advisories/GHSA-77xq-6g77-h274,https://da.gd/cOXXPT
+GithubAdvisories,[GHSA-3c67-5hwx-f6wx] Gradios's CORS origin validation is not performed when the request has a cookie,https://github.com/advisories/GHSA-3c67-5hwx-f6wx,https://da.gd/xE1XAA
