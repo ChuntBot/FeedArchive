@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4gfw-wf7c-w6g2] Authd allows attacker-controlled usernames to yield controllable UIDs,https://github.com/advisories/GHSA-4gfw-wf7c-w6g2,https://da.gd/ETKUK
+GithubAdvisories,"[GHSA-27vh-h6mc-q6g8] btcd did not correctly re-implement Bitcoin Core's ""FindAndDelete()"" functionality",https://github.com/advisories/GHSA-27vh-h6mc-q6g8,https://da.gd/atoWZf
