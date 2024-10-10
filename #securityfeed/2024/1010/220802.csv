@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xh2x-3mrm-fwqm] Gradio has a race condition in update_root_in_config may redirect user traffic,https://github.com/advisories/GHSA-xh2x-3mrm-fwqm,https://da.gd/HjwWQ
+GithubAdvisories,[GHSA-j757-pf57-f8r4] Gradio performs a non-constant-time comparison when comparing hashes,https://github.com/advisories/GHSA-j757-pf57-f8r4,https://da.gd/EBfQ4
+GithubAdvisories,[GHSA-4q3c-cj7g-jcwf] Gradio has several components with post-process steps allow arbitrary file leaks,https://github.com/advisories/GHSA-4q3c-cj7g-jcwf,https://da.gd/MvRjXU
+GithubAdvisories,[GHSA-8c87-gvhj-xm8m] Gradio lacks integrity checking on the downloaded FRP client,https://github.com/advisories/GHSA-8c87-gvhj-xm8m,https://da.gd/vxxd
+GithubAdvisories,[GHSA-576c-3j53-r9jj] Gradio vulnerable to SSRF in the path parameter of /queue/join,https://github.com/advisories/GHSA-576c-3j53-r9jj,https://da.gd/9Js8
+GithubAdvisories,"[GHSA-hm3c-93pg-4cxw] In Gradio, the `enable_monitoring` flag set to `False` does not disable monitoring",https://github.com/advisories/GHSA-hm3c-93pg-4cxw,https://da.gd/9v6dtM
