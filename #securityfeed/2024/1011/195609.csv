@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vgxq-6rcf-qwrw] angular-base64-upload vulnerable to unauthenticated remote code execution,https://github.com/advisories/GHSA-vgxq-6rcf-qwrw,https://da.gd/HZ3OP
+GithubAdvisories,[GHSA-6h64-g7cj-hj56] Lord of Large Language Models (LoLLMs) path traversal vulnerability in the api open_personality_folder endpoint,https://github.com/advisories/GHSA-6h64-g7cj-hj56,https://da.gd/UVt7
