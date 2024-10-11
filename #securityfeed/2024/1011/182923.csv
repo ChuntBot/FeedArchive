@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c89g-gq5r-2xw2] Magento Open Source stored Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-c89g-gq5r-2xw2,https://da.gd/ROWVV
+GithubAdvisories,[GHSA-qpp7-742q-58j3] Magento Open Source Improper Authorization vulnerability,https://github.com/advisories/GHSA-qpp7-742q-58j3,https://da.gd/S7PDRS
+GithubAdvisories,[GHSA-88x2-cq34-5fwc] Magento Open Source reflected Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-88x2-cq34-5fwc,https://da.gd/kMaNeT
+GithubAdvisories,[GHSA-m58h-998x-66f3] Magento Open Source Improper Access Control vulnerability,https://github.com/advisories/GHSA-m58h-998x-66f3,https://da.gd/aIpcjl
+GithubAdvisories,[GHSA-xg36-8c2v-jpxh] Magento Open Source Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-xg36-8c2v-jpxh,https://da.gd/ZD0xMN
+GithubAdvisories,[GHSA-w3p2-pc3h-69wv] Magento Open Source Improper Access Control vulnerability,https://github.com/advisories/GHSA-w3p2-pc3h-69wv,https://da.gd/VLClVi
+GithubAdvisories,[GHSA-j3mh-wx5f-2vhg] Magento Open Source Information Exposure vulnerability,https://github.com/advisories/GHSA-j3mh-wx5f-2vhg,https://da.gd/xioI
+GithubAdvisories,[GHSA-xc5p-773w-m3pm] Magento Open Source Improper Authorization vulnerability,https://github.com/advisories/GHSA-xc5p-773w-m3pm,https://da.gd/R0BeF
+GithubAdvisories,[GHSA-4f89-5cwm-rm5g] Magento Open Source Information Exposure vulnerability,https://github.com/advisories/GHSA-4f89-5cwm-rm5g,https://da.gd/6nWk1R
+GithubAdvisories,[GHSA-5f64-ppmg-cvvm] Magento Open Source Improper Authorization vulnerability,https://github.com/advisories/GHSA-5f64-ppmg-cvvm,https://da.gd/ORzZT
+GithubAdvisories,[GHSA-8pxg-gcp4-57ww] Magento Open Source Improper Access Control vulnerability,https://github.com/advisories/GHSA-8pxg-gcp4-57ww,https://da.gd/DXhks
+GithubAdvisories,[GHSA-47jp-46c9-25vf] Magento Open Source Time-of-check Time-of-use (TOCTOU) Race Condition vulnerability,https://github.com/advisories/GHSA-47jp-46c9-25vf,https://da.gd/uHfMcr
+GithubAdvisories,[GHSA-g9fm-wc6h-pvgj] Magento Open Source Server-Side Request Forgery (SSRF) vulnerability,https://github.com/advisories/GHSA-g9fm-wc6h-pvgj,https://da.gd/X6O19
+GithubAdvisories,[GHSA-8rm2-93mq-jqhc] Extract has insufficient checks allowing attacker to create symlinks outside the extraction directory,https://github.com/advisories/GHSA-8rm2-93mq-jqhc,https://da.gd/n1qW5S
