@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m85w-3h95-hcf9] DOM Clobbering Gadget found in astro's client-side router that leads to XSS,https://github.com/advisories/GHSA-m85w-3h95-hcf9,https://da.gd/FqD8pG
