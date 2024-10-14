@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vv6c-69r6-chg9] Go-Landlock in best-effort mode did not restrict TCP bind and connect operations correctly,https://github.com/advisories/GHSA-vv6c-69r6-chg9,https://da.gd/Vt0H7
