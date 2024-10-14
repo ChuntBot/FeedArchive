@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-443j-grxv-2pgv] Apache ActiveMQ Artemis: Authenticated users could perform RCE via Jolokia MBeans,https://github.com/advisories/GHSA-443j-grxv-2pgv,https://da.gd/JSEYS
+GithubAdvisories,[GHSA-pf5v-pqfv-x8jj] OpenCanary Executes Commands From Potentially Writable Config File,https://github.com/advisories/GHSA-pf5v-pqfv-x8jj,https://da.gd/MRwLD
+GithubAdvisories,[GHSA-j26w-f9rq-mr2q] Eclipse Jetty has a denial of service vulnerability on DosFilter,https://github.com/advisories/GHSA-j26w-f9rq-mr2q,https://da.gd/ukOMF8
+GithubAdvisories,[GHSA-qh8g-58pp-2wxh] Eclipse Jetty URI parsing of invalid authority,https://github.com/advisories/GHSA-qh8g-58pp-2wxh,https://da.gd/sspE
+GithubAdvisories,[GHSA-g8m5-722r-8whq] Eclipse Jetty's ThreadLimitHandler.getRemote() vulnerable to remote DoS attacks,https://github.com/advisories/GHSA-g8m5-722r-8whq,https://da.gd/nx0LW
+GithubAdvisories,[GHSA-r7m4-f9h5-gr79] Eclipse Jetty's PushSessionCacheFilter can cause remote DoS attacks,https://github.com/advisories/GHSA-r7m4-f9h5-gr79,https://da.gd/OPDb
+GithubAdvisories,[GHSA-3c32-4hq9-6wgj] SpiceDB calls to LookupResources using LookupResources2 with caveats may return context is missing when it is not,https://github.com/advisories/GHSA-3c32-4hq9-6wgj,https://da.gd/z4yM
+GithubAdvisories,[GHSA-xmmm-jw76-q7vg] One Time Passcode (OTP) is valid longer than expiration timeSeverity,https://github.com/advisories/GHSA-xmmm-jw76-q7vg,https://da.gd/bOFGW
+GithubAdvisories,[GHSA-5rxp-2rhr-qwqv] Session fixation in Elytron SAML adapters,https://github.com/advisories/GHSA-5rxp-2rhr-qwqv,https://da.gd/c9fNa
+GithubAdvisories,[GHSA-w8gr-xwp4-r9f7] Vulnerable Redirect URI Validation Results in Open Redirect,https://github.com/advisories/GHSA-w8gr-xwp4-r9f7,https://da.gd/UayGX1
+GithubAdvisories,[GHSA-xgfv-xpx8-qhcr] Improper Verification of SAML Responses Leading to Privilege Escalation in Keycloak,https://github.com/advisories/GHSA-xgfv-xpx8-qhcr,https://da.gd/VZAY
