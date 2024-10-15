@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h47h-mwp9-c6q6] Possible ReDoS vulnerability in block_format in Action Mailer,https://github.com/advisories/GHSA-h47h-mwp9-c6q6,https://da.gd/um41A
+GithubAdvisories,[GHSA-x76w-6vjr-8xgj] Possible ReDoS vulnerability in query parameter filtering in Action Dispatch,https://github.com/advisories/GHSA-x76w-6vjr-8xgj,https://da.gd/6i0rFM
+GithubAdvisories,[GHSA-vfg9-r3fq-jvx4] Possible ReDoS vulnerability in HTTP Token authentication in Action Controller,https://github.com/advisories/GHSA-vfg9-r3fq-jvx4,https://da.gd/AR1Zd
+GithubAdvisories,[GHSA-wwhv-wxv9-rpgw] Possible ReDoS vulnerability in plain_text_for_blockquote_node in Action Text,https://github.com/advisories/GHSA-wwhv-wxv9-rpgw,https://da.gd/NpPJH
