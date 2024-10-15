@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommitStaging,fix: added tls1.0/1.1 patch for openssl when using older tls versions…,https://github.com/mailcow/mailcow-dockerized/commit/fda95301ba62fa1b354d177aa0e88526d9e6fd9e,https://da.gd/F1eCv
+GithubCommitStaging,chore(deps): update thollander/actions-comment-pull-request action to…,https://github.com/mailcow/mailcow-dockerized/commit/54a0d53deb16fa3089d8717fd9e6c5b833a8d82e,https://da.gd/9dVaB
+GithubCommitStaging,update postscreen_access.cidr (#6093),https://github.com/mailcow/mailcow-dockerized/commit/1538fda71c7b615cffb4382b695fbbb45de21708,https://da.gd/s0gdH
+GithubCommitStaging,chore(deps): update dependency nextcloud/server to v28.0.11 (#6101),https://github.com/mailcow/mailcow-dockerized/commit/932cf453de345f6546832e958e8e3f3779212cdc,https://da.gd/06Kb5
+GithubCommitStaging,chore(deps): update dependency phpredis/phpredis to v6.1.0 (#6098),https://github.com/mailcow/mailcow-dockerized/commit/9a58e5e35a8e8484a7c3d68c1e0dc11fe2fcba98,https://da.gd/fKCm
