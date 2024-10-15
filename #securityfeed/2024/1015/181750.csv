@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f96h-pmfr-66vw] Starlette Denial of service (DoS) via multipart/form-data,https://github.com/advisories/GHSA-f96h-pmfr-66vw,https://da.gd/PyigN
+GithubAdvisories,[GHSA-qcvh-p9jq-wp8v] Malicious homeservers can steal message keys when the matrix-react-sdk user invites another user to a room,https://github.com/advisories/GHSA-qcvh-p9jq-wp8v,https://da.gd/Qr8DF
+GithubAdvisories,[GHSA-4jf8-g8wp-cx7c] Matrix JavaScript SDK's key history sharing could share keys to malicious devices,https://github.com/advisories/GHSA-4jf8-g8wp-cx7c,https://da.gd/xzQZc1
+GithubAdvisories,[GHSA-4r7v-whpg-8rx3] changedetection.io has a Server Side Template Injection using Jinja2 which allows Remote Command Execution,https://github.com/advisories/GHSA-4r7v-whpg-8rx3,https://da.gd/y6VX6E
+GithubAdvisories,[GHSA-r9mq-3c9r-fmjq] Vendure asset server plugin has local file read vulnerability with AssetServerPlugin & LocalAssetStorageStrategy,https://github.com/advisories/GHSA-r9mq-3c9r-fmjq,https://da.gd/B9d5mY
