@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2234-fmw7-43wr] Hano allows bypass of CSRF Middleware by a request without Content-Type header,https://github.com/advisories/GHSA-2234-fmw7-43wr,https://da.gd/t2e45
+GithubAdvisories,[GHSA-4wx3-54gh-9fr9] Cross site scripting in markdown-to-jsx,https://github.com/advisories/GHSA-4wx3-54gh-9fr9,https://da.gd/xQ7cn
+GithubAdvisories,[GHSA-fmj7-7gfw-64pg] Agent Dart is missing certificate verification checks,https://github.com/advisories/GHSA-fmj7-7gfw-64pg,https://da.gd/J64gKL
