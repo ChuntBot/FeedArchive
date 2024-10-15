@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f8x4-f32r-w556] PyO3 has a risk of use-after-free in `borrowed` reads from Python weak references,https://github.com/advisories/GHSA-f8x4-f32r-w556,https://da.gd/ubuSb
+GithubAdvisories,[GHSA-cx95-q6gx-w4qp] SAK-50571 Sakai Kernel users created with type roleview can login as a normal user,https://github.com/advisories/GHSA-cx95-q6gx-w4qp,https://da.gd/zKpd9
