@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6jgw-rgmm-7cv6] PyO3 has a risk of use-after-free in `borrowed` reads from Python weak references,https://github.com/advisories/GHSA-6jgw-rgmm-7cv6,https://da.gd/ajFHDF
