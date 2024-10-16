@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7q36-4xx7-xcxf] Untrusted data can lead to DoS attack due to hash collisions and stack overflow in MessagePack,https://github.com/advisories/GHSA-7q36-4xx7-xcxf,https://da.gd/oS0eg
