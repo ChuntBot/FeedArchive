@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,postfix: add X-Original-To header per default (#6110),https://github.com/mailcow/mailcow-dockerized/commit/c53bf85480697c24912214bf74a1718a73052a06,https://da.gd/2b7a
+GithubCommitStaging,php: upgrade to alpine 3.20 (base os) (#6106),https://github.com/mailcow/mailcow-dockerized/commit/8dcaffe925f095630ab194fbd5efa8b71d3731c1,https://da.gd/XTJOCT
