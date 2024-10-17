@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4qm4-8hg2-g2xm] MessagePack allows untrusted data to lead to DoS attack due to hash collisions and stack overflow,https://github.com/advisories/GHSA-4qm4-8hg2-g2xm,https://da.gd/yg9Rzr
