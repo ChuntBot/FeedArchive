@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8cp5-3rf8-8gfh] DeepSpeed Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-8cp5-3rf8-8gfh,https://da.gd/S8u5z
+GithubAdvisories,[GHSA-37gm-h5wr-pf25] Path traversal in redaxo,https://github.com/advisories/GHSA-37gm-h5wr-pf25,https://da.gd/0qKe4D
+GithubAdvisories,[GHSA-fc9h-whq2-v747] Valid ECDSA signatures erroneously rejected in Elliptic,https://github.com/advisories/GHSA-fc9h-whq2-v747,https://da.gd/NPUi
