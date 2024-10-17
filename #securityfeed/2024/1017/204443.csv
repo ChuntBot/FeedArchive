@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8jpg-62jc-hwhr] VM images built with Image Builder with some providers use default credentials during builds in github.com/kubernetes-sigs/image-builder,https://github.com/advisories/GHSA-8jpg-62jc-hwhr,https://da.gd/tn2hgZ
+GithubAdvisories,[GHSA-9224-ggvw-wh7v] VM images built with Image Builder and Proxmox provider use default credentials in github.com/kubernetes-sigs/image-builder,https://github.com/advisories/GHSA-9224-ggvw-wh7v,https://da.gd/xESgnI
