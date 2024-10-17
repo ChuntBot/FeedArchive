@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-crmj-qh74-2r36] Exiv2 has a denial of service due to unbounded recursion in QuickTimeVideo::multipleEntriesDecoder,https://github.com/advisories/GHSA-crmj-qh74-2r36,https://da.gd/g9SNgp
+GithubAdvisories,[GHSA-g9xm-7538-mq8w] Exiv2 has an out-of-bounds read in QuickTimeVideo::NikonTagsDecoder,https://github.com/advisories/GHSA-g9xm-7538-mq8w,https://da.gd/QEWX2
