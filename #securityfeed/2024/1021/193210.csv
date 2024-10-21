@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3wwx-63fv-pfq6] Cilium's CIDR deny policies may not take effect when a more narrow CIDR allow is present,https://github.com/advisories/GHSA-3wwx-63fv-pfq6,https://da.gd/eRUd26
