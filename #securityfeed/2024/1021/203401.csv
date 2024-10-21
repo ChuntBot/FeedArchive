@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vwcg-7xqw-qcxw] Heap Overflow in PyMiniRacer,https://github.com/advisories/GHSA-vwcg-7xqw-qcxw,https://da.gd/YSoi
+GithubAdvisories,[GHSA-h92m-42h4-82f6] postfix-mta-sts-resolver Algorithm Downgrade vulnerability,https://github.com/advisories/GHSA-h92m-42h4-82f6,https://da.gd/9B7xD
+GithubAdvisories,[GHSA-gg2g-m5wc-vccq] Rebuild-bot workflow may allow unauthorised repository modifications,https://github.com/advisories/GHSA-gg2g-m5wc-vccq,https://da.gd/4btX
