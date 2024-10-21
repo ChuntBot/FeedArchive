@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-584q-6j8j-r5pm] secp256k1-node allows private key extraction over ECDH,https://github.com/advisories/GHSA-584q-6j8j-r5pm,https://da.gd/YDw7Bp
