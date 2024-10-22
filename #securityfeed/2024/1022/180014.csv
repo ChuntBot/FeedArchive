@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fp6q-gccw-7qqm] Umbraco CMS logout page displayed before session expiration,https://github.com/advisories/GHSA-fp6q-gccw-7qqm,https://da.gd/qErG
+GithubAdvisories,[GHSA-4gp9-ff99-j6vj] Umbraco CMS Improper Access Control Vulnerability Allows Low-Privilege Users to Access Webhook API,https://github.com/advisories/GHSA-4gp9-ff99-j6vj,https://da.gd/8K81
+GithubAdvisories,"[GHSA-c5g6-6xf7-qxp3] Umbraco CMS vulnerable to stored Cross-site Scripting in the ""dictionary name"" on Dictionary section",https://github.com/advisories/GHSA-c5g6-6xf7-qxp3,https://da.gd/0mkHY
