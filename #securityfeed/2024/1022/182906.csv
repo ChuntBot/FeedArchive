@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m4gq-x24j-jpmf] Mermaid allows prototype pollution in bundled version of DOMPurify,https://github.com/advisories/GHSA-m4gq-x24j-jpmf,https://da.gd/raYc6
+GithubAdvisories,[GHSA-3vpc-4p9p-47hc] curl_cffi bundles a version of libcurl affected by High Severity vulnerability,https://github.com/advisories/GHSA-3vpc-4p9p-47hc,https://da.gd/KOLke
+GithubAdvisories,[GHSA-wxw9-6pv9-c3xc] Umbraco CMS Has Incomplete Server Termination During Explicit Sign-Out,https://github.com/advisories/GHSA-wxw9-6pv9-c3xc,https://da.gd/7kdt4T
+GithubAdvisories,[GHSA-5955-cwv4-h7qh] Umbraco has a Potential Code Execution Risk When Viewing SVG Files in Full Screen in Backoffice,https://github.com/advisories/GHSA-5955-cwv4-h7qh,https://da.gd/0BvXc
