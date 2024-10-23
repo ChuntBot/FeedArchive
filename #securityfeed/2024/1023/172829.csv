@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-hf59-7rwq-785m] In AshPostgres, empty, atomic, non-bulk actions, policy bypass for side-effects vulnerability",https://github.com/advisories/GHSA-hf59-7rwq-785m,https://da.gd/kbagq
+GithubAdvisories,[GHSA-hhxg-rvc9-8726] camaleon_cms affected by cross site scripting,https://github.com/advisories/GHSA-hhxg-rvc9-8726,https://da.gd/73APB
