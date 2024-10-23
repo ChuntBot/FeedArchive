@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6rq9-53c3-f7vj] onnx allows Arbitrary File Overwrite in download_model_with_test_data,https://github.com/advisories/GHSA-6rq9-53c3-f7vj,https://da.gd/OjrDy
