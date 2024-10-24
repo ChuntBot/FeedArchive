@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qxgx-hvg3-v92w] ai-admin-graphql has a Denial of service vulnerability in SaaS and marketplace setups,https://github.com/advisories/GHSA-qxgx-hvg3-v92w,https://da.gd/6lUh
+GithubAdvisories,[GHSA-p3m2-mj3j-j49x] baserCMS has a Cross-site Scripting (XSS) Vulnerability in Edit Email Form Settings Feature,https://github.com/advisories/GHSA-p3m2-mj3j-j49x,https://da.gd/P6vec
+GithubAdvisories,[GHSA-66jv-qrm3-vvfg] baserCMS has a Cross-site Scripting (XSS) Vulnerability in Blog posts Feature,https://github.com/advisories/GHSA-66jv-qrm3-vvfg,https://da.gd/ce11T
+GithubAdvisories,[GHSA-mr7q-fv7j-jcgv] baserCMS has a Cross-site Scripting (XSS) Vulnerability in HTTP 400 Bad Request,https://github.com/advisories/GHSA-mr7q-fv7j-jcgv,https://da.gd/bJlYNf
+GithubAdvisories,[GHSA-wrjc-fmfq-w3jr] baserCMS has a Cross-site Scripting (XSS) Vulnerability in Blog posts and Contents list Feature,https://github.com/advisories/GHSA-wrjc-fmfq-w3jr,https://da.gd/iAaR
