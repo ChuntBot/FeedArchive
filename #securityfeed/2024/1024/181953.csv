@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3p8v-w8mr-m3x8] Butterfly has path/URL confusion in resource handling leading to multiple weaknesses,https://github.com/advisories/GHSA-3p8v-w8mr-m3x8,https://da.gd/v9OQ2l
+GithubAdvisories,"[GHSA-j8hp-f2mj-586g] OpenRefine's error page lacks escaping, leading to potential Cross-site Scripting on import of malicious project",https://github.com/advisories/GHSA-j8hp-f2mj-586g,https://da.gd/Xf1t1
+GithubAdvisories,"[GHSA-87cf-j763-vvh8] OpenRefine's SQLite integration allows filesystem access, remote code execution (RCE)",https://github.com/advisories/GHSA-87cf-j763-vvh8,https://da.gd/xZvYQ
+GithubAdvisories,[GHSA-79jv-5226-783f] OpenRefine has a reflected cross-site scripting vulnerability (XSS) from POST request in ExportRowsCommand,https://github.com/advisories/GHSA-79jv-5226-783f,https://da.gd/KcrzR
+GithubAdvisories,"[GHSA-3jm4-c6qf-jrh3] OpenRefine's PreviewExpressionCommand, which is eval, lacks protection against cross-site request forgery (CSRF)",https://github.com/advisories/GHSA-3jm4-c6qf-jrh3,https://da.gd/LhcKDY
+GithubAdvisories,[GHSA-pw3x-c5vp-mfc3] OpenRefine has a reflected cross-site scripting vulnerability (XSS) in GData extension (authorized.vt),https://github.com/advisories/GHSA-pw3x-c5vp-mfc3,https://da.gd/5hW18
