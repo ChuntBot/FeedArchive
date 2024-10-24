@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c479-wq8g-57hr] Pterodactyl Panel has plain-text logging of user passwords when two-factor authentication is disabled,https://github.com/advisories/GHSA-c479-wq8g-57hr,https://da.gd/ebTFx
+GithubAdvisories,[GHSA-rjfv-pjvx-mjgv] AWS Load Balancer Controller automatically detaches externally associated web ACL from Application Load Balancers,https://github.com/advisories/GHSA-rjfv-pjvx-mjgv,https://da.gd/2BtCE
+GithubAdvisories,[GHSA-jmrf-85g8-x8xv] Apache Syncope: Stored XSS in Console and Enduser,https://github.com/advisories/GHSA-jmrf-85g8-x8xv,https://da.gd/03imC
