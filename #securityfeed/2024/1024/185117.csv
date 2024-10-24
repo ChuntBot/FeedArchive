@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5j4c-8p2g-v4jx] ReDoS vulnerability in vue package that is exploitable through inefficient regex evaluation in the parseHTML function,https://github.com/advisories/GHSA-5j4c-8p2g-v4jx,https://da.gd/4mgz7y
+GithubAdvisories,[GHSA-qfwq-6jh6-8xx4] OpenRefine has a path traversal in LoadLanguageCommand,https://github.com/advisories/GHSA-qfwq-6jh6-8xx4,https://da.gd/0NoaGu
+GithubAdvisories,[GHSA-3pg4-qwc8-426r] OpenRefine leaks Google API credentials in releases,https://github.com/advisories/GHSA-3pg4-qwc8-426r,https://da.gd/sMmHza
+GithubAdvisories,"[GHSA-mpcw-3j5p-p99x] Butterfly's parseJSON, getJSON functions eval malicious input, leading to remote code execution (RCE)",https://github.com/advisories/GHSA-mpcw-3j5p-p99x,https://da.gd/TJKcow
