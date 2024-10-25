@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q99m-qcv4-fpm7] Grafana Command Injection And Local File Inclusion Via Sql Expressions,https://github.com/advisories/GHSA-q99m-qcv4-fpm7,https://da.gd/WEqc
