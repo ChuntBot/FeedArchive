@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Fix mailbox_rename de-de translation,https://github.com/mailcow/mailcow-dockerized/commit/672bb345fd755ce3aeb13ca584fde8a5ec9eec68,https://da.gd/xm0xj
+GithubCommitStaging,Merge pull request #6045 from mailcow/feat/rename-mbox,https://github.com/mailcow/mailcow-dockerized/commit/2d76ffc88c2e9d4daa18a519c8e7fd9cd56c42c4,https://da.gd/cV2nN
