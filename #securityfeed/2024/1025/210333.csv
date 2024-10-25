@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qh62-ch95-63wh] Duplicate Advisory: python-gnupg allows context-dependent attackers to trick gnupg to decrypt other ciphertext than intended,https://github.com/advisories/GHSA-qh62-ch95-63wh,https://da.gd/QC6m1
