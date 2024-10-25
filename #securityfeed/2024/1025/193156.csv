@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3rmw-76m6-4gjc] User Registration Bypass in Zitadel,https://github.com/advisories/GHSA-3rmw-76m6-4gjc,https://da.gd/tblx6
+GithubAdvisories,[GHSA-6cf5-w9h3-4rqv] Denied Host Validation Bypass in Zitadel Actions,https://github.com/advisories/GHSA-6cf5-w9h3-4rqv,https://da.gd/kiaEN
+GithubAdvisories,[GHSA-v46j-h43h-rwrm] Autolab Misconfigured Reset Password Permissions,https://github.com/advisories/GHSA-v46j-h43h-rwrm,https://da.gd/dinN9Y
