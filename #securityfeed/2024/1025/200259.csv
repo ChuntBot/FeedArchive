@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mqr9-hjr8-2m9w] Content Censorship in the InterPlanetary File System (IPFS) via Kademlia DHT abuse,https://github.com/advisories/GHSA-mqr9-hjr8-2m9w,https://da.gd/wK7cL
+GithubAdvisories,[GHSA-q34m-jh98-gwm2] Werkzeug possible resource exhaustion when parsing file data in forms,https://github.com/advisories/GHSA-q34m-jh98-gwm2,https://da.gd/8WBRm
+GithubAdvisories,[GHSA-f9vj-2wh5-fj8j] Werkzeug safe_join not safe on Windows,https://github.com/advisories/GHSA-f9vj-2wh5-fj8j,https://da.gd/5UNJk
+GithubAdvisories,[GHSA-7h65-4p22-39j6] github.com/crossplane/crossplane: Unexpected behavior from Is methods for IPv4-mapped IPv6 addresses,https://github.com/advisories/GHSA-7h65-4p22-39j6,https://da.gd/knco
+GithubAdvisories,[GHSA-x7xj-jvwp-97rv] RKE2 allows privilege escalation in Windows nodes due to Insecure Access Control Lists,https://github.com/advisories/GHSA-x7xj-jvwp-97rv,https://da.gd/det3hi
+GithubAdvisories,[GHSA-h99m-6755-rgwc] Rancher Remote Code Execution via Cluster/Node Drivers,https://github.com/advisories/GHSA-h99m-6755-rgwc,https://da.gd/pI6wf
+GithubAdvisories,[GHSA-xj7w-r753-vj8v] Exposure of vSphere's CPI and CSI credentials in Rancher,https://github.com/advisories/GHSA-xj7w-r753-vj8v,https://da.gd/iEof2
+GithubAdvisories,[GHSA-7h8m-pvw3-5gh4] Rancher allows privilege escalation in Windows nodes due to Insecure Access Control Lists,https://github.com/advisories/GHSA-7h8m-pvw3-5gh4,https://da.gd/OKvnAR
