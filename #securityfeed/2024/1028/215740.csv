@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-25pw-q952-x37g] Duplicate Advisory: pyload-ng vulnerable to RCE with js2py sandbox escape,https://github.com/advisories/GHSA-25pw-q952-x37g,https://da.gd/JLqNI
