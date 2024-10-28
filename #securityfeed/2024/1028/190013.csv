@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4vr9-33fv-mg6r] Cross site scripting in ameos_tarteaucitron,https://github.com/advisories/GHSA-4vr9-33fv-mg6r,https://da.gd/2Sk06L
+GithubAdvisories,[GHSA-hm57-h27x-599c] Mattermost incorrectly issues two sessions when using desktop SSO,https://github.com/advisories/GHSA-hm57-h27x-599c,https://da.gd/YaiQ79
+GithubAdvisories,[GHSA-wcx9-ccpj-hx3c] Coder vulnerable to post-auth URL redirection to untrusted site ('Open Redirect'),https://github.com/advisories/GHSA-wcx9-ccpj-hx3c,https://da.gd/uZeS
+GithubAdvisories,[GHSA-j945-c44v-97g6] MPXJ has a Potential Path Traversal Vulnerability,https://github.com/advisories/GHSA-j945-c44v-97g6,https://da.gd/etoE3
