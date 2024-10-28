@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qhxx-j73r-qpm2] Uninitialized memory access in TensorFlow,https://github.com/advisories/GHSA-qhxx-j73r-qpm2,https://da.gd/r1ovN
+GithubAdvisories,[GHSA-v9xq-2mvm-x8xc] Duende IdentityServer has insufficient validation of DPoP cnf claim in Local APIs,https://github.com/advisories/GHSA-v9xq-2mvm-x8xc,https://da.gd/eNF42
