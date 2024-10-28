@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w7hq-f2pj-c53g] pyLoad vulnerable to remote code execution by download to /.pyload/scripts using /flashgot API,https://github.com/advisories/GHSA-w7hq-f2pj-c53g,https://da.gd/tpzp
