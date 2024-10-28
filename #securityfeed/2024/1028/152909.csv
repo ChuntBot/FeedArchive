@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c4q5-6c82-3qpw] Spring Security vulnerable to Authorization Bypass of Static Resources in WebFlux Applications,https://github.com/advisories/GHSA-c4q5-6c82-3qpw,https://da.gd/jzDNY
+GithubAdvisories,[GHSA-rc7v-65v6-m2v3] go-mysql affected by go.uuid's Predictable UUID Identifiers,https://github.com/advisories/GHSA-rc7v-65v6-m2v3,https://da.gd/6Td5h
+GithubAdvisories,[GHSA-hxf3-vgpm-fv9p] CycloneDX cdxgen may execute code contained within build-related files,https://github.com/advisories/GHSA-hxf3-vgpm-fv9p,https://da.gd/i7ZyN
+GithubAdvisories,[GHSA-mgfv-m47x-4wqp] useragent Regular Expression Denial of Service vulnerability,https://github.com/advisories/GHSA-mgfv-m47x-4wqp,https://da.gd/kQMkq
