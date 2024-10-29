@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-762v-rq7q-ff97] Mattermost Server vulnerable to application crash from attacker-generated large response,https://github.com/advisories/GHSA-762v-rq7q-ff97,https://da.gd/KDc99M
+GithubAdvisories,[GHSA-g376-m3h3-mj4r] Mattermost server allows authenticated user to delete arbitrary post,https://github.com/advisories/GHSA-g376-m3h3-mj4r,https://da.gd/yz94P
+GithubAdvisories,[GHSA-762g-9p7f-mrww] Mattermost Server Path Traversal vulnerability that leads to Cross-Site Request Forgery,https://github.com/advisories/GHSA-762g-9p7f-mrww,https://da.gd/TcpXY9
+GithubAdvisories,[GHSA-6mvp-gh77-7vwh] Mattermost Server allows user to get private channel names,https://github.com/advisories/GHSA-6mvp-gh77-7vwh,https://da.gd/MOVPOz
