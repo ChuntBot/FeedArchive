@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-45pg-36p6-83v9] Langchain SQL Injection vulnerability,https://github.com/advisories/GHSA-45pg-36p6-83v9,https://da.gd/HMaUj
+GithubAdvisories,[GHSA-f748-7hpg-88ch] NVIDIA Container Toolkit allows specially crafted container image to create empty files on the host file system,https://github.com/advisories/GHSA-f748-7hpg-88ch,https://da.gd/GV5Ik
+GithubAdvisories,[GHSA-g4pj-mx9f-m2mh] Duplicate Advisory: NVIDIA Container Toolkit allows specially crafted container image to create empty files on the host file system,https://github.com/advisories/GHSA-g4pj-mx9f-m2mh,https://da.gd/jQdtw
+GithubAdvisories,[GHSA-mjjw-553x-87pq] NVIDIA Container Toolkit contains a Time-of-check Time-of-Use (TOCTOU) vulnerability,https://github.com/advisories/GHSA-mjjw-553x-87pq,https://da.gd/vbZTm
+GithubAdvisories,[GHSA-536j-xxhg-6pgg] Duplicate Advisory: NVIDIA Container Toolkit contains a Time-of-check Time-of-Use (TOCTOU) vulnerability,https://github.com/advisories/GHSA-536j-xxhg-6pgg,https://da.gd/abQHY
+GithubAdvisories,[GHSA-hc5w-c9f8-9cc4] Langchain Path Traversal vulnerability,https://github.com/advisories/GHSA-hc5w-c9f8-9cc4,https://da.gd/lFpUD
+GithubAdvisories,[GHSA-6m59-8fmv-m5f9] @langchain/community SQL Injection vulnerability,https://github.com/advisories/GHSA-6m59-8fmv-m5f9,https://da.gd/nrOJg
