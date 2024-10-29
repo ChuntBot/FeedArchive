@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-66c4-2g2v-54qw] Grafana org admin can delete pending invites in different org,https://github.com/advisories/GHSA-66c4-2g2v-54qw,https://da.gd/E7DGV
