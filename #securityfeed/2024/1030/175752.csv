@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hxg2-5c8p-ppwm] Drupal has open redirect vulnerability in the Overlay module,https://github.com/advisories/GHSA-hxg2-5c8p-ppwm,https://da.gd/H1GYr
+GithubAdvisories,[GHSA-8h9c-rcwj-jg8p] phpBB 3.0.7 allows remote attackers to bypass intended access restrictions,https://github.com/advisories/GHSA-8h9c-rcwj-jg8p,https://da.gd/TTthI9
+GithubAdvisories,"[GHSA-5cvh-xqhr-5g87] phpBB vulnerability related to use of ""forum id"" in circumstances related to a ""global announcement.""",https://github.com/advisories/GHSA-5cvh-xqhr-5g87,https://da.gd/wJck5
