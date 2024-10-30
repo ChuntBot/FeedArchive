@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-977j-xj7q-2jr9] Segmentation faultin TensorFlow when converting a Python string to `tf.float16`,https://github.com/advisories/GHSA-977j-xj7q-2jr9,https://da.gd/5BjcLq
+GithubAdvisories,[GHSA-q263-fvxm-m5mw] Heap out of bounds access in MakeEdge in TensorFlow,https://github.com/advisories/GHSA-q263-fvxm-m5mw,https://da.gd/zb9rf4
