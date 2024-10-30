@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gmx8-8rff-qv6q] phpBB's Smiley Pack acp_icons.php main pack vulnerable to cross site scripting,https://github.com/advisories/GHSA-gmx8-8rff-qv6q,https://da.gd/p4xq67
