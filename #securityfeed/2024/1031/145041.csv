@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5c4w-8hhh-3c3h] Hashicorp Consul Improper Neutralization of HTTP Headers for Scripting Syntax vulnerability,https://github.com/advisories/GHSA-5c4w-8hhh-3c3h,https://da.gd/diap5
+GithubAdvisories,[GHSA-chgm-7r52-whjj] Hashicorp Consul Path Traversal vulnerability,https://github.com/advisories/GHSA-chgm-7r52-whjj,https://da.gd/ZbVS
+GithubAdvisories,[GHSA-p3vf-v8qc-cwcr] DOMPurify vulnerable to tampering by prototype polution,https://github.com/advisories/GHSA-p3vf-v8qc-cwcr,https://da.gd/4lqus
