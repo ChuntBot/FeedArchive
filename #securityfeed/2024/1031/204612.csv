@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cph5-3pgr-c82g] Gnark out-of-memory during deserialization with crafted inputs,https://github.com/advisories/GHSA-cph5-3pgr-c82g,https://da.gd/Cki6Fj
