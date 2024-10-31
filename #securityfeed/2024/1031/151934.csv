@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2qw8-ppr5-m96c] Apache Lucene.Net.Replicator Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-2qw8-ppr5-m96c,https://da.gd/X3eYn
+GithubAdvisories,[GHSA-99wr-c2px-grmh] Hashicorp Consul Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-99wr-c2px-grmh,https://da.gd/UIVwb
