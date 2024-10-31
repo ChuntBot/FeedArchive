@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g233-2p4r-3q7v] Hashicorp Vault vulnerable to denial of service through memory exhaustion,https://github.com/advisories/GHSA-g233-2p4r-3q7v,https://da.gd/nxQUD
