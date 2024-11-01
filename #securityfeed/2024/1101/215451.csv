@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j42f-wc6v-5xpq] Duplicate Advisory: Permissive Regular Expression in tacquito,https://github.com/advisories/GHSA-j42f-wc6v-5xpq,https://da.gd/Vo8ee
+GithubAdvisories,[GHSA-vc9f-mgxr-h32r] raspap-webgui vulnerable to denial of service,https://github.com/advisories/GHSA-vc9f-mgxr-h32r,https://da.gd/dZ26sL
+GithubAdvisories,[GHSA-fq9m-v26v-2m4f] lilconfig Code Injection vulnerability,https://github.com/advisories/GHSA-fq9m-v26v-2m4f,https://da.gd/AwCROJ
+GithubAdvisories,[GHSA-cwgg-57xj-g77r] changedetection.io Path Traversal,https://github.com/advisories/GHSA-cwgg-57xj-g77r,https://da.gd/fqapx
+GithubAdvisories,[GHSA-mcw3-h5xg-r95m] JeecgBoot SQL Injection vulnerability,https://github.com/advisories/GHSA-mcw3-h5xg-r95m,https://da.gd/BR8W2W
+GithubAdvisories,[GHSA-56m6-4mhw-h3g5] langflow has vulnerability in PythonCodeTool component,https://github.com/advisories/GHSA-56m6-4mhw-h3g5,https://da.gd/I3fcR4
+GithubAdvisories,[GHSA-hhhv-ggjx-q9j2] Glossarizer Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-hhhv-ggjx-q9j2,https://da.gd/b4BhjB
+GithubAdvisories,[GHSA-hxx2-7vcw-mqr3] Sinatra vulnerable to Reliance on Untrusted Inputs in a Security Decision,https://github.com/advisories/GHSA-hxx2-7vcw-mqr3,https://da.gd/Gjdn
+GithubAdvisories,[GHSA-qm92-93fv-vh7m] Path traversal in oak allows transfer of hidden files within the served root directory,https://github.com/advisories/GHSA-qm92-93fv-vh7m,https://da.gd/XW3cJS
