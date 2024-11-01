@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6h86-9r5g-f2h5] Cross-site scripting vulnerability in includes/actions/InfoAction.php,https://github.com/advisories/GHSA-6h86-9r5g-f2h5,https://da.gd/QEwz
+GithubAdvisories,[GHSA-xpv7-93cm-4mxv] img_auth.php may leak private extension images into the public cache,https://github.com/advisories/GHSA-xpv7-93cm-4mxv,https://da.gd/ZJKZY
