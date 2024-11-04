@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-r7mv-mv7m-pjw3] hornetq vulnerable to file overwrite, sensitive information disclosure",https://github.com/advisories/GHSA-r7mv-mv7m-pjw3,https://da.gd/WeyJf
+GithubAdvisories,[GHSA-g5vw-3h65-2q3v] Access control vulnerable to user data deletion by anonynmous users,https://github.com/advisories/GHSA-g5vw-3h65-2q3v,https://da.gd/w6ce80
+GithubAdvisories,[GHSA-q3rp-vvm7-j8jg] Safearchive Path Traversal vulnerability,https://github.com/advisories/GHSA-q3rp-vvm7-j8jg,https://da.gd/NDr50
+GithubAdvisories,[GHSA-752q-72qc-rc66] Apache Kylin Session Fixation vulnerability,https://github.com/advisories/GHSA-752q-72qc-rc66,https://da.gd/cCmGd
+GithubAdvisories,"[GHSA-3hxg-fxwm-8gf7] CRLF injection in Refit's [Header], [HeaderCollection] and [Authorize] attributes",https://github.com/advisories/GHSA-3hxg-fxwm-8gf7,https://da.gd/8gVY1
+GithubAdvisories,[GHSA-82j3-hf72-7x93] Reposilite vulnerable to path traversal while serving javadoc expanded files (arbitrary file read) (`GHSL-2024-074`),https://github.com/advisories/GHSA-82j3-hf72-7x93,https://da.gd/TRw9p
+GithubAdvisories,[GHSA-4gmq-m9vp-jrwg] Umbraco CMS Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-4gmq-m9vp-jrwg,https://da.gd/tp5hFA
+GithubAdvisories,[GHSA-29wx-vh33-7x7r] Bad documentation of error handling in ParseWithClaims can lead to potentially dangerous situations,https://github.com/advisories/GHSA-29wx-vh33-7x7r,https://da.gd/NhP3
+GithubAdvisories,[GHSA-7vm6-qwh5-9x44] loona-hpack Panic Vulnerability,https://github.com/advisories/GHSA-7vm6-qwh5-9x44,https://da.gd/dVoEa
+GithubAdvisories,[GHSA-95j2-w8x7-hm88] Ollama Out-of-bounds Read,https://github.com/advisories/GHSA-95j2-w8x7-hm88,https://da.gd/muXMNg
