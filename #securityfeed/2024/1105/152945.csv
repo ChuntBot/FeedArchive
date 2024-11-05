@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8pmp-678w-c8xx] gitsign may use incorrect Rekor entries during verification,https://github.com/advisories/GHSA-8pmp-678w-c8xx,https://da.gd/fGUDE
+GithubAdvisories,"[GHSA-wvv7-wm5v-w2gv] Osmedeus Web Server Vulnerable to Stored XSS, Leading to RCE",https://github.com/advisories/GHSA-wvv7-wm5v-w2gv,https://da.gd/cEV7zC
+GithubAdvisories,[GHSA-cc6x-8cc7-9953] OctoPrint has API key access in settings without reauthentication,https://github.com/advisories/GHSA-cc6x-8cc7-9953,https://da.gd/DByO
+GithubAdvisories,[GHSA-xvxq-g8hw-fx4g] OctoPrint Vulnerable to Reflected XSS in Jinja2 Templates,https://github.com/advisories/GHSA-xvxq-g8hw-fx4g,https://da.gd/YWjgh4
+GithubAdvisories,[GHSA-j5rv-wrwj-3x76] Malware in pupeteerreqintercepter,https://github.com/advisories/GHSA-j5rv-wrwj-3x76,https://da.gd/1QR1w
