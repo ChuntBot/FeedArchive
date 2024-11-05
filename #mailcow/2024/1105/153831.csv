@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,update postscreen_access.cidr (#6129),https://github.com/mailcow/mailcow-dockerized/commit/8b2f71f97ee31e36d5544c79accf4cac14b2041e,https://da.gd/WYUssf
+GithubCommitStaging,fix: broken sogo cron notifications (for appointments etc.) (#6128),https://github.com/mailcow/mailcow-dockerized/commit/6ec1e357c3027a39cb3016f36ba1e56295205919,https://da.gd/VzrftM
