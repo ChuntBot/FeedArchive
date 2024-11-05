@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hxf5-99xg-86hw] cap-std doesn't fully sandbox all the Windows device filenames,https://github.com/advisories/GHSA-hxf5-99xg-86hw,https://da.gd/QBhKOw
+GithubAdvisories,[GHSA-c2f5-jxjv-2hh8] Wasmtime doesn't fully sandbox all the Windows device filenames,https://github.com/advisories/GHSA-c2f5-jxjv-2hh8,https://da.gd/Oblx0
