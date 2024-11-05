@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8qv4-773j-c979] JetBrains Ktor information disclosure,https://github.com/advisories/GHSA-8qv4-773j-c979,https://da.gd/WEcHHx
+GithubAdvisories,[GHSA-v2qh-f584-6hj8] @workos-inc/authkit-remix refresh tokens are logged when the debug flag is enabled,https://github.com/advisories/GHSA-v2qh-f584-6hj8,https://da.gd/u0wQuA
+GithubAdvisories,[GHSA-5wmg-9cvh-qw25] @workos-inc/authkit-nextjs refresh tokens are logged when the debug flag is enabled,https://github.com/advisories/GHSA-5wmg-9cvh-qw25,https://da.gd/C5cK3
