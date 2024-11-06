@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jjxq-ff2g-95vh] Twig has unguarded calls to `__isset()` and to array-accesses when the sandbox is enabled,https://github.com/advisories/GHSA-jjxq-ff2g-95vh,https://da.gd/Vf9k3
+GithubAdvisories,[GHSA-6377-hfv9-hqf6] Twig has unguarded calls to `__toString()` when nesting an object into an array,https://github.com/advisories/GHSA-6377-hfv9-hqf6,https://da.gd/U5UX
