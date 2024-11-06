@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fpm5-2wcj-vfr7] codechecker authentication method confusion vulnerability allows logging in as the built-in root user from an external service,https://github.com/advisories/GHSA-fpm5-2wcj-vfr7,https://da.gd/ZD0buH
+GithubAdvisories,[GHSA-f3f8-vx3w-hp5q] codechecker vulnerable to authentication bypass when using specifically crafted URLs,https://github.com/advisories/GHSA-f3f8-vx3w-hp5q,https://da.gd/CbwL
