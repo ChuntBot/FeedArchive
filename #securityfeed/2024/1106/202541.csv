@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hv6m-qj65-26q3] UnoPim Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-hv6m-qj65-26q3,https://da.gd/nM8u6U
+GithubAdvisories,[GHSA-pj33-75x5-32j4] RabbitMQ HTTP API's queue deletion endpoint does not verify that the user has a required permission,https://github.com/advisories/GHSA-pj33-75x5-32j4,https://da.gd/pNLoh
