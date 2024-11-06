@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-32p4-gm2c-wmch] ansible-core Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-32p4-gm2c-wmch,https://da.gd/7pRie
+GithubAdvisories,[GHSA-p7mv-53f2-4cwj] CometBFT Vote Extensions: Panic when receiving a Pre-commit with an invalid data,https://github.com/advisories/GHSA-p7mv-53f2-4cwj,https://da.gd/fbFyi
+GithubAdvisories,[GHSA-96g7-g7g9-jxw8] happy-dom allows for server side code to be executed by a,https://github.com/advisories/GHSA-96g7-g7g9-jxw8,https://da.gd/fwra6
