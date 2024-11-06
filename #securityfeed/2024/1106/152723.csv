@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qq5c-677p-737q] Symfony vulnerable to command execution hijack on Windows with Process class,https://github.com/advisories/GHSA-qq5c-677p-737q,https://da.gd/BZWe64
+GithubAdvisories,[GHSA-mrqx-rp3w-jpjp] Symfony vulnerable to open redirect via browser-sanitized URLs,https://github.com/advisories/GHSA-mrqx-rp3w-jpjp,https://da.gd/d4FxTo
+GithubAdvisories,[GHSA-g3rh-rrhp-jhh9] Symfony has an incorrect response from Validator when input ends with `\n`,https://github.com/advisories/GHSA-g3rh-rrhp-jhh9,https://da.gd/5MOxM
+GithubAdvisories,[GHSA-9c3x-r3wp-mgxm] Symfony allows internal address and port enumeration by NoPrivateNetworkHttpClient,https://github.com/advisories/GHSA-9c3x-r3wp-mgxm,https://da.gd/3Qt2u
+GithubAdvisories,[GHSA-jxgr-3v7q-3w9v] Symfony's `Security::login` does not take into account custom `user_checker`,https://github.com/advisories/GHSA-jxgr-3v7q-3w9v,https://da.gd/lHxAql
+GithubAdvisories,[GHSA-x8vp-gf4q-mw5j] Symfony allows changing the environment through a query,https://github.com/advisories/GHSA-x8vp-gf4q-mw5j,https://da.gd/SOROZ
