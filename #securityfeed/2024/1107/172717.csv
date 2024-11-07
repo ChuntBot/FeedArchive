@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7jqf-v358-p8g7] Apache Tomcat Allocation of Resources Without Limits or Throttling vulnerability,https://github.com/advisories/GHSA-7jqf-v358-p8g7,https://da.gd/4y5Y
+GithubAdvisories,[GHSA-q78v-cv36-8fxj] Devtron has SQL Injection in CreateUser API,https://github.com/advisories/GHSA-q78v-cv36-8fxj,https://da.gd/h8ps
