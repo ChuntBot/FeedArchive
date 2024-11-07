@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qrqv-26gf-xgwh] Moodle LFI vulnerability when restoring malformed block backups,https://github.com/advisories/GHSA-qrqv-26gf-xgwh,https://da.gd/tx9US
+GithubAdvisories,[GHSA-p9cx-f595-h79h] Moodle's IDOR in Feedback non-respondents report allows messaging arbitrary site users,https://github.com/advisories/GHSA-p9cx-f595-h79h,https://da.gd/8Rar
+GithubAdvisories,[GHSA-mx26-62xm-2p83] Moodle vulnerable to site administration SQL injection via XMLDB editor,https://github.com/advisories/GHSA-mx26-62xm-2p83,https://da.gd/maJ0V
+GithubAdvisories,[GHSA-x87r-37q5-mmr8] Moodle has CSRF risk in Feedback non-respondents report,https://github.com/advisories/GHSA-x87r-37q5-mmr8,https://da.gd/IVBzVg
