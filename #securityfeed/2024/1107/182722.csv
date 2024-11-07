@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wwjf-gwrv-wh45] Moodle's IDOR in badges allows deletion of arbitrary badges,https://github.com/advisories/GHSA-wwjf-gwrv-wh45,https://da.gd/ZXS2
+GithubAdvisories,[GHSA-2r9m-wg35-rfvc] Moodle vulnerable to cache poisoning via injection into storage,https://github.com/advisories/GHSA-2r9m-wg35-rfvc,https://da.gd/mSgM
+GithubAdvisories,[GHSA-vjmm-r9gg-425m] Moodle has arbitrary file read risk through pdfTeX,https://github.com/advisories/GHSA-vjmm-r9gg-425m,https://da.gd/sIOKp
+GithubAdvisories,[GHSA-v6f4-v8h8-3c87] Moodle Remote Code Execution vulnerability,https://github.com/advisories/GHSA-v6f4-v8h8-3c87,https://da.gd/FSqLT
+GithubAdvisories,[GHSA-97cq-f4jm-mv8h] Undertow Denial of Service vulnerability,https://github.com/advisories/GHSA-97cq-f4jm-mv8h,https://da.gd/tS5Rr
+GithubAdvisories,[GHSA-x83m-pf6f-pf9g] hibernate-validator Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-x83m-pf6f-pf9g,https://da.gd/DI4iEb
