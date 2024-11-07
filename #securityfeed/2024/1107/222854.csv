@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2w5v-x29g-jw7j] Hashicorp Nomad Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-2w5v-x29g-jw7j,https://da.gd/SNSb
+GithubAdvisories,[GHSA-6jrf-rcjf-245r] changedetection.io path traversal using file URI scheme without supplying hostname,https://github.com/advisories/GHSA-6jrf-rcjf-245r,https://da.gd/PP9xW
