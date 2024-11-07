@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,chore(deps): update dependency krakjoe/apcu to v5.1.24 (#6087),https://github.com/mailcow/mailcow-dockerized/commit/382056ec181565470f8d2791d5af4059d1aa41d0,https://da.gd/z9sE3
+GithubCommit,sogo: upgrade to 5.11.1 (#6109),https://github.com/mailcow/mailcow-dockerized/commit/982e823c71ab64efe5b82de5842406f995af35a4,https://da.gd/uKGxL6
+GithubCommit,postfix: add X-Original-To header per default (#6110),https://github.com/mailcow/mailcow-dockerized/commit/c53bf85480697c24912214bf74a1718a73052a06,https://da.gd/2b7a
+GithubCommit,php: upgrade to alpine 3.20 (base os) (#6106),https://github.com/mailcow/mailcow-dockerized/commit/8dcaffe925f095630ab194fbd5efa8b71d3731c1,https://da.gd/XTJOCT
+GithubCommit,Update dependency twig/twig to v3.14.0 (#6071),https://github.com/mailcow/mailcow-dockerized/commit/5a0f20b9eaad8a04aa8e8db9e959dae5c4d663b5,https://da.gd/c2EwpG
+GithubCommit,dovecot: activate lazy_expunge plugin per default (unconfigured) (#6112),https://github.com/mailcow/mailcow-dockerized/commit/38907b50323c91b16cec1e2597e84b6ea9f890d6,https://da.gd/LhxG8
+GithubCommit,Update mime_types.conf configuration (#6013),https://github.com/mailcow/mailcow-dockerized/commit/fce93609dda7ba209cac1f30f72ac262ce6356d8,https://da.gd/maEsCW
+GithubCommit,Update lang.zh-tw.json (#6114),https://github.com/mailcow/mailcow-dockerized/commit/399630cf3443c2adf91cc0b55948bdcce1a8a608,https://da.gd/0rjC93
+GithubCommit,rspamd: update to 3.10.1 (#6115),https://github.com/mailcow/mailcow-dockerized/commit/ee2791d93af2335a759d46f855994ef4824480d1,https://da.gd/Yy7n2M
+GithubCommit,[Web] Updated lang.zh-cn.json (#6120),https://github.com/mailcow/mailcow-dockerized/commit/502a7100ca18adaf4a6f3bbf0cfc5a38c91e168a,https://da.gd/8rfv2W
+GithubCommit,Feat/rspamd 3.10.2 (#6122),https://github.com/mailcow/mailcow-dockerized/commit/b106945c73e8d00df2ad912870fb7744535cb399,https://da.gd/WwlrN
+GithubCommit,Translations update from Weblate (#6123),https://github.com/mailcow/mailcow-dockerized/commit/5c88030b5a39e8368bdfb564f4bfcde87b2e6ace,https://da.gd/q2oo
+GithubCommit,Fix mailbox_rename de-de translation,https://github.com/mailcow/mailcow-dockerized/commit/672bb345fd755ce3aeb13ca584fde8a5ec9eec68,https://da.gd/xm0xj
+GithubCommit,Merge pull request #6045 from mailcow/feat/rename-mbox,https://github.com/mailcow/mailcow-dockerized/commit/2d76ffc88c2e9d4daa18a519c8e7fd9cd56c42c4,https://da.gd/cV2nN
+GithubCommit,[DockerApi] Fix IMAP ACL migration issue when renaming mailbox,https://github.com/mailcow/mailcow-dockerized/commit/d8c8e4ab1bc9168f0ed5ecb4074dcd42176ad7ea,https://da.gd/rr6oDh
+GithubCommit,chore(deps): update thollander/actions-comment-pull-request action to…,https://github.com/mailcow/mailcow-dockerized/commit/93cf99cc9e62c7eb9d0d08ce41e8ba2787e07e7b,https://da.gd/X8NDx
+GithubCommit,update postscreen_access.cidr (#6129),https://github.com/mailcow/mailcow-dockerized/commit/8b2f71f97ee31e36d5544c79accf4cac14b2041e,https://da.gd/WYUssf
+GithubCommit,fix: broken sogo cron notifications (for appointments etc.) (#6128),https://github.com/mailcow/mailcow-dockerized/commit/6ec1e357c3027a39cb3016f36ba1e56295205919,https://da.gd/VzrftM
+GithubCommit,Translations update from Weblate (#6140),https://github.com/mailcow/mailcow-dockerized/commit/be79f320d28cbdd1e6b19d8807d2b93367ec1a69,https://da.gd/cxwtY
+GithubCommit,Merge pull request #6141 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/0a58aa293a69d15f4f0c5385cc57d2a55ca7295b,https://da.gd/rBItg
