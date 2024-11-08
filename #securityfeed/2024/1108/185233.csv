@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gr3c-q7xf-47vh] XXE vulnerability in XSLT parsing in `org.hl7.fhir.core`,https://github.com/advisories/GHSA-gr3c-q7xf-47vh,https://da.gd/e8CjAS
+GithubAdvisories,[GHSA-j857-2pwm-jjmm] Apache Airflow vulnerable to Insertion of Sensitive Information Into Sent Data,https://github.com/advisories/GHSA-j857-2pwm-jjmm,https://da.gd/xoYmQn
