@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-7wmp-2xmx-g6h8] Moodle authorization headers preserved between ""emulated redirects""",https://github.com/advisories/GHSA-7wmp-2xmx-g6h8,https://da.gd/IDdGHo
+GithubAdvisories,[GHSA-jpf2-9ppp-2c49] Moodle has insufficient access control,https://github.com/advisories/GHSA-jpf2-9ppp-2c49,https://da.gd/OCYk45
+GithubAdvisories,[GHSA-c767-4whh-v7rw] Moodle has user information visibility control issues in gradebook reports,https://github.com/advisories/GHSA-c767-4whh-v7rw,https://da.gd/Dw0as
+GithubAdvisories,[GHSA-vpq5-56jj-vf2m] Moodle admin presets export tool includes some secrets that should not be exported,https://github.com/advisories/GHSA-vpq5-56jj-vf2m,https://da.gd/6TsG
+GithubAdvisories,[GHSA-g23h-7vf9-xc25] Mimalloc Can Allocate Memory with Bad Alignment,https://github.com/advisories/GHSA-g23h-7vf9-xc25,https://da.gd/ytsRn
+GithubAdvisories,[GHSA-fpr5-jp2j-4q2f] paillier-zk has ambiguous challenge derivation,https://github.com/advisories/GHSA-fpr5-jp2j-4q2f,https://da.gd/SHHaBv
