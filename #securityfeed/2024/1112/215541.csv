@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7hpf-g48v-hw3j] Zoraxy has an authenticated command injection in the Web SSH feature,https://github.com/advisories/GHSA-7hpf-g48v-hw3j,https://da.gd/TDGszr
+GithubAdvisories,[GHSA-99w6-3xph-cx78] Ansible-Core vulnerable to content protections bypass,https://github.com/advisories/GHSA-99w6-3xph-cx78,https://da.gd/Fm1ok
+GithubAdvisories,[GHSA-pgrc-8wp5-5mvq] powertac-server XML External Entity vulnerability,https://github.com/advisories/GHSA-pgrc-8wp5-5mvq,https://da.gd/Ijejv
+GithubAdvisories,[GHSA-4hjf-6pxr-549h] Moodle Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-4hjf-6pxr-549h,https://da.gd/56su
+GithubAdvisories,[GHSA-4gq2-x5w4-7hp8] Moodle has insufficient capability checks,https://github.com/advisories/GHSA-4gq2-x5w4-7hp8,https://da.gd/1q8ZL
+GithubAdvisories,[GHSA-q99x-mjmh-v8w7] Moodle's user/power level management inconsistent with suspended users,https://github.com/advisories/GHSA-q99x-mjmh-v8w7,https://da.gd/jfCOZ
