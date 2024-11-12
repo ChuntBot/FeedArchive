@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rm66-9gh4-4gp8] cggmp21 vulnerable to ambiguous challenge derivation,https://github.com/advisories/GHSA-rm66-9gh4-4gp8,https://da.gd/2puJd
+GithubAdvisories,[GHSA-pqpw-89w5-82v5] `simd-json-derive` vulnerable to `MaybeUninit` misuse,https://github.com/advisories/GHSA-pqpw-89w5-82v5,https://da.gd/wgqDne
+GithubAdvisories,[GHSA-7jjx-3qw9-j6h6] cggmp21-keygen has ambiguous challenge derivation,https://github.com/advisories/GHSA-7jjx-3qw9-j6h6,https://da.gd/VGRZf
+GithubAdvisories,[GHSA-x8jh-xj3x-gx3c] `fast-float` has multiple soundness issues,https://github.com/advisories/GHSA-x8jh-xj3x-gx3c,https://da.gd/NdGKB
+GithubAdvisories,[GHSA-fmq6-4w57-2w3v] wasm3 uncontrolled memory allocation vulnerability,https://github.com/advisories/GHSA-fmq6-4w57-2w3v,https://da.gd/oBiHZ
