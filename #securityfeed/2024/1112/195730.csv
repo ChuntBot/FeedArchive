@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cm46-gqf4-mv4f] Orchid Platform has Method Exposure Vulnerability in Modals,https://github.com/advisories/GHSA-cm46-gqf4-mv4f,https://da.gd/lJnVIV
+GithubAdvisories,[GHSA-xvg8-m4x3-w6xr] matrix-js-sdk has insufficient MXC URI validation which allows client-side path traversal,https://github.com/advisories/GHSA-xvg8-m4x3-w6xr,https://da.gd/Vbsui
+GithubAdvisories,[GHSA-xq3w-v528-46rv] Denial of Service attack on windows app using netty,https://github.com/advisories/GHSA-xq3w-v528-46rv,https://da.gd/k6Pc
+GithubAdvisories,[GHSA-cxwf-qc32-375f] Decidim-Awesome has SQL injection in AdminAccountability,https://github.com/advisories/GHSA-cxwf-qc32-375f,https://da.gd/Q3qyVd
