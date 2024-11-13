@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g8r3-2v89-j6r5] Moodle IDOR when accessing list of badge recipients,https://github.com/advisories/GHSA-g8r3-2v89-j6r5,https://da.gd/8D6kf
+GithubAdvisories,[GHSA-xhg6-9j5j-w4vf] DotNetZip Directory Traversal vulnerability,https://github.com/advisories/GHSA-xhg6-9j5j-w4vf,https://da.gd/rYweUw
+GithubAdvisories,[GHSA-cgr4-c233-h733] UnoPim Stored XSS : Cookie hijacking through Create User function,https://github.com/advisories/GHSA-cgr4-c233-h733,https://da.gd/91lZ
+GithubAdvisories,[GHSA-jrvm-mcxc-mf6m] dom-iterator code execution vulnerability,https://github.com/advisories/GHSA-jrvm-mcxc-mf6m,https://da.gd/Jxsy7y
+GithubAdvisories,[GHSA-cg23-qf8f-62rr] Symphony has an Authentication Bypass via RememberMe,https://github.com/advisories/GHSA-cg23-qf8f-62rr,https://da.gd/qtiKL
