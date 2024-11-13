@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f3cw-hg6r-chfv] Craft CMS vulnerable to Potential Remote Code Execution via missing path normalization & Twig SSTI,https://github.com/advisories/GHSA-f3cw-hg6r-chfv,https://da.gd/3RY0R
+GithubAdvisories,[GHSA-cw6g-qmjq-6w2w] Craft CMS Arbitrary System File Read,https://github.com/advisories/GHSA-cw6g-qmjq-6w2w,https://da.gd/0MK3X
+GithubAdvisories,"[GHSA-jrh5-vhr9-qh7q] Local File System Validation Bypass Leading to File Overwrite, Sensitive File Access, and Potential Code Execution",https://github.com/advisories/GHSA-jrh5-vhr9-qh7q,https://da.gd/uGCj
