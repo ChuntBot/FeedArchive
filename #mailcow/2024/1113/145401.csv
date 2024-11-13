@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] broadcast maildir move to dovecot containers on mailbox_rename,https://github.com/mailcow/mailcow-dockerized/commit/1819b6ea317a0008e0572ded689ac842c88b1022,https://da.gd/cV3D
+GithubCommitStaging,[Web] update _sogo_static_view on password reset,https://github.com/mailcow/mailcow-dockerized/commit/9ddcec40dca7df5298a74e2cd21a69f6821e43c0,https://da.gd/ETDGo
+GithubCommitStaging,Merge pull request #6164 from mailcow/fix/6163,https://github.com/mailcow/mailcow-dockerized/commit/5026d67537d2726b9926b912aa5bf7a23743b393,https://da.gd/4mwcc6
+GithubCommitStaging,Merge pull request #6165 from mailcow/fix/mbox-rename-cluster,https://github.com/mailcow/mailcow-dockerized/commit/8677c18758a8cd2cf0177ce179cb9623d54e3276,https://da.gd/bt9VeJ
