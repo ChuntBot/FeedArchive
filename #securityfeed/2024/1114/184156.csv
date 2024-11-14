@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r864-28pw-8682] Harbor fails to validate the user permissions when updating p2p preheat policies,https://github.com/advisories/GHSA-r864-28pw-8682,https://da.gd/rZ5s
