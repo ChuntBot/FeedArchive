@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j3px-q95c-9683] zlib-rs stack overflow during decompression with malicious input,https://github.com/advisories/GHSA-j3px-q95c-9683,https://da.gd/eVZQF
+GithubAdvisories,[GHSA-4277-m35q-7c9w] Salt preflight script could be attacker controlled,https://github.com/advisories/GHSA-4277-m35q-7c9w,https://da.gd/vfXGm
