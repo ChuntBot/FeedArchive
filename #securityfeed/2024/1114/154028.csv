@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h23j-73ww-7594] Session fixation vulnerability in Jenkins OpenId Connect Authentication Plugin,https://github.com/advisories/GHSA-h23j-73ww-7594,https://da.gd/Hxywf
+GithubAdvisories,[GHSA-8886-8v27-85j8] Stored XSS vulnerability in Jenkins Authorize Project Plugin,https://github.com/advisories/GHSA-8886-8v27-85j8,https://da.gd/Nc9Ue
+GithubAdvisories,[GHSA-jv82-75fh-23r7] Missing permission check in Jenkins Script Security Plugin,https://github.com/advisories/GHSA-jv82-75fh-23r7,https://da.gd/hzABeG
