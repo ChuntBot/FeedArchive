@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j3vq-pmp5-r5xj] Missing ratelimit on passwrod resets in zenml,https://github.com/advisories/GHSA-j3vq-pmp5-r5xj,https://da.gd/k3ev3w
+GithubAdvisories,[GHSA-hcf8-5j78-887v] Apache StreamPark: Information leakage vulnerability,https://github.com/advisories/GHSA-hcf8-5j78-887v,https://da.gd/9Ny7A
+GithubAdvisories,[GHSA-pjwm-cr36-mwv3] ReDoS in giskard's transformation.py (GHSL-2024-324),https://github.com/advisories/GHSA-pjwm-cr36-mwv3,https://da.gd/9Xn2v
