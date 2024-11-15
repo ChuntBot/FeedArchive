@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommit,[Web] update _sogo_static_view on password reset,https://github.com/mailcow/mailcow-dockerized/commit/b9f52df3f10e43c1fc9364ff0ef5a6008d959a40,https://da.gd/hkeeLp
+GithubCommit,[Web] broadcast maildir move to dovecot containers on mailbox_rename,https://github.com/mailcow/mailcow-dockerized/commit/6d1f7482edae6927fa1b2b540d5ef11fa8e2bcb2,https://da.gd/0dMif
+GithubCommit,mysql: increased thread_stack to 192k since 10.5.27,https://github.com/mailcow/mailcow-dockerized/commit/d10d64dd9216ca0d0f70280a3c7a4c12bbc463dc,https://da.gd/wKNt6
+GithubCommit,Merge pull request #6173 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/bd9f4ba0a57a159939760ecd319f2d44abf6b27a,https://da.gd/ZJ05iK
