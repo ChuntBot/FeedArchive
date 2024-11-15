@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v7w9-63xh-6r3w] LibreNMS has a Reflected XSS ('Cross-site Scripting') in librenms/includes/functions.php,https://github.com/advisories/GHSA-v7w9-63xh-6r3w,https://da.gd/tDaX
+GithubAdvisories,[GHSA-xh4g-c9p6-5jxg] LibreNMS has a Stored XSS ('Cross-site Scripting') in librenms/app/Http/Controllers/Table/EditPortsController.php,https://github.com/advisories/GHSA-xh4g-c9p6-5jxg,https://da.gd/zVGah8
+GithubAdvisories,[GHSA-rmr4-x6c9-jc68] LibreNMS has a Stored XSS ('Cross-site Scripting') in librenms/includes/html/pages/device/capture.inc.php,https://github.com/advisories/GHSA-rmr4-x6c9-jc68,https://da.gd/cgXoeS
+GithubAdvisories,[GHSA-888j-pjqh-fx58] Stored XSS ('Cross-site Scripting') in librenms/includes/html/pages/edituser.inc.php,https://github.com/advisories/GHSA-888j-pjqh-fx58,https://da.gd/MCN2Dq
+GithubAdvisories,[GHSA-c86q-rj37-8f85] LibreNMS has a stored XSS in ExamplePlugin with Device's Notes,https://github.com/advisories/GHSA-c86q-rj37-8f85,https://da.gd/64fjg
+GithubAdvisories,[GHSA-gfwr-xqmj-j27v] LibreNMS has a stored XSS ('Cross-site Scripting') in librenms/includes/html/pages/api-access.inc.php,https://github.com/advisories/GHSA-gfwr-xqmj-j27v,https://da.gd/kDvXw
