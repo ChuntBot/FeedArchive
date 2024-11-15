@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-99w8-c5f6-96pp] CSRF leading to delete account in wallabag/wallabag,https://github.com/advisories/GHSA-99w8-c5f6-96pp,https://da.gd/kQsEqE
+GithubAdvisories,[GHSA-5r2g-59px-3q9w] Stored XSS using two files in usememos/memos,https://github.com/advisories/GHSA-5r2g-59px-3q9w,https://da.gd/Xm1Pq2
+GithubAdvisories,[GHSA-wppr-j57c-8jpm] Improper Authorization in dolibarr/dolibarr,https://github.com/advisories/GHSA-wppr-j57c-8jpm,https://da.gd/JwksbA
+GithubAdvisories,[GHSA-r735-9gc6-2hvq] Cross-site Scripting (XSS) - DOM in janeczku/calibre-web,https://github.com/advisories/GHSA-r735-9gc6-2hvq,https://da.gd/opCrM
+GithubAdvisories,[GHSA-fj5v-w2jp-wqvj] Improper Access Control in janeczku/calibre-web,https://github.com/advisories/GHSA-fj5v-w2jp-wqvj,https://da.gd/L743p
+GithubAdvisories,[GHSA-3vjh-xrhf-v9xh] Improper Restriction of XML External Entity Reference in dompdf/dompdf,https://github.com/advisories/GHSA-3vjh-xrhf-v9xh,https://da.gd/2Lh97
+GithubAdvisories,[GHSA-8fh4-942r-jf2g] LibreNMS has a Stored XSS ('Cross-site Scripting') in librenms/includes/html/pages/device/services.inc.php,https://github.com/advisories/GHSA-8fh4-942r-jf2g,https://da.gd/QKfu7
+GithubAdvisories,[GHSA-7q7g-4xm8-89cq] Regular Expression Denial of Service (ReDoS) in @eslint/plugin-kit,https://github.com/advisories/GHSA-7q7g-4xm8-89cq,https://da.gd/Q91bNd
+GithubAdvisories,[GHSA-m982-h4f8-g4hf] Generation of Error Message Containing Sensitive Information in janeczku/calibre-web,https://github.com/advisories/GHSA-m982-h4f8-g4hf,https://da.gd/lO6sg
+GithubAdvisories,[GHSA-hhvr-2q69-4563] Cross site scripting in sylius/sylius,https://github.com/advisories/GHSA-hhvr-2q69-4563,https://da.gd/Qe4qo
+GithubAdvisories,[GHSA-577p-7j7h-2jgf] Deserialization of Untrusted Data in dompdf/dompdf,https://github.com/advisories/GHSA-577p-7j7h-2jgf,https://da.gd/BEodPM
+GithubAdvisories,[GHSA-46c3-5xc5-wwhv] Apache Airflow: Sensitive configuration values are not masked in the logs by default,https://github.com/advisories/GHSA-46c3-5xc5-wwhv,https://da.gd/flO8
