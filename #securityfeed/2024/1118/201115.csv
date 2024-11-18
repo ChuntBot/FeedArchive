@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hvw5-3mgw-7rcf] Debezium database connector has a script injection vulnerability,https://github.com/advisories/GHSA-hvw5-3mgw-7rcf,https://da.gd/ivQP
+GithubAdvisories,[GHSA-3jrv-jgp8-45v3] Undertow incorrectly parses cookies,https://github.com/advisories/GHSA-3jrv-jgp8-45v3,https://da.gd/WS7riv
+GithubAdvisories,[GHSA-2ppf-2m6f-6v6f] OpenStack improperly deletes access rules,https://github.com/advisories/GHSA-2ppf-2m6f-6v6f,https://da.gd/XhoyN
+GithubAdvisories,[GHSA-h7wq-jj8r-qm7p] Kubernetes Nil pointer dereference in KCM after v1 HPA patch request,https://github.com/advisories/GHSA-h7wq-jj8r-qm7p,https://da.gd/oCZf5
+GithubAdvisories,[GHSA-w3c8-7r8f-9jp8] Spring MVC controller vulnerable to a DoS attack,https://github.com/advisories/GHSA-w3c8-7r8f-9jp8,https://da.gd/WN7MIw
+GithubAdvisories,"[GHSA-3wf4-68gx-mph8] Firebase JavaScript SDK allows attackers to manipulate the ""_authTokenSyncURL"" to point to their own server",https://github.com/advisories/GHSA-3wf4-68gx-mph8,https://da.gd/ItOHO
+GithubAdvisories,[GHSA-gv5h-5655-h4mv] django CMS Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-gv5h-5655-h4mv,https://da.gd/fQuOMN
+GithubAdvisories,[GHSA-jp37-5qhw-mffw] Sharks has a Bias of Polynomial Coefficients in Secret Sharing,https://github.com/advisories/GHSA-jp37-5qhw-mffw,https://da.gd/YFL7g
+GithubAdvisories,[GHSA-qc99-r4wh-c8h6] Incorrect Access Control in NodeBB,https://github.com/advisories/GHSA-qc99-r4wh-c8h6,https://da.gd/LC0u6B
+GithubAdvisories,[GHSA-vggm-3478-vm5m] Graylog concurrent PDF report rendering can leak other users' reports,https://github.com/advisories/GHSA-vggm-3478-vm5m,https://da.gd/gNsUDy
+GithubAdvisories,[GHSA-7cc9-j4mv-vcjp] XXE in PHPSpreadsheet's XLSX reader,https://github.com/advisories/GHSA-7cc9-j4mv-vcjp,https://da.gd/E1AfA
+GithubAdvisories,[GHSA-jw4x-v69f-hh5w] XmlScanner bypass leads to XXE,https://github.com/advisories/GHSA-jw4x-v69f-hh5w,https://da.gd/bokGI4
+GithubAdvisories,[GHSA-m26c-fcgh-cp6h] cobbler allows anyone to connect to cobbler XML-RPC server with known password and make changes,https://github.com/advisories/GHSA-m26c-fcgh-cp6h,https://da.gd/YZ6A
