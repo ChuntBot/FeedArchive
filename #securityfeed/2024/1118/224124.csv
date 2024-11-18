@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mg54-p2wj-5ph7] moodle: IDOR when fetching report schedules,https://github.com/advisories/GHSA-mg54-p2wj-5ph7,https://da.gd/Rwdrd
+GithubAdvisories,[GHSA-hmv2-79q8-fv6g] Uncontrolled Resource Consumption in urllib3,https://github.com/advisories/GHSA-hmv2-79q8-fv6g,https://da.gd/uLTq8
