@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q297-5ff8-hc92] FitNesse Path Traversal,https://github.com/advisories/GHSA-q297-5ff8-hc92,https://da.gd/U2i6i
+GithubAdvisories,[GHSA-f632-9449-3j4w] Apache Tomcat - XSS in generated JSPs,https://github.com/advisories/GHSA-f632-9449-3j4w,https://da.gd/H1gcr
+GithubAdvisories,[GHSA-qvf5-hvjx-wm27] Apache Tomcat Request and/or response mix-up,https://github.com/advisories/GHSA-qvf5-hvjx-wm27,https://da.gd/37KUYq
+GithubAdvisories,[GHSA-8495-4g3g-x7pr] aiohttp allows request smuggling due to incorrect parsing of chunk extensions,https://github.com/advisories/GHSA-8495-4g3g-x7pr,https://da.gd/OouM
+GithubAdvisories,[GHSA-27mf-ghqm-j3j8] aiohttp has a memory leak when middleware is enabled when requesting a resource with a non-allowed method,https://github.com/advisories/GHSA-27mf-ghqm-j3j8,https://da.gd/X6HKF
