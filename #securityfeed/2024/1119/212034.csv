@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5jfw-gq64-q45f] HTML Cleaner allows crafted scripts in special contexts like svg or math to pass through,https://github.com/advisories/GHSA-5jfw-gq64-q45f,https://da.gd/ZXr7Yf
+GithubAdvisories,[GHSA-hrxh-9w67-g4cv] Rclone has Improper Permission and Ownership Handling on Symlink Targets with --links and --metadata,https://github.com/advisories/GHSA-hrxh-9w67-g4cv,https://da.gd/J8VY
+GithubAdvisories,[GHSA-m5vv-7jxc-8p6x] Redaxo Core CMS Cross Site Scripting (XSS),https://github.com/advisories/GHSA-m5vv-7jxc-8p6x,https://da.gd/x48exE
