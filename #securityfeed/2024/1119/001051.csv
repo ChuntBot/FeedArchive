@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g85v-wf27-67xc] Harden-Runner has a command injection weaknesses in `setup.ts` and `arc-runner.ts`,https://github.com/advisories/GHSA-g85v-wf27-67xc,https://da.gd/5nH2n
+GithubAdvisories,[GHSA-hw9x-8m75-4vjq] Cross Site Scripting vulnerability in Snipe-IT,https://github.com/advisories/GHSA-hw9x-8m75-4vjq,https://da.gd/1dkid4
+GithubAdvisories,[GHSA-xcpr-7mr4-h4xq] Apache Tomcat - Authentication Bypass,https://github.com/advisories/GHSA-xcpr-7mr4-h4xq,https://da.gd/gBJe
+GithubAdvisories,[GHSA-fjq9-452g-jg3q] moodle: Some users can delete audiences of other reports,https://github.com/advisories/GHSA-fjq9-452g-jg3q,https://da.gd/OT53u7
+GithubAdvisories,[GHSA-x3x9-349x-2485] moodle: IDOR in edit/delete RSS feed,https://github.com/advisories/GHSA-x3x9-349x-2485,https://da.gd/RcuIgz
+GithubAdvisories,[GHSA-cq5f-wv7p-5gfc] Moodle leaks user names,https://github.com/advisories/GHSA-cq5f-wv7p-5gfc,https://da.gd/9hL2x
+GithubAdvisories,[GHSA-vxmc-5x29-h64v] Bootstrap Cross-Site Scripting (XSS) vulnerability for data-* attributes,https://github.com/advisories/GHSA-vxmc-5x29-h64v,https://da.gd/lrR91d
