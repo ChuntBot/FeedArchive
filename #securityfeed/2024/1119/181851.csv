@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p7f6-8mcm-fwv3] Statamic CMS has a Path Traversal in Asset Upload,https://github.com/advisories/GHSA-p7f6-8mcm-fwv3,https://da.gd/8d5PEP
+GithubAdvisories,[GHSA-2x2g-32r7-p4x8] Apache Kafka Clients: Privilege escalation to filesystem read-access via automatic ConfigProvider,https://github.com/advisories/GHSA-2x2g-32r7-p4x8,https://da.gd/FyENq
