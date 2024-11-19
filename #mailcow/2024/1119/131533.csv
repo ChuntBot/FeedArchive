@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Nginx] Use jinja2 for templating nginx configuration,https://github.com/mailcow/mailcow-dockerized/commit/70ca5fde9520f78414b66b2db789a0524cb4975f,https://da.gd/QHCD2P
+GithubCommitStaging,Merge pull request #6177 from mailcow/feat/jinja2-nginx,https://github.com/mailcow/mailcow-dockerized/commit/326a446f8be76ddc239b0162be59ecd968523e59,https://da.gd/jSg8kA
