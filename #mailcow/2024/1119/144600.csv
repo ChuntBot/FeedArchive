@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Enable password protection for Redis,https://github.com/mailcow/mailcow-dockerized/commit/89fb1322c6f486a9883e6435a73537b13fbf3582,https://da.gd/UZdFq
+GithubCommitStaging,[Redis] set password via docker-entrypoint.sh,https://github.com/mailcow/mailcow-dockerized/commit/c1903f121d079d5cd32d6ecc10747f767362d73b,https://da.gd/D2WUrp
+GithubCommitStaging,[Redis] Rename docker-entrypoint.sh to redis-conf.sh,https://github.com/mailcow/mailcow-dockerized/commit/b0de756a7c741c1fd2ff560783833620b6878573,https://da.gd/MTPpB
+GithubCommitStaging,[Redis] redis-cli suppress auth warning,https://github.com/mailcow/mailcow-dockerized/commit/6831f94fdb209fb4a558f5f81fb7db340c856bd2,https://da.gd/Ifwucd
+GithubCommitStaging,Merge pull request #6146 from mailcow/feat/redis-pw,https://github.com/mailcow/mailcow-dockerized/commit/8e9a9364a8657d435e960b6214757c4297cb3be9,https://da.gd/DLk2N
