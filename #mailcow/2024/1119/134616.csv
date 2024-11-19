@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,update.sh: precaution ask for deletion of dns_blocklists.cf if old fo…,https://github.com/mailcow/mailcow-dockerized/commit/bca4e1a03d7a36b81a7e0b2399db3bbe932dc88c,https://da.gd/sbP3sq
+GithubCommitStaging,[Web] remove f2b banlist from json_api.php,https://github.com/mailcow/mailcow-dockerized/commit/852d944cfba4c06dcc3af44d698f68c25425a07c,https://da.gd/rZpb6T
+GithubCommitStaging,Merge pull request #6168 from mailcow/fix/f2b-banlist,https://github.com/mailcow/mailcow-dockerized/commit/922f8777b0274739b2979751aa2e74dc26c09577,https://da.gd/aQ6I3
