@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r4pg-vg54-wxx4] cert-manager ha a potential slowdown / DoS when parsing specially crafted PEM inputs,https://github.com/advisories/GHSA-r4pg-vg54-wxx4,https://da.gd/DOsfPE
