@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] add missing translation for ratelimit in templates overview,https://github.com/mailcow/mailcow-dockerized/commit/fe7211f27f839a6d3ab8d95b88e0a654417ebdf5,https://da.gd/fO0WmY
+GithubCommitStaging,Merge pull request #6180 from mailcow/fix/6046,https://github.com/mailcow/mailcow-dockerized/commit/bb310600b21a47a94f3c6cc838bf3bea2194fade,https://da.gd/h7ve
