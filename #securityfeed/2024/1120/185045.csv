@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vxcv-4xvf-pc22] django CMS Attributes Field Cross-site Scripting,https://github.com/advisories/GHSA-vxcv-4xvf-pc22,https://da.gd/vM8UU1
+GithubAdvisories,[GHSA-pg82-9w35-3w3r] FitNesse Cross-site scripting,https://github.com/advisories/GHSA-pg82-9w35-3w3r,https://da.gd/gvXQ
+GithubAdvisories,[GHSA-j4v3-wwwx-5gqv] django Filer Unrestricted Upload of File with Dangerous Type,https://github.com/advisories/GHSA-j4v3-wwwx-5gqv,https://da.gd/OH3i41
+GithubAdvisories,[GHSA-r4xr-m393-778m] Moodle IDOR when accessing list of course badges,https://github.com/advisories/GHSA-r4xr-m393-778m,https://da.gd/4hp7rW
+GithubAdvisories,[GHSA-xfv7-h2qg-rjm7] Moodle Lesson activity password bypass through PHP loose comparison,https://github.com/advisories/GHSA-xfv7-h2qg-rjm7,https://da.gd/7O5B
+GithubAdvisories,[GHSA-fhg2-r2h9-h7q8] Moodle IDOR when deleting OAuth2 linked accounts,https://github.com/advisories/GHSA-fhg2-r2h9-h7q8,https://da.gd/XcZTO
+GithubAdvisories,[GHSA-j822-x5gg-5r56] Moodle allows users to retrieve information they did not have permission to access,https://github.com/advisories/GHSA-j822-x5gg-5r56,https://da.gd/W8ZprY
+GithubAdvisories,[GHSA-9c5p-35gj-jqp4] Rancher Helm Applications may have sensitive values leaked,https://github.com/advisories/GHSA-9c5p-35gj-jqp4,https://da.gd/I7dQ30
+GithubAdvisories,[GHSA-ffp2-8p2h-4m5j] Password Pusher rate limiter can be bypassed by forging proxy headers,https://github.com/advisories/GHSA-ffp2-8p2h-4m5j,https://da.gd/cOMu1f
+GithubAdvisories,[GHSA-7225-m954-23v7] ASA-2024-010: cosmossdk.io/math: Mismatched bit-length validation in sdk.Int and sdk.Dec can lead to panic,https://github.com/advisories/GHSA-7225-m954-23v7,https://da.gd/IIO6vT
+GithubAdvisories,[GHSA-j5hq-5jcr-xwx7] github.com/rancher/steve's users can issue watch commands for arbitrary resources,https://github.com/advisories/GHSA-j5hq-5jcr-xwx7,https://da.gd/lvdFR
