@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] allow dots in dkim selectors,https://github.com/mailcow/mailcow-dockerized/commit/ba282233ea06823e827d85fad014ff68e23854b5,https://da.gd/9Rdfg
+GithubCommitStaging,Merge pull request #6182 from mailcow/fix/4518,https://github.com/mailcow/mailcow-dockerized/commit/6af907cff07927f608caa908529edd1f6059c4d8,https://da.gd/GJqoz
