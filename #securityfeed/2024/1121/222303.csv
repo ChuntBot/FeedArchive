@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rmxg-6qqf-x8mr] GeoNode Server Side Request forgery,https://github.com/advisories/GHSA-rmxg-6qqf-x8mr,https://da.gd/46n2Z
+GithubAdvisories,[GHSA-5cph-wvm9-45gj] Flowise OverrideConfig security vulnerability,https://github.com/advisories/GHSA-5cph-wvm9-45gj,https://da.gd/yRoQc8
+GithubAdvisories,[GHSA-hj3w-wrh4-44vp] LLama Factory Remote OS Command Injection Vulnerability,https://github.com/advisories/GHSA-hj3w-wrh4-44vp,https://da.gd/ui9VD
+GithubAdvisories,[GHSA-xx4j-rvcc-2vhr] Capstone SEGV caused by a read memory access,https://github.com/advisories/GHSA-xx4j-rvcc-2vhr,https://da.gd/yaQpb
+GithubAdvisories,[GHSA-8c7c-2c8j-3xfp] blosc2 heap-based buffer overflow,https://github.com/advisories/GHSA-8c7c-2c8j-3xfp,https://da.gd/Z66G
+GithubAdvisories,[GHSA-74xw-gwfm-7pv7] bounter Null pointer reference,https://github.com/advisories/GHSA-74xw-gwfm-7pv7,https://da.gd/83AhJ
+GithubAdvisories,[GHSA-3v99-hpv7-9hh9] Capstone Integer overflow,https://github.com/advisories/GHSA-3v99-hpv7-9hh9,https://da.gd/TOtyt
+GithubAdvisories,[GHSA-pvjg-jwp3-mrj5] chia-blockchain tokens can be inflated to an arbitrary extent,https://github.com/advisories/GHSA-pvjg-jwp3-mrj5,https://da.gd/Lp3Mp
+GithubAdvisories,[GHSA-c33m-22cr-j9x4] Designate does not enforce the DNS protocol limit concerning record set sizes,https://github.com/advisories/GHSA-c33m-22cr-j9x4,https://da.gd/KiG4w
+GithubAdvisories,[GHSA-m6h2-634h-jcpj] Designate mDNS DoS through incorrect handling of large RecordSets,https://github.com/advisories/GHSA-m6h2-634h-jcpj,https://da.gd/brJDD
+GithubAdvisories,[GHSA-xf2w-5673-h6ww] diplib Double Free,https://github.com/advisories/GHSA-xf2w-5673-h6ww,https://da.gd/It2o
+GithubAdvisories,[GHSA-jvp9-phwp-p738] LIEF heap buffer overflow in the LIEF::MachO::BinaryParser::parse_dyldinfo_generic_bind,https://github.com/advisories/GHSA-jvp9-phwp-p738,https://da.gd/iurKM
+GithubAdvisories,[GHSA-jcjp-qqpq-pc54] Zope allows local users to read arbitrary files,https://github.com/advisories/GHSA-jcjp-qqpq-pc54,https://da.gd/88p95
