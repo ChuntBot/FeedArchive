@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9g6g-xqv5-8g5w] PingCAP TiDB nil pointer dereference,https://github.com/advisories/GHSA-9g6g-xqv5-8g5w,https://da.gd/qDAw
+GithubAdvisories,[GHSA-5r4x-qc7q-vj27] Zope Cross-site scripting (XSS) vulnerability in ZMI pages,https://github.com/advisories/GHSA-5r4x-qc7q-vj27,https://da.gd/42uXG9
+GithubAdvisories,[GHSA-hm8g-jxjj-gfm3] Zope allows remote attackers to read arbitrary files,https://github.com/advisories/GHSA-hm8g-jxjj-gfm3,https://da.gd/V22Q3o
+GithubAdvisories,[GHSA-v62p-cjv8-35xh] Tahoe-LAFS fails to ensure integrity,https://github.com/advisories/GHSA-v62p-cjv8-35xh,https://da.gd/wdGbkJ
+GithubAdvisories,[GHSA-49cc-xrjf-9qf7] SFTPGo allows administrators to restrict command execution from the EventManager,https://github.com/advisories/GHSA-49cc-xrjf-9qf7,https://da.gd/bff6vf
