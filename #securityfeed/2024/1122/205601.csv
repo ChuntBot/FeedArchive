@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pqhp-25j4-6hq9] smol-toml has a Denial of Service via malicious TOML document using deeply nested inline tables,https://github.com/advisories/GHSA-pqhp-25j4-6hq9,https://da.gd/cBaaM
+GithubAdvisories,[GHSA-v5h2-q2w4-gpcx] Sentry improper error handling leaks Application Integration Client Secret,https://github.com/advisories/GHSA-v5h2-q2w4-gpcx,https://da.gd/emrOI
+GithubAdvisories,[GHSA-377p-g8gr-5wpg] LIEF obtain sensitive information via the name parameter,https://github.com/advisories/GHSA-377p-g8gr-5wpg,https://da.gd/NZBYb
+GithubAdvisories,[GHSA-8w49-h785-mj3c] Tornado has an HTTP cookie parsing DoS vulnerability,https://github.com/advisories/GHSA-8w49-h785-mj3c,https://da.gd/sToi
+GithubAdvisories,[GHSA-5pcj-3m26-w633] Patchelf out-of-bounds read,https://github.com/advisories/GHSA-5pcj-3m26-w633,https://da.gd/VLhj3
+GithubAdvisories,[GHSA-g58x-799h-v9h6] Boolector use after free,https://github.com/advisories/GHSA-g58x-799h-v9h6,https://da.gd/0uw87l
