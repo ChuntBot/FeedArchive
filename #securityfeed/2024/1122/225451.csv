@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-27wf-5967-98gx] Kubernetes kubelet arbitrary command execution,https://github.com/advisories/GHSA-27wf-5967-98gx,https://da.gd/6HjOU
+GithubAdvisories,[GHSA-mr95-vfcf-fx9p] Apache Answer: Predictable Authorization Token Using UUIDv1,https://github.com/advisories/GHSA-mr95-vfcf-fx9p,https://da.gd/wcRA
