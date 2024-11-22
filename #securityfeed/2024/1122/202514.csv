@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vm3q-58wm-2r2x] libpg_query memory leak,https://github.com/advisories/GHSA-vm3q-58wm-2r2x,https://da.gd/pjl3o
+GithubAdvisories,[GHSA-98j2-hfxp-8h8r] Apache Doris hardcoded key and IV,https://github.com/advisories/GHSA-98j2-hfxp-8h8r,https://da.gd/eobPlQ
+GithubAdvisories,[GHSA-h2rr-m97p-6jq9] Selenium Server (Grid) CSRF,https://github.com/advisories/GHSA-h2rr-m97p-6jq9,https://da.gd/8n1AK
+GithubAdvisories,[GHSA-5m6v-2xgf-qhrw] Mayan EDMS DMS XSS vulnerability,https://github.com/advisories/GHSA-5m6v-2xgf-qhrw,https://da.gd/58JS1o
+GithubAdvisories,[GHSA-wpvx-26f7-65q3] Mayan EDMS multiple cross-site scripting (XSS) vulnerabilities,https://github.com/advisories/GHSA-wpvx-26f7-65q3,https://da.gd/iFDxr
+GithubAdvisories,[GHSA-2c7w-v459-cwgf] MotionEye allows attackers to access sensitive information,https://github.com/advisories/GHSA-2c7w-v459-cwgf,https://da.gd/ZV9MvM
+GithubAdvisories,[GHSA-6875-ff47-r6p6] Ipsilon denial of service via a duplicate SP name,https://github.com/advisories/GHSA-6875-ff47-r6p6,https://da.gd/IyVp
+GithubAdvisories,[GHSA-9qp4-79q8-58pr] Ipsilon denial of service by deleting a SAML2 Service Provider (SP),https://github.com/advisories/GHSA-9qp4-79q8-58pr,https://da.gd/5g3K1J
+GithubAdvisories,[GHSA-vwp5-w4rq-g4cc] Koji blacklisted paths workaround,https://github.com/advisories/GHSA-vwp5-w4rq-g4cc,https://da.gd/QZPXJg
+GithubAdvisories,[GHSA-xv7j-2v4w-cjvh] OpenStack Glance logs user name and password in cleartext,https://github.com/advisories/GHSA-xv7j-2v4w-cjvh,https://da.gd/dcpDo
+GithubAdvisories,[GHSA-vwxc-3cfr-37jq] GoLismero symlink attack,https://github.com/advisories/GHSA-vwxc-3cfr-37jq,https://da.gd/u3mnfr
+GithubAdvisories,[GHSA-f836-7jqw-3684] Libextractor multiple heap-based buffer overflows,https://github.com/advisories/GHSA-f836-7jqw-3684,https://da.gd/GsYiyT
+GithubAdvisories,[GHSA-qqr6-vm23-m488] Galaxy cross-site scripting (XSS),https://github.com/advisories/GHSA-qqr6-vm23-m488,https://da.gd/DHhrX5
+GithubAdvisories,[GHSA-v5hv-4pw3-q6h9] ADMesh improper array index validation,https://github.com/advisories/GHSA-v5hv-4pw3-q6h9,https://da.gd/hbMmw
+GithubAdvisories,[GHSA-8823-xphr-qw9v] Gentoo Portage does not verify X.509 certificates from SSL servers,https://github.com/advisories/GHSA-8823-xphr-qw9v,https://da.gd/y3jH9
+GithubAdvisories,[GHSA-m52v-24p8-654f] SurrealDB has an Uncaught Exception Sorting Tables by Random Order,https://github.com/advisories/GHSA-m52v-24p8-654f,https://da.gd/ygoRl
+GithubAdvisories,[GHSA-jc55-246c-r88f] SurrealDB has an Uncaught Exception Handling Nonexistent Role,https://github.com/advisories/GHSA-jc55-246c-r88f,https://da.gd/uONQn
+GithubAdvisories,[GHSA-h4f5-h82v-5w4r] SurrealDB has an Uncaught Exception in Function Generating Random Time,https://github.com/advisories/GHSA-h4f5-h82v-5w4r,https://da.gd/IjwMo4
