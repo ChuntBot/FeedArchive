@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rjjv-87mx-6x3h] @sveltejs/kit vulnerable to on dev mode 404 page,https://github.com/advisories/GHSA-rjjv-87mx-6x3h,https://da.gd/0AB3
+GithubAdvisories,[GHSA-mh2x-fcqh-fmqv] @sveltejs/kit has unescaped error message included on error page,https://github.com/advisories/GHSA-mh2x-fcqh-fmqv,https://da.gd/tYi0A
+GithubAdvisories,[GHSA-f27h-g923-68hw] OpenStack Neutron can use an incorrect ID during policy enforcement,https://github.com/advisories/GHSA-f27h-g923-68hw,https://da.gd/3KlnJ1
+GithubAdvisories,[GHSA-5xr6-xhww-33m4] Artifact poisoning vulnerability in action-download-artifact v5 and earlier,https://github.com/advisories/GHSA-5xr6-xhww-33m4,https://da.gd/fjqmE
