@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-93ww-43rr-79v3] Keycloak mTLS Authentication Bypass via Reverse Proxy TLS Termination,https://github.com/advisories/GHSA-93ww-43rr-79v3,https://da.gd/SG1M
+GithubAdvisories,[GHSA-jgwc-jh89-rpgq] Keycloak proxy header handling Denial-of-Service (DoS) vulnerability,https://github.com/advisories/GHSA-jgwc-jh89-rpgq,https://da.gd/wU8MA
+GithubAdvisories,[GHSA-pcx7-8hxg-j823] Duplicate Advisory: Keycloak proxy header handling Denial-of-Service (DoS) vulnerability,https://github.com/advisories/GHSA-pcx7-8hxg-j823,https://da.gd/YSZYz
+GithubAdvisories,[GHSA-xg58-75qf-9r67] Cilium's Layer 7 policy enforcement may not occur in policies with wildcarded port ranges,https://github.com/advisories/GHSA-xg58-75qf-9r67,https://da.gd/GPckJm
+GithubAdvisories,[GHSA-qqwr-j9mm-fhw6] deno_doc's HTML generator vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-qqwr-j9mm-fhw6,https://da.gd/nLJO
