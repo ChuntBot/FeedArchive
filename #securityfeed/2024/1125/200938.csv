@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3864-rp2m-2qfj] libre-chat Path Traversal vulnerability,https://github.com/advisories/GHSA-3864-rp2m-2qfj,https://da.gd/VPZef
+GithubAdvisories,[GHSA-qpgc-w4mg-6v92] MLflow's excessive directory permissions allow local privilege escalation,https://github.com/advisories/GHSA-qpgc-w4mg-6v92,https://da.gd/GHLL
