@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qg5g-gv98-5ffh] rustls network-reachable panic in `Acceptor::accept`,https://github.com/advisories/GHSA-qg5g-gv98-5ffh,https://da.gd/RqrAS
