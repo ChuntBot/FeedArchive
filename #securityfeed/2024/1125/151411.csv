@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7f6p-phw2-8253] Taurus multi-party-sig has OT-based ECDSA protocol implementation flaws,https://github.com/advisories/GHSA-7f6p-phw2-8253,https://da.gd/WF44
