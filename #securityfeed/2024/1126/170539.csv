@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w5rq-g9r6-vrcg] @dapperduckling/keycloak-connector-server has Reflected XSS Vulnerability in Authentication Flow URL Handling,https://github.com/advisories/GHSA-w5rq-g9r6-vrcg,https://da.gd/segC49
+GithubAdvisories,[GHSA-q4xm-6fjc-5f6w] sigstore-java has vulnerability with bundle verification,https://github.com/advisories/GHSA-q4xm-6fjc-5f6w,https://da.gd/WccZC
+GithubAdvisories,[GHSA-v7vm-rhmg-8j2r] Password Policy Bypass Vulnerability in Fides Webserver User Accept Invite API,https://github.com/advisories/GHSA-v7vm-rhmg-8j2r,https://da.gd/VcVFbe
