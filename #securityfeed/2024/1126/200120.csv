@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hh33-46q4-hwm2] Re-creating a deleted user in lakeFS will re-enable previous user credentials that existed prior to its deletion,https://github.com/advisories/GHSA-hh33-46q4-hwm2,https://da.gd/zNhed
