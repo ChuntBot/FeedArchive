@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4gwv-fpmg-cmv2] Jenkins Simple Queue Plugin has stored cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-4gwv-fpmg-cmv2,https://da.gd/rKM8
