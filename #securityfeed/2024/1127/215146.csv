@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jwcm-9g39-pmcw] Recursive repository cloning can leak authentication tokens to non-GitHub submodule hosts,https://github.com/advisories/GHSA-jwcm-9g39-pmcw,https://da.gd/xm2JJ
+GithubAdvisories,[GHSA-55v3-xh23-96gh] `auth.TokenForHost` violates GitHub host security boundary when sourcing authentication token within a codespace,https://github.com/advisories/GHSA-55v3-xh23-96gh,https://da.gd/AUYZ1v
