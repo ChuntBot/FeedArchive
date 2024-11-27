@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fwxq-3f52-5cmc] Jenkins Filesystem List Parameter Plugin has Path Traversal vulnerability,https://github.com/advisories/GHSA-fwxq-3f52-5cmc,https://da.gd/7BblD
