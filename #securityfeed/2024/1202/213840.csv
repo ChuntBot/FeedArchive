@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2mj3-vfvx-fc43] Moby Race Condition vulnerability,https://github.com/advisories/GHSA-2mj3-vfvx-fc43,https://da.gd/h1YO
+GithubAdvisories,[GHSA-59g5-xgcq-4qw3] Denial of service (DoS) via deformation `multipart/form-data` boundary,https://github.com/advisories/GHSA-59g5-xgcq-4qw3,https://da.gd/LuwgZA
+GithubAdvisories,[GHSA-qmc2-jpr5-7rg9] Backstage Scaffolder plugin vulnerable to Server-Side Request Forgery,https://github.com/advisories/GHSA-qmc2-jpr5-7rg9,https://da.gd/nGffy
+GithubAdvisories,[GHSA-x4x5-jx9j-mmv7] pyspider Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-x4x5-jx9j-mmv7,https://da.gd/JS7BaY
+GithubAdvisories,[GHSA-x3f4-45xf-rjm7] `ruzstd` uninit and out-of-bounds memory reads,https://github.com/advisories/GHSA-x3f4-45xf-rjm7,https://da.gd/JMSTuI
