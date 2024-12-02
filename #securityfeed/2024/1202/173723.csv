@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q6mv-284r-mp36] check-jsonschema default caching for remote schemas allows for cache confusion,https://github.com/advisories/GHSA-q6mv-284r-mp36,https://da.gd/6hAR
+GithubAdvisories,[GHSA-px8v-pp82-rcvr] quic-go affected by an ICMP Packet Too Large Injection Attack on Linux,https://github.com/advisories/GHSA-px8v-pp82-rcvr,https://da.gd/7sz3X
+GithubAdvisories,[GHSA-hjwq-mjwj-4x6c] @intlify/shared Prototype Pollution vulnerability,https://github.com/advisories/GHSA-hjwq-mjwj-4x6c,https://da.gd/rfir4
+GithubAdvisories,[GHSA-9r9m-ffp6-9x4v] vue-i18n has cross-site scripting vulnerability with prototype pollution,https://github.com/advisories/GHSA-9r9m-ffp6-9x4v,https://da.gd/s3kLl
+GithubAdvisories,[GHSA-pxm4-r5ph-q2m2] SimpleSAMLphp SAML2 has an XXE in parsing SAML messages,https://github.com/advisories/GHSA-pxm4-r5ph-q2m2,https://da.gd/92ELuO
+GithubAdvisories,[GHSA-6943-qr24-82vx] sftpgo vulnerable to brute force takeover of OpenID Connect session cookies,https://github.com/advisories/GHSA-6943-qr24-82vx,https://da.gd/9AcYv4
+GithubAdvisories,[GHSA-4cx5-89vm-833x] veraPDF CLI has potential XXE (XML External Entity Injection) vulnerability,https://github.com/advisories/GHSA-4cx5-89vm-833x,https://da.gd/Daf4lP
+GithubAdvisories,[GHSA-2x65-fpch-2fcm] SimpleSAMLphp xml-common XXE vulnerability,https://github.com/advisories/GHSA-2x65-fpch-2fcm,https://da.gd/oBxZu
+GithubAdvisories,[GHSA-h924-8g65-j9wg] Traefik's X-Forwarded-Prefix Header still allows for Open Redirect,https://github.com/advisories/GHSA-h924-8g65-j9wg,https://da.gd/ZawhE
