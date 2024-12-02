@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2x5m-9ch4-qgrr] rails-html-sanitizer has XSS vulnerability with certain configurations,https://github.com/advisories/GHSA-2x5m-9ch4-qgrr,https://da.gd/8rCYpM
+GithubAdvisories,[GHSA-cfjx-w229-hgx5] rails-html-sanitizer has XSS vulnerability with certain configurations,https://github.com/advisories/GHSA-cfjx-w229-hgx5,https://da.gd/AT1GPz
+GithubAdvisories,[GHSA-638j-pmjw-jq48] rails-html-sanitizer has XSS vulnerability with certain configurations,https://github.com/advisories/GHSA-638j-pmjw-jq48,https://da.gd/wu7sz
+GithubAdvisories,[GHSA-w8gc-x259-rc7x] rails-html-sanitize has XSS vulnerability with certain configurations,https://github.com/advisories/GHSA-w8gc-x259-rc7x,https://da.gd/RwxDn
+GithubAdvisories,[GHSA-gh5c-3h97-2f3q] Moby Race Condition vulnerability,https://github.com/advisories/GHSA-gh5c-3h97-2f3q,https://da.gd/LaXx1
