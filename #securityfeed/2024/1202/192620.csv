@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+PacketstormSecurity,Omada Identity Cross Site Scripting,https://packetstormsecurity.com/files/182912/SA-20241127-0.txt,https://da.gd/0AhaH
+PacketstormSecurity,Siemens Unlocked JTAG Interface / Buffer Overflow,https://packetstormsecurity.com/files/182911/SA-20241125-0.txt,https://da.gd/w0YYDR
+PacketstormSecurity,ABB Cylon Aspect 3.08.00 fileSystemUpdate.php File Upload / Denial Of Service,https://packetstormsecurity.com/files/182910/ZSL-2024-5866.txt,https://da.gd/gj5rJ
+PacketstormSecurity,ABB Cylon Aspect 3.08.01 mstpstatus.php Information Disclosure,https://packetstormsecurity.com/files/182909/ZSL-2024-5865.txt,https://da.gd/gBSR2y
+PacketstormSecurity,ABB Cylon Aspect 3.08.01 diagLateThread.php Information Disclosure,https://packetstormsecurity.com/files/182908/ZSL-2024-5864.txt,https://da.gd/aSjpdE
+PacketstormSecurity,AppleAVD AV1_Syntax::Parse_Header Out-Of-Bounds Reads,https://packetstormsecurity.com/files/182907/GS2024120242451721.tgz,https://da.gd/hCK9o1
+PacketstormSecurity,AppleAVD AV1_Syntax::f Out-Of-Bounds Reads,https://packetstormsecurity.com/files/182906/GS2024120242451722.tgz,https://da.gd/hATtd
+PacketstormSecurity,AppleAVD AV1_Syntax::Parse_Header Integer Underflow / Out-Of-Bounds Reads,https://packetstormsecurity.com/files/182905/GS2024120242451723.tgz,https://da.gd/Riff
+PacketstormSecurity,Debian Security Advisory 5822-1,https://packetstormsecurity.com/files/182904/dsa-5822-1.txt,https://da.gd/dnGu6t
+PacketstormSecurity,Debian Security Advisory 5821-1,https://packetstormsecurity.com/files/182903/dsa-5821-1.txt,https://da.gd/Dok4pi
+PacketstormSecurity,Debian Security Advisory 5820-1,https://packetstormsecurity.com/files/182902/dsa-5820-1.txt,https://da.gd/iBuYq6
+PacketstormSecurity,Simple Chat System 1.0 Cross Site Scripting,https://packetstormsecurity.com/files/182901/simplechatsystem10-xss.txt,https://da.gd/EygfcN
+PacketstormSecurity,Russian FSB Cross Site Scripting,https://packetstormsecurity.com/files/182897/russiafsb-xss.txt,https://da.gd/SXdF1M
+PacketstormSecurity,Laravel 11.0 Cross Site Scripting,https://packetstormsecurity.com/files/182896/laravel11-xss.txt,https://da.gd/S6D31
+PacketstormSecurity,Red Hat Security Advisory 2024-8704-03,https://packetstormsecurity.com/files/182894/RHSA-2024-8704-03.txt,https://da.gd/5suWM8
+PacketstormSecurity,Red Hat Security Advisory 2024-10704-03,https://packetstormsecurity.com/files/182893/RHSA-2024-10704-03.txt,https://da.gd/nKFUF
+PacketstormSecurity,Red Hat Security Advisory 2024-10702-03,https://packetstormsecurity.com/files/182892/RHSA-2024-10702-03.txt,https://da.gd/X2MZU
+PacketstormSecurity,Red Hat Security Advisory 2024-10677-03,https://packetstormsecurity.com/files/182891/RHSA-2024-10677-03.txt,https://da.gd/Q4tua
+PacketstormSecurity,Red Hat Security Advisory 2024-10667-03,https://packetstormsecurity.com/files/182890/RHSA-2024-10667-03.txt,https://da.gd/xy5xLf
+PacketstormSecurity,Red Hat Security Advisory 2024-10666-03,https://packetstormsecurity.com/files/182889/RHSA-2024-10666-03.txt,https://da.gd/9EYW6Y
+PacketstormSecurity,Nvidia GeForce 11.0.1.163 Unquoted Service Path,https://packetstormsecurity.com/files/182888/nvidiageforce1101163-unquotedpath.txt,https://da.gd/bM4IQ
