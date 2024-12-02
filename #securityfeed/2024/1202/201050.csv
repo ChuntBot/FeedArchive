@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mfj5-cf8g-g2fv] AsyncHttpClient (AHC) library's `CookieStore` replaces explicitly defined `Cookie`s,https://github.com/advisories/GHSA-mfj5-cf8g-g2fv,https://da.gd/TkUYUl
+GithubAdvisories,[GHSA-q3v6-hm2v-pw99] Spring Framework has Authorization Bypass for Case Sensitive Comparisons,https://github.com/advisories/GHSA-q3v6-hm2v-pw99,https://da.gd/V1WdD
+GithubAdvisories,[GHSA-q4h9-7rxj-7gx2] Netty vulnerability included in redis lettuce,https://github.com/advisories/GHSA-q4h9-7rxj-7gx2,https://da.gd/mv9GLH
+GithubAdvisories,[GHSA-j5g2-q29x-cw3h] SimpleSAMLphp vulnerable to XXE in parsing SAML messages,https://github.com/advisories/GHSA-j5g2-q29x-cw3h,https://da.gd/Op7i2C
