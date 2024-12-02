@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7q22-x757-cmgc] Symfony http-security has authentication bypass,https://github.com/advisories/GHSA-7q22-x757-cmgc,https://da.gd/3MGp0
+GithubAdvisories,[GHSA-cg28-v4wq-whv5] Symfony's VarDumper vulnerable to unsafe deserialization,https://github.com/advisories/GHSA-cg28-v4wq-whv5,https://da.gd/Jwi8IO
+GithubAdvisories,[GHSA-2gx6-qrpp-c4p3] Ant-Media-Server vulnerable to Improper Output Neutralization for Logs,https://github.com/advisories/GHSA-2gx6-qrpp-c4p3,https://da.gd/31b5w
+GithubAdvisories,[GHSA-q849-wxrc-vqrp] hull.js Code Injection Vulnerability,https://github.com/advisories/GHSA-q849-wxrc-vqrp,https://da.gd/x3LgS
