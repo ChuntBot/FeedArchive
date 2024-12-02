@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mgfg-7533-7jf6] ezsystems/ezplatform-http-cache affected by Breach with Varnish VCL,https://github.com/advisories/GHSA-mgfg-7533-7jf6,https://da.gd/npJYp
+GithubAdvisories,"[GHSA-p57h-3cmc-xpjq] Python package ""zhmcclient"" stores passwords in clear text in its HMC and API logs",https://github.com/advisories/GHSA-p57h-3cmc-xpjq,https://da.gd/HgMP
+GithubAdvisories,[GHSA-8w3p-gf85-qcch] Ibexa Admin UI vulnerable to Cross-site Scripting in a field that is used in the Content name pattern,https://github.com/advisories/GHSA-8w3p-gf85-qcch,https://da.gd/mrvAz
+GithubAdvisories,[GHSA-75c5-xw7c-p5pm] PyJWT Issuer field partial matches allowed,https://github.com/advisories/GHSA-75c5-xw7c-p5pm,https://da.gd/4mqsXT
