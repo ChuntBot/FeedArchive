@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m7xq-9374-9rvx] Mongoose search injection vulnerability,https://github.com/advisories/GHSA-m7xq-9374-9rvx,https://da.gd/4YW4QM
+GithubAdvisories,[GHSA-rxv5-gxqc-xx8g] rails-html-sanitizer has XSS vulnerability with certain configurations,https://github.com/advisories/GHSA-rxv5-gxqc-xx8g,https://da.gd/LjY0hb
+GithubAdvisories,[GHSA-h36c-m3rf-34h9] Access to Archived Argo Workflows with Fake Token in `client` mode,https://github.com/advisories/GHSA-h36c-m3rf-34h9,https://da.gd/6kp5a
+GithubAdvisories,[GHSA-q9rr-h3hx-m87g] BunkerWeb has Open Redirect Vulnerability in Loading Page,https://github.com/advisories/GHSA-q9rr-h3hx-m87g,https://da.gd/AwKG
