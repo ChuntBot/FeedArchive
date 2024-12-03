@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rfq8-j7rh-8hf2] Synapse allows unsupported content types to lead to memory exhaustion,https://github.com/advisories/GHSA-rfq8-j7rh-8hf2,https://da.gd/WpFVF
+GithubAdvisories,[GHSA-gjgr-7834-rhxr] Synapse's unauthenticated writes to the media repository allow planting of problematic content,https://github.com/advisories/GHSA-gjgr-7834-rhxr,https://da.gd/67ePU2
+GithubAdvisories,[GHSA-4mhg-xv73-xq2x] Synapse denial of service through media disk space consumption,https://github.com/advisories/GHSA-4mhg-xv73-xq2x,https://da.gd/j5AuMB
