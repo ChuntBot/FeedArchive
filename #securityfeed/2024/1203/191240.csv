@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rcq8-9q3j-98mw] Apache Ozone: Improper authentication when generating S3 secrets,https://github.com/advisories/GHSA-rcq8-9q3j-98mw,https://da.gd/PC2B
+GithubAdvisories,"[GHSA-5jc6-h9w7-jm3p] Mobile Security Framework (MobSF) Stored Cross-Site Scripting Vulnerability in ""Diff or Compare"" Functionality",https://github.com/advisories/GHSA-5jc6-h9w7-jm3p,https://da.gd/sPIti
+GithubAdvisories,[GHSA-56w4-5538-8v8h] Synapse Matrix has a partial room state leak via Sliding Sync,https://github.com/advisories/GHSA-56w4-5538-8v8h,https://da.gd/u4AvbF
+GithubAdvisories,"[GHSA-vp6v-whfm-rv3g] Synapse can be forced to thumbnail unexpected file formats, invoking external, potentially untrustworthy decoders",https://github.com/advisories/GHSA-vp6v-whfm-rv3g,https://da.gd/ikbgGJ
+GithubAdvisories,[GHSA-7mwh-q3xm-qh6p] Vitess allows HTML injection in /debug/querylogz & /debug/env,https://github.com/advisories/GHSA-7mwh-q3xm-qh6p,https://da.gd/Eyob8G
+GithubAdvisories,[GHSA-f3r3-h2mq-hx2h] Synapse allows a a malformed invite to break the invitee's `/sync`,https://github.com/advisories/GHSA-f3r3-h2mq-hx2h,https://da.gd/b8CT
