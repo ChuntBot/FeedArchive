@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubCommitStaging,fix: check docker version fail in generate_config.sh #6187 (#6188),https://github.com/mailcow/mailcow-dockerized/commit/6e8e13cebc45c4e6172fa78c8fb8481d53e0d7e5,https://da.gd/jfEyG
