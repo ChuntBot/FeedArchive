@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fwfx-rrv8-crpf] op_panic in the base runtime can force a panic in the runtime's containing thread,https://github.com/advisories/GHSA-fwfx-rrv8-crpf,https://da.gd/KatHh
+GithubAdvisories,[GHSA-4mw5-2636-4535] op_panic in the base runtime can force a panic in the runtime's containing thread,https://github.com/advisories/GHSA-4mw5-2636-4535,https://da.gd/MEluP
+GithubAdvisories,[GHSA-2rxc-gjrp-vjhx] Unsoundness in anstream,https://github.com/advisories/GHSA-2rxc-gjrp-vjhx,https://da.gd/u7dp2
+GithubAdvisories,[GHSA-wwq9-3cpr-mm53] Borsh serialization of HashMap is non-canonical,https://github.com/advisories/GHSA-wwq9-3cpr-mm53,https://da.gd/piuo
+GithubAdvisories,[GHSA-f95p-4cv5-8w8x] linkme fails to ensure slice elements match the slice's declared type,https://github.com/advisories/GHSA-f95p-4cv5-8w8x,https://da.gd/QjE3
