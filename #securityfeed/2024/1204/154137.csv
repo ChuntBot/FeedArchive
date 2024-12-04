@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2m9h-r57g-45pj] Downloading malicious GitHub Actions workflow artifact results in path traversal vulnerability,https://github.com/advisories/GHSA-2m9h-r57g-45pj,https://da.gd/fZuE
