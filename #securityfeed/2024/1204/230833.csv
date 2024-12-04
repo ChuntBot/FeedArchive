@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wcx3-63mm-h8x6] MediaWiki UnlinkedWikibase Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-wcx3-63mm-h8x6,https://da.gd/11tf2
+GithubAdvisories,[GHSA-q59j-vv4j-v33c] NULL Pointer Dereference on moby image history,https://github.com/advisories/GHSA-q59j-vv4j-v33c,https://da.gd/WOMEJ
