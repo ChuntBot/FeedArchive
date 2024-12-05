@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rhx6-c78j-4q9w] Unpatched `path-to-regexp` ReDoS in 0.1.x,https://github.com/advisories/GHSA-rhx6-c78j-4q9w,https://da.gd/hrJRf
+GithubAdvisories,[GHSA-r6wx-627v-gh2f] Directus has an HTML Injection in Comment,https://github.com/advisories/GHSA-r6wx-627v-gh2f,https://da.gd/RDofcA
+GithubAdvisories,[GHSA-jp26-88mw-89qr] sigstore-java has a vulnerability with bundle verification,https://github.com/advisories/GHSA-jp26-88mw-89qr,https://da.gd/RC4iu
