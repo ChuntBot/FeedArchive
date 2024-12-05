@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4grw-m28r-q285] rPGP Potential Resource Exhaustion when handling Untrusted Messages,https://github.com/advisories/GHSA-4grw-m28r-q285,https://da.gd/KggBC
+GithubAdvisories,[GHSA-9rmp-2568-59rv] rPGP Panics on Malformed Untrusted Input,https://github.com/advisories/GHSA-9rmp-2568-59rv,https://da.gd/QqvWd
