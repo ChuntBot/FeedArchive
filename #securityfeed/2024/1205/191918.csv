@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vxcf-c7mx-pg53] Build corruption when using `PYO3_CONFIG_FILE` environment variable,https://github.com/advisories/GHSA-vxcf-c7mx-pg53,https://da.gd/z0yPtB
+GithubAdvisories,[GHSA-gw5w-5j7f-jmjj] Unsound usages of `std::slice::from_raw_parts`,https://github.com/advisories/GHSA-gw5w-5j7f-jmjj,https://da.gd/YXeydF
