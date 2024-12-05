@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-52jr-x6h6-xj6g] Drupal core vulnerable to improper error handling,https://github.com/advisories/GHSA-52jr-x6h6-xj6g,https://da.gd/btxN
+GithubAdvisories,[GHSA-xq54-x54m-vcpx] Drupal core Denial of Service,https://github.com/advisories/GHSA-xq54-x54m-vcpx,https://da.gd/8c6t
+GithubAdvisories,[GHSA-6hqr-c69m-r76q] Apache Hive: Deserialization of untrusted data when fetching partitions from the Metastore,https://github.com/advisories/GHSA-6hqr-c69m-r76q,https://da.gd/U4jU9p
