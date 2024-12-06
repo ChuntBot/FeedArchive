@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-m9g8-fxxm-xg86] Django SQL injection in HasKey(lhs, rhs) on Oracle",https://github.com/advisories/GHSA-m9g8-fxxm-xg86,https://da.gd/gwP3Wu
+GithubAdvisories,[GHSA-8498-2h75-472j] Django denial-of-service in django.utils.html.strip_tags(),https://github.com/advisories/GHSA-8498-2h75-472j,https://da.gd/5CWbq
+GithubAdvisories,[GHSA-vrjr-p3xp-xx2x] phpMyFAQ Generates an Error Message Containing Sensitive Information if database server is not available,https://github.com/advisories/GHSA-vrjr-p3xp-xx2x,https://da.gd/Ncnk3u
