@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jpmc-7p9c-4rxf] lxd has a restricted TLS certificate privilege escalation when in PKI mode,https://github.com/advisories/GHSA-jpmc-7p9c-4rxf,https://da.gd/WeKvkF
+GithubAdvisories,[GHSA-mwcw-c2x4-8c55] Infinite loop in nanoid,https://github.com/advisories/GHSA-mwcw-c2x4-8c55,https://da.gd/MxcN1d
+GithubAdvisories,[GHSA-32r8-54hf-c9p3] unstructured XML External Entity (XXE),https://github.com/advisories/GHSA-32r8-54hf-c9p3,https://da.gd/LbU3yt
