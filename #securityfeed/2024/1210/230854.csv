@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vm32-9rqf-rh3r] pnpm no-script global cache poisoning via overrides / `ignore-scripts` evasion,https://github.com/advisories/GHSA-vm32-9rqf-rh3r,https://da.gd/ObH17
+GithubAdvisories,[GHSA-vfm5-rmrh-j26v] Possible Content Security Policy bypass in Action Dispatch,https://github.com/advisories/GHSA-vfm5-rmrh-j26v,https://da.gd/wDebGG
+GithubAdvisories,[GHSA-6c5q-fg3g-qhhv] LibreNMS stored cross-site scripting (XSS) vulnerability in the Device Settings section,https://github.com/advisories/GHSA-6c5q-fg3g-qhhv,https://da.gd/e5lPmE
+GithubAdvisories,[GHSA-gg6x-448q-pqqm] Avenwu Whistle Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-gg6x-448q-pqqm,https://da.gd/s0r5T
