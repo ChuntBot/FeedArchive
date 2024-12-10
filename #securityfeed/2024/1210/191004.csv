@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8mvq-8h2v-j9vf] Drupal Core Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-8mvq-8h2v-j9vf,https://da.gd/0lWod
+GithubAdvisories,[GHSA-938f-5r4f-h65v] Drupal core contains a potential PHP Object Injection vulnerability,https://github.com/advisories/GHSA-938f-5r4f-h65v,https://da.gd/vbkQ82
+GithubAdvisories,[GHSA-w6rx-9g2x-mg5g] Drupal core contains a potential PHP Object Injection vulnerability,https://github.com/advisories/GHSA-w6rx-9g2x-mg5g,https://da.gd/WUBH8
+GithubAdvisories,[GHSA-7cwc-fjqm-8vh8] Drupal core Access bypass,https://github.com/advisories/GHSA-7cwc-fjqm-8vh8,https://da.gd/dLki
+GithubAdvisories,[GHSA-gvf2-2f4g-jqf4] Drupal core contains a potential PHP Object Injection vulnerability,https://github.com/advisories/GHSA-gvf2-2f4g-jqf4,https://da.gd/efmRND
+GithubAdvisories,[GHSA-4v5x-9m47-cqr2] WildFly Elytron OpenID Connect Client Extension authorization code injection attack,https://github.com/advisories/GHSA-4v5x-9m47-cqr2,https://da.gd/nWsuH
