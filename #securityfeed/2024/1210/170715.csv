@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8qch-vj6m-2694] luigi Arbitrary File Write via Archive Extraction (Zip Slip),https://github.com/advisories/GHSA-8qch-vj6m-2694,https://da.gd/DrXUf
+GithubAdvisories,[GHSA-f626-677r-j5vq] Nette Database SQL injection,https://github.com/advisories/GHSA-f626-677r-j5vq,https://da.gd/B7Lu9G
+GithubAdvisories,[GHSA-2q97-m5rc-p3gp] CosmWasm VM Incorrect metering,https://github.com/advisories/GHSA-2q97-m5rc-p3gp,https://da.gd/saGq
+GithubAdvisories,[GHSA-vmqh-5232-v43r] Panic in wasmvm can slow down block production,https://github.com/advisories/GHSA-vmqh-5232-v43r,https://da.gd/i3dtwL
+GithubAdvisories,[GHSA-vmg2-r3xv-r3xf] Simulation of Wasmd message can cause crashing,https://github.com/advisories/GHSA-vmg2-r3xv-r3xf,https://da.gd/aaQk69
+GithubAdvisories,[GHSA-5462-4vcx-jh7j] Angular Expressions - Remote Code Execution when using locals,https://github.com/advisories/GHSA-5462-4vcx-jh7j,https://da.gd/Li47M
