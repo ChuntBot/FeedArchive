@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v778-237x-gjrc] Misuse of ServerConfig.PublicKeyCallback may cause authorization bypass in golang.org/x/crypto,https://github.com/advisories/GHSA-v778-237x-gjrc,https://da.gd/0bMZdq
+GithubAdvisories,[GHSA-43mq-6xmg-29vm] Apache Struts file upload logic is flawed,https://github.com/advisories/GHSA-43mq-6xmg-29vm,https://da.gd/dl6fZ
+GithubAdvisories,[GHSA-pqj8-xhcx-prxm] pyspider Cross-Site Request Forgery (CSRF) via the Flask endpoints,https://github.com/advisories/GHSA-pqj8-xhcx-prxm,https://da.gd/BS2dd5
+GithubAdvisories,[GHSA-vvpf-53qx-cxhh] Liferay Portal has a Stored XSS with Blog entries (Insecure defaults),https://github.com/advisories/GHSA-vvpf-53qx-cxhh,https://da.gd/MtPCzg
+GithubAdvisories,[GHSA-43h9-p3j4-39hm] Liferay Portal defaults to a low work factor for the default password hashing algorithm,https://github.com/advisories/GHSA-43h9-p3j4-39hm,https://da.gd/l30ch
+GithubAdvisories,[GHSA-753p-wrj5-g8fj] PQClean has a correctness error in HQC decapsulation,https://github.com/advisories/GHSA-753p-wrj5-g8fj,https://da.gd/zVyO38
