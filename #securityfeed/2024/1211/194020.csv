@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-869h-qhfx-w939] Liferay Portal has an XXE vulnerability in Java2WsddTask._format,https://github.com/advisories/GHSA-869h-qhfx-w939,https://da.gd/AcuHa
