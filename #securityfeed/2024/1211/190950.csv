@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xx68-37v4-4596] SiYuan has an arbitrary file read via /api/template/render,https://github.com/advisories/GHSA-xx68-37v4-4596,https://da.gd/uVRwkk
+GithubAdvisories,[GHSA-fqj6-whhx-47p7] SiYuan has an arbitrary file write in the host via /api/asset/upload,https://github.com/advisories/GHSA-fqj6-whhx-47p7,https://da.gd/3IOT4
+GithubAdvisories,[GHSA-25w9-wqfq-gwqx] SiYuan has an arbitrary file read and path traversal via /api/export/exportResources,https://github.com/advisories/GHSA-25w9-wqfq-gwqx,https://da.gd/Lgz1
+GithubAdvisories,[GHSA-4pjc-pwgq-q9jp] SiYuan has an SSTI via /api/template/renderSprig,https://github.com/advisories/GHSA-4pjc-pwgq-q9jp,https://da.gd/gjj2F
+GithubAdvisories,[GHSA-c7xh-gjv4-4jgv] kcp's impersonation allows access to global administrative groups,https://github.com/advisories/GHSA-c7xh-gjv4-4jgv,https://da.gd/1vFwzo
+GithubAdvisories,[GHSA-hhfg-fwrw-87w7] sigstore has insufficient validation of integration timestamp during verification,https://github.com/advisories/GHSA-hhfg-fwrw-87w7,https://da.gd/crFnw
