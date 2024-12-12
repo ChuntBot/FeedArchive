@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-787v-v9vq-4rgv] Apache Superset: SQLLab Improper readonly query validation allows unauthorized write access,https://github.com/advisories/GHSA-787v-v9vq-4rgv,https://da.gd/DwRPss
+GithubAdvisories,[GHSA-j2pq-22jj-4pm5] XWiki allows remote code execution through the extension sheet,https://github.com/advisories/GHSA-j2pq-22jj-4pm5,https://da.gd/3jCubU
+GithubAdvisories,[GHSA-x6mh-rjwm-8ph7] Cross-site Scripting vulnerability in SimpleXLSXEx::readXfs and SimpeXLSX::toHTMLEx,https://github.com/advisories/GHSA-x6mh-rjwm-8ph7,https://da.gd/xCzdOD
+GithubAdvisories,[GHSA-9j3m-fr7q-jxfw] Beego has Collision Hazards of MD5 in Cache Key Filenames,https://github.com/advisories/GHSA-9j3m-fr7q-jxfw,https://da.gd/WI33U
+GithubAdvisories,[GHSA-wh34-m772-5398] XWiki Platform has an SQL injection in getdocuments.vm with sort parameter,https://github.com/advisories/GHSA-wh34-m772-5398,https://da.gd/dgcRky
+GithubAdvisories,[GHSA-7mj5-hjjj-8rgw] http4k has a potential XXE (XML External Entity Injection) vulnerability,https://github.com/advisories/GHSA-7mj5-hjjj-8rgw,https://da.gd/WB3L
+GithubAdvisories,[GHSA-cwq6-mjmx-47p6] XWiki's scheduler in subwiki allows scheduling operations for any main wiki user,https://github.com/advisories/GHSA-cwq6-mjmx-47p6,https://da.gd/66i8e
+GithubAdvisories,[GHSA-2r87-74cx-2p7c] XWiki allows remote code execution from account through macro descriptions and XWiki.XWikiSyntaxMacrosList,https://github.com/advisories/GHSA-2r87-74cx-2p7c,https://da.gd/XEhpP
+GithubAdvisories,[GHSA-r279-47wg-chpr] XWiki allows RCE from script right in configurable sections,https://github.com/advisories/GHSA-r279-47wg-chpr,https://da.gd/CgBKr
+GithubAdvisories,[GHSA-7prj-hgx4-2xc3] Potential Vulnerabilities Due to Outdated golang.org/x/crypto Dependency in NanoProxy,https://github.com/advisories/GHSA-7prj-hgx4-2xc3,https://da.gd/kGOWWD
+GithubAdvisories,[GHSA-22c5-cpvr-cfvq] undertow: information leakage via HTTP/2 request header reuse,https://github.com/advisories/GHSA-22c5-cpvr-cfvq,https://da.gd/GHq7nL
+GithubAdvisories,[GHSA-ghw8-3xqw-hhcj] Duplicate Advisory: cert-manager ha a potential slowdown / DoS when parsing specially crafted PEM inputs,https://github.com/advisories/GHSA-ghw8-3xqw-hhcj,https://da.gd/bRorRH
+GithubAdvisories,[GHSA-cxrx-q234-m22m] io.quarkus.http/quarkus-http-core: Quarkus HTTP Cookie Smuggling,https://github.com/advisories/GHSA-cxrx-q234-m22m,https://da.gd/mEKkp
+GithubAdvisories,[GHSA-75mx-hw5q-pvx3] python-libarchive directory traversal,https://github.com/advisories/GHSA-75mx-hw5q-pvx3,https://da.gd/4C71Y
