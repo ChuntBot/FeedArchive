@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v49p-m6gh-747c] djoser Authentication Bypass,https://github.com/advisories/GHSA-v49p-m6gh-747c,https://da.gd/JybdKn
+GithubAdvisories,[GHSA-xx83-cxmq-x89m] Boundary Community Edition Incorrectly Handles HTTP Requests On Initialization Which May Lead to a Denial of Service,https://github.com/advisories/GHSA-xx83-cxmq-x89m,https://da.gd/wTABQ
+GithubAdvisories,[GHSA-832w-fhmw-w4f4] D-Tale allows Remote Code Execution through the Custom Filter Input,https://github.com/advisories/GHSA-832w-fhmw-w4f4,https://da.gd/lwO0Vn
+GithubAdvisories,[GHSA-m3r7-8gw7-qwvc] thorsten/phpmyfaq Unintended File Download Triggered by Embedded Frames,https://github.com/advisories/GHSA-m3r7-8gw7-qwvc,https://da.gd/3Z9A8
+GithubAdvisories,[GHSA-w9j7-phm3-f97j] Ucum-java has an XXE vulnerability in XML parsing,https://github.com/advisories/GHSA-w9j7-phm3-f97j,https://da.gd/ET2YfW
+GithubAdvisories,[GHSA-8vwh-pr89-4mw2] Laravel Pulse Allows Remote Code Execution via Unprotected Query Method,https://github.com/advisories/GHSA-8vwh-pr89-4mw2,https://da.gd/ZlIeQ
