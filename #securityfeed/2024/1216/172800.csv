@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cwq8-g58r-32hg] MinIO vulnerable to privilege escalation in IAM import API,https://github.com/advisories/GHSA-cwq8-g58r-32hg,https://da.gd/4GBzBT
