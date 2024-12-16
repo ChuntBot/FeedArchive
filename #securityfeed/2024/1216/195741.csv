@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-8wcc-m6j2-qxvm] ASA-2024-0012, ASA-2024-0013: CosmosSDK: Transaction decoding may result in a stack overflow or resource exhaustion",https://github.com/advisories/GHSA-8wcc-m6j2-qxvm,https://da.gd/xohAR2
+GithubAdvisories,[GHSA-v647-h8jj-fw5r] Mattermost Data Amplification vulnerability,https://github.com/advisories/GHSA-v647-h8jj-fw5r,https://da.gd/AyXC0
