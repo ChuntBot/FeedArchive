@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-27vq-hv74-7cqp] SurrealDB has Silent Failure to Overwrite Table Definition of Relation Type,https://github.com/advisories/GHSA-27vq-hv74-7cqp,https://da.gd/QZ73dx
