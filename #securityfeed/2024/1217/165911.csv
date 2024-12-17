@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-653p-vg55-5652] Apache Tomcat Uncontrolled Resource Consumption vulnerability,https://github.com/advisories/GHSA-653p-vg55-5652,https://da.gd/KgPgY
+GithubAdvisories,[GHSA-5j33-cvvr-w245] Apache Tomcat Time-of-check Time-of-use (TOCTOU) Race Condition vulnerability,https://github.com/advisories/GHSA-5j33-cvvr-w245,https://da.gd/yG1MNq
