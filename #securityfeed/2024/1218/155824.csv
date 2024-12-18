@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2ff4-xfpr-m32r] `Slip10Like` derivation method instantiated with certain curves may allow attacker to find derivation path which results into very long derivation (possible DoS),https://github.com/advisories/GHSA-2ff4-xfpr-m32r,https://da.gd/3WUuPs
+GithubAdvisories,[GHSA-m56h-5xx3-2jc2] Prototype pollution in jsii.configureCategories,https://github.com/advisories/GHSA-m56h-5xx3-2jc2,https://da.gd/gmPty
+GithubAdvisories,[GHSA-v528-6rq9-h6gw] Spatie Browsershot Directory Traversal vulnerability,https://github.com/advisories/GHSA-v528-6rq9-h6gw,https://da.gd/EbRA
+GithubAdvisories,[GHSA-6569-3785-r3v6] UniSharp Laravel Filemanager Code Injection vulnerability,https://github.com/advisories/GHSA-6569-3785-r3v6,https://da.gd/p5KBSx
+GithubAdvisories,[GHSA-jhh6-6fhp-q2xp] Open Cluster Management vulnerable to Trust Boundary Violation,https://github.com/advisories/GHSA-jhh6-6fhp-q2xp,https://da.gd/MxZo46
+GithubAdvisories,[GHSA-6mpx-pmgp-ww49] Keycloak vulnerable to Cleartext Transmission of Sensitive Information,https://github.com/advisories/GHSA-6mpx-pmgp-ww49,https://da.gd/PaWdhR
+GithubAdvisories,[GHSA-px38-239g-x5mg] Liferay Portal and Liferay DXP have Cross-site Scripting vulnerability in edit Service Access Policy page,https://github.com/advisories/GHSA-px38-239g-x5mg,https://da.gd/udZoQJ
