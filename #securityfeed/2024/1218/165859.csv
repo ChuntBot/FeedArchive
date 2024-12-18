@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v9mx-4pqq-h232] Bun has an Application-level Prototype Pollution vulnerability in the runtime native API for Glo,https://github.com/advisories/GHSA-v9mx-4pqq-h232,https://da.gd/8MlHus
