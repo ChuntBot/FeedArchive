@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c4pw-33h3-35xw] Atro CSRF Middleware Bypass (security.checkOrigin),https://github.com/advisories/GHSA-c4pw-33h3-35xw,https://da.gd/h012
