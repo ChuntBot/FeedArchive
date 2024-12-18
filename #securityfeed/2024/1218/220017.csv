@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w32m-9786-jp63] Non-linear parsing of case-insensitive content in golang.org/x/net/html,https://github.com/advisories/GHSA-w32m-9786-jp63,https://da.gd/LorRD
