@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p7c9-8xx8-h74f] Apache Kafka's SCRAM implementation Incorrectly Implements Authentication Algorithm,https://github.com/advisories/GHSA-p7c9-8xx8-h74f,https://da.gd/MAZjL
