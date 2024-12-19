@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5pf6-cq2v-23ww] WhoDB Allows Unbounded Memory Consumption in Authentication Middleware Can Lead to Denial of Service,https://github.com/advisories/GHSA-5pf6-cq2v-23ww,https://da.gd/CNu9cp
+GithubAdvisories,"[GHSA-47h8-jmp3-9f28] pyrage vulnerable to malicious plugin names, recipients, or identities causing arbitrary binary execution",https://github.com/advisories/GHSA-47h8-jmp3-9f28,https://da.gd/XCIKHz
+GithubAdvisories,[GHSA-49w6-73cw-chjr] Astro's server source code is exposed to the public if sourcemaps are enabled,https://github.com/advisories/GHSA-49w6-73cw-chjr,https://da.gd/nCnOJB
