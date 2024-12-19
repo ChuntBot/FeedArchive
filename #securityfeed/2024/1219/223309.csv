@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6v67-2wr5-gvf4] QOS.CH logback-core Server-Side Request Forgery vulnerability,https://github.com/advisories/GHSA-6v67-2wr5-gvf4,https://da.gd/CL365c
+GithubAdvisories,[GHSA-pr98-23f8-jwxv] QOS.CH logback-core Expression Language Injection vulnerability,https://github.com/advisories/GHSA-pr98-23f8-jwxv,https://da.gd/TfQBL
+GithubAdvisories,[GHSA-77c2-c35q-254w] OpenShift Must Gather Operator Improper Input Validation vulnerability,https://github.com/advisories/GHSA-77c2-c35q-254w,https://da.gd/Byg3oc
