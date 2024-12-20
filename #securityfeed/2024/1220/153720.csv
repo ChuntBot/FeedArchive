@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2qgm-m29m-cj2h] uptime-kuma vulnerable to Local File Inclusion (LFI) via Improper URL Handling in `Real-Browser` monitor,https://github.com/advisories/GHSA-2qgm-m29m-cj2h,https://da.gd/xzdfR
+GithubAdvisories,[GHSA-c9f5-29f6-c35w] Browsershot Improper Input Validation vulnerability,https://github.com/advisories/GHSA-c9f5-29f6-c35w,https://da.gd/3XtLOx
