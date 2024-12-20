@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hr68-hvgv-xxqf] Hashicorp Nomad Incorrect Privilege Assignment vulnerability,https://github.com/advisories/GHSA-hr68-hvgv-xxqf,https://da.gd/i1NRO7
+GithubAdvisories,[GHSA-3q97-vjpp-c8rp] Socialstream has a Potential Account Takeover Vulnerability in Social Account Linking Due to Missing User Consent After OAuth Callback,https://github.com/advisories/GHSA-3q97-vjpp-c8rp,https://da.gd/duf6lu
