@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-27hp-xhwr-wr2m] Apache Tomcat Time-of-check Time-of-use (TOCTOU) Race Condition vulnerability,https://github.com/advisories/GHSA-27hp-xhwr-wr2m,https://da.gd/fYiDb
+GithubAdvisories,[GHSA-hhcw-wwxv-g95c] Oqtane Framework Insecure Direct Object Reference vulnerability,https://github.com/advisories/GHSA-hhcw-wwxv-g95c,https://da.gd/ETiYP
+GithubAdvisories,[GHSA-2hr5-cvwp-jr5w] Oqtane Framework Insecure Direct Object Reference vulnerability,https://github.com/advisories/GHSA-2hr5-cvwp-jr5w,https://da.gd/FR0ly
+GithubAdvisories,[GHSA-995c-qww8-64fj] Oqtane Framework Incorrect Access Control vulnerability,https://github.com/advisories/GHSA-995c-qww8-64fj,https://da.gd/iMYeaf
