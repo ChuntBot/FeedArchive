@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q2x7-8rv6-6q7h] Jinja has a sandbox breakout through indirect reference to format method,https://github.com/advisories/GHSA-q2x7-8rv6-6q7h,https://da.gd/lC45JQ
+GithubAdvisories,[GHSA-gmj6-6f8f-6699] Jinja has a sandbox breakout through malicious filenames,https://github.com/advisories/GHSA-gmj6-6f8f-6699,https://da.gd/tZymDH
+GithubAdvisories,[GHSA-qf5v-rp47-55gg] Path Traversal in file update API in gogs,https://github.com/advisories/GHSA-qf5v-rp47-55gg,https://da.gd/2LL7R
+GithubAdvisories,[GHSA-r7j8-5h9c-f6fx] Remote Command Execution in file editing in gogs,https://github.com/advisories/GHSA-r7j8-5h9c-f6fx,https://da.gd/UKaCO
