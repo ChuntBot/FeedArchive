@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-r87q-fj25-f8jf] Cross-site Scripting vulnerability in SimpleXLSXEx::readThemeColors, SimpleXLSXEx::getColorValue and SimpleXLSX::toHTMLEx",https://github.com/advisories/GHSA-r87q-fj25-f8jf,https://da.gd/BK7mfr
