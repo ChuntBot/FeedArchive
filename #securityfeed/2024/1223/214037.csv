@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-77pm-w3hx-f8mj] Apache Hive and Spark: CookieSigner exposes the correct signature when message verification fails,https://github.com/advisories/GHSA-77pm-w3hx-f8mj,https://da.gd/Bn5kFQ
