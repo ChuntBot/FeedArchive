@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f7qj-v3vp-4856] libafl has unsound usages of `core::slice::from_raw_parts_mut`,https://github.com/advisories/GHSA-f7qj-v3vp-4856,https://da.gd/QTJo
+GithubAdvisories,[GHSA-h6xm-c6r4-vmwf] Unsound usages of `u8` type casting in spl-token-swap,https://github.com/advisories/GHSA-h6xm-c6r4-vmwf,https://da.gd/8KGH
+GithubAdvisories,[GHSA-3qx8-rv27-j6gp] Undefined behaviour in `kvm_ioctls::ioctls::vm::VmFd::create_device`,https://github.com/advisories/GHSA-3qx8-rv27-j6gp,https://da.gd/GJtAL
