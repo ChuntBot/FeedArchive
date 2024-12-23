@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vm62-9jw3-c8w3] Gogs has an argument Injection in the built-in SSH server,https://github.com/advisories/GHSA-vm62-9jw3-c8w3,https://da.gd/pgEB
+GithubAdvisories,[GHSA-9pp6-wq8c-3w2c] Gogs allows argument injection during the previewing of changes,https://github.com/advisories/GHSA-9pp6-wq8c-3w2c,https://da.gd/xl5Bp
+GithubAdvisories,[GHSA-ccqv-43vm-4f3w] Gogs allows deletion of internal files,https://github.com/advisories/GHSA-ccqv-43vm-4f3w,https://da.gd/IPm7K
+GithubAdvisories,[GHSA-m27m-h5gj-wwmg] Gogs allows argument Injection when tagging new releases,https://github.com/advisories/GHSA-m27m-h5gj-wwmg,https://da.gd/yw2y3R
+GithubAdvisories,[GHSA-wrw7-89jp-8q8g] Unsoundness in `Iterator` and `DoubleEndedIterator` impls for `glib::VariantStrIter`,https://github.com/advisories/GHSA-wrw7-89jp-8q8g,https://da.gd/FVOt
+GithubAdvisories,[GHSA-xwx7-p63r-2rj8] Navidrome Stores JWT Secret in Plaintext in navidrome.db,https://github.com/advisories/GHSA-xwx7-p63r-2rj8,https://da.gd/Ru0E5
+GithubAdvisories,[GHSA-64gp-r758-8pfm] Cross Site Scripting (XSS) vulnerability while uploading content to a new deployment,https://github.com/advisories/GHSA-64gp-r758-8pfm,https://da.gd/5o27Qh
