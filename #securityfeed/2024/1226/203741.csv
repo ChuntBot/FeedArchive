@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8gc2-vq6m-rwjw] Amazon Redshift Python Connector vulnerable to SQL Injection,https://github.com/advisories/GHSA-8gc2-vq6m-rwjw,https://da.gd/SrLctJ
+GithubAdvisories,[GHSA-8596-2jgr-ppj7] Amazon Redshift JDBC Driver vulnerable to SQL Injection,https://github.com/advisories/GHSA-8596-2jgr-ppj7,https://da.gd/2ZNSW
+GithubAdvisories,[GHSA-f697-gm3h-xrf9] Apache HugeGraph-Server: Fixed JWT Token (Secret),https://github.com/advisories/GHSA-f697-gm3h-xrf9,https://da.gd/9InsFp
+GithubAdvisories,[GHSA-g2vg-8hfg-79vj] Koji Cross-site Scripting,https://github.com/advisories/GHSA-g2vg-8hfg-79vj,https://da.gd/xmAyLs
+GithubAdvisories,[GHSA-xx95-62h6-h7v3] lgsl Stored Cross-Site Scripting vulnerability,https://github.com/advisories/GHSA-xx95-62h6-h7v3,https://da.gd/1xG09b
