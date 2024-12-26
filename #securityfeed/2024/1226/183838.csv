@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x52f-h5g4-8qv5] Marp Core allows XSS by improper neutralization of HTML sanitization,https://github.com/advisories/GHSA-x52f-h5g4-8qv5,https://da.gd/2sUj
