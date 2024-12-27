@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9mgx-552f-59p6] TCPDF missing certificate validation,https://github.com/advisories/GHSA-9mgx-552f-59p6,https://da.gd/VnI7wI
+GithubAdvisories,[GHSA-grhh-r4jj-8jh7] tecnickcom/tc-lib-pdf-font mishandles fonts,https://github.com/advisories/GHSA-grhh-r4jj-8jh7,https://da.gd/sZFT1
+GithubAdvisories,[GHSA-4p8j-vhjm-6pvw] TCPDF lacks SVG sanitization,https://github.com/advisories/GHSA-4p8j-vhjm-6pvw,https://da.gd/ue95Fn
