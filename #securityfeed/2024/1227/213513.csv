@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qx95-cwh6-9mvq] TCPDF missing character escape on error messages,https://github.com/advisories/GHSA-qx95-cwh6-9mvq,https://da.gd/cAF6
+GithubAdvisories,[GHSA-w95c-7994-ghpr] TCPDF has incorrect comparison,https://github.com/advisories/GHSA-w95c-7994-ghpr,https://da.gd/yso1ol
