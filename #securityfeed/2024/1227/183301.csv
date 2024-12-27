@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hqmp-g7ph-x543] TunnelVision - decloaking VPNs using DHCP,https://github.com/advisories/GHSA-hqmp-g7ph-x543,https://da.gd/hydTE
+GithubAdvisories,[GHSA-pq9p-pc3p-9hm4] python-sql SQL injection vulnerability,https://github.com/advisories/GHSA-pq9p-pc3p-9hm4,https://da.gd/SphXu
+GithubAdvisories,[GHSA-j5vv-6wjg-cfr8] changedetection.io Vulnerable to Improper Input Validation Leading to LFR/Path Traversal,https://github.com/advisories/GHSA-j5vv-6wjg-cfr8,https://da.gd/A0bB
