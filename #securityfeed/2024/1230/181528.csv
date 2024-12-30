@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9wmc-988h-2mv2] TeamPass privileges issue,https://github.com/advisories/GHSA-9wmc-988h-2mv2,https://da.gd/5zGTu
+GithubAdvisories,[GHSA-7rm3-4w6j-8xx4] TeamPass mail_me operation authorization issue,https://github.com/advisories/GHSA-7rm3-4w6j-8xx4,https://da.gd/sCiZa
+GithubAdvisories,[GHSA-2697-96mv-3gfm] TeamPass does not properly check whether a folder is in a user's allowed folders list,https://github.com/advisories/GHSA-2697-96mv-3gfm,https://da.gd/lZVSq0
