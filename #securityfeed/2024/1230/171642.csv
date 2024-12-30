@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gmx7-gr5q-85w5] magic-crypt uses insecure cryptographic algorithms,https://github.com/advisories/GHSA-gmx7-gr5q-85w5,https://da.gd/kmeltE
+GithubAdvisories,[GHSA-gv7f-5qqh-vxfx] xous has unsound usages of `core::slice::from_raw_parts`,https://github.com/advisories/GHSA-gv7f-5qqh-vxfx,https://da.gd/IAM72
+GithubAdvisories,[GHSA-mpj7-7mg7-x95j] Apache NiFi: Missing Complete Authorization for Parameter and Service References,https://github.com/advisories/GHSA-mpj7-7mg7-x95j,https://da.gd/AHydn
+GithubAdvisories,[GHSA-37x3-j9jq-vrjx] Dcat-Admin Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-37x3-j9jq-vrjx,https://da.gd/AMY7R
+GithubAdvisories,[GHSA-9q34-7hfr-h8jm] Dcat Admin Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-9q34-7hfr-h8jm,https://da.gd/9gFF3v
+GithubAdvisories,[GHSA-ggwq-xc72-33r3] LGSL has a reflected XSS at /lgsl_files/lgsl_list.php,https://github.com/advisories/GHSA-ggwq-xc72-33r3,https://da.gd/K8l3O
+GithubAdvisories,[GHSA-8jhw-6pjj-8723] Better Auth has an Open Redirect Vulnerability in Verify Email Endpoint,https://github.com/advisories/GHSA-8jhw-6pjj-8723,https://da.gd/UXmzRG
+GithubAdvisories,[GHSA-4fwj-m62q-pp47] Password Pusher Allows Session Token Interception Leading to Potential Hijacking,https://github.com/advisories/GHSA-4fwj-m62q-pp47,https://da.gd/gQqw
