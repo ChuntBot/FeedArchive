@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qq9f-q439-2574] Narayana deadlock via multiple join requests sent to LRA Coordinator,https://github.com/advisories/GHSA-qq9f-q439-2574,https://da.gd/ZWOXVc
+GithubAdvisories,[GHSA-rv83-h68q-c4wq] GoPhish sends cleartext passwords,https://github.com/advisories/GHSA-rv83-h68q-c4wq,https://da.gd/oAU0ZU
