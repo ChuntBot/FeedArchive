@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wgqq-9qh8-wvqv] OpenShift Hive RCE through AWS/Kubernetes client configuration leads to privilege escalation,https://github.com/advisories/GHSA-wgqq-9qh8-wvqv,https://da.gd/o8wWu
+GithubAdvisories,[GHSA-94p5-r7cc-3rpr] path-sanitizer allows bypassing the existing filters to achieve path-traversal vulnerability,https://github.com/advisories/GHSA-94p5-r7cc-3rpr,https://da.gd/UjiHlV
