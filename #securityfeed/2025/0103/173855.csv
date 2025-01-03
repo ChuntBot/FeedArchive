@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q9jv-mm3r-j47r] PhpSpreadsheet allows bypass XSS sanitizer using the javascript protocol and special characters,https://github.com/advisories/GHSA-q9jv-mm3r-j47r,https://da.gd/z7fIDs
+GithubAdvisories,[GHSA-hwcp-2h35-p66w] PhpSpreadsheet has a Cross-Site Scripting (XSS) vulnerability of the hyperlink base in the HTML page header,https://github.com/advisories/GHSA-hwcp-2h35-p66w,https://da.gd/6Xw54
+GithubAdvisories,[GHSA-wv23-996v-q229] PhpSpreadsheet has a Cross-Site Scripting (XSS) vulnerability in custom properties,https://github.com/advisories/GHSA-wv23-996v-q229,https://da.gd/GqEyh
