@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x88g-h956-m5xg] Phpspreadsheet allows unauthorized Reflected XSS in `Convert-Online.php` file,https://github.com/advisories/GHSA-x88g-h956-m5xg,https://da.gd/DXhjt4
