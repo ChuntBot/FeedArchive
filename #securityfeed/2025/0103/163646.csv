@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j386-3444-qgwg] Trix allows Cross-site Scripting via `javascript:` url in a link,https://github.com/advisories/GHSA-j386-3444-qgwg,https://da.gd/QOVfp6
+GithubAdvisories,[GHSA-8fx8-pffw-w498] SiYuan has an arbitrary file deletion vulnerability,https://github.com/advisories/GHSA-8fx8-pffw-w498,https://da.gd/XqMjmP
+GithubAdvisories,[GHSA-cwrh-575j-8vr3] Karmada Tar Slips in CRDs archive extraction,https://github.com/advisories/GHSA-cwrh-575j-8vr3,https://da.gd/8cKTwT
+GithubAdvisories,[GHSA-mg7w-c9x2-xh7r] Karmada PULL Mode Cluster Privilege Escalation,https://github.com/advisories/GHSA-mg7w-c9x2-xh7r,https://da.gd/0FtFgq
