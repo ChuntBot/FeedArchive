@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2p95-8xvm-2pjx] REDAXO CMS Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-2p95-8xvm-2pjx,https://da.gd/1Sw7O
+GithubAdvisories,[GHSA-m78c-qx99-mvw9] Grav Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-m78c-qx99-mvw9,https://da.gd/ej3jv
+GithubAdvisories,[GHSA-mrfm-jxgf-2h6v] Elasticsearch Improper Access Control vulnerability,https://github.com/advisories/GHSA-mrfm-jxgf-2h6v,https://da.gd/xjmk
+GithubAdvisories,[GHSA-f27p-cmv8-xhm6] fetch: Authorization headers not dropped when redirecting cross-origin,https://github.com/advisories/GHSA-f27p-cmv8-xhm6,https://da.gd/UC3a
