@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r5vf-wf4h-82gg] matrix-sdk-crypto missing facility to signal rotation of a verified cryptographic identity,https://github.com/advisories/GHSA-r5vf-wf4h-82gg,https://da.gd/tsoS
