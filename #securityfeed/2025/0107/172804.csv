@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-95m2-chm4-mq7m] PHP-Textile has persistent XSS vulnerability in image link handling,https://github.com/advisories/GHSA-95m2-chm4-mq7m,https://da.gd/qkKDFU
