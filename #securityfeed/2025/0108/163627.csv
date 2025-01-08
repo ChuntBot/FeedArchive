@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mjf9-4pcv-vfg7] Apache OpenMeetings vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-mjf9-4pcv-vfg7,https://da.gd/NDuq6d
+GithubAdvisories,[GHSA-8863-4qmg-fr45] Apache Airflow Fab Provider Insufficient Session Expiration vulnerability,https://github.com/advisories/GHSA-8863-4qmg-fr45,https://da.gd/fbCXb
