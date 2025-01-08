@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j3f9-p6hm-5w6q] Carbon has an arbitrary file include via unvalidated input passed to Carbon::setLocale,https://github.com/advisories/GHSA-j3f9-p6hm-5w6q,https://da.gd/aXyhEp
