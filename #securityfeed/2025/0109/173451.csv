@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7w6r-748w-mh52] pgAdmin has Incorrect Default Permissions,https://github.com/advisories/GHSA-7w6r-748w-mh52,https://da.gd/0wNBWD
+GithubAdvisories,[GHSA-675f-rq2r-jw82] JWK Set's HTTP client only overwrites and appends JWK to local cache during refresh,https://github.com/advisories/GHSA-675f-rq2r-jw82,https://da.gd/CUuPe2
