@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vprm-27pv-jp3w] Vaultwarden authenticated reflected cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-vprm-27pv-jp3w,https://da.gd/cgCLRi
+GithubAdvisories,[GHSA-x7m9-mv49-fv73] Vaultwarden vulnerable to user impersonation,https://github.com/advisories/GHSA-x7m9-mv49-fv73,https://da.gd/2SM3J
+GithubAdvisories,[GHSA-g5x8-v2ch-gj2g] Vaultwarden HTML injection vulnerability,https://github.com/advisories/GHSA-g5x8-v2ch-gj2g,https://da.gd/jzZgBm
