@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5xh2-23cc-5jc6] Strawberry GraphQL has type resolution vulnerability in node interface that allows potential data leakage through incorrect type resolution,https://github.com/advisories/GHSA-5xh2-23cc-5jc6,https://da.gd/TuXyG
