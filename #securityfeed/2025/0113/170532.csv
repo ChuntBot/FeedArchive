@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rqc4-2hc7-8c8v] virtualenv allows command injection through activation scripts for a virtual environment,https://github.com/advisories/GHSA-rqc4-2hc7-8c8v,https://da.gd/F7qYB8
+GithubAdvisories,[GHSA-w3g8-r9gw-qrh8] Denial of Service in Keycloak Server via Security Headers,https://github.com/advisories/GHSA-w3g8-r9gw-qrh8,https://da.gd/v4wdj
+GithubAdvisories,[GHSA-f4v7-3mww-9gc2] Keycloak allows unrestricted admin use of system and environment variables,https://github.com/advisories/GHSA-f4v7-3mww-9gc2,https://da.gd/yGSqGb
+GithubAdvisories,[GHSA-vh22-6c6h-rm8q] jte's HTML templates containing Javascript template strings are subject to XSS,https://github.com/advisories/GHSA-vh22-6c6h-rm8q,https://da.gd/x6DN
