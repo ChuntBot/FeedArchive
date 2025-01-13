@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mgr7-5782-6jh9] The Umbraco Heartcore headless client library uses a vulnerable Refit dependency package,https://github.com/advisories/GHSA-mgr7-5782-6jh9,https://da.gd/gwpr8v
+GithubAdvisories,[GHSA-45v3-38pc-874v] notation-go's timestamp signature generation lacks certificate revocation check,https://github.com/advisories/GHSA-45v3-38pc-874v,https://da.gd/EeHkHS
+GithubAdvisories,[GHSA-qjh3-4j3h-vmwp] notation-go has an OS error when setting CRL cache leads to denial of signature verification,https://github.com/advisories/GHSA-qjh3-4j3h-vmwp,https://da.gd/qjbc
