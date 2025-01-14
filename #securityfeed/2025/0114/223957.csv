@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mqf3-qpc3-g26q] Silverstripe Framework has a Reflected Cross Site Scripting (XSS) in error message,https://github.com/advisories/GHSA-mqf3-qpc3-g26q,https://da.gd/vczcVd
+GithubAdvisories,[GHSA-ff6q-3c9c-6cf5] Silverstripe Framework has a XSS in form messages,https://github.com/advisories/GHSA-ff6q-3c9c-6cf5,https://da.gd/bIuq
+GithubAdvisories,[GHSA-7cmp-cgg8-4c82] Silverstripe Framework has a XSS via insert media remote file oembed,https://github.com/advisories/GHSA-7cmp-cgg8-4c82,https://da.gd/ogvQX
