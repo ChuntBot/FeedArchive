@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qwx7-39pw-2mhr] TYPO3 Cross-Site Request Forgery in Dashboard Module,https://github.com/advisories/GHSA-qwx7-39pw-2mhr,https://da.gd/GaQVE
+GithubAdvisories,[GHSA-6w4x-gcx3-8p7v] TYPO3 Cross-Site Request Forgery in Backend User Module,https://github.com/advisories/GHSA-6w4x-gcx3-8p7v,https://da.gd/1G0AVN
+GithubAdvisories,[GHSA-cjfr-9f5r-3q93] TYPO3 Cross-Site Request Forgery in Log Module,https://github.com/advisories/GHSA-cjfr-9f5r-3q93,https://da.gd/mDmg
+GithubAdvisories,[GHSA-2fx5-pggv-6jjr] TYPO3 Potential Open Redirect via Parsing Differences,https://github.com/advisories/GHSA-2fx5-pggv-6jjr,https://da.gd/2aJSH
+GithubAdvisories,[GHSA-38x7-cc6w-j27q] TYPO3 Information Disclosure via Exception Handling/Logger,https://github.com/advisories/GHSA-38x7-cc6w-j27q,https://da.gd/4Rnd
