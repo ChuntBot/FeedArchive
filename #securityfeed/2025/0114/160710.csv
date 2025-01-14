@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rmm7-r7wr-xpfg] XWiki Realtime WYSIWYG Editor extension allows privilege escalation (PR) through realtime WYSIWYG editing,https://github.com/advisories/GHSA-rmm7-r7wr-xpfg,https://da.gd/SJj3
+GithubAdvisories,[GHSA-cpv4-ggrr-7j9v] Rasa Allows Remote Code Execution via Remote Model Loading,https://github.com/advisories/GHSA-cpv4-ggrr-7j9v,https://da.gd/9Ms0r
+GithubAdvisories,[GHSA-8mv3-37rc-pvxj] TYPO3 DB Check Module vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-8mv3-37rc-pvxj,https://da.gd/mhvbYb
+GithubAdvisories,[GHSA-7835-fcv3-g256] TYPO3 Scheduler Module vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-7835-fcv3-g256,https://da.gd/PZ11
+GithubAdvisories,[GHSA-7r5q-4qgx-v545] TYPO3 Indexed Search Module vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-7r5q-4qgx-v545,https://da.gd/yiYb
+GithubAdvisories,[GHSA-ww7h-g2qf-7xv6] TYPO3 Form Framework Module vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-ww7h-g2qf-7xv6,https://da.gd/ZwxhuS
+GithubAdvisories,[GHSA-4g52-pq8j-6qv5] TYPO3 Extension Manager Module vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-4g52-pq8j-6qv5,https://da.gd/j6o0EV
