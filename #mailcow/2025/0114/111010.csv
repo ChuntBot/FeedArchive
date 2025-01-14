@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubCommitStaging,increase migrations verion,https://github.com/mailcow/mailcow-dockerized/commit/0d635e26587a07556e82453720e5199df77f0161,https://da.gd/UP3km
+GithubCommitStaging,add escape html for description,https://github.com/mailcow/mailcow-dockerized/commit/1a8e1a2677b5bfe65206818c55ebbe29817dcb77,https://da.gd/A135Fd
+GithubCommitStaging,Updated to $_REQUEST,https://github.com/mailcow/mailcow-dockerized/commit/f0658424024fb48b34c3867b6d763273888a2fa1,https://da.gd/ntHKn
+GithubCommitStaging,Convert AJAX to POST request,https://github.com/mailcow/mailcow-dockerized/commit/d09e4ff0209515cca58e1c502da648b5b86287da,https://da.gd/Nvvpd
+GithubCommitStaging,Merge branch 'mailcow:master' into feat/temp-email-aliases,https://github.com/mailcow/mailcow-dockerized/commit/150b2bbd9dfc8fd3994a6718f9378acbd5cf95f0,https://da.gd/ehX75W
+GithubCommitStaging,Merge pull request #6001 from marekfilip/feat/temp-email-aliases,https://github.com/mailcow/mailcow-dockerized/commit/24b3d8f85087208016603a3a210546b2d436d33a,https://da.gd/vki2T
+GithubCommitStaging,Merge pull request #6205 from PhoenixPeca/master,https://github.com/mailcow/mailcow-dockerized/commit/2f1884e94be9c0943713c2e842f988edf895873a,https://da.gd/lyRT3S
