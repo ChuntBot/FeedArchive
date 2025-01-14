@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c3h5-h73c-29hq] Mediawiki - DataTransfer Extension Cross-Site Request Forgery (CSRF) and Cross-site Scripting (XSS),https://github.com/advisories/GHSA-c3h5-h73c-29hq,https://da.gd/AHGGn
+GithubAdvisories,[GHSA-8cvq-3jjp-ph9p] Apache Linkis Metadata Query Service JDBC: JDBC Datasource Module with Mysql has file read vulnerability,https://github.com/advisories/GHSA-8cvq-3jjp-ph9p,https://da.gd/hq9Bgr
