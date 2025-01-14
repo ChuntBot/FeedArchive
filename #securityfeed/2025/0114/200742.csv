@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gjf6-3w4p-7xfh] Microsoft Security Advisory CVE-2025-21176 | .NET and Visual Studio Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-gjf6-3w4p-7xfh,https://da.gd/2Ag8xs
+GithubAdvisories,[GHSA-jjcv-wr2g-4rv4] Microsoft Security Advisory CVE-2025-21172 | .NET and Visual Studio Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-jjcv-wr2g-4rv4,https://da.gd/7bRNr0
+GithubAdvisories,[GHSA-p54p-p3qm-8vgj] Microsoft Security Advisory CVE-2025-21171 | .NET Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-p54p-p3qm-8vgj,https://da.gd/eFLaa
+GithubAdvisories,[GHSA-9v8m-qv22-f268] Umbraco Forms's Short and Long Answer Fields Are Not Validated Server-Side For Maximum Length,https://github.com/advisories/GHSA-9v8m-qv22-f268,https://da.gd/GxUAH
+GithubAdvisories,[GHSA-86c2-4x57-wc8g] Git Credential Manager carriage-return character in remote URL allows malicious repository to leak credentials,https://github.com/advisories/GHSA-86c2-4x57-wc8g,https://da.gd/rzOhRK
