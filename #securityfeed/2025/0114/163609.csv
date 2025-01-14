@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vgf2-gvx8-xwc3] Vyper Does Not Check the Success of Certain Precompile Calls,https://github.com/advisories/GHSA-vgf2-gvx8-xwc3,https://da.gd/bVsv4
+GithubAdvisories,[GHSA-j2jg-fq62-7c3h] Gradio Blocked Path ACL Bypass Vulnerability,https://github.com/advisories/GHSA-j2jg-fq62-7c3h,https://da.gd/uHoHo
+GithubAdvisories,[GHSA-w8xv-rwgf-4fwh] CVE-2025-0343: Swift ASN.1 can crash when parsing maliciously formed BER/DER,https://github.com/advisories/GHSA-w8xv-rwgf-4fwh,https://da.gd/42yM
