@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-63wg-87qv-rw4r] Drupal Open Social allows Functionality Misuse,https://github.com/advisories/GHSA-63wg-87qv-rw4r,https://da.gd/LUvBJ2
+GithubAdvisories,[GHSA-q6r2-x2cc-vrp7] Git LFS permits exfiltration of credentials via crafted HTTP URLs,https://github.com/advisories/GHSA-q6r2-x2cc-vrp7,https://da.gd/GeQwk
