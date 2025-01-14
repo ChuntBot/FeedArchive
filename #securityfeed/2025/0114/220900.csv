@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qcgg-j2x8-h9g8] Django has a potential denial-of-service vulnerability in IPv6 validation,https://github.com/advisories/GHSA-qcgg-j2x8-h9g8,https://da.gd/hY5TT
+GithubAdvisories,[GHSA-m9c9-mc2h-9wjw] Lodestar snappy checksum issue,https://github.com/advisories/GHSA-m9c9-mc2h-9wjw,https://da.gd/Ycxgz
+GithubAdvisories,[GHSA-53rv-hcvm-rpp9] Lodestar snappy decompression issue,https://github.com/advisories/GHSA-53rv-hcvm-rpp9,https://da.gd/S0CYS5
+GithubAdvisories,[GHSA-2v2w-8v8c-wcm9] Rancher UI has Stored Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-2v2w-8v8c-wcm9,https://da.gd/OJeNdD
+GithubAdvisories,[GHSA-5wjw-h8x5-v65m] Wildfly HAL Console Cross-Site Scripting,https://github.com/advisories/GHSA-5wjw-h8x5-v65m,https://da.gd/4LQZb7
