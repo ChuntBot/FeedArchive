@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c873-wfhp-wx5m] SP1 has missing verifier checks and fiat-shamir observations,https://github.com/advisories/GHSA-c873-wfhp-wx5m,https://da.gd/K832
+GithubAdvisories,[GHSA-45v9-w9fh-33j6] Mattermost fails to properly validate post props,https://github.com/advisories/GHSA-45v9-w9fh-33j6,https://da.gd/8P0Nc
+GithubAdvisories,[GHSA-7pq6-v88g-wf3w] Sentry's improper authentication on SAML SSO process allows user impersonation,https://github.com/advisories/GHSA-7pq6-v88g-wf3w,https://da.gd/y4WjxI
