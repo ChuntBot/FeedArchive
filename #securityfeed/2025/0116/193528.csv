@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-rcxc-wjgw-579r] Matrix Media Repo (MMR) allows untrusted file formats can be thumbnailed, invoking potentially further untrusted decoders",https://github.com/advisories/GHSA-rcxc-wjgw-579r,https://da.gd/FmkQL
+GithubAdvisories,[GHSA-r6jg-jfv6-2fjv] Matrix Media Repo (MMR) allows Server-Side Request Forgery (SSRF) on redirects and federation,https://github.com/advisories/GHSA-r6jg-jfv6-2fjv,https://da.gd/c5PccR
+GithubAdvisories,[GHSA-gp86-q8hg-fpxj] matrix-media-repo (MMR) allows a denial of service through memory exhaustion,https://github.com/advisories/GHSA-gp86-q8hg-fpxj,https://da.gd/mLviUF
+GithubAdvisories,[GHSA-jhvj-f397-8w6q] HAL Console has a Cross Site Scripting (XSS) vulnerability of user input,https://github.com/advisories/GHSA-jhvj-f397-8w6q,https://da.gd/w4piTm
+GithubAdvisories,[GHSA-vc2m-hw89-qjxf] matrix-media-repo (MMR) allows denial of service/high operating costs through unauthenticated downloads,https://github.com/advisories/GHSA-vc2m-hw89-qjxf,https://da.gd/xECq
+GithubAdvisories,"[GHSA-8vmr-h7h5-cqhg] matrix-media-repo (MMR) allows unauthenticated writes to the media repository, which may allow planting of problematic content",https://github.com/advisories/GHSA-8vmr-h7h5-cqhg,https://da.gd/QbbJM5
