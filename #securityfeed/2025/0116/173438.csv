@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2f4w-6mc7-4w78] LibreNMS Display Name 2 Stored Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-2f4w-6mc7-4w78,https://da.gd/1t4Hnz
+GithubAdvisories,[GHSA-g84x-g96g-rcjc] Librenms has a reflected XSS on error alert,https://github.com/advisories/GHSA-g84x-g96g-rcjc,https://da.gd/4czmTk
+GithubAdvisories,[GHSA-c66p-64fj-jmc2] LibreNMS Misc Section Stored Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-c66p-64fj-jmc2,https://da.gd/RJeFX
+GithubAdvisories,[GHSA-27vf-3g4f-6jp7] LibreNMS Ports Stored Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-27vf-3g4f-6jp7,https://da.gd/MSeW06
+GithubAdvisories,[GHSA-pm8j-3v64-92cq] LibreNMS Display Name Stored Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-pm8j-3v64-92cq,https://da.gd/wLBEpM
+GithubAdvisories,[GHSA-p9v8-q5m4-pf46] CVE-2024-5138: snapd snapctl auth bypass,https://github.com/advisories/GHSA-p9v8-q5m4-pf46,https://da.gd/adray
+GithubAdvisories,[GHSA-jrr7-64m9-x984] Duplicate Advisory: CVE-2024-5138: snapd snapctl auth bypass,https://github.com/advisories/GHSA-jrr7-64m9-x984,https://da.gd/cnwq
