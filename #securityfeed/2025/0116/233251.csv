@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r869-6xpj-77m9] Malware in jssdk-infrastructure,https://github.com/advisories/GHSA-r869-6xpj-77m9,https://da.gd/Vp1fE
+GithubAdvisories,[GHSA-2rpq-8j2p-fx3x] Malware in karma-fest-preprocessor,https://github.com/advisories/GHSA-2rpq-8j2p-fx3x,https://da.gd/lxRoWV
+GithubAdvisories,[GHSA-w6xh-c82w-h997] Mattermost webapp crash via a crafted post,https://github.com/advisories/GHSA-w6xh-c82w-h997,https://da.gd/zNT8
+GithubAdvisories,[GHSA-4ff6-858j-r822] Gomatrixserverlib Server-Side Request Forgery (SSRF) on redirects and federation,https://github.com/advisories/GHSA-4ff6-858j-r822,https://da.gd/znQ6tu
