@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cg87-wmx4-v546] KaTeX \htmlData does not validate attribute names,https://github.com/advisories/GHSA-cg87-wmx4-v546,https://da.gd/drWE8
+GithubAdvisories,[GHSA-v4mq-x674-ff73] AWS Cloud Development Kit (AWS CDK) IAM OIDC custom resource allows connection to unauthorized OIDC provider,https://github.com/advisories/GHSA-v4mq-x674-ff73,https://da.gd/5MER3s
