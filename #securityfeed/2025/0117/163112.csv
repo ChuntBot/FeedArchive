@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fcr8-4r9f-r66m] nbgrader's `frame-ancestors: self` grants all users access to formgrader,https://github.com/advisories/GHSA-fcr8-4r9f-r66m,https://da.gd/ujfouR
+GithubAdvisories,[GHSA-8vq4-8hfp-29xh] Eugeny Tabby Sends Password Despite Host Key Verification Failure,https://github.com/advisories/GHSA-8vq4-8hfp-29xh,https://da.gd/kNvx2p
