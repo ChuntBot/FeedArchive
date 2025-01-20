@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Fix community support url (#6245),https://github.com/mailcow/mailcow-dockerized/commit/08599c1960e663b211f82c5ef23240e118b91851,https://da.gd/6tGIa
+GithubCommitStaging,Reduce sa rules download retry limit to 5 (#6225),https://github.com/mailcow/mailcow-dockerized/commit/36db68677ca41f68f7117f8d1c6abf53af5adcbe,https://da.gd/kssVSJ
+GithubCommitStaging,fts: change autoindex to occur on mailboxes of receiving 20 or more m…,https://github.com/mailcow/mailcow-dockerized/commit/746915cbddbeac7ca5feac492749448882efc1b8,https://da.gd/QziWd
