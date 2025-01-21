@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wpfp-cm49-9m9q] HashiCorp go-slug Vulnerable to Zip Slip Attack,https://github.com/advisories/GHSA-wpfp-cm49-9m9q,https://da.gd/hGZMq
