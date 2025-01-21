@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vg6x-rcgg-rjx6] Websites were able to send any requests to the development server and read the response in vite,https://github.com/advisories/GHSA-vg6x-rcgg-rjx6,https://da.gd/S3JX
+GithubAdvisories,[GHSA-x684-96hh-833x] Craft CMS has a potential RCE with a compromised security key,https://github.com/advisories/GHSA-x684-96hh-833x,https://da.gd/48Jn4
+GithubAdvisories,[GHSA-g5vp-j278-8pjh] TorchGeo Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-g5vp-j278-8pjh,https://da.gd/amdWa
