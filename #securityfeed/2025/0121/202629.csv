@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f8c8-4pm7-w885] Cross-Site Request Forgery in CodeChecker API,https://github.com/advisories/GHSA-f8c8-4pm7-w885,https://da.gd/7UT14
+GithubAdvisories,[GHSA-36gq-35j3-p9r9] Excessive Platform Resource Consumption within a Loop when unmarshalling Compose file having recursive loop,https://github.com/advisories/GHSA-36gq-35j3-p9r9,https://da.gd/hB9gU
+GithubAdvisories,[GHSA-jgx4-7v3v-vwfm] Elasticsearch allocation of resources without limits or throttling leads to crash,https://github.com/advisories/GHSA-jgx4-7v3v-vwfm,https://da.gd/UnyV7M
+GithubAdvisories,[GHSA-fh5r-crhr-qrrq] Apache CXF: Denial of Service vulnerability with temporary files,https://github.com/advisories/GHSA-fh5r-crhr-qrrq,https://da.gd/DhmKos
+GithubAdvisories,[GHSA-43c9-gw4x-pcx6] Authenticated arbitrary file deletion in YesWiki,https://github.com/advisories/GHSA-43c9-gw4x-pcx6,https://da.gd/htf7P
+GithubAdvisories,[GHSA-w59h-3x3q-3p6j] Authenticated Stored XSS in YesWiki,https://github.com/advisories/GHSA-w59h-3x3q-3p6j,https://da.gd/L362f
+GithubAdvisories,[GHSA-wphc-5f2j-jhvg] Unauthenticated DOM Based XSS in YesWiki,https://github.com/advisories/GHSA-wphc-5f2j-jhvg,https://da.gd/vRIJL
+GithubAdvisories,[GHSA-3qc3-mx6x-267h] Insecure default config access in WriteFreely,https://github.com/advisories/GHSA-3qc3-mx6x-267h,https://da.gd/0PH1G
+GithubAdvisories,[GHSA-wv8v-rmw2-25wc] XSS/HTML Injection Vulnerability in Umbraco Backoffice Components,https://github.com/advisories/GHSA-wv8v-rmw2-25wc,https://da.gd/VxivF
+GithubAdvisories,[GHSA-c59p-wq67-24wx] Infinite loop and Blind SSRF found inside the Webfinger mechanism in @fedify/fedify,https://github.com/advisories/GHSA-c59p-wq67-24wx,https://da.gd/ymGL
