@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gp8p-49gr-jv8j] Missing permission checks in Jenkins Azure Service Fabric Plugin,https://github.com/advisories/GHSA-gp8p-49gr-jv8j,https://da.gd/D78zh
+GithubAdvisories,[GHSA-wh3h-j8wp-6p42] CSRF vulnerability in Jenkins Azure Service Fabric Plugin,https://github.com/advisories/GHSA-wh3h-j8wp-6p42,https://da.gd/CfSle
+GithubAdvisories,[GHSA-969g-rq57-c79h] Disabled permissions can be granted by Folder-based in Jenkins Authorization Strategy Plugin,https://github.com/advisories/GHSA-969g-rq57-c79h,https://da.gd/cOA7e
+GithubAdvisories,[GHSA-fpw7-8gjc-jwqj] Cache confusion in Jenkins Eiffel Broadcaster Plugin,https://github.com/advisories/GHSA-fpw7-8gjc-jwqj,https://da.gd/FVTx
