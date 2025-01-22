@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m3hp-8546-5qmr] Authentication Bypass Due to Missing LDAP Bind After Password Reset in Keycloak,https://github.com/advisories/GHSA-m3hp-8546-5qmr,https://da.gd/r2ZJSu
+GithubAdvisories,[GHSA-35pq-7pv2-2rfw] ps_contactinfo has a potential XSS due to usage of the nofilter tag in template,https://github.com/advisories/GHSA-35pq-7pv2-2rfw,https://da.gd/4O8dk
+GithubAdvisories,[GHSA-h78m-j95m-5356] Cilium has an information leakage via insecure default Hubble UI CORS header,https://github.com/advisories/GHSA-h78m-j95m-5356,https://da.gd/yzDOQm
+GithubAdvisories,[GHSA-9m5p-c77c-f9j7] DoS in Cilium agent DNS proxy from crafted DNS responses,https://github.com/advisories/GHSA-9m5p-c77c-f9j7,https://da.gd/bAagk3
