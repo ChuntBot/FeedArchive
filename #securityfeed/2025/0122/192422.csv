@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q9cm-88jx-3vfw] Improper handling of case sensitivity in Jenkins OpenId Connect Authentication Plugin,https://github.com/advisories/GHSA-q9cm-88jx-3vfw,https://da.gd/3aQ9j
+GithubAdvisories,[GHSA-xhgq-h98j-859v] Incorrect permission check in Jenkins GitLab Plugin allows enumerating credentials IDs,https://github.com/advisories/GHSA-xhgq-h98j-859v,https://da.gd/zOQZ2
+GithubAdvisories,[GHSA-qjw6-xvrm-5f2h] Bitbucket Server Integration Plugin allows bypassing CSRF protection for any URL,https://github.com/advisories/GHSA-qjw6-xvrm-5f2h,https://da.gd/c8bpKp
