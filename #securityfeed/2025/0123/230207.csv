@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9qrm-48qf-r2rw] Directus has a DOM-Based cross-site scripting (XSS) via layout_options,https://github.com/advisories/GHSA-9qrm-48qf-r2rw,https://da.gd/EEYlcO
+GithubAdvisories,[GHSA-pmf4-v838-29hg] Directus allows privilege escalation using Share feature,https://github.com/advisories/GHSA-pmf4-v838-29hg,https://da.gd/jkD9u
+GithubAdvisories,[GHSA-vp47-9734-prjw] ASTEVAL Allows Malicious Tampering of Exposed AST Nodes Leads to Sandbox Escape,https://github.com/advisories/GHSA-vp47-9734-prjw,https://da.gd/8MfG6
+GithubAdvisories,[GHSA-9cxr-76pm-j3wf] Apache Wicket: An attacker can intentionally trigger a memory leak,https://github.com/advisories/GHSA-9cxr-76pm-j3wf,https://da.gd/q83Unl
