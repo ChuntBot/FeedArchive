@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Merge pull request #6251 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/1b578caabbdbde0474b79adcfaee6530acd41e9f,https://da.gd/AnBsP
+GithubCommitStaging,update.sh: remove accidentally added exit at end of solr volume removal,https://github.com/mailcow/mailcow-dockerized/commit/d83111568eb98926d905aeb1667d70a1f2bfc4a3,https://da.gd/ZVPB
+GithubCommitStaging,Merge branch 'staging',https://github.com/mailcow/mailcow-dockerized/commit/e76c0ba9a6440a7c2aa76feef59a8fb9c337f492,https://da.gd/LmDO
+GithubCommitStaging,dovecot: fix index timeout seconds,https://github.com/mailcow/mailcow-dockerized/commit/43f945fe018f8b1f28bda343de72673e4776bd0a,https://da.gd/FMKYIk
