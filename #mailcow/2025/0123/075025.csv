@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,update.sh: fixed --force for solr-removal + code optimization,https://github.com/mailcow/mailcow-dockerized/commit/a30f6696a39d371424300e22182317a0317575b7,https://da.gd/oGmK
+GithubCommitStaging,update.sh: changed SKIP_FTS default to y instead n for updates,https://github.com/mailcow/mailcow-dockerized/commit/5a04942d89b220da3f1e5f5d1c5f318fca19d2f1,https://da.gd/b2m5S
+GithubCommitStaging,scripts: changed SKIP_FTS text to warn on lower threaded systems,https://github.com/mailcow/mailcow-dockerized/commit/1dac8f1f66ad1767bf7cb5c64f4a95a2af94f2c8,https://da.gd/vQact
