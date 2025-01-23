@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,[Web] Updated lang.fr-fr.json (#6238),https://github.com/mailcow/mailcow-dockerized/commit/69f6a82905e98ad23210f4d8a0dd70ce6d5c7d1b,https://da.gd/e203V
+GithubCommit,[Web] Escape mailbox name before querying aliases,https://github.com/mailcow/mailcow-dockerized/commit/abd789f629a88e5cf7e5eb45f2c19224e91e2f25,https://da.gd/Eea4h
+GithubCommit,[Web] Regenerate session_id on successful login,https://github.com/mailcow/mailcow-dockerized/commit/d280025b511bb27c2d45f04ff9201fe0ed359372,https://da.gd/RaTWk
+GithubCommit,Merge pull request #6001 from marekfilip/feat/temp-email-aliases,https://github.com/mailcow/mailcow-dockerized/commit/24b3d8f85087208016603a3a210546b2d436d33a,https://da.gd/vki2T
+GithubCommit,Merge pull request #6205 from PhoenixPeca/master,https://github.com/mailcow/mailcow-dockerized/commit/2f1884e94be9c0943713c2e842f988edf895873a,https://da.gd/lyRT3S
+GithubCommit,Merge pull request #6211 from jan-oratowski/patch-1,https://github.com/mailcow/mailcow-dockerized/commit/8fea9fc21fb4e8cfc940392763d1b302f1ceab3b,https://da.gd/kQgMx
+GithubCommit,flatcurve: change default amount of processes to 1,https://github.com/mailcow/mailcow-dockerized/commit/31e001ebee861c227cf24df9a14ca00871426816,https://da.gd/fmIR1o
+GithubCommit,Fix community support url (#6245),https://github.com/mailcow/mailcow-dockerized/commit/08599c1960e663b211f82c5ef23240e118b91851,https://da.gd/6tGIa
+GithubCommit,Reduce sa rules download retry limit to 5 (#6225),https://github.com/mailcow/mailcow-dockerized/commit/36db68677ca41f68f7117f8d1c6abf53af5adcbe,https://da.gd/kssVSJ
+GithubCommit,fts: change autoindex to occur on mailboxes of receiving 20 or more m…,https://github.com/mailcow/mailcow-dockerized/commit/746915cbddbeac7ca5feac492749448882efc1b8,https://da.gd/QziWd
+GithubCommit,update.sh: fix mailcow fts update versioning,https://github.com/mailcow/mailcow-dockerized/commit/4708b1398b7955e2525b17c1a72844c50b29a0e0,https://da.gd/GxfbmQ
+GithubCommit,chore(deps): update actions/stale action to v9.1.0 (#6247),https://github.com/mailcow/mailcow-dockerized/commit/ee7a8624fcefed734da76bd73185ab50f7f8a5b8,https://da.gd/zNjDG
+GithubCommit,[Nginx] Generate includes for custom configs,https://github.com/mailcow/mailcow-dockerized/commit/7bcd61ecb553aadc69efa517802ef581d054a261,https://da.gd/MXla1p
+GithubCommit,[Nginx] Disable IPv6 listener for Rspamd dynmaps when DISABLE_IPv6=y,https://github.com/mailcow/mailcow-dockerized/commit/1fca328266eb980da6ca8376db51c9ea201d59c6,https://da.gd/yZPVg
+GithubCommit,update.sh: fixed --force for solr-removal + code optimization,https://github.com/mailcow/mailcow-dockerized/commit/a30f6696a39d371424300e22182317a0317575b7,https://da.gd/oGmK
+GithubCommit,update.sh: changed SKIP_FTS default to y instead n for updates,https://github.com/mailcow/mailcow-dockerized/commit/5a04942d89b220da3f1e5f5d1c5f318fca19d2f1,https://da.gd/b2m5S
+GithubCommit,scripts: changed SKIP_FTS text to warn on lower threaded systems,https://github.com/mailcow/mailcow-dockerized/commit/1dac8f1f66ad1767bf7cb5c64f4a95a2af94f2c8,https://da.gd/vQact
+GithubCommit,Merge pull request #6251 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/1b578caabbdbde0474b79adcfaee6530acd41e9f,https://da.gd/AnBsP
+GithubCommit,update.sh: remove accidentally added exit at end of solr volume removal,https://github.com/mailcow/mailcow-dockerized/commit/d83111568eb98926d905aeb1667d70a1f2bfc4a3,https://da.gd/ZVPB
+GithubCommit,Merge branch 'staging',https://github.com/mailcow/mailcow-dockerized/commit/e76c0ba9a6440a7c2aa76feef59a8fb9c337f492,https://da.gd/LmDO
