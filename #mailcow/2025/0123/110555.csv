@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommit,dovecot: fix index timeout seconds,https://github.com/mailcow/mailcow-dockerized/commit/43f945fe018f8b1f28bda343de72673e4776bd0a,https://da.gd/FMKYIk
+GithubCommit,[Web] Delete old session_id after regenerate,https://github.com/mailcow/mailcow-dockerized/commit/da02e261729a51f3a10b42daf717133b4d1fbb74,https://da.gd/0bV6L
+GithubCommit,Merge pull request #6253 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/8caf09cd80a55dee6cf2a0618e9d3ead0c2fbfbb,https://da.gd/ESlxDI
