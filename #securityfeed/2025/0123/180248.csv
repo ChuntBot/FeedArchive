@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-27c6-mcxv-x3fh] Unlimited consumption of resources in @fastify/multipart,https://github.com/advisories/GHSA-27c6-mcxv-x3fh,https://da.gd/Ec83cz
+GithubAdvisories,[GHSA-74j9-xhqr-6qv3] Reflected Cross Site Scripting (XSS) in error message,https://github.com/advisories/GHSA-74j9-xhqr-6qv3,https://da.gd/NuVAEp
+GithubAdvisories,[GHSA-222v-cx2c-q2f5] phpMyAdmin XSS when checking tables,https://github.com/advisories/GHSA-222v-cx2c-q2f5,https://da.gd/IUQuFD
+GithubAdvisories,[GHSA-j777-63hf-hx76] Envoy Admin Interface Exposed through prometheus metrics endpoint,https://github.com/advisories/GHSA-j777-63hf-hx76,https://da.gd/hcyhp
