@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gmj9-h825-chq2] try/except* clauses could allow bypass RestrictedPython via type confusion bug in the CPython interpreter,https://github.com/advisories/GHSA-gmj9-h825-chq2,https://da.gd/ensl6p
