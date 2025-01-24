@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vqf5-2xx6-9wfm] GitHub PAT written to debug artifacts,https://github.com/advisories/GHSA-vqf5-2xx6-9wfm,https://da.gd/MzDcbj
+GithubAdvisories,[GHSA-3wwr-3g9f-9gc7] ASTEVAL Allows Maliciously Crafted Format Strings Lead to Sandbox Escape,https://github.com/advisories/GHSA-3wwr-3g9f-9gc7,https://da.gd/B6d1
+GithubAdvisories,[GHSA-v34r-vj4r-38j6] Updatecli exposes Maven credentials in console output,https://github.com/advisories/GHSA-v34r-vj4r-38j6,https://da.gd/4RkukX
