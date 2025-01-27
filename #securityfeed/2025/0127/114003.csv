@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4gf7-ff8x-hq99] Opening a malicious website while running a Nuxt dev server could allow read-only access to code,https://github.com/advisories/GHSA-4gf7-ff8x-hq99,https://da.gd/UNdYj
+GithubAdvisories,[GHSA-2452-6xj8-jh47] Opening a malicious website while running a Nuxt dev server could allow read-only access to code,https://github.com/advisories/GHSA-2452-6xj8-jh47,https://da.gd/05EJR7
