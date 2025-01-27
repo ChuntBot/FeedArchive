@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pff9-53m5-qr56] Apache Cocoon vulnerable to Incorrect Usage of Seeds in Pseudo-Random Number Generator,https://github.com/advisories/GHSA-pff9-53m5-qr56,https://da.gd/zpXm8
+GithubAdvisories,[GHSA-68r2-fwcg-qpm8] Apache Solr vulnerable to Execution with Unnecessary Privileges,https://github.com/advisories/GHSA-68r2-fwcg-qpm8,https://da.gd/edV8EV
+GithubAdvisories,[GHSA-4p5m-gvpf-f3x5] Apache Solr Relative Path Traversal vulnerability,https://github.com/advisories/GHSA-4p5m-gvpf-f3x5,https://da.gd/OS0aFN
