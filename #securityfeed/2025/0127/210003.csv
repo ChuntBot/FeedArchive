@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x2j8-vjg7-386r] Dolibarr Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-x2j8-vjg7-386r,https://da.gd/DZfAqT
+GithubAdvisories,[GHSA-2v3r-gvq5-qqgh] Dolibarr Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-2v3r-gvq5-qqgh,https://da.gd/SKpX
+GithubAdvisories,[GHSA-rh4j-5rhw-hr54] vllm: Malicious model to RCE by torch.load in hf_model_weights_iterator,https://github.com/advisories/GHSA-rh4j-5rhw-hr54,https://da.gd/BA6QA
+GithubAdvisories,[GHSA-j2hp-6m75-v4j4] imgproxy is vulnerable to SSRF against 0.0.0.0,https://github.com/advisories/GHSA-j2hp-6m75-v4j4,https://da.gd/GQL2
