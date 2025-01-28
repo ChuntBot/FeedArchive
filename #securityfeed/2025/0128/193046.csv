@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-269m-c36j-r834] Infinispan vulnerable to Insertion of Sensitive Information into Log File,https://github.com/advisories/GHSA-269m-c36j-r834,https://da.gd/P49Ta9
+GithubAdvisories,"[GHSA-hj78-p4h7-m5fv] TYPO3-EXT-SA-2025-001: Account Takeover in extension ""OpenID Connect Authentication"" (oidc)",https://github.com/advisories/GHSA-hj78-p4h7-m5fv,https://da.gd/vSayyc
+GithubAdvisories,[GHSA-hp5j-2585-qx6g] CRI-O Path Traversal vulnerability,https://github.com/advisories/GHSA-hp5j-2585-qx6g,https://da.gd/ya5Y
+GithubAdvisories,[GHSA-q53r-9hh9-w277] pimcore/customer-data-framework vulnerable to SQL Injection,https://github.com/advisories/GHSA-q53r-9hh9-w277,https://da.gd/PXTBv
+GithubAdvisories,[GHSA-8m8m-98c9-vw7q] Duplicate Advisory: pimcore/customer-data-framework vulnerable to SQL Injection: Hibernate,https://github.com/advisories/GHSA-8m8m-98c9-vw7q,https://da.gd/TKIK
+GithubAdvisories,[GHSA-xr3m-6gq6-22cg] Pimcore Authenticated Stored Cross-Site Scripting (XSS) Via Search Document,https://github.com/advisories/GHSA-xr3m-6gq6-22cg,https://da.gd/Zk4N
