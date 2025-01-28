@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wwx5-gpgr-vxr7] ismp-grandpa crate accepted incorrect signatures,https://github.com/advisories/GHSA-wwx5-gpgr-vxr7,https://da.gd/4PcHH
+GithubAdvisories,[GHSA-6wxm-mpqj-6jpf] Insecure Temporary File usage in github.com/golang/glog,https://github.com/advisories/GHSA-6wxm-mpqj-6jpf,https://da.gd/iLdpaj
