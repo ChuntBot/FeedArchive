@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p953-3j66-hg45] Apache Hive vulnerable to Observable Timing Discrepancy and Authentication Bypass by Spoofing,https://github.com/advisories/GHSA-p953-3j66-hg45,https://da.gd/VmMH8Z
+GithubAdvisories,[GHSA-58fx-7v9q-3g56] ArgoCD Namespace Isolation Break,https://github.com/advisories/GHSA-58fx-7v9q-3g56,https://da.gd/FWtki
+GithubAdvisories,[GHSA-r5w7-f542-q2j4] Potential DoS when using ContextLines integration,https://github.com/advisories/GHSA-r5w7-f542-q2j4,https://da.gd/bROMo
