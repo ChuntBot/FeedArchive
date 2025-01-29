@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,clamd: update to 1.4.2 + build from source instead using alpine packages,https://github.com/mailcow/mailcow-dockerized/commit/60a2270d1e7d0985901378bea83295b3df6bf127,https://da.gd/1g2xKT
+GithubCommitStaging,clamd: remove exposed ports from buildfile,https://github.com/mailcow/mailcow-dockerized/commit/65bc581fab5331fbb35b92f775d2c6a3f31f1bcd,https://da.gd/3oOJ
+GithubCommitStaging,clamd: cleanup dockerfile,https://github.com/mailcow/mailcow-dockerized/commit/1a087bb2c8a1f5866f698629f070e8f895e61ec2,https://da.gd/d7Nrqo
+GithubCommitStaging,Merge branch 'feat/clamd-rebuild' into staging,https://github.com/mailcow/mailcow-dockerized/commit/2407aa78952815fd26e910728dcfefd24dfdda3a,https://da.gd/aZl4p
