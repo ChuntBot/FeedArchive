@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2mqw-rq5m-8hc8] Snowflake.Data has weak temporary files permissions,https://github.com/advisories/GHSA-2mqw-rq5m-8hc8,https://da.gd/4mPU6y
+GithubAdvisories,[GHSA-2vpq-fh52-j3wv] snowflake-connector-python vulnerable to SQL Injection in write_pandas,https://github.com/advisories/GHSA-2vpq-fh52-j3wv,https://da.gd/E9il
+GithubAdvisories,[GHSA-m4f6-vcj4-w5mx] snowflake-connector-python vulnerable to insecure deserialization of the OCSP response cache,https://github.com/advisories/GHSA-m4f6-vcj4-w5mx,https://da.gd/vu1Yx
+GithubAdvisories,[GHSA-r2x6-cjg7-8r43] snowflake-connector-python vulnerable to insecure cache files permissions,https://github.com/advisories/GHSA-r2x6-cjg7-8r43,https://da.gd/gmB0
+GithubAdvisories,[GHSA-hcr5-wv4p-h2g2] kube-audit-rest's example logging configuration could disclose secret values in the audit log,https://github.com/advisories/GHSA-hcr5-wv4p-h2g2,https://da.gd/b4fb
