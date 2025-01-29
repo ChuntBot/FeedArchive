@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jcrp-x7w3-ffmg] Deep Java Library path traversal issue,https://github.com/advisories/GHSA-jcrp-x7w3-ffmg,https://da.gd/OngUkH
+GithubAdvisories,[GHSA-8655-xgh5-5vvq] fast-fault has a segmentation fault due to lack of bound check,https://github.com/advisories/GHSA-8655-xgh5-5vvq,https://da.gd/RzcOb
+GithubAdvisories,[GHSA-jqcp-xc3v-f446] fast-float2 has a segmentation fault due to lack of bound check,https://github.com/advisories/GHSA-jqcp-xc3v-f446,https://da.gd/ybSz
