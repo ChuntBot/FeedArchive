@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xfhv-wqj6-rx99] snowflake-sdk may incorrectly validate temporary credential cache file permissions,https://github.com/advisories/GHSA-xfhv-wqj6-rx99,https://da.gd/svhh
+GithubAdvisories,[GHSA-33g6-495w-v8j2] Snowflake JDBC uses insecure temporary credential cache file permissions,https://github.com/advisories/GHSA-33g6-495w-v8j2,https://da.gd/AjhdFo
+GithubAdvisories,[GHSA-7hpq-3g6w-pvhf] Snowflake JDBC allows an untrusted search path on Windows,https://github.com/advisories/GHSA-7hpq-3g6w-pvhf,https://da.gd/yH40E
+GithubAdvisories,[GHSA-3xg3-cgvq-2xwr] Twig security issue where escaping was missing when using null coalesce operator,https://github.com/advisories/GHSA-3xg3-cgvq-2xwr,https://da.gd/FRXE
