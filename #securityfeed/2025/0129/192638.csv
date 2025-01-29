@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qq5h-rjj9-q9qg] RuoYi vulnerable to Denial of Service by attackers with admin privileges,https://github.com/advisories/GHSA-qq5h-rjj9-q9qg,https://da.gd/E42fM
+GithubAdvisories,[GHSA-h5jh-rp76-q242] RuoYi has insecure permissions,https://github.com/advisories/GHSA-h5jh-rp76-q242,https://da.gd/RLDn7
+GithubAdvisories,[GHSA-v664-qgx9-wf79] RuoYi allowed unauthorized attackers to view the session ID of the admin in the system monitoring,https://github.com/advisories/GHSA-v664-qgx9-wf79,https://da.gd/TzNcKK
+GithubAdvisories,[GHSA-c476-j253-5rgq] Apache Hive Incorrectly Assigns Permissions for a Critical Resource,https://github.com/advisories/GHSA-c476-j253-5rgq,https://da.gd/yjycKT
+GithubAdvisories,[GHSA-29qp-crvh-w22m] github.com/hashicorp/yamux's DefaultConfig has dangerous defaults causing hung Read,https://github.com/advisories/GHSA-29qp-crvh-w22m,https://da.gd/HwLmF
