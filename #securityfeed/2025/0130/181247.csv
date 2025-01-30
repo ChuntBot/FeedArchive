@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j63m-2vr6-fv7m] DevDojo Voyager vulnerable to path traversal,https://github.com/advisories/GHSA-j63m-2vr6-fv7m,https://da.gd/1HFHUc
+GithubAdvisories,[GHSA-mm49-4f2g-c3wf] DevDojo Voyager vulnerable to reflected Cross-site Scripting,https://github.com/advisories/GHSA-mm49-4f2g-c3wf,https://da.gd/AsceG
+GithubAdvisories,[GHSA-fcrw-mphx-7cxf] Wildfly Server Role Based Access Control (RBAC) provider has Improper Access Control,https://github.com/advisories/GHSA-fcrw-mphx-7cxf,https://da.gd/cC46N
+GithubAdvisories,[GHSA-47g2-qmh2-749v] Argo CD does not scrub secret values from patch errors,https://github.com/advisories/GHSA-47g2-qmh2-749v,https://da.gd/0KQ2m
+GithubAdvisories,[GHSA-fc89-jghx-8pvg] KubeWarden's AdmissionPolicy and AdmissionPolicyGroup policies can be used to alter PolicyReport resources,https://github.com/advisories/GHSA-fc89-jghx-8pvg,https://da.gd/mIUlI
+GithubAdvisories,[GHSA-756x-m4mj-q96c] Kubewarden-Controller information leak via AdmissionPolicyGroup Resource,https://github.com/advisories/GHSA-756x-m4mj-q96c,https://da.gd/d0oX
+GithubAdvisories,[GHSA-q26p-9cq4-7fc2] Go Ethereum vulnerable to DoS via malicious p2p message,https://github.com/advisories/GHSA-q26p-9cq4-7fc2,https://da.gd/pwJh4
+GithubAdvisories,[GHSA-274v-mgcv-cm8j] Argo CD GitOps Engine does not scrub secret values from patch errors,https://github.com/advisories/GHSA-274v-mgcv-cm8j,https://da.gd/cqo6d
+GithubAdvisories,"[GHSA-vpxm-cr3r-pjp9] General OpenMRS Security Advisory, January 2025: Penetration Testing Results and Patches",https://github.com/advisories/GHSA-vpxm-cr3r-pjp9,https://da.gd/ggeO
