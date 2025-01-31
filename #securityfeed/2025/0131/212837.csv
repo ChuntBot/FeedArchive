@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wxcc-2f3q-4h58] Grafana Alerting VictorOps integration could be exposed to users with Viewer permission,https://github.com/advisories/GHSA-wxcc-2f3q-4h58,https://da.gd/QGEcJ
+GithubAdvisories,[GHSA-8h93-28hg-fj84] Composio Command Execution vulnerability,https://github.com/advisories/GHSA-8h93-28hg-fj84,https://da.gd/kMRwH
