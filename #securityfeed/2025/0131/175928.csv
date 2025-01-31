@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qr6x-62gq-4ccp] WildFly improper RBAC permission,https://github.com/advisories/GHSA-qr6x-62gq-4ccp,https://da.gd/DFqfP
+GithubAdvisories,[GHSA-88m4-h43f-wx84] PMD Designer's release key passphrase (GPG) available on Maven Central in cleartext,https://github.com/advisories/GHSA-88m4-h43f-wx84,https://da.gd/YFKR5
