@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Nginx] Use separate vhosts for additional server names,https://github.com/mailcow/mailcow-dockerized/commit/0ad327bbe56a8a14d1de2ed88343b571f343d127,https://da.gd/RKtjV
+GithubCommitStaging,[Web] Add validation for server_name against allow list,https://github.com/mailcow/mailcow-dockerized/commit/a2e87e0880e8a882cffd47d50d17cd26e3e8846d,https://da.gd/KJLxXX
+GithubCommitStaging,Merge pull request #6290 from mailcow/fix/nginx-vhosts,https://github.com/mailcow/mailcow-dockerized/commit/bbdec0960a43b431e4c8d577ed65f33beeddb46e,https://da.gd/9pt1i
