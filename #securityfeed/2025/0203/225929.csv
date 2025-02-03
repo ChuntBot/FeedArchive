@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qwp8-x4ff-5h87] ZX Allows Environment Variable Injection for dotenv API,https://github.com/advisories/GHSA-qwp8-x4ff-5h87,https://da.gd/lnr0at
