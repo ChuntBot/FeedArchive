@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rpmj-rpgj-qmpm] rust-openssl ssl::select_next_proto use after free,https://github.com/advisories/GHSA-rpmj-rpgj-qmpm,https://da.gd/6JGhtK
+GithubAdvisories,[GHSA-2ccp-vqmv-4r4x] S3Proxy allows insecure path traversal in filesystem and filesystem-nio2 storage backends,https://github.com/advisories/GHSA-2ccp-vqmv-4r4x,https://da.gd/9zgnZ9
