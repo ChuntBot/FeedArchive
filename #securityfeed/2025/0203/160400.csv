@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-f8mx-cwfh-7hr2] TShock allows chat while not fully connected, possible ban evasion",https://github.com/advisories/GHSA-f8mx-cwfh-7hr2,https://da.gd/joecS
+GithubAdvisories,[GHSA-22qq-3xwm-r5x4] CometBFT allows a malicious peer to make node stuck in blocksync,https://github.com/advisories/GHSA-22qq-3xwm-r5x4,https://da.gd/y4saQp
+GithubAdvisories,"[GHSA-g9wf-5777-gq43] Django-Unicorn Class Pollution Vulnerability, Leading to XSS, DoS and Authentication Bypass",https://github.com/advisories/GHSA-g9wf-5777-gq43,https://da.gd/BfoyD
+GithubAdvisories,[GHSA-r57h-547h-w24f] PhpSpreadsheet allows bypassing of XSS sanitizer using the javascript protocol and special characters,https://github.com/advisories/GHSA-r57h-547h-w24f,https://da.gd/CoySt
