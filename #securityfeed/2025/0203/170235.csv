@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r3r4-g7hq-pq4f] CometBFT allows a malicious peer to stall the network by disseminating seemingly valid block parts,https://github.com/advisories/GHSA-r3r4-g7hq-pq4f,https://da.gd/D7Td
