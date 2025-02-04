@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubCommit,Remove discontinued Nixspam DNSBL,https://github.com/mailcow/mailcow-dockerized/commit/04116982a5035f040969f38edc8297d33518265e,https://da.gd/Ayez7D
+GithubCommit,[Postfix] Remove discontinued Nixspam DNSBL from existing dns_blockli…,https://github.com/mailcow/mailcow-dockerized/commit/45d14254f292c498a23eaca7c9f6e02a9de26834,https://da.gd/VpoEXf
+GithubCommit,Merge pull request #6260 from mailcow/manitu,https://github.com/mailcow/mailcow-dockerized/commit/8ed51e500ff933334d264f51e6fb65410dc0fa79,https://da.gd/L33Xg7
+GithubCommit,clamd: update to 1.4.2 + build from source instead using alpine packages,https://github.com/mailcow/mailcow-dockerized/commit/60a2270d1e7d0985901378bea83295b3df6bf127,https://da.gd/1g2xKT
+GithubCommit,clamd: remove exposed ports from buildfile,https://github.com/mailcow/mailcow-dockerized/commit/65bc581fab5331fbb35b92f775d2c6a3f31f1bcd,https://da.gd/3oOJ
+GithubCommit,clamd: cleanup dockerfile,https://github.com/mailcow/mailcow-dockerized/commit/1a087bb2c8a1f5866f698629f070e8f895e61ec2,https://da.gd/d7Nrqo
+GithubCommit,[Nginx] Use separate vhosts for additional server names,https://github.com/mailcow/mailcow-dockerized/commit/0ad327bbe56a8a14d1de2ed88343b571f343d127,https://da.gd/RKtjV
+GithubCommit,Merge branch 'feat/clamd-rebuild' into staging,https://github.com/mailcow/mailcow-dockerized/commit/2407aa78952815fd26e910728dcfefd24dfdda3a,https://da.gd/aZl4p
+GithubCommit,[Web] Add validation for server_name against allow list,https://github.com/mailcow/mailcow-dockerized/commit/a2e87e0880e8a882cffd47d50d17cd26e3e8846d,https://da.gd/KJLxXX
+GithubCommit,[Nginx] Fix #6275,https://github.com/mailcow/mailcow-dockerized/commit/3a81b84cf7af2ed7787446a154710f0c34ffe92c,https://da.gd/SG11Pq
+GithubCommit,Merge pull request #6281 from mailcow/fix/6275,https://github.com/mailcow/mailcow-dockerized/commit/3c0f775e2f4d7ef9d17cab1d5ed98e5bd31dbc8b,https://da.gd/hrOMaP
+GithubCommit,postfix: added master.pid removal and startsecs to supervisord (#6284),https://github.com/mailcow/mailcow-dockerized/commit/aac4c6b5f41abd640436fcb75b9376fedfce5d15,https://da.gd/v69Vh
+GithubCommit,update postscreen_access.cidr (#6287),https://github.com/mailcow/mailcow-dockerized/commit/41ba7d97fa943ea7f6709cbb72eeb135bfc13300,https://da.gd/FxDW
+GithubCommit,Merge pull request #6290 from mailcow/fix/nginx-vhosts,https://github.com/mailcow/mailcow-dockerized/commit/bbdec0960a43b431e4c8d577ed65f33beeddb46e,https://da.gd/9pt1i
+GithubCommit,[Nginx] Add env var for HTTP to HTTPS redirection,https://github.com/mailcow/mailcow-dockerized/commit/e645f931dc04c8b8754927d90275a2e77a03931d,https://da.gd/KiSnUq
+GithubCommit,[Nginx] Invert SKIP container condition,https://github.com/mailcow/mailcow-dockerized/commit/97890b71f1f328fe3c9a101a6eece7e3bdb954e6,https://da.gd/wEdr5q
+GithubCommit,[Nginx] fix ADDITIONAL_SERVER_NAMES array,https://github.com/mailcow/mailcow-dockerized/commit/3544a2246eaa60a1218fac7d55f5feb453ee8dc2,https://da.gd/P2OEp
+GithubCommit,Merge pull request #6291 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/120366fec7b9ea79c9f563a81fa5ea30321ab0b2,https://da.gd/TYS94
