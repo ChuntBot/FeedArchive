@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-23qp-3c2m-xx6w] wasmvm: Malicious smart contract can crash the chain,https://github.com/advisories/GHSA-23qp-3c2m-xx6w,https://da.gd/mB1vo6
+GithubAdvisories,[GHSA-3cjf-fwcq-xh22] Apache Cassandra: CassandraNetworkAuthorizer and CassandraCIDRAuthorizer can be bypassed allowing access to different network regions,https://github.com/advisories/GHSA-3cjf-fwcq-xh22,https://da.gd/5vlar
+GithubAdvisories,[GHSA-rgfx-7p65-3ff4] Apache Cassandra: unrestricted deserialization of JMX authentication credentials,https://github.com/advisories/GHSA-rgfx-7p65-3ff4,https://da.gd/lpX2Q
+GithubAdvisories,[GHSA-wmcc-9vch-jmx4] Apache Cassandra: User with MODIFY permission on ALL KEYSPACES can escalate privileges to superuser via unsafe actions,https://github.com/advisories/GHSA-wmcc-9vch-jmx4,https://da.gd/e9JO
