@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9crc-q9x8-hgqq] Vitest allows Remote Code Execution when accessing a malicious website while Vitest API server is listening,https://github.com/advisories/GHSA-9crc-q9x8-hgqq,https://da.gd/vElQr
