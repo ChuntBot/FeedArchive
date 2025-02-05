@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g6qq-c9f9-2772] Keycloak on Quarkus CLI option for encrypted JGroups ignored,https://github.com/advisories/GHSA-g6qq-c9f9-2772,https://da.gd/W4Afd
+GithubAdvisories,[GHSA-79f6-p65j-3m2m] MobSF Local Privilege Escalation,https://github.com/advisories/GHSA-79f6-p65j-3m2m,https://da.gd/DaI5Z
+GithubAdvisories,[GHSA-jrm8-xgf3-fwqr] MobSF Partial Denial of Service (DoS),https://github.com/advisories/GHSA-jrm8-xgf3-fwqr,https://da.gd/tNo9d
+GithubAdvisories,[GHSA-cxqq-w3x5-7ph3] MobSF Stored Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-cxqq-w3x5-7ph3,https://da.gd/KJPBf
