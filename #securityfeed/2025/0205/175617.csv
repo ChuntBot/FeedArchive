@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7pq5-qcp6-mcww] CKAN has an XSS vector in user uploaded images in group/org and user profiles,https://github.com/advisories/GHSA-7pq5-qcp6-mcww,https://da.gd/Tx0cgw
