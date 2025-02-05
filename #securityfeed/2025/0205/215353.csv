@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9x4v-xfq5-m8x5] Better Auth URL parameter HTML Injection (Reflected Cross-Site scripting),https://github.com/advisories/GHSA-9x4v-xfq5-m8x5,https://da.gd/KPHy
+GithubAdvisories,[GHSA-mj4v-hp69-27x5] Plenti - Code Injection - Denial of Services,https://github.com/advisories/GHSA-mj4v-hp69-27x5,https://da.gd/Ax4HnK
+GithubAdvisories,[GHSA-vqv5-385r-2hf8] Contrast's unauthenticated recovery allows Coordinator impersonation,https://github.com/advisories/GHSA-vqv5-385r-2hf8,https://da.gd/4PhPoJ
+GithubAdvisories,[GHSA-f2q5-6mx7-q9qq] Browsershot Local File Inclusion,https://github.com/advisories/GHSA-f2q5-6mx7-q9qq,https://da.gd/HVE1P
+GithubAdvisories,[GHSA-wp68-xrfg-xvq4] Cockpit Arbitrary File Upload,https://github.com/advisories/GHSA-wp68-xrfg-xvq4,https://da.gd/wxbnRG
+GithubAdvisories,[GHSA-j2gw-r24m-j2qw] Browsershot Path Traversal,https://github.com/advisories/GHSA-j2gw-r24m-j2qw,https://da.gd/yB2tn
