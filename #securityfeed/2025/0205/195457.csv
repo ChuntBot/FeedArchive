@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mjqv-xhgm-gx8c] IO FinNet tss-lib vulnerable to timing attack from non-constant time scalar arithmetic,https://github.com/advisories/GHSA-mjqv-xhgm-gx8c,https://da.gd/3Pkt
+GithubAdvisories,[GHSA-3w84-4mjc-rjw7] IO FinNet tss-lib vulnerable to timing attack from non-constant time scalar multiplication,https://github.com/advisories/GHSA-3w84-4mjc-rjw7,https://da.gd/8pNJ
+GithubAdvisories,[GHSA-c58h-qv6g-fw74] IO FinNet tss-lib vulnerable to replay attacks involving proofs,https://github.com/advisories/GHSA-c58h-qv6g-fw74,https://da.gd/Kgj1J
