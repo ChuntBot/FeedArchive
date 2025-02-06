@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rm76-4mrf-v9r8] vLLM uses Python 3.12 built-in hash() which leads to predictable hash collisions in prefix cache,https://github.com/advisories/GHSA-rm76-4mrf-v9r8,https://da.gd/Ho2V6t
+GithubAdvisories,[GHSA-c7w4-9wv8-7x7c] WhoDB allows parameter injection in DB connection URIs leading to local file inclusion,https://github.com/advisories/GHSA-c7w4-9wv8-7x7c,https://da.gd/TEud
+GithubAdvisories,[GHSA-9r4c-jwx3-3j76] WhoDB has a path traversal opening Sqlite3 database,https://github.com/advisories/GHSA-9r4c-jwx3-3j76,https://da.gd/vus5f
