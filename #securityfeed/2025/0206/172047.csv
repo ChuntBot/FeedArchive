@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5wjw-qjhm-v43h] files.photo.gallery command injection,https://github.com/advisories/GHSA-5wjw-qjhm-v43h,https://da.gd/xyyzLS
+GithubAdvisories,[GHSA-j82m-pc2v-2484] Parsed HTML anchor links in Markdown provided to parseMarkdown can result in XSS in @nuxtjs/mdc,https://github.com/advisories/GHSA-j82m-pc2v-2484,https://da.gd/FD9c8r
+GithubAdvisories,[GHSA-vrpv-vw92-328g] Multiple rtmpdump vulnerabilities,https://github.com/advisories/GHSA-vrpv-vw92-328g,https://da.gd/tm1FJ
+GithubAdvisories,[GHSA-wg33-5h85-7q5p] Mitmweb API Authentication Bypass Using Proxy Server,https://github.com/advisories/GHSA-wg33-5h85-7q5p,https://da.gd/d09ugV
