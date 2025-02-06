@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2hjh-495w-hmxc] Sylius allows unrestricted brute-force attacks on user accounts,https://github.com/advisories/GHSA-2hjh-495w-hmxc,https://da.gd/v6acl1
+GithubAdvisories,[GHSA-57m2-h3fw-rxhw] Apache James vulnerable to denial of service through JMAP HTML to text conversion,https://github.com/advisories/GHSA-57m2-h3fw-rxhw,https://da.gd/kCs7s
+GithubAdvisories,[GHSA-56jp-w6vw-j3jw] Apache James vulnerable to denial of service through the use of IMAP literals,https://github.com/advisories/GHSA-56jp-w6vw-j3jw,https://da.gd/qH2g
+GithubAdvisories,[GHSA-pq2g-wx69-c263] Netplex Json-smart Uncontrolled Recursion vulnerability,https://github.com/advisories/GHSA-pq2g-wx69-c263,https://da.gd/qOJA1
