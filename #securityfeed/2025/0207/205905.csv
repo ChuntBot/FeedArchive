@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j77f-79w9-rghc] The wp-enable-svg WordPress plugin does not sanitize SVG files when uploaded,https://github.com/advisories/GHSA-j77f-79w9-rghc,https://da.gd/Y33EJ
+GithubAdvisories,[GHSA-8pqx-3rxx-f5pm] Jenkins discloses project names via fingerprints,https://github.com/advisories/GHSA-8pqx-3rxx-f5pm,https://da.gd/4VSi
+GithubAdvisories,[GHSA-2237-5r9w-vm8j] Connect-CMS information that is restricted to viewing is visible,https://github.com/advisories/GHSA-2237-5r9w-vm8j,https://da.gd/9nlLM1
+GithubAdvisories,[GHSA-5rjc-jc28-cwgg] Connect-CMS Access control vulnerability,https://github.com/advisories/GHSA-5rjc-jc28-cwgg,https://da.gd/PotbEZ
+GithubAdvisories,[GHSA-vqr3-vrrg-f3jh] NodeBB Cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-vqr3-vrrg-f3jh,https://da.gd/TpKb
+GithubAdvisories,[GHSA-572q-86rr-5vgq] Umbraco Rich Text Display allows Cross-Site Scripting,https://github.com/advisories/GHSA-572q-86rr-5vgq,https://da.gd/wGz8
+GithubAdvisories,[GHSA-432c-wxpg-m4q3] xml2rfc has file inclusion irregularities,https://github.com/advisories/GHSA-432c-wxpg-m4q3,https://da.gd/RMEGq2
+GithubAdvisories,[GHSA-vj7w-3m8c-6vpx] SFTPGo has insufficient sanitization of user provided rsync command,https://github.com/advisories/GHSA-vj7w-3m8c-6vpx,https://da.gd/0GkTP
