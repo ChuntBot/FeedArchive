@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,"ROPing our way to ""Yay, RCE"" - follow Michaels journey of developing an ARM ROP chain to exploit a buffer overflow in uc-http. Dive into the process of reverse engineering, gadget hunting, and crafting a working exploit.",https://redd.it/1ikr4kg,
