@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7723-35v7-qcxw] Server-Side Request Forgery (SSRF) in activitypub_federation,https://github.com/advisories/GHSA-7723-35v7-qcxw,https://da.gd/6CzqM
