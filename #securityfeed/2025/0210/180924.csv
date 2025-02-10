@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4c37-7m5h-c8m9] Apache Felix Webconsole: XSS in services console,https://github.com/advisories/GHSA-4c37-7m5h-c8m9,https://da.gd/bXGvJr
+GithubAdvisories,[GHSA-qm2p-4w45-v2vr] grcov has an out of bounds write triggered by crafted coverage data,https://github.com/advisories/GHSA-qm2p-4w45-v2vr,https://da.gd/DsRRTy
+GithubAdvisories,[GHSA-8rgj-285w-qcq4] Unknown vulnerability in Coinbase Wallet SDK,https://github.com/advisories/GHSA-8rgj-285w-qcq4,https://da.gd/61D3fn
+GithubAdvisories,[GHSA-wfpm-qchc-6cf9] SQL injection in JeecgBoot,https://github.com/advisories/GHSA-wfpm-qchc-6cf9,https://da.gd/NxCGI
+GithubAdvisories,[GHSA-67mh-4wv8-2f99] esbuild enables any website to send any requests to the development server and read the response,https://github.com/advisories/GHSA-67mh-4wv8-2f99,https://da.gd/lIGn2A
+GithubAdvisories,[GHSA-37wc-h8xc-5hc4] Hickory DNS's DNSSEC validation may accept broken authentication chains,https://github.com/advisories/GHSA-37wc-h8xc-5hc4,https://da.gd/92qTdM
+GithubAdvisories,[GHSA-7fc5-f82f-cx69] Possible DoS by memory exhaustion in net-imap,https://github.com/advisories/GHSA-7fc5-f82f-cx69,https://da.gd/6TDp
