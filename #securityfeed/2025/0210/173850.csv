@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4g8c-wm8x-jfhw] SslHandler doesn't correctly validate packets which can lead to native crash when using native SSLEngine,https://github.com/advisories/GHSA-4g8c-wm8x-jfhw,https://da.gd/5m4fA7
