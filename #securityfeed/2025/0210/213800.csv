@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-76p7-773f-r4q5] Cross-site Scripting (XSS) in serialize-javascript,https://github.com/advisories/GHSA-76p7-773f-r4q5,https://da.gd/nd0lwu
