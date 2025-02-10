@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v7pc-74h8-xq2h] Hickory DNS failure to verify self-signed RRSIG for DNSKEYs,https://github.com/advisories/GHSA-v7pc-74h8-xq2h,https://da.gd/PA0g6
