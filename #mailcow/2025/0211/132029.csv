@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,It's github-token now,https://github.com/mailcow/mailcow-dockerized/commit/83fc2c6387cb5558c929cf5a81fba73a22f08932,https://da.gd/n8vjV
+GithubCommitStaging,Merge pull request #6286 from mailcow/fix-workflow-staging,https://github.com/mailcow/mailcow-dockerized/commit/ac2f0c7db1737328166d5b12649efe45b0ce0378,https://da.gd/63nYzs
+GithubCommitStaging,Update generate_config.sh version checking for wider compatibility (#…,https://github.com/mailcow/mailcow-dockerized/commit/743e88fd67c35759686ef8e81c26e5d0d6810419,https://da.gd/01f0H
