@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wrfc-pvp9-mr9g] Deserialization of Untrusted Data in Hugging Face Transformers,https://github.com/advisories/GHSA-wrfc-pvp9-mr9g,https://da.gd/NZoo
+GithubAdvisories,[GHSA-hxxf-235m-72v3] Deserialization of Untrusted Data in Hugging Face Transformers,https://github.com/advisories/GHSA-hxxf-235m-72v3,https://da.gd/ZQho93
+GithubAdvisories,[GHSA-qxrp-vhvm-j765] Deserialization of Untrusted Data in Hugging Face Transformers,https://github.com/advisories/GHSA-qxrp-vhvm-j765,https://da.gd/u5mv
