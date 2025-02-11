@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v3vc-6qcv-4vrx] Apache NiFi: Potential Insertion of Sensitive Parameter Values in Debug Log,https://github.com/advisories/GHSA-v3vc-6qcv-4vrx,https://da.gd/Rdbs
