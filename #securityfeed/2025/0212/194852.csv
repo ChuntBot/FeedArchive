@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vjh7-7g9h-fjfh] Elliptic's private key extraction in ECDSA upon signing a malformed input (e.g. a string),https://github.com/advisories/GHSA-vjh7-7g9h-fjfh,https://da.gd/fFq5C
+GithubAdvisories,[GHSA-hcrg-fc28-fcg5] parse-duration has a Regex Denial of Service that results in event loop delay and out of memory,https://github.com/advisories/GHSA-hcrg-fc28-fcg5,https://da.gd/e2fnVh
+GithubAdvisories,[GHSA-q9w6-cwj4-gf4p] Unencrypted transmission in Temporal api-go library,https://github.com/advisories/GHSA-q9w6-cwj4-gf4p,https://da.gd/zmz3nk
+GithubAdvisories,[GHSA-xg2h-7cxj-3gvh] Command injection in Ray,https://github.com/advisories/GHSA-xg2h-7cxj-3gvh,https://da.gd/Lst9k
+GithubAdvisories,[GHSA-593f-38f6-jp5m] Inefficient Regular Expression Complexity in koa,https://github.com/advisories/GHSA-593f-38f6-jp5m,https://da.gd/QqMawH
+GithubAdvisories,[GHSA-29c6-3hcj-89cf] go-crypto-winnative BCryptGenerateSymmetricKey memory leak,https://github.com/advisories/GHSA-29c6-3hcj-89cf,https://da.gd/417hl
