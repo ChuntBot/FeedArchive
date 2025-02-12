@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6fgm-x6ff-w78f] Potential Denial-of-Service condition leading to temporary disability in IBC transfers to the native chain,https://github.com/advisories/GHSA-6fgm-x6ff-w78f,https://da.gd/qaJM3e
+GithubAdvisories,[GHSA-ph86-g9r3-5qw4] Uninitialized Variable in fastecdsa,https://github.com/advisories/GHSA-ph86-g9r3-5qw4,https://da.gd/160S2
+GithubAdvisories,[GHSA-mc8m-4r3w-q2hw] Privilege escalation in Liferay Portal,https://github.com/advisories/GHSA-mc8m-4r3w-q2hw,https://da.gd/sdfPqS
+GithubAdvisories,[GHSA-4v96-m8xv-x83v] Broken Authentication in Atlassian Connect Express,https://github.com/advisories/GHSA-4v96-m8xv-x83v,https://da.gd/JuU7ZP
