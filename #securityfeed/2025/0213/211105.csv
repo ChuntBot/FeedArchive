@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jgfp-53c3-624w] Node Denial of Service via kubelet Checkpoint API,https://github.com/advisories/GHSA-jgfp-53c3-624w,https://da.gd/B2w2j
