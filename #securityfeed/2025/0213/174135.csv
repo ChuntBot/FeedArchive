@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-phg3-gv66-q38x] Quarkus REST Endpoint Request Parameter Leakage Due to Shared Instance,https://github.com/advisories/GHSA-phg3-gv66-q38x,https://da.gd/Da1GU
+GithubAdvisories,[GHSA-x3v6-f5fr-4wwv] Apache Atlas: An authenticated user can perform XSS and potentially impersonate another user,https://github.com/advisories/GHSA-x3v6-f5fr-4wwv,https://da.gd/lXiUWw
+GithubAdvisories,[GHSA-mrqp-q7vx-v2cx] Instaclustr Cassandra-Lucene-Index allows bypass of Cassandra RBAC,https://github.com/advisories/GHSA-mrqp-q7vx-v2cx,https://da.gd/zhzCaD
