@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vv8h-m63v-53pq] Apache StreamPark: FreeMarker SSTI RCE Vulnerability,https://github.com/advisories/GHSA-vv8h-m63v-53pq,https://da.gd/3g9Z
+GithubAdvisories,[GHSA-5v69-92vw-fmjh] Apache StreamPark: maven build params could trigger remote command execution,https://github.com/advisories/GHSA-5v69-92vw-fmjh,https://da.gd/k62R9D
+GithubAdvisories,[GHSA-7g94-hfqc-q993] Apache StreamPark: Unchecked maven build params could trigger remote command execution,https://github.com/advisories/GHSA-7g94-hfqc-q993,https://da.gd/iZ8HpF
+GithubAdvisories,[GHSA-jfm4-3vv3-fm4v] Cross-site Scripting (XSS) in CrafterCMS,https://github.com/advisories/GHSA-jfm4-3vv3-fm4v,https://da.gd/7dRSL
