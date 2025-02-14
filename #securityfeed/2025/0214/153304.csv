@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m238-fmcw-wh58] Label Studio allows Server-Side Request Forgery in the S3 Storage Endpoint,https://github.com/advisories/GHSA-m238-fmcw-wh58,https://da.gd/R35TT
+GithubAdvisories,[GHSA-wpq5-3366-mqw4] Label Studio allows Cross-Site Scripting (XSS) via GET request to `/projects/upload-example` endpoint,https://github.com/advisories/GHSA-wpq5-3366-mqw4,https://da.gd/mTDRfr
+GithubAdvisories,[GHSA-rgv9-w7jp-m23g] Label Studio has a Path Traversal Vulnerability via image Field,https://github.com/advisories/GHSA-rgv9-w7jp-m23g,https://da.gd/TLbQWy
