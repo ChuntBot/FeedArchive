@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9jxq-5x44-gx23] Keylime registrar is vulnerable to Denial-of-Service attack when updated to version 7.12.0,https://github.com/advisories/GHSA-9jxq-5x44-gx23,https://da.gd/cb5Ky
+GithubAdvisories,[GHSA-rmvr-2pp2-xj38] @octokit/request has a Regular Expression in fetchWrapper that Leads to ReDoS Vulnerability Due to Catastrophic Backtracking,https://github.com/advisories/GHSA-rmvr-2pp2-xj38,https://da.gd/Yy3fdj
+GithubAdvisories,[GHSA-xx4v-prfh-6cgc] @octokit/request-error has a Regular Expression in index that Leads to ReDoS Vulnerability Due to Catastrophic Backtracking,https://github.com/advisories/GHSA-xx4v-prfh-6cgc,https://da.gd/Zrmn5r
+GithubAdvisories,[GHSA-h5c3-5r3r-rr8q] @octokit/plugin-paginate-rest has a Regular Expression in iterator Leads to ReDoS Vulnerability Due to Catastrophic Backtracking,https://github.com/advisories/GHSA-h5c3-5r3r-rr8q,https://da.gd/zcFr
+GithubAdvisories,[GHSA-x4c5-c7rf-jjgv] @octokit/endpoint has a Regular Expression in parse that Leads to ReDoS Vulnerability Due to Catastrophic Backtracking,https://github.com/advisories/GHSA-x4c5-c7rf-jjgv,https://da.gd/lwxCYo
+GithubAdvisories,[GHSA-mp7w-mhcv-673j] Vega allows Cross-site Scripting via the vlSelectionTuples function,https://github.com/advisories/GHSA-mp7w-mhcv-673j,https://da.gd/H1Rl3Q
