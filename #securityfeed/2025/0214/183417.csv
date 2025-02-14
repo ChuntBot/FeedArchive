@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8355-xj3p-hv6q] Apache Ignite: Possible RCE when deserializing incoming messages by the server node,https://github.com/advisories/GHSA-8355-xj3p-hv6q,https://da.gd/GCqgZ
+GithubAdvisories,[GHSA-vhxf-7vqr-mrjg] DOMPurify allows Cross-site Scripting (XSS),https://github.com/advisories/GHSA-vhxf-7vqr-mrjg,https://da.gd/smRLt
