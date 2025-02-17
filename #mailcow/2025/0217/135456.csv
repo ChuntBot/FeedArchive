@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,sogo: switched apt source to sogo again (supports aarch64 now),https://github.com/mailcow/mailcow-dockerized/commit/16e22e23dcb4bb9accff060503bb85dec478498d,https://da.gd/nRNwY
+GithubCommitStaging,Update Rspamd to 3.11.0 and enable SMTPUTF8 for outgoing mail (#6216),https://github.com/mailcow/mailcow-dockerized/commit/f6dc0b463ff80a5fefb645099c3a466ff17fa637,https://da.gd/HgJ8YV
