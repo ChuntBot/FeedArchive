@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Nginx] Add support for trusted proxies via env var,https://github.com/mailcow/mailcow-dockerized/commit/a567d5dc3193286684fdf0b7cf287817bdfe6581,https://da.gd/L8DBZ0
+GithubCommitStaging,[Redis] Add support for masterauth via env var,https://github.com/mailcow/mailcow-dockerized/commit/351f4ce787542b05dab8ad5c39c00429ef02233b,https://da.gd/8PeaAF
+GithubCommitStaging,Move sed cmd to remove discontinued DNSBLs (#6315),https://github.com/mailcow/mailcow-dockerized/commit/7bce5d836b2e53a256b8e9c3f40b1942491227da,https://da.gd/KMVWj
