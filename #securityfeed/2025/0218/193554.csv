@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2586-f3p4-hq84] LightGBM Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-2586-f3p4-hq84,https://da.gd/jxSapR
+GithubAdvisories,[GHSA-hw8r-x6gr-5gjp] JSONPath Plus allows Remote Code Execution,https://github.com/advisories/GHSA-hw8r-x6gr-5gjp,https://da.gd/TypF
+GithubAdvisories,[GHSA-m3pm-rpgg-5wj6] Home Assistant does not correctly validate SSL for outgoing requests in core and used libs,https://github.com/advisories/GHSA-m3pm-rpgg-5wj6,https://da.gd/SBmnp
+GithubAdvisories,[GHSA-vq63-8f72-f486] AspNetCore Remote Authenticator for CIE3.0 Allows SAML Response Signature Verification Bypass,https://github.com/advisories/GHSA-vq63-8f72-f486,https://da.gd/jmNT04
+GithubAdvisories,[GHSA-36h8-r92j-w9vw] The AspNetCore Remote Authenticator for SPID Allows SAML Response Signature Verification Bypass,https://github.com/advisories/GHSA-36h8-r92j-w9vw,https://da.gd/BD9xvy
