@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m5mf-3963-4x26] Authelia applies regulation separately to Username-based logins to Email-based logins,https://github.com/advisories/GHSA-m5mf-3963-4x26,https://da.gd/yBZY
+GithubAdvisories,[GHSA-ffvr-gmp3-xx43] Apache EventMesh: raft Hessian Deserialization Vulnerability allowing remote code execution,https://github.com/advisories/GHSA-ffvr-gmp3-xx43,https://da.gd/jV5ZmD
+GithubAdvisories,[GHSA-qxj7-2x7w-3mpp] Duende.AccessTokenManagement race condition when concurrently retrieving customized Client Credentials Access Tokens,https://github.com/advisories/GHSA-qxj7-2x7w-3mpp,https://da.gd/YBBn
+GithubAdvisories,[GHSA-99vm-5v2h-h6r6] Directus allows updates to non-allowed fields due to overlapping policies,https://github.com/advisories/GHSA-99vm-5v2h-h6r6,https://da.gd/pfRbEd
