@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5mwf-688x-mr7x] Nokogiri updates packaged libxml2 to 2.13.6 to resolve CVE-2025-24928 and CVE-2024-56171,https://github.com/advisories/GHSA-5mwf-688x-mr7x,https://da.gd/QmwnB4
