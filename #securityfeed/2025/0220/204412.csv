@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f8qm-hmm3-fv7f] Namada-apps allows Excessive Computation in Mempool Validation,https://github.com/advisories/GHSA-f8qm-hmm3-fv7f,https://da.gd/H49riS
+GithubAdvisories,[GHSA-82vg-5v4f-f9wq] Namada-apps can Crash with Excessive Computation in Mempool Validation,https://github.com/advisories/GHSA-82vg-5v4f-f9wq,https://da.gd/kmS0a2
+GithubAdvisories,[GHSA-2gw2-qgjg-xh6p] Namada-apps allows Post-Genesis Validator Bypass,https://github.com/advisories/GHSA-2gw2-qgjg-xh6p,https://da.gd/qEVc2k
+GithubAdvisories,[GHSA-rq4w-cjrr-h8w8] Keycloak allows Incorrect Assignment of an Organization to a User,https://github.com/advisories/GHSA-rq4w-cjrr-h8w8,https://da.gd/tshK
+GithubAdvisories,[GHSA-q4xq-445g-g6ch] Keycloak allows cross-site scripting (XSS),https://github.com/advisories/GHSA-q4xq-445g-g6ch,https://da.gd/gJINR
+GithubAdvisories,[GHSA-vxm9-8mfw-vc6g] Hermes improperly validates a JWT,https://github.com/advisories/GHSA-vxm9-8mfw-vc6g,https://da.gd/wKrwnK
+GithubAdvisories,[GHSA-9f57-9rhg-4hvm] Kwik hash collision vulnerability,https://github.com/advisories/GHSA-9f57-9rhg-4hvm,https://da.gd/w2yFVz
+GithubAdvisories,[GHSA-9gff-5v8w-x922] DocsGPT Allows Remote Code Execution,https://github.com/advisories/GHSA-9gff-5v8w-x922,https://da.gd/5hHjyT
+GithubAdvisories,[GHSA-x5vx-95h7-rv4p] Cosmos SDK: Groups module can halt chain when handling a malicious proposal,https://github.com/advisories/GHSA-x5vx-95h7-rv4p,https://da.gd/0wXzr
+GithubAdvisories,[GHSA-j3mm-wmfm-mwvh] Cross-site scripting (XSS) in the CKEditor 5 real-time collaboration package,https://github.com/advisories/GHSA-j3mm-wmfm-mwvh,https://da.gd/gY0TGa
+GithubAdvisories,[GHSA-rr6p-3pfg-562j] XWiki Platform allows remote code execution as guest via SolrSearchMacros request,https://github.com/advisories/GHSA-rr6p-3pfg-562j,https://da.gd/2Kpwmp
