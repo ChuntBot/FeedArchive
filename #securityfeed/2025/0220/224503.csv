@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pp9m-qf39-hxjc] S3-Proxy allows Reflected Cross-site Scripting (XSS) in template implementation,https://github.com/advisories/GHSA-pp9m-qf39-hxjc,https://da.gd/HtnNH
