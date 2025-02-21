@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j7jw-28jm-whr6] lakeFS allows an authenticated user to cause a crash by exhausting server memory,https://github.com/advisories/GHSA-j7jw-28jm-whr6,https://da.gd/lOZb4
+GithubAdvisories,[GHSA-fpmr-m242-xm7x] Malciously crafted QPY files can allows Remote Attackers to Cause Denial of Service in Qiskit,https://github.com/advisories/GHSA-fpmr-m242-xm7x,https://da.gd/m2Q5c
