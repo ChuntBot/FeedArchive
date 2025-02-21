@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-63cr-xg3f-8jvr] Leantime allows Stored Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-63cr-xg3f-8jvr,https://da.gd/Q2My
+GithubAdvisories,[GHSA-52xf-h226-pfgx] Leantime allows Refelected Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-52xf-h226-pfgx,https://da.gd/Je46I
+GithubAdvisories,[GHSA-h6w8-27ph-c385] Leantime has Insufficiently Protected Credentials,https://github.com/advisories/GHSA-h6w8-27ph-c385,https://da.gd/prpXi
+GithubAdvisories,[GHSA-mg4c-884j-pcq9] Leantime allows Stored Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-mg4c-884j-pcq9,https://da.gd/jmqljG
+GithubAdvisories,[GHSA-99r5-84gr-59f6] Leantime has Host Header Injection Vulnerability,https://github.com/advisories/GHSA-99r5-84gr-59f6,https://da.gd/STaBhS
