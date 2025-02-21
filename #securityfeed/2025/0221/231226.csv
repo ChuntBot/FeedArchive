@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c39w-3pjx-qc7m] Leantime allows Stored Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-c39w-3pjx-qc7m,https://da.gd/1mQEgp
+GithubAdvisories,[GHSA-92xh-6x7v-4rmq] Leantime allows Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-92xh-6x7v-4rmq,https://da.gd/Df61C
+GithubAdvisories,[GHSA-v4q9-437p-mhpg] Leantime allows Cross Site Scripting (XSS) and SQL Injection (SQLi),https://github.com/advisories/GHSA-v4q9-437p-mhpg,https://da.gd/55ZyCB
+GithubAdvisories,[GHSA-h33q-mhmp-8p67] Vyper has a double eval in For List Iter,https://github.com/advisories/GHSA-h33q-mhmp-8p67,https://da.gd/rHexR
+GithubAdvisories,[GHSA-4w26-8p97-f4jp] AugAssign evaluation order causing OOB write within the object in Vyper,https://github.com/advisories/GHSA-4w26-8p97-f4jp,https://da.gd/vQkUbJ
+GithubAdvisories,[GHSA-2p94-8669-xg86] Vyper's sqrt doesn't define rounding behavior,https://github.com/advisories/GHSA-2p94-8669-xg86,https://da.gd/rUAJD4
