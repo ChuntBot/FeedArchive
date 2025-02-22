@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f679-254h-qhvj] Leantime allows Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-f679-254h-qhvj,https://da.gd/tfmlx
+GithubAdvisories,[GHSA-95j3-435g-vjcp] Leantime affected by Improper Neutralization of HTML Tags,https://github.com/advisories/GHSA-95j3-435g-vjcp,https://da.gd/b1I9
+GithubAdvisories,[GHSA-3hfj-qcvj-4hx8] Leantime has Missing Authorization Check for Host Parameter,https://github.com/advisories/GHSA-3hfj-qcvj-4hx8,https://da.gd/TqC2b
+GithubAdvisories,[GHSA-38h4-fx85-qcx7] Exiv2 allows Use After Free,https://github.com/advisories/GHSA-38h4-fx85-qcx7,https://da.gd/hWgJGq
