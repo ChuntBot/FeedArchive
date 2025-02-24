@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cw24-f6fq-7j9v] Moodle allows teachers to evade trusttext config when restoring glossary entries,https://github.com/advisories/GHSA-cw24-f6fq-7j9v,https://da.gd/RMD7gM
+GithubAdvisories,[GHSA-rg56-94j7-hjx9] Moodle has a SQL injection risk in course search module list filter,https://github.com/advisories/GHSA-rg56-94j7-hjx9,https://da.gd/ZzY6K
+GithubAdvisories,[GHSA-4w32-c9g7-27qx] Moodle allows reflected XSS via question bank filter,https://github.com/advisories/GHSA-4w32-c9g7-27qx,https://da.gd/metIo
