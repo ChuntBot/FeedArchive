@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g88w-v4cq-qgcp] Moodle has an IDOR in badges allows disabling of arbitrary badges,https://github.com/advisories/GHSA-g88w-v4cq-qgcp,https://da.gd/lPs7d5
+GithubAdvisories,[GHSA-h697-w4ph-7pcx] Moodle has a stored XSS in ddimageortext question type,https://github.com/advisories/GHSA-h697-w4ph-7pcx,https://da.gd/VOtI1O
+GithubAdvisories,[GHSA-wr88-x8cm-7cgq] Moodle has a stored XSS risk in admin live log,https://github.com/advisories/GHSA-wr88-x8cm-7cgq,https://da.gd/fsavT
+GithubAdvisories,[GHSA-4hmr-39vp-xfrr] Moodle has an arbitrary file read risk through pdfTeX,https://github.com/advisories/GHSA-4hmr-39vp-xfrr,https://da.gd/UiUX
+GithubAdvisories,[GHSA-pxg4-xjp7-w9c5] Moodle's feedback response viewing and deletions did not respect Separate Groups mode,https://github.com/advisories/GHSA-pxg4-xjp7-w9c5,https://da.gd/pqgwHc
+GithubAdvisories,[GHSA-5r85-6h7f-rg3r] Moodle's non-searchable tags can still be discovered on the tag search page and in the tags block,https://github.com/advisories/GHSA-5r85-6h7f-rg3r,https://da.gd/n9tK
