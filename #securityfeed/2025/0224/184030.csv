@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x8q6-cchr-p7m6] Solon Path Traversal,https://github.com/advisories/GHSA-x8q6-cchr-p7m6,https://da.gd/7EmiH
+GithubAdvisories,[GHSA-8wp9-x25p-8794] tarteaucitron Cross-site Scripting (XSS),https://github.com/advisories/GHSA-8wp9-x25p-8794,https://da.gd/uICIHM
+GithubAdvisories,[GHSA-rhvr-6w8c-6v7w] Mattermost fails to invalidate all active sessions when converting a user to a bot,https://github.com/advisories/GHSA-rhvr-6w8c-6v7w,https://da.gd/QEIgP
+GithubAdvisories,[GHSA-v469-7wp6-7cvp] Mattermost allows reading arbitrary files,https://github.com/advisories/GHSA-v469-7wp6-7cvp,https://da.gd/O6opZ
+GithubAdvisories,[GHSA-q8p2-2hwc-jw64] Mattermost fails to restrict channel export of archived channels,https://github.com/advisories/GHSA-q8p2-2hwc-jw64,https://da.gd/r7BtkU
+GithubAdvisories,[GHSA-5fwx-p6xh-vjrh] Mattermost allows reading arbitrary files related to importing boards,https://github.com/advisories/GHSA-5fwx-p6xh-vjrh,https://da.gd/dBae3z
+GithubAdvisories,[GHSA-hjpm-7mrm-26w8] Beter Auth has an Open Redirect via Scheme-Less Callback Parameter,https://github.com/advisories/GHSA-hjpm-7mrm-26w8,https://da.gd/rhOl
+GithubAdvisories,[GHSA-5pmw-9j92-3c4c] OpenH264 Rust API Openh264 Decoding Functions Heap Overflow Vulnerability,https://github.com/advisories/GHSA-5pmw-9j92-3c4c,https://da.gd/phQnP
