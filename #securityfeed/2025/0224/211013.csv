@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vp58-j275-797x] Better Auth allows bypassing the trustedOrigins Protection which leads to ATO,https://github.com/advisories/GHSA-vp58-j275-797x,https://da.gd/21JlK
+GithubAdvisories,[GHSA-2cj2-qqxj-5m3r] Phusion Passenger denial of service,https://github.com/advisories/GHSA-2cj2-qqxj-5m3r,https://da.gd/Df94S
