@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Dovecot][Netfilter] Fix dovecot failed login regex,https://github.com/mailcow/mailcow-dockerized/commit/d8afa6f393eae461010431a9296df03d1fdbf197,https://da.gd/o38yX
+GithubCommitStaging,[Netfilter] Fix dovecot password mismatch regex,https://github.com/mailcow/mailcow-dockerized/commit/321965adee95aeb417720bee909fa961fdbb6aa3,https://da.gd/tDSoE
+GithubCommitStaging,[Netfilter] adjust dovecot failed login regex,https://github.com/mailcow/mailcow-dockerized/commit/7d356463426fbccdc0c5c868d4cfba19eca0f211,https://da.gd/DpNx7
+GithubCommitStaging,Merge pull request #6309 from mailcow/fix/6308,https://github.com/mailcow/mailcow-dockerized/commit/6ec5e8879306c5337edfa0e1c1156b87effe3dfe,https://da.gd/4isHiC
