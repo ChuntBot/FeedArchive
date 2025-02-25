@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hw62-58pr-7wc5] DOM Expressions has a Cross-Site Scripting (XSS) vulnerability due to improper use of string.replace,https://github.com/advisories/GHSA-hw62-58pr-7wc5,https://da.gd/5HcKw
+GithubAdvisories,[GHSA-3qxh-p7jc-5xh6] Solid Lacks Escaping of HTML in JSX Fragments allows for Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-3qxh-p7jc-5xh6,https://da.gd/KzPQI
+GithubAdvisories,[GHSA-c3p4-vm8f-386p] Navidrome allows an authentication bypass in Subsonic API with non-existent username,https://github.com/advisories/GHSA-c3p4-vm8f-386p,https://da.gd/n09k5C
+GithubAdvisories,[GHSA-mcgx-2gcr-p3hp] LTI JupyterHub Authenticator does not properly validate JWT Signature,https://github.com/advisories/GHSA-mcgx-2gcr-p3hp,https://da.gd/hdFMb
