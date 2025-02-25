@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5mvm-89c9-9gm5] Matrix IRC Bridge allows IRC command injection to own puppeted user,https://github.com/advisories/GHSA-5mvm-89c9-9gm5,https://da.gd/hCpYYu
