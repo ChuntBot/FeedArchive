@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4fwr-mh5q-hchh] io.quarkus:quarkus-resteasy: Memory Leak in Quarkus RESTEasy Classic When Client Requests Timeout,https://github.com/advisories/GHSA-4fwr-mh5q-hchh,https://da.gd/G9Mq
