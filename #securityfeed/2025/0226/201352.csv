@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4w2w-36vm-c8hf] Mautic allows Relative Path Traversal in assets file upload,https://github.com/advisories/GHSA-4w2w-36vm-c8hf,https://da.gd/XCUPh
+GithubAdvisories,[GHSA-8xv7-g2q3-fqgc] Mautic allows Improper Authorization in Reporting API,https://github.com/advisories/GHSA-8xv7-g2q3-fqgc,https://da.gd/0cWnP
+GithubAdvisories,[GHSA-73gx-x7r9-77x2] Mautic allows Remote Code Execution and File Deletion in Asset Uploads,https://github.com/advisories/GHSA-73gx-x7r9-77x2,https://da.gd/rBfIJ
+GithubAdvisories,[GHSA-m2jw-cj8v-937r] copyparty renders unsanitized filenames as HTML when user uploads empty files,https://github.com/advisories/GHSA-m2jw-cj8v-937r,https://da.gd/9o8Fux
