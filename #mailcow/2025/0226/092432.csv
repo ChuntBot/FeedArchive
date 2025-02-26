@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Fix #2752: Domain recipient for address rewrite,https://github.com/mailcow/mailcow-dockerized/commit/f15ee39b63463563a3430dc28188635c1e6bb654,https://da.gd/7NsXzL
+GithubCommitStaging,Fix @ prefixing domain rewrite and update localization,https://github.com/mailcow/mailcow-dockerized/commit/e52323bf1dc6f0097d7dc7d103aa770c155b1c7f,https://da.gd/DHWG0
+GithubCommitStaging,Merge pull request #6155 from PseudoResonance/fix2752,https://github.com/mailcow/mailcow-dockerized/commit/c4a0e370b7b3020d7e3583c664b748bbe34a4cc0,https://da.gd/vLOJ8m
