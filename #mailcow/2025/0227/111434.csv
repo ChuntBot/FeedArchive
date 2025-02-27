@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommit,scripts: adapted new docker image names to docker_garbage function + …,https://github.com/mailcow/mailcow-dockerized/commit/a4c2cf4c67fa4a73ca4d933e675a8c58c00618ba,https://da.gd/qq0Rp
+GithubCommit,update.sh: corrected typos inside update.sh,https://github.com/mailcow/mailcow-dockerized/commit/5296085189fd6ca6938734a0a112b53d41b9adc0,https://da.gd/6pJTm
+GithubCommit,Merge pull request #6336 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/a632980871d6b94087cfd513c92cd9cad6f7e819,https://da.gd/bP0sv
