@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,scripts: adapted new docker image names to docker_garbage function + …,https://github.com/mailcow/mailcow-dockerized/commit/a4c2cf4c67fa4a73ca4d933e675a8c58c00618ba,https://da.gd/qq0Rp
+GithubCommitStaging,update.sh: corrected typos inside update.sh,https://github.com/mailcow/mailcow-dockerized/commit/5296085189fd6ca6938734a0a112b53d41b9adc0,https://da.gd/6pJTm
