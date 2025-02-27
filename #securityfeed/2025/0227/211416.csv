@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jxr4-4prv-mh83] ejson shell parser in MongoDB Compass maybe bypassed,https://github.com/advisories/GHSA-jxr4-4prv-mh83,https://da.gd/R2JX2l
+GithubAdvisories,[GHSA-f5w3-73h4-jpcm] mongosh vulnerable to local privilege escalation,https://github.com/advisories/GHSA-f5w3-73h4-jpcm,https://da.gd/Vq8AO
