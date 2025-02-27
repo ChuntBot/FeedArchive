@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r95j-4jvf-mrrw] MongoDB Shell may be susceptible to control character Injection via shell output,https://github.com/advisories/GHSA-r95j-4jvf-mrrw,https://da.gd/3CdB
+GithubAdvisories,[GHSA-973h-3x6p-qg37] MongoDB Shell may be susceptible to control character injection via pasting,https://github.com/advisories/GHSA-973h-3x6p-qg37,https://da.gd/R1clfI
+GithubAdvisories,[GHSA-43g5-2wr2-q7vj] MongoDB Shell may be susceptible to Control Character Injection via autocomplete,https://github.com/advisories/GHSA-43g5-2wr2-q7vj,https://da.gd/Wg8z
