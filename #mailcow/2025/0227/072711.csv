@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,prompt user before applying major updates,https://github.com/mailcow/mailcow-dockerized/commit/787fa49d0c060da5d330d1f104ff7bae666754b0,https://da.gd/U67C
+GithubCommitStaging,add 2025-02 to major versions,https://github.com/mailcow/mailcow-dockerized/commit/3d9cc2f6dd5aa950977ee9fb59e13ad212c3f57e,https://da.gd/BzfTM
+GithubCommitStaging,Merge pull request #6330 from mailcow/feat/major-update-prompt,https://github.com/mailcow/mailcow-dockerized/commit/4b31c04e3e3631465be00e2659032d063931551b,https://da.gd/SHLqh
