@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,sogo: switched apt source to sogo again (supports aarch64 now),https://github.com/mailcow/mailcow-dockerized/commit/16e22e23dcb4bb9accff060503bb85dec478498d,https://da.gd/nRNwY
+GithubCommit,Update Rspamd to 3.11.0 and enable SMTPUTF8 for outgoing mail (#6216),https://github.com/mailcow/mailcow-dockerized/commit/f6dc0b463ff80a5fefb645099c3a466ff17fa637,https://da.gd/HgJ8YV
+GithubCommit,[Mariadb] Update to 10.11 (LTS) (#5152),https://github.com/mailcow/mailcow-dockerized/commit/4ac541f67143888b16f70154af9b2b9b5ead9977,https://da.gd/tRFYD7
+GithubCommit,[Nginx] Add support for trusted proxies via env var,https://github.com/mailcow/mailcow-dockerized/commit/a567d5dc3193286684fdf0b7cf287817bdfe6581,https://da.gd/L8DBZ0
+GithubCommit,[Redis] Add support for masterauth via env var,https://github.com/mailcow/mailcow-dockerized/commit/351f4ce787542b05dab8ad5c39c00429ef02233b,https://da.gd/8PeaAF
+GithubCommit,Move sed cmd to remove discontinued DNSBLs (#6315),https://github.com/mailcow/mailcow-dockerized/commit/7bce5d836b2e53a256b8e9c3f40b1942491227da,https://da.gd/KMVWj
+GithubCommit,[Netfilter] Fix dovecot password mismatch regex,https://github.com/mailcow/mailcow-dockerized/commit/321965adee95aeb417720bee909fa961fdbb6aa3,https://da.gd/tDSoE
+GithubCommit,[Netfilter] adjust dovecot failed login regex,https://github.com/mailcow/mailcow-dockerized/commit/7d356463426fbccdc0c5c868d4cfba19eca0f211,https://da.gd/DpNx7
+GithubCommit,Merge pull request #6309 from mailcow/fix/6308,https://github.com/mailcow/mailcow-dockerized/commit/6ec5e8879306c5337edfa0e1c1156b87effe3dfe,https://da.gd/4isHiC
+GithubCommit,Fix #2752: Domain recipient for address rewrite,https://github.com/mailcow/mailcow-dockerized/commit/f15ee39b63463563a3430dc28188635c1e6bb654,https://da.gd/7NsXzL
+GithubCommit,Fix @ prefixing domain rewrite and update localization,https://github.com/mailcow/mailcow-dockerized/commit/e52323bf1dc6f0097d7dc7d103aa770c155b1c7f,https://da.gd/DHWG0
+GithubCommit,rspamd: upgraded rspamd to 3.11.0-2 (incl. NIXSPAM Removal) (#6328),https://github.com/mailcow/mailcow-dockerized/commit/a6c38590cae713e1c8b54efd570092dbe45b9bc4,https://da.gd/1GIqH
+GithubCommit,prompt user before applying major updates,https://github.com/mailcow/mailcow-dockerized/commit/787fa49d0c060da5d330d1f104ff7bae666754b0,https://da.gd/U67C
+GithubCommit,Merge pull request #6155 from PseudoResonance/fix2752,https://github.com/mailcow/mailcow-dockerized/commit/c4a0e370b7b3020d7e3583c664b748bbe34a4cc0,https://da.gd/vLOJ8m
+GithubCommit,compose: use ghcr.io for new/current mailcow docker images instead of…,https://github.com/mailcow/mailcow-dockerized/commit/704dd50262215da1d696739ddd6b04f6e2746e45,https://da.gd/CSkhP
+GithubCommit,add 2025-02 to major versions,https://github.com/mailcow/mailcow-dockerized/commit/3d9cc2f6dd5aa950977ee9fb59e13ad212c3f57e,https://da.gd/BzfTM
+GithubCommit,Merge pull request #6330 from mailcow/feat/major-update-prompt,https://github.com/mailcow/mailcow-dockerized/commit/4b31c04e3e3631465be00e2659032d063931551b,https://da.gd/SHLqh
+GithubCommit,[Redis] use 7.4.2-alpine image,https://github.com/mailcow/mailcow-dockerized/commit/35a6f81d0d4f97375274d0e6f4fb03819b7cb642,https://da.gd/s0Fp0
+GithubCommit,use ghcr.io for backupimage (#6333),https://github.com/mailcow/mailcow-dockerized/commit/3c9d0c9d577a3ac8a159a34c7851b14cd6d4ecb1,https://da.gd/ubW9
+GithubCommit,Merge pull request #6335 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/2d1ef41d3228c5086e26f1ddf580a918184e8463,https://da.gd/GHJF2
