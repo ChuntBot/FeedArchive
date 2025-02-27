@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mq23-vvg7-xfm4] Rancher does not Properly Validate Account Bindings in SAML Authentication Enables User Impersonation on First Login,https://github.com/advisories/GHSA-mq23-vvg7-xfm4,https://da.gd/kabY1m
+GithubAdvisories,[GHSA-xr9q-h9c7-xw8q] Rancher allows an unauthenticated stack overflow in /v3-public/authproviders API,https://github.com/advisories/GHSA-xr9q-h9c7-xw8q,https://da.gd/dyN0Hy
+GithubAdvisories,[GHSA-5qmp-9x47-92q8] Rancher's SAML-based login via CLI can be denied by unauthenticated users,https://github.com/advisories/GHSA-5qmp-9x47-92q8,https://da.gd/06OBgr
