@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g3j6-9753-8mp2] Magento Stored Cross-Site Scripting (XSS) Vulnerability,https://github.com/advisories/GHSA-g3j6-9753-8mp2,https://da.gd/MVY254
+GithubAdvisories,[GHSA-m4rg-mpp2-97px] Magento Stored Cross-Site Scripting (XSS) Vulnerability,https://github.com/advisories/GHSA-m4rg-mpp2-97px,https://da.gd/32pF8G
+GithubAdvisories,[GHSA-954p-ff72-327w] Adobe Commerce Path Traversal,https://github.com/advisories/GHSA-954p-ff72-327w,https://da.gd/vqaZB
+GithubAdvisories,[GHSA-36hw-x3cc-m258] Magento Improper Access Control vulnerability,https://github.com/advisories/GHSA-36hw-x3cc-m258,https://da.gd/Ebyx
+GithubAdvisories,[GHSA-xwgx-8v72-4j5j] Magento Stored Cross-Site Scripting (XSS) Vulnerability,https://github.com/advisories/GHSA-xwgx-8v72-4j5j,https://da.gd/1nzR
+GithubAdvisories,[GHSA-gc27-rvvm-q77r] Magento Stored Cross-Site Scripting (XSS) Vulnerability,https://github.com/advisories/GHSA-gc27-rvvm-q77r,https://da.gd/JhSPj
+GithubAdvisories,[GHSA-3cfg-w257-cgf8] Magento Information Exposure vulnerability,https://github.com/advisories/GHSA-3cfg-w257-cgf8,https://da.gd/Mmzp7
+GithubAdvisories,[GHSA-rjjw-g6hw-7pc9] Magento Stored Cross-Site Scripting (XSS) Vulnerability,https://github.com/advisories/GHSA-rjjw-g6hw-7pc9,https://da.gd/fyIH
+GithubAdvisories,[GHSA-gjxp-46rq-wg4q] Magento Stored Cross-Site Scripting (XSS) Vulnerability,https://github.com/advisories/GHSA-gjxp-46rq-wg4q,https://da.gd/Xp1pn
+GithubAdvisories,[GHSA-vw47-79jv-3598] Adobe Commerce Improper Authorization vulnerability,https://github.com/advisories/GHSA-vw47-79jv-3598,https://da.gd/RxPIT0
+GithubAdvisories,[GHSA-fhw6-3mj5-w9gv] Magento Stored Cross-Site Scripting (XSS) Vulnerability,https://github.com/advisories/GHSA-fhw6-3mj5-w9gv,https://da.gd/qY7Atj
+GithubAdvisories,"[GHSA-pwhh-q4h6-w599] Spotipy's cache file, containing spotify auth token, is created with overly broad permissions",https://github.com/advisories/GHSA-pwhh-q4h6-w599,https://da.gd/b32cy
