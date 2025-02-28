@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p75g-cxfj-7wrx] Pebble has Arbitrary Local File Inclusion (LFI) Vulnerability via `include` macro,https://github.com/advisories/GHSA-p75g-cxfj-7wrx,https://da.gd/Npul5m
