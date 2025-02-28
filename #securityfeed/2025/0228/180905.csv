@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v83q-83hj-rw38] ntpd NTS client denial of service via wrongly sized cookies,https://github.com/advisories/GHSA-v83q-83hj-rw38,https://da.gd/OQoJk
+GithubAdvisories,[GHSA-wfxg-v3j4-7qmj] Memos Server-Side Request Forgery (SSRF),https://github.com/advisories/GHSA-wfxg-v3j4-7qmj,https://da.gd/8WTaTL
+GithubAdvisories,[GHSA-jg6f-48ff-5xrw] IBC-Go has Non-deterministic JSON Unmarshalling of IBC Acknowledgement,https://github.com/advisories/GHSA-jg6f-48ff-5xrw,https://da.gd/Y1TYU
