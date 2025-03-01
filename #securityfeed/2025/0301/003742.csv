@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c85w-x26q-ch87] Formwork improperly validates input of User role preventing site and panel availability,https://github.com/advisories/GHSA-c85w-x26q-ch87,https://da.gd/AASaPb
+GithubAdvisories,[GHSA-vf6x-59hh-332f] Formwork has a cross-site scripting (XSS) vulnerability in Site title,https://github.com/advisories/GHSA-vf6x-59hh-332f,https://da.gd/e0jq5
