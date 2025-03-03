@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gh9q-2xrm-x6qv] CGI has Denial of Service (DoS) potential in Cookie.parse,https://github.com/advisories/GHSA-gh9q-2xrm-x6qv,https://da.gd/m24r
