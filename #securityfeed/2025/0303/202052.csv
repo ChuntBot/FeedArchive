@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fp3m-g5rc-4c28] Stage.js DOM Clobbering vulnerabilty,https://github.com/advisories/GHSA-fp3m-g5rc-4c28,https://da.gd/p41p0m
+GithubAdvisories,[GHSA-x7hr-w5r2-h6wg] PrismJS DOM Clobbering vulnerability,https://github.com/advisories/GHSA-x7hr-w5r2-h6wg,https://da.gd/4mMYiv
+GithubAdvisories,[GHSA-jx6p-9c26-g373] Oxidized Web RANCID migration page allows unauthenticated user to gain control over Linux user account,https://github.com/advisories/GHSA-jx6p-9c26-g373,https://da.gd/eu3r0
+GithubAdvisories,[GHSA-h958-fxgg-g7w3] Security Update for the OPC UA .NET Standard Stack,https://github.com/advisories/GHSA-h958-fxgg-g7w3,https://da.gd/lKCrvu
+GithubAdvisories,[GHSA-4rcc-7pg7-f57f] Security Update for the OPC UA .NET Standard Stack,https://github.com/advisories/GHSA-4rcc-7pg7-f57f,https://da.gd/l3oD6a
+GithubAdvisories,[GHSA-655q-fx9r-782v] Picklescan Allows Remote Code Execution via Malicious Pickle File Bypassing Static Analysis,https://github.com/advisories/GHSA-655q-fx9r-782v,https://da.gd/2FRklg
+GithubAdvisories,[GHSA-vr75-hjh9-7fr6] Duplicate Advisory: Remote Code Execution via Malicious Pickle File Bypassing Static Analysis,https://github.com/advisories/GHSA-vr75-hjh9-7fr6,https://da.gd/DGjuf4
+GithubAdvisories,[GHSA-769v-p64c-89pr] PyTorch Model Files Can Bypass Pickle Scanners via Unexpected Pickle Extensions,https://github.com/advisories/GHSA-769v-p64c-89pr,https://da.gd/Ed7uTT
+GithubAdvisories,[GHSA-wc79-7x8x-2p58] MinIO allows an SFTP authentication bypass due to improperly trusted SSH key,https://github.com/advisories/GHSA-wc79-7x8x-2p58,https://da.gd/42tVWy
+GithubAdvisories,[GHSA-h8h6-7752-g28c] Manifest Uses a One-Way Hash without a Salt,https://github.com/advisories/GHSA-h8h6-7752-g28c,https://da.gd/jISf
+GithubAdvisories,[GHSA-g839-x3p3-g5fm] CodeChecker open redirect when URL contains multiple slashes after the product name,https://github.com/advisories/GHSA-g839-x3p3-g5fm,https://da.gd/2znmz1
