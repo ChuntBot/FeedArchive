@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pfr4-4397-3hg8] seajs Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-pfr4-4397-3hg8,https://da.gd/kzmaJ
+GithubAdvisories,[GHSA-3mf5-r4hg-hfx9] mavo DOM Clobbering vulnerability,https://github.com/advisories/GHSA-3mf5-r4hg-hfx9,https://da.gd/a6mG
+GithubAdvisories,[GHSA-2h4w-p9fh-9rmv] Apache Ranger Improper Neutralization of Formula Elements vulnerability,https://github.com/advisories/GHSA-2h4w-p9fh-9rmv,https://da.gd/0YAs
+GithubAdvisories,"[GHSA-22h5-pq3x-2gf2] URI allows for userinfo Leakage in URI#join, URI#merge, and URI#+",https://github.com/advisories/GHSA-22h5-pq3x-2gf2,https://da.gd/6FJmk
+GithubAdvisories,[GHSA-mhwm-jh88-3gjf] CGI has Regular Expression Denial of Service (ReDoS) potential in Util#escapeElement,https://github.com/advisories/GHSA-mhwm-jh88-3gjf,https://da.gd/Nbtu
