@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8cgq-6mh2-7j6v] Escape Sequence Injection vulnerability in Rack lead to Possible Log Injection,https://github.com/advisories/GHSA-8cgq-6mh2-7j6v,https://da.gd/R5VWf
