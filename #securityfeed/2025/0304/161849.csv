@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2444-8gj8-6fmx] Magento Open Source allows XML Injection,https://github.com/advisories/GHSA-2444-8gj8-6fmx,https://da.gd/kSvU2h
+GithubAdvisories,[GHSA-4h7p-4vq8-g2gh] Magento Open Source allows Improper Access Control,https://github.com/advisories/GHSA-4h7p-4vq8-g2gh,https://da.gd/WFxBn
+GithubAdvisories,[GHSA-2wm7-mmgc-qxr3] Magento Open Source allows Incorrect Authorization,https://github.com/advisories/GHSA-2wm7-mmgc-qxr3,https://da.gd/uBDtx
+GithubAdvisories,[GHSA-4vj2-426r-jm3g] Magento Open Source allows Stored Cross-Site Scripting (Stored XSS),https://github.com/advisories/GHSA-4vj2-426r-jm3g,https://da.gd/7oCixX
+GithubAdvisories,[GHSA-94wq-87g6-8h77] Magento Open Source allows Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-94wq-87g6-8h77,https://da.gd/7wIHMD
