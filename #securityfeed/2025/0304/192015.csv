@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wh4m-6rh3-p4rq] Magento Open Source allows Improper Input Validation,https://github.com/advisories/GHSA-wh4m-6rh3-p4rq,https://da.gd/gqAOH
+GithubAdvisories,[GHSA-59vf-hjxc-f9c5] Magento Open Source allows Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-59vf-hjxc-f9c5,https://da.gd/MR7zLs
+GithubAdvisories,[GHSA-525f-pvj5-vqmq] Magento Open Source allows OS Command Injection,https://github.com/advisories/GHSA-525f-pvj5-vqmq,https://da.gd/v2OfZ
+GithubAdvisories,[GHSA-264g-f7v8-q5qq] Magento Open Source allows Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-264g-f7v8-q5qq,https://da.gd/NY9mXU
