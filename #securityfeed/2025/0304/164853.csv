@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f3gh-529w-v32x] IDOR Vulnerabilities in ZITADEL's Admin API that Primarily Impact LDAP Configurations,https://github.com/advisories/GHSA-f3gh-529w-v32x,https://da.gd/AGRKX
+GithubAdvisories,[GHSA-85m4-g9vq-xpxj] Magento Open Source allows Information Exposure,https://github.com/advisories/GHSA-85m4-g9vq-xpxj,https://da.gd/L2HJU
+GithubAdvisories,[GHSA-f989-3fp9-q3r2] Magento Open Source allows Incorrect Authorization,https://github.com/advisories/GHSA-f989-3fp9-q3r2,https://da.gd/9SkLnR
+GithubAdvisories,[GHSA-5fxx-jwjm-x9hj] Magento Open Source allows Improper Access Control,https://github.com/advisories/GHSA-5fxx-jwjm-x9hj,https://da.gd/j3vfdg
