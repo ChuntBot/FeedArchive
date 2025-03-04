@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5xmp-7wg5-x68q] Magento Open Source affected by Improper Input Validation,https://github.com/advisories/GHSA-5xmp-7wg5-x68q,https://da.gd/FFMmYs
+GithubAdvisories,[GHSA-3vg2-v639-6ch9] Magento Open Source allows Incorrect Authorization,https://github.com/advisories/GHSA-3vg2-v639-6ch9,https://da.gd/iFMePp
+GithubAdvisories,[GHSA-mxc9-g6m4-2v35] Magento Open Source allows Improper Neutralization of Special Elements Used,https://github.com/advisories/GHSA-mxc9-g6m4-2v35,https://da.gd/elrU
+GithubAdvisories,[GHSA-rpv2-g4pc-wp72] Magento Open Source allows XML Injection,https://github.com/advisories/GHSA-rpv2-g4pc-wp72,https://da.gd/bcYJ
+GithubAdvisories,[GHSA-fxcr-gvcw-hmqm] Magento Open Source allows Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-fxcr-gvcw-hmqm,https://da.gd/Byp8Iu
+GithubAdvisories,[GHSA-28vp-39rf-3q2j] Magento Open Source has Business Logic Errors Vulnerability,https://github.com/advisories/GHSA-28vp-39rf-3q2j,https://da.gd/7B34gk
+GithubAdvisories,[GHSA-354h-fpmq-68v7] Magento Open Source allows Incorrect Authorization,https://github.com/advisories/GHSA-354h-fpmq-68v7,https://da.gd/mGRacT
+GithubAdvisories,[GHSA-5jfg-phx7-7fxg] Magento Open Source affected by Improper Input Validation,https://github.com/advisories/GHSA-5jfg-phx7-7fxg,https://da.gd/rCTMm
+GithubAdvisories,[GHSA-gfmm-ww6f-5mm5] Magento Open Source allows Improper Neutralization of Special Elements Used,https://github.com/advisories/GHSA-gfmm-ww6f-5mm5,https://da.gd/CVCH
+GithubAdvisories,[GHSA-66c9-xrwj-9xv6] Magento Open Source affected by Improper Input Validation,https://github.com/advisories/GHSA-66c9-xrwj-9xv6,https://da.gd/X4tOLZ
+GithubAdvisories,[GHSA-4588-7x48-jrgj] Magento Open Source allows Server-Side Request Forgery (SSRF),https://github.com/advisories/GHSA-4588-7x48-jrgj,https://da.gd/dzA4R1
+GithubAdvisories,[GHSA-5f79-vhr4-vw2r] Magento Open Source allows Server-Side Request Forgery (SSRF),https://github.com/advisories/GHSA-5f79-vhr4-vw2r,https://da.gd/sDLxCl
+GithubAdvisories,[GHSA-qw5m-vmp3-f553] Magento Open Source allows Incorrect Authorization,https://github.com/advisories/GHSA-qw5m-vmp3-f553,https://da.gd/JnEb
+GithubAdvisories,[GHSA-wh42-8r2w-873x] Magento Open Source allows XML Injection,https://github.com/advisories/GHSA-wh42-8r2w-873x,https://da.gd/vD2L
