@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cpwx-vrp4-4pq7] Jinja2 vulnerable to sandbox breakout through attr filter selecting format method,https://github.com/advisories/GHSA-cpwx-vrp4-4pq7,https://da.gd/nL8Kv
