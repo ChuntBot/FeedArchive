@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-793v-gxfp-9q9h] Spacy-LLM Server-Side Template Injection (SSTI) vulnerability,https://github.com/advisories/GHSA-793v-gxfp-9q9h,https://da.gd/Tpy2gC
+GithubAdvisories,[GHSA-hw43-fcmm-3m5g] Emissary May Use a Broken or Risky Cryptographic Algorithm,https://github.com/advisories/GHSA-hw43-fcmm-3m5g,https://da.gd/9yyCO
