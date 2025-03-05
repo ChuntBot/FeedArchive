@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-69jq-qr7w-j7qh] FlowiseAI Flowise arbitrary file upload vulnerability,https://github.com/advisories/GHSA-69jq-qr7w-j7qh,https://da.gd/4D7NBg
+GithubAdvisories,[GHSA-93qr-h8pr-4593] OpenDJ Denial of Service (DoS) using alias loop,https://github.com/advisories/GHSA-93qr-h8pr-4593,https://da.gd/ZRgb5
+GithubAdvisories,[GHSA-wppf-gqj5-fc4f] REDAXO allows Arbitrary File Upload in the mediapool page,https://github.com/advisories/GHSA-wppf-gqj5-fc4f,https://da.gd/KOoBq
+GithubAdvisories,[GHSA-vwjx-mmwm-pwrf] Lucee RCE/XXE Vulnerability,https://github.com/advisories/GHSA-vwjx-mmwm-pwrf,https://da.gd/JlPt
