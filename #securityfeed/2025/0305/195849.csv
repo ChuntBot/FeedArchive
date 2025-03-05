@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3x5x-fw77-g54c] dmlc/dgl Vulnerable to Remote Code Execution by Pickle Deserialization via rpc.recv_request(),https://github.com/advisories/GHSA-3x5x-fw77-g54c,https://da.gd/Edeefm
+GithubAdvisories,[GHSA-v69f-5jxm-hwvv] Volt Allows RCE Via User-Crafted Requests,https://github.com/advisories/GHSA-v69f-5jxm-hwvv,https://da.gd/JSku
