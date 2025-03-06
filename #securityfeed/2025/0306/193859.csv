@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7g95-jmg9-h524] Jenkins cross-site request forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-7g95-jmg9-h524,https://da.gd/k14XQz
+GithubAdvisories,[GHSA-8hmv-92wm-39ch] Jenkins Open Redirect vulnerability,https://github.com/advisories/GHSA-8hmv-92wm-39ch,https://da.gd/bOmWpT
+GithubAdvisories,[GHSA-52jx-g6m5-h735] Fleet has SAML authentication vulnerability due to improper SAML response validation,https://github.com/advisories/GHSA-52jx-g6m5-h735,https://da.gd/9pcEl
+GithubAdvisories,[GHSA-mf24-chxh-hmvj] Envoy Gateway Log Injection Vulnerability,https://github.com/advisories/GHSA-mf24-chxh-hmvj,https://da.gd/LH6D4
