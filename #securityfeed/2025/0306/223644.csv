@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p3fp-8748-vqfq] Django vulnerable to Allocation of Resources Without Limits or Throttling,https://github.com/advisories/GHSA-p3fp-8748-vqfq,https://da.gd/ClfP
+GithubAdvisories,[GHSA-vc29-vg52-6643] DoS Vulnerability in TraceContextPropagator.Extract - OpenTelemetry.Api,https://github.com/advisories/GHSA-vc29-vg52-6643,https://da.gd/aKqN
+GithubAdvisories,[GHSA-w4rh-fgx7-q63m] ray vulnerable to Insertion of Sensitive Information into Log File,https://github.com/advisories/GHSA-w4rh-fgx7-q63m,https://da.gd/jlAPo
+GithubAdvisories,[GHSA-p34j-r3ch-c985] Jenkins reveals encrypted values of secrets stored in agent configuration to users with Agent/Extended Read permission,https://github.com/advisories/GHSA-p34j-r3ch-c985,https://da.gd/aKUqGp
+GithubAdvisories,[GHSA-rfh6-9r2q-98vf] Jenkins reveals encrypted values of secrets stored in agent configuration to users with Agent/Extended Read permission,https://github.com/advisories/GHSA-rfh6-9r2q-98vf,https://da.gd/whf98T
+GithubAdvisories,[GHSA-2cmq-823j-5qj8] Out-of-bounds Write in SixLabors ImageSharp,https://github.com/advisories/GHSA-2cmq-823j-5qj8,https://da.gd/hwhVjv
