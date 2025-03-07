@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2gh3-rmm4-6rq5] Crash due to uncontrolled recursion in protobuf crate,https://github.com/advisories/GHSA-2gh3-rmm4-6rq5,https://da.gd/CBvlgq
+GithubAdvisories,[GHSA-6wxf-7784-62fp] Horcrux Double Sign Possibility,https://github.com/advisories/GHSA-6wxf-7784-62fp,https://da.gd/xiOB4
