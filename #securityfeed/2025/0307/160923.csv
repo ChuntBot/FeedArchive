@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6qvp-39mm-95v8] com.xwiki.confluencepro:application-confluence-migrator-pro-ui Remote Code Execution via unescaped translations,https://github.com/advisories/GHSA-6qvp-39mm-95v8,https://da.gd/8V7z2
+GithubAdvisories,[GHSA-p2ph-7g93-hw3m] Vue I18n Allows Prototype Pollution in `handleFlatJson`,https://github.com/advisories/GHSA-p2ph-7g93-hw3m,https://da.gd/PoeDFu
