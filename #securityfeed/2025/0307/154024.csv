@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jr5f-v2jv-69x6] axios Requests Vulnerable To Possible SSRF and Credential Leakage via Absolute URL,https://github.com/advisories/GHSA-jr5f-v2jv-69x6,https://da.gd/lo59Di
