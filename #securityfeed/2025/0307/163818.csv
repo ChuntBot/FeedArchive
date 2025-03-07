@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4p46-pwfr-66x6] Some AES functions may panic when overflow checking is enabled in ring,https://github.com/advisories/GHSA-4p46-pwfr-66x6,https://da.gd/CEYEQT
+GithubAdvisories,[GHSA-hpw7-8qpc-34p3] Microsoft Security Advisory CVE-2025-24043 | WinDbg Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-hpw7-8qpc-34p3,https://da.gd/2joNAi
+GithubAdvisories,[GHSA-3w9f-2pph-j5vc] com.xwiki.confluencepro:application-confluence-migrator-pro-ui's application homepage is public,https://github.com/advisories/GHSA-3w9f-2pph-j5vc,https://da.gd/UZ3hZk
