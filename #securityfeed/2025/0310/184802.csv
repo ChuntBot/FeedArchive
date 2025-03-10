@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2fh4-gpch-vqv4] Duplicate Advisory: Zip Flag Bit Exploit Crashes Picklescan But Not PyTorch,https://github.com/advisories/GHSA-2fh4-gpch-vqv4,https://da.gd/GYf4j
+GithubAdvisories,[GHSA-47qw-ccjm-9c2c] LocalS3 XML Parser Vulnerable to XML External Entity (XXE) Injection,https://github.com/advisories/GHSA-47qw-ccjm-9c2c,https://da.gd/e80V2
+GithubAdvisories,[GHSA-v232-254c-m6p7] LocalS3 Project Vulnerable to XML External Entity (XXE) Injection via Bucket Tagging API,https://github.com/advisories/GHSA-v232-254c-m6p7,https://da.gd/oeWQ8
+GithubAdvisories,[GHSA-2466-4485-4pxj] LocalS3 Project Bucket Operations Vulnerable to XML External Entity (XXE) Injection,https://github.com/advisories/GHSA-2466-4485-4pxj,https://da.gd/eo0Z
+GithubAdvisories,[GHSA-7q5r-7gvp-wc82] Zip Exploit Crashes Picklescan But Not PyTorch,https://github.com/advisories/GHSA-7q5r-7gvp-wc82,https://da.gd/ta6Cdh
+GithubAdvisories,[GHSA-w8jq-xcqf-f792] Zip Flag Bit Exploit Crashes Picklescan But Not PyTorch,https://github.com/advisories/GHSA-w8jq-xcqf-f792,https://da.gd/qBnn8
+GithubAdvisories,[GHSA-w6mr-mj53-x258] Duplicate Advisory: Zip Exploit Crashes Picklescan But Not PyTorch,https://github.com/advisories/GHSA-w6mr-mj53-x258,https://da.gd/7Nxlk
+GithubAdvisories,[GHSA-g6wm-2v64-wq36] LocalS3 CreateBucketConfiguration Endpoint XML External Entity (XXE) Injection,https://github.com/advisories/GHSA-g6wm-2v64-wq36,https://da.gd/oSqim
