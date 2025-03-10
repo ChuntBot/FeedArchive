@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-pvmx-mjmh-jfcx] Concrete CMS affected by a stored XSS in Folder Function.The ""Add Folder"" functionality",https://github.com/advisories/GHSA-pvmx-mjmh-jfcx,https://da.gd/KqkcT
+GithubAdvisories,[GHSA-c3q9-q986-vrwh] Nomad is vulnerable to unintentional exposure of the workload identity token and client secret token in audit logs,https://github.com/advisories/GHSA-c3q9-q986-vrwh,https://da.gd/EON6P1
+GithubAdvisories,[GHSA-83qj-6fr2-vhqg] Apache Tomcat: Potential RCE and/or information disclosure and/or information corruption with partial PUT,https://github.com/advisories/GHSA-83qj-6fr2-vhqg,https://da.gd/TVcd
+GithubAdvisories,[GHSA-9m63-33q3-xq5x] Vela Server Has Insufficient Webhook Payload Data Verification,https://github.com/advisories/GHSA-9m63-33q3-xq5x,https://da.gd/p10NrJ
