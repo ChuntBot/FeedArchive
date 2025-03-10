@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g274-c6jj-h78p] PocketMine-MP allows malicious client data to waste server resources due to lack of limits for explode(),https://github.com/advisories/GHSA-g274-c6jj-h78p,https://da.gd/LIKA6Q
+GithubAdvisories,[GHSA-546h-56qp-8jmw] Laravel framework susceptible to reflected cross-site scripting,https://github.com/advisories/GHSA-546h-56qp-8jmw,https://da.gd/XItWq
