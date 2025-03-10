@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gvgg-2r3r-53x7] Improper Authorization in Keycloak Organization Mapper Allows Unauthorized Organization Claims,https://github.com/advisories/GHSA-gvgg-2r3r-53x7,https://da.gd/8co4
+GithubAdvisories,[GHSA-2p82-5wwr-43cw] Authentication Bypass Due to Missing LDAP Bind After Password Reset in Keycloak,https://github.com/advisories/GHSA-2p82-5wwr-43cw,https://da.gd/gJLwAW
+GithubAdvisories,[GHSA-2c2h-2855-mf97] Apache Camel: Camel Message Header Injection via Improper Filtering,https://github.com/advisories/GHSA-2c2h-2855-mf97,https://da.gd/sRGxEk
+GithubAdvisories,[GHSA-83wp-f5c3-hqqr] Laravel framework susceptible to reflected cross-site scripting,https://github.com/advisories/GHSA-83wp-f5c3-hqqr,https://da.gd/ewoE2q
