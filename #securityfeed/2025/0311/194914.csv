@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2865-hh9g-w894] Microsoft Security Advisory CVE-2025-24070: .NET Elevation of Privilege Vulnerability,https://github.com/advisories/GHSA-2865-hh9g-w894,https://da.gd/1qZ9e
+GithubAdvisories,[GHSA-46r4-f8gj-xg56] The SimpleSAMLphp SAML2 library incorrectly verifies signatures for HTTP-Redirect binding,https://github.com/advisories/GHSA-46r4-f8gj-xg56,https://da.gd/v5hjj
