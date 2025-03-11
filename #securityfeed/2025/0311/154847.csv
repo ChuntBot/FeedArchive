@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wx5h-wqfq-v698] Umbraco Allows a Restricted Editor User to Delete Media Item or Access Unauthorized Content,https://github.com/advisories/GHSA-wx5h-wqfq-v698,https://da.gd/Mubjo
+GithubAdvisories,[GHSA-6ffg-mjg7-585x] Umbraco Allows Improper API Access Control to Low-Privilege Users to Data Type Functionality,https://github.com/advisories/GHSA-6ffg-mjg7-585x,https://da.gd/CqlM
+GithubAdvisories,[GHSA-44f7-5fj5-h4px] Ratify Azure authentication providers can leak authentication tokens to non-Azure container registries,https://github.com/advisories/GHSA-44f7-5fj5-h4px,https://da.gd/APKIwX
