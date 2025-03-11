@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-26xq-m8xw-6373] Froxlor has an HTML Injection Vulnerability,https://github.com/advisories/GHSA-26xq-m8xw-6373,https://da.gd/O9pE8P
+GithubAdvisories,[GHSA-7j6w-p859-464f] Froxlor allows Multiple Accounts to Share the Same Email Address Leading to Potential Privilege Escalation or Account Takeover,https://github.com/advisories/GHSA-7j6w-p859-464f,https://da.gd/oifjw
+GithubAdvisories,[GHSA-968p-4wvh-cqc8] Babel has inefficient RexExp complexity in generated code with .replace when transpiling named capturing groups,https://github.com/advisories/GHSA-968p-4wvh-cqc8,https://da.gd/4LhO
