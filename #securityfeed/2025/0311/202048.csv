@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gprr-v9f2-px3c] Azure PromptFlow remote code execution related to Jinja templates,https://github.com/advisories/GHSA-gprr-v9f2-px3c,https://da.gd/OaI0
+GithubAdvisories,[GHSA-fg9q-5cw2-p6r9] kubevirt-csi: PersistentVolume allows access to HCP's root node,https://github.com/advisories/GHSA-fg9q-5cw2-p6r9,https://da.gd/dpo74
+GithubAdvisories,[GHSA-48g7-3x6r-xfhp] Arbitrary Code Execution via Crafted Keras Config for Model Loading,https://github.com/advisories/GHSA-48g7-3x6r-xfhp,https://da.gd/7zVon
