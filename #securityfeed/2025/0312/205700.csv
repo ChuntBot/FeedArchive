@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-754f-8gm6-c4r2] Ruby SAML allows a SAML authentication bypass due to namespace handling (parser differential),https://github.com/advisories/GHSA-754f-8gm6-c4r2,https://da.gd/begmg
+GithubAdvisories,[GHSA-ppp9-fmh9-w5gx] Malware in auth-validator,https://github.com/advisories/GHSA-ppp9-fmh9-w5gx,https://da.gd/261uWA
+GithubAdvisories,[GHSA-h6j8-xjjh-48vm] Malware in react-event-dependency,https://github.com/advisories/GHSA-h6j8-xjjh-48vm,https://da.gd/D34OD
