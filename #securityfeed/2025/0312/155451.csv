@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x97g-3gp9-cf2p] Jenkins allows Cross-Site Scripting (XSS) via Crafted URL,https://github.com/advisories/GHSA-x97g-3gp9-cf2p,https://da.gd/RQd3Zi
+GithubAdvisories,[GHSA-wr6p-j63r-xqhv] Jenkins allows Data Insertion and Execution of Code by those with Read and HTTP Access,https://github.com/advisories/GHSA-wr6p-j63r-xqhv,https://da.gd/2jNv4
+GithubAdvisories,[GHSA-9m3q-rhmv-5q44] Out-of-bounds Read in Ruby JSON Parser,https://github.com/advisories/GHSA-9m3q-rhmv-5q44,https://da.gd/XW9Q6
+GithubAdvisories,[GHSA-v2mw-5mch-w8c5] canvg Prototype Pollution vulnerability,https://github.com/advisories/GHSA-v2mw-5mch-w8c5,https://da.gd/LAGOR
