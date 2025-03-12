@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hw46-3hmr-x9xv] omniauth-saml has dependency on ruby-saml version with Signature Wrapping Attack issue,https://github.com/advisories/GHSA-hw46-3hmr-x9xv,https://da.gd/2G0Wke
+GithubAdvisories,[GHSA-4wf3-5qj9-368v] IBC-Go: Non-deterministic JSON Unmarshalling of IBC Acknowledgement can result in a chain halt,https://github.com/advisories/GHSA-4wf3-5qj9-368v,https://da.gd/RlXZJg
+GithubAdvisories,[GHSA-47ww-ff84-4jrg] Cosmos SDK: x/group can halt when erroring in EndBlocker,https://github.com/advisories/GHSA-47ww-ff84-4jrg,https://da.gd/LjGTX4
+GithubAdvisories,[GHSA-q92j-grw3-h492] graphql allows remote code execution when loading a crafted GraphQL schema,https://github.com/advisories/GHSA-q92j-grw3-h492,https://da.gd/I4rWTp
