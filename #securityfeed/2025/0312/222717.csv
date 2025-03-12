@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-35gq-cvrm-xf94] Apache NiFi: Potential Insertion of MongoDB Password in Provenance Record,https://github.com/advisories/GHSA-35gq-cvrm-xf94,https://da.gd/eRB7vy
+GithubAdvisories,[GHSA-2cv6-4f2r-jq2c] Apache Felix HTTP Webconsole Plugin: XSS in HTTP Webconsole Plugin,https://github.com/advisories/GHSA-2cv6-4f2r-jq2c,https://da.gd/0DjnI
+GithubAdvisories,[GHSA-qxp5-gwg8-xv66] HTTP Proxy bypass using IPv6 Zone IDs in golang.org/x/net,https://github.com/advisories/GHSA-qxp5-gwg8-xv66,https://da.gd/RgxsCK
+GithubAdvisories,[GHSA-hg9j-64wp-m9px] Flarum Vulnerable to Session Hijacking via Authoritative Subdomain Cookie Overwrite,https://github.com/advisories/GHSA-hg9j-64wp-m9px,https://da.gd/gQhXji
+GithubAdvisories,[GHSA-323w-6p85-26fr] Duplicate Advisory: Plenti - Code Injection - Denial of Services,https://github.com/advisories/GHSA-323w-6p85-26fr,https://da.gd/acV3A
