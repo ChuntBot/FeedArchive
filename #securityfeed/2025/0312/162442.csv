@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j7gw-mwfg-vqf4] Jenkins Credentials Binding Plugin Stores Passwords in a Recoverable Format,https://github.com/advisories/GHSA-j7gw-mwfg-vqf4,https://da.gd/bxyAM
+GithubAdvisories,[GHSA-4w4h-8qh9-342x] Jenkins allows Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-4w4h-8qh9-342x,https://da.gd/PilHgM
+GithubAdvisories,[GHSA-3wgq-h4fr-cwg5] laravel-crud-wizard-free has File Validation Bypass,https://github.com/advisories/GHSA-3wgq-h4fr-cwg5,https://da.gd/xvOat
+GithubAdvisories,[GHSA-3qxr-q72q-hmwp] Jenkins CI Game Plugin allows Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-3qxr-q72q-hmwp,https://da.gd/ge1rRo
+GithubAdvisories,[GHSA-5qpv-27q3-6484] Jenkins Violation Plugin allows Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-5qpv-27q3-6484,https://da.gd/LiDa8
