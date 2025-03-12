@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h2f8-342x-3268] Malware in empty-validator,https://github.com/advisories/GHSA-h2f8-342x-3268,https://da.gd/EoC42
+GithubAdvisories,[GHSA-gxgp-2fx2-3wrw] Malware in empty-array-validator,https://github.com/advisories/GHSA-gxgp-2fx2-3wrw,https://da.gd/W9B5
+GithubAdvisories,[GHSA-6w5w-wpvq-g39w] Malware in array-empty-validator,https://github.com/advisories/GHSA-6w5w-wpvq-g39w,https://da.gd/JNDDN
+GithubAdvisories,[GHSA-qggp-gqh7-728v] Malware in event-handle-package,https://github.com/advisories/GHSA-qggp-gqh7-728v,https://da.gd/yA5zm
+GithubAdvisories,[GHSA-cv9f-wq96-6hv2] Malware in event-handle,https://github.com/advisories/GHSA-cv9f-wq96-6hv2,https://da.gd/pjrc
+GithubAdvisories,[GHSA-3m8c-3gf6-rmhh] Malware in yoojae-validator,https://github.com/advisories/GHSA-3m8c-3gf6-rmhh,https://da.gd/7MUEuH
+GithubAdvisories,[GHSA-cc93-26cw-hcfg] Malware in icloud-xod,https://github.com/advisories/GHSA-cc93-26cw-hcfg,https://da.gd/So1JKs
+GithubAdvisories,[GHSA-9pq8-jf66-73j6] Malware in events-utils,https://github.com/advisories/GHSA-9pq8-jf66-73j6,https://da.gd/hixy
+GithubAdvisories,[GHSA-4qqv-xrrq-cwq2] Malware in is-buffer-validator,https://github.com/advisories/GHSA-4qqv-xrrq-cwq2,https://da.gd/WlNJc
+GithubAdvisories,[GHSA-4vc4-m8qh-g8jm] Ruby SAML allows a SAML authentication bypass due to DOCTYPE handling (parser differential),https://github.com/advisories/GHSA-4vc4-m8qh-g8jm,https://da.gd/7zrtZ
+GithubAdvisories,[GHSA-gfh6-3pqw-x2j4] SmallRye Fault Tolerance out-of-memory (OOM) issue,https://github.com/advisories/GHSA-gfh6-3pqw-x2j4,https://da.gd/q5adG
+GithubAdvisories,[GHSA-96v5-c2h5-56hm] Apache Camel Message Header Injection through request parameters,https://github.com/advisories/GHSA-96v5-c2h5-56hm,https://da.gd/CsFbuy
+GithubAdvisories,[GHSA-92rq-c8cf-prrq] Ruby SAML allows remote Denial of Service (DoS) with compressed SAML responses,https://github.com/advisories/GHSA-92rq-c8cf-prrq,https://da.gd/k3rzT
