@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h2rp-8vpx-q9r4] cheqd-node Security patch for upstream vulnerabilities in IBC-Go (ISA-2025-001) and Cosmos SDK (ISA-2025-002),https://github.com/advisories/GHSA-h2rp-8vpx-q9r4,https://da.gd/d7BhA
+GithubAdvisories,[GHSA-86w8-vhw6-q9qq] XPixelGroup BasicSR Command Injection,https://github.com/advisories/GHSA-86w8-vhw6-q9qq,https://da.gd/Ncc8A
+GithubAdvisories,[GHSA-p53j-g8pw-4w5f] Ed25519 Signature Malleability in ed25519-java Due to Missing Scalar Range Check,https://github.com/advisories/GHSA-p53j-g8pw-4w5f,https://da.gd/0m71m
