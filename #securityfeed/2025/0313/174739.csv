@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cc55-c9j4-m7cx] Jenkins allows Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-cc55-c9j4-m7cx,https://da.gd/BCT5
+GithubAdvisories,[GHSA-25c5-58xw-hw5q] Jenkins allows Remote Users to Build Arbitrary Jobs,https://github.com/advisories/GHSA-25c5-58xw-hw5q,https://da.gd/hbeHZF
