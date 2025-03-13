@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4352-jxwg-88rm] Jenkins Zoom Plugin is Missing Password Field Masking,https://github.com/advisories/GHSA-4352-jxwg-88rm,https://da.gd/MQEaN
+GithubAdvisories,[GHSA-jx45-xp6q-cwjc] Jenkins Zoom Plugin Stores Sensitive Information in Cleartext,https://github.com/advisories/GHSA-jx45-xp6q-cwjc,https://da.gd/T40Q7O
+GithubAdvisories,[GHSA-3x9h-3p7m-33m7] Jenkins SonarQube Plugin Stores Passwords in Cleartext,https://github.com/advisories/GHSA-3x9h-3p7m-33m7,https://da.gd/9L6aQ
+GithubAdvisories,[GHSA-c4fr-gx5w-8qf2] Jenkins Subversion Plugin Stores Credentials with Base64 Encoding,https://github.com/advisories/GHSA-c4fr-gx5w-8qf2,https://da.gd/ZH3Y
+GithubAdvisories,[GHSA-q3rp-555r-hh6r] Jenkins allows Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-q3rp-555r-hh6r,https://da.gd/qYabb
+GithubAdvisories,[GHSA-9c26-cf8c-mw43] Jenkins allows Remote Attackers to Hijack Sessions,https://github.com/advisories/GHSA-9c26-cf8c-mw43,https://da.gd/jUhYw
+GithubAdvisories,[GHSA-w3f5-gq7j-m797] Jenkins Vulnerable to Clickjacking,https://github.com/advisories/GHSA-w3f5-gq7j-m797,https://da.gd/BklQ
