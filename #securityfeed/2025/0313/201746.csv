@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hm54-fg2w-2g6j] MODX allows cross-site scripting (XSS) via an SVG file,https://github.com/advisories/GHSA-hm54-fg2w-2g6j,https://da.gd/z7FM
