@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fvfh-8mj3-23xj] Jenkins allows for Code Execution via Crafted Packet to the CLI,https://github.com/advisories/GHSA-fvfh-8mj3-23xj,https://da.gd/yTblz
+GithubAdvisories,[GHSA-5xm3-48v5-6h7v] Jenkins allows Remote Users to Obtain Sensitive Information from a Plugin Code,https://github.com/advisories/GHSA-5xm3-48v5-6h7v,https://da.gd/vsOs
+GithubAdvisories,[GHSA-mm9c-4cv4-7rfv] Jenkins allows for Privilege Escalation by Remote Authenticated Users,https://github.com/advisories/GHSA-mm9c-4cv4-7rfv,https://da.gd/LZaoR6
+GithubAdvisories,[GHSA-37wm-28rm-56vw] Jenkins does not Restrict Reserved Names Allowing for Privilege Escalation,https://github.com/advisories/GHSA-37wm-28rm-56vw,https://da.gd/lHEa
+GithubAdvisories,[GHSA-9h85-v6xf-h26q] Jenkins allows Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-9h85-v6xf-h26q,https://da.gd/60ysmY
+GithubAdvisories,[GHSA-3rwx-3vwh-mwxc] Jenkins Vulnerable to Denial of Service (DoS),https://github.com/advisories/GHSA-3rwx-3vwh-mwxc,https://da.gd/VJNede
+GithubAdvisories,[GHSA-3269-jqp5-v8c9] Jenkins allows for Privilege Escalation by Remote Authenticated Users,https://github.com/advisories/GHSA-3269-jqp5-v8c9,https://da.gd/yDUWjp
+GithubAdvisories,[GHSA-ghjw-fc9q-jj8c] Jenkins Monitoring Plugin allows Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-ghjw-fc9q-jj8c,https://da.gd/BrD2wo
+GithubAdvisories,[GHSA-52g6-pfrq-rxfv] Jenkins allows Cross-Site Scripting (XSS) in User Configuration,https://github.com/advisories/GHSA-52g6-pfrq-rxfv,https://da.gd/ATRHyL
+GithubAdvisories,[GHSA-h52h-972r-68mh] Jenkins Build Failure Analyzer Plugin allows Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-h52h-972r-68mh,https://da.gd/KQp6BT
+GithubAdvisories,[GHSA-2q8v-439j-6p77] Jenkins Exclusion Plugin allows Access to Resource Locks,https://github.com/advisories/GHSA-2q8v-439j-6p77,https://da.gd/W48wAL
+GithubAdvisories,[GHSA-qwc3-p5pc-q93h] Jenkins Monitoring Plugin Reveals Sensitive Information via Unspecified Pages,https://github.com/advisories/GHSA-qwc3-p5pc-q93h,https://da.gd/JmlQ
+GithubAdvisories,[GHSA-xgjx-96v4-mqxx] Jenkins Script Security Plugin allows for Bypass of Groovy Sandbox Protection,https://github.com/advisories/GHSA-xgjx-96v4-mqxx,https://da.gd/hyeWxJ
+GithubAdvisories,[GHSA-j7q5-h445-f7pc] Jenkins allows Execution of Code by Opening a JRMP Listener,https://github.com/advisories/GHSA-j7q5-h445-f7pc,https://da.gd/oxABFr
+GithubAdvisories,[GHSA-8p3c-m625-wh83] Jenkins has CRLF Injection Vulnerability in the CLI,https://github.com/advisories/GHSA-8p3c-m625-wh83,https://da.gd/I0CBKS
+GithubAdvisories,[GHSA-7vvj-qqvj-h8mc] Jenkins Exposes Sensitive Information from Job Configuration,https://github.com/advisories/GHSA-7vvj-qqvj-h8mc,https://da.gd/l0W7fi
+GithubAdvisories,[GHSA-q298-375f-5q63] Snowflake JDBC Driver client-side encryption key in DEBUG logs,https://github.com/advisories/GHSA-q298-375f-5q63,https://da.gd/E4qFC
