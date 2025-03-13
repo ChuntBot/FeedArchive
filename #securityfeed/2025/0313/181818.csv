@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-45rg-g72w-r393] Jenkins allows Deserialization of Untrusted Data via an XML File,https://github.com/advisories/GHSA-45rg-g72w-r393,https://da.gd/jTUV6i
+GithubAdvisories,[GHSA-qf2h-h3xq-j93j] Jenkins allows Remote Users to Inject Build Parameters,https://github.com/advisories/GHSA-qf2h-h3xq-j93j,https://da.gd/rGQhzi
+GithubAdvisories,[GHSA-rx4r-gxpc-h85x] Jenkins affected by Open Redirect Vulnerability,https://github.com/advisories/GHSA-rx4r-gxpc-h85x,https://da.gd/217c
+GithubAdvisories,[GHSA-3vhr-f5xr-8vpx] Jenkins Vulnerable to Cross-Site Request Forgery (CSRF) Attack,https://github.com/advisories/GHSA-3vhr-f5xr-8vpx,https://da.gd/rDwwtZ
+GithubAdvisories,[GHSA-8xr3-54w2-8xjp] Jenkins Image Gallery Plugin allows Path Traversal,https://github.com/advisories/GHSA-8xr3-54w2-8xjp,https://da.gd/5pxJV
+GithubAdvisories,[GHSA-24jc-w55j-5p83] Jenkins TAP Plugin allows Path Traversal,https://github.com/advisories/GHSA-24jc-w55j-5p83,https://da.gd/Mh4ksT
+GithubAdvisories,[GHSA-mr4j-7jjv-24m7] Jenkins Extra Columns Plugin allows Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-mr4j-7jjv-24m7,https://da.gd/76LZ
+GithubAdvisories,[GHSA-x274-9m9r-fm5g] Jenkins does not Verify Checksums for Plugin Files,https://github.com/advisories/GHSA-x274-9m9r-fm5g,https://da.gd/2di1
+GithubAdvisories,[GHSA-2q8v-qx2x-hxjx] Jenkins allows HTTP Injection and Response Splitting,https://github.com/advisories/GHSA-2q8v-qx2x-hxjx,https://da.gd/dfhCq
+GithubAdvisories,[GHSA-9hr6-5x6g-gg5g] Jenkins allows Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-9hr6-5x6g-gg5g,https://da.gd/OaDI
+GithubAdvisories,[GHSA-mqgf-4rw4-2cq2] Jenkins affected by Open Redirect Vulnerability,https://github.com/advisories/GHSA-mqgf-4rw4-2cq2,https://da.gd/leXq0O
+GithubAdvisories,[GHSA-w7qm-fprw-cqgq] Jenkins Vulnerable to Cross-Site Request Forgery (CSRF) Attack,https://github.com/advisories/GHSA-w7qm-fprw-cqgq,https://da.gd/NeBU
+GithubAdvisories,[GHSA-6cr3-cm5h-8q96] Jenkins Exposes Sensitive Information via API URL,https://github.com/advisories/GHSA-6cr3-cm5h-8q96,https://da.gd/KrOeS4
+GithubAdvisories,[GHSA-449q-v4j2-5h8p] Jenkins allows Exposure of Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-449q-v4j2-5h8p,https://da.gd/6KoV9j
+GithubAdvisories,[GHSA-5mwr-jg3r-jv66] Jenkins allows Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-5mwr-jg3r-jv66,https://da.gd/URPS11
+GithubAdvisories,[GHSA-3wmv-7php-rhg5] Jenkins Vulnerable to Cross-Site Request Forgery (CSRF) Attack,https://github.com/advisories/GHSA-3wmv-7php-rhg5,https://da.gd/e07awJ
+GithubAdvisories,[GHSA-x4m5-j4x4-4wjg] Jenkins allows Administrators to Access API Tokens,https://github.com/advisories/GHSA-x4m5-j4x4-4wjg,https://da.gd/tFulw
+GithubAdvisories,[GHSA-x2q2-8pwq-fr5r] Jenkins allows Bypass of Access Restrictions,https://github.com/advisories/GHSA-x2q2-8pwq-fr5r,https://da.gd/le1Rm
+GithubAdvisories,[GHSA-5xmf-9vgr-53mj] Jenkins allows Unauthorized Viewing of Queue API Information,https://github.com/advisories/GHSA-5xmf-9vgr-53mj,https://da.gd/dSuz
+GithubAdvisories,[GHSA-89vc-7frq-2rfj] Jenkins has Local File Inclusion Vulnerability,https://github.com/advisories/GHSA-89vc-7frq-2rfj,https://da.gd/wargaA
+GithubAdvisories,[GHSA-5c56-g5cq-4gj9] Jenkins Vulnerable to Denial of Service (DoS) via Crafted Payload,https://github.com/advisories/GHSA-5c56-g5cq-4gj9,https://da.gd/LH8Ori
+GithubAdvisories,[GHSA-4653-rmch-3g2g] Jenkins has Information Disclosure via Sidepanel Widget,https://github.com/advisories/GHSA-4653-rmch-3g2g,https://da.gd/wkPlo
+GithubAdvisories,[GHSA-3j9c-cp7m-8w8g] Jenkins has XML External Entity (XXE) Vulnerability in Job Configuration via CLI,https://github.com/advisories/GHSA-3j9c-cp7m-8w8g,https://da.gd/sedX8Q
