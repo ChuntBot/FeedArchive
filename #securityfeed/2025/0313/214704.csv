@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vv39-3w5q-974q] Kubernetes allows Command Injection affecting Windows nodes via nodes/*/logs/query API,https://github.com/advisories/GHSA-vv39-3w5q-974q,https://da.gd/N600w
