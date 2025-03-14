@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-549p-5c7f-c5p4] Froala WYSIWYG editor allows cross-site scripting (XSS),https://github.com/advisories/GHSA-549p-5c7f-c5p4,https://da.gd/xPUF
+GithubAdvisories,[GHSA-8vvx-qvq9-5948] Flowise allows arbitrary file write to RCE,https://github.com/advisories/GHSA-8vvx-qvq9-5948,https://da.gd/NszTqj
