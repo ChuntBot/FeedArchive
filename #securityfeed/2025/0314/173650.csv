@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-xc76-5pf9-mx8m] In Azle, calling `setTimer` causes infinite loop of timers",https://github.com/advisories/GHSA-xc76-5pf9-mx8m,https://da.gd/ZvF5L
+GithubAdvisories,[GHSA-3wgm-2gw2-vh5m] Kubernetes GitRepo Volume Inadvertent Local Repository Access,https://github.com/advisories/GHSA-3wgm-2gw2-vh5m,https://da.gd/8WlnKO
+GithubAdvisories,[GHSA-x3m8-899r-f7c3] xml-crypto Vulnerable to XML Signature Verification Bypass via DigestValue Comment,https://github.com/advisories/GHSA-x3m8-899r-f7c3,https://da.gd/doqUS
+GithubAdvisories,[GHSA-9p8x-f768-wp2g] xml-crypto Vulnerable to XML Signature Verification Bypass via Multiple SignedInfo References,https://github.com/advisories/GHSA-9p8x-f768-wp2g,https://da.gd/s1FUS
