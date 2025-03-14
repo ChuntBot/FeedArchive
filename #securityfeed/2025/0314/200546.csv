@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6m2c-76ff-6vrf] Qiskit allows arbitrary code execution decoding QPY format versions < 13,https://github.com/advisories/GHSA-6m2c-76ff-6vrf,https://da.gd/JjESc
+GithubAdvisories,[GHSA-3pwp-2fqj-6g2p] Duplicate Advisory: Qiskit allows arbitrary code execution decoding QPY format versions < 13,https://github.com/advisories/GHSA-3pwp-2fqj-6g2p,https://da.gd/nj24
+GithubAdvisories,[GHSA-r8gc-qc2c-c7vh] Post-Quantum Secure Feldman's Verifiable Secret Sharing has Inadequate Fault Injection Countermeasures in `secure_redundant_execution`,https://github.com/advisories/GHSA-r8gc-qc2c-c7vh,https://da.gd/48s6c
+GithubAdvisories,[GHSA-q65w-fg65-79f4] Post-Quantum Secure Feldman's Verifiable Secret Sharing has Timing Side-Channels in Matrix Operations,https://github.com/advisories/GHSA-q65w-fg65-79f4,https://da.gd/5iLrh
+GithubAdvisories,[GHSA-vhv4-fh94-jm5x] JS Html Sanitizer allows XSS when used with contentEditable,https://github.com/advisories/GHSA-vhv4-fh94-jm5x,https://da.gd/nmd8B
