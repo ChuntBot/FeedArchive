@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mrrh-fwg8-r2c3] tj-actions changed-files through 45.0.7 allows remote attackers to discover secrets by reading actions logs,https://github.com/advisories/GHSA-mrrh-fwg8-r2c3,https://da.gd/XkiOe
