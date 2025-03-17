@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v432-7f47-9g94] PostQuantum-Feldman-VSS'S Dependency Vulnerability in gmpy2 Leading to Interpreter Crash,https://github.com/advisories/GHSA-v432-7f47-9g94,https://da.gd/T4QSJ
+GithubAdvisories,[GHSA-w6fv-6gcc-x825] Zincati allows unprivileged access to rpm-ostree D-Bus `Deploy()` and `FinalizeDeployment()` methods,https://github.com/advisories/GHSA-w6fv-6gcc-x825,https://da.gd/1uKMQj
+GithubAdvisories,[GHSA-89xp-c3mq-qj84] gurk (aka gurk-rs) mishandles ANSI escape sequences,https://github.com/advisories/GHSA-89xp-c3mq-qj84,https://da.gd/qnV1rk
