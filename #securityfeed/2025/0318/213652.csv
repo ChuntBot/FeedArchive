@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w532-jxjh-hjhj] jsPDF Bypass Regular Expression Denial of Service (ReDoS),https://github.com/advisories/GHSA-w532-jxjh-hjhj,https://da.gd/qrzGF
+GithubAdvisories,[GHSA-vqqr-fgmh-f626] Contao Vulnerable to Cross-Site Scripting (XSS) through SVG uploads,https://github.com/advisories/GHSA-vqqr-fgmh-f626,https://da.gd/K1k7
