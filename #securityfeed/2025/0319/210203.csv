@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gfp2-6qhm-7x43] The WikiManager REST API allows any user to create wikis,https://github.com/advisories/GHSA-gfp2-6qhm-7x43,https://da.gd/nO8bd5
+GithubAdvisories,[GHSA-22q5-9phm-744v] XWiki allows unregistered users to access private pages information through REST endpoint,https://github.com/advisories/GHSA-22q5-9phm-744v,https://da.gd/pg5NXU
