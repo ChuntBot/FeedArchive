@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x3m8-f7g5-qhm7] vLLM Allows Remote Code Execution via Mooncake Integration,https://github.com/advisories/GHSA-x3m8-f7g5-qhm7,https://da.gd/YDnH
+GithubAdvisories,[GHSA-mgrm-fgjv-mhv8] vLLM denial of service via outlines unbounded cache on disk,https://github.com/advisories/GHSA-mgrm-fgjv-mhv8,https://da.gd/S4bKG
+GithubAdvisories,[GHSA-gm45-q3v2-6cf8] Fast-JWT Improperly Validates iss Claims,https://github.com/advisories/GHSA-gm45-q3v2-6cf8,https://da.gd/Ce4BkM
+GithubAdvisories,[GHSA-hhm6-jjf4-6pm3] Apache Airflow MySQL Provider is Vulnerable to SQL Injection,https://github.com/advisories/GHSA-hhm6-jjf4-6pm3,https://da.gd/cx9iU
