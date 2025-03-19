@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wq9g-9vfc-cfq9] Improper Handling of Highly Compressed Data (Data Amplification) in github.com/getkin/kin-openapi/openapi3filter,https://github.com/advisories/GHSA-wq9g-9vfc-cfq9,https://da.gd/S0hXIR
