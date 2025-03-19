@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jvhm-gjrh-3h93] Nuxt allows DOS via cache poisoning with payload rendering response,https://github.com/advisories/GHSA-jvhm-gjrh-3h93,https://da.gd/jbDypV
