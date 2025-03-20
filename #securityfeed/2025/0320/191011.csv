@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h7xg-cmpp-48hf] H2O Deserialization of Untrusted Data Vulnerability,https://github.com/advisories/GHSA-h7xg-cmpp-48hf,https://da.gd/BPraYV
+GithubAdvisories,[GHSA-xqgj-r6xv-9cw4] Dask Vulnerable to Command Injection,https://github.com/advisories/GHSA-xqgj-r6xv-9cw4,https://da.gd/i8W0h1
+GithubAdvisories,[GHSA-fx47-jpv9-7hxr] Aim Vulnerable to Denial of Service (DoS),https://github.com/advisories/GHSA-fx47-jpv9-7hxr,https://da.gd/m33AH
+GithubAdvisories,[GHSA-gw2q-qw9j-rgv7] LiteLLM Vulnerable to Denial of Service (DoS),https://github.com/advisories/GHSA-gw2q-qw9j-rgv7,https://da.gd/WYKk6
+GithubAdvisories,[GHSA-mrhh-3ggq-23p2] Horovod Vulnerable to Command Injection,https://github.com/advisories/GHSA-mrhh-3ggq-23p2,https://da.gd/WsP6hv
+GithubAdvisories,[GHSA-92cp-5422-2mw7] go-redis allows potential out of order responses when `CLIENT SETINFO` times out during connection establishment,https://github.com/advisories/GHSA-92cp-5422-2mw7,https://da.gd/HsVxSl
+GithubAdvisories,[GHSA-w2rr-38wv-8rrp] kcp allows unauthorized creation and deletion of objects in arbitrary workspaces through APIExport Virtual Workspace,https://github.com/advisories/GHSA-w2rr-38wv-8rrp,https://da.gd/FOLu
+GithubAdvisories,[GHSA-q9f5-625g-xm39] OWASP Coraza WAF has parser confusion which leads to wrong URI in `REQUEST_FILENAME`,https://github.com/advisories/GHSA-q9f5-625g-xm39,https://da.gd/9iuRLp
