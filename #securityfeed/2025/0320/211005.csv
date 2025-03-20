@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g5pg-73fc-hjwq] LiteLLM Reveals Portion of API Key via a Logging File,https://github.com/advisories/GHSA-g5pg-73fc-hjwq,https://da.gd/g0q7
+GithubAdvisories,[GHSA-fjcf-3j3r-78rp] LiteLLM Has an Improper Authorization Vulnerability,https://github.com/advisories/GHSA-fjcf-3j3r-78rp,https://da.gd/SLmdDQ
+GithubAdvisories,[GHSA-879v-fggm-vxw2] LiteLLM Has a Leakage of Langfuse API Keys,https://github.com/advisories/GHSA-879v-fggm-vxw2,https://da.gd/vHRML
+GithubAdvisories,[GHSA-fh2c-86xm-pm2x] LiteLLM Vulnerable to Denial of Service (DoS) via Crafted HTTP Request,https://github.com/advisories/GHSA-fh2c-86xm-pm2x,https://da.gd/FeDvP
+GithubAdvisories,[GHSA-4qcx-jx49-6qrh] Aim path traversal in LockManager.release_locks,https://github.com/advisories/GHSA-4qcx-jx49-6qrh,https://da.gd/cvO6
+GithubAdvisories,[GHSA-j9rw-qm5f-r8xm] AgentScope path traversal vulnerability in save-workflow,https://github.com/advisories/GHSA-j9rw-qm5f-r8xm,https://da.gd/IoFQh
+GithubAdvisories,[GHSA-6mf6-7j75-2m6f] AgentScope stored cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-6mf6-7j75-2m6f,https://da.gd/BrQm
+GithubAdvisories,[GHSA-c4cc-w454-4634] AgentScope path traversal vulnerability,https://github.com/advisories/GHSA-c4cc-w454-4634,https://da.gd/o1k6Y
+GithubAdvisories,[GHSA-9w5h-67gf-xvv8] AgentScope Deserialization Vulnerability,https://github.com/advisories/GHSA-9w5h-67gf-xvv8,https://da.gd/LVhNxS
+GithubAdvisories,[GHSA-6v28-q95m-93qr] AgentScope directory traversal vulnerability in /read-examples,https://github.com/advisories/GHSA-6v28-q95m-93qr,https://da.gd/cpzfZ
+GithubAdvisories,[GHSA-75v5-6885-59f9] AgentScope Cross-Origin Resource Sharing (CORS) vulnerability,https://github.com/advisories/GHSA-75v5-6885-59f9,https://da.gd/tfSiiU
+GithubAdvisories,[GHSA-f4hc-q562-cc5r] AgentScope Path Traversal in /api/file,https://github.com/advisories/GHSA-f4hc-q562-cc5r,https://da.gd/aHgsLO
+GithubAdvisories,[GHSA-4v9f-r55g-g6hc] Prefect CORS (Cross-Origin Resource Sharing) misconfiguration,https://github.com/advisories/GHSA-4v9f-r55g-g6hc,https://da.gd/C6DOfP
+GithubAdvisories,[GHSA-r229-5wgf-f28g] Aim Improper Access Control,https://github.com/advisories/GHSA-r229-5wgf-f28g,https://da.gd/gLmHK
