@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7qq7-pvm9-x8rf] H2O Vulnerable to Denial of Service (DoS) via `/3/ParseSetup` Endpoint,https://github.com/advisories/GHSA-7qq7-pvm9-x8rf,https://da.gd/DwmrL
+GithubAdvisories,[GHSA-wjpv-64v2-2qpq] H2O Vulnerable to Denial of Service (DoS) and File Write,https://github.com/advisories/GHSA-wjpv-64v2-2qpq,https://da.gd/tw6hSD
