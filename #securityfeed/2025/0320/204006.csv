@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rvgh-pr46-x7gg] Gradio Vulnerable to Denial of Service (DoS) via Crafted HTTP Request,https://github.com/advisories/GHSA-rvgh-pr46-x7gg,https://da.gd/EJJ34A
+GithubAdvisories,[GHSA-7xmc-vhjp-qv5q] Gradio Vulnerable to Denial of Service (DoS) via Crafted Zip Bomb,https://github.com/advisories/GHSA-7xmc-vhjp-qv5q,https://da.gd/gb4r
+GithubAdvisories,[GHSA-pgfv-gvc5-prfg] Gradio Vulnerable to Arbitrary File Deletion,https://github.com/advisories/GHSA-pgfv-gvc5-prfg,https://da.gd/M9ciFO
+GithubAdvisories,[GHSA-g48v-3p35-88jr] H2O Vulnerable to Arbitrary File Overwrite,https://github.com/advisories/GHSA-g48v-3p35-88jr,https://da.gd/M61pLw
+GithubAdvisories,[GHSA-5c8j-g96x-cj78] H2O Vulnerable to Denial of Service (DoS) via `HEAD` Request,https://github.com/advisories/GHSA-5c8j-g96x-cj78,https://da.gd/9szlY
