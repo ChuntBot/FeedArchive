@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2r4x-667f-mpfh] Apache Seata Vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-2r4x-667f-mpfh,https://da.gd/KfuRM
+GithubAdvisories,[GHSA-65vg-64g8-mwjr] Apache Seata Vulnerable to Data Amplification,https://github.com/advisories/GHSA-65vg-64g8-mwjr,https://da.gd/yTtYR
+GithubAdvisories,[GHSA-mg83-c7gq-rv5c] Spring Security Does Not Enforce Password Length,https://github.com/advisories/GHSA-mg83-c7gq-rv5c,https://da.gd/tG41Si
+GithubAdvisories,[GHSA-hrc4-p2h3-pjqw] Liferay Portal and Liferay DXP Vulnerable to Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-hrc4-p2h3-pjqw,https://da.gd/NJeVn1
