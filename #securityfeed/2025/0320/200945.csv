@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p2vc-m5fv-9w9m] H2O Vulnerable to Denial of Service (DoS) via `/3/ImportFiles` Endpoint,https://github.com/advisories/GHSA-p2vc-m5fv-9w9m,https://da.gd/8hq0V
+GithubAdvisories,[GHSA-6w62-3jvj-mfj6] H2O Vulnerable to Denial of Service (DoS) via Large GZIP Parsing,https://github.com/advisories/GHSA-6w62-3jvj-mfj6,https://da.gd/VsNEZ
+GithubAdvisories,[GHSA-53gh-p8jc-7rg8] LiteLLM Vulnerable to Remote Code Execution (RCE),https://github.com/advisories/GHSA-53gh-p8jc-7rg8,https://da.gd/HysBJ
+GithubAdvisories,[GHSA-47f6-5p7h-5f3h] H2O Vulnerable to Arbitrary File Overwrite via File Export,https://github.com/advisories/GHSA-47f6-5p7h-5f3h,https://da.gd/etO5Ew
+GithubAdvisories,[GHSA-m37h-8r48-2cxj] H2O Vulnerable to Execution of Arbitrary Files,https://github.com/advisories/GHSA-m37h-8r48-2cxj,https://da.gd/HOwKF
+GithubAdvisories,[GHSA-wwr9-4gmr-xvq9] H2O Vulnerable to Denial of Service (DoS) via `/3/Parse` Endpoint,https://github.com/advisories/GHSA-wwr9-4gmr-xvq9,https://da.gd/FAsRl
