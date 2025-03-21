@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-2xcr-p767-f3rv] Apache Druid vulnerable to Server-Side Request Forgery, Cross-site Scripting, Open Redirect",https://github.com/advisories/GHSA-2xcr-p767-f3rv,https://da.gd/frWMQ
+GithubAdvisories,[GHSA-cw7q-5cgc-h3h9] Mattermost fail to prompt for explicit approval before adding a team admin to a private channel,https://github.com/advisories/GHSA-cw7q-5cgc-h3h9,https://da.gd/B6X7m
+GithubAdvisories,[GHSA-h5v9-xw2g-7hrq] Mattermost allows members with permission to convert public channels to private and convert private to public,https://github.com/advisories/GHSA-h5v9-xw2g-7hrq,https://da.gd/x5zpx
+GithubAdvisories,[GHSA-528q-4pgm-wvg2] Reflected XSS in go-httpbin due to unrestricted client control over Content-Type,https://github.com/advisories/GHSA-528q-4pgm-wvg2,https://da.gd/EEzRb
+GithubAdvisories,[GHSA-mjq8-gg9x-87gr] FitNesse Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-mjq8-gg9x-87gr,https://da.gd/mBta5u
+GithubAdvisories,[GHSA-mrvr-7493-pfq3] Aim Path Traversal vulnerability,https://github.com/advisories/GHSA-mrvr-7493-pfq3,https://da.gd/CTxzH
