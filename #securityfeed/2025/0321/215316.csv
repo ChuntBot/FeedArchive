@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3gpx-p63p-pr5r] Mattermost Fails to Enforce Certain Search APIs,https://github.com/advisories/GHSA-3gpx-p63p-pr5r,https://da.gd/L4r0P
+GithubAdvisories,[GHSA-72qv-j8vr-xvfv] Mattermost Fails to Enforce MFA on Plugin Endpoints,https://github.com/advisories/GHSA-72qv-j8vr-xvfv,https://da.gd/aUah
+GithubAdvisories,[GHSA-4v65-xqcj-wpgg] Mattermost Fails to Restrict Command Execution in Archived Channels,https://github.com/advisories/GHSA-4v65-xqcj-wpgg,https://da.gd/ZMblv
+GithubAdvisories,[GHSA-6w7p-xrvp-p7xv] Aim allows denial of service due to no timeouts for some tracking server endpoints,https://github.com/advisories/GHSA-6w7p-xrvp-p7xv,https://da.gd/oneRs
+GithubAdvisories,[GHSA-ff5c-56m7-vc75] Open WebUI allows Remote Code Execution via Arbitrary File Upload to /audio/api/v1/transcriptions,https://github.com/advisories/GHSA-ff5c-56m7-vc75,https://da.gd/cjGpCi
+GithubAdvisories,[GHSA-9vf8-xgwm-97r8] Open WebUI lacks authentication for the `api/v1/utils/pdf` endpoint,https://github.com/advisories/GHSA-9vf8-xgwm-97r8,https://da.gd/NeeSB
+GithubAdvisories,[GHSA-5v9m-57mq-qc75] Open WebUI denial of service through endpoint for converting markdown,https://github.com/advisories/GHSA-5v9m-57mq-qc75,https://da.gd/1VzO
