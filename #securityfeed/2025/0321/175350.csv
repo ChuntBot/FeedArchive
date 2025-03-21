@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hh3j-9m59-p8vc] BentoML vulnerable to Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-hh3j-9m59-p8vc,https://da.gd/Mn0Sfp
+GithubAdvisories,[GHSA-w5h7-mw56-4v7x] TastyIgniter Has an Incorrect Access Control Vulnerability,https://github.com/advisories/GHSA-w5h7-mw56-4v7x,https://da.gd/9FrD6
+GithubAdvisories,[GHSA-9fcg-wrp8-qhr4] Liferay Portal and Liferay DXP Reveals Data via Forms,https://github.com/advisories/GHSA-9fcg-wrp8-qhr4,https://da.gd/jW6n8
+GithubAdvisories,[GHSA-r56h-j38w-hrqq] Kubernetes kube-apiserver Vulnerable to Race Condition,https://github.com/advisories/GHSA-r56h-j38w-hrqq,https://da.gd/DsiWxO
+GithubAdvisories,[GHSA-v63m-x9r9-8gqp] AWS CDK CLI prints AWS credentials retrieved by custom credential plugins,https://github.com/advisories/GHSA-v63m-x9r9-8gqp,https://da.gd/Of5Os8
+GithubAdvisories,[GHSA-6rvg-6v2m-4j46] Transformers Regular Expression Denial of Service (ReDoS) vulnerability,https://github.com/advisories/GHSA-6rvg-6v2m-4j46,https://da.gd/fAE0y
+GithubAdvisories,[GHSA-837q-jhwx-cmpv] Parse Server has an OAuth login vulnerability,https://github.com/advisories/GHSA-837q-jhwx-cmpv,https://da.gd/Rz26Xs
+GithubAdvisories,[GHSA-j3wr-m6xh-64hg] LlamaIndex Improper Handling of Exceptional Conditions vulnerability,https://github.com/advisories/GHSA-j3wr-m6xh-64hg,https://da.gd/xW9q0
+GithubAdvisories,[GHSA-564p-rx2q-4c8v] BentoML Open Redirect vulnerability,https://github.com/advisories/GHSA-564p-rx2q-4c8v,https://da.gd/T7NM1
+GithubAdvisories,[GHSA-43g4-487m-5q6m] Open WebUI Vulnerable to a Session Fixation Attack,https://github.com/advisories/GHSA-43g4-487m-5q6m,https://da.gd/YRwkX
+GithubAdvisories,[GHSA-gv26-qw3h-8qvp] Open WebUI Allows Viewing of Admin Details,https://github.com/advisories/GHSA-gv26-qw3h-8qvp,https://da.gd/Bq5CgF
+GithubAdvisories,[GHSA-3p9q-7w63-3f8q] Open WebUI Allows Arbitrary File Write via the `download_model` Endpoint,https://github.com/advisories/GHSA-3p9q-7w63-3f8q,https://da.gd/Y76Xx
+GithubAdvisories,[GHSA-g3mx-83mp-3rwc] Open WebUI Uncontrolled Resource Consumption vulnerability,https://github.com/advisories/GHSA-g3mx-83mp-3rwc,https://da.gd/oNXzvK
+GithubAdvisories,[GHSA-crh6-pj8c-xrhc] Open WebUI Allows Arbitrary File Write via the `/models/upload` Endpoint,https://github.com/advisories/GHSA-crh6-pj8c-xrhc,https://da.gd/PHJ8
+GithubAdvisories,[GHSA-pqwr-phvv-v49f] Open WebUI Allows Admin Deletion via API Endpoint,https://github.com/advisories/GHSA-pqwr-phvv-v49f,https://da.gd/NR0uf
+GithubAdvisories,[GHSA-chf7-q7m5-fq92] Open WebUI Uncontrolled Resource Consumption vulnerability,https://github.com/advisories/GHSA-chf7-q7m5-fq92,https://da.gd/YiAum
+GithubAdvisories,[GHSA-c7fq-p62p-wvpc] Open WebUI Has Improper Access Control Leading to Arbitrary Prompt Read,https://github.com/advisories/GHSA-c7fq-p62p-wvpc,https://da.gd/KKk4
+GithubAdvisories,[GHSA-j274-m559-cj4j] Open WebUI Vulnerable to Cross-Site Scripting (XSS) via Chat File Upload,https://github.com/advisories/GHSA-j274-m559-cj4j,https://da.gd/l309G
+GithubAdvisories,[GHSA-jrhc-9qg9-4qfq] Open WebUI Allows Arbitrary File Reading and Deletion,https://github.com/advisories/GHSA-jrhc-9qg9-4qfq,https://da.gd/v88p5
+GithubAdvisories,[GHSA-rm69-wvpv-r2w7] Kedro allows Remote Code Execution by Pulling Micro Packages,https://github.com/advisories/GHSA-rm69-wvpv-r2w7,https://da.gd/LTeM
+GithubAdvisories,[GHSA-v464-r2r9-www7] Ollama Vulnerable to Denial of Service (DoS) via Crafted GZIP,https://github.com/advisories/GHSA-v464-r2r9-www7,https://da.gd/r0eR3
+GithubAdvisories,[GHSA-j9g7-mqhh-9hxf] DB-GPT Absolute Path Traversal in knowledge/{space_name}/document/upload,https://github.com/advisories/GHSA-j9g7-mqhh-9hxf,https://da.gd/TiTS1w
