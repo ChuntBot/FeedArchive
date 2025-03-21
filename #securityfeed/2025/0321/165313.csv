@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5chr-fjjv-38qv] langchain-core allows unauthorized users to read arbitrary files from the host file system,https://github.com/advisories/GHSA-5chr-fjjv-38qv,https://da.gd/ZiK8CV
+GithubAdvisories,[GHSA-g44m-hpf4-vmrp] FastChat Server-Side Request Forgery vulnerability,https://github.com/advisories/GHSA-g44m-hpf4-vmrp,https://da.gd/tNMFv
+GithubAdvisories,[GHSA-h254-g997-685c] FastChat Server-Side Request Forgery vulnerability,https://github.com/advisories/GHSA-h254-g997-685c,https://da.gd/X5jE
+GithubAdvisories,[GHSA-qg86-f892-m4hj] FastChat Uncontrolled Resource Consumption vulnerability,https://github.com/advisories/GHSA-qg86-f892-m4hj,https://da.gd/iOPI7
+GithubAdvisories,[GHSA-77cj-rv5x-v6r2] FastChat open redirect vulnerability,https://github.com/advisories/GHSA-77cj-rv5x-v6r2,https://da.gd/7Cl7xZ
+GithubAdvisories,[GHSA-79rp-v9rm-gxm8] FastChat Denial of Service vulnerability,https://github.com/advisories/GHSA-79rp-v9rm-gxm8,https://da.gd/6Dxdg
+GithubAdvisories,[GHSA-227r-w5j2-6243] InvokeAI Arbitrary File Deletion vulnerability,https://github.com/advisories/GHSA-227r-w5j2-6243,https://da.gd/U95H
+GithubAdvisories,[GHSA-ffh5-w482-c7m5] InvokeAI Uncontrolled Resource Consumption vulnerability,https://github.com/advisories/GHSA-ffh5-w482-c7m5,https://da.gd/8iumOZ
+GithubAdvisories,[GHSA-6f6x-f56q-5xgv] InvokeAI has Denial of Service (DoS) vulnerability in `/api/v1/images/upload`,https://github.com/advisories/GHSA-6f6x-f56q-5xgv,https://da.gd/93qpsi
+GithubAdvisories,[GHSA-8pwp-phcg-h36g] DB-GPT Path Traversal vulnerability,https://github.com/advisories/GHSA-8pwp-phcg-h36g,https://da.gd/Vh5nz
