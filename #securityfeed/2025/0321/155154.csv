@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7gj6-22m4-qfhx] DB-GPT Arbitrary File Write vulnerability,https://github.com/advisories/GHSA-7gj6-22m4-qfhx,https://da.gd/NjhmS
+GithubAdvisories,[GHSA-mrxw-mxhj-p664] Nokogiri updates packaged libxslt to v1.1.43 to resolve multiple CVEs,https://github.com/advisories/GHSA-mrxw-mxhj-p664,https://da.gd/hM65
+GithubAdvisories,[GHSA-cf3q-gqg7-3fm9] Envoy crashes when HTTP ext_proc processes local replies,https://github.com/advisories/GHSA-cf3q-gqg7-3fm9,https://da.gd/8Pwo
+GithubAdvisories,[GHSA-mcrp-whpw-jp68] InvokeAI Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-mcrp-whpw-jp68,https://da.gd/C1HH
+GithubAdvisories,[GHSA-cg4p-5qfm-pjjj] HyperLPR Denial of Service vulnerability,https://github.com/advisories/GHSA-cg4p-5qfm-pjjj,https://da.gd/94zrl
+GithubAdvisories,[GHSA-g8vq-v3mg-7mrg] Redlib allows a Denial of Service via DEFLATE Decompression Bomb in restore_preferences Form,https://github.com/advisories/GHSA-g8vq-v3mg-7mrg,https://da.gd/9mJlu
