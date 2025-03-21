@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w466-2wfc-8g58] Open WebUI has vulnerable dependency on starlette via fastapi,https://github.com/advisories/GHSA-w466-2wfc-8g58,https://da.gd/YhvX8
+GithubAdvisories,[GHSA-jmgm-gx32-vp4w] LlamaIndex vulnerable to Creation of Temporary File in Directory with Insecure Permissions,https://github.com/advisories/GHSA-jmgm-gx32-vp4w,https://da.gd/yG1eE5
+GithubAdvisories,[GHSA-x48g-hm9c-ww42] LlamaIndex SQL Injection vulnerability,https://github.com/advisories/GHSA-x48g-hm9c-ww42,https://da.gd/lNVkJ
+GithubAdvisories,[GHSA-35p3-6j45-prwm] Aim Uncontrolled Resource Consumption vulnerability,https://github.com/advisories/GHSA-35p3-6j45-prwm,https://da.gd/EpagI
