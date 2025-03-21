@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-prpg-p95c-32fv] Gradio Path Traversal vulnerability,https://github.com/advisories/GHSA-prpg-p95c-32fv,https://da.gd/DicR
+GithubAdvisories,[GHSA-m724-hqmc-ggpx] GluonCV Arbitrary File Write via TarSlip,https://github.com/advisories/GHSA-m724-hqmc-ggpx,https://da.gd/ylP4
+GithubAdvisories,[GHSA-wxpc-2674-rxvw] Feast Cross-Origin Resource Sharing vulnerability,https://github.com/advisories/GHSA-wxpc-2674-rxvw,https://da.gd/F3brw
+GithubAdvisories,[GHSA-5vqr-wprc-cpp7] vLLM Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-5vqr-wprc-cpp7,https://da.gd/nzsSlW
