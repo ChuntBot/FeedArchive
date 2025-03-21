@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6xgj-c5fx-5v57] DB-GPT Uncontrolled Resource Consumption vulnerability,https://github.com/advisories/GHSA-6xgj-c5fx-5v57,https://da.gd/PneKIz
+GithubAdvisories,[GHSA-3248-f932-c76p] DB-GPT vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-3248-f932-c76p,https://da.gd/K3x1p
+GithubAdvisories,[GHSA-3xq5-x4fj-rff7] DB-GPT vulnerable to Arbitrary File Upload with Path Traversal,https://github.com/advisories/GHSA-3xq5-x4fj-rff7,https://da.gd/dMAEV
+GithubAdvisories,[GHSA-hhw5-29f6-hf4x] DB-GPT Absolute Path Traversal vulnerability,https://github.com/advisories/GHSA-hhw5-29f6-hf4x,https://da.gd/NjazGy
