@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w6hh-w36c-vxmw] LocalAI Cross-Site Scripting (XSS) vulnerability in its search functionality,https://github.com/advisories/GHSA-w6hh-w36c-vxmw,https://da.gd/EmDUP
+GithubAdvisories,[GHSA-5ccf-884p-4jjq] Open WebUI Unauthenticated Multipart Boundary Denial of Service (DoS) Vulnerability,https://github.com/advisories/GHSA-5ccf-884p-4jjq,https://da.gd/DBvW5C
+GithubAdvisories,[GHSA-747f-ww56-4q4h] Kedro deserialization vulnerability,https://github.com/advisories/GHSA-747f-ww56-4q4h,https://da.gd/AOYyh
+GithubAdvisories,[GHSA-6gmf-2369-c76c] ZenML unauthenticated DoS via Multipart Boundry,https://github.com/advisories/GHSA-6gmf-2369-c76c,https://da.gd/KcNfvM
+GithubAdvisories,[GHSA-hw8j-hw49-752c] BentoML Denial of Service (DoS) via Multipart Boundary,https://github.com/advisories/GHSA-hw8j-hw49-752c,https://da.gd/SSSeEr
+GithubAdvisories,[GHSA-9g44-gwvm-hc44] BentoML deserialization vulnerability,https://github.com/advisories/GHSA-9g44-gwvm-hc44,https://da.gd/dDUz
+GithubAdvisories,[GHSA-pgr7-mhp5-fgjp] vLLM deserialization vulnerability in vllm.distributed.GroupCoordinator.recv_object,https://github.com/advisories/GHSA-pgr7-mhp5-fgjp,https://da.gd/1QVNt
+GithubAdvisories,[GHSA-cj47-qj6g-x7r4] vLLM allows Remote Code Execution by Pickle Deserialization via AsyncEngineRPCServer() RPC server entrypoints,https://github.com/advisories/GHSA-cj47-qj6g-x7r4,https://da.gd/2CMSk
+GithubAdvisories,[GHSA-m76r-xqqj-mqmv] Quivr unauthenticated Denial of Service (DoS) via Multipart Boundary,https://github.com/advisories/GHSA-m76r-xqqj-mqmv,https://da.gd/6dJVZ1
+GithubAdvisories,[GHSA-38mg-wm59-g64x] composio allows Server-Side Request Forgery (SSRF) in BROWSERTOOL,https://github.com/advisories/GHSA-38mg-wm59-g64x,https://da.gd/1voWAv
+GithubAdvisories,[GHSA-5cpq-9538-jm2j] Gradio DOS in multipart boundry while uploading the file,https://github.com/advisories/GHSA-5cpq-9538-jm2j,https://da.gd/n3z1o
+GithubAdvisories,[GHSA-4rqf-8pfm-p36r] MLflow has a Local File Read/Path Traversal in dbfs,https://github.com/advisories/GHSA-4rqf-8pfm-p36r,https://da.gd/2huYs
+GithubAdvisories,[GHSA-qvg9-vp87-h3hr] composio Server-Side Request Forgery (SSRF) vulnerability,https://github.com/advisories/GHSA-qvg9-vp87-h3hr,https://da.gd/2zsAY
