@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-49m6-vrr9-2cqm] MLflow Uncontrolled Resource Consumption vulnerability,https://github.com/advisories/GHSA-49m6-vrr9-2cqm,https://da.gd/5wDdf
+GithubAdvisories,[GHSA-gjxm-x497-4h6h] D-Tale Command Injection vulnerability,https://github.com/advisories/GHSA-gjxm-x497-4h6h,https://da.gd/iMNKX
+GithubAdvisories,[GHSA-969w-gqqr-g6j3] MLflow Cross-Site Request Forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-969w-gqqr-g6j3,https://da.gd/OXull3
+GithubAdvisories,[GHSA-4rj2-9gcx-5qhx] MLflow has Weak Password Requirements,https://github.com/advisories/GHSA-4rj2-9gcx-5qhx,https://da.gd/AcoBz
