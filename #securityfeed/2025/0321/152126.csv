@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f82v-jwr5-mffw] Authorization Bypass in Next.js Middleware,https://github.com/advisories/GHSA-f82v-jwr5-mffw,https://da.gd/avc1VZ
+GithubAdvisories,[GHSA-5w4j-f78p-4wh9] Libcontainer is affected by capabilities elevation similar to GHSA-f3fp-gc8g-vw66,https://github.com/advisories/GHSA-5w4j-f78p-4wh9,https://da.gd/i4RDD
+GithubAdvisories,[GHSA-xcc2-pcr3-3m88] Malware in @brix-crypto/crypto-js,https://github.com/advisories/GHSA-xcc2-pcr3-3m88,https://da.gd/t7a7F
