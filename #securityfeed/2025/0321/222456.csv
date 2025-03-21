@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jccx-m9v4-9hwh] LoLLMS Code Injection vulnerability,https://github.com/advisories/GHSA-jccx-m9v4-9hwh,https://da.gd/DBtJe
+GithubAdvisories,[GHSA-43qf-4rqw-9q2g] Flask-CORS vulnerable to Improper Handling of Case Sensitivity,https://github.com/advisories/GHSA-43qf-4rqw-9q2g,https://da.gd/3hV5JO
+GithubAdvisories,[GHSA-p5vx-9hj8-cf4h] Open WebUI Vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-p5vx-9hj8-cf4h,https://da.gd/pIxgWa
+GithubAdvisories,[GHSA-8vgw-p6qm-5gr7] Flask-CORS allows for inconsistent CORS matching,https://github.com/advisories/GHSA-8vgw-p6qm-5gr7,https://da.gd/yNEuXs
+GithubAdvisories,[GHSA-xx7c-j7h3-vjcq] TorchServe script references S3 bucket without ensuring ownership or confirming accessibility,https://github.com/advisories/GHSA-xx7c-j7h3-vjcq,https://da.gd/DBWiH
+GithubAdvisories,[GHSA-mh63-6h87-95cp] jwt-go allows excessive memory allocation during header parsing,https://github.com/advisories/GHSA-mh63-6h87-95cp,https://da.gd/zPVK
+GithubAdvisories,[GHSA-4jhw-c53w-w5r7] PipeCD Vulnerable to Privilege Escalation,https://github.com/advisories/GHSA-4jhw-c53w-w5r7,https://da.gd/yn0hew
+GithubAdvisories,[GHSA-jvpf-xf32-2w4q] LlamaIndex Uncontrolled Resource Consumption vulnerability,https://github.com/advisories/GHSA-jvpf-xf32-2w4q,https://da.gd/L4jG13
+GithubAdvisories,[GHSA-p6h7-hfj2-vmcf] AgentScope arbitrary file download vulnerability in rpc_agent_client,https://github.com/advisories/GHSA-p6h7-hfj2-vmcf,https://da.gd/09TAb
+GithubAdvisories,[GHSA-98fp-7v67-4v3q] PyTorch Lightning denial of service vulnerability,https://github.com/advisories/GHSA-98fp-7v67-4v3q,https://da.gd/1XSxHp
+GithubAdvisories,[GHSA-gj27-76gq-5v3p] Open WebUI stored cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-gj27-76gq-5v3p,https://da.gd/OL4O87
+GithubAdvisories,[GHSA-4cv3-v7pv-rfhf] PyTorch Lightning path traversal vulnerability,https://github.com/advisories/GHSA-4cv3-v7pv-rfhf,https://da.gd/14UoAa
+GithubAdvisories,[GHSA-4vmg-rw8f-92f9] PyTorch deserialization vulnerability,https://github.com/advisories/GHSA-4vmg-rw8f-92f9,https://da.gd/FmwSam
