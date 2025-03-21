@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7v2w-h4gh-w5cv] Gradio Vulnerable to Open Redirect,https://github.com/advisories/GHSA-7v2w-h4gh-w5cv,https://da.gd/NXwXj9
+GithubAdvisories,[GHSA-85jc-8h5p-8vw8] Open WebUI Cross-Site Request Forgery (CSRF) Vulnerability,https://github.com/advisories/GHSA-85jc-8h5p-8vw8,https://da.gd/lJ1NrZ
+GithubAdvisories,[GHSA-6wj5-5pgr-jwq8] Open WebUI Unauthenticated Multipart Boundary Denial of Service (DoS) Vulnerability in api/chat/file,https://github.com/advisories/GHSA-6wj5-5pgr-jwq8,https://da.gd/fsIWD
+GithubAdvisories,[GHSA-x757-hv69-jr45] Open WebUI has SSRF in /openai/models,https://github.com/advisories/GHSA-x757-hv69-jr45,https://da.gd/7ZLA
+GithubAdvisories,[GHSA-h36j-8vv3-cj52] Open Neural Network Exchange (ONNX) Path Traversal Vulnerability,https://github.com/advisories/GHSA-h36j-8vv3-cj52,https://da.gd/FNan
+GithubAdvisories,[GHSA-rp74-x43m-cpw3] Mattermost Fails to Restrict Bookmark Creation and Updates in Archived Channels,https://github.com/advisories/GHSA-rp74-x43m-cpw3,https://da.gd/XV3HTa
