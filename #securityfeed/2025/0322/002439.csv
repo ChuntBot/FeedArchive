@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-89qx-m49c-8crf] Ollama Allows Out-of-Bounds Read,https://github.com/advisories/GHSA-89qx-m49c-8crf,https://da.gd/y432H
+GithubAdvisories,[GHSA-5xg7-5662-8x7j] Composio Eval Injection Vulnerability,https://github.com/advisories/GHSA-5xg7-5662-8x7j,https://da.gd/f0ng1
+GithubAdvisories,[GHSA-7rxf-gvfg-47g4] Flask-CORS improper regex path matching vulnerability,https://github.com/advisories/GHSA-7rxf-gvfg-47g4,https://da.gd/Y2YtR
+GithubAdvisories,[GHSA-q3gw-8236-5jw4] MLflow Uncontrolled Resource Consumption vulnerability,https://github.com/advisories/GHSA-q3gw-8236-5jw4,https://da.gd/omEh9o
+GithubAdvisories,[GHSA-9gcr-28rp-cc24] Ollama Divide By Zero vulnerability,https://github.com/advisories/GHSA-9gcr-28rp-cc24,https://da.gd/4CFgB
+GithubAdvisories,[GHSA-fccc-8m69-8r78] Ollama Allocation of Resources Without Limits or Throttling vulnerability,https://github.com/advisories/GHSA-fccc-8m69-8r78,https://da.gd/mtRC
+GithubAdvisories,[GHSA-32g6-mg92-ghm2] SageMaker Workflow component allows possibility of MD5 hash collisions,https://github.com/advisories/GHSA-32g6-mg92-ghm2,https://da.gd/lFQwP2
+GithubAdvisories,[GHSA-hc5x-x2vx-497g] Gunicorn HTTP Request/Response Smuggling vulnerability,https://github.com/advisories/GHSA-hc5x-x2vx-497g,https://da.gd/aqks3
