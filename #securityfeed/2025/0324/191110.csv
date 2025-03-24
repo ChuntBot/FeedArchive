@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-46mp-8w32-6g94] Kyverno ignores subjectRegExp and IssuerRegExp,https://github.com/advisories/GHSA-46mp-8w32-6g94,https://da.gd/KJUnV
+GithubAdvisories,[GHSA-24qp-4xx8-3jvj] Cilium East-west traffic not subject to egress policy enforcement for requests via Gateway API load balancers,https://github.com/advisories/GHSA-24qp-4xx8-3jvj,https://da.gd/tRnUV
