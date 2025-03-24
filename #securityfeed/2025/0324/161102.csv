@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vgmh-mqm4-8j88] pared Vulnerable to Use After Free in `Parc` and `Prc` Due to Missing Lifetime Constraints,https://github.com/advisories/GHSA-vgmh-mqm4-8j88,https://da.gd/avYS
+GithubAdvisories,[GHSA-5pq3-h73f-66hr] AWS CDK CodePipeline: trusted entities are too broad,https://github.com/advisories/GHSA-5pq3-h73f-66hr,https://da.gd/rJsx8
