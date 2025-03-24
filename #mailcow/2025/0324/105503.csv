@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,os: updated alpine containers to 3.21,https://github.com/mailcow/mailcow-dockerized/commit/0860a7503e29cf268a58e1a593367ea8f9f9816d,https://da.gd/QjViMv
+GithubCommitStaging,os: fixes for newer mariadb-client versions (especially on alpine 3.21),https://github.com/mailcow/mailcow-dockerized/commit/2f93f1d0c5b9642190c1358a03038be4c3f4bb43,https://da.gd/SjfYY
+GithubCommitStaging,Merge pull request #6384 from mailcow/feat/update-components-alp-3.21,https://github.com/mailcow/mailcow-dockerized/commit/91c82e8a6796cc7933fdae469ec0222344b65c59,https://da.gd/Dp5sl
+GithubCommitStaging,update.sh: add 2025-03 as major version,https://github.com/mailcow/mailcow-dockerized/commit/ad5f07f0778c4fa586865c5fa5810e34a6670f88,https://da.gd/KVE9
