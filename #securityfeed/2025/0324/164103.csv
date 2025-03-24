@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7mxx-3cgm-xxv3] API Platform Core does not call GraphQl securityAfterResolver,https://github.com/advisories/GHSA-7mxx-3cgm-xxv3,https://da.gd/UKfy
