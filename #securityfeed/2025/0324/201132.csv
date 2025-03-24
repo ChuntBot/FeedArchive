@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4m5h-5v4q-4xgq] aizuda snail-job Vulnerable to Deserialization via `nodeExpression` Argument,https://github.com/advisories/GHSA-4m5h-5v4q-4xgq,https://da.gd/CwN6XI
+GithubAdvisories,[GHSA-fmxw-76xq-cmqq] Apache Oozie Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-fmxw-76xq-cmqq,https://da.gd/ntIYP
