@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fc83-9jwq-gc2m] Web Push Denial of Service via malicious Web Push endpoint,https://github.com/advisories/GHSA-fc83-9jwq-gc2m,https://da.gd/pSPUoT
+GithubAdvisories,[GHSA-c6pf-2v8j-96mc] Cilium node based network policies may incorrectly allow workload traffic,https://github.com/advisories/GHSA-c6pf-2v8j-96mc,https://da.gd/DXaGm
