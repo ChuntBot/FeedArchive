@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] Improve auth logging and language strings,https://github.com/mailcow/mailcow-dockerized/commit/2596b9d3860ed5804f25ae77c1d5f1e3af50c24f,https://da.gd/LJ41P
+GithubCommitStaging,[Web] Fix authentication when mailbox or domain is deactivated,https://github.com/mailcow/mailcow-dockerized/commit/cb08132a74db2ccfacbacd558066be602b447cfa,https://da.gd/ZSX1
+GithubCommitStaging,[Web] Add authsource property to mailbox API Documentation,https://github.com/mailcow/mailcow-dockerized/commit/c3aa4f7418c66f991e4a957fb741b9433ac9adc9,https://da.gd/6HDsuC
+GithubCommitStaging,[Web] Check if authsource is configured before adding or updating a m…,https://github.com/mailcow/mailcow-dockerized/commit/43c15970510ad305e2f67d7067b78967b32e0b7e,https://da.gd/jiPVDa
+GithubCommitStaging,[Web] Fix redirect after renaming mailbox,https://github.com/mailcow/mailcow-dockerized/commit/c93106f9d6ae8b0c0a5282b9c62b3ca1b5fb5aa9,https://da.gd/A0vdk6
+GithubCommitStaging,Add error message when mailbox creation fails,https://github.com/mailcow/mailcow-dockerized/commit/5a7275843ad35a383e14c4d05cceffbec5d6db2d,https://da.gd/XXNwr
+GithubCommitStaging,Add error message when mailbox creation fails,https://github.com/mailcow/mailcow-dockerized/commit/e21696ff27c8793ce41f836d02d284ea958555de,https://da.gd/2HOwlk
+GithubCommitStaging,[Web] Add edit/identity-provider Api Documentation,https://github.com/mailcow/mailcow-dockerized/commit/8910135f02e54beb1ee4ab0698a9cbdd79c45111,https://da.gd/HxZpUl
+GithubCommitStaging,Add default template for IdP attribute mapping,https://github.com/mailcow/mailcow-dockerized/commit/887b7114a8bdd74a81f9ce7a6c5e006e28e135c0,https://da.gd/sghkw
+GithubCommitStaging,[Web] Fix mailbox authsource selection,https://github.com/mailcow/mailcow-dockerized/commit/72ced70e338b35ae1a099c1a8f390ec17d0035e7,https://da.gd/Vh5PZ
+GithubCommitStaging,[Web] Add default_template parameter to edit/identity-provider docume…,https://github.com/mailcow/mailcow-dockerized/commit/94d4817ecb8d0cb21ff8cc393499dc5538dc8d3f,https://da.gd/GO9hG
+GithubCommitStaging,update.sh: Fix text in legacy update prompt,https://github.com/mailcow/mailcow-dockerized/commit/70ba3615837f4039941f51ad4b150255c480f5ad,https://da.gd/gEYqnt
+GithubCommitStaging,update.sh: Fix legacy typo,https://github.com/mailcow/mailcow-dockerized/commit/684256b66ea073b6efc22edeb754fee87d55e7a8,https://da.gd/ywy2V
+GithubCommitStaging,Merge pull request #6380 from mailcow/feat/legacy-switch,https://github.com/mailcow/mailcow-dockerized/commit/ba7437a8f3428c19c6d5751c12e0ba9e8e87930e,https://da.gd/ex6xve
+GithubCommitStaging,Merge branch 'staging' into nightly,https://github.com/mailcow/mailcow-dockerized/commit/cf2d3c1b4e7aa2b5e98dbc7cb96e950e9bf3cf5e,https://da.gd/kEwk
+GithubCommitStaging,Merge branch 'nightly' into staging,https://github.com/mailcow/mailcow-dockerized/commit/59d139bc63413ff5d05f1d9112b2ec84313fc558,https://da.gd/fuYBT5
