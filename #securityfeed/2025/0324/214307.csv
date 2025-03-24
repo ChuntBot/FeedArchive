@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-88m2-j94x-v4fx] yiisoft Yii2 Deserialization of Untrusted Data,https://github.com/advisories/GHSA-88m2-j94x-v4fx,https://da.gd/05OZHl
+GithubAdvisories,[GHSA-4f2v-2gpq-qhjg] GetmeUK ContentTools Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-4f2v-2gpq-qhjg,https://da.gd/k3REnM
+GithubAdvisories,[GHSA-hh3m-g4qj-4835] Spring Security Vulnerable to Authorization Bypass via Security Annotations,https://github.com/advisories/GHSA-hh3m-g4qj-4835,https://da.gd/vIStZ
