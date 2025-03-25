@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,[Web] Check if authsource is configured before adding or updating a m…,https://github.com/mailcow/mailcow-dockerized/commit/43c15970510ad305e2f67d7067b78967b32e0b7e,https://da.gd/jiPVDa
+GithubCommit,[Web] Fix redirect after renaming mailbox,https://github.com/mailcow/mailcow-dockerized/commit/c93106f9d6ae8b0c0a5282b9c62b3ca1b5fb5aa9,https://da.gd/A0vdk6
+GithubCommit,Add error message when mailbox creation fails,https://github.com/mailcow/mailcow-dockerized/commit/5a7275843ad35a383e14c4d05cceffbec5d6db2d,https://da.gd/XXNwr
+GithubCommit,Add error message when mailbox creation fails,https://github.com/mailcow/mailcow-dockerized/commit/e21696ff27c8793ce41f836d02d284ea958555de,https://da.gd/2HOwlk
+GithubCommit,Fix major update prompt,https://github.com/mailcow/mailcow-dockerized/commit/2a15914324655af826255762722b5368ad623b2d,https://da.gd/oOaSJ
+GithubCommit,rspamd: update rspamd to 3.11.1 (#6374),https://github.com/mailcow/mailcow-dockerized/commit/463e3ab78c8c43095239dea4853467a7899df8f3,https://da.gd/LhjAm
+GithubCommit,[Web] Add edit/identity-provider Api Documentation,https://github.com/mailcow/mailcow-dockerized/commit/8910135f02e54beb1ee4ab0698a9cbdd79c45111,https://da.gd/HxZpUl
+GithubCommit,Add default template for IdP attribute mapping,https://github.com/mailcow/mailcow-dockerized/commit/887b7114a8bdd74a81f9ce7a6c5e006e28e135c0,https://da.gd/sghkw
+GithubCommit,[Web] Fix mailbox authsource selection,https://github.com/mailcow/mailcow-dockerized/commit/72ced70e338b35ae1a099c1a8f390ec17d0035e7,https://da.gd/Vh5PZ
+GithubCommit,[Web] Add default_template parameter to edit/identity-provider docume…,https://github.com/mailcow/mailcow-dockerized/commit/94d4817ecb8d0cb21ff8cc393499dc5538dc8d3f,https://da.gd/GO9hG
+GithubCommit,update.sh: Fix text in legacy update prompt,https://github.com/mailcow/mailcow-dockerized/commit/70ba3615837f4039941f51ad4b150255c480f5ad,https://da.gd/gEYqnt
+GithubCommit,update.sh: Fix legacy typo,https://github.com/mailcow/mailcow-dockerized/commit/684256b66ea073b6efc22edeb754fee87d55e7a8,https://da.gd/ywy2V
+GithubCommit,Merge pull request #6380 from mailcow/feat/legacy-switch,https://github.com/mailcow/mailcow-dockerized/commit/ba7437a8f3428c19c6d5751c12e0ba9e8e87930e,https://da.gd/ex6xve
+GithubCommit,Merge pull request #6384 from mailcow/feat/update-components-alp-3.21,https://github.com/mailcow/mailcow-dockerized/commit/91c82e8a6796cc7933fdae469ec0222344b65c59,https://da.gd/Dp5sl
+GithubCommit,Merge branch 'staging' into nightly,https://github.com/mailcow/mailcow-dockerized/commit/cf2d3c1b4e7aa2b5e98dbc7cb96e950e9bf3cf5e,https://da.gd/kEwk
+GithubCommit,update.sh: add 2025-03 as major version,https://github.com/mailcow/mailcow-dockerized/commit/ad5f07f0778c4fa586865c5fa5810e34a6670f88,https://da.gd/KVE9
+GithubCommit,Merge branch 'nightly' into staging,https://github.com/mailcow/mailcow-dockerized/commit/59d139bc63413ff5d05f1d9112b2ec84313fc558,https://da.gd/fuYBT5
+GithubCommit,ldap-sync: Fix template selection,https://github.com/mailcow/mailcow-dockerized/commit/986b0afbfadeeddd220a95c1d7dba50b87ce9512,https://da.gd/7ASP
+GithubCommit,Merge pull request #6390 from mailcow/nightly,https://github.com/mailcow/mailcow-dockerized/commit/d584dd387ec6989efc20b08355630f79d9f1c6f3,https://da.gd/pZwsf
+GithubCommit,Merge pull request #6391 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/c3c68360dc7602cba14dc60c6b9bbe665312328f,https://da.gd/G5P6S
