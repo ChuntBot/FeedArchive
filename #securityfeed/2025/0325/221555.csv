@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v3vp-fg2v-g7q4] OpenDaylight SFC Denial of Service (DoS),https://github.com/advisories/GHSA-v3vp-fg2v-g7q4,https://da.gd/ftyVIB
+GithubAdvisories,[GHSA-5565-3c98-g6jc] WildFly Elytron OpenID Connect Client ExtensionOIDC authorization code injection attack,https://github.com/advisories/GHSA-5565-3c98-g6jc,https://da.gd/JIzSa
