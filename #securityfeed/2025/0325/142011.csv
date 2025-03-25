@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x574-m823-4x7w] Vite bypasses server.fs.deny when using ?raw??,https://github.com/advisories/GHSA-x574-m823-4x7w,https://da.gd/UYyN4
