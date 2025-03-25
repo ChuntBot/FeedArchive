@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qrv3-jc3h-f3m6] Frappe vulnerable to information disclosure leading to account takeover,https://github.com/advisories/GHSA-qrv3-jc3h-f3m6,https://da.gd/fT0f
+GithubAdvisories,[GHSA-v342-4xr9-x3q3] Frappe has Possibility of Remote Code Execution due to improper validation,https://github.com/advisories/GHSA-v342-4xr9-x3q3,https://da.gd/fZL6g
+GithubAdvisories,[GHSA-3hj6-r5c9-q8f3] Frappe has possibility of SQL injection due to improper validations,https://github.com/advisories/GHSA-3hj6-r5c9-q8f3,https://da.gd/aDyjIG
+GithubAdvisories,[GHSA-vm77-mr48-27wj] nossrf Server-Side Request Forgery (SSRF),https://github.com/advisories/GHSA-vm77-mr48-27wj,https://da.gd/ZogO8N
