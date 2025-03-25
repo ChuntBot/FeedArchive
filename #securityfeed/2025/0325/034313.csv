@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3936-3gx6-49c4] Apache Commons VFS Exposure of Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-3936-3gx6-49c4,https://da.gd/DUym
+GithubAdvisories,[GHSA-9q4x-fr4m-jp86] Apache Commons VFS Has Relative Path Traversal Vulnerability,https://github.com/advisories/GHSA-9q4x-fr4m-jp86,https://da.gd/ilJhw
+GithubAdvisories,[GHSA-fjwm-8f2j-75jc] Malware in vistar-ad-clienttestadv2,https://github.com/advisories/GHSA-fjwm-8f2j-75jc,https://da.gd/LCDqI
+GithubAdvisories,[GHSA-jqjq-5g75-3jcq] Malware in vistar-ad-clienttestadv3,https://github.com/advisories/GHSA-jqjq-5g75-3jcq,https://da.gd/n4kUL
+GithubAdvisories,[GHSA-9rrp-chrj-qwx6] Malware in vistar-ad-clienttestadv4,https://github.com/advisories/GHSA-9rrp-chrj-qwx6,https://da.gd/YjNFU
