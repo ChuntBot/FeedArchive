@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-66pp-5p9w-q87j] Shescape has potential environment variable exposure on Windows with CMD,https://github.com/advisories/GHSA-66pp-5p9w-q87j,https://da.gd/objER
+GithubAdvisories,[GHSA-7287-grhx-542x] Pixelfed may allow unauthorized actor to view private posts and private users,https://github.com/advisories/GHSA-7287-grhx-542x,https://da.gd/obna1
