@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9p3m-hfp2-pjf4] Malware in ethers-provider2,https://github.com/advisories/GHSA-9p3m-hfp2-pjf4,https://da.gd/1OJEJ
+GithubAdvisories,[GHSA-rv78-qqrq-73m5] Directus's S3 assets become unavailable after a burst of HEAD requests,https://github.com/advisories/GHSA-rv78-qqrq-73m5,https://da.gd/PaxEX
+GithubAdvisories,[GHSA-j8xj-7jff-46mx] Directus's S3 assets become unavailable after a burst of malformed transformations,https://github.com/advisories/GHSA-j8xj-7jff-46mx,https://da.gd/WwVZb
+GithubAdvisories,[GHSA-6phg-4wmq-h5h3] Frappe has possibility of SQL injection due to improper validations,https://github.com/advisories/GHSA-6phg-4wmq-h5h3,https://da.gd/lSFOT
