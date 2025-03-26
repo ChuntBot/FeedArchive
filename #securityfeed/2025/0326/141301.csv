@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3p6v-hrg8-8qj7] @mozilla/readability Denial of Service through Regex,https://github.com/advisories/GHSA-3p6v-hrg8-8qj7,https://da.gd/5kibl
