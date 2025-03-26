@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gg2f-r4jh-vpmh] TastyIgniter Has an Incorrect Access Control Vulnerability via `invoice()` Function,https://github.com/advisories/GHSA-gg2f-r4jh-vpmh,https://da.gd/NAWPlx
+GithubAdvisories,[GHSA-xp75-w7vq-5x6j] OpenDaylight SFC Insecure Shiro Cookie Configuration,https://github.com/advisories/GHSA-xp75-w7vq-5x6j,https://da.gd/47taGc
