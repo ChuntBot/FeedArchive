@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-56p6-qw3c-fq2g] Suspended Directus user can continue to use session token to access API,https://github.com/advisories/GHSA-56p6-qw3c-fq2g,https://da.gd/uMUEW
