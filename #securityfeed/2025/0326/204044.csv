@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-785h-76cm-cpmf] Django TomSelect incomplete escaping of dangerous characters in widget attributes,https://github.com/advisories/GHSA-785h-76cm-cpmf,https://da.gd/NXeYeW
+GithubAdvisories,[GHSA-9cc5-2pq7-hfj8] xmas-elf potential out-of-bounds read with a malformed ELF file and the HashTable API,https://github.com/advisories/GHSA-9cc5-2pq7-hfj8,https://da.gd/hCmorR
+GithubAdvisories,[GHSA-fm3h-p9wm-h74h] Directus's webhook trigger flows can leak sensitive data,https://github.com/advisories/GHSA-fm3h-p9wm-h74h,https://da.gd/UvzJQI
