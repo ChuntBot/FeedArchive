@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v56r-hwv5-mxg6] Synapse vulnerable to federation denial of service via malformed events,https://github.com/advisories/GHSA-v56r-hwv5-mxg6,https://da.gd/3VqQX6
+GithubAdvisories,[GHSA-pfqj-w6r6-g86v] Pitchfork HTTP Request/Response Splitting vulnerability,https://github.com/advisories/GHSA-pfqj-w6r6-g86v,https://da.gd/waftP
+GithubAdvisories,[GHSA-963h-3v39-3pqf] Vega vulnerable to Cross-site Scripting via RegExp.prototype[@@replace],https://github.com/advisories/GHSA-963h-3v39-3pqf,https://da.gd/7aHW
