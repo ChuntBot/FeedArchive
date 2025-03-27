@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2h5r-cqfc-45v6] Jellyfin Web Cross-Site Scripting (XSS) via Playlist Name,https://github.com/advisories/GHSA-2h5r-cqfc-45v6,https://da.gd/k4uZoP
+GithubAdvisories,[GHSA-749c-pc87-4qcw] Jellyfin Web Cross-Site Scripting (XSS) via Collection Name,https://github.com/advisories/GHSA-749c-pc87-4qcw,https://da.gd/ecj6dE
+GithubAdvisories,[GHSA-cj7v-w2c7-cp7c] nest allows a remote attacker to execute arbitrary code via the Content-Type header,https://github.com/advisories/GHSA-cj7v-w2c7-cp7c,https://da.gd/2JMlTP
