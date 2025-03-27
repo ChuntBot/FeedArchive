@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rcw3-wmx7-cphr] Vega Cross-Site Scripting (XSS) via event filter when not using CSP mode expressionInterpeter,https://github.com/advisories/GHSA-rcw3-wmx7-cphr,https://da.gd/4GxGU4
