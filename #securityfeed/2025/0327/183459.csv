@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-29m8-wh9p-5wc4] Apache Kylin Code Injection via JDBC Configuration Alteration,https://github.com/advisories/GHSA-29m8-wh9p-5wc4,https://da.gd/6t2L4
+GithubAdvisories,[GHSA-3v67-545x-ffc3] Apache Kylin Server-Side Request Forgery (SSRF) via `/kylin/api/xxx/diag` Endpoint,https://github.com/advisories/GHSA-3v67-545x-ffc3,https://da.gd/g02WGt
+GithubAdvisories,[GHSA-f3mf-hm6v-jfhh] Mesop Class Pollution vulnerability leads to DoS and Jailbreak attacks,https://github.com/advisories/GHSA-f3mf-hm6v-jfhh,https://da.gd/jt8W15
