@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,fix(ui): Swap translations for oversized dropdown,https://github.com/mailcow/mailcow-dockerized/commit/05fc4f7aba5bfb9e2db596d11d6beab00ae70320,https://da.gd/MlAVfU
+GithubCommitStaging,Merge pull request #6402 from marvinruder/fix/long-dropdown-label,https://github.com/mailcow/mailcow-dockerized/commit/9b41b24522cfbde3d1870d0fd5932e7108a7889f,https://da.gd/149Le
