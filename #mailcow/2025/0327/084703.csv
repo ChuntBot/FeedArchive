@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubCommit,fix(ui): Swap translations for oversized dropdown,https://github.com/mailcow/mailcow-dockerized/commit/05fc4f7aba5bfb9e2db596d11d6beab00ae70320,https://da.gd/MlAVfU
+GithubCommit,[Web] Fix SOGo access after Passwordless auth,https://github.com/mailcow/mailcow-dockerized/commit/fcb1b29c890ca2cd5e6718b7cec9c078d3a5251a,https://da.gd/hGOlj
+GithubCommit,[Web] Fix oauth2 redirect after user login,https://github.com/mailcow/mailcow-dockerized/commit/348107dae84119f824b1e100073d8d30edcb2a05,https://da.gd/rCSgR
+GithubCommit,[Swagger] Fix type property for /api/v1/add/bcc endpoint,https://github.com/mailcow/mailcow-dockerized/commit/21b11ed99923a0c26b32f26b6663d2dbbab7ce81,https://da.gd/ZKgH4
+GithubCommit,[Web] Check if mailbox is active before renaming,https://github.com/mailcow/mailcow-dockerized/commit/95aa35e133d4c23498ce21d977478c038f7b1f8d,https://da.gd/ajsxJp
+GithubCommit,[Web] Use absolute paths for flag SVGs,https://github.com/mailcow/mailcow-dockerized/commit/a5ca3353dae37b338778b7faf6f9d471f5081701,https://da.gd/uR7fC
+GithubCommit,[Nginx] Move conf.d include before SNI vhosts,https://github.com/mailcow/mailcow-dockerized/commit/65fb4c2aa81cb779bed1a4ad75836a151eab46db,https://da.gd/9aRcR
+GithubCommit,Merge pull request #6411 from mailcow/fix/6340,https://github.com/mailcow/mailcow-dockerized/commit/efdc7982387d08f0a7189b4f33f97ad04f1debca,https://da.gd/qHV94R
+GithubCommit,Merge pull request #6410 from mailcow/fix/6395,https://github.com/mailcow/mailcow-dockerized/commit/4eb89f67ed127e7336a4d6df2015f3b3d67c32db,https://da.gd/FRUZ7
+GithubCommit,Merge pull request #6409 from mailcow/fix/6372,https://github.com/mailcow/mailcow-dockerized/commit/5baf9eb375876f3741e740408cc637583843fa08,https://da.gd/LerSxi
+GithubCommit,Merge pull request #6408 from mailcow/fix/6373,https://github.com/mailcow/mailcow-dockerized/commit/b550c6f88e77bac8c84271d9679cc8f2d6b1d1c6,https://da.gd/Lrl3HV
+GithubCommit,Merge pull request #6407 from mailcow/fix/6396,https://github.com/mailcow/mailcow-dockerized/commit/7172cad2572ca7359f1971568140367648da2d09,https://da.gd/wuEmFu
+GithubCommit,Merge pull request #6406 from mailcow/fix/6392,https://github.com/mailcow/mailcow-dockerized/commit/1c9d80f554715809f80ccbcf178a8d348898ebd3,https://da.gd/qc0u
+GithubCommit,Merge pull request #6402 from marvinruder/fix/long-dropdown-label,https://github.com/mailcow/mailcow-dockerized/commit/9b41b24522cfbde3d1870d0fd5932e7108a7889f,https://da.gd/149Le
+GithubCommit,Merge pull request #6419 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/2c47145dee31ad56b449a77180a2346eb06904c3,https://da.gd/bFU6n9
