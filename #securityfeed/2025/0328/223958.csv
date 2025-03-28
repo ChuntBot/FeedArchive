@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p2wh-w96x-w232] Ollama Denial of Service (DoS) via Null Pointer Dereference,https://github.com/advisories/GHSA-p2wh-w96x-w232,https://da.gd/Ep3dr
+GithubAdvisories,[GHSA-j8x2-777p-23fc] tough cyclic delegation graphs are not detected,https://github.com/advisories/GHSA-j8x2-777p-23fc,https://da.gd/2kcwAw
+GithubAdvisories,[GHSA-v4wr-j3w6-mxqc] tough terminating targets role delegations are not respected,https://github.com/advisories/GHSA-v4wr-j3w6-mxqc,https://da.gd/hseYu
+GithubAdvisories,[GHSA-5vmp-m5v2-hx47] tough root metadata version is not checked for sequential versioning,https://github.com/advisories/GHSA-5vmp-m5v2-hx47,https://da.gd/MEEyR2
+GithubAdvisories,[GHSA-pq67-2wwv-3xjx] tar-fs Vulnerable to Link Following and Path Traversal via Extracting a Crafted tar File,https://github.com/advisories/GHSA-pq67-2wwv-3xjx,https://da.gd/1O0piO
