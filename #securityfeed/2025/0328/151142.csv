@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-76g3-38jv-wxh4] tough timestamp metadata is cached when it fails snapshot rollback check,https://github.com/advisories/GHSA-76g3-38jv-wxh4,https://da.gd/4leSl
+GithubAdvisories,[GHSA-q6r9-r9pw-4cf7] tough failure to detect delegated target rollback,https://github.com/advisories/GHSA-q6r9-r9pw-4cf7,https://da.gd/DVvm
+GithubAdvisories,[GHSA-j95m-rcjp-q69h] github.com/jaredallard/archives Has Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),https://github.com/advisories/GHSA-j95m-rcjp-q69h,https://da.gd/NwbI
