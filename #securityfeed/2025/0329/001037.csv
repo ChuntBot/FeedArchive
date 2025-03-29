@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p799-q2pr-6mxj] go.rgst.io/stencil/v2 vulnerable to Path Traversal,https://github.com/advisories/GHSA-p799-q2pr-6mxj,https://da.gd/riTOaI
