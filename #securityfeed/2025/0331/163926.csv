@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-67r5-rqwv-9p9q] array-init-cursor is unsound when used with types that implement `Drop`,https://github.com/advisories/GHSA-67r5-rqwv-9p9q,https://da.gd/zEGVeT
+GithubAdvisories,[GHSA-hx7h-9vf7-5xhg] Uptime Kuma's Regular Expression in pushdeeer and whapi file Leads to ReDoS Vulnerability Due to Catastrophic Backtracking,https://github.com/advisories/GHSA-hx7h-9vf7-5xhg,https://da.gd/b0JCa
+GithubAdvisories,[GHSA-2q39-w2hw-2pjm] Infinispan Potential Out of Memory Error via REST Compare API Buffer API,https://github.com/advisories/GHSA-2q39-w2hw-2pjm,https://da.gd/WaDkwS
