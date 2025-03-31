@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xfqf-5rhg-5c73] ConcreteCMS Cross-Site Scripting (XSS) via HTML Block Text Field,https://github.com/advisories/GHSA-xfqf-5rhg-5c73,https://da.gd/9pelF
+GithubAdvisories,[GHSA-2j42-h78h-q4fg] Beego allows Reflected/Stored XSS in Beego's RenderForm() Function Due to Unescaped User Input,https://github.com/advisories/GHSA-2j42-h78h-q4fg,https://da.gd/c13Tl
+GithubAdvisories,[GHSA-2m4q-2c6r-hmc3] Solon Vulnerable to Path Traversal,https://github.com/advisories/GHSA-2m4q-2c6r-hmc3,https://da.gd/9RQBK
