@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9rhg-254w-fh9x] Redoc Prototype Pollution via `Module.mergeObjects` Component,https://github.com/advisories/GHSA-9rhg-254w-fh9x,https://da.gd/LHpB
+GithubAdvisories,[GHSA-jf6p-4hgv-v6qh] Duplicate Advisory: Leantime affected by Improper Neutralization of HTML Tags,https://github.com/advisories/GHSA-jf6p-4hgv-v6qh,https://da.gd/4bgKn
+GithubAdvisories,[GHSA-799q-f2px-wx8c] @alizeait/unflatto Prototype Pollution via `exports.unflatto` Method,https://github.com/advisories/GHSA-799q-f2px-wx8c,https://da.gd/9WWpq
+GithubAdvisories,[GHSA-4h4x-4m75-47j4] depath and cool-path vulnerable to Prototype Pollution via `set()` Method,https://github.com/advisories/GHSA-4h4x-4m75-47j4,https://da.gd/oNHQFP
