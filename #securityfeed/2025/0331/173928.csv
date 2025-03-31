@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4r4m-qw57-chr8] Vite has a `server.fs.deny` bypassed for `inline` and `raw` with `?import` query,https://github.com/advisories/GHSA-4r4m-qw57-chr8,https://da.gd/E67Qj
+GithubAdvisories,[GHSA-fcfq-m8p6-gw56] Mobile Security Framework (MobSF) has a SSRF Vulnerability fix bypass on assetlinks_check with DNS Rebinding,https://github.com/advisories/GHSA-fcfq-m8p6-gw56,https://da.gd/8MADS
