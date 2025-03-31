@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qq4x-c6h6-rfxh] aws-cdk-lib has Insertion of Sensitive Information into Log File vulnerability when using Cognito UserPoolClient Construct,https://github.com/advisories/GHSA-qq4x-c6h6-rfxh,https://da.gd/zK1AsU
+GithubAdvisories,[GHSA-pp64-wj43-xqcr] AWS SAM CLI Path Traversal allows file copy to local cache,https://github.com/advisories/GHSA-pp64-wj43-xqcr,https://da.gd/LXNbjA
+GithubAdvisories,[GHSA-px37-jpqx-97q9] AWS SAM CLI Path Traversal allows file copy to build container,https://github.com/advisories/GHSA-px37-jpqx-97q9,https://da.gd/gCG85i
+GithubAdvisories,[GHSA-gr7w-hmch-25g7] gifplayer XSS vulnerability,https://github.com/advisories/GHSA-gr7w-hmch-25g7,https://da.gd/rJSEA
