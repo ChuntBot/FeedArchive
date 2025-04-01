@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c2c3-pqw5-5p7c] Go-Guerrilla SMTP Daemon allows the PROXY command to be sent multiple times,https://github.com/advisories/GHSA-c2c3-pqw5-5p7c,https://da.gd/SuBktu
+GithubAdvisories,[GHSA-4q56-crqp-v477] Remix and React Router allow URL manipulation via Host / X-Forwarded-Host headers,https://github.com/advisories/GHSA-4q56-crqp-v477,https://da.gd/r5RU4
