@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-24cf-848g-762c] ShopXO Vulnerable to Server-Side Request Forgery (SSRF) and Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-24cf-848g-762c,https://da.gd/TPCx8X
+GithubAdvisories,[GHSA-gfhv-5rqh-7qx3] ShopXO Vulnerable to Server-Side Request Forgery (SSRF) via Email Settings,https://github.com/advisories/GHSA-gfhv-5rqh-7qx3,https://da.gd/j5e6E
+GithubAdvisories,[GHSA-p736-g6pg-hjhw] ShopXO Vulnerable to Server-Side Request Forgery (SSRF) via Image Upload,https://github.com/advisories/GHSA-p736-g6pg-hjhw,https://da.gd/eQJGb
+GithubAdvisories,[GHSA-7c5v-895v-w4q5] jooby-pac4j: deserialization of untrusted data,https://github.com/advisories/GHSA-7c5v-895v-w4q5,https://da.gd/xSJ6ea
+GithubAdvisories,[GHSA-8p83-cpfg-fj3g] Rancher: Restricted Administrator can change Administrator's passwords,https://github.com/advisories/GHSA-8p83-cpfg-fj3g,https://da.gd/8ZGkm
