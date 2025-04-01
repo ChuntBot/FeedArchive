@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w34w-fvp3-68xm] Yeswiki Path Traversal vulnerability allows arbitrary read of files,https://github.com/advisories/GHSA-w34w-fvp3-68xm,https://da.gd/0V4xt
+GithubAdvisories,[GHSA-6jwp-4wvj-6597] Apache Pinot Vulnerable to Authentication Bypass,https://github.com/advisories/GHSA-6jwp-4wvj-6597,https://da.gd/N156O
+GithubAdvisories,[GHSA-wqcc-mfhw-53pc] Apache Answer User Using External Images Potentially Discloses User Information,https://github.com/advisories/GHSA-wqcc-mfhw-53pc,https://da.gd/3QpFG
