@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2c59-37c4-qrx5] Apache Parquet Avro Module Vulnerable to Arbitrary Code Execution,https://github.com/advisories/GHSA-2c59-37c4-qrx5,https://da.gd/ILiWiY
+GithubAdvisories,[GHSA-3w85-5p9g-h334] Apache ActiveMQ Artemis User Without Create Address Permissions can Modify Address Routing-Type,https://github.com/advisories/GHSA-3w85-5p9g-h334,https://da.gd/1ox5TO
+GithubAdvisories,[GHSA-wpp8-fjgf-pwc7] Drupal Core Vulnerable to Forceful Browsing,https://github.com/advisories/GHSA-wpp8-fjgf-pwc7,https://da.gd/pzGNg4
