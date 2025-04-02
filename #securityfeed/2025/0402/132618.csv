@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pph8-gcv7-4qj5] PyO3 Risk of buffer overflow in `PyString::from_object`,https://github.com/advisories/GHSA-pph8-gcv7-4qj5,https://da.gd/h6L13g
