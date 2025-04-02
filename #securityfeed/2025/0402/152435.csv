@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gf72-h4cp-wcm4] Drupal Open Social Missing Authorization vulnerability,https://github.com/advisories/GHSA-gf72-h4cp-wcm4,https://da.gd/9DoDRu
+GithubAdvisories,[GHSA-m9w8-wxvp-c9gv] Drupal Open Social Missing Authorization vulnerability,https://github.com/advisories/GHSA-m9w8-wxvp-c9gv,https://da.gd/zdeZK
+GithubAdvisories,[GHSA-m5qc-5hw7-8vg7] image-size Denial of Service via Infinite Loop during Image Processing,https://github.com/advisories/GHSA-m5qc-5hw7-8vg7,https://da.gd/bryAmt
