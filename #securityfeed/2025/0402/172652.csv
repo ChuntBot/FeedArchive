@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mqqg-xjhj-wfgw] Stored XSS in Miniflux when opening a broken image due to unescaped ServerError in proxy handler,https://github.com/advisories/GHSA-mqqg-xjhj-wfgw,https://da.gd/jEg6E
+GithubAdvisories,[GHSA-3qjf-qh38-x73v] Unauthenticated Miniflux user can bypass allowed networks check to obtain Prometheus metrics,https://github.com/advisories/GHSA-3qjf-qh38-x73v,https://da.gd/XKKzyx
+GithubAdvisories,[GHSA-5r66-vgc7-2mm3] Drupal Formatter Suite Vulnerable to Cross-Site Scripting (XSS) via Link Element Attributes,https://github.com/advisories/GHSA-5r66-vgc7-2mm3,https://da.gd/2KAu2
+GithubAdvisories,[GHSA-86h4-w859-3hhv] Drupal RapiDoc OAS Field Formatter Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-86h4-w859-3hhv,https://da.gd/Y87rh
+GithubAdvisories,[GHSA-p2wg-8h29-874v] Drupal Link field display mode formatter Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-p2wg-8h29-874v,https://da.gd/evTXAb
+GithubAdvisories,[GHSA-hf6c-fgp3-jfch] Drupal Two-factor Authentication (TFA) Vulnerable to Forceful Browsing,https://github.com/advisories/GHSA-hf6c-fgp3-jfch,https://da.gd/pjxTk
+GithubAdvisories,[GHSA-vx9m-rfxq-gr74] Drupal AI Vulnerable to OS Command Injection,https://github.com/advisories/GHSA-vx9m-rfxq-gr74,https://da.gd/Qiehz
+GithubAdvisories,[GHSA-pwjq-fx3v-8f9r] Drupal AI Vulnerable to OS Command Injection via Optional Automator Types,https://github.com/advisories/GHSA-pwjq-fx3v-8f9r,https://da.gd/LlvGM
+GithubAdvisories,[GHSA-4f8q-mwgc-3mwc] Drupal OAuth2 Server Missing Authorization vulnerability,https://github.com/advisories/GHSA-4f8q-mwgc-3mwc,https://da.gd/MLXxG
+GithubAdvisories,[GHSA-ccc9-jgj7-hxc7] Drupal Cache Utility Cross-Site Request Forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-ccc9-jgj7-hxc7,https://da.gd/fxZkR
+GithubAdvisories,[GHSA-jv6r-mj9p-9xff] Drupal General Data Protection Regulation Cross-Site Request Forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-jv6r-mj9p-9xff,https://da.gd/YNZ9
+GithubAdvisories,[GHSA-qq45-cqhg-jwx5] Drupal Configuration Split Cross-Site Request Forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-qq45-cqhg-jwx5,https://da.gd/6OEpQf
+GithubAdvisories,[GHSA-8r2q-865v-wm8j] Drupal SpamSpan Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-8r2q-865v-wm8j,https://da.gd/vb9j
+GithubAdvisories,[GHSA-6chf-hhqf-749c] Drupal OAuth2 Client Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-6chf-hhqf-749c,https://da.gd/FLSe
+GithubAdvisories,[GHSA-qchr-8m24-7v66] Drupal Google Tag Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-qchr-8m24-7v66,https://da.gd/58WJYu
+GithubAdvisories,[GHSA-36vv-q5jv-94cj] Drupal Google Tag Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-36vv-q5jv-94cj,https://da.gd/eLtqZ
+GithubAdvisories,[GHSA-jwpx-6c4p-q4jq] Drupal Authenticator Login Missing Authorization vulnerability,https://github.com/advisories/GHSA-jwpx-6c4p-q4jq,https://da.gd/JQ0r4
+GithubAdvisories,[GHSA-9w85-x5hg-fr66] Drupal AI Cross-Site Request Forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-9w85-x5hg-fr66,https://da.gd/Z7oH
+GithubAdvisories,[GHSA-rhxm-r44m-4325] Drupal Ignition Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-rhxm-r44m-4325,https://da.gd/PrHBvA
+GithubAdvisories,[GHSA-jh66-rjx8-8qqc] Drupal Matomo Analytics Cross-Site Request Forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-jh66-rjx8-8qqc,https://da.gd/uXFSlZ
+GithubAdvisories,[GHSA-c8q6-wp7v-46r9] Drupal AI Missing Authorization vulnerability,https://github.com/advisories/GHSA-c8q6-wp7v-46r9,https://da.gd/KUMLv
