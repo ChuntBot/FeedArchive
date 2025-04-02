@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-49v8-p6mm-3pfj] Vipshop Saturn Console Vulnerable to SQL Injection via ClusterKey Component,https://github.com/advisories/GHSA-49v8-p6mm-3pfj,https://da.gd/UwhGn
+GithubAdvisories,[GHSA-m254-f6h4-p93g] Jenkins AsakusaSatellite Plugin Does not Mask API Keys via Job Configuration Form,https://github.com/advisories/GHSA-m254-f6h4-p93g,https://da.gd/6gzRL
+GithubAdvisories,[GHSA-fv9q-fq62-c6qg] Jenkins AsakusaSatellite Plugin Stores API Keys Unencrypted in Job `config.xml` Files,https://github.com/advisories/GHSA-fv9q-fq62-c6qg,https://da.gd/yXYQ1
+GithubAdvisories,[GHSA-2wxq-944j-5g2v] Jenkins Stack Hammer Plugin Stores API Keys Unencrypted in Job `config.xml` Files,https://github.com/advisories/GHSA-2wxq-944j-5g2v,https://da.gd/0UIC
+GithubAdvisories,[GHSA-x9hj-q7xv-fv4v] Jenkins Cadence vManager Plugin Stores Verisium Manager vAPI keys Unencrypted,https://github.com/advisories/GHSA-x9hj-q7xv-fv4v,https://da.gd/LzXD
+GithubAdvisories,[GHSA-g65g-fmcp-4w68] Jenkins monitor-remote-job Plugin Stores Passwords Unencrypted,https://github.com/advisories/GHSA-g65g-fmcp-4w68,https://da.gd/RN2JsN
+GithubAdvisories,[GHSA-hcfh-qjcp-34q9] Jenkins Simple Queue Plugin Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-hcfh-qjcp-34q9,https://da.gd/Awwex
+GithubAdvisories,[GHSA-4vjp-327p-w4qv] Jenkins Templating Engine Plugin Vulnerable to Arbitrary Code Execution,https://github.com/advisories/GHSA-4vjp-327p-w4qv,https://da.gd/y02a
+GithubAdvisories,[GHSA-wr6w-jxg7-qpfh] Jenkins Missing Permission Check,https://github.com/advisories/GHSA-wr6w-jxg7-qpfh,https://da.gd/QAlW6
+GithubAdvisories,[GHSA-c9pr-q8gx-3mgp] Improper Scope Validation in the `open` Endpoint of `tauri-plugin-shell`,https://github.com/advisories/GHSA-c9pr-q8gx-3mgp,https://da.gd/VifCkn
+GithubAdvisories,[GHSA-26wh-cc3r-w6pj] canonical/get-workflow-version-action can leak a partial GITHUB_TOKEN in exception output,https://github.com/advisories/GHSA-26wh-cc3r-w6pj,https://da.gd/n939O
+GithubAdvisories,[GHSA-223j-4rm8-mrmf] Next.js may leak x-middleware-subrequest-id to external hosts,https://github.com/advisories/GHSA-223j-4rm8-mrmf,https://da.gd/5R9ZmH
+GithubAdvisories,[GHSA-3mpg-q26j-83j5] Command injection in yiisoft/yii2-gii,https://github.com/advisories/GHSA-3mpg-q26j-83j5,https://da.gd/ppSW
