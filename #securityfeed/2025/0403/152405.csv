@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cvx5-7vc7-rg77] Tomcat uses trusted privileges when processing web.xml file,https://github.com/advisories/GHSA-cvx5-7vc7-rg77,https://da.gd/t4e9p
