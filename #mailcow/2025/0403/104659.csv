@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Fix tiny typo,https://github.com/mailcow/mailcow-dockerized/commit/65d872cc1487380e488e26d27a26154a12753f5f,https://da.gd/gtW7at
+GithubCommitStaging,[Netfilter] Downgrade to 1.61,https://github.com/mailcow/mailcow-dockerized/commit/0157cbddafe59b253b8186d7e29a63da85a964d7,https://da.gd/P8xb8
+GithubCommitStaging,Fix sasl_logs,https://github.com/mailcow/mailcow-dockerized/commit/805634f9a94529a2c611100aed22f5c0b2d11b34,https://da.gd/rf7ilK
+GithubCommitStaging,[Web] Fix transport routing test,https://github.com/mailcow/mailcow-dockerized/commit/ceeabded73c66c8022eeac69721908f3f1c90d46,https://da.gd/FX36w
+GithubCommitStaging,[Web] Check app password before user password on web login,https://github.com/mailcow/mailcow-dockerized/commit/62f816e64a964a0eb3c9243595b6ffedff897cc6,https://da.gd/UW6Rb
+GithubCommitStaging,[Dovecot] Add service for authentication cache_key,https://github.com/mailcow/mailcow-dockerized/commit/6794e6ff43449d34397e40931310169658c84ac4,https://da.gd/J9mh4
+GithubCommitStaging,Merge pull request #6450 from mailcow/fix/sasl_logs,https://github.com/mailcow/mailcow-dockerized/commit/3758135dc34e1d655abf7a3fb2ec2eb4d463a071,https://da.gd/uBn4L
+GithubCommitStaging,Merge pull request #6451 from mailcow/fix/6437,https://github.com/mailcow/mailcow-dockerized/commit/34e4f93db93f8a1a73447a5e663623d1fd5052f2,https://da.gd/xjSGmJ
+GithubCommitStaging,Merge pull request #6438 from mailcow/fix/6405,https://github.com/mailcow/mailcow-dockerized/commit/741e5c719fc66743646ec1d158bc6823bda56e04,https://da.gd/K273JM
+GithubCommitStaging,Merge pull request #6426 from sardaukar/fix/typo-on-backup-and-restor…,https://github.com/mailcow/mailcow-dockerized/commit/a741c2ba4a1741de2d30b885e76d2dc2254d51ee,https://da.gd/MabgJw
