@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8f4w-jwqv-5cxc] Apache Tomcat Vulnerable to Denial of Service (DoS) via Simultaneous Requests,https://github.com/advisories/GHSA-8f4w-jwqv-5cxc,https://da.gd/4fkp6
+GithubAdvisories,[GHSA-2w2w-cv3h-rr38] Apache Tomcat Reveals Path through Long URL,https://github.com/advisories/GHSA-2w2w-cv3h-rr38,https://da.gd/WHwf63
