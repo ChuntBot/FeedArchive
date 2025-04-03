@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r6cf-cr44-m8rr] Apache Tomcat Leaks Pathname Information via Error Message,https://github.com/advisories/GHSA-r6cf-cr44-m8rr,https://da.gd/GU26zB
+GithubAdvisories,[GHSA-m8w6-7rh6-4xj6] Apache Tomcat Leaks Information via Error Message,https://github.com/advisories/GHSA-m8w6-7rh6-4xj6,https://da.gd/VHib2
