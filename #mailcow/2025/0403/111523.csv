@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[SOGo] Use JS for mailcow logout,https://github.com/mailcow/mailcow-dockerized/commit/f37961b7d06b1e0f0fdb2f893f5dfa295c00f86f,https://da.gd/HYjgzJ
+GithubCommitStaging,[SOGo] Show mailcow Settings Button to SOGoSuperUsers,https://github.com/mailcow/mailcow-dockerized/commit/e452917de9786663dd9eb0af371dd916ab6d63be,https://da.gd/r1M6ot
+GithubCommitStaging,Merge pull request #6439 from mailcow/fix/6430,https://github.com/mailcow/mailcow-dockerized/commit/153890b2831362d187fef1880dc67ab6df23398c,https://da.gd/GIo60
