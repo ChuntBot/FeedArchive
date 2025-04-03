@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hphm-3x7f-g875] Drupal Obfuscate Vulnerable to Stored Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-hphm-3x7f-g875,https://da.gd/hptV14
+GithubAdvisories,[GHSA-rfw5-cqjj-7v9r] API Platform Core can leak exceptions message that may contain sensitive information,https://github.com/advisories/GHSA-rfw5-cqjj-7v9r,https://da.gd/GM5fX
