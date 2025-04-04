@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4fcv-w3qc-ppgg] rust-openssl Use-After-Free in `Md::fetch` and `Cipher::fetch`,https://github.com/advisories/GHSA-4fcv-w3qc-ppgg,https://da.gd/kcamLM
