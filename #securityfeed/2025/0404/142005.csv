@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cmm4-p9v2-q453] Concrete CMS Vulnerable to Cross-Site Request Forgery (CSRF) and Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-cmm4-p9v2-q453,https://da.gd/cOAKn
+GithubAdvisories,[GHSA-wfj7-mhr5-pcwq] Apache Tomcat Reveals Directories,https://github.com/advisories/GHSA-wfj7-mhr5-pcwq,https://da.gd/TfYjg
+GithubAdvisories,[GHSA-xj84-6q8f-qg2r] TYPO3 Reveals Sensitive Information via Direct Request to `misc/phpcheck/`,https://github.com/advisories/GHSA-xj84-6q8f-qg2r,https://da.gd/GWQI
+GithubAdvisories,[GHSA-cq88-842x-2jhp] Miniflux Media Proxy vulnerable to Stored Cross-site Scripting due to improper Content-Security-Policy configuration,https://github.com/advisories/GHSA-cq88-842x-2jhp,https://da.gd/MYzlW
+GithubAdvisories,[GHSA-gf3x-mx67-m7vv] Malware in valid-ip-scope,https://github.com/advisories/GHSA-gf3x-mx67-m7vv,https://da.gd/lhZkYp
+GithubAdvisories,[GHSA-6x9p-gxqr-8hcc] Malware in valid-ip-ban,https://github.com/advisories/GHSA-6x9p-gxqr-8hcc,https://da.gd/G17S5
+GithubAdvisories,[GHSA-cg3c-245w-728m] GraphQL query operations security can be bypassed,https://github.com/advisories/GHSA-cg3c-245w-728m,https://da.gd/g1Ihpr
+GithubAdvisories,[GHSA-7rmp-3g9f-cvq8] generator-jhipster-entity-audit vulnerable to Unsafe Reflection when having Javers selected as Entity Audit Framework,https://github.com/advisories/GHSA-7rmp-3g9f-cvq8,https://da.gd/3HrNkq
+GithubAdvisories,"[GHSA-cj5w-8mjf-r5f8] jupyterlab-git has a command injection vulnerability in ""Open Git Repository in Terminal""",https://github.com/advisories/GHSA-cj5w-8mjf-r5f8,https://da.gd/WkPg
