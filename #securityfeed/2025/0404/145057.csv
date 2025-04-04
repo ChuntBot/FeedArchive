@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wg47-6jq2-q2hh] MinIO performs incomplete signature validation for unsigned-trailer uploads,https://github.com/advisories/GHSA-wg47-6jq2-q2hh,https://da.gd/CwFXla
+GithubAdvisories,[GHSA-7vc5-mjwp-c8fq] LMDeploy Improper Input Validation Vulnerability,https://github.com/advisories/GHSA-7vc5-mjwp-c8fq,https://da.gd/oy4xp
+GithubAdvisories,[GHSA-2rrx-pphc-qfv9] pgAdmin 4 Vulnerable to Cross-Site Scripting (XSS) via Query Result Rendering,https://github.com/advisories/GHSA-2rrx-pphc-qfv9,https://da.gd/vIN723
+GithubAdvisories,[GHSA-g73c-fw68-pwx3] pgAdmin 4 Vulnerable to Remote Code Execution,https://github.com/advisories/GHSA-g73c-fw68-pwx3,https://da.gd/SE6CgI
+GithubAdvisories,[GHSA-wc53-4255-gw3f] The XWiki JIRA extension allows data leak through an XXE attack by using a fake JIRA server,https://github.com/advisories/GHSA-wc53-4255-gw3f,https://da.gd/3wi6H
+GithubAdvisories,[GHSA-xcj6-pq6g-qj4x] Vite allows server.fs.deny to be bypassed with .svg or relative paths,https://github.com/advisories/GHSA-xcj6-pq6g-qj4x,https://da.gd/05txU
+GithubAdvisories,[GHSA-428q-q3vv-3fq3] GraphQL grant on a property might be cached with different objects,https://github.com/advisories/GHSA-428q-q3vv-3fq3,https://da.gd/11OOql
