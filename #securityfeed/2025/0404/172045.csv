@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qw64-6vcc-8ghx] Browsershot Server-Side Request Forgery (SSRF) via setURL() Function,https://github.com/advisories/GHSA-qw64-6vcc-8ghx,https://da.gd/1ZltQ9
