@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2frx-2596-x5r6] gitoxide does not detect SHA-1 collision attacks,https://github.com/advisories/GHSA-2frx-2596-x5r6,https://da.gd/Z2gCj
+GithubAdvisories,[GHSA-33xw-247w-6hmc] BentoML Allows Remote Code Execution (RCE) via Insecure Deserialization,https://github.com/advisories/GHSA-33xw-247w-6hmc,https://da.gd/tqakav
