@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4vjr-hfpp-2m7w] expand-object Vulnerable to Prototype Pollution via the expand() Function,https://github.com/advisories/GHSA-4vjr-hfpp-2m7w,https://da.gd/wBKIy0
+GithubAdvisories,[GHSA-3gc7-fjrx-p6mg] bigint-buffer Vulnerable to Buffer Overflow via toBigIntLE() Function,https://github.com/advisories/GHSA-3gc7-fjrx-p6mg,https://da.gd/bZMy8
+GithubAdvisories,[GHSA-fq5x-7292-2p5r] React Draft Wysiwyg Cross-Site Scripting (XSS) via the Embedded Button,https://github.com/advisories/GHSA-fq5x-7292-2p5r,https://da.gd/oL01
