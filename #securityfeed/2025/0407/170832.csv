@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qp8j-p87f-c8cc] LNbits Lightning Network Payment System Vulnerable to Server-Side Request Forgery via LNURL Authentication Callback,https://github.com/advisories/GHSA-qp8j-p87f-c8cc,https://da.gd/2i1Z
+GithubAdvisories,[GHSA-p5g4-v748-6fh8] tarteaucitron.js allows url scheme injection via unfiltered inputs,https://github.com/advisories/GHSA-p5g4-v748-6fh8,https://da.gd/TyyYr
+GithubAdvisories,[GHSA-794x-2rpg-rfgr] Jujutsu does not have SHA-1 collision detection,https://github.com/advisories/GHSA-794x-2rpg-rfgr,https://da.gd/Gyur
