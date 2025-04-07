@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] Improve clarity of LDAP SSL/TLS settings,https://github.com/mailcow/mailcow-dockerized/commit/402bf53a5c24ac34ca7df63396640c9c0f2dc21c,https://da.gd/mvnARP
+GithubCommitStaging,[Web] Update LDAP SSL/TLS tooltips,https://github.com/mailcow/mailcow-dockerized/commit/0eb8f3879264288c5d586f8086a419cd8d03c008,https://da.gd/pugaUV
+GithubCommitStaging,[Web] Update 2FA Info tooltip,https://github.com/mailcow/mailcow-dockerized/commit/2c10c39bc4def2ecde8c1df9cf40487a0a4c08dd,https://da.gd/Ph79o
+GithubCommitStaging,Merge pull request #6460 from mailcow/ui/improve-ldap-ssl-labels,https://github.com/mailcow/mailcow-dockerized/commit/3ddad9dee88ce9705c526f6ba92fd93d96b39dcc,https://da.gd/2Hr5px
