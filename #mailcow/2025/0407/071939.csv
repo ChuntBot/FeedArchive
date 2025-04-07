@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,[SOGo] Show mailcow Settings Button to SOGoSuperUsers,https://github.com/mailcow/mailcow-dockerized/commit/e452917de9786663dd9eb0af371dd916ab6d63be,https://da.gd/r1M6ot
+GithubCommit,[Web] Fix password reset,https://github.com/mailcow/mailcow-dockerized/commit/db3a577ae3b1cd8211bf88da7d8bedaddda31e3a,https://da.gd/mJAdLH
+GithubCommit,update postscreen_access.cidr (#6443),https://github.com/mailcow/mailcow-dockerized/commit/4c5f48558782320905b10d7d10962fd509f68fbd,https://da.gd/ijDYoQ
+GithubCommit,update README.md to include first 50 and 100$ monthly sponsors,https://github.com/mailcow/mailcow-dockerized/commit/a92832d115922cb11b2387c25919da804f708c4d,https://da.gd/EJyY
+GithubCommit,Fix sasl_logs,https://github.com/mailcow/mailcow-dockerized/commit/805634f9a94529a2c611100aed22f5c0b2d11b34,https://da.gd/rf7ilK
+GithubCommit,[Web] Fix transport routing test,https://github.com/mailcow/mailcow-dockerized/commit/ceeabded73c66c8022eeac69721908f3f1c90d46,https://da.gd/FX36w
+GithubCommit,[Web] Prevent user sync for mismatched authsource,https://github.com/mailcow/mailcow-dockerized/commit/e65478076b48e6986f0bec0e8b5020697192340d,https://da.gd/592H
+GithubCommit,[Web] Check app password before user password on web login,https://github.com/mailcow/mailcow-dockerized/commit/62f816e64a964a0eb3c9243595b6ffedff897cc6,https://da.gd/UW6Rb
+GithubCommit,[Dovecot] Add service for authentication cache_key,https://github.com/mailcow/mailcow-dockerized/commit/6794e6ff43449d34397e40931310169658c84ac4,https://da.gd/J9mh4
+GithubCommit,Merge pull request #6450 from mailcow/fix/sasl_logs,https://github.com/mailcow/mailcow-dockerized/commit/3758135dc34e1d655abf7a3fb2ec2eb4d463a071,https://da.gd/uBn4L
+GithubCommit,Merge pull request #6451 from mailcow/fix/6437,https://github.com/mailcow/mailcow-dockerized/commit/34e4f93db93f8a1a73447a5e663623d1fd5052f2,https://da.gd/xjSGmJ
+GithubCommit,Merge pull request #6438 from mailcow/fix/6405,https://github.com/mailcow/mailcow-dockerized/commit/741e5c719fc66743646ec1d158bc6823bda56e04,https://da.gd/K273JM
+GithubCommit,Merge pull request #6426 from sardaukar/fix/typo-on-backup-and-restor…,https://github.com/mailcow/mailcow-dockerized/commit/a741c2ba4a1741de2d30b885e76d2dc2254d51ee,https://da.gd/MabgJw
+GithubCommit,Merge pull request #6439 from mailcow/fix/6430,https://github.com/mailcow/mailcow-dockerized/commit/153890b2831362d187fef1880dc67ab6df23398c,https://da.gd/GIo60
+GithubCommit,Merge branch 'fix/dovecot-lua-timeout' into staging,https://github.com/mailcow/mailcow-dockerized/commit/428a59dd3f2892d2c25e8bc08fab18c34445ab1f,https://da.gd/aumXo
+GithubCommit,[Web] Improve clarity of LDAP SSL/TLS settings,https://github.com/mailcow/mailcow-dockerized/commit/402bf53a5c24ac34ca7df63396640c9c0f2dc21c,https://da.gd/mvnARP
+GithubCommit,[Web] Update LDAP SSL/TLS tooltips,https://github.com/mailcow/mailcow-dockerized/commit/0eb8f3879264288c5d586f8086a419cd8d03c008,https://da.gd/pugaUV
+GithubCommit,[Web] Update 2FA Info tooltip,https://github.com/mailcow/mailcow-dockerized/commit/2c10c39bc4def2ecde8c1df9cf40487a0a4c08dd,https://da.gd/Ph79o
+GithubCommit,Merge pull request #6460 from mailcow/ui/improve-ldap-ssl-labels,https://github.com/mailcow/mailcow-dockerized/commit/3ddad9dee88ce9705c526f6ba92fd93d96b39dcc,https://da.gd/2Hr5px
+GithubCommit,Merge pull request #6468 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/3f493e043d9eb39372c015ab1a10ac691e2cd1dd,https://da.gd/1mWdm
