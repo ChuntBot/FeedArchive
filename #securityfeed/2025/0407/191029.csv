@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f7f6-9jq7-3rqj] estree-util-value-to-estree allows prototype pollution in generated ESTree,https://github.com/advisories/GHSA-f7f6-9jq7-3rqj,https://da.gd/DaPG12
+GithubAdvisories,[GHSA-7mpv-9xg6-5r79] Apollo Compiler Named Fragment Processing Vulnerability,https://github.com/advisories/GHSA-7mpv-9xg6-5r79,https://da.gd/CmsCi
+GithubAdvisories,[GHSA-p2q6-pwh5-m6jr] Apollo Gateway Query Planner Vulnerable to Excessive Resource Consumption via Optimization Bypass,https://github.com/advisories/GHSA-p2q6-pwh5-m6jr,https://da.gd/MPG6p
+GithubAdvisories,[GHSA-q2f9-x4p4-7xmh] Apollo Gateway Query Planner Vulnerable to Excessive Resource Consumption via Named Fragment Expansion,https://github.com/advisories/GHSA-q2f9-x4p4-7xmh,https://da.gd/HqoA7
+GithubAdvisories,[GHSA-3j43-9v8v-cp3f] Apollo Router Query Validation Vulnerable to Excessive Resource Consumption via Named Fragment Processing,https://github.com/advisories/GHSA-3j43-9v8v-cp3f,https://da.gd/rPm6ON
+GithubAdvisories,[GHSA-84m6-5m72-45fp] Apollo Router Operation Limits Vulnerable to Bypass via Integer Overflow,https://github.com/advisories/GHSA-84m6-5m72-45fp,https://da.gd/tPCENe
+GithubAdvisories,[GHSA-75m2-jhh5-j5g2] Apollo Router Query Planner Vulnerable to Excessive Resource Consumption via Named Fragment Expansion,https://github.com/advisories/GHSA-75m2-jhh5-j5g2,https://da.gd/cpcE0
+GithubAdvisories,[GHSA-94hh-jmq8-2fgp] Apollo Router Query Planner Vulnerable to Excessive Resource Consumption via Optimization Bypass,https://github.com/advisories/GHSA-94hh-jmq8-2fgp,https://da.gd/7QYk4
+GithubAdvisories,[GHSA-9c4c-g95m-c8cp] FlowiseDB vulnerable to SQL Injection by authenticated users,https://github.com/advisories/GHSA-9c4c-g95m-c8cp,https://da.gd/JoR68C
+GithubAdvisories,[GHSA-fj43-3qmq-673f] Picklescan failed to detect to some unsafe global function in Numpy library,https://github.com/advisories/GHSA-fj43-3qmq-673f,https://da.gd/uuQGVr
+GithubAdvisories,[GHSA-93mv-x874-956g] Picklescan Vulnerable to Exfiltration via DNS via linecache and ssl.get_server_certificate,https://github.com/advisories/GHSA-93mv-x874-956g,https://da.gd/C8RLGe
+GithubAdvisories,[GHSA-hpqf-m68j-2pfx] js-object-utilities Vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-hpqf-m68j-2pfx,https://da.gd/HjvF9
