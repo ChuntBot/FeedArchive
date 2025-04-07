@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4hwx-xcc5-2hfc] tarteaucitron.js allows prototype pollution via custom text injection,https://github.com/advisories/GHSA-4hwx-xcc5-2hfc,https://da.gd/Demd
+GithubAdvisories,[GHSA-7524-3396-fqv3] tarteaucitron.js allows UI manipulation via unrestricted CSS injection,https://github.com/advisories/GHSA-7524-3396-fqv3,https://da.gd/uVw7M1
+GithubAdvisories,[GHSA-q7g5-jq6p-6wvx] Graylog's Authenticated HTTP inputs ingest message even if Authorization header is missing or has wrong value,https://github.com/advisories/GHSA-q7g5-jq6p-6wvx,https://da.gd/BwxNa
