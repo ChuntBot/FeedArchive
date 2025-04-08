@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-68wv-g3fw-pq7q] Shopware Broken ACL on Document retrieval to access other customers documents,https://github.com/advisories/GHSA-68wv-g3fw-pq7q,https://da.gd/Agoyp
+GithubAdvisories,[GHSA-8g35-7rmw-7f59] Shopware Vulnerable to Blind SQL-injection in DAL aggregations,https://github.com/advisories/GHSA-8g35-7rmw-7f59,https://da.gd/PVN5
