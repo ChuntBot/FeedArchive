@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x82r-6j37-vrgg] Pimcore's Admin Classic Bundle allows HTML Injection,https://github.com/advisories/GHSA-x82r-6j37-vrgg,https://da.gd/xSCd
+GithubAdvisories,[GHSA-cgfj-hj93-rmh2] Shopware allows Denial Of Service via password length,https://github.com/advisories/GHSA-cgfj-hj93-rmh2,https://da.gd/Y6kC
+GithubAdvisories,[GHSA-hh7j-6x3q-f52h] Shopware 6 allows attackers to check for registered accounts through the store-api,https://github.com/advisories/GHSA-hh7j-6x3q-f52h,https://da.gd/GkT4
