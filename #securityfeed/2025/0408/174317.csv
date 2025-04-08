@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wr2m-38xh-rpc9] Lemmy user purging users or communities or banning users can delete images they didn't upload/exclusively use,https://github.com/advisories/GHSA-wr2m-38xh-rpc9,https://da.gd/6L11
