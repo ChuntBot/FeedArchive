@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q62r-8ppj-xvf4] Umbraco has a Management API Vulnerability to Path Traversal With Authenticated Users,https://github.com/advisories/GHSA-q62r-8ppj-xvf4,https://da.gd/LQUds
