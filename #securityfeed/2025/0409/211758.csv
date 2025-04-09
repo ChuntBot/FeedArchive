@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xvx2-wqf5-jjgv] typo3/cms-felogin Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-xvx2-wqf5-jjgv,https://da.gd/Vfp7w
+GithubAdvisories,"[GHSA-mxr8-pcpg-m23j] Joomla! doesn't configure .htaccess to apply certain security checks that ""block common exploits"" to SEF URLs",https://github.com/advisories/GHSA-mxr8-pcpg-m23j,https://da.gd/9E3hMm
+GithubAdvisories,[GHSA-8xqm-3qm5-qhfv] Joomla! allows attackers to access cached pages,https://github.com/advisories/GHSA-8xqm-3qm5-qhfv,https://da.gd/J7QgC
