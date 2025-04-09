@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pm5m-9h5r-xcrg] phpMyAdmin extension for TYPO3 has Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-pm5m-9h5r-xcrg,https://da.gd/bdC7ha
+GithubAdvisories,[GHSA-rpq8-q44m-2rpg] Microsoft Identity Web Exposes Client Secrets and Certificate Information in Service Logs,https://github.com/advisories/GHSA-rpq8-q44m-2rpg,https://da.gd/z2cua
