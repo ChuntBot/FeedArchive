@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5pm7-cp8f-p2c2] wallabag/wallabag Has Multiple Cross-Site Request Forgery (CSRF) Vulnerabilities,https://github.com/advisories/GHSA-5pm7-cp8f-p2c2,https://da.gd/mJumPX
+GithubAdvisories,[GHSA-389x-67px-mjg3] xgrammar Vulnerable to Denial of Service (DoS) by abusing unbounded cache in memory,https://github.com/advisories/GHSA-389x-67px-mjg3,https://da.gd/E1Mwle
+GithubAdvisories,[GHSA-44v2-prcf-pc3m] Joomla Framework Database Package Vulnerable to SQL Injection,https://github.com/advisories/GHSA-44v2-prcf-pc3m,https://da.gd/6Bwx1
+GithubAdvisories,[GHSA-6423-85cc-8gf6] Joomla CMS Multi-Factor Authentication Bypass,https://github.com/advisories/GHSA-6423-85cc-8gf6,https://da.gd/uorPrV
+GithubAdvisories,[GHSA-5xm9-x7x4-4j5x] Elasticsearch Vulnerable to Stack Overflow due to a Large Recursion,https://github.com/advisories/GHSA-5xm9-x7x4-4j5x,https://da.gd/HIzOw5
+GithubAdvisories,[GHSA-ghfh-p92w-j4mg] Elasticsearch Potential Node Crash due to Large Recursion in `innerForbidCircularReferences` Function,https://github.com/advisories/GHSA-ghfh-p92w-j4mg,https://da.gd/ju9WPM
+GithubAdvisories,[GHSA-6jrf-4jv4-r9mw] tendermint-rs's Light Client Verifier allows malicious validators to spoof votes from other validators,https://github.com/advisories/GHSA-6jrf-4jv4-r9mw,https://da.gd/miOi
+GithubAdvisories,[GHSA-x2rg-q646-7m2v] Koajs vulnerable to Cross-Site Scripting (XSS) at ctx.redirect() function,https://github.com/advisories/GHSA-x2rg-q646-7m2v,https://da.gd/vj5gGp
+GithubAdvisories,[GHSA-7v4r-c989-xh26] BentoML's runner server Vulnerable to Remote Code Execution (RCE) via Insecure Deserialization,https://github.com/advisories/GHSA-7v4r-c989-xh26,https://da.gd/hLqZr5
+GithubAdvisories,[GHSA-3f7v-qx94-666m] DotNetNuke.Core Vulnerable to Server-Side Request Forgery (SSRF),https://github.com/advisories/GHSA-3f7v-qx94-666m,https://da.gd/qDyqVh
+GithubAdvisories,[GHSA-fmhh-rw3h-785m] bep/imagemeta allows a potentially large memory allocation in PNG and WebP parsing,https://github.com/advisories/GHSA-fmhh-rw3h-785m,https://da.gd/Kmmf
+GithubAdvisories,[GHSA-q7rw-w4cq-2j6w] bep/imagemeta allows excessively large EXIF data structures,https://github.com/advisories/GHSA-q7rw-w4cq-2j6w,https://da.gd/qxQj
+GithubAdvisories,[GHSA-9r25-rp3p-h2w4] crud-query-parser SQL Injection vulnerability,https://github.com/advisories/GHSA-9r25-rp3p-h2w4,https://da.gd/OlggN
