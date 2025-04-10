@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gvwq-6fmx-28xm] node-opcua-alarm-condition prototype pollution vulnerability,https://github.com/advisories/GHSA-gvwq-6fmx-28xm,https://da.gd/PcvX
+GithubAdvisories,[GHSA-99wg-vmvq-2cp5] RaspAP Vulnerable to Code Injection via an Unknown Process in File `includes/provider.php`,https://github.com/advisories/GHSA-99wg-vmvq-2cp5,https://da.gd/iOz1w
+GithubAdvisories,[GHSA-rcqj-3fmp-5cqx] Apache Pulsar Kafka Connector Logs Sensitive Information in Application Logs,https://github.com/advisories/GHSA-rcqj-3fmp-5cqx,https://da.gd/jxusk
+GithubAdvisories,[GHSA-cj3w-g42v-wcj6] ibexa/fieldtype-richtext allows access to external entities in XML,https://github.com/advisories/GHSA-cj3w-g42v-wcj6,https://da.gd/AvLOlf
+GithubAdvisories,[GHSA-2jqj-5qv2-xvcg] ezsystems/ezplatform-richtext allows access to external entities in XML,https://github.com/advisories/GHSA-2jqj-5qv2-xvcg,https://da.gd/fYOg6
+GithubAdvisories,[GHSA-mgw4-gv3f-g57j] TYPO3 powermail Extension Vulnerable to SQL Injection via Unspecified Vectors,https://github.com/advisories/GHSA-mgw4-gv3f-g57j,https://da.gd/p1IePA
+GithubAdvisories,[GHSA-p65f-652v-35r2] TYPO3 Simple Download-System with Counter and Categories Vulnerable to Information Disclosure,https://github.com/advisories/GHSA-p65f-652v-35r2,https://da.gd/gRf2F
