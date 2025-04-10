@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,"How a critical RCE vulnerability in Calix's CWMP service allows attackers to execute system commands as root due to improper input sanitization, leading to full system compromise",https://redd.it/1jvy5n7,
