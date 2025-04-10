@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m8c5-5g3h-jjfg] freeCap CAPTCHA extension for TYPO3 has vulnerability in the session handling feature,https://github.com/advisories/GHSA-m8c5-5g3h-jjfg,https://da.gd/oTHgat
+GithubAdvisories,[GHSA-rjrq-93hp-22ww] Frontend User Registration extension for TYPO3 does not properly verify access rights,https://github.com/advisories/GHSA-rjrq-93hp-22ww,https://da.gd/pOy3Sd
+GithubAdvisories,[GHSA-c22j-84c7-cm77] TYPO3 leaks a hash secret in an error message,https://github.com/advisories/GHSA-c22j-84c7-cm77,https://da.gd/MGVw27
+GithubAdvisories,[GHSA-qrw3-mq8r-cq7q] AdaptCMS SQL Injection vulnerability,https://github.com/advisories/GHSA-qrw3-mq8r-cq7q,https://da.gd/hDbICt
