@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ggwg-cmwp-46r5] yiisoft/yii2 Mishandles the Attaching of Behavior Defined by a `__class` Array Key,https://github.com/advisories/GHSA-ggwg-cmwp-46r5,https://da.gd/y9U76
