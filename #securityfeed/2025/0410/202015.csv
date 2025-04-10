@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-256q-hx8w-xcqx] Silverstripe Framework user enumeration via timing attack on login and password reset forms,https://github.com/advisories/GHSA-256q-hx8w-xcqx,https://da.gd/o9tt5
