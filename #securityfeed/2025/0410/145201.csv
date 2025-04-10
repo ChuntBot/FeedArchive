@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pg9f-39pc-qf8g] crossbeam-channel Vulnerable to Double Free on Drop,https://github.com/advisories/GHSA-pg9f-39pc-qf8g,https://da.gd/SsRVW
+GithubAdvisories,[GHSA-cc8j-6phr-jv9x] Withdrawn Advisory: Mobile Security Framework (MobSF) Vulnerable to Insecure Permissions,https://github.com/advisories/GHSA-cc8j-6phr-jv9x,https://da.gd/gYrRr
+GithubAdvisories,[GHSA-pm4j-p7pm-fpvx] Apache ActiveMQ Artemis Vulnerable to Insertion of Sensitive Information into Log File,https://github.com/advisories/GHSA-pm4j-p7pm-fpvx,https://da.gd/0ypfl
