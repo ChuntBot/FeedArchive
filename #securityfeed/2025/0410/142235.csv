@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gjx9-wg9x-7gvp] Flowise Vulnerable to SQL Injection via `tableName` Parameter,https://github.com/advisories/GHSA-gjx9-wg9x-7gvp,https://da.gd/C3lLJr
