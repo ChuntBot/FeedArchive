@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2cvj-g5r5-jrrg] SurrealDB has local file read of 2-column TSV files via analyzers,https://github.com/advisories/GHSA-2cvj-g5r5-jrrg,https://da.gd/BaN6
+GithubAdvisories,[GHSA-m7rc-8w7m-r9qr] SurrealDB vulnerable to memory exhaustion via nested functions and scripts,https://github.com/advisories/GHSA-m7rc-8w7m-r9qr,https://da.gd/chp4
+GithubAdvisories,[GHSA-rq86-9m6r-cm3g] SurrealDB has uncaught exception in Net module that leads to database crash,https://github.com/advisories/GHSA-rq86-9m6r-cm3g,https://da.gd/BBS2mH
