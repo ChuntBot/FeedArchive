@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5xqw-8hwv-wg92] Helm Allows A Specially Crafted JSON Schema To Cause A Stack Overflow,https://github.com/advisories/GHSA-5xqw-8hwv-wg92,https://da.gd/fwEs
+GithubAdvisories,[GHSA-4hfp-h4cw-hj8p] Helm Allows A Specially Crafted Chart Archive To Cause Out Of Memory Termination,https://github.com/advisories/GHSA-4hfp-h4cw-hj8p,https://da.gd/csOco
+GithubAdvisories,[GHSA-gmg8-593g-7mv3] Apache POI OOXML Vulnerable to Improper Input Validation in OOXML File Parsing,https://github.com/advisories/GHSA-gmg8-593g-7mv3,https://da.gd/PELWZL
+GithubAdvisories,[GHSA-rhx4-hvx9-j387] Silverstripe Framework has a XSS vulnerability in HTML editor,https://github.com/advisories/GHSA-rhx4-hvx9-j387,https://da.gd/2RxrI
+GithubAdvisories,"[GHSA-x8xm-c7p8-2pj2] Silverstripe cross-site scripting (XSS) attack in elemental ""Content blocks in use"" report",https://github.com/advisories/GHSA-x8xm-c7p8-2pj2,https://da.gd/cwBCBS
