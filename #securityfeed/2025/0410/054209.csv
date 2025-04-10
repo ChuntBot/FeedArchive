@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Mageia 9: 2025-0131 moderate: xz heap-use-after-free advisory,https://linuxsecurity.com/advisories/mageia/mageia-2025-0131-xz-dwxm7adyord3,https://da.gd/Ui5O
+LinuxSecurity,Mageia 9 MGASA-2025-0130: containerd bug causes root access from overflow,https://linuxsecurity.com/advisories/mageia/mageia-2025-0130-docker-containerd-9y6trz08hhmj,https://da.gd/w102qC
+LinuxSecurity,Mageia 9: 2025-0129 moderate security issue with atop denial of service,https://linuxsecurity.com/advisories/mageia/mageia-2025-0129-atop-dy8loxjg9k0d,https://da.gd/CNl9J
+LinuxSecurity,Ubuntu 16.04/18.04 LTS USN-7426-2: resolution for poppler crash problem,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7426-2-poppler-jehqnfx3o1iq,https://da.gd/A9L3w
