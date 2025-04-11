@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xfq9-hh5x-xfq9] Mattermost Fails to Enforce Proper Access Controls on `/api/v4/audits` Endpoint,https://github.com/advisories/GHSA-xfq9-hh5x-xfq9,https://da.gd/sMl87
+GithubAdvisories,[GHSA-5q9x-554g-9jgg] SurrealDB bypass of deny-net flags via redirect results in server-side request forgery (SSRF),https://github.com/advisories/GHSA-5q9x-554g-9jgg,https://da.gd/pMAOZ
+GithubAdvisories,[GHSA-pxw4-94j3-v9pf] SurrealDB CPU exhaustion via custom functions result in total DoS,https://github.com/advisories/GHSA-pxw4-94j3-v9pf,https://da.gd/T9HX
+GithubAdvisories,[GHSA-3824-qmfq-2qv7] SurrealDB no JavaScript script function default timeout could facilitate DoS,https://github.com/advisories/GHSA-3824-qmfq-2qv7,https://da.gd/Pmn30
+GithubAdvisories,[GHSA-3633-g6mg-p6qq] SurrealDB memory exhaustion via string::replace using regex,https://github.com/advisories/GHSA-3633-g6mg-p6qq,https://da.gd/PfCRA7
+GithubAdvisories,[GHSA-ccj3-5p93-8p42] SurrealDB server-takeover via SurrealQL injection on backup import,https://github.com/advisories/GHSA-ccj3-5p93-8p42,https://da.gd/E439
+GithubAdvisories,[GHSA-356w-63v5-8wf4] Vite has an `server.fs.deny` bypass with an invalid `request-target`,https://github.com/advisories/GHSA-356w-63v5-8wf4,https://da.gd/O5zJwB
+GithubAdvisories,[GHSA-7r2v-8wxr-3ch5] Yii does not prevent XSS in scenarios where fallback error renderer is used,https://github.com/advisories/GHSA-7r2v-8wxr-3ch5,https://da.gd/NXE0E3
