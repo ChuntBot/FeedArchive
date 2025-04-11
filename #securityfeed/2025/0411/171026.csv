@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,SUSE Linux 15 SP6: 2025:1199-1 moderate: fontforge command injection,https://linuxsecurity.com/advisories/suse/suse-2025-1199-1-moderate-fontforge-rkovwrm7cwhx,https://da.gd/dIwRu
+LinuxSecurity,openSUSE 15.6: 2025:1199-1 moderate: fontforge command injection fix,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-1199-1-moderate-fontforge-i0oumdnfjxg5,https://da.gd/HsdYVF
+LinuxSecurity,SUSE: 2025:1201-1 critical: fix for expat stack overflow vulnerability,https://linuxsecurity.com/advisories/suse/suse-2025-1201-1-important-expat-wujpkaucshls,https://da.gd/k5o6kq
+LinuxSecurity,openSUSE 15.4/15.6: SUSE-SU-2025:1201-1 important: expat DoS,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-1201-1-important-expat-pugkn1tj8zbq,https://da.gd/6xK3xs
