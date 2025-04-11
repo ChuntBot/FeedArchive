@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hhxf-w8hj-43w6] Moodle vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-hhxf-w8hj-43w6,https://da.gd/SXeVXE
+GithubAdvisories,[GHSA-5fgv-cvr8-xg48] Moodle vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-5fgv-cvr8-xg48,https://da.gd/8mOAM
+GithubAdvisories,[GHSA-j5rc-cr5w-vfg6] Moodle Session Fixation vulnerability,https://github.com/advisories/GHSA-j5rc-cr5w-vfg6,https://da.gd/vuHCJ
+GithubAdvisories,[GHSA-wg4m-vvp6-2hc5] SilverStripe vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-wg4m-vvp6-2hc5,https://da.gd/X8lWa
+GithubAdvisories,[GHSA-mp9g-4rg9-8rcm] Accessibility Glossary (a21glossary) SQL injection vulnerability,https://github.com/advisories/GHSA-mp9g-4rg9-8rcm,https://da.gd/gKyJD
+GithubAdvisories,[GHSA-4h9j-f98m-p4hg] TYPO3 PHP remote file inclusion vulnerability,https://github.com/advisories/GHSA-4h9j-f98m-p4hg,https://da.gd/522FQ
+GithubAdvisories,[GHSA-2xm2-23ff-p8ww] Formie has XSS vulnerability for email notification content for preview,https://github.com/advisories/GHSA-2xm2-23ff-p8ww,https://da.gd/eCLMmj
+GithubAdvisories,[GHSA-p9hh-mh5x-wvx3] Formie has XSS vulnerability for importing forms,https://github.com/advisories/GHSA-p9hh-mh5x-wvx3,https://da.gd/zBdpg
