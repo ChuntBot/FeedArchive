@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+ExploitDB,[local] qBittorrent 5.0.1 - MITM RCE,https://www.exploit-db.com/exploits/52190,https://da.gd/I3P40
+ExploitDB,[webapps] GeoVision GV-ASManager 6.1.0.0 - Broken Access Control,https://www.exploit-db.com/exploits/52189,https://da.gd/LoSNZp
+ExploitDB,[hardware] ABB Cylon FLXeon 9.3.4 - Remote Code Execution (Authenticated),https://www.exploit-db.com/exploits/52188,https://da.gd/3DAxRs
+ExploitDB,[webapps] GeoVision GV-ASManager 6.1.1.0 - CSRF,https://www.exploit-db.com/exploits/52187,https://da.gd/GbOhy
+ExploitDB,[hardware] ABB Cylon FLXeon 9.3.4 - Remote Code Execution (RCE),https://www.exploit-db.com/exploits/52186,https://da.gd/cEt0k
+ExploitDB,[webapps] WebFileSys 2.31.0 - Directory Path Traversal,https://www.exploit-db.com/exploits/52185,https://da.gd/pzJWAh
+ExploitDB,[hardware] ABB Cylon FLXeon 9.3.4 - WebSocket Command Spawning,https://www.exploit-db.com/exploits/52184,https://da.gd/eGsgu
+ExploitDB,[hardware] Netman 204 - Remote command without authentication,https://www.exploit-db.com/exploits/52183,https://da.gd/DBdy9
+ExploitDB,[hardware] ABB Cylon Aspect 3.08.02 - PHP Session Fixation,https://www.exploit-db.com/exploits/52182,https://da.gd/S93P
+ExploitDB,[webapps] CMU CERT/CC VINCE 2.0.6 - Stored XSS,https://www.exploit-db.com/exploits/52181,https://da.gd/jp1iW
+ExploitDB,[hardware] ABB Cylon FLXeon 9.3.4 - Cross-Site Request Forgery,https://www.exploit-db.com/exploits/52180,https://da.gd/NBTVk
