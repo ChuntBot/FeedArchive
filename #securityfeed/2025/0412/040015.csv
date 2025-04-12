@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f87w-3j5w-v58p] CefSharp affected by incorrect handle provided in unspecified circumstances in Mojo on Windows,https://github.com/advisories/GHSA-f87w-3j5w-v58p,https://da.gd/37g2ty
+GithubAdvisories,[GHSA-vrq4-9hc3-cgp7] TigerVNC accessible via the network and not just via a UNIX socket as intended,https://github.com/advisories/GHSA-vrq4-9hc3-cgp7,https://da.gd/cvFa1p
+GithubAdvisories,[GHSA-m454-3xv7-qj85] CVE-2025-1386- Query smuggling in ch-go library,https://github.com/advisories/GHSA-m454-3xv7-qj85,https://da.gd/D3aXsp
+GithubAdvisories,[GHSA-5xmg-w578-gq5j] Joomla! Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-5xmg-w578-gq5j,https://da.gd/CuElM
+GithubAdvisories,[GHSA-6p8h-36qp-8h72] Static Info Tables (static_info_tables) extension TYPO3 vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-6p8h-36qp-8h72,https://da.gd/LxY4Pb
+GithubAdvisories,[GHSA-r3rw-h5v8-ff6h] CoolURI extension for TYPO3 vulnerable to SQL Injection,https://github.com/advisories/GHSA-r3rw-h5v8-ff6h,https://da.gd/zwET
+GithubAdvisories,[GHSA-4mm3-xgc2-656r] Static Methods since 2007 (div2007) extension for TYPO3 vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-4mm3-xgc2-656r,https://da.gd/KxiAaR
