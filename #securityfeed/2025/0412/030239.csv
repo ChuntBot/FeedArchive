@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m4hw-r893-xh4g] TYPO3 allows remote authenticated backend users to unserialize arbitrary objects,https://github.com/advisories/GHSA-m4hw-r893-xh4g,https://da.gd/4nyjt
+GithubAdvisories,[GHSA-q68v-vcjg-r3vp] TYPO3 allows remote attackers to obtain the database name via a direct request,https://github.com/advisories/GHSA-q68v-vcjg-r3vp,https://da.gd/jmBnV
+GithubAdvisories,"[GHSA-p332-fw36-4hqx] Caucho Quercus, as distributed in Resin, does not properly handle unspecified characters in the names of variables",https://github.com/advisories/GHSA-p332-fw36-4hqx,https://da.gd/1O9j
+GithubAdvisories,"[GHSA-g5fx-ccwv-5c4f] Caucho Quercus, as distributed in Resin, overwrites entries in SERVER superglobal array on basis of POST parameters",https://github.com/advisories/GHSA-g5fx-ccwv-5c4f,https://da.gd/lS0yO5
+GithubAdvisories,"[GHSA-2qr7-8fp8-4xxr] Caucho Quercus, as distributed in Resin, does not properly implement the `==` operator for comparisons",https://github.com/advisories/GHSA-2qr7-8fp8-4xxr,https://da.gd/RDSUP6
+GithubAdvisories,[GHSA-62wv-866c-rh86] Moodle does not properly restrict comment capabilities,https://github.com/advisories/GHSA-62wv-866c-rh86,https://da.gd/s3NW5
+GithubAdvisories,[GHSA-86v9-gqh9-8268] Moodle vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-86v9-gqh9-8268,https://da.gd/U18p7y
+GithubAdvisories,[GHSA-phqj-xp48-7p7c] Moodle does not use the forceloginforprofiles setting for course-profiles access control,https://github.com/advisories/GHSA-phqj-xp48-7p7c,https://da.gd/Tlvzn
+GithubAdvisories,[GHSA-m97f-x4mr-4x3q] Moodle vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-m97f-x4mr-4x3q,https://da.gd/KHwFZ
+GithubAdvisories,[GHSA-6xqg-f34f-5fjx] Moodle vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-6xqg-f34f-5fjx,https://da.gd/065Yp
+GithubAdvisories,[GHSA-mw6p-49jf-9935] Moodle allows remote attackers to obtain sensitive information from myprofile block by visiting user-context page,https://github.com/advisories/GHSA-mw6p-49jf-9935,https://da.gd/QZvGf2
+GithubAdvisories,[GHSA-j3x5-cwfj-pfcw] Moodle does not force password changes for autosubscribed users,https://github.com/advisories/GHSA-j3x5-cwfj-pfcw,https://da.gd/ll3xci
+GithubAdvisories,[GHSA-m2pf-4pf8-45j2] Moodle allows remote authenticated users to cause a denial of service (invalid database records),https://github.com/advisories/GHSA-m2pf-4pf8-45j2,https://da.gd/r0DsU
+GithubAdvisories,[GHSA-3qg4-2fcm-c8f9] Moodle does not recogniz configuration setting that makes e-mail addresses visible only to course members,https://github.com/advisories/GHSA-3qg4-2fcm-c8f9,https://da.gd/ZJ28
+GithubAdvisories,[GHSA-frv8-xjcp-hrm2] phpMyAdmin Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-frv8-xjcp-hrm2,https://da.gd/t9mXnM
+GithubAdvisories,[GHSA-m3xp-4hf3-qfpp] Moodle allows remote attackers to obtain sensitive information,https://github.com/advisories/GHSA-m3xp-4hf3-qfpp,https://da.gd/Eoiyfi
+GithubAdvisories,[GHSA-7cvw-wrj9-q5fp] Moodle vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-7cvw-wrj9-q5fp,https://da.gd/zqIvzJ
+GithubAdvisories,[GHSA-fhgh-fjh9-vq62] Moodle allows remote authenticated users to cause a denial of service (invalid database records),https://github.com/advisories/GHSA-fhgh-fjh9-vq62,https://da.gd/BDFcw
+GithubAdvisories,[GHSA-h6px-pvfh-q2jv] Moodle vulnerable to Cross-Site Scripting,https://github.com/advisories/GHSA-h6px-pvfh-q2jv,https://da.gd/9fAcU
+GithubAdvisories,[GHSA-8hxm-42v5-66hm] Moodle vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-8hxm-42v5-66hm,https://da.gd/ajuUz
+GithubAdvisories,[GHSA-42vg-q6mw-cfh5] dotCMS allows remote authenticated users to execute arbitrary Java code,https://github.com/advisories/GHSA-42vg-q6mw-cfh5,https://da.gd/nPVd03
+GithubAdvisories,[GHSA-66j3-66cp-6c2m] TYPO3 Path Traversal vulnerability,https://github.com/advisories/GHSA-66j3-66cp-6c2m,https://da.gd/WmAr
