@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r2w2-2r2x-fpcx] TYPO3 SQL Injection vulnerability,https://github.com/advisories/GHSA-r2w2-2r2x-fpcx,https://da.gd/HSCOPv
+GithubAdvisories,[GHSA-rmqc-wfjm-3f66] TYPO3 Directory Traversal vulnerability,https://github.com/advisories/GHSA-rmqc-wfjm-3f66,https://da.gd/EnhuC
+GithubAdvisories,[GHSA-wvq5-72qp-grjw] Symphony CMS vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-wvq5-72qp-grjw,https://da.gd/ooXe
+GithubAdvisories,[GHSA-j473-c3rr-rx9p] OpenID4Java does not verify that Attribute Exchange (AX) information is signed,https://github.com/advisories/GHSA-j473-c3rr-rx9p,https://da.gd/crYC
+GithubAdvisories,[GHSA-2h23-c973-x63q] phpMyAdmin Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-2h23-c973-x63q,https://da.gd/CKfBh
+GithubAdvisories,[GHSA-9j9h-cpgc-8356] phpMyAdmin vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-9j9h-cpgc-8356,https://da.gd/tSLjqC
+GithubAdvisories,[GHSA-hq9x-8m8j-5hmh] Joomla! vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-hq9x-8m8j-5hmh,https://da.gd/hxe9n
+GithubAdvisories,[GHSA-xq29-jcj7-xg86] Webkit PDFs for TYPO3 allows remote attackers to execute arbitrary commands,https://github.com/advisories/GHSA-xq29-jcj7-xg86,https://da.gd/w8Ia5
+GithubAdvisories,[GHSA-9568-hcj9-rf7v] Webkit PDFs for TYPO3 has SQL Injection vulnerability,https://github.com/advisories/GHSA-9568-hcj9-rf7v,https://da.gd/Q3Gz
