@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rmc9-5546-5rrf] Commerce extension for TYPO3 vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-rmc9-5546-5rrf,https://da.gd/09CWfK
+GithubAdvisories,[GHSA-fj57-vhrc-73r7] Joomla! vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-fj57-vhrc-73r7,https://da.gd/X15Qz
+GithubAdvisories,[GHSA-q53j-c866-h9mw] Moodle doesn't properly check role,https://github.com/advisories/GHSA-q53j-c866-h9mw,https://da.gd/8JZfFv
+GithubAdvisories,[GHSA-9xp2-5fr9-7mwm] Moodle vulnerable to SQL injection,https://github.com/advisories/GHSA-9xp2-5fr9-7mwm,https://da.gd/EgR6V
