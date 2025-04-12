@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5fpj-6vq6-fmwh] Piwik (now Matomo) Vulnerable to Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-5fpj-6vq6-fmwh,https://da.gd/P1Gh
+GithubAdvisories,[GHSA-v8h8-93mx-82h5] Piwik (now Matomo) Reveals Sensitive Information by Accepting Input from `POST` Requests,https://github.com/advisories/GHSA-v8h8-93mx-82h5,https://da.gd/uKMJue
+GithubAdvisories,[GHSA-2qr8-h6pq-m27v] Piwik (now Matomo) Vulnerable to Arbitrary Code Execution,https://github.com/advisories/GHSA-2qr8-h6pq-m27v,https://da.gd/rKf0
+GithubAdvisories,[GHSA-qfxv-3ppc-7qg5] Apache Tomcat Vulnerable to Denial of Service (DoS) via Improper Handling of chunk extensions,https://github.com/advisories/GHSA-qfxv-3ppc-7qg5,https://da.gd/hSzqd
+GithubAdvisories,[GHSA-x4x9-4c65-73w8] Concrete5 Vulnerable to Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-x4x9-4c65-73w8,https://da.gd/rrkun4
+GithubAdvisories,[GHSA-4q58-5x28-53wv] phpMyAdmin Vulnerable to Cross-Site Scripting,https://github.com/advisories/GHSA-4q58-5x28-53wv,https://da.gd/ty7TF
