@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9ww8-j8j2-3788] YUI Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-9ww8-j8j2-3788,https://da.gd/fBzza
+GithubAdvisories,[GHSA-64r3-582j-frqm] YUI Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-64r3-582j-frqm,https://da.gd/6IYijT
+GithubAdvisories,[GHSA-x5hj-47vv-53p8] YUI Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-x5hj-47vv-53p8,https://da.gd/IuIjIK
+GithubAdvisories,[GHSA-m674-hmx2-ffhq] OpenStack Compute (Nova) does not verify the virtual size of a QCOW2 image,https://github.com/advisories/GHSA-m674-hmx2-ffhq,https://da.gd/LcZSY
+GithubAdvisories,[GHSA-rg6g-v4xm-g49q] News system (news) extension for TYPO3 vulnerable to SQL Injection,https://github.com/advisories/GHSA-rg6g-v4xm-g49q,https://da.gd/YnnbBE
+GithubAdvisories,[GHSA-c5x3-gq36-prrp] PHPUnit extension for TYPO3 vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-c5x3-gq36-prrp,https://da.gd/xGP5
+GithubAdvisories,[GHSA-v4fw-fh5c-xvjg] Multishop extension for TYPO3 has SQL Injection vulnerability,https://github.com/advisories/GHSA-v4fw-fh5c-xvjg,https://da.gd/cCOKv
+GithubAdvisories,[GHSA-7p53-8wjr-j8h4] Basic SEO Features (seo_basics) extension TYPO3 vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-7p53-8wjr-j8h4,https://da.gd/aV7L0
+GithubAdvisories,[GHSA-8cg3-jfjx-3pp2] powermail extension for TYPO3 has Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-8cg3-jfjx-3pp2,https://da.gd/fF9F
+GithubAdvisories,"[GHSA-m646-h2pw-56h4] Front End User Registration (sr_feuser_register) extension for TYPO3 allows remote attackers to obtain user names, passwords",https://github.com/advisories/GHSA-m646-h2pw-56h4,https://da.gd/0N5G
+GithubAdvisories,[GHSA-fr34-mx6j-vpxh] ImpressPages CMS eval injection vulnerability,https://github.com/advisories/GHSA-fr34-mx6j-vpxh,https://da.gd/tiUQ3u
