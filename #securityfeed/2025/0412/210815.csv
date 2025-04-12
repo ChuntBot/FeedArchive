@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+LinuxSecurity,openSUSE Tumbleweed: 2025:14986-1 moderate: python311-Django 5.1.8-1.1,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-14986-1-moderate-python311-django-5-1-8-1-1-onaruk6nppeo,https://da.gd/scu4Pc
+LinuxSecurity,openSUSE Tumbleweed: 2025:14987-1 moderate: python311-PyJWT update,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-14987-1-moderate-python311-pyjwt-2-10-1-2-1-mlxswsolbnb1,https://da.gd/zgybm0
+LinuxSecurity,Debian: DSA-5900-1 critical: linux kernel privilege escalation and DoS,https://linuxsecurity.com/advisories/debian/debian-dsa-5900-1-linux-nzwwzmpu5etb,https://da.gd/we8rt
