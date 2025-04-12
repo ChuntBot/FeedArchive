@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vcq7-x4wr-w2mj] Joomla! vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-vcq7-x4wr-w2mj,https://da.gd/ftsjFW
+GithubAdvisories,[GHSA-q6vw-39cg-wjjf] phpMyAdmin Directory Traversal vulnerability,https://github.com/advisories/GHSA-q6vw-39cg-wjjf,https://da.gd/JanFX
+GithubAdvisories,[GHSA-7382-fv7p-v9v3] Apache Continuum and Archiva vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-7382-fv7p-v9v3,https://da.gd/zlbE7Z
+GithubAdvisories,[GHSA-wcmm-28rg-mg3r] phpMyAdmin allows remote attackers to obtain installation path via direct request for nonexistent file,https://github.com/advisories/GHSA-wcmm-28rg-mg3r,https://da.gd/bdBjFM
+GithubAdvisories,[GHSA-gmc7-jvv7-w245] phpMyAdmin allows remote attackers to bypass authentication and obtain sensitive information,https://github.com/advisories/GHSA-gmc7-jvv7-w245,https://da.gd/w1zldv
+GithubAdvisories,[GHSA-5p54-jj38-3hxj] Apache Archiva does not require entry of the administrator's password at the time of modifying a user account,https://github.com/advisories/GHSA-5p54-jj38-3hxj,https://da.gd/ExC4qv
+GithubAdvisories,[GHSA-rp53-fw29-rxg3] powermail extension for TYPO3 vulnerable to SQL Injection,https://github.com/advisories/GHSA-rp53-fw29-rxg3,https://da.gd/2g589
+GithubAdvisories,[GHSA-5gx6-f2qq-475f] EGroupware Code Injection vulnerability,https://github.com/advisories/GHSA-5gx6-f2qq-475f,https://da.gd/Oi0Pst
+GithubAdvisories,[GHSA-74x7-mfvg-h2wf] MantisBT Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-74x7-mfvg-h2wf,https://da.gd/r1NIGy
