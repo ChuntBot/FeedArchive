@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian 11: DLA-4125-1 moderate: XSS in twitter-bootstrap4 carousel,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4125-1-twitter-bootstrap4-security-update-2ngcjtlds5ax,https://da.gd/lq7i2Y
+LinuxSecurity,Debian 11: DLA-4124-1 critical: bootstrap3 XSS vulnerabilities,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4124-1-twitter-bootstrap3-security-update-hdz9rghxxpbx,https://da.gd/TXovC0
+LinuxSecurity,Debian: DSA-5902-1 critical: perl buffer overflow exploitation,https://linuxsecurity.com/advisories/debian/debian-dsa-5902-1-perl-arpgnu6sldwj,https://da.gd/Za8ODX
+LinuxSecurity,Debian DSA-5901-1: addressing security vulnerabilities in mediawiki,https://linuxsecurity.com/advisories/debian/debian-dsa-5901-1-mediawiki-lekwbfjqd3tu,https://da.gd/B3wqYz
