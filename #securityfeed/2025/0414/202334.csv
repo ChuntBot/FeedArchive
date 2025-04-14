@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j5v7-9xr5-m7gx] TYPO3 Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-j5v7-9xr5-m7gx,https://da.gd/ZMsiu
+GithubAdvisories,[GHSA-xx7m-8rq2-cw2v] TYPO3 CMS indexed search Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-xx7m-8rq2-cw2v,https://da.gd/hZVP
+GithubAdvisories,[GHSA-3f58-74qw-ph75] TYPO3 allows remote attackers to embed Flash videos from external domain,https://github.com/advisories/GHSA-3f58-74qw-ph75,https://da.gd/IoCb1
