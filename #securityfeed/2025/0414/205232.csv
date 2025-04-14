@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qqg7-gcxw-gmj3] Apache Ranger allows users to bypass intended access restrictions via the REST API,https://github.com/advisories/GHSA-qqg7-gcxw-gmj3,https://da.gd/EsP7D
+GithubAdvisories,[GHSA-7ccv-hhvc-62hg] Apache Ranger allows users to bypass intended access restrictions via direct access to module URLs,https://github.com/advisories/GHSA-7ccv-hhvc-62hg,https://da.gd/wi1d
+GithubAdvisories,[GHSA-83m2-9g78-rrj4] Apache Ranger Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-83m2-9g78-rrj4,https://da.gd/zLFnR
+GithubAdvisories,[GHSA-88f6-79x2-xqf3] Apache Jetspeed vulnerable to SQL Injection,https://github.com/advisories/GHSA-88f6-79x2-xqf3,https://da.gd/4CLt8I
+GithubAdvisories,[GHSA-5pgm-9g57-3wc7] Apache Jetspeed vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-5pgm-9g57-3wc7,https://da.gd/ppe1gE
+GithubAdvisories,[GHSA-8xq7-7hcx-8p8g] Apache OpenMeetings Directory Traversal vulnerability,https://github.com/advisories/GHSA-8xq7-7hcx-8p8g,https://da.gd/iDlOvj
+GithubAdvisories,[GHSA-9q87-22gr-r8qf] WildFly has incomplete blacklist vulnerability,https://github.com/advisories/GHSA-9q87-22gr-r8qf,https://da.gd/rsTAYs
