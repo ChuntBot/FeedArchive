@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-377v-8637-6vq6] TYPO3 femanager extension allows remote frontend users to modify or delete records of other frontend users,https://github.com/advisories/GHSA-377v-8637-6vq6,https://da.gd/9V4dSq
+GithubAdvisories,[GHSA-m278-c6gg-4jrr] TYPO3 powermail extension has unrestricted file upload vulnerability,https://github.com/advisories/GHSA-m278-c6gg-4jrr,https://da.gd/SOiZ
+GithubAdvisories,[GHSA-8qhq-rq4j-8prj] Elasticsearch Logstash allows remote attackers to execute arbitrary commands,https://github.com/advisories/GHSA-8qhq-rq4j-8prj,https://da.gd/UJyaM6
