@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3988-q8q7-p787] ash_authentication has email link auto-click account confirmation vulnerability,https://github.com/advisories/GHSA-3988-q8q7-p787,https://da.gd/QAUEr
+GithubAdvisories,[GHSA-66rc-vg9f-48m7] jsonschema2pojo has Improper Restriction of Operations within the Bounds of a Memory Buffer,https://github.com/advisories/GHSA-66rc-vg9f-48m7,https://da.gd/mZeQdb
