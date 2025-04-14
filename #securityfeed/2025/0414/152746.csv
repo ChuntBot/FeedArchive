@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rq77-p4h8-4crw] gorilla/csrf CSRF vulnerability due to broken Referer validation,https://github.com/advisories/GHSA-rq77-p4h8-4crw,https://da.gd/1gt9Ed
+GithubAdvisories,[GHSA-vw58-ph65-6rxp] Directus inserts access token from query string into logs,https://github.com/advisories/GHSA-vw58-ph65-6rxp,https://da.gd/i5BvZc
