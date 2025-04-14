@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rh74-5835-jpxp] phpMyAdmin vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-rh74-5835-jpxp,https://da.gd/s9JnG
+GithubAdvisories,[GHSA-qpwc-p365-pqrr] OpenStack Neutron allows remote attackers to bypass an intended DHCP-spoofing protection mechanism,https://github.com/advisories/GHSA-qpwc-p365-pqrr,https://da.gd/4p1u2
+GithubAdvisories,[GHSA-3vj4-cvjp-482h] OpenStack Neutron allows remote attackers to bypass an intended ICMPv6-spoofing protection mechanism,https://github.com/advisories/GHSA-3vj4-cvjp-482h,https://da.gd/2wwdS
