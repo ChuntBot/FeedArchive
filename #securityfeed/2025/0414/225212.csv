@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qq2h-m2hj-hrff] DevDojo Voyager Argument Injection vulnerability,https://github.com/advisories/GHSA-qq2h-m2hj-hrff,https://da.gd/XZNFTk
+GithubAdvisories,[GHSA-6rqh-8465-2xcw] Mattermost vulnerable to Incorrect Implementation of Authentication Algorithm,https://github.com/advisories/GHSA-6rqh-8465-2xcw,https://da.gd/NQdGz
+GithubAdvisories,[GHSA-wwhj-pw6h-f8hw] Mattermost Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-wwhj-pw6h-f8hw,https://da.gd/uXs4ak
