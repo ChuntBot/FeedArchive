@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7vpp-9cxj-q8gv] mholt/archiver Vulnerable to Path Traversal via Crafted ZIP File,https://github.com/advisories/GHSA-7vpp-9cxj-q8gv,https://da.gd/ZMfcY
