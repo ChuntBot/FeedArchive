@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f3v6-g4mv-pjhq] WEC Map (wec_map) extension for TYPO3 allows SQL Injection,https://github.com/advisories/GHSA-f3v6-g4mv-pjhq,https://da.gd/JqVmr
+GithubAdvisories,[GHSA-mqhg-c7w9-w3cv] WEC Map (wec_map) extension for TYPO3 allows Cross-site Scripting,https://github.com/advisories/GHSA-mqhg-c7w9-w3cv,https://da.gd/XPsot
+GithubAdvisories,[GHSA-6q87-84jw-cjhp] @sveltejs/kit vulnerable to Cross-site Scripting via tracked search_params,https://github.com/advisories/GHSA-6q87-84jw-cjhp,https://da.gd/9KQqPz
+GithubAdvisories,[GHSA-322v-vh2g-qvpv] Mattermost Fails to Restrict Certain Operations on System Admins,https://github.com/advisories/GHSA-322v-vh2g-qvpv,https://da.gd/3ixN3g
