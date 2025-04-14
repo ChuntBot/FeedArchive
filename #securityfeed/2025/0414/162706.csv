@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f3f3-5q5j-6v47] GeSHi vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-f3f3-5q5j-6v47,https://da.gd/pbVUV
+GithubAdvisories,[GHSA-fw3x-2pr2-5j64] GeSHi vulnerable to Directory Traversal,https://github.com/advisories/GHSA-fw3x-2pr2-5j64,https://da.gd/bMPBu
+GithubAdvisories,[GHSA-h7wf-jg4f-x2wc] TYPO3 vulnerable to authentication bypass via leveraging knowledge of password hash,https://github.com/advisories/GHSA-h7wf-jg4f-x2wc,https://da.gd/aAKnE
+GithubAdvisories,[GHSA-55g3-fjwm-w2c8] TYPO3 Color Picker Wizard component allows remote authenticated editors to execute arbitrary PHP code,https://github.com/advisories/GHSA-55g3-fjwm-w2c8,https://da.gd/b3Dsm
+GithubAdvisories,[GHSA-m76j-69c2-c3m8] TYPO3 vulnerable to remote authenticated arbitrary code execution,https://github.com/advisories/GHSA-m76j-69c2-c3m8,https://da.gd/RkiDdF
