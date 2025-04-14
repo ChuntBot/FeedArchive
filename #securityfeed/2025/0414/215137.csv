@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-68qq-3phh-53j7] mod_cluster Denial of Service vulnerability,https://github.com/advisories/GHSA-68qq-3phh-53j7,https://da.gd/LUhzE
+GithubAdvisories,[GHSA-rv57-479x-x4qv] phpMyAdmin Code Injection vulnerability,https://github.com/advisories/GHSA-rv57-479x-x4qv,https://da.gd/cvH7I
+GithubAdvisories,[GHSA-2p7v-jm8m-g3qq] phpMyAdmin vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-2p7v-jm8m-g3qq,https://da.gd/9z7ha
+GithubAdvisories,[GHSA-cr65-p662-fx5c] phpMyAdmin vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-cr65-p662-fx5c,https://da.gd/z4xya
+GithubAdvisories,[GHSA-6q2j-8h8q-46mr] phpMyAdmin vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-6q2j-8h8q-46mr,https://da.gd/OB8cyw
