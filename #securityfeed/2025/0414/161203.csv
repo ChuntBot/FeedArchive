@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+ExploitDB,[remote] GestioIP 3.5.7 - Remote Command Execution (RCE),https://www.exploit-db.com/exploits/52204,https://da.gd/xFzMJ5
+ExploitDB,[remote] GestioIP 3.5.7 - Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/52203,https://da.gd/K9NhG
+ExploitDB,[remote] GestioIP 3.5.7 - Reflected Cross-Site Scripting (Reflected XSS),https://www.exploit-db.com/exploits/52202,https://da.gd/FjS7
+ExploitDB,[remote] GestioIP 3.5.7 - Stored Cross-Site Scripting (Stored XSS),https://www.exploit-db.com/exploits/52201,https://da.gd/tSGkt
+ExploitDB,[remote] GestioIP 3.5.7 - Cross-Site Request Forgery (CSRF),https://www.exploit-db.com/exploits/52200,https://da.gd/oKpvVS
+ExploitDB,[webapps] SilverStripe 5.3.8 - Stored Cross Site Scripting (XSS) (Authenticated),https://www.exploit-db.com/exploits/52199,https://da.gd/3huSe
+ExploitDB,[webapps] OpenPanel Copy and View functions in the File Manager 0.3.4 - Directory Traversal,https://www.exploit-db.com/exploits/52198,https://da.gd/DEVRy
+ExploitDB,[webapps] OpenPanel 0.3.4 - OS Command Injection,https://www.exploit-db.com/exploits/52197,https://da.gd/6N7HH
+ExploitDB,[webapps] OpenPanel 0.3.4 - Incorrect Access Control,https://www.exploit-db.com/exploits/52196,https://da.gd/ekWo
+ExploitDB,[webapps] OpenPanel 0.3.4 - Directory Traversal,https://www.exploit-db.com/exploits/52195,https://da.gd/7sH2mS
