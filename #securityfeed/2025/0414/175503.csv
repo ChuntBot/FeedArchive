@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-472w-7w45-g3w5] Pleezer resource exhaustion through uncollected hook script processes,https://github.com/advisories/GHSA-472w-7w45-g3w5,https://da.gd/cQuKuN
+GithubAdvisories,[GHSA-hmp7-x699-cvhq] Argo Events users can gain privileged access to the host system and cluster with EventSource and Sensor CR,https://github.com/advisories/GHSA-hmp7-x699-cvhq,https://da.gd/969ie
+GithubAdvisories,[GHSA-2jq7-pgqq-gqqj] TYPO3 powermail extension allows remote attackers to bypass CAPTCHA protection mechanism,https://github.com/advisories/GHSA-2jq7-pgqq-gqqj,https://da.gd/kZpYM
