@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5pmg-qh2c-7j24] phpMyAdmin allows remote attackers to spoof content via the url parameter,https://github.com/advisories/GHSA-5pmg-qh2c-7j24,https://da.gd/0Pemg
+GithubAdvisories,[GHSA-jxhp-rwqv-9fjj] concrete5 vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-jxhp-rwqv-9fjj,https://da.gd/5w9zBh
+GithubAdvisories,[GHSA-xwq4-2cwr-fv2q] fal_sftp extension for TYPO3 uses weak permissions for sFTP driver files and folders,https://github.com/advisories/GHSA-xwq4-2cwr-fv2q,https://da.gd/nTZzx
+GithubAdvisories,[GHSA-46fq-683f-2jwq] yag and pt_extbase extensions for TYPO3 allow remote attackers to bypass access restrictions,https://github.com/advisories/GHSA-46fq-683f-2jwq,https://da.gd/aG0I7
