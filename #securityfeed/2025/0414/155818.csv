@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-54jj-pxx2-pv8h] TYPO3 doesn't properly check file extensions,https://github.com/advisories/GHSA-54jj-pxx2-pv8h,https://da.gd/58Uk5C
+GithubAdvisories,[GHSA-x626-q4v7-7xc6] Neo4J vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-x626-q4v7-7xc6,https://da.gd/zji9k
+GithubAdvisories,[GHSA-hcg3-q754-cr77] golang.org/x/crypto Vulnerable to Denial of Service (DoS) via Slow or Incomplete Key Exchange,https://github.com/advisories/GHSA-hcg3-q754-cr77,https://da.gd/cuSC4
