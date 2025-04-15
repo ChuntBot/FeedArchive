@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-459x-q9hg-4gpq] Kyverno vulnerable to SSRF via Service Calls,https://github.com/advisories/GHSA-459x-q9hg-4gpq,https://da.gd/7pgEv
