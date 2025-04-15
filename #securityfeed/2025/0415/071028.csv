@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+ExploitDB,[hardware] ABB Cylon Aspect 3.07.02 (userManagement.php) - Weak Password Policy,https://www.exploit-db.com/exploits/52221,https://da.gd/AOeVkM
+ExploitDB,[hardware] ABB Cylon Aspect 3.08.03 (CookieDB) - SQL Injection,https://www.exploit-db.com/exploits/52220,https://da.gd/WgDKO
+ExploitDB,[hardware] ABB Cylon Aspect 3.08.02 (webServerUpdate.php) - Input Validation Config Poisoning,https://www.exploit-db.com/exploits/52219,https://da.gd/ar0IP
+ExploitDB,[hardware] ABB Cylon Aspect 3.08.02 (escDevicesUpdate.php) - Denial of Service (DOS),https://www.exploit-db.com/exploits/52218,https://da.gd/0AhlV
+ExploitDB,[hardware] ABB Cylon Aspect 3.08.02 (bbmdUpdate.php) - Remote Code Execution,https://www.exploit-db.com/exploits/52217,https://da.gd/NdQq3J
+ExploitDB,[hardware] ABB Cylon Aspect 3.08.02 (uploadDb.php) - Remote Code Execution,https://www.exploit-db.com/exploits/52216,https://da.gd/c5LS
+ExploitDB,[hardware] ABB Cylon Aspect 3.08.02 (licenseUpload.php) - Stored Cross-Site Scripting,https://www.exploit-db.com/exploits/52215,https://da.gd/pms4q
+ExploitDB,[hardware] ABB Cylon Aspect 3.08.02 (licenseServerUpdate.php) - Stored Cross-Site Scripting,https://www.exploit-db.com/exploits/52214,https://da.gd/AiLOWn
+ExploitDB,[remote] Ivanti Connect Secure 22.7R2.5 - Remote Code Execution (RCE),https://www.exploit-db.com/exploits/52213,https://da.gd/kKtuE
+ExploitDB,[webapps] IBMi Navigator 7.5 - Server Side Request Forgery (SSRF),https://www.exploit-db.com/exploits/52212,https://da.gd/nMTRU6
+ExploitDB,[webapps] Plane 0.23.1 - Server side request forgery (SSRF),https://www.exploit-db.com/exploits/52211,https://da.gd/KWhi2
+ExploitDB,[webapps] IBMi Navigator 7.5 - HTTP Security Token Bypass,https://www.exploit-db.com/exploits/52210,https://da.gd/Mqv1tx
