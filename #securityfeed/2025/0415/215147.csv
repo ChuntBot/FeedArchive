@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fhg8-qxh5-7q3w] NATS Server may fail to authorize certain Jetstream admin APIs,https://github.com/advisories/GHSA-fhg8-qxh5-7q3w,https://da.gd/QG1e
+GithubAdvisories,[GHSA-3749-ghw9-m3mg] PyTorch susceptible to local Denial of Service,https://github.com/advisories/GHSA-3749-ghw9-m3mg,https://da.gd/rGlTgZ
+GithubAdvisories,[GHSA-hf3c-wxg2-49q9] vLLM vulnerable to Denial of Service by abusing xgrammar cache,https://github.com/advisories/GHSA-hf3c-wxg2-49q9,https://da.gd/uZeSG
