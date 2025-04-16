@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9h6j-4ffx-cm84] Mattermost doesn't restrict domains LLM can request to contact upstream,https://github.com/advisories/GHSA-9h6j-4ffx-cm84,https://da.gd/JXmzOf
+GithubAdvisories,[GHSA-h4rr-f37j-4hh7] Mattermost Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-h4rr-f37j-4hh7,https://da.gd/1xk0ce
+GithubAdvisories,[GHSA-2j87-p623-8cc2] Mattermost vulnerable to Observable Timing Discrepancy,https://github.com/advisories/GHSA-2j87-p623-8cc2,https://da.gd/pQ9Zw8
+GithubAdvisories,[GHSA-j5jw-m2ph-3jjf] Mattermost Missing Authentication for Critical Function,https://github.com/advisories/GHSA-j5jw-m2ph-3jjf,https://da.gd/H8msF
