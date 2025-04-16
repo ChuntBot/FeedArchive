@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2689-cw26-6cpj] Whoogle allows attackers to execute arbitrary code via supplying a crafted search query,https://github.com/advisories/GHSA-2689-cw26-6cpj,https://da.gd/DUKTj
