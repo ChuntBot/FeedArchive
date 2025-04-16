@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ExploitDB,[hardware] ABB Cylon Aspect 3.08.02 - Cross-Site Request Forgery (CSRF),https://www.exploit-db.com/exploits/52231,https://da.gd/sb8h
+ExploitDB,[webapps] Zabbix 7.0.0 - SQL Injection,https://www.exploit-db.com/exploits/52230,https://da.gd/cxp7C
+ExploitDB,[webapps] NagVis 1.9.33 - Arbitrary File Read,https://www.exploit-db.com/exploits/52229,https://da.gd/ACDxOU
+ExploitDB,[webapps] Teedy 1.11 - Account Takeover via Stored Cross-Site Scripting (XSS),https://www.exploit-db.com/exploits/52228,https://da.gd/wPapq
+ExploitDB,[remote] Hugging Face Transformers MobileViTV2 4.41.1 - Remote Code Execution (RCE),https://www.exploit-db.com/exploits/52227,https://da.gd/lU2wl
