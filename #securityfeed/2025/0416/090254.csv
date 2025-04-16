@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+ExploitDB,"[remote] Fortinet FortiOS, FortiProxy, and FortiSwitchManager 7.2.0 - Authentication bypass",https://www.exploit-db.com/exploits/52239,https://da.gd/t3TsJ
+ExploitDB,[webapps] Garage Management System 1.0 (categoriesName) - Stored XSS,https://www.exploit-db.com/exploits/52238,https://da.gd/UIV4v
+ExploitDB,[remote] WebMethods Integration Server 10.15.0.0000-0092 - Improper Access on Login Page,https://www.exploit-db.com/exploits/52237,https://da.gd/VnJw
+ExploitDB,[webapps] ProConf 6.0 - Insecure Direct Object Reference (IDOR),https://www.exploit-db.com/exploits/52236,https://da.gd/agoPN
+ExploitDB,[webapps] phpMyFAQ 3.2.10 - Unintended File Download Triggered by Embedded Frames,https://www.exploit-db.com/exploits/52235,https://da.gd/JbwS
+ExploitDB,[hardware] ABB Cylon Aspect 3.08.03 (webServerDeviceLabelUpdate.php) - File Write DoS,https://www.exploit-db.com/exploits/52234,https://da.gd/uh1QP7
+ExploitDB,[hardware] ABB Cylon Aspect 4.00.00 (factorySaved.php) - Unauthenticated XSS,https://www.exploit-db.com/exploits/52233,https://da.gd/BzpsO9
+ExploitDB,[hardware] ABB Cylon Aspect 4.00.00 (factorySetSerialNum.php) - Remote Code Execution,https://www.exploit-db.com/exploits/52232,https://da.gd/UNyOd
