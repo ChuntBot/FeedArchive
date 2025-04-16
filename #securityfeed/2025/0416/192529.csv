@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vvgc-356p-c3xw] golang.org/x/net vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-vvgc-356p-c3xw,https://da.gd/wbWOjU
