@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f8j4-p5cr-p777] Permission policy information leakage in Backstage permission system,https://github.com/advisories/GHSA-f8j4-p5cr-p777,https://da.gd/c44Men
+GithubAdvisories,"[GHSA-42fh-pvvh-999x] Unregistered users can see ""public"" messages from a closed wiki via notifications from a different wiki",https://github.com/advisories/GHSA-42fh-pvvh-999x,https://da.gd/SQNqWq
+GithubAdvisories,[GHSA-9gqv-wp59-fq42] http-proxy-middleware allows fixRequestBody to proceed even if bodyParser has failed,https://github.com/advisories/GHSA-9gqv-wp59-fq42,https://da.gd/4LW5i
+GithubAdvisories,"[GHSA-4www-5p9h-95mh] http-proxy-middleware can call writeBody twice because ""else if"" is not used",https://github.com/advisories/GHSA-4www-5p9h-95mh,https://da.gd/iqi1CW
