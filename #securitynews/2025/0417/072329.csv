@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/NetSec,"New writeup: a vulnerability in PHP's extract() function allows attackers to trigger a double-free, which in turn allows arbitrary code execution (native code)",https://redd.it/1k16vep,
