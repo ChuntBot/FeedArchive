@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 41: 2025-5d61874568 critical: perl-String-Compare-ConstantTime leak,https://linuxsecurity.com/advisories/fedora/fedora-41-perl-string-compare-constanttime-2025-5d61874568-ha4gbz5d500e,https://da.gd/LBUnEm
+LinuxSecurity,Fedora 41: FEDORA-2025-a13867ecbc critical: rust-openssl-sys use-after-free,https://linuxsecurity.com/advisories/fedora/fedora-41-rust-openssl-sys-2025-a13867ecbc-jefckimue66a,https://da.gd/6Tf5h
+LinuxSecurity,Fedora 41: 2025-a13867ecbc critical: rust-openssl use-after-free,https://linuxsecurity.com/advisories/fedora/fedora-41-rust-openssl-2025-a13867ecbc-knywwmjcyr6w,https://da.gd/wAg0b3
+LinuxSecurity,Fedora 41: mysql8.0 2025-8352a35e30 critical database update,https://linuxsecurity.com/advisories/fedora/fedora-41-mysql8-0-2025-8352a35e30-1q63pbqpqgcb,https://da.gd/HUc0q2
+LinuxSecurity,Fedora 41: workrave 2025-d611c8d114 critical: xss autoescape exploit,https://linuxsecurity.com/advisories/fedora/fedora-41-workrave-2025-d611c8d114-ephcimo79bfz,https://da.gd/frWuh
+LinuxSecurity,Fedora 41: FEDORA-2025-a265e06eb2 moderate: trunk security issue,https://linuxsecurity.com/advisories/fedora/fedora-41-trunk-2025-a265e06eb2-q7lhvs9jrmud,https://da.gd/0yX9
