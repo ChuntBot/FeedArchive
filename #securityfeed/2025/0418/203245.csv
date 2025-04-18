@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-22fp-mf44-f2mq] youtube-dl vulnerable to file system modification and RCE through improper file-extension sanitization,https://github.com/advisories/GHSA-22fp-mf44-f2mq,https://da.gd/Ohlbl
