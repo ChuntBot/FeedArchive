@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-53q9-r3pm-6pq6] PyTorch: `torch.load` with `weights_only=True` leads to remote code execution,https://github.com/advisories/GHSA-53q9-r3pm-6pq6,https://da.gd/Fe7BB
+GithubAdvisories,[GHSA-h9w6-f932-gq62] ses's global contour bindings leak into Compartment lexical scope,https://github.com/advisories/GHSA-h9w6-f932-gq62,https://da.gd/ff54f
+GithubAdvisories,"[GHSA-mg2h-6x62-wpwc] Fasify vulnerable to invalid content-type parsing, which could lead to validation bypass",https://github.com/advisories/GHSA-mg2h-6x62-wpwc,https://da.gd/BSD3Z
