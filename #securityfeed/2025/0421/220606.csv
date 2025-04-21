@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5w6v-399v-w3cc] Nokogiri updates packaged libxml2 to v2.13.8 to resolve CVE-2025-32414 and CVE-2025-32415,https://github.com/advisories/GHSA-5w6v-399v-w3cc,https://da.gd/dXn9d
+GithubAdvisories,[GHSA-c5jg-wr5v-2wp2] GoBGP does not verify that the input length,https://github.com/advisories/GHSA-c5jg-wr5v-2wp2,https://da.gd/A2xKww
+GithubAdvisories,[GHSA-mfvv-mgf6-q25r] GoBGP crashes in the flowspec parser,https://github.com/advisories/GHSA-mfvv-mgf6-q25r,https://da.gd/1OGNY
+GithubAdvisories,[GHSA-7m35-vw2c-696v] GoBGP panics due to a zero value for softwareVersionLen,https://github.com/advisories/GHSA-7m35-vw2c-696v,https://da.gd/bsCkwP
+GithubAdvisories,[GHSA-hqhq-hp5x-xp3w] GoBGP does not properly check the input length,https://github.com/advisories/GHSA-hqhq-hp5x-xp3w,https://da.gd/EwgqRy
+GithubAdvisories,[GHSA-wvcx-j62q-45qw] one-api Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-wvcx-j62q-45qw,https://da.gd/XWI9D
+GithubAdvisories,[GHSA-445m-27cf-gr3x] Crawl4AI SSRF vulnerability,https://github.com/advisories/GHSA-445m-27cf-gr3x,https://da.gd/qqlycH
+GithubAdvisories,[GHSA-vq95-6x79-qv8j] Alkacon OpenCMS stored cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-vq95-6x79-qv8j,https://da.gd/bilLyz
