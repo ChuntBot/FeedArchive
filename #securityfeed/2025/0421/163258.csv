@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3922-2r6r-r4fv] MCMS allows arbitrary file uploads in the ueditor component,https://github.com/advisories/GHSA-3922-2r6r-r4fv,https://da.gd/o10uDO
+GithubAdvisories,[GHSA-gm2p-wf5c-w3pj] Infinite loop condition in Amazon.IonDotnet,https://github.com/advisories/GHSA-gm2p-wf5c-w3pj,https://da.gd/cc0A3M
+GithubAdvisories,[GHSA-wm65-ph3w-587c] QMarkdown Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-wm65-ph3w-587c,https://da.gd/bqor2
+GithubAdvisories,[GHSA-4mh5-jj5w-3f9q] The Direct Mail (direct_mail) TYPO3 extension improperly discloses sensitive information,https://github.com/advisories/GHSA-4mh5-jj5w-3f9q,https://da.gd/DKhjla
+GithubAdvisories,"[GHSA-5vxx-c285-pcq4] In Cilium, packets from terminating endpoints may not be encrypted in Wireguard-enabled clusters",https://github.com/advisories/GHSA-5vxx-c285-pcq4,https://da.gd/CfHWo
+GithubAdvisories,[GHSA-6p68-w45g-48j7] Traefik has a possible vulnerability with the path matchers,https://github.com/advisories/GHSA-6p68-w45g-48j7,https://da.gd/NQjcfO
