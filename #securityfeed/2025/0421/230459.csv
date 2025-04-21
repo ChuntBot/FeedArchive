@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-44vv-mm86-7cg6] phpMyAdmin server-side request forgery (SSRF),https://github.com/advisories/GHSA-44vv-mm86-7cg6,https://da.gd/j5YfqU
+GithubAdvisories,[GHSA-pvcp-73cg-6f77] Web2py Reflected XSS vulnerability,https://github.com/advisories/GHSA-pvcp-73cg-6f77,https://da.gd/ZZfVs
+GithubAdvisories,"[GHSA-vxmc-qg5x-pvfx] ""Newsletter subscriber management"" (fp_newsletter) TYPO3 extension leaks subscriber data",https://github.com/advisories/GHSA-vxmc-qg5x-pvfx,https://da.gd/fqKuO
+GithubAdvisories,"[GHSA-r44w-pfx8-28jv] ""Newsletter subscriber management"" (fp_newsletter) TYPO3 extension leaks subscriber data",https://github.com/advisories/GHSA-r44w-pfx8-28jv,https://da.gd/SIqRgd
+GithubAdvisories,[GHSA-7m6v-q233-q9j9] Minio Operator uses Kubernetes apiserver audience for AssumeRoleWithWebIdentity STS,https://github.com/advisories/GHSA-7m6v-q233-q9j9,https://da.gd/hQRd
+GithubAdvisories,[GHSA-66pq-hqv5-228g] Smack allows the bypass of TLS protections,https://github.com/advisories/GHSA-66pq-hqv5-228g,https://da.gd/S2OV9V
