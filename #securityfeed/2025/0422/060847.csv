@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 41: 2025-6e1b672fbf critical: giflib buffer overflow,https://linuxsecurity.com/advisories/fedora/fedora-41-giflib-2025-6e1b672fbf-3yj0bxnqfrwg,https://da.gd/7fQnk
+LinuxSecurity,Fedora 41: 2025-11fcc87c66 critical: perl-Devel-Cover heap overflow,https://linuxsecurity.com/advisories/fedora/fedora-41-perl-devel-cover-2025-11fcc87c66-6d84vx6lhwoz,https://da.gd/hBkarO
+LinuxSecurity,Fedora 41: FEDORA-2025-11fcc87c66 critical: perl-PAR-Packer buffer overflow,https://linuxsecurity.com/advisories/fedora/fedora-41-perl-par-packer-2025-11fcc87c66-xcrgvjm1zpni,https://da.gd/0XCti
+LinuxSecurity,Fedora 41: FEDORA-2025-11fcc87c66 moderate: perl heap overflow,https://linuxsecurity.com/advisories/fedora/fedora-41-perl-2025-11fcc87c66-d7qffb1wqqnr,https://da.gd/cNtXaD
