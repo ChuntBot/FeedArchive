@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-252r-f55f-ff34] MantisBT allows arbitrary password reset,https://github.com/advisories/GHSA-252r-f55f-ff34,https://da.gd/s4LbD
+GithubAdvisories,[GHSA-r64j-5w3w-fp49] TeamPass vulnerable to SQL Injection,https://github.com/advisories/GHSA-r64j-5w3w-fp49,https://da.gd/RLeB
+GithubAdvisories,[GHSA-48q3-m4hf-56c9] TeamPass vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-48q3-m4hf-56c9,https://da.gd/SpSkKt
+GithubAdvisories,[GHSA-f2x4-547g-rp95] OpenFlow plugin for OpenDaylight LLDP Relay,https://github.com/advisories/GHSA-f2x4-547g-rp95,https://da.gd/CXbhz
+GithubAdvisories,[GHSA-49wf-927p-jpvj] OpenFlow plugin for OpenDaylight allows spoofing the SDN topology,https://github.com/advisories/GHSA-49wf-927p-jpvj,https://da.gd/yyLxjY
