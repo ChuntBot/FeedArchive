@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mxr3-8whj-j74r] Harden-Runner allows evasion of 'disable-sudo' policy,https://github.com/advisories/GHSA-mxr3-8whj-j74r,https://da.gd/MS4zy
+GithubAdvisories,[GHSA-mjww-vqqw-v78q] WSO2 Carbon directory traversal vulnerability,https://github.com/advisories/GHSA-mjww-vqqw-v78q,https://da.gd/i83Hq1
+GithubAdvisories,[GHSA-2vcm-2mcr-wmx7] WSO2 Carbon vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-2vcm-2mcr-wmx7,https://da.gd/TNz4MO
