@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qm24-4869-99pj] Opendaylight will authenticate any username and password combination,https://github.com/advisories/GHSA-qm24-4869-99pj,https://da.gd/Qoif
+GithubAdvisories,[GHSA-j3hp-pv6v-rgrx] Juju uses a UNIX domain socket without setting appropriate permissions,https://github.com/advisories/GHSA-j3hp-pv6v-rgrx,https://da.gd/7rwaO
+GithubAdvisories,[GHSA-g3fc-8jv4-qmmv] Apache Knox allows impersonation of users,https://github.com/advisories/GHSA-g3fc-8jv4-qmmv,https://da.gd/Tqg8r
