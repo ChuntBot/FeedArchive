@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 24.04 LTS: USN-7441-1 critical: Eclipse Mosquitto memory flaw,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7441-1-eclipse-mosquitto-kx1wycnvmnzs,https://da.gd/L4QFyl
+LinuxSecurity,Fedora 41: FEDORA-2025-9e6d18cb4f critical: thunderbird mail client,https://linuxsecurity.com/advisories/fedora/fedora-41-thunderbird-2025-9e6d18cb4f-uvktexulz5gj,https://da.gd/AgedE
+LinuxSecurity,Fedora 41: 2025-17fed14cc3 moderate: rpki-client denial of service,https://linuxsecurity.com/advisories/fedora/fedora-41-rpki-client-2025-17fed14cc3-fjt91rrok5ep,https://da.gd/6ZPJt
+LinuxSecurity,Fedora 41: FEDORA-2025-60513bdbbd moderate: ruby DoS vulnerabilities,https://linuxsecurity.com/advisories/fedora/fedora-41-ruby-2025-60513bdbbd-7ej2o9rwka6u,https://da.gd/T9LSm
+LinuxSecurity,Fedora 41: python-notebook 2025-e15a193ad3 critical: Cross-site scripting,https://linuxsecurity.com/advisories/fedora/fedora-41-python-notebook-2025-e15a193ad3-qnwhmforuan9,https://da.gd/IfzEV
+LinuxSecurity,Fedora 41: FEDORA-2025-b0915f0a19 critical: prometheus-podman-exporter DoS,https://linuxsecurity.com/advisories/fedora/fedora-41-prometheus-podman-exporter-2025-b0915f0a19-idykfy2m8ncq,https://da.gd/ER2M
