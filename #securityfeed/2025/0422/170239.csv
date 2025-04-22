@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hg25-w3vg-7279] XSS in the /download Endpoint of the JPA Web API,https://github.com/advisories/GHSA-hg25-w3vg-7279,https://da.gd/FnK5l
+GithubAdvisories,[GHSA-88h5-34xw-2q56] XSS in the /files Endpoint of the Generic REST API,https://github.com/advisories/GHSA-88h5-34xw-2q56,https://da.gd/y5qzRN
+GithubAdvisories,[GHSA-w3mp-6vrj-875g] Cuba has a DoS in the File Storage,https://github.com/advisories/GHSA-w3mp-6vrj-875g,https://da.gd/6KDM9S
+GithubAdvisories,[GHSA-f3gv-cwwh-758m] io.jmix.localfs:jmix-localfs affected by DoS in the Local File Storage,https://github.com/advisories/GHSA-f3gv-cwwh-758m,https://da.gd/9bLbWb
+GithubAdvisories,[GHSA-x27v-f838-jh93] io.jmix.rest:jmix-rest allows XSS in the /files Endpoint of the Generic REST API,https://github.com/advisories/GHSA-x27v-f838-jh93,https://da.gd/64191I
+GithubAdvisories,[GHSA-hcrc-79hj-m3qh] Wazuh server vulnerable to remote code execution,https://github.com/advisories/GHSA-hcrc-79hj-m3qh,https://da.gd/AgI8q
+GithubAdvisories,[GHSA-jx4g-3xqm-62vh] io.jmix.localfs:jmix-localfs has a Path Traversal in Local File Storage,https://github.com/advisories/GHSA-jx4g-3xqm-62vh,https://da.gd/Iizd
+GithubAdvisories,[GHSA-qw93-h6pf-226x] OctoPrint Authenticated Reverse Proxy Page Authentication Bypass,https://github.com/advisories/GHSA-qw93-h6pf-226x,https://da.gd/jWaE4a
+GithubAdvisories,[GHSA-rff7-964g-pppx] The Reporting Addon for CUBA Platform has Persistent XSS,https://github.com/advisories/GHSA-rff7-964g-pppx,https://da.gd/uEr8
