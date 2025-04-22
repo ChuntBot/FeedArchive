@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-33qr-m49q-rxfx] Compromised xrpl.js versions 4.2.1, 4.2.2, 4.2.3, 4.2.4, and 2.14.2",https://github.com/advisories/GHSA-33qr-m49q-rxfx,https://da.gd/02Yd
+GithubAdvisories,[GHSA-8m57-j273-2qg9] OpenEXR invalid read,https://github.com/advisories/GHSA-8m57-j273-2qg9,https://da.gd/9iMcrf
+GithubAdvisories,[GHSA-qxh9-r8xw-7v99] OpenEXR invalid write,https://github.com/advisories/GHSA-qxh9-r8xw-7v99,https://da.gd/zutE
+GithubAdvisories,[GHSA-9x76-mp7r-2xc5] MantisBT vulnerable to CSRF and Open Redirect attacks,https://github.com/advisories/GHSA-9x76-mp7r-2xc5,https://da.gd/LfRWQw
+GithubAdvisories,[GHSA-p2j4-vrgx-96qg] MODX Revolution XSS via HTTP Host header,https://github.com/advisories/GHSA-p2j4-vrgx-96qg,https://da.gd/TlmLOC
+GithubAdvisories,[GHSA-7hhg-xj2h-5vq9] MODX Revolution cross-site scripting vulnerability,https://github.com/advisories/GHSA-7hhg-xj2h-5vq9,https://da.gd/TthLFX
+GithubAdvisories,[GHSA-23gj-x27g-r34f] MODX Revolution allows overwriting .htaccess,https://github.com/advisories/GHSA-23gj-x27g-r34f,https://da.gd/VExgyd
+GithubAdvisories,[GHSA-vrw6-7vgj-vj7x] MODX Revolution Reflected XSS,https://github.com/advisories/GHSA-vrw6-7vgj-vj7x,https://da.gd/H6PVM
+GithubAdvisories,[GHSA-cgrv-6h2h-6f7v] MODX Revolution Directory Traversal Vulnerability,https://github.com/advisories/GHSA-cgrv-6h2h-6f7v,https://da.gd/gR7of
