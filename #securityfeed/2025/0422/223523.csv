@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fpx3-h2pc-88vf] Laravel Starter Cross Site Scripting (XSS),https://github.com/advisories/GHSA-fpx3-h2pc-88vf,https://da.gd/urrT
+GithubAdvisories,[GHSA-vfmm-jm4v-7frq] Apache Wicket insecure defaults,https://github.com/advisories/GHSA-vfmm-jm4v-7frq,https://da.gd/T2V0C
+GithubAdvisories,[GHSA-g2hf-g7fh-vg92] Apache Brooklyn is vulnerable to cross-site request forgery (CSRF),https://github.com/advisories/GHSA-g2hf-g7fh-vg92,https://da.gd/vZV6BR
