@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ggpf-24jw-3fcw] CVE-2025-24357 Malicious model remote code execution fix bypass with PyTorch < 2.6.0,https://github.com/advisories/GHSA-ggpf-24jw-3fcw,https://da.gd/6PLLrk
+GithubAdvisories,[GHSA-q4hw-62mx-q37w] MetalGenix GeniXCMS vulnerable to SQL Injection,https://github.com/advisories/GHSA-q4hw-62mx-q37w,https://da.gd/FEhU
+GithubAdvisories,[GHSA-hqwh-8xv9-42hw] tar-split memory exhaustion,https://github.com/advisories/GHSA-hqwh-8xv9-42hw,https://da.gd/kHOlE
+GithubAdvisories,[GHSA-864w-r5qj-h6fj] Apache Struts forced double OGNL evaluation,https://github.com/advisories/GHSA-864w-r5qj-h6fj,https://da.gd/d6Xl4t
+GithubAdvisories,[GHSA-rvmg-xc29-rvxf] Luracast Restler directory traversal vulnerability,https://github.com/advisories/GHSA-rvmg-xc29-rvxf,https://da.gd/zEyDqi
+GithubAdvisories,[GHSA-gvgf-fp4m-2hw6] OctoberCMS Cross-Site Scripting,https://github.com/advisories/GHSA-gvgf-fp4m-2hw6,https://da.gd/hLwL6
+GithubAdvisories,[GHSA-xc66-mg8r-q6r5] Apache Wicket vulnerable to CSRF attacks,https://github.com/advisories/GHSA-xc66-mg8r-q6r5,https://da.gd/jigm7u
+GithubAdvisories,[GHSA-244g-8368-6wr9] Apache Wicket allows attackers to check for third-party libraries,https://github.com/advisories/GHSA-244g-8368-6wr9,https://da.gd/5Fdjs
