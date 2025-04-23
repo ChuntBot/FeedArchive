@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v64v-fq96-c5wv] PostHog Plugin Server SQL Injection Vulnerability,https://github.com/advisories/GHSA-v64v-fq96-c5wv,https://da.gd/YE8ii
+GithubAdvisories,[GHSA-9g64-r942-fvmp] Apache ActiveMQ NMS OpenWire Client Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-9g64-r942-fvmp,https://da.gd/09F3
+GithubAdvisories,[GHSA-jfvg-qm4p-473x] InternLM LMDeploy code injection vulnerability,https://github.com/advisories/GHSA-jfvg-qm4p-473x,https://da.gd/6gTe2q
