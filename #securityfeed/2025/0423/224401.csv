@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hjgc-jxjc-8v9j] Moodle reflected XSS via H5P error message,https://github.com/advisories/GHSA-hjgc-jxjc-8v9j,https://da.gd/LeOr7u
+GithubAdvisories,[GHSA-2jh5-g5ch-43q5] YoutubeDLSharp allows command injection on windows system due to non sanitized arguments,https://github.com/advisories/GHSA-2jh5-g5ch-43q5,https://da.gd/FAufns
+GithubAdvisories,[GHSA-f2f7-gj54-6vpv] LLaMA-Factory Allows Arbitrary Code Execution via Unsafe Deserialization in Ilamafy_baichuan2.py,https://github.com/advisories/GHSA-f2f7-gj54-6vpv,https://da.gd/zKrB
