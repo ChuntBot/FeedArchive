@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pmc3-p9hx-jq96] uTLS ServerHellos are accepted without checking TLS 1.3 downgrade canaries,https://github.com/advisories/GHSA-pmc3-p9hx-jq96,https://da.gd/J3DUlY
+GithubAdvisories,[GHSA-f69v-xrj8-rhxf] org.xwiki.platform:xwiki-platform-rest-server allows SQL injection in query endpoint of REST API,https://github.com/advisories/GHSA-f69v-xrj8-rhxf,https://da.gd/17HvKi
+GithubAdvisories,[GHSA-g9jj-75mx-wjcx] org.xwiki.platform:xwiki-platform-oldcore allows SQL injection in short form select requests through the script query API,https://github.com/advisories/GHSA-g9jj-75mx-wjcx,https://da.gd/oAY49
