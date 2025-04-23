@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-8cc4-rfj6-fhg4] pnpm uses the md5 path shortening function causes packet paths to coincide, which causes indirect packet overwriting",https://github.com/advisories/GHSA-8cc4-rfj6-fhg4,https://da.gd/OBal
