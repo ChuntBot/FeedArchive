@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vqfr-h8mv-ghfj] h11 accepts some malformed Chunked-Encoding bodies,https://github.com/advisories/GHSA-vqfr-h8mv-ghfj,https://da.gd/078dDJ
+GithubAdvisories,[GHSA-pj3v-9cm8-gvj8] tRPC 11 WebSocket DoS Vulnerability,https://github.com/advisories/GHSA-pj3v-9cm8-gvj8,https://da.gd/GelMHF
+GithubAdvisories,[GHSA-4p4h-9gvq-7xfg] Duplicate Advisory: Picklescan Vulnerable to Exfiltration via DNS via linecache and ssl.get_server_certificate,https://github.com/advisories/GHSA-4p4h-9gvq-7xfg,https://da.gd/myhv3
