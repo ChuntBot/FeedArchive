@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-73m2-qfq3-56cx] Apache HttpClient disables domain checks,https://github.com/advisories/GHSA-73m2-qfq3-56cx,https://da.gd/gK5zV
+GithubAdvisories,[GHSA-x8pm-wrg2-mqmx] OpenMetadata SQL Injection,https://github.com/advisories/GHSA-x8pm-wrg2-mqmx,https://da.gd/KkIji
+GithubAdvisories,[GHSA-cpj6-fhp6-mr6j] React Router allows pre-render data spoofing on React-Router framework mode,https://github.com/advisories/GHSA-cpj6-fhp6-mr6j,https://da.gd/hxYx
+GithubAdvisories,[GHSA-f46r-rw29-r322] React Router allows a DoS via cache poisoning by forcing SPA mode,https://github.com/advisories/GHSA-f46r-rw29-r322,https://da.gd/7JY0D
+GithubAdvisories,[GHSA-fr22-5377-f3p7] Mattermost Playbooks fails to properly validate permissions,https://github.com/advisories/GHSA-fr22-5377-f3p7,https://da.gd/zwFtC6
+GithubAdvisories,[GHSA-3g36-gf7c-75qw] Mattermost Playbooks fails to properly validate the props used by the RetrospectivePost custom post type,https://github.com/advisories/GHSA-3g36-gf7c-75qw,https://da.gd/Z89kl
+GithubAdvisories,[GHSA-689c-xq7x-xjwf] Mattermost Playbooks fails to validate the uniqueness and quantity of task actions,https://github.com/advisories/GHSA-689c-xq7x-xjwf,https://da.gd/uDpODq
