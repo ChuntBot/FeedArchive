@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gc2p-g4fg-29vh] Kubernetes did not effectively clear service account credentials,https://github.com/advisories/GHSA-gc2p-g4fg-29vh,https://da.gd/mKNRZ
