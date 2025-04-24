@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42: 2025-67d2e84a2b critical: mingw-poppler out-of-bounds access,https://linuxsecurity.com/advisories/fedora/fedora-42-mingw-poppler-2025-67d2e84a2b-3czeu97tylts,https://da.gd/Kn6rI
+LinuxSecurity,Fedora 40: FEDORA-2025-bce8e14ac6 moderate: mingw-poppler fixes,https://linuxsecurity.com/advisories/fedora/fedora-40-mingw-poppler-2025-bce8e14ac6-xuxdnqx13bcf,https://da.gd/SEFl9e
+LinuxSecurity,Fedora 40: c-ares 2025-942a0d7e5d critical: DoS issue resolved,https://linuxsecurity.com/advisories/fedora/fedora-40-c-ares-2025-942a0d7e5d-cecdqkkidfki,https://da.gd/TCn3d
