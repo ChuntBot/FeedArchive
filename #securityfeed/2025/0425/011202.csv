@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,openSUSE: 2025:1369-1 important: ruby2.5 security fixes for DoS,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-1369-1-important-ruby2-5-x8nqm179frxc,https://da.gd/kkEBaf
+LinuxSecurity,SUSE 2025:1369-1 crucial: resolution for ruby2.5 DoS and ReDoS issue,https://linuxsecurity.com/advisories/suse/suse-2025-1369-1-important-ruby2-5-r8yr3d6i76b9,https://da.gd/9Dyo
+LinuxSecurity,Debian 11 DLA-4137-1: Critical libbpf Use-After-Free and Null-Pointer Fix,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4137-1-libbpf-security-update-ubucrjvqrnky,https://da.gd/mr8A
+LinuxSecurity,Ubuntu 22.04 LTS: USN-7449-2 critical: Linux kernel update,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7449-2-linux-kernel-hwe-bxknf0dxotdq,https://da.gd/WeC6X0
+LinuxSecurity,Fedora 41 mingw-poppler update: critical out-of-bounds and float issues,https://linuxsecurity.com/advisories/fedora/fedora-41-mingw-poppler-2025-5e9faa5173-lsv6i6wklomm,https://da.gd/F69M
+LinuxSecurity,Ubuntu 18.04 LTS: USN-7463-1 critical: linux kernel issues,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7463-1-linux-kernel-ibm-oqqc7kggtb62,https://da.gd/iexV1d
