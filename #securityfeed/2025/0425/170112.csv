@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-chmf-m33p-ph8m] Moodle allows IDOR in RSS block, which allows access to additional RSS feeds",https://github.com/advisories/GHSA-chmf-m33p-ph8m,https://da.gd/VU99N
+GithubAdvisories,[GHSA-88xj-97gf-7wpq] Moodle has a CSRF risk in user tours manager that allows tour duplication,https://github.com/advisories/GHSA-88xj-97gf-7wpq,https://da.gd/iLU9b6
+GithubAdvisories,[GHSA-69m9-rprc-2x7g] Moodle reveals student identities through assignment submissions search on anonymous submissions,https://github.com/advisories/GHSA-69m9-rprc-2x7g,https://da.gd/3KRWPz
+GithubAdvisories,[GHSA-x45j-jq9q-gf3q] Moodle makes some user data available before completing second factor with MFA enabled,https://github.com/advisories/GHSA-x45j-jq9q-gf3q,https://da.gd/r0TaXT
+GithubAdvisories,[GHSA-8m7c-hm88-2p97] Moodle shows hidden grades to users without permission on some grade reports,https://github.com/advisories/GHSA-8m7c-hm88-2p97,https://da.gd/Ln2BUb
