@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-345q-9jmq-g9q4] Moodle allows unauthenticated REST API user data exposure,https://github.com/advisories/GHSA-345q-9jmq-g9q4,https://da.gd/6VJQ8
+GithubAdvisories,[GHSA-qhc7-xhc2-7p7w] Moodle self enrollment available before completing second factor with MFA enabled,https://github.com/advisories/GHSA-qhc7-xhc2-7p7w,https://da.gd/hIEo
