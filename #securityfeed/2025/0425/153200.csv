@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-733v-p3h5-qpq7] GraphQL Armor Cost-Limit Plugin Bypass via Introspection Query Obfuscation,https://github.com/advisories/GHSA-733v-p3h5-qpq7,https://da.gd/qlNr4z
+GithubAdvisories,[GHSA-95fc-g4gj-mqmx] Steve doesn’t verify a server’s certificate and is susceptible to man-in-the-middle (MitM) attacks,https://github.com/advisories/GHSA-95fc-g4gj-mqmx,https://da.gd/EgaGqY
+GithubAdvisories,[GHSA-xgpc-q899-67p8] Fleet doesn’t validate a server’s certificate when connecting through SSH,https://github.com/advisories/GHSA-xgpc-q899-67p8,https://da.gd/OSEJC
+GithubAdvisories,[GHSA-8h6m-wv39-239m] Rancher users who can create Projects can gain access to arbitrary projects,https://github.com/advisories/GHSA-8h6m-wv39-239m,https://da.gd/UVJhMF
+GithubAdvisories,[GHSA-864f-7xjm-2jp2] CNCF K3s Kubernetes kubelet configuration exposes credentials,https://github.com/advisories/GHSA-864f-7xjm-2jp2,https://da.gd/omd4gy
+GithubAdvisories,[GHSA-f3gw-9ww9-jmc3] Craft CMS Allows Remote Code Execution,https://github.com/advisories/GHSA-f3gw-9ww9-jmc3,https://da.gd/M7kKhQ
