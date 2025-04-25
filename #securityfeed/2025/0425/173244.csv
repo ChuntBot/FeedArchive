@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-34g7-pg9j-pxgp] Moodle allows IDOR when accessing the cohorts report,https://github.com/advisories/GHSA-34g7-pg9j-pxgp,https://da.gd/x2HNEE
+GithubAdvisories,[GHSA-pj96-xh2w-fgqx] Moodle has an IDOR in messaging web service which allows access to some user details,https://github.com/advisories/GHSA-pj96-xh2w-fgqx,https://da.gd/PVRfr8
+GithubAdvisories,[GHSA-cpm7-mv33-jwf8] Moodle's AJAX section delete does not respect course_can_delete_section(),https://github.com/advisories/GHSA-cpm7-mv33-jwf8,https://da.gd/Aj2qzi
+GithubAdvisories,[GHSA-hxgg-4qww-85ph] Moodle has reflected Cross-site Scripting risk in policy tool,https://github.com/advisories/GHSA-hxgg-4qww-85ph,https://da.gd/N8npkY
+GithubAdvisories,[GHSA-m367-445c-2xqr] Moodle has an authenticated remote code execution risk in the Moodle LMS EQUELLA repository,https://github.com/advisories/GHSA-m367-445c-2xqr,https://da.gd/iaS5Kd
+GithubAdvisories,[GHSA-c8v6-vxhf-wcrr] Moodle has an authenticated remote code execution risk in the Moodle LMS Dropbox repository,https://github.com/advisories/GHSA-c8v6-vxhf-wcrr,https://da.gd/PLaJ
+GithubAdvisories,[GHSA-6g5x-h5x7-q4mq] Moodle has an IDOR in web service which allows users enrolled in a course to access some details of other users,https://github.com/advisories/GHSA-6g5x-h5x7-q4mq,https://da.gd/ciWXO
+GithubAdvisories,[GHSA-m8qh-hx4c-h9hr] Moodle has a CSRF risk in Brickfield tool's analysis request action,https://github.com/advisories/GHSA-m8qh-hx4c-h9hr,https://da.gd/wfP86Q
+GithubAdvisories,[GHSA-9vc3-vm42-fjhm] Moodle's mod_data edit/delete pages pass CSRF token in GET parameter,https://github.com/advisories/GHSA-9vc3-vm42-fjhm,https://da.gd/DjPgXb
