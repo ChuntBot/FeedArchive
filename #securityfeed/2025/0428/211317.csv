@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c8hm-hr8h-5xjw] n8n Vulnerable to Stored XSS through Attachments View Endpoint,https://github.com/advisories/GHSA-c8hm-hr8h-5xjw,https://da.gd/IrKRZ
+GithubAdvisories,[GHSA-rc42-6c7j-7h5r] Spring Boot EndpointRequest.to() creates wrong matcher if actuator endpoint is not exposed,https://github.com/advisories/GHSA-rc42-6c7j-7h5r,https://da.gd/WpSuk
+GithubAdvisories,[GHSA-mvwq-hcrj-f5x9] Apereo CAS has inefficient regular expression complexity,https://github.com/advisories/GHSA-mvwq-hcrj-f5x9,https://da.gd/Xn8VJc
