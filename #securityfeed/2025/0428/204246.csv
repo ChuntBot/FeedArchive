@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-37pq-893f-g7q5] Apereo CAS code injection vulnerability,https://github.com/advisories/GHSA-37pq-893f-g7q5,https://da.gd/fv5SVz
+GithubAdvisories,[GHSA-wmjq-jrm2-9wfr] NodeJS Driver for Snowflake has race condition when checking access to Easy Logging configuration file,https://github.com/advisories/GHSA-wmjq-jrm2-9wfr,https://da.gd/jaq5ff
+GithubAdvisories,[GHSA-6jgm-j7h2-2fqg] Go Snowflake Driver has race condition when checking access to Easy Logging configuration file,https://github.com/advisories/GHSA-6jgm-j7h2-2fqg,https://da.gd/bMRwrV
+GithubAdvisories,[GHSA-c82r-c9f7-f5mj] Snowflake Connector for .NET has race condition when checking access to Easy Logging configuration file,https://github.com/advisories/GHSA-c82r-c9f7-f5mj,https://da.gd/pALXXY
