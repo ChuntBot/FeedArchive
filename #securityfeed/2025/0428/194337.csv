@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hwp2-gvm5-452f] Liferay Portal Allows Cross-Site Scripting (XSS) via the SimpleCaptcha API,https://github.com/advisories/GHSA-hwp2-gvm5-452f,https://da.gd/gNDbV4
+GithubAdvisories,[GHSA-hmrx-6pr5-hpwj] Liferay Portal and Liferay DXP Vulnerable to Cross-Site Request Forgery (CSRF) via the Content Page Editor,https://github.com/advisories/GHSA-hmrx-6pr5-hpwj,https://da.gd/m72uQ
+GithubAdvisories,[GHSA-p63m-vmjr-wg37] Liferay Portal and Liferay DXP Vulnerable to Cross-Site Request Forgery (CSRF) via the Content Page Editor,https://github.com/advisories/GHSA-p63m-vmjr-wg37,https://da.gd/fURbf
+GithubAdvisories,[GHSA-6c4v-x9v2-rjm8] Liferay Portal and Liferay DXP Vulnerable to Cross-Site Request Forgery (CSRF) via the My Account Widget,https://github.com/advisories/GHSA-6c4v-x9v2-rjm8,https://da.gd/IQVyh
+GithubAdvisories,[GHSA-f99h-h678-fgg4] Liferay Portal Vulnerable to Persistent Cross-Site Scripting (XSS) in MyAccountPortlet,https://github.com/advisories/GHSA-f99h-h678-fgg4,https://da.gd/XROBD
