@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-7mpr-5m44-h73r] markdownify allows large headline prefixes such as , which causes memory consumption",https://github.com/advisories/GHSA-7mpr-5m44-h73r,https://da.gd/MVc2s
+GithubAdvisories,[GHSA-j3g3-5qv5-52mj] net-imap rubygem vulnerable to possible DoS by memory exhaustion,https://github.com/advisories/GHSA-j3g3-5qv5-52mj,https://da.gd/meNFwl
