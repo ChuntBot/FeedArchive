@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m2gx-7pvx-3gvg] Liferay Portal Vulnerable to Cross-Site Scripting (XSS) via a Journal Article Title,https://github.com/advisories/GHSA-m2gx-7pvx-3gvg,https://da.gd/sNppS
+GithubAdvisories,[GHSA-c92r-9rh5-5f5x] Malware in husky-ts,https://github.com/advisories/GHSA-c92r-9rh5-5f5x,https://da.gd/VPAiv
+GithubAdvisories,[GHSA-cm97-4mmh-634c] Malware in eslint-js,https://github.com/advisories/GHSA-cm97-4mmh-634c,https://da.gd/jvfLO
