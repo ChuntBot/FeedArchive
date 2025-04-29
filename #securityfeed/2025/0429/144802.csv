@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-88xg-v53p-fpvf] YesWiki Remote Code Execution via Arbitrary PHP File Write and Execution,https://github.com/advisories/GHSA-88xg-v53p-fpvf,https://da.gd/WDlvC
+GithubAdvisories,[GHSA-wc9g-6j9w-hr95] YesWiki Vulnerable to Unauthenticated Site Backup Creation and Download,https://github.com/advisories/GHSA-wc9g-6j9w-hr95,https://da.gd/R5fv4
+GithubAdvisories,[GHSA-2f8p-qqx2-gwr2] YesWiki Vulnerable to Unauthenticated Reflected Cross-site Scripting,https://github.com/advisories/GHSA-2f8p-qqx2-gwr2,https://da.gd/7f3MOc
+GithubAdvisories,[GHSA-cg4f-cq8h-3ch8] Yeswiki Vulnerable to Authenticated Reflected Cross-site Scripting,https://github.com/advisories/GHSA-cg4f-cq8h-3ch8,https://da.gd/rvjFn7
+GithubAdvisories,[GHSA-ggqx-43h2-55jp] Yeswiki Vulnerable to Unauthenticated Reflected Cross-site Scripting,https://github.com/advisories/GHSA-ggqx-43h2-55jp,https://da.gd/AZuYE
+GithubAdvisories,[GHSA-r9gv-qffm-xw6f] Yeswiki Vulnerable to Unauthenticated Reflected Cross-site Scripting,https://github.com/advisories/GHSA-r9gv-qffm-xw6f,https://da.gd/hRmHL
