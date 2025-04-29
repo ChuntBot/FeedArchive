@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vc6m-hm49-g9qg] phi4mm: Quadratic Time Complexity in Input Token Processing​ leads to denial of service,https://github.com/advisories/GHSA-vc6m-hm49-g9qg,https://da.gd/iidEb
+GithubAdvisories,[GHSA-jrr2-x33p-6hvc] Kyverno vulnerable to bypass of policy rules that use namespace selectors in match statements,https://github.com/advisories/GHSA-jrr2-x33p-6hvc,https://da.gd/KTpq4
