@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-75v8-2h7p-7m2m] Formidable relies on hexoid to prevent guessing of filenames for untrusted executable content,https://github.com/advisories/GHSA-75v8-2h7p-7m2m,https://da.gd/VITUD
+GithubAdvisories,[GHSA-mvgm-3rw2-7j4r] org.xwiki.platform:xwiki-platform-security-requiredrights-default required rights analysis doesn't consider TextAreas with default content type,https://github.com/advisories/GHSA-mvgm-3rw2-7j4r,https://da.gd/q0gYA
+GithubAdvisories,[GHSA-rp38-24m3-rx87] The lesscss script service allows cache clearing without programming right,https://github.com/advisories/GHSA-rp38-24m3-rx87,https://da.gd/CKkdQ
+GithubAdvisories,[GHSA-x7wv-5qg4-vmr6] org.xwiki.platform:xwiki-platform-component-wiki provides no warning when granting XWiki.ComponentClass programming right,https://github.com/advisories/GHSA-x7wv-5qg4-vmr6,https://da.gd/EGVHWy
+GithubAdvisories,[GHSA-987p-r3jc-8c8v] Solr script service doesn't take dropped programming right into account,https://github.com/advisories/GHSA-987p-r3jc-8c8v,https://da.gd/scVYU
+GithubAdvisories,[GHSA-pjhg-9wr9-rj96] org.xwiki.platform:xwiki-platform-wysiwyg-api Open Redirect vulnerability,https://github.com/advisories/GHSA-pjhg-9wr9-rj96,https://da.gd/rXpiC
