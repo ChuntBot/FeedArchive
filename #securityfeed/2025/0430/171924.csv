@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8g2j-rhfh-hq3r] org.xwiki.contrib.markdown:syntax-markdown-commonmark12 vulnerable to XSS via Markdown content,https://github.com/advisories/GHSA-8g2j-rhfh-hq3r,https://da.gd/rhKeBm
+GithubAdvisories,[GHSA-f9c6-2f9p-82jj] Any user with view access to the XWiki space can change the authenticator,https://github.com/advisories/GHSA-f9c6-2f9p-82jj,https://da.gd/ZZ32D
+GithubAdvisories,[GHSA-r5cr-xm48-97xp] XWiki missing authorization when accessing the wiki level attachments list and metadata via REST API,https://github.com/advisories/GHSA-r5cr-xm48-97xp,https://da.gd/4K7yzm
