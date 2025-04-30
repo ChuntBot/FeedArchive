@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w222-m46c-mgh6] OpenFGA Authorization Bypass,https://github.com/advisories/GHSA-w222-m46c-mgh6,https://da.gd/l37SMa
+GithubAdvisories,[GHSA-hg79-fw4p-25p8] Volcano Scheduler Denial of Service via Unbounded Response from Elastic Service/extender Plugin,https://github.com/advisories/GHSA-hg79-fw4p-25p8,https://da.gd/vA2H89
+GithubAdvisories,[GHSA-xq7p-g2vc-g82p] Homograph attack allows Unicode lookalike characters to bypass validation,https://github.com/advisories/GHSA-xq7p-g2vc-g82p,https://da.gd/Bpv3
