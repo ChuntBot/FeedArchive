@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 41: DIGIKAM 2025-5bbbb2df79 Update for Libraw Integration,https://linuxsecurity.com/advisories/fedora/fedora-41-digikam-2025-5bbbb2df79-5sliv4jds9qj,https://da.gd/csaHyp
+LinuxSecurity,Fedora 41: icecat 2025-883816b756 critical: use-after-free in rust-openssl,https://linuxsecurity.com/advisories/fedora/fedora-41-icecat-2025-883816b756-sfprcqpj4czi,https://da.gd/iLnKF
+LinuxSecurity,Fedora 41: 2025-e7dea91428 moderate: mingw-LibRaw buffer access,https://linuxsecurity.com/advisories/fedora/fedora-41-mingw-libraw-2025-e7dea91428-rginkjnpuf1h,https://da.gd/4Fo3zC
