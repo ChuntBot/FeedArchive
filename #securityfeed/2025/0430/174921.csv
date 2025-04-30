@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-927q-g9w9-pm54] Panic in mp3-metadata due to the lack of bounds checking,https://github.com/advisories/GHSA-927q-g9w9-pm54,https://da.gd/5ge5r
+GithubAdvisories,[GHSA-859w-5945-r5v3] Vite's server.fs.deny bypassed with /. for files under project root,https://github.com/advisories/GHSA-859w-5945-r5v3,https://da.gd/7RL97L
+GithubAdvisories,[GHSA-6jmr-r7p6-f5wr] ShowDoc unrestricted file upload vulnerability,https://github.com/advisories/GHSA-6jmr-r7p6-f5wr,https://da.gd/vu0El
+GithubAdvisories,[GHSA-5jfq-x6xp-7rw2] Keycloak vulnerable to two factor authentication bypass,https://github.com/advisories/GHSA-5jfq-x6xp-7rw2,https://da.gd/PGkdjP
+GithubAdvisories,[GHSA-fx44-2wx5-5fvp] Duplicate Advisory: Keycloak vulnerable to two factor authentication bypass,https://github.com/advisories/GHSA-fx44-2wx5-5fvp,https://da.gd/otgm
+GithubAdvisories,[GHSA-hw58-3793-42gg] Keycloak hostname verification,https://github.com/advisories/GHSA-hw58-3793-42gg,https://da.gd/NdDpCv
+GithubAdvisories,[GHSA-r934-w73g-v4p8] Duplicate Advisory: Keycloak hostname verification,https://github.com/advisories/GHSA-r934-w73g-v4p8,https://da.gd/MvGigc
