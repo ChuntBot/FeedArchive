@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian 11: DLA-4146-1 moderate: libxml2 out-of-bounds and heap overflow,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4146-1-libxml2-security-update-aukc13barzhv,https://da.gd/KSSqMr
+LinuxSecurity,Debian 11: DLA-4145-1 urgent: expat XML parser vulnerability fix,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4145-1-expat-security-update-bik2mybctvkf,https://da.gd/BlsOTx
+LinuxSecurity,SUSE Linux Server 15 SP5: 2025:1419-1 important: redis DoS issue,https://linuxsecurity.com/advisories/suse/suse-2025-1419-1-important-redis-rohcpaqkpgbz,https://da.gd/W5PPP
+LinuxSecurity,openSUSE: 2025:1419-1 important: redis denial of service patch,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-1419-1-important-redis-eigyuzs0aiqm,https://da.gd/OfLIZw
+LinuxSecurity,SUSE: 2025:1420-1 important: redis buffer overflow mitigated,https://linuxsecurity.com/advisories/suse/suse-2025-1420-1-important-redis-bhf74rowbd1s,https://da.gd/T70a2h
+LinuxSecurity,openSUSE 2025:1420-1 critical: redis denial of service patch,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-1420-1-important-redis-dsjbxy5tku2b,https://da.gd/yc0p2
