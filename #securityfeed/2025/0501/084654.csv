@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian 11: DLA-4150-1 critical: u-boot buffer overflow and DoS,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4150-1-u-boot-security-update-ghlhfc1kbkxe,https://da.gd/JjtOf
+LinuxSecurity,Debian LTS: DLA-4149-1 critical: nagvis path traversal & RCE,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4149-1-nagvis-security-update-cplv7haomrbd,https://da.gd/dYLSf
+LinuxSecurity,Fedora 40: FEDORA-2025-7d0fc65561 critical: giflib buffer overflow,https://linuxsecurity.com/advisories/fedora/fedora-40-giflib-2025-7d0fc65561-zqh2q6mwps8l,https://da.gd/5seDxA
+LinuxSecurity,Fedora 42: FEDORA-2025-908a30fd98 moderate: firefox software update,https://linuxsecurity.com/advisories/fedora/fedora-42-firefox-2025-908a30fd98-dpm7itrcyfw4,https://da.gd/IJw7
+LinuxSecurity,Fedora 42: FEDORA-2025-013f8d6631 critical: Thunderbird update,https://linuxsecurity.com/advisories/fedora/fedora-42-thunderbird-2025-013f8d6631-qyhz5t5izswr,https://da.gd/sAJkB
