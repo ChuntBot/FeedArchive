@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6m8w-jc87-6cr7] OPA server Data API HTTP path injection of Rego,https://github.com/advisories/GHSA-6m8w-jc87-6cr7,https://da.gd/z9ok1R
+GithubAdvisories,[GHSA-qgp8-v765-qxx9] @cloudflare/workers-oauth-provider PKCE bypass via downgrade attack,https://github.com/advisories/GHSA-qgp8-v765-qxx9,https://da.gd/Ee56A4
+GithubAdvisories,[GHSA-vh4h-fvqf-q9wv] Duplicate Advisory: @cloudflare/workers-oauth-provider PKCE bypass via downgrade attack,https://github.com/advisories/GHSA-vh4h-fvqf-q9wv,https://da.gd/5yHj4
+GithubAdvisories,[GHSA-4pc9-x2fx-p7vj] @cloudflare/workers-oauth-provider missing validation of redirect_uri on authorize endpoint,https://github.com/advisories/GHSA-4pc9-x2fx-p7vj,https://da.gd/Gqgx8P
+GithubAdvisories,[GHSA-7cp4-jw97-3rc2] Duplicate Advisory: @cloudflare/workers-oauth-provider missing validation of redirect_uri on authorize endpoint,https://github.com/advisories/GHSA-7cp4-jw97-3rc2,https://da.gd/gRxcV
