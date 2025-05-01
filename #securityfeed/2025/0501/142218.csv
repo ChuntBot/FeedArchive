@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8x27-jwjr-8545] SQL injection in ADOdb PostgreSQL driver pg_insert_id() method,https://github.com/advisories/GHSA-8x27-jwjr-8545,https://da.gd/FIjEEZ
