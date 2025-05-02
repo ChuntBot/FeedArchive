@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 40 2025-c3c3774126: TOCTOU issue fixed in NVIDIA Toolkit 1.17.4,https://linuxsecurity.com/advisories/fedora/fedora-40-golang-github-nvidia-container-toolkit-2025-c3c3774126-uvzmwx9fttg2,https://da.gd/m2i0b
+LinuxSecurity,Fedora 41: FEDORA-2025-23fe8c5b7e critical: thunderbird email client,https://linuxsecurity.com/advisories/fedora/fedora-41-thunderbird-2025-23fe8c5b7e-02scjd4nukfj,https://da.gd/XzVv5
+LinuxSecurity,Fedora 41: FEDORA-2025-33d579ecb1 moderate update: firefox upstream upgrade,https://linuxsecurity.com/advisories/fedora/fedora-41-firefox-2025-33d579ecb1-zq3vr9odginu,https://da.gd/nbpplP
+LinuxSecurity,Fedora 41: 2025-0245d352e6 moderate: NVIDIA Toolkit TOCTOU Fix,https://linuxsecurity.com/advisories/fedora/fedora-41-golang-github-nvidia-container-toolkit-2025-0245d352e6-2sgst2ss4zuv,https://da.gd/0X3Pe
+LinuxSecurity,Debian Bookworm DSA-5914-1 critical: chromium DoS and code exec risk,https://linuxsecurity.com/advisories/debian/debian-dsa-5914-1-chromium-nnvgfyv5fswk,https://da.gd/DfnxH
+LinuxSecurity,Fedora 42: FEDORA-2025-f59d38d111 moderate: NVIDIA toolkit update,https://linuxsecurity.com/advisories/fedora/fedora-42-golang-github-nvidia-container-toolkit-2025-f59d38d111-edii4iwkcvp4,https://da.gd/NpIXPL
