@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f9ch-h8j7-8jwg] Hashicorp Vault Community vulnerable to Incorrect Authorization,https://github.com/advisories/GHSA-f9ch-h8j7-8jwg,https://da.gd/aUUcSQ
+GithubAdvisories,[GHSA-gcqf-f89c-68hv] Hashicorp Vault Community vulnerable to Generation of Error Message Containing Sensitive Information,https://github.com/advisories/GHSA-gcqf-f89c-68hv,https://da.gd/pHlcCF
+GithubAdvisories,[GHSA-892p-pqrr-hxqr] Information Disclosure via Flags override link,https://github.com/advisories/GHSA-892p-pqrr-hxqr,https://da.gd/ZvtV1
