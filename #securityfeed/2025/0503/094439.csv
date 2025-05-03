@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42: FEDORA-2025-eab322e215 critical: chromium memory issues,https://linuxsecurity.com/advisories/fedora/fedora-42-chromium-2025-eab322e215-matixtsmvgmh,https://da.gd/SlLvX
+LinuxSecurity,Fedora 42: FEDORA-2025-e1bb9ed986 moderate: Thunderbird 128.10.0 update,https://linuxsecurity.com/advisories/fedora/fedora-42-thunderbird-2025-e1bb9ed986-61fzbcelqh4r,https://da.gd/kjlOw0
+LinuxSecurity,Fedora 42: ntpd-rs 1.5.0 critical: Denial of Service Fix,https://linuxsecurity.com/advisories/fedora/fedora-42-ntpd-rs-2025-c480cf7e5e-8puzirgcihdp,https://da.gd/N3yo3
+LinuxSecurity,Fedora 42: Update rust-hickory-proto 0.24.4 addressing RUSTSEC-2025-0006,https://linuxsecurity.com/advisories/fedora/fedora-42-rust-hickory-proto-2025-99f0d93d68-wusshyjqi0oe,https://da.gd/oz6kUF
+LinuxSecurity,Fedora 42: FEDORA-2025-69a1acbbc0 critical: pnpm CVE-2024-47829,https://linuxsecurity.com/advisories/fedora/fedora-42-nodejs-pnpm-2025-69a1acbbc0-dloofoctwqwz,https://da.gd/ySsUJ
+LinuxSecurity,Fedora 42: FEDORA-2025-69a1acbbc0 high: Update pnpm and Bash Server,https://linuxsecurity.com/advisories/fedora/fedora-42-nodejs-bash-language-server-2025-69a1acbbc0-xaamnrr7qjui,https://da.gd/7nSL
