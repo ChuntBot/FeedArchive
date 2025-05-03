@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 41: FEDORA-2025-def79f4594 moderate: RUSTSEC-2025-0006 fix,https://linuxsecurity.com/advisories/fedora/fedora-41-rust-hickory-proto-2025-def79f4594-3gsfltn5hn5x,https://da.gd/tMPDOP
+LinuxSecurity,Fedora 41 ntpd-rs 1.5.0 critical: DoS vulnerability fix,https://linuxsecurity.com/advisories/fedora/fedora-41-ntpd-rs-2025-e9be11b9ba-oiyq3j2ivglm,https://da.gd/H17B3
+LinuxSecurity,Fedora 41: FEDORA-2025-d4cc30bdfb moderate: pnpm security fix,https://linuxsecurity.com/advisories/fedora/fedora-41-nodejs-pnpm-2025-d4cc30bdfb-gerajvs9kbjs,https://da.gd/EYiAQb
+LinuxSecurity,Fedora 41: 2025-d4cc30bdfb critical: nodejs-bash-language-server update,https://linuxsecurity.com/advisories/fedora/fedora-41-nodejs-bash-language-server-2025-d4cc30bdfb-zn4emnboqlbj,https://da.gd/PUOjrB
+LinuxSecurity,Fedora 41: valkey 8.0.3 security fix advisory for CVE-2025-21605,https://linuxsecurity.com/advisories/fedora/fedora-41-valkey-2025-d191ee2f9a-wncferqqxent,https://da.gd/2zTLc
+LinuxSecurity,Fedora 40: rust-hickory-proto 0.24.4 update addressing RUSTSEC-2025-0006,https://linuxsecurity.com/advisories/fedora/fedora-40-rust-hickory-proto-2025-5e5b0cc812-iu9s5vyuwphg,https://da.gd/8PHV6
