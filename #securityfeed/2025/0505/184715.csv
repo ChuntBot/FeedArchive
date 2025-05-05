@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x39x-9qw5-ghrf] Browser Use allows bypassing `allowed_domains` by putting a decoy domain in http auth username portion of a URL,https://github.com/advisories/GHSA-x39x-9qw5-ghrf,https://da.gd/uMon2
+GithubAdvisories,[GHSA-f54f-hr32-586f] Duplicate Advisory: `allowed_domains` can be bypassed by putting a decoy domain in http auth username portion of a URL,https://github.com/advisories/GHSA-f54f-hr32-586f,https://da.gd/2ALbD
