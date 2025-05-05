@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mwfg-948f-2cc5] Mobile Security Framework (MobSF) Allows Stored Cross Site Scripting (XSS) via malicious SVG Icon Upload,https://github.com/advisories/GHSA-mwfg-948f-2cc5,https://da.gd/MvtG6H
+GithubAdvisories,[GHSA-96hh-8hx5-cpw7] October CMS Allows Unprotected SVG Rename in Media Manager,https://github.com/advisories/GHSA-96hh-8hx5-cpw7,https://da.gd/0D7iMs
