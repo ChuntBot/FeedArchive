@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h94w-8qhg-3xmc] WSO2 API Manager XML External Entity (XXE) vulnerability,https://github.com/advisories/GHSA-h94w-8qhg-3xmc,https://da.gd/xJGVI
+GithubAdvisories,[GHSA-h3vp-qwmx-5j25] Grokability Snipe-IT has incorrect authorization for accessing asset information,https://github.com/advisories/GHSA-h3vp-qwmx-5j25,https://da.gd/rMehuC
+GithubAdvisories,[GHSA-jf2r-x3j4-23m7] OpenVM allows the byte decomposition of pc in AUIPC chip to overflow,https://github.com/advisories/GHSA-jf2r-x3j4-23m7,https://da.gd/tEJA0
