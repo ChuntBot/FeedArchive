@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pw95-88fg-3j6f] Langroid Allows XXE Injection via XMLToolMessage,https://github.com/advisories/GHSA-pw95-88fg-3j6f,https://da.gd/SlQmt
+GithubAdvisories,[GHSA-3527-qv2q-pfvx] league/commonmark contains a XSS vulnerability in Attributes extension,https://github.com/advisories/GHSA-3527-qv2q-pfvx,https://da.gd/s2CqR1
