@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+LinuxSecurity,openSUSE Tumbleweed: 2025:15051-1 moderate: chromedriver security issues,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-15051-1-moderate-chromedriver-136-0-7103-59-1-1-kxvrsrc3jglg,https://da.gd/bvuzX
+LinuxSecurity,Ubuntu 24.10: USN-7478-1 critical: Corosync denial of service,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7478-1-corosync-og0xfuqdnptk,https://da.gd/eiFNOm
+LinuxSecurity,"Ubuntu 25.04, 24.10: USN-7477-1 critical: c-ares DoS issue",https://linuxsecurity.com/advisories/ubuntu/ubuntu-7477-1-c-ares-ujetesv9z582,https://da.gd/jsqIS
