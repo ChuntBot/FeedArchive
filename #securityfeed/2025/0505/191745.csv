@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hg9m-67mm-7pg3] Keystone has an unintended `isFilterable` bypass that can be used as an oracle to match hidden fields,https://github.com/advisories/GHSA-hg9m-67mm-7pg3,https://da.gd/9tpE
