@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g4r8-mp7g-85fq] ZITADEL Allows IdP Intent Token Reuse,https://github.com/advisories/GHSA-g4r8-mp7g-85fq,https://da.gd/wRPzo
+GithubAdvisories,[GHSA-53wx-pr6q-m3j5] Apache Parquet Java: Potential malicious code execution from trusted packages in the parquet-avro module when reading an Avro schema from a Parquet file metadata,https://github.com/advisories/GHSA-53wx-pr6q-m3j5,https://da.gd/gWVHIy
+GithubAdvisories,"[GHSA-rwj2-w85g-5cmm] goshs route not protected, allows command execution",https://github.com/advisories/GHSA-rwj2-w85g-5cmm,https://da.gd/DnnwCx
+GithubAdvisories,[GHSA-m2xr-2vj4-wh94] tanton_engine has unsound public API,https://github.com/advisories/GHSA-m2xr-2vj4-wh94,https://da.gd/Df2g
+GithubAdvisories,[GHSA-jqx4-9gpq-rppm] @misskey-dev/summaly allows IP Filter Bypass via Redirect,https://github.com/advisories/GHSA-jqx4-9gpq-rppm,https://da.gd/YOmNp
