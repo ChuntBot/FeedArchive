@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f7jh-m6wp-jm7f] HAL Cross Site Scripting (XSS) vulnerability of user input when storing it in a data store,https://github.com/advisories/GHSA-f7jh-m6wp-jm7f,https://da.gd/MovAAH
+GithubAdvisories,[GHSA-hp88-hfjw-2hg4] Duplicate Advisory: HAL Cross Site Scripting (XSS) vulnerability of user input when storing it in a data store,https://github.com/advisories/GHSA-hp88-hfjw-2hg4,https://da.gd/8Yzi
+GithubAdvisories,[GHSA-2544-hpcq-6g27] Mezzanine CMS Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-2544-hpcq-6g27,https://da.gd/0e2yvv
+GithubAdvisories,[GHSA-w7xj-pj5f-8pwh] BRCC Incorrect Access Control vulnerability,https://github.com/advisories/GHSA-w7xj-pj5f-8pwh,https://da.gd/sXgW
