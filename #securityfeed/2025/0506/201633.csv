@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p2f8-vq4r-gqg3] Liferay Portal Reflected XSS in marketplace-app-manager-web,https://github.com/advisories/GHSA-p2f8-vq4r-gqg3,https://da.gd/8tzEK
+GithubAdvisories,[GHSA-58xc-hpvq-8473] Redox UEFI Safe API can cause heap-buffer-overflow,https://github.com/advisories/GHSA-58xc-hpvq-8473,https://da.gd/wIDkH9
+GithubAdvisories,[GHSA-8w8f-h4cm-c4pg] Casdoor SCIM User Creation Endpoint scim.go HandleScim authorization in github.com/casdoor/casdoor,https://github.com/advisories/GHSA-8w8f-h4cm-c4pg,https://da.gd/Qhr1Q
