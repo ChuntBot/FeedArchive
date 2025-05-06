@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4g8m-5mj5-c8xg] Umbraco Makes User Enumeration Feasible Based on Timing of Login Response,https://github.com/advisories/GHSA-4g8m-5mj5-c8xg,https://da.gd/6efT
+GithubAdvisories,[GHSA-4vgf-2cm4-mp7c] Terraform WinDNS Provider improperly sanitizes input variables in `windns_record`,https://github.com/advisories/GHSA-4vgf-2cm4-mp7c,https://da.gd/vLpJl
+GithubAdvisories,[GHSA-9pcc-gvx5-r5wm] Remote Code Execution Vulnerability in vLLM Multi-Node Cluster Configuration,https://github.com/advisories/GHSA-9pcc-gvx5-r5wm,https://da.gd/SdSeot
