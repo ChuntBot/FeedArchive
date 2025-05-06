@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8gqj-226h-gm8r] Passport-wsfed-saml2 allows SAML Authentication Bypass via Attribute Smuggling,https://github.com/advisories/GHSA-8gqj-226h-gm8r,https://da.gd/jcwdSt
+GithubAdvisories,[GHSA-wjmp-wphq-jvqf] Passport-wsfed-saml2 allows SAML Authentication Bypass via Signature Wrapping,https://github.com/advisories/GHSA-wjmp-wphq-jvqf,https://da.gd/smEZa
