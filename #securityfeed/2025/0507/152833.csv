@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-76vf-mpmx-777j] Graylog Allows Session Takeover via Insufficient HTML Sanitization,https://github.com/advisories/GHSA-76vf-mpmx-777j,https://da.gd/u0q4I
+GithubAdvisories,[GHSA-q9q2-3ppx-mwqf] Graylog Allows Stored Cross-Site Scripting via Files Plugin and API Browser,https://github.com/advisories/GHSA-q9q2-3ppx-mwqf,https://da.gd/66lm
+GithubAdvisories,[GHSA-79m9-55jc-p6mw] scanner has a Public API without sufficient bounds checking,https://github.com/advisories/GHSA-79m9-55jc-p6mw,https://da.gd/29UDh
+GithubAdvisories,[GHSA-whxr-3p84-rf3c] Apache ActiveMQ: Unchecked buffer length can cause excessive memory allocation,https://github.com/advisories/GHSA-whxr-3p84-rf3c,https://da.gd/BmzmZ
+GithubAdvisories,[GHSA-qv97-5qr8-2266] Mithril snapshots for Cardano database could be compromised by an adversary,https://github.com/advisories/GHSA-qv97-5qr8-2266,https://da.gd/oVWJ2
