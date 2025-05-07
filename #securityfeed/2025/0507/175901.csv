@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rvxr-pf5f-j2qj] OpenStack Kolla sudo privilege escalation vulnerability,https://github.com/advisories/GHSA-rvxr-pf5f-j2qj,https://da.gd/kcaazo
+GithubAdvisories,[GHSA-72qj-48g4-5xgx] JRuby-OpenSSL has hostname verification disabled by default,https://github.com/advisories/GHSA-72qj-48g4-5xgx,https://da.gd/kgTPsK
