@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4h96-mv53-2c86] fast_id_map has a soundness issue and is unmaintained,https://github.com/advisories/GHSA-4h96-mv53-2c86,https://da.gd/tnim3v
+GithubAdvisories,[GHSA-8j24-cjrq-gr2m] Django has a denial-of-service possibility in strip_tags(),https://github.com/advisories/GHSA-8j24-cjrq-gr2m,https://da.gd/Q9yg
+GithubAdvisories,[GHSA-7vrx-9684-xrf2] Craft CMS stores arbitrary content provided by unauthenticated users in session files,https://github.com/advisories/GHSA-7vrx-9684-xrf2,https://da.gd/IV5Z
+GithubAdvisories,[GHSA-mcrw-746g-9q8h] Trix vulnerable to Cross-site Scripting on copy & paste,https://github.com/advisories/GHSA-mcrw-746g-9q8h,https://da.gd/GUd0x
+GithubAdvisories,[GHSA-gjh7-p2fx-99vx] Rack has an Unbounded-Parameter DoS in Rack::QueryParser,https://github.com/advisories/GHSA-gjh7-p2fx-99vx,https://da.gd/1yOrd
+GithubAdvisories,[GHSA-9j94-67jr-4cqj] Rack session gets restored after deletion,https://github.com/advisories/GHSA-9j94-67jr-4cqj,https://da.gd/o3AoII
+GithubAdvisories,[GHSA-vpfw-47h7-xj4g] Rack session gets restored after deletion,https://github.com/advisories/GHSA-vpfw-47h7-xj4g,https://da.gd/fPbC
