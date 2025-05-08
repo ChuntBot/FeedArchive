@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] Fix force password update at next login,https://github.com/mailcow/mailcow-dockerized/commit/cb47fa406f10ce929543e3e918c11b985a500ab2,https://da.gd/Ccax49
+GithubCommitStaging,Merge remote-tracking branch 'origin/staging' into fix/6469,https://github.com/mailcow/mailcow-dockerized/commit/5b89e253a614b8a7fd30c6b88d6e8d2cc18355a9,https://da.gd/IgCf
+GithubCommitStaging,Merge pull request #6487 from mailcow/fix/6469,https://github.com/mailcow/mailcow-dockerized/commit/7d3ef3d67f3a2961cd635461aaf9be8e3953f99f,https://da.gd/DU9Vc
