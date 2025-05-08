@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Dovecot] Ignore app passwords protocol access on SOGo request,https://github.com/mailcow/mailcow-dockerized/commit/766c5e85801b9719e3447b935f03bb5dd84fda9e,https://da.gd/DKBLlQ
+GithubCommitStaging,[Dovecot] Fix EAS login and improve logging,https://github.com/mailcow/mailcow-dockerized/commit/c4d0f35008b9dfa1f8f2e87e55d308cc220bf181,https://da.gd/kF9yas
+GithubCommitStaging,Check if skip_sogo is not set before redirecting to SOGo,https://github.com/mailcow/mailcow-dockerized/commit/d8c6ed919144b0b97eaa9a329fe3366a04c422e7,https://da.gd/nLpf
+GithubCommitStaging,[Dovecot] return PASSDB_RESULT_PASSWORD_MISMATCH instead of PASSDB_RE…,https://github.com/mailcow/mailcow-dockerized/commit/401b744808ff127b625001d8512d80d108d58a6a,https://da.gd/PwMLb
+GithubCommitStaging,Merge pull request #6488 from mailcow/fix/6470,https://github.com/mailcow/mailcow-dockerized/commit/db7b917944de32be12fcf640b216bda739073bc5,https://da.gd/DMnxe
+GithubCommitStaging,Merge pull request #6495 from Kuehn-Andreas/fix/redirection-after-log…,https://github.com/mailcow/mailcow-dockerized/commit/a90f4c2a2e24d04de7d863677c0e426a6719779f,https://da.gd/5hd8u
