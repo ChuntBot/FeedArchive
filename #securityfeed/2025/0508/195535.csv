@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fxvx-gfmr-5xfj] Koillection Cross Site Scripting vulnerability,https://github.com/advisories/GHSA-fxvx-gfmr-5xfj,https://da.gd/xwgI
+GithubAdvisories,[GHSA-889j-63jv-qhr8] Eclipse Jetty HTTP/2 client can force the server to allocate a humongous byte buffer that may lead to OoM and subsequently the JVM to exit,https://github.com/advisories/GHSA-889j-63jv-qhr8,https://da.gd/OleTIe
+GithubAdvisories,[GHSA-q4rv-gq96-w7c5] **UNSUPPORTED WHEN ASSIGNED** GzipHandler causes part of request body to be seen as request body of a separate request,https://github.com/advisories/GHSA-q4rv-gq96-w7c5,https://da.gd/ZnEfeb
