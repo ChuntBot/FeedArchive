@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c86p-w88r-qvqr] ring has some AES functions that may panic when overflow checking is enabled in,https://github.com/advisories/GHSA-c86p-w88r-qvqr,https://da.gd/nyS0u
+GithubAdvisories,[GHSA-p483-wpfp-42cj] code-server's session cookie can be extracted by having user visit specially crafted proxy URL,https://github.com/advisories/GHSA-p483-wpfp-42cj,https://da.gd/ht2DSi
