@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Allow additional domains in OAuth2 redirect URLs,https://github.com/mailcow/mailcow-dockerized/commit/692355a08ad935b147ef8e877635d247a0e5aac3,https://da.gd/lRtbfF
+GithubCommitStaging,Update functions.quarantine.inc.php,https://github.com/mailcow/mailcow-dockerized/commit/d55f0fc36618a41ae68a9475826d003ee11a89e7,https://da.gd/BzJILh
+GithubCommitStaging,Merge pull request #6483 from PseudoResonance/oauth2-redirect-extra-d…,https://github.com/mailcow/mailcow-dockerized/commit/e7a1f24c784e24dfdab91698e346a07531dc9055,https://da.gd/hrlRm
+GithubCommitStaging,Merge pull request #6506 from mrclschstr/staging,https://github.com/mailcow/mailcow-dockerized/commit/846862aa803d63fdb5a8be25b73290bd13d5eaee,https://da.gd/KfY5
