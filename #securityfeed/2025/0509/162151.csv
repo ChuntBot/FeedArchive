@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pvp8-3xj6-8c6x] Apache Commons Configuration Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-pvp8-3xj6-8c6x,https://da.gd/2aZz
+GithubAdvisories,[GHSA-6x45-r4pr-5362] trailer mishandles allocating with a size of zero,https://github.com/advisories/GHSA-6x45-r4pr-5362,https://da.gd/xMSyz
+GithubAdvisories,[GHSA-8m95-fffc-h4c5] libsql-sqlite3-parser crash due to invalid UTF-8 input,https://github.com/advisories/GHSA-8m95-fffc-h4c5,https://da.gd/GnNQ5j
+GithubAdvisories,[GHSA-2w4w-4385-vh4h] wgp race condition in inner::drop,https://github.com/advisories/GHSA-2w4w-4385-vh4h,https://da.gd/xPCYo
