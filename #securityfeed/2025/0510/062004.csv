@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 41: epiphany 2025-164c668d6a critical: external protocol issue,https://linuxsecurity.com/advisories/fedora/fedora-41-epiphany-2025-164c668d6a-jcczqizwtgya,https://da.gd/MwrFE
+LinuxSecurity,Fedora 41: FEDORA-2025-051becf4f2 moderate: perl-Compress-Raw-Lzma heap bug,https://linuxsecurity.com/advisories/fedora/fedora-41-perl-compress-raw-lzma-2025-051becf4f2-tzsw7v4eyemd,https://da.gd/rkpcJ
+LinuxSecurity,Fedora 41: Security Advisory FEDORA-2025-051becf4f2 on xz 5.8.1,https://linuxsecurity.com/advisories/fedora/fedora-41-xz-2025-051becf4f2-ikknuw6auryk,https://da.gd/N5B0w
+LinuxSecurity,Fedora 40: FEDORA-2025-4871b31998 critical: xz heap-use-after-free,https://linuxsecurity.com/advisories/fedora/fedora-40-xz-2025-4871b31998-pjri8msmjzbr,https://da.gd/9UeI
+LinuxSecurity,Fedora 40: 2025-4871b31998 moderate: perl-Compress-Raw-Lzma heap bug,https://linuxsecurity.com/advisories/fedora/fedora-40-perl-compress-raw-lzma-2025-4871b31998-vy5y113mmctr,https://da.gd/ewyQk
+LinuxSecurity,Fedora 42: FEDORA-2025-11090ba13f critical: libxmp buffer overflow,https://linuxsecurity.com/advisories/fedora/fedora-42-libxmp-2025-11090ba13f-xbltyrqtjzfa,https://da.gd/mOcw
