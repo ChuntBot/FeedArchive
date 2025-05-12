@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Gentoo: GLSA-202505-06 High: glibc buffer overflow risk issue,https://linuxsecurity.com/advisories/gentoo/gentoo-glsa-202505-06-glibc-buffer-overflow-m0ik1ajlvm8p,https://da.gd/xkO4kh
+LinuxSecurity,Debian 11: DLA-4162-1 critical: redis unlimited buffer overflow,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4162-1-redis-security-update-vienwp1hnwlw,https://da.gd/qLe8h
+LinuxSecurity,Ubuntu 16.04 LTS USN-7506-3 high: Linux kernel access control flaws,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7506-3-linux-kernel-fips-favj2bgqgkm6,https://da.gd/fP4pvH
+LinuxSecurity,Ubuntu 14.04 LTS: USN-7506-2 critical: aws kernel memory access,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7506-2-linux-kernel-aws-vrrcs4hh79hj,https://da.gd/mYGAxS
+LinuxSecurity,Ubuntu 16.04 LTS USN-7506-1 critical: Linux kernel denial of service,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7506-1-linux-kernel-betnltdo5at6,https://da.gd/NYzY2F
+LinuxSecurity,Gentoo: GLSA-202505-05 High: Orc Arbitrary Execution Risk,https://linuxsecurity.com/advisories/gentoo/gentoo-glsa-202505-05-orc-arbitrary-code-execution-cibll4h59ceb,https://da.gd/HvvE5v
