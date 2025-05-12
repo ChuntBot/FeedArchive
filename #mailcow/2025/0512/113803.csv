@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,fix: typo in default_template,https://github.com/mailcow/mailcow-dockerized/commit/cb6ffe65c8fb0ec4b96abfd45c352f89a52bf40b,https://da.gd/x9Md
+GithubCommitStaging,[Web] Add identity_provider option to disable auto-creation of users …,https://github.com/mailcow/mailcow-dockerized/commit/1b2f424edc7b5f91c450b36b5cf64f012e7b821b,https://da.gd/r1Cb
+GithubCommitStaging,Merge pull request #6518 from seclution/patch-2,https://github.com/mailcow/mailcow-dockerized/commit/1bcab9a9a52da5ff7eed0aa51562334709071585,https://da.gd/37jfW
+GithubCommitStaging,Merge pull request #6530 from mailcow/feat/auto-create-user-option,https://github.com/mailcow/mailcow-dockerized/commit/7f47a3f00e49da49999f18796a35e5785ed1fbc6,https://da.gd/aPaefc
