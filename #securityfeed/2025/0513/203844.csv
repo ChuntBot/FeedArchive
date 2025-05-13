@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4grg-w6v8-c28g] Flask uses fallback key instead of current signing key,https://github.com/advisories/GHSA-4grg-w6v8-c28g,https://da.gd/jC5S
+GithubAdvisories,[GHSA-w6c7-j32f-rq8j] Apache Superset Allows Ownership Takeover,https://github.com/advisories/GHSA-w6c7-j32f-rq8j,https://da.gd/V6wjDn
+GithubAdvisories,[GHSA-2qrj-g9hq-chph] Umbraco.Forms has HTML injection vulnerability in 'Send email' workflow,https://github.com/advisories/GHSA-2qrj-g9hq-chph,https://da.gd/jRnVd
