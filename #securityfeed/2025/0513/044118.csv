@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian 11: DLA-4164-1 critical: libeconf buffer overflow,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4164-1-libeconf-security-update-kpaqhgewtvuj,https://da.gd/wCIr
+LinuxSecurity,Debian 11: DLA-4163-1 critical: rubygems code execution risks,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4163-1-rubygems-security-update-brjwk0muu2my,https://da.gd/cmnWUC
+LinuxSecurity,openSUSE Leap 15.6: 2025:1534-1 low: augeas NULL pointer issue,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-1534-1-low-augeas-sfvn8lxccmlx,https://da.gd/cJlss
+LinuxSecurity,SUSE: 2025:1534-1 low severity: augeas NULL pointer issue,https://linuxsecurity.com/advisories/suse/suse-2025-1534-1-low-augeas-wldeucub2vlz,https://da.gd/EH6WVu
