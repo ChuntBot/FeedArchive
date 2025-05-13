@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h4j7-5rxr-p4wc] Microsoft.Build.Tasks.Core .NET Spoofing Vulnerability,https://github.com/advisories/GHSA-h4j7-5rxr-p4wc,https://da.gd/H4vSl
+GithubAdvisories,[GHSA-56wx-66px-9j66] OPKSSH Vulnerable to Authentication Bypass,https://github.com/advisories/GHSA-56wx-66px-9j66,https://da.gd/imtjIl
+GithubAdvisories,[GHSA-537f-gxgm-3jjq] OpenPubkey Vulnerable to Authentication Bypass,https://github.com/advisories/GHSA-537f-gxgm-3jjq,https://da.gd/Tqvbzx
