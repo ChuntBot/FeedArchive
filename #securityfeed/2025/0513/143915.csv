@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-98cv-wqjx-wx8f] sudo-rs Allows Low Privilege Users to Discover the Existence of Files in Inaccessible Folders,https://github.com/advisories/GHSA-98cv-wqjx-wx8f,https://da.gd/bmFo
