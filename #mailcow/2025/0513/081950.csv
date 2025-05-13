@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,Merge remote-tracking branch 'origin/staging' into fix/6469,https://github.com/mailcow/mailcow-dockerized/commit/5b89e253a614b8a7fd30c6b88d6e8d2cc18355a9,https://da.gd/IgCf
+GithubCommit,Merge pull request #6487 from mailcow/fix/6469,https://github.com/mailcow/mailcow-dockerized/commit/7d3ef3d67f3a2961cd635461aaf9be8e3953f99f,https://da.gd/DU9Vc
+GithubCommit,Merge pull request #6485 from Habetdin/fix/update-legacy-links,https://github.com/mailcow/mailcow-dockerized/commit/badcd27b9325ff51e2d93aa4023c6efc4a198dbf,https://da.gd/UD5Sn
+GithubCommit,Merge pull request #6376 from NickBouwhuis/staging,https://github.com/mailcow/mailcow-dockerized/commit/0c8e7bfeca1e747a253ea3b7753e015cfa926c7f,https://da.gd/fAPs36
+GithubCommit,Merge pull request #6342 from mailcow/fix/6339,https://github.com/mailcow/mailcow-dockerized/commit/0680b2193855d067c3bf8f52ce3ca58c939c8d8e,https://da.gd/hhbfa
+GithubCommit,Merge pull request #6398 from marvinruder/feat/skip-olefy,https://github.com/mailcow/mailcow-dockerized/commit/8ff0e029f0415e9096cb2b520de8ebe5df1c5cbf,https://da.gd/2fGQj
+GithubCommit,Merge pull request #6483 from PseudoResonance/oauth2-redirect-extra-d…,https://github.com/mailcow/mailcow-dockerized/commit/e7a1f24c784e24dfdab91698e346a07531dc9055,https://da.gd/hrlRm
+GithubCommit,Merge pull request #6506 from mrclschstr/staging,https://github.com/mailcow/mailcow-dockerized/commit/846862aa803d63fdb5a8be25b73290bd13d5eaee,https://da.gd/KfY5
+GithubCommit,Merge pull request #6509 from mailcow/update/postscreen_access.cidr,https://github.com/mailcow/mailcow-dockerized/commit/580dabd276318342c8b8f9e94b72b4f2c71e9fe0,https://da.gd/8Yyi4
+GithubCommit,fix: typo in default_template,https://github.com/mailcow/mailcow-dockerized/commit/cb6ffe65c8fb0ec4b96abfd45c352f89a52bf40b,https://da.gd/x9Md
+GithubCommit,[Web] Add quick links to other login pages and option to disable mail…,https://github.com/mailcow/mailcow-dockerized/commit/ea0944d743c0f261cea57693dd1da9970206e99c,https://da.gd/MgyX
+GithubCommit,Merge pull request #6521 from mailcow/feat/login-quicklinks,https://github.com/mailcow/mailcow-dockerized/commit/75d7f06b259fc033c1224cafa566e4e5029ab21e,https://da.gd/vybGY
+GithubCommit,Fix typo in rspamd rule in composites.conf (#6515),https://github.com/mailcow/mailcow-dockerized/commit/486b2974092dc5a42178204ff587650a8452c9c0,https://da.gd/a2usp
+GithubCommit,[Web] Add identity_provider option to disable auto-creation of users …,https://github.com/mailcow/mailcow-dockerized/commit/1b2f424edc7b5f91c450b36b5cf64f012e7b821b,https://da.gd/r1Cb
+GithubCommit,Merge pull request #6518 from seclution/patch-2,https://github.com/mailcow/mailcow-dockerized/commit/1bcab9a9a52da5ff7eed0aa51562334709071585,https://da.gd/37jfW
+GithubCommit,Merge pull request #6530 from mailcow/feat/auto-create-user-option,https://github.com/mailcow/mailcow-dockerized/commit/7f47a3f00e49da49999f18796a35e5785ed1fbc6,https://da.gd/aPaefc
+GithubCommit,"increase Olefy, Rspamd and Watchdog docker images",https://github.com/mailcow/mailcow-dockerized/commit/ffa29338737069d7e15fe26933cbb3aa8b8fcc2b,https://da.gd/M7Mk8
+GithubCommit,Merge pull request #6535 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/798e6a4c0015f5689220f881801a2de7b235d8c0,https://da.gd/W4BvG
+GithubCommit,[Web] Fix get custom_login,https://github.com/mailcow/mailcow-dockerized/commit/03d979c089a5bda1608c5e55b47e16c191036a25,https://da.gd/LdLq
+GithubCommit,Merge pull request #6537 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/1994b9895bc92cfc83caf0f25123efbb763f8635,https://da.gd/pRrqCe
