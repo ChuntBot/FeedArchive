@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w9q3-g4p5-5q2r] sudo-rs Allows Low Privilege Users to Enumerate Privileges of Others,https://github.com/advisories/GHSA-w9q3-g4p5-5q2r,https://da.gd/siM943
+GithubAdvisories,[GHSA-fw82-87p8-v6hp] Kirby vulnerable to path traversal of snippet names in the `snippet()` helper,https://github.com/advisories/GHSA-fw82-87p8-v6hp,https://da.gd/tBSDa8
+GithubAdvisories,[GHSA-9p3p-w5jf-8xxg] Kirby vulnerable to path traversal in the router for PHP's built-in server,https://github.com/advisories/GHSA-9p3p-w5jf-8xxg,https://da.gd/5biQu
+GithubAdvisories,[GHSA-x275-h9j4-7p4h] Kirby vulnerable to path traversal of collection names during file system lookup,https://github.com/advisories/GHSA-x275-h9j4-7p4h,https://da.gd/LtUCJB
