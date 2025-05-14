@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w9hf-35q4-vcjw] nosurf vulnerable to CSRF due to non-functional same-origin request checks,https://github.com/advisories/GHSA-w9hf-35q4-vcjw,https://da.gd/BkMK8
