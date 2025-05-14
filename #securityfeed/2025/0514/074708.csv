@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f9wj-c5pc-g9rh] Liferay Portal and Liferay DXP Vulnerable to Multiple SQL Injections,https://github.com/advisories/GHSA-f9wj-c5pc-g9rh,https://da.gd/HfhP2
+GithubAdvisories,[GHSA-pr7v-qv65-rp9m] Liferay Portal and Liferay DXP Fails to Check Permissions,https://github.com/advisories/GHSA-pr7v-qv65-rp9m,https://da.gd/lV7gB
+GithubAdvisories,[GHSA-239w-4f3w-cfcv] Liferay Portal Vulnerable to Cross-Site Scripting (XSS) via Categories Admin Page,https://github.com/advisories/GHSA-239w-4f3w-cfcv,https://da.gd/gtCpju
+GithubAdvisories,[GHSA-82j7-2h3j-hc7f] Liferay DXP Vulnerable to Denial-of-service (DoS) in the Multi-Factor Authentication Module,https://github.com/advisories/GHSA-82j7-2h3j-hc7f,https://da.gd/eGD2ub
+GithubAdvisories,[GHSA-9mxg-p873-6793] Liferay Portal and Liferay DXP Fails to Invalidate CAPTCHA Answers After Use,https://github.com/advisories/GHSA-9mxg-p873-6793,https://da.gd/hjieTn
+GithubAdvisories,[GHSA-pvpg-9553-f979] Liferay Portal Vulnerable to Cross-Site Scripting (XSS) via User Name Parameter,https://github.com/advisories/GHSA-pvpg-9553-f979,https://da.gd/OEo34B
+GithubAdvisories,[GHSA-v377-8f8f-532h] Liferay Portal and Liferay DXP Vulnerable to Arbitrary Code Execution,https://github.com/advisories/GHSA-v377-8f8f-532h,https://da.gd/Vk7T4
+GithubAdvisories,[GHSA-8j5r-9687-88w5] Liferay Portal and Liferay DXP Fails to Sanitize API Data,https://github.com/advisories/GHSA-8j5r-9687-88w5,https://da.gd/TBflI
