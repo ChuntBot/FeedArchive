@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w28v-87g6-cjr6] Liferay DXP Vulnerable to Cross-Site Scripting (XSS) via the currentURL Parameter,https://github.com/advisories/GHSA-w28v-87g6-cjr6,https://da.gd/wDTr
+GithubAdvisories,[GHSA-g37f-j8hh-736f] Liferay Portal and Liferay DXP Fails to Properly Check User Permissions,https://github.com/advisories/GHSA-g37f-j8hh-736f,https://da.gd/jVGCU
+GithubAdvisories,[GHSA-vpvm-3wfw-5f5c] Liferay Portal and Liferay DXP Vulnerable to Cross-Site Scripting (XSS) in Edit Vocabulary Page,https://github.com/advisories/GHSA-vpvm-3wfw-5f5c,https://da.gd/O3cM
+GithubAdvisories,[GHSA-6c88-gvxw-f5hg] Liferay Portal and Liferay DXP Stores User Passwords in Cleartext,https://github.com/advisories/GHSA-6c88-gvxw-f5hg,https://da.gd/bPCjm
+GithubAdvisories,[GHSA-wcr5-3q96-c2gr] Liferay Portal and Liferay DXP Vulnerable to Cross-Site Scripting (XSS) via Membership Request Admin Page,https://github.com/advisories/GHSA-wcr5-3q96-c2gr,https://da.gd/paSnJ5
+GithubAdvisories,[GHSA-qcv4-gv43-498v] Liferay Portal and Liferay DXP Vulnerable to Cross-Site Scripting (XSS) via the Redirect's Admin Page,https://github.com/advisories/GHSA-qcv4-gv43-498v,https://da.gd/x3Dds
+GithubAdvisories,[GHSA-9g57-m5vf-qp73] Liferay Portal and Liferay DXP Vulnerable to Cross-Site Scripting (XSS) via Asset Module Parameter,https://github.com/advisories/GHSA-9g57-m5vf-qp73,https://da.gd/8jokg1
