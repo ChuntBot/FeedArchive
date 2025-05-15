@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m32f-fjw2-37v3] Bullfrog's DNS over TCP bypasses domain filtering,https://github.com/advisories/GHSA-m32f-fjw2-37v3,https://da.gd/VTrUuj
+GithubAdvisories,[GHSA-5fc3-pqf2-57cx] Apache IoTDB Discloses Sensitive Information via Log Files,https://github.com/advisories/GHSA-5fc3-pqf2-57cx,https://da.gd/bI1sC6
+GithubAdvisories,[GHSA-gp98-hfvm-2r4x] Apache IoTDB JDBC Driver Discloses Sensitive Information via Log Files,https://github.com/advisories/GHSA-gp98-hfvm-2r4x,https://da.gd/liYJRj
+GithubAdvisories,[GHSA-f4rq-f4j9-f6rm] Apache IoTDB Vulnerable to Remote Code Execution,https://github.com/advisories/GHSA-f4rq-f4j9-f6rm,https://da.gd/O1xeG
+GithubAdvisories,[GHSA-2xf2-gjm6-g2c6] Ollama Divide by Zero Vulnerability,https://github.com/advisories/GHSA-2xf2-gjm6-g2c6,https://da.gd/xHRCm
