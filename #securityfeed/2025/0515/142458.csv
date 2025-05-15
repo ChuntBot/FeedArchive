@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cxrh-j4jr-qwg3] undici Denial of Service attack via bad certificate data,https://github.com/advisories/GHSA-cxrh-j4jr-qwg3,https://da.gd/VOE9CK
+GithubAdvisories,[GHSA-qpjv-v59x-3qc4] Next.js Race Condition to Cache Poisoning,https://github.com/advisories/GHSA-qpjv-v59x-3qc4,https://da.gd/fhhSF
+GithubAdvisories,[GHSA-869w-47c6-fq8q] Babylon Integer Overflow in Distribution Module CumulativeRewardRatio Calculation Leading to Chain Halt,https://github.com/advisories/GHSA-869w-47c6-fq8q,https://da.gd/pic5R
+GithubAdvisories,[GHSA-7mm3-vfg8-7rg6] Babylon Finality Provider `MsgCommitPubRandList` replay attack,https://github.com/advisories/GHSA-7mm3-vfg8-7rg6,https://da.gd/IxJXI
