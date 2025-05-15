@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gv5r-9gxr-v74w] Bootstrap Multiselect Vulnerable to CSRF and Reflective XSS via Arbitrary POST Data,https://github.com/advisories/GHSA-gv5r-9gxr-v74w,https://da.gd/HEBkzC
