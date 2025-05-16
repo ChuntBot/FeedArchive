@@ -1,0 +1,25 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3vcg-j39x-cwfm] Vyper's `slice()` may elide side-effects when output length is 0,https://github.com/advisories/GHSA-3vcg-j39x-cwfm,https://da.gd/vIag0
+GithubAdvisories,[GHSA-x5rm-gh94-h7gm] Malware in arcnagacha,https://github.com/advisories/GHSA-x5rm-gh94-h7gm,https://da.gd/VbHtz
+GithubAdvisories,[GHSA-rf5h-mpmj-8fv3] Malware in app-bff-shared,https://github.com/advisories/GHSA-rf5h-mpmj-8fv3,https://da.gd/5EBK0C
+GithubAdvisories,[GHSA-x23w-9xrv-pxqh] Malware in seagroup-assets-management-system,https://github.com/advisories/GHSA-x23w-9xrv-pxqh,https://da.gd/9RCag
+GithubAdvisories,[GHSA-7v9w-7j57-2ghp] Malware in lcs-ui-test,https://github.com/advisories/GHSA-7v9w-7j57-2ghp,https://da.gd/os2bB
+GithubAdvisories,[GHSA-37v5-vwwh-rvhp] Malware in statewars,https://github.com/advisories/GHSA-37v5-vwwh-rvhp,https://da.gd/EdMsU
+GithubAdvisories,[GHSA-g7p3-fvx8-m3wp] Malware in flipper-plugin-preferences,https://github.com/advisories/GHSA-g7p3-fvx8-m3wp,https://da.gd/IWE0N5
+GithubAdvisories,[GHSA-p692-cg3w-2x4g] Malware in codm-onlinematch,https://github.com/advisories/GHSA-p692-cg3w-2x4g,https://da.gd/Jpc9h
+GithubAdvisories,[GHSA-x9p4-2wc3-g24q] Malware in driver-app-server,https://github.com/advisories/GHSA-x9p4-2wc3-g24q,https://da.gd/OXmcbB
+GithubAdvisories,[GHSA-84wp-cw4p-7j5x] Malware in codm-lucky-shop-pss,https://github.com/advisories/GHSA-84wp-cw4p-7j5x,https://da.gd/aLDqOe
+GithubAdvisories,[GHSA-rx6p-5hfx-j7wj] Malware in vue-gop-authenticate,https://github.com/advisories/GHSA-rx6p-5hfx-j7wj,https://da.gd/nHwcQF
+GithubAdvisories,[GHSA-3v3h-5vhw-58pj] Malware in ingestion-frontend,https://github.com/advisories/GHSA-3v3h-5vhw-58pj,https://da.gd/kZLbw
+GithubAdvisories,[GHSA-8x66-v6jp-fw4g] Malware in api-doc-app,https://github.com/advisories/GHSA-8x66-v6jp-fw4g,https://da.gd/aCuo
+GithubAdvisories,[GHSA-7cx3-6m66-7c5m] Tornado vulnerable to excessive logging caused by malformed multipart form data,https://github.com/advisories/GHSA-7cx3-6m66-7c5m,https://da.gd/dRj2f6
+GithubAdvisories,[GHSA-qhr6-mgqr-mchm] Vyper's `concat()` builtin may elide side-effects for zero-length arguments,https://github.com/advisories/GHSA-qhr6-mgqr-mchm,https://da.gd/JhhJ
+GithubAdvisories,[GHSA-fm9m-2p5m-96px] Malware in xero_ruby_oauth2_app,https://github.com/advisories/GHSA-fm9m-2p5m-96px,https://da.gd/kXibv
+GithubAdvisories,[GHSA-pwm5-m6hw-9444] Malware in fwm-poc-built-sites,https://github.com/advisories/GHSA-pwm5-m6hw-9444,https://da.gd/WKmhf
+GithubAdvisories,[GHSA-3gf9-v2f7-fhj4] Malware in packer-docs,https://github.com/advisories/GHSA-3gf9-v2f7-fhj4,https://da.gd/3y6soU
+GithubAdvisories,[GHSA-hg74-pgxx-5x4r] Malware in @skip-partner/i18n,https://github.com/advisories/GHSA-hg74-pgxx-5x4r,https://da.gd/FmXG14
+GithubAdvisories,[GHSA-vjg5-fv24-hcxr] Malware in how-sezzle-works,https://github.com/advisories/GHSA-vjg5-fv24-hcxr,https://da.gd/xHbI3V
+GithubAdvisories,[GHSA-jj4h-rc32-843g] Malware in r2-ui,https://github.com/advisories/GHSA-jj4h-rc32-843g,https://da.gd/o1jKUW
+GithubAdvisories,[GHSA-9g8m-989f-xrhc] Malware in superhero-turnip,https://github.com/advisories/GHSA-9g8m-989f-xrhc,https://da.gd/D3o8v
+GithubAdvisories,[GHSA-726v-qh9q-66gm] Malware in antani-ui,https://github.com/advisories/GHSA-726v-qh9q-66gm,https://da.gd/tzQjYO
+GithubAdvisories,[GHSA-35j4-jmjg-m75c] Malware in linemtxworkloadui,https://github.com/advisories/GHSA-35j4-jmjg-m75c,https://da.gd/Qd4k
