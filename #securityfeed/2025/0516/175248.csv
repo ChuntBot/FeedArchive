@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g98g-r7gf-2r25] Forgeable Encrypted Session Cookie in Apps Using Auth0-PHP SDK,https://github.com/advisories/GHSA-g98g-r7gf-2r25,https://da.gd/bZCDd9
+GithubAdvisories,[GHSA-j3v9-6gc7-vf5f] Meteor Affected By Inefficient Regular Expression Complexity,https://github.com/advisories/GHSA-j3v9-6gc7-vf5f,https://da.gd/EmE9g
+GithubAdvisories,[GHSA-99pm-ch96-ccp2] Flask-AppBuilder open redirect vulnerability using HTTP host injection,https://github.com/advisories/GHSA-99pm-ch96-ccp2,https://da.gd/dZ4ir4
