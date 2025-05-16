@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p89h-p4ph-4vj6] Jenkins WSO2 Oauth Plugin Fails to Properly Authenticate User Credentials,https://github.com/advisories/GHSA-p89h-p4ph-4vj6,https://da.gd/xCiF0R
+GithubAdvisories,[GHSA-cp9r-g575-xc5f] Jenkins DingTalk Plugin Unconditionally Disables SSL/TLS Certificate and Hostname Validation,https://github.com/advisories/GHSA-cp9r-g575-xc5f,https://da.gd/TJB3M
+GithubAdvisories,[GHSA-rf73-97j8-9vqh] Jenkins Cadence vManager Plugin is Missing Permission Checks,https://github.com/advisories/GHSA-rf73-97j8-9vqh,https://da.gd/aPUfcl
+GithubAdvisories,[GHSA-xrpq-4g9w-qrwj] Jenkins Health Advisor by CloudBees Plugin Vulnerable to Cross-Site Scripting,https://github.com/advisories/GHSA-xrpq-4g9w-qrwj,https://da.gd/JPo3M
+GithubAdvisories,[GHSA-5w52-96jj-fv59] Jenkins Cadence vManager Plugin Vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-5w52-96jj-fv59,https://da.gd/uJXD5
+GithubAdvisories,[GHSA-q7c3-x7hm-qq72] Jenkins OpenID Connect Provider Plugin Incorrectly Validates Crafted Build ID Tokens,https://github.com/advisories/GHSA-q7c3-x7hm-qq72,https://da.gd/nhTwIx
