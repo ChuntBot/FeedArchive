@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42: webkitgtk 2025-40aeebe6d2 critical: memory corruption issues,https://linuxsecurity.com/advisories/fedora/fedora-42-webkitgtk-2025-40aeebe6d2-odb5jdkzl8i9,https://da.gd/x3FpBn
+LinuxSecurity,Fedora 42: 2025-b3d59fca78 critical: indirect target selection issue,https://linuxsecurity.com/advisories/fedora/fedora-42-xen-2025-b3d59fca78-x6uq8v3zyfqg,https://da.gd/z7BXeJ
+LinuxSecurity,Fedora 42: FEDORA-2025-7f48333f3e critical: syslog-ng TLS issue,https://linuxsecurity.com/advisories/fedora/fedora-42-syslog-ng-2025-7f48333f3e-hyjf22qmxmov,https://da.gd/59jW
+LinuxSecurity,Fedora 41: 2025-0fc3d8b7bf moderate: syslog-ng certificate validation issue,https://linuxsecurity.com/advisories/fedora/fedora-41-syslog-ng-2025-0fc3d8b7bf-v3drsmxa3pfo,https://da.gd/E6ChR
