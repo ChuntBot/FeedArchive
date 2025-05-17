@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h356-3mfw-x368] Mattermost Fails to Verify User's Permissions When Accessing Groups,https://github.com/advisories/GHSA-h356-3mfw-x368,https://da.gd/kZYx4
+GithubAdvisories,[GHSA-r7r2-m3vr-c8qc] Mattermost Fails to Validate Team Invite Permissions,https://github.com/advisories/GHSA-r7r2-m3vr-c8qc,https://da.gd/bNkinc
+GithubAdvisories,[GHSA-qgwx-rffp-6cx9] Mattermost Fails to Lockout LDAP Users After Repeated Login Failures,https://github.com/advisories/GHSA-qgwx-rffp-6cx9,https://da.gd/ov3C
