@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wrh5-cmwx-q2qr] Ollama Server Vulnerable to Denial of Service (DoS) Attack,https://github.com/advisories/GHSA-wrh5-cmwx-q2qr,https://da.gd/eVYKiO
+GithubAdvisories,[GHSA-9fwj-9mjf-rhj3] laravel-auth0 SDK Vulnerable to Brute Force Authentication Tags of CookieStore Sessions,https://github.com/advisories/GHSA-9fwj-9mjf-rhj3,https://da.gd/DCp3A
+GithubAdvisories,[GHSA-2f4r-34m4-3w8q] Auth0 Wordpress plugin Vulnerable to Brute Force Authentication Tags of CookieStore Sessions,https://github.com/advisories/GHSA-2f4r-34m4-3w8q,https://da.gd/eGlsfu
+GithubAdvisories,[GHSA-9wg9-93h9-j8ch] Auth0 Symfony SDK Vulnerable to Brute Force Authentication Tags of CookieStore Sessions,https://github.com/advisories/GHSA-9wg9-93h9-j8ch,https://da.gd/oPd1jD
+GithubAdvisories,[GHSA-fpff-wj6m-grvr] Mattermost Fails to Check User Access to `ExperimentalSettings`,https://github.com/advisories/GHSA-fpff-wj6m-grvr,https://da.gd/S0vh
