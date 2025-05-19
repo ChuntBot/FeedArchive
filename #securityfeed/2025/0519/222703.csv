@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5j3w-5pcr-f8hg] Symfony UX allows unsanitized HTML attribute injection via ComponentAttributes,https://github.com/advisories/GHSA-5j3w-5pcr-f8hg,https://da.gd/tvyRL
+GithubAdvisories,[GHSA-4pg4-qvpc-4q3h] Multer vulnerable to Denial of Service from maliciously crafted requests,https://github.com/advisories/GHSA-4pg4-qvpc-4q3h,https://da.gd/5OXNys
+GithubAdvisories,[GHSA-44fp-w29j-9vj5] Multer vulnerable to Denial of Service via memory leaks from unclosed streams,https://github.com/advisories/GHSA-44fp-w29j-9vj5,https://da.gd/fWHOnA
