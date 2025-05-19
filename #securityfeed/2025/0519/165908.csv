@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5rjg-fvgr-3xxf] setuptools has a path traversal vulnerability in PackageIndex.download that leads to Arbitrary File Write,https://github.com/advisories/GHSA-5rjg-fvgr-3xxf,https://da.gd/eosps
