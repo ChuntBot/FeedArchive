@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9x73-87fh-54w9] Gardener allows metadata injection for a project secret which can lead to privilege escalation,https://github.com/advisories/GHSA-9x73-87fh-54w9,https://da.gd/tLPILm
