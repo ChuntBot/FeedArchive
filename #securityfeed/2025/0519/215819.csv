@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8qff-qr5q-5pr8] OpenPGP.js's message signature verification can be spoofed,https://github.com/advisories/GHSA-8qff-qr5q-5pr8,https://da.gd/aO8sg
+GithubAdvisories,[GHSA-qq3j-4f4f-9583] Hugging Face Transformers Regular Expression Denial of Service,https://github.com/advisories/GHSA-qq3j-4f4f-9583,https://da.gd/NIQlo
