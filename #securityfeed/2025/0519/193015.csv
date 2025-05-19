@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3hw7-qj9h-r835] Gardener allows bypassing project secret validation which can lead to privilege escalation,https://github.com/advisories/GHSA-3hw7-qj9h-r835,https://da.gd/LlxrX
+GithubAdvisories,[GHSA-xwgg-m7fx-83wx] Gardener External DNS Management allows malicious google credential in DNS secret to lead to privilege escalation,https://github.com/advisories/GHSA-xwgg-m7fx-83wx,https://da.gd/hQcaiP
