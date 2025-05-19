@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mj2c-8hxf-ffvq] Cocotais Bot has builtin .echo command injection,https://github.com/advisories/GHSA-mj2c-8hxf-ffvq,https://da.gd/rLhS2
+GithubAdvisories,[GHSA-hxw5-9cc5-cmw5] LibreNMS stored Cross-site Scripting vulnerability in poller group name,https://github.com/advisories/GHSA-hxw5-9cc5-cmw5,https://da.gd/BQBpb
