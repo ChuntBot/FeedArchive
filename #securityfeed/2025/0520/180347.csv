@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-22c2-9gwg-mj59] Langroid has a Code Injection vulnerability in LanceDocChatAgent through vector_store,https://github.com/advisories/GHSA-22c2-9gwg-mj59,https://da.gd/dPJquD
+GithubAdvisories,[GHSA-jqq5-wc57-f8hj] Langroid has a Code Injection vulnerability in TableChatAgent,https://github.com/advisories/GHSA-jqq5-wc57-f8hj,https://da.gd/9AKR4
+GithubAdvisories,[GHSA-fxpc-qmrh-7j2h] tarteaucitron-wp WordPress Plugin Vulnerable to Stored Cross-Site Scripting,https://github.com/advisories/GHSA-fxpc-qmrh-7j2h,https://da.gd/rnYqm
