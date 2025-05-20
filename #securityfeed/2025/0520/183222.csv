@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hjq4-87xh-g4fv] vLLM Allows Remote Code Execution via PyNcclPipe Communication Service,https://github.com/advisories/GHSA-hjq4-87xh-g4fv,https://da.gd/DMMDE
