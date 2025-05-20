@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w2xw-44r3-4v9g] Connect-Multiparty allows arbitrary file upload,https://github.com/advisories/GHSA-w2xw-44r3-4v9g,https://da.gd/6RWv
+GithubAdvisories,[GHSA-744g-7qm9-hjh9] The TYPO3 CMS Backend has Broken Authentication in Backend MFA,https://github.com/advisories/GHSA-744g-7qm9-hjh9,https://da.gd/mWUpJy
+GithubAdvisories,[GHSA-6frx-j292-c844] TYPO3 Allows Privilege Escalation to System Maintainer,https://github.com/advisories/GHSA-6frx-j292-c844,https://da.gd/QPTJ1h
+GithubAdvisories,[GHSA-9hq9-cr36-4wpj] TYPO3 Allows Unrestricted File Upload in File Abstraction Layer,https://github.com/advisories/GHSA-9hq9-cr36-4wpj,https://da.gd/f7wxo
