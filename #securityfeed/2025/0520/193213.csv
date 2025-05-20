@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3jrg-97f3-rqh9] TYPO3 Unverified Password Change for Backend Users,https://github.com/advisories/GHSA-3jrg-97f3-rqh9,https://da.gd/coES
+GithubAdvisories,[GHSA-x8pv-fgxp-8v3x] TYPO3 Allows Information Disclosure via DBAL Restriction Handling,https://github.com/advisories/GHSA-x8pv-fgxp-8v3x,https://da.gd/0EBEN
+GithubAdvisories,[GHSA-p4xx-m758-3hpx] TYPO3 CMS Webhooks Server Side Request Forgery,https://github.com/advisories/GHSA-p4xx-m758-3hpx,https://da.gd/V33rK
