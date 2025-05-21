@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-463c-jhp2-4mm7] The Backup Plus extension for TYPO3 (ns_backup) allows command injections,https://github.com/advisories/GHSA-463c-jhp2-4mm7,https://da.gd/th2er
+GithubAdvisories,[GHSA-qfm8-78qf-p75j] The Front End User Registration extension for TYPO3 (sr_feuser_register) Remote Code Execution,https://github.com/advisories/GHSA-qfm8-78qf-p75j,https://da.gd/wbvka2
+GithubAdvisories,[GHSA-hq4f-5qjv-fwrg] The Backup Plus extension for TYPO3 (ns_backup) has a Predictable Resource Location,https://github.com/advisories/GHSA-hq4f-5qjv-fwrg,https://da.gd/oUqnbX
