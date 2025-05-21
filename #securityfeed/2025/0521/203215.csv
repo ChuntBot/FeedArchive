@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pqqp-7cp8-vxvf] Ackites KillWxapkg Zip Bomb Resource Exhaustion,https://github.com/advisories/GHSA-pqqp-7cp8-vxvf,https://da.gd/0xdrog
+GithubAdvisories,[GHSA-xg53-mhh9-3cq7] The Backup Plus extension for TYPO3 (ns_backup) allows XSS,https://github.com/advisories/GHSA-xg53-mhh9-3cq7,https://da.gd/TDMkSs
+GithubAdvisories,[GHSA-cvgc-mx2w-h3w8] The Front End User Registration extension for TYPO3 (sr_feuser_register) allows Insecure Direct Object Reference,https://github.com/advisories/GHSA-cvgc-mx2w-h3w8,https://da.gd/Meb6Ou
