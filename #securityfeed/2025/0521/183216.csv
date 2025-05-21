@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9pp5-9c7g-4r83] Spring Security authorization bypass for method security annotations on private methods,https://github.com/advisories/GHSA-9pp5-9c7g-4r83,https://da.gd/LpiNn
+GithubAdvisories,[GHSA-rhfv-688c-p6hp] XWiki Platform Security Authorization Bridge allows users with just edit right can enforce required rights with programming right,https://github.com/advisories/GHSA-rhfv-688c-p6hp,https://da.gd/BMkh
+GithubAdvisories,[GHSA-jjwh-4x89-7f5w] reint_downloadmanager TYPO3 Extension is susceptible to Insecure Direct Object Reference,https://github.com/advisories/GHSA-jjwh-4x89-7f5w,https://da.gd/iHeEG
