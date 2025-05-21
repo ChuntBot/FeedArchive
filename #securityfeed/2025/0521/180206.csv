@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cxfp-7pvr-95ff] containerd CRI plugin: Incorrect cgroup hierarchy assignment for containers running in usernamespaced Kubernetes pods,https://github.com/advisories/GHSA-cxfp-7pvr-95ff,https://da.gd/BQK1
