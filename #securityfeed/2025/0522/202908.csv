@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3qmp-g57h-rxf2] Pingora Request Smuggling and Cache Poisoning,https://github.com/advisories/GHSA-3qmp-g57h-rxf2,https://da.gd/jXNV7
+GithubAdvisories,[GHSA-hg3g-gphw-5hhm] Fiber panics when fiber.Ctx.BodyParser parses invalid range index,https://github.com/advisories/GHSA-hg3g-gphw-5hhm,https://da.gd/Z2aSF
