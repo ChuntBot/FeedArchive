@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q53q-gxq9-mgrj] Grafana Cross-Site-Scripting (XSS) via custom loaded frontend plugin,https://github.com/advisories/GHSA-q53q-gxq9-mgrj,https://da.gd/ImIA
+GithubAdvisories,[GHSA-vrpq-qp53-qv56] Eclipse JGit XML External Entity (XXE) Vulnerability,https://github.com/advisories/GHSA-vrpq-qp53-qv56,https://da.gd/tuSyxD
