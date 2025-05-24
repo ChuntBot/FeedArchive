@@ -1,0 +1,31 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-62mf-vhhw-xmf8] DNN site Import could use an external source with a crafted request,https://github.com/advisories/GHSA-62mf-vhhw-xmf8,https://da.gd/u3DUm
+GithubAdvisories,[GHSA-79m3-rvx2-3qq9] Reflected Cross-Site Scripting (XSS) in module actions in edit mode,https://github.com/advisories/GHSA-79m3-rvx2-3qq9,https://da.gd/zChGCu
+GithubAdvisories,[GHSA-m4hf-fxcg-cp34] DNN allows Stored Cross-Site Scripting (XSS) with svg files rendered inline,https://github.com/advisories/GHSA-m4hf-fxcg-cp34,https://da.gd/AGYX6q
+GithubAdvisories,[GHSA-c72g-53hw-82q7] OpenFGA Authorization Bypass,https://github.com/advisories/GHSA-c72g-53hw-82q7,https://da.gd/WlP5
+GithubAdvisories,[GHSA-whc7-5p35-4ww2] Use after free in actix-service,https://github.com/advisories/GHSA-whc7-5p35-4ww2,https://da.gd/uxFR7z
+GithubAdvisories,[GHSA-rqgx-hpg4-456r] Use-after-free in actix-codec,https://github.com/advisories/GHSA-rqgx-hpg4-456r,https://da.gd/aTpf
+GithubAdvisories,[GHSA-hhw2-pqhf-vmx2] Use after free in actix-utils,https://github.com/advisories/GHSA-hhw2-pqhf-vmx2,https://da.gd/aki9
+GithubAdvisories,[GHSA-4cc2-hg5p-655x] Malware in react-stitches,https://github.com/advisories/GHSA-4cc2-hg5p-655x,https://da.gd/g9tJ1P
+GithubAdvisories,[GHSA-2xr6-47f3-hjmf] Malware in dw-api-mock,https://github.com/advisories/GHSA-2xr6-47f3-hjmf,https://da.gd/mxqwVF
+GithubAdvisories,[GHSA-gxpf-q43w-h663] Malware in @act-platform/app-sdk,https://github.com/advisories/GHSA-gxpf-q43w-h663,https://da.gd/8Pu8k
+GithubAdvisories,[GHSA-4vjp-p43q-cc98] Malware in struct-logger,https://github.com/advisories/GHSA-4vjp-p43q-cc98,https://da.gd/dP0Bi
+GithubAdvisories,[GHSA-cxm6-m967-4mf2] Malware in ember-super-prosemirror,https://github.com/advisories/GHSA-cxm6-m967-4mf2,https://da.gd/u8iHg
+GithubAdvisories,[GHSA-8729-hv4m-455c] Malware in cond-common-components,https://github.com/advisories/GHSA-8729-hv4m-455c,https://da.gd/zLAaZ
+GithubAdvisories,[GHSA-fr6r-fc8q-3798] Malware in react-loggers,https://github.com/advisories/GHSA-fr6r-fc8q-3798,https://da.gd/2X0ILg
+GithubAdvisories,[GHSA-p89q-349g-3j4w] Malware in koishi-plugin-pinhaofa,https://github.com/advisories/GHSA-p89q-349g-3j4w,https://da.gd/JYgkv
+GithubAdvisories,[GHSA-g27f-m78h-5vrx] Malware in koishi-plugin-majjan-nanikiri,https://github.com/advisories/GHSA-g27f-m78h-5vrx,https://da.gd/UfpM9
+GithubAdvisories,[GHSA-wmmf-4f9x-hx3g] Malware in next-config-log,https://github.com/advisories/GHSA-wmmf-4f9x-hx3g,https://da.gd/C3fwg
+GithubAdvisories,[GHSA-c3j6-w952-4gjp] Malware in plugin-helper,https://github.com/advisories/GHSA-c3j6-w952-4gjp,https://da.gd/ZBa4
+GithubAdvisories,[GHSA-6cxf-4525-qfrg] Malware in package-meta-resolver,https://github.com/advisories/GHSA-6cxf-4525-qfrg,https://da.gd/zlfZI
+GithubAdvisories,[GHSA-3hjh-r6p4-54gf] Malware in feature-runtime,https://github.com/advisories/GHSA-3hjh-r6p4-54gf,https://da.gd/2d9PKV
+GithubAdvisories,[GHSA-gwrc-5cj6-wv3c] Malware in eslint-typescript-runtime-check,https://github.com/advisories/GHSA-gwrc-5cj6-wv3c,https://da.gd/9QBZo
+GithubAdvisories,[GHSA-x96j-xh9g-x4cf] Malware in eslint-config-airbnb-compat,https://github.com/advisories/GHSA-x96j-xh9g-x4cf,https://da.gd/iy3nn
+GithubAdvisories,[GHSA-5j6w-64fg-f947] Malware in utility-capsule,https://github.com/advisories/GHSA-5j6w-64fg-f947,https://da.gd/sC1BU7
+GithubAdvisories,[GHSA-jmj7-gvp4-4326] Malware in feng-npm-test666,https://github.com/advisories/GHSA-jmj7-gvp4-4326,https://da.gd/IqGT6n
+GithubAdvisories,[GHSA-6h3h-xprr-mxqv] Malware in transaction-generations,https://github.com/advisories/GHSA-6h3h-xprr-mxqv,https://da.gd/XHlIY
+GithubAdvisories,[GHSA-m6qf-2387-55m3] Malware in pdfplumber,https://github.com/advisories/GHSA-m6qf-2387-55m3,https://da.gd/5zQzBV
+GithubAdvisories,[GHSA-4r95-w578-7ppf] Malware in gatsby-plugin-source-map,https://github.com/advisories/GHSA-4r95-w578-7ppf,https://da.gd/T93nV
+GithubAdvisories,[GHSA-wph4-56jc-rhch] Malware in tree-sitter-your-language,https://github.com/advisories/GHSA-wph4-56jc-rhch,https://da.gd/2wvlQ
+GithubAdvisories,[GHSA-7rfx-4cxw-jcg7] Malware in zzr-react-custom-widget,https://github.com/advisories/GHSA-7rfx-4cxw-jcg7,https://da.gd/xeiN
+GithubAdvisories,[GHSA-8mhv-m9vq-jphv] Malware in my-check-inline-loader-plugin,https://github.com/advisories/GHSA-8mhv-m9vq-jphv,https://da.gd/ESUGh
