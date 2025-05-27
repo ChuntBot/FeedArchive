@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j9wp-865g-rf48] docarray prototype pollution,https://github.com/advisories/GHSA-j9wp-865g-rf48,https://da.gd/N9T04
+GithubAdvisories,[GHSA-qpxx-2cwh-r5vh] pypickle Incorrect Privilege Assignment vulnerability,https://github.com/advisories/GHSA-qpxx-2cwh-r5vh,https://da.gd/peBV
+GithubAdvisories,[GHSA-pgp9-g5q8-j3wp] FunAudioLLM InspireMusic deserialization vulnerability,https://github.com/advisories/GHSA-pgp9-g5q8-j3wp,https://da.gd/mGhFx
+GithubAdvisories,[GHSA-69rh-hccr-cxrj] Laravel Rest Api has a Search Validation Bypass,https://github.com/advisories/GHSA-69rh-hccr-cxrj,https://da.gd/cCBzyO
