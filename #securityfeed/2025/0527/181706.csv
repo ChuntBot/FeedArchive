@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5r4r-9fgh-pw53] memory_pages division by zero,https://github.com/advisories/GHSA-5r4r-9fgh-pw53,https://da.gd/hk1vl
+GithubAdvisories,[GHSA-mqwx-r894-9hfp] Process Sync has a Potential Unsound Issue in SharedMutex,https://github.com/advisories/GHSA-mqwx-r894-9hfp,https://da.gd/VRd0
+GithubAdvisories,[GHSA-6v24-6wgf-8vj6] process_lock has a Potential Unsound issue in unlock,https://github.com/advisories/GHSA-6v24-6wgf-8vj6,https://da.gd/T7si7
+GithubAdvisories,[GHSA-wjrh-hj83-3wh7] Django-Select2 Vulnerable to Widget Instance Secret Cache Key Leaking,https://github.com/advisories/GHSA-wjrh-hj83-3wh7,https://da.gd/RFispG
+GithubAdvisories,[GHSA-g88v-2j67-9rmx] Fess has Insecure Temporary File Permissions,https://github.com/advisories/GHSA-g88v-2j67-9rmx,https://da.gd/JjhsY
+GithubAdvisories,[GHSA-8r88-6cj9-9fh5] auth-js Vulnerable to Insecure Path Routing from Malformed User Input,https://github.com/advisories/GHSA-8r88-6cj9-9fh5,https://da.gd/OPMlI
+GithubAdvisories,[GHSA-v8wj-f5c7-pvxf] Strapi allows Server-Side Request Forgery in Webhook function,https://github.com/advisories/GHSA-v8wj-f5c7-pvxf,https://da.gd/yhMgA
