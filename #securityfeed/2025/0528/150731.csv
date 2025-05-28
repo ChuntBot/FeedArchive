@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r324-vgr5-73c9] Apache InLong: JDBC Vulnerability during verification processing,https://github.com/advisories/GHSA-r324-vgr5-73c9,https://da.gd/dEXnmL
+GithubAdvisories,[GHSA-r244-wg5g-6w2r] Issue with Amazon Redshift Python Connector and the BrowserAzureOAuth2CredentialsProvider plugin,https://github.com/advisories/GHSA-r244-wg5g-6w2r,https://da.gd/aX4Lb
+GithubAdvisories,[GHSA-phf6-hm3h-x8qp] Cromwell GitHub Actions Secrets exfiltration via `Issue_comment`,https://github.com/advisories/GHSA-phf6-hm3h-x8qp,https://da.gd/mpTEbS
+GithubAdvisories,[GHSA-h5f8-crrq-4pw8] Contrast workload secrets leak to logs on INFO level,https://github.com/advisories/GHSA-h5f8-crrq-4pw8,https://da.gd/t9fT2i
+GithubAdvisories,[GHSA-965r-9cg9-g42p] Valtimo backend libraries allows objects in the object-api to be accessed and modified by unauthorized users,https://github.com/advisories/GHSA-965r-9cg9-g42p,https://da.gd/T1LAzS
