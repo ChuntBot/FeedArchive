@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-339r-cjv9-x78g] LlamaIndex Retrievers Integration: DuckDBRetriever SQL Injection,https://github.com/advisories/GHSA-339r-cjv9-x78g,https://da.gd/LzXj86
+GithubAdvisories,[GHSA-9fm9-hp7p-53mf] Hackney fails to properly release HTTP connections to the pool,https://github.com/advisories/GHSA-9fm9-hp7p-53mf,https://da.gd/Hgu6g
+GithubAdvisories,[GHSA-g99h-56mw-8263] LLama-Index CLI OS command injection vulnerability,https://github.com/advisories/GHSA-g99h-56mw-8263,https://da.gd/YVGgvK
