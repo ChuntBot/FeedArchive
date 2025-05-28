@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3h52-269p-cp9r] Information exposure in Next.js dev server due to lack of origin verification,https://github.com/advisories/GHSA-3h52-269p-cp9r,https://da.gd/3J1c
