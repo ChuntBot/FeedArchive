@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vrch-868g-9jx5] Traefik allows path traversal using url encoding,https://github.com/advisories/GHSA-vrch-868g-9jx5,https://da.gd/2Ccjs
