@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3432-fmrf-7vmh] Chrome PHP is missing encoding in `CssSelector`,https://github.com/advisories/GHSA-3432-fmrf-7vmh,https://da.gd/8wHgO
+GithubAdvisories,[GHSA-98v7-xxxv-hcrh] Apache InLong: JDBC Vulnerability for Invisible Character Bypass Leading to Arbitrary File Read,https://github.com/advisories/GHSA-98v7-xxxv-hcrh,https://da.gd/J41eYK
+GithubAdvisories,[GHSA-532x-j9r7-8f73] Apache InLong: JDBC Vulnerability For URLEncode and backspace bypass,https://github.com/advisories/GHSA-532x-j9r7-8f73,https://da.gd/jMG9XH
