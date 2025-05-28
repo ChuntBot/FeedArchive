@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c65p-x677-fgj6] vLLM has a Weakness in MultiModalHasher Image Hashing Implementation,https://github.com/advisories/GHSA-c65p-x677-fgj6,https://da.gd/ZX8B9
+GithubAdvisories,[GHSA-4qjh-9fv9-r85r] Potential Timing Side-Channel Vulnerability in vLLM’s Chunk-Based Prefix Caching,https://github.com/advisories/GHSA-4qjh-9fv9-r85r,https://da.gd/4GVdYV
+GithubAdvisories,[GHSA-j828-28rj-hfhp] vLLM vulnerable to Regular Expression Denial of Service,https://github.com/advisories/GHSA-j828-28rj-hfhp,https://da.gd/iBY5N
+GithubAdvisories,"[GHSA-w6q7-j642-7c25] vLLM has a Regular Expression Denial of Service (ReDoS, Exponential Complexity) Vulnerability in `pythonic_tool_parser.py`",https://github.com/advisories/GHSA-w6q7-j642-7c25,https://da.gd/5ebPUM
+GithubAdvisories,[GHSA-6vx9-9r2g-8373] Mautic has an Open Redirect vulnerability on user unlock path,https://github.com/advisories/GHSA-6vx9-9r2g-8373,https://da.gd/lB3RN
+GithubAdvisories,[GHSA-vph5-ghq3-q782] Mautic segment cloning doesn't have a proper permission check,https://github.com/advisories/GHSA-vph5-ghq3-q782,https://da.gd/3nUVy
+GithubAdvisories,[GHSA-424x-cxvh-wq9p] Mautic allows user name enumeration due to response time difference on password reset form,https://github.com/advisories/GHSA-424x-cxvh-wq9p,https://da.gd/H3uPv
+GithubAdvisories,[GHSA-h2wg-v8wg-jhxh] Mautic does not shield .env files from web traffic,https://github.com/advisories/GHSA-h2wg-v8wg-jhxh,https://da.gd/w7Dh6L
+GithubAdvisories,[GHSA-cqx4-9vqf-q3m8] Mautic's Predictable Page Indexing Might Lead to Sensitive Data Exposure,https://github.com/advisories/GHSA-cqx4-9vqf-q3m8,https://da.gd/jZXZ6
+GithubAdvisories,[GHSA-wxr5-93ph-8wr9] Apache Commons Improper Access Control vulnerability,https://github.com/advisories/GHSA-wxr5-93ph-8wr9,https://da.gd/ESjES
+GithubAdvisories,[GHSA-93m4-mfpg-c3xf] ZITADEL Allows Account Takeover via Malicious X-Forwarded-Proto Header Injection,https://github.com/advisories/GHSA-93m4-mfpg-c3xf,https://da.gd/AR0DsM
+GithubAdvisories,[GHSA-2hj5-g64g-fp6p] Argo CD allows cross-site scripting on repositories page,https://github.com/advisories/GHSA-2hj5-g64g-fp6p,https://da.gd/kqI6qH
