@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-87x7-pwrx-jch7] Liferay Portal and Liferay DXP Reveals Data via Overly Verbose Error Messages,https://github.com/advisories/GHSA-87x7-pwrx-jch7,https://da.gd/onQPH
+GithubAdvisories,[GHSA-vrwx-q9pj-x488] Liferay Portal and Liferay DXP Bypass via Double Encoded URL,https://github.com/advisories/GHSA-vrwx-q9pj-x488,https://da.gd/A8RQd
+GithubAdvisories,[GHSA-mg3r-9jh8-33r9] Liferay Portal and Liferay DXP have Insecure Deserialization Vulnerability,https://github.com/advisories/GHSA-mg3r-9jh8-33r9,https://da.gd/G7kzI
+GithubAdvisories,[GHSA-773f-f929-qgjj] Liferay Portal and Liferay DXP Potentially Reveal LDAP Server Password via Unsafe Connection,https://github.com/advisories/GHSA-773f-f929-qgjj,https://da.gd/lyQCzl
+GithubAdvisories,[GHSA-vrq3-r879-7m65] vLLM Tool Schema allows DoS via Malformed pattern and type Fields,https://github.com/advisories/GHSA-vrq3-r879-7m65,https://da.gd/RX2K
+GithubAdvisories,[GHSA-9hcf-v7m4-6m2j] vLLM allows clients to crash the openai server with invalid regex,https://github.com/advisories/GHSA-9hcf-v7m4-6m2j,https://da.gd/60u49U
+GithubAdvisories,[GHSA-6qc9-v4r8-22xg] vLLM DOS: Remotely kill vllm over http with invalid JSON schema,https://github.com/advisories/GHSA-6qc9-v4r8-22xg,https://da.gd/qHFWVZ
