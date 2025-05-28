@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7pxh-q6jw-6xj8] Liferay Portal Fragment Module and Liferay DXP Vulnerable to Cross-Site Scripting,https://github.com/advisories/GHSA-7pxh-q6jw-6xj8,https://da.gd/zTsXSo
+GithubAdvisories,[GHSA-4frg-rpx6-96qh] Liferay Portal Layout Module and Liferay DXP Exposes the Cross-Site Request Forgery (CSRF) Token in URLs,https://github.com/advisories/GHSA-4frg-rpx6-96qh,https://da.gd/c7V1
+GithubAdvisories,[GHSA-fvg6-9r88-7w85] Liferay Portal Journal Module and Liferay DXP Vulnerable to Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-fvg6-9r88-7w85,https://da.gd/Apo1B
+GithubAdvisories,[GHSA-5gh9-g62h-f35m] Liferay Portal and Liferay DXP Has Company Administrator Accounts Vulnerable to Takeovers,https://github.com/advisories/GHSA-5gh9-g62h-f35m,https://da.gd/ZgYiy
+GithubAdvisories,[GHSA-g7xc-m762-wg8f] Liferay Portal and Liferay DXP Fails to Check User Permissions for Workflow Submissions,https://github.com/advisories/GHSA-g7xc-m762-wg8f,https://da.gd/BByif
+GithubAdvisories,[GHSA-9995-qvcg-x7g6] Liferay Portal and Liferay DXP Vulnerable to Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-9995-qvcg-x7g6,https://da.gd/ElgfO
+GithubAdvisories,[GHSA-474f-cmx5-gm69] Liferay Portal and Liferay DXP Don't Check Permissions of Pages,https://github.com/advisories/GHSA-474f-cmx5-gm69,https://da.gd/pTxMJ
+GithubAdvisories,[GHSA-jvvx-8g42-9559] Liferay Portal and Liferay DXP Vulnerable to Cross-Site Scripting (XSS) in Asset Publisher App,https://github.com/advisories/GHSA-jvvx-8g42-9559,https://da.gd/zkXdJ
+GithubAdvisories,[GHSA-4fx8-82f3-xcpc] Liferay Portal and Liferay DXP Vulnerable to Cross-Site Scripting (XSS) in the Layout Admin Page,https://github.com/advisories/GHSA-4fx8-82f3-xcpc,https://da.gd/CONZp
+GithubAdvisories,[GHSA-xx2h-2hf5-v7vv] Liferay Portal and Liferay DXP May Reveal S3 Store's Proxy Password,https://github.com/advisories/GHSA-xx2h-2hf5-v7vv,https://da.gd/nuWqq
+GithubAdvisories,[GHSA-mj8w-h522-jwm8] Liferay Portal and Liferay DXP Allows Arbitrary Redirect of Users to External URLs,https://github.com/advisories/GHSA-mj8w-h522-jwm8,https://da.gd/Cw49j
