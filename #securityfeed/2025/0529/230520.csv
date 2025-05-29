@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h2fw-rfh5-95r3] Apache Tomcat - CGI security constraint bypass,https://github.com/advisories/GHSA-h2fw-rfh5-95r3,https://da.gd/uB36qf
+GithubAdvisories,[GHSA-4mmr-2w8p-whcr] Mattermost improperly allows team administrators to modify team invites,https://github.com/advisories/GHSA-4mmr-2w8p-whcr,https://da.gd/neDVWe
+GithubAdvisories,[GHSA-8jw3-6x8j-v96g] Gradio Allows Unauthorized File Copy via Path Manipulation,https://github.com/advisories/GHSA-8jw3-6x8j-v96g,https://da.gd/nQ181o
+GithubAdvisories,[GHSA-f238-rggp-82m3] Navidrome Transcoding Permission Bypass Vulnerability Report,https://github.com/advisories/GHSA-f238-rggp-82m3,https://da.gd/tpGwM0
