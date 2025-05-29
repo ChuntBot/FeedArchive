@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q7p4-7xjv-j3wf] Fabio allows HTTP clients to manipulate custom headers it adds,https://github.com/advisories/GHSA-q7p4-7xjv-j3wf,https://da.gd/pDltUp
