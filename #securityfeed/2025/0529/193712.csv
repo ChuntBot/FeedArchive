@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-52cx-vphc-jmjm] MantisBT allows XSS in manage_custom_field_edit_page.php,https://github.com/advisories/GHSA-52cx-vphc-jmjm,https://da.gd/yLPjW
