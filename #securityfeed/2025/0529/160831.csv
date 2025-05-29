@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-49w9-82cj-xr48] MantisBT SQL Injection via mc_project_get_users function,https://github.com/advisories/GHSA-49w9-82cj-xr48,https://da.gd/ls1WfV
+GithubAdvisories,[GHSA-qgrr-f26j-87vf] MantisBT XXS where a Custom Field with a crafted Regular Expression property is used,https://github.com/advisories/GHSA-qgrr-f26j-87vf,https://da.gd/z1Xn4
+GithubAdvisories,[GHSA-4rrc-5vp6-m3f6] MantisBT XSS issue on the view_all_bug_page.php,https://github.com/advisories/GHSA-4rrc-5vp6-m3f6,https://da.gd/dG2B3v
+GithubAdvisories,[GHSA-p495-jrpq-p66g] MantisBT XSS when uploading an attachment,https://github.com/advisories/GHSA-p495-jrpq-p66g,https://da.gd/cqLKu
