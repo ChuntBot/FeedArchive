@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v23g-wjvq-2fpf] MantisBT Remote Code Execution,https://github.com/advisories/GHSA-v23g-wjvq-2fpf,https://da.gd/VwEWQ
+GithubAdvisories,[GHSA-gg4j-279j-22ph] MantisBT allows cross-site scripting (XSS) via crafted filename,https://github.com/advisories/GHSA-gg4j-279j-22ph,https://da.gd/bZAXpx
+GithubAdvisories,[GHSA-3qv7-98vm-xx2v] MantisBT cross-site scripting (XSS) vulnerability through crafted PATH_INFO,https://github.com/advisories/GHSA-3qv7-98vm-xx2v,https://da.gd/LgbpP
