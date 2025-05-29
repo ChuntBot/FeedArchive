@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5wgp-vjxm-3x2r] Navidrome allows SQL Injection via role parameter,https://github.com/advisories/GHSA-5wgp-vjxm-3x2r,https://da.gd/0dVuk
+GithubAdvisories,[GHSA-42hm-pq2f-3r7m] PHPOffice Math allows XXE when processing an XML file in the MathML format,https://github.com/advisories/GHSA-42hm-pq2f-3r7m,https://da.gd/Fx9Mw
+GithubAdvisories,[GHSA-frq9-3hp2-xvxg] Markdownify MCP Server allows Server-Side Request Forgery (SSRF) via the Markdownify.get() function,https://github.com/advisories/GHSA-frq9-3hp2-xvxg,https://da.gd/JDK1t
+GithubAdvisories,[GHSA-22v8-p7h2-rj7p] Markdownify MCP Server allows attackers to read arbitrary files,https://github.com/advisories/GHSA-22v8-p7h2-rj7p,https://da.gd/a7emX
