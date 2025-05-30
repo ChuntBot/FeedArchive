@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 41: FEDORA-2025-464c59df2a moderate: docker-buildx update,https://linuxsecurity.com/advisories/fedora/fedora-41-docker-buildx-2025-464c59df2a-2uxqsxnig2eu,https://da.gd/ZQh2rW
+LinuxSecurity,Fedora 41: FEDORA-2025-fb7b9c7c48 moderate: maturin double free,https://linuxsecurity.com/advisories/fedora/fedora-41-maturin-2025-fb7b9c7c48-te3cojf9s2eu,https://da.gd/k9z1DY
+LinuxSecurity,Fedora 41: 2025-575023fff7 critical: rust-hashlink double free,https://linuxsecurity.com/advisories/fedora/fedora-41-rust-hashlink-2025-575023fff7-uhzja2ye1vqd,https://da.gd/NxO3
+LinuxSecurity,Fedora 41: FEDORA-2025-575023fff7 critical: rust-rusqlite security issue,https://linuxsecurity.com/advisories/fedora/fedora-41-rust-rusqlite-2025-575023fff7-9tigaqrdfiid,https://da.gd/mv3t9
+LinuxSecurity,Fedora 41: 2025-575023fff7 critical: ruff crossbeam double free,https://linuxsecurity.com/advisories/fedora/fedora-41-ruff-2025-575023fff7-gtsmeyetudg1,https://da.gd/LNdIke
+LinuxSecurity,Fedora 41: Update to dnsdist 1.9.10 Critical: DoS via TCP Exchange,https://linuxsecurity.com/advisories/fedora/fedora-41-dnsdist-2025-0c238cf731-awvbvwgruw0s,https://da.gd/vT2Fq
