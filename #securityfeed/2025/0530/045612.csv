@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian LTS: DLA-4193-1 high: linux-6.1 privilege escalation,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4193-1-linux-6-1-security-update-amdvxebv78k7,https://da.gd/UkL6Z5
+LinuxSecurity,Debian: DSA-5931-1 moderate: systemd race condition risk,https://linuxsecurity.com/advisories/debian/debian-dsa-5931-1-systemd-w0ywfjjajmbk,https://da.gd/yCDImO
+LinuxSecurity,Debian Bullseye DLA-4192-1: modsecurity-apache DoS Correction,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4192-1-modsecurity-apache-security-update-fs2sx6ly2dxx,https://da.gd/Rblmh
+LinuxSecurity,Debian 11 bullseye: DLA-4191-1 critical: firefox-esr code execution threat,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4191-1-firefox-esr-security-update-mol8h2r2jnsn,https://da.gd/2wld
+LinuxSecurity,Debian 11: DLA-4190-1 critical: mydumper information disclosure,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4190-1-mydumper-security-update-h3jrne3ruwmv,https://da.gd/myVMt8
+LinuxSecurity,SUSE 15 SP7: 2025:01565-1 moderate: open-vm-tools security update,https://linuxsecurity.com/advisories/suse/suse-2025-01565-1-moderate-open-vm-tools-vlhri8jwq30f,https://da.gd/Cy8xf
