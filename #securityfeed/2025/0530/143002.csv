@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rg8f-5p7x-m6wv] MantisBT CSV Injection unprivileged user access in csv_export.php,https://github.com/advisories/GHSA-rg8f-5p7x-m6wv,https://da.gd/y1dWY
+GithubAdvisories,[GHSA-cvrm-cr3m-qj92] MantisBT XSS in manage_custom_field_update.php,https://github.com/advisories/GHSA-cvrm-cr3m-qj92,https://da.gd/Br5Xi
+GithubAdvisories,[GHSA-pgg9-mmcg-8mxp] MantisBT Incorrect Authorization in bug_actiongroup_page.php,https://github.com/advisories/GHSA-pgg9-mmcg-8mxp,https://da.gd/nIQ2qJ
+GithubAdvisories,[GHSA-qpj5-f88q-x7px] MantisBT Insecure Storage in manage_proj_edit_page.php,https://github.com/advisories/GHSA-qpj5-f88q-x7px,https://da.gd/PKtAY
+GithubAdvisories,[GHSA-f38c-wxp6-8xjv] MantisBT Missing Authorization access check in bug_actiongroup.php,https://github.com/advisories/GHSA-f38c-wxp6-8xjv,https://da.gd/EOpcjE
+GithubAdvisories,[GHSA-7j8m-fm49-xgmg] MantisBT Incorrect Authorization for bug_revision_view_page.php check,https://github.com/advisories/GHSA-7j8m-fm49-xgmg,https://da.gd/Vu80w
