@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-86jg-35xj-3vv5] Mattermost fails to properly enforce access control restrictions for System Manager roles,https://github.com/advisories/GHSA-86jg-35xj-3vv5,https://da.gd/cP1Up
+GithubAdvisories,[GHSA-mc2f-jgj6-6cp3] Mattermost fails to properly invalidate personal access tokens upon user deactivation,https://github.com/advisories/GHSA-mc2f-jgj6-6cp3,https://da.gd/KLoLP
+GithubAdvisories,[GHSA-8cgx-9ccj-3gwr] Mattermost fails to clear Google OAuth credentials,https://github.com/advisories/GHSA-8cgx-9ccj-3gwr,https://da.gd/EgtFyf
+GithubAdvisories,[GHSA-hc6v-386m-93pq] Mattermost fails to properly enforce access controls for guest users,https://github.com/advisories/GHSA-hc6v-386m-93pq,https://da.gd/K4Rzs1
