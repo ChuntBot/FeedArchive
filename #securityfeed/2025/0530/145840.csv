@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-74gh-5j33-vg4w] MantisBT allows XSS on the Edit Filter page via crafted filter name,https://github.com/advisories/GHSA-74gh-5j33-vg4w,https://da.gd/ruZF3
+GithubAdvisories,[GHSA-mjp7-97w4-jwhc] MantisBT allows XSS via View Filters page,https://github.com/advisories/GHSA-mjp7-97w4-jwhc,https://da.gd/wFYgy
+GithubAdvisories,[GHSA-ggjm-7m5f-7xjv] MantisBT allows XSS via the Manage Filter page,https://github.com/advisories/GHSA-ggjm-7m5f-7xjv,https://da.gd/ZTQXW
+GithubAdvisories,[GHSA-gcqw-45xq-xc63] MantisBT allows XSS via Edit Filter page,https://github.com/advisories/GHSA-gcqw-45xq-xc63,https://da.gd/jQRmh3
+GithubAdvisories,[GHSA-98xr-mmq5-vc5h] MantisBT XSS allows unsanitized input via admin/install.php,https://github.com/advisories/GHSA-98xr-mmq5-vc5h,https://da.gd/mWxdG1
