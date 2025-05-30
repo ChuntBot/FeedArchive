@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g9f5-x53j-h563] Prevent GitHub CLI and extensions from executing arbitrary commands from compromised GitHub Enterprise Server,https://github.com/advisories/GHSA-g9f5-x53j-h563,https://da.gd/Pe2NM
