@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian: DSA-5930-1 critical: libavif denial of service and code execution,https://linuxsecurity.com/advisories/debian/debian-dsa-5930-1-libavif-pizuno03et4f,https://da.gd/NTbndt
+LinuxSecurity,Debian: DSA-5929-1 critical: chromium code execution and DoS,https://linuxsecurity.com/advisories/debian/debian-dsa-5929-1-chromium-bj3otgefxown,https://da.gd/Q7ldU
+LinuxSecurity,SUSE: 2025:20331-1 critical: python-httpcore and python-h11 exploit fix,https://linuxsecurity.com/advisories/suse/suse-2025-20331-1-critical-python-httpcore-python-h11-murl1cshslgz,https://da.gd/XXsoJO
+LinuxSecurity,SUSE Linux Micro 6.0: 2025:20332-1 critical: glibc Local Root Exploit Fix,https://linuxsecurity.com/advisories/suse/suse-2025-20332-1-critical-glibc-xoqpyqba3lbg,https://da.gd/aqrDbY
+LinuxSecurity,SUSE: 2025:20333-1 moderate: libxml2 buffer under-read and out-of-bounds,https://linuxsecurity.com/advisories/suse/suse-2025-20333-1-moderate-libxml2-bhs2dcp1hvg6,https://da.gd/ZLliZ
+LinuxSecurity,SUSE Micro 6.0: 2025:20334-1 important advisory: perl heap overflow,https://linuxsecurity.com/advisories/suse/suse-2025-20334-1-important-perl-3u9yjbjlnlgr,https://da.gd/4hLJ
