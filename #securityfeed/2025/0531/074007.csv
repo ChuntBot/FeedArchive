@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian 11: DLA-4197-1 critical: python-flask-cors risks with log injection,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4197-1-python-flask-cors-security-update-dkiasxlnuil3,https://da.gd/mqBc3
+LinuxSecurity,Fedora 42: FEDORA-2025-34badbe9b9 critical: Firefox software update,https://linuxsecurity.com/advisories/fedora/fedora-42-firefox-2025-34badbe9b9-q1o5jhhn0x17,https://da.gd/GDbED
+LinuxSecurity,Fedora 42: 2025-5320059879 critical: python-tornado DoS fix,https://linuxsecurity.com/advisories/fedora/fedora-42-python-tornado-2025-5320059879-xvapuqqdbz2x,https://da.gd/cKNju
+LinuxSecurity,Fedora 41: Dropbear 2025.88 critical: command injection issue,https://linuxsecurity.com/advisories/fedora/fedora-41-dropbear-2025-23ccf778c9-lecemmrammwf,https://da.gd/UarYSl
+LinuxSecurity,Fedora 41: FEDORA-2025-2a36564bd2 critical: gstreamer buffer overflow,https://linuxsecurity.com/advisories/fedora/fedora-41-gstreamer1-plugins-bad-free-2025-2a36564bd2-7tpftnidw8rk,https://da.gd/jaNq5V
+LinuxSecurity,Fedora 41: 2025-db6e9bb7fb low: python-tornado cookie parsing DoS,https://linuxsecurity.com/advisories/fedora/fedora-41-python-tornado-2025-db6e9bb7fb-b9ymc1ppwfoc,https://da.gd/Fy8mXa
