@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-95rc-wc32-gm53] Gokapi vulnerable to stored XSS via uploading file with malicious file name,https://github.com/advisories/GHSA-95rc-wc32-gm53,https://da.gd/O5RzyO
+GithubAdvisories,[GHSA-4xg4-54hm-9j77] Gokapi has stored XSS vulnerability in friendly name for API keys,https://github.com/advisories/GHSA-4xg4-54hm-9j77,https://da.gd/5xv48
+GithubAdvisories,[GHSA-8cj5-5rvv-wf4v] tar-fs can extract outside the specified dir with a specific tarball,https://github.com/advisories/GHSA-8cj5-5rvv-wf4v,https://da.gd/DtDvSA
+GithubAdvisories,[GHSA-j972-j939-p2v3] quic-go Has Panic in Path Probe Loss Recovery Handling,https://github.com/advisories/GHSA-j972-j939-p2v3,https://da.gd/fFVuWO
