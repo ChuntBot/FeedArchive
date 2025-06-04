@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f3fg-mf2q-fj3f] NextJS-Auth0 SDK Vulnerable to CDN Caching of Session Cookies,https://github.com/advisories/GHSA-f3fg-mf2q-fj3f,https://da.gd/H1EKF
+GithubAdvisories,[GHSA-8vxj-4cph-c596] Deno has --allow-read / --allow-write permission bypass in `node:sqlite`,https://github.com/advisories/GHSA-8vxj-4cph-c596,https://da.gd/XkSbD
+GithubAdvisories,[GHSA-7w8p-chxq-2789] Deno.env.toObject() ignores the variables listed in --deny-env and returns all environment variables,https://github.com/advisories/GHSA-7w8p-chxq-2789,https://da.gd/gcvo
