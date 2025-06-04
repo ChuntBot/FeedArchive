@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xqxc-x6p3-w683] Deno run with --allow-read and --deny-read flags results in allowed,https://github.com/advisories/GHSA-xqxc-x6p3-w683,https://da.gd/7MoXw
+GithubAdvisories,[GHSA-9jgg-88mc-972h] webpack-dev-server users' source code may be stolen when they access a malicious web site with non-Chromium based browser,https://github.com/advisories/GHSA-9jgg-88mc-972h,https://da.gd/T9O8ob
+GithubAdvisories,[GHSA-4v9v-hfq4-rm2v] webpack-dev-server users' source code may be stolen when they access a malicious web site,https://github.com/advisories/GHSA-4v9v-hfq4-rm2v,https://da.gd/VS6Ej
+GithubAdvisories,[GHSA-33p9-3p43-82vq] Jupyter Core on Windows Has Uncontrolled Search Path Element Local Privilege Escalation Vulnerability,https://github.com/advisories/GHSA-33p9-3p43-82vq,https://da.gd/EyFzS
+GithubAdvisories,[GHSA-2x3r-hwv5-p32x] Deno's AES GCM authentication tags are not verified,https://github.com/advisories/GHSA-2x3r-hwv5-p32x,https://da.gd/mOzb8
