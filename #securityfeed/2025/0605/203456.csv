@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,openSUSE Tumbleweed: 2025:15201-1 moderate: python311-nh3 security fix,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-15201-1-moderate-python311-nh3-0-2-17-2-1-msxt9mavcmcb,https://da.gd/g11Br
+LinuxSecurity,openSUSE Tumbleweed 2025:15202-1 moderate: python311-selenium fix,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-15202-1-moderate-python311-selenium-4-25-0-5-1-dvgkopdim5bt,https://da.gd/dxduE
+LinuxSecurity,openSUSE Tumbleweed: 2025:15200-1 moderate: haproxy CVE-2025-32464,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-15200-1-moderate-haproxy-3-2-0-git0-e134140d2-2-1-nfbrso5bp7q6,https://da.gd/EKw8AZ
+LinuxSecurity,Debian 11: DLA-4209-1 critical: libfile-find-rule-perl code execution,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4209-1-libfile-find-rule-perl-security-update-dxcisvj2qmr8,https://da.gd/bPcvd
+LinuxSecurity,Ubuntu: 7558-1 critical: GStreamer Bad Plugins DoS Risk,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7558-1-gstreamer-bad-plugins-bb6vytga1xt8,https://da.gd/mfD6M
+LinuxSecurity,Debian DSA-5936-1: libfile-find-rule-perl critical risk of code execution,https://linuxsecurity.com/advisories/debian/debian-dsa-5936-1-libfile-find-rule-perl-ppopbin47svy,https://da.gd/11YHp
