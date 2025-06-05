@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2hjw-5j7c-3g8x] Malware in fluent-log,https://github.com/advisories/GHSA-2hjw-5j7c-3g8x,https://da.gd/u9uRW
+GithubAdvisories,[GHSA-cq37-g2qp-3c2p] AstrBot Has Path Traversal Vulnerability in /api/chat/get_file,https://github.com/advisories/GHSA-cq37-g2qp-3c2p,https://da.gd/YbHb
+GithubAdvisories,[GHSA-fr6r-p8hv-x3c4] Umbraco Vulnerable to By-Pass of Configured Allowed Extensions for File Uploads,https://github.com/advisories/GHSA-fr6r-p8hv-x3c4,https://da.gd/P5Bhx
