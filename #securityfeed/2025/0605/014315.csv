@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7v6m-28jr-rg84] Hibernate Validator may interpolate user-supplied input in a constraint violation message with Expression Language,https://github.com/advisories/GHSA-7v6m-28jr-rg84,https://da.gd/oeRj8
+GithubAdvisories,[GHSA-jv4x-jv3h-qff5] Deno vulnerable to Exposure of Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-jv4x-jv3h-qff5,https://da.gd/xfTNP
+GithubAdvisories,[GHSA-862m-5253-832r] Auth0 Wordpress Plugin vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-862m-5253-832r,https://da.gd/fhER
+GithubAdvisories,[GHSA-m65q-v92h-cm7q] users may append `root` to group listings,https://github.com/advisories/GHSA-m65q-v92h-cm7q,https://da.gd/YyYSA
