@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g3p6-82vc-43jh] Yii 2 Redis may expose AUTH paramters in logs in case of connection failure,https://github.com/advisories/GHSA-g3p6-82vc-43jh,https://da.gd/vTl67C
