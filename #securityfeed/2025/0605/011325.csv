@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g5hg-p3ph-g8qg] Multer vulnerable to Denial of Service via unhandled exception,https://github.com/advisories/GHSA-g5hg-p3ph-g8qg,https://da.gd/y8URHD
+GithubAdvisories,[GHSA-fvx2-x7ff-fc56] Unauthenticated Disclosure of PSU HAX CMS Site Listings via haxPsuUsage API Endpoint,https://github.com/advisories/GHSA-fvx2-x7ff-fc56,https://da.gd/w2IzG9
+GithubAdvisories,"[GHSA-3px7-c4j3-576r] Grafana vulnerable to authenticated users bypassing dashboard, folder permissions",https://github.com/advisories/GHSA-3px7-c4j3-576r,https://da.gd/V0DznU
