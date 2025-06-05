@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pr59-jjr4-gcf6] anon-vec lacks sufficient checks in public API,https://github.com/advisories/GHSA-pr59-jjr4-gcf6,https://da.gd/WinY
+GithubAdvisories,[GHSA-6vx8-pcwv-xhf4] SignXML's signature verification with HMAC is vulnerable to an algorithm confusion attack,https://github.com/advisories/GHSA-6vx8-pcwv-xhf4,https://da.gd/dGLfX
+GithubAdvisories,[GHSA-gmhf-gg8w-jw42] SignXML's signature verification with HMAC is vulnerable to a timing attack,https://github.com/advisories/GHSA-gmhf-gg8w-jw42,https://da.gd/N7hDE
+GithubAdvisories,[GHSA-gp5h-f9c5-8355] Aim Vulnerable to Sandbox Escape Leading to Remote Code Execution,https://github.com/advisories/GHSA-gp5h-f9c5-8355,https://da.gd/1zzNck
+GithubAdvisories,[GHSA-wmjh-cpqj-4v6x] Gradio CORS Origin Validation Bypass Vulnerability,https://github.com/advisories/GHSA-wmjh-cpqj-4v6x,https://da.gd/Vicfy5
