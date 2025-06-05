@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9j65-rv5x-4vrf] Grafana's datasource proxy API allows authorization checks to be bypassed,https://github.com/advisories/GHSA-9j65-rv5x-4vrf,https://da.gd/xVMBsa
+GithubAdvisories,[GHSA-47m2-26rw-j2jw] ReDoS Vulnerability in Rack::Multipart handle_mime_head,https://github.com/advisories/GHSA-47m2-26rw-j2jw,https://da.gd/29Fsr
