@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cwwm-hr97-qfxm] SpiceDB checks involving relations with caveats can result in no permission when permission is expected,https://github.com/advisories/GHSA-cwwm-hr97-qfxm,https://da.gd/14jw37
