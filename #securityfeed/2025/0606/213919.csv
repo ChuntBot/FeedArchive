@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cvx7-x8pj-x2gw] CoreDNS Vulnerable to DoQ Memory Exhaustion via Stream Amplification,https://github.com/advisories/GHSA-cvx7-x8pj-x2gw,https://da.gd/ipVve
