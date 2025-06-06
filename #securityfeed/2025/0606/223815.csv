@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8j8w-wwqc-x596] Roundcube Webmail Vulnerable to Authenticated RCE via PHP Object Deserialization,https://github.com/advisories/GHSA-8j8w-wwqc-x596,https://da.gd/wAJQB
