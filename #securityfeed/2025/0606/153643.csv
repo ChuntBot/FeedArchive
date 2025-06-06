@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9qvj-rpj8-v5c8] Pekko Management may not properly apply authenticator when Basic Authentication enabled,https://github.com/advisories/GHSA-9qvj-rpj8-v5c8,https://da.gd/QNkaMD
+GithubAdvisories,[GHSA-c42h-56wx-h85q] laravel-auth0 SDK Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-c42h-56wx-h85q,https://da.gd/ZD1h
