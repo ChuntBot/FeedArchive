@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qx7g-fx8q-545g] Para Inserts Sensitive Information into Log File for Facebook authentication,https://github.com/advisories/GHSA-qx7g-fx8q-545g,https://da.gd/INNnmP
+GithubAdvisories,[GHSA-7xr5-9hcq-chf9] Django Improper Output Neutralization for Logs vulnerability,https://github.com/advisories/GHSA-7xr5-9hcq-chf9,https://da.gd/ShqHWF
+GithubAdvisories,[GHSA-55g9-6c2x-gf8q] HumanSignal label-studio-ml-backend Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-55g9-6c2x-gf8q,https://da.gd/CZee
