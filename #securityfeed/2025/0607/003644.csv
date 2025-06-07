@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wf8f-6423-gfxg] Jackson-core Vulnerable to Memory Disclosure via Source Snippet in JsonLocation,https://github.com/advisories/GHSA-wf8f-6423-gfxg,https://da.gd/0TAbC
