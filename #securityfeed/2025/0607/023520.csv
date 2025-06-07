@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,openSUSE 15.6: 2025:01830-1 moderate: helm-mirror DoS and overflow fix,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-01830-1-moderate-helm-mirror-fhu3ekoka6o7,https://da.gd/GcPre
+LinuxSecurity,SUSE Linux: 2025:01830-1 moderate: helm-mirror DoS and Overflow Fix,https://linuxsecurity.com/advisories/suse/suse-2025-01830-1-moderate-helm-mirror-ggbpvhecolby,https://da.gd/Wx4ov
+LinuxSecurity,"Debian: DSA-5939-1 gimp severe: denial of service, code execution",https://linuxsecurity.com/advisories/debian/debian-dsa-5939-1-gimp-obt7ienuxffj,https://da.gd/AhFnS
+LinuxSecurity,Debian 10: DSA-5938-1 critical: tornado DoS due to logging,https://linuxsecurity.com/advisories/debian/debian-dsa-5938-1-python-tornado-8uwekp3mponc,https://da.gd/X4t8oK
