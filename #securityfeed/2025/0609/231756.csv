@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-826p-4gcg-35vw] GeoTools has XML External Entity (XXE) Processing Vulnerability in XSD schema handling,https://github.com/advisories/GHSA-826p-4gcg-35vw,https://da.gd/QVamGd
+GithubAdvisories,[GHSA-79vf-hf9f-j9q8] @vue/cli-plugin-pwa Regular Expression Denial of Service vulnerability,https://github.com/advisories/GHSA-79vf-hf9f-j9q8,https://da.gd/p7MgAJ
+GithubAdvisories,[GHSA-f5xg-cfpj-2mw6] taro-css-to-react-native Regular Expression Denial of Service vulnerability,https://github.com/advisories/GHSA-f5xg-cfpj-2mw6,https://da.gd/R5g7FY
