@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 25.04: USN-7559-1 critical: systemd information leak,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7559-1-systemd-ihuonwuxqe04,https://da.gd/yDr8o
+LinuxSecurity,Ubuntu 25.04 LTS Apport Regression: Critical Update Available,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7545-2-apport-regression-u0g546ukmehx,https://da.gd/GxGtM
+LinuxSecurity,Debian 11: DLA-4210-1 high: python-django update mitigates several risks,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4210-1-python-django-security-update-9e7ibeimnotx,https://da.gd/3QCzG
+LinuxSecurity,Ubuntu 24.10 and 24.04 LTS: AMD Microcode Security Advisory,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7561-1-amd-microcode-5rmh8iijupiz,https://da.gd/UQPI6W
+LinuxSecurity,Ubuntu 25.04 USN-7560-1: Critical AMD Microcode Integrity Risk,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7560-1-amd-microcode-cm5rtavtgjte,https://da.gd/lOKx55
+LinuxSecurity,Debian 11 bullseye DLA-4212-1 moderate: modsecurity-apache DoS fix,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4212-1-modsecurity-apache-security-update-sawdnu5kjl2z,https://da.gd/WLGd
