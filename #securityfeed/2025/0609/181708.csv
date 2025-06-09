@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hxrr-x32w-cg8g] HAX CMS vulnerable to Local File Inclusion via saveOutline API Location Parameter,https://github.com/advisories/GHSA-hxrr-x32w-cg8g,https://da.gd/159eU9
