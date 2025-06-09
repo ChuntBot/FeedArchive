@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j226-63j7-qrqh] Laravel Translation Manager Vulnerable to Stored Cross-site Scripting,https://github.com/advisories/GHSA-j226-63j7-qrqh,https://da.gd/g0cZNE
+GithubAdvisories,[GHSA-vqvv-2wj5-q34w] Authorino Uncontrolled Resource Consumption vulnerability,https://github.com/advisories/GHSA-vqvv-2wj5-q34w,https://da.gd/kscbsY
+GithubAdvisories,[GHSA-r8xr-pgv5-gxw3] Authorino Uncontrolled Resource Consumption vulnerability,https://github.com/advisories/GHSA-r8xr-pgv5-gxw3,https://da.gd/xAMR40
+GithubAdvisories,[GHSA-jc7g-x28f-3v3h] listmonk's Sprig template Injection vulnerability leads to reading of Environment Variable for low privilege user,https://github.com/advisories/GHSA-jc7g-x28f-3v3h,https://da.gd/wwfNQ
+GithubAdvisories,[GHSA-h92g-3xc3-ww2r] Skyvern has a Jinja runtime leak,https://github.com/advisories/GHSA-h92g-3xc3-ww2r,https://da.gd/ZOhJG
