@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4w6c-3hcx-rfj5] MantisBT vulnerable to XSS through config_option parameter in adm_config_report.php,https://github.com/advisories/GHSA-4w6c-3hcx-rfj5,https://da.gd/r24MP
+GithubAdvisories,[GHSA-w93w-rx52-24qh] MantisBT vulnerable to XSS via unsanitized filter field in manage_user_page.php,https://github.com/advisories/GHSA-w93w-rx52-24qh,https://da.gd/kMUF4w
+GithubAdvisories,[GHSA-wfg2-2wmw-6894] MantisBT vulnerable to XSS via unescaped output in browser_search_plugin.php,https://github.com/advisories/GHSA-wfg2-2wmw-6894,https://da.gd/VElZJY
+GithubAdvisories,[GHSA-rqgj-rqfr-5j6f] MantisBT vulnerable to XSS due to improper escape in manage_plugin_page.php and manage_plugin_uninstall.php,https://github.com/advisories/GHSA-rqgj-rqfr-5j6f,https://da.gd/Caiuk
