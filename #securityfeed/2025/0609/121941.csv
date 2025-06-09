@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gw97-cqwg-xmh4] Jenkins Gatling Plugin Vulnerable to Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-gw97-cqwg-xmh4,https://da.gd/17K4y
+GithubAdvisories,[GHSA-62gc-8jr5-x9pm] Apache InLong Deserialization of Untrusted Data Vulnerability,https://github.com/advisories/GHSA-62gc-8jr5-x9pm,https://da.gd/CX7To3
