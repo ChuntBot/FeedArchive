@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g4cf-pp4x-hqgw] HaxCMS-PHP Command Injection Vulnerability,https://github.com/advisories/GHSA-g4cf-pp4x-hqgw,https://da.gd/5NYvUT
+GithubAdvisories,[GHSA-f26w-gh5m-qq77] Pion Interceptor's improper RTP padding handling allows remote crash for SFU users (DoS),https://github.com/advisories/GHSA-f26w-gh5m-qq77,https://da.gd/sDs1
