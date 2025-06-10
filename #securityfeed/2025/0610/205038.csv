@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vgq5-3255-v292] Apache Kafka Client Arbitrary File Read and Server Side Request Forgery Vulnerability,https://github.com/advisories/GHSA-vgq5-3255-v292,https://da.gd/9Ha3
+GithubAdvisories,[GHSA-vrx2-mgr9-v67h] Apache Ranger has Stored Cross-site Scripting vulnerability in Edit Service Page,https://github.com/advisories/GHSA-vrx2-mgr9-v67h,https://da.gd/5PSEPx
+GithubAdvisories,[GHSA-rh67-4c8j-hjjh] Nautobot may allows uploaded media files to be accessible without authentication,https://github.com/advisories/GHSA-rh67-4c8j-hjjh,https://da.gd/5I976
+GithubAdvisories,[GHSA-rq9r-qvwg-829q] Erxes Path Traversal vulnerability,https://github.com/advisories/GHSA-rq9r-qvwg-829q,https://da.gd/GIVsi
+GithubAdvisories,[GHSA-7rhv-xm4q-wh42] Erxes Incorrect Access Control vulnerability,https://github.com/advisories/GHSA-7rhv-xm4q-wh42,https://da.gd/hS9WJw
+GithubAdvisories,[GHSA-2977-5php-6789] Erxes Path Traversal vulnerability,https://github.com/advisories/GHSA-2977-5php-6789,https://da.gd/Coz7
+GithubAdvisories,[GHSA-76qp-h5mr-frr4] Apache Kafka Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-76qp-h5mr-frr4,https://da.gd/Th0yQu
+GithubAdvisories,[GHSA-mcwh-c9pg-xw43] Apache Kafka Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-mcwh-c9pg-xw43,https://da.gd/jYI8J
