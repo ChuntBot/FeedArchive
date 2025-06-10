@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r4hf-r8gj-jgw2] Coverage REST API Server Side Request Forgery,https://github.com/advisories/GHSA-r4hf-r8gj-jgw2,https://da.gd/rVvc
+GithubAdvisories,[GHSA-jm79-7xhw-6f6f] GWC Home Page communicate version and revision information,https://github.com/advisories/GHSA-jm79-7xhw-6f6f,https://da.gd/Abcuh
+GithubAdvisories,[GHSA-mc43-4fqr-c965] GeoServer has improper ENTITY_RESOLUTION_ALLOWLIST URI validation in XML Processing (SSRF),https://github.com/advisories/GHSA-mc43-4fqr-c965,https://da.gd/h7kv
+GithubAdvisories,[GHSA-5gw5-jccf-6hxw] GeoServer Vulnerable to Unauthenticated SSRF via TestWfsPost,https://github.com/advisories/GHSA-5gw5-jccf-6hxw,https://da.gd/LQPw
