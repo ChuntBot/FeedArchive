@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-68cf-j696-wvv9] GeoServer vulnerable to SSRF in TestWfsPost for specific targets, e.g. PHP + Nginx",https://github.com/advisories/GHSA-68cf-j696-wvv9,https://da.gd/7CYKU
+GithubAdvisories,[GHSA-wjw6-95h5-4jpx] Nautobot vulnerable to secrets exposure and data manipulation through Jinja2 templating,https://github.com/advisories/GHSA-wjw6-95h5-4jpx,https://da.gd/w4kvaj
+GithubAdvisories,[GHSA-x958-rvg6-956w] matrix-sdk-crypto vulnerable to sender of encrypted events being spoofed by homeserver administrator,https://github.com/advisories/GHSA-x958-rvg6-956w,https://da.gd/d9llJW
+GithubAdvisories,[GHSA-9wj4-8h85-pgrw] OctoPrint Vulnerable to Denial of Service through malformed HTTP request in OctoPrint,https://github.com/advisories/GHSA-9wj4-8h85-pgrw,https://da.gd/YIsT
+GithubAdvisories,[GHSA-m9jh-jf9h-x3h2] OctoPrint vulnerable to possible file extraction via upload endpoints,https://github.com/advisories/GHSA-m9jh-jf9h-x3h2,https://da.gd/njKLJ
+GithubAdvisories,[GHSA-2p76-gc46-5fvc] GeoNetwork affected by XML External Entity (XXE) processing vulnerability in WFS indexing REST API endpoint,https://github.com/advisories/GHSA-2p76-gc46-5fvc,https://da.gd/FxDriC
+GithubAdvisories,[GHSA-jj54-8f66-c5pc] [XBOW-025-068] XML External Entity (XXE) Processing Vulnerability in GeoServer WFS Service,https://github.com/advisories/GHSA-jj54-8f66-c5pc,https://da.gd/3xRT1
