@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,SUSE Linux Micro 5.1: 2025:01877-1 moderate: python3 use-after-free,https://linuxsecurity.com/advisories/suse/suse-2025-01877-1-moderate-python3-pm8pukf0vym5,https://da.gd/SC2ik
+LinuxSecurity,SUSE 15 SP6: 2025:01878-1 important: nodejs22 process crash,https://linuxsecurity.com/advisories/suse/suse-2025-01878-1-important-nodejs22-wljofxiq75uz,https://da.gd/Ql5nJ
+LinuxSecurity,openSUSE Leap 15.6: Important Security Update for Node.js 22 Released,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-01878-1-important-nodejs22-qvu6rkhbkt9p,https://da.gd/i5B1V
+LinuxSecurity,SUSE: 2025:01879-1 important: nodejs22 critical process crash fix,https://linuxsecurity.com/advisories/suse/suse-2025-01879-1-important-nodejs22-gaxbrx3cofpu,https://da.gd/8z5ydc
+LinuxSecurity,SUSE: 2025:01880-1 moderate: glib2 buffer underwrite vulnerability,https://linuxsecurity.com/advisories/suse/suse-2025-01880-1-moderate-glib2-1c44orr7sjbr,https://da.gd/eYmSj
+LinuxSecurity,SUSE: 2025:01882-1 important: Tomcat URL Handling Issue,https://linuxsecurity.com/advisories/suse/suse-2025-01882-1-important-tomcat-hjuu17iupqct,https://da.gd/j0ODs
