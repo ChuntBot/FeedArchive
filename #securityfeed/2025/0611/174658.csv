@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rx97-6c62-55mf] Hashicorp Nomad Incorrect Privilege Assignment vulnerability,https://github.com/advisories/GHSA-rx97-6c62-55mf,https://da.gd/1bzPHm
+GithubAdvisories,[GHSA-hxvr-gg2w-j48x] BackendAI vulnerable to Exposure of Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-hxvr-gg2w-j48x,https://da.gd/CHRxY9
+GithubAdvisories,[GHSA-ww28-4m4v-cq4j] BackendAI Missing Authentication for Critical Function,https://github.com/advisories/GHSA-ww28-4m4v-cq4j,https://da.gd/nITl
+GithubAdvisories,[GHSA-qghg-v7xv-q98q] MantisBT XSS through crafted SVG documents in file_download.php,https://github.com/advisories/GHSA-qghg-v7xv-q98q,https://da.gd/Wl6Oj
