@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4c2h-67qq-vm87] Citizen skin vulnerable to stored XSS through multiple system messages,https://github.com/advisories/GHSA-4c2h-67qq-vm87,https://da.gd/ZdPKG
