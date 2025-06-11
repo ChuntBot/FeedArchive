@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8vx9-hcvq-gfv8] MantisBT XSS through weak CSP when using Gravatar plugin,https://github.com/advisories/GHSA-8vx9-hcvq-gfv8,https://da.gd/KYIQ9
+GithubAdvisories,[GHSA-v7qf-22rw-chph] MantisBT XSS via adm_config_report.php's action parameter,https://github.com/advisories/GHSA-v7qf-22rw-chph,https://da.gd/AFNnFW
+GithubAdvisories,[GHSA-x53v-v9xp-gf6g] MantisBT XSS via move_attachments_page.php,https://github.com/advisories/GHSA-x53v-v9xp-gf6g,https://da.gd/WK6sQ
