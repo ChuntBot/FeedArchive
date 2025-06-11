@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jwhw-xf5v-qgxc] Mattermost allows guest users to view information about public teams they are not members of,https://github.com/advisories/GHSA-jwhw-xf5v-qgxc,https://da.gd/YIsZ34
+GithubAdvisories,[GHSA-4r67-4x4p-fprg] Mattermost allows authenticated administrator to execute LDAP search filter injection,https://github.com/advisories/GHSA-4r67-4x4p-fprg,https://da.gd/LElId
