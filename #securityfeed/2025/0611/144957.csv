@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-266m-wp2v-x7mq] Microsoft Security Advisory CVE-2025-30399 | .NET Remote Code Vulnerability,https://github.com/advisories/GHSA-266m-wp2v-x7mq,https://da.gd/5i7t6c
+GithubAdvisories,"[GHSA-v33j-v3x4-42qg] Regex literal in Hurl files are not escaped when exported to HTML, allowing injections",https://github.com/advisories/GHSA-v33j-v3x4-42qg,https://da.gd/xS4w6
+GithubAdvisories,[GHSA-79xg-q4qm-7v9w] CWA-2025-006: wasmd's improper error handling may lead to IBC channel opening despite error,https://github.com/advisories/GHSA-79xg-q4qm-7v9w,https://da.gd/Oh2GwG
+GithubAdvisories,[GHSA-hq9p-pm7w-8p54] pgjdbc Client Allows Fallback to Insecure Authentication Despite channelBinding=require Configuration,https://github.com/advisories/GHSA-hq9p-pm7w-8p54,https://da.gd/x09NxT
