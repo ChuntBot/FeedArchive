@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-prwh-7838-xf82] XWiki allows SQL injection in query endpoint of REST API with Oracle,https://github.com/advisories/GHSA-prwh-7838-xf82,https://da.gd/kKbUJg
