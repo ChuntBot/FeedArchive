@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6r3c-xf4w-jxjm] Spring Framework vulnerable to a reflected file download (RFD),https://github.com/advisories/GHSA-6r3c-xf4w-jxjm,https://da.gd/640aR
+GithubAdvisories,[GHSA-8pcp-r83j-fc92] Salt vulnerable to directory traversal attack in file receiving method,https://github.com/advisories/GHSA-8pcp-r83j-fc92,https://da.gd/Htf30
+GithubAdvisories,[GHSA-989c-m532-p2hv] Salt's worker process vulnerable to denial of service through file read operation,https://github.com/advisories/GHSA-989c-m532-p2hv,https://da.gd/607M9q
+GithubAdvisories,[GHSA-7f3f-x5f5-79gw] Salt's file contents overwrite the VirtKey class,https://github.com/advisories/GHSA-7f3f-x5f5-79gw,https://da.gd/Wsx77F
+GithubAdvisories,[GHSA-xh32-3m67-qjgf] Salt allows arbitrary directory creation or file deletion,https://github.com/advisories/GHSA-xh32-3m67-qjgf,https://da.gd/TyZ4b
