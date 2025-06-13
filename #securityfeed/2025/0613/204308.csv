@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mvp5-qx9c-c3fv] XWiki makes title of inaccessible pages available through the class property values REST API,https://github.com/advisories/GHSA-mvp5-qx9c-c3fv,https://da.gd/quOhtQ
+GithubAdvisories,[GHSA-ff6v-w58f-v97w] XWiki provides no warning when granting XWiki.Notifications.Code.NotificationEmailRendererClass admin right,https://github.com/advisories/GHSA-ff6v-w58f-v97w,https://da.gd/L7Osl3
+GithubAdvisories,[GHSA-9875-cw22-f7cx] XWiki allows remote code execution through default value of wiki macro wiki-type parameters,https://github.com/advisories/GHSA-9875-cw22-f7cx,https://da.gd/As97Dw
+GithubAdvisories,[GHSA-c32m-27pj-4xcj] XWiki's required right warnings for macros are incomplete,https://github.com/advisories/GHSA-c32m-27pj-4xcj,https://da.gd/zvxJKg
+GithubAdvisories,[GHSA-jm43-hrq7-r7w6] XWiki allows privilege escalation through link refactoring,https://github.com/advisories/GHSA-jm43-hrq7-r7w6,https://da.gd/hSRhk
