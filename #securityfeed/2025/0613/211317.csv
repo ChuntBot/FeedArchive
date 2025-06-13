@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x3c7-22c8-prg7] handcraftedinthealps/goodby-csv has Potential Gadget Chain allowing Remote Code Execution,https://github.com/advisories/GHSA-x3c7-22c8-prg7,https://da.gd/Z3Y4Yv
+GithubAdvisories,[GHSA-59w6-r9hm-439h] XWiki does not require right warnings for XClass definitions,https://github.com/advisories/GHSA-59w6-r9hm-439h,https://da.gd/VOmB0
+GithubAdvisories,[GHSA-jp4x-w9cj-97q7] XWiki allows remote code execution through preview of XClass changes in AWM editor,https://github.com/advisories/GHSA-jp4x-w9cj-97q7,https://da.gd/Ic0aE
+GithubAdvisories,[GHSA-j7p2-87q3-44w7] XWiki does not require right warnings for notification displayer objects,https://github.com/advisories/GHSA-j7p2-87q3-44w7,https://da.gd/JZQrGR
