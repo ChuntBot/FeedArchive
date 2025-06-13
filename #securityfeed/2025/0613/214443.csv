@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c46w-gr7f-jm2p] Salt vulnerable to arbitrary event injection,https://github.com/advisories/GHSA-c46w-gr7f-jm2p,https://da.gd/0usW
+GithubAdvisories,[GHSA-r546-h3ff-q585] Salt vulnerable to directory traversal attack in minion file cache creation,https://github.com/advisories/GHSA-r546-h3ff-q585,https://da.gd/fkDOLJ
+GithubAdvisories,[GHSA-fcr4-h6c4-rvvp] Salt's on demand pillar functionality vulnerable to arbitrary command injections,https://github.com/advisories/GHSA-fcr4-h6c4-rvvp,https://da.gd/LbsFIR
+GithubAdvisories,[GHSA-jh7c-xh74-h76f] Salt has minion event bus authorization bypass vulnerability,https://github.com/advisories/GHSA-jh7c-xh74-h76f,https://da.gd/a48AA
+GithubAdvisories,[GHSA-4j59-vv55-q6h3] Salt's salt.auth.pki module does not properly authenticate callers,https://github.com/advisories/GHSA-4j59-vv55-q6h3,https://da.gd/26xNv
