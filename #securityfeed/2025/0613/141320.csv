@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2v3v-3whp-953h] starcitizentools/citizen-skin allows stored XSS in user registration date message,https://github.com/advisories/GHSA-2v3v-3whp-953h,https://da.gd/RniOt
+GithubAdvisories,[GHSA-g3cp-pq72-hjpv] starcitizentools/citizen-skin allows stored XSS in menu heading message,https://github.com/advisories/GHSA-g3cp-pq72-hjpv,https://da.gd/OrxSpG
+GithubAdvisories,[GHSA-jwr7-992g-68mh] starcitizentools/citizen-skin allows stored XSS in preference menu heading messages,https://github.com/advisories/GHSA-jwr7-992g-68mh,https://da.gd/RCOkvP
+GithubAdvisories,[GHSA-86xf-2mgp-gv3g] starcitizentools/citizen-skin allows stored XSS in search no result messages,https://github.com/advisories/GHSA-86xf-2mgp-gv3g,https://da.gd/WDCvER
