@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m63q-4hr8-5r5h] Solon Vulnerable to Directory Traversal,https://github.com/advisories/GHSA-m63q-4hr8-5r5h,https://da.gd/d5yG4b
+GithubAdvisories,[GHSA-7f8r-222p-6f5g] MCP Inspector proxy server lacks authentication between the Inspector client and proxy,https://github.com/advisories/GHSA-7f8r-222p-6f5g,https://da.gd/xQHzNG
