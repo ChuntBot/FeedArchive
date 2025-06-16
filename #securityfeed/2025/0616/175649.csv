@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h3gc-qfqq-6h8f] Apache Tomcat - DoS in multipart upload,https://github.com/advisories/GHSA-h3gc-qfqq-6h8f,https://da.gd/AET9XV
+GithubAdvisories,[GHSA-p73j-gpcq-49h8] Liferay Portal path traversal vulnerability with the downloading and installation of Xuggler,https://github.com/advisories/GHSA-p73j-gpcq-49h8,https://da.gd/ABzSo
