@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4qqf-9m5c-w2c5] Weblate exposes personal IP address via e-mail,https://github.com/advisories/GHSA-4qqf-9m5c-w2c5,https://da.gd/Fl9fj
+GithubAdvisories,[GHSA-57jg-m997-cx3q] Weblate lacks rate limiting when verifying second factor,https://github.com/advisories/GHSA-57jg-m997-cx3q,https://da.gd/LxRKT0
+GithubAdvisories,[GHSA-c2qp-rh53-p289] Malware in bs58js,https://github.com/advisories/GHSA-c2qp-rh53-p289,https://da.gd/G0aZt
