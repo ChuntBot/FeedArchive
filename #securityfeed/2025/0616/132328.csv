@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cf8v-5mrc-jv7f] OpenC3 COSMOS Vulnerable to Directory Traversal via openc3-api/tables endpoint,https://github.com/advisories/GHSA-cf8v-5mrc-jv7f,https://da.gd/gEN3TY
+GithubAdvisories,[GHSA-p67j-387g-75wc] OpenC3 COSMOS Vulnerable to Directory Traversal via /script-api/scripts/ endpoint,https://github.com/advisories/GHSA-p67j-387g-75wc,https://da.gd/ciLmA
