@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8cqv-pj7f-pwpc] Teleport allows remote authentication bypass,https://github.com/advisories/GHSA-8cqv-pj7f-pwpc,https://da.gd/Pnh2KE
+GithubAdvisories,[GHSA-mf3r-6m25-3867] Liferay Portal SessionClicks does not restrict the saving of request parameters in the HTTP session,https://github.com/advisories/GHSA-mf3r-6m25-3867,https://da.gd/ZIHtd
+GithubAdvisories,[GHSA-8c26-xm99-53w7] Liferay Portal does not limit the depth of a GraphQL queries,https://github.com/advisories/GHSA-8c26-xm99-53w7,https://da.gd/2oEE5H
