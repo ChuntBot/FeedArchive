@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rvpw-p7vw-wj3m] OpenNext for Cloudflare (opennextjs-cloudflare) has a SSRF vulnerability via /_next/image endpoint,https://github.com/advisories/GHSA-rvpw-p7vw-wj3m,https://da.gd/07Yeu8
