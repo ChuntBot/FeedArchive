@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5qpg-rh4j-qp35] pycares has a Use-After-Free Vulnerability,https://github.com/advisories/GHSA-5qpg-rh4j-qp35,https://da.gd/tpQXJx
+GithubAdvisories,[GHSA-8qvm-5x2c-j2w7] protobuf-python has a potential Denial of Service issue,https://github.com/advisories/GHSA-8qvm-5x2c-j2w7,https://da.gd/uDo1X
+GithubAdvisories,[GHSA-g8qw-mgjx-rwjr] New authd users logging in via SSH are members of the root group,https://github.com/advisories/GHSA-g8qw-mgjx-rwjr,https://da.gd/b7uTSP
