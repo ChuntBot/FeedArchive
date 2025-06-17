@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7pr5-w74r-jjj7] Mezzanine CMS has a Stored Cross-Site Scripting (XSS) vulnerability in the displayable_links_js function,https://github.com/advisories/GHSA-7pr5-w74r-jjj7,https://da.gd/O7F0fB
+GithubAdvisories,[GHSA-9ghp-w2hm-vfpf] wasmtime_jit_debug Dumps Undefined Memory by `JitDumpFile`,https://github.com/advisories/GHSA-9ghp-w2hm-vfpf,https://da.gd/hqN0pW
+GithubAdvisories,[GHSA-rp38-pj7h-r8q2] python-a2a has a path traversal in the create_workflow function,https://github.com/advisories/GHSA-rp38-pj7h-r8q2,https://da.gd/RcKq5
+GithubAdvisories,[GHSA-gffx-9p8c-v78g] Malware in vscode-azurecontainerapps,https://github.com/advisories/GHSA-gffx-9p8c-v78g,https://da.gd/z4nuZ
+GithubAdvisories,[GHSA-m2q8-6frp-3wqf] Malware in buck2_explain,https://github.com/advisories/GHSA-m2q8-6frp-3wqf,https://da.gd/7DYqxB
+GithubAdvisories,[GHSA-4r9g-q45p-6hr7] Malware in connectnodewebclient,https://github.com/advisories/GHSA-4r9g-q45p-6hr7,https://da.gd/BRhZe
+GithubAdvisories,[GHSA-2243-637g-376q] Malware in google.fhir.stu3.google,https://github.com/advisories/GHSA-2243-637g-376q,https://da.gd/2gh4r
+GithubAdvisories,[GHSA-ccgw-f3fg-hjq9] Malware in debugger-local,https://github.com/advisories/GHSA-ccgw-f3fg-hjq9,https://da.gd/yCUbs5
+GithubAdvisories,[GHSA-78hj-hfvw-j79q] Malware in snapshot-server,https://github.com/advisories/GHSA-78hj-hfvw-j79q,https://da.gd/m72be
+GithubAdvisories,[GHSA-997g-r6rc-6c98] Malware in symphony-scatterplot,https://github.com/advisories/GHSA-997g-r6rc-6c98,https://da.gd/GMuWT1
