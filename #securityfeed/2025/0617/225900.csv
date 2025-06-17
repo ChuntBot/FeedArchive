@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wgc6-9f6w-h8hx] microlight allows a denial of service,https://github.com/advisories/GHSA-wgc6-9f6w-h8hx,https://da.gd/EdZC
+GithubAdvisories,[GHSA-64x7-m7rh-9m83] microlight.js has a null pointer dereference vulnerability,https://github.com/advisories/GHSA-64x7-m7rh-9m83,https://da.gd/nz810N
+GithubAdvisories,[GHSA-h4h6-vccr-44h2] uptrace pgdriver SQL injection vulnerability,https://github.com/advisories/GHSA-h4h6-vccr-44h2,https://da.gd/bV5ce
+GithubAdvisories,[GHSA-rvfh-h6c7-fc3c] Gradio allows credential leakage on Windows,https://github.com/advisories/GHSA-rvfh-h6c7-fc3c,https://da.gd/AKZx
