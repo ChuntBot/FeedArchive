@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6xp3-p59p-q4fj] go-pg SQL injection vulnerability via the component /types/append_value.go,https://github.com/advisories/GHSA-6xp3-p59p-q4fj,https://da.gd/6PmZAr
