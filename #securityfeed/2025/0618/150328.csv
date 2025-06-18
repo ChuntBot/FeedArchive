@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2hw3-h8qx-hqqp] OpenList (frontend) allows XSS Attacks in the built-in Markdown Viewer,https://github.com/advisories/GHSA-2hw3-h8qx-hqqp,https://da.gd/VCOsK
