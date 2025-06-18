@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2hcm-q3f4-fjgw] OSV-SCALIBR's Container Image Unpacking Vulnerable to Arbitrary File Write via Path Traversal,https://github.com/advisories/GHSA-2hcm-q3f4-fjgw,https://da.gd/JyZO2j
+GithubAdvisories,[GHSA-px2c-r924-mwcc] Couchbase .NET SDK (client library) does not properly enable hostname verification for TLS certificates,https://github.com/advisories/GHSA-px2c-r924-mwcc,https://da.gd/Fp0Xm
+GithubAdvisories,[GHSA-ff9h-848c-4xfj] pg-promise SQL Injection vulnerability,https://github.com/advisories/GHSA-ff9h-848c-4xfj,https://da.gd/lILsUE
