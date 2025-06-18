@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 25.04 USN-7578-1 critical: UDisks privilege escalation,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7578-1-udisks-lbj5qqlthwpv,https://da.gd/w36VO
+LinuxSecurity,Ubuntu 25.04: USN-7577-1 important: libblockdev privilege escalation,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7577-1-libblockdev-sspa5xpgp56b,https://da.gd/xuGUg
+LinuxSecurity,Fedora 42: FEDORA-2025-6de2ab1d25 Critical python-django DoS Threats,https://linuxsecurity.com/advisories/fedora/fedora-42-python-django4-2-2025-6de2ab1d25-4ov6y9ior6av,https://da.gd/aaBru
+LinuxSecurity,Fedora 42 rust-git-interactive-rebase-tool double free issue in 2025,https://linuxsecurity.com/advisories/fedora/fedora-42-rust-git-interactive-rebase-tool-2025-da9b58be96-janckup6c88o,https://da.gd/6j4HB7
+LinuxSecurity,SUSE: 2025:01995-1 important: Linux Kernel security issues resolved,https://linuxsecurity.com/advisories/suse/suse-2025-01995-1-important-the-linux-kernel-3uwxa5t5k9kq,https://da.gd/HgVjP4
+LinuxSecurity,SUSE 12 SP5: 2025:01997-1 moderate: python3-requests credential leak,https://linuxsecurity.com/advisories/suse/suse-2025-01997-1-moderate-python3-requests-2hztwdmxbzmg,https://da.gd/M76e5h
