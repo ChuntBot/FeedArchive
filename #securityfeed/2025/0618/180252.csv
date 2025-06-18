@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8g98-m4j9-qww5] Taylored webhook validation vulnerabilities,https://github.com/advisories/GHSA-8g98-m4j9-qww5,https://da.gd/HxnhS
+GithubAdvisories,[GHSA-48p4-8xcf-vxj5] urllib3 does not control redirects in browsers and Node.js,https://github.com/advisories/GHSA-48p4-8xcf-vxj5,https://da.gd/7CTKX
+GithubAdvisories,[GHSA-pq67-6m6q-mj2v] urllib3 redirects are not disabled when retries are disabled on PoolManager instantiation,https://github.com/advisories/GHSA-pq67-6m6q-mj2v,https://da.gd/lDrIq
