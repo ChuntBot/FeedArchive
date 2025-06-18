@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-49rr-34j5-r8mw] juzaweb CMS allows cross-site scripting by uploading an SVG file,https://github.com/advisories/GHSA-49rr-34j5-r8mw,https://da.gd/Vu7J3D
+GithubAdvisories,[GHSA-crvv-6w6h-cv34] Grafana long dashboard title or panel name causes unresponsives,https://github.com/advisories/GHSA-crvv-6w6h-cv34,https://da.gd/Rqs61
