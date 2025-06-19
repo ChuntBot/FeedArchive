@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6q65-j4jw-9cg8] DotVVM allows path traversal when deployed in Debug mode,https://github.com/advisories/GHSA-6q65-j4jw-9cg8,https://da.gd/nKbK1
+GithubAdvisories,[GHSA-xfq4-78j7-v594] Passbolt Browser Extension leaks password information,https://github.com/advisories/GHSA-xfq4-78j7-v594,https://da.gd/AuPleu
+GithubAdvisories,[GHSA-qpj9-qcwx-8jv2] PowSyBl Core XML Reader allows XXE and SSRF,https://github.com/advisories/GHSA-qpj9-qcwx-8jv2,https://da.gd/8yp5
