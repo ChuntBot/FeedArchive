@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9x53-gr7p-4qf5] Apache SeaTunnel: Unauthenticated insecure access,https://github.com/advisories/GHSA-9x53-gr7p-4qf5,https://da.gd/ZiA9Ve
+GithubAdvisories,[GHSA-8qjw-9xgm-c9ff] PowSyBl Core Contains a Polynomial ReDoS in RegexCriterion,https://github.com/advisories/GHSA-8qjw-9xgm-c9ff,https://da.gd/Cz3a6o
+GithubAdvisories,[GHSA-rqpx-f6rc-7hm5] PowSyBl Core contains Polynomial REDoS’es,https://github.com/advisories/GHSA-rqpx-f6rc-7hm5,https://da.gd/JVNU7E
+GithubAdvisories,[GHSA-f5cx-h789-j959] PowSyBl Core allows deserialization of untrusted SparseMatrix data,https://github.com/advisories/GHSA-f5cx-h789-j959,https://da.gd/6Mjadq
+GithubAdvisories,[GHSA-w4px-63wq-4w35] Malware in vscode-docker,https://github.com/advisories/GHSA-w4px-63wq-4w35,https://da.gd/OdeSc
+GithubAdvisories,[GHSA-5rwh-27mj-wr3m] Malware in azure-pipelines,https://github.com/advisories/GHSA-5rwh-27mj-wr3m,https://da.gd/YJKmy
+GithubAdvisories,[GHSA-5fhx-x5c9-j4rx] Malware in axiom-src,https://github.com/advisories/GHSA-5fhx-x5c9-j4rx,https://da.gd/US4hw
+GithubAdvisories,[GHSA-4c77-pmpv-r3q5] Malware in libsyncrpc,https://github.com/advisories/GHSA-4c77-pmpv-r3q5,https://da.gd/V2K4a
+GithubAdvisories,[GHSA-m7v8-jq79-h9wm] Malware in microviewreact,https://github.com/advisories/GHSA-m7v8-jq79-h9wm,https://da.gd/UV0t
+GithubAdvisories,[GHSA-39fp-jphf-2x46] Malware in atom-keybindings,https://github.com/advisories/GHSA-39fp-jphf-2x46,https://da.gd/SNPfd
+GithubAdvisories,[GHSA-996p-mxgr-fcrm] Malware in client-vue3-dev,https://github.com/advisories/GHSA-996p-mxgr-fcrm,https://da.gd/BaXg
