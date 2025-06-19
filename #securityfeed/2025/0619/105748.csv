@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 24.10: USN-7574-1 important: golang-1.22 information disclosure,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7574-1-go-rltwamp5bcsu,https://da.gd/Gw2Pip
+LinuxSecurity,Oracle Linux 9 ELSA-2025-9184 Important: ipa Privilege Escalation Detected,https://linuxsecurity.com/advisories/oracle/oracle9-elsa-2025-9184-ipa-important-x3kf08buwcct,https://da.gd/F4Md
+LinuxSecurity,Oracle Linux 7 ELSA-2025-7898 important: kernel CVE-2024-53141 update,https://linuxsecurity.com/advisories/oracle/oracle7-elsa-2025-7898-kernel-important-mv0g1dwycs9l,https://da.gd/w0Qbr
+LinuxSecurity,Debian 12: DSA-5944-1 critical: chromium arbitrary code execution,https://linuxsecurity.com/advisories/debian/debian-dsa-5944-1-chromium-vbeap073hswv,https://da.gd/LoAxR
