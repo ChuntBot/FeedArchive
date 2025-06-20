@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qh58-9v3j-wcjc] Mattermost allows authenticated users to write files to arbitrary locations,https://github.com/advisories/GHSA-qh58-9v3j-wcjc,https://da.gd/RFYsv
+GithubAdvisories,[GHSA-vrw8-fxc6-2r93] chi Allows Host Header Injection which Leads to Open Redirect in RedirectSlashes,https://github.com/advisories/GHSA-vrw8-fxc6-2r93,https://da.gd/jnUCq
