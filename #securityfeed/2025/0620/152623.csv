@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mgfv-2362-jq96] DNN.PLATFORM leaks NTLM hash via SMB Share Interaction with malicious user input,https://github.com/advisories/GHSA-mgfv-2362-jq96,https://da.gd/HrH1g
+GithubAdvisories,[GHSA-fjhg-3mrh-mm7h] DNN.PLATFORM possibly allows bypass of IP Filters,https://github.com/advisories/GHSA-fjhg-3mrh-mm7h,https://da.gd/KEnoHm
+GithubAdvisories,[GHSA-64hc-4jx3-62jp] Alkacon OpenCMS Absolute Path Traversal via pathname in filePath parameter,https://github.com/advisories/GHSA-64hc-4jx3-62jp,https://da.gd/bqRA
+GithubAdvisories,[GHSA-pmfx-p95x-cg4p] Alkacon OpenCms XSS via query parameter in a search action,https://github.com/advisories/GHSA-pmfx-p95x-cg4p,https://da.gd/E6JC2G
+GithubAdvisories,[GHSA-gj9c-69cm-7c37] Alkacon OpenCms XSS via unsanitized message body,https://github.com/advisories/GHSA-gj9c-69cm-7c37,https://da.gd/G8TeS
+GithubAdvisories,[GHSA-g4fc-j79q-gjrh] Alkacon OpenCms XSS via username during login,https://github.com/advisories/GHSA-g4fc-j79q-gjrh,https://da.gd/zjV7g3
+GithubAdvisories,[GHSA-wwc9-wmm3-2pmf] DNN.PLATFORM Allows Stored Cross-Site Scripting (XSS) in Activity Feed,https://github.com/advisories/GHSA-wwc9-wmm3-2pmf,https://da.gd/fJGl5b
+GithubAdvisories,[GHSA-pf4h-vrv6-cmvr] DNN.PLATFORM Allows Reflected Cross-Site Scripting (XSS) in some TokenReplace situations with SkinObjects,https://github.com/advisories/GHSA-pf4h-vrv6-cmvr,https://da.gd/PA2Wuv
+GithubAdvisories,[GHSA-gpfc-mph4-qm24] Velociraptor vulnerable to privilege escalation via UpdateConfig artifact,https://github.com/advisories/GHSA-gpfc-mph4-qm24,https://da.gd/FmKjFt
