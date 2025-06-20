@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qxpc-8vfp-wf38] Malware in prior-config,https://github.com/advisories/GHSA-qxpc-8vfp-wf38,https://da.gd/42WY4n
+GithubAdvisories,[GHSA-5644-3vgq-2ph5] Crafter Studio Groovy Sandbox Bypass,https://github.com/advisories/GHSA-5644-3vgq-2ph5,https://da.gd/11IR
+GithubAdvisories,[GHSA-7cjh-xx4r-qh3f] sentry-android unmasked sensitive data in Android Session Replays for users of Jetpack Compose 1.8+,https://github.com/advisories/GHSA-7cjh-xx4r-qh3f,https://da.gd/AqtuZ
