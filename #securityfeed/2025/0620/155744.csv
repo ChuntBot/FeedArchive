@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xxjj-jhgc-r68f] Alkacon OpenCMS Absolute Path Traversal via pathname in filePath.0 parameter,https://github.com/advisories/GHSA-xxjj-jhgc-r68f,https://da.gd/5x8sf
+GithubAdvisories,[GHSA-w3v2-vfrj-j9g8] Alkacon Open CMS XSS via Logfile Viewer Settings function,https://github.com/advisories/GHSA-w3v2-vfrj-j9g8,https://da.gd/qQKcTC
+GithubAdvisories,[GHSA-c935-pf36-w4gq] Malware in postcss-layout-grid,https://github.com/advisories/GHSA-c935-pf36-w4gq,https://da.gd/BvaN9p
+GithubAdvisories,[GHSA-jp92-29fq-56vp] Malware in postcss-color-fn,https://github.com/advisories/GHSA-jp92-29fq-56vp,https://da.gd/ve1Y2
+GithubAdvisories,[GHSA-22pq-mvx5-jmv8] Malware in next-sweetalert2,https://github.com/advisories/GHSA-22pq-mvx5-jmv8,https://da.gd/XjhyT
+GithubAdvisories,[GHSA-2hrx-f954-qw69] Malware in postcss-theme-vars,https://github.com/advisories/GHSA-2hrx-f954-qw69,https://da.gd/69cmL
+GithubAdvisories,[GHSA-pj3c-ghq6-38vj] Malware in postcss-query-splitter,https://github.com/advisories/GHSA-pj3c-ghq6-38vj,https://da.gd/gsJXQ
+GithubAdvisories,[GHSA-v965-wwrq-gxfg] Alkacon OpenCMS XSS via file tree navigation in system/workplace/views/explorer/tree_files.jsp,https://github.com/advisories/GHSA-v965-wwrq-gxfg,https://da.gd/2RAH8b
+GithubAdvisories,[GHSA-v3c3-qr6m-8m7m] Alkacon OpenCMS Improper Access Control via system/workplace/views/admin/admin-main.jsp,https://github.com/advisories/GHSA-v3c3-qr6m-8m7m,https://da.gd/dIAe
