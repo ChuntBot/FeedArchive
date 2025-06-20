@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c8j6-gqq8-4prj] Alkacon OpenCMS XSS via New User module,https://github.com/advisories/GHSA-c8j6-gqq8-4prj,https://da.gd/jjiXn
+GithubAdvisories,[GHSA-w62v-q77r-66cc] Alkacon OpenCMS XSS via Mercury template,https://github.com/advisories/GHSA-w62v-q77r-66cc,https://da.gd/355L
+GithubAdvisories,[GHSA-4gfx-p2j4-w2vh] Alkacon OpenCMS XSS via title and requestedResource parameters,https://github.com/advisories/GHSA-4gfx-p2j4-w2vh,https://da.gd/Sxj3S
+GithubAdvisories,"[GHSA-6c8c-f2w2-jvjr] Alkacon OpenCMS XSS via homelink, workplaceresource, mode and query parameters",https://github.com/advisories/GHSA-6c8c-f2w2-jvjr,https://da.gd/cJ4n2Y
+GithubAdvisories,[GHSA-4r3g-w24c-gpr6] Alkacon OpenCMS XSS via searchfilter parameter in system/workplace/admin/workplace/sessions.jsp,https://github.com/advisories/GHSA-4r3g-w24c-gpr6,https://da.gd/aUF33
+GithubAdvisories,[GHSA-4fg8-5hwc-wg5v] Alkacon OpenCMS XSS via searchfilter or listSearchFilter parameter,https://github.com/advisories/GHSA-4fg8-5hwc-wg5v,https://da.gd/Io0N
