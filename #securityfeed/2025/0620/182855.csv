@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6qhv-4h7r-2g9m] rfc3161-client has insufficient verification for timestamp response signatures,https://github.com/advisories/GHSA-6qhv-4h7r-2g9m,https://da.gd/Ozb2c
+GithubAdvisories,[GHSA-4578-6gjh-f2jm] Mattermost allows an unauthorized Guest user access to Playbook,https://github.com/advisories/GHSA-4578-6gjh-f2jm,https://da.gd/YsjqvL
+GithubAdvisories,[GHSA-qwwm-c582-82rx] Mattermost allows unauthorized channel member management through playbook runs,https://github.com/advisories/GHSA-qwwm-c582-82rx,https://da.gd/1EKutQ
+GithubAdvisories,[GHSA-g3qg-6746-3mg9] zkVM Underconstrained Vulnerability,https://github.com/advisories/GHSA-g3qg-6746-3mg9,https://da.gd/huKTt
+GithubAdvisories,[GHSA-93c7-7xqw-w357] Pingora has a Request Smuggling Vulnerability,https://github.com/advisories/GHSA-93c7-7xqw-w357,https://da.gd/ITtGY
