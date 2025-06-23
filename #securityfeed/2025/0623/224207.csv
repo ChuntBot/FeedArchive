@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h7cp-r72f-jxh6] pbkdf2 returns predictable uninitialized/zero-filled memory for non-normalized or unimplemented algos,https://github.com/advisories/GHSA-h7cp-r72f-jxh6,https://da.gd/UkSHW
+GithubAdvisories,[GHSA-hj2p-8wj8-pfq4] kubernetes allows nodes to bypass dynamic resource allocation authorization checks,https://github.com/advisories/GHSA-hj2p-8wj8-pfq4,https://da.gd/40Q4qi
