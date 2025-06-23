@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pr6q-g5gv-qgr7] GeSHi XSS possible in the get_var function of /contrib/cssgen.php,https://github.com/advisories/GHSA-pr6q-g5gv-qgr7,https://da.gd/RNLVT
+GithubAdvisories,"[GHSA-v62p-rq8g-8h59] pbkdf2 silently disregards Uint8Array input, returning static keys",https://github.com/advisories/GHSA-v62p-rq8g-8h59,https://da.gd/wdvwEm
