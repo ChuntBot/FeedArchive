@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9623-mj7j-p9v4] Quarkus potentially leaks data when duplicating a duplicated context,https://github.com/advisories/GHSA-9623-mj7j-p9v4,https://da.gd/L5nr8
