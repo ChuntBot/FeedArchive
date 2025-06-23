@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jpv7-p47h-f43j] letmein connection limiter allows an arbitrary amount of simultaneous connections,https://github.com/advisories/GHSA-jpv7-p47h-f43j,https://da.gd/7UYIX
+GithubAdvisories,[GHSA-5p2p-6g2c-hf7m] spytrap-adb Omission of Security-relevant Information,https://github.com/advisories/GHSA-5p2p-6g2c-hf7m,https://da.gd/FID3
+GithubAdvisories,[GHSA-9f65-56v6-gxw7] Claude Code Improper Authorization via websocket connections from arbitrary origins,https://github.com/advisories/GHSA-9f65-56v6-gxw7,https://da.gd/7OS3Q
+GithubAdvisories,[GHSA-wxj7-3fx5-pp9m] MLFlow SSRF via gateway_proxy_handler,https://github.com/advisories/GHSA-wxj7-3fx5-pp9m,https://da.gd/9SF7It
+GithubAdvisories,[GHSA-hwpg-x5hw-vpv9] ChangeDetection.io XSS in watch overview,https://github.com/advisories/GHSA-hwpg-x5hw-vpv9,https://da.gd/TlFh4V
