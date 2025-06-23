@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+LinuxSecurity,SUSE: 2025:02057-1 important: python311 DoS and extraction issues,https://linuxsecurity.com/advisories/suse/suse-2025-02057-1-important-python311-26s8gzpiw6lt,https://da.gd/SVRC
+LinuxSecurity,openSUSE 15.6: 2025:02057-1 important: python311 DoS fix,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-02057-1-important-python311-dirosso1hkm8,https://da.gd/OAvp
+LinuxSecurity,openSUSE: 2025:02058-1 important: gstreamer-plugins-good security update,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-02058-1-important-gstreamer-plugins-good-mfqdq4kgpqiq,https://da.gd/xWTm4X
+LinuxSecurity,SUSE: 2025:02058-1 important: gstreamer-plugins-good memory issues,https://linuxsecurity.com/advisories/suse/suse-2025-02058-1-important-gstreamer-plugins-good-ugiviyjau1t3,https://da.gd/xPbyv
+LinuxSecurity,SUSE: 2025:02059-1 critical: fix for icu buffer overflow vulnerability,https://linuxsecurity.com/advisories/suse/suse-2025-02059-1-important-icu-8zx88nnkcvfo,https://da.gd/IeVsC
