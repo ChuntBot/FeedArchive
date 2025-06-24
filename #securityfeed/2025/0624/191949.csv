@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wj44-9vcg-wjq7] Gogs allows deletion of internal files which leads to remote command execution,https://github.com/advisories/GHSA-wj44-9vcg-wjq7,https://da.gd/MvDxa
