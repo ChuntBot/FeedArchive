@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h5gc-rm8j-5gpr] LangChain Community SSRF vulnerability exists in RequestsToolkit component,https://github.com/advisories/GHSA-h5gc-rm8j-5gpr,https://da.gd/KejMg
