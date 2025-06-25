@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-65gg-3w2w-hr4h] Podman Improper Certificate Validation; machine missing TLS verification,https://github.com/advisories/GHSA-65gg-3w2w-hr4h,https://da.gd/LfA5A
