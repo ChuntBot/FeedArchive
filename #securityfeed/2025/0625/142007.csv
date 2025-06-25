@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h7qf-qmf3-85qg] Allure Report allows Improper XXE Restriction via DocumentBuilderFactory,https://github.com/advisories/GHSA-h7qf-qmf3-85qg,https://da.gd/lya67b
+GithubAdvisories,[GHSA-8gff-cf92-72pv] pyspur Incomplete Filtering of Special Elements allowed by SingleLLMCallNode function,https://github.com/advisories/GHSA-8gff-cf92-72pv,https://da.gd/ipz5S
