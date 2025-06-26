@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h3qp-hwvr-9xcq] Octo STS Unauthenticated SSRF by abusing fields in OpenID Connect tokens,https://github.com/advisories/GHSA-h3qp-hwvr-9xcq,https://da.gd/Cf4L
