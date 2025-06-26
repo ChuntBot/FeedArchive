@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian 11: DLA-4232-1 important: freeradius denial of service,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4232-1-freeradius-security-update-urx0bogtnqvw,https://da.gd/p0XY
+LinuxSecurity,Ubuntu 25.04: USN-7601-1 critical: libarchive denial of service,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7601-1-libarchive-udgfjxtb5mry,https://da.gd/XFgp9
+LinuxSecurity,Ubuntu 22.04 LTS USN-7602-1: Important kernel vulnerabilities,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7602-1-linux-kernel-xilinx-zynqmp-rnwpqsbph9sm,https://da.gd/x6VET3
+LinuxSecurity,Ubuntu 24.04 LTS USN-7595-4 critical: Linux kernel security flaws,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7595-4-linux-kernel-lge9dpxek17g,https://da.gd/djEqy
+LinuxSecurity,Ubuntu 25.04 USN-7594-2 critical: linux-azure kernel issues,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7594-2-linux-kernel-azure-xbyvdf2hijjf,https://da.gd/LXbjR
+LinuxSecurity,SUSE 15 SP5 important: clamav buffer overflow and processing fix,https://linuxsecurity.com/advisories/suse/suse-2025-02119-1-important-clamav-4elssxrufnoo,https://da.gd/Fqx6c
