@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-prpj-rchp-9j5h] OpenBao allows cancellation of root rekey and recovery rekey operations without authentication,https://github.com/advisories/GHSA-prpj-rchp-9j5h,https://da.gd/QYZw
+GithubAdvisories,[GHSA-8f5r-8cmq-7fmq] OpenBao Inserts Sensitive Information into Log File when processing malformed data,https://github.com/advisories/GHSA-8f5r-8cmq-7fmq,https://da.gd/mgvcnQ
+GithubAdvisories,[GHSA-6f6r-m9pv-67jw] iOS Simulator MCP Command Injection allowed via exec API,https://github.com/advisories/GHSA-6f6r-m9pv-67jw,https://da.gd/0Z1p
+GithubAdvisories,[GHSA-p7fw-vjjm-2rwp] Incus creates nftables rules that partially bypass security options,https://github.com/advisories/GHSA-p7fw-vjjm-2rwp,https://da.gd/w8t8B
+GithubAdvisories,[GHSA-9q7c-qmhm-jv86] Incus Allocation of Resources Without Limits allows firewall rule bypass on managed bridge networks,https://github.com/advisories/GHSA-9q7c-qmhm-jv86,https://da.gd/gIGeqG
