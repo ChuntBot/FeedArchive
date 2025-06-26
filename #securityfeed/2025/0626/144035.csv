@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cgvv-3455-824j] Moodle Session Fixation allows unauthenticated users to hijack sessions via sesskey parameter,https://github.com/advisories/GHSA-cgvv-3455-824j,https://da.gd/CIpYF
