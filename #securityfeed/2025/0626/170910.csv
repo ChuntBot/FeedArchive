@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jw3m-h395-3qfj] Malware in mdp-client,https://github.com/advisories/GHSA-jw3m-h395-3qfj,https://da.gd/2woey1
+GithubAdvisories,[GHSA-37p4-jf2v-mxph] Malware in masons-chat-ui,https://github.com/advisories/GHSA-37p4-jf2v-mxph,https://da.gd/V8KM
+GithubAdvisories,[GHSA-xh32-cx6c-cp4v] Gogs XSS allowed by stored call in PDF renderer,https://github.com/advisories/GHSA-xh32-cx6c-cp4v,https://da.gd/W6SIJD
