@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m435-9v6r-v5f6] MobSF vulnerability allows SSRF due to the allow_redirects=True parameter,https://github.com/advisories/GHSA-m435-9v6r-v5f6,https://da.gd/JEz8P
