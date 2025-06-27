@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4wx8-5gm2-2j97] filebrowser allows Stored Cross-Site Scripting through the Markdown preview function,https://github.com/advisories/GHSA-4wx8-5gm2-2j97,https://da.gd/u9X8R5
+GithubAdvisories,[GHSA-jj2r-455p-5gvf] filebrowser Sets Insecure File Permissions,https://github.com/advisories/GHSA-jj2r-455p-5gvf,https://da.gd/1nbbJt
