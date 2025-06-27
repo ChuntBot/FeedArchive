@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5vj6-wjr7-5v9f] n8n allows open redirects via the /signin endpoint,https://github.com/advisories/GHSA-5vj6-wjr7-5v9f,https://da.gd/YPOYL
