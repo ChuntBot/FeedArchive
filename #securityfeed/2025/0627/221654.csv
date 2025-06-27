@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vh5j-5fhq-9xwg] Taylor has race condition in /get-patch that allows purchase token replay,https://github.com/advisories/GHSA-vh5j-5fhq-9xwg,https://da.gd/vEoXG
+GithubAdvisories,[GHSA-cqm8-rg2p-jfcf] Infinispan CLI vulnerable to Generation of Error Message Containing Sensitive Information,https://github.com/advisories/GHSA-cqm8-rg2p-jfcf,https://da.gd/fVghQ
+GithubAdvisories,[GHSA-r995-q44h-hr64] Ruby WEBrick read_headers method can lead to HTTP Request/Response Smuggling,https://github.com/advisories/GHSA-r995-q44h-hr64,https://da.gd/1PhRLq
