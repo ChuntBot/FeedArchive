@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9r64-3wmc-x8m8] Apache Airflow Providers Snowflake package allows for Special Element Injection via CopyFromExternalStageToSnowflakeOperator,https://github.com/advisories/GHSA-9r64-3wmc-x8m8,https://da.gd/L7QOe
+GithubAdvisories,[GHSA-fxpf-jr2q-vpvv] Liferay Portal and Liferay DXP autosaves form data for other users to see,https://github.com/advisories/GHSA-fxpf-jr2q-vpvv,https://da.gd/wBjgUt
+GithubAdvisories,[GHSA-22wc-7wmm-v4cc] Liferay Portal and Liferay DXP does not properly check user permission,https://github.com/advisories/GHSA-22wc-7wmm-v4cc,https://da.gd/y551lW
+GithubAdvisories,[GHSA-jfj7-249r-7j2m] TabberNeue vulnerable to Stored XSS through wikitext,https://github.com/advisories/GHSA-jfj7-249r-7j2m,https://da.gd/pFwq0i
+GithubAdvisories,[GHSA-277f-37gw-9gmq] raspap-webgui has a Directory Traversal vulnerability,https://github.com/advisories/GHSA-277f-37gw-9gmq,https://da.gd/N2IYFS
