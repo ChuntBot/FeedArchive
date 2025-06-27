@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mx95-qjp6-pg5m] Malware in synerix,https://github.com/advisories/GHSA-mx95-qjp6-pg5m,https://da.gd/vxnZt
+GithubAdvisories,[GHSA-7c3h-ff2c-27v5] Malware in remitly-icon-font,https://github.com/advisories/GHSA-7c3h-ff2c-27v5,https://da.gd/p9qZp
+GithubAdvisories,[GHSA-x59f-q6vq-pqmq] Malware in just-config-data,https://github.com/advisories/GHSA-x59f-q6vq-pqmq,https://da.gd/CLU4gw
+GithubAdvisories,[GHSA-j9fm-qqfw-gfp7] Malware in pxsceneui-example-02,https://github.com/advisories/GHSA-j9fm-qqfw-gfp7,https://da.gd/gcc8Ns
+GithubAdvisories,[GHSA-xj56-p8mm-qmxj] LLaMA-Factory allows Code Injection through improper vhead_file safeguards,https://github.com/advisories/GHSA-xj56-p8mm-qmxj,https://da.gd/vDaBL
+GithubAdvisories,[GHSA-h347-rv3w-c3hp] Malware in idse,https://github.com/advisories/GHSA-h347-rv3w-c3hp,https://da.gd/sfwGW
+GithubAdvisories,[GHSA-m86x-7rjj-pq7x] Malware in walmart-ui,https://github.com/advisories/GHSA-m86x-7rjj-pq7x,https://da.gd/2VG5Ka
+GithubAdvisories,[GHSA-3ff6-v2p3-4f74] Malware in z0rsdumbtestnonshould,https://github.com/advisories/GHSA-3ff6-v2p3-4f74,https://da.gd/ky0cs
+GithubAdvisories,[GHSA-9fhj-7wcf-mjvf] Malware in seller-center,https://github.com/advisories/GHSA-9fhj-7wcf-mjvf,https://da.gd/0qSWT
+GithubAdvisories,[GHSA-c5c2-x6v8-pjwp] Malware in myatt,https://github.com/advisories/GHSA-c5c2-x6v8-pjwp,https://da.gd/ze4bz
+GithubAdvisories,[GHSA-5r4f-83q6-jxx6] Malware in hardhat-contract-deploy,https://github.com/advisories/GHSA-5r4f-83q6-jxx6,https://da.gd/daCF5
+GithubAdvisories,[GHSA-4jjx-xhhg-g59w] Malware in @ftapi/secuauth,https://github.com/advisories/GHSA-4jjx-xhhg-g59w,https://da.gd/iCv3Tn
+GithubAdvisories,[GHSA-2qj9-rf3q-vvcv] Malware in @ftapi/components,https://github.com/advisories/GHSA-2qj9-rf3q-vvcv,https://da.gd/rBVW
+GithubAdvisories,[GHSA-hrpj-x9hr-gg9j] Malware in acme-diagnostics,https://github.com/advisories/GHSA-hrpj-x9hr-gg9j,https://da.gd/9K68W
+GithubAdvisories,[GHSA-h46c-h94j-95f3] jackson-core can throw a StackoverflowError when processing deeply nested data,https://github.com/advisories/GHSA-h46c-h94j-95f3,https://da.gd/KNpggd
+GithubAdvisories,[GHSA-3q2w-42mv-cph4] filebrowser Allows Shell Commands to Spawn Other Commands,https://github.com/advisories/GHSA-3q2w-42mv-cph4,https://da.gd/eS8BO
