@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fhc2-8qx8-6vj7] Vault Community Edition rekey and recovery key operations can cause denial of service,https://github.com/advisories/GHSA-fhc2-8qx8-6vj7,https://da.gd/2oNLM
+GithubAdvisories,[GHSA-jfch-m2x3-2v66] Liferay Portal and Liferay DXP insecure default configuration,https://github.com/advisories/GHSA-jfch-m2x3-2v66,https://da.gd/2uvZNB
