@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-994j-5c83-r424] string-math's string-math.js vulnerability can cause Regex Denial of Service (ReDoS),https://github.com/advisories/GHSA-994j-5c83-r424,https://da.gd/HV8NE4
+GithubAdvisories,[GHSA-358m-fq53-hp87] akka-cluster-metrics uses Java serialization for cluster metrics,https://github.com/advisories/GHSA-358m-fq53-hp87,https://da.gd/hRVBs
