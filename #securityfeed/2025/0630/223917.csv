@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8gqp-hr9g-pg62] Conductor vulnerable to OS command injection through unrestricted access to Java classes,https://github.com/advisories/GHSA-8gqp-hr9g-pg62,https://da.gd/XcaAGP
