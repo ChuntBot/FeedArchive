@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m964-fjrh-xxq2] Apache Seata Vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-m964-fjrh-xxq2,https://da.gd/txSR5Z
+GithubAdvisories,[GHSA-pf9w-gvcf-gv7m] sparklemotion nokogiri hashmap.c hashmap_set_with_hash heap-based overflow,https://github.com/advisories/GHSA-pf9w-gvcf-gv7m,https://da.gd/Eyrhbj
+GithubAdvisories,[GHSA-jc9r-qcgw-fxq9] sparklemotion nokogiri hashmap.c hashmap_get_with_hash heap-based overflow,https://github.com/advisories/GHSA-jc9r-qcgw-fxq9,https://da.gd/KHG5P
+GithubAdvisories,[GHSA-wgvp-jj4w-88hf] Mattermost Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-wgvp-jj4w-88hf,https://da.gd/oCWUNX
+GithubAdvisories,[GHSA-v8fr-vxmw-6mf6] Mattermost Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-v8fr-vxmw-6mf6,https://da.gd/8bTFo0
