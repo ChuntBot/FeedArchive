@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xw5q-g62x-2qjc] electron ASAR Integrity bypass by just modifying the content,https://github.com/advisories/GHSA-xw5q-g62x-2qjc,https://da.gd/3JtD
+GithubAdvisories,[GHSA-56j4-446m-qrf6] Babylon vulnerable to chain half when transaction has fees different than `ubbn`,https://github.com/advisories/GHSA-56j4-446m-qrf6,https://da.gd/AMHZ7X
+GithubAdvisories,[GHSA-373j-mhpf-84wg] Janssen Config API returns results without scope verification,https://github.com/advisories/GHSA-373j-mhpf-84wg,https://da.gd/ISXnm4
+GithubAdvisories,[GHSA-cm2r-rg7r-p7gg] File Browser vulnerable to insecure password handling,https://github.com/advisories/GHSA-cm2r-rg7r-p7gg,https://da.gd/pbYRb
+GithubAdvisories,[GHSA-3v48-283x-f2w4] File Browser's password protection of links is bypassable,https://github.com/advisories/GHSA-3v48-283x-f2w4,https://da.gd/qDVaM
+GithubAdvisories,[GHSA-w7qc-6grj-w7r8] File Browser vulnerable to command execution allowlist bypass,https://github.com/advisories/GHSA-w7qc-6grj-w7r8,https://da.gd/yYEtNS
+GithubAdvisories,[GHSA-hc8f-m8g5-8362] File Browser: Command Execution not Limited to Scope,https://github.com/advisories/GHSA-hc8f-m8g5-8362,https://da.gd/GqYiL
+GithubAdvisories,[GHSA-rmwh-g367-mj4x] File Browser allows sensitive data to be transferred in URL,https://github.com/advisories/GHSA-rmwh-g367-mj4x,https://da.gd/li9i7
+GithubAdvisories,[GHSA-5vhg-9xg4-cv9m] tiny-secp256k1 allows for verify() bypass when running in bundled environment,https://github.com/advisories/GHSA-5vhg-9xg4-cv9m,https://da.gd/UN6SV
+GithubAdvisories,[GHSA-7mc2-6phr-23xc] tiny-secp256k1 vulnerable to private key extraction when signing a malicious JSON-stringifyable message in bundled environment,https://github.com/advisories/GHSA-7mc2-6phr-23xc,https://da.gd/d2oyLB
