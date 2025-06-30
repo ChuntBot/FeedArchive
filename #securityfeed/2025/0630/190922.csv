@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3q26-f695-pp76] @cyanheads/git-mcp-server vulnerable to command injection in several tools,https://github.com/advisories/GHSA-3q26-f695-pp76,https://da.gd/90ZFIC
+GithubAdvisories,[GHSA-g93m-8x6h-g5gv] Apache ZooKeeper: Authentication bypass with IP-based authentication in Admin Server,https://github.com/advisories/GHSA-g93m-8x6h-g5gv,https://da.gd/tYjqFf
+GithubAdvisories,[GHSA-6r2x-8pq8-9489] Electron vulnerable to Heap Buffer Overflow in NativeImage,https://github.com/advisories/GHSA-6r2x-8pq8-9489,https://da.gd/9bBRV
