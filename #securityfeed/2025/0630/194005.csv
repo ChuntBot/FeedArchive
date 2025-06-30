@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3m86-c9x3-vwm9] Graylog vulnerable to privilege escalation through API tokens,https://github.com/advisories/GHSA-3m86-c9x3-vwm9,https://da.gd/q8tlk
