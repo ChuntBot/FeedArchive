@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m43g-m425-p68x] junit-platform-reporting can leak Git credentials through its OpenTestReportGeneratingListener,https://github.com/advisories/GHSA-m43g-m425-p68x,https://da.gd/No1wqv
