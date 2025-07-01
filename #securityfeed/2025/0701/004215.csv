@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 20.04 LTS USN-7604-2 important: sudo host restriction bypass,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7604-2-sudo-3oio6hedzmsb,https://da.gd/z2qam
+LinuxSecurity,Ubuntu 24.04 LTS: USN-7606-1 critical: Linux kernel update,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7606-1-linux-kernel-oem-q6wel0h3chvk,https://da.gd/wopm0
+LinuxSecurity,Ubuntu 24.10 USN-7605-1 critical: Linux kernel multiple flaws,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7605-1-linux-kernel-tg0zawyxdcks,https://da.gd/qS6Is
+LinuxSecurity,Ubuntu 24.04 LTS USN-7595-5 important: Linux kernel issues,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7595-5-linux-kernel-d9jpliwyzpx0,https://da.gd/CQtNV
+LinuxSecurity,Ubuntu 18.04 LTS USN-7585-5 critical: linux kernel CIFS exposure,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7585-5-linux-kernel-hwe-txiewtiojihu,https://da.gd/Y5Nbs
+LinuxSecurity,Ubuntu 25.04 USN-7604-1 critical: Sudo local command execution issues,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7604-1-sudo-jxh797ddw0bc,https://da.gd/CKVfc
