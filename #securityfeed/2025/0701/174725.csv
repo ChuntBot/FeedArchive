@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h34r-jxqm-qgpr] juju/utils leaks private key in certs,https://github.com/advisories/GHSA-h34r-jxqm-qgpr,https://da.gd/lCCEGy
+GithubAdvisories,[GHSA-xg8h-j46f-w952] Pillow vulnerability can cause write buffer overflow on BCn encoding,https://github.com/advisories/GHSA-xg8h-j46f-w952,https://da.gd/R0KBH
