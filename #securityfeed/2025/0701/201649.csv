@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hc55-p739-j48w] @modelcontextprotocol/server-filesystem vulnerability allows for path validation bypass via colliding path prefix,https://github.com/advisories/GHSA-hc55-p739-j48w,https://da.gd/1UMWL
+GithubAdvisories,[GHSA-q66q-fx2p-7w4m] @modelcontextprotocol/server-filesystem allows for path validation bypass via prefix matching and symlink handling,https://github.com/advisories/GHSA-q66q-fx2p-7w4m,https://da.gd/YvP1
