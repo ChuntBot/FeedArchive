@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-3w94-vq2x-v5wr] ethereum does not check transaction malleability for EIP-2930, EIP-1559 and EIP-7702 transactions",https://github.com/advisories/GHSA-3w94-vq2x-v5wr,https://da.gd/XHBiYd
