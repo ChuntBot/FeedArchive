@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hqp6-mjw3-f586] HashiCorp Vagrant has code injection vulnerability through default synced folders,https://github.com/advisories/GHSA-hqp6-mjw3-f586,https://da.gd/74vkz
+GithubAdvisories,[GHSA-j64v-xh5w-8hqj] Microweber CMS API has authenticated local file inclusion vulnerability,https://github.com/advisories/GHSA-j64v-xh5w-8hqj,https://da.gd/d6CYt
