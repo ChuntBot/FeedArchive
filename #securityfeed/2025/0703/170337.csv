@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q43x-79jr-cq98] tarteaucitron.js vulnerable to DOM Clobbering via document.currentScript,https://github.com/advisories/GHSA-q43x-79jr-cq98,https://da.gd/Al3Jck
