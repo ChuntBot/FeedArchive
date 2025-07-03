@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[ACME] Remove deprecated ACME_CONTACT variable,https://github.com/mailcow/mailcow-dockerized/commit/ec6dbb099aa4ae559b10217906a62da694c6f182,https://da.gd/nOuic
+GithubCommitStaging,Remove obsolete ACME_CONTACT option and related comments from mailcow…,https://github.com/mailcow/mailcow-dockerized/commit/fc43c26c4852d741311a867cf5aa39ae58b77a14,https://da.gd/Uzmp
+GithubCommitStaging,Merge pull request #6617 from mailcow/fix/acme-contact,https://github.com/mailcow/mailcow-dockerized/commit/b7acef4d9d3d4422bbfef3b1f1f9dc6df64b7c41,https://da.gd/kQsYlM
