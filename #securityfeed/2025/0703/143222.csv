@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gj54-gwj9-x2c6] eKuiper /config/uploads API arbitrary file writing may lead to RCE,https://github.com/advisories/GHSA-gj54-gwj9-x2c6,https://da.gd/FW0Mbs
+GithubAdvisories,[GHSA-fv2p-qj5p-wqq4] LF Edge eKuiper vulnerable to File Path Traversal leading to file replacement,https://github.com/advisories/GHSA-fv2p-qj5p-wqq4,https://da.gd/8Lpan
+GithubAdvisories,[GHSA-pr9r-gxgp-9rm8] n8n Vulnerable to Denial of Service via Malformed Binary Data Requests,https://github.com/advisories/GHSA-pr9r-gxgp-9rm8,https://da.gd/thVf2
