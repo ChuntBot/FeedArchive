@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-prmv-7r8c-794g] Citizen vulnerable to Stored XSS through short descriptions,https://github.com/advisories/GHSA-prmv-7r8c-794g,https://da.gd/H0xm6
+GithubAdvisories,[GHSA-67rr-84xm-4c7r] Next.JS vulnerability can lead to DoS via cache poisoning,https://github.com/advisories/GHSA-67rr-84xm-4c7r,https://da.gd/KhqcB
