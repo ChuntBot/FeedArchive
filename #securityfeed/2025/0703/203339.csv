@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r2fc-ccr8-96c4] Next.js has a Cache poisoning vulnerability due to omission of the Vary header,https://github.com/advisories/GHSA-r2fc-ccr8-96c4,https://da.gd/iccnM9
+GithubAdvisories,[GHSA-rq6g-6g94-jfr4] starcitizentools/citizen-skin is vulnerable to Stored XSS attack in the legacy search bar through page descriptions,https://github.com/advisories/GHSA-rq6g-6g94-jfr4,https://da.gd/8OW5Eo
+GithubAdvisories,[GHSA-gq57-v332-7666] n8n is vulnerable to Improper Authorization through its `/stop` endpoint,https://github.com/advisories/GHSA-gq57-v332-7666,https://da.gd/066kK
