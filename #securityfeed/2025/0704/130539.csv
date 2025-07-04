@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j4rj-fgcq-wmqp] Cockpit - Content Platform vulnerable to XSS through name or email argument names,https://github.com/advisories/GHSA-j4rj-fgcq-wmqp,https://da.gd/QHee
