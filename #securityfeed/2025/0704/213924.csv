@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,SUSE Linux Micro 6.0: 2025:20453-1 important: libsoup update,https://linuxsecurity.com/advisories/suse/suse-2025-20453-1-important-libsoup-c8sy6xaqxyft,https://da.gd/P7F3Gr
+LinuxSecurity,SUSE Linux Micro 6.0: 2025:20454-1 moderate: gpg2 denial of service,https://linuxsecurity.com/advisories/suse/suse-2025-20454-1-moderate-gpg2-hdabco5u3vek,https://da.gd/MDfFb
+LinuxSecurity,SUSE: 2025:20455-1 important: python-requests credential leak fix,https://linuxsecurity.com/advisories/suse/suse-2025-20455-1-important-python-requests-e6wf6iqr5v2i,https://da.gd/mUP9h
+LinuxSecurity,SUSE: 2025:20456-1 moderate update for fixing perl race condition,https://linuxsecurity.com/advisories/suse/suse-2025-20456-1-moderate-perl-53rdcpsl1m1u,https://da.gd/5SJ8lR
+LinuxSecurity,SUSE 15 SP6: 2025:02224-1 important: xorg-x11-server integer overflow,https://linuxsecurity.com/advisories/suse/suse-2025-02224-1-important-xorg-x11-server-i4a03b3jhh1l,https://da.gd/PEba
+LinuxSecurity,openSUSE 15.6: 2025:02224-1 important: xorg-x11-server integer overflow,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-02224-1-important-xorg-x11-server-53q7kyonj8jy,https://da.gd/ZdofG
