@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-287x-9rff-qvcg] Rust Web Push is vulnerable to a DoS attack via a large integer in a Content-Length header,https://github.com/advisories/GHSA-287x-9rff-qvcg,https://da.gd/I7BoAx
