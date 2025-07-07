@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-794x-8x6x-qpfc] Zipkin Server vulnerable to Insecure Resource Initialization through its /heapdump endpoint,https://github.com/advisories/GHSA-794x-8x6x-qpfc,https://da.gd/5tyDTE
