@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-rxf6-323f-44fc] rust-protobuf crate is vulnerable to Uncontrolled Recursion, potentially leading to DoS",https://github.com/advisories/GHSA-rxf6-323f-44fc,https://da.gd/00rQk
