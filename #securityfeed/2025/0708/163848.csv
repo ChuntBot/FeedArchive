@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jjph-296x-mrcr] Transformers vulnerable to ReDoS attack through its get_imports() function,https://github.com/advisories/GHSA-jjph-296x-mrcr,https://da.gd/1OBUAX
+GithubAdvisories,[GHSA-q2wp-rjmx-x6x9] Transformers's ReDoS vulnerability in get_configuration_file can lead to catastrophic backtracking,https://github.com/advisories/GHSA-q2wp-rjmx-x6x9,https://da.gd/opliNn
+GithubAdvisories,[GHSA-5w57-2ccq-8w95] Node.js Sandbox MCP Server vulnerability can lead to Sandbox Escape via Command Injection,https://github.com/advisories/GHSA-5w57-2ccq-8w95,https://da.gd/vnR2w
