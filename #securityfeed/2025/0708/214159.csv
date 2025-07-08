@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-x698-5hjm-w2m5] pyLoad is vulnerable to attacks that bypass localhost restrictions, enabling the creation of arbitrary packages",https://github.com/advisories/GHSA-x698-5hjm-w2m5,https://da.gd/HYybnN
