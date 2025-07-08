@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rj53-j6jw-7f7g] Babylon vulnerable to chain halt when a message modifies the validator set at the epoch boundary,https://github.com/advisories/GHSA-rj53-j6jw-7f7g,https://da.gd/lVXt6
+GithubAdvisories,[GHSA-4pfg-2mw5-f8jx] Cloudflare Vite plugin exposes secrets over the built-in dev server,https://github.com/advisories/GHSA-4pfg-2mw5-f8jx,https://da.gd/BRQTwy
+GithubAdvisories,[GHSA-j5pr-vrjj-9v4h] Lord of Large Language Models vulnerable to Observable Discrepancy attack via authenticate_user function,https://github.com/advisories/GHSA-j5pr-vrjj-9v4h,https://da.gd/iu5Zc7
