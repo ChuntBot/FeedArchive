@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w42r-mrx7-c633] LlamaIndex has an XML Entity Expansion vulnerability in its sitemap parser,https://github.com/advisories/GHSA-w42r-mrx7-c633,https://da.gd/MWOiO
+GithubAdvisories,[GHSA-489j-g2vx-39wf] Transformers vulnerable to ReDoS attack through its SETTING_RE variable,https://github.com/advisories/GHSA-489j-g2vx-39wf,https://da.gd/srQik
+GithubAdvisories,[GHSA-j47q-rc62-w448] fastapi-guard is vulnerable to ReDoS through inefficient regex,https://github.com/advisories/GHSA-j47q-rc62-w448,https://da.gd/QFuilv
+GithubAdvisories,[GHSA-fmrf-6jv9-qjc7] LlamaIndex is vulnerable to Path Traversal attack through its ObsidianReader class,https://github.com/advisories/GHSA-fmrf-6jv9-qjc7,https://da.gd/ZnY7E
