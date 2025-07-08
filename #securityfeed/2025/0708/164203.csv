@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ExploitDB,[local] Microsoft Defender for Endpoint (MDE) - Elevation of Privilege,https://www.exploit-db.com/exploits/52355,https://da.gd/CKJS0
+ExploitDB,[local] Sudo 1.9.17 Host Option - Elevation of Privilege,https://www.exploit-db.com/exploits/52354,https://da.gd/fzV4e
+ExploitDB,[remote] ScriptCase 9.12.006 (23) - Remote Command Execution (RCE),https://www.exploit-db.com/exploits/52353,https://da.gd/p2qT8
+ExploitDB,[local] Sudo chroot 1.9.17 - Local Privilege Escalation,https://www.exploit-db.com/exploits/52352,https://da.gd/uZMUT
+ExploitDB,[remote] Microsoft PowerPoint 2019 - Remote Code Execution (RCE),https://www.exploit-db.com/exploits/52351,https://da.gd/81OB
