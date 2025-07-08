@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gjv4-ghm7-q58q] MCP Server Kubernetes vulnerable to command injection in several tools,https://github.com/advisories/GHSA-gjv4-ghm7-q58q,https://da.gd/68ntZV
