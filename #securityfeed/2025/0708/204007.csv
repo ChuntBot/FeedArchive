@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q93c-p2mw-p23f] Dagster vulnerable to Path Traversal attack through its /logs endpoint,https://github.com/advisories/GHSA-q93c-p2mw-p23f,https://da.gd/37qPMc
