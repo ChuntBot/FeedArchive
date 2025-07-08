@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2rhq-96q8-4vjq] LlamaIndex vulnerable to Path Traversal attack through its encode_image function,https://github.com/advisories/GHSA-2rhq-96q8-4vjq,https://da.gd/Cc7Zg
+GithubAdvisories,[GHSA-3j8r-jf9w-5cmh] LlamaIndex vulnerability in its ObsidianReader class can lead to Path Traversal exploit,https://github.com/advisories/GHSA-3j8r-jf9w-5cmh,https://da.gd/KBMWM
+GithubAdvisories,[GHSA-3wxx-q3gv-pvvv] LlamaIndex vulnerable to DoS attack through uncontrolled recursive JSON parsing,https://github.com/advisories/GHSA-3wxx-q3gv-pvvv,https://da.gd/aseIx
