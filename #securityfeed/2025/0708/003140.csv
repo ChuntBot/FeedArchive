@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p7j4-jwjf-5x9w] LlamaIndex vulnerability in ArxivReader class can cause MD5 hash collisions,https://github.com/advisories/GHSA-p7j4-jwjf-5x9w,https://da.gd/Bc9Zq
