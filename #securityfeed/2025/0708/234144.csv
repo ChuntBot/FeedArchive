@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2wcm-vx67-3x4q] Duplicate Advisory: GHSA-x698-5hjm-w2m5,https://github.com/advisories/GHSA-2wcm-vx67-3x4q,https://da.gd/L0lo
+GithubAdvisories,[GHSA-p22h-3m2v-cmgh] Cosmos SDK's Integer Overflow vulnerability in its Validator Rewards pool can cause a chain halt,https://github.com/advisories/GHSA-p22h-3m2v-cmgh,https://da.gd/otu8
+GithubAdvisories,[GHSA-557j-xg8c-q2mm] Helm vulnerable to Code Injection through malicious chart.yaml content,https://github.com/advisories/GHSA-557j-xg8c-q2mm,https://da.gd/jqEA42
