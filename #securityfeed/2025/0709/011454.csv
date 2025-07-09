@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rpfv-46xj-5984] Upsonic has vulnerability in Pickle Handler component that can lead to deserialization,https://github.com/advisories/GHSA-rpfv-46xj-5984,https://da.gd/sY1VyL
+GithubAdvisories,[GHSA-8jf4-fcjr-68c2] Upsonic is vulnerable to Path Traversal attack through its os.path.join function,https://github.com/advisories/GHSA-8jf4-fcjr-68c2,https://da.gd/KShPUR
