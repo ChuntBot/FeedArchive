@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qf34-qpr4-5pph] docusaurus-plugin-content-gists vulnerability exposes GitHub Personal Access Token,https://github.com/advisories/GHSA-qf34-qpr4-5pph,https://da.gd/FNsoTq
+GithubAdvisories,[GHSA-jmrv-rxgr-phvr] Jenkins Applitools Eyes Plugin vulnerability does not mask API keys on its job configuration form,https://github.com/advisories/GHSA-jmrv-rxgr-phvr,https://da.gd/LwEQJu
