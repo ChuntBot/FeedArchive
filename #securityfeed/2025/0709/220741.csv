@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-93j6-jcjw-3rwp] Jenkins Sensedia API Platform Plugin vulnerability exposes unencrypted tokens in its global configuration file,https://github.com/advisories/GHSA-93j6-jcjw-3rwp,https://da.gd/Uyq2D
+GithubAdvisories,[GHSA-8gp3-m447-gw2v] Jenkins VAddy Plugin vulnerability exposes plaintext keys on its job configuration form,https://github.com/advisories/GHSA-8gp3-m447-gw2v,https://da.gd/1iLoT
+GithubAdvisories,[GHSA-4v4v-92cx-x4f4] Jenkins Nouvola DiveCloud Plugin vulnerability does not mask keys on its job configuration form,https://github.com/advisories/GHSA-4v4v-92cx-x4f4,https://da.gd/1eDypK
+GithubAdvisories,[GHSA-45hr-8gq6-7f7f] Jenkins Nouvola DiveCloud Plugin vulnerability stores unencrypted credentials,https://github.com/advisories/GHSA-45hr-8gq6-7f7f,https://da.gd/0dIbTi
