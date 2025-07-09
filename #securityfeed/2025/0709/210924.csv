@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-884f-p57j-f258] Jenkins ReadyAPI Functional Testing Plugin vulnerability stores unencrypted authentication credentials,https://github.com/advisories/GHSA-884f-p57j-f258,https://da.gd/8CKeiO
+GithubAdvisories,[GHSA-26x3-7jw5-7mg4] Jenkins Statistics Gatherer Plugin does not mask AWS Secret Key,https://github.com/advisories/GHSA-26x3-7jw5-7mg4,https://da.gd/YMfgd
+GithubAdvisories,[GHSA-962q-84v8-hxhj] Jenkins QMetry Test Management Plugin vulnerability exposes API keys,https://github.com/advisories/GHSA-962q-84v8-hxhj,https://da.gd/B8LL2i
+GithubAdvisories,[GHSA-3c9f-c64m-h4wc] Jenkins Statistics Gatherer Plugin vulnerability exposes AWS Secret Key,https://github.com/advisories/GHSA-3c9f-c64m-h4wc,https://da.gd/blS3km
+GithubAdvisories,[GHSA-3wgg-3j4j-3f69] Jenkins Aqua Security Scanner Plugin vulnerability exposes scanner tokens,https://github.com/advisories/GHSA-3wgg-3j4j-3f69,https://da.gd/oJbKl
+GithubAdvisories,[GHSA-qcj2-99cg-mppf] Jenkins Git Parameter Plugin vulnerable to code injection due to inexhaustive parameter check,https://github.com/advisories/GHSA-qcj2-99cg-mppf,https://da.gd/lD9lL
+GithubAdvisories,[GHSA-367v-5ppj-2hrx] Jenkins HTML Publisher Plugin vulnerability displays controller file system information in its logs,https://github.com/advisories/GHSA-367v-5ppj-2hrx,https://da.gd/B4tzYu
