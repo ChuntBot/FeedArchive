@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cvg7-767r-w3fq] Jenkins Kryptowire Plugin vulnerability stores unencrypted Kryptowire API key,https://github.com/advisories/GHSA-cvg7-767r-w3fq,https://da.gd/vNONd7
+GithubAdvisories,[GHSA-5pcv-7v3q-hw8j] Jenkins Dead Man's Snitch Plugin vulnerability stores tokens in plain text,https://github.com/advisories/GHSA-5pcv-7v3q-hw8j,https://da.gd/b0KmvF
+GithubAdvisories,[GHSA-m248-72rh-cpx4] Jenkins Dead Man's Snitch Plugin vulnerability does not mask tokens,https://github.com/advisories/GHSA-m248-72rh-cpx4,https://da.gd/b1MM
+GithubAdvisories,[GHSA-jxwj-qccf-4896] Jenkins IFTTT Build Notifier Plugin vulnerability exposes IFTTT Maker Channel Keys,https://github.com/advisories/GHSA-jxwj-qccf-4896,https://da.gd/EtdIXs
+GithubAdvisories,[GHSA-28j3-hphh-cjr8] Jenkins Apica Loadtest Plugin vulnerability exposes authentication tokens,https://github.com/advisories/GHSA-28j3-hphh-cjr8,https://da.gd/jDdH
+GithubAdvisories,[GHSA-p9gh-rpjw-78qg] Jenkins QMetry Test Management Plugin stores unencrypted API keys,https://github.com/advisories/GHSA-p9gh-rpjw-78qg,https://da.gd/5tF36B
+GithubAdvisories,[GHSA-pgrx-5f8q-r5mq] Jenkins IBM Cloud DevOps Plugin vulnerability exposes SonarQube authentication tokens,https://github.com/advisories/GHSA-pgrx-5f8q-r5mq,https://da.gd/0mEdK
+GithubAdvisories,[GHSA-q8p4-vw42-66gh] Jenkins Apica Loadtest Plugin vulnerability exposes authentication tokens,https://github.com/advisories/GHSA-q8p4-vw42-66gh,https://da.gd/xhITw
+GithubAdvisories,[GHSA-r496-x769-f8j4] Jenkins ReadyAPI Functional Testing Plugin vulnerability exposes secrets,https://github.com/advisories/GHSA-r496-x769-f8j4,https://da.gd/nT4TO1
+GithubAdvisories,[GHSA-j4wf-9gx8-63f8] Jenkins Applitools Eyes Plugin vulnerable to XSS through its Build page,https://github.com/advisories/GHSA-j4wf-9gx8-63f8,https://da.gd/v2Wme
+GithubAdvisories,[GHSA-8wp4-r84g-gcmw] Jenkins Testsigma Test Plan vulnerability exposes API keys via job configuration form,https://github.com/advisories/GHSA-8wp4-r84g-gcmw,https://da.gd/GOJaoK
