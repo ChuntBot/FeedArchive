@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4vc8-wvhw-m5gv] Juju allows arbitrary executable uploads via authenticated endpoint without authorization,https://github.com/advisories/GHSA-4vc8-wvhw-m5gv,https://da.gd/woz6ru
+GithubAdvisories,[GHSA-r64v-82fh-xc63] Juju vulnerable to sensitive log retrieval via authenticated endpoint without authorization,https://github.com/advisories/GHSA-r64v-82fh-xc63,https://da.gd/HmPY
+GithubAdvisories,[GHSA-24ch-w38v-xmh8] Juju zip slip vulnerability via authenticated endpoint,https://github.com/advisories/GHSA-24ch-w38v-xmh8,https://da.gd/xMPFT
