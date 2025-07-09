@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9768-hprv-crj5] Jenkins Credentials Binding Plugin vulnerability can expose sensitive information in logger messages,https://github.com/advisories/GHSA-9768-hprv-crj5,https://da.gd/m55i
