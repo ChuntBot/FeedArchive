@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hcgh-r5gq-6qc2] Microweber vulnerable to XSS attack due to insure `group` component in its Settings handler,https://github.com/advisories/GHSA-hcgh-r5gq-6qc2,https://da.gd/qsEBy
