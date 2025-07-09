@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q92v-3f4w-5xg8] Jenkins Applitools Eyes Plugin vulnerability exposes unencrypted keys to certain authenticated users,https://github.com/advisories/GHSA-q92v-3f4w-5xg8,https://da.gd/odQVg6
+GithubAdvisories,[GHSA-w4xv-mj6v-p4g2] Jenkins User1st uTester Plugin vulnerability exposes unencrypted token to authenticated users,https://github.com/advisories/GHSA-w4xv-mj6v-p4g2,https://da.gd/qL2jWt
+GithubAdvisories,[GHSA-23j7-px3w-jwp2] Jenkins Xooa Plugin vulnerability does not mask its Xooa Deployment Token,https://github.com/advisories/GHSA-23j7-px3w-jwp2,https://da.gd/1Yrjs
+GithubAdvisories,[GHSA-56h7-r62c-83qp] Jenkins Xooa Plugin vulnerability exposes unencrypted tokens to authenticated users,https://github.com/advisories/GHSA-56h7-r62c-83qp,https://da.gd/oLzPI5
+GithubAdvisories,[GHSA-2g8w-9933-36vr] Jenkins Warrior Framework Plugin vulnerability exposes unencrypted passwords to certain authenticated users,https://github.com/advisories/GHSA-2g8w-9933-36vr,https://da.gd/Ccsj2
+GithubAdvisories,[GHSA-vx57-hphr-3mr9] Jenkins Sensedia API Platform Plugin vulnerability exposes unencrypted tokens,https://github.com/advisories/GHSA-vx57-hphr-3mr9,https://da.gd/xObig
+GithubAdvisories,[GHSA-mr49-vmp6-2pwq] Jenkins VAddy Plugin vulnerability exposes unencrypted keys to certain authenticated users,https://github.com/advisories/GHSA-mr49-vmp6-2pwq,https://da.gd/k8IN
