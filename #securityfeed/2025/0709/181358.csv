@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qr9h-j6xg-2j72] Qwik's unhandled exception vulnerabilty can cause server crashes from malicious requests,https://github.com/advisories/GHSA-qr9h-j6xg-2j72,https://da.gd/4eyuu
+GithubAdvisories,[GHSA-6xpm-ggf7-wc3p] mcp-remote exposed to OS command injection via untrusted MCP server connections,https://github.com/advisories/GHSA-6xpm-ggf7-wc3p,https://da.gd/n9whs
+GithubAdvisories,[GHSA-9mp4-77wg-rwx9] @clerk/backend Performs Insufficient Verification of Data Authenticity,https://github.com/advisories/GHSA-9mp4-77wg-rwx9,https://da.gd/Slo1
+GithubAdvisories,[GHSA-phhq-63jg-fp7r] Contrast vulnerability allows arbitrary host data Injection into container VOLUME mount points,https://github.com/advisories/GHSA-phhq-63jg-fp7r,https://da.gd/ibht8
