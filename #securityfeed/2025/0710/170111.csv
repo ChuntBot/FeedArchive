@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-48q3-prgv-gm4w] Parse Server exposes the data schema via GraphQL API,https://github.com/advisories/GHSA-48q3-prgv-gm4w,https://da.gd/EVDg
+GithubAdvisories,[GHSA-m44g-rwjc-2c24] Malware in bazel-kotlin,https://github.com/advisories/GHSA-m44g-rwjc-2c24,https://da.gd/4tVxMe
+GithubAdvisories,[GHSA-wj25-5xv3-5rj7] Malware in @paysafe-consumer/authentication,https://github.com/advisories/GHSA-wj25-5xv3-5rj7,https://da.gd/ouCFTS
+GithubAdvisories,[GHSA-xw2x-7mxg-qh2c] Malware in rippling-marketing-site,https://github.com/advisories/GHSA-xw2x-7mxg-qh2c,https://da.gd/7164Br
+GithubAdvisories,[GHSA-xf4r-7vc2-8j7m] Malware in paysafe-wac-web-2fa-lib-fe,https://github.com/advisories/GHSA-xf4r-7vc2-8j7m,https://da.gd/Zl1NY
+GithubAdvisories,[GHSA-jfw8-279m-83mx] Malware in epic-mw,https://github.com/advisories/GHSA-jfw8-279m-83mx,https://da.gd/2dCv
+GithubAdvisories,[GHSA-783p-38rf-9559] Malware in @frontend-clients/wallet-web,https://github.com/advisories/GHSA-783p-38rf-9559,https://da.gd/NVLD
+GithubAdvisories,[GHSA-654c-6m5p-56c8] Malware in @frontend-clients/core,https://github.com/advisories/GHSA-654c-6m5p-56c8,https://da.gd/H2oiO8
