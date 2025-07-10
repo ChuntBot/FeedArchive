@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4j3c-42xv-3f84] Apache Tomcat Utilities is vulnerable to resource exhaustion when using the APR/Native connector,https://github.com/advisories/GHSA-4j3c-42xv-3f84,https://da.gd/xDpAGs
+GithubAdvisories,[GHSA-4mxw-xf86-24q5] Malware in preset-log,https://github.com/advisories/GHSA-4mxw-xf86-24q5,https://da.gd/WbUzU
+GithubAdvisories,[GHSA-qw83-hfm3-6pp3] Malware in dtcp-module,https://github.com/advisories/GHSA-qw83-hfm3-6pp3,https://da.gd/fE7P
+GithubAdvisories,[GHSA-w362-23v4-2h24] Malware in sdk.babeltest,https://github.com/advisories/GHSA-w362-23v4-2h24,https://da.gd/YJBPnP
+GithubAdvisories,[GHSA-39p3-qm85-gjcm] Malware in byaziine_validator,https://github.com/advisories/GHSA-39p3-qm85-gjcm,https://da.gd/etJfz
+GithubAdvisories,[GHSA-96qj-j2x8-2pvq] Malware in sdk.babelhelpz,https://github.com/advisories/GHSA-96qj-j2x8-2pvq,https://da.gd/zfQCQ
