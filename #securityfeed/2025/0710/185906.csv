@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5hq9-5r78-2gjh] LlamaIndex vulnerable to data loss through hash collisions in its DocugamiReader class,https://github.com/advisories/GHSA-5hq9-5r78-2gjh,https://da.gd/fzab
