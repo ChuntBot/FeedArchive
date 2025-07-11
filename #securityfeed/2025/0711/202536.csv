@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rq7x-cfmc-rq3w] JuzaWeb CMS is vulnerable to Incorrect Privilege Assignment when installing Import Page component,https://github.com/advisories/GHSA-rq7x-cfmc-rq3w,https://da.gd/j9u84
+GithubAdvisories,[GHSA-mrph-pjv2-34f4] JuzaWeb CMS is vulnerable to Incorrect Privilege Assignment when installing certain components,https://github.com/advisories/GHSA-mrph-pjv2-34f4,https://da.gd/Iq9N8
+GithubAdvisories,[GHSA-xrrq-rrgq-h89w] static-alloc vulnerability leads to uninitialized read after allocating MemBump,https://github.com/advisories/GHSA-xrrq-rrgq-h89w,https://da.gd/mWT8kq
