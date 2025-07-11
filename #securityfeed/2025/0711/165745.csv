@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xwmg-2g98-w7v9] Nimbus JOSE + JWT is vulnerable to DoS attacks when processing deeply nested JSON,https://github.com/advisories/GHSA-xwmg-2g98-w7v9,https://da.gd/dBn3K
