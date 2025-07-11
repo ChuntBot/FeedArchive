@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-37mw-44qp-f5jm] Transformers is vulnerable to ReDoS attack through its DonutProcessor class,https://github.com/advisories/GHSA-37mw-44qp-f5jm,https://da.gd/nIvBs1
