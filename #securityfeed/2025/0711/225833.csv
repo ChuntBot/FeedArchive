@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h952-963h-rv99] ExecuTorch vulnerable to Heap-based Buffer Overflow attack,https://github.com/advisories/GHSA-h952-963h-rv99,https://da.gd/FweEH
+GithubAdvisories,[GHSA-q4c2-q63g-62j7] MODX Revolution vulnerable to XSS attack through its User Photo field,https://github.com/advisories/GHSA-q4c2-q63g-62j7,https://da.gd/sGOy2T
+GithubAdvisories,[GHSA-fpxg-5x79-43rm] MODX Revolution allows XSS via document resources,https://github.com/advisories/GHSA-fpxg-5x79-43rm,https://da.gd/zfKMjf
+GithubAdvisories,[GHSA-gm2g-65wj-43g8] MODX Revolution allows XSS through extended user fields,https://github.com/advisories/GHSA-gm2g-65wj-43g8,https://da.gd/Q1lR3
+GithubAdvisories,[GHSA-q745-cfqh-hcrw] phpThumb is vulnerable to Command Injection through its gif_outputAsJpeg function,https://github.com/advisories/GHSA-q745-cfqh-hcrw,https://da.gd/8kNf
+GithubAdvisories,[GHSA-vwqw-wfhv-2xcq] MODX vulnerability allows for XSS via user settings parameters,https://github.com/advisories/GHSA-vwqw-wfhv-2xcq,https://da.gd/EdwRXk
