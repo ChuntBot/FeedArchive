@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-25xr-qj8w-c4vf] Apache Tomcat Coyote vulnerable to Denial of Service via excessive HTTP/2 streams,https://github.com/advisories/GHSA-25xr-qj8w-c4vf,https://da.gd/9uhkH
+GithubAdvisories,[GHSA-wr62-c79q-cv37] Apache Tomcat Catalina is vulnerable to DoS attack through bypassing of size limits,https://github.com/advisories/GHSA-wr62-c79q-cv37,https://da.gd/p9PtG
