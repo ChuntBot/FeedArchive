@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j288-q9x7-2f5v] Apache Commons Lang is vulnerable to Uncontrolled Recursion when processing long inputs,https://github.com/advisories/GHSA-j288-q9x7-2f5v,https://da.gd/gpt9yH
