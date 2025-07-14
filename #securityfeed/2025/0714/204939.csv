@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7pgf-ppxw-8624] Apache Zeppelin exposes server resources to unauthenticated attackers,https://github.com/advisories/GHSA-7pgf-ppxw-8624,https://da.gd/R5jlY
+GithubAdvisories,[GHSA-822f-jfpg-hg7h] Liferay Portal and Liferay DXP fails to check permissions to view sites/groups,https://github.com/advisories/GHSA-822f-jfpg-hg7h,https://da.gd/ZgVK5
