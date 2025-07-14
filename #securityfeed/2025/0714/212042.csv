@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-44c3-38h8-9fh9] Apache Jackrabbit vulnerable to blind XXE attack due to insecure document build,https://github.com/advisories/GHSA-44c3-38h8-9fh9,https://da.gd/UPWAgd
+GithubAdvisories,[GHSA-x8c6-gj59-6rx8] py-libp2p is vulnerable to DoS attacks through use of large RSA keys,https://github.com/advisories/GHSA-x8c6-gj59-6rx8,https://da.gd/enTT
+GithubAdvisories,[GHSA-qxh9-qmf2-rhwc] Roundup is vulnerable to XSS through interactions between URLs and issue tracker templates,https://github.com/advisories/GHSA-qxh9-qmf2-rhwc,https://da.gd/mmLarM
+GithubAdvisories,[GHSA-jp3m-vh3g-6ggp] Liferay Portal and Liferay DXP fails to properly import users from LDAP,https://github.com/advisories/GHSA-jp3m-vh3g-6ggp,https://da.gd/k3Yf
