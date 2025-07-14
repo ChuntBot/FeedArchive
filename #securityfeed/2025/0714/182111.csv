@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6qjf-g333-pv38] Job Iteration API is vulnerable to OS Command Injection attack through its CsvEnumerator class,https://github.com/advisories/GHSA-6qjf-g333-pv38,https://da.gd/YqFXT2
