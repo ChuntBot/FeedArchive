@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-658f-xhv4-p978] Liferay Portal and Liferay DXP allows arbitrary injection via form field,https://github.com/advisories/GHSA-658f-xhv4-p978,https://da.gd/Fb6HQG
+GithubAdvisories,[GHSA-3vww-jrmm-9vff] Liferay Portal and Liferay DXP allows arbitrary injection via the site name,https://github.com/advisories/GHSA-3vww-jrmm-9vff,https://da.gd/E1vNSg
+GithubAdvisories,[GHSA-w3wh-g4m9-783p] XWiki Rendering is vulnerable to XSS attacks through insecure XHTML syntax,https://github.com/advisories/GHSA-w3wh-g4m9-783p,https://da.gd/Icv5q
+GithubAdvisories,[GHSA-vw6g-gh6c-8qwp] Liferay Portal and Liferay DXP vulnerable to cross-site scripting (XSS) in the Gogo Shell module,https://github.com/advisories/GHSA-vw6g-gh6c-8qwp,https://da.gd/LMIGYZ
+GithubAdvisories,[GHSA-3x83-whxw-pvmg] Liferay Portal and Liferay DXP vulnerable to cross-site scripting (XSS),https://github.com/advisories/GHSA-3x83-whxw-pvmg,https://da.gd/AW9tEZ
+GithubAdvisories,[GHSA-jv7x-xhv2-p5v2] LaRecipe is vulnerable to Server-Side Template Injection attacks,https://github.com/advisories/GHSA-jv7x-xhv2-p5v2,https://da.gd/b8faJg
