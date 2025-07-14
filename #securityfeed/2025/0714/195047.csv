@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hgjv-7wjr-qwqp] Liferay Portal and Liferay DXP Cross-site scripting (XSS) vulnerability in the Frontend JS module,https://github.com/advisories/GHSA-hgjv-7wjr-qwqp,https://da.gd/HOn2N
+GithubAdvisories,[GHSA-9548-qrrj-x5pj] AIOHTTP is vulnerable to HTTP Request/Response Smuggling through incorrect parsing of chunked trailer sections,https://github.com/advisories/GHSA-9548-qrrj-x5pj,https://da.gd/yy4I
+GithubAdvisories,[GHSA-q28v-664f-q6wj] Indico vulnerability allows attackers to bulk dump user details,https://github.com/advisories/GHSA-q28v-664f-q6wj,https://da.gd/7oZKs1
