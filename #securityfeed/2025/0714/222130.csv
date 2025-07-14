@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-32mf-57h2-64x9] XWiki Rendering is vulnerable to RCE attacks when processing nested macros,https://github.com/advisories/GHSA-32mf-57h2-64x9,https://da.gd/9o7h7X
+GithubAdvisories,[GHSA-f855-2rvm-5j7h] Liferay Portal and Liferay DXP has incorrect default permissions for site members,https://github.com/advisories/GHSA-f855-2rvm-5j7h,https://da.gd/9DhmD
