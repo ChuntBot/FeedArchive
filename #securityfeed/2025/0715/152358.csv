@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x3vm-88hf-gpxp] Directus is vulnerable to sensitive data exposure as user data is not being redacted when logged,https://github.com/advisories/GHSA-x3vm-88hf-gpxp,https://da.gd/9uA3Ou
