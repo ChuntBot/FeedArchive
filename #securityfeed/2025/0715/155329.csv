@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8w3f-4r8f-pf53] pyLoad vulnerable to XSS through insecure CAPTCHA,https://github.com/advisories/GHSA-8w3f-4r8f-pf53,https://da.gd/NC97Uq
+GithubAdvisories,[GHSA-7cvf-pxgp-42fc] Directus' insufficient permission checks can enable unauthenticated users to manually trigger Flows,https://github.com/advisories/GHSA-7cvf-pxgp-42fc,https://da.gd/JpbTf3
+GithubAdvisories,[GHSA-29g5-m8v7-v564] Measured is vulnerable to Path Traversal attacks during class initialization,https://github.com/advisories/GHSA-29g5-m8v7-v564,https://da.gd/mzvj8
+GithubAdvisories,[GHSA-rmjh-cf9q-pv7q] Directus' exact version number is exposed by the OpenAPI Spec,https://github.com/advisories/GHSA-rmjh-cf9q-pv7q,https://da.gd/HkZ7GQ
+GithubAdvisories,"[GHSA-f24x-rm6g-3w5v] Directus tokens are not redacted in flow logs, exposing session credentials to all admin",https://github.com/advisories/GHSA-f24x-rm6g-3w5v,https://da.gd/Xt97h
