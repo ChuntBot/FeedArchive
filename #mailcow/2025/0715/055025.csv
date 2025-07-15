@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,[Web] Updated lang.zh-cn.json (#6552),https://github.com/mailcow/mailcow-dockerized/commit/372923ae2fca354e843c8aa90dc3e32be86f8c37,https://da.gd/dfzV
+GithubCommit,"compose: add selinux label to mysql-socket-vol to prevent ""access den…",https://github.com/mailcow/mailcow-dockerized/commit/d4f899b091ed48e01fea3a674dd3278bf8b68caf,https://da.gd/L15SUE
+GithubCommit,Translations update from Weblate (#6582),https://github.com/mailcow/mailcow-dockerized/commit/407e9d358488f6fde5ce000eff14943ec362be97,https://da.gd/OYXvw
+GithubCommit,update postscreen_access.cidr (#6573),https://github.com/mailcow/mailcow-dockerized/commit/dd475c0ab341398113cda317417ef7827dfbc19d,https://da.gd/OkPif
+GithubCommit,[Web] Updated lang.cs-cz.json (#6589),https://github.com/mailcow/mailcow-dockerized/commit/5861c9af29d7902995426d0779fefeedc11d2282,https://da.gd/29Shv0
+GithubCommit,[Web] Updated lang.si-si.json (#6599),https://github.com/mailcow/mailcow-dockerized/commit/cc0e4fee9dbaf99e02a5369ce5e4e17d016075aa,https://da.gd/mJpZeb
+GithubCommit,updated Readme (sponsors),https://github.com/mailcow/mailcow-dockerized/commit/8a89f5c685869c4fb28165751d1602cd5ad87deb,https://da.gd/0FGdgd
+GithubCommit,[Web] Updated lang.si-si.json (#6600),https://github.com/mailcow/mailcow-dockerized/commit/4c64cf18a69464a1f8c30e1e87433bf3241bc205,https://da.gd/7CyYyx
+GithubCommit,[Web] Updated lang.si-si.json (#6601),https://github.com/mailcow/mailcow-dockerized/commit/4e7adacda9643f5c91dd64350e4f4a6a0573afef,https://da.gd/L7JFs
+GithubCommit,[Web] Updated lang.si-si.json (#6609),https://github.com/mailcow/mailcow-dockerized/commit/a0f5454c2a980c9de255fdc4b777bf1aad958858,https://da.gd/DNt1y
+GithubCommit,[Web] Updated lang.pt-pt.json (#6614),https://github.com/mailcow/mailcow-dockerized/commit/1e4f3c55d82503dffa7987499c877780ae7d00d6,https://da.gd/0l24eC
+GithubCommit,[Dovecot] Use Jinja2 sandbox for rendering quota and quarantine notif…,https://github.com/mailcow/mailcow-dockerized/commit/2fbbbbe9a981ed90834ee838016a3842915a00bd,https://da.gd/PdWAH
+GithubCommit,[ACME] Remove deprecated ACME_CONTACT variable,https://github.com/mailcow/mailcow-dockerized/commit/ec6dbb099aa4ae559b10217906a62da694c6f182,https://da.gd/nOuic
+GithubCommit,update postscreen_access.cidr (#6611),https://github.com/mailcow/mailcow-dockerized/commit/b12ce1eacd6ae74c9eb3d1570c8cbc79a7a7a174,https://da.gd/pVfET
+GithubCommit,Remove obsolete ACME_CONTACT option and related comments from mailcow…,https://github.com/mailcow/mailcow-dockerized/commit/fc43c26c4852d741311a867cf5aa39ae58b77a14,https://da.gd/Uzmp
+GithubCommit,Merge pull request #6617 from mailcow/fix/acme-contact,https://github.com/mailcow/mailcow-dockerized/commit/b7acef4d9d3d4422bbfef3b1f1f9dc6df64b7c41,https://da.gd/kQsYlM
+GithubCommit,[Web] Updated lang.pt-pt.json (#6622),https://github.com/mailcow/mailcow-dockerized/commit/d5b30a7a0870ba14377ab02e143ec25d3c2b1c6d,https://da.gd/xKoDJd
+GithubCommit,Translations update from Weblate (#6629),https://github.com/mailcow/mailcow-dockerized/commit/4c7a9ed1953e986ee76dc68a74a78d18414bd053,https://da.gd/vvs7s
+GithubCommit,Merge pull request #6631 from mailcow/fix/jinja2-rendering,https://github.com/mailcow/mailcow-dockerized/commit/02557b2098c74187f9a3c6fba2be23be31799591,https://da.gd/lswqGY
+GithubCommit,Merge pull request #6632 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/527f27d2490c8835e8fa395ec3139fabe7dc4e04,https://da.gd/BCuN1g
