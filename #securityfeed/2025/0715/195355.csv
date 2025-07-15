@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2ggw-8gmc-r2gq] Liferay Portal XSS vulnerability via movie parameter in the /html/portal/flash.jsp page,https://github.com/advisories/GHSA-2ggw-8gmc-r2gq,https://da.gd/Zkh1U
+GithubAdvisories,[GHSA-rpj9-pc39-h8j8] Liferay Portal vulnerable to arbitrary command injection,https://github.com/advisories/GHSA-rpj9-pc39-h8j8,https://da.gd/CoVo4x
