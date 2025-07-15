@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6fv4-qpvp-865r] Malware in white-oganesson,https://github.com/advisories/GHSA-6fv4-qpvp-865r,https://da.gd/iPjAQp
+GithubAdvisories,[GHSA-jcq5-q74c-9cr2] Malware in lime-thulium,https://github.com/advisories/GHSA-jcq5-q74c-9cr2,https://da.gd/KQEpR
+GithubAdvisories,[GHSA-wwg6-c2j8-wr52] Malware in blue-einsteinium,https://github.com/advisories/GHSA-wwg6-c2j8-wr52,https://da.gd/CBjh1
+GithubAdvisories,[GHSA-6w76-xjmx-76rw] Malware in cmc-inferno,https://github.com/advisories/GHSA-6w76-xjmx-76rw,https://da.gd/NKIe2X
+GithubAdvisories,[GHSA-vhvx-8xgc-99wf] DSpace is vulnerable to Path Traversal attacks when importing packages using Simple Archive Format,https://github.com/advisories/GHSA-vhvx-8xgc-99wf,https://da.gd/aid9qq
+GithubAdvisories,[GHSA-jjwr-5cfh-7xwh] DSpace is vulnerable to XML External Entity injection during archive imports,https://github.com/advisories/GHSA-jjwr-5cfh-7xwh,https://da.gd/4QJweW
