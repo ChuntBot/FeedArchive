@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xh69-987w-hrp8] resolv vulnerable to DoS via insufficient DNS domain name length validation,https://github.com/advisories/GHSA-xh69-987w-hrp8,https://da.gd/95dq3
