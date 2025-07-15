@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Dovecot] Use Jinja2 sandbox for rendering quota and quarantine notif…,https://github.com/mailcow/mailcow-dockerized/commit/2fbbbbe9a981ed90834ee838016a3842915a00bd,https://da.gd/PdWAH
+GithubCommitStaging,Merge pull request #6631 from mailcow/fix/jinja2-rendering,https://github.com/mailcow/mailcow-dockerized/commit/02557b2098c74187f9a3c6fba2be23be31799591,https://da.gd/lswqGY
