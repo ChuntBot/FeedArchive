@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9536-m86r-q297] Liferay Portal vulnerable to cross-site scripting (XSS) via the keywords parameter,https://github.com/advisories/GHSA-9536-m86r-q297,https://da.gd/1vMpD
+GithubAdvisories,[GHSA-r39x-3qq4-gxmr] Liferay Portal and Liferay DXP vulnerable to cross-site scripting (XSS) in edit blog entry page,https://github.com/advisories/GHSA-r39x-3qq4-gxmr,https://da.gd/D7EDQ
