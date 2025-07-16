@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r32w-v775-5952] Liferay Portal and Liferay DXP Vulnerable to XSS via the Document Library Module,https://github.com/advisories/GHSA-r32w-v775-5952,https://da.gd/rdY2y
+GithubAdvisories,[GHSA-cmrw-cgfc-v6x2] Liferay Portal and Liferay DXP Vulnerable to XSS via the Role Module,https://github.com/advisories/GHSA-cmrw-cgfc-v6x2,https://da.gd/WQAW34
+GithubAdvisories,[GHSA-f43m-hhj4-q3jg] Liferay Portal and Liferay DXP Includes LDAP Credentials in the Page URL,https://github.com/advisories/GHSA-f43m-hhj4-q3jg,https://da.gd/ebKEKi
+GithubAdvisories,[GHSA-hw56-7xj4-7gx6] Liferay Portal and Liferay DXP Vulnerable to SQL Injection via Friendly URL Module,https://github.com/advisories/GHSA-hw56-7xj4-7gx6,https://da.gd/2muyS
