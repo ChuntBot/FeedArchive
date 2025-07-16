@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8mp9-w7gr-pvj3] Liferay Portal and Liferay DXP Vulnerable to XSS via the filter_ Prefix,https://github.com/advisories/GHSA-8mp9-w7gr-pvj3,https://da.gd/NOkI
+GithubAdvisories,[GHSA-7m65-hmvg-rxpc] Liferay Portal and Liferay DXP Vulnerable to XSS in the Site Module,https://github.com/advisories/GHSA-7m65-hmvg-rxpc,https://da.gd/NZNxd
+GithubAdvisories,[GHSA-w397-9p2j-6x23] Liferay Portal and Liferay DXP HtmlUtil.escapeRedirect Can Be Circumvented,https://github.com/advisories/GHSA-w397-9p2j-6x23,https://da.gd/egNWD
