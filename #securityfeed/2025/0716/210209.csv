@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4q2v-9p7v-3v22] Reactor Netty HTTP is vulnerable to credential leaks during chained redirects,https://github.com/advisories/GHSA-4q2v-9p7v-3v22,https://da.gd/lt6nId
