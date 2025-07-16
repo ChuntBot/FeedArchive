@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h9ww-wjg4-jvvg] Liferay Portal and Liferay DXP Fails to Check Permissions in Translation Module,https://github.com/advisories/GHSA-h9ww-wjg4-jvvg,https://da.gd/m3g1X
+GithubAdvisories,[GHSA-wffm-j7m8-93g4] Liferay Portal and Liferay DXP Vulnerable to XSS via Tag Name,https://github.com/advisories/GHSA-wffm-j7m8-93g4,https://da.gd/6KCec
+GithubAdvisories,[GHSA-5j86-vmpx-42pc] Liferay Portal Path Traversal Vulnerability via the Hypermedia REST APIs Module,https://github.com/advisories/GHSA-5j86-vmpx-42pc,https://da.gd/nINw7k
