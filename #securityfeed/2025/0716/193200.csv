@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-67jp-27jj-6x85] Liferay Portal and Liferay DXP Vulnerable to XSS in the CKEditor Integration with the Frontend Editor Module,https://github.com/advisories/GHSA-67jp-27jj-6x85,https://da.gd/4nLId
+GithubAdvisories,[GHSA-g6r2-6x46-jpp6] Liferay Portal and Liferay DXP Vulnerable to XSS in the Frontend Taglib Module,https://github.com/advisories/GHSA-g6r2-6x46-jpp6,https://da.gd/PgY2T
+GithubAdvisories,[GHSA-7f7g-vhff-mjqj] Liferay Portal and Liferay DXP Vulnerable to XSS via the Portal Search Module,https://github.com/advisories/GHSA-7f7g-vhff-mjqj,https://da.gd/4Zb4X
