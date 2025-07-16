@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-36wv-v2qp-v4g4] Apache CXF is vulnerable to DoS attacks as entire files are read into memory and logged,https://github.com/advisories/GHSA-36wv-v2qp-v4g4,https://da.gd/nKErC
+GithubAdvisories,[GHSA-7xqm-7738-642x] File Browser's Uncontrolled Memory Consumption vulnerability can enable DoS attack due to oversized file processing,https://github.com/advisories/GHSA-7xqm-7738-642x,https://da.gd/Xz0X
+GithubAdvisories,[GHSA-7mcq-f592-pf7v] Slice Ring Buffer and Slice Deque contains four unique double-free vulnerabilities triggered through safe APIs,https://github.com/advisories/GHSA-7mcq-f592-pf7v,https://da.gd/Ukx78i
+GithubAdvisories,[GHSA-7xwp-2cpp-p8r7] File Browser’s insecure JWT handling can lead to session replay attacks after logout,https://github.com/advisories/GHSA-7xwp-2cpp-p8r7,https://da.gd/DClghH
