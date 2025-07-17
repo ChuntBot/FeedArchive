@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9rcw-c2f9-2j55] OpenZeppelin Contracts Bytes's lastIndexOf function with position argument performs out-of-bound memory access on empty buffers,https://github.com/advisories/GHSA-9rcw-c2f9-2j55,https://da.gd/ksyJf
+GithubAdvisories,[GHSA-76c9-3jph-rj3q] on-headers is vulnerable to http response header manipulation,https://github.com/advisories/GHSA-76c9-3jph-rj3q,https://da.gd/KTY59l
+GithubAdvisories,[GHSA-qccg-9m4q-xfm6] DB-GPT is vulnerable to SQL Injection attacks from unauthenticated users,https://github.com/advisories/GHSA-qccg-9m4q-xfm6,https://da.gd/Fm1lT
+GithubAdvisories,[GHSA-fjgf-rc76-4x9p] Multer vulnerable to Denial of Service via unhandled exception from malformed request,https://github.com/advisories/GHSA-fjgf-rc76-4x9p,https://da.gd/iVYx6
