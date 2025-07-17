@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-29cq-5w36-x7w3] Livewire is vulnerable to remote command execution during component property update hydration,https://github.com/advisories/GHSA-29cq-5w36-x7w3,https://da.gd/oWu3
