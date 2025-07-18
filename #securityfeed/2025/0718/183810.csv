@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-46m5-8hpj-p5p5] Grafana's insecure DingDing Alert integration exposes sensitive information,https://github.com/advisories/GHSA-46m5-8hpj-p5p5,https://da.gd/l5ur
