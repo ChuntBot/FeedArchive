@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-62g9-99m7-w8wv] Eclipse GlassFish is vulnerable to Stored XSS attacks through its Administration Console,https://github.com/advisories/GHSA-62g9-99m7-w8wv,https://da.gd/8FQhl
+GithubAdvisories,[GHSA-hp97-5x6g-q538] Eclipse GlassFish is vulnerable to Stored XSS attacks through configuration file modifications,https://github.com/advisories/GHSA-hp97-5x6g-q538,https://da.gd/P94p9r
+GithubAdvisories,[GHSA-vqrm-83g6-pfv4] Eclipse GlassFish is vulnerable to Reflected XSS attacks through its Administration Console,https://github.com/advisories/GHSA-vqrm-83g6-pfv4,https://da.gd/9OKe
