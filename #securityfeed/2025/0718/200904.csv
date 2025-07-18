@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x6ph-r535-3vjw] apko is vulnerable to attack through incorrect permissions in /etc/ld.so.cache and other files,https://github.com/advisories/GHSA-x6ph-r535-3vjw,https://da.gd/EF2YdR
+GithubAdvisories,[GHSA-fm79-3f68-h2fc] Wasmtime CLI is vulnerable to host panic through its fd_renumber function,https://github.com/advisories/GHSA-fm79-3f68-h2fc,https://da.gd/unUJOf
+GithubAdvisories,[GHSA-8gqf-26xw-x3gx] Liferay Portal XSS Vulnerability,https://github.com/advisories/GHSA-8gqf-26xw-x3gx,https://da.gd/DQOV8H
