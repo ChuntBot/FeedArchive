@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cm99-x97g-9qx8] Liferay Portal XSS Vulnerability,https://github.com/advisories/GHSA-cm99-x97g-9qx8,https://da.gd/cpGuO
+GithubAdvisories,[GHSA-w7f2-6896-6mm2] Liferay Portal and Liferay DXP allows arbitrary injection via web content template names,https://github.com/advisories/GHSA-w7f2-6896-6mm2,https://da.gd/4J0h
+GithubAdvisories,[GHSA-7r3w-wggm-pjwf] Liferay Portal and Liferay DXP Vulnerable to XSS in the Portal Search Module,https://github.com/advisories/GHSA-7r3w-wggm-pjwf,https://da.gd/5Fgnha
