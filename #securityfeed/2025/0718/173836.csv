@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mqxx-c43h-jj9v] Eclipse GlassFish is vulnerable to Stored XSS attacks through its Administration Console,https://github.com/advisories/GHSA-mqxx-c43h-jj9v,https://da.gd/ul6aL
+GithubAdvisories,[GHSA-6v2p-p543-phr9] golang.org/x/oauth2 Improper Validation of Syntactic Correctness of Input vulnerability,https://github.com/advisories/GHSA-6v2p-p543-phr9,https://da.gd/bDysJ
+GithubAdvisories,[GHSA-99f7-hp6j-v6q4] Eclipse GlassFish is vulnerable to Login Brute Force attacks through unlimited failed login attempts,https://github.com/advisories/GHSA-99f7-hp6j-v6q4,https://da.gd/2D80mL
