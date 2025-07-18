@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f7h5-c625-3795] Eclipse GlassFish is vulnerable to Server Side Request Forgery attacks through specific endpoints,https://github.com/advisories/GHSA-f7h5-c625-3795,https://da.gd/frgY4
