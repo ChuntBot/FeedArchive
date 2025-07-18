@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5662-cv6m-63wh] melange's world-writable permissions expose SBOM files to potential image tampering,https://github.com/advisories/GHSA-5662-cv6m-63wh,https://da.gd/IXWBBt
