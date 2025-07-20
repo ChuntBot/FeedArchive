@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r7q6-6fmq-mx4c] Filemanager is vulnerable to Relative Path Traversal through filemanager.php,https://github.com/advisories/GHSA-r7q6-6fmq-mx4c,https://da.gd/2Tpe
