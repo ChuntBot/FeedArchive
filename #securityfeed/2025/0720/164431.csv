@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cj6r-rrr9-fg82] Nuxt MDC has an XSS vulnerability in markdown rendering that bypasses HTML filtering,https://github.com/advisories/GHSA-cj6r-rrr9-fg82,https://da.gd/Mz2qZt
+GithubAdvisories,[GHSA-vqph-p5vc-g644] Grafana is vulnerable to XSS attacks through open redirects and path traversal,https://github.com/advisories/GHSA-vqph-p5vc-g644,https://da.gd/EawO9
