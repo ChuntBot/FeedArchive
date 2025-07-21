@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xg9p-p463-3qjp] Apache Jena doesn't validate file access paths in configuration files uploaded by users with administrator access,https://github.com/advisories/GHSA-xg9p-p463-3qjp,https://da.gd/9FPE
+GithubAdvisories,[GHSA-jq2c-m8gg-mqcm] Apache Jena allows users with administrator access to create databases files outside the files area of the Fuseki server,https://github.com/advisories/GHSA-jq2c-m8gg-mqcm,https://da.gd/ADsTy1
+GithubAdvisories,[GHSA-353f-x4gh-cqq8] Nokogiri patches vendored libxml2 to resolve multiple CVEs,https://github.com/advisories/GHSA-353f-x4gh-cqq8,https://da.gd/uAeo
+GithubAdvisories,[GHSA-2c2j-9gv5-cj73] Starlette has possible denial-of-service vector when parsing large files in multipart forms,https://github.com/advisories/GHSA-2c2j-9gv5-cj73,https://da.gd/ZCNDh
+GithubAdvisories,[GHSA-mqcp-p2hv-vw6x] Thor can construct an unsafe shell command from library input,https://github.com/advisories/GHSA-mqcp-p2hv-vw6x,https://da.gd/qBOd0
+GithubAdvisories,[GHSA-49xw-hw94-fmv2] Dolibarr has Remote Code Execution Vulnerability (Bypass),https://github.com/advisories/GHSA-49xw-hw94-fmv2,https://da.gd/E89I8
+GithubAdvisories,[GHSA-c5qx-p38x-qf5w] RageAgainstThePixel/setup-steamcmd leaked authentication token in job output logs,https://github.com/advisories/GHSA-c5qx-p38x-qf5w,https://da.gd/nWjjc
