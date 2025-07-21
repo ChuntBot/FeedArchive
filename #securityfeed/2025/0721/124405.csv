@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f8vw-8vgh-22r9] XXL-JOB is vulnerable to SSRF attacks,https://github.com/advisories/GHSA-f8vw-8vgh-22r9,https://da.gd/D0m55L
+GithubAdvisories,[GHSA-83j7-mhw9-388w] Keycloak is vulnerable to bad actors escalating privileges through its Fine-Grained Admin Permissions,https://github.com/advisories/GHSA-83j7-mhw9-388w,https://da.gd/gvND
