@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5fpv-5qvh-7cf3] NodeJS version of the HAX CMS application is distributed with Default Secrets,https://github.com/advisories/GHSA-5fpv-5qvh-7cf3,https://da.gd/omWy
+GithubAdvisories,[GHSA-pjj3-j5j6-qj27] HAX CMS NodeJS Application Has Improper Error Handling That Leads to Denial of Service,https://github.com/advisories/GHSA-pjj3-j5j6-qj27,https://da.gd/LlC8sD
+GithubAdvisories,[GHSA-59g8-h59f-8hjp] NodeJS version of HAX CMS Has Disabled Content Security Policy That Enables Cross-Site Scripting,https://github.com/advisories/GHSA-59g8-h59f-8hjp,https://da.gd/ggQY6
+GithubAdvisories,[GHSA-f38f-jvqj-mfg6] NodeJS version of HAX CMS Has Insecure Default Configuration That Leads to Unauthenticated Access,https://github.com/advisories/GHSA-f38f-jvqj-mfg6,https://da.gd/bUxkHC
