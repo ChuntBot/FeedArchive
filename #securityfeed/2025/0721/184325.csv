@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wvw2-3jh4-4c39] Mattermost Path Traversal vulnerability,https://github.com/advisories/GHSA-wvw2-3jh4-4c39,https://da.gd/HtPYi
+GithubAdvisories,[GHSA-7h34-9chr-58qh] Mattermost Missing Authentication for Critical Function,https://github.com/advisories/GHSA-7h34-9chr-58qh,https://da.gd/SaHBSm
