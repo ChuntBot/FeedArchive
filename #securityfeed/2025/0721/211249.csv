@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gq96-8w38-hhj2] LibreNMS has Authenticated Local File Inclusion in ajax_form.php that Allows RCE,https://github.com/advisories/GHSA-gq96-8w38-hhj2,https://da.gd/YCRCCl
+GithubAdvisories,"[GHSA-f29h-pxvx-f335] eslint-config-prettier, eslint-plugin-prettier, synckit, @pkgr/core, napi-postinstall have embedded malicious code",https://github.com/advisories/GHSA-f29h-pxvx-f335,https://da.gd/NE33ai
