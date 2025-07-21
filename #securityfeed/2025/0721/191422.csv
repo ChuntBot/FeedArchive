@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mj96-mh85-r574] buildalon/setup-steamcmd leaked authentication token in job output logs,https://github.com/advisories/GHSA-mj96-mh85-r574,https://da.gd/DWX1S
+GithubAdvisories,[GHSA-96c2-h667-9fxp] nova-tiptap has Unauthenticated Arbitrary File Upload Vulnerability,https://github.com/advisories/GHSA-96c2-h667-9fxp,https://da.gd/6hZx3O
+GithubAdvisories,[GHSA-wcwp-9rcp-jvfg] Open WebUI Uncontrolled Resource Consumption vulnerability,https://github.com/advisories/GHSA-wcwp-9rcp-jvfg,https://da.gd/oalm8
+GithubAdvisories,[GHSA-fjxv-7rqg-78g4] form-data uses unsafe random function in form-data for choosing boundary,https://github.com/advisories/GHSA-fjxv-7rqg-78g4,https://da.gd/QaFJu
+GithubAdvisories,[GHSA-4fwj-8595-wp25] Mattermost has Insufficiently Protected Credentials,https://github.com/advisories/GHSA-4fwj-8595-wp25,https://da.gd/lrCOVe
