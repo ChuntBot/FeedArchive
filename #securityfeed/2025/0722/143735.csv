@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x769-3cwv-f8hc] Powermail extension for TYPO3 allows Insecure Direct Object Reference,https://github.com/advisories/GHSA-x769-3cwv-f8hc,https://da.gd/ziY0
+GithubAdvisories,[GHSA-38r9-3j52-h92v] Aim vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-38r9-3j52-h92v,https://da.gd/aNTx9M
+GithubAdvisories,[GHSA-9g4j-v8w5-7x42] Authentik has insufficient check for account active status when authenticating with OAuth/SAML Sources,https://github.com/advisories/GHSA-9g4j-v8w5-7x42,https://da.gd/ORl6z1
+GithubAdvisories,[GHSA-r5p3-955p-5ggq] Kyverno's Improper JMESPath Variable Evaluation Lead to Denial of Service,https://github.com/advisories/GHSA-r5p3-955p-5ggq,https://da.gd/ItfTFS
