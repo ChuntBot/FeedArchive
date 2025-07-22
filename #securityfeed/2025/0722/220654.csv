@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x9hg-5q6g-q3jr] Ollama vulnerable to Cross-Domain Token Exposure,https://github.com/advisories/GHSA-x9hg-5q6g-q3jr,https://da.gd/vM5I
+GithubAdvisories,[GHSA-h7x8-jv97-fvvm] Dagster Local File Inclusion vulnerability,https://github.com/advisories/GHSA-h7x8-jv97-fvvm,https://da.gd/r9oy2
