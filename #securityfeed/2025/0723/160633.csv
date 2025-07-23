@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9h3q-32c7-r533] private-ip vulnerable to Server-Side Request Forgery,https://github.com/advisories/GHSA-9h3q-32c7-r533,https://da.gd/ppCUm
+GithubAdvisories,[GHSA-h27m-3qw8-3pw8] Possible ORM Leak Vulnerability in the Harbor,https://github.com/advisories/GHSA-h27m-3qw8-3pw8,https://da.gd/lFRay
