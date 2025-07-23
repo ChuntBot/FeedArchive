@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vmhh-8rxq-fp9g] ImageMagick has XMP profile write that triggers hang due to unbounded loop,https://github.com/advisories/GHSA-vmhh-8rxq-fp9g,https://da.gd/x8Om
