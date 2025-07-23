@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rm8p-cx58-hcvx] Axios has Transitive Critical Vulnerability via form-data — Predictable Boundary Values (CVE-2025-7783),https://github.com/advisories/GHSA-rm8p-cx58-hcvx,https://da.gd/Jj0w7
+GithubAdvisories,[GHSA-4j66-8f4r-3pjx] bun vulnerable to OS Command Injection,https://github.com/advisories/GHSA-4j66-8f4r-3pjx,https://da.gd/iIse9F
