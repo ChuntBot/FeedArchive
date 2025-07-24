@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vr59-gm53-v7cq] XWiki Platform vulnerable to SQL injection through getdeleteddocuments.vm template sort parameter,https://github.com/advisories/GHSA-vr59-gm53-v7cq,https://da.gd/bb91
