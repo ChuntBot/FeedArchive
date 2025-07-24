@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-526j-mv3p-f4vv] eKuiper API endpoints handling SQL queries with user-controlled table names,https://github.com/advisories/GHSA-526j-mv3p-f4vv,https://da.gd/GOX2lE
