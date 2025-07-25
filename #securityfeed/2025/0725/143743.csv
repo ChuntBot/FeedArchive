@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-75jv-vfxf-3865] Assemblyline 4 service client vulnerable to Arbitrary Write through path traversal in Client code,https://github.com/advisories/GHSA-75jv-vfxf-3865,https://da.gd/GPFgl
+GithubAdvisories,[GHSA-p9qm-p942-q3w5] XWiki Platform vulnerable to SQL injection through XWiki#searchDocuments API,https://github.com/advisories/GHSA-p9qm-p942-q3w5,https://da.gd/WrR25W
+GithubAdvisories,[GHSA-m837-g268-mmv7] Node-SAML SAML Authentication Bypass,https://github.com/advisories/GHSA-m837-g268-mmv7,https://da.gd/UzvMS2
