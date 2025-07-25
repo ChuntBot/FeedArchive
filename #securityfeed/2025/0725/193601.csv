@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gq52-6phf-x2r6] tj-actions/branch-names has a Command Injection Vulnerability,https://github.com/advisories/GHSA-gq52-6phf-x2r6,https://da.gd/80Pqi
+GithubAdvisories,"[GHSA-4v6w-xpmh-gfgp] Skops may allow MethodNode to access unexpected object fields through dot notation, leading to arbitrary code execution at load time",https://github.com/advisories/GHSA-4v6w-xpmh-gfgp,https://da.gd/tihuax
+GithubAdvisories,[GHSA-m7f4-hrc6-fwg3] Skops has Inconsistent Trusted Type Validation that Enables Hidden `operator` Methods Execution,https://github.com/advisories/GHSA-m7f4-hrc6-fwg3,https://da.gd/PK40MZ
