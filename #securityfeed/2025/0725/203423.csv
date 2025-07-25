@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qc4j-v7h6-xr5h] Calibre Web and Autocaliweb have OS Command Injection vulnerability,https://github.com/advisories/GHSA-qc4j-v7h6-xr5h,https://da.gd/uPG2PP
+GithubAdvisories,[GHSA-j63h-hmgw-x4j7] Opencast still publishes global system account credentials,https://github.com/advisories/GHSA-j63h-hmgw-x4j7,https://da.gd/CbEKtY
+GithubAdvisories,[GHSA-9jr9-8ff3-m894] HAX CMS API Lacks Authorization Checks,https://github.com/advisories/GHSA-9jr9-8ff3-m894,https://da.gd/4ZWfGK
