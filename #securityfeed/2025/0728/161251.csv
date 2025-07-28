@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9952-gv64-x94c] CodeIgniter4's ImageMagick Handler has Command Injection Vulnerability,https://github.com/advisories/GHSA-9952-gv64-x94c,https://da.gd/r7QxHw
+GithubAdvisories,[GHSA-49jm-g4m8-x53p] CodeIgniter4 Cross-Site Scripting Vulnerability in debugbar_time Parameter,https://github.com/advisories/GHSA-49jm-g4m8-x53p,https://da.gd/vGyKH
+GithubAdvisories,[GHSA-q5h2-xq96-6gmc] Duplicate Advisory: buffered-reader vulnerable to out-of-bounds array access leading to panic,https://github.com/advisories/GHSA-q5h2-xq96-6gmc,https://da.gd/vf1T
+GithubAdvisories,[GHSA-286m-6pg9-v42v] Duplicate Advisory: Multiple issues involving quote API in shlex,https://github.com/advisories/GHSA-286m-6pg9-v42v,https://da.gd/tSzfK
+GithubAdvisories,[GHSA-97f8-h76h-f297] Duplicate Advisory: Unauthenticated Nonce Increment in snow,https://github.com/advisories/GHSA-97f8-h76h-f297,https://da.gd/8iOTWy
+GithubAdvisories,[GHSA-rfx3-ffrp-6875] Duplicate Advisory: sequoia-openpgp vulnerable to out-of-bounds array access leading to panic,https://github.com/advisories/GHSA-rfx3-ffrp-6875,https://da.gd/dCB4sF
+GithubAdvisories,[GHSA-j87p-gjr6-m4pv] Duplicate Advisory: serde-json-wasm stack overflow during recursive JSON parsing,https://github.com/advisories/GHSA-j87p-gjr6-m4pv,https://da.gd/qD9jjo
+GithubAdvisories,[GHSA-gw89-822v-8v8g] Duplicate Advisory: `openssl` `X509VerifyParamRef::set_host` buffer over-read,https://github.com/advisories/GHSA-gw89-822v-8v8g,https://da.gd/5bYx
+GithubAdvisories,[GHSA-p444-p2rm-hvrw] Duplicate Advisory: transpose: Buffer overflow due to integer overflow,https://github.com/advisories/GHSA-p444-p2rm-hvrw,https://da.gd/i7KqWC
+GithubAdvisories,[GHSA-g693-v3jr-8hcr] Duplicate Advisory: `ed25519-dalek` Double Public Key Signing Function Oracle Attack,https://github.com/advisories/GHSA-g693-v3jr-8hcr,https://da.gd/j7yn4
+GithubAdvisories,[GHSA-rm83-pxjx-pr5j] Duplicate Advisory: CosmWasm affected by arithmetic overflows,https://github.com/advisories/GHSA-rm83-pxjx-pr5j,https://da.gd/T9MFQb
+GithubAdvisories,[GHSA-4hff-hh47-7788] Duplicate Advisory: curve25519-dalek has timing variability in `curve25519-dalek`'s `Scalar29::sub`/`Scalar52::sub`,https://github.com/advisories/GHSA-4hff-hh47-7788,https://da.gd/yMJ4
