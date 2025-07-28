@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c2fv-2fmj-9xrx] ssrfcheck has Incomplete IP Address Deny List that leads to Server-Side Request Forgery Vulnerability,https://github.com/advisories/GHSA-c2fv-2fmj-9xrx,https://da.gd/1K75
