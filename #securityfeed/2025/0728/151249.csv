@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-624c-2h52-gf7f] Duplicate Advisory: Remotely exploitable denial of service in Rosenpass,https://github.com/advisories/GHSA-624c-2h52-gf7f,https://da.gd/pkpMp
+GithubAdvisories,[GHSA-6v92-r5mx-h5fx] smolagents has Sandbox Escape Vulnerability in the local_python_executor.py Module,https://github.com/advisories/GHSA-6v92-r5mx-h5fx,https://da.gd/qKrc7t
+GithubAdvisories,[GHSA-2g7m-ph9x-7q7m] Calibre Web and Autocaliweb have a ReDoS vulnerability,https://github.com/advisories/GHSA-2g7m-ph9x-7q7m,https://da.gd/cxUAWy
