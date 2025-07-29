@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jgmv-j7ww-jx2x] Koa Open Redirect via Referrer Header (User-Controlled),https://github.com/advisories/GHSA-jgmv-j7ww-jx2x,https://da.gd/OUlt4i
+GithubAdvisories,[GHSA-75vq-qvhr-7ffr] Umbraco Delivery API allows for cached requests to be returned with an invalid API key,https://github.com/advisories/GHSA-75vq-qvhr-7ffr,https://da.gd/GSno84
+GithubAdvisories,[GHSA-95jq-xph2-cx9h] Linkify Allows Prototype Pollution & HTML Attribute Injection (XSS),https://github.com/advisories/GHSA-95jq-xph2-cx9h,https://da.gd/F0eL7
