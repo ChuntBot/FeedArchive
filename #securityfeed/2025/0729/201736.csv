@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q78p-g86f-jg6q] Bugsink path traversal via event_id in ingestion,https://github.com/advisories/GHSA-q78p-g86f-jg6q,https://da.gd/KXHrNT
+GithubAdvisories,[GHSA-w832-w3p8-cw29] z-push/z-push-dev SQL Injection Vulnerability,https://github.com/advisories/GHSA-w832-w3p8-cw29,https://da.gd/9J65Dz
+GithubAdvisories,[GHSA-4vq8-7jfc-9cvp] Moby firewalld reload removes bridge network isolation,https://github.com/advisories/GHSA-4vq8-7jfc-9cvp,https://da.gd/Eu3o
+GithubAdvisories,[GHSA-x4rx-4gw3-53p4] Moby firewalld reload makes published container ports accessible from remote hosts,https://github.com/advisories/GHSA-x4rx-4gw3-53p4,https://da.gd/JbVPaT
+GithubAdvisories,[GHSA-rpcf-rmh6-42xr] Netavark Has Possible DNS Resolve Confusion,https://github.com/advisories/GHSA-rpcf-rmh6-42xr,https://da.gd/SnABX6
