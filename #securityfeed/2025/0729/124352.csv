@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3qq5-wcrx-4h8r] Liferay Portal and Liferay DXP's HtmlUtil.escapeRedirect Can Be Circumvented via Two Forward Slashes,https://github.com/advisories/GHSA-3qq5-wcrx-4h8r,https://da.gd/EYcR
+GithubAdvisories,[GHSA-548x-j6x6-hcv4] Liferay Portal and Liferay DXP's HtmlUtil.escapeRedirect Can Be Circumvented via Replacement Character,https://github.com/advisories/GHSA-548x-j6x6-hcv4,https://da.gd/7pTxqp
+GithubAdvisories,[GHSA-mf8h-grfg-j9j3] Liferay Portal and Liferay DXP Allows Templates to be Viewed via the UI or API,https://github.com/advisories/GHSA-mf8h-grfg-j9j3,https://da.gd/SG6cF
+GithubAdvisories,[GHSA-pw7p-3648-qqmg] Liferay Portal and Liferay DXP Allows Authenticated Users with View Permissions to Edit Permissions,https://github.com/advisories/GHSA-pw7p-3648-qqmg,https://da.gd/mYrp4n
+GithubAdvisories,[GHSA-4585-28v2-8h46] Liferay Portal and Liferay DXP Information Disclosure Vulnerability in the Control Panel,https://github.com/advisories/GHSA-4585-28v2-8h46,https://da.gd/SIvk7S
+GithubAdvisories,[GHSA-qpgh-6v9w-vfv6] Liferay Portal and Liferay DXP Does Not Properly Restrict Membership to Child Site Based on Parent Site Options,https://github.com/advisories/GHSA-qpgh-6v9w-vfv6,https://da.gd/MAjhq
+GithubAdvisories,[GHSA-3mrr-cw9q-727m] Liferay Vulnerable to Open Redirect via Adaptive Media Administration Page,https://github.com/advisories/GHSA-3mrr-cw9q-727m,https://da.gd/r941
+GithubAdvisories,[GHSA-f3rf-cr7f-cwc4] Liferay Portal and Liferay DXP Vulnerable to Open Redirect in Countries Management's Edit Region Page,https://github.com/advisories/GHSA-f3rf-cr7f-cwc4,https://da.gd/7ONoOB
+GithubAdvisories,[GHSA-qp68-5v39-r869] Liferay Portal and Liferay DXP Vulnerable to XSS in the Commerce Module,https://github.com/advisories/GHSA-qp68-5v39-r869,https://da.gd/UkmaM
+GithubAdvisories,[GHSA-hv45-r2f5-fmhj] Liferay Portal and Liferay DXP Vulnerable to XSS in the Wiki Widget,https://github.com/advisories/GHSA-hv45-r2f5-fmhj,https://da.gd/meOFTj
