@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-chj2-4vg7-hhg3] Liferay Portal and Liferay DXP Vulnerable to CSRF in the Script Console,https://github.com/advisories/GHSA-chj2-4vg7-hhg3,https://da.gd/WmY56
+GithubAdvisories,[GHSA-mh9r-9pcx-rx55] Liferay Portal and Liferay DXP Vulnerable to Cross-Site Request Forgery in Terms of Use Page,https://github.com/advisories/GHSA-mh9r-9pcx-rx55,https://da.gd/DwMUM6
+GithubAdvisories,[GHSA-mwhf-6mjm-6w3h] Liferay Portal and Liferay DXP Does Not Obfuscate Password Reminder Answers,https://github.com/advisories/GHSA-mwhf-6mjm-6w3h,https://da.gd/HfdG7
+GithubAdvisories,[GHSA-qm43-g2xj-hvg5] Liferay Portal and Liferay DXP User Enumeration Vulnerability,https://github.com/advisories/GHSA-qm43-g2xj-hvg5,https://da.gd/rQlL3
+GithubAdvisories,[GHSA-2mvj-q2q3-wxjv] Liferay Portal and Liferay DXP HTTP Header Can Expose Versions,https://github.com/advisories/GHSA-2mvj-q2q3-wxjv,https://da.gd/iAw020
