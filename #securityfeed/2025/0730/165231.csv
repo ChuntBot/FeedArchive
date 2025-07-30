@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v98g-8rqx-g93g] GitProxy Hidden Commits Injection,https://github.com/advisories/GHSA-v98g-8rqx-g93g,https://da.gd/QVKbW
+GithubAdvisories,[GHSA-xxmh-rf63-qwjv] GitProxy Backfile Parsing Exploit,https://github.com/advisories/GHSA-xxmh-rf63-qwjv,https://da.gd/w1IYHE
+GithubAdvisories,[GHSA-39p2-8hq9-fwj6] GitProxy New Branch Approval Exploit,https://github.com/advisories/GHSA-39p2-8hq9-fwj6,https://da.gd/sjoIy
+GithubAdvisories,[GHSA-qr93-8wwf-22g4] GitProxy Approval Bypass When Pushing Multiple Branches,https://github.com/advisories/GHSA-qr93-8wwf-22g4,https://da.gd/OpQNK
+GithubAdvisories,[GHSA-7h24-c332-p48c] vproxy Divide by Zero DoS Vulnerability,https://github.com/advisories/GHSA-7h24-c332-p48c,https://da.gd/sdA3l
