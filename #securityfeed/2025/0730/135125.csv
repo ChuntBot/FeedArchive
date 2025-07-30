@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rxmq-m78w-7wmc] SixLabors ImageSharp Has Infinite Loop in GIF Decoder When Skipping Malformed Comment Extension Blocks,https://github.com/advisories/GHSA-rxmq-m78w-7wmc,https://da.gd/cPVhQR
+GithubAdvisories,[GHSA-hq25-vp56-qr86] Bacula-web SQL Injection Vulnerability,https://github.com/advisories/GHSA-hq25-vp56-qr86,https://da.gd/LYZ9
