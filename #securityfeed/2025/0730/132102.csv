@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rrqh-93c8-j966] Ruby SAML DOS vulnerability with large SAML response,https://github.com/advisories/GHSA-rrqh-93c8-j966,https://da.gd/VIDVq
+GithubAdvisories,[GHSA-3wwm-hjv7-23r3] Pyload log Injection via API /json/add_package in add_name parameter,https://github.com/advisories/GHSA-3wwm-hjv7-23r3,https://da.gd/XpqPWi
+GithubAdvisories,[GHSA-27gp-8389-hm4w] Keycloak Privilege Escalation Vulnerability in Admin Console (FGAPv2 Enabled),https://github.com/advisories/GHSA-27gp-8389-hm4w,https://da.gd/YzIK
+GithubAdvisories,[GHSA-xhpr-465j-7p9q] Keycloak phishing attack via email verification step in first login flow,https://github.com/advisories/GHSA-xhpr-465j-7p9q,https://da.gd/V87pxE
