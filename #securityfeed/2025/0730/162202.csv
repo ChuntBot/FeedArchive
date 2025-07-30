@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-652x-m2gr-hppm] OAuth2-Proxy's `--gitlab-group` GitLab Group Authorization config flag stopped working in v7.0.0,https://github.com/advisories/GHSA-652x-m2gr-hppm,https://da.gd/tTNsBP
