@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7rh7-c77v-6434] OAuth2-Proxy has authentication bypass in oauth2-proxy skip_auth_routes due to Query Parameter inclusion,https://github.com/advisories/GHSA-7rh7-c77v-6434,https://da.gd/Q4Q4Z
