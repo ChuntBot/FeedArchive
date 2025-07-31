@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h45x-qhg2-q375] OpenEXR Heap-Based Buffer Overflow in Deep Scanline Parsing via Forged Unpacked Size,https://github.com/advisories/GHSA-h45x-qhg2-q375,https://da.gd/lTTTEA
