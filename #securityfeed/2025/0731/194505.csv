@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qc2h-74x3-4v3w] MaterialX Lack of MTLX Import Depth Limit Leads to DoS (Denial-Of-Service) Via Stack Exhaustion,https://github.com/advisories/GHSA-qc2h-74x3-4v3w,https://da.gd/f0FfP
+GithubAdvisories,[GHSA-wx6g-fm6f-w822] MaterialX Stack Overflow via Lack of MTLX XML Parsing Recursion Limit,https://github.com/advisories/GHSA-wx6g-fm6f-w822,https://da.gd/Z7Fxoe
+GithubAdvisories,"[GHSA-jxr6-qrxx-2ph2] num2words subjected to phishing attack, two versions published containing malware",https://github.com/advisories/GHSA-jxr6-qrxx-2ph2,https://da.gd/CLiwpD
+GithubAdvisories,[GHSA-9qm3-6qrr-c76m] @nyariv/sandboxjs has Prototype Pollution vulnerability that may lead to RCE,https://github.com/advisories/GHSA-9qm3-6qrr-c76m,https://da.gd/fBqQy
+GithubAdvisories,[GHSA-x22w-82jp-8rvf] OpenEXR Out-Of-Memory via Unbounded File Header Values,https://github.com/advisories/GHSA-x22w-82jp-8rvf,https://da.gd/bSoY0o
+GithubAdvisories,"[GHSA-qhpm-86v7-phmm] OpenEXR ScanLineProcess::run_fill NULL Pointer Write In ""reduceMemory"" Mode",https://github.com/advisories/GHSA-qhpm-86v7-phmm,https://da.gd/dQit
+GithubAdvisories,[GHSA-4r7w-q3jg-ff43] OpenEXR Out of Bounds Heap Read due to Bad Pointer Arithmetic in LossyDctDecoder_execute,https://github.com/advisories/GHSA-4r7w-q3jg-ff43,https://da.gd/aw8Ubv
