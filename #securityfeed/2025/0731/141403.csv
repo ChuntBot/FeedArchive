@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-72ww-4rcw-mc62] Apache JSPWiki Cross-Site Scripting (XSS) Vulnerability in the Image Plugin,https://github.com/advisories/GHSA-72ww-4rcw-mc62,https://da.gd/zsBWaC
+GithubAdvisories,[GHSA-rrff-chj9-w4c7] Apache JSPWiki Cross-Site Scripting (XSS) Vulnerability via Header Link Rendering,https://github.com/advisories/GHSA-rrff-chj9-w4c7,https://da.gd/lFSW
+GithubAdvisories,[GHSA-7c78-rm87-5673] MS SWIFT WEB-UI RCE Vulnerability,https://github.com/advisories/GHSA-7c78-rm87-5673,https://da.gd/HXob8
+GithubAdvisories,[GHSA-r54c-2xmf-2cf3] MS SWIFT Deserialization RCE Vulnerability,https://github.com/advisories/GHSA-r54c-2xmf-2cf3,https://da.gd/lvDV9
+GithubAdvisories,[GHSA-fm6c-f59h-7mmg] MS SWIFT Remote Code Execution via unsafe PyYAML deserialization,https://github.com/advisories/GHSA-fm6c-f59h-7mmg,https://da.gd/5X74s
+GithubAdvisories,[GHSA-8mx2-rjh8-q3jq] copyparty Reflected XSS via Filter Parameter,https://github.com/advisories/GHSA-8mx2-rjh8-q3jq,https://da.gd/Zq6e
