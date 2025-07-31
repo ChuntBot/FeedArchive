@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7qw8-3vmf-gj32] MaterialX Null Pointer Dereference in MaterialXCore Shader Generation due to Unchecked implGraphOutput,https://github.com/advisories/GHSA-7qw8-3vmf-gj32,https://da.gd/wTkUS
+GithubAdvisories,[GHSA-3jhf-gxhr-q4cx] MaterialX Null Pointer Dereference in getShaderNodes due to Unchecked nodeGraph->getOutput return,https://github.com/advisories/GHSA-3jhf-gxhr-q4cx,https://da.gd/fdMjVA
