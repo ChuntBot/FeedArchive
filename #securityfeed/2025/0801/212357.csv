@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6c5r-4wfc-3mcx] Hashicorp Vault has Incorrect Validation for Non-CA Certificates,https://github.com/advisories/GHSA-6c5r-4wfc-3mcx,https://da.gd/ardBC
+GithubAdvisories,[GHSA-v6r4-35f9-9rpw] Hashicorp Vault has Login MFA Rate Limit Bypass Vulnerability,https://github.com/advisories/GHSA-v6r4-35f9-9rpw,https://da.gd/1BIPhD
+GithubAdvisories,[GHSA-qv3p-fmv3-9hww] Hashicorp Vault's TOTP Secrets Engine Susceptible to Code Reuse,https://github.com/advisories/GHSA-qv3p-fmv3-9hww,https://da.gd/FTQNx
+GithubAdvisories,[GHSA-mwgr-84fv-3jh9] Hashicorp Vault has an Observable Discrepancy on Existing and Non-Existing Users,https://github.com/advisories/GHSA-mwgr-84fv-3jh9,https://da.gd/Fhfy6
+GithubAdvisories,[GHSA-qgj7-fmq2-6cc4] Hashicorp Vault has Lockout Feature Authentication Bypass,https://github.com/advisories/GHSA-qgj7-fmq2-6cc4,https://da.gd/2JY96
+GithubAdvisories,[GHSA-6h4p-m86h-hhgh] Hashicorp Vault has Privilege Escalation Vulnerability,https://github.com/advisories/GHSA-6h4p-m86h-hhgh,https://da.gd/sBkSPc
+GithubAdvisories,[GHSA-mr4h-qf9j-f665] Hashicorp Vault has Code Execution Vulnerability via Plugin Configuration,https://github.com/advisories/GHSA-mr4h-qf9j-f665,https://da.gd/YXZ67S
+GithubAdvisories,[GHSA-2x2j-3c2v-g3c2] Microweber XSS Vulnerability in the homepage Endpoint,https://github.com/advisories/GHSA-2x2j-3c2v-g3c2,https://da.gd/HLfp
+GithubAdvisories,[GHSA-mvj3-hc7j-vp74] Microweber has Reflected XSS Vulnerability in the layout Parameter,https://github.com/advisories/GHSA-mvj3-hc7j-vp74,https://da.gd/flMiW
+GithubAdvisories,[GHSA-8357-fjvx-xrm8] Microweber has Reflected XSS Vulnerability in the id Parameter,https://github.com/advisories/GHSA-8357-fjvx-xrm8,https://da.gd/z0chO
