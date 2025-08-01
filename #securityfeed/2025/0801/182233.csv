@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2rjv-cv85-xhgm] OpenSearch unauthorized data access on fields protected by field level security if field is a member of an object,https://github.com/advisories/GHSA-2rjv-cv85-xhgm,https://da.gd/OEKN
+GithubAdvisories,"[GHSA-rrmm-wq7q-h4v5] OpenSearch unauthorized data access on fields protected by field masking for fields of type ip, geo_point, geo_shape, xy_point, xy_shape",https://github.com/advisories/GHSA-rrmm-wq7q-h4v5,https://da.gd/8VJsa
+GithubAdvisories,[GHSA-782f-gxj5-xvqc] Microweber Has Stored XSS Vulnerability in User Profile Fields,https://github.com/advisories/GHSA-782f-gxj5-xvqc,https://da.gd/qYkP1
+GithubAdvisories,[GHSA-8j63-96wh-wh3j] 1Panel agent certificate verification bypass leading to arbitrary command execution,https://github.com/advisories/GHSA-8j63-96wh-wh3j,https://da.gd/1S1Lh
+GithubAdvisories,[GHSA-q6gg-9f92-r9wg] Traefik Client Plugin's Path Traversal Vulnerability Allows Arbitrary File Overwrite and Remote Code Execution,https://github.com/advisories/GHSA-q6gg-9f92-r9wg,https://da.gd/UwE625
