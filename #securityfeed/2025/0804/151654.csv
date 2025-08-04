@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pmw4-pwvc-3hx2] Claude Code Research Preview has a Path Restriction Bypass which could allow unauthorized file access,https://github.com/advisories/GHSA-pmw4-pwvc-3hx2,https://da.gd/3p6G1
+GithubAdvisories,[GHSA-vf2r-cxg9-p7rf] The ADOdb sqlite3 driver allows SQL injection,https://github.com/advisories/GHSA-vf2r-cxg9-p7rf,https://da.gd/zUV5bo
+GithubAdvisories,[GHSA-mm3p-j368-7jcr] IPX Allows Path Traversal via Prefix Matching Bypass,https://github.com/advisories/GHSA-mm3p-j368-7jcr,https://da.gd/J3OktA
