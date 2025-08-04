@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fm3m-jrgm-5ppg] RatPanel can perform remote command execution without authorization,https://github.com/advisories/GHSA-fm3m-jrgm-5ppg,https://da.gd/nVYK
+GithubAdvisories,[GHSA-h5rc-j5f5-3gcm] russh is missing overflow checks during channel windows adjust,https://github.com/advisories/GHSA-h5rc-j5f5-3gcm,https://da.gd/fsC5l
+GithubAdvisories,[GHSA-3c93-92r7-j934] Grafana Infinity Datasource Plugin SSRF Vulnerability,https://github.com/advisories/GHSA-3c93-92r7-j934,https://da.gd/uWa0MN
