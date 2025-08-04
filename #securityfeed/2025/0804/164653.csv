@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xg8j-j6vp-6h5w] Apache Zeppelin: Missing Origin Validation in WebSockets vulnerability,https://github.com/advisories/GHSA-xg8j-j6vp-6h5w,https://da.gd/HUw0
+GithubAdvisories,[GHSA-p288-459w-jxj6] Apache Zeppelin: XSS in the Helium module,https://github.com/advisories/GHSA-p288-459w-jxj6,https://da.gd/GWl1YA
+GithubAdvisories,[GHSA-jr43-q92q-5q82] Apache Zeppelin: Arbitrary file read by adding malicious JDBC connection string,https://github.com/advisories/GHSA-jr43-q92q-5q82,https://da.gd/gs8zPV
