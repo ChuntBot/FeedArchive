@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-65fc-cr5f-v7r2] js-toml Prototype Pollution Vulnerability,https://github.com/advisories/GHSA-65fc-cr5f-v7r2,https://da.gd/8KZXD
+GithubAdvisories,[GHSA-48rp-jc79-2264] pyLoad CNL Blueprint allows Path Traversal through `dlc_path` which leads to Remote Code Execution (RCE),https://github.com/advisories/GHSA-48rp-jc79-2264,https://da.gd/igL47
