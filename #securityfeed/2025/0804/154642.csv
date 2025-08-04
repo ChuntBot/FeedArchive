@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5662-2rj7-f2v6] copyparty allows Regex Denial of Service (ReDoS) in the upload listing,https://github.com/advisories/GHSA-5662-2rj7-f2v6,https://da.gd/bjTUsV
+GithubAdvisories,[GHSA-x56v-x2h6-7j34] Claude Code echo command allowed bypass of user approval prompt for command execution,https://github.com/advisories/GHSA-x56v-x2h6-7j34,https://da.gd/svQy
