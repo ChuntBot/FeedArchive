@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9j5q-479x-43g2] @stryker-mutator/util vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-9j5q-479x-43g2,https://da.gd/v3Nf
