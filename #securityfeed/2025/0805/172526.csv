@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3j6h-5v68-hvqg] Liferay Portal CAPTCHA Bypass for Gogo Shell,https://github.com/advisories/GHSA-3j6h-5v68-hvqg,https://da.gd/2N9j
+GithubAdvisories,[GHSA-57q2-6cp4-9mq3] XWiki exposes passwords and emails stored in fields not named password/email in xml.vm,https://github.com/advisories/GHSA-57q2-6cp4-9mq3,https://da.gd/pDke9
+GithubAdvisories,[GHSA-r38m-cgpg-qj69] XWiki leaks password hashes and other accessible password properties,https://github.com/advisories/GHSA-r38m-cgpg-qj69,https://da.gd/vpjPWY
