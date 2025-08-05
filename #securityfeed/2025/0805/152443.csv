@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jxhh-4648-vpp3] FPDI allows Memory Exhaustion (OOM) in PDF Parser which leads to Denial of Service,https://github.com/advisories/GHSA-jxhh-4648-vpp3,https://da.gd/R6Bu
+GithubAdvisories,[GHSA-qx2q-88mx-vhg7] Fiber Crashes in BodyParser Due to Unvalidated Large Slice Index in Decoder,https://github.com/advisories/GHSA-qx2q-88mx-vhg7,https://da.gd/fw8Q2
