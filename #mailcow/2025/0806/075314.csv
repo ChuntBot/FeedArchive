@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,fix docker version detection,https://github.com/mailcow/mailcow-dockerized/commit/e91d678bd16156ca80e63c16b559a5acd0946830,https://da.gd/RoOw5y
+GithubCommitStaging,[Rspamd] Fill module name for set_pre_result actions (#6630),https://github.com/mailcow/mailcow-dockerized/commit/842cb235b610c54f7eb5ae9337ca36cfe997fb40,https://da.gd/7t2Mx
+GithubCommitStaging,[Web] Add delimiter_action to mailbox and mailbox_template add/edit a…,https://github.com/mailcow/mailcow-dockerized/commit/1e42b8dd21fb021e1ddcbb2cae94f79146fe4d39,https://da.gd/7Tyos
+GithubCommitStaging,fixed favicon.png (#6570),https://github.com/mailcow/mailcow-dockerized/commit/8cdb0b869e4a239ba760c5b294343f5cad44b043,https://da.gd/BT0OnG
