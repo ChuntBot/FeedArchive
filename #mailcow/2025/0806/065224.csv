@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubCommitStaging,rspamd: update rspamd to 3.12.1 (#6643),https://github.com/mailcow/mailcow-dockerized/commit/69420113f74bacf3264fd5bbb5c93202e4f43be8,https://da.gd/fh0WH
+GithubCommitStaging,chore(deps): update dependency krakjoe/apcu to v5.1.26 (#6656),https://github.com/mailcow/mailcow-dockerized/commit/1fc36263dce6312b0b7e403089d3880411cb1e1a,https://da.gd/uxOqe
+GithubCommitStaging,Update dependency tianon/gosu to v1.17 (#6640),https://github.com/mailcow/mailcow-dockerized/commit/728fcdb37537eab42bd7f00da30ec35f3a2f1805,https://da.gd/t37kW
+GithubCommitStaging,Update dependency phpredis/phpredis to v6.2.0 (#6639),https://github.com/mailcow/mailcow-dockerized/commit/14d58c8163b2b8d210e08adc1d1b32e294f6ebcc,https://da.gd/O4hjY9
+GithubCommitStaging,Update dependency php-memcached-dev/php-memcached to v3.3.0 (#6638),https://github.com/mailcow/mailcow-dockerized/commit/3803b5d3513ed64177bcef067b768408dab10fc2,https://da.gd/be0c9
+GithubCommitStaging,core: modules splitting + ipv6 nat rewrite (#6634),https://github.com/mailcow/mailcow-dockerized/commit/88bf9b02e112bced1d37c69a885d8dbad4cd657a,https://da.gd/88xfu
+GithubCommitStaging,add 2025-08 as breaking major release,https://github.com/mailcow/mailcow-dockerized/commit/ef5739c32fcf2607d19255fd9ca820e136e975a7,https://da.gd/pwWaf
