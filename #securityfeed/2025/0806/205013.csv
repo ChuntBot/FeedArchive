@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9342-92gg-6v29] Jakarta Mail vulnerable to SMTP Injection,https://github.com/advisories/GHSA-9342-92gg-6v29,https://da.gd/sDTuVr
+GithubAdvisories,[GHSA-qj5r-2r5p-phc7] Keycloak-services SMTP Inject Vulnerability,https://github.com/advisories/GHSA-qj5r-2r5p-phc7,https://da.gd/juaOxs
