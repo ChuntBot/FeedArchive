@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Gentoo: PHP Library Remote Code Execution Vulnerabilities GLSA-202510-07,https://linuxsecurity.com/advisories/gentoo/gentoo-glsa-202508-06-composer-xsobpbmdihyq,https://da.gd/sNvq
+LinuxSecurity,Gentoo: Spreadsheet-ParseExcel Vulnerability Overview GLSA-202508-06,https://linuxsecurity.com/advisories/gentoo/gentoo-glsa-202508-05-spreadsheet-parseexcel-arbitrary-code-execution-sl91snclihfb,https://da.gd/vX5bU
+LinuxSecurity,Gentoo: Mozilla NSS Standard TLS RSA Decryption Timing Flaw GLSA-202509-05,https://linuxsecurity.com/advisories/gentoo/gentoo-glsa-202508-04-mozilla-network-security-service-nss-tls-rsa-decryption-timing-attack-xq7ztt4lknxr,https://da.gd/syPsj
+LinuxSecurity,Gentoo: FontForge Standard Uncontrolled Code Execution GLSA-202509-04,https://linuxsecurity.com/advisories/gentoo/gentoo-glsa-202508-03-fontforge-arbitrary-code-execution-6czwu8jngfui,https://da.gd/S5hM
