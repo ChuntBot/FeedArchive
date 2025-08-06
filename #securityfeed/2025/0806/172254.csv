@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8q6v-474h-whgg] The Thinbus Javascript Secure Remote Password (SRP) Client Generates Fewer Bits of Entropy Than Intended,https://github.com/advisories/GHSA-8q6v-474h-whgg,https://da.gd/Amf4p
+GithubAdvisories,[GHSA-q82r-2j7m-9rv4] github.com/go-acme/lego/v4/acme/api does not enforce HTTPS,https://github.com/advisories/GHSA-q82r-2j7m-9rv4,https://da.gd/blDCn
+GithubAdvisories,[GHSA-52f5-9888-hmc6] tmp allows arbitrary temporary file / directory write via symbolic link `dir` parameter,https://github.com/advisories/GHSA-52f5-9888-hmc6,https://da.gd/G2Eb
