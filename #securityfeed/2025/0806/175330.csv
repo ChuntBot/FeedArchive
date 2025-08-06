@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-522r-9946-fw43] Duplicate Advisory: CIRCL-Fourq: Missing and wrong validation can lead to incorrect results,https://github.com/advisories/GHSA-522r-9946-fw43,https://da.gd/6V0ji
+GithubAdvisories,[GHSA-27gv-mg7w-mm34] Shopware race condition bypasses voucher restrictions,https://github.com/advisories/GHSA-27gv-mg7w-mm34,https://da.gd/he3gSy
+GithubAdvisories,[GHSA-c5xf-rmv4-j85h] Concrete CMS is vulnerable to Stored XSS from Home Folder on Members Dashboard page,https://github.com/advisories/GHSA-c5xf-rmv4-j85h,https://da.gd/rr5Hs
+GithubAdvisories,[GHSA-4pcg-pjp5-3mc6] Concrete CMS vulnerable to Reflected Cross-Site Scripting (XSS) in Conversation Messages Dashboard Page,https://github.com/advisories/GHSA-4pcg-pjp5-3mc6,https://da.gd/1N34
