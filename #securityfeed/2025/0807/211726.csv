@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-93jv-pvg8-hf3v] Ollama allows deletion of arbitrary files,https://github.com/advisories/GHSA-93jv-pvg8-hf3v,https://da.gd/2X6F
+GithubAdvisories,[GHSA-c7p4-hx26-pr73] JWE is missing AES-GCM authentication tag validation in encrypted JWE,https://github.com/advisories/GHSA-c7p4-hx26-pr73,https://da.gd/qs8km0
+GithubAdvisories,[GHSA-m3hh-f9gh-74c2] quiche connection ID retirement can trigger an infinite loop,https://github.com/advisories/GHSA-m3hh-f9gh-74c2,https://da.gd/009Qj
+GithubAdvisories,[GHSA-8qf3-x8v5-2pj8] uv allows ZIP payload obfuscation through parsing differentials,https://github.com/advisories/GHSA-8qf3-x8v5-2pj8,https://da.gd/zks1
