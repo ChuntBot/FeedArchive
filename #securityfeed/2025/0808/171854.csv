@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v3gr-w9gf-23cx] The AuthKit Remix Library renders sensitive auth data in HTML,https://github.com/advisories/GHSA-v3gr-w9gf-23cx,https://da.gd/4UmLmD
+GithubAdvisories,[GHSA-vqvc-9q8x-vmq6] The AuthKit React Router Library rendered sensitive auth data in HTML,https://github.com/advisories/GHSA-vqvc-9q8x-vmq6,https://da.gd/2yfy
+GithubAdvisories,[GHSA-33r8-vrx9-rmcv] ExecuTorch integer overflow vulnerability leads to code execution,https://github.com/advisories/GHSA-33r8-vrx9-rmcv,https://da.gd/aY5c1F
+GithubAdvisories,[GHSA-g358-g2pq-c46j] Apache Seata: Deserialization of untrusted Data in Apache Seata Server,https://github.com/advisories/GHSA-g358-g2pq-c46j,https://da.gd/iHjw6
