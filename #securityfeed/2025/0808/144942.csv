@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rxp7-9q75-vj3p] OpenBao Login MFA Bypass of Rate Limiting and TOTP Token Reuse,https://github.com/advisories/GHSA-rxp7-9q75-vj3p,https://da.gd/c0Ah2
+GithubAdvisories,[GHSA-f7c3-mhj2-9pvg] OpenBao TOTP Secrets Engine Code Reuse,https://github.com/advisories/GHSA-f7c3-mhj2-9pvg,https://da.gd/Tvo0kp
+GithubAdvisories,[GHSA-hh28-h22f-8357] OpenBao has a Timing Side-Channel in the Userpass Auth Method,https://github.com/advisories/GHSA-hh28-h22f-8357,https://da.gd/7Prhj
+GithubAdvisories,[GHSA-j3xv-7fxp-gfhx] OpenBao Userpass and LDAP User Lockout Bypass,https://github.com/advisories/GHSA-j3xv-7fxp-gfhx,https://da.gd/r1Z65
+GithubAdvisories,[GHSA-xp75-r577-cvhp] Privileged OpenBao Operator May Execute Code on the Underlying Host,https://github.com/advisories/GHSA-xp75-r577-cvhp,https://da.gd/2P8zh
+GithubAdvisories,[GHSA-vf84-mxrq-crqc] OpenBao Root Namespace Operator May Elevate Token Privileges,https://github.com/advisories/GHSA-vf84-mxrq-crqc,https://da.gd/3r55P
+GithubAdvisories,[GHSA-6jcc-xgcr-q3h4] @fedify/fedify has Improper Authentication and Incorrect Authorization,https://github.com/advisories/GHSA-6jcc-xgcr-q3h4,https://da.gd/fvDk9g
