@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g4px-6qhm-hqjm] Apache CXF: Untrusted JMS configuration can lead to RCE,https://github.com/advisories/GHSA-g4px-6qhm-hqjm,https://da.gd/2zYk0K
