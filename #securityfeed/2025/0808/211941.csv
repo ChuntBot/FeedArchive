@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3mfq-fp2f-vwqh] Liferay Portal and Liferay DXP Workflow Component Does Not Check User Permissions,https://github.com/advisories/GHSA-3mfq-fp2f-vwqh,https://da.gd/IAJgC5
+GithubAdvisories,[GHSA-j663-6jpj-xx8c] Liferay Portal and Liferay DXP Vulnerable to XSS in the Fragment Components,https://github.com/advisories/GHSA-j663-6jpj-xx8c,https://da.gd/RCbULA
+GithubAdvisories,[GHSA-g44j-f8wm-6622] Liferay Portal and Liferay DXP Vulnerable to Stored XSS in the Manage Vocabulary Page,https://github.com/advisories/GHSA-g44j-f8wm-6622,https://da.gd/a3cvX
+GithubAdvisories,[GHSA-w2g3-j73q-7qv7] Liferay Portal and Liferay DXP Vulnerable to Reflected XSS via the Export for Translation Page,https://github.com/advisories/GHSA-w2g3-j73q-7qv7,https://da.gd/TMHn
+GithubAdvisories,[GHSA-xph3-vjcq-g488] Liferay Portal and Liferay DXP Organization Selector Does Not Check User Permissions,https://github.com/advisories/GHSA-xph3-vjcq-g488,https://da.gd/QI55qg
+GithubAdvisories,[GHSA-qxf6-mp24-52cv] Liferay Portal and Liferay DXP Vulnerable to XSS via the Layout Module,https://github.com/advisories/GHSA-qxf6-mp24-52cv,https://da.gd/ZqlzW
+GithubAdvisories,[GHSA-p2fc-xxr8-fw3p] Liferay Portal and Liferay DXP Vulnerable to CSRF via the Layout Module,https://github.com/advisories/GHSA-p2fc-xxr8-fw3p,https://da.gd/5rWhd
+GithubAdvisories,[GHSA-22w7-m5f8-87vh] Liferay Portal and Liferay DXP Vulnerable to Open Redirect via the Layout Module,https://github.com/advisories/GHSA-22w7-m5f8-87vh,https://da.gd/slDJzH
+GithubAdvisories,[GHSA-gxxj-fhmr-37j9] Liferay Portal and Liferay DXP Vulnerable to SQL Injection via the Layout Module,https://github.com/advisories/GHSA-gxxj-fhmr-37j9,https://da.gd/DMKA
+GithubAdvisories,[GHSA-wjfm-qxg2-q679] Liferay Portal and Liferay DXP Vulnerable to XSS via the Commerce Module,https://github.com/advisories/GHSA-wjfm-qxg2-q679,https://da.gd/8ZDxR
+GithubAdvisories,[GHSA-mr77-4pm4-x9vm] Liferay Portal and Liferay DXP Vulnerable to XSS via the Portal Search Module,https://github.com/advisories/GHSA-mr77-4pm4-x9vm,https://da.gd/qzOPCX
+GithubAdvisories,[GHSA-2qwm-9mg5-jwq8] Liferay Portal and Liferay DXP Vulnerable to XSS via the Announcements Module,https://github.com/advisories/GHSA-2qwm-9mg5-jwq8,https://da.gd/LQpFBu
+GithubAdvisories,[GHSA-p768-r2m2-8vjr] Liferay Portal and Liferay DXP Vulnerable to XSS via the Sharing Module,https://github.com/advisories/GHSA-p768-r2m2-8vjr,https://da.gd/nFIBcx
+GithubAdvisories,[GHSA-hq29-vqg6-pjpw] Liferay Portal Vulnerable to XSS in Profile Search Functionality,https://github.com/advisories/GHSA-hq29-vqg6-pjpw,https://da.gd/3wglVb
