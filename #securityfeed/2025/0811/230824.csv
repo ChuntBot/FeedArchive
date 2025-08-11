@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-674p-xv2x-rf3g] Litestar has potential log injection in exception logging,https://github.com/advisories/GHSA-674p-xv2x-rf3g,https://da.gd/vAz8
+GithubAdvisories,[GHSA-cmpr-8prq-w5p5] Mattermost Confluence Plugin has Missing Authorization vulnerability,https://github.com/advisories/GHSA-cmpr-8prq-w5p5,https://da.gd/yihWHq
+GithubAdvisories,[GHSA-rfg4-2m63-fw2q] Mattermost Confluence Plugin has Missing Authorization vulnerability,https://github.com/advisories/GHSA-rfg4-2m63-fw2q,https://da.gd/aPQJC
+GithubAdvisories,[GHSA-vpcr-fqpc-386h] Mattermost Confluence Plugin has Missing Authorization vulnerability,https://github.com/advisories/GHSA-vpcr-fqpc-386h,https://da.gd/cdpA1x
+GithubAdvisories,[GHSA-qx2v-8332-m4fv] slab allows out-of-bounds access in `get_disjoint_mut` due to incorrect bounds check,https://github.com/advisories/GHSA-qx2v-8332-m4fv,https://da.gd/qKNmKN
