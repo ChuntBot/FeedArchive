@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,openSUSE: Chromium Important Security Update CVE-2025-54874,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-0292-1-important-chromium-hwxemskvevzz,https://da.gd/fyv659
+LinuxSecurity,SUSE: libgcrypt Moderate Timing Attack CVE-2024-2236 Fix 2025:02756-1,https://linuxsecurity.com/advisories/suse/suse-2025-02756-1-moderate-libgcrypt-o9j6fhymcmcp,https://da.gd/fsYO
+LinuxSecurity,openSUSE: libxml2 Critical Buffer Overflow Patch 2025:03614-2,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-02758-1-important-libxml2-eiyjy6vh2uzq,https://da.gd/wyPgW
+LinuxSecurity,SUSE: libxml2 Important CVE-2025-7425 Use-After-Free Issue 2025:02758-1,https://linuxsecurity.com/advisories/suse/suse-2025-02758-1-important-libxml2-hggbqyqf7bnx,https://da.gd/iJF3
