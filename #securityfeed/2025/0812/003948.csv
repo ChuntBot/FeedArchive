@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r3v7-pc4g-7xp9] Oak Server has ReDoS in x-forwarded-proto and x-forwarded-for headers,https://github.com/advisories/GHSA-r3v7-pc4g-7xp9,https://da.gd/UNFeu
+GithubAdvisories,[GHSA-9gvj-pp9x-gcfr] Picklescan has pickle parsing logic flaw that leads to malicious pickle file bypass,https://github.com/advisories/GHSA-9gvj-pp9x-gcfr,https://da.gd/eGFZt1
+GithubAdvisories,[GHSA-pwh4-6r3m-j2rf] PyLoad vulnerable to SQL Injection via API /json/add_package in add_links parameter,https://github.com/advisories/GHSA-pwh4-6r3m-j2rf,https://da.gd/JCYSNL
+GithubAdvisories,[GHSA-jhmr-57cj-q6g9] Komari vulnerable to 2FA Authentication Bypass,https://github.com/advisories/GHSA-jhmr-57cj-q6g9,https://da.gd/yPidV
+GithubAdvisories,[GHSA-q355-h244-969h] Komari vulnerable to Cross-site WebSocket Hijacking,https://github.com/advisories/GHSA-q355-h244-969h,https://da.gd/yxrsm9
+GithubAdvisories,[GHSA-c6g5-g6r7-q4j6] Liferay Portal and Liferay DXP vulnerable to Server-Side Request Forgery,https://github.com/advisories/GHSA-c6g5-g6r7-q4j6,https://da.gd/mJHI
+GithubAdvisories,"[GHSA-xcxh-6cv4-q8p8] HFS user adding a ""web link"" in HFS is vulnerable to ""target=_blank"" exploit",https://github.com/advisories/GHSA-xcxh-6cv4-q8p8,https://da.gd/3GcAeF
+GithubAdvisories,[GHSA-qpjq-c5hr-7925] Mattermost Confluence Plugin is Missing Authentication for Critical Function,https://github.com/advisories/GHSA-qpjq-c5hr-7925,https://da.gd/jjiEj
