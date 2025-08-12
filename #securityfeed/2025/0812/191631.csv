@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f9hx-c6jf-3qxm] ExecuTorch out-of-bounds access vulnerability,https://github.com/advisories/GHSA-f9hx-c6jf-3qxm,https://da.gd/2dtkJ
+GithubAdvisories,[GHSA-xc7w-r669-48pf] ExecuTorch vulnerable to Heap-based Buffer Overflow,https://github.com/advisories/GHSA-xc7w-r669-48pf,https://da.gd/oLtpK
+GithubAdvisories,[GHSA-9m39-3mf3-xwch] ExecuTorch heap buffer overflow vulnerability,https://github.com/advisories/GHSA-9m39-3mf3-xwch,https://da.gd/FzKtj
+GithubAdvisories,[GHSA-84m3-f99p-cqx5] ExecuTorch integer overflow vulnerability,https://github.com/advisories/GHSA-84m3-f99p-cqx5,https://da.gd/SXzS0l
+GithubAdvisories,[GHSA-hj95-mhgf-jxc4] ExecuTorch integer overflow vulnerability,https://github.com/advisories/GHSA-hj95-mhgf-jxc4,https://da.gd/fgLXM
