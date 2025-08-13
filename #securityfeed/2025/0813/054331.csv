@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42: matrix-synapse 1.135.2 Security Advisory FEDORA-2025-9e0e3043af,https://linuxsecurity.com/advisories/fedora/fedora-42-matrix-synapse-2025-9e0e3043af-l3rmnl1hqgx5,https://da.gd/hruE9
+LinuxSecurity,Fedora 42: python3-docs Important Infinite Loop Fix FEDORA-2025-1a9ad70c05,https://linuxsecurity.com/advisories/fedora/fedora-42-python3-docs-2025-1a9ad70c05-k9hgo6h8fabt,https://da.gd/XeLy
+LinuxSecurity,Fedora 42: python3.13 Important Tarfile Infinite Loop Fix CVE-2025-8194,https://linuxsecurity.com/advisories/fedora/fedora-42-python3-13-2025-1a9ad70c05-ng0rwurtw3qf,https://da.gd/Dy2R3Q
+LinuxSecurity,Fedora 42: glib2 Critical Buffer Under-read Fix RHSA-2025:0011,https://linuxsecurity.com/advisories/fedora/fedora-42-glib2-2025-16acfe9927-0u7jhm3fnt2u,https://da.gd/AeGXW
+LinuxSecurity,Debian LTS: linux-6.1 Major Privilege Escalation and DoS Risk DLA-4271-1,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4271-1-linux-6-1-security-update-i6oo864t3tkn,https://da.gd/Hv7GXX
