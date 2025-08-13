@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-76r7-hhxj-r776] Active Record logging vulnerable to ANSI escape injection,https://github.com/advisories/GHSA-76r7-hhxj-r776,https://da.gd/zboHo
