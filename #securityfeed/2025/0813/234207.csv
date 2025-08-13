@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-23hv-mwm6-g8jf] Apache Tomcat Session Fixation vulnerability,https://github.com/advisories/GHSA-23hv-mwm6-g8jf,https://da.gd/o6yAG
+GithubAdvisories,[GHSA-vq9x-w82r-rhmc] Soosyze CMS's /user/login endpoint missing rate-limiting and lockout mechanisms,https://github.com/advisories/GHSA-vq9x-w82r-rhmc,https://da.gd/sArA
