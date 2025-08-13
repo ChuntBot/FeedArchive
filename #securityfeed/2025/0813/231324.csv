@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gqp3-2cvr-x8m3] Apache Tomcat Improper Resource Shutdown or Release vulnerability,https://github.com/advisories/GHSA-gqp3-2cvr-x8m3,https://da.gd/NfGMM
+GithubAdvisories,[GHSA-x6gv-2rvh-qmp6] m00nl1ght-dev/steam-workshop-deploy: Exposure of Version-Control Repository to an Unauthorized Control Sphere and Insufficiently Protected Credentials,https://github.com/advisories/GHSA-x6gv-2rvh-qmp6,https://da.gd/jemcQP
+GithubAdvisories,"[GHSA-4cx2-fc23-5wg6] Bouncy Castle for Java bcpkix, bcprov, bcpkix-fips on All (API modules) allows Excessive Allocation",https://github.com/advisories/GHSA-4cx2-fc23-5wg6,https://da.gd/0AL6G
