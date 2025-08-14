@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fxgf-3xh6-m2pp] Apache Superset has bypass of `DISALLOWED_SQL_FUNCTIONS` that allows execution of blocked SQL functions,https://github.com/advisories/GHSA-fxgf-3xh6-m2pp,https://da.gd/GGsAet
+GithubAdvisories,[GHSA-fj97-2v9x-w5m4] Apache Superset's chart visualization has a stored Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-fj97-2v9x-w5m4,https://da.gd/gcCa2y
+GithubAdvisories,[GHSA-2vv2-3x8x-4gv7] Flowise OS command remote code execution,https://github.com/advisories/GHSA-2vv2-3x8x-4gv7,https://da.gd/GVMN4
