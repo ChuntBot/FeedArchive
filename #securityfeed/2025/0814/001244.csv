@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r4mg-4433-c7g3] Active Storage allowed transformation methods that were potentially unsafe,https://github.com/advisories/GHSA-r4mg-4433-c7g3,https://da.gd/3ft1Z8
+GithubAdvisories,[GHSA-f9f8-9pmf-xv68] Helm May Panic Due To Incorrect YAML Content,https://github.com/advisories/GHSA-f9f8-9pmf-xv68,https://da.gd/GyO0FD
+GithubAdvisories,[GHSA-9h84-qmv7-982p] Helm Charts with Specific JSON Schema Values Can Cause Memory Exhaustion,https://github.com/advisories/GHSA-9h84-qmv7-982p,https://da.gd/XHKuK
+GithubAdvisories,[GHSA-p3qf-84rg-jxfc] OliveTin OS Command Injection vulnerability,https://github.com/advisories/GHSA-p3qf-84rg-jxfc,https://da.gd/gnYLZ
+GithubAdvisories,[GHSA-xvr7-p2c6-j83w] swift-nio-http2 affected by HTTP/2 MadeYouReset vulnerability,https://github.com/advisories/GHSA-xvr7-p2c6-j83w,https://da.gd/VTQRTb
