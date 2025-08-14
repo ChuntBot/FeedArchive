@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wm7x-ww72-r77q] Information Disclosure in Amazon ECS Container Agent,https://github.com/advisories/GHSA-wm7x-ww72-r77q,https://da.gd/XfqlwR
+GithubAdvisories,[GHSA-mhpq-m962-mg92] Apache Superset allows authenticated users to discover metadata about datasources they don't have permission to access,https://github.com/advisories/GHSA-mhpq-m962-mg92,https://da.gd/EjZ2P
