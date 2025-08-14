@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-j26p-6wx7-f3pw] Youki: If /proc and /sys in the rootfs are symbolic links, they can potentially be exploited to gain access to the host root filesystem",https://github.com/advisories/GHSA-j26p-6wx7-f3pw,https://da.gd/GUn0wE
