@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9g5x-mm39-wg9r] Apache Superset data query improperly discloses database schema information to low-privileged guest user,https://github.com/advisories/GHSA-9g5x-mm39-wg9r,https://da.gd/qGU28t
