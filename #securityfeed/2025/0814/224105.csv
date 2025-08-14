@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-77h3-w9rx-hj3q] User-defined implementations of the safe trait scratchpad::Tracking can cause heap buffer overflows,https://github.com/advisories/GHSA-77h3-w9rx-hj3q,https://da.gd/5oOCSm
