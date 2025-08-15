@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9x9c-ghc5-jhw9] @astrojs/node's trailing slash handling causes open redirect issue,https://github.com/advisories/GHSA-9x9c-ghc5-jhw9,https://da.gd/UU6e
