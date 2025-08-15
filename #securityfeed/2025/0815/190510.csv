@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3x3q-ghcp-whf7] Template Secret leakage in logs in Scaffolder when using `fetch:template`,https://github.com/advisories/GHSA-3x3q-ghcp-whf7,https://da.gd/qZ7jeV
