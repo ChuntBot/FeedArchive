@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p7q8-grrj-3m8w] Copier's safe template has filesystem write access outside destination path,https://github.com/advisories/GHSA-p7q8-grrj-3m8w,https://da.gd/DxHioh
+GithubAdvisories,[GHSA-mgh9-4mwp-fg55] OpenFGA Authorization Bypass,https://github.com/advisories/GHSA-mgh9-4mwp-fg55,https://da.gd/4BvrK
+GithubAdvisories,"[GHSA-fcpm-6mxq-m5vv] Capsule tenant owners with ""patch namespace"" permission can hijack system namespaces label",https://github.com/advisories/GHSA-fcpm-6mxq-m5vv,https://da.gd/wyQikU
+GithubAdvisories,[GHSA-3xw7-v6cj-5q8h] Copier's safe template has arbitrary filesystem read/write access,https://github.com/advisories/GHSA-3xw7-v6cj-5q8h,https://da.gd/8bIFD
