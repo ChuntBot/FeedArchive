@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3p2m-574v-v257] Liferay Portal Vulnerable to Cross-Site Scripting,https://github.com/advisories/GHSA-3p2m-574v-v257,https://da.gd/nSltN2
+GithubAdvisories,[GHSA-g4wg-mpfg-x2q6] Liferay Portal Login Bypass Vulnerability,https://github.com/advisories/GHSA-g4wg-mpfg-x2q6,https://da.gd/m8GB6e
+GithubAdvisories,[GHSA-v6xr-v2qg-h22h] Liferay Portal Vulnerable to Insecure Direct Object Reference,https://github.com/advisories/GHSA-v6xr-v2qg-h22h,https://da.gd/4QKFTL
