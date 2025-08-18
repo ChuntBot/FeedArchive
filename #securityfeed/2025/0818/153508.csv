@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wjrx-6529-hcj3] HashiCorp go-getter Vulnerable to Symlink Attacks,https://github.com/advisories/GHSA-wjrx-6529-hcj3,https://da.gd/CodIg
+GithubAdvisories,[GHSA-qq4c-hm99-979m] IdMap from_iter may lead to uninitialized memory being freed on drop,https://github.com/advisories/GHSA-qq4c-hm99-979m,https://da.gd/YaFW
