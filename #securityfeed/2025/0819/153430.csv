@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hfmv-hhh3-43f2] Stored XSS in n8n Form Trigger allows Account Takeover via injected iframe and video/source,https://github.com/advisories/GHSA-hfmv-hhh3-43f2,https://da.gd/kmNvI
