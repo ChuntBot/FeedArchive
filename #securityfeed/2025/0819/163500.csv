@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xfp8-x3j6-h67v] ExpressGateway Cross-Site Scripting Vulnerability in lib/rest/routes/apps.js,https://github.com/advisories/GHSA-xfp8-x3j6-h67v,https://da.gd/oYIM2
+GithubAdvisories,[GHSA-q4rg-7cjj-5r86] ExpressGateway Cross-Site Scripting Vulnerability in lib/rest/routes/users.js,https://github.com/advisories/GHSA-q4rg-7cjj-5r86,https://da.gd/vkvdd2
