@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gjx4-2c7g-fm94] screenshot-desktop vulnerable to command Injection via `format` option,https://github.com/advisories/GHSA-gjx4-2c7g-fm94,https://da.gd/oAgiqB
+GithubAdvisories,[GHSA-7rqq-prvp-x9jh] Mermaid improperly sanitizes sequence diagram labels leading to XSS,https://github.com/advisories/GHSA-7rqq-prvp-x9jh,https://da.gd/EvVIb9
+GithubAdvisories,[GHSA-8gwm-58g9-j8pw] Mermaid does not properly sanitize architecture diagram iconText leading to XSS,https://github.com/advisories/GHSA-8gwm-58g9-j8pw,https://da.gd/4pGDU
