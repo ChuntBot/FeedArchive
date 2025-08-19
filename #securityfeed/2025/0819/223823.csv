@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pr72-8fxw-xx22] Default Credentials in nginx-defender Configuration Files,https://github.com/advisories/GHSA-pr72-8fxw-xx22,https://da.gd/19JL1U
+GithubAdvisories,[GHSA-cwgh-r52j-xh6c] Liferay Portal Reflected Cross-Site Scripting Vulnerability in displayType Parameter,https://github.com/advisories/GHSA-cwgh-r52j-xh6c,https://da.gd/YlMl6
+GithubAdvisories,[GHSA-7mxq-h2r7-h449] Liferay Portal Email Modification Vulnerability via Calendar Portlet,https://github.com/advisories/GHSA-7mxq-h2r7-h449,https://da.gd/6OZoI6
+GithubAdvisories,[GHSA-22jp-w3cg-gvmm] Liferay Portal has Stored Cross-Site Scripting Vulnerability via Message Boards Feature,https://github.com/advisories/GHSA-22jp-w3cg-gvmm,https://da.gd/Ffkni
