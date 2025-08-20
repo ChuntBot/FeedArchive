@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mmxm-8w33-wc4h] Eclipse Jetty affected by MadeYouReset HTTP/2 vulnerability,https://github.com/advisories/GHSA-mmxm-8w33-wc4h,https://da.gd/6kFClq
+GithubAdvisories,[GHSA-3j63-5h8p-gf7c] x402 SDK vulnerable in outdated versions in resource servers for builders,https://github.com/advisories/GHSA-3j63-5h8p-gf7c,https://da.gd/BIXz3
+GithubAdvisories,[GHSA-p9gc-59hf-x48p] Liferay Portal Vulnerable to Cross-Site Request Forgery,https://github.com/advisories/GHSA-p9gc-59hf-x48p,https://da.gd/vhYpz
+GithubAdvisories,[GHSA-f9qj-4c5x-cpcw] elysia-cors Origin Validation Error,https://github.com/advisories/GHSA-f9qj-4c5x-cpcw,https://da.gd/JDuGX
+GithubAdvisories,[GHSA-5fx5-cff6-f3fp] Liferay Portal Unauthenticated File Access via URL,https://github.com/advisories/GHSA-5fx5-cff6-f3fp,https://da.gd/06APx
+GithubAdvisories,[GHSA-56qj-wp5r-mvhj] Liferay Portal Unvalidated File Upload,https://github.com/advisories/GHSA-56qj-wp5r-mvhj,https://da.gd/CHAPV
+GithubAdvisories,[GHSA-j6p8-g3rj-ghpm] Liferay Portal Vulnerable to Cross-Site Scripting via assetTagNames Parameter,https://github.com/advisories/GHSA-j6p8-g3rj-ghpm,https://da.gd/L5T9DR
+GithubAdvisories,[GHSA-3fp2-6mwq-4q3j] Liferay Portal Vulnerable to Cross-Site Scripting through URLs,https://github.com/advisories/GHSA-3fp2-6mwq-4q3j,https://da.gd/cULw
+GithubAdvisories,[GHSA-m49p-6cjp-x2h3] Liferay Portal Vulnerable to Cross-Site Scripting via DDM Structure Field Labels,https://github.com/advisories/GHSA-m49p-6cjp-x2h3,https://da.gd/ZlqwF3
