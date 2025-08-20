@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8f93-j3fx-72f3] CRI-O has Potential High Memory Consumption from File Read,https://github.com/advisories/GHSA-8f93-j3fx-72f3,https://da.gd/C6idH
+GithubAdvisories,"[GHSA-ggjm-f3g4-rwmm] n8n symlink traversal vulnerability in ""Read/Write File"" node allows access to restricted files",https://github.com/advisories/GHSA-ggjm-f3g4-rwmm,https://da.gd/dPiB8
+GithubAdvisories,[GHSA-hf86-8x8v-h7vc] Apache EventMesh Vulnerable to Server-Side Request Forgery in WebhookUtil.java,https://github.com/advisories/GHSA-hf86-8x8v-h7vc,https://da.gd/VWfkT
+GithubAdvisories,[GHSA-mv33-9f6j-pfmc] Directus allows unauthenticated file upload and file modification due to lacking input sanitization,https://github.com/advisories/GHSA-mv33-9f6j-pfmc,https://da.gd/l4Lj9
+GithubAdvisories,[GHSA-g4vp-4gqr-7v8c] Liferay Portal Enumeration Discrepancy in Calendars,https://github.com/advisories/GHSA-g4vp-4gqr-7v8c,https://da.gd/gcBEAc
+GithubAdvisories,[GHSA-vjwr-cqwf-6q96] Liferay Portal Vulnerable to Cross-Site Scripting via backURL Paramter,https://github.com/advisories/GHSA-vjwr-cqwf-6q96,https://da.gd/BjtLWK
+GithubAdvisories,[GHSA-7q33-gwcm-r6cj] Liferay Portal CSRF Vulnerability via Endpoint Parameter,https://github.com/advisories/GHSA-7q33-gwcm-r6cj,https://da.gd/9eMrAi
+GithubAdvisories,[GHSA-rh9f-gr6q-mpc4] moonshine Stored Cross-Site Scripting Vulnerability in Create Admin,https://github.com/advisories/GHSA-rh9f-gr6q-mpc4,https://da.gd/Lsj4v
+GithubAdvisories,[GHSA-p632-58pp-c9xg] moonshine Stored Cross-Site Scripting Vulnerability in Create Article,https://github.com/advisories/GHSA-p632-58pp-c9xg,https://da.gd/mLkuU
