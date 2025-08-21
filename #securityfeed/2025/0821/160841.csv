@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x67c-v8jr-p29r] Mattermost Fails to Sanitize Path Traversal Sequences,https://github.com/advisories/GHSA-x67c-v8jr-p29r,https://da.gd/LSeu9
+GithubAdvisories,[GHSA-q453-638c-h4mr] Mattermost Fails to Validate Remote Cluster Upload Sessions,https://github.com/advisories/GHSA-q453-638c-h4mr,https://da.gd/NNWbrZ
+GithubAdvisories,[GHSA-4276-cm8c-788h] Mattermost Fails to Properly Validate Team Role Modification,https://github.com/advisories/GHSA-4276-cm8c-788h,https://da.gd/NdINW
+GithubAdvisories,[GHSA-pwvr-grqg-7vp2] Mattermost Lack of Access Control Validation,https://github.com/advisories/GHSA-pwvr-grqg-7vp2,https://da.gd/rOGX
+GithubAdvisories,[GHSA-qj47-w9f2-qg44] Mattermost Does Not Sanitize the Team Invite ID,https://github.com/advisories/GHSA-qj47-w9f2-qg44,https://da.gd/hgvq1I
+GithubAdvisories,[GHSA-vqwh-5jhh-vc9p] Mattermost Server SSRF Vulnerability via the Agents Plugin,https://github.com/advisories/GHSA-vqwh-5jhh-vc9p,https://da.gd/yhPwX5
