@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gq3r-5833-5532] Mattermost Fails to Validate File Paths,https://github.com/advisories/GHSA-gq3r-5833-5532,https://da.gd/VdWPG
+GithubAdvisories,[GHSA-xh9h-692f-mmg4] Microsoft Knack ReDoS Vulnerability in the Introspection Module,https://github.com/advisories/GHSA-xh9h-692f-mmg4,https://da.gd/46E5fu
+GithubAdvisories,[GHSA-6fxp-p9mg-q64w] Microsoft Knack ReDoS Vulnerability in the Introspection Module,https://github.com/advisories/GHSA-6fxp-p9mg-q64w,https://da.gd/rzUDV
+GithubAdvisories,[GHSA-8hmm-4crw-vm2c] @musistudio/claude-code-router has improper CORS configuration,https://github.com/advisories/GHSA-8hmm-4crw-vm2c,https://da.gd/O3L8Op
+GithubAdvisories,[GHSA-pp7p-q8fx-2968] vite-plugin-static-copy files not included in `src` are possible to access with a crafted request,https://github.com/advisories/GHSA-pp7p-q8fx-2968,https://da.gd/4WFSO
+GithubAdvisories,[GHSA-p6rm-483j-37jf] wong2 mcp-cli Command Injection Vulnerability,https://github.com/advisories/GHSA-p6rm-483j-37jf,https://da.gd/kki89
+GithubAdvisories,[GHSA-95m3-7q98-8xr5] sha.js is missing type checks leading to hash rewind and passing on crafted data,https://github.com/advisories/GHSA-95m3-7q98-8xr5,https://da.gd/Xi3Bb
+GithubAdvisories,"[GHSA-cpq7-6gpm-g9rc] cipher-base is missing type checks, leading to hash rewind and passing on crafted data",https://github.com/advisories/GHSA-cpq7-6gpm-g9rc,https://da.gd/ZkPKy9
+GithubAdvisories,[GHSA-79j6-g2m3-jgfw] vLLM has remote code execution vulnerability in the tool call parser for Qwen3-Coder,https://github.com/advisories/GHSA-79j6-g2m3-jgfw,https://da.gd/0l70Q
