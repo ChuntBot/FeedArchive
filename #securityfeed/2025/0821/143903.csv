@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2464-8j7c-4cjm] go-viper's mapstructure May Leak Sensitive Information in Logs When Processing Malformed Data,https://github.com/advisories/GHSA-2464-8j7c-4cjm,https://da.gd/9BCn
+GithubAdvisories,[GHSA-p72g-pv48-7w9x] Apache Tika XXE Vulnerability via Crafted XFA File Inside a PDF,https://github.com/advisories/GHSA-p72g-pv48-7w9x,https://da.gd/Ld7BAr
+GithubAdvisories,[GHSA-62pf-hcwj-rcfc] Liferay Portal Vulnerable to Cross-Site Scripting via DDMPortlet_definition Parameter,https://github.com/advisories/GHSA-62pf-hcwj-rcfc,https://da.gd/FOZ7
+GithubAdvisories,[GHSA-mpww-r37c-vxjw] Liferay Portal Vulnerable to Cross-Site Scripting in Dynamic Data Mapping,https://github.com/advisories/GHSA-mpww-r37c-vxjw,https://da.gd/cQoGe
+GithubAdvisories,[GHSA-287x-6r2h-f9mw] UnoPim vulnerable to CSRF on Product edit feature and creation of other types,https://github.com/advisories/GHSA-287x-6r2h-f9mw,https://da.gd/mdzKTG
+GithubAdvisories,[GHSA-v22v-xwh7-2vrm] UnoPim vulnerable to remote code execution through Arbitrary File upload,https://github.com/advisories/GHSA-v22v-xwh7-2vrm,https://da.gd/Kn04R
+GithubAdvisories,[GHSA-xr97-25v7-hc2q] UnoPim has Stored Cross-site Scripting vulnerability in user creation functionality,https://github.com/advisories/GHSA-xr97-25v7-hc2q,https://da.gd/uGT0u8
+GithubAdvisories,[GHSA-rxc4-3w6r-4v47] vllm API endpoints vulnerable to Denial of Service Attacks,https://github.com/advisories/GHSA-rxc4-3w6r-4v47,https://da.gd/qT1z
