@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fvqv-593q-qp8r] Liferay Portal Reflected Cross-Site Scripting Vulnerability via PortalUtil.escapeRedirect,https://github.com/advisories/GHSA-fvqv-593q-qp8r,https://da.gd/HK1Jqm
+GithubAdvisories,[GHSA-xwc5-q44v-p6gg] Liferay Portal User Enumeration Vulnerability via the Create Account Page,https://github.com/advisories/GHSA-xwc5-q44v-p6gg,https://da.gd/yRRuoc
