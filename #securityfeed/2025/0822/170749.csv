@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pj6f-rc94-gw53] Mattermost Fails to Sanitize File Names,https://github.com/advisories/GHSA-pj6f-rc94-gw53,https://da.gd/rhDoOy
+GithubAdvisories,[GHSA-vv6j-3g6g-2pvj] Picklescan missing detection when calling pytorch function torch.utils._config_module.load_config,https://github.com/advisories/GHSA-vv6j-3g6g-2pvj,https://da.gd/aAuV9
+GithubAdvisories,[GHSA-vr7h-p6mm-wpmh] Picklescan missing detection when calling pytorch function torch.jit.unsupported_tensor_ops.execWrapper,https://github.com/advisories/GHSA-vr7h-p6mm-wpmh,https://da.gd/b4RdBT
+GithubAdvisories,[GHSA-h3qp-7fh3-f8h4] Picklescan missing detection when calling pytorch function torch.utils.data.datapipes.utils.decoder.basichandlers,https://github.com/advisories/GHSA-h3qp-7fh3-f8h4,https://da.gd/RxgVz
+GithubAdvisories,[GHSA-f745-w6jp-hpxx] Picklescan missing detection when calling pytorch function torch.utils.collect_env.run,https://github.com/advisories/GHSA-f745-w6jp-hpxx,https://da.gd/R4pmg
+GithubAdvisories,[GHSA-f4x7-rfwp-v3xw] Picklescan missing detection when calling pytorch function torch.fx.experimental.symbolic_shapes.ShapeEnv.evaluate_guards_expression,https://github.com/advisories/GHSA-f4x7-rfwp-v3xw,https://da.gd/22pp
+GithubAdvisories,[GHSA-86cj-95qr-2p4f] Picklescan missing detection when calling pytorch function torch._dynamo.guards.GuardBuilder.get,https://github.com/advisories/GHSA-86cj-95qr-2p4f,https://da.gd/45wyv2
+GithubAdvisories,[GHSA-4r9r-ch6f-vxmx] Picklescan missing detection when calling pytorch function torch.utils.bottleneck.__main__.run_cprofile,https://github.com/advisories/GHSA-4r9r-ch6f-vxmx,https://da.gd/LDXt
+GithubAdvisories,[GHSA-58cq-8wm2-6m87] Liferay Portal Stored Cross-Site Scripting Vulnerability via GroupPagesPortlet_type Parameter,https://github.com/advisories/GHSA-58cq-8wm2-6m87,https://da.gd/Q61vMm
+GithubAdvisories,[GHSA-q2gv-w583-f2vq] Liferay Portal Reflected Cross-Site Scripting Vulnerability via snippet Parameter,https://github.com/advisories/GHSA-q2gv-w583-f2vq,https://da.gd/m3rkrO
+GithubAdvisories,[GHSA-x7p4-v8mj-6fxx] Liferay Portal Username Enumeration Vulnerability,https://github.com/advisories/GHSA-x7p4-v8mj-6fxx,https://da.gd/q8Clwk
+GithubAdvisories,[GHSA-r367-q549-pgr5] Liferay Portal Reflected Cross-Site Scripting Vulnerability via Form Container,https://github.com/advisories/GHSA-r367-q549-pgr5,https://da.gd/8XN9ki
+GithubAdvisories,[GHSA-qpp6-f3qj-rggq] Liferay Portal's Unlimited File Upload Could Result in DoS,https://github.com/advisories/GHSA-qpp6-f3qj-rggq,https://da.gd/sPZHJo
+GithubAdvisories,[GHSA-74rg-6f92-g6wx] UnoPim has CSV Injection on Quick Export feature,https://github.com/advisories/GHSA-74rg-6f92-g6wx,https://da.gd/TJ2zo
+GithubAdvisories,[GHSA-8p2f-fx4q-75cx] UnoPim has Broken Access Control,https://github.com/advisories/GHSA-8p2f-fx4q-75cx,https://da.gd/Sy0Wz3
+GithubAdvisories,[GHSA-gcqf-pxgg-gw8q] Dpanel has an arbitrary file read vulnerability,https://github.com/advisories/GHSA-gcqf-pxgg-gw8q,https://da.gd/9fzAi
