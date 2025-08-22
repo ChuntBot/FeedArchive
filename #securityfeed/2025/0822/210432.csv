@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-95v9-hv42-pwrj] gnark is vulnerable to signature malleability in EdDSA and ECDSA due to missing scalar checks,https://github.com/advisories/GHSA-95v9-hv42-pwrj,https://da.gd/3pzoi
+GithubAdvisories,[GHSA-gj8w-ffq9-6828] JeecgBoot SQL Injection Vulnerability,https://github.com/advisories/GHSA-gj8w-ffq9-6828,https://da.gd/6MuE
