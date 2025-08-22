@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jfcv-jv9g-2vx2] Bouncy Castle for Java has Uncontrolled Resource Consumption Vulnerability,https://github.com/advisories/GHSA-jfcv-jv9g-2vx2,https://da.gd/HHAP1n
+GithubAdvisories,[GHSA-g6rx-6wfx-gj74] Bouncy Castle for Java has Out-of-Bounds Write Vulnerability,https://github.com/advisories/GHSA-g6rx-6wfx-gj74,https://da.gd/kgD4F
+GithubAdvisories,[GHSA-48cg-9c55-j2q7] hippo4j Includes Hard Coded Secret Key in JWT Creation,https://github.com/advisories/GHSA-48cg-9c55-j2q7,https://da.gd/DWtg
