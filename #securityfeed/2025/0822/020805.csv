@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 22.04 LTS: USN-7704-4 Linux Kernel Update Critical Issues,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7704-4-linux-kernel-nvidia-jsth8wyhr2vn,https://da.gd/qXoNw
+LinuxSecurity,Ubuntu 25.04 WEBrick Severe HTTP Request Smuggling USN-7709-1 CVE-2025-6442,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7709-1-webrick-lebzmva1ruqg,https://da.gd/rtsyV
+LinuxSecurity,Debian 5.7-2: Squid Critical Arbitrary Code Execution DSA-5982-1,https://linuxsecurity.com/advisories/debian/debian-dsa-5982-1-squid-o2wgsfvflwdb,https://da.gd/37e2Q
