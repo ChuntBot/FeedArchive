@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-655h-hg88-5qmf] Rust XCB `xcb::Connection::connect_to_fd*` functions violate I/O safety,https://github.com/advisories/GHSA-655h-hg88-5qmf,https://da.gd/DCIf1T
+GithubAdvisories,[GHSA-h469-4fcf-p23h] Mattermost has Potential Server Crash due to Unvalidated Import Data,https://github.com/advisories/GHSA-h469-4fcf-p23h,https://da.gd/3J1EE
