@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mf9q-87xx-jgvv] Liferay Portal allows unrestricted upload of file in the style books component,https://github.com/advisories/GHSA-mf9q-87xx-jgvv,https://da.gd/ahGZ
+GithubAdvisories,[GHSA-h8gx-4hhm-w45v] Liferay Portal stored cross-site scripting in text field of the web content structure,https://github.com/advisories/GHSA-h8gx-4hhm-w45v,https://da.gd/iLp0L1
+GithubAdvisories,[GHSA-23w4-rpc6-wpcc] Liferay Portal ReDoS with Role Name search in KaleoDesignerPortlet,https://github.com/advisories/GHSA-23w4-rpc6-wpcc,https://da.gd/N54d5i
+GithubAdvisories,[GHSA-6hj4-v2qp-cqr2] Liferay Portal allows open redirect in /c/portal/edit_info_item parameter redirect,https://github.com/advisories/GHSA-6hj4-v2qp-cqr2,https://da.gd/IplB1
+GithubAdvisories,[GHSA-rvmf-jw8g-r35r] Liferay Portal vulnerable to Stored XSS in Components portlet,https://github.com/advisories/GHSA-rvmf-jw8g-r35r,https://da.gd/oOYpB9
+GithubAdvisories,[GHSA-cv9j-mg9w-v7wm] Liferay Portal JSONWS API endpoint shares sensitive information,https://github.com/advisories/GHSA-cv9j-mg9w-v7wm,https://da.gd/oiMTU
+GithubAdvisories,[GHSA-847f-9342-265h] h2 allows HTTP Request Smuggling due to illegal characters in headers,https://github.com/advisories/GHSA-847f-9342-265h,https://da.gd/xjFvv
+GithubAdvisories,[GHSA-5cmr-4px5-23pc] XGrammar affected by Denial of Service by infinite recursion grammars,https://github.com/advisories/GHSA-5cmr-4px5-23pc,https://da.gd/u91jj
+GithubAdvisories,[GHSA-crcq-738g-pqvc] Craft CMS Potential Remote Code Execution via Twig SSTI,https://github.com/advisories/GHSA-crcq-738g-pqvc,https://da.gd/khxJO2
