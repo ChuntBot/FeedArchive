@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3h7r-4xxj-3mfm] Liferay Portal Reflected XSS in CKeditor 4.21.0 endpoint,https://github.com/advisories/GHSA-3h7r-4xxj-3mfm,https://da.gd/sZfP9J
+GithubAdvisories,[GHSA-h4m4-xp33-37mj] Liferay Portal vulnerable to Reflected XSS with the referer and forward parameter,https://github.com/advisories/GHSA-h4m4-xp33-37mj,https://da.gd/TiiN
