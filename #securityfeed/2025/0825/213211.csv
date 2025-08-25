@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-63cx-g855-hvv4] mitmproxy binaries embed a vulnerable python-hyper/h2 dependency,https://github.com/advisories/GHSA-63cx-g855-hvv4,https://da.gd/wE7nxb
