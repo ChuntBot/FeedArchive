@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cjc8-g9w8-chfw] imagemagick: heap-buffer overflow read in MNG magnification with alpha,https://github.com/advisories/GHSA-cjc8-g9w8-chfw,https://da.gd/epnHUP
+GithubAdvisories,[GHSA-fff3-4rp7-px97] ImageMagick has a heap-buffer-overflow,https://github.com/advisories/GHSA-fff3-4rp7-px97,https://da.gd/3FA8Dm
+GithubAdvisories,[GHSA-cfh4-9f7v-fhrc] ImageMagick has a Memory Leak in magick stream,https://github.com/advisories/GHSA-cfh4-9f7v-fhrc,https://da.gd/wwSM6
+GithubAdvisories,[GHSA-hm4x-r5hc-794f] ImageMagick has a Heap Buffer Overflow in InterpretImageFilename,https://github.com/advisories/GHSA-hm4x-r5hc-794f,https://da.gd/XC7S1P
+GithubAdvisories,[GHSA-qh3h-j545-h8c9] ImageMagick has a Stack Buffer Overflow in image.c,https://github.com/advisories/GHSA-qh3h-j545-h8c9,https://da.gd/exFEwa
