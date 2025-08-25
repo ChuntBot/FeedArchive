@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-84pp-qr92-95c9] Liferay Portal users can upload an unlimited amount of files,https://github.com/advisories/GHSA-84pp-qr92-95c9,https://da.gd/0SEv2e
+GithubAdvisories,[GHSA-mm62-gwj5-j285] Liferay Portal's unauthenticated users can access loaded files via URL before submitting the object entry,https://github.com/advisories/GHSA-mm62-gwj5-j285,https://da.gd/2qR05r
+GithubAdvisories,[GHSA-w3cr-3xw2-rp78] Liferay Portal users are able to add system admin portlets to pages,https://github.com/advisories/GHSA-w3cr-3xw2-rp78,https://da.gd/SWsaQ
