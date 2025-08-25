@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mqh4-2mm8-g7w9] Adminer PHP Object Injection issue leads to Denial of Service,https://github.com/advisories/GHSA-mqh4-2mm8-g7w9,https://da.gd/FO2nO
+GithubAdvisories,[GHSA-5c4f-pxmx-xcm4] Apache Cassandra: User with MODIFY permission on ALL KEYSPACES can escalate privileges to superuser via unsafe actions (4.0.16 only),https://github.com/advisories/GHSA-5c4f-pxmx-xcm4,https://da.gd/zRn6J
+GithubAdvisories,[GHSA-pw25-c82r-75mm] request-filtering-agent SSRF Bypass via HTTPS Requests to 127.0.0.1,https://github.com/advisories/GHSA-pw25-c82r-75mm,https://da.gd/z1rxt
