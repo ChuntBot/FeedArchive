@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rx7m-68vc-ppxh] PhpSpreadsheet vulnerable to SSRF when reading and displaying a processed HTML document in the browser,https://github.com/advisories/GHSA-rx7m-68vc-ppxh,https://da.gd/xIGAT
