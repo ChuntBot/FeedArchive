@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6hgw-6x87-578x] ImageMagick has Undefined Behavior (function-type-mismatch) in CloneSplayTree,https://github.com/advisories/GHSA-6hgw-6x87-578x,https://da.gd/wxn3p
+GithubAdvisories,[GHSA-qp29-wxp5-wh82] imagemagick: integer overflows in MNG magnification,https://github.com/advisories/GHSA-qp29-wxp5-wh82,https://da.gd/jUzk5L
+GithubAdvisories,[GHSA-4gv9-mp8m-592r] Langflow Vulnerable to Privilege Escalation via CLI Superuser Creation (Post-RCE),https://github.com/advisories/GHSA-4gv9-mp8m-592r,https://da.gd/quDEw
