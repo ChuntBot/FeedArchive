@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9ccg-6pjw-x645] ImageMagick has a Format String Bug in InterpretImageFilename leads to arbitrary code execution,https://github.com/advisories/GHSA-9ccg-6pjw-x645,https://da.gd/Ej0i
+GithubAdvisories,"[GHSA-fh55-q5pj-pxgw] ImageMagick affected by divide-by-zero in ThumbnailImage via montage -geometry "":"" leads to crash",https://github.com/advisories/GHSA-fh55-q5pj-pxgw,https://da.gd/QlkDa1
