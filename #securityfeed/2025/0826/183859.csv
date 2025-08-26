@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cj3c-v495-4xqh] Picklescan has a missing detection when calling built-in python code.InteractiveInterpreter,https://github.com/advisories/GHSA-cj3c-v495-4xqh,https://da.gd/3ldtfU
+GithubAdvisories,[GHSA-7cq8-mj8x-j263] Picklescan has a missing detection when calling built-in python idlelib.autocomplete.AutoComplete.fetch_completions,https://github.com/advisories/GHSA-7cq8-mj8x-j263,https://da.gd/3sZ6
+GithubAdvisories,[GHSA-6w4w-5w54-rjvr] Picklescan has a missing detection when calling built-in python idlelib.autocomplete.AutoComplete.get_entity,https://github.com/advisories/GHSA-6w4w-5w54-rjvr,https://da.gd/vf1jz8
+GithubAdvisories,[GHSA-3vg9-h568-4w9m] Picklescan has a missing detection when calling built-in python idlelib.debugobj.ObjectTreeItem,https://github.com/advisories/GHSA-3vg9-h568-4w9m,https://da.gd/v2CzbN
+GithubAdvisories,[GHSA-f54q-57x4-jg88] Picklescan has a missing detection when calling built-in python lib2to3.pgen2.grammar.Grammar.loads,https://github.com/advisories/GHSA-f54q-57x4-jg88,https://da.gd/Egse8
+GithubAdvisories,[GHSA-6vqj-c2q5-j97w] Picklescan has a missing detection when calling built-in python profile.Profile.runctx,https://github.com/advisories/GHSA-6vqj-c2q5-j97w,https://da.gd/mfUwx
+GithubAdvisories,[GHSA-x696-vm39-cp64] Picklescan has a missing detection when calling built-in python profile.Profile.run,https://github.com/advisories/GHSA-x696-vm39-cp64,https://da.gd/I1WppQ
+GithubAdvisories,[GHSA-g344-hcph-8vgg] Picklescan has a missing detection when calling built-in python trace.Trace.runctx,https://github.com/advisories/GHSA-g344-hcph-8vgg,https://da.gd/w3uMlD
+GithubAdvisories,[GHSA-5qwp-399c-mjwf] Picklescan has a missing detection when calling built-in python trace.Trace.run,https://github.com/advisories/GHSA-5qwp-399c-mjwf,https://da.gd/ZqBteB
