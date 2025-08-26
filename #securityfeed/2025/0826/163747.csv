@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-27r7-3m9x-r533] traQ Allows Insertion of Sensitive Information into Log File,https://github.com/advisories/GHSA-27r7-3m9x-r533,https://da.gd/CPfYAz
+GithubAdvisories,[GHSA-8mvj-3j78-4qmw] jsPDF Denial of Service (DoS),https://github.com/advisories/GHSA-8mvj-3j78-4qmw,https://da.gd/LykWD
+GithubAdvisories,[GHSA-mxvv-97wh-cfmm] ImageMagick (WriteBMPImage): 32-bit integer overflow when writing BMP scanline stride → heap buffer overflow,https://github.com/advisories/GHSA-mxvv-97wh-cfmm,https://da.gd/5Ze6DU
