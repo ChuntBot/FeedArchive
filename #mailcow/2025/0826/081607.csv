@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,pf/php: add mta-sts support (outbound) (#6686),https://github.com/mailcow/mailcow-dockerized/commit/c39712af671cc150595e6aadc7c31868eef14408,https://da.gd/phZcA
+GithubCommitStaging,fix gitignore,https://github.com/mailcow/mailcow-dockerized/commit/e1410baaebbf3a67dc0e558a8cc2cd0b1652b45d,https://da.gd/zWVS9
+GithubCommitStaging,fix postfix tlspol missing folders for config,https://github.com/mailcow/mailcow-dockerized/commit/3826c4b5be9d04805a807b922dc96b41128814af,https://da.gd/2eDlw
