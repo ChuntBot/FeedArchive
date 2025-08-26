@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q77w-mwjj-7mqx] Picklescan is missing detection when calling built-in python library asyncio.unix_events._UnixSubprocessTransport._start,https://github.com/advisories/GHSA-q77w-mwjj-7mqx,https://da.gd/PWNfI6
+GithubAdvisories,[GHSA-49gj-c84q-6qm9] Picklescan is missing detection when calling built-in python cProfile.run,https://github.com/advisories/GHSA-49gj-c84q-6qm9,https://da.gd/g4e9
+GithubAdvisories,[GHSA-9w88-8rmg-7g2p] Picklescan is missing detection when calling built-in python cProfile.runctx,https://github.com/advisories/GHSA-9w88-8rmg-7g2p,https://da.gd/ZXFR3n
+GithubAdvisories,[GHSA-fqq6-7vqf-w3fg] Picklescan is missing detection when calling built-in python doctest.debug_script,https://github.com/advisories/GHSA-fqq6-7vqf-w3fg,https://da.gd/XpbpvM
+GithubAdvisories,[GHSA-3gf5-cxq9-w223] Picklescan is missing detection when calling built-in python idlelib.pyshell.ModifiedInterpreter.runcode,https://github.com/advisories/GHSA-3gf5-cxq9-w223,https://da.gd/XWaXq
+GithubAdvisories,[GHSA-j343-8v2j-ff7w] Picklescan is missing detection when calling built-in python idlelib.pyshell.ModifiedInterpreter.runcommand,https://github.com/advisories/GHSA-j343-8v2j-ff7w,https://da.gd/7seuD
+GithubAdvisories,[GHSA-m869-42cg-3xwr] Picklescan is missing detection when calling built-in python idlelib.run.Executive.runcode,https://github.com/advisories/GHSA-m869-42cg-3xwr,https://da.gd/oLvwoi
+GithubAdvisories,[GHSA-p9w7-82w4-7q8m] Picklescan is missing detection when calling built-in python lib2to3.pgen2.pgen.ParserGenerator.make_label,https://github.com/advisories/GHSA-p9w7-82w4-7q8m,https://da.gd/uIneeU
+GithubAdvisories,[GHSA-xp4f-hrf8-rxw7] Picklescan is missing detection when calling built-in python ensurepip._run_pip,https://github.com/advisories/GHSA-xp4f-hrf8-rxw7,https://da.gd/IloNif
