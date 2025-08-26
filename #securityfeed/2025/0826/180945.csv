@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cfmv-h8fx-85m7] xml2rfc has an arbitrary file read vulnerability,https://github.com/advisories/GHSA-cfmv-h8fx-85m7,https://da.gd/miKD
+GithubAdvisories,[GHSA-7753-xrfw-ch36] LlamaIndex affected by a Denial of Service (DOS) in JSONReader,https://github.com/advisories/GHSA-7753-xrfw-ch36,https://da.gd/kByEJy
