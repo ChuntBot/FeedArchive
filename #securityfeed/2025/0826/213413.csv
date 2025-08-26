@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4whj-rm5r-c2v8] Picklescan is missing detection when calling pytorch function torch.utils.bottleneck.__main__.run_autograd_prof,https://github.com/advisories/GHSA-4whj-rm5r-c2v8,https://da.gd/Qydv
+GithubAdvisories,[GHSA-2f28-69j7-85hf] Easy!Appointments SQL injection vulnerability,https://github.com/advisories/GHSA-2f28-69j7-85hf,https://da.gd/eqS6y
