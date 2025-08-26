@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-224p-v68g-5g8f] GraphQL Armor Max-Depth Plugin Bypass via fragment caching,https://github.com/advisories/GHSA-224p-v68g-5g8f,https://da.gd/w5Rhrs
+GithubAdvisories,[GHSA-hmfr-rx46-4jx2] GraphQL Armor Max-Depth Plugin Bypass via Introspection Query Obfuscation,https://github.com/advisories/GHSA-hmfr-rx46-4jx2,https://da.gd/i2prTk
+GithubAdvisories,[GHSA-9xph-j2h6-g47v] Picklescan has a missing detection when calling built-in python library idlelib.calltip.get_entity,https://github.com/advisories/GHSA-9xph-j2h6-g47v,https://da.gd/PsOSXt
+GithubAdvisories,[GHSA-8r4j-24qv-fmq9] Picklescan has a missing detection when calling built-in python idlelib.calltip.Calltip,https://github.com/advisories/GHSA-8r4j-24qv-fmq9,https://da.gd/CMwd
