@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42: LibTIFF Important Memory Leak Fix CVE-2025-9165 Advisory,https://linuxsecurity.com/advisories/fedora/fedora-42-libtiff-2025-ac7b2513a8-ckwg1tpwwh8u,https://da.gd/qTkCc
+LinuxSecurity,Fedora 42: keylime-agent-rust Critical Patch CVE-2024-12224,https://linuxsecurity.com/advisories/fedora/fedora-42-keylime-agent-rust-2025-6c7178c159-dbkle1m6bpw8,https://da.gd/mDUGNZ
+LinuxSecurity,Fedora 41 Update: Critical Null Pointer Dereference Patch for libtiff,https://linuxsecurity.com/advisories/fedora/fedora-41-libtiff-2025-5869edf3de-x6b9jcu2pszk,https://da.gd/355RTY
