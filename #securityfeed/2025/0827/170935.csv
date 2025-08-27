@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7pwc-wh6m-44q3] Google Sign-In for Rails allowed redirects to malformed URLs,https://github.com/advisories/GHSA-7pwc-wh6m-44q3,https://da.gd/QkENP
+GithubAdvisories,[GHSA-cxm3-wv7p-598c] Malicious versions of Nx were published,https://github.com/advisories/GHSA-cxm3-wv7p-598c,https://da.gd/ppWjw
