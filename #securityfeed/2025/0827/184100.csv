@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9hp3-f5g8-rccg] The Freeform CraftCMS plugin contains an Server-side template injection (SSTI) vulnerability,https://github.com/advisories/GHSA-9hp3-f5g8-rccg,https://da.gd/ipwCp
