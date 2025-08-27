@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f2m2-4q6r-cwc4] simple-admin-core SQL Injection vulnerability,https://github.com/advisories/GHSA-f2m2-4q6r-cwc4,https://da.gd/uoN0f4
+GithubAdvisories,[GHSA-rfh2-8vxq-jqr8] NodeBB SQL Injection vulnerability,https://github.com/advisories/GHSA-rfh2-8vxq-jqr8,https://da.gd/hP3MC2
+GithubAdvisories,[GHSA-4x4m-3c2p-qppc] Kubernetes Nodes can delete themselves by adding an OwnerReference,https://github.com/advisories/GHSA-4x4m-3c2p-qppc,https://da.gd/LCvA
