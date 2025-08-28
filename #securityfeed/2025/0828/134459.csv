@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8pxw-9c75-6w56] NeuVector admin account has insecure default password,https://github.com/advisories/GHSA-8pxw-9c75-6w56,https://da.gd/VFv5d
+GithubAdvisories,[GHSA-w54x-xfxg-4gxq] NeuVector process with sensitive arguments lead to leakage,https://github.com/advisories/GHSA-w54x-xfxg-4gxq,https://da.gd/Nz7vWl
+GithubAdvisories,[GHSA-8ff6-pc43-jwv3] NeuVector has an insecure password storage vulnerable to rainbow attack,https://github.com/advisories/GHSA-8ff6-pc43-jwv3,https://da.gd/8MK7
