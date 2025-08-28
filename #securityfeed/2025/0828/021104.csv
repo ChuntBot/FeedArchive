@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Oracle Linux 10: ELSA-2025-14510 Kernel Important Security Fix,https://linuxsecurity.com/advisories/oracle/oracle10-elsa-2025-14510-kernel-important-ykbgabzwljw8,https://da.gd/DBBtNG
+LinuxSecurity,Oracle Linux 8 ELSA-2025-14750 Fence-Agents Moderate Security Update,https://linuxsecurity.com/advisories/oracle/oracle8-elsa-2025-14750-fence-agents-moderate-8v4agt5fdngk,https://da.gd/LRKC9
+LinuxSecurity,Debian: Unbound Severe Denial of Service Vulnerability DSA-5988-2,https://linuxsecurity.com/advisories/debian/debian-dsa-5987-1-unbound-9wtxyfng0qgt,https://da.gd/vnLmZ
+LinuxSecurity,Ubuntu 14.04 LTS: Linux Kernel Critical DoS Flaws USN-7720-1 CVE-2021-0920,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7720-1-linux-kernel-64smeztrwwet,https://da.gd/ek9adM
