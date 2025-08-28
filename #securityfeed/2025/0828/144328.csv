@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7m47-r75r-cx8v] Contao applies improper access control in the back end voters,https://github.com/advisories/GHSA-7m47-r75r-cx8v,https://da.gd/yZ83n
+GithubAdvisories,[GHSA-65rg-554r-9j5x] lychee link checking action affected by arbitrary code injection in composite action,https://github.com/advisories/GHSA-65rg-554r-9j5x,https://da.gd/w68LQQ
