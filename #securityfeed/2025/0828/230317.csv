@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian 11: Moderate CORS Vulnerability in golang-github-gin-contrib-cors,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4285-1-golang-github-gin-contrib-cors-security-kem0q6h8xbcf,https://da.gd/uHRC87
+LinuxSecurity,Debian: udisks2 Important DoS Local Privilege Escalation DLA-4284-1,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4284-1-udisks2-security-update-krcwh2g5oucd,https://da.gd/3SOaZL
+LinuxSecurity,SUSE: Linux Kernel Important Security Update 2025:03011-1 CVE-2025-21839,https://linuxsecurity.com/advisories/suse/suse-2025-03011-1-important-the-linux-kernel-tgngovpdbdxo,https://da.gd/Q3Nq28
+LinuxSecurity,openSUSE Tumbleweed: Perl-Crypt-CBC Moderate Vulnerability Fix 2025:15495-1,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-15495-1-moderate-perl-crypt-cbc-3-70-0-1-1-xs2yzjdsukha,https://da.gd/6rblgQ
