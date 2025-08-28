@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9m7c-m33f-3429] XWiki PDF export jobs store sensitive cookies unencrypted in job statuses,https://github.com/advisories/GHSA-9m7c-m33f-3429,https://da.gd/QWlzq3
+GithubAdvisories,[GHSA-qqfq-7cpp-hcqj] Contao does not properly manage privileges for page and article fields,https://github.com/advisories/GHSA-qqfq-7cpp-hcqj,https://da.gd/bYALM
+GithubAdvisories,[GHSA-w53m-gxvg-vx7p] Contao can disclose sensitive information in the news module,https://github.com/advisories/GHSA-w53m-gxvg-vx7p,https://da.gd/hbww0q
+GithubAdvisories,[GHSA-2xmj-8wmq-7475] Contao discloses sensitive information in the front end search index,https://github.com/advisories/GHSA-2xmj-8wmq-7475,https://da.gd/ZHhrOq
