@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jc7w-c686-c4v9] github.com/ulikunitz/xz leaks memory when decoding a corrupted multiple LZMA archives,https://github.com/advisories/GHSA-jc7w-c686-c4v9,https://da.gd/rp2i9
+GithubAdvisories,[GHSA-3rw9-wmc8-8948] Coder accepts an APIKey beyond the linked OIDC expiry if there is no refresh token,https://github.com/advisories/GHSA-3rw9-wmc8-8948,https://da.gd/Ni23Y
