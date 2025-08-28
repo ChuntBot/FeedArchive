@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4fxf-xgrm-8fcj] FormCms avatar upload feature has a stored cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-4fxf-xgrm-8fcj,https://da.gd/iTKSG
+GithubAdvisories,[GHSA-vxg3-w9rv-rhr2] Contrast leaks workload secrets to logs on INFO level,https://github.com/advisories/GHSA-vxg3-w9rv-rhr2,https://da.gd/VQGvy
+GithubAdvisories,[GHSA-w48j-pp7j-fj55] Valtimo scripting engine can be used to gain access to sensitive data or resources,https://github.com/advisories/GHSA-w48j-pp7j-fj55,https://da.gd/PFd3MA
