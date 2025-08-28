@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Postfix: Split TLSPol companion app into separate container (#6688),https://github.com/mailcow/mailcow-dockerized/commit/1cb38bacdb0d652781007175fc37eb0361da6aa4,https://da.gd/I3vG
+GithubCommitStaging,compose: add depends on for postfix-tlspol,https://github.com/mailcow/mailcow-dockerized/commit/29e28b47ed3dac40c8f7522e3dbddad965ff2992,https://da.gd/gPRuFQ
