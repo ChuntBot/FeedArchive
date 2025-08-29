@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w469-hj2f-jpr5] Harness Allows Arbitrary File Write in Gitness LFS server,https://github.com/advisories/GHSA-w469-hj2f-jpr5,https://da.gd/etbMF
+GithubAdvisories,[GHSA-v2ch-c8v8-fgr7] Versity panic induced by AWS chunked data sent to port,https://github.com/advisories/GHSA-v2ch-c8v8-fgr7,https://da.gd/lXIR5
+GithubAdvisories,[GHSA-8f82-53h8-2p34] HashiCorp Vault Community Edition Denial of Service Though Complex JSON Payloads,https://github.com/advisories/GHSA-8f82-53h8-2p34,https://da.gd/as64R
