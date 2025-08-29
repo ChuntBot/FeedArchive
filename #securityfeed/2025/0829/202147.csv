@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9fvj-xqr2-xwg8] gnark affected by denial of service when computing scalar multiplication using fake-GLV algorithm,https://github.com/advisories/GHSA-9fvj-xqr2-xwg8,https://da.gd/NkH6Hy
+GithubAdvisories,[GHSA-hw6f-rjfj-j7j7] Eventlet affected by HTTP request smuggling in unparsed trailers,https://github.com/advisories/GHSA-hw6f-rjfj-j7j7,https://da.gd/UX8mWk
+GithubAdvisories,[GHSA-5jch-xhw4-r43v] Google Sign-In for Rails allowed redirect to protocol-relative URI,https://github.com/advisories/GHSA-5jch-xhw4-r43v,https://da.gd/CwwY5I
+GithubAdvisories,[GHSA-4855-q42w-5vr4] DoS Vulnerability in ntpd-rs,https://github.com/advisories/GHSA-4855-q42w-5vr4,https://da.gd/9xGAD
+GithubAdvisories,[GHSA-694p-3fxc-m92h] AiondaDotCom mcp-ssh command injection vulnerability in SSH operations,https://github.com/advisories/GHSA-694p-3fxc-m92h,https://da.gd/Lj06Qk
