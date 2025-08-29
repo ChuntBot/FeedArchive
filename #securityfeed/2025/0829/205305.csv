@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xwfj-jgwm-7wp5] Tracing logging user input may result in poisoning logs with ANSI escape sequences,https://github.com/advisories/GHSA-xwfj-jgwm-7wp5,https://da.gd/aKTwOA
+GithubAdvisories,[GHSA-6h9x-9j5v-7w9h] Rancher Fleet Helm Values are stored inside BundleDeployment in plain text,https://github.com/advisories/GHSA-6h9x-9j5v-7w9h,https://da.gd/vu68
+GithubAdvisories,[GHSA-9q78-27f3-2jmh] webp crate may expose memory contents when encoding an image,https://github.com/advisories/GHSA-9q78-27f3-2jmh,https://da.gd/4Sejkf
+GithubAdvisories,[GHSA-82ff-hg59-8x73] github.com/gorilla/csrf improperly validates TrustedOrigins allowing CSRF attacks,https://github.com/advisories/GHSA-82ff-hg59-8x73,https://da.gd/UBqAA
