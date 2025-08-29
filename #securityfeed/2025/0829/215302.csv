@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4342-x723-ch2f] Next.js Improper Middleware Redirect Handling Leads to SSRF,https://github.com/advisories/GHSA-4342-x723-ch2f,https://da.gd/Cb5M
