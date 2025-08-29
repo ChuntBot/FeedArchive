@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-496f-x7cq-cq39] Exiv2 Segmentation Faults in Exiv2::EpsImage::writeMetadata() via crafted EPS file,https://github.com/advisories/GHSA-496f-x7cq-cq39,https://da.gd/MGeY8h
