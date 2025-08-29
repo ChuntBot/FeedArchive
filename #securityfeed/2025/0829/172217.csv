@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-26rv-h2hf-3fw4] Payload's SQLite adapter Session Fixation vulnerability,https://github.com/advisories/GHSA-26rv-h2hf-3fw4,https://da.gd/7Ik2sc
+GithubAdvisories,[GHSA-5v66-m237-hwf7] Payload does not invalidate JWTs after log out,https://github.com/advisories/GHSA-5v66-m237-hwf7,https://da.gd/LY0CC
