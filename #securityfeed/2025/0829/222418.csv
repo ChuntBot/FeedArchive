@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-876g-49r6-33qj] Liferay Portal allows improper access through the expandoTableLocalService,https://github.com/advisories/GHSA-876g-49r6-33qj,https://da.gd/hVrC
+GithubAdvisories,[GHSA-g5qg-72qw-gw5v] Next.js Affected by Cache Key Confusion for Image Optimization API Routes,https://github.com/advisories/GHSA-g5qg-72qw-gw5v,https://da.gd/wbkml
+GithubAdvisories,[GHSA-xv57-4mr9-wg8v] Next.js Content Injection Vulnerability for Image Optimization,https://github.com/advisories/GHSA-xv57-4mr9-wg8v,https://da.gd/Fa7bqe
