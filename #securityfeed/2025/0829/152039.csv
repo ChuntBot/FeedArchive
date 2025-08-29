@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m54q-mm9w-fp6g] Exiv2 has quadratic performance in ICC profile parsing in JpegBase::readMetadata,https://github.com/advisories/GHSA-m54q-mm9w-fp6g,https://da.gd/jcvwZ
