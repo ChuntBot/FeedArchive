@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4h45-jpvh-6p5j] Rancher affected by unauthenticated Denial of Service,https://github.com/advisories/GHSA-4h45-jpvh-6p5j,https://da.gd/BKdvZ
+GithubAdvisories,[GHSA-hq8m-v68g-8cf8] Opencast has a partial path traversal vulnerability in UI config,https://github.com/advisories/GHSA-hq8m-v68g-8cf8,https://da.gd/Js8E
+GithubAdvisories,[GHSA-qwwg-gc55-qqrv] Out-of-bounds Write in Chakra,https://github.com/advisories/GHSA-qwwg-gc55-qqrv,https://da.gd/DXQK4R
