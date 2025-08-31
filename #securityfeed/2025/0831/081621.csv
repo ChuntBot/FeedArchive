@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 41: chromium Critical Use After Free CVE-2025-9478 Advisory,https://linuxsecurity.com/advisories/fedora/fedora-41-chromium-2025-dc1c32b029-gaei4nbcmfwl,https://da.gd/S3zl2d
+LinuxSecurity,Fedora 42: UDisks2 Vulnerability CVE-2025-8067 Out-Of-Bounds Read Issue,https://linuxsecurity.com/advisories/fedora/fedora-42-udisks2-2025-c866472f43-xcgvmb51oivm,https://da.gd/dXMwn
+LinuxSecurity,Fedora 42: Important Information Leak in docker-buildx v0.27.0 Resolved,https://linuxsecurity.com/advisories/fedora/fedora-42-docker-buildx-2025-aeb4a7b52f-y52vjxq0j1kh,https://da.gd/NJjmm5
+LinuxSecurity,Fedora 42: CEF Critical Type Confusion Issues CVE-2025-8010 2025-b7cb89ddd3,https://linuxsecurity.com/advisories/fedora/fedora-42-cef-2025-b7cb89ddd3-jtjxxeo6p9k0,https://da.gd/jDH6
+LinuxSecurity,Fedora 42: rocm-rpp Library Update - Remove libffts.a 2025-ca3edc5c88,https://linuxsecurity.com/advisories/fedora/fedora-42-rocm-rpp-2025-ca3edc5c88-9n3x2wcpq7cr,https://da.gd/eJo5r
