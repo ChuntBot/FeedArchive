@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-33pr-m977-5w97] Soft Serve vulnerable to arbitrary file writing through SSH API,https://github.com/advisories/GHSA-33pr-m977-5w97,https://da.gd/z1C3U
