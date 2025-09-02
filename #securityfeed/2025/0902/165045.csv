@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mxh2-ccgj-8635] ESP-IDF web_server basic auth bypass using empty or incomplete Authorization header,https://github.com/advisories/GHSA-mxh2-ccgj-8635,https://da.gd/SYQ7Ie
+GithubAdvisories,[GHSA-4h8c-qrcq-cv5c] Local Deep Research's API keys are stored in plain text,https://github.com/advisories/GHSA-4h8c-qrcq-cv5c,https://da.gd/KToZN
