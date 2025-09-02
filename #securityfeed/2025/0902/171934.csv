@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ccc3-fvfx-mw3v] MobSF Path Traversal in GET /download/ using absolute filenames,https://github.com/advisories/GHSA-ccc3-fvfx-mw3v,https://da.gd/drNYC
+GithubAdvisories,[GHSA-9gh8-9r95-3fc3] MobSF Vulnerable to Arbitrary File Write (AR-Slip) via Absolute Path in .a Extraction,https://github.com/advisories/GHSA-9gh8-9r95-3fc3,https://da.gd/83eez
+GithubAdvisories,[GHSA-fqqv-56h5-f57g] PocketMine-MP `ResourcePackDataInfoPacket` amplification vulnerability due to lack of resource pack sequence status checking,https://github.com/advisories/GHSA-fqqv-56h5-f57g,https://da.gd/N16by
