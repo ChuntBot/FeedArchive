@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-45qj-4xq3-3c45] mcp-markdownify-server vulnerable to command injection in pptx-to-markdown tool,https://github.com/advisories/GHSA-45qj-4xq3-3c45,https://da.gd/IyWSo
+GithubAdvisories,[GHSA-xqjr-wfx3-gmxv] ArrayQueue's push_front is not panic-safe,https://github.com/advisories/GHSA-xqjr-wfx3-gmxv,https://da.gd/ROWBdT
+GithubAdvisories,[GHSA-f79p-9c5r-xg88] Command Injection via sonarqube-scan-action GitHub Action,https://github.com/advisories/GHSA-f79p-9c5r-xg88,https://da.gd/wnlr
+GithubAdvisories,[GHSA-3632-54q8-m96x] arenavec has multiple memory corruption vulnerabilities in safe APIs,https://github.com/advisories/GHSA-3632-54q8-m96x,https://da.gd/Rza4
