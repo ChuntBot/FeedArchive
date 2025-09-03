@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9hp6-4448-45g2] Hono's flaw in URL path parsing could cause path confusion,https://github.com/advisories/GHSA-9hp6-4448-45g2,https://da.gd/U82x3
+GithubAdvisories,[GHSA-wgq8-vr6r-mqxm] frost-core: refresh shares with smaller min_signers will reduce security of group,https://github.com/advisories/GHSA-wgq8-vr6r-mqxm,https://da.gd/S12ChV
+GithubAdvisories,[GHSA-vmqv-hx8q-j7mg] Electron has ASAR Integrity Bypass via resource modification,https://github.com/advisories/GHSA-vmqv-hx8q-j7mg,https://da.gd/jEE1s
