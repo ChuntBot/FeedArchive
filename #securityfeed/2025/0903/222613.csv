@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-mw26-5g2v-hqw3] DeepDiff Class Pollution in Delta class leading to DoS, Remote Code Execution, and more",https://github.com/advisories/GHSA-mw26-5g2v-hqw3,https://da.gd/xjz5pI
+GithubAdvisories,[GHSA-f696-867g-2759] Jenkins OpenTelemetry Plugin missing permission check allows capturing credentials,https://github.com/advisories/GHSA-f696-867g-2759,https://da.gd/wpzwf
+GithubAdvisories,[GHSA-gm8g-fh49-qq6v] Jenkins global-build-stats Plugin missing permission check can result in graph IDs being enumerated,https://github.com/advisories/GHSA-gm8g-fh49-qq6v,https://da.gd/72fREl
+GithubAdvisories,[GHSA-g2pq-9jr7-w6gv] Jenkins Git client Plugin file system information disclosure vulnerability,https://github.com/advisories/GHSA-g2pq-9jr7-w6gv,https://da.gd/2ryCTi
+GithubAdvisories,[GHSA-3ggv-qwcp-j6xg] Mautic Vulnerable to User Enumeration via Response Timing,https://github.com/advisories/GHSA-3ggv-qwcp-j6xg,https://da.gd/fAmttF
+GithubAdvisories,[GHSA-9v8p-m85m-f7mm] Mautic vulnerable to reflected XSS in lead:addLeadTags - Quick Add,https://github.com/advisories/GHSA-9v8p-m85m-f7mm,https://da.gd/C68Jag
+GithubAdvisories,[GHSA-438m-6mhw-hq5w] Mautic vulnerable to secret data extraction via elfinder,https://github.com/advisories/GHSA-438m-6mhw-hq5w,https://da.gd/G3rQv
+GithubAdvisories,[GHSA-hj6f-7hp7-xg69] Mautic vulnerable to SSRF via webhook function,https://github.com/advisories/GHSA-hj6f-7hp7-xg69,https://da.gd/HCOeY
