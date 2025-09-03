@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rrpj-r8h7-rm7r] Apache DolphinScheduler Incorrect Default Permissions Vulnerability,https://github.com/advisories/GHSA-rrpj-r8h7-rm7r,https://da.gd/rOgG
+GithubAdvisories,[GHSA-ph6w-f82w-28w6] Claude Code Vulnerable to Arbitrary Code Execution Due to Insufficient Startup Warning,https://github.com/advisories/GHSA-ph6w-f82w-28w6,https://da.gd/ZepWIQ
+GithubAdvisories,[GHSA-x9gp-vjh6-3wv6] CKEditor 5 cross-site scripting (XSS) vulnerability in the clipboard package,https://github.com/advisories/GHSA-x9gp-vjh6-3wv6,https://da.gd/MiPgO2
+GithubAdvisories,[GHSA-3p8m-j85q-pgmj] Netty's decoders vulnerable to DoS via zip bomb style attack,https://github.com/advisories/GHSA-3p8m-j85q-pgmj,https://da.gd/NJriIn
