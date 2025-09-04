@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 25.04: Ruby Critical DoS Vulnerability USN-7734-1 CVE-2024-27280,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7734-1-ruby-sufz2cnjurxr,https://da.gd/cwWz6
+LinuxSecurity,Ubuntu 20.04 LTS: Important DoS Fix for Protocol Buffers CVE-2025-4565,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7629-2-protocol-buffers-6eizjqcr1x84,https://da.gd/vJvyq
+LinuxSecurity,Fedora 41: Exiv2 Low Severity ABI Fix for CVE-2025-54080 and CVE-2025-55304,https://linuxsecurity.com/advisories/fedora/fedora-41-exiv2-2025-e1ae3d4ed9-gbyni7z2mc9l,https://da.gd/JrhV
+LinuxSecurity,Fedora 41: libsixel Important Buffer Overflow Fix CVE-2025-9300,https://linuxsecurity.com/advisories/fedora/fedora-41-libsixel-2025-4647d515fc-hgtrhyz0ntwq,https://da.gd/4PU7K
