@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian 11: Critical Input Validation Fix for node-cipher-base DLA-4291-1,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4291-1-node-cipher-base-security-update-klq8vqtvtir4,https://da.gd/SgrLAP
+LinuxSecurity,Ubuntu 24.04 LTS: Linux Kernel Critical Flaws Security Notice USN-7737-1,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7737-1-linux-kernel-azure-p8dbmxb0uwdo,https://da.gd/1jlYa
+LinuxSecurity,openSUSE: Python-aiohttp Low Request Smuggling Vuln 2025:03057-1,https://linuxsecurity.com/advisories/suse/suse-2025-03057-1-low-python-aiohttp-gqwtrbmwxihe,https://da.gd/NLi2o
+LinuxSecurity,openSUSE: python-aiohttp Low Request Smuggling CVE-2025-53643 2025:03057-1,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-03057-1-low-python-aiohttp-keya7495y5k9,https://da.gd/ikpjl
+LinuxSecurity,SUSE: postgresql15 Important Code Exec Threat CVE-2025-8713 2025:03018-2,https://linuxsecurity.com/advisories/suse/suse-2025-03018-2-important-postgresql15-wg9xkcsblznr,https://da.gd/qTIh7
+LinuxSecurity,openSUSE: munge Moderate Local Privilege Escalation Fix 2025:03061-1,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-03061-1-moderate-munge-4cdtk9ym0bvm,https://da.gd/4RoHy
