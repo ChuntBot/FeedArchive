@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-58p5-r2f6-g2cj] Pixar OpenUSD Sdf_PathNode Module Use-After-Free Vulnerability Leading to Potential Remote Code Execution,https://github.com/advisories/GHSA-58p5-r2f6-g2cj,https://da.gd/3I2y
