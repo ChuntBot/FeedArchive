@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qpr4-c339-7vq8] Server-Side Request Forgery via /_image endpoint in Astro Cloudflare adapter,https://github.com/advisories/GHSA-qpr4-c339-7vq8,https://da.gd/6wiB
