@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vxmw-7h4f-hqxh] PyPI publish GitHub Action vulnerable to injectable expression expansions in action steps,https://github.com/advisories/GHSA-vxmw-7h4f-hqxh,https://da.gd/srMh9s
+GithubAdvisories,[GHSA-377j-wj38-4728] Weblate has a long session expiry when verifying second factor,https://github.com/advisories/GHSA-377j-wj38-4728,https://da.gd/1L7QM
