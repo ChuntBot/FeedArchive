@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x2jc-989c-47q4] Hexo has an `include_code` path traversal,https://github.com/advisories/GHSA-x2jc-989c-47q4,https://da.gd/HraAVN
+GithubAdvisories,[GHSA-fghv-69vj-qj49] Netty vulnerable to request smuggling due to incorrect parsing of chunk extensions,https://github.com/advisories/GHSA-fghv-69vj-qj49,https://da.gd/ugIJw
