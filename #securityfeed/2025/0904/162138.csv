@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j4fw-4mhr-hc45] Liferay Portal Vulnerable to Denial of Service in Kaleo Forms Admin,https://github.com/advisories/GHSA-j4fw-4mhr-hc45,https://da.gd/b5WD12
+GithubAdvisories,[GHSA-c7v7-rqfm-f44j] Vaadin Platform possible file bypass via upload validation on the server-side,https://github.com/advisories/GHSA-c7v7-rqfm-f44j,https://da.gd/XJuwUs
+GithubAdvisories,[GHSA-94g8-xv23-7656] Vaadin Flow Components possible file bypass via upload validation on the server-side,https://github.com/advisories/GHSA-94g8-xv23-7656,https://da.gd/l6l7D
+GithubAdvisories,[GHSA-9gfh-4fwj-w3rj] Vaadin Framework possible file bypass via upload validation on the server-side,https://github.com/advisories/GHSA-9gfh-4fwj-w3rj,https://da.gd/1gxvsq
