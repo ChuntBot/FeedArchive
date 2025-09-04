@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-q35w-85pq-rv3x] Payara, when deployed to the root context, allows attackers to visit META-INF and WEB-INF",https://github.com/advisories/GHSA-q35w-85pq-rv3x,https://da.gd/0qn0X
