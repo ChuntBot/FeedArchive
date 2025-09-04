@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wp3j-xq48-xpjw] podman kube play symlink traversal vulnerability,https://github.com/advisories/GHSA-wp3j-xq48-xpjw,https://da.gd/ua0k4t
+GithubAdvisories,[GHSA-8xx5-h6m3-jr33] Presta Shop vulnerable to email enumeration,https://github.com/advisories/GHSA-8xx5-h6m3-jr33,https://da.gd/WAjZ
+GithubAdvisories,[GHSA-786q-9hcg-v9ff] Argo CD's Project API Token Exposes Repository Credentials,https://github.com/advisories/GHSA-786q-9hcg-v9ff,https://da.gd/2A5wR
