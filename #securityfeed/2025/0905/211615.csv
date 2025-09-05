@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6859-2qxq-ffv2] pgadmin4 is affected by a Cross-Origin Opener Policy (COOP) vulnerability,https://github.com/advisories/GHSA-6859-2qxq-ffv2,https://da.gd/ZwLX0X
+GithubAdvisories,[GHSA-9q5r-wfvf-rr7f] xgrammar vulnerable to denial of service by huge enum grammar,https://github.com/advisories/GHSA-9q5r-wfvf-rr7f,https://da.gd/KtMKJn
+GithubAdvisories,[GHSA-ph2w-cx28-vhrq] TkEasyGUI Affected by Uncontrolled Search Path Element Issue,https://github.com/advisories/GHSA-ph2w-cx28-vhrq,https://da.gd/EHks6g
+GithubAdvisories,[GHSA-hfrj-3w3g-jv32] TkEasyGUI Vulnerable to OS Command Injection,https://github.com/advisories/GHSA-hfrj-3w3g-jv32,https://da.gd/4BxTa
+GithubAdvisories,[GHSA-rcw7-pqfp-735x] secrets-store-sync-controller discloses service account tokens in logs,https://github.com/advisories/GHSA-rcw7-pqfp-735x,https://da.gd/3E4afB
+GithubAdvisories,[GHSA-wx3r-v6h7-frjp] internetarchive Vulnerable to Directory Traversal in File.download(),https://github.com/advisories/GHSA-wx3r-v6h7-frjp,https://da.gd/csr3
+GithubAdvisories,[GHSA-rrw2-px9j-qffj] FS2 half-shutdown of socket during TLS handshake may result in spin loop on opposite side,https://github.com/advisories/GHSA-rrw2-px9j-qffj,https://da.gd/1D5I
