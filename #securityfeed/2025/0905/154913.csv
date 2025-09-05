@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cgrg-86m5-xm4w] Memos Vulnerable to Stored Cross-Site Scripting,https://github.com/advisories/GHSA-cgrg-86m5-xm4w,https://da.gd/Nfvcgr
+GithubAdvisories,[GHSA-78j5-8vq7-jxv5] Memos Vulnerable to Path Traversal via the CreateResource Endpoint,https://github.com/advisories/GHSA-78j5-8vq7-jxv5,https://da.gd/AFDDo
+GithubAdvisories,[GHSA-pc6w-59fv-rh23] Langchain Community Vulnerable to XML External Entity (XXE) Attacks,https://github.com/advisories/GHSA-pc6w-59fv-rh23,https://da.gd/GOSKu
