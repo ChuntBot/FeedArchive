@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j8fv-6x8p-p766] Malware in color,https://github.com/advisories/GHSA-j8fv-6x8p-p766,https://da.gd/QQC6eK
+GithubAdvisories,[GHSA-hjfh-p8f5-24wr] Fides Webserver API is Vulnerable to OAuth Client Privilege Escalation,https://github.com/advisories/GHSA-hjfh-p8f5-24wr,https://da.gd/y2vCDU
+GithubAdvisories,[GHSA-fq34-xw6c-fphf] Fides Webserver API Rate Limiting Vulnerability in Proxied Environments,https://github.com/advisories/GHSA-fq34-xw6c-fphf,https://da.gd/6AHhGz
+GithubAdvisories,[GHSA-7q62-r88r-j5gw] Fides has a Lack of Brute-Force Protections on Authentication Endpoints,https://github.com/advisories/GHSA-7q62-r88r-j5gw,https://da.gd/3hRjbf
