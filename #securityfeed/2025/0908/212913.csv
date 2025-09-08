@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g9hg-qhmf-q45m] MCP Inspector is Vulnerable to Potential Command Execution via XSS When Connecting to an Untrusted MCP Server,https://github.com/advisories/GHSA-g9hg-qhmf-q45m,https://da.gd/AIuZh
+GithubAdvisories,[GHSA-gwj6-xpfg-pxwr] XWiki Blog Application: Privilege Escalation (PR) from account through blog content,https://github.com/advisories/GHSA-gwj6-xpfg-pxwr,https://da.gd/V3mzm
