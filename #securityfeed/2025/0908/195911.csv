@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h9m7-rmhq-pfgr] Malware in proto-tinker-wc,https://github.com/advisories/GHSA-h9m7-rmhq-pfgr,https://da.gd/mbUQvd
+GithubAdvisories,[GHSA-3ch2-jxxc-v4xf] @akoskm/create-mcp-server-stdio is vulnerable to MCP Server Command Injection through `exec` API,https://github.com/advisories/GHSA-3ch2-jxxc-v4xf,https://da.gd/hL78FP
