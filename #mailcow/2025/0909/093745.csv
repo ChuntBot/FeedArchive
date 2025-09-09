@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] Only include mailcow_info in JS when mailcow_cc_username is set,https://github.com/mailcow/mailcow-dockerized/commit/1e192e14f4e16d7644a7efd5594e5c31f70a0fe4,https://da.gd/0InL0
+GithubCommitStaging,Merge pull request #6715 from mailcow/fix/version-tag,https://github.com/mailcow/mailcow-dockerized/commit/2f750391940741b1cb72854bee8cc358a26f693c,https://da.gd/SE4e2
