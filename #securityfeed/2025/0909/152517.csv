@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pfp7-vxgr-83pw] toodee is vulnerable to Heap Buffer Overflow through its DrainCol Destructor,https://github.com/advisories/GHSA-pfp7-vxgr-83pw,https://da.gd/ySjOtz
+GithubAdvisories,[GHSA-cxvc-g8f2-4gmm] Apache Jackrabbit: Core and JCR Commons are vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-cxvc-g8f2-4gmm,https://da.gd/gdua6
+GithubAdvisories,[GHSA-pxvw-4w88-6x95] copyparty: Sharing a single file does not fully restrict access to other files in source folder,https://github.com/advisories/GHSA-pxvw-4w88-6x95,https://da.gd/Ha8jKy
