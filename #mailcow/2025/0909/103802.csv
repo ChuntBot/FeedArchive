@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Prevent user login if protocol access has been disabled,https://github.com/mailcow/mailcow-dockerized/commit/13f7f9830b056e1a1fe8aee51884323cb5bcebae,https://da.gd/emGFl
+GithubCommitStaging,Merge pull request #6716 from mailcow/fix/6610,https://github.com/mailcow/mailcow-dockerized/commit/08aea7fb267c385f768522c7c4f429a4571a9043,https://da.gd/8Vee1t
+GithubCommitStaging,Merge pull request #6651 from psuet/fix/php-warnings,https://github.com/mailcow/mailcow-dockerized/commit/a90b3544a7e4e94d4e67d55eba762764f3f9a1b0,https://da.gd/sSnCW0
+GithubCommitStaging,Merge pull request #6682 from psuet/fix/imapsync,https://github.com/mailcow/mailcow-dockerized/commit/56d083ced482e46e706cde72106216cd086b8e01,https://da.gd/VyLTH
