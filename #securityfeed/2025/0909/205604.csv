@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jqfw-vq24-v9c3] Vite's `server.fs` settings were not applied to HTML files,https://github.com/advisories/GHSA-jqfw-vq24-v9c3,https://da.gd/ttf5s
+GithubAdvisories,[GHSA-vgmm-27fc-vmgp] Maho is Vulnerable to Authenticated Remote Code Execution via File Upload,https://github.com/advisories/GHSA-vgmm-27fc-vmgp,https://da.gd/F4SUJ5
+GithubAdvisories,[GHSA-455v-w7r9-3vv9] Cattown is Vulnerable to Uncontrolled Resource Consumption through Inefficient Regular Expression Complexity,https://github.com/advisories/GHSA-455v-w7r9-3vv9,https://da.gd/rRJEq
+GithubAdvisories,[GHSA-rf24-wg77-gq7w] listmonk: CSRF to XSS Chain can Lead to Admin Account Takeover,https://github.com/advisories/GHSA-rf24-wg77-gq7w,https://da.gd/cMM0SZ
