@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j8vm-7q52-2m2m] TYPO3 CSV download feature information disclosure,https://github.com/advisories/GHSA-j8vm-7q52-2m2m,https://da.gd/1vVN
+GithubAdvisories,[GHSA-w2pf-7q5w-2cgw] TYPO3 Workspaces Module Information Disclosure,https://github.com/advisories/GHSA-w2pf-7q5w-2cgw,https://da.gd/SuLCE
+GithubAdvisories,[GHSA-2fhw-2j7m-mr4m] TYPO3 backend modules have Broken Access Control,https://github.com/advisories/GHSA-2fhw-2j7m-mr4m,https://da.gd/zYtRQJ
+GithubAdvisories,[GHSA-cvm2-5f78-g9m8] TYPO3 CMS exposes sensitive information in an error message,https://github.com/advisories/GHSA-cvm2-5f78-g9m8,https://da.gd/RXK2U
+GithubAdvisories,[GHSA-p5jq-5383-qvc7] TYPO3 CMS uses insufficient entropy when generating passwords,https://github.com/advisories/GHSA-p5jq-5383-qvc7,https://da.gd/MaPPpW
+GithubAdvisories,[GHSA-xrcq-533q-8rxw] TYPO3 Bookmark Toolbar vulnerable to denial of service,https://github.com/advisories/GHSA-xrcq-533q-8rxw,https://da.gd/6EyAh
+GithubAdvisories,[GHSA-72jf-5fg5-3cw3] TYPO3 CMS has an open‑redirect vulnerability,https://github.com/advisories/GHSA-72jf-5fg5-3cw3,https://da.gd/4uic
