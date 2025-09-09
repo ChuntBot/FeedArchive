@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Rspamd][Web] Internal alias support,https://github.com/mailcow/mailcow-dockerized/commit/f67c0530f56495d4b7a2c3b8816a8140c2f25586,https://da.gd/2yXa7k
+GithubCommitStaging,Merge pull request #6713 from mailcow/feat/internal-alias,https://github.com/mailcow/mailcow-dockerized/commit/8446abd484fd5c90f6d8ba7c9863e09331c4730c,https://da.gd/OwOLh
+GithubCommitStaging,[RSPAMD] Add boundary if present when applying domain-wide footer,https://github.com/mailcow/mailcow-dockerized/commit/8d7235b5356f61e6a4a822b1bbeffba32b476e57,https://da.gd/nAbz
+GithubCommitStaging,Merge pull request #6714 from mailcow/fix/domain-wide-footer,https://github.com/mailcow/mailcow-dockerized/commit/9cd1f931fc599954596051da30e8d8cf7df5a204,https://da.gd/sc9b
