@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6w2r-r2m5-xq5w] Django is subject to SQL injection through its column aliases,https://github.com/advisories/GHSA-6w2r-r2m5-xq5w,https://da.gd/wf20f
