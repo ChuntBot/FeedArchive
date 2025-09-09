@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Rspamd] only recreate external_services.conf file if it was deleted,https://github.com/mailcow/mailcow-dockerized/commit/8c8497d885b816397b36bc11470e11c459a6b98c,https://da.gd/2Umj
+GithubCommitStaging,Merge pull request #6717 from mailcow/fix/6664,https://github.com/mailcow/mailcow-dockerized/commit/3d05207bc7531721478a0b59a71a2783134c3d46,https://da.gd/UoHQX8
