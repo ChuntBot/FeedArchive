@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q2q7-3cfg-f743] Malware in @duckdb/duckdb-wasm,https://github.com/advisories/GHSA-q2q7-3cfg-f743,https://da.gd/PMll
+GithubAdvisories,[GHSA-6rwc-3xrf-pxv6] Malware in @duckdb/node-api,https://github.com/advisories/GHSA-6rwc-3xrf-pxv6,https://da.gd/olpCi
+GithubAdvisories,[GHSA-6cjr-38f6-2ccq] Malware in @duckdb/node-bindings,https://github.com/advisories/GHSA-6cjr-38f6-2ccq,https://da.gd/mvCML
+GithubAdvisories,[GHSA-m63q-rrxf-h93g] Malware in duckdb,https://github.com/advisories/GHSA-m63q-rrxf-h93g,https://da.gd/NeTMR
