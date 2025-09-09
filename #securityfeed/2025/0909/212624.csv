@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p8cm-mm2v-gwjm] Monai: Unsafe use of Pickle deserialization may lead to RCE,https://github.com/advisories/GHSA-p8cm-mm2v-gwjm,https://da.gd/zgEDB1
+GithubAdvisories,[GHSA-6vm5-6jv9-rjpj] MONAI: Unsafe torch usage may lead to arbitrary code execution,https://github.com/advisories/GHSA-6vm5-6jv9-rjpj,https://da.gd/6ViEG
+GithubAdvisories,"[GHSA-x6ww-pf9m-m73m] MONAI does not prevent path traversal, potentially leading to arbitrary file writes",https://github.com/advisories/GHSA-x6ww-pf9m-m73m,https://da.gd/oPpfz
+GithubAdvisories,[GHSA-72cm-7236-h43r] TinyEnv: Inline comments not stripped properly in .env values,https://github.com/advisories/GHSA-72cm-7236-h43r,https://da.gd/yO7Oqk
+GithubAdvisories,[GHSA-3j7m-5g4q-gfpc] TinyEnv: Missing .env file not required — may cause unexpected behavior,https://github.com/advisories/GHSA-3j7m-5g4q-gfpc,https://da.gd/UruSM
+GithubAdvisories,[GHSA-g4jq-h2w9-997c] Vite middleware may serve files starting with the same name with the public directory,https://github.com/advisories/GHSA-g4jq-h2w9-997c,https://da.gd/gUVyg
