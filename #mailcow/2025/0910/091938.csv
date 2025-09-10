@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,chore(deps): update actions/stale action to v10 (#6708),https://github.com/mailcow/mailcow-dockerized/commit/81775ab4d59c4ee3bf2fa113a3388097164a3ca5,https://da.gd/DPaL0
+GithubCommit,[Rspamd] Do not increment rate limit for emails from user to himself …,https://github.com/mailcow/mailcow-dockerized/commit/06db1d6a72ce65cd5e464eab7f2b1970da555b49,https://da.gd/ePRvp
+GithubCommit,[Rspamd][Web] Internal alias support,https://github.com/mailcow/mailcow-dockerized/commit/f67c0530f56495d4b7a2c3b8816a8140c2f25586,https://da.gd/2yXa7k
+GithubCommit,Merge pull request #6713 from mailcow/feat/internal-alias,https://github.com/mailcow/mailcow-dockerized/commit/8446abd484fd5c90f6d8ba7c9863e09331c4730c,https://da.gd/OwOLh
+GithubCommit,[RSPAMD] Add boundary if present when applying domain-wide footer,https://github.com/mailcow/mailcow-dockerized/commit/8d7235b5356f61e6a4a822b1bbeffba32b476e57,https://da.gd/nAbz
+GithubCommit,Merge pull request #6714 from mailcow/fix/domain-wide-footer,https://github.com/mailcow/mailcow-dockerized/commit/9cd1f931fc599954596051da30e8d8cf7df5a204,https://da.gd/sc9b
+GithubCommit,[Web] Only include mailcow_info in JS when mailcow_cc_username is set,https://github.com/mailcow/mailcow-dockerized/commit/1e192e14f4e16d7644a7efd5594e5c31f70a0fe4,https://da.gd/0InL0
+GithubCommit,Merge pull request #6715 from mailcow/fix/version-tag,https://github.com/mailcow/mailcow-dockerized/commit/2f750391940741b1cb72854bee8cc358a26f693c,https://da.gd/SE4e2
+GithubCommit,Prevent user login if protocol access has been disabled,https://github.com/mailcow/mailcow-dockerized/commit/13f7f9830b056e1a1fe8aee51884323cb5bcebae,https://da.gd/emGFl
+GithubCommit,Merge pull request #6716 from mailcow/fix/6610,https://github.com/mailcow/mailcow-dockerized/commit/08aea7fb267c385f768522c7c4f429a4571a9043,https://da.gd/8Vee1t
+GithubCommit,Merge pull request #6651 from psuet/fix/php-warnings,https://github.com/mailcow/mailcow-dockerized/commit/a90b3544a7e4e94d4e67d55eba762764f3f9a1b0,https://da.gd/sSnCW0
+GithubCommit,Merge pull request #6682 from psuet/fix/imapsync,https://github.com/mailcow/mailcow-dockerized/commit/56d083ced482e46e706cde72106216cd086b8e01,https://da.gd/VyLTH
+GithubCommit,[Rspamd] only recreate external_services.conf file if it was deleted,https://github.com/mailcow/mailcow-dockerized/commit/8c8497d885b816397b36bc11470e11c459a6b98c,https://da.gd/2Umj
+GithubCommit,Merge pull request #6717 from mailcow/fix/6664,https://github.com/mailcow/mailcow-dockerized/commit/3d05207bc7531721478a0b59a71a2783134c3d46,https://da.gd/UoHQX8
+GithubCommit,Merge pull request #6698 from mailcow/6644_clamd-tmp-folder-naming-ch…,https://github.com/mailcow/mailcow-dockerized/commit/221f2989b0ecffaecf44f3fe60fb525e337f7577,https://da.gd/if3E3f
+GithubCommit,[Clamd] update to 1.71,https://github.com/mailcow/mailcow-dockerized/commit/8cb25709aea2f715cbac5ba7fd89130181fd98ec,https://da.gd/jGP6
+GithubCommit,[postfix-tlspol] build with NOOPT=1 for wider CPU compatibility,https://github.com/mailcow/mailcow-dockerized/commit/1c438330c6c21f6b5b065aee65adef453b4dc4ce,https://da.gd/eFVQHe
+GithubCommit,Merge pull request #6718 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/b1c088a57f6c3433d92c08e5be3c9279f3a6d8a9,https://da.gd/in4Mla
+GithubCommit,change MAJOR_VERSIONS 2025-08 to 2025-09,https://github.com/mailcow/mailcow-dockerized/commit/262fe04286cab6d9d1690699022ac19808cfe26c,https://da.gd/3GG0tc
+GithubCommit,Merge pull request #6719 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/7ce3b0faedcde909945ea4439f6fe310f04efe57,https://da.gd/3Adw4i
