@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-66x6-8jgv-qpfh] Liferay Portal and Liferay DXP vulnerable to Stored Cross-site Scripting,https://github.com/advisories/GHSA-66x6-8jgv-qpfh,https://da.gd/oGXp
+GithubAdvisories,[GHSA-xp8g-32qh-mv28] Decap CMS Cross Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-xp8g-32qh-mv28,https://da.gd/9ScEe
+GithubAdvisories,[GHSA-v2p7-4pv4-3wwh] Infrahub: Deleted and expired API tokens can still authenticate,https://github.com/advisories/GHSA-v2p7-4pv4-3wwh,https://da.gd/IlAkgg
+GithubAdvisories,[GHSA-9v82-vcjx-m76j] Shopware: Reflective Cross Site-Scripting (XSS) in CMS components,https://github.com/advisories/GHSA-9v82-vcjx-m76j,https://da.gd/X96GR
+GithubAdvisories,[GHSA-9mv7-3c64-mmqw] xml2rfc is vulnerable to arbitrary file reads through prepped files,https://github.com/advisories/GHSA-9mv7-3c64-mmqw,https://da.gd/4Ij9
+GithubAdvisories,[GHSA-jxmr-2h4q-rhxp] WebSocket endpoint `/api/v2/ws/logs` reachable without authentication even when --auth is enabled,https://github.com/advisories/GHSA-jxmr-2h4q-rhxp,https://da.gd/4IpX
+GithubAdvisories,[GHSA-5m5x-9j46-h678] Element Plus Link component (el-link) implements insufficient input validation for the href attribute,https://github.com/advisories/GHSA-5m5x-9j46-h678,https://da.gd/74IJp
+GithubAdvisories,[GHSA-wh92-6q6g-px7j] Magento Community Edition Improper Input Validation vulnerability,https://github.com/advisories/GHSA-wh92-6q6g-px7j,https://da.gd/2BpPA6
+GithubAdvisories,[GHSA-3vcp-r62v-xpvg] Apache DolphinScheduler vulnerable to Alert Script Attack,https://github.com/advisories/GHSA-3vcp-r62v-xpvg,https://da.gd/5rKB0M
+GithubAdvisories,[GHSA-p2xp-xx3r-mffc] PyInstaller has local privilege escalation vulnerability,https://github.com/advisories/GHSA-p2xp-xx3r-mffc,https://da.gd/eCO3AH
+GithubAdvisories,[GHSA-j4h9-wv2m-wrf7] Claude Code vulnerable to arbitrary code execution caused by maliciously configured git email,https://github.com/advisories/GHSA-j4h9-wv2m-wrf7,https://da.gd/3RvgH
