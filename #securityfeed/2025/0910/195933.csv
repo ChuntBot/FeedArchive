@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-477q-x55m-j38g] Liferay Portal is vulnerable to SSRF through custom object attachment fields,https://github.com/advisories/GHSA-477q-x55m-j38g,https://da.gd/iZWHMa
+GithubAdvisories,[GHSA-jgw4-cr84-mqxg] Picklescan Bypass is Possible via File Extension Mismatch,https://github.com/advisories/GHSA-jgw4-cr84-mqxg,https://da.gd/wvs8V
+GithubAdvisories,[GHSA-mjqp-26hc-grxg] Picklescan: ZIP archive scan bypass is possible through non-exhaustive Cyclic Redundancy Check,https://github.com/advisories/GHSA-mjqp-26hc-grxg,https://da.gd/QdZvNl
+GithubAdvisories,[GHSA-r4h8-hfp2-ggmf] Hoverfly is vulnerable to Remote Code Execution through an insecure middleware implementation,https://github.com/advisories/GHSA-r4h8-hfp2-ggmf,https://da.gd/GDb6KZ
