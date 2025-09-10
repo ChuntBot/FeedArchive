@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f7qq-56ww-84cr] Picklescan is Vulnerable to Unsafe Globals Check Bypass through Subclass Imports,https://github.com/advisories/GHSA-f7qq-56ww-84cr,https://da.gd/xwHn
+GithubAdvisories,[GHSA-w765-jm6w-4hhj] Webrecorder packages are vulnerable to XSS through 404 error handling logic,https://github.com/advisories/GHSA-w765-jm6w-4hhj,https://da.gd/prdzs
+GithubAdvisories,[GHSA-34w8-mcwr-vg29] CodeceptJS's incomprehensive sanitation can lead to Command Injection,https://github.com/advisories/GHSA-34w8-mcwr-vg29,https://da.gd/ufgG9
+GithubAdvisories,[GHSA-qxfv-fcpc-w36x] Claude Code rg vulnerability does not protect against approval prompt bypass,https://github.com/advisories/GHSA-qxfv-fcpc-w36x,https://da.gd/sKZ03
