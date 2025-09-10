@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-68x2-mx4q-78m7] Angular SSR: Global Platform Injector Race Condition Leads to Cross-Request Data Leakage,https://github.com/advisories/GHSA-68x2-mx4q-78m7,https://da.gd/URpDV
+GithubAdvisories,[GHSA-29cj-cxw4-v4j2] YesWiki Cross Site Scripting vulnerability,https://github.com/advisories/GHSA-29cj-cxw4-v4j2,https://da.gd/cPUk0
+GithubAdvisories,[GHSA-4wcm-7hjf-6xw5] interactive-git-checkout has a Command Injection vulnerability,https://github.com/advisories/GHSA-4wcm-7hjf-6xw5,https://da.gd/a7HeK
