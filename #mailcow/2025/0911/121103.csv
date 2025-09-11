@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] remove unused bcc dest column from alias table,https://github.com/mailcow/mailcow-dockerized/commit/642ac6d02cac69eec7c323ca4b582b72ff73416d,https://da.gd/W3ffx
+GithubCommitStaging,[SOGo] Drop deprecated `sogo_update_password` sql trigger if it still…,https://github.com/mailcow/mailcow-dockerized/commit/0d900d4fc8559072c5365f374f6025ebe1961638,https://da.gd/msOF7
+GithubCommitStaging,Merge pull request #6727 from mailcow/fix/6423,https://github.com/mailcow/mailcow-dockerized/commit/34b48eedfc5e1b149743dd0e94d2c5ad555e7c32,https://da.gd/tqdI
+GithubCommitStaging,Merge pull request #6726 from mailcow/fix/6135,https://github.com/mailcow/mailcow-dockerized/commit/f67a12d15704b5dfc942889607064d9a2991919b,https://da.gd/a3zSvY
