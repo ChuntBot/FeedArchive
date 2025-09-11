@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-88g3-pv3w-5wmr] Liferay Portal is vulnerable to XSS attacks via its remote app title field,https://github.com/advisories/GHSA-88g3-pv3w-5wmr,https://da.gd/cYfI8n
+GithubAdvisories,[GHSA-x5fw-8xgx-q6c9] Liferay Portal is vulnerable to XSS attack through its search bar portlet,https://github.com/advisories/GHSA-x5fw-8xgx-q6c9,https://da.gd/dkIqj
+GithubAdvisories,[GHSA-9p7x-8c57-4pqv] Liferay Portal exposes ERC which can lead to exploit the time response attack,https://github.com/advisories/GHSA-9p7x-8c57-4pqv,https://da.gd/yQLdA9
+GithubAdvisories,[GHSA-xmxv-39qj-c824] Malware in lovable-ci,https://github.com/advisories/GHSA-xmxv-39qj-c824,https://da.gd/vEv9Ap
+GithubAdvisories,[GHSA-gfp9-827v-8wch] Malware in mongose-ci,https://github.com/advisories/GHSA-gfp9-827v-8wch,https://da.gd/dtiwK
