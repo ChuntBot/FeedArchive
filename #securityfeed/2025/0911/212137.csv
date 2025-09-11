@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4hjh-wcwx-xvwj] Axios is vulnerable to DoS attack through lack of data size check,https://github.com/advisories/GHSA-4hjh-wcwx-xvwj,https://da.gd/Zrew
