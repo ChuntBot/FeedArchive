@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-765j-9r45-w2q2] Flask App Builder has an Authentication Bypass vulnerability when using non AUTH_DB methods,https://github.com/advisories/GHSA-765j-9r45-w2q2,https://da.gd/UCGpL
