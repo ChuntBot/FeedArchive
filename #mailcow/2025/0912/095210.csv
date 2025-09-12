@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubCommit,scripts: ipv6_controller improvement + fix modules handling (#6722),https://github.com/mailcow/mailcow-dockerized/commit/94c1a6c4e1f8901e38e4562dd208cc026277fab8,https://da.gd/xbcb
+GithubCommit,[Web] remove unused bcc dest column from alias table,https://github.com/mailcow/mailcow-dockerized/commit/642ac6d02cac69eec7c323ca4b582b72ff73416d,https://da.gd/W3ffx
+GithubCommit,[SOGo] Drop deprecated `sogo_update_password` sql trigger if it still…,https://github.com/mailcow/mailcow-dockerized/commit/0d900d4fc8559072c5365f374f6025ebe1961638,https://da.gd/msOF7
+GithubCommit,Merge pull request #6727 from mailcow/fix/6423,https://github.com/mailcow/mailcow-dockerized/commit/34b48eedfc5e1b149743dd0e94d2c5ad555e7c32,https://da.gd/tqdI
+GithubCommit,Merge pull request #6726 from mailcow/fix/6135,https://github.com/mailcow/mailcow-dockerized/commit/f67a12d15704b5dfc942889607064d9a2991919b,https://da.gd/a3zSvY
+GithubCommit,[Nginx] fix: Disable IPv6 support in Nginx configuration (#6736),https://github.com/mailcow/mailcow-dockerized/commit/84e230de8f68705f8cf9b7ef20bc18525275bd35,https://da.gd/i8Ok3
+GithubCommit,Merge pull request #6738 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/ef0f366d1cc9f60a6b17f92390616301b3475535,https://da.gd/YhS8VK
