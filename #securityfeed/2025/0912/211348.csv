@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-33vc-wfww-vjfv] jsondiffpatch is vulnerable to Cross-site Scripting (XSS) via HtmlFormatter::nodeBegin,https://github.com/advisories/GHSA-33vc-wfww-vjfv,https://da.gd/9wElKa
+GithubAdvisories,[GHSA-92vj-g62v-jqhh] Hono has Body Limit Middleware Bypass,https://github.com/advisories/GHSA-92vj-g62v-jqhh,https://da.gd/SBWnB
+GithubAdvisories,[GHSA-q7pg-9pr4-mrp2] httpsig-rs: HMAC verification is vulnerable to timing attack,https://github.com/advisories/GHSA-q7pg-9pr4-mrp2,https://da.gd/dgtKA5
+GithubAdvisories,[GHSA-h8wv-vv58-468h] Subrion CMS: Authenticated administrators are able to gain escalated access through Run SQL Query tool,https://github.com/advisories/GHSA-h8wv-vv58-468h,https://da.gd/YXoP4k
+GithubAdvisories,[GHSA-jhgr-j9cj-8j62] Liferay Portal is vulnerable to Reflected XSS attack through get_editor path,https://github.com/advisories/GHSA-jhgr-j9cj-8j62,https://da.gd/woblL4
+GithubAdvisories,[GHSA-fvp7-jj9m-3qpf] Liferay Portal's Incorrect Authorization vulnerability can lead to guest users to obtaining sensitive data,https://github.com/advisories/GHSA-fvp7-jj9m-3qpf,https://da.gd/lNWll
