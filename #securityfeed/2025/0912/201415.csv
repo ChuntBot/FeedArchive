@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wgpv-6j63-x5ph] Flowise Cloud and Local Deployments have Unauthenticated Password Reset Token Disclosure that Leads to Account Takeover,https://github.com/advisories/GHSA-wgpv-6j63-x5ph,https://da.gd/s4N2o
+GithubAdvisories,[GHSA-qhxp-v273-g94h] sanitize-html is vulnerable to XSS through incomprehensive sanitization,https://github.com/advisories/GHSA-qhxp-v273-g94h,https://da.gd/yXiBha
+GithubAdvisories,[GHSA-5wxc-3jfw-w94p] Liferay Portal is vulnerable to Insecure Direct Object Reference (IDOR) attack through Authentication Bypass,https://github.com/advisories/GHSA-5wxc-3jfw-w94p,https://da.gd/P4cQ
