@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3vcm-c42p-3hhf] Mattermost Missing Authorization vulnerability,https://github.com/advisories/GHSA-3vcm-c42p-3hhf,https://da.gd/UfJDO
+GithubAdvisories,[GHSA-g5cg-6c7v-mmpw] HackMD MCP Server has Server-Side Request Forgery (SSRF) vulnerability,https://github.com/advisories/GHSA-g5cg-6c7v-mmpw,https://da.gd/S82DQ
+GithubAdvisories,[GHSA-qhwp-454g-2gv4] express-xss-sanitizer has an unbounded recursion depth,https://github.com/advisories/GHSA-qhwp-454g-2gv4,https://da.gd/fRZwL
+GithubAdvisories,[GHSA-rcv9-qm8p-9p6j] Hugging Face Transformers library has Regular Expression Denial of Service,https://github.com/advisories/GHSA-rcv9-qm8p-9p6j,https://da.gd/6ZuO
+GithubAdvisories,[GHSA-f7qg-xj45-w956] Ghost vulnerable to Server Side Request Forgery (SSRF) via oEmbed Bookmark,https://github.com/advisories/GHSA-f7qg-xj45-w956,https://da.gd/fjh8S
+GithubAdvisories,[GHSA-6933-jpx5-q87q] Flowise has unsandboxed remote code execution via Custom MCP,https://github.com/advisories/GHSA-6933-jpx5-q87q,https://da.gd/c5d9k
