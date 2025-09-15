@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g9vw-6pvx-7gmw] Envoy: Race condition in Dynamic Forward Proxy leads to use-after-free and segmentation faults,https://github.com/advisories/GHSA-g9vw-6pvx-7gmw,https://da.gd/RrIg
+GithubAdvisories,"[GHSA-jj4j-x5ww-cwh9] Before action, Ash's hooks may execute in certain scenarios despite a request being forbidden",https://github.com/advisories/GHSA-jj4j-x5ww-cwh9,https://da.gd/2uU0Hj
