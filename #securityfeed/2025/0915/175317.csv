@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cvmj-47v9-35m9] FUSE-Rust: Uninitalized memory read and leak caused by fuser crate,https://github.com/advisories/GHSA-cvmj-47v9-35m9,https://da.gd/M2Btgn
