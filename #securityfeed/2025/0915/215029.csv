@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qrmh-qg46-72pp] color@5.0.1 contains malware after npm account takeover,https://github.com/advisories/GHSA-qrmh-qg46-72pp,https://da.gd/hnb7p3
+GithubAdvisories,[GHSA-9g9j-rggx-7fmg] simple-swizzle@0.2.3 contains malware after npm account takeover,https://github.com/advisories/GHSA-9g9j-rggx-7fmg,https://da.gd/75knb
+GithubAdvisories,[GHSA-53mq-f4w3-f7qv] backslash@0.2.1 contains malware after npm account takeover,https://github.com/advisories/GHSA-53mq-f4w3-f7qv,https://da.gd/6Y4mG
+GithubAdvisories,[GHSA-4x49-vf9v-38px] debug@4.4.2 contains malware after npm account takeover,https://github.com/advisories/GHSA-4x49-vf9v-38px,https://da.gd/tSrDd
+GithubAdvisories,[GHSA-286p-vc9p-p5qv] color-string@2.1.1 contains malware after npm account takeover,https://github.com/advisories/GHSA-286p-vc9p-p5qv,https://da.gd/4A2FtR
+GithubAdvisories,[GHSA-4hqq-7q79-932p] mcp-kubernetes-server has an OS Command Injection vulnerability,https://github.com/advisories/GHSA-4hqq-7q79-932p,https://da.gd/Qdbc1Y
+GithubAdvisories,[GHSA-hjm5-xgj8-vwj6] mcp-kubernetes-server has a Command Injection vulnerability,https://github.com/advisories/GHSA-hjm5-xgj8-vwj6,https://da.gd/caxY7R
+GithubAdvisories,[GHSA-2jfg-73q2-24qv] Xuxueli XXL-SSO Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-2jfg-73q2-24qv,https://da.gd/f2RY4
