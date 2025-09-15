@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hhw4-xg65-fp2x] serde_yml crate is unsound and unmaintained,https://github.com/advisories/GHSA-hhw4-xg65-fp2x,https://da.gd/s1oAA
+GithubAdvisories,[GHSA-59p9-h35m-wg4g] Hugging Face Transformers is vulnerable to ReDoS through its MarianTokenizer,https://github.com/advisories/GHSA-59p9-h35m-wg4g,https://da.gd/3XKNO
+GithubAdvisories,[GHSA-gfxp-f68g-8x78] LibYML: `libyml::string::yaml_string_extend` is unsound and unmaintained,https://github.com/advisories/GHSA-gfxp-f68g-8x78,https://da.gd/Mnr9M
+GithubAdvisories,[GHSA-qj3p-xc97-xw74] MetaMask SDK indirectly exposed via malicious debug@4.4.2 dependency,https://github.com/advisories/GHSA-qj3p-xc97-xw74,https://da.gd/jrgpJV
+GithubAdvisories,[GHSA-g8fh-pfw3-8rmr] Liferay Portal's selection modal is vulnerable to XSS,https://github.com/advisories/GHSA-g8fh-pfw3-8rmr,https://da.gd/20mPN
+GithubAdvisories,[GHSA-g4c9-f287-64xg] SimStudioAI: A function in route.ts is vulnerable to Code Injection,https://github.com/advisories/GHSA-g4c9-f287-64xg,https://da.gd/22TOM
