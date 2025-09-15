@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q86r-gwqc-jx85] Liferay Portal JSON Web Services Direct Class Invocation Enables Service Access Policy Execution,https://github.com/advisories/GHSA-q86r-gwqc-jx85,https://da.gd/ipF3S
+GithubAdvisories,"[GHSA-m55r-9fx8-725j] Liferay Portal's System, Instance and Site Settings are vulnerable to Open Redirect",https://github.com/advisories/GHSA-m55r-9fx8-725j,https://da.gd/tjb4o
+GithubAdvisories,[GHSA-f3hf-r62c-mfrj] Liferay Portal: Missing Rate Limiting in GraphQL Endpoint Enables Resource Exhaustion Attack,https://github.com/advisories/GHSA-f3hf-r62c-mfrj,https://da.gd/9uYHS
+GithubAdvisories,[GHSA-v53g-736w-mgw4] Liferay Portal's Organization Selector exposes organization data to remote authenticated users,https://github.com/advisories/GHSA-v53g-736w-mgw4,https://da.gd/ouWH
+GithubAdvisories,[GHSA-wr8m-5h2p-4432] Liferay Portal API Allows Authenticated Users to Access Workflow Definitions by Name,https://github.com/advisories/GHSA-wr8m-5h2p-4432,https://da.gd/mRzB5g
+GithubAdvisories,[GHSA-95hm-pr6q-298w] fast-able is vulnerable to DoS attack through insecure method,https://github.com/advisories/GHSA-95hm-pr6q-298w,https://da.gd/3jNyyy
+GithubAdvisories,[GHSA-6m4g-vm7c-f8w6] Malware in ngx-bootstrap,https://github.com/advisories/GHSA-6m4g-vm7c-f8w6,https://da.gd/Gb1YRg
+GithubAdvisories,[GHSA-f3v2-259r-f6jc] Malware in ng2-file-upload,https://github.com/advisories/GHSA-f3v2-259r-f6jc,https://da.gd/MZZzfC
