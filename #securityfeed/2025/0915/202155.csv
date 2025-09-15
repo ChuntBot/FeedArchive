@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q67q-549q-p849] Flowise has arbitrary file access due to missing chat flow id validation,https://github.com/advisories/GHSA-q67q-549q-p849,https://da.gd/tjb0q
+GithubAdvisories,[GHSA-99pg-hqvx-r4gf] Flowise has an Arbitrary File Read,https://github.com/advisories/GHSA-99pg-hqvx-r4gf,https://da.gd/T48Nz
+GithubAdvisories,[GHSA-3gcm-f6qx-ff7p] Flowise has Remote Code Execution vulnerability,https://github.com/advisories/GHSA-3gcm-f6qx-ff7p,https://da.gd/TMgWH
+GithubAdvisories,[GHSA-hr92-4q35-4j3m] FlowiseAI/Flowise has Server-Side Request Forgery (SSRF) vulnerability,https://github.com/advisories/GHSA-hr92-4q35-4j3m,https://da.gd/U6a8Xd
