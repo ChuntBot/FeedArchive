@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xv9f-728h-9jgv] Chaos Controller Manager is vulnerable to OS command injection,https://github.com/advisories/GHSA-xv9f-728h-9jgv,https://da.gd/fXLPS1
+GithubAdvisories,[GHSA-369h-6j28-wwcg] Chaos Controller Manager is vulnerable to OS command injection,https://github.com/advisories/GHSA-369h-6j28-wwcg,https://da.gd/QCRnfu
+GithubAdvisories,[GHSA-2gg8-85m5-8r2p] Chaos Mesh's Chaos Controller Manager is Missing Authentication for Critical Function,https://github.com/advisories/GHSA-2gg8-85m5-8r2p,https://da.gd/wX8LvZ
+GithubAdvisories,[GHSA-r45v-2289-jgr4] Liferay Portal has stored cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-r45v-2289-jgr4,https://da.gd/47xF7P
+GithubAdvisories,[GHSA-2gcv-3qpf-c5qr] Chaos Controller Manager is vulnerable to OS command injection,https://github.com/advisories/GHSA-2gcv-3qpf-c5qr,https://da.gd/lZdaSm
