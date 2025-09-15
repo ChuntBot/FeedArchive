@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mvh4-2cm2-6hpg] Stored XSS in n8n LangChain Chat Trigger Node via initialMessages Parameter,https://github.com/advisories/GHSA-mvh4-2cm2-6hpg,https://da.gd/RGafd
