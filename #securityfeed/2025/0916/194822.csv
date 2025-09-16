@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jmp9-x22r-554x] Spring Framework annotation detection mechanism may result in improper authorization,https://github.com/advisories/GHSA-jmp9-x22r-554x,https://da.gd/mguX
+GithubAdvisories,[GHSA-8v5q-rhf3-jphm] Spring Security annotation detection mechanism has authorization bypass,https://github.com/advisories/GHSA-8v5q-rhf3-jphm,https://da.gd/ym0N
+GithubAdvisories,"[GHSA-54pg-2x9h-cmx8] TYPO3 ""Form to Database"" extension susceptible to Cross-site Scripting",https://github.com/advisories/GHSA-54pg-2x9h-cmx8,https://da.gd/iXn3
+GithubAdvisories,[GHSA-qmgv-j263-qr33] Langchain-Chatchat has a Path Traversal vulnerability,https://github.com/advisories/GHSA-qmgv-j263-qr33,https://da.gd/dAJ78
+GithubAdvisories,"[GHSA-65hm-pwj5-73pw] @executeautomation/database-server does not properly restrict access, bypassing a ""read-only"" mode",https://github.com/advisories/GHSA-65hm-pwj5-73pw,https://da.gd/2uFE
+GithubAdvisories,[GHSA-vg6h-g5mr-9hgv] Liferay Stored Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-vg6h-g5mr-9hgv,https://da.gd/CmmtjI
