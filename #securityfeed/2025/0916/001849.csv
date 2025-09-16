@@ -1,0 +1,25 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-43xf-59vr-g4f2] Liferay Portal Uses Default Password,https://github.com/advisories/GHSA-43xf-59vr-g4f2,https://da.gd/eX9Li
+GithubAdvisories,[GHSA-4p5r-3jmm-652q] Liferay DXP Missing Critical Step in Authentication,https://github.com/advisories/GHSA-4p5r-3jmm-652q,https://da.gd/tgKsu8
+GithubAdvisories,[GHSA-jfv5-r382-xvwh] Liferay Portal Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-jfv5-r382-xvwh,https://da.gd/fb0gw
+GithubAdvisories,[GHSA-9cg4-9hv5-3376] WebSSH Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-9cg4-9hv5-3376,https://da.gd/dYJqi9
+GithubAdvisories,[GHSA-frh7-2f84-v9mw] is-arrayish@0.3.3 contains malware after npm account takeover,https://github.com/advisories/GHSA-frh7-2f84-v9mw,https://da.gd/Yd0rc6
+GithubAdvisories,[GHSA-6jp5-hh4c-8c5h] error-ex@1.3.3 contains malware after npm account takeover,https://github.com/advisories/GHSA-6jp5-hh4c-8c5h,https://da.gd/df3w
+GithubAdvisories,[GHSA-ffqw-mm5j-r493] Malware in ts-gaussian,https://github.com/advisories/GHSA-ffqw-mm5j-r493,https://da.gd/GlYHQ
+GithubAdvisories,[GHSA-9447-225q-wv2h] Malware in swc-plugin-component-annotate,https://github.com/advisories/GHSA-9447-225q-wv2h,https://da.gd/3owgv
+GithubAdvisories,[GHSA-v863-pqmj-5g7j] Malware in @ctrl/ngx-emoji-mart,https://github.com/advisories/GHSA-v863-pqmj-5g7j,https://da.gd/bm02d
+GithubAdvisories,[GHSA-g769-mv96-8f6f] Malware in ngx-trend,https://github.com/advisories/GHSA-g769-mv96-8f6f,https://da.gd/OazI7
+GithubAdvisories,[GHSA-qp89-vf7f-22w4] Malware in ngx-toastr,https://github.com/advisories/GHSA-qp89-vf7f-22w4,https://da.gd/h2fhcF
+GithubAdvisories,[GHSA-5c44-ff9h-4c48] Malware in @ctrl/ngx-csv,https://github.com/advisories/GHSA-5c44-ff9h-4c48,https://da.gd/TIYGVb
+GithubAdvisories,[GHSA-vh32-94f7-96h8] Malware in ngx-color,https://github.com/advisories/GHSA-vh32-94f7-96h8,https://da.gd/Kw0hV0
+GithubAdvisories,[GHSA-vm28-3ghv-77vr] Malware in @ctrl/ngx-rightclick,https://github.com/advisories/GHSA-vm28-3ghv-77vr,https://da.gd/FP0oz
+GithubAdvisories,[GHSA-5rr9-pf78-f78v] Malware in @ctrl/ngx-codemirror,https://github.com/advisories/GHSA-5rr9-pf78-f78v,https://da.gd/3juJYL
+GithubAdvisories,[GHSA-c4cx-7q75-vjq5] Malware in @ctrl/qbittorrent,https://github.com/advisories/GHSA-c4cx-7q75-vjq5,https://da.gd/XOruOu
+GithubAdvisories,[GHSA-487x-8rm3-h5j5] Malware in @ctrl/magnet-link,https://github.com/advisories/GHSA-487x-8rm3-h5j5,https://da.gd/0opcz
+GithubAdvisories,[GHSA-2mph-rq7h-rc8q] Malware in koa2-swagger-ui,https://github.com/advisories/GHSA-2mph-rq7h-rc8q,https://da.gd/Awu2U
+GithubAdvisories,[GHSA-6wgq-85c7-p729] Malware in angulartics2,https://github.com/advisories/GHSA-6wgq-85c7-p729,https://da.gd/6KA4x
+GithubAdvisories,[GHSA-3xq6-jchq-ph3r] Malware in @ctrl/golang-template,https://github.com/advisories/GHSA-3xq6-jchq-ph3r,https://da.gd/PtoIq3
+GithubAdvisories,[GHSA-wv45-cmjw-6456] Malware in @ctrl/deluge,https://github.com/advisories/GHSA-wv45-cmjw-6456,https://da.gd/6gymJi
+GithubAdvisories,[GHSA-8v7r-ghw6-g8gq] Malware in @ctrl/transmission,https://github.com/advisories/GHSA-8v7r-ghw6-g8gq,https://da.gd/nOjt
+GithubAdvisories,[GHSA-374x-j467-2658] Malware in @ctrl/ts-base32,https://github.com/advisories/GHSA-374x-j467-2658,https://da.gd/gZpTU
+GithubAdvisories,[GHSA-8m4r-v6wj-gxmc] Malware in @ctrl/torrent-file,https://github.com/advisories/GHSA-8m4r-v6wj-gxmc,https://da.gd/BHs12
