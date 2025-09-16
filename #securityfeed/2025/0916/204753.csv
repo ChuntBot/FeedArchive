@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-95h4-8mqc-4mpf] Liferay Portal has unchecked input for loop condition vulnerability in XML-RPC,https://github.com/advisories/GHSA-95h4-8mqc-4mpf,https://da.gd/30hbam
+GithubAdvisories,[GHSA-m68q-4hqr-mc6f] Podman Creates Temporary File with Insecure Permissions,https://github.com/advisories/GHSA-m68q-4hqr-mc6f,https://da.gd/fedS2l
+GithubAdvisories,[GHSA-q2cj-h8fw-q4cc] Spring Expression language property modification using Spring Cloud Gateway Server WebFlux,https://github.com/advisories/GHSA-q2cj-h8fw-q4cc,https://da.gd/LtLYC
+GithubAdvisories,[GHSA-mp7c-m3rh-r56v] matrix-js-sdk has insufficient validation when considering a room to be upgraded by another,https://github.com/advisories/GHSA-mp7c-m3rh-r56v,https://da.gd/AQ9C
