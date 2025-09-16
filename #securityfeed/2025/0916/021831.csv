@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w252-645g-87mp] Openfire has potential identity spoofing issue via unsafe CN parsing,https://github.com/advisories/GHSA-w252-645g-87mp,https://da.gd/jX40d
