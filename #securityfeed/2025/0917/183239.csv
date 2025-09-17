@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c2f4-jgmc-q2r5] REXML has DoS condition when parsing malformed XML file,https://github.com/advisories/GHSA-c2f4-jgmc-q2r5,https://da.gd/drCYf
+GithubAdvisories,[GHSA-7q95-2pfh-4832] Malware in @art-ws/slf,https://github.com/advisories/GHSA-7q95-2pfh-4832,https://da.gd/CeB7o
+GithubAdvisories,[GHSA-xgj5-hfjv-p3xf] Malware in @art-ws/di,https://github.com/advisories/GHSA-xgj5-hfjv-p3xf,https://da.gd/iPqplo
+GithubAdvisories,[GHSA-hw22-4r5h-554j] Malware in @art-ws/db-context,https://github.com/advisories/GHSA-hw22-4r5h-554j,https://da.gd/42KJ0i
+GithubAdvisories,[GHSA-p7wq-ff6x-vgc6] Malware in @art-ws/package-base,https://github.com/advisories/GHSA-p7wq-ff6x-vgc6,https://da.gd/Ut726
+GithubAdvisories,[GHSA-q6v7-hj3f-f995] Malware in @art-ws/common,https://github.com/advisories/GHSA-q6v7-hj3f-f995,https://da.gd/OFTOzn
