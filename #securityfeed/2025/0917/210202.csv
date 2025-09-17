@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-393w-9x6h-8gc7] Pingora update for MadeYouReset HTTP/2 vulnerability,https://github.com/advisories/GHSA-393w-9x6h-8gc7,https://da.gd/oAZT8
+GithubAdvisories,[GHSA-p6jq-8vc4-79f6] Nuxt has Client-Side Path Traversal in Nuxt Island Payload Revival,https://github.com/advisories/GHSA-p6jq-8vc4-79f6,https://da.gd/gVX6b
+GithubAdvisories,[GHSA-qrh5-jg98-cr48] Jenkins has a log message injection vulnerability,https://github.com/advisories/GHSA-qrh5-jg98-cr48,https://da.gd/1q42yh
+GithubAdvisories,[GHSA-223m-4rfp-646h] Jenkins is missing a permission check in the authenticated users' profile menu,https://github.com/advisories/GHSA-223m-4rfp-646h,https://da.gd/gHNv1
+GithubAdvisories,"[GHSA-67v4-38h7-9jjp] Jenkins has a missing permission check, allowing users to obtain agent names",https://github.com/advisories/GHSA-67v4-38h7-9jjp,https://da.gd/LfbBSe
