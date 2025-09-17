@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-98x5-jw98-6c97] Dragonfly's manager makes requests to external endpoints with disabled TLS authentication,https://github.com/advisories/GHSA-98x5-jw98-6c97,https://da.gd/MIlkvD
+GithubAdvisories,[GHSA-g2rq-jv54-wcpr] Dragonfly vulnerable to server-side request forgery,https://github.com/advisories/GHSA-g2rq-jv54-wcpr,https://da.gd/yqPN
+GithubAdvisories,[GHSA-89vc-vf32-ch59] Dragonfly doesn't have authentication enabled for some Manager’s endpoints,https://github.com/advisories/GHSA-89vc-vf32-ch59,https://da.gd/knPFe
+GithubAdvisories,[GHSA-5pp7-m8x8-rc82] Liferay Portal allows remote attackers to view display page templates via crafted URLs,https://github.com/advisories/GHSA-5pp7-m8x8-rc82,https://da.gd/uZUiQ
+GithubAdvisories,[GHSA-ccrc-5vp5-vp5j] Liferay search widget vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-ccrc-5vp5-vp5j,https://da.gd/SIZpN
+GithubAdvisories,[GHSA-w7r3-mgwf-4mqq] Kubernetes C# client accepts certificates from any CA without properly verifying the trust chain,https://github.com/advisories/GHSA-w7r3-mgwf-4mqq,https://da.gd/UCKNKA
+GithubAdvisories,[GHSA-g2h5-cvvr-7gmw] esm.sh has arbitrary file write via path traversal in `X-Zone-Id` header,https://github.com/advisories/GHSA-g2h5-cvvr-7gmw,https://da.gd/UFI1S
