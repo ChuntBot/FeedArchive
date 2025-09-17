@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m49c-g9wr-hv6v] jinjava has Sandbox Bypass via JavaType-Based Deserialization,https://github.com/advisories/GHSA-m49c-g9wr-hv6v,https://da.gd/55IS
+GithubAdvisories,[GHSA-8425-8r2f-mrv6] Dragonfly's directories created via os.MkdirAll are not checked for permissions,https://github.com/advisories/GHSA-8425-8r2f-mrv6,https://da.gd/A3L8w
+GithubAdvisories,[GHSA-2qgr-gfvj-qpcr] Dragonfly incorrectly handles a task structure’s usedTrac field,https://github.com/advisories/GHSA-2qgr-gfvj-qpcr,https://da.gd/ynB0
