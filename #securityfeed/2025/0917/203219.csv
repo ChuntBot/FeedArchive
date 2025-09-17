@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hf6h-9wq7-hmjg] Duplicate Advisory: Picklescan is Vulnerable to Unsafe Globals Check Bypass through Subclass Imports,https://github.com/advisories/GHSA-hf6h-9wq7-hmjg,https://da.gd/qScZ6
+GithubAdvisories,[GHSA-j424-mc44-f4hj] Duplicate Advisory: Picklescan Bypass is Possible via File Extension Mismatch,https://github.com/advisories/GHSA-j424-mc44-f4hj,https://da.gd/TxBQR
+GithubAdvisories,[GHSA-4vr7-g93g-cf6m] Duplicate Advisory: Picklescan: ZIP archive scan bypass is possible through non-exhaustive Cyclic Redundancy Check,https://github.com/advisories/GHSA-4vr7-g93g-cf6m,https://da.gd/AA4wc5
+GithubAdvisories,[GHSA-m4j5-5x4r-2xp9] Keycloak SMTP Inject Vulnerability,https://github.com/advisories/GHSA-m4j5-5x4r-2xp9,https://da.gd/DJLq7C
+GithubAdvisories,[GHSA-mcvp-rpgg-9273] DragonFly's tiny file download uses hard coded HTTP protocol,https://github.com/advisories/GHSA-mcvp-rpgg-9273,https://da.gd/aBPR6
+GithubAdvisories,[GHSA-hx2h-vjw2-8r54] DragonFly has weak integrity checks for downloaded files,https://github.com/advisories/GHSA-hx2h-vjw2-8r54,https://da.gd/312aHw
+GithubAdvisories,[GHSA-255v-qv84-29p5] DragonFly's manager generates mTLS certificates for arbitrary IP addresses,https://github.com/advisories/GHSA-255v-qv84-29p5,https://da.gd/OmPmR
+GithubAdvisories,[GHSA-79hx-3fp8-hj66] DragonFly vulnerable to arbitrary file read and write on a peer machine,https://github.com/advisories/GHSA-79hx-3fp8-hj66,https://da.gd/P1nbA
+GithubAdvisories,[GHSA-4mhv-8rh3-4ghw] DragonFly vulnerable to panics due to nil pointer dereference when using variables created alongside an error,https://github.com/advisories/GHSA-4mhv-8rh3-4ghw,https://da.gd/e54hQ
+GithubAdvisories,[GHSA-c2fc-9q9c-5486] Dragonfly vulnerable to timing attacks against Proxy’s basic authentication,https://github.com/advisories/GHSA-c2fc-9q9c-5486,https://da.gd/9Fjg
