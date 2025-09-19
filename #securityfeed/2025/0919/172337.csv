@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-36fq-jgmw-4r9c] Keras is vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-36fq-jgmw-4r9c,https://da.gd/p2n3oh
+GithubAdvisories,[GHSA-2h8j-8r9p-849f] @digitalocean/do-markdownit has Type Confusion vulnerability,https://github.com/advisories/GHSA-2h8j-8r9p-849f,https://da.gd/gt74JY
+GithubAdvisories,[GHSA-c9wp-pr7f-hfqm] Snipe-IT allows XSS,https://github.com/advisories/GHSA-c9wp-pr7f-hfqm,https://da.gd/atSMlP
+GithubAdvisories,[GHSA-phwj-fgch-xvrj] Snipe-IT allows unsafe deserialization,https://github.com/advisories/GHSA-phwj-fgch-xvrj,https://da.gd/q51b
+GithubAdvisories,[GHSA-w5fx-fh39-j5rw] Codex has sandbox bypass due to bug in path configuration logic,https://github.com/advisories/GHSA-w5fx-fh39-j5rw,https://da.gd/jMu5T2
