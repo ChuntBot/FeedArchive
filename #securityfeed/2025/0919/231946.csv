@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-chr3-w547-85hw] Liferay Portal Commerce component has Incorrect Permission Assignment for Critical Resource,https://github.com/advisories/GHSA-chr3-w547-85hw,https://da.gd/SRo3xO
+GithubAdvisories,[GHSA-qx3f-6vq3-8j8m] Mattermost Path Traversal vulnerability,https://github.com/advisories/GHSA-qx3f-6vq3-8j8m,https://da.gd/AgYr
+GithubAdvisories,[GHSA-697h-3q6m-jwp4] Liferay Portal Cross-Site Request Forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-697h-3q6m-jwp4,https://da.gd/Iwjmn
+GithubAdvisories,[GHSA-8c8v-r5jj-4425] Liferay Contacts Center widget has insecure direct object reference,https://github.com/advisories/GHSA-8c8v-r5jj-4425,https://da.gd/WI5bZy
