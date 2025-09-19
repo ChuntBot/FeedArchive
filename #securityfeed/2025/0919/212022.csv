@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-36rr-ww3j-vrjv] The Keras `Model.load_model` method **silently** ignores `safe_mode=True` and allows arbitrary code execution when a `.h5`/`.hdf5` file is loaded,https://github.com/advisories/GHSA-36rr-ww3j-vrjv,https://da.gd/SZHzt
