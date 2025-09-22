@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5xf2-f6ch-6p8r] CodeChecker has a buffer overflow in the log command,https://github.com/advisories/GHSA-5xf2-f6ch-6p8r,https://da.gd/ipZtDE
+GithubAdvisories,[GHSA-j2xj-h7w5-r7vp] Mailgen: HTML injection vulnerability in plaintext e-mails,https://github.com/advisories/GHSA-j2xj-h7w5-r7vp,https://da.gd/FsCOlZ
+GithubAdvisories,[GHSA-g38c-wxjf-xrh6] `git-comiters` Command Injection vulnerability,https://github.com/advisories/GHSA-g38c-wxjf-xrh6,https://da.gd/Es4qP
+GithubAdvisories,[GHSA-vh25-5764-9wcr] @conventional-changelog/git-client has Argument Injection vulnerability,https://github.com/advisories/GHSA-vh25-5764-9wcr,https://da.gd/GF98y3
+GithubAdvisories,[GHSA-f72g-52v7-mg3p] Mattermost boards plugin fails to restrict download access to files,https://github.com/advisories/GHSA-f72g-52v7-mg3p,https://da.gd/Ukzkw
