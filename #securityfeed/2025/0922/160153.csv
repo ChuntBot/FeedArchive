@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mm7x-qfjj-5g2c] Ammonia incorrectly handles embedded SVG and MathML leading to mutation XSS after removal,https://github.com/advisories/GHSA-mm7x-qfjj-5g2c,https://da.gd/Wqt61E
