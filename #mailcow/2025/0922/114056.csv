@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[SOGo][Web] Enable SOGo URL Encryption,https://github.com/mailcow/mailcow-dockerized/commit/260906e3501048bb6909a0d8329926e17cf2377f,https://da.gd/B3v6Fj
+GithubCommitStaging,[SOGo][Web] Set URL encryption key in mailcow.conf,https://github.com/mailcow/mailcow-dockerized/commit/610609378f2138aac35abd23db8063fdc63d7ef1,https://da.gd/zXgdE
+GithubCommitStaging,Merge pull request #6758 from mailcow/feat/sogo-url-encryption,https://github.com/mailcow/mailcow-dockerized/commit/78168ee80a87aed2711d67afad3cc7f54f381d04,https://da.gd/U67fzX
