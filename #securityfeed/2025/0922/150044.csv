@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9ggr-2464-2j32] Authlib: JWS/JWT accepts unknown crit headers (RFC violation → possible authz bypass),https://github.com/advisories/GHSA-9ggr-2464-2j32,https://da.gd/4rZGO
