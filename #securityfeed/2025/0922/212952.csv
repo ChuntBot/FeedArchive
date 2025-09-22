@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wq2j-w9pm-7x2p] DNN allows loading unused themes on anonymous clients through query parameters,https://github.com/advisories/GHSA-wq2j-w9pm-7x2p,https://da.gd/x4whv
+GithubAdvisories,[GHSA-jh9h-8xf2-25wj] Liferay has a stored cross-site scripting (XSS) vulnerability via a a publication’s “Name” text field,https://github.com/advisories/GHSA-jh9h-8xf2-25wj,https://da.gd/95ml1
+GithubAdvisories,[GHSA-5w3j-gwgh-4rfv] H2O affected by a deserialization vulnerability,https://github.com/advisories/GHSA-5w3j-gwgh-4rfv,https://da.gd/8IjDPo
+GithubAdvisories,[GHSA-vh3f-qppr-j97f] Mesh Connect JS SDK Vulnerable to Cross Site Scripting via createLink.openLink,https://github.com/advisories/GHSA-vh3f-qppr-j97f,https://da.gd/lK5pU
