@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] Allow wildcard subdomains for MTA-STS,https://github.com/mailcow/mailcow-dockerized/commit/a36485f0f1fe7ac2599a7c49b3604282b0391d90,https://da.gd/oZHoDs
+GithubCommitStaging,[Web] Remove Port from HTTP_HOST,https://github.com/mailcow/mailcow-dockerized/commit/4b2862cb3c2e8825620989aac42a735d16fe4313,https://da.gd/aaPRc
+GithubCommitStaging,[Nginx] do not invert ENABLE_IPV6,https://github.com/mailcow/mailcow-dockerized/commit/9940c503a2f9410cf802ed4a014699349c738099,https://da.gd/DmWaV
+GithubCommitStaging,Merge pull request #6762 from mailcow/fix/6740,https://github.com/mailcow/mailcow-dockerized/commit/6c00e292760b786a8d3bf42c89b5d92512c30756,https://da.gd/azyEai
+GithubCommitStaging,Merge pull request #6760 from mailcow/fix/6739,https://github.com/mailcow/mailcow-dockerized/commit/d31e74c778bd22c8aee89ea3a9128959a5a55327,https://da.gd/FCkTZ
+GithubCommitStaging,Merge pull request #6759 from mailcow/fix/6720,https://github.com/mailcow/mailcow-dockerized/commit/caca32bbba92874bec980c45b03a4d1241e22595,https://da.gd/iuwP
