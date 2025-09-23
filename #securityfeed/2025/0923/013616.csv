@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian: linux Critical Privilege Escalation Vulnerabilities DSA-6009-1,https://linuxsecurity.com/advisories/debian/debian-dsa-6009-1-linux-kpesky8fq0ma,https://da.gd/ogQQj9
+LinuxSecurity,Debian: linux Critical Escalation Denial of Service DSA-6008-1,https://linuxsecurity.com/advisories/debian/debian-dsa-6008-1-linux-mda14uqzma8y,https://da.gd/pUnc
+LinuxSecurity,Ubuntu 25.04: GNU C Library Critical Denial of Service CVE-2025-8058,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7760-1-gnu-c-library-rscjadcukglf,https://da.gd/H8wMj
+LinuxSecurity,Ubuntu 25.04: PAM High Access Risk Spoofing Vulnerability USN-7761-1,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7761-1-pam-m2bsdtycda0u,https://da.gd/OIlIzK
