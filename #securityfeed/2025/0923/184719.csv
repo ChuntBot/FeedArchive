@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hrmc-jmp7-mpm2] H2O.ai H2O vulnerable to deserialization attacks via a JDBC Connection URL,https://github.com/advisories/GHSA-hrmc-jmp7-mpm2,https://da.gd/D7EX5s
