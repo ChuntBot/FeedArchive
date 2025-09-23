@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3wgq-wrwc-vqmv] astral-tokio-tar has a path traversal in tar extraction,https://github.com/advisories/GHSA-3wgq-wrwc-vqmv,https://da.gd/cjAO
+GithubAdvisories,[GHSA-49mj-77q5-qw5g] Spring Batch Admin vulnerable to Stored Cross-site scripting (XSS) in the file upload functionality,https://github.com/advisories/GHSA-49mj-77q5-qw5g,https://da.gd/lh3B
+GithubAdvisories,[GHSA-274r-p6v6-fhh4] Spring Batch Admin vulnerable to Cross-site request forgery (CSRF) in the file upload functionality,https://github.com/advisories/GHSA-274r-p6v6-fhh4,https://da.gd/wiZrK9
+GithubAdvisories,[GHSA-cmjc-qp7j-xgwr] WSO2 carbon-apimgt affected by an authenticated stored cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-cmjc-qp7j-xgwr,https://da.gd/51dVd
+GithubAdvisories,[GHSA-4w7r-h757-3r74] Hugging Face Transformers vulnerable to Regular Expression Denial of Service (ReDoS) in the AdamWeightDecay optimizer,https://github.com/advisories/GHSA-4w7r-h757-3r74,https://da.gd/kBOyP
+GithubAdvisories,[GHSA-wcwh-7gfw-5wrr] Http4s vulnerable to HTTP Request Smuggling due to improper handling of HTTP trailer section,https://github.com/advisories/GHSA-wcwh-7gfw-5wrr,https://da.gd/3EuEv
