@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3wc8-659g-r88q] Low severity vulnerability that affects org.springframework.batch:spring-batch-core,https://github.com/advisories/GHSA-3wc8-659g-r88q,https://da.gd/bW1LKn
+GithubAdvisories,[GHSA-ph63-chvv-8x46] Liferay Portal and DXP audit events record password reminder answers,https://github.com/advisories/GHSA-ph63-chvv-8x46,https://da.gd/mwXjgd
+GithubAdvisories,[GHSA-f372-9rcj-8w2c] Liferay Portal and DXP allows users to add a note to a different virtual instance,https://github.com/advisories/GHSA-f372-9rcj-8w2c,https://da.gd/eN9Q
+GithubAdvisories,[GHSA-pm45-xx4q-fmv7] Liferay Portal and DXP does not properly check permission with import and export tasks,https://github.com/advisories/GHSA-pm45-xx4q-fmv7,https://da.gd/z5Ege
+GithubAdvisories,[GHSA-jc4g-c8ww-5738] DNN vulnerable to Reflected Cross-Site Scripting (XSS) using url to profile,https://github.com/advisories/GHSA-jc4g-c8ww-5738,https://da.gd/cGYnU
+GithubAdvisories,[GHSA-gj8m-5492-q98h] DNN Vulnerable to Stored XSS Using Backend Admin Credentials,https://github.com/advisories/GHSA-gj8m-5492-q98h,https://da.gd/SoQ08
+GithubAdvisories,[GHSA-2qxc-mf4x-wr29] DNN Vulnerable to Stored Cross-Site Scripting (XSS) in the Prompt module,https://github.com/advisories/GHSA-2qxc-mf4x-wr29,https://da.gd/EbWcS
