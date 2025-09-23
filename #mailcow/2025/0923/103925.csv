@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] set cookie SameSite attribute to Lax,https://github.com/mailcow/mailcow-dockerized/commit/4440bd46adc73cd9be69f5f5716dbec4c92c7b73,https://da.gd/AP5ll
+GithubCommitStaging,Merge pull request #6766 from mailcow/fix/samesite-cookie,https://github.com/mailcow/mailcow-dockerized/commit/b2774fb50b248895a90a7dbb25a97ba8a518dc56,https://da.gd/7fSNAK
