@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4j5h-mvj3-m48v] Star Citizen EmbedVideo Extension Stored XSS through wikitext caused by usage of non-reserved data attributes,https://github.com/advisories/GHSA-4j5h-mvj3-m48v,https://da.gd/QiZNl
+GithubAdvisories,[GHSA-6xv4-9cqp-92rh] messageformat prototype pollution vulnerability,https://github.com/advisories/GHSA-6xv4-9cqp-92rh,https://da.gd/epaJic
+GithubAdvisories,[GHSA-vrw9-g62v-7fmf] CSVTOJSON has a prototype pollution vulnerability,https://github.com/advisories/GHSA-vrw9-g62v-7fmf,https://da.gd/EXe8
+GithubAdvisories,[GHSA-4c44-r8rm-3p39] Mangati NovoSGA XSS vulnerability in /admin,https://github.com/advisories/GHSA-4c44-r8rm-3p39,https://da.gd/BfgjMl
+GithubAdvisories,[GHSA-xh92-rqrq-227v] Mastra Docs MCP Server `@mastra/mcp-docs-server` Leads to Information Exposure,https://github.com/advisories/GHSA-xh92-rqrq-227v,https://da.gd/C6y0zc
+GithubAdvisories,[GHSA-4xh5-x5gv-qwph] pip's fallback tar extraction doesn't check symbolic links point to extraction directory,https://github.com/advisories/GHSA-4xh5-x5gv-qwph,https://da.gd/SKBs1
