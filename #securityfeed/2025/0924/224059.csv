@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x75h-m6jj-6cj2] Llama Stack could potentially allow for remote code execution,https://github.com/advisories/GHSA-x75h-m6jj-6cj2,https://da.gd/t6QssA
