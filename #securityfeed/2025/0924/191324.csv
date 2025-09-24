@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2hmj-97jw-28jh] Apache ZooKeeper: Insufficient Permission Check in AdminServer Snapshot/Restore Commands,https://github.com/advisories/GHSA-2hmj-97jw-28jh,https://da.gd/6VldAP
+GithubAdvisories,[GHSA-54j7-grvr-9xwg] Command Injection in adb-mcp MCP Server,https://github.com/advisories/GHSA-54j7-grvr-9xwg,https://da.gd/S5Xku
+GithubAdvisories,[GHSA-vx84-xvr8-w24c] Apache IoTDB: DoS Vulnerability,https://github.com/advisories/GHSA-vx84-xvr8-w24c,https://da.gd/JSQQ
+GithubAdvisories,[GHSA-776q-jw43-fhjx] Apache IoTDB: Deserialization of untrusted Data,https://github.com/advisories/GHSA-776q-jw43-fhjx,https://da.gd/cVrJXY
+GithubAdvisories,[GHSA-2jjv-qf24-vfm4] Claude Code Vulnerable to Arbitrary Code Execution via Plugin Autoloading with Specific Yarn Versions,https://github.com/advisories/GHSA-2jjv-qf24-vfm4,https://da.gd/FHIFC
+GithubAdvisories,[GHSA-hqrf-67pm-wgfq] Omni Wireguard SideroLink potential escape,https://github.com/advisories/GHSA-hqrf-67pm-wgfq,https://da.gd/zRaX
+GithubAdvisories,[GHSA-vj76-c3g6-qr5v] tar-fs has a symlink validation bypass if destination directory is predictable with a specific tarball,https://github.com/advisories/GHSA-vj76-c3g6-qr5v,https://da.gd/mESV
