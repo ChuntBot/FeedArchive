@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8x9j-2p8r-7xc6] ml-logger has path traversal in the file argument,https://github.com/advisories/GHSA-8x9j-2p8r-7xc6,https://da.gd/2AjrM
+GithubAdvisories,[GHSA-57hm-8rjv-498w] ml-logger deserialization vulnerability,https://github.com/advisories/GHSA-57hm-8rjv-498w,https://da.gd/8t7az
+GithubAdvisories,[GHSA-r3jv-xfgx-gj24] cors-anywhere vulnerable to server-side request forgery,https://github.com/advisories/GHSA-r3jv-xfgx-gj24,https://da.gd/yLKM45
+GithubAdvisories,[GHSA-xfqm-j7pc-xrfc] messageformat has a prototype pollution vulnerability,https://github.com/advisories/GHSA-xfqm-j7pc-xrfc,https://da.gd/Udpe
+GithubAdvisories,[GHSA-hhf6-3xpg-pggx] web3-core-subscriptions has a Prototype Pollution vulnerability,https://github.com/advisories/GHSA-hhf6-3xpg-pggx,https://da.gd/NntHs
+GithubAdvisories,[GHSA-625h-95r8-8xpm] Rack has an unsafe default in Rack::QueryParser allows params_limit bypass via semicolon-separated parameters,https://github.com/advisories/GHSA-625h-95r8-8xpm,https://da.gd/KgbBBK
+GithubAdvisories,[GHSA-227x-7mh8-3cf6] Gardener Extensions for multiple providers vulnerable to Terraform code injection,https://github.com/advisories/GHSA-227x-7mh8-3cf6,https://da.gd/syrySS
