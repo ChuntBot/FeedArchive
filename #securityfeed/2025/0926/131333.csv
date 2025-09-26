@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-76g8-235f-gj6p] dref is vulnerable to prototype pollution,https://github.com/advisories/GHSA-76g8-235f-gj6p,https://da.gd/PhPC
+GithubAdvisories,[GHSA-hrqm-qpw9-w8rv] Liferay Portal and DXP vulnerable to a memory leak,https://github.com/advisories/GHSA-hrqm-qpw9-w8rv,https://da.gd/bi9NX
+GithubAdvisories,[GHSA-q82v-h4rq-5c86] Rancher update on users can deny the service to the admin,https://github.com/advisories/GHSA-q82v-h4rq-5c86,https://da.gd/5UoVs
+GithubAdvisories,[GHSA-v3vj-5868-2ch2] Rancher CLI SAML authentication is vulnerable to phishing attacks,https://github.com/advisories/GHSA-v3vj-5868-2ch2,https://da.gd/baMM93
+GithubAdvisories,[GHSA-mjcp-rj3c-36fr] Rancher sends sensitive information to external services through the `/meta/proxy` endpoint,https://github.com/advisories/GHSA-mjcp-rj3c-36fr,https://da.gd/1zFH5Z
+GithubAdvisories,[GHSA-9x36-c74v-fgr6] ml-logger file handler allows reading arbitrary files,https://github.com/advisories/GHSA-9x36-c74v-fgr6,https://da.gd/XssAh
+GithubAdvisories,[GHSA-5xq9-5g24-4g6f] Argument injection vulnerability in SonarQube Scan Action,https://github.com/advisories/GHSA-5xq9-5g24-4g6f,https://da.gd/xbbr6
+GithubAdvisories,[GHSA-9g8m-v378-pcg3] parse is vulnerable to prototype pollution,https://github.com/advisories/GHSA-9g8m-v378-pcg3,https://da.gd/mgxx
+GithubAdvisories,[GHSA-3c3p-xh4f-pfh7] json-schema-editor-visual vulnerable to prototype pollution,https://github.com/advisories/GHSA-3c3p-xh4f-pfh7,https://da.gd/ehDkt
+GithubAdvisories,[GHSA-xq4f-3jxp-qv6m] csvjson vulnerable to prototype injection,https://github.com/advisories/GHSA-xq4f-3jxp-qv6m,https://da.gd/mmPujI
+GithubAdvisories,[GHSA-5q53-78f2-6gf8] apidoc-core is vulnerable to prototype pollution,https://github.com/advisories/GHSA-5q53-78f2-6gf8,https://da.gd/WTTLA
+GithubAdvisories,[GHSA-2j4c-9qqq-896r] web3-core-method is vulnerable to prototype pollution,https://github.com/advisories/GHSA-2j4c-9qqq-896r,https://da.gd/E6mzJ
+GithubAdvisories,[GHSA-34q3-8x9v-j957] toggle-array vulnerable to prototype pollution,https://github.com/advisories/GHSA-34q3-8x9v-j957,https://da.gd/eq3PfM
+GithubAdvisories,[GHSA-r2rv-8pp3-65xw] spmrc vulnerable to prototype pollution,https://github.com/advisories/GHSA-r2rv-8pp3-65xw,https://da.gd/EsXhv
