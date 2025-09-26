@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q6hv-wcjr-wp8h] kcp is missing update validation allows arbitrary LogicalCluster status patches through initializingworkspaces Virtual Workspace,https://github.com/advisories/GHSA-q6hv-wcjr-wp8h,https://da.gd/nHT7Kb
+GithubAdvisories,[GHSA-w87v-7w53-wwxv] Apollo Embedded Sandbox and Explorer vulnerable to CSRF via window.postMessage origin-validation bypass,https://github.com/advisories/GHSA-w87v-7w53-wwxv,https://da.gd/U498Sw
+GithubAdvisories,[GHSA-q475-2pgm-7hvp] Apache Airflow: Connection sensitive details exposed to users with READ permissions,https://github.com/advisories/GHSA-q475-2pgm-7hvp,https://da.gd/Idr4e
