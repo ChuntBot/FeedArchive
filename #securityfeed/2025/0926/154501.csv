@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qr9h-x63w-vqfm] OpenMLS improper persistence of the secret tree during message processing,https://github.com/advisories/GHSA-qr9h-x63w-vqfm,https://da.gd/zGpL5
+GithubAdvisories,[GHSA-gcfh-36x4-mgj6] Hutool allows remote code execution (RCE) via the QLExpressEngine class,https://github.com/advisories/GHSA-gcfh-36x4-mgj6,https://da.gd/wnjni
