@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2488-w585-72ch] counterpart vulnerable to prototype pollution,https://github.com/advisories/GHSA-2488-w585-72ch,https://da.gd/pBIOnK
+GithubAdvisories,[GHSA-98f8-j56x-2hh4] Duplicate Advisory: SurrealDB is Vulnerable to Unauthorized Data Exposure via LIVE Query Subscriptions,https://github.com/advisories/GHSA-98f8-j56x-2hh4,https://da.gd/dhKrs4
