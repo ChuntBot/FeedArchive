@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hvq2-wf92-j4f3] express-xss-sanitizer has an unbounded recursion depth,https://github.com/advisories/GHSA-hvq2-wf92-j4f3,https://da.gd/UzkOU
+GithubAdvisories,[GHSA-qc2q-qhf3-235m] get-jwks: poisoned JWKS cache allows post-fetch issuer validation bypass,https://github.com/advisories/GHSA-qc2q-qhf3-235m,https://da.gd/gsRaI
+GithubAdvisories,[GHSA-vvfj-2jqx-52jm] JupyterLab LaTeX typesetter links did not enforce `noopener` attribute,https://github.com/advisories/GHSA-vvfj-2jqx-52jm,https://da.gd/ar7LiO
