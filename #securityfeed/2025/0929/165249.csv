@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fmjh-f678-cv3x] github.com/nyaruka/phonenumbers Vulnerable to Improper Validation of Syntactic Correctness of Input,https://github.com/advisories/GHSA-fmjh-f678-cv3x,https://da.gd/q7U5oV
+GithubAdvisories,[GHSA-v39m-5m9j-m9w9] mkdocs-include-markdown-plugin susceptible to unvalidated input colliding with substitution placeholders,https://github.com/advisories/GHSA-v39m-5m9j-m9w9,https://da.gd/f5Qwuk
+GithubAdvisories,[GHSA-wpwj-69cm-q9c5] go-mail has insufficient address encoding when passing mail addresses to the SMTP client,https://github.com/advisories/GHSA-wpwj-69cm-q9c5,https://da.gd/Lz48ng
+GithubAdvisories,[GHSA-6q9c-m9fr-865m] vet MCP Server SSE Transport DNS Rebinding Vulnerability,https://github.com/advisories/GHSA-6q9c-m9fr-865m,https://da.gd/8fWVQm
