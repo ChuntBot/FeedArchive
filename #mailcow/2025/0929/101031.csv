@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Fixed password complexity check for AppPasswords,https://github.com/mailcow/mailcow-dockerized/commit/5b1b49a418a711c2be040b191a4b91f7be4e7b54,https://da.gd/JYwxM
+GithubCommitStaging,Rename AppPasswds fields uniquely like 'add',https://github.com/mailcow/mailcow-dockerized/commit/ce219668cf066309cc7978613975eb3189f23cc2,https://da.gd/hwJzpV
+GithubCommitStaging,Fixed wrong footer escaping,https://github.com/mailcow/mailcow-dockerized/commit/5c5287ca21da04d9efa5058b200aa3df6aeb8305,https://da.gd/TAk1Q
+GithubCommitStaging,Fixed footer escaping,https://github.com/mailcow/mailcow-dockerized/commit/702ed85dfd0747216da1b74fb535e58f8c19ca40,https://da.gd/PFNBR
+GithubCommitStaging,Merge pull request #6782 from patschi/fix-footer-escape,https://github.com/mailcow/mailcow-dockerized/commit/ca0bec4fc28d2c49754c4a5994d72dc43e1b0934,https://da.gd/A4wimw
+GithubCommitStaging,Merge pull request #6781 from patschi/pw-field-name-consistency,https://github.com/mailcow/mailcow-dockerized/commit/4c83147d01fd361bb8208ebd8d4438203ca4ac16,https://da.gd/wHrjPp
+GithubCommitStaging,Merge pull request #6780 from patschi/fix-pwcomplexity-apppasswds,https://github.com/mailcow/mailcow-dockerized/commit/2e7eb7c0fd9451f691d8eaa15ab736825b020402,https://da.gd/wkoOP
+GithubCommitStaging,Merge pull request #6779 from patschi/remove-debug-consolelog,https://github.com/mailcow/mailcow-dockerized/commit/769c57c3557228554e3d70b5892827d4a9fc27f1,https://da.gd/eKV8o7
+GithubCommitStaging,Merge pull request #6777 from patschi/enable-https-redirect-default,https://github.com/mailcow/mailcow-dockerized/commit/45a61755a5a2148486b28c634f12047708ff553d,https://da.gd/S2Hnb
