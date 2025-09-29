@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rx8g-88g5-qh64] min-document vulnerable to prototype pollution,https://github.com/advisories/GHSA-rx8g-88g5-qh64,https://da.gd/x6sP
+GithubAdvisories,[GHSA-ffrw-9mx8-89p8] fast-redact vulnerable to prototype pollution,https://github.com/advisories/GHSA-ffrw-9mx8-89p8,https://da.gd/rduq0
