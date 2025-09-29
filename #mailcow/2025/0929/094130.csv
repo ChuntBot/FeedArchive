@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Fix several SQL statements,https://github.com/mailcow/mailcow-dockerized/commit/d06d23bbaf528f5edfb26d32d3d693b8005fc81e,https://da.gd/lBG0L6
+GithubCommitStaging,Hide relayhosts when ACL does not allow,https://github.com/mailcow/mailcow-dockerized/commit/85ca197615a490b7ad1bb2a418ad3fec2a734ef4,https://da.gd/AU0qNb
+GithubCommitStaging,"Show ""Never"" by default if no last-modified date",https://github.com/mailcow/mailcow-dockerized/commit/ff43799763fd563a38585a693dda62702b97d78b,https://da.gd/UFaCf
+GithubCommitStaging,Make domain description field readonly when no ACL,https://github.com/mailcow/mailcow-dockerized/commit/20f04ecf6b764f43fc0a2116fdad6f9630f9ed1f,https://da.gd/REyxh
+GithubCommitStaging,Merge pull request #6789 from patschi/domain-descr-readonly-when-no-acl,https://github.com/mailcow/mailcow-dockerized/commit/e462602ddcb4e7e7d6e0c92bd749f7d10c7185af,https://da.gd/V506Ng
+GithubCommitStaging,Merge pull request #6788 from patschi/lastmodified-default-value,https://github.com/mailcow/mailcow-dockerized/commit/748bc893b6c84ae7d5f0494a2be8086f678f68ae,https://da.gd/IbJQ0
+GithubCommitStaging,Merge pull request #6787 from patschi/hide-relayhosts-if-no-acl,https://github.com/mailcow/mailcow-dockerized/commit/4a331929d09169addc85de7ccf5017bdd83c8e15,https://da.gd/NWWXE
+GithubCommitStaging,Merge pull request #6786 from patschi/fix-sql-typo,https://github.com/mailcow/mailcow-dockerized/commit/6f50dd17da54f612297f36541b107b094d478aee,https://da.gd/0giKec
