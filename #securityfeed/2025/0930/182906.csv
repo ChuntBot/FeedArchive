@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wp4p-9pxh-cgx2] argo-cd vulnerable unauthenticated DoS via malformed Gogs webhook payload,https://github.com/advisories/GHSA-wp4p-9pxh-cgx2,https://da.gd/49kf4B
+GithubAdvisories,[GHSA-6wgj-66m2-xxp2] Ray has arbitrary code execution via jobs submission API,https://github.com/advisories/GHSA-6wgj-66m2-xxp2,https://da.gd/TFPv
+GithubAdvisories,[GHSA-f9gq-prrc-hrhc] Unauthenticated argocd-server panic via a malicious Bitbucket-Server webhook payload,https://github.com/advisories/GHSA-f9gq-prrc-hrhc,https://da.gd/qBBDf
+GithubAdvisories,[GHSA-g88p-r42r-ppp9] Repository Credentials Race Condition Crashes Argo CD Server,https://github.com/advisories/GHSA-g88p-r42r-ppp9,https://da.gd/uudHvl
