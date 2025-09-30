@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gpx4-37g2-c8pv] Argo CD Unauthenticated Remote DoS via malformed Azure DevOps git.push webhook,https://github.com/advisories/GHSA-gpx4-37g2-c8pv,https://da.gd/9Ha4tU
