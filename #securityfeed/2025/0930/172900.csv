@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vmg3-7v43-9g23] NVIDIA Container Toolkit for all platforms contains an Untrusted Search Path,https://github.com/advisories/GHSA-vmg3-7v43-9g23,https://da.gd/2QIrI
+GithubAdvisories,[GHSA-gxw4-4fc5-9gr5] figma-developer-mcp vulnerable to command injection in get_figma_data tool,https://github.com/advisories/GHSA-gxw4-4fc5-9gr5,https://da.gd/g65QX
