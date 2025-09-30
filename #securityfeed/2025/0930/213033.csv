@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-27w5-gj5q-82fv] node-static failure to catch exception can result in server crash,https://github.com/advisories/GHSA-27w5-gj5q-82fv,https://da.gd/BajHRN
+GithubAdvisories,[GHSA-9c4g-fp4r-prrv] check-branches is vulnerable to command Injection,https://github.com/advisories/GHSA-9c4g-fp4r-prrv,https://da.gd/1uulf
+GithubAdvisories,[GHSA-qwvm-wqq8-8j69] github.com/MANTRA-Chain/mantrachain/x/tokenfactory tx gas limit is not enforced in send hooks,https://github.com/advisories/GHSA-qwvm-wqq8-8j69,https://da.gd/odoE68
