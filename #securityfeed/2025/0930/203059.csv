@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gj92-p9mh-83j8] Liferay Portal vulnerable to cross-site scripting in the Calendar widget,https://github.com/advisories/GHSA-gj92-p9mh-83j8,https://da.gd/meHbiI
+GithubAdvisories,[GHSA-pf86-4w35-cj89] Liferay Portal vulnerable to cross-site scripting in the Calendar widget,https://github.com/advisories/GHSA-pf86-4w35-cj89,https://da.gd/nDdwX
+GithubAdvisories,[GHSA-wmjx-xv9v-r89q] Liferay Portal vulnerable to reflected cross-site scripting on the page configuration page,https://github.com/advisories/GHSA-wmjx-xv9v-r89q,https://da.gd/c6SSoT
+GithubAdvisories,[GHSA-2856-xf2f-6vrf] Liferay Portal vulnerable to cross-site scripting in the related asset selector,https://github.com/advisories/GHSA-2856-xf2f-6vrf,https://da.gd/w59yLT
