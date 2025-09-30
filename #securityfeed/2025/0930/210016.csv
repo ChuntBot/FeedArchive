@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-529q-4j3p-7c5r] algoliasearch-helper is vulnerable to Prototype Pollution in _merge(),https://github.com/advisories/GHSA-529q-4j3p-7c5r,https://da.gd/O9Rlf
+GithubAdvisories,[GHSA-jv8x-mm3v-75r7] Liferay Portal vulnerable to cross-site scripting in the web content template,https://github.com/advisories/GHSA-jv8x-mm3v-75r7,https://da.gd/aBZ39s
+GithubAdvisories,[GHSA-2hm7-r8f3-423h] Liferay Portal vulnerable to path traversal and denial-of-service in the ComboServlet,https://github.com/advisories/GHSA-2hm7-r8f3-423h,https://da.gd/tj6Xww
+GithubAdvisories,[GHSA-m4hg-46pw-6mmv] Liferay Portal vulnerable to reflected cross-site scripting via the `redirect` parameter,https://github.com/advisories/GHSA-m4hg-46pw-6mmv,https://da.gd/l72dHZ
