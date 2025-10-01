@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 43: Critical BIRD 3.1.4 Updates Address Crash and Memory Problems,https://linuxsecurity.com/advisories/fedora/fedora-43-bird-2025-182c305561,https://da.gd/30Pp
+LinuxSecurity,Fedora 43: Critical DoS Vulnerability in ntpd-rs and Log Pollution Fix,https://linuxsecurity.com/advisories/fedora/fedora-43-ntpd-rs-2025-cf3fbd8fcf,https://da.gd/uxcB72
+LinuxSecurity,Fedora 43: dnsdist Critical DoS Issue Fix FEDORA-2025-5cef5ecca3,https://linuxsecurity.com/advisories/fedora/fedora-43-dnsdist-2025-5cef5ecca3,https://da.gd/YTd66w
+LinuxSecurity,Fedora 43: python-nh3 Update RUSTSEC-2025-0071 Important Fix,https://linuxsecurity.com/advisories/fedora/fedora-43-python-nh3-2025-074aba6ad4,https://da.gd/Q2d5u
+LinuxSecurity,Fedora 43: rust-ammonia Update RUSTSEC-2025-0071 HTML Fix,https://linuxsecurity.com/advisories/fedora/fedora-43-rust-ammonia-2025-074aba6ad4,https://da.gd/ReLYXV
+LinuxSecurity,Fedora 43: Mapserver Important SQL Injection Fix CVE-2025-59431,https://linuxsecurity.com/advisories/fedora/fedora-43-mapserver-2025-5b5dedacb2,https://da.gd/uT2RKy
