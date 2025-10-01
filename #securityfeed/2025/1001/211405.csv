@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jqq4-c7wq-36h7] risc0 vulnerable to arbitrary code execution in guest via memory safety failure in `sys_read`,https://github.com/advisories/GHSA-jqq4-c7wq-36h7,https://da.gd/vzSX
+GithubAdvisories,[GHSA-2c6j-vw6r-mfch] Fiora chat group avatar is vulnerable to XSS via SVG files,https://github.com/advisories/GHSA-2c6j-vw6r-mfch,https://da.gd/Hm8qG
+GithubAdvisories,[GHSA-hg3j-6pmh-mvjr] Fiora chat user avatar is vulnerable to XSS via SVG files,https://github.com/advisories/GHSA-hg3j-6pmh-mvjr,https://da.gd/HqlLYs
+GithubAdvisories,[GHSA-qh92-cr5f-3595] Liferay Portal Vulnerable to XSS in Web Content translation,https://github.com/advisories/GHSA-qh92-cr5f-3595,https://da.gd/WDQl5
