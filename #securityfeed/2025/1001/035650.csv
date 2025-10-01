@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian LTS: libcommons-lang-java Update DLA-4262-2 for CVE-2025-48924,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4262-2-libcommons-lang-java-regression-update-eiftleqpgjew,https://da.gd/7RB8
+LinuxSecurity,Debian 11: libxml2 DLA-4319-1 CVE-2025-9714 DoS Threat Resolution,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4319-1-libxml2-security-update-r4dak5lczkvk,https://da.gd/b05S6
+LinuxSecurity,Debian LTS 11: libcpanel-json-xs-perl Critical DoS CVE-2025-40929,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4318-1-libcpanel-json-xs-perl-security-update-jvqvpsfxx26x,https://da.gd/3WvdRb
+LinuxSecurity,Debian 11: Critical Integer Overflow DoS in libjson-xs-perl CVE-2025-40928,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4317-1-libjson-xs-perl-security-update-h1alvzrmkdnl,https://da.gd/f4toVS
+LinuxSecurity,Debian 11: Critical Regression Fix for libcommons-lang3-java DLA-4286-2,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4286-2-libcommons-lang3-java-regression-update-ztojlj0pun2g,https://da.gd/fn7Ukq
