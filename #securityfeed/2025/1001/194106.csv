@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-538v-3wq9-4h3r] Apache Pyfory python is vulnerable to deserialization of untrusted data,https://github.com/advisories/GHSA-538v-3wq9-4h3r,https://da.gd/Y44AhW
+GithubAdvisories,[GHSA-fm22-g2q9-j3pw] Joomla! CMS vulnerable to XSS via the input filter,https://github.com/advisories/GHSA-fm22-g2q9-j3pw,https://da.gd/c2g3
