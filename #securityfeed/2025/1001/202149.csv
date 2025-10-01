@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 22.04 LTS USN-7774-4: Kernel Important Threats for linux-kvm,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7774-4-linux-kernel-kvm-ncfueegg16ze,https://da.gd/mmWs60
+LinuxSecurity,Fedora 41: BIRD Critical Memory Access Issue CVE-2025-59688,https://linuxsecurity.com/advisories/fedora/fedora-41-bird-2025-702902f388,https://da.gd/a61btS
+LinuxSecurity,Fedora 41 ntpd-rs Crittical DoS and Log Pollution Advisory 2025-ee9b86c6d9,https://linuxsecurity.com/advisories/fedora/fedora-41-ntpd-rs-2025-ee9b86c6d9,https://da.gd/5Hhlg
+LinuxSecurity,Fedora 41: dnsdist Critical DoS Fix CVE-2025-30187 Advisory 2025-0f0623b719,https://linuxsecurity.com/advisories/fedora/fedora-41-dnsdist-2025-0f0623b719,https://da.gd/sSKnhL
+LinuxSecurity,Fedora 41: rust-ammonia 3.3.1 Security Advisory RUSTSEC-2025-0071,https://linuxsecurity.com/advisories/fedora/fedora-41-rust-ammonia-2025-1be5992b52,https://da.gd/Zpy9Lq
+LinuxSecurity,Fedora 41: python-nh3 Important Ammonia Update RUSTSEC-2025-0071,https://linuxsecurity.com/advisories/fedora/fedora-41-python-nh3-2025-1be5992b52,https://da.gd/DdxxWg
