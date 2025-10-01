@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9mh6-g99m-ppcw] auth0-PHP SDK Does Not Properly Handle File Types in Bulk User Import,https://github.com/advisories/GHSA-9mh6-g99m-ppcw,https://da.gd/M2TX
+GithubAdvisories,[GHSA-7jp2-5h22-m432] Auth0 Symfony SDK Does Not Properly Handle File Types in Bulk User Import,https://github.com/advisories/GHSA-7jp2-5h22-m432,https://da.gd/O2eEG
+GithubAdvisories,[GHSA-w22c-pw5m-482x] Auth0 Wordpress plugin Does Not Properly Handle File Types in Bulk User Import,https://github.com/advisories/GHSA-w22c-pw5m-482x,https://da.gd/ax6IC5
+GithubAdvisories,[GHSA-hjfh-5jmm-xr24] laravel-auth0 SDK Does Not Properly Handle File Types in Bulk User Import,https://github.com/advisories/GHSA-hjfh-5jmm-xr24,https://da.gd/afSpX
+GithubAdvisories,[GHSA-xjv7-6w92-42r7] marimo vulnerable to proxy abuse of /mpl/{port}/,https://github.com/advisories/GHSA-xjv7-6w92-42r7,https://da.gd/CMSJ8
