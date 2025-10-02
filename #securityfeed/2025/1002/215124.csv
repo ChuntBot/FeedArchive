@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f6m8-qm7j-fh65] Apache Kylin Server-Side Request Forgery (SSRF) Vulnerability,https://github.com/advisories/GHSA-f6m8-qm7j-fh65,https://da.gd/7urY
+GithubAdvisories,[GHSA-32jf-h775-g29h] MongoDB Rust driver may issue unintended commands,https://github.com/advisories/GHSA-32jf-h775-g29h,https://da.gd/Denx
+GithubAdvisories,[GHSA-mm3m-5497-xggg] Elasticsearch Uncontrolled Resource Consumption Vulnerability,https://github.com/advisories/GHSA-mm3m-5497-xggg,https://da.gd/xh31N
+GithubAdvisories,[GHSA-p8hw-rfjg-689h] Canonical LXD CSRF Vulnerability When Using Client Certificate Authentication with the LXD-UI,https://github.com/advisories/GHSA-p8hw-rfjg-689h,https://da.gd/r22Ekt
+GithubAdvisories,[GHSA-w2hg-2v4p-vmh6] Canonical LXD Arbitrary File Read via Template Injection in Snapshot Patterns,https://github.com/advisories/GHSA-w2hg-2v4p-vmh6,https://da.gd/TtB61A
+GithubAdvisories,[GHSA-7232-97c6-j525] Canonical LXD Source Container Identification Vulnerability via cmdline Spoofing in devLXD Server,https://github.com/advisories/GHSA-7232-97c6-j525,https://da.gd/azAc6V
+GithubAdvisories,[GHSA-3g72-chj4-2228] Canonical LXD Vulnerable to Privilege Escalation via WebSocket Connection Hijacking in Operations API,https://github.com/advisories/GHSA-3g72-chj4-2228,https://da.gd/XsXbTU
+GithubAdvisories,[GHSA-p3x5-mvmp-5f35] Canonical LXD Project Existence Determination Through Error Handling in Image Export Function,https://github.com/advisories/GHSA-p3x5-mvmp-5f35,https://da.gd/iURw6s
+GithubAdvisories,[GHSA-472f-vmf2-pr3h] Canonical LXD Path Traversal Vulnerability in Instance Log File Retrieval Function,https://github.com/advisories/GHSA-472f-vmf2-pr3h,https://da.gd/W6Wkn
+GithubAdvisories,[GHSA-xch9-h8qw-85c7] Canonical LXD Project Existence Determination Through Error Handling in Image Get Function,https://github.com/advisories/GHSA-xch9-h8qw-85c7,https://da.gd/20yZy
+GithubAdvisories,[GHSA-mr9j-4j48-xcm2] Apache Kylin Authentication Bypass Vulnerability,https://github.com/advisories/GHSA-mr9j-4j48-xcm2,https://da.gd/ZDz9I
+GithubAdvisories,[GHSA-p86w-w5rh-m3hx] Apache Kylin Files or Directories Accessible to External Parties,https://github.com/advisories/GHSA-p86w-w5rh-m3hx,https://da.gd/i4ZC
+GithubAdvisories,[GHSA-67jc-hmvg-q4c7] NVIDIA Container Toolkit for all platforms contains a vulnerability in the update-ldcache hook,https://github.com/advisories/GHSA-67jc-hmvg-q4c7,https://da.gd/PQnI5
