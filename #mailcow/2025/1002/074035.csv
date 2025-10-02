@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Helper] Fix cold-standby script to support digits and override files…,https://github.com/mailcow/mailcow-dockerized/commit/3cc28af607194eda0a624413c7be2b168e0a5ba8,https://da.gd/lSivq
+GithubCommitStaging,Fix typos in config (#6792),https://github.com/mailcow/mailcow-dockerized/commit/871c422ec1cc1afaaba73b40eac5061623fd83fb,https://da.gd/Jh7JCZ
+GithubCommitStaging,scripts: make sure /etc/docker exists (#6791),https://github.com/mailcow/mailcow-dockerized/commit/c217be06c6ced586976e4e900701c84d51f6e35c,https://da.gd/13S4Q
