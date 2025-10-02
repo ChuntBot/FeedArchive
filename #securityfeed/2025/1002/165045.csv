@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6px8-mr29-cj4r] DataChain Vulnerable to Deserialization of Untrusted Data from Environment Variables,https://github.com/advisories/GHSA-6px8-mr29-cj4r,https://da.gd/k2E9H
