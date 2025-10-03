@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5rxf-fqch-7vqp] NLnet Labs’ Routinator vulnerable to path traversal,https://github.com/advisories/GHSA-5rxf-fqch-7vqp,https://da.gd/KvtA
+GithubAdvisories,[GHSA-66m2-gx93-v996] Claude Code permission deny bypass through symlink,https://github.com/advisories/GHSA-66m2-gx93-v996,https://da.gd/mXhWQ
+GithubAdvisories,[GHSA-4fgq-fpq9-mr3g] Claude Code can execute commands prior to the startup trust dialog,https://github.com/advisories/GHSA-4fgq-fpq9-mr3g,https://da.gd/M3cM4x
