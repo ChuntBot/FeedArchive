@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4fr9-3x69-36wv] Flowise vulnerable to XSS,https://github.com/advisories/GHSA-4fr9-3x69-36wv,https://da.gd/ioIz
+GithubAdvisories,[GHSA-466c-pfvv-v83g] wrflib has a soundness issue and is unmaintained,https://github.com/advisories/GHSA-466c-pfvv-v83g,https://da.gd/VsJLi
