@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7r4h-vmj9-wg42] Flowise Stored XSS vulnerability through logs in chatbot,https://github.com/advisories/GHSA-7r4h-vmj9-wg42,https://da.gd/vTt44
+GithubAdvisories,"[GHSA-964p-j4gg-mhwc] Flowise vulnerable to stored XSS via ""View Messages"" allows credential theft in FlowiseAI admin panel",https://github.com/advisories/GHSA-964p-j4gg-mhwc,https://da.gd/SE2VB
