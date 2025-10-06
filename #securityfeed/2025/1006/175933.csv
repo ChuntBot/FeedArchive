@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-f2hf-pfrj-vrm7] XWiki OIDC Authenticator: Users with ""view"" access can create tokens for any users they can view",https://github.com/advisories/GHSA-f2hf-pfrj-vrm7,https://da.gd/3qT1Z
