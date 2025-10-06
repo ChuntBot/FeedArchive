@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hmgh-466j-fx4c] Flowise vulnerable to RCE via Dynamic function constructor injection,https://github.com/advisories/GHSA-hmgh-466j-fx4c,https://da.gd/bHkUO
