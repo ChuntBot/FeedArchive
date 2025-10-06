@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7cxj-w27x-x78q] SillyTavern Web Interface Vulnerable DNS Rebinding,https://github.com/advisories/GHSA-7cxj-w27x-x78q,https://da.gd/61nL
+GithubAdvisories,[GHSA-hm36-ffrh-c77c] Litestar X-Forwarded-For Header Spoofing Vulnerability Enables Rate Limit Evasion,https://github.com/advisories/GHSA-hm36-ffrh-c77c,https://da.gd/K37ge7
+GithubAdvisories,[GHSA-gprp-h92g-gc2h] XWiki Platform is vulnerable to HQL injection via wiki and space search REST API,https://github.com/advisories/GHSA-gprp-h92g-gc2h,https://da.gd/3oJju
