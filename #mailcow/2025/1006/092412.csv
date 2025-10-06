@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] include hostname in default website title,https://github.com/mailcow/mailcow-dockerized/commit/922d173540a109def012aa4b1530a6a813791e9c,https://da.gd/yYuevA
+GithubCommitStaging,[Web] make SameSite policy and cookie name configurable via vars.loca…,https://github.com/mailcow/mailcow-dockerized/commit/1ef014907625d39232ab6df6145419d7b3af32c4,https://da.gd/vsFfC
