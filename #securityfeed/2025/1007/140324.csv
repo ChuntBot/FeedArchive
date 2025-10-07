@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xgr2-5837-hf48] NovoSGA: Manipulation of User Creation Page can lead to weak password requirements,https://github.com/advisories/GHSA-xgr2-5837-hf48,https://da.gd/1z6XB
+GithubAdvisories,[GHSA-mm7p-fcc7-pg87] Nodemailer: Email to an unintended domain can occur due to Interpretation Conflict,https://github.com/advisories/GHSA-mm7p-fcc7-pg87,https://da.gd/crIT
