@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,[Web] Updated lang.si-si.json (#6793),https://github.com/mailcow/mailcow-dockerized/commit/4e0f435d12c8a2990bbe5494ae6b2dca7a6fe485,https://da.gd/xMa1yV
+GithubCommit,Merge pull request #6789 from patschi/domain-descr-readonly-when-no-acl,https://github.com/mailcow/mailcow-dockerized/commit/e462602ddcb4e7e7d6e0c92bd749f7d10c7185af,https://da.gd/V506Ng
+GithubCommit,Merge pull request #6788 from patschi/lastmodified-default-value,https://github.com/mailcow/mailcow-dockerized/commit/748bc893b6c84ae7d5f0494a2be8086f678f68ae,https://da.gd/IbJQ0
+GithubCommit,Merge pull request #6787 from patschi/hide-relayhosts-if-no-acl,https://github.com/mailcow/mailcow-dockerized/commit/4a331929d09169addc85de7ccf5017bdd83c8e15,https://da.gd/NWWXE
+GithubCommit,Merge pull request #6786 from patschi/fix-sql-typo,https://github.com/mailcow/mailcow-dockerized/commit/6f50dd17da54f612297f36541b107b094d478aee,https://da.gd/0giKec
+GithubCommit,Merge pull request #6782 from patschi/fix-footer-escape,https://github.com/mailcow/mailcow-dockerized/commit/ca0bec4fc28d2c49754c4a5994d72dc43e1b0934,https://da.gd/A4wimw
+GithubCommit,Merge pull request #6781 from patschi/pw-field-name-consistency,https://github.com/mailcow/mailcow-dockerized/commit/4c83147d01fd361bb8208ebd8d4438203ca4ac16,https://da.gd/wHrjPp
+GithubCommit,Merge pull request #6780 from patschi/fix-pwcomplexity-apppasswds,https://github.com/mailcow/mailcow-dockerized/commit/2e7eb7c0fd9451f691d8eaa15ab736825b020402,https://da.gd/wkoOP
+GithubCommit,Merge pull request #6779 from patschi/remove-debug-consolelog,https://github.com/mailcow/mailcow-dockerized/commit/769c57c3557228554e3d70b5892827d4a9fc27f1,https://da.gd/eKV8o7
+GithubCommit,Merge pull request #6777 from patschi/enable-https-redirect-default,https://github.com/mailcow/mailcow-dockerized/commit/45a61755a5a2148486b28c634f12047708ff553d,https://da.gd/S2Hnb
+GithubCommit,[Web] Updated lang.si-si.json (#6794),https://github.com/mailcow/mailcow-dockerized/commit/c51a769aecd3e7dff38662d97c72572bf1a5fd74,https://da.gd/THU4H
+GithubCommit,update postscreen_access.cidr (#6801),https://github.com/mailcow/mailcow-dockerized/commit/796e131c3af59fb36714818b2e03cbf5f60d9e0c,https://da.gd/a2smU
+GithubCommit,[Helper] Fix cold-standby script to support digits and override files…,https://github.com/mailcow/mailcow-dockerized/commit/3cc28af607194eda0a624413c7be2b168e0a5ba8,https://da.gd/lSivq
+GithubCommit,Fix typos in config (#6792),https://github.com/mailcow/mailcow-dockerized/commit/871c422ec1cc1afaaba73b40eac5061623fd83fb,https://da.gd/Jh7JCZ
+GithubCommit,scripts: make sure /etc/docker exists (#6791),https://github.com/mailcow/mailcow-dockerized/commit/c217be06c6ced586976e4e900701c84d51f6e35c,https://da.gd/13S4Q
+GithubCommit,Update variable name for prometheus-exporter security token (#6776),https://github.com/mailcow/mailcow-dockerized/commit/721ee2394ec991c68c96ab484be3e851c0dc2a02,https://da.gd/9qlN0
+GithubCommit,chore(deps): update actions/stale action to v10.1.0 (#6806),https://github.com/mailcow/mailcow-dockerized/commit/fd088cb504027c9f3ca8472b02b2dd3dff751a91,https://da.gd/HZHTXG
+GithubCommit,[Web] include hostname in default website title,https://github.com/mailcow/mailcow-dockerized/commit/922d173540a109def012aa4b1530a6a813791e9c,https://da.gd/yYuevA
+GithubCommit,[Web] make SameSite policy and cookie name configurable via vars.loca…,https://github.com/mailcow/mailcow-dockerized/commit/1ef014907625d39232ab6df6145419d7b3af32c4,https://da.gd/vsFfC
+GithubCommit,Merge pull request #6810 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/24c62b2f09fb2328a984b6c90378e4da2926d345,https://da.gd/dsLNHH
