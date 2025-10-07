@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cp5v-2hmc-3vjx] WSO2 is vulnerable to Open Redirect through multi-option URL in its authentication endpoint,https://github.com/advisories/GHSA-cp5v-2hmc-3vjx,https://da.gd/2tjeH5
