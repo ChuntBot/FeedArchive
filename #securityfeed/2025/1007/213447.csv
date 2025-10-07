@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m42m-m8cr-8m58] LangChain Text Splitters is vulnerable to XML External Entity (XXE) attacks due to unsafe XSLT parsing,https://github.com/advisories/GHSA-m42m-m8cr-8m58,https://da.gd/3fFlI
+GithubAdvisories,[GHSA-jhpv-4q4f-43g5] Akka.Remote TLS did not properly implement certificate-based authentication,https://github.com/advisories/GHSA-jhpv-4q4f-43g5,https://da.gd/7PcKu
