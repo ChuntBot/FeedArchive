@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-wpv5-97wm-hp9c] Rack's multipart parser buffers unbounded per-part headers, enabling DoS (memory exhaustion)",https://github.com/advisories/GHSA-wpv5-97wm-hp9c,https://da.gd/qh4vA
+GithubAdvisories,"[GHSA-w9pc-fmgc-vxvw] Rack: Multipart parser buffers large non‑file fields entirely in memory, enabling DoS (memory exhaustion)",https://github.com/advisories/GHSA-w9pc-fmgc-vxvw,https://da.gd/Eu4K
+GithubAdvisories,[GHSA-p543-xpfm-54cp] Rack's unbounded multipart preamble buffering enables DoS (memory exhaustion),https://github.com/advisories/GHSA-p543-xpfm-54cp,https://da.gd/gAJazg
+GithubAdvisories,[GHSA-wr9h-g72x-mwhm] vLLM is vulnerable to timing attack at bearer auth,https://github.com/advisories/GHSA-wr9h-g72x-mwhm,https://da.gd/VIJt
