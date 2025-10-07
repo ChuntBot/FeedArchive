@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6fvq-23cw-5628] vLLM: Resource-Exhaustion (DoS) through Malicious Jinja Template in OpenAI-Compatible Server,https://github.com/advisories/GHSA-6fvq-23cw-5628,https://da.gd/CJgP8
