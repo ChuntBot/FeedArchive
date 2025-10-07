@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-579p-qf78-fqm2] clearml is vulnerable to Path Traversal through its `safe_extract` function,https://github.com/advisories/GHSA-579p-qf78-fqm2,https://da.gd/TaYr3p
