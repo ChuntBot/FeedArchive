@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vg2r-rmgp-cgqj] Deno's --deny-write check does not prevent permission bypass,https://github.com/advisories/GHSA-vg2r-rmgp-cgqj,https://da.gd/U55Vvh
