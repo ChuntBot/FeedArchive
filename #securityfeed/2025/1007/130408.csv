@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q92x-2x5g-h365] ZenML is vulnerable to Path Traversal through its `PathMaterializer` class,https://github.com/advisories/GHSA-q92x-2x5g-h365,https://da.gd/Gyw4n
+GithubAdvisories,[GHSA-rggc-gf6w-9q73] Liferay Portal exposes sensitive user data through its Freemarker template,https://github.com/advisories/GHSA-rggc-gf6w-9q73,https://da.gd/8iSkw
+GithubAdvisories,[GHSA-g8c6-8fjj-2r4m] python-socketio vulnerable to arbitrary Python code execution (RCE) through malicious pickle deserialization in certain multi-server deployments,https://github.com/advisories/GHSA-g8c6-8fjj-2r4m,https://da.gd/iEYC27
