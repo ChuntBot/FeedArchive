@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rj3r-r7hh-jxfq] pdfmake is vulnerable to Throttling via repeatedly redirecting URL in file embedding,https://github.com/advisories/GHSA-rj3r-r7hh-jxfq,https://da.gd/n2LHmQ
+GithubAdvisories,[GHSA-3f6c-7fw2-ppm4] vLLM is vulnerable to Server-Side Request Forgery (SSRF) through `MediaConnector` class,https://github.com/advisories/GHSA-3f6c-7fw2-ppm4,https://da.gd/jONWrd
+GithubAdvisories,[GHSA-527m-2xhr-j27g] LLaMA Factory's Chat API Contains Critical SSRF and LFI Vulnerabilities,https://github.com/advisories/GHSA-527m-2xhr-j27g,https://da.gd/nBK09
+GithubAdvisories,[GHSA-pfxj-gvqg-mj44] Liferay Profile Widget does not prevent vCard extension spoofing,https://github.com/advisories/GHSA-pfxj-gvqg-mj44,https://da.gd/xckQE
