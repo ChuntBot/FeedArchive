@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m2gf-x3f6-8hq3] Deno is Vulnerable to Command Injection on Windows During Batch File Execution,https://github.com/advisories/GHSA-m2gf-x3f6-8hq3,https://da.gd/tvHBVY
