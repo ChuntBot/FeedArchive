@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2pgj-5cv2-6xxw] FuelVM is vulnerable to heap memory allocation re-use bug,https://github.com/advisories/GHSA-2pgj-5cv2-6xxw,https://da.gd/TO6gnW
