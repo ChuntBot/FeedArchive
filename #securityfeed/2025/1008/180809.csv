@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qq26-84mh-26j9] Deno's --deny-read check does not prevent permission bypass,https://github.com/advisories/GHSA-qq26-84mh-26j9,https://da.gd/zVdeDu
+GithubAdvisories,[GHSA-fh66-fcv5-jjfr] Synapse's invalid device keys degrade federation functionality,https://github.com/advisories/GHSA-fh66-fcv5-jjfr,https://da.gd/0x8Bk
