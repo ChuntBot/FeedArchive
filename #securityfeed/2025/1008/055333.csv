@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 41: Apptainer 1.4.3 Critical Memory Leak Fix FEDORA-2025-49400d941c,https://linuxsecurity.com/advisories/fedora/fedora-41-apptainer-2025-49400d941c,https://da.gd/5y6O0
+LinuxSecurity,Fedora 41: civetweb Critical Denial of Service Advisory 2025-247b5416b4,https://linuxsecurity.com/advisories/fedora/fedora-41-civetweb-2025-247b5416b4,https://da.gd/JEZGm
+LinuxSecurity,Fedora 41 pandoc-cli Important SSRF Fix FEDORA-2025-ef1d49c67b,https://linuxsecurity.com/advisories/fedora/fedora-41-pandoc-cli-2025-ef1d49c67b,https://da.gd/RgAue
+LinuxSecurity,Fedora 41 Addresses Critical Server-Side Request Forgery Issue in Pandoc,https://linuxsecurity.com/advisories/fedora/fedora-41-pandoc-2025-ef1d49c67b,https://da.gd/RXO5RK
+LinuxSecurity,Fedora 42: OpenSSL Critical Buffer Overflow Fix FEDORA-2025-c355a1291c,https://linuxsecurity.com/advisories/fedora/fedora-42-openssl-2025-c355a1291c,https://da.gd/pdLqKH
+LinuxSecurity,Fedora 42: mod_http2 Critical DoS Threat CVE-2025-49630 2025-40b7d151db,https://linuxsecurity.com/advisories/fedora/fedora-42-mod-http2-2025-40b7d151db,https://da.gd/9d4eFO
