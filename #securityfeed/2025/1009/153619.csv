@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p3vc-g9f9-mgw4] Melis Platform CMS Unauthenticated Admin Account Creation,https://github.com/advisories/GHSA-p3vc-g9f9-mgw4,https://da.gd/HSRPv4
+GithubAdvisories,[GHSA-mrmx-jfw8-qhgv] Melis Platform CMS SQL Injection,https://github.com/advisories/GHSA-mrmx-jfw8-qhgv,https://da.gd/VNFfo
+GithubAdvisories,[GHSA-fjrp-77f3-43xj] Liferay Portal is vulnerable to XXS through its Commerce Product's Name text field,https://github.com/advisories/GHSA-fjrp-77f3-43xj,https://da.gd/dN4J
+GithubAdvisories,[GHSA-378f-8q54-3fqx] Liferay Portal is vulnerable to Stored XSS through Forms text type field,https://github.com/advisories/GHSA-378f-8q54-3fqx,https://da.gd/aara
+GithubAdvisories,[GHSA-893r-jr58-3hxr] Liferay Portal Commerce Shop is vulnerable to Stored XSS through SVG file,https://github.com/advisories/GHSA-893r-jr58-3hxr,https://da.gd/V08x4E
+GithubAdvisories,[GHSA-q8fj-76q7-4p7h] Liferay Portal Notifications Widget has multiple XSS vulnerabilities through various text fields,https://github.com/advisories/GHSA-q8fj-76q7-4p7h,https://da.gd/21Fc
+GithubAdvisories,[GHSA-q769-phqg-263r] VaahCMS is vulnerable to XSS through its Avatar Upload endpoint,https://github.com/advisories/GHSA-q769-phqg-263r,https://da.gd/ablb8
+GithubAdvisories,[GHSA-365g-vjw2-grx8] n8n: Execute Command Node Allows Authenticated Users to Run Arbitrary Commands on Host,https://github.com/advisories/GHSA-365g-vjw2-grx8,https://da.gd/M33fwN
+GithubAdvisories,[GHSA-jv9m-vf54-chjj] Flowise is vulnerable to arbitrary file write through its WriteFileTool,https://github.com/advisories/GHSA-jv9m-vf54-chjj,https://da.gd/aDYHZ
+GithubAdvisories,[GHSA-cjjf-27cc-pvmv] pyLoad CNL and captcha handlers allow Code Injection via unsanitized parameters,https://github.com/advisories/GHSA-cjjf-27cc-pvmv,https://da.gd/YxYm1
