@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-99h5-pjcv-gr6v] Better Auth: Unauthenticated API key creation through api-key plugin,https://github.com/advisories/GHSA-99h5-pjcv-gr6v,https://da.gd/fiuKcm
