@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wqm3-w3p6-xjgm] Apache Flink CDC is vulnerable to SQL Injection through maliciously crafted identifiers,https://github.com/advisories/GHSA-wqm3-w3p6-xjgm,https://da.gd/i9dEP
