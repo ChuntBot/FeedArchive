@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m9mp-6x32-5rhg] scio is vunerable to Remote Command Execution through PyTorch,https://github.com/advisories/GHSA-m9mp-6x32-5rhg,https://da.gd/nUNPFH
+GithubAdvisories,[GHSA-4mqx-4p8g-995w] Liferay Portal has multiple Stored XSS vulnerabilities on its View Order page,https://github.com/advisories/GHSA-4mqx-4p8g-995w,https://da.gd/gIIMg0
+GithubAdvisories,[GHSA-xx7h-2wf7-hc7p] Liferay Portal is vulnerable to XSS through its Commerce Search Result widget,https://github.com/advisories/GHSA-xx7h-2wf7-hc7p,https://da.gd/yKHwtz
