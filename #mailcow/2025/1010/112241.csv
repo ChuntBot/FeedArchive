@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] Fix SOGo redirection after login,https://github.com/mailcow/mailcow-dockerized/commit/6708b94ebb47bd8106f670a3ff95b7b54153ac57,https://da.gd/p6BbwB
+GithubCommitStaging,[Redis] Update to Redis 7.4.6,https://github.com/mailcow/mailcow-dockerized/commit/2642d9109efe0c934b93988f88cbf3b0aed8d0d7,https://da.gd/xyqNUG
+GithubCommitStaging,[Rspamd] Update to 3.13.2,https://github.com/mailcow/mailcow-dockerized/commit/f47df263d7a2cf05598e65f0601e2c471bf5d2af,https://da.gd/3U9yeL
+GithubCommitStaging,Merge pull request #6797 from Hobby-Student/fix/autodiscover-with-lda…,https://github.com/mailcow/mailcow-dockerized/commit/10e0c42eff4b8dbfe713505f8f1e80ee13c39f60,https://da.gd/Hvh3Iy
+GithubCommitStaging,Merge pull request #6828 from mailcow/fix/6818,https://github.com/mailcow/mailcow-dockerized/commit/b859a52b8e34d42ff52e4accc5734224646daf17,https://da.gd/NTcRs
+GithubCommitStaging,Merge pull request #6829 from mailcow/feat/redis-7.4.6,https://github.com/mailcow/mailcow-dockerized/commit/6a8a2e21366c69cf957c203fc8343f55ea722692,https://da.gd/OuBfLY
+GithubCommitStaging,Merge pull request #6830 from mailcow/feat/rspamd-3.13.2,https://github.com/mailcow/mailcow-dockerized/commit/d5a27c4ccb2a13db24f106625a38811f23778eb4,https://da.gd/oQWBt
