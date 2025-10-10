@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j44m-5v8f-gc9c] Flowise is vulnerable to arbitrary file exposure through its ReadFileTool,https://github.com/advisories/GHSA-j44m-5v8f-gc9c,https://da.gd/yxUFrc
+GithubAdvisories,[GHSA-g7f3-828f-7h7m] Authlib : JWE zip=DEF decompression bomb enables DoS,https://github.com/advisories/GHSA-g7f3-828f-7h7m,https://da.gd/dNXOa
+GithubAdvisories,[GHSA-33f4-mjch-7fpr] Allstar Reviewbot has Authentication Bypass via Hard-coded Webhook Secret,https://github.com/advisories/GHSA-33f4-mjch-7fpr,https://da.gd/eR7EP
+GithubAdvisories,[GHSA-p34h-wq7j-h5v6] python-ldap is Vulnerable to Improper Encoding or Escaping of Output and Improper Null Termination,https://github.com/advisories/GHSA-p34h-wq7j-h5v6,https://da.gd/S3nXL
+GithubAdvisories,[GHSA-r7r6-cc7p-4v5m] python-ldap has sanitization bypass in ldap.filter.escape_filter_chars,https://github.com/advisories/GHSA-r7r6-cc7p-4v5m,https://da.gd/cfZge
