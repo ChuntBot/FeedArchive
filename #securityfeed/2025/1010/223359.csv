@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5264-m964-7pg9] Liferay Portal is vulnerable to XSS through its Calendar Events parameters,https://github.com/advisories/GHSA-5264-m964-7pg9,https://da.gd/MwJ4e
