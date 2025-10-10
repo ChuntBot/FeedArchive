@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6xw4-3v39-52mm] Rack is vulnerable to a memory-exhaustion DoS through unbounded URL-encoded body parsing,https://github.com/advisories/GHSA-6xw4-3v39-52mm,https://da.gd/PEXWgw
+GithubAdvisories,[GHSA-r657-rxjc-j557] Rack has a Possible Information Disclosure Vulnerability,https://github.com/advisories/GHSA-r657-rxjc-j557,https://da.gd/7cq7
