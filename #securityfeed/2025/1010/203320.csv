@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mr3q-g2mv-mr4q] Sinatra is vulnerable to ReDoS through ETag header value generation,https://github.com/advisories/GHSA-mr3q-g2mv-mr4q,https://da.gd/l8anF5
+GithubAdvisories,[GHSA-pq5p-34cr-23v9] Authlib is vulnerable to Denial of Service via Oversized JOSE Segments,https://github.com/advisories/GHSA-pq5p-34cr-23v9,https://da.gd/7gDkUs
