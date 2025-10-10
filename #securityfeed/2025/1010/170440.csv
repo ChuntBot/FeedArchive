@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-47m2-4cr7-mhcw] quic-go: Panic occurs when queuing undecryptable packets after handshake completion,https://github.com/advisories/GHSA-47m2-4cr7-mhcw,https://da.gd/aIEf
