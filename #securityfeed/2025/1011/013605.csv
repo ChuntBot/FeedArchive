@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wxwx-9fh7-5mrw] cel-rust May Panic During Parsing of Invalid CEL Expressions,https://github.com/advisories/GHSA-wxwx-9fh7-5mrw,https://da.gd/PmMO0
+GithubAdvisories,[GHSA-xcvw-hh99-qm73] Liferay Portal is vulnerable to XSS through its workflow process builder,https://github.com/advisories/GHSA-xcvw-hh99-qm73,https://da.gd/oN1aPe
+GithubAdvisories,[GHSA-xw6m-3m5q-mxpm] Liferay Portal's Membership page is vulnerable to XSS through “name“ text field,https://github.com/advisories/GHSA-xw6m-3m5q-mxpm,https://da.gd/QioHQ
