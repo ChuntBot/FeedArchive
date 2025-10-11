@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6wwv-6mm3-pp76] Apache StreamPark contains an Incorrect Execution-Assigned Permissions vulnerability,https://github.com/advisories/GHSA-6wwv-6mm3-pp76,https://da.gd/WrYL6
+GithubAdvisories,[GHSA-64mv-9655-37hx] drupal-pattern-lab/unified-twig-extensions is vulnerable to XXS,https://github.com/advisories/GHSA-64mv-9655-37hx,https://da.gd/SFkCZa
+GithubAdvisories,[GHSA-gj5f-73vh-wpf7] cross-zip is vulnerable to Directory Traversal through selective use of zip/unzip operations,https://github.com/advisories/GHSA-gj5f-73vh-wpf7,https://da.gd/QIHdQl
+GithubAdvisories,[GHSA-37j7-fg3j-429f] Happy DOM: VM Context Escape can lead to Remote Code Execution,https://github.com/advisories/GHSA-37j7-fg3j-429f,https://da.gd/GWKuc
+GithubAdvisories,[GHSA-xc79-566c-j4qx] Parallax is vulnerable to DoS via malicious p2p message,https://github.com/advisories/GHSA-xc79-566c-j4qx,https://da.gd/zPnRYR
+GithubAdvisories,[GHSA-5ff5-9fcw-vg88] Astro's `X-Forwarded-Host` is reflected without validation,https://github.com/advisories/GHSA-5ff5-9fcw-vg88,https://da.gd/ZPK5Fl
