@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-m4g9-5mg6-gfr3] Liferay Portal Commerce is vulnerable to XSS through account ""name"" field",https://github.com/advisories/GHSA-m4g9-5mg6-gfr3,https://da.gd/SFx8Ud
+GithubAdvisories,[GHSA-rwvp-r38j-9rgg] rardecode: DoS risk due to unrestricted RAR dictionary sizes,https://github.com/advisories/GHSA-rwvp-r38j-9rgg,https://da.gd/8ljuy
+GithubAdvisories,[GHSA-56r7-h6mw-rcfv] Elasticsearch: Insertion of Sensitive Information into Log File via reindex API,https://github.com/advisories/GHSA-56r7-h6mw-rcfv,https://da.gd/gBqD
