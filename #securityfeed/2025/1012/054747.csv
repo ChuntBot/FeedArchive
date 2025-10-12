@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42: docker-buildx 0.29.1 Significant Cross-Origin Security Advisory,https://linuxsecurity.com/advisories/fedora/fedora-42-docker-buildx-2025-0aaef4df82,https://da.gd/D3WTt
+LinuxSecurity,Fedora 41: Serious Docker-Buildx Cross-Origin Protection Bypass Issue,https://linuxsecurity.com/advisories/fedora/fedora-41-docker-buildx-2025-455aa01b65,https://da.gd/xnpXB
+LinuxSecurity,Fedora 41: log4cxx Important Improper JSON Output Vuln 2025-1b48c1a920,https://linuxsecurity.com/advisories/fedora/fedora-41-log4cxx-2025-1b48c1a920,https://da.gd/a1QSo3
