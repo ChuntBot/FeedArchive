@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xh3c-r5g9-cx2x] Malware in graphorbit,https://github.com/advisories/GHSA-xh3c-r5g9-cx2x,https://da.gd/p4Eei
+GithubAdvisories,[GHSA-3p6w-gv5g-xjw9] MongoDB Rust Driver has certificate validation disabled when `tlsInsecure=False` appears in connection string,https://github.com/advisories/GHSA-3p6w-gv5g-xjw9,https://da.gd/uninX
+GithubAdvisories,[GHSA-q7x5-x7rr-2859] PowerShell Elevation of Privilege Vulnerability,https://github.com/advisories/GHSA-q7x5-x7rr-2859,https://da.gd/osBsW
+GithubAdvisories,[GHSA-gxp8-m5rq-3m38] QGIS QWC2 Cross-Site Scripting vulnerability,https://github.com/advisories/GHSA-gxp8-m5rq-3m38,https://da.gd/vWKPbC
