@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6fgx-x7m2-74qm] tracexec has `env` command argument injection via environment variables starting with dash in traced exec events,https://github.com/advisories/GHSA-6fgx-x7m2-74qm,https://da.gd/hQbEm
+GithubAdvisories,[GHSA-77r9-w39m-9xh5] Omni vulnerable to information leak via API,https://github.com/advisories/GHSA-77r9-w39m-9xh5,https://da.gd/re7mc2
+GithubAdvisories,[GHSA-9965-vmph-33xx] validator.js has a URL validation bypass vulnerability in its isURL function,https://github.com/advisories/GHSA-9965-vmph-33xx,https://da.gd/89bu0A
+GithubAdvisories,[GHSA-4p3p-cr38-v5xp] Omni is Vulnerable to DoS via Empty Create/Update Resource Requests,https://github.com/advisories/GHSA-4p3p-cr38-v5xp,https://da.gd/dMgGJY
