@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fhwm-pc6r-4h2f] CommandKit has incorrect command name exposure in context object for message command aliases,https://github.com/advisories/GHSA-fhwm-pc6r-4h2f,https://da.gd/ydR9R
