@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-894w-w643-qvxv] Liferay Publications is vulnerable to Incorrect Authorization,https://github.com/advisories/GHSA-894w-w643-qvxv,https://da.gd/7jajBx
+GithubAdvisories,[GHSA-rg9h-vx28-xxp5] llama-index has Insecure Temporary File,https://github.com/advisories/GHSA-rg9h-vx28-xxp5,https://da.gd/sNAhes
+GithubAdvisories,[GHSA-2hfj-jv6q-762v] Liferay Publications vulnerable to Authorization Bypass Through User-Controlled Key,https://github.com/advisories/GHSA-2hfj-jv6q-762v,https://da.gd/FG9la
