@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pfwq-mr9g-gq6m] Liferay is Vulnerable to Authorization Bypass Through User-Controlled Key,https://github.com/advisories/GHSA-pfwq-mr9g-gq6m,https://da.gd/k9w7n
+GithubAdvisories,[GHSA-mj68-2xr5-28xh] Liferay Mentions Web is Vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-mj68-2xr5-28xh,https://da.gd/uQ1KA
+GithubAdvisories,[GHSA-fhcw-px4q-pmvv] Liferay Commerce Order Content Web is Vulnerable to Authorization Bypass Through User-Controlled Key,https://github.com/advisories/GHSA-fhcw-px4q-pmvv,https://da.gd/LFnUf
