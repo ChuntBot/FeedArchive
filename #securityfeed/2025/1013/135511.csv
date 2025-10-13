@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9676-rh83-cr86] Liferay Portal is vulnerable to CSRF through publication comments,https://github.com/advisories/GHSA-9676-rh83-cr86,https://da.gd/kqUuO
+GithubAdvisories,[GHSA-29mf-w486-v3vc] Bagisto is vulnerable to XSS through Admin Panel's product creation path,https://github.com/advisories/GHSA-29mf-w486-v3vc,https://da.gd/S0d1m
+GithubAdvisories,[GHSA-7r7f-9xpj-jmr7] Ash Framework: Filter authorization misapplies impossible bypass/runtime policies,https://github.com/advisories/GHSA-7r7f-9xpj-jmr7,https://da.gd/sRK2C
