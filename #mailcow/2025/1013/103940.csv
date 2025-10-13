@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] Add password verification when setting recovery email,https://github.com/mailcow/mailcow-dockerized/commit/b85837c803f06643ee6bb466ef8957414e3e910a,https://da.gd/7xRpz
+GithubCommitStaging,Merge pull request #6836 from mailcow/fix/6802,https://github.com/mailcow/mailcow-dockerized/commit/f6eed6c44151e26bb0c017478b7fdb888e873ab8,https://da.gd/1dnd
