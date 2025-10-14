@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r4hh-pcgx-j5r2] Flowise: Authenticated Command Execution and Sandbox Bypass via Puppeteer and Playwright Packages,https://github.com/advisories/GHSA-r4hh-pcgx-j5r2,https://da.gd/WJ8tQ
