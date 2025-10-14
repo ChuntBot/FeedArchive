@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5m9m-j5p7-m7f9] Casdoor is vulnerable to Improper Authorization,https://github.com/advisories/GHSA-5m9m-j5p7-m7f9,https://da.gd/vsrab
+GithubAdvisories,[GHSA-hrhf-2vcr-ghch] CometBFT's invalid BitArray handling can lead to network halt,https://github.com/advisories/GHSA-hrhf-2vcr-ghch,https://da.gd/kq6uPb
+GithubAdvisories,[GHSA-xw6r-chmh-vpmj] Mailgen has HTML Injection and XSS Filter Bypass in Plaintext Emails,https://github.com/advisories/GHSA-xw6r-chmh-vpmj,https://da.gd/kmYgK
