@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-86rg-8hc8-v82p] LibreNMS is vulnerable to Reflected-XSS in `report_this` function,https://github.com/advisories/GHSA-86rg-8hc8-v82p,https://da.gd/HV3e1
