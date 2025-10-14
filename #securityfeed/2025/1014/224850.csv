@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9f2h-7v79-mxw3] Parse Javascript SDK vulnerable to prototype pollution in `Parse.Object` and internal APIs,https://github.com/advisories/GHSA-9f2h-7v79-mxw3,https://da.gd/Unl4in
