@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mq77-rv97-285m] Home Assistant has Stored XSS vulnerability in Energy dashboard from Energy Entity Name,https://github.com/advisories/GHSA-mq77-rv97-285m,https://da.gd/qCG14
+GithubAdvisories,[GHSA-rrr2-jcr8-7q3x] @nx/azure-cache Vulnerable to Build Cache Poisoning via Untrusted Pull Requests,https://github.com/advisories/GHSA-rrr2-jcr8-7q3x,https://da.gd/g3HmHW
