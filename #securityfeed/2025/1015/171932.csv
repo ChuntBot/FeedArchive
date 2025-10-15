@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jq43-27x9-3v86] Netty has SMTP Command Injection Vulnerability that Allows Email Forgery,https://github.com/advisories/GHSA-jq43-27x9-3v86,https://da.gd/gJ8ra
