@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-72c7-4g63-hpw5] go-witness is Vulnerable to Improper Verification of AWS EC2 Identity Documents,https://github.com/advisories/GHSA-72c7-4g63-hpw5,https://da.gd/jn2bL
+GithubAdvisories,[GHSA-43ff-rr26-8hx4] OpenSearch Data Prepper plugins trust all SSL certificates by default,https://github.com/advisories/GHSA-43ff-rr26-8hx4,https://da.gd/HWzKg
+GithubAdvisories,[GHSA-hwmc-4c8j-xxj7] `sveltekit-superforms` has Prototype Pollution in `parseFormData` function of `formData.js`,https://github.com/advisories/GHSA-hwmc-4c8j-xxj7,https://da.gd/q9zFB8
+GithubAdvisories,[GHSA-q4w9-x3rv-4c8j] Mailgen has HTML Injection and XSS Filter Bypass in Plaintext Emails,https://github.com/advisories/GHSA-q4w9-x3rv-4c8j,https://da.gd/D0ljlx
+GithubAdvisories,[GHSA-j4f7-gj7q-xg9m] Liferay has Incorrect Permission Assignment for Critical Resource,https://github.com/advisories/GHSA-j4f7-gj7q-xg9m,https://da.gd/kudrn
