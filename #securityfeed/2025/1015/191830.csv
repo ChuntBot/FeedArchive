@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6p6v-m64v-jx8q] Apache Spark has Inadequate Encryption Strength,https://github.com/advisories/GHSA-6p6v-m64v-jx8q,https://da.gd/8eBOdG
+GithubAdvisories,[GHSA-fr8m-434r-g3xp] gnark-crypto doesn't range check input values during ECDSA and EdDSA signature deserialization,https://github.com/advisories/GHSA-fr8m-434r-g3xp,https://da.gd/Uw7it
+GithubAdvisories,[GHSA-wr5g-q49g-548w] Expo SDK has an OAuth vulnerability,https://github.com/advisories/GHSA-wr5g-q49g-548w,https://da.gd/7FWJpQ
