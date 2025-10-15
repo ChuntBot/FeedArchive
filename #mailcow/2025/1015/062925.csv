@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,Decrease margin size,https://github.com/mailcow/mailcow-dockerized/commit/69f0552d4f668472816dc5169175327bfe6bae50,https://da.gd/NVhQx7
+GithubCommit,Change icon to filled key,https://github.com/mailcow/mailcow-dockerized/commit/3dcacc41873eb5676614aeb2a071a2e403025c7d,https://da.gd/atxrdB
+GithubCommit,netfilter: improve logging and mark iptables-legacy as deprecated,https://github.com/mailcow/mailcow-dockerized/commit/417835dea83ca5abb57542d1f5ae49811781e694,https://da.gd/qfHok
+GithubCommit,Update pt-br lang (#6803),https://github.com/mailcow/mailcow-dockerized/commit/7de70322d606ed8acf273780c52c4794404d1db3,https://da.gd/0pjToj
+GithubCommit,[Web] Updated lang.zh-cn.json (#6826),https://github.com/mailcow/mailcow-dockerized/commit/79cf0abc6e264d6ce461646932a6f2d481f71cec,https://da.gd/PHUx
+GithubCommit,[Web] Fix SOGo redirection after login,https://github.com/mailcow/mailcow-dockerized/commit/6708b94ebb47bd8106f670a3ff95b7b54153ac57,https://da.gd/p6BbwB
+GithubCommit,[Redis] Update to Redis 7.4.6,https://github.com/mailcow/mailcow-dockerized/commit/2642d9109efe0c934b93988f88cbf3b0aed8d0d7,https://da.gd/xyqNUG
+GithubCommit,[Rspamd] Update to 3.13.2,https://github.com/mailcow/mailcow-dockerized/commit/f47df263d7a2cf05598e65f0601e2c471bf5d2af,https://da.gd/3U9yeL
+GithubCommit,Merge pull request #6797 from Hobby-Student/fix/autodiscover-with-lda…,https://github.com/mailcow/mailcow-dockerized/commit/10e0c42eff4b8dbfe713505f8f1e80ee13c39f60,https://da.gd/Hvh3Iy
+GithubCommit,Merge pull request #6828 from mailcow/fix/6818,https://github.com/mailcow/mailcow-dockerized/commit/b859a52b8e34d42ff52e4accc5734224646daf17,https://da.gd/NTcRs
+GithubCommit,Merge pull request #6829 from mailcow/feat/redis-7.4.6,https://github.com/mailcow/mailcow-dockerized/commit/6a8a2e21366c69cf957c203fc8343f55ea722692,https://da.gd/OuBfLY
+GithubCommit,Merge pull request #6830 from mailcow/feat/rspamd-3.13.2,https://github.com/mailcow/mailcow-dockerized/commit/d5a27c4ccb2a13db24f106625a38811f23778eb4,https://da.gd/oQWBt
+GithubCommit,Merge pull request #6798 from mailcow/renovate/php-pecl-mail-mailpars…,https://github.com/mailcow/mailcow-dockerized/commit/664a9543934b59757592e342c838940558b472d6,https://da.gd/5aQuR
+GithubCommit,Merge pull request #6696 from mailcow/renovate/krakjoe-apcu-5.x,https://github.com/mailcow/mailcow-dockerized/commit/980bfa3aa02b7a125d67c76dc033b5b79d778fda,https://da.gd/LzA6Cw
+GithubCommit,Merge pull request #6821 from tjmills-dev/feat/show-app-passwd-logins,https://github.com/mailcow/mailcow-dockerized/commit/c17d80a6fdfbbdd5ed68a7cf9467bf77e0706b44,https://da.gd/X4bEuA
+GithubCommit,Merge pull request #6783 from patschi/phpfpm-moar-speeeed,https://github.com/mailcow/mailcow-dockerized/commit/653fc40d4cb8af69e56df5fe88c53dbc622e95a1,https://da.gd/qGlJoT
+GithubCommit,[Web] Add password verification when setting recovery email,https://github.com/mailcow/mailcow-dockerized/commit/b85837c803f06643ee6bb466ef8957414e3e910a,https://da.gd/7xRpz
+GithubCommit,Merge pull request #6836 from mailcow/fix/6802,https://github.com/mailcow/mailcow-dockerized/commit/f6eed6c44151e26bb0c017478b7fdb888e873ab8,https://da.gd/1dnd
+GithubCommit,[PHPFPM] Update Image to Version 1.94,https://github.com/mailcow/mailcow-dockerized/commit/6af2addf3c0e8990714f17fcd8af446479185fa8,https://da.gd/QX1nlg
+GithubCommit,Merge pull request #6838 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/586b3a2ed1c07ca39a864700f6028ae57ba53b37,https://da.gd/Fofdg
