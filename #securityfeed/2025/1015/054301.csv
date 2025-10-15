@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42: Resolved CVE-2025-54080 & CVE-2025-55304 SegFault Issues,https://linuxsecurity.com/advisories/fedora/fedora-42-inih-2025-99df814c62,https://da.gd/Rp4Y0
+LinuxSecurity,Fedora 42 mingw-exiv2 Critical Fix for Performance Issues CVE-2025-54080,https://linuxsecurity.com/advisories/fedora/fedora-42-mingw-exiv2-2025-99df814c62,https://da.gd/KtYDL
+LinuxSecurity,Fedora 42: rust-protobuf-update Loop Prevention Solution 2025-3de09bf58a,https://linuxsecurity.com/advisories/fedora/fedora-42-rust-protobuf-support-2025-1ac08db27d,https://da.gd/6zhmHy
+LinuxSecurity,Fedora 42: Severe Uncontrolled Recursion Flaw in rust-protobuf-parse,https://linuxsecurity.com/advisories/fedora/fedora-42-rust-protobuf-parse-2025-1ac08db27d,https://da.gd/WhXRqI
+LinuxSecurity,Fedora 42: Critical Fix for Uncontrolled Recursion in rust-protobuf-codegen,https://linuxsecurity.com/advisories/fedora/fedora-42-rust-protobuf-codegen-2025-1ac08db27d,https://da.gd/V34eaU
+LinuxSecurity,Ubuntu 22: python-pycryptodome High Memory Leak Issue 2025-2db54ef2a,https://linuxsecurity.com/advisories/fedora/fedora-42-rust-maxminddb-2025-1ac08db27d,https://da.gd/GUFJ1f
