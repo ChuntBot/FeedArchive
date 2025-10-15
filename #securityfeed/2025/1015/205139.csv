@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3xgr-h5hq-7299] GeoIP processor disables SSL certificate validation when downloading databases,https://github.com/advisories/GHSA-3xgr-h5hq-7299,https://da.gd/zDv5
+GithubAdvisories,[GHSA-28gg-8qqj-fhh5] OpenSearch Data Prepper uses deprecated SSL protocol identifier,https://github.com/advisories/GHSA-28gg-8qqj-fhh5,https://da.gd/heP71q
+GithubAdvisories,[GHSA-qpm2-6cq5-7pq5] happy-dom's `--disallow-code-generation-from-strings` is not sufficient for isolating untrusted JavaScript,https://github.com/advisories/GHSA-qpm2-6cq5-7pq5,https://da.gd/SX7ik
