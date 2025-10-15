@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gwq6-fmvp-qp68] Microsoft Security Advisory CVE-2025-55248: .NET Information Disclosure Vulnerability,https://github.com/advisories/GHSA-gwq6-fmvp-qp68,https://da.gd/Kj6R
+GithubAdvisories,[GHSA-987x-96fq-9384] Duplicate Advisory: Microsoft Security Advisory CVE-2025-55248: .NET Information Disclosure Vulnerability,https://github.com/advisories/GHSA-987x-96fq-9384,https://da.gd/3Pmi5
+GithubAdvisories,[GHSA-w3q9-fxm7-j8fq] Microsoft Security Advisory CVE-2025-55247 | .NET Denial of Service Vulnerability,https://github.com/advisories/GHSA-w3q9-fxm7-j8fq,https://da.gd/FQlJw
+GithubAdvisories,[GHSA-q8g5-rw97-f55h] Duplicate Advisory: Microsoft Security Advisory CVE-2025-55247 | .NET Denial of Service Vulnerability,https://github.com/advisories/GHSA-q8g5-rw97-f55h,https://da.gd/2B0eb
+GithubAdvisories,[GHSA-pgp9-98jm-wwq2] alloy-dyn-abi has DoS vulnerability on `alloy_dyn_abi::TypedData` hashing,https://github.com/advisories/GHSA-pgp9-98jm-wwq2,https://da.gd/Kh0Vm
