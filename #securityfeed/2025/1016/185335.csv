@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2cjv-6wg9-f4f3] Strapi Password Hashing Missing Maximum Password Length Validation,https://github.com/advisories/GHSA-2cjv-6wg9-f4f3,https://da.gd/PJzR
+GithubAdvisories,[GHSA-495j-h493-42q2] Strapi Allows Unauthorized Access to Private Fields via parms.lookup,https://github.com/advisories/GHSA-495j-h493-42q2,https://da.gd/na00Y
