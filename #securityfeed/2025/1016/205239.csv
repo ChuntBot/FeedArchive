@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r9xj-mvqf-jm7w] bagisto has Cross Site Scripting (XSS) in Create New Customer,https://github.com/advisories/GHSA-r9xj-mvqf-jm7w,https://da.gd/ebwKk
+GithubAdvisories,[GHSA-jqrp-58fv-w8cq] bagisto has CSV Formula Injection in Create New Product,https://github.com/advisories/GHSA-jqrp-58fv-w8cq,https://da.gd/Nli1yL
+GithubAdvisories,[GHSA-fg89-g389-p346] bagisto has a Cross Site Scripting (XSS) vulnerability in TinyMCE Image Upload (SVG),https://github.com/advisories/GHSA-fg89-g389-p346,https://da.gd/Omsnbm
+GithubAdvisories,[GHSA-527q-4wqv-g9wj] bagisto has Server Side Template Injection (SSTI) in Product Description,https://github.com/advisories/GHSA-527q-4wqv-g9wj,https://da.gd/WI0Xkn
