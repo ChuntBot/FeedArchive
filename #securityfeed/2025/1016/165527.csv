@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-frc6-pwgr-c28w] LibreNMS has a Stored XSS vulnerability in its Alert Transport name field,https://github.com/advisories/GHSA-frc6-pwgr-c28w,https://da.gd/0Sa1ZG
