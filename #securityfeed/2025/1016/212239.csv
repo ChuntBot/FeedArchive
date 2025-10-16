@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4r8w-3jww-m2rp] Strapi is vulnerable to Insufficient Session Expiration,https://github.com/advisories/GHSA-4r8w-3jww-m2rp,https://da.gd/ARih
+GithubAdvisories,[GHSA-9m49-p2j3-c6xm] Apache Traffic Control has an Inefficient Regular Expression Complexity vulnerability,https://github.com/advisories/GHSA-9m49-p2j3-c6xm,https://da.gd/rsV8P8
+GithubAdvisories,[GHSA-r6qj-894f-5hr2] Mattermost has a Missing Authorization vulnerability,https://github.com/advisories/GHSA-r6qj-894f-5hr2,https://da.gd/hxLT0P
+GithubAdvisories,[GHSA-6q7m-p8cc-998r] Mattermost has a Missing Authorization vulnerability,https://github.com/advisories/GHSA-6q7m-p8cc-998r,https://da.gd/OQ4SK
+GithubAdvisories,[GHSA-4mjw-xr5x-prpc] Apache ActiveMQ NMS AMQP Client has a Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-4mjw-xr5x-prpc,https://da.gd/EINb
+GithubAdvisories,[GHSA-xr3w-rmvj-f6m7] Mattermost has an Observable Timing Discrepancy vulnerability,https://github.com/advisories/GHSA-xr3w-rmvj-f6m7,https://da.gd/tda372
+GithubAdvisories,[GHSA-3q4q-wqm6-hvf3] Mattermost has a Missing Authorization vulnerability,https://github.com/advisories/GHSA-3q4q-wqm6-hvf3,https://da.gd/PNDwp
+GithubAdvisories,[GHSA-424h-xj87-m937] Mattermost has an Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-424h-xj87-m937,https://da.gd/ZVFi4
+GithubAdvisories,[GHSA-7cr3-38jm-6p45] Mattermost has a Missing Authorization vulnerability,https://github.com/advisories/GHSA-7cr3-38jm-6p45,https://da.gd/i6KhU
