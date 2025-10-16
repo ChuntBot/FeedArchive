@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xmcw-mv9p-7pq2] Duplicate Advisory: Keycloak error_description injection on error pages that can trigger phishing attacks,https://github.com/advisories/GHSA-xmcw-mv9p-7pq2,https://da.gd/TkfPg
