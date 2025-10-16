@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jjjj-jwhf-8rgr] MinIO is Vulnerable to Privilege Escalation via Session Policy Bypass in Service Accounts and STS,https://github.com/advisories/GHSA-jjjj-jwhf-8rgr,https://da.gd/pRugY
+GithubAdvisories,[GHSA-9rvm-p3qm-f4vv] Smidge is vulnerable to Path Traversal,https://github.com/advisories/GHSA-9rvm-p3qm-f4vv,https://da.gd/S0zs4G
+GithubAdvisories,[GHSA-fwxx-wv44-7qfg] Spring Cloud Gateway Server Webflux is vulnerable to Expression Language Injection,https://github.com/advisories/GHSA-fwxx-wv44-7qfg,https://da.gd/tO9xlo
+GithubAdvisories,[GHSA-q63q-pgmf-mxhr] Angular SSR has a Server-Side Request Forgery (SSRF) flaw,https://github.com/advisories/GHSA-q63q-pgmf-mxhr,https://da.gd/w9VmUK
