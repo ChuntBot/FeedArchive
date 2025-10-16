@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6g2v-66ch-6xmh] LibreNMS alert-rules has a Cross-Site Scripting Vulnerability,https://github.com/advisories/GHSA-6g2v-66ch-6xmh,https://da.gd/Ce97
+GithubAdvisories,[GHSA-wvpg-4wrh-5889] PrestaShop Checkout Target PayPal merchant account hijacking from backoffice,https://github.com/advisories/GHSA-wvpg-4wrh-5889,https://da.gd/WKIkfB
+GithubAdvisories,[GHSA-fpxp-pfqm-x54w] PrestaShop Checkout Backoffice directory traversal allows arbitrary file disclosure,https://github.com/advisories/GHSA-fpxp-pfqm-x54w,https://da.gd/wi8n9
+GithubAdvisories,[GHSA-54hq-mf6h-48xh] PrestaShop Checkout allows customer account takeover via email,https://github.com/advisories/GHSA-54hq-mf6h-48xh,https://da.gd/Wvp7Xn
