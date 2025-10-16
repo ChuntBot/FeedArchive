@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9329-mxxw-qwf8] Strapi core vulnerable to sensitive data exposure via CORS misconfiguration,https://github.com/advisories/GHSA-9329-mxxw-qwf8,https://da.gd/JcRB
