@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g46h-2rq9-gw5m] OpenBao has potential Denial of Service vulnerability when processing malicious unauthenticated JSON requests,https://github.com/advisories/GHSA-g46h-2rq9-gw5m,https://da.gd/HSpwoG
+GithubAdvisories,[GHSA-6pvw-g552-53c5] Git LFS may write to arbitrary files via crafted symlinks,https://github.com/advisories/GHSA-6pvw-g552-53c5,https://da.gd/Sbr9o
