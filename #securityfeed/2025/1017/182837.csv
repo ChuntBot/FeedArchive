@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f74j-gffq-vm9p] pyquokka is Vulnerable to Remote Code Execution by Pickle Deserialization via FlightServer,https://github.com/advisories/GHSA-f74j-gffq-vm9p,https://da.gd/RC2ZX
+GithubAdvisories,[GHSA-8c2g-f8jm-5cr7] ibexa/fieldtype-richtext has an XSS vulnerability via acronym custom tag in Rich Text,https://github.com/advisories/GHSA-8c2g-f8jm-5cr7,https://da.gd/JAuJgS
+GithubAdvisories,[GHSA-pcxq-fjp3-r752] Ash has authorization bypass when bypass policy condition evaluates to true,https://github.com/advisories/GHSA-pcxq-fjp3-r752,https://da.gd/h1Qkl
+GithubAdvisories,[GHSA-2mx6-fq24-g2mh] ibexa/admin-ui has an XSS vulnerability in Cancel/Reschedule future publication modal,https://github.com/advisories/GHSA-2mx6-fq24-g2mh,https://da.gd/qqIsi
+GithubAdvisories,[GHSA-99c7-c3mw-mxhv] ezsystems/ezplatform-admin-ui has an XSS vulnerability in Cancel/Reschedule future publication modal,https://github.com/advisories/GHSA-99c7-c3mw-mxhv,https://da.gd/50E1vQ
+GithubAdvisories,[GHSA-q3x8-6898-23g3] ibexa/user login enumerates user accounts,https://github.com/advisories/GHSA-q3x8-6898-23g3,https://da.gd/AFMZJN
+GithubAdvisories,[GHSA-rmjr-87wv-gf87] Mammoth is vulnerable to Directory Traversal,https://github.com/advisories/GHSA-rmjr-87wv-gf87,https://da.gd/DOhoxR
