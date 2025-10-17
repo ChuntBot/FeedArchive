@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fgx4-p8xf-qhp9] Lobe Chat vulnerable to Server-Side Request Forgery with native web fetch module,https://github.com/advisories/GHSA-fgx4-p8xf-qhp9,https://da.gd/GWGneC
+GithubAdvisories,[GHSA-27gc-wj6x-9w55] Keycloak error_description injection on error pages that can trigger phishing attacks,https://github.com/advisories/GHSA-27gc-wj6x-9w55,https://da.gd/tzGRl3
+GithubAdvisories,[GHSA-7fch-4f2f-jcgm] Spring Framework STOMP over WebSocket applications may allow attackers to send unauthorized messages,https://github.com/advisories/GHSA-7fch-4f2f-jcgm,https://da.gd/G1bWSh
