@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xvp7-8vm8-xfxx] Actual Sync-server Gocardless service is logging sensitive data including bearer tokens and account numbers,https://github.com/advisories/GHSA-xvp7-8vm8-xfxx,https://da.gd/E0HnY
+GithubAdvisories,[GHSA-gjp8-99fv-cgcw] Apache Geode: CSRF attacks through GET requests to the Management and Monitoring REST API that can execute gfsh commands on the target system,https://github.com/advisories/GHSA-gjp8-99fv-cgcw,https://da.gd/KNSEB
+GithubAdvisories,[GHSA-gr6v-3pmp-996p] Cargo Mediawiki Extension vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-gr6v-3pmp-996p,https://da.gd/uo0H9
