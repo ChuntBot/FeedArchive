@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g3j4-58mp-3x25] NetBird VPN does not remove the default password of an admin account,https://github.com/advisories/GHSA-g3j4-58mp-3x25,https://da.gd/SwwRW
+GithubAdvisories,"[GHSA-g9qw-g6rv-3889] Taguette vulnerable to cross-site scripting via tag name, tag description, document name and document description",https://github.com/advisories/GHSA-g9qw-g6rv-3889,https://da.gd/xqi9cQ
