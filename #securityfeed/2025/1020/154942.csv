@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r8c2-2qwq-94p6] rollbar vulnerable to prototype pollution,https://github.com/advisories/GHSA-r8c2-2qwq-94p6,https://da.gd/aV9xZv
+GithubAdvisories,[GHSA-g955-vw6w-v6pp] Citizen vulnerable to stored XSS in sticky header button messages,https://github.com/advisories/GHSA-g955-vw6w-v6pp,https://da.gd/GmojIr
