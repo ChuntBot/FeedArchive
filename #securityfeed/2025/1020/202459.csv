@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7rc8-5c8q-jr6j] Taguette password reset link poisoning,https://github.com/advisories/GHSA-7rc8-5c8q-jr6j,https://da.gd/Eqhzgp
+GithubAdvisories,[GHSA-825g-mm5v-ggq4] Apache Syncope allows malicious administrators to inject Groovy code,https://github.com/advisories/GHSA-825g-mm5v-ggq4,https://da.gd/gg19v
+GithubAdvisories,[GHSA-4vrf-42cm-7xfw] TastyIgniter vulnerable to Cross-Site Scripting,https://github.com/advisories/GHSA-4vrf-42cm-7xfw,https://da.gd/iPbwj
+GithubAdvisories,[GHSA-vffh-c9pq-4crh] Uptime Kuma Server-side Template Injection (SSTI) in Notification Templates Allows Arbitrary File Read,https://github.com/advisories/GHSA-vffh-c9pq-4crh,https://da.gd/O2pM2k
+GithubAdvisories,[GHSA-93m4-6634-74q7] vite allows server.fs.deny bypass via backslash on Windows,https://github.com/advisories/GHSA-93m4-6634-74q7,https://da.gd/aM2iiS
