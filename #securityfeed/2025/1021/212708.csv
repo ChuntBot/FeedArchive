@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-25qh-j22f-pwp8] QOS.CH logback-core is vulnerable to Arbitrary Code Execution through file processing,https://github.com/advisories/GHSA-25qh-j22f-pwp8,https://da.gd/vlRt0
+GithubAdvisories,[GHSA-2768-5wmv-cfff] Magento vulnerable to stored Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-2768-5wmv-cfff,https://da.gd/j6uq
+GithubAdvisories,[GHSA-9p44-q66p-xm6p] ProcessWire CMS vulnerable to resource-exhaustion Denial of Service,https://github.com/advisories/GHSA-9p44-q66p-xm6p,https://da.gd/UShyC
