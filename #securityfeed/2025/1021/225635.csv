@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ffcc-qr2v-3qmv] Mattermost Server is vulnerable to Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-ffcc-qr2v-3qmv,https://da.gd/CQC0g
+GithubAdvisories,[GHSA-r93j-3mmp-px57] Mattermost Server: initial_load API exposes unnecessary information,https://github.com/advisories/GHSA-r93j-3mmp-px57,https://da.gd/x2TgO
+GithubAdvisories,[GHSA-rx48-gqc2-4w47] Liferay Portal reflected cross-site scripting (XSS) vulnerability in the google_gaget,https://github.com/advisories/GHSA-rx48-gqc2-4w47,https://da.gd/7t7L1
