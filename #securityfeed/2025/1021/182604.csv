@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8pfh-j44r-f654] Cosmos EVM Vulnerability,https://github.com/advisories/GHSA-8pfh-j44r-f654,https://da.gd/OkRfJ
+GithubAdvisories,"[GHSA-r2vg-hvjm-fg38] Shopware Customer Orders can be canceled, even if refunds are disabled",https://github.com/advisories/GHSA-r2vg-hvjm-fg38,https://da.gd/bFNgd
+GithubAdvisories,[GHSA-27c9-vp3w-6ww8] Shopware exposes sensitive user information via CSV export mapping,https://github.com/advisories/GHSA-27c9-vp3w-6ww8,https://da.gd/uGMBAO
+GithubAdvisories,[GHSA-3cpp-fv95-mpr5] Shopware vulnerable to Server-Side Request Forgery (SSRF) – order invoice,https://github.com/advisories/GHSA-3cpp-fv95-mpr5,https://da.gd/ifKflm
+GithubAdvisories,[GHSA-6wh5-mw9h-5c3w] Shopware vulnerable to path traversal via Plugin upload,https://github.com/advisories/GHSA-6wh5-mw9h-5c3w,https://da.gd/42QV
+GithubAdvisories,[GHSA-m895-2hj3-8cg9] Shopware vulnerable to MediaVisibilityRestrictionSubscriber bypass when reading media entities by aggregating fields individually,https://github.com/advisories/GHSA-m895-2hj3-8cg9,https://da.gd/LlViK
