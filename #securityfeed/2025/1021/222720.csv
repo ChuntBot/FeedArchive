@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cffj-7w5c-jqjh] Mattermost Server vulnerable to Cross-site Scripting through file preview feature,https://github.com/advisories/GHSA-cffj-7w5c-jqjh,https://da.gd/Ozvcj
+GithubAdvisories,[GHSA-9778-v769-qvjf] code16 Sharp vulnerable to Cross Site Scripting (XSS),https://github.com/advisories/GHSA-9778-v769-qvjf,https://da.gd/Mgj4Gu
+GithubAdvisories,[GHSA-fp5x-7m4q-449f] Direct Ring Buffer has uninitialized memory exposure in create_ring_buffer,https://github.com/advisories/GHSA-fp5x-7m4q-449f,https://da.gd/ivHV5
