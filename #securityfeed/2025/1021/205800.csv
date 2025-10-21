@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pcrx-r49h-x2w5] Magento vulnerable to stored Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-pcrx-r49h-x2w5,https://da.gd/yOR60j
+GithubAdvisories,[GHSA-qvwr-p3hj-j6jf] Magento vulnerable to privilege escalation due to incorrect authorization,https://github.com/advisories/GHSA-qvwr-p3hj-j6jf,https://da.gd/KZP1LV
+GithubAdvisories,[GHSA-69x9-xp2j-w8g8] Magento provides incorrect authorization through a security feature bypass,https://github.com/advisories/GHSA-69x9-xp2j-w8g8,https://da.gd/fe6y
+GithubAdvisories,[GHSA-6pgj-w687-9c8c] Liferay Portal fails to verify messages from the cluster network is trusted,https://github.com/advisories/GHSA-6pgj-w687-9c8c,https://da.gd/1QFhaw
+GithubAdvisories,[GHSA-h773-7gf7-9m2x] NeuVector is shipping cryptographic material into its binary,https://github.com/advisories/GHSA-h773-7gf7-9m2x,https://da.gd/cPa42C
