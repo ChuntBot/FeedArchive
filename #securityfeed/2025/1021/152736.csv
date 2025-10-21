@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g8mr-fgfg-5qpc] Koa Vulnerable to Open Redirect via Trailing Double-Slash (//) in back Redirect Logic,https://github.com/advisories/GHSA-g8mr-fgfg-5qpc,https://da.gd/nxc4Az
