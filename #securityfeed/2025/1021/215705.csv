@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h5j3-crg5-8jqm] orx-pinned-vec has undefined behavior in index_of_ptr with empty slices,https://github.com/advisories/GHSA-h5j3-crg5-8jqm,https://da.gd/kahG0
+GithubAdvisories,[GHSA-535g-62r7-cx6v] Nautobot Single Source of Truth (SSoT) has an unauthenticated ServiceNow configuration URL,https://github.com/advisories/GHSA-535g-62r7-cx6v,https://da.gd/MxvPPv
+GithubAdvisories,[GHSA-h4f4-gv6h-x824] Magento vulnerable to path traversal,https://github.com/advisories/GHSA-h4f4-gv6h-x824,https://da.gd/EZP45W
+GithubAdvisories,[GHSA-7hrj-3c9x-xv5h] Magento has incorrect authorization issue that leads to arbitrary file system read,https://github.com/advisories/GHSA-7hrj-3c9x-xv5h,https://da.gd/eEOg0
+GithubAdvisories,[GHSA-xgfm-992v-h2hr] Magento vulnerable to denial of service,https://github.com/advisories/GHSA-xgfm-992v-h2hr,https://da.gd/LEyNPB
