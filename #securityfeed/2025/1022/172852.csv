@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x77x-7mmh-cxv3] ncurses exposes uninitialized memory in string reading functions,https://github.com/advisories/GHSA-x77x-7mmh-cxv3,https://da.gd/pr61GL
