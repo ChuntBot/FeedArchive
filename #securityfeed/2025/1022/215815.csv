@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m78r-2x6w-qqjp] Mattermost Server is vulnerable to XSS through crafted links,https://github.com/advisories/GHSA-m78r-2x6w-qqjp,https://da.gd/tVYOmc
+GithubAdvisories,[GHSA-phjr-p9c5-hprx] Liferay Portal and Liferay DXP vulnerable to reflected cross-site scripting (XSS),https://github.com/advisories/GHSA-phjr-p9c5-hprx,https://da.gd/HeUcg
+GithubAdvisories,[GHSA-wwxp-hxh6-8gf8] binary_vec_io access memory out-of-bounds in binary_read_to_ref and binary_write_from_ref,https://github.com/advisories/GHSA-wwxp-hxh6-8gf8,https://da.gd/SJRJ
+GithubAdvisories,[GHSA-5q37-9874-qxcw] Mattermost Server exposes information stored by a web browser,https://github.com/advisories/GHSA-5q37-9874-qxcw,https://da.gd/9mVJE
+GithubAdvisories,[GHSA-g3f3-p9rc-775p] Mattermost Server exposes account details to any Team Administrator,https://github.com/advisories/GHSA-g3f3-p9rc-775p,https://da.gd/g7J5
+GithubAdvisories,[GHSA-g2pj-xmxq-3r9q] Magento Improper Access Control leads to security feature bypass,https://github.com/advisories/GHSA-g2pj-xmxq-3r9q,https://da.gd/RFxL7
+GithubAdvisories,[GHSA-r487-9vv5-75gg] Magento Improper Authorization leading to security feature bypass,https://github.com/advisories/GHSA-r487-9vv5-75gg,https://da.gd/Sk6cn
+GithubAdvisories,[GHSA-85jx-x9r4-45m2] Magento Authenticated Security feature bypass,https://github.com/advisories/GHSA-85jx-x9r4-45m2,https://da.gd/y3P9
