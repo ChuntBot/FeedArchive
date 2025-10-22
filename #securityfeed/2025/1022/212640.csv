@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8hcx-xvww-6c6h] Magento Security feature bypass,https://github.com/advisories/GHSA-8hcx-xvww-6c6h,https://da.gd/jDxA4
+GithubAdvisories,[GHSA-2j9c-76pp-xc5q] Mattermost Server allows XSS via redirect URL,https://github.com/advisories/GHSA-2j9c-76pp-xc5q,https://da.gd/LIgtPt
+GithubAdvisories,[GHSA-h3qg-w9j5-wh3m] Mattermost Server is vulnerable to XSS through lack of link relationship attributes `noreferrer` and `noopener`,https://github.com/advisories/GHSA-h3qg-w9j5-wh3m,https://da.gd/ZGKSf
