@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9w4v-9c99-hv7r] Mattermost Server exposes sensitive information via its System Console UI,https://github.com/advisories/GHSA-9w4v-9c99-hv7r,https://da.gd/4boeF
+GithubAdvisories,[GHSA-5777-jj7p-mpqw] Magento Cross-Site Request Forgery (CSRF) vulnerability,https://github.com/advisories/GHSA-5777-jj7p-mpqw,https://da.gd/4QHsL
+GithubAdvisories,[GHSA-mj8v-773w-5qhj] Mattermost Server allows System Admin to modify LDAP account names and email addresses,https://github.com/advisories/GHSA-mj8v-773w-5qhj,https://da.gd/X989Ol
+GithubAdvisories,[GHSA-379p-37xc-q963] Mattermost Server does not check if cookies are used over SSL,https://github.com/advisories/GHSA-379p-37xc-q963,https://da.gd/bN6dnS
+GithubAdvisories,[GHSA-wcmw-8xpp-rwfj] Magento Time-of-check Time-of-use (TOCTOU) Race Condition vulnerability,https://github.com/advisories/GHSA-wcmw-8xpp-rwfj,https://da.gd/xKSXm
+GithubAdvisories,[GHSA-q3g9-hgrx-hwhx] Mattermost Server exposes sensitive information about team URLs via an API,https://github.com/advisories/GHSA-q3g9-hgrx-hwhx,https://da.gd/jD8Y
+GithubAdvisories,[GHSA-j26g-95ph-2mwv] Mattermost Server: Insufficient Password-Reset Link Invalidation,https://github.com/advisories/GHSA-j26g-95ph-2mwv,https://da.gd/9BRrWG
+GithubAdvisories,[GHSA-9jrx-fgrm-96qh] Mattermost Server is vulnerable to XSS via a Legal or Support setting,https://github.com/advisories/GHSA-9jrx-fgrm-96qh,https://da.gd/Xzk0Xl
+GithubAdvisories,[GHSA-43m6-wvc8-2m7j] Mattermost Server's Session ID and Session Token are potentially compromised,https://github.com/advisories/GHSA-43m6-wvc8-2m7j,https://da.gd/vZz1lU
