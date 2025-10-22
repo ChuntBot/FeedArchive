@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r397-ff8c-wv2g] aiomysql allows arbitrary access to client files through vulnerability of a malicious MySQL server,https://github.com/advisories/GHSA-r397-ff8c-wv2g,https://da.gd/VJx6zE
+GithubAdvisories,[GHSA-2v5m-cq9w-fc33] Admidio Vulnerable to Authenticated SQL Injection in Member Assignment Functionality,https://github.com/advisories/GHSA-2v5m-cq9w-fc33,https://da.gd/O1imul
+GithubAdvisories,[GHSA-cq46-m9x9-j8w2] Scapy Session Loading Vulnerable to Arbitrary Code Execution via Untrusted Pickle Deserialization,https://github.com/advisories/GHSA-cq46-m9x9-j8w2,https://da.gd/aewGgh
+GithubAdvisories,[GHSA-xcpm-76hf-c9cc] Borrowck Scarifices exposes uninitialized memory in any_as_u8_slice,https://github.com/advisories/GHSA-xcpm-76hf-c9cc,https://da.gd/NWJs
