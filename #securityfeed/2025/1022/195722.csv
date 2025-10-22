@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rc54-2g2c-g36g] OpenBao and Vault Leak []byte Fields in Audit Logs,https://github.com/advisories/GHSA-rc54-2g2c-g36g,https://da.gd/BG8dc
+GithubAdvisories,[GHSA-h8qw-xqm9-q66j] Mattermost Server is vulnerable to XSS through customizable theme color-code values,https://github.com/advisories/GHSA-h8qw-xqm9-q66j,https://da.gd/4CqtWl
+GithubAdvisories,[GHSA-qrf6-h5fc-7m96] Mattermost Server does not enforce rate limits on password change attempts,https://github.com/advisories/GHSA-qrf6-h5fc-7m96,https://da.gd/Xqn97b
+GithubAdvisories,[GHSA-gr7h-xw4f-wh86] Sakai kernel-impl: predictable PRNG used to generate server‑side encryption key in EncryptionUtilityServiceImpl,https://github.com/advisories/GHSA-gr7h-xw4f-wh86,https://da.gd/FDiUX
+GithubAdvisories,[GHSA-jfx9-29x2-rv3j] pypdf can exhaust RAM via manipulated LZWDecode streams,https://github.com/advisories/GHSA-jfx9-29x2-rv3j,https://da.gd/MnzQs
+GithubAdvisories,[GHSA-vr63-x8vc-m265] pypdf possibly loops infinitely when reading DCT inline images without EOF marker,https://github.com/advisories/GHSA-vr63-x8vc-m265,https://da.gd/pR60y
+GithubAdvisories,[GHSA-8mf9-rmgw-33qc] Hugging Face Smolagents XPath injection vulnerability in the search_item_ctrl_f function,https://github.com/advisories/GHSA-8mf9-rmgw-33qc,https://da.gd/GXABn5
+GithubAdvisories,[GHSA-45p5-v273-3qqr] Vert.x-Web vulnerable to Stored Cross-site Scripting in directory listings via file names,https://github.com/advisories/GHSA-45p5-v273-3qqr,https://da.gd/wnwX6C
+GithubAdvisories,[GHSA-h5fg-jpgr-rv9c] Vert.x-Web Access Control Flaw in StaticHandler’s Hidden File Protection for Files Under Hidden Directories,https://github.com/advisories/GHSA-h5fg-jpgr-rv9c,https://da.gd/EXChnD
+GithubAdvisories,[GHSA-ghfh-fmx4-26h8] OpenBao leaks HTTPRawBody in Audit Logs,https://github.com/advisories/GHSA-ghfh-fmx4-26h8,https://da.gd/asMoZ
