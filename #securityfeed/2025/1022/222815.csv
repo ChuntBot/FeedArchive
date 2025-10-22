@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cqwv-9xh5-25fg] Liferay Portal and DXP are Missing Authorization in Collection Provider,https://github.com/advisories/GHSA-cqwv-9xh5-25fg,https://da.gd/OA4cbk
+GithubAdvisories,[GHSA-vw57-55f8-c73q] Mattermost Server allows XSS via CSRF,https://github.com/advisories/GHSA-vw57-55f8-c73q,https://da.gd/QuRHPd
+GithubAdvisories,"[GHSA-rm24-25xm-9454] Mattermost Server: Files may be rendered inline instead of downloaded, allowing script execution",https://github.com/advisories/GHSA-rm24-25xm-9454,https://da.gd/9nnpgU
