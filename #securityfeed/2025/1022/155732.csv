@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7vmw-6c7h-rrrv] Mattermost Server is vulnerable to Code Injection through its LDAP fields,https://github.com/advisories/GHSA-7vmw-6c7h-rrrv,https://da.gd/9fBrF
