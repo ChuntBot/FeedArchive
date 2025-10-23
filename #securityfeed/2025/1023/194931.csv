@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j82q-c85j-xw4w] Liferay Portal and DXP do not properly restrict access to OpenAPI,https://github.com/advisories/GHSA-j82q-c85j-xw4w,https://da.gd/zjN0u
+GithubAdvisories,[GHSA-895x-rfqp-jh5c] Keycloak does not invalidate offline sessions when the offline_access scope is removed,https://github.com/advisories/GHSA-895x-rfqp-jh5c,https://da.gd/h2SNuu
+GithubAdvisories,"[GHSA-64w3-5q9m-68xf] Keycloak does not invalidate sessions when ""Remember Me"" is disabled",https://github.com/advisories/GHSA-64w3-5q9m-68xf,https://da.gd/zPHrkU
