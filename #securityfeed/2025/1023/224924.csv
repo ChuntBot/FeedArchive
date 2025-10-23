@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9g4h-h484-3578] HashiCorp Vault and Vault Enterprise's AWS Auth method may be susceptible to authentication bypass,https://github.com/advisories/GHSA-9g4h-h484-3578,https://da.gd/ibh26e
+GithubAdvisories,[GHSA-74w7-cr4v-wf2v] Magento Improper Access Control Leads to Privilege escalation,https://github.com/advisories/GHSA-74w7-cr4v-wf2v,https://da.gd/Kpe5Mb
+GithubAdvisories,[GHSA-4xmj-f664-hv98] Magento Improper Authorization leads to Security feature bypass,https://github.com/advisories/GHSA-4xmj-f664-hv98,https://da.gd/6yTEg
+GithubAdvisories,[GHSA-4xgg-rw35-7mv5] Magento Improper Authorization leads to Security feature bypass,https://github.com/advisories/GHSA-4xgg-rw35-7mv5,https://da.gd/hjjyt
+GithubAdvisories,[GHSA-gj93-84g5-mcjq] Magento Improper Authorization Leading to Security feature bypass,https://github.com/advisories/GHSA-gj93-84g5-mcjq,https://da.gd/jJGk
+GithubAdvisories,[GHSA-x6f9-hv9r-fgq4] Magento Improper Access Control Leads to Privilege escalation,https://github.com/advisories/GHSA-x6f9-hv9r-fgq4,https://da.gd/s6Va
+GithubAdvisories,[GHSA-qm77-mqf3-fmhq] Magento Improper Authorization leads to security feature bypass,https://github.com/advisories/GHSA-qm77-mqf3-fmhq,https://da.gd/W91qv
+GithubAdvisories,[GHSA-2r94-wm5v-4prx] Magento does not properly protect credentials,https://github.com/advisories/GHSA-2r94-wm5v-4prx,https://da.gd/UdQulC
+GithubAdvisories,[GHSA-vhcq-4xrm-2cr2] Magento Improper Access Control leads to Security feature bypass,https://github.com/advisories/GHSA-vhcq-4xrm-2cr2,https://da.gd/vQiY4
+GithubAdvisories,[GHSA-vp5w-xcfc-73wf] Hashicorp Vault and Vault Enterprise vulnerable to a denial of service when processing JSON,https://github.com/advisories/GHSA-vp5w-xcfc-73wf,https://da.gd/DD1Hwf
+GithubAdvisories,[GHSA-gccf-r9xp-x8jx] Liferay Portal Self Cross-site scripting (XSS) vulnerability on the edit Knowledge Base article page,https://github.com/advisories/GHSA-gccf-r9xp-x8jx,https://da.gd/FawQFF
+GithubAdvisories,[GHSA-wvv5-5g6x-hp7j] MCMS reflected cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-wvv5-5g6x-hp7j,https://da.gd/mp7Es
