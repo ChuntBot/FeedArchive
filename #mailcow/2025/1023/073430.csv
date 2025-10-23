@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Disable PHP opcache.jit,https://github.com/mailcow/mailcow-dockerized/commit/a4970397f1fe2b30647ffd741d7f4cd1e70fd823,https://da.gd/TBdwbk
+GithubCommitStaging,Merge pull request #6847 from patschi/disable-opcache-jit,https://github.com/mailcow/mailcow-dockerized/commit/04d5c43550e4c0b6d6e40cd49c700c7c80781d24,https://da.gd/D3pkRX
