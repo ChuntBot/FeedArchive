@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j3w7-9qc3-g96p] Kottster app reinitialization can be re-triggered allowing command injection in development mode,https://github.com/advisories/GHSA-j3w7-9qc3-g96p,https://da.gd/coULZ
+GithubAdvisories,[GHSA-jp7h-4f3c-9rc7] OpenBao AWS Plugin Vulnerable to Cross-Account IAM Role Impersonation in AWS Auth Method,https://github.com/advisories/GHSA-jp7h-4f3c-9rc7,https://da.gd/vtAa2
