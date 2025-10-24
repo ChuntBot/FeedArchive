@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubCommit,chore(deps): update devops-infra/action-pull-request action to v1 (#6…,https://github.com/mailcow/mailcow-dockerized/commit/4132f6bd480ad3a72784b17811b39abdf1e15159,https://da.gd/TwQV12
+GithubCommit,Disable PHP opcache.jit,https://github.com/mailcow/mailcow-dockerized/commit/a4970397f1fe2b30647ffd741d7f4cd1e70fd823,https://da.gd/TBdwbk
+GithubCommit,chore(deps): update devops-infra/action-pull-request action to v1.0.2…,https://github.com/mailcow/mailcow-dockerized/commit/3507ff277362acb29f6793f152f2339bd1b99ed1,https://da.gd/GtMq3
+GithubCommit,Add Vietnamese language (#6854),https://github.com/mailcow/mailcow-dockerized/commit/23fb5e2fca33def39750a4bf0422f5ec077f027f,https://da.gd/Bc9to3
+GithubCommit,chore(deps): update alpine docker tag to v3.22 (#6417),https://github.com/mailcow/mailcow-dockerized/commit/0338a36ecfb8ba33fe8c811afe7107c99093890c,https://da.gd/X7h54F
+GithubCommit,[Web] Updated lang.vi-vn.json (#6861),https://github.com/mailcow/mailcow-dockerized/commit/fbcb8cbeb9cd86ce07ed2776a5a377d4b2c2961c,https://da.gd/2cFAqM
+GithubCommit,Merge pull request #6847 from patschi/disable-opcache-jit,https://github.com/mailcow/mailcow-dockerized/commit/04d5c43550e4c0b6d6e40cd49c700c7c80781d24,https://da.gd/D3pkRX
+GithubCommit,[PHP] re-add opcache.revalidate_freq setting,https://github.com/mailcow/mailcow-dockerized/commit/22a09b9795d26021da5c706dc5b8ff038448374f,https://da.gd/coxo4
+GithubCommit,[PHP] remove opcache.revalidate_freq,https://github.com/mailcow/mailcow-dockerized/commit/9a806e64cef1ab96d8ca0c4a247dc9dafb352f4b,https://da.gd/sVTume
+GithubCommit,Merge pull request #6874 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/45666d2c4e21fab5e4e9dcdcad68b3ee5e6356d8,https://da.gd/izslFU
