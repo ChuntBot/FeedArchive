@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hgrp-fgm8-56g8] Mattermost Server's OAuth 2.0 service is vulnerable to attack through Missing Authorization,https://github.com/advisories/GHSA-hgrp-fgm8-56g8,https://da.gd/dc6l
