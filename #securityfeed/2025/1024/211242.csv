@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rjcm-7v2p-9265] Moodle course access permissions are not properly checked in course_output_fragment_course_overview,https://github.com/advisories/GHSA-rjcm-7v2p-9265,https://da.gd/P4g4
+GithubAdvisories,[GHSA-8fcv-4qp9-pg32] Moodle sends quiz-related messages to inactive/suspended users,https://github.com/advisories/GHSA-8fcv-4qp9-pg32,https://da.gd/fcaSqi
+GithubAdvisories,[GHSA-422v-w6c5-vq42] Moodle exposed the names of hidden groups to users,https://github.com/advisories/GHSA-422v-w6c5-vq42,https://da.gd/1RXhWW
+GithubAdvisories,[GHSA-w29j-8phw-ffjf] Moodle has a time restriction bypass,https://github.com/advisories/GHSA-w29j-8phw-ffjf,https://da.gd/oxdgOM
+GithubAdvisories,[GHSA-c5cj-xp43-qcc3] Moodle's error handling leads to sensitive information disclosure,https://github.com/advisories/GHSA-c5cj-xp43-qcc3,https://da.gd/3ALqJ
+GithubAdvisories,[GHSA-m58f-9pvv-8mp2] Moodle vulnerable to brute-force password guesses,https://github.com/advisories/GHSA-m58f-9pvv-8mp2,https://da.gd/KYhvNw
+GithubAdvisories,[GHSA-g9pc-8g42-g6vq] RoadRunner is at risk of HTTP Request/Response Smuggling through vulnerable dependency,https://github.com/advisories/GHSA-g9pc-8g42-g6vq,https://da.gd/Lex8R
