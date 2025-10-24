@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j4vr-pcmw-hx59] Rancher user retains access to clusters despite Global Role removal,https://github.com/advisories/GHSA-j4vr-pcmw-hx59,https://da.gd/8SY68
