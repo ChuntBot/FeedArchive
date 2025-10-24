@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mw39-9qc2-f7mg] Rancher exposes sensitive information through audit logs,https://github.com/advisories/GHSA-mw39-9qc2-f7mg,https://da.gd/2oA6wS
+GithubAdvisories,[GHSA-5qjg-9mjh-4r92] Karmada Dashboard API Unauthorized Access Vulnerability,https://github.com/advisories/GHSA-5qjg-9mjh-4r92,https://da.gd/lWnJuM
