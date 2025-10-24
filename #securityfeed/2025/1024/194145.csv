@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q7jf-gf43-6x6p] Hono vulnerable to Vary Header Injection leading to potential CORS Bypass,https://github.com/advisories/GHSA-q7jf-gf43-6x6p,https://da.gd/zpfCS
