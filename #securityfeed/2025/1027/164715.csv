@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hq76-6gh2-5g4q] Constellation has insecure LUKS2 persistent storage partitions which may be opened and used,https://github.com/advisories/GHSA-hq76-6gh2-5g4q,https://da.gd/cWH7
