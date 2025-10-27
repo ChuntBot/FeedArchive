@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4h67-722j-5pmc] Wasmtime vulnerable to segfault when using component resources,https://github.com/advisories/GHSA-4h67-722j-5pmc,https://da.gd/DOsdh1
+GithubAdvisories,"[GHSA-p3v4-c93g-cmhw] BBOT's gitlab.py exposes globally configured ""gitlab"" API key",https://github.com/advisories/GHSA-p3v4-c93g-cmhw,https://da.gd/mbgh
+GithubAdvisories,"[GHSA-rgvh-4m82-fvjq] InventoryGui allows item duplication with experimental ""Bundle"" item in GUIs which use GuiStorageElement",https://github.com/advisories/GHSA-rgvh-4m82-fvjq,https://da.gd/VK5lLv
+GithubAdvisories,[GHSA-598q-jw82-5w66] InventoryGui affected by item duplication in GUIs which use GuiStorageElement,https://github.com/advisories/GHSA-598q-jw82-5w66,https://da.gd/VViEj
