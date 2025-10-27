@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wpp4-vqfq-v4hp] ImageMagick CLAHE : Unsigned underflow and division-by-zero lead to OOB pointer arithmetic and process crash (DoS),https://github.com/advisories/GHSA-wpp4-vqfq-v4hp,https://da.gd/P1Qkd
