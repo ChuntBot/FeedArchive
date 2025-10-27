@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q8hq-4h99-fj7x] Keycloak TLS Client-Initiated Renegotiation Denial of Service,https://github.com/advisories/GHSA-q8hq-4h99-fj7x,https://da.gd/QPnlEQ
+GithubAdvisories,[GHSA-4h97-wpxp-3757] LangGraph's SQLite store implementation has a SQL Injection Vulnerability,https://github.com/advisories/GHSA-4h97-wpxp-3757,https://da.gd/nQ0eFr
+GithubAdvisories,[GHSA-gv8h-7v7w-r22q] Docker Compose Vulnerable to Path Traversal via OCI Artifact Layer Annotations,https://github.com/advisories/GHSA-gv8h-7v7w-r22q,https://da.gd/2JzFzg
