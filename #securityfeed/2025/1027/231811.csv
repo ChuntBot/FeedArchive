@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wq2g-r956-j8cc] pg8000 SQL injection vulnerability via a specially crafted Python list input,https://github.com/advisories/GHSA-wq2g-r956-j8cc,https://da.gd/3ZyELG
+GithubAdvisories,[GHSA-9wq6-87hw-6mhc] PowerJob OpenAPIController is missing authorization,https://github.com/advisories/GHSA-9wq6-87hw-6mhc,https://da.gd/sXUmF1
