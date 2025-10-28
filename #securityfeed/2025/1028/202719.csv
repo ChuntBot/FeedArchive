@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-867c-p784-5q6g] PrivateBin is missing HTML sanitization of attached filename in file size hint,https://github.com/advisories/GHSA-867c-p784-5q6g,https://da.gd/8jtDhm
