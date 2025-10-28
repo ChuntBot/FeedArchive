@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hgrr-935x-pq79] Apache Tomcat Vulnerable to Improper Resource Shutdown or Release,https://github.com/advisories/GHSA-hgrr-935x-pq79,https://da.gd/zopARp
+GithubAdvisories,"[GHSA-vfww-5hm6-hx2j] Apache Tomcat Vulnerable to Improper Neutralization of Escape, Meta, or Control Sequences",https://github.com/advisories/GHSA-vfww-5hm6-hx2j,https://da.gd/lmSpV
+GithubAdvisories,[GHSA-wmwf-9ccg-fff5] Apache Tomcat Vulnerable to Relative Path Traversal,https://github.com/advisories/GHSA-wmwf-9ccg-fff5,https://da.gd/pR8aK
