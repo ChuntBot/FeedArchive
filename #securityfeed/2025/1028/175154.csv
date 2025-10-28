@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f5p4-p5q5-jv3h] Contrast has insecure LUKS2 persistent storage partitions may be opened and used,https://github.com/advisories/GHSA-f5p4-p5q5-jv3h,https://da.gd/TjZME
+GithubAdvisories,[GHSA-7whh-79j3-7c55] InventoryGui allows item duplication in GUIs which use GuiStorageElement,https://github.com/advisories/GHSA-7whh-79j3-7c55,https://da.gd/DxfSO
+GithubAdvisories,[GHSA-jv6h-4262-q663] Bouncy Castle Vulnerable to Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-jv6h-4262-q663,https://da.gd/C2Hrq
+GithubAdvisories,[GHSA-qcpr-679q-rhm2] Astro's bypass of image proxy domain validation leads to SSRF and potential XSS,https://github.com/advisories/GHSA-qcpr-679q-rhm2,https://da.gd/o4sZy
+GithubAdvisories,[GHSA-q8j9-34qf-7vq7] Silver has unrestricted traffic between Wireguard clients,https://github.com/advisories/GHSA-q8j9-34qf-7vq7,https://da.gd/C1KOy
