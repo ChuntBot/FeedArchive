@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7f5h-v6xp-fcq8] Starlette vulnerable to O(n^2) DoS via Range header merging in ``starlette.responses.FileResponse``,https://github.com/advisories/GHSA-7f5h-v6xp-fcq8,https://da.gd/PqG8P
