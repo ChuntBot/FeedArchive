@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qh7p-pfq3-677h] Consul event endpoint is vulnerable to denial of service,https://github.com/advisories/GHSA-qh7p-pfq3-677h,https://da.gd/Yg7Sg5
+GithubAdvisories,[GHSA-7g3r-8c6v-hfmr] Consul key/value endpoint is vulnerable to denial of service,https://github.com/advisories/GHSA-7g3r-8c6v-hfmr,https://da.gd/WDtrW
+GithubAdvisories,[GHSA-mxxr-jv3v-6pgc] FastMCP vulnerable to reflected XSS in client's callback page,https://github.com/advisories/GHSA-mxxr-jv3v-6pgc,https://da.gd/OJ7AB
+GithubAdvisories,[GHSA-rj5c-58rq-j5g5] FastMCP vulnerable to windows command injection in FastMCP Cursor installer via server_name,https://github.com/advisories/GHSA-rj5c-58rq-j5g5,https://da.gd/016RkQ
+GithubAdvisories,[GHSA-c2jp-c369-7pvx] FastMCP Auth Integration Allows for Confused Deputy Account Takeover,https://github.com/advisories/GHSA-c2jp-c369-7pvx,https://da.gd/uOZbH
+GithubAdvisories,[GHSA-rg35-5v25-mqvp] Keycloak vulnerable to session takeovers due to reuse of session identifiers,https://github.com/advisories/GHSA-rg35-5v25-mqvp,https://da.gd/WvbO73
+GithubAdvisories,[GHSA-c6cm-5gc7-c3f4] Keycloak allows access to admin path through flaw,https://github.com/advisories/GHSA-c6cm-5gc7-c3f4,https://da.gd/mrd7
+GithubAdvisories,[GHSA-2r4h-8jxv-w2j8] CKAN vulnerable to stored XSS in resource description,https://github.com/advisories/GHSA-2r4h-8jxv-w2j8,https://da.gd/0duCz
