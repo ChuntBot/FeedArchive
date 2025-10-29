@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9f58-4465-23c7] Sharp user-provided input can be evaluated in a SharpShowTextField with Vue template syntax,https://github.com/advisories/GHSA-9f58-4465-23c7,https://da.gd/1PBx
+GithubAdvisories,[GHSA-xcj6-xpjg-c4xr] Liferay Portal Stores Password Reset Tokens in Plain Text,https://github.com/advisories/GHSA-xcj6-xpjg-c4xr,https://da.gd/b3s86
+GithubAdvisories,[GHSA-vgqx-447m-wvcj] Liferay Portal Vulnerable to DoS via Crafted Headless API Request,https://github.com/advisories/GHSA-vgqx-447m-wvcj,https://da.gd/VwMpnm
+GithubAdvisories,[GHSA-gv7w-jh8g-vr73] Liferay Portal Does Not Limit Access to APIs Before Email Verification,https://github.com/advisories/GHSA-gv7w-jh8g-vr73,https://da.gd/NdI2l
+GithubAdvisories,[GHSA-gh4w-8qgq-8w9r] Liferay Portal Vulnerable to CSRF in Headless APIs,https://github.com/advisories/GHSA-gh4w-8qgq-8w9r,https://da.gd/hxdHJq
+GithubAdvisories,[GHSA-5jpx-9hw9-2fx4] NextAuthjs Email misdelivery Vulnerability,https://github.com/advisories/GHSA-5jpx-9hw9-2fx4,https://da.gd/cY3DV
+GithubAdvisories,[GHSA-8mgf-rgg5-w38q] Liferay Portal Vulnerable to Cross-Site Scripting,https://github.com/advisories/GHSA-8mgf-rgg5-w38q,https://da.gd/gDvo
+GithubAdvisories,[GHSA-cw79-fq4f-9r96] Liferay Portal Vulnerable to Information Exposure Through a Log File Vulnerability in LDAP Import Feature,https://github.com/advisories/GHSA-cw79-fq4f-9r96,https://da.gd/RoIo
+GithubAdvisories,[GHSA-2pwh-9q9q-5r9c] Liferay Portal Vulnerable to Open Redirect via the _com_liferay_layout_admin_web_portlet_GroupPagesPortlet_redirect parameter,https://github.com/advisories/GHSA-2pwh-9q9q-5r9c,https://da.gd/6CYzR
