@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7p73-8jqx-23r8] LangGraph SQLite Checkpoint Filter Key SQL Injection POC for SqliteStore,https://github.com/advisories/GHSA-7p73-8jqx-23r8,https://da.gd/i8kXVZ
+GithubAdvisories,[GHSA-cfjq-28r2-4jv5] Zitadel May Bypass Second Authentication Factor,https://github.com/advisories/GHSA-cfjq-28r2-4jv5,https://da.gd/SJUvZS
+GithubAdvisories,[GHSA-xrw9-r35x-x878] Zitadel allows brute-forcing authentication factors,https://github.com/advisories/GHSA-xrw9-r35x-x878,https://da.gd/VBJuRS
+GithubAdvisories,[GHSA-mwmh-7px9-4c23] ZITADEL Vulnerable to Account Takeover via Malicious Forwarded Header Injection,https://github.com/advisories/GHSA-mwmh-7px9-4c23,https://da.gd/lkB2C
+GithubAdvisories,[GHSA-grjp-54v3-c442] OpenUSD File Parsing Use-After-Free Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-grjp-54v3-c442,https://da.gd/GHDTW0
+GithubAdvisories,[GHSA-pqhf-p39g-3x64] uv allows ZIP payload obfuscation through parsing differentials,https://github.com/advisories/GHSA-pqhf-p39g-3x64,https://da.gd/EHRH
+GithubAdvisories,[GHSA-wpr5-rc2j-99p2] Jenkins Publish to Bitbucket Plugin is missing a permissions check,https://github.com/advisories/GHSA-wpr5-rc2j-99p2,https://da.gd/tDEX1
+GithubAdvisories,[GHSA-m244-6mff-p355] Jenkins Publish to Bitbucket Plugin vulnerable to CSRF and missing permissions check,https://github.com/advisories/GHSA-m244-6mff-p355,https://da.gd/xRhAP
+GithubAdvisories,[GHSA-v549-7pm5-f8qr] Jenkins Publish to Bitbucket Plugin is missing a permissions check,https://github.com/advisories/GHSA-v549-7pm5-f8qr,https://da.gd/cyV6Y
+GithubAdvisories,[GHSA-hv42-crpx-q355] Jenkins Curseforge Publisher Plugin does not mask API Keys displayed on the job configuration form,https://github.com/advisories/GHSA-hv42-crpx-q355,https://da.gd/SP9Eok
+GithubAdvisories,[GHSA-h83r-7f9f-mqjj] Jenkins Nexus Task Runner Plugin is missing a permission check,https://github.com/advisories/GHSA-h83r-7f9f-mqjj,https://da.gd/JYKeZ
+GithubAdvisories,[GHSA-x2pv-fph3-phfx] Jenkins Nexus Task Runner Plugin vulnerable to cross-site request forgery,https://github.com/advisories/GHSA-x2pv-fph3-phfx,https://da.gd/TzZNTP
+GithubAdvisories,[GHSA-jwm4-955w-4hj3] Jenkins Themis Plugin is missing a permission check,https://github.com/advisories/GHSA-jwm4-955w-4hj3,https://da.gd/KPyd
+GithubAdvisories,[GHSA-mj6v-4wr4-gj57] Jenkins Start Windocks Containers Plugin is missing a permission check,https://github.com/advisories/GHSA-mj6v-4wr4-gj57,https://da.gd/qEZlz
+GithubAdvisories,[GHSA-jfg6-4gx3-3v7w] Jenkins JDepend Plugin vulnerable to XML external entity attacks,https://github.com/advisories/GHSA-jfg6-4gx3-3v7w,https://da.gd/SGAvdr
+GithubAdvisories,[GHSA-j7r7-7qmf-xq87] Jenkins SAML Plugin does not implement a replay cache,https://github.com/advisories/GHSA-j7r7-7qmf-xq87,https://da.gd/pasaX
+GithubAdvisories,[GHSA-rh72-238f-g26q] Jenkins Azure CLI Plugin does not restrict the commands it executes,https://github.com/advisories/GHSA-rh72-238f-g26q,https://da.gd/1AWEg
+GithubAdvisories,[GHSA-4653-9q2r-684q] Jenkins OpenShift Pipeline Plugin stores authorization tokens unencrypted in job config.xml files,https://github.com/advisories/GHSA-4653-9q2r-684q,https://da.gd/ZIn7P
+GithubAdvisories,[GHSA-2vmr-8c82-x8xq] Jenkins ByteGuard Build Actions Plugin stores API tokens unencrypted in job config.xml files,https://github.com/advisories/GHSA-2vmr-8c82-x8xq,https://da.gd/oyIW3A
