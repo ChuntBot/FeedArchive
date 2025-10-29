@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-42wg-hm62-jcwg] Apache Tomcat installer for Windows has an untrusted search path vulnerability,https://github.com/advisories/GHSA-42wg-hm62-jcwg,https://da.gd/CxCY4
+GithubAdvisories,[GHSA-mq84-hjqx-cwf2] Keras is vulnerable to arbitrary local file loading and Server-Side Request Forgery,https://github.com/advisories/GHSA-mq84-hjqx-cwf2,https://da.gd/iebLPC
+GithubAdvisories,[GHSA-9w53-xr52-mwgj] SGLang Remote Code Execution Vulnerability via Unsafe Deserialization in update_weights_from_tensor,https://github.com/advisories/GHSA-9w53-xr52-mwgj,https://da.gd/6ZAk
