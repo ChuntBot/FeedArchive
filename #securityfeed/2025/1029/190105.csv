@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mrpq-9jr3-rqq9] Jenkins MCP Server Plugin does not perform permission checks in multiple MCP tools,https://github.com/advisories/GHSA-mrpq-9jr3-rqq9,https://da.gd/zO3wiH
