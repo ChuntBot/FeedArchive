@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vmm2-53rc-43v3] Jenkins ByteGuard Build Actions Plugin does not mask API tokens displayed on the job configuration form,https://github.com/advisories/GHSA-vmm2-53rc-43v3,https://da.gd/mXqDhf
+GithubAdvisories,[GHSA-w5r3-gr8w-7fj5] Jenkins Eggplant Runner Plugin protection mechanism disabled,https://github.com/advisories/GHSA-w5r3-gr8w-7fj5,https://da.gd/7CV4j
+GithubAdvisories,[GHSA-93mh-mx9w-m69q] Jenkins Themis Plugin vulnerable to cross-site request forgery,https://github.com/advisories/GHSA-93mh-mx9w-m69q,https://da.gd/c7sES7
+GithubAdvisories,[GHSA-23vj-j6jc-w892] Jenkins Curseforge Publisher Plugin stores API Keys unencrypted in job config.xml files,https://github.com/advisories/GHSA-23vj-j6jc-w892,https://da.gd/dDagE
+GithubAdvisories,[GHSA-6mgr-3374-4p3c] Jenkins Start Windocks Containers Plugin vulnerable to cross-site request forgery,https://github.com/advisories/GHSA-6mgr-3374-4p3c,https://da.gd/aH2mT
+GithubAdvisories,[GHSA-3jw2-5hjg-hc2c] Jenkins Extensible Choice Parameter Plugin vulnerable to cross-site request forgery,https://github.com/advisories/GHSA-3jw2-5hjg-hc2c,https://da.gd/Flk29
+GithubAdvisories,[GHSA-2hvh-cw5c-8q8q] CKAN vulnerable to fixed session IDs,https://github.com/advisories/GHSA-2hvh-cw5c-8q8q,https://da.gd/ty1AO1
+GithubAdvisories,[GHSA-3m8r-w7xg-jqvw] DNN Insufficient Access Control - Image Upload allows for Site Content Overwrite,https://github.com/advisories/GHSA-3m8r-w7xg-jqvw,https://da.gd/riWl
+GithubAdvisories,[GHSA-hmvq-8p83-cq52] DNN vulnerable to stored cross-site-scripting (XSS) via SVG upload,https://github.com/advisories/GHSA-hmvq-8p83-cq52,https://da.gd/jQZPWL
+GithubAdvisories,[GHSA-2374-6cvw-qmx6] DNN CKEditor Provider allows unauthenticated upload out-of-the-box,https://github.com/advisories/GHSA-2374-6cvw-qmx6,https://da.gd/l7Pr
