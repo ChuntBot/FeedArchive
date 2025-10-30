@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g59r-24g3-h7cm] Statamic Vulnerable to Superadmin Account Takeover via Stored Cross-Site Scripting and Lack of Proper X-CSRF-TOKEN Server-Side Validation,https://github.com/advisories/GHSA-g59r-24g3-h7cm,https://da.gd/YOrssq
