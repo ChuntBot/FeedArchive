@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-29xp-372q-xqph] node-tar has a race condition leading to uninitialized memory exposure,https://github.com/advisories/GHSA-29xp-372q-xqph,https://da.gd/pByB
+GithubAdvisories,[GHSA-pfrv-63w8-q7rq] Byaidu PDFMathTranslate vulnerable to open redirect,https://github.com/advisories/GHSA-pfrv-63w8-q7rq,https://da.gd/pbXeW
+GithubAdvisories,[GHSA-m3f2-xjgc-2wp2] Drupal JSON Field is vulnerable to XSS,https://github.com/advisories/GHSA-m3f2-xjgc-2wp2,https://da.gd/XJXop
+GithubAdvisories,[GHSA-pr6m-qwrr-mrw9] Drupal Plausible tracking is vulnerable to XSS,https://github.com/advisories/GHSA-pr6m-qwrr-mrw9,https://da.gd/o2WqsV
+GithubAdvisories,[GHSA-fj2x-735w-74vq] gnark-crypto allows unchecked memory allocation during vector deserialization,https://github.com/advisories/GHSA-fj2x-735w-74vq,https://da.gd/L9aWV
+GithubAdvisories,[GHSA-gp5f-cx7h-8q6f] Apache Airflow's create action can upsert existing Pools/Connections/Variables,https://github.com/advisories/GHSA-gp5f-cx7h-8q6f,https://da.gd/U4lXp3
+GithubAdvisories,"[GHSA-v3c9-j6h9-66v4] Apache Airflow has a command injection vulnerability in ""example_dag_decorator""",https://github.com/advisories/GHSA-v3c9-j6h9-66v4,https://da.gd/1TJ0f
+GithubAdvisories,[GHSA-273c-4g26-4jpm] Apache Airflow `/api/v2/dagReports` executes DAG Python in API,https://github.com/advisories/GHSA-273c-4g26-4jpm,https://da.gd/qkl2q
+GithubAdvisories,[GHSA-cf57-c578-7jvv] Anubis vulnerable to possible XSS via redir parameter when using subrequest auth mode,https://github.com/advisories/GHSA-cf57-c578-7jvv,https://da.gd/x3t4A7
+GithubAdvisories,[GHSA-8hw3-ghwv-crfh] Liferay Portal vulnerable to password enumeration,https://github.com/advisories/GHSA-8hw3-ghwv-crfh,https://da.gd/nCg9j
+GithubAdvisories,[GHSA-x957-32v9-m7vg] Drupal Acquia DAM allows Forceful Browsing,https://github.com/advisories/GHSA-x957-32v9-m7vg,https://da.gd/M9jKK
+GithubAdvisories,[GHSA-jqmq-fpwv-p925] Drupal Simple OAuth (OAuth2) & OpenID Connect allows Authentication Bypass,https://github.com/advisories/GHSA-jqmq-fpwv-p925,https://da.gd/RkuJs
+GithubAdvisories,[GHSA-h72q-cq3w-h3wc] Drupal CivicTheme Design System allows Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-h72q-cq3w-h3wc,https://da.gd/w4EV
+GithubAdvisories,[GHSA-qxr9-f877-9842] Drupal CivicTheme Design System allows Forceful Browsing,https://github.com/advisories/GHSA-qxr9-f877-9842,https://da.gd/4E9c
+GithubAdvisories,[GHSA-jxp8-4jw5-5xjc] Drupal Umami Analytics allows Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-jxp8-4jw5-5xjc,https://da.gd/yPrad
+GithubAdvisories,[GHSA-27fv-rpgj-4c6m] Drupal Currency allows Cross Site Request Forgery,https://github.com/advisories/GHSA-27fv-rpgj-4c6m,https://da.gd/azQtFk
+GithubAdvisories,[GHSA-fg8x-q69g-4qp3] Drupal Reverse Proxy Header allows Manipulating User-Controlled Variables,https://github.com/advisories/GHSA-fg8x-q69g-4qp3,https://da.gd/uPLd
+GithubAdvisories,[GHSA-27mc-9399-r9mx] Drupal Access code allows Brute Force Attempts,https://github.com/advisories/GHSA-27mc-9399-r9mx,https://da.gd/NsInQ
+GithubAdvisories,[GHSA-xgp7-7qjq-vg47] n8n Vulnerable to Remote Code Execution via Git Node Pre-Commit Hook,https://github.com/advisories/GHSA-xgp7-7qjq-vg47,https://da.gd/rJptx
+GithubAdvisories,[GHSA-6vxj-42jh-8q43] Malware in muleforge,https://github.com/advisories/GHSA-6vxj-42jh-8q43,https://da.gd/2D5R
