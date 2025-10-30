@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42: Critical DNS Security Flaws in bind-dyndb-ldap CVE-2025-8677,https://linuxsecurity.com/advisories/fedora/fedora-42-bind-dyndb-ldap-2025-92566203fd-7ilixrxwy0o4,https://da.gd/2to6v
+LinuxSecurity,Advisory for Fedora 42 on BIND 9.18.41 Spoofing Risks and DNSSEC,https://linuxsecurity.com/advisories/fedora/fedora-42-bind-2025-92566203fd-joijd3m45w8g,https://da.gd/RtBFCY
+LinuxSecurity,Fedora 42: Zeal Critical QT Use-After-Free Vulnerability 2025-945dff8564,https://linuxsecurity.com/advisories/fedora/fedora-42-zeal-2025-945dff8564-xkbn9dpxijqv,https://da.gd/Z0BfIB
+LinuxSecurity,Fedora 42: Qt Creator Bugfix for CVE-2025-10729 - Use After Free,https://linuxsecurity.com/advisories/fedora/fedora-42-qt-creator-2025-945dff8564-fbcoiixrzyww,https://da.gd/fyuo1
+LinuxSecurity,Fedora 42: Bugfix for qt6-qtwebview Addressing CVE-2025-10729 Issue,https://linuxsecurity.com/advisories/fedora/fedora-42-qt6-qtwebview-2025-945dff8564-udekw79qcpn9,https://da.gd/sH9n
+LinuxSecurity,Fedora 42 qt6-qtwebchannel Bugfix Use-After-Free CVE-2025-10729,https://linuxsecurity.com/advisories/fedora/fedora-42-qt6-qtwebchannel-2025-945dff8564-czjq5xxc5erv,https://da.gd/KTo5Ap
