@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 41: Critical DNS Spoofing and Cache Poisoning in bind-dyndb-ldap,https://linuxsecurity.com/advisories/fedora/fedora-41-bind-dyndb-ldap-2025-10c407da27-1qk5w7do05ft,https://da.gd/NpHmI
+LinuxSecurity,Fedora 41: unbound Critical Domain Hijacking Risk CVE-2025-11411,https://linuxsecurity.com/advisories/fedora/fedora-41-unbound-2025-224e937c18-cve6gttosqfy,https://da.gd/hGBO0q
+LinuxSecurity,Fedora 41: BIND Critical DNSSEC Spoofing Fix CVE-2025-8677,https://linuxsecurity.com/advisories/fedora/fedora-41-bind-2025-10c407da27-2sdn9kcultt9,https://da.gd/UYdjjY
+LinuxSecurity,Fedora 41: fluidsynth Fix World Writable Lock File Fed 2025-6db4dcdf66,https://linuxsecurity.com/advisories/fedora/fedora-41-fluidsynth-2025-6db4dcdf66-o8yjfknslnub,https://da.gd/SeK0RP
