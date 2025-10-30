@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+LinuxSecurity,Slackware 15.0: Tigervnc Buffer Overflow Security Fix SSA:2025-302-02,https://linuxsecurity.com/advisories/slackware/slackware-2025-302-02-tigervnc-6eqi5sl24sxv,https://da.gd/ZQSE2
+LinuxSecurity,Slackware 15.0 xorg-server Critical Use-After-Free & Overflow Patch,https://linuxsecurity.com/advisories/slackware/slackware-2025-302-01-xorg-server-ejos2ifmhgei,https://da.gd/hBwS6
+LinuxSecurity,Debian: pdns-recursor Critical Cache Pollution Threat DSA-6045-1,https://linuxsecurity.com/advisories/debian/debian-dsa-6045-1-pdns-recursor-security-tsncgbqn1vgn,https://da.gd/QZpKyy
