@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2j97-4jmq-c4xf] Liferay Portal Vulnerable to Reflected XSS via the selectedLanguageId Parameter,https://github.com/advisories/GHSA-2j97-4jmq-c4xf,https://da.gd/eX90n4
+GithubAdvisories,[GHSA-vw84-hprm-cxmm] Agno session state overwrites between different sessions/users,https://github.com/advisories/GHSA-vw84-hprm-cxmm,https://da.gd/cZTKlv
+GithubAdvisories,[GHSA-2qfp-q593-8484] Brotli is vulnerable to a denial of service (DoS) attack due to decompression,https://github.com/advisories/GHSA-2qfp-q593-8484,https://da.gd/sN9SpO
