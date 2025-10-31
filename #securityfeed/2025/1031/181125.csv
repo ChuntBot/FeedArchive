@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-97w9-v595-3h5q] cryptidy allows code execution via untrusted data due to pickle.loads,https://github.com/advisories/GHSA-97w9-v595-3h5q,https://da.gd/ZTXDWh
+GithubAdvisories,[GHSA-f9f4-5859-29mf] sqls-server/sqls is vulnerable to command injection in the config command,https://github.com/advisories/GHSA-f9f4-5859-29mf,https://da.gd/Y5bQe
+GithubAdvisories,[GHSA-56jv-4ww3-65mw] Liferay Portal is vulnerable to XSS in the Blogs widget,https://github.com/advisories/GHSA-56jv-4ww3-65mw,https://da.gd/mvqVza
