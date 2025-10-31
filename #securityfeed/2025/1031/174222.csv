@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f5vh-4rj2-w8r8] Liferay Portal is vulnerable to DNS rebinding attacks,https://github.com/advisories/GHSA-f5vh-4rj2-w8r8,https://da.gd/GkQw
+GithubAdvisories,[GHSA-28jp-44vh-q42h] Keras keras.utils.get_file API is vulnerable to a path traversal attack,https://github.com/advisories/GHSA-28jp-44vh-q42h,https://da.gd/6uiVWS
+GithubAdvisories,[GHSA-q2pj-6v73-8rgj] TypeORM vulnerable to SQL injection via crafted request to repository.save or repository.update,https://github.com/advisories/GHSA-q2pj-6v73-8rgj,https://da.gd/WMWoN
+GithubAdvisories,[GHSA-f556-49jc-4rvc] Ansible does not collect garbage after playbook run,https://github.com/advisories/GHSA-f556-49jc-4rvc,https://da.gd/9T7Q5
