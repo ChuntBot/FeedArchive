@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r3jf-hm7q-qfw5] MantisBT Vulnerable to Denial-of-Service (DoS) via Excessive Note Length,https://github.com/advisories/GHSA-r3jf-hm7q-qfw5,https://da.gd/vcLY2
+GithubAdvisories,[GHSA-4v8w-gg5j-ph37] MantisBT vulnerable to authentication bypass for some passwords due to PHP type juggling,https://github.com/advisories/GHSA-4v8w-gg5j-ph37,https://da.gd/coqF7j
