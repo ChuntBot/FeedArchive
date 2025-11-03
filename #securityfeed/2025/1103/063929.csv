@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42: Advisory for Samba CVE-2025-10230 Critical Command Injection,https://linuxsecurity.com/advisories/fedora/fedora-42-samba-2025-7d890563f6-uqtao4c1zxlo,https://da.gd/3NRG2
+LinuxSecurity,Fedora 42: uv 0.9.5 Important Security Fix CVE-2025-62518,https://linuxsecurity.com/advisories/fedora/fedora-42-uv-2025-a77c1f005b-iakndixkx2go,https://da.gd/dold83
+LinuxSecurity,Fedora 42: Critical CVE-2025-62518 in rust-reqsign-http-send-reqwest,https://linuxsecurity.com/advisories/fedora/fedora-42-rust-reqsign-http-send-reqwest-2025-a77c1f005b-plr5fller7wn,https://da.gd/nb2VGc
+LinuxSecurity,Fedora 42: rust-tikv-jemallocator Critical CVE-2025-62518 Parser Issue,https://linuxsecurity.com/advisories/fedora/fedora-42-rust-tikv-jemallocator-2025-a77c1f005b-t891vxgrqxzg,https://da.gd/Z8Ks
+LinuxSecurity,Critical PAX Header Fix for rust-reqsign-file-read-tokio in Fedora 42,https://linuxsecurity.com/advisories/fedora/fedora-42-rust-reqsign-file-read-tokio-2025-a77c1f005b-es75yozsxdwf,https://da.gd/tkYAt
+LinuxSecurity,Fedora 42: rust-reqsign-core Vulnerability Patch CVE-2025-62518,https://linuxsecurity.com/advisories/fedora/fedora-42-rust-reqsign-core-2025-a77c1f005b-8hxqew6jmgkn,https://da.gd/F2X0eR
