@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7vjm-6qgq-3mrq] Shaman has soundness issues and is unmaintained,https://github.com/advisories/GHSA-7vjm-6qgq-3mrq,https://da.gd/idxG
+GithubAdvisories,[GHSA-h238-5mwf-8xw8] lakeFS affected by unauthenticated access to API usage metrics,https://github.com/advisories/GHSA-h238-5mwf-8xw8,https://da.gd/AMKjU
+GithubAdvisories,[GHSA-j945-qm58-4gjx] motionEye vulnerable to RCE via unsanitized motion config parameter,https://github.com/advisories/GHSA-j945-qm58-4gjx,https://da.gd/Tq09b
+GithubAdvisories,[GHSA-26f6-wm47-7h7j] Duplicate Advisory: motionEye vulnerable to RCE via unsanitized motion config parameter,https://github.com/advisories/GHSA-26f6-wm47-7h7j,https://da.gd/tRaLI
