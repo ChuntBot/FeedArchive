@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8v8h-4pjx-rg73] Langchain-Chatchat vulnerable to path traversal,https://github.com/advisories/GHSA-8v8h-4pjx-rg73,https://da.gd/u78yQe
+GithubAdvisories,[GHSA-6533-fhr2-f38h] Liferay Portal and DXP use an incorrect cache-control header,https://github.com/advisories/GHSA-6533-fhr2-f38h,https://da.gd/Lqbm2
+GithubAdvisories,[GHSA-qv78-c8hc-438r] OpenMage vulnerable to XSS in Admin Notifications,https://github.com/advisories/GHSA-qv78-c8hc-438r,https://da.gd/OAdJe
+GithubAdvisories,[GHSA-q285-wfpg-93hr] Liferay Portal and DXP affected by multiple cross-site scripting (XSS) vulnerabilities in web content template’s select structure page,https://github.com/advisories/GHSA-q285-wfpg-93hr,https://da.gd/CtSn9
+GithubAdvisories,[GHSA-f823-phmg-x5fr] Langchain-Chatchat vulnerable to path traversal,https://github.com/advisories/GHSA-f823-phmg-x5fr,https://da.gd/fk0sp
+GithubAdvisories,[GHSA-g582-8vwr-68h2] MantisBT unauthorized disclosure of private project column configuration,https://github.com/advisories/GHSA-g582-8vwr-68h2,https://da.gd/yHAY
+GithubAdvisories,[GHSA-q747-c74m-69pr] MantisBT lacks verification when changing a user's email address,https://github.com/advisories/GHSA-q747-c74m-69pr,https://da.gd/unnZn
