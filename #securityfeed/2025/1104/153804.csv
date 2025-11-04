@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4vcx-3pj3-44m7] Dosage vulnerable to a Directory Traversal through crafted HTTP responses,https://github.com/advisories/GHSA-4vcx-3pj3-44m7,https://da.gd/MCHPQo
