@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian 11: DCMTK Critical Memory Corruption Threat CVE-2025-9732 DLA-4363-1,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4363-1-dcmtk-security-update-vacvjxfntrlt,https://da.gd/HdczN
+LinuxSecurity,Debian 11: GIMP Important Buffer Overflow Vuln DLA-4362-1 CVE-2025-10934,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4362-1-gimp-security-update-rjb1jtt90pzk,https://da.gd/19C3s9
+LinuxSecurity,Debian 11: Geographiclib Critical Buffer Overflow Advisory DLA-4361-1,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4361-1-geographiclib-security-update-9dirg9ahvts4,https://da.gd/ZAQe4e
+LinuxSecurity,Debian: pure-ftpd Important Denial of Service Fix DLA-4360-1 CVE-2021-40524,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4360-1-pure-ftpd-security-update-ikyfuzhulyhg,https://da.gd/1wPR85
+LinuxSecurity,Debian: ruby-rack Critical Denial of Service Vulnerabilities DSA-6048-1,https://linuxsecurity.com/advisories/debian/debian-dsa-6048-1-ruby-rack-security-fyl6j5eq4rh5,https://da.gd/BBjk1
