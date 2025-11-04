@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5pmx-7r6r-wfqq] Kgateway transformation policy template can emit files from the container,https://github.com/advisories/GHSA-5pmx-7r6r-wfqq,https://da.gd/unkq
+GithubAdvisories,[GHSA-4766-x535-jw3r] kgateway is missing xDS authorization,https://github.com/advisories/GHSA-4766-x535-jw3r,https://da.gd/TUDj5
