@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 22.04: Linux-Nvidia-Tegra Important System Compromise USN-7829-6,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7829-6-linux-kernel-fzmbo7zyyv9a,https://da.gd/MCUk6
+LinuxSecurity,Ubuntu 24.04: linux-hwe-6.14 Critical Data Leakage Advisory USN-7856-1,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7856-1-linux-kernel-hwe-6o6qmjqagar9,https://da.gd/Gh6m4
+LinuxSecurity,Ubuntu: libssh Moderate Crash Advisory USN-7849-1 CVE-2025-8114,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7849-1-libssh-v69pzd8nqasn,https://da.gd/e92An6
+LinuxSecurity,Debian LTS: DLA-4364-1 bind9 High Cache Poisoning Risks CVE-2025-8677,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4364-1-bind9-security-update-ka0mqi4yq4b1,https://da.gd/PhGU0X
+LinuxSecurity,Ubuntu 20.04 LTS: Critical Denial of Service Patch for Squid USN-7804-2,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7804-2-squid-q4jlf8hfjy3m,https://da.gd/ICpXB
+LinuxSecurity,SUSE: Kernel Important VMADDR_PORT Binding Fix Advisory 2025:3932-1,https://linuxsecurity.com/advisories/suse/suse-2025-3932-1-for-kernel-l0dtd5a1rh7j,https://da.gd/he7Xr
