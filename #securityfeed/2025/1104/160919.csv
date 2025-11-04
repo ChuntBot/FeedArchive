@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j2pc-v64r-mv4f] Protobuf Maven Plugin protocDigest is ignored when using protoc from PATH,https://github.com/advisories/GHSA-j2pc-v64r-mv4f,https://da.gd/jCskGn
+GithubAdvisories,[GHSA-gf93-xccm-5g6j] MARIN3R: Cross-Namespace Vulnerability in the Operator,https://github.com/advisories/GHSA-gf93-xccm-5g6j,https://da.gd/N72R
+GithubAdvisories,[GHSA-crvm-xjhm-9h29] OctoPrint vulnerable to XSS in Action Commands Notification and Prompt,https://github.com/advisories/GHSA-crvm-xjhm-9h29,https://da.gd/tuBBa
