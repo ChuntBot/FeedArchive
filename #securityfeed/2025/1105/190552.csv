@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-m35w-xx8c-6xc7] Apache Doris-MCP-Server: Improper Access Control results in bypassing a ""read-only"" mode",https://github.com/advisories/GHSA-m35w-xx8c-6xc7,https://da.gd/xLqZc
+GithubAdvisories,[GHSA-jc85-fpwf-qm7x] expr-eval does not restrict functions passed to the evaluate function,https://github.com/advisories/GHSA-jc85-fpwf-qm7x,https://da.gd/z05i5
+GithubAdvisories,[GHSA-gr35-vpx2-qxhc] Weblate leaks the IP of project member inviting user to be reviewer in Audit log,https://github.com/advisories/GHSA-gr35-vpx2-qxhc,https://da.gd/agERL3
+GithubAdvisories,[GHSA-vf95-55w6-qmrf] youki container escape and denial of service due to arbitrary write gadgets and procfs write redirects,https://github.com/advisories/GHSA-vf95-55w6-qmrf,https://da.gd/6o2Dd7
+GithubAdvisories,"[GHSA-4g74-7cff-xcv8] youki container escape via ""masked path"" abuse due to mount race conditions",https://github.com/advisories/GHSA-4g74-7cff-xcv8,https://da.gd/rIVJpS
+GithubAdvisories,[GHSA-cgrx-mc8f-2prm] runc container escape and denial of service due to arbitrary write gadgets and procfs write redirects,https://github.com/advisories/GHSA-cgrx-mc8f-2prm,https://da.gd/vkZiF
