@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 43: Chromium Critical Update for V8 Issues FEDORA-2025-31f0d8bfa9,https://linuxsecurity.com/advisories/fedora/fedora-43-chromium-2025-31f0d8bfa9-ulbe3rt3grm9,https://da.gd/Iqnan
+LinuxSecurity,Fedora 43: libnbd Important NBD+SSH Security Fix FEDORA-2025-d44581756d,https://linuxsecurity.com/advisories/fedora/fedora-43-libnbd-2025-d44581756d-y2w5ozjduncq,https://da.gd/An6HY
+LinuxSecurity,Fedora 43: Key Update on Dependency Management in openapi-python-client,https://linuxsecurity.com/advisories/fedora/fedora-43-openapi-python-client-2025-ce3d358bcc-ftzg0gmvewzt,https://da.gd/VsNX6
+LinuxSecurity,Fedora 43 uv Update 2025-4154ea83d0: Security Advisory for Fast Installer,https://linuxsecurity.com/advisories/fedora/fedora-43-uv-2025-4154ea83d0-oo1bwhen9nmr,https://da.gd/1EI7Q
+LinuxSecurity,Fedora 43: rust-tikv-jemallocator Critical Memory Risk 2025-4154ea83d0,https://linuxsecurity.com/advisories/fedora/fedora-43-rust-tikv-jemallocator-2025-4154ea83d0-ugvnb55uq5n2,https://da.gd/BJ93N
+LinuxSecurity,Fedora 43: Critical Buffer Overflow Vulnerability in rust-tikv-jemalloc-sys,https://linuxsecurity.com/advisories/fedora/fedora-43-rust-tikv-jemalloc-sys-2025-4154ea83d0-ihgz3aay9zdq,https://da.gd/yUJtn
