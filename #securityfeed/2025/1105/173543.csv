@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qw9x-cqr3-wc7r] runc container escape with malicious config due to /dev/console mount and related races,https://github.com/advisories/GHSA-qw9x-cqr3-wc7r,https://da.gd/hvhY9U
