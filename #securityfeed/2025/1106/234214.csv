@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3x9x-vhqj-cv27] Magento XML Injection vulnerability in the Widgets Update Layout,https://github.com/advisories/GHSA-3x9x-vhqj-cv27,https://da.gd/ngCL7l
+GithubAdvisories,[GHSA-xvpx-6hh8-7h72] Magento XML Injection vulnerability in the 'City' field,https://github.com/advisories/GHSA-xvpx-6hh8-7h72,https://da.gd/CS49pP
+GithubAdvisories,[GHSA-2r4r-5x78-mvqf] KubeVirt Isolation Detection Flaw Allows Arbitrary File Permission Changes,https://github.com/advisories/GHSA-2r4r-5x78-mvqf,https://da.gd/gitw
+GithubAdvisories,[GHSA-7xgm-5prm-v5gc] KubeVirt Excessive Role Permissions Could Enable Unauthorized VMI Migrations Between Nodes,https://github.com/advisories/GHSA-7xgm-5prm-v5gc,https://da.gd/3Q0c75
+GithubAdvisories,[GHSA-9m94-w2vq-hcf9] KubeVirt VMI Denial-of-Service (DoS) Using Pod Impersonation,https://github.com/advisories/GHSA-9m94-w2vq-hcf9,https://da.gd/KHqhc
+GithubAdvisories,[GHSA-ggp9-c99x-54gp] KubeVirt Improper TLS Certificate Management Handling Allows API Identity Spoofing,https://github.com/advisories/GHSA-ggp9-c99x-54gp,https://da.gd/ULGcZ
+GithubAdvisories,[GHSA-qw6q-3pgr-5cwq] KubeVirt Arbitrary Container File Read,https://github.com/advisories/GHSA-qw6q-3pgr-5cwq,https://da.gd/cJEexc
+GithubAdvisories,[GHSA-38jw-g2qx-4286] KubeVirt Affected by an Authentication Bypass in Kubernetes Aggregation Layer,https://github.com/advisories/GHSA-38jw-g2qx-4286,https://da.gd/TPKHA
+GithubAdvisories,[GHSA-m6hq-p25p-ffr2] containerd CRI server: Host memory exhaustion through Attach goroutine leak,https://github.com/advisories/GHSA-m6hq-p25p-ffr2,https://da.gd/J28sM
