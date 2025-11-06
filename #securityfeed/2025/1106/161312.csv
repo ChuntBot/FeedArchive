@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x33c-7c2v-mrj9] Apollo Router Affected by an Access Control Bypass on Polymorphic Types,https://github.com/advisories/GHSA-x33c-7c2v-mrj9,https://da.gd/pVn3q
+GithubAdvisories,[GHSA-g8jh-vg5j-4h3f] Apollo Router Improperly Enforces Renamed Access Control Directives,https://github.com/advisories/GHSA-g8jh-vg5j-4h3f,https://da.gd/fh5vav
+GithubAdvisories,[GHSA-52c5-vh7f-26fx] Cross-Site Scripting (XSS) vulnerability through unescaped HTML attribute values,https://github.com/advisories/GHSA-52c5-vh7f-26fx,https://da.gd/e653J
+GithubAdvisories,"[GHSA-w2jf-268q-mrvh] OpenTofu affected denials of service in ""tofu init"" with maliciously-crafted module package responses",https://github.com/advisories/GHSA-w2jf-268q-mrvh,https://da.gd/i3xcRo
