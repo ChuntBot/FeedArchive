@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3f97-7pgv-gmgr] Magento affected by a business logic error in the placeOrder graphql mutation,https://github.com/advisories/GHSA-3f97-7pgv-gmgr,https://da.gd/6UOZK
+GithubAdvisories,[GHSA-8cjg-f53m-8m9q] Magento XML Injection vulnerability in the Widgets Update Layout,https://github.com/advisories/GHSA-8cjg-f53m-8m9q,https://da.gd/VwnMd
+GithubAdvisories,[GHSA-wqr6-wv6c-p8fx] Magento improper access control vulnerability within Magento's Media Gallery Upload workflow,https://github.com/advisories/GHSA-wqr6-wv6c-p8fx,https://da.gd/Hhucdm
+GithubAdvisories,[GHSA-4g27-q2w9-m8m8] Magento affected by remote code execution vulnerability in the CMS page scheduled update feature,https://github.com/advisories/GHSA-4g27-q2w9-m8m8,https://da.gd/34Pnn
+GithubAdvisories,[GHSA-399j-vxmf-hjvr] @react-native-community/cli has arbitrary OS command injection,https://github.com/advisories/GHSA-399j-vxmf-hjvr,https://da.gd/XuJW7O
+GithubAdvisories,[GHSA-52fg-wjxm-pp44] Magento DOM-based Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-52fg-wjxm-pp44,https://da.gd/6No5M
+GithubAdvisories,[GHSA-7r99-8wqp-h7pc] Magento Path Traversal vulnerability,https://github.com/advisories/GHSA-7r99-8wqp-h7pc,https://da.gd/TwM5
+GithubAdvisories,[GHSA-mmp7-8cg4-9wrg] Magento Stored Cross-Site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-mmp7-8cg4-9wrg,https://da.gd/WicHj
+GithubAdvisories,[GHSA-q628-54wg-4r5q] Magento does not properly restrict excessive authentication attempts,https://github.com/advisories/GHSA-q628-54wg-4r5q,https://da.gd/Ikkr
