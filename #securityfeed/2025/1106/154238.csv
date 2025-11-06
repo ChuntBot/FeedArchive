@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8rx4-fxq5-vj4v] Apereo CAS has inefficient regular expression complexity,https://github.com/advisories/GHSA-8rx4-fxq5-vj4v,https://da.gd/A4ejWO
+GithubAdvisories,[GHSA-w832-gg5g-x44m] Open redirect endpoint in Datasette,https://github.com/advisories/GHSA-w832-gg5g-x44m,https://da.gd/XjhGY
+GithubAdvisories,[GHSA-fvfq-q238-j7j3] WSO2 Carbon Mediation vulnerable to XML External Entity (XXE) attacks,https://github.com/advisories/GHSA-fvfq-q238-j7j3,https://da.gd/YMaE
+GithubAdvisories,[GHSA-pwhc-rpq9-4c8w] containerd affected by a local privilege escalation via wide permissions on CRI directory,https://github.com/advisories/GHSA-pwhc-rpq9-4c8w,https://da.gd/5J9Hx
