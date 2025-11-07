@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wf5f-4jwr-ppcp] Arbitrary Code Execution in pdfminer.six via Crafted PDF Input,https://github.com/advisories/GHSA-wf5f-4jwr-ppcp,https://da.gd/2jj2w
+GithubAdvisories,[GHSA-vm2f-46xc-5jc3] AstrBot has an arbitrary file read vulnerability in function _encode_image_bs64,https://github.com/advisories/GHSA-vm2f-46xc-5jc3,https://da.gd/pLhr
+GithubAdvisories,[GHSA-xrj9-mw57-j34v] AstrBot contains a directory traversal vulnerability,https://github.com/advisories/GHSA-xrj9-mw57-j34v,https://da.gd/og9RdX
