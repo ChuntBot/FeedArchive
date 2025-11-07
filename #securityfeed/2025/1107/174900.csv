@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xmq3-q5pm-rp26] Nuxt DevTools vulnerable to cross-site scripting (XSS),https://github.com/advisories/GHSA-xmq3-q5pm-rp26,https://da.gd/D8yDV
+GithubAdvisories,[GHSA-rwvc-j5jr-mgvh] Vercel’s AI SDK's filetype whitelists can be bypassed when uploading files,https://github.com/advisories/GHSA-rwvc-j5jr-mgvh,https://da.gd/xXWq
+GithubAdvisories,[GHSA-cm35-v4vp-5xvx] Open WebUI Affected by an External Model Server (Direct Connections) Code Injection via SSE Events,https://github.com/advisories/GHSA-cm35-v4vp-5xvx,https://da.gd/xGG6ot
