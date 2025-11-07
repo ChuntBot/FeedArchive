@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9c5q-w6gr-fxcq] MQTT does not validate hostnames,https://github.com/advisories/GHSA-9c5q-w6gr-fxcq,https://da.gd/DqOEr
+GithubAdvisories,[GHSA-fv2r-r8mp-pg48] Soft Serve does not sanitize ANSI escape sequences in user input,https://github.com/advisories/GHSA-fv2r-r8mp-pg48,https://da.gd/btEsZw
+GithubAdvisories,[GHSA-rhff-65hp-55rw] Magento allows attackers to alter the price of items,https://github.com/advisories/GHSA-rhff-65hp-55rw,https://da.gd/pJQr
+GithubAdvisories,[GHSA-7w95-qwhh-q9p3] Magento Path Traversal vulnerability via the `theme[preview_image]` parameter,https://github.com/advisories/GHSA-7w95-qwhh-q9p3,https://da.gd/kqS5Bw
+GithubAdvisories,[GHSA-p746-qw73-qmmx] Magento XML Injection vulnerability in the Widgets Module,https://github.com/advisories/GHSA-p746-qw73-qmmx,https://da.gd/HYzZ
+GithubAdvisories,[GHSA-m8wx-whpp-q283] Magento improper authorization vulnerability,https://github.com/advisories/GHSA-m8wx-whpp-q283,https://da.gd/enMO9
