@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wr57-3h2f-3q95] Magento affected by a server-side denial-of-service using a GraphQL field,https://github.com/advisories/GHSA-wr57-3h2f-3q95,https://da.gd/iBWqS1
+GithubAdvisories,[GHSA-6cwv-wj7v-73xp] Magento executes code via the API File Option Upload Extension,https://github.com/advisories/GHSA-6cwv-wj7v-73xp,https://da.gd/5SNW4
+GithubAdvisories,[GHSA-36xq-7w8w-xp68] Magento affected by a blind SSRF vulnerability in the bundled dotmailer extension,https://github.com/advisories/GHSA-36xq-7w8w-xp68,https://da.gd/GV77Zp
+GithubAdvisories,[GHSA-mx5m-j5xr-jg8c] Magento vulnerable to file upload attack,https://github.com/advisories/GHSA-mx5m-j5xr-jg8c,https://da.gd/5bIYSk
+GithubAdvisories,[GHSA-2pq5-gpqf-g4r3] Magento has a file extension restrictions bypass,https://github.com/advisories/GHSA-2pq5-gpqf-g4r3,https://da.gd/TGHR9q
+GithubAdvisories,[GHSA-wgpr-9675-8r67] Magento discloses sensitive information via the Multishipping Module,https://github.com/advisories/GHSA-wgpr-9675-8r67,https://da.gd/VeoFu8
+GithubAdvisories,[GHSA-j46h-qjjv-cxfj] Magento affected by remote code execution via a file upload,https://github.com/advisories/GHSA-j46h-qjjv-cxfj,https://da.gd/jQm1O
+GithubAdvisories,[GHSA-vrq2-w7r7-3fp2] Magento is affected by an improper authorization vulnerability,https://github.com/advisories/GHSA-vrq2-w7r7-3fp2,https://da.gd/1jf3X
+GithubAdvisories,[GHSA-3g7m-g8qm-x6j5] Magento discloses sensitive information,https://github.com/advisories/GHSA-3g7m-g8qm-x6j5,https://da.gd/KJuZ4I
+GithubAdvisories,[GHSA-qmq6-jpvg-j547] Magento is affected by an os command injection via the Data collection endpoint,https://github.com/advisories/GHSA-qmq6-jpvg-j547,https://da.gd/QFMYs8
+GithubAdvisories,[GHSA-gvfx-9m9v-h839] Magento is affected by an improper input validation vulnerability while saving a customer's details,https://github.com/advisories/GHSA-gvfx-9m9v-h839,https://da.gd/G06I7
+GithubAdvisories,[GHSA-5vw8-r55w-f4q4] Magento is affected by an improper input validation vulnerability,https://github.com/advisories/GHSA-5vw8-r55w-f4q4,https://da.gd/WS2Y
+GithubAdvisories,[GHSA-vfpf-xmwh-8m65] ProsemirrorToHtml has a Cross-Site Scripting (XSS) vulnerability through unescaped HTML attribute values,https://github.com/advisories/GHSA-vfpf-xmwh-8m65,https://da.gd/WtKT
+GithubAdvisories,[GHSA-f83h-ghpp-7wcc] Insecure Deserialization (pickle) in pdfminer.six CMap Loader — Local Privesc,https://github.com/advisories/GHSA-f83h-ghpp-7wcc,https://da.gd/LphQnj
+GithubAdvisories,[GHSA-5pjj-7fq8-9gpf] Magento has an XML Injection vulnerability,https://github.com/advisories/GHSA-5pjj-7fq8-9gpf,https://da.gd/qtAaB4
