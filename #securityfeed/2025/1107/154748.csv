@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w7xj-8fx7-wfch] Open WebUI vulnerable to Stored DOM XSS via prompts when 'Insert Prompt as Rich Text' is enabled resulting in ATO/RCE,https://github.com/advisories/GHSA-w7xj-8fx7-wfch,https://da.gd/0zk9tr
