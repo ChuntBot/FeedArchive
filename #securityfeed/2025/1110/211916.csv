@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6fhj-vr9j-g45r] CycloneDX Core (Java): BOM validation is vulnerable to XML External Entity injection,https://github.com/advisories/GHSA-6fhj-vr9j-g45r,https://da.gd/IxwgR
