@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vwq2-jx9q-9h9f] Soft Serve is vulnerable to SSRF through its Webhooks,https://github.com/advisories/GHSA-vwq2-jx9q-9h9f,https://da.gd/8Ubsj
+GithubAdvisories,[GHSA-4rwr-8c3m-55f6] TorrentPier is Vulnerable to Authenticated SQL Injection through Moderator Control Panel's topic_id parameter,https://github.com/advisories/GHSA-4rwr-8c3m-55f6,https://da.gd/NsJeU
