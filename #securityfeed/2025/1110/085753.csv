@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 41: xorg-x11-server-Xwayland Important CVE Fixes 2025-0e29263f5a,https://linuxsecurity.com/advisories/fedora/fedora-41-xorg-x11-server-xwayland-2025-0e29263f5a-bb36prgawybt,https://da.gd/rBTaXO
+LinuxSecurity,"Fedora 43: Chromium High Security Issues CVE-2025-12725, 12726, 12727",https://linuxsecurity.com/advisories/fedora/fedora-43-chromium-2025-97961060e1-bexddckhptap,https://da.gd/mdisP
+LinuxSecurity,Fedora 43 Pydantic Moderate Bug Fix Security Update 2025-312ac3e645,https://linuxsecurity.com/advisories/fedora/fedora-43-uv-2025-312ac3e645-saayk2xyaq9n,https://da.gd/UGrI5B
+LinuxSecurity,Fedora 43: rust-reqsign Critical Signing Issue Advisory 2025-312ac3e645,https://linuxsecurity.com/advisories/fedora/fedora-43-rust-reqsign-2025-312ac3e645-rmvf2mr5vylb,https://da.gd/wKdg
+LinuxSecurity,Fedora 43: Critical Rust-Reqsign Update for Http Send Reqwest Serialization,https://linuxsecurity.com/advisories/fedora/fedora-43-rust-reqsign-http-send-reqwest-2025-312ac3e645-yb27hugydi3j,https://da.gd/6h0eZ7
+LinuxSecurity,Fedora 43: rust-reqsign-file-read-tokio Critical DoS Threat 2025-312ac3e645,https://linuxsecurity.com/advisories/fedora/fedora-43-rust-reqsign-file-read-tokio-2025-312ac3e645-kz5dftjpoje1,https://da.gd/peBL
