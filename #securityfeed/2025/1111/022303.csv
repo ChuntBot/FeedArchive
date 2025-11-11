@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 25.10: Security Advisory USN-7867-1 for rust-sudo-rs Critical Issues,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7867-1-sudo-rs-phg7gjtsivck,https://da.gd/AADP0p
+LinuxSecurity,SUSE: Kernel Important Security Update for 2025:4040-1 CVE-2022-50252 DoS,https://linuxsecurity.com/advisories/suse/suse-2025-4040-1-for-kernel-gbiuuzuznhx3,https://da.gd/qnCW2
+LinuxSecurity,openSUSE Kernel Security Update: Fix for CVE-2022-50252 and CVE-2025-38617,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-4040-1-kernel-o9mzeck0mok2,https://da.gd/Vlqwu
+LinuxSecurity,Mageia 9: serious buffer overflow flaw found in strongswan MGASA-2025-0272,https://linuxsecurity.com/advisories/mageia/mageia-2025-0272-strongswan-thicbm1ha70j,https://da.gd/3BqsYe
+LinuxSecurity,Mageia 9: Simgear Important Bug Fix Advisory MGAA-2025-0093,https://linuxsecurity.com/advisories/mageia/mageia-2025-0093-simgear-iub99tgophd7,https://da.gd/zPaV
+LinuxSecurity,Debian: Incus Important Privilege Escalation CVE-2025-64507 DSA-6051-1,https://linuxsecurity.com/advisories/debian/debian-dsa-6051-1-incus-security-qvjvkieod3ar,https://da.gd/vl64K
