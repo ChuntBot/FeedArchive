@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-88h9-77c7-p6w4] Evervault Go SDK: Incomplete PCR Validation in Enclave Attestation for non-Evervault hosted Enclaves,https://github.com/advisories/GHSA-88h9-77c7-p6w4,https://da.gd/r1rcx4
+GithubAdvisories,[GHSA-vjrc-mh2v-45x6] OAuth2-Proxy is vulnerable to header smuggling via underscore leading to potential privilege escalation,https://github.com/advisories/GHSA-vjrc-mh2v-45x6,https://da.gd/vtxHV
+GithubAdvisories,[GHSA-hc7m-r6v8-hg9q] Wasmtime provides unsound API access to a WebAssembly shared linear memory,https://github.com/advisories/GHSA-hc7m-r6v8-hg9q,https://da.gd/5JWc2
+GithubAdvisories,[GHSA-c978-wq47-pvvw] sudo-rs: Partial password reveal is possible after timeout,https://github.com/advisories/GHSA-c978-wq47-pvvw,https://da.gd/SblUfZ
+GithubAdvisories,[GHSA-39hr-239p-fhqc] OpenAM: Using arbitrary OIDC requested claims values in id_token and user_info is allowed,https://github.com/advisories/GHSA-39hr-239p-fhqc,https://da.gd/uJ5u
+GithubAdvisories,[GHSA-4c3j-3h7v-22q9] changedetection.io: Stored XSS in Watch update via API,https://github.com/advisories/GHSA-4c3j-3h7v-22q9,https://da.gd/GkSIo
