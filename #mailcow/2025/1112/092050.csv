@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,"sogo: removed URLDecrpytion by default, make it configurable in sogo.…",https://github.com/mailcow/mailcow-dockerized/commit/ec472f13cf6b974818a4a13d2388215bd68b528c,https://da.gd/tWMXlv
+GithubCommitStaging,remove dev docker volume from upstream,https://github.com/mailcow/mailcow-dockerized/commit/88adb1adf559ac08cd6a66434783a520f1dfc78c,https://da.gd/9oKU
+GithubCommitStaging,Replace pigz with zstd for backup compression (#6897),https://github.com/mailcow/mailcow-dockerized/commit/1b833be760a5e48b9f4d4eb97495ae9c9a4696c8,https://da.gd/0sFVIR
+GithubCommitStaging,updated the Contributing Guidelines,https://github.com/mailcow/mailcow-dockerized/commit/674b41ce082990c13177684ac5fc4b72f55ecdeb,https://da.gd/kuzBl
