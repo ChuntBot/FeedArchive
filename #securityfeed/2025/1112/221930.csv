@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3rg7-wf37-54rm] Symfony's incorrect parsing of PATH_INFO can lead to limited authorization bypass,https://github.com/advisories/GHSA-3rg7-wf37-54rm,https://da.gd/FRUMuE
