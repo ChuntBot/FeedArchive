@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g4mf-96x5-5m2c] Cloudinary Node SDK is vulnerable to Arbitrary Argument Injection through parameters that include an ampersand,https://github.com/advisories/GHSA-g4mf-96x5-5m2c,https://da.gd/zOnHN
