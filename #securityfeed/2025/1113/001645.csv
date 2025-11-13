@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rrx3-2x4g-mq2h] Bugsink is vulnerable to unauthenticated remote DoS via crafted Brotli input (via CPU),https://github.com/advisories/GHSA-rrx3-2x4g-mq2h,https://da.gd/McXG
+GithubAdvisories,[GHSA-fc2v-vcwj-269v] Bugsink is vulnerable to unauthenticated remote DoS via crafted Brotli input,https://github.com/advisories/GHSA-fc2v-vcwj-269v,https://da.gd/6CMyOG
+GithubAdvisories,[GHSA-7cx5-254x-cgrq] Parse Server allows public `explain` queries which may expose sensitive database performance information and schema details,https://github.com/advisories/GHSA-7cx5-254x-cgrq,https://da.gd/glu8GN
