@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w2vj-39qv-7vh7] Astro development server error page vulnerable to reflected Cross-site Scripting,https://github.com/advisories/GHSA-w2vj-39qv-7vh7,https://da.gd/Qrrp9T
+GithubAdvisories,[GHSA-6jqf-mv7m-3q7p] File Browser has risk of HTTP Request/Response smuggling through vulnerable dependency,https://github.com/advisories/GHSA-6jqf-mv7m-3q7p,https://da.gd/v7MQrW
+GithubAdvisories,[GHSA-6cqf-cfhv-659g] File Browser is Vulnerable to Insecure Direct Object Reference (IDOR) in Share Deletion Function,https://github.com/advisories/GHSA-6cqf-cfhv-659g,https://da.gd/eWEvd9
+GithubAdvisories,[GHSA-7f2v-3qq3-vvjf] Vega Cross-Site Scripting (XSS) via expressions abusing toString calls in environments using the VEGA_DEBUG global variable,https://github.com/advisories/GHSA-7f2v-3qq3-vvjf,https://da.gd/Y7S9s
+GithubAdvisories,[GHSA-8wj8-cfxr-9374] AWS Advanced NodeJS Wrapper: Privilege Escalation in Aurora PostgreSQL instance,https://github.com/advisories/GHSA-8wj8-cfxr-9374,https://da.gd/6n0eD
+GithubAdvisories,[GHSA-7wq2-32h4-9hc9] AWS Advanced Go Wrapper: Privilege Escalation in Aurora PostgreSQL Instance,https://github.com/advisories/GHSA-7wq2-32h4-9hc9,https://da.gd/xk3D0y
+GithubAdvisories,[GHSA-7xw4-g7mm-r4hh] Amazon Web Services Advanced JDBC Wrapper: Privilege Escalation in Aurora PostgreSQL instance,https://github.com/advisories/GHSA-7xw4-g7mm-r4hh,https://da.gd/RLrlKe
+GithubAdvisories,[GHSA-4jvf-wx3f-2x8q] AWS Advanced Python Wrapper: Privilege Escalation in Aurora PostgreSQL instance,https://github.com/advisories/GHSA-4jvf-wx3f-2x8q,https://da.gd/x10rq
