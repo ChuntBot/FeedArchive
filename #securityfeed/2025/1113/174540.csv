@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w2p4-p4rh-qcm3] pgAdmin4 vulnerable to Remote Code Execution (RCE) when running in server mode,https://github.com/advisories/GHSA-w2p4-p4rh-qcm3,https://da.gd/mev08
