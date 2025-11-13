@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q428-6v73-fc4q] sudo-rs doesn't record authenticating user properly in timestamp,https://github.com/advisories/GHSA-q428-6v73-fc4q,https://da.gd/bCc4t
