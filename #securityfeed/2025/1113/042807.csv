@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian: firefox-esr Important Threat of Code Execution DSA-6054-1,https://linuxsecurity.com/advisories/debian/debian-dsa-6054-1-firefox-esr-security-ukoshujv4htc,https://da.gd/zqi8t
+LinuxSecurity,Mageia 9: python-tornado Important Excessive Logging Vuln MGASA-2025-0282,https://linuxsecurity.com/advisories/mageia/mageia-2025-0282-python-tornado-l11hucafyodq,https://da.gd/AS1Mi
+LinuxSecurity,Mageia 9: python-urllib3 Important Security Fix CVE-2025-50181,https://linuxsecurity.com/advisories/mageia/mageia-2025-0281-python-urllib3-oykznhhyejba,https://da.gd/NIfkK
+LinuxSecurity,Mageia 9: python3 Critical Arbitrary Write Issues MGASA-2025-0280,https://linuxsecurity.com/advisories/mageia/mageia-2025-0280-python3-yry9gjcc2fub,https://da.gd/XTvHK
+LinuxSecurity,Mageia 9: Critical Rand Function Vulnerability in perl-Data-Entropy,https://linuxsecurity.com/advisories/mageia/mageia-2025-0279-perl-data-entropy-xdi1oqqimzoy,https://da.gd/qlC2I
+LinuxSecurity,Mageia 9 perl-File-Find-Rule Important Arbitrary Code Exec MGASA-2025-0278,https://linuxsecurity.com/advisories/mageia/mageia-2025-0278-perl-file-find-rule-8nj5rest3e9c,https://da.gd/2xKnH
