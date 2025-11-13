@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g4r8-3qmh-pmch] pgAdmin has vulnerability in LDAP authentication mechanism that allows bypassing TLS certificate verification,https://github.com/advisories/GHSA-g4r8-3qmh-pmch,https://da.gd/DpJJ
+GithubAdvisories,[GHSA-cvf4-f829-762v] pgAdmin is affected by an LDAP injection vulnerability,https://github.com/advisories/GHSA-cvf4-f829-762v,https://da.gd/HdqDK
+GithubAdvisories,[GHSA-rm79-x4g6-hvg5] pgAdmin 4 has command injection vulnerability on Windows systems,https://github.com/advisories/GHSA-rm79-x4g6-hvg5,https://da.gd/8J2Kx
+GithubAdvisories,[GHSA-cph6-524f-3hgr] Directus Vulnerable to Information Leakage in Existing Collections,https://github.com/advisories/GHSA-cph6-524f-3hgr,https://da.gd/7dAJm
+GithubAdvisories,[GHSA-8jpw-gpr4-8cmh] Directus's conceal fields are searchable if read permissions enabled,https://github.com/advisories/GHSA-8jpw-gpr4-8cmh,https://da.gd/3Mnc4
+GithubAdvisories,[GHSA-3g2j-vm47-x4mj] LXD vulnerable to a local privilege escalation through custom storage volumes,https://github.com/advisories/GHSA-3g2j-vm47-x4mj,https://da.gd/S6WSXb
+GithubAdvisories,[GHSA-4249-gjr8-jpq3] ProsemirrorToHtml has a Cross-Site Scripting (XSS) vulnerability through unescaped HTML attribute values,https://github.com/advisories/GHSA-4249-gjr8-jpq3,https://da.gd/2cSlw
+GithubAdvisories,[GHSA-pm3x-jrhh-qcr7] SpiceDB WriteRelationships fails silently if payload is too big,https://github.com/advisories/GHSA-pm3x-jrhh-qcr7,https://da.gd/dpt41M
+GithubAdvisories,"[GHSA-hr2q-hp5q-x767] Astro vulnerable to URL manipulation via headers, leading to middleware and CVE-2025-61925 bypass",https://github.com/advisories/GHSA-hr2q-hp5q-x767,https://da.gd/fxcQmE
