@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,compose: changes cronjobs to regular cron syntax + fixed sogo creds f…,https://github.com/mailcow/mailcow-dockerized/commit/62d16c9e56918863c12e2d3115244615e2cfc8bf,https://da.gd/UNeKQ
+GithubCommitStaging,Update to trixie (#6907),https://github.com/mailcow/mailcow-dockerized/commit/7313f996d321a8e6e19a054f62d95aff4cc32711,https://da.gd/HNB64
+GithubCommitStaging,Remove deprecated 'X-XSS-Protection' header (#6871),https://github.com/mailcow/mailcow-dockerized/commit/ae3ef391ee4bed52727274e04dca5f71091124a7,https://da.gd/inXf
+GithubCommitStaging,Disable nginx server_tokens in http context (#6873),https://github.com/mailcow/mailcow-dockerized/commit/7b29c1f30401942ed39950a514fd59e0b8b4694d,https://da.gd/KsTz7
