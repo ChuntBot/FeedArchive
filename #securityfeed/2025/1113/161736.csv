@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-56mx-8g9f-5crf] Incus vulnerable to local privilege escalation through custom storage volumes,https://github.com/advisories/GHSA-56mx-8g9f-5crf,https://da.gd/UccnU1
+GithubAdvisories,[GHSA-mhjq-8c7m-3f7p] Milvus Proxy has a Critical Authentication Bypass Vulnerability,https://github.com/advisories/GHSA-mhjq-8c7m-3f7p,https://da.gd/u607gq
+GithubAdvisories,[GHSA-c73g-mx2w-cc93] EverShop is vulnerable to Unauthorized Order Information Access (IDOR),https://github.com/advisories/GHSA-c73g-mx2w-cc93,https://da.gd/ogxe
