@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mj6p-p843-x5wc] Observability Operator is vulnerable to Incorrect Privilege Assignment through its Custom Resource MonitorStack,https://github.com/advisories/GHSA-mj6p-p843-x5wc,https://da.gd/VMvOgH
