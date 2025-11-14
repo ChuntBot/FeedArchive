@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mx7m-j9xf-62hw] @apollo/composition has Improper Enforcement of Access Control on Interface Types and Fields,https://github.com/advisories/GHSA-mx7m-j9xf-62hw,https://da.gd/2JIoS
