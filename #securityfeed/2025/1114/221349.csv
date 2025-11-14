@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mr34-8733-grr2] Memos' Access Tokens Stay Valid after User Password Change,https://github.com/advisories/GHSA-mr34-8733-grr2,https://da.gd/UeSU7
+GithubAdvisories,[GHSA-j6gg-r5jc-47cm] Mattermost fails to properly restrict access to archived channel search API,https://github.com/advisories/GHSA-j6gg-r5jc-47cm,https://da.gd/kRHVtN
+GithubAdvisories,[GHSA-4m32-cjv7-f425] AstrBot is vulnerable to RCE with hard-coded JWT signing keys,https://github.com/advisories/GHSA-4m32-cjv7-f425,https://da.gd/gwHkh
+GithubAdvisories,[GHSA-m8jr-fxqx-8xx6] Apollo Federation has Improper Enforcement of Access Control on Transitive Fields,https://github.com/advisories/GHSA-m8jr-fxqx-8xx6,https://da.gd/EaOU
+GithubAdvisories,[GHSA-vv2v-pw69-8crf] Directus is Vulnerable to Stored Cross-site Scripting,https://github.com/advisories/GHSA-vv2v-pw69-8crf,https://da.gd/7FhIli
+GithubAdvisories,[GHSA-9x5g-62gj-wqf2] Directus has Improper Permission Handling on Deleted Fields,https://github.com/advisories/GHSA-9x5g-62gj-wqf2,https://da.gd/bvrbZN
+GithubAdvisories,[GHSA-9mj6-hxhv-w67j] jose2go is vulnerable to a JWT bomb attack through its decode function,https://github.com/advisories/GHSA-9mj6-hxhv-w67j,https://da.gd/3BKnJ
