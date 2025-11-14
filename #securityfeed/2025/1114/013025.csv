@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian: Critical Vulnerability in Privilege Escalation DSA-6080-1 Alert,https://linuxsecurity.com/advisories/debian/debian-dsa-6056-1-keystone-security-y16dx6tjw8ct,https://da.gd/5mpUcR
+LinuxSecurity,Debian DSA-6057-1 LXD Important Local Privilege Escalation CVE-2025-64507,https://linuxsecurity.com/advisories/debian/debian-dsa-6057-1-lxd-security-ezdebnjb78ua,https://da.gd/slo9u
+LinuxSecurity,Mageia 9: perl-Crypt-OpenSSL-RSA Critical Side-Channel Attack CVE-2024-2467,https://linuxsecurity.com/advisories/mageia/mageia-2025-0287-perl-crypt-openssl-rsa-gb9skjb89fui,https://da.gd/PinyMH
+LinuxSecurity,Mageia 9: python-flask-cors High Access Control Issues MGASA-2025-0286,https://linuxsecurity.com/advisories/mageia/mageia-2025-0286-python-flask-cors-fd8vtkzppzcy,https://da.gd/DVhvkR
+LinuxSecurity,Mageia 9: Key Auth Issue in perl-Authen-SASL CVE-2025-40918 MGASA-2025-0285,https://linuxsecurity.com/advisories/mageia/mageia-2025-0285-perl-authen-sasl-z93slcyzizbn,https://da.gd/fdFLx
+LinuxSecurity,Mageia 9 perl-Cpanel-JSON-XS Moderate DoS Vulnerability MGASA-2025-0284,https://linuxsecurity.com/advisories/mageia/mageia-2025-0284-perl-cpanel-json-xs-73unuhala3rk,https://da.gd/OUZxPy
