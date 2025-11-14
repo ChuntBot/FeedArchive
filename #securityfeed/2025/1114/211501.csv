@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j4g7-v4m4-77px] ZITADEL is vulnerable to Account Takeover with deactivated Instance IdP,https://github.com/advisories/GHSA-j4g7-v4m4-77px,https://da.gd/UHPyV
+GithubAdvisories,[GHSA-fjh6-8679-9pch] Flowise does not Prevent Bypass of Password Confirmation - Unverified Password Change,https://github.com/advisories/GHSA-fjh6-8679-9pch,https://da.gd/lfiDYp
+GithubAdvisories,[GHSA-x39m-3393-3qp4] Flowise doesn't Prevent Bypass of Password Confirmation through Unverified Email Change (credentials),https://github.com/advisories/GHSA-x39m-3393-3qp4,https://da.gd/e4gPP1
+GithubAdvisories,[GHSA-x7rp-qj2h-ghgw] Flowise Fails to Invalidate Existing Sessions After Password Changes,https://github.com/advisories/GHSA-x7rp-qj2h-ghgw,https://da.gd/sfvOm
+GithubAdvisories,[GHSA-49qv-h8pm-73pf] TYPO3 Modules Extension has Improper Authentication vulnerability,https://github.com/advisories/GHSA-49qv-h8pm-73pf,https://da.gd/mkqtp
