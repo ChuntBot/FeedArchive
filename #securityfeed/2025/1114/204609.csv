@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2w46-vq8h-98vh] Shopware 6's password recovery link does not expire after email change,https://github.com/advisories/GHSA-2w46-vq8h-98vh,https://da.gd/SIeM
+GithubAdvisories,[GHSA-r9x7-7ggj-fx9f] PrivateBin vulnerable to malicious filename use for self-XSS / HTML injection locally for users,https://github.com/advisories/GHSA-r9x7-7ggj-fx9f,https://da.gd/XuzTLz
+GithubAdvisories,[GHSA-g2j9-g8r5-rg82] PrivateBin's template-switching feature allows arbitrary local file inclusion through path traversal,https://github.com/advisories/GHSA-g2j9-g8r5-rg82,https://da.gd/fuHi7t
