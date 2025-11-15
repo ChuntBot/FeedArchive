@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 41: Security Update for OpenTofu 1.10.7 Addresses Vulnerabilities,https://linuxsecurity.com/advisories/fedora/fedora-41-opentofu-2025-c555ce4089-f0f3vdpzeii2,https://da.gd/3rTFa0
+LinuxSecurity,Fedora 41: Critical Advisory for containerd Update v1.7.29 Threats,https://linuxsecurity.com/advisories/fedora/fedora-41-containerd-2025-80ed98504b-z9jg3gajygw7,https://da.gd/4BTnmJ
+LinuxSecurity,Debian 12: python-http-client-receive-data Low 2025-01a4c2b1e,https://linuxsecurity.com/advisories/fedora/fedora-41-rust-reqsign-http-send-reqwest-2025-00e5b3d89c-fvs1ylg2s3qy,https://da.gd/v6u4QY
+LinuxSecurity,Fedora 41: uv Python Package Update 2025-00e5b3d89c Critical DoS Advisory,https://linuxsecurity.com/advisories/fedora/fedora-41-uv-2025-00e5b3d89c-8qlvxyada6jl,https://da.gd/o9PVH
+LinuxSecurity,Fedora 41: rust-reqsign Critical AWS DoS Threat Advisory 2025-00e5b3d89c,https://linuxsecurity.com/advisories/fedora/fedora-41-rust-reqsign-2025-00e5b3d89c-xhuyxdwn73zb,https://da.gd/ElVlB
+LinuxSecurity,Fedora 41: Rust Reqsign File Read Tokio Important Issue 2025-00e5b3d89c,https://linuxsecurity.com/advisories/fedora/fedora-41-rust-reqsign-file-read-tokio-2025-00e5b3d89c-pqncedrimvvu,https://da.gd/qE874P
