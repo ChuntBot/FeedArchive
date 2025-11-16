@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+LinuxSecurity,Slackware 15.0: xpdf Critical Fix for Buffer Overflow SSA:2025-319-01,https://linuxsecurity.com/advisories/slackware/slackware-2025-319-01-xpdf-zncyzsdlb2li,https://da.gd/bOhIa
+LinuxSecurity,Mageia 9: Apache Commons BeanUtils Important Fix for CVE-2025-48734,https://linuxsecurity.com/advisories/mageia/mageia-2025-0299-apache-commons-beanutils-nsmyk0r9urh1,https://da.gd/Tw80v
+LinuxSecurity,Debian: DSA-6058-1 lasso Critical Denial of Service CVE-2025-46404,https://linuxsecurity.com/advisories/debian/debian-dsa-6058-1-lasso-security-7tqz2ykpc3uv,https://da.gd/95UoAa
