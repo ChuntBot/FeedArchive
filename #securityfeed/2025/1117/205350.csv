@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hcqg-5g63-7j9h] OpenStack Keystone allows /v3/ec2tokens or /v3/s3tokens request with valid AWS Signature to provide Keystone authorization,https://github.com/advisories/GHSA-hcqg-5g63-7j9h,https://da.gd/rNKfV
