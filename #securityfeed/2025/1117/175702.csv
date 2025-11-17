@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x3hx-ch7p-8xgg] Mattermost allows regular users to access archived channel content and files,https://github.com/advisories/GHSA-x3hx-ch7p-8xgg,https://da.gd/E6Fh6
+GithubAdvisories,[GHSA-5j98-mcp5-4vw2] glob CLI: Command injection via -c/--cmd executes matches with shell:true,https://github.com/advisories/GHSA-5j98-mcp5-4vw2,https://da.gd/gVIeL
+GithubAdvisories,[GHSA-fxm2-cmwj-qvx4] phpMyFAQ has Authenticated SQL Injection in Configuration Update Functionality,https://github.com/advisories/GHSA-fxm2-cmwj-qvx4,https://da.gd/DOWTRa
