@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xpg8-8xpv-948p] Mattermost does not enforce MFA on WebSocket connections,https://github.com/advisories/GHSA-xpg8-8xpv-948p,https://da.gd/I1cKA
