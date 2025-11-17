@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5jpg-2rj5-964c] lsFusion Platform has Path Traversal vulnerability,https://github.com/advisories/GHSA-5jpg-2rj5-964c,https://da.gd/mv25o
+GithubAdvisories,[GHSA-v5w9-prxf-w882] Flowise has Authentication Bypass Using Unprotected Registration Endpoint (/register),https://github.com/advisories/GHSA-v5w9-prxf-w882,https://da.gd/HbFB8f
