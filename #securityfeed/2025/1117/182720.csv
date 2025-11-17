@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7xvh-c266-cfr5] @dependencytrack/frontend vulnerable to Persistent Cross-Site-Scripting via welcome message,https://github.com/advisories/GHSA-7xvh-c266-cfr5,https://da.gd/uX5SLj
+GithubAdvisories,[GHSA-mqp8-pgg5-7x7m] Mattermost allows system administrators to access password hashes and MFA secrets,https://github.com/advisories/GHSA-mqp8-pgg5-7x7m,https://da.gd/ddSoH
+GithubAdvisories,[GHSA-ff85-qw3h-g9vp] Mattermost allows an attacker to edit arbitrary posts via a crafted MSTeams plugin OAuth redirect URL,https://github.com/advisories/GHSA-ff85-qw3h-g9vp,https://da.gd/XCL0W
