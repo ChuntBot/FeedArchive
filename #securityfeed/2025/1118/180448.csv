@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-84hf-8gh5-575j] Kirby CMS has cross-site scripting (XSS) in the changes dialog,https://github.com/advisories/GHSA-84hf-8gh5-575j,https://da.gd/8kzMB
+GithubAdvisories,[GHSA-v7r8-8p5c-h4xw] XWiki AdminTools application doesn't set permissions on the AdminTools space,https://github.com/advisories/GHSA-v7r8-8p5c-h4xw,https://da.gd/2hTI
