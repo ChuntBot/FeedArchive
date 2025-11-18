@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ffpg-gm3h-4p5p] Backdrop CMS Host Header Injection vulnerability,https://github.com/advisories/GHSA-ffpg-gm3h-4p5p,https://da.gd/An7rBO
+GithubAdvisories,[GHSA-mhpg-hpj5-73r2] Drupal core allows Exploiting Incorrectly Configured Access Control Security Levels,https://github.com/advisories/GHSA-mhpg-hpj5-73r2,https://da.gd/SCXFNF
+GithubAdvisories,[GHSA-h89p-5896-f4q8] Drupal core allows Content Spoofing,https://github.com/advisories/GHSA-h89p-5896-f4q8,https://da.gd/kYivm
+GithubAdvisories,[GHSA-m6vv-vcj8-w8m7] Drupal core allows Object Injection,https://github.com/advisories/GHSA-m6vv-vcj8-w8m7,https://da.gd/PUa1an
+GithubAdvisories,[GHSA-83v7-c2cf-p9c2] Drupal core allows Forceful Browsing,https://github.com/advisories/GHSA-83v7-c2cf-p9c2,https://da.gd/sO6GV
