@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9hh7-6558-qfp2] Mattermost allows other users to determine when users had read channels via channel member objects,https://github.com/advisories/GHSA-9hh7-6558-qfp2,https://da.gd/D6x6ti
+GithubAdvisories,[GHSA-7p63-w6x9-6gr7] Eclipse Jersey has a Race Condition,https://github.com/advisories/GHSA-7p63-w6x9-6gr7,https://da.gd/IN34W
