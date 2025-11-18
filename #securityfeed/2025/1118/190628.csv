@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8c52-x9w7-vc95] XWiki view file macro: User can view content of office file without view rights on the attachment,https://github.com/advisories/GHSA-8c52-x9w7-vc95,https://da.gd/fBZbe
+GithubAdvisories,[GHSA-6pmj-xjxp-p8g9] LibreNMS is vulnerable to SQL Injection (Boolean-Based Blind) in hostname parameter in ajax_output.php endpoint,https://github.com/advisories/GHSA-6pmj-xjxp-p8g9,https://da.gd/LJVGbT
