@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xr73-jq5p-ch8r] authentik allows a deactivated Service account to authenticate to OAuth,https://github.com/advisories/GHSA-xr73-jq5p-ch8r,https://da.gd/owriVY
