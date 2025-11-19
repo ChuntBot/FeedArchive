@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2jm2-2p35-rp3j] OpenSTAManager has Authenticated SQL Injection in API via 'display' parameter,https://github.com/advisories/GHSA-2jm2-2p35-rp3j,https://da.gd/i5rMh5
+GithubAdvisories,[GHSA-wq4c-57mh-5f7g] Apache Causeway vulnerable to deserialization in Java,https://github.com/advisories/GHSA-wq4c-57mh-5f7g,https://da.gd/PsnsxN
+GithubAdvisories,[GHSA-5hhx-v7f6-x7gv] Claude Code vulnerable to command execution prior to startup trust dialog,https://github.com/advisories/GHSA-5hhx-v7f6-x7gv,https://da.gd/ZbfuY
