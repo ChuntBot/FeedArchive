@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hcpf-qv9m-vfgp] esm.sh CDN service has JS Template Literal Injection in CSS-to-JavaScript,https://github.com/advisories/GHSA-hcpf-qv9m-vfgp,https://da.gd/l2T4I
+GithubAdvisories,[GHSA-h3mw-4f23-gwpw] esm.sh CDN service has arbitrary file write via tarslip,https://github.com/advisories/GHSA-h3mw-4f23-gwpw,https://da.gd/XtxgsI
+GithubAdvisories,[GHSA-fvmw-cj7j-j39q] Astro Cloudflare adapter has Stored Cross Site Scripting vulnerability in /_image endpoint,https://github.com/advisories/GHSA-fvmw-cj7j-j39q,https://da.gd/0AHZ4
+GithubAdvisories,[GHSA-ggxq-hp9w-j794] Astro's middleware authentication checks based on url.pathname can be bypassed via url encoded values,https://github.com/advisories/GHSA-ggxq-hp9w-j794,https://da.gd/OuHq7
