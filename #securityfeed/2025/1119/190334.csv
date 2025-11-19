@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mwcc-7vpp-xmv9] MongoDB driver extension affected by mongoc_bulk_operation_t's read of invalid memory,https://github.com/advisories/GHSA-mwcc-7vpp-xmv9,https://da.gd/fMvc
+GithubAdvisories,[GHSA-9jrw-jrrj-p6fr] Drupal Email TFA allows Functionality Bypass,https://github.com/advisories/GHSA-9jrw-jrrj-p6fr,https://da.gd/gopH7E
+GithubAdvisories,[GHSA-ch7q-53v8-73pc] authentik's invitation expiry is delayed by at least 5 minutes,https://github.com/advisories/GHSA-ch7q-53v8-73pc,https://da.gd/3kcvMA
