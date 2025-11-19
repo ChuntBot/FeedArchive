@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j5w8-q4qc-rx2x] golang.org/x/crypto/ssh allows an attacker to cause unbounded memory consumption,https://github.com/advisories/GHSA-j5w8-q4qc-rx2x,https://da.gd/ri6G2
