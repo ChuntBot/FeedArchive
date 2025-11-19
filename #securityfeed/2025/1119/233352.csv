@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f6x5-jh6r-wrfv] golang.org/x/crypto/ssh/agent vulnerable to panic if message is malformed due to out of bounds read,https://github.com/advisories/GHSA-f6x5-jh6r-wrfv,https://da.gd/uAgeEa
