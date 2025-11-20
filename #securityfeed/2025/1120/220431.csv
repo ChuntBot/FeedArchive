@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6xvf-4vh9-mw47] Minder does not sandbox http.send in Rego programs,https://github.com/advisories/GHSA-6xvf-4vh9-mw47,https://da.gd/SQOnCE
+GithubAdvisories,[GHSA-8x9v-8qgj-945x] Snipe-IT has Cross-site Scripting vulnerability in CSV import workflow,https://github.com/advisories/GHSA-8x9v-8qgj-945x,https://da.gd/FQTTiy
+GithubAdvisories,[GHSA-f786-75f3-74xj] OSV-SCALIBR has NULL Pointer Dereference,https://github.com/advisories/GHSA-f786-75f3-74xj,https://da.gd/iJ2oy
