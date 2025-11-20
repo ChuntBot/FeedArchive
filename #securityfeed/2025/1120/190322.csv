@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-62vx-hpcr-m9ch] @perfood/couch-auth may expose session tokens, passwords",https://github.com/advisories/GHSA-62vx-hpcr-m9ch,https://da.gd/djJ5
