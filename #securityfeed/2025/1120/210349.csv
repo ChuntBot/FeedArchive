@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8qg8-c7mw-6fj7] Mattermost Server is vulnerable to Directory Traversal by System Admins,https://github.com/advisories/GHSA-8qg8-c7mw-6fj7,https://da.gd/LM6CB9
+GithubAdvisories,[GHSA-5mh6-p63g-3mv5] Mattermost Server is vulnerable to a Denial of Service attack through `invite_people` command,https://github.com/advisories/GHSA-5mh6-p63g-3mv5,https://da.gd/Z4gMVn
+GithubAdvisories,[GHSA-mrw7-hf4f-83pf] vLLM deserialization vulnerability leading to DoS and potential RCE,https://github.com/advisories/GHSA-mrw7-hf4f-83pf,https://da.gd/eiVO2T
