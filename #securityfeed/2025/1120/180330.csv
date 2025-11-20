@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cv3m-hxpc-4hvm] Resty has a Path Traversal vulnerability,https://github.com/advisories/GHSA-cv3m-hxpc-4hvm,https://da.gd/yYVak
+GithubAdvisories,[GHSA-547r-qmjm-8hvw] md-to-pdf vulnerable to arbitrary JavaScript code execution when parsing front matter,https://github.com/advisories/GHSA-547r-qmjm-8hvw,https://da.gd/ZOXu8
+GithubAdvisories,[GHSA-6qv9-48xg-fc7f] LangChain Vulnerable to Template Injection via Attribute Access in Prompt Templates,https://github.com/advisories/GHSA-6qv9-48xg-fc7f,https://da.gd/qmL8
+GithubAdvisories,[GHSA-73g8-5h73-26h4] @hpke/core reuses AEAD nonces,https://github.com/advisories/GHSA-73g8-5h73-26h4,https://da.gd/CUZUJ2
