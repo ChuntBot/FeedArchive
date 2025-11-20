@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p8pf-44ff-93gf] authkit-nextjs may let session cookies be cached in CDNs,https://github.com/advisories/GHSA-p8pf-44ff-93gf,https://da.gd/RUNp
+GithubAdvisories,[GHSA-7mv8-j34q-vp7q] @anthropic-ai/claude-code has Sed Command Validation Bypass that Allows Arbitrary File Writes,https://github.com/advisories/GHSA-7mv8-j34q-vp7q,https://da.gd/cnkT9
+GithubAdvisories,[GHSA-69j4-grxj-j64p] vLLM vulnerable to DoS via large Chat Completion or Tokenization requests with specially crafted `chat_template_kwargs`,https://github.com/advisories/GHSA-69j4-grxj-j64p,https://da.gd/3ion6b
+GithubAdvisories,[GHSA-pmqf-x6x8-p7qw] vLLM vulnerable to DoS with incorrect shape of multimodal embedding inputs,https://github.com/advisories/GHSA-pmqf-x6x8-p7qw,https://da.gd/FqCsUh
