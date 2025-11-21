@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jf9p-2fv9-2jp2] thread-amount Vulnerable to Resource Exhaustion (Memory and Handle Leaks) on Windows and macOS,https://github.com/advisories/GHSA-jf9p-2fv9-2jp2,https://da.gd/EIFIl
+GithubAdvisories,[GHSA-w62r-7c53-fmc5] Grafana Incorrect Privilege Assignment vulnerability,https://github.com/advisories/GHSA-w62r-7c53-fmc5,https://da.gd/rS0tS
+GithubAdvisories,[GHSA-gmm6-j2g5-r52m] Vault’s Terraform Provider incorrectly set default deny_null_bind parameter for LDAP auth method to false by default,https://github.com/advisories/GHSA-gmm6-j2g5-r52m,https://da.gd/9ovrpo
+GithubAdvisories,[GHSA-r63p-v37q-g74c] phppgadmin contains an incorrect access control vulnerability,https://github.com/advisories/GHSA-r63p-v37q-g74c,https://da.gd/LsBC3D
+GithubAdvisories,[GHSA-g6xh-wrpf-v6j6] phppgadmin contains a SQL injection vulnerability,https://github.com/advisories/GHSA-g6xh-wrpf-v6j6,https://da.gd/O5tzQw
+GithubAdvisories,[GHSA-927w-vq5c-8gc3] phppgadmin contains a SQL injection vulnerability,https://github.com/advisories/GHSA-927w-vq5c-8gc3,https://da.gd/m6wa3
+GithubAdvisories,[GHSA-9m7r-g8hg-x3vr] SpiceDB: LookupResources with Multiple Entrypoints across Different Definitions Can Return Incomplete Results,https://github.com/advisories/GHSA-9m7r-g8hg-x3vr,https://da.gd/u5Cv1F
+GithubAdvisories,[GHSA-j842-xgm4-wf88] MLX has Wild Pointer Dereference in load_gguf(),https://github.com/advisories/GHSA-j842-xgm4-wf88,https://da.gd/0UKiqD
+GithubAdvisories,[GHSA-w6vg-jg77-2qg6] MLX has heap-buffer-overflow in load(),https://github.com/advisories/GHSA-w6vg-jg77-2qg6,https://da.gd/QnA4XZ
+GithubAdvisories,[GHSA-w87r-vg9q-crqm] zx Uses Incorrectly-Resolved Name or Reference,https://github.com/advisories/GHSA-w87r-vg9q-crqm,https://da.gd/JYojBc
