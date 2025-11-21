@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3mm3-wfpv-q85g] Clerk-js vulnerable to bypass of OAuth authentication flow by manipulating request at OTP verification stage,https://github.com/advisories/GHSA-3mm3-wfpv-q85g,https://da.gd/NUvnc
