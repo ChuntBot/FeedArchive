@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 43: Advisory for Chromium High Type Confusion CVE-2025-13223,https://linuxsecurity.com/advisories/fedora/fedora-43-chromium-2025-d41f5f4a2a-gxaj48jdbpb5,https://da.gd/dFHI
+LinuxSecurity,Fedora 43: calibre 8.14.0 Critical Update to Prevent Code Execution Risks,https://linuxsecurity.com/advisories/fedora/fedora-43-calibre-2025-355be35bb1-dlfpb65bb9sf,https://da.gd/X32h
+LinuxSecurity,Fedora 43: kubernetes1.33 Important Security Update 2025-298add9246,https://linuxsecurity.com/advisories/fedora/fedora-43-kubernetes1-33-2025-298add9246-i5pcqcegjo6w,https://da.gd/VQtW5
+LinuxSecurity,Fedora 43: Critical Update for Kubernetes 1.34.2 Cross-Origin Bypass,https://linuxsecurity.com/advisories/fedora/fedora-43-kubernetes1-34-2025-f32b1debd8-j8uuqsshrhdh,https://da.gd/3rWug
