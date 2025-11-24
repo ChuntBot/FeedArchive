@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mmg5-758v-292x] Malware in posthog-react-native-session-replay,https://github.com/advisories/GHSA-mmg5-758v-292x,https://da.gd/49Kd
+GithubAdvisories,[GHSA-j942-2f3x-w9mc] Malware in @postman/csv-parse,https://github.com/advisories/GHSA-j942-2f3x-w9mc,https://da.gd/9v1C88
+GithubAdvisories,[GHSA-j57g-3wpg-r49m] Malware in @asyncapi/generator-react-sdk,https://github.com/advisories/GHSA-j57g-3wpg-r49m,https://da.gd/395oL
+GithubAdvisories,[GHSA-8x8q-8r37-g7g5] Malware in @asyncapi/modelina,https://github.com/advisories/GHSA-8x8q-8r37-g7g5,https://da.gd/oRNlEt
+GithubAdvisories,[GHSA-mjv6-3w2m-7669] Malware in @posthog/ai,https://github.com/advisories/GHSA-mjv6-3w2m-7669,https://da.gd/5GKcg
+GithubAdvisories,[GHSA-9658-p648-rc4q] Malware in @asyncapi/generator,https://github.com/advisories/GHSA-9658-p648-rc4q,https://da.gd/nCRvE
+GithubAdvisories,[GHSA-62jw-fq3q-mxq5] Malware in @asyncapi/react-component,https://github.com/advisories/GHSA-62jw-fq3q-mxq5,https://da.gd/pGFygd
+GithubAdvisories,[GHSA-2wj6-h4j4-v3mm] Malware in @asyncapi/protobuf-schema-parser,https://github.com/advisories/GHSA-2wj6-h4j4-v3mm,https://da.gd/olKXt5
+GithubAdvisories,[GHSA-9vpg-29cm-rvq6] Malware in @asyncapi/avro-schema-parser,https://github.com/advisories/GHSA-9vpg-29cm-rvq6,https://da.gd/7d5u8
+GithubAdvisories,[GHSA-hf2q-r24h-7qvm] Malware in @asyncapi/openapi-schema-parser,https://github.com/advisories/GHSA-hf2q-r24h-7qvm,https://da.gd/qymVJ5
