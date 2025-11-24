@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9f46-w24h-69w4] new-api is vulnerable to SSRF Bypass,https://github.com/advisories/GHSA-9f46-w24h-69w4,https://da.gd/h4aby6
