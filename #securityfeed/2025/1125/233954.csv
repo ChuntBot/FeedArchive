@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-592m-mwpw-hq99] Malware in @antstackio/graphql-body-parser,https://github.com/advisories/GHSA-592m-mwpw-hq99,https://da.gd/RIy0I
+GithubAdvisories,[GHSA-wfwg-6872-q985] Malware in @alexcolls/nuxt-ux,https://github.com/advisories/GHSA-wfwg-6872-q985,https://da.gd/tKouEt
+GithubAdvisories,[GHSA-q564-hpqp-4cmg] Malware in @alexcolls/nuxt-socket.io,https://github.com/advisories/GHSA-q564-hpqp-4cmg,https://da.gd/DTmFul
+GithubAdvisories,[GHSA-9h93-h6x9-6j4j] Malware in @actbase/native,https://github.com/advisories/GHSA-9h93-h6x9-6j4j,https://da.gd/8ZP9
+GithubAdvisories,[GHSA-2fjw-whxm-9v4q] libnftnl has Heap-based Buffer Overflow in nftnl::Batch::with_page_size (nftnl-rs),https://github.com/advisories/GHSA-2fjw-whxm-9v4q,https://da.gd/rOn4
