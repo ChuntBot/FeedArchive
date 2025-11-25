@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xv5p-fjw5-vrj6] Fugue is Vulnerable to Remote Code Execution by Pickle Deserialization via FlaskRPCServer,https://github.com/advisories/GHSA-xv5p-fjw5-vrj6,https://da.gd/QQzrG
