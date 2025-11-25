@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g9gq-3pfx-2gw2] OWASP Java HTML Sanitizer is vulnerable to XSS via noscript tag and improper style tag sanitization,https://github.com/advisories/GHSA-g9gq-3pfx-2gw2,https://da.gd/8NC5Co
