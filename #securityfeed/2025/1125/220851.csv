@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4vcf-q4xf-f48m] Better Auth Passkey Plugin allows passkey deletion through IDOR,https://github.com/advisories/GHSA-4vcf-q4xf-f48m,https://da.gd/qgq639
+GithubAdvisories,[GHSA-f2hj-vpp9-6vm2] NSSF panic due to nil pointer dereference when expiry field is omitted in NSSAIAvailability POST,https://github.com/advisories/GHSA-f2hj-vpp9-6vm2,https://da.gd/taqO5z
+GithubAdvisories,[GHSA-3j9f-7w24-pcqg] Free5GC is vulnerable to DoS via the Nudm_SubscriberDataManagement API,https://github.com/advisories/GHSA-3j9f-7w24-pcqg,https://da.gd/KDG12
