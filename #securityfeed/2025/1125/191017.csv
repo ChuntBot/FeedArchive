@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fjf5-xgmq-5525] GeoServer is vulnerable to Unauthenticated XML External Entities (XXE) attack via WMS GetMap feature,https://github.com/advisories/GHSA-fjf5-xgmq-5525,https://da.gd/Q49nx
+GithubAdvisories,[GHSA-w66h-j855-qr72] GeoServer has a Reflected Cross-Site Scripting (XSS) vulnerability in its WMS GetFeatureInfo HTML format,https://github.com/advisories/GHSA-w66h-j855-qr72,https://da.gd/2xxgy9
