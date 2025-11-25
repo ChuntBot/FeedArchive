@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wqch-xfxh-vrr4] body-parser is vulnerable to denial of service when url encoding is used,https://github.com/advisories/GHSA-wqch-xfxh-vrr4,https://da.gd/5WBynH
+GithubAdvisories,[GHSA-6gxw-85q2-q646] Grype has a credential disclosure vulnerability in its JSON output,https://github.com/advisories/GHSA-6gxw-85q2-q646,https://da.gd/JjGDDo
+GithubAdvisories,[GHSA-jqg8-m35q-jh7j] Apache Syncope's AES encryption stores hard-coded passwords in internal database,https://github.com/advisories/GHSA-jqg8-m35q-jh7j,https://da.gd/p8gjAM
