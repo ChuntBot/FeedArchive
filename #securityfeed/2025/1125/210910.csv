@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vgq7-9r5r-j9v3] Free5GC is vulnerable to DoS through its Npcf_BDTPolicyControl POST API,https://github.com/advisories/GHSA-vgq7-9r5r-j9v3,https://da.gd/WYPS
+GithubAdvisories,[GHSA-68q5-78xp-cwwc] Contao is vulnerable to cross-site scripting in templates,https://github.com/advisories/GHSA-68q5-78xp-cwwc,https://da.gd/q6XyA
+GithubAdvisories,[GHSA-98vj-mm79-v77r] Contao is vulnerable to remote code execution in template closures,https://github.com/advisories/GHSA-98vj-mm79-v77r,https://da.gd/ied3h
+GithubAdvisories,[GHSA-8frv-q972-9rq5] cggmp24 and cggmp21 are vulnerable to signature forgery through altered presignatures,https://github.com/advisories/GHSA-8frv-q972-9rq5,https://da.gd/tljD
+GithubAdvisories,[GHSA-m95p-425x-x889] cggmp21 has a missing check in the ZK proof used in CGGMP21,https://github.com/advisories/GHSA-m95p-425x-x889,https://da.gd/fCa3zA
+GithubAdvisories,[GHSA-66jq-2c23-2xh5] VictoriaMetrics' Snappy Decoder DoS Vulnerability is Causing OOM,https://github.com/advisories/GHSA-66jq-2c23-2xh5,https://da.gd/mUknz
