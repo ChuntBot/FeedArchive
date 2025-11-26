@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w88f-4875-99c8] Apache Druid’s Kerberos authenticator uses a weak fallback secret,https://github.com/advisories/GHSA-w88f-4875-99c8,https://da.gd/CV0so
+GithubAdvisories,[GHSA-58c5-g7wp-6w37] Angular is Vulnerable to XSRF Token Leakage via Protocol-Relative URLs in Angular HTTP Client,https://github.com/advisories/GHSA-58c5-g7wp-6w37,https://da.gd/wvMjw
