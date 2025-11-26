@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian: pdfminer Critical CVE-2025-64512 Code Execution Risk Advisory,https://linuxsecurity.com/advisories/debian/debian-dsa-6062-1-pdfminer-yy7uuuwwf53n,https://da.gd/T2KNa
+LinuxSecurity,Mageia 9: webkit2 Important Remote Access Issues MGASA-2025-0313,https://linuxsecurity.com/advisories/mageia/mageia-2025-0313-webkit2-dbyjyy5jefgv,https://da.gd/ZDnmPe
+LinuxSecurity,SUSE: wget Low Directory Traversal CVE-2025-11564 Advisory 2025:4237-2,https://linuxsecurity.com/advisories/suse/suse-2025-4236-1-for-curl-mhw5xoolvliq,https://da.gd/uo9gg
+LinuxSecurity,openSUSE: curl Moderate Security Update CVE-2025-11563 SUSE-SU-2025:4236-1,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-4236-1-curl-fwo8egs8pryv,https://da.gd/k6WHo
+LinuxSecurity,SUSE: Kernel Important Bluetooth Disconnect Risk CVE-2023-53673 2025:4237-1,https://linuxsecurity.com/advisories/suse/suse-2025-4237-1-for-kernel-pqi1nyrb8yda,https://da.gd/vzM4D
+LinuxSecurity,openSUSE: Kernel Important Bluetooth Disconnect Callback CVE-2023-53673,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-4237-1-kernel-7vrzdauy4caw,https://da.gd/SFXKCW
