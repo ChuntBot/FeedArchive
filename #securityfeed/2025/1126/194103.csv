@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q279-jhrf-cc6v] Ray is vulnerable to Critical RCE via Safari & Firefox Browsers through DNS Rebinding Attack,https://github.com/advisories/GHSA-q279-jhrf-cc6v,https://da.gd/jSRYYl
+GithubAdvisories,[GHSA-vqpr-j7v3-hqw9] Valibot has a ReDoS vulnerability in `EMOJI_REGEX`,https://github.com/advisories/GHSA-vqpr-j7v3-hqw9,https://da.gd/0I9mL5
+GithubAdvisories,[GHSA-m449-vh5f-574g] OneUptime Unauthorized User Creation via API,https://github.com/advisories/GHSA-m449-vh5f-574g,https://da.gd/1WZj2
+GithubAdvisories,[GHSA-xh5w-g8gq-r3v9] Keylime allows users to register new agents by recycling existing UUIDs when using different TPM devices,https://github.com/advisories/GHSA-xh5w-g8gq-r3v9,https://da.gd/ECYc8
