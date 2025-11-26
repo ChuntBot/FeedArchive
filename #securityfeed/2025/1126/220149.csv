@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 22.04 LTS: USN-7892-1 H2O Critical Denial of Service CVE-2023-44487,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7892-1-h2o-xn57tt5jdthi,https://da.gd/EFRPvF
+LinuxSecurity,Ubuntu 25.10: Valkey Critical Memory Issue USN-7893-1 CVE-2025-46817,https://linuxsecurity.com/advisories/ubuntu/ubuntu-7893-1-valkey-bhfqzqkjmnsy,https://da.gd/vfkaIS
+LinuxSecurity,SUSE: Amazon SSM Agent Critical Bug Fix for CVE-2025-47913 Advisory,https://linuxsecurity.com/advisories/suse/suse-2025-4244-1-for-amazon-ssm-agent-y7cjonloemwp,https://da.gd/4O2cx
+LinuxSecurity,SUSE: buildah Key Client Process Fix CVE-2025-47913 Advisory 2025:4245-1,https://linuxsecurity.com/advisories/suse/suse-2025-4245-1-for-buildah-blbzwetuzer3,https://da.gd/2U9WQI
+LinuxSecurity,openSUSE: Buildah Critical Client Termination Patch for CVE-2025-47913,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-4245-1-buildah-thysk4ucfv3c,https://da.gd/BeYhZf
+LinuxSecurity,SUSE: sssd Important Privilege Escalation Fix CVE-2025-11561 2025:4247-1,https://linuxsecurity.com/advisories/suse/suse-2025-4247-1-for-sssd-fo2xafrgqopu,https://da.gd/IXuiDJ
