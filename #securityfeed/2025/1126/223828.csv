@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wmjr-v86c-m9jj] Better Auth's multi-session sign-out hook allows forged cookies to revoke arbitrary sessions,https://github.com/advisories/GHSA-wmjr-v86c-m9jj,https://da.gd/iB91v
+GithubAdvisories,[GHSA-mw3v-mmfw-3x2g] OpenSearch is vulnerable to DoS via complex query_string inputs,https://github.com/advisories/GHSA-mw3v-mmfw-3x2g,https://da.gd/iwKhu
+GithubAdvisories,[GHSA-j9wj-m24m-7jj6] willitmerge has a Command Injection vulnerability,https://github.com/advisories/GHSA-j9wj-m24m-7jj6,https://da.gd/XbugYX
