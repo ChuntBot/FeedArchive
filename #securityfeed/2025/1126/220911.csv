@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-554w-wpv2-vw27] node-forge has ASN.1 Unbounded Recursion,https://github.com/advisories/GHSA-554w-wpv2-vw27,https://da.gd/xEZOUp
+GithubAdvisories,[GHSA-65ch-62r8-g69g] node-forge is vulnerable to ASN.1 OID Integer Truncation,https://github.com/advisories/GHSA-65ch-62r8-g69g,https://da.gd/Z7OwP
+GithubAdvisories,[GHSA-5gfm-wpxj-wjgq] node-forge has an Interpretation Conflict vulnerability via its ASN.1 Validator Desynchronization,https://github.com/advisories/GHSA-5gfm-wpxj-wjgq,https://da.gd/XQYYJ
+GithubAdvisories,[GHSA-8wf8-frjg-xv74] lsFusion Server is vulnerable to Path Traversal through its unpackFile function,https://github.com/advisories/GHSA-8wf8-frjg-xv74,https://da.gd/qu5SDY
+GithubAdvisories,[GHSA-93vm-mqpw-8wh3] Keycloak LDAP User Federation provider enables admin-triggered untrusted Java deserialization,https://github.com/advisories/GHSA-93vm-mqpw-8wh3,https://da.gd/xWL2Bg
+GithubAdvisories,[GHSA-vqc7-7fj4-3fm3] REDAXO CMS is vulnerable to XSS through its module management component,https://github.com/advisories/GHSA-vqc7-7fj4-3fm3,https://da.gd/ehlKm
+GithubAdvisories,[GHSA-xj9j-gjxg-7jvq] REDAXO CMS is vulnerable to RCE attack through its template management component,https://github.com/advisories/GHSA-xj9j-gjxg-7jvq,https://da.gd/ycNXI
