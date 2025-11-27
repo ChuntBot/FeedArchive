@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Docker-BuildKit Memory Allocation Fix in Fedora 41: FEDORA-2025-1ccd7dbf40,https://linuxsecurity.com/advisories/fedora/fedora-41-docker-buildkit-2025-1ccd7dbf40-de0yomucli2z,https://da.gd/db2rC
+LinuxSecurity,Fedora 41: docker-buildx Critical Mem Exhaustion Fix CVE-2025-58185,https://linuxsecurity.com/advisories/fedora/fedora-41-docker-buildx-2025-6e24679a4d-z7l9qcpopq8m,https://da.gd/YLppU
+LinuxSecurity,Fedora 42: docker-buildkit CVE-2025-58183 Critical Unbounded Allocation,https://linuxsecurity.com/advisories/fedora/fedora-42-docker-buildkit-2025-308cf4259b-8xtzyv2uolao,https://da.gd/VWu1b3
+LinuxSecurity,Fedora 43: 7zip Critical Directory Traversal RCE CVE-2025-11001,https://linuxsecurity.com/advisories/fedora/fedora-43-7zip-2025-b6422d64f9-hypjm4o0ukug,https://da.gd/l1tP5F
