@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,SUSE: Moderate Curl Path Traversal Security Vulnerability CVE-2025-11563,https://linuxsecurity.com/advisories/suse/suse-2025-4300-1-for-curl-acsmdrjrdslb,https://da.gd/F5rr5
+LinuxSecurity,SUSE: Grub2 Moderate Fix SEV 2025:4305-1 CVE-2025-54770 CVE-2025-61661,https://linuxsecurity.com/advisories/suse/suse-2025-4305-1-for-grub2-a1shsiwbeuen,https://da.gd/dSZaVm
+LinuxSecurity,openSUSE: glib2 Moderate Buffer Under-read CVE-2025-7039 Advisory,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-4308-1-glib2-hgaa7otl1b0y,https://da.gd/ERfcyG
+LinuxSecurity,SUSE: glib2 Moderate Buffer Under-Read Fix CVE-2025-7039 2025:4308-1,https://linuxsecurity.com/advisories/suse/suse-2025-4308-1-for-glib2-zbi1z0gr2tqu,https://da.gd/EGIck
+LinuxSecurity,SUSE: curl Moderate Path Traversal Fix Advisory for CVE-2025-11563,https://linuxsecurity.com/advisories/suse/suse-2025-4309-1-for-curl-qsdwnc2rczcz,https://da.gd/Lt44Yi
+LinuxSecurity,openSUSE: curl Moderate Path Traversal CVE-2025-11563 Advisory 2025:4309-1,https://linuxsecurity.com/advisories/opensuse/opensuse-2025-4309-1-curl-kydtwesyv3ri,https://da.gd/cjuBba
