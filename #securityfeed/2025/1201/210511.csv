@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gx77-xgc2-4888] Ray's New Token Authentication is Disabled By Default,https://github.com/advisories/GHSA-gx77-xgc2-4888,https://da.gd/EjhQLe
+GithubAdvisories,[GHSA-x832-fpvj-r5ph] Mustangproject allows exfiltrating files via XXE attacks,https://github.com/advisories/GHSA-x832-fpvj-r5ph,https://da.gd/oo7m2U
+GithubAdvisories,[GHSA-rcmh-qjqh-p98v] Nodemailer’s addressparser is vulnerable to DoS caused by recursive calls,https://github.com/advisories/GHSA-rcmh-qjqh-p98v,https://da.gd/DZeGRW
