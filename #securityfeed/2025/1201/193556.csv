@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r77h-rpp9-w2xm] Spotipy has a XSS vulnerability in its OAuth callback server,https://github.com/advisories/GHSA-r77h-rpp9-w2xm,https://da.gd/bQaj6G
+GithubAdvisories,[GHSA-768j-98cg-p3fv] fontTools is Vulnerable to Arbitrary File Write and XML injection in fontTools.varLib,https://github.com/advisories/GHSA-768j-98cg-p3fv,https://da.gd/OEsnXO
