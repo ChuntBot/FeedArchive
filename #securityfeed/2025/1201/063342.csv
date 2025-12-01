@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian 11: Pytorch Critical RCE Flaw DLA-4389-1 CVE-2025-32434,https://linuxsecurity.com/advisories/deblts/debian-lts-dla-4389-1-pytorch-security-update-usywimyrzoor,https://da.gd/uBMic
+LinuxSecurity,Fedora 42: Critical Advisory on Remote Execution Risk in pgAdmin 9.10,https://linuxsecurity.com/advisories/fedora/fedora-42-pgadmin4-2025-f7d8e75d34-p4ipu3aiourm,https://da.gd/c3eL
+LinuxSecurity,Fedora 43: glib2 2.86.2 Critical Integer Overflow Issue CVE-2025-13601,https://linuxsecurity.com/advisories/fedora/fedora-43-glib2-2025-bab973d0b9-lpauulillzce,https://da.gd/KAt6p
+LinuxSecurity,Fedora 43: pgAdmin 4 Critical Remote Code Exec Issues 2025-8a81153971,https://linuxsecurity.com/advisories/fedora/fedora-43-pgadmin4-2025-8a81153971-w6drm1x5iuav,https://da.gd/nUVRBe
