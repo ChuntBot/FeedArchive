@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hjqc-jx6g-rwp9] Keras Directory Traversal Vulnerability,https://github.com/advisories/GHSA-hjqc-jx6g-rwp9,https://da.gd/4th4YC
+GithubAdvisories,[GHSA-m8vh-v6r6-w7p6] Grav vulnerable to Denial of Service via Improper Input Handling in 'Supported' Parameter,https://github.com/advisories/GHSA-m8vh-v6r6-w7p6,https://da.gd/G1Qv
+GithubAdvisories,[GHSA-4cwq-j7jv-qmwg] Grav vulnerable to Information Disclosure via IDOR in Grav Admin Panel,https://github.com/advisories/GHSA-4cwq-j7jv-qmwg,https://da.gd/w7k7J
+GithubAdvisories,[GHSA-2q7r-29rg-6m5h] fastify-reply-from affected by bypass of reply forwarding,https://github.com/advisories/GHSA-2q7r-29rg-6m5h,https://da.gd/nHcNg
+GithubAdvisories,[GHSA-j422-qmxp-hv94] Grav vulnerable to Path Traversal allowing server files backup,https://github.com/advisories/GHSA-j422-qmxp-hv94,https://da.gd/UXSVcE
+GithubAdvisories,[GHSA-q3qx-cp62-f6m7] Grav Admin Plugin vulnerable to User Enumeration & Email Disclosure,https://github.com/advisories/GHSA-q3qx-cp62-f6m7,https://da.gd/VQpNB4
+GithubAdvisories,[GHSA-27m7-ffhq-jqrm] MCP Watch has a Critical Command Injection in cloneRepo allows Remote Code Execution (RCE) via malicious URL,https://github.com/advisories/GHSA-27m7-ffhq-jqrm,https://da.gd/Q4cRb
+GithubAdvisories,[GHSA-rmw5-f87r-w988] Grav Admin Plugin is vulnerable to Cross-Site Scripting (XSS) Stored endpoint `/admin/accounts/groups/[group]` parameter `data[readableName]`,https://github.com/advisories/GHSA-rmw5-f87r-w988,https://da.gd/otUet
+GithubAdvisories,[GHSA-mpjj-4688-3fxg] Grav vulnerable to Cross-Site Scripting (XSS) Stored endpoint `/admin/pages/[page]` in Multiples parameters,https://github.com/advisories/GHSA-mpjj-4688-3fxg,https://da.gd/DdVh
+GithubAdvisories,[GHSA-gq3g-666w-7h85] Grav Exposes Password Hashes Leading to privilege escalation,https://github.com/advisories/GHSA-gq3g-666w-7h85,https://da.gd/ob3dCF
+GithubAdvisories,[GHSA-x62q-p736-3997] Grav is vulnerable to a DOS on the admin panel,https://github.com/advisories/GHSA-x62q-p736-3997,https://da.gd/h8jSy
+GithubAdvisories,[GHSA-v8x2-fjv7-8hjh] Grav has Broken Access Control which allows an Editor to modify the page's YAML Frontmatter to alter form processing actions,https://github.com/advisories/GHSA-v8x2-fjv7-8hjh,https://da.gd/C16ymC
+GithubAdvisories,[GHSA-p4ww-mcp9-j6f2] Grav is vulnerable to Arbitrary File Read,https://github.com/advisories/GHSA-p4ww-mcp9-j6f2,https://da.gd/3yHYd
+GithubAdvisories,[GHSA-gjc5-8cfh-653x] Grav is Vulnerable to Security Sandbox Bypass with SSTI (Server Side Template Injection),https://github.com/advisories/GHSA-gjc5-8cfh-653x,https://da.gd/34KIJI
+GithubAdvisories,[GHSA-cjcp-qxvg-4rjm] Grav vulnerable to Privilege Escalation in Grav Admin: Missing Username Uniqueness Check Allows Admin Account Takeover,https://github.com/advisories/GHSA-cjcp-qxvg-4rjm,https://da.gd/3PZFq
+GithubAdvisories,[GHSA-j4vq-q93m-4683] Keycloak has debug default bind address,https://github.com/advisories/GHSA-j4vq-q93m-4683,https://da.gd/L3pmD
