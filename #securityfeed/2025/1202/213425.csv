@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5xw2-57jx-pgjp] GrapesJsBuilder File Upload allows all file uploads,https://github.com/advisories/GHSA-5xw2-57jx-pgjp,https://da.gd/oMbtlK
+GithubAdvisories,[GHSA-3fq7-c5m8-g86x] Mautic user without privileged access to the Marketplace can install and uninstall composer packages,https://github.com/advisories/GHSA-3fq7-c5m8-g86x,https://da.gd/Z5sP7N
+GithubAdvisories,[GHSA-j3rw-fx6g-q46j] Apptainer ineffectively applies selinux and apparmor --security options,https://github.com/advisories/GHSA-j3rw-fx6g-q46j,https://da.gd/KjAo1q
+GithubAdvisories,[GHSA-wwrx-w7c9-rf87] Singluarity ineffectively applies selinux / apparmor LSM process labels,https://github.com/advisories/GHSA-wwrx-w7c9-rf87,https://da.gd/X4cAfz
