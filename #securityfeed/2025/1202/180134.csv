@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-69jw-4jj8-fcxm] gokey allows secret recovery from a seed file without the master password,https://github.com/advisories/GHSA-69jw-4jj8-fcxm,https://da.gd/Rf7tN
+GithubAdvisories,[GHSA-g2jx-37x6-6438] arcade-mcp-server Has Default Hardcoded Worker Secret That Allows Full Unauthorized Access to All HTTP MCP Worker Endpoints,https://github.com/advisories/GHSA-g2jx-37x6-6438,https://da.gd/pubiw
+GithubAdvisories,[GHSA-qgc9-p7cj-jvh6] FeehiCMS fails to enforce server-side immutability,https://github.com/advisories/GHSA-qgc9-p7cj-jvh6,https://da.gd/6FRTYQ
+GithubAdvisories,[GHSA-c2vx-rx6x-m9wj] FeehiCMS is vulnerable to cross-site scripting via the id parameter of the User Update function,https://github.com/advisories/GHSA-c2vx-rx6x-m9wj,https://da.gd/WXZNGr
+GithubAdvisories,[GHSA-pc5g-j9j7-p4q3] Calibre-Web Has a Stored Cross-Site Scripting (XSS) Vulnerability via the 'username' Field During User Creation,https://github.com/advisories/GHSA-pc5g-j9j7-p4q3,https://da.gd/KFti
+GithubAdvisories,[GHSA-32fw-gq77-f2f2] Eclipse Paho Go MQTT may incorrectly encode strings if length exceeds 65535 bytes,https://github.com/advisories/GHSA-32fw-gq77-f2f2,https://da.gd/R1Ywj3
+GithubAdvisories,[GHSA-8fr4-5q9j-m8gm] vLLM vulnerable to remote code execution via transformers_utils/get_config,https://github.com/advisories/GHSA-8fr4-5q9j-m8gm,https://da.gd/NqdKI
