@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4fh9-h7wg-q85m] mdast-util-to-hast has unsanitized class attribute,https://github.com/advisories/GHSA-4fh9-h7wg-q85m,https://da.gd/nf9TYi
+GithubAdvisories,[GHSA-8535-hvm8-2hmv] Grav is vulnerable to Server-Side Template Injection (SSTI) via Forms,https://github.com/advisories/GHSA-8535-hvm8-2hmv,https://da.gd/It5SAN
+GithubAdvisories,[GHSA-662m-56v4-3r8f] Grav is vulnerable to RCE via SSTI through Twig Sandbox Bypass,https://github.com/advisories/GHSA-662m-56v4-3r8f,https://da.gd/Ayrus
+GithubAdvisories,[GHSA-7g78-5g5g-mvfj] Grav vulnerable to Cross-Site Scripting (XSS) Stored endpoint `/admin/pages/[page]` parameter `data[header][template]` in Advanced Tab,https://github.com/advisories/GHSA-7g78-5g5g-mvfj,https://da.gd/SP6Ia
+GithubAdvisories,"[GHSA-65mj-f7p4-wggq] Grav is vulnerable to Cross-Site Scripting (XSS) Reflected endpoint /admin/pages/[page], parameter data[header][content][items], located in the ""Blog Config"" tab",https://github.com/advisories/GHSA-65mj-f7p4-wggq,https://da.gd/uHPvKB
+GithubAdvisories,[GHSA-858q-77wx-hhx6] Grav vulnerable to Privilege Escalation and Authenticated Remote Code Execution via Twig Injection,https://github.com/advisories/GHSA-858q-77wx-hhx6,https://da.gd/CpBwV4
+GithubAdvisories,[GHSA-gqxx-248x-g29f] Grav Admin Plugin vulnerable to Cross-Site Scripting (XSS) Stored endpoint `/admin/config/site` parameter `data[taxonomies]`,https://github.com/advisories/GHSA-gqxx-248x-g29f,https://da.gd/A46U9X
+GithubAdvisories,[GHSA-h756-wh59-hhjv] Grav vulnerable to Path traversal / arbitrary YAML write via user creation leading to Account Takeover / System Corruption,https://github.com/advisories/GHSA-h756-wh59-hhjv,https://da.gd/L0NF
+GithubAdvisories,[GHSA-vjr8-56p3-fmqq] Keycloak unable to restrict access to the admin console,https://github.com/advisories/GHSA-vjr8-56p3-fmqq,https://da.gd/FIqRg
+GithubAdvisories,"[GHSA-v4hv-rgfq-gp49] Angular Stored XSS Vulnerability via SVG Animation, SVG URL and MathML Attributes",https://github.com/advisories/GHSA-v4hv-rgfq-gp49,https://da.gd/Y4ctK
+GithubAdvisories,[GHSA-jrhg-82w2-vvj7] Gin-vue-admin has an arbitrary file deletion vulnerability,https://github.com/advisories/GHSA-jrhg-82w2-vvj7,https://da.gd/DRmmw6
+GithubAdvisories,[GHSA-hhh5-2cvx-vmfp] Portkey.ai Gateway: Server-Side Request Forgery (SSRF) in Custom Host,https://github.com/advisories/GHSA-hhh5-2cvx-vmfp,https://da.gd/Evf8A
