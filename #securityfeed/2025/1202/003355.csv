@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-53v5-9752-qq92] NutzBoot Incorrect Privilege Assignment vulnerability,https://github.com/advisories/GHSA-53v5-9752-qq92,https://da.gd/qbQx7
+GithubAdvisories,[GHSA-xhgv-99mj-8m2x] Tryton sao allows XSS via an HTML attachment,https://github.com/advisories/GHSA-xhgv-99mj-8m2x,https://da.gd/TB4lco
+GithubAdvisories,[GHSA-qp56-qj59-hjf8] NutzBoot vulnerable to information disclosure,https://github.com/advisories/GHSA-qp56-qj59-hjf8,https://da.gd/3gQvm
+GithubAdvisories,[GHSA-fgmj-6h3v-4q56] NutzBoot vulnerable to deserialization,https://github.com/advisories/GHSA-fgmj-6h3v-4q56,https://da.gd/jD9jM
+GithubAdvisories,[GHSA-6qj9-2g9m-29x9] Tryton sao allows XSS because it does not escape completion values,https://github.com/advisories/GHSA-6qj9-2g9m-29x9,https://da.gd/lew08y
+GithubAdvisories,[GHSA-2w93-qwpp-vgvj] trytond does not enforce access rights for data export,https://github.com/advisories/GHSA-2w93-qwpp-vgvj,https://da.gd/qzXvj
+GithubAdvisories,[GHSA-p3p5-xrmv-4j6x] trytond does not enforce access rights for the route of the HTML editor,https://github.com/advisories/GHSA-p3p5-xrmv-4j6x,https://da.gd/YNknYg
+GithubAdvisories,[GHSA-jqfc-9q34-prhg] trytond allows remote attackers to obtain sensitive trace-back (server setup) information,https://github.com/advisories/GHSA-jqfc-9q34-prhg,https://da.gd/aXegK
+GithubAdvisories,[GHSA-mj73-j457-8x9q] maxminddb's `Reader::open_mmap` unsoundly marks unsafe memmap operation as safe,https://github.com/advisories/GHSA-mj73-j457-8x9q,https://da.gd/ZCGl
+GithubAdvisories,[GHSA-wp4m-7hpj-8qp8] Duplicate Advisory: Discovery uses the same AES/GCM Nonce throughout the session,https://github.com/advisories/GHSA-wp4m-7hpj-8qp8,https://da.gd/CHu3y7
+GithubAdvisories,[GHSA-hgf8-39gv-g3f2] Werkzeug safe_join() allows Windows special device names,https://github.com/advisories/GHSA-hgf8-39gv-g3f2,https://da.gd/VJq1h
+GithubAdvisories,[GHSA-pq5v-rwp8-p7gm] rtvm-interpreter lacks sufficient checks in public API,https://github.com/advisories/GHSA-pq5v-rwp8-p7gm,https://da.gd/sm9aT5
+GithubAdvisories,[GHSA-9g7v-8wxv-mwxp] Duplicate Advisory: Keras keras.utils.get_file API is vulnerable to a path traversal attack,https://github.com/advisories/GHSA-9g7v-8wxv-mwxp,https://da.gd/qbT3O
