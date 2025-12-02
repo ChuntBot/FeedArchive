@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fww5-m9wc-jcjc] Snipe-IT is vulnerable to stored cross-site scripting,https://github.com/advisories/GHSA-fww5-m9wc-jcjc,https://da.gd/T2KSb
+GithubAdvisories,[GHSA-p6gj-jc38-x2m7] Mattermost fails to validate user permissions when deleting comments in Boards,https://github.com/advisories/GHSA-p6gj-jc38-x2m7,https://da.gd/AIZ7m
+GithubAdvisories,[GHSA-w756-rf26-7rmr] FeehiCMS is vulnerable to reverse tabnabbing,https://github.com/advisories/GHSA-w756-rf26-7rmr,https://da.gd/fdjImi
+GithubAdvisories,[GHSA-9h52-p55h-vw2f] Model Context Protocol (MCP) Python SDK does not enable DNS rebinding protection by default,https://github.com/advisories/GHSA-9h52-p55h-vw2f,https://da.gd/vQSGy
+GithubAdvisories,[GHSA-w48q-cv73-mx4w] Model Context Protocol (MCP) TypeScript SDK does not enable DNS rebinding protection by default,https://github.com/advisories/GHSA-w48q-cv73-mx4w,https://da.gd/cNrXJ
+GithubAdvisories,[GHSA-vghf-hv5q-vc2g] Validator is Vulnerable to Incomplete Filtering of One or More Instances of Special Elements,https://github.com/advisories/GHSA-vghf-hv5q-vc2g,https://da.gd/Xazbf
