@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-24hm-wm2h-h8w7] Peppol-py is vulnerable to XXE attacks due to Saxon configuration,https://github.com/advisories/GHSA-24hm-wm2h-h8w7,https://da.gd/hYWnD
+GithubAdvisories,[GHSA-5p82-2q3r-wj3m] ThingsBoard allows an authenticated user to upload malicious SVG images,https://github.com/advisories/GHSA-5p82-2q3r-wj3m,https://da.gd/5fgZ7U
+GithubAdvisories,[GHSA-mp6x-97xj-9x62] Mattermost fails to to verify the token used during code exchange,https://github.com/advisories/GHSA-mp6x-97xj-9x62,https://da.gd/uwdlQ
+GithubAdvisories,[GHSA-4g87-9x45-cx2h] Mattermost fails to sanitize team email addresses,https://github.com/advisories/GHSA-4g87-9x45-cx2h,https://da.gd/YKT2
+GithubAdvisories,[GHSA-3x39-62h4-f8j6] Mattermost fails to properly validate OAuth state tokens during OpenID Connect authentication,https://github.com/advisories/GHSA-3x39-62h4-f8j6,https://da.gd/9NhV7
