@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jwfv-5hwq-f97r] Mattermost Server exposes team invite IDs through API endpoints,https://github.com/advisories/GHSA-jwfv-5hwq-f97r,https://da.gd/cwUkqx
+GithubAdvisories,[GHSA-jc6w-8r7f-vmp5] Mattermost Server vulnerable to Denial of Service through `@` character prefix inserted into JavaScript field names,https://github.com/advisories/GHSA-jc6w-8r7f-vmp5,https://da.gd/yTKbJ
+GithubAdvisories,[GHSA-9j9j-mm2r-9rfm] Mattermost Server has mishandled webhook access control,https://github.com/advisories/GHSA-9j9j-mm2r-9rfm,https://da.gd/MmL5D2
+GithubAdvisories,[GHSA-qhqw-rrw9-25rm] assyncmy is vulnerable to SQL injection via crafted dict keys,https://github.com/advisories/GHSA-qhqw-rrw9-25rm,https://da.gd/kJlIa
+GithubAdvisories,[GHSA-fxp5-37mh-vff5] BlazeMeter Jenkins Plugin is Missing Authorization for Available Resources,https://github.com/advisories/GHSA-fxp5-37mh-vff5,https://da.gd/jxQwn
