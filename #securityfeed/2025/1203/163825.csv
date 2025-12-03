@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jf75-p25m-pw74] Coder logs sensitive objects unsanitized,https://github.com/advisories/GHSA-jf75-p25m-pw74,https://da.gd/cYBHPF
+GithubAdvisories,[GHSA-j7c9-79x7-8hpr] step-ca Has Improper Authorization Check for SSH Certificate Revocation,https://github.com/advisories/GHSA-j7c9-79x7-8hpr,https://da.gd/3tLaL
+GithubAdvisories,[GHSA-xq4m-mc3c-vvg3] Claude Code Command Validation Bypass Allows Arbitrary Code Execution,https://github.com/advisories/GHSA-xq4m-mc3c-vvg3,https://da.gd/vTZMEb
+GithubAdvisories,[GHSA-q3hc-j9x5-mp9m] ImageMagick has a use-after-free/double-free risk in Options::fontFamily when clearing family,https://github.com/advisories/GHSA-q3hc-j9x5-mp9m,https://da.gd/kqeFK
