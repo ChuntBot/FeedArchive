@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fmh4-wr37-44fp] React Server Components are Vulnerable to RCE,https://github.com/advisories/GHSA-fmh4-wr37-44fp,https://da.gd/uhKO3
+GithubAdvisories,[GHSA-fv66-9v8q-g76r] React Server Components are Vulnerable to RCE,https://github.com/advisories/GHSA-fv66-9v8q-g76r,https://da.gd/N49Yc
+GithubAdvisories,[GHSA-9qr9-h5gf-34mp] Next.js is vulnerable to RCE in React flight protocol,https://github.com/advisories/GHSA-9qr9-h5gf-34mp,https://da.gd/qg9og
