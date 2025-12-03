@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-46gc-mwh4-cc5r] Docker MCP Plugin and Docker MCP Gateway have DNS Rebinding vulnerability when running in sse or streaming mode,https://github.com/advisories/GHSA-46gc-mwh4-cc5r,https://da.gd/jdLd
