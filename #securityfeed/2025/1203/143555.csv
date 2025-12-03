@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cchq-397m-q2qm] Grav CMS is vulnerable to Cross Site Scripting (XSS) in the page editor,https://github.com/advisories/GHSA-cchq-397m-q2qm,https://da.gd/oKST1Y
+GithubAdvisories,[GHSA-qc4x-5xxw-9c6v] Malware in buffer-envjs,https://github.com/advisories/GHSA-qc4x-5xxw-9c6v,https://da.gd/aRnQU
+GithubAdvisories,[GHSA-rqw2-ghq9-44m7] Django is vulnerable to SQL injection in column aliases,https://github.com/advisories/GHSA-rqw2-ghq9-44m7,https://da.gd/91vH
