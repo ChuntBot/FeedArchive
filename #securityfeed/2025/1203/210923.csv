@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wvxp-jp4w-w8wg] mcp-server-kubernetes has potential security issue in exec_in_pod tool,https://github.com/advisories/GHSA-wvxp-jp4w-w8wg,https://da.gd/eV40T
