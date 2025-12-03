@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-424m-fj2q-g7vg] Aimeos GrapesJS CMS extension has possible stored XSS that's exploitable by authenticated editors,https://github.com/advisories/GHSA-424m-fj2q-g7vg,https://da.gd/lD1bg4
+GithubAdvisories,[GHSA-58w6-w55x-6wq8] Mattermost fails to validate user permissions in Boards,https://github.com/advisories/GHSA-58w6-w55x-6wq8,https://da.gd/xLX3U
+GithubAdvisories,[GHSA-vqf4-7m7x-wgfc] LZ4 Java Compression has Out-of-bounds memory operations which can cause DoS,https://github.com/advisories/GHSA-vqf4-7m7x-wgfc,https://da.gd/8d07AO
+GithubAdvisories,"[GHSA-4g25-wj72-chxg] Snipe-IT allows stored XSS via the Locations ""Country"" field",https://github.com/advisories/GHSA-4g25-wj72-chxg,https://da.gd/mwczvH
+GithubAdvisories,[GHSA-xx7v-hqxh-cjr9] Apache Struts is Vulnerable to DoS via File Leak,https://github.com/advisories/GHSA-xx7v-hqxh-cjr9,https://da.gd/AjvxX
