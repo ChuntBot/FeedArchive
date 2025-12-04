@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8wvc-869r-xfqf] Open WebUI Vulnerable to Stored DOM XSS via Note 'Download PDF',https://github.com/advisories/GHSA-8wvc-869r-xfqf,https://da.gd/T1S9
+GithubAdvisories,[GHSA-c6xv-rcvw-v685] Open WebUI vulnerable to Server-Side Request Forgery (SSRF) via Arbitrary URL Processing in /api/v1/retrieval/process/web,https://github.com/advisories/GHSA-c6xv-rcvw-v685,https://da.gd/TLgjR
