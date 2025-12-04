@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hjqh-j6rj-gh8q] Mattermost Server is vulnerable to Path Traversal when files are stored locally,https://github.com/advisories/GHSA-hjqh-j6rj-gh8q,https://da.gd/Yn4Oi
+GithubAdvisories,[GHSA-9rr5-q43r-ccv4] Mattermost Server does not prevent System Admin from arbitrary file creation,https://github.com/advisories/GHSA-9rr5-q43r-ccv4,https://da.gd/BTWoF3
