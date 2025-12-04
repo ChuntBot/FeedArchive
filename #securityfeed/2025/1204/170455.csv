@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4hr2-xf7w-jf76] Central Dogma's Login Function Has an Open Redirect Vulnerability,https://github.com/advisories/GHSA-4hr2-xf7w-jf76,https://da.gd/cyaq
+GithubAdvisories,[GHSA-9gqj-5w7c-vx47] Anthropic Sandbox Runtime Incorrectly Implemented Network Sandboxing,https://github.com/advisories/GHSA-9gqj-5w7c-vx47,https://da.gd/CP8uC
+GithubAdvisories,[GHSA-869p-cjfg-cm3x] auth0/node-jws Improperly Verifies HMAC Signature,https://github.com/advisories/GHSA-869p-cjfg-cm3x,https://da.gd/jiKZbX
