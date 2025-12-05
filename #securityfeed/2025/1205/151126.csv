@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9x8x-w6g5-hx4w] Mattermost Server is vulnerable to XSS attacks against an OAuth 2.0 allow/deny page,https://github.com/advisories/GHSA-9x8x-w6g5-hx4w,https://da.gd/5M2zQ
