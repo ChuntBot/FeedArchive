@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xrhh-hx36-485q] Strimzi allows unrestricted access to all Secrets in the same Kubernetes namespace from Kafka Connect and MirrorMaker 2 operands,https://github.com/advisories/GHSA-xrhh-hx36-485q,https://da.gd/km92ay
+GithubAdvisories,[GHSA-m497-hq5x-6jcv] Mattermost Server allows attackers to create buttons that can launch API requests,https://github.com/advisories/GHSA-m497-hq5x-6jcv,https://da.gd/NOvqkp
+GithubAdvisories,[GHSA-jp57-4x34-5v94] Mattermost Server is vulnerable to webhook and slash command manipulation,https://github.com/advisories/GHSA-jp57-4x34-5v94,https://da.gd/ezdSBa
+GithubAdvisories,[GHSA-v2vm-hq26-5jv6] Mattermost Server is vulnerable to SQL Injection when executing multiple POST requests,https://github.com/advisories/GHSA-v2vm-hq26-5jv6,https://da.gd/baZa4
+GithubAdvisories,[GHSA-35c4-5qfp-wxj6] Mattermost Server exposes team creator's e-mail address to other members,https://github.com/advisories/GHSA-35c4-5qfp-wxj6,https://da.gd/6EePz
+GithubAdvisories,[GHSA-wvjg-33p9-938h] Mattermost Server does not properly restrict use of slash commands,https://github.com/advisories/GHSA-wvjg-33p9-938h,https://da.gd/du9v
+GithubAdvisories,[GHSA-g78f-6xq7-rrhq] Mattermost Server allows attackers to gain privileges by accessing unintended API endpoints with users' credentials,https://github.com/advisories/GHSA-g78f-6xq7-rrhq,https://da.gd/tkdCEb
+GithubAdvisories,[GHSA-v6x2-4q87-rf82] Apache SkyWalking has a stored XSS vulnerability,https://github.com/advisories/GHSA-v6x2-4q87-rf82,https://da.gd/YUekrr
