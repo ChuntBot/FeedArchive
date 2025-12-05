@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2xpw-w6gg-jr37] urllib3 streaming API improperly handles highly compressed data,https://github.com/advisories/GHSA-2xpw-w6gg-jr37,https://da.gd/5DiU
+GithubAdvisories,[GHSA-gm62-xv2j-4w53] urllib3 allows an unbounded number of links in the decompression chain,https://github.com/advisories/GHSA-gm62-xv2j-4w53,https://da.gd/Lby5R
+GithubAdvisories,[GHSA-4qg8-fj49-pxjh] Sigstore Timestamp Authority allocates excessive memory during request parsing,https://github.com/advisories/GHSA-4qg8-fj49-pxjh,https://da.gd/BTQvY
+GithubAdvisories,[GHSA-f83f-xpx7-ffpw] Fulcio allocates excessive memory during token parsing,https://github.com/advisories/GHSA-f83f-xpx7-ffpw,https://da.gd/nFUr7
+GithubAdvisories,[GHSA-rwjg-c3h2-f57p] Envoy's TLS certificate matcher for `match_typed_subject_alt_names` may incorrectly treat certificates containing an embedded null byte,https://github.com/advisories/GHSA-rwjg-c3h2-f57p,https://da.gd/PIQAFR
+GithubAdvisories,[GHSA-rj35-4m94-77jh] Envoy forwards early CONNECT data in TCP proxy mode,https://github.com/advisories/GHSA-rj35-4m94-77jh,https://da.gd/4Zr1NZ
+GithubAdvisories,[GHSA-mp85-7mrq-r866] Envoy crashes when JWT authentication is configured with the remote JWKS fetching,https://github.com/advisories/GHSA-mp85-7mrq-r866,https://da.gd/9WXjt
