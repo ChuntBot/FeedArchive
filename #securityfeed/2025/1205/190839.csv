@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q5hg-wppq-r2cc] alexusmai laravel-file-manager is vulnerable to Directory Traversal via the unzip/extraction functionality,https://github.com/advisories/GHSA-q5hg-wppq-r2cc,https://da.gd/xJjdD
+GithubAdvisories,[GHSA-xrv8-2pf5-f3q7] nitro-tpm-pcr-compute may allow kernel command line modification by an account operator,https://github.com/advisories/GHSA-xrv8-2pf5-f3q7,https://da.gd/htHM9
+GithubAdvisories,[GHSA-cmp6-m4wj-q63q] yawkat LZ4 Java has a possible information leak in Java safe decompressor,https://github.com/advisories/GHSA-cmp6-m4wj-q63q,https://da.gd/LUUKd
