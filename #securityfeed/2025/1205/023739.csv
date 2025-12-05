@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4f99-4q7p-p3gh] Logrus is vulnerable to DoS when using Entry.Writer(),https://github.com/advisories/GHSA-4f99-4q7p-p3gh,https://da.gd/AzCYQ
+GithubAdvisories,[GHSA-f58c-gq56-vjjf] Apache Tika has XXE vulnerability,https://github.com/advisories/GHSA-f58c-gq56-vjjf,https://da.gd/GCVVvr
+GithubAdvisories,[GHSA-frv8-gffc-37px] open-webui is Vulnerable to Incorrect Access Control,https://github.com/advisories/GHSA-frv8-gffc-37px,https://da.gd/TNyVj
+GithubAdvisories,[GHSA-3mwv-j45g-vp3w] ComposioHQ has a directory traversal vulnerability,https://github.com/advisories/GHSA-3mwv-j45g-vp3w,https://da.gd/7VHf
+GithubAdvisories,[GHSA-8ggh-xwr9-3373] Ansible Community General Collection is vulnerable to exposure of sensitive information,https://github.com/advisories/GHSA-8ggh-xwr9-3373,https://da.gd/e6mEJ
+GithubAdvisories,[GHSA-rr44-8j7r-jg2q] alexusmai laravel-file-manager is vulnerable to Directory Traversal,https://github.com/advisories/GHSA-rr44-8j7r-jg2q,https://da.gd/RhW0F4
