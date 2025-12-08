@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7vww-mvcr-x6vj] Traefik Inverted TLS Verification Logic in ingress-nginx Provider,https://github.com/advisories/GHSA-7vww-mvcr-x6vj,https://da.gd/2aMLeb
+GithubAdvisories,[GHSA-gm3x-23wp-hc2c] Path Normalization Bypass in Traefik Router + Middleware Rules,https://github.com/advisories/GHSA-gm3x-23wp-hc2c,https://da.gd/KF9G0U
