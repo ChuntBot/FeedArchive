@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c4cc-x928-vjw9] robrichards/xmlseclibs has an Libxml2 Canonicalization error which can bypass Digest/Signature validation,https://github.com/advisories/GHSA-c4cc-x928-vjw9,https://da.gd/KQgPcU
+GithubAdvisories,[GHSA-m98w-cqp3-qcqr] Fiber Utils UUIDv4 and UUID Silent Fallback to Predictable Values,https://github.com/advisories/GHSA-m98w-cqp3-qcqr,https://da.gd/08gccI
+GithubAdvisories,[GHSA-7cqv-qcq2-r765] 1Panel IP Access Control Bypass via Untrusted X-Forwarded-For Headers,https://github.com/advisories/GHSA-7cqv-qcq2-r765,https://da.gd/LmmsA
+GithubAdvisories,[GHSA-qmg5-v42x-qqhq] 1Panel – CAPTCHA Bypass via Client-Controlled Flag,https://github.com/advisories/GHSA-qmg5-v42x-qqhq,https://da.gd/5Ut77
