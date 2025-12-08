@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-whqg-ppgf-wp8c] Astro has an Authentication Bypass via Double URL Encoding, a bypass for CVE-2025-64765",https://github.com/advisories/GHSA-whqg-ppgf-wp8c,https://da.gd/WF4Srq
+GithubAdvisories,[GHSA-95fv-5gfj-2r84] Emby Server API Vulnerability allowing to gain administrative access without precondition,https://github.com/advisories/GHSA-95fv-5gfj-2r84,https://da.gd/j2zmWq
