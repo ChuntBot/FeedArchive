@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m6wq-66p2-c8pc] Babylon Nil BlockHash in BLS vote extensions triggers panics in consensus handlers,https://github.com/advisories/GHSA-m6wq-66p2-c8pc,https://da.gd/2S7LTa
+GithubAdvisories,[GHSA-v959-qxv6-6f8p] ZITADEL Vulnerable to Account Takeover via DOM-Based XSS in Zitadel V2 Login,https://github.com/advisories/GHSA-v959-qxv6-6f8p,https://da.gd/l1dkW
+GithubAdvisories,[GHSA-pfrf-9r5f-73f5] ZITADEL Vulnerable to Account Takeover Due to Improper Instance Validation in V2 Login,https://github.com/advisories/GHSA-pfrf-9r5f-73f5,https://da.gd/gZgq
+GithubAdvisories,[GHSA-7wfc-4796-gmg5] ZITADEL Vulnerable to Unauthenticated Full-Read SSRF via V2 Login,https://github.com/advisories/GHSA-7wfc-4796-gmg5,https://da.gd/0Krx
+GithubAdvisories,[GHSA-459f-x8vq-xjjm] Static Web Server vulnerable to a symbolic link path traversal,https://github.com/advisories/GHSA-459f-x8vq-xjjm,https://da.gd/QlCSSx
+GithubAdvisories,[GHSA-j76j-5p5g-9wfr] @vitejs/plugin-rsc Remote Code Execution through unsafe dynamic imports in RSC server function APIs on development server,https://github.com/advisories/GHSA-j76j-5p5g-9wfr,https://da.gd/wxpYC
+GithubAdvisories,[GHSA-92x3-mfjp-j3h3] yungifez Skuul School Management System vulnerable to XSS via SVG,https://github.com/advisories/GHSA-92x3-mfjp-j3h3,https://da.gd/LA3e
+GithubAdvisories,[GHSA-wq34-7f4g-953v] Csla affected by Remote Code Execution via WcfProxy (NetDataContractSerializer),https://github.com/advisories/GHSA-wq34-7f4g-953v,https://da.gd/QnPLH
+GithubAdvisories,[GHSA-g4v2-cjqp-rfmq] Critical Use-After-Free in Wasmi's Linear Memory,https://github.com/advisories/GHSA-g4v2-cjqp-rfmq,https://da.gd/UqT20
+GithubAdvisories,[GHSA-jj6p-3m75-g2p3] matrix-sdk-base denial of service via custom m.room.join_rules event values,https://github.com/advisories/GHSA-jj6p-3m75-g2p3,https://da.gd/mtGdF8
