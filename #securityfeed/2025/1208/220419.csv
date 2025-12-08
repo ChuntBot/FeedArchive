@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x4h9-gwv3-r4m4] Ruby-saml allows a Libxml2 Canonicalization error to bypass Digest/Signature validation,https://github.com/advisories/GHSA-x4h9-gwv3-r4m4,https://da.gd/iCQb8
