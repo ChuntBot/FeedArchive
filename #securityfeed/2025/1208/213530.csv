@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9v8j-x534-2fx3] Ruby-saml has a SAML authentication bypass due to namespace handling (parser differential),https://github.com/advisories/GHSA-9v8j-x534-2fx3,https://da.gd/wGP2Sx
+GithubAdvisories,[GHSA-2m4f-cg75-76w2] NiceGUI Stored/Reflected XSS in ui.interactive_image via unsanitized SVG content,https://github.com/advisories/GHSA-2m4f-cg75-76w2,https://da.gd/BV2j
+GithubAdvisories,"[GHSA-72qc-wxch-74mg] NiceGUI Reflected XSS in ui.add_css, ui.add_scss, and ui.add_sass via Style Injection",https://github.com/advisories/GHSA-72qc-wxch-74mg,https://da.gd/zx532
+GithubAdvisories,[GHSA-wpqc-h9wp-chmq] n8n vulnerable to Remote Code Execution via Git Node Custom Pre-Commit Hook,https://github.com/advisories/GHSA-wpqc-h9wp-chmq,https://da.gd/fJyjRV
