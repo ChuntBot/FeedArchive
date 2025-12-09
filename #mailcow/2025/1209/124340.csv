@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubCommit,Disable nginx server_tokens in http context (#6873),https://github.com/mailcow/mailcow-dockerized/commit/7b29c1f30401942ed39950a514fd59e0b8b4694d,https://da.gd/KsTz7
+GithubCommit,Allow making spam aliases permanent (#6888),https://github.com/mailcow/mailcow-dockerized/commit/0413d268552b845916b94eda54bc3dba0ee12798,https://da.gd/XtLnH
+GithubCommit,Translations update from Weblate (#6916),https://github.com/mailcow/mailcow-dockerized/commit/98320061410e6795debe93456a5362edd0c3f379,https://da.gd/A7Fq
+GithubCommit,chore(deps): update actions/checkout action to v6 (#6920),https://github.com/mailcow/mailcow-dockerized/commit/6f9ee2d15135e910672fa6d98a4095195d357f97,https://da.gd/4KJyp
+GithubCommit,Translations update from Weblate (#6924),https://github.com/mailcow/mailcow-dockerized/commit/514fefd2edcf97c083820afe44901109ab8b8533,https://da.gd/Pvxn2u
+GithubCommit,[Web] Updated lang.gr-gr.json (#6930),https://github.com/mailcow/mailcow-dockerized/commit/b873812588ce293ed878b9cbca123e48896e171f,https://da.gd/elr4L
+GithubCommit,update postscreen_access.cidr (#6933),https://github.com/mailcow/mailcow-dockerized/commit/3d6253a2b25e6ca844b24c9666f67532e2d85c4a,https://da.gd/4guM7
+GithubCommit,[Web] Updated lang.fr-fr.json (#6936),https://github.com/mailcow/mailcow-dockerized/commit/6c106b4e4dfffc2bd6fc87b60f7dbe12eb917d63,https://da.gd/24vE4
+GithubCommit,chore(deps): update actions/stale action to v10.1.1 (#6937),https://github.com/mailcow/mailcow-dockerized/commit/470cfb00263551e205cbaf7908dedcf26364ce4a,https://da.gd/ZV1F6T
+GithubCommit,core: improved docker compose version check,https://github.com/mailcow/mailcow-dockerized/commit/9950914086124be1c9abe9dd35aefa7d3b64ffab,https://da.gd/lLSqXr
+GithubCommit,Merge branch 'master' into staging,https://github.com/mailcow/mailcow-dockerized/commit/f3d9833ecfda53eceeacd4877158deaa3dee683f,https://da.gd/3Rgms
+GithubCommit,chore(deps): update alpine docker tag to v3.23 (#6940),https://github.com/mailcow/mailcow-dockerized/commit/32a6ecddb614acee1f2a70f2f0e1d0d23d5221ae,https://da.gd/wc53
+GithubCommit,[Web] Updated lang.fr-fr.json (#6941),https://github.com/mailcow/mailcow-dockerized/commit/4e3294b273abf112a7ae3acf77d3ad6357ec700a,https://da.gd/DoQ0vf
+GithubCommit,[Web] Updated lang.fr-fr.json (#6943),https://github.com/mailcow/mailcow-dockerized/commit/79171ea6f546f561eeca83790623ca6077325b50,https://da.gd/RMFqpu
+GithubCommit,Update CONTRIBUTING.md,https://github.com/mailcow/mailcow-dockerized/commit/ef010aa39c7e6e8ad228bd32165612a8749ed62b,https://da.gd/aaFf
+GithubCommit,fix(api): add missing break in CORS switch block causing save to hang…,https://github.com/mailcow/mailcow-dockerized/commit/f8eed8c78698ce492f176641bb75ccbeefd24546,https://da.gd/IIHie
+GithubCommit,pf-tlspol: upgrade to 1.8.22 (#6951),https://github.com/mailcow/mailcow-dockerized/commit/dbb9e474b0d171ddaee959c2cc30eb12691be836,https://da.gd/FCtd3W
+GithubCommit,Merge pull request #6948 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/4ef65fc38227629b3e6401c84210e7392e94f559,https://da.gd/0OmA5
