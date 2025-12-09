@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6w82-v552-wjw2] Shopware Storefront Reflected XSS in Storefront Login Page,https://github.com/advisories/GHSA-6w82-v552-wjw2,https://da.gd/Mpj3B
+GithubAdvisories,[GHSA-5j8p-438x-rgg5] SAML PHP Toolkit Vulnerability on xmlseclibs CVE-2025-66475,https://github.com/advisories/GHSA-5j8p-438x-rgg5,https://da.gd/Ltw4X
+GithubAdvisories,[GHSA-93fv-4pm9-xp28] JDA (Java Discord API) downloads external URLs when updating message components,https://github.com/advisories/GHSA-93fv-4pm9-xp28,https://da.gd/o35hG
+GithubAdvisories,[GHSA-898v-775g-777c] Neuron MySQLWriteTool allows arbitrary/destructive SQL when exposed to untrusted prompts (agent “footgun”),https://github.com/advisories/GHSA-898v-775g-777c,https://da.gd/dgn6co
+GithubAdvisories,[GHSA-j8g6-5gqc-mq36] Neuron MySQLSelectTool “read-only” bypass via `SELECT ... INTO OUTFILE` (file write → potential RCE),https://github.com/advisories/GHSA-j8g6-5gqc-mq36,https://da.gd/7H6Sb
+GithubAdvisories,[GHSA-pvcv-q3q7-266g] Filament multi-factor authentication (app) recovery codes can be used multiple times,https://github.com/advisories/GHSA-pvcv-q3q7-266g,https://da.gd/OohgX
+GithubAdvisories,[GHSA-jv3w-x3r3-g6rm] CNA Plugins Portmap nftables backend can intercept non-local traffic,https://github.com/advisories/GHSA-jv3w-x3r3-g6rm,https://da.gd/sSneq
+GithubAdvisories,[GHSA-99m2-qwx6-2w6f] memos vulnerability allows arbitrarily modification or deletion registered identity providers,https://github.com/advisories/GHSA-99m2-qwx6-2w6f,https://da.gd/4D5wd
+GithubAdvisories,[GHSA-4r66-7rcv-x46x] SiYuan vulnerable to RCE via zip slip and Command Injection via PandocBin,https://github.com/advisories/GHSA-4r66-7rcv-x46x,https://da.gd/kEt6g
+GithubAdvisories,[GHSA-gqfv-g4v7-m366] SiYuan: ZipSlip -> Arbitrary File Overwrite -> RCE,https://github.com/advisories/GHSA-gqfv-g4v7-m366,https://da.gd/YeDbT
+GithubAdvisories,[GHSA-wx63-35hw-2482] HTTP/HTTPS Traffic Interception Bypass in mad-proxy,https://github.com/advisories/GHSA-wx63-35hw-2482,https://da.gd/BQrqqd
+GithubAdvisories,[GHSA-xrqc-7xgx-c9vh] RCE via ZipSlip and symbolic links in argoproj/argo-workflows,https://github.com/advisories/GHSA-xrqc-7xgx-c9vh,https://da.gd/qDIKS
+GithubAdvisories,[GHSA-hfv2-pf68-m33x] Umbraco Vulnerable to Improper File Access and Credential Exposure in Dictionary Import Functionality,https://github.com/advisories/GHSA-hfv2-pf68-m33x,https://da.gd/Q9YpK
+GithubAdvisories,[GHSA-8vch-m3f4-q8jf] Elysia affected by arbitrary code injection through cookie config,https://github.com/advisories/GHSA-8vch-m3f4-q8jf,https://da.gd/zanU
+GithubAdvisories,[GHSA-hxj9-33pp-j2cc] Elysia vulnerable to prototype pollution with multiple standalone schema validation,https://github.com/advisories/GHSA-hxj9-33pp-j2cc,https://da.gd/OIcQYl
