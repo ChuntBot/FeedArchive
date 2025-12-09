@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mv7p-34fv-4874] Authentication Bypass via Default JWT Secret in NocoBase docker-compose Deployments,https://github.com/advisories/GHSA-mv7p-34fv-4874,https://da.gd/M2p5b
+GithubAdvisories,[GHSA-644f-hrff-mf96] Duplicate Advisory: Authentication Bypass via Default JWT Secret in NocoBase docker-compose Deployments,https://github.com/advisories/GHSA-644f-hrff-mf96,https://da.gd/aiNKx7
