@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j8r2-47rx-qhw4] Robocode vulnerable to Directory Traversal in recursivelyDelete Method,https://github.com/advisories/GHSA-j8r2-47rx-qhw4,https://da.gd/KgRGgu
+GithubAdvisories,[GHSA-mjcp-gpgx-ggcg] OpenTofu incorrectly validates excluded subdomain constraint in conjunction with TLS certificates containing wildcard SANs,https://github.com/advisories/GHSA-mjcp-gpgx-ggcg,https://da.gd/G0jJ
+GithubAdvisories,[GHSA-4c65-9gqf-4w8h] Cybersecurity AI (CAI) vulnerable to Command Injection in run_ssh_command_with_credentials Agent tool,https://github.com/advisories/GHSA-4c65-9gqf-4w8h,https://da.gd/ByxHe
