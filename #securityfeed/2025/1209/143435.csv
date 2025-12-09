@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5923-r76v-mprm] Open Redirect Vulnerability in Taguette,https://github.com/advisories/GHSA-5923-r76v-mprm,https://da.gd/C5IKqa
+GithubAdvisories,[GHSA-mpmc-qchh-r9q8] Altcha Proof-of-Work obfuscation mode cryptanalytic break,https://github.com/advisories/GHSA-mpmc-qchh-r9q8,https://da.gd/RVueKd
+GithubAdvisories,[GHSA-mg56-wc4q-rw4w] memos vulnerability allows the creation of arbitrary accounts,https://github.com/advisories/GHSA-mg56-wc4q-rw4w,https://da.gd/wCwShn
+GithubAdvisories,[GHSA-qgjp-5g5x-vhq2] memos lacks file name validation or verification,https://github.com/advisories/GHSA-qgjp-5g5x-vhq2,https://da.gd/3us7I
+GithubAdvisories,[GHSA-8p44-g572-557h] memos vulnerability allows arbitrarily modification or deletion of attachments,https://github.com/advisories/GHSA-8p44-g572-557h,https://da.gd/ic5ZKe
+GithubAdvisories,[GHSA-8jcj-g9f4-qx42] memos vulnerability allows arbitrarily reactions deletion,https://github.com/advisories/GHSA-8jcj-g9f4-qx42,https://da.gd/te6eu
+GithubAdvisories,[GHSA-hxp3-63hc-5366] NiceGUI has a path traversal in app.add_media_files() allows arbitrary file read,https://github.com/advisories/GHSA-hxp3-63hc-5366,https://da.gd/6TKAa7
+GithubAdvisories,[GHSA-4rmq-mc2c-r495] Babylon Incorrect FP inactive accounting in costaking creates “phantom stake” that earns rewards after BTC unbond,https://github.com/advisories/GHSA-4rmq-mc2c-r495,https://da.gd/9dXs0
