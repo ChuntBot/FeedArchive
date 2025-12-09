@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubCommitStaging,fix(api): add missing break in CORS switch block causing save to hang…,https://github.com/mailcow/mailcow-dockerized/commit/f8eed8c78698ce492f176641bb75ccbeefd24546,https://da.gd/IIHie
