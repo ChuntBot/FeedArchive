@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2mxr-rc97-xrj2] Robocode has an insecure temporary file creation vulnerability in the AutoExtract component,https://github.com/advisories/GHSA-2mxr-rc97-xrj2,https://da.gd/hjf7M0
+GithubAdvisories,[GHSA-9rwj-6rc7-p77c] LangGraph's SQLite is vulnerable to SQL injection via metadata filter key in SQLite checkpointer list method,https://github.com/advisories/GHSA-9rwj-6rc7-p77c,https://da.gd/tedzVF
+GithubAdvisories,[GHSA-vhrc-hgrq-x75r] @tiptap/extension-link vulnerable to Cross-site Scripting (XSS),https://github.com/advisories/GHSA-vhrc-hgrq-x75r,https://da.gd/o3E7
