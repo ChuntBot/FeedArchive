@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6q37-7866-h27j] Keycloak Admin REST (Representational State Transfer) API does not properly enforce permissions,https://github.com/advisories/GHSA-6q37-7866-h27j,https://da.gd/295lNo
+GithubAdvisories,[GHSA-wqv2-4wpg-8hc9] Miniflux has an Open Redirect via protocol-relative redirect_url,https://github.com/advisories/GHSA-wqv2-4wpg-8hc9,https://da.gd/oV5jw
+GithubAdvisories,[GHSA-8fxj-2g9q-8fjw] Fetch MCP Server has a Server-Side Request Forgery (SSRF) vulnerability,https://github.com/advisories/GHSA-8fxj-2g9q-8fjw,https://da.gd/OyIDP
