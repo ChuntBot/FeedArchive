@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6h2f-wjhf-4wjx] Pyrofork has a Path Traversal in download_media Method,https://github.com/advisories/GHSA-6h2f-wjhf-4wjx,https://da.gd/V8NXct
+GithubAdvisories,[GHSA-8jqm-8qm3-qgqm] Algernon Cross-Site Scripting vulnerability,https://github.com/advisories/GHSA-8jqm-8qm3-qgqm,https://da.gd/cy5iP
+GithubAdvisories,[GHSA-3fm2-hx3h-xm4v] Jenkins HashiCorp Vault Plugin exposes system-scoped Vault credentials,https://github.com/advisories/GHSA-3fm2-hx3h-xm4v,https://da.gd/LaAByK
