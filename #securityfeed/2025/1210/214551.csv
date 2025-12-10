@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mr6f-h57v-rpj5] Improper Validation of Query Parameters in Auth0 Next.js SDK,https://github.com/advisories/GHSA-mr6f-h57v-rpj5,https://da.gd/E7z3L
+GithubAdvisories,[GHSA-j5gq-897m-2rff] Race condition in the Okta Java SDK,https://github.com/advisories/GHSA-j5gq-897m-2rff,https://da.gd/nB8NB0
+GithubAdvisories,[GHSA-wcgj-f865-c7j7] Improper Request Caching Lookup in the Auth0 Next.js SDK,https://github.com/advisories/GHSA-wcgj-f865-c7j7,https://da.gd/QaUnB
+GithubAdvisories,[GHSA-qhr6-6cgv-6638] Improper Memory Cleanup in the Okta Java SDK,https://github.com/advisories/GHSA-qhr6-6cgv-6638,https://da.gd/9FQIN
