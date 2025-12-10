@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qxh4-j39m-qfx4] Jenkins Redpen - Pipeline Reporter for Jira Plugin has a path traversal vulnerability,https://github.com/advisories/GHSA-qxh4-j39m-qfx4,https://da.gd/MAWWF
+GithubAdvisories,[GHSA-v3f3-rf6r-43x5] Jenkins Coverage Plugin has a stored cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-v3f3-rf6r-43x5,https://da.gd/QMiWtG
+GithubAdvisories,[GHSA-hxjg-2jvf-h3rx] Jenkins's build authorization token is stored and displayed in plain text,https://github.com/advisories/GHSA-hxjg-2jvf-h3rx,https://da.gd/ro6Ym
+GithubAdvisories,[GHSA-6837-qgrc-x5p6] Jenkins has a CSRF vulnerability on the login form,https://github.com/advisories/GHSA-6837-qgrc-x5p6,https://da.gd/gI0lB
+GithubAdvisories,[GHSA-v8hg-m323-jvjq] Jenkins Git client Plugin has an OS command injection vulnerability on agents in Git client Plugin,https://github.com/advisories/GHSA-v8hg-m323-jvjq,https://da.gd/prDyrs
+GithubAdvisories,[GHSA-m654-769v-qjv7] Formio improperly authorized permission elevation through specially crafted request path,https://github.com/advisories/GHSA-m654-769v-qjv7,https://da.gd/oCnyo
+GithubAdvisories,[GHSA-fxj7-6v9w-xc76] Jenkins's build authorization token is stored and displayed in plain text,https://github.com/advisories/GHSA-fxj7-6v9w-xc76,https://da.gd/5APBsU
+GithubAdvisories,[GHSA-p3f5-98cv-562j] Jenkins is missing a permission check on password fields,https://github.com/advisories/GHSA-p3f5-98cv-562j,https://da.gd/s0kpGX
+GithubAdvisories,[GHSA-9p56-p6mw-w8qc] Jenkins has a Denial of service vulnerability in HTTP-based CLI,https://github.com/advisories/GHSA-9p56-p6mw-w8qc,https://da.gd/tKevF
+GithubAdvisories,[GHSA-rpr2-4hqj-hc4q] 1Panel contains a cross-site request forgery (CSRF) vulnerability in the Change Username functionality,https://github.com/advisories/GHSA-rpr2-4hqj-hc4q,https://da.gd/Kn4Co
