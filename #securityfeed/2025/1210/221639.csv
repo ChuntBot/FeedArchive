@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5xpq-2vmc-5cqp] 1Panel contains a cross-site request forgery (CSRF) vulnerability in the panel name management functionality,https://github.com/advisories/GHSA-5xpq-2vmc-5cqp,https://da.gd/aio6Ee
+GithubAdvisories,[GHSA-wrvc-x3wf-j5f5] 1Panel contains a cross-site request forgery (CSRF) vulnerability in the web port configuration functionality,https://github.com/advisories/GHSA-wrvc-x3wf-j5f5,https://da.gd/3C8GL
+GithubAdvisories,[GHSA-qwcc-2r77-5w2f] sd changes the group ownership of the source file,https://github.com/advisories/GHSA-qwcc-2r77-5w2f,https://da.gd/oDszbI
