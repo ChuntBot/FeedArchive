@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6hjr-v6g4-3fm8] ImageMagick is vulnerable to an integer Overflow in TIM decoder leading to out of bounds read (32-bit only),https://github.com/advisories/GHSA-6hjr-v6g4-3fm8,https://da.gd/cTSMhD
+GithubAdvisories,[GHSA-9xc6-c2rm-f27p] XWiki vulnerable to remote code execution through insufficient protection against {{/html}} injection,https://github.com/advisories/GHSA-9xc6-c2rm-f27p,https://da.gd/C8IAu
+GithubAdvisories,"[GHSA-cc84-q3v3-mhgf] XWiki's REST APIs don't enforce any limits, leading to unavailability and OOM in large wikis",https://github.com/advisories/GHSA-cc84-q3v3-mhgf,https://da.gd/X5jphz
+GithubAdvisories,[GHSA-7vpr-jm38-wr7w] XWiki vulnerable to a reflected XSS via xredirect parameter in DeleteApplication,https://github.com/advisories/GHSA-7vpr-jm38-wr7w,https://da.gd/hfvxj
