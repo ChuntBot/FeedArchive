@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fw33-qpx7-rhx2] Vulnerability discovered in gardenctl versions < v2.12.0,https://github.com/advisories/GHSA-fw33-qpx7-rhx2,https://da.gd/px3Oo
+GithubAdvisories,[GHSA-g754-hx8w-x2g6] quic-go HTTP/3 QPACK Header Expansion DoS,https://github.com/advisories/GHSA-g754-hx8w-x2g6,https://da.gd/y6367s
