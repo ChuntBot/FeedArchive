@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7v39-2hx7-7c43] Weaviate OSS has a Path Traversal Vulnerability via Backup ZipSlip,https://github.com/advisories/GHSA-7v39-2hx7-7c43,https://da.gd/mmQGJ
+GithubAdvisories,[GHSA-hmmh-292h-3364] Weaviate OSS has path traversal vulnerability via the Shard Movement API,https://github.com/advisories/GHSA-hmmh-292h-3364,https://da.gd/BTWZ9
+GithubAdvisories,[GHSA-55jh-84jv-8mx8] Lightning Flow Scanner Vulnerable to Code Injection via Unsafe Use of `new Function()` in APIVersion Rule,https://github.com/advisories/GHSA-55jh-84jv-8mx8,https://da.gd/VMRMZ3
+GithubAdvisories,[GHSA-3hg2-rh4r-8qf6] Apache StreamPark: Use the user’s password as the secret key Vulnerability,https://github.com/advisories/GHSA-3hg2-rh4r-8qf6,https://da.gd/tCat1d
+GithubAdvisories,[GHSA-4jmp-x7mh-rgmr] Finality Provider vulnerable to anti-slashing bypassing due to misconfiguration,https://github.com/advisories/GHSA-4jmp-x7mh-rgmr,https://da.gd/0sBrv
