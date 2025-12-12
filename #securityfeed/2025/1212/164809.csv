@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q37j-3367-fwv7] Apache HugeGraph-Server: RAFT and deserialization vulnerability,https://github.com/advisories/GHSA-q37j-3367-fwv7,https://da.gd/AekC
+GithubAdvisories,[GHSA-fxmw-jcgr-w44v] pgadmin4 has a Meta-Command Filter Command Execution,https://github.com/advisories/GHSA-fxmw-jcgr-w44v,https://da.gd/x6tS0
+GithubAdvisories,[GHSA-c6m7-q6pr-c64r] Vite Plugin React has a Source Code Exposure Vulnerability in React Server Components,https://github.com/advisories/GHSA-c6m7-q6pr-c64r,https://da.gd/mglP8
+GithubAdvisories,[GHSA-cpqf-f22c-r95x] Vite Plugin React has a Denial of Service Vulnerability in React Server Components,https://github.com/advisories/GHSA-cpqf-f22c-r95x,https://da.gd/8RRU0w
+GithubAdvisories,[GHSA-947q-2xw3-gx9c] FoF Pretty Mail has a server-side template injection vulnerability,https://github.com/advisories/GHSA-947q-2xw3-gx9c,https://da.gd/DlGo7i
+GithubAdvisories,[GHSA-fqq7-h225-8w6h] Skuul School Management System has an Insecure Direct Object Reference (IDOR) Vulnerability in View Fee Invoice,https://github.com/advisories/GHSA-fqq7-h225-8w6h,https://da.gd/oCNSd4
+GithubAdvisories,[GHSA-7gmr-mq3h-m5h9] Denial of Service Vulnerability in React Server Components,https://github.com/advisories/GHSA-7gmr-mq3h-m5h9,https://da.gd/Te4API
