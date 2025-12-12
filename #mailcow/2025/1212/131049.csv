@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommit,Prevent duplicate/plaintext login announcement rendering (#6963),https://github.com/mailcow/mailcow-dockerized/commit/c11ed5dd1e899173500161ebf52e572de42917ca,https://da.gd/Zrnp1K
+GithubCommit,ofelia: revert fixed cron syntax for sa-rules download,https://github.com/mailcow/mailcow-dockerized/commit/e76f5237edcccd8fdcc613e22f9d9b84265459db,https://da.gd/vwS8
+GithubCommit,backup: add image prefetch function to verify latest image is used,https://github.com/mailcow/mailcow-dockerized/commit/d977ddb5017e27f817f09310dcb7056449cb88fd,https://da.gd/dXyBj
+GithubCommit,Merge pull request #6905 from Ashitaka57/6646-pbkdf2-sha512-verify-hash,https://github.com/mailcow/mailcow-dockerized/commit/e8d9315d4ad6ae886b8146f618df1813db546254,https://da.gd/blBxlL
