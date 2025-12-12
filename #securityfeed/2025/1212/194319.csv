@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-749j-2hp6-8cxm] Apache StreamPark uses a Weak Encryption Algorithm,https://github.com/advisories/GHSA-749j-2hp6-8cxm,https://da.gd/PgsA
+GithubAdvisories,[GHSA-prv5-c2px-j9q3] Apache StreamPark has a hard-coded encryption key,https://github.com/advisories/GHSA-prv5-c2px-j9q3,https://da.gd/zNe39
+GithubAdvisories,[GHSA-4jj9-cgqc-x9h5] NeuVector OpenID Connect is vulnerable to man-in-the-middle (MITM),https://github.com/advisories/GHSA-4jj9-cgqc-x9h5,https://da.gd/z18Um
