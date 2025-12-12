@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m5gv-vj3f-6v2p] Liferay Portal and DXP Instance Admin can execute code using Objects Actions and Validations,https://github.com/advisories/GHSA-m5gv-vj3f-6v2p,https://da.gd/J5oMTh
+GithubAdvisories,[GHSA-vx9q-rhv9-3jvg] aircompressor Snappy and LZ4 Java-based decompressor implementation can leak information from reused output buffer,https://github.com/advisories/GHSA-vx9q-rhv9-3jvg,https://da.gd/nf1RZ
