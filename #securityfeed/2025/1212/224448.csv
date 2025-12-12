@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3jp5-5f8r-q2wg] Vuetify has a Prototype Pollution vulnerability,https://github.com/advisories/GHSA-3jp5-5f8r-q2wg,https://da.gd/LoESw
+GithubAdvisories,[GHSA-9w3x-85mw-4fwm] Vuetify has a Cross-site Scripting (XSS) vulnerability in the VDatePicker component,https://github.com/advisories/GHSA-9w3x-85mw-4fwm,https://da.gd/zN3IjL
+GithubAdvisories,[GHSA-x6mh-4w8x-p34v] MineAdmin has an insecure default password,https://github.com/advisories/GHSA-x6mh-4w8x-p34v,https://da.gd/xoXqa
