@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wwrj-3hvj-prpm] Misskey has a login rate limit bypass via spoofed X-Forwarded-For header,https://github.com/advisories/GHSA-wwrj-3hvj-prpm,https://da.gd/ZgbAA6
+GithubAdvisories,[GHSA-496g-mmpw-j9x3] misskey.js's export data contains private post data,https://github.com/advisories/GHSA-496g-mmpw-j9x3,https://da.gd/wYwb
