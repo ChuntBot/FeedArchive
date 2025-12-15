@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-84h7-rjj3-6jx4] Netty has a CRLF Injection vulnerability in io.netty.handler.codec.http.HttpRequestEncoder,https://github.com/advisories/GHSA-84h7-rjj3-6jx4,https://da.gd/obYRdl
