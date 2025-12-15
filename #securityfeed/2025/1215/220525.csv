@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pj86-258h-qrvf] Weblate's over‑permissive webhook endpoint enables mass repository updates and component enumeration,https://github.com/advisories/GHSA-pj86-258h-qrvf,https://da.gd/9je6p
+GithubAdvisories,[GHSA-vr6p-vq2p-6j74] LikeC4 has RCE through vulnerable React and Next.js versions,https://github.com/advisories/GHSA-vr6p-vq2p-6j74,https://da.gd/ZfMYcw
