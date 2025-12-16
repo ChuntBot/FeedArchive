@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pcqx-8qww-7f4v] OpenShift GitOps authenticated attackers can obtain cluster root access through forged ArgoCD custom resources,https://github.com/advisories/GHSA-pcqx-8qww-7f4v,https://da.gd/3py4N3
