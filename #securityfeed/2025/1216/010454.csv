@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r6j8-c6r2-37rr] kube-controller-manager is vulnerable to half-blind Server Side Request Forgery through in-tree Portworx StorageClass,https://github.com/advisories/GHSA-r6j8-c6r2-37rr,https://da.gd/kvCnTK
+GithubAdvisories,[GHSA-3f8c-8h8v-p54h] snail-job is vulnerable to Code Injection through QLExpressEngine.doEval function,https://github.com/advisories/GHSA-3f8c-8h8v-p54h,https://da.gd/btOhJQ
+GithubAdvisories,[GHSA-6gvq-jcmp-8959] ALTCHA Proof-of-Work Vulnerable to Challenge Splicing and Replay,https://github.com/advisories/GHSA-6gvq-jcmp-8959,https://da.gd/QneTN
