@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-75mj-4g74-9rg2] Universal Tool Calling Protocol (UTCP) client library for Python vulnerable to Trust Boundary Violation through Manual JSON specification,https://github.com/advisories/GHSA-75mj-4g74-9rg2,https://da.gd/5YJ92J
+GithubAdvisories,[GHSA-r7v6-mfhq-g3m2] Fickling has Code Injection vulnerability via pty.spawn(),https://github.com/advisories/GHSA-r7v6-mfhq-g3m2,https://da.gd/GK6fdV
+GithubAdvisories,[GHSA-565g-hwwr-4pp3] Fickling has missing detection for marshal.loads and types.FunctionType in unsafe modules list,https://github.com/advisories/GHSA-565g-hwwr-4pp3,https://da.gd/ttSFM
