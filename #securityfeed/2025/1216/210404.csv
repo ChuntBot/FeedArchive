@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w853-jp5j-5j7f] filelock has a TOCTOU race condition which allows symlink attacks during lock file creation,https://github.com/advisories/GHSA-w853-jp5j-5j7f,https://da.gd/484lfw
+GithubAdvisories,[GHSA-r6h4-mm7h-8pmq] PyMdown Extensions has a ReDOS bug in its Figure Capture extension,https://github.com/advisories/GHSA-r6h4-mm7h-8pmq,https://da.gd/JY3Put
+GithubAdvisories,[GHSA-wh6m-h6f4-rjf4] Libredesk has Improper Neutralization of HTML Tags in a Web Page,https://github.com/advisories/GHSA-wh6m-h6f4-rjf4,https://da.gd/admPFM
+GithubAdvisories,[GHSA-cc8c-28gj-px38] Misconfigured Internal Proxy in runtimes-inventory-rhel8-operator Grants Standard Users Full Cluster Administrator Access,https://github.com/advisories/GHSA-cc8c-28gj-px38,https://da.gd/VlFVZ
