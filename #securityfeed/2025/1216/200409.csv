@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-43p4-m455-4f4j] tRPC has possible prototype pollution in `experimental_nextAppDirCaller`,https://github.com/advisories/GHSA-43p4-m455-4f4j,https://da.gd/CevBl
+GithubAdvisories,[GHSA-jhgf-2h8h-ggxv] Parse Server has a Cross-Site Scripting (XSS) vulnerability via Unescaped Mustache Template Variables,https://github.com/advisories/GHSA-jhgf-2h8h-ggxv,https://da.gd/QCaBmq
+GithubAdvisories,[GHSA-8m3c-c723-h4p4] django-allauth's Okta and NetIQ implementations used a mutable identifier for authorization decisions,https://github.com/advisories/GHSA-8m3c-c723-h4p4,https://da.gd/31vqR
