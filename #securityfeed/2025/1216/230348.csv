@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wphj-fx3q-84ch] systeminformation has a Command Injection vulnerability in fsSize() function on Windows,https://github.com/advisories/GHSA-wphj-fx3q-84ch,https://da.gd/cJDG
+GithubAdvisories,[GHSA-3f5f-xgrj-97pf] Parse Server is vulnerable to Server-Side Request Forgery (SSRF) via Instagram OAuth Adapter,https://github.com/advisories/GHSA-3f5f-xgrj-97pf,https://da.gd/0Eoqq
+GithubAdvisories,[GHSA-cfpf-hrx2-8rv6] Expr has Denial of Service via Unbounded Recursion in Builtin Functions,https://github.com/advisories/GHSA-cfpf-hrx2-8rv6,https://da.gd/ina9A
+GithubAdvisories,[GHSA-g239-q96q-x4qm] @vitejs/plugin-rsc has an Arbitrary File Read via `/__vite_rsc_findSourceMapURL` Endpoint,https://github.com/advisories/GHSA-g239-q96q-x4qm,https://da.gd/aJDr
