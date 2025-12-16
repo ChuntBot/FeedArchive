@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c623-f998-8hhv] SIPGO is Vulnerable to Response DoS via Nil Pointer Dereference,https://github.com/advisories/GHSA-c623-f998-8hhv,https://da.gd/dXb31
+GithubAdvisories,[GHSA-x732-6j76-qmhm] Better Auth's rou3 Dependency has Double-Slash Path Normalization which can Bypass disabledPaths Config and Rate Limits,https://github.com/advisories/GHSA-x732-6j76-qmhm,https://da.gd/jsTesg
