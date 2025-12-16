@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fv47-pqh6-wxgq] Apache Airflow exposes secret values to authenticated UI users via rendered templates,https://github.com/advisories/GHSA-fv47-pqh6-wxgq,https://da.gd/bdQTak
