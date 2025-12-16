@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qhmc-3mvr-f2j4] django-allauth does not reject access tokens for inactive users,https://github.com/advisories/GHSA-qhmc-3mvr-f2j4,https://da.gd/oTgz
+GithubAdvisories,[GHSA-v6x3-9r38-r27q] Sequoia PGP has Subtraction Overflow when aes_key_unwrap function is provided ciphertext that is too short,https://github.com/advisories/GHSA-v6x3-9r38-r27q,https://da.gd/f59fX
