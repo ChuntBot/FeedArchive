@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m9gh-789g-q5pv] Elasticsearch PKI Realm Authentication Bypass Vulnerability Allows User Impersonation Through Crafted Client Certificates,https://github.com/advisories/GHSA-m9gh-789g-q5pv,https://da.gd/Hzlz
+GithubAdvisories,[GHSA-x37w-7p52-8f49] Mayan EDMS has an Open Redirect through the /authentication/ file,https://github.com/advisories/GHSA-x37w-7p52-8f49,https://da.gd/8ql1tP
+GithubAdvisories,[GHSA-774q-r975-vqwp] Mayan EDMS is vulnerable to XSS through the /authentication/ file,https://github.com/advisories/GHSA-774q-r975-vqwp,https://da.gd/43gsPw
