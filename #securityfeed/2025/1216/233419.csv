@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vfm5-cr22-jg3m] ABP Account Module has an Open Redirect through Improper validation in its register function,https://github.com/advisories/GHSA-vfm5-cr22-jg3m,https://da.gd/V8z1k
