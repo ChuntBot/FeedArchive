@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-66h8-3g48-6hx8] Apache Airflow Providers Edge3 exposes internal API allowing RCE in web server context,https://github.com/advisories/GHSA-66h8-3g48-6hx8,https://da.gd/RmNp
