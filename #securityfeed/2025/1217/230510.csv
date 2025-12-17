@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j22h-9j4x-23w5] mcp-server-git has missing path validation when using --repository flag,https://github.com/advisories/GHSA-j22h-9j4x-23w5,https://da.gd/R0H2Ca
+GithubAdvisories,[GHSA-9xwc-hfwc-8w59] mcp-server-git argument injection in git_diff and git_checkout functions allows overwriting local files,https://github.com/advisories/GHSA-9xwc-hfwc-8w59,https://da.gd/mhCTYa
+GithubAdvisories,[GHSA-jf5h-xfw4-p8gp] Mattermost GitHub Plugin Bot Identity Validation Bypass Allows Arbitrary GitHub Reaction Injection,https://github.com/advisories/GHSA-jf5h-xfw4-p8gp,https://da.gd/v6o0H
