@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5cgr-j3jf-jw3v] mcp-server-git's unrestricted git_init tool allows repository creation at arbitrary filesystem locations,https://github.com/advisories/GHSA-5cgr-j3jf-jw3v,https://da.gd/uAb5
+GithubAdvisories,[GHSA-mh85-44c2-3m97] Grav is vulnerable to Stored XSS through authenticated user-edited content,https://github.com/advisories/GHSA-mh85-44c2-3m97,https://da.gd/n7IdYD
+GithubAdvisories,[GHSA-729w-j79f-2c34] Grav may be vulnerable to SSRF attack via Twig Templates,https://github.com/advisories/GHSA-729w-j79f-2c34,https://da.gd/SWTkX
