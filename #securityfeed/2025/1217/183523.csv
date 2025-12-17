@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-45h5-66jx-r2wf] MJML allows mj-include directory traversal due to an incomplete fix for CVE-2020-12827,https://github.com/advisories/GHSA-45h5-66jx-r2wf,https://da.gd/bL7U7
