@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vvg7-8rmq-92g7] Auth0 WordPress has Improper Audience Validation via Auth0-PHP SDK Dependency,https://github.com/advisories/GHSA-vvg7-8rmq-92g7,https://da.gd/DSBke7
+GithubAdvisories,[GHSA-f3r2-88mq-9v4g] Auth0 Symfony SDK has Improper Audience Validation via Auth0-PHP SDK,https://github.com/advisories/GHSA-f3r2-88mq-9v4g,https://da.gd/atqsBM
+GithubAdvisories,[GHSA-7hh9-gp72-wh7h] Auth0 Laravel SDK has Improper Audience Validation via Auth0-PHP SDK dependency,https://github.com/advisories/GHSA-7hh9-gp72-wh7h,https://da.gd/6kDNF
+GithubAdvisories,[GHSA-j2vm-wrq3-f7gf] Auth0-PHP SDK has Improper Audience Validation,https://github.com/advisories/GHSA-j2vm-wrq3-f7gf,https://da.gd/mL8CB
