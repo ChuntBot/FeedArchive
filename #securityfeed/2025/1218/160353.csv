@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h4pw-wxh7-4vjj] Duplicate Advisory: python-jose denial of service via compressed JWE content,https://github.com/advisories/GHSA-h4pw-wxh7-4vjj,https://da.gd/eDediX
+GithubAdvisories,[GHSA-x44p-gvrj-pj2r] Amazon S3 Encryption Client for Java has a Key Commitment Issue,https://github.com/advisories/GHSA-x44p-gvrj-pj2r,https://da.gd/5NGFi
+GithubAdvisories,[GHSA-4v42-65r3-3gjx] Amazon S3 Encryption Client for .NET has a Key Commitment Issue,https://github.com/advisories/GHSA-4v42-65r3-3gjx,https://da.gd/b4uI
+GithubAdvisories,[GHSA-w3j8-9p3j-3wjx] Pagekit CMS has an Insecure Direct Object Reference (IDOR) in its User Role component,https://github.com/advisories/GHSA-w3j8-9p3j-3wjx,https://da.gd/UXYUE
+GithubAdvisories,[GHSA-m4f2-xpfq-h97v] Pagekit CMS is vulnerable to OS Command Injection via Storage component,https://github.com/advisories/GHSA-m4f2-xpfq-h97v,https://da.gd/8IZ26Y
+GithubAdvisories,[GHSA-3677-xxcr-wjqv] jose4j is vulnerable to DoS via compressed JWE content,https://github.com/advisories/GHSA-3677-xxcr-wjqv,https://da.gd/tcpx4z
