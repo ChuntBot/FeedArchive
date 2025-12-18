@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8vcg-cfxj-p5m3] Weblate is vulnerable to RCE through Git config file overwrite,https://github.com/advisories/GHSA-8vcg-cfxj-p5m3,https://da.gd/4372B
