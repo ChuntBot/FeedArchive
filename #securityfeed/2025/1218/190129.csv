@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x8cp-jf6f-r4xh] AWS SDK for PHP's S3 Encryption Client has a Key Commitment Issue,https://github.com/advisories/GHSA-x8cp-jf6f-r4xh,https://da.gd/7SR055
+GithubAdvisories,[GHSA-2xgq-q749-89fq] AWS SDK for Ruby's S3 Encryption Client has a Key Commitment Issue,https://github.com/advisories/GHSA-2xgq-q749-89fq,https://da.gd/89Cfc
+GithubAdvisories,[GHSA-3g75-q268-r9r6] Amazon S3 Encryption Client has a Key Commitment Issue,https://github.com/advisories/GHSA-3g75-q268-r9r6,https://da.gd/Dx5U
+GithubAdvisories,[GHSA-8452-54wp-rmv6] Storybook manager bundle may expose environment variables during build,https://github.com/advisories/GHSA-8452-54wp-rmv6,https://da.gd/fslX66
+GithubAdvisories,[GHSA-529f-9qwm-9628] tinacms is vulnerable to arbitrary code execution,https://github.com/advisories/GHSA-529f-9qwm-9628,https://da.gd/BIeym
