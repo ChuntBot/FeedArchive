@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r385-c5fc-x56c] CouchAuth has a Server-Side Template Injection vulnerability in its email functionality,https://github.com/advisories/GHSA-r385-c5fc-x56c,https://da.gd/HxXs
+GithubAdvisories,[GHSA-q66g-q98c-q454] Mattermost has missing redirect URL validation,https://github.com/advisories/GHSA-q66g-q98c-q454,https://da.gd/RBiO1f
