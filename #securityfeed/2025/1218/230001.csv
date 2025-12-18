@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g925-f788-4jh7] Weblate has an arbitrary file read via symbolic links,https://github.com/advisories/GHSA-g925-f788-4jh7,https://da.gd/ialuIk
+GithubAdvisories,[GHSA-f6mr-38g8-39rg] Ollama Platform has missing authentication enabling attackers to perform model management operations,https://github.com/advisories/GHSA-f6mr-38g8-39rg,https://da.gd/dHa3P
+GithubAdvisories,[GHSA-46j5-6fg5-4gv3] Nodemailer is vulnerable to DoS through Uncontrolled Recursion,https://github.com/advisories/GHSA-46j5-6fg5-4gv3,https://da.gd/YK2ND
