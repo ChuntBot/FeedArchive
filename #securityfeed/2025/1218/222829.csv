@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x3vf-39hj-gxr4] Biopython is vulnerable to doctype XML external entity (XXE) injection through Bio.Entrez,https://github.com/advisories/GHSA-x3vf-39hj-gxr4,https://da.gd/jKA1t
+GithubAdvisories,[GHSA-xm59-rqc7-hhvf] nbconvert has an uncontrolled search path that leads to unauthorized code execution on Windows,https://github.com/advisories/GHSA-xm59-rqc7-hhvf,https://da.gd/yNQ5eg
