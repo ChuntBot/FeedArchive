@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5j53-63w8-8625] FastAPI Users Vulnerable to 1-click Account Takeover in Apps Using FastAPI SSO,https://github.com/advisories/GHSA-5j53-63w8-8625,https://da.gd/7HhlA
+GithubAdvisories,[GHSA-hp6r-r9vc-q8wx] FastAPI SSP is vulnerable to Cross-site Request Forgery (CSRF) through improper OAuth parameter validation,https://github.com/advisories/GHSA-hp6r-r9vc-q8wx,https://da.gd/NUZC5i
+GithubAdvisories,[GHSA-gphj-4h6p-37xq] Elasticsearch privileged authenticated users can cause DoS through Excessive Resource Allocation,https://github.com/advisories/GHSA-gphj-4h6p-37xq,https://da.gd/Q4Np0X
+GithubAdvisories,[GHSA-2mj3-6grc-px38] Filebeat Beats has Buffer Overflow via Malformed Syslog Message or Malicious Tokenizer Pattern in Dissect Configuration,https://github.com/advisories/GHSA-2mj3-6grc-px38,https://da.gd/vwJw
