@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vc5p-v9hr-52mj] Apache Log4j does not verify the TLS hostname in its Socket Appender,https://github.com/advisories/GHSA-vc5p-v9hr-52mj,https://da.gd/LYTZq
