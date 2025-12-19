@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v4p2-2w39-mhrj] Apache NiFi GetAsanaObject Processor has Remote Code Execution via Unsafe Deserialization,https://github.com/advisories/GHSA-v4p2-2w39-mhrj,https://da.gd/o2dm0
+GithubAdvisories,[GHSA-24v3-254g-jv85] Tuta Mail has DOM attribute and CSS injection in its Contact Viewer feature,https://github.com/advisories/GHSA-24v3-254g-jv85,https://da.gd/stFax
+GithubAdvisories,[GHSA-4hx9-48xh-5mxr] Keycloak LDAP User Federation provider enables admin-triggered untrusted Java deserialization,https://github.com/advisories/GHSA-4hx9-48xh-5mxr,https://da.gd/767V7
