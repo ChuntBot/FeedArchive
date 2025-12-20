@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42: Chromium High CVE-2025-14765 Out of Bounds Security Risks,https://linuxsecurity.com/advisories/fedora/chromium-fedora-2025-0805619c28-2025-14765,https://da.gd/EQzoo
+LinuxSecurity,Fedora 42: mqttcli Update 0.2.8 Critical Integer Overflow Issues,https://linuxsecurity.com/advisories/fedora/mqttcli-fedora-42-2025-34b0986502-2025-58189,https://da.gd/tJlC1n
+LinuxSecurity,Fedora 42: gosec Security Update 2.22.11 CVE-2025-47910 Cross Origin Issues,https://linuxsecurity.com/advisories/fedora/gosec-fedora-2025-447e38400e-2025-47910,https://da.gd/fB4j9
+LinuxSecurity,Critical Vulnerability in Fedora 42: python-unicodedata2 Arbitrary RCE,https://linuxsecurity.com/advisories/fedora/python-unicodedata2-2025-58e2bb0f1e-2025-66034,https://da.gd/sjXa7
+LinuxSecurity,Ubuntu 24: glyphutils Severe RCE Unrestricted File Access 2025-abcd1234ef,https://linuxsecurity.com/advisories/fedora/fonttools-fedora-42-2025-58e2bb0f1e-2025-66034,https://da.gd/vhsma4
+LinuxSecurity,Fedora 43: Chromium High CVE-2025-14765/14766 Heap Corruption Advisory,https://linuxsecurity.com/advisories/fedora/chromium-fedora-43-2025-cd7567466d-2025-14765,https://da.gd/qfVb5I
