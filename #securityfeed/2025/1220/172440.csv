@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j5vq-62gr-8v3r] Mattermost fails to check Websocket request for proper UTF-8 format potentially crashing Calls plug-in,https://github.com/advisories/GHSA-j5vq-62gr-8v3r,https://da.gd/7CIQN
+GithubAdvisories,[GHSA-gmx5-frv9-9m9f] Mattermost has CSRF vulnerability via Calls Widget page,https://github.com/advisories/GHSA-gmx5-frv9-9m9f,https://da.gd/sOwfUw
