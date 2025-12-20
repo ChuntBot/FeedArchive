@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian: Roundcube Important XSS and Information Leak Fix DSA-6087-1,https://linuxsecurity.com/advisories/debian/roundcube-dsa-6087-1-2025-68460,https://da.gd/ALZznL
+LinuxSecurity,SUSE: MariaDB Important Path Traversal and RCE ID 2025:4493-1,https://linuxsecurity.com/advisories/suse/mariadb-suse-2025-4493-1-2025-13699,https://da.gd/aFv2K
+LinuxSecurity,openSUSE 15.4: Critical CVE-2025-13699 Exploit Path Traversal Issue,https://linuxsecurity.com/advisories/opensuse/mariadb-opensuse-2025-4493-1-2025-13699,https://da.gd/ATz9
+LinuxSecurity,SUSE: libpng16 Important Security Fix Advisory 2025:4494-1,https://linuxsecurity.com/advisories/suse/libpng16-suse-2025-4494-1-2025-64505,https://da.gd/MkkaL
+LinuxSecurity,openSUSE: libpng16 Important Buffer Overflow Vulnerability RHSA-2025:4494-1,https://linuxsecurity.com/advisories/opensuse/libpng16-opensuse-2025-4494-1-2025-64505,https://da.gd/qzol7
