@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-83jg-m2pm-4jxj] Cowrie has a SSRF vulnerability in wget/curl emulation enabling DDoS amplification,https://github.com/advisories/GHSA-83jg-m2pm-4jxj,https://da.gd/Ner2L
+GithubAdvisories,[GHSA-pmjj-h5jm-vxh4] pretix has Broken Access Control Allowing Cross-User File Access via UUID,https://github.com/advisories/GHSA-pmjj-h5jm-vxh4,https://da.gd/xsdJyG
+GithubAdvisories,[GHSA-r2h2-g46h-8mx8] pretix has Broken Access Control Allowing Cross-User File Access via UUID,https://github.com/advisories/GHSA-r2h2-g46h-8mx8,https://da.gd/XaBZU
+GithubAdvisories,[GHSA-fj69-23m4-ccvv] Elasticsearch Packetbeat has Excessive Allocation of Memory and CPU via Malicious IPv4 Fragments,https://github.com/advisories/GHSA-fj69-23m4-ccvv,https://da.gd/Tk5C
+GithubAdvisories,[GHSA-x3r8-2hmh-89f5] Mattermost has an Invite Token Replay Vulnerability via Channel Membership Manipulation,https://github.com/advisories/GHSA-x3r8-2hmh-89f5,https://da.gd/EthbO
