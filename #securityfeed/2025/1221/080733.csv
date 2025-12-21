@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42: uriparser CVE-2025-67899 Fix for Unbounded Recursion Issue,https://linuxsecurity.com/advisories/fedora/uriparser-fedora-2025-bf69e91bda-2025-67899,https://da.gd/WZvIz4
+LinuxSecurity,Fedora 42: util-linux Critical Buffer Overflow CVE-2025-14104 Advisory,https://linuxsecurity.com/advisories/fedora/util-linux-fedora-42-2025-fc18ab1e37-2025-14104,https://da.gd/YGNM
+LinuxSecurity,Fedora 42: Nextcloud XSS Threat Mitigated in 32.0.3 2025-519240c972,https://linuxsecurity.com/advisories/fedora/nextcloud-fedora-42-2025-519240c972-2025-66512,https://da.gd/oiY9
+LinuxSecurity,Fedora 42: Addressing CEF High Security Vulnerabilities CVE-2025-14765,https://linuxsecurity.com/advisories/fedora/cef-fedora-42-2025-7605ca0d7d-2025-14765,https://da.gd/m1PPp
