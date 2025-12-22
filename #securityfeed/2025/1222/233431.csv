@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,openSUSE Leap 15.6: mariadb Important Remote Code Exec CVE-2025-13699,https://linuxsecurity.com/advisories/opensuse/mariadb-opensuse-2025-4502-1-2025-13699,https://da.gd/sc51b
+LinuxSecurity,SUSE: MariaDB Important Path Traversal Remote Code Execution 2025:4502-1,https://linuxsecurity.com/advisories/suse/mariadb-suse-2025-4502-1-2025-13699,https://da.gd/MZ8aQK
+LinuxSecurity,SUSE: qemu Important Denial of Service & Buffer Overflow 2025:21230-1,https://linuxsecurity.com/advisories/suse/qemu-suse-2025-21230-1-2025-11234,https://da.gd/xq4zE
+LinuxSecurity,Oracle Linux 10: Critical Security Update ELSA-2025-23738 CVE-2025-55753,https://linuxsecurity.com/advisories/oracle/mod-md-oracle10-elasticsearch-2025-23738-2025-55753,https://da.gd/OZgEK4
+LinuxSecurity,Oracle Linux 9: git-lfs Important Advisory ELSA-2025-23744 CVE-2025-26625,https://linuxsecurity.com/advisories/oracle/git-lfs-elasticsearch-2025-23744-2025-26625,https://da.gd/XtJh6
+LinuxSecurity,Oracle Linux 9: ELSA-2025-23739 Mod_md Important Remote Access Issue,https://linuxsecurity.com/advisories/oracle/oracle9-mod-md-el-23739-2025-55753,https://da.gd/hlASq
