@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-428g-f7cq-pgp5] Marshmallow has DoS in Schema.load(many),https://github.com/advisories/GHSA-428g-f7cq-pgp5,https://da.gd/6Rj9h
+GithubAdvisories,[GHSA-c4p6-qg4m-9jmr] KEDA has Arbitrary File Read via Insufficient Path Validation in HashiCorp Vault Service Account Credential,https://github.com/advisories/GHSA-c4p6-qg4m-9jmr,https://da.gd/eA5QjG
