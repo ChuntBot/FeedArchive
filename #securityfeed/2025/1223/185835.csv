@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c67j-w6g6-q2cm] LangChain serialization injection vulnerability enables secret extraction in dumps/loads APIs,https://github.com/advisories/GHSA-c67j-w6g6-q2cm,https://da.gd/RIaSDV
+GithubAdvisories,[GHSA-63qm-964q-w2w5] Malware in dotjsenv,https://github.com/advisories/GHSA-63qm-964q-w2w5,https://da.gd/cTbBN
+GithubAdvisories,[GHSA-qqfh-xwc2-gx36] Malware in start-log-backend,https://github.com/advisories/GHSA-qqfh-xwc2-gx36,https://da.gd/u93RFF
+GithubAdvisories,[GHSA-vjg7-9cf4-mpp8] Malware in trial-guard,https://github.com/advisories/GHSA-vjg7-9cf4-mpp8,https://da.gd/GsyMR
+GithubAdvisories,[GHSA-cw4m-2fcc-rpc5] Malware in qxytest1,https://github.com/advisories/GHSA-cw4m-2fcc-rpc5,https://da.gd/5Ghww
+GithubAdvisories,[GHSA-qc6r-xf7q-j45q] Malware in start-log-plugin,https://github.com/advisories/GHSA-qc6r-xf7q-j45q,https://da.gd/0b1Yud
+GithubAdvisories,[GHSA-hvqc-82p3-6gpf] Malware in qxytest,https://github.com/advisories/GHSA-hvqc-82p3-6gpf,https://da.gd/c2pzZ
+GithubAdvisories,[GHSA-cgcm-g6p8-2xxm] Malware in chai-max,https://github.com/advisories/GHSA-cgcm-g6p8-2xxm,https://da.gd/ECAL7K
