@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r399-636x-v7f6] LangChain serialization injection vulnerability enables secret extraction,https://github.com/advisories/GHSA-r399-636x-v7f6,https://da.gd/2zIQd
+GithubAdvisories,[GHSA-qx44-p258-3c2v] Cadmium CMS has a background arbitrary file upload vulnerability,https://github.com/advisories/GHSA-qx44-p258-3c2v,https://da.gd/hq3YF
