@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,SUSE: rsync Moderate Out-of-Bounds Access 2025:4511-1 CVE-2025-10158,https://linuxsecurity.com/advisories/suse/rsync-suse-2025-4511-1-2025-10158,https://da.gd/eQzxO
+LinuxSecurity,openSUSE: Advisory 2025:4511-1 for Moderate rsync OOB Access CVE-2025-10158,https://linuxsecurity.com/advisories/opensuse/rsync-opensuse-2025-4511-1-2025-10158,https://da.gd/4cfcXn
+LinuxSecurity,openSUSE 15.6: mozjs52 Moderate XML DoS Integer Overflow 2025:4512-1,https://linuxsecurity.com/advisories/opensuse/mozjs52-opensuse-2025-4512-1-2024-45490,https://da.gd/HuLf7E
+LinuxSecurity,SUSE: mozjs52 Moderate DoS and Integer Overflow Advisory 2025:4512-1,https://linuxsecurity.com/advisories/suse/mozjs52-suse-2025-4512-1-2024-45490,https://da.gd/1XeTWL
+LinuxSecurity,SUSE: libsoup Important Heap Use-After-Free Issue 2025:4514-1,https://linuxsecurity.com/advisories/suse/libsoup-suse-2025-4514-1-2025-12105,https://da.gd/Fp9ug
+LinuxSecurity,openSUSE Leap 15.4: libsoup Important Heap Use-After-Free CVE-2025-12105,https://linuxsecurity.com/advisories/opensuse/libsoup-opensuse-2025-4514-1-2025-12105,https://da.gd/BGZVI
