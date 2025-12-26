@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7xq4-mwcp-q8fx] Gitea: anonymous user can visit private user's project,https://github.com/advisories/GHSA-7xq4-mwcp-q8fx,https://da.gd/39UA8E
+GithubAdvisories,[GHSA-f85h-c7m6-cfpm] Gitea sometimes mishandles propagation of token scope for access control within one of its own package registries,https://github.com/advisories/GHSA-f85h-c7m6-cfpm,https://da.gd/tdDpJB
+GithubAdvisories,[GHSA-jhx5-4vr4-f327] Gitea inadvertently discloses users' login times by allowing (for example) the lastlogintime explore/users sort order,https://github.com/advisories/GHSA-jhx5-4vr4-f327,https://da.gd/ZVlLe5
+GithubAdvisories,[GHSA-898p-hh3p-hf9r] Gitea allows XSS because the search input box (for creating tags and branches) is v-html instead of v-text,https://github.com/advisories/GHSA-898p-hh3p-hf9r,https://da.gd/NCH1aP
+GithubAdvisories,[GHSA-xfq3-qj7j-4565] Gitea mishandles access to a private resource upon receiving an API token with scope limited to public resources,https://github.com/advisories/GHSA-xfq3-qj7j-4565,https://da.gd/sjLr4c
