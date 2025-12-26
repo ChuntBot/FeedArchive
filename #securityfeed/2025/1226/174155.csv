@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9pf3-7rrr-x5jh] lmdeploy vulnerable to Arbitrary Code Execution via Insecure Deserialization in torch.load(),https://github.com/advisories/GHSA-9pf3-7rrr-x5jh,https://da.gd/uu3xyU
+GithubAdvisories,"[GHSA-58jc-rcg5-95f3] n8n's Possible Stored XSS in ""Respond to Webhook"" Node May Execute Outside iframe Sandbox",https://github.com/advisories/GHSA-58jc-rcg5-95f3,https://da.gd/0q12x
+GithubAdvisories,"[GHSA-wqqv-jcfr-9f5g] PocketMine-MP has improperly handled dye colour IDs in banner NBT, leading to server crash",https://github.com/advisories/GHSA-wqqv-jcfr-9f5g,https://da.gd/Fz1sZS
