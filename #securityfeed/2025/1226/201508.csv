@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6vj3-p34w-xxjp] apidoc-core has a prototype pollution vulnerability,https://github.com/advisories/GHSA-6vj3-p34w-xxjp,https://da.gd/NofNh
+GithubAdvisories,"[GHSA-jv72-59wq-8rxm] libxmljs has segmentation fault, potentially leading to a denial-of-service (DoS)",https://github.com/advisories/GHSA-jv72-59wq-8rxm,https://da.gd/WwZc
+GithubAdvisories,[GHSA-hq57-c72x-4774] Gitea vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-hq57-c72x-4774,https://da.gd/ArdcY
