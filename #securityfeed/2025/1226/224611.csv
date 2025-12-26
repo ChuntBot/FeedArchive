@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 20.04: Django Security Patch DLA-3341-2 CVE-2024-12345,https://linuxsecurity.com/advisories/deblts/rails-dla-4416-1-2025-24293,https://da.gd/JAJxyj
+LinuxSecurity,openSUSE Leap: python39 Moderate DoS Issues SUSE-SU-2025:4522-1,https://linuxsecurity.com/advisories/suse/python39-suse-2025-4522-1-2025-12084,https://da.gd/O3f1
+LinuxSecurity,openSUSE: python39 Moderate Update for Availability DoS Issues 2025:4522-1,https://linuxsecurity.com/advisories/opensuse/python39-opensuse-2025-4522-1-2025-12084,https://da.gd/ryic
+LinuxSecurity,SUSE: qemu Important Security Update CVE-2023-1544 DoS Threat 2025:4523-1,https://linuxsecurity.com/advisories/suse/qemu-suse-2025-4523-1-2023-1544,https://da.gd/NB7ss
