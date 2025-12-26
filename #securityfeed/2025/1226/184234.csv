@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fmqf-pmcm-8cx9] Mattermost doesn't validate user channel membership when attaching Mattermost posts as comments to Jira issues,https://github.com/advisories/GHSA-fmqf-pmcm-8cx9,https://da.gd/1mfINK
+GithubAdvisories,[GHSA-j4p8-h8mh-rh8q] Self-hosted n8n has Legacy Code node that enables arbitrary file read/write,https://github.com/advisories/GHSA-j4p8-h8mh-rh8q,https://da.gd/rZfS6K
+GithubAdvisories,[GHSA-62r4-hw23-cc8v] n8n Vulnerable to Arbitrary Command Execution in Pyodide based Python Code Node,https://github.com/advisories/GHSA-62r4-hw23-cc8v,https://da.gd/1TBP
