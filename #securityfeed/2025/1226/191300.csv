@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rrcw-5rjv-vj26] Gitea doesn't adequately enforce branch deletion permissions after merging a pull request,https://github.com/advisories/GHSA-rrcw-5rjv-vj26,https://da.gd/M1LN0y
+GithubAdvisories,[GHSA-263q-5cv3-xq9g] Gitea allows attackers to add attachments with forbidden file extensions,https://github.com/advisories/GHSA-263q-5cv3-xq9g,https://da.gd/fyYV
+GithubAdvisories,[GHSA-cm54-pfmc-xrwx] Gitea mishandles authorization for deletion of releases,https://github.com/advisories/GHSA-cm54-pfmc-xrwx,https://da.gd/AFdlEY
+GithubAdvisories,[GHSA-9fjq-45qv-pcm7] ruint affected by unsoundness of safe `reciprocal_mg10`,https://github.com/advisories/GHSA-9fjq-45qv-pcm7,https://da.gd/5ScpB4
+GithubAdvisories,[GHSA-vww6-79rv-3j4x] Mattermost doesn't verify that post actions invoking `/share-issue-publicly` were created by the Jira plugin,https://github.com/advisories/GHSA-vww6-79rv-3j4x,https://da.gd/ocHcD1
