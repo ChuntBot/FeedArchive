@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cffc-mxrf-mhh4] Picklescan is vulnerable to RCE via missing detection when calling numpy.f2py.crackfortran.param_eval,https://github.com/advisories/GHSA-cffc-mxrf-mhh4,https://da.gd/HYDwI
