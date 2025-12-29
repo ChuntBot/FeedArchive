@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r8g5-cgf2-4m4m] Picklescan missing detection when calling numpy.f2py.crackfortran.getlincoef,https://github.com/advisories/GHSA-r8g5-cgf2-4m4m,https://da.gd/Qow3Sz
+GithubAdvisories,[GHSA-hgrh-qx5j-jfwx] Picklescan Bypasses Unsafe Globals Check using pty.spawn,https://github.com/advisories/GHSA-hgrh-qx5j-jfwx,https://da.gd/qO4cUd
+GithubAdvisories,[GHSA-vqmv-47xg-9wpr] Picklescan missing detection when calling pty.spawn,https://github.com/advisories/GHSA-vqmv-47xg-9wpr,https://da.gd/lVu2n
+GithubAdvisories,[GHSA-84r2-jw7c-4r5q] Picklescan has Incomplete List of Disallowed Inputs,https://github.com/advisories/GHSA-84r2-jw7c-4r5q,https://da.gd/UFftki
+GithubAdvisories,[GHSA-4675-36f9-wf6r] Picklescan does not block ctypes,https://github.com/advisories/GHSA-4675-36f9-wf6r,https://da.gd/cZsht
+GithubAdvisories,[GHSA-m273-6v24-x4m4] Picklescan vulnerable to Arbitrary File Writing,https://github.com/advisories/GHSA-m273-6v24-x4m4,https://da.gd/BLclY
