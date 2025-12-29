@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vvxf-wj5w-6gj5] hemmelig allows SSRF Filter bypass via Secret Request functionality,https://github.com/advisories/GHSA-vvxf-wj5w-6gj5,https://da.gd/9M8U75
