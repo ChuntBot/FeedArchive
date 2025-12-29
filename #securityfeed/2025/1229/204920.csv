@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-43h9-hc38-qph5] SQLE's JWT Secret Handler can be manipulated to use hard-coded cryptographic key,https://github.com/advisories/GHSA-43h9-hc38-qph5,https://da.gd/wE0E5
