@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jv8r-hv7q-p6vc] phpMyFAQ has Stored XSS in user list via admin-managed display_name,https://github.com/advisories/GHSA-jv8r-hv7q-p6vc,https://da.gd/oEnjxu
