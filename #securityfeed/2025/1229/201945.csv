@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3329-ghmp-jmv5] Picklescan is vulnerable to RCE through missing detection when calling numpy.f2py.crackfortran.myeval,https://github.com/advisories/GHSA-3329-ghmp-jmv5,https://da.gd/bapkdf
+GithubAdvisories,[GHSA-x843-g5mx-g377] Picklescan is vulnerable to RCE through missing detection when calling built-in python operator.methodcaller,https://github.com/advisories/GHSA-x843-g5mx-g377,https://da.gd/enctNR
