@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7rvh-xqp3-pr8j] ImageMagick's failure to limit MVG mutual causes Stack Overflow,https://github.com/advisories/GHSA-7rvh-xqp3-pr8j,https://da.gd/MLJL4
+GithubAdvisories,[GHSA-h956-rh7x-ppgj] RustFS has a gRPC Hardcoded Token Authentication Bypass,https://github.com/advisories/GHSA-h956-rh7x-ppgj,https://da.gd/qAm8
+GithubAdvisories,[GHSA-p27m-hp98-6637] ImageMagick's failure to limit the depth of SVG file reads caused a DoS attack,https://github.com/advisories/GHSA-p27m-hp98-6637,https://da.gd/Hus79S
