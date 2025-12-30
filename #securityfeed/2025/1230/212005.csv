@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j4pr-3wm6-xx2r] URI Credential Leakage Bypass over CVE-2025-27221,https://github.com/advisories/GHSA-j4pr-3wm6-xx2r,https://da.gd/A6zntf
+GithubAdvisories,[GHSA-6rw7-vpxm-498p] qs's arrayLimit bypass in its bracket notation allows DoS via memory exhaustion,https://github.com/advisories/GHSA-6rw7-vpxm-498p,https://da.gd/GGgRY9
+GithubAdvisories,[GHSA-2267-xqcf-gw2m] FacturaScripts is Vulnerable to Stored Cross-Site Scripting (XSS) via XML File Upload,https://github.com/advisories/GHSA-2267-xqcf-gw2m,https://da.gd/qdGmU
