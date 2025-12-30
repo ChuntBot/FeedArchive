@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6mp4-q625-mxjp] YOURLS is vulnerable to XSS through JSONP and Callback request parameters,https://github.com/advisories/GHSA-6mp4-q625-mxjp,https://da.gd/basjW
+GithubAdvisories,[GHSA-xphh-5v4r-r3rx] PsiTransfer has Zip Slip Path Traversal via TAR Archive Download,https://github.com/advisories/GHSA-xphh-5v4r-r3rx,https://da.gd/TCXy1
