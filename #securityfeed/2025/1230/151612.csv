@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mgr9-6c2j-jxrq] Pterodactyl has a Reflected XSS vulnerability in “Create New Database Host”,https://github.com/advisories/GHSA-mgr9-6c2j-jxrq,https://da.gd/339kG
