@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-95qg-89c2-w5hj] theshit vulnerable to unsafe loading of user-owned Python rules when running as root,https://github.com/advisories/GHSA-95qg-89c2-w5hj,https://da.gd/oGCVb
