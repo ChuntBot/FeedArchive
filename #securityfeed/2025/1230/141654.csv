@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+LinuxSecurity,SUSE: libpng16 Moderate Buffer Overflow and Over-Read Issues 2025:4533-1,https://linuxsecurity.com/advisories/suse/libpng16-suse-2025-4533-1-2025-64505,https://da.gd/QG3QYz
+LinuxSecurity,openSUSE: Critical DPDK22 Denial Of Service Vulnerability CVE-2025-23259,https://linuxsecurity.com/advisories/opensuse/dpdk22-opensuse-2025-4534-1-2025-23259,https://da.gd/xSFf1
+LinuxSecurity,SUSE: Important Denial of Service Issue in DPDK22 Resolved CVE-2025-23259,https://linuxsecurity.com/advisories/suse/dpdk22-suse-2025-4534-1-2025-23259,https://da.gd/cHzI8
