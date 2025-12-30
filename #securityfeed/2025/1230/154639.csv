@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x4m5-4cw8-vc44] axios-cache-interceptor Vulnerable to Cache Poisoning via Ignored HTTP Vary Header,https://github.com/advisories/GHSA-x4m5-4cw8-vc44,https://da.gd/ji6mz
+GithubAdvisories,[GHSA-8wpr-639p-ccrj] Nest has a Fastify URL Encoding Middleware Bypass (TOCTOU),https://github.com/advisories/GHSA-8wpr-639p-ccrj,https://da.gd/g1GSd
+GithubAdvisories,[GHSA-9cg9-4h4f-j6fg] phpMyFAQ has unauthenticated config backup download via /api/setup/backup,https://github.com/advisories/GHSA-9cg9-4h4f-j6fg,https://da.gd/VsUVBW
+GithubAdvisories,[GHSA-955r-x9j8-7rhh] Picklescan is vulnerable to RCE via missing detection when calling built-in python _operator.methodcaller,https://github.com/advisories/GHSA-955r-x9j8-7rhh,https://da.gd/OjBvm
+GithubAdvisories,[GHSA-46h3-79wf-xr6c] Picklescan is vulnerable to RCE via missing detection when calling built-in python _operator.attrgetter,https://github.com/advisories/GHSA-46h3-79wf-xr6c,https://da.gd/XiEiIo
+GithubAdvisories,[GHSA-6556-fwc2-fg2p] Picklescan is vulnerable to RCE through missing detection when calling numpy.f2py.crackfortran._eval_length,https://github.com/advisories/GHSA-6556-fwc2-fg2p,https://da.gd/Oe8fd
+GithubAdvisories,[GHSA-rrxm-2pvv-m66x] Picklescan is vulnerable to RCE via missing detection when calling numpy.f2py.crackfortran.getlincoef,https://github.com/advisories/GHSA-rrxm-2pvv-m66x,https://da.gd/sTrG3d
