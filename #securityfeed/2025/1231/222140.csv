@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p2gr-hm8g-q772] Temporal has a namespace policy bypass allowing requests to be authorized for incorrect contexts,https://github.com/advisories/GHSA-p2gr-hm8g-q772,https://da.gd/Wp8U
+GithubAdvisories,[GHSA-g9jg-w8vm-g96v] Trix has a stored XSS vulnerability through its attachment attribute,https://github.com/advisories/GHSA-g9jg-w8vm-g96v,https://da.gd/TNei7s
+GithubAdvisories,[GHSA-rwc2-f344-q6w6] serverless MCP Server vulnerable to Command Injection in list-projects tool,https://github.com/advisories/GHSA-rwc2-f344-q6w6,https://da.gd/f4ig
+GithubAdvisories,[GHSA-fjmr-7667-8v4p] Visual Studio Code Go extension has unexpected untrusted code execution,https://github.com/advisories/GHSA-fjmr-7667-8v4p,https://da.gd/MZFXq
+GithubAdvisories,[GHSA-wcj4-jw5j-44wh] CBORDecoder reuse can leak shareable values across decode calls,https://github.com/advisories/GHSA-wcj4-jw5j-44wh,https://da.gd/LEdVDk
