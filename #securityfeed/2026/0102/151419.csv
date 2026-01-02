@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w3x5-7c4c-66p9] Signal K Server has Unauthenticated State Pollution leading to Remote Code Execution (RCE),https://github.com/advisories/GHSA-w3x5-7c4c-66p9,https://da.gd/wQUP3M
