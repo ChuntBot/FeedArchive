@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qvmc-92vg-6r35] Mattermost with Jira plugin enabled has Incorrect Implementation of Authentication Algorithm,https://github.com/advisories/GHSA-qvmc-92vg-6r35,https://da.gd/ZZ3mDK
+GithubAdvisories,[GHSA-fq56-hvg6-wvm5] Signal K Server vulnerable to JWT Token Theft via WebSocket Enumeration and Unauthenticated Polling,https://github.com/advisories/GHSA-fq56-hvg6-wvm5,https://da.gd/mOKeq
+GithubAdvisories,[GHSA-vfrf-vcj7-wvr8] Signal K Server Vulnerable to Access Request Spoofing,https://github.com/advisories/GHSA-vfrf-vcj7-wvr8,https://da.gd/9UTLmO
+GithubAdvisories,[GHSA-93jc-vqqc-vvvh] Signal K Server Vulnerable to Remote Code Execution via Malicious npm Package,https://github.com/advisories/GHSA-93jc-vqqc-vvvh,https://da.gd/yt5RX3
+GithubAdvisories,[GHSA-fpf5-w967-rr2m] Signal K Server Vulnerable to Unauthenticated Information Disclosure via Exposed Endpoints,https://github.com/advisories/GHSA-fpf5-w967-rr2m,https://da.gd/i69PNn
+GithubAdvisories,[GHSA-7rqc-ff8m-7j23] Signal K Server Vulnerable to Denial of Service via Unrestricted Access Request Flooding,https://github.com/advisories/GHSA-7rqc-ff8m-7j23,https://da.gd/y3gts2
