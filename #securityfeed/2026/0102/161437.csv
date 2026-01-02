@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-34wm-4hw7-qfjv] Feast vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-34wm-4hw7-qfjv,https://da.gd/w2wZq
+GithubAdvisories,[GHSA-pc73-rj2c-wvf9] Gitea's /api/v1/user endpoint has different responses for failed authentication depending on whether a username exists,https://github.com/advisories/GHSA-pc73-rj2c-wvf9,https://da.gd/3bDulE
+GithubAdvisories,[GHSA-x2v3-9p22-w3x6] phpMyFAQ contains a CSV injection vulnerability,https://github.com/advisories/GHSA-x2v3-9p22-w3x6,https://da.gd/selpW
+GithubAdvisories,[GHSA-hmhp-gh8m-c8xp] Temporal has an Incorrect Authorization vulnerability,https://github.com/advisories/GHSA-hmhp-gh8m-c8xp,https://da.gd/ylyLx
