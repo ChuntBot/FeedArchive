@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p4f6-h8jj-vfvf] Duplicate Advisory: Reflected XSS in go-httpbin due to unrestricted client control over Content-Type,https://github.com/advisories/GHSA-p4f6-h8jj-vfvf,https://da.gd/2Dc1R
