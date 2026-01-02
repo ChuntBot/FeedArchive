@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5j4h-4f72-qpm6] Bagisto has Normal & Blind SSTI from low-privilege user when ordering product,https://github.com/advisories/GHSA-5j4h-4f72-qpm6,https://da.gd/RB69i6
