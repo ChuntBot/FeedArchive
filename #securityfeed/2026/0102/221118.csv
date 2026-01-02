@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9hvg-qw5q-wqwp] Bagisto SSTI vulnerability in type parameter can lead to RCE,https://github.com/advisories/GHSA-9hvg-qw5q-wqwp,https://da.gd/Tyoy1Y
