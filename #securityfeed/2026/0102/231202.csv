@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jmr4-p576-v565] listmonk Vulnerable to Stored XSS Leading to Admin Account Takeover,https://github.com/advisories/GHSA-jmr4-p576-v565,https://da.gd/2h3XsB
+GithubAdvisories,[GHSA-mqhg-v22x-pqj8] Bagisto is vulnerable to SSTI via name parameters provided by non-admin low-privilege users,https://github.com/advisories/GHSA-mqhg-v22x-pqj8,https://da.gd/p1yl9w
+GithubAdvisories,[GHSA-x5rw-qvvp-5cgm] Bagisto has IDOR in Customer Order Reorder Functionality,https://github.com/advisories/GHSA-x5rw-qvvp-5cgm,https://da.gd/nF6gWh
