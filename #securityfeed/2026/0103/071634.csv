@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42: USD CVE-2025-14439 Moderate Backport Fix for RCE 2025-2e7d5d49f2,https://linuxsecurity.com/advisories/fedora/usd-fedora-42-2025-2e7d5d49f2-2025-14439,https://da.gd/noxHV
+LinuxSecurity,Fedora 43: nginx-mod-brotli Critical Memory Disclosure CVE-2025-53859,https://linuxsecurity.com/advisories/fedora/nginx-mod-brotli-fedora-2025-2025-53859,https://da.gd/KVv2qc
+LinuxSecurity,Fedora 43: nginx-mod-fancyindex Important Memory Disclosure CVE-2025-53859,https://linuxsecurity.com/advisories/fedora/nginx-mod-fancyindex-fedora-43-2025-53859,https://da.gd/Cp0Nfz
+LinuxSecurity,Fedora 43: nginx-mod-modsecurity Critical Memory Disclosure CVE-2025-53859,https://linuxsecurity.com/advisories/fedora/nginx-modsecurity-fedora-43-2025-53859,https://da.gd/rsXn3
+LinuxSecurity,Fedora 43: Nginx Important Memory Disclosure CVE-2025-53859,https://linuxsecurity.com/advisories/fedora/nginx-fedora-43-2025-8aa169ea14-2025-53859,https://da.gd/XQBD8
+LinuxSecurity,Fedora 43: nginx-mod-vts Critical Memory Leak Vulnerability CVE-2025-53860,https://linuxsecurity.com/advisories/fedora/nginx-mod-vts-fedora-43-2025-2025-53859,https://da.gd/9X4Z
