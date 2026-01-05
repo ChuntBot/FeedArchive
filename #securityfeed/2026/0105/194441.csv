@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6mw6-mj76-grwc] gix-date can create non-utf8 string with `TimeBuf::as_str`,https://github.com/advisories/GHSA-6mw6-mj76-grwc,https://da.gd/uf50U
+GithubAdvisories,[GHSA-hjr9-wj7v-7hv8] Sliver Vulnerable to Pre-Auth Memory Exhaustion via NoEncoder Bypass,https://github.com/advisories/GHSA-hjr9-wj7v-7hv8,https://da.gd/dVmJO
+GithubAdvisories,[GHSA-wjpc-4f29-83h3] badkeys vulnerable to ASCII control character injection on console via malformed input,https://github.com/advisories/GHSA-wjpc-4f29-83h3,https://da.gd/5hKGv
