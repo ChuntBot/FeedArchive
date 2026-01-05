@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fh55-r93g-j68g] AIOHTTP Vulnerable to Cookie Parser Warning Storm,https://github.com/advisories/GHSA-fh55-r93g-j68g,https://da.gd/jjlM
+GithubAdvisories,[GHSA-g84x-mcqj-x9qq] AIOHTTP vulnerable to DoS through chunked messages,https://github.com/advisories/GHSA-g84x-mcqj-x9qq,https://da.gd/94TKgd
+GithubAdvisories,[GHSA-829q-m3qg-ph8r] Vega XSS via expression abusing vlSelectionTuples function array map calls in environments with satisfactory function gadgets in the global scope,https://github.com/advisories/GHSA-829q-m3qg-ph8r,https://da.gd/x9GXx
+GithubAdvisories,[GHSA-6jhg-hg63-jvvf] AIOHTTP vulnerable to denial of service through large payloads,https://github.com/advisories/GHSA-6jhg-hg63-jvvf,https://da.gd/E0qj
+GithubAdvisories,[GHSA-jj3x-wxrx-4x23] AIOHTTP vulnerable to DoS when bypassing asserts,https://github.com/advisories/GHSA-jj3x-wxrx-4x23,https://da.gd/48cKq1
+GithubAdvisories,[GHSA-54jq-c3m8-4m76] AIOHTTP vulnerable to brute-force leak of internal static ﬁle path components,https://github.com/advisories/GHSA-54jq-c3m8-4m76,https://da.gd/S8hcq
+GithubAdvisories,[GHSA-mqqc-3gqh-h2x8] AIOHTTP has unicode match groups in regexes for ASCII protocol elements,https://github.com/advisories/GHSA-mqqc-3gqh-h2x8,https://da.gd/ryIj
+GithubAdvisories,[GHSA-69f9-5gxw-wvc2] AIOHTTP's unicode processing of header values could cause parsing discrepancies,https://github.com/advisories/GHSA-69f9-5gxw-wvc2,https://da.gd/MyJ5AT
+GithubAdvisories,[GHSA-6mq8-rvhq-8wgg] AIOHTTP's HTTP Parser auto_decompress feature is vulnerable to zip bomb,https://github.com/advisories/GHSA-6mq8-rvhq-8wgg,https://da.gd/ciZtR
+GithubAdvisories,[GHSA-m9rg-mr6g-75gm] `vega-functions` vulnerable to Cross-site Scripting via `setdata` function,https://github.com/advisories/GHSA-m9rg-mr6g-75gm,https://da.gd/IuxO9
+GithubAdvisories,[GHSA-vrjc-q2fh-6x9h] Spinnaker vulnerable to SSRF due to improper restrictions on http from user input,https://github.com/advisories/GHSA-vrjc-q2fh-6x9h,https://da.gd/jrfu
