@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-255j-qw47-wjh5] Craft CMS vulnerable to potential authenticated Remote Code Execution via malicious attached Behavior,https://github.com/advisories/GHSA-255j-qw47-wjh5,https://da.gd/UpgC1
+GithubAdvisories,[GHSA-v64r-7wg9-23pr] Unauthenticated Craft CMS users can trigger a database backup,https://github.com/advisories/GHSA-v64r-7wg9-23pr,https://da.gd/iBTb
