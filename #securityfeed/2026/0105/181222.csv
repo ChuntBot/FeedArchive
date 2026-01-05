@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-742x-x762-7383] Craft CMS vulnerable to potential authenticated Remote Code Execution via Twig SSTI,https://github.com/advisories/GHSA-742x-x762-7383,https://da.gd/xczGR
+GithubAdvisories,[GHSA-x27p-wfqw-hfcc] Craft CMS vulnerable to Server-Side Request Forgery (SSRF) via GraphQL Asset Upload Mutation,https://github.com/advisories/GHSA-x27p-wfqw-hfcc,https://da.gd/otHHt
+GithubAdvisories,[GHSA-53vf-c43h-j2x9] Craft CMS vulnerable to potential information disclosure via unchecked asset relocation,https://github.com/advisories/GHSA-53vf-c43h-j2x9,https://da.gd/L2BCe
