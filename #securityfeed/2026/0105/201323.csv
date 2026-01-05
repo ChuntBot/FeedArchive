@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-824x-88xg-cwrv] Redaxo has Path Traversal in Backup Addon Leading to Arbitrary File Read,https://github.com/advisories/GHSA-824x-88xg-cwrv,https://da.gd/zlXZ
+GithubAdvisories,"[GHSA-hqf9-8xv5-x8xw] ERC7984ERC20Wrapper: once a wrapper is filled, subsequent wrap requests do not revert and result in loss of funds",https://github.com/advisories/GHSA-hqf9-8xv5-x8xw,https://da.gd/2YFMtV
+GithubAdvisories,[GHSA-f8r6-6222-9pvc] Apache Kyuubi Server vulnerable to Path Traversal,https://github.com/advisories/GHSA-f8r6-6222-9pvc,https://da.gd/w2Et
+GithubAdvisories,[GHSA-7wwv-79xw-rvvg] Vaadin vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-7wwv-79xw-rvvg,https://da.gd/88H35
