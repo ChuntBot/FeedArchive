@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x6mw-hf2j-vqpc] Mattermost Server is vulnerable to channel invisibility DoS via misformatted post,https://github.com/advisories/GHSA-x6mw-hf2j-vqpc,https://da.gd/hMZmv
