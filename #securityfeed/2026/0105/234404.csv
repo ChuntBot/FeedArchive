@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-vp8w-wj4m-3r7j] evershop allows unauthenticated attackers to force server to initiate HTTP request via ""GET /images"" API",https://github.com/advisories/GHSA-vp8w-wj4m-3r7j,https://da.gd/vNFjk
+GithubAdvisories,"[GHSA-m2q5-xhqg-92r2] evershop allows unauthenticated attackers to exhaust application server's resources via ""GET /images"" API",https://github.com/advisories/GHSA-m2q5-xhqg-92r2,https://da.gd/sist
+GithubAdvisories,[GHSA-jqmr-2pg9-vfx7] Apache SIS has Improper Restriction of XML External Entity Reference vulnerability,https://github.com/advisories/GHSA-jqmr-2pg9-vfx7,https://da.gd/b4PHtx
