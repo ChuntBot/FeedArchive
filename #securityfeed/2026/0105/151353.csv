@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4c5f-9mj4-m247] flagd: Multiple Go Runtime CVEs Impact Security and Availability,https://github.com/advisories/GHSA-4c5f-9mj4-m247,https://da.gd/6Z62s
+GithubAdvisories,[GHSA-5mqx-rpxv-mvxj] HashiCorp Nomad is vulnerable to path escape through archive unpacking during migration,https://github.com/advisories/GHSA-5mqx-rpxv-mvxj,https://da.gd/QkhmV
+GithubAdvisories,[GHSA-cw39-r4h6-8j3x] MessagePack for Java Vulnerable to Remote DoS via Malicious EXT Payload Allocation,https://github.com/advisories/GHSA-cw39-r4h6-8j3x,https://da.gd/4gmfv
