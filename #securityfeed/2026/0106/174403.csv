@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9rg3-9pvr-6p27] MONAI has Path Traversal (Zip Slip) in NGC Private Bundle Download,https://github.com/advisories/GHSA-9rg3-9pvr-6p27,https://da.gd/lyCqrE
+GithubAdvisories,[GHSA-rgmp-4873-r683] Pterodactyl TOTPs can be reused during validity window,https://github.com/advisories/GHSA-rgmp-4873-r683,https://da.gd/B5FRAS
+GithubAdvisories,[GHSA-8c39-xppg-479c] Pterodactyl does not revoke SFTP access when server is deleted or permissions reduced,https://github.com/advisories/GHSA-8c39-xppg-479c,https://da.gd/mTkC8
