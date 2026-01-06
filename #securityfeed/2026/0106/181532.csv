@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9c48-w39g-hm26] rsa crate has potential panic on a prime being equal to 1,https://github.com/advisories/GHSA-9c48-w39g-hm26,https://da.gd/58m7qW
+GithubAdvisories,[GHSA-f2mf-q878-gh58] Parsl Monitoring Visualization Vulnerable to SQL Injection,https://github.com/advisories/GHSA-f2mf-q878-gh58,https://da.gd/Z0lwfK
+GithubAdvisories,[GHSA-gg4x-fgg2-h9w9] Bypassing Kyverno Policies via Double Policy Exceptions,https://github.com/advisories/GHSA-gg4x-fgg2-h9w9,https://da.gd/S4FWR
+GithubAdvisories,[GHSA-793v-589g-574v] Bokeh server applications have Incomplete Origin Validation in WebSockets,https://github.com/advisories/GHSA-793v-589g-574v,https://da.gd/IZUlN5
+GithubAdvisories,[GHSA-v364-rw7m-3263] n8n Vulnerable to RCE via Arbitrary File Write,https://github.com/advisories/GHSA-v364-rw7m-3263,https://da.gd/VoQcl
+GithubAdvisories,[GHSA-8v65-47jx-7mfr] Mailpit Proxy Endpoint has Server-Side Request Forgery (SSRF) vulnerability,https://github.com/advisories/GHSA-8v65-47jx-7mfr,https://da.gd/1Sla
