@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pq29-69jg-9mxc] RustFS Path Traversal Vulnerability,https://github.com/advisories/GHSA-pq29-69jg-9mxc,https://da.gd/WaMkz6
+GithubAdvisories,[GHSA-5rfx-cp42-p624] Quarkus REST has potential worker thread starvation when HTTP connection is closed while waiting to write,https://github.com/advisories/GHSA-5rfx-cp42-p624,https://da.gd/M9AfW
