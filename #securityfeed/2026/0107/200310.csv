@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6fg3-hvw7-2fwq] Microsoft Playwright MCP Server vulnerable to DNS Rebinding Attack; Allows Attackers Access to All Server Tools,https://github.com/advisories/GHSA-6fg3-hvw7-2fwq,https://da.gd/bExtn
