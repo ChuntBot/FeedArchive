@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5f29-2333-h9c7] OpenMetadata's Server-Side Template Injection (SSTI) in FreeMarker email templates leads to RCE,https://github.com/advisories/GHSA-5f29-2333-h9c7,https://da.gd/1Y7WT
+GithubAdvisories,[GHSA-rwp9-5g7q-73q3] OpenFlagr contains an authentication bypass vulnerability in the HTTP middleware,https://github.com/advisories/GHSA-rwp9-5g7q-73q3,https://da.gd/5Mqx8
+GithubAdvisories,[GHSA-6rcw-ww3x-xqwm] carbone Code Injection vulnerability,https://github.com/advisories/GHSA-6rcw-ww3x-xqwm,https://da.gd/30aE8b
+GithubAdvisories,[GHSA-ch7p-mpv4-4vg4] CoreShop Vulnerable to SQL Injection via Admin Reports,https://github.com/advisories/GHSA-ch7p-mpv4-4vg4,https://da.gd/eycyJr
+GithubAdvisories,[GHSA-rvjx-cfjh-5mc9] loggingredactor converts non-string types to string types in logs,https://github.com/advisories/GHSA-rvjx-cfjh-5mc9,https://da.gd/e81LRs
+GithubAdvisories,[GHSA-36hm-qxxp-pg3m] Preact has JSON VNode Injection issue,https://github.com/advisories/GHSA-36hm-qxxp-pg3m,https://da.gd/KkdkI
+GithubAdvisories,[GHSA-jf52-3f2h-h9j5] n8n's Missing Stripe-Signature Verification Allows Unauthenticated Forged Webhooks,https://github.com/advisories/GHSA-jf52-3f2h-h9j5,https://da.gd/FeEVkY
+GithubAdvisories,[GHSA-xwh2-742g-w3wp] Miniflux Media Proxy SSRF via /proxy endpoint allows access to internal network resources,https://github.com/advisories/GHSA-xwh2-742g-w3wp,https://da.gd/ahMhT
+GithubAdvisories,[GHSA-v4pr-fm98-w9pg] n8n Vulnerable to Unauthenticated File Access via Improper Webhook Request Handling,https://github.com/advisories/GHSA-v4pr-fm98-w9pg,https://da.gd/lXQujl
+GithubAdvisories,[GHSA-38jv-5279-wg99] Decompression-bomb safeguards bypassed when following HTTP redirects (streaming API),https://github.com/advisories/GHSA-38jv-5279-wg99,https://da.gd/IFf8Gc
+GithubAdvisories,"[GHSA-379q-355j-w6rj] pnpm v10+ Bypass ""Dependency lifecycle scripts execution disabled by default""",https://github.com/advisories/GHSA-379q-355j-w6rj,https://da.gd/8ssvxp
+GithubAdvisories,[GHSA-7vhp-vf5g-r2fw] pnpm Has Lockfile Integrity Bypass that Allows Remote Dynamic Dependencies,https://github.com/advisories/GHSA-7vhp-vf5g-r2fw,https://da.gd/HfIuh
