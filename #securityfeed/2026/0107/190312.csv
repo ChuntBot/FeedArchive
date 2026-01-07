@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2phv-j68v-wwqx] pnpm vulnerable to Command Injection via environment variable substitution,https://github.com/advisories/GHSA-2phv-j68v-wwqx,https://da.gd/bFtWT1
+GithubAdvisories,[GHSA-gw2x-q739-qhcr] RustFS gRPC GetMetrics deserialization panic enables remote DoS,https://github.com/advisories/GHSA-gw2x-q739-qhcr,https://da.gd/uUKk8
