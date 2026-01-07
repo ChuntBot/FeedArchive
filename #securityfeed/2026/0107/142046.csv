@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,SUSE: QEMU Important Security Update Due to Buffer Overflows 2026:0043-1,https://linuxsecurity.com/advisories/suse/qemu-suse-2026-0043-1-2023-1544,https://da.gd/R55jn
+LinuxSecurity,openSUSE: QEMU Important Buffer Overflow Crashes SUSE-SU-2026:0043-1,https://linuxsecurity.com/advisories/opensuse/qemu-opensuse-2026-0043-1-2023-1544,https://da.gd/sb01QR
+LinuxSecurity,SUSE: mozjs60 Important Security Update Addressing Embedded Expat Issues,https://linuxsecurity.com/advisories/suse/mozjs60-suse-2026-0044-1-2024-45490,https://da.gd/jibF7G
+LinuxSecurity,openSUSE: mozjs60 Moderate Security Fix CVE-2024-45490 2026:0044-1,https://linuxsecurity.com/advisories/opensuse/mozjs60-opensuse-2026-0044-1-2024-45490,https://da.gd/U8WQJ
+LinuxSecurity,Mageia 9: isodumper Important Bugfix Issues MGAA-2026-0003,https://linuxsecurity.com/advisories/mageia/isodumper-mageia-2026-0003-1767766404,https://da.gd/B9OdD
+LinuxSecurity,Mageia 9: sddm-theme-sunset Horizon Update MGAA-2026-0003,https://linuxsecurity.com/advisories/mageia/sddm-theme-coffee-ng-mageia-2026-0002-1767766407,https://da.gd/rezu7e
