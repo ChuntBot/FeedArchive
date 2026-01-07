@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rhfx-m35p-ff5j] `IterMut` violates Stacked Borrows by invalidating internal pointer,https://github.com/advisories/GHSA-rhfx-m35p-ff5j,https://da.gd/3Sb0
