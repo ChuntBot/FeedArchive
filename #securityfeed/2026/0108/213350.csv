@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9xg7-mwmp-xmjx] Ghost has Staff Token permission bypass,https://github.com/advisories/GHSA-9xg7-mwmp-xmjx,https://da.gd/rQOd7h
+GithubAdvisories,[GHSA-5fp7-g646-ccf4] Ghost has Staff 2FA bypass,https://github.com/advisories/GHSA-5fp7-g646-ccf4,https://da.gd/Riio
+GithubAdvisories,[GHSA-3ghg-3787-w2xr] Spree API has Unauthenticated IDOR - Guest Address,https://github.com/advisories/GHSA-3ghg-3787-w2xr,https://da.gd/iQA3dr
+GithubAdvisories,[GHSA-g268-72p7-9j6j] Spree API has Authenticated Insecure Direct Object Reference (IDOR) via Order Modification,https://github.com/advisories/GHSA-g268-72p7-9j6j,https://da.gd/24p3mb
+GithubAdvisories,[GHSA-rjf8-2wcw-f6mp] Salvo is vulnerable to reflected XSS in the list_html function,https://github.com/advisories/GHSA-rjf8-2wcw-f6mp,https://da.gd/tENJ
+GithubAdvisories,[GHSA-54m3-5fxr-2f3j] Salvo is vulnerable to stored XSS in the list_html function by uploading files with malicious names,https://github.com/advisories/GHSA-54m3-5fxr-2f3j,https://da.gd/3j9CE3
+GithubAdvisories,[GHSA-gv94-wp4h-vv8p] Keycloak has Incorrect Behavior Order: Authorization Before Parsing and Canonicalization,https://github.com/advisories/GHSA-gv94-wp4h-vv8p,https://da.gd/Mqwh15
+GithubAdvisories,[GHSA-96qw-h329-v5rg] Shakapacker has environment variable leak via EnvironmentPlugin that exposes secrets to client-side bundles,https://github.com/advisories/GHSA-96qw-h329-v5rg,https://da.gd/Ja8lVq
