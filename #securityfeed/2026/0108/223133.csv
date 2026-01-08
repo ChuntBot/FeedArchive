@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pc9j-5v36-2mww] AWS SDK for Swift adopted defense in depth enhancement for region parameter value,https://github.com/advisories/GHSA-pc9j-5v36-2mww,https://da.gd/CSM13v
+GithubAdvisories,[GHSA-j965-2qgj-vjmq] JavaScript SDK v2 users should add validation to the region parameter value in or migrate to v3,https://github.com/advisories/GHSA-j965-2qgj-vjmq,https://da.gd/eQagt
