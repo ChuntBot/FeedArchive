@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fcqj-76g3-q7qm] Bio-Formats has an XML External Entity (XXE) vulnerability,https://github.com/advisories/GHSA-fcqj-76g3-q7qm,https://da.gd/4WX2h
+GithubAdvisories,[GHSA-h4rf-624j-gj33] terminal-controller-mcp vulnerable to Command Injection,https://github.com/advisories/GHSA-h4rf-624j-gj33,https://da.gd/ZfTIk
+GithubAdvisories,[GHSA-9726-w42j-3qjr] picklescan has Arbitrary file read using `io.FileIO`,https://github.com/advisories/GHSA-9726-w42j-3qjr,https://da.gd/WP1gaO
+GithubAdvisories,[GHSA-j893-m93w-jwjw] fast-filesystem-mcp has a Path Traversal vulnerability,https://github.com/advisories/GHSA-j893-m93w-jwjw,https://da.gd/6d11
+GithubAdvisories,[GHSA-j382-5jj3-vw4j] Undertow HTTP server core doesn't properly validate the Host header in incoming HTTP requests,https://github.com/advisories/GHSA-j382-5jj3-vw4j,https://da.gd/CjJ2z
