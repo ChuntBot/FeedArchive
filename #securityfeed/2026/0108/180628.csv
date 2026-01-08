@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qjm3-cvp9-3jj3] Bio-Formats performs unsafe Java deserialization of attacker-controlled memoization cache files (.bfmemo) during image processing,https://github.com/advisories/GHSA-qjm3-cvp9-3jj3,https://da.gd/hYtKS4
