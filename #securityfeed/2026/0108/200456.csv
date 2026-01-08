@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7grm-h62g-5m97] NiceGUI is vulnerable to XSS via Unescaped URL in ui.navigate.history.push() / replace(),https://github.com/advisories/GHSA-7grm-h62g-5m97,https://da.gd/a0HJr
+GithubAdvisories,[GHSA-87hc-h4r5-73f7] Werkzeug safe_join() allows Windows special device names with compound extensions,https://github.com/advisories/GHSA-87hc-h4r5-73f7,https://da.gd/XQXf2
