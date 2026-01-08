@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6475-r3vj-m8vf] AWS SDK for JavaScript v3 adopted defense in depth enhancement for region parameter value,https://github.com/advisories/GHSA-6475-r3vj-m8vf,https://da.gd/rPfu
+GithubAdvisories,[GHSA-mcmc-2m55-j8jj] vLLM introduced enhanced protection for CVE-2025-62164,https://github.com/advisories/GHSA-mcmc-2m55-j8jj,https://da.gd/bCiXSt
+GithubAdvisories,[GHSA-g59m-gf8j-gjf5] AWS SDK for Rust v1 adopted defense in depth enhancement for region parameter value,https://github.com/advisories/GHSA-g59m-gf8j-gjf5,https://da.gd/YVrt1
+GithubAdvisories,[GHSA-gjrp-xgmh-x9qq] Ghost has SQL Injection in Members Activity Feed,https://github.com/advisories/GHSA-gjrp-xgmh-x9qq,https://da.gd/zbZO9j
+GithubAdvisories,[GHSA-vmc4-9828-r48r] Ghost has SSRF via External Media Inliner,https://github.com/advisories/GHSA-vmc4-9828-r48r,https://da.gd/w6Kto
