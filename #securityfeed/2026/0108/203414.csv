@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4j78-4xrm-cr2f] Kirby is missing permission checks in the content changes API,https://github.com/advisories/GHSA-4j78-4xrm-cr2f,https://da.gd/1GzQh
+GithubAdvisories,[GHSA-mp55-g7pj-rvm2] NiceGUI has Redis connection leak via tab storage causes service degradation,https://github.com/advisories/GHSA-mp55-g7pj-rvm2,https://da.gd/8mxv
+GithubAdvisories,[GHSA-mhpg-c27v-6mxr] NiceGUI apps which use `ui.sub_pages` vulnerable to zero-click XSS,https://github.com/advisories/GHSA-mhpg-c27v-6mxr,https://da.gd/lr9S7A
+GithubAdvisories,"[GHSA-527x-5wrf-22m2] CoreDNS gRPC/HTTPS/HTTP3 servers lack resource limits, enabling DoS via unbounded connections and oversized messages",https://github.com/advisories/GHSA-527x-5wrf-22m2,https://da.gd/3mTq82
+GithubAdvisories,[GHSA-m7j5-rq9j-6jj9] NiceGUI apps are vulnerable to XSS which uses `ui.sub_pages` and render arbitrary user-provided links,https://github.com/advisories/GHSA-m7j5-rq9j-6jj9,https://da.gd/x0E4X
