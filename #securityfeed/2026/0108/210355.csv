@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6jm8-x3g6-r33j] Soft Serve is missing an authorization check in LFS lock deletion,https://github.com/advisories/GHSA-6jm8-x3g6-r33j,https://da.gd/5Hn7hJ
+GithubAdvisories,[GHSA-vj87-jj27-4h9c] wolfSSL Python module vulnerable to Improper Authentication,https://github.com/advisories/GHSA-vj87-jj27-4h9c,https://da.gd/83AIF
+GithubAdvisories,[GHSA-h5cw-625j-3rxh] React Router has CSRF issue in Action/Server Action Request Processing,https://github.com/advisories/GHSA-h5cw-625j-3rxh,https://da.gd/hjg7lf
+GithubAdvisories,[GHSA-2w69-qvjg-hvjx] React Router vulnerable to XSS via Open Redirects,https://github.com/advisories/GHSA-2w69-qvjg-hvjx,https://da.gd/Dtfzx
+GithubAdvisories,[GHSA-8v8x-cx79-35w7] React Router SSR XSS in ScrollRestoration,https://github.com/advisories/GHSA-8v8x-cx79-35w7,https://da.gd/63ZbjL
+GithubAdvisories,[GHSA-9jcx-v3wj-wh4m] React Router has unexpected external redirect via untrusted paths,https://github.com/advisories/GHSA-9jcx-v3wj-wh4m,https://da.gd/04Y0vb
+GithubAdvisories,[GHSA-9583-h5hc-x8cw] React Router has Path Traversal in File Session Storage,https://github.com/advisories/GHSA-9583-h5hc-x8cw,https://da.gd/Y9V4DN
+GithubAdvisories,[GHSA-3cgp-3xvw-98x8] React Router has XSS Vulnerability,https://github.com/advisories/GHSA-3cgp-3xvw-98x8,https://da.gd/pwG6
+GithubAdvisories,[GHSA-p3jp-7gj7-h6pr] records-mover Injection vulnerability,https://github.com/advisories/GHSA-p3jp-7gj7-h6pr,https://da.gd/7zf7lc
+GithubAdvisories,[GHSA-xgr5-qc6w-vcg9] RustFS has IAM deny_only Short-Circuit that Allows Privilege Escalation via Service Account Minting,https://github.com/advisories/GHSA-xgr5-qc6w-vcg9,https://da.gd/2Y7nFd
+GithubAdvisories,[GHSA-vcwh-pff9-64cc] RustFS has IAM Incorrect Authorization in ImportIam that Allows Privilege Escalation,https://github.com/advisories/GHSA-vcwh-pff9-64cc,https://da.gd/OllH
