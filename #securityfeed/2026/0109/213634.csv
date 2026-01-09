@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q5qq-mvfm-j35x] Fickling has Static Analysis Bypass via Incomplete Dangerous Module Blocklist,https://github.com/advisories/GHSA-q5qq-mvfm-j35x,https://da.gd/GY9j5
+GithubAdvisories,[GHSA-5hvc-6wx8-mvv4] Fickling vulnerable to use of ctypes and pydoc gadget chain to bypass detection,https://github.com/advisories/GHSA-5hvc-6wx8-mvv4,https://da.gd/werotf
