@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 25.10: Tornado Critical XSS DoS Flaws USN-7950-1 CVE-2025-67724,https://linuxsecurity.com/advisories/ubuntu/tornado-ubuntu-7950-1-2025-67724,https://da.gd/wujidk
+LinuxSecurity,Ubuntu 25.10: GnuPG Critical Remote Code Exec Vulnerability USN-7946-1,https://linuxsecurity.com/advisories/ubuntu/gnupg-7946-1-2025-68973,https://da.gd/NqFO1x
+LinuxSecurity,Ubuntu 16.04 LTS: GnuPG Critical Remote Code Exec Vulnerability USN-7946-2,https://linuxsecurity.com/advisories/ubuntu/gnupg-7946-2-2025-68973,https://da.gd/KmXWoa
+LinuxSecurity,SUSE: curl Moderate Security Update CVE-2025-14524 CVE-2025-15079,https://linuxsecurity.com/advisories/suse/curl-suse-2026-0066-1-2025-14524,https://da.gd/6ouqE
+LinuxSecurity,SUSE: Podman Moderate Security Update CVE-2025-47914 Advisory 2026:0067-1,https://linuxsecurity.com/advisories/suse/podman-suse-2026-0067-1-2025-47914,https://da.gd/SMFy8
+LinuxSecurity,openSUSE: podman Moderate CVE-2025-47914 DoS Risk Advisory 2026:0067-1,https://linuxsecurity.com/advisories/opensuse/podman-opensuse-2026-0067-1-2025-47914,https://da.gd/Yb4fto
