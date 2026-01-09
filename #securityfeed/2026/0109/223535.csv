@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-h4rm-mm56-xf63] Fickling vulnerable to detection bypass due to ""builtins"" blindness",https://github.com/advisories/GHSA-h4rm-mm56-xf63,https://da.gd/wI6laY
+GithubAdvisories,[GHSA-w3g8-fp6j-wvqw] SM2-PKE has 32-bit Biased Nonce Vulnerability,https://github.com/advisories/GHSA-w3g8-fp6j-wvqw,https://da.gd/66exlp
