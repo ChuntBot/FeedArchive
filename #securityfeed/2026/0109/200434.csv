@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7c3f-cg9x-f3gr] JasperReports has a Java deserialisation vulnerability,https://github.com/advisories/GHSA-7c3f-cg9x-f3gr,https://da.gd/3ykc4
+GithubAdvisories,[GHSA-585q-cm62-757j] mnl has segmentation fault and invalid memory read in `mnl::cb_run`,https://github.com/advisories/GHSA-585q-cm62-757j,https://da.gd/IwX3Z1
+GithubAdvisories,[GHSA-4f6g-68pf-7vhv] pypdf has possible long runtimes for malformed startxref,https://github.com/advisories/GHSA-4f6g-68pf-7vhv,https://da.gd/fapWQ
+GithubAdvisories,[GHSA-4xc4-762w-m6cg] pypdf has possible long runtimes for missing /Root object with large /Size values,https://github.com/advisories/GHSA-4xc4-762w-m6cg,https://da.gd/ZSrbva
+GithubAdvisories,[GHSA-88q6-jcjg-hvmw] jose-swift has JWT Signature Verification Bypass via None Algorithm,https://github.com/advisories/GHSA-88q6-jcjg-hvmw,https://da.gd/xBLJI
+GithubAdvisories,[GHSA-jm7w-5684-pvh8] FASTJSON Includes Functionality from Untrusted Control Sphere,https://github.com/advisories/GHSA-jm7w-5684-pvh8,https://da.gd/CQK08
