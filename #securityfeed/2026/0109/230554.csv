@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-78p6-6878-8mj6] SM2-PKE has Unchecked AffinePoint Decoding (unwrap) in decrypt(),https://github.com/advisories/GHSA-78p6-6878-8mj6,https://da.gd/91xIZR
