@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+LinuxSecurity,Mageia 9: libpcap Important Out-of-Bounds Access CVE-2025-11961,https://linuxsecurity.com/advisories/mageia/libpcap-mageia-2026-0005-2025-11961,https://da.gd/XUtze
+LinuxSecurity,Mageia 9: Sodium Important Cryptography Check Exploit MGASA-2026-0004,https://linuxsecurity.com/advisories/mageia/sodium-mageia-2026-0004-2025-69277,https://da.gd/eIyd06
+LinuxSecurity,Mageia 9: curl Important Security Issues OpenSSL Bypass MGASA-2026-0003,https://linuxsecurity.com/advisories/mageia/curl-mageia-2026-0003-2025-13034,https://da.gd/oxpqyd
+LinuxSecurity,Mageia 9: wget2 Important Path Traversal Fix MGASA-2026-0002 CVE-2025-69194,https://linuxsecurity.com/advisories/mageia/wget2-mageia-2026-0002-2025-69194,https://da.gd/VOBBhW
+LinuxSecurity,Debian: Chromium Critical Arbitrary Code Execution DSA-6097-1,https://linuxsecurity.com/advisories/debian/chromium-dsa-6097-1-2026-0628,https://da.gd/tMdoA
