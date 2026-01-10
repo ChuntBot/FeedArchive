@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42: Critical Remote Code Exec Flaw in MariaDB 10.11.15 Found,https://linuxsecurity.com/advisories/fedora/mariadb-10-11-fedora-42-2025-13699,https://da.gd/dYMzy
+LinuxSecurity,Fedora 42: wget2 Critical Memory Crash Advisory 2026-28b0f7bd35,https://linuxsecurity.com/advisories/fedora/wget2-fedora-42-2026-28b0f7bd35-2025-69195,https://da.gd/B779
+LinuxSecurity,Fedora 42: Critical Buffer Overflow and Heap Vulnerabilities in libpng,https://linuxsecurity.com/advisories/fedora/libpng-fedora-42-2026-a9dc8509e9-2025-64720,https://da.gd/BXwvP
+LinuxSecurity,Fedora 43: python-urllib3 High Threat HTTP Redirect Issue CVE-2026-21441,https://linuxsecurity.com/advisories/fedora/python-urllib3-fedora-43-2026-21441,https://da.gd/kSck6z
+LinuxSecurity,Fedora 43: mariadb10.11 Important Remote Code Execution 2026-39e035a84c,https://linuxsecurity.com/advisories/fedora/mariadb-10-11-fedora-43-2025-13699,https://da.gd/ekbD
+LinuxSecurity,Fedora 43: Critical Update for libsodium to Prevent Information Leak,https://linuxsecurity.com/advisories/fedora/libsodium-fedora-43-2026-cb424f8aa2-2025-69277,https://da.gd/yAyQlk
