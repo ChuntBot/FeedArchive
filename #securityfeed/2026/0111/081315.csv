@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Mageia 9: zlib Important Buffer Overflow Security Fix MGASA-2026-0006,https://linuxsecurity.com/advisories/mageia/zlib-mageia-2026-0006-2026-22184,https://da.gd/yTsOZ4
+LinuxSecurity,Mageia 9: Fix for NVIDIA470 Bug Issue MGAA-2026-0004 Released,https://linuxsecurity.com/advisories/mageia/nvidia470-mageia-2026-0004-1768093713,https://da.gd/ybReL
+LinuxSecurity,Fedora 43: Chromium High Insufficient Policy Enforcement CVE-2026-0628,https://linuxsecurity.com/advisories/fedora/chromium-fedora-2026-66162d01ae-2026-0628,https://da.gd/E4Vfc
+LinuxSecurity,Fedora 43: WasmEdge Critical Denial of Service Fix CVE-2025-22921,https://linuxsecurity.com/advisories/fedora/wasmedge-fedora-43-2026-fc302b48e8-2025-22921,https://da.gd/t9J0Vp
+LinuxSecurity,Fedora 42: Critical Improper Validation Issue in libsodium CVE-2025-69277,https://linuxsecurity.com/advisories/fedora/libsodium-fedora-42-2026-b7217393db-2025-69277,https://da.gd/dDRt7
+LinuxSecurity,Fedora 42: python-pdfminer Important Patch for CVE-2025-64512,https://linuxsecurity.com/advisories/fedora/python-pdfminer-fedora-42-2025-64512,https://da.gd/VLto
