@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h742-xx59-r9pq] Mattermost Server exposes sensitive user status information via REST API version 4 endpoint,https://github.com/advisories/GHSA-h742-xx59-r9pq,https://da.gd/5CUUke
+GithubAdvisories,[GHSA-2mmv-7rrp-g8xh] Weblate command-line client susceptible to SSL verification skip,https://github.com/advisories/GHSA-2mmv-7rrp-g8xh,https://da.gd/Tb2iSb
+GithubAdvisories,[GHSA-2mq9-hm29-8qch] Label Studio is vulnerable to full account takeover by chaining Stored XSS + IDOR in User Profile via custom_hotkeys field,https://github.com/advisories/GHSA-2mq9-hm29-8qch,https://da.gd/3Ulxv
+GithubAdvisories,[GHSA-qqhf-pm3j-96g7] MindsDB has improper sanitation of filepath that leads to information disclosure and DOS,https://github.com/advisories/GHSA-qqhf-pm3j-96g7,https://da.gd/wgMgK
