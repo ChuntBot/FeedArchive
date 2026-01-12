@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g24c-fx4v-xg9w] Mattermost Server has Insufficient Session Expiration when used as an OAuth 2.0 service provider,https://github.com/advisories/GHSA-g24c-fx4v-xg9w,https://da.gd/Culgx7
+GithubAdvisories,[GHSA-8pff-p3gx-w4jf] Mattermost Server vulnerable to XSS via an uploaded file,https://github.com/advisories/GHSA-8pff-p3gx-w4jf,https://da.gd/QSBbO1
+GithubAdvisories,[GHSA-fcwg-45jh-5qhf] Mattermost Server vulnerable to CSRF if CORS is enabled,https://github.com/advisories/GHSA-fcwg-45jh-5qhf,https://da.gd/iHGHm
+GithubAdvisories,[GHSA-c253-8hr4-r8v9] Mattermost Server exposes private team invite ID,https://github.com/advisories/GHSA-c253-8hr4-r8v9,https://da.gd/0bqwu
+GithubAdvisories,[GHSA-8q4v-35v6-g8wr] Mattermost Server is vulnerable CSV Injection,https://github.com/advisories/GHSA-8q4v-35v6-g8wr,https://da.gd/NghiL5
