@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p52w-7rhw-9m67] TYPO3 CMS Allows Broken Access Control in Recycler Module,https://github.com/advisories/GHSA-p52w-7rhw-9m67,https://da.gd/yzonH
+GithubAdvisories,[GHSA-6c46-p6j5-3f49] TYPO3 CMS Allows Broken Access Control in Redirects Module,https://github.com/advisories/GHSA-6c46-p6j5-3f49,https://da.gd/IkBBn9
+GithubAdvisories,[GHSA-5j7q-wmh7-cqhg] TYPO3 CMS Allows Broken Access Control in Edit Document Controller,https://github.com/advisories/GHSA-5j7q-wmh7-cqhg,https://da.gd/Pn6ynO
+GithubAdvisories,[GHSA-g5gc-h5hp-555f] Mass Assignment in AdonisJS Lucid Allows Overwriting Internal ORM State,https://github.com/advisories/GHSA-g5gc-h5hp-555f,https://da.gd/QNsTP
+GithubAdvisories,[GHSA-c83v-7274-4vgp] Malicious website can execute commands on the local system through XSS in the OpenCode web UI,https://github.com/advisories/GHSA-c83v-7274-4vgp,https://da.gd/M55ln
+GithubAdvisories,[GHSA-q5f6-qxm2-mcqm] tarteaucitron.js has Regular Expression Denial of Service (ReDoS) vulnerability,https://github.com/advisories/GHSA-q5f6-qxm2-mcqm,https://da.gd/8Vjc
+GithubAdvisories,[GHSA-vxw4-wv6m-9hhh] OpenCode's Unauthenticated HTTP Server Allows Arbitrary Command Execution,https://github.com/advisories/GHSA-vxw4-wv6m-9hhh,https://da.gd/1yn11
+GithubAdvisories,[GHSA-97vm-c39p-jr86] Spree has Remote Command Execution vulnerability in search functionality,https://github.com/advisories/GHSA-97vm-c39p-jr86,https://da.gd/gsWiAU
+GithubAdvisories,[GHSA-jm5j-jfrm-hm23] hermes's raw options logging may disclose secrets passed in via subcommand options argument,https://github.com/advisories/GHSA-jm5j-jfrm-hm23,https://da.gd/7R2USo
+GithubAdvisories,[GHSA-pgqp-8h46-6x4j] MLFlow is vulnerable to DNS rebinding attacks due to a lack of Origin header validation,https://github.com/advisories/GHSA-pgqp-8h46-6x4j,https://da.gd/CvQZuA
+GithubAdvisories,[GHSA-3f44-xw83-3pmg] Renovate vulnerable to arbitrary command injection via helmv3 manager and malicious Chart.yaml file,https://github.com/advisories/GHSA-3f44-xw83-3pmg,https://da.gd/DbNX
+GithubAdvisories,[GHSA-xjr7-3c3g-m763] Renovate vulnerable to arbitrary command injection via gleam manager and malicious gleam.toml file,https://github.com/advisories/GHSA-xjr7-3c3g-m763,https://da.gd/TpBLe
+GithubAdvisories,[GHSA-36j9-mx87-2cff] Renovate vulnerable to arbitrary command injection via hermit manager and maliciously named dependencies,https://github.com/advisories/GHSA-36j9-mx87-2cff,https://da.gd/vlvkZ2
+GithubAdvisories,[GHSA-fr4j-65pv-gjjj] Renovate vulnerable to arbitrary command injection via npm manager and malicious Renovate configuration,https://github.com/advisories/GHSA-fr4j-65pv-gjjj,https://da.gd/3z28nT
