@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3558-j79f-vvm6] Gin-vue-admin has arbitrary file upload vulnerability caused by path traversal,https://github.com/advisories/GHSA-3558-j79f-vvm6,https://da.gd/CaQpd
+GithubAdvisories,[GHSA-mwr6-3gp8-9jmj] orval MCP client is vulnerable to a code injection attack,https://github.com/advisories/GHSA-mwr6-3gp8-9jmj,https://da.gd/jRBfm
+GithubAdvisories,[GHSA-m86r-wr74-693h] AcademySoftwareFoundation OpenColorIO has an out-of-bounds vulnerability,https://github.com/advisories/GHSA-m86r-wr74-693h,https://da.gd/RZ7xPe
+GithubAdvisories,[GHSA-xf94-h87h-g9wr] QuestDB UI's Web Console is Vulnerable to Cross-Site Scripting,https://github.com/advisories/GHSA-xf94-h87h-g9wr,https://da.gd/9YDPDZ
+GithubAdvisories,[GHSA-562r-8445-54r2] ComfyUI-Manager is Vulnerable to CRLF Injection in Configuration Handler,https://github.com/advisories/GHSA-562r-8445-54r2,https://da.gd/GjySXd
+GithubAdvisories,[GHSA-w757-4qv9-mghp] openc3-api Vulnerable to Unauthenticated Remote Code Execution,https://github.com/advisories/GHSA-w757-4qv9-mghp,https://da.gd/uwuM
