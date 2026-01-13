@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-524m-q5m7-79mm] Mailpit is vulnerable to Cross-Site WebSocket Hijacking (CSWSH) allowing unauthenticated access to emails,https://github.com/advisories/GHSA-524m-q5m7-79mm,https://da.gd/urQp3
+GithubAdvisories,[GHSA-hcp2-x6j4-29j7] RustCrypto: Signatures has timing side-channel in ML-DSA decomposition,https://github.com/advisories/GHSA-hcp2-x6j4-29j7,https://da.gd/rjiAnq
+GithubAdvisories,[GHSA-3fm2-xfq7-7778] HAXcms Has Stored XSS Vulnerability that May Lead to Account Takeover,https://github.com/advisories/GHSA-3fm2-xfq7-7778,https://da.gd/7dHLw
+GithubAdvisories,[GHSA-j9xq-69pf-pcm8] RustCrypto Has Insufficient Length Validation in decrypt() in SM2-PKE,https://github.com/advisories/GHSA-j9xq-69pf-pcm8,https://da.gd/Qk5w1
+GithubAdvisories,[GHSA-whqx-f9j3-ch6m] Cosign verification accepts any valid Rekor entry under certain conditions,https://github.com/advisories/GHSA-whqx-f9j3-ch6m,https://da.gd/3kci
+GithubAdvisories,[GHSA-mw8h-g64c-rxv4] Shiori is vulnerable to authentication bypass via a brute force attack,https://github.com/advisories/GHSA-mw8h-g64c-rxv4,https://da.gd/D4hAO
+GithubAdvisories,[GHSA-w96v-gf22-crwp] n8n: Webhook Node IP Whitelist Bypass via Partial String Matching,https://github.com/advisories/GHSA-w96v-gf22-crwp,https://da.gd/Uqy46
+GithubAdvisories,[GHSA-gxp5-mv27-vjcj] Jervis's AES CBC Mode is Without Authentication,https://github.com/advisories/GHSA-gxp5-mv27-vjcj,https://da.gd/sypBNX
+GithubAdvisories,[GHSA-5pq9-5mpr-jj85] Jervis Has a JWT Algorithm Confusion Vulnerability,https://github.com/advisories/GHSA-5pq9-5mpr-jj85,https://da.gd/KA4WA
+GithubAdvisories,[GHSA-c9q6-g3hr-8gww] Jervis Has Weak Random for Timing Attack Mitigation,https://github.com/advisories/GHSA-c9q6-g3hr-8gww,https://da.gd/ySANPn
