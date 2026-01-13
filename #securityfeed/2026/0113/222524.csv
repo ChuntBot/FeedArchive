@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jm66-cg57-jjv5] Azure Core is vulnerable to deserialization of untrusted data,https://github.com/advisories/GHSA-jm66-cg57-jjv5,https://da.gd/FxnJO
