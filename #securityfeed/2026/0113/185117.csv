@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-59jp-pj84-45mr] Fulcio is vulnerable to Server-Side Request Forgery (SSRF) via MetaIssuer Regex Bypass,https://github.com/advisories/GHSA-59jp-pj84-45mr,https://da.gd/m7mpeH
+GithubAdvisories,[GHSA-xrwg-mqj6-6m22] Envoy Extension Policy lua scripts injection causes arbitrary command execution,https://github.com/advisories/GHSA-xrwg-mqj6-6m22,https://da.gd/MvTD
+GithubAdvisories,[GHSA-597g-3phw-6986] virtualenv Has TOCTOU Vulnerabilities in Directory Creation,https://github.com/advisories/GHSA-597g-3phw-6986,https://da.gd/c4MuW
+GithubAdvisories,[GHSA-qmgc-5h2g-mvrw] filelock Time-of-Check-Time-of-Use (TOCTOU) Symlink Vulnerability in SoftFileLock,https://github.com/advisories/GHSA-qmgc-5h2g-mvrw,https://da.gd/dlVCK
+GithubAdvisories,[GHSA-grg2-63fw-f2qr] vLLM is vulnerable to DoS in Idefics3 vision models via image payload with ambiguous dimensions,https://github.com/advisories/GHSA-grg2-63fw-f2qr,https://da.gd/Y5HzQ4
+GithubAdvisories,[GHSA-mjjp-xjfg-97wg] LIEF is vulnerable to segmentation fault,https://github.com/advisories/GHSA-mjjp-xjfg-97wg,https://da.gd/xz08B
