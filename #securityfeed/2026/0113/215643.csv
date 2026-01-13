@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mq3p-rrmp-79jg] go-ethereum is vulnerable to high CPU usage leading to DoS via malicious p2p message,https://github.com/advisories/GHSA-mq3p-rrmp-79jg,https://da.gd/F6213P
+GithubAdvisories,[GHSA-mr7q-c9w9-wh4h] go-ethereum is vulnerable to DoS via malicious p2p message affecting a vulnerable node,https://github.com/advisories/GHSA-mr7q-c9w9-wh4h,https://da.gd/lOvh71
+GithubAdvisories,[GHSA-xg9w-vg3g-6m68] GuardDog Path Traversal Vulnerability Leads to Arbitrary File Overwrite and RCE,https://github.com/advisories/GHSA-xg9w-vg3g-6m68,https://da.gd/Qtfss
+GithubAdvisories,[GHSA-ffj4-jq7m-9g6v] GuardDog Zip Bomb Vulnerability in safe_extract() Allows DoS,https://github.com/advisories/GHSA-ffj4-jq7m-9g6v,https://da.gd/gvJR
+GithubAdvisories,[GHSA-7vp9-x248-9vr9] TYPO3 CMS Allows Insecure Deserialization via Mailer File Spool,https://github.com/advisories/GHSA-7vp9-x248-9vr9,https://da.gd/rAWhk
+GithubAdvisories,[GHSA-3pqc-836w-jgr7] Outray cli is vulnerable to race conditions in tunnels creation,https://github.com/advisories/GHSA-3pqc-836w-jgr7,https://da.gd/TZ4Aan
+GithubAdvisories,[GHSA-45hj-9x76-wp9g] Outray has a Race Condition in the cli's webapp,https://github.com/advisories/GHSA-45hj-9x76-wp9g,https://da.gd/k0vQ
+GithubAdvisories,"[GHSA-3vhc-576x-3qv4] Hono JWK Auth Middleware has JWT algorithm confusion when JWK lacks ""alg"" (untrusted header.alg fallback)",https://github.com/advisories/GHSA-3vhc-576x-3qv4,https://da.gd/Jcysh
+GithubAdvisories,[GHSA-f67f-6cw9-8mq4] Hono JWT Middleware's JWT Algorithm Confusion via Unsafe Default (HS256) Allows Token Forgery and Auth Bypass,https://github.com/advisories/GHSA-f67f-6cw9-8mq4,https://da.gd/ozlaTs
+GithubAdvisories,[GHSA-qcfc-hmrc-59x7] Apache Struts 2 is Missing XML Validation,https://github.com/advisories/GHSA-qcfc-hmrc-59x7,https://da.gd/gocH
+GithubAdvisories,[GHSA-58pv-8j8x-9vj2] jaraco.context Has a Path Traversal Vulnerability,https://github.com/advisories/GHSA-58pv-8j8x-9vj2,https://da.gd/aInlZS
