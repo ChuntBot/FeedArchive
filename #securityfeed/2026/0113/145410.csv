@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-36h5-vrq6-pp34] Jervis's Salt for PBKDF2 derived from password,https://github.com/advisories/GHSA-36h5-vrq6-pp34,https://da.gd/VwXhc
+GithubAdvisories,[GHSA-67rj-pjg6-pq59] Jervis Has a SHA-256 Hex String Padding Bug,https://github.com/advisories/GHSA-67rj-pjg6-pq59,https://da.gd/6tKtB9
+GithubAdvisories,[GHSA-crxp-chh4-9ghp] Jervis has Deterministic AES IV Derivation from Passphrase,https://github.com/advisories/GHSA-crxp-chh4-9ghp,https://da.gd/urJLVf
+GithubAdvisories,[GHSA-mqw7-c5gg-xq97] Jervis Has a RSA PKCS#1 Padding Vulnerability,https://github.com/advisories/GHSA-mqw7-c5gg-xq97,https://da.gd/GTRhEM
