@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-595p-g7xc-c333] Algolia Search & Discovery for Magento 2 Has Untrusted Data Handling,https://github.com/advisories/GHSA-595p-g7xc-c333,https://da.gd/1NRSS
+GithubAdvisories,[GHSA-73rr-hh4g-fpgx] jsdiff has a Denial of Service vulnerability in parsePatch and applyPatch,https://github.com/advisories/GHSA-73rr-hh4g-fpgx,https://da.gd/DHHyYd
