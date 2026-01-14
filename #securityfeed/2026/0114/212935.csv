@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mqqf-5wvp-8fh8] chi has an open redirect vulnerability in the RedirectSlashes middleware,https://github.com/advisories/GHSA-mqqf-5wvp-8fh8,https://da.gd/C3uck
+GithubAdvisories,[GHSA-4jrw-64vr-7g8m] Apache Camel camel-neo4j component is vulnerable to cypher injection,https://github.com/advisories/GHSA-4jrw-64vr-7g8m,https://da.gd/Oi9PVf
+GithubAdvisories,[GHSA-wj5w-qghh-gvqp] Mattermost Server does not neutralize HTML content in an Email template field,https://github.com/advisories/GHSA-wj5w-qghh-gvqp,https://da.gd/mqBNJX
+GithubAdvisories,[GHSA-v492-6xx2-p57g] Chainlit contains an authorization bypass vulnerability,https://github.com/advisories/GHSA-v492-6xx2-p57g,https://da.gd/lJJL6
+GithubAdvisories,[GHSA-qvr7-7g55-69xj] Pimcore Has an Incomplete Patch for CVE-2023-30848,https://github.com/advisories/GHSA-qvr7-7g55-69xj,https://da.gd/vc0TC0
+GithubAdvisories,[GHSA-g9mf-h72j-4rw9] Undici has an unbounded decompression chain in HTTP responses on Node.js Fetch API via Content-Encoding leads to resource exhaustion,https://github.com/advisories/GHSA-g9mf-h72j-4rw9,https://da.gd/LlidN
