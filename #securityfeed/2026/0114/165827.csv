@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w8x4-x68c-m6fc] html2pdf.js contains a cross-site scripting vulnerability,https://github.com/advisories/GHSA-w8x4-x68c-m6fc,https://da.gd/5wARLZ
+GithubAdvisories,[GHSA-7cw6-7h3h-v8pf] Shopware Has Improper Control of Generation of Code in Twig rendered views,https://github.com/advisories/GHSA-7cw6-7h3h-v8pf,https://da.gd/xJZhUG
+GithubAdvisories,[GHSA-r7vr-wg3f-8hr9] Concrete5 CMS contains an XPath injection vulnerability,https://github.com/advisories/GHSA-r7vr-wg3f-8hr9,https://da.gd/sxSooi
+GithubAdvisories,[GHSA-6pw3-h7xf-x4gp] BlackSheep's ClientSession is vulnerable to CRLF injection,https://github.com/advisories/GHSA-6pw3-h7xf-x4gp,https://da.gd/hjGNzD
+GithubAdvisories,[GHSA-7qm7-455j-5p63] enclave-vm Vulnerable to Sandbox Escape via Host Error Prototype Chain,https://github.com/advisories/GHSA-7qm7-455j-5p63,https://da.gd/RGYQ5
+GithubAdvisories,[GHSA-3g2f-4rjg-9385] Weblate leaks information via screenshots,https://github.com/advisories/GHSA-3g2f-4rjg-9385,https://da.gd/g9Kf5P
