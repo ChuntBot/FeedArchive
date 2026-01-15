@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f2ph-gc9m-q55f] lakeFS is Missing Timestamp Validation in S3 Gateway Authentication,https://github.com/advisories/GHSA-f2ph-gc9m-q55f,https://da.gd/jLehM
