@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g2pg-6438-jwpf] devalue vulnerable to denial of service due to memory/CPU exhaustion in devalue.parse,https://github.com/advisories/GHSA-g2pg-6438-jwpf,https://da.gd/XX1r6b
