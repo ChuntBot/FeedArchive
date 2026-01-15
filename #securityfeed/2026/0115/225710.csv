@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cphf-4846-3xx9] Vert.x Web static handler component cache can be manipulated to deny the access to static files,https://github.com/advisories/GHSA-cphf-4846-3xx9,https://da.gd/ECy2
+GithubAdvisories,[GHSA-rwr8-xrpw-9qf5] solspace/craft-freeform Exposed to Known Axios Vulnerabilities via Precompiled Assets,https://github.com/advisories/GHSA-rwr8-xrpw-9qf5,https://da.gd/C4cd2
+GithubAdvisories,[GHSA-44jg-mv3h-wj6g] solspace/craft-freeform Vulnerable to XSS in `PhpSpreadsheet` HTML Writer Due to Unsanitized Styling Data,https://github.com/advisories/GHSA-44jg-mv3h-wj6g,https://da.gd/2MSFVe
+GithubAdvisories,[GHSA-h66j-xm43-47pp] Umbraco CMS contains a server-side request forgery vulnerability,https://github.com/advisories/GHSA-h66j-xm43-47pp,https://da.gd/P2l4
+GithubAdvisories,[GHSA-hm9j-cgmm-2w36] Aimeos contains a SQL injection vulnerability in the json api 'sort' parameter,https://github.com/advisories/GHSA-hm9j-cgmm-2w36,https://da.gd/A8UJd
