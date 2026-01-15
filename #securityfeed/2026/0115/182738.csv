@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2gqc-6j2q-83qp] RustCrypto Utilities cmov: `thumbv6m-none-eabi` compiler emits non-constant time assembly when using `cmovnz`,https://github.com/advisories/GHSA-2gqc-6j2q-83qp,https://da.gd/LYsnE
+GithubAdvisories,[GHSA-pvm5-9frx-264r] Zitadel has a user enumeration vulnerability in Login UIs,https://github.com/advisories/GHSA-pvm5-9frx-264r,https://da.gd/mV2hWb
+GithubAdvisories,"[GHSA-4wg4-p27p-5q2r] Pimcore Web2Print Tools Bundle ""Favourite Output Channel Configuration"" Missing Function Level Authorization",https://github.com/advisories/GHSA-4wg4-p27p-5q2r,https://da.gd/PD1BH
+GithubAdvisories,"[GHSA-hqrp-m84v-2m2f] Pimcore's Admin Classic Bundle is Missing Function Level Authorization on ""Predefined Properties"" Listing",https://github.com/advisories/GHSA-hqrp-m84v-2m2f,https://da.gd/0qPrbz
+GithubAdvisories,"[GHSA-m3r2-724c-pwgf] Pimcore is Vulnerable to Broken Access Control: Missing Function Level Authorization on ""Static Routes"" Listing",https://github.com/advisories/GHSA-m3r2-724c-pwgf,https://da.gd/D5IfQ
+GithubAdvisories,[GHSA-q433-j342-rp9h] Pimcore ENV Variables and Cookie Informations are exposed in http_error_log,https://github.com/advisories/GHSA-q433-j342-rp9h,https://da.gd/zOZJNr
+GithubAdvisories,[GHSA-j2f3-wq62-6q46] @sveltejs/kit has memory amplification DoS vulnerability in Remote Functions binary form deserializer (application/x-sveltekit-formdata),https://github.com/advisories/GHSA-j2f3-wq62-6q46,https://da.gd/4E0Xk
+GithubAdvisories,[GHSA-vw5p-8cq8-m7mv] Devalue is vulnerable to denial of service due to memory exhaustion in devalue.parse,https://github.com/advisories/GHSA-vw5p-8cq8-m7mv,https://da.gd/0gXh
+GithubAdvisories,[GHSA-j62c-4x62-9r35] SvelteKit is vulnerable to denial of service and possible SSRF when using prerendering,https://github.com/advisories/GHSA-j62c-4x62-9r35,https://da.gd/dGlhB
+GithubAdvisories,[GHSA-vh2x-fw87-4fxq] DPanel has an arbitrary file deletion vulnerability in /api/common/attach/delete interface,https://github.com/advisories/GHSA-vh2x-fw87-4fxq,https://da.gd/QqTVki
