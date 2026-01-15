@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,SUSE: Podman Important Security Patch 2026:0347-2 CVE-2025-48722,https://linuxsecurity.com/advisories/suse/podman-suse-2026-0125-1-2025-47914,https://da.gd/7e2P9k
+LinuxSecurity,openSUSE: podman Moderate SSH-Agent Panic Fix 2026:0125-1 CVE-2025-47914,https://linuxsecurity.com/advisories/opensuse/podman-opensuse-2026-0125-1-2025-47914,https://da.gd/CtTJg
+LinuxSecurity,SUSE: Ghostscript Critical Update DoS 2025:0279-1 CVE-2025-11987,https://linuxsecurity.com/advisories/suse/poppler-suse-2026-0126-1-2025-11896,https://da.gd/rugHC
+LinuxSecurity,openSUSE: Poppler Low Infinite Recursion Fix 2026:0126-1,https://linuxsecurity.com/advisories/opensuse/poppler-opensuse-2026-0126-1-2025-11896,https://da.gd/hNenW
+LinuxSecurity,SUSE: valkey Critical Remote Code Execution Fix 2026:20022-1 CVE-2025-49844,https://linuxsecurity.com/advisories/suse/valkey-suse-2026-20022-1-2025-46817,https://da.gd/uaeGYO
+LinuxSecurity,SUSE: Avahi Moderate DNS Spoofing Vuln 2026:20027-1 CVE-2024-52615,https://linuxsecurity.com/advisories/suse/avahi-suse-2026-20027-1-2024-52615,https://da.gd/wlRz
