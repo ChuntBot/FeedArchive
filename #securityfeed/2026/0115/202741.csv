@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w54x-r83c-x79q] Pepr Has Overly Permissive RBAC ClusterRole in Admin Mode,https://github.com/advisories/GHSA-w54x-r83c-x79q,https://da.gd/h0AG5
+GithubAdvisories,[GHSA-6738-r8g5-qwp3] svelte vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-6738-r8g5-qwp3,https://da.gd/ZH1d
+GithubAdvisories,[GHSA-58q2-9x27-h2jm] solspace/craft-freeform Has a DoS Vulnerability,https://github.com/advisories/GHSA-58q2-9x27-h2jm,https://da.gd/QDFS4
+GithubAdvisories,[GHSA-xfhx-r7ww-5995] Google Keras Allocates Resources Without Limits or Throttling in the HDF5 weight loading component,https://github.com/advisories/GHSA-xfhx-r7ww-5995,https://da.gd/i3E3Q
+GithubAdvisories,[GHSA-54v4-4685-vwrj] alextselegidis/easyappointments is Vulnerable to CSRF Protection Bypass,https://github.com/advisories/GHSA-54v4-4685-vwrj,https://da.gd/J1ZigU
+GithubAdvisories,[GHSA-mp2g-9vg9-f4cg] h3 v1 has Request Smuggling (TE.TE) issue,https://github.com/advisories/GHSA-mp2g-9vg9-f4cg,https://da.gd/qycOka
+GithubAdvisories,[GHSA-gjqq-6r35-w3r8] Arcane Has a Command Injection in Arcane Updater Lifecycle Labels That Enables RCE,https://github.com/advisories/GHSA-gjqq-6r35-w3r8,https://da.gd/rY2fo
