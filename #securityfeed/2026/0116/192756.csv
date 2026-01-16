@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pcjq-j3mq-jv5j] SiYuan Has a Stored Cross-Site Scripting (XSS) Vulnerability via Unrestricted SVG File Upload,https://github.com/advisories/GHSA-pcjq-j3mq-jv5j,https://da.gd/xQDQ
+GithubAdvisories,[GHSA-mpwp-4h2m-765c] Active Job - Object injection security vulnerability,https://github.com/advisories/GHSA-mpwp-4h2m-765c,https://da.gd/5InfH
+GithubAdvisories,[GHSA-5qw5-wf2q-f538] ActiveRecord-JDBC-Adapter (AR-JDBC) lib/arjdbc/jdbc/adapter.rb sql.gsub() Function SQL Injection,https://github.com/advisories/GHSA-5qw5-wf2q-f538,https://da.gd/qBE1
+GithubAdvisories,[GHSA-63vm-454h-vhhq] pyasn1 has a DoS vulnerability in decoder,https://github.com/advisories/GHSA-63vm-454h-vhhq,https://da.gd/h5JwjC
