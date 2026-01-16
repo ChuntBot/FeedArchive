@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9r42-rhw3-2222] Mattermost is vulnerable to CPU exhaustion via crafted HTTP request,https://github.com/advisories/GHSA-9r42-rhw3-2222,https://da.gd/BU4FG
+GithubAdvisories,[GHSA-hrvf-g648-rf3m] PlantUML is vulnerable to Stored XSS due to insufficient sanitization of interactive attributes in GraphViz diagrams,https://github.com/advisories/GHSA-hrvf-g648-rf3m,https://da.gd/gd6qB
