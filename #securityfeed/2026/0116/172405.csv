@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mmwx-79f6-67jg] Weblate wlc path traversal vulnerability: Unsanitized API slugs in download command,https://github.com/advisories/GHSA-mmwx-79f6-67jg,https://da.gd/DCv4xK
+GithubAdvisories,[GHSA-c336-7962-wfj2] Dask Distributed is Vulnerable to Remote Code Execution via Jupyter Proxy and Dashboard,https://github.com/advisories/GHSA-c336-7962-wfj2,https://da.gd/X1lna
+GithubAdvisories,[GHSA-v3m3-f69x-jf25] Quill is vulnerable to XSS via HTML export feature,https://github.com/advisories/GHSA-v3m3-f69x-jf25,https://da.gd/xijQ7t
