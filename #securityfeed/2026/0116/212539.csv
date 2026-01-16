@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8qq5-rm4j-mr97] node-tar is Vulnerable to Arbitrary File Overwrite and Symlink Poisoning via Insufficient Path Sanitization,https://github.com/advisories/GHSA-8qq5-rm4j-mr97,https://da.gd/AC9gY
+GithubAdvisories,[GHSA-232v-j27c-5pp6] REC in MCPJam inspector due to HTTP Endpoint exposes,https://github.com/advisories/GHSA-232v-j27c-5pp6,https://da.gd/rfjIp0
+GithubAdvisories,[GHSA-53wg-r69p-v3r7] GraphQL Modules has a Race Condition issue,https://github.com/advisories/GHSA-53wg-r69p-v3r7,https://da.gd/1KEn
+GithubAdvisories,[GHSA-38cw-85xc-xr9x] Veramo is Vulnerable to SQL Injection in Veramo Data Store ORM,https://github.com/advisories/GHSA-38cw-85xc-xr9x,https://da.gd/DPUT
+GithubAdvisories,[GHSA-cc8m-98fm-rc9g] Skipper is vulnerable to arbitrary code execution through lua filters,https://github.com/advisories/GHSA-cc8m-98fm-rc9g,https://da.gd/wqeJM
+GithubAdvisories,[GHSA-gw32-9rmw-qwww] svelte is vulnerable to XSS with textarea bind:value,https://github.com/advisories/GHSA-gw32-9rmw-qwww,https://da.gd/eayH
+GithubAdvisories,[GHSA-qh8m-9qxx-53m5] CakePHP PaginatorHelper::limitControl() vulnerable to reflected cross-site-scripting,https://github.com/advisories/GHSA-qh8m-9qxx-53m5,https://da.gd/KqLegB
+GithubAdvisories,[GHSA-7c2f-r6gc-h92h] Apache Airflow proxy credentials for various providers might leak in task logs,https://github.com/advisories/GHSA-7c2f-r6gc-h92h,https://da.gd/7jUxc8
+GithubAdvisories,[GHSA-3qmm-r55x-hpxx] Apache Airflow secrets in rendered templates could contain parts of sensitive values when truncated,https://github.com/advisories/GHSA-3qmm-r55x-hpxx,https://da.gd/xDotHl
+GithubAdvisories,[GHSA-5882-5rx9-xgxp] Crawl4AI is Vulnerable to Remote Code Execution in Docker API via Hooks Parameter,https://github.com/advisories/GHSA-5882-5rx9-xgxp,https://da.gd/sJ8WR
+GithubAdvisories,[GHSA-vx9w-5cx4-9796] Crawl4AI Has Local File Inclusion in Docker API via file:// URLs,https://github.com/advisories/GHSA-vx9w-5cx4-9796,https://da.gd/nzAJml
+GithubAdvisories,[GHSA-mx8m-v8qm-xwr8] Mattermost is vulnerable to DoS due to infinite re-renders on API errors,https://github.com/advisories/GHSA-mx8m-v8qm-xwr8,https://da.gd/PK90A
