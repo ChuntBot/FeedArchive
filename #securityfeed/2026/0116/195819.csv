@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fccg-7w3p-w66f] Nu Html Checker (vnu) contains a Server-Side Request Forgery (SSRF) vulnerability,https://github.com/advisories/GHSA-fccg-7w3p-w66f,https://da.gd/idKss
