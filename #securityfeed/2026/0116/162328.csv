@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m3c4-prhw-mrx6] Deno has an incomplete fix for command-injection prevention on Windows — case-insensitive extension bypass,https://github.com/advisories/GHSA-m3c4-prhw-mrx6,https://da.gd/FgH40t
+GithubAdvisories,[GHSA-5379-f5hf-w38v] Deno node:crypto doesn't finalize cipher,https://github.com/advisories/GHSA-5379-f5hf-w38v,https://da.gd/0C0pGR
+GithubAdvisories,[GHSA-333v-68xh-8mmq] RustFS's RPC signature verification logs shared secret,https://github.com/advisories/GHSA-333v-68xh-8mmq,https://da.gd/FPatbr
