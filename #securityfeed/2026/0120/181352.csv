@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-54wq-72mp-cq7c] Mailpit has an SMTP Header Injection via Regex Bypass,https://github.com/advisories/GHSA-54wq-72mp-cq7c,https://da.gd/zSmuoS
+GithubAdvisories,[GHSA-4gpc-rhpj-9443] Lobe Chat affected by Cross-Site Scripting(XSS) that can escalate to Remote Code Execution(RCE),https://github.com/advisories/GHSA-4gpc-rhpj-9443,https://da.gd/Oh4mmr
