@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-39h3-g67r-7g3c] ImageMagick releases an invalid pointer in BilateralBlur when memory allocation fails,https://github.com/advisories/GHSA-39h3-g67r-7g3c,https://da.gd/usES1Q
+GithubAdvisories,[GHSA-2657-3c98-63jq] esm.sh has a path traversal in extractPackageTarball enables file writes from malicious packages,https://github.com/advisories/GHSA-2657-3c98-63jq,https://da.gd/T6OMM2
+GithubAdvisories,[GHSA-j7xp-4mg9-x28r] Lobe Chat has IDOR in Knowledge Base File Removal that Allows Cross User File Deletion,https://github.com/advisories/GHSA-j7xp-4mg9-x28r,https://da.gd/4xauu
