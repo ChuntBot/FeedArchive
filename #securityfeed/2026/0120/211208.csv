@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5xq9-h3j2-jxvc] Cross Site Scripting (XSS) Vulnerability in Fetlife rollout-ui gem,https://github.com/advisories/GHSA-5xq9-h3j2-jxvc,https://da.gd/tDZI8u
+GithubAdvisories,[GHSA-63m5-974w-448v] Fleet has a JWT signature bypass vulnerability in Azure AD MDM enrollment,https://github.com/advisories/GHSA-63m5-974w-448v,https://da.gd/NrvrN
+GithubAdvisories,[GHSA-4r5r-ccr6-q6f6] Fleet has an Access Control vulnerability in debug/pprof endpoints,https://github.com/advisories/GHSA-4r5r-ccr6-q6f6,https://da.gd/eD70nb
+GithubAdvisories,[GHSA-gfpw-jgvr-cw4j] Fleet Windows MDM endpoint has a Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-gfpw-jgvr-cw4j,https://da.gd/CdLzkl
