@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3rxj-6cgf-8cfw] seroval Affected by Remote Code Execution via JSON Deserialization,https://github.com/advisories/GHSA-3rxj-6cgf-8cfw,https://da.gd/vkkA0
+GithubAdvisories,[GHSA-hj76-42vx-jwp4] seroval Affected by Prototype Pollution via JSON Deserialization,https://github.com/advisories/GHSA-hj76-42vx-jwp4,https://da.gd/n0qTs
+GithubAdvisories,[GHSA-m27r-m6rx-mhm4] Laravel Redis Horizontal Scaling Insecure Deserialization,https://github.com/advisories/GHSA-m27r-m6rx-mhm4,https://da.gd/xAoCRT
