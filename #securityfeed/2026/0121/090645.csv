@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42: Advisory on Critical Buffer Overflow Issues in freerdp,https://linuxsecurity.com/advisories/fedora/freerdp-fedora-42-2026-a193f1698f-2026-22857,https://da.gd/jfeEzN
+LinuxSecurity,Fedora 42: CEF High CVE-2026-0628 Insufficient Policy Enforcement Advisory,https://linuxsecurity.com/advisories/fedora/cef-fedora-42-2026-2a94cc43d9-2026-0628,https://da.gd/iXTNK
+LinuxSecurity,Fedora 42: golang-github-tetratelabs-wazero Important Update CVE-2025-47906,https://linuxsecurity.com/advisories/fedora/golang-github-tetratelabs-wazero-2026-2025-47906,https://da.gd/RaLB4l
+LinuxSecurity,Fedora 42: libpcap Medium Memory Corruption CVE-2025-11961 Advisory,https://linuxsecurity.com/advisories/fedora/libpcap-fedora-42-2026-1e3425e7ea-2025-11961,https://da.gd/XG1Z
