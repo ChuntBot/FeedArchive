@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-66fc-rw6m-c2q6] Seroval affected by Denial of Service via Array serialization,https://github.com/advisories/GHSA-66fc-rw6m-c2q6,https://da.gd/nqLjm
+GithubAdvisories,[GHSA-hx9m-jf43-8ffr] seroval affected by Denial of Service via RegExp serialization,https://github.com/advisories/GHSA-hx9m-jf43-8ffr,https://da.gd/PSmDDr
+GithubAdvisories,[GHSA-7jc7-g598-2p64] XDocReport affected by an XML External Entity (XXE) vulnerability,https://github.com/advisories/GHSA-7jc7-g598-2p64,https://da.gd/HOcBiZ
+GithubAdvisories,[GHSA-r8w2-w357-9pjv] XDocReport affected by a Server-Side Template Injection (SSTI) vulnerability,https://github.com/advisories/GHSA-r8w2-w357-9pjv,https://da.gd/jc5lA
+GithubAdvisories,[GHSA-339m-4qw5-j2g3] Tendenci Affected by Authenticated Remote Code Execution via Pickle Deserialization,https://github.com/advisories/GHSA-339m-4qw5-j2g3,https://da.gd/Mt6p
+GithubAdvisories,[GHSA-h3hw-29fv-2x75] @envelop/graphql-modules has a Race Condition vulnerability,https://github.com/advisories/GHSA-h3hw-29fv-2x75,https://da.gd/vpzhZ
+GithubAdvisories,[GHSA-fphv-w9fq-2525] go-tuf improperly validates the configured threshold for delegations,https://github.com/advisories/GHSA-fphv-w9fq-2525,https://da.gd/sI8qsO
+GithubAdvisories,[GHSA-846p-jg2w-w324] go-tuf affected by client DoS via malformed server response,https://github.com/advisories/GHSA-846p-jg2w-w324,https://da.gd/EdZLZP
+GithubAdvisories,[GHSA-hpwg-xg7m-3p6m] sm-crypto Affected by Signature Forgery in SM2-DSA,https://github.com/advisories/GHSA-hpwg-xg7m-3p6m,https://da.gd/TUikIt
+GithubAdvisories,[GHSA-qv7w-v773-3xqm] sm-crypto Affected by Signature Malleability in SM2-DSA,https://github.com/advisories/GHSA-qv7w-v773-3xqm,https://da.gd/pQMR25
+GithubAdvisories,[GHSA-pgx9-497m-6c4v] sm-crypto Affected by Private Key Recovery in SM2-PKE,https://github.com/advisories/GHSA-pgx9-497m-6c4v,https://da.gd/n8yTc
