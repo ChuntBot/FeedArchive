@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2g59-m95p-pgfq] Chainlit contain a server-side request forgery (SSRF) vulnerability,https://github.com/advisories/GHSA-2g59-m95p-pgfq,https://da.gd/9kzZhq
+GithubAdvisories,[GHSA-5vx3-wx4q-6cj8] ImageMagick has a NULL pointer dereference in MSL parser via tag before image load,https://github.com/advisories/GHSA-5vx3-wx4q-6cj8,https://da.gd/FbjR9
+GithubAdvisories,[GHSA-qp59-x883-77qv] ImageMagick has a Memory Leak in LoadOpenCLDeviceBenchmark() when parsing malformed XML,https://github.com/advisories/GHSA-qp59-x883-77qv,https://da.gd/k0Xxu2
+GithubAdvisories,[GHSA-r6q2-hw4h-h46w] Race Condition in node-tar Path Reservations via Unicode Ligature Collisions on macOS APFS,https://github.com/advisories/GHSA-r6q2-hw4h-h46w,https://da.gd/npa4y
+GithubAdvisories,[GHSA-9vj4-wc7r-p844] ImageMagick MSL: Stack overflow via infinite recursion in ProcessMSLScript,https://github.com/advisories/GHSA-9vj4-wc7r-p844,https://da.gd/0zb3zv
+GithubAdvisories,[GHSA-mvpq-2v8x-ww6g] Swift W3C TraceContext vulnerable to a malformed HTTP header causing a crash,https://github.com/advisories/GHSA-mvpq-2v8x-ww6g,https://da.gd/ZuMbf
+GithubAdvisories,[GHSA-2762-657x-v979] AlchemyCMS: Authenticated Remote Code Execution (RCE) via eval injection in ResourcesHelper,https://github.com/advisories/GHSA-2762-657x-v979,https://da.gd/dONQjC
+GithubAdvisories,[GHSA-6vfr-p2hx-6v32] Apache Linkis: Password Exposure,https://github.com/advisories/GHSA-6vfr-p2hx-6v32,https://da.gd/JvwAX
+GithubAdvisories,[GHSA-c399-q49h-qwc8] Apache Linkis: Arbitrary File Read via Double URL Encoding Bypass,https://github.com/advisories/GHSA-c399-q49h-qwc8,https://da.gd/ZjxQWd
+GithubAdvisories,[GHSA-4h3h-63v6-88qx] ESPHome vulnerable to denial-of-service via out-of-bounds check bypass in the API component,https://github.com/advisories/GHSA-4h3h-63v6-88qx,https://da.gd/MfOX6
+GithubAdvisories,[GHSA-pj88-9xww-gxmh] Swing Music has a Directory Traversal & Filesystem can be accessed by a non-admin user,https://github.com/advisories/GHSA-pj88-9xww-gxmh,https://da.gd/thKG
+GithubAdvisories,[GHSA-43mm-m3h2-3prc] File Browser Vulnerable to Username Enumeration via Timing Attack in /api/login,https://github.com/advisories/GHSA-43mm-m3h2-3prc,https://da.gd/PdmBoM
+GithubAdvisories,[GHSA-cv54-7wv7-qxcw] SiYuan vulnerable to Arbitrary file Read / SSRF,https://github.com/advisories/GHSA-cv54-7wv7-qxcw,https://da.gd/R8w87x
+GithubAdvisories,[GHSA-94c7-g2fj-7682] SiYuan Vulnerable to Arbitrary File Read via File Copy Functionality,https://github.com/advisories/GHSA-94c7-g2fj-7682,https://da.gd/6ZjLsK
+GithubAdvisories,[GHSA-6jxm-fv7w-rw5j] Mailpit has a Server-Side Request Forgery (SSRF) via HTML Check API,https://github.com/advisories/GHSA-6jxm-fv7w-rw5j,https://da.gd/a7neC
+GithubAdvisories,[GHSA-h526-wf6g-67jv] Orval has a code injection via unsanitized x-enum-descriptions in enum generation,https://github.com/advisories/GHSA-h526-wf6g-67jv,https://da.gd/CLgONf
+GithubAdvisories,[GHSA-w836-5gpm-7r93] SiYuan has a Reflected Cross-Site Scripting (XSS) via /api/icon/getDynamicIcon,https://github.com/advisories/GHSA-w836-5gpm-7r93,https://da.gd/s9MNj
+GithubAdvisories,[GHSA-jh7p-qr78-84p7] Claude Code Leaks Data via Malicious Environment Configuration Before Trust Confirmation,https://github.com/advisories/GHSA-jh7p-qr78-84p7,https://da.gd/EnxV0
