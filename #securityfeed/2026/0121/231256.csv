@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pchf-49fh-w34r] Soft Serve Affected by an Authentication Bypass,https://github.com/advisories/GHSA-pchf-49fh-w34r,https://da.gd/Bvh0
+GithubAdvisories,[GHSA-xxjr-mmjv-4gpg] Lodash has Prototype Pollution Vulnerability in `_.unset` and `_.omit` functions,https://github.com/advisories/GHSA-xxjr-mmjv-4gpg,https://da.gd/iYN3ns
+GithubAdvisories,[GHSA-36p8-mvp6-cv38] Wrangler affected by OS Command Injection in `wrangler pages deploy`,https://github.com/advisories/GHSA-36p8-mvp6-cv38,https://da.gd/aPxA5
+GithubAdvisories,[GHSA-8h3q-9fpp-c883] Duplicate Advisory: Wrangler affected by OS Command Injection in `wrangler pages deploy`,https://github.com/advisories/GHSA-8h3q-9fpp-c883,https://da.gd/wndSbQ
+GithubAdvisories,"[GHSA-r92c-9c7f-3pj8] OpenTofu has High CPU usage in ""tofu init"" with maliciously-crafted module packages in .zip format",https://github.com/advisories/GHSA-r92c-9c7f-3pj8,https://da.gd/FamMh3
+GithubAdvisories,[GHSA-vc2w-4v3p-2mqw] Apache Solr: Insufficient file-access checking in standalone core-creation requests,https://github.com/advisories/GHSA-vc2w-4v3p-2mqw,https://da.gd/3vrFNo
+GithubAdvisories,[GHSA-m39p-34qh-rh3w] binary-parser library has a code injection vulnerability,https://github.com/advisories/GHSA-m39p-34qh-rh3w,https://da.gd/qcKI
+GithubAdvisories,"[GHSA-qr3p-2xj2-q7hq] Apache Solr: Unauthorized bypass of certain ""predefined permission"" rules in the RuleBasedAuthorizationPlugin",https://github.com/advisories/GHSA-qr3p-2xj2-q7hq,https://da.gd/3Q2cm
+GithubAdvisories,[GHSA-594w-2fwp-jwrc] Keycloak Admin REST API exposes backend schema and rules,https://github.com/advisories/GHSA-594w-2fwp-jwrc,https://da.gd/EG0J69
+GithubAdvisories,[GHSA-q2x5-4xjx-c6p9] Backstage has a Possible SSRF when reading from allowed URL's in `backend.reading.allow`,https://github.com/advisories/GHSA-q2x5-4xjx-c6p9,https://da.gd/YD0M70
