@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2p49-45hj-7mc9] @backstage/cli-common has a possible `resolveSafeChildPath` Symlink Chain Bypass,https://github.com/advisories/GHSA-2p49-45hj-7mc9,https://da.gd/CdEMG
+GithubAdvisories,[GHSA-rq6q-wr2q-7pgp] Backstage has a Possible Symlink Path Traversal in Scaffolder Actions,https://github.com/advisories/GHSA-rq6q-wr2q-7pgp,https://da.gd/mQKJT
+GithubAdvisories,[GHSA-wv3h-x6c4-r867] Keycloak services allows the issuance of access and refresh tokens for disabled users,https://github.com/advisories/GHSA-wv3h-x6c4-r867,https://da.gd/X4F3On
+GithubAdvisories,[GHSA-m2w5-7xhv-w6fh] Keycloak does not validate and update refresh token usage atomically,https://github.com/advisories/GHSA-m2w5-7xhv-w6fh,https://da.gd/I6HhA
+GithubAdvisories,[GHSA-95c6-p277-p87g] FastAPI Api Key has a timing side-channel in verify_key that allows statistical key validity detection,https://github.com/advisories/GHSA-95c6-p277-p87g,https://da.gd/RNkl
+GithubAdvisories,[GHSA-4xh5-jcj2-ch8q] Flux Operator Web UI Impersonation Bypass via Empty OIDC Claims,https://github.com/advisories/GHSA-4xh5-jcj2-ch8q,https://da.gd/StGW
+GithubAdvisories,[GHSA-4fqp-r85r-hxqh] Copier safe template has arbitrary filesystem write access via directory symlinks when _preserve_symlinks: true,https://github.com/advisories/GHSA-4fqp-r85r-hxqh,https://da.gd/k2ZcKn
