@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-577h-p2hh-v4mv] Langflow CORS misconfiguration enables Account Takeover and RCE,https://github.com/advisories/GHSA-577h-p2hh-v4mv,https://da.gd/hXQMLD
+GithubAdvisories,[GHSA-6h4f-pj3g-q8fq] Undertow OutOfMemory when parsing form data encoding with application/x-www-form-urlencoded,https://github.com/advisories/GHSA-6h4f-pj3g-q8fq,https://da.gd/hAZj
+GithubAdvisories,[GHSA-7x99-8x99-xc54] Salesforce Uni2TS has a Code Injection vulnerability,https://github.com/advisories/GHSA-7x99-8x99-xc54,https://da.gd/tKMxD
