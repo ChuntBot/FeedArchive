@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fqcv-8859-86x2] CoreShop Vulnerable to SQL Injection via Admin customer-company-modifier,https://github.com/advisories/GHSA-fqcv-8859-86x2,https://da.gd/MY0VIP
+GithubAdvisories,[GHSA-2pc9-4j83-qjmr] vLLM affected by RCE via auto_map dynamic module loading during model initialization,https://github.com/advisories/GHSA-2pc9-4j83-qjmr,https://da.gd/k512rp
+GithubAdvisories,[GHSA-ggff-9mj3-7246] mailqueue TYPO3 extension affected by Insecure Deserialization,https://github.com/advisories/GHSA-ggff-9mj3-7246,https://da.gd/FmjoTS
+GithubAdvisories,[GHSA-43rr-x62x-q96w] MineAdmin improperly refreshes tokens,https://github.com/advisories/GHSA-43rr-x62x-q96w,https://da.gd/HGVhl
