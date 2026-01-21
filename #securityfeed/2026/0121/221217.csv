@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xjhm-gp88-8pfx] Copier safe template has arbitrary filesystem read access via symlinks when _preserve_symlinks: false,https://github.com/advisories/GHSA-xjhm-gp88-8pfx,https://da.gd/KZj4P
+GithubAdvisories,[GHSA-cv78-6m8q-ph82] Argo Workflows affected by stored XSS in the artifact directory listing,https://github.com/advisories/GHSA-cv78-6m8q-ph82,https://da.gd/6Q51j
+GithubAdvisories,[GHSA-7vw6-5q2f-7w5r] Keycloak’s OpenID Connect Dynamic Client Registration feature affected by Server-Side Request Forgery (SSRF),https://github.com/advisories/GHSA-7vw6-5q2f-7w5r,https://da.gd/Q9K0M
