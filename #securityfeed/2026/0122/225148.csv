@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vqxh-445g-37fc] Spring Security has a broken timing attack mitigation implemented in DaoAuthenticationProvide,https://github.com/advisories/GHSA-vqxh-445g-37fc,https://da.gd/trFYj
+GithubAdvisories,[GHSA-w2gr-585j-r428] Metricbeat affected by multiple denial of service vulnerabilities,https://github.com/advisories/GHSA-w2gr-585j-r428,https://da.gd/TQFP
+GithubAdvisories,[GHSA-cq3j-qj2h-6rv3] Container and Containerization archive extraction does not guard against escapes from extraction base directory,https://github.com/advisories/GHSA-cq3j-qj2h-6rv3,https://da.gd/NQPVu1
