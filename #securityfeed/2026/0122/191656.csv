@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hx9q-6w63-j58v] orjson does not limit recursion for deeply nested JSON documents,https://github.com/advisories/GHSA-hx9q-6w63-j58v,https://da.gd/fiQFCd
