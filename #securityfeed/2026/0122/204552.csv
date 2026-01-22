@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2pwh-52h7-7j84] JavaScript execution via malicious molfiles (XSS),https://github.com/advisories/GHSA-2pwh-52h7-7j84,https://da.gd/U7fois
+GithubAdvisories,[GHSA-fcv2-xgw5-pqxf] sigstore legacy TUF client allows for arbitrary file writes with target cache path traversal,https://github.com/advisories/GHSA-fcv2-xgw5-pqxf,https://da.gd/lA1MDx
+GithubAdvisories,[GHSA-38vq-g6vr-w8wf] Sentencepiece has a a heap overflow issue,https://github.com/advisories/GHSA-38vq-g6vr-w8wf,https://da.gd/LcKw
+GithubAdvisories,[GHSA-7f67-crqm-jgh7] Incus container image templating arbitrary host file read and write,https://github.com/advisories/GHSA-7f67-crqm-jgh7,https://da.gd/WA2c6
+GithubAdvisories,[GHSA-x6jc-phwx-hp32] Incus container environment configuration newline injection,https://github.com/advisories/GHSA-x6jc-phwx-hp32,https://da.gd/MVnX
