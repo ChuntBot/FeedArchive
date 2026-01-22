@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f456-rf33-4626] Orval Mock Generation Code Injection via const,https://github.com/advisories/GHSA-f456-rf33-4626,https://da.gd/DRBac
+GithubAdvisories,[GHSA-3jqf-v4mv-747g] Moonraker affected by LDAP search filter injection,https://github.com/advisories/GHSA-3jqf-v4mv-747g,https://da.gd/4DKzpY
+GithubAdvisories,[GHSA-qqpg-mvqg-649v] Logback allows an attacker to instantiate classes already present on the class path,https://github.com/advisories/GHSA-qqpg-mvqg-649v,https://da.gd/G3Da8
+GithubAdvisories,[GHSA-3v2x-9xcv-2v2v] SurrealDB Affected by Confused Deputy Privilege Escalation through Future Fields and Functions,https://github.com/advisories/GHSA-3v2x-9xcv-2v2v,https://da.gd/y6wuv
+GithubAdvisories,[GHSA-7jxj-rpx7-ph2c] Umbraco.Forms CDN may cache sensitive form uploads when processed by ImageSharp,https://github.com/advisories/GHSA-7jxj-rpx7-ph2c,https://da.gd/rWMzy
+GithubAdvisories,[GHSA-657c-wxg6-jmqv] pH7-Social-Dating-CMS affected by a stored cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-657c-wxg6-jmqv,https://da.gd/ZvBAzX
+GithubAdvisories,[GHSA-j8hf-cp34-g4j7] Dragonfly Manager Job API Unauthenticated Access,https://github.com/advisories/GHSA-j8hf-cp34-g4j7,https://da.gd/nWDsMb
+GithubAdvisories,[GHSA-8rrh-rw8j-w5fx] Wheel Affected by Arbitrary File Permission Modification via Path Traversal in wheel unpack,https://github.com/advisories/GHSA-8rrh-rw8j-w5fx,https://da.gd/PkKLaH
+GithubAdvisories,[GHSA-vqxf-v2gg-x3hc] docling-core vulnerable to Remote Code Execution via unsafe PyYAML usage,https://github.com/advisories/GHSA-vqxf-v2gg-x3hc,https://da.gd/BCYoi
+GithubAdvisories,[GHSA-3j22-8qj3-26mx] Seroval affected by Denial of Service via Deeply Nested Objects,https://github.com/advisories/GHSA-3j22-8qj3-26mx,https://da.gd/qwsJjx
+GithubAdvisories,[GHSA-4xc5-wfwc-jw47] Typebot affected by Credential Theft via Client-Side Script Execution and API Authorization Bypass,https://github.com/advisories/GHSA-4xc5-wfwc-jw47,https://da.gd/Ewx0a
