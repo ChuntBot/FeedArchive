@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian Bookworm Python-urllib3 Announces Critical Regression Fix DSA-6102-2,https://linuxsecurity.com/advisories/debian/python-urllib3-dsa-6102-2-2026-21441,https://da.gd/QckQW
+LinuxSecurity,Debian DSA-6108-1 Critical Chromium Arbitrary Code Exec CVE-2026-1220,https://linuxsecurity.com/advisories/debian/chromium-dsa-6108-1-2026-1220,https://da.gd/y2j81N
+LinuxSecurity,SUSE 2026-0211-1 libsoup Important Security Update for Multiple Threats,https://linuxsecurity.com/advisories/suse/libsoup-suse-2026-0211-1-2025-14523,https://da.gd/L1oL9x
+LinuxSecurity,openSUSE 2026-0211-1 libsoup Important Buffer Overflow CVE-2025-14523,https://linuxsecurity.com/advisories/opensuse/libsoup-opensuse-2026-0211-1-2025-14523,https://da.gd/cPZ8
+LinuxSecurity,SUSE 2026-0212-1 Critical Patch for ovmf Buffer Overflow Issue,https://linuxsecurity.com/advisories/suse/ovmf-suse-2026-0212-1-2022-36765,https://da.gd/Cxk8
+LinuxSecurity,openSUSE Leap 15.4 OVMF Important Network Buffer Overflow Vuln 2026-0212-1,https://linuxsecurity.com/advisories/opensuse/ovmf-opensuse-2026-0212-1-2022-36765,https://da.gd/rnmYU
