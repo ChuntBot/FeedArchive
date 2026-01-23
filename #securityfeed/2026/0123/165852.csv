@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7gcm-g887-7qv7] protobuf affected by a JSON recursion depth bypass,https://github.com/advisories/GHSA-7gcm-g887-7qv7,https://da.gd/bORlYT
+GithubAdvisories,[GHSA-c32p-wcqj-j677] CometBFT has inconsistencies between how commit signatures are verified and how block time is derived,https://github.com/advisories/GHSA-c32p-wcqj-j677,https://da.gd/J3VS
+GithubAdvisories,[GHSA-xvmh-25jw-gmmm] Moodle affected by a code injection vulnerability,https://github.com/advisories/GHSA-xvmh-25jw-gmmm,https://da.gd/SraUET
+GithubAdvisories,[GHSA-wvqx-m5px-6cmp] XWiki Affected by Reflected Cross-Site Scripting (XSS) in Error Messages,https://github.com/advisories/GHSA-wvqx-m5px-6cmp,https://da.gd/LKDIjp
