@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j4rc-96xj-gvqc] phpMyFAQ: Public API endpoints expose emails and invisible questions,https://github.com/advisories/GHSA-j4rc-96xj-gvqc,https://da.gd/MCAPkn
+GithubAdvisories,[GHSA-wm8h-26fv-mg7g] phpMyFAQ: /api/setup/backup accessible to any authenticated user (authz missing),https://github.com/advisories/GHSA-wm8h-26fv-mg7g,https://da.gd/yfO9uf
+GithubAdvisories,[GHSA-7p9h-m7m8-vhhv] phpMyFAQ: Attachment download allowed without dlattachment right (broken access control),https://github.com/advisories/GHSA-7p9h-m7m8-vhhv,https://da.gd/FlFwz
+GithubAdvisories,[GHSA-w7rq-fgx4-4xcm] LavaLite CMS affected by a stored cross-site scripting vulnerability,https://github.com/advisories/GHSA-w7rq-fgx4-4xcm,https://da.gd/YxpiX
+GithubAdvisories,[GHSA-mxc8-4jqf-368q] miniserve affected by a TOCTOU and symlink race vulnerability,https://github.com/advisories/GHSA-mxc8-4jqf-368q,https://da.gd/MSvgh
+GithubAdvisories,[GHSA-qqgv-v353-cv8p] Gitea does not properly validate ownership when toggling OpenID URI visibility,https://github.com/advisories/GHSA-qqgv-v353-cv8p,https://da.gd/RMwMU
+GithubAdvisories,[GHSA-4xx9-vc8v-87hv] Gitea does not properly validate repository ownership when linking attachments to releases,https://github.com/advisories/GHSA-4xx9-vc8v-87hv,https://da.gd/SyyqWN
+GithubAdvisories,[GHSA-393c-qgvj-3xph] Gitea does not properly validate repository ownership when deleting Git LFS locks,https://github.com/advisories/GHSA-393c-qgvj-3xph,https://da.gd/1ewJ
+GithubAdvisories,[GHSA-9cgq-wp42-4rpq] Gitea does not properly verify authorization when canceling scheduled auto-merges via the web interface,https://github.com/advisories/GHSA-9cgq-wp42-4rpq,https://da.gd/ODHWo
+GithubAdvisories,[GHSA-rw22-5hhq-pfpf] Gitea does not properly validate project ownership in organization project operations,https://github.com/advisories/GHSA-rw22-5hhq-pfpf,https://da.gd/LzRjL
+GithubAdvisories,[GHSA-j8xr-c56q-m8jj] Gitea improperly exposes issue titles and repository names through previously started stopwatches,https://github.com/advisories/GHSA-j8xr-c56q-m8jj,https://da.gd/YR2is
+GithubAdvisories,[GHSA-2vgv-hgv4-22mh] Gitea improperly exposes issue and pull request titles,https://github.com/advisories/GHSA-2vgv-hgv4-22mh,https://da.gd/FNHJHW
+GithubAdvisories,[GHSA-hgr3-x44x-33hx] Gitea has improper access control for uploaded attachments,https://github.com/advisories/GHSA-hgr3-x44x-33hx,https://da.gd/X1rTr
+GithubAdvisories,[GHSA-8fwc-qjw5-rvgp] Gitea may send release notification emails for private repositories to users whose access has been revoked,https://github.com/advisories/GHSA-8fwc-qjw5-rvgp,https://da.gd/WYY3v
