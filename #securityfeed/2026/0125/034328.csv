@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Mageia 9 Kernel Important Security Fix Remote Access MGASA-2026-0017,https://linuxsecurity.com/advisories/mageia/kernel-mageia-2026-0017-2025-40214,https://da.gd/F5WRX3
+LinuxSecurity,Debian 11 Shapelib Severe Double Release Denial of Service DLA-4451-2,https://linuxsecurity.com/advisories/deblts/shapelib-dla-4451-1-2022-0699,https://da.gd/lBhAiz
+LinuxSecurity,Debian 11 Taglib Critical Update Addressing Application Crash DLA-4450-1,https://linuxsecurity.com/advisories/deblts/taglib-dla-4450-1-2023-47466,https://da.gd/scGgh0
+LinuxSecurity,Debian 11 zvbi Important Integer Overflow Advisory DLA-4449-1 CVE-2025-2173,https://linuxsecurity.com/advisories/deblts/zvbi-dla-4449-1-2025-2173,https://da.gd/TfbLg
