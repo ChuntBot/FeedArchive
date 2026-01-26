@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hm8f-75xx-w2vr] sigstore CSRF possibility in OIDC authentication during signing,https://github.com/advisories/GHSA-hm8f-75xx-w2vr,https://da.gd/oRSlW
+GithubAdvisories,[GHSA-rqfh-9r24-8c9r] AssertJ has XML External Entity (XXE) vulnerability when parsing untrusted XML via isXmlEqualTo assertion,https://github.com/advisories/GHSA-rqfh-9r24-8c9r,https://da.gd/8MENB
+GithubAdvisories,[GHSA-v253-rj99-jwpq] pnpm has Path Traversal via arbitrary file permission modification,https://github.com/advisories/GHSA-v253-rj99-jwpq,https://da.gd/CSqI
+GithubAdvisories,[GHSA-6r62-w2q3-48hf] BentoML has a Path Traversal via Bentofile Configuration,https://github.com/advisories/GHSA-6r62-w2q3-48hf,https://da.gd/WPyYi
