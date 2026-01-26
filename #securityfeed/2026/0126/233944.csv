@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2q4j-m29v-hq73] pypdf has possible Infinite Loop when processing outlines/bookmarks,https://github.com/advisories/GHSA-2q4j-m29v-hq73,https://da.gd/yvU9es
+GithubAdvisories,[GHSA-8hf7-h89p-3pqj] MobSF has Stored XSS via Manifest Analysis - Dialer Code Host Field,https://github.com/advisories/GHSA-8hf7-h89p-3pqj,https://da.gd/JTzhQd
+GithubAdvisories,[GHSA-cr3w-cw5w-h3fj] Saltcorn's Reflected XSS and Command Injection vulnerabilities can be chained for 1-click-RCE,https://github.com/advisories/GHSA-cr3w-cw5w-h3fj,https://da.gd/MuNAw4
+GithubAdvisories,[GHSA-gcgx-chcp-hxp9] Gakido vulnerable to HTTP Header Injection (CRLF Injection),https://github.com/advisories/GHSA-gcgx-chcp-hxp9,https://da.gd/fjYSze
+GithubAdvisories,[GHSA-wp53-j4wj-2cfg] Python-Multipart has Arbitrary File Write via Non-Default Configuration,https://github.com/advisories/GHSA-wp53-j4wj-2cfg,https://da.gd/vFxsfg
+GithubAdvisories,[GHSA-mxxc-p822-2hx9] Skipper Ingress Controller Allows Unauthorized Access to Internal Services via ExternalName,https://github.com/advisories/GHSA-mxxc-p822-2hx9,https://da.gd/sO1B9
