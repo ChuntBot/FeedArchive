@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+LinuxSecurity,Gentoo Commons-BeanUtils High Risk Arbitrary Code Exec GLSA 202601-05,https://linuxsecurity.com/advisories/gentoo/commons-beanutils-arbitrary-code-execution-2025-48734,https://da.gd/gYYxv1
+LinuxSecurity,Gentoo Asterisk High Code Execution Risks GLSA-202601-04,https://linuxsecurity.com/advisories/gentoo/asterisk-glsa-202601-04-2025-1131,https://da.gd/d816u
+LinuxSecurity,Gentoo GIMP High Arbitrary Code Execution GLSA-202601-03 CVE-2025-10934,https://linuxsecurity.com/advisories/gentoo/gimp-arbitrary-code-execution-2025-10934,https://da.gd/gNpF5J
+LinuxSecurity,Gentoo Vim High Multiple Execution Threat GLSA-202601-02 CVE-2025-53905,https://linuxsecurity.com/advisories/gentoo/vim-gvim-glsa-202601-02-2025-53905,https://da.gd/7w93iM
+LinuxSecurity,Gentoo inetutils High Remote Code Exec CVE-2026-24061 GLSA 202601-01,https://linuxsecurity.com/advisories/gentoo/inetutils-remote-code-execution-2026-24061,https://da.gd/E0EB9n
