@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6pfh-p556-v868] pnpm: Binary ZIP extraction allows arbitrary file write via path traversal (Zip Slip),https://github.com/advisories/GHSA-6pfh-p556-v868,https://da.gd/YSMUSV
+GithubAdvisories,[GHSA-6x96-7vc8-cm3p] pnpm has Windows-specific tarball Path Traversal,https://github.com/advisories/GHSA-6x96-7vc8-cm3p,https://da.gd/1CoAOX
+GithubAdvisories,[GHSA-xpqm-wm3m-f34h] pnpm scoped bin name Path Traversal allows arbitrary file creation outside node_modules/.bin,https://github.com/advisories/GHSA-xpqm-wm3m-f34h,https://da.gd/q6rgg
+GithubAdvisories,[GHSA-m733-5w8f-5ggw] pnpm has symlink traversal in file:/git dependencies,https://github.com/advisories/GHSA-m733-5w8f-5ggw,https://da.gd/BIjne
