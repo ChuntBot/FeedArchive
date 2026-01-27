@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vvj3-c3rp-c85p] PHPUnit Vulnerable to Unsafe Deserialization in PHPT Code Coverage Handling,https://github.com/advisories/GHSA-vvj3-c3rp-c85p,https://da.gd/9dp1E
+GithubAdvisories,[GHSA-8rgq-m2pm-jvmg] Duplicate Advisory: gix-date can create non-utf8 string with `TimeBuf::as_str`,https://github.com/advisories/GHSA-8rgq-m2pm-jvmg,https://da.gd/kTUTTe
+GithubAdvisories,[GHSA-w5wv-wvrp-v5m5] Kargo's `GetConfig()` and `RefreshResource()` API endpoints allow unauthenticated access,https://github.com/advisories/GHSA-w5wv-wvrp-v5m5,https://da.gd/TbdoRW
+GithubAdvisories,[GHSA-8cw6-53m5-4932] StudioCMS has Authorization Bypass Through User-Controlled Key,https://github.com/advisories/GHSA-8cw6-53m5-4932,https://da.gd/0Vld
