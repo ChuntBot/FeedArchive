@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rvr2-r3pv-5m4p] oneshot has potential Use After Free when used asynchronously,https://github.com/advisories/GHSA-rvr2-r3pv-5m4p,https://da.gd/DSIxtP
+GithubAdvisories,[GHSA-j49h-6577-5xwq] gmrtd ReadFile Vulnerable to Denial of Service via Excessive TLV Length Values,https://github.com/advisories/GHSA-j49h-6577-5xwq,https://da.gd/PlFCv
+GithubAdvisories,[GHSA-m855-r557-5rc5] Dozzle Agent Label-Based Access Control Bypass Allows Unauthorized Container Shell Access,https://github.com/advisories/GHSA-m855-r557-5rc5,https://da.gd/x0HR0O
+GithubAdvisories,[GHSA-vc8c-j3xm-xj73] Wasmtime segfault or unused out-of-sandbox load with f64.copysign operator on x86-64,https://github.com/advisories/GHSA-vc8c-j3xm-xj73,https://da.gd/tHcZ9
