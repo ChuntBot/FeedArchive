@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xg4x-w2j3-57h6] OctoPrint has Timing Side-Channel Vulnerability in API Key Authentication,https://github.com/advisories/GHSA-xg4x-w2j3-57h6,https://da.gd/d6bgy
