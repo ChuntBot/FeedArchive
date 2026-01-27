@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-frpp-8pwq-hjrx] Hibernate Reactive Vulnerable to DoS via Connection Pool Exhaustion,https://github.com/advisories/GHSA-frpp-8pwq-hjrx,https://da.gd/vob3CY
+GithubAdvisories,[GHSA-6p6h-rqr6-62mv] GI-DocGen vulnerable to Reflected XSS via unescaped query strings,https://github.com/advisories/GHSA-6p6h-rqr6-62mv,https://da.gd/d8n9p
+GithubAdvisories,[GHSA-86rf-68f4-2cph] Duplicate Advisory: go-viper's mapstructure May Leak Sensitive Information in Logs When Processing Malformed Data,https://github.com/advisories/GHSA-86rf-68f4-2cph,https://da.gd/RWQMh
