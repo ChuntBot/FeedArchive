@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9g9p-9gw9-jx7f] Next.js self-hosted applications vulnerable to DoS via Image Optimizer remotePatterns configuration,https://github.com/advisories/GHSA-9g9p-9gw9-jx7f,https://da.gd/Xiyq1
