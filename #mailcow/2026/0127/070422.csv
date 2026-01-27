@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Fixes issue #6489,https://github.com/mailcow/mailcow-dockerized/commit/c060c205d3ab8c6a16504b688ec2fd8806b1f1a8,https://da.gd/xyGW2
+GithubCommitStaging,fix: Password for mobileconfig that conforms to password-complexity p…,https://github.com/mailcow/mailcow-dockerized/commit/70101d1187a99ade3133e740c93af198ac7f1bee,https://da.gd/6Ocivc
+GithubCommitStaging,Merge pull request #6990 from psuet/mobileconfig-with-password-comple…,https://github.com/mailcow/mailcow-dockerized/commit/ec8dd1a54f2a5af7e7d9ef2264a843edab7730ba,https://da.gd/8g47px
+GithubCommitStaging,Merge pull request #6980 from bluewalk/feat/issue-6489,https://github.com/mailcow/mailcow-dockerized/commit/95d61e8aa22cafba82bdd3037e281bb3eae52f16,https://da.gd/YnSmn
