@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wxhw-j4hc-fmq6] SandboxJS has Sandbox Escape via Unprotected AsyncFunction Constructor,https://github.com/advisories/GHSA-wxhw-j4hc-fmq6,https://da.gd/8fcZop
