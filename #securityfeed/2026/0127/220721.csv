@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-63v5-26vq-m4vm] Keycloak's missing timestamp validation allows attackers to extend SAML response validity periods,https://github.com/advisories/GHSA-63v5-26vq-m4vm,https://da.gd/VAM1fy
