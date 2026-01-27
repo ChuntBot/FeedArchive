@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 43 glibc Critical Info Leak Integer Overflow CVE-2026-0915,https://linuxsecurity.com/advisories/fedora/glibc-fedora-43-2026-205d532069-2025-15281,https://da.gd/nCqFz
+LinuxSecurity,Fedora 43 Chromium Critical Race Condition CVE-2026-1220,https://linuxsecurity.com/advisories/fedora/chromium-fedora-43-2026-b4b553ec05-2026-1220,https://da.gd/GNv9F
+LinuxSecurity,Fedora 43 qownnotes Critical XSS Risks Ua 2026-00a6b7589c,https://linuxsecurity.com/advisories/fedora/qownnotes-fedora-2026-00a6b7589c-2025-8083,https://da.gd/zANdt
+LinuxSecurity,Critical Remote Code Execution Vulnerability in Fedora 43 mingw-openexr,https://linuxsecurity.com/advisories/fedora/mingw-openexr-2026-1fbf91067c-2025-64183,https://da.gd/ecuRI
+LinuxSecurity,Fedora 43 libsoup Critical Duplicate Host Header Issue CVE-2025-14523,https://linuxsecurity.com/advisories/fedora/mingw-libsoup-fedora-43-2026-20b533bbc7-2025-14523,https://da.gd/b7pfo
+LinuxSecurity,Fedora 43 mingw-glib2 Important Denial of Service Patch CVE-2026-0988,https://linuxsecurity.com/advisories/fedora/mingw-glib2-fedora-2026-46fe567fd3-2026-0988,https://da.gd/Gy1JA
