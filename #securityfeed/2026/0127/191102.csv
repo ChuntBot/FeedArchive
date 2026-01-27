@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w332-q679-j88p] Hono has an Arbitrary Key Read in Serve static Middleware (Cloudflare Workers Adapter),https://github.com/advisories/GHSA-w332-q679-j88p,https://da.gd/hLmzQ6
+GithubAdvisories,"[GHSA-6wqw-2p9w-4vw4] hono cache middleware ignores ""Cache-Control: private"" leading to Web Cache Deception",https://github.com/advisories/GHSA-6wqw-2p9w-4vw4,https://da.gd/BXrcgt
+GithubAdvisories,[GHSA-r354-f388-2fhh] Hono IPv4 address validation bypass in IP Restriction Middleware allows IP spoofing,https://github.com/advisories/GHSA-r354-f388-2fhh,https://da.gd/30MJd
