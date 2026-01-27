@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-63cw-57p8-fm3p] PyTorch Vulnerable to Remote Code Execution via Untrusted Checkpoint Files,https://github.com/advisories/GHSA-63cw-57p8-fm3p,https://da.gd/Cpaljr
