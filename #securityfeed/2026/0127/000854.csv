@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jqc5-w2xx-5vq4] go-tuf Path Traversal in TAP 4 Multirepo Client Allows Arbitrary File Write via Malicious Repository Names,https://github.com/advisories/GHSA-jqc5-w2xx-5vq4,https://da.gd/jhMU52
+GithubAdvisories,[GHSA-77p9-w6pj-rmvg] Apache Continuum vulnerable to Command Injection through Installations REST API,https://github.com/advisories/GHSA-77p9-w6pj-rmvg,https://da.gd/axabWT
+GithubAdvisories,[GHSA-jmw5-58c7-587h] Apache Karaf Decanter has Deserialization of Untrusted Data in its Log Socket Collector,https://github.com/advisories/GHSA-jmw5-58c7-587h,https://da.gd/4VXfm
+GithubAdvisories,[GHSA-92cc-952p-v8rh] Apache Hadoop HDFS Native Client has Out-of-bounds Write Vulnerability,https://github.com/advisories/GHSA-92cc-952p-v8rh,https://da.gd/jqO2Q
