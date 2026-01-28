@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5w5r-mf82-595p] Cap'n Proto has Undefined Behavior in constant::Reader and StructSchema,https://github.com/advisories/GHSA-5w5r-mf82-595p,https://da.gd/eGTn6
+GithubAdvisories,[GHSA-444m-px7r-qpvv] weixin4j has Improperly Controlled Sequential Memory Allocation,https://github.com/advisories/GHSA-444m-px7r-qpvv,https://da.gd/mATFc
+GithubAdvisories,[GHSA-23f4-hfmq-94mj] Quick-Media Batik Codec FIX Package has Buffer Overflow Vulnerability in PNG Codec,https://github.com/advisories/GHSA-23f4-hfmq-94mj,https://da.gd/jSWkoK
+GithubAdvisories,[GHSA-8623-9fwr-4cxv] Quick-Media Batik Codec FIX package has Code Injection vulnerability,https://github.com/advisories/GHSA-8623-9fwr-4cxv,https://da.gd/C5BmD6
+GithubAdvisories,[GHSA-gpx9-96j6-pp87] TaskWeaver has Protection Mechanism Failure and Server-Side Request Forgery (SSRF),https://github.com/advisories/GHSA-gpx9-96j6-pp87,https://da.gd/aweip
+GithubAdvisories,[GHSA-hcx3-3q5c-r5v6] jsonrpc4j has Infinite Loop in RPC Stream Writer,https://github.com/advisories/GHSA-hcx3-3q5c-r5v6,https://da.gd/XYaZ1
