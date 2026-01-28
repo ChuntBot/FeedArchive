@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] Allow admins to limit EAS and DAV access for mailbox users,https://github.com/mailcow/mailcow-dockerized/commit/56ea4302ed13ac9aa344dc840689c4dd6ac76b68,https://da.gd/TWCar
+GithubCommitStaging,Merge pull request #7022 from mailcow/feat/eas-dav-access,https://github.com/mailcow/mailcow-dockerized/commit/82276cd1ca9c38405e21c8366ac326913e5ccefc,https://da.gd/cOmKAJ
