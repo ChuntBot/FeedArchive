@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-96xm-fv9w-pf3f] soroban-sdk has overflow in Bytes::slice, Vec::slice, GenRange::gen_range for u64",https://github.com/advisories/GHSA-96xm-fv9w-pf3f,https://da.gd/e6qYn
