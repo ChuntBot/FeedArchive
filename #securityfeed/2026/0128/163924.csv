@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-34x7-hfp2-rc4v] node-tar Vulnerable to Arbitrary File Creation/Overwrite via Hardlink Path Traversal,https://github.com/advisories/GHSA-34x7-hfp2-rc4v,https://da.gd/Fy9Vs
+GithubAdvisories,[GHSA-vm5q-8qww-h238] DotNetNuke.Core Vulnerable to Stored XSS in Module Deletion Confirmation Modal,https://github.com/advisories/GHSA-vm5q-8qww-h238,https://da.gd/lWq2We
+GithubAdvisories,[GHSA-2g5g-hcgh-q3rp] DotNetNuke.Core Vulnerable to Stored XSS in Scheduler LogNotes,https://github.com/advisories/GHSA-2g5g-hcgh-q3rp,https://da.gd/Z2Oqq
+GithubAdvisories,[GHSA-253q-9q78-63x4] Clatter has a PSK Validity Rule Violation issue,https://github.com/advisories/GHSA-253q-9q78-63x4,https://da.gd/xDbBu
+GithubAdvisories,[GHSA-jjwg-4948-6wxp] DotNetNuke.Core has a potential XSS vulnerability in modules' header and footer,https://github.com/advisories/GHSA-jjwg-4948-6wxp,https://da.gd/ffo0W
+GithubAdvisories,[GHSA-x5m4-43jf-hh65] soroban-fixed-point-math has Incorrect Rounding and Overflow Handling in Signed Fixed-Point Math with Negatives,https://github.com/advisories/GHSA-x5m4-43jf-hh65,https://da.gd/8GHX2d
+GithubAdvisories,[GHSA-r2jv-fwfr-4j8c] askbot inexhaustive permissions check allows any user to modify a different user's profile picture,https://github.com/advisories/GHSA-r2jv-fwfr-4j8c,https://da.gd/rkpq
+GithubAdvisories,[GHSA-qh4c-xf7m-gxfc] vLLM vulnerable to Server-Side Request Forgery (SSRF) through MediaConnector,https://github.com/advisories/GHSA-qh4c-xf7m-gxfc,https://da.gd/enmDg9
+GithubAdvisories,[GHSA-gv6q-2m97-882h] Ghost vulnerable to XSS via malicious Portal preview links,https://github.com/advisories/GHSA-gv6q-2m97-882h,https://da.gd/lrB42
+GithubAdvisories,[GHSA-9r54-q6cx-xmh5] Hono vulnerable to XSS through ErrorBoundary component,https://github.com/advisories/GHSA-9r54-q6cx-xmh5,https://da.gd/GWUm
