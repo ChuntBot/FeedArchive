@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rpc5-pm7q-hjmp] billboard.js is vulnerable to XSS during chart option binding,https://github.com/advisories/GHSA-rpc5-pm7q-hjmp,https://da.gd/9v0vM
+GithubAdvisories,"[GHSA-95ff-46g6-6gw9] NocoDB has Prototype Pollution in Connection Test Endpoint, Leading to DoS",https://github.com/advisories/GHSA-95ff-46g6-6gw9,https://da.gd/t4hU9O
+GithubAdvisories,[GHSA-xr7v-j379-34v9] NocoDB has Blind SSRF via Unvalidated HEAD Request in uploadViaURL Functionality,https://github.com/advisories/GHSA-xr7v-j379-34v9,https://da.gd/v7vUWd
