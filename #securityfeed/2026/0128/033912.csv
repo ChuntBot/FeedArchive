@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 20.04 OpenSSL Security Flaw Denial of Service Notice USN-7980-3,https://linuxsecurity.com/advisories/ubuntu/openssl-ubuntu-7980-2-2025-68160,https://da.gd/eHD7xU
+LinuxSecurity,Ubuntu 25.10 OpenSSL Important DoS Security Advisory USN-7980-1,https://linuxsecurity.com/advisories/ubuntu/openssl-ubuntu-7980-1-2025-11187,https://da.gd/JvVvfF
+LinuxSecurity,Debian OpenSSL Critical DSA-6113-1 DoS Information Leak Execution,https://linuxsecurity.com/advisories/debian/openssl-dsa-6113-1-2025-11187,https://da.gd/N7AP9
+LinuxSecurity,Mageia 9 glibc Critical Heap Corruption and Memory Leak MGASA-2026-0022,https://linuxsecurity.com/advisories/mageia/glibc-mageia-2026-0022-2026-0861,https://da.gd/PoHCj
+LinuxSecurity,Mageia 9 iperf Important Buffer Overflow Auth Failure Vuln 2026-0021,https://linuxsecurity.com/advisories/mageia/iperf-mageia-2026-0021-2025-54349,https://da.gd/yS0hW0
+LinuxSecurity,Mageia 9 Advisory MGASA-2026-0020 for python-pyasn1 DoS Vulnerability,https://linuxsecurity.com/advisories/mageia/python-pyasn1-mageia-2026-0020-2026-23490,https://da.gd/EFN9
