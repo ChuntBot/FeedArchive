@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f72r-2h5j-7639] SiYuan File Read API Case Sensitivity Bypass can Lead to Path Traversal,https://github.com/advisories/GHSA-f72r-2h5j-7639,https://da.gd/rqfoph
