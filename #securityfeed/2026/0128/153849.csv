@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h25m-26qc-wcjf] Next.js HTTP request deserialization can lead to DoS when using insecure React Server Components,https://github.com/advisories/GHSA-h25m-26qc-wcjf,https://da.gd/ZLlQDX
+GithubAdvisories,[GHSA-5f7q-jpqc-wp7h] Next.js has Unbounded Memory Consumption via PPR Resume Endpoint,https://github.com/advisories/GHSA-5f7q-jpqc-wp7h,https://da.gd/k252
