@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommitStaging,feat: allow preset of passwords via environment vars,https://github.com/mailcow/mailcow-dockerized/commit/c485968e7f525c99ae4eaa2b0499ffa145a81d8e,https://da.gd/2oLnT
+GithubCommitStaging,[Postfix] Configurable send permissions for alias addresses,https://github.com/mailcow/mailcow-dockerized/commit/c06112b26e6f41c7f9d5c2ea2549b266e66a44e3,https://da.gd/NskYb
+GithubCommitStaging,Merge branch 'staging' into feat/restrict-alias-sending,https://github.com/mailcow/mailcow-dockerized/commit/c1d4f04c22c4953459d189446f0cbff751235f5d,https://da.gd/CmbqOn
+GithubCommitStaging,Merge pull request #7021 from mailcow/feat/restrict-alias-sending,https://github.com/mailcow/mailcow-dockerized/commit/81cda80651100f7da831e7b7cca348e4aff7da8d,https://da.gd/ymWJA
+GithubCommitStaging,Merge pull request #7007 from moregeek/feat/allow_preset_passwords,https://github.com/mailcow/mailcow-dockerized/commit/b8cd00111ff8baa48b5c6020c665f5d117da61ea,https://da.gd/xRCKV
