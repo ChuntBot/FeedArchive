@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Critical Fix for Race Condition in Fedora 42 Chromium CVE-2026-1220,https://linuxsecurity.com/advisories/fedora/chromium-fedora-42-2026-78ff346bb0-2026-1220,https://da.gd/wR8oy
+LinuxSecurity,Fedora 42 curl Severity Important TLS Fix for CVE-2025-14017,https://linuxsecurity.com/advisories/fedora/curl-fedora-42-2026-3f0f0f85be-2025-14017,https://da.gd/DxyEU6
+LinuxSecurity,Fedora 42 FreeRDP Update 3.21.0 Addresses Serious Heap Buffer Overflow,https://linuxsecurity.com/advisories/fedora/freerdp-fedora-2026-943caf40d9-2026-23530,https://da.gd/fQH30
+LinuxSecurity,Fedora 42 Assimp Critical Heap Overflow Fix CVE-2025-11277 2026-7069f6c1c8,https://linuxsecurity.com/advisories/fedora/assimp-fedora-42-2026-7069f6c1c8-2025-11277,https://da.gd/62Nwz
+LinuxSecurity,Fedora 42 harfbuzz Critical Fix for Null Pointer CVE-2026-22693,https://linuxsecurity.com/advisories/fedora/harfbuzz-fedora-42-2026-bac983cf83-2026-22693,https://da.gd/cxF4gR
+LinuxSecurity,Fedora 43 GIMP Security Update FEDORA-2026-ebabb127fb 3.0.8,https://linuxsecurity.com/advisories/fedora/gimp-fedora-43-2026-ebabb127fb-1769561646,https://da.gd/DaSgr
