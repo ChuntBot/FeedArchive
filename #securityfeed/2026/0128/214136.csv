@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3hmw-8mw3-rmpj] NocoDB has Unvalidated Redirect in Login Flow via continueAfterSignIn Parameter,https://github.com/advisories/GHSA-3hmw-8mw3-rmpj,https://da.gd/1dFZ
+GithubAdvisories,[GHSA-q5c6-h22r-qpwr] NocoDB Vulnerable to Stored Cross-Site Scripting via SVG upload,https://github.com/advisories/GHSA-q5c6-h22r-qpwr,https://da.gd/R1tfqR
+GithubAdvisories,[GHSA-w9pf-h6m6-v89h] DotNetNuke.Core Vulnerable to Stored XSS via Module Title,https://github.com/advisories/GHSA-w9pf-h6m6-v89h,https://da.gd/8f5OFq
+GithubAdvisories,[GHSA-r39x-jcww-82v6] Symfony's incorrect argument escaping under MSYS2/Git Bash can lead to destructive file operations on Windows,https://github.com/advisories/GHSA-r39x-jcww-82v6,https://da.gd/WyuHi
