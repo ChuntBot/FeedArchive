@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,Translations update from Weblate (#7002),https://github.com/mailcow/mailcow-dockerized/commit/e727620bd39a17284d3eabc05a74cabfbcd3709e,https://da.gd/K8Cy
+GithubCommit,feat: allow preset of passwords via environment vars,https://github.com/mailcow/mailcow-dockerized/commit/c485968e7f525c99ae4eaa2b0499ffa145a81d8e,https://da.gd/2oLnT
+GithubCommit,Translations update from Weblate (#7014),https://github.com/mailcow/mailcow-dockerized/commit/0999c9e9ab7d817dd8da17964e58502089757afe,https://da.gd/5kLz
+GithubCommit,[Web] Updated lang.hu-hu.json (#7020),https://github.com/mailcow/mailcow-dockerized/commit/382ee34d0e9abbe009254f330b4465cdec4e39df,https://da.gd/4uCgl
+GithubCommit,Merge pull request #6990 from psuet/mobileconfig-with-password-comple…,https://github.com/mailcow/mailcow-dockerized/commit/ec8dd1a54f2a5af7e7d9ef2264a843edab7730ba,https://da.gd/8g47px
+GithubCommit,Merge pull request #6980 from bluewalk/feat/issue-6489,https://github.com/mailcow/mailcow-dockerized/commit/95d61e8aa22cafba82bdd3037e281bb3eae52f16,https://da.gd/YnSmn
+GithubCommit,Merge pull request #6947 from mailcow/renovate/krakjoe-apcu-5.x,https://github.com/mailcow/mailcow-dockerized/commit/a1a4d8ff98cd8343f063678709ee106d3535c826,https://da.gd/0fGLR
+GithubCommit,Merge pull request #6927 from mailcow/renovate/imagick-imagick-3.x,https://github.com/mailcow/mailcow-dockerized/commit/af10499ecb7866e18478bcab379d3f15c5dc57a8,https://da.gd/cRIRCE
+GithubCommit,Merge pull request #6901 from mailcow/renovate/phpredis-phpredis-6.x,https://github.com/mailcow/mailcow-dockerized/commit/869d9af7dd6883f58192b33034b31f6fed4be698,https://da.gd/ChF9Uf
+GithubCommit,Merge pull request #6867 from DiscoNova/feat/possible-to-disable-logi…,https://github.com/mailcow/mailcow-dockerized/commit/978bff9dbc26fb01f5a006d68091f8b001dcc919,https://da.gd/4tr6co
+GithubCommit,Merge pull request #6837 from mailcow/renovate/php-memcached-dev-php-…,https://github.com/mailcow/mailcow-dockerized/commit/bf4f471cfdd4969945c4d4a84339ccb9cdb92d1d,https://da.gd/fmyd
+GithubCommit,Merge pull request #6710 from mailcow/renovate/tianon-gosu-1.x,https://github.com/mailcow/mailcow-dockerized/commit/aa5a4f09980d5370f5cf3f8033ce163ca1931508,https://da.gd/SpeX
+GithubCommit,[Postfix] Configurable send permissions for alias addresses,https://github.com/mailcow/mailcow-dockerized/commit/c06112b26e6f41c7f9d5c2ea2549b266e66a44e3,https://da.gd/NskYb
+GithubCommit,[Web] Allow admins to limit EAS and DAV access for mailbox users,https://github.com/mailcow/mailcow-dockerized/commit/56ea4302ed13ac9aa344dc840689c4dd6ac76b68,https://da.gd/TWCar
+GithubCommit,Merge pull request #7022 from mailcow/feat/eas-dav-access,https://github.com/mailcow/mailcow-dockerized/commit/82276cd1ca9c38405e21c8366ac326913e5ccefc,https://da.gd/cOmKAJ
+GithubCommit,Merge branch 'staging' into feat/restrict-alias-sending,https://github.com/mailcow/mailcow-dockerized/commit/c1d4f04c22c4953459d189446f0cbff751235f5d,https://da.gd/CmbqOn
+GithubCommit,Merge pull request #7021 from mailcow/feat/restrict-alias-sending,https://github.com/mailcow/mailcow-dockerized/commit/81cda80651100f7da831e7b7cca348e4aff7da8d,https://da.gd/ymWJA
+GithubCommit,Merge pull request #7007 from moregeek/feat/allow_preset_passwords,https://github.com/mailcow/mailcow-dockerized/commit/b8cd00111ff8baa48b5c6020c665f5d117da61ea,https://da.gd/xRCKV
+GithubCommit,[Dovecot][PHP][SOGo] Update Images,https://github.com/mailcow/mailcow-dockerized/commit/c3d841340cc11c89c95b2d908938b315552c5dd5,https://da.gd/9iagW
+GithubCommit,Merge pull request #7024 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/4ccfedd6b334232dd8869af6553e9deb6b4335f6,https://da.gd/FTHPPl
