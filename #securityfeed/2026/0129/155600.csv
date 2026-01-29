@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g4w6-c99w-4wh7] BrowserStack Local vulnerable to Command Injection through logfile variable,https://github.com/advisories/GHSA-g4w6-c99w-4wh7,https://da.gd/Qskp1
+GithubAdvisories,[GHSA-vg9h-jx4v-cwx2] Unfurl's debug mode cannot be disabled due to string config parsing (Werkzeug debugger exposure),https://github.com/advisories/GHSA-vg9h-jx4v-cwx2,https://da.gd/uDoyo
+GithubAdvisories,[GHSA-h5qv-qjv4-pc5m] Unfurl's unbounded zlib decompression allows decompression bomb DoS,https://github.com/advisories/GHSA-h5qv-qjv4-pc5m,https://da.gd/DU94f
