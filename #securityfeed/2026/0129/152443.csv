@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j477-6vpg-6c8x] Juju has broken CMR authorization,https://github.com/advisories/GHSA-j477-6vpg-6c8x,https://da.gd/Qc5c4f
+GithubAdvisories,[GHSA-2cp6-34r9-54xx] Maker.js has Unsafe Property Copying in makerjs.extendObject,https://github.com/advisories/GHSA-2cp6-34r9-54xx,https://da.gd/JruPk8
+GithubAdvisories,[GHSA-c4jr-5q7w-f6r9] SiYuan has Arbitrary File Write via /api/file/copyFile leading to RCE,https://github.com/advisories/GHSA-c4jr-5q7w-f6r9,https://da.gd/G8Ibcp
+GithubAdvisories,[GHSA-vfjc-2qcw-j95j] Docker Moby /proc/scsi Path Exposure Allows Host Data Loss (SCSI MICDROP),https://github.com/advisories/GHSA-vfjc-2qcw-j95j,https://da.gd/310i
+GithubAdvisories,[GHSA-r277-3xc5-c79v] AutoGPT is Vulnerable to RCE via Disabled Block Execution,https://github.com/advisories/GHSA-r277-3xc5-c79v,https://da.gd/YbV6c
+GithubAdvisories,[GHSA-5xrp-6693-jjx9] n8n Unsafe Workflow Expression Evaluation Allows Remote Code Execution,https://github.com/advisories/GHSA-5xrp-6693-jjx9,https://da.gd/goq8v
+GithubAdvisories,[GHSA-83fc-fqcc-2hmg] React Server Components have multiple Denial of Service Vulnerabilities,https://github.com/advisories/GHSA-83fc-fqcc-2hmg,https://da.gd/sTyz7I
+GithubAdvisories,[GHSA-p5wg-g6qr-c7cg] eslint has a Stack Overflow when serializing objects with circular references,https://github.com/advisories/GHSA-p5wg-g6qr-c7cg,https://da.gd/GkU9ff
