@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-923j-vrcg-hxwh] malcontent vulnerable to symlink Path Traversal via handleSymlink argument confusion in archive extraction,https://github.com/advisories/GHSA-923j-vrcg-hxwh,https://da.gd/4vdNDr
+GithubAdvisories,[GHSA-9m43-p3cx-w8j5] malcontent OCI image pull credential exfiltration via malicious registry token realm,https://github.com/advisories/GHSA-9m43-p3cx-w8j5,https://da.gd/U7i2uV
