@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-73jg-4qh6-3f4g] Beam Exposes sensitive information via joinCleanPath function,https://github.com/advisories/GHSA-73jg-4qh6-3f4g,https://da.gd/50nRy
