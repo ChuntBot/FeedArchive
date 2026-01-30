@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Mageia 9 OpenSSL Critical Memory Leak Patch MGASA-2026-0030,https://linuxsecurity.com/advisories/mageia/openssl-mageia-2026-0029-2025-15467,https://da.gd/TFfK6J
+LinuxSecurity,Mageia 9 gpsd Critical DoS Heap Overflow Vulnerability MGASA-2026-0028,https://linuxsecurity.com/advisories/mageia/gpsd-mageia-2026-0028-2025-67268,https://da.gd/s8dVt
+LinuxSecurity,Mageia 9 libxml2 Critical Security Flaw Denial of Service MGASA-2026-0027,https://linuxsecurity.com/advisories/mageia/libxml2-mageia-2026-0027-2025-8732,https://da.gd/ilylC
+LinuxSecurity,Mageia 9 xen Important Buffer Overrun Fix CVE-2025-58150 2026-0026,https://linuxsecurity.com/advisories/mageia/xen-mageia-2026-0026-2025-58150,https://da.gd/V3CqRH
