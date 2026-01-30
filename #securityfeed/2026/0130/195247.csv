@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6f65-4fv2-wwch] Vendure vulnerable to timing attack that enables user enumeration in NativeAuthenticationStrategy,https://github.com/advisories/GHSA-6f65-4fv2-wwch,https://da.gd/lPMenr
