@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hm5p-82g6-m3xh] Umbraco.Forms has Path Traversal and File Enumeration Vulnerabilities in Linux/Mac,https://github.com/advisories/GHSA-hm5p-82g6-m3xh,https://da.gd/jaTig
