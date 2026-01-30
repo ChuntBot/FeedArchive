@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-37qj-frw5-hhjh] fast-xml-parser has RangeError DoS Numeric Entities Bug,https://github.com/advisories/GHSA-37qj-frw5-hhjh,https://da.gd/0aiRb
