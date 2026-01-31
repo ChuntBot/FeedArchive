@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+LinuxSecurity,SUSE OpenSSL 15 SP6 Moderate Security Update 2026-0346-1,https://linuxsecurity.com/advisories/suse/openssl-1-1-suse-2026-0346-1-2025-68160,https://da.gd/dfoNu
+LinuxSecurity,openSUSE 15.6 openssl-1_1 Moderate ASN1_TYPE Issues 2026-0346-1,https://linuxsecurity.com/advisories/opensuse/openssl-1-1-opensuse-2026-0346-1-2025-68160,https://da.gd/GEyFD
+LinuxSecurity,openSUSE 2026-0347-1 glibc-livepatches Important Denial of Service,https://linuxsecurity.com/advisories/opensuse/glibc-livepatches-opensuse-2026-0347-1-2026-0861,https://da.gd/RMD2s
+LinuxSecurity,SUSE Linux glibc-livepatches Important Integer Overflow CVE-2026-0861,https://linuxsecurity.com/advisories/suse/glibc-livepatches-suse-2026-0347-1-2026-0861,https://da.gd/mCwby
+LinuxSecurity,SUSE 15 SP7 bind Important Fix for CVE-2025-13878 Denial of Service,https://linuxsecurity.com/advisories/suse/bind-suse-2026-0348-1-2025-13878,https://da.gd/GTW0Q6
