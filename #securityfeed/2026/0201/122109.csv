@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian 11 Pillow Important Path Traversal DoS Vulnerability DLA-4462-1,https://linuxsecurity.com/advisories/deblts/pillow-dla-4462-1-2021-23437,https://da.gd/piSK2
+LinuxSecurity,Debian 11 Ceph DLA-4460-1 Fix for CVE-2022-0670 Denial of Service,https://linuxsecurity.com/advisories/deblts/ceph-dla-4460-1-2022-0670,https://da.gd/IxkDqd
+LinuxSecurity,Debian 11 python-tornado Critical Custom Phrases DoS CVE-2025-67724,https://linuxsecurity.com/advisories/deblts/python-tornado-dla-4461-1-2025-67724,https://da.gd/8runM
