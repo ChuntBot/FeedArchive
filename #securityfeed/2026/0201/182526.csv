@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vcf3-26xf-fw4m] Salt Authentication Protocol Version Downgrade Allows Minion Impersonation,https://github.com/advisories/GHSA-vcf3-26xf-fw4m,https://da.gd/yAjEA
+GithubAdvisories,[GHSA-6497-prx7-gpmq] geopandas SQL Injection Vulnerability in to_postgis() Allows Information Disclosure,https://github.com/advisories/GHSA-6497-prx7-gpmq,https://da.gd/SJHHf
+GithubAdvisories,[GHSA-77w2-v593-vxvv] Salt junos Module Vulnerable to Code Injection via Specially Crafted YAML Payload,https://github.com/advisories/GHSA-77w2-v593-vxvv,https://da.gd/xhiHFp
+GithubAdvisories,[GHSA-33hj-rcmx-86mv] Undertow Servlets Vulnerable to Remote DoS via OutOfMemoryError when Passed Large Parameter Names,https://github.com/advisories/GHSA-33hj-rcmx-86mv,https://da.gd/YBMPQ
+GithubAdvisories,[GHSA-mc24-7m59-4q5p] Rancher CLI skips TLS verification on Rancher CLI login command,https://github.com/advisories/GHSA-mc24-7m59-4q5p,https://da.gd/3Gfu
