@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pqxr-3g65-p328] jsPDF has PDF Injection in AcroFormChoiceField that allows Arbitrary JavaScript Execution,https://github.com/advisories/GHSA-pqxr-3g65-p328,https://da.gd/FGGy
+GithubAdvisories,[GHSA-95fx-jjr5-f39c] jsPDF Vulnerable to Denial of Service (DoS) via Unvalidated BMP Dimensions in BMPDecoder,https://github.com/advisories/GHSA-95fx-jjr5-f39c,https://da.gd/IEm5WA
+GithubAdvisories,[GHSA-vm32-vv63-w422] jsPDF Vulnerable to Stored XMP Metadata Injection (Spoofing & Integrity Violation),https://github.com/advisories/GHSA-vm32-vv63-w422,https://da.gd/mB9pny
