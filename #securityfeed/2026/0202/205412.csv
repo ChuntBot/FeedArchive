@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4wwf-f7w3-94f5] RaspAP raspap-webgui contains an OS Command Injection vulnerability,https://github.com/advisories/GHSA-4wwf-f7w3-94f5,https://da.gd/0VIBZ2
+GithubAdvisories,[GHSA-m7j5-r2p5-c39r] picklescan vulnerable to arbitrary file create using logging.FileHandler,https://github.com/advisories/GHSA-m7j5-r2p5-c39r,https://da.gd/Wm3X5
+GithubAdvisories,[GHSA-9m3x-qqw2-h32h] picklescan missing detection by simple obfuscation of a `builtins.eval` call,https://github.com/advisories/GHSA-9m3x-qqw2-h32h,https://da.gd/JZN0q
+GithubAdvisories,[GHSA-r2c6-8jc8-g32w] Duplicate Advisory: 1-Click RCE via Authentication Token Exfiltration From gatewayUrl,https://github.com/advisories/GHSA-r2c6-8jc8-g32w,https://da.gd/HCDbWy
+GithubAdvisories,[GHSA-x34r-63hx-w57f] Langroid has WAF Bypass Leading to RCE in TableChatAgent,https://github.com/advisories/GHSA-x34r-63hx-w57f,https://da.gd/Dc4Rsw
+GithubAdvisories,[GHSA-86gh-c8r8-xwhq] phpPgAdmin contains a remote command execution vulnerability,https://github.com/advisories/GHSA-86gh-c8r8-xwhq,https://da.gd/dKmV4z
+GithubAdvisories,[GHSA-h37v-hp6w-2pp8] ml-dsa's UseHint function has off by two error when r0 equals zero,https://github.com/advisories/GHSA-h37v-hp6w-2pp8,https://da.gd/I5vPt
+GithubAdvisories,[GHSA-gwch-7m8v-7544] terraform-provider-proxmox has insecure sudo recommendation in the documentation,https://github.com/advisories/GHSA-gwch-7m8v-7544,https://da.gd/Iodi8q
