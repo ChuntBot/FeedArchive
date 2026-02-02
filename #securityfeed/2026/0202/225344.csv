@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p6w8-q63m-72c8] Craft Commerce has Stored XSS in Tax Categories (Name & Description) Fields Leading to Potential Privilege Escalation,https://github.com/advisories/GHSA-p6w8-q63m-72c8,https://da.gd/pEhK3
+GithubAdvisories,[GHSA-wqc5-485v-3hqh] Craft CMS has Stored XSS in Tax Rates Name Leading to Potential Privilege Escalation,https://github.com/advisories/GHSA-wqc5-485v-3hqh,https://da.gd/vIcWFI
+GithubAdvisories,[GHSA-g92v-wpv7-6w22] Craft Commerce has Stored XSS in Shipping Methods Name Field Leading to Potential Privilege Escalation,https://github.com/advisories/GHSA-g92v-wpv7-6w22,https://da.gd/TBFdk
+GithubAdvisories,[GHSA-w8gw-qm8p-j9j3] Craft Commerce has Stored XSS in Shipping Categories (Name & Description) Fields Leading to Potential Privilege Escalation,https://github.com/advisories/GHSA-w8gw-qm8p-j9j3,https://da.gd/DTpxo
+GithubAdvisories,[GHSA-2h2m-v2mg-656c] Craft Commerce has Stored XSS in Product Type Name,https://github.com/advisories/GHSA-2h2m-v2mg-656c,https://da.gd/Yuwxh
+GithubAdvisories,[GHSA-8478-rmjg-mjj5] Craft Commerce has Stored XSS via Order Status Message with potential database exfiltration,https://github.com/advisories/GHSA-8478-rmjg-mjj5,https://da.gd/njh2
+GithubAdvisories,"[GHSA-frj9-9rwc-pw9j] Craft Commerce has Stored DOM XSS in Order Status Name (Reflects in ""Recent Orders"" Dashboard Widget)",https://github.com/advisories/GHSA-frj9-9rwc-pw9j,https://da.gd/A9kR8Z
+GithubAdvisories,[GHSA-gj28-gw7w-3pxc] Crafter CMS has Improper Control of Dynamically-Managed Code Resources,https://github.com/advisories/GHSA-gj28-gw7w-3pxc,https://da.gd/RWjIm
+GithubAdvisories,[GHSA-vrhw-v2hw-jffx] SignalK Server has Path Traversal leading to information disclosure,https://github.com/advisories/GHSA-vrhw-v2hw-jffx,https://da.gd/151Vs
+GithubAdvisories,[GHSA-mrq3-vjjr-p77c] Fastify Vulnerable to DoS via Unbounded Memory Allocation in sendWebStream,https://github.com/advisories/GHSA-mrq3-vjjr-p77c,https://da.gd/2wx5X4
+GithubAdvisories,[GHSA-jx2c-rxcm-jvmq] Fastify's Content-Type header tab character allows body validation bypass,https://github.com/advisories/GHSA-jx2c-rxcm-jvmq,https://da.gd/gLgBps
