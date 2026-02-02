@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6c59-mwgh-r2x6] JSONPath vulnerable to Prototype Pollution due to insufficient input validation of object keys in lib/index.js,https://github.com/advisories/GHSA-6c59-mwgh-r2x6,https://da.gd/OXB2
