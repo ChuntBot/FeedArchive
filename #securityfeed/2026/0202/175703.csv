@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4r2x-xpjr-7cvv] vLLM has RCE In Video Processing,https://github.com/advisories/GHSA-4r2x-xpjr-7cvv,https://da.gd/NDV9Fp
+GithubAdvisories,[GHSA-6whj-7qmg-86qj] Khoj has an IDOR in Notion OAuth Flow that Enables Index Poisoning,https://github.com/advisories/GHSA-6whj-7qmg-86qj,https://da.gd/YBoWnd
