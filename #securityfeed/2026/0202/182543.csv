@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cjw8-79x6-5cj4] jsPDF has Shared State Race Condition in addJS Plugin,https://github.com/advisories/GHSA-cjw8-79x6-5cj4,https://da.gd/jVrwg2
+GithubAdvisories,"[GHSA-4v7v-7v7r-3r5h] FacturaScripts has Stored Cross-Site Scripting (XSS) in ""Observations"" field via History View",https://github.com/advisories/GHSA-4v7v-7v7r-3r5h,https://da.gd/2XYrD
+GithubAdvisories,[GHSA-p8gp-2w28-mhwg] Signal K set-system-time plugin vulnerable to RCE - Command Injection,https://github.com/advisories/GHSA-p8gp-2w28-mhwg,https://da.gd/qpvS1
+GithubAdvisories,[GHSA-g6w2-q45f-xrp4] FacturaScripts is Vulnerable to Reflected XSS,https://github.com/advisories/GHSA-g6w2-q45f-xrp4,https://da.gd/7stP5
