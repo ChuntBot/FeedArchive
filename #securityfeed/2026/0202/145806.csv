@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w669-jj7h-88m9] @backstage/plugin-techdocs-node vulnerable to possible Path Traversal in TechDocs Local Generator,https://github.com/advisories/GHSA-w669-jj7h-88m9,https://da.gd/jxgyK
