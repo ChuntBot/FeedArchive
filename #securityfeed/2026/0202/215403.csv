@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gp56-f67f-m4px] CI4MS Vulnerable to Remote Code Execution (RCE) via Arbitrary File Creation and Save in File Editor,https://github.com/advisories/GHSA-gp56-f67f-m4px,https://da.gd/VlAJ4Z
+GithubAdvisories,[GHSA-654x-9q7r-g966] CI4MS Vulnerable to User Email Enumeration via Password Reset Flow,https://github.com/advisories/GHSA-654x-9q7r-g966,https://da.gd/mKwJ2w
+GithubAdvisories,[GHSA-fwhw-chw4-gh37] Keycloak Server-Side Request Forgery (SSRF) vulnerability,https://github.com/advisories/GHSA-fwhw-chw4-gh37,https://da.gd/Qpicu7
