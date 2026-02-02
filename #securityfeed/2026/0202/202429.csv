@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f57c-hx33-hvh8] Active Record component in Ruby on Rails has a data-type injection vulnerability,https://github.com/advisories/GHSA-f57c-hx33-hvh8,https://da.gd/o3bTH
+GithubAdvisories,[GHSA-6jr7-99pf-8vgf] @backstage/plugin-techdocs-node vulnerable to arbitrary code execution via MkDocs hooks,https://github.com/advisories/GHSA-6jr7-99pf-8vgf,https://da.gd/ekuBK
+GithubAdvisories,[GHSA-9p4w-fq8m-2hp7] SandboxJS Vulnerable to Prototype Pollution -> Sandbox Escape -> RCE,https://github.com/advisories/GHSA-9p4w-fq8m-2hp7,https://da.gd/rz1xXR
+GithubAdvisories,[GHSA-wf93-3ghh-h389] OpenList has Insecure TLS Default Configuration,https://github.com/advisories/GHSA-wf93-3ghh-h389,https://da.gd/Dc3rN
+GithubAdvisories,[GHSA-9h8m-3fm2-qjrq] OpenTelemetry Go SDK Vulnerable to Arbitrary Code Execution via PATH Hijacking,https://github.com/advisories/GHSA-9h8m-3fm2-qjrq,https://da.gd/HMwaM
+GithubAdvisories,[GHSA-qmj2-8r24-xxcq] OpenList vulnerable to Path Traversal in file copy and remove handlers,https://github.com/advisories/GHSA-qmj2-8r24-xxcq,https://da.gd/MI0BA
+GithubAdvisories,[GHSA-mrvj-7q4f-5p42] Cross-site scripting in eZ Platform Kernel,https://github.com/advisories/GHSA-mrvj-7q4f-5p42,https://da.gd/sHQwAK
