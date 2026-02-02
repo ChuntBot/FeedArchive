@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rxrv-835q-v5mh] locutus is vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-rxrv-835q-v5mh,https://da.gd/naAZ
+GithubAdvisories,[GHSA-gx3x-vq4p-mhhv] cert-manager-controller DoS via Specially Crafted DNS Response,https://github.com/advisories/GHSA-gx3x-vq4p-mhhv,https://da.gd/0n9G8G
+GithubAdvisories,[GHSA-6vgw-5pg2-w6jp] pip Path Traversal vulnerability,https://github.com/advisories/GHSA-6vgw-5pg2-w6jp,https://da.gd/GFMo
+GithubAdvisories,[GHSA-j7x9-7j54-2v3h] Hugging Face Text Generation Inference vulnerable to Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-j7x9-7j54-2v3h,https://da.gd/g9Tb
+GithubAdvisories,[GHSA-488g-hw5f-x29p] llama-index-core vulnerable to Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-488g-hw5f-x29p,https://da.gd/fjoegB
+GithubAdvisories,[GHSA-wj3h-wx8g-x699] H2O has an External Control of File Name or Path vulnerability,https://github.com/advisories/GHSA-wj3h-wx8g-x699,https://da.gd/PLrYuX
+GithubAdvisories,[GHSA-4x5p-f36r-mxxr] mlflow Creates of Temporary File in Directory with Insecure Permissions,https://github.com/advisories/GHSA-4x5p-f36r-mxxr,https://da.gd/UtS9
+GithubAdvisories,[GHSA-82fw-ch24-j34w] Lollms has an Improper Access Control vulnerability,https://github.com/advisories/GHSA-82fw-ch24-j34w,https://da.gd/Bthp
