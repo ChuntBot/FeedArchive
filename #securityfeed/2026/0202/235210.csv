@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q284-4pvr-m585] OpenClaw/Clawdbot has OS Command Injection via Project Root Path in sshNodeCommand,https://github.com/advisories/GHSA-q284-4pvr-m585,https://da.gd/sgxZ
+GithubAdvisories,[GHSA-g8p2-7wf7-98mq] OpenClaw/Clawdbot has 1-Click RCE via Authentication Token Exfiltration From gatewayUrl,https://github.com/advisories/GHSA-g8p2-7wf7-98mq,https://da.gd/HTCdGX
+GithubAdvisories,[GHSA-mc68-q9jw-2h3v] OpenClaw/Clawdbot Docker Execution has Authenticated Command Injection via PATH Environment Variable,https://github.com/advisories/GHSA-mc68-q9jw-2h3v,https://da.gd/X2umYC
+GithubAdvisories,[GHSA-rjrp-m2jw-pv9c] SageMaker Python SDK has Exposed HMAC,https://github.com/advisories/GHSA-rjrp-m2jw-pv9c,https://da.gd/Baan1
+GithubAdvisories,[GHSA-62rc-f4v9-h543] SageMaker Python SDK has Insecure TLS Configuration,https://github.com/advisories/GHSA-62rc-f4v9-h543,https://da.gd/qtVAX
