@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qp2j-v5jg-hg68] LibreNMS contains an authenticated SQL Injection vulnerability,https://github.com/advisories/GHSA-qp2j-v5jg-hg68,https://da.gd/iottub
+GithubAdvisories,[GHSA-fm4j-4xhm-xpwx] Sandbox Breakout / Arbitrary Code Execution in sandbox,https://github.com/advisories/GHSA-fm4j-4xhm-xpwx,https://da.gd/dpmLm
+GithubAdvisories,[GHSA-jg68-vhv3-9r8f] Magento's X-Original-Url header can expose admin url,https://github.com/advisories/GHSA-jg68-vhv3-9r8f,https://da.gd/ypTWyT
+GithubAdvisories,[GHSA-gc25-3vc5-2jf9] Sandbox Breakout / Arbitrary Code Execution in sandbox,https://github.com/advisories/GHSA-gc25-3vc5-2jf9,https://da.gd/yHRxo
+GithubAdvisories,[GHSA-h9r9-2pxg-cx9m] Craft Commerce has Stored XSS in Shipping Zone (Name & Description) Fields Leading to Potential Privilege Escalation,https://github.com/advisories/GHSA-h9r9-2pxg-cx9m,https://da.gd/w8fFnf
+GithubAdvisories,[GHSA-wq2m-r96q-crrf] Craft Commerce has Stored XSS in Inventory Location Address Leading to Potential Privilege Escalation,https://github.com/advisories/GHSA-wq2m-r96q-crrf,https://da.gd/axHReF
+GithubAdvisories,[GHSA-v585-mf6r-rqrc] Craft Commerce has Stored XSS in Tax Zones (Name & Description) Leading to Potential Privilege Escalation,https://github.com/advisories/GHSA-v585-mf6r-rqrc,https://da.gd/OtQIt
