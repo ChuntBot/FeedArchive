@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 22.04 LTS Thunderbird Security Advisory USN-7991-1 CVE-2024-10460,https://linuxsecurity.com/advisories/ubuntu/thunderbird-7991-1-2024-10460,https://da.gd/EYl08
+LinuxSecurity,Ubuntu 25.10 MySQL Servers Important Vuln Updates USN-7994-1,https://linuxsecurity.com/advisories/ubuntu/mysql-ubuntu-7994-1-2026-21936,https://da.gd/guN7v
+LinuxSecurity,Ubuntu 24.04 LTS libpng Critical Crash Due To Malformed PNG File USN-7993-1,https://linuxsecurity.com/advisories/ubuntu/libpng-7993-1-2025-28162,https://da.gd/6jwi9
+LinuxSecurity,Ubuntu 25.10 Inetutils Telnetd Auth Bypass USN-7992-1 CVE-2026-24061,https://linuxsecurity.com/advisories/ubuntu/inetutils-ubuntu-7992-1-2026-24061,https://da.gd/NTs2Q
