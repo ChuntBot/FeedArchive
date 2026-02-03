@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h395-gr6q-cpjc] jsonwebtoken has Type Confusion that leads to potential authorization bypass,https://github.com/advisories/GHSA-h395-gr6q-cpjc,https://da.gd/iNa0u4
+GithubAdvisories,[GHSA-w995-ff8h-rppg] OpenSTAManager has a SQL Injection in ajax_complete.php (get_sedi endpoint),https://github.com/advisories/GHSA-w995-ff8h-rppg,https://da.gd/eVt6Iq
+GithubAdvisories,[GHSA-r7x9-8ph7-w8cg] Cloudflare Agents SDK has Insecure Direct Object Reference (IDOR) via Header-Based Email Routing,https://github.com/advisories/GHSA-r7x9-8ph7-w8cg,https://da.gd/YxX1zx
+GithubAdvisories,[GHSA-4qvv-g3vr-m348] Wagtail has improper permission handling on admin preview endpoints,https://github.com/advisories/GHSA-4qvv-g3vr-m348,https://da.gd/tlbDw
