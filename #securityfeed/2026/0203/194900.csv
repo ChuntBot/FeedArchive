@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7h2j-956f-4vf2] @isaacs/brace-expansion has Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-7h2j-956f-4vf2,https://da.gd/Mcmayh
+GithubAdvisories,[GHSA-vwhw-vp9v-q9c9] Moodle vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-vwhw-vp9v-q9c9,https://da.gd/NNsGsK
+GithubAdvisories,[GHSA-6426-9fv3-65x8] Django has an SQL Injection issue,https://github.com/advisories/GHSA-6426-9fv3-65x8,https://da.gd/x0yqnj
+GithubAdvisories,[GHSA-gvg8-93h5-g6qq] Django has an SQL Injection issue,https://github.com/advisories/GHSA-gvg8-93h5-g6qq,https://da.gd/2jg3id
+GithubAdvisories,[GHSA-qgqw-h4xq-7w8w] Claude Code has a Command Injection in find Command Bypasses User Approval Prompt,https://github.com/advisories/GHSA-qgqw-h4xq-7w8w,https://da.gd/sZtf0
+GithubAdvisories,[GHSA-mwm9-4648-f68q] Django has an SQL Injection issue,https://github.com/advisories/GHSA-mwm9-4648-f68q,https://da.gd/fR3vMQ
+GithubAdvisories,[GHSA-q728-gf8j-w49r] Cluade Code has a Path Restriction Bypass via ZSH Clobber which Allows Arbitrary File Writes,https://github.com/advisories/GHSA-q728-gf8j-w49r,https://da.gd/MBDnLp
+GithubAdvisories,[GHSA-4rrr-2h4v-f3j9] Django has Inefficient Algorithmic Complexity,https://github.com/advisories/GHSA-4rrr-2h4v-f3j9,https://da.gd/JA2dF
+GithubAdvisories,[GHSA-33mw-q7rj-mjwj] Django has Inefficient Algorithmic Complexity,https://github.com/advisories/GHSA-33mw-q7rj-mjwj,https://da.gd/HZEQYg
+GithubAdvisories,[GHSA-2mcm-79hx-8fxw] Django has Observable Timing Discrepancy,https://github.com/advisories/GHSA-2mcm-79hx-8fxw,https://da.gd/xP98DA
+GithubAdvisories,[GHSA-j92c-7v7g-gj3f] HtmlSanitizer has a bypass via template tag,https://github.com/advisories/GHSA-j92c-7v7g-gj3f,https://da.gd/FjbWj
