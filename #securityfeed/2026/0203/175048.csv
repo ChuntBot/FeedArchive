@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gm8q-m8mv-jj5m] Unstructured has Path Traversal via Malicious MSG Attachment that Allows Arbitrary File Write,https://github.com/advisories/GHSA-gm8q-m8mv-jj5m,https://da.gd/x5VjF
+GithubAdvisories,[GHSA-cc8f-xg8v-72m3] Compressing Vulnerable to Arbitrary File Write via Symlink Extraction,https://github.com/advisories/GHSA-cc8f-xg8v-72m3,https://da.gd/4umXW
+GithubAdvisories,[GHSA-3966-f6p6-2qr9] npm cli Uncontrolled Search Path Element Local Privilege Escalation Vulnerability,https://github.com/advisories/GHSA-3966-f6p6-2qr9,https://da.gd/OAiE
+GithubAdvisories,[GHSA-6444-v9wg-78rr] Malware in js-unpack,https://github.com/advisories/GHSA-6444-v9wg-78rr,https://da.gd/o0upTj
+GithubAdvisories,[GHSA-m56w-m3fj-frgc] Malware in @devgandhi/healthpulse,https://github.com/advisories/GHSA-m56w-m3fj-frgc,https://da.gd/cPjm
+GithubAdvisories,[GHSA-qc7c-jwxx-8xm4] Malware in @devgandhi/cpp,https://github.com/advisories/GHSA-qc7c-jwxx-8xm4,https://da.gd/Ag6dd
+GithubAdvisories,[GHSA-gmrf-99gw-vvwj] /user/sessions endpoint allows detecting valid accounts,https://github.com/advisories/GHSA-gmrf-99gw-vvwj,https://da.gd/Ibrqy
+GithubAdvisories,[GHSA-r54g-49rx-98cr] RustFS Logs Sensitive Credentials in Plaintext,https://github.com/advisories/GHSA-r54g-49rx-98cr,https://da.gd/aGpbnm
+GithubAdvisories,[GHSA-fc6g-2gcp-2qrq] RustFS has SourceIp bypass via spoofed X-Forwarded-For/Real-IP headers,https://github.com/advisories/GHSA-fc6g-2gcp-2qrq,https://da.gd/khJ2wu
