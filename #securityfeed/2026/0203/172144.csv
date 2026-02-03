@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3cx6-j9j4-54mp] Decidim's private data exports can lead to data leaks,https://github.com/advisories/GHSA-3cx6-j9j4-54mp,https://da.gd/IDyGX
