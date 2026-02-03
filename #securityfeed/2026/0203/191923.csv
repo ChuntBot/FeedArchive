@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-434x-w66g-qw3r] bytes has integer overflow in BytesMut::reserve,https://github.com/advisories/GHSA-434x-w66g-qw3r,https://da.gd/6DEtVk
+GithubAdvisories,[GHSA-8jrv-wx83-w3xj] Moodle Inserts Sensitive Information Into Sent Data,https://github.com/advisories/GHSA-8jrv-wx83-w3xj,https://da.gd/VW3E6
+GithubAdvisories,[GHSA-hcm6-q6pc-xfhm] Moodle has an authorization logic flaw,https://github.com/advisories/GHSA-hcm6-q6pc-xfhm,https://da.gd/LRm31
+GithubAdvisories,[GHSA-j5jv-w5cw-j9ff] Moodle authentication bypass vulnerability,https://github.com/advisories/GHSA-j5jv-w5cw-j9ff,https://da.gd/PlFbW
+GithubAdvisories,[GHSA-vhw5-3g5m-8ggf] Claude Code has a Domain Validation Bypass which Allows Automatic Requests to Attacker-Controlled Domains,https://github.com/advisories/GHSA-vhw5-3g5m-8ggf,https://da.gd/gUmZmQ
+GithubAdvisories,[GHSA-5cx4-w4fh-fr57] Moodle Affected by Improper Restriction of Excessive Authentication Attempts,https://github.com/advisories/GHSA-5cx4-w4fh-fr57,https://da.gd/GgVbdL
+GithubAdvisories,[GHSA-qv78-6gpp-hm68] Moodle Open Redirect vulnerability,https://github.com/advisories/GHSA-qv78-6gpp-hm68,https://da.gd/Q6edIi
+GithubAdvisories,[GHSA-qfh6-h7j6-fvjv] Moodle formula injection vulnerability,https://github.com/advisories/GHSA-qfh6-h7j6-fvjv,https://da.gd/51LI
+GithubAdvisories,[GHSA-6mmv-f6c6-v6q8] Moodle vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-6mmv-f6c6-v6q8,https://da.gd/4uGp
+GithubAdvisories,[GHSA-mhf6-pp52-8wqj] Moodle Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-mhf6-pp52-8wqj,https://da.gd/adCg
+GithubAdvisories,[GHSA-qx9p-w3vj-q24q] OpenSTAManager has an SQL Injection in the Stampe Module,https://github.com/advisories/GHSA-qx9p-w3vj-q24q,https://da.gd/enBBt
