@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pqqg-5f4f-8952] FacturaScripts has SQL Injection in Autocomplete Actions,https://github.com/advisories/GHSA-pqqg-5f4f-8952,https://da.gd/h86exo
+GithubAdvisories,[GHSA-cjfx-qhwm-hf99] FacturaScripts has SQL Injection in API ORDER BY Clause,https://github.com/advisories/GHSA-cjfx-qhwm-hf99,https://da.gd/hOXlV
+GithubAdvisories,[GHSA-9jjm-mc56-3qxv] Subrion CMS vulnerable to cross-site scripting,https://github.com/advisories/GHSA-9jjm-mc56-3qxv,https://da.gd/OcyLx
+GithubAdvisories,[GHSA-gjx9-j8f8-7j74] JinJava Bypass through ForTag leads to Arbitrary Java Execution,https://github.com/advisories/GHSA-gjx9-j8f8-7j74,https://da.gd/irXd3W
