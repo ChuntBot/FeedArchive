@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-67v7-3g49-mxh2] PrestaShop affected by time based enumeration in FO login form,https://github.com/advisories/GHSA-67v7-3g49-mxh2,https://da.gd/jK1Gk
+GithubAdvisories,[GHSA-mw8w-q3f7-2v85] Podinfo affected by Arbitrary File Upload that leads to Stored Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-mw8w-q3f7-2v85,https://da.gd/AZKFj
+GithubAdvisories,[GHSA-vm6g-8r4h-22x8] Qwik City CSRF protection middleware does not work properly for content type header with parameters (eg. multipart/form-data),https://github.com/advisories/GHSA-vm6g-8r4h-22x8,https://da.gd/BEzCkF
+GithubAdvisories,[GHSA-92j7-wgmg-f32m] Qwik City Open Redirect via fixTrailingSlash,https://github.com/advisories/GHSA-92j7-wgmg-f32m,https://da.gd/jK6iX2
+GithubAdvisories,[GHSA-r666-8gjf-4v5f] Qwik City has a CSRF Protection Bypass via Content-Type Header Validation,https://github.com/advisories/GHSA-r666-8gjf-4v5f,https://da.gd/eHD2OP
+GithubAdvisories,[GHSA-xqg6-98cw-gxhq] Prototype Pollution via FormData Processing in Qwik City,https://github.com/advisories/GHSA-xqg6-98cw-gxhq,https://da.gd/icp2F4
+GithubAdvisories,[GHSA-m6jq-g7gq-5w3c] Qwik SSR XSS via Unsafe Virtual Node Serialization,https://github.com/advisories/GHSA-m6jq-g7gq-5w3c,https://da.gd/kBuBMa
