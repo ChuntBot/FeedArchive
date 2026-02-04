@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8398-gmmx-564h] n8n has a Python sandbox escape,https://github.com/advisories/GHSA-8398-gmmx-564h,https://da.gd/vPDeq
+GithubAdvisories,[GHSA-hv53-3329-vmrm] n8n Merge Node has Arbitrary File Write leading to RCE,https://github.com/advisories/GHSA-hv53-3329-vmrm,https://da.gd/0DnTmV
+GithubAdvisories,[GHSA-m82q-59gv-mcr9] n8n Vulnerable to Arbitrary File Write on Remote Systems via SSH Node,https://github.com/advisories/GHSA-m82q-59gv-mcr9,https://da.gd/17Iz
+GithubAdvisories,[GHSA-qpq4-pw7f-pp8w] n8n Has Stored Cross-site Scripting via Markdown Rendering in Workflow UI,https://github.com/advisories/GHSA-qpq4-pw7f-pp8w,https://da.gd/MW3Nr
+GithubAdvisories,[GHSA-r5m2-fqcf-qrf7] FUXA contains an insecure default configuration vulnerability,https://github.com/advisories/GHSA-r5m2-fqcf-qrf7,https://da.gd/zMlO
+GithubAdvisories,[GHSA-2r8f-cf6w-x5vq] FUXA contains a hard-coded credential vulnerability,https://github.com/advisories/GHSA-2r8f-cf6w-x5vq,https://da.gd/bDjjGW
+GithubAdvisories,[GHSA-5r63-q8hg-p8qx] FUXA allows Remote Code Execution (RCE) via the project import functionality,https://github.com/advisories/GHSA-5r63-q8hg-p8qx,https://da.gd/FuAGbz
