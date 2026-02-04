@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7g56-fwxj-cm23] FUXA contains an Unrestricted File Upload vulnerability,https://github.com/advisories/GHSA-7g56-fwxj-cm23,https://da.gd/1YcK
+GithubAdvisories,[GHSA-r8g4-86fx-92mq] OpenClaw Vulnerable to Local File Inclusion via MEDIA: Path Extraction,https://github.com/advisories/GHSA-r8g4-86fx-92mq,https://da.gd/fYMbu
+GithubAdvisories,[GHSA-x4q4-7phh-42j9] Alist vulnerable to Path Traversal in multiple file operation handlers,https://github.com/advisories/GHSA-x4q4-7phh-42j9,https://da.gd/jkG9AE
