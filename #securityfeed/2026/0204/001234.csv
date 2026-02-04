@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2w4f-9fgg-q2v9] melange has a path traversal in license-path which allows reading files outside workspace,https://github.com/advisories/GHSA-2w4f-9fgg-q2v9,https://da.gd/JMsiz
+GithubAdvisories,[GHSA-rf4g-89h5-crcr] melange affected by potential host command execution via license-check YAML mode patch pipeline,https://github.com/advisories/GHSA-rf4g-89h5-crcr,https://da.gd/hu3s
+GithubAdvisories,[GHSA-f4w5-5xv9-85f6] apko affected by potential unbounded resource consumption in expandapk.ExpandApk on attacker-controlled .apk streams,https://github.com/advisories/GHSA-f4w5-5xv9-85f6,https://da.gd/s5iPP
+GithubAdvisories,[GHSA-6p9p-q6wh-9j89] apko affected by unbounded resource consumption in expandapk.Split on attacker-controlled .apk streams,https://github.com/advisories/GHSA-6p9p-q6wh-9j89,https://da.gd/pjXy
+GithubAdvisories,[GHSA-5g94-c2wx-8pxw] apko has a path traversal in apko dirFS which allows filesystem writes outside base,https://github.com/advisories/GHSA-5g94-c2wx-8pxw,https://da.gd/vC5H2
+GithubAdvisories,[GHSA-vqqr-rmpc-hhg2] melange pipeline working-directory could allow command injection,https://github.com/advisories/GHSA-vqqr-rmpc-hhg2,https://da.gd/6Irdge
+GithubAdvisories,[GHSA-qxx2-7h4c-83f4] melange QEMU runner could write files outside workspace directory,https://github.com/advisories/GHSA-qxx2-7h4c-83f4,https://da.gd/9UuSL
