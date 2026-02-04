@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6cqr-8cfr-67f8] n8n Has Expression Escape Vulnerability Leading to RCE,https://github.com/advisories/GHSA-6cqr-8cfr-67f8,https://da.gd/zfdAk
+GithubAdvisories,[GHSA-mp6q-xf9x-fwf7] Apollo Serve vulnerable to Denial of Service with `startStandaloneServer`,https://github.com/advisories/GHSA-mp6q-xf9x-fwf7,https://da.gd/Se11v
+GithubAdvisories,[GHSA-7c4h-vh2m-743m] n8n Vulnerable to Command Injection in Community Package Installation,https://github.com/advisories/GHSA-7c4h-vh2m-743m,https://da.gd/WtV6QZ
+GithubAdvisories,[GHSA-49mx-fj45-q3p6] n8n's Unsafe Buffer Allocation Allows In-Process Memory Disclosure in Task Runner,https://github.com/advisories/GHSA-49mx-fj45-q3p6,https://da.gd/4iNDBS
