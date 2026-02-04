@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 25.10 GNU C Library Critical Denial of Service CVE-2025-15281,https://linuxsecurity.com/advisories/ubuntu/gnu-c-library-ubuntu-8005-1-2025-15281,https://da.gd/pdTra
+LinuxSecurity,Fedora 43 Xen Critical Buffer Overrun Vuln XSA-477 CVE-2025-58150,https://linuxsecurity.com/advisories/fedora/xen-fedora-43-2026-844012d662-2025-58150,https://da.gd/5hOWk
+LinuxSecurity,Fedora 43 openQA Critical CVE-2025-13465 Prototype Pollution Advisory,https://linuxsecurity.com/advisories/fedora/openqa-fedora-43-2026-abd2d2d60c-2025-13465,https://da.gd/gPUig
+LinuxSecurity,Fedora 43 os-autoinst Update CVE-2025-13465 JavaScript Fix,https://linuxsecurity.com/advisories/fedora/os-autoinst-fedora-2026-abd2d2d60c-2025-13465,https://da.gd/kapZ2
+LinuxSecurity,Fedora 43 python-jupytext CVE-2025-13465 Denial of Service Threat Advisory,https://linuxsecurity.com/advisories/fedora/python-jupytext-fedora-43-2025-13465,https://da.gd/LXw3Q
+LinuxSecurity,Fedora 43 rust-sequoia-sqv Upgrade RUSTSEC-2025-0147 CVE-2025-67898,https://linuxsecurity.com/advisories/fedora/rust-sequoia-sqv-2026-9317b8ea7b-2025-67897,https://da.gd/iqcoNH
