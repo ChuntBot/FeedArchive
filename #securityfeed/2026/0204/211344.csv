@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6jp5-grgh-jw42] EVE Freely Allocates Buffer on The Stack With Data From Socket,https://github.com/advisories/GHSA-6jp5-grgh-jw42,https://da.gd/ZM5YiR
+GithubAdvisories,[GHSA-vpjr-h6fh-mw4p] Duplicate Advisory: EVE Freely Allocates Buffer on The Stack With Data From Socket,https://github.com/advisories/GHSA-vpjr-h6fh-mw4p,https://da.gd/ADGAm
+GithubAdvisories,[GHSA-3mq9-xhgq-r7gj] EVE: SSH as Root Unlockable Without Triggering Measured Boot,https://github.com/advisories/GHSA-3mq9-xhgq-r7gj,https://da.gd/KAN5t
+GithubAdvisories,[GHSA-f6wp-8j9r-frrg] Duplicate Advisory: EVE: SSH as Root Unlockable Without Triggering Measured Boot,https://github.com/advisories/GHSA-f6wp-8j9r-frrg,https://da.gd/xOoou
