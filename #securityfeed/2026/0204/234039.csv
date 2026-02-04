@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g7vp-j25f-h34p] EVE Has Partially Predetermined Vault Key,https://github.com/advisories/GHSA-g7vp-j25f-h34p,https://da.gd/vWjN
+GithubAdvisories,[GHSA-hx74-4wmc-fwvf] Duplicate Advisory: EVE Has Partially Predetermined Vault Key,https://github.com/advisories/GHSA-hx74-4wmc-fwvf,https://da.gd/s4zov
+GithubAdvisories,[GHSA-5h7v-g49c-h887] EVE Doesn't Protect Rootfs,https://github.com/advisories/GHSA-5h7v-g49c-h887,https://da.gd/tZEqlF
+GithubAdvisories,[GHSA-x9mp-jm4h-jjf8] Duplicate Advisory: EVE Doesn't Protect Rootfs,https://github.com/advisories/GHSA-x9mp-jm4h-jjf8,https://da.gd/RMNyQo
+GithubAdvisories,[GHSA-4jvr-vj2c-8q37] EVE Seals Vault Key With SHA1 PCRs,https://github.com/advisories/GHSA-4jvr-vj2c-8q37,https://da.gd/10TD
+GithubAdvisories,[GHSA-h929-fvvp-882c] Duplicate Advisory: EVE Seals Vault Key With SHA1 PCRs,https://github.com/advisories/GHSA-h929-fvvp-882c,https://da.gd/h2Xl
