@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-phcg-h58r-gmcq] EVE Doesn't Measure Config Partition From 2 Fronts,https://github.com/advisories/GHSA-phcg-h58r-gmcq,https://da.gd/8PJgI
+GithubAdvisories,[GHSA-5jvg-8j6f-vpmc] Duplicate Advisory: EVE Doesn't Measure Config Partition From 2 Fronts,https://github.com/advisories/GHSA-5jvg-8j6f-vpmc,https://da.gd/UBHQ
+GithubAdvisories,[GHSA-j39j-6gw9-jw6h] git2 has potential undefined behavior when dereferencing Buf struct,https://github.com/advisories/GHSA-j39j-6gw9-jw6h,https://da.gd/PeYnH1
+GithubAdvisories,[GHSA-74vm-8frp-7w68] EPyT-Flow vulnerable to unsafe JSON deserialization (__type__),https://github.com/advisories/GHSA-74vm-8frp-7w68,https://da.gd/r3JT0
+GithubAdvisories,[GHSA-2xcx-75h9-vr9h] n8n's domain allowlist bypass enables credential exfiltration,https://github.com/advisories/GHSA-2xcx-75h9-vr9h,https://da.gd/OxaYg
+GithubAdvisories,[GHSA-5w5r-8xc6-2xhw] Apache Answer Exposure of Private Personal Information to an Unauthorized Actor vulnerability,https://github.com/advisories/GHSA-5w5r-8xc6-2xhw,https://da.gd/8ZzBiA
+GithubAdvisories,[GHSA-4j3g-rwwq-4p54] Neo4j Enterprise and Community vulnerable to a potential information disclosure,https://github.com/advisories/GHSA-4j3g-rwwq-4p54,https://da.gd/PlIq
+GithubAdvisories,[GHSA-8x3w-qj7j-gqhf] openmls has improper tag validation,https://github.com/advisories/GHSA-8x3w-qj7j-gqhf,https://da.gd/dkozw
+GithubAdvisories,[GHSA-jr3w-9vfr-c746] Local Path Provisioner vulnerable to Path Traversal via parameters.pathPattern,https://github.com/advisories/GHSA-jr3w-9vfr-c746,https://da.gd/p83KO3
