@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wc42-fcjp-v8vq] EVE Doesn't Protect Config Partition with Measured Boot,https://github.com/advisories/GHSA-wc42-fcjp-v8vq,https://da.gd/SHDXg
+GithubAdvisories,[GHSA-3wmx-9qwp-h363] Duplicate Advisory: EVE Doesn't Protect Config Partition with Measured Boot,https://github.com/advisories/GHSA-3wmx-9qwp-h363,https://da.gd/lJoUv
+GithubAdvisories,[GHSA-4c4v-42hc-72p6] EVE's Debug Functions Unlockable Without Triggering Measured Boot,https://github.com/advisories/GHSA-4c4v-42hc-72p6,https://da.gd/D6QbW
+GithubAdvisories,[GHSA-6958-8cpr-xgrq] Duplicate Advisory: EVE's Debug Functions Unlockable Without Triggering Measured Boot,https://github.com/advisories/GHSA-6958-8cpr-xgrq,https://da.gd/uTsGi
+GithubAdvisories,[GHSA-m7gw-rffq-rxjm] Winter CMS has Stored Cross-site Scripting (XSS) in Asset Manager,https://github.com/advisories/GHSA-m7gw-rffq-rxjm,https://da.gd/OuPBDH
