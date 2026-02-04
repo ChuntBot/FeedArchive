@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2mrq-r658-h2pp] Malware in banquet-runtime-modules,https://github.com/advisories/GHSA-2mrq-r658-h2pp,https://da.gd/ivYv
+GithubAdvisories,[GHSA-crrc-9hrh-2pgh] Malware in mdp-client-web,https://github.com/advisories/GHSA-crrc-9hrh-2pgh,https://da.gd/5SiKD
+GithubAdvisories,[GHSA-4j65-m9j3-4wrc] Malware in confluence-analytics-support,https://github.com/advisories/GHSA-4j65-m9j3-4wrc,https://da.gd/VLA2
+GithubAdvisories,[GHSA-8x2r-v9x5-3qgh] Duplicate Advisory: Insecure Deserialization (pickle) in pdfminer.six CMap Loader — Local Privesc,https://github.com/advisories/GHSA-8x2r-v9x5-3qgh,https://da.gd/HdEgP
