@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h3q6-jfrg-3x6q] survey-pdf Upgraded jsPDF Version Due to Security Vulnerability,https://github.com/advisories/GHSA-h3q6-jfrg-3x6q,https://da.gd/kIf23C
+GithubAdvisories,[GHSA-g55j-c2v4-pjcg] OpenClaw vulnerable to Unauthenticated Local RCE via WebSocket config.apply,https://github.com/advisories/GHSA-g55j-c2v4-pjcg,https://da.gd/sHznQ
+GithubAdvisories,[GHSA-9h3p-52vh-959w] ingress-nginx's `nginx.ingress.kubernetes.io/auth-method` Ingress annotation can be used to inject configuration into nginx,https://github.com/advisories/GHSA-9h3p-52vh-959w,https://da.gd/8xxw2
+GithubAdvisories,[GHSA-2pf9-vr92-6h3v] ingress-nginx vulnerable to Allocation of Resources Without Limits or Throttling,https://github.com/advisories/GHSA-2pf9-vr92-6h3v,https://da.gd/gwqBd
+GithubAdvisories,[GHSA-4g2f-xcph-2335] ingress-nginx has Improper Check for Unusual or Exceptional Conditions,https://github.com/advisories/GHSA-4g2f-xcph-2335,https://da.gd/EzEdM
+GithubAdvisories,[GHSA-jx8c-56mg-h6vp] ingress-nginx's `rules.http.paths.path` Ingress field can be used to inject configuration into nginx,https://github.com/advisories/GHSA-jx8c-56mg-h6vp,https://da.gd/X00p7
+GithubAdvisories,[GHSA-345p-7cg4-v4c7] @modelcontextprotocol/sdk has cross-client data leak via shared server/transport instance reuse,https://github.com/advisories/GHSA-345p-7cg4-v4c7,https://da.gd/eskSL0
+GithubAdvisories,[GHSA-8jx2-rhfh-q928] godot-mcp has Command Injection via unsanitized projectPath,https://github.com/advisories/GHSA-8jx2-rhfh-q928,https://da.gd/eI2gYJ
+GithubAdvisories,[GHSA-8wpc-j9q9-j5m2] Devtron Attributes API Unauthorized Access Leading to API Token Signing Key Leakage,https://github.com/advisories/GHSA-8wpc-j9q9-j5m2,https://da.gd/ZQqxk
+GithubAdvisories,[GHSA-fjm6-8xp2-4fwc] Boltz contains an insecure deserialization vulnerability in its molecule loading functionality,https://github.com/advisories/GHSA-fjm6-8xp2-4fwc,https://da.gd/LiPoUZ
