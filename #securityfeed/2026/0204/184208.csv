@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8jmm-3xwx-w974] Alist has Insecure TLS Config,https://github.com/advisories/GHSA-8jmm-3xwx-w974,https://da.gd/RSpo
+GithubAdvisories,[GHSA-9g95-qf3f-ggrw] n8n has OS Command Injection in Git Node,https://github.com/advisories/GHSA-9g95-qf3f-ggrw,https://da.gd/UhP9c
+GithubAdvisories,[GHSA-gfvg-qv54-r4pc] n8n's Improper File Access Controls Allow Arbitrary File Read by Authenticated Users,https://github.com/advisories/GHSA-gfvg-qv54-r4pc,https://da.gd/ehtk
+GithubAdvisories,[GHSA-825q-w924-xhgx] n8n's Improper CSP Enforcement in Webhook Responses May Allow Stored XSS,https://github.com/advisories/GHSA-825q-w924-xhgx,https://da.gd/NTFW8
