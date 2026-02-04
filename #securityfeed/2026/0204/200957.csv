@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 24.04 LTS Emacs Moderately Unsafe Code Execution Flaw USN-8011-1,https://linuxsecurity.com/advisories/ubuntu/emacs-ubuntu-8011-1-2024-53920,https://da.gd/3dxLD
+LinuxSecurity,SUSE glib2 Important Buffer Underflow Buffer Overflow Vuln 2026-0373-1,https://linuxsecurity.com/advisories/suse/glib2-suse-2026-0373-1-2026-1484,https://da.gd/ffgL9x
+LinuxSecurity,openSUSE 15.6 glib2 Important Buffer Overflow and Heap Access Patch,https://linuxsecurity.com/advisories/opensuse/glib2-opensuse-2026-0373-1-2026-1484,https://da.gd/tclWuy
+LinuxSecurity,SUSE Protobuf Moderate Threat Bypass CVE-2026-0994 Advisory 2026-0374-1,https://linuxsecurity.com/advisories/suse/protobuf-suse-2026-0374-1-2026-0994,https://da.gd/th7kH3
+LinuxSecurity,Ubuntu 25 Alpha GRPC Enhanced Cycle Max Limit 2029-0689-4,https://linuxsecurity.com/advisories/opensuse/protobuf-opensuse-2026-0374-1-2026-0994,https://da.gd/YrO5Te
+LinuxSecurity,SUSE libvirt Security Fix CVE-2025-12748 Addresses Access Control Risk,https://linuxsecurity.com/advisories/suse/libvirt-suse-2026-0375-1-2025-12748,https://da.gd/akNnf
