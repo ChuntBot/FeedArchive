@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,SUSE Linux Enterprise 12 SP5 Util-Linux Moderate Heap Buffer Overread,https://linuxsecurity.com/advisories/suse/util-linux-suse-2026-0366-1-2025-14104,https://da.gd/P6F0m
+LinuxSecurity,SUSE 2026-0456-2 python-requests High Performance Degradation Problems,https://linuxsecurity.com/advisories/suse/python-urllib3-suse-2026-0367-1-2025-66418,https://da.gd/Gt6m8K
+LinuxSecurity,openSUSE urllib3-Critical Memory Leak Issue-2026-0367-2,https://linuxsecurity.com/advisories/opensuse/python-urllib3-opensuse-2026-0367-1-2025-66418,https://da.gd/TWOZ7
+LinuxSecurity,SUSE libsodium Moderate Security Bypass Issues 2026-0368-1 CVE-2025-15444,https://linuxsecurity.com/advisories/suse/libsodium-suse-2026-0368-1-2025-15444,https://da.gd/aAydJ
+LinuxSecurity,openSUSE libsodium Vulnerabilities in Cryptographic Logic 2026-0453-2,https://linuxsecurity.com/advisories/opensuse/libsodium-opensuse-2026-0368-1-2025-15444,https://da.gd/3FjcZ
+LinuxSecurity,openSUSE 15.3 Kernel Important Security Fix Vuln 2026-0369-1,https://linuxsecurity.com/advisories/opensuse/kernel-opensuse-2026-0369-1-2022-0854,https://da.gd/vkSU1Z
