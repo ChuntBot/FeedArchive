@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+ExploitDB,[remote] Redis 8.0.2 - RCE,https://www.exploit-db.com/exploits/52477,https://da.gd/O87TN
+ExploitDB,[webapps] OctoPrint 1.11.2 - File Upload,https://www.exploit-db.com/exploits/52476,https://da.gd/JJJOPC
+ExploitDB,[remote] Ingress-NGINX Admission Controller v1.11.1 - FD Injection to RCE,https://www.exploit-db.com/exploits/52475,https://da.gd/jK9x2
+ExploitDB,[webapps] aiohttp 3.9.1 - directory traversal PoC,https://www.exploit-db.com/exploits/52474,https://da.gd/AXhEtz
+ExploitDB,[webapps] FortiWeb Fabric Connector 7.6.x - SQL Injection to Remote Code Execution,https://www.exploit-db.com/exploits/52473,https://da.gd/eoUUY
+ExploitDB,[local] Docker Desktop 4.44.3 - Unauthenticated API Exposure,https://www.exploit-db.com/exploits/52472,https://da.gd/AgjRVi
