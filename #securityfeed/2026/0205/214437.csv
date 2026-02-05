@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3p7x-94q9-jq9x] pgadmin4 affected by a Restore restriction bypass via key disclosure vulnerability,https://github.com/advisories/GHSA-3p7x-94q9-jq9x,https://da.gd/ft3Ua1
+GithubAdvisories,[GHSA-7x3h-rm86-3342] @nyariv/sandboxjs vulnerable to sandbox escape via TOCTOU bug on keys in property accesses,https://github.com/advisories/GHSA-7x3h-rm86-3342,https://da.gd/DpMoFt
+GithubAdvisories,[GHSA-vf5j-r2hw-2hrw] OpenCloud Affected by Public Link Exploit,https://github.com/advisories/GHSA-vf5j-r2hw-2hrw,https://da.gd/nStoO
+GithubAdvisories,[GHSA-f632-vm87-2m2f] qdrant has arbitrary file write via `/logger` endpoint,https://github.com/advisories/GHSA-f632-vm87-2m2f,https://da.gd/cnqF
+GithubAdvisories,[GHSA-87fh-rc96-6fr6] Unauthenticated Spree Commerce users can access all guest addresses,https://github.com/advisories/GHSA-87fh-rc96-6fr6,https://da.gd/0R7u
