@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v82v-c5x8-w282] NiceGUI's XSS vulnerability in ui.markdown() allows arbitrary JavaScript execution through unsanitized HTML content,https://github.com/advisories/GHSA-v82v-c5x8-w282,https://da.gd/RQ8sO
+GithubAdvisories,[GHSA-v56v-w5mx-f7pj] Malware in debug-logger-utils,https://github.com/advisories/GHSA-v56v-w5mx-f7pj,https://da.gd/bSlQe8
+GithubAdvisories,[GHSA-jp2g-vjp5-7pjh] Malware in 0xhash-utils,https://github.com/advisories/GHSA-jp2g-vjp5-7pjh,https://da.gd/ExueS
+GithubAdvisories,[GHSA-fr3g-46g8-q3gv] Malware in https-servers,https://github.com/advisories/GHSA-fr3g-46g8-q3gv,https://da.gd/JYjZ
