@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ggxw-g3cp-mgf8] FUXA Unauthenticated Remote Arbitrary Device Tag Write,https://github.com/advisories/GHSA-ggxw-g3cp-mgf8,https://da.gd/ZvjWWg
+GithubAdvisories,[GHSA-88qh-cphv-996c] FUXA Unauthenticated Remote Code Execution via Arbitrary File Write in Upload API,https://github.com/advisories/GHSA-88qh-cphv-996c,https://da.gd/BK05tg
+GithubAdvisories,[GHSA-32cc-x95p-fxcg] FUXA Unauthenticated Remote Code Execution via Hardcoded JWT Secret in Default Configuration,https://github.com/advisories/GHSA-32cc-x95p-fxcg,https://da.gd/MENYRk
+GithubAdvisories,[GHSA-c5gq-4h56-4mmx] FUXA Unauthenticated Exposure of Plaintext Database Credentials,https://github.com/advisories/GHSA-c5gq-4h56-4mmx,https://da.gd/Bvufaj
+GithubAdvisories,[GHSA-vwcg-c828-9822] FUXA Unauthenticated Remote Code Execution via Admin JWT Minting,https://github.com/advisories/GHSA-vwcg-c828-9822,https://da.gd/B2rsrE
