@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wq8p-q8cq-94w5] MineAdmin May Expose Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-wq8p-q8cq-94w5,https://da.gd/DCEg
+GithubAdvisories,[GHSA-7f7m-83r3-p644] MineAdmin May Expose Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-7f7m-83r3-p644,https://da.gd/FVpVz
+GithubAdvisories,[GHSA-23hh-2f47-3p4h] MineAdmin has Incorrect Privilege Assignment,https://github.com/advisories/GHSA-23hh-2f47-3p4h,https://da.gd/APPE7
+GithubAdvisories,[GHSA-2286-hxv5-cmp2] Sliver Vulnerable to Website Path Traversal / Arbitrary File Read (Authenticated),https://github.com/advisories/GHSA-2286-hxv5-cmp2,https://da.gd/7l5l3
+GithubAdvisories,[GHSA-6w5w-jx4x-vjvw] Microweber Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-6w5w-jx4x-vjvw,https://da.gd/O9Bia
+GithubAdvisories,[GHSA-5jg5-xqfw-rv92] Microweber has a Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-5jg5-xqfw-rv92,https://da.gd/0rfCW
+GithubAdvisories,[GHSA-jq9f-gm9w-rwm9] OpenFGA Improper Policy Enforcement,https://github.com/advisories/GHSA-jq9f-gm9w-rwm9,https://da.gd/nGf6MA
