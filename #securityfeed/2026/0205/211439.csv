@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p6pv-q7rc-g4h9] Unauthenticated Spree Commerce users can view completed guest orders by Order ID,https://github.com/advisories/GHSA-p6pv-q7rc-g4h9,https://da.gd/P0d1a
+GithubAdvisories,[GHSA-9ffm-fxg3-xrhh] NiceGUI's Path Traversal via Unsanitized FileUpload.name Enables Arbitrary File Write,https://github.com/advisories/GHSA-9ffm-fxg3-xrhh,https://da.gd/IZxUF7
+GithubAdvisories,[GHSA-66h4-qj4x-38xp] @nyariv/sandboxjs has a Sandbox Escape vulnerability,https://github.com/advisories/GHSA-66h4-qj4x-38xp,https://da.gd/D9Ug9y
+GithubAdvisories,[GHSA-jjpw-65fv-8g48] @nyariv/sandboxjs has Sandbox Escape via Prototype Whitelist Bypass and Host Prototype Pollution,https://github.com/advisories/GHSA-jjpw-65fv-8g48,https://da.gd/hBXHL
+GithubAdvisories,[GHSA-jq29-r496-r955] payload-preferences has Cross-Collection IDOR in Access Control (Multi-Auth Environments),https://github.com/advisories/GHSA-jq29-r496-r955,https://da.gd/q0N36
+GithubAdvisories,[GHSA-xx6w-jxg9-2wh8] @payloadcms/drizzle has SQL Injection in JSON/RichText Queries on PostgreSQL/SQLite Adapters,https://github.com/advisories/GHSA-xx6w-jxg9-2wh8,https://da.gd/dmIr1
