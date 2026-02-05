@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x9p2-77v6-6vhf] FrankenPHP has delayed propagation of security fixes in upstream base images,https://github.com/advisories/GHSA-x9p2-77v6-6vhf,https://da.gd/Ef2uHt
+GithubAdvisories,[GHSA-r6v5-fh4h-64xc] time vulnerable to stack exhaustion Denial of Service attack,https://github.com/advisories/GHSA-r6v5-fh4h-64xc,https://da.gd/BNc2
+GithubAdvisories,[GHSA-x39w-8vm5-5m3p] Sandbox escape via infinite recursion and error objects,https://github.com/advisories/GHSA-x39w-8vm5-5m3p,https://da.gd/xJz4m
