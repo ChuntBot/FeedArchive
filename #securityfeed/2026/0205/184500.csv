@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8fgc-7cc6-rx7x] webpack buildHttp: allowedUris allow-list bypass via URL userinfo (@) leading to build-time SSRF behavior,https://github.com/advisories/GHSA-8fgc-7cc6-rx7x,https://da.gd/Z2qGpm
+GithubAdvisories,[GHSA-38r7-794h-5758] webpack buildHttp HttpUriPlugin allowedUris bypass via HTTP redirects → SSRF + cache persistence,https://github.com/advisories/GHSA-38r7-794h-5758,https://da.gd/sB7tQg
+GithubAdvisories,[GHSA-rf8c-3f5p-xv45] web2py has an Open Redirect Vulnerability,https://github.com/advisories/GHSA-rf8c-3f5p-xv45,https://da.gd/Q8eP8a
