@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rjv5-9px2-fqw6] Gogs has authorization bypass in repository deletion API,https://github.com/advisories/GHSA-rjv5-9px2-fqw6,https://da.gd/PHnP9
+GithubAdvisories,[GHSA-26gq-grmh-6xm6] Gogs vulnerable to Stored XSS via Mermaid diagrams,https://github.com/advisories/GHSA-26gq-grmh-6xm6,https://da.gd/hOpgYA
+GithubAdvisories,[GHSA-xr72-g735-4vwp] Neo4j Enterprise and Community editions have insufficient escaping of unicode characters in query log,https://github.com/advisories/GHSA-xr72-g735-4vwp,https://da.gd/1pKTCM
+GithubAdvisories,[GHSA-4f84-67cv-qrv3] A single post-release of dydx-v4-client contained obfuscated multi-stage loader,https://github.com/advisories/GHSA-4f84-67cv-qrv3,https://da.gd/U6o0J
+GithubAdvisories,"[GHSA-w67g-2h6v-vjgq] Phlex XSS protection bypass via attribute splatting, dynamic tags, and href values",https://github.com/advisories/GHSA-w67g-2h6v-vjgq,https://da.gd/kvdyK6
+GithubAdvisories,[GHSA-f5x2-vj4h-vg4c] AdonisJS multipart body parsing has Prototype Pollution issue,https://github.com/advisories/GHSA-f5x2-vj4h-vg4c,https://da.gd/zrOsL
