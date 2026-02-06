@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2ww3-72rp-wpp4] Semantic Kernel has Arbitrary File Write via AI Agent Function Calling in .NET SDK,https://github.com/advisories/GHSA-2ww3-72rp-wpp4,https://da.gd/4Mac9W
+GithubAdvisories,[GHSA-25fq-6qgg-qpj8] SCEditor has DOM XSS via emoticon URL/HTML injection,https://github.com/advisories/GHSA-25fq-6qgg-qpj8,https://da.gd/8AcSd9
+GithubAdvisories,[GHSA-2jrp-274c-jhv3] Pydantic AI has Server-Side Request Forgery (SSRF) in URL Download Handling,https://github.com/advisories/GHSA-2jrp-274c-jhv3,https://da.gd/UAhDR
+GithubAdvisories,[GHSA-4j2x-jh4m-fqv6] OpenSTAManager has a SQL Injection in the Prima Nota module,https://github.com/advisories/GHSA-4j2x-jh4m-fqv6,https://da.gd/5bHIyo
+GithubAdvisories,[GHSA-4xwv-49c8-fvhq] OpenSTAManager has a SQL Injection vulnerability in the Scadenzario bulk operations module,https://github.com/advisories/GHSA-4xwv-49c8-fvhq,https://da.gd/arNPe
+GithubAdvisories,[GHSA-4hc4-8599-xh2h] OpenSTAManager has a Time-Based Blind SQL Injection with Amplified Denial of Service,https://github.com/advisories/GHSA-4hc4-8599-xh2h,https://da.gd/Js1mf
