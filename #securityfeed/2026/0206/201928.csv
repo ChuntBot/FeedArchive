@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-69x3-g4r3-p962] Blocklist Bypass possible via ECDSA Signature Malleability,https://github.com/advisories/GHSA-69x3-g4r3-p962,https://da.gd/N0OznH
+GithubAdvisories,[GHSA-9f8m-9547-2gqm] Gophish is vulnerable to Incorrect Access Control,https://github.com/advisories/GHSA-9f8m-9547-2gqm,https://da.gd/po5wR
+GithubAdvisories,[GHSA-ffx7-34p2-vm3w] Mattermost Confluence plugin doesn't properly escape user-controlled display names in HTML template rendering,https://github.com/advisories/GHSA-ffx7-34p2-vm3w,https://da.gd/N4JY9
+GithubAdvisories,[GHSA-xx9g-fh25-4q64] AdonisJS vulnerable to Denial of Service (DoS) via Unrestricted Memory Buffering in PartHandler during File Type Detection,https://github.com/advisories/GHSA-xx9g-fh25-4q64,https://da.gd/4ULdC0
