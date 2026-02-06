@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 24.04 LTS Kernel Critical FIPS Flaw Patch USN-8015-3,https://linuxsecurity.com/advisories/ubuntu/linux-kernel-ubuntu-8015-3-2025-38561,https://da.gd/EdVmQ
+LinuxSecurity,Oracle Linux 8 ELSA-2026-2124 osbuild-composer Important Fix CVE-2025-61729,https://linuxsecurity.com/advisories/oracle/osbuild-composer-elisa-2026-2124-2025-61729,https://da.gd/qBUXjv
+LinuxSecurity,Oracle Linux 9 ELSA-2026-50095 Kernel Important Security Update,https://linuxsecurity.com/advisories/oracle/oracle9-kernel-el-2026-50095-2025-38566,https://da.gd/s6u2GV
+LinuxSecurity,Oracle Linux 10 libsoup3 Important Update ELSA-2026-2182 CVE-2026-0719,https://linuxsecurity.com/advisories/oracle/libsoup3-elasticsearch-2026-2182-2026-0719,https://da.gd/VdJsTb
+LinuxSecurity,Oracle Linux 10 ELSA-2026-1905 Fence-Agents Important Fix CVE-2026-23490,https://linuxsecurity.com/advisories/oracle/fence-agents-elisa-2026-1905-2026-23490,https://da.gd/9oSO
+LinuxSecurity,Oracle Linux 10 ELSA-2026-1838 image-builder Moderate CVE-2025-58183,https://linuxsecurity.com/advisories/oracle/oracle10-image-builder-el-2026-1838-2025-58183,https://da.gd/ncdt
