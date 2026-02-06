@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gg64-xxr9-qhjp] Gogs's update .git/config file allows remote command execution,https://github.com/advisories/GHSA-gg64-xxr9-qhjp,https://da.gd/AW7zu
