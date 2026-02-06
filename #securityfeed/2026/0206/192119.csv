@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ff64-7w26-62rf] Claude Code has Sandbox Escape via Persistent Configuration Injection in settings.json,https://github.com/advisories/GHSA-ff64-7w26-62rf,https://da.gd/n4VQ
+GithubAdvisories,[GHSA-4q92-rfm6-2cqx] Claude Code has Permission Deny Bypass Through Symbolic Links,https://github.com/advisories/GHSA-4q92-rfm6-2cqx,https://da.gd/yUKXY
+GithubAdvisories,[GHSA-mhg7-666j-cqg4] Claude Code Vulnerable to Command Injection via Piped sed Command Bypasses File Write Restrictions,https://github.com/advisories/GHSA-mhg7-666j-cqg4,https://da.gd/dInmWH
+GithubAdvisories,[GHSA-66q4-vfjg-2qhh] Claude Code Vulnerable to Command Injection via Directory Change Bypasses Write Protection,https://github.com/advisories/GHSA-66q4-vfjg-2qhh,https://da.gd/2YpV8
+GithubAdvisories,[GHSA-gcqf-3g44-vc9p] [actix-files] Panic triggered by empty Range header in GET request for static file,https://github.com/advisories/GHSA-gcqf-3g44-vc9p,https://da.gd/5IBZd4
+GithubAdvisories,[GHSA-8v2v-wjwg-vx6r] actix-files has a possible exposure of information vulnerability,https://github.com/advisories/GHSA-8v2v-wjwg-vx6r,https://da.gd/jB7jMr
+GithubAdvisories,[GHSA-m4w9-gch5-c2g4] client-certificate-auth Vulnerable to Open Redirect via Host Header Injection in HTTP-to-HTTPS redirect,https://github.com/advisories/GHSA-m4w9-gch5-c2g4,https://da.gd/9NEcSG
+GithubAdvisories,[GHSA-vf6j-c56p-cq58] MCP-Salesforce's arbitrary attribute access leads to disclosure of Salesforce auth token,https://github.com/advisories/GHSA-vf6j-c56p-cq58,https://da.gd/gXyOKk
+GithubAdvisories,[GHSA-wjp5-868j-wqv7] Pydantic AI has Stored XSS via Path Traversal in Web UI CDN URL,https://github.com/advisories/GHSA-wjp5-868j-wqv7,https://da.gd/zD3hY7
