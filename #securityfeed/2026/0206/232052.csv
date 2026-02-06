@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5ghq-28r7-qwfj] Mattermost Server does not restrict SAML certificate path for System Administrators,https://github.com/advisories/GHSA-5ghq-28r7-qwfj,https://da.gd/VIOZ3V
+GithubAdvisories,"[GHSA-jxc4-w54c-qv5r] Mattermost Server uses weak hashing for OAuth, email verification tokens and invitations",https://github.com/advisories/GHSA-jxc4-w54c-qv5r,https://da.gd/enlP85
+GithubAdvisories,[GHSA-x33g-375j-jhf7] Mattermost Server has Improper Authorization for Integration Requests,https://github.com/advisories/GHSA-x33g-375j-jhf7,https://da.gd/GdUBq
+GithubAdvisories,[GHSA-hxxj-8phw-74vw] Mattermost Server server restarts may provide attackers with API access,https://github.com/advisories/GHSA-hxxj-8phw-74vw,https://da.gd/bQDt
+GithubAdvisories,[GHSA-m462-mqw4-2c8m] Mattermost Server has X.509 Improper Certificate Validation,https://github.com/advisories/GHSA-m462-mqw4-2c8m,https://da.gd/jIQcV
+GithubAdvisories,[GHSA-wxrw-gvg8-fqjp] Sliver has DNS C2 OTP Bypass that Allows Unauthenticated Session Flooding and Denial of Service,https://github.com/advisories/GHSA-wxrw-gvg8-fqjp,https://da.gd/pqJkzh
