@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p864-fqgv-92q4] OpenSTAManager has a Time-Based Blind SQL Injection in Article Pricing Module,https://github.com/advisories/GHSA-p864-fqgv-92q4,https://da.gd/UaulvW
+GithubAdvisories,[GHSA-jp7c-wj6q-3qf2] Gogs vulnerable to arbitrary file deletion via Path Traversal in wiki page update,https://github.com/advisories/GHSA-jp7c-wj6q-3qf2,https://da.gd/9QWbT
+GithubAdvisories,[GHSA-mrph-w4hh-gx3g] Gogs has arbitrary file read/write via Path Traversal in Git hook editing,https://github.com/advisories/GHSA-mrph-w4hh-gx3g,https://da.gd/sY9Gb
+GithubAdvisories,[GHSA-5qhx-gwfj-6jqr] Gogs user can update repository content with read-only permission,https://github.com/advisories/GHSA-5qhx-gwfj-6jqr,https://da.gd/zprwp
+GithubAdvisories,[GHSA-cr88-6mqm-4g57] Gogs has a Denial of Service issue,https://github.com/advisories/GHSA-cr88-6mqm-4g57,https://da.gd/mCxNfy
+GithubAdvisories,[GHSA-q6g3-fv43-m2w6] OpenSTAManager has a SQL Injection in Scadenzario Print Template,https://github.com/advisories/GHSA-q6g3-fv43-m2w6,https://da.gd/8Nl4v
+GithubAdvisories,[GHSA-qjv8-63xq-gq8m] OpenSTAManager has a SQL Injection in ajax_select.php (componenti endpoint),https://github.com/advisories/GHSA-qjv8-63xq-gq8m,https://da.gd/wbQiv
+GithubAdvisories,[GHSA-25fp-8w8p-mx36] OpenSTAManager has an OS Command Injection in P7M File Processing,https://github.com/advisories/GHSA-25fp-8w8p-mx36,https://da.gd/n2kG
+GithubAdvisories,[GHSA-p6x6-9mx6-26wj] Gogs Vulnerable to 2FA Bypass via Recovery Code,https://github.com/advisories/GHSA-p6x6-9mx6-26wj,https://da.gd/Litev
