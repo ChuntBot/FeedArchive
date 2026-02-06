@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x468-phr8-h3p3] `uniswap-utils` was removed from crates.io for malicious code,https://github.com/advisories/GHSA-x468-phr8-h3p3,https://da.gd/Q1Ws
+GithubAdvisories,[GHSA-3mmg-7c2q-8938] `sha-rust` was removed from crates.io for malicious code,https://github.com/advisories/GHSA-3mmg-7c2q-8938,https://da.gd/qIBGFz
+GithubAdvisories,[GHSA-f8h5-x737-x4xr] `finch-rust` was removed from crates.io for malicious code,https://github.com/advisories/GHSA-f8h5-x737-x4xr,https://da.gd/7IQGiF
+GithubAdvisories,[GHSA-382q-fpqh-29f7] `polymarket-clients-sdk` was removed from crates.io for malicious code,https://github.com/advisories/GHSA-382q-fpqh-29f7,https://da.gd/nEix0R
+GithubAdvisories,[GHSA-6662-54xr-8423] `evm-units` was removed from crates.io for malicious code,https://github.com/advisories/GHSA-6662-54xr-8423,https://da.gd/WPKV
