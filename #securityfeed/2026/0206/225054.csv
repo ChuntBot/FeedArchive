@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-42x9-rr3c-gr59] Mattermost Server vulnerable to XSS through channel headers,https://github.com/advisories/GHSA-42x9-rr3c-gr59,https://da.gd/zqLA5
+GithubAdvisories,[GHSA-86x4-wp9f-wrr9] Antrea has invalid enforcement order for network policy rules caused by integer overflow,https://github.com/advisories/GHSA-86x4-wp9f-wrr9,https://da.gd/44Bic0
+GithubAdvisories,[GHSA-4jqp-9qjv-57m2] Keylime Missing Authentication for Critical Function and Improper Authentication,https://github.com/advisories/GHSA-4jqp-9qjv-57m2,https://da.gd/PonA
+GithubAdvisories,[GHSA-27jc-jmp8-qfw5] Duplicate Advisory: Keylime Missing Authentication for Critical Function and Improper Authentication,https://github.com/advisories/GHSA-27jc-jmp8-qfw5,https://da.gd/UMvfB
+GithubAdvisories,[GHSA-5pr6-crvp-2j9f] Open Chinese Convert has Out-of-bounds Write,https://github.com/advisories/GHSA-5pr6-crvp-2j9f,https://da.gd/wtHlxR
+GithubAdvisories,[GHSA-vhvq-fv9f-wh4q] LookupResources Cursor section tampering can crash SpiceDB process via tuple.MustParse panic,https://github.com/advisories/GHSA-vhvq-fv9f-wh4q,https://da.gd/h1Ap3F
