@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-33mh-2634-fwr2] Faraday affected by SSRF via protocol-relative URL host override in build_exclusive_url,https://github.com/advisories/GHSA-33mh-2634-fwr2,https://da.gd/pMQAb
+GithubAdvisories,[GHSA-v34v-rq6j-cj6p] LangSmith Client SDK Affected by Server-Side Request Forgery via Tracing Header Injection,https://github.com/advisories/GHSA-v34v-rq6j-cj6p,https://da.gd/de2z
+GithubAdvisories,[GHSA-7jx7-3846-m7w7] Craft CMS Vulnerable to potential authenticated Remote Code Execution via malicious attached Behavior,https://github.com/advisories/GHSA-7jx7-3846-m7w7,https://da.gd/o6Al56
+GithubAdvisories,[GHSA-fxp3-g6gw-4r4v] Craft CMS: GraphQL Asset Mutation Privilege Escalation,https://github.com/advisories/GHSA-fxp3-g6gw-4r4v,https://da.gd/Lij5D2
+GithubAdvisories,[GHSA-9f5h-mmq6-2x78] Craft CMS Vulnerable to Stored XSS in Number Prefix & Suffix Fields,https://github.com/advisories/GHSA-9f5h-mmq6-2x78,https://da.gd/QA5KyH
+GithubAdvisories,[GHSA-2453-mppf-46cj] Craft CMS Vulnerable to SQL Injection in Element Indexes via `criteria[orderBy]`,https://github.com/advisories/GHSA-2453-mppf-46cj,https://da.gd/ITfNpn
+GithubAdvisories,[GHSA-m5r2-8p9x-hp5m] Craft CMS Vulnerable to SSRF in GraphQL Asset Mutation via Alternative IP Notation,https://github.com/advisories/GHSA-m5r2-8p9x-hp5m,https://da.gd/SVkfp
+GithubAdvisories,[GHSA-8jr8-7hr4-vhfx] Craft CMS Vulnerable to SSRF in GraphQL Asset Mutation via HTTP Redirect,https://github.com/advisories/GHSA-8jr8-7hr4-vhfx,https://da.gd/ZhIeR
+GithubAdvisories,[GHSA-96pq-hxpw-rgh8] Craft CMS: save_images_Asset graphql mutation can be abused to exfiltrate AWS credentials of underlying host,https://github.com/advisories/GHSA-96pq-hxpw-rgh8,https://da.gd/f1HGJZ
+GithubAdvisories,[GHSA-7pr4-wx9w-mqwr] Craft CMS Vulnerable to Stored XSS in Entry Types Name,https://github.com/advisories/GHSA-7pr4-wx9w-mqwr,https://da.gd/9JZCn
