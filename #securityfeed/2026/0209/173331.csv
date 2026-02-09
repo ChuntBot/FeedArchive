@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8mjx-w3ff-mv8m] Malware in jwtdotenv,https://github.com/advisories/GHSA-8mjx-w3ff-mv8m,https://da.gd/I2SIFp
+GithubAdvisories,[GHSA-7r6g-f9q3-q5fg] Malware in json-web-sources,https://github.com/advisories/GHSA-7r6g-f9q3-q5fg,https://da.gd/imcNu
+GithubAdvisories,[GHSA-vphr-h9xh-66ff] Malware in json-mapping-sources,https://github.com/advisories/GHSA-vphr-h9xh-66ff,https://da.gd/VrcKWV
+GithubAdvisories,"[GHSA-cpmj-h4f6-r6pq] Harden-Runner: Bypassing Logging of Outbound Connections Using sendto, sendmsg, and sendmmsg in Harden-Runner (Community Tier)",https://github.com/advisories/GHSA-cpmj-h4f6-r6pq,https://da.gd/em6qk
+GithubAdvisories,[GHSA-vxqx-rh46-q2pg] Litestar's FileStore key canonicalization collisions allow response cache mixup/poisoning (ASCII ord + Unicode NFKD),https://github.com/advisories/GHSA-vxqx-rh46-q2pg,https://da.gd/YqVcad
+GithubAdvisories,[GHSA-93ph-p7v4-hwh4] Litestar's AllowedHosts has a validation bypass due to unescaped regex metacharacters in configured host patterns,https://github.com/advisories/GHSA-93ph-p7v4-hwh4,https://da.gd/3mfqH
+GithubAdvisories,[GHSA-2p2x-hpg8-cqp2] Litestar's CORS origin allowlist has a bypass due to unescaped regex metacharacters in allowed origins,https://github.com/advisories/GHSA-2p2x-hpg8-cqp2,https://da.gd/FUXT9
+GithubAdvisories,[GHSA-qjpf-p69c-m582] Malware in react-svg-handler,https://github.com/advisories/GHSA-qjpf-p69c-m582,https://da.gd/W7UmXS
