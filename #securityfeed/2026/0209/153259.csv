@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-68rr-p4fp-j59v] Fiber has an insecure fallback in utils.UUIDv4() / utils.UUID() — predictable / zero‑UUID on crypto/rand failure,https://github.com/advisories/GHSA-68rr-p4fp-j59v,https://da.gd/VwLk7
+GithubAdvisories,[GHSA-97cm-4mhj-hmf7] Malware in @skyeng/libs,https://github.com/advisories/GHSA-97cm-4mhj-hmf7,https://da.gd/ffP1
