@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fpq4-r87v-g246] ThingsBoard vulnerable to stored cross-site scripting (XSS) vulnerability in the dashboard's Image Upload Gallery feature,https://github.com/advisories/GHSA-fpq4-r87v-g246,https://da.gd/KKPhm
+GithubAdvisories,[GHSA-qvhc-9v3j-5rfw] Microsoft Security Advisory CVE-2026-21218 | .NET Security Feature Bypass Vulnerability,https://github.com/advisories/GHSA-qvhc-9v3j-5rfw,https://da.gd/Grt3nD
+GithubAdvisories,[GHSA-r6ph-v2qm-q3c2] cryptography Vulnerable to a Subgroup Attack Due to Missing Subgroup Validation for SECT Curves,https://github.com/advisories/GHSA-r6ph-v2qm-q3c2,https://da.gd/Ba6wi
