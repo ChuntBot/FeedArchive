@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9vph-2hvm-x66g] Cube Core is vulnerable to Denial of Service (DoS) via crafted request,https://github.com/advisories/GHSA-9vph-2hvm-x66g,https://da.gd/6q5FE
+GithubAdvisories,[GHSA-v226-32c7-x2v7] Cube Core is vulnerable to privilege escalation via a specially crafted request,https://github.com/advisories/GHSA-v226-32c7-x2v7,https://da.gd/jgWouB
+GithubAdvisories,[GHSA-68m5-5w2h-h837] FUXA Affected by a Path Traversal Sanitization Bypass,https://github.com/advisories/GHSA-68m5-5w2h-h837,https://da.gd/t2Fl
+GithubAdvisories,[GHSA-37cx-329c-33x3] go-git improperly verifies data integrity values for .idx and .pack files,https://github.com/advisories/GHSA-37cx-329c-33x3,https://da.gd/EBtl4
+GithubAdvisories,[GHSA-c869-jx4c-q5fc] FUXA Unauthenticated Remote Arbitrary Scheduler Write,https://github.com/advisories/GHSA-c869-jx4c-q5fc,https://da.gd/OSWoP
+GithubAdvisories,[GHSA-v4p5-w6r3-2x4f] FUXA Unauthenticated Remote Code Execution in Node-RED Integration,https://github.com/advisories/GHSA-v4p5-w6r3-2x4f,https://da.gd/xaOkf5
+GithubAdvisories,[GHSA-8grv-jq2g-cfhw] amphp/http-server affected by HTTP/2 DDoS vulnerability,https://github.com/advisories/GHSA-8grv-jq2g-cfhw,https://da.gd/axQmro
+GithubAdvisories,[GHSA-4255-c27h-62m5] unity-cli Exposes Plaintext Credentials in Debug Logs (sign-package command),https://github.com/advisories/GHSA-4255-c27h-62m5,https://da.gd/JHmP
+GithubAdvisories,[GHSA-q4f2-39gr-45jh] Adminer has an Unauthenticated Persistent DoS via Array Injection in ?script=version Endpoint,https://github.com/advisories/GHSA-q4f2-39gr-45jh,https://da.gd/g4tIz
+GithubAdvisories,[GHSA-4mh3-h929-w968] File Browser has a Path-Based Access Control Bypass via Multiple Leading Slashes in URL,https://github.com/advisories/GHSA-4mh3-h929-w968,https://da.gd/vbJdQn
+GithubAdvisories,[GHSA-ww7g-4gwx-m7wj] @nyariv/sandboxjs has host prototype pollution from sandbox via array intermediary (sandbox escape),https://github.com/advisories/GHSA-ww7g-4gwx-m7wj,https://da.gd/ziyXHS
+GithubAdvisories,[GHSA-hxw8-4h9j-hq2r] File Browser has an Authentication Bypass in User Password Update,https://github.com/advisories/GHSA-hxw8-4h9j-hq2r,https://da.gd/okN3MP
+GithubAdvisories,[GHSA-2g7v-hghf-grg4] mcp-maigret vulnerable to command injection,https://github.com/advisories/GHSA-2g7v-hghf-grg4,https://da.gd/OvSF6S
+GithubAdvisories,[GHSA-f339-246p-wwjp] FroshAdminer Adminer UI is accessible without admin session,https://github.com/advisories/GHSA-f339-246p-wwjp,https://da.gd/dRxMFo
+GithubAdvisories,[GHSA-q66h-m87m-j2q6] Bitcoinrb Vulnerable to Command injection via RPC,https://github.com/advisories/GHSA-q66h-m87m-j2q6,https://da.gd/o12m4
