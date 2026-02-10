@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hcvw-475w-8g7p] Keycloak affected by improper invitation token validation,https://github.com/advisories/GHSA-hcvw-475w-8g7p,https://da.gd/DjhHZP
+GithubAdvisories,[GHSA-37gf-gmxv-74wv] Keycloak fails to verify if an Identity Provider (IdP) is enabled before issuing tokens,https://github.com/advisories/GHSA-37gf-gmxv-74wv,https://da.gd/V8LqL
