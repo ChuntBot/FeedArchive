@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vx5f-vmr6-32wf] cap-go/capacitor-native-biometric Authentication Bypass,https://github.com/advisories/GHSA-vx5f-vmr6-32wf,https://da.gd/7maTvV
+GithubAdvisories,[GHSA-q672-hfc7-g833] Apache Druid Vulnerable to Authentication Bypass,https://github.com/advisories/GHSA-q672-hfc7-g833,https://da.gd/OZtJEY
+GithubAdvisories,[GHSA-c4qc-4q9p-m9q9] Apache Shiro Affected by an Observable Timing Discrepancy Vulnerability,https://github.com/advisories/GHSA-c4qc-4q9p-m9q9,https://da.gd/7S60I
+GithubAdvisories,[GHSA-x6cr-mq53-cc76] Emmett-Core: Unhandled CookieError Exception Causing Denial of Service,https://github.com/advisories/GHSA-x6cr-mq53-cc76,https://da.gd/IyjDI
