@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-34cx-hvm4-vx7j] Mattermost Server password reset email requests can be sent to attacker-provided email addresses,https://github.com/advisories/GHSA-34cx-hvm4-vx7j,https://da.gd/KYpyH
+GithubAdvisories,[GHSA-r6j5-fqx9-7qv9] Mattermost Server SAML implementation does not require encryption or signature verification as default,https://github.com/advisories/GHSA-r6j5-fqx9-7qv9,https://da.gd/CbrNL
+GithubAdvisories,[GHSA-fpcr-4rr5-hpcp] Mattermost Server vulnerable to user account takeover when Single Sign-On OAuth2 is used,https://github.com/advisories/GHSA-fpcr-4rr5-hpcp,https://da.gd/RhhPO
