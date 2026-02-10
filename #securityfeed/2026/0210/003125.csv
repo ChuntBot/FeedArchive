@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian Bookworm Linux Critical Notice DSA-6127-1 Privilege Escalation,https://linuxsecurity.com/advisories/debian/linux-dsa-6127-1-2023-52658,https://da.gd/axTw1
+LinuxSecurity,Debian trixie DSA-6126-1 Linux Critical Privilege Escalation DoS,https://linuxsecurity.com/advisories/debian/linux-dsa-6126-1-2024-58096,https://da.gd/gAbn5
+LinuxSecurity,Debian 11 rlottie Critical Boundary Check Issue DLA-4474-1 CVE-2025-0634,https://linuxsecurity.com/advisories/deblts/rlottie-dla-4474-1-2025-0634,https://da.gd/Njt76A
+LinuxSecurity,Debian usbmuxd DSA-6125-1 Path Traversal Risk CVE-2025-66004,https://linuxsecurity.com/advisories/debian/usbmuxd-dsa-6125-1-2025-66004,https://da.gd/gEOqa
