@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 25.10 libsoup3 Important Denial of Service Threat USN-8020-1,https://linuxsecurity.com/advisories/ubuntu/libsoup-8020-1-2026-1467,https://da.gd/KZaod
+LinuxSecurity,Ubuntu 24.04 LTS FreeRDP Denial of Service Regression USN-8004-2,https://linuxsecurity.com/advisories/ubuntu/freerdp-8004-2-2026-23533,https://da.gd/BkeTRj
+LinuxSecurity,Mageia 9 FontForge Critical Remote Code Exec Risks MGASA-2026-0034,https://linuxsecurity.com/advisories/mageia/fontforge-mageia-2026-0034-2025-15269,https://da.gd/3uA57
+LinuxSecurity,Mageia 9 nginx Important MitM Injection Fix MGASA-2026-0033 CVE-2026-1642,https://linuxsecurity.com/advisories/mageia/nginx-mageia-2026-0033-2026-1642,https://da.gd/FSe0u
+LinuxSecurity,Debian Bookworm Shaarli Important Cross-Site Scripting Fix DSA-6128-1,https://linuxsecurity.com/advisories/debian/shaarli-dsa-6128-1-2026-24476,https://da.gd/lu5e5
