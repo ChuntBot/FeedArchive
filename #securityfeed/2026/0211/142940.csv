@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2g6r-c272-w58r] LangChain affected by SSRF via image_url token counting in ChatOpenAI.get_num_tokens_from_messages,https://github.com/advisories/GHSA-2g6r-c272-w58r,https://da.gd/DHKmTO
+GithubAdvisories,[GHSA-pqqf-7hxm-rj5r] Leaky JWTs in OpenMetadata exposing highly-privileged bot users,https://github.com/advisories/GHSA-pqqf-7hxm-rj5r,https://da.gd/2V4hd
+GithubAdvisories,[GHSA-cfh3-3jmp-rvhc] Pillow affected by out-of-bounds write when loading PSD images,https://github.com/advisories/GHSA-cfh3-3jmp-rvhc,https://da.gd/SXgzu
+GithubAdvisories,[GHSA-4p6w-3gcj-crr5] Malware in chai-prop,https://github.com/advisories/GHSA-4p6w-3gcj-crr5,https://da.gd/SvDh
