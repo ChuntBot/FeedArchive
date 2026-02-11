@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-92fh-27vv-894w] nanotar is vulnerable to path traversal in parseTar() and parseTarGzip(),https://github.com/advisories/GHSA-92fh-27vv-894w,https://da.gd/I653wA
+GithubAdvisories,[GHSA-gcpq-mrgg-v5f3] Phraseanet vulnerable to stored cross-site scripting through crafted file names,https://github.com/advisories/GHSA-gcpq-mrgg-v5f3,https://da.gd/XrK4G
+GithubAdvisories,[GHSA-m4g2-2q66-vc9v] Vikunja Vulnerable to XSS Via Task Preview,https://github.com/advisories/GHSA-m4g2-2q66-vc9v,https://da.gd/LbdvVJ
+GithubAdvisories,[GHSA-9278-6hcj-2p4j] Kimai 2 vulnerable to persistent cross-site scripting in the timesheet descriptions,https://github.com/advisories/GHSA-9278-6hcj-2p4j,https://da.gd/1lSdW
