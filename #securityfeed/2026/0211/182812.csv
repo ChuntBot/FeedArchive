@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ff9r-ww9c-43x8] Statamic CMS vulnerable to privilege escalation via stored cross-site scripting,https://github.com/advisories/GHSA-ff9r-ww9c-43x8,https://da.gd/5X6C6j
