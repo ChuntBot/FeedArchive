@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2c4m-g7rx-63q7] set-in Affected by Prototype Pollution,https://github.com/advisories/GHSA-2c4m-g7rx-63q7,https://da.gd/8fvV1
+GithubAdvisories,[GHSA-hc86-54fq-c4mf] Malware in osopackage,https://github.com/advisories/GHSA-hc86-54fq-c4mf,https://da.gd/KLF51j
+GithubAdvisories,[GHSA-j464-mvwq-jr58] Malware in systemtest-information,https://github.com/advisories/GHSA-j464-mvwq-jr58,https://da.gd/tRvLU
+GithubAdvisories,[GHSA-2cmj-2pj3-9369] Malware in systemtest-network,https://github.com/advisories/GHSA-2cmj-2pj3-9369,https://da.gd/8Erx
+GithubAdvisories,[GHSA-gf3v-fwqg-4vh7] @langchain/community affected by SSRF Bypass in RecursiveUrlLoader via insufficient URL origin validation,https://github.com/advisories/GHSA-gf3v-fwqg-4vh7,https://da.gd/giXut
+GithubAdvisories,[GHSA-9f3f-wv7r-qc8r] Pion DTLS's usage of random nonce generation with AES GCM ciphers risks leaking the authentication key,https://github.com/advisories/GHSA-9f3f-wv7r-qc8r,https://da.gd/eiBP1
