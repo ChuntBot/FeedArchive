@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7ppg-37fh-vcr6] Milvus: Unauthenticated Access to Restful API on Metrics Port (9091) Leads to Critical System Compromise,https://github.com/advisories/GHSA-7ppg-37fh-vcr6,https://da.gd/WhDShd
+GithubAdvisories,[GHSA-c244-p6m5-vqj6] Apache Shiro has an Authentication Bypass,https://github.com/advisories/GHSA-c244-p6m5-vqj6,https://da.gd/ogCZSG
+GithubAdvisories,[GHSA-6fgp-m6q4-j3q5] MCP Run Python Deno Sandbox Misconfiguration Allows SSRF Attacks via Localhost Access,https://github.com/advisories/GHSA-6fgp-m6q4-j3q5,https://da.gd/j2Pv
+GithubAdvisories,[GHSA-x9vf-53q3-cvx6] CASL Ability is Vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-x9vf-53q3-cvx6,https://da.gd/ELwnrV
+GithubAdvisories,[GHSA-gv3v-2cpp-3pmq] Keycloak logs sensitive headers,https://github.com/advisories/GHSA-gv3v-2cpp-3pmq,https://da.gd/zNj5Eh
