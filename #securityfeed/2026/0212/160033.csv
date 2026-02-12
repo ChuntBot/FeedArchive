@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-74rh-c5rh-88vg] XWiki vulnerable to click-jacking through CSS injection in comments,https://github.com/advisories/GHSA-74rh-c5rh-88vg,https://da.gd/iAFyo
+GithubAdvisories,[GHSA-89p3-4642-cr2w] Traefik: TCP readTimeout bypass via STARTTLS on Postgres,https://github.com/advisories/GHSA-89p3-4642-cr2w,https://da.gd/IQlsI
+GithubAdvisories,[GHSA-m2ch-x2q7-2284] Mattermost Server allows an attacker to specify a full pathname of a log file,https://github.com/advisories/GHSA-m2ch-x2q7-2284,https://da.gd/KZXLmC
+GithubAdvisories,[GHSA-87r5-mp6g-5w5j] jsonpath has Arbitrary Code Injection via Unsafe Evaluation of JSON Path Expressions,https://github.com/advisories/GHSA-87r5-mp6g-5w5j,https://da.gd/AZbzJg
+GithubAdvisories,[GHSA-g966-83w7-6w38] FrankenPHP's unicode case-folding length expansion causes incorrect split_path index (SCRIPT_NAME/PATH_INFO confusion) in FrankenPHP,https://github.com/advisories/GHSA-g966-83w7-6w38,https://da.gd/G2sIA
