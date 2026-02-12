@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p773-8mf4-rjm5] @farmfe/core is Missing Origin Validation in WebSocket,https://github.com/advisories/GHSA-p773-8mf4-rjm5,https://da.gd/FcvHK
+GithubAdvisories,[GHSA-3c9m-gq32-g4jx] NeuVector scanner insecurely handles passwords as command arguments,https://github.com/advisories/GHSA-3c9m-gq32-g4jx,https://da.gd/M0lE6I
+GithubAdvisories,[GHSA-jr94-gj3h-c8rf] Directus Vulnerable to User Enumeration via Password Reset Timing Attack,https://github.com/advisories/GHSA-jr94-gj3h-c8rf,https://da.gd/fR0jg
+GithubAdvisories,"[GHSA-435g-fcv3-8j26] Bug-Fixes in `libcrux-ecdh`, `libcrux-ed25519`, `libcrux-psq`",https://github.com/advisories/GHSA-435g-fcv3-8j26,https://da.gd/pxVmh
+GithubAdvisories,[GHSA-r33w-fg8j-9c94] MagicLink: Insecure Deserialization of MagicLink Actions Leads to Remote Code Execution,https://github.com/advisories/GHSA-r33w-fg8j-9c94,https://da.gd/7sW7OJ
+GithubAdvisories,[GHSA-xx7m-69ff-9crp] SurrealDB vulnerable to Denial of Service through scripting function memory edge case,https://github.com/advisories/GHSA-xx7m-69ff-9crp,https://da.gd/uAfMz
+GithubAdvisories,[GHSA-vgr2-r5hm-f6gf] `sha-rst` was removed from crates.io for malicious code,https://github.com/advisories/GHSA-vgr2-r5hm-f6gf,https://da.gd/htjcAs
+GithubAdvisories,[GHSA-6v2j-vr4h-f632] `finch_cli_rust` was removed from crates.io for malicious code,https://github.com/advisories/GHSA-6v2j-vr4h-f632,https://da.gd/i2D2CF
+GithubAdvisories,[GHSA-xp79-9mxw-878j] `finch-rst` was removed from crates.io for malicious code,https://github.com/advisories/GHSA-xp79-9mxw-878j,https://da.gd/JSs2sq
+GithubAdvisories,[GHSA-gfmx-qqqh-f38q] Keras vulnerable to arbitrary file read in the model loading mechanism (HDF5 integration),https://github.com/advisories/GHSA-gfmx-qqqh-f38q,https://da.gd/AebSSP
+GithubAdvisories,[GHSA-wj8p-jj64-h7ff] Arbitrary WASM Code Execution via AnnotationOverrideFlight Injection in Yoke ATC,https://github.com/advisories/GHSA-wj8p-jj64-h7ff,https://da.gd/NzJWVE
+GithubAdvisories,[GHSA-965m-v4cc-6334] Unauthenticated Admission Webhook Endpoints in Yoke ATC,https://github.com/advisories/GHSA-965m-v4cc-6334,https://da.gd/Y3dGR
+GithubAdvisories,[GHSA-w4gw-w5jq-g9jh] golang.org/x/net/html has a Quadratic Parsing Complexity issue,https://github.com/advisories/GHSA-w4gw-w5jq-g9jh,https://da.gd/BYhKlR
