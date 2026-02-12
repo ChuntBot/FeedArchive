@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+LinuxSecurity,SUSE Linux 15 SP7 munge Important Buffer Overflow Vulnerability 2026-0451-1,https://linuxsecurity.com/advisories/suse/munge-suse-2026-0451-1-2026-25506,https://da.gd/dL8HSh
+LinuxSecurity,SUSE Linux Micro 5.4 rust-keylime Important Stack Exhaustion 2026-0452-1,https://linuxsecurity.com/advisories/suse/rust-keylime-suse-2026-0452-1-2026-25727,https://da.gd/KffNU
+LinuxSecurity,SUSE Linux Core Infrastructure Alert Keylime Major Resource Exhaustion Risk,https://linuxsecurity.com/advisories/suse/rust-keylime-suse-2026-0453-1-2026-25727,https://da.gd/3wOH1
