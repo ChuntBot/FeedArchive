@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r3xh-3r3w-47gp] FrankenPHP leaks session data between requests in worker mode,https://github.com/advisories/GHSA-r3xh-3r3w-47gp,https://da.gd/WE50BX
+GithubAdvisories,[GHSA-2f2x-8mwp-p2gc] webtransport-go: Memory Exhaustion Attack due to Missing Cleanup of Streams Map,https://github.com/advisories/GHSA-2f2x-8mwp-p2gc,https://da.gd/MTC8i
+GithubAdvisories,[GHSA-px4r-g4p3-hhqv] webtransport-go: CloseWithError can block indefinitely,https://github.com/advisories/GHSA-px4r-g4p3-hhqv,https://da.gd/kPpXD
+GithubAdvisories,[GHSA-g6x7-jq8p-6q9q] webtransport-go: Memory Exhaustion Attack due to Missing Length Check in WT_CLOSE_SESSION Capsule,https://github.com/advisories/GHSA-g6x7-jq8p-6q9q,https://da.gd/Epa3d
