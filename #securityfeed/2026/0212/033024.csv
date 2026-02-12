@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w8v5-vhqr-4h9v] DiskCache has unsafe pickle deserialization,https://github.com/advisories/GHSA-w8v5-vhqr-4h9v,https://da.gd/54bBgF
+GithubAdvisories,[GHSA-pfv4-wmph-5gc6] MCP Run Python has a Sandbox Escape & Server Takeover Vulnerability,https://github.com/advisories/GHSA-pfv4-wmph-5gc6,https://da.gd/u3DL6
