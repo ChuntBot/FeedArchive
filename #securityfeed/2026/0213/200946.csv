@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-g433-pq76-6cmf] Bug fixes in hpke-rs, hpke-rs-rust-crypto",https://github.com/advisories/GHSA-g433-pq76-6cmf,https://da.gd/gXLsSe
+GithubAdvisories,[GHSA-cvhv-6xm6-c3v4] Cloudflare Agents is Vulnerable to Reflected Cross-Site Scripting in the AI Playground's OAuth callback handler,https://github.com/advisories/GHSA-cvhv-6xm6-c3v4,https://da.gd/vkzOgB
+GithubAdvisories,[GHSA-38c4-r59v-3vqw] markdown-it is has a Regular Expression Denial of Service (ReDoS),https://github.com/advisories/GHSA-38c4-r59v-3vqw,https://da.gd/AvqLYK
