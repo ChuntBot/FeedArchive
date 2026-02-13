@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-27jp-wm6q-gp25] sqlparse: formatting list of tuples leads to denial of service,https://github.com/advisories/GHSA-27jp-wm6q-gp25,https://da.gd/es5VT
+GithubAdvisories,[GHSA-699m-4v95-rmpm] lakeFS vulnerable to path traversal in local block adapter allow cross-namespace and sibling directory access,https://github.com/advisories/GHSA-699m-4v95-rmpm,https://da.gd/WtQNZC
