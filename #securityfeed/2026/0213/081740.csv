@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 43 libssh Faces Severe DoS Buffer Underflow Vulnerabilities,https://linuxsecurity.com/advisories/fedora/libssh-fedora-43-2026-53b80475c3-2025-14821,https://da.gd/pbP06
+LinuxSecurity,Ubuntu 25.10 nginx Critical Insertion Security Flaw USN-8038-1,https://linuxsecurity.com/advisories/ubuntu/nginx-8038-1-2026-1642,https://da.gd/hkJD9F
+LinuxSecurity,Ubuntu 25.10 libpng Critical DoS Crash Vulnerability USN-8039-1,https://linuxsecurity.com/advisories/ubuntu/libpng-ubuntu-8039-1-2026-25646,https://da.gd/RNMQi
+LinuxSecurity,Ubuntu 25.10 HAProxy Security Low DoS Failure Vulnerability USN-8037-2,https://linuxsecurity.com/advisories/ubuntu/haproxy-ubuntu-8036-1-2026-26081,https://da.gd/J55LC3
+LinuxSecurity,Ubuntu 22.04 LTS MUNGE Critical Buffer Overflow Threat CVE-2026-25506,https://linuxsecurity.com/advisories/ubuntu/munge-ubuntu-8040-1-2026-25506,https://da.gd/nSorhl
