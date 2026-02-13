@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cgmm-x5ww-q5cr] beautiful-mermaid contains an SVG attribute injection issue that can lead to cross-site scripting (XSS),https://github.com/advisories/GHSA-cgmm-x5ww-q5cr,https://da.gd/7aJiNz
+GithubAdvisories,[GHSA-w5cr-2qhr-jqc5] Cloudflare Agents has a Reflected Cross-Site Scripting (XSS) vulnerability in AI Playground site,https://github.com/advisories/GHSA-w5cr-2qhr-jqc5,https://da.gd/0S2X
+GithubAdvisories,[GHSA-p5vf-5754-x7p3] `polymarket-client-sdks` was removed from crates.io for malicious code,https://github.com/advisories/GHSA-p5vf-5754-x7p3,https://da.gd/QQErk
+GithubAdvisories,[GHSA-9pj7-jh2r-87g8] Mattermost doesn't validate user permissions when creating Jira issues from Mattermost posts,https://github.com/advisories/GHSA-9pj7-jh2r-87g8,https://da.gd/rRrhga
+GithubAdvisories,[GHSA-rp46-r563-jrc7] Apache Avro Java SDK is Vulnerable to Code Injection,https://github.com/advisories/GHSA-rp46-r563-jrc7,https://da.gd/Dnowl
+GithubAdvisories,[GHSA-2xf7-hmf6-p64j] Mattermost doesn't properly validate channel membership at the time of data retrieval,https://github.com/advisories/GHSA-2xf7-hmf6-p64j,https://da.gd/svB12u
+GithubAdvisories,[GHSA-c7ph-f7jm-xv4w] rPGP's integrity protection of encrypted data was not always checked,https://github.com/advisories/GHSA-c7ph-f7jm-xv4w,https://da.gd/xzKDqm
+GithubAdvisories,[GHSA-8h58-w33p-wq3g] rPGP affected by crash in message handling for deeply nested messages,https://github.com/advisories/GHSA-8h58-w33p-wq3g,https://da.gd/fX0VW
+GithubAdvisories,[GHSA-7587-4wv6-m68m] rPGP vulnerable to parser crash on crafted RSA secret key packets through CVE-2026-21895,https://github.com/advisories/GHSA-7587-4wv6-m68m,https://da.gd/5gqY7Q
+GithubAdvisories,[GHSA-8wc6-vgrq-x6cf] Child processes spawned by Renovate incorrectly have full access to environment variables,https://github.com/advisories/GHSA-8wc6-vgrq-x6cf,https://da.gd/2uZ7dK
+GithubAdvisories,[GHSA-qhp6-6p8p-2rqh] Wildfly Elytron integration susceptible to brute force attacks via CLI,https://github.com/advisories/GHSA-qhp6-6p8p-2rqh,https://da.gd/Jlse9
