@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 23 mingw-lz4 Important Memory Leak Remediation 2023-2398efc5a7,https://linuxsecurity.com/advisories/fedora/mingw-expat-2026-298986b2a3-2026-24515,https://da.gd/syRDiM
+LinuxSecurity,Fedora 42 nginx-mod-naxsi Moderate DoS Threat Fix FEDORA-2026-0b8cc86e5b,https://linuxsecurity.com/advisories/fedora/nginx-mod-naxsi-fedora-42-2026-2026-1642,https://da.gd/4qPcI5
+LinuxSecurity,Fedora 42 nginx-mod-headers-more Critical Data Injection Flaw CVE-2026-1642,https://linuxsecurity.com/advisories/fedora/nginx-mod-headers-more-fedora-42-2026-1642,https://da.gd/nOYEh
+LinuxSecurity,Fedora 42 nginx-mod-vts Critical Data Injection Fix CVE-2026-1642,https://linuxsecurity.com/advisories/fedora/nginx-mod-vts-fedora-2026-0b8cc86e5b-2026-1642,https://da.gd/laeXe
+LinuxSecurity,Fedora 42 nginx-mod-brotli Critical Data Injection Fix CVE-2026-1642,https://linuxsecurity.com/advisories/fedora/nginx-mod-brotli-fedora-2026-0b8cc86e5b-2026-1642,https://da.gd/Q1rn13
+LinuxSecurity,Fedora 42 nginx-mod-fancyindex Update CVE-2026-1642 TLS Attack Fix,https://linuxsecurity.com/advisories/fedora/nginx-mod-fancyindex-fedora-42-2026-1642,https://da.gd/8upJ4
