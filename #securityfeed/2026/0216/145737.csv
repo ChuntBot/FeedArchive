@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,SUSE Linux 15 SP4 Kernel Protection Update covering CVE-2023-23456,https://linuxsecurity.com/advisories/suse/kernel-suse-2026-0515-1-2023-53321,https://da.gd/llICth
+LinuxSecurity,SUSE Linux 16.0 python-maturin Moderate Log Pollution Mitigation Issue,https://linuxsecurity.com/advisories/suse/python-maturin-suse-2026-20335-1-2025-58160,https://da.gd/nCSMH7
+LinuxSecurity,SUSE 2026 Cockpit Subscriptions Key Update on CVE-2025-13465 DoS Advisory,https://linuxsecurity.com/advisories/suse/cockpit-subscriptions-suse-2026-20336-1-2025-13465,https://da.gd/6GvoL
+LinuxSecurity,SUSE 16.0 Cockpit Important Prototype Pollution Advisory 2026-20337-1,https://linuxsecurity.com/advisories/suse/cockpit-suse-2026-20337-1-2025-13465,https://da.gd/n7l0
+LinuxSecurity,SUSE Cockpit Packages Important Prototype Pollution Vuln 2026-20338-1,https://linuxsecurity.com/advisories/suse/cockpit-packages-suse-2026-20338-1-2025-13465,https://da.gd/lXMbO
+LinuxSecurity,SUSE 16.0 libbrowser Major Web Insertion Buffer Overflow 2027-20340-4,https://linuxsecurity.com/advisories/suse/libsoup-suse-2026-20339-1-2026-1536,https://da.gd/x0mNG
