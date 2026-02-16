@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42 vim Security Update CVE-2026-25749 Prevents Code Execution,https://linuxsecurity.com/advisories/fedora/vim-fedora-42-2026-f4563b100f-2026-25749,https://da.gd/r9nK
+LinuxSecurity,Fedora 42 p11-kit Important NULL Dereference Threat CVE-2026-2100,https://linuxsecurity.com/advisories/fedora/p11-kit-fedora-2026-7982f70f74-2026-2100,https://da.gd/voecQ
+LinuxSecurity,Fedora 42 gnutls Critical Denial of Service CVE-2026-1584 Advisory,https://linuxsecurity.com/advisories/fedora/gnutls-fedora-42-2026-2b6035ee2b-2026-1584,https://da.gd/ZJgK
