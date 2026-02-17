@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8mh7-phf8-xgfm] OpenClaw skills.status could leak secrets to operator.read clients,https://github.com/advisories/GHSA-8mh7-phf8-xgfm,https://da.gd/MayPWI
+GithubAdvisories,[GHSA-h3f9-mjwj-w476] OpenClaw Node host system.run rawCommand/command mismatch can bypass allowlist/approvals,https://github.com/advisories/GHSA-h3f9-mjwj-w476,https://da.gd/O7Hpf
+GithubAdvisories,[GHSA-jrvc-8ff5-2f9f] OpenClaw has a SSRF guard bypass via full-form IPv4-mapped IPv6 (loopback / metadata reachable),https://github.com/advisories/GHSA-jrvc-8ff5-2f9f,https://da.gd/bvy4M
+GithubAdvisories,[GHSA-g6q9-8fvw-f7rf] OpenClaw Gateway tool allowed unrestricted gatewayUrl override,https://github.com/advisories/GHSA-g6q9-8fvw-f7rf,https://da.gd/63mvFQ
+GithubAdvisories,[GHSA-8jpq-5h99-ff5r] OpenClaw has a local file disclosure via sendMediaFeishu in Feishu extension,https://github.com/advisories/GHSA-8jpq-5h99-ff5r,https://da.gd/OaEjy
+GithubAdvisories,[GHSA-7q2j-c4q5-rm27] OpenClaw macOS deep link confirmation truncation can conceal executed agent message,https://github.com/advisories/GHSA-7q2j-c4q5-rm27,https://da.gd/YpJK
+GithubAdvisories,[GHSA-4hg8-92x6-h2f3] OpenClaw is Missing Webhook Authentication in Telnyx Provider Allows Unauthenticated Requests,https://github.com/advisories/GHSA-4hg8-92x6-h2f3,https://da.gd/7CKKO
+GithubAdvisories,[GHSA-236c-vhj4-gfxg] Duplicate Advisory: Embedded malware in ua-parser-js,https://github.com/advisories/GHSA-236c-vhj4-gfxg,https://da.gd/e3sNKr
+GithubAdvisories,[GHSA-qrq5-wjgg-rvqw] OpenClaw has a Path Traversal in Plugin Installation,https://github.com/advisories/GHSA-qrq5-wjgg-rvqw,https://da.gd/YH35c9
+GithubAdvisories,[GHSA-mqpw-46fh-299h] OpenClaw authorization bypass: operator.write can resolve exec approvals via chat.send -> /approve,https://github.com/advisories/GHSA-mqpw-46fh-299h,https://da.gd/H7Bsu
+GithubAdvisories,[GHSA-7vwx-582j-j332] OpenClaw MS Teams inbound attachment downloader leaks bearer tokens to allowlisted suffix domains,https://github.com/advisories/GHSA-7vwx-582j-j332,https://da.gd/wXjxy
+GithubAdvisories,"[GHSA-33rq-m5x2-fvgf] OpenClaw Twitch allowFrom is not enforced in optional plugin, unauthorized chat users can trigger agent pipeline",https://github.com/advisories/GHSA-33rq-m5x2-fvgf,https://da.gd/pv5u0
+GithubAdvisories,[GHSA-4rj2-gpmh-qq5x] OpenClaw has an inbound allowlist policy bypass in voice-call extension (empty caller ID + suffix matching),https://github.com/advisories/GHSA-4rj2-gpmh-qq5x,https://da.gd/BktI0
+GithubAdvisories,[GHSA-r5h9-vjqc-hq3r] Nextcloud Talk allowlist bypass via actor.name display name spoofing,https://github.com/advisories/GHSA-r5h9-vjqc-hq3r,https://da.gd/2eEol
+GithubAdvisories,[GHSA-fhvm-j76f-qmjv] OpenClaw has a potential access-group authorization bypass if channel type lookup fails,https://github.com/advisories/GHSA-fhvm-j76f-qmjv,https://da.gd/4Mw1bG
+GithubAdvisories,[GHSA-rmxw-jxxx-4cpc] OpenClaw has a Matrix allowlist bypass via displayName and cross-homeserver localpart matching,https://github.com/advisories/GHSA-rmxw-jxxx-4cpc,https://da.gd/nqtE5
+GithubAdvisories,[GHSA-pchc-86f6-8758] OpenClaw BlueBubbles webhook auth bypass via loopback proxy trust,https://github.com/advisories/GHSA-pchc-86f6-8758,https://da.gd/9PbyV
+GithubAdvisories,[GHSA-3m3q-x3gj-f79x] OpenClaw optional voice-call plugin: webhook verification may be bypassed behind certain proxy configurations,https://github.com/advisories/GHSA-3m3q-x3gj-f79x,https://da.gd/yCvqVl
+GithubAdvisories,[GHSA-g27f-9qjv-22pm] OpenClaw log poisoning (indirect prompt injection) via WebSocket headers,https://github.com/advisories/GHSA-g27f-9qjv-22pm,https://da.gd/vIXZdm
+GithubAdvisories,[GHSA-mv9j-6xhh-g383] OpenClaw's unauthenticated Nostr profile HTTP endpoints allow remote profile/config tampering,https://github.com/advisories/GHSA-mv9j-6xhh-g383,https://da.gd/woiu8
+GithubAdvisories,[GHSA-wfp2-v9c7-fh79] OpenClaw affected by SSRF via attachment/media URL hydration,https://github.com/advisories/GHSA-wfp2-v9c7-fh79,https://da.gd/uARu38
+GithubAdvisories,[GHSA-jmr7-xgp7-cmfj] fast-xml-parser affected by DoS through entity expansion in DOCTYPE (no expansion limit),https://github.com/advisories/GHSA-jmr7-xgp7-cmfj,https://da.gd/pl4Ww
+GithubAdvisories,[GHSA-7v42-g35v-xrch] Improper Digest Verification in httpsig-hyper May Allow Message Integrity Bypass,https://github.com/advisories/GHSA-7v42-g35v-xrch,https://da.gd/hdkxci
+GithubAdvisories,[GHSA-4chv-4c6w-w254] The rs-soroban-sdk #[contractimpl] macro calls inherent function instead of trait function when names collide,https://github.com/advisories/GHSA-4chv-4c6w-w254,https://da.gd/YGf10H
+GithubAdvisories,[GHSA-f5p9-j34q-pwcc] emp3r0r Affected by Concurrent Map Access DoS (panic/crash),https://github.com/advisories/GHSA-f5p9-j34q-pwcc,https://da.gd/xCaVH
