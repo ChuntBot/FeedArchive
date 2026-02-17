@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3hcm-ggvf-rch5] OpenClaw has an exec allowlist bypass via command substitution/backticks inside double quotes,https://github.com/advisories/GHSA-3hcm-ggvf-rch5,https://da.gd/kEgV
+GithubAdvisories,[GHSA-mr32-vwc2-5j6h] OpenClaw's Browser Relay /cdp websocket is missing auth which could allow cross-tab cookie access,https://github.com/advisories/GHSA-mr32-vwc2-5j6h,https://da.gd/anMA
+GithubAdvisories,[GHSA-qj77-c3c8-9c3q] OpenClaw's Windows cmd.exe parsing may bypass exec allowlist/approval gating,https://github.com/advisories/GHSA-qj77-c3c8-9c3q,https://da.gd/8dJKs
+GithubAdvisories,[GHSA-64qx-vpxx-mvqf] OpenClaw has an arbitrary transcript path file write via gateway sessionFile,https://github.com/advisories/GHSA-64qx-vpxx-mvqf,https://da.gd/BvH6yo
+GithubAdvisories,[GHSA-hv93-r4j3-q65f] OpenClaw Hook Session Key Override Enables Targeted Cross-Session Routing,https://github.com/advisories/GHSA-hv93-r4j3-q65f,https://da.gd/ORlx6d
+GithubAdvisories,[GHSA-rfq9-4wcm-64gh] ImapEngine affected by command injection via the ID command parameters,https://github.com/advisories/GHSA-rfq9-4wcm-64gh,https://da.gd/BgPKyR
+GithubAdvisories,[GHSA-2g4f-4pwh-qvx6] ajv has ReDoS when using $data option,https://github.com/advisories/GHSA-2g4f-4pwh-qvx6,https://da.gd/As7FsM
+GithubAdvisories,[GHSA-33fm-6gp7-4p47] Weblate has an argument injection in management console,https://github.com/advisories/GHSA-33fm-6gp7-4p47,https://da.gd/uch0Y
+GithubAdvisories,[GHSA-rv39-79c4-7459] OpenClaw's gateway connect could skip device identity checks when auth.token was present but not yet validated,https://github.com/advisories/GHSA-rv39-79c4-7459,https://da.gd/GEaMOp
