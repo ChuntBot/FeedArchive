@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hr7j-63v7-vj7g] Pterodactyl Panel's SFTP sessions remain active after user account deletion or password change,https://github.com/advisories/GHSA-hr7j-63v7-vj7g,https://da.gd/pDnjKS
+GithubAdvisories,[GHSA-xc7w-v5x6-cc87] OpenClaw has a webhook auth bypass when gateway is behind a reverse proxy (loopback remoteAddress trust),https://github.com/advisories/GHSA-xc7w-v5x6-cc87,https://da.gd/EgKga
+GithubAdvisories,[GHSA-56f2-hvwg-5743] OpenClaw affected by SSRF in Image Tool Remote Fetch,https://github.com/advisories/GHSA-56f2-hvwg-5743,https://da.gd/3fqCO
+GithubAdvisories,[GHSA-qw99-grcx-4pvm] OpenClaw's Chrome extension relay binds publicly due to wildcard treated as loopback,https://github.com/advisories/GHSA-qw99-grcx-4pvm,https://da.gd/wX1Fmm
