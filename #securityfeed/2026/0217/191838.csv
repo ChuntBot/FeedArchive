@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ppfx-73j5-fhxc] Skill-scanner Unsecured Network Binding Vulnerability,https://github.com/advisories/GHSA-ppfx-73j5-fhxc,https://da.gd/hnULt
+GithubAdvisories,[GHSA-g7vw-f8p5-c728] Pterodactyl Panel Allows Cross-Node Server Configuration Disclosure via Remote API Missing Authorization,https://github.com/advisories/GHSA-g7vw-f8p5-c728,https://da.gd/YvVNzC
+GithubAdvisories,[GHSA-jxc4-54g3-j7vp] Indico Affected by Cross-Site-Scripting via material uploads,https://github.com/advisories/GHSA-jxc4-54g3-j7vp,https://da.gd/cXe54h
+GithubAdvisories,[GHSA-pgvm-wxw2-hrv9] Echo has a Windows path traversal via backslash in middleware.Static default filesystem,https://github.com/advisories/GHSA-pgvm-wxw2-hrv9,https://da.gd/Auqw0d
+GithubAdvisories,[GHSA-f47c-3c5w-v7p4] Indico has Server-Side Request Forgery (SSRF) in multiple places,https://github.com/advisories/GHSA-f47c-3c5w-v7p4,https://da.gd/PqWDd
