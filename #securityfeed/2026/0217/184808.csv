@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-whrj-4476-wvmp] Stored XSS in Rack::Directory via javascript: filenames rendered into anchor href,https://github.com/advisories/GHSA-whrj-4476-wvmp,https://da.gd/rt1cK
+GithubAdvisories,[GHSA-mp5h-m6qj-6292] OpenClaw has a Telegram webhook request forgery (missing `channels.telegram.webhookSecret`) → auth bypass,https://github.com/advisories/GHSA-mp5h-m6qj-6292,https://da.gd/tGdLS
+GithubAdvisories,[GHSA-fc3h-92p8-h36f] Unauthenticated File Upload in Gogs,https://github.com/advisories/GHSA-fc3h-92p8-h36f,https://da.gd/FzPDe
+GithubAdvisories,[GHSA-2c6v-8r3v-gh6p] Gogs has a Protected Branch Deletion Bypass in Web Interface,https://github.com/advisories/GHSA-2c6v-8r3v-gh6p,https://da.gd/SbWDOc
+GithubAdvisories,[GHSA-cv22-72px-f4gh] Gogs has an Authorization Bypass Allows Cross-Repository Label Modification in Gogs,https://github.com/advisories/GHSA-cv22-72px-f4gh,https://da.gd/vW31D
+GithubAdvisories,[GHSA-jj5m-h57j-5gv7] Gogs Allows Cross-Repository Comment Deletion via DeleteComment,https://github.com/advisories/GHSA-jj5m-h57j-5gv7,https://da.gd/1IwDJl
+GithubAdvisories,[GHSA-782p-5fr5-7fj8] OpenClaw Affected by Remote Code Execution via System Prompt Injection in Slack Channel Descriptions,https://github.com/advisories/GHSA-782p-5fr5-7fj8,https://da.gd/QYqxdg
