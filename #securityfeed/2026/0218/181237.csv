@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6xw9-2p64-7622] MindsDB affected by a SSRF vulnerability,https://github.com/advisories/GHSA-6xw9-2p64-7622,https://da.gd/zKs8sJ
+GithubAdvisories,[GHSA-97f8-7cmv-76j2] Picklescan (scan_pytorch) Bypass via dynamic eval MAGIC_NUMBER,https://github.com/advisories/GHSA-97f8-7cmv-76j2,https://da.gd/sf868
+GithubAdvisories,[GHSA-h9g4-589h-68xv] OpenClaw has an authentication bypass in sandbox browser bridge server,https://github.com/advisories/GHSA-h9g4-589h-68xv,https://da.gd/FYgJ9k
+GithubAdvisories,[GHSA-x22m-j5qq-j49m] OpenClaw has two SSRF via sendMediaFeishu and markdown image fetching in Feishu extension,https://github.com/advisories/GHSA-x22m-j5qq-j49m,https://da.gd/uA2LrH
+GithubAdvisories,[GHSA-rwj8-p9vq-25gv] OpenClaw has a LFI in BlueBubbles media path handling,https://github.com/advisories/GHSA-rwj8-p9vq-25gv,https://da.gd/OnYFg
