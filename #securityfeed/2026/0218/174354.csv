@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jfv4-h8mc-jcp8] OpenClaw: Process Safety - Unvalidated PID Kill via SIGKILL in Process Cleanup,https://github.com/advisories/GHSA-jfv4-h8mc-jcp8,https://da.gd/FiOW6a
+GithubAdvisories,[GHSA-7rcp-mxpq-72pj] OpenClaw Chutes manual OAuth state validation bypass can cause credential substitution,https://github.com/advisories/GHSA-7rcp-mxpq-72pj,https://da.gd/x5dY
+GithubAdvisories,[GHSA-4564-pvr2-qq4h] OpenClaw: Prevent shell injection in macOS keychain credential write,https://github.com/advisories/GHSA-4564-pvr2-qq4h,https://da.gd/wLGn8P
+GithubAdvisories,[GHSA-gq9c-wg68-gwj2] OpenClaw has a path traversal in browser trace/download output paths may allow arbitrary file writes,https://github.com/advisories/GHSA-gq9c-wg68-gwj2,https://da.gd/bo8w1R
+GithubAdvisories,[GHSA-xwjm-j929-xq7c] OpenClaw has a Path Traversal in Browser Download Functionality,https://github.com/advisories/GHSA-xwjm-j929-xq7c,https://da.gd/CUJ73
