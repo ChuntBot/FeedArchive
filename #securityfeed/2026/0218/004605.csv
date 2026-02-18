@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g34w-4xqq-h79m] OpenClaw iMessage group allowlist authorization inherited DM pairing-store identities,https://github.com/advisories/GHSA-g34w-4xqq-h79m,https://da.gd/TBKZ5E
+GithubAdvisories,[GHSA-pv58-549p-qh99] OpenClaw allows unauthenticated discovery TXT records could steer routing and TLS pinning,https://github.com/advisories/GHSA-pv58-549p-qh99,https://da.gd/ZZ5i4q
