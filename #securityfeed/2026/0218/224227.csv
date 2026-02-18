@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9mvc-8737-8j8h] pypdf possibly has long runtimes for malformed FlateDecode streams,https://github.com/advisories/GHSA-9mvc-8737-8j8h,https://da.gd/9dO5O
+GithubAdvisories,[GHSA-wgvp-vg3v-2xq3] pypdf has possible long runtimes/large memory usage for large /ToUnicode streams,https://github.com/advisories/GHSA-wgvp-vg3v-2xq3,https://da.gd/9tdMMN
+GithubAdvisories,[GHSA-996q-pr4m-cvgq] pypdf has a possible infinite loop when processing TreeObject,https://github.com/advisories/GHSA-996q-pr4m-cvgq,https://da.gd/LROhP
+GithubAdvisories,[GHSA-5mx2-w598-339m] RediSearch Query Injection in @langchain/langgraph-checkpoint-redis,https://github.com/advisories/GHSA-5mx2-w598-339m,https://da.gd/oOy1Q
+GithubAdvisories,[GHSA-c5w7-m8wf-xc77] Apache NiFi: Missing Authorization of Restricted Permissions for Component Updates,https://github.com/advisories/GHSA-c5w7-m8wf-xc77,https://da.gd/pBPVWq
+GithubAdvisories,[GHSA-3ppc-4f35-3m26] minimatch has a ReDoS via repeated wildcards with non-matching literal in pattern,https://github.com/advisories/GHSA-3ppc-4f35-3m26,https://da.gd/dfmSf
+GithubAdvisories,[GHSA-fw7p-63qq-7hpr] filippo.io/edwards25519 MultiScalarMult produces invalid results or undefined behavior if receiver is not the identity,https://github.com/advisories/GHSA-fw7p-63qq-7hpr,https://da.gd/OCajP
+GithubAdvisories,[GHSA-5vv4-hvf7-2h46] Command Injection via Unsanitized `locate` Output in `versions()` — systeminformation,https://github.com/advisories/GHSA-5vv4-hvf7-2h46,https://da.gd/8JqU6
+GithubAdvisories,[GHSA-m6j8-rg6r-7mv8] Go Ethereum Improperly Validates the ECIES Public Key in RLPx Handshake,https://github.com/advisories/GHSA-m6j8-rg6r-7mv8,https://da.gd/knpO
+GithubAdvisories,[GHSA-2gjw-fg97-vg3r] Go Ethereum affected by DoS via malicious p2p message,https://github.com/advisories/GHSA-2gjw-fg97-vg3r,https://da.gd/CRH8RR
+GithubAdvisories,[GHSA-689v-6xwf-5jf3] Go Ethereum affected by DoS via malicious p2p message,https://github.com/advisories/GHSA-689v-6xwf-5jf3,https://da.gd/IQNvK0
+GithubAdvisories,[GHSA-rrxv-pmq9-x67r] uTLS has a fingerprint vulnerability from missing padding extension for Chrome 120,https://github.com/advisories/GHSA-rrxv-pmq9-x67r,https://da.gd/B2O35u
+GithubAdvisories,[GHSA-7m29-f4hw-g2vx] uTLS has a fingerprint vulnerability from GREASE ECH mismatch for Chrome parrots,https://github.com/advisories/GHSA-7m29-f4hw-g2vx,https://da.gd/C7LxPv
+GithubAdvisories,[GHSA-79q9-wc6p-cf92] LibreNMS has a Time-Based Blind SQL Injection in address-search.inc.php,https://github.com/advisories/GHSA-79q9-wc6p-cf92,https://da.gd/Y20va7
+GithubAdvisories,[GHSA-6xmx-xr9p-58p7] LibreNMS has a Stored XSS in Alert Rule,https://github.com/advisories/GHSA-6xmx-xr9p-58p7,https://da.gd/OQzqa
+GithubAdvisories,[GHSA-h3rv-q4rq-pqcv] LibreNMS: SQL Injection in ajax_table.php spreads through a covert data stream,https://github.com/advisories/GHSA-h3rv-q4rq-pqcv,https://da.gd/w6z6fW
