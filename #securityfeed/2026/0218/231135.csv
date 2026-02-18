@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hfvx-25r5-qc3w] Fabric.js Affected by Stored XSS via SVG Export,https://github.com/advisories/GHSA-hfvx-25r5-qc3w,https://da.gd/ehyE5a
+GithubAdvisories,[GHSA-37gc-85xm-2ww6] OpenClaw affected by Stored XSS in Control UI via unsanitized assistant name/avatar in inline script injection,https://github.com/advisories/GHSA-37gc-85xm-2ww6,https://da.gd/XvX9FS
+GithubAdvisories,[GHSA-h7f7-89mm-pqh6] OpenClaw hardened the skill download target directory validation,https://github.com/advisories/GHSA-h7f7-89mm-pqh6,https://da.gd/ZUfPfD
+GithubAdvisories,[GHSA-xxvh-5hwj-42pp] OpenClaw's sandbox config hash sorted primitive arrays and suppressed needed container recreation,https://github.com/advisories/GHSA-xxvh-5hwj-42pp,https://da.gd/Jg1kK
+GithubAdvisories,[GHSA-6hf3-mhgc-cm65] OpenClaw session tool visibility hardening and Telegram webhook secret fallback,https://github.com/advisories/GHSA-6hf3-mhgc-cm65,https://da.gd/F61oy
+GithubAdvisories,[GHSA-chf7-jq6g-qrwv] OpenClaw: Telegram bot token exposure via logs,https://github.com/advisories/GHSA-chf7-jq6g-qrwv,https://da.gd/Yg3K
+GithubAdvisories,[GHSA-w235-x559-36mg] OpenClaw: Docker container escape via unvalidated bind mount config injection,https://github.com/advisories/GHSA-w235-x559-36mg,https://da.gd/vy9UG3
+GithubAdvisories,[GHSA-2qj5-gwg2-xwc4] OpenClaw: Unsanitized CWD path injection into LLM prompts,https://github.com/advisories/GHSA-2qj5-gwg2-xwc4,https://da.gd/lFHt21
+GithubAdvisories,[GHSA-3m4q-jmj6-r34q] Keras has a Local File Disclosure via HDF5 External Storage During Keras Weight Loading,https://github.com/advisories/GHSA-3m4q-jmj6-r34q,https://da.gd/B6aP
