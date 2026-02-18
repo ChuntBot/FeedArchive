@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fqx6-693c-f55g] LibreNMS has a Stored XSS in Custom OID - unit parameter missing strip_tags(),https://github.com/advisories/GHSA-fqx6-693c-f55g,https://da.gd/yeCGb
+GithubAdvisories,[GHSA-93fx-g747-695x] LibreNMS /port-groups name Stored Cross-Site Scripting,https://github.com/advisories/GHSA-93fx-g747-695x,https://da.gd/UVZJc
+GithubAdvisories,[GHSA-5pqf-54qp-32wx] LibreNMS /device-groups name Stored Cross-Site Scripting,https://github.com/advisories/GHSA-5pqf-54qp-32wx,https://da.gd/NP22z
+GithubAdvisories,[GHSA-gqx7-99jw-6fpr] LibreNMS affected by reflected xss via email field,https://github.com/advisories/GHSA-gqx7-99jw-6fpr,https://da.gd/ko4lg
+GithubAdvisories,[GHSA-wx95-c6cv-8532] Nokogiri does not check the return value from xmlC14NExecute,https://github.com/advisories/GHSA-wx95-c6cv-8532,https://da.gd/7Fvk
+GithubAdvisories,[GHSA-9c88-49p5-5ggf] Systeminformation has a Command Injection via unsanitized interface parameter in wifi.js retry path,https://github.com/advisories/GHSA-9c88-49p5-5ggf,https://da.gd/ZZa9j
+GithubAdvisories,[GHSA-w52v-v783-gw97] Ghost has a SQL injection in Content API,https://github.com/advisories/GHSA-w52v-v783-gw97,https://da.gd/YIhXG
+GithubAdvisories,[GHSA-w7h5-55jg-cq2f] Improper Control of Generation of Code ('Code Injection') in @tygo-van-den-hurk/slyde,https://github.com/advisories/GHSA-w7h5-55jg-cq2f,https://da.gd/t2Fzlb
+GithubAdvisories,[GHSA-r8p8-qw9w-j9qv] pretix unsafely evaluates variables in emails,https://github.com/advisories/GHSA-r8p8-qw9w-j9qv,https://da.gd/M3NVt0
