@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v6c6-vqqg-w888] OpenClaw affected by potential code execution via unsafe hook module path handling in Gateway,https://github.com/advisories/GHSA-v6c6-vqqg-w888,https://da.gd/WnPClw
+GithubAdvisories,[GHSA-5xfq-5mr7-426q] OpenClaw's unsanitized session ID enables path traversal in transcript file operations,https://github.com/advisories/GHSA-5xfq-5mr7-426q,https://da.gd/GaNMl
+GithubAdvisories,[GHSA-83g3-92jg-28cx] Arbitrary File Read/Write via Hardlink Target Escape Through Symlink Chain in node-tar Extraction,https://github.com/advisories/GHSA-83g3-92jg-28cx,https://da.gd/vft3ch
+GithubAdvisories,[GHSA-w5c7-9qqw-6645] OpenClaw inter-session prompts could be treated as direct user instructions,https://github.com/advisories/GHSA-w5c7-9qqw-6645,https://da.gd/aAkAn
+GithubAdvisories,[GHSA-wgm6-9rvv-3438] Libredesk has a SSRF Vulnerability in Webhooks,https://github.com/advisories/GHSA-wgm6-9rvv-3438,https://da.gd/l3JLt
+GithubAdvisories,[GHSA-jqpq-mgvm-f9r6] OpenClaw: Command hijacking via unsafe PATH handling (bootstrapping + node-host PATH overrides),https://github.com/advisories/GHSA-jqpq-mgvm-f9r6,https://da.gd/9EPrUr
+GithubAdvisories,[GHSA-rq6g-px6m-c248] OpenClaw Google Chat shared-path webhook target ambiguity allowed cross-account policy-context misrouting,https://github.com/advisories/GHSA-rq6g-px6m-c248,https://da.gd/rqqmw6
+GithubAdvisories,[GHSA-pg2v-8xwh-qhcc] OpenClaw affected by SSRF in optional Tlon (Urbit) extension authentication,https://github.com/advisories/GHSA-pg2v-8xwh-qhcc,https://da.gd/vclweC
+GithubAdvisories,[GHSA-2x45-7fc3-mxwq] php-jwt contains weak encryption,https://github.com/advisories/GHSA-2x45-7fc3-mxwq,https://da.gd/Pq8s3
+GithubAdvisories,[GHSA-c37p-4qqg-3p76] OpenClaw Twilio voice-call webhook auth bypass when ngrok loopback compatibility is enabled,https://github.com/advisories/GHSA-c37p-4qqg-3p76,https://da.gd/si3hbL
+GithubAdvisories,[GHSA-mj5r-hh7j-4gxf] OpenClaw Telegram allowlist authorization accepted mutable usernames,https://github.com/advisories/GHSA-mj5r-hh7j-4gxf,https://da.gd/1So5i
+GithubAdvisories,[GHSA-3fqr-4cg8-h96q] OpenClaw affected by cross-site request forgery (CSRF) through loopback browser mutation endpoints,https://github.com/advisories/GHSA-3fqr-4cg8-h96q,https://da.gd/dUAE6
+GithubAdvisories,[GHSA-q447-rj3r-2cgh] OpenClaw affected by denial of service via unbounded webhook request body buffering,https://github.com/advisories/GHSA-q447-rj3r-2cgh,https://da.gd/O7u0W
+GithubAdvisories,[GHSA-h89v-j3x9-8wqj] OpenClaw affected by denial of service through unguarded archive extraction allowing high expansion/resource abuse (ZIP/TAR),https://github.com/advisories/GHSA-h89v-j3x9-8wqj,https://da.gd/GFdGD
+GithubAdvisories,[GHSA-w2cg-vxx6-5xjg] OpenClaw: denial of service through large base64 media files allocating large buffers before limit checks,https://github.com/advisories/GHSA-w2cg-vxx6-5xjg,https://da.gd/BtT49R
+GithubAdvisories,[GHSA-j27p-hq53-9wgc] OpenClaw affected by denial of service via unbounded URL-backed media fetch,https://github.com/advisories/GHSA-j27p-hq53-9wgc,https://da.gd/ui2uO
+GithubAdvisories,[GHSA-v773-r54f-q32w] OpenClaw Slack: dmPolicy=open allowed any DM sender to run privileged slash commands,https://github.com/advisories/GHSA-v773-r54f-q32w,https://da.gd/rZbVDg
+GithubAdvisories,[GHSA-xvhf-x56f-2hpp] OpenClaw exec approvals: safeBins could bypass stdin-only constraints via shell expansion,https://github.com/advisories/GHSA-xvhf-x56f-2hpp,https://da.gd/gtkez
+GithubAdvisories,[GHSA-m7x8-2w3w-pr42] OpenClaw has a command injection in maintainer clawtributors updater,https://github.com/advisories/GHSA-m7x8-2w3w-pr42,https://da.gd/6slDYn
+GithubAdvisories,[GHSA-cv7m-c9jx-vg7q] OpenClaw has a path traversal in browser upload allows local file read,https://github.com/advisories/GHSA-cv7m-c9jx-vg7q,https://da.gd/7wGB4
