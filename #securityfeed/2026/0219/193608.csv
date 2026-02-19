@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-57cc-2pf4-mhmx] Mattermost fails to properly validate team membership when processing channel mentions,https://github.com/advisories/GHSA-57cc-2pf4-mhmx,https://da.gd/Tqe1Yb
+GithubAdvisories,[GHSA-pp9j-pf5c-659x] Mattermost fails to sanitize sensitive data in WebSocket messages,https://github.com/advisories/GHSA-pp9j-pf5c-659x,https://da.gd/EB6fM
+GithubAdvisories,[GHSA-3c9r-7f29-qp32] Mattermost fails to properly validate login method restrictions,https://github.com/advisories/GHSA-3c9r-7f29-qp32,https://da.gd/ViHMMd
+GithubAdvisories,[GHSA-w65c-fvp5-fvc5] Mattermost Plugin Zoom fail to validate user identity and post ownership in the {{/api/v1/askPMI}} endpoint,https://github.com/advisories/GHSA-w65c-fvp5-fvc5,https://da.gd/r9r7O
+GithubAdvisories,[GHSA-2phx-frhf-xr55] Mattermost Plugin Zoom allows any logged-in user to change Zoom meeting restrictions for arbitrary channels,https://github.com/advisories/GHSA-2phx-frhf-xr55,https://da.gd/whHMt
+GithubAdvisories,[GHSA-xjw9-4gw8-4rqx] Microsoft Semantic Kernel InMemoryVectorStore filter functionality vulnerable to remote code execution,https://github.com/advisories/GHSA-xjw9-4gw8-4rqx,https://da.gd/6a5Oem
+GithubAdvisories,"[GHSA-p5xg-68wr-hm3m] jsPDF has a PDF Injection in AcroForm module allows Arbitrary JavaScript Execution (RadioButton.createOption and ""AS"" property)",https://github.com/advisories/GHSA-p5xg-68wr-hm3m,https://da.gd/LJcxq
+GithubAdvisories,[GHSA-9vjf-qc39-jprp] jsPDF has a PDF Object Injection via Unsanitized Input in addJS Method,https://github.com/advisories/GHSA-9vjf-qc39-jprp,https://da.gd/Sfrb8
