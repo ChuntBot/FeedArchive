@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fh3f-q9qw-93j9] OpenClaw replaced a deprecated sandbox hash algorithm,https://github.com/advisories/GHSA-fh3f-q9qw-93j9,https://da.gd/7eCex
+GithubAdvisories,[GHSA-p536-vvpp-9mc8] OpenClaw has a Web Fetch DoS via unbounded response parsing,https://github.com/advisories/GHSA-p536-vvpp-9mc8,https://da.gd/rZynGf
+GithubAdvisories,[GHSA-cgjg-p2m2-qm4p] Mattermost fails to enforce invite permissions when updating team settings,https://github.com/advisories/GHSA-cgjg-p2m2-qm4p,https://da.gd/YToU4o
+GithubAdvisories,[GHSA-4hfh-fch3-5q7p] Leaf-kit html escaping does not work on characters that are part of extended grapheme cluster,https://github.com/advisories/GHSA-4hfh-fch3-5q7p,https://da.gd/s09zM1
+GithubAdvisories,"[GHSA-5r23-prx4-mqg3] Cilium may not enforce host firewall policies when Native Routing, WireGuard and Node Encryption are enabled",https://github.com/advisories/GHSA-5r23-prx4-mqg3,https://da.gd/pLTw7
