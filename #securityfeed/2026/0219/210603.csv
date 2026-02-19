@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8423-w5wx-h2r6] Pannellum has a XSS vulnerability in hot spot attributes,https://github.com/advisories/GHSA-8423-w5wx-h2r6,https://da.gd/ni3348
+GithubAdvisories,[GHSA-r5fq-947m-xm57] OpenClaw has a path traversal in apply_patch could write/delete files outside the workspace,https://github.com/advisories/GHSA-r5fq-947m-xm57,https://da.gd/JN3oZ9
+GithubAdvisories,[GHSA-68rp-wp8r-4726] Flask session does not add `Vary: Cookie` header when accessed in some ways,https://github.com/advisories/GHSA-68rp-wp8r-4726,https://da.gd/i74Xb
