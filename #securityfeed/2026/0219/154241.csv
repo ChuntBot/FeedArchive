@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wwj6-vghv-5p64] Kata Container to Guest micro VM privilege escalation,https://github.com/advisories/GHSA-wwj6-vghv-5p64,https://da.gd/KrZyT
+GithubAdvisories,[GHSA-67pg-wm7f-q7fj] jsPDF Affected by Client-Side/Server-Side Denial of Service via Malicious GIF Dimensions,https://github.com/advisories/GHSA-67pg-wm7f-q7fj,https://da.gd/VXJDn
+GithubAdvisories,[GHSA-m56q-vw4c-c2cp] Svelte SSR does not validate dynamic element tag names in ``,https://github.com/advisories/GHSA-m56q-vw4c-c2cp,https://da.gd/7n9TeC
+GithubAdvisories,[GHSA-f7gr-6p89-r883] Svelte affected by cross-site scripting via spread attributes in Svelte SSR,https://github.com/advisories/GHSA-f7gr-6p89-r883,https://da.gd/yrZ8qH
+GithubAdvisories,[GHSA-h7h7-mm68-gmrc] Svelte affected by XSS in SSR `` element,https://github.com/advisories/GHSA-h7h7-mm68-gmrc,https://da.gd/Yx3TfV
+GithubAdvisories,[GHSA-9pq4-5hcf-288c] Cache poisoning in @sveltejs/adapter-vercel,https://github.com/advisories/GHSA-9pq4-5hcf-288c,https://da.gd/ThwWF
+GithubAdvisories,[GHSA-3288-p39f-rqpv] Unsoundness in opt-in ARMv8 assembly backend for `keccak`,https://github.com/advisories/GHSA-3288-p39f-rqpv,https://da.gd/p7u2A
+GithubAdvisories,[GHSA-9ppg-jx86-fqw7] Unauthorized npm publish of cline@2.3.0 with modified postinstall script,https://github.com/advisories/GHSA-9ppg-jx86-fqw7,https://da.gd/LUXU
+GithubAdvisories,[GHSA-7g9x-cp9g-92mr] Kargo has an Authorization Bypass Vulnerability in Batch Resource Creation API Endpoints,https://github.com/advisories/GHSA-7g9x-cp9g-92mr,https://da.gd/qbsI8
+GithubAdvisories,[GHSA-5vvm-67pj-72g4] Kargo has Missing Authorization Vulnerabilities in Approval & Promotion REST API Endpoints,https://github.com/advisories/GHSA-5vvm-67pj-72g4,https://da.gd/J5TAR
