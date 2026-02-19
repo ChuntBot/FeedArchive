@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-29vq-49wr-vm6x] Werkzeug safe_join() allows Windows special device names,https://github.com/advisories/GHSA-29vq-49wr-vm6x,https://da.gd/jOmCP6
+GithubAdvisories,[GHSA-9m9c-vpv5-9g85] Feathers exposes internal headers via unencrypted session cookie,https://github.com/advisories/GHSA-9m9c-vpv5-9g85,https://da.gd/mO4M
+GithubAdvisories,[GHSA-mp4x-c34x-wv3x] Feathers has an origin validation bypass via prefix matching,https://github.com/advisories/GHSA-mp4x-c34x-wv3x,https://da.gd/GXbI
+GithubAdvisories,[GHSA-ppf9-4ffw-hh4p] Feathers has an open redirect in OAuth callback enables account takeover,https://github.com/advisories/GHSA-ppf9-4ffw-hh4p,https://da.gd/uiDWsI
+GithubAdvisories,[GHSA-hmh4-3xvx-q5hr] Deno has a Command Injection via Incomplete shell metacharacter blocklist in node:child_process,https://github.com/advisories/GHSA-hmh4-3xvx-q5hr,https://da.gd/ngofIA
+GithubAdvisories,[GHSA-34p4-7w83-35g2] Formwork Improperly Managed Privileges in User creation,https://github.com/advisories/GHSA-34p4-7w83-35g2,https://da.gd/c5jX8y
+GithubAdvisories,[GHSA-r9wp-qq53-qvjx] mingSoft MCMS does not properly restrict file uploads,https://github.com/advisories/GHSA-r9wp-qq53-qvjx,https://da.gd/H9ac3f
+GithubAdvisories,[GHSA-8r7r-f4gm-wcpq] Statamic affected by privilege escalation via stored cross-site scripting,https://github.com/advisories/GHSA-8r7r-f4gm-wcpq,https://da.gd/PF03G
+GithubAdvisories,[GHSA-88qp-p4qg-rqm6] CPU exhaustion in SvelteKit remote form deserialization (experimental only),https://github.com/advisories/GHSA-88qp-p4qg-rqm6,https://da.gd/WpX5Ph
+GithubAdvisories,[GHSA-vrhm-gvg7-fpcf] Memory exhaustion in SvelteKit remote form deserialization (experimental only),https://github.com/advisories/GHSA-vrhm-gvg7-fpcf,https://da.gd/UjAGV9
+GithubAdvisories,[GHSA-33hq-fvwr-56pm] devalue affected by CPU and memory amplification from sparse arrays,https://github.com/advisories/GHSA-33hq-fvwr-56pm,https://da.gd/3yXy
+GithubAdvisories,[GHSA-8qm3-746x-r74r] devalue `uneval`ed code can create objects with polluted prototypes when `eval`ed,https://github.com/advisories/GHSA-8qm3-746x-r74r,https://da.gd/QojwF3
+GithubAdvisories,[GHSA-c87c-78rc-vmv2] D-Tale affected by Remote Code Execution through the /save-column-filter endpoint,https://github.com/advisories/GHSA-c87c-78rc-vmv2,https://da.gd/uY5GUZ
+GithubAdvisories,[GHSA-crpf-4hrx-3jrp] Svelte SSR attribute spreading includes inherited properties from prototype chain,https://github.com/advisories/GHSA-crpf-4hrx-3jrp,https://da.gd/GRgO7
+GithubAdvisories,[GHSA-hmx5-qpq5-p643] Prototype pollution in swiper,https://github.com/advisories/GHSA-hmx5-qpq5-p643,https://da.gd/hHodhZ
+GithubAdvisories,[GHSA-m4f3-qp2w-gwh6] OpenStack Nova calls qemu-img without format restrictions for resize,https://github.com/advisories/GHSA-m4f3-qp2w-gwh6,https://da.gd/D0w3P
+GithubAdvisories,[GHSA-7p94-766c-hgjp] NLTK has a Zip Slip Vulnerability,https://github.com/advisories/GHSA-7p94-766c-hgjp,https://da.gd/DRV6T
+GithubAdvisories,[GHSA-97rm-xj73-33jh] eBay API MCP Server Affected by Environment Variable Injection,https://github.com/advisories/GHSA-97rm-xj73-33jh,https://da.gd/jNlfF
+GithubAdvisories,[GHSA-85h6-5m3v-gx37] Jenkins has a stored XSS vulnerability in node offline cause description,https://github.com/advisories/GHSA-85h6-5m3v-gx37,https://da.gd/U5bV
+GithubAdvisories,[GHSA-wfhp-qgm8-5p5c] Jenkins has a build information disclosure vulnerability through Run Parameter,https://github.com/advisories/GHSA-wfhp-qgm8-5p5c,https://da.gd/HVDswx
+GithubAdvisories,[GHSA-47qc-857f-7w7f] PyO3 has type confusion when accessing data from sublasses of subclasses of native types with `abi3` feature,https://github.com/advisories/GHSA-47qc-857f-7w7f,https://da.gd/qWYCb
+GithubAdvisories,[GHSA-gq3j-xvxp-8hrf] Hono added timing comparison hardening in basicAuth and bearerAuth,https://github.com/advisories/GHSA-gq3j-xvxp-8hrf,https://da.gd/P0wnmC
