@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 22.04 LTS linux-intel-iotg Important Kernel Issues USN-8033-8,https://linuxsecurity.com/advisories/ubuntu/linux-kernel-intel-iotg-2024-53114,https://da.gd/PIC3
+LinuxSecurity,Ubuntu 24.04 LTS Linux-NVIDIA-Lowlatency Low Data Integrity Risk USN-8028-7,https://linuxsecurity.com/advisories/ubuntu/linux-kernel-8028-7-2024-36331,https://da.gd/55lDI
+LinuxSecurity,Debian 11 python-django Moderate Security Flaws DLA-4484-1 CVE-2025-13473,https://linuxsecurity.com/advisories/deblts/python-django-dla-4484-1-2025-13473,https://da.gd/mcM4a
