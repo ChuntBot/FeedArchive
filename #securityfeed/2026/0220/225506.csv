@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qv8j-hgpc-vrq8] Google Cloud Vertex AI SDK affected by Stored Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-qv8j-hgpc-vrq8,https://da.gd/HimCc
+GithubAdvisories,[GHSA-wh2j-26j7-9728] Google Cloud Vertex AI has a a vulnerability involving predictable bucket naming,https://github.com/advisories/GHSA-wh2j-26j7-9728,https://da.gd/2iYHg
+GithubAdvisories,[GHSA-hvjw-vp7g-39h5] NVIDIA NeMo Framework Deserializes Untrusted Data,https://github.com/advisories/GHSA-hvjw-vp7g-39h5,https://da.gd/km6zk
+GithubAdvisories,[GHSA-9379-mwvr-7wxx] NVIDIA NeMo Framework contains a vulnerability where malicious data could cause remote code execution,https://github.com/advisories/GHSA-9379-mwvr-7wxx,https://da.gd/mWx9f
