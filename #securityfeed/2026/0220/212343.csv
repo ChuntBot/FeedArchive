@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-378v-28hj-76wf] bn.js affected by an infinite loop,https://github.com/advisories/GHSA-378v-28hj-76wf,https://da.gd/J9vRCo
+GithubAdvisories,[GHSA-9jmq-xgjm-p8c2] Sync-in Server has a stored cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-9jmq-xgjm-p8c2,https://da.gd/gBik4
+GithubAdvisories,[GHSA-q5fh-2hc8-f6rq] Ray dashboard DELETE endpoints allow unauthenticated browser-triggered DoS (Serve shutdown / job deletion),https://github.com/advisories/GHSA-q5fh-2hc8-f6rq,https://da.gd/SsWXaF
+GithubAdvisories,[GHSA-rcqw-6466-3mv7] AVideo has Stored Cross-Site Scripting via Markdown Comment Injection,https://github.com/advisories/GHSA-rcqw-6466-3mv7,https://da.gd/fCX4f
+GithubAdvisories,[GHSA-49pc-8936-wvfp] Lettermint Node.js SDK leaks email properties to unintended recipients when client instance is reused,https://github.com/advisories/GHSA-49pc-8936-wvfp,https://da.gd/lj1n25
+GithubAdvisories,[GHSA-gv8r-9rw9-9697] Traefik affected by TLS ClientAuth Bypass on HTTP/3,https://github.com/advisories/GHSA-gv8r-9rw9-9697,https://da.gd/Zsgfd
+GithubAdvisories,[GHSA-w45g-5746-x9fp] OpenClaw hardened cron webhook delivery against SSRF,https://github.com/advisories/GHSA-w45g-5746-x9fp,https://da.gd/VsYnF8
+GithubAdvisories,[GHSA-r6h2-5gqq-v5v6] OpenClaw: Reject symlinks in local skill packaging script,https://github.com/advisories/GHSA-r6h2-5gqq-v5v6,https://da.gd/P0sLY
+GithubAdvisories,[GHSA-wh94-p5m6-mr7j] OpenClaw Discord moderation authorization used untrusted sender identity in tool-driven flows,https://github.com/advisories/GHSA-wh94-p5m6-mr7j,https://da.gd/ljnpF
