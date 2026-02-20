@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cxpw-2g23-2vgw] OpenClaw: ACP prompt-size checks missing in local stdio bridge could reduce responsiveness with very large inputs,https://github.com/advisories/GHSA-cxpw-2g23-2vgw,https://da.gd/i9gxWq
