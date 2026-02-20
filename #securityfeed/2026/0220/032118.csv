@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 20.04 LTS Linux Kernel Important Vulnerabilities USN-7990-5,https://linuxsecurity.com/advisories/ubuntu/linux-kernel-ubuntu-7990-5-2022-49698,https://da.gd/Zlu797
+LinuxSecurity,Debian DSA-6145-1 Nova Image Resize Issue CVE-2026-24708,https://linuxsecurity.com/advisories/debian/nova-dsa-6145-1-2026-24708,https://da.gd/uLLa
+LinuxSecurity,Debian trixie inetutils Critical Telnetd Authentication Bypass DSA-6144-1,https://linuxsecurity.com/advisories/debian/inetutils-dsa-6144-1-1771533733,https://da.gd/RhTww
