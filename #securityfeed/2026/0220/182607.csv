@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qhp6-635j-x7r2] Static Web Server affected by timing-based username enumeration in Basic Authentication due to early response on invalid usernames,https://github.com/advisories/GHSA-qhp6-635j-x7r2,https://da.gd/mMr4
+GithubAdvisories,[GHSA-cv8h-r7r5-vwj9] Kimai contains a SameSite cookie vulnerability,https://github.com/advisories/GHSA-cv8h-r7r5-vwj9,https://da.gd/X1s0
+GithubAdvisories,[GHSA-83pf-v6qq-pwmr] Fickling has a detection bypass via stdlib network-protocol constructors,https://github.com/advisories/GHSA-83pf-v6qq-pwmr,https://da.gd/fNZIQ
+GithubAdvisories,[GHSA-m7jm-9gc2-mpf2] fast-xml-parser has an entity encoding bypass via regex injection in DOCTYPE entity names,https://github.com/advisories/GHSA-m7jm-9gc2-mpf2,https://da.gd/Rmlrzp
