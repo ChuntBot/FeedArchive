@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian libvpx Critical DoS Buffer Overflow CVE-2026-2447 DSA-6143-1,https://linuxsecurity.com/advisories/debian/libvpx-dsa-6143-1-2026-2447,https://da.gd/B5Kv4
+LinuxSecurity,Debian gegl Important Buffer Overflow DoS Advisory DSA-6142-1 CVE-2026-2049,https://linuxsecurity.com/advisories/debian/gegl-dsa-6142-1-2026-2049,https://da.gd/f5z95
+LinuxSecurity,openSUSE python-nltk Security Issue CVE-2025-14009 with ZIP Extraction,https://linuxsecurity.com/advisories/opensuse/python-nltk-opensuse-2026-0057-1-2025-14009,https://da.gd/4pgK
+LinuxSecurity,openSUSE python-nltk Important Secure ZIP Extraction Issue 2026-0056-1,https://linuxsecurity.com/advisories/opensuse/python-nltk-opensuse-2026-0056-1-2025-14009,https://da.gd/Y4zhUM
+LinuxSecurity,openSUSE Tumbleweed rclone Moderate Security Fix CVE-2025-68121,https://linuxsecurity.com/advisories/opensuse/rclone-1-73-1-opensuse-2026-10224-1-2025-68121,https://da.gd/yK4eo
+LinuxSecurity,openSUSE Tumbleweed python313 Serious Threat Issues 2026-10334-3,https://linuxsecurity.com/advisories/opensuse/python313-3-13-12-2025-11468,https://da.gd/CEZAnF
