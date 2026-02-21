@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42 Chromium Update 145.0.7632.75 Fixes Critical Use After Free,https://linuxsecurity.com/advisories/fedora/chromium-fedora-42-2026-583eef79a8,https://da.gd/PZ4Dg
+LinuxSecurity,Fedora 42 mingw-libpng Essential Heap Overflow Fix for CVE-2026-25646,https://linuxsecurity.com/advisories/fedora/mingw-libpng-fedora-42-2026-2af2f2fa9d,https://da.gd/WLQpA
+LinuxSecurity,Debian LTS 11 nova Important Resize Safety Issue DLA-4486-1 CVE-2026-24708,https://linuxsecurity.com/advisories/deblts/debian-dla-4486-1-nova,https://da.gd/QjdKwA
+LinuxSecurity,Debian 11 ca-certificates Important SSL Update DLA-4485-1,https://linuxsecurity.com/advisories/deblts/debian-dla-4485-1-ca-certificates,https://da.gd/zA8X2f
