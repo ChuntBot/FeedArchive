@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w6x6-9fp7-fqm4] New API has an SQL LIKE Wildcard Injection DoS via Token Search,https://github.com/advisories/GHSA-w6x6-9fp7-fqm4,https://da.gd/Qokp5V
+GithubAdvisories,[GHSA-qq67-mvv5-fw3g] Astro has Full-Read SSRF in error rendering via Host: header injection,https://github.com/advisories/GHSA-qq67-mvv5-fw3g,https://da.gd/C7Mwo
