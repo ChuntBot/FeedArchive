@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6fx5-5cw5-4897] Craft CMS Race condition in Token Service potentially allows for token usage greater than the token limit,https://github.com/advisories/GHSA-6fx5-5cw5-4897,https://da.gd/1j4i2Y
+GithubAdvisories,[GHSA-gp2f-7wcm-5fhx] Craft CMS has Cloud Metadata SSRF Protection Bypass via DNS Rebinding,https://github.com/advisories/GHSA-gp2f-7wcm-5fhx,https://da.gd/eIdJp
+GithubAdvisories,"[GHSA-3jh3-prx3-w6wc] Craft CMS has Stored XSS in Table Field via ""HTML"" Column Type",https://github.com/advisories/GHSA-3jh3-prx3-w6wc,https://da.gd/GeReKo
+GithubAdvisories,[GHSA-g3gw-q23r-pgqm] yt-dlp: Arbitrary Command Injection when using the `--netrc-cmd` option,https://github.com/advisories/GHSA-g3gw-q23r-pgqm,https://da.gd/uiq7Y
+GithubAdvisories,[GHSA-xxh2-68g9-8jqr] ormar is vulnerable to SQL Injection through aggregate functions min() and max(),https://github.com/advisories/GHSA-xxh2-68g9-8jqr,https://da.gd/sG4g
+GithubAdvisories,[GHSA-299v-8pq9-5gjq] New API has Potential XSS in its MarkdownRenderer component,https://github.com/advisories/GHSA-299v-8pq9-5gjq,https://da.gd/rBfUw
