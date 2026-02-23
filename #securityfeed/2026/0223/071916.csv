@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 43 qpdfview Critical Denial of Service 2026-c06fd97a53,https://linuxsecurity.com/advisories/fedora/qpdfview-fedora-43-2026-c06fd97a53,https://da.gd/3xqnV
+LinuxSecurity,Fedora 43 zathura-pdf-mupdf Denial of Service Fix 2026-c06fd97a53,https://linuxsecurity.com/advisories/fedora/zathura-pdf-mupdf-fedora-2026-c06fd97a53,https://da.gd/SwcZPE
+LinuxSecurity,Fedora 43 python-PyMuPDF Important Denial of Service CVE-2026-25556,https://linuxsecurity.com/advisories/fedora/fedora-43-pymupdf-2026-c06fd97a53,https://da.gd/QoTD
+LinuxSecurity,Fedora 43 mupdf 1.27.1 Medium Denial of Service Fix FEDORA-2026-c06fd97a53,https://linuxsecurity.com/advisories/fedora/mupdf-fedora-43-2026-c06fd97a53,https://da.gd/KGZCQ
