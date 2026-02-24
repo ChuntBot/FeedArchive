@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jxq9-79vj-rgvw] Statamic is vulnerable to account takeover via password reset link injection,https://github.com/advisories/GHSA-jxq9-79vj-rgvw,https://da.gd/AO5vQy
+GithubAdvisories,[GHSA-243v-98vx-264h] Wasmtime can panic when adding excessive fields to a `wasi:http/types.fields` instance,https://github.com/advisories/GHSA-243v-98vx-264h,https://da.gd/ztPlWw
+GithubAdvisories,[GHSA-mrq8-rjmw-wpq3] Fiber has a Denial of Service Vulnerability via Route Parameter Overflow,https://github.com/advisories/GHSA-mrq8-rjmw-wpq3,https://da.gd/Cvf6N
