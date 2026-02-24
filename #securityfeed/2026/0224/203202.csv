@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-g7pc-pc7g-h8jh] Caddy: MatchPath %xx (escaped-path) branch skips case normalization, enabling path-based route/auth bypass",https://github.com/advisories/GHSA-g7pc-pc7g-h8jh,https://da.gd/7dLN2Q
+GithubAdvisories,[GHSA-hffm-g8v7-wrv7] Caddy: mTLS client authentication silently fails open when CA certificate file is missing or malformed,https://github.com/advisories/GHSA-hffm-g8v7-wrv7,https://da.gd/vg3A7
+GithubAdvisories,[GHSA-4xrr-hq4w-6vf4] Caddy: Improper sanitization of glob characters in file matcher may lead to bypassing security protections,https://github.com/advisories/GHSA-4xrr-hq4w-6vf4,https://da.gd/vQIsgP
+GithubAdvisories,[GHSA-m2cq-xjgm-f668] ActualBudget server is Missing Authentication for SimpleFIN and Pluggy AI bank sync endpoints,https://github.com/advisories/GHSA-m2cq-xjgm-f668,https://da.gd/9fo6ai
+GithubAdvisories,[GHSA-hhfx-5x8j-f5f6] Payload: Server-Side Request Forgery (SSRF) in External File URL Uploads,https://github.com/advisories/GHSA-hhfx-5x8j-f5f6,https://da.gd/hrHGK
+GithubAdvisories,[GHSA-4894-xqv6-vrfq] MindsDB: Path Traversal in /api/files Leading to Remote Code Execution,https://github.com/advisories/GHSA-4894-xqv6-vrfq,https://da.gd/JQaNo
+GithubAdvisories,[GHSA-vxg3-v4p6-f3fp] Pimcore vulnerable to SQL injection via unsanitized filter value in Dependency Dao RLIKE clause,https://github.com/advisories/GHSA-vxg3-v4p6-f3fp,https://da.gd/vvw15
