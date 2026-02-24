@@ -1,0 +1,27 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v2gc-rm6g-wrw9] Craft CMS: Cloud Metadata SSRF Protection Bypass via IPv6 Resolution,https://github.com/advisories/GHSA-v2gc-rm6g-wrw9,https://da.gd/ldoNHx
+GithubAdvisories,[GHSA-w8mw-frc6-r7m8] ImageMagick: Invalid MSL can result in a use after free,https://github.com/advisories/GHSA-w8mw-frc6-r7m8,https://da.gd/NoUYpL
+GithubAdvisories,[GHSA-gwr3-x37h-h84v] ImageMagick has a possible infinite loop in its JPEG encoder when using `jpeg:extent`,https://github.com/advisories/GHSA-gwr3-x37h-h84v,https://da.gd/dAoJp
+GithubAdvisories,[GHSA-v994-63cg-9wj3] ImageMagick has infinite loop when writing IPTCTEXT leads to denial of service via crafted profile,https://github.com/advisories/GHSA-v994-63cg-9wj3,https://da.gd/54Dz3
+GithubAdvisories,[GHSA-7355-pwx2-pm84] ImageMagick: Integer overflow or wraparound and incorrect conversion between numeric types in the internal SVG decoder,https://github.com/advisories/GHSA-7355-pwx2-pm84,https://da.gd/QWb8d
+GithubAdvisories,"[GHSA-782x-jh29-9mf7] ImageMagick: MSL image stack index may fail to refresh, leading to leaked images",https://github.com/advisories/GHSA-782x-jh29-9mf7,https://da.gd/533ZYv
+GithubAdvisories,[GHSA-42p5-62qq-mmh7] ImageMagick has a heap buffer over-read in its MAP image decoder,https://github.com/advisories/GHSA-42p5-62qq-mmh7,https://da.gd/yg8qiz
+GithubAdvisories,[GHSA-v7g2-m8c5-mf84] ImageMagick: Memory allocation with excessive without limits in the internal SVG decoder,https://github.com/advisories/GHSA-v7g2-m8c5-mf84,https://da.gd/moY6ss
+GithubAdvisories,"[GHSA-fwqw-2x5x-w566] ImageMagick has Use After Free in MSLStartElement in ""coders/msl.c""",https://github.com/advisories/GHSA-fwqw-2x5x-w566,https://da.gd/N3jIp
+GithubAdvisories,[GHSA-xgm3-v4r9-wfgm] Image Magick has a Memory Leak in coders/ashlar.c,https://github.com/advisories/GHSA-xgm3-v4r9-wfgm,https://da.gd/m8OdRv
+GithubAdvisories,[GHSA-72hf-fj62-w6j4] ImageMagick: Stack buffer overflow in FTXT reader via oversized integer field,https://github.com/advisories/GHSA-72hf-fj62-w6j4,https://da.gd/cRKoWk
+GithubAdvisories,"[GHSA-xwc6-v6g8-pw2h] ImageMagick's Security Policy Bypass through config/policy-secure.xml via ""fd handler"" leads to stdin/stdout access",https://github.com/advisories/GHSA-xwc6-v6g8-pw2h,https://da.gd/N495hy
+GithubAdvisories,[GHSA-8jvj-p28h-9gm7] ImageMagick: Policy bypass through path traversal allows reading restricted content despite secured policy,https://github.com/advisories/GHSA-8jvj-p28h-9gm7,https://da.gd/ys9Q
+GithubAdvisories,[GHSA-vpxv-r9pg-7gpr] ImageMagick has Global Buffer Overflow (OOB Read) via Negative Pixel Index in UIL and XPM Writer,https://github.com/advisories/GHSA-vpxv-r9pg-7gpr,https://da.gd/ST9u2
+GithubAdvisories,[GHSA-6j5f-24fw-pqp4] ImageMagick: Heap overflow in sun decoder on 32-bit systems may result in out of bounds write,https://github.com/advisories/GHSA-6j5f-24fw-pqp4,https://da.gd/ywPD
+GithubAdvisories,"[GHSA-543g-8grm-9cw6] ImageMagick has Division-by-Zero in YUV sampling factor validation, which leads to crash",https://github.com/advisories/GHSA-543g-8grm-9cw6,https://da.gd/XOuLDY
+GithubAdvisories,[GHSA-p863-5fgm-rgq4] ImageMagick has NULL Pointer Dereference in ClonePixelCacheRepository via crafted image,https://github.com/advisories/GHSA-p863-5fgm-rgq4,https://da.gd/ZNgpD6
+GithubAdvisories,[GHSA-rw6c-xp26-225v] ImageMagick: Code Injection via PostScript header in ps coders,https://github.com/advisories/GHSA-rw6c-xp26-225v,https://da.gd/nt3jim
+GithubAdvisories,[GHSA-g2pr-qxjg-7r2w] ImageMagick has memory leak of watermark Image object in ReadSTEGANOImage on multiple error/early-return paths,https://github.com/advisories/GHSA-g2pr-qxjg-7r2w,https://da.gd/DphE9t
+GithubAdvisories,[GHSA-p33r-fqw2-rqmm] ImageMagick has NULL pointer dereference in ReadSFWImage after DestroyImageInfo (sfw.c),https://github.com/advisories/GHSA-p33r-fqw2-rqmm,https://da.gd/uBnlk
+GithubAdvisories,[GHSA-vhqj-f5cj-9x8h] ImageMagick has heap-buffer-overflow via signed integer overflow in WriteUHDRImage when writing UHDR images with large dimensions,https://github.com/advisories/GHSA-vhqj-f5cj-9x8h,https://da.gd/KBAWS
+GithubAdvisories,[GHSA-gxcx-qjqp-8vjw] ImageMagick has memory leak in msl encoder,https://github.com/advisories/GHSA-gxcx-qjqp-8vjw,https://da.gd/X2erWK
+GithubAdvisories,[GHSA-gm37-qx7w-p258] ImageMagick: Possible memory leak in ASHLAR encoder,https://github.com/advisories/GHSA-gm37-qx7w-p258,https://da.gd/4ZTeL
+GithubAdvisories,[GHSA-jv4p-gjwq-9r2j] ImageMagick: Out of bounds read in multiple coders read raw pixel data,https://github.com/advisories/GHSA-jv4p-gjwq-9r2j,https://da.gd/L8XyR
+GithubAdvisories,[GHSA-pqgj-2p96-rx85] ImageMagick: Infinite loop vulnerability when parsing a PCD file,https://github.com/advisories/GHSA-pqgj-2p96-rx85,https://da.gd/B6jy8
+GithubAdvisories,[GHSA-wg3g-gvx5-2pmv] ImageMagick: Converting multi-layer nested MVG to SVG can cause DoS,https://github.com/advisories/GHSA-wg3g-gvx5-2pmv,https://da.gd/f45Cr
