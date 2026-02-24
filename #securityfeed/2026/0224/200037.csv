@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-78qv-3mpx-9cqq] NiceGUI vulnerable to XSS via Code Injection during client-side element function execution,https://github.com/advisories/GHSA-78qv-3mpx-9cqq,https://da.gd/eEsAf
