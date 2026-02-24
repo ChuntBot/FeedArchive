@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-96pc-27rx-pr36] ImageMagick has Possible Heap Information Disclosure in PSD ZIP Decompression,https://github.com/advisories/GHSA-96pc-27rx-pr36,https://da.gd/MVZC8
+GithubAdvisories,[GHSA-v9mr-v6fw-ggjc] Malware in chai-iotype,https://github.com/advisories/GHSA-v9mr-v6fw-ggjc,https://da.gd/sEa7vJ
+GithubAdvisories,[GHSA-qr75-8mp9-xxfp] Malware in js-multer,https://github.com/advisories/GHSA-qr75-8mp9-xxfp,https://da.gd/upuMg
+GithubAdvisories,[GHSA-mg4g-8xgc-p8xw] Malware in chai-as-pause,https://github.com/advisories/GHSA-mg4g-8xgc-p8xw,https://da.gd/5bCfDt
