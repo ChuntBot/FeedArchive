@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2mr3-m5q5-wgp6] Fiber is Vulnerable to Denial of Service via Flash Cookie Unbounded Allocation,https://github.com/advisories/GHSA-2mr3-m5q5-wgp6,https://da.gd/TBDe5
+GithubAdvisories,[GHSA-m3c2-496v-cw3v] Fiber has an Arbitrary File Read in Static Middleware on Windows,https://github.com/advisories/GHSA-m3c2-496v-cw3v,https://da.gd/YXryOJ
+GithubAdvisories,[GHSA-852m-cvvp-9p4w] Wasmtime WASI implementations are vulnerable to guest-controlled resource exhaustion,https://github.com/advisories/GHSA-852m-cvvp-9p4w,https://da.gd/0zzAec
+GithubAdvisories,[GHSA-xjhv-v822-pf94] Wasmtime is vulnerable to panic when dropping a `[Typed]Func::call_async` future,https://github.com/advisories/GHSA-xjhv-v822-pf94,https://da.gd/6nnQVy
+GithubAdvisories,[GHSA-5r3v-vc8m-m96g] Caddy: Unicode case-folding length expansion causes incorrect split_path index in FastCGI transport,https://github.com/advisories/GHSA-5r3v-vc8m-m96g,https://da.gd/9NE3NS
+GithubAdvisories,[GHSA-879p-475x-rqh2] Caddy is vulnerable to cross-origin config application via local admin API /load,https://github.com/advisories/GHSA-879p-475x-rqh2,https://da.gd/UbX3T
+GithubAdvisories,"[GHSA-x76f-jf84-rqj8] Caddy: MatchHost becomes case-sensitive for large host lists (>100), enabling host-based route/auth bypass",https://github.com/advisories/GHSA-x76f-jf84-rqj8,https://da.gd/QzFlT
