@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qrvq-68c2-7grw] nats-server websockets are vulnerable to pre-auth memory DoS,https://github.com/advisories/GHSA-qrvq-68c2-7grw,https://da.gd/dyOho
+GithubAdvisories,[GHSA-9fww-8cpr-q66r] Isso affected by Stored XSS via comment website field,https://github.com/advisories/GHSA-9fww-8cpr-q66r,https://da.gd/JBmBVi
+GithubAdvisories,[GHSA-v264-xqh4-9xmm] OneUptime:: node:vm sandbox escape in probe allows any project member to achieve RCE,https://github.com/advisories/GHSA-v264-xqh4-9xmm,https://da.gd/QZ6go
