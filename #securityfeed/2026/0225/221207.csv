@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vpcf-gvg4-6qwr] n8n: Expression Sandbox Escape Leads to RCE,https://github.com/advisories/GHSA-vpcf-gvg4-6qwr,https://da.gd/Yw65f
+GithubAdvisories,[GHSA-3ccg-x393-96v8] Vijkunja has Weak Password Policy Combined with Persistent Sessions After Password Change,https://github.com/advisories/GHSA-3ccg-x393-96v8,https://da.gd/NDFsE
+GithubAdvisories,[GHSA-4qgr-4h56-8895] Vikunja has Reflected HTML Injection via filter Parameter in its Projects Module,https://github.com/advisories/GHSA-4qgr-4h56-8895,https://da.gd/78XrD
+GithubAdvisories,[GHSA-x2mw-7j39-93xq] n8n has Arbitrary Command Execution via File Write and Git Operations,https://github.com/advisories/GHSA-x2mw-7j39-93xq,https://da.gd/s5Uhod
