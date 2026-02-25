@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3c45-4pj5-ch7m] changedetection.io is Vulnerable to SSRF via Watch URLs,https://github.com/advisories/GHSA-3c45-4pj5-ch7m,https://da.gd/uWkK
+GithubAdvisories,[GHSA-mw8m-398g-h89w] changedetection.io Vulnerable to Reflected XSS in RSS Single Watch Error Response,https://github.com/advisories/GHSA-mw8m-398g-h89w,https://da.gd/lRZfF
+GithubAdvisories,[GHSA-65mp-fq8v-56jr] Flask-Reuploaded vulnerable to Remote Code Execution via Server-Side Template Injection,https://github.com/advisories/GHSA-65mp-fq8v-56jr,https://da.gd/ngRhH
+GithubAdvisories,[GHSA-jhp4-jvq3-w5xr] Parse Dashboard Has a Cache Key Collision that Leaks Master Key to Read-Only Sessions,https://github.com/advisories/GHSA-jhp4-jvq3-w5xr,https://da.gd/Jk5tk
+GithubAdvisories,[GHSA-3534-xp88-25rc] Parse Dashboard is Missing CSRF Protection for its Agent Endpoint,https://github.com/advisories/GHSA-3534-xp88-25rc,https://da.gd/mw8VQ
+GithubAdvisories,[GHSA-cvwj-6c9h-jg6v] Parse Dashboard is Missing Authorization for its Agent Endpoint,https://github.com/advisories/GHSA-cvwj-6c9h-jg6v,https://da.gd/9is9Ks
+GithubAdvisories,[GHSA-rwj9-7j48-9f7q] Rucio WebUI Vulnerable to Stored Cross-site Scripting (XSS) through Custom Rule Function,https://github.com/advisories/GHSA-rwj9-7j48-9f7q,https://da.gd/4fxtmF
+GithubAdvisories,[GHSA-rvhr-26g4-p2r8] Budibase: Remote Code Execution via Unsafe eval() in View Filter Map Function (Budibase Cloud),https://github.com/advisories/GHSA-rvhr-26g4-p2r8,https://da.gd/4xsweB
+GithubAdvisories,[GHSA-h39h-7cvg-q7j6] AVideo has Authenticated Server-Side Request Forgery via downloadURL in aVideoEncoder.json.php,https://github.com/advisories/GHSA-h39h-7cvg-q7j6,https://da.gd/qpV3r
+GithubAdvisories,[GHSA-38wq-6q2w-hcf9] Rucio WebUI has Username Enumeration via Login Error Message,https://github.com/advisories/GHSA-38wq-6q2w-hcf9,https://da.gd/IGrFY
+GithubAdvisories,[GHSA-h79m-5jjm-jm4q] Rucio WebUI has a Reflected Cross-site Scripting Vulnerability,https://github.com/advisories/GHSA-h79m-5jjm-jm4q,https://da.gd/JXwfu
