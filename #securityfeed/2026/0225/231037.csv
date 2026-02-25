@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4q3h-vp4r-prv2] Parse Server: Account takeover via JWT algorithm confusion in Google auth adapter,https://github.com/advisories/GHSA-4q3h-vp4r-prv2,https://da.gd/rDKWm
+GithubAdvisories,"[GHSA-v9fg-3cr2-277j] Rust has Critical Stored XSS in Preview Modal, leading to Administrative Account Takeover",https://github.com/advisories/GHSA-v9fg-3cr2-277j,https://da.gd/5hnSB
+GithubAdvisories,[GHSA-mphv-75cg-56wg] LangChain Community: redirect chaining can lead to SSRF bypass via RecursiveUrlLoader,https://github.com/advisories/GHSA-mphv-75cg-56wg,https://da.gd/buicDM
+GithubAdvisories,[GHSA-mhr3-j7m5-c7c9] LangGraph: BaseCache Deserialization of Untrusted Data may lead to Remote Code Execution,https://github.com/advisories/GHSA-mhr3-j7m5-c7c9,https://da.gd/UEF0m
+GithubAdvisories,[GHSA-p2v6-84h2-5x4r] esm.sh has SSRF localhost/private-network bypass in `/http(s)` module route,https://github.com/advisories/GHSA-p2v6-84h2-5x4r,https://da.gd/kMyzn3
+GithubAdvisories,[GHSA-663h-2vr3-ghrj] yapi disables TLS/SSL certificate validation via rejectUnauthorized: false in Axios HTTPS agent,https://github.com/advisories/GHSA-663h-2vr3-ghrj,https://da.gd/jSxaZ
+GithubAdvisories,[GHSA-x288-3778-4hhx] Angular SSR is vulnerable to SSRF and Header Injection via request handling pipeline,https://github.com/advisories/GHSA-x288-3778-4hhx,https://da.gd/1NpIU
+GithubAdvisories,[GHSA-xh43-g2fq-wjrj] Angular SSR has an Open Redirect via X-Forwarded-Prefix,https://github.com/advisories/GHSA-xh43-g2fq-wjrj,https://da.gd/JkDvU
