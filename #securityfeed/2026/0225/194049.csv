@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-fq4f-4738-rqxm] Rucio WebUI has a Stored Cross-site Scripting (XSS) Vulnerability in its Custom RSE Attribute,https://github.com/advisories/GHSA-fq4f-4738-rqxm,https://da.gd/SQcov
+GithubAdvisories,[GHSA-8wpv-6x3f-3rm5] Rucio WebUI has a Stored Cross-site Scripting (XSS) vulnerability its Identity Name,https://github.com/advisories/GHSA-8wpv-6x3f-3rm5,https://da.gd/cclj
+GithubAdvisories,[GHSA-h9fp-p2p9-873q] Rucio WebUI has Stored Cross-site Scripting (XSS) in RSE Metadata,https://github.com/advisories/GHSA-h9fp-p2p9-873q,https://da.gd/mHVgQ
+GithubAdvisories,[GHSA-r5j5-q42h-fc93] Mautic is Vulnerable to SQL Injection through Contact Activity API Sorting,https://github.com/advisories/GHSA-r5j5-q42h-fc93,https://da.gd/66N9u
+GithubAdvisories,[GHSA-r99p-5442-q2x2] ImageMagick has a heap Buffer Over-read in its DJVU image format handler,https://github.com/advisories/GHSA-r99p-5442-q2x2,https://da.gd/PPbRD
+GithubAdvisories,[GHSA-qpgx-jfcq-r59f] ImageMagick: Heap Buffer Over-read in WaveletDenoise when processing small images,https://github.com/advisories/GHSA-qpgx-jfcq-r59f,https://da.gd/RcbuA
+GithubAdvisories,[GHSA-x43w-ph7m-pfjx] hexchat crate has a Use After Free vulnerability,https://github.com/advisories/GHSA-x43w-ph7m-pfjx,https://da.gd/2ftNMB
+GithubAdvisories,[GHSA-8r55-rv5w-6pfm] Apache Airflow exposes sensitive information in its log files,https://github.com/advisories/GHSA-8r55-rv5w-6pfm,https://da.gd/lXui
+GithubAdvisories,[GHSA-r837-hpv7-pc2f] Apache Airflow vulnerable to Code Injection in the web-server context via LogTemplate table,https://github.com/advisories/GHSA-r837-hpv7-pc2f,https://da.gd/Fspb64
+GithubAdvisories,[GHSA-87xj-ghmc-c3xq] PowerJob has Missing Authorization in its /user/list file,https://github.com/advisories/GHSA-87xj-ghmc-c3xq,https://da.gd/v6Vakc
+GithubAdvisories,[GHSA-q9hv-hpm4-hj6x] CIRCL has an incorrect calculation in secp384r1 CombinedMult,https://github.com/advisories/GHSA-q9hv-hpm4-hj6x,https://da.gd/7GzqK3
+GithubAdvisories,[GHSA-gq5v-qf8q-fp77] ImageMagick: Heap-based Buffer Overflow in GetPixelIndex due to metadata-cache desynchronization,https://github.com/advisories/GHSA-gq5v-qf8q-fp77,https://da.gd/PEpIcj
+GithubAdvisories,[GHSA-wfx3-6g53-9fgc] ImageMagick: Memory Leak in multiple coders that write raw pixel data,https://github.com/advisories/GHSA-wfx3-6g53-9fgc,https://da.gd/zPmKB0
+GithubAdvisories,[GHSA-3q5f-gmjc-38r8] ImageMagick: Memory leak in coders/txt.c without freetype,https://github.com/advisories/GHSA-3q5f-gmjc-38r8,https://da.gd/NNeM
+GithubAdvisories,[GHSA-xpg8-7m6m-jf56] ImageMagick: SVG-to-MVG Command Injection via coders/svg.c,https://github.com/advisories/GHSA-xpg8-7m6m-jf56,https://da.gd/09wR5
+GithubAdvisories,[GHSA-wgxp-q8xq-wpp9] ImageMagick: Malicious PCD files trigger 1‑byte heap Out-of-bounds Read and DoS,https://github.com/advisories/GHSA-wgxp-q8xq-wpp9,https://da.gd/wNUyjO
+GithubAdvisories,[GHSA-3j4x-rwrx-xxj9] mageMagick has a possible use-after-free write in its PDB decoder,https://github.com/advisories/GHSA-3j4x-rwrx-xxj9,https://da.gd/zEX9uz
+GithubAdvisories,[GHSA-2gq3-ww97-wfjm] ImageMagick has a possible heap Use After Free vulnerability in its meta coder,https://github.com/advisories/GHSA-2gq3-ww97-wfjm,https://da.gd/1ugFN6
+GithubAdvisories,"[GHSA-6j87-m5qx-9fqp] Craft CMS has Stored XSS in Table Field in its ""Row Heading"" Column Type",https://github.com/advisories/GHSA-6j87-m5qx-9fqp,https://da.gd/U5JFXx
