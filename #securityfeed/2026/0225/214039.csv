@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wxx7-mcgf-j869] n8n has Potential Remote Code Execution via Merge Node,https://github.com/advisories/GHSA-wxx7-mcgf-j869,https://da.gd/dAJA3
+GithubAdvisories,[GHSA-jjpj-p2wh-qf23] n8n has a Sandbox Escape in its JavaScript Task Runner,https://github.com/advisories/GHSA-jjpj-p2wh-qf23,https://da.gd/NLlMEH
+GithubAdvisories,[GHSA-mmgg-m5j7-f83h] n8n has Arbitrary File Read via Python Code Node Sandbox Escape,https://github.com/advisories/GHSA-mmgg-m5j7-f83h,https://da.gd/w96uvj
+GithubAdvisories,[GHSA-75g8-rv7v-32f7] n8n has Unauthenticated Expression Evaluation via Form Node,https://github.com/advisories/GHSA-75g8-rv7v-32f7,https://da.gd/NMhXdz
