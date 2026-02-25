@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 22.04 Kernel FIPS Critical Issues Advisory USN-8060-4,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8060-4-linux-kernel-fips,https://da.gd/yITihy
+LinuxSecurity,openSUSE 2026-0062-1 Chromium Important Out of Bounds Issues,https://linuxsecurity.com/advisories/opensuse/chromium-opensuse-2026-0062-1,https://da.gd/QD5jJ
+LinuxSecurity,Ubuntu 24.04 LTS USN-8059-5 Linux Kernel Important SMB Threat,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8059-5-linux-kernel-fips,https://da.gd/lk2M
+LinuxSecurity,Ubuntu 24.04 LTS Linux Realtime Kernel Critical SMB Threat USN-8059-4,https://linuxsecurity.com/advisories/ubuntu/linux-kernel-ubuntu-8059-4,https://da.gd/3n3aG
+LinuxSecurity,Ubuntu 24.04 LTS Linux Kernel Critical SMB Flaws USN-8059-3,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8059-3-linux-kernel,https://da.gd/yZ3ub
+LinuxSecurity,Debian 11 gnutls28 Critical Denial Of Service CVE-2025-9820 DLA-4492-1,https://linuxsecurity.com/advisories/deblts/debian-dla-4492-1-gnutls28,https://da.gd/DMmBY
