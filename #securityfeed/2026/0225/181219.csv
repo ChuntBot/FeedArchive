@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cj9f-h6r6-4cx2] Astro is vulnerable to SSRF due to missing allowlist enforcement in remote image inferSize,https://github.com/advisories/GHSA-cj9f-h6r6-4cx2,https://da.gd/cqIBBT
+GithubAdvisories,[GHSA-jmhp-5558-qxh5] OneUptime: OS Command Injection in Probe NetworkPathMonitor via unsanitized destination in traceroute exec(),https://github.com/advisories/GHSA-jmhp-5558-qxh5,https://da.gd/yKqFMT
+GithubAdvisories,[GHSA-429q-mrc4-38fr] Apache Camel Deserializes Untrusted Data in its LevelDB Component,https://github.com/advisories/GHSA-429q-mrc4-38fr,https://da.gd/AQwY1
+GithubAdvisories,[GHSA-c3f3-cc42-xr9v] Apache Camel: KeycloakSecurityPolicy does not validate issuer of JWT tokens against configured realm,https://github.com/advisories/GHSA-c3f3-cc42-xr9v,https://da.gd/1qAo
+GithubAdvisories,[GHSA-xh87-mx6m-69f3] Hono is Vulnerable to Authentication Bypass by IP Spoofing in AWS Lambda ALB conninfo,https://github.com/advisories/GHSA-xh87-mx6m-69f3,https://da.gd/csAC26
+GithubAdvisories,[GHSA-hg58-x52p-859c] datapizza-ai has unsafe deserialization via pickle.loads() in RedisCache,https://github.com/advisories/GHSA-hg58-x52p-859c,https://da.gd/97n9nl
+GithubAdvisories,[GHSA-q5xx-fxv3-xxqf] datapizza-ai: Server-Side Template Injection in ChatPromptTemplate via Jinja2 Template Handler,https://github.com/advisories/GHSA-q5xx-fxv3-xxqf,https://da.gd/StkOb
+GithubAdvisories,[GHSA-c692-r7hw-33w6] Malware in chai-lite-lib,https://github.com/advisories/GHSA-c692-r7hw-33w6,https://da.gd/j5KCW
