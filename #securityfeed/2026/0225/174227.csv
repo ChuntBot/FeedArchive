@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2phg-qgmm-r638] Sliver has Potential Zip Bomb Denial of Service in GzipEncoder,https://github.com/advisories/GHSA-2phg-qgmm-r638,https://da.gd/SHgLRo
+GithubAdvisories,[GHSA-f229-3862-4942] @enclave-vm/core is vulnerable to Sandbox Escape,https://github.com/advisories/GHSA-f229-3862-4942,https://da.gd/YVUcJ
