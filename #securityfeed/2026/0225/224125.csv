@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7jp5-298q-jg98] Vikunja: Stored XSS via Unsanitized SVG Attachment Upload Leads to Token Exposure,https://github.com/advisories/GHSA-7jp5-298q-jg98,https://da.gd/R4PF5
+GithubAdvisories,[GHSA-w5fh-f8xh-5x3p] RustFS: Missing Post Policy Validation leads to Arbitrary Object Write,https://github.com/advisories/GHSA-w5fh-f8xh-5x3p,https://da.gd/2NU2Rg
+GithubAdvisories,[GHSA-mw96-cpmx-2vgc] Rollup 4 has Arbitrary File Write via Path Traversal,https://github.com/advisories/GHSA-mw96-cpmx-2vgc,https://da.gd/U7YoI
+GithubAdvisories,[GHSA-5rq4-664w-9x2c] Basic FTP has Path Traversal Vulnerability in its downloadToDir() method,https://github.com/advisories/GHSA-5rq4-664w-9x2c,https://da.gd/Tog5N
+GithubAdvisories,[GHSA-jm64-8m5q-4qh8] Astro has memory exhaustion DoS due to missing request body size limit in Server Actions,https://github.com/advisories/GHSA-jm64-8m5q-4qh8,https://da.gd/wFeEPv
+GithubAdvisories,[GHSA-76rv-2r9v-c5m6] zae-limiter: DynamoDB hot partition throttling enables per-entity Denial of Service,https://github.com/advisories/GHSA-76rv-2r9v-c5m6,https://da.gd/UZNX71
+GithubAdvisories,[GHSA-2p9h-rqjw-gm92] n8n Vulnerable to Stored XSS via Various Nodes,https://github.com/advisories/GHSA-2p9h-rqjw-gm92,https://da.gd/xzhN
