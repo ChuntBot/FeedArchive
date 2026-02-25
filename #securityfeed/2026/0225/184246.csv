@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qwc3-h9mg-4582] Parse Dashboard has incomplete authentication on AI Agent endpoint,https://github.com/advisories/GHSA-qwc3-h9mg-4582,https://da.gd/e1Sq7a
+GithubAdvisories,[GHSA-5476-xc4j-rqcv] c3p0 vulnerable to Remote Code Execution via unsafe deserialization of userOverridesAsString property,https://github.com/advisories/GHSA-5476-xc4j-rqcv,https://da.gd/LwZf
+GithubAdvisories,[GHSA-9fj4-3849-rv9g] OpenKruise PodProbeMarker is Vulnerable to SSRF via Unrestricted Host Field,https://github.com/advisories/GHSA-9fj4-3849-rv9g,https://da.gd/CWkfDh
+GithubAdvisories,[GHSA-c6rr-7pmc-73wc] ENS DNSSEC Oracle Vulnerable to RSA Signature Forgery via Missing PKCS#1 v1.5 Padding Validation,https://github.com/advisories/GHSA-c6rr-7pmc-73wc,https://da.gd/qOaaDy
+GithubAdvisories,[GHSA-m2cm-222f-qw44] mchange-commons-java: Remote Code Execution via JNDI Reference Resolution,https://github.com/advisories/GHSA-m2cm-222f-qw44,https://da.gd/lprws1
