@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gfw7-2v73-69wg] Apache Airflow error reporting may expose full kwargs,https://github.com/advisories/GHSA-gfw7-2v73-69wg,https://da.gd/0fHT
+GithubAdvisories,[GHSA-mhc9-48gj-9gp3] Fickling has safety check bypass via REDUCE+BUILD opcode sequence,https://github.com/advisories/GHSA-mhc9-48gj-9gp3,https://da.gd/uQDiSB
+GithubAdvisories,[GHSA-273h-m46v-96q4] ImageMagick: Integer Overflow in PSB (PSD v2) RLE decoding path causes heap Out of Bounds reads for 32-bit builds,https://github.com/advisories/GHSA-273h-m46v-96q4,https://da.gd/Y5e4z
+GithubAdvisories,[GHSA-3c9r-837r-qqm4] esm.sh is vulnerable to full-response SSRF,https://github.com/advisories/GHSA-3c9r-837r-qqm4,https://da.gd/K6IPM8
