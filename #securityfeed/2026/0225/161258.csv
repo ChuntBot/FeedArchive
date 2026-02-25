@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2rw7-x74f-jg35] pypdf has a possible infinite loop when loading circular /Prev entries in cross-reference streams,https://github.com/advisories/GHSA-2rw7-x74f-jg35,https://da.gd/UFaUa
+GithubAdvisories,[GHSA-xfvg-8v67-j7wp] TypiCMS Core has Stored Cross-Site Scripting (XSS) via SVG File Upload,https://github.com/advisories/GHSA-xfvg-8v67-j7wp,https://da.gd/OgJbMM
+GithubAdvisories,[GHSA-vp6q-7m36-pq3w] Bugsink is vulnerable to Stored XSS via Pygments fallback in stacktrace rendering,https://github.com/advisories/GHSA-vp6q-7m36-pq3w,https://da.gd/30vI8r
+GithubAdvisories,[GHSA-fm8c-6m29-rp6j] repostat: Reflected Cross-Site Scripting (XSS) via repo prop in RepoCard,https://github.com/advisories/GHSA-fm8c-6m29-rp6j,https://da.gd/AgqgsD
+GithubAdvisories,[GHSA-8vrh-3pm2-v4v6] FileBrowser Quantum: Password Protection Not Enforced on Shared File Links,https://github.com/advisories/GHSA-8vrh-3pm2-v4v6,https://da.gd/GqZBWc
+GithubAdvisories,[GHSA-ggxq-2mg9-8966] Moodle has a Remote Code Execution risk via file restore,https://github.com/advisories/GHSA-ggxq-2mg9-8966,https://da.gd/1oCC1
+GithubAdvisories,[GHSA-cg8j-5cr2-568q] Moodle TeX formula editor is vulnerable to DoS through lack of execution time limits,https://github.com/advisories/GHSA-cg8j-5cr2-568q,https://da.gd/kd4G9P
