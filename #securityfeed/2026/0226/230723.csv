@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8g8j-r87h-p36x] Vitess users with backup storage access can gain unauthorized access to production deployment environments,https://github.com/advisories/GHSA-8g8j-r87h-p36x,https://da.gd/vFWX
+GithubAdvisories,[GHSA-xjhr-fm27-4hmx] OpenFUN Richie Observable Timing Discrepancy in its sync_course_run_from_request function,https://github.com/advisories/GHSA-xjhr-fm27-4hmx,https://da.gd/3ecvD4
+GithubAdvisories,[GHSA-465p-v42x-3fmj] Sealed Secrets for Kubernetes: Rotate API Allows Scope Widening from Strict/Namespace-Wide to Cluster-Wide via Untrusted Template Annotations,https://github.com/advisories/GHSA-465p-v42x-3fmj,https://da.gd/OzsnX
+GithubAdvisories,[GHSA-gj6x-q8rh-wj6x] Curio exposes database credentials to users with network access through verbose HTTP error responses,https://github.com/advisories/GHSA-gj6x-q8rh-wj6x,https://da.gd/mvsOw
+GithubAdvisories,[GHSA-38c7-23hj-2wgq] n8n has Webhook Forgery on Zendesk Trigger Node,https://github.com/advisories/GHSA-38c7-23hj-2wgq,https://da.gd/YfeLy
+GithubAdvisories,[GHSA-fvfv-ppw4-7h2w] n8n has a Guardrail Node Bypass,https://github.com/advisories/GHSA-fvfv-ppw4-7h2w,https://da.gd/a2oACV
+GithubAdvisories,[GHSA-jh8h-6c9q-7gmw] n8n has an Authentication Bypass in its Chat Trigger Node,https://github.com/advisories/GHSA-jh8h-6c9q-7gmw,https://da.gd/jMGeln
+GithubAdvisories,[GHSA-vjf3-2gpj-233v] n8n has an SSO Enforcement Bypass in its Self-Service Settings API,https://github.com/advisories/GHSA-vjf3-2gpj-233v,https://da.gd/nPpAhg
+GithubAdvisories,[GHSA-7gcc-r8m5-44qm] Koa has Host Header Injection via ctx.hostname,https://github.com/advisories/GHSA-7gcc-r8m5-44qm,https://da.gd/Rpdeh
