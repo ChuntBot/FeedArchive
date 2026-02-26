@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 43 Firefox 148.0 Upstream Release Notification 2026-766e3a6ec8,https://linuxsecurity.com/advisories/fedora/firefox-fedora-43-2026-766e3a6ec8,https://da.gd/dVHvc
+LinuxSecurity,Fedora 43 vim Critical CVE-2026-26269 Stack Overflow Security Advisory,https://linuxsecurity.com/advisories/fedora/vim-fedora-43-2026-120874f63c,https://da.gd/3X3SEC
+LinuxSecurity,Fedora 43 opentofu Critical Unbounded Allocation Threat 2026-49b5d5c5e6,https://linuxsecurity.com/advisories/fedora/fedora-opentofu-2026-49b5d5c5e6,https://da.gd/RcPzOH
+LinuxSecurity,Fedora 43 munge 0.5.18 Critical Buffer Overflow CVE-2026-25506,https://linuxsecurity.com/advisories/fedora/fedora-43-munge-2026-ec8baadd48,https://da.gd/NsLLA
+LinuxSecurity,Fedora 43 389-ds-base Security Advisory 2026-27ce708600,https://linuxsecurity.com/advisories/fedora/fedora-389-ds-base-43-2026,https://da.gd/akbcWa
+LinuxSecurity,Fedora 43 Python3.14 Important Header Injection Fix 2026-27ce708600,https://linuxsecurity.com/advisories/fedora/fedora-43-python3-14-2026-27ce708600,https://da.gd/cQOwT
