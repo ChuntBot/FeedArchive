@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5jvp-m9h4-253h] Fleet: Authorization Bypass in certificate template batch deletion for team administrators,https://github.com/advisories/GHSA-5jvp-m9h4-253h,https://da.gd/K6S4iG
+GithubAdvisories,[GHSA-9pm7-6g36-6j78] Fleet: Unauthenticated Android device disenrollment vulnerability via Pub/Sub endpoint,https://github.com/advisories/GHSA-9pm7-6g36-6j78,https://da.gd/2MkM6
+GithubAdvisories,[GHSA-ppwx-5jq7-px2w] Fleet: Device lock PIN can be predicted if lock time is known,https://github.com/advisories/GHSA-ppwx-5jq7-px2w,https://da.gd/bCWVR4
