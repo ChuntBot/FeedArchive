@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mqpr-49jj-32rc] n8n: Webhook Forgery on Github Webhook Trigger,https://github.com/advisories/GHSA-mqpr-49jj-32rc,https://da.gd/9gLYtA
+GithubAdvisories,"[GHSA-f3f2-mcxc-pwjx] n8n: SQL Injection in MySQL, PostgreSQL, and Microsoft SQL nodes",https://github.com/advisories/GHSA-f3f2-mcxc-pwjx,https://da.gd/nIWIiL
+GithubAdvisories,[GHSA-4r4r-4jp4-wwf9] FUXA has JWT Authentication Bypass via HTTP Referer header spoofing,https://github.com/advisories/GHSA-4r4r-4jp4-wwf9,https://da.gd/LAYK3
