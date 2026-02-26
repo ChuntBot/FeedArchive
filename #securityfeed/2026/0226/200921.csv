@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5rc7-2jj6-mp64] Terraform Provider for Linode Debug Logs Vulnerable to Sensitive Information Exposure,https://github.com/advisories/GHSA-5rc7-2jj6-mp64,https://da.gd/2kg3V
+GithubAdvisories,[GHSA-x7hp-r3qg-r3cj] pypdf: Manipulated FlateDecode XFA streams can exhaust RAM,https://github.com/advisories/GHSA-x7hp-r3qg-r3cj,https://da.gd/mTAkX
+GithubAdvisories,[GHSA-r5mx-6wc6-7h9w] dottie is vulnerable to Prototype Pollution bypass via non-first path segments in set() and transform(),https://github.com/advisories/GHSA-r5mx-6wc6-7h9w,https://da.gd/dU9OyR
+GithubAdvisories,[GHSA-2v6m-6xw3-6467] Fleet: Sensitive Google Calendar credentials disclosed to low-privileged users,https://github.com/advisories/GHSA-2v6m-6xw3-6467,https://da.gd/VyNRe
+GithubAdvisories,[GHSA-wppc-7cq7-cgfv] Weblate: Missing access control for the AddonViewSet API exposes all addon configurations,https://github.com/advisories/GHSA-wppc-7cq7-cgfv,https://da.gd/iwBuD
