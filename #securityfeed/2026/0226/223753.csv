@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-62cr-6wp5-q43h] Copyparty vulnerable to reflected XSS via setck parameter,https://github.com/advisories/GHSA-62cr-6wp5-q43h,https://da.gd/rYlv
+GithubAdvisories,[GHSA-fj3w-jwp8-x2g3] fast-xml-parser has stack overflow in XMLBuilder with preserveOrder,https://github.com/advisories/GHSA-fj3w-jwp8-x2g3,https://da.gd/QQCmT
+GithubAdvisories,[GHSA-qgvg-pr8v-6rr3] Svelte: XSS via HTML Comment Injection in SSR Error Boundary Hydration Markers,https://github.com/advisories/GHSA-qgvg-pr8v-6rr3,https://da.gd/9QN5
+GithubAdvisories,[GHSA-phwv-c562-gvmh] Svelte vulnerable to XSS during SSR with contenteditable `bind:innerText` and `bind:textContent`,https://github.com/advisories/GHSA-phwv-c562-gvmh,https://da.gd/F5EIF
+GithubAdvisories,[GHSA-5rmx-256w-8mj9] WireGuard Portal is Vulnerable to Privilege Escalation via User Self-Update to Admin Level,https://github.com/advisories/GHSA-5rmx-256w-8mj9,https://da.gd/SdFYg
+GithubAdvisories,[GHSA-wvj2-96wp-fq3f] MCP Go SDK Vulnerable to Improper Handling of Case Sensitivity,https://github.com/advisories/GHSA-wvj2-96wp-fq3f,https://da.gd/JV1E
+GithubAdvisories,[GHSA-g8gc-6c4h-jg86] wger: IDOR in nutritional_values endpoints exposes private dietary data via direct ORM lookup,https://github.com/advisories/GHSA-g8gc-6c4h-jg86,https://da.gd/4z4SX
+GithubAdvisories,[GHSA-42cr-w2gr-m54q] wger: IDOR via user-unscoped cache keys on routine API actions exposes workout data,https://github.com/advisories/GHSA-42cr-w2gr-m54q,https://da.gd/CIHdiU
+GithubAdvisories,[GHSA-xf68-8hjw-7mpm] wger: IDOR in RepetitionsConfig and MaxRepetitionsConfig API leak other users' workout data,https://github.com/advisories/GHSA-xf68-8hjw-7mpm,https://da.gd/AnL6e
+GithubAdvisories,[GHSA-7r86-cg39-jmmj] minimatch has ReDoS: matchOne() combinatorial backtracking via multiple non-adjacent GLOBSTAR segments,https://github.com/advisories/GHSA-7r86-cg39-jmmj,https://da.gd/2DMI3k
