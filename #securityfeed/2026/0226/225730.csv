@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,SUSE Linux Micro 6.0 python-urllib3 Moderate Resource Exhaustion Alert,https://linuxsecurity.com/advisories/suse/python-urllib3-suse-2026-20443-1,https://da.gd/QZZQO
+LinuxSecurity,SUSE Linux Micro 8.0 gpg3 Major Security Notice SUSE-SU-2027-21557-2,https://linuxsecurity.com/advisories/suse/gpg2-suse-2026-20444-1,https://da.gd/eR1L6X
+LinuxSecurity,SUSE libsoup Significant HTTP Header Exploit Memory Overflow 2023-14532-7,https://linuxsecurity.com/advisories/suse/libsoup-suse-2026-20445-1,https://da.gd/GC14m
+LinuxSecurity,SUSE glib2 Important Fix Buffer Overflows Integer Overflow 2026-20446-1,https://linuxsecurity.com/advisories/suse/glib2-suse-2026-20446-1,https://da.gd/HRuH
+LinuxSecurity,SUSE Linux Micro 6.0 Important Python-Pyasn1 DoS Advisory 2026-20447-1,https://linuxsecurity.com/advisories/suse/python-pyasn1-suse-2026-20447-1,https://da.gd/epgXZ
+LinuxSecurity,SUSE Linux Micro 6.0 libsodium Moderate Cryptographic Bypass 2026-20448-1,https://linuxsecurity.com/advisories/suse/libsodium-suse-2026-20448-1,https://da.gd/gh02D
