@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rfh7-7v27-6p9r] funadmin: XSS through Value argument in Backend Interface component,https://github.com/advisories/GHSA-rfh7-7v27-6p9r,https://da.gd/M9n8U
+GithubAdvisories,[GHSA-gcxp-xg77-798j] funadmin: Deserialization Vulnerability in Backend Endpoint via AuthCloudService getMember Function,https://github.com/advisories/GHSA-gcxp-xg77-798j,https://da.gd/8f56
+GithubAdvisories,[GHSA-5m2g-4cf6-c3rg] funadmin has Incorrect Privilege Assignment in its Configuration Handler,https://github.com/advisories/GHSA-5m2g-4cf6-c3rg,https://da.gd/rd7NT
+GithubAdvisories,[GHSA-fmr2-m7gc-577w] funadmin has Weak Password Recovery Mechanism for Forgotten Password,https://github.com/advisories/GHSA-fmr2-m7gc-577w,https://da.gd/f0G3YR
+GithubAdvisories,[GHSA-8hhx-xq9j-xwfj] funadmin exposes sensitive information via getMember function,https://github.com/advisories/GHSA-8hhx-xq9j-xwfj,https://da.gd/yH6vs8
+GithubAdvisories,[GHSA-mwf2-qr4v-94h2] Apache Superset: Read-Only Bypass via Improper Input Validation on PostgreSQL Connections,https://github.com/advisories/GHSA-mwf2-qr4v-94h2,https://da.gd/hZ0OdS
+GithubAdvisories,[GHSA-h294-8fxm-m2pj] Apache Superset allows authenticated users to view sensitive data without explicit permissions,https://github.com/advisories/GHSA-h294-8fxm-m2pj,https://da.gd/jmpzSK
+GithubAdvisories,[GHSA-3m2g-v7jf-7fxc] Apache Superset Improper Authorization allows low-privileged users to bypass access controls,https://github.com/advisories/GHSA-3m2g-v7jf-7fxc,https://da.gd/TqWX8
+GithubAdvisories,[GHSA-gvxg-9hqx-f4rg] Apache Superset allows privileged users to conduct error-based SQL Injection,https://github.com/advisories/GHSA-gvxg-9hqx-f4rg,https://da.gd/WmJ0BR
+GithubAdvisories,[GHSA-48m2-v2r8-h23m] Apache Superset: Incomplete DISALLOWED_SQL_FUNCTIONS default list for ClickHouse engine,https://github.com/advisories/GHSA-48m2-v2r8-h23m,https://da.gd/pOY4
+GithubAdvisories,[GHSA-42wg-38gx-85rh] Vikunja has Path Traversal in CLI Restore,https://github.com/advisories/GHSA-42wg-38gx-85rh,https://da.gd/jwHSlj
+GithubAdvisories,[GHSA-w789-49fc-v8hr] TerriaJS-Server has a domain validation bypass vulnerability in its proxy allowlist,https://github.com/advisories/GHSA-w789-49fc-v8hr,https://da.gd/fHPNT
+GithubAdvisories,"[GHSA-24p2-j2jr-386w] psd-tools: Compression module has unguarded zlib decompression, missing dimension validation, and hardening gaps",https://github.com/advisories/GHSA-24p2-j2jr-386w,https://da.gd/9nlqJQ
+GithubAdvisories,[GHSA-mpf7-p9x7-96r3] Mailpit is Vulnerable to Server-Side Request Forgery (SSRF) via Link Check API,https://github.com/advisories/GHSA-mpf7-p9x7-96r3,https://da.gd/EvgdMB
+GithubAdvisories,[GHSA-vjqx-cfc4-9h6v] mcp-server-git : Path traversal in git_add allows staging files outside repository boundaries,https://github.com/advisories/GHSA-vjqx-cfc4-9h6v,https://da.gd/ULx40n
+GithubAdvisories,[GHSA-mjf5-7g4m-gx5w] Storybook Dev Server is Vulnerable to WebSocket Hijacking,https://github.com/advisories/GHSA-mjf5-7g4m-gx5w,https://da.gd/s3aA45
+GithubAdvisories,[GHSA-49xw-vfc4-7p43] Fleet has an SQL Injection vulnerability via backtick escape in ORDER BY parameter,https://github.com/advisories/GHSA-49xw-vfc4-7p43,https://da.gd/S9Iy6t
