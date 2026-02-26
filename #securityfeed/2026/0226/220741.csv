@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-23c5-xmqv-rm74] minimatch ReDoS: nested *() extglobs generate catastrophically backtracking regular expressions,https://github.com/advisories/GHSA-23c5-xmqv-rm74,https://da.gd/oswKbq
