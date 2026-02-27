@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j273-m5qq-6825] Junrar has an arbitrary file write due to backslash Path Traversal bypass in LocalFolderExtractor on Linux/Unix,https://github.com/advisories/GHSA-j273-m5qq-6825,https://da.gd/Cc0Wi
+GithubAdvisories,[GHSA-7jx5-9fjg-hp4m] OpenClaw ACP client has permission auto-approval bypass via untrusted tool metadata,https://github.com/advisories/GHSA-7jx5-9fjg-hp4m,https://da.gd/Z5fy
