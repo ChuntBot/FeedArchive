@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qmjj-p7m9-wjrv] @actual-app/sync-server: Missing authorization in sync endpoints allows cross-user budget file access in multi-user mode,https://github.com/advisories/GHSA-qmjj-p7m9-wjrv,https://da.gd/PACtT
