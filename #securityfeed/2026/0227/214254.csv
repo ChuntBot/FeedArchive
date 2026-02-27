@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-82g8-464f-2mv7] OpenClaw: Skill env override host env injection via applySkillConfigEnvOverrides (defense-in-depth),https://github.com/advisories/GHSA-82g8-464f-2mv7,https://da.gd/NQFYW
+GithubAdvisories,[GHSA-rw9x-pxqx-q789] Statamic allows Authenticated Control Panel users to escalate privileges via elevated session bypass,https://github.com/advisories/GHSA-rw9x-pxqx-q789,https://da.gd/ptA437
+GithubAdvisories,[GHSA-7777-fhq9-592v] ZITADEL has potential SSRF via Actions,https://github.com/advisories/GHSA-7777-fhq9-592v,https://da.gd/tvg7U
+GithubAdvisories,[GHSA-282g-fhmx-xf54] ZITADEL Users Can Self-Verify Email/Phone via UpdateHumanUser API,https://github.com/advisories/GHSA-282g-fhmx-xf54,https://da.gd/1Iugiy
+GithubAdvisories,[GHSA-6mq3-xmgp-pjm5] ZITADEL's truncated opaque tokens are still valid,https://github.com/advisories/GHSA-6mq3-xmgp-pjm5,https://da.gd/LlHMB
