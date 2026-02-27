@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w22q-m2fm-x9f4] phpMyFAQ Allows Unauthenticated Account Creation via WebAuthn Prepare Endpoint,https://github.com/advisories/GHSA-w22q-m2fm-x9f4,https://da.gd/sY90i
+GithubAdvisories,[GHSA-phwh-4f42-gwf3] Beszel: Docker API has a Path Traversal Vulnerability via Unsanitized Container ID,https://github.com/advisories/GHSA-phwh-4f42-gwf3,https://da.gd/0Z2oF
