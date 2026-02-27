@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r492-hjgh-c9gw] Vitess users with backup storage access can write to arbitrary file paths on restore,https://github.com/advisories/GHSA-r492-hjgh-c9gw,https://da.gd/npeVC
+GithubAdvisories,[GHSA-747p-wmpv-9c78] AWS CLI: cli_history database does not restrict file permissions on Unix systems,https://github.com/advisories/GHSA-747p-wmpv-9c78,https://da.gd/WB8D3
+GithubAdvisories,[GHSA-3645-fxcv-hqr4] Langflow has Remote Code Execution in CSV Agent,https://github.com/advisories/GHSA-3645-fxcv-hqr4,https://da.gd/05zVAU
