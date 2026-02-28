@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5c6j-r48x-rmvq] Serialize JavaScript is Vulnerable to RCE via RegExp.flags and Date.prototype.toISOString(),https://github.com/advisories/GHSA-5c6j-r48x-rmvq,https://da.gd/TETZsl
+GithubAdvisories,[GHSA-945p-3jhm-6rcp] malcontent: Nested archive extraction failure can drop content from scan inputs,https://github.com/advisories/GHSA-945p-3jhm-6rcp,https://da.gd/41hx
+GithubAdvisories,[GHSA-8rr6-2qw5-pc7r] PMD Designer has Stored XSS in VBHTMLRenderer and YAHTMLRenderer via unescaped violation messages,https://github.com/advisories/GHSA-8rr6-2qw5-pc7r,https://da.gd/AEJ5J
+GithubAdvisories,[GHSA-j8cj-hw74-64jv] Hive has Double-free and Use After Free Vulnerabilities,https://github.com/advisories/GHSA-j8cj-hw74-64jv,https://da.gd/sWR9ij
+GithubAdvisories,[GHSA-8p85-9qpw-fwgw] @fastify/middie has Improper Path Normalization when Using Path-Scoped Middleware,https://github.com/advisories/GHSA-8p85-9qpw-fwgw,https://da.gd/g6zL00
+GithubAdvisories,[GHSA-f2v5-7jq9-h8cg] pypdf: Manipulated RunLengthDecode streams can exhaust RAM,https://github.com/advisories/GHSA-f2v5-7jq9-h8cg,https://da.gd/WkvQk
+GithubAdvisories,[GHSA-hfcp-477w-3wjw] rubyipmi is vulnerable to OS Command Injection through malicious usernames,https://github.com/advisories/GHSA-hfcp-477w-3wjw,https://da.gd/2JE5rX
+GithubAdvisories,[GHSA-7g5x-9c4v-4w5r] Keycloak REST Services has a WebAuthn Attestation Statement Verification Bypass,https://github.com/advisories/GHSA-7g5x-9c4v-4w5r,https://da.gd/3PG3Dl
+GithubAdvisories,[GHSA-v4jw-m6rm-399h] Keycloak Server Private SPI: Improper Access Control Allows Administrators to Bypass Attribute Visibility Restrictions and Modify Unmanaged User Profile Attributes,https://github.com/advisories/GHSA-v4jw-m6rm-399h,https://da.gd/jnEb3J
