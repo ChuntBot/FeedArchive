@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rx6w-2w6h-r346] PSI Probe: Broken access control can lead to DoS,https://github.com/advisories/GHSA-rx6w-2w6h-r346,https://da.gd/XVunOO
+GithubAdvisories,[GHSA-4rv8-5cmm-2r22] osctrl has Stored Cross-Site Scripting (XSS) in On-Demand Query List,https://github.com/advisories/GHSA-4rv8-5cmm-2r22,https://da.gd/HIiAm1
+GithubAdvisories,[GHSA-rchw-322g-f7rm] osctrl is Vulnerable to OS Command Injection via Environment Configuration,https://github.com/advisories/GHSA-rchw-322g-f7rm,https://da.gd/5GTm5y
+GithubAdvisories,[GHSA-fpg4-jhqr-589c] SvelteKit has deserialization expansion in unvalidated `form` remote function leading to Denial of Service (experimental only),https://github.com/advisories/GHSA-fpg4-jhqr-589c,https://da.gd/Qs4FWh
+GithubAdvisories,[GHSA-72hv-8253-57qq] jackson-core: Number Length Constraint Bypass in Async Parser Leads to Potential DoS Condition,https://github.com/advisories/GHSA-72hv-8253-57qq,https://da.gd/9heIrm
+GithubAdvisories,[GHSA-rfjg-6m84-crj2] Vikunja Vulnerable to Account Takeover via Password Reset Token Reuse,https://github.com/advisories/GHSA-rfjg-6m84-crj2,https://da.gd/hRag8s
