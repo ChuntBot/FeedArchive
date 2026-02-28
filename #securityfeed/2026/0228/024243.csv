@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gx6c-pv62-9mcf] Snowflake JDBC Driver is Vulnerable to Uncontrolled Resource Consumption through SdkProxyRoutePlanner,https://github.com/advisories/GHSA-gx6c-pv62-9mcf,https://da.gd/iM5Tpz
+GithubAdvisories,[GHSA-8xwf-cr4r-856r] OpenStack Vitrage: Unauthorized Access to the Host can Lead to Eval Injection,https://github.com/advisories/GHSA-8xwf-cr4r-856r,https://da.gd/gm27a
+GithubAdvisories,[GHSA-7977-c43c-xpwj] OpenClaw is vulnerable to validation bypass through GNU long-option abbreviations in allowlist mode,https://github.com/advisories/GHSA-7977-c43c-xpwj,https://da.gd/ioTvc
+GithubAdvisories,[GHSA-gxvv-45f6-3ch8] openshift-apiserver: SSRF via Missing IP/Network-Range Validation in User-Supplied Image References,https://github.com/advisories/GHSA-gxvv-45f6-3ch8,https://da.gd/zhY6N
