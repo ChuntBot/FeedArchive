@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v653-r55g-hcmg] uv has ZIP payload obfuscation through parsing differentials,https://github.com/advisories/GHSA-v653-r55g-hcmg,https://da.gd/s4lpNG
+GithubAdvisories,[GHSA-h3h8-3v2v-rg7m] Gradio: Mocked OAuth Login Exposes Server Credentials and Uses Hardcoded Session Secret,https://github.com/advisories/GHSA-h3h8-3v2v-rg7m,https://da.gd/uydjeL
