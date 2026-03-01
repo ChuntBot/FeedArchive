@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5vrj-wf7v-5wr7] Statamic vulnerable to privilege escalation via stored cross-site scripting,https://github.com/advisories/GHSA-5vrj-wf7v-5wr7,https://da.gd/e0AW6
+GithubAdvisories,[GHSA-cpv7-q2wx-m8rw] Statamic vulnerable to remote code execution via Antlers-enabled control panel inputs,https://github.com/advisories/GHSA-cpv7-q2wx-m8rw,https://da.gd/jmIBS
+GithubAdvisories,[GHSA-w878-f8c6-7r63] Statamic's missing authorization allows access to email addresses,https://github.com/advisories/GHSA-w878-f8c6-7r63,https://da.gd/dxQzZN
+GithubAdvisories,[GHSA-cwpp-325q-2cvp] Statamic Vulnerable to Server-Side Request Forgery via Glide,https://github.com/advisories/GHSA-cwpp-325q-2cvp,https://da.gd/j3YC2
+GithubAdvisories,[GHSA-jmh7-g254-2cq9] Gradio has SSRF via Malicious `proxy_url` Injection in `gr.load()` Config Processing,https://github.com/advisories/GHSA-jmh7-g254-2cq9,https://da.gd/jkoxMu
+GithubAdvisories,[GHSA-pfjf-5gxr-995x] Gradio has an Open Redirect in its OAuth Flow,https://github.com/advisories/GHSA-pfjf-5gxr-995x,https://da.gd/olX9zA
+GithubAdvisories,[GHSA-39mp-8hj3-5c49] Gradio is Vulnerable to Absolute Path Traversal on Windows with Python 3.13+,https://github.com/advisories/GHSA-39mp-8hj3-5c49,https://da.gd/qA4s48
+GithubAdvisories,"[GHSA-6rxq-q92g-4rmf] kaniko has tar archive path traversal in its build context extraction, allowing file writes outside destination directories",https://github.com/advisories/GHSA-6rxq-q92g-4rmf,https://da.gd/hKLL9Q
+GithubAdvisories,[GHSA-jfrq-hj9f-c8qx] CleverTap Web SDK is vulnerable to DOM-based Cross-Site Scripting (XSS) via window.postMessage,https://github.com/advisories/GHSA-jfrq-hj9f-c8qx,https://da.gd/jc8SgY
+GithubAdvisories,[GHSA-j5mf-6rh3-rhgg] CleverTap Web SDK is vulnerable to DOM-based XSS via handleCustomHtmlPreviewPostMessageEvent function,https://github.com/advisories/GHSA-j5mf-6rh3-rhgg,https://da.gd/xbGRF
+GithubAdvisories,[GHSA-hx9w-f2w9-9g96] hex_core has Unsafe Deserialization of Erlang Terms,https://github.com/advisories/GHSA-hx9w-f2w9-9g96,https://da.gd/b9b3dv
+GithubAdvisories,[GHSA-rfpp-2hgm-gp5v] Indico has a missing access check in the event series management API,https://github.com/advisories/GHSA-rfpp-2hgm-gp5v,https://da.gd/pJ5qv
+GithubAdvisories,[GHSA-xfx2-prg5-jq3g] INSATutorat has an authorization bypass vulnerability in its /api/admin/* endpoints,https://github.com/advisories/GHSA-xfx2-prg5-jq3g,https://da.gd/Z7r0u
+GithubAdvisories,[GHSA-v52c-386h-88mc] Multer vulnerable to Denial of Service via resource exhaustion,https://github.com/advisories/GHSA-v52c-386h-88mc,https://da.gd/Fp8jT
+GithubAdvisories,[GHSA-xf7r-hgr6-v32p] Multer vulnerable to Denial of Service via incomplete cleanup,https://github.com/advisories/GHSA-xf7r-hgr6-v32p,https://da.gd/KCyGN
