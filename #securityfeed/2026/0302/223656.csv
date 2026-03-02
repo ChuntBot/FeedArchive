@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rxxp-482v-7mrh] OpenClaw's inbound media downloads could exceed configured byte limits before rejection across multiple channels,https://github.com/advisories/GHSA-rxxp-482v-7mrh,https://da.gd/HU68
+GithubAdvisories,[GHSA-jq4x-98m3-ggq6] OpenClaw Canvas Path Traversal Information Disclosure Vulnerability,https://github.com/advisories/GHSA-jq4x-98m3-ggq6,https://da.gd/tTsV4
+GithubAdvisories,[GHSA-gwqp-86q6-w47g] OpenClaw's exec allow-always can be bypassed via unrecognized multiplexer shell wrappers (busybox/toybox sh -c),https://github.com/advisories/GHSA-gwqp-86q6-w47g,https://da.gd/gCDQtR
+GithubAdvisories,[GHSA-6x2m-hqfw-hvpj] OpenClaw: Node exec approvals could be replayed across nodes,https://github.com/advisories/GHSA-6x2m-hqfw-hvpj,https://da.gd/q4dr22
+GithubAdvisories,[GHSA-6j27-pc5c-m8w8] OpenClaw's allow-always wrapper persistence could bypass future approvals and enable command execution,https://github.com/advisories/GHSA-6j27-pc5c-m8w8,https://da.gd/u65sOh
+GithubAdvisories,[GHSA-5ghc-98wh-gwwf] OpenClaw's Control UI Static File Handler Follows Symlinks and Allows Out-of-Root File Read,https://github.com/advisories/GHSA-5ghc-98wh-gwwf,https://da.gd/kjWHwB
+GithubAdvisories,[GHSA-36h3-7c54-j27r] OpenClaw has browser trace/download path symlink escape in temp output handling,https://github.com/advisories/GHSA-36h3-7c54-j27r,https://da.gd/UEeUI
+GithubAdvisories,[GHSA-c6hr-w26q-c636] OpenClaw has ReDoS and regex injection via unescaped Feishu mention metadata in RegExp construction,https://github.com/advisories/GHSA-c6hr-w26q-c636,https://da.gd/bQvEj
+GithubAdvisories,[GHSA-5f9p-f3w2-fwch] OpenClaw macOS companion app (beta): allowlist parsing mismatch for system.run shell chains,https://github.com/advisories/GHSA-5f9p-f3w2-fwch,https://da.gd/NuTWy
+GithubAdvisories,[GHSA-5v6x-rfc3-7qfr] OpenClaw has Windows system.run approval mismatch on cmd.exe /c trailing arguments,https://github.com/advisories/GHSA-5v6x-rfc3-7qfr,https://da.gd/aMNQtI
+GithubAdvisories,[GHSA-wm8r-w8pf-2v6w] OpenClaw has Signal group allowlist authorization bypass via DM pairing-store leakage,https://github.com/advisories/GHSA-wm8r-w8pf-2v6w,https://da.gd/Xd4wEC
+GithubAdvisories,[GHSA-8986-v76q-8vr2] @keep-network/tbtc-v2 revealing P2PKH deposit with a wrapped P2SH script,https://github.com/advisories/GHSA-8986-v76q-8vr2,https://da.gd/bnyCS
