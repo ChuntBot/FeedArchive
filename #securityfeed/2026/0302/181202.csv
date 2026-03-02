@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2j3p-gqw5-g59j] theshit's Improper Privilege Dropping Allows Local Privilege Escalation via Command Re-execution,https://github.com/advisories/GHSA-2j3p-gqw5-g59j,https://da.gd/kDmNjp
