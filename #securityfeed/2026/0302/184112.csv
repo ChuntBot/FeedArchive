@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5pmp-jpcf-pwx6] `tracing-check` was removed from crates.io for malicious code,https://github.com/advisories/GHSA-5pmp-jpcf-pwx6,https://da.gd/LnvWzK
+GithubAdvisories,[GHSA-cr4v-6jm6-4963] OpenEXR's CompositeDeepScanLine integer-overflow leads to heap OOB write,https://github.com/advisories/GHSA-cr4v-6jm6-4963,https://da.gd/fB7y2
