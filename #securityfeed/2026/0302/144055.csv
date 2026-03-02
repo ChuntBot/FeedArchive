@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r4wm-x892-vjmx] Nest has a Fastify URL Encoding Middleware Bypass,https://github.com/advisories/GHSA-r4wm-x892-vjmx,https://da.gd/n31sng
+GithubAdvisories,[GHSA-7q64-3rg2-h9pf] Duplicate Advisory: Nest has a Fastify URL Encoding Middleware Bypass,https://github.com/advisories/GHSA-7q64-3rg2-h9pf,https://da.gd/3mhxW
+GithubAdvisories,[GHSA-j383-j4m3-9c75] Malware in chai-vest,https://github.com/advisories/GHSA-j383-j4m3-9c75,https://da.gd/m5Jqq3
+GithubAdvisories,[GHSA-m3qj-483q-v65m] Malware in js-nodecat,https://github.com/advisories/GHSA-m3qj-483q-v65m,https://da.gd/iiYCH
