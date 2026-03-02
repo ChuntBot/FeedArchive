@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xw4p-pw82-hqr7] OpenClaw's sandbox skill mirroring path traversal vulnerability could write outside the sandbox workspace,https://github.com/advisories/GHSA-xw4p-pw82-hqr7,https://da.gd/DzWem
+GithubAdvisories,[GHSA-jmm5-fvh5-gf4p] OpenClaw has non-constant-time token comparison in hooks authentication,https://github.com/advisories/GHSA-jmm5-fvh5-gf4p,https://da.gd/9UGB0i
+GithubAdvisories,[GHSA-47q7-97xp-m272] OpenClaw: Config writes could persist resolved ${VAR} secrets to disk,https://github.com/advisories/GHSA-47q7-97xp-m272,https://da.gd/skePZ
+GithubAdvisories,[GHSA-p25h-9q54-ffvw] OpenClaw has Zip Slip path traversal in tar archive extraction,https://github.com/advisories/GHSA-p25h-9q54-ffvw,https://da.gd/vSWRFQ
+GithubAdvisories,[GHSA-fgvx-58p6-gjwc] OpenClaw gateway agents.files symlink escape allowed out-of-workspace file read/write,https://github.com/advisories/GHSA-fgvx-58p6-gjwc,https://da.gd/Y7uPPv
+GithubAdvisories,[GHSA-hjvp-qhm6-wrh2] OpenClaw Node system.run approval context-binding weakness in approval-enabled host=node flows,https://github.com/advisories/GHSA-hjvp-qhm6-wrh2,https://da.gd/F6p27K
+GithubAdvisories,"[GHSA-mfg5-7q5g-f37j] OpenClaw voice-call media stream validated streams after upgrade, which could allow pre-start unauthenticated sockets to increase resource pressure",https://github.com/advisories/GHSA-mfg5-7q5g-f37j,https://da.gd/A6Estk
