@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vx5p-q85x-xm3c] NocoDB has Stored Cross-site Scripting via Formula Cell,https://github.com/advisories/GHSA-vx5p-q85x-xm3c,https://da.gd/ZKSpN
+GithubAdvisories,[GHSA-xvp8-3mhv-424c] lxml-html-clean has tag injection through default Cleaner configuration,https://github.com/advisories/GHSA-xvp8-3mhv-424c,https://da.gd/cgXIKp
+GithubAdvisories,[GHSA-hw26-mmpg-fqfg] lxml-html-clean has CSS @import Filter Bypass via Unicode Escapes,https://github.com/advisories/GHSA-hw26-mmpg-fqfg,https://da.gd/KBjj
