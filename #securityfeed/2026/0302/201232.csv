@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p9x3-w98f-7j3q] NocoDB Missing Ownership Validation in MCP Token Operations,https://github.com/advisories/GHSA-p9x3-w98f-7j3q,https://da.gd/PltNw
+GithubAdvisories,[GHSA-x4vh-j75g-268g] NocoDB's Refresh Tokens Not Revoked on Password Reset,https://github.com/advisories/GHSA-x4vh-j75g-268g,https://da.gd/XKD573
+GithubAdvisories,[GHSA-mpp2-x7wv-38hv] NocoDB has Plaintext Storage of Shared View Passwords,https://github.com/advisories/GHSA-mpp2-x7wv-38hv,https://da.gd/WFkNY9
+GithubAdvisories,[GHSA-qxwq-q265-hc44] NocoDB Vulnerable to Stored Cross-site Scripting via Rich Text Field,https://github.com/advisories/GHSA-qxwq-q265-hc44,https://da.gd/Oen9gX
+GithubAdvisories,[GHSA-387m-j3p9-3php] NocoDB Vulnerable to User Enumeration via Password Reset Endpoint,https://github.com/advisories/GHSA-387m-j3p9-3php,https://da.gd/36tyoy
