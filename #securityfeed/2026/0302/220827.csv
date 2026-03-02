@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7rp8-r62p-q6wc] `melange update-cache` has unbounded HTTP download that can exhaust disk in CI,https://github.com/advisories/GHSA-7rp8-r62p-q6wc,https://da.gd/gpXmaw
+GithubAdvisories,[GHSA-9m86-7pmv-2852] pypdf vulnerable to inefficient decoding of ASCIIHexDecode streams,https://github.com/advisories/GHSA-9m86-7pmv-2852,https://da.gd/oWuyU
+GithubAdvisories,"[GHSA-q399-23r3-hfx4] OpenClaw: system.run approvals did not bind PATH-token executable identity, enabling post-approval executable rebind",https://github.com/advisories/GHSA-q399-23r3-hfx4,https://da.gd/R68nja
+GithubAdvisories,[GHSA-g99v-8hwm-g76g] OpenClaw has web_search citation redirect SSRF via private-network-allowing policy,https://github.com/advisories/GHSA-g99v-8hwm-g76g,https://da.gd/kNKfeC
+GithubAdvisories,[GHSA-jr6x-2q95-fh2g] OpenClaw's authorization mismatch allowed write-scope agent runs to reach owner-only tools,https://github.com/advisories/GHSA-jr6x-2q95-fh2g,https://da.gd/pfbBf5
+GithubAdvisories,[GHSA-7xmq-g46g-f8pv] OpenClaw: Sandbox media TOCTOU could read files outside sandbox root,https://github.com/advisories/GHSA-7xmq-g46g-f8pv,https://da.gd/5ojHB
+GithubAdvisories,[GHSA-x82f-27x3-q89c] OpenClaw's TOCTOU symlink race in writeFileWithinRoot could create or truncate files outside root boundaries,https://github.com/advisories/GHSA-x82f-27x3-q89c,https://da.gd/gURRVJ
+GithubAdvisories,[GHSA-6f6j-wx9w-ff4j] CpenClaw's ACPX Windows wrapper shell fallback allowed cwd injection in specific paths,https://github.com/advisories/GHSA-6f6j-wx9w-ff4j,https://da.gd/u93B
+GithubAdvisories,[GHSA-8m9v-xpgf-g99m] OpenClaw has an unauthorized sender bypass in its stop triggers and /models command authorization,https://github.com/advisories/GHSA-8m9v-xpgf-g99m,https://da.gd/qTReL
+GithubAdvisories,[GHSA-p7gr-f84w-hqg5] OpenClaw's sandboxed sessions_spawn now enforces sandbox inheritance for cross-agent spawns,https://github.com/advisories/GHSA-p7gr-f84w-hqg5,https://da.gd/ZwlWmF
+GithubAdvisories,[GHSA-wr6m-jg37-68xh] OpenClaw has unbounded memory growth in Zalo webhook via query-string key churn (unauthenticated DoS),https://github.com/advisories/GHSA-wr6m-jg37-68xh,https://da.gd/Ayr24
+GithubAdvisories,[GHSA-392f-ggf5-fp3c] OpenClaw: Unicode canonicalization drift in node metadata policy classification could broaden node allowlists,https://github.com/advisories/GHSA-392f-ggf5-fp3c,https://da.gd/CkUsXk
+GithubAdvisories,[GHSA-vpj2-69hf-rppw] OpenClaw: Browser control startup could continue unauthenticated after auth bootstrap failure,https://github.com/advisories/GHSA-vpj2-69hf-rppw,https://da.gd/PaoK4
+GithubAdvisories,[GHSA-vmwq-8g8c-jm79] OpenChatBI has a Path Traversal Vulnerability in save_report Tool,https://github.com/advisories/GHSA-vmwq-8g8c-jm79,https://da.gd/mo6eg
+GithubAdvisories,[GHSA-m272-9rp6-32mc] `@orpc/client` has Prototype Pollution via `StandardRPCJsonSerializer` Deserialization,https://github.com/advisories/GHSA-m272-9rp6-32mc,https://da.gd/ohKI0
+GithubAdvisories,[GHSA-4fqm-6fmh-82mq] OliveTin has Unauthenticated Action Termination via KillAction When Guests Must Login,https://github.com/advisories/GHSA-4fqm-6fmh-82mq,https://da.gd/7GB4C
+GithubAdvisories,[GHSA-45m3-398w-m2m9] OliveTin has unauthenticated DoS via concurrent map writes in OAuth2 state handling,https://github.com/advisories/GHSA-45m3-398w-m2m9,https://da.gd/R4rK7
+GithubAdvisories,[GHSA-p9x5-jp3h-96mm] Qwik vulnerable to Unauthenticated RCE via server$ Deserialization,https://github.com/advisories/GHSA-p9x5-jp3h-96mm,https://da.gd/f18Ky
+GithubAdvisories,"[GHSA-gjjc-pcwp-c74m] OneUptime has WebAuthn 2FA bypass: server accepts client-supplied challenge instead of server-stored value, allowing credential replay",https://github.com/advisories/GHSA-gjjc-pcwp-c74m,https://da.gd/MiAbs
