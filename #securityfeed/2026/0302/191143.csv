@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pc8g-78pf-4xrp] OliveTin has Unauthenticated Denial of Service via Memory Exhaustion in PasswordHash API Endpoint,https://github.com/advisories/GHSA-pc8g-78pf-4xrp,https://da.gd/35LbaX
+GithubAdvisories,[GHSA-54p8-x2m9-c593] malcontent: Error-path cleanup gap can leak scanners and fds and degrade availability,https://github.com/advisories/GHSA-54p8-x2m9-c593,https://da.gd/p0Mja8
+GithubAdvisories,[GHSA-w5r5-m38g-f9f9] joserfc's PBES2 p2c Unbounded Iteration Count enables Denial of Service (DoS),https://github.com/advisories/GHSA-w5r5-m38g-f9f9,https://da.gd/CdLNgr
