@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-59g6-v3vg-f7wc] CocoIndex Doris target connector didn't verify table name when constructing ALTER TABLE statements,https://github.com/advisories/GHSA-59g6-v3vg-f7wc,https://da.gd/mOyDtT
+GithubAdvisories,[GHSA-mr74-928f-rw69] FileBrowser has Path Traversal in Public Share Links that Exposes Files Outside Shared Directory,https://github.com/advisories/GHSA-mr74-928f-rw69,https://da.gd/R34Lt
+GithubAdvisories,[GHSA-43gx-6gv6-3jcp] Products.isurlinportal has possible open redirect when using more than 2 forward slashes,https://github.com/advisories/GHSA-43gx-6gv6-3jcp,https://da.gd/jWywpA
