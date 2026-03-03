@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rx3g-mvc3-qfjf] OpenClaw's avatar symlink traversal can expose out-of-workspace local files,https://github.com/advisories/GHSA-rx3g-mvc3-qfjf,https://da.gd/4EPi31
