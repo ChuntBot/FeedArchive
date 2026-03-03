@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[SOGo] Build SOGo from source with security patches,https://github.com/mailcow/mailcow-dockerized/commit/7562578b74f37e24efea8cbfc57eff6bae65163c,https://da.gd/BnSd
+GithubCommitStaging,sogo: shrinked image file by ~50%,https://github.com/mailcow/mailcow-dockerized/commit/d9463c79507140cd5814a8b1b42610f93db77a5e,https://da.gd/wch8T
+GithubCommitStaging,Merge pull request #6912 from cjlapao/feat-acme-dns,https://github.com/mailcow/mailcow-dockerized/commit/b6959362737f8fbe96fee253c5b28c30cf024b61,https://da.gd/lqEfj
+GithubCommitStaging,Merge pull request #7086 from mailcow/feat/sogo-build,https://github.com/mailcow/mailcow-dockerized/commit/4abb5cbfabf7245e04a0e8a213a95d49d58e6b22,https://da.gd/lgWr9Q
+GithubCommitStaging,[Web] Add missing EAS and DAV protocol options to mailbox bulk actions,https://github.com/mailcow/mailcow-dockerized/commit/d40252cccee1c5674acd67d5db2266ed5b928b7c,https://da.gd/rSW5Ns
+GithubCommitStaging,Merge pull request #7088 from mailcow/fix/7043,https://github.com/mailcow/mailcow-dockerized/commit/bccfcefd1773e491ac99a9d44649b6d59ee97055,https://da.gd/VwRT1c
