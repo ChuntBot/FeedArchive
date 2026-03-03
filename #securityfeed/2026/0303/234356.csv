@@ -1,0 +1,45 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gq83-8q7q-9hfx] OpenClaw's serialize sandbox registry writes to prevent races and delete-rollback corruption,https://github.com/advisories/GHSA-gq83-8q7q-9hfx,https://da.gd/mV55S
+GithubAdvisories,[GHSA-rv2q-f2h5-6xmg] OpenClaw's Node role device-identity bypass allows unauthorized node.event injection,https://github.com/advisories/GHSA-rv2q-f2h5-6xmg,https://da.gd/2hyk5
+GithubAdvisories,[GHSA-2ch6-x3g4-7759] OpenClaw's commands.allowFrom sender authorization accepted conversation identifiers via ctx.From,https://github.com/advisories/GHSA-2ch6-x3g4-7759,https://da.gd/Zwd61f
+GithubAdvisories,[GHSA-fg3m-vhrr-8gj6] OpenClaw has Windows Lobster shell fallback command injection in constrained fallback path,https://github.com/advisories/GHSA-fg3m-vhrr-8gj6,https://da.gd/DOmHk6
+GithubAdvisories,[GHSA-534w-2vm4-89xr] OpenClaw's Zalo group sender allowlist bypass permits unauthorized GROUP dispatch,https://github.com/advisories/GHSA-534w-2vm4-89xr,https://da.gd/SvmCi9
+GithubAdvisories,[GHSA-cjv3-m589-v3rx] OpenClaw has Canvas route hardening for mixed-trust deployments,https://github.com/advisories/GHSA-cjv3-m589-v3rx,https://da.gd/PHfv
+GithubAdvisories,[GHSA-jj82-76v6-933r] OpenClaw's exec allowlist wrapper analysis did not unwrap env/shell dispatch chains,https://github.com/advisories/GHSA-jj82-76v6-933r,https://da.gd/nTFpb
+GithubAdvisories,[GHSA-wpph-cjgr-7c39] OpenClaw's typed sender-key matching for toolsBySender prevents identity-collision policy bypass,https://github.com/advisories/GHSA-wpph-cjgr-7c39,https://da.gd/oF9yZ
+GithubAdvisories,"[GHSA-792q-qw95-f446] OpenClaw's Signal reaction-only status events could, in limited cases, be enqueued before access checks",https://github.com/advisories/GHSA-792q-qw95-f446,https://da.gd/R0M3mI
+GithubAdvisories,[GHSA-m8v2-6wwh-r4gc] OpenClaw's sandbox bind validation could bypass allowed-root and blocked-path checks via symlink-parent missing-leaf paths,https://github.com/advisories/GHSA-m8v2-6wwh-r4gc,https://da.gd/8qbtAv
+GithubAdvisories,[GHSA-jxrq-8fm4-9p58] OpenClaw: Zip extraction symlink traversal could write outside destination,https://github.com/advisories/GHSA-jxrq-8fm4-9p58,https://da.gd/WrsMY9
+GithubAdvisories,[GHSA-r9q5-c7qc-p26w] OpenClaw's Nextcloud Talk webhook replay could trigger duplicate inbound processing,https://github.com/advisories/GHSA-r9q5-c7qc-p26w,https://da.gd/LNJmtH
+GithubAdvisories,[GHSA-8mf7-vv8w-hjr2] OpenClaw's tools.exec.safeBins generic fallback allowed interpreter-style inline payload execution in allowlist mode,https://github.com/advisories/GHSA-8mf7-vv8w-hjr2,https://da.gd/AefVKy
+GithubAdvisories,"[GHSA-gw85-xp4q-5gp9] OpenClaw's Synology Chat dmPolicy=allowlist failed open on empty allowedUserIds, allowing unauthorized agent dispatch",https://github.com/advisories/GHSA-gw85-xp4q-5gp9,https://da.gd/whhEX
+GithubAdvisories,[GHSA-v6x2-2qvm-6gv8] OpenClaw reuses the gateway auth token in the owner ID prompt hashing fallback,https://github.com/advisories/GHSA-v6x2-2qvm-6gv8,https://da.gd/ojsj
+GithubAdvisories,[GHSA-659f-22xc-98f2] OpenClaw hook transform path containment missed symlink-resolved escapes,https://github.com/advisories/GHSA-659f-22xc-98f2,https://da.gd/1BBEK
+GithubAdvisories,"[GHSA-4gc7-qcvf-38wg] In OpenClaw, manually adding sort to tools.exec.safeBins could bypass allowlist approval via --compress-program",https://github.com/advisories/GHSA-4gc7-qcvf-38wg,https://da.gd/qCxvC
+GithubAdvisories,[GHSA-25pw-4h6w-qwvm] OpenClaw has a BlueBubbles group allowlist mismatch via DM pairing-store fallback,https://github.com/advisories/GHSA-25pw-4h6w-qwvm,https://da.gd/e93Fz6
+GithubAdvisories,[GHSA-gcj7-r3hg-m7w6] OpenClaw's voice-call Twilio replay dedupe now bound to authenticated webhook identity,https://github.com/advisories/GHSA-gcj7-r3hg-m7w6,https://da.gd/9JoRI
+GithubAdvisories,[GHSA-w7j5-j98m-w679] OpenClaw has multiple E2E/test Dockerfiles that run all processes as root,https://github.com/advisories/GHSA-w7j5-j98m-w679,https://da.gd/neuMx
+GithubAdvisories,[GHSA-796m-2973-wc5q] OpenClaw has exec allowlist/safeBins policy-runtime mismatch via env -S wrapper interpretation,https://github.com/advisories/GHSA-796m-2973-wc5q,https://da.gd/RNtV
+GithubAdvisories,[GHSA-7qf6-h84j-8fq4] OpenClaw: Microsoft Teams media fetch paths bypass shared SSRF guard model,https://github.com/advisories/GHSA-7qf6-h84j-8fq4,https://da.gd/mmtA
+GithubAdvisories,[GHSA-jmmg-jqc7-5qf4] OpenClaw's browser-origin WebSocket auth hardening gap could enable loopback password brute-force chains,https://github.com/advisories/GHSA-jmmg-jqc7-5qf4,https://da.gd/XnbQbe
+GithubAdvisories,[GHSA-2rgf-hm63-5qph] OpenClaw improperly parses X-Forwarded-For behind trusted proxies allows client IP spoofing in security decisions,https://github.com/advisories/GHSA-2rgf-hm63-5qph,https://da.gd/1toIh
+GithubAdvisories,[GHSA-7ff8-xjh3-mgh6] OpenClaw's non-default autoAllowSkills setting could bypass on-miss exec prompt,https://github.com/advisories/GHSA-7ff8-xjh3-mgh6,https://da.gd/TP8zv
+GithubAdvisories,[GHSA-xgf2-vxv2-rrmg] OpenClaw's shell startup env injection bypasses system.run allowlist intent (RCE class),https://github.com/advisories/GHSA-xgf2-vxv2-rrmg,https://da.gd/TTIui
+GithubAdvisories,[GHSA-62f6-mrcj-v8h5] OpenClaw's runtime /debug override path accepted prototype-reserved keys,https://github.com/advisories/GHSA-62f6-mrcj-v8h5,https://da.gd/gYXJjp
+GithubAdvisories,[GHSA-27cr-4p5m-74rj] OpenClaw has a workspace-only sandbox guard mismatch for @-prefixed absolute paths,https://github.com/advisories/GHSA-27cr-4p5m-74rj,https://da.gd/fDKzL9
+GithubAdvisories,[GHSA-w9cg-v44m-4qv8] OpenClaw affected by BASH_ENV / ENV startup-file injection into spawned shell commands,https://github.com/advisories/GHSA-w9cg-v44m-4qv8,https://da.gd/SaCKL
+GithubAdvisories,[GHSA-r294-2894-92j3] OpenClaw has stored XSS in exported session HTML viewer via markdown/raw-HTML rendering,https://github.com/advisories/GHSA-r294-2894-92j3,https://da.gd/5atK
+GithubAdvisories,[GHSA-xmv6-r34m-62p4] OpenClaw: Sandbox media fallback tmp symlink alias bypass allows host file reads outside sandboxRoot,https://github.com/advisories/GHSA-xmv6-r34m-62p4,https://da.gd/7SUDv
+GithubAdvisories,[GHSA-g75x-8qqm-2vxp] OpenClaw's `tools.exec.safeBins` PATH-hijack allowed trojan binaries to bypass allowlist checks,https://github.com/advisories/GHSA-g75x-8qqm-2vxp,https://da.gd/Ooc3Z
+GithubAdvisories,[GHSA-vffc-f7r7-rx2w] OpenClaw Improperly Neutralizes Line Breaks in systemd Unit Generation Enables Local Command Execution (Linux),https://github.com/advisories/GHSA-vffc-f7r7-rx2w,https://da.gd/wVoEA
+GithubAdvisories,[GHSA-vvgp-4c28-m3jm] OpenClaw has a Trusted-proxy Control UI pairing bypass which allows unpaired node sessions,https://github.com/advisories/GHSA-vvgp-4c28-m3jm,https://da.gd/hAldyP
+GithubAdvisories,[GHSA-v3j7-34xh-6g3w] OpenClaw Loopback CDP probe can leak Gateway token to local listener,https://github.com/advisories/GHSA-v3j7-34xh-6g3w,https://da.gd/DDdyg
+GithubAdvisories,[GHSA-pj5x-38rw-6fph] OpenClaw has a Command Injection via unescaped environment assignments in Windows Scheduled Task script generation,https://github.com/advisories/GHSA-pj5x-38rw-6fph,https://da.gd/7dQsa
+GithubAdvisories,[GHSA-4cqv-h74h-93j4] OpenClaw has a Discord `allowFrom` slug-collision authorization bypass,https://github.com/advisories/GHSA-4cqv-h74h-93j4,https://da.gd/VXpiH
+GithubAdvisories,[GHSA-3cvx-236h-m9fj] OpenClaw has an opt-in insecure Control UI auth over plaintext HTTP could allow privileged access,https://github.com/advisories/GHSA-3cvx-236h-m9fj,https://da.gd/bn7D25
+GithubAdvisories,[GHSA-h97f-6pqj-q452] OpenClaw has a IPv6 multicast SSRF classifier bypass,https://github.com/advisories/GHSA-h97f-6pqj-q452,https://da.gd/z2yV
+GithubAdvisories,[GHSA-3x3x-h76w-hp98] OpenClaw exec allowlist safeBins short-option bypass could permit arbitrary file write,https://github.com/advisories/GHSA-3x3x-h76w-hp98,https://da.gd/m2E7F
+GithubAdvisories,[GHSA-pfv7-rr5m-qmv6] OpenClaw has auth inconsistency on local Browser Extension Relay /extension endpoint,https://github.com/advisories/GHSA-pfv7-rr5m-qmv6,https://da.gd/lOcZN7
+GithubAdvisories,[GHSA-3c6h-g97w-fg78] OpenClaw's tools.exec.safeBins sort long-option abbreviation bypass can skip exec approval in allowlist mode,https://github.com/advisories/GHSA-3c6h-g97w-fg78,https://da.gd/JW7YPo
+GithubAdvisories,[GHSA-j4xf-96qf-rx69] OpenClaw has a Feishu allowFrom authorization bypass via display-name collision,https://github.com/advisories/GHSA-j4xf-96qf-rx69,https://da.gd/ZgbnG
+GithubAdvisories,[GHSA-9p38-94jf-hgjj] OpenClaw has macOS `system.run` allowlist bypass via quoted command substitution,https://github.com/advisories/GHSA-9p38-94jf-hgjj,https://da.gd/P0ugR
