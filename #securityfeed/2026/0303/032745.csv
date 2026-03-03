@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian DSA-6154-1 PHP 8.2 Critical Denial of Service Memory Disclosure,https://linuxsecurity.com/advisories/debian/debian-dsa-6154-1-php8-2,https://da.gd/LWtOU
+LinuxSecurity,SUSE Linux Enterprise 15 SP7 Kernel Page Pool DoS Vulnerability 2026-0748-1,https://linuxsecurity.com/advisories/suse/kernel-suse-2026-0748-1,https://da.gd/jhZtd
+LinuxSecurity,Debian 11 firefox-esr Critical Advisory DLA-4496-1 CVE-2026-2757,https://linuxsecurity.com/advisories/deblts/debian-dla-4496-1-firefox-esr,https://da.gd/ryHasB
+LinuxSecurity,openSUSE Leap 16.0 python-azure-core Important Code Exec Fix 2026-20292-1,https://linuxsecurity.com/advisories/opensuse/python-azure-core-opensuse-2026-20292-1,https://da.gd/D4bM5
+LinuxSecurity,openSUSE Leap 16.0 fluidsynth Important NULL Pointer Issue CVE-2025-56225,https://linuxsecurity.com/advisories/opensuse/fluidsynth-opensuse-2026-20291-1,https://da.gd/PWa0Ba
+LinuxSecurity,openSUSE Leap 16.0 haproxy Moderate DoS Issues 2026-20290-1,https://linuxsecurity.com/advisories/opensuse/haproxy-opensuse-2026-20290-1,https://da.gd/MZnJl
