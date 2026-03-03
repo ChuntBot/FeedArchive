@@ -1,0 +1,23 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-65p9-r9h6-22vj] AWS-LC has Timing Side-Channel in AES-CCM Tag Verification,https://github.com/advisories/GHSA-65p9-r9h6-22vj,https://da.gd/zPonIi
+GithubAdvisories,[GHSA-vw5v-4f2q-w9xf] AWS-LC has PKCS7_verify Certificate Chain Validation Bypass,https://github.com/advisories/GHSA-vw5v-4f2q-w9xf,https://da.gd/xhKol
+GithubAdvisories,[GHSA-5whh-4q9j-7v28] aws-kms-tls-auth vulnerable to memory overallocation,https://github.com/advisories/GHSA-5whh-4q9j-7v28,https://da.gd/nU4L
+GithubAdvisories,[GHSA-g38g-8gr9-h9xp] PickleScan has multiple stdlib modules with direct RCE not in blocklist,https://github.com/advisories/GHSA-g38g-8gr9-h9xp,https://da.gd/asLEz
+GithubAdvisories,[GHSA-vvpj-8cmc-gx39] PickleScan's pkgutil.resolve_name has a universal blocklist bypass,https://github.com/advisories/GHSA-vvpj-8cmc-gx39,https://da.gd/DC4Cmq
+GithubAdvisories,[GHSA-7wx9-6375-f5wh] PickleScan's profile.run blocklist mismatch allows exec() bypass,https://github.com/advisories/GHSA-7wx9-6375-f5wh,https://da.gd/GF9T4
+GithubAdvisories,[GHSA-9j26-99jh-v26q] WWBN AVideo is vulnerable to unauthenticated OS Command Injection via base64Url in objects/getImage.php,https://github.com/advisories/GHSA-9j26-99jh-v26q,https://da.gd/42Pan6
+GithubAdvisories,[GHSA-cgc2-rcrh-qr5x] Ghost Vulnerable to Remote Code Execution via Malicious Themes,https://github.com/advisories/GHSA-cgc2-rcrh-qr5x,https://da.gd/33Abdv
+GithubAdvisories,[GHSA-x9cf-3w63-rpq9] OpenClaw vulnerable to sensitive file disclosure via stageSandboxMedia,https://github.com/advisories/GHSA-x9cf-3w63-rpq9,https://da.gd/YqA8V4
+GithubAdvisories,[GHSA-56pc-6hvp-4gv4] OpenClaw vulnerable to arbitrary file read via $include directive,https://github.com/advisories/GHSA-56pc-6hvp-4gv4,https://da.gd/yheGab
+GithubAdvisories,[GHSA-9868-vxmx-w862] OpenClaw's system.run allowlist bypass via shell line-continuation command substitution,https://github.com/advisories/GHSA-9868-vxmx-w862,https://da.gd/vJOut
+GithubAdvisories,[GHSA-8fmp-37rc-p5g7] OpenClaw's config env vars allowed startup env injection into service runtime,https://github.com/advisories/GHSA-8fmp-37rc-p5g7,https://da.gd/qcX9nO
+GithubAdvisories,[GHSA-f8mp-vj46-cq8v] OpenClaw's shell env fallback trusts unvalidated SHELL path from host environment,https://github.com/advisories/GHSA-f8mp-vj46-cq8v,https://da.gd/D38Di
+GithubAdvisories,[GHSA-qhrr-grqp-6x2g] OpenClaw's tools.exec.safeBins trusted PATH directories allowed binary shadowing in allowlist mode,https://github.com/advisories/GHSA-qhrr-grqp-6x2g,https://da.gd/bXGFU
+GithubAdvisories,[GHSA-rm2p-j3r7-4x4j] OpenClaw's Slack reaction/pin sender-policy consistency issue in non-message ingress,https://github.com/advisories/GHSA-rm2p-j3r7-4x4j,https://da.gd/nLPpM
+GithubAdvisories,[GHSA-6rcp-vxwf-3mfp] OpenClaw's system.run shell-wrapper positional argv carriers could execute hidden commands under misleading approval text,https://github.com/advisories/GHSA-6rcp-vxwf-3mfp,https://da.gd/0RZ27n
+GithubAdvisories,[GHSA-mwcg-wfq3-4gjc] OpenClaw's system.run approval TOCTOU via mutable symlink cwd target on node host,https://github.com/advisories/GHSA-mwcg-wfq3-4gjc,https://da.gd/USj3z
+GithubAdvisories,[GHSA-25gx-x37c-7pph] OpenClaw's andbox browser noVNC observer lacked VNC authentication,https://github.com/advisories/GHSA-25gx-x37c-7pph,https://da.gd/101bC
+GithubAdvisories,[GHSA-jv6r-27ww-4gw4] OpenClaw DM pairing-store identities could satisfy group allowlist authorization,https://github.com/advisories/GHSA-jv6r-27ww-4gw4,https://da.gd/Mzhix
+GithubAdvisories,[GHSA-ccg8-46r6-9qgj] OpenClaw's dispatch-wrapper depth-cap mismatch can bypass shell-wrapper approval gating in system.run allowlist mode,https://github.com/advisories/GHSA-ccg8-46r6-9qgj,https://da.gd/uzJuHK
+GithubAdvisories,[GHSA-vqx8-9xxw-f2m7] OpenClaw's voice-call Twilio webhook replay could bypass manager dedupe because normalized event IDs were randomized per parse,https://github.com/advisories/GHSA-vqx8-9xxw-f2m7,https://da.gd/FSp2SZ
+GithubAdvisories,[GHSA-3xfw-4pmr-4xc5] OpenClaw safeBins grep -e File Read Bypass (stdin-only policy bypass),https://github.com/advisories/GHSA-3xfw-4pmr-4xc5,https://da.gd/bUk5B7
