@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qc86-q28f-ggww] Craft CMS has potential authenticated Remote Code Execution via Twig SSTI,https://github.com/advisories/GHSA-qc86-q28f-ggww,https://da.gd/XHLSKy
+GithubAdvisories,[GHSA-jxm3-pmm2-9gf6] Craft CMS has Permission Bypass and IDOR in Duplicate Entry Action,https://github.com/advisories/GHSA-jxm3-pmm2-9gf6,https://da.gd/o35u8
+GithubAdvisories,[GHSA-5fvc-7894-ghp4] Craft CMS has Twig Function Blocklist Bypass,https://github.com/advisories/GHSA-5fvc-7894-ghp4,https://da.gd/Mt7qBg
+GithubAdvisories,[GHSA-2xfc-g69j-x2mp] Craft CMS: Entries Authorship Spoofing via Mass Assignment,https://github.com/advisories/GHSA-2xfc-g69j-x2mp,https://da.gd/uOzq
+GithubAdvisories,"[GHSA-v47q-jxvr-p68x] Craft CMS Vulnerable to Authenticated RCE via ""craft.app.fs.write()"" in Twig Templates",https://github.com/advisories/GHSA-v47q-jxvr-p68x,https://da.gd/jAc2
+GithubAdvisories,[GHSA-wwp2-x4rj-j8rm] NocoDB Vulnerable to Stored Cross-Site Scripting via Rich Text Cells,https://github.com/advisories/GHSA-wwp2-x4rj-j8rm,https://da.gd/GEnup
+GithubAdvisories,[GHSA-rcph-x7mj-54mm] NocoDB Vulnerable to Stored Cross-site Scripting via Comments,https://github.com/advisories/GHSA-rcph-x7mj-54mm,https://da.gd/Vza0Ph
+GithubAdvisories,[GHSA-45rp-9p97-h852] NocoDB Vulnerable to SQL Injection via DATEADD Formula,https://github.com/advisories/GHSA-45rp-9p97-h852,https://da.gd/nxEXVl
+GithubAdvisories,[GHSA-8vm4-g489-v3w7] NocoDB Vulnerable to Stored Cross-Site Scripting via Comments and Rich Text Cells,https://github.com/advisories/GHSA-8vm4-g489-v3w7,https://da.gd/zHatCT
+GithubAdvisories,[GHSA-4mgv-366x-qxvx] Craft CMS Vulnerable to Stored XSS in Settings Names and Field Options,https://github.com/advisories/GHSA-4mgv-366x-qxvx,https://da.gd/Z5H7xS
