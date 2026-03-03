@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Update dependency composer/composer to v2.9.5,https://github.com/mailcow/mailcow-dockerized/commit/075959aea939456a5df76c98b3c524a7c5843500,https://da.gd/sSEys
+GithubCommitStaging,check_dns: better time measurement,https://github.com/mailcow/mailcow-dockerized/commit/1c52eaa3a4123f019154ad732077736169fc98a8,https://da.gd/kWxq22
+GithubCommitStaging,[Web] Add fail2ban logging to passwordless autodiscover endpoint,https://github.com/mailcow/mailcow-dockerized/commit/af61e2d3033c070040703982ba9fda732e0f2e7d,https://da.gd/R2J7wn
+GithubCommitStaging,Merge pull request #6976 from mailcow/fix/autodiscover-passwordless,https://github.com/mailcow/mailcow-dockerized/commit/609ce6b0d6d0ffd0bf705392aa08297710da8f4f,https://da.gd/CVfRau
+GithubCommitStaging,Merge pull request #6695 from maxi322/feature/check_dns_improvement,https://github.com/mailcow/mailcow-dockerized/commit/ba0eb04ebedd9aa8ecb1d7c261eb823f0c0dc012,https://da.gd/nP0uB
+GithubCommitStaging,Merge pull request #6457 from mailcow/renovate/composer-composer-2.x,https://github.com/mailcow/mailcow-dockerized/commit/1967cb642fed370b368e333f053dd682f2fe4958,https://da.gd/BGb0
