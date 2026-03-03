@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7x43-mpfg-r9wj] Craft CMS has IDOR via GraphQL @parseRefs,https://github.com/advisories/GHSA-7x43-mpfg-r9wj,https://da.gd/pQePo
+GithubAdvisories,[GHSA-94rc-cqvm-m4pw] Craft CMS Vulnerable to Authenticated RCE via Twig SSTI - create() function + Symfony Process gadget,https://github.com/advisories/GHSA-94rc-cqvm-m4pw,https://da.gd/V8JpfX
+GithubAdvisories,[GHSA-hfpc-8r3f-gw53] AWS-LC has PKCS7_verify Signature Validation Bypass,https://github.com/advisories/GHSA-hfpc-8r3f-gw53,https://da.gd/wCICc
