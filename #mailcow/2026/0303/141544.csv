@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] switch from GET to POST for datatable requests,https://github.com/mailcow/mailcow-dockerized/commit/43f570e7617dd5925915c05a6f87b1d3a2630dd1,https://da.gd/Tj3Awz
+GithubCommitStaging,Merge pull request #7089 from mailcow/fix/7039,https://github.com/mailcow/mailcow-dockerized/commit/ddc2309f1e03da1e7228db3a0cbf8cc6207a2b71,https://da.gd/t534
