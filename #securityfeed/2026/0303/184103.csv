@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2ww6-868g-2c56] OpenClaw Vulnerable to HTML injection via unvalidated image MIME type in data-URL interpolation,https://github.com/advisories/GHSA-2ww6-868g-2c56,https://da.gd/qJP3Ki
+GithubAdvisories,[GHSA-33hm-cq8r-wc49] Temporary path handling could write outside OpenClaw temp boundary,https://github.com/advisories/GHSA-33hm-cq8r-wc49,https://da.gd/kD1uF
+GithubAdvisories,[GHSA-43x4-g22p-3hrq] OpenClaw: Chrome --no-sandbox disabled OS-level browser sandbox in sandbox browser container,https://github.com/advisories/GHSA-43x4-g22p-3hrq,https://da.gd/Cs9I
+GithubAdvisories,[GHSA-w76h-8m22-hpgh] OpenClaw's MSTeams attachment redirect handling could bypass configured media host allowlists,https://github.com/advisories/GHSA-w76h-8m22-hpgh,https://da.gd/nKShK
+GithubAdvisories,[GHSA-7xhj-55q9-pc3m] OpenClaw's hook transform module path allows traversal and arbitrary JavaScript module loading,https://github.com/advisories/GHSA-7xhj-55q9-pc3m,https://da.gd/UkBcZ
+GithubAdvisories,[GHSA-7fcc-cw49-xm78] OpenClaw has command injection via Windows shell fallback in Lobster tool execution,https://github.com/advisories/GHSA-7fcc-cw49-xm78,https://da.gd/y2Ggv
+GithubAdvisories,[GHSA-qj22-xqjr-v83v] OpenClaw's Telegram message_reaction authorization bypass allows unauthorized system-event injection,https://github.com/advisories/GHSA-qj22-xqjr-v83v,https://da.gd/WzqmqK
+GithubAdvisories,[GHSA-48wf-g7cp-gr3m] OpenClaw has allowlist exec-guard bypass via env -S,https://github.com/advisories/GHSA-48wf-g7cp-gr3m,https://da.gd/z5V9vV
+GithubAdvisories,[GHSA-p4v8-rw59-93cq] Wagtail Vulnerable to Cross-site Scripting in simple_translation admin interface,https://github.com/advisories/GHSA-p4v8-rw59-93cq,https://da.gd/Ncp7k0
+GithubAdvisories,[GHSA-p5cm-246w-84jm] Wagtail Vulnerable to Cross-site Scripting in TableBlock class attributes,https://github.com/advisories/GHSA-p5cm-246w-84jm,https://da.gd/SS0Nu
+GithubAdvisories,[GHSA-m6w7-qv66-g3mf] BentoML Vulnerable to Arbitrary File Write via Symlink Path Traversal in Tar Extraction,https://github.com/advisories/GHSA-m6w7-qv66-g3mf,https://da.gd/X7jatk
+GithubAdvisories,"[GHSA-qpx9-hpmf-5gmw] Underscore has unlimited recursion in _.flatten and _.isEqual, potential for DoS attack",https://github.com/advisories/GHSA-qpx9-hpmf-5gmw,https://da.gd/L6MvZt
+GithubAdvisories,[GHSA-247v-7cw6-q57v] OpenSTAManager affected by unauthenticated privilege escalation via modules/utenti/actions.php,https://github.com/advisories/GHSA-247v-7cw6-q57v,https://da.gd/fdjeqB
+GithubAdvisories,[GHSA-33mp-8p67-xj7c] Froxlor has Admin-to-Root Privilege Escalation via Input Validation Bypass + OS Command Injection,https://github.com/advisories/GHSA-33mp-8p67-xj7c,https://da.gd/ltRnG
