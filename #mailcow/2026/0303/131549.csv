@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Bump alpine version of netfilter,https://github.com/mailcow/mailcow-dockerized/commit/c7e04b4146a6cfdc3c5c39b2c89fe1a7e9465a1e,https://da.gd/ibrREA
+GithubCommitStaging,fix: show stopped and failed containers in dashboard and API,https://github.com/mailcow/mailcow-dockerized/commit/99dc0f6616dec4ff629898721d2db663e6bf66fa,https://da.gd/CIdyp
+GithubCommitStaging,Merge pull request #7082 from JeremieCrinon/fix/show-stopped-containe…,https://github.com/mailcow/mailcow-dockerized/commit/ce5659f3005f6f354765d41fe6a76bd2b543f342,https://da.gd/MuTyt
+GithubCommitStaging,Merge pull request #7060 from jovobe/staging,https://github.com/mailcow/mailcow-dockerized/commit/579542381aa5b8b9f597c52a467bab79dd10f2f0,https://da.gd/a8UUm
