@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-ww6v-v748-x7g9] OpenClaw has a sandbox network isolation bypass via docker.network=container:,https://github.com/advisories/GHSA-ww6v-v748-x7g9,https://da.gd/pq4P
