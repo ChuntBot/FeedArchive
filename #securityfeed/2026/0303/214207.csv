@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5h2c-8v84-qpvr] OpenClaw shell-env fallback trusted startup env and could execute attacker-influenced login-shell paths,https://github.com/advisories/GHSA-5h2c-8v84-qpvr,https://da.gd/JW7tmS
+GithubAdvisories,[GHSA-ff98-w8hj-qrxf] OpenClaw plugin runtime command execution is part of trusted plugin boundary,https://github.com/advisories/GHSA-ff98-w8hj-qrxf,https://da.gd/IxrJ
+GithubAdvisories,[GHSA-553v-f69r-656j] OpenClaw unpaired device identity can bypass operator pairing and self-assign operator scopes with shared auth,https://github.com/advisories/GHSA-553v-f69r-656j,https://da.gd/AApXA
+GithubAdvisories,"[GHSA-45cg-2683-gfmq] OpenClaw browser navigation guard allowed non-network URL schemes, enabling authenticated browser-tool users to access file:// local files",https://github.com/advisories/GHSA-45cg-2683-gfmq,https://da.gd/m7Koq
+GithubAdvisories,[GHSA-mqr9-vqhq-3jxw] OpenClaw Windows Scheduled Task script generation allowed local command injection via unsafe cmd argument handling,https://github.com/advisories/GHSA-mqr9-vqhq-3jxw,https://da.gd/kMh6F7
+GithubAdvisories,[GHSA-h9xm-j4qg-fvpg] OpenClaw: Experimental apply_patch may bypass workspace-only checks in opt-in sandbox mounts (off by default),https://github.com/advisories/GHSA-h9xm-j4qg-fvpg,https://da.gd/WF4Bp
+GithubAdvisories,[GHSA-j26j-7qc4-3mrf] OpenClaw: MS Teams fileConsent/invoke missing conversation binding allowed cross-conversation pending-upload consumption,https://github.com/advisories/GHSA-j26j-7qc4-3mrf,https://da.gd/VMGS
+GithubAdvisories,[GHSA-2hm8-rqrm-xfjq] OpenClaw's owner-only gateway tool access checks were incomplete in specific authenticated DM flows,https://github.com/advisories/GHSA-2hm8-rqrm-xfjq,https://da.gd/euUarw
+GithubAdvisories,[GHSA-p4wh-cr8m-gm6c] OpenClaw: shell-env trusted-prefix fallback allowed attacker-controlled binary execution via $SHELL,https://github.com/advisories/GHSA-p4wh-cr8m-gm6c,https://da.gd/5e3r8T
+GithubAdvisories,[GHSA-5mx2-2mgw-x8rm] OpenClaw: BlueBubbles beta plugin webhook auth hardening (remove passwordless fallback),https://github.com/advisories/GHSA-5mx2-2mgw-x8rm,https://da.gd/tZeV
+GithubAdvisories,[GHSA-2mc2-g238-722j] OpenClaw affected by iMessage remote attachment SCP hardening (strict host-key checks and remoteHost validation),https://github.com/advisories/GHSA-2mc2-g238-722j,https://da.gd/qVIoT
+GithubAdvisories,[GHSA-5gj7-jf77-q2q2] OpenClaw: safeBins static default trusted dirs allow writable-dir binary hijack (`jq`),https://github.com/advisories/GHSA-5gj7-jf77-q2q2,https://da.gd/Vztafd
+GithubAdvisories,[GHSA-77hf-7fqf-f227] OpenClaw skills-install-download: tar.bz2 extraction bypassed archive safety parity checks (local DoS),https://github.com/advisories/GHSA-77hf-7fqf-f227,https://da.gd/bxF2EU
+GithubAdvisories,[GHSA-wpg9-4g4v-f9rc] OpenClaw: Discord voice transcript owner-flag omission could expose owner-only tools in mixed-trust channels,https://github.com/advisories/GHSA-wpg9-4g4v-f9rc,https://da.gd/4tcQ
+GithubAdvisories,"[GHSA-474h-prjg-mmw3] OpenClaw: Sandboxed sessions_spawn(runtime=""acp"") bypassed sandbox inheritance and allowed host ACP initialization",https://github.com/advisories/GHSA-474h-prjg-mmw3,https://da.gd/yKw7
+GithubAdvisories,[GHSA-v865-p3gq-hw6m] OpenClaw has encoded-path auth bypass in plugin `/api/channels` route classification,https://github.com/advisories/GHSA-v865-p3gq-hw6m,https://da.gd/12iKF
+GithubAdvisories,[GHSA-354r-7mfh-7rh2] OpenClaw: Discord DM reaction ingress missed dmPolicy/allowFrom checks in restricted setups,https://github.com/advisories/GHSA-354r-7mfh-7rh2,https://da.gd/T3eo
+GithubAdvisories,[GHSA-r54r-wmmq-mh84] OpenClaw: ZIP extraction race could write outside destination via parent symlink rebind,https://github.com/advisories/GHSA-r54r-wmmq-mh84,https://da.gd/m2OWA
+GithubAdvisories,[GHSA-3pxq-f3cp-jmxp] OpenClaw: Unified root-bound write hardening for browser output and related path-boundary flows,https://github.com/advisories/GHSA-3pxq-f3cp-jmxp,https://da.gd/Vrxh9
+GithubAdvisories,[GHSA-8mvx-p2r9-r375] OpenClaw's web tools strict URL guard could lose DNS pinning when env proxy is configured,https://github.com/advisories/GHSA-8mvx-p2r9-r375,https://da.gd/W04qn
+GithubAdvisories,[GHSA-h3rm-6x7g-882f] OpenClaw's Node system.run approval hardening wrapper semantic drift can execute unintended local scripts,https://github.com/advisories/GHSA-h3rm-6x7g-882f,https://da.gd/QodIY
+GithubAdvisories,[GHSA-2858-xg23-26fp] OpenClaw: Node camera URL payload host-binding bypass allowed gateway fetch pivots,https://github.com/advisories/GHSA-2858-xg23-26fp,https://da.gd/ioBAL
+GithubAdvisories,[GHSA-x4vp-4235-65hg] OpenClaw has pre-auth webhook body parsing that can enable unauthenticated slow-request DoS,https://github.com/advisories/GHSA-x4vp-4235-65hg,https://da.gd/PKet27
+GithubAdvisories,[GHSA-cfvj-7rx7-fc7c] OpenClaw: stageSandboxMedia destination symlink traversal can overwrite files outside sandbox workspace,https://github.com/advisories/GHSA-cfvj-7rx7-fc7c,https://da.gd/SC8LCY
+GithubAdvisories,[GHSA-jqwg-75qf-vmf9] SiYuan's direct SQL Query API accessible to Reader-level users enables unauthorized database access,https://github.com/advisories/GHSA-jqwg-75qf-vmf9,https://da.gd/GsLcDN
