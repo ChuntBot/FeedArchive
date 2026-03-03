@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h656-5vcf-cm23] OpenClaw: Unauthorized Telegram Senders Trigger Media Download and Disk Write Before Access Check,https://github.com/advisories/GHSA-h656-5vcf-cm23,https://da.gd/LnKMEq
+GithubAdvisories,[GHSA-9f72-qcpw-2hxc] OpenClaw: Native prompt image auto-load did not honor tools.fs.workspaceOnly in sandboxed runs,https://github.com/advisories/GHSA-9f72-qcpw-2hxc,https://da.gd/esZsT
+GithubAdvisories,[GHSA-vmqr-rc7x-3446] OpenClaw's non-default safeBins sort configuration can bypass intended allowlist approval constraints,https://github.com/advisories/GHSA-vmqr-rc7x-3446,https://da.gd/vwpNAK
+GithubAdvisories,[GHSA-mwxv-35wr-4vvj] OpenClaw has gateway plugin auth bypass via encoded dot-segment traversal in protected /api/channels paths,https://github.com/advisories/GHSA-mwxv-35wr-4vvj,https://da.gd/1vv27b
+GithubAdvisories,[GHSA-hff7-ccv5-52f8] OpenClaw's gateway tokenless Tailscale auth applied to HTTP routes,https://github.com/advisories/GHSA-hff7-ccv5-52f8,https://da.gd/rKga7M
+GithubAdvisories,[GHSA-vj3g-5px3-gr46] OpenClaw vulnerable to path traversal in Feishu media temp-file naming allows writes outside os.tmpdir(),https://github.com/advisories/GHSA-vj3g-5px3-gr46,https://da.gd/fS95
