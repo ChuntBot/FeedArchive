@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gqf8-rvrh-g7w6] Rancher cloud credentials can be used through proxy API by users without access,https://github.com/advisories/GHSA-gqf8-rvrh-g7w6,https://da.gd/7fuLT
+GithubAdvisories,[GHSA-hwm2-4ph6-w6m5] Rancher's restricted PodSecurityPolicy does not prevent containers from running as a privileged user,https://github.com/advisories/GHSA-hwm2-4ph6-w6m5,https://da.gd/1QTJN
+GithubAdvisories,[GHSA-vrph-m5jj-c46c] Rancher's weave CNI password is not configured when a cluster is created from an RKE template,https://github.com/advisories/GHSA-vrph-m5jj-c46c,https://da.gd/oRp6yI
+GithubAdvisories,[GHSA-6x34-89p7-95wg] Rancher has downstream cluster privilege escalation through cluster and project role template binding (CRTB/PRTB),https://github.com/advisories/GHSA-6x34-89p7-95wg,https://da.gd/ENFYSc
+GithubAdvisories,[GHSA-8w87-58w6-hfv8] Rancher doesn't properly sanitize credentials in cluster template answers,https://github.com/advisories/GHSA-8w87-58w6-hfv8,https://da.gd/Z7HZXC
+GithubAdvisories,[GHSA-vf6j-6739-78m8] Rancher's Azure AD permission changes are not reflected on active sessions,https://github.com/advisories/GHSA-vf6j-6739-78m8,https://da.gd/0p6o
