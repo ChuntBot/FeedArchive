@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7f4q-9rqh-x36p] OpenClaw: macOS optional allowlist basename matching could bypass path-based policy,https://github.com/advisories/GHSA-7f4q-9rqh-x36p,https://da.gd/Of0Ge
+GithubAdvisories,[GHSA-2fgq-7j6h-9rm4] OpenClaw has system.run shell-wrapper env injection via SHELLOPTS/PS4 can bypass allowlist intent (RCE),https://github.com/advisories/GHSA-2fgq-7j6h-9rm4,https://da.gd/MGsmP
+GithubAdvisories,[GHSA-r65x-2hqr-j5hf] OpenClaw: Node reconnect metadata spoofing could bypass platform-based node command policy,https://github.com/advisories/GHSA-r65x-2hqr-j5hf,https://da.gd/W4KBU
+GithubAdvisories,[GHSA-6g25-pc82-vfwp] OpenClaw: macOS beta onboarding exposed PKCE verifier via OAuth state,https://github.com/advisories/GHSA-6g25-pc82-vfwp,https://da.gd/Xvz5N
+GithubAdvisories,[GHSA-5847-rm3g-23mw] OpenClaw has hook auth rate limiter bypass via IPv4-mapped IPv6 client key variants,https://github.com/advisories/GHSA-5847-rm3g-23mw,https://da.gd/SUJXTF
