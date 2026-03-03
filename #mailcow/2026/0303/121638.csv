@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Add endpoint for editing quarantine mails,https://github.com/mailcow/mailcow-dockerized/commit/fb1686065d26d99a473a659477c828f2d9231e32,https://da.gd/utPGvj
+GithubCommitStaging,[Web] Add forced 2FA setup and password update enforcement,https://github.com/mailcow/mailcow-dockerized/commit/ad5b94af5e48297631629c2a118e7f163a044a07,https://da.gd/5rT1y
+GithubCommitStaging,[Web] Switch QR code generation from external API to local library an…,https://github.com/mailcow/mailcow-dockerized/commit/96d4802cb22afdf1cbf3a9d8ddd69d2d7bbb05c5,https://da.gd/p3JKF5
+GithubCommitStaging,Add skip feature to mailcow admin password reset script,https://github.com/mailcow/mailcow-dockerized/commit/4732f568faebc3984b87896af44f9411aa79d6f6,https://da.gd/MCqzw
+GithubCommitStaging,Merge pull request #7077 from mailcow/feat/force-tfa,https://github.com/mailcow/mailcow-dockerized/commit/c033cd6254f1ef8cdb63abb2ebc8fd8dfb2aa10f,https://da.gd/GBey
+GithubCommitStaging,Merge pull request #7078 from HichemAK/patch-2,https://github.com/mailcow/mailcow-dockerized/commit/6eaa8d43e9f6fa359dfbae3ec9f736542f094f97,https://da.gd/8bmM6
+GithubCommitStaging,Merge pull request #7047 from jonprocter/staging,https://github.com/mailcow/mailcow-dockerized/commit/c6e3f517e18321892bbc94cc0b4133f416ac2c25,https://da.gd/qHLi
