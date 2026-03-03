@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wj3p-5h3x-c74q] Rancher Backup Operator pod's logs leak S3 tokens,https://github.com/advisories/GHSA-wj3p-5h3x-c74q,https://da.gd/tcNLPe
