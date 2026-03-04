@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jjgj-cpp9-cvpv] OpenClaw Vulnerable to Local File Exfiltration via MCP Tool Result MEDIA: Directive Injection,https://github.com/advisories/GHSA-jjgj-cpp9-cvpv,https://da.gd/PCqu7
+GithubAdvisories,[GHSA-3jx4-q2m7-r496] OpenClaw: Hardlink alias checks could bypass workspace-only file boundaries in specific configurations,https://github.com/advisories/GHSA-3jx4-q2m7-r496,https://da.gd/LZUeUO
+GithubAdvisories,[GHSA-vvjh-f6p9-5vcf] OpenClaw Canvas Authentication Bypass Vulnerability,https://github.com/advisories/GHSA-vvjh-f6p9-5vcf,https://da.gd/Xzq2U
+GithubAdvisories,[GHSA-q6qf-4p5j-r25g] OpenClaw's image tool bypasses tools.fs.workspaceOnly on sandbox mount paths and exfiltrates out-of-workspace images,https://github.com/advisories/GHSA-q6qf-4p5j-r25g,https://da.gd/nTwG
+GithubAdvisories,[GHSA-4rqq-w8v4-7p47] OpenClaw has incomplete IPv4 special-use SSRF blocking in web fetch guard,https://github.com/advisories/GHSA-4rqq-w8v4-7p47,https://da.gd/joLTv
