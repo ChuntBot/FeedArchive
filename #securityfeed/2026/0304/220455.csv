@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w9qg-chfh-g3q9] Concrete CMS has a stored Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-w9qg-chfh-g3q9,https://da.gd/bMhn
+GithubAdvisories,[GHSA-f4vq-pj32-gr4q] Concrete CMS has a stored Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-f4vq-pj32-gr4q,https://da.gd/Dt7H8
+GithubAdvisories,[GHSA-6865-qjcf-286f] SiYuan: Unauthenticated Reflected XSS via SVG Injection in /api/icon/getDynamicIcon Endpoint,https://github.com/advisories/GHSA-6865-qjcf-286f,https://da.gd/lF1hO
+GithubAdvisories,[GHSA-45fj-fvmm-xcc5] Concrete CMS has a stored Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-45fj-fvmm-xcc5,https://da.gd/cGx18a
+GithubAdvisories,[GHSA-6mxw-2vhf-42g5] Concrete CMS vulnerable to Cross-Site Request Forgery (CSRF),https://github.com/advisories/GHSA-6mxw-2vhf-42g5,https://da.gd/0wxn9
+GithubAdvisories,[GHSA-mm5f-5rqw-574f] Concrete CMS has a stored Cross-site Scripting (XSS) vulnerability,https://github.com/advisories/GHSA-mm5f-5rqw-574f,https://da.gd/6veXdn
+GithubAdvisories,[GHSA-gj26-w59c-29mf] Concrete CMS vulnerable to Remote Code Execution by stored PHP object injection,https://github.com/advisories/GHSA-gj26-w59c-29mf,https://da.gd/RQt92c
+GithubAdvisories,[GHSA-5hwf-rc88-82xm] Fickling missing RCE-capable modules in UNSAFE_IMPORTS,https://github.com/advisories/GHSA-5hwf-rc88-82xm,https://da.gd/51SOn
+GithubAdvisories,[GHSA-wccx-j62j-r448] Fickling has `always_check_safety()` bypass: pickle.loads and _pickle.loads remain unhooked,https://github.com/advisories/GHSA-wccx-j62j-r448,https://da.gd/Ud5Udp
+GithubAdvisories,[GHSA-25g8-2mcf-fcx9] changedetection.io has Zip Slip vulnerability in the backup restore functionality,https://github.com/advisories/GHSA-25g8-2mcf-fcx9,https://da.gd/e8v3Wm
+GithubAdvisories,[GHSA-wf6x-7x77-mvgw] Immutable is vulnerable to Prototype Pollution,https://github.com/advisories/GHSA-wf6x-7x77-mvgw,https://da.gd/cNQXy
+GithubAdvisories,[GHSA-6v53-7c9g-w56r] jackson-core has Nesting Depth Constraint Bypass in `UTF8DataInputJsonParser` potentially allowing Resource Exhaustion,https://github.com/advisories/GHSA-6v53-7c9g-w56r,https://da.gd/qAtTZ
+GithubAdvisories,"[GHSA-92mv-8f8w-wq52] traefik CVE-2024-45410 fix bypass: lowercase `Connection` tokens can delete traefik-managed forwarded identity headers (for example, `X-Real-Ip`)",https://github.com/advisories/GHSA-92mv-8f8w-wq52,https://da.gd/RPSTvN
+GithubAdvisories,[GHSA-xc68-rrqc-qgq3] MCP NMAP Server has an Injection vulnerability,https://github.com/advisories/GHSA-xc68-rrqc-qgq3,https://da.gd/mjOnN
+GithubAdvisories,[GHSA-4gc2-344q-r2rw] MS-Agent vulnerable to Command Injection,https://github.com/advisories/GHSA-4gc2-344q-r2rw,https://da.gd/2u7W31
+GithubAdvisories,[GHSA-wf45-3gpw-vrqv] `time_calibrators` was removed from crates.io due to malicious code,https://github.com/advisories/GHSA-wf45-3gpw-vrqv,https://da.gd/iyLcB0
+GithubAdvisories,[GHSA-429m-9874-rx9w] PSI Probe vulnerable to Server-Side Request Forgery,https://github.com/advisories/GHSA-429m-9874-rx9w,https://da.gd/dkyhib
+GithubAdvisories,[GHSA-95fj-3w7g-4r27] Nuclio Shell Runtime Command Injection Leading to Privilege Escalation,https://github.com/advisories/GHSA-95fj-3w7g-4r27,https://da.gd/PhD24g
