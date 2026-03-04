@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5pq2-9x2x-5p6w] Hono Vulnerable to Cookie Attribute Injection via Unsanitized domain and path in setCookie(),https://github.com/advisories/GHSA-5pq2-9x2x-5p6w,https://da.gd/okM8V
+GithubAdvisories,[GHSA-p6xx-57qc-3wxr] Hono Vulnerable to SSE Control Field Injection via CR/LF in writeSSE(),https://github.com/advisories/GHSA-p6xx-57qc-3wxr,https://da.gd/TaOpO
+GithubAdvisories,[GHSA-q5qw-h33p-qvwr] Hono vulnerable to arbitrary file access via serveStatic vulnerability,https://github.com/advisories/GHSA-q5qw-h33p-qvwr,https://da.gd/Z6Xe7T
+GithubAdvisories,[GHSA-jwf4-8wf4-jf2m] OpenClaw: BlueBubbles (optional plugin) pairing/allowlist mismatch when allowFrom is empty,https://github.com/advisories/GHSA-jwf4-8wf4-jf2m,https://da.gd/Fpjr
