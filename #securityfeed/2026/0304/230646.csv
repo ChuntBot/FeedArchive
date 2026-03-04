@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xpqw-6gx7-v673] SVGO DoS through entity expansion in DOCTYPE (Billion Laughs),https://github.com/advisories/GHSA-xpqw-6gx7-v673,https://da.gd/gjjHP
+GithubAdvisories,[GHSA-6rx5-m2rc-hmf7] ZITADEL: Stored XSS via Default URI Redirect Leads to Account Takeover,https://github.com/advisories/GHSA-6rx5-m2rc-hmf7,https://da.gd/UReTd
+GithubAdvisories,[GHSA-25rw-g6ff-fmg8] ZITADEL: Login V2 UI Policy Bypass Allows Unauthorized Self-Registration and Authentication,https://github.com/advisories/GHSA-25rw-g6ff-fmg8,https://da.gd/d0FvLt
+GithubAdvisories,[GHSA-pr34-2v5x-6qjq] ZITADEL has 1-Click Account Takeover via XSS in /saml-post Endpoint,https://github.com/advisories/GHSA-pr34-2v5x-6qjq,https://da.gd/6YUyP
+GithubAdvisories,[GHSA-79pf-vx4x-7jmm] File Browser's TUS Delete Endpoint Bypasses Delete Permission Check,https://github.com/advisories/GHSA-79pf-vx4x-7jmm,https://da.gd/FagA
+GithubAdvisories,[GHSA-fw88-pf9m-p947] Apache Artemis and Apache ActiveMQ Artemis are Missing Authentication for Critical Functions,https://github.com/advisories/GHSA-fw88-pf9m-p947,https://da.gd/qSbjQ
