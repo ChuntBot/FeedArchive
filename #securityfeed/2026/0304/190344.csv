@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9mph-4f7v-fmvh] OpenClaw has agent avatar symlink traversal in gateway session metadata,https://github.com/advisories/GHSA-9mph-4f7v-fmvh,https://da.gd/bIJPQg
+GithubAdvisories,[GHSA-f6h3-846h-2r8w] OpenClaw's elevated allowFrom accepted broader identity signals than specified within sender-scoped authorization,https://github.com/advisories/GHSA-f6h3-846h-2r8w,https://da.gd/urOf0
+GithubAdvisories,[GHSA-vjp8-wprm-2jw9] OpenClaw has cross-account DM pairing authorization bypass via unscoped pairing store access,https://github.com/advisories/GHSA-vjp8-wprm-2jw9,https://da.gd/FA3Ba2
+GithubAdvisories,[GHSA-8cp7-rp8r-mg77] OpenClaw has SSRF guard bypass via IPv6 transition over ISATAP,https://github.com/advisories/GHSA-8cp7-rp8r-mg77,https://da.gd/F6UG7i
+GithubAdvisories,[GHSA-x2ff-j5c2-ggpr] OpenClaw: Slack interactive callbacks could skip configured sender checks in some shared-workspace flows,https://github.com/advisories/GHSA-x2ff-j5c2-ggpr,https://da.gd/IHx77
+GithubAdvisories,[GHSA-jrqm-vmqc-gm93] CKEditor 5 has Cross-site Scripting (XSS) in the HTML Support package,https://github.com/advisories/GHSA-jrqm-vmqc-gm93,https://da.gd/3E64
