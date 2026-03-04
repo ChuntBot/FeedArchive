@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6fmw-82m7-jq6p] changedetection.io vulnerable to XPath - Arbitrary File Read via unparsed-text(),https://github.com/advisories/GHSA-6fmw-82m7-jq6p,https://da.gd/LwSIfC
+GithubAdvisories,[GHSA-8whx-v8qq-pq64] changedetection.io has Reflected XSS in its RSS Tag Error Response,https://github.com/advisories/GHSA-8whx-v8qq-pq64,https://da.gd/eZpgzt
+GithubAdvisories,[GHSA-7wc2-qxgw-g8gg] Authlib: Setting `alg: none` and a blank signature appears to bypass signature verification,https://github.com/advisories/GHSA-7wc2-qxgw-g8gg,https://da.gd/iexVM
+GithubAdvisories,[GHSA-jvxv-2jjp-jxc3] Lemmy has unauthenticated SSRF via file_type query parameter injection in image endpoint,https://github.com/advisories/GHSA-jvxv-2jjp-jxc3,https://da.gd/B29rS
+GithubAdvisories,[GHSA-234q-vvw3-mrfq] Craft CMS has unauthenticated activation email trigger with potential user enumeration,https://github.com/advisories/GHSA-234q-vvw3-mrfq,https://da.gd/lNY0o
+GithubAdvisories,[GHSA-v2wj-7wpq-c8vv] DOMPurify contains a Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-v2wj-7wpq-c8vv,https://da.gd/BBqdO
+GithubAdvisories,[GHSA-v8jm-5vwx-cfxm] DOMPurify contains a Cross-site Scripting vulnerability,https://github.com/advisories/GHSA-v8jm-5vwx-cfxm,https://da.gd/XaDg8d
+GithubAdvisories,[GHSA-77xj-rrh3-wx3v] `time_calibrator` was removed from crates.io due to malicious code,https://github.com/advisories/GHSA-77xj-rrh3-wx3v,https://da.gd/TonFi
+GithubAdvisories,[GHSA-v33r-r6h2-8wr7] Kimai's API invoice endpoint missing customer-level access control (IDOR),https://github.com/advisories/GHSA-v33r-r6h2-8wr7,https://da.gd/y7WPg
+GithubAdvisories,[GHSA-22m3-c7vp-49fj] IRRd: web UI host header injection allows password reset poisoning via attacker-controlled email links,https://github.com/advisories/GHSA-22m3-c7vp-49fj,https://da.gd/xmXV79
+GithubAdvisories,[GHSA-rpqr-j937-6qr9] OpenViking contains a Path Traversal vulnerability,https://github.com/advisories/GHSA-rpqr-j937-6qr9,https://da.gd/ooThh4
+GithubAdvisories,[GHSA-mjgh-79qc-68w3] Django has a Race Condition vulnerability,https://github.com/advisories/GHSA-mjgh-79qc-68w3,https://da.gd/KlUU
+GithubAdvisories,[GHSA-8p8v-wh79-9r56] Django vulnerable to Uncontrolled Resource Consumption,https://github.com/advisories/GHSA-8p8v-wh79-9r56,https://da.gd/1qsdA
+GithubAdvisories,[GHSA-fp25-p6mj-qqg6] locutus call_user_func_array vulnerable to Remote Code Execution (RCE) due to Code Injection,https://github.com/advisories/GHSA-fp25-p6mj-qqg6,https://da.gd/ueEEs
+GithubAdvisories,[GHSA-crmg-9m86-636r] lxd's non-recursive certificate listing bypasses per-object authorization and leaks all fingerprints,https://github.com/advisories/GHSA-crmg-9m86-636r,https://da.gd/G8mwm
+GithubAdvisories,[GHSA-5fvg-qwcp-r325] Apache Ranger Vulnerable to Improper Validation of Certificate with Host Mismatch,https://github.com/advisories/GHSA-5fvg-qwcp-r325,https://da.gd/8dz4m
+GithubAdvisories,[GHSA-c87w-642h-m97h] Apache Ranger has a Code Injection vulnerability,https://github.com/advisories/GHSA-c87w-642h-m97h,https://da.gd/vExhT
+GithubAdvisories,[GHSA-6w86-wgwq-rgq8] neqo-qpack has iInteger overflow in qpack dynamic table indexing,https://github.com/advisories/GHSA-6w86-wgwq-rgq8,https://da.gd/jwjjuC
+GithubAdvisories,[GHSA-7gmj-h9xc-mcxc] mailparser vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-7gmj-h9xc-mcxc,https://da.gd/QGADZ
+GithubAdvisories,[GHSA-vpq2-c234-7xj6] @tootallnate/once vulnerable to Incorrect Control Flow Scoping,https://github.com/advisories/GHSA-vpq2-c234-7xj6,https://da.gd/07ilc
+GithubAdvisories,[GHSA-w9f8-m526-h7fh] Vaultwarden has Unauthorized Access via Partial Update API on Another User’s Cipher,https://github.com/advisories/GHSA-w9f8-m526-h7fh,https://da.gd/RvfeU
+GithubAdvisories,[GHSA-h4hq-rgvh-wh27] Vaultwarden's Collection Management Operations Allowed Without `manage` Verification for Manager Role,https://github.com/advisories/GHSA-h4hq-rgvh-wh27,https://da.gd/AVfJO
+GithubAdvisories,[GHSA-r32r-j5jq-3w4m] Vaultwarden has Privilege Escalation via Bulk Permission Update to Unauthorized Collections by Manager,https://github.com/advisories/GHSA-r32r-j5jq-3w4m,https://da.gd/5MdQY
+GithubAdvisories,[GHSA-v6pg-v89r-w8wr] Vaultwarden has 2FA Bypass on Protected Actions due to Faulty Rate Limit Enforcement,https://github.com/advisories/GHSA-v6pg-v89r-w8wr,https://da.gd/9kaTBk
+GithubAdvisories,[GHSA-wc8c-qw6v-h7f6] @hono/node-server has authorization bypass for protected static paths via encoded slashes in Serve Static Middleware,https://github.com/advisories/GHSA-wc8c-qw6v-h7f6,https://da.gd/LIeIS
