@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-xw98-5q62-jx94] Traefik: tcp router clears read deadlines before tls forwarding, enabling stalled handshakes (Slowloris DOS)",https://github.com/advisories/GHSA-xw98-5q62-jx94,https://da.gd/vRuM2
+GithubAdvisories,[GHSA-fw45-f5q2-2p4x] Traefik has unbounded io.ReadAll on auth server response body that causes OOM DOS,https://github.com/advisories/GHSA-fw45-f5q2-2p4x,https://da.gd/JKuf0u
+GithubAdvisories,[GHSA-x369-mcw8-8rvj] Dark Reader gives users the ability to request style sheets from local web servers,https://github.com/advisories/GHSA-x369-mcw8-8rvj,https://da.gd/F3oZJ
+GithubAdvisories,[GHSA-h2xq-h7f9-vh6c] XWiki Blog Application home page vulnerable to Stored XSS via Post Title,https://github.com/advisories/GHSA-h2xq-h7f9-vh6c,https://da.gd/9gAkBW
