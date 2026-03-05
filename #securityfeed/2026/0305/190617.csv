@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m2hx-wjxc-9fp4] Gokapi has privilege escalation with auth token,https://github.com/advisories/GHSA-m2hx-wjxc-9fp4,https://da.gd/CUzaJq
+GithubAdvisories,[GHSA-3c22-5j5m-4jq7] Gokapi has Stored XSS in SVG Hotlinks,https://github.com/advisories/GHSA-3c22-5j5m-4jq7,https://da.gd/tKR5a0
+GithubAdvisories,[GHSA-c36c-7pc2-f2ph] Gokapi has Data Leak in Upload Status Stream,https://github.com/advisories/GHSA-c36c-7pc2-f2ph,https://da.gd/rB0R9
