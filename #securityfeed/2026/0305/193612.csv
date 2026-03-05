@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v9vm-r24h-6rqm] Gogs: Release tag option injection in release deletion,https://github.com/advisories/GHSA-v9vm-r24h-6rqm,https://da.gd/JZDZE
+GithubAdvisories,[GHSA-xrcr-gmf5-2r8j] Gogs: Stored XSS via data URI in issue comments,https://github.com/advisories/GHSA-xrcr-gmf5-2r8j,https://da.gd/3HaPd
+GithubAdvisories,[GHSA-cj4v-437j-jq4c] Gogs: Cross-repository LFS object overwrite via missing content hash verification,https://github.com/advisories/GHSA-cj4v-437j-jq4c,https://da.gd/ZWvblX
