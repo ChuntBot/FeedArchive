@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f93w-pcj3-rggc] Pingora vulnerable to cache poisoning via insecure-by-default cache key,https://github.com/advisories/GHSA-f93w-pcj3-rggc,https://da.gd/Iv1sgX
+GithubAdvisories,[GHSA-2m8c-2374-465f] Duplicate Advisory: Cache poisoning via insecure-by-default cache key,https://github.com/advisories/GHSA-2m8c-2374-465f,https://da.gd/LNeRR
+GithubAdvisories,[GHSA-hj7x-879w-vrp7] Pingora has HTTP Request Smuggling via HTTP/1.0 and Transfer-Encoding Misparsing,https://github.com/advisories/GHSA-hj7x-879w-vrp7,https://da.gd/VU9T1
+GithubAdvisories,[GHSA-262p-vjx5-45xh] Duplicate Advisory: HTTP Request Smuggling via HTTP/1.0 and Transfer-Encoding Misparsing,https://github.com/advisories/GHSA-262p-vjx5-45xh,https://da.gd/KoA91
+GithubAdvisories,[GHSA-xq2h-p299-vjwv] Pingora vulnerable to HTTP Request Smuggling via Premature Upgrade,https://github.com/advisories/GHSA-xq2h-p299-vjwv,https://da.gd/yb8UR
+GithubAdvisories,[GHSA-f9v3-j2m7-4hpg] Duplicate Advisory: HTTP Request Smuggling via Premature Upgrade,https://github.com/advisories/GHSA-f9v3-j2m7-4hpg,https://da.gd/Ty9EPE
+GithubAdvisories,[GHSA-fwhj-785h-43hh] OliveTin has crash on NPE by calling APIs with invalid bindings or log references,https://github.com/advisories/GHSA-fwhj-785h-43hh,https://da.gd/DsP719
+GithubAdvisories,[GHSA-p443-p7w5-2f7f] OliveTin's RestartAction always runs actions as guest,https://github.com/advisories/GHSA-p443-p7w5-2f7f,https://da.gd/RwKa9
+GithubAdvisories,[GHSA-gq2m-77hf-vwgh] OliveTin Session Fixation: Logout Fails to Invalidate Server-Side Session,https://github.com/advisories/GHSA-gq2m-77hf-vwgh,https://da.gd/y6mZMI
+GithubAdvisories,[GHSA-g962-2j28-3cg9] OliveTin has JWT Audience Validation Bypass in Local Key and HMAC Modes,https://github.com/advisories/GHSA-g962-2j28-3cg9,https://da.gd/CfBfL
+GithubAdvisories,[GHSA-x57h-xx53-v53w] stellar-xdr's StringM::from_str bypasses max length validation,https://github.com/advisories/GHSA-x57h-xx53-v53w,https://da.gd/aiG3M
+GithubAdvisories,[GHSA-hcff-qv74-7hr4] Gokapi has CSRF in Login Endpoint,https://github.com/advisories/GHSA-hcff-qv74-7hr4,https://da.gd/uFXbp
+GithubAdvisories,[GHSA-q658-hfpg-35qc] Gokapi has privilege escalation via incomplete API-key permission revocation on user rank demotion,https://github.com/advisories/GHSA-q658-hfpg-35qc,https://da.gd/DklNx
