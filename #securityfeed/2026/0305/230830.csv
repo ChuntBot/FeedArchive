@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5r2p-pjr8-7fh7] SageMaker Python SDK replaced eval() with safe parser in JumpStart search functionality,https://github.com/advisories/GHSA-5r2p-pjr8-7fh7,https://da.gd/VmPWun
+GithubAdvisories,[GHSA-5wmx-573v-2qwq] Python-Markdown has an Uncaught Exception,https://github.com/advisories/GHSA-5wmx-573v-2qwq,https://da.gd/A3z8
+GithubAdvisories,[GHSA-jc5m-wrp2-qq38] Flowise Vulnerable to PII Disclosure on Unauthenticated Forgot Password Endpoint,https://github.com/advisories/GHSA-jc5m-wrp2-qq38,https://da.gd/XPbPC
+GithubAdvisories,[GHSA-x2g5-fvc2-gqvp] Flowise has Insufficient Password Salt Rounds,https://github.com/advisories/GHSA-x2g5-fvc2-gqvp,https://da.gd/b5uXX7
+GithubAdvisories,[GHSA-g7hc-96xr-gvvx] MimeKit has CRLF Injection in Quoted Local-Part that Enables SMTP Command Injection and Email Forgery,https://github.com/advisories/GHSA-g7hc-96xr-gvvx,https://da.gd/H6NoVM
+GithubAdvisories,[GHSA-595m-wc8g-6qgc] WeKnora is Vulnerable to SSRF via Redirection,https://github.com/advisories/GHSA-595m-wc8g-6qgc,https://da.gd/G8hzfx
+GithubAdvisories,[GHSA-87x4-j8vh-p5qf] Plane is Vulnerable to Unauthenticated Workspace Member Information Disclosure,https://github.com/advisories/GHSA-87x4-j8vh-p5qf,https://da.gd/XCZRu
+GithubAdvisories,[GHSA-fpx8-73gf-7x73] Plane has SSRF via Incomplete IP Validation in Webhook URL Serializer,https://github.com/advisories/GHSA-fpx8-73gf-7x73,https://da.gd/nwVcn
+GithubAdvisories,[GHSA-73hc-m4hx-79pj] mcp-memory-service Vulnerable to System Information Disclosure via Health Endpoint,https://github.com/advisories/GHSA-73hc-m4hx-79pj,https://da.gd/S6Vs5
+GithubAdvisories,[GHSA-wjpw-4j6x-6rwh] org.eclipse.jetty:jetty-http has different parsing of invalid URIs,https://github.com/advisories/GHSA-wjpw-4j6x-6rwh,https://da.gd/1hXaas
