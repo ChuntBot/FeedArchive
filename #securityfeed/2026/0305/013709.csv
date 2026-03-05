@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xxpw-32hf-q8v9] AVideo: Unauthenticated PHP session store exposed to host network via published memcached port,https://github.com/advisories/GHSA-xxpw-32hf-q8v9,https://da.gd/hP5t1
