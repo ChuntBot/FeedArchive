@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g48c-2wqr-h844] LangGraph checkpoint loading has unsafe msgpack deserialization,https://github.com/advisories/GHSA-g48c-2wqr-h844,https://da.gd/qXW8tB
+GithubAdvisories,[GHSA-vgjm-2cpf-4g7c] Gogs: DOM-based XSS via milestone selection,https://github.com/advisories/GHSA-vgjm-2cpf-4g7c,https://da.gd/9Mr9jW
