@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hhjv-jq77-cmvx] zeptoclaw has Android device shell blocklist bypass via argument permutation,https://github.com/advisories/GHSA-hhjv-jq77-cmvx,https://da.gd/uDT1y
+GithubAdvisories,[GHSA-vc89-5g3r-cmhh] Parse Server's Cloud Hooks and Cloud Jobs bypass `readOnlyMasterKey` write restriction,https://github.com/advisories/GHSA-vc89-5g3r-cmhh,https://da.gd/AhHoy4
+GithubAdvisories,[GHSA-6px9-j4qr-xfjw] pyLoad has an Arbitrary File Write via Path Traversal in edit_package(),https://github.com/advisories/GHSA-6px9-j4qr-xfjw,https://da.gd/g1lIbH
+GithubAdvisories,[GHSA-5528-5vmv-3xc2] Multer Vulnerable to Denial of Service via Uncontrolled Recursion,https://github.com/advisories/GHSA-5528-5vmv-3xc2,https://da.gd/BtyVS
+GithubAdvisories,[GHSA-hx52-cv84-jr5v] Sliver is Vulnerable to Authenticated Nil-Pointer Dereference through its Handlers,https://github.com/advisories/GHSA-hx52-cv84-jr5v,https://da.gd/vMir27
+GithubAdvisories,[GHSA-8qp7-fhr9-fw53] @backstage/plugin-scaffolder-backend Vulnerable to Potential Session Token Exfiltration via Log Redaction Bypass,https://github.com/advisories/GHSA-8qp7-fhr9-fw53,https://da.gd/Ok13x5
+GithubAdvisories,[GHSA-95v5-prp4-5gv5] Backstage vulnerable to potential reading of SCM URLs using built in token,https://github.com/advisories/GHSA-95v5-prp4-5gv5,https://da.gd/e9gNU
+GithubAdvisories,[GHSA-389r-rccm-h3h5] eml_parser: Path Traversal in Official Example Script Leads to Arbitrary File Write,https://github.com/advisories/GHSA-389r-rccm-h3h5,https://da.gd/oNo40
+GithubAdvisories,[GHSA-928r-fm4v-mvrw] TechDocs Mkdocs Configuration Key Enables Arbitrary Code Execution,https://github.com/advisories/GHSA-928r-fm4v-mvrw,https://da.gd/A14zG
+GithubAdvisories,[GHSA-p436-gjf2-799p] Docker CLI Plugins: Uncontrolled Search Path Element Leads to Local Privilege Escalation on Windows,https://github.com/advisories/GHSA-p436-gjf2-799p,https://da.gd/w4Ti
