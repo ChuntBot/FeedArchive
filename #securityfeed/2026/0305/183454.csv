@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g9w5-qffc-6762] Nginx-UI Vulnerable to Unauthenticated Backup Download with Encryption Key Disclosure,https://github.com/advisories/GHSA-g9w5-qffc-6762,https://da.gd/bFRBnL
+GithubAdvisories,[GHSA-7rgv-gqhr-fxg3] xgrammar vulnerable to DoS via multi-layer nesting,https://github.com/advisories/GHSA-7rgv-gqhr-fxg3,https://da.gd/4qwpO1
+GithubAdvisories,[GHSA-v66j-6wwf-jc57] Mercurius: Incorrect Content-Type parsing can lead to CSRF attack,https://github.com/advisories/GHSA-v66j-6wwf-jc57,https://da.gd/yr02u
+GithubAdvisories,[GHSA-qrfh-cc86-vc8c] Leantime has HTML injection through firstname and lastname fields,https://github.com/advisories/GHSA-qrfh-cc86-vc8c,https://da.gd/EVRa6
