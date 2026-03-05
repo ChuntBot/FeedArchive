@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-573f-x89g-hqp9] Fastify's Missing End Anchor in ""subtypeNameReg"" Allows Malformed Content-Types to Pass Validation",https://github.com/advisories/GHSA-573f-x89g-hqp9,https://da.gd/yWWI6
+GithubAdvisories,[GHSA-xxh7-fcf3-rj7f] The Eclipse Jetty Server Artifact has a Gzip request memory leak,https://github.com/advisories/GHSA-xxh7-fcf3-rj7f,https://da.gd/lA5q
+GithubAdvisories,[GHSA-jf73-858c-54pg] OliveTin doesn't check view permission when returning dashboards,https://github.com/advisories/GHSA-jf73-858c-54pg,https://da.gd/RrEBNi
+GithubAdvisories,[GHSA-mh23-rw7f-v5pq] `time-sync` was removed from crates.io due to malicious code,https://github.com/advisories/GHSA-mh23-rw7f-v5pq,https://da.gd/Y7tiP
+GithubAdvisories,[GHSA-2jpr-83rg-v67j] django-allauth has an open redirect vulnerability,https://github.com/advisories/GHSA-2jpr-83rg-v67j,https://da.gd/RnK0a
+GithubAdvisories,[GHSA-7rhv-h82h-vpjh] EC-CUBE has a Vulnerability that Allows MFA Bypass in the Administrative Interface,https://github.com/advisories/GHSA-7rhv-h82h-vpjh,https://da.gd/BZX3Q
