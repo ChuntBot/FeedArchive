@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v2x6-wwfw-r2rq] Agentgateway is missing parameter sanitization in MCP to OpenAPI conversion,https://github.com/advisories/GHSA-v2x6-wwfw-r2rq,https://da.gd/rgq0
+GithubAdvisories,[GHSA-w75w-9qv4-j5xj] dbt-common's commonprefix() doesn't protect against path traversal,https://github.com/advisories/GHSA-w75w-9qv4-j5xj,https://da.gd/PnXPRd
+GithubAdvisories,[GHSA-c7mq-gh6q-6q7c] opennextjs-cloudflare has SSRF vulnerability via /cdn-cgi/ path normalization bypass,https://github.com/advisories/GHSA-c7mq-gh6q-6q7c,https://da.gd/yrGM
+GithubAdvisories,[GHSA-qffp-2rhf-9h96] tar has Hardlink Path Traversal via Drive-Relative Linkpath,https://github.com/advisories/GHSA-qffp-2rhf-9h96,https://da.gd/C7VF3V
+GithubAdvisories,[GHSA-xhw7-jhmp-j62j] `dnp3times` was removed from crates.io due to malicious code,https://github.com/advisories/GHSA-xhw7-jhmp-j62j,https://da.gd/63IC
+GithubAdvisories,[GHSA-9m84-wc28-w895] Ghost has incomplete CSRF protections around OTC use,https://github.com/advisories/GHSA-9m84-wc28-w895,https://da.gd/3US6tm
+GithubAdvisories,[GHSA-5wp8-q9mx-8jx8] zeptoclaw has Shell allowlist-blocklist bypass via command/argument injection and file name wildcards,https://github.com/advisories/GHSA-5wp8-q9mx-8jx8,https://da.gd/YkOOLh
