@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4v6x-c7xx-hw9f] CommonMark has DisallowedRawHtml extension bypass via whitespace in HTML tag names,https://github.com/advisories/GHSA-4v6x-c7xx-hw9f,https://da.gd/FpHYPQ
+GithubAdvisories,[GHSA-9cp7-3q5w-j92g] parse-server: Malformed `$regex` query leaks database error details in API response,https://github.com/advisories/GHSA-9cp7-3q5w-j92g,https://da.gd/r6LOLE
+GithubAdvisories,[GHSA-mjqr-5c55-g77h] @perfood/couch-auth has an Observable Timing Discrepancy,https://github.com/advisories/GHSA-mjqr-5c55-g77h,https://da.gd/g7yKo
