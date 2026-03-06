@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8cr3-vpxx-92cx] Keycloak SAML Broken has Authentication Bypass by Primary Weakness,https://github.com/advisories/GHSA-8cr3-vpxx-92cx,https://da.gd/8MoJx
+GithubAdvisories,[GHSA-m297-3jv9-m927] Keycloak allows authentication using an Identity Provider (IdP) even after it has been disabled by an administrator,https://github.com/advisories/GHSA-m297-3jv9-m927,https://da.gd/XL1s5z
+GithubAdvisories,[GHSA-v2xr-wvrv-p969] RAGAS has an Arbitrary File Read vulnerability,https://github.com/advisories/GHSA-v2xr-wvrv-p969,https://da.gd/szu2AE
+GithubAdvisories,[GHSA-5f53-522j-j454] Flowise Missing Authentication on NVIDIA NIM Endpoints,https://github.com/advisories/GHSA-5f53-522j-j454,https://da.gd/Ngd9
+GithubAdvisories,[GHSA-cwc3-p92j-g7qm] Flowise has IDOR leading to Account Takeover and Enterprise Feature Bypass via SSO Configuration,https://github.com/advisories/GHSA-cwc3-p92j-g7qm,https://da.gd/gyc9Kq
+GithubAdvisories,[GHSA-mq4r-h2gh-qv7x] Flowise Allows Mass Assignment in `/api/v1/leads` Endpoint,https://github.com/advisories/GHSA-mq4r-h2gh-qv7x,https://da.gd/1qdL
+GithubAdvisories,[GHSA-3fvx-xrxq-8jvv] soft-serve vulnerable to SSRF via unvalidated LFS endpoint in repo import,https://github.com/advisories/GHSA-3fvx-xrxq-8jvv,https://da.gd/K14Ayx
+GithubAdvisories,[GHSA-hcm4-6hpj-vghm] Zarf's symlink targets in archives are not validated against destination directory,https://github.com/advisories/GHSA-hcm4-6hpj-vghm,https://da.gd/aZmaDF
+GithubAdvisories,[GHSA-h75p-j8xm-m278] CoreDNS Loop Detection Denial of Service Vulnerability,https://github.com/advisories/GHSA-h75p-j8xm-m278,https://da.gd/dpnjO0
