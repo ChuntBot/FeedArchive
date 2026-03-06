@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j8g8-j7fc-43v6] Flowise has Arbitrary File Upload via MIME Spoofing,https://github.com/advisories/GHSA-j8g8-j7fc-43v6,https://da.gd/NlFTC
+GithubAdvisories,[GHSA-wvhq-wp8g-c7vq] Flowise has Authorization Bypass via Spoofed x-request-from Header,https://github.com/advisories/GHSA-wvhq-wp8g-c7vq,https://da.gd/QYiqwL
+GithubAdvisories,[GHSA-m4h2-mjfm-mp55] Mercurius's queryDepth limit bypassed for WebSocket subscriptions,https://github.com/advisories/GHSA-m4h2-mjfm-mp55,https://da.gd/7y1WN
+GithubAdvisories,[GHSA-79wj-8rqv-jvp5] parse-server's endpoint `/loginAs` allows `readOnlyMasterKey` to gain full read and write access as any user,https://github.com/advisories/GHSA-79wj-8rqv-jvp5,https://da.gd/4DKZAw
+GithubAdvisories,[GHSA-xfh7-phr7-gr2x] parse-server's file creation and deletion bypasses `readOnlyMasterKey` write restriction,https://github.com/advisories/GHSA-xfh7-phr7-gr2x,https://da.gd/3rH2a
+GithubAdvisories,[GHSA-9r75-g2cr-3h76] Vercel Workflow Allows Webhook Creation with Predictable User-Specified Tokens,https://github.com/advisories/GHSA-9r75-g2cr-3h76,https://da.gd/18nz
+GithubAdvisories,[GHSA-rw8p-c6hf-q3pg] PinchTab has SSRF with Full Response Exfiltration via Download Handler,https://github.com/advisories/GHSA-rw8p-c6hf-q3pg,https://da.gd/qoihX
+GithubAdvisories,[GHSA-5mq8-78gm-pjmq] defuddle vulnerable to XSS via unescaped string interpolation in _findContentBySchemaText image tag,https://github.com/advisories/GHSA-5mq8-78gm-pjmq,https://da.gd/5DQtc
+GithubAdvisories,[GHSA-46wh-pxpv-q5gq] express-rate-limit: IPv4-mapped IPv6 addresses bypass per-client rate limiting on servers with dual-stack network,https://github.com/advisories/GHSA-46wh-pxpv-q5gq,https://da.gd/W95ZTc
