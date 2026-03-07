@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8w32-6mrw-q5wv] WeKnora Vulnerable to Remote Code Execution via SQL Injection Bypass in AI Database Query Tool,https://github.com/advisories/GHSA-8w32-6mrw-q5wv,https://da.gd/xn8I4X
+GithubAdvisories,[GHSA-2f4c-vrjq-rcgv] WeKnora has Broken Access Control - Cross-Tenant Data Exposure,https://github.com/advisories/GHSA-2f4c-vrjq-rcgv,https://da.gd/jL9ia
+GithubAdvisories,[GHSA-h6gw-8f77-mmmp] WeKnora has DNS Rebinding Vulnerability in web_fetch Tool that Allows SSRF to Internal Resources,https://github.com/advisories/GHSA-h6gw-8f77-mmmp,https://da.gd/ijhQy
+GithubAdvisories,[GHSA-8rf9-c59g-f82f] WeKnora has Unauthorized Cross‑Tenant Knowledge Base Cloning,https://github.com/advisories/GHSA-8rf9-c59g-f82f,https://da.gd/w8V8lZ
+GithubAdvisories,[GHSA-67q9-58vj-32qx] WeKnora Vulnerable to Tool Execution Hijacking via Ambigous Naming Convention In MCP client and Indirect Prompt Injection,https://github.com/advisories/GHSA-67q9-58vj-32qx,https://da.gd/zN7p
+GithubAdvisories,[GHSA-ccj6-79j6-cq5q] WeKnora Vulnerable to Broken Access Control in Tenant Management,https://github.com/advisories/GHSA-ccj6-79j6-cq5q,https://da.gd/C20TC
+GithubAdvisories,"[GHSA-m2w3-8f23-hxxf] Caddy's vars_regexp double-expands user input, leaking env vars and files",https://github.com/advisories/GHSA-m2w3-8f23-hxxf,https://da.gd/YW66E
+GithubAdvisories,"[GHSA-7r4p-vjf4-gxv4] Caddy forward_auth copy_headers Does Not Strip Client-Supplied Headers, Allowing Identity Injection and Privilege Escalation",https://github.com/advisories/GHSA-7r4p-vjf4-gxv4,https://da.gd/FMjmH3
+GithubAdvisories,[GHSA-84fx-pwf3-7777] xcode-mcp-server vulnerable to Command Injection,https://github.com/advisories/GHSA-84fx-pwf3-7777,https://da.gd/81HaCH
