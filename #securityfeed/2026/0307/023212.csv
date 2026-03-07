@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c8m8-3jcr-6rj5] FUXA has a hardcoded fallback JWT signing secret,https://github.com/advisories/GHSA-c8m8-3jcr-6rj5,https://da.gd/wVeX6
+GithubAdvisories,[GHSA-h343-gg57-2q67] OneUpTime's Unsandboxed Code Execution in Probe Allows Any Project Member to Achieve RCE,https://github.com/advisories/GHSA-h343-gg57-2q67,https://da.gd/TmvoO
+GithubAdvisories,[GHSA-6w2r-cfpc-23r5] AVideo has Unauthenticated IDOR - Playlist Information Disclosure,https://github.com/advisories/GHSA-6w2r-cfpc-23r5,https://da.gd/nbC0TJ
+GithubAdvisories,[GHSA-q6wc-xx4m-92fj] PowerSync: Some sync filters ignored on 1.20.0 using `config.edition: 3`,https://github.com/advisories/GHSA-q6wc-xx4m-92fj,https://da.gd/Z0pfrj
+GithubAdvisories,[GHSA-2h2p-mvfx-868w] SiYuan Vulnerable to Path Traversal in /export Endpoint Allows Arbitrary File Read and Secret Leakage,https://github.com/advisories/GHSA-2h2p-mvfx-868w,https://da.gd/OTSEkA
+GithubAdvisories,[GHSA-g9rg-8vq5-mpwm] mcp-memory-service's Wildcard CORS with Credentials Enables Cross-Origin Memory Theft,https://github.com/advisories/GHSA-g9rg-8vq5-mpwm,https://da.gd/m8IwPR
+GithubAdvisories,[GHSA-5q8v-j673-m5v4] Firefly III user API endpoints expose all users' information to any authenticated user (IDOR),https://github.com/advisories/GHSA-5q8v-j673-m5v4,https://da.gd/d9836
