@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r55h-3rwj-hcmg] WeKnora has Remote Code Execution (RCE) via Command Injection in MCP Stdio Configuration Validation,https://github.com/advisories/GHSA-r55h-3rwj-hcmg,https://da.gd/bxpn
