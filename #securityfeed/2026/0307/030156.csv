@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pm4j-7r4q-ccg8] Soroban: Muxed address<->ScVal conversions may break after a conversion failure,https://github.com/advisories/GHSA-pm4j-7r4q-ccg8,https://da.gd/qVp39
+GithubAdvisories,[GHSA-4j36-39gm-8vq8] OneUptime: Synthetic Monitor RCE via exposed Playwright browser object,https://github.com/advisories/GHSA-4j36-39gm-8vq8,https://da.gd/FXW88
+GithubAdvisories,[GHSA-qr2g-p6q7-w82m] x402 SDK Security Advisory,https://github.com/advisories/GHSA-qr2g-p6q7-w82m,https://da.gd/egdPE
+GithubAdvisories,[GHSA-5448-v74m-7mv7] Snipe-IT has sensitive user attributes related to account privileges that are insufficiently protected against mass assignment,https://github.com/advisories/GHSA-5448-v74m-7mv7,https://da.gd/VLLMh
+GithubAdvisories,[GHSA-v53h-f6m7-xcgm] Black's vulnerable version parsing leads to RCE in GitHub Action,https://github.com/advisories/GHSA-v53h-f6m7-xcgm,https://da.gd/9Bvlh8
+GithubAdvisories,[GHSA-6f6w-6j58-rq76] Shescape has possible misidentification of shell due to link chains,https://github.com/advisories/GHSA-6f6w-6j58-rq76,https://da.gd/TIlJL
