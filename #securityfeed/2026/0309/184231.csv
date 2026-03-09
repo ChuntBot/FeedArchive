@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-crhr-qqj8-rpxc] Apache ZooKeeper has improper handling of configuration values,https://github.com/advisories/GHSA-crhr-qqj8-rpxc,https://da.gd/82aPW
+GithubAdvisories,[GHSA-f9cq-v43p-v523] SiYuan: Authorization Bypass Allows Low-Privilege Publish User to Modify Notebook Content via /api/block/appendHeadingChildren,https://github.com/advisories/GHSA-f9cq-v43p-v523,https://da.gd/J2avF
