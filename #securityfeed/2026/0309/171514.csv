@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-726g-59wr-cj4c] @budibase/server: Command Injection in PostgreSQL Dump Command,https://github.com/advisories/GHSA-726g-59wr-cj4c,https://da.gd/1bdlON
