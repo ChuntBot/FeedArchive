@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-6wcw-r64p-qrrw] Cloudfoundry UAA has logic error in the token revocation endpoint implementation,https://github.com/advisories/GHSA-6wcw-r64p-qrrw,https://da.gd/1kKqL
