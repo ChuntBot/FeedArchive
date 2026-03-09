@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-x6fw-778m-wr9v] Parse Server: JWT audience validation bypass in Google, Apple, and Facebook authentication adapters",https://github.com/advisories/GHSA-x6fw-778m-wr9v,https://da.gd/GTeQb
+GithubAdvisories,[GHSA-q5q9-2rhp-33qw] Parse Server: GraphQL `__type` introspection bypass via inline fragments when public introspection is disabled,https://github.com/advisories/GHSA-q5q9-2rhp-33qw,https://da.gd/4M8Tw
+GithubAdvisories,[GHSA-hwx8-q9cg-mqmc] Parse Server: File metadata endpoint bypasses `beforeFind` / `afterFind` trigger authorization,https://github.com/advisories/GHSA-hwx8-q9cg-mqmc,https://da.gd/OqEuj
+GithubAdvisories,[GHSA-hm3f-q6rw-m6wh] Parse Server: `PagesRouter` path traversal allows reading files outside configured pages directory,https://github.com/advisories/GHSA-hm3f-q6rw-m6wh,https://da.gd/bu6j0w
+GithubAdvisories,[GHSA-656w-6f6c-m9r6] OneUptime has broken access control in GitHub App installation flow that allows unauthorized project binding,https://github.com/advisories/GHSA-656w-6f6c-m9r6,https://da.gd/762qOD
+GithubAdvisories,[GHSA-6r7f-3fwq-hq74] Kubewarden: Cross-namespace data exfiltration via deprecated host callback binding,https://github.com/advisories/GHSA-6r7f-3fwq-hq74,https://da.gd/ALx3Q
+GithubAdvisories,[GHSA-4hgg-c4rr-6h7f] Netmaker: Service User with Network Access Can Access config files with WireGuard Private Keys,https://github.com/advisories/GHSA-4hgg-c4rr-6h7f,https://da.gd/rsAFW
+GithubAdvisories,[GHSA-ch3w-9456-38v3] Netmaker has Privilege Escalation from Admin to Super-Admin via User Update,https://github.com/advisories/GHSA-ch3w-9456-38v3,https://da.gd/xWzut
+GithubAdvisories,[GHSA-hmqr-wjmj-376c] Netmaker has Insufficient Authorization in Host Token Verification,https://github.com/advisories/GHSA-hmqr-wjmj-376c,https://da.gd/yUX1r
+GithubAdvisories,"[GHSA-qh6q-598w-w6m2] Pocket ID: OIDC authorization code validation uses AND instead of OR, allowing cross-client token exchange",https://github.com/advisories/GHSA-qh6q-598w-w6m2,https://da.gd/ZeeG
+GithubAdvisories,[GHSA-9h33-g3ww-mqff] Pocket ID: OAuth redirect_uri validation bypass via userinfo/host confusion,https://github.com/advisories/GHSA-9h33-g3ww-mqff,https://da.gd/Nl8Es6
