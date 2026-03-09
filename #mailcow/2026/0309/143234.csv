@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubCommitStaging,prevent false positives in option detection in new_options.sh,https://github.com/mailcow/mailcow-dockerized/commit/fd24163c6e2c5c8d09e341b45bad0c65fa711f33,https://da.gd/YsYP
+GithubCommitStaging,Extend --dev flag to skip _modules update,https://github.com/mailcow/mailcow-dockerized/commit/82ea41842389a926be2943d7bc413459c075d916,https://da.gd/TeyxlT
+GithubCommitStaging,prevent false positives in option detection in new_options.sh,https://github.com/mailcow/mailcow-dockerized/commit/709117fe19cd7656127eaf3742663d382a19425a,https://da.gd/qgHnN
+GithubCommitStaging,Rename dns-101 to dns-01,https://github.com/mailcow/mailcow-dockerized/commit/8f883f3d374b4de9b3ad731d3bef5d667b095ae8,https://da.gd/xWeEb
