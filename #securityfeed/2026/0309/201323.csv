@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v359-jj2v-j536] vLLM has SSRF Protection Bypass,https://github.com/advisories/GHSA-v359-jj2v-j536,https://da.gd/VQxxv
+GithubAdvisories,[GHSA-93fx-5qgc-wr38] AzuraCast: RCE via Liquidsoap string interpolation injection in station metadata and playlist URLs,https://github.com/advisories/GHSA-93fx-5qgc-wr38,https://da.gd/Q2izYR
+GithubAdvisories,[GHSA-9q36-67vc-rrwg] OpenClaw: Sandboxed /acp spawn requests could initialize host ACP sessions,https://github.com/advisories/GHSA-9q36-67vc-rrwg,https://da.gd/h6NhY
+GithubAdvisories,[GHSA-9q2p-vc84-2rwm] OpenClaw: system.run allow-always persistence included shell-commented payload tails,https://github.com/advisories/GHSA-9q2p-vc84-2rwm,https://da.gd/RxJIFd
+GithubAdvisories,[GHSA-hfpr-jhpq-x4rm] OpenClaw: `operator.write` chat.send could reach admin-only config writes,https://github.com/advisories/GHSA-hfpr-jhpq-x4rm,https://da.gd/RmZJAU
+GithubAdvisories,[GHSA-r6qf-8968-wj9q] OpenClaw: system.run wrapper-depth boundary could skip shell approval gating,https://github.com/advisories/GHSA-r6qf-8968-wj9q,https://da.gd/N2bCl
+GithubAdvisories,[GHSA-6mgf-v5j7-45cr] OpenClaw: fetch-guard forwards custom authorization headers across cross-origin redirects,https://github.com/advisories/GHSA-6mgf-v5j7-45cr,https://da.gd/L8Oor1
+GithubAdvisories,[GHSA-pjvx-rx66-r3fg] OpenClaw: Cross-account sender authorization expansion in `/allowlist ... --store` account scoping,https://github.com/advisories/GHSA-pjvx-rx66-r3fg,https://da.gd/BC1mN
+GithubAdvisories,[GHSA-3h2q-j2v4-6w5r] OpenClaw's system.run allowlist approval parsing missed PowerShell encoded-command wrappers,https://github.com/advisories/GHSA-3h2q-j2v4-6w5r,https://da.gd/g9lWZc
+GithubAdvisories,[GHSA-j425-whc4-4jgc] OpenClaw's `system.run` env override filtering allowed dangerous helper-command pivots,https://github.com/advisories/GHSA-j425-whc4-4jgc,https://da.gd/nZqIvx
+GithubAdvisories,[GHSA-6rmx-gvvg-vh6j] OpenClaw's hooks count non-POST requests toward auth lockout,https://github.com/advisories/GHSA-6rmx-gvvg-vh6j,https://da.gd/x63fRH
+GithubAdvisories,[GHSA-rchv-x836-w7xp] OpenClaw's dashboard leaked gateway auth material via browser URL/query and localStorage,https://github.com/advisories/GHSA-rchv-x836-w7xp,https://da.gd/whXtz
+GithubAdvisories,[GHSA-x46r-mf5g-xpr6] Glances has SQL Injection via Process Names in TimescaleDB Export,https://github.com/advisories/GHSA-x46r-mf5g-xpr6,https://da.gd/V1Dbd
+GithubAdvisories,[GHSA-gh4x-f7cq-wwx6] Glances Exposes Unauthenticated Configuration Secrets,https://github.com/advisories/GHSA-gh4x-f7cq-wwx6,https://da.gd/Ii1x
+GithubAdvisories,[GHSA-r633-fcgp-m532] FileBrowser Quantum: Stored XSS in public share page via unsanitized share metadata (text/template misuse),https://github.com/advisories/GHSA-r633-fcgp-m532,https://da.gd/L0jtCz
+GithubAdvisories,[GHSA-525j-95gf-766f] FileBrowser Quantum: Password-Protected Share Bypass via /public/api/share/info,https://github.com/advisories/GHSA-525j-95gf-766f,https://da.gd/VdxZ2X
+GithubAdvisories,[GHSA-7pfv-hr63-h7cw] Admidio: Event participation IDOR - non-leaders can register other users for events via user_uuid parameter,https://github.com/advisories/GHSA-7pfv-hr63-h7cw,https://da.gd/9WDlD
