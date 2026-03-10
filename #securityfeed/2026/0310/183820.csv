@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c23c-rp3m-vpg3] Envoy's global rate limit may crash when the response phase limit is enabled and the response phase request is failed directly,https://github.com/advisories/GHSA-c23c-rp3m-vpg3,https://da.gd/gIzjI
+GithubAdvisories,[GHSA-84xm-r438-86px] Envoy: HTTP - filter chain execution on reset streams causing UAF crash,https://github.com/advisories/GHSA-84xm-r438-86px,https://da.gd/iv8cd
+GithubAdvisories,[GHSA-56cj-wgg3-x943] Envoy affected by off-by-one write in JsonEscaper::escapeString(),https://github.com/advisories/GHSA-56cj-wgg3-x943,https://da.gd/bM4c9
+GithubAdvisories,[GHSA-ghc4-35x6-crw5] Envoy has RBAC Header Validation Bypass via Multi-Value Header Concatenation,https://github.com/advisories/GHSA-ghc4-35x6-crw5,https://da.gd/zouSIX
+GithubAdvisories,[GHSA-qpr4-jrj4-6f27] Parse Server: SQL injection via dot-notation field name in PostgreSQL,https://github.com/advisories/GHSA-qpr4-jrj4-6f27,https://da.gd/knIs1j
+GithubAdvisories,[GHSA-vff3-pqq8-4cpq] Craft Commerce: Potential IDOR in Commerce carts,https://github.com/advisories/GHSA-vff3-pqq8-4cpq,https://da.gd/fWKNL
+GithubAdvisories,[GHSA-mj32-r678-7mvp] Craft Commerce has stored XSS in Craft Commerce Order Details Slideout,https://github.com/advisories/GHSA-mj32-r678-7mvp,https://da.gd/Yn620
+GithubAdvisories,[GHSA-wj89-2385-gpx3] Craft Commerce has stored XSS in Inventory Location Name,https://github.com/advisories/GHSA-wj89-2385-gpx3,https://da.gd/lvzYIz
+GithubAdvisories,"[GHSA-cfpv-rmpf-f624] Craft Commerce has multiple Stored XSS in Commerce Inventory Page, Leading to Session Hijacking",https://github.com/advisories/GHSA-cfpv-rmpf-f624,https://da.gd/U1MjAn
+GithubAdvisories,[GHSA-pmgj-gmm4-jh6j] Craft Commerce is vulnerable to SQL Injection in Commerce Inventory Table Sorting,https://github.com/advisories/GHSA-pmgj-gmm4-jh6j,https://da.gd/qttaw
+GithubAdvisories,[GHSA-mqxf-2998-c6cp] Craft Commerce is Vulnerable to Stored XSS while updating Order Status from Orders Table,https://github.com/advisories/GHSA-mqxf-2998-c6cp,https://da.gd/7SF7RH
+GithubAdvisories,[GHSA-j3x5-mghf-xvfw] Craft Commerce is Vulnerable to SQL Injection in Commerce Purchasables Table Sorting,https://github.com/advisories/GHSA-j3x5-mghf-xvfw,https://da.gd/1dibid
+GithubAdvisories,[GHSA-vg3j-hpm9-8v5v] Craft CMS has a potential information disclosure vulnerability in preview tokens,https://github.com/advisories/GHSA-vg3j-hpm9-8v5v,https://da.gd/ZgHnC5
+GithubAdvisories,[GHSA-667w-mmh7-mrr4] StudioCMS has Privilege Escalation via Insecure API Token Generation,https://github.com/advisories/GHSA-667w-mmh7-mrr4,https://da.gd/3n2Whi
+GithubAdvisories,[GHSA-3cw6-2j68-868p] Envoy vulenrable to crash for scoped ip address during DNS,https://github.com/advisories/GHSA-3cw6-2j68-868p,https://da.gd/ARwYf
