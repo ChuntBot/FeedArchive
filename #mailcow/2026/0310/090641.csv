@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Watchdog] Fix Nagios MariaDB client SSL compatibility with Alpine 3.23,https://github.com/mailcow/mailcow-dockerized/commit/2e176339baa8461bfdfd171c2918b47b4d2d4306,https://da.gd/BTCU
+GithubCommitStaging,Merge pull request #7103 from mailcow/fix/7102,https://github.com/mailcow/mailcow-dockerized/commit/5888e248c39c21b70ee50db6b12cd18e00c755ee,https://da.gd/9I26B
