@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xjgw-4wvw-rgm4] MCP Atlassian has an arbitrary file write leading to arbitrary code execution via unconstrained download_path in confluence_download_attachment,https://github.com/advisories/GHSA-xjgw-4wvw-rgm4,https://da.gd/rLsdYd
+GithubAdvisories,[GHSA-7r34-79r5-rcc9] MCP Atlassian has SSRF via unvalidated X-Atlassian-Jira-Url / X-Atlassian-Confluence-Url headers,https://github.com/advisories/GHSA-7r34-79r5-rcc9,https://da.gd/AUEYnO
+GithubAdvisories,[GHSA-r275-fr43-pm7q] simple-git has blockUnsafeOperationsPlugin bypass via case-insensitive protocol.allow config key enables RCE,https://github.com/advisories/GHSA-r275-fr43-pm7q,https://da.gd/PpCJF
