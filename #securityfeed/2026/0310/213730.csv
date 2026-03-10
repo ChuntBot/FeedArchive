@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-56jp-jfqg-f8f4] ImageMagick is vulnerable to heap buffer over-write on 32-bit systems in SFW decoder,https://github.com/advisories/GHSA-56jp-jfqg-f8f4,https://da.gd/ijBta
+GithubAdvisories,[GHSA-qmw5-2p58-xvrc] ImageMagick is vulnerable to Heap Overflow when writing extremely large image profile in the PNG encoder,https://github.com/advisories/GHSA-qmw5-2p58-xvrc,https://da.gd/b9yl
+GithubAdvisories,[GHSA-f45g-68q3-5w8x] Elysia has a string URL format ReDoS,https://github.com/advisories/GHSA-f45g-68q3-5w8x,https://da.gd/4yGgB
+GithubAdvisories,[GHSA-p9xr-7p9p-gpqx] Feathers has a NoSQL Injection via WebSocket id Parameter in MongoDB Adapter,https://github.com/advisories/GHSA-p9xr-7p9p-gpqx,https://da.gd/COfMPc
+GithubAdvisories,[GHSA-wg9x-qfgw-pxhj] Feathers has an OAuth Callback Account Takeover issue,https://github.com/advisories/GHSA-wg9x-qfgw-pxhj,https://da.gd/y9ab9l
+GithubAdvisories,[GHSA-mrmj-x24c-wwcv] ImageMagick has a heap buffer over-read via 32-bit integer overflow in MAT decoder,https://github.com/advisories/GHSA-mrmj-x24c-wwcv,https://da.gd/zsKlRf
+GithubAdvisories,[GHSA-493f-jh8w-qhx3] ImageMagick has a Path Policy TOCTOU symlink race bypass,https://github.com/advisories/GHSA-493f-jh8w-qhx3,https://da.gd/R5P7a
