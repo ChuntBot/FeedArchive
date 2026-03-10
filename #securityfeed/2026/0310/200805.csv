@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m4q3-832v-44j6] Meta Box Plugin for WordPress: Authenticated (Contributor+) Arbitrary File Deletion via ajax_delete_file,https://github.com/advisories/GHSA-m4q3-832v-44j6,https://da.gd/rGYz2
+GithubAdvisories,[GHSA-7xrh-hqfc-g7qr] Apache ZooKeeper: Reverse-DNS fallback enables hostname verification bypass in ZooKeeper ZKTrustManager,https://github.com/advisories/GHSA-7xrh-hqfc-g7qr,https://da.gd/n2lm3H
