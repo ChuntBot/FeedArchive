@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rv5f-ccpm-xjj4] Apache Airflow AWS Auth Manager has Host Header Injection Leading to SAML Authentication Bypass,https://github.com/advisories/GHSA-rv5f-ccpm-xjj4,https://da.gd/802lqp
+GithubAdvisories,[GHSA-9r5j-7r2x-rv4g] Apache Airflow Providers Http has Unsafe Pickle Deserializatio leading to RCE via HttpOperator,https://github.com/advisories/GHSA-9r5j-7r2x-rv4g,https://da.gd/jFhlVU
+GithubAdvisories,[GHSA-m6hv-x64c-27mm] copyparty: volflag `nohtml` did not block javascript in svg files,https://github.com/advisories/GHSA-m6hv-x64c-27mm,https://da.gd/hn1i0
+GithubAdvisories,"[GHSA-f7pm-6hr8-7ggm] Webauthn Framework: allowed_origins collapses URL-like origins to host-only values, bypassing exact origin validation",https://github.com/advisories/GHSA-f7pm-6hr8-7ggm,https://da.gd/GjJJhL
+GithubAdvisories,[GHSA-9c4h-pwmf-m6fj] RSSN has Arbitrary Code Execution via Unvalidated JIT Instruction Generation in C-FFI Interface,https://github.com/advisories/GHSA-9c4h-pwmf-m6fj,https://da.gd/pS4Q
+GithubAdvisories,[GHSA-xv8g-fj9h-6gmv] Linkdave Missing Authentication on REST and WebSocket endpoints,https://github.com/advisories/GHSA-xv8g-fj9h-6gmv,https://da.gd/f1CDSA
+GithubAdvisories,[GHSA-cw6x-mw64-q6pv] OneUptime has WhatsApp Resend Verification Authorization Bypass,https://github.com/advisories/GHSA-cw6x-mw64-q6pv,https://da.gd/21Fpj
