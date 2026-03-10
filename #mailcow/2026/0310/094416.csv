@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubCommit,[SOGo] Fix draft folder creation by adding /var/spool/sogo directory,https://github.com/mailcow/mailcow-dockerized/commit/e7ea3aa6083e23faef1ad7b858f690f4b07a8c48,https://da.gd/L0Qrt4
+GithubCommit,Merge pull request #7108 from mailcow/fix/7105,https://github.com/mailcow/mailcow-dockerized/commit/bea9ad7e8f09186bddd3e9b8cdba0d384417bd11,https://da.gd/YkX73
+GithubCommit,Merge pull request #7109 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/b59869b7206287875d8b80b203330d1f9157b2be,https://da.gd/KBFkX
