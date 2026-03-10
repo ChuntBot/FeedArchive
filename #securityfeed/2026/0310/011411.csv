@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jw8q-gjvg-8w4q] OneUptime has Synthetic Monitor RCE via exposed Playwright browser object,https://github.com/advisories/GHSA-jw8q-gjvg-8w4q,https://da.gd/rLNX5F
+GithubAdvisories,[GHSA-r5v6-2599-9g3m] OneUptime has authorization bypass via client‑controlled is-multi-tenant-query header that leads to cross‑tenant data exposure and account takeover,https://github.com/advisories/GHSA-r5v6-2599-9g3m,https://da.gd/N348J
+GithubAdvisories,[GHSA-wmfp-5q7x-987x] liquidjs has a path traversal fallback vulnerability,https://github.com/advisories/GHSA-wmfp-5q7x-987x,https://da.gd/nbZ3JP
+GithubAdvisories,[GHSA-m84f-rg3g-9pvw] Malware in @platform-growth/guidance-channel-provider,https://github.com/advisories/GHSA-m84f-rg3g-9pvw,https://da.gd/WrcJPB
+GithubAdvisories,[GHSA-hr5p-8hqc-wcm6] Malware in falcologgerinternalstate,https://github.com/advisories/GHSA-hr5p-8hqc-wcm6,https://da.gd/9OQne5
+GithubAdvisories,[GHSA-5q6j-pgfc-j6hj] Malware in iron-localstorage,https://github.com/advisories/GHSA-5q6j-pgfc-j6hj,https://da.gd/80tzEZ
+GithubAdvisories,[GHSA-2m9p-9969-wqcg] Malware in @mmm-otrade/transaction-adapter,https://github.com/advisories/GHSA-2m9p-9969-wqcg,https://da.gd/3NxvN
+GithubAdvisories,[GHSA-3gp5-v85g-m879] Malware in collab-library,https://github.com/advisories/GHSA-3gp5-v85g-m879,https://da.gd/vopiCZ
+GithubAdvisories,[GHSA-rjmf-gw43-xhq4] Malware in amt-package-united-icons,https://github.com/advisories/GHSA-rjmf-gw43-xhq4,https://da.gd/O40NyY
+GithubAdvisories,[GHSA-qjw5-fmpc-w42r] Malware in iron-signals,https://github.com/advisories/GHSA-qjw5-fmpc-w42r,https://da.gd/Wj97h
+GithubAdvisories,[GHSA-2ggx-x8w4-989p] Malware in iron-image,https://github.com/advisories/GHSA-2ggx-x8w4-989p,https://da.gd/yRGorX
+GithubAdvisories,[GHSA-f874-c2w3-388v] Malware in iron-fit-behavior,https://github.com/advisories/GHSA-f874-c2w3-388v,https://da.gd/2fkn5
+GithubAdvisories,[GHSA-h9gw-qwfq-q74c] Malware in iron-menu-behavior,https://github.com/advisories/GHSA-h9gw-qwfq-q74c,https://da.gd/UtwZJ2
+GithubAdvisories,[GHSA-hphv-rwc2-7gp4] Malware in iron-pages,https://github.com/advisories/GHSA-hphv-rwc2-7gp4,https://da.gd/gmOeNu
+GithubAdvisories,[GHSA-m8gv-h3cq-3grx] Malware in @mmm-otrade/transaction,https://github.com/advisories/GHSA-m8gv-h3cq-3grx,https://da.gd/Hl8nhE
+GithubAdvisories,[GHSA-cx53-g4g3-wmcj] Malware in iron-overlay-behavior,https://github.com/advisories/GHSA-cx53-g4g3-wmcj,https://da.gd/Qhu5bF
+GithubAdvisories,[GHSA-9mxj-qv8w-v2qx] Malware in xc-input-toggle,https://github.com/advisories/GHSA-9mxj-qv8w-v2qx,https://da.gd/L4BGs
+GithubAdvisories,[GHSA-3hwm-q5v7-wc64] Malware in @rothaus/falcologgerinternalstate,https://github.com/advisories/GHSA-3hwm-q5v7-wc64,https://da.gd/VWkri
+GithubAdvisories,[GHSA-c62p-2739-c88f] Malware in iron-media-query,https://github.com/advisories/GHSA-c62p-2739-c88f,https://da.gd/YZxHn7
+GithubAdvisories,[GHSA-95jf-557m-8wf3] Malware in iron-selector,https://github.com/advisories/GHSA-95jf-557m-8wf3,https://da.gd/OWltuO
+GithubAdvisories,[GHSA-27vg-33gh-4hwg] Actual Sync Server has an Authenticated Path Traversal,https://github.com/advisories/GHSA-27vg-33gh-4hwg,https://da.gd/miX5G
+GithubAdvisories,[GHSA-5j86-7r7m-p8h6] Parse Server has Denial of Service (DoS) and Cloud Function Dispatch Bypass via Prototype Chain Resolution,https://github.com/advisories/GHSA-5j86-7r7m-p8h6,https://da.gd/M8uy
+GithubAdvisories,[GHSA-q342-9w2p-57fp] Parse Server has denylist `requestKeywordDenylist` keyword scan bypass through nested object placement,https://github.com/advisories/GHSA-q342-9w2p-57fp,https://da.gd/dYHpD4
+GithubAdvisories,[GHSA-mf3j-86qx-cq5j] Parse Server has Regular Expression Denial of Service (ReDoS) via `$regex` query in LiveQuery,https://github.com/advisories/GHSA-mf3j-86qx-cq5j,https://da.gd/OTFqI
+GithubAdvisories,[GHSA-3c4m-j3g4-hh25] flarum/nicknames extension has display name injection in notification emails (autolink & markdown),https://github.com/advisories/GHSA-3c4m-j3g4-hh25,https://da.gd/PP1z1a
