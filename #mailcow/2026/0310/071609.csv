@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+GithubCommit,[ACME] auto-create DNS-01 config template on startup,https://github.com/mailcow/mailcow-dockerized/commit/dcbea71e67e3581529bed7159554c4fd1f4ee00f,https://da.gd/ZRZDI1
+GithubCommit,Update docker/setup-qemu-action action to v4 (#7092),https://github.com/mailcow/mailcow-dockerized/commit/a4ca5f936347eaae3666726b68f73efdb8eea00a,https://da.gd/joCwr1
+GithubCommit,chore(deps): update docker/login-action action to v4 (#7094),https://github.com/mailcow/mailcow-dockerized/commit/baf0e7e6581dfaccec765223b7aa421b3f061b81,https://da.gd/fnP0Q
+GithubCommit,Update alpine images to 3.23,https://github.com/mailcow/mailcow-dockerized/commit/97312c1a9d29bbcda7740069753fa2b3ff992e9c,https://da.gd/OGfd
+GithubCommit,Update image tags,https://github.com/mailcow/mailcow-dockerized/commit/763ecbc93e0b47ae39e200de181fd68e7a12a8d7,https://da.gd/BR04Nr
+GithubCommit,[SOGo] Fix custom UI patches after moving to source-compiled SOGo,https://github.com/mailcow/mailcow-dockerized/commit/fe71f84c822c69104c61ac8f6bc9c6f299366d76,https://da.gd/g7dHAU
+GithubCommit,[Web] Updated lang.nl-nl.json (#7095),https://github.com/mailcow/mailcow-dockerized/commit/6012cf4486336a32a9e7fabb55dc215899180e04,https://da.gd/v8Vflx
+GithubCommit,chore(deps): update docker/setup-buildx-action action to v4 (#7096),https://github.com/mailcow/mailcow-dockerized/commit/598ea21827d92440c9fd601a95b451b90c6242c3,https://da.gd/vnMCAm
+GithubCommit,Update docker/build-push-action action to v7 (#7097),https://github.com/mailcow/mailcow-dockerized/commit/905e93627c7d8ce884732661c90dd4bd8596d7d4,https://da.gd/gu0K6c
+GithubCommit,[SOGo] Update to 5.12.5,https://github.com/mailcow/mailcow-dockerized/commit/6c857243ec671b0045d563a2c9b6e7d4a1fec3d9,https://da.gd/bB24J
+GithubCommit,Merge pull request #7098 from mailcow/feat/sogo-5.12.5,https://github.com/mailcow/mailcow-dockerized/commit/569b4cf985be04ec3c355c81aa83d6cc48fd4b28,https://da.gd/HpY4L
+GithubCommit,Merge pull request #7093 from mailcow/fix/7054,https://github.com/mailcow/mailcow-dockerized/commit/efaeb77e13d2f50dd219dbfce133ec77dcfa9933,https://da.gd/Q3DrFT
+GithubCommit,[SOGo] Update paths from /usr/lib/ to /usr/local/lib/,https://github.com/mailcow/mailcow-dockerized/commit/e84822606253172641d5e4a7fe99b8326b4dc0e3,https://da.gd/nCIIP
+GithubCommit,[Rspamd] Update to 3.14.3-1,https://github.com/mailcow/mailcow-dockerized/commit/8760e7e5db0047b9789e0168db5e1b7efa1f9c82,https://da.gd/onTC
+GithubCommit,Merge pull request #7100 from mailcow/feat/rspamd-3.14.3,https://github.com/mailcow/mailcow-dockerized/commit/3caef45a129ff65498f759048c5b8ed1c723c676,https://da.gd/DBUKK
+GithubCommit,prevent false positives in option detection in new_options.sh,https://github.com/mailcow/mailcow-dockerized/commit/fd24163c6e2c5c8d09e341b45bad0c65fa711f33,https://da.gd/YsYP
+GithubCommit,Extend --dev flag to skip _modules update,https://github.com/mailcow/mailcow-dockerized/commit/82ea41842389a926be2943d7bc413459c075d916,https://da.gd/TeyxlT
+GithubCommit,prevent false positives in option detection in new_options.sh,https://github.com/mailcow/mailcow-dockerized/commit/709117fe19cd7656127eaf3742663d382a19425a,https://da.gd/qgHnN
+GithubCommit,Rename dns-101 to dns-01,https://github.com/mailcow/mailcow-dockerized/commit/8f883f3d374b4de9b3ad731d3bef5d667b095ae8,https://da.gd/xWeEb
+GithubCommit,Merge pull request #7101 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/b84ba8ded12fc5646a634cf8d39f8a5c9b298088,https://da.gd/deTde6
