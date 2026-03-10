@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42 Chromium Update FEDORA-2026-06657d1811 Integer Overflow,https://linuxsecurity.com/advisories/fedora/chromium-fedora-42-2026-06657d1811,https://da.gd/9GeO6R
+LinuxSecurity,OpenSUSE Leap 16.3 gcc-compiler Major Memory Leak Patch 2027-fb92dc34b0,https://linuxsecurity.com/advisories/fedora/mingw-zlib-fedora-42-2026-ca44fe35a9,https://da.gd/rc3t5
+LinuxSecurity,Fedora 42 perl-Net-CIDR Critical Leading Zeros Issue 2026-baf8782c7a,https://linuxsecurity.com/advisories/fedora/perl-net-cidr-fedora-42,https://da.gd/KL7X
+LinuxSecurity,Fedora 43 Chromium Integer Overflow Issues DevTools 2026-f62db6b372,https://linuxsecurity.com/advisories/fedora/chromium-fedora-43-2026-f62db6b372,https://da.gd/NZq21
+LinuxSecurity,Fedora 43 polkit Security Advisory FEDORA-2026-0e9ef494fc,https://linuxsecurity.com/advisories/fedora/fedora-polkit-2026-0e9ef494fc,https://da.gd/9YhPy
+LinuxSecurity,Fedora 43 rust-pythonize Critical Update DoS Threat FEDORA-2026-151bfcc2af,https://linuxsecurity.com/advisories/fedora/rust-pythonize-fedora-43-2026-151bfcc2af,https://da.gd/IZMzJ
