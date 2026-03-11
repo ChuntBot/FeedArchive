@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pmc9-f5qr-2pcr] SiYuan has a SVG Sanitizer Bypass via Whitespace in `javascript:` URI — Unauthenticated XSS,https://github.com/advisories/GHSA-pmc9-f5qr-2pcr,https://da.gd/sE9pKu
+GithubAdvisories,[GHSA-7fv4-fmmc-86g2] @siteboon/claude-code-ui is Vulnerable to Shell Command Injection in Git Routes,https://github.com/advisories/GHSA-7fv4-fmmc-86g2,https://da.gd/s0d8JN
+GithubAdvisories,[GHSA-5v7r-6r5c-r473] file-type affected by infinite loop in ASF parser on malformed input with zero-size sub-header,https://github.com/advisories/GHSA-5v7r-6r5c-r473,https://da.gd/BtLJ5
+GithubAdvisories,[GHSA-5hc8-qmg8-pw27] SiYuan has a SVG Sanitizer Bypass via `` Element — Unauthenticated XSS,https://github.com/advisories/GHSA-5hc8-qmg8-pw27,https://da.gd/s8nQ7
+GithubAdvisories,[GHSA-9ppj-qmqm-q256] node-tar Symlink Path Traversal via Drive-Relative Linkpath,https://github.com/advisories/GHSA-9ppj-qmqm-q256,https://da.gd/PW3etQ
+GithubAdvisories,[GHSA-85jx-fm8m-x8c6] zot’s create-only policy allows overwrite attempts of existing latest tag (update permission not required),https://github.com/advisories/GHSA-85jx-fm8m-x8c6,https://da.gd/tcq3Gq
