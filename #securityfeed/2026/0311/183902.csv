@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jjwr-xmw6-gf78] Apache PDFBox has Path Traversal through PDComplexFileSpecification.getFilename() function,https://github.com/advisories/GHSA-jjwr-xmw6-gf78,https://da.gd/dk3AdF
