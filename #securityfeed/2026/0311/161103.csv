@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vv3h-7qwr-722v] Anytype Heart's gRPC API client challenge verification can be bypassed on localhost,https://github.com/advisories/GHSA-vv3h-7qwr-722v,https://da.gd/BCYAGv
