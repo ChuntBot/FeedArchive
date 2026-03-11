@@ -1,0 +1,51 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g32c-4pvp-769g] Quill has DoS via unbounded read of HTTP response body during notarization,https://github.com/advisories/GHSA-g32c-4pvp-769g,https://da.gd/26L8P
+GithubAdvisories,[GHSA-xj69-m9qq-8m94] Quill has unbounded memory allocation via unvalidated size fields in Mach-O binary parsing,https://github.com/advisories/GHSA-xj69-m9qq-8m94,https://da.gd/no5UT2
+GithubAdvisories,[GHSA-7q3q-5px6-4c5p] Quill vulnerable to SSRF via unvalidated URL from Apple notarization log retrieval,https://github.com/advisories/GHSA-7q3q-5px6-4c5p,https://da.gd/lOB9i
+GithubAdvisories,[GHSA-gv8f-wpm2-m5wr] @siteboon/claude-code-ui Vulnerable to Unauthenticated RCE via WebSocket Shell Injection,https://github.com/advisories/GHSA-gv8f-wpm2-m5wr,https://da.gd/pKzUE
+GithubAdvisories,[GHSA-w54v-hf9p-8856] Parse Server vulnerable to user enumeration via email verification endpoint,https://github.com/advisories/GHSA-w54v-hf9p-8856,https://da.gd/8WKwi
+GithubAdvisories,[GHSA-4hf6-3x24-c9m8] Parse Server's MFA recovery codes not consumed after use,https://github.com/advisories/GHSA-4hf6-3x24-c9m8,https://da.gd/Tk94r8
+GithubAdvisories,[GHSA-r2m8-pxm9-9c4g] Parse Server has a protected fields bypass via dot-notation in query and sort,https://github.com/advisories/GHSA-r2m8-pxm9-9c4g,https://da.gd/uNEzi2
+GithubAdvisories,[GHSA-gqpp-xgvh-9h7h] Parse Server vulnerable to SQL Injection via dot-notation sub-key name in `Increment` operation on PostgreSQL,https://github.com/advisories/GHSA-gqpp-xgvh-9h7h,https://da.gd/LksFF
+GithubAdvisories,[GHSA-v5hf-f4c3-m5rv] Parse Server vulnerable to stored XSS via file upload of HTML-renderable file types,https://github.com/advisories/GHSA-v5hf-f4c3-m5rv,https://da.gd/Qo4YJ
+GithubAdvisories,[GHSA-rmrf-g9r3-73pm] flagd Vulnerable to Allocation of Resources Without Limits or Throttling,https://github.com/advisories/GHSA-rmrf-g9r3-73pm,https://da.gd/6E4n4X
+GithubAdvisories,[GHSA-j443-wcqq-xprh] Terraform Provider for SendGrid: TLS Session Resumption Bypasses Certificate Authority Trust Store Modifications in Go,https://github.com/advisories/GHSA-j443-wcqq-xprh,https://da.gd/eIBt9
+GithubAdvisories,[GHSA-v8w9-8mx6-g223] Hono vulnerable to Prototype Pollution possible through __proto__ key allowed in parseBody({ dot: true }),https://github.com/advisories/GHSA-v8w9-8mx6-g223,https://da.gd/iag8F
+GithubAdvisories,[GHSA-jw5g-f64p-6x78] Camaleon CMS vulnerable to Path Traversal through AWS S3 uploader implementation,https://github.com/advisories/GHSA-jw5g-f64p-6x78,https://da.gd/9wKdTY
+GithubAdvisories,[GHSA-vhj5-x93p-67jw] actix-web-lab has host header poisoning in redirect middleware can generate attacker-controlled absolute redirects,https://github.com/advisories/GHSA-vhj5-x93p-67jw,https://da.gd/TzuoC0
+GithubAdvisories,[GHSA-g7j6-fmwx-7vp8] CraftCMS's `ElementSearchController` Affected by Blind SQL Injection,https://github.com/advisories/GHSA-g7j6-fmwx-7vp8,https://da.gd/uuBpem
+GithubAdvisories,[GHSA-q3vj-96h2-gwvg] Parse Server vulnerable to SQL injection via `Increment` operation on nested object field in PostgreSQL,https://github.com/advisories/GHSA-q3vj-96h2-gwvg,https://da.gd/hFOlp
+GithubAdvisories,[GHSA-fvwq-45qv-xvhv] CraftCMS vulnerable to reflective XSS via incomplete return URL sanitization,https://github.com/advisories/GHSA-fvwq-45qv-xvhv,https://da.gd/eNmy4
+GithubAdvisories,[GHSA-f2fc-vc88-6w7q] @siteboon/claude-code-ui is Vulnerable to Command Injection via Multiple Parameters,https://github.com/advisories/GHSA-f2fc-vc88-6w7q,https://da.gd/WURvE
+GithubAdvisories,[GHSA-fpvf-fvp5-996r] Umbraco Backoffice API Allows Unauthorized Modification of Domain Data,https://github.com/advisories/GHSA-fpvf-fvp5-996r,https://da.gd/1C5kV
+GithubAdvisories,[GHSA-mhg6-2q2v-9h2c] sigstore-ruby verifier returns success for DSSE bundles with mismatched in-toto subject digest,https://github.com/advisories/GHSA-mhg6-2q2v-9h2c,https://da.gd/1YGf
+GithubAdvisories,[GHSA-fvcw-9w9r-pxc7] Flowise affected by Server-Side Request Forgery (SSRF) in HTTP Node Leading to Internal Network Access,https://github.com/advisories/GHSA-fvcw-9w9r-pxc7,https://da.gd/wb2R
+GithubAdvisories,[GHSA-7m6r-fhh7-r47c] Parse Server vulnerable to LDAP injection via unsanitized user input in DN and group filter construction,https://github.com/advisories/GHSA-7m6r-fhh7-r47c,https://da.gd/P8AiD
+GithubAdvisories,[GHSA-7xg7-rqf6-pw6c] Parse Server: Classes `_GraphQLConfig` and `_Audience` master key bypass via generic class routes,https://github.com/advisories/GHSA-7xg7-rqf6-pw6c,https://da.gd/cfyI1n
+GithubAdvisories,[GHSA-rfx7-4xw3-gh4m] @appium/support has a Zip Slip arbitrary file write in its ZIP extraction,https://github.com/advisories/GHSA-rfx7-4xw3-gh4m,https://da.gd/vgThuL
+GithubAdvisories,[GHSA-775h-3xrc-c228] Parse Server has a rate limit bypass via batch request endpoint,https://github.com/advisories/GHSA-775h-3xrc-c228,https://da.gd/pTcrnk
+GithubAdvisories,[GHSA-fr88-w35c-r596] Parse Server OAuth2 authentication adapter account takeover via identity spoofing,https://github.com/advisories/GHSA-fr88-w35c-r596,https://da.gd/GtBua
+GithubAdvisories,[GHSA-5f92-jrq3-28rc] Parse Server has role escalation and CLP bypass via direct `_Join` table write,https://github.com/advisories/GHSA-5f92-jrq3-28rc,https://da.gd/BFryq9
+GithubAdvisories,[GHSA-6r2j-cxgf-495f] Parse Server vulnerable to session token exfiltration via `redirectClassNameForKey` query parameter,https://github.com/advisories/GHSA-6r2j-cxgf-495f,https://da.gd/97ivJ
+GithubAdvisories,[GHSA-72hp-qff8-4pvv] Parse Server has a protected fields bypass via logical query operators,https://github.com/advisories/GHSA-72hp-qff8-4pvv,https://da.gd/XPEhv
+GithubAdvisories,[GHSA-6457-6jrx-69cr] Sequelize v6 Vulnerable to SQL Injection via JSON Column Cast Type,https://github.com/advisories/GHSA-6457-6jrx-69cr,https://da.gd/5EkPky
+GithubAdvisories,[GHSA-48mh-j4p5-7j9v] Parse Server missing audience validation in Keycloak authentication adapter,https://github.com/advisories/GHSA-48mh-j4p5-7j9v,https://da.gd/PGrOX
+GithubAdvisories,[GHSA-hcj7-6gxh-24ww] Parse Server vulnerable to stored cross-site scripting (XSS) via SVG file upload,https://github.com/advisories/GHSA-hcj7-6gxh-24ww,https://da.gd/6Gjvbs
+GithubAdvisories,[GHSA-7ch5-98q2-7289] Parse Server has a bypass of class-level permissions in LiveQuery,https://github.com/advisories/GHSA-7ch5-98q2-7289,https://da.gd/75B7O
+GithubAdvisories,[GHSA-cmj3-wx7h-ffvg] Parse Server affected by denial-of-service via unbounded query complexity in REST and GraphQL API,https://github.com/advisories/GHSA-cmj3-wx7h-ffvg,https://da.gd/ErzN
+GithubAdvisories,[GHSA-8rgj-vrfr-6hqr] StudioCMS: IDOR — Arbitrary API Token Revocation Leading to Denial of Service,https://github.com/advisories/GHSA-8rgj-vrfr-6hqr,https://da.gd/EMIuED
+GithubAdvisories,[GHSA-vgjh-hmwf-c588] Parse Server has a NoSQL injection via token type in password reset and email verification endpoints,https://github.com/advisories/GHSA-vgjh-hmwf-c588,https://da.gd/peeht
+GithubAdvisories,[GHSA-hqmh-ppp3-xvm7] pypdf: manipulated stream length values can exhaust RAM,https://github.com/advisories/GHSA-hqmh-ppp3-xvm7,https://da.gd/sbjUIJ
+GithubAdvisories,[GHSA-xcwx-r2gw-w93m] Sylius has a DQL Injection via API Order Filters,https://github.com/advisories/GHSA-xcwx-r2gw-w93m,https://da.gd/qxiSi
+GithubAdvisories,[GHSA-7mp4-25j8-hp5q] Sylius has a Promotion Usage Limit Bypass via Race Condition,https://github.com/advisories/GHSA-7mp4-25j8-hp5q,https://da.gd/3togH
+GithubAdvisories,[GHSA-mx4q-xxc9-pf5q] Sylius Vulnerable to Authenticated Stored XSS,https://github.com/advisories/GHSA-mx4q-xxc9-pf5q,https://da.gd/TMiimT
+GithubAdvisories,[GHSA-vgh8-c6fp-7gcg] Sylius has a XSS vulnerability in checkout login form,https://github.com/advisories/GHSA-vgh8-c6fp-7gcg,https://da.gd/FvTPw
+GithubAdvisories,[GHSA-wjmg-4cq5-m8hg] Sylius is Missing Authorization in API v2 Add Item Endpoint,https://github.com/advisories/GHSA-wjmg-4cq5-m8hg,https://da.gd/y6PFJ
+GithubAdvisories,[GHSA-2xc6-348p-c2x6] Sylius affected by IDOR in Cart and Checkout LiveComponents,https://github.com/advisories/GHSA-2xc6-348p-c2x6,https://da.gd/bHtm3
+GithubAdvisories,[GHSA-9ffx-f77r-756w] Sylius has an Open Redirect via Referer Header,https://github.com/advisories/GHSA-9ffx-f77r-756w,https://da.gd/IEgeA
+GithubAdvisories,[GHSA-h7cj-j2vv-qw8r] Wisp Vulnerable to Path Traversal,https://github.com/advisories/GHSA-h7cj-j2vv-qw8r,https://da.gd/fYOMXW
+GithubAdvisories,[GHSA-ffv6-jj46-x367] django-unicorn affected by component state manipulation via unvalidated attribute access,https://github.com/advisories/GHSA-ffv6-jj46-x367,https://da.gd/6laqV
+GithubAdvisories,[GHSA-364q-w7vh-vhpc] OliveTin's unsafe parsing of UniqueTrackingId can be used to write files,https://github.com/advisories/GHSA-364q-w7vh-vhpc,https://da.gd/VlH0b8
+GithubAdvisories,[GHSA-6xvm-j4wr-6v98] Quinn affected by unauthenticated remote DoS via panic in QUIC transport parameter parsing,https://github.com/advisories/GHSA-6xvm-j4wr-6v98,https://da.gd/g3K00C
+GithubAdvisories,[GHSA-6w48-2g9j-v9q5] Apache IoTDB has an Improper Input Validation vulnerability,https://github.com/advisories/GHSA-6w48-2g9j-v9q5,https://da.gd/Bg9z04
+GithubAdvisories,[GHSA-74cf-pgh9-m5q2] Apache IoTDB has an Insecure Default Configuration Vulnerability,https://github.com/advisories/GHSA-74cf-pgh9-m5q2,https://da.gd/XuDO0
