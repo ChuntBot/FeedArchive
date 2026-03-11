@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3wf5-g532-rcrr] Argo Workflows: WorkflowTemplate Security Bypass via podSpecPatch in Strict/Secure Reference Mode,https://github.com/advisories/GHSA-3wf5-g532-rcrr,https://da.gd/9qrvN
+GithubAdvisories,[GHSA-c4p7-rwrg-pf6p] Shopware vulnerable to a potential take over of app credentials,https://github.com/advisories/GHSA-c4p7-rwrg-pf6p,https://da.gd/iAz9c
+GithubAdvisories,[GHSA-gqc5-xv7m-gcjq] Shopware has user enumeration via distinct error codes on Store API login endpoint,https://github.com/advisories/GHSA-gqc5-xv7m-gcjq,https://da.gd/9z8ikj
+GithubAdvisories,[GHSA-7vvp-j573-5584] Shopware: Unauthenticated data extraction possible through store-api.order endpoint,https://github.com/advisories/GHSA-7vvp-j573-5584,https://da.gd/mMJSh
+GithubAdvisories,[GHSA-rjgh-wgc7-m37j] Vaadin Vulnerable to Authentication Bypass When Accessing the /VAADIN Endpoint Without a Trailing Slash,https://github.com/advisories/GHSA-rjgh-wgc7-m37j,https://da.gd/oVLvo
+GithubAdvisories,[GHSA-387c-qmrw-59qv] Duplicate Advisory: Microsoft Security Advisory CVE-2026-26131 – .NET Elevation of Privilege Vulnerability,https://github.com/advisories/GHSA-387c-qmrw-59qv,https://da.gd/fCR70
