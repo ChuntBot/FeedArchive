@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wp52-r2fp-4vmr] pdfmake is vulnerable to server-side request forgery (SSRF),https://github.com/advisories/GHSA-wp52-r2fp-4vmr,https://da.gd/bq98Z
+GithubAdvisories,[GHSA-rccq-2fxq-7x3h] LimeSurvey is vulnerable to SQL injection,https://github.com/advisories/GHSA-rccq-2fxq-7x3h,https://da.gd/RDiDY8
+GithubAdvisories,[GHSA-73j8-2gch-69rq] .NET Denial of Service Vulnerability,https://github.com/advisories/GHSA-73j8-2gch-69rq,https://da.gd/kG9dIN
+GithubAdvisories,[GHSA-4vgm-c2wm-63mw] .NET Denial of Service Vulnerability,https://github.com/advisories/GHSA-4vgm-c2wm-63mw,https://da.gd/VOKAn
