@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 23 Python Security Random Essentials Addressing Buffer Overflow,https://linuxsecurity.com/advisories/fedora/perl-crypt-sysrandom-xs-fedora-42,https://da.gd/QwGb2c
+LinuxSecurity,Fedora 43 perl-Crypt-SysRandom-XS Important Heap Overflow CVE-2026-2597,https://linuxsecurity.com/advisories/fedora/perl-crypt-sysrandom-xs-fedora-43,https://da.gd/kebya
+LinuxSecurity,Fedora 44 systemd Important Privilege Escalation Fix 2026-c1c45c4b2d,https://linuxsecurity.com/advisories/fedora/fedora-44-systemd-2026-c1c45c4b2d,https://da.gd/d611q
+LinuxSecurity,Oracle Linux 10 git-lfs Key Buffer Overflow Alerts ELSA-2026-4165,https://linuxsecurity.com/advisories/oracle/git-lfs-oracle10-el-2026-4164,https://da.gd/w5LLau
+LinuxSecurity,Oracle Linux 10 MySQL8 ELSA-2026-4162 Moderate Security Fix,https://linuxsecurity.com/advisories/oracle/mysql8-elsa-2026-4162,https://da.gd/TG4X
+LinuxSecurity,Oracle Linux 10 Advisory ELSA-2026-4012 Kernel Moderate Update,https://linuxsecurity.com/advisories/oracle/oracle10-elasticsearch-2026-4012-kernel,https://da.gd/iPKI
