@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g3hp-vvqf-8vw6] Craft CMS Vulnerable to Stored XSS via User Group Name in User Permissions Page,https://github.com/advisories/GHSA-g3hp-vvqf-8vw6,https://da.gd/jxfeN
+GithubAdvisories,[GHSA-fp5j-j7j4-mcxc] CraftCMS has an RCE vulnerability via relational conditionals in the control panel,https://github.com/advisories/GHSA-fp5j-j7j4-mcxc,https://da.gd/1L1Dz
+GithubAdvisories,[GHSA-mmf8-487q-p45m] Striae has a hash validation utility vulnerability,https://github.com/advisories/GHSA-mmf8-487q-p45m,https://da.gd/etMJr
+GithubAdvisories,[GHSA-rhcg-3h8r-v6vp] Umbraco Affected by Vertical Privilege Escalation via Missing Authorization Checks,https://github.com/advisories/GHSA-rhcg-3h8r-v6vp,https://da.gd/WkelR
+GithubAdvisories,[GHSA-vrqc-59mw-qqg7] Umbraco has Stored XSS in UFM Rendering Pipeline via Permissive DOMPurify Attribute Filtering,https://github.com/advisories/GHSA-vrqc-59mw-qqg7,https://da.gd/uyIK
+GithubAdvisories,[GHSA-54gx-3cgr-7mfm] Cosmos EVM: incorrect state handling during nested EVM execution paths,https://github.com/advisories/GHSA-54gx-3cgr-7mfm,https://da.gd/LHfX4a
+GithubAdvisories,[GHSA-8q2w-wr49-whqj] Traefik: kubernetes gateway rule injection via unescaped backticks in HTTPRoute match values,https://github.com/advisories/GHSA-8q2w-wr49-whqj,https://da.gd/Ri9HCv
+GithubAdvisories,[GHSA-56px-hm34-xqj5] Unauthorized access to Argo Workflows Template,https://github.com/advisories/GHSA-56px-hm34-xqj5,https://da.gd/9wtLq8
