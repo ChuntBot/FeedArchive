@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hhfx-wfvq-7g9c] Azure MCP Server has Server-Side Request Forgery issue that allows authorized attacker to elevate privileges over a network,https://github.com/advisories/GHSA-hhfx-wfvq-7g9c,https://da.gd/ciilg
+GithubAdvisories,[GHSA-c8gq-rhqh-wgwm] Duplicate Advisory: .NET Denial of Service Vulnerability,https://github.com/advisories/GHSA-c8gq-rhqh-wgwm,https://da.gd/QzsccU
+GithubAdvisories,[GHSA-vh8f-65qg-3m8j] Duplicate Advisory: .NET Denial of Service Vulnerability,https://github.com/advisories/GHSA-vh8f-65qg-3m8j,https://da.gd/5hVI9
+GithubAdvisories,"[GHSA-9jfh-9xrq-4vwm] Shescape escape() leaves bracket glob expansion active on Bash, BusyBox, and Dash",https://github.com/advisories/GHSA-9jfh-9xrq-4vwm,https://da.gd/QWDIq
+GithubAdvisories,[GHSA-crjq-wm6x-6qx7] .NET Elevation of Privilege Vulnerability,https://github.com/advisories/GHSA-crjq-wm6x-6qx7,https://da.gd/obAoms
