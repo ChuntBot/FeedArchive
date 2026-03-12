@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] Fix LDAP/Keycloak login TypeError - missing JSON decode for att…,https://github.com/mailcow/mailcow-dockerized/commit/d1feebf164015a7c62ffdbbe9555424a1b07d402,https://da.gd/ApkU
+GithubCommitStaging,Merge pull request #7123 from mailcow/fix/7115,https://github.com/mailcow/mailcow-dockerized/commit/5f8382ef44ca1d23b0fc7abe67a7066e7d9548e7,https://da.gd/FVmkG
