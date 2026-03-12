@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wrhr-rf8j-r842] ImageMagick: Heap overflow in pcd decoder leads to out of bounds read,https://github.com/advisories/GHSA-wrhr-rf8j-r842,https://da.gd/dQ8V5q
+GithubAdvisories,[GHSA-mqfc-82jx-3mr2] ImageMagick has heap buffer overflow in YUV 4:2:2 decoder,https://github.com/advisories/GHSA-mqfc-82jx-3mr2,https://da.gd/PLF7OD
+GithubAdvisories,[GHSA-pmq6-8289-hx3v] ImageMagick has Heap Out-of-Bounds Read in DCM Decoder (ReadDCMImage),https://github.com/advisories/GHSA-pmq6-8289-hx3v,https://da.gd/Yyuea
+GithubAdvisories,[GHSA-8mpr-6xr2-chhc] ImageMagick: MSL - Stack overflow in ProcessMSLScript,https://github.com/advisories/GHSA-8mpr-6xr2-chhc,https://da.gd/0UKP9
+GithubAdvisories,"[GHSA-xg29-8ghv-v4xr] ImageMagick Has Signed Integer Overflow in SIXEL Decoder, Leading to Memory Corruption",https://github.com/advisories/GHSA-xg29-8ghv-v4xr,https://da.gd/IoMNtv
+GithubAdvisories,[GHSA-3mwp-xqp2-q6ph] ImageMagick: MSL attribute stack buffer overflow leads to out of bounds write,https://github.com/advisories/GHSA-3mwp-xqp2-q6ph,https://da.gd/j1iXb
