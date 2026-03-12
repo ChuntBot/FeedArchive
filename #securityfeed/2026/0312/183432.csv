@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3936-cmfr-pm3m] Black: Arbitrary file writes from unsanitized user input in cache file name,https://github.com/advisories/GHSA-3936-cmfr-pm3m,https://da.gd/C6N1X
+GithubAdvisories,[GHSA-92gp-jfgx-9qpv] Hyperterse: Raw exposure of database statements in MCP search tool,https://github.com/advisories/GHSA-92gp-jfgx-9qpv,https://da.gd/EegBgJ
+GithubAdvisories,[GHSA-5hxf-c7j4-279c] Tina: Path Traversal in Media Upload Handle,https://github.com/advisories/GHSA-5hxf-c7j4-279c,https://da.gd/BQv7HQ
+GithubAdvisories,[GHSA-p2m9-wcp5-6qw3] multipart vulnerable to ReDoS in `parse_options_header()`,https://github.com/advisories/GHSA-p2m9-wcp5-6qw3,https://da.gd/Pp4lhR
