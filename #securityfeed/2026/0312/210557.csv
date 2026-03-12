@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j478-p7vq-3347] Ella Core: AMF DoS via malformed PathSwitchRequest with empty NR security capability bitstrings,https://github.com/advisories/GHSA-j478-p7vq-3347,https://da.gd/gqLX
+GithubAdvisories,[GHSA-m9pm-w3gv-c68f] Ella Core vulnerable to Unauthenticated AMF DoS via malformed InitialUEMessage with undersized integrity-protected NAS payload,https://github.com/advisories/GHSA-m9pm-w3gv-c68f,https://da.gd/WBw50K
+GithubAdvisories,[GHSA-5wcw-8jjv-m286] OpenClaw: Untrusted web origins can obtain authenticated operator.admin access in trusted-proxy mode,https://github.com/advisories/GHSA-5wcw-8jjv-m286,https://da.gd/4rgQN
+GithubAdvisories,[GHSA-m48g-4wr2-j2h6] TinaCMS CLI has Arbitrary File Read via Disabled Vite Filesystem Restriction,https://github.com/advisories/GHSA-m48g-4wr2-j2h6,https://da.gd/XCr4O
+GithubAdvisories,"[GHSA-2f24-mg4x-534q] TinaCMS Vulnerable to Path Traversal Leading to Arbitrary File Read, Write and Delete",https://github.com/advisories/GHSA-2f24-mg4x-534q,https://da.gd/ZEkVI
+GithubAdvisories,[GHSA-8pw3-9m7f-q734] TinaCMS CLI Dev Server Vulnerable to Cross-Origin File Exfiltration via CORS Misconfiguration + Path Traversal in TinaCMS,https://github.com/advisories/GHSA-8pw3-9m7f-q734,https://da.gd/sAjqS
+GithubAdvisories,"[GHSA-j96m-mjp6-99xr] ImageMagick: Specially crafted SVG leads to segmentation fault and generate trash files in ""/tmp"", possible to leverage DoS",https://github.com/advisories/GHSA-j96m-mjp6-99xr,https://da.gd/kX3KA
+GithubAdvisories,"[GHSA-gv85-xg33-553c] Duplicate Advisory: ImageMagick: Specially crafted SVG leads to segmentation fault and generate trash files in ""/tmp"", possible to leverage DoS",https://github.com/advisories/GHSA-gv85-xg33-553c,https://da.gd/r8bhD
