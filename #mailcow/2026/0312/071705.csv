@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubCommitStaging,Fix theme localStorage collision with rspamd UI,https://github.com/mailcow/mailcow-dockerized/commit/293b885a858deb4735a3ce59a02393a18b56163a,https://da.gd/7ogmf
+GithubCommitStaging,[ACME] Fix wildcard certificate conflict with MAILCOW_HOSTNAME,https://github.com/mailcow/mailcow-dockerized/commit/1da8d1c894aad6d341287e334c9328a6c3966f4e,https://da.gd/FjyT5l
+GithubCommitStaging,added/fix: use mailcow_theme in bundled dark mode JS,https://github.com/mailcow/mailcow-dockerized/commit/03eccd4e42a0ccb92e2e25e866c934b97663bda0,https://da.gd/BBaJ64
+GithubCommitStaging,Merge pull request #7124 from mailcow/fix/7112,https://github.com/mailcow/mailcow-dockerized/commit/abd6fe8c791abffa8ced448d6e317879a347e60c,https://da.gd/12Ksx
+GithubCommitStaging,Merge pull request #7121 from rezzorix/fix/theme-localstorage-staging,https://github.com/mailcow/mailcow-dockerized/commit/d4bf377a9602b06bc09be5971d5be1e488e12fa6,https://da.gd/iL1VH
