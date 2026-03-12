@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2238-xc5r-v9hj] @tinacms/graphql has a Path Traversal issue,https://github.com/advisories/GHSA-2238-xc5r-v9hj,https://da.gd/gjn1Qi
+GithubAdvisories,[GHSA-hvwj-8w5g-28rg] SGLangs `replay_request_dump.py` contains an insecure pickle.load() without validation and proper deserialization,https://github.com/advisories/GHSA-hvwj-8w5g-28rg,https://da.gd/sh22f
+GithubAdvisories,[GHSA-rgq9-fqf5-fv58] SGLang's multimodal generation module is vulnerable to unauthenticated remote code execution through the ZMQ broker,https://github.com/advisories/GHSA-rgq9-fqf5-fv58,https://da.gd/iZ69
+GithubAdvisories,[GHSA-jx93-g359-86wm] SGLang's encoder parallel disaggregation system is vulnerable to unauthenticated remote code execution through the disaggregation module,https://github.com/advisories/GHSA-jx93-g359-86wm,https://da.gd/tg9oM
+GithubAdvisories,[GHSA-r8jr-wg88-fq5c] Keycloak vulnerable to authorization bypass via the Admin API,https://github.com/advisories/GHSA-r8jr-wg88-fq5c,https://da.gd/WKZcu9
