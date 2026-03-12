@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8wq8-6859-qx77] @backstage/plugin-scaffolder-backend: Possible exposure of defaultEnvironment secrets using dry-run endpoint,https://github.com/advisories/GHSA-8wq8-6859-qx77,https://da.gd/GV4b4Z
+GithubAdvisories,[GHSA-qp4c-xg64-7c6x] @backstage/plugin-auth-backend: SSRF in experimental CIMD metadata fetch,https://github.com/advisories/GHSA-qp4c-xg64-7c6x,https://da.gd/bflY
+GithubAdvisories,[GHSA-wqvh-63mv-9w92] @backstage/plugin-auth-backend: OAuth redirect URI allowlist bypass,https://github.com/advisories/GHSA-wqvh-63mv-9w92,https://da.gd/vt7oG
+GithubAdvisories,[GHSA-725g-w329-g7qr] kora-lib: Token-2022 Transfer Fee Not Deducted During Payment Verification,https://github.com/advisories/GHSA-725g-w329-g7qr,https://da.gd/Jtd3dK
+GithubAdvisories,[GHSA-x442-m7cc-hr92] kora-lib: Unrecognized Instruction Types Create Empty Stubs That Bypass Fee Payer Policy,https://github.com/advisories/GHSA-x442-m7cc-hr92,https://da.gd/ifIt2
+GithubAdvisories,[GHSA-wj56-g96r-673q] StudioCMS: REST API Missing Rank Check Allows Admin to Create Peer Admin Accounts,https://github.com/advisories/GHSA-wj56-g96r-673q,https://da.gd/SbNEv5
+GithubAdvisories,[GHSA-9v82-xrm4-mp52] StudioCMS: IDOR in User Notification Preferences Allows Any Authenticated User to Modify Any User's Settings,https://github.com/advisories/GHSA-9v82-xrm4-mp52,https://da.gd/wHR7
+GithubAdvisories,[GHSA-h7vr-cg25-jf8c] StudioCMS: IDOR — Admin-to-Owner Account Takeover via Password Reset Link Generation,https://github.com/advisories/GHSA-h7vr-cg25-jf8c,https://da.gd/vskGI
+GithubAdvisories,[GHSA-mm78-fgq8-6pgr] StudioCMS S3 Storage Manager Authorization Bypass via Missing `await` on Async Auth Check,https://github.com/advisories/GHSA-mm78-fgq8-6pgr,https://da.gd/Ny59FT
+GithubAdvisories,[GHSA-4hjq-9h5c-252j] Traefik: HTTP/2 frames can cause a running server to panic,https://github.com/advisories/GHSA-4hjq-9h5c-252j,https://da.gd/xFXP
+GithubAdvisories,[GHSA-5fg6-wrq4-w5gh] AdGuard Home: HTTP/2 Cleartext (h2c) Upgrade Authentication Bypass,https://github.com/advisories/GHSA-5fg6-wrq4-w5gh,https://da.gd/83548
+GithubAdvisories,"[GHSA-c7hf-c5p5-5g6h] Uptime Kuma is Missing Authorization Checks on Ping Badge Endpoint, Leaks Ping times of monitors without needing to be on a status page",https://github.com/advisories/GHSA-c7hf-c5p5-5g6h,https://da.gd/QfGN
+GithubAdvisories,[GHSA-xh32-c9wx-phrp] Keycloak: Information disclosure of disabled user attributes via administrative endpoint,https://github.com/advisories/GHSA-xh32-c9wx-phrp,https://da.gd/5PFwGv
