@@ -1,0 +1,36 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-pf93-j98v-25pv] ha-mcp has XSS via Unescaped HTML in OAuth Consent Form,https://github.com/advisories/GHSA-pf93-j98v-25pv,https://da.gd/Dvt4z
+GithubAdvisories,[GHSA-fmfg-9g7c-3vq7] ha-mcp OAuth 2.1 DCR mode enables network reconnaissance via an error oracle,https://github.com/advisories/GHSA-fmfg-9g7c-3vq7,https://da.gd/ZqMDo4
+GithubAdvisories,[GHSA-56cv-c5p2-j2wg] SiYuan has a Full-Read SSRF via /api/network/forwardProxy,https://github.com/advisories/GHSA-56cv-c5p2-j2wg,https://da.gd/KRHhq
+GithubAdvisories,[GHSA-rcp6-88mm-9vgf] Copyparty has unexpected JavaScript execution via crafted URL to folder with `.prologue.html`,https://github.com/advisories/GHSA-rcp6-88mm-9vgf,https://da.gd/SICrb6
+GithubAdvisories,[GHSA-67rw-2x62-mqqm] Copyparty ftp/sftp: Sharing a single file did not fully restrict source-folder access,https://github.com/advisories/GHSA-67rw-2x62-mqqm,https://da.gd/CZa8X
+GithubAdvisories,[GHSA-8j2w-6fmm-m587] OpenClaw: /api/channels gateway-auth boundary bypass via path canonicalization mismatch,https://github.com/advisories/GHSA-8j2w-6fmm-m587,https://da.gd/TdOtO
+GithubAdvisories,[GHSA-v8cg-4474-49v8] OpenClaw: Slack system events bypass sender authorization in member and message subtype handlers,https://github.com/advisories/GHSA-v8cg-4474-49v8,https://da.gd/1uisj
+GithubAdvisories,[GHSA-qcc4-p59m-p54m] OpenClaw: Sandbox dangling-symlink alias handling could bypass workspace-only write boundary,https://github.com/advisories/GHSA-qcc4-p59m-p54m,https://da.gd/yLrZO
+GithubAdvisories,[GHSA-mgrq-9f93-wpp5] OpenClaw: workspace path guard bypass on non-existent out-of-root symlink leaf,https://github.com/advisories/GHSA-mgrq-9f93-wpp5,https://da.gd/68Lq4
+GithubAdvisories,[GHSA-gp3q-wpq4-5c5h] OpenClaw: LINE group allowlist scope mismatch with DM pairing-store entries,https://github.com/advisories/GHSA-gp3q-wpq4-5c5h,https://da.gd/VW25
+GithubAdvisories,[GHSA-g7cr-9h7q-4qxq] OpenClaw's MS Teams sender allowlist bypass when route allowlist is configured and sender allowlist is empty,https://github.com/advisories/GHSA-g7cr-9h7q-4qxq,https://da.gd/bhrQF
+GithubAdvisories,[GHSA-vhwf-4x96-vqx2] OpenClaw's skills-install-download can be redirected outside the tools root by rebinding the validated base path,https://github.com/advisories/GHSA-vhwf-4x96-vqx2,https://da.gd/ZDH67
+GithubAdvisories,[GHSA-8g75-q649-6pv6] OpenClaw's system.run approvals did not bind mutable script operands across approval and execution,https://github.com/advisories/GHSA-8g75-q649-6pv6,https://da.gd/uuLS3O
+GithubAdvisories,[GHSA-228v-wc5r-j8m7] OliveTin Vulnerable to Unauthorized Action Output Disclosure via EventStream,https://github.com/advisories/GHSA-228v-wc5r-j8m7,https://da.gd/KRh3h
+GithubAdvisories,"[GHSA-xx6g-43w2-9g6g] OliveTin's email argument makes compliance harder, enables log injection",https://github.com/advisories/GHSA-xx6g-43w2-9g6g,https://da.gd/RHQEDc
+GithubAdvisories,[GHSA-j7mm-f4rv-6q6q] Parse Server has a protected fields bypass via LiveQuery subscription WHERE clause,https://github.com/advisories/GHSA-j7mm-f4rv-6q6q,https://da.gd/V56fvb
+GithubAdvisories,[GHSA-qjxf-f2mg-c6mc] Tornado is vulnerable to DoS due to too many multipart parts,https://github.com/advisories/GHSA-qjxf-f2mg-c6mc,https://da.gd/KQew9b
+GithubAdvisories,[GHSA-8jrh-7jg8-fvmv] Vaadin: Specially crafted ZIP archives can escape the intended extraction directory,https://github.com/advisories/GHSA-8jrh-7jg8-fvmv,https://da.gd/nNIUo
+GithubAdvisories,[GHSA-5339-hvwr-7582] Unhead Vulnerable to Bypass of URI Scheme Sanitization in makeTagSafe via Case-Sensitivity,https://github.com/advisories/GHSA-5339-hvwr-7582,https://da.gd/1dMrbN
+GithubAdvisories,[GHSA-g5xx-pwrp-g3fv] Unhead has XSS bypass in `useHeadSafe` via attribute name injection and case-sensitive protocol check,https://github.com/advisories/GHSA-g5xx-pwrp-g3fv,https://da.gd/hwhQ0
+GithubAdvisories,[GHSA-qpg4-j99f-8xcg] ImageMagick has heap buffer overflow in WriteXWDImage due to CARD32 arithmetic overflow in bytes_per_line calculation,https://github.com/advisories/GHSA-qpg4-j99f-8xcg,https://da.gd/ioHOR
+GithubAdvisories,[GHSA-5ggv-92r5-cp4p] ImageMagick has Heap Buffer Overflow in WaveletDenoiseImage,https://github.com/advisories/GHSA-5ggv-92r5-cp4p,https://da.gd/r3wRF
+GithubAdvisories,[GHSA-cqw9-w2m7-r2m2] ImageMagick has Heap Buffer Over-Read in BilateralBlurImage,https://github.com/advisories/GHSA-cqw9-w2m7-r2m2,https://da.gd/SlK5Nm
+GithubAdvisories,[GHSA-h95r-c8c7-mrwx] ImageMagick has heap-based buffer overflow in UHDR encoder,https://github.com/advisories/GHSA-h95r-c8c7-mrwx,https://da.gd/OPBY
+GithubAdvisories,[GHSA-rqq8-jh93-f4vg] ImageMagick has stack buffer overflow in MagnifyImage,https://github.com/advisories/GHSA-rqq8-jh93-f4vg,https://da.gd/xUkKC
+GithubAdvisories,[GHSA-cfw5-2vxh-hr84] devalue has prototype pollution in devalue.parse and devalue.unflatten,https://github.com/advisories/GHSA-cfw5-2vxh-hr84,https://da.gd/cW8Ed
+GithubAdvisories,[GHSA-hffp-q43q-qq76] ImageMagick: Integer overflow in DIB coder can result in out of bounds read or write,https://github.com/advisories/GHSA-hffp-q43q-qq76,https://da.gd/llb09
+GithubAdvisories,[GHSA-wj8w-pjxf-9g4f] ImageMagick has uninitialized pointer dereference in JBIG decoder,https://github.com/advisories/GHSA-wj8w-pjxf-9g4f,https://da.gd/iThqU
+GithubAdvisories,[GHSA-7h7q-j33q-hvpf] ImageMagick has stack write buffer overflow in MNG encoder,https://github.com/advisories/GHSA-7h7q-j33q-hvpf,https://da.gd/u2iZWm
+GithubAdvisories,[GHSA-xxw5-m53x-j38c] ImageMagick has heap use-after-free in the MSL encoder,https://github.com/advisories/GHSA-xxw5-m53x-j38c,https://da.gd/faVEZ
+GithubAdvisories,[GHSA-fpvf-frm6-625q] ImageMagick has Heap Use-After-Free in ImageMagick MSL decoder,https://github.com/advisories/GHSA-fpvf-frm6-625q,https://da.gd/9q6I
+GithubAdvisories,[GHSA-467j-76j7-5885] ImageMagick: Write heap-buffer-overflow in PCL encoder via undersized output buffer,https://github.com/advisories/GHSA-467j-76j7-5885,https://da.gd/Lc5HqB
+GithubAdvisories,[GHSA-932h-jw47-73jm] ImageMagick vulnerable to stack corruption through long morphology kernel names or arrays,https://github.com/advisories/GHSA-932h-jw47-73jm,https://da.gd/4FEJv
+GithubAdvisories,[GHSA-r39q-jr8h-gcq2] ImageMagick has Integer Overflow leading to out of bounds write in SIXEL decoder,https://github.com/advisories/GHSA-r39q-jr8h-gcq2,https://da.gd/sSAW2X
+GithubAdvisories,[GHSA-pgpf-m8m4-6cg6] Winter vulnerable to privilege escalation by authenticated backend users,https://github.com/advisories/GHSA-pgpf-m8m4-6cg6,https://da.gd/F6r1wj
