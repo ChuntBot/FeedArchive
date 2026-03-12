@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xj37-qjg2-xwv2] @whyour/qinglong: manipulation of the argument command leads to protection mechanism failure,https://github.com/advisories/GHSA-xj37-qjg2-xwv2,https://da.gd/bwdg4
+GithubAdvisories,[GHSA-cpfq-66p2-336j] Consul is vulnerable to arbitrary file read when configured with Kubernetes authentication,https://github.com/advisories/GHSA-cpfq-66p2-336j,https://da.gd/DY0O43
+GithubAdvisories,[GHSA-xjj9-2w6f-jg55] Duplicate Advisory: OpenClaw safeBins file-existence oracle information disclosure,https://github.com/advisories/GHSA-xjj9-2w6f-jg55,https://da.gd/d8CO
+GithubAdvisories,[GHSA-wgx8-r9vw-2w4h] Duplicate Advisory: OpenClaw: Skill env override host env injection via applySkillConfigEnvOverrides (defense-in-depth),https://github.com/advisories/GHSA-wgx8-r9vw-2w4h,https://da.gd/mZLXT
+GithubAdvisories,[GHSA-5fw2-8jcv-xh87] Parse Server: Account takeover via operator injection in authentication data identifier,https://github.com/advisories/GHSA-5fw2-8jcv-xh87,https://da.gd/uwYqc
+GithubAdvisories,[GHSA-2cjm-2gwv-m892] Parse Server's OAuth2 adapter shares mutable state across providers via singleton instance,https://github.com/advisories/GHSA-2cjm-2gwv-m892,https://da.gd/SdZF3Z
+GithubAdvisories,[GHSA-qmpg-8xg6-ph5q] Trix has a Stored XSS vulnerability through serialized attributes,https://github.com/advisories/GHSA-qmpg-8xg6-ph5q,https://da.gd/9YQyD7
+GithubAdvisories,[GHSA-8g9r-9wjw-37j4] Keycloak: Improper Access Control Leading to MFA Deletion and Account Takeover in Keycloak Account REST API,https://github.com/advisories/GHSA-8g9r-9wjw-37j4,https://da.gd/568ODR
+GithubAdvisories,[GHSA-gg5m-55jj-8m5g] Graphiti vulnerable to Cypher Injection via unsanitized node_labels in search filters,https://github.com/advisories/GHSA-gg5m-55jj-8m5g,https://da.gd/kMAKO
