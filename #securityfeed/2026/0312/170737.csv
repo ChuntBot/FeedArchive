@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3q28-qjrv-qr39] Tinyauth vulnerable to TOTP/2FA bypass via OIDC authorize endpoint,https://github.com/advisories/GHSA-3q28-qjrv-qr39,https://da.gd/TFHeE9
+GithubAdvisories,[GHSA-xg2q-62g2-cvcm] Tinyauth's OIDC authorization codes are not bound to client on token exchange,https://github.com/advisories/GHSA-xg2q-62g2-cvcm,https://da.gd/M7pjHX
+GithubAdvisories,[GHSA-4cm8-xpfv-jv6f] ZeptoClaw: Email Sender Spoofing to bypass Header-Only From Allowlist Validation,https://github.com/advisories/GHSA-4cm8-xpfv-jv6f,https://da.gd/xHljY0
+GithubAdvisories,[GHSA-mwv9-gp5h-frr4] Sveltejs devalue's `devalue.parse` and `devalue.unflatten` emit objects with `__proto__` own properties,https://github.com/advisories/GHSA-mwv9-gp5h-frr4,https://da.gd/ZsR4A
+GithubAdvisories,[GHSA-c442-97qw-j6c6] Parse Server has a SQL injection via query field name when using PostgreSQL,https://github.com/advisories/GHSA-c442-97qw-j6c6,https://da.gd/HIqBrd
+GithubAdvisories,"[GHSA-2m67-cxxq-c3h8] ZeptoClaw: Path boundary checks bypass via symlink, TOCTOU, and hardlink",https://github.com/advisories/GHSA-2m67-cxxq-c3h8,https://da.gd/Sn1ggh
+GithubAdvisories,[GHSA-46q5-g3j9-wx5c] ZeptoClaw: Generic webhook channel trusts caller-supplied identity fields; allowlist is checked against untrusted payload data,https://github.com/advisories/GHSA-46q5-g3j9-wx5c,https://da.gd/W045z
