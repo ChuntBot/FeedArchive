@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommit,[Web] Allow force_tfa for LDAP and Keycloak users,https://github.com/mailcow/mailcow-dockerized/commit/ed9264fd2aeb50ada8b5c270a22da8b6f8bfb2c0,https://da.gd/MvQ0Yd
+GithubCommit,Merge pull request #7137 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/f399c07c85775fcb68d9afec1b9903c9c1c0edf3,https://da.gd/uOvGw
