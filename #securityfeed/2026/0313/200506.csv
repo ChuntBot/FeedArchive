@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4v26-v6cg-g6f9] xmlseclibs: Missing AES-GCM Authentication Tag Validation on Encrypted Nodes Allows for Unauthorized Decryption,https://github.com/advisories/GHSA-4v26-v6cg-g6f9,https://da.gd/ove3D
+GithubAdvisories,[GHSA-j77h-rr39-c552] Centrifugo: SSRF via unverified JWT claims interpolated into dynamic JWKS endpoint URL,https://github.com/advisories/GHSA-j77h-rr39-c552,https://da.gd/mBB9dT
+GithubAdvisories,[GHSA-cwxj-rr6w-m6w7] Scrapy: Arbitrary Module Import via Referrer-Policy Header in RefererMiddleware,https://github.com/advisories/GHSA-cwxj-rr6w-m6w7,https://da.gd/wn0Tr
+GithubAdvisories,[GHSA-69xg-f649-w5g2] Parse Server OAuth2 adapter app ID validation sends wrong token to introspection endpoint,https://github.com/advisories/GHSA-69xg-f649-w5g2,https://da.gd/O3tC
+GithubAdvisories,[GHSA-4c96-w8v2-p28j] Deno vulnerable to command Injection via incomplete shell metacharacter blocklist in node:child_process,https://github.com/advisories/GHSA-4c96-w8v2-p28j,https://da.gd/QSlv8e
+GithubAdvisories,[GHSA-x2hw-px52-wp4m] rs-soroban-sdk: `Fr` scalar field equality comparison bypasses modular reduction,https://github.com/advisories/GHSA-x2hw-px52-wp4m,https://da.gd/c21vB
+GithubAdvisories,"[GHSA-wvh5-6vjm-23qh] OneUptime: Stored XSS via Mermaid Diagram Rendering (securityLevel: ""loose"")",https://github.com/advisories/GHSA-wvh5-6vjm-23qh,https://da.gd/zP4WV
+GithubAdvisories,[GHSA-p5g2-jm85-8g35] OneUptime ClickHouse SQL Injection via Aggregate Query Parameters,https://github.com/advisories/GHSA-p5g2-jm85-8g35,https://da.gd/uohotF
