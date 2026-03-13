@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,openSUSE 16.2 wget Security Update for Access Management Vulnerability,https://linuxsecurity.com/advisories/opensuse/opensuse-2026-0885-1-curl,https://da.gd/g7CvSO
+LinuxSecurity,SUSE 2026 0885-1 Important Fix for Curl Connection Issues,https://linuxsecurity.com/advisories/suse/curl-suse-2026-0885-1,https://da.gd/PXBF4
+LinuxSecurity,SUSE 15-SP8 libsoup3 Minor Memory Issue SUSE-SU-2026-0890-1,https://linuxsecurity.com/advisories/suse/libsoup2-suse-2026-0886-1,https://da.gd/ZA9vl
+LinuxSecurity,Ubuntu 20.04 libsoup3 Significant Resource Availability Issue USN-4900-1,https://linuxsecurity.com/advisories/opensuse/libsoup2-opensuse-2026-0886-1,https://da.gd/FH63D7
+LinuxSecurity,Debian Trixie multipart Important DoS Flaw Fix DSA-6161-1 CVE-2026-28356,https://linuxsecurity.com/advisories/debian/debian-dsa-6161-1-multipart,https://da.gd/DQgIjg
+LinuxSecurity,Ubuntu 22.04 LTS Go Networking Important Denial of Service USN-8089-1,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8089-1-go-networking,https://da.gd/Jcm9E8
