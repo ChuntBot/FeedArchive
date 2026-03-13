@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vh9h-29pq-r5m8] Locutus vulnerable to RCE via unsanitized input in create_function(),https://github.com/advisories/GHSA-vh9h-29pq-r5m8,https://da.gd/ek4En
+GithubAdvisories,[GHSA-5xxp-2vrj-x855] SM9 Infinity-Point Ciphertext Forgery Vulnerability,https://github.com/advisories/GHSA-5xxp-2vrj-x855,https://da.gd/5DXaAL
+GithubAdvisories,[GHSA-qvr7-g57c-mrc7] OpenClaw: Unavailable local auth SecretRefs could fall through to remote credentials in local mode,https://github.com/advisories/GHSA-qvr7-g57c-mrc7,https://da.gd/VLqCZ
+GithubAdvisories,[GHSA-mj4p-rc52-m843] OpenClaw: Sandbox staged writes could escape the verified parent directory before commit,https://github.com/advisories/GHSA-mj4p-rc52-m843,https://da.gd/l3R65o
+GithubAdvisories,[GHSA-jf6w-m8jw-jfxc] OpenClaw: Write-scoped callers could reach admin-only session reset logic through `agent`,https://github.com/advisories/GHSA-jf6w-m8jw-jfxc,https://da.gd/Gkjsv
+GithubAdvisories,[GHSA-qc36-x95h-7j53] OpenClaw: Unrecognized script runners could bypass `system.run` approval integrity,https://github.com/advisories/GHSA-qc36-x95h-7j53,https://da.gd/9h70
+GithubAdvisories,[GHSA-8jhh-jcqg-mj5p] OpenClaw: Channel commands could bypass account-scoped `configWrites` restrictions,https://github.com/advisories/GHSA-8jhh-jcqg-mj5p,https://da.gd/DqQm
+GithubAdvisories,[GHSA-rw39-5899-8mxp] OpenClaw: Node-host approvals could show misleading shell payloads instead of the executed argv,https://github.com/advisories/GHSA-rw39-5899-8mxp,https://da.gd/291S
+GithubAdvisories,[GHSA-xf99-j42q-5w5p] OpenClaw: Unbound interpreter and runtime commands could bypass node-host approval integrity,https://github.com/advisories/GHSA-xf99-j42q-5w5p,https://da.gd/lxdbA
+GithubAdvisories,[GHSA-4w7m-58cg-cmff] OpenClaw: Leaf subagents could steer sibling sessions across sandbox boundaries,https://github.com/advisories/GHSA-4w7m-58cg-cmff,https://da.gd/RRpaw
+GithubAdvisories,[GHSA-4jpw-hj22-2xmc] OpenClaw: Pairing-scoped device tokens could mint `operator.admin` and reach node RCE,https://github.com/advisories/GHSA-4jpw-hj22-2xmc,https://da.gd/iSeLOF
+GithubAdvisories,[GHSA-xw77-45gv-p728] OpenClaw: Plugin subagent routes could bypass gateway authorization with synthetic admin scopes,https://github.com/advisories/GHSA-xw77-45gv-p728,https://da.gd/ybk33
+GithubAdvisories,[GHSA-xvx8-77m6-gwg6] OpenClaw: Sandbox `writeFile` commit could race outside the validated path,https://github.com/advisories/GHSA-xvx8-77m6-gwg6,https://da.gd/PsqK
+GithubAdvisories,[GHSA-25h7-pfq9-p65f] flatted vulnerable to unbounded recursion DoS in parse() revive phase,https://github.com/advisories/GHSA-25h7-pfq9-p65f,https://da.gd/Zf7X
+GithubAdvisories,[GHSA-g2p6-hh5v-7hfm] Poseidon V1 variable-length input collision via implicit zero-padding,https://github.com/advisories/GHSA-g2p6-hh5v-7hfm,https://da.gd/BTQU
+GithubAdvisories,"[GHSA-4g4c-mfqg-pj8r] Magic Wormhole: ""wormhole receive"" allows arbitrary local file overwrite",https://github.com/advisories/GHSA-4g4c-mfqg-pj8r,https://da.gd/0xKFiv
+GithubAdvisories,[GHSA-m4q3-457p-hh2x] Dagu: Path Traversal via `dagRunId` in Inline DAG Execution,https://github.com/advisories/GHSA-m4q3-457p-hh2x,https://da.gd/TtLmpB
