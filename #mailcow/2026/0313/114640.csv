@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[ACME] Skip autodiscover/mta-sts subdomains covered by wildcard certi…,https://github.com/mailcow/mailcow-dockerized/commit/127fb1e8f59db602d1f51558b2babdee06ac345f,https://da.gd/4UVt5
+GithubCommitStaging,Merge pull request #7134 from mailcow/fix/7112-2,https://github.com/mailcow/mailcow-dockerized/commit/018e29285434a08329eda0e4768aaf464f3cfa5b,https://da.gd/mACi1
