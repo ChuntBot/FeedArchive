@@ -1,0 +1,31 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7x23-j8gv-v54x] github.com/ctfer-io/monitoring Vulnerable to Improper Access Control,https://github.com/advisories/GHSA-7x23-j8gv-v54x,https://da.gd/kc1Xv7
+GithubAdvisories,[GHSA-5cxw-w2xg-2m8h] fickling's `platform` module subprocess invocation evades `check_safety()` with `LIKELY_SAFE`,https://github.com/advisories/GHSA-5cxw-w2xg-2m8h,https://da.gd/28rg0
+GithubAdvisories,"[GHSA-r48f-3986-4f9c] fickling modules linecache, difflib and gc are missing from the unsafe modules blocklist",https://github.com/advisories/GHSA-r48f-3986-4f9c,https://da.gd/XHErLo
+GithubAdvisories,[GHSA-hqjg-pww4-pcgq] @google/clasp vulnerable to unsafe path traversal cloning or pulling a malicious script,https://github.com/advisories/GHSA-hqjg-pww4-pcgq,https://da.gd/DkrxvC
+GithubAdvisories,[GHSA-rvv3-g6hj-g44x] AutoMapper Vulnerable to Denial of Service (DoS) via Uncontrolled Recursion,https://github.com/advisories/GHSA-rvv3-g6hj-g44x,https://da.gd/c2CjHT
+GithubAdvisories,[GHSA-4j3x-hhg2-fm2x] SiYuan's renderSprig has a missing admin check that allows any user to read full workspace DB,https://github.com/advisories/GHSA-4j3x-hhg2-fm2x,https://da.gd/IFzkje
+GithubAdvisories,[GHSA-44vg-5wv2-h2hg] SimpleEval: Objects (including modules) can leak dangerous modules through to direct access inside the sandbox,https://github.com/advisories/GHSA-44vg-5wv2-h2hg,https://da.gd/YiIUu
+GithubAdvisories,[GHSA-g93w-mfhg-p222] Angular vulnerable to XSS in i18n attribute bindings,https://github.com/advisories/GHSA-g93w-mfhg-p222,https://da.gd/YkcPQn
+GithubAdvisories,[GHSA-j47w-4g3g-c36v] file-type: ZIP Decompression Bomb DoS via [Content_Types].xml entry,https://github.com/advisories/GHSA-j47w-4g3g-c36v,https://da.gd/HdqNg
+GithubAdvisories,[GHSA-5m9r-p9g7-679c] OpenClaw: Zalo webhook rate limiting could be bypassed before secret validation,https://github.com/advisories/GHSA-5m9r-p9g7-679c,https://da.gd/1oUuj
+GithubAdvisories,[GHSA-g353-mgv3-8pcj] OpenClaw: Feishu webhook mode accepted forged events when only `verificationToken` was configured,https://github.com/advisories/GHSA-g353-mgv3-8pcj,https://da.gd/hs4JR
+GithubAdvisories,[GHSA-2rqg-gjgv-84jm] OpenClaw: Gateway `agent` calls could override the workspace boundary,https://github.com/advisories/GHSA-2rqg-gjgv-84jm,https://da.gd/IwTTP4
+GithubAdvisories,[GHSA-rqpp-rjj8-7wv8] OpenClaw: WebSocket shared-auth connections could self-declare elevated scopes,https://github.com/advisories/GHSA-rqpp-rjj8-7wv8,https://da.gd/HPSYnJ
+GithubAdvisories,[GHSA-wcxr-59v9-rxr8] `OpenClaw: session_status` let sandboxed subagents access parent or sibling session state,https://github.com/advisories/GHSA-wcxr-59v9-rxr8,https://da.gd/3W72DK
+GithubAdvisories,[GHSA-99qw-6mr3-36qr] OpenClaw: Workspace plugin auto-discovery allowed code execution from cloned repositories,https://github.com/advisories/GHSA-99qw-6mr3-36qr,https://da.gd/Eh5VS
+GithubAdvisories,[GHSA-r7vr-gr74-94p8] OpenClaw: Command-authorized non-owners could reach owner-only `/config` and `/debug` surfaces,https://github.com/advisories/GHSA-r7vr-gr74-94p8,https://da.gd/j2MJF
+GithubAdvisories,[GHSA-f8r2-vg7x-gh8m] OpenClaw: Exec approval allowlist patterns overmatched on POSIX paths,https://github.com/advisories/GHSA-f8r2-vg7x-gh8m,https://da.gd/3wHWSb
+GithubAdvisories,[GHSA-m69h-jm2f-2pv8] OpenClaw: Feishu reaction events could bypass group authorization and mention gating,https://github.com/advisories/GHSA-m69h-jm2f-2pv8,https://da.gd/F791F
+GithubAdvisories,[GHSA-vmhq-cqm9-6p7q] OpenClaw: `browser.request` let `operator.write` persist admin-only browser profile changes,https://github.com/advisories/GHSA-vmhq-cqm9-6p7q,https://da.gd/NKa1
+GithubAdvisories,[GHSA-7h7g-x2px-94hj] OpenClaw: Pairing setup codes exposed long-lived shared gateway credentials instead of short-lived bootstrap tokens,https://github.com/advisories/GHSA-7h7g-x2px-94hj,https://da.gd/TRGgp
+GithubAdvisories,[GHSA-f5mf-3r52-r83w] OpenClaw's Zalouser allowlist authorization matched mutable group names by default,https://github.com/advisories/GHSA-f5mf-3r52-r83w,https://da.gd/ZHsxBS
+GithubAdvisories,[GHSA-pfjj-6f4p-rvmh] Apollo Federation vulnerable to prototype pollution via incomplete key sanitization,https://github.com/advisories/GHSA-pfjj-6f4p-rvmh,https://da.gd/hA76wt
+GithubAdvisories,[GHSA-hcch-w73c-jp4m] Statamic vulnerable to privilege escalation via stored cross-site scripting,https://github.com/advisories/GHSA-hcch-w73c-jp4m,https://da.gd/UXfKm2
+GithubAdvisories,"[GHSA-8fh9-c4jq-94h4] idunno.Bluesky, idunno.AtProto and idunno.AtProto.OAuthCallback Denial of Service Vulnerability",https://github.com/advisories/GHSA-8fh9-c4jq-94h4,https://da.gd/Hm5DIu
+GithubAdvisories,[GHSA-q926-c743-49qj] Centrifugo's InsecureSkipTokenSignatureVerify flag silently disables JWT verification with no warning,https://github.com/advisories/GHSA-q926-c743-49qj,https://da.gd/20UTRA
+GithubAdvisories,[GHSA-r353-4845-pr5p] simplesamlphp/xml-security: Missing AES-GCM Authentication Tag Validation on Encrypted Nodes Allows for Unauthorized Decryption,https://github.com/advisories/GHSA-r353-4845-pr5p,https://da.gd/N8dJZ
+GithubAdvisories,[GHSA-vrm6-8vpv-qv8q] Undici has Unbounded Memory Consumption in WebSocket permessage-deflate Decompression,https://github.com/advisories/GHSA-vrm6-8vpv-qv8q,https://da.gd/14BbJ
+GithubAdvisories,[GHSA-v9p9-hfj2-hcw8] Undici has Unhandled Exception in WebSocket Client Due to Invalid server_max_window_bits Validation,https://github.com/advisories/GHSA-v9p9-hfj2-hcw8,https://da.gd/ZFRSv
+GithubAdvisories,[GHSA-4992-7rv2-5pvq] Undici has CRLF Injection in undici via `upgrade` option,https://github.com/advisories/GHSA-4992-7rv2-5pvq,https://da.gd/llGC
+GithubAdvisories,[GHSA-phc3-fgpg-7m6h] Undici has Unbounded Memory Consumption in its DeduplicationHandler via Response Buffering that leads to DoS,https://github.com/advisories/GHSA-phc3-fgpg-7m6h,https://da.gd/OcC0W
