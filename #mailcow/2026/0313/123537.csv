@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubCommit,Fix theme localStorage collision with rspamd UI,https://github.com/mailcow/mailcow-dockerized/commit/293b885a858deb4735a3ce59a02393a18b56163a,https://da.gd/7ogmf
+GithubCommit,[Web] Fix LDAP/Keycloak login TypeError - missing JSON decode for att…,https://github.com/mailcow/mailcow-dockerized/commit/d1feebf164015a7c62ffdbbe9555424a1b07d402,https://da.gd/ApkU
+GithubCommit,[ACME] Fix wildcard certificate conflict with MAILCOW_HOSTNAME,https://github.com/mailcow/mailcow-dockerized/commit/1da8d1c894aad6d341287e334c9328a6c3966f4e,https://da.gd/FjyT5l
+GithubCommit,added/fix: use mailcow_theme in bundled dark mode JS,https://github.com/mailcow/mailcow-dockerized/commit/03eccd4e42a0ccb92e2e25e866c934b97663bda0,https://da.gd/BBaJ64
+GithubCommit,Merge pull request #7123 from mailcow/fix/7115,https://github.com/mailcow/mailcow-dockerized/commit/5f8382ef44ca1d23b0fc7abe67a7066e7d9548e7,https://da.gd/FVmkG
+GithubCommit,Merge pull request #7124 from mailcow/fix/7112,https://github.com/mailcow/mailcow-dockerized/commit/abd6fe8c791abffa8ced448d6e317879a347e60c,https://da.gd/12Ksx
+GithubCommit,Merge pull request #7121 from rezzorix/fix/theme-localstorage-staging,https://github.com/mailcow/mailcow-dockerized/commit/d4bf377a9602b06bc09be5971d5be1e488e12fa6,https://da.gd/iL1VH
+GithubCommit,[Web] Updated lang.hu-hu.json (#7130),https://github.com/mailcow/mailcow-dockerized/commit/09f09cb8508fac1f177a8e7a912b9bd50ff50a8e,https://da.gd/DoKDM
+GithubCommit,[ACME] Skip autodiscover/mta-sts subdomains covered by wildcard certi…,https://github.com/mailcow/mailcow-dockerized/commit/127fb1e8f59db602d1f51558b2babdee06ac345f,https://da.gd/4UVt5
+GithubCommit,Merge pull request #7134 from mailcow/fix/7112-2,https://github.com/mailcow/mailcow-dockerized/commit/018e29285434a08329eda0e4768aaf464f3cfa5b,https://da.gd/mACi1
+GithubCommit,[ACME] Skip subdomains covered by wildcards (DNS-01 challenge only),https://github.com/mailcow/mailcow-dockerized/commit/7817dda43fc324463506cd9014dde7dd25f1c82e,https://da.gd/i4gACO
+GithubCommit,Merge pull request #7135 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/a693325fe6f0ddd4c2c63bc0e467f6aa41d721b4,https://da.gd/EypkR7
