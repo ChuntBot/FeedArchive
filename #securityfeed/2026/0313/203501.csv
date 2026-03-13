@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f269-vfmq-vjvj] Undici: Malicious WebSocket 64-bit length overflows parser and crashes the client,https://github.com/advisories/GHSA-f269-vfmq-vjvj,https://da.gd/b1blh
+GithubAdvisories,[GHSA-2mjp-6q6p-2qxm] Undici has an HTTP Request/Response Smuggling issue,https://github.com/advisories/GHSA-2mjp-6q6p-2qxm,https://da.gd/9YrSeC
+GithubAdvisories,[GHSA-4524-cj9j-g4fj] OneUptime: Password Reset Token Logged at INFO Level,https://github.com/advisories/GHSA-4524-cj9j-g4fj,https://da.gd/6vKqJS
+GithubAdvisories,[GHSA-752w-5fwx-jx9f] PyJWT accepts unknown `crit` header extensions,https://github.com/advisories/GHSA-752w-5fwx-jx9f,https://da.gd/YPlZQS
+GithubAdvisories,[GHSA-p2x3-8689-cwpg] Parse Server's GraphQL WebSocket endpoint bypasses security middleware,https://github.com/advisories/GHSA-p2x3-8689-cwpg,https://da.gd/jZ2O
+GithubAdvisories,[GHSA-vxx9-2994-q338] Yamux vulnerable to remote Panic via malformed Data frame with SYN set and len = 262145,https://github.com/advisories/GHSA-vxx9-2994-q338,https://da.gd/qKDtoj
