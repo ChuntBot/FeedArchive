@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-9vvh-2768-c8vp] OpenClaw: Discord guild reaction ingress could bypass users and roles allowlists,https://github.com/advisories/GHSA-9vvh-2768-c8vp,https://da.gd/1kscK
+GithubAdvisories,[GHSA-gmq8-994r-jv83] yauzl contains an off-by-one error,https://github.com/advisories/GHSA-gmq8-994r-jv83,https://da.gd/cdL8e
+GithubAdvisories,[GHSA-f38f-5xpm-9r7c] CairoSVG vulnerable to Exponential DoS via recursive element amplification,https://github.com/advisories/GHSA-f38f-5xpm-9r7c,https://da.gd/M0iymg
+GithubAdvisories,[GHSA-4w32-2493-32g7] Yamux vulnerable to remote Panic via malformed WindowUpdate credit,https://github.com/advisories/GHSA-4w32-2493-32g7,https://da.gd/ByH4Z
+GithubAdvisories,[GHSA-45vh-rpc8-hxpp] Gokapi's File Request MaxSize Limit Bypassed via Multi-Chunk Upload,https://github.com/advisories/GHSA-45vh-rpc8-hxpp,https://da.gd/3PlOs
+GithubAdvisories,[GHSA-qwc6-vc2v-2ggj] Gokapi vulnerable to DoS in E2E Metadata Parser,https://github.com/advisories/GHSA-qwc6-vc2v-2ggj,https://da.gd/XrtyXs
+GithubAdvisories,[GHSA-j6jp-78w8-34x6] Gokapi vulnerable to Privilege Escalation in File Replace,https://github.com/advisories/GHSA-j6jp-78w8-34x6,https://da.gd/oictb
+GithubAdvisories,[GHSA-m83q-5wr4-4gfp] SFTPGo improperly sanitizes placeholders in group home directories/key prefixes,https://github.com/advisories/GHSA-m83q-5wr4-4gfp,https://da.gd/y8rkms
+GithubAdvisories,[GHSA-x8qh-7475-c5mp] SFTPGo Vulnerable to Path Traversal and Permission Bypass via Path Normalization Discrepancy,https://github.com/advisories/GHSA-x8qh-7475-c5mp,https://da.gd/KitaVn
