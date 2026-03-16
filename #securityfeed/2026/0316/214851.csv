@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-3x67-4c2c-w45m] Admidio has a Second-Order SQL Injection via List Configuration (lsc_special_field, lsc_sort, lsc_filter)",https://github.com/advisories/GHSA-3x67-4c2c-w45m,https://da.gd/Tkvs
+GithubAdvisories,[GHSA-g375-5wmp-xr78] Admidio is Missing Authorization on Forum Topic and Post Deletion,https://github.com/advisories/GHSA-g375-5wmp-xr78,https://da.gd/LCU3y
+GithubAdvisories,[GHSA-4wr4-f2qf-x5wj] Admidio has an HTMLPurifier Bypass in eCard Message Allows HTML Email Injection,https://github.com/advisories/GHSA-4wr4-f2qf-x5wj,https://da.gd/AAON
+GithubAdvisories,[GHSA-rmpj-3x5m-9m5f] Admidio is Missing Authorization and CSRF Protection on Document and Folder Deletion,https://github.com/advisories/GHSA-rmpj-3x5m-9m5f,https://da.gd/sLUe0L
+GithubAdvisories,[GHSA-6j68-gcc3-mq73] Admidio Vulnerable to SSRF and Local File Read via Unrestricted URL Fetch in SSO Metadata Endpoint,https://github.com/advisories/GHSA-6j68-gcc3-mq73,https://da.gd/Ajyqv0
+GithubAdvisories,[GHSA-h8gr-qwr6-m9gx] Admidio is Missing CSRF Protection on Role Membership Date Changes,https://github.com/advisories/GHSA-h8gr-qwr6-m9gx,https://da.gd/56LY
+GithubAdvisories,"[GHSA-wwg8-6ffr-h4q2] Admidio is Missing CSRF Validation on Role Delete, Activate, and Deactivate Actions",https://github.com/advisories/GHSA-wwg8-6ffr-h4q2,https://da.gd/kG4kVP
+GithubAdvisories,[GHSA-95cq-p4w2-32w5] File Upload(RCE) Vulnerability in admidio,https://github.com/advisories/GHSA-95cq-p4w2-32w5,https://da.gd/CmsEQI
