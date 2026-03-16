@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-v3r3-4qgc-vw66] Uncontrolled memory allocation via crafted SVG dimensions in @dicebear/converter,https://github.com/advisories/GHSA-v3r3-4qgc-vw66,https://da.gd/3aAY1
+GithubAdvisories,[GHSA-m344-f55w-2m6j] Authlib: Fail-Open Cryptographic Verification in OIDC Hash Binding,https://github.com/advisories/GHSA-m344-f55w-2m6j,https://da.gd/JXIkd
+GithubAdvisories,[GHSA-vpgj-75r2-c557] Malware in wordpecker-fx,https://github.com/advisories/GHSA-vpgj-75r2-c557,https://da.gd/M7jMKO
+GithubAdvisories,[GHSA-6cmf-j596-2qj3] Malware in alinet,https://github.com/advisories/GHSA-6cmf-j596-2qj3,https://da.gd/mza1M
+GithubAdvisories,[GHSA-qhvq-pqqm-67f9] Malware in supply-hx,https://github.com/advisories/GHSA-qhvq-pqqm-67f9,https://da.gd/0cgqdy
+GithubAdvisories,[GHSA-rvf8-cxqj-3hgq] Malware in jalalstealer,https://github.com/advisories/GHSA-rvf8-cxqj-3hgq,https://da.gd/5MJ65
+GithubAdvisories,[GHSA-87mr-4wrw-h27g] Malware in aesdecryptor,https://github.com/advisories/GHSA-87mr-4wrw-h27g,https://da.gd/HkCzqF
+GithubAdvisories,[GHSA-394g-wvjv-j6mg] Malware in alinet-w,https://github.com/advisories/GHSA-394g-wvjv-j6mg,https://da.gd/2gT7tk
+GithubAdvisories,[GHSA-4x9x-f5f2-fpw5] Malware in delta666,https://github.com/advisories/GHSA-4x9x-f5f2-fpw5,https://da.gd/hTEFl
