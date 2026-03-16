@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7432-952r-cw78] Authlib Vulnerable to JWE RSA1_5 Bleichenbacher Padding Oracle,https://github.com/advisories/GHSA-7432-952r-cw78,https://da.gd/g70uPc
+GithubAdvisories,[GHSA-wvwj-cvrp-7pv5] Authlib JWS JWK Header Injection: Signature Verification Bypass,https://github.com/advisories/GHSA-wvwj-cvrp-7pv5,https://da.gd/6HC5w
+GithubAdvisories,[GHSA-vp96-hxj8-p424] pyOpenSSL allows TLS connection bypass via unhandled callback exception in set_tlsext_servername_callback,https://github.com/advisories/GHSA-vp96-hxj8-p424,https://da.gd/Il7O
+GithubAdvisories,[GHSA-8r8j-gfhg-fw38] Spinnaker clouddriver and orca URL validation bypass via underscores in hostnames,https://github.com/advisories/GHSA-8r8j-gfhg-fw38,https://da.gd/SlGCG
+GithubAdvisories,[GHSA-5h2m-4q8j-pqpj] FastMCP OAuth Proxy token reuse across MCP servers,https://github.com/advisories/GHSA-5h2m-4q8j-pqpj,https://da.gd/hEwxX
+GithubAdvisories,[GHSA-fm65-938r-jvjw] Malware in n8n-nodes-xml-utils,https://github.com/advisories/GHSA-fm65-938r-jvjw,https://da.gd/gYQJm
+GithubAdvisories,[GHSA-m4cr-jqq9-pf5g] Malware in n8n-nodes-text-utils,https://github.com/advisories/GHSA-m4cr-jqq9-pf5g,https://da.gd/jfFQ
+GithubAdvisories,[GHSA-ffvh-hxxc-qgqq] Malware in n8n-nodes-csv-parse,https://github.com/advisories/GHSA-ffvh-hxxc-qgqq,https://da.gd/6uTot
+GithubAdvisories,[GHSA-r2w7-4rv7-p8wj] Malware in n8n-nodes-text-helpers,https://github.com/advisories/GHSA-r2w7-4rv7-p8wj,https://da.gd/3ajScA
+GithubAdvisories,[GHSA-2grx-v7mh-7qrq] Malware in n8n-nodes-json-helper,https://github.com/advisories/GHSA-2grx-v7mh-7qrq,https://da.gd/MbMMs7
+GithubAdvisories,[GHSA-28fq-xgq3-mpwc] Malware in n8n-nodes-format-utils,https://github.com/advisories/GHSA-28fq-xgq3-mpwc,https://da.gd/g1k9A
+GithubAdvisories,[GHSA-247f-gpc6-j9v6] Malware in n8n-nodes-data-transform,https://github.com/advisories/GHSA-247f-gpc6-j9v6,https://da.gd/JeTWQO
+GithubAdvisories,[GHSA-fm2v-p7vm-ccc3] Malware in hariprasath,https://github.com/advisories/GHSA-fm2v-p7vm-ccc3,https://da.gd/eetbdU
+GithubAdvisories,[GHSA-mcp5-j24x-66wp] Malware in supplychain-security-demo,https://github.com/advisories/GHSA-mcp5-j24x-66wp,https://da.gd/laGoBL
