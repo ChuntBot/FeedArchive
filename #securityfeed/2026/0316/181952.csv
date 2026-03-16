@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-67cr-jmh8-4jpq] Google Cloud Storage for Craft CMS has an Information Disclosure Vulnerability,https://github.com/advisories/GHSA-67cr-jmh8-4jpq,https://da.gd/Jf0yM
+GithubAdvisories,[GHSA-hwj7-4vgc-j3v9] Amazon S3 for Craft CMS has an Information Disclosure vulnerability,https://github.com/advisories/GHSA-hwj7-4vgc-j3v9,https://da.gd/Ljn9No
+GithubAdvisories,[GHSA-4484-8v2f-5748] Craft CMS vulnerable to behavior injection RCE ElementIndexesController and FieldsController,https://github.com/advisories/GHSA-4484-8v2f-5748,https://da.gd/KMAaie
+GithubAdvisories,[GHSA-qx2q-q59v-wf3j] Craft CMS vulnerable to behavior injection RCE via EntryTypesController,https://github.com/advisories/GHSA-qx2q-q59v-wf3j,https://da.gd/w2utT1
+GithubAdvisories,[GHSA-472v-j2g4-g9h2] Craft CMS has a Path Traversal Vulnerability in AssetsController,https://github.com/advisories/GHSA-472v-j2g4-g9h2,https://da.gd/a8mYEY
+GithubAdvisories,[GHSA-8wg7-wm29-2rvg] RCE via SSTI for users with permissions to access the Craft CMS Webhooks plugin,https://github.com/advisories/GHSA-8wg7-wm29-2rvg,https://da.gd/69gJNm
