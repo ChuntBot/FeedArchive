@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qr46-rcv3-4hq3] SiYuan Vulnerable to Remote Code Execution via Stored XSS in Notebook Name - Mobile Interface,https://github.com/advisories/GHSA-qr46-rcv3-4hq3,https://da.gd/4Be7Q
+GithubAdvisories,[GHSA-rjhh-m223-9qqv] SiYuan importStdMd: unvalidated localPath imports arbitrary host directories as persistent notes,https://github.com/advisories/GHSA-rjhh-m223-9qqv,https://da.gd/lxnGo
+GithubAdvisories,[GHSA-qvvf-q994-x79v] SiYuan importSY/importZipMd: path traversal via multipart filename enables arbitrary file write,https://github.com/advisories/GHSA-qvvf-q994-x79v,https://da.gd/cj5FR
+GithubAdvisories,[GHSA-xp2m-98x8-rpj6] SiYuan Vulnerable to Cross-Origin WebSocket Hijacking via Authentication Bypass — Unauthenticated Information Disclosure,https://github.com/advisories/GHSA-xp2m-98x8-rpj6,https://da.gd/PfLUj
+GithubAdvisories,[GHSA-h5vh-m7fg-w5h6] SiYuan globalCopyFiles: incomplete sensitive path blocklist allows reading /proc and Docker secrets,https://github.com/advisories/GHSA-h5vh-m7fg-w5h6,https://da.gd/kPCAP
+GithubAdvisories,[GHSA-42ph-pf9q-cr72] Parse Server has a stored XSS filter bypass via Content-Type MIME parameter and missing XML extension blocklist entries,https://github.com/advisories/GHSA-42ph-pf9q-cr72,https://da.gd/oQIoP
+GithubAdvisories,[GHSA-h84f-4ff9-8hc3] Apache Livy: Unauthorized directory access,https://github.com/advisories/GHSA-h84f-4ff9-8hc3,https://da.gd/9nggnP
+GithubAdvisories,[GHSA-hm8x-rpgg-7855] Apache Livy: Restrict file access,https://github.com/advisories/GHSA-hm8x-rpgg-7855,https://da.gd/K4jK3
+GithubAdvisories,[GHSA-q6fm-p73f-x862] Azure Blob Storage for Craft CMS Potential Sensitive Information Disclosure vulnerability,https://github.com/advisories/GHSA-q6fm-p73f-x862,https://da.gd/Y6qrWT
+GithubAdvisories,[GHSA-cc7p-2j3x-x7xf] Craft CMS Vulnerable to Privilege Escalation/Bypass through UsersController->actionImpersonateWithToken(),https://github.com/advisories/GHSA-cc7p-2j3x-x7xf,https://da.gd/XoDo
