@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4w98-xf39-23gp] Loop with Unreachable Exit Condition ('Infinite Loop') in ewe,https://github.com/advisories/GHSA-4w98-xf39-23gp,https://da.gd/Kn3H
+GithubAdvisories,[GHSA-9w88-79f8-m3vp] Permissive List of Allowed Inputs in ewe,https://github.com/advisories/GHSA-9w88-79f8-m3vp,https://da.gd/CqtMXP
+GithubAdvisories,[GHSA-vvp9-7p8x-rfvv] lz4_flex's decompression can leak information from uninitialized memory or reused output buffer,https://github.com/advisories/GHSA-vvp9-7p8x-rfvv,https://da.gd/eVxab
+GithubAdvisories,[GHSA-j94x-8wcp-x7hm] Kargo Vulnerable to SSRF in Promotion http/http-download Steps Enables Internal Network Access and Data Exfiltration,https://github.com/advisories/GHSA-j94x-8wcp-x7hm,https://da.gd/4gwM
+GithubAdvisories,[GHSA-hxm7-9q36-c77f] Fullchain's Invalid NetworkPolicy enables a malicious actor to pivot into another namespace,https://github.com/advisories/GHSA-hxm7-9q36-c77f,https://da.gd/kSR1v
+GithubAdvisories,[GHSA-p799-g7vv-f279] Romeo is vulnerable to Archive Slip due to missing checks in sanitization,https://github.com/advisories/GHSA-p799-g7vv-f279,https://da.gd/LHpFPI
+GithubAdvisories,[GHSA-f7cq-gvh6-qr25] Monitoring is vulnerable to Archive Slip due to missing checks in sanitization,https://github.com/advisories/GHSA-f7cq-gvh6-qr25,https://da.gd/jCZht
+GithubAdvisories,[GHSA-fgm3-q9r5-43v9] Romeo's invalid NetworkPolicy enables a malicious actor to pivot into another namespace,https://github.com/advisories/GHSA-fgm3-q9r5-43v9,https://da.gd/OEJjx
+GithubAdvisories,[GHSA-mw24-f3xh-j3qv] Chall-Manager's invalid NetworkPolicy enables a malicious actor to pivot into another namespace,https://github.com/advisories/GHSA-mw24-f3xh-j3qv,https://da.gd/AecJBy
+GithubAdvisories,[GHSA-9f3r-2vgw-m8xp] File Browser has an Access Rule Bypass via Path Traversal in Copy/Rename Destination Parameter,https://github.com/advisories/GHSA-9f3r-2vgw-m8xp,https://da.gd/J1F3cG
+GithubAdvisories,[GHSA-j7wh-x834-p3r7] SiYuan: Authorization Bypass Allows Arbitrary SQL Execution via Search API,https://github.com/advisories/GHSA-j7wh-x834-p3r7,https://da.gd/ilAZ9x
+GithubAdvisories,[GHSA-5gg9-5g7w-hm73] File Browser Signup Grants Admin When Default Permissions Include Admin,https://github.com/advisories/GHSA-5gg9-5g7w-hm73,https://da.gd/jPd0t7
+GithubAdvisories,[GHSA-v3mg-9v85-fcm7] SiYuan Vulnerable to Remote Code Execution via Malicious Bazaar Package — Marketplace XSS,https://github.com/advisories/GHSA-v3mg-9v85-fcm7,https://da.gd/tjFAVX
+GithubAdvisories,[GHSA-ffx7-75gc-jg7c] File Browser TUS Negative Upload-Length Fires Post-Upload Hooks Prematurely,https://github.com/advisories/GHSA-ffx7-75gc-jg7c,https://da.gd/UfDgR
+GithubAdvisories,[GHSA-vr7j-g7jv-h5mp] OpenClaw session transcript files were created without forced user-only permissions,https://github.com/advisories/GHSA-vr7j-g7jv-h5mp,https://da.gd/92gtA
+GithubAdvisories,[GHSA-g2f6-pwvx-r275] OpneClaw accepts unsanitized iMessage attachment paths which allowed SCP remote-path command injection,https://github.com/advisories/GHSA-g2f6-pwvx-r275,https://da.gd/haBXDG
+GithubAdvisories,"[GHSA-jq3f-vjww-8rq7] OpenClaw Telegram webhook request bodies were read before secret validation, enabling unauthenticated resource exhaustion",https://github.com/advisories/GHSA-jq3f-vjww-8rq7,https://da.gd/MF7h7
+GithubAdvisories,[GHSA-63f5-hhc7-cx6p] OpenClaw bootstrap setup codes could be replayed to escalate pending pairing scopes before approval,https://github.com/advisories/GHSA-63f5-hhc7-cx6p,https://da.gd/OI0myr
+GithubAdvisories,[GHSA-xwcj-hwhf-h378] OpenClaw Telegram media fetch errors exposed bot tokens in logged file URLs,https://github.com/advisories/GHSA-xwcj-hwhf-h378,https://da.gd/aIjAVi
