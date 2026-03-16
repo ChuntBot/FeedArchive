@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42 Chromium Severe Heap Buffer Overflow CVE-2026-3913 Warning,https://linuxsecurity.com/advisories/fedora/fedora-42-chromium-2026-e71e71d1fe,https://da.gd/lfsR8
+LinuxSecurity,Fedora 42 pgAdmin4 Critical ReDoS and XSS Threats 2026-416a89747f,https://linuxsecurity.com/advisories/fedora/pgadmin4-fedora-42-2026-416a89747f,https://da.gd/b1yPT
+LinuxSecurity,Fedora 42 qgis Important Remote Code Exec Vuln 2026-24480,https://linuxsecurity.com/advisories/fedora/qgis-fedora-42-2026-cd6e404295,https://da.gd/lVUeZ
+LinuxSecurity,Fedora 42 Python3.6 Significant DoS Security Update for CVE-2025-12084,https://linuxsecurity.com/advisories/fedora/python3-6-fedora-2026-dd37d41d7f,https://da.gd/xkjhI
+LinuxSecurity,Fedora 43 alertmanager 0.31.1 Important Updates 2026-efbceeec2f,https://linuxsecurity.com/advisories/fedora/alertmanager-fedora-43-2026-efbceeec2f,https://da.gd/mvrYi7
+LinuxSecurity,Fedora 43 pgAdmin4 Update Addresses Serious Cross-Site Scripting Flaws,https://linuxsecurity.com/advisories/fedora/pgadmin4-fedora-43-2026-bef5344f9f,https://da.gd/Ths2X
