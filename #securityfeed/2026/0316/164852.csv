@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7p5m-xrh7-769r] SandboxJS has an execution-quota bypass (cross-sandbox currentTicks race) in SandboxJS timers,https://github.com/advisories/GHSA-7p5m-xrh7-769r,https://da.gd/kZhFg
+GithubAdvisories,[GHSA-r5pr-887v-m2w9] Stored XSS in Memray-generated HTML reports via unescaped command-line metadata,https://github.com/advisories/GHSA-r5pr-887v-m2w9,https://da.gd/022F
+GithubAdvisories,[GHSA-6ggm-pwr9-r5h2] XSS in @leanprover/unicode-input-component,https://github.com/advisories/GHSA-6ggm-pwr9-r5h2,https://da.gd/NaiD1
+GithubAdvisories,[GHSA-xvf4-ch4q-2m24] StudioCMS REST getUsers Exposes Owner Account Records to Admin Tokens,https://github.com/advisories/GHSA-xvf4-ch4q-2m24,https://da.gd/F6mm3
+GithubAdvisories,[GHSA-vx5f-957p-qpvm] Glances Central Browser Autodiscovery Leaks Reusable Credentials to Zeroconf-Spoofed Servers,https://github.com/advisories/GHSA-vx5f-957p-qpvm,https://da.gd/mW32g5
+GithubAdvisories,[GHSA-r297-p3v4-wp8m] Glances's Browser API Exposes Reusable Downstream Credentials via `/api/4/serverslist`,https://github.com/advisories/GHSA-r297-p3v4-wp8m,https://da.gd/OYwcG
+GithubAdvisories,[GHSA-hhcg-r27j-fhv9] Glances's REST/WebUI Lacks Host Validation and Remains Exposed to DNS Rebinding,https://github.com/advisories/GHSA-hhcg-r27j-fhv9,https://da.gd/wKwm
+GithubAdvisories,[GHSA-49g7-2ww7-3vf5] Glances has a SQL Injection in DuckDB Export via Unparameterized DDL Statements,https://github.com/advisories/GHSA-49g7-2ww7-3vf5,https://da.gd/FUTgp
+GithubAdvisories,[GHSA-9jfm-9rc6-2hfq] Glances's Default CORS Configuration Allows Cross-Origin Credential Theft,https://github.com/advisories/GHSA-9jfm-9rc6-2hfq,https://da.gd/cWOQtY
+GithubAdvisories,[GHSA-cvwp-r2g2-j824] Glances has Incomplete Secrets Redaction: /api/v4/args Endpoint Leaks Password Hash and SNMP Credentials,https://github.com/advisories/GHSA-cvwp-r2g2-j824,https://da.gd/SJhM2L
+GithubAdvisories,[GHSA-vcv2-q258-wrg7] Glances has a Command Injection via Process Names in Action Command Templates,https://github.com/advisories/GHSA-vcv2-q258-wrg7,https://da.gd/8CiuuC
+GithubAdvisories,[GHSA-wj2j-qwcf-cfcc] IncusOS has a LUKS encryption bypass due to insufficient TPM policy,https://github.com/advisories/GHSA-wj2j-qwcf-cfcc,https://da.gd/QFYEj
+GithubAdvisories,[GHSA-wvxv-4j8q-4wjq] Glances exposes the REST API without authentication,https://github.com/advisories/GHSA-wvxv-4j8q-4wjq,https://da.gd/w4mki
+GithubAdvisories,[GHSA-hqmj-h5c6-369m] ONNX Untrusted Model Repository Warnings Suppressed by silent=True in onnx.hub.load() — Silent Supply-Chain Attack,https://github.com/advisories/GHSA-hqmj-h5c6-369m,https://da.gd/zKpWHa
+GithubAdvisories,"[GHSA-6jj5-j4j8-8473] LeafKit's HTML escaping may be skipped for Collection values, enabling XSS",https://github.com/advisories/GHSA-6jj5-j4j8-8473,https://da.gd/79tmX8
+GithubAdvisories,[GHSA-5pwr-322w-8jr4] pyOpenSSL DTLS cookie callback buffer overflow,https://github.com/advisories/GHSA-5pwr-322w-8jr4,https://da.gd/cUzxxe
