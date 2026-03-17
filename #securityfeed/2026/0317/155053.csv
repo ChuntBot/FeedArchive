@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mq59-m269-xvcx] Next.js: null origin can bypass Server Actions CSRF checks,https://github.com/advisories/GHSA-mq59-m269-xvcx,https://da.gd/2moMl
+GithubAdvisories,[GHSA-jcc7-9wpm-mj36] Next.js: null origin can bypass dev HMR websocket CSRF checks,https://github.com/advisories/GHSA-jcc7-9wpm-mj36,https://da.gd/H6L0o
