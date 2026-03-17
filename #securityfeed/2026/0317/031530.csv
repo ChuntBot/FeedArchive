@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 20.04 curl Critical Authentication Issues USN-8099-1 CVE-2026-1965,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8099-1-curl,https://da.gd/wUgUjw
+LinuxSecurity,Ubuntu 22.04 LTS Advisory USN-8096-2 Linux Kernel FIPS Security,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8096-2-linux-kernel-fips,https://da.gd/NvEdhW
+LinuxSecurity,Ubuntu 24.04 LTS USN-8095-2 Linux Kernel Critical Local Escalation,https://linuxsecurity.com/advisories/ubuntu/linux-kernel-ubuntu-8095-2,https://da.gd/RA3cH4
+LinuxSecurity,Ubuntu 24.04 22.04 Linux Kernel NVIDIA Critical Privilege Escalation,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8100-1-linux-kernel-nvidia,https://da.gd/ZEhKk
