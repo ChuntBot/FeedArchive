@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4mx9-3c2h-hwhg] SiYuan has a SanitizeSVG bypass via data:text/xml in getDynamicIcon (incomplete fix for CVE-2026-29183),https://github.com/advisories/GHSA-4mx9-3c2h-hwhg,https://da.gd/gTKsk
+GithubAdvisories,[GHSA-fq2j-j8hc-8vw8] SiYuan Vulnerable to Arbitrary File Read in Desktop Publish Service,https://github.com/advisories/GHSA-fq2j-j8hc-8vw8,https://da.gd/HTt5Zv
+GithubAdvisories,[GHSA-v7cf-c9rm-wm3j] Uncontrolled recursion DoS in JustHTML() via deeply nested HTML,https://github.com/advisories/GHSA-v7cf-c9rm-wm3j,https://da.gd/58W7i
