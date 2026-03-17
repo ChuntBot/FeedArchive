@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8hq9-phh3-p2wp] Elysia Cookie Value Prototype Pollution,https://github.com/advisories/GHSA-8hq9-phh3-p2wp,https://da.gd/PwZ1L
+GithubAdvisories,[GHSA-jr27-m4p2-rc6r] Denial of Service in pyasn1 via Unbounded Recursion,https://github.com/advisories/GHSA-jr27-m4p2-rc6r,https://da.gd/HGyo5
+GithubAdvisories,[GHSA-ggv3-7p47-pfv8] Next.js: HTTP request smuggling in rewrites,https://github.com/advisories/GHSA-ggv3-7p47-pfv8,https://da.gd/4Fb8aH
+GithubAdvisories,[GHSA-3x4c-7xq6-9pq8] Next.js: Unbounded next/image disk cache growth can exhaust storage,https://github.com/advisories/GHSA-3x4c-7xq6-9pq8,https://da.gd/WiWqha
+GithubAdvisories,[GHSA-h27x-g6w4-24gq] Next.js: Unbounded postponed resume buffering can lead to DoS,https://github.com/advisories/GHSA-h27x-g6w4-24gq,https://da.gd/RAHQkR
