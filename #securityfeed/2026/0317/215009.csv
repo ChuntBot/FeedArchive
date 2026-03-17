@@ -1,0 +1,48 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xfhr-q72q-jcrj] Improper S3 ownership verification in Bedrock AgentCore Starter Toolkit,https://github.com/advisories/GHSA-xfhr-q72q-jcrj,https://da.gd/BdUbLj
+GithubAdvisories,[GHSA-2cpp-j2fc-qhp7] AWS API MCP File Access Restriction Bypass,https://github.com/advisories/GHSA-2cpp-j2fc-qhp7,https://da.gd/26TjB
+GithubAdvisories,[GHSA-9x67-f2v7-63rw] AVideo vulnerable to unauthenticated SSRF via HTTP redirect bypass in LiveLinks proxy,https://github.com/advisories/GHSA-9x67-f2v7-63rw,https://da.gd/gU4Or
+GithubAdvisories,[GHSA-6mj8-jmp2-g8q7] Vanna has a SQL injection in the remove_training_data function,https://github.com/advisories/GHSA-6mj8-jmp2-g8q7,https://da.gd/G0XG4n
+GithubAdvisories,[GHSA-76c2-3q6g-xvpm] Aureus ERP vulnerable to cross-site scripting in the Chatter Message Handler,https://github.com/advisories/GHSA-76c2-3q6g-xvpm,https://da.gd/UmE1b
+GithubAdvisories,[GHSA-wfq5-qgqp-hvhv] Unauthenticated Reflected XSS via innerHTML in AVideo,https://github.com/advisories/GHSA-wfq5-qgqp-hvhv,https://da.gd/8v3S
+GithubAdvisories,[GHSA-vwmf-pq79-vjvx] Unauthenticated Remote Code Execution in Langflow via Public Flow Build Endpoint,https://github.com/advisories/GHSA-vwmf-pq79-vjvx,https://da.gd/vBJ3
+GithubAdvisories,[GHSA-v6c2-xwv6-8xf7] music-metadata has an infinite loop vulnerability in ASF parser,https://github.com/advisories/GHSA-v6c2-xwv6-8xf7,https://da.gd/VvVkU
+GithubAdvisories,[GHSA-q2r8-vmq7-fpx2] MLflow Tracking Server Artifact Handler Directory Traversal Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-q2r8-vmq7-fpx2,https://da.gd/DQDOQ
+GithubAdvisories,[GHSA-gq3w-7jj3-x7gr] MLflow Use of Default Password Authentication Bypass Vulnerability,https://github.com/advisories/GHSA-gq3w-7jj3-x7gr,https://da.gd/cZc4o
+GithubAdvisories,[GHSA-3rhr-jr63-hwq5] Mattermost fails to preserve the redacted state of burn-on-read posts during deletion,https://github.com/advisories/GHSA-3rhr-jr63-hwq5,https://da.gd/iUV7li
+GithubAdvisories,[GHSA-fx49-m253-27jj] Mattermost fails to filter invite IDs based on user permissions,https://github.com/advisories/GHSA-fx49-m253-27jj,https://da.gd/IyL0I
+GithubAdvisories,[GHSA-679f-wmrg-qf57] Mattermost allows a removed team member to enumerate all public channels within a private team,https://github.com/advisories/GHSA-679f-wmrg-qf57,https://da.gd/8rFPZe
+GithubAdvisories,[GHSA-34g8-9fpp-46ch] Mattermost fails to limit the size of responses from integration action endpoints,https://github.com/advisories/GHSA-34g8-9fpp-46ch,https://da.gd/x8IwD
+GithubAdvisories,[GHSA-ph22-fw5m-w2q9] Mattermost allows attackers to spoof permalink embeds,https://github.com/advisories/GHSA-ph22-fw5m-w2q9,https://da.gd/0siEH
+GithubAdvisories,[GHSA-44mv-jq72-gj49] Mattermost fails to bound memory allocation when processing PSD image files,https://github.com/advisories/GHSA-44mv-jq72-gj49,https://da.gd/9ex9
+GithubAdvisories,[GHSA-2v3w-6g35-5f9v] Mattermost fails to properly validate User-Agent header tokens,https://github.com/advisories/GHSA-2v3w-6g35-5f9v,https://da.gd/oKryL2
+GithubAdvisories,[GHSA-xv2p-wchj-qjhp] Mattermost fails to bound memory allocation when processing DOC files,https://github.com/advisories/GHSA-xv2p-wchj-qjhp,https://da.gd/fL9D
+GithubAdvisories,[GHSA-m5rv-56xx-hfc6] Mattermost fails to properly handle very long passwords,https://github.com/advisories/GHSA-m5rv-56xx-hfc6,https://da.gd/l6tw0
+GithubAdvisories,[GHSA-jwp6-cvj8-fw65] Apache Spark: Spark History Server Code Execution Vulnerability,https://github.com/advisories/GHSA-jwp6-cvj8-fw65,https://da.gd/yWCVE
+GithubAdvisories,[GHSA-xch3-2f9x-wh9f] MLflow has a command injection in mlflow/sagemaker/__init__.py,https://github.com/advisories/GHSA-xch3-2f9x-wh9f,https://da.gd/c4ID
+GithubAdvisories,[GHSA-qc3p-398r-p59j] AVideo affected by Session Hijacking via Unauthenticated Session ID Disclosure with Permissive CORS,https://github.com/advisories/GHSA-qc3p-398r-p59j,https://da.gd/WWDbEZ
+GithubAdvisories,[GHSA-wjqw-r9x4-j59v] Parse Server affected by empty authData bypassing credential requirement on signup,https://github.com/advisories/GHSA-wjqw-r9x4-j59v,https://da.gd/2d6c2b
+GithubAdvisories,[GHSA-px7x-gq96-rmp5] AVideo has an Unauthenticated Password Hash Oracle via encryptPass.json.php,https://github.com/advisories/GHSA-px7x-gq96-rmp5,https://da.gd/FtZklZ
+GithubAdvisories,[GHSA-6gx3-4362-rf54] astral-tokio-tar insufficiently validates PAX extensions during extraction,https://github.com/advisories/GHSA-6gx3-4362-rf54,https://da.gd/K0ZBl
+GithubAdvisories,[GHSA-2f9h-23f7-8gcx] AVideo affected by unauthenticated application takeover via exposed web installer on uninitialized deployments,https://github.com/advisories/GHSA-2f9h-23f7-8gcx,https://da.gd/VVir6R
+GithubAdvisories,[GHSA-cv4x-93xx-wgfj] Tekton Pipelines controller panic via long resolver name in TaskRun/PipelineRun,https://github.com/advisories/GHSA-cv4x-93xx-wgfj,https://da.gd/U1xro
+GithubAdvisories,[GHSA-8gc5-j5rx-235r] fast-xml-parser affected by numeric entity expansion bypassing all entity expansion limits (incomplete fix for CVE-2026-26278),https://github.com/advisories/GHSA-8gc5-j5rx-235r,https://da.gd/vcBzs
+GithubAdvisories,[GHSA-4w7r-3222-8h6v] Tillitis TKey Client has an Error in Protocol Implementation,https://github.com/advisories/GHSA-4w7r-3222-8h6v,https://da.gd/qJ32yi
+GithubAdvisories,[GHSA-2hcp-gjrf-7fhc] Micronaut Framework vulnerable to a Denial of Service in HTML error response caching,https://github.com/advisories/GHSA-2hcp-gjrf-7fhc,https://da.gd/lTpHPf
+GithubAdvisories,[GHSA-wf42-42fg-fg84] Nest Fastify HEAD Request Middleware Bypass,https://github.com/advisories/GHSA-wf42-42fg-fg84,https://da.gd/oYQtK
+GithubAdvisories,[GHSA-46g3-37rh-v698] Egress Policy Bypass via DNS over HTTPS (DoH) in Harden-Runner (Community Tier),https://github.com/advisories/GHSA-46g3-37rh-v698,https://da.gd/Gnor
+GithubAdvisories,[GHSA-g699-3x6g-wm3g] Egress Policy Bypass via DNS over TCP in Harden-Runner (Community Tier),https://github.com/advisories/GHSA-g699-3x6g-wm3g,https://da.gd/2NN9C
+GithubAdvisories,[GHSA-827p-g5x5-h86c] Parse Server LiveQuery subscription with invalid regular expression crashes server,https://github.com/advisories/GHSA-827p-g5x5-h86c,https://da.gd/Ok1c4
+GithubAdvisories,[GHSA-5v7g-9h8f-8pgg] Parse Server session creation endpoint allows overwriting server-generated session fields,https://github.com/advisories/GHSA-5v7g-9h8f-8pgg,https://da.gd/7RtwVd
+GithubAdvisories,[GHSA-9ccr-fpp6-78qf] Parse Server vulnerable to schema poisoning via prototype pollution in deep copy,https://github.com/advisories/GHSA-9ccr-fpp6-78qf,https://da.gd/z4DTzN
+GithubAdvisories,[GHSA-4263-jgmp-7pf4] Parse Server's Cloud function dispatch crashes server via prototype chain traversal,https://github.com/advisories/GHSA-4263-jgmp-7pf4,https://da.gd/keXX1Z
+GithubAdvisories,[GHSA-97vp-pwqj-46qc] Sliver Vulnerable to Authenticated OOM via Memory Exhaustion in mTLS/WireGuard Transports,https://github.com/advisories/GHSA-97vp-pwqj-46qc,https://da.gd/EhcsF
+GithubAdvisories,[GHSA-r3xq-68wh-gwvh] Parse Server has a password reset token single-use bypass via concurrent requests,https://github.com/advisories/GHSA-r3xq-68wh-gwvh,https://da.gd/ptKPa
+GithubAdvisories,[GHSA-9xp9-j92r-p88v] Parse Server crash via deeply nested query condition operators,https://github.com/advisories/GHSA-9xp9-j92r-p88v,https://da.gd/urORjS
+GithubAdvisories,"[GHSA-57hq-95w6-v4fc] Devise has a confirmable ""change email"" race condition permits user to confirm email they have no access to",https://github.com/advisories/GHSA-57hq-95w6-v4fc,https://da.gd/OwuN7
+GithubAdvisories,[GHSA-gc62-2v5p-qpmp] ImageMagick has a heap-buffer-overflow in NewXMLTree which could result in crash,https://github.com/advisories/GHSA-gc62-2v5p-qpmp,https://da.gd/yxql9
+GithubAdvisories,[GHSA-phqm-jgc3-qf8g] Kube-router Proxy Module Blindly Trusts ExternalIPs/LoadBalancer IPs Enabling Cluster-Wide Traffic Hijacking and DNS DoS,https://github.com/advisories/GHSA-phqm-jgc3-qf8g,https://da.gd/WTOQqo
+GithubAdvisories,[GHSA-wfv2-pwc8-crg5] jsPDF has HTML Injection in New Window paths,https://github.com/advisories/GHSA-wfv2-pwc8-crg5,https://da.gd/gRr47Z
+GithubAdvisories,[GHSA-7x6v-j9x4-qf24] jsPDF has a PDF Object Injection via FreeText color,https://github.com/advisories/GHSA-7x6v-j9x4-qf24,https://da.gd/bDidL
+GithubAdvisories,[GHSA-7x5c-vfhj-9628] Cockpit CMS has SQL Injection in MongoLite Aggregation Optimizer via toJsonExtractRaw(),https://github.com/advisories/GHSA-7x5c-vfhj-9628,https://da.gd/mmla
+GithubAdvisories,[GHSA-43w5-mmxv-cpvh] Micronaut vulnerable to DoS via crafted form-urlencoded body binding with descending array indices,https://github.com/advisories/GHSA-43w5-mmxv-cpvh,https://da.gd/4HO4L
