@@ -1,0 +1,41 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-gfwx-w7gr-fvh7] Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in nltk,https://github.com/advisories/GHSA-gfwx-w7gr-fvh7,https://da.gd/ttgka
+GithubAdvisories,[GHSA-4647-wpjq-hh7f] Budibase Unrestricted Server-Side Request Forgery (SSRF) via REST Datasource Query Preview,https://github.com/advisories/GHSA-4647-wpjq-hh7f,https://da.gd/YeqteT
+GithubAdvisories,[GHSA-g9f6-9775-hffm] Nhost Storage Affected by MIME Type Spoofing via Trusted Client Content-Type Header in Storage Upload,https://github.com/advisories/GHSA-g9f6-9775-hffm,https://da.gd/Abiskq
+GithubAdvisories,[GHSA-c267-rfvc-mvpm] SQL Injection in Spring AI MariaDBFilterExpressionConverter,https://github.com/advisories/GHSA-c267-rfvc-mvpm,https://da.gd/eJ2U
+GithubAdvisories,[GHSA-rp9g-qx29-88cp] JSONPath Injection in Spring AI Vector Stores FilterExpressionConverter,https://github.com/advisories/GHSA-rp9g-qx29-88cp,https://da.gd/v5h0R
+GithubAdvisories,[GHSA-j5q5-j9gm-2w5c] Path traversal in Tekton Pipelines git resolver allows reading arbitrary files from the resolver pod,https://github.com/advisories/GHSA-j5q5-j9gm-2w5c,https://da.gd/CzyK9r
+GithubAdvisories,[GHSA-3rcm-vjrc-p45j] JustHTML has a Sanitizer Bypass (in Markdown),https://github.com/advisories/GHSA-3rcm-vjrc-p45j,https://da.gd/PX3JLm
+GithubAdvisories,[GHSA-qvc2-mg72-jjhx] JustHTML Affected by Mutation XSS via Literal Text Serialization in Raw Text Elements (style/script),https://github.com/advisories/GHSA-qvc2-mg72-jjhx,https://da.gd/idmgSH
+GithubAdvisories,[GHSA-xv6h-r36f-3gp5] Keycloak: Denial of Service due to excessive SAMLRequest decompression,https://github.com/advisories/GHSA-xv6h-r36f-3gp5,https://da.gd/0RGzXk
+GithubAdvisories,[GHSA-pcgw-qcv5-h8ch] Unsigned SAML LogoutRequest Acceptance in gosaml2,https://github.com/advisories/GHSA-pcgw-qcv5-h8ch,https://da.gd/XZQw8Y
+GithubAdvisories,[GHSA-hwqm-qvj9-4jr2] gosaml2 CBC Padding Panic — Unauthenticated Process Crash,https://github.com/advisories/GHSA-hwqm-qvj9-4jr2,https://da.gd/FWED
+GithubAdvisories,[GHSA-479m-364c-43vc] validateSignature Loop Variable Capture Signature Bypass in goxmldsig,https://github.com/advisories/GHSA-479m-364c-43vc,https://da.gd/YkId8f
+GithubAdvisories,[GHSA-rf74-v2fm-23pw] Natural Language Toolkit (NLTK) has unbounded recursion in JSONTaggedDecoder.decode_obj() may cause DoS,https://github.com/advisories/GHSA-rf74-v2fm-23pw,https://da.gd/W6rNGW
+GithubAdvisories,[GHSA-x4p7-7chp-64hq] Keycloak: Unauthorized authentication via disabled SAML Identity Provider,https://github.com/advisories/GHSA-x4p7-7chp-64hq,https://da.gd/xYNs2
+GithubAdvisories,[GHSA-wmxr-6j5f-838p] Keycloak: Unauthorized access via improper validation of encrypted SAML assertions,https://github.com/advisories/GHSA-wmxr-6j5f-838p,https://da.gd/kRPr9P
+GithubAdvisories,[GHSA-vccx-p757-pv6h] mo has a XSS via inline SVG script tags in Markdown rendering,https://github.com/advisories/GHSA-vccx-p757-pv6h,https://da.gd/CSiTF
+GithubAdvisories,[GHSA-xw36-67f8-339x] SimpleJWT has an Unauthenticated Denial of Service via JWE header tampering,https://github.com/advisories/GHSA-xw36-67f8-339x,https://da.gd/E5Weov
+GithubAdvisories,[GHSA-5rvc-5cwx-g5x8] free5GC UDM incorrectly returns 500 for empty supi path parameter in PATCH sdm-subscriptions reques,https://github.com/advisories/GHSA-5rvc-5cwx-g5x8,https://da.gd/bJDDB9
+GithubAdvisories,[GHSA-p9hg-pq3q-v9gv] free5GC UDM vulnerable to null byte injection in URL path parameters causing 500 Internal Server Error,https://github.com/advisories/GHSA-p9hg-pq3q-v9gv,https://da.gd/dhkI
+GithubAdvisories,[GHSA-3g9h-9hp4-654v] SiYuan has an Unauthenticated WebSocket DoS via Auth Keepalive Bypass,https://github.com/advisories/GHSA-3g9h-9hp4-654v,https://da.gd/8SXb4K
+GithubAdvisories,"[GHSA-vm69-h85x-8p85] SiYuan has an Incomplete Fix for IsSensitivePath Denylist Allows File Read from /opt, /usr, /home (GHSA-h5vh-m7fg-w5h6 Bypass)",https://github.com/advisories/GHSA-vm69-h85x-8p85,https://da.gd/jdd8uN
+GithubAdvisories,[GHSA-p77j-4mvh-x3m3] gRPC-Go has an authorization bypass via missing leading slash in :path,https://github.com/advisories/GHSA-p77j-4mvh-x3m3,https://da.gd/GoUhZK
+GithubAdvisories,[GHSA-54jj-px8x-5w5q] DeepDiff has Memory Exhaustion DoS through SAFE_TO_IMPORT,https://github.com/advisories/GHSA-54jj-px8x-5w5q,https://da.gd/CIf1w
+GithubAdvisories,[GHSA-pxrr-hq57-q35p] dynaconf Affected by Remote Code Execution (RCE) via Insecure Template Evaluation in @jinja Resolver,https://github.com/advisories/GHSA-pxrr-hq57-q35p,https://da.gd/ix2fo
+GithubAdvisories,[GHSA-p7m9-v2cm-2h7m] HAPI FHIR HTTP authentication leak in redirects,https://github.com/advisories/GHSA-p7m9-v2cm-2h7m,https://da.gd/SSE7uQ
+GithubAdvisories,[GHSA-vv3x-j2x5-36jc] Filament Unvalidated Range and Values summarizer values can be used for XSS,https://github.com/advisories/GHSA-vv3x-j2x5-36jc,https://da.gd/Va4ItT
+GithubAdvisories,[GHSA-958m-gxmc-mccm] free5GC UDM incorrectly returns 500 for empty supi path parameter in DELETE sdm-subscriptions request,https://github.com/advisories/GHSA-958m-gxmc-mccm,https://da.gd/4DFJTZ
+GithubAdvisories,[GHSA-7g27-v5wj-jr75] free5GC UDM DataChangeNotification Procedure Panic Due to Nil Pointer Dereference,https://github.com/advisories/GHSA-7g27-v5wj-jr75,https://da.gd/ocnQsl
+GithubAdvisories,[GHSA-4jrw-92fg-4jwx] free5GC AUSF UE Authentication Panic on Nil SuciSupiMap Interface Conversion,https://github.com/advisories/GHSA-4jrw-92fg-4jwx,https://da.gd/qeluT
+GithubAdvisories,[GHSA-7c47-xr7q-p6hg] free5GC NRF Discovery EncodeGroupId Function Panics on Malformed group-id-list Parameter,https://github.com/advisories/GHSA-7c47-xr7q-p6hg,https://da.gd/urevU
+GithubAdvisories,[GHSA-gjgx-rvqr-6w6v] Mesop Affected by Unauthenticated Remote Code Execution via Test Suite Route /exec-py,https://github.com/advisories/GHSA-gjgx-rvqr-6w6v,https://da.gd/qEh5Z
+GithubAdvisories,[GHSA-8qvf-mr4w-9x2c] Mesop has a Path Traversal utilizing `FileStateSessionBackend` leads to Application Denial of Service and File Write/Deletion,https://github.com/advisories/GHSA-8qvf-mr4w-9x2c,https://da.gd/L8Eavb
+GithubAdvisories,[GHSA-wh3h-gvc4-cc2g] Statamic is missing authorization check on taxonomy term creation via fieldtype,https://github.com/advisories/GHSA-wh3h-gvc4-cc2g,https://da.gd/mqgJq
+GithubAdvisories,[GHSA-qm7r-wwq7-6f85] Statamic has a path traversal in file dictionary fieldtype,https://github.com/advisories/GHSA-qm7r-wwq7-6f85,https://da.gd/zxm6
+GithubAdvisories,[GHSA-7rcv-55mj-chg7] Statamic has Stored XSS via SVG Sanitization Bypass,https://github.com/advisories/GHSA-7rcv-55mj-chg7,https://da.gd/hYtgt
+GithubAdvisories,[GHSA-gc42-3jg7-rxr2] Gossipsub PRUNE.backoff Duration Overflow,https://github.com/advisories/GHSA-gc42-3jg7-rxr2,https://da.gd/uPws4
+GithubAdvisories,"[GHSA-64hm-gfwq-jppw] Allure Report has an Arbitrary File Read via Path Traversal in Attachment Processing (Allure 1, Allure 2, and XCTest Readers)",https://github.com/advisories/GHSA-64hm-gfwq-jppw,https://da.gd/NMVcM
+GithubAdvisories,[GHSA-5hmj-jcgp-6hff] Parse Server leaks protected fields via LiveQuery afterEvent trigger,https://github.com/advisories/GHSA-5hmj-jcgp-6hff,https://da.gd/HjodnV
+GithubAdvisories,[GHSA-mwxc-m426-3f78] ApostropheCMS has Arbitrary File Write (Zip Slip / Path Traversal) in Import-Export Gzip Extraction,https://github.com/advisories/GHSA-mwxc-m426-3f78,https://da.gd/OcJUwy
+GithubAdvisories,[GHSA-v9xm-ffx2-7h35] ApostropheCMS MFA/TOTP Bypass via Incorrect MongoDB Query in Bearer Token Middleware,https://github.com/advisories/GHSA-v9xm-ffx2-7h35,https://da.gd/HrahB
