@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wc64-r4v7-rjwr] Malware in transform-modules-systemjs,https://github.com/advisories/GHSA-wc64-r4v7-rjwr,https://da.gd/B4ih6
+GithubAdvisories,[GHSA-9xfj-83q4-hxj6] Malware in transform-dynamic-import,https://github.com/advisories/GHSA-9xfj-83q4-hxj6,https://da.gd/UIEbN
+GithubAdvisories,[GHSA-m6hv-9gh4-4c85] Malware in transform-json-strings,https://github.com/advisories/GHSA-m6hv-9gh4-4c85,https://da.gd/FhwAuU
+GithubAdvisories,[GHSA-44fq-5mh8-r5hg] Malware in transform-spread,https://github.com/advisories/GHSA-44fq-5mh8-r5hg,https://da.gd/U6LSKK
+GithubAdvisories,[GHSA-6jrx-v84r-9g5m] Malware in transform-inline-consecutive-adds,https://github.com/advisories/GHSA-6jrx-v84r-9g5m,https://da.gd/LIBv
+GithubAdvisories,[GHSA-8m7g-rpw2-w26v] Malware in transform-charcodes,https://github.com/advisories/GHSA-8m7g-rpw2-w26v,https://da.gd/LMiACp
+GithubAdvisories,[GHSA-4h33-vfc6-f2hh] Malware in transform-for-of,https://github.com/advisories/GHSA-4h33-vfc6-f2hh,https://da.gd/vit57G
+GithubAdvisories,[GHSA-vpx7-g2h6-rq6c] Malware in transform-new-target,https://github.com/advisories/GHSA-vpx7-g2h6-rq6c,https://da.gd/Qd0Hj
+GithubAdvisories,[GHSA-j74c-w64f-9wg5] Malware in transform-typescript,https://github.com/advisories/GHSA-j74c-w64f-9wg5,https://da.gd/ItUlH8
+GithubAdvisories,[GHSA-3hr5-9jhx-97c5] Malware in transform-es2015-shorthand-properties,https://github.com/advisories/GHSA-3hr5-9jhx-97c5,https://da.gd/JjEfHu
+GithubAdvisories,[GHSA-2gfq-7ff6-3mr7] Malware in transform-es2015-parameters,https://github.com/advisories/GHSA-2gfq-7ff6-3mr7,https://da.gd/W8qOS
+GithubAdvisories,[GHSA-f582-qpjg-gx9h] Malware in add-react-displayname,https://github.com/advisories/GHSA-f582-qpjg-gx9h,https://da.gd/ezwmxO
+GithubAdvisories,[GHSA-rm67-f2rf-9fwf] Malware in transform-member-expression-literals,https://github.com/advisories/GHSA-rm67-f2rf-9fwf,https://da.gd/sML2J
