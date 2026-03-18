@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,openSUSE Backports SLE-15-SP8 python-dataanalysis Critical Security Alert,https://linuxsecurity.com/advisories/opensuse/opensuse-2026-0086-1-python-simpleeval,https://da.gd/bQ5YKE
+LinuxSecurity,openSUSE 2026 0088-1 Critical krb5-appl Remote Pre-Auth Buffer Overflow,https://linuxsecurity.com/advisories/opensuse/krb5-appl-opensuse-2026-0088-1,https://da.gd/2nD2C
+LinuxSecurity,Ubuntu 25.10 Valkey Critical Issues CVE-2025-67733 CVE-2026-21863,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8106-1-valkey,https://da.gd/5UvI5
+LinuxSecurity,openSUSE Leap 15.5 389-ds Important Heap Overflow Vuln SUSE-SU-2026-0913-1,https://linuxsecurity.com/advisories/opensuse/opensuse-389-ds-2026-0913-1,https://da.gd/LIrKI
+LinuxSecurity,openSUSE 389-ds Important Heap Overflow Fix SUSE-SU-2026-0913-1,https://linuxsecurity.com/advisories/suse/389-ds-suse-2026-0913-1,https://da.gd/EcoXR
+LinuxSecurity,openSUSE 2026 0914-1 389-ds Important Buffer Overflow CVE-2025-14905,https://linuxsecurity.com/advisories/suse/389-ds-suse-2026-0914-1,https://da.gd/dHUqu
