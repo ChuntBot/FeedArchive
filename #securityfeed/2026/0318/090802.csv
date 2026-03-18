@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 25.10 Vim Critical Denial Service Fix USN-8101-1 CVE-2026-25749,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8101-1-vim,https://da.gd/nJ79Pq
+LinuxSecurity,Fedora 43 Chromium Significant Buffer Overflow Vulnerability CVE-2026-3909,https://linuxsecurity.com/advisories/fedora/chromium-fedora-43-2026-44c7458a92,https://da.gd/eKCjak
+LinuxSecurity,Debian 11 Ansible Critical Code Execution Risk DLA-4502-1 CVE-2024-11079,https://linuxsecurity.com/advisories/deblts/debian-dla-4502-1-ansible,https://da.gd/bCDR9
+LinuxSecurity,Oracle Linux 10 ELSA-2026-4723 Kernel Moderate DoS CVE-2026-23010,https://linuxsecurity.com/advisories/oracle/oracle10-el-2026-4723-kernel,https://da.gd/obEywM
