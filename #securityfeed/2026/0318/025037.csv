@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c4qg-vqr5-vwq8] Malware in minify-replace,https://github.com/advisories/GHSA-c4qg-vqr5-vwq8,https://da.gd/QjvcH
+GithubAdvisories,[GHSA-mj24-hqwm-h9vr] Malware in undeclared-variables-check,https://github.com/advisories/GHSA-mj24-hqwm-h9vr,https://da.gd/T2Zqt
+GithubAdvisories,[GHSA-qw7p-5225-6543] Malware in transform-undefined-to-void,https://github.com/advisories/GHSA-qw7p-5225-6543,https://da.gd/XQvx
+GithubAdvisories,[GHSA-jrmp-x4fh-9fwr] Malware in transform-jscript,https://github.com/advisories/GHSA-jrmp-x4fh-9fwr,https://da.gd/QxQx
+GithubAdvisories,[GHSA-4ghw-5pcp-gwx4] Malware in transform-remove-debugger,https://github.com/advisories/GHSA-4ghw-5pcp-gwx4,https://da.gd/MFZPG
+GithubAdvisories,[GHSA-j7r9-77fw-4wx4] Malware in @storylane/shared-packages,https://github.com/advisories/GHSA-j7r9-77fw-4wx4,https://da.gd/jfIczz
+GithubAdvisories,[GHSA-m2gh-pw4c-p8f6] Malware in @storylane/uikit,https://github.com/advisories/GHSA-m2gh-pw4c-p8f6,https://da.gd/XZjMR
+GithubAdvisories,[GHSA-p89j-34hq-pxq7] Malware in vitest-globals,https://github.com/advisories/GHSA-p89j-34hq-pxq7,https://da.gd/QVkyyp
+GithubAdvisories,[GHSA-hq5h-wj2c-3mhf] Malware in transform-property-literals,https://github.com/advisories/GHSA-hq5h-wj2c-3mhf,https://da.gd/2XlNkF
+GithubAdvisories,[GHSA-4jcp-9jcj-hxmc] Malware in transform-minify-booleans,https://github.com/advisories/GHSA-4jcp-9jcj-hxmc,https://da.gd/iP74H
+GithubAdvisories,[GHSA-r9vm-77cr-58hj] Malware in transform-simplify-comparison-operators,https://github.com/advisories/GHSA-r9vm-77cr-58hj,https://da.gd/1mSA
