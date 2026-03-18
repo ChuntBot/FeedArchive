@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c8rr-9gxc-jprv] UltraJSON has an integer overflow handling large indent leads to buffer overflow or infinite loop,https://github.com/advisories/GHSA-c8rr-9gxc-jprv,https://da.gd/E3BeEg
+GithubAdvisories,[GHSA-wgvc-ghv9-3pmm] UltraJSON has a Memory Leak parsing large integers allows DoS,https://github.com/advisories/GHSA-wgvc-ghv9-3pmm,https://da.gd/rKNoX
+GithubAdvisories,[GHSA-r8x2-fhmf-6mxp] Heimdall: Path received via Envoy gRPC corrupted when containing query string,https://github.com/advisories/GHSA-r8x2-fhmf-6mxp,https://da.gd/oGLHxI
+GithubAdvisories,[GHSA-jqcq-xjh3-6g23] Denial of service in github.com/jackc/pgproto3/v2,https://github.com/advisories/GHSA-jqcq-xjh3-6g23,https://da.gd/5q7RKs
+GithubAdvisories,[GHSA-6g7g-w4f8-9c9x] Denial of service in github.com/buger/jsonparser,https://github.com/advisories/GHSA-6g7g-w4f8-9c9x,https://da.gd/st3E7O
+GithubAdvisories,[GHSA-h9q6-hc68-35rp] Denial of service in github.com/shamaton/msgpack,https://github.com/advisories/GHSA-h9q6-hc68-35rp,https://da.gd/G8LJpN
+GithubAdvisories,[GHSA-3xm7-qw7j-qc8v] SSRF in @aborruso/ckan-mcp-server via base_url allows access to internal networks,https://github.com/advisories/GHSA-3xm7-qw7j-qc8v,https://da.gd/lQRHE
+GithubAdvisories,[GHSA-wmrf-hv6w-mr66] SQL Injection via unsanitized JSON path keys when ignoring/silencing compilation errors or using `Kysely`,https://github.com/advisories/GHSA-wmrf-hv6w-mr66,https://da.gd/UNHG9
+GithubAdvisories,[GHSA-68j5-4m99-w9w9] File Browser has an Authorization Policy Bypass in Public Share Download Flow,https://github.com/advisories/GHSA-68j5-4m99-w9w9,https://da.gd/vNaxvk
+GithubAdvisories,[GHSA-594f-3595-c47v] Terraform Provider for ArgoCD has possible exposure to GO-2026-4337 / CVE-2025-68121,https://github.com/advisories/GHSA-594f-3595-c47v,https://da.gd/yESK
+GithubAdvisories,[GHSA-4p9m-8gc4-rw2h] GoBGP vulnerable to a denial of service via the NEXT_HOP path attribute,https://github.com/advisories/GHSA-4p9m-8gc4-rw2h,https://da.gd/QkT9I
+GithubAdvisories,[GHSA-rf6x-r45m-xv3w] Langflow is Missing Ownership Verification in API Key Deletion (IDOR),https://github.com/advisories/GHSA-rf6x-r45m-xv3w,https://da.gd/BDJJ
+GithubAdvisories,[GHSA-3x4w-mxpf-fhqq] Craft CMS Vulnerable to Stored XSS in Revision Context Menu,https://github.com/advisories/GHSA-3x4w-mxpf-fhqq,https://da.gd/UIFzp
