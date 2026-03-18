@@ -1,0 +1,35 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-762r-27w2-q22j] Avo has a XSS vulnerability on `return_to` param,https://github.com/advisories/GHSA-762r-27w2-q22j,https://da.gd/LMcGWF
+GithubAdvisories,[GHSA-46fp-8f5p-pf2m] Improper detection of disallowed URIs by Loofah `allowed_uri?`,https://github.com/advisories/GHSA-46fp-8f5p-pf2m,https://da.gd/YjPf9
+GithubAdvisories,[GHSA-6g43-577r-wf4x] Out-of-Bounds Slice Access in free5GC CHF Leading to DoS,https://github.com/advisories/GHSA-6g43-577r-wf4x,https://da.gd/5iarki
+GithubAdvisories,[GHSA-677m-j7p3-52f9] socket.io allows an unbounded number of binary attachments,https://github.com/advisories/GHSA-677m-j7p3-52f9,https://da.gd/lGACQO
+GithubAdvisories,[GHSA-g2pf-ww5m-2r9m] Zitadel is missing enforcement of organization scopes,https://github.com/advisories/GHSA-g2pf-ww5m-2r9m,https://da.gd/DSggP
+GithubAdvisories,[GHSA-fwj4-6wgp-mpxm] Katello: Denial of Service and potential information disclosure via SQL injection,https://github.com/advisories/GHSA-fwj4-6wgp-mpxm,https://da.gd/M4dTE
+GithubAdvisories,[GHSA-g5ph-f57v-mwjc] OneUptime WhatsApp Webhook Missing Signature Verification,https://github.com/advisories/GHSA-g5ph-f57v-mwjc,https://da.gd/TFlIC
+GithubAdvisories,[GHSA-mwp5-h2j4-x4f3] Malware in chai-as-constrained,https://github.com/advisories/GHSA-mwp5-h2j4-x4f3,https://da.gd/cxcu
+GithubAdvisories,"[GHSA-gcg3-c5p2-cqgg] OneUptime ClickHouse vulnerable to SQL Injection via unvalidated column identifiers in sort, select, and groupBy parameters",https://github.com/advisories/GHSA-gcg3-c5p2-cqgg,https://da.gd/jlhD3
+GithubAdvisories,[GHSA-qwxp-6qf9-wr4m] PinchTab has a Blind SSRF via browser-side redirect bypass in /download URL validation,https://github.com/advisories/GHSA-qwxp-6qf9-wr4m,https://da.gd/qquorF
+GithubAdvisories,[GHSA-2gmv-2r3v-jxj2] Stored XSS in PySpector HTML Report Generation leads to Javascript Code Execution,https://github.com/advisories/GHSA-2gmv-2r3v-jxj2,https://da.gd/gTRVPs
+GithubAdvisories,[GHSA-v3xv-8vc3-h2m6] PySpector has a Plugin Sandbox Bypass leads to Arbitrary Code Execution,https://github.com/advisories/GHSA-v3xv-8vc3-h2m6,https://da.gd/J3rHT
+GithubAdvisories,[GHSA-8x34-9q3v-h7g8] Apache Airflow: Execution API HITL Endpoints Missing Per-Task Authorization,https://github.com/advisories/GHSA-8x34-9q3v-h7g8,https://da.gd/FYtmf
+GithubAdvisories,[GHSA-4fhm-p86v-hwpx] Apache Airflow: Path of session token in cookie does not consider base_url - session hijacking via co-hosted applications,https://github.com/advisories/GHSA-4fhm-p86v-hwpx,https://da.gd/e5xB
+GithubAdvisories,[GHSA-x3fv-96qh-67m7] Apache Airflow: DAG authorization bypass,https://github.com/advisories/GHSA-x3fv-96qh-67m7,https://da.gd/IIiOm
+GithubAdvisories,[GHSA-4m3h-wp5w-5hqh] Apache Airflow: Wildcard DagVersion Listing Bypasses Per‑DAG RBAC and Leaks Metadata,https://github.com/advisories/GHSA-4m3h-wp5w-5hqh,https://da.gd/Ck2akx
+GithubAdvisories,[GHSA-wr4h-v87w-p3r7] h3 has a Path Traversal via Percent-Encoded Dot Segments in serveStatic Allows Arbitrary File Read,https://github.com/advisories/GHSA-wr4h-v87w-p3r7,https://da.gd/5NbHX
+GithubAdvisories,[GHSA-3vj8-jmxq-cgj5] h3 has a middleware bypass with one gadget,https://github.com/advisories/GHSA-3vj8-jmxq-cgj5,https://da.gd/hdSIg
+GithubAdvisories,[GHSA-26f5-8h2x-34xh] h3 has an observable timing discrepancy in basic auth utils,https://github.com/advisories/GHSA-26f5-8h2x-34xh,https://da.gd/GyZevD
+GithubAdvisories,[GHSA-22cc-p3c6-wpvm] h3 has a Server-Sent Events Injection via Unsanitized Newlines in Event Stream Fields,https://github.com/advisories/GHSA-22cc-p3c6-wpvm,https://da.gd/8Cpm7k
+GithubAdvisories,[GHSA-qpxp-75px-xjcp] pypdf has inefficient decoding of array-based streams,https://github.com/advisories/GHSA-qpxp-75px-xjcp,https://da.gd/PEXldw
+GithubAdvisories,"[GHSA-29r8-gvx4-r9w3] Authentication Bypass in extension ""E-Mail MFA Provider"" (mfa_email)",https://github.com/advisories/GHSA-29r8-gvx4-r9w3,https://da.gd/wyof6u
+GithubAdvisories,"[GHSA-755r-r738-mjgp] Broken Access Control in extension ""Redirect Tab"" (redirect_tab)",https://github.com/advisories/GHSA-755r-r738-mjgp,https://da.gd/qkDxt
+GithubAdvisories,[GHSA-2pm6-9fhx-vvg3] The mailqueue TYPO3 extension has Insecure Deserialization in `TransportFailure` class,https://github.com/advisories/GHSA-2pm6-9fhx-vvg3,https://da.gd/ETO8s
+GithubAdvisories,[GHSA-87v3-4cfp-cm76] Cross-Site Scripting (XSS) via SVG Schema innerHTML Injection in @pdfme/schemas,https://github.com/advisories/GHSA-87v3-4cfp-cm76,https://da.gd/thQnlZ
+GithubAdvisories,[GHSA-qq9g-96v4-m3cj] Cross-Site Scripting (XSS) via Select Schema Option Value Injection in @pdfme/schemas,https://github.com/advisories/GHSA-qq9g-96v4-m3cj,https://da.gd/LzwAA
+GithubAdvisories,[GHSA-2w8x-224x-785m] sjcl is missing point-on-curve validation in sjcl.ecc.basicKey.publicKey,https://github.com/advisories/GHSA-2w8x-224x-785m,https://da.gd/u8q1K
+GithubAdvisories,[GHSA-8mpm-q7mh-8fvh] Capgo CLI: symlink-following local secret writes enable arbitrary file overwrite + world-readable credentials (0600 missing),https://github.com/advisories/GHSA-8mpm-q7mh-8fvh,https://da.gd/uAlSA
+GithubAdvisories,[GHSA-mvpm-v6q4-m2pf] SiYuan has Stored XSS to RCE via Unsanitized Bazaar Package Metadata,https://github.com/advisories/GHSA-mvpm-v6q4-m2pf,https://da.gd/A9h1Y
+GithubAdvisories,[GHSA-4663-4mpg-879v] SiYuan has Stored XSS to RCE via Unsanitized Bazaar README Rendering,https://github.com/advisories/GHSA-4663-4mpg-879v,https://da.gd/kbsO4p
+GithubAdvisories,[GHSA-xpvf-6qcc-9jqc] Mattermost fails to validate team-specific upload_file permissions,https://github.com/advisories/GHSA-xpvf-6qcc-9jqc,https://da.gd/czvE
+GithubAdvisories,[GHSA-gqv7-j2j8-qmwq] Mattermost fails to canonicalize IPv4-mapped IPv6 addresses before reserved IP validation,https://github.com/advisories/GHSA-gqv7-j2j8-qmwq,https://da.gd/PYtu
+GithubAdvisories,[GHSA-cwfj-642j-gfh4] Mattermost fails to properly enforce read permissions in search API endpoints,https://github.com/advisories/GHSA-cwfj-642j-gfh4,https://da.gd/8vCJh
+GithubAdvisories,[GHSA-5mr9-crcg-8wh2] Mattermost fails to use consistent error responses when handling the /mute command,https://github.com/advisories/GHSA-5mr9-crcg-8wh2,https://da.gd/4eMK
