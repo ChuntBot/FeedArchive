@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 22.04 Python 2.7 Critical Denial of Service Vuln USN-8018-3,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8018-3-python-2-7,https://da.gd/nWGL8c
+LinuxSecurity,Oracle Linux 9 Capstone Important Memory Corruption ELSA-2026-4898,https://linuxsecurity.com/advisories/oracle/oracle9-elasticsearch-2026-4898-capstone,https://da.gd/P5Rem
+LinuxSecurity,Oracle Linux 9 ELSA-2026-4828 MySQL Moderate Security Update,https://linuxsecurity.com/advisories/oracle/oracle9-elsa-2026-4828-mysql,https://da.gd/IJ4k1
+LinuxSecurity,Oracle Linux 9 grub2 Moderate Advisory ELSA-2026-4760 CVE-2025-61662,https://linuxsecurity.com/advisories/oracle/oracle9-elsa-2026-4760-grub2,https://da.gd/cDFS9q
+LinuxSecurity,Oracle Linux 9 ELSA-2026-4759 Kernel Moderate Security DoS CVE-2025-39818,https://linuxsecurity.com/advisories/oracle/oracle9-elast-2026-4759-kernel,https://da.gd/xIu0Vv
+LinuxSecurity,Oracle Linux 8 ELSA-2026-4648 grub2 Moderate DoS CVE-2025-61662,https://linuxsecurity.com/advisories/oracle/oracle8-elisa-2026-4648-grub2,https://da.gd/Hw9hE4
