@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-wvr4-3wq4-gpc5] MCP Connect has unauthenticated remote OS command execution via /bridge endpoint,https://github.com/advisories/GHSA-wvr4-3wq4-gpc5,https://da.gd/ltD6NZ
+GithubAdvisories,[GHSA-4fcp-jxh7-23x8] Dasel has unbounded YAML alias expansion in dasel leads to CPU/memory denial of service,https://github.com/advisories/GHSA-4fcp-jxh7-23x8,https://da.gd/T16oS
+GithubAdvisories,[GHSA-w3vx-52j6-9fjp] NotChatbot WebChat has a stored cross-site scripting (XSS) vulnerability,https://github.com/advisories/GHSA-w3vx-52j6-9fjp,https://da.gd/knkdi
+GithubAdvisories,[GHSA-qqjr-hf5h-jx3q] Jenkins LoadNinja Plugin stores LoadNinja API keys unencrypted in job config.xml files,https://github.com/advisories/GHSA-qqjr-hf5h-jx3q,https://da.gd/RE91X
+GithubAdvisories,[GHSA-phhv-63fh-rrc8] Jenkins has a DNS rebinding vulnerability in WebSocket CLI origin validation,https://github.com/advisories/GHSA-phhv-63fh-rrc8,https://da.gd/CCg7Uv
+GithubAdvisories,[GHSA-5x2w-37xf-7962] AVideo has Unauthenticated PGP Message Decryption via Public Endpoint,https://github.com/advisories/GHSA-5x2w-37xf-7962,https://da.gd/ZoFJBZ
+GithubAdvisories,[GHSA-3m6g-2423-7cp3] Ruby JSON has a format string injection vulnerability,https://github.com/advisories/GHSA-3m6g-2423-7cp3,https://da.gd/6vU9LO
+GithubAdvisories,[GHSA-w5ff-2mjc-4phc] AVideo has an OS Command Injection via Unescaped URL in LinkedIn Video Upload Shell Command,https://github.com/advisories/GHSA-w5ff-2mjc-4phc,https://da.gd/pruNx
+GithubAdvisories,[GHSA-pp9r-xg4c-8j4x] Salvo Affected by Denial of Service via Unbounded Memory Allocation in Form Data Parsing,https://github.com/advisories/GHSA-pp9r-xg4c-8j4x,https://da.gd/vOr1V4
+GithubAdvisories,[GHSA-f842-phm9-p4v4] Salvo has a Path Traversal in salvo-proxy::encode_url_path allows API Gateway Bypass,https://github.com/advisories/GHSA-f842-phm9-p4v4,https://da.gd/MtoUeG
+GithubAdvisories,[GHSA-q382-vc8q-7jhj] Improper handling of null Unicode character when parsing JSON in github.com/modelcontextprotocol/go-sdk,https://github.com/advisories/GHSA-q382-vc8q-7jhj,https://da.gd/PzPAAP
+GithubAdvisories,[GHSA-4wmm-6qxj-fpj4] AVideo has a Path Traversal in listFiles.json.php Enables Server Filesystem Enumeration,https://github.com/advisories/GHSA-4wmm-6qxj-fpj4,https://da.gd/T9YT4S
+GithubAdvisories,[GHSA-v467-g7g7-hhfh] AVideo has SSRF in Scheduler Plugin via callbackURL Missing `isSSRFSafeURL()` Validation,https://github.com/advisories/GHSA-v467-g7g7-hhfh,https://da.gd/OLXIyV
+GithubAdvisories,[GHSA-gfgr-6hrj-85ww] Juju affected by timing ownership claim attack on new external back-end secrets,https://github.com/advisories/GHSA-gfgr-6hrj-85ww,https://da.gd/u0CqRa
+GithubAdvisories,[GHSA-469j-vmhf-r6v7] NLTK has a Downloader Path Traversal Vulnerability (AFO) - Arbitrary File Overwrite,https://github.com/advisories/GHSA-469j-vmhf-r6v7,https://da.gd/AfCrnU
+GithubAdvisories,[GHSA-jm6w-m3j8-898g] Unauthenticated remote shutdown in nltk.app.wordnet_app,https://github.com/advisories/GHSA-jm6w-m3j8-898g,https://da.gd/mDpFpF
+GithubAdvisories,[GHSA-mmgp-wc2j-qcv7] Claude Code has a Workspace Trust Dialog Bypass via Repo-Controlled Settings File,https://github.com/advisories/GHSA-mmgp-wc2j-qcv7,https://da.gd/9CoD
