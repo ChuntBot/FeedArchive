@@ -1,0 +1,65 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cxqh-p2w9-fmr7] PyMuPDF has a path traversal in _main_.py,https://github.com/advisories/GHSA-cxqh-p2w9-fmr7,https://da.gd/C611o
+GithubAdvisories,[GHSA-g9w4-m5fx-x3wv] Yoast Duplicate Post has an Authenticated (Contributor+) Missing Authorization to Arbitrary Post Duplication and Overwrite,https://github.com/advisories/GHSA-g9w4-m5fx-x3wv,https://da.gd/A6CfO3
+GithubAdvisories,[GHSA-2xr4-chcf-vmvf] The Query Monitor plugin for WordPress has Reflected Cross-Site Scripting via Request URI,https://github.com/advisories/GHSA-2xr4-chcf-vmvf,https://da.gd/chwPnM
+GithubAdvisories,[GHSA-x6gf-mpr2-68h6] pgproto3: Negative field length panics in DataRow.Decode,https://github.com/advisories/GHSA-x6gf-mpr2-68h6,https://da.gd/Nkc3kS
+GithubAdvisories,[GHSA-4jw9-5hrc-m4j6] AVideo has an authenticated arbitrary local file read via `chunkFile` path injection in `aVideoEncoder.json.php`,https://github.com/advisories/GHSA-4jw9-5hrc-m4j6,https://da.gd/mJGrJr
+GithubAdvisories,"[GHSA-xgxp-f695-6vrp] In Soft Serve, an authenticated repo import can clone server-local private repositories",https://github.com/advisories/GHSA-xgxp-f695-6vrp,https://da.gd/lyyxE
+GithubAdvisories,[GHSA-mcj5-6qr4-95fj] AVideo has an Unauthenticated SQL Injection via `doNotShowCats` Parameter (Backslash Escape Bypass),https://github.com/advisories/GHSA-mcj5-6qr4-95fj,https://da.gd/LTRX4
+GithubAdvisories,[GHSA-ph8x-4jfv-v9v8] Dagu has an incomplete fix for CVE-2026-27598: path traversal via %2F-encoded slashes in locateDAG,https://github.com/advisories/GHSA-ph8x-4jfv-v9v8,https://da.gd/PUSYEl
+GithubAdvisories,[GHSA-rv67-7w2g-7976] Mattermost fails to validate user's authentication method when processing account auth type switch,https://github.com/advisories/GHSA-rv67-7w2g-7976,https://da.gd/liVdXc
+GithubAdvisories,[GHSA-4ppj-6chv-5pgc] Mattermost Microsoft Teams Plugin fails to properly mask sensitive configuration values,https://github.com/advisories/GHSA-4ppj-6chv-5pgc,https://da.gd/kCwSrb
+GithubAdvisories,[GHSA-ggm6-h3mx-cmmp] Duplicate Advisory: safeBins stdin-only bypass via sort output and recursive grep flags,https://github.com/advisories/GHSA-ggm6-h3mx-cmmp,https://da.gd/t0kmuB
+GithubAdvisories,[GHSA-8px5-2gfr-7ph6] Duplicate Advisory: OpenClaw has Windows Lobster shell fallback command injection in constrained fallback path,https://github.com/advisories/GHSA-8px5-2gfr-7ph6,https://da.gd/aCtm
+GithubAdvisories,[GHSA-5gqg-mqh5-2v39] Duplicate Advisory: OpenClaw Windows Scheduled Task script generation allowed local command injection via unsafe cmd argument handling,https://github.com/advisories/GHSA-5gqg-mqh5-2v39,https://da.gd/cpFnkp
+GithubAdvisories,"[GHSA-5f7v-4f6g-74rj] AVideo has Unauthenticated SSRF via `webSiteRootURL` Parameter in saveDVR.json.php, Chaining to Verification Bypass",https://github.com/advisories/GHSA-5f7v-4f6g-74rj,https://da.gd/7MPOTA
+GithubAdvisories,[GHSA-jp2q-39xq-3w4g] Entity Expansion Limits Bypassed When Set to Zero Due to JavaScript Falsy Evaluation in fast-xml-parser,https://github.com/advisories/GHSA-jp2q-39xq-3w4g,https://da.gd/w6H9v
+GithubAdvisories,[GHSA-hh8v-hgvp-g3f5] league/commonmark has an embed extension allowed_domains bypass,https://github.com/advisories/GHSA-hh8v-hgvp-g3f5,https://da.gd/q5YxVs
+GithubAdvisories,[GHSA-mgp5-rv84-w37q] Apache Tomcat has an Improper Input Validation vulnerability,https://github.com/advisories/GHSA-mgp5-rv84-w37q,https://da.gd/x9i4
+GithubAdvisories,[GHSA-w5g8-5849-vj76] NiceGUI's unvalidated chunk size parameter in media routes can cause memory exhaustion,https://github.com/advisories/GHSA-w5g8-5849-vj76,https://da.gd/KI5fz
+GithubAdvisories,[GHSA-cgcg-q9jh-5pr2] @keystone-6/core: `isFilterable` bypass via `cursor` parameter in findMany (CVE-2025-46720 incomplete fix),https://github.com/advisories/GHSA-cgcg-q9jh-5pr2,https://da.gd/bGQr0F
+GithubAdvisories,[GHSA-866c-wwm5-4rj7] Duplicate Advisory: OpenClaw's Nextcloud Talk webhook replay could trigger duplicate inbound processing,https://github.com/advisories/GHSA-866c-wwm5-4rj7,https://da.gd/oLL8Du
+GithubAdvisories,[GHSA-5326-6f73-m96w] Duplicate Advisory: OpenClaw macOS companion app (beta): allowlist parsing mismatch for system.run shell chains,https://github.com/advisories/GHSA-5326-6f73-m96w,https://da.gd/kRAzUJ
+GithubAdvisories,[GHSA-h29g-q5c2-9h4f] Parse Server email verification resend page leaks user existence,https://github.com/advisories/GHSA-h29g-q5c2-9h4f,https://da.gd/dOOdzs
+GithubAdvisories,[GHSA-2mhw-8qcg-gr96] skia-python vendors vulnerable libfreetype because of pinned cibuildwheel version,https://github.com/advisories/GHSA-2mhw-8qcg-gr96,https://da.gd/4P1M
+GithubAdvisories,[GHSA-fhff-qmm8-h2fp] Arbitrary file write via tar traversal in mlflow,https://github.com/advisories/GHSA-fhff-qmm8-h2fp,https://da.gd/FJiNU
+GithubAdvisories,[GHSA-5cx5-wh4m-82fh] MinIO has JWT Algorithm Confusion in OIDC Authentication,https://github.com/advisories/GHSA-5cx5-wh4m-82fh,https://da.gd/WMYbX
+GithubAdvisories,[GHSA-q485-cg9q-xq2r] Improper Authentication and Origin Validation Error in pyload-ng,https://github.com/advisories/GHSA-q485-cg9q-xq2r,https://da.gd/J2zika
+GithubAdvisories,[GHSA-f27w-vcwj-c954] bcrypt-ruby has an Integer Overflow that Causes Zero Key-Strengthening Iterations at Cost=31 on JRuby,https://github.com/advisories/GHSA-f27w-vcwj-c954,https://da.gd/EJAiq
+GithubAdvisories,[GHSA-mr9r-mww3-v6gv] SVG Injection via Unsanitized Options in @dicebear/core and @dicebear/initials,https://github.com/advisories/GHSA-mr9r-mww3-v6gv,https://da.gd/fhT8S
+GithubAdvisories,[GHSA-hf8w-x9h5-5gf9] Mattermost Boards Plugin fails to implement authorisation checks on comment block modifications,https://github.com/advisories/GHSA-hf8w-x9h5-5gf9,https://da.gd/bXruWc
+GithubAdvisories,[GHSA-3366-gw57-fcm5] Ella Core panics on malformed ULNASTransport Message without a Request Type,https://github.com/advisories/GHSA-3366-gw57-fcm5,https://da.gd/qBf2r
+GithubAdvisories,[GHSA-826q-wrq4-p23x] Ella Core panics on malformed NGAP Location Report,https://github.com/advisories/GHSA-826q-wrq4-p23x,https://da.gd/Pg0H
+GithubAdvisories,[GHSA-q669-4gmv-g8mf] Ella Core panics on invalid PDU Session IDs in NGAP messages,https://github.com/advisories/GHSA-q669-4gmv-g8mf,https://da.gd/G0iGsL
+GithubAdvisories,[GHSA-37g4-qqqv-7m99] Intake has a Command Injection via shell() Expansion in Parameter Defaults,https://github.com/advisories/GHSA-37g4-qqqv-7m99,https://da.gd/adoM7u
+GithubAdvisories,[GHSA-g2j9-7rj2-gm6c] Langflow has an Arbitrary File Write (RCE) via v2 API,https://github.com/advisories/GHSA-g2j9-7rj2-gm6c,https://da.gd/4MA3s
+GithubAdvisories,[GHSA-rf6f-7fwh-wjgh] Prototype Pollution via parse() in NodeJS flatted,https://github.com/advisories/GHSA-rf6f-7fwh-wjgh,https://da.gd/yHAH3Z
+GithubAdvisories,[GHSA-5cj2-rqqf-hx9p] Juju affected by Confused Deputy IDOR attack via Predictable user specified ID in Juju Secrets,https://github.com/advisories/GHSA-5cj2-rqqf-hx9p,https://da.gd/1v8Ps
+GithubAdvisories,[GHSA-439w-v2p7-pggc] Juju has unauthorized access to out-of-scope Kubernetes secrets,https://github.com/advisories/GHSA-439w-v2p7-pggc,https://da.gd/XcJeg
+GithubAdvisories,[GHSA-89x7-5m5m-mcmm] Juju has unauthorized update of out-of-scope Vault secrets,https://github.com/advisories/GHSA-89x7-5m5m-mcmm,https://da.gd/89wpVE
+GithubAdvisories,[GHSA-f4rq-2259-hv29] Denial of service via non-terminating SYLT frame parsing loop in tinytag,https://github.com/advisories/GHSA-f4rq-2259-hv29,https://da.gd/nZGG8
+GithubAdvisories,[GHSA-6547-8hrg-c55m] AVideo: IDOR - Any Admin Can Set Another User's Channel Password via setPassword.json.php,https://github.com/advisories/GHSA-6547-8hrg-c55m,https://da.gd/gSQq2
+GithubAdvisories,[GHSA-hj5h-5623-gwhw] AVideo has an Open Redirect via Unvalidated redirectUri in userLogin.php,https://github.com/advisories/GHSA-hj5h-5623-gwhw,https://da.gd/x4KMN
+GithubAdvisories,[GHSA-gc3m-4mcr-h3pv] AVideo Affected by Stored XSS via Unescaped Video Title in CDN downloadButtons.php,https://github.com/advisories/GHSA-gc3m-4mcr-h3pv,https://da.gd/ZV43
+GithubAdvisories,[GHSA-66cw-h2mj-j39p] AVideo Affected by SSRF in BulkEmbed Thumbnail Fetch Allows Reading Internal Network Resources,https://github.com/advisories/GHSA-66cw-h2mj-j39p,https://da.gd/42ogWF
+GithubAdvisories,[GHSA-xmjm-86qv-g226] AVideo Affected by Arbitrary File Deletion via Path Traversal in CloneSite deleteDump Parameter,https://github.com/advisories/GHSA-xmjm-86qv-g226,https://da.gd/gU06
+GithubAdvisories,[GHSA-vf6p-p33f-3cjv] Malware in react-native-country-select,https://github.com/advisories/GHSA-vf6p-p33f-3cjv,https://da.gd/aLkbH
+GithubAdvisories,[GHSA-69cx-hr8r-mc9j] Malware in react-native-international-phone-number,https://github.com/advisories/GHSA-69cx-hr8r-mc9j,https://da.gd/6XEQhW
+GithubAdvisories,[GHSA-pw4v-x838-w5pg] AVideo has an Authorization Bypass via Path Traversal in HLS Endpoint Allows Streaming Private/Paid Videos,https://github.com/advisories/GHSA-pw4v-x838-w5pg,https://da.gd/ZzTva
+GithubAdvisories,[GHSA-89xv-2j6f-qhc8] Cross-Site Tool Execution for HTTP Servers without Authorizatrion in github.com/modelcontextprotocol/go-sdk,https://github.com/advisories/GHSA-89xv-2j6f-qhc8,https://da.gd/1lVGA
+GithubAdvisories,[GHSA-94g3-g5v7-q4jg] phpseclib's AES-CBC unpadding susceptible to padding oracle timing attack,https://github.com/advisories/GHSA-94g3-g5v7-q4jg,https://da.gd/s1VhPT
+GithubAdvisories,[GHSA-rg84-r52h-2rgw] Malware in @iflow-mcp/watercrawl-watercrawl-mcp,https://github.com/advisories/GHSA-rg84-r52h-2rgw,https://da.gd/RJTG
+GithubAdvisories,[GHSA-5w47-93jc-5w3g] Malware in @aifabrix/miso-client,https://github.com/advisories/GHSA-5w47-93jc-5w3g,https://da.gd/zePZE
+GithubAdvisories,[GHSA-h8vw-ph9r-xpch] qui CORS Misconfiguration: Arbitrary Origins Trusted,https://github.com/advisories/GHSA-h8vw-ph9r-xpch,https://da.gd/QD6wGZ
+GithubAdvisories,[GHSA-q4r8-xm5f-56gw] step-ca has Unauthenticated Certificate Issuance via SCEP UpdateReq (MessageType=18),https://github.com/advisories/GHSA-q4r8-xm5f-56gw,https://da.gd/Ty9y
+GithubAdvisories,[GHSA-f964-whrq-44h8] ormar Pydantic Validation Bypass via __pk_only__ and __excluded__ Kwargs Injection in Model Constructor,https://github.com/advisories/GHSA-f964-whrq-44h8,https://da.gd/WURui
+GithubAdvisories,[GHSA-5rp4-cwgh-gvwq] Duplicate Advisory: OpenClaw: WebSocket shared-auth connections could self-declare elevated scopes,https://github.com/advisories/GHSA-5rp4-cwgh-gvwq,https://da.gd/bwIYlH
+GithubAdvisories,[GHSA-2cwr-f5hx-gg3w] Duplicate Advisory: OpenClaw: stageSandboxMedia destination symlink traversal can overwrite files outside sandbox workspace,https://github.com/advisories/GHSA-2cwr-f5hx-gg3w,https://da.gd/aj3Fy
+GithubAdvisories,[GHSA-g87j-gm7p-6vw2] Duplicate Advisory: OpenClaw's Node system.run approval hardening wrapper semantic drift can execute unintended local scripts,https://github.com/advisories/GHSA-g87j-gm7p-6vw2,https://da.gd/Bd8BDa
+GithubAdvisories,[GHSA-pfv5-rpcw-x34x] Duplicate Advisory: OpenClaw's allow-always wrapper persistence could bypass future approvals and enable command execution,https://github.com/advisories/GHSA-pfv5-rpcw-x34x,https://da.gd/F1x0D
+GithubAdvisories,[GHSA-xrgv-34cc-q765] Duplicate Advisory: OpenClaw's system.run allowlist bypass via shell line-continuation command substitution,https://github.com/advisories/GHSA-xrgv-34cc-q765,https://da.gd/ZbApQN
+GithubAdvisories,"[GHSA-q86m-697p-h7fh] Duplicate Advisory: OpenClaw: system.run approvals did not bind PATH-token executable identity, enabling post-approval executable rebind",https://github.com/advisories/GHSA-q86m-697p-h7fh,https://da.gd/l1t93
+GithubAdvisories,[GHSA-7fr9-gw6v-q3mw] Malware in changelog-logger-utils,https://github.com/advisories/GHSA-7fr9-gw6v-q3mw,https://da.gd/nBXrQy
+GithubAdvisories,[GHSA-59ff-98r4-m9mp] Malware in changelog-logger-wrap,https://github.com/advisories/GHSA-59ff-98r4-m9mp,https://da.gd/7NzMB
+GithubAdvisories,[GHSA-jcwx-28x8-jf6f] Malware in tokenshower,https://github.com/advisories/GHSA-jcwx-28x8-jf6f,https://da.gd/x5RX9E
+GithubAdvisories,[GHSA-hqf3-9jfp-qgh9] Malware in jsonify-parser,https://github.com/advisories/GHSA-hqf3-9jfp-qgh9,https://da.gd/sKs6Q
