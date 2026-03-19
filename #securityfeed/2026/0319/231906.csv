@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vfx2-hv2g-xj5f] Protocol-Relative URL Injection via Single Backslash Bypass in Angular SSR,https://github.com/advisories/GHSA-vfx2-hv2g-xj5f,https://da.gd/CxDuXa
+GithubAdvisories,[GHSA-pfj7-wv7c-22pr] Parse Server has an auth provider validation bypass on login via partial authData,https://github.com/advisories/GHSA-pfj7-wv7c-22pr,https://da.gd/5UGPV
+GithubAdvisories,[GHSA-5rpf-x9jg-8j5p] Scriban Affected by Memory Exhaustion (OOM) via Unbounded String Generation (Denial of Service),https://github.com/advisories/GHSA-5rpf-x9jg-8j5p,https://da.gd/mlQ5M
+GithubAdvisories,[GHSA-grr9-747v-xvcp] Scriban has an Infinite Recursion during Object Rendering Leads to Stack Overflow and Process Crash (Denial of Service),https://github.com/advisories/GHSA-grr9-747v-xvcp,https://da.gd/ky4Pjs
+GithubAdvisories,[GHSA-wgh7-7m3c-fx25] Scriban has Uncontrolled Recursion in Parser Leads to Stack Overflow and Process Crash (Denial of Service),https://github.com/advisories/GHSA-wgh7-7m3c-fx25,https://da.gd/bxjSr
+GithubAdvisories,[GHSA-27qj-9gvp-8rh9] Packetbeat does not properly validate an array index in multiple protocol parser components,https://github.com/advisories/GHSA-27qj-9gvp-8rh9,https://da.gd/zMZFP
+GithubAdvisories,[GHSA-5vrw-qjxw-89r5] Metricbeat Allocates Memory with Excessive Size Value Leading to Denial of Service,https://github.com/advisories/GHSA-5vrw-qjxw-89r5,https://da.gd/HKH73
