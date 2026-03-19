@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 24.04 LTS Bouncy Castle Major LDAP DoS DNS Spoofing USN-8109-1,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8108-1-bouncy-castle,https://da.gd/8pckWd
+LinuxSecurity,openSUSE Leap 16.0 python-PyPDF3 Moderate Denial of Service Fix 20375-2,https://linuxsecurity.com/advisories/opensuse/opensuse-python-pypdf2-2026-20375-1,https://da.gd/AV3lQ
+LinuxSecurity,openSUSE Leap 16.0 python-Django Moderate Permissions Issue 2026-20373-1,https://linuxsecurity.com/advisories/opensuse/python-django-opensuse-2026-20373-1,https://da.gd/xAGfg
+LinuxSecurity,openSUSE Leap 16.0 Chromium Critical Update 2026-20372-1,https://linuxsecurity.com/advisories/opensuse/chromium-opensuse-2026-20372-1,https://da.gd/2vhlCc
+LinuxSecurity,openSUSE Leap 16.0 krb5-appl Critical Buffer Overflow Update 2026-20374-1,https://linuxsecurity.com/advisories/opensuse/krb5-appl-opensuse-2026-20374-1,https://da.gd/jtIyS
+LinuxSecurity,openSUSE Leap 16.0 docker-stable Important Memory Issue Fix 2026-20366-1,https://linuxsecurity.com/advisories/opensuse/opensuse-docker-stable-2026-20366-1,https://da.gd/oxKDb
