@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3m5v-4xp5-gjg2] Graphiti Affected by Arbitrary Method Execution via Unvalidated Relationship Names,https://github.com/advisories/GHSA-3m5v-4xp5-gjg2,https://da.gd/ZdIaw
+GithubAdvisories,[GHSA-v856-2rf8-9f28] pydicom has a path traversal in FileSet/DICOMDIR ReferencedFileID allows file access outside the File-set root,https://github.com/advisories/GHSA-v856-2rf8-9f28,https://da.gd/COFI0
+GithubAdvisories,[GHSA-whhv-gg5v-864r] Qwik City has array method pollution in FormData processing allows type confusion and DoS,https://github.com/advisories/GHSA-whhv-gg5v-864r,https://da.gd/KYRjb3
+GithubAdvisories,[GHSA-g3hg-j4jv-cwfr] Traefik Affected by BasicAuth Middleware Timing Attack Allows Username Enumeration,https://github.com/advisories/GHSA-g3hg-j4jv-cwfr,https://da.gd/vl2QG
+GithubAdvisories,[GHSA-wvvq-wgcr-9q48] Traefik has a Potential mTLS Bypass via Fragmented TLS ClientHello Causing Pre-SNI Sniff Fallback to Default Non-mTLS TLS Config,https://github.com/advisories/GHSA-wvvq-wgcr-9q48,https://da.gd/HfEio
+GithubAdvisories,[GHSA-m547-hp4w-j6jx] Vikunja has a Rate-Limit Bypass for Unauthenticated Users via Spoofed Headers,https://github.com/advisories/GHSA-m547-hp4w-j6jx,https://da.gd/VzHUUW
+GithubAdvisories,[GHSA-p9hg-wrmv-v8cp] Jenkins LoadNinja Plugin does not mask LoadNinja API keys displayed on the job configuration form,https://github.com/advisories/GHSA-p9hg-wrmv-v8cp,https://da.gd/xmkv
+GithubAdvisories,[GHSA-2c4w-2px5-9x3x] Apache Axis allows Exposure of Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-2c4w-2px5-9x3x,https://da.gd/DKhmX
+GithubAdvisories,[GHSA-h36m-2vh5-x699] Duplicate Advisory: ACPX Windows wrapper shell fallback allowed cwd injection in specific paths,https://github.com/advisories/GHSA-h36m-2vh5-x699,https://da.gd/1JtoI
+GithubAdvisories,"[GHSA-jqpf-vj28-9v7r] Duplicate Advisory: Synology Chat dmPolicy=allowlist failed open on empty allowedUserIds, allowing unauthorized agent dispatch",https://github.com/advisories/GHSA-jqpf-vj28-9v7r,https://da.gd/OgB7
+GithubAdvisories,[GHSA-x742-88jj-7hv9] Duplicate Advisory: allowlist exec-guard bypass via env -S,https://github.com/advisories/GHSA-x742-88jj-7hv9,https://da.gd/tEyME
+GithubAdvisories,[GHSA-r849-826x-wgqm] Duplicate Advisory: Signal group allowlist authorization bypass via DM pairing-store leakage,https://github.com/advisories/GHSA-r849-826x-wgqm,https://da.gd/yYkGS
+GithubAdvisories,[GHSA-44c9-4rg5-qjgq] Duplicate Advisory: web_search citation redirect SSRF via private-network-allowing policy,https://github.com/advisories/GHSA-44c9-4rg5-qjgq,https://da.gd/ir4FVw
+GithubAdvisories,[GHSA-3846-mfvc-xwpf] Duplicate Advisory: Exec allowlist wrapper analysis did not unwrap env/shell dispatch chains,https://github.com/advisories/GHSA-3846-mfvc-xwpf,https://da.gd/8ByUkU
+GithubAdvisories,[GHSA-82gw-wqw6-r2cf] Duplicate Advisory: Command Injection via unescaped environment assignments in Windows Scheduled Task script generation,https://github.com/advisories/GHSA-82gw-wqw6-r2cf,https://da.gd/PBgQr
