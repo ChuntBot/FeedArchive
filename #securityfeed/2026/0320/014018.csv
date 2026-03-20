@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Mageia 9 graphicsmagick DoS Division-by-Zero Fix MGASA-2026-0060,https://linuxsecurity.com/advisories/mageia/graphicsmagick-mageia-2026-0060,https://da.gd/HJzv2
+LinuxSecurity,Mageia 9 OpenSSH Important Code Execution Risks MGASA-2026-0059,https://linuxsecurity.com/advisories/mageia/openssh-mageia-2026-0059,https://da.gd/A2ABOa
+LinuxSecurity,Mageia 9 perl-YAML-Syck High Heap Overflow MGASA-2026-0058,https://linuxsecurity.com/advisories/mageia/mageia-2026-0058-perl-yaml-syck,https://da.gd/JZ36K
+LinuxSecurity,Mageia 9 PostgreSQL15 Important Bugfix Update MGAA-2026-0021,https://linuxsecurity.com/advisories/mageia/postgresql15-mageia-2026-0021,https://da.gd/X9Yma9
+LinuxSecurity,Debian 11 Evolution Data Server Key Update Risk Due to D-Bus File Deletion,https://linuxsecurity.com/advisories/deblts/debian-dla-4503-1-evolution-data-server,https://da.gd/Zrz4
+LinuxSecurity,Ubuntu 25.10 OpenStack Glance Noteworthy SSRF Vulnerability USN-8111-2,https://linuxsecurity.com/advisories/ubuntu/openstack-glance-8111-1,https://da.gd/A8DpH
