@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f53h-mxv9-cp98] ingress-nginx comment-based nginx configuration injection,https://github.com/advisories/GHSA-f53h-mxv9-cp98,https://da.gd/CrtuQ
+GithubAdvisories,[GHSA-7f6v-3gx7-27q8] oRPC has Stored XSS in OpenAPI Reference Plugin via unescaped JSON.stringify,https://github.com/advisories/GHSA-7f6v-3gx7-27q8,https://da.gd/1E3P0q
+GithubAdvisories,[GHSA-vq4q-79hh-q767] Vikunja’s Improper Access Control Enables Bypass of Administrator-Imposed Account Disablement,https://github.com/advisories/GHSA-vq4q-79hh-q767,https://da.gd/mlyl9
+GithubAdvisories,[GHSA-47cr-f226-r4pq] Vikunja has a 2FA Bypass via Caldav Basic Auth,https://github.com/advisories/GHSA-47cr-f226-r4pq,https://da.gd/z7JYr
+GithubAdvisories,[GHSA-mr3j-p26x-72x4] Vikunja has an IDOR in Task Comments Allows Reading Arbitrary Comments,https://github.com/advisories/GHSA-mr3j-p26x-72x4,https://da.gd/9J8u
+GithubAdvisories,[GHSA-564f-wx8x-878h] Vikunja read-only users can delete project background images via broken object-level authorization,https://github.com/advisories/GHSA-564f-wx8x-878h,https://da.gd/ZBLPI
+GithubAdvisories,[GHSA-j4xf-2g29-59ph] tar-rs `unpack_in` can chmod arbitrary directories by following symlinks,https://github.com/advisories/GHSA-j4xf-2g29-59ph,https://da.gd/63mMlG
+GithubAdvisories,[GHSA-gchp-q4r4-x4ff] tar-rs incorrectly ignores PAX size headers if header size is nonzero,https://github.com/advisories/GHSA-gchp-q4r4-x4ff,https://da.gd/bjl9yM
+GithubAdvisories,[GHSA-x49q-fhhm-r9jf] Duplicate Advisory: OpenClaw: WebSocket shared-auth connections could self-declare elevated scopes,https://github.com/advisories/GHSA-x49q-fhhm-r9jf,https://da.gd/LtuvX
