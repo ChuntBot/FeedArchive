@@ -1,0 +1,59 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-4pmx-622h-x359] Mattermost fails to verify run_create permission for empty playbookId,https://github.com/advisories/GHSA-4pmx-622h-x359,https://da.gd/KbPBkU
+GithubAdvisories,[GHSA-3fpm-8rjr-v5mc] AVideo has Unauthenticated SSRF via plugin/Live/test.php,https://github.com/advisories/GHSA-3fpm-8rjr-v5mc,https://da.gd/1iEN
+GithubAdvisories,[GHSA-8fw8-q79c-fp9m] AVideo has an Unauthenticated Local File Inclusion in API locale (RCE possible with writable PHP),https://github.com/advisories/GHSA-8fw8-q79c-fp9m,https://da.gd/Z4GPZh
+GithubAdvisories,[GHSA-mwjc-5j4x-r686] AVideo has an unauthenticated decrypt oracle leaking any ciphertext,https://github.com/advisories/GHSA-mwjc-5j4x-r686,https://da.gd/78tJ2
+GithubAdvisories,[GHSA-gv7f-w92j-383q] DreamFactory has a directory traversal,https://github.com/advisories/GHSA-gv7f-w92j-383q,https://da.gd/OpjoAs
+GithubAdvisories,[GHSA-pwjx-qhcg-rvj4] webpki has a certificate revocation enforcement bug,https://github.com/advisories/GHSA-pwjx-qhcg-rvj4,https://da.gd/Cce0Q2
+GithubAdvisories,[GHSA-r7mc-x6x7-cqxx] pyLoad SETTINGS Permission Users Can Achieve Remote Code Execution via Unrestricted Reconnect Script Configuration,https://github.com/advisories/GHSA-r7mc-x6x7-cqxx,https://da.gd/Y12OZ
+GithubAdvisories,[GHSA-6qh5-m6g3-xhq6] Parse Server LiveQuery subscription query depth bypass,https://github.com/advisories/GHSA-6qh5-m6g3-xhq6,https://da.gd/vldzrX
+GithubAdvisories,[GHSA-hv36-p4w4-6vmj] AVideo Affected by CSRF on Plugin Import Endpoint Enables Unauthenticated Remote Code Execution via Malicious Plugin Upload,https://github.com/advisories/GHSA-hv36-p4w4-6vmj,https://da.gd/7Gr4n
+GithubAdvisories,[GHSA-f67f-hcr6-94mf] Zen-AI-Pentest has Shell Injection via untrusted issue title in ZenClaw Discord Integration workflow,https://github.com/advisories/GHSA-f67f-hcr6-94mf,https://da.gd/FnnCjR
+GithubAdvisories,[GHSA-vggc-6pg2-xvp9] Vulnogram contains a stored cross-site scripting vulnerability in comment hypertext handling,https://github.com/advisories/GHSA-vggc-6pg2-xvp9,https://da.gd/NHs240
+GithubAdvisories,[GHSA-96qp-8cmq-jvq8] AVideo has Unauthenticated Information Disclosure of User Group Permission Mappings via Permissions Plugin,https://github.com/advisories/GHSA-96qp-8cmq-jvq8,https://da.gd/E0gp0
+GithubAdvisories,[GHSA-72h5-39r7-r26j] AVideo - Incomplete Fix for CVE-2026-27568: Stored XSS via Markdown `javascript:` URI Bypasses ParsedownSafeWithLinks Sanitization,https://github.com/advisories/GHSA-72h5-39r7-r26j,https://da.gd/kFeXe
+GithubAdvisories,[GHSA-7292-w8qp-mhq2] AVideo has Reflected XSS via unlockPassword Parameter in forbiddenPage.php and warningPage.php,https://github.com/advisories/GHSA-7292-w8qp-mhq2,https://da.gd/j7FJ
+GithubAdvisories,[GHSA-9fjp-q3c4-6w3j] Parse Server has a query condition depth bypass via pre-validation transform pipeline,https://github.com/advisories/GHSA-9fjp-q3c4-6w3j,https://da.gd/kWoFmK
+GithubAdvisories,[GHSA-ph9w-r52h-28p7] langflow: /profile_pictures/{folder_name}/{file_name} endpoint file reading,https://github.com/advisories/GHSA-ph9w-r52h-28p7,https://da.gd/PxOubI
+GithubAdvisories,[GHSA-c38g-mx2c-9wf2] Ory Keto has a SQL injection via forged pagination tokens,https://github.com/advisories/GHSA-c38g-mx2c-9wf2,https://da.gd/HNUos
+GithubAdvisories,[GHSA-r9w3-57w2-gch2] Ory Hydra has a SQL injection via forged pagination tokens,https://github.com/advisories/GHSA-r9w3-57w2-gch2,https://da.gd/pcOQeN
+GithubAdvisories,[GHSA-hgx2-28f8-6g2r] Ory Kratos has a SQL injection via forged pagination tokens,https://github.com/advisories/GHSA-hgx2-28f8-6g2r,https://da.gd/zm3BK
+GithubAdvisories,[GHSA-p224-6x5r-fjpm] Ory Oathkeeper has a path traversal authorization bypass,https://github.com/advisories/GHSA-p224-6x5r-fjpm,https://da.gd/kopyr
+GithubAdvisories,[GHSA-4mq7-pvjg-xp2r] Ory Oathkeeper has an authentication bypass by cache key confusion,https://github.com/advisories/GHSA-4mq7-pvjg-xp2r,https://da.gd/NJI0b
+GithubAdvisories,[GHSA-vhr5-ggp3-qq85] Ory Oathkeeper has an authentication bypass by usage of untrusted header,https://github.com/advisories/GHSA-vhr5-ggp3-qq85,https://da.gd/CKsHg0
+GithubAdvisories,[GHSA-4hxc-9384-m385] h3: SSE Event Injection via Unsanitized Carriage Return (`\r`) in EventStream Data and Comment Fields (Bypass of CVE Fix),https://github.com/advisories/GHSA-4hxc-9384-m385,https://da.gd/gwKm
+GithubAdvisories,[GHSA-2j6q-whv2-gh6w] h3: Missing Path Segment Boundary Check in `mount()` Causes Middleware Execution on Unrelated Prefix-Matching Routes,https://github.com/advisories/GHSA-2j6q-whv2-gh6w,https://da.gd/AMnv4
+GithubAdvisories,[GHSA-72gr-qfp7-vwhw] h3: Double Decoding in `serveStatic` Bypasses `resolveDotSegments` Path Traversal Protection via `%252e%252e`,https://github.com/advisories/GHSA-72gr-qfp7-vwhw,https://da.gd/c2il54
+GithubAdvisories,[GHSA-83xq-8jxj-4rxm] AVideo has a Path Traversal in import.json.php Allows Private Video Theft and Arbitrary File Read/Deletion via fileURI Parameter,https://github.com/advisories/GHSA-83xq-8jxj-4rxm,https://da.gd/ZreQDp
+GithubAdvisories,[GHSA-x3pr-vrhq-vq43] AVideo has Session Fixation via GET PHPSESSID Parameter With Disabled Login Session Regeneration,https://github.com/advisories/GHSA-x3pr-vrhq-vq43,https://da.gd/EfjjR2
+GithubAdvisories,[GHSA-6m5f-j7w2-w953] AVideo has a PGP 2FA Bypass via Cryptographically Broken 512-bit RSA Key Generation in LoginControl Plugin,https://github.com/advisories/GHSA-6m5f-j7w2-w953,https://da.gd/8QF5M
+GithubAdvisories,[GHSA-8cpq-38p9-67gx] Kysely has a MySQL SQL Injection via Insufficient Backslash Escaping in `sql.lit(string)` usage or similar methods that append string literal values into the compiled SQL strings,https://github.com/advisories/GHSA-8cpq-38p9-67gx,https://da.gd/CBG3O
+GithubAdvisories,[GHSA-fr9j-6mvq-frcv] Kysely has a MySQL SQL Injection via Backslash Escape Bypass in non-type-safe usage of JSON path keys,https://github.com/advisories/GHSA-fr9j-6mvq-frcv,https://da.gd/5gE82
+GithubAdvisories,[GHSA-q8m4-xhhv-38mg] etcd: Authorization bypasses in multiple APIs,https://github.com/advisories/GHSA-q8m4-xhhv-38mg,https://da.gd/wK11
+GithubAdvisories,[GHSA-jv87-32hw-hh99] MinIO LDAP login brute-force via user enumeration and missing rate limit,https://github.com/advisories/GHSA-jv87-32hw-hh99,https://da.gd/XvtU
+GithubAdvisories,[GHSA-8p58-35c3-ccxx] AVideo has an Unauthenticated Blind SQL Injection in RTMP on_publish Callback via Stream Name Parameter,https://github.com/advisories/GHSA-8p58-35c3-ccxx,https://da.gd/0JImQi
+GithubAdvisories,[GHSA-7grx-3xcx-2xv5] langflow has Unauthenticated IDOR on Image Downloads,https://github.com/advisories/GHSA-7grx-3xcx-2xv5,https://da.gd/rEbjX
+GithubAdvisories,[GHSA-vv7w-qf5c-734w] AVideo Affected by Unauthenticated Disk Space Exhaustion via Unlimited Temp File Creation in aVideoEncoderChunk.json.php,https://github.com/advisories/GHSA-vv7w-qf5c-734w,https://da.gd/M1tlQ
+GithubAdvisories,[GHSA-pmj8-r2j7-xg6c] AVideo has an OS Command Injection via $() Shell Substitution Bypass in sanitizeFFmpegCommand(),https://github.com/advisories/GHSA-pmj8-r2j7-xg6c,https://da.gd/MjkKv
+GithubAdvisories,[GHSA-rjcw-vg7j-m9rc] Syft improper temporary file cleanup,https://github.com/advisories/GHSA-rjcw-vg7j-m9rc,https://da.gd/dTNt8F
+GithubAdvisories,[GHSA-qpc3-fg4j-8hgm] Parse Server has a protected field change detection oracle via LiveQuery watch parameter,https://github.com/advisories/GHSA-qpc3-fg4j-8hgm,https://da.gd/8VGcT2
+GithubAdvisories,[GHSA-pgx6-7jcq-2qff] PDFME has SSRF via Unvalidated URL Fetch in `getB64BasePdf` When `basePdf` Is Attacker-Controlled,https://github.com/advisories/GHSA-pgx6-7jcq-2qff,https://da.gd/pOP6gE
+GithubAdvisories,[GHSA-xgx4-2wgv-4jhm] PDFME has XSS via Unsanitized i18n Label Injection into innerHTML in multiVariableText propPanel,https://github.com/advisories/GHSA-xgx4-2wgv-4jhm,https://da.gd/r1p9A5
+GithubAdvisories,[GHSA-vrqm-gvq7-rrwh] PDFME Affected by Decompression Bomb in FlateDecode Stream Parsing Causes Memory Exhaustion DoS,https://github.com/advisories/GHSA-vrqm-gvq7-rrwh,https://da.gd/mu9qR
+GithubAdvisories,[GHSA-fph2-r4qg-9576] Parse Server's LiveQuery bypasses CLP pointer permission enforcement,https://github.com/advisories/GHSA-fph2-r4qg-9576,https://da.gd/WCBcv
+GithubAdvisories,[GHSA-p3gr-g84w-g8hh] AVideo has a SSRF Protection Bypass via IPv4-Mapped IPv6 Addresses in Unauthenticated LiveLinks Proxy,https://github.com/advisories/GHSA-p3gr-g84w-g8hh,https://da.gd/eC5maP
+GithubAdvisories,[GHSA-xggw-g9pm-9qhh] AVideo has PHP Code Injection via eval() in Gallery saveSort.json.php Exploitable Through CSRF Against Admin,https://github.com/advisories/GHSA-xggw-g9pm-9qhh,https://da.gd/P732J
+GithubAdvisories,"[GHSA-687q-32c6-8x68] AVideo Multi-Chain Attack: Unauthenticated Remote Code Execution via Clone Key Disclosure, Database Dump, and Command Injection",https://github.com/advisories/GHSA-687q-32c6-8x68,https://da.gd/Y1J3y2
+GithubAdvisories,[GHSA-hhgj-gg9h-rjp7] Siyuan has an Unauthenticated Arbitrary File Read via Path Traversal,https://github.com/advisories/GHSA-hhgj-gg9h-rjp7,https://da.gd/7nTATd
+GithubAdvisories,[GHSA-wc83-79hj-hpmq] Vikunja Affected by DoS via Image Preview Generation,https://github.com/advisories/GHSA-wc83-79hj-hpmq,https://da.gd/R5dQ1Z
+GithubAdvisories,[GHSA-p747-qc5p-773r] Vikunja has TOTP Reuse During Validity Window,https://github.com/advisories/GHSA-p747-qc5p-773r,https://da.gd/YwgMhc
+GithubAdvisories,[GHSA-mgvc-8q2h-5pgc] Spring Boot has an Authentication Bypass under Actuator CloudFoundry endpoints,https://github.com/advisories/GHSA-mgvc-8q2h-5pgc,https://da.gd/By3OSh
+GithubAdvisories,[GHSA-mf92-479x-3373] Spring Security HTTP Headers Are not Written Under Some Conditions,https://github.com/advisories/GHSA-mf92-479x-3373,https://da.gd/tPoAJ
+GithubAdvisories,[GHSA-4773-3jfm-qmx3] Spring Framework Improper Path Limitation with Script View Templates,https://github.com/advisories/GHSA-4773-3jfm-qmx3,https://da.gd/OM5wc
+GithubAdvisories,[GHSA-8hfc-fq58-r658] Spring Boot has an Authentication Bypass under Actuator Health groups paths,https://github.com/advisories/GHSA-8hfc-fq58-r658,https://da.gd/IT8mBa
+GithubAdvisories,[GHSA-6hcq-hmm3-jj3c] Spring MVC and WebFlux has Server Sent Event stream corruption,https://github.com/advisories/GHSA-6hcq-hmm3-jj3c,https://da.gd/VKWGP
+GithubAdvisories,[GHSA-7j2x-32w6-p43p] SVG Dimension Capping Bypass via XML Comment Injection in @dicebear/converter ensureSize(),https://github.com/advisories/GHSA-7j2x-32w6-p43p,https://da.gd/uZvKY
+GithubAdvisories,[GHSA-9f94-5g5w-gf6r] CRL Distribution Point Scope Check Logic Error in AWS-LC,https://github.com/advisories/GHSA-9f94-5g5w-gf6r,https://da.gd/UHa5im
+GithubAdvisories,[GHSA-394x-vwmw-crm3] AWS-LC X.509 Name Constraints Bypass via Wildcard/Unicode CN,https://github.com/advisories/GHSA-394x-vwmw-crm3,https://da.gd/kQS8F
+GithubAdvisories,[GHSA-rfx7-8w68-q57q] etcd: Nested etcd transactions bypass RBAC authorization checks,https://github.com/advisories/GHSA-rfx7-8w68-q57q,https://da.gd/Vu1pZ
+GithubAdvisories,[GHSA-38f7-945m-qr2g] Effect `AsyncLocalStorage` context lost/contaminated inside Effect fibers under concurrent load with RPC,https://github.com/advisories/GHSA-38f7-945m-qr2g,https://da.gd/REoejk
