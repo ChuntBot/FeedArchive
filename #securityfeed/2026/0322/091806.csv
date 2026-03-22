@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42 Chromium 146.0.7680.80 Vital Fix for Out of Bounds Write Issue,https://linuxsecurity.com/advisories/fedora/chromium-fedora-42-2026-7ffd130a98,https://da.gd/8Ah4
+LinuxSecurity,Fedora 42 python-scitokens Path Traversal SQL Fix FEDORA-2026-dec8f790f7,https://linuxsecurity.com/advisories/fedora/python-scitokens-fedora-42,https://da.gd/k16F7s
+LinuxSecurity,Fedora 42 python-ujson 5.12.0 Buffer Overflow DoS Advisory 2026-0f099ed388,https://linuxsecurity.com/advisories/fedora/python-ujson-fedora-42-2026-0f099ed388,https://da.gd/4DBVMG
