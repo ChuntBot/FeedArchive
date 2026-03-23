@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 25.10 Addresses Critical DoS Vulnerabilities in LibTIFF Issues,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8113-1-libtiff,https://da.gd/va7syP
+LinuxSecurity,Ubuntu 25.10 GVfs Critical Code Execution Vulnerability USN-8114-1,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8114-1-gvfs,https://da.gd/Fjftc
+LinuxSecurity,Ubuntu 25.10 pyOpenSSL Critical Fix for Denial of Service CVE-2026-27459,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8115-1-pyopenssl,https://da.gd/rofFu
+LinuxSecurity,SUSE Linux 12 SP5 SQLite3 Moderate Integer Overflow Memory Flaw,https://linuxsecurity.com/advisories/suse/sqlite3-suse-2026-0955-1,https://da.gd/WBirnx
+LinuxSecurity,SUSE Linux Enterprise 12 SP5 Kernel Important Update 2026-0954-1,https://linuxsecurity.com/advisories/suse/suse-kernel-2026-0954-1,https://da.gd/SoNW
