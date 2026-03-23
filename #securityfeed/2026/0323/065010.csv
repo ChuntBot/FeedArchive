@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+LinuxSecurity,RHEL 8.9 Coreupdate Vital Memory Buffer Overflow Patch 2026-acb1234567b,https://linuxsecurity.com/advisories/fedora/fedora-43-localsearch-2026-ba6641558a,https://da.gd/nWbeI
+LinuxSecurity,Fedora 43 Xen Update DoS Use After Free XSA-480 XSA-481,https://linuxsecurity.com/advisories/fedora/fedora-43-xen-2026-8ae1a1c3d7,https://da.gd/Sv5NH
+LinuxSecurity,Fedora 43 scitokens-cpp Important Boundary Validation Update Found,https://linuxsecurity.com/advisories/fedora/scitokens-cpp-fedora-2026-52c99ecf64,https://da.gd/oK4a3
