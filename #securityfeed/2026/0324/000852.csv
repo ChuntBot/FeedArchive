@@ -1,0 +1,49 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m6m4-34cj-4hh7] MindSQL is vulnerable to Code Injection through its ask_db function,https://github.com/advisories/GHSA-m6m4-34cj-4hh7,https://da.gd/6mS2r
+GithubAdvisories,[GHSA-q5pr-72pq-83v3] H3: Unbounded Chunked Cookie Count in Session Cleanup Loop may Lead to Denial of Service,https://github.com/advisories/GHSA-q5pr-72pq-83v3,https://da.gd/VUJbj
+GithubAdvisories,[GHSA-fp4x-ggrf-wmc6] H3 has an Open Redirect via Protocol-Relative Path in redirectBack() Referer Validation,https://github.com/advisories/GHSA-fp4x-ggrf-wmc6,https://da.gd/b6xF75
+GithubAdvisories,[GHSA-rc55-58f4-687g] Roadiz has Server-Side Request Forgery (SSRF) in roadiz/documents,https://github.com/advisories/GHSA-rc55-58f4-687g,https://da.gd/NJUaK
+GithubAdvisories,[GHSA-r3r2-35v9-v238] Briefcase: Windows MSI Installer Privilege Escalation via Insecure Directory Permissions,https://github.com/advisories/GHSA-r3r2-35v9-v238,https://da.gd/U3SV
+GithubAdvisories,[GHSA-73f9-jhhh-hr5m] Rails Active Storage has possible glob injection in its DiskService,https://github.com/advisories/GHSA-73f9-jhhh-hr5m,https://da.gd/aSIaa
+GithubAdvisories,[GHSA-9xrj-h377-fr87] Rails Active Storage has possible Path Traversal in DiskService,https://github.com/advisories/GHSA-9xrj-h377-fr87,https://da.gd/obIZb
+GithubAdvisories,[GHSA-2j26-frm8-cmj9] Rails Active Support has a possible DoS vulnerability in its number helpers,https://github.com/advisories/GHSA-2j26-frm8-cmj9,https://da.gd/wbVJu
+GithubAdvisories,[GHSA-r46p-8f7g-vvvg] Rails Active Storage has a possible DoS vulnerability when in proxy mode via Range requests,https://github.com/advisories/GHSA-r46p-8f7g-vvvg,https://da.gd/0wdMT
+GithubAdvisories,[GHSA-qcfx-2mfw-w4cg] Rails Active Storage has possible content type bypass via metadata in direct uploads,https://github.com/advisories/GHSA-qcfx-2mfw-w4cg,https://da.gd/s9mSJ
+GithubAdvisories,[GHSA-89vf-4333-qx8v] Rails Active Support has a possible XSS vulnerability in SafeBuffer#%,https://github.com/advisories/GHSA-89vf-4333-qx8v,https://da.gd/q4V7X
+GithubAdvisories,[GHSA-cg4j-q9v8-6v38] Rails Active Support has a possible ReDoS vulnerability in number_to_delimited,https://github.com/advisories/GHSA-cg4j-q9v8-6v38,https://da.gd/ar6n
+GithubAdvisories,[GHSA-v55j-83pf-r9cq] Rails has a possible XSS vulnerability in its Action View tag helpers,https://github.com/advisories/GHSA-v55j-83pf-r9cq,https://da.gd/XQ85
+GithubAdvisories,[GHSA-pgm4-439c-5jp6] Rails has a possible XSS vulnerability in its Action Pack debug exceptions,https://github.com/advisories/GHSA-pgm4-439c-5jp6,https://da.gd/Qqr4B9
+GithubAdvisories,[GHSA-rm2q-f7jv-3cfp] Indico discloses local files resulting in Remote Code Execution through LaTeX injection,https://github.com/advisories/GHSA-rm2q-f7jv-3cfp,https://da.gd/uld74Y
+GithubAdvisories,[GHSA-qr6x-wvxr-8hm9] Connect CMS: Improper Authorization in the My Page Profile Update Feature Allows Modification of Arbitrary User Information,https://github.com/advisories/GHSA-qr6x-wvxr-8hm9,https://da.gd/C7MqQ
+GithubAdvisories,[GHSA-62ch-j6x7-722j] Connect CMS: Information Disclosure Due to Improper Authorization through the Page Content Retrieval Feature,https://github.com/advisories/GHSA-62ch-j6x7-722j,https://da.gd/vokpIx
+GithubAdvisories,[GHSA-jh46-85jr-6ph9] Connect CMS has SSRF in the External Page Migration Feature of its Page Management Plugin,https://github.com/advisories/GHSA-jh46-85jr-6ph9,https://da.gd/t3tifE
+GithubAdvisories,[GHSA-mv3p-7p89-wq9p] Connect CMS has Stored Cross-site Scripting (XSS) in the File Field of its Form Plugin,https://github.com/advisories/GHSA-mv3p-7p89-wq9p,https://da.gd/OGovEl
+GithubAdvisories,[GHSA-cmfh-mpmf-fmq4] Connect-CMS has DOM-based Cross-Site Scripting (XSS) in the Cabinet Plugin List View,https://github.com/advisories/GHSA-cmfh-mpmf-fmq4,https://da.gd/WMQWGS
+GithubAdvisories,[GHSA-hxqw-6qv7-cqfv] Connect-CMS has Arbitrary Code Execution by an Authenticated User in its Code Study Plugin,https://github.com/advisories/GHSA-hxqw-6qv7-cqfv,https://da.gd/ECNKi
+GithubAdvisories,[GHSA-f35r-v9x5-r8mc] New API: IDOR in VideoProxy allows cross-user video content access via missing ownership check,https://github.com/advisories/GHSA-f35r-v9x5-r8mc,https://da.gd/xPPZii
+GithubAdvisories,[GHSA-phrq-pc6r-f6gh] MantisBT is vulnerable to authentication bypass through the SOAP API on MySQL,https://github.com/advisories/GHSA-phrq-pc6r-f6gh,https://da.gd/nuIJS
+GithubAdvisories,[GHSA-m59h-42jf-cphr] Sprig Plugin for Craft CMS potentially discloses sensitive information via Sprig Playground,https://github.com/advisories/GHSA-m59h-42jf-cphr,https://da.gd/8AWPi
+GithubAdvisories,[GHSA-3c37-wwvx-h642] cbor2 has a Denial of Service via Uncontrolled Recursion in cbor2.loads,https://github.com/advisories/GHSA-3c37-wwvx-h642,https://da.gd/egTmXG
+GithubAdvisories,[GHSA-5353-f8fq-65vc] New API has passkey-based secure step-up verification bypass for root-only channel secret disclosure,https://github.com/advisories/GHSA-5353-f8fq-65vc,https://da.gd/Ej4Y1
+GithubAdvisories,[GHSA-hqvw-49vr-fpw3] Malware in react-tailwindcss-style,https://github.com/advisories/GHSA-hqvw-49vr-fpw3,https://da.gd/YfjREY
+GithubAdvisories,[GHSA-cxvr-pcxc-6r58] Malware in tailwind-font-inter,https://github.com/advisories/GHSA-cxvr-pcxc-6r58,https://da.gd/dprmwv
+GithubAdvisories,[GHSA-fppj-8rcf-8fpp] Malware in sidebar-basket,https://github.com/advisories/GHSA-fppj-8rcf-8fpp,https://da.gd/n3jTM
+GithubAdvisories,[GHSA-2rj8-6crh-98qq] Malware in in-app-marketing,https://github.com/advisories/GHSA-2rj8-6crh-98qq,https://da.gd/nbrP8N
+GithubAdvisories,[GHSA-wp6r-9m2x-4h55] Malware in internal-linking,https://github.com/advisories/GHSA-wp6r-9m2x-4h55,https://da.gd/89EW
+GithubAdvisories,[GHSA-jvrr-w8mr-28hp] Malware in milla-migration,https://github.com/advisories/GHSA-jvrr-w8mr-28hp,https://da.gd/348BCl
+GithubAdvisories,[GHSA-9php-8vxv-7gmx] Malware in pulse-shop-section,https://github.com/advisories/GHSA-9php-8vxv-7gmx,https://da.gd/3Dn6tK
+GithubAdvisories,[GHSA-x6m2-63j5-v6c7] Malware in shakti-pwa,https://github.com/advisories/GHSA-x6m2-63j5-v6c7,https://da.gd/CFj1
+GithubAdvisories,[GHSA-x8xx-3mj7-337x] Malware in pulse-rsvp-card-entity,https://github.com/advisories/GHSA-x8xx-3mj7-337x,https://da.gd/Vk51
+GithubAdvisories,[GHSA-f8cx-966c-8x2h] Malware in ty-search-suggestion,https://github.com/advisories/GHSA-f8cx-966c-8x2h,https://da.gd/Z5rjK8
+GithubAdvisories,[GHSA-3qmv-2h4m-5qg9] Malware in pulse-scroll-triggered-list-items,https://github.com/advisories/GHSA-3qmv-2h4m-5qg9,https://da.gd/MLbtdL
+GithubAdvisories,[GHSA-xq57-xcgm-9q8q] Malware in falcor-server,https://github.com/advisories/GHSA-xq57-xcgm-9q8q,https://da.gd/3Lyu
+GithubAdvisories,[GHSA-7hf8-rm28-2rm8] Malware in puzzle-asset,https://github.com/advisories/GHSA-7hf8-rm28-2rm8,https://da.gd/5RcrC
+GithubAdvisories,[GHSA-m7hw-fgmf-jwhr] Malware in sd-basket-highlight,https://github.com/advisories/GHSA-m7hw-fgmf-jwhr,https://da.gd/oL3Efg
+GithubAdvisories,[GHSA-jhvp-qr9c-qg9p] Malware in storefront-logger,https://github.com/advisories/GHSA-jhvp-qr9c-qg9p,https://da.gd/6RvtH
+GithubAdvisories,[GHSA-4g9r-2x44-gfm4] Malware in sfx-event-bridge,https://github.com/advisories/GHSA-4g9r-2x44-gfm4,https://da.gd/LpzHn
+GithubAdvisories,[GHSA-fr84-v3mx-mr9x] Malware in netflixidentity,https://github.com/advisories/GHSA-fr84-v3mx-mr9x,https://da.gd/TP0VUI
+GithubAdvisories,[GHSA-gv85-mrvr-pgch] Malware in ty-config-provider,https://github.com/advisories/GHSA-gv85-mrvr-pgch,https://da.gd/UdE8I
+GithubAdvisories,[GHSA-4p9p-g69r-jxv8] Malware in puzzle-render-kit,https://github.com/advisories/GHSA-4p9p-g69r-jxv8,https://da.gd/Ozdv
+GithubAdvisories,[GHSA-c93f-8832-92qw] Malware in netflixid,https://github.com/advisories/GHSA-c93f-8832-92qw,https://da.gd/sln3UQ
+GithubAdvisories,[GHSA-hc54-whg7-r7g2] Malware in ty-fragment-core,https://github.com/advisories/GHSA-hc54-whg7-r7g2,https://da.gd/BFUZzL
+GithubAdvisories,[GHSA-jfqc-55rq-mm3j] Malware in pulse-feature-flag,https://github.com/advisories/GHSA-jfqc-55rq-mm3j,https://da.gd/HIvLdv
