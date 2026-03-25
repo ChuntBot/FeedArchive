@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,SUSE 15 SP5 Kernel Important Live Patch 2026-1000-1 11 Issues Resolved,https://linuxsecurity.com/advisories/suse/suse-kernel-2026-1000-1,https://da.gd/40eH
+LinuxSecurity,Ubuntu 22.04 LTS Kernel Security Flaws Resolved USN-5423-1,https://linuxsecurity.com/advisories/opensuse/opensuse-2026-1000-1-kernel,https://da.gd/DBWDfF
+LinuxSecurity,SUSE Linux Micro 6.0 Salt Important DoS Fixes SUSE-SU-2026-20820-1,https://linuxsecurity.com/advisories/suse/suse-2026-20820-1-salt,https://da.gd/fYiFkD
+LinuxSecurity,SUSE Linux Micro 6.0 python-pyasn1 Major Denial of Service CVE-2026-30922,https://linuxsecurity.com/advisories/suse/python-pyasn1-suse-2026-20821-1,https://da.gd/9aM9p
+LinuxSecurity,SUSE Linux Micro 6.0 systemd Major Privilege Escalation Risk 2026-20822-1,https://linuxsecurity.com/advisories/suse/suse-systemd-2026-20822-1,https://da.gd/USWuA
+LinuxSecurity,SUSE Linux Micro 6.0 systemd Important Access Control Flaw 2026-20823-1,https://linuxsecurity.com/advisories/suse/systemd-suse-2026-20823-1,https://da.gd/JxMl
