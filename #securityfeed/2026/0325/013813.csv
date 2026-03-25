@@ -1,0 +1,97 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jffg-8cwf-786h] Malware in chai-as-emitted,https://github.com/advisories/GHSA-jffg-8cwf-786h,https://da.gd/lHlHk
+GithubAdvisories,[GHSA-p885-4m86-h35r] Malware in pino-pretty-log,https://github.com/advisories/GHSA-p885-4m86-h35r,https://da.gd/kpHKz
+GithubAdvisories,[GHSA-x2c8-m9xp-3qmv] Malware in tailwind-animationbasis,https://github.com/advisories/GHSA-x2c8-m9xp-3qmv,https://da.gd/iFoZI
+GithubAdvisories,[GHSA-gpc2-rm7h-fpc4] Malware in revolut-merchant-widget,https://github.com/advisories/GHSA-gpc2-rm7h-fpc4,https://da.gd/7HHb9
+GithubAdvisories,[GHSA-76ph-2x99-486x] Malware in transitive_lib,https://github.com/advisories/GHSA-76ph-2x99-486x,https://da.gd/02Cm63
+GithubAdvisories,[GHSA-xvw4-g263-g3r2] Malware in test_pkg_forppe,https://github.com/advisories/GHSA-xvw4-g263-g3r2,https://da.gd/GqprNE
+GithubAdvisories,[GHSA-p5gg-75q6-vp64] Malware in @xvortexsockets/baileys,https://github.com/advisories/GHSA-p5gg-75q6-vp64,https://da.gd/BFRiDo
+GithubAdvisories,[GHSA-m983-7426-5hrj] Ech0 authenticated user-list exposed data via public `/api/allusers` endpoint,https://github.com/advisories/GHSA-m983-7426-5hrj,https://da.gd/JsHFi
+GithubAdvisories,[GHSA-xw6w-9jjh-p9cr] Scriban has Multiple Denial-of-Service Vectors via Unbounded Resource Consumption During Expression Evaluation,https://github.com/advisories/GHSA-xw6w-9jjh-p9cr,https://da.gd/bRti1
+GithubAdvisories,[GHSA-m2p3-hwv5-xpqw] Scriban: Denial of Service via Unbounded Cumulative Template Output Bypassing LimitToString,https://github.com/advisories/GHSA-m2p3-hwv5-xpqw,https://da.gd/moNu
+GithubAdvisories,[GHSA-xcx6-vp38-8hr5] Scriban has Uncontrolled Recursion in `object.to_json` Causing Unrecoverable Process Crash via StackOverflowException,https://github.com/advisories/GHSA-xcx6-vp38-8hr5,https://da.gd/c2V7Av
+GithubAdvisories,[GHSA-v66j-x4hw-fv9g] Scriban: Uncontrolled Memory Allocation via string.pad_left/pad_right Allows Remote Denial of Service,https://github.com/advisories/GHSA-v66j-x4hw-fv9g,https://da.gd/UdShy
+GithubAdvisories,"[GHSA-c875-h985-hvrc] Scriban: Built-in operations bypass LoopLimit and delay cancellation, enabling Denial of Service",https://github.com/advisories/GHSA-c875-h985-hvrc,https://da.gd/v1TkJ
+GithubAdvisories,[GHSA-5wr9-m6jw-xx44] Scriban: Sandbox escape due to TypedObjectAccessorcache bypassing MemberFilter after TemplateContext reuse,https://github.com/advisories/GHSA-5wr9-m6jw-xx44,https://da.gd/4yhXS
+GithubAdvisories,[GHSA-x6m9-38vm-2xhf] Scriban has an authorization bypass due to stale include cache surviving TemplateContext.Reset(),https://github.com/advisories/GHSA-x6m9-38vm-2xhf,https://da.gd/eg9rO0
+GithubAdvisories,[GHSA-p6q4-fgr8-vx4p] Scriban has a Stack Overflow via Nested Array Initializers That Bypass the ExpressionDepthLimit Fix,https://github.com/advisories/GHSA-p6q4-fgr8-vx4p,https://da.gd/MgtwG
+GithubAdvisories,[GHSA-3f24-pcvm-5jqc] NATS has mTLS verify_and_map authentication bypass via incorrect Subject DN matching,https://github.com/advisories/GHSA-3f24-pcvm-5jqc,https://da.gd/lIYBbX
+GithubAdvisories,[GHSA-55h8-8g96-x4hj] NATS: Leafnode connections allow spoofing of Nats-Request-Info identity headers,https://github.com/advisories/GHSA-55h8-8g96-x4hj,https://da.gd/5wekhF
+GithubAdvisories,[GHSA-pwx7-fx9r-hr4h] NATS Server: Incomplete Stripping of Nats-Request-Info Header Allows Identity Spoofing,https://github.com/advisories/GHSA-pwx7-fx9r-hr4h,https://da.gd/IgoG
+GithubAdvisories,[GHSA-9983-vrx2-fg9c] NATS JetStream has an authorization bypass through its Management API,https://github.com/advisories/GHSA-9983-vrx2-fg9c,https://da.gd/HvikFp
+GithubAdvisories,[GHSA-8r68-gvr4-jh7j] NATS is vulnerable to pre-auth DoS through WebSockets client service,https://github.com/advisories/GHSA-8r68-gvr4-jh7j,https://da.gd/hgkY8
+GithubAdvisories,[GHSA-vprv-35vv-q339] NATS has pre-auth server panic via leafnode handling,https://github.com/advisories/GHSA-vprv-35vv-q339,https://da.gd/0JOt8x
+GithubAdvisories,[GHSA-jxxm-27vp-c3m5] NATS allows MQTT clients to bypass ACL checks,https://github.com/advisories/GHSA-jxxm-27vp-c3m5,https://da.gd/Lkf8ur
+GithubAdvisories,[GHSA-v722-jcv5-w7mc] NATS has MQTT plaintext password disclosure,https://github.com/advisories/GHSA-v722-jcv5-w7mc,https://da.gd/GBiHq
+GithubAdvisories,[GHSA-fcjp-h8cc-6879] NATS is vulnerable to MQTT hijacking via Client ID,https://github.com/advisories/GHSA-fcjp-h8cc-6879,https://da.gd/E3zQ5Q
+GithubAdvisories,[GHSA-52jh-2xxh-pwh6] NATS Server panic via malicious compression on leafnode port,https://github.com/advisories/GHSA-52jh-2xxh-pwh6,https://da.gd/3jAGfh
+GithubAdvisories,[GHSA-x6g4-f6q3-fqvv] NATS credentials are exposed in monitoring port via command-line argv,https://github.com/advisories/GHSA-x6g4-f6q3-fqvv,https://da.gd/73bNwd
+GithubAdvisories,[GHSA-98wm-cxpw-847p] Invoice Ninja Denylist Bypass may Lead to Stored XSS via Invoice Line Items,https://github.com/advisories/GHSA-98wm-cxpw-847p,https://da.gd/5A1SR
+GithubAdvisories,[GHSA-8m2x-3m6q-6w8j] NATS: Message tracing can be redirected to arbitrary subject,https://github.com/advisories/GHSA-8m2x-3m6q-6w8j,https://da.gd/yF7Y4f
+GithubAdvisories,[GHSA-5239-wwwm-4pmq] Pygments has Regular Expression Denial of Service (ReDoS) due to Inefficient Regex for GUID Matching,https://github.com/advisories/GHSA-5239-wwwm-4pmq,https://da.gd/ogVJv
+GithubAdvisories,[GHSA-37mj-c2wf-cx96] Parse Server exposes auth data via /users/me endpoint,https://github.com/advisories/GHSA-37mj-c2wf-cx96,https://da.gd/mQBzIs
+GithubAdvisories,[GHSA-2299-ghjr-6vjp] Parse Server: MFA recovery code single-use bypass via concurrent requests,https://github.com/advisories/GHSA-2299-ghjr-6vjp,https://da.gd/9r5zb
+GithubAdvisories,[GHSA-j65m-hv65-r264] PinchTab: Unapplied Rate Limiting Middleware Allows Unbounded Brute-Force of API Token,https://github.com/advisories/GHSA-j65m-hv65-r264,https://da.gd/kPYub
+GithubAdvisories,[GHSA-p8mm-644p-phmh] PinchTab: OS Command Injection via Profile Name in Windows Cleanup Routine Enables Arbitrary Command Execution,https://github.com/advisories/GHSA-p8mm-644p-phmh,https://da.gd/lvL1v
+GithubAdvisories,[GHSA-w5pc-m664-r62v] A PinchTab Security Policy Bypass in /wait Allows Arbitrary JavaScript Execution,https://github.com/advisories/GHSA-w5pc-m664-r62v,https://da.gd/EOJ4L
+GithubAdvisories,[GHSA-mrqc-3276-74f8] PinchTab: API Bearer Token Exposed in URL Query Parameter via Server Logs and Intermediary Systems,https://github.com/advisories/GHSA-mrqc-3276-74f8,https://da.gd/8s1mtJ
+GithubAdvisories,[GHSA-xqq2-4j46-vwp7] PinchTab has Unauthenticated Blind SSRF in Task Scheduler via Unvalidated callbackUrl,https://github.com/advisories/GHSA-xqq2-4j46-vwp7,https://da.gd/zHefT
+GithubAdvisories,[GHSA-3rmj-9m5h-8fpv] Astro: Memory exhaustion DoS due to missing request body size limit in Server Islands,https://github.com/advisories/GHSA-3rmj-9m5h-8fpv,https://da.gd/Gs9CZ
+GithubAdvisories,[GHSA-hqjr-43r5-9q58] MobSF has SQL Injection in its SQLite Database Viewer Utils,https://github.com/advisories/GHSA-hqjr-43r5-9q58,https://da.gd/yjhXd
+GithubAdvisories,[GHSA-5vp3-3cg6-2rq3] JustHTML is vulnerable to XSS via code fence breakout in content,https://github.com/advisories/GHSA-5vp3-3cg6-2rq3,https://da.gd/L71vI
+GithubAdvisories,[GHSA-7789-65hx-f26w] FileBrowser Quantum has Username Enumeration via Authentication Timing Side-Channel,https://github.com/advisories/GHSA-7789-65hx-f26w,https://da.gd/y7vd
+GithubAdvisories,[GHSA-pv9c-9mfh-hvxq] iCalendar has ICS injection via unsanitized URI property values,https://github.com/advisories/GHSA-pv9c-9mfh-hvxq,https://da.gd/lsBDOY
+GithubAdvisories,[GHSA-g4cf-xj29-wqqr] Parse Server: Denial of Service via unindexed database query for unconfigured auth providers,https://github.com/advisories/GHSA-g4cf-xj29-wqqr,https://da.gd/xpdT7L
+GithubAdvisories,[GHSA-p2w6-rmh7-w8q3] Parse Server has SQL Injection through aggregate and distinct field names in PostgreSQL adapter,https://github.com/advisories/GHSA-p2w6-rmh7-w8q3,https://da.gd/Mdi8Fq
+GithubAdvisories,[GHSA-g3qj-j598-cxmq] fido2-lib is vulnerable to DoS via cbor-extract heap buffer over-read in CBOR attestation parsing,https://github.com/advisories/GHSA-g3qj-j598-cxmq,https://da.gd/LanF
+GithubAdvisories,[GHSA-vh4c-j2xv-9pv9] Duplicate Advisory: OpenClaw: BlueBubbles beta plugin webhook auth hardening (remove passwordless fallback),https://github.com/advisories/GHSA-vh4c-j2xv-9pv9,https://da.gd/tAjUNM
+GithubAdvisories,[GHSA-g839-vp47-wgh8] Duplicate Advisory: OpenClaw's Slack reaction/pin sender-policy consistency issue in non-message ingress,https://github.com/advisories/GHSA-g839-vp47-wgh8,https://da.gd/uWbIF
+GithubAdvisories,[GHSA-rcx4-77x4-hjx5] Duplicate Advisory: OpenClaw ACP client has permission auto-approval bypass via untrusted tool metadata,https://github.com/advisories/GHSA-rcx4-77x4-hjx5,https://da.gd/jNqOv
+GithubAdvisories,[GHSA-mxmg-3p7m-2ghr] Duplicate Advisory: OpenClaw: system.run approval identity mismatch could execute a different binary than displayed,https://github.com/advisories/GHSA-mxmg-3p7m-2ghr,https://da.gd/f55bC
+GithubAdvisories,[GHSA-vmvw-pwwf-cc2w] Duplicate Advisory: OpenClaw has cross-account DM pairing authorization bypass via unscoped pairing store access,https://github.com/advisories/GHSA-vmvw-pwwf-cc2w,https://da.gd/I5bzan
+GithubAdvisories,[GHSA-cxcw-jm67-3wwp] Duplicate Advisory: OpenClaw's andbox browser noVNC observer lacked VNC authentication,https://github.com/advisories/GHSA-cxcw-jm67-3wwp,https://da.gd/OyMp
+GithubAdvisories,[GHSA-cjq8-m7wj-xmq9] Duplicate Advisory: OpenClaw Node system.run approval context-binding weakness in approval-enabled host=node flows,https://github.com/advisories/GHSA-cjq8-m7wj-xmq9,https://da.gd/Y7l1Lo
+GithubAdvisories,[GHSA-xgwg-m42c-8q62] Duplicate Advisory: OpenClaw: Slack system events bypass sender authorization in member and message subtype handlers,https://github.com/advisories/GHSA-xgwg-m42c-8q62,https://da.gd/RLarkQ
+GithubAdvisories,[GHSA-xh9j-mpc9-2m9p] Duplicate Advisory: OpenClaw has a Trusted-proxy Control UI pairing bypass which allows unpaired node sessions,https://github.com/advisories/GHSA-xh9j-mpc9-2m9p,https://da.gd/g1S1j
+GithubAdvisories,[GHSA-rj39-33v7-9xrq] Duplicate Advisory: OpenClaw's shell startup env injection bypasses system.run allowlist intent (RCE class),https://github.com/advisories/GHSA-rj39-33v7-9xrq,https://da.gd/qiHTaQ
+GithubAdvisories,[GHSA-9f79-7pw8-3fj8] Duplicate Advisory: OpenClaw: workspace path guard bypass on non-existent out-of-root symlink leaf,https://github.com/advisories/GHSA-9f79-7pw8-3fj8,https://da.gd/VaSEqv
+GithubAdvisories,[GHSA-3r78-rqg8-95gg] Duplicate Advisory: OpenClaw's voice-call Twilio webhook replay could bypass manager dedupe because normalized event IDs were randomized per parse,https://github.com/advisories/GHSA-3r78-rqg8-95gg,https://da.gd/bvObYe
+GithubAdvisories,[GHSA-w6f4-3v35-qjhj] Duplicate Advisory: OpenClaw's system.run shell-wrapper positional argv carriers could execute hidden commands under misleading approval text,https://github.com/advisories/GHSA-w6f4-3v35-qjhj,https://da.gd/hqfT2
+GithubAdvisories,"[GHSA-86jj-29wc-7q2w] Duplicate Advisory: OpenClaw's Signal reaction-only status events could, in limited cases, be enqueued before access checks",https://github.com/advisories/GHSA-86jj-29wc-7q2w,https://da.gd/PzIDoD
+GithubAdvisories,[GHSA-xq3g-m3j8-2vmm] Duplicate Advisory: OpenClaw's inbound media downloads could exceed configured byte limits before rejection across multiple channels,https://github.com/advisories/GHSA-xq3g-m3j8-2vmm,https://da.gd/mFUqsj
+GithubAdvisories,[GHSA-q94v-v6m9-jhq9] Duplicate Advisory: OpenClaw has an improper sandbox configuration vulnerability,https://github.com/advisories/GHSA-q94v-v6m9-jhq9,https://da.gd/kr81Nk
+GithubAdvisories,[GHSA-3p2x-hjxj-c7rv] Duplicate Advisory: OpenClaw's system.run approval TOCTOU via mutable symlink cwd target on node host,https://github.com/advisories/GHSA-3p2x-hjxj-c7rv,https://da.gd/i34Q
+GithubAdvisories,[GHSA-qwmf-95r9-gx9x] Duplicate Advisory: OpenClaw's gateway tokenless Tailscale auth applied to HTTP routes,https://github.com/advisories/GHSA-qwmf-95r9-gx9x,https://da.gd/xR5UF
+GithubAdvisories,[GHSA-8mr2-f9wf-hcfq] Duplicate Advisory: OpenClaw reuses the gateway auth token in the owner ID prompt hashing fallback,https://github.com/advisories/GHSA-8mr2-f9wf-hcfq,https://da.gd/cAOayt
+GithubAdvisories,[GHSA-69fq-xp46-6x23] Trivy ecosystem supply chain was briefly compromised,https://github.com/advisories/GHSA-69fq-xp46-6x23,https://da.gd/WRv5ci
+GithubAdvisories,[GHSA-f582-6gf6-gx4g] Craft CMS has an authorization bypass which allows any control panel user to move entries without permissions,https://github.com/advisories/GHSA-f582-6gf6-gx4g,https://da.gd/NuWOa
+GithubAdvisories,"[GHSA-vgjg-248p-rfm2] Craft CMS' anonymous ""assets/image-editor"" calls return private asset editor metadata to unauthorized users",https://github.com/advisories/GHSA-vgjg-248p-rfm2,https://da.gd/OgKQ2r
+GithubAdvisories,"[GHSA-5pgf-h923-m958] Craft CMS may expose private assets through anonymous ""generate transform"" calls via transform URL",https://github.com/advisories/GHSA-5pgf-h923-m958,https://da.gd/hnwMhg
+GithubAdvisories,[GHSA-6mrr-q3pj-h53w] Craft CMS: Unauthenticated Users Can Perform Restricted Project Config Sync Operations,https://github.com/advisories/GHSA-6mrr-q3pj-h53w,https://da.gd/I3Is7
+GithubAdvisories,[GHSA-3pvf-vxrv-hh9c] Craft CMS: Low-privilege users could read private asset contents when editing an asset (IDOR),https://github.com/advisories/GHSA-3pvf-vxrv-hh9c,https://da.gd/OiBv8
+GithubAdvisories,[GHSA-2fph-6v5w-89hh] Craft CMS is Vulnerable to Authenticated Remote Code Execution via Malicious Attached Behavior,https://github.com/advisories/GHSA-2fph-6v5w-89hh,https://da.gd/zb9fSv
+GithubAdvisories,[GHSA-x6w6-2xwp-3jh6] Froxlor is vulnerable to BIND zone file injection via unsanitized DNS record content in DomainZones API,https://github.com/advisories/GHSA-x6w6-2xwp-3jh6,https://da.gd/Gzxxy
+GithubAdvisories,[GHSA-4753-cmc8-8j9v] GoDoxy has a Path Traversal Vulnerability in its File API,https://github.com/advisories/GHSA-4753-cmc8-8j9v,https://da.gd/NJsm
+GithubAdvisories,[GHSA-jc39-686j-wp6q] Parse Server's Session Update endpoint allows overwriting server-generated session fields,https://github.com/advisories/GHSA-jc39-686j-wp6q,https://da.gd/9gZmH
+GithubAdvisories,[GHSA-gmfg-3v4q-9qr4] Authelia: Improper Neutralization of Input During Web Page Generation Leads to Potential Cross-site Scripting,https://github.com/advisories/GHSA-gmfg-3v4q-9qr4,https://da.gd/dlahb
+GithubAdvisories,[GHSA-2mjq-54qg-7w6j] NFS CSI driver for Kubernetes is Vulnerable to Path Traversal through Volume Identifier Parameter,https://github.com/advisories/GHSA-2mjq-54qg-7w6j,https://da.gd/9UOJRi
+GithubAdvisories,[GHSA-x4ff-q6h8-v7gw] sbt: Source dependency feature (via crafted VCS URL) leads to arbitrary code execution on Windows,https://github.com/advisories/GHSA-x4ff-q6h8-v7gw,https://da.gd/myFGoY
+GithubAdvisories,[GHSA-52hw-wvx9-x8pq] Malware in express-session-validator,https://github.com/advisories/GHSA-52hw-wvx9-x8pq,https://da.gd/WSPAC
+GithubAdvisories,[GHSA-hqj8-x2vp-mrp9] Malware in express-session-vailidator,https://github.com/advisories/GHSA-hqj8-x2vp-mrp9,https://da.gd/sBGd
+GithubAdvisories,[GHSA-r934-qgg3-v7fg] Malware in sbx-mask,https://github.com/advisories/GHSA-r934-qgg3-v7fg,https://da.gd/6bGkcv
+GithubAdvisories,[GHSA-r3h7-hqpp-mm33] Malware in characterai-poc,https://github.com/advisories/GHSA-r3h7-hqpp-mm33,https://da.gd/dsp2pu
+GithubAdvisories,[GHSA-xmfj-5j3f-gx7x] Malware in yelp-mobile-site-common,https://github.com/advisories/GHSA-xmfj-5j3f-gx7x,https://da.gd/KHOsbE
+GithubAdvisories,[GHSA-xqxf-c9jr-8wx6] Malware in yelp-react-component-rating,https://github.com/advisories/GHSA-xqxf-c9jr-8wx6,https://da.gd/UbJSBp
+GithubAdvisories,[GHSA-f6pq-884h-rjxq] Malware in fancode-web-app,https://github.com/advisories/GHSA-f6pq-884h-rjxq,https://da.gd/Uwl5Gu
+GithubAdvisories,[GHSA-hfhc-gmgj-9v7v] Malware in agoda-test-poc,https://github.com/advisories/GHSA-hfhc-gmgj-9v7v,https://da.gd/cftbe4
+GithubAdvisories,[GHSA-j836-pcqv-w9c9] Malware in nintendoamerica-ncom,https://github.com/advisories/GHSA-j836-pcqv-w9c9,https://da.gd/ONjwyW
+GithubAdvisories,[GHSA-fr9v-hm5m-rv52] Malware in yelp-react-component-badge,https://github.com/advisories/GHSA-fr9v-hm5m-rv52,https://da.gd/7fHBkZ
+GithubAdvisories,[GHSA-7v3c-wxfg-x5fg] Malware in yelp-react-component-photo-upload,https://github.com/advisories/GHSA-7v3c-wxfg-x5fg,https://da.gd/eXAWr
+GithubAdvisories,[GHSA-767f-p685-mw32] Malware in repo-typescript-config,https://github.com/advisories/GHSA-767f-p685-mw32,https://da.gd/Hya07L
+GithubAdvisories,[GHSA-px82-m72x-rpj7] Malware in agoda-dep-confusion,https://github.com/advisories/GHSA-px82-m72x-rpj7,https://da.gd/vhCjD
+GithubAdvisories,[GHSA-mg5x-ww4x-j322] Malware in yelp-biz-action-constants-js-generated,https://github.com/advisories/GHSA-mg5x-ww4x-j322,https://da.gd/8miKk
+GithubAdvisories,[GHSA-8w5j-p4jv-8rmq] Malware in server-fpti,https://github.com/advisories/GHSA-8w5j-p4jv-8rmq,https://da.gd/THuo
+GithubAdvisories,[GHSA-cqxq-2582-f357] Malware in f0-service-address-doctor,https://github.com/advisories/GHSA-cqxq-2582-f357,https://da.gd/0Tz6bN
+GithubAdvisories,[GHSA-hmv2-22ff-cxh8] Malware in nemo-fpti,https://github.com/advisories/GHSA-hmv2-22ff-cxh8,https://da.gd/Syflz
+GithubAdvisories,[GHSA-47qg-5xfh-6fq7] Malware in corehome,https://github.com/advisories/GHSA-47qg-5xfh-6fq7,https://da.gd/VkOTzD
+GithubAdvisories,[GHSA-3m3c-wc3h-m5mr] Malware in customerdigital-ui-components-lib,https://github.com/advisories/GHSA-3m3c-wc3h-m5mr,https://da.gd/j2PAz
