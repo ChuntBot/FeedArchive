@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian Bookworm Firefox ESR Critical Security Issues DSA-6178-1,https://linuxsecurity.com/advisories/debian/debian-dsa-6178-1-firefox-esr,https://da.gd/gf4Ss
+LinuxSecurity,Debian 11 DLA-4508-1 NSS Integer Overflow CVE-2026-2781,https://linuxsecurity.com/advisories/deblts/debian-dla-4508-1-nss,https://da.gd/CVKJPs
+LinuxSecurity,Ubuntu 24.04 LTS mbedtls Critical Denial of Service USN-8123-1,https://linuxsecurity.com/advisories/ubuntu/mbed-tls-ubuntu-8123-1,https://da.gd/mVFKB
+LinuxSecurity,openSUSE Leap 15.6 SUSE-2026-1041-1 Important Kernel Fix,https://linuxsecurity.com/advisories/suse/suse-2026-1041-1-kernel,https://da.gd/HMTUJ
+LinuxSecurity,openSUSE Leap 15.6 Kernel Important Security Fix CVE-2026-1041-1,https://linuxsecurity.com/advisories/opensuse/opensuse-2026-1041-1-kernel,https://da.gd/fvB2Ru
+LinuxSecurity,openSUSE 2026 Govulncheck Important Update for Security Issues,https://linuxsecurity.com/advisories/opensuse/opensuse-govulncheck-vulndb-2026-1042-1,https://da.gd/YfjKL
