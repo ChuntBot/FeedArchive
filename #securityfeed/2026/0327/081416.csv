@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 43 vim Important Command Injection Risk FEDORA-2026-a05ac070cd,https://linuxsecurity.com/advisories/fedora/vim-fedora-43-2026-a05ac070cd,https://da.gd/dS5n
+LinuxSecurity,Fedora 43 libopenmpt 0.8.6 Advisory FEDORA-2026-f9d2152328,https://linuxsecurity.com/advisories/fedora/libopenmpt-fedora-43-2026-f9d2152328,https://da.gd/PAH9Wm
+LinuxSecurity,Fedora 43 rubygem-json Critical Format String Injection CVE-2026-33210,https://linuxsecurity.com/advisories/fedora/rubygem-json-fedora-43-2026,https://da.gd/9aSxy
+LinuxSecurity,Fedora 43 Releases pyOpenSSL Critical Buffer Overflow Patch Update,https://linuxsecurity.com/advisories/fedora/rust-wycheproof-fedora-43-2026-9d5b9f45ec,https://da.gd/AytkN
+LinuxSecurity,Fedora 43 releases openssl-crypto-sys addressing PyCrypto buffer overflow,https://linuxsecurity.com/advisories/fedora/rust-cryptoki-sys-fedora-43,https://da.gd/7UwHGS
+LinuxSecurity,CentOS 8 python-encryption Low Memory Leak Issue 2026-abcde12345f,https://linuxsecurity.com/advisories/fedora/python-cryptography-fedora-43-2026-9d5b9f45ec,https://da.gd/wQ8Ys
