@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42 Chromium High Heap Overflows and Risks 2026-cc466cfb57,https://linuxsecurity.com/advisories/fedora/chromium-fedora-42-2026-cc466cfb57,https://da.gd/hpFrtf
+LinuxSecurity,Fedora 42 php-phpseclib Information Disclosure AES 2026-bfeb46516b,https://linuxsecurity.com/advisories/fedora/phpseclib-fedora-42-2026-bfeb46516b,https://da.gd/JWhAg
+LinuxSecurity,Fedora 42 Samtools Critical Heap Overflow Denial of Service 2026-1fc0d39acd,https://linuxsecurity.com/advisories/fedora/samtools-fedora-42-2026-1fc0d39acd,https://da.gd/nyRddw
+LinuxSecurity,Fedora 42 htslib Urgent Heap Overflow Vulnerability for Code Execution,https://linuxsecurity.com/advisories/fedora/htslib-fedora-42-2026-1fc0d39acd,https://da.gd/700d6
+LinuxSecurity,Fedora 42 bcftools Advisory FEDORA-2026-1fc0d39acd Critical DoS Risk,https://linuxsecurity.com/advisories/fedora/bcftools-fedora-42-2026-1fc0d39acd,https://da.gd/zHmmA6
+LinuxSecurity,Fedora 42 mongo-c-driver Critical Denial of Service Fix 2026-c5273647fa,https://linuxsecurity.com/advisories/fedora/mongo-c-driver-fedora-42-2026-c5273647fa,https://da.gd/lGkZ9
