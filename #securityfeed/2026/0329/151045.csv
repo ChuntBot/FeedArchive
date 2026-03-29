@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mv9j-8jvg-j8mr] mppx: Tempo has a session close voucher bypass vulnerability due to settled amount equality,https://github.com/advisories/GHSA-mv9j-8jvg-j8mr,https://da.gd/CecvIM
