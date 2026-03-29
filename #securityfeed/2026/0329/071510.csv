@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Mageia 9 python-ujson Important Buffer Overflow Memory Leak MGASA-2026-0073,https://linuxsecurity.com/advisories/mageia/mageia-2026-0073-python-ujson,https://da.gd/LzkeTA
+LinuxSecurity,Mageia 9 strongswan Important Integer Underflow Fix MGASA-2026-0072,https://linuxsecurity.com/advisories/mageia/strongswan-mageia-2026-0072,https://da.gd/QMSpj
+LinuxSecurity,Fedora 42 python3.6 Security Fix CVE-2026-4519 Command Injection,https://linuxsecurity.com/advisories/fedora/python3-6-fedora-42-2026-156169f944,https://da.gd/443ygx
+LinuxSecurity,Fedora 42 Python3.11 Moderate Security Update to Address Command Injection,https://linuxsecurity.com/advisories/fedora/python3-fedora-2026-a0b1d4b9fa,https://da.gd/u0r5Jn
+LinuxSecurity,Fedora 42 rust-components Urgent Service Interruption CVE-2026-33056,https://linuxsecurity.com/advisories/fedora/rust-ingredients-fedora-42-2026-1c54435571,https://da.gd/IyXi4
+LinuxSecurity,Fedora 42 Rust Cargo C Critical CVE-2026-33056 Security Patch Released,https://linuxsecurity.com/advisories/fedora/rust-cargo-fedora-42-2026-82783c3c1d,https://da.gd/4wbFnI
