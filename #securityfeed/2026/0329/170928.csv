@@ -1,0 +1,40 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-w8q8-93cx-6h7r] jsrsasign: Missing cryptographic validation during DSA signing enables private key extraction,https://github.com/advisories/GHSA-w8q8-93cx-6h7r,https://da.gd/DDw7jp
+GithubAdvisories,[GHSA-8g7p-jf3g-gxcp] jsrsasign is vulnerable to DoS through Infinite Loop when processing zero or negative inputs,https://github.com/advisories/GHSA-8g7p-jf3g-gxcp,https://da.gd/LrrLjL
+GithubAdvisories,[GHSA-4hmj-39m8-jwc7] OpenClaw has ACP CLI approval prompt ANSI escape sequence injection,https://github.com/advisories/GHSA-4hmj-39m8-jwc7,https://da.gd/LIYM
+GithubAdvisories,[GHSA-j4c9-w69r-cw33] OpenClaw: Telegram DM-Scoped Inline Button Callbacks Bypass DM Pairing and Mutate Session State,https://github.com/advisories/GHSA-j4c9-w69r-cw33,https://da.gd/gRlYrR
+GithubAdvisories,[GHSA-mf5g-6r6f-ghhm] OpenClaw: Synology Chat Webhook Pre-Auth Rate-Limit Bypass Enables Brute-Force Guessing of Webhook Token,https://github.com/advisories/GHSA-mf5g-6r6f-ghhm,https://da.gd/bswYF
+GithubAdvisories,[GHSA-rf6h-5gpw-qrgq] OpenClaw: MS Teams Feedback Invocation Bypasses Sender Allowlists and Records Unauthorized Session Feedback,https://github.com/advisories/GHSA-rf6h-5gpw-qrgq,https://da.gd/HT46Sf
+GithubAdvisories,[GHSA-h4jx-hjr3-fhgc] OpenClaw: Gateway Plugin Subagent Fallback `deleteSession` Uses Synthetic `operator.admin`,https://github.com/advisories/GHSA-h4jx-hjr3-fhgc,https://da.gd/SztYrk
+GithubAdvisories,[GHSA-77w2-crqv-cmv3] OpenClaw: Feishu Raw Card Send Surface Can Mint Legacy Card Callbacks That Bypass DM Pairing,https://github.com/advisories/GHSA-77w2-crqv-cmv3,https://da.gd/qDk50s
+GithubAdvisories,[GHSA-3h52-cx59-c456] OpenClaw: Feishu webhook reads and parses unauthenticated request bodies before signature validation,https://github.com/advisories/GHSA-3h52-cx59-c456,https://da.gd/5BHQI
+GithubAdvisories,[GHSA-rhfg-j8jq-7v2h] OpenClaw: SSRF via Unguarded Configured Base URLs in Multiple Channel Extensions (Incomplete Fix for CVE-2026-28476),https://github.com/advisories/GHSA-rhfg-j8jq-7v2h,https://da.gd/uOe1
+GithubAdvisories,[GHSA-52q4-3xjc-6778] OpenClaw: Google Chat Authz Bypass via Group Policy Rebinding with Mutable Space displayName,https://github.com/advisories/GHSA-52q4-3xjc-6778,https://da.gd/kQZfz
+GithubAdvisories,[GHSA-q2qc-744p-66r2] OpenClaw: `session_status` sessionId resolution bypasses sandboxed session-tree visibility,https://github.com/advisories/GHSA-q2qc-744p-66r2,https://da.gd/5Giif
+GithubAdvisories,[GHSA-5jvj-hxmh-6h6j] OpenClaw: Gateway HTTP Session History Route Bypasses Operator Read Scope,https://github.com/advisories/GHSA-5jvj-hxmh-6h6j,https://da.gd/wvqc
+GithubAdvisories,[GHSA-q35r-vvhv-vx5h] Keycloak: Missing Role Enforcement on UMA 2.0 Permission Ticket Endpoint Leads to Information Disclosure,https://github.com/advisories/GHSA-q35r-vvhv-vx5h,https://da.gd/UdrhUO
+GithubAdvisories,[GHSA-7xf9-4jfc-wgm4] Keycloak: manage-clients permission escalates to full realm admin access,https://github.com/advisories/GHSA-7xf9-4jfc-wgm4,https://da.gd/15Gb1
+GithubAdvisories,[GHSA-qpfv-44f3-qqx6] MikroORM has Prototype Pollution in Utils.merge,https://github.com/advisories/GHSA-qpfv-44f3-qqx6,https://da.gd/1gYI
+GithubAdvisories,[GHSA-gwhv-j974-6fxm] MikroORM is vulnerable to SQL Injection via specially crafted object,https://github.com/advisories/GHSA-gwhv-j974-6fxm,https://da.gd/36gm
+GithubAdvisories,[GHSA-g3hj-mf85-679g] AVideo: IDOR in uploadPoster.php Allows Any Authenticated User to Overwrite Scheduled Live Stream Posters and Trigger False Socket Notifications,https://github.com/advisories/GHSA-g3hj-mf85-679g,https://da.gd/XXUPbB
+GithubAdvisories,[GHSA-2rm7-j397-3fqg] AVideo: Missing Authorization in Playlist Schedule Creation Allows Cross-User Broadcast Hijacking,https://github.com/advisories/GHSA-2rm7-j397-3fqg,https://da.gd/nUPf7
+GithubAdvisories,"[GHSA-wprj-9cvc-5w37] AVideo: Unauthenticated Access to Payment Log DataTables Endpoints Exposes Transaction Data, PayPal Tokens, and User Financial Records",https://github.com/advisories/GHSA-wprj-9cvc-5w37,https://da.gd/bvNg
+GithubAdvisories,[GHSA-r4fj-r33x-8v88] wenxian: Command Injection in GitHub Actions Workflow via `issue_comment.body`,https://github.com/advisories/GHSA-r4fj-r33x-8v88,https://da.gd/DRGT9N
+GithubAdvisories,[GHSA-46wh-3698-f2cx] Traefik: Deny Rule Bypass via Unauthenticated Malicious gRPC Requests in gRPC-Go Dependency (CVE-2026-33186),https://github.com/advisories/GHSA-46wh-3698-f2cx,https://da.gd/R9WXv
+GithubAdvisories,[GHSA-44f4-gvwj-6qg3] Spring AI Redis Store has TAG Field Query Injection Through Improper Neutralization of Special Characters,https://github.com/advisories/GHSA-44f4-gvwj-6qg3,https://da.gd/3x7Vk
+GithubAdvisories,[GHSA-7cj7-rcw6-p68v] Spring AI has a Cypher Injection vulnerability in Neo4jVectorFilterExpressionConverter,https://github.com/advisories/GHSA-7cj7-rcw6-p68v,https://da.gd/37435p
+GithubAdvisories,[GHSA-mhrg-94vw-45c5] Spring AI: Insufficient Validation causes SSRF when processing multimodal messages with user-supplied URLs,https://github.com/advisories/GHSA-mhrg-94vw-45c5,https://da.gd/Rl57Ed
+GithubAdvisories,[GHSA-fvh3-672c-7p6c] Spring AI: SpEL injection is triggered when a user-supplied value is used as a filter expression key,https://github.com/advisories/GHSA-fvh3-672c-7p6c,https://da.gd/sPinZD
+GithubAdvisories,[GHSA-7fqq-q52p-2jjg] OpenCC has an Out-of-bounds read when processing truncated UTF-8 input,https://github.com/advisories/GHSA-7fqq-q52p-2jjg,https://da.gd/kV9DmY
+GithubAdvisories,[GHSA-c279-989m-238f] Sliver: Nil Pointer Dereference in tunnelCloseHandler causes panic when a reverse tunnel (rportfwd) close is attempted,https://github.com/advisories/GHSA-c279-989m-238f,https://da.gd/hzGQ
+GithubAdvisories,[GHSA-w4gp-fjgq-3q4g] Happy DOM's fetch credentials include uses page-origin cookies instead of target-origin cookies,https://github.com/advisories/GHSA-w4gp-fjgq-3q4g,https://da.gd/lj7q
+GithubAdvisories,[GHSA-w73w-g5xw-rwhf] Parse Server has an MFA single-use token bypass via concurrent authData login requests,https://github.com/advisories/GHSA-w73w-g5xw-rwhf,https://da.gd/EHtcgl
+GithubAdvisories,[GHSA-53p3-c7vp-4mcc] Trix is vulnerable to XSS through JSON deserialization bypass in drag-and-drop (Level0InputController),https://github.com/advisories/GHSA-53p3-c7vp-4mcc,https://da.gd/In5FZ
+GithubAdvisories,[GHSA-fxc9-7j2w-vx54] mpp has multiple payment bypass and griefing vulnerabilities,https://github.com/advisories/GHSA-fxc9-7j2w-vx54,https://da.gd/j5ZQY
+GithubAdvisories,[GHSA-65xw-vw82-r86x] XPath: Boolean expression infinite loop leads to denial of service via CPU exhaustion,https://github.com/advisories/GHSA-65xw-vw82-r86x,https://da.gd/KeFWA
+GithubAdvisories,[GHSA-7rx3-28cr-v5wh] Handlebars.js has a Prototype Method Access Control Gap via Missing __lookupSetter__ Blocklist Entry,https://github.com/advisories/GHSA-7rx3-28cr-v5wh,https://da.gd/LQqEES
+GithubAdvisories,[GHSA-442j-39wm-28r2] Handlebars.js has a Property Access Validation Bypass in container.lookup,https://github.com/advisories/GHSA-442j-39wm-28r2,https://da.gd/wPowVg
+GithubAdvisories,[GHSA-8x4m-qw58-3pcx] mppx has multiple payment bypass and griefing vulnerabilities,https://github.com/advisories/GHSA-8x4m-qw58-3pcx,https://da.gd/Sjheuc
+GithubAdvisories,[GHSA-wp76-gg32-8258] Parse Server exposes auth data via verify password endpoint,https://github.com/advisories/GHSA-wp76-gg32-8258,https://da.gd/PVNDr8
+GithubAdvisories,[GHSA-x27p-5f68-m644] Trino: Iceberg REST catalog static and vended credentials are accessible via query JSON,https://github.com/advisories/GHSA-x27p-5f68-m644,https://da.gd/B0g3
+GithubAdvisories,[GHSA-8mhj-rffc-rcvw] mppx has Stripe charge credential replay via missing idempotency check,https://github.com/advisories/GHSA-8mhj-rffc-rcvw,https://da.gd/LdF6A
