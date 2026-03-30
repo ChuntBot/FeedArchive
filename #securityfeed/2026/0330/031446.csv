@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian DSA-6187-1 php-phpseclib3 Important AES-CBC Padding Oracle Attack,https://linuxsecurity.com/advisories/debian/debian-dsa-6187-1-phpseclib3,https://da.gd/VAoU
+LinuxSecurity,Debian php-phpseclib Vulnerability DSA-6186-1 Critical Timing Attack Issue,https://linuxsecurity.com/advisories/debian/debian-dsa-6186-1-phpseclib,https://da.gd/tnenPF
