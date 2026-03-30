@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-86vc-mg26-fj6x] Mattermost: Authenticated DoS through failure to prevent rendering of external SVGs on link embeds,https://github.com/advisories/GHSA-86vc-mg26-fj6x,https://da.gd/lVhZK
