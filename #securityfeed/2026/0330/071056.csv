@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian LTS DLA-4516-1 gst-plugins-ugly1.0 Critical Buffer Overflow Risk 2026-2920,https://linuxsecurity.com/advisories/deblts/debian-dla-4516-1-gst-plugins-ugly1-0,https://da.gd/mSAkT
+LinuxSecurity,Fedora 43 Python-Cryptography Addresses Major DNS SAN Security Flaw,https://linuxsecurity.com/advisories/fedora/python-cryptography-fedora-43,https://da.gd/zi0hzm
+LinuxSecurity,Fedora 43 mingw-expat 2.7.5 DoS Risk Update FEDORA-2026-e70c1919fe,https://linuxsecurity.com/advisories/fedora/mingw-expat-fedora-43-2026-e70c1919fe,https://da.gd/gJni3D
+LinuxSecurity,Fedora 43 php-phpseclib3 Critical Info Disclosure CVE-2026-32935,https://linuxsecurity.com/advisories/fedora/php-phpseclib3-fedora-43-2026-b7d9416ec4,https://da.gd/ao06b
+LinuxSecurity,Fedora 43 pypy3.11 JIT Backend Fix Advisory 2026-85a7950dd4,https://linuxsecurity.com/advisories/fedora/fedora-43-pypy3-11-2026-85a7950dd4,https://da.gd/SJYovX
+LinuxSecurity,Fedora 44 python-cryptography Critical Wildcard DNS Name Constraints Fix,https://linuxsecurity.com/advisories/fedora/python-cryptography-fedora-44,https://da.gd/Oksqq
