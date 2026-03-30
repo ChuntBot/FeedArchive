@@ -1,0 +1,52 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-h6c2-x2m2-mwhf] nginx-ui's Unauthenticated MCP Endpoint Allows Remote Nginx Takeover,https://github.com/advisories/GHSA-h6c2-x2m2-mwhf,https://da.gd/0LmrI
+GithubAdvisories,[GHSA-5hf2-vhj6-gj9m] nginx-UI has Unencrypted Storage of DNS API Tokens and ACME Private Keys,https://github.com/advisories/GHSA-5hf2-vhj6-gj9m,https://da.gd/YTKaD
+GithubAdvisories,[GHSA-cp8r-8jvw-v3qg] nginx-ui Vulnerable to DoS via Negative Integer Input in Logrotate Interval,https://github.com/advisories/GHSA-cp8r-8jvw-v3qg,https://da.gd/7y6uOl
+GithubAdvisories,[GHSA-m468-xcm6-fxg4] nginx-ui has Race Condition that Leads to Persistent Data Corruption and Service Collapse,https://github.com/advisories/GHSA-m468-xcm6-fxg4,https://da.gd/Byc3x
+GithubAdvisories,[GHSA-m8p8-53vf-8357] Nginx Configuration Directory Vulnerable to Recursive Deletion via Improper Path Validation,https://github.com/advisories/GHSA-m8p8-53vf-8357,https://da.gd/BHvs1l
+GithubAdvisories,[GHSA-464q-cqxq-xhgr] jsrsasign: Division by Zero Allows Invalid JWK Modulus to Cause Deterministic Zero Output in RSA Operations,https://github.com/advisories/GHSA-464q-cqxq-xhgr,https://da.gd/rpMH1C
+GithubAdvisories,[GHSA-8qwj-4jxw-m8jw] jsrsasign: Negative Exponent Handling Leads to Signature Verification Bypass,https://github.com/advisories/GHSA-8qwj-4jxw-m8jw,https://da.gd/bqU9ZG
+GithubAdvisories,[GHSA-wvqx-v3f6-w8rh] jsrsasign: DSA signatures or X.509 certificates can be forged via DSA domain-parameter validation in KJUR.crypto.DSA.setPublic,https://github.com/advisories/GHSA-wvqx-v3f6-w8rh,https://da.gd/FkxIW
+GithubAdvisories,[GHSA-5jx8-q4cp-rhh6] jsrsasign: Incomplete Comparison Allows DSA Private Key Recovery via Biased Nonce Generation,https://github.com/advisories/GHSA-5jx8-q4cp-rhh6,https://da.gd/mVBE7
+GithubAdvisories,[GHSA-4f9r-x588-pp2h] Fleet's user account creation via invite does not enforce invited email address,https://github.com/advisories/GHSA-4f9r-x588-pp2h,https://da.gd/9Vd20
+GithubAdvisories,[GHSA-w254-4hp5-7cvv] Fleet vulnerable to Denial of Service via unhandled gRPC log type in launcher endpoint,https://github.com/advisories/GHSA-w254-4hp5-7cvv,https://da.gd/i570wb
+GithubAdvisories,[GHSA-9p23-p2m4-2r4m] Fleet vulnerable to SQL Injection in MDM bootstrap package by authenticated team or global admin,https://github.com/advisories/GHSA-9p23-p2m4-2r4m,https://da.gd/BT8sbA
+GithubAdvisories,[GHSA-v895-833r-8c45] Fleet's Apple MDM profile delivery has second-order SQL Injection that can compromise the database,https://github.com/advisories/GHSA-v895-833r-8c45,https://da.gd/wBLrT
+GithubAdvisories,[GHSA-955r-262c-33jc] Telnyx has malicious code in PyPI versions 4.87.1 and 4.87.2,https://github.com/advisories/GHSA-955r-262c-33jc,https://da.gd/QHHsh
+GithubAdvisories,[GHSA-3vmh-33xr-9cqh] Zebra has a Consensus Failure due to Improper Verification of V5 Transactions,https://github.com/advisories/GHSA-3vmh-33xr-9cqh,https://da.gd/8bhgY
+GithubAdvisories,[GHSA-39mp-545q-w789] OpenClaw: Non-owner command-authorized sender can change the owner-only `/send` session delivery policy,https://github.com/advisories/GHSA-39mp-545q-w789,https://da.gd/u2CSph
+GithubAdvisories,[GHSA-xp9r-prpg-373r] OpenClaw: `browser.request` still allows `POST /reset-profile` through the `operator.write` surface,https://github.com/advisories/GHSA-xp9r-prpg-373r,https://da.gd/8kvZW
+GithubAdvisories,[GHSA-vqvg-86cc-cg83] OpenClaw: Mutating internal `/allowlist` chat commands missed `operator.admin` scope enforcement,https://github.com/advisories/GHSA-vqvg-86cc-cg83,https://da.gd/AnL9s
+GithubAdvisories,[GHSA-94pw-c6m8-p9p9] OpenClaw: Gateway operator.write Can Reach Admin-Class Channel Allowlist Persistence via chat.send,https://github.com/advisories/GHSA-94pw-c6m8-p9p9,https://da.gd/UVjME
+GithubAdvisories,[GHSA-m3mh-3mpg-37hw] OpenClaw has an Arbitrary Malicious Code Execution Vulnerability,https://github.com/advisories/GHSA-m3mh-3mpg-37hw,https://da.gd/w95sh
+GithubAdvisories,[GHSA-68f8-9mhj-h2mp] OpenClaw has a Gateway HTTP /v1/models Route Bypasses Operator Read Scope,https://github.com/advisories/GHSA-68f8-9mhj-h2mp,https://da.gd/qFMv0C
+GithubAdvisories,[GHSA-w6m8-cqvj-pg5v] OpenClaw has incomplete Fix for CVE-2026-32011: Feishu Webhook Pre-Auth Body Parsing DoS (Slow-Body / Slowloris Variant),https://github.com/advisories/GHSA-w6m8-cqvj-pg5v,https://da.gd/jwyNh9
+GithubAdvisories,[GHSA-hr5v-j9h9-xjhg] OpenClaw has Sandbox Media Root Bypass via Unnormalized `mediaUrl` / `fileUrl` Parameter Keys (CWE-22),https://github.com/advisories/GHSA-hr5v-j9h9-xjhg,https://da.gd/4aua6H
+GithubAdvisories,[GHSA-3298-56p6-rpw2] OpenClaw has incomplete Fix for CVE-2026-27486: Unvalidated SIGKILL in `!stop` Chat Command via `shell-utils.ts`,https://github.com/advisories/GHSA-3298-56p6-rpw2,https://da.gd/gQXy94
+GithubAdvisories,[GHSA-pm37-62g7-p768] AVideo Vulnerable to Reflected XSS via Unsanitized plugin Parameter in YPTWallet Stripe Payment Page,https://github.com/advisories/GHSA-pm37-62g7-p768,https://da.gd/sWHTb
+GithubAdvisories,[GHSA-q3p6-g7c4-829c] GraphQL API endpoint ignores CORS origin restriction,https://github.com/advisories/GHSA-q3p6-g7c4-829c,https://da.gd/fyGGI
+GithubAdvisories,[GHSA-6h7h-m7p5-hjqp] Sulu checks fix permissions for subentities endpoints,https://github.com/advisories/GHSA-6h7h-m7p5-hjqp,https://da.gd/cXn26
+GithubAdvisories,[GHSA-q6jj-r49p-94fh] AVideo has Video Password Protection Bypass via API Endpoints Returning Full Playback Sources Without Password Verification,https://github.com/advisories/GHSA-q6jj-r49p-94fh,https://da.gd/ORBT
+GithubAdvisories,[GHSA-h54m-c522-h6qr] AVideo Vulnerable to Wallet Balance Double-Spend via TOCTOU Race Condition in transferBalance,https://github.com/advisories/GHSA-h54m-c522-h6qr,https://da.gd/c7RlBc
+GithubAdvisories,[GHSA-73gr-r64q-7jh4] AVideo has User Group-Based Category Access Control Bypass via Missing and Broken Group Filtering in categories.json.php,https://github.com/advisories/GHSA-73gr-r64q-7jh4,https://da.gd/53B5
+GithubAdvisories,[GHSA-66m2-v9v9-95c3] ci4-cms-erp/ci4ms: System Settings (Mail Settings) Full Platform Compromise & Full Account Takeover for All-Roles & Privilege-Escalation via Stored DOM XSS,https://github.com/advisories/GHSA-66m2-v9v9-95c3,https://da.gd/3buWOo
+GithubAdvisories,[GHSA-m983-v2ff-wq65] LiveQuery protected field leak via shared mutable state across concurrent subscribers,https://github.com/advisories/GHSA-m983-v2ff-wq65,https://da.gd/KywKf
+GithubAdvisories,[GHSA-2mg4-pfgx-64cf] AVideo's WebSocket Token Never Expires Due to Commented-Out Timeout Validation in verifyTokenSocket(),https://github.com/advisories/GHSA-2mg4-pfgx-64cf,https://da.gd/L8Wcrm
+GithubAdvisories,[GHSA-hv2w-8mjj-jw22] MCP Java SDK has a Hardcoded Wildcard CORS (Access-Control-Allow-Origin: *),https://github.com/advisories/GHSA-hv2w-8mjj-jw22,https://da.gd/d1Hy
+GithubAdvisories,[GHSA-vr79-8m62-wh98] FHIR Validator HTTP service has SSRF via /loadIG Chains with startsWith() Credential Leak for Authentication Token Theft,https://github.com/advisories/GHSA-vr79-8m62-wh98,https://da.gd/mgMpj
+GithubAdvisories,[GHSA-3ww8-jw56-9f5h] FHIR Validator: Unauthenticated Blind SSRF via /loadIG Endpoint Enables Internal Network Probing,https://github.com/advisories/GHSA-3ww8-jw56-9f5h,https://da.gd/uLBDQ1
+GithubAdvisories,[GHSA-w7rv-gfp4-j9j3] Slippers Vulnerable to Cross-Site Scripting (XSS) in `attrs` Template Tag,https://github.com/advisories/GHSA-w7rv-gfp4-j9j3,https://da.gd/XQEDRJ
+GithubAdvisories,[GHSA-fgv2-4q4g-wc35] HAPI FHIR Core has Authentication Credential Leakage via Improper URL Prefix Matching on HTTP Redirect,https://github.com/advisories/GHSA-fgv2-4q4g-wc35,https://da.gd/5PCpZY
+GithubAdvisories,[GHSA-jhf3-xxhw-2wpp] go-git: Maliciously crafted idx file can cause asymmetric memory consumption,https://github.com/advisories/GHSA-jhf3-xxhw-2wpp,https://da.gd/dfhpTE
+GithubAdvisories,[GHSA-px3p-vgh9-m57c] NocoBase Affected by Sandbox Escape to RCE via console._stdout Prototype Chain Traversal in Workflow Script Node,https://github.com/advisories/GHSA-px3p-vgh9-m57c,https://da.gd/CRE0
+GithubAdvisories,[GHSA-x2f5-332j-9xwq] Docker Model Runner OCI Registry Client Vulnerable to Server-Side Request Forgery (SSRF),https://github.com/advisories/GHSA-x2f5-332j-9xwq,https://da.gd/0MllK0
+GithubAdvisories,[GHSA-v9p7-gf3q-h779] @tinacms/graphql has Path Traversal that leads to overwrite of arbitrary files,https://github.com/advisories/GHSA-v9p7-gf3q-h779,https://da.gd/iuXKqO
+GithubAdvisories,[GHSA-gm2x-2g9h-ccm8] go-git missing validation decoding Index v4 files leads to panic,https://github.com/advisories/GHSA-gm2x-2g9h-ccm8,https://da.gd/11wDAP
+GithubAdvisories,[GHSA-qhj7-v7h7-q4c7] Glances Vulnerable to Command Injection via Dynamic Configuration Values,https://github.com/advisories/GHSA-qhj7-v7h7-q4c7,https://da.gd/X74U9l
+GithubAdvisories,[GHSA-7p93-6934-f4q7] Glances Vulnerable to Cross-Origin System Information Disclosure via XML-RPC Server CORS Wildcard,https://github.com/advisories/GHSA-7p93-6934-f4q7,https://da.gd/JnewlQ
+GithubAdvisories,[GHSA-fhh2-gg7w-gwpq] nginx-ui Backup Restore Allows Tampering with Encrypted Backups,https://github.com/advisories/GHSA-fhh2-gg7w-gwpq,https://da.gd/3PwnUK
+GithubAdvisories,[GHSA-jjwv-57xh-xr6r] Gotenberg has Chromium deny-list bypass via case-insensitive URL scheme (bypass of GHSA-rh2x-ccvw-q7r3),https://github.com/advisories/GHSA-jjwv-57xh-xr6r,https://da.gd/NYY8
+GithubAdvisories,[GHSA-44p7-9xx4-hf2g] Go Images vulnerable to an out-of-memory error via a crafted TIFF file,https://github.com/advisories/GHSA-44p7-9xx4-hf2g,https://da.gd/WtcmM
+GithubAdvisories,[GHSA-m9ph-m48c-mrq8] Malware in eslint-validator,https://github.com/advisories/GHSA-m9ph-m48c-mrq8,https://da.gd/NI2gV4
+GithubAdvisories,[GHSA-hggm-x7r9-mm7v] OpenClaw is vulnerable to Path Traversal through path validation bypass,https://github.com/advisories/GHSA-hggm-x7r9-mm7v,https://da.gd/sqTX1B
+GithubAdvisories,[GHSA-xqmp-fxgv-xvq5] libp2p-gossipsub: Remote crash via unchecked Instant overflow in heartbeat backoff expiry handling,https://github.com/advisories/GHSA-xqmp-fxgv-xvq5,https://da.gd/v9M6s4
