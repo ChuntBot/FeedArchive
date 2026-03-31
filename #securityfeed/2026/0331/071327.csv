@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42 Security Update Addresses Timekeeping Service DoS Vulnerabilities,https://linuxsecurity.com/advisories/fedora/ntpd-rs-fedora-42-2026-2dc4882154,https://da.gd/bvNtz
+LinuxSecurity,Fedora 42 Stgit Critical Permission Modification CVE-2026-33056,https://linuxsecurity.com/advisories/fedora/fedora-42-stgit-2026-9e26f48b50,https://da.gd/u4xPte
+LinuxSecurity,Fedora 42 perl-YAML-Syck High Buffer Overflow Advisory 2026-d226775800,https://linuxsecurity.com/advisories/fedora/perl-yaml-syck-fedora-2026-d226775800,https://da.gd/ahTKUB
+LinuxSecurity,Fedora 42 MuseScore Update FEDORA-2026-2e5626418f CVE-2026-29022,https://linuxsecurity.com/advisories/fedora/musescore-fedora-42-2026-2e5626418f,https://da.gd/h6Ua10
+LinuxSecurity,Fedora 42 Firefox 149 NSS Update Performance Fix 2026-49237e1ced,https://linuxsecurity.com/advisories/fedora/firefox-fedora-42-2026-49237e1ced,https://da.gd/XTFvbV
+LinuxSecurity,Fedora 42 NSS 3.121.0 Security Update Critical 2026-49237e1ced,https://linuxsecurity.com/advisories/fedora/nss-fedora-42-2026-49237e1ced,https://da.gd/Sn2rV
