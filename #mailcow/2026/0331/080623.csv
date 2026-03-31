@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubCommitStaging,add missing access control,https://github.com/mailcow/mailcow-dockerized/commit/8a65b9d1c6549cd451a3d145461ee465bf87c1e8,https://da.gd/U1un
+GithubCommitStaging,add missing object-level access control,https://github.com/mailcow/mailcow-dockerized/commit/ecb848493b0bd5ee79528bf8643239d120574438,https://da.gd/H0Rp
+GithubCommitStaging,escape HTML in last logins,https://github.com/mailcow/mailcow-dockerized/commit/84e3c32f13d397e47ea0d443ce1621742f78f401,https://da.gd/9NO5xE
+GithubCommitStaging,escape HTML in qitem details,https://github.com/mailcow/mailcow-dockerized/commit/edde35156d9a55e59c805a60d1d81790f120e2f4,https://da.gd/jzsyyv
+GithubCommitStaging,escape HTML in autodiscover logs,https://github.com/mailcow/mailcow-dockerized/commit/95bf46c1e4f3efe304857074bfa7d324d9f85fe9,https://da.gd/ofqV
+GithubCommitStaging,Improve template URI escaping and parameter handling,https://github.com/mailcow/mailcow-dockerized/commit/8c039f694fe3cd7a736249b4e017def1414c47e9,https://da.gd/p8SZD
+GithubCommitStaging,[Web][Dovecot] Add parameterized queries and input validation for qua…,https://github.com/mailcow/mailcow-dockerized/commit/5a00b5124b58c4399b6320270947683efb080e89,https://da.gd/LDRp
+GithubCommitStaging,Merge pull request #7173 from mailcow/fix/escaping,https://github.com/mailcow/mailcow-dockerized/commit/ec2482528033d2a7c240ccf2bf4eef3121a47fa7,https://da.gd/FTiDt
