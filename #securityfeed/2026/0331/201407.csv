@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 44 Python3.14 Critical Command Injection Fix CVE-2026-4519,https://linuxsecurity.com/advisories/fedora/python-fedora-44-2026-3d7ea476e1,https://da.gd/aTCms
+LinuxSecurity,Fedora 44 rust-scx_rusty Critical Buffer Overflow CVE-2026-33056,https://linuxsecurity.com/advisories/fedora/rust-scx-rusty-fedora-44-2026-2d77e9f2c0,https://da.gd/NVrj
+LinuxSecurity,Debian 12 rust-lib_xyz Significant CVE-2026-33058 Memory Leak Issue,https://linuxsecurity.com/advisories/fedora/rust-scx-rustland-fedora-44,https://da.gd/rsiwN
+LinuxSecurity,Fedora 44 rust-scx_layered Important CVE-2026-33056 Security Update,https://linuxsecurity.com/advisories/fedora/rust-scx-layered-fedora-2026-27e6e0b664,https://da.gd/5rTAaN
+LinuxSecurity,Fedora 44 Insight CVE-2026-4647 Urgent Critical Denial of Service Advisory,https://linuxsecurity.com/advisories/fedora/fedora-44-insight-2026-d79ba951dd,https://da.gd/KYeHIL
+LinuxSecurity,Fedora 44 Rust-Resctl-Bench Important Update CVE-2026-33056,https://linuxsecurity.com/advisories/fedora/rust-resctl-bench-fedora-44-2026-12baf239f8,https://da.gd/dBqWbX
