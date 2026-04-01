@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian 11 Netty Important DDoS Request Smuggling Crash Advisory DLA-4519-1,https://linuxsecurity.com/advisories/deblts/debian-dla-4519-1-netty,https://da.gd/4Zx69
+LinuxSecurity,Debian libpng1.6 Critical DDoS Exec Vulnerability DSA-6189-1 Alert,https://linuxsecurity.com/advisories/debian/debian-dsa-6189-1-libpng,https://da.gd/EnrOi
+LinuxSecurity,Debian DSA-6188-1 LXD Important Privilege Escalation Risk Fix,https://linuxsecurity.com/advisories/debian/debian-dsa-6188-1-lxd,https://da.gd/rsPCb
+LinuxSecurity,SUSE 2026 1159-1 Expat Important NULL Pointer Denial of Service,https://linuxsecurity.com/advisories/suse/suse-2026-1159-1-expat,https://da.gd/OY54R
+LinuxSecurity,SUSE FreeRDP Key Buffer Overflow Resolution 2026-1160-1,https://linuxsecurity.com/advisories/suse/freerdp-suse-2026-1160-1,https://da.gd/WTrMK
+LinuxSecurity,openSUSE Security Update freerdp Important 6 Issues Fixed 2026-1160-1,https://linuxsecurity.com/advisories/opensuse/freesdp-opensuse-2026-1160-1,https://da.gd/45yzr
