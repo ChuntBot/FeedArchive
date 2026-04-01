@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42 Xen Critical Use After Free DoS Advisory 2026-f04da48123,https://linuxsecurity.com/advisories/fedora/fedora-42-xen-2026-f04da48123,https://da.gd/CAuOpA
+LinuxSecurity,Fedora 42 Firefox Critical Fix Blurry Popups Advisory 2026-a026a1b0c5,https://linuxsecurity.com/advisories/fedora/firefox-fedora-42-2026-a026a1b0c5,https://da.gd/g0axX0
+LinuxSecurity,Fedora 42 Critical CVE-2026-4647 Out-Of-Bounds Issue Resolved in Update,https://linuxsecurity.com/advisories/fedora/fedora-42-insight-2026-62cea4650e,https://da.gd/st9JQe
+LinuxSecurity,Fedora 42 Rust-Resctl-Bench Important Permissions Issue CVE-2026-33056,https://linuxsecurity.com/advisories/fedora/rust-resctl-bench-fedora-42,https://da.gd/HSu3b
+LinuxSecurity,Fedora 42 cpp-httplib Critical TLS Bypass Fix CVE-2026-32627,https://linuxsecurity.com/advisories/fedora/cpp-httplib-fedora-42-2026-04a531cece,https://da.gd/kp1Vq
+LinuxSecurity,Fedora 42 rust-cargo-vendor-filterer Critical CVE-2026-33056 DoS Advisory,https://linuxsecurity.com/advisories/fedora/rust-cargo-vendor-filterer-fedora-42,https://da.gd/IOSGSK
