@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 43 Openbao Critical XSS Weaknesses Fix 2026-a9c2a486a6,https://linuxsecurity.com/advisories/fedora/fedora-43-openbao-2026-a9c2a486a6,https://da.gd/E2jAXR
+LinuxSecurity,Fedora 43 bind9-next Critical DNS Fix CVE-2026-1519 DoS 2026-a6efefa854,https://linuxsecurity.com/advisories/fedora/bind9-next-fedora-43-2026-a6efefa854,https://da.gd/xuMx6
+LinuxSecurity,Debian Bookworm Chromium Critical Exec DoS Risk DSA-6192-1 CVE-2026-5272,https://linuxsecurity.com/advisories/debian/debian-dsa-6192-1-chromium,https://da.gd/sVMJFJ
