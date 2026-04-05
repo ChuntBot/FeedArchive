@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,openSUSE Tumbleweed Corosync Moderate Denial of Service CVE-2026-35091,https://linuxsecurity.com/advisories/opensuse/corosync-3-1-10-opensuse-2026-10488-1,https://da.gd/7oA2CE
+LinuxSecurity,openSUSE Tumbleweed libinput-devel Moderate Security Issues 10489-1,https://linuxsecurity.com/advisories/opensuse/libinput-devel-1-31-1-opensuse-2026,https://da.gd/IeqLu
+LinuxSecurity,Debian DSA-6198-1 Valkey Critical Denial of Service Risk Advisory,https://linuxsecurity.com/advisories/debian/debian-dsa-6198-1-valkey,https://da.gd/pHf4pL
+LinuxSecurity,Debian DSA-6197-1 Dovecot Critical SQL Injection and DoS Fix,https://linuxsecurity.com/advisories/debian/debian-dsa-6197-1-dovecot,https://da.gd/7Zp7qe
