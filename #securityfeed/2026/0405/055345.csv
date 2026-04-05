@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42 Rust Critical Directory Permission Patch FEDORA-2026-f47b1861e4,https://linuxsecurity.com/advisories/fedora/fedora-42-rust-2026-f47b1861e4,https://da.gd/hR1oK
+LinuxSecurity,Fedora 42 mingw-binutils Security Advisory FEDORA-2026-fe96f3532b,https://linuxsecurity.com/advisories/fedora/mingw-binutils-fedora-42-2026-fe96f3532b,https://da.gd/M6z34
+LinuxSecurity,Fedora 42 mingw-gstreamer1 Critical Arbitrary Code Exec 2026-3cc99e7d09,https://linuxsecurity.com/advisories/fedora/mingw-gstreamer1-fedora-42-2026-3cc99e7d09,https://da.gd/UAsoc
+LinuxSecurity,Fedora 42 mingw-gstreamer1 Critical RCE Issues Advisory 2026-3cc99e7d09,https://linuxsecurity.com/advisories/fedora/mingw-gstreamer1-plugins-base-fedora-42,https://da.gd/xHGB
+LinuxSecurity,Debian 12 libav1-encoder Security Remote Code Trigger 2026-8fb53c5b14,https://linuxsecurity.com/advisories/fedora/mingw-gstreamer1-plugins-good-fedora-42,https://da.gd/WtSSR
+LinuxSecurity,Fedora 42 Update for mingw-gstreamer1-plugins-bad Resolves Major Code Flaws,https://linuxsecurity.com/advisories/fedora/mingw-gstreamer1-plugins-bad-fedora-42,https://da.gd/RH0go
