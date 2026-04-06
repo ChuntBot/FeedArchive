@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+ExploitDB,[local] is-localhost-ip 2.0.0 - SSRF,https://www.exploit-db.com/exploits/52496,https://da.gd/OTyyPu
+ExploitDB,[webapps] Fortinet FortiWeb v8.0.1 - Auth Bypass,https://www.exploit-db.com/exploits/52495,https://da.gd/yJg9s9
+ExploitDB,[local] Windows Kernel - Elevation of Privilege,https://www.exploit-db.com/exploits/52494,https://da.gd/lzzyw6
+ExploitDB,[local] Desktop Window Manager Core Library 10.0.10240.0 - Privilege Escalation,https://www.exploit-db.com/exploits/52493,https://da.gd/HMuCKG
+ExploitDB,[webapps] ASP.net 8.0.10 - Bypass,https://www.exploit-db.com/exploits/52492,https://da.gd/p15Vyh
+ExploitDB,[webapps] Grafana 11.6.0 - SSRF,https://www.exploit-db.com/exploits/52491,https://da.gd/EeQ7f
+ExploitDB,[webapps] Zhiyuan OA - arbitrary file upload leading,https://www.exploit-db.com/exploits/52490,https://da.gd/T20FL
+ExploitDB,[webapps] WBCE CMS 1.6.4 - Remote Code Execution,https://www.exploit-db.com/exploits/52489,https://da.gd/zN7DbF
+ExploitDB,[webapps] RiteCMS 3.1.0 - Authenticated Remote Code Execution,https://www.exploit-db.com/exploits/52488,https://da.gd/f4L52e
+ExploitDB,[webapps] WordPress Madara - Local File Inclusion,https://www.exploit-db.com/exploits/52487,https://da.gd/MgtqQP
