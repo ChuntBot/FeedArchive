@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xq44-64rg-8g3h] Free5GC AMF is vulnerable to DoS through its HandleRegistrationComplete function,https://github.com/advisories/GHSA-xq44-64rg-8g3h,https://da.gd/6uiYD
