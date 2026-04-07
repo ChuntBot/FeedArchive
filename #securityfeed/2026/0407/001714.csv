@@ -1,0 +1,52 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p9ff-h696-f583] Vite Vulnerable to Arbitrary File Read via Vite Dev Server WebSocket,https://github.com/advisories/GHSA-p9ff-h696-f583,https://da.gd/bKg03
+GithubAdvisories,[GHSA-6r34-94wq-jhrc] rdiscount has an Out-of-bounds Read,https://github.com/advisories/GHSA-6r34-94wq-jhrc,https://da.gd/0VDMe
+GithubAdvisories,[GHSA-3p65-76g6-3w7r] Distribution affected by pull-through cache credential exfiltration via www-authenticate bearer realm,https://github.com/advisories/GHSA-3p65-76g6-3w7r,https://da.gd/5wrDGr
+GithubAdvisories,[GHSA-5ghq-42rg-769x] CI4MS: Company Information Public-Facing Page Full Platform Compromise & Full Account Takeover for All Roles & Privilege-Escalation via System Settings Company Information Stored DOM XSS,https://github.com/advisories/GHSA-5ghq-42rg-769x,https://da.gd/2R6pn
+GithubAdvisories,[GHSA-f2g3-hh2r-cwgc] Distribution: stale blob access resurrection via repo-scoped redis descriptor cache invalidation,https://github.com/advisories/GHSA-f2g3-hh2r-cwgc,https://da.gd/Q8BBO
+GithubAdvisories,[GHSA-693f-pf34-72c5] PraisonAI Has Path Traversal in FileTools,https://github.com/advisories/GHSA-693f-pf34-72c5,https://da.gd/LfCJX9
+GithubAdvisories,[GHSA-r9x3-wx45-2v7f] PraisonAI recipe registry publish path traversal allows out-of-root file write,https://github.com/advisories/GHSA-r9x3-wx45-2v7f,https://da.gd/XxGw9r
+GithubAdvisories,[GHSA-4rx4-4r3x-6534] PraisonAI recipe registry pull path traversal writes files outside the chosen output directory,https://github.com/advisories/GHSA-4rx4-4r3x-6534,https://da.gd/Q4t1zq
+GithubAdvisories,[GHSA-jfxc-v5g9-38xr] PraisonAI Vulnerable to Arbitrary File Write / Path Traversal in Action Orchestrator,https://github.com/advisories/GHSA-jfxc-v5g9-38xr,https://da.gd/qMq95M
+GithubAdvisories,[GHSA-4ph2-f6pf-79wv] PraisonAI Has Arbitrary File Write (Zip Slip) in Templates Extraction,https://github.com/advisories/GHSA-4ph2-f6pf-79wv,https://da.gd/YLgz8
+GithubAdvisories,[GHSA-378j-3jfj-8r9f] go-ipld-prime: DAG-CBOR decoder unbounded memory allocation from CBOR headers,https://github.com/advisories/GHSA-378j-3jfj-8r9f,https://da.gd/T90oR
+GithubAdvisories,[GHSA-7qhf-v65m-g5f3] mlflow: FastAPI job endpoints under `/ajax-api/3.0/jobs/*` are not protected by authentication or authorization,https://github.com/advisories/GHSA-7qhf-v65m-g5f3,https://da.gd/P9edd
+GithubAdvisories,[GHSA-qpc3-8vqg-8g6w] pymetasploit3 vulnerable to command injection in console.run_module_with_output(),https://github.com/advisories/GHSA-qpc3-8vqg-8g6w,https://da.gd/NmgcZZ
+GithubAdvisories,[GHSA-f9jp-856v-8642] PocketMine-MP: Player entities can still die and drop items in flaggedForDespawn state,https://github.com/advisories/GHSA-f9jp-856v-8642,https://da.gd/u52I4
+GithubAdvisories,[GHSA-7hmv-4j2j-pp6f] PocketMine-MP: Network amplification vulnerability with `ActorEventPacket`,https://github.com/advisories/GHSA-7hmv-4j2j-pp6f,https://da.gd/uA6XFF
+GithubAdvisories,[GHSA-788v-5pfp-93ff] PocketMine-MP: JSON decoding of unlimited size large arrays/objects in ModalFormResponse Handling,https://github.com/advisories/GHSA-788v-5pfp-93ff,https://da.gd/Tt5Ul
+GithubAdvisories,[GHSA-h6rj-3m53-887h] PocketMine-MP: LogDoS by large complex unknown property logging in clientData in LoginPacket,https://github.com/advisories/GHSA-h6rj-3m53-887h,https://da.gd/oc0vxX
+GithubAdvisories,[GHSA-fvx6-pj3r-5q4q] OpenClaw's complex interpreter pipelines could skip exec script preflight validation,https://github.com/advisories/GHSA-fvx6-pj3r-5q4q,https://da.gd/ccDE
+GithubAdvisories,[GHSA-rf75-g96h-j3rm] Duplicate Advisory: OpenClaw's complex interpreter pipelines could skip exec script preflight validation,https://github.com/advisories/GHSA-rf75-g96h-j3rm,https://da.gd/bImCDw
+GithubAdvisories,[GHSA-gm9m-x74r-8whg] Duplicate Advisory: OpenClaw's Nextcloud Talk webhook missing rate limiting on shared secret authentication,https://github.com/advisories/GHSA-gm9m-x74r-8whg,https://da.gd/zaou2g
+GithubAdvisories,[GHSA-cxfr-3qp8-hpmw] Duplicate Advisory: OpenClaw: Zalo webhook rate limiting could be bypassed before secret validation,https://github.com/advisories/GHSA-cxfr-3qp8-hpmw,https://da.gd/YC0qPf
+GithubAdvisories,[GHSA-j5qh-5234-4rqp] Duplicate Advisory: OpenClaw: Workspace plugin auto-discovery allowed code execution from cloned repositories,https://github.com/advisories/GHSA-j5qh-5234-4rqp,https://da.gd/ZSAGv
+GithubAdvisories,[GHSA-phgf-3849-rgjq] Duplicate Advisory: OpenClaw: Plugin subagent routes could bypass gateway authorization with synthetic admin scopes,https://github.com/advisories/GHSA-phgf-3849-rgjq,https://da.gd/y1d06v
+GithubAdvisories,[GHSA-6q2v-vfwp-pvwh] Duplicate Advisory: OpenClaw's skills-install-download can be redirected outside the tools root by rebinding the validated base path,https://github.com/advisories/GHSA-6q2v-vfwp-pvwh,https://da.gd/eNSa
+GithubAdvisories,[GHSA-9q8j-chc7-wpgp] Duplicate Advisory: OpenClaw session transcript files were created without forced user-only permissions,https://github.com/advisories/GHSA-9q8j-chc7-wpgp,https://da.gd/A2LkW
+GithubAdvisories,[GHSA-35cq-wv6v-88xf] Duplicate Advisory: OpenClaw affected by SSRF via unguarded image download in fal provider,https://github.com/advisories/GHSA-35cq-wv6v-88xf,https://da.gd/5NOpZZ
+GithubAdvisories,[GHSA-xg59-f45v-9r9j] Duplicate Advisory: OpenClaw's MS Teams sender allowlist bypass when route allowlist is configured and sender allowlist is empty,https://github.com/advisories/GHSA-xg59-f45v-9r9j,https://da.gd/sYqKC
+GithubAdvisories,[GHSA-xxj4-96ph-g6j6] Duplicate Advisory: OpenClaw: Sandbox `writeFile` commit could race outside the validated path,https://github.com/advisories/GHSA-xxj4-96ph-g6j6,https://da.gd/WNxpX
+GithubAdvisories,[GHSA-f275-5h5c-5wg5] Duplicate Advisory: OpenClaw: /pair approve command path omitted caller scope subsetting and reopened device pairing escalation,https://github.com/advisories/GHSA-f275-5h5c-5wg5,https://da.gd/Rf3nlL
+GithubAdvisories,[GHSA-w8rf-7qf8-65ww] Duplicate Advisory: OpenClaw: Node-host approvals could show misleading shell payloads instead of the executed argv,https://github.com/advisories/GHSA-w8rf-7qf8-65ww,https://da.gd/S9ysZ
+GithubAdvisories,[GHSA-wwrj-437c-ppq4] Duplicate Advisory: OpenClaw's system.run approvals did not bind mutable script operands across approval and execution,https://github.com/advisories/GHSA-wwrj-437c-ppq4,https://da.gd/uyi3Jz
+GithubAdvisories,[GHSA-wmgj-hrx3-23gj] Duplicate Advisory: OpenClaw: Unbound interpreter and runtime commands could bypass node-host approval integrity,https://github.com/advisories/GHSA-wmgj-hrx3-23gj,https://da.gd/Cd6HtP
+GithubAdvisories,[GHSA-rwwx-25m7-ww73] Duplicate Advisory: OpenClaw: Unrecognized script runners could bypass `system.run` approval integrity,https://github.com/advisories/GHSA-rwwx-25m7-ww73,https://da.gd/AWH4d
+GithubAdvisories,[GHSA-vjqw-w5jr-g9w5] Duplicate Advisory: OpenClaw: Feishu webhook mode accepted forged events when only `verificationToken` was configured,https://github.com/advisories/GHSA-vjqw-w5jr-g9w5,https://da.gd/zr4wVg
+GithubAdvisories,[GHSA-4w7w-66w2-5vf9] Vite Vulnerable to Path Traversal in Optimized Deps `.map` Handling,https://github.com/advisories/GHSA-4w7w-66w2-5vf9,https://da.gd/pFBLZ
+GithubAdvisories,[GHSA-v2wj-q39q-566r] Vite: `server.fs.deny` bypassed with queries,https://github.com/advisories/GHSA-v2wj-q39q-566r,https://da.gd/p44jj
+GithubAdvisories,[GHSA-xqv9-qr76-hfq2] @elgentos/magento2-dev-mcp vulnerable to command injection,https://github.com/advisories/GHSA-xqv9-qr76-hfq2,https://da.gd/lEgPy
+GithubAdvisories,[GHSA-wx4p-jr66-jfp9] @nor2/heim-mcp vulnerable to command injection,https://github.com/advisories/GHSA-wx4p-jr66-jfp9,https://da.gd/WY830B
+GithubAdvisories,[GHSA-hv3w-m4g2-5x77] strawberry-graphql: Denial of Service via unbounded WebSocket subscriptions,https://github.com/advisories/GHSA-hv3w-m4g2-5x77,https://da.gd/L4qanS
+GithubAdvisories,[GHSA-vpwc-v33q-mq89] strawberry-graphql: Authentication bypass via legacy graphql-ws WebSocket subprotocol,https://github.com/advisories/GHSA-vpwc-v33q-mq89,https://da.gd/px12F6
+GithubAdvisories,[GHSA-jmrh-xmgh-x9j4] changedetection.io Vulnerable to Authentication Bypass via Decorator Ordering,https://github.com/advisories/GHSA-jmrh-xmgh-x9j4,https://da.gd/K0keE
+GithubAdvisories,[GHSA-36xv-jgw5-4q75] @nestjs/core Improperly Neutralizes Special Elements in Output Used by a Downstream Component ('Injection'),https://github.com/advisories/GHSA-36xv-jgw5-4q75,https://da.gd/tEki6
+GithubAdvisories,[GHSA-x3f4-v83f-7wp2] Authorizer: Password reset token theft and full auth token redirect via unvalidated redirect_uri,https://github.com/advisories/GHSA-x3f4-v83f-7wp2,https://da.gd/Fma0p
+GithubAdvisories,[GHSA-jfwg-rxf3-p7r9] Authorizer: CQL/N1QL Injection in Cassandra and Couchbase Backends via fmt.Sprintf String Interpolation,https://github.com/advisories/GHSA-jfwg-rxf3-p7r9,https://da.gd/eZj3bt
+GithubAdvisories,[GHSA-cjg8-h5qc-hrjv] kedro-datasets has a path traversal vulnerability in PartitionedDataset that allows arbitrary file write,https://github.com/advisories/GHSA-cjg8-h5qc-hrjv,https://da.gd/N5NDT
+GithubAdvisories,[GHSA-q6vj-wxvf-5m8c] OpenEXR has heap-buffer-overflow via signed integer underflow in ImfContextInit.cpp,https://github.com/advisories/GHSA-q6vj-wxvf-5m8c,https://da.gd/mO6oqH
+GithubAdvisories,[GHSA-57cw-j6vp-2p9m] OpenEXR has use after free in PyObject_StealAttrString,https://github.com/advisories/GHSA-57cw-j6vp-2p9m,https://da.gd/tC7JnZ
+GithubAdvisories,[GHSA-vh63-9mqx-wmjr] OpenEXR has buffer overflow in PyOpenEXR_old's channels() and channel(),https://github.com/advisories/GHSA-vh63-9mqx-wmjr,https://da.gd/uLJZs
+GithubAdvisories,[GHSA-3h9h-qfvw-98hq] OpenEXR Makes Use of Uninitialized Memory,https://github.com/advisories/GHSA-3h9h-qfvw-98hq,https://da.gd/5vGWnF
+GithubAdvisories,[GHSA-vph7-r229-qxpf] Focalboard doesn't validate file ownership when serving uploaded files,https://github.com/advisories/GHSA-vph7-r229-qxpf,https://da.gd/RKoK
+GithubAdvisories,[GHSA-p32q-v29x-wq9r] Focalboard doesn't sanitize category IDs before incorporating them into dynamic SQL statements,https://github.com/advisories/GHSA-p32q-v29x-wq9r,https://da.gd/WFbV5O
