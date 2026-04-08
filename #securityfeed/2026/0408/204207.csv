@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 25.10 GDK-PixBuf Critical Denial of Service CVE-2026-5201,https://linuxsecurity.com/advisories/ubuntu/gdk-pixbuf-ubuntu-8156-1,https://da.gd/XjRjd
+LinuxSecurity,Ubuntu 25.10 Squid Critical Denial of Service Vulnerability USN-8157-1,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8157-1-squid,https://da.gd/KPlMJ
+LinuxSecurity,Ubuntu 25.10 OpenSSL Important DoS Issues USN-8155-1 CVE-2026-2673,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8155-1-openssl,https://da.gd/22GPbV
+LinuxSecurity,SUSE 2026 Ignition Critical Authorization Bypass CVE-2026-33186 Exploit,https://linuxsecurity.com/advisories/suse/suse-2026-1208-1-ignition,https://da.gd/CLj42D
+LinuxSecurity,SUSE 2026 1209-1 Bind Important High CPU Load Fix CVE-2026-1519,https://linuxsecurity.com/advisories/suse/bind-suse-2026-1209-1,https://da.gd/3dG3t
