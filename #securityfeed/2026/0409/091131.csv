@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42 CEF High Security Vulnerabilities Heap Overflow Out Of Bounds,https://linuxsecurity.com/advisories/fedora/cef-fedora-42-2026-6188cc51be,https://da.gd/hFpDmC
+LinuxSecurity,Fedora 42 python-pydicom Moderate Path Traversal Risk CVE-2026-32711,https://linuxsecurity.com/advisories/fedora/python-pydicom-fedora-42-2026-f89e555af4,https://da.gd/iqEv1j
+LinuxSecurity,Fedora 42 bind-dyndb-ldap Important NSEC3 Iterations Fix 2026-7f3f640fbf,https://linuxsecurity.com/advisories/fedora/bind-dyndb-ldap-fedora-42,https://da.gd/jRtGLn
+LinuxSecurity,Fedora 42 BIND Important Security Fix NSEC3 Issue FEDORA-2026-7f3f640fbf,https://linuxsecurity.com/advisories/fedora/fedora-42-bind-2026-7f3f640fbf,https://da.gd/91IZAE
+LinuxSecurity,Fedora 42 Roundcube 1.6.15 Important SVG Bypass Security 2026-051825ca18,https://linuxsecurity.com/advisories/fedora/roundcubemail-fedora-42-2026-051825ca18,https://da.gd/TtFlaX
+LinuxSecurity,Fedora 43 OpenSC Critical Memory Corruption Buffer Overflow 2026-4440b00e25,https://linuxsecurity.com/advisories/fedora/fedora-opensc-2026-4440b00e25,https://da.gd/AqgZF
