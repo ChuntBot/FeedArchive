@@ -1,0 +1,42 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qqfj-4vcm-26hv] Wasmtime segfault or unused out-of-sandbox load with `f64x2.splat` operator on x86-64,https://github.com/advisories/GHSA-qqfj-4vcm-26hv,https://da.gd/kBODxx
+GithubAdvisories,[GHSA-m758-wjhj-p3jq] Wasmtime has a possible panic when lifting `flags` component value,https://github.com/advisories/GHSA-m758-wjhj-p3jq,https://da.gd/FyUf6h
+GithubAdvisories,[GHSA-jxhv-7h78-9775] Wasmtime: Panic when transcoding misaligned utf-16 strings,https://github.com/advisories/GHSA-jxhv-7h78-9775,https://da.gd/GCvfj
+GithubAdvisories,[GHSA-hfr4-7c6c-48w2] Wasmtime has use-after-free bug after cloning `wasmtime::Linker`,https://github.com/advisories/GHSA-hfr4-7c6c-48w2,https://da.gd/KaSxzq
+GithubAdvisories,[GHSA-9gjv-jvm7-vv2v] Gramps Web API: Private Sub-Object Data in Non-Private Objects Exposed to Guest Users,https://github.com/advisories/GHSA-9gjv-jvm7-vv2v,https://da.gd/Xq1H3
+GithubAdvisories,[GHSA-cm8v-2vh9-cxf3] OpenClaw: GIT_DIR and related git plumbing env vars missing from exec env denylist (GHSA-m866-6qv5-p2fg variant),https://github.com/advisories/GHSA-cm8v-2vh9-cxf3,https://da.gd/ofEzY4
+GithubAdvisories,[GHSA-9hfr-gw99-8rhx] bsv-sdk ARC broadcaster treats INVALID/MALFORMED/ORPHAN responses as successful broadcasts,https://github.com/advisories/GHSA-9hfr-gw99-8rhx,https://da.gd/FknH9x
+GithubAdvisories,[GHSA-hc36-c89j-5f4j] bsv-sdk and bsv-wallet persist unverified certifier signatures in acquire_certificate (direct and issuance paths),https://github.com/advisories/GHSA-hc36-c89j-5f4j,https://da.gd/4omSc
+GithubAdvisories,[GHSA-95h2-gj7x-gx9w] Unhead has a hasDangerousProtocol() bypass via leading-zero padded HTML entities in useHeadSafe(),https://github.com/advisories/GHSA-95h2-gj7x-gx9w,https://da.gd/bSdf
+GithubAdvisories,[GHSA-394w-hwhg-8vgm] Wasmtime has out-of-bounds write or crash when transcoding component model strings,https://github.com/advisories/GHSA-394w-hwhg-8vgm,https://da.gd/iMWb
+GithubAdvisories,[GHSA-6wgr-89rj-399p] Wasmtime has data leakage between pooling allocator instances,https://github.com/advisories/GHSA-6wgr-89rj-399p,https://da.gd/AeWKhx
+GithubAdvisories,[GHSA-jhxm-h53p-jm7w] Wasmtime: Miscompiled guest heap access enables sandbox escape on aarch64 Cranelift,https://github.com/advisories/GHSA-jhxm-h53p-jm7w,https://da.gd/iP1pNH
+GithubAdvisories,[GHSA-q49f-xg75-m9xw] Wasmtime has host panic when Winch compiler executes `table.fill`,https://github.com/advisories/GHSA-q49f-xg75-m9xw,https://da.gd/1u2y
+GithubAdvisories,[GHSA-m9w2-8782-2946] Wasmtime has host data leakage with 64-bit tables and Winch,https://github.com/advisories/GHSA-m9w2-8782-2946,https://da.gd/QBvKf
+GithubAdvisories,[GHSA-hx6p-xpx3-jvvv] Wasmtime: Heap OOB read in component model UTF-16 to latin1+utf16 string transcoding,https://github.com/advisories/GHSA-hx6p-xpx3-jvvv,https://da.gd/7rh8o
+GithubAdvisories,[GHSA-cjw9-ghj4-fwxf] fast-jwt has a ReDoS when using RegExp in allowed* leading to CPU exhaustion during token verification,https://github.com/advisories/GHSA-cjw9-ghj4-fwxf,https://da.gd/HOW2K
+GithubAdvisories,[GHSA-3j8v-cgw4-2g6q] fast-jwt: Stateful RegExp (/g or /y) causes non-deterministic allowed-claim validation (logical DoS),https://github.com/advisories/GHSA-3j8v-cgw4-2g6q,https://da.gd/KQSd7
+GithubAdvisories,[GHSA-ccx3-fw7q-rr2r] OpenClaw: Multiple Code Paths Missing Base64 Pre-Allocation Size Checks,https://github.com/advisories/GHSA-ccx3-fw7q-rr2r,https://da.gd/VXXTiR
+GithubAdvisories,[GHSA-3vvq-q2qc-7rmp] OpenClaw B-M3: ClawHub package downloads are not enforced with integrity verification,https://github.com/advisories/GHSA-3vvq-q2qc-7rmp,https://da.gd/mxit
+GithubAdvisories,[GHSA-qx8j-g322-qj6m] OpenClaw: `fetchWithSsrFGuard` replays unsafe request bodies across cross-origin redirects,https://github.com/advisories/GHSA-qx8j-g322-qj6m,https://da.gd/mEkZL0
+GithubAdvisories,[GHSA-w9j9-w4cp-6wgr] OpenClaw Host-Exec Environment Variable Injection,https://github.com/advisories/GHSA-w9j9-w4cp-6wgr,https://da.gd/rFcO2
+GithubAdvisories,[GHSA-w8g9-x8gx-crmm] OpenClaw: Strict browser SSRF bypass in Playwright redirect handling leaves private targets reachable,https://github.com/advisories/GHSA-w8g9-x8gx-crmm,https://da.gd/FshM
+GithubAdvisories,[GHSA-4f8g-77mw-3rxc] OpenClaw: Gateway plugin HTTP `auth: gateway` widens identity-bearing `operator.read` requests into runtime `operator.write`,https://github.com/advisories/GHSA-4f8g-77mw-3rxc,https://da.gd/sqqaA
+GithubAdvisories,[GHSA-vr5g-mmx7-h897] OpenClaw has Browser SSRF Policy Bypass via Interaction-Triggered Navigation,https://github.com/advisories/GHSA-vr5g-mmx7-h897,https://da.gd/DQ4PTL
+GithubAdvisories,[GHSA-67mf-f936-ppxf] OpenClaw `node.pair.approve` placed in `operator.write` scope instead of `operator.pairing` allows unprivileged pairing approval,https://github.com/advisories/GHSA-67mf-f936-ppxf,https://da.gd/jg5jQl
+GithubAdvisories,[GHSA-5fc7-f62m-8983] OpenClaw: Feishu docx upload_file/upload_image Bypasses Workspace-Only Filesystem Policy (GHSA-qf48-qfv4-jjm9 Incomplete Fix),https://github.com/advisories/GHSA-5fc7-f62m-8983,https://da.gd/W3CyKA
+GithubAdvisories,[GHSA-3fv3-6p2v-gxwj] OpenClaw QQ Bot Extension missing SSRF Protection on All Media Fetch Paths,https://github.com/advisories/GHSA-3fv3-6p2v-gxwj,https://da.gd/fTrca3
+GithubAdvisories,[GHSA-5h3f-885m-v22w] OpenClaw: Existing WS sessions survive shared gateway token rotation,https://github.com/advisories/GHSA-5h3f-885m-v22w,https://da.gd/HvMtEz
+GithubAdvisories,[GHSA-25wv-8phj-8p7r] OpenClaw: Concurrent async auth attempts can bypass the intended shared-secret rate-limit budget on Tailscale-capable paths,https://github.com/advisories/GHSA-25wv-8phj-8p7r,https://da.gd/MLiaS
+GithubAdvisories,[GHSA-5wj5-87vq-39xm] OpenClaw: Node Pairing Reconnect Command Escalation Bypasses operator.admin Scope Requirement,https://github.com/advisories/GHSA-5wj5-87vq-39xm,https://da.gd/EDbHbi
+GithubAdvisories,[GHSA-vc32-h5mq-453v] OpenClaw: /allowlist omits owner-only enforcement for cross-channel allowlist writes,https://github.com/advisories/GHSA-vc32-h5mq-453v,https://da.gd/aIZg4L
+GithubAdvisories,[GHSA-68x5-xx89-w9mm] OpenClaw: resolvedAuth closure becomes stale after config reload,https://github.com/advisories/GHSA-68x5-xx89-w9mm,https://da.gd/8kGeG
+GithubAdvisories,[GHSA-cmfr-9m2r-xwhq] OpenClaw `node.invoke(browser.proxy)` bypasses `browser.request` persistent profile-mutation guard,https://github.com/advisories/GHSA-cmfr-9m2r-xwhq,https://da.gd/8stdvj
+GithubAdvisories,"[GHSA-whf9-3hcx-gq54] OpenClaw `device.token.rotate` mints tokens for unapproved roles, bypassing device role-upgrade pairing",https://github.com/advisories/GHSA-whf9-3hcx-gq54,https://da.gd/iBiZ16
+GithubAdvisories,[GHSA-qqq7-4hxc-x63c] OpenClaw: Shared reply MEDIA - paths are treated as trusted and can trigger cross-channel local file exfiltration,https://github.com/advisories/GHSA-qqq7-4hxc-x63c,https://da.gd/7zineh
+GithubAdvisories,[GHSA-q2gc-xjqw-qp89] OpenClaw: strictInlineEval explicit-approval boundary bypassed by approval-timeout fallback on gateway and node exec hosts,https://github.com/advisories/GHSA-q2gc-xjqw-qp89,https://da.gd/rvl8Xs
+GithubAdvisories,[GHSA-h749-fxx7-pwpg] MinIO affected a DoS via Unbounded Memory Allocation in S3 Select CSV Parsing,https://github.com/advisories/GHSA-h749-fxx7-pwpg,https://da.gd/ERq7S
+GithubAdvisories,[GHSA-3p68-rc4w-qgx5] Axios has a NO_PROXY Hostname Normalization Bypass Leads to SSRF,https://github.com/advisories/GHSA-3p68-rc4w-qgx5,https://da.gd/dYLj0
+GithubAdvisories,"[GHSA-7437-7hg8-frrw] OpenClaw: HGRCPATH, CARGO_BUILD_RUSTC_WRAPPER, RUSTC_WRAPPER, and MAKEFLAGS missing from exec env denylist — RCE via build tool env injection (GHSA-cm8v-2vh9-cxf3 class)",https://github.com/advisories/GHSA-7437-7hg8-frrw,https://da.gd/M6H5OT
+GithubAdvisories,[GHSA-jf56-mccx-5f3f] OpenClaw: Authenticated `/hooks/wake` and mapped `wake` payloads are promoted into the trusted `System:` prompt channel,https://github.com/advisories/GHSA-jf56-mccx-5f3f,https://da.gd/EPGWr
+GithubAdvisories,"[GHSA-gfmx-pph7-g46x] OpenClaw: Lower-trust background runtime output is injected into trusted `System:` events, and local async exec completion misses the intended `exec-event` downgrade",https://github.com/advisories/GHSA-gfmx-pph7-g46x,https://da.gd/iVKaB
