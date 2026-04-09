@@ -1,0 +1,65 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2679-6mx9-h9xc] Marimo: Pre-Auth Remote Code Execution via Terminal WebSocket Authentication Bypass,https://github.com/advisories/GHSA-2679-6mx9-h9xc,https://da.gd/x5Ys
+GithubAdvisories,[GHSA-2763-cj5r-c79m] PraisonAI Vulnerable to OS Command Injection,https://github.com/advisories/GHSA-2763-cj5r-c79m,https://da.gd/LrNsIZ
+GithubAdvisories,[GHSA-68m9-983m-f3v5] OpenFGA: Unauthenticated playground endpoint discloses preshared API key in HTML response,https://github.com/advisories/GHSA-68m9-983m-f3v5,https://da.gd/CW6it
+GithubAdvisories,[GHSA-926x-3r5x-gfhw] LangChain has incomplete f-string validation in prompt templates,https://github.com/advisories/GHSA-926x-3r5x-gfhw,https://da.gd/JfAxy
+GithubAdvisories,[GHSA-5478-66c3-rhxr] Pretext: Algorithmic Complexity (DoS) in the text analysis phase,https://github.com/advisories/GHSA-5478-66c3-rhxr,https://da.gd/gVz169
+GithubAdvisories,[GHSA-8jg2-726g-xh43] parisneo/lollms has an insufficient session expiration vulnerability,https://github.com/advisories/GHSA-8jg2-726g-xh43,https://da.gd/DrxUti
+GithubAdvisories,[GHSA-chqc-8p9q-pq6q] basic-ftp has FTP Command Injection via CRLF,https://github.com/advisories/GHSA-chqc-8p9q-pq6q,https://da.gd/xjYw9
+GithubAdvisories,[GHSA-5gfj-64gh-mgmw] AGiXT Vulnerable to Path Traversal in safe_join(),https://github.com/advisories/GHSA-5gfj-64gh-mgmw,https://da.gd/NndcC
+GithubAdvisories,[GHSA-349c-2h2f-mxf6] Laravel Passport: TokenGuard Authenticates Unrelated User for Client Credentials Tokens,https://github.com/advisories/GHSA-349c-2h2f-mxf6,https://da.gd/LFdLFI
+GithubAdvisories,[GHSA-4ggg-h7ph-26qr] n8n-mcp has authenticated SSRF via instance-URL header in multi-tenant HTTP mode,https://github.com/advisories/GHSA-4ggg-h7ph-26qr,https://da.gd/gKlRW
+GithubAdvisories,[GHSA-hwr4-mq23-wcv5] mercure has Topic Selector Cache Key Collision,https://github.com/advisories/GHSA-hwr4-mq23-wcv5,https://da.gd/kqKnlT
+GithubAdvisories,"[GHSA-xrw6-gwf8-vvr9] Tmds.DBus: malicious D-Bus peers can spoof signals, exhaust file descriptor resources, and cause denial of service",https://github.com/advisories/GHSA-xrw6-gwf8-vvr9,https://da.gd/8bvvXQ
+GithubAdvisories,[GHSA-wpwf-v25w-54g3] PowerJob's GroovyEvaluator.evaluate endpoint vulnerable to code injection,https://github.com/advisories/GHSA-wpwf-v25w-54g3,https://da.gd/gVwB2u
+GithubAdvisories,[GHSA-4fp2-3xgg-jg4w] PowerJob vulnerable to SQL injection,https://github.com/advisories/GHSA-4fp2-3xgg-jg4w,https://da.gd/AA5jY
+GithubAdvisories,[GHSA-h336-2wxm-pr6q] OpenViking contains a missing authorization vulnerability in the task polling endpoints,https://github.com/advisories/GHSA-h336-2wxm-pr6q,https://da.gd/LquW9
+GithubAdvisories,[GHSA-qffm-gf3j-6mvg] Apache Cassandra has an authenticated DoS over CQL,https://github.com/advisories/GHSA-qffm-gf3j-6mvg,https://da.gd/PoFXa
+GithubAdvisories,[GHSA-fh34-c629-p8xj] Apache Cassandra has sensitive Information Leak in cqlsh,https://github.com/advisories/GHSA-fh34-c629-p8xj,https://da.gd/keaf
+GithubAdvisories,[GHSA-h2h4-5m64-m273] Apache ActiveMQ: Improper validation and restriction of a classpath path name,https://github.com/advisories/GHSA-h2h4-5m64-m273,https://da.gd/yfgRCy
+GithubAdvisories,[GHSA-3xxc-pwj6-jgrj] rfc3161-client Has Improper Certificate Validation,https://github.com/advisories/GHSA-3xxc-pwj6-jgrj,https://da.gd/vIyuI
+GithubAdvisories,[GHSA-h259-74h5-4rh9] XWiki vulnerable to remote code execution with script right through unprotected Velocity scripting API,https://github.com/advisories/GHSA-h259-74h5-4rh9,https://da.gd/pkD66c
+GithubAdvisories,[GHSA-gc59-r5jq-98qw] Eclipse Jetty: Early return from the JASPIAuthenticator code can potentially no clear ThreadLocal variables,https://github.com/advisories/GHSA-gc59-r5jq-98qw,https://da.gd/rvJoe
+GithubAdvisories,[GHSA-jpcj-7wfg-mqxv] stata-mcp has insufficient validation of user-supplied Stata do-file content that can lead to command execution,https://github.com/advisories/GHSA-jpcj-7wfg-mqxv,https://da.gd/tWz7J
+GithubAdvisories,[GHSA-wr8q-c73g-m7gp] pretix: API leaks check-in data between events of the same organizer,https://github.com/advisories/GHSA-wr8q-c73g-m7gp,https://da.gd/mI1k7T
+GithubAdvisories,[GHSA-p423-j2cm-9vmq] Cryptography vulnerable to buffer overflow if non-contiguous buffers were passed to APIs,https://github.com/advisories/GHSA-p423-j2cm-9vmq,https://da.gd/fjC4YA
+GithubAdvisories,[GHSA-hqxq-hwqf-wg83] monetr: Protected Transactions Deletable via PUT,https://github.com/advisories/GHSA-hqxq-hwqf-wg83,https://da.gd/1mCtxg
+GithubAdvisories,[GHSA-v6ph-xcq9-qxxj] mcp-from-openapi is Vulnerable to SSRF via $ref Dereferencing in Untrusted OpenAPI Specifications,https://github.com/advisories/GHSA-v6ph-xcq9-qxxj,https://da.gd/9XC5E
+GithubAdvisories,[GHSA-qxpc-96fq-wwmg] Apache Cassandra is vulnerable to privilege escalation in an mTLS environment using MutualTlsAuthenticator,https://github.com/advisories/GHSA-qxpc-96fq-wwmg,https://da.gd/9hDgEl
+GithubAdvisories,[GHSA-hfvc-g4fc-pqhx] opentelemetry-go: BSD kenv command not using absolute path enables PATH hijacking,https://github.com/advisories/GHSA-hfvc-g4fc-pqhx,https://da.gd/G2Zb
+GithubAdvisories,[GHSA-w8rr-5gcm-pp58] opentelemetry-go: OTLP HTTP exporters read unbounded HTTP response bodies,https://github.com/advisories/GHSA-w8rr-5gcm-pp58,https://da.gd/vS7tZ
+GithubAdvisories,[GHSA-766v-q9x3-g744] PraisonAI has Memory State Leakage and Path Traversal in MultiAgent Context Handling,https://github.com/advisories/GHSA-766v-q9x3-g744,https://da.gd/ZBnyk
+GithubAdvisories,[GHSA-hwg5-x759-7wjg] PraisonAI has Template Injection in Agent Tool Definitions,https://github.com/advisories/GHSA-hwg5-x759-7wjg,https://da.gd/JmTekf
+GithubAdvisories,[GHSA-f292-66h9-fpmf] PraisonAI Has Unauthenticated SSE Event Stream that Exposes All Agent Activity in A2U Server,https://github.com/advisories/GHSA-f292-66h9-fpmf,https://da.gd/TCFZ
+GithubAdvisories,[GHSA-qf73-2hrx-xprp] PraisonAI has sandbox escape via exception frame traversal in `execute_code` (subprocess mode),https://github.com/advisories/GHSA-qf73-2hrx-xprp,https://da.gd/bdco8Y
+GithubAdvisories,[GHSA-32vr-5gcf-3pw2] PraisonAI Vulnerable to Remote Code Execution via YAML Deserialization in Agent Definition Loading,https://github.com/advisories/GHSA-32vr-5gcf-3pw2,https://da.gd/0vhIv
+GithubAdvisories,[GHSA-vfhx-5459-qhqh] CI4MS Vulnerable to .env CRLF Injection via Unvalidated `host` Parameter in Install Controller,https://github.com/advisories/GHSA-vfhx-5459-qhqh,https://da.gd/2tBdF
+GithubAdvisories,[GHSA-8rh5-4mvx-xj7j] CI4MS Vulnerable to Post-Installation Re-entry via Cache-Dependent Install Guard Bypass,https://github.com/advisories/GHSA-8rh5-4mvx-xj7j,https://da.gd/jHDMX6
+GithubAdvisories,[GHSA-fjpj-6qcq-6pw2] CI4MS has stored XSS in Pages Content Due to Missing html_purify Sanitization,https://github.com/advisories/GHSA-fjpj-6qcq-6pw2,https://da.gd/GJW8ru
+GithubAdvisories,[GHSA-7cm9-v848-cfh2] CI4MS has stored XSS via Unescaped Blacklist Note in Admin User List,https://github.com/advisories/GHSA-7cm9-v848-cfh2,https://da.gd/pyINs
+GithubAdvisories,[GHSA-x3hr-cp7x-44r2] CI4MS has stored XSS via srcdoc attribute bypass in Google Maps iframe setting,https://github.com/advisories/GHSA-x3hr-cp7x-44r2,https://da.gd/zCP5Gh
+GithubAdvisories,[GHSA-9rxp-f27p-wv3h] CI4MS has a Hidden Items Authorization Bypass in Fileeditor Allows Reading Secrets and Writing Protected Files,https://github.com/advisories/GHSA-9rxp-f27p-wv3h,https://da.gd/MUZma
+GithubAdvisories,[GHSA-jx2w-vp7f-456q] quarkus-openapi-generator extension has Zip Slip Path Traversal in ApicurioCodegenWrapper class,https://github.com/advisories/GHSA-jx2w-vp7f-456q,https://da.gd/1hCj
+GithubAdvisories,[GHSA-q4gv-pjmh-c735] Open Cluster Management (OCM): Cross-cluster privilege escalation via improper Kubernetes client certificate renewal validation,https://github.com/advisories/GHSA-q4gv-pjmh-c735,https://da.gd/VU7Pv
+GithubAdvisories,[GHSA-rphv-h674-5hp2] Fleet Affected by Local Privilege Escalation via Tcl Command Injection in Orbit,https://github.com/advisories/GHSA-rphv-h674-5hp2,https://da.gd/ZtN6Q
+GithubAdvisories,[GHSA-qj83-cq47-w5f8] Axios HTTP/2 Session Cleanup State Corruption Vulnerability,https://github.com/advisories/GHSA-qj83-cq47-w5f8,https://da.gd/xZ7Qph
+GithubAdvisories,[GHSA-mmwr-2jhp-mc7j] Django vulnerable to privilege abuse in ModelAdmin.list_editable,https://github.com/advisories/GHSA-mmwr-2jhp-mc7j,https://da.gd/qnCuZ
+GithubAdvisories,[GHSA-pwjp-ccjc-ghwg] Django vulnerable to privilege abuse in GenericInlineModelAdmin,https://github.com/advisories/GHSA-pwjp-ccjc-ghwg,https://da.gd/WcKSys
+GithubAdvisories,[GHSA-mvfq-ggxm-9mc5] Django vulnerable to ASGI header spoofing via underscore/hyphen conflation,https://github.com/advisories/GHSA-mvfq-ggxm-9mc5,https://da.gd/3KK9Ix
+GithubAdvisories,[GHSA-5mf9-h53q-7mhq] Django has potential DoS via MultiPartParser through crafted multipart uploads,https://github.com/advisories/GHSA-5mf9-h53q-7mhq,https://da.gd/ZAY6pJ
+GithubAdvisories,[GHSA-933h-hp56-hf7m] Django: SGI requests with a missing or understated `Content-Length` header could bypass the `DATA_UPLOAD_MAX_MEMORY_SIZE` limit,https://github.com/advisories/GHSA-933h-hp56-hf7m,https://da.gd/JywvUz
+GithubAdvisories,[GHSA-p8xc-w3q4-h64x] OpenEXR: DWA Lossy Decoder Heap Out-of-Bounds Write,https://github.com/advisories/GHSA-p8xc-w3q4-h64x,https://da.gd/avSXxK
+GithubAdvisories,[GHSA-588r-cr5c-w6hf] OpenEXR has a signed 32-bit Overflow in PIZ Decoder Leads to OOB Read/Write,https://github.com/advisories/GHSA-588r-cr5c-w6hf,https://da.gd/xQmO5c
+GithubAdvisories,[GHSA-fh64-r2vc-xvhr] MLflow is vulnerable to Stored Cross-Site Scripting (XSS) caused by unsafe parsing of YAML-based MLmodel artifacts in its web interface,https://github.com/advisories/GHSA-fh64-r2vc-xvhr,https://da.gd/hddyiI
+GithubAdvisories,[GHSA-vvjj-xcjg-gr5g] Nodemailer Vulnerable to SMTP Command Injection via CRLF in Transport name Option (EHLO/HELO),https://github.com/advisories/GHSA-vvjj-xcjg-gr5g,https://da.gd/ehWS
+GithubAdvisories,[GHSA-h9mw-h4qc-f5jf] kubernetes-graphql-gateway: GraphQL Endpoint Vulnerable to Authenticated Denial-of-Service via Unrestricted Query Execution,https://github.com/advisories/GHSA-h9mw-h4qc-f5jf,https://da.gd/sQVxz
+GithubAdvisories,[GHSA-v273-448j-v4qj] LiquidJS: `renderFile()` / `parseFile()` bypass configured `root` and allow arbitrary file read,https://github.com/advisories/GHSA-v273-448j-v4qj,https://da.gd/4f3xAi
+GithubAdvisories,[GHSA-rv5g-f82m-qrvv] LiquidJS: ownPropertyOnly bypass via sort_natural filter — prototype property information disclosure through sorting side-channel,https://github.com/advisories/GHSA-rv5g-f82m-qrvv,https://da.gd/n3TA4q
+GithubAdvisories,[GHSA-5mwj-v5jw-5c97] LobeHub: Unauthenticated authentication bypass on `webapi` routes via forgeable `X-lobe-chat-auth` header,https://github.com/advisories/GHSA-5mwj-v5jw-5c97,https://da.gd/O2ab4
+GithubAdvisories,[GHSA-3j3q-wp9x-585p] kcp's cache server is accessible without authentication or authorization checks,https://github.com/advisories/GHSA-3j3q-wp9x-585p,https://da.gd/o79p
+GithubAdvisories,[GHSA-w8wv-vfpc-hw2w] NiceGUI: Upload filename sanitization bypass via backslashes allows path traversal on Windows,https://github.com/advisories/GHSA-w8wv-vfpc-hw2w,https://da.gd/enQ6wt
+GithubAdvisories,[GHSA-phhp-9rm9-6gr2] SiYuan: Remote Code Execution in the Electron desktop client via stored XSS in synced table captions,https://github.com/advisories/GHSA-phhp-9rm9-6gr2,https://da.gd/gWKsS
+GithubAdvisories,[GHSA-56p5-8mhr-2fph] LiquidJS: Root restriction bypass for partial and layout loading through symlinked templates,https://github.com/advisories/GHSA-56p5-8mhr-2fph,https://da.gd/RnpzRS
+GithubAdvisories,[GHSA-mmg9-6m6j-jqqx] LiquidJS Has Memory Limit Bypass via Quadratic Amplification in `replace` Filter,https://github.com/advisories/GHSA-mmg9-6m6j-jqqx,https://da.gd/7H4nH
+GithubAdvisories,[GHSA-6rgf-v8fm-jf4g] Malware in @fairwords/encryption,https://github.com/advisories/GHSA-6rgf-v8fm-jf4g,https://da.gd/2BNzRW
+GithubAdvisories,[GHSA-wr82-83f6-47v8] Malware in @fairwords/websocket,https://github.com/advisories/GHSA-wr82-83f6-47v8,https://da.gd/0dUcs
