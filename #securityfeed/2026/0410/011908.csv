@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 16.04 HWE Kernel Critical Security Flaws USN-8145-4,https://linuxsecurity.com/advisories/ubuntu/ubuntu-linux-kernel-8145-4,https://da.gd/lnGFe
+LinuxSecurity,Ubuntu 24.04 LTS Security Advisory USN-8165-1 Kernel Updates for Privileges,https://linuxsecurity.com/advisories/ubuntu/ubuntu-linux-kernel-8165-1,https://da.gd/buSq3
+LinuxSecurity,Ubuntu 22.04 LTS USN-8164-1 Linux-Intel-IoT Real-time Critical Flaws,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8164-1-linux-kernel,https://da.gd/lgh6y
+LinuxSecurity,Debian LTS 1.34-1 libyaml-syck-perl Critical Buffer Overflow CVE-2025-11683,https://linuxsecurity.com/advisories/deblts/debian-dla-4525-1-libyaml-syck-perl,https://da.gd/pUHz
+LinuxSecurity,Ubuntu 22.04 LTS Linux Kernel Critical AppArmor Escalation USN-8163-1,https://linuxsecurity.com/advisories/ubuntu/linux-kernel-ubuntu-8163-1-azure-fips,https://da.gd/6yKxnI
+LinuxSecurity,Ubuntu 20.04 LTS 8162-1 Linux Kernel Critical Security Fix,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8162-1-linux-kernel-nvidia-tegra,https://da.gd/dmj4x
