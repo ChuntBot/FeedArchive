@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42 OpenSC Important Memory Issues Stack Overflow CVE-2025-66038,https://linuxsecurity.com/advisories/fedora/fedora-42-opensc-2026-de85b06438,https://da.gd/yUlQQy
+LinuxSecurity,Fedora 42 dnsdist DoS Issues Fixed with Advisory 2026-637c11815f,https://linuxsecurity.com/advisories/fedora/dnsdist-fedora-42-2026-637c11815f,https://da.gd/kZ2Pm
+LinuxSecurity,Fedora 42 doctl 1.154.0 Critical File Write Vulnerability Uncovered,https://linuxsecurity.com/advisories/fedora/fedora-42-doctl-2026-729f84f3b6,https://da.gd/28Oliw
+LinuxSecurity,Fedora 42 libpng12 Important Heap Overflow Fix CVE-2026-25646,https://linuxsecurity.com/advisories/fedora/libpng12-fedora-42-2026-1bf9e14627,https://da.gd/Gf9Jm
+LinuxSecurity,Fedora 42 libpng15 Critical Heap Buffer Overflow Fix CVE-2026-25646,https://linuxsecurity.com/advisories/fedora/libpng15-fedora-42-2026-4e514c1c36,https://da.gd/Fditqh
+LinuxSecurity,Fedora 42 libcgif Critical Integer Overflow Advisory CVE-2026-4985,https://linuxsecurity.com/advisories/fedora/libcgif-fedora-42-2026-7716e480cb,https://da.gd/hZo3We
