@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian Bookworm gdk-pixbuf Important JPEG Code Execution DoS DSA-6206-1,https://linuxsecurity.com/advisories/debian/debian-dsa-6206-1-gdk-pixbuf,https://da.gd/gOVwwN
+LinuxSecurity,Ubuntu Server 22 LTS Security Patch Notification RLSB-2026-4732,https://linuxsecurity.com/advisories/rockylinux/rocky-linux-rlsa-2026-6570-kernel,https://da.gd/k9SBOs
+LinuxSecurity,Alpine Linux 3.17 kernel-lts Essential Security Patch RLSB-2028-8843,https://linuxsecurity.com/advisories/rockylinux/rocky-linux-rlsa-2026-6572-kernel-rt,https://da.gd/ev2Me
+LinuxSecurity,Rocky Linux 8 RLSA-2026-6582 Kernel Significant Security Vulnerability,https://linuxsecurity.com/advisories/rockylinux/rocky-linux-rlsa-2026-6571-kernel,https://da.gd/hr4Cqv
+LinuxSecurity,Fedora Silverblue podman-cli Significant Security Patch 2026-20485-2,https://linuxsecurity.com/advisories/opensuse/opensuse-tekton-cli-0-44-1-1-1,https://da.gd/zhBXcH
+LinuxSecurity,openSUSE Tumbleweed libradcli Security Advisory CVE-2024-3596 Moderate,https://linuxsecurity.com/advisories/opensuse/libradcli10-1-5-0-opensuse-2026-10528-1,https://da.gd/eSvigB
