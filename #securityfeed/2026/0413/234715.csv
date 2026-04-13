@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 22.04 LTS kvmtool Severe DoS RCE Security Flaw USN-8172-1,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8172-1-kvmtool,https://da.gd/uUvrUs
+LinuxSecurity,Ubuntu 25.10 xdg-dbus-proxy Important Local Attack Exposure USN-8167-1,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8167-1-xdg-dbus-proxy,https://da.gd/ltJi1
+LinuxSecurity,Ubuntu 25.10 rustc Critical Permissions Escalation USN-8168-1,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8168-1-rust,https://da.gd/CFc8aI
+LinuxSecurity,Ubuntu 25.10 Corosync Faces Critical DoS Vulnerability 2026-35091,https://linuxsecurity.com/advisories/ubuntu/corosync-ubuntu-8170-1,https://da.gd/YAvnQ
+LinuxSecurity,Fedora Rawhide python3-bioformats Low Risk 2026-20348-2,https://linuxsecurity.com/advisories/opensuse/python311-biopython-1-87,https://da.gd/AC6xl
+LinuxSecurity,openSUSE Tumbleweed libcap-devel Moderate Threat Secured 2026-10536-1,https://linuxsecurity.com/advisories/opensuse/libcap-devel-2-78-1-opensuse,https://da.gd/EdBvpo
