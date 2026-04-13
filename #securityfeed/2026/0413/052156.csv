@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42 pdns-recursor 5.2.8 Update Addresses Serious DoS Vulnerabilities,https://linuxsecurity.com/advisories/fedora/pdns-recursor-fedora-42-2026-2490896a5d,https://da.gd/JRbiX
+LinuxSecurity,Fedora 42 VIM Critical Exec Issues CVE-2026-34714 2026-c718defeb6,https://linuxsecurity.com/advisories/fedora/fedora-42-vim-2026-c718defeb6,https://da.gd/xtZ8H
+LinuxSecurity,Fedora 42 polkit Fix for Critical CVE-2026-4897 Unsanitized Getline Issue,https://linuxsecurity.com/advisories/fedora/fedora-42-polkit-2026-1774635f74,https://da.gd/s87Ep1
