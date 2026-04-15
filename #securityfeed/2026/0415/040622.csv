@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian DSA-6211-1 Thunderbird Important Exec Code Security Risk,https://linuxsecurity.com/advisories/debian/debian-dsa-6211-1-thunderbird,https://da.gd/YcWR9T
+LinuxSecurity,SUSE 2026-1320-1 Go1.26 Important Security Fix for Multiple Issues,https://linuxsecurity.com/advisories/suse/go-suse-2026-1320-1,https://da.gd/uCv2v
+LinuxSecurity,SUSE 2026 go1.25 Important Memory Corruption Fix Advisory 1321-1,https://linuxsecurity.com/advisories/suse/suse-go1-25-2026-1321-1,https://da.gd/XHyVW
+LinuxSecurity,SUSE 15 SP7 MozillaFirefox Important Memory Safety Patch 2026-1322-1,https://linuxsecurity.com/advisories/suse/mozilla-firefox-suse-2026-1322-1,https://da.gd/1yXVyz
+LinuxSecurity,SUSE 2026 libpng16 Important Use-After-Free Code Exec CVE-2026-33416,https://linuxsecurity.com/advisories/suse/libpng16-suse-2026-1323-1,https://da.gd/XsoZk9
+LinuxSecurity,SUSE Linux Enterprise 12 SP5 ClamAV Moderate DoS 2026-1324-1 CVE-2026-20031,https://linuxsecurity.com/advisories/suse/clamav-suse-2026-1324-1,https://da.gd/frN8v
