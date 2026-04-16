@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 25.10 frr Medium Unapproved Entry Flaw USN-8175-1,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8175-1-frr,https://da.gd/nIgn8
+LinuxSecurity,Fedora 42 python-cairosvg Moderate Exponential DoS Fix 2026-a2778fcae6,https://linuxsecurity.com/advisories/fedora/python-cairosvg-fedora-42-2026-a2778fcae6,https://da.gd/86QNr
+LinuxSecurity,Fedora 42 cef High Update ID 2026-e0c31e9e7e Multiple Security Risks,https://linuxsecurity.com/advisories/fedora/fedora-42-cef-2026-e0c31e9e7e,https://da.gd/it3U0w
+LinuxSecurity,Fedora 42 moby-engine 29.4.0 Important Denial of Service CVE-2026-34986,https://linuxsecurity.com/advisories/fedora/moby-engine-fedora-2026-49fd0d9636,https://da.gd/sbH72
+LinuxSecurity,Fedora 42 Erlang Update Critical DNS Poisoning Addresses 2026-dd4a7e240e,https://linuxsecurity.com/advisories/fedora/fedora-42-erlang-2026-dd4a7e240e,https://da.gd/BTvef
+LinuxSecurity,Fedora 42 mingw-openexr Critical Denial of Service Fix 2026-d939698c2e,https://linuxsecurity.com/advisories/fedora/mingw-openexr-fedora-42-2026-d939698c2e,https://da.gd/Qi08
