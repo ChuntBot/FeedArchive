@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 24.04 LTS ESAPI Critical XSS Control-Flow Bypass USN-8181-1,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8181-1-esapi,https://da.gd/xQiSD
+LinuxSecurity,SUSE 2026 Util-linux Moderate Access Control Bypass 2026-1406-1,https://linuxsecurity.com/advisories/suse/util-linux-suse-2026-1406-1,https://da.gd/2rsFqs
+LinuxSecurity,SUSE Linux Enterprise Server 12 SP5 Moderate TIFF Security Issues Found,https://linuxsecurity.com/advisories/suse/tiff-suse-2026-1407-1,https://da.gd/X1tdMQ
+LinuxSecurity,SUSE 2026 TIFF Moderate Issues NULL Pointer Buffer Overflow 2026-1408-1,https://linuxsecurity.com/advisories/suse/tiff-suse-2026-1408-1,https://da.gd/Esj5F
+LinuxSecurity,Ubuntu Server 22.04 SUSE-SU-2027-1560-3 Major Security Flaws in Ansible,https://linuxsecurity.com/advisories/opensuse/opensuse-2026-1411-1-terraform-provider,https://da.gd/NQDgD
+LinuxSecurity,openSUSE 2026 1411-1 terraform-provider Important Data Integrity Fix,https://linuxsecurity.com/advisories/suse/terraform-provider-local-random-tls,https://da.gd/qaf0Mp
