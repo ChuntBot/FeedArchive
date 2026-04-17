@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 43 Skopeo Critical DoS Security Fix FEDORA-2026-75c2b7868a,https://linuxsecurity.com/advisories/fedora/skopeo-fedora-2026-75c2b7868a,https://da.gd/JdWOy
+LinuxSecurity,Fedora 43 Podman CVE-2026-34986 Denial of Service Security Update,https://linuxsecurity.com/advisories/fedora/podman-fedora-43-2026-75c2b7868a,https://da.gd/Y63KK
+LinuxSecurity,Fedora 43 libexif Medium Denial of Service Info Leak Vulnerability,https://linuxsecurity.com/advisories/fedora/libexif-fedora-43-2026-78adb25141,https://da.gd/tIkibd
+LinuxSecurity,Fedora 43 Buildah Critical Denial Of Service Vuln FEDORA-2026-75c2b7868a,https://linuxsecurity.com/advisories/fedora/fedora-43-buildah-2026-75c2b7868a,https://da.gd/dfVZue
+LinuxSecurity,Fedora 43 Nix 2.31.4 Serious Privilege Escalation Flaw GHSA-g3g9-5vj6-r3gj,https://linuxsecurity.com/advisories/fedora/fedora-43-nix-2026-6c1a1c78c1,https://da.gd/UA35r
