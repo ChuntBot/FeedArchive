@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian Bookworm Chromium Critical Code Execution DoS Advisory DSA-6214-1,https://linuxsecurity.com/advisories/debian/debian-dsa-6214-1-chromium,https://da.gd/Pqgu8
+LinuxSecurity,SUSE 12 SP5 Python Important Patch 5 Issues 2026-1417-1,https://linuxsecurity.com/advisories/suse/suse-python-2026-1417-1,https://da.gd/mwS9a7
+LinuxSecurity,SUSE connectivity tool iproute2 Potential DDoS Risk SUSE-SU-2026-1450-5,https://linuxsecurity.com/advisories/suse/iproute2-suse-2026-1418-1,https://da.gd/itNVId
+LinuxSecurity,openSUSE networking tools Risk Notice CVE-2025-67126 SUSE-SU-2027-1532-2,https://linuxsecurity.com/advisories/opensuse/iproute2-opensuse-2026-1418-1,https://da.gd/762F
+LinuxSecurity,SUSE Linux Enterprise Micro Update 2026-1419-1 NetworkManager Moderate Risk,https://linuxsecurity.com/advisories/suse/networkmanager-suse-2026-1419-1,https://da.gd/mx2Dzy
+LinuxSecurity,SUSE 2026 NetworkManager Moderate Certificate Access Issue 1420-1,https://linuxsecurity.com/advisories/suse/networkmanager-suse-2026-1420-1,https://da.gd/yBh2e
