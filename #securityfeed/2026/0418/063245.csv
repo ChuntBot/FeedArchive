@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42 mingw-LibRaw Critical Exec Issues CVE-2026-20884 2026-826db1b5c0,https://linuxsecurity.com/advisories/fedora/mingw-libraw-fedora-42-2026,https://da.gd/Fmo5
+LinuxSecurity,Fedora 42 smb4k 4.0.6 Critical Local Root Exploit Vulnerabilities Revealed,https://linuxsecurity.com/advisories/fedora/smb4k-fedora-42-2026-4ce552d940,https://da.gd/zQabce
+LinuxSecurity,Fedora 42 stb Image Uninitialized Memory Access Fix 2026-651e3129a9,https://linuxsecurity.com/advisories/fedora/fedora-42-stb-2026-651e3129a9,https://da.gd/Lt5O
+LinuxSecurity,Fedora 42 Monkey's Audio Critical Update for Out-of-Bounds Read Issue,https://linuxsecurity.com/advisories/fedora/fedora-42-mac-2026-43278d411e,https://da.gd/IpCv
+LinuxSecurity,Fedora 42 Aqualung FEDORA-2026-43278d411e Critical Out-of-Bounds Fix,https://linuxsecurity.com/advisories/fedora/aqualung-fedora-42-2026-43278d411e,https://da.gd/AoParx
+LinuxSecurity,Fedora 42 mbedtls Critical Update Fixes Buffer Underflow in Resumption,https://linuxsecurity.com/advisories/fedora/mbedtls-fedora-2026-10443c65e3,https://da.gd/Lxm8D
