@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Mageia 9 Polkit Critical Out Of Bounds Write Vulnerability MGASA-2026-0100,https://linuxsecurity.com/advisories/mageia/mageia-polkit-122,https://da.gd/9FGu2W
+LinuxSecurity,Mageia 9 python-astropy Bug Fix Advisory MGAA-2026-0028,https://linuxsecurity.com/advisories/mageia/mageia-2026-0028-python-astropy,https://da.gd/SvVj8x
+LinuxSecurity,Debian DSA-6217-1 Luanti Important Sandbox Escape Security Issues,https://linuxsecurity.com/advisories/debian/debian-dsa-6217-1-luanti,https://da.gd/wlPyM
+LinuxSecurity,Debian DSA-6216-1 OPAM Critical Directory Traversal Issue CVE-2026-41082,https://linuxsecurity.com/advisories/debian/debian-dsa-6216-1-opam,https://da.gd/tuFoO
+LinuxSecurity,Debian Bookworm DSA-6215-1 GIMP Important Denial of Service,https://linuxsecurity.com/advisories/debian/debian-dsa-6215-1-gimp,https://da.gd/oRmRa
+LinuxSecurity,Gentoo DTrace Arbitrary File Creation Normal Risk 202604-04,https://linuxsecurity.com/advisories/gentoo/gentoo-glsa-202604-04-dtrace-arbitrary-file-creation,https://da.gd/JExnk
