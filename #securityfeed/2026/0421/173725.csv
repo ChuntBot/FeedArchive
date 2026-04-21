@@ -1,0 +1,27 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7ccv-rp6m-rffr] OpenBao's Certificate Authentication Allows Token Renewal With Different Certificate,https://github.com/advisories/GHSA-7ccv-rp6m-rffr,https://da.gd/pCuxGE
+GithubAdvisories,[GHSA-2gw9-c2r2-f5qf] Neko has a Self-service Privilege Escalation for Authenticated Users,https://github.com/advisories/GHSA-2gw9-c2r2-f5qf,https://da.gd/bu5QaE
+GithubAdvisories,[GHSA-7jqv-fw35-gmx9] nbconvert has an Arbitrary File Read via Path Traversal in HTMLExporter Image Embedding,https://github.com/advisories/GHSA-7jqv-fw35-gmx9,https://da.gd/rGCcTV
+GithubAdvisories,[GHSA-4c99-qj7h-p3vg] nbconvert has an Arbitrary File Write via Path Traversal in Cell Attachment Filenames,https://github.com/advisories/GHSA-4c99-qj7h-p3vg,https://da.gd/Zscz
+GithubAdvisories,[GHSA-7gcj-phff-2884] Signal K Server has an Unauthenticated Regular Expression Denial of Service (ReDoS) via WebSocket Subscription Paths,https://github.com/advisories/GHSA-7gcj-phff-2884,https://da.gd/Z6XD
+GithubAdvisories,[GHSA-jvwg-phxx-j3rp] October CMS: Editor Sub-Permission Bypass for Asset and Blueprint File Operations,https://github.com/advisories/GHSA-jvwg-phxx-j3rp,https://da.gd/9yP5zT
+GithubAdvisories,[GHSA-jj38-h5w5-mvpf] October CMS: Reflected XSS via DataTable Form Widget,https://github.com/advisories/GHSA-jj38-h5w5-mvpf,https://da.gd/90O9x
+GithubAdvisories,[GHSA-h6jm-f4hh-fw27] October CMS has Safe Mode Bypass via Twig Database Write Operations,https://github.com/advisories/GHSA-h6jm-f4hh-fw27,https://da.gd/AFYVz
+GithubAdvisories,[GHSA-3888-q23f-x7qh] October CMS has Safe Mode Bypass via CSS Preprocessor Compilers,https://github.com/advisories/GHSA-3888-q23f-x7qh,https://da.gd/qNFLv8
+GithubAdvisories,[GHSA-rmx9-2pp3-xhcr] Tekton Pipelines has VerificationPolicy regex pattern bypass via substring matching,https://github.com/advisories/GHSA-rmx9-2pp3-xhcr,https://da.gd/SOLfSI
+GithubAdvisories,[GHSA-xq8m-7c5p-c2r6] Auth0 Next.js SDK has Improper Proxy Cache Lookup,https://github.com/advisories/GHSA-xq8m-7c5p-c2r6,https://da.gd/DPU5f
+GithubAdvisories,[GHSA-665x-ppc4-685w] OpenMage LTS: Cross-user wishlist import leads to private option & file disclosure,https://github.com/advisories/GHSA-665x-ppc4-685w,https://da.gd/erla1
+GithubAdvisories,[GHSA-grp3-h8m8-45p7] Glances has CQL Injection in its Cassandra Export Module via Unsanitized Config Values,https://github.com/advisories/GHSA-grp3-h8m8-45p7,https://da.gd/OQCmc5
+GithubAdvisories,[GHSA-g5pq-48mj-jvw8] Glances has SSRF in IP Plugin via public_api leading to credential leakage,https://github.com/advisories/GHSA-g5pq-48mj-jvw8,https://da.gd/1omev
+GithubAdvisories,[GHSA-m6rx-7pvw-2f73] OpenClaude: Sandbox Bypass via Early-Exit Logic Flaw Allows Path Traversal,https://github.com/advisories/GHSA-m6rx-7pvw-2f73,https://da.gd/QJd3uM
+GithubAdvisories,[GHSA-gfc2-9qmw-w7vh] Glances: Cross-Origin Information Disclosure via Unauthenticated REST API (/api/4) due to Permissive CORS,https://github.com/advisories/GHSA-gfc2-9qmw-w7vh,https://da.gd/IuUA0X
+GithubAdvisories,[GHSA-78mf-482w-62qj] Nginx-UI: Cross-Site WebSocket Hijacking (CSWSH) via missing origin validation on all WebSocket endpoints,https://github.com/advisories/GHSA-78mf-482w-62qj,https://da.gd/xRodpL
+GithubAdvisories,[GHSA-6w67-hwm5-92mq] LMDeploy has Server-Side Request Forgery (SSRF) via Vision-Language Image Loading,https://github.com/advisories/GHSA-6w67-hwm5-92mq,https://da.gd/sov40
+GithubAdvisories,[GHSA-x234-x5vq-cc2v] Nginx-UI: Disabled users retain full API access through previously issued bearer tokens,https://github.com/advisories/GHSA-x234-x5vq-cc2v,https://da.gd/YYyAd
+GithubAdvisories,[GHSA-69rw-45wj-g4v6] Spinnaker: RCE via expression parsing due to unrestricted context handling,https://github.com/advisories/GHSA-69rw-45wj-g4v6,https://da.gd/fuBUJW
+GithubAdvisories,[GHSA-x3j7-7pgj-h87r] Spinnaker: RCE when using gitrepo artifact types due to improper sanitization of user input on branch and paths,https://github.com/advisories/GHSA-x3j7-7pgj-h87r,https://da.gd/f4Gjk
+GithubAdvisories,[GHSA-mf9w-mj56-hr94] python-dotenv: Symlink following in set_key allows arbitrary file overwrite via cross-device rename fallback,https://github.com/advisories/GHSA-mf9w-mj56-hr94,https://da.gd/U1i3jJ
+GithubAdvisories,[GHSA-6vqf-6fhm-7rc6] OpenMage LTS has a Path Traversal Filter Bypass in Dataflow Module,https://github.com/advisories/GHSA-6vqf-6fhm-7rc6,https://da.gd/90ePxT
+GithubAdvisories,[GHSA-fg79-cr9c-7369] OpenMage LTS: Phar Deserialization leads to Remote Code Execution,https://github.com/advisories/GHSA-fg79-cr9c-7369,https://da.gd/2Zz6Dr
+GithubAdvisories,[GHSA-xjh5-rr2q-3382] Malware in com.tencent.puerts.agent,https://github.com/advisories/GHSA-xjh5-rr2q-3382,https://da.gd/3DYW
+GithubAdvisories,[GHSA-7xx2-cw9j-xjgc] Malware in internal_insights_enabled,https://github.com/advisories/GHSA-7xx2-cw9j-xjgc,https://da.gd/RwhAGg
