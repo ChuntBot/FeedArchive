@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian DSA-6221-1 NTFS-3G Critical Buffer Overflow Privilege Escalation,https://linuxsecurity.com/advisories/debian/debian-dsa-6221-1-ntfs-3g,https://da.gd/uypKt
+LinuxSecurity,Debian 11 bullseye xdg-dbus-proxy Moderate Info Leak DLA-4542-1,https://linuxsecurity.com/advisories/deblts/debian-dla-4542-1-xdg-dbus-proxy,https://da.gd/9hEFon
+LinuxSecurity,SUSE Podman Important Patch 2026-1508-1 for Security Integrity,https://linuxsecurity.com/advisories/suse/podman-suse-2026-1508-1,https://da.gd/P4FW
+LinuxSecurity,openSUSE 15.4 Podman Important Security Update 2026-1508-1,https://linuxsecurity.com/advisories/opensuse/opensuse-2026-1508-1-podman,https://da.gd/sC44QV
+LinuxSecurity,openSUSE 15.6 nodejs22 Important Security Update 2026-1509-1,https://linuxsecurity.com/advisories/opensuse/nodejs22-opensuse-2026-1509-1,https://da.gd/s8O2xL
+LinuxSecurity,SUSE nodejs22 Important Resource Degradation Fix Advisory 2026-1509-1,https://linuxsecurity.com/advisories/suse/nodejs22-suse-2026-1509-1,https://da.gd/0rRL
