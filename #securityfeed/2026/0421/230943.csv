@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian DSA-6222-1 ngtcp2 Important Buffer Overflow CVE-2026-40170,https://linuxsecurity.com/advisories/debian/debian-dsa-6222-1-ngtcp2,https://da.gd/2x1G4
+LinuxSecurity,openSUSE Tumbleweed python311-PyPDF2 Moderate Security Issue CVE-2026-40260,https://linuxsecurity.com/advisories/opensuse/python311-pypdf2-2-11-1-9-1,https://da.gd/kihQLI
+LinuxSecurity,openSUSE Tumbleweed haproxy Moderate CVE-2026-33555 Advisory 2026-10581-1,https://linuxsecurity.com/advisories/opensuse/haproxy-3-3-6-opensuse-2026-10581-1,https://da.gd/ZmuG7
+LinuxSecurity,openSUSE Leap 16.0 Chromium Critical 2026-20588-1 Buffer Overflow Issues,https://linuxsecurity.com/advisories/opensuse/opensuse-2026-20588-1-chromium,https://da.gd/PDHmpo
+LinuxSecurity,openSUSE Leap 16.0 roundcubemail Important Remote Image Fix 2026-20586-1,https://linuxsecurity.com/advisories/opensuse/opensuse-roundcubemail-2026-20586-1,https://da.gd/6IRZ2
+LinuxSecurity,openSUSE Leap 16.0 nebula Important Update DoS CVE-2025-22869 20581-1,https://linuxsecurity.com/advisories/opensuse/opensuse-2026-20581-1-nebula,https://da.gd/iIbywB
