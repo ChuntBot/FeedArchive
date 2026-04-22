@@ -1,0 +1,30 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-98cf-4fx3-32vx] Malware in trackora-node,https://github.com/advisories/GHSA-98cf-4fx3-32vx,https://da.gd/PwRus
+GithubAdvisories,[GHSA-874r-5jxm-vm42] Malware in trackora-chain,https://github.com/advisories/GHSA-874r-5jxm-vm42,https://da.gd/VVSre
+GithubAdvisories,[GHSA-gqj4-7gpv-6w6w] Malware in crypto-keccak-js,https://github.com/advisories/GHSA-gqj4-7gpv-6w6w,https://da.gd/e7yCYu
+GithubAdvisories,[GHSA-gxf7-922p-wp6q] Malware in gleb-js,https://github.com/advisories/GHSA-gxf7-922p-wp6q,https://da.gd/ug0HO
+GithubAdvisories,[GHSA-p95c-73jf-8362] Malware in ts-utils-dev,https://github.com/advisories/GHSA-p95c-73jf-8362,https://da.gd/ycv4o
+GithubAdvisories,[GHSA-mj89-jrhm-qxhc] Malware in js-logger-pack,https://github.com/advisories/GHSA-mj89-jrhm-qxhc,https://da.gd/0s6T8
+GithubAdvisories,[GHSA-5v3x-g9r5-vvhg] Malware in claudcode-mcp,https://github.com/advisories/GHSA-5v3x-g9r5-vvhg,https://da.gd/2Cda5
+GithubAdvisories,[GHSA-65j6-qgfm-6486] Malware in claudcode-cli,https://github.com/advisories/GHSA-65j6-qgfm-6486,https://da.gd/jobzI
+GithubAdvisories,[GHSA-733p-5g7w-hh7w] Malware in @usealloy/api-contract,https://github.com/advisories/GHSA-733p-5g7w-hh7w,https://da.gd/4lQcy
+GithubAdvisories,[GHSA-qmfv-9964-cvf2] Malware in @usealloy/typegen,https://github.com/advisories/GHSA-qmfv-9964-cvf2,https://da.gd/DL6Gfv
+GithubAdvisories,[GHSA-4g37-2m9h-2w95] Malware in @usealloy/component-library,https://github.com/advisories/GHSA-4g37-2m9h-2w95,https://da.gd/yq5HP
+GithubAdvisories,[GHSA-mhwj-ggc3-5228] Malware in @bitunix/test,https://github.com/advisories/GHSA-mhwj-ggc3-5228,https://da.gd/gH2Vt
+GithubAdvisories,[GHSA-r8xm-rx8q-xmr3] Malware in aven_types,https://github.com/advisories/GHSA-r8xm-rx8q-xmr3,https://da.gd/Pxeq7
+GithubAdvisories,[GHSA-5m93-37pp-5rc3] Malware in chai-as-encrypted,https://github.com/advisories/GHSA-5m93-37pp-5rc3,https://da.gd/WHHv
+GithubAdvisories,[GHSA-6ffj-2wg2-w45j] Apache Airflow allows code execution through crafted XCom payloads,https://github.com/advisories/GHSA-6ffj-2wg2-w45j,https://da.gd/1Qegs
+GithubAdvisories,[GHSA-j687-52p2-xcff] Astro: XSS in define:vars via incomplete,https://github.com/advisories/GHSA-j687-52p2-xcff,https://da.gd/SA4TL
+GithubAdvisories,[GHSA-vfmq-68hx-4jfw] lxml: Default configuration of iterparse() and ETCompatXMLParser() allows XXE to local files,https://github.com/advisories/GHSA-vfmq-68hx-4jfw,https://da.gd/rBUTKm
+GithubAdvisories,[GHSA-94jr-7pqp-xhcq] Tekton Pipeline: Git Resolver Unsanitized Revision Parameter Enables git Argument Injection Leading to RCE,https://github.com/advisories/GHSA-94jr-7pqp-xhcq,https://da.gd/QXsoa
+GithubAdvisories,[GHSA-m2cx-gpqf-qf74] Tekton Pipelines: HTTP Resolver Unbounded Response Body Read Enables Denial of Service via Memory Exhaustion,https://github.com/advisories/GHSA-m2cx-gpqf-qf74,https://da.gd/HW7xO2
+GithubAdvisories,[GHSA-rx35-6rhx-7858] Tekton Pipelines: VolumeMount path restriction bypass via missing filepath.Clean in /tekton/ check,https://github.com/advisories/GHSA-rx35-6rhx-7858,https://da.gd/npkPl
+GithubAdvisories,[GHSA-3hjv-c53m-58jj] Flowise: CSV Agent Prompt Injection Remote Code Execution Vulnerability,https://github.com/advisories/GHSA-3hjv-c53m-58jj,https://da.gd/o3Azfq
+GithubAdvisories,[GHSA-jj7c-x25r-r8r3] Brillig: Heap corruption in foreign call results with nested tuple arrays,https://github.com/advisories/GHSA-jj7c-x25r-r8r3,https://da.gd/oBIk
+GithubAdvisories,[GHSA-jwch-w7wh-gqjm] free5GC UDR: Fail-open handling in PolicyDataSubsToNotifyPost allows unintended subscription creation,https://github.com/advisories/GHSA-jwch-w7wh-gqjm,https://da.gd/JoJDaf
+GithubAdvisories,[GHSA-3j5q-7q7h-2hhv] OpenMage LTS: Customer File Upload Extension Blocklist Bypass → Remote Code Execution,https://github.com/advisories/GHSA-3j5q-7q7h-2hhv,https://da.gd/umaSL
+GithubAdvisories,[GHSA-wjxp-xrpv-xpff] Tekton Pipelines: Git resolver API mode leaks system-configured API token to user-controlled serverURL,https://github.com/advisories/GHSA-wjxp-xrpv-xpff,https://da.gd/faRU26
+GithubAdvisories,[GHSA-vp62-r36r-9xqp] Claude Code: Sandbox Escape via Symlink Following Allows Arbitrary File Write Outside Workspace,https://github.com/advisories/GHSA-vp62-r36r-9xqp,https://da.gd/OyYubb
+GithubAdvisories,"[GHSA-p49j-v9wc-wg57] OpenBao's Token Store Allows Cross-Namespace Renewal, Revocation",https://github.com/advisories/GHSA-p49j-v9wc-wg57,https://da.gd/w89Pl
+GithubAdvisories,[GHSA-6vgr-cp5c-ffx3] OpenBao's SQL Injection in PostgreSQL database secrets engine,https://github.com/advisories/GHSA-6vgr-cp5c-ffx3,https://da.gd/0tiRO2
+GithubAdvisories,[GHSA-r65v-xgwc-g56j] OpenBao: Decompression Bomb via Unbounded Copy in OCI Plugin Extraction (DoS),https://github.com/advisories/GHSA-r65v-xgwc-g56j,https://da.gd/us04Z0
