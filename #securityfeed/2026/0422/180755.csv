@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 25.10 PackageKit High Privilege Escalation USN-8195-1,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8195-1-packagekit,https://da.gd/ba5SY1
+LinuxSecurity,Ubuntu 25.10 strongSwan Important Denial Of Service USN-8196-1,https://linuxsecurity.com/advisories/ubuntu/strongswan-ubuntu-8196-1,https://da.gd/itqeO5
+LinuxSecurity,Debian Trixie cpp-httplib Critical Denial of Service DSA-6228-1,https://linuxsecurity.com/advisories/debian/debian-dsa-6228-1-cpp-httplib,https://da.gd/1cRsD7
+LinuxSecurity,Debian 11 PackageKit Important Privilege Escalation DLA-4545-1,https://linuxsecurity.com/advisories/deblts/debian-dla-4545-1-packagekit,https://da.gd/wGIGS
+LinuxSecurity,Debian DSA-6227-1 StrongSwan Critical Infinite Loop Crash Vulnerabilities,https://linuxsecurity.com/advisories/debian/debian-dsa-6227-1-strongswan,https://da.gd/5yvkzE
+LinuxSecurity,SUSE gdk-pixbuf Major Denial of Service CVE-2026-5201 Advisory 2026-1539-1,https://linuxsecurity.com/advisories/suse/gdk-pixbuf-suse-2026-1539-1,https://da.gd/psv5T
