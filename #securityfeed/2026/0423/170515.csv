@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 24.04 22.04 Linux Kernel Critical EntrySign Issue USN-8179-3,https://linuxsecurity.com/advisories/ubuntu/linux-kernel-ubuntu-8179-3,https://da.gd/kSc3g
+LinuxSecurity,Ubuntu 25.10 Linux Kernel Critical Threat Malicious Microcode USN-8183-2,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8183-2-kernel,https://da.gd/cDTT
+LinuxSecurity,Ubuntu 20.04 LTS Linux-Raspi Security Update USN-8098-10 Critical,https://linuxsecurity.com/advisories/ubuntu/ubuntu-linux-kernel-8098-10,https://da.gd/VAmHS
+LinuxSecurity,Debian 11 firefox-esr Critical Security Update DLA-4546-1,https://linuxsecurity.com/advisories/deblts/debian-dla-4546-1-firefox-esr,https://da.gd/BBCY
+LinuxSecurity,Ubuntu 25.10 Rack Session Important Cookie Access Flaw CVE-2026-39324,https://linuxsecurity.com/advisories/ubuntu/rack-ubuntu-8190-1-session,https://da.gd/o69f1
+LinuxSecurity,Ubuntu 25.10 python-tornado Moderate Denial of Service USN-8198-1,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8198-1-tornado,https://da.gd/yVSUOS
