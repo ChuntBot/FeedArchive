@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian DSA-6229-1 Thunderbird Critical Code Exec Issues,https://linuxsecurity.com/advisories/debian/debian-dsa-6229-1-thunderbird,https://da.gd/0SqmQM
+LinuxSecurity,openSUSE Leap 16.0 haproxy Medium HTTP Manipulation 2026-20619-2,https://linuxsecurity.com/advisories/opensuse/haproxy-opensuse-2026-20618-1,https://da.gd/pNu20
+LinuxSecurity,openSUSE Leap 16.0 CoreDNS Important Updates Resolution 2026-20619-1,https://linuxsecurity.com/advisories/opensuse/coredns-opensuse-2026-20619-1,https://da.gd/U52av
+LinuxSecurity,openSUSE Leap 16.0 Python-Pillow Critical Decompression Bomb CVE-2026-40192,https://linuxsecurity.com/advisories/opensuse/opensuse-python-pillow-2026-20617-1,https://da.gd/AV8Ze3
+LinuxSecurity,openSUSE Tumbleweed golang-github-prometheus Moderate CVE-2026-40179,https://linuxsecurity.com/advisories/opensuse/opensuse-golang-github-prometheus-3-11-2,https://da.gd/rnh9p
+LinuxSecurity,openSUSE Tumbleweed libXpm-devel Moderate Severity CVE-2026-4367 Advisory,https://linuxsecurity.com/advisories/opensuse/opensuse-libxpm-devel-3-5-18-2-1,https://da.gd/Uww7L
