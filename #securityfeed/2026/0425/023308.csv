@@ -1,0 +1,51 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-jgq2-vq69-gr6h] OpenViking: Unauthenticated remote bot control via OpenAPI HTTP routes,https://github.com/advisories/GHSA-jgq2-vq69-gr6h,https://da.gd/RVSPr
+GithubAdvisories,[GHSA-8x35-hph8-37hq] electurm has Command Injection via runLinux funtion,https://github.com/advisories/GHSA-8x35-hph8-37hq,https://da.gd/9MgoCZ
+GithubAdvisories,[GHSA-gx2m-mcc2-r4p3] wlc: print_html outputs API data without HTML escaping,https://github.com/advisories/GHSA-gx2m-mcc2-r4p3,https://da.gd/UZyqE
+GithubAdvisories,[GHSA-h829-5cg7-6hff] gitverify has improper tag signature verification,https://github.com/advisories/GHSA-h829-5cg7-6hff,https://da.gd/k78F6
+GithubAdvisories,[GHSA-39h7-pwv7-rc3x] Excalidraw vulnerable to XSS via Mermaid sequence diagram labels (KaTeX rendering),https://github.com/advisories/GHSA-39h7-pwv7-rc3x,https://da.gd/x5Y7T
+GithubAdvisories,[GHSA-fpjq-c37h-cqcv] Kyverno Controller Denial of Service via forEach Mutation Panic,https://github.com/advisories/GHSA-fpjq-c37h-cqcv,https://da.gd/F0BaAM
+GithubAdvisories,"[GHSA-6gqr-mx34-wh8r] Kirby is vulnerable to authorization bypass during page, file and user creation via blueprint injection",https://github.com/advisories/GHSA-6gqr-mx34-wh8r,https://da.gd/NDcWE
+GithubAdvisories,[GHSA-wf66-mphr-4c4r] Apache Kafka exposes sensitive information in its DEBUG logs,https://github.com/advisories/GHSA-wf66-mphr-4c4r,https://da.gd/ZhB65
+GithubAdvisories,[GHSA-6x2q-h3cr-8j2h] Traefik: A timing side-channel vulnerability allows for valid username enumeration via BasicAuth middleware,https://github.com/advisories/GHSA-6x2q-h3cr-8j2h,https://da.gd/h1S3Dc
+GithubAdvisories,[GHSA-rmmh-p597-ppvv] Showdown vulnerable to Regular Expression Denial of Service (ReDoS) in link/anchor parsing,https://github.com/advisories/GHSA-rmmh-p597-ppvv,https://da.gd/Uwqt
+GithubAdvisories,[GHSA-9jpj-cph8-w449] Langflow: Cleartext Storage of Authentication Settings in Project Creation Endpoint,https://github.com/advisories/GHSA-9jpj-cph8-w449,https://da.gd/FlIi0V
+GithubAdvisories,[GHSA-5jjf-wcvf-923w] Langflow has an Information Leak through Incomplete API Key Redaction,https://github.com/advisories/GHSA-5jjf-wcvf-923w,https://da.gd/tT1t
+GithubAdvisories,[GHSA-vvfc-fp59-m92g] Langflow: DoS Through Lack of File Size Restriction via Deprecated Unauthenticated File Upload API,https://github.com/advisories/GHSA-vvfc-fp59-m92g,https://da.gd/xNpBw
+GithubAdvisories,[GHSA-xhjw-95fp-8vgq] Traefik Kubernetes CRD allows unauthorized cross-namespace middleware binding,https://github.com/advisories/GHSA-xhjw-95fp-8vgq,https://da.gd/9a9J3C
+GithubAdvisories,[GHSA-wwr2-883g-52c2] Malware in modern-events,https://github.com/advisories/GHSA-wwr2-883g-52c2,https://da.gd/cT5wY
+GithubAdvisories,[GHSA-wpqr-6v78-jr5g] Gemini CLI: Remote Code Execution via workspace trust and tool allowlisting bypasses,https://github.com/advisories/GHSA-wpqr-6v78-jr5g,https://da.gd/GofXr
+GithubAdvisories,[GHSA-rrjr-v56m-ww88] ParquetSharp: Possible Stack Overflow When Reading a ParquetFile with Large Decimal Type Width,https://github.com/advisories/GHSA-rrjr-v56m-ww88,https://da.gd/oOQc
+GithubAdvisories,[GHSA-xvv6-p4wf-mvx7] TYPO3 CMS Stores Cleartext Password in User Settings Module,https://github.com/advisories/GHSA-xvv6-p4wf-mvx7,https://da.gd/piUITd
+GithubAdvisories,[GHSA-6jwx-7vp4-9847] Traefik has an StripPrefixRegex Middleware Authorization Bypass via Path/RawPath Desync,https://github.com/advisories/GHSA-6jwx-7vp4-9847,https://da.gd/7yUpMz
+GithubAdvisories,[GHSA-rp7v-4384-hfrp] k8sGPT has Prompt Injection through its k8sGPT-Operator,https://github.com/advisories/GHSA-rp7v-4384-hfrp,https://da.gd/1Kzhyg
+GithubAdvisories,[GHSA-q5hj-mxqh-vv77] Claude Code: Trust Dialog Bypass via Git Worktree Spoofing Allows Arbitrary Code Execution,https://github.com/advisories/GHSA-q5hj-mxqh-vv77,https://da.gd/6rDES
+GithubAdvisories,[GHSA-5m6w-wvh7-57vm] Traefik: Pre-authentication decision bypass due to forwarded alias spoofing,https://github.com/advisories/GHSA-5m6w-wvh7-57vm,https://da.gd/hjw33R
+GithubAdvisories,[GHSA-6384-m2mw-rf54] Traefik's ForwardAuth trustForwardHeader=false allows spoofed X-Forwarded-Prefix to bypass authentication,https://github.com/advisories/GHSA-6384-m2mw-rf54,https://da.gd/QU2Srd
+GithubAdvisories,[GHSA-xhj4-g6w8-2xjw] go-zserio has Unbounded Memory Allocation for All Platforms,https://github.com/advisories/GHSA-xhj4-g6w8-2xjw,https://da.gd/ACBScr
+GithubAdvisories,[GHSA-cwq5-8pvq-j65j] Zserio Runtime: Integer Overflow in BitStreamReader and Unbounded Memory Allocation in Deserialization,https://github.com/advisories/GHSA-cwq5-8pvq-j65j,https://da.gd/tMxZk
+GithubAdvisories,[GHSA-82j2-j2ch-gfr8] rustls-webpki: Denial of service via panic on malformed CRL BIT STRING,https://github.com/advisories/GHSA-82j2-j2ch-gfr8,https://da.gd/3k3ZO
+GithubAdvisories,[GHSA-4f9j-vr4p-642r] Budibase auth session cookies are set with httpOnly:false — any XSS can lead to full account takeover,https://github.com/advisories/GHSA-4f9j-vr4p-642r,https://da.gd/4YICmV
+GithubAdvisories,[GHSA-jv9x-w4gm-hwcm] Kimai has Missing Object-Level Authorization in the Team API,https://github.com/advisories/GHSA-jv9x-w4gm-hwcm,https://da.gd/iuwn
+GithubAdvisories,[GHSA-r75f-5x8p-qvmc] LiteLLM has SQL Injection in Proxy API key verification,https://github.com/advisories/GHSA-r75f-5x8p-qvmc,https://da.gd/lYIMl
+GithubAdvisories,[GHSA-vvf7-6rmr-m29q] Dgraph: Unauthenticated Admin Token Disclosure Leading to Authentication Bypass via /debug/vars,https://github.com/advisories/GHSA-vvf7-6rmr-m29q,https://da.gd/wsLIu7
+GithubAdvisories,[GHSA-mw35-8rx3-xf9r] Ray: Remote Code Execution via Parquet Arrow Extension Type Deserialization,https://github.com/advisories/GHSA-mw35-8rx3-xf9r,https://da.gd/F1XGpP
+GithubAdvisories,[GHSA-qc5p-3mg5-9fh8] Avo: Broken Access Control Through Unauthorized Execution of Arbitrary Action Classes Across Resources,https://github.com/advisories/GHSA-qc5p-3mg5-9fh8,https://da.gd/ytLAJ
+GithubAdvisories,[GHSA-xqmj-j6mv-4862] LiteLLM: Server-Side Template Injection in /prompts/test endpoint,https://github.com/advisories/GHSA-xqmj-j6mv-4862,https://da.gd/IGKp7
+GithubAdvisories,[GHSA-f5c8-m5vw-rmgq] nova-toggle-5: Improper authorization on toggle endpoint allowed non-Nova users to modify boolean fields,https://github.com/advisories/GHSA-f5c8-m5vw-rmgq,https://da.gd/GAtrD
+GithubAdvisories,[GHSA-v638-38fc-rhfv] AWS Encryption SDK for Python: Key commitment policy bypass via shared key cache,https://github.com/advisories/GHSA-v638-38fc-rhfv,https://da.gd/GDE8V
+GithubAdvisories,[GHSA-38c5-483c-4qqp] Grid: Integer Overflow in Grid::expand_rows Leads to Safe-API Undefined Behavior,https://github.com/advisories/GHSA-38c5-483c-4qqp,https://da.gd/Gtvsfl
+GithubAdvisories,[GHSA-58qw-9mgm-455v] pip has an interpretation conflict due to handling both concatenated tar and ZIP files as ZIP files,https://github.com/advisories/GHSA-58qw-9mgm-455v,https://da.gd/UONo
+GithubAdvisories,[GHSA-xff3-5c9p-2mr4] New API: Stripe Webhook Signature Bypass via Empty Secret Enables Unlimited Quota Fraud,https://github.com/advisories/GHSA-xff3-5c9p-2mr4,https://da.gd/bh3uA
+GithubAdvisories,[GHSA-x92x-px7w-4gx4] Dgraph: Pre-Auth Full Database Exfiltration via DQL Injection in NQuad Lang Field,https://github.com/advisories/GHSA-x92x-px7w-4gx4,https://da.gd/yZfn
+GithubAdvisories,[GHSA-mrxx-39g5-ph77] Dgraph: Pre-Auth Full Database Exfiltration via DQL Injection in Upsert Condition Field,https://github.com/advisories/GHSA-mrxx-39g5-ph77,https://da.gd/bPZOH
+GithubAdvisories,[GHSA-f5v4-2wr6-hqmg] russh has pre-auth DoS via unbounded allocation in its keyboard-interactive auth handler,https://github.com/advisories/GHSA-f5v4-2wr6-hqmg,https://da.gd/xN6nS
+GithubAdvisories,[GHSA-m2m6-cff5-3w7c] RedwoodSDK has Same-site CSRF through lack of origin validation in its server actions,https://github.com/advisories/GHSA-m2m6-cff5-3w7c,https://da.gd/ID9Yr
+GithubAdvisories,[GHSA-q339-8rmv-2mhv] ERB has an @_init deserialization guard bypass via def_module / def_method / def_class,https://github.com/advisories/GHSA-q339-8rmv-2mhv,https://da.gd/TG0Ts
+GithubAdvisories,[GHSA-4rc3-7j7w-m548] liquidjs has a Denial of Service via circular block reference in layout,https://github.com/advisories/GHSA-4rc3-7j7w-m548,https://da.gd/SNdil
+GithubAdvisories,[GHSA-qx2v-qp2m-jg93] PostCSS has XSS via Unescaped,https://github.com/advisories/GHSA-qx2v-qp2m-jg93,https://da.gd/CoVBV
+GithubAdvisories,[GHSA-28jg-cgg7-j4wc] Apache Kafka does not validate JWT tokens in its OAUTHBEARER authentication implementation,https://github.com/advisories/GHSA-28jg-cgg7-j4wc,https://da.gd/C6vtwA
+GithubAdvisories,[GHSA-qhfq-gvvc-5q6q] Apache Doris MCP Server vulnerable to SQL Injection via improper query context neutralization,https://github.com/advisories/GHSA-qhfq-gvvc-5q6q,https://da.gd/uG30SN
+GithubAdvisories,[GHSA-3jvj-v6w2-h948] Lemmy has SSRF in /api/v3/post via Webmention dispatch,https://github.com/advisories/GHSA-3jvj-v6w2-h948,https://da.gd/LbfX8
+GithubAdvisories,[GHSA-h6hf-9846-xwrq] Lemmy has SSRF and internal image disclosure in post link metadata via unvalidated og:image,https://github.com/advisories/GHSA-h6hf-9846-xwrq,https://da.gd/59kM3o
+GithubAdvisories,[GHSA-x4mj-7f9g-29h4] Contour has Lua code injection via Cookie Path Rewrite Policy,https://github.com/advisories/GHSA-x4mj-7f9g-29h4,https://da.gd/OANnXT
