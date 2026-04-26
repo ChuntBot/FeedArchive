@@ -1,0 +1,27 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7jm2-g593-4qrc] OpenClaw: Agent gateway config mutations could change protected operator settings,https://github.com/advisories/GHSA-7jm2-g593-4qrc,https://da.gd/10A7w
+GithubAdvisories,[GHSA-qrp5-gfw2-gxv4] OpenClaw: Bundled MCP/LSP tools could bypass configured tool policy,https://github.com/advisories/GHSA-qrp5-gfw2-gxv4,https://da.gd/YuFO5
+GithubAdvisories,[GHSA-h2vw-ph2c-jvwf] OpenClaw: Workspace dotenv MiniMax host override could redirect credentialed requests,https://github.com/advisories/GHSA-h2vw-ph2c-jvwf,https://da.gd/S4J7JM
+GithubAdvisories,[GHSA-j4c5-89f5-f3pm] OpenClaw: Browser CDP profile creation skipped strict-mode SSRF checks,https://github.com/advisories/GHSA-j4c5-89f5-f3pm,https://da.gd/aWBLCz
+GithubAdvisories,[GHSA-xrq9-jm7v-g9h7] OpenClaw: Paired-device pairing actions were not limited to the caller device,https://github.com/advisories/GHSA-xrq9-jm7v-g9h7,https://da.gd/DiVzr
+GithubAdvisories,[GHSA-c4qg-j8jg-42q5] OpenClaw: QQBot direct media upload skipped URL SSRF validation,https://github.com/advisories/GHSA-c4qg-j8jg-42q5,https://da.gd/nUvFaP
+GithubAdvisories,[GHSA-mj59-h3q9-ghfh] OpenClaw: MCP stdio server env could load dangerous startup variables from workspace config,https://github.com/advisories/GHSA-mj59-h3q9-ghfh,https://da.gd/zUiPbw
+GithubAdvisories,[GHSA-57r2-h2wj-g887] OpenClaw: Isolated cron awareness events were recorded as trusted system events,https://github.com/advisories/GHSA-57r2-h2wj-g887,https://da.gd/BUCdn
+GithubAdvisories,[GHSA-hxvm-xjvf-93f3] OpenClaw: Workspace dotenv could override runtime-control environment variables,https://github.com/advisories/GHSA-hxvm-xjvf-93f3,https://da.gd/EobuT
+GithubAdvisories,[GHSA-72q8-jcmc-97wx] OpenClaw: Feishu card actions could misclassify DMs and skip dmPolicy,https://github.com/advisories/GHSA-72q8-jcmc-97wx,https://da.gd/yaejCs
+GithubAdvisories,[GHSA-v8qf-fr4g-28p2] OpenClaw: Assistant media route missed scope enforcement for trusted-proxy authorization,https://github.com/advisories/GHSA-v8qf-fr4g-28p2,https://da.gd/BrDwH
+GithubAdvisories,[GHSA-2xcp-x87w-q377] OpenClaw: Hook mapping templates could bypass hook session-key opt-in,https://github.com/advisories/GHSA-2xcp-x87w-q377,https://da.gd/CZGpx
+GithubAdvisories,[GHSA-rpm5-65cw-6hj4] GitPython has Command Injection via Git options bypass,https://github.com/advisories/GHSA-rpm5-65cw-6hj4,https://da.gd/AJRkTV
+GithubAdvisories,[GHSA-x2qx-6953-8485] GitPython: Unsafe option check validates multi_options before shlex.split transformation,https://github.com/advisories/GHSA-x2qx-6953-8485,https://da.gd/DCZFxc
+GithubAdvisories,[GHSA-3gr9-485j-v4xf] Note Mark: Unauthenticated read of notes and assets in soft-deleted public books,https://github.com/advisories/GHSA-3gr9-485j-v4xf,https://da.gd/bb0P4g
+GithubAdvisories,"[GHSA-pxf8-6wqm-r6hh] Note Mark: OIDC-registered users authenticated by submitting password ""null""",https://github.com/advisories/GHSA-pxf8-6wqm-r6hh,https://da.gd/Wifpkz
+GithubAdvisories,[GHSA-gj49-89wh-h4gj] Cillium exposes sensitive information included in the cilium-bugtool debug archive,https://github.com/advisories/GHSA-gj49-89wh-h4gj,https://da.gd/o8mPTE
+GithubAdvisories,[GHSA-x2wq-9x2f-fhj7] Spring Security Core has a TOCTOU race condition when One-Time Token login with JdbcOneTimeTokenService is configured,https://github.com/advisories/GHSA-x2wq-9x2f-fhj7,https://da.gd/8GjUQM
+GithubAdvisories,[GHSA-wg4g-395p-mqv3] n8n-MCP: Sensitive MCP tool-call arguments logged on authenticated requests in HTTP mode,https://github.com/advisories/GHSA-wg4g-395p-mqv3,https://da.gd/N5uq8z
+GithubAdvisories,"[GHSA-74m3-9qvm-rp9h] zrok: WebDAV drive backend follows symlinks outside DriveRoot, enabling host filesystem read/write",https://github.com/advisories/GHSA-74m3-9qvm-rp9h,https://da.gd/R6DLN
+GithubAdvisories,[GHSA-3q34-rx83-r6mq] Heimdall has an authorization bypass via path normalization mismatch,https://github.com/advisories/GHSA-3q34-rx83-r6mq,https://da.gd/lO3neJ
+GithubAdvisories,[GHSA-72h4-mxfc-jx37] Heimdall: Case-sensitive host matching may lead to policy bypass,https://github.com/advisories/GHSA-72h4-mxfc-jx37,https://da.gd/lTD6dj
+GithubAdvisories,[GHSA-43jv-5j4x-qv67] Heimdall: Case-sensitive handling of URL-encoded slashes may lead to inconsistent path interpretation,https://github.com/advisories/GHSA-43jv-5j4x-qv67,https://da.gd/bfdYT7
+GithubAdvisories,[GHSA-v4p8-mg3p-g94g] LiteLLM: Authenticated command execution via MCP stdio test endpoints,https://github.com/advisories/GHSA-v4p8-mg3p-g94g,https://da.gd/9SEV5s
+GithubAdvisories,[GHSA-676v-wh57-p375] Dolibarr Allows Code Injection through its Website Module,https://github.com/advisories/GHSA-676v-wh57-p375,https://da.gd/ctvH3
+GithubAdvisories,[GHSA-p93r-85wp-75v3] Bouncy Castle Has Covert Timing Channel Vulnerability,https://github.com/advisories/GHSA-p93r-85wp-75v3,https://da.gd/vR2XWo
