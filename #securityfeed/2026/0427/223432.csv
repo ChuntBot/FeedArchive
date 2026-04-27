@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,openSUSE Leap 16.0 MozillaFirefox Important Security Update 2026-20621-1,https://linuxsecurity.com/advisories/opensuse/opensuse-mozillafirefox-2026-20621-1,https://da.gd/ZbG02
+LinuxSecurity,openSUSE Tumbleweed libsystemd0 Moderate Security Advisory 2026-10624-1,https://linuxsecurity.com/advisories/opensuse/libsystemd0-opensuse-2026-10624-1,https://da.gd/uhUYC
+LinuxSecurity,openSUSE Tumbleweed libngtcp2 Moderate Threat CVE-2026-40170 2026-10621-1,https://linuxsecurity.com/advisories/opensuse/libngtcp2-16-1-22-1-1-1-opensuse-2026-10621-1,https://da.gd/lt93n
+LinuxSecurity,openSUSE Tumbleweed emacs-30.2 Moderate Level Threat CVE-2026-6861,https://linuxsecurity.com/advisories/opensuse/opensuse-emacs-30-2-8-1,https://da.gd/9WpV
+LinuxSecurity,Ubuntu 20.04 18.04 OpenStack Glance Security Flaws USN-8199-1,https://linuxsecurity.com/advisories/ubuntu/openstack-glance-ubuntu-8199-1,https://da.gd/AIw5os
+LinuxSecurity,Ubuntu 8212-1 authd Important Privilege Escalation Risk 2026-6970,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8212-1-authd,https://da.gd/JJeKJq
