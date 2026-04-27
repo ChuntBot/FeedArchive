@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 25.10 nginx Important Denial of Service Vulnerabilities USN-8210-1,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8210-1-nginx,https://da.gd/ACu412
+LinuxSecurity,Ubuntu 25.10 Pillow Severely Affected by DoS Resource Crash Flaw USN-8211-1,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8211-1-pillow,https://da.gd/sjyt1T
+LinuxSecurity,Ubuntu 25.10 HAProxy Critical Info Exposure USN-8208-1 CVE-2026-33555,https://linuxsecurity.com/advisories/ubuntu/haproxy-ubuntu-8208-1,https://da.gd/DJUcc
+LinuxSecurity,Ubuntu 25.10 lcms2 Critical ICC Profile DoS Vulnerability USN-8209-1,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8209-1-little-cms,https://da.gd/8nYSLv
+LinuxSecurity,Ubuntu 22.04 LTS ClamAV Critical HTML Crash DoS USN-8207-1,https://linuxsecurity.com/advisories/ubuntu/clamav-ubuntu-8207-1,https://da.gd/b18CaS
+LinuxSecurity,Ubuntu 26.04 LTS strongSwan Advisory USN-8196-2 CVE-2026-35328 to 35334,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8196-2-strongswan,https://da.gd/dqd9Di
