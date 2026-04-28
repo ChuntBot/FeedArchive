@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42 PackageKit Vulnerability Causes Local Privilege Escalation Risk,https://linuxsecurity.com/advisories/fedora/packagekit-fedora-42-2026-41926fe792,https://da.gd/oFtVu7
+LinuxSecurity,Fedora 42 firefox Moderate Update NSS and Firefox 150.0 2026-69538c9f7e,https://linuxsecurity.com/advisories/fedora/firefox-fedora-42-2026-69538c9f7e,https://da.gd/GA8zY
+LinuxSecurity,Fedora 42 NSS Key Firefox Upgrade 2026 under version 69538c9f8,https://linuxsecurity.com/advisories/fedora/nss-fedora-42-2026-69538c9f7e,https://da.gd/vlBWTX
+LinuxSecurity,Fedora 42 Python3.14 Important Security Fixes CVE-2026-1502 2026-1fd21102d1,https://linuxsecurity.com/advisories/fedora/fedora-python3-14-2026-1fd21102d1,https://da.gd/dq3AQ
+LinuxSecurity,Fedora 42 mingw-python3 2026-763e814afa Command Injection High Risk,https://linuxsecurity.com/advisories/fedora/mingw-python3-fedora-42-2026-763e814afa,https://da.gd/Oz6uX
+LinuxSecurity,Fedora 42 xrdp Remote Code Execution Denial of Service Vulnerability 2026,https://linuxsecurity.com/advisories/fedora/xrdp-fedora-42-2026-f04c228c78,https://da.gd/LMww4G
