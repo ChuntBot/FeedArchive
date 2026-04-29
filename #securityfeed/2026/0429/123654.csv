@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 20.04 LTS USN-8087-3 python-cryptography Severe Data Leak Risk,https://linuxsecurity.com/advisories/ubuntu/python-cryptography-ubuntu-8087-3,https://da.gd/PMmyC6
+LinuxSecurity,Ubuntu 24.04 LTS wheel Critical RCE Risk USN-8221-1 CVE-2026-24049,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8221-1-wheel,https://da.gd/aULiQ0
+LinuxSecurity,Rocky Linux python3.11 Code Execution Vulnerability Exploit RLSA-2026-11062,https://linuxsecurity.com/advisories/rockylinux/rocky-linux-rlsa-2026-11062-python3-11,https://da.gd/ymv2k
+LinuxSecurity,Rocky Linux 8 Security Update for libxml2 Important Loop RLSA-2026-11352,https://linuxsecurity.com/advisories/rockylinux/rocky-linux-rlsa-2026-libxml2,https://da.gd/UeZyqT
+LinuxSecurity,Debian 11 node-tar Critical Memory Crash and Access Flaws DLA-4552-1,https://linuxsecurity.com/advisories/deblts/debian-dla-4552-1-node-tar,https://da.gd/Rd3a9B
+LinuxSecurity,Oracle Linux 10 ELSA-2026-11413 yggdrasil Important Advisory,https://linuxsecurity.com/advisories/oracle/oracle10-elisa-2026-11413-yggdrasil,https://da.gd/1eBL9
