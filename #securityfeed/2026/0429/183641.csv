@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+FreeBSDSecurityNotice,FreeBSD-EN-26:10.amd64,https://www.freebsd.org/security/advisories/FreeBSD-EN-26:10.amd64.asc,https://da.gd/OV7PXM
+FreeBSDSecurityNotice,FreeBSD-EN-26:09.tzdata,https://www.freebsd.org/security/advisories/FreeBSD-EN-26:09.tzdata.asc,https://da.gd/g50OS
+FreeBSDSecurityNotice,FreeBSD-EN-26:08.pf,https://www.freebsd.org/security/advisories/FreeBSD-EN-26:08.pf.asc,https://da.gd/UytGj
+FreeBSDSecurityNotice,FreeBSD-SA-26:17.libnv,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:17.libnv.asc,https://da.gd/Nmqk
+FreeBSDSecurityNotice,FreeBSD-SA-26:16.libnv,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:16.libnv.asc,https://da.gd/2Q1c73
+FreeBSDSecurityNotice,FreeBSD-SA-26:15.dhclient,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:15.dhclient.asc,https://da.gd/IKGHS
+FreeBSDSecurityNotice,FreeBSD-SA-26:14.pf,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:14.pf.asc,https://da.gd/MhA1A
+FreeBSDSecurityNotice,FreeBSD-SA-26:13.exec,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc,https://da.gd/2Roo
+FreeBSDSecurityNotice,FreeBSD-SA-26:12.dhclient,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:12.dhclient.asc,https://da.gd/jvdo5
