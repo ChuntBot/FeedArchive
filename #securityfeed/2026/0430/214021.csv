@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,SUSE Linux Micro 6.2 libsodium Moderate Security Issues Vuln 2026-21393-1,https://linuxsecurity.com/advisories/suse/libsodium-suse-2026-21393-1,https://da.gd/DtV6K0
+LinuxSecurity,SUSE Linux Micro glibc-livepatches Important Remote Crash 2026-21395-1,https://linuxsecurity.com/advisories/suse/glibc-livepatches-suse-2026-21395-1,https://da.gd/NENH
+LinuxSecurity,SUSE Linux Micro 6.2 libssh Moderate DoS Memory Leak Advisory 2026-21396-1,https://linuxsecurity.com/advisories/suse/libssh-suse-2026-21396-1,https://da.gd/bHEoxN
+LinuxSecurity,Important Algif_aead Privilege Escalation Vulnerability in Ubuntu 20.04,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8226-2-kmod,https://da.gd/yy3OjG
+LinuxSecurity,Ubuntu 25.10 kmod Critical Algif_aead Privilege Escalation USN-8226-1,https://linuxsecurity.com/advisories/ubuntu/ubuntu-kmod-8226-1,https://da.gd/OXeBbf
+LinuxSecurity,openSUSE Leap 16.0 Grafana Critical Update CVE-2023-45288 DoS 2026-20654-1,https://linuxsecurity.com/advisories/opensuse/opensuse-grafana-2026-20654-1-critical,https://da.gd/vL5Wyy
