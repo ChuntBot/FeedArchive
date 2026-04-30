@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,SUSE 2026 libheif Low Out-of-Bounds Read Advisory SUSE-SU-2026-1660-1,https://linuxsecurity.com/advisories/suse/libheif-suse-2026-1660-1-low,https://da.gd/Dr6KYi
+LinuxSecurity,Debian OpenJDK 17 Critical Cryptographic Failures Advisory DSA-6237-1,https://linuxsecurity.com/advisories/debian/debian-dsa-6237-1-openjdk-17,https://da.gd/nmVmcr
+LinuxSecurity,Rocky Linux 9 xorg-x11-server-Xwayland Vulnerability Notice RLSA-2023-04567,https://linuxsecurity.com/advisories/rockylinux/rocky-linux-rlsa-2026-xorg-x11-server-xwayland,https://da.gd/7vqnu
+LinuxSecurity,Rocky Linux 9 LibRaw Vital Security Patch RLSA-2026-12036,https://linuxsecurity.com/advisories/rockylinux/rocky-linux-rlsa-2026-11360-libraw,https://da.gd/l1rT
