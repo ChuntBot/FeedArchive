@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian 6.1.170-1 Linux Critical Escalation DoS Information Leak DSA-6243-1,https://linuxsecurity.com/advisories/debian/debian-dsa-6243-1-linux,https://da.gd/R2fY7
+LinuxSecurity,Debian ThunderBird Critical Arbitrary Code Exec Vulnerability DSA-6242-1,https://linuxsecurity.com/advisories/debian/debian-dsa-6242-1-thunderbird,https://da.gd/r7r8ME
+LinuxSecurity,openSUSE Tumbleweed python311-pycrypt Moderate Security Update 2026-10658-2,https://linuxsecurity.com/advisories/opensuse/python311-pypdf-6-10-2-2-1,https://da.gd/U2aco
+LinuxSecurity,openSUSE Tumbleweed 2026-10657-1 krb5-appl-clients Moderate CVE-2026-32746,https://linuxsecurity.com/advisories/opensuse/krb5-appl-clients-1-0-3-6-1,https://da.gd/udHi1L
+LinuxSecurity,openSUSE Tumbleweed google-osconfig-agent Moderate Threat Fix 2026-10655-1,https://linuxsecurity.com/advisories/opensuse/google-osconfig-agent-2026-10655-1,https://da.gd/zkszd
+LinuxSecurity,openSUSE Tumbleweed Java 1.8.0-492 Moderate Security Update 2026-10656-1,https://linuxsecurity.com/advisories/opensuse/opensuse-java-1-8-0-openjdk-1-8-0-492-1-1,https://da.gd/6H6Dn
