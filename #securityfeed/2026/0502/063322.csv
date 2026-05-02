@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 44 glibc Security Advisory FEDORA-2026-ced72ab158 Buffer Overflow,https://linuxsecurity.com/advisories/fedora/glibc-fedora-44-2026-ced72ab158,https://da.gd/IZ0jhG
+LinuxSecurity,Fedora 44 krb5 Moderate NegoEx DoS Flaws FEDORA-2026-8b43ea2f82,https://linuxsecurity.com/advisories/fedora/krb5-fedora-44-2026-8b43ea2f82,https://da.gd/rSnwf
+LinuxSecurity,Fedora 44 GitPython Important Security Defects Fix 2026-9342da13e0,https://linuxsecurity.com/advisories/fedora/gitpython-fedora-2026-9342da13e0,https://da.gd/ZcngR
+LinuxSecurity,Fedora 44 Xen Critical DoS Issues XSA-483 XSA-484 XSA-486 XSA-488,https://linuxsecurity.com/advisories/fedora/fedora-44-xen-2026-883e88db68,https://da.gd/gCdjL
+LinuxSecurity,Fedora 44 perl-CryptX Moderate Key Recovery Risk CVE-2026-41564,https://linuxsecurity.com/advisories/fedora/perl-cryptx-fedora-44-2026-f533fcc0b6,https://da.gd/afenU
+LinuxSecurity,Fedora 44 rust-openssl-sys Update Moderate Security Issues 2026-fc9d4b5520,https://linuxsecurity.com/advisories/fedora/rust-openssl-sys-fedora-44-2026-fc9d4b5520,https://da.gd/91WHGF
