@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-75xq-5h9v-w6px] net-imap vulnerable to command Injection via unvalidated Symbol inputs,https://github.com/advisories/GHSA-75xq-5h9v-w6px,https://da.gd/CC3OUG
+GithubAdvisories,[GHSA-87pf-fpwv-p7m7] net-imap vulnerable to denial of service via high iteration count for `SCRAM-*` authentication,https://github.com/advisories/GHSA-87pf-fpwv-p7m7,https://da.gd/Iu5KR
+GithubAdvisories,[GHSA-q2mw-fvj9-vvcw] net-imap has quadratic complexity when reading response literals,https://github.com/advisories/GHSA-q2mw-fvj9-vvcw,https://da.gd/G6F3AP
+GithubAdvisories,[GHSA-vcgp-9326-pqcp] net-imap vulnerable to STARTTLS stripping via invalid response timing,https://github.com/advisories/GHSA-vcgp-9326-pqcp,https://da.gd/tNPFfX
+GithubAdvisories,[GHSA-w9f5-8q83-qwpx] Duplicate Advisory: OpenClaw: Fake DeviceToken Bypasses Shared Auth Rate Limiting,https://github.com/advisories/GHSA-w9f5-8q83-qwpx,https://da.gd/fZ64
+GithubAdvisories,[GHSA-m563-373q-885c] Duplicate Advisory: OpenClaw: OpenShell `mirror` mode can convert untrusted sandbox files into explicitly enabled workspace hooks and execute them on the host during gateway startup,https://github.com/advisories/GHSA-m563-373q-885c,https://da.gd/CIUp3
+GithubAdvisories,[GHSA-wwc3-c577-533m] Duplicate Advisory: OpenClaw: Gateway `device.token.rotate` does not terminate active WebSocket sessions after credential rotation,https://github.com/advisories/GHSA-wwc3-c577-533m,https://da.gd/eoFhs
+GithubAdvisories,[GHSA-7vq9-42cc-33j4] Duplicate Advisory: OpenClaw: Device-Paired Node Skips Node Scope Gate → Host RCE.md,https://github.com/advisories/GHSA-7vq9-42cc-33j4,https://da.gd/EqDs6l
+GithubAdvisories,[GHSA-mf69-r24q-ghhr] Duplicate Advisory: OpenClaw: Pairing pending-request caps were enforced per channel instead of per account,https://github.com/advisories/GHSA-mf69-r24q-ghhr,https://da.gd/rQusa
+GithubAdvisories,[GHSA-m958-864j-xq5w] Duplicate Advisory: OpenClaw: Telnyx Webhook Replay Detection Bypass via Base64 Signature Re-encoding,https://github.com/advisories/GHSA-m958-864j-xq5w,https://da.gd/5MtVK
+GithubAdvisories,[GHSA-qgp3-3rj7-qqq4] Duplicate Advisory: OpenClaw: Discord Slash Commands Bypass Group DM Channel Allowlist,https://github.com/advisories/GHSA-qgp3-3rj7-qqq4,https://da.gd/VHVmh
+GithubAdvisories,[GHSA-2xp4-qhr4-xqm2] Duplicate Advisory: OpenClaw: HTTP operator endpoints lack browser-origin validation in trusted-proxy mode,https://github.com/advisories/GHSA-2xp4-qhr4-xqm2,https://da.gd/TMn4mM
+GithubAdvisories,[GHSA-2hv5-4h3g-4hjv] Duplicate Advisory: OpenClaw: LINE webhook handler lacks shared pre-auth concurrency budget before signature verification,https://github.com/advisories/GHSA-2hv5-4h3g-4hjv,https://da.gd/Ismww4
+GithubAdvisories,[GHSA-r7p2-r9g4-4xph] Duplicate Advisory: OpenClaw: Gateway hello snapshots exposed host config and state paths to non-admin clients,https://github.com/advisories/GHSA-r7p2-r9g4-4xph,https://da.gd/JwD4E
+GithubAdvisories,[GHSA-cw28-63x4-37c3] Duplicate Advisory: OpenClaw: Voice-call Plivo replay mutates in-process callback origin before replay rejection,https://github.com/advisories/GHSA-cw28-63x4-37c3,https://da.gd/tpKMIS
+GithubAdvisories,[GHSA-wcm7-94wg-h74h] Duplicate Advisory: OpenClaw host-env blocklist missing `GIT_TEMPLATE_DIR` and `AWS_CONFIG_FILE` allows code execution via env override,https://github.com/advisories/GHSA-wcm7-94wg-h74h,https://da.gd/SUL5e
+GithubAdvisories,[GHSA-jx3c-247h-cxwp] Duplicate Advisory: OpenClaw: Workspace `.env` can override the bundled hooks root and load attacker hook code,https://github.com/advisories/GHSA-jx3c-247h-cxwp,https://da.gd/hjA4x
+GithubAdvisories,[GHSA-fjm8-mgc9-mf65] Duplicate Advisory: OpenClaw Has a Gateway Control Interface Information Disclosure Vulnerability,https://github.com/advisories/GHSA-fjm8-mgc9-mf65,https://da.gd/lvfR
+GithubAdvisories,[GHSA-pr66-whqj-rq5p] Duplicate Advisory: OpenClaw: Discord Component Interaction Misclassifies Group DM as Direct Message,https://github.com/advisories/GHSA-pr66-whqj-rq5p,https://da.gd/aeD5Fg
+GithubAdvisories,[GHSA-g38r-8gmr-ghrf] `mysten-metrics` was removed from crates.io for malicious code,https://github.com/advisories/GHSA-g38r-8gmr-ghrf,https://da.gd/o2jcE
+GithubAdvisories,[GHSA-qprh-m6p3-hwxc] `sui-execution-cut` was removed from crates.io for malicious code,https://github.com/advisories/GHSA-qprh-m6p3-hwxc,https://da.gd/w4vTH
