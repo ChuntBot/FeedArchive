@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 22.04 LTS curl Important Network Exposure Advisory USN-8227-1,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8227-1-curl,https://da.gd/Iis0eS
+LinuxSecurity,Ubuntu 22.04 LTS Exim Critical Remote Code Exec Issues USN-8228-1,https://linuxsecurity.com/advisories/ubuntu/exim-ubuntu-8228-1,https://da.gd/6ylxr
+LinuxSecurity,Ubuntu 26.04 LTS Sed Critical Overwrite Risk USN-8229-1 CVE-2026-5958,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8229-1-sed,https://da.gd/OoNv
+LinuxSecurity,Debian 11 Thunderbird Important Exec Code Threat DLA-4562-1 CVE-2026-7320,https://linuxsecurity.com/advisories/deblts/debian-dla-4562-1-thunderbird,https://da.gd/dmaW3
+LinuxSecurity,Oracle7 ELSA-2026-50255 kernel Copy Fail Important,https://linuxsecurity.com/advisories/oracle/oracle7-elisa-2026-50255-kernel,https://da.gd/hnDWC
+LinuxSecurity,Oracle8 ELSA-2026-50255 kernel Copy Fail Important,https://linuxsecurity.com/advisories/oracle/oracle8-elisa-2026-50255-kernel,https://da.gd/xVMOe
