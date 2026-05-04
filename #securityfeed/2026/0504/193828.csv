@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q49m-57vm-c8cc] Kata Container has CopyFile Policy Subversion via Symlinks,https://github.com/advisories/GHSA-q49m-57vm-c8cc,https://da.gd/BmIwNb
+GithubAdvisories,[GHSA-xj4f-8jjg-vx4q] OpenMRS has Stored Velocity SSTI to RCE via ConceptReferenceRange,https://github.com/advisories/GHSA-xj4f-8jjg-vx4q,https://da.gd/EhxI
+GithubAdvisories,[GHSA-p6hg-qh38-555r] Traefik's errors middleware forwards Authorization and Cookie headers to separate error page service,https://github.com/advisories/GHSA-p6hg-qh38-555r,https://da.gd/cDhyP
+GithubAdvisories,[GHSA-62p3-hvxx-fxg4] Gotenberg has an ExifTool Dangerous Tag Blocklist Bypass via Group-Prefixed Tag Names that Allows Arbitrary File Rename and Move,https://github.com/advisories/GHSA-62p3-hvxx-fxg4,https://da.gd/2GfxAU
+GithubAdvisories,[GHSA-4m88-wxj4-9qj6] Incus Vulnerable to Panic via Snapshot Bounds Check,https://github.com/advisories/GHSA-4m88-wxj4-9qj6,https://da.gd/hBy8u
