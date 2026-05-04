@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g27r-r6ph-vf5r] sequoia-git has broken hard revocation handling,https://github.com/advisories/GHSA-g27r-r6ph-vf5r,https://da.gd/eSkO
+GithubAdvisories,[GHSA-fc86-6rv6-2jpm] webonyx/graphql-php has quadratic validation cost in OverlappingFieldsCanBeMerged via inline fragments,https://github.com/advisories/GHSA-fc86-6rv6-2jpm,https://da.gd/jwMi61
+GithubAdvisories,[GHSA-gxxh-8vcj-w2mh] livewire-markdown-editor has arbitrary file upload that allows stored XSS via attachment handler,https://github.com/advisories/GHSA-gxxh-8vcj-w2mh,https://da.gd/Gxx51L
+GithubAdvisories,[GHSA-pg67-9wjv-mr85] pyload-ng: non-admin SETTINGS users can redirect all outbound traffic through an attacker-controlled proxy via unrestricted `proxy.*` config (incomplete fix for CVE-2026-33509 / -35463 / -35464 / -35586),https://github.com/advisories/GHSA-pg67-9wjv-mr85,https://da.gd/kp7cj
+GithubAdvisories,[GHSA-ccxc-x975-4hh9] pyload-ng: non-admin SETTINGS users can disable outbound TLS peer verification via unrestricted `ssl_verify` config (incomplete fix for CVE-2026-33509 / -35463 / -35464 / -35586),https://github.com/advisories/GHSA-ccxc-x975-4hh9,https://da.gd/oIiIzH
+GithubAdvisories,"[GHSA-hm49-wcqc-g2xg] net-imap vulnerable to command Injection via ""raw"" arguments to multiple commands",https://github.com/advisories/GHSA-hm49-wcqc-g2xg,https://da.gd/ijhJVq
