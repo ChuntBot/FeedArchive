@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8gw4-p4wq-4hcv] Incus has Blind SSRF via Image Import Preflight HEAD,https://github.com/advisories/GHSA-8gw4-p4wq-4hcv,https://da.gd/bEQnB
+GithubAdvisories,[GHSA-qm77-8qjp-4vcm] OpenClaw: Slack thread context could include messages from non-allowlisted senders,https://github.com/advisories/GHSA-qm77-8qjp-4vcm,https://da.gd/TAtm
+GithubAdvisories,[GHSA-7hrg-5w46-5r2x] Duplicate Advisory: OpenClaw: Slack thread context could include messages from non-allowlisted senders,https://github.com/advisories/GHSA-7hrg-5w46-5r2x,https://da.gd/GUhlu2
