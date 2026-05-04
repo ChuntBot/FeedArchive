@@ -1,0 +1,15 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x3h8-jrgh-p8jx] OpenClaw's exec allowlist analysis rejects shell expansion in unquoted heredocs,https://github.com/advisories/GHSA-x3h8-jrgh-p8jx,https://da.gd/UgwCTf
+GithubAdvisories,[GHSA-r6xh-pqhr-v4xh] OpenClaw: MCP loopback owner context is derived from server-issued bearer tokens,https://github.com/advisories/GHSA-r6xh-pqhr-v4xh,https://da.gd/awU2Xv
+GithubAdvisories,[GHSA-55cf-xx38-4p9p] OpenClaw: Workspace dotenv files cannot override connector endpoint hosts,https://github.com/advisories/GHSA-55cf-xx38-4p9p,https://da.gd/JCMFd
+GithubAdvisories,[GHSA-q3jj-46pq-826r] OpenClaw's ACP child sessions inherit subagent security envelope constraints,https://github.com/advisories/GHSA-q3jj-46pq-826r,https://da.gd/hCza2
+GithubAdvisories,[GHSA-2hh7-c75g-qj2r] OpenClaw validates Zalo outbound photo URLs through the SSRF guard,https://github.com/advisories/GHSA-2hh7-c75g-qj2r,https://da.gd/VTodLs
+GithubAdvisories,[GHSA-pwv6-vv43-88gr] Pillow has an OOB Write with Invalid PSD Tile Extents (Integer Overflow),https://github.com/advisories/GHSA-pwv6-vv43-88gr,https://da.gd/dl9Ez
+GithubAdvisories,[GHSA-r73j-pqj5-w3x7] Pillow has a PDF Parsing Trailer Infinite Loop (DoS),https://github.com/advisories/GHSA-r73j-pqj5-w3x7,https://da.gd/Wxj65J
+GithubAdvisories,[GHSA-wjx4-4jcj-g98j] Pillow has an integer overflow when processing fonts,https://github.com/advisories/GHSA-wjx4-4jcj-g98j,https://da.gd/Of6Wx
+GithubAdvisories,[GHSA-5xmw-vc9v-4wf2] Pillow has a heap buffer overflow with nested list coordinates,https://github.com/advisories/GHSA-5xmw-vc9v-4wf2,https://da.gd/rnd9Y
+GithubAdvisories,[GHSA-qmcv-hh7c-3m56] H2O-3 is Vulnerable to Code Injection,https://github.com/advisories/GHSA-qmcv-hh7c-3m56,https://da.gd/OpPtU
+GithubAdvisories,[GHSA-r35x-v8p8-xvhw] pyp2spec is Vulnerable to Code Injection,https://github.com/advisories/GHSA-r35x-v8p8-xvhw,https://da.gd/WxWmj
+GithubAdvisories,[GHSA-7vf8-2cr6-54mf] Argo vulnerable to exposure of artifact repository credentials,https://github.com/advisories/GHSA-7vf8-2cr6-54mf,https://da.gd/QN2QM2
+GithubAdvisories,"[GHSA-3775-99mw-8rp4] Argo has incomplete fix for CVE-2026-31892: hostNetwork, securityContext, serviceAccountName bypass templateReferencing Strict/Secure",https://github.com/advisories/GHSA-3775-99mw-8rp4,https://da.gd/Z27g
+GithubAdvisories,[GHSA-jcc8-g2q4-9fxq] Argo Vulnerable to Unauthenticated Memory Exhaustion (DoS) in Webhook Interceptor,https://github.com/advisories/GHSA-jcc8-g2q4-9fxq,https://da.gd/WSCC
