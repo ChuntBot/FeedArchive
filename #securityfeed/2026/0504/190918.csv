@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c839-4qxr-j4x3] Incus has an OVN TLS Verification that Accepts Peer-Supplied Roots,https://github.com/advisories/GHSA-c839-4qxr-j4x3,https://da.gd/3WDbH
