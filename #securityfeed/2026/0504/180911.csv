@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r7w7-mmxr-47r9] Incus has a Nil-Pointer Dereference via Custom Volume Import,https://github.com/advisories/GHSA-r7w7-mmxr-47r9,https://da.gd/hpHJ47
+GithubAdvisories,[GHSA-gc7j-g665-rxr9] Incus has a Nil-Pointer Dereference Panic via Bucket Metadata,https://github.com/advisories/GHSA-gc7j-g665-rxr9,https://da.gd/tAkE6
+GithubAdvisories,[GHSA-78fc-9688-w8xw] OpenMRS Module Upload Vulnerable to Path Traversal (Zip Slip),https://github.com/advisories/GHSA-78fc-9688-w8xw,https://da.gd/Wvonw
