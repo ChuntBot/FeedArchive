@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rc95-pcm8-65v9] Quarkus has Authentication/Authorization bypasses,https://github.com/advisories/GHSA-rc95-pcm8-65v9,https://da.gd/Vn3aF
+GithubAdvisories,[GHSA-jjgj-cx3q-pw4w] OpenMRS ModuleResourcesServlet has Path Traversal that Leads to Arbitrary File Read,https://github.com/advisories/GHSA-jjgj-cx3q-pw4w,https://da.gd/yofFk1
