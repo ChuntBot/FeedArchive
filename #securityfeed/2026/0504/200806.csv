@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-p4gq-3vxj-f4jq] Argo Affected by SSO RBAC Delegation Nil Pointer Dereference DoS (gatekeeper.go),https://github.com/advisories/GHSA-p4gq-3vxj-f4jq,https://da.gd/By84AK
+GithubAdvisories,[GHSA-xchc-cqwg-g76q] Argo has Missing Authorization in its Sync ConfigMap Provider,https://github.com/advisories/GHSA-xchc-cqwg-g76q,https://da.gd/2CxcYy
+GithubAdvisories,[GHSA-x68m-c7jf-2572] Kirby CMS's system API endpoint leaks installed version and license data to authenticated users,https://github.com/advisories/GHSA-x68m-c7jf-2572,https://da.gd/Nb0Do
+GithubAdvisories,"[GHSA-39cp-6679-8xv2] Kirby CMS doesn't gate user avatar creation, replacement and deletion with user update permissions",https://github.com/advisories/GHSA-39cp-6679-8xv2,https://da.gd/qMsDP
+GithubAdvisories,"[GHSA-2h7v-4372-f6x2] Kirby CMS's read access to site, user and role information is not gated by permissions",https://github.com/advisories/GHSA-2h7v-4372-f6x2,https://da.gd/fCKA3U
+GithubAdvisories,[GHSA-98vh-x9cx-9cfp] Incus is affected by unbounded binary import disk exhaustion,https://github.com/advisories/GHSA-98vh-x9cx-9cfp,https://da.gd/ttQNRj
+GithubAdvisories,[GHSA-x5r6-jr56-89pv] Incus has Nil Dereferences on Restore via Malformed YAML,https://github.com/advisories/GHSA-x5r6-jr56-89pv,https://da.gd/AlO3d
+GithubAdvisories,[GHSA-67wx-r9xr-x75x] Incus has Unbounded YAML Metadata Decode via Parsing,https://github.com/advisories/GHSA-67wx-r9xr-x75x,https://da.gd/guIL
+GithubAdvisories,[GHSA-fwj8-62r8-8p8m] Incus has Nil-Pointer Dereference via S3 Bucket Import,https://github.com/advisories/GHSA-fwj8-62r8-8p8m,https://da.gd/OxOJJ
