@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qgx9-6px9-7p75] Duplicate Advisory: OpenClaw: Assistant media route missed scope enforcement for trusted-proxy authorization,https://github.com/advisories/GHSA-qgx9-6px9-7p75,https://da.gd/EJWWq
+GithubAdvisories,[GHSA-wppj-c6mr-83jj] OpenClaw: OpenShell FS bridge writes stay pinned to the sandbox mount root,https://github.com/advisories/GHSA-wppj-c6mr-83jj,https://da.gd/aPuy0l
+GithubAdvisories,[GHSA-v7cp-2cx9-x793] changedetection.io project has an XXE vulnerability,https://github.com/advisories/GHSA-v7cp-2cx9-x793,https://da.gd/7jjSXO
+GithubAdvisories,[GHSA-vmfm-ch9h-5c7g] Signal K Server's WebSocket Login Endpoint Lacks Rate Limiting (Credential Brute-Force),https://github.com/advisories/GHSA-vmfm-ch9h-5c7g,https://da.gd/9WGC1
+GithubAdvisories,[GHSA-5hfv-c864-qcq9] CI4MS has a Deactivated User Session Bypass (active=0),https://github.com/advisories/GHSA-5hfv-c864-qcq9,https://da.gd/zYkEK
+GithubAdvisories,[GHSA-vgrf-pr28-vf98] CI4MS Vulnerable to Arbitrary Database Table Drop via Theme deleteProcess,https://github.com/advisories/GHSA-vgrf-pr28-vf98,https://da.gd/miiNgb
+GithubAdvisories,[GHSA-6pjf-3r9x-m592] Distribution's tag deletion bypasses `storage.delete.enabled` configuration,https://github.com/advisories/GHSA-6pjf-3r9x-m592,https://da.gd/P6Fs7b
