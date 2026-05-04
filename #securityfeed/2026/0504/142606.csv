@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ExploitDB,[local] Linux Kernel proc_readdir_de() 6.18-rc5 - Local Privilege Escalation,https://www.exploit-db.com/exploits/52550,https://da.gd/gOvdE
+ExploitDB,[local] Linux nf_tables 6.19.3 - Local Privilege Escalation,https://www.exploit-db.com/exploits/52549,https://da.gd/FktT4c
+ExploitDB,[hardware] Linksys E1200 2.0.04 - Authenticated Stack Buffer Overflow (RCE),https://www.exploit-db.com/exploits/52548,https://da.gd/bBfsX7
+ExploitDB,[webapps] MindsDB 25.9.1.1 - Path Traversal,https://www.exploit-db.com/exploits/52547,https://da.gd/VDd04
