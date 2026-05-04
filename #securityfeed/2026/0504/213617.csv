@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-3h23-7824-pj8r] ArchiveBox Vulnerable to RCE via unvalidated per-crawl config overrides in AddView,https://github.com/advisories/GHSA-3h23-7824-pj8r,https://da.gd/nRrFNe
+GithubAdvisories,[GHSA-hcwr-pq9g-rq3m] apko doesn't verify downloaded apk packages against APKINDEX checksum (package substitution possible),https://github.com/advisories/GHSA-hcwr-pq9g-rq3m,https://da.gd/hSGN2
+GithubAdvisories,[GHSA-qq3r-w4hj-gjp6] apko dirFS has a symlink-following path traversal that allows multiple entry points to escape the build root,https://github.com/advisories/GHSA-qq3r-w4hj-gjp6,https://da.gd/ETwSuk
+GithubAdvisories,[GHSA-m7hm-vm4x-28jf] apko `DiscoverKeys` has a panic on non-rsa jwks key that causes crash during key discovery,https://github.com/advisories/GHSA-m7hm-vm4x-28jf,https://da.gd/K7DiO
+GithubAdvisories,[GHSA-rpfr-x88x-xwcw] Pelican Web UI Affected by a Privilege Escalation Attack,https://github.com/advisories/GHSA-rpfr-x88x-xwcw,https://da.gd/XWTdQ
+GithubAdvisories,[GHSA-fv26-4939-62fh] phpVMS has an /importer authorization bypass causing full database wipe,https://github.com/advisories/GHSA-fv26-4939-62fh,https://da.gd/6qOzid
+GithubAdvisories,[GHSA-q4ph-8x8g-95f8] AzuraCast Vulnerable to Liquidsoap Code Injection via Incomplete cleanUpString-to-toRawString Migration in Remote Relay Password Field,https://github.com/advisories/GHSA-q4ph-8x8g-95f8,https://da.gd/LN8cN
+GithubAdvisories,"[GHSA-qff7-q5fm-8p76] AzuraCast has Missing Permissions Check on Media File Download, Allowing Cross-Station Data Exfiltration",https://github.com/advisories/GHSA-qff7-q5fm-8p76,https://da.gd/xiAEI
+GithubAdvisories,[GHSA-4fm3-ggg2-c6qx] AzuraCast's Missing RequireInternalConnection on Liquidsoap API Allows Low-Privilege Metadata Injection and Broadcast Disruption,https://github.com/advisories/GHSA-4fm3-ggg2-c6qx,https://da.gd/ijy49l
+GithubAdvisories,[GHSA-gv7r-3mr9-h5x8] AzuraCast has Password Reset Poisoning via Untrusted X-Forwarded-Host Header that Leads to Account Takeover and 2FA Bypass,https://github.com/advisories/GHSA-gv7r-3mr9-h5x8,https://da.gd/B7Ezh
+GithubAdvisories,[GHSA-vp2f-cqqp-478j] AzuraCast has Path Traversal in `currentDirectory` Parameter that Enables Remote Code Execution via Media Upload,https://github.com/advisories/GHSA-vp2f-cqqp-478j,https://da.gd/QnXmM7
+GithubAdvisories,[GHSA-fr8f-rwjx-f32v] quarkus-openapi-generator has overly broad path-parameter matching that sends authentication headers to unintended operations,https://github.com/advisories/GHSA-fr8f-rwjx-f32v,https://da.gd/0zbKXq
+GithubAdvisories,[GHSA-c9ph-gxww-7744] Sandboxed Thymeleaf expressions vulnerable to improper recognition of unauthorized syntax patterns,https://github.com/advisories/GHSA-c9ph-gxww-7744,https://da.gd/MWqBm
+GithubAdvisories,[GHSA-93rg-2xm5-2p9v] OpenClaw's Gateway Control UI bootstrap config required Gateway auth,https://github.com/advisories/GHSA-93rg-2xm5-2p9v,https://da.gd/uF64VB
+GithubAdvisories,[GHSA-5h3g-6xhh-rg6p] OpenClaw: OpenShell FS bridge reads pin and verify the opened file before returning bytes,https://github.com/advisories/GHSA-5h3g-6xhh-rg6p,https://da.gd/dCYp4F
