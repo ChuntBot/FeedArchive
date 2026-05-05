@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-445q-vr5w-6q77] Axios: CRLF Injection in multipart/form-data body via unsanitized blob.type in formDataToStream,https://github.com/advisories/GHSA-445q-vr5w-6q77,https://da.gd/de2bJ
+GithubAdvisories,[GHSA-m7pr-hjqh-92cm] Axios: no_proxy bypass via IP alias allows SSRF,https://github.com/advisories/GHSA-m7pr-hjqh-92cm,https://da.gd/EVLsHN
+GithubAdvisories,[GHSA-62hf-57xw-28j9] Axios: unbounded recursion in toFormData causes DoS via deeply nested request data,https://github.com/advisories/GHSA-62hf-57xw-28j9,https://da.gd/WIUq
+GithubAdvisories,[GHSA-5c9x-8gcm-mpgx] Axios' HTTP adapter-streamed uploads bypass maxBodyLength when maxRedirects: 0,https://github.com/advisories/GHSA-5c9x-8gcm-mpgx,https://da.gd/32jN
