@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vf2m-468p-8v99] Axios: HTTP adapter streamed responses bypass maxContentLength,https://github.com/advisories/GHSA-vf2m-468p-8v99,https://da.gd/qytzht
+GithubAdvisories,"[GHSA-pf86-5x62-jrwf] Axios: Prototype Pollution Gadgets - Response Tampering, Data Exfiltration, and Request Hijacking",https://github.com/advisories/GHSA-pf86-5x62-jrwf,https://da.gd/FrGH3
+GithubAdvisories,[GHSA-6chq-wfr3-2hj9] Axios: Header Injection via Prototype Pollution,https://github.com/advisories/GHSA-6chq-wfr3-2hj9,https://da.gd/RZ1U
+GithubAdvisories,[GHSA-xx6v-rp6x-q39c] Axios: XSRF Token Cross-Origin Leakage via Prototype Pollution Gadget in `withXSRFToken` Boolean Coercion,https://github.com/advisories/GHSA-xx6v-rp6x-q39c,https://da.gd/5OP6h
+GithubAdvisories,[GHSA-p4r4-xvrq-gvmc] Grafana Tempo has an Uncontrolled Resource Consumption issue,https://github.com/advisories/GHSA-p4r4-xvrq-gvmc,https://da.gd/CrAj5
+GithubAdvisories,[GHSA-w9j2-pvgh-6h63] Axios: Authentication Bypass via Prototype Pollution Gadget in `validateStatus` Merge Strategy,https://github.com/advisories/GHSA-w9j2-pvgh-6h63,https://da.gd/owl72
+GithubAdvisories,[GHSA-pmwg-cvhr-8vh7] Axios: Incomplete Fix for CVE-2025-62718 — NO_PROXY Protection Bypassed via RFC 1122 Loopback Subnet (127.0.0.0/8) in Axios 1.15.0,https://github.com/advisories/GHSA-pmwg-cvhr-8vh7,https://da.gd/A1Tef
+GithubAdvisories,[GHSA-3w6x-2g7m-8v23] Axios: Invisible JSON Response Tampering via Prototype Pollution Gadget in `parseReviver`,https://github.com/advisories/GHSA-3w6x-2g7m-8v23,https://da.gd/UheyO
+GithubAdvisories,[GHSA-q8qp-cvcw-x6jj] Axios has prototype pollution read-side gadgets in HTTP adapter that allow credential injection and request hijacking,https://github.com/advisories/GHSA-q8qp-cvcw-x6jj,https://da.gd/MFTkNk
+GithubAdvisories,[GHSA-xhjh-pmcv-23jw] Axios: Null Byte Injection via Reverse-Encoding in AxiosURLSearchParams,https://github.com/advisories/GHSA-xhjh-pmcv-23jw,https://da.gd/LhKrN
+GithubAdvisories,[GHSA-72mv-wwvm-vgp5] Apache DolphinScheduler has an Incorrect Authorization Vulnerability,https://github.com/advisories/GHSA-72mv-wwvm-vgp5,https://da.gd/WPXbhx
+GithubAdvisories,[GHSA-mr6m-xj7v-3cv3] Apache ActiveMQ Vulnerable to Code Injection,https://github.com/advisories/GHSA-mr6m-xj7v-3cv3,https://da.gd/Xxi8g
+GithubAdvisories,[GHSA-2jp3-2923-9h52] Apache ActiveMQ Vulnerable to Cross-site Scripting,https://github.com/advisories/GHSA-2jp3-2923-9h52,https://da.gd/Uo139
+GithubAdvisories,[GHSA-w3w2-mpp5-92gm] Apache ActiveMQ Vulnerable to Improper Input Validation and Code Injection,https://github.com/advisories/GHSA-w3w2-mpp5-92gm,https://da.gd/7TdtN
+GithubAdvisories,[GHSA-f786-9c63-8xr8] Apache DolphinScheduler RPC module has a Deserialization of Untrusted Data vulnerability,https://github.com/advisories/GHSA-f786-9c63-8xr8,https://da.gd/XNsmcn
+GithubAdvisories,[GHSA-8pqq-224h-x875] ogham-mcp had credentials embedded in published PyPI sdists -- Neon postgres URLs and Voyage API key,https://github.com/advisories/GHSA-8pqq-224h-x875,https://da.gd/sudDf
