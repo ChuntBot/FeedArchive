@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Fedora 42 PowerDNS Major Security Advisory 2026-abd12345xy,https://linuxsecurity.com/advisories/fedora/fedora-42-pdns,https://da.gd/V1uEV7
+LinuxSecurity,Ubuntu 26.04 Dynaconf Vulnerability for Arbitrary Code Execution Issue,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8231-1-dynaconf,https://da.gd/eKH25
+LinuxSecurity,Debian DSA-6248-1 Apache2 Critical RCE Privilege Escalation Risks,https://linuxsecurity.com/advisories/debian/debian-dsa-6248-1-apache2,https://da.gd/8wrkD
+LinuxSecurity,Ubuntu 26.04 WebKitGTK Important Remote Code Exec DoS USN-8237-1,https://linuxsecurity.com/advisories/ubuntu/webkitgtk-ubuntu-8237-1,https://da.gd/SZrSG
+LinuxSecurity,Debian 11 OpenJDK Important Denial of Service Risks DLA-4566-1,https://linuxsecurity.com/advisories/deblts/debian-dla-4566-1-openjdk-11,https://da.gd/upb6Do
+LinuxSecurity,Debian 11 OpenJDK-17 Denial Of Service Info Disclosure DLA-4565-1,https://linuxsecurity.com/advisories/deblts/openjdk-17-debian-dla-4565-1,https://da.gd/luYC1
