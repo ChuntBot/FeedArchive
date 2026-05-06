@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 26.04 python-mako Medium Info Exposure Vuln 2026-41205,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8234-1-mako,https://da.gd/aQbRe
+LinuxSecurity,Debian 11 PyJWT Critical Header Parameter Issue DLA-4564-1 CVE-2026-32597,https://linuxsecurity.com/advisories/deblts/debian-dla-4564-1-pyjwt,https://da.gd/tKVnrS
+LinuxSecurity,openSUSE Tumbleweed Security Notification Prometheus CVE-2026-42155 Info,https://linuxsecurity.com/advisories/opensuse/golang-github-prometheus-prometheus-3-11-3,https://da.gd/Sh7n6
+LinuxSecurity,openSUSE Tumbleweed dpkg Moderate Update Threat CVE-2026-2219 2026-10675-1,https://linuxsecurity.com/advisories/opensuse/opensuse-dpkg-1-22-22-1-1,https://da.gd/My4uxN
+LinuxSecurity,openSUSE Tumbleweed curl 8.20.0 Moderate Security Update 10674-1,https://linuxsecurity.com/advisories/opensuse/curl-opensuse-2026-10674-1,https://da.gd/sjCJfR
+LinuxSecurity,openSUSE Tumbleweed coredns Moderate Vulnerabilities Fix 2026-10673-1,https://linuxsecurity.com/advisories/opensuse/coredns-opensuse-2026-10673-1,https://da.gd/lkRlZ
