@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 26.04 LTS Postfix Key Denial of Service Vulnerability USN-8253-1,https://linuxsecurity.com/advisories/ubuntu/postfix-ubuntu-8253-1,https://da.gd/Rky8r
+LinuxSecurity,Ubuntu 26.04 LTS OpenJPEG Important Memory Issue CVE-2026-6192,https://linuxsecurity.com/advisories/ubuntu/openjpeg-ubuntu-8252-1,https://da.gd/xLo9mK
+LinuxSecurity,Ubuntu 25.10 libpng Critical DoS Vulnerabilities USN-8251-1 CVE-2026-33416,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8251-1-libpng,https://da.gd/0H9bZ
+LinuxSecurity,Ubuntu 26.04 LTS USN 8250-1 lcms2 Critical Denial of Service,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8250-1-little-cms,https://da.gd/9ltSd
+LinuxSecurity,Ubuntu 25.10 dpkg Important Denial of Service Risk USN-8249-1,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8249-1-dpkg,https://da.gd/Yn5Fy5
+LinuxSecurity,Ubuntu 24.04 LTS NASM Critical Heap Overflow Denial of Service USN-8248-1,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8248-1-nasm,https://da.gd/eXPFw
