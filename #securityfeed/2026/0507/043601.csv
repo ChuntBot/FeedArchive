@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian DSA-6249-1 Wireshark Critical Denial of Service Threats,https://linuxsecurity.com/advisories/debian/debian-dsa-6249-1-wireshark,https://da.gd/In58OX
+LinuxSecurity,openSUSE 15.5 openssl-3 Moderate NULL Pointer Threat SUSE-SU-2026-1711-1,https://linuxsecurity.com/advisories/opensuse/openssl-opensuse-2026-1711-1,https://da.gd/WRtyvg
+LinuxSecurity,openSUSE Leap 15.5 SUSE-SU-2026-1711-1 OpenSSL Moderate DoS CVE-2026-28390,https://linuxsecurity.com/advisories/suse/openssl-suse-2026-1711-1,https://da.gd/cCj4Yn
+LinuxSecurity,SUSE OpenEXR Important Integer Overflow Security Update 2026-1712-1,https://linuxsecurity.com/advisories/suse/openexr-suse-2026-1712-1,https://da.gd/C4S40
+LinuxSecurity,SUSE Linux 12 SP5 Flatpak Important Updates CVE-2026-34078 CVE-2026-34079,https://linuxsecurity.com/advisories/suse/suse-flatpak-2026-1713-1,https://da.gd/R0GpPP
+LinuxSecurity,SUSE Linux 15 SP4 Important Erlang Update Denial of Service 2026-1714-1,https://linuxsecurity.com/advisories/suse/erlang-suse-2026-1714-1,https://da.gd/PjVk
