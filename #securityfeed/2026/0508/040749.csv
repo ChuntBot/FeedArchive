@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu 24.04 PostfixAdmin An Important Fix for XSS Attack USN-8242-2,https://linuxsecurity.com/advisories/ubuntu/postfixadmin-8242-2,https://da.gd/le9XsM
+LinuxSecurity,Ubuntu 22.04 CiviCRM Important JavaScript Execution Risk USN-8242-1,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8242-1-civicrm,https://da.gd/LX17gJ
+LinuxSecurity,openSUSE 389-ds Important Heap Overflow Fix CVE-2025-14905 2026-1753-1,https://linuxsecurity.com/advisories/opensuse/opensuse-2026-1753-1-389-ds,https://da.gd/jJdGw
+LinuxSecurity,SUSE Linux 15 SP4 389-ds Important Heap Overflow Risk 2026-1753-1,https://linuxsecurity.com/advisories/suse/389-ds-suse-2026-1753-1,https://da.gd/crUBRR
+LinuxSecurity,SUSE Linux 12 SP5 Freeipmi Important Memory Handling Issue CVE-2026-33554,https://linuxsecurity.com/advisories/suse/freeipmi-suse-2026-1754-1,https://da.gd/kRUYXD
+LinuxSecurity,SUSE 15 SP4 FreeIPMI Important Buffer Overflow Fix CVE-2026-33554,https://linuxsecurity.com/advisories/suse/freeipmi-suse-2026-1755-1,https://da.gd/t9aZd
