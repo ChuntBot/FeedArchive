@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian 11 Rails Critical RCE Vulnerability DLA-4578-1 CVE-2022-32224,https://linuxsecurity.com/advisories/deblts/debian-dla-4578-1-rails,https://da.gd/fsKn7
+LinuxSecurity,Debian 11 p7zip-rar DLA-4577-1 Memory Corruption DoS Risk CVE-2025-53816,https://linuxsecurity.com/advisories/deblts/debian-dla-4577-1-p7zip-rar,https://da.gd/ye7j3d
+LinuxSecurity,Debian LTS DLA-4576-1 p7zip Critical RCE DoS Issues Fixed,https://linuxsecurity.com/advisories/deblts/debian-dla-4576-1-p7zip,https://da.gd/2bkUs
+LinuxSecurity,Debian 11 python-authlib Critical Auth Bypass & Info Leak DLA-4579-1,https://linuxsecurity.com/advisories/deblts/debian-dla-4579-1-python-authlib,https://da.gd/dk2Xbj
+LinuxSecurity,Ubuntu 24.04 LTS 22.04 LTS Linux-Nvidia Important Kernel Issues USN-8254-2,https://linuxsecurity.com/advisories/ubuntu/linux-kernel-ubuntu-8254-2-nvidia,https://da.gd/FS3qs3
+LinuxSecurity,Ubuntu 22.04 LTS USN-8180-6 linux-raspi Critical Kernel Issues,https://linuxsecurity.com/advisories/ubuntu/ubuntu-linux-kernel-8180-6,https://da.gd/00oqg
