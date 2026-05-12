@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[Web] escape HTML in sieve filter edit view and queue manager,https://github.com/mailcow/mailcow-dockerized/commit/33547d1d73237270e6d2f21edace5b2317856a1c,https://da.gd/lJjryo
+GithubCommitStaging,Merge pull request #7220 from mailcow/fix/06052026,https://github.com/mailcow/mailcow-dockerized/commit/a8e945f3da89b98258a01b5137ca1a9dc72d67d9,https://da.gd/dQy2F
