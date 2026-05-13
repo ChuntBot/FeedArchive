@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+r/NetSec,"On vendor disclosure timelines, bounty programme incentive misalignment, and the psychological contract",https://redd.it/1tcbq5i,
+r/NetSec,"/sbin/ping -G sweepmax has no bounds check on macOS: deterministic BSS out-of-bounds write, confirmed by Apple",https://redd.it/1tcbp38,
+r/NetSec,"Apple's smbd has no FSCTL_SRV_COPYCHUNK limit enforcement: 256 bytes in, 64 GiB disk I/O out",https://redd.it/1tcbomg,
