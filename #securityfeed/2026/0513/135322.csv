@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,openSUSE 2026 Trivy Moderate Security Fix Advisory 20720-1 CVE-2026-41506,https://linuxsecurity.com/advisories/opensuse/opensuse-2026-20720-1-trivy,https://da.gd/5ar3Fd
+LinuxSecurity,openSUSE Leap 16.0 raylib Critical Buffer Overflow Issue 2026-20717-1,https://linuxsecurity.com/advisories/opensuse/opensuse-2026-20717-1-raylib,https://da.gd/aITZSK
+LinuxSecurity,Mageia 9 perl-Gazelle Important HTTP Request Smuggling Fix MGSAS-2026-0130,https://linuxsecurity.com/advisories/mageia/perl-gazelle-mageia-2026-0130,https://da.gd/ho1Xpo
+LinuxSecurity,Mageia 9 Apache Security Fix RCE Buffer Overflow MGASA-2026-0129,https://linuxsecurity.com/advisories/mageia/apache-mageia-2026-0129,https://da.gd/ESpJ
+LinuxSecurity,Mageia 9 sed Important Race Condition Issue MGASA-2026-0128 CVE-2026-5958,https://linuxsecurity.com/advisories/mageia/mageia-2026-0128-sed,https://da.gd/2dTc
+LinuxSecurity,Mageia 9 PHP Critical Security Advisory MGASA-2026-0127 CVE-2026-6735,https://linuxsecurity.com/advisories/mageia/mageia-2026-0127-php,https://da.gd/tXies
