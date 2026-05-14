@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian DSA-6271-1 gsasl Critical Denial of Service Vulnerability Fix,https://linuxsecurity.com/advisories/debian/debian-dsa-6271-1-gsasl,https://da.gd/cuFib2
+LinuxSecurity,Debian Trixie PostgreSQL-17 Key SQL Injection Vulnerability DSA-6270-1,https://linuxsecurity.com/advisories/debian/debian-dsa-6270-1-postgresql-17,https://da.gd/dQgtgU
+LinuxSecurity,Debian DSA-6269-1 PostgreSQL 15 Serious SQL Injection Disruption,https://linuxsecurity.com/advisories/debian/debian-dsa-6269-1-postgresql-15,https://da.gd/M0N16B
