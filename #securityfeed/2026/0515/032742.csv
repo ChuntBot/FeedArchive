@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+LinuxSecurity,Debian Node.js DSA-6272-1 Critical Denial of Service Issues,https://linuxsecurity.com/advisories/debian/debian-dsa-6272-1-nodejs,https://da.gd/BljaA
+LinuxSecurity,Ubuntu 26.04 LTS Avahi Critical DoS Fix USN-8269-1 CVE-2026-24401,https://linuxsecurity.com/advisories/ubuntu/ubuntu-8269-1-avahi,https://da.gd/WRBWh
+LinuxSecurity,Debian 11 Apache2 High Remote Code Exec Privilege Escalation DLA-4571-1,https://linuxsecurity.com/advisories/deblts/debian-dla-4571-1-apache2-2026-24072,https://da.gd/s077p
