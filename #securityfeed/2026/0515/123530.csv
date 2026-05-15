@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+LinuxSecurity,Mageia 9 LibreOffice Critical Heap Buffer Overflow Fix MGASA-2026-0141,https://linuxsecurity.com/advisories/mageia/mageia-2026-0141-libreoffice,https://da.gd/zj6p0g
+LinuxSecurity,Mageia 9 perl-HTTP-Tiny Important CRLF Issue MGASA-2026-0140 CVE-2026-7010,https://linuxsecurity.com/advisories/mageia/mageia-2026-0140-perl-http-tiny,https://da.gd/CXclG
+LinuxSecurity,Mageia 9 Tomcat Important WebDAV HTTP/2 Security Fix MGASA-2026-0139,https://linuxsecurity.com/advisories/mageia/mageia-2026-0139-tomcat,https://da.gd/I11hIc
+LinuxSecurity,Mageia 9 AWStats Major Command Injection Vulnerability Fix MGASA-2026-0138,https://linuxsecurity.com/advisories/mageia/mageia-2026-0138-awstats,https://da.gd/xbKRxj
