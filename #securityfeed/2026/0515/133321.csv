@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+LinuxSecurity,Ubuntu OS Nano 20.04 libcrypto High OOB Security Flaw 2023-11987-2,https://linuxsecurity.com/advisories/suse/suse-2026-21581-1-libtpms,https://da.gd/9GYzWC
+LinuxSecurity,SUSE Linux Micro 6.2 iproute2 Low Terminal Lock Up 2026-21582-1,https://linuxsecurity.com/advisories/suse/suse-2026-21582-1-iproute2,https://da.gd/tuCjhm
+LinuxSecurity,SUSE Linux Micro 6.2 21583-1 Low Cairo Poppler Crash Advisory,https://linuxsecurity.com/advisories/suse/suse-2026-21583-1-cairo,https://da.gd/NRtEhu
+LinuxSecurity,SUSE Linux Micro 6.2 c-ares Moderate Memory Leak Flaw 2026-21584-2,https://linuxsecurity.com/advisories/suse/suse-2026-21584-1-c-ares,https://da.gd/QHjhfI
+LinuxSecurity,SUSE Linux Micro 6.2 python-lxml Moderate Info Disclosure CVE-2026-41066,https://linuxsecurity.com/advisories/suse/suse-2026-21587-1-python-lxml,https://da.gd/ZL6CUQ
+LinuxSecurity,SUSE Linux Micro 6.2 Kernel Important Update DoS Advisory 2026-21590-1,https://linuxsecurity.com/advisories/suse/suse-2026-21590-1-kernel,https://da.gd/xyHzt
