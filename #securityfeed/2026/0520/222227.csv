@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+FreeBSDSecurityNotice,FreeBSD-EN-26:13.freebsd-update,https://www.freebsd.org/security/advisories/FreeBSD-EN-26:13.freebsd-update.asc,https://da.gd/a78HW
+FreeBSDSecurityNotice,FreeBSD-SA-26:24.cap_net,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:24.cap_net.asc,https://da.gd/8qMgv
+FreeBSDSecurityNotice,FreeBSD-SA-26:23.bsdinstall,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:23.bsdinstall.asc,https://da.gd/2bntJ1
+FreeBSDSecurityNotice,FreeBSD-SA-26:22.libcasper,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:22.libcasper.asc,https://da.gd/V1r6xL
+FreeBSDSecurityNotice,FreeBSD-SA-26:21.ptrace,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:21.ptrace.asc,https://da.gd/dTCIfX
+FreeBSDSecurityNotice,FreeBSD-SA-26:20.fusefs,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:20.fusefs.asc,https://da.gd/BQ6A4
+FreeBSDSecurityNotice,FreeBSD-SA-26:19.file,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:19.file.asc,https://da.gd/jZM2
+FreeBSDSecurityNotice,FreeBSD-SA-26:18.setcred,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:18.setcred.asc,https://da.gd/GEFlKN
