@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GithubCommit,[Web] Updated lang.pt-br.json (#7228),https://github.com/mailcow/mailcow-dockerized/commit/b0d16bbceec562b3ef39464bc5bad9221d6332ee,https://da.gd/HcmrL
+GithubCommit,Add Uzbek language (#7224),https://github.com/mailcow/mailcow-dockerized/commit/4ddcee28e4c0be584dae3e4b149723222d35a9cd,https://da.gd/jB5cUi
+GithubCommit,Update devops-infra/action-pull-request action to v1.1.1 (#7234),https://github.com/mailcow/mailcow-dockerized/commit/07373907e3722fe15d31e68d93a281f92d344400,https://da.gd/ikiFx
+GithubCommit,[Nginx] Update to 1.30.1,https://github.com/mailcow/mailcow-dockerized/commit/f553f38635bc87ef6a2f00e3a39a04b82599aa30,https://da.gd/5sjnM
+GithubCommit,escape HTML in quarantine table,https://github.com/mailcow/mailcow-dockerized/commit/cbd3d8b9bcb9772642bdc65111a4e615a8d8ee27,https://da.gd/ljBQ9n
+GithubCommit,Merge pull request #7240 from mailcow/feat/nginx1.30.1,https://github.com/mailcow/mailcow-dockerized/commit/c9cf8d7f38448fe381d2439d673b331d95965a15,https://da.gd/ZlVR
+GithubCommit,Merge pull request #7241 from mailcow/fix/quarantinetable,https://github.com/mailcow/mailcow-dockerized/commit/22ae1f5363d2550110656915bafb7cb41aba0b17,https://da.gd/11UN5G
+GithubCommit,Merge pull request #7243 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/1eb6d2e26cf234bd2e80f32b5f556b5e173ed33b,https://da.gd/eEQmQe
