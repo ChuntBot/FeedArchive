@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ExploitDB,[webapps] Apache HTTP Server 2.4.66 - 'mod_http2' Double-Free Denial of Service,https://www.exploit-db.com/exploits/52577,https://da.gd/XGfv
+ExploitDB,[hardware] D-Link DSL2600U - 'rom-0' Admin Password Disclosure,https://www.exploit-db.com/exploits/52576,https://da.gd/e2POu
+ExploitDB,[webapps] Wordpress Temporary Login Plugin 1.0.0 - 'temp-login-token' Authentication Bypass to Account Takeover,https://www.exploit-db.com/exploits/52575,https://da.gd/MoXVa
+ExploitDB,[webapps] cPanel - CRLF Injection,https://www.exploit-db.com/exploits/52574,https://da.gd/UBKyoh
+ExploitDB,[local] Linux Kernel 6.8 - Local Privilege Escalation,https://www.exploit-db.com/exploits/52573,https://da.gd/v5RK3U
