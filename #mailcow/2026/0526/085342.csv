@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubCommit,Update actions/stale action to v10.3.0 (#7242),https://github.com/mailcow/mailcow-dockerized/commit/da586682f64631bd683c4d07e24665bd85168554,https://da.gd/BVDrxX
+GithubCommit,[Web] Updated lang.pl-pl.json (#7245),https://github.com/mailcow/mailcow-dockerized/commit/4f2348631a8cc3791e6168acfb09e2e2d61ac0a2,https://da.gd/pAucly
+GithubCommit,Update devops-infra/action-pull-request action to v1.1.2 (#7247),https://github.com/mailcow/mailcow-dockerized/commit/aed440bcb3b33308b48f81ded97443f5b1d6ea1f,https://da.gd/UiC0Q
+GithubCommit,Update Dockerfile,https://github.com/mailcow/mailcow-dockerized/commit/7d17715e2e8081cac5167f144142d05155974377,https://da.gd/EJmzzl
+GithubCommit,Update docker-compose.yml,https://github.com/mailcow/mailcow-dockerized/commit/efc2e761597b25d46ce1c51ad5b6b9c03afdb80d,https://da.gd/YTfhV
+GithubCommit,Update devops-infra/action-pull-request action to v1.1.3 (#7253),https://github.com/mailcow/mailcow-dockerized/commit/ce3ceaf5b8fd57197f43c4e27400a36130b3b399,https://da.gd/WDr984
+GithubCommit,Update devops-infra/action-pull-request action to v1.2.0 (#7254),https://github.com/mailcow/mailcow-dockerized/commit/e6fa0c5099aa0c39f91c04807695b09afb4aa6a0,https://da.gd/FGEEV
+GithubCommit,[Nginx] Update to 1.30.2,https://github.com/mailcow/mailcow-dockerized/commit/db4e3b4d5405c5a594d5aed8f37cfe0151e50a28,https://da.gd/k5yv1
+GithubCommit,Merge pull request #7259 from mailcow/feat/nginx-1.30.2,https://github.com/mailcow/mailcow-dockerized/commit/b227c761566f2cc720848b9a488ffcd3ab2466af,https://da.gd/j9P8O
+GithubCommit,Merge pull request #7252 from SYNLINQ/staging,https://github.com/mailcow/mailcow-dockerized/commit/be37bc5a681f703988f318a6460c29cb68dfb870,https://da.gd/W7GXa
+GithubCommit,[Unbound] Change version tag,https://github.com/mailcow/mailcow-dockerized/commit/faac56a6110f315288cb3f420412f380efc9c8a0,https://da.gd/TLmSk
+GithubCommit,Merge pull request #7260 from mailcow/staging,https://github.com/mailcow/mailcow-dockerized/commit/2ac4b1deaee50e1284d644cecc16dcb0b37e67e2,https://da.gd/rWnMxB
