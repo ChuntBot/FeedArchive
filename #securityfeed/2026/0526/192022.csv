@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g2g4-47gv-p72v] CryptPad has a Sanitizer Bypass in Diffmarked.js that Allows Arbitrary HTML Injection and Potential XSS,https://github.com/advisories/GHSA-g2g4-47gv-p72v,https://da.gd/Y4O6Vl
+GithubAdvisories,[GHSA-qrvh-r3f2-9h4r] XWiki Platform has an Unauthenticated XAR Import via REST /wikis/{wikiName},https://github.com/advisories/GHSA-qrvh-r3f2-9h4r,https://da.gd/vYd2A
+GithubAdvisories,[GHSA-hqmv-v56g-4m47] Typebot.io has stored XSS via `javascript`: URI in text bubble links — bot author executes JS on visitors' browsers,https://github.com/advisories/GHSA-hqmv-v56g-4m47,https://da.gd/HTbjb
+GithubAdvisories,[GHSA-6m7c-xfhp-p9fh] Typebot has Stored XSS via Rating Block Custom Icon that Bypasses isUnsafe Sandbox in Builder Preview,https://github.com/advisories/GHSA-6m7c-xfhp-p9fh,https://da.gd/612Yx9
+GithubAdvisories,[GHSA-xq3r-2qv5-vqqm] XWiki Platform has path traversal via resources parameter in ssx and jsx endpoints when using leading slash,https://github.com/advisories/GHSA-xq3r-2qv5-vqqm,https://da.gd/rj66E
+GithubAdvisories,[GHSA-hfpv-mc5v-p9mm] Weblate has a Server-Side Request Forgery issue,https://github.com/advisories/GHSA-hfpv-mc5v-p9mm,https://da.gd/pG8NF0
+GithubAdvisories,[GHSA-g3vg-qhhh-pfv7] Malware in web3-prices,https://github.com/advisories/GHSA-g3vg-qhhh-pfv7,https://da.gd/jxSIP
+GithubAdvisories,[GHSA-r4j3-79hx-xpr6] Malware in web3.prc,https://github.com/advisories/GHSA-r4j3-79hx-xpr6,https://da.gd/8qOD8V
+GithubAdvisories,[GHSA-r4ww-65gv-rhv8] Malware in int-node,https://github.com/advisories/GHSA-r4ww-65gv-rhv8,https://da.gd/RaR9a
+GithubAdvisories,[GHSA-q782-j24w-vv68] Malware in @izumiswap/sdk,https://github.com/advisories/GHSA-q782-j24w-vv68,https://da.gd/itKjl
+GithubAdvisories,[GHSA-hhf2-gfcc-vw45] Malware in jsonlogbundler,https://github.com/advisories/GHSA-hhf2-gfcc-vw45,https://da.gd/fnT0qo
+GithubAdvisories,[GHSA-82gw-34fc-qfwj] Malware in fastjsonlog,https://github.com/advisories/GHSA-82gw-34fc-qfwj,https://da.gd/z61i2
+GithubAdvisories,[GHSA-fg63-2vqh-93xf] Malware in corelia,https://github.com/advisories/GHSA-fg63-2vqh-93xf,https://da.gd/1MQVD3
+GithubAdvisories,[GHSA-44rg-m26f-r36f] Malware in jsonbson,https://github.com/advisories/GHSA-44rg-m26f-r36f,https://da.gd/szaKUG
+GithubAdvisories,[GHSA-9qcm-qgjc-h848] Malware in pdf-lib-enhanced,https://github.com/advisories/GHSA-9qcm-qgjc-h848,https://da.gd/VnaA4
+GithubAdvisories,[GHSA-j5gx-8qjw-gp5q] Malware in xlsx-enhanced,https://github.com/advisories/GHSA-j5gx-8qjw-gp5q,https://da.gd/E8PpzN
+GithubAdvisories,[GHSA-j3fh-3pm4-rw5h] Malware in solidity-coverage-plus,https://github.com/advisories/GHSA-j3fh-3pm4-rw5h,https://da.gd/cPT8g
+GithubAdvisories,[GHSA-73xx-w222-rg6v] Malware in license-checker-plus,https://github.com/advisories/GHSA-73xx-w222-rg6v,https://da.gd/cD1zAg
+GithubAdvisories,[GHSA-7pxc-2jp3-w7c8] Malware in hardhat-gas-analytics,https://github.com/advisories/GHSA-7pxc-2jp3-w7c8,https://da.gd/hBDtOj
+GithubAdvisories,[GHSA-x7hr-g7qr-7j7p] Malware in lynx-keeper,https://github.com/advisories/GHSA-x7hr-g7qr-7j7p,https://da.gd/2LyLf
+GithubAdvisories,[GHSA-3p5r-gmr8-v7mr] Malware in lynx-keeper-cli,https://github.com/advisories/GHSA-3p5r-gmr8-v7mr,https://da.gd/BIgw2
