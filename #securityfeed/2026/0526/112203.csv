@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qm6m-33hv-fvwv] Malware in zest-product,https://github.com/advisories/GHSA-qm6m-33hv-fvwv,https://da.gd/LXoYgK
+GithubAdvisories,[GHSA-pv74-wmjg-4gp8] Malware in tailwind-style-typography,https://github.com/advisories/GHSA-pv74-wmjg-4gp8,https://da.gd/OoCj7K
+GithubAdvisories,[GHSA-29rh-48q6-xhpc] Malware in eo-terminal,https://github.com/advisories/GHSA-29rh-48q6-xhpc,https://da.gd/gcIaFE
+GithubAdvisories,[GHSA-pr28-mf3q-qpg6] Apostrophe has authenticated SSRF in rich-text widget import via @apostrophecms/area/validate-widget,https://github.com/advisories/GHSA-pr28-mf3q-qpg6,https://da.gd/9j8lBO
