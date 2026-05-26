@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rh28-mqj4-8x59] XWiki Platform's Livetable results still allow reconstructing password hashes using 768 requests,https://github.com/advisories/GHSA-rh28-mqj4-8x59,https://da.gd/0yJcZ6
+GithubAdvisories,[GHSA-vgwr-23fq-pr7g] XWiki Platform vulnerable to potential arbitrary file writing using path traversal from (subwiki) admin,https://github.com/advisories/GHSA-vgwr-23fq-pr7g,https://da.gd/rtqhgF
+GithubAdvisories,[GHSA-fgmm-w5cx-vrfw] Pterodactyl has a database resource limit bypass via race condition in Client API,https://github.com/advisories/GHSA-fgmm-w5cx-vrfw,https://da.gd/a3l6D
