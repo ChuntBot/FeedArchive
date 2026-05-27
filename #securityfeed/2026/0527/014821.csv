@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-vhjm-w67q-g75c] @hapi/wreck leaks sensitive `Proxy-Authorization` header across cross-hostname redirects,https://github.com/advisories/GHSA-vhjm-w67q-g75c,https://da.gd/n1l9iY
+GithubAdvisories,[GHSA-36hh-x5p5-jgc8] @hapi/content header parser has a parameter smuggling issue that allows upload-filter bypass via duplicate parameters,https://github.com/advisories/GHSA-36hh-x5p5-jgc8,https://da.gd/KNiom
+GithubAdvisories,[GHSA-h4ph-crvj-9h92] Pimcore Admin Classic Bundle Vulnerable to SQL Injection in Translation Grid Date Filter via Unsanitized Property Parameter,https://github.com/advisories/GHSA-h4ph-crvj-9h92,https://da.gd/ykWnm
+GithubAdvisories,[GHSA-3234-gxc3-pq6f] Pimcore Vulnerable to SQL Injection in Custom Reports Column Configuration,https://github.com/advisories/GHSA-3234-gxc3-pq6f,https://da.gd/6gXv
+GithubAdvisories,[GHSA-ph9p-34f9-6g65] tmp has Path Traversal via unsanitized prefix/postfix that enables directory escape,https://github.com/advisories/GHSA-ph9p-34f9-6g65,https://da.gd/uJSgM
+GithubAdvisories,[GHSA-9x9p-qf8f-mvjg] LiquidJS's `{% render %}` tag silently bypasses per-render `ownPropertyOnly:true` via `Context.spawn()`,https://github.com/advisories/GHSA-9x9p-qf8f-mvjg,https://da.gd/AIIiM
