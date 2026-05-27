@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2g95-6x5q-xjwj] Yamcs Vulnerable to Authenticated Remote Code Execution (RCE) via Jython Algorithm Code Injection,https://github.com/advisories/GHSA-2g95-6x5q-xjwj,https://da.gd/t1HAzy
+GithubAdvisories,[GHSA-m85w-whwh-qvfx] GPT-Pilot contains a command injection vulnerability in the Executor.run() method,https://github.com/advisories/GHSA-m85w-whwh-qvfx,https://da.gd/w6pb5
+GithubAdvisories,[GHSA-cgx8-qgvr-f7vf] mem0 server lacks authentication and authorization controls for its memory creation API endpoint,https://github.com/advisories/GHSA-cgx8-qgvr-f7vf,https://da.gd/qbApf
+GithubAdvisories,[GHSA-gq6f-qwv9-rf4j] mem0 server lacks authentication and authorization controls for its memory deletion API endpoint,https://github.com/advisories/GHSA-gq6f-qwv9-rf4j,https://da.gd/lvIACV
+GithubAdvisories,[GHSA-vmwp-vh32-rj75] Yamcs Vulnerable to Remote Code Execution via Mission Database algorithm override,https://github.com/advisories/GHSA-vmwp-vh32-rj75,https://da.gd/c02uhd
+GithubAdvisories,[GHSA-jwcc-gv4m-93x6] Pimcore has a CustomReports Share Bypass,https://github.com/advisories/GHSA-jwcc-gv4m-93x6,https://da.gd/wYra
+GithubAdvisories,[GHSA-332x-r494-54fq] Pimcore has a WordExport Authorization Bypass for Unauthorized Document Export,https://github.com/advisories/GHSA-332x-r494-54fq,https://da.gd/8yCB
+GithubAdvisories,[GHSA-g82g-j283-hj97] imgaug contains an insecure deserialization vulnerability in BackgroundAugmenter class within multicore.py module,https://github.com/advisories/GHSA-g82g-j283-hj97,https://da.gd/r9P9N
+GithubAdvisories,[GHSA-g76p-4vg5-f4qh] llm CLI tool contains a code injection vulnerability via `--functions` command-line argument,https://github.com/advisories/GHSA-g76p-4vg5-f4qh,https://da.gd/nYqOfZ
+GithubAdvisories,[GHSA-wcr3-gm9f-f87q] Ludwig framework is vulnerable to insecure deserialization through its predict() method,https://github.com/advisories/GHSA-wcr3-gm9f-f87q,https://da.gd/64ePRU
+GithubAdvisories,[GHSA-xp5q-5q7g-q26r] Ludwig framework is vulnerable to insecure deserialization in its model serving component,https://github.com/advisories/GHSA-xp5q-5q7g-q26r,https://da.gd/7LfK8W
+GithubAdvisories,[GHSA-pq2f-x424-6fjm] mamba language model framework vulnerable to insecure deserialization when loading pre-trained models from HuggingFace Hub,https://github.com/advisories/GHSA-pq2f-x424-6fjm,https://da.gd/GPqY
+GithubAdvisories,[GHSA-r6hf-g5x6-7pv9] Guardrails AI contains a code injection vulnerability in its Hub package installation mechanism,https://github.com/advisories/GHSA-r6hf-g5x6-7pv9,https://da.gd/JGjv0N
