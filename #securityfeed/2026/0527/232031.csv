@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g3vg-vx23-3858] compliance-trestle Remote Fetching Mechanism has an Arbitrary File Write via Cache Path Traversal,https://github.com/advisories/GHSA-g3vg-vx23-3858,https://da.gd/P2B4Y
+GithubAdvisories,[GHSA-q3w6-q3hc-c5x6] FUXA's Unauthenticated Project Data Disclosure Exposes Server-Side Scripts and Device Configurations,https://github.com/advisories/GHSA-q3w6-q3hc-c5x6,https://da.gd/UYKQ
+GithubAdvisories,[GHSA-2gv2-cffp-j227] Kata guest escape: runtime-rs guest-root to host-root escape via virtiofs,https://github.com/advisories/GHSA-2gv2-cffp-j227,https://da.gd/wX5o
