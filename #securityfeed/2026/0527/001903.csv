@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8xx9-69p8-7jp3] LiquidJS has a renderLimit DoS guard bypass via empty `{% for %}` body,https://github.com/advisories/GHSA-8xx9-69p8-7jp3,https://da.gd/xdFQjd
+GithubAdvisories,[GHSA-2qv6-9wx5-cwv4] LiquidJS's strip_html filter bypass via newline characters in HTML tags enables XSS,https://github.com/advisories/GHSA-2qv6-9wx5-cwv4,https://da.gd/CJzXJ
+GithubAdvisories,[GHSA-524g-x36v-9wm6] Yamcs Vulnerable to Server-Side Code Injection (RCE) via Janino Expression Engine in `JavaExprAlgorithmExecutionFactory`,https://github.com/advisories/GHSA-524g-x36v-9wm6,https://da.gd/6cUpO
+GithubAdvisories,[GHSA-w5r6-mcgq-7pq4] Yamcs has No Rate Limiting on Authentication Endpoint,https://github.com/advisories/GHSA-w5r6-mcgq-7pq4,https://da.gd/OKUdip
+GithubAdvisories,[GHSA-p2rj-mrmc-9w29] Yamcs vulnerable to unauthorized user enumeration via IAM API endpoints,https://github.com/advisories/GHSA-p2rj-mrmc-9w29,https://da.gd/Izjt9
+GithubAdvisories,[GHSA-7g26-2qgj-chfg] CarrierWave has a denylisted_content_type bypass via Unescaped Regex Metacharacters,https://github.com/advisories/GHSA-7g26-2qgj-chfg,https://da.gd/xfWpY
+GithubAdvisories,[GHSA-rr59-xxvx-96qr] Kata Containers have VM Escape via virtiofsd Argument Injection through Default-Enabled Pod Annotations,https://github.com/advisories/GHSA-rr59-xxvx-96qr,https://da.gd/CVeB5
+GithubAdvisories,[GHSA-9hx7-c53c-v6x8] Kirby CMS has pre-authentication path traversal and PHP file inclusion during user lookup,https://github.com/advisories/GHSA-9hx7-c53c-v6x8,https://da.gd/Sv84bP
+GithubAdvisories,[GHSA-2xw4-v2wx-hqq9] Kirby CMS's `pages.access` permission is not checked during rendering of page drafts,https://github.com/advisories/GHSA-2xw4-v2wx-hqq9,https://da.gd/8hQZM
+GithubAdvisories,[GHSA-5fhx-9q32-q257] Kirby CMS vulnerable to cross-site scripting (XSS) from list field content in the site frontend,https://github.com/advisories/GHSA-5fhx-9q32-q257,https://da.gd/HvQX9T
+GithubAdvisories,[GHSA-86rh-h242-j8xp] Kirby CMS has an Arbitrary Method Call via REST API Search and Collection Query Endpoints,https://github.com/advisories/GHSA-86rh-h242-j8xp,https://da.gd/TYeAk
+GithubAdvisories,[GHSA-rg3m-cfq7-g6h6] FUXA Vulnerable to Unauthenticated Remote Code Execution via Script Test Mode Authorization Bypass,https://github.com/advisories/GHSA-rg3m-cfq7-g6h6,https://da.gd/rgCAXg
+GithubAdvisories,[GHSA-fwcm-rqvw-j3p7] FUXA has an unauthenticated arbitrary tag value disclosure via /api/getTagValue,https://github.com/advisories/GHSA-fwcm-rqvw-j3p7,https://da.gd/MFEC7l
+GithubAdvisories,[GHSA-p69w-mmfv-xrfj] FUXA Vulnerable to Pre-auth RCE via Path Manipulation & Configuration Injection,https://github.com/advisories/GHSA-p69w-mmfv-xrfj,https://da.gd/7WWeQ
+GithubAdvisories,[GHSA-cqh3-jg8p-336j] Yamcs Vulnerable to LDAP Injection in LdapAuthModule,https://github.com/advisories/GHSA-cqh3-jg8p-336j,https://da.gd/fa6Dv
+GithubAdvisories,[GHSA-9rfg-v8g9-9367] Fedify has an LD-Signature Bypass via JSON-LD Named-Graph Restructuring,https://github.com/advisories/GHSA-9rfg-v8g9-9367,https://da.gd/60Uxi
+GithubAdvisories,[GHSA-vv9j-gjw2-j8wp] yeoman-environment Vulnerable to Arbitrary Package Installation without User Confirmation,https://github.com/advisories/GHSA-vv9j-gjw2-j8wp,https://da.gd/7dAr1b
+GithubAdvisories,[GHSA-f659-372h-6x3x] netty-incubator-codec-ohttp's HPKEContext operations may produce empty byte[] on failures,https://github.com/advisories/GHSA-f659-372h-6x3x,https://da.gd/yetm
