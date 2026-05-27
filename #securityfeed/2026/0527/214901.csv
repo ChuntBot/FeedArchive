@@ -1,0 +1,40 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-mf8f-x4r3-jm8c] Horovod contains an insecure deserialization vulnerability in its KVStore HTTP server component,https://github.com/advisories/GHSA-mf8f-x4r3-jm8c,https://da.gd/99aw4
+GithubAdvisories,[GHSA-g794-3fmp-753h] AsyncSSH `AuthorizedKeysFile %u` path traversal allows attacker-selected authorized keys to authenticate a traversal username,https://github.com/advisories/GHSA-g794-3fmp-753h,https://da.gd/pM2CU
+GithubAdvisories,[GHSA-9frc-8383-795m] Symfony's YAML Parser has a ReDoS via Catastrophic Backtracking in Parser::cleanup() Regex,https://github.com/advisories/GHSA-9frc-8383-795m,https://da.gd/dTnc
+GithubAdvisories,"[GHSA-4qpc-3hr4-r2p4] Symfony's YAML Parser Vulnerable to Exponential Memory Allocation via Recursive Collection-Alias Expansion (""Billion Laughs"")",https://github.com/advisories/GHSA-4qpc-3hr4-r2p4,https://da.gd/2UCQ
+GithubAdvisories,[GHSA-c2p3-7m5p-cv8x] Symfony hardened the parser when handling untrusted input,https://github.com/advisories/GHSA-c2p3-7m5p-cv8x,https://da.gd/iVzsz
+GithubAdvisories,[GHSA-xm76-r88j-vm3g] Automad has Broken Access Control: Unauthenticated exposure of administrator bcrypt password hashes and TOTP secrets via public API endpoint,https://github.com/advisories/GHSA-xm76-r88j-vm3g,https://da.gd/KcCkiD
+GithubAdvisories,[GHSA-m7v2-7gxm-vc2v] Symfony has Unauthenticated PHP Object Deserialization in MonologBridge server:log Listener,https://github.com/advisories/GHSA-m7v2-7gxm-vc2v,https://da.gd/gMSeOH
+GithubAdvisories,[GHSA-6439-2f28-8p8q] Synfony's HEAD Request Bypasses methods: ['GET'] Filter in #[IsGranted] / #[IsSignatureValid] / #[IsCsrfTokenValid],https://github.com/advisories/GHSA-6439-2f28-8p8q,https://da.gd/GJ1bCo
+GithubAdvisories,[GHSA-j8gj-9rm5-4xhx] Symfony's Cas2Handler Derives CAS service URL from Client Host Header → Cross-Service Ticket Replay,https://github.com/advisories/GHSA-j8gj-9rm5-4xhx,https://da.gd/UtCPp
+GithubAdvisories,[GHSA-6qh9-h6wf-jgqc] Symfony Vulnerable to SQL Injection in PdoAdapter::doClear() via Unsanitized $prefix,https://github.com/advisories/GHSA-6qh9-h6wf-jgqc,https://da.gd/uO2nl
+GithubAdvisories,[GHSA-hmr5-2xcr-v8pp] Symfony Vulnerable to stored XSS in WebProfiler CodeExtension::fileExcerpt() — Unescaped Non-PHP File Rendering,https://github.com/advisories/GHSA-hmr5-2xcr-v8pp,https://da.gd/dfZqMX
+GithubAdvisories,[GHSA-x6g4-fwcc-jj8w] Symfony has XXE (Local File Disclosure) in DomCrawler::addXmlContent() via validateOnParse = true,https://github.com/advisories/GHSA-x6g4-fwcc-jj8w,https://da.gd/8N3m
+GithubAdvisories,[GHSA-vqc8-7275-q272] Symfony has Email Header Injection via Non-Token Characters in Mime Parameter Names,https://github.com/advisories/GHSA-vqc8-7275-q272,https://da.gd/s914K
+GithubAdvisories,[GHSA-29fc-p6c4-24cg] Symfony's OidcTokenHandler Accepts JWTs Missing aud/iss/exp Claims,https://github.com/advisories/GHSA-29fc-p6c4-24cg,https://da.gd/qNzNF
+GithubAdvisories,[GHSA-xx3c-qf5g-hc39] Symfony has an Argument Injection in SendmailTransport via Dash-Prefixed Recipient Address,https://github.com/advisories/GHSA-xx3c-qf5g-hc39,https://da.gd/uGBg6
+GithubAdvisories,[GHSA-qpmx-3rfj-7rhv] Symfony has Email Header / SMTP Command Injection via CRLF in Symfony\Component\Mime\Address,https://github.com/advisories/GHSA-qpmx-3rfj-7rhv,https://da.gd/qmtgOO
+GithubAdvisories,[GHSA-qc95-4862-92fh] Symfony has an HtmlSanitizer allowLinkHosts() / allowMediaHosts() Bypass via URL-Parser Differentials and Misclassification,https://github.com/advisories/GHSA-qc95-4862-92fh,https://da.gd/2g9G
+GithubAdvisories,[GHSA-h5vq-qfcg-4m6p] Symfony's HtmlSanitizer URL Attributes Pass Through BiDi Override Characters → Visual href Spoofing,https://github.com/advisories/GHSA-h5vq-qfcg-4m6p,https://da.gd/A1S9x
+GithubAdvisories,[GHSA-rw47-hm26-6wr7] CrowdSec AppSec silently drops request body for chunked / HTTP-2 requests,https://github.com/advisories/GHSA-rw47-hm26-6wr7,https://da.gd/0mQZa
+GithubAdvisories,[GHSA-273h-gvwr-c3qj] CrowdSec LAPI: Denial of Service via Unbounded Gzip Decompression,https://github.com/advisories/GHSA-273h-gvwr-c3qj,https://da.gd/mRaoU
+GithubAdvisories,"[GHSA-chqv-56wv-7564] Deno's TLS retry copies stale upgrade hook, risking plaintext traffic",https://github.com/advisories/GHSA-chqv-56wv-7564,https://da.gd/XqMxp0
+GithubAdvisories,"[GHSA-mxfr-6hcw-j9rq] Langroid has Prompt to SQL Injection, Leading to RCE",https://github.com/advisories/GHSA-mxfr-6hcw-j9rq,https://da.gd/SzYHr
+GithubAdvisories,[GHSA-gf2q-c269-pqgc] LiquidJS is Vulnerable to Remote Code Execution,https://github.com/advisories/GHSA-gf2q-c269-pqgc,https://da.gd/xbXD4
+GithubAdvisories,[GHSA-r7g9-xpmj-5fcq] LiquidJS Vulnerable to ReDoS via Quadratic Backtracking in `strip_html` Filter Regex,https://github.com/advisories/GHSA-r7g9-xpmj-5fcq,https://da.gd/VQaNxa
+GithubAdvisories,[GHSA-qvjf-922g-pj44] Kirby CMS vulnerable to cross-site scripting (XSS) from links in KirbyTags and image blocks in the site frontend,https://github.com/advisories/GHSA-qvjf-922g-pj44,https://da.gd/JBtL
+GithubAdvisories,[GHSA-hh27-hf48-9f5q] LiquidJS has a memory and render limit bypass via unbounded width padding in `date` filter (strftime),https://github.com/advisories/GHSA-hh27-hf48-9f5q,https://da.gd/M9f7C
+GithubAdvisories,[GHSA-39vq-49qm-r2mc] Kirby CMS's content locks disclose IDs and emails of inaccessible users from `users.access/list` permissions,https://github.com/advisories/GHSA-39vq-49qm-r2mc,https://da.gd/yHu5bQ
+GithubAdvisories,[GHSA-wc7j-g8wx-m2qx] Pimcore: Missing Authorization in WebDAV MOVE via unchecked asset move handling,https://github.com/advisories/GHSA-wc7j-g8wx-m2qx,https://da.gd/NTbH8S
+GithubAdvisories,[GHSA-36fc-7wjg-mfvj] Pimcore has Unsafe PHP Deserialization in Multiple Locations Without allowed_classes Restriction,https://github.com/advisories/GHSA-36fc-7wjg-mfvj,https://da.gd/bCnjG
+GithubAdvisories,[GHSA-72xp-p242-47p9] Symfony has a UrlGenerator Route-Requirement Bypass via Unanchored Regex Alternation → Off-Site //host URL Injection,https://github.com/advisories/GHSA-72xp-p242-47p9,https://da.gd/c38W
+GithubAdvisories,[GHSA-ph86-p8f6-f9r2] Symfony Vulnerable to Identity Spoofing via Unanchored DN Regex in X509Authenticator,https://github.com/advisories/GHSA-ph86-p8f6-f9r2,https://da.gd/XnUUT
+GithubAdvisories,[GHSA-4847-p5f9-4366] Malware in testing-on-npmjs,https://github.com/advisories/GHSA-4847-p5f9-4366,https://da.gd/NpSN
+GithubAdvisories,[GHSA-ghv6-vv2r-5f8v] Malware in shop-minis,https://github.com/advisories/GHSA-ghv6-vv2r-5f8v,https://da.gd/EWcV1
+GithubAdvisories,[GHSA-wxv4-4mmm-mmm9] Malware in skills-detector,https://github.com/advisories/GHSA-wxv4-4mmm-mmm9,https://da.gd/DZRX
+GithubAdvisories,[GHSA-cg2p-m899-xgpg] Malware in verify-mycommand,https://github.com/advisories/GHSA-cg2p-m899-xgpg,https://da.gd/Yp9k4
+GithubAdvisories,[GHSA-6v88-cxrw-54h7] Malware in claude-channel-imessage,https://github.com/advisories/GHSA-6v88-cxrw-54h7,https://da.gd/YRDXPW
+GithubAdvisories,[GHSA-w574-hfjv-7w24] Malware in bulletproof-json,https://github.com/advisories/GHSA-w574-hfjv-7w24,https://da.gd/h5uQy
+GithubAdvisories,[GHSA-hv5v-f7p3-36rp] Malware in @not-nemo/crypto-tracker,https://github.com/advisories/GHSA-hv5v-f7p3-36rp,https://da.gd/mQiFy
+GithubAdvisories,[GHSA-fpr5-4jhx-2qw9] Malware in chai-as-repaired,https://github.com/advisories/GHSA-fpr5-4jhx-2qw9,https://da.gd/4bV4MS
