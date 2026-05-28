@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g23j-2vwm-5c25] local-deep-research has an SSRF bypass in `safe_get`,https://github.com/advisories/GHSA-g23j-2vwm-5c25,https://da.gd/jw51N
+GithubAdvisories,[GHSA-jfv9-68m5-gjjr] mem0 server lacks authentication and authorization controls for its memory management API endpoints,https://github.com/advisories/GHSA-jfv9-68m5-gjjr,https://da.gd/SKz9Jk
+GithubAdvisories,[GHSA-gg2g-p7xc-qqmm] compliance-trestle Vulnerable to Remote Code Execution via Recursive Server-Side Template Injection (SSTI),https://github.com/advisories/GHSA-gg2g-p7xc-qqmm,https://da.gd/W9ieR
