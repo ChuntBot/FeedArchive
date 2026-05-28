@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-q537-qhj4-wcjx] OpenCTI: Privilege escalation via graphQL API is abusable by organization admins, due to incorrect ACL on userEdit relationAdd",https://github.com/advisories/GHSA-q537-qhj4-wcjx,https://da.gd/UXXY9
