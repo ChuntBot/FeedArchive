@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2xf4-cg6j-vhgq] symfony/polyfill-intl-idn: xn-- labels with ASCII-only Punycode payloads are treated as equivalent to their decoded form,https://github.com/advisories/GHSA-2xf4-cg6j-vhgq,https://da.gd/qqpEen
+GithubAdvisories,[GHSA-j76w-p754-g2w7] Mattermost doesn't validate the response body of proxied images,https://github.com/advisories/GHSA-j76w-p754-g2w7,https://da.gd/lbTzy
+GithubAdvisories,[GHSA-hw87-6jcq-9f8q] Mattermost doesn't enforce the PostEditTimeLimit on non-message post fields,https://github.com/advisories/GHSA-hw87-6jcq-9f8q,https://da.gd/khpiHG
