@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rh5x-h6pp-cjj6] Open WebUI has a SSRF Bypass via HTTP Redirect Following in Web-Fetch and Image-Load Endpoints (not addressed by CVE-2025-65958),https://github.com/advisories/GHSA-rh5x-h6pp-cjj6,https://da.gd/1NtQf
