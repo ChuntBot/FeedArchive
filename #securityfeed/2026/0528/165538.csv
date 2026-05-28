@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hhg7-c65m-h7ff] Symfony's HtmlSanitizer UrlAttributeSanitizer Omits action/formaction/poster/cite — `javascript`: URI Survives Sanitization (XSS),https://github.com/advisories/GHSA-hhg7-c65m-h7ff,https://da.gd/pNC3yd
