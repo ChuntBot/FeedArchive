@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rpc6-9c4p-j5cg] @kilocode/cli Vulnerable to Exposure of Sensitive Information to an Unauthorized Actor,https://github.com/advisories/GHSA-rpc6-9c4p-j5cg,https://da.gd/FfAYnc
+GithubAdvisories,[GHSA-x6p3-76f2-xxvh] Shamefile has an arbitrary file read via shamefile.yaml in shame next,https://github.com/advisories/GHSA-x6p3-76f2-xxvh,https://da.gd/HGhYKh
+GithubAdvisories,[GHSA-27vp-2mmc-vmh3] nono: Sandbox escape on Linux via D-Bus: `systemd-run --user`,https://github.com/advisories/GHSA-27vp-2mmc-vmh3,https://da.gd/owrHd
