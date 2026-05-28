@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-7j6w-vvw2-5f9c] OpenBao's Kerberos Auth Method Accumulates Unaccessible Tokens,https://github.com/advisories/GHSA-7j6w-vvw2-5f9c,https://da.gd/Z11s
+GithubAdvisories,[GHSA-w76h-q7c6-jpjp] compliance-trestle Vulnerable to SSRF in Remote Fetching Subsystem,https://github.com/advisories/GHSA-w76h-q7c6-jpjp,https://da.gd/YayPnZ
