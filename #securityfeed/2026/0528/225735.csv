@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-qp9x-wp8f-qgjj] tuf has platform-dependent delegation path matching,https://github.com/advisories/GHSA-qp9x-wp8f-qgjj,https://da.gd/PUKIf
+GithubAdvisories,[GHSA-6v92-ph9p-hrpc] AMF Vulnerable to Improper Resource Shutdown or Release,https://github.com/advisories/GHSA-6v92-ph9p-hrpc,https://da.gd/lP6MJA
+GithubAdvisories,[GHSA-6h8r-h22r-jj64] AMF Vulnerable to Improper Resource Shutdown or Release,https://github.com/advisories/GHSA-6h8r-h22r-jj64,https://da.gd/PpNZGs
+GithubAdvisories,[GHSA-4qf2-p32m-7hmf] AMF Vulnerable to Improper Resource Shutdown or Release,https://github.com/advisories/GHSA-4qf2-p32m-7hmf,https://da.gd/QRIqU4
+GithubAdvisories,[GHSA-3x4g-259h-5p7c] AMF Improperly Restricts Operations within the Bounds of a Memory Buffer,https://github.com/advisories/GHSA-3x4g-259h-5p7c,https://da.gd/pucrU
+GithubAdvisories,[GHSA-fxvj-wqv2-xgcq] AMF Improperly Restricts Operations within the Bounds of a Memory Buffer,https://github.com/advisories/GHSA-fxvj-wqv2-xgcq,https://da.gd/sFfnyc
+GithubAdvisories,[GHSA-c3px-h233-h6fq] Arcane Has an Authenticated Arbitrary Host File Read via Docker Compose Include Directives,https://github.com/advisories/GHSA-c3px-h233-h6fq,https://da.gd/COoMlT
+GithubAdvisories,[GHSA-cvwm-vwhp-22jx] org.linlinjava:litemall-wx-api has an Injection issue,https://github.com/advisories/GHSA-cvwm-vwhp-22jx,https://da.gd/llrqIR
+GithubAdvisories,[GHSA-9277-mp7x-85jf] Dulwich Vulnerable to Command Injection via Merge Driver Path,https://github.com/advisories/GHSA-9277-mp7x-85jf,https://da.gd/FRkpnG
+GithubAdvisories,[GHSA-897w-fcg9-f6xj] Dulwich has an arbitrary file write via NTFS-hostile tree entries on Windows,https://github.com/advisories/GHSA-897w-fcg9-f6xj,https://da.gd/zio6lo
