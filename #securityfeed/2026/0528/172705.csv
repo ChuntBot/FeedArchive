@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-64hg-93w9-fc35] Symfony's Mailjet Mailer Webhook Parser Never Verifies the Configured Secret — Unauthenticated Webhook Event Injection,https://github.com/advisories/GHSA-64hg-93w9-fc35,https://da.gd/9cRqY
+GithubAdvisories,[GHSA-995v-fvrw-c78m] opentelemetry-go's Schema ParseFile leaks file descriptors on each parse,https://github.com/advisories/GHSA-995v-fvrw-c78m,https://da.gd/xTT5WL
+GithubAdvisories,[GHSA-5wrp-cwcj-q835] opentelemetry-go's baggage parsing no longer caps raw header length,https://github.com/advisories/GHSA-5wrp-cwcj-q835,https://da.gd/CVRsL
+GithubAdvisories,[GHSA-qjjm-7j9w-pw72] Capsule TenantResource RawItems Cluster-Scoped Resource Creation Vulnerability,https://github.com/advisories/GHSA-qjjm-7j9w-pw72,https://da.gd/yk7QmR
+GithubAdvisories,[GHSA-2ww6-hf35-mfjm] Capsule Namespace Hijacking via subresource,https://github.com/advisories/GHSA-2ww6-hf35-mfjm,https://da.gd/MgA0j
