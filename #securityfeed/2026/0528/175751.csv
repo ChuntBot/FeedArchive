@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-q8cj-789h-vg24] OpenBao's Inline Auth Incorrectly Redacted Headers,https://github.com/advisories/GHSA-q8cj-789h-vg24,https://da.gd/Wyhr7
+GithubAdvisories,[GHSA-4q5v-7g7x-j79w] compliance-trestle - jinja has an Arbitrary File Write via Path Traversal,https://github.com/advisories/GHSA-4q5v-7g7x-j79w,https://da.gd/rUfHGi
+GithubAdvisories,[GHSA-v8v8-cm84-m686] OpenBao's cross-namespace lease revocation via legacy sys/revoke path bypasses ACL,https://github.com/advisories/GHSA-v8v8-cm84-m686,https://da.gd/nWU20
+GithubAdvisories,[GHSA-mj4x-vf5c-5xg8] compliance-trestle Profile Import has an Arbitrary File Read via trestle:// URI and Relative Path Traversal,https://github.com/advisories/GHSA-mj4x-vf5c-5xg8,https://da.gd/9EZhgH
+GithubAdvisories,[GHSA-8v8v-g73j-492j] Symfony's JsonPath Evaluates Attacker-Controlled Regular Expressions in match()/search() Without Limits — ReDoS,https://github.com/advisories/GHSA-8v8v-g73j-492j,https://da.gd/ysKpio
+GithubAdvisories,[GHSA-59f3-vp2f-mp9w] Symfony's Mailtrap Mailer Webhook Parser Never Verifies the X-Mt-Signature HMAC — Unauthenticated Webhook Event Injection,https://github.com/advisories/GHSA-59f3-vp2f-mp9w,https://da.gd/HkuG
