@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r2f4-ff2p-xc64] Pimcore Platform - SQL Injection in DataObject composite index handling during class definition import/save,https://github.com/advisories/GHSA-r2f4-ff2p-xc64,https://da.gd/T0eWix
+GithubAdvisories,[GHSA-c8g3-x47w-8q7p] Duplicate Advisory: Pimcore admin users can trigger SQL Injection,https://github.com/advisories/GHSA-c8g3-x47w-8q7p,https://da.gd/wUwr7c
+GithubAdvisories,[GHSA-r9g5-7q8j-958c] FUXA provides guest and invalid-token access to protected read APIs in secure mode,https://github.com/advisories/GHSA-r9g5-7q8j-958c,https://da.gd/lEf3v6
