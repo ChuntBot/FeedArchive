@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-m5q2-4fm3-vfqp] vm2 has a sandbox escape via unblocked cross-realm Symbol.for keys + missing bridge write-trap symbol checks,https://github.com/advisories/GHSA-m5q2-4fm3-vfqp,https://da.gd/aU7SLm
+GithubAdvisories,[GHSA-76w7-j9cq-rx2j] vm2 is Vulnerable to Sandbox Breakout Through Promise Species,https://github.com/advisories/GHSA-76w7-j9cq-rx2j,https://da.gd/A3Ryt
+GithubAdvisories,[GHSA-q3fm-4wcw-g57x] vm2 setup-sandbox.js violates Defense Invariant #11 in stack-trace formatter,https://github.com/advisories/GHSA-q3fm-4wcw-g57x,https://da.gd/FZmV2p
+GithubAdvisories,[GHSA-v6mx-mf47-r5wg] vm2 has a Sandbox Escape issue,https://github.com/advisories/GHSA-v6mx-mf47-r5wg,https://da.gd/1MCqID
+GithubAdvisories,[GHSA-36m8-w8qf-g76p] SGLang: Unauthenticated RCE via --enable-custom-logit-processor,https://github.com/advisories/GHSA-36m8-w8qf-g76p,https://da.gd/3oEs2
+GithubAdvisories,[GHSA-qwrp-wghp-94q2] SGLang's multimodal generation runtime has an unauthenticated path traversal vulnerability,https://github.com/advisories/GHSA-qwrp-wghp-94q2,https://da.gd/gaBkQ
+GithubAdvisories,[GHSA-gwv6-pq6m-p3rq] SGLanG: Multimodal scheduler deserializes untrusted pickle data on 0.0.0.0 ROUTER socket,https://github.com/advisories/GHSA-gwv6-pq6m-p3rq,https://da.gd/zOwCCW
