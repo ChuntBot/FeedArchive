@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ExploitDB,[remote] Wing FTP Server 8.1.3 - Authenticated Remote Code Execution,https://www.exploit-db.com/exploits/52589,https://da.gd/LRj97
+ExploitDB,[webapps] CubeCart < 6.7.0 - Reflected Cross-Site Scripting (XSS) (Unauthenticated),https://www.exploit-db.com/exploits/52588,https://da.gd/0amB6q
+ExploitDB,[remote] strongSwan 5.9.13 - libsimaka EAP-SIM/AKA heap buffer overflow,https://www.exploit-db.com/exploits/52587,https://da.gd/BczzE
+ExploitDB,[dos] strongSwan 5.9.13 - DoS,https://www.exploit-db.com/exploits/52586,https://da.gd/13ZGv
