@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g2g8-95qg-v35h] HaxCMS has a stored Cross-Site Scripting (XSS) bypass in its saveNode endpoint,https://github.com/advisories/GHSA-g2g8-95qg-v35h,https://da.gd/NYmYJ
