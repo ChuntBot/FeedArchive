@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-j6fm-9rfm-j5hx] Froxlor has an incomplete fix for CVE-2026-30932,https://github.com/advisories/GHSA-j6fm-9rfm-j5hx,https://da.gd/HNk42
+GithubAdvisories,[GHSA-4f9q-ffgq-5w82] Malware in hellowornd,https://github.com/advisories/GHSA-4f9q-ffgq-5w82,https://da.gd/NHv2q
+GithubAdvisories,[GHSA-fpwv-wv7c-h2mw] Malware in customerdigital-ui-containers-lib,https://github.com/advisories/GHSA-fpwv-wv7c-h2mw,https://da.gd/CbOyZX
+GithubAdvisories,[GHSA-mq5v-pxpm-8jw2] Froxlor has privilege escalation in SSH key synchronization via symlinked `authorized_keys` path,https://github.com/advisories/GHSA-mq5v-pxpm-8jw2,https://da.gd/xmbhIs
+GithubAdvisories,[GHSA-gcv3-5v9q-fmhh] Froxlor has an authorization bypass in FTP shell assignment via missing server-side `available_shells` enforcement,https://github.com/advisories/GHSA-gcv3-5v9q-fmhh,https://da.gd/r6Rc
+GithubAdvisories,"[GHSA-8xvp-7hj6-mcj9] GitHub CLI has an incorrect authorization header in API requests to TUF repository mirrors via `gh attestation`, `gh release verify`, and `gh release verify-asset` commands",https://github.com/advisories/GHSA-8xvp-7hj6-mcj9,https://da.gd/9hPoB
