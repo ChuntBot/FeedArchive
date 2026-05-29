@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8jr4-6r33-phwm] Summarize contains a path traversal vulnerability,https://github.com/advisories/GHSA-8jr4-6r33-phwm,https://da.gd/ftRKZ
+GithubAdvisories,"[GHSA-g3hp-f6mg-559v] Sparkle's AppInstaller post-stage-1 XPC listener accepts unvalidated connections, allowing spoofed appcast item data injection",https://github.com/advisories/GHSA-g3hp-f6mg-559v,https://da.gd/9pbjS
+GithubAdvisories,[GHSA-hg88-v3cw-3qrh] Sparkle: Binary delta apply intermediate-symlink traversal in malicious .delta,https://github.com/advisories/GHSA-hg88-v3cw-3qrh,https://da.gd/dqdbb
+GithubAdvisories,[GHSA-w5pp-99ch-qj29] go-git: Malformed Git object data may cause panics or resource exhaustion,https://github.com/advisories/GHSA-w5pp-99ch-qj29,https://da.gd/vuTfr
+GithubAdvisories,[GHSA-hpv4-5h6f-wqr3] russh server userauth state is not reset when authentication principal changes,https://github.com/advisories/GHSA-hpv4-5h6f-wqr3,https://da.gd/udxQ
+GithubAdvisories,"[GHSA-wwx6-x28x-8259] russh: Post-decompression SSH packet size was not bounded, allowing remote oversized compressed packets",https://github.com/advisories/GHSA-wwx6-x28x-8259,https://da.gd/lcYFy
+GithubAdvisories,[GHSA-29h4-r29x-hchv] amazon-redshift-python-driver vulnerable to Remote Code Execution via eval() Injection,https://github.com/advisories/GHSA-29h4-r29x-hchv,https://da.gd/mcgb6s
+GithubAdvisories,[GHSA-4gg8-gxpx-9rph] uv is vulnerable to arbitrary file write through entry point names,https://github.com/advisories/GHSA-4gg8-gxpx-9rph,https://da.gd/IfGOpW
+GithubAdvisories,[GHSA-wjjv-3mj2-39hf] AgenticMail API/storage and outbound relay hardening fixes,https://github.com/advisories/GHSA-wjjv-3mj2-39hf,https://da.gd/ihDFzS
+GithubAdvisories,"[GHSA-8cph-rgr4-g5vj] Parse Server's GraphQL ""Did you mean ...?"" validation suggestions disclose schema to unauthenticated callers",https://github.com/advisories/GHSA-8cph-rgr4-g5vj,https://da.gd/adNrr
+GithubAdvisories,[GHSA-3pv8-6f4r-ffg2] tar has a PAX header desynchronization issue,https://github.com/advisories/GHSA-3pv8-6f4r-ffg2,https://da.gd/oDDTt
+GithubAdvisories,[GHSA-f4j7-r4q5-qw2c] ChromaDB Python project has a pre-authentication code injection vulnerability,https://github.com/advisories/GHSA-f4j7-r4q5-qw2c,https://da.gd/Q2udkd
+GithubAdvisories,[GHSA-qr28-p3wr-mxq3] ngrok is Vulnerable to Command Injection,https://github.com/advisories/GHSA-qr28-p3wr-mxq3,https://da.gd/R7HIW7
+GithubAdvisories,[GHSA-3cv2-h65g-fgmm] astral-tokio-tar has a PAX Header Desynchronization issue,https://github.com/advisories/GHSA-3cv2-h65g-fgmm,https://da.gd/q06b0l
+GithubAdvisories,[GHSA-xg9x-h37w-h3r3] ezsystems/ezpublish-legacy has a SQL injection in dfscleanup,https://github.com/advisories/GHSA-xg9x-h37w-h3r3,https://da.gd/3ZQAc
+GithubAdvisories,[GHSA-6m57-8r3p-pqx6] unbounded-spsc: Sender::send pointer-as-value transmute causes OOB read and fake-Arc drop under TX/RX race,https://github.com/advisories/GHSA-6m57-8r3p-pqx6,https://da.gd/tpURK
+GithubAdvisories,[GHSA-rf84-wr5g-m3rp] CAPM3 vulnerable to Cross-Namespace resource access,https://github.com/advisories/GHSA-rf84-wr5g-m3rp,https://da.gd/kwMpy
