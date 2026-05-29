@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+ExploitDB,[remote] Microsoft - NTLMv2 Hash Capture,https://www.exploit-db.com/exploits/52601,https://da.gd/C34WW
+ExploitDB,[webapps] MikroORM 7.0.13 - SQL Injection,https://www.exploit-db.com/exploits/52600,https://da.gd/8hWwnQ
+ExploitDB,[webapps] Prodigy Commerce 3.3.0 - Local File Inclusion,https://www.exploit-db.com/exploits/52598,https://da.gd/VMxS2y
+ExploitDB,[webapps] Langflow 1.3.0 - Remote Code Execution,https://www.exploit-db.com/exploits/52597,https://da.gd/C5opv
+ExploitDB,[webapps] Quick Playground for WordPress 1.3.1 - Unauthenticated Remote Code Execution,https://www.exploit-db.com/exploits/52596,https://da.gd/PJRnqR
+ExploitDB,[local] ImageMagick - Infinite Loop in the MIFF decoder can lead to CPU exhaustion,https://www.exploit-db.com/exploits/52595,https://da.gd/sbzznw
+ExploitDB,[local] ZTE Routers - Unauthenticated Denial of Service,https://www.exploit-db.com/exploits/52594,https://da.gd/oxjZt
+ExploitDB,[local] ZTE ZXHN H188A V6 - Authentication Bypass,https://www.exploit-db.com/exploits/52593,https://da.gd/b7O7LR
+ExploitDB,[local] ZTE H298A / H108N - Unauthenticated Credential Exposure,https://www.exploit-db.com/exploits/52592,https://da.gd/vqtVml
+ExploitDB,[local] Linux Kernel - Local Privilege Escalation,https://www.exploit-db.com/exploits/52591,https://da.gd/cugMKp
+ExploitDB,[webapps] MixPHP Framework 2.2.17 - Unsafe Deserialization Remote Code Execution,https://www.exploit-db.com/exploits/52590,https://da.gd/94ls
