@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c3m2-jqmq-pvp3] authentik's XML Signature Wrapping in SAML Source ACS allows authentication as arbitrary federated user,https://github.com/advisories/GHSA-c3m2-jqmq-pvp3,https://da.gd/2hgAB
+GithubAdvisories,[GHSA-5jh9-2h63-pw4q] CC-Tweaked has an SSRF Protection Bypass with NAT64,https://github.com/advisories/GHSA-5jh9-2h63-pw4q,https://da.gd/49MBOI
+GithubAdvisories,[GHSA-rfg2-pjw2-56x2] zeroconf has unbounded DNS record cache that allows LAN-local memory exhaustion via multicast flood,https://github.com/advisories/GHSA-rfg2-pjw2-56x2,https://da.gd/eP4wU
