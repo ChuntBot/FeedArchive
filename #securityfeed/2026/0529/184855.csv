@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-49pm-43hf-6xfq] IPAM controller service account granted unnecessary full access to Secrets,https://github.com/advisories/GHSA-49pm-43hf-6xfq,https://da.gd/NXbJj
+GithubAdvisories,[GHSA-hfc8-w5f4-3x6m] Ironic Standalone Operator's controller modifies user-owned resources without consent,https://github.com/advisories/GHSA-hfc8-w5f4-3x6m,https://da.gd/YoLY1U
+GithubAdvisories,[GHSA-7cwm-fpfh-rrch] Ironic Standalone Operator's prometheus metrics exporter bound to all interfaces,https://github.com/advisories/GHSA-7cwm-fpfh-rrch,https://da.gd/lbRnMu
+GithubAdvisories,[GHSA-9g8x-92q2-p28f] NodeVM observability builtins leak host process and HTTP request data,https://github.com/advisories/GHSA-9g8x-92q2-p28f,https://da.gd/uqRng
