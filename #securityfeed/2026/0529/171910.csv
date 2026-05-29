@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hg3f-28rg-4jxj] Nuxt's route middleware is not enforced when rendering `.server.vue` pages via `/__nuxt_island/page_*`,https://github.com/advisories/GHSA-hg3f-28rg-4jxj,https://da.gd/FMTQl9
+GithubAdvisories,[GHSA-vp73-vjw8-8f32] Gotenberg has a Race Condition via Multipart `downloadFrom` Handling,https://github.com/advisories/GHSA-vp73-vjw8-8f32,https://da.gd/cASIhU
+GithubAdvisories,[GHSA-86m8-88fq-xfxp] Gotenberg has an SSRF deny-list bypass in IsPublicIP via IPv6 6to4 / NAT64 / site-local prefixes,https://github.com/advisories/GHSA-86m8-88fq-xfxp,https://da.gd/pYfiCV
