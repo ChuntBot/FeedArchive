@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-866g-f22w-33x8] @ai-sdk/provider-utils has an Uncontrolled Resource Consumption issue,https://github.com/advisories/GHSA-866g-f22w-33x8,https://da.gd/kOIOZy
+GithubAdvisories,[GHSA-3g43-6gmg-66jw] axios Vulnerable to Credential Theft and Response Hijacking via Prototype Pollution Gadget in Config Merge,https://github.com/advisories/GHSA-3g43-6gmg-66jw,https://da.gd/xYomA
+GithubAdvisories,[GHSA-35jp-ww65-95wh] axios Vulnerable to Full Man-in-the-Middle via Prototype Pollution Gadget in `config.proxy`,https://github.com/advisories/GHSA-35jp-ww65-95wh,https://da.gd/U3RxV
+GithubAdvisories,"[GHSA-pjwm-pj3p-43mv] axios's shouldBypassProxy does not recognize IPv4-mapped IPv6 addresses, allowing NO_PROXY bypass (incomplete fix for CVE-2025-62718)",https://github.com/advisories/GHSA-pjwm-pj3p-43mv,https://da.gd/9Nf13j
+GithubAdvisories,[GHSA-898c-q2cr-xwhg] axios has DoS & Header Injection via Prototype Pollution Read-Side Gadgets in axios merge functions,https://github.com/advisories/GHSA-898c-q2cr-xwhg,https://da.gd/J3tsXT
+GithubAdvisories,[GHSA-654m-c8p4-x5fp] Axios has a Patch Bypass: Proxy-Authorization Header Injection via Prototype Pollution — Incomplete Null-Prototype Fix,https://github.com/advisories/GHSA-654m-c8p4-x5fp,https://da.gd/IPyrjk
