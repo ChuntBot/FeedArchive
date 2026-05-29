@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-phvx-9mgw-67r5] zeroconf: Unbounded exception-dedup state retains packet buffers via traceback frame locals, enabling LAN-local memory exhaustion",https://github.com/advisories/GHSA-phvx-9mgw-67r5,https://da.gd/TptAX
+GithubAdvisories,[GHSA-9pgc-3ccv-5297] zeroconf has unbounded recursion in DNS compression-pointer decoder that allows LAN-local denial of service,https://github.com/advisories/GHSA-9pgc-3ccv-5297,https://da.gd/Hh7prh
+GithubAdvisories,[GHSA-92vj-hp7m-gwcj] Nerdbank.MessagePack has Inefficient CPU Computation,https://github.com/advisories/GHSA-92vj-hp7m-gwcj,https://da.gd/KEd4
+GithubAdvisories,[GHSA-2r69-qgv3-hr65] Summarize's hover summary feature allows malicious pages to dispatch synthetic mouseover events over attacker-controlled links,https://github.com/advisories/GHSA-2r69-qgv3-hr65,https://da.gd/dUrtQ
+GithubAdvisories,[GHSA-7j2f-6h2r-6cqc] Koel Vulnerable to SSRF via Podcast Episode Enclosure URLs,https://github.com/advisories/GHSA-7j2f-6h2r-6cqc,https://da.gd/pgj3m
+GithubAdvisories,[GHSA-qjvr-435c-5fjh] Nerdbank.MessagePack has a memory amplification DoS in collection deserialization,https://github.com/advisories/GHSA-qjvr-435c-5fjh,https://da.gd/PAj9Ti
+GithubAdvisories,[GHSA-f2m9-wcf4-cwwx] MLFlow Creates a Temporary File With Insecure Permissions,https://github.com/advisories/GHSA-f2m9-wcf4-cwwx,https://da.gd/kQNcK
+GithubAdvisories,[GHSA-67gq-6q8c-qqh6] Summarize contains a missing authorization vulnerability,https://github.com/advisories/GHSA-67gq-6q8c-qqh6,https://da.gd/MoAHr
+GithubAdvisories,[GHSA-5624-2pmv-jx46] Summarize contains a missing authorization vulnerability,https://github.com/advisories/GHSA-5624-2pmv-jx46,https://da.gd/6VrJVr
