@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cwj3-vqpp-pmxr] OpenClaw's gateway config mutation guard allowed unsafe model-driven config writes,https://github.com/advisories/GHSA-cwj3-vqpp-pmxr,https://da.gd/GX30
