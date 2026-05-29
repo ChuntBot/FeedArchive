@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hwc4-gmrw-5222] Gotenberg has path traversal in zip entry name via Windows-style separators in upload filename,https://github.com/advisories/GHSA-hwc4-gmrw-5222,https://da.gd/SBveOw
