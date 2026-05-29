@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r9pm-gxmw-wv6p] NodeVM network builtin exclusions bypass via internal _http_client and _http_server,https://github.com/advisories/GHSA-r9pm-gxmw-wv6p,https://da.gd/Wi8Ev3
+GithubAdvisories,[GHSA-rp36-8xq3-r6c4] NodeVM builtin denylist bypass via process and inspector/promises allows host code execution,https://github.com/advisories/GHSA-rp36-8xq3-r6c4,https://da.gd/e4O6PO
+GithubAdvisories,[GHSA-h64w-w9pr-82m4] ExifReader is vulnerable to denial of service via crafted ICC `mluc` tag,https://github.com/advisories/GHSA-h64w-w9pr-82m4,https://da.gd/pWnmX9
+GithubAdvisories,[GHSA-rr89-w3h9-m66j] ExifReader is vulnerable to denial of service via unbounded decompression of image metadata,https://github.com/advisories/GHSA-rr89-w3h9-m66j,https://da.gd/UAKDh
+GithubAdvisories,[GHSA-6j2x-vhqr-qr7q] vm2 sandbox escape via JSPI-backed Promise `.finally()` species bypass,https://github.com/advisories/GHSA-6j2x-vhqr-qr7q,https://da.gd/ZxCltn
+GithubAdvisories,[GHSA-m4wx-m65x-ghrr] vm2 has a CVE-2023-37903 patch bypass: nesting:true without explicit require still allows full RCE,https://github.com/advisories/GHSA-m4wx-m65x-ghrr,https://da.gd/BEkK6
+GithubAdvisories,"[GHSA-c4cf-2hgv-2qv6] vm2's Bridge Proxy set trap ignores receiver parameter, enabling host object property injection via prototype chain",https://github.com/advisories/GHSA-c4cf-2hgv-2qv6,https://da.gd/aSmfk
