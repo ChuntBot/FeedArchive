@@ -1,0 +1,262 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-r2p6-3gmf-chx9] Malware in @t-in-one/safe_local_storage_token,https://github.com/advisories/GHSA-r2p6-3gmf-chx9,https://da.gd/AMwlK
+GithubAdvisories,[GHSA-w9v9-8839-82rr] Malware in @t-in-one/restore_application_hid_from_storage,https://github.com/advisories/GHSA-w9v9-8839-82rr,https://da.gd/z8GS9i
+GithubAdvisories,[GHSA-33cg-q6pj-vg3j] Malware in @t-in-one/send_add_application,https://github.com/advisories/GHSA-33cg-q6pj-vg3j,https://da.gd/OA0Tu
+GithubAdvisories,[GHSA-rwm6-rvqv-qv7c] Malware in @capibar.chat/ui-kit,https://github.com/advisories/GHSA-rwm6-rvqv-qv7c,https://da.gd/Oaq3m
+GithubAdvisories,[GHSA-2rqm-cx7p-43hx] Malware in @t-in-one/add_application,https://github.com/advisories/GHSA-2rqm-cx7p-43hx,https://da.gd/Qizs8
+GithubAdvisories,[GHSA-7jj3-323f-22v4] Malware in @t-in-one/prefill_transformers_data_token,https://github.com/advisories/GHSA-7jj3-323f-22v4,https://da.gd/d8EmX
+GithubAdvisories,[GHSA-6rfw-m3fj-7g8q] Malware in @sber-ecom-core/sberpay-widget,https://github.com/advisories/GHSA-6rfw-m3fj-7g8q,https://da.gd/qRKN
+GithubAdvisories,[GHSA-38v2-g3qx-w6fr] Malware in @t-in-one/prefill_credit_data_token,https://github.com/advisories/GHSA-38v2-g3qx-w6fr,https://da.gd/H5dwTE
+GithubAdvisories,[GHSA-h594-x75p-ghjh] Malware in @t-in-one/only_difference_payload,https://github.com/advisories/GHSA-h594-x75p-ghjh,https://da.gd/h3Rfti
+GithubAdvisories,[GHSA-rm9j-3m66-35r4] Malware in @t-in-one/prefill_bundle_data_token,https://github.com/advisories/GHSA-rm9j-3m66-35r4,https://da.gd/JRA54
+GithubAdvisories,[GHSA-9ghf-xffg-p5gx] Malware in @t-in-one/get_application_hid,https://github.com/advisories/GHSA-9ghf-xffg-p5gx,https://da.gd/FuDT7
+GithubAdvisories,[GHSA-cwhq-qx36-9hhq] Malware in @t-in-one/application_id_storage_key_token,https://github.com/advisories/GHSA-cwhq-qx36-9hhq,https://da.gd/fd82K
+GithubAdvisories,[GHSA-vvr5-6j6h-rq49] Malware in @t-in-one/add_application_tid,https://github.com/advisories/GHSA-vvr5-6j6h-rq49,https://da.gd/A5T8
+GithubAdvisories,[GHSA-r382-p83j-69fx] Malware in @t-in-one/form_product_token,https://github.com/advisories/GHSA-r382-p83j-69fx,https://da.gd/dgRArr
+GithubAdvisories,[GHSA-p76m-g6ch-9pg3] Malware in @t-in-one/add_application_service_token,https://github.com/advisories/GHSA-p76m-g6ch-9pg3,https://da.gd/pzM8w
+GithubAdvisories,[GHSA-86f7-96xp-23wm] Malware in @t-in-one/add_app_middleware_token,https://github.com/advisories/GHSA-86f7-96xp-23wm,https://da.gd/Abph9s
+GithubAdvisories,[GHSA-99m3-vc85-ccc3] Malware in @t-in-one/save_application_hid_to_storage,https://github.com/advisories/GHSA-99m3-vc85-ccc3,https://da.gd/DNXPe
+GithubAdvisories,[GHSA-c2m8-4gcg-v22g] praisonai-platform: Any workspace member can promote themselves or others to owner via PATCH /workspaces/{id}/members/{user_id},https://github.com/advisories/GHSA-c2m8-4gcg-v22g,https://da.gd/NZ2ru
+GithubAdvisories,[GHSA-w388-2392-px73] praisonai-platform: Missing authorization on member removal enables full workspace takeover by any user regardless of role,https://github.com/advisories/GHSA-w388-2392-px73,https://da.gd/nHC1Dw
+GithubAdvisories,[GHSA-228p-vq38-23gh] Malware in @cloudplatform-single-spa/svp-s3-storage,https://github.com/advisories/GHSA-228p-vq38-23gh,https://da.gd/h60m
+GithubAdvisories,[GHSA-x7v5-6q4v-272p] Malware in @cloudplatform-single-spa/vpn,https://github.com/advisories/GHSA-x7v5-6q4v-272p,https://da.gd/qGTJo
+GithubAdvisories,[GHSA-7wmg-h7hh-5m93] Malware in @cloudplatform-single-spa/support,https://github.com/advisories/GHSA-7wmg-h7hh-5m93,https://da.gd/m36WE
+GithubAdvisories,[GHSA-7xjw-q57c-jjh9] Malware in @cloudplatform-single-spa/ssh-keys,https://github.com/advisories/GHSA-7xjw-q57c-jjh9,https://da.gd/d1xZg8
+GithubAdvisories,[GHSA-qv4g-5wcg-6j6p] Malware in @cloudplatform-single-spa/base-static-page,https://github.com/advisories/GHSA-qv4g-5wcg-6j6p,https://da.gd/tbkLG
+GithubAdvisories,[GHSA-jvj5-w453-mjrh] Malware in @cloudplatform-single-spa/monitoring,https://github.com/advisories/GHSA-jvj5-w453-mjrh,https://da.gd/0LTF3A
+GithubAdvisories,[GHSA-pxw8-gqv6-95gx] Malware in @cloudplatform-single-spa/marketplace-gigachat,https://github.com/advisories/GHSA-pxw8-gqv6-95gx,https://da.gd/e7cmlt
+GithubAdvisories,[GHSA-rfjw-rc5v-6jwg] Malware in @cloudplatform-single-spa/datagrid,https://github.com/advisories/GHSA-rfjw-rc5v-6jwg,https://da.gd/lpDFb
+GithubAdvisories,[GHSA-p4x7-2fvx-ff2j] Malware in @cloudplatform-single-spa/cloud-dns,https://github.com/advisories/GHSA-p4x7-2fvx-ff2j,https://da.gd/3AbltI
+GithubAdvisories,[GHSA-3h4q-c5w7-j6c3] Malware in @cloudplatform-single-spa/svp-interfaces,https://github.com/advisories/GHSA-3h4q-c5w7-j6c3,https://da.gd/f6gwFD
+GithubAdvisories,[GHSA-pjmq-qghr-v939] Malware in @cloudplatform-single-spa/svp-baas,https://github.com/advisories/GHSA-pjmq-qghr-v939,https://da.gd/zOP22
+GithubAdvisories,[GHSA-7xpr-9xh5-m6q7] Malware in @cloudplatform-single-spa/administration,https://github.com/advisories/GHSA-7xpr-9xh5-m6q7,https://da.gd/jvXMIV
+GithubAdvisories,[GHSA-xx66-78cf-7927] Malware in @cloudplatform-single-spa/security-groups,https://github.com/advisories/GHSA-xx66-78cf-7927,https://da.gd/8zDB
+GithubAdvisories,[GHSA-f8cm-fp35-2mcm] Malware in @cloudplatform-single-spa/arenadata-db,https://github.com/advisories/GHSA-f8cm-fp35-2mcm,https://da.gd/IVufr
+GithubAdvisories,[GHSA-2429-p3v5-m6p7] Malware in @cloudplatform-single-spa/ml-ai-agents-agent,https://github.com/advisories/GHSA-2429-p3v5-m6p7,https://da.gd/pV37n1
+GithubAdvisories,[GHSA-rh4m-xhvc-mp3x] Malware in @cloudplatform-single-spa/ml-ai-agents-agent-system,https://github.com/advisories/GHSA-rh4m-xhvc-mp3x,https://da.gd/5eYBW
+GithubAdvisories,[GHSA-gpjw-27xh-6659] Malware in @cloudplatform-single-spa/logaas,https://github.com/advisories/GHSA-gpjw-27xh-6659,https://da.gd/fKHZ09
+GithubAdvisories,[GHSA-fmpf-r7qq-q7jh] Malware in @cloudplatform-single-spa/employees,https://github.com/advisories/GHSA-fmpf-r7qq-q7jh,https://da.gd/i5dLg
+GithubAdvisories,[GHSA-f5qc-x39h-934p] Malware in @cloudplatform-single-spa/dataplatform-trino,https://github.com/advisories/GHSA-f5qc-x39h-934p,https://da.gd/qvVcsD
+GithubAdvisories,[GHSA-c5c8-wmww-wg89] Malware in @cloudplatform-single-spa/enterprise,https://github.com/advisories/GHSA-c5c8-wmww-wg89,https://da.gd/UzivrL
+GithubAdvisories,[GHSA-hvp4-8357-fcrc] Malware in @cloudplatform-single-spa/dataplatform-metastore,https://github.com/advisories/GHSA-hvp4-8357-fcrc,https://da.gd/ojQ6
+GithubAdvisories,[GHSA-vwr2-jj39-m3fp] Malware in @cloudplatform-single-spa/floating-ips,https://github.com/advisories/GHSA-vwr2-jj39-m3fp,https://da.gd/GIDm0
+GithubAdvisories,[GHSA-5r3c-vc42-xhw6] Malware in @cloudplatform-single-spa/business-solutions,https://github.com/advisories/GHSA-5r3c-vc42-xhw6,https://da.gd/MDm79s
+GithubAdvisories,[GHSA-37f8-7crp-99x7] Malware in @cloudplatform-single-spa/cp-api-gw,https://github.com/advisories/GHSA-37f8-7crp-99x7,https://da.gd/l0Y6W
+GithubAdvisories,[GHSA-2m8v-gg54-p274] Malware in @cloudplatform-single-spa/dataplatform,https://github.com/advisories/GHSA-2m8v-gg54-p274,https://da.gd/M52m7
+GithubAdvisories,[GHSA-5wwp-555m-83g9] Malware in @cloudplatform-single-spa/cnapp-ui,https://github.com/advisories/GHSA-5wwp-555m-83g9,https://da.gd/UMDj
+GithubAdvisories,"[GHSA-5jx9-w35f-vp65] praisonai-platform: Label endpoints' unchecked label_id/issue_id enable cross-workspace label IDOR (edit, delete, link)",https://github.com/advisories/GHSA-5jx9-w35f-vp65,https://da.gd/j6tkm8
+GithubAdvisories,"[GHSA-4x6r-9v57-3gqw] praisonai-platform: IDOR in dependency endpoints allows cross-workspace issue linking, reading, and deletion due to missing ownership checks",https://github.com/advisories/GHSA-4x6r-9v57-3gqw,https://da.gd/RR6pO
+GithubAdvisories,"[GHSA-3qg8-5g3r-79v5] praisonai-platform: JWT signing key defaults to hardcoded ""dev-secret-change-me"", allowing token forgery for any user when PLATFORM_ENV is unset",https://github.com/advisories/GHSA-3qg8-5g3r-79v5,https://da.gd/Xhhey
+GithubAdvisories,[GHSA-h37g-4h4p-9x97] PraisonAI Platform: Missing role checks let any workspace member become owner and control workspace membership,https://github.com/advisories/GHSA-h37g-4h4p-9x97,https://da.gd/aTiqE
+GithubAdvisories,[GHSA-6h6v-6m7w-7vxx] PraisonAI Platform workspace-scoped routes allow cross-workspace object access by global object ID,https://github.com/advisories/GHSA-6h6v-6m7w-7vxx,https://da.gd/UdOzE
+GithubAdvisories,[GHSA-h8q5-cp56-rr65] PraisonAI Platform has a cross-workspace IDOR + member-role privilege escalation,https://github.com/advisories/GHSA-h8q5-cp56-rr65,https://da.gd/7mzU
+GithubAdvisories,[GHSA-27p4-pjqv-whgj] praisonai-platform: list_issue_activity returns activity log for any issue regardless of workspace ownership,https://github.com/advisories/GHSA-27p4-pjqv-whgj,https://da.gd/dvaBp
+GithubAdvisories,[GHSA-gv23-xrm3-8c62] PraisonAI has Cross-Workspace IDOR and Privilege Escalation via Platform API,https://github.com/advisories/GHSA-gv23-xrm3-8c62,https://da.gd/xSDt
+GithubAdvisories,[GHSA-hvhp-v2gc-268q] PraisonAI has an Arbitrary File Write in Python API,https://github.com/advisories/GHSA-hvhp-v2gc-268q,https://da.gd/qS9LQ
+GithubAdvisories,[GHSA-vg22-4gmj-prxw] PraisonAI's unauthenticated A2A official example can reach real LLM-driven `eval()` tool execution,https://github.com/advisories/GHSA-vg22-4gmj-prxw,https://da.gd/EzUxI3
+GithubAdvisories,"[GHSA-9cr9-25q5-8prj] PraisonAI vulnerable to unauthenticated arbitrary file read via MCP workflow.show, workflow.validate, deploy.validate",https://github.com/advisories/GHSA-9cr9-25q5-8prj,https://da.gd/CeDYW1
+GithubAdvisories,[GHSA-4mr5-g6f9-cfrh] PraisonAI vulnerable to sandbox escape via `print.__self__` builtins module leak in `execute_code` (subprocess mode),https://github.com/advisories/GHSA-4mr5-g6f9-cfrh,https://da.gd/5ZVNRI
+GithubAdvisories,[GHSA-5cxw-77wg-jrf3] PraisonAI CLI automatically resolves @url mentions in prompt text and can read loopback URLs into model context,https://github.com/advisories/GHSA-5cxw-77wg-jrf3,https://da.gd/zyemr6
+GithubAdvisories,[GHSA-8444-4fhq-fxpq] PraisonAI `deploy --type api` emits a Flask server with authentication disabled by default,https://github.com/advisories/GHSA-8444-4fhq-fxpq,https://da.gd/BflqS
+GithubAdvisories,"[GHSA-86qc-r5v2-v6x6] PraisonAI call server exposes unauthenticated agent listing, invocation, and deletion when CALL_SERVER_TOKEN is unset",https://github.com/advisories/GHSA-86qc-r5v2-v6x6,https://da.gd/Dmajg
+GithubAdvisories,[GHSA-5c6w-wwfq-7qqm] PraisonAI spider_tools SSRF protection bypass via alternate loopback host encodings,https://github.com/advisories/GHSA-5c6w-wwfq-7qqm,https://da.gd/ZGDLW9
+GithubAdvisories,[GHSA-78r8-wwqv-r299] PraisonAI: Arbitrary code execution via unguarded `spec.loader.exec_module` in `agents_generator.py` - sibling of CVE-2026-44334,https://github.com/advisories/GHSA-78r8-wwqv-r299,https://da.gd/Gyb9Z
+GithubAdvisories,[GHSA-r5m4-5vww-w9f5] OSGeo gdal has a heap-based buffer overflow,https://github.com/advisories/GHSA-r5m4-5vww-w9f5,https://da.gd/H9WLO
+GithubAdvisories,[GHSA-jjxg-hpm7-g95f] Bazaar allows remote attackers to execute arbitrary commands via a bzr+ssh URL with initial dash character in hostname,https://github.com/advisories/GHSA-jjxg-hpm7-g95f,https://da.gd/AmItMN
+GithubAdvisories,[GHSA-pgxq-p76c-x9cg] formie's unauthenticated front-end submission editing can overwrite existing submissions,https://github.com/advisories/GHSA-pgxq-p76c-x9cg,https://da.gd/lFy5N
+GithubAdvisories,[GHSA-9vp8-3hmv-8fgh] stigmem-node's federation peer registration lacked explicit out-of-band approval,https://github.com/advisories/GHSA-9vp8-3hmv-8fgh,https://da.gd/Ww40ar
+GithubAdvisories,[GHSA-w7pm-9g55-mxfm] stigmem-node's unsigned plugin override could be enabled without a second explicit acknowledgment,https://github.com/advisories/GHSA-w7pm-9g55-mxfm,https://da.gd/JckDs3
+GithubAdvisories,[GHSA-jmfc-hfjq-pxcp] stigmem-node's federation insecure transport settings may allow non-loopback cleartext federation,https://github.com/advisories/GHSA-jmfc-hfjq-pxcp,https://da.gd/9IUlM
+GithubAdvisories,[GHSA-9pc9-4crj-mhpj] stigmem-node's Postgres schema identifier handling required defensive quoting,https://github.com/advisories/GHSA-9pc9-4crj-mhpj,https://da.gd/3Jh29c
+GithubAdvisories,[GHSA-xh5j-xjfq-qvvx] stigmem-node's federation peer token timestamp validation may reject valid peer tokens,https://github.com/advisories/GHSA-xh5j-xjfq-qvvx,https://da.gd/oV4x7c
+GithubAdvisories,[GHSA-fp6w-8wpg-74g5] stigmem-node: Auth-disabled deployments may grant broad anonymous access outside loopback,https://github.com/advisories/GHSA-fp6w-8wpg-74g5,https://da.gd/U4cQiD
+GithubAdvisories,[GHSA-6x26-5727-rrm9] Nezha's authenticated DDNS webhook configuration allows blind SSRF from the dashboard host,https://github.com/advisories/GHSA-6x26-5727-rrm9,https://da.gd/jFByOI
+GithubAdvisories,[GHSA-hw5x-qjf4-4rw9] Malware in @antv/xflow,https://github.com/advisories/GHSA-hw5x-qjf4-4rw9,https://da.gd/0Q2XOT
+GithubAdvisories,[GHSA-rvxm-vq55-8p53] Withdrawn Advisory: Malware in puppeteer-core,https://github.com/advisories/GHSA-rvxm-vq55-8p53,https://da.gd/RkVlX
+GithubAdvisories,[GHSA-jwfr-3hmj-4r72] Malware in power-platform-playwright-toolkit,https://github.com/advisories/GHSA-jwfr-3hmj-4r72,https://da.gd/CU0jHM
+GithubAdvisories,[GHSA-8r2f-2qg4-cv9v] Malware in puppeteer,https://github.com/advisories/GHSA-8r2f-2qg4-cv9v,https://da.gd/tikAz5
+GithubAdvisories,[GHSA-6mj4-8j98-6c94] Malware in midoss,https://github.com/advisories/GHSA-6mj4-8j98-6c94,https://da.gd/AcLE
+GithubAdvisories,[GHSA-xw54-c3mx-9pm3] Admidio: Any logged-in user can delete inventory fields via `mode=field_delete` — incomplete fix of #2024,https://github.com/advisories/GHSA-xw54-c3mx-9pm3,https://da.gd/dXmvZV
+GithubAdvisories,[GHSA-9vx3-fc8v-7w96] Malware in customerdigital-service-lib,https://github.com/advisories/GHSA-9vx3-fc8v-7w96,https://da.gd/LrSYX
+GithubAdvisories,[GHSA-x35m-m7wx-r75p] Malware in miz,https://github.com/advisories/GHSA-x35m-m7wx-r75p,https://da.gd/HiZuTM
+GithubAdvisories,[GHSA-g4xx-h8m2-8v25] Malware in relationship.js,https://github.com/advisories/GHSA-g4xx-h8m2-8v25,https://da.gd/RlB61R
+GithubAdvisories,[GHSA-q36r-56hw-2r46] Malware in chai-bundle,https://github.com/advisories/GHSA-q36r-56hw-2r46,https://da.gd/OQsdZ
+GithubAdvisories,[GHSA-f4xf-cwx5-r3jm] Malware in hardhat-evmchain,https://github.com/advisories/GHSA-f4xf-cwx5-r3jm,https://da.gd/uCFdt
+GithubAdvisories,[GHSA-2f37-mh3q-7394] Malware in chai-as-tuned,https://github.com/advisories/GHSA-2f37-mh3q-7394,https://da.gd/0XqR3Y
+GithubAdvisories,[GHSA-fv6c-xqrw-prcr] Malware in appkit-react-utils,https://github.com/advisories/GHSA-fv6c-xqrw-prcr,https://da.gd/xVpKU0
+GithubAdvisories,[GHSA-j83r-w4f8-v7m9] Malware in @rsi-community/hub-schema,https://github.com/advisories/GHSA-j83r-w4f8-v7m9,https://da.gd/DScrR
+GithubAdvisories,[GHSA-xr6f-x85p-m7ff] Malware in apcyber-test-package,https://github.com/advisories/GHSA-xr6f-x85p-m7ff,https://da.gd/7hdkT8
+GithubAdvisories,[GHSA-xfrr-6qp2-qgvr] Malware in @antv/thumbnails-component,https://github.com/advisories/GHSA-xfrr-6qp2-qgvr,https://da.gd/l7OpF
+GithubAdvisories,[GHSA-vrcf-mcq9-rpcp] Malware in @breeze-ai/ui-library,https://github.com/advisories/GHSA-vrcf-mcq9-rpcp,https://da.gd/Yhi17
+GithubAdvisories,[GHSA-3x74-245r-5hqw] Malware in @antv/x6-plugin-snapline,https://github.com/advisories/GHSA-3x74-245r-5hqw,https://da.gd/oMZiO7
+GithubAdvisories,[GHSA-w6w6-23x5-qxwg] Malware in @antv/x6-plugin-selection,https://github.com/advisories/GHSA-w6w6-23x5-qxwg,https://da.gd/yPtgyu
+GithubAdvisories,[GHSA-cqpw-mfqj-f2j7] Malware in @beproduct/nestjs-auth,https://github.com/advisories/GHSA-cqpw-mfqj-f2j7,https://da.gd/7ZmAFJ
+GithubAdvisories,[GHSA-g573-r685-2wfw] Malware in @antv/l7-leaflet,https://github.com/advisories/GHSA-g573-r685-2wfw,https://da.gd/5VD20t
+GithubAdvisories,[GHSA-gxcf-rxf9-xh9w] Malware in @antv/t8,https://github.com/advisories/GHSA-gxcf-rxf9-xh9w,https://da.gd/Dkl7HK
+GithubAdvisories,[GHSA-ppv3-wmcg-rr34] Malware in @antv/layout-gpu,https://github.com/advisories/GHSA-ppv3-wmcg-rr34,https://da.gd/9sZIs
+GithubAdvisories,[GHSA-7g4g-rg99-8ppc] Malware in @antv/x6-plugin-history,https://github.com/advisories/GHSA-7g4g-rg99-8ppc,https://da.gd/A10zf
+GithubAdvisories,[GHSA-5c5w-3mg4-4hrp] Malware in @antv/l7-maps,https://github.com/advisories/GHSA-5c5w-3mg4-4hrp,https://da.gd/j4dmoK
+GithubAdvisories,[GHSA-q5cr-c8hf-wj6m] Malware in @antv/l7-component,https://github.com/advisories/GHSA-q5cr-c8hf-wj6m,https://da.gd/qDBzoQ
+GithubAdvisories,[GHSA-wwvj-2296-p2m7] Malware in @antv/g6-editor,https://github.com/advisories/GHSA-wwvj-2296-p2m7,https://da.gd/9b6oST
+GithubAdvisories,[GHSA-pcx7-h5gg-6fc4] Malware in @antv/g-plugin-rough-canvas-renderer,https://github.com/advisories/GHSA-pcx7-h5gg-6fc4,https://da.gd/fGd4jD
+GithubAdvisories,[GHSA-6g2p-hpvj-w8f9] Malware in @antv/graphin,https://github.com/advisories/GHSA-6g2p-hpvj-w8f9,https://da.gd/ma5NyZ
+GithubAdvisories,[GHSA-wcw5-7qcm-248g] Malware in @antv/g2-plugin-slider,https://github.com/advisories/GHSA-wcw5-7qcm-248g,https://da.gd/xmUCv
+GithubAdvisories,[GHSA-cf4f-2vr4-h94c] Malware in @antv/f6,https://github.com/advisories/GHSA-cf4f-2vr4-h94c,https://da.gd/uIt9Aj
+GithubAdvisories,[GHSA-mch8-wf3h-6x88] Admidio writes session IDs and auto-login cookie values to application logs,https://github.com/advisories/GHSA-mch8-wf3h-6x88,https://da.gd/3iubL
+GithubAdvisories,[GHSA-jf5g-vg6h-fj8m] Malware in @antv/g-lottie-player,https://github.com/advisories/GHSA-jf5g-vg6h-fj8m,https://da.gd/3SjU3G
+GithubAdvisories,[GHSA-xr4v-v47m-547q] Malware in @antv/coord,https://github.com/advisories/GHSA-xr4v-v47m-547q,https://da.gd/wQ80M
+GithubAdvisories,[GHSA-6q4c-7vh4-hw87] Malware in @antv/algorithm,https://github.com/advisories/GHSA-6q4c-7vh4-hw87,https://da.gd/20VLBq
+GithubAdvisories,[GHSA-38wc-54fv-gf4h] Malware in @antv/g-math,https://github.com/advisories/GHSA-38wc-54fv-gf4h,https://da.gd/Stvlh
+GithubAdvisories,[GHSA-jqrf-pgwx-4hmm] Malware in @antv/dom-util,https://github.com/advisories/GHSA-jqrf-pgwx-4hmm,https://da.gd/ajB5Bx
+GithubAdvisories,[GHSA-m46h-3664-4mh5] Malware in @antv/g-components,https://github.com/advisories/GHSA-m46h-3664-4mh5,https://da.gd/oizvuP
+GithubAdvisories,[GHSA-4rgq-38mh-9xqg] Admidio PKCS#12 private key export action lacks CSRF protection,https://github.com/advisories/GHSA-4rgq-38mh-9xqg,https://da.gd/Yu9CoV
+GithubAdvisories,[GHSA-x628-457g-2pw9] Admidio has IDOR in `documents-files.php` `mode=move_save` that lets any folder-uploader exfiltrate files from private folders,https://github.com/advisories/GHSA-x628-457g-2pw9,https://da.gd/Q3yZdT
+GithubAdvisories,[GHSA-q6w3-hpfv-rg36] Admidio: IDOR in documents-files.php allows cross-folder file rename and description changes by unauthorized uploaders,https://github.com/advisories/GHSA-q6w3-hpfv-rg36,https://da.gd/OXRNV
+GithubAdvisories,[GHSA-6j3g-cqx2-j325] Malware in xmorse,https://github.com/advisories/GHSA-6j3g-cqx2-j325,https://da.gd/a9Qpr
+GithubAdvisories,[GHSA-9w67-pvq7-x7hj] Malware in @tallyui/storage-sqlite,https://github.com/advisories/GHSA-9w67-pvq7-x7hj,https://da.gd/PLbUJ
+GithubAdvisories,[GHSA-r5j9-ph7p-293w] Malware in @antv/x6-plugin-transform,https://github.com/advisories/GHSA-r5j9-ph7p-293w,https://da.gd/mWT51
+GithubAdvisories,[GHSA-8cm2-vv7w-4c27] Malware in zod-to-js,https://github.com/advisories/GHSA-8cm2-vv7w-4c27,https://da.gd/Aym3q
+GithubAdvisories,[GHSA-88qj-pvmg-2jvm] Malware in viem-multichain,https://github.com/advisories/GHSA-88qj-pvmg-2jvm,https://da.gd/9NbkxJ
+GithubAdvisories,[GHSA-gj36-855r-fpmf] Malware in proton-pack,https://github.com/advisories/GHSA-gj36-855r-fpmf,https://da.gd/CUbGV
+GithubAdvisories,[GHSA-r3r7-xhf7-xf87] Malware in mrdaa-frontend,https://github.com/advisories/GHSA-r3r7-xhf7-xf87,https://da.gd/juiX8
+GithubAdvisories,[GHSA-4h8m-265v-jp4c] Malware in ethers-signing-key,https://github.com/advisories/GHSA-4h8m-265v-jp4c,https://da.gd/Oq1o
+GithubAdvisories,[GHSA-64fr-896g-cjfw] Malware in paychex-common-vendor-lib,https://github.com/advisories/GHSA-64fr-896g-cjfw,https://da.gd/FZ3y2
+GithubAdvisories,[GHSA-68gq-2qwr-546j] Malware in jest-less-loader,https://github.com/advisories/GHSA-68gq-2qwr-546j,https://da.gd/iWDMpl
+GithubAdvisories,[GHSA-gwp4-2x9w-m2rp] Malware in @antv/geo-coord,https://github.com/advisories/GHSA-gwp4-2x9w-m2rp,https://da.gd/5OR9i
+GithubAdvisories,[GHSA-f3p6-3xjv-cxwq] Malware in ethers-hdnode,https://github.com/advisories/GHSA-f3p6-3xjv-cxwq,https://da.gd/ajRFji
+GithubAdvisories,[GHSA-phpf-jpq8-9v3p] Malware in limit-size,https://github.com/advisories/GHSA-phpf-jpq8-9v3p,https://da.gd/0HjU4
+GithubAdvisories,[GHSA-gxfh-j6jv-hc58] Malware in ethers-contract,https://github.com/advisories/GHSA-gxfh-j6jv-hc58,https://da.gd/6WBM65
+GithubAdvisories,[GHSA-r78p-pprh-8hvp] Malware in axis-abc-search-address,https://github.com/advisories/GHSA-r78p-pprh-8hvp,https://da.gd/mgMCjA
+GithubAdvisories,[GHSA-wqg8-rp25-j93m] Malware in canvas-nest.js,https://github.com/advisories/GHSA-wqg8-rp25-j93m,https://da.gd/cKjzR
+GithubAdvisories,[GHSA-qqwp-8jp6-678r] Malware in argpras,https://github.com/advisories/GHSA-qqwp-8jp6-678r,https://da.gd/QpH0r4
+GithubAdvisories,[GHSA-853q-8cqf-c8c9] Malware in ast-plugin,https://github.com/advisories/GHSA-853q-8cqf-c8c9,https://da.gd/TNaIyB
+GithubAdvisories,[GHSA-m6v2-w5cf-f85x] Malware in apexomni,https://github.com/advisories/GHSA-m6v2-w5cf-f85x,https://da.gd/Rf9DE
+GithubAdvisories,[GHSA-q53f-j5w8-x7vh] Malware in axis-abc-search-account,https://github.com/advisories/GHSA-q53f-j5w8-x7vh,https://da.gd/JXTlS
+GithubAdvisories,[GHSA-8j66-mwwj-7m2q] Malware in @antv/x6-plugin-scroller,https://github.com/advisories/GHSA-8j66-mwwj-7m2q,https://da.gd/GGGHZ
+GithubAdvisories,[GHSA-xqrp-xwcg-4wxh] Malware in @antv/thumbnails,https://github.com/advisories/GHSA-xqrp-xwcg-4wxh,https://da.gd/uUMjqB
+GithubAdvisories,[GHSA-wghc-m4q5-hw4w] Malware in @lint-md/parser,https://github.com/advisories/GHSA-wghc-m4q5-hw4w,https://da.gd/xpkOCf
+GithubAdvisories,[GHSA-qqc4-xcxr-cq7p] Malware in @timelycare/config-service,https://github.com/advisories/GHSA-qqc4-xcxr-cq7p,https://da.gd/jS51w
+GithubAdvisories,[GHSA-fxqc-33g9-rh7j] Malware in ally-antivirus,https://github.com/advisories/GHSA-fxqc-33g9-rh7j,https://da.gd/zFkJ
+GithubAdvisories,[GHSA-2vqh-whcm-r27x] Malware in @breezeai-frontend/tailwind-config,https://github.com/advisories/GHSA-2vqh-whcm-r27x,https://da.gd/UWuGL
+GithubAdvisories,[GHSA-83jm-r9rf-7gcf] Malware in @trp-individual-investor-adv-disc/adv-shared,https://github.com/advisories/GHSA-83jm-r9rf-7gcf,https://da.gd/Ax0Wj
+GithubAdvisories,[GHSA-mvg8-hq8h-58p5] Malware in word-width,https://github.com/advisories/GHSA-mvg8-hq8h-58p5,https://da.gd/1ySOIu
+GithubAdvisories,[GHSA-4xc8-739q-c5wg] Malware in @cplace-paw-fe/cf-training-extended,https://github.com/advisories/GHSA-4xc8-739q-c5wg,https://da.gd/AW7B1N
+GithubAdvisories,[GHSA-729h-2x9h-56v4] Malware in @citi-icg-158830/icgds-react-css,https://github.com/advisories/GHSA-729h-2x9h-56v4,https://da.gd/p3cPz
+GithubAdvisories,[GHSA-9vx9-c8j6-h9p4] Malware in ally-json-threat-protect,https://github.com/advisories/GHSA-9vx9-c8j6-h9p4,https://da.gd/NyrXCh
+GithubAdvisories,[GHSA-2jfm-x3p5-q6cq] Malware in @antv/vis-predict-engine,https://github.com/advisories/GHSA-2jfm-x3p5-q6cq,https://da.gd/csyLeU
+GithubAdvisories,[GHSA-grrc-v84p-qwv3] Withdrawn Advisory: Malware in @puppeteer/browsers,https://github.com/advisories/GHSA-grrc-v84p-qwv3,https://da.gd/7Q1i
+GithubAdvisories,[GHSA-fmm7-x566-j93x] Malware in @cplace-workflow-fe/cf-workflow,https://github.com/advisories/GHSA-fmm7-x566-j93x,https://da.gd/LYNGBK
+GithubAdvisories,[GHSA-fv4v-94w8-3wxw] Malware in @antv/util,https://github.com/advisories/GHSA-fv4v-94w8-3wxw,https://da.gd/TuS6hw
+GithubAdvisories,[GHSA-5h2f-6mhq-3643] Malware in @antv/x6-vue-shape,https://github.com/advisories/GHSA-5h2f-6mhq-3643,https://da.gd/qKbS
+GithubAdvisories,[GHSA-pf5j-4636-6rx7] Malware in @antv/path-util,https://github.com/advisories/GHSA-pf5j-4636-6rx7,https://da.gd/ZtBo
+GithubAdvisories,[GHSA-wcw3-5x3x-29vx] Malware in onfire.js,https://github.com/advisories/GHSA-wcw3-5x3x-29vx,https://da.gd/BAcu
+GithubAdvisories,[GHSA-m83h-q484-xpvc] Malware in @antv/l7,https://github.com/advisories/GHSA-m83h-q484-xpvc,https://da.gd/3qFAt
+GithubAdvisories,[GHSA-qx42-m25j-5q2g] Malware in @antv/li-core-assets,https://github.com/advisories/GHSA-qx42-m25j-5q2g,https://da.gd/Ii2m86
+GithubAdvisories,[GHSA-69w2-2xhm-wrqj] Malware in @antv/my-f2,https://github.com/advisories/GHSA-69w2-2xhm-wrqj,https://da.gd/MtSt
+GithubAdvisories,[GHSA-96p8-g6rq-c2mf] Malware in @antv/g-plugin-svg-renderer,https://github.com/advisories/GHSA-96p8-g6rq-c2mf,https://da.gd/6puH7d
+GithubAdvisories,[GHSA-6vfh-2qgh-gf48] Malware in @antv/g-plugin-gesture,https://github.com/advisories/GHSA-6vfh-2qgh-gf48,https://da.gd/z8pn1
+GithubAdvisories,[GHSA-crxm-ppc5-4ww6] Malware in @antv/g2-extension-plot,https://github.com/advisories/GHSA-crxm-ppc5-4ww6,https://da.gd/WlaGL
+GithubAdvisories,[GHSA-pvh2-rg5g-69v7] Malware in node-ipc,https://github.com/advisories/GHSA-pvh2-rg5g-69v7,https://da.gd/1rcXZ
+GithubAdvisories,[GHSA-ppjp-2h29-66pv] Malware in reactive-cdk-app,https://github.com/advisories/GHSA-ppjp-2h29-66pv,https://da.gd/loBTz
+GithubAdvisories,[GHSA-ff45-9m3q-68c3] Malware in @antv/f6-plugin,https://github.com/advisories/GHSA-ff45-9m3q-68c3,https://da.gd/SOaxJK
+GithubAdvisories,[GHSA-x5hf-3wp7-2rhq] Malware in one-view-chat-ui-module,https://github.com/advisories/GHSA-x5hf-3wp7-2rhq,https://da.gd/2Jesev
+GithubAdvisories,[GHSA-68h2-v9v8-3829] Malware in tailwind-effect,https://github.com/advisories/GHSA-68h2-v9v8-3829,https://da.gd/UivAMH
+GithubAdvisories,[GHSA-8272-h58p-9c2q] Malware in @antv/g-canvaskit,https://github.com/advisories/GHSA-8272-h58p-9c2q,https://da.gd/Ui2an
+GithubAdvisories,[GHSA-m273-jgjp-6f68] Malware in web3-config-loader,https://github.com/advisories/GHSA-m273-jgjp-6f68,https://da.gd/iSPFg
+GithubAdvisories,[GHSA-vhgj-33p4-7gr8] Malware in ota_web_admin,https://github.com/advisories/GHSA-vhgj-33p4-7gr8,https://da.gd/FwFPv
+GithubAdvisories,[GHSA-467p-2qgm-r2xr] Malware in @antv/async-hook,https://github.com/advisories/GHSA-467p-2qgm-r2xr,https://da.gd/AuMA
+GithubAdvisories,[GHSA-cr99-r4wc-x948] Malware in evmchain-cli,https://github.com/advisories/GHSA-cr99-r4wc-x948,https://da.gd/EULZSA
+GithubAdvisories,[GHSA-gwg9-3m44-qhfx] Malware in jest-date-mock,https://github.com/advisories/GHSA-gwg9-3m44-qhfx,https://da.gd/JaWQGf
+GithubAdvisories,[GHSA-496v-jcj6-2m74] Malware in @antv/dw-analyzer,https://github.com/advisories/GHSA-496v-jcj6-2m74,https://da.gd/OaKO
+GithubAdvisories,[GHSA-rrq4-29fr-r8wj] Malware in @antv/g-mobile,https://github.com/advisories/GHSA-rrq4-29fr-r8wj,https://da.gd/HaUP2o
+GithubAdvisories,[GHSA-vrxj-4hcq-xgcv] Malware in fixed-round,https://github.com/advisories/GHSA-vrxj-4hcq-xgcv,https://da.gd/dyKSA
+GithubAdvisories,[GHSA-2f7m-g9qw-8288] Malware in ethers-abstract-signer,https://github.com/advisories/GHSA-2f7m-g9qw-8288,https://da.gd/hqhqmr
+GithubAdvisories,[GHSA-fqr3-46mm-cgvp] Malware in evmchain-config,https://github.com/advisories/GHSA-fqr3-46mm-cgvp,https://da.gd/gSrdp3
+GithubAdvisories,[GHSA-fwwj-pvrq-jp8p] Malware in tailwindcss-basic-animation,https://github.com/advisories/GHSA-fwwj-pvrq-jp8p,https://da.gd/X5l0U3
+GithubAdvisories,[GHSA-w48r-28x8-4v9p] Malware in tailwind-smooth-slider,https://github.com/advisories/GHSA-w48r-28x8-4v9p,https://da.gd/sqGkV6
+GithubAdvisories,[GHSA-jc7g-fj7v-rj9q] Malware in @antv/f-test-utils,https://github.com/advisories/GHSA-jc7g-fj7v-rj9q,https://da.gd/xXNbZV
+GithubAdvisories,[GHSA-9w8j-9mp6-phr8] Malware in raven-i18n-react,https://github.com/advisories/GHSA-9w8j-9mp6-phr8,https://da.gd/55lZQY
+GithubAdvisories,[GHSA-h7rm-c8rv-7pmh] Malware in @antv/f6-ui,https://github.com/advisories/GHSA-h7rm-c8rv-7pmh,https://da.gd/DJRX4
+GithubAdvisories,[GHSA-hgc9-p5mp-p8f6] Malware in power-apps,https://github.com/advisories/GHSA-hgc9-p5mp-p8f6,https://da.gd/X9lk
+GithubAdvisories,[GHSA-jr6p-493v-mmwf] Malware in chai-use-test,https://github.com/advisories/GHSA-jr6p-493v-mmwf,https://da.gd/0bN81
+GithubAdvisories,[GHSA-5pq6-35rq-m8mh] Malware in slice.js,https://github.com/advisories/GHSA-5pq6-35rq-m8mh,https://da.gd/vdgtv
+GithubAdvisories,[GHSA-qqfx-v5rv-9rxr] Malware in chai-extensions-extras,https://github.com/advisories/GHSA-qqfx-v5rv-9rxr,https://da.gd/P28pv
+GithubAdvisories,[GHSA-qgpx-ffgh-93qv] Malware in apexomni-node,https://github.com/advisories/GHSA-qgpx-ffgh-93qv,https://da.gd/8kj0i
+GithubAdvisories,[GHSA-4jwh-w2xx-p5rq] Malware in apexpro,https://github.com/advisories/GHSA-4jwh-w2xx-p5rq,https://da.gd/9j1mfO
+GithubAdvisories,[GHSA-p4c4-cvj7-95pp] Malware in tailwind-typography-cssstyle,https://github.com/advisories/GHSA-p4c4-cvj7-95pp,https://da.gd/ErP0s
+GithubAdvisories,[GHSA-29g5-vw2p-x29p] Malware in tailwind-clamps-line,https://github.com/advisories/GHSA-29g5-vw2p-x29p,https://da.gd/T0F2AF
+GithubAdvisories,[GHSA-cx3x-gvpc-g35w] Malware in private-next-instrumentation-client,https://github.com/advisories/GHSA-cx3x-gvpc-g35w,https://da.gd/N3y9q
+GithubAdvisories,[GHSA-3c6q-cfmj-gmcf] Malware in mmt-static,https://github.com/advisories/GHSA-3c6q-cfmj-gmcf,https://da.gd/qWf7W4
+GithubAdvisories,[GHSA-g99g-mw45-jjhj] Malware in react-svg-animator,https://github.com/advisories/GHSA-g99g-mw45-jjhj,https://da.gd/VGbAFL
+GithubAdvisories,[GHSA-xvcr-rg36-r589] Malware in @antv/g6-extension-react,https://github.com/advisories/GHSA-xvcr-rg36-r589,https://da.gd/X0UgHv
+GithubAdvisories,[GHSA-88fc-46q8-6h4p] Malware in nextjs-chat-with-ai-service,https://github.com/advisories/GHSA-88fc-46q8-6h4p,https://da.gd/mnLTUI
+GithubAdvisories,[GHSA-6726-235v-9wxv] Malware in ethers-errors,https://github.com/advisories/GHSA-6726-235v-9wxv,https://da.gd/HwDpE
+GithubAdvisories,[GHSA-gcvj-xqr7-rc54] Malware in material-ui-plugin-cache-endpoint,https://github.com/advisories/GHSA-gcvj-xqr7-rc54,https://da.gd/VurmEB
+GithubAdvisories,[GHSA-r3rp-65c5-5cjh] Malware in gcp-api-enabler,https://github.com/advisories/GHSA-r3rp-65c5-5cjh,https://da.gd/lNcn1x
+GithubAdvisories,[GHSA-r4pq-fh5v-934h] Malware in erslove,https://github.com/advisories/GHSA-r4pq-fh5v-934h,https://da.gd/utZea
+GithubAdvisories,[GHSA-pxvh-xmw6-wc5m] Malware in @lint-md/core,https://github.com/advisories/GHSA-pxvh-xmw6-wc5m,https://da.gd/A76R0Z
+GithubAdvisories,[GHSA-rrgc-v65r-26g4] Malware in @tc-core/provider-service,https://github.com/advisories/GHSA-rrgc-v65r-26g4,https://da.gd/ugYt1
+GithubAdvisories,[GHSA-6rcg-q5qx-9qhp] Malware in @rsi-community/hub-client-app,https://github.com/advisories/GHSA-6rcg-q5qx-9qhp,https://da.gd/sfs9ho
+GithubAdvisories,[GHSA-h3x2-x2gh-2hcm] Malware in @timelycare/api,https://github.com/advisories/GHSA-h3x2-x2gh-2hcm,https://da.gd/E7E0R
+GithubAdvisories,[GHSA-w5pj-w4r4-pfgf] Malware in @antv/x6-common,https://github.com/advisories/GHSA-w5pj-w4r4-pfgf,https://da.gd/eOaQB
+GithubAdvisories,[GHSA-47m4-3287-24vc] Malware in @timelycare/core,https://github.com/advisories/GHSA-47m4-3287-24vc,https://da.gd/Puu8x
+GithubAdvisories,[GHSA-m2h2-p59r-798j] Malware in @clearpool/streaming,https://github.com/advisories/GHSA-m2h2-p59r-798j,https://da.gd/wmKy
+GithubAdvisories,[GHSA-fr5f-hf7f-p9w9] Malware in @clearpool/comms,https://github.com/advisories/GHSA-fr5f-hf7f-p9w9,https://da.gd/kNdpnY
+GithubAdvisories,[GHSA-frcf-f9wx-gq64] Malware in codex-devcontainer-install,https://github.com/advisories/GHSA-frcf-f9wx-gq64,https://da.gd/tmyJWQ
+GithubAdvisories,[GHSA-4hrw-8228-63r2] Malware in @cplace-project-planning-fe/cf-project-planning,https://github.com/advisories/GHSA-4hrw-8228-63r2,https://da.gd/LEYSkd
+GithubAdvisories,[GHSA-c7hc-8fj8-hjr6] Malware in dds-js-idl-types,https://github.com/advisories/GHSA-c7hc-8fj8-hjr6,https://da.gd/m6vOSZ
+GithubAdvisories,[GHSA-rmgf-2g76-6ghh] Malware in @antv/x6-plugin-dnd,https://github.com/advisories/GHSA-rmgf-2g76-6ghh,https://da.gd/B6PEix
+GithubAdvisories,[GHSA-29c8-wfhx-h778] Malware in foundry-config,https://github.com/advisories/GHSA-29c8-wfhx-h778,https://da.gd/02Izd
+GithubAdvisories,[GHSA-gvh3-8wx2-39pc] Malware in @antv/translator,https://github.com/advisories/GHSA-gvh3-8wx2-39pc,https://da.gd/FfmCOg
+GithubAdvisories,[GHSA-m6q4-79qp-v6vp] Malware in dit-envv,https://github.com/advisories/GHSA-m6q4-79qp-v6vp,https://da.gd/ENF5uZ
+GithubAdvisories,[GHSA-qvrg-265v-cqvc] Malware in deepl-sync,https://github.com/advisories/GHSA-qvrg-265v-cqvc,https://da.gd/amnqz
+GithubAdvisories,[GHSA-x4wx-qwpr-c3gv] Malware in @antv/x6-plugin-stencil,https://github.com/advisories/GHSA-x4wx-qwpr-c3gv,https://da.gd/PkaGQk
+GithubAdvisories,[GHSA-69v3-6v74-7gv6] Malware in @antv/x6-react-components,https://github.com/advisories/GHSA-69v3-6v74-7gv6,https://da.gd/FLpX7
+GithubAdvisories,[GHSA-9v7r-m78g-4h7h] Malware in @antv/torch,https://github.com/advisories/GHSA-9v7r-m78g-4h7h,https://da.gd/vDmXP9
+GithubAdvisories,[GHSA-29c6-x862-p526] Malware in ally-ccapi,https://github.com/advisories/GHSA-29c6-x862-p526,https://da.gd/Mkq5So
+GithubAdvisories,[GHSA-5x6w-grjh-3xv8] Malware in @antv/s2-react,https://github.com/advisories/GHSA-5x6w-grjh-3xv8,https://da.gd/pc8Fhd
+GithubAdvisories,[GHSA-6p79-pq2m-3537] Malware in @antv/g-plugin-3d,https://github.com/advisories/GHSA-6p79-pq2m-3537,https://da.gd/DvNWR
+GithubAdvisories,[GHSA-cvhv-hgfw-gpjw] Malware in @antv/g-plugin-device-renderer,https://github.com/advisories/GHSA-cvhv-hgfw-gpjw,https://da.gd/h6jpV
+GithubAdvisories,[GHSA-mrrv-5vqm-j285] Malware in ethers-hash,https://github.com/advisories/GHSA-mrrv-5vqm-j285,https://da.gd/MvYSw
+GithubAdvisories,[GHSA-2fp7-j74x-chvv] Malware in axis-notification,https://github.com/advisories/GHSA-2fp7-j74x-chvv,https://da.gd/ibBJN
+GithubAdvisories,[GHSA-8323-qr4w-h7gg] Malware in ally-eagw-identity,https://github.com/advisories/GHSA-8323-qr4w-h7gg,https://da.gd/LD87m
+GithubAdvisories,[GHSA-pvc4-pwx8-4c4g] Malware in @lir-portal/web-components,https://github.com/advisories/GHSA-pvc4-pwx8-4c4g,https://da.gd/e9pmrJ
+GithubAdvisories,[GHSA-gw7h-mv77-3wv8] Malware in @citi-icg-158830/elemental-ui-react,https://github.com/advisories/GHSA-gw7h-mv77-3wv8,https://da.gd/LhzkV7
+GithubAdvisories,[GHSA-mf79-x3p8-p4px] Malware in @timelycare/common,https://github.com/advisories/GHSA-mf79-x3p8-p4px,https://da.gd/h42KO
+GithubAdvisories,[GHSA-648m-8w8j-gqr3] Malware in @breezeai-frontend/cargo-ui,https://github.com/advisories/GHSA-648m-8w8j-gqr3,https://da.gd/FahxN
+GithubAdvisories,[GHSA-m598-5772-88pg] Malware in apexpro-node,https://github.com/advisories/GHSA-m598-5772-88pg,https://da.gd/C9WGe
+GithubAdvisories,[GHSA-h532-5hjv-hxj7] Malware in @antv/gpt-vis,https://github.com/advisories/GHSA-h532-5hjv-hxj7,https://da.gd/NXEiq
+GithubAdvisories,[GHSA-9pfp-jfc9-q69j] Malware in ally-badges,https://github.com/advisories/GHSA-9pfp-jfc9-q69j,https://da.gd/QpaUU
+GithubAdvisories,[GHSA-3274-6pmj-53c3] Malware in @breezeai-frontend/i18n-config,https://github.com/advisories/GHSA-3274-6pmj-53c3,https://da.gd/BFe5sW
+GithubAdvisories,[GHSA-7c54-j876-7f87] Malware in @lint-md/cli,https://github.com/advisories/GHSA-7c54-j876-7f87,https://da.gd/mS9FPu
+GithubAdvisories,[GHSA-vxmm-j4j5-8q23] Malware in @clearpool/table,https://github.com/advisories/GHSA-vxmm-j4j5-8q23,https://da.gd/TyKsp6
+GithubAdvisories,[GHSA-298w-vvm4-ww55] Malware in @opensearch-project/opensearch,https://github.com/advisories/GHSA-298w-vvm4-ww55,https://da.gd/8uPjJq
+GithubAdvisories,[GHSA-jpg3-5pw2-f3pp] Malware in @antv/s2,https://github.com/advisories/GHSA-jpg3-5pw2-f3pp,https://da.gd/U9HGg
+GithubAdvisories,[GHSA-vfwr-g2x2-6phq] Malware in @antv/g-mobile-canvas-element,https://github.com/advisories/GHSA-vfwr-g2x2-6phq,https://da.gd/V9ltF2
+GithubAdvisories,[GHSA-xg76-5qj2-2hhv] Admidio: CSRF in SSO client `enable` action toggles SAML/OIDC clients without token validation,https://github.com/advisories/GHSA-xg76-5qj2-2hhv,https://da.gd/Os1Pr8
+GithubAdvisories,[GHSA-337r-7h6j-v8v6] Malware in @antv/g-mobile-webgl,https://github.com/advisories/GHSA-337r-7h6j-v8v6,https://da.gd/iYQj1
+GithubAdvisories,[GHSA-f644-w9m7-3226] Malware in @antv/wx-f2,https://github.com/advisories/GHSA-f644-w9m7-3226,https://da.gd/2LaOU
+GithubAdvisories,[GHSA-3c6p-cx95-q59f] Malware in @antv/g-gesture,https://github.com/advisories/GHSA-3c6p-cx95-q59f,https://da.gd/RlQXN
+GithubAdvisories,[GHSA-vj87-p72m-m8fc] Malware in @antv/g-plugin-canvas-renderer,https://github.com/advisories/GHSA-vj87-p72m-m8fc,https://da.gd/FIMVi
+GithubAdvisories,[GHSA-9qvm-qjq8-wgj3] Malware in @antv/g-plugin-rough-svg-renderer,https://github.com/advisories/GHSA-9qvm-qjq8-wgj3,https://da.gd/ZbzBj
+GithubAdvisories,[GHSA-pxhx-qqpg-pw7g] Malware in @antv/li-sdk,https://github.com/advisories/GHSA-pxhx-qqpg-pw7g,https://da.gd/ZYOP8
+GithubAdvisories,[GHSA-3x2v-mwgf-c97h] Malware in @antv/l7-layers,https://github.com/advisories/GHSA-3x2v-mwgf-c97h,https://da.gd/cdb8M
+GithubAdvisories,[GHSA-rxrf-pf3f-w3p5] Malware in @antv/l7-core,https://github.com/advisories/GHSA-rxrf-pf3f-w3p5,https://da.gd/QMeh3
+GithubAdvisories,[GHSA-2892-cpv4-xqr4] Malware in @allybank/ally-sdk,https://github.com/advisories/GHSA-2892-cpv4-xqr4,https://da.gd/O2wgc
+GithubAdvisories,[GHSA-jjpx-h3rw-xgvh] Malware in @antv/f-lottie,https://github.com/advisories/GHSA-jjpx-h3rw-xgvh,https://da.gd/hwqfO
+GithubAdvisories,[GHSA-777c-ww2h-cgwx] Malware in @antv/g-webgpu-engine,https://github.com/advisories/GHSA-777c-ww2h-cgwx,https://da.gd/9oVBo
+GithubAdvisories,[GHSA-7px4-955f-q8p5] Malware in @antv/g-lite,https://github.com/advisories/GHSA-7px4-955f-q8p5,https://da.gd/se5s
+GithubAdvisories,[GHSA-g584-r3m7-mrrm] Malware in @allyfinancial/allyfinancial-api,https://github.com/advisories/GHSA-g584-r3m7-mrrm,https://da.gd/EEdK
+GithubAdvisories,[GHSA-fcmx-cpgr-h8vw] Malware in @antv/dw-random,https://github.com/advisories/GHSA-fcmx-cpgr-h8vw,https://da.gd/qPNGXG
+GithubAdvisories,[GHSA-wwmj-qvv5-xgmv] Malware in @antv/ava-react,https://github.com/advisories/GHSA-wwmj-qvv5-xgmv,https://da.gd/k5n1PM
+GithubAdvisories,[GHSA-mx25-j3rc-6w2w] Admidio's CSRF in registration `send_login` mode resets arbitrary user passwords,https://github.com/advisories/GHSA-mx25-j3rc-6w2w,https://da.gd/oDH8G
+GithubAdvisories,[GHSA-rwjr-qjj3-mq2f] Admidio module-administrator can delete or reorder categories owned by other modules via dead authorization check in `modules/categories.php`,https://github.com/advisories/GHSA-rwjr-qjj3-mq2f,https://da.gd/xGM5m
+GithubAdvisories,[GHSA-87m7-qffr-542v] Klever-Go MultiDataInterceptor has remote OOM via crafted compressed P2P payload,https://github.com/advisories/GHSA-87m7-qffr-542v,https://da.gd/HPzjov
+GithubAdvisories,[GHSA-qc4c-hrmc-4f78] Admidio: Authorization bypass in file_delete enables cross-folder file removal by authenticated users without delete privileges,https://github.com/advisories/GHSA-qc4c-hrmc-4f78,https://da.gd/GBxw3
+GithubAdvisories,[GHSA-xjhv-pp2r-6f82] BoxLite has a Timeout Bypass Vulnerability,https://github.com/advisories/GHSA-xjhv-pp2r-6f82,https://da.gd/xkDak
+GithubAdvisories,[GHSA-xv9c-mjw8-79gf] Sidekiq-cron is vulnerable to a cross-site scripting (xss) vulnerability via crafted URL,https://github.com/advisories/GHSA-xv9c-mjw8-79gf,https://da.gd/CmZrBO
+GithubAdvisories,[GHSA-4cx3-3c38-j9vv] katalyst-koi: Session cookies can be replayed after user logout,https://github.com/advisories/GHSA-4cx3-3c38-j9vv,https://da.gd/onumGZ
+GithubAdvisories,[GHSA-jp94-3292-c3xv] Devise has an Open Redirect via Unvalidated `request.referrer` in Timeoutable Session Timeout Handler,https://github.com/advisories/GHSA-jp94-3292-c3xv,https://da.gd/vikMc
+GithubAdvisories,[GHSA-55rj-x2vc-4whq] Symfony: Twilio SMS Notifier allows unauthenticated webhook injection due to missing X-Twilio-Signature verification,https://github.com/advisories/GHSA-55rj-x2vc-4whq,https://da.gd/fss14
+GithubAdvisories,[GHSA-c4m7-2gwp-vw76] ouroboros-ai Vulnerable to Remote Code Execution via Untrusted Project-Directory .env,https://github.com/advisories/GHSA-c4m7-2gwp-vw76,https://da.gd/qbJ6w
+GithubAdvisories,[GHSA-hjj4-hfjm-fmrj] Authelia Missing Username Canonicalization in Basic Auth (LDAP),https://github.com/advisories/GHSA-hjj4-hfjm-fmrj,https://da.gd/CRBjNw
