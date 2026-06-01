@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-5xrq-8626-4rwp] When Vitest UI server is listening, arbitrary file can be read and executed",https://github.com/advisories/GHSA-5xrq-8626-4rwp,https://da.gd/4Ky0Ww
+GithubAdvisories,[GHSA-87xg-pxx2-7hvx] DOMPurify XSS via selectedcontent re-clone,https://github.com/advisories/GHSA-87xg-pxx2-7hvx,https://da.gd/o7i7o
+GithubAdvisories,[GHSA-4g6j-g789-rghm] Nezha's authenticated agents can forge service-monitor results for other users' services,https://github.com/advisories/GHSA-4g6j-g789-rghm,https://da.gd/vEFd4
+GithubAdvisories,[GHSA-63gr-g7jc-v8rg] @agenticmail/mcp Missing Authentication for Critical Function,https://github.com/advisories/GHSA-63gr-g7jc-v8rg,https://da.gd/UZKZXx
+GithubAdvisories,[GHSA-7vwr-8v2c-gjvr] Malware in loading-session,https://github.com/advisories/GHSA-7vwr-8v2c-gjvr,https://da.gd/CO5JO1
+GithubAdvisories,[GHSA-mrgj-mcjh-5mf2] Malware in @redhat-cloud-services/frontend-components,https://github.com/advisories/GHSA-mrgj-mcjh-5mf2,https://da.gd/cXX4hW
+GithubAdvisories,[GHSA-cxfw-p322-rfrv] Malware in @redhat-cloud-services/frontend-components-config-utilities,https://github.com/advisories/GHSA-cxfw-p322-rfrv,https://da.gd/vRoH2
+GithubAdvisories,[GHSA-8xj2-9c64-m64h] Malware in @redhat-cloud-services/types,https://github.com/advisories/GHSA-8xj2-9c64-m64h,https://da.gd/Xr89f
+GithubAdvisories,[GHSA-2p99-xvqh-j893] Malware in @redhat-cloud-services/rbac-client,https://github.com/advisories/GHSA-2p99-xvqh-j893,https://da.gd/k2pFE
+GithubAdvisories,[GHSA-942v-f47r-w9c3] Malware in @redhat-cloud-services/chrome,https://github.com/advisories/GHSA-942v-f47r-w9c3,https://da.gd/IQS4Fl
+GithubAdvisories,[GHSA-9wp8-557p-2hvf] Malware in @redhat-cloud-services/topological-inventory-client,https://github.com/advisories/GHSA-9wp8-557p-2hvf,https://da.gd/dRFp6G
+GithubAdvisories,[GHSA-mj98-cgm5-6xrr] Malware in @redhat-cloud-services/quickstarts-client,https://github.com/advisories/GHSA-mj98-cgm5-6xrr,https://da.gd/dbqHs
+GithubAdvisories,[GHSA-c4gm-6fh3-76v9] Malware in @redhat-cloud-services/rule-components,https://github.com/advisories/GHSA-c4gm-6fh3-76v9,https://da.gd/9SmvD
+GithubAdvisories,[GHSA-c3mv-fjj4-2542] Malware in @redhat-cloud-services/eslint-config-redhat-cloud-services,https://github.com/advisories/GHSA-c3mv-fjj4-2542,https://da.gd/O9VmzC
+GithubAdvisories,[GHSA-pc3j-w4f9-94hj] Malware in jingmeideshishi,https://github.com/advisories/GHSA-pc3j-w4f9-94hj,https://da.gd/PlLHk
