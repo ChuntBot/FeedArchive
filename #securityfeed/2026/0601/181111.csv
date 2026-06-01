@@ -1,0 +1,40 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hqpj-f3jh-29vx] Mattermost doesn't validate that the RefreshedToken differs from the original invite token during remote cluster invite confirmation,https://github.com/advisories/GHSA-hqpj-f3jh-29vx,https://da.gd/x2hHx0
+GithubAdvisories,[GHSA-m3p3-8frq-q7qh] Mattermost doesn't limit the size of the request body on the start meeting API endpoint,https://github.com/advisories/GHSA-m3p3-8frq-q7qh,https://da.gd/PFUTv
+GithubAdvisories,[GHSA-8h9w-w78c-vvr3] Mattermost does not verify remote cluster channel access when processing shared channel membership removals,https://github.com/advisories/GHSA-8h9w-w78c-vvr3,https://da.gd/8EUdM
+GithubAdvisories,[GHSA-82j6-4fq7-fx62] Mattermost doesn't sanitize sensitive configuration fields in the Mattermost Calls plugin,https://github.com/advisories/GHSA-82j6-4fq7-fx62,https://da.gd/h8hyl
+GithubAdvisories,[GHSA-2xcr-5qfc-fq54] Malware in xarc-webpack-cli,https://github.com/advisories/GHSA-2xcr-5qfc-fq54,https://da.gd/qVyJ0X
+GithubAdvisories,[GHSA-2qqv-9mw5-52q2] Malware in json-to-simple-graphql-schema,https://github.com/advisories/GHSA-2qqv-9mw5-52q2,https://da.gd/WlsJx
+GithubAdvisories,[GHSA-9p64-jpc7-m2rp] Mattermost doesn't sanitize sensitive configuration fields before including them in support packet generation,https://github.com/advisories/GHSA-9p64-jpc7-m2rp,https://da.gd/gr9C1
+GithubAdvisories,[GHSA-vp9c-9mjm-2f7w] Malware in @redhat-cloud-services/sources-client,https://github.com/advisories/GHSA-vp9c-9mjm-2f7w,https://da.gd/swCpN
+GithubAdvisories,[GHSA-8x4g-q845-wpfc] Malware in @redhat-cloud-services/integrations-client,https://github.com/advisories/GHSA-8x4g-q845-wpfc,https://da.gd/Cygd
+GithubAdvisories,[GHSA-vgm5-jmvr-cjgf] Malware in @redhat-cloud-services/hcc-feo-mcp,https://github.com/advisories/GHSA-vgm5-jmvr-cjgf,https://da.gd/dRFSmr
+GithubAdvisories,[GHSA-wgvx-w8g7-vh4h] Malware in @redhat-cloud-services/frontend-components-testing,https://github.com/advisories/GHSA-wgvx-w8g7-vh4h,https://da.gd/5Iiry
+GithubAdvisories,[GHSA-4rjr-7qhx-vjwg] Malware in @redhat-cloud-services/frontend-components-remediations,https://github.com/advisories/GHSA-4rjr-7qhx-vjwg,https://da.gd/DTbfQ
+GithubAdvisories,[GHSA-m79q-8qf5-v622] Mattermost doesn't check public/private permissions,https://github.com/advisories/GHSA-m79q-8qf5-v622,https://da.gd/FlU9a7
+GithubAdvisories,[GHSA-h43w-g623-gfmv] Malware in @redhat-cloud-services/frontend-components-config,https://github.com/advisories/GHSA-h43w-g623-gfmv,https://da.gd/R6aPct
+GithubAdvisories,[GHSA-28hc-2275-h287] Malware in @redhat-cloud-services/entitlements-client,https://github.com/advisories/GHSA-28hc-2275-h287,https://da.gd/bN7FF
+GithubAdvisories,[GHSA-6x8j-5cx8-5qv6] Malware in randomlogs,https://github.com/advisories/GHSA-6x8j-5cx8-5qv6,https://da.gd/0A1W4
+GithubAdvisories,[GHSA-wvgv-4fc3-2rcp] Mattermost doesn't prevent disclosure of created user password,https://github.com/advisories/GHSA-wvgv-4fc3-2rcp,https://da.gd/iZxh8
+GithubAdvisories,[GHSA-4r2m-9mxx-rf7q] Malware in peertube-plugin-google-analytics-js,https://github.com/advisories/GHSA-4r2m-9mxx-rf7q,https://da.gd/KcxwSO
+GithubAdvisories,[GHSA-vqp5-2mrp-qqxg] Mattermost doesn't validate the Host header when constructing response URLs for custom slash command,https://github.com/advisories/GHSA-vqp5-2mrp-qqxg,https://da.gd/91Uy
+GithubAdvisories,[GHSA-8r89-8w26-cq32] Mattermost doesn't verify channel membership when processing AI-assisted message rewrites,https://github.com/advisories/GHSA-8r89-8w26-cq32,https://da.gd/ErsIx
+GithubAdvisories,[GHSA-xvcx-mgpc-5xh3] Mattermost doesn't validate the X-Requested-With header on the burn-on-read reveal endpoint,https://github.com/advisories/GHSA-xvcx-mgpc-5xh3,https://da.gd/QD7saw
+GithubAdvisories,[GHSA-gvg4-jhmr-6j23] Mattermost doesn't check if {{team_id}} was being changed when updating playbooks,https://github.com/advisories/GHSA-gvg4-jhmr-6j23,https://da.gd/3MKZol
+GithubAdvisories,[GHSA-wvcv-9xpm-7mqc] Mattermost doesn't enforce slash command trigger-word uniqueness during command updates,https://github.com/advisories/GHSA-wvcv-9xpm-7mqc,https://da.gd/05CWw
+GithubAdvisories,[GHSA-5jx8-qv7v-hv32] Malware in @chat-template/auth,https://github.com/advisories/GHSA-5jx8-qv7v-hv32,https://da.gd/bGffMj
+GithubAdvisories,[GHSA-358g-x45v-57vw] Malware in nemo-reporter,https://github.com/advisories/GHSA-358g-x45v-57vw,https://da.gd/TmNHOB
+GithubAdvisories,[GHSA-cjm8-jxpw-g43m] Mattermost doesn't validate 7zip archive structure before processing,https://github.com/advisories/GHSA-cjm8-jxpw-g43m,https://da.gd/ckX6q
+GithubAdvisories,[GHSA-jp3f-x449-4q75] Mattermost doesn't enforce client identity binding during the OAuth authorization code redemption flow,https://github.com/advisories/GHSA-jp3f-x449-4q75,https://da.gd/OcerP
+GithubAdvisories,[GHSA-v549-xx3c-6pc8] Mattermost doesn't check the create_post channel permission during post edit operations,https://github.com/advisories/GHSA-v549-xx3c-6pc8,https://da.gd/xDTx9
+GithubAdvisories,[GHSA-jx93-pf6x-874r] Mattermost doesn't escape some variables that could contain malicious content during error page composition,https://github.com/advisories/GHSA-jx93-pf6x-874r,https://da.gd/299vOm
+GithubAdvisories,[GHSA-hw79-5457-g9c3] Malware in motion-tool,https://github.com/advisories/GHSA-hw79-5457-g9c3,https://da.gd/CTda6
+GithubAdvisories,[GHSA-qjwp-hrq6-r26r] kas checks out SHA-like git branches as valid commits,https://github.com/advisories/GHSA-qjwp-hrq6-r26r,https://da.gd/Qvgg
+GithubAdvisories,[GHSA-g8rr-7rj2-f627] praisonai-platform: Any workspace member can delete the entire workspace via DELETE /workspaces/{id},https://github.com/advisories/GHSA-g8rr-7rj2-f627,https://da.gd/2O2bg
+GithubAdvisories,"[GHSA-xwq8-frcg-77q8] praisonai-platform: Issue endpoints accept any issue_id without workspace ownership check, cross-workspace read/update/delete IDOR",https://github.com/advisories/GHSA-xwq8-frcg-77q8,https://da.gd/O628vg
+GithubAdvisories,[GHSA-8g2p-pqm3-fcfh] praisonai-platform: Any workspace member can add arbitrary user as owner via POST /workspaces/{id}/members,https://github.com/advisories/GHSA-8g2p-pqm3-fcfh,https://da.gd/lfhWq
+GithubAdvisories,"[GHSA-rcmc-q9rj-4wmq] praisonai-platform: Any workspace member can rewrite workspace name, description, and settings via PATCH /workspaces/{id}",https://github.com/advisories/GHSA-rcmc-q9rj-4wmq,https://da.gd/9Muqh2
+GithubAdvisories,"[GHSA-cp4f-5m9r-5jc2] praisonai-platform: Comment endpoints accept any issue_id without workspace ownership check, cross-workspace comment read and post IDOR",https://github.com/advisories/GHSA-cp4f-5m9r-5jc2,https://da.gd/o5y4X
+GithubAdvisories,"[GHSA-943m-6wx2-rc2j] praisonai-platform: Project endpoints accept any project_id without workspace ownership check, cross-workspace read/update/delete IDOR",https://github.com/advisories/GHSA-943m-6wx2-rc2j,https://da.gd/ML8vpy
+GithubAdvisories,[GHSA-q53q-5r4j-5729] rattler has an entry-point path traversal in noarch:python install (arbitrary file write),https://github.com/advisories/GHSA-q53q-5r4j-5729,https://da.gd/Q4To33
+GithubAdvisories,[GHSA-2h32-95rg-cppp] Vitest browser mode serves unsanitized otelCarrier query parameter as inline script,https://github.com/advisories/GHSA-2h32-95rg-cppp,https://da.gd/La4XJk
