@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-97jf-46m3-8953] Security feature bypass vulnerability in Azure Key Vault Keys library for Java,https://github.com/advisories/GHSA-97jf-46m3-8953,https://da.gd/eukdw
+GithubAdvisories,[GHSA-7pwc-h2j2-rjgj] Apache Thrift has an Improper Validation of Certificate with Host Mismatch Vulnerability,https://github.com/advisories/GHSA-7pwc-h2j2-rjgj,https://da.gd/oXLx8
+GithubAdvisories,[GHSA-3g76-f9xq-8vp6] Vert.x has a DoS via unbounded server-side SNI SslContext cache growth,https://github.com/advisories/GHSA-3g76-f9xq-8vp6,https://da.gd/GppZ
