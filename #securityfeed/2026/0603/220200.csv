@@ -1,0 +1,26 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-f9rx-7wf7-jr36] Froxlor's API Authentication bypasses 2FA Authentication,https://github.com/advisories/GHSA-f9rx-7wf7-jr36,https://da.gd/vOGYbr
+GithubAdvisories,[GHSA-6vr3-7wcx-v5g5] browserstack-runner vulnerable to Remote Code Execution via vm sandbox escape in _log HTTP handler,https://github.com/advisories/GHSA-6vr3-7wcx-v5g5,https://da.gd/HATP0
+GithubAdvisories,[GHSA-8rpw-6cqh-2v9h] browserstack-runner has an unauthenticated arbitrary file read via path traversal in HTTP server,https://github.com/advisories/GHSA-8rpw-6cqh-2v9h,https://da.gd/n4a58I
+GithubAdvisories,[GHSA-cfw7-6c5v-2wjq] Jupyter Enterprise Gateway: Kubernetes Manifest Injection in Jinja2 Template Rendering,https://github.com/advisories/GHSA-cfw7-6c5v-2wjq,https://da.gd/tg2Up
+GithubAdvisories,[GHSA-f49j-v924-fx9w] Jupyter Enterprise Gateway: Jinja2 Template Server Side Template Injection resulting in Remote Code Execution,https://github.com/advisories/GHSA-f49j-v924-fx9w,https://da.gd/dkKslU
+GithubAdvisories,[GHSA-hg6j-4rv6-33pg] AIOHTTP is vulnerable to cross-origin redirect with per-request cookies,https://github.com/advisories/GHSA-hg6j-4rv6-33pg,https://da.gd/G0Vq1
+GithubAdvisories,[GHSA-chq7-94j8-cj28] Jupyter Enterprise Gateway: ContainerProcessProxy._enforce_prohibited_ids Bypass,https://github.com/advisories/GHSA-chq7-94j8-cj28,https://da.gd/ZxyPQ
+GithubAdvisories,[GHSA-jmmv-h3mp-59v8] Docling Core: Unsafe remote filename resolution,https://github.com/advisories/GHSA-jmmv-h3mp-59v8,https://da.gd/IalKD6
+GithubAdvisories,[GHSA-j5xp-7m2f-49jv] Docling Core: Insufficient validation of image reference URIs,https://github.com/advisories/GHSA-j5xp-7m2f-49jv,https://da.gd/ersGc
+GithubAdvisories,[GHSA-q29v-xc37-wh5m] Docling: Unsafe URI and Path Handling in HTML Backend,https://github.com/advisories/GHSA-q29v-xc37-wh5m,https://da.gd/rnF0y
+GithubAdvisories,[GHSA-2j5p-7p5m-cvqr] Docling: Potential Path Traversal via LaTeX \includegraphics and \input Commands,https://github.com/advisories/GHSA-2j5p-7p5m-cvqr,https://da.gd/wSqIBD
+GithubAdvisories,[GHSA-m88r-rg27-5xfg] Docling: Unsafe XML Entity Expansion in USPTO Patent Backend,https://github.com/advisories/GHSA-m88r-rg27-5xfg,https://da.gd/Vnesi
+GithubAdvisories,[GHSA-r3xg-rg9j-67fv] Docling: Unsafe Archive Extraction and XML Parsing in METS-GBS Backend,https://github.com/advisories/GHSA-r3xg-rg9j-67fv,https://da.gd/24jri
+GithubAdvisories,[GHSA-pj2v-ggqh-cmq2] Docling: Unsafe Playwright-based HTML Rendering,https://github.com/advisories/GHSA-pj2v-ggqh-cmq2,https://da.gd/s8Zy
+GithubAdvisories,[GHSA-ch57-39q2-4crm] malla: Stored XSS via Meshtastic node names in multiple frontend pages,https://github.com/advisories/GHSA-ch57-39q2-4crm,https://da.gd/stIdZ
+GithubAdvisories,[GHSA-8x6r-g9mw-2r78] React Router vulnerable to DoS via unbounded path expansion in __manifest endpoint,https://github.com/advisories/GHSA-8x6r-g9mw-2r78,https://da.gd/Sb9tg
+GithubAdvisories,[GHSA-49rj-9fvp-4h2h] React Router's vendored turbo-stream v2 allows arbitrary constructor invocation via TYPE_ERROR deserialization leading to Unauth RCE,https://github.com/advisories/GHSA-49rj-9fvp-4h2h,https://da.gd/H3Zm9p
+GithubAdvisories,[GHSA-37m5-m4q3-fc6x] Froxlor: BIND Zone File Injection via TXT Record Content,https://github.com/advisories/GHSA-37m5-m4q3-fc6x,https://da.gd/ohldN
+GithubAdvisories,[GHSA-vvgj-x9jq-8cj9] quic-go: HTTP/3 QPACK Trailer Expansion Memory Exhaustion,https://github.com/advisories/GHSA-vvgj-x9jq-8cj9,https://da.gd/umcas
+GithubAdvisories,[GHSA-2j2x-hqr9-3h42] React Router's same-origin redirect with path starting // causes open redirect via protocol-relative URL reinterpretation,https://github.com/advisories/GHSA-2j2x-hqr9-3h42,https://da.gd/vgtXhl
+GithubAdvisories,[GHSA-jg22-mg44-37j8] AIOHTTP is Vulnerable to Deserialization of Untrusted Data,https://github.com/advisories/GHSA-jg22-mg44-37j8,https://da.gd/XUidR
+GithubAdvisories,[GHSA-8646-j5j9-6r62] React Router vulnerable to XSS in unstable RSC redirect handling via javascript: redirect targets,https://github.com/advisories/GHSA-8646-j5j9-6r62,https://da.gd/aOnAVI
+GithubAdvisories,[GHSA-f22v-gfqf-p8f3] React Router has stored XSS via unescaped Location header in prerendered redirect HTML,https://github.com/advisories/GHSA-f22v-gfqf-p8f3,https://da.gd/4UryQD
+GithubAdvisories,[GHSA-m8xx-3x29-84h8] backpack/crud is vulnerable to Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-m8xx-3x29-84h8,https://da.gd/8bvC
+GithubAdvisories,[GHSA-cjqg-rq2h-2fvj] Docling: Unsafe Zip Extraction in EasyOCR Model Download,https://github.com/advisories/GHSA-cjqg-rq2h-2fvj,https://da.gd/cOz1rJ
