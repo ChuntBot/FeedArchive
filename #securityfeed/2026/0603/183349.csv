@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-c27g-q93r-2cwf] launch-editor vulnerable to command injection via the crafted request on Windows,https://github.com/advisories/GHSA-c27g-q93r-2cwf,https://da.gd/0EcfPS
