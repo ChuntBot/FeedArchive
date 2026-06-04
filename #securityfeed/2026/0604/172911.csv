@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-g8vr-x4qh-25qg] Keycloak: Policy bypass during WebAuthn credential registration via client-side JavaScript manipulation,https://github.com/advisories/GHSA-g8vr-x4qh-25qg,https://da.gd/IbPG8
