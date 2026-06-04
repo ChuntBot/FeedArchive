@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-rp95-xpg9-c2cq] Keycloak: Open redirect when using wildcard valid redirect URIs in Keycloak,https://github.com/advisories/GHSA-rp95-xpg9-c2cq,https://da.gd/1HH1OC
+GithubAdvisories,[GHSA-hf67-5vvq-fm3r] Keycloak: Session fixation in OIDC login flow that can lead to account takeover,https://github.com/advisories/GHSA-hf67-5vvq-fm3r,https://da.gd/WLVe45
+GithubAdvisories,[GHSA-hq3p-w4xv-x7vp] Keycloak: Access token disclosure and implicit flow bypass via forged client data,https://github.com/advisories/GHSA-hq3p-w4xv-x7vp,https://da.gd/rNzSWO
+GithubAdvisories,[GHSA-p5mv-gj8j-xqgf] Keycloak: Denial of Service via specially crafted SAML input,https://github.com/advisories/GHSA-p5mv-gj8j-xqgf,https://da.gd/epCFX
+GithubAdvisories,[GHSA-w4p5-rfh6-cwrv] Keycloak: Unauthorized account takeover via WebAuthn token replay,https://github.com/advisories/GHSA-w4p5-rfh6-cwrv,https://da.gd/1n2PI0
+GithubAdvisories,[GHSA-rrv7-3mqf-hxfr] Keycloak: Information Disclosure via evaluate-scopes Admin API,https://github.com/advisories/GHSA-rrv7-3mqf-hxfr,https://da.gd/eitnO
+GithubAdvisories,[GHSA-4x37-hw65-52w8] Keycloak: Information disclosure via OIDC token introspection endpoint audience bypass,https://github.com/advisories/GHSA-4x37-hw65-52w8,https://da.gd/3FIZOJ
+GithubAdvisories,[GHSA-rxv8-25v2-qmq8] React Router vulnerable to Denial of Service via reflected user input in single-fetch,https://github.com/advisories/GHSA-rxv8-25v2-qmq8,https://da.gd/yTcK4
+GithubAdvisories,[GHSA-67c5-x5mf-rppq] MLflow: Improper Origin Validation in MLflow Assistant /ajax-api Endpoints Enables Browser-Mediated Local Command Execution,https://github.com/advisories/GHSA-67c5-x5mf-rppq,https://da.gd/Ce2ZFp
+GithubAdvisories,[GHSA-m8xg-8xg9-mxhm] Nuclio: Missing authorization on project write paths allows any authenticated user to modify or delete any project,https://github.com/advisories/GHSA-m8xg-8xg9-mxhm,https://da.gd/YnBPoA
+GithubAdvisories,[GHSA-cq3f-vc6p-68fh] Better Auth: Device authorization approve and deny accept any authenticated session while the user code is pending,https://github.com/advisories/GHSA-cq3f-vc6p-68fh,https://da.gd/O288nA
+GithubAdvisories,[GHSA-h97m-27fx-42rx] matrix-sdk-ui: Incomplete edit validation,https://github.com/advisories/GHSA-h97m-27fx-42rx,https://da.gd/qMiBbB
+GithubAdvisories,[GHSA-wfq4-36m3-9g42] Matrix Rust SDK: Sender-binding gaps in to-device and room-key attribution,https://github.com/advisories/GHSA-wfq4-36m3-9g42,https://da.gd/fVc6w
+GithubAdvisories,[GHSA-fr49-mhgj-crfc] Strawberry GraphQL's Bypass of MaxAliasesLimiter via Fragment Spreads leading to GraphQL Alias Amplification,https://github.com/advisories/GHSA-fr49-mhgj-crfc,https://da.gd/O3zjPx
+GithubAdvisories,[GHSA-qfwv-87qj-98xq] Strawberry GraphQL has a Circular Fragment Reference DOS,https://github.com/advisories/GHSA-qfwv-87qj-98xq,https://da.gd/yTS23
+GithubAdvisories,[GHSA-m6vc-f87m-cc2h] Doorkeeper Openid Connect: Dynamic Client Registration feature creates public clients with client_secret,https://github.com/advisories/GHSA-m6vc-f87m-cc2h,https://da.gd/kUtgdN
+GithubAdvisories,[GHSA-fh3h-vg37-cc95] WebOb: Location header normalization during redirect leads to open redirect - again,https://github.com/advisories/GHSA-fh3h-vg37-cc95,https://da.gd/qxWqp
+GithubAdvisories,[GHSA-hfxv-24rg-xrqf] Axios: Regular Expression Denial of Service (ReDoS) via Cookie Name Injection,https://github.com/advisories/GHSA-hfxv-24rg-xrqf,https://da.gd/VsEgSp
+GithubAdvisories,[GHSA-777c-7fjr-54vf] Allocation of Resources Without Limits or Throttling in Axios,https://github.com/advisories/GHSA-777c-7fjr-54vf,https://da.gd/Wcbk
+GithubAdvisories,[GHSA-p92q-9vqr-4j8v] Axios: Proxy-Authorization Credential Leak to Origin Server Across HTTP-to-HTTPS Redirect in Axios Node.js HTTP Adapter,https://github.com/advisories/GHSA-p92q-9vqr-4j8v,https://da.gd/HhVtwB
+GithubAdvisories,[GHSA-j5f8-grm9-p9fc] Axios: Proxy-Authorization header leaks to redirect target when proxy is re-evaluated to direct connection,https://github.com/advisories/GHSA-j5f8-grm9-p9fc,https://da.gd/akiQK
