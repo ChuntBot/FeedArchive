@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-2gcr-mfcq-wcc3] Hono: app.mount() strips mount prefix using undecoded path, causing incorrect routing for percent-encoded paths",https://github.com/advisories/GHSA-2gcr-mfcq-wcc3,https://da.gd/Z5QeJ3
+GithubAdvisories,[GHSA-xrhx-7g5j-rcj5] Hono: IP Restriction bypasses static deny rules for non-canonical IPv6,https://github.com/advisories/GHSA-xrhx-7g5j-rcj5,https://da.gd/BlfWW
+GithubAdvisories,"[GHSA-3hrh-pfw6-9m5x] Hono: Cookie helper does not sanitize sameSite and priority, allowing Set-Cookie injection",https://github.com/advisories/GHSA-3hrh-pfw6-9m5x,https://da.gd/EAtRz
+GithubAdvisories,"[GHSA-f577-qrjj-4474] Hono: JWT middleware accepts any Authorization scheme, not only Bearer",https://github.com/advisories/GHSA-f577-qrjj-4474,https://da.gd/U3la
+GithubAdvisories,[GHSA-c82x-f4xr-qv33] epa4all-client: Unauthenticated REST API for Patient Record Writes,https://github.com/advisories/GHSA-c82x-f4xr-qv33,https://da.gd/F7A4f
+GithubAdvisories,[GHSA-64cj-qvx5-m4f3] Nhost CLI local configserver allows cross-origin unauthenticated read/write access to local development configuration and secrets,https://github.com/advisories/GHSA-64cj-qvx5-m4f3,https://da.gd/DgRBR
+GithubAdvisories,[GHSA-74m6-4hjp-7226] Klever-Go P2P MultiDataInterceptor leaks global throttler slots on malformed compressed batches (DoS),https://github.com/advisories/GHSA-74m6-4hjp-7226,https://da.gd/CPL5SM
+GithubAdvisories,[GHSA-wqcr-7rf3-f64m] Singluarity: Incorrect path matching for 'limit container paths' directive,https://github.com/advisories/GHSA-wqcr-7rf3-f64m,https://da.gd/zAwPz
+GithubAdvisories,[GHSA-4vqc-wpwg-vh7j] kas's late signature validation may allow unnoticed repository manipulations,https://github.com/advisories/GHSA-4vqc-wpwg-vh7j,https://da.gd/RKQD6q
+GithubAdvisories,[GHSA-83c4-ffjp-mxp9] Keycloak: Revoked Tokens Can Remain Active When Both Realm-Level and Client-Level `notBefore` Revocation Policies are Configured,https://github.com/advisories/GHSA-83c4-ffjp-mxp9,https://da.gd/22xiz
