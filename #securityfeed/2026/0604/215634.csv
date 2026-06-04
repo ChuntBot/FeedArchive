@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xp6r-8pcc-xv5p] BillaBear is Vulnerable to SQL Injection in the EventRepository,https://github.com/advisories/GHSA-xp6r-8pcc-xv5p,https://da.gd/T9GRS
+GithubAdvisories,[GHSA-9cfw-f3f9-7mm7] APScheduler's JSONSerializer and CBORSerializer are vulnerable to Remote Code Execution (RCE) via Insecure Deserialization,https://github.com/advisories/GHSA-9cfw-f3f9-7mm7,https://da.gd/LsWbm
+GithubAdvisories,[GHSA-4p62-hqp5-g644] MCP-for-Stata: Command injection via log_file_name parameter in Stata command wrapper,https://github.com/advisories/GHSA-4p62-hqp5-g644,https://da.gd/iiHM6
