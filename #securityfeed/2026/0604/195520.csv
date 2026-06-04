@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xgx4-4h9w-53pv] AdGuard Home: DoQ-to-UDP State Reduction and Source-Port Oracle,https://github.com/advisories/GHSA-xgx4-4h9w-53pv,https://da.gd/BlobGb
+GithubAdvisories,[GHSA-jpvj-wpmj-h7rv] Supply chain compromise via malicious @cap-js/openapi,https://github.com/advisories/GHSA-jpvj-wpmj-h7rv,https://da.gd/C7Q7dj
+GithubAdvisories,[GHSA-gq96-5pfx-f4vc] Shopware: SSRF in Media External-Link Endpoint Bypasses IP Validation,https://github.com/advisories/GHSA-gq96-5pfx-f4vc,https://da.gd/Sykv6h
+GithubAdvisories,[GHSA-xvhc-gm7j-mhmc] Shopware: Stored XSS via SVG file upload — no SVG sanitization,https://github.com/advisories/GHSA-xvhc-gm7j-mhmc,https://da.gd/RoFEZ6
+GithubAdvisories,[GHSA-9v5m-39wh-5chq] Shopware: Unauthorized Payment Trigger for Foreign Orders via /store-api/handle-payment,https://github.com/advisories/GHSA-9v5m-39wh-5chq,https://da.gd/qVUWY
+GithubAdvisories,[GHSA-f8q6-3g5w-jjr6] Shopware: Admin API ACL Bypass in Order State Transition Endpoints,https://github.com/advisories/GHSA-f8q6-3g5w-jjr6,https://da.gd/AweMsY
+GithubAdvisories,[GHSA-4x3x-869w-xx3m] Shopware SSO referer trust leading to an arbitrary redirect target,https://github.com/advisories/GHSA-4x3x-869w-xx3m,https://da.gd/AlkRL7
+GithubAdvisories,[GHSA-7w52-7jvm-m9vw] Shopware: Timing-attack on admin panel allowing enumeration of administrator usernames,https://github.com/advisories/GHSA-7w52-7jvm-m9vw,https://da.gd/4j9TjO
+GithubAdvisories,[GHSA-v39m-97p8-gqg7] Shopware: Privilege escalation: non-admin user with user:create ACL can create admin accounts,https://github.com/advisories/GHSA-v39m-97p8-gqg7,https://da.gd/P4XPXA
+GithubAdvisories,[GHSA-8v9p-g828-v98f] Shopware: Admin Account Takeover via User Recovery Hash Exposure,https://github.com/advisories/GHSA-8v9p-g828-v98f,https://da.gd/h3z7I
