@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-86qp-5c8j-p5mr] Starlette has missing Host header validation that poisons request.url.path, bypassing path-based security checks",https://github.com/advisories/GHSA-86qp-5c8j-p5mr,https://da.gd/sAwfpn
