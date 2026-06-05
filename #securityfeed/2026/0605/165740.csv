@@ -1,0 +1,40 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-x9f6-9rvm-mmrg] Improper Access Control in vantage6 node,https://github.com/advisories/GHSA-x9f6-9rvm-mmrg,https://da.gd/1iN5N
+GithubAdvisories,[GHSA-fgmc-2hqj-86v4] Vantage6: Set admin user and password from environment or configuration,https://github.com/advisories/GHSA-fgmc-2hqj-86v4,https://da.gd/zQ6R1
+GithubAdvisories,[GHSA-g72g-r7m4-9x4g] NocoDB: OAuth Tokens Persist Through Security Events,https://github.com/advisories/GHSA-g72g-r7m4-9x4g,https://da.gd/FtNQLM
+GithubAdvisories,[GHSA-rm5c-5x2p-48wr] Klever-Go KVM: Unauthenticated remote node crash (nil-pointer DoS) in klever-go P2P transaction interceptor (txVersionChecker nil RawData) - potential chain halt,https://github.com/advisories/GHSA-rm5c-5x2p-48wr,https://da.gd/t5Zfk0
+GithubAdvisories,[GHSA-w4c6-7r69-w7j9] klever-go: REST API slow-header connection exhaustion via Gin Engine.Run,https://github.com/advisories/GHSA-w4c6-7r69-w7j9,https://da.gd/SQCNH
+GithubAdvisories,[GHSA-hf2g-6j7h-98wg] klever-go: Unbounded goroutine spawn on direct-message ingress enables peer-driven DoS,https://github.com/advisories/GHSA-hf2g-6j7h-98wg,https://da.gd/qe9wn
+GithubAdvisories,[GHSA-fw38-pc54-jvx9] Klever-Go KVM: Throttler slot leak in trie account-data sync causes epoch bootstrap / state sync DoS,https://github.com/advisories/GHSA-fw38-pc54-jvx9,https://da.gd/fm25k
+GithubAdvisories,[GHSA-hv83-ggc4-v385] DbGate: Remote Code Execution via functionName injection in loadReader endpoint,https://github.com/advisories/GHSA-hv83-ggc4-v385,https://da.gd/fh7i8s
+GithubAdvisories,[GHSA-g9qc-qf28-hhqx] Apache Airflow Amazon provider: Prevent unauthorized access to team-scoped secrets in AWS Secrets Manager and SSM Parameter Store backends,https://github.com/advisories/GHSA-g9qc-qf28-hhqx,https://da.gd/Fqxjp
+GithubAdvisories,[GHSA-524w-vq63-2xhf] Apache Airflow CNCF Kubernetes provider: JWT Token Exposure in KubernetesExecutor Command-Line Arguments,https://github.com/advisories/GHSA-524w-vq63-2xhf,https://da.gd/iV6A
+GithubAdvisories,[GHSA-q4x5-8cj6-52wg] Sync-in Server: SSRF protection bypass via IPv4-mapped IPv6 addresses in regExpPrivateIP,https://github.com/advisories/GHSA-q4x5-8cj6-52wg,https://da.gd/eDSbam
+GithubAdvisories,[GHSA-jjrm-hr5f-673x] Source controller: Improper path handling allows traversal,https://github.com/advisories/GHSA-jjrm-hr5f-673x,https://da.gd/ANniP
+GithubAdvisories,[GHSA-wm5r-5qp3-5vxf] Authenticated Remote Code Execution via loadReader functionName code injection in DbGate,https://github.com/advisories/GHSA-wm5r-5qp3-5vxf,https://da.gd/krnt
+GithubAdvisories,"[GHSA-7p8g-6c6g-h9w7] praisonai-platform: Agent endpoints accept any agent_id without workspace ownership check, cross-workspace read/update/delete IDOR",https://github.com/advisories/GHSA-7p8g-6c6g-h9w7,https://da.gd/jumYmx
+GithubAdvisories,[GHSA-h535-j5hr-mv56] DbGate: Zip Slip in archive/unzip allows arbitrary file write leading to RCE,https://github.com/advisories/GHSA-h535-j5hr-mv56,https://da.gd/kP6r2L
+GithubAdvisories,[GHSA-8v3q-9vmx-36vc] DbGate: Unauthenticated Remote Code Execution via JSON Script Runner,https://github.com/advisories/GHSA-8v3q-9vmx-36vc,https://da.gd/9lO6
+GithubAdvisories,[GHSA-xxpj-q764-9r6q] NocoDB: Missing Ownership Check in MCP Attachment Read,https://github.com/advisories/GHSA-xxpj-q764-9r6q,https://da.gd/tkQ90
+GithubAdvisories,[GHSA-hj85-ph9q-78jg] NocoDB: Stored Cross-Site Scripting via Form View Redirect URL,https://github.com/advisories/GHSA-hj85-ph9q-78jg,https://da.gd/CtQhZ
+GithubAdvisories,[GHSA-8m7c-hf24-5g47] NocoDB: OAuth Authorization Code Race Condition,https://github.com/advisories/GHSA-8m7c-hf24-5g47,https://da.gd/nJuUdj
+GithubAdvisories,[GHSA-wvqj-9wv4-7ff5] NocoDB: Path Traversal via SQLite Source Filename,https://github.com/advisories/GHSA-wvqj-9wv4-7ff5,https://da.gd/x8Yqof
+GithubAdvisories,[GHSA-p8wx-5f39-w3x4] NocoDB: SQL Injection via Column Title in Bulk GroupBy,https://github.com/advisories/GHSA-p8wx-5f39-w3x4,https://da.gd/PAXzc
+GithubAdvisories,[GHSA-jf3g-4gwg-4h66] NocoDB: Stored Cross-Site Scripting via Row Comments,https://github.com/advisories/GHSA-jf3g-4gwg-4h66,https://da.gd/DQHnCa
+GithubAdvisories,[GHSA-w43h-r5m5-p832] NocoDB: Server-Side Request Forgery via Database Connection Host,https://github.com/advisories/GHSA-w43h-r5m5-p832,https://da.gd/7fYkhu
+GithubAdvisories,[GHSA-96fh-m4r8-6v9v] NocoDB: Cross-Workspace Integration Use in Connection Test,https://github.com/advisories/GHSA-96fh-m4r8-6v9v,https://da.gd/qP7Ayl
+GithubAdvisories,[GHSA-jr54-jwhj-55gp] NocoDB: User Enumeration via Sign-In Timing,https://github.com/advisories/GHSA-jr54-jwhj-55gp,https://da.gd/74AAj
+GithubAdvisories,[GHSA-qhxg-623c-cfjm] NocoDB: Plaintext Password Comparison in Shared Views,https://github.com/advisories/GHSA-qhxg-623c-cfjm,https://da.gd/NXVEdA
+GithubAdvisories,[GHSA-4w6r-5c2j-qf5f] NocoDB: Hidden Column Exposure in Public Shared View Endpoints,https://github.com/advisories/GHSA-4w6r-5c2j-qf5f,https://da.gd/QmhoIX
+GithubAdvisories,[GHSA-rvp5-9p55-f5rp] NocoDB: Open Redirect via Hash Fragment in hashRedirect Plugin,https://github.com/advisories/GHSA-rvp5-9p55-f5rp,https://da.gd/6HYXD
+GithubAdvisories,[GHSA-6xcx-7qmg-vjfq] NocoDB: Reflected Cross-Site Scripting via Password Reset Token,https://github.com/advisories/GHSA-6xcx-7qmg-vjfq,https://da.gd/oW7Lq
+GithubAdvisories,[GHSA-cxv7-gmmp-228p] NocoDB: Postgres SQL Injection in Formula `ARRAYSORT`,https://github.com/advisories/GHSA-cxv7-gmmp-228p,https://da.gd/jcXhw
+GithubAdvisories,[GHSA-9wgh-m22w-9xj8] NocoDB: Hidden LTAR Column Exposure in Public Shared-View Relation Endpoints,https://github.com/advisories/GHSA-9wgh-m22w-9xj8,https://da.gd/eflao
+GithubAdvisories,[GHSA-2r75-cxrj-cmph] wasmtime-wasi: WASI path_open(TRUNCATE) bypasses `FilePerms::WRITE` host restriction,https://github.com/advisories/GHSA-2r75-cxrj-cmph,https://da.gd/tIkja9
+GithubAdvisories,[GHSA-6mx4-4h42-r8vh] MCP Server Kubernetes: kubectl-generic flag injection enables Kubernetes bearer token exfiltration,https://github.com/advisories/GHSA-6mx4-4h42-r8vh,https://da.gd/Wc9JI
+GithubAdvisories,[GHSA-w342-mj6g-v9c4] Klever-Go KVM: Hash-array amplification in P2P resolver request handling,https://github.com/advisories/GHSA-w342-mj6g-v9c4,https://da.gd/xXWYG4
+GithubAdvisories,[GHSA-wv8c-6mx2-xf4j] Omni: Reader-level users can retrieve imported cluster CA keys via ResourceService,https://github.com/advisories/GHSA-wv8c-6mx2-xf4j,https://da.gd/ZFZudy
+GithubAdvisories,[GHSA-c66c-vq6w-fvh5] Omni: Operator can traverse image-factory API paths via unsanitized `talos_version` in CreateSchematic,https://github.com/advisories/GHSA-c66c-vq6w-fvh5,https://da.gd/88iTi
+GithubAdvisories,[GHSA-5x9f-6vg5-qg4m] Omni has a TOCTOU race condition that allows multiple concurrent uses of a single-use SAML session token,https://github.com/advisories/GHSA-5x9f-6vg5-qg4m,https://da.gd/25YFn
+GithubAdvisories,[GHSA-5549-c5q7-fj65] Vantage6: No limit on emails sent for password/MFA reset,https://github.com/advisories/GHSA-5549-c5q7-fj65,https://da.gd/yauQ9
+GithubAdvisories,[GHSA-4c5c-2vc3-x5w2] Vantage6: 2FA can be circumvented with hacked email access,https://github.com/advisories/GHSA-4c5c-2vc3-x5w2,https://da.gd/iDUvu
