@@ -1,0 +1,28 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-2g2g-8p8h-fgwm] Twig: XSS in profiler HtmlDumper via unescaped template and profile names,https://github.com/advisories/GHSA-2g2g-8p8h-fgwm,https://da.gd/GgiOv
+GithubAdvisories,[GHSA-pr2w-4gpj-cpq4] Twig: Sandbox: multiple `__toString()` policy bypasses via unguarded string coercion points,https://github.com/advisories/GHSA-pr2w-4gpj-cpq4,https://da.gd/KuCBJ
+GithubAdvisories,[GHSA-5x67-j5xg-c5gj] Bugsink: DOS using large numbers of event tags,https://github.com/advisories/GHSA-5x67-j5xg-c5gj,https://da.gd/qyCdp3
+GithubAdvisories,[GHSA-5389-f7vh-wxj8] Bugsink: Project scoping missing in sourcemap and debug-file lookup,https://github.com/advisories/GHSA-5389-f7vh-wxj8,https://da.gd/hjc7Y
+GithubAdvisories,[GHSA-g5vc-q7qc-v939] Bugsink: Issue bulk actions can affect another project’s issue if its UUID is known,https://github.com/advisories/GHSA-g5vc-q7qc-v939,https://da.gd/4ceB92
+GithubAdvisories,[GHSA-vx2f-6m6h-9frf] Bugsink: Issue event views can show an event from another project if its UUID is known,https://github.com/advisories/GHSA-vx2f-6m6h-9frf,https://da.gd/OewyHP
+GithubAdvisories,[GHSA-rgxp-2hwp-jwgg] Apache Arrow: Potential use-after-free when reading IPC file with pre-buffering,https://github.com/advisories/GHSA-rgxp-2hwp-jwgg,https://da.gd/TgnYM
+GithubAdvisories,[GHSA-2q52-x2ff-qgfr] Twig: Possible sandbox bypass when using a source policy,https://github.com/advisories/GHSA-2q52-x2ff-qgfr,https://da.gd/UNl2FE
+GithubAdvisories,[GHSA-c3qp-2ggw-xjg7] Shopper: Authorization bypass and RBAC privilege escalation in team settings,https://github.com/advisories/GHSA-c3qp-2ggw-xjg7,https://da.gd/WeWx8
+GithubAdvisories,[GHSA-hr9v-r8r2-hg7j] Shopper: Multiple data integrity and disclosure issues in admin Livewire components,https://github.com/advisories/GHSA-hr9v-r8r2-hg7j,https://da.gd/Bzv6z
+GithubAdvisories,"[GHSA-fxqw-97cc-7g5c] Shopper: Missing per-action authorization on PaymentMethods, Currencies and Carriers admin tables",https://github.com/advisories/GHSA-fxqw-97cc-7g5c,https://da.gd/ZvoMF
+GithubAdvisories,[GHSA-h4mp-g9c6-xwph] Shopper: Missing authorization on Product admin Livewire sub-form components,https://github.com/advisories/GHSA-h4mp-g9c6-xwph,https://da.gd/7BkJ9
+GithubAdvisories,[GHSA-vg35-5wq7-3x7w] TinyMCE Cross-Site Scripting (XSS) vulnerability using media plugin `data-mce-object` injection,https://github.com/advisories/GHSA-vg35-5wq7-3x7w,https://da.gd/LVjzn
+GithubAdvisories,[GHSA-v98h-vmpc-fpqv] TinyMCE Cross-Site Scripting (XSS) vulnerability through `mce:protected` comments,https://github.com/advisories/GHSA-v98h-vmpc-fpqv,https://da.gd/LzTDM
+GithubAdvisories,"[GHSA-q742-qvgc-gc2f] TinyMCE Cross-Site Scripting (XSS) vulnerability using through data-mce- prefixed src, href, style attributes",https://github.com/advisories/GHSA-q742-qvgc-gc2f,https://da.gd/nLh2s
+GithubAdvisories,[GHSA-pqhp-4xfc-hjgq] Couchbase Sync Gateway shows cleartext passwords in redacted and unredacted output,https://github.com/advisories/GHSA-pqhp-4xfc-hjgq,https://da.gd/QL4Eae
+GithubAdvisories,[GHSA-mh5m-5hw4-5c69] TinyMCE Cross-Site Scripting (XSS) vulnerability using sanitization bypass through nested SVGs,https://github.com/advisories/GHSA-mh5m-5hw4-5c69,https://da.gd/2c5ng
+GithubAdvisories,[GHSA-wx3m-whqv-xv47] skillctl: Path traversal and symlink-follow in skillctl allow arbitrary file disclosure and deletion,https://github.com/advisories/GHSA-wx3m-whqv-xv47,https://da.gd/Em38iN
+GithubAdvisories,[GHSA-f3cj-mjqm-fhvj] Drupal core is Vulnerable to Cross-Site Scripting,https://github.com/advisories/GHSA-f3cj-mjqm-fhvj,https://da.gd/qC5bAf
+GithubAdvisories,[GHSA-pw6f-3999-xp7g] Drupal core allows Cross-Site Scripting (XSS),https://github.com/advisories/GHSA-pw6f-3999-xp7g,https://da.gd/UjB0T
+GithubAdvisories,[GHSA-xmjc-63pr-2mpg] Drupal core allows Object Injection,https://github.com/advisories/GHSA-xmjc-63pr-2mpg,https://da.gd/fWe8h
+GithubAdvisories,[GHSA-p462-prxw-mjx4] NASA AMMOS Instrument Toolkit: Path traversal resulting in arbitrary file append (can be triggered over the network by unauthenticated attacker),https://github.com/advisories/GHSA-p462-prxw-mjx4,https://da.gd/PndZ8
+GithubAdvisories,[GHSA-q7c8-gfjh-8v4p] Free5gc NRF is vulnerable to scope validation bypass via maliciously crafted targetNF value,https://github.com/advisories/GHSA-q7c8-gfjh-8v4p,https://da.gd/1SAke
+GithubAdvisories,[GHSA-qh7q-6qm3-653w] Jupyter Server has an open redirection vulnerability in `next` query parameter,https://github.com/advisories/GHSA-qh7q-6qm3-653w,https://da.gd/DMHP4j
+GithubAdvisories,[GHSA-7h2m-m8vj-598h] Django Uses Persistent Cookies Containing Sensitive Information,https://github.com/advisories/GHSA-7h2m-m8vj-598h,https://da.gd/0hZaih
+GithubAdvisories,[GHSA-98h9-4798-4q5v] Diffusers has a `trust_remote_code` bypass via `custom_pipeline` and local custom components,https://github.com/advisories/GHSA-98h9-4798-4q5v,https://da.gd/uxqA55
+GithubAdvisories,[GHSA-j7w6-vpvq-j3gm] Diffusers has a `trust_remote_code` bypass via `custom_pipeline` and local custom components,https://github.com/advisories/GHSA-j7w6-vpvq-j3gm,https://da.gd/pOhsqC
