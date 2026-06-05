@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8757-69j2-hx56] changedetection.io has an Arbitrary Local File Read via a crafted backup restore,https://github.com/advisories/GHSA-8757-69j2-hx56,https://da.gd/Rsf3u
+GithubAdvisories,[GHSA-x4gw-cjrp-c89f] Malware in reactvora,https://github.com/advisories/GHSA-x4gw-cjrp-c89f,https://da.gd/8mcs02
+GithubAdvisories,[GHSA-xccp-97wp-3gjg] Apache Airflow Providers OpenSearch: OpenSearch task-log handler leaks credentials embedded in the host URL,https://github.com/advisories/GHSA-xccp-97wp-3gjg,https://da.gd/0Q0va
+GithubAdvisories,[GHSA-g3jr-4jrm-jvqv] Apache Airflow Providers Elasticsearch: Elasticsearch task-log handlers leak credentials embedded in the host URL,https://github.com/advisories/GHSA-g3jr-4jrm-jvqv,https://da.gd/vFx2Q
+GithubAdvisories,[GHSA-crmx-4p49-46m2] MantisBT: Bugnote Revision Page Leaks Private Issue Metadata After Issue Access Is Revoked,https://github.com/advisories/GHSA-crmx-4p49-46m2,https://da.gd/rJDrGW
+GithubAdvisories,[GHSA-h4x5-gvx6-3rwc] MantisBT has an Authorization Bypass that Allows Uploading Attachments to Private Issues via REST API,https://github.com/advisories/GHSA-h4x5-gvx6-3rwc,https://da.gd/r493r6
+GithubAdvisories,[GHSA-rmp5-5jj7-gmvf] MantisBT has an authorization bypass that allows reading attachments after losing access to a private issue,https://github.com/advisories/GHSA-rmp5-5jj7-gmvf,https://da.gd/EsN7jm
+GithubAdvisories,[GHSA-ggw7-9675-6v4v] MantisBT has an authorization bypass in private issue monitoring,https://github.com/advisories/GHSA-ggw7-9675-6v4v,https://da.gd/2SpLrd
+GithubAdvisories,[GHSA-fvjf-68wh-rwp2] MantisBT is Vulnerable to Stored HTML Injection/XSS in Clone Issue Form,https://github.com/advisories/GHSA-fvjf-68wh-rwp2,https://da.gd/XQ4bb
+GithubAdvisories,[GHSA-frf7-jhp9-jxm6] MantisBT Vulnerable to Privilege Escalation from Manager to Administrator,https://github.com/advisories/GHSA-frf7-jhp9-jxm6,https://da.gd/3Zsaw
+GithubAdvisories,[GHSA-c988-j68q-h8h4] Malware in glyphr,https://github.com/advisories/GHSA-c988-j68q-h8h4,https://da.gd/DgJFs
+GithubAdvisories,[GHSA-v7mj-pmr3-7x4p] Malware in react-ui-polyfills,https://github.com/advisories/GHSA-v7mj-pmr3-7x4p,https://da.gd/FvG9fU
