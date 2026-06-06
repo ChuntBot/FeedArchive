@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-5hrc-gvxj-w55p] Django Uses Cache Containing Sensitive Information,https://github.com/advisories/GHSA-5hrc-gvxj-w55p,https://da.gd/EBmuO4
+GithubAdvisories,[GHSA-w26r-rmm8-9c29] Django has an Improper Handling of Length Parameter Inconsistency,https://github.com/advisories/GHSA-w26r-rmm8-9c29,https://da.gd/DbAK95
+GithubAdvisories,[GHSA-64cv-vxpr-j6vc] edx-enterprise has SSRF via SAML metadata URL in sync_provider_data endpoint,https://github.com/advisories/GHSA-64cv-vxpr-j6vc,https://da.gd/USypVf
+GithubAdvisories,[GHSA-5mrq-x3x5-8v8f] Jupyter Server's Authentication Cookies Remain Valid After Password Reset and Server Restart,https://github.com/advisories/GHSA-5mrq-x3x5-8v8f,https://da.gd/2Veqa
+GithubAdvisories,[GHSA-5789-5fc7-67v3] Jupyter Server: Path Traversal via incorrect startswith() root directory check allows access to sibling directories,https://github.com/advisories/GHSA-5789-5fc7-67v3,https://da.gd/1EmtzL
