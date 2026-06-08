@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,"[GHSA-g868-j3qm-4j28] georgringer/news has SQL Injection in extension ""News system"" (news)",https://github.com/advisories/GHSA-g868-j3qm-4j28,https://da.gd/KgWxR
+GithubAdvisories,[GHSA-3rf6-x59v-5jfv] dash-uploader has a directory traversal vulnerability,https://github.com/advisories/GHSA-3rf6-x59v-5jfv,https://da.gd/GACb0
+GithubAdvisories,[GHSA-w8p2-r796-3vmq] Authlib OAuth 2.0 has Open Redirect in Authorization API that allows attacker-controlled redirect_uri through unsupported response_type,https://github.com/advisories/GHSA-w8p2-r796-3vmq,https://da.gd/ZTlQN
