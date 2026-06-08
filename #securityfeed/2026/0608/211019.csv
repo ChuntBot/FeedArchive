@@ -1,0 +1,19 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-xh5j-727m-w6gg] Budibase vulnerable to SSRF via trivial `.tar.gz` substring bypass in Plugin URL upload (`/api/plugin`),https://github.com/advisories/GHSA-xh5j-727m-w6gg,https://da.gd/wIzO0i
+GithubAdvisories,[GHSA-27w2-87xv-37c6] nimiq-keys: Unchecked Ed25519 signature length in TaggedPublicKey::verify causes remote node panic via DHT,https://github.com/advisories/GHSA-27w2-87xv-37c6,https://da.gd/xT7zO
+GithubAdvisories,[GHSA-qj6w-v29q-4rgx] MantisBT is Vulnerable to Stored XSS in Custom Field Textarea Values,https://github.com/advisories/GHSA-qj6w-v29q-4rgx,https://da.gd/3ANCFz
+GithubAdvisories,[GHSA-5vpg-rj7q-qpw2] Yii 2: Local file inclusion via view parameter name collision,https://github.com/advisories/GHSA-5vpg-rj7q-qpw2,https://da.gd/VssRMh
+GithubAdvisories,[GHSA-2g4x-fq3j-cgq4] Dalfox has an Unauthenticated Remote DoS via Closed-Channel Write in `ParameterAnalysis` (server mode),https://github.com/advisories/GHSA-2g4x-fq3j-cgq4,https://da.gd/iSv7
+GithubAdvisories,[GHSA-3258-qmv8-frp3] free5GC's SMF UPI management interface lacks auth middleware; unauthenticated topology read/write requests reach handlers,https://github.com/advisories/GHSA-3258-qmv8-frp3,https://da.gd/x0JvRQ
+GithubAdvisories,[GHSA-27ph-8q4f-h7m7] free5GC's BSF concurrent PUT /nbsf-management/v1/subscriptions/{subId} crashes the BSF process via concurrent map read/write on Subscriptions,https://github.com/advisories/GHSA-27ph-8q4f-h7m7,https://da.gd/ax3H5
+GithubAdvisories,[GHSA-wqpv-c3pp-3m58] OpenStack Ironic is Vulnerable to Inclusion of Functionality from Untrusted Control Sphere,https://github.com/advisories/GHSA-wqpv-c3pp-3m58,https://da.gd/wj7Bq
+GithubAdvisories,[GHSA-grgv-6hw6-v9g4] Twisted has a Denial of Service (DoS) in twisted.names via Crafted DNS Compression Pointer Chains,https://github.com/advisories/GHSA-grgv-6hw6-v9g4,https://da.gd/rjA0c
+GithubAdvisories,[GHSA-67rv-mg8q-5pf3] Wagtail has improper permission handling when copying pages,https://github.com/advisories/GHSA-67rv-mg8q-5pf3,https://da.gd/L3N6I4
+GithubAdvisories,[GHSA-p5gm-92h4-6pv6] Wagtail has improper restriction handling on Documents and Images API,https://github.com/advisories/GHSA-p5gm-92h4-6pv6,https://da.gd/HhiHz
+GithubAdvisories,[GHSA-pwm3-7fv4-g6xx] Wagtail has improper permission handling when deleting form submissions,https://github.com/advisories/GHSA-pwm3-7fv4-g6xx,https://da.gd/RmziG
+GithubAdvisories,[GHSA-c4mr-889m-vgf6] Wagtail has improper permission handling when viewing page history,https://github.com/advisories/GHSA-c4mr-889m-vgf6,https://da.gd/pxuw4
+GithubAdvisories,[GHSA-c6wj-9vcj-75pj] Wagtail has improper permission handling when comparing revisions,https://github.com/advisories/GHSA-c6wj-9vcj-75pj,https://da.gd/il8L18
+GithubAdvisories,[GHSA-83vm-p52w-f9pw] vLLM: extract_hidden_states speculative decoding crashes server on any request with penalty parameters,https://github.com/advisories/GHSA-83vm-p52w-f9pw,https://da.gd/kLzrY3
+GithubAdvisories,[GHSA-mf9v-mfxr-j63j] urllib3: Decompression-bomb safeguards bypassed in parts of the streaming API,https://github.com/advisories/GHSA-mf9v-mfxr-j63j,https://da.gd/vcvh7R
+GithubAdvisories,[GHSA-838g-gr43-qqg9] PyLoad vulnerable to Path Traversal via Package Folder Name in set_package_data,https://github.com/advisories/GHSA-838g-gr43-qqg9,https://da.gd/Y6ZAf
+GithubAdvisories,[GHSA-97r3-5w84-r4q8] PyLoad Vulnerable to Path Traversal via Package Folder Name,https://github.com/advisories/GHSA-97r3-5w84-r4q8,https://da.gd/zMVruP
