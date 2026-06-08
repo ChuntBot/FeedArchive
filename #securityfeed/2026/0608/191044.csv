@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-cc37-9q2j-3hfv] Netty: HAProxy SSL TLV parsing leaks retained slice on invalid TLV length,https://github.com/advisories/GHSA-cc37-9q2j-3hfv,https://da.gd/zF72Zo
+GithubAdvisories,[GHSA-c2rx-5r8w-8xr2] Netty has a Vulnerable Default Configuration Which Leads to Denial of Service via Unbounded HTTP/3 Header Size,https://github.com/advisories/GHSA-c2rx-5r8w-8xr2,https://da.gd/D8Ux97
+GithubAdvisories,[GHSA-6ghj-frrj-jjj3] Netty has Unbounded Direct Memory Consumption in its RedisDecoder,https://github.com/advisories/GHSA-6ghj-frrj-jjj3,https://da.gd/fREW86
+GithubAdvisories,[GHSA-3244-j874-rhc2] Netty: Memory Exhaustion in RedisArrayAggregator due to Deeply Nested Arrays,https://github.com/advisories/GHSA-3244-j874-rhc2,https://da.gd/K6lPY6
+GithubAdvisories,[GHSA-3qp7-7mw8-wx86] Netty has an IPv6 Subnet Filter Bypass via Incorrect Comparator Masking,https://github.com/advisories/GHSA-3qp7-7mw8-wx86,https://da.gd/xUfP9W
