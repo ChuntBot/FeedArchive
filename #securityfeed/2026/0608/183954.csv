@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-68j8-pq59-fqgm] NLTK has a Path Traversal issue,https://github.com/advisories/GHSA-68j8-pq59-fqgm,https://da.gd/RjWV24
+GithubAdvisories,[GHSA-mgx6-5cf9-rr43] Keras vulnerable to DoS via Malicious .keras Model (HDF5 Shape Bomb Causes Petabyte Allocation in KerasFileEditor),https://github.com/advisories/GHSA-mgx6-5cf9-rr43,https://da.gd/btLvsY
+GithubAdvisories,[GHSA-7rvm-xjpp-63r9] actual Allows Electron to Run As Node,https://github.com/advisories/GHSA-7rvm-xjpp-63r9,https://da.gd/hCNocI
