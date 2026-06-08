@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-hw9r-6m78-w6h3] GeoNode contains a server-side request forgery vulnerability in the service registration endpoint,https://github.com/advisories/GHSA-hw9r-6m78-w6h3,https://da.gd/e1tNn5
+GithubAdvisories,[GHSA-v8f7-cg9p-w5jx] Duplicate Advisory: GeoNode contains a server-side request forgery vulnerability in the service registration endpoint,https://github.com/advisories/GHSA-v8f7-cg9p-w5jx,https://da.gd/S7LHjC
