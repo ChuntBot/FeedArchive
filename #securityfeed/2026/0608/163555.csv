@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GithubAdvisories,[GHSA-8rm2-7qqf-34qm] Prometheus: Remote read endpoint allows denial of service via crafted snappy payload,https://github.com/advisories/GHSA-8rm2-7qqf-34qm,https://da.gd/58HBML
+GithubAdvisories,[GHSA-ffh4-j6h5-pg66] VM2 Has a WASM Sandbox Escape,https://github.com/advisories/GHSA-ffh4-j6h5-pg66,https://da.gd/0ns2y
