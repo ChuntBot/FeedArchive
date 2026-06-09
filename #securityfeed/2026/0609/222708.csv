@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+FreeBSDSecurityNotice,FreeBSD-EN-26:15.openssl,https://www.freebsd.org/security/advisories/FreeBSD-EN-26:15.openssl.asc,https://da.gd/Gp4nk
+FreeBSDSecurityNotice,FreeBSD-EN-26:14.syslogd,https://www.freebsd.org/security/advisories/FreeBSD-EN-26:14.syslogd.asc,https://da.gd/oGywZ
+FreeBSDSecurityNotice,FreeBSD-SA-26:36.ldns,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:36.ldns.asc,https://da.gd/D78Rzu
+FreeBSDSecurityNotice,FreeBSD-SA-26:35.openssl,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:35.openssl.asc,https://da.gd/sLg2ro
+FreeBSDSecurityNotice,FreeBSD-SA-26:34.vt,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:34.vt.asc,https://da.gd/WZyDa
+FreeBSDSecurityNotice,FreeBSD-SA-26:33.unbound,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:33.unbound.asc,https://da.gd/fTjfa
+FreeBSDSecurityNotice,FreeBSD-SA-26:32.elf,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:32.elf.asc,https://da.gd/VfeHNC
+FreeBSDSecurityNotice,FreeBSD-SA-26:31.arm64,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:31.arm64.asc,https://da.gd/mCRyOs
+FreeBSDSecurityNotice,FreeBSD-SA-26:30.linux,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:30.linux.asc,https://da.gd/Fs45zG
+FreeBSDSecurityNotice,FreeBSD-SA-26:29.ip6_multicast,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:29.ip6_multicast.asc,https://da.gd/jaBdt
+FreeBSDSecurityNotice,FreeBSD-SA-26:28.capsicum,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:28.capsicum.asc,https://da.gd/MPKJan
+FreeBSDSecurityNotice,FreeBSD-SA-26:27.sound,https://www.freebsd.org/security/advisories/FreeBSD-SA-26:27.sound.asc,https://da.gd/glptr
