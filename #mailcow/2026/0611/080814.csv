@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+GithubCommitStaging,[SOGo] Update to 5.12.9,https://github.com/mailcow/mailcow-dockerized/commit/23e4e4f3739549d43a8f7ea3ae1bc03874c775aa,https://da.gd/myLj8
+GithubCommitStaging,Update dependency composer/composer to v2.10.1,https://github.com/mailcow/mailcow-dockerized/commit/843db5854c2dd9d85f89cd35cde6361f43d9a999,https://da.gd/n4TR9
+GithubCommitStaging,Fix force_tfa not available in mailbox template #7216,https://github.com/mailcow/mailcow-dockerized/commit/0fafda696bc9ee997e3c2a368b28f4600037aaca,https://da.gd/qJwhvg
+GithubCommitStaging,Refresh SOGo view after mailbox activation,https://github.com/mailcow/mailcow-dockerized/commit/cce02e2b15ae96984803cc5a1906b0a8d268e587,https://da.gd/bXUys2
+GithubCommitStaging,[Rspamd] Migrate metadata_exporter to multipart formatter,https://github.com/mailcow/mailcow-dockerized/commit/24cc369d84935428f58a4c6bef5b18a58ad248ed,https://da.gd/hZVS2c
+GithubCommitStaging,Merge pull request #7283 from mailcow/feat/update-metadata-exporter,https://github.com/mailcow/mailcow-dockerized/commit/9ea2ff1dff6d38b24a35389f3705be1fc714210b,https://da.gd/yXKFy7
+GithubCommitStaging,Merge pull request #7277 from ibobgunardi/bobi/mailcow-7136-sogo-acti…,https://github.com/mailcow/mailcow-dockerized/commit/d455555621c73649f37ac9aa6b2fd4516251f325,https://da.gd/OIMEYs
+GithubCommitStaging,[Web] Fix refresh SOGo view on mailbox deletion,https://github.com/mailcow/mailcow-dockerized/commit/277a307fb91f701f2f2619debd50ec183ca34192,https://da.gd/EqJS
+GithubCommitStaging,Merge pull request #7275 from Snafu/fix/admin-mailbox-tfa-missing,https://github.com/mailcow/mailcow-dockerized/commit/2d8db72d464485ae802efe87ab91deb05642fb26,https://da.gd/CpT7R7
+GithubCommitStaging,Merge pull request #7267 from goodygh/7249-update-sogo,https://github.com/mailcow/mailcow-dockerized/commit/ecc2462e4c78762e7ef641ff52a806fae853c514,https://da.gd/a2lfZ
+GithubCommitStaging,Merge pull request #7212 from mailcow/mkuron-patch-mobileconfig,https://github.com/mailcow/mailcow-dockerized/commit/2bd7a24b8c6e888f773598d92261ca5b12db2412,https://da.gd/EJiI
+GithubCommitStaging,Merge pull request #7189 from mailcow/renovate/php-pecl-mail-mailpars…,https://github.com/mailcow/mailcow-dockerized/commit/064817ac70f7264cbebadeeea8cae030524edc27,https://da.gd/aGGFe
+GithubCommitStaging,Merge pull request #7193 from mailcow/renovate/composer-composer-2.x,https://github.com/mailcow/mailcow-dockerized/commit/83a045ed3e5e6205b3b8da6cf474f8d66e10f5bc,https://da.gd/7RjnoZ
